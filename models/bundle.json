@@ -1,0 +1,28 @@
+{
+  "feature_cols": [
+    "t2_frontline_bowlers",
+    "t2_xi_not_out_pct",
+    "t1_top_bat_avg",
+    "t2_powerplay_bowl_dot_pct",
+    "h2h_t1_win_rate",
+    "t1_xi_bowl_wkts",
+    "t1_set_win_rate",
+    "diff_frontline_bowlers",
+    "diff_xi_not_out_pct",
+    "t2_season_chase_win_rate",
+    "diff_win_rate_last10",
+    "t2_elo",
+    "diff_powerplay_bowl_bound_pct",
+    "diff_days_rest"
+  ],
+  "model_type": "scaled_lr",
+  "lr_C": 0.1,
+  "min_train_season": 2018,
+  "covid_seasons": [
+    2020,
+    2021
+  ],
+  "impact_era_boost": 3.0,
+  "half_life": 2.0,
+  "latest_train_season": 2025
+}
