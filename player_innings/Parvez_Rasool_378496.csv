@@ -1,0 +1,72 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+378496,Parvez Rasool,20 Oct 2011,v Services,Rohtak,2,4,1,4,2,0,0,50,caught,1,4.0,0,19,1,4.75
+378496,Parvez Rasool,21 Oct 2011,v Delhi,Rohtak,1,4,32,42,39,4,0,82.05,bowled,2,4.0,0,25,1,6.25
+378496,Parvez Rasool,22 Oct 2011,v Haryana,Rohtak,1,3,1,13,9,0,0,11.11,caught,2,3.0,0,10,0,3.33
+378496,Parvez Rasool,24 Oct 2011,v Himachal,Rohtak,2,4,10,26,20,0,0,50,caught,1,3.0,0,27,1,9
+378496,Parvez Rasool,25 Oct 2011,v Punjab,Rohtak,1,6,25,30,24,1,1,104.16,caught,2,4.0,0,21,1,5.25
+378496,Parvez Rasool,18 Mar 2013,v Services,Rohtak,1,5,15,17,20,2,0,75,stumped,2,4.0,0,14,1,3.5
+378496,Parvez Rasool,19 Mar 2013,v Punjab,Gurgaon,2,4,3,8,5,0,0,60,run out,1,4.0,0,31,0,7.75
+378496,Parvez Rasool,20 Mar 2013,v Delhi,Gurgaon,2,5,26,37,29,2,0,89.65,caught,1,4.0,0,22,0,5.5
+378496,Parvez Rasool,21 Mar 2013,v Himachal,Gurgaon,1,4,44*,59,44,3,1,100,not out,2,4.0,0,29,1,7.25
+378496,Parvez Rasool,22 Mar 2013,v Haryana,Rohtak,1,4,16,-,12,2,1,133.33,caught,2,4.0,0,28,0,7
+378496,Parvez Rasool,9 May 2013,v KKR,Pune,2,10,1,3,4,0,0,25,caught,1,4.0,0,23,1,5.75
+378496,Parvez Rasool,11 May 2013,v MI,Pune,1,8,4*,12,5,0,0,80,not out,2,1.0,0,5,0,5
+378496,Parvez Rasool,1 Apr 2014,v Services,Chandigarh,1,4,5,12,10,0,0,50,bowled,2,4.0,0,23,0,5.75
+378496,Parvez Rasool,2 Apr 2014,v Delhi,Chandigarh,1,4,44,59,38,3,1,115.78,bowled,2,4.0,0,34,0,8.5
+378496,Parvez Rasool,3 Apr 2014,v Haryana,Chandigarh,1,5,35,42,31,4,0,112.9,lbw,2,4.0,0,21,0,5.25
+378496,Parvez Rasool,4 Apr 2014,v Himachal,Mohali,2,5,3,6,6,0,0,50,caught,1,4.0,0,20,2,5
+378496,Parvez Rasool,5 Apr 2014,v Punjab,Mohali,2,4,52,61,39,4,2,133.33,stumped,1,4.0,0,17,3,4.25
+378496,Parvez Rasool,20 May 2014,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+378496,Parvez Rasool,22 May 2014,v CSK,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+378496,Parvez Rasool,24 May 2014,v KKR,Eden Gardens,1,9,0*,1,0,0,0,-,not out,2,1.0,0,22,0,22
+378496,Parvez Rasool,24 Mar 2015,v Delhi,Delhi,2,4,10,5,7,2,0,142.85,lbw,1,4.0,0,22,1,5.5
+378496,Parvez Rasool,25 Mar 2015,v Services,Delhi,1,4,0,3,4,0,0,0,caught,2,4.0,0,11,1,2.75
+378496,Parvez Rasool,26 Mar 2015,v Punjab,Delhi,2,4,26,22,17,3,1,152.94,caught,1,4.0,0,32,1,8
+378496,Parvez Rasool,27 Mar 2015,v Himachal,Delhi,2,3,31,32,26,3,1,119.23,caught,1,4.0,0,39,0,9.75
+378496,Parvez Rasool,28 Mar 2015,v Haryana,Delhi,2,4,5,5,6,1,0,83.33,caught,1,4.0,0,31,2,7.75
+378496,Parvez Rasool,11 Apr 2015,v CSK,Chennai,2,8,2*,4,2,0,0,100,not out,1,1.0,0,11,0,11
+378496,Parvez Rasool,9 May 2015,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+378496,Parvez Rasool,2 Jan 2016,v Kerala,Kochi,1,6,34*,39,26,2,2,130.76,not out,2,4.0,0,12,0,3
+378496,Parvez Rasool,3 Jan 2016,v Punjab,Kochi,1,6,2,5,8,0,0,25,stumped,2,4.0,0,25,1,6.25
+378496,Parvez Rasool,4 Jan 2016,v Saurashtra,Kochi,2,6,6,9,8,0,0,75,bowled,1,4.0,0,39,2,9.75
+378496,Parvez Rasool,6 Jan 2016,v Tripura,Kochi,1,4,2,5,5,0,0,40,caught,2,4.0,0,25,3,6.25
+378496,Parvez Rasool,7 Jan 2016,v Jharkhand,Kochi,2,5,7,15,12,0,0,58.33,caught,1,4.0,0,33,0,8.25
+378496,Parvez Rasool,10 Jan 2016,v Rajasthan,Kochi,2,4,26,30,25,3,0,104,caught,1,4.0,0,49,1,12.25
+378496,Parvez Rasool,12 Apr 2016,v SRH,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+378496,Parvez Rasool,17 Apr 2016,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+378496,Parvez Rasool,30 Apr 2016,v SRH,Hyderabad,2,7,10,13,9,1,0,111.11,caught,1,4.0,0,33,0,8.25
+378496,Parvez Rasool,7 May 2016,v Supergiants,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+378496,Parvez Rasool,26 Jan 2017,v England,Kanpur,1,8,5,15,6,0,0,83.33,run out,2,4.0,0,32,1,8
+378496,Parvez Rasool,12 Feb 2017,v South Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+378496,Parvez Rasool,13 Feb 2017,v West Zone,Wankhede,1,6,5,9,9,0,0,55.55,caught,2,2.0,0,7,1,3.5
+378496,Parvez Rasool,16 Feb 2017,v East Zone,Wankhede,1,6,0,3,2,0,0,0,hit wicket,2,1.0,0,11,0,11
+378496,Parvez Rasool,8 Jan 2018,v Services,Delhi,1,4,20,20,18,1,1,111.11,bowled,2,4.0,0,19,0,4.75
+378496,Parvez Rasool,9 Jan 2018,v Himachal,Delhi,2,4,7,21,17,0,0,41.17,caught,1,4.0,0,15,2,3.75
+378496,Parvez Rasool,12 Jan 2018,v Delhi,Delhi,1,5,37,35,26,6,0,142.3,caught,2,4.0,0,41,2,10.25
+378496,Parvez Rasool,13 Jan 2018,v Haryana,Delhi,2,5,1,3,1,0,0,100,run out,1,4.0,0,17,2,4.25
+378496,Parvez Rasool,14 Jan 2018,v Punjab,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+378496,Parvez Rasool,21 Feb 2019,v Nagaland,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+378496,Parvez Rasool,22 Feb 2019,v Jharkhand,Mulapadu,1,5,24,16,13,2,1,184.61,caught,2,4.0,0,39,0,9.75
+378496,Parvez Rasool,24 Feb 2019,v Delhi,Mulapadu,1,6,17,17,7,0,2,242.85,bowled,2,4.0,0,17,0,4.25
+378496,Parvez Rasool,25 Feb 2019,v Andhra,Mulapadu,2,5,31,38,22,1,2,140.9,caught,1,4.0,0,19,1,4.75
+378496,Parvez Rasool,27 Feb 2019,v Kerala,Mulapadu,2,-,absent,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+378496,Parvez Rasool,12 Nov 2019,v Odisha,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+378496,Parvez Rasool,14 Nov 2019,v Delhi,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+378496,Parvez Rasool,15 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+378496,Parvez Rasool,17 Nov 2019,v Saurashtra,Surat,2,5,59*,-,40,4,3,147.5,not out,1,4.0,0,22,0,5.5
+378496,Parvez Rasool,18 Nov 2019,v Gujarat,Surat,1,4,2,-,3,0,0,66.66,caught,2,4.0,0,32,1,8
+378496,Parvez Rasool,10 Jan 2021,v Karnataka,Alur,2,5,5,-,8,0,0,62.5,stumped,1,4.0,0,18,2,4.5
+378496,Parvez Rasool,12 Jan 2021,v Tripura,Alur (2),2,5,19*,-,17,2,0,111.76,not out,1,4.0,0,30,1,7.5
+378496,Parvez Rasool,14 Jan 2021,v UP,Alur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+378496,Parvez Rasool,16 Jan 2021,v Punjab,Alur (3),1,4,9,-,4,2,0,225,caught,2,4.0,0,29,0,7.25
+378496,Parvez Rasool,18 Jan 2021,v Railways,Alur,2,5,7*,-,4,1,0,175,not out,1,4.0,0,19,2,4.75
+378496,Parvez Rasool,4 Nov 2021,v Andhra,Vadodara,2,7,22*,28,18,2,1,122.22,not out,1,4.0,0,22,0,5.5
+378496,Parvez Rasool,5 Nov 2021,v Rajasthan,Vadodara,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+378496,Parvez Rasool,6 Nov 2021,v Haryana,Vadodara,2,5,34*,40,31,3,0,109.67,not out,1,4.0,0,18,3,4.5
+378496,Parvez Rasool,8 Nov 2021,v Himachal,Vadodara,2,3,0,8,3,0,0,0,caught,1,4.0,0,11,2,2.75
+378496,Parvez Rasool,9 Nov 2021,v Jharkhand,Vadodara,1,6,14,-,11,2,0,127.27,run out,2,4.0,0,24,1,6
+378496,Parvez Rasool,11 Oct 2022,v Meghalaya,Mohali,1,-,DNB,-,-,-,-,-,-,2,1.0,0,18,0,18
+378496,Parvez Rasool,12 Oct 2022,v Arunachal,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,7,1,2.33
+378496,Parvez Rasool,14 Oct 2022,v Maharashtra,Mohali,1,6,15*,-,12,2,0,125,not out,2,2.3,0,23,2,9.2
+378496,Parvez Rasool,16 Oct 2022,v Karnataka,New Chandigarh,2,5,0,-,5,0,0,0,caught,1,4.0,0,16,1,4
+378496,Parvez Rasool,18 Oct 2022,v Haryana,New Chandigarh,1,5,29,-,26,0,2,111.53,bowled,2,4.0,0,22,0,5.5

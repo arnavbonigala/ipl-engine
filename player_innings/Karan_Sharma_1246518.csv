@@ -1,0 +1,34 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1246518,Karan Sharma,10 Jan 2021,v Punjab,Alur (2),2,6,3,-,4,0,0,75,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,12 Jan 2021,v Railways,Alur (3),1,1,55,-,30,6,3,183.33,run out,2,DNB,-,-,-,-
+1246518,Karan Sharma,14 Jan 2021,v J & K,Alur,1,1,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,16 Jan 2021,v Tripura,Alur,2,2,68*,-,36,6,4,188.88,not out,1,4.0,0,21,0,5.25
+1246518,Karan Sharma,18 Jan 2021,v Karnataka,Alur (3),1,2,41,-,29,2,3,141.37,caught,2,4.0,0,23,2,5.75
+1246518,Karan Sharma,4 Nov 2021,v Chandigarh,Sultanpur,1,3,60,67,50,6,1,120,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,5 Nov 2021,v Saurashtra,Sultanpur,2,3,15,25,13,2,0,115.38,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,6 Nov 2021,v Delhi,Rohtak,1,3,1,11,3,0,0,33.33,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,8 Nov 2021,v Uttarakhand,Sultanpur,2,3,52,64,49,6,0,106.12,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,9 Nov 2021,v Hyderabad,Sultanpur,2,4,5,-,3,1,0,166.66,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,10 May 2022,v GT,Pune,2,4,4,6,4,1,0,100,caught,1,DNB,-,-,-,-
+1246518,Karan Sharma,11 Oct 2022,v Puducherry,Jaipur,2,1,41*,-,41,1,1,100,not out,1,3.0,0,18,0,6
+1246518,Karan Sharma,12 Oct 2022,v Tripura,Jaipur,1,1,12,-,10,0,1,120,caught,2,4.0,0,28,2,7
+1246518,Karan Sharma,14 Oct 2022,v Delhi,Jaipur,2,1,52*,-,50,4,2,104,not out,1,1.0,0,6,1,6
+1246518,Karan Sharma,16 Oct 2022,v Manipur,Jaipur,2,1,79*,-,41,7,5,192.68,not out,1,3.0,0,16,1,5.33
+1246518,Karan Sharma,18 Oct 2022,v Goa,Jaipur,2,1,0,-,4,0,0,0,bowled,1,2.0,0,20,0,10
+1246518,Karan Sharma,20 Oct 2022,v Hyderabad,Jaipur,2,1,33,-,31,4,0,106.45,caught,1,3.0,0,19,3,6.33
+1246518,Karan Sharma,22 Oct 2022,v Punjab,Jaipur,1,1,22,-,31,2,0,70.96,caught,2,1.0,0,10,1,10
+1246518,Karan Sharma,3 May 2023,v CSK,Lucknow,1,3,9,32,16,0,0,56.25,caught,-,TDNB,-,-,-,-
+1246518,Karan Sharma,20 May 2023,v KKR,Eden Gardens,1,1,3,15,5,0,0,60,caught,2,sub,-,-,-,-
+1246518,Karan Sharma,17 Oct 2023,v Tamil Nadu,Dehradun,2,7,4*,-,6,0,0,66.66,not out,1,3.0,0,16,0,5.33
+1246518,Karan Sharma,21 Oct 2023,v Nagaland,Dehradun,1,2,4,-,3,1,0,133.33,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,23 Oct 2023,v Tripura,Dehradun,1,2,20,-,12,4,0,166.66,run out,2,DNB,-,-,-,-
+1246518,Karan Sharma,25 Oct 2023,v Karnataka,Dehradun,1,2,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,27 Oct 2023,v M. Pradesh,Dehradun,1,2,9,-,16,1,0,56.25,bowled,2,DNB,-,-,-,-
+1246518,Karan Sharma,31 Oct 2023,v Gujarat,Mohali,2,2,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+1246518,Karan Sharma,2 Nov 2023,v Punjab,Mohali,1,2,14,-,24,0,0,58.33,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,9 Dec 2024,v Andhra,Bengaluru,2,2,48,-,31,5,3,154.83,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,11 Dec 2024,v Delhi,Bengaluru,2,2,1,-,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+1246518,Karan Sharma,26 Nov 2025,v Goa,Jadavpur Uni,2,2,0,-,2,0,0,0,caught,1,2.0,0,26,0,13
+1246518,Karan Sharma,28 Nov 2025,v J & K,Jadavpur Uni,1,2,32,-,24,4,1,133.33,caught,2,DNB,-,-,-,-
+1246518,Karan Sharma,30 Nov 2025,v M. Pradesh,Jadavpur Uni,2,2,21,-,13,4,0,161.53,caught,1,2.0,0,15,0,7.5
+1246518,Karan Sharma,6 Dec 2025,v Maharashtra,Eden Gardens,1,4,6,-,11,1,0,54.54,caught,2,2.0,0,12,0,6

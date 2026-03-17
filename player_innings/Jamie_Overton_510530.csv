@@ -1,0 +1,199 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+510530,Jamie Overton,22 May 2015,v Sussex,Taunton,2,9,1*,6,2,0,0,50,not out,1,3.0,0,33,2,11
+510530,Jamie Overton,29 May 2015,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+510530,Jamie Overton,31 May 2015,v Kent,Taunton,2,9,1*,3,1,0,0,100,not out,1,3.0,0,37,0,12.33
+510530,Jamie Overton,5 Jun 2015,v Hampshire,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+510530,Jamie Overton,13 Jun 2015,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+510530,Jamie Overton,26 Jun 2015,v Middlesex,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,2,11
+510530,Jamie Overton,28 Jun 2015,v Glamorgan,Taunton,2,8,10,3,3,1,1,333.33,caught,1,4.0,0,32,1,8
+510530,Jamie Overton,3 Jul 2015,v Gloucs,Taunton,1,8,6*,4,4,1,0,150,not out,2,4.0,0,35,1,8.75
+510530,Jamie Overton,10 Jul 2015,v Kent,Canterbury,2,8,31,17,19,2,2,163.15,caught,1,4.0,0,39,1,9.75
+510530,Jamie Overton,17 Jul 2015,v Surrey,The Oval,2,9,5*,2,2,1,0,250,not out,1,4.0,0,44,0,11
+510530,Jamie Overton,23 Jul 2015,v Hampshire,Southampton,2,8,0,2,1,0,0,0,bowled,1,4.0,0,27,0,6.75
+510530,Jamie Overton,10 Dec 2015,v Pakistan A,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+510530,Jamie Overton,11 Dec 2015,v Pakistan A,Dubai (DICS),1,8,2*,-,2,0,0,100,not out,2,4.0,0,29,2,7.25
+510530,Jamie Overton,13 Dec 2015,v Pakistan A,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+510530,Jamie Overton,16 Dec 2015,v Pakistan A,ICCA Dubai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+510530,Jamie Overton,20 May 2016,v Kent,Canterbury,1,6,1,1,2,0,0,50,caught,2,3.0,0,37,0,12.33
+510530,Jamie Overton,1 Jun 2016,v Sussex,Hove,2,9,10,12,9,1,0,111.11,caught,1,4.0,0,45,2,11.25
+510530,Jamie Overton,3 Jun 2016,v Essex,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+510530,Jamie Overton,10 Jun 2016,v Surrey,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+510530,Jamie Overton,17 Jun 2016,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+510530,Jamie Overton,19 Jun 2016,v Hampshire,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.3,0,22,4,6.28
+510530,Jamie Overton,23 Jun 2016,v Middlesex,Lord's,2,7,9,12,8,0,0,112.5,caught,1,2.0,0,24,0,12
+510530,Jamie Overton,1 Jul 2016,v Gloucs,Taunton,1,8,14,6,4,0,2,350,run out,2,4.0,0,33,3,8.25
+510530,Jamie Overton,7 Jul 2016,v Kent,Taunton,2,8,4,2,5,1,0,80,bowled,1,4.0,0,39,1,9.75
+510530,Jamie Overton,8 Jul 2016,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+510530,Jamie Overton,6 Jul 2018,v Gloucs,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+510530,Jamie Overton,8 Jul 2018,v Kent,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+510530,Jamie Overton,13 Jul 2018,v Gloucs,Bristol,1,10,2*,1,1,0,0,200,not out,2,2.0,0,31,1,15.5
+510530,Jamie Overton,19 Jul 2018,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,1,5.5
+510530,Jamie Overton,20 Jul 2018,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+510530,Jamie Overton,27 Jul 2018,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,1.0,0,17,0,17
+510530,Jamie Overton,29 Jul 2018,v Middlesex,Taunton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,44,0,14.66
+510530,Jamie Overton,1 Aug 2018,v Hampshire,Taunton,1,9,3*,6,3,0,0,100,not out,2,4.0,0,37,3,9.25
+510530,Jamie Overton,3 Aug 2018,v Essex,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+510530,Jamie Overton,5 Aug 2018,v Sussex,Hove,2,9,7*,12,4,1,0,175,not out,1,3.0,0,34,1,11.33
+510530,Jamie Overton,8 Aug 2018,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+510530,Jamie Overton,10 Aug 2018,v Surrey,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+510530,Jamie Overton,12 Aug 2018,v Glamorgan,Taunton,1,9,0,1,1,0,0,0,caught,2,4.0,0,44,1,11
+510530,Jamie Overton,16 Aug 2018,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.4,0,47,0,12.81
+510530,Jamie Overton,26 Aug 2018,v Notts,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,5,11.75
+510530,Jamie Overton,15 Sep 2018,v Sussex,Birmingham,2,9,5,6,3,1,0,166.66,bowled,1,3.0,0,50,0,16.66
+510530,Jamie Overton,7 Dec 2018,v Pakistan A,Tolerance Oval,2,8,24*,-,9,0,3,266.66,not out,1,2.0,0,19,1,9.5
+510530,Jamie Overton,8 Dec 2018,v Pakistan A,Tolerance Oval,2,8,0*,-,0,0,0,-,not out,1,4.0,0,24,3,6
+510530,Jamie Overton,18 Jul 2019,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19
+510530,Jamie Overton,20 Jul 2019,v Kent,Canterbury,2,9,19,18,14,3,0,135.71,caught,1,2.0,0,24,0,12
+510530,Jamie Overton,2 Aug 2019,v Surrey,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+510530,Jamie Overton,4 Aug 2019,v Middlesex,Richmond,2,9,9,10,6,0,1,150,caught,1,3.0,0,35,0,11.66
+510530,Jamie Overton,30 Aug 2020,v Northants,Northampton,2,9,1,4,2,0,0,50,caught,1,3.0,0,21,0,7
+510530,Jamie Overton,3 Sep 2020,v Hampshire,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+510530,Jamie Overton,5 Sep 2020,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+510530,Jamie Overton,11 Sep 2020,v Essex,Chelmsford,2,6,30,20,17,1,3,176.47,caught,1,3.0,0,37,0,12.33
+510530,Jamie Overton,14 Sep 2020,v Middlesex,Lord's,1,5,29,15,12,2,2,241.66,run out,2,4.0,0,41,0,10.25
+510530,Jamie Overton,16 Sep 2020,v Sussex,The Oval,2,7,40*,24,22,5,1,181.81,not out,1,DNB,-,-,-,-
+510530,Jamie Overton,18 Sep 2020,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+510530,Jamie Overton,20 Sep 2020,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+510530,Jamie Overton,1 Oct 2020,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,0,4.5
+510530,Jamie Overton,3 Oct 2020,v Gloucs,Birmingham,2,6,4*,1,1,1,0,400,not out,1,DNB,-,-,-,-
+510530,Jamie Overton,4 Oct 2020,v Notts,Birmingham,1,5,0,3,1,0,0,0,caught,2,1.0,0,16,0,16
+510530,Jamie Overton,10 Jun 2021,v Middlesex,Lord's,1,5,27,20,13,3,1,207.69,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,11 Jun 2021,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+510530,Jamie Overton,14 Jun 2021,v Glamorgan,The Oval,2,5,9,7,6,1,0,150,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,17 Jun 2021,v Sussex,The Oval,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+510530,Jamie Overton,21 Jun 2021,v Essex,The Oval,1,7,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,23 Jun 2021,v Somerset,The Oval,1,5,8,10,8,1,0,100,caught,2,3.0,0,25,0,8.33
+510530,Jamie Overton,25 Jun 2021,v Middlesex,The Oval,2,7,24*,20,10,0,3,240,not out,1,1.0,0,10,0,10
+510530,Jamie Overton,27 Jun 2021,v Sussex,Hove,1,5,28,23,14,2,3,200,caught,2,1.0,0,6,1,6
+510530,Jamie Overton,29 Jun 2021,v Glamorgan,Cardiff,2,6,6,6,5,1,0,120,bowled,1,1.0,0,13,0,13
+510530,Jamie Overton,30 Jun 2021,v Hampshire,Southampton,1,5,2,12,3,0,0,66.66,caught,2,4.0,0,14,2,3.5
+510530,Jamie Overton,2 Jul 2021,v Kent,Canterbury,2,4,6,11,7,0,0,85.71,caught,1,4.0,0,31,1,7.75
+510530,Jamie Overton,9 Jul 2021,v Kent,The Oval,1,7,23,20,12,0,3,191.66,caught,2,2.0,0,22,0,11
+510530,Jamie Overton,25 May 2022,v SLC Dev XI,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,2,4
+510530,Jamie Overton,27 May 2022,v Glamorgan,The Oval,2,7,6*,9,4,0,0,150,not out,1,3.0,0,35,1,11.66
+510530,Jamie Overton,31 May 2022,v Gloucs,The Oval,1,5,1,5,4,0,0,25,bowled,2,DNB,-,-,-,-
+510530,Jamie Overton,2 Jun 2022,v Hampshire,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+510530,Jamie Overton,3 Jun 2022,v Kent,Canterbury,1,7,27,12,11,0,3,245.45,run out,2,3.0,0,19,1,6.33
+510530,Jamie Overton,5 Jun 2022,v Glamorgan,Cardiff,1,7,48,22,21,3,4,228.57,run out,2,DNB,-,-,-,-
+510530,Jamie Overton,8 Jun 2022,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+510530,Jamie Overton,9 Jun 2022,v Middlesex,Lord's,1,7,27,14,12,3,2,225,caught,2,1.0,0,1,1,1
+510530,Jamie Overton,17 Jun 2022,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+510530,Jamie Overton,19 Jun 2022,v Hampshire,Southampton,2,7,1,4,3,0,0,33.33,stumped,1,3.0,0,21,2,7
+510530,Jamie Overton,1 Jul 2022,v Kent,The Oval,2,6,6,14,6,1,0,100,caught,1,2.0,0,24,1,12
+510530,Jamie Overton,3 Jul 2022,v Somerset,Taunton,2,7,6,9,5,1,0,120,caught,1,2.0,0,25,0,12.5
+510530,Jamie Overton,6 Jul 2022,v Yorkshire,The Oval,2,7,40,29,21,1,4,190.47,run out,1,DNB,-,-,-,-
+510530,Jamie Overton,25 May 2023,v Middlesex,Lord's,1,5,10,6,4,1,1,250,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,26 May 2023,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+510530,Jamie Overton,28 May 2023,v Sussex,The Oval,1,8,13,13,12,1,0,108.33,bowled,2,DNB,-,-,-,-
+510530,Jamie Overton,31 May 2023,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+510530,Jamie Overton,2 Jun 2023,v Gloucs,Bristol,1,9,3,8,6,0,0,50,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,4 Jun 2023,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+510530,Jamie Overton,7 Jun 2023,v Glamorgan,Cardiff,1,4,3*,3,2,0,0,150,not out,2,DNB,-,-,-,-
+510530,Jamie Overton,9 Jun 2023,v Sussex,Hove,1,4,24,15,11,3,1,218.18,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,16 Jun 2023,v Somerset,Taunton,1,4,20,20,9,1,2,222.22,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,18 Jun 2023,v Hampshire,The Oval,1,7,45,45,24,5,3,187.5,bowled,2,DNB,-,-,-,-
+510530,Jamie Overton,20 Jun 2023,v Glamorgan,The Oval,1,5,1,5,4,0,0,25,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,22 Jun 2023,v Middlesex,The Oval,1,4,18,11,9,1,1,200,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,30 Jun 2023,v Somerset,The Oval,2,7,30,18,15,1,3,200,bowled,1,DNB,-,-,-,-
+510530,Jamie Overton,2 Jul 2023,v Essex,The Oval,1,6,23,22,17,0,2,135.29,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,7 Jul 2023,v Lancashire,Manchester,1,5,21,18,12,3,0,175,run out,2,DNB,-,-,-,-
+510530,Jamie Overton,15 Jul 2023,v Somerset,Birmingham,2,7,11,6,6,2,0,183.33,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,2 Aug 2023,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+510530,Jamie Overton,5 Aug 2023,v Spirit,Manchester,1,7,2*,-,4,0,0,50,not out,-,TDNB,-,-,-,-
+510530,Jamie Overton,7 Aug 2023,v Phoenix,Manchester,1,7,22,20,13,3,0,169.23,run out,2,1.0,0,14,0,16.8
+510530,Jamie Overton,9 Aug 2023,v Invincibles,The Oval,2,7,37,27,21,4,3,176.19,caught,1,4.0,0,21,2,6.3
+510530,Jamie Overton,13 Aug 2023,v N S-Chargers,Leeds,1,6,83*,34,30,9,6,276.66,not out,2,DNB,-,-,-,-
+510530,Jamie Overton,17 Aug 2023,v Rockets,Nottingham,1,7,11,11,10,1,0,110,bowled,2,3.0,0,15,0,6
+510530,Jamie Overton,20 Aug 2023,v N S-Chargers,Manchester,1,6,2,1,3,0,0,66.66,caught,2,1.0,0,5,1,6
+510530,Jamie Overton,23 Aug 2023,v Brave,Manchester,1,6,10,10,8,0,1,125,bowled,2,2.0,0,14,0,8.4
+510530,Jamie Overton,26 Aug 2023,v Brave,The Oval,2,5,7*,9,3,0,1,233.33,not out,1,4.0,0,31,0,9.3
+510530,Jamie Overton,27 Aug 2023,v Invincibles,Lord's,2,7,28*,33,19,0,1,147.36,not out,1,2.0,0,14,0,8.4
+510530,Jamie Overton,19 Dec 2023,v Thunder,Adelaide,2,6,0*,3,0,0,0,-,not out,1,4.0,0,29,2,7.25
+510530,Jamie Overton,22 Dec 2023,v Sixers,Sydney,2,6,31*,39,28,2,1,110.71,not out,1,4.0,0,23,3,5.75
+510530,Jamie Overton,29 Dec 2023,v Renegades,Melbourne (Docklands),1,6,29*,23,15,1,2,193.33,not out,2,4.0,0,29,1,7.25
+510530,Jamie Overton,31 Dec 2023,v Stars,Adelaide,1,5,19,19,12,1,1,158.33,caught,2,4.0,0,42,0,10.5
+510530,Jamie Overton,3 Jan 2024,v Scorchers,Perth,2,6,1,6,3,0,0,33.33,caught,1,4.0,0,44,2,11
+510530,Jamie Overton,5 Jan 2024,v Scorchers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+510530,Jamie Overton,9 Jan 2024,v Hurricanes,Adelaide,2,7,5*,-,3,1,0,166.66,not out,1,4.0,0,23,3,5.75
+510530,Jamie Overton,11 Jan 2024,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+510530,Jamie Overton,14 Jan 2024,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.2,0,26,3,7.8
+510530,Jamie Overton,19 Jan 2024,v Warriors,Sharjah,1,7,5,9,6,0,0,83.33,caught,2,4.0,0,29,3,7.25
+510530,Jamie Overton,21 Jan 2024,v MI Emirates,Abu Dhabi,2,6,41,28,18,1,5,227.77,bowled,1,4.0,0,41,1,10.25
+510530,Jamie Overton,31 Jan 2024,v KnightRiders,Abu Dhabi,1,7,6*,13,6,0,0,100,not out,2,4.0,0,25,0,6.25
+510530,Jamie Overton,3 Feb 2024,v Vipers,Dubai (DICS),1,8,8,-,7,1,0,114.28,caught,2,3.0,0,31,0,10.33
+510530,Jamie Overton,4 Feb 2024,v Warriors,Dubai (DICS),1,7,25,25,15,1,1,166.66,caught,2,3.0,0,17,1,5.66
+510530,Jamie Overton,6 Feb 2024,v DC,Dubai (DICS),1,8,1,17,7,0,0,14.28,bowled,2,3.3,0,29,1,8.28
+510530,Jamie Overton,8 Feb 2024,v MI Emirates,Dubai (DICS),1,7,5,13,9,0,0,55.55,caught,2,4.0,0,41,1,10.25
+510530,Jamie Overton,10 Feb 2024,v KnightRiders,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+510530,Jamie Overton,14 Feb 2024,v MI Emirates,Dubai (DICS),2,7,5,12,5,0,0,100,run out,1,4.0,0,40,0,10
+510530,Jamie Overton,15 Feb 2024,v DC,Sharjah,1,8,12*,9,6,2,0,200,not out,2,3.0,0,23,0,7.66
+510530,Jamie Overton,12 Jul 2024,v Somerset,Taunton,1,6,30*,18,13,2,2,230.76,not out,2,DNB,-,-,-,-
+510530,Jamie Overton,14 Jul 2024,v Essex,Chelmsford,1,6,14,10,10,1,1,140,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,18 Jul 2024,v Hampshire,The Oval,2,6,21,23,12,0,2,175,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,19 Jul 2024,v Kent,Canterbury,2,7,2,4,4,0,0,50,bowled,1,DNB,-,-,-,-
+510530,Jamie Overton,25 Jul 2024,v Fire,Manchester,1,6,23,42,25,1,1,92,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,29 Jul 2024,v Rockets,Manchester,2,6,0,2,3,0,0,0,bowled,1,DNB,-,-,-,-
+510530,Jamie Overton,1 Aug 2024,v Brave,Southampton,1,6,25,30,19,2,1,131.57,bowled,2,DNB,-,-,-,-
+510530,Jamie Overton,4 Aug 2024,v N S-Chargers,Leeds,2,4,7,7,6,1,0,116.66,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,6 Aug 2024,v Invincibles,Manchester,2,5,14,11,8,1,1,175,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,9 Aug 2024,v Spirit,Lord's,1,5,1,2,2,0,0,50,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,11 Aug 2024,v N S-Chargers,Manchester,1,7,21*,31,21,1,2,100,not out,2,DNB,-,-,-,-
+510530,Jamie Overton,15 Aug 2024,v Phoenix,Birmingham,1,5,3*,10,4,0,0,75,not out,2,DNB,-,-,-,-
+510530,Jamie Overton,3 Sep 2024,v Durham,The Oval,2,7,4*,2,3,1,0,133.33,not out,1,DNB,-,-,-,-
+510530,Jamie Overton,11 Sep 2024,v Australia,Southampton,2,7,15,15,9,2,0,166.66,bowled,1,DNB,-,-,-,-
+510530,Jamie Overton,13 Sep 2024,v Australia,Cardiff,2,7,4*,12,4,0,0,100,not out,1,DNB,-,-,-,-
+510530,Jamie Overton,9 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.2,0,27,1,8.1
+510530,Jamie Overton,10 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+510530,Jamie Overton,14 Nov 2024,v West Indies,Gros Islet,2,8,4*,13,4,0,0,100,not out,1,4.0,0,20,3,5
+510530,Jamie Overton,16 Nov 2024,v West Indies,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+510530,Jamie Overton,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+510530,Jamie Overton,17 Dec 2024,v Thunder,Canberra,1,6,45*,50,35,1,4,128.57,not out,2,3.4,0,28,2,7.63
+510530,Jamie Overton,20 Dec 2024,v Stars,Adelaide,1,7,6*,8,6,1,0,100,not out,2,4.0,0,44,2,11
+510530,Jamie Overton,22 Dec 2024,v Heat,Brisbane,1,6,45*,34,24,3,3,187.5,not out,2,4.0,0,32,1,8
+510530,Jamie Overton,27 Dec 2024,v Hurricanes,Adelaide,2,6,30*,-,16,2,1,187.5,not out,1,4.0,0,27,2,6.75
+510530,Jamie Overton,31 Dec 2024,v Scorchers,Adelaide,1,6,1,2,2,0,0,50,caught,2,2.0,0,27,0,13.5
+510530,Jamie Overton,2 Jan 2025,v Renegades,Melbourne (Docklands),2,7,2*,3,3,0,0,66.66,not out,1,4.0,0,30,2,7.5
+510530,Jamie Overton,5 Jan 2025,v Hurricanes,Hobart,1,6,27*,22,18,1,1,150,not out,2,3.0,0,54,0,18
+510530,Jamie Overton,11 Jan 2025,v Heat,Adelaide,1,6,3,10,4,0,0,75,bowled,2,3.0,0,28,0,9.33
+510530,Jamie Overton,15 Jan 2025,v Sixers,Adelaide,1,6,32*,18,14,3,1,228.57,not out,2,4.0,0,35,2,8.75
+510530,Jamie Overton,22 Jan 2025,v India,Eden Gardens,1,7,2,6,4,0,0,50,caught,2,1.0,0,10,0,10
+510530,Jamie Overton,25 Jan 2025,v India,Chennai,1,7,5,16,7,0,0,71.42,bowled,2,2.2,0,20,1,8.57
+510530,Jamie Overton,28 Jan 2025,v India,Rajkot,1,7,0,1,1,0,0,0,bowled,2,4.0,0,23,3,5.75
+510530,Jamie Overton,31 Jan 2025,v India,Pune,2,8,19,21,15,1,1,126.66,bowled,1,4.0,0,32,2,8
+510530,Jamie Overton,2 Feb 2025,v India,Wankhede,2,8,1,2,3,0,0,33.33,caught,1,3.0,0,48,1,16
+510530,Jamie Overton,30 Mar 2025,v RR,Guwahati,2,8,11*,5,4,0,1,275,not out,1,2.0,0,30,0,15
+510530,Jamie Overton,14 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+510530,Jamie Overton,20 Apr 2025,v MI,Wankhede,1,7,4*,6,3,1,0,133.33,not out,2,2.0,0,29,0,14.5
+510530,Jamie Overton,6 Jul 2025,v Essex,The Oval,1,7,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+510530,Jamie Overton,11 Jul 2025,v Glamorgan,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+510530,Jamie Overton,13 Jul 2025,v Somerset,The Oval,1,7,7*,13,7,1,0,100,not out,2,4.0,0,23,2,5.75
+510530,Jamie Overton,16 Jul 2025,v Middlesex,Lord's,1,8,0,2,1,0,0,0,lbw,2,3.0,0,26,1,8.66
+510530,Jamie Overton,18 Jul 2025,v Sussex,Hove,1,7,4*,6,4,0,0,100,not out,2,3.0,0,40,0,13.33
+510530,Jamie Overton,9 Aug 2025,v Fire,Cardiff,1,6,0,1,2,0,0,0,caught,2,4.0,0,38,1,11.4
+510530,Jamie Overton,11 Aug 2025,v Originals,Manchester,2,6,19,8,7,3,1,271.42,run out,1,4.0,0,26,2,7.8
+510530,Jamie Overton,14 Aug 2025,v Rockets,Lord's,1,6,4,3,4,0,0,100,caught,2,4.0,0,15,1,4.5
+510530,Jamie Overton,20 Aug 2025,v N S-Chargers,Lord's,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,8.8
+510530,Jamie Overton,23 Aug 2025,v Brave,Lord's,1,6,16*,6,7,3,0,228.57,not out,2,3.2,0,35,2,12.35
+510530,Jamie Overton,25 Aug 2025,v Invincibles,The Oval,1,6,31,29,18,2,2,172.22,caught,2,3.0,0,35,1,14
+510530,Jamie Overton,10 Sep 2025,v South Africa,Cardiff,2,-,DNB,-,-,-,-,-,-,1,1.5,0,24,1,13.09
+510530,Jamie Overton,17 Sep 2025,v Ireland,Dublin (Malahide),2,8,4*,3,3,1,0,133.33,not out,1,4.0,0,40,1,10
+510530,Jamie Overton,21 Sep 2025,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+510530,Jamie Overton,17 Dec 2025,v Sixers,Sydney,2,6,30,36,20,3,1,150,caught,1,4.0,0,22,2,5.5
+510530,Jamie Overton,23 Dec 2025,v Stars,Adelaide,1,6,11,16,10,1,0,110,caught,2,4.0,0,39,1,9.75
+510530,Jamie Overton,27 Dec 2025,v Heat,Brisbane,2,6,10,9,8,1,0,125,caught,1,3.0,0,33,0,11
+510530,Jamie Overton,31 Dec 2025,v Heat,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+510530,Jamie Overton,4 Jan 2026,v Scorchers,Perth,2,7,11,20,8,0,1,137.5,caught,1,DNB,-,-,-,-
+510530,Jamie Overton,6 Jan 2026,v Thunder,Adelaide,1,6,13,20,11,2,0,118.18,caught,2,4.0,0,25,3,6.25
+510530,Jamie Overton,9 Jan 2026,v Hurricanes,Hobart,2,7,8,10,7,0,1,114.28,stumped,1,2.0,0,13,2,6.5
+510530,Jamie Overton,11 Jan 2026,v Scorchers,Adelaide,2,5,1,7,2,0,0,50,caught,1,2.0,0,30,0,15
+510530,Jamie Overton,13 Jan 2026,v Stars,Melbourne,1,6,6,20,13,0,0,46.15,bowled,2,4.0,1,19,1,4.75
+510530,Jamie Overton,17 Jan 2026,v Renegades,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+510530,Jamie Overton,30 Jan 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.2,0,17,2,7.28
+510530,Jamie Overton,1 Feb 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,30,0,15
+510530,Jamie Overton,3 Feb 2026,v Sri Lanka,Pallekele,1,9,2,3,3,0,0,66.66,caught,2,1.0,0,14,0,14
+510530,Jamie Overton,11 Feb 2026,v West Indies,Wankhede,2,8,5,6,6,0,0,83.33,caught,1,4.0,0,33,2,8.25
+510530,Jamie Overton,14 Feb 2026,v Scotland,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+510530,Jamie Overton,16 Feb 2026,v Italy,Eden Gardens,1,8,15,16,9,1,1,166.66,caught,2,4.0,1,18,3,4.5
+510530,Jamie Overton,22 Feb 2026,v Sri Lanka,Pallekele,1,9,10*,16,10,0,1,100,not out,2,2.0,0,13,1,6.5
+510530,Jamie Overton,24 Feb 2026,v Pakistan,Pallekele,2,8,0,10,3,0,0,0,stumped,1,3.0,0,26,2,8.66
+510530,Jamie Overton,5 Mar 2026,v India,Wankhede,2,8,2*,10,3,0,0,66.66,not out,1,3.0,0,36,0,12

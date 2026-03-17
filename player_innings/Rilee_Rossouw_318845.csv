@@ -1,0 +1,392 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+318845,Rilee Rossouw,11 Apr 2008,v Cape Cobras,Cape Town,1,2,10,16,11,2,0,90.9,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Apr 2008,v Warriors,Gqeberha,1,2,7,15,11,0,0,63.63,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Apr 2008,v Dolphins,Durban,1,5,5,7,7,0,0,71.42,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Jan 2009,v Dolphins,Bloemfontein,2,2,2,11,5,0,0,40,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Jan 2009,v Lions,Johannesburg,1,2,5,14,6,0,0,83.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Feb 2009,v Warriors,Gqeberha,2,1,11,16,15,2,0,73.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Feb 2009,v Cape Cobras,Cape Town,2,2,3,8,6,0,0,50,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Oct 2009,v NSW,Delhi,2,1,1,-,5,0,0,20,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Oct 2009,v Sussex,Delhi,2,1,65,-,62,7,2,104.83,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Oct 2009,v Somerset,Hyderabad,2,2,13,-,8,1,1,162.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Oct 2009,v Trinidad & T,Hyderabad,2,2,44,-,19,5,3,231.57,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Nov 2009,v England XI,Bloemfontein,2,3,23,30,25,3,0,92,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Feb 2010,v Warriors,East London,2,3,15,27,18,2,0,83.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Feb 2010,v Dolphins,Durban,1,3,6,10,7,1,0,85.71,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Feb 2010,v Titans,Kimberley,1,3,14,15,12,1,1,116.66,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Feb 2011,v Dolphins,Bloemfontein,2,3,23,28,25,3,0,92,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Feb 2011,v Cape Cobras,Bloemfontein,2,1,35,26,17,1,3,205.88,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Feb 2011,v Lions,Potchefstroom,1,3,6,9,6,0,0,100,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Feb 2011,v Warriors,Kimberley,2,3,30,29,25,1,1,120,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Feb 2011,v Titans,Centurion,1,3,25,22,17,3,0,147.05,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Oct 2011,v Easterns,Bloemfontein,2,3,75,51,38,11,2,197.36,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Feb 2012,v Cape Cobras,Kimberley,2,1,29,13,12,3,2,241.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Feb 2012,v Titans,Centurion,2,1,2,4,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Feb 2012,v Dolphins,Bloemfontein,2,2,57,52,38,4,1,150,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Feb 2012,v Impi,Benoni,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Feb 2012,v Lions,Bloemfontein,2,2,39,39,31,7,0,125.8,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Mar 2012,v Lions,Potchefstroom,1,2,27,24,15,5,0,180,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Mar 2012,v Warriors,Gqeberha,1,2,20,31,17,3,0,117.64,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Mar 2012,v Cape Cobras,Paarl,1,2,10,9,6,1,0,166.66,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Mar 2012,v Dolphins,Durban,1,2,17,18,13,4,0,130.76,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Mar 2012,v Impi,Kimberley,2,1,42,21,25,6,1,168,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Mar 2012,v Warriors,Kimberley,2,2,9,11,10,2,0,90,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Mar 2012,v Titans,Centurion,1,2,16,11,10,2,1,160,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Aug 2012,v Wayamba U,Pallekele,2,3,20,-,16,3,0,125,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Aug 2012,v Uthura,Pallekele,1,3,44,-,37,3,2,118.91,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Aug 2012,v Ruhuna Ryls,Colombo (RPS),1,3,31*,-,35,1,1,88.57,retired notout,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Feb 2013,v Warriors,Kimberley,1,2,35,43,26,3,1,134.61,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Feb 2013,v Cape Cobras,Paarl,2,2,0,5,3,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Feb 2013,v Dolphins,Bloemfontein,2,2,61*,65,47,9,1,129.78,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Mar 2013,v Lions,Johannesburg,1,2,33,59,37,5,0,89.18,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Mar 2013,v Titans,Centurion,1,1,48,44,34,3,3,141.17,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Mar 2013,v Dolphins,Durban,2,2,44,42,28,2,3,157.14,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Mar 2013,v Lions,Kimberley,1,2,76,54,47,7,4,161.7,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Mar 2013,v Cape Cobras,Bloemfontein,2,2,4,4,4,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Mar 2013,v Titans,Bloemfontein,1,2,6,12,7,1,0,85.71,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Jan 2014,v Cape Cobras,Cape Town,2,2,13,12,9,1,1,144.44,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Jan 2014,v Warriors,East London,1,2,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jan 2014,v Dolphins,Kimberley,1,2,51,43,33,8,1,154.54,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jan 2014,v Lions,Bloemfontein,2,2,72,72,53,9,2,135.84,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Jan 2014,v Cape Cobras,Bloemfontein,2,1,14,6,6,2,0,233.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Jan 2014,v Titans,Centurion,2,2,10,23,16,1,0,62.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Jan 2014,v Warriors,Kimberley,1,2,64*,89,64,7,0,100,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Jan 2014,v Lions,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+318845,Rilee Rossouw,31 Jan 2014,v Dolphins,Durban,2,2,7,9,5,1,0,140,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Feb 2014,v Titans,Kimberley,1,2,43,49,39,5,0,110.25,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,4 May 2014,v SRH,Bengaluru,2,4,14,40,23,1,0,60.86,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 May 2014,v MI,Wankhede,2,6,24,31,14,1,2,171.42,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 May 2014,v CSK,Bengaluru,1,1,1,3,4,0,0,25,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Nov 2014,v CA XI,North Sydney,2,3,47,-,29,4,3,162.06,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Nov 2014,v Australia,Adelaide,2,3,78,60,50,7,3,156,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Nov 2014,v Australia,Melbourne,1,3,12,-,8,3,0,150,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Nov 2014,v Australia,Sydney,1,3,4,-,4,0,0,100,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Nov 2014,v Cape Cobras,Bloemfontein,2,3,9,8,8,1,0,112.5,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Dec 2014,v Lions,Kimberley,1,3,64,62,34,10,1,188.23,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Dec 2014,v Lions,Johannesburg,2,3,58,58,42,5,1,138.09,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Dec 2014,v Cape Cobras,Cape Town,2,3,33,33,23,2,1,143.47,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Jan 2015,v West Indies,Cape Town,1,4,51*,68,40,5,0,127.5,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Jan 2015,v West Indies,Johannesburg,1,1,15,11,9,0,2,166.66,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Jan 2015,v West Indies,Durban,1,4,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Apr 2015,v MI,Bengaluru,2,6,0,6,1,0,0,0,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Apr 2015,v CSK,Bengaluru,2,2,14,20,9,1,1,155.55,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Jul 2015,v Bangladesh,Mirpur,1,6,31*,31,21,2,2,147.61,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Jul 2015,v Bangladesh,Mirpur,1,6,19*,10,6,1,2,316.66,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Aug 2015,v New Zealand,Durban,2,4,38,24,20,4,2,190,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Aug 2015,v New Zealand,Centurion,2,4,26,29,23,4,0,113.04,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Nov 2015,v Lions,Bloemfontein,2,1,11,14,10,2,0,110,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Nov 2015,v Cape Cobras,Paarl,1,2,10,21,12,2,0,83.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Nov 2015,v Lions,Potchefstroom,1,2,46,42,29,5,2,158.62,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Nov 2015,v Dolphins,Gqeberha,2,1,9,6,8,2,0,112.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Dec 2015,v Warriors,Bloemfontein,1,2,43,45,37,5,1,116.21,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Dec 2015,v Titans,Benoni,2,2,17,18,14,3,0,121.42,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Feb 2016,v England,Cape Town,2,5,18,20,18,0,1,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Feb 2016,v England,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Mar 2016,v Australia,Durban,2,5,19,18,14,2,0,135.71,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Mar 2016,v Australia,Cape Town,1,4,16,26,21,1,0,76.19,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Mar 2016,v West Indies,Nagpur,1,4,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Feb 2017,v Qalandars,Dubai (DICS),1,4,60,-,47,3,2,127.65,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Feb 2017,v Kings,Dubai (DICS),2,4,76*,-,53,7,3,143.39,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Feb 2017,v United,Sharjah,1,4,7,-,13,0,0,53.84,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Feb 2017,v Zalmi,Sharjah,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,8,1,8
+318845,Rilee Rossouw,18 Feb 2017,v Qalandars,Sharjah,2,4,33,-,18,3,2,183.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Feb 2017,v Kings,Dubai (DICS),2,4,15,-,16,1,0,93.75,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Feb 2017,v United,Dubai (DICS),2,4,9*,-,8,1,0,112.5,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Feb 2017,v Zalmi,Dubai (DICS),1,4,38,-,34,3,2,111.76,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Feb 2017,v Zalmi,Sharjah,1,4,17,-,18,0,0,94.44,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Jul 2017,v Glamorgan,Cardiff,1,1,18,25,14,3,0,128.57,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jul 2017,v Sussex,Hove,1,2,46,44,31,4,3,148.38,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Jul 2017,v Middlesex,Southampton,1,2,30,38,25,4,0,120,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Jul 2017,v Sussex,Southampton,1,2,1,5,2,0,0,50,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Jul 2017,v Essex,Chelmsford,1,2,4,9,4,1,0,100,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Jul 2017,v Somerset,Taunton,2,2,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Jul 2017,v Gloucs,Bristol,2,2,45*,52,27,4,2,166.66,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Aug 2017,v Kent,Southampton,2,2,13,17,8,3,0,162.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Aug 2017,v Middlesex,Lord's,2,2,60,65,47,6,1,127.65,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Aug 2017,v Essex,Southampton,1,2,36,40,24,4,0,150,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Nov 2017,v Dynamites,Sylhet,2,4,23,-,14,2,1,164.28,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Nov 2017,v Sylhet,Sylhet,2,4,19,-,17,3,0,111.76,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Nov 2017,v Chattogram,Mirpur,1,4,25,-,26,0,2,96.15,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Nov 2017,v Dynamites,Mirpur,1,4,34,-,30,3,0,113.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Nov 2017,v Chattogram,Mirpur,2,2,49,-,26,5,3,188.46,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Nov 2017,v Kings,Mirpur,2,2,20,-,17,1,1,117.64,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Nov 2017,v Rangpur,Chattogram,1,2,11,-,4,1,1,275,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Nov 2017,v Kings,Chattogram,1,2,6,-,7,1,0,85.71,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Nov 2017,v Victorians,Chattogram,1,2,0,-,1,0,0,0,caught,2,0.5,0,5,0,6
+318845,Rilee Rossouw,23 Feb 2018,v Kings,Dubai (DICS),2,5,18,-,19,1,1,94.73,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Feb 2018,v Qalandars,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Mar 2018,v Zalmi,Sharjah,1,5,37,-,25,2,2,148,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Mar 2018,v Sultans,Sharjah,1,5,9,-,8,0,1,112.5,stumped,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Mar 2018,v Sultans,Dubai (DICS),2,4,27,-,24,2,1,112.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Mar 2018,v Kings,Dubai (DICS),1,4,13,-,7,1,1,185.71,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Mar 2018,v Zalmi,Dubai (DICS),2,5,30*,-,27,3,0,111.11,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Mar 2018,v Qalandars,Sharjah,2,5,42,-,22,0,5,190.9,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Mar 2018,v United,Sharjah,1,6,16*,-,15,1,1,106.66,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Mar 2018,v Zalmi,Lahore,2,5,8,-,14,0,0,57.14,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Jul 2018,v Glamorgan,Southampton,2,2,0,5,1,0,0,0,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jul 2018,v Sussex,Southampton,1,4,6,2,2,0,1,300,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Jul 2018,v Kent,Beckenham,2,4,25,16,11,3,1,227.27,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Jul 2018,v Middlesex,Southampton,1,4,32,29,22,4,0,145.45,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Jul 2018,v Essex,Chelmsford,1,4,8,8,7,1,0,114.28,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Jul 2018,v Middlesex,Lord's,2,4,4,12,8,0,0,50,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Aug 2018,v Somerset,Taunton,2,4,2,9,6,0,0,33.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Aug 2018,v Kent,Southampton,2,4,9,16,11,1,0,81.81,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Aug 2018,v Somerset,Southampton,1,2,16,13,12,1,1,133.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Aug 2018,v Glamorgan,Cardiff,1,2,50,31,24,4,4,208.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Aug 2018,v Essex,Southampton,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Aug 2018,v Surrey,The Oval,1,2,23,25,15,4,0,153.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Aug 2018,v Gloucs,Southampton,2,2,42,21,18,8,1,233.33,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Nov 2018,v Blitz,Cape Town,2,5,15,21,13,1,0,115.38,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Nov 2018,v Paarl Rocks,Paarl,1,4,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Jan 2019,v Chattogram,Mirpur,1,4,7,-,6,1,0,116.66,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Jan 2019,v Khulna,Mirpur,1,1,76*,-,52,8,2,146.15,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Jan 2019,v Victorians,Mirpur,2,3,20*,-,28,0,1,71.42,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Jan 2019,v Dynamites,Mirpur,2,3,83,-,44,8,4,188.63,stumped,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Jan 2019,v Kings,Mirpur,2,4,44*,-,45,3,0,97.77,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Jan 2019,v Sylhet,Sylhet,2,4,58,-,32,3,4,181.25,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Jan 2019,v Sylhet,Sylhet,2,3,61,-,35,9,2,174.28,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Jan 2019,v Khulna,Mirpur,2,5,10*,-,3,0,1,333.33,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Jan 2019,v Chattogram,Chattogram,1,3,100*,-,51,8,6,196.07,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Jan 2019,v Dynamites,Chattogram,2,3,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Jan 2019,v Kings,Chattogram,2,3,55,-,43,5,2,127.9,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Feb 2019,v Victorians,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Feb 2019,v Victorians,Mirpur,1,4,44,-,31,4,2,141.93,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Feb 2019,v Dynamites,Mirpur,1,4,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Feb 2019,v Zalmi,Dubai (DICS),2,3,19,-,14,3,0,135.71,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Feb 2019,v United,Dubai (DICS),2,3,10,-,6,2,0,166.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Feb 2019,v Sultans,Sharjah,2,3,67*,-,45,10,1,148.88,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Feb 2019,v Qalandars,Sharjah,2,3,17,-,14,3,0,121.42,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Feb 2019,v Kings,Sharjah,1,3,44,-,32,4,1,137.5,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Feb 2019,v Qalandars,Dubai (DICS),1,3,8,-,7,1,0,114.28,caught,2,1.0,0,6,0,6
+318845,Rilee Rossouw,1 Mar 2019,v Sultans,Dubai (DICS),2,4,35,-,33,3,0,106.06,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Mar 2019,v Zalmi,Abu Dhabi,2,4,12*,-,4,1,1,300,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Mar 2019,v United,Abu Dhabi,1,4,23,-,17,2,1,135.29,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Mar 2019,v Kings,Karachi,2,3,10,-,7,0,1,142.85,stumped,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Mar 2019,v Zalmi,Karachi,1,4,11,-,6,2,0,183.33,caught,2,0.4,0,3,1,4.5
+318845,Rilee Rossouw,17 Mar 2019,v Zalmi,Karachi,2,4,39*,-,32,5,0,121.87,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Jul 2019,v Sussex,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+318845,Rilee Rossouw,21 Jul 2019,v Kent,Southampton,1,2,10,20,11,1,0,90.9,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Jul 2019,v Sussex,Hove,2,2,60,50,38,8,1,157.89,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Jul 2019,v Somerset,Taunton,2,2,6,7,8,1,0,75,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Aug 2019,v Essex,Chelmsford,2,2,25,38,20,1,1,125,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Aug 2019,v Glamorgan,Southampton,1,2,15,16,16,1,0,93.75,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Aug 2019,v Kent,Beckenham,1,2,15,16,10,0,2,150,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Aug 2019,v Somerset,Southampton,2,2,6,7,5,1,0,120,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Aug 2019,v Middlesex,Lord's,2,2,4,11,7,0,0,57.14,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Aug 2019,v Essex,Southampton,2,2,1,11,3,0,0,33.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Aug 2019,v Middlesex,Southampton,2,4,8*,4,2,2,0,400,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Aug 2019,v Glamorgan,Cardiff,2,4,24,27,20,2,0,120,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Dec 2019,v Chattogram,Mirpur,2,3,64*,-,38,7,2,168.42,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Dec 2019,v Royals,Chattogram,2,3,42,-,35,5,1,120,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Dec 2019,v Rangers,Chattogram,2,3,66*,-,31,9,2,212.9,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Dec 2019,v Thunder,Chattogram,2,3,52,-,32,4,4,162.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Dec 2019,v Royals,Chattogram,1,3,35,-,24,5,1,145.83,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Dec 2019,v Rangers,Mirpur,1,3,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Dec 2019,v Thunder,Mirpur,2,3,15,-,11,1,1,136.36,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Jan 2020,v Platoon,Sylhet,2,3,18,-,13,3,0,138.46,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Jan 2020,v Chattogram,Sylhet,1,3,48,-,40,2,2,120,bowled,2,1.1,0,7,0,6
+318845,Rilee Rossouw,8 Jan 2020,v Warriors,Mirpur,1,3,71*,-,36,6,4,197.22,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jan 2020,v Warriors,Mirpur,1,3,24,-,11,0,3,218.18,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Jan 2020,v Platoon,Mirpur,2,3,23,-,17,0,2,135.29,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Jan 2020,v Royals,Mirpur,1,3,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Jan 2020,v Royals,Mirpur,2,4,37,-,26,1,1,142.3,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Feb 2020,v M.C.C.,Lahore,2,3,5,4,3,1,0,166.66,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Feb 2020,v Qalandars,Lahore,2,4,32,-,28,2,1,114.28,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Feb 2020,v United,Lahore,1,4,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Feb 2020,v Zalmi,Multan,2,4,49*,-,42,7,1,116.66,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Feb 2020,v Kings,Multan,1,4,8,-,6,1,0,133.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Feb 2020,v Gladiators,Multan,1,5,100*,-,44,10,6,227.27,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Mar 2020,v Kings,Lahore,1,4,0,-,1,0,0,0,caught,-,TDNB,-,-,-,-
+318845,Rilee Rossouw,8 Mar 2020,v United,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Nov 2020,v Kings,Karachi,1,4,5,-,9,0,0,55.55,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Nov 2020,v Qalandars,Karachi,2,4,18,-,18,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Dec 2020,v Scorchers,Hobart,2,4,17*,-,15,1,0,113.33,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Dec 2020,v Sixers,Hobart,2,4,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Dec 2020,v Hurricanes,Hobart,1,4,59,-,40,8,1,147.5,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Dec 2020,v Thunder,Canberra,2,4,17,-,9,3,0,188.88,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Dec 2020,v Sixers,Carrara,1,4,3,-,4,0,0,75,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Jan 2021,v Thunder,Carrara,1,4,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Jan 2021,v Scorchers,Perth,2,6,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Feb 2021,v United,Karachi,1,4,25,16,14,2,2,178.57,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Feb 2021,v Zalmi,Karachi,1,5,14*,16,8,1,1,175,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Feb 2021,v Qalandars,Karachi,2,5,1*,12,2,0,0,50,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Feb 2021,v Kings,Karachi,1,5,7,9,4,0,1,175,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Mar 2021,v Gladiators,Karachi,2,4,3,14,8,0,0,37.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jun 2021,v Kings,Abu Dhabi,1,4,44,-,24,7,0,183.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Jun 2021,v Zalmi,Abu Dhabi,2,4,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Jun 2021,v Gladiators,Abu Dhabi,1,5,2,-,2,0,0,100,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Jun 2021,v Qalandars,Abu Dhabi,1,5,29,-,24,5,0,120.83,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Jun 2021,v United,Abu Dhabi,1,4,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Jun 2021,v United,Abu Dhabi,1,4,0,-,2,0,0,0,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Jun 2021,v Zalmi,Abu Dhabi,1,4,50,-,21,5,3,238.09,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Sep 2021,v Titans,Bloemfontein,2,3,73*,86,51,7,1,143.13,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Sep 2021,v KZN-Inland,Bloemfontein,1,3,67,60,47,5,2,142.55,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Oct 2021,v W Province,Kimberley,1,3,112*,78,55,7,8,203.63,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Oct 2021,v North West,Kimberley,1,3,15,21,16,1,0,93.75,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Oct 2021,v Dolphins,Kimberley,1,3,28,-,18,2,2,155.55,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Jan 2022,v Kings,Karachi,2,4,2,2,4,0,0,50,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Jan 2022,v Qalandars,Karachi,2,4,5,-,3,1,0,166.66,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,31 Jan 2022,v Gladiators,Karachi,1,4,21,32,19,2,0,110.52,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Feb 2022,v United,Karachi,1,4,67*,58,35,4,6,191.42,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Feb 2022,v Zalmi,Lahore,1,4,15,-,7,0,2,214.28,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Feb 2022,v Qalandars,Lahore,2,4,0,4,1,0,0,0,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Feb 2022,v Kings,Lahore,2,4,14*,-,5,1,1,280,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Feb 2022,v Gladiators,Lahore,1,3,71,36,26,9,4,273.07,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Feb 2022,v United,Lahore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Feb 2022,v Qalandars,Lahore,1,4,65*,-,42,7,1,154.76,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Feb 2022,v Qalandars,Lahore,2,4,15,-,22,1,0,68.18,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 May 2022,v Kent,Canterbury,2,3,81*,63,54,7,2,150,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 May 2022,v Essex,Taunton,2,3,67,34,29,2,7,231.03,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,30 May 2022,v Hampshire,Southampton,2,3,26,22,18,3,1,144.44,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Jun 2022,v Sussex,Taunton,2,3,74,30,29,8,5,255.17,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Jun 2022,v Glamorgan,Taunton,2,3,30*,23,15,1,3,200,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Jun 2022,v Gloucs,Bristol,2,3,7,6,4,0,1,175,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jun 2022,v Kent,Taunton,2,3,13,9,7,0,2,185.71,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Jun 2022,v Gloucs,Taunton,1,3,54,50,35,5,3,154.28,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Jun 2022,v Essex,Chelmsford,2,3,85*,60,36,5,7,236.11,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Jun 2022,v Surrey,The Oval,1,3,6,6,4,1,0,150,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Jun 2022,v Hampshire,Taunton,2,3,55,50,28,7,2,196.42,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Jun 2022,v Glamorgan,Cardiff,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Jul 2022,v Middlesex,Lord's,2,3,5,15,6,1,0,83.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Jul 2022,v Surrey,Taunton,1,3,4,2,2,1,0,200,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Jul 2022,v Derbyshire,Taunton,1,3,93,55,36,8,7,258.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Jul 2022,v Hampshire,Birmingham,2,3,23,21,20,1,2,115,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Jul 2022,v England,Bristol,2,3,4,5,4,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Jul 2022,v England,Cardiff,1,3,96*,80,55,10,5,174.54,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,31 Jul 2022,v England,Southampton,1,3,31,32,18,6,0,172.22,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Aug 2022,v Fire,Cardiff,1,3,5,-,4,1,0,125,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Aug 2022,v N S-Chargers,The Oval,2,3,9,17,8,1,0,112.5,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Aug 2022,v Brave,The Oval,2,3,10,-,13,0,1,76.92,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Aug 2022,v Phoenix,The Oval,2,3,5,6,5,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Aug 2022,v Spirit,Lord's,2,3,24,29,22,1,1,109.09,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,31 Aug 2022,v Originals,Manchester,1,1,17,11,10,3,0,170,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Sep 2022,v India,Thiruvananthapuram,1,3,0,8,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Oct 2022,v India,Guwahati,2,3,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Oct 2022,v India,Indore,1,3,100*,80,48,7,8,208.33,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Oct 2022,v Zimbabwe,Hobart,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Oct 2022,v Bangladesh,Sydney,1,3,109,90,56,7,8,194.64,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Oct 2022,v India,Perth,2,3,0,4,2,0,0,0,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Nov 2022,v Pakistan,Sydney,2,3,7,10,6,0,1,116.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Nov 2022,v Netherlands,Adelaide,2,3,25,29,19,2,0,131.57,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Dec 2022,v Stars,Canberra,2,3,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Dec 2022,v Strikers,Sydney,2,3,3,6,5,0,0,60,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Dec 2022,v Renegades,Melbourne (Docklands),1,3,53,57,38,3,4,139.47,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Dec 2022,v Strikers,Adelaide,1,3,14,15,13,2,0,107.69,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Dec 2022,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Dec 2022,v Heat,Carrara,1,3,39,37,35,3,1,111.42,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,31 Dec 2022,v Hurricanes,Albury,1,3,18,18,14,1,1,128.57,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Jan 2023,v Scorchers,Perth,2,3,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jan 2023,v Sunrisers,Gqeberha,1,3,4,7,3,1,0,133.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Jan 2023,v Sunrisers,Centurion,1,3,20,-,15,3,1,133.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Jan 2023,v Super Kings,Johannesburg,2,3,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Jan 2023,v Super Kings,Centurion,2,4,11,11,7,1,1,157.14,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Jan 2023,v Super Giants,Durban,2,4,1*,3,1,0,0,100,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Jan 2023,v Paarl Royals,Paarl,1,4,19,18,13,3,0,146.15,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,23 Jan 2023,v MI Cape Town,Cape Town,1,3,1,10,5,0,0,20,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Feb 2023,v MI Cape Town,Centurion,2,4,40,35,19,2,4,210.52,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Feb 2023,v Super Giants,Centurion,2,4,18,20,12,3,1,150,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Feb 2023,v Paarl Royals,Centurion,1,4,13,16,13,1,0,100,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Feb 2023,v Paarl Royals,Johannesburg,1,4,56,56,41,5,3,136.58,caught,2,1.0,0,3,1,3
+318845,Rilee Rossouw,11 Feb 2023,v Sunrisers,Johannesburg,1,4,19,-,11,4,0,172.72,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Feb 2023,v Gladiators,Multan,2,3,78*,60,42,9,3,185.71,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Feb 2023,v Zalmi,Multan,1,3,75,60,36,12,2,208.33,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Feb 2023,v United,Multan,1,3,36,53,30,2,2,120,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Feb 2023,v Kings,Multan,1,3,29,48,21,4,0,138.09,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Feb 2023,v Kings,Karachi,2,3,7,12,6,1,0,116.66,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Mar 2023,v Qalandars,Lahore,2,4,12,22,10,0,1,120,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Mar 2023,v United,Rawalpindi,1,3,15,22,15,0,1,100,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Mar 2023,v Zalmi,Rawalpindi,2,3,121,87,51,12,8,237.25,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,11 Mar 2023,v Gladiators,Rawalpindi,1,3,15,12,9,1,1,166.66,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Mar 2023,v Qalandars,Lahore,1,3,13,13,12,0,1,108.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Mar 2023,v Qalandars,Lahore,2,3,52,42,32,7,2,162.5,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Mar 2023,v West Indies,Centurion,1,3,10,7,7,2,0,142.85,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Mar 2023,v West Indies,Centurion,2,3,16,8,4,1,2,400,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,28 Mar 2023,v West Indies,Johannesburg,2,3,42,37,21,4,3,200,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Apr 2023,v LSG,Lucknow,2,5,30,24,20,3,1,150,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,4 Apr 2023,v GT,Delhi,1,5,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Apr 2023,v RR,Guwahati,2,4,14,24,12,2,0,116.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,2 May 2023,v GT,Ahmedabad,1,4,8,9,6,2,0,133.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,6 May 2023,v RCB,Delhi,2,4,35*,34,22,1,3,159.09,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 May 2023,v CSK,Chennai,2,5,35,44,37,2,1,94.59,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 May 2023,v Punjab Kings,Delhi,2,4,5,6,5,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,17 May 2023,v Punjab Kings,Dharamsala,1,3,82*,44,37,6,6,221.62,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 May 2023,v CSK,Delhi,2,4,0,2,1,0,0,0,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jan 2024,v Paarl Royals,Paarl,2,4,29,25,18,1,2,161.11,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Jan 2024,v Paarl Royals,Centurion,2,4,82,58,45,10,4,182.22,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Jan 2024,v Super Giants,Centurion,1,4,11,13,11,0,1,100,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Jan 2024,v Super Kings,Johannesburg,1,4,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Jan 2024,v Sunrisers,Gqeberha,1,4,1,6,9,0,0,11.11,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Jan 2024,v Sunrisers,Centurion,1,4,13,14,12,3,0,108.33,run out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Jan 2024,v Super Kings,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Jan 2024,v Super Giants,Durban,2,4,10,58,27,0,0,37.03,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Feb 2024,v MI Cape Town,Centurion,2,4,0,4,3,0,0,0,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Feb 2024,v MI Cape Town,Cape Town,2,4,10,20,15,1,0,66.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Feb 2024,v Zalmi,Lahore,1,3,14,6,7,1,1,200,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Feb 2024,v Qalandars,Lahore,2,4,18,15,13,3,0,138.46,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Feb 2024,v United,Lahore,2,4,34*,62,38,3,0,89.47,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Feb 2024,v Sultans,Multan,2,4,30,-,18,1,2,166.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Feb 2024,v Kings,Karachi,2,5,6,13,10,1,0,60,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Mar 2024,v Kings,Rawalpindi,1,4,10,22,16,0,0,62.5,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Mar 2024,v Zalmi,Rawalpindi,2,3,8,12,11,1,0,72.72,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Mar 2024,v Qalandars,Karachi,2,3,13,18,11,1,0,118.18,lbw,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Mar 2024,v Sultans,Karachi,2,3,10,15,9,2,0,111.11,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Mar 2024,v United,Karachi,2,4,5,6,5,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Apr 2024,v MI,New Chandigarh,2,3,1,5,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Apr 2024,v GT,New Chandigarh,1,3,9,7,7,2,0,128.57,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,26 Apr 2024,v KKR,Eden Gardens,2,3,26,31,16,1,2,162.5,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 May 2024,v CSK,Chennai,2,3,43,41,23,5,2,186.95,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 May 2024,v CSK,Dharamsala,2,3,0,1,3,0,0,0,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,9 May 2024,v RCB,Dharamsala,2,3,61,42,27,9,3,225.92,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 May 2024,v RR,Guwahati,2,3,22,18,13,5,0,169.23,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 May 2024,v SRH,Hyderabad,1,3,49,42,24,3,4,204.16,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,2 Jul 2024,v Galle,Pallekele,1,4,1,-,7,0,0,14.28,lbw,2,DNB,-,-,-,-
+318845,Rilee Rossouw,3 Jul 2024,v Sixers,Pallekele,2,3,1,-,6,0,0,16.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,5 Jul 2024,v Galle,Dambulla,2,3,67,-,42,8,3,159.52,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,6 Jul 2024,v Sixers,Dambulla,1,3,12,-,11,0,1,109.09,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Jul 2024,v Kandy,Dambulla,1,3,41,-,18,2,4,227.77,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jul 2024,v Colombo,Dambulla,2,3,108*,-,50,12,6,216,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Jul 2024,v Kandy,Colombo (RPS),2,3,6,-,3,0,1,200,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Jul 2024,v Colombo,Colombo (RPS),1,3,0,-,6,0,0,0,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Jul 2024,v Galle,Colombo (RPS),1,3,40,-,22,4,3,181.81,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Jul 2024,v Kandy,Colombo (RPS),1,3,7,-,6,1,0,116.66,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Jul 2024,v Galle,Colombo (RPS),2,3,106*,-,53,9,7,200,not out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Aug 2024,v Falcons,North Sound,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,8 Sep 2024,v Falcons,Basseterre,1,5,20,39,26,1,0,76.92,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Sep 2024,v Kings,Gros Islet,1,4,50,49,31,1,5,161.29,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Sep 2024,v Royals,Bridgetown,1,4,9,19,10,0,1,90,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,20 Sep 2024,v Amazon,Providence,2,6,11,14,10,1,0,110,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Sep 2024,v Trinbago,Tarouba,1,4,20,14,11,4,0,181.81,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Oct 2024,v Lions,Bloemfontein,2,3,6,15,6,1,0,100,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Oct 2024,v Titans,Centurion,1,3,66,40,32,4,6,206.25,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Oct 2024,v Dolphins,Bloemfontein,1,3,20,31,23,1,0,86.95,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,10 Jan 2025,v Super Giants,Durban,2,3,1,5,4,0,0,25,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Jan 2025,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+318845,Rilee Rossouw,14 Jan 2025,v Sunrisers,Centurion,2,4,12,13,11,1,1,109.09,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,16 Jan 2025,v Super Kings,Johannesburg,1,4,1,5,4,0,0,25,bowled,-,TDNB,-,-,-,-
+318845,Rilee Rossouw,18 Jan 2025,v Paarl Royals,Centurion,1,5,14,13,9,1,1,155.55,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,22 Jan 2025,v Sunrisers,Gqeberha,2,4,0,5,3,0,0,0,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Jan 2025,v Paarl Royals,Paarl,2,4,4,3,3,1,0,133.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,12 Apr 2025,v Zalmi,Rawalpindi,1,4,21*,24,10,2,1,210,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,13 Apr 2025,v Qalandars,Rawalpindi,2,5,44,35,19,4,4,231.57,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,18 Apr 2025,v Kings,Karachi,2,6,1,5,7,0,0,14.28,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,25 Apr 2025,v Kings,Lahore,1,3,10,-,9,2,0,111.11,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Apr 2025,v Zalmi,Lahore,1,3,27,20,18,5,0,150,bowled,2,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Apr 2025,v Sultans,Lahore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 May 2025,v Qalandars,Lahore,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+318845,Rilee Rossouw,3 May 2025,v United,Lahore,2,3,27,-,24,4,0,112.5,run out,1,DNB,-,-,-,-
+318845,Rilee Rossouw,7 May 2025,v United,Rawalpindi,1,3,104,-,46,14,6,226.08,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,21 May 2025,v United,Lahore,1,3,16,-,8,2,1,200,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,25 May 2025,v Qalandars,Lahore,1,3,22,-,11,4,1,200,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,14 Aug 2025,v Falcons,Basseterre,2,4,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,15 Aug 2025,v Amazon,Basseterre,1,4,12,-,14,0,1,85.71,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,17 Aug 2025,v Trinbago,Basseterre,2,3,38,42,24,1,4,158.33,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,19 Aug 2025,v Kings,Basseterre,2,3,11,19,12,1,0,91.66,caught,1,DNB,-,-,-,-
+318845,Rilee Rossouw,21 Aug 2025,v Royals,Basseterre,1,3,6,7,7,1,0,85.71,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Aug 2025,v Falcons,North Sound,1,3,10,18,12,2,0,83.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,7 Sep 2025,v Amazon,Providence,1,5,14,22,15,1,0,93.33,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,24 Oct 2025,v Northern Cpe,Kimberley,1,3,97,60,46,8,8,210.86,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,29 Oct 2025,v Limpopo,Bloemfontein,1,3,83*,56,36,1,9,230.55,not out,2,DNB,-,-,-,-
+318845,Rilee Rossouw,9 Nov 2025,v Easterns,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+318845,Rilee Rossouw,27 Dec 2025,v Capitals,Centurion,1,3,48,38,33,5,3,145.45,caught,2,DNB,-,-,-,-
+318845,Rilee Rossouw,30 Dec 2025,v Super Giants,Durban,2,3,43,42,32,5,1,134.37,bowled,1,DNB,-,-,-,-
+318845,Rilee Rossouw,1 Jan 2026,v Super Giants,Johannesburg,1,3,0,3,4,0,0,0,caught,2,DNB,-,-,-,-

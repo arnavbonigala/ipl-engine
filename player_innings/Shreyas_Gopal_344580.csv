@@ -1,0 +1,111 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+344580,Shreyas Gopal,19 May 2014,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+344580,Shreyas Gopal,21 May 2014,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+344580,Shreyas Gopal,23 May 2014,v Daredevils,Wankhede,1,8,11,17,10,1,0,110,run out,2,3.0,0,20,1,6.66
+344580,Shreyas Gopal,25 May 2014,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+344580,Shreyas Gopal,14 Sep 2014,v Express,Raipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+344580,Shreyas Gopal,16 Sep 2014,v Northern Dis,Raipur,1,8,24,25,12,2,1,200,run out,2,DNB,-,-,-,-
+344580,Shreyas Gopal,26 Mar 2015,v Goa,Kochi,2,5,23*,41,25,1,0,92,not out,1,2.0,0,19,1,9.5
+344580,Shreyas Gopal,27 Mar 2015,v Tamil Nadu,Kochi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+344580,Shreyas Gopal,28 Mar 2015,v Hyderabad,Kochi,2,7,39,22,22,2,3,177.27,caught,1,3.0,0,21,1,7
+344580,Shreyas Gopal,29 Mar 2015,v Kerala,Kochi,2,6,0,3,0,0,0,-,run out,1,3.0,0,17,1,5.66
+344580,Shreyas Gopal,14 Apr 2015,v RR,Ahmedabad,1,8,1*,-,1,0,0,100,not out,2,2.1,0,23,1,10.61
+344580,Shreyas Gopal,7 Jan 2016,v Maharashtra,Cuttack,2,8,3,4,2,0,0,150,run out,1,3.0,0,29,0,9.66
+344580,Shreyas Gopal,8 Jan 2016,v Odisha,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+344580,Shreyas Gopal,9 Apr 2016,v Supergiants,Wankhede,1,7,2,16,16,0,0,12.5,caught,2,3.0,0,18,0,6
+344580,Shreyas Gopal,24 Jan 2018,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,2,14,1,4.66
+344580,Shreyas Gopal,25 Jan 2018,v Mumbai,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,2,11
+344580,Shreyas Gopal,9 Apr 2018,v SRH,Hyderabad,1,8,18,-,18,2,0,100,caught,2,3.0,0,18,0,6
+344580,Shreyas Gopal,11 Apr 2018,v Daredevils,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+344580,Shreyas Gopal,15 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+344580,Shreyas Gopal,18 Apr 2018,v KKR,Jaipur,1,8,0,-,1,0,0,0,bowled,2,3.0,0,23,0,7.66
+344580,Shreyas Gopal,20 Apr 2018,v CSK,Pune,2,9,8*,-,10,0,0,80,not out,1,4.0,0,20,3,5
+344580,Shreyas Gopal,22 Apr 2018,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,30,0,15
+344580,Shreyas Gopal,2 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,1,13
+344580,Shreyas Gopal,6 May 2018,v Kings XI,Indore,1,9,24,-,16,3,0,150,run out,2,3.0,0,26,0,8.66
+344580,Shreyas Gopal,13 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+344580,Shreyas Gopal,19 May 2018,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,4,4
+344580,Shreyas Gopal,23 May 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+344580,Shreyas Gopal,24 Feb 2019,v Arunachal,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.4,0,11,5,3
+344580,Shreyas Gopal,25 Feb 2019,v Mizoram,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,1,8,4,2
+344580,Shreyas Gopal,27 Feb 2019,v Chhattisgarh,Cuttack,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+344580,Shreyas Gopal,28 Feb 2019,v Odisha,Cuttack,1,8,17,-,14,2,0,121.42,run out,2,3.0,0,24,0,8
+344580,Shreyas Gopal,2 Mar 2019,v Haryana,Cuttack,1,9,2,-,3,0,0,66.66,caught,2,2.0,0,16,3,8
+344580,Shreyas Gopal,10 Mar 2019,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+344580,Shreyas Gopal,12 Mar 2019,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+344580,Shreyas Gopal,14 Mar 2019,v Maharashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+344580,Shreyas Gopal,25 Mar 2019,v Kings XI,Jaipur,2,10,1*,4,1,0,0,100,not out,1,1.0,0,5,0,5
+344580,Shreyas Gopal,29 Mar 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+344580,Shreyas Gopal,31 Mar 2019,v CSK,Chennai,2,9,0,-,3,0,0,0,caught,1,3.0,0,23,0,7.66
+344580,Shreyas Gopal,2 Apr 2019,v RCB,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,12,3,3
+344580,Shreyas Gopal,7 Apr 2019,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+344580,Shreyas Gopal,11 Apr 2019,v CSK,Jaipur,1,9,19*,7,7,2,1,271.42,not out,2,4.0,0,31,0,7.75
+344580,Shreyas Gopal,13 Apr 2019,v MI,Wankhede,2,7,13*,12,7,2,0,185.71,not out,1,4.0,0,21,0,5.25
+344580,Shreyas Gopal,16 Apr 2019,v Kings XI,Mohali,2,8,0,4,1,0,0,0,caught,1,4.0,0,31,0,7.75
+344580,Shreyas Gopal,20 Apr 2019,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+344580,Shreyas Gopal,22 Apr 2019,v DC,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,2,11.75
+344580,Shreyas Gopal,25 Apr 2019,v KKR,Eden Gardens,2,7,18,18,9,4,0,200,caught,1,3.0,0,31,1,10.33
+344580,Shreyas Gopal,27 Apr 2019,v SRH,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+344580,Shreyas Gopal,30 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,3,12
+344580,Shreyas Gopal,4 May 2019,v DC,Delhi,1,5,12,32,18,0,0,66.66,stumped,2,4.0,0,21,2,5.25
+344580,Shreyas Gopal,8 Nov 2019,v Uttarakhand,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+344580,Shreyas Gopal,9 Nov 2019,v Baroda,Visakhapatnam,2,9,20,-,9,4,0,222.22,caught,1,3.0,0,19,0,6.33
+344580,Shreyas Gopal,11 Nov 2019,v Andhra,Visakhapatnam,2,6,11,-,15,1,0,73.33,caught,1,3.0,0,29,1,9.66
+344580,Shreyas Gopal,12 Nov 2019,v Services,Vizianagaram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,5,4.75
+344580,Shreyas Gopal,15 Nov 2019,v Bihar,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+344580,Shreyas Gopal,17 Nov 2019,v Goa,Vizianagaram,1,8,0,-,1,0,0,0,bowled,2,4.0,0,14,3,3.5
+344580,Shreyas Gopal,21 Nov 2019,v Tamil Nadu,Surat,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,1,10.66
+344580,Shreyas Gopal,22 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+344580,Shreyas Gopal,24 Nov 2019,v Punjab,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+344580,Shreyas Gopal,25 Nov 2019,v Mumbai,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+344580,Shreyas Gopal,29 Nov 2019,v Haryana,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+344580,Shreyas Gopal,1 Dec 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+344580,Shreyas Gopal,22 Sep 2020,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+344580,Shreyas Gopal,27 Sep 2020,v Kings XI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+344580,Shreyas Gopal,30 Sep 2020,v KKR,Dubai (DICS),2,8,5,-,7,0,0,71.42,caught,1,4.0,0,43,0,10.75
+344580,Shreyas Gopal,3 Oct 2020,v RCB,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+344580,Shreyas Gopal,6 Oct 2020,v MI,Abu Dhabi,2,9,1,-,2,0,0,50,caught,1,4.0,0,28,2,7
+344580,Shreyas Gopal,9 Oct 2020,v DC,Sharjah,2,9,2,-,3,0,0,66.66,caught,1,2.0,0,23,0,11.5
+344580,Shreyas Gopal,11 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+344580,Shreyas Gopal,14 Oct 2020,v DC,Dubai (DICS),2,9,6,-,4,1,0,150,caught,1,4.0,0,31,1,7.75
+344580,Shreyas Gopal,17 Oct 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+344580,Shreyas Gopal,19 Oct 2020,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+344580,Shreyas Gopal,22 Oct 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+344580,Shreyas Gopal,25 Oct 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+344580,Shreyas Gopal,30 Oct 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+344580,Shreyas Gopal,1 Nov 2020,v KKR,Dubai (DICS),2,8,23*,-,23,2,0,100,not out,1,3.0,0,44,1,14.66
+344580,Shreyas Gopal,14 Jan 2021,v Tripura,Alur (3),1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,0,5
+344580,Shreyas Gopal,16 Jan 2021,v Railways,Alur (2),2,7,10,-,12,1,0,83.33,caught,1,3.0,0,27,2,9
+344580,Shreyas Gopal,18 Jan 2021,v UP,Alur (3),2,6,47*,-,28,5,1,167.85,not out,1,4.0,0,22,1,5.5
+344580,Shreyas Gopal,26 Jan 2021,v Punjab,Ahmedabad,1,6,13,-,11,2,0,118.18,caught,2,2.4,0,17,0,6.37
+344580,Shreyas Gopal,12 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,0,13.33
+344580,Shreyas Gopal,22 Apr 2021,v RCB,Wankhede,1,9,7*,7,4,0,1,175,not out,2,3.0,0,35,0,11.66
+344580,Shreyas Gopal,5 Oct 2021,v MI,Sharjah,1,8,0,5,1,0,0,0,caught,2,1.0,0,9,0,9
+344580,Shreyas Gopal,5 May 2022,v DC,Brabourne,2,8,9*,17,7,2,0,128.57,not out,1,3.0,0,34,1,11.33
+344580,Shreyas Gopal,11 Oct 2022,v Maharashtra,Mohali,1,-,sub,-,-,-,-,-,-,2,3.0,0,15,1,5
+344580,Shreyas Gopal,16 Oct 2022,v J & K,New Chandigarh,1,6,48*,-,38,4,1,126.31,not out,2,2.0,0,9,1,4.5
+344580,Shreyas Gopal,20 Oct 2022,v Services,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+344580,Shreyas Gopal,22 Oct 2022,v Haryana,Mohali,2,5,22,-,23,2,0,95.65,run out,1,2.0,0,14,1,7
+344580,Shreyas Gopal,16 Oct 2023,v Himachal,Mumbai,1,7,12,-,9,2,0,133.33,stumped,2,4.0,0,17,4,4.25
+344580,Shreyas Gopal,17 Oct 2023,v Services,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+344580,Shreyas Gopal,19 Oct 2023,v Bihar,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+344580,Shreyas Gopal,21 Oct 2023,v Chandigarh,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+344580,Shreyas Gopal,25 Oct 2023,v Odisha,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.1,0,18,4,5.68
+344580,Shreyas Gopal,27 Oct 2023,v Assam,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+344580,Shreyas Gopal,2 Nov 2023,v Assam,Mohali,1,6,0,-,2,0,0,0,bowled,2,3.0,0,30,0,10
+344580,Shreyas Gopal,11 Apr 2024,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+344580,Shreyas Gopal,14 Apr 2024,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,1,9
+344580,Shreyas Gopal,18 Apr 2024,v Punjab Kings,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,1,13
+344580,Shreyas Gopal,23 Nov 2024,v Uttarakhand,Indore,2,9,0,-,1,0,0,0,lbw,1,4.0,0,30,2,7.5
+344580,Shreyas Gopal,25 Nov 2024,v Tripura,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+344580,Shreyas Gopal,27 Nov 2024,v Saurashtra,Indore,1,5,36,-,22,4,2,163.63,caught,2,4.0,0,23,1,5.75
+344580,Shreyas Gopal,29 Nov 2024,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,5,3.25
+344580,Shreyas Gopal,1 Dec 2024,v Tamil Nadu,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+344580,Shreyas Gopal,3 Dec 2024,v Baroda,Indore,1,5,18,-,16,1,0,112.5,run out,2,4.0,0,19,4,4.75
+344580,Shreyas Gopal,5 Dec 2024,v Gujarat,Indore,2,10,1,-,2,0,0,50,caught,1,3.0,0,41,0,13.66
+344580,Shreyas Gopal,26 Nov 2025,v Uttarakhand,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+344580,Shreyas Gopal,28 Nov 2025,v Jharkhand,Ahmedabad,1,8,19*,-,9,3,0,211.11,not out,2,4.0,0,21,1,5.25
+344580,Shreyas Gopal,30 Nov 2025,v Rajasthan,Ahmedabad,2,8,4,-,3,1,0,133.33,caught,1,4.0,0,45,0,11.25
+344580,Shreyas Gopal,2 Dec 2025,v Tamil Nadu,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,3,7
+344580,Shreyas Gopal,4 Dec 2025,v Delhi,Ahmedabad,2,9,0,-,1,0,0,0,caught,1,2.0,0,31,0,15.5
+344580,Shreyas Gopal,6 Dec 2025,v Saurashtra,Ahmedabad,2,10,2*,-,2,0,0,100,not out,1,4.0,0,42,1,10.5

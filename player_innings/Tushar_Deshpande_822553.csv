@@ -1,0 +1,103 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+822553,Tushar Deshpande,1 Apr 2015,v Odisha,Cuttack,2,10,0,1,1,0,0,0,stumped,1,2.0,0,19,0,9.5
+822553,Tushar Deshpande,2 Apr 2015,v Punjab,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+822553,Tushar Deshpande,7 Jan 2018,v Baroda,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+822553,Tushar Deshpande,8 Jan 2018,v Gujarat,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+822553,Tushar Deshpande,10 Jan 2018,v Saurashtra,Rajkot,1,11,1,5,3,0,0,33.33,bowled,2,3.0,0,25,0,8.33
+822553,Tushar Deshpande,21 Feb 2019,v Sikkim,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+822553,Tushar Deshpande,22 Feb 2019,v Punjab,Indore,1,11,0,3,1,0,0,0,run out,2,3.0,0,15,1,5
+822553,Tushar Deshpande,24 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,4,7
+822553,Tushar Deshpande,25 Feb 2019,v Goa,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+822553,Tushar Deshpande,27 Feb 2019,v Railways,Indore,2,11,4*,2,2,1,0,200,not out,1,4.0,0,44,3,11
+822553,Tushar Deshpande,28 Feb 2019,v Saurashtra,Indore,1,11,0,-,1,0,0,0,run out,2,2.5,0,24,2,8.47
+822553,Tushar Deshpande,8 Mar 2019,v Karnataka,Indore,1,11,0*,-,0,0,0,-,not out,2,1.2,0,15,0,11.25
+822553,Tushar Deshpande,9 Mar 2019,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,4,4.75
+822553,Tushar Deshpande,11 Mar 2019,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+822553,Tushar Deshpande,12 Mar 2019,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+822553,Tushar Deshpande,8 Nov 2019,v Mizoram,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.3,0,8,2,3.2
+822553,Tushar Deshpande,9 Nov 2019,v Haryana,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+822553,Tushar Deshpande,11 Nov 2019,v M. Pradesh,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+822553,Tushar Deshpande,12 Nov 2019,v Puducherry,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+822553,Tushar Deshpande,27 Nov 2019,v Punjab,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+822553,Tushar Deshpande,14 Oct 2020,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+822553,Tushar Deshpande,17 Oct 2020,v CSK,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+822553,Tushar Deshpande,20 Oct 2020,v Kings XI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,41,0,20.5
+822553,Tushar Deshpande,24 Oct 2020,v KKR,Abu Dhabi,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,40,0,10
+822553,Tushar Deshpande,27 Oct 2020,v SRH,Dubai (DICS),2,10,20*,-,9,2,1,222.22,not out,1,3.0,0,35,0,11.66
+822553,Tushar Deshpande,11 Jan 2021,v Delhi,Wankhede,2,9,5*,-,5,0,0,100,not out,1,4.0,0,40,1,10
+822553,Tushar Deshpande,13 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,55,1,18.33
+822553,Tushar Deshpande,4 Nov 2021,v Karnataka,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+822553,Tushar Deshpande,5 Nov 2021,v Services,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+822553,Tushar Deshpande,6 Nov 2021,v Bengal,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+822553,Tushar Deshpande,8 Nov 2021,v Chhattisgarh,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+822553,Tushar Deshpande,26 Mar 2022,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+822553,Tushar Deshpande,31 Mar 2022,v LSG,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+822553,Tushar Deshpande,11 Oct 2022,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+822553,Tushar Deshpande,12 Oct 2022,v M. Pradesh,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+822553,Tushar Deshpande,14 Oct 2022,v Assam,Rajkot,1,-,DNB,-,-,-,-,-,-,2,3.3,0,25,3,7.14
+822553,Tushar Deshpande,16 Oct 2022,v Vidarbha,Saurashtra,1,10,1*,-,1,0,0,100,not out,2,3.0,0,28,0,9.33
+822553,Tushar Deshpande,18 Oct 2022,v Rajasthan,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+822553,Tushar Deshpande,20 Oct 2022,v Railways,Rajkot,1,11,3,-,4,0,0,75,caught,2,4.0,0,24,2,6
+822553,Tushar Deshpande,22 Oct 2022,v Uttarakhand,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+822553,Tushar Deshpande,1 Nov 2022,v Saurashtra,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,3,9.25
+822553,Tushar Deshpande,3 Nov 2022,v Vidarbha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+822553,Tushar Deshpande,5 Nov 2022,v Himachal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+822553,Tushar Deshpande,31 Mar 2023,v GT,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,3.2,0,51,1,15.3
+822553,Tushar Deshpande,3 Apr 2023,v LSG,Chennai,1,-,sub,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+822553,Tushar Deshpande,8 Apr 2023,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,2,10.33
+822553,Tushar Deshpande,12 Apr 2023,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+822553,Tushar Deshpande,17 Apr 2023,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,3,11.25
+822553,Tushar Deshpande,21 Apr 2023,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+822553,Tushar Deshpande,23 Apr 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+822553,Tushar Deshpande,27 Apr 2023,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+822553,Tushar Deshpande,30 Apr 2023,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,3,12.25
+822553,Tushar Deshpande,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,1,0,1
+822553,Tushar Deshpande,6 May 2023,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+822553,Tushar Deshpande,10 May 2023,v DC,Chennai,1,10,0*,2,1,0,0,0,not out,2,3.0,0,18,0,6
+822553,Tushar Deshpande,14 May 2023,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.3,0,25,0,7.14
+822553,Tushar Deshpande,20 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+822553,Tushar Deshpande,23 May 2023,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+822553,Tushar Deshpande,28 May 2023,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,0,14
+822553,Tushar Deshpande,16 Oct 2023,v Haryana,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+822553,Tushar Deshpande,17 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,1,8,3,2.66
+822553,Tushar Deshpande,19 Oct 2023,v Baroda,Jaipur,1,10,3*,-,2,0,0,150,not out,2,4.0,0,20,3,5
+822553,Tushar Deshpande,21 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+822553,Tushar Deshpande,23 Oct 2023,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+822553,Tushar Deshpande,25 Oct 2023,v Hyderabad,Jaipur,2,10,6*,-,4,1,0,150,not out,1,4.0,0,34,2,8.5
+822553,Tushar Deshpande,27 Oct 2023,v Mizoram,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.3,0,13,4,3.71
+822553,Tushar Deshpande,2 Nov 2023,v Baroda,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.5,0,19,1,4.95
+822553,Tushar Deshpande,22 Mar 2024,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+822553,Tushar Deshpande,26 Mar 2024,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+822553,Tushar Deshpande,31 Mar 2024,v DC,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+822553,Tushar Deshpande,5 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+822553,Tushar Deshpande,8 Apr 2024,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+822553,Tushar Deshpande,14 Apr 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+822553,Tushar Deshpande,19 Apr 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+822553,Tushar Deshpande,23 Apr 2024,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+822553,Tushar Deshpande,28 Apr 2024,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,4,9
+822553,Tushar Deshpande,5 May 2024,v Punjab Kings,Dharamsala,1,10,0*,6,1,0,0,0,not out,2,4.0,0,35,2,8.75
+822553,Tushar Deshpande,10 May 2024,v GT,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+822553,Tushar Deshpande,12 May 2024,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+822553,Tushar Deshpande,18 May 2024,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+822553,Tushar Deshpande,13 Jul 2024,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+822553,Tushar Deshpande,14 Jul 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+822553,Tushar Deshpande,23 Mar 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,3,11
+822553,Tushar Deshpande,26 Mar 2025,v KKR,Guwahati,1,11,2*,1,1,0,0,200,not out,2,1.0,0,7,0,7
+822553,Tushar Deshpande,30 Mar 2025,v CSK,Guwahati,1,11,1*,4,2,0,0,50,not out,2,4.0,0,45,0,11.25
+822553,Tushar Deshpande,9 Apr 2025,v GT,Ahmedabad,2,10,3,3,3,0,0,100,caught,1,4.0,0,53,2,13.25
+822553,Tushar Deshpande,13 Apr 2025,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+822553,Tushar Deshpande,16 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+822553,Tushar Deshpande,19 Apr 2025,v LSG,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+822553,Tushar Deshpande,24 Apr 2025,v RCB,Bengaluru,2,10,1*,5,2,0,0,50,not out,1,2.0,0,36,0,18
+822553,Tushar Deshpande,18 May 2025,v Punjab Kings,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+822553,Tushar Deshpande,20 May 2025,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+822553,Tushar Deshpande,26 Nov 2025,v Railways,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,1,34,1,8.5
+822553,Tushar Deshpande,28 Nov 2025,v Vidarbha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+822553,Tushar Deshpande,30 Nov 2025,v Andhra,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+822553,Tushar Deshpande,2 Dec 2025,v Assam,Lucknow,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+822553,Tushar Deshpande,4 Dec 2025,v Kerala,Lucknow,2,11,1*,-,1,0,0,100,not out,1,3.0,0,29,0,9.66
+822553,Tushar Deshpande,6 Dec 2025,v Chhattisgarh,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.4,0,38,2,10.36
+822553,Tushar Deshpande,8 Dec 2025,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+822553,Tushar Deshpande,12 Dec 2025,v Hyderabad,Pune,1,11,1,-,2,0,0,50,run out,2,1.5,0,16,1,8.72
+822553,Tushar Deshpande,14 Dec 2025,v Haryana,Ambi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+822553,Tushar Deshpande,16 Dec 2025,v Rajasthan,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,1,13.5

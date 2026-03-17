@@ -1,0 +1,136 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1070665,Dewald Brevis,8 Oct 2021,v Easterns,Bloemfontein,1,3,46,-,25,2,4,184,caught,2,3.0,0,16,0,5.33
+1070665,Dewald Brevis,9 Oct 2021,v North West,Bloemfontein,2,3,16,-,12,3,0,133.33,caught,1,3.0,0,28,1,9.33
+1070665,Dewald Brevis,12 Feb 2022,v Knights,Gqeberha,1,2,23,32,25,2,1,92,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Feb 2022,v Dolphins,Gqeberha,2,3,46*,47,30,4,2,153.33,not out,1,DNB,-,-,-,-
+1070665,Dewald Brevis,17 Feb 2022,v Lions,Gqeberha,2,3,7,10,8,1,0,87.5,caught,1,3.0,0,18,1,6
+1070665,Dewald Brevis,19 Feb 2022,v W Province,Gqeberha,2,3,26,27,20,2,1,130,caught,1,3.0,0,19,1,6.33
+1070665,Dewald Brevis,22 Feb 2022,v North West,Gqeberha,1,3,0,2,2,0,0,0,bowled,2,4.0,0,33,2,8.25
+1070665,Dewald Brevis,25 Feb 2022,v Dolphins,Gqeberha,2,3,38,50,30,4,1,126.66,caught,1,2.0,0,8,0,4
+1070665,Dewald Brevis,27 Feb 2022,v Boland,Gqeberha,2,3,5,-,13,0,0,38.46,caught,1,2.0,0,20,0,10
+1070665,Dewald Brevis,6 Apr 2022,v KKR,Pune,1,3,29,24,19,2,2,152.63,stumped,2,DNB,-,-,-,-
+1070665,Dewald Brevis,9 Apr 2022,v RCB,Pune,1,3,8,12,11,1,0,72.72,lbw,2,0.3,0,8,1,16
+1070665,Dewald Brevis,13 Apr 2022,v Punjab Kings,Pune,2,3,49,37,25,4,5,196,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Apr 2022,v LSG,Brabourne,2,3,31,20,13,6,1,238.46,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Apr 2022,v CSK,DY Patil,1,3,4,16,7,0,0,57.14,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,24 Apr 2022,v LSG,Wankhede,2,3,3,8,5,0,0,60,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 May 2022,v DC,Wankhede,2,3,37,43,33,1,3,112.12,bowled,1,DNB,-,-,-,-
+1070665,Dewald Brevis,31 Aug 2022,v Tallawahs,Basseterre,2,3,14,-,11,1,1,127.27,bowled,1,DNB,-,-,-,-
+1070665,Dewald Brevis,1 Sep 2022,v Royals,Basseterre,1,5,4,-,2,1,0,200,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,3 Sep 2022,v Trinbago,Basseterre,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1070665,Dewald Brevis,8 Sep 2022,v Amazon,Gros Islet,2,3,13,30,18,0,1,72.22,lbw,1,DNB,-,-,-,-
+1070665,Dewald Brevis,11 Sep 2022,v Kings,Gros Islet,2,3,11,21,9,0,1,122.22,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Sep 2022,v Tallawahs,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070665,Dewald Brevis,17 Sep 2022,v Kings,Tarouba,2,3,32,52,19,1,3,168.42,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Sep 2022,v Royals,Providence,2,4,21,23,16,0,2,131.25,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,22 Sep 2022,v Trinbago,Providence,1,6,30*,22,6,0,5,500,not out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,17 Oct 2022,v Dolphins,Potchefstroom,1,1,57,62,44,2,4,129.54,caught,2,3.0,0,20,1,6.66
+1070665,Dewald Brevis,19 Oct 2022,v Lions,Potchefstroom,1,1,30,32,17,3,2,176.47,caught,2,4.0,0,19,2,4.75
+1070665,Dewald Brevis,21 Oct 2022,v W Province,Potchefstroom,1,1,0,1,2,0,0,0,bowled,2,2.0,0,13,1,6.5
+1070665,Dewald Brevis,22 Oct 2022,v North West,Potchefstroom,2,1,40,40,28,2,3,142.85,caught,1,1.0,0,9,1,9
+1070665,Dewald Brevis,25 Oct 2022,v Boland,Potchefstroom,2,1,22,12,11,2,2,200,caught,1,2.0,0,10,0,5
+1070665,Dewald Brevis,28 Oct 2022,v Warriors,Potchefstroom,2,1,5,16,11,1,0,45.45,caught,1,2.0,0,17,0,8.5
+1070665,Dewald Brevis,31 Oct 2022,v Knights,Potchefstroom,1,1,162,97,57,13,13,284.21,caught,2,2.0,0,36,1,18
+1070665,Dewald Brevis,2 Nov 2022,v Knights,Potchefstroom,1,1,9,20,10,1,0,90,caught,2,3.0,0,15,1,5
+1070665,Dewald Brevis,5 Nov 2022,v Dolphins,Potchefstroom,2,1,2,7,5,0,0,40,caught,1,1.0,0,11,0,11
+1070665,Dewald Brevis,10 Jan 2023,v Paarl Royals,Cape Town,2,1,70*,73,41,4,5,170.73,not out,1,DNB,-,-,-,-
+1070665,Dewald Brevis,13 Jan 2023,v Super Giants,Cape Town,1,1,0,4,2,0,0,0,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Jan 2023,v Super Kings,Cape Town,2,1,42,52,34,2,3,123.52,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Jan 2023,v Sunrisers,Gqeberha,1,1,15,-,28,1,0,53.57,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,18 Jan 2023,v Sunrisers,Cape Town,1,1,6,9,8,0,0,75,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Jan 2023,v Paarl Royals,Paarl,1,2,2,14,10,0,0,20,lbw,2,DNB,-,-,-,-
+1070665,Dewald Brevis,23 Jan 2023,v Capitals,Cape Town,2,1,46,-,30,4,3,153.33,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,2 Feb 2023,v Super Giants,Durban,1,1,13,22,10,1,1,130,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,4 Feb 2023,v Capitals,Centurion,1,4,14,16,11,0,2,127.27,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,6 Feb 2023,v Super Kings,Johannesburg,2,4,27,53,26,0,2,103.84,bowled,1,2.0,0,18,1,9
+1070665,Dewald Brevis,30 Aug 2023,v Australia,Durban,2,5,5,6,6,0,0,83.33,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,1 Sep 2023,v Australia,Durban,1,5,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,11 Jan 2024,v Super Giants,Durban,1,3,5,5,5,1,0,100,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,13 Jan 2024,v Super Kings,Johannesburg,1,3,5,9,5,1,0,100,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Jan 2024,v Sunrisers,Cape Town,2,3,8,51,9,1,0,88.88,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,19 Jan 2024,v Paarl Royals,Cape Town,2,3,10,14,7,1,0,142.85,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Jan 2024,v Paarl Royals,Paarl,2,3,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+1070665,Dewald Brevis,23 Jan 2024,v Super Giants,Cape Town,2,5,21,42,19,0,1,110.52,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,27 Jan 2024,v Sunrisers,Gqeberha,2,6,26,21,19,0,3,136.84,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,29 Jan 2024,v Super Kings,Cape Town,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1070665,Dewald Brevis,1 Feb 2024,v Capitals,Centurion,1,4,66*,61,32,3,6,206.25,not out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,3 Feb 2024,v Capitals,Cape Town,1,5,9,16,10,1,0,90,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,8 Mar 2024,v North West,Centurion,1,2,29,27,19,3,2,152.63,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,10 Mar 2024,v Boland,Paarl,2,2,14,13,14,1,1,100,lbw,1,3.0,0,13,1,4.33
+1070665,Dewald Brevis,13 Mar 2024,v Warriors,Centurion,2,2,50,51,29,5,3,172.41,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,24 Mar 2024,v GT,Ahmedabad,2,4,46,58,38,2,3,121.05,caught,1,sub,-,-,-,-
+1070665,Dewald Brevis,1 Apr 2024,v RR,Wankhede,1,4,0,8,1,0,0,0,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,17 May 2024,v LSG,Wankhede,2,2,23,41,20,1,2,115,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Jul 2024,v Washington,Dallas,2,4,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,18 Jul 2024,v SF,Dallas,2,1,56,-,36,5,3,155.55,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Jul 2024,v Los Angeles,Dallas,2,1,27,-,19,5,0,142.1,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,24 Jul 2024,v Texas,Dallas,1,1,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,27 Sep 2024,v Lions,Johannesburg,1,4,11,6,4,1,1,275,run out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,4 Oct 2024,v Dolphins,Durban,1,3,17,21,15,2,0,113.33,caught,2,1.0,0,13,0,13
+1070665,Dewald Brevis,6 Oct 2024,v W Province,Centurion,1,4,11,21,13,2,0,84.61,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,9 Jan 2025,v Sunrisers,Gqeberha,1,5,57,34,29,2,6,196.55,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,11 Jan 2025,v Super Kings,Johannesburg,1,5,14,26,13,1,1,107.69,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,13 Jan 2025,v Paarl Royals,Cape Town,1,7,14,22,9,0,1,155.55,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,15 Jan 2025,v Paarl Royals,Paarl,1,5,8,5,4,0,1,200,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,18 Jan 2025,v Super Kings,Cape Town,2,4,8,4,3,0,1,266.66,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Jan 2025,v Super Giants,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1070665,Dewald Brevis,25 Jan 2025,v Super Giants,Cape Town,2,3,26*,34,16,4,1,162.5,not out,1,1.0,0,6,0,6
+1070665,Dewald Brevis,29 Jan 2025,v Sunrisers,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+1070665,Dewald Brevis,31 Jan 2025,v Capitals,Centurion,1,5,73*,54,32,6,6,228.12,not out,2,1.0,0,12,1,12
+1070665,Dewald Brevis,2 Feb 2025,v Capitals,Cape Town,1,7,9*,3,4,2,0,225,not out,2,1.0,0,7,1,7
+1070665,Dewald Brevis,4 Feb 2025,v Paarl Royals,Gqeberha,1,3,44*,-,30,0,4,146.66,not out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,8 Feb 2025,v Sunrisers,Johannesburg,1,6,38,22,18,2,4,211.11,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,25 Apr 2025,v SRH,Chennai,1,5,42,32,25,1,4,168,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,30 Apr 2025,v Punjab Kings,Chennai,1,5,32,40,26,2,1,123.07,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,3 May 2025,v RCB,Bengaluru,2,5,0,2,1,0,0,0,lbw,1,DNB,-,-,-,-
+1070665,Dewald Brevis,7 May 2025,v KKR,Eden Gardens,2,6,52,33,25,4,4,208,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,20 May 2025,v RR,Delhi,1,6,42,36,25,2,3,168,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,25 May 2025,v GT,Ahmedabad,1,5,57,36,23,4,5,247.82,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,30 May 2025,v Essex,Southampton,1,3,68,-,32,4,6,212.5,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,5 Jun 2025,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070665,Dewald Brevis,6 Jun 2025,v Gloucs,Southampton,2,5,9*,8,7,0,1,128.57,not out,1,DNB,-,-,-,-
+1070665,Dewald Brevis,8 Jun 2025,v Kent,Canterbury,1,5,24,23,18,0,3,133.33,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,13 Jun 2025,v Middlesex,Southampton,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1070665,Dewald Brevis,17 Jun 2025,v Surrey,Southampton,2,5,16,13,10,0,2,160,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,19 Jun 2025,v Somerset,Taunton,2,4,36,29,16,1,4,225,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,20 Jun 2025,v Gloucs,Bristol,1,5,13,11,9,1,1,144.44,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Jul 2025,v Zimbabwe,Harare,2,5,41,24,17,1,5,241.17,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Jul 2025,v New Zealand,Harare,2,6,35,23,18,1,3,194.44,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,20 Jul 2025,v Zimbabwe,Harare,2,5,13*,12,7,1,1,185.71,not out,1,DNB,-,-,-,-
+1070665,Dewald Brevis,22 Jul 2025,v New Zealand,Harare,1,4,13,10,13,2,0,100,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,26 Jul 2025,v New Zealand,Harare,2,5,31,28,16,1,3,193.75,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,10 Aug 2025,v Australia,Darwin,2,4,2,5,6,0,0,33.33,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,12 Aug 2025,v Australia,Darwin,1,4,125*,78,56,12,8,223.21,not out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,16 Aug 2025,v Australia,Cairns,1,4,53,38,26,1,6,203.84,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,10 Sep 2025,v England,Cardiff,1,4,23,15,10,0,3,230,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,12 Sep 2025,v England,Manchester,2,4,4,3,3,1,0,133.33,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,28 Oct 2025,v Pakistan,Rawalpindi,1,4,9,8,5,0,1,180,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,31 Oct 2025,v Pakistan,Lahore,1,4,25,28,16,0,3,156.25,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,1 Nov 2025,v Pakistan,Lahore,1,4,21,35,22,0,2,95.45,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,9 Dec 2025,v India,Cuttack,2,4,22,41,14,3,1,157.14,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,11 Dec 2025,v India,New Chandigarh,1,4,14,24,10,1,1,140,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Dec 2025,v India,Dharamsala,1,4,2,11,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,19 Dec 2025,v India,Ahmedabad,2,3,31,25,17,3,2,182.35,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,27 Dec 2025,v Super Kings,Centurion,2,4,6,7,6,1,0,100,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,29 Dec 2025,v Sunrisers,Gqeberha,2,4,12,11,5,1,1,240,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,31 Dec 2025,v MI Cape Town,Cape Town,1,6,36*,31,13,1,4,276.92,not out,2,DNB,-,-,-,-
+1070665,Dewald Brevis,3 Jan 2026,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1070665,Dewald Brevis,5 Jan 2026,v Sunrisers,Centurion,1,5,8,21,13,0,0,61.53,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,7 Jan 2026,v Super Giants,Durban,1,5,12,6,5,0,2,240,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,10 Jan 2026,v Paarl Royals,Paarl,1,5,12,17,15,0,1,80,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,12 Jan 2026,v MI Cape Town,Centurion,1,5,34,45,19,1,3,178.94,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,15 Jan 2026,v Paarl Royals,Centurion,1,5,21,20,20,0,2,105,bowled,2,DNB,-,-,-,-
+1070665,Dewald Brevis,17 Jan 2026,v Super Kings,Johannesburg,1,4,53,76,47,4,3,112.76,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,21 Jan 2026,v Sunrisers,Durban,2,4,75*,38,38,4,7,197.36,not out,1,DNB,-,-,-,-
+1070665,Dewald Brevis,25 Jan 2026,v Sunrisers,Cape Town,1,4,101,82,56,8,7,180.35,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,27 Jan 2026,v West Indies,Paarl,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070665,Dewald Brevis,29 Jan 2026,v West Indies,Centurion,2,4,4,10,6,0,0,66.66,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,31 Jan 2026,v West Indies,Johannesburg,2,3,17,20,10,0,2,170,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,9 Feb 2026,v Canada,Ahmedabad,1,4,6,15,6,1,0,100,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,11 Feb 2026,v Afghanistan,Ahmedabad,1,4,23,23,19,1,1,121.05,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,14 Feb 2026,v New Zealand,Ahmedabad,2,4,21,17,17,1,1,123.52,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,18 Feb 2026,v U.A.E.,Delhi,2,4,36,29,25,1,3,144,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,22 Feb 2026,v India,Ahmedabad,1,4,45,52,29,3,3,155.17,caught,2,DNB,-,-,-,-
+1070665,Dewald Brevis,26 Feb 2026,v West Indies,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070665,Dewald Brevis,1 Mar 2026,v Zimbabwe,Delhi,2,4,42,43,18,2,4,233.33,caught,1,DNB,-,-,-,-
+1070665,Dewald Brevis,4 Mar 2026,v New Zealand,Eden Gardens,1,4,34,45,27,3,2,125.92,caught,2,DNB,-,-,-,-

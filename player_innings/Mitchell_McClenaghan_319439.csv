@@ -1,0 +1,204 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+319439,Mitchell McClenaghan,6 Feb 2009,v Auckland,New Plymouth,1,11,2*,-,2,0,0,100,not out,2,2.5,0,27,1,9.52
+319439,Mitchell McClenaghan,11 Feb 2009,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+319439,Mitchell McClenaghan,15 Feb 2009,v Canterbury,Christchurch,2,11,2*,2,1,0,0,200,not out,1,2.0,0,14,2,7
+319439,Mitchell McClenaghan,11 Sep 2010,v CSK,Durban,2,11,0,1,1,0,0,0,caught,1,4.0,0,34,0,8.5
+319439,Mitchell McClenaghan,22 Sep 2010,v Wayamba,Gqeberha,2,11,7,5,7,0,0,100,bowled,1,4.0,0,27,1,6.75
+319439,Mitchell McClenaghan,27 Dec 2010,v Wellington,Wellington,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+319439,Mitchell McClenaghan,29 Dec 2010,v Auckland,New Plymouth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+319439,Mitchell McClenaghan,16 Nov 2012,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+319439,Mitchell McClenaghan,21 Dec 2012,v South Africa,Durban,1,11,0,5,3,0,0,0,caught,2,3.0,1,20,1,6.66
+319439,Mitchell McClenaghan,23 Dec 2012,v South Africa,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+319439,Mitchell McClenaghan,26 Dec 2012,v South Africa,Gqeberha,2,11,1*,4,1,0,0,100,not out,1,4.0,0,24,2,6
+319439,Mitchell McClenaghan,9 Feb 2013,v England,Auckland,2,11,6*,6,7,1,0,85.71,not out,1,4.0,0,29,1,7.25
+319439,Mitchell McClenaghan,12 Feb 2013,v England,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+319439,Mitchell McClenaghan,15 Feb 2013,v England,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,1,38,0,12.66
+319439,Mitchell McClenaghan,25 Jun 2013,v England,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+319439,Mitchell McClenaghan,27 Jun 2013,v England,The Oval,-,-,TDNB,-,-,-,-,-,-,1,0.2,0,2,1,6
+319439,Mitchell McClenaghan,28 Jun 2013,v Durham,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+319439,Mitchell McClenaghan,1 Jul 2013,v Notts,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,5,7.25
+319439,Mitchell McClenaghan,2 Jul 2013,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+319439,Mitchell McClenaghan,5 Jul 2013,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+319439,Mitchell McClenaghan,7 Jul 2013,v Leics,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+319439,Mitchell McClenaghan,12 Jul 2013,v Derbyshire,Manchester,1,10,1,5,3,0,0,33.33,bowled,2,4.0,0,26,2,6.5
+319439,Mitchell McClenaghan,14 Jul 2013,v Durham,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+319439,Mitchell McClenaghan,23 Jul 2013,v Leics,Leicester,2,11,4*,1,1,1,0,400,not out,1,4.0,1,29,2,7.25
+319439,Mitchell McClenaghan,24 Jul 2013,v Yorkshire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+319439,Mitchell McClenaghan,28 Jul 2013,v Notts,Nottingham,2,11,10*,8,6,1,0,166.66,not out,1,4.0,0,41,1,10.25
+319439,Mitchell McClenaghan,7 Aug 2013,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+319439,Mitchell McClenaghan,6 Nov 2013,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,1,15
+319439,Mitchell McClenaghan,21 Nov 2013,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+319439,Mitchell McClenaghan,29 Nov 2013,v Wellington,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+319439,Mitchell McClenaghan,30 Nov 2013,v Canterbury,Auckland,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+319439,Mitchell McClenaghan,15 Jan 2014,v West Indies,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+319439,Mitchell McClenaghan,22 Mar 2014,v England,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+319439,Mitchell McClenaghan,24 Mar 2014,v South Africa,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+319439,Mitchell McClenaghan,29 Mar 2014,v Netherlands,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+319439,Mitchell McClenaghan,31 Mar 2014,v Sri Lanka,Chattogram,2,10,0*,1,0,0,0,-,not out,1,4.0,0,24,2,6
+319439,Mitchell McClenaghan,18 Jul 2014,v Northants,Northampton,1,11,4*,1,1,1,0,400,not out,2,3.0,0,26,1,8.66
+319439,Mitchell McClenaghan,25 Jul 2014,v Derbyshire,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+319439,Mitchell McClenaghan,2 Aug 2014,v Surrey,The Oval,1,11,3*,3,3,0,0,100,not out,2,4.0,0,44,1,11
+319439,Mitchell McClenaghan,31 Oct 2014,v South Island,Hamilton,2,10,13*,7,7,1,1,185.71,not out,1,4.0,0,27,0,6.75
+319439,Mitchell McClenaghan,1 Nov 2014,v Otago,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,1,29,3,7.25
+319439,Mitchell McClenaghan,8 Nov 2014,v Otago,Hamilton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,2,4.66
+319439,Mitchell McClenaghan,14 Nov 2014,v Wellington,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+319439,Mitchell McClenaghan,15 Nov 2014,v Central D,Auckland,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+319439,Mitchell McClenaghan,16 Nov 2014,v Northern Dis,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+319439,Mitchell McClenaghan,4 Dec 2014,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+319439,Mitchell McClenaghan,19 Apr 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+319439,Mitchell McClenaghan,23 Apr 2015,v Daredevils,Delhi,2,9,0,1,1,0,0,0,caught,1,4.0,0,38,2,9.5
+319439,Mitchell McClenaghan,25 Apr 2015,v SRH,Wankhede,1,10,1*,3,1,0,0,100,not out,2,4.0,0,20,3,5
+319439,Mitchell McClenaghan,1 May 2015,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+319439,Mitchell McClenaghan,3 May 2015,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+319439,Mitchell McClenaghan,5 May 2015,v Daredevils,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+319439,Mitchell McClenaghan,8 May 2015,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+319439,Mitchell McClenaghan,10 May 2015,v RCB,Wankhede,2,9,12*,1,4,0,2,300,not out,1,4.0,0,40,0,10
+319439,Mitchell McClenaghan,14 May 2015,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+319439,Mitchell McClenaghan,17 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+319439,Mitchell McClenaghan,19 May 2015,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,1,15.33
+319439,Mitchell McClenaghan,24 May 2015,v CSK,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+319439,Mitchell McClenaghan,23 Jun 2015,v England,Manchester,2,11,0,2,1,0,0,0,caught,1,4.0,0,37,2,9.25
+319439,Mitchell McClenaghan,2 Jul 2015,v Sussex,Lord's,1,9,0,1,1,0,0,0,caught,2,4.0,0,24,3,6
+319439,Mitchell McClenaghan,10 Jul 2015,v Essex,Richmond,2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,1,3.66
+319439,Mitchell McClenaghan,17 Jul 2015,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+319439,Mitchell McClenaghan,23 Jul 2015,v Surrey,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+319439,Mitchell McClenaghan,9 Aug 2015,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+319439,Mitchell McClenaghan,14 Aug 2015,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+319439,Mitchell McClenaghan,16 Aug 2015,v South Africa,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+319439,Mitchell McClenaghan,18 Nov 2015,v Canterbury,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+319439,Mitchell McClenaghan,22 Nov 2015,v Otago,Auckland,1,10,16,10,9,1,1,177.77,run out,2,3.0,0,33,0,11
+319439,Mitchell McClenaghan,26 Nov 2015,v Canterbury,Christchurch,1,10,0*,3,2,0,0,0,not out,2,4.0,0,23,3,5.75
+319439,Mitchell McClenaghan,29 Nov 2015,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+319439,Mitchell McClenaghan,5 Dec 2015,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,3.3,0,16,2,4.57
+319439,Mitchell McClenaghan,6 Dec 2015,v Wellington,Auckland,1,10,0,1,1,0,0,0,caught,2,3.1,0,28,1,8.84
+319439,Mitchell McClenaghan,11 Dec 2015,v Otago,New Plymouth,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+319439,Mitchell McClenaghan,12 Dec 2015,v Canterbury,New Plymouth,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+319439,Mitchell McClenaghan,13 Dec 2015,v Otago,New Plymouth,1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,3,5.75
+319439,Mitchell McClenaghan,7 Jan 2016,v Sri Lanka,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+319439,Mitchell McClenaghan,10 Jan 2016,v Sri Lanka,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+319439,Mitchell McClenaghan,17 Jan 2016,v Pakistan,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+319439,Mitchell McClenaghan,22 Jan 2016,v Pakistan,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,0,5
+319439,Mitchell McClenaghan,28 Feb 2016,v South Island,Wellington,2,-,DNB,-,-,-,-,-,-,1,3.2,0,35,1,10.5
+319439,Mitchell McClenaghan,18 Mar 2016,v Australia,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,3,5.66
+319439,Mitchell McClenaghan,22 Mar 2016,v Pakistan,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+319439,Mitchell McClenaghan,26 Mar 2016,v Bangladesh,Eden Gardens,1,10,6*,1,1,0,1,600,not out,2,1.0,0,3,1,3
+319439,Mitchell McClenaghan,30 Mar 2016,v England,Delhi,1,9,1,4,2,0,0,50,run out,2,3.0,0,24,0,8
+319439,Mitchell McClenaghan,9 Apr 2016,v Supergiants,Wankhede,1,10,2*,6,2,0,0,100,not out,2,3.0,0,27,0,9
+319439,Mitchell McClenaghan,13 Apr 2016,v KKR,Eden Gardens,2,4,20,9,8,0,3,250,caught,1,4.0,0,25,2,6.25
+319439,Mitchell McClenaghan,16 Apr 2016,v Guj Lions,Wankhede,1,10,0*,1,0,0,0,-,not out,2,4.0,0,21,4,5.25
+319439,Mitchell McClenaghan,18 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.3,0,33,0,9.42
+319439,Mitchell McClenaghan,20 Apr 2016,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+319439,Mitchell McClenaghan,23 Apr 2016,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+319439,Mitchell McClenaghan,25 Apr 2016,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+319439,Mitchell McClenaghan,28 Apr 2016,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+319439,Mitchell McClenaghan,1 May 2016,v Supergiants,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+319439,Mitchell McClenaghan,8 May 2016,v SRH,Visakhapatnam,2,10,8,18,9,1,0,88.88,caught,1,4.0,0,38,1,9.5
+319439,Mitchell McClenaghan,11 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+319439,Mitchell McClenaghan,13 May 2016,v Kings XI,Visakhapatnam,1,10,4,5,4,1,0,100,caught,2,3.0,0,24,2,8
+319439,Mitchell McClenaghan,15 May 2016,v Daredevils,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+319439,Mitchell McClenaghan,21 May 2016,v Guj Lions,Kanpur,1,-,DNB,-,-,-,-,-,-,2,3.5,0,38,0,9.91
+319439,Mitchell McClenaghan,10 Jun 2016,v Essex,Chelmsford,1,9,4,3,2,1,0,200,bowled,2,4.0,0,33,4,8.25
+319439,Mitchell McClenaghan,16 Jun 2016,v Sussex,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+319439,Mitchell McClenaghan,17 Jun 2016,v Surrey,The Oval,2,10,1*,8,3,0,0,33.33,not out,1,4.0,0,45,2,11.25
+319439,Mitchell McClenaghan,4 Dec 2016,v Otago,Auckland,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+319439,Mitchell McClenaghan,11 Dec 2016,v Canterbury,Christchurch,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,0,4.66
+319439,Mitchell McClenaghan,17 Dec 2016,v Northern Dis,Hamilton,1,8,4*,-,1,1,0,400,not out,2,4.0,0,32,2,8
+319439,Mitchell McClenaghan,6 Apr 2017,v Supergiant,Pune,1,10,0*,1,0,0,0,-,not out,2,4.0,0,36,1,9
+319439,Mitchell McClenaghan,9 Apr 2017,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+319439,Mitchell McClenaghan,12 Apr 2017,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+319439,Mitchell McClenaghan,14 Apr 2017,v RCB,Bengaluru,2,4,0,1,1,0,0,0,caught,1,4.0,0,20,2,5
+319439,Mitchell McClenaghan,16 Apr 2017,v Guj Lions,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+319439,Mitchell McClenaghan,20 Apr 2017,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,2,11.5
+319439,Mitchell McClenaghan,22 Apr 2017,v Daredevils,Wankhede,1,9,1*,5,1,0,0,100,not out,2,4.0,0,24,3,6
+319439,Mitchell McClenaghan,24 Apr 2017,v Supergiant,Wankhede,2,9,0,1,0,0,0,-,run out,1,4.0,0,36,0,9
+319439,Mitchell McClenaghan,29 Apr 2017,v Guj Lions,Rajkot,2,9,1,2,1,0,0,100,run out,1,4.0,0,50,0,12.5
+319439,Mitchell McClenaghan,1 May 2017,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+319439,Mitchell McClenaghan,6 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+319439,Mitchell McClenaghan,8 May 2017,v SRH,Hyderabad,1,9,2*,1,1,0,0,200,not out,2,4.0,0,26,1,6.5
+319439,Mitchell McClenaghan,11 May 2017,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,1,13.5
+319439,Mitchell McClenaghan,16 May 2017,v Supergiant,Wankhede,2,8,12,24,11,0,1,109.09,caught,1,4.0,0,46,1,11.5
+319439,Mitchell McClenaghan,4 Aug 2017,v Trinbago,Gros Islet,1,10,0*,-,0,0,0,-,not out,2,2.4,0,32,0,12
+319439,Mitchell McClenaghan,7 Aug 2017,v Trinbago,Port of Spain,1,8,0,-,1,0,0,0,run out,2,2.4,0,21,1,7.87
+319439,Mitchell McClenaghan,10 Aug 2017,v Tridents,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+319439,Mitchell McClenaghan,12 Aug 2017,v Patriots,Gros Islet,2,9,4,-,4,0,0,100,bowled,1,4.0,0,40,0,10
+319439,Mitchell McClenaghan,13 Aug 2017,v Amazon,Gros Islet,1,10,0*,-,0,0,0,-,not out,2,4.0,0,32,1,8
+319439,Mitchell McClenaghan,15 Aug 2017,v Tallawahs,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+319439,Mitchell McClenaghan,19 Aug 2017,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+319439,Mitchell McClenaghan,22 Aug 2017,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,1.4,0,16,0,9.6
+319439,Mitchell McClenaghan,19 Dec 2017,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+319439,Mitchell McClenaghan,22 Dec 2017,v Strikers,Adelaide,2,9,0,-,1,0,0,0,caught,1,4.0,0,37,2,9.25
+319439,Mitchell McClenaghan,27 Dec 2017,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+319439,Mitchell McClenaghan,30 Dec 2017,v Hurricanes,Launceston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+319439,Mitchell McClenaghan,1 Jan 2018,v Hurricanes,Sydney,2,10,1*,-,2,0,0,50,not out,1,3.2,0,32,0,9.6
+319439,Mitchell McClenaghan,7 Jan 2018,v Strikers,Sydney,2,10,0,-,2,0,0,0,lbw,1,4.0,0,38,0,9.5
+319439,Mitchell McClenaghan,11 Jan 2018,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25
+319439,Mitchell McClenaghan,13 Jan 2018,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+319439,Mitchell McClenaghan,20 Jan 2018,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+319439,Mitchell McClenaghan,24 Jan 2018,v Renegades,Canberra,2,10,9,-,8,0,0,112.5,lbw,1,4.0,0,48,1,12
+319439,Mitchell McClenaghan,9 Mar 2018,v Sultans,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+319439,Mitchell McClenaghan,11 Mar 2018,v Kings,Dubai (DICS),2,8,4,-,2,1,0,200,run out,1,4.0,0,24,0,6
+319439,Mitchell McClenaghan,14 Mar 2018,v Gladiators,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+319439,Mitchell McClenaghan,16 Mar 2018,v Zalmi,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+319439,Mitchell McClenaghan,7 Apr 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+319439,Mitchell McClenaghan,17 Apr 2018,v RCB,Wankhede,1,8,0*,-,0,0,0,-,not out,2,3.0,0,24,2,8
+319439,Mitchell McClenaghan,22 Apr 2018,v RR,Jaipur,1,8,0,-,1,0,0,0,bowled,2,3.0,0,32,1,10.66
+319439,Mitchell McClenaghan,24 Apr 2018,v SRH,Wankhede,2,8,0,-,2,0,0,0,lbw,1,3.0,0,22,2,7.33
+319439,Mitchell McClenaghan,28 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+319439,Mitchell McClenaghan,1 May 2018,v RCB,Bengaluru,2,9,0*,-,0,0,0,-,not out,1,4.0,0,34,1,8.5
+319439,Mitchell McClenaghan,4 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+319439,Mitchell McClenaghan,6 May 2018,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+319439,Mitchell McClenaghan,9 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+319439,Mitchell McClenaghan,13 May 2018,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+319439,Mitchell McClenaghan,16 May 2018,v Kings XI,Wankhede,1,9,11*,-,7,1,1,157.14,not out,2,4.0,0,37,2,9.25
+319439,Mitchell McClenaghan,31 May 2018,v West Indies,Lord's,2,9,10,-,8,0,1,125,caught,1,3.0,0,31,0,10.33
+319439,Mitchell McClenaghan,8 Aug 2018,v Trinbago,Port of Spain,2,10,6,-,9,1,0,66.66,bowled,1,4.0,0,30,2,7.5
+319439,Mitchell McClenaghan,11 Aug 2018,v Amazon,Providence,2,9,9*,-,3,0,1,300,not out,1,1.0,0,15,0,15
+319439,Mitchell McClenaghan,14 Aug 2018,v Tallawahs,Kingston,1,7,3,-,4,0,0,75,bowled,2,4.0,0,30,1,7.5
+319439,Mitchell McClenaghan,16 Aug 2018,v Trinbago,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+319439,Mitchell McClenaghan,17 Aug 2018,v Tridents,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+319439,Mitchell McClenaghan,21 Aug 2018,v Patriots,Gros Islet,1,9,2,-,3,0,0,66.66,run out,2,3.0,0,27,1,9
+319439,Mitchell McClenaghan,24 Aug 2018,v Amazon,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+319439,Mitchell McClenaghan,25 Aug 2018,v Tallawahs,Gros Islet,2,9,0*,-,1,0,0,0,not out,1,4.0,0,43,0,10.75
+319439,Mitchell McClenaghan,4 Oct 2018,v Yorkshire,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+319439,Mitchell McClenaghan,6 Oct 2018,v Knights,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+319439,Mitchell McClenaghan,7 Oct 2018,v Panthers,Sharjah,2,8,0*,-,1,0,0,0,not out,1,4.0,0,37,1,9.25
+319439,Mitchell McClenaghan,9 Oct 2018,v Kabul Zwanan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+319439,Mitchell McClenaghan,11 Oct 2018,v Legends,Sharjah,2,8,0,-,1,0,0,0,bowled,1,4.0,0,36,2,9
+319439,Mitchell McClenaghan,12 Oct 2018,v Kabul Zwanan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,2,12
+319439,Mitchell McClenaghan,1 Jan 2019,v Canterbury,Auckland,1,9,0,3,2,0,0,0,caught,2,4.0,0,26,3,6.5
+319439,Mitchell McClenaghan,6 Jan 2019,v Northern Dis,Hamilton,2,10,0,2,1,0,0,0,caught,1,3.0,0,23,3,7.66
+319439,Mitchell McClenaghan,13 Jan 2019,v Otago,Dunedin,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+319439,Mitchell McClenaghan,18 Jan 2019,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,3.2,0,32,3,9.6
+319439,Mitchell McClenaghan,20 Jan 2019,v Otago,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+319439,Mitchell McClenaghan,26 Jan 2019,v Canterbury,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+319439,Mitchell McClenaghan,2 Feb 2019,v Northern Dis,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,2,11.75
+319439,Mitchell McClenaghan,9 Feb 2019,v Central D,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+319439,Mitchell McClenaghan,15 Feb 2019,v Central D,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+319439,Mitchell McClenaghan,24 Mar 2019,v DC,Wankhede,2,9,10,-,8,2,0,125,stumped,1,4.0,0,40,3,10
+319439,Mitchell McClenaghan,28 Mar 2019,v RCB,Bengaluru,1,8,1,-,4,0,0,25,bowled,2,2.0,0,24,0,12
+319439,Mitchell McClenaghan,30 Mar 2019,v Kings XI,Mohali,1,8,0*,8,2,0,0,0,not out,2,4.0,0,35,0,8.75
+319439,Mitchell McClenaghan,5 May 2019,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,0,4.75
+319439,Mitchell McClenaghan,12 May 2019,v CSK,Hyderabad,1,9,0,9,2,0,0,0,run out,2,4.0,0,24,0,6
+319439,Mitchell McClenaghan,14 Dec 2019,v Otago,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+319439,Mitchell McClenaghan,17 Dec 2019,v Canterbury,Christchurch,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+319439,Mitchell McClenaghan,19 Dec 2019,v Otago,Dunedin,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+319439,Mitchell McClenaghan,22 Dec 2019,v Northern Dis,Hamilton,2,10,1*,1,1,0,0,100,not out,1,4.0,0,43,1,10.75
+319439,Mitchell McClenaghan,28 Dec 2019,v Central D,New Plymouth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+319439,Mitchell McClenaghan,30 Dec 2019,v Wellington,Auckland,1,10,5,-,4,1,0,125,bowled,2,4.0,0,24,1,6
+319439,Mitchell McClenaghan,1 Jan 2020,v Canterbury,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+319439,Mitchell McClenaghan,4 Jan 2020,v Central D,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+319439,Mitchell McClenaghan,10 Jan 2020,v Northern Dis,Auckland,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14
+319439,Mitchell McClenaghan,12 Jan 2020,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+319439,Mitchell McClenaghan,17 Jan 2020,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+319439,Mitchell McClenaghan,19 Jan 2020,v Wellington,Wellington,2,8,5,16,6,0,0,83.33,run out,1,4.0,0,32,3,8
+319439,Mitchell McClenaghan,6 Mar 2020,v Sultans,Lahore,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+319439,Mitchell McClenaghan,28 Dec 2020,v Auckland,Alexandra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+319439,Mitchell McClenaghan,29 Dec 2020,v Canterbury,Alexandra,2,9,8,5,4,0,1,200,bowled,1,3.0,0,29,1,9.66
+319439,Mitchell McClenaghan,2 Jan 2021,v Northern Dis,Mount Maunganui,2,10,14*,18,13,1,0,107.69,not out,1,4.0,0,29,1,7.25
+319439,Mitchell McClenaghan,8 Jan 2021,v Central D,Dunedin,2,7,0,1,1,0,0,0,caught,1,4.0,0,31,1,7.75
+319439,Mitchell McClenaghan,14 Jan 2021,v Wellington,Dunedin,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+319439,Mitchell McClenaghan,18 Jan 2021,v Central D,New Plymouth,1,9,1*,5,3,0,0,33.33,not out,2,3.4,0,36,0,9.81
+319439,Mitchell McClenaghan,24 Jan 2021,v Wellington,Wellington,1,10,4,12,4,0,0,100,run out,2,4.0,0,36,3,9
+319439,Mitchell McClenaghan,30 Jan 2021,v Canterbury,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+319439,Mitchell McClenaghan,1 Feb 2021,v Auckland,Auckland,2,9,8,5,6,0,1,133.33,caught,1,4.0,0,36,2,9
+319439,Mitchell McClenaghan,6 Feb 2021,v Northern Dis,Dunedin,2,8,7,3,4,0,1,175,run out,1,4.0,0,39,1,9.75

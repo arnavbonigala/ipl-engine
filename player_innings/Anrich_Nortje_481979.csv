@@ -1,0 +1,171 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+481979,Anrich Nortje,10 Mar 2013,v Easterns,Port Elizabeth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+481979,Anrich Nortje,17 Mar 2013,v Gauteng,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+481979,Anrich Nortje,24 Mar 2013,v Northerns,Pretoria,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+481979,Anrich Nortje,10 Jan 2016,v Northern Cpe,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+481979,Anrich Nortje,6 Mar 2016,v W Province,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,4,4.75
+481979,Anrich Nortje,23 Sep 2016,v Gauteng,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+481979,Anrich Nortje,24 Sep 2016,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+481979,Anrich Nortje,2 Sep 2017,v North West,Potchefstroom,2,10,1,5,4,0,0,25,stumped,1,4.0,1,22,2,5.5
+481979,Anrich Nortje,3 Sep 2017,v Northerns,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.2,0,14,3,4.2
+481979,Anrich Nortje,16 Nov 2018,v Spartans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+481979,Anrich Nortje,18 Nov 2018,v Durban Heat,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,4,8
+481979,Anrich Nortje,24 Nov 2018,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+481979,Anrich Nortje,18 Sep 2019,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+481979,Anrich Nortje,8 Nov 2019,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,41,0,13.66
+481979,Anrich Nortje,10 Nov 2019,v Paarl Rocks,Paarl,2,11,4,7,6,1,0,66.66,caught,1,4.0,0,31,3,7.75
+481979,Anrich Nortje,14 Nov 2019,v Jozi Stars,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.2,0,18,2,5.4
+481979,Anrich Nortje,17 Nov 2019,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+481979,Anrich Nortje,20 Nov 2019,v Giants,Gqeberha,1,11,0*,1,0,0,0,-,not out,2,4.0,0,41,1,10.25
+481979,Anrich Nortje,1 Dec 2019,v Spartans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+481979,Anrich Nortje,6 Dec 2019,v Giants,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+481979,Anrich Nortje,23 Feb 2020,v Australia,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+481979,Anrich Nortje,26 Feb 2020,v Australia,Cape Town,2,9,2,5,6,0,0,33.33,lbw,1,4.0,0,46,1,11.5
+481979,Anrich Nortje,20 Sep 2020,v Kings XI,Dubai (DICS),1,10,3*,-,1,0,0,300,not out,2,4.0,0,33,0,8.25
+481979,Anrich Nortje,25 Sep 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+481979,Anrich Nortje,29 Sep 2020,v SRH,Abu Dhabi,2,9,3*,-,2,0,0,150,not out,1,4.0,0,40,0,10
+481979,Anrich Nortje,3 Oct 2020,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+481979,Anrich Nortje,5 Oct 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+481979,Anrich Nortje,9 Oct 2020,v RR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+481979,Anrich Nortje,11 Oct 2020,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+481979,Anrich Nortje,14 Oct 2020,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+481979,Anrich Nortje,17 Oct 2020,v CSK,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,2,11
+481979,Anrich Nortje,24 Oct 2020,v KKR,Abu Dhabi,2,11,0*,-,0,0,0,-,not out,1,4.0,0,27,2,6.75
+481979,Anrich Nortje,27 Oct 2020,v SRH,Dubai (DICS),2,11,1,-,3,0,0,33.33,caught,1,4.0,0,37,1,9.25
+481979,Anrich Nortje,31 Oct 2020,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.2,0,25,1,10.71
+481979,Anrich Nortje,2 Nov 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+481979,Anrich Nortje,5 Nov 2020,v MI,Dubai (DICS),2,10,0*,-,0,0,0,-,not out,1,4.0,0,50,1,12.5
+481979,Anrich Nortje,8 Nov 2020,v SRH,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+481979,Anrich Nortje,10 Nov 2020,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.4,0,25,2,9.37
+481979,Anrich Nortje,29 Nov 2020,v England,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+481979,Anrich Nortje,1 Dec 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+481979,Anrich Nortje,20 Feb 2021,v Lions,Durban,1,10,8,11,6,1,0,133.33,bowled,2,3.2,0,33,1,9.9
+481979,Anrich Nortje,21 Feb 2021,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,0,3.75
+481979,Anrich Nortje,23 Feb 2021,v Cape Cobras,Durban,2,9,25,-,21,2,0,119.04,caught,1,4.0,0,30,2,7.5
+481979,Anrich Nortje,24 Feb 2021,v Titans,Durban,1,9,4,-,4,0,0,100,run out,2,4.0,0,20,1,5
+481979,Anrich Nortje,25 Feb 2021,v Knights,Durban,1,9,14*,-,5,0,2,280,not out,2,4.0,0,17,2,4.25
+481979,Anrich Nortje,27 Feb 2021,v Lions,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+481979,Anrich Nortje,26 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+481979,Anrich Nortje,27 Jun 2021,v West Indies,St George's,1,9,0*,2,2,0,0,0,not out,2,4.0,0,27,1,6.75
+481979,Anrich Nortje,29 Jun 2021,v West Indies,St George's,1,9,0,6,3,0,0,0,run out,2,4.0,0,29,2,7.25
+481979,Anrich Nortje,1 Jul 2021,v West Indies,St George's,2,11,4*,9,6,0,0,66.66,not out,1,4.0,0,32,1,8
+481979,Anrich Nortje,10 Sep 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+481979,Anrich Nortje,12 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,1,4
+481979,Anrich Nortje,22 Sep 2021,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,2,3
+481979,Anrich Nortje,25 Sep 2021,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+481979,Anrich Nortje,28 Sep 2021,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.2,0,15,1,6.42
+481979,Anrich Nortje,2 Oct 2021,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,1,4.75
+481979,Anrich Nortje,4 Oct 2021,v CSK,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+481979,Anrich Nortje,8 Oct 2021,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+481979,Anrich Nortje,10 Oct 2021,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+481979,Anrich Nortje,13 Oct 2021,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+481979,Anrich Nortje,23 Oct 2021,v Australia,Abu Dhabi,1,10,2,14,3,0,0,66.66,caught,2,4.0,0,21,2,5.25
+481979,Anrich Nortje,26 Oct 2021,v West Indies,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+481979,Anrich Nortje,30 Oct 2021,v Sri Lanka,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+481979,Anrich Nortje,2 Nov 2021,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.2,0,8,3,2.4
+481979,Anrich Nortje,6 Nov 2021,v England,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+481979,Anrich Nortje,7 Apr 2022,v LSG,DY Patil,1,-,DNB,-,-,-,-,-,-,2,2.2,0,35,0,15
+481979,Anrich Nortje,5 May 2022,v SRH,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+481979,Anrich Nortje,8 May 2022,v CSK,DY Patil,2,10,1*,11,6,0,0,16.66,not out,1,4.0,0,42,3,10.5
+481979,Anrich Nortje,11 May 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+481979,Anrich Nortje,16 May 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+481979,Anrich Nortje,21 May 2022,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+481979,Anrich Nortje,9 Jun 2022,v India,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+481979,Anrich Nortje,12 Jun 2022,v India,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+481979,Anrich Nortje,14 Jun 2022,v India,Visakhapatnam,2,10,0,4,1,0,0,0,run out,1,2.0,0,23,0,11.5
+481979,Anrich Nortje,17 Jun 2022,v India,Rajkot,2,9,1,8,4,0,0,25,caught,1,3.0,0,21,1,7
+481979,Anrich Nortje,19 Jun 2022,v India,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+481979,Anrich Nortje,31 Jul 2022,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+481979,Anrich Nortje,28 Sep 2022,v India,Thiruvananthapuram,1,10,2*,5,2,0,0,100,not out,2,3.0,0,32,1,10.66
+481979,Anrich Nortje,2 Oct 2022,v India,Guwahati,2,-,DNB,-,-,-,-,-,-,1,3.0,0,41,0,13.66
+481979,Anrich Nortje,24 Oct 2022,v Zimbabwe,Hobart,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+481979,Anrich Nortje,27 Oct 2022,v Bangladesh,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.3,0,10,4,2.85
+481979,Anrich Nortje,30 Oct 2022,v India,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+481979,Anrich Nortje,3 Nov 2022,v Pakistan,Sydney,2,9,1,8,5,0,0,20,caught,1,4.0,0,41,4,10.25
+481979,Anrich Nortje,6 Nov 2022,v Netherlands,Adelaide,2,10,4*,2,1,1,0,400,not out,1,4.0,0,10,1,2.5
+481979,Anrich Nortje,12 Jan 2023,v Sunrisers,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+481979,Anrich Nortje,14 Jan 2023,v Sunrisers,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+481979,Anrich Nortje,17 Jan 2023,v Super Kings,Johannesburg,2,11,0,5,1,0,0,0,caught,1,4.0,0,26,2,6.5
+481979,Anrich Nortje,18 Jan 2023,v Super Kings,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+481979,Anrich Nortje,20 Jan 2023,v Super Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,3.1,0,15,2,4.73
+481979,Anrich Nortje,22 Jan 2023,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,0,9.27
+481979,Anrich Nortje,23 Jan 2023,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+481979,Anrich Nortje,4 Feb 2023,v MI Cape Town,Centurion,2,9,10,5,5,2,0,200,caught,1,4.0,0,37,2,9.25
+481979,Anrich Nortje,7 Feb 2023,v Paarl Royals,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+481979,Anrich Nortje,8 Feb 2023,v Paarl Royals,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,1,29,2,7.25
+481979,Anrich Nortje,11 Feb 2023,v Sunrisers,Johannesburg,1,11,5*,-,4,1,0,125,not out,2,4.0,0,21,2,5.25
+481979,Anrich Nortje,25 Mar 2023,v West Indies,Centurion,1,10,0*,2,1,0,0,0,not out,2,3.0,0,17,1,5.66
+481979,Anrich Nortje,28 Mar 2023,v West Indies,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+481979,Anrich Nortje,4 Apr 2023,v GT,Delhi,1,10,4*,1,2,1,0,200,not out,2,4.0,0,39,2,9.75
+481979,Anrich Nortje,8 Apr 2023,v RR,Guwahati,2,10,0,3,1,0,0,0,bowled,1,4.0,0,44,0,11
+481979,Anrich Nortje,11 Apr 2023,v MI,Delhi,1,10,5,7,3,1,0,166.66,bowled,2,4.0,0,35,0,8.75
+481979,Anrich Nortje,15 Apr 2023,v RCB,Bengaluru,2,10,23*,19,14,4,0,164.28,not out,1,4.0,0,31,0,7.75
+481979,Anrich Nortje,20 Apr 2023,v KKR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+481979,Anrich Nortje,24 Apr 2023,v SRH,Hyderabad,1,9,2,7,2,0,0,100,run out,2,4.0,0,33,2,8.25
+481979,Anrich Nortje,29 Apr 2023,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+481979,Anrich Nortje,2 May 2023,v GT,Ahmedabad,1,9,3*,8,6,0,0,50,not out,2,4.0,0,39,1,9.75
+481979,Anrich Nortje,17 May 2023,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+481979,Anrich Nortje,20 May 2023,v CSK,Delhi,2,9,0*,10,1,0,0,0,not out,1,4.0,0,43,1,10.75
+481979,Anrich Nortje,8 Mar 2024,v KZN-Inland,Gqeberha,1,9,4,11,6,0,0,66.66,caught,2,4.0,0,12,0,3
+481979,Anrich Nortje,17 Mar 2024,v Boland,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+481979,Anrich Nortje,21 Mar 2024,v W Province,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+481979,Anrich Nortje,28 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+481979,Anrich Nortje,31 Mar 2024,v CSK,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+481979,Anrich Nortje,3 Apr 2024,v KKR,Visakhapatnam,2,10,4,9,6,0,0,66.66,caught,1,4.0,0,59,3,14.75
+481979,Anrich Nortje,7 Apr 2024,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,65,2,16.25
+481979,Anrich Nortje,20 Apr 2024,v SRH,Delhi,2,9,0,1,2,0,0,0,bowled,1,3.0,0,31,0,10.33
+481979,Anrich Nortje,24 Apr 2024,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,48,1,16
+481979,Anrich Nortje,25 May 2024,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+481979,Anrich Nortje,26 May 2024,v West Indies,Kingston,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+481979,Anrich Nortje,3 Jun 2024,v Sri Lanka,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,7,4,1.75
+481979,Anrich Nortje,8 Jun 2024,v Netherlands,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+481979,Anrich Nortje,10 Jun 2024,v Bangladesh,New York,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+481979,Anrich Nortje,14 Jun 2024,v Nepal,Kingstown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+481979,Anrich Nortje,19 Jun 2024,v U.S.A.,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+481979,Anrich Nortje,21 Jun 2024,v England,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+481979,Anrich Nortje,23 Jun 2024,v West Indies,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+481979,Anrich Nortje,26 Jun 2024,v Afghanistan,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,0,7,2,2.33
+481979,Anrich Nortje,29 Jun 2024,v India,Bridgetown,2,10,1*,1,1,0,0,100,not out,1,4.0,0,26,2,6.5
+481979,Anrich Nortje,5 Jul 2024,v Seattle,Morrisville,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+481979,Anrich Nortje,6 Jul 2024,v Washington,Morrisville,1,9,14,-,9,2,1,155.55,caught,2,1.0,0,22,0,22
+481979,Anrich Nortje,29 Aug 2024,v Falcons,North Sound,2,10,4*,-,3,0,0,133.33,not out,1,4.0,0,29,1,7.25
+481979,Anrich Nortje,31 Aug 2024,v Trinbago,Basseterre,2,10,4*,-,2,1,0,200,not out,1,4.0,0,37,2,9.25
+481979,Anrich Nortje,1 Sep 2024,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+481979,Anrich Nortje,4 Sep 2024,v Amazon,Basseterre,2,11,0*,-,0,0,0,-,not out,1,4.0,0,52,1,13
+481979,Anrich Nortje,6 Sep 2024,v Royals,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+481979,Anrich Nortje,8 Sep 2024,v Falcons,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+481979,Anrich Nortje,12 Sep 2024,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.3,0,28,1,8
+481979,Anrich Nortje,17 Sep 2024,v Royals,Bridgetown,1,10,22,26,17,1,1,129.41,caught,2,2.0,0,25,0,12.5
+481979,Anrich Nortje,20 Sep 2024,v Amazon,Providence,2,9,0,2,3,0,0,0,caught,1,4.0,0,20,0,5
+481979,Anrich Nortje,22 Sep 2024,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+481979,Anrich Nortje,6 Oct 2024,v Knights,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+481979,Anrich Nortje,12 Oct 2024,v North West,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+481979,Anrich Nortje,19 Oct 2024,v Titans,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+481979,Anrich Nortje,15 Apr 2025,v Punjab Kings,New Chandigarh,2,11,0*,1,0,0,0,-,not out,1,3.0,0,23,1,7.66
+481979,Anrich Nortje,25 May 2025,v SRH,Delhi,2,11,0*,6,0,0,0,-,not out,1,4.0,0,60,0,15
+481979,Anrich Nortje,1 Nov 2025,v KZN-Inland,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+481979,Anrich Nortje,7 Nov 2025,v North West,Potchefstroom,1,11,2*,1,1,0,0,200,not out,2,4.0,0,18,3,4.5
+481979,Anrich Nortje,9 Nov 2025,v Warriors,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,2,5.25
+481979,Anrich Nortje,14 Nov 2025,v Boland,Paarl,2,11,2*,3,2,0,0,100,not out,1,4.0,0,32,1,8
+481979,Anrich Nortje,16 Nov 2025,v W Province,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.1,0,19,0,6
+481979,Anrich Nortje,21 Nov 2025,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+481979,Anrich Nortje,23 Nov 2025,v Lions,Durban,2,10,6*,4,1,0,1,600,not out,1,4.0,0,49,0,12.25
+481979,Anrich Nortje,26 Nov 2025,v W Province,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+481979,Anrich Nortje,28 Nov 2025,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481979,Anrich Nortje,9 Dec 2025,v India,Cuttack,2,9,1,7,3,0,0,33.33,bowled,1,4.0,0,41,0,10.25
+481979,Anrich Nortje,14 Dec 2025,v India,Dharamsala,1,9,12,21,12,0,1,100,stumped,2,3.0,0,14,0,4.66
+481979,Anrich Nortje,27 Dec 2025,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,4,4.33
+481979,Anrich Nortje,29 Dec 2025,v Capitals,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+481979,Anrich Nortje,31 Dec 2025,v Paarl Royals,Gqeberha,1,10,4,3,3,0,0,133.33,caught,2,4.0,0,21,2,5.25
+481979,Anrich Nortje,3 Jan 2026,v Super Kings,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481979,Anrich Nortje,5 Jan 2026,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+481979,Anrich Nortje,11 Jan 2026,v Super Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.3,0,34,2,9.71
+481979,Anrich Nortje,14 Jan 2026,v Super Kings,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,1,3.25
+481979,Anrich Nortje,16 Jan 2026,v MI Cape Town,Cape Town,1,11,4*,2,2,0,0,200,not out,2,4.0,0,29,1,7.25
+481979,Anrich Nortje,18 Jan 2026,v MI Cape Town,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+481979,Anrich Nortje,21 Jan 2026,v Capitals,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+481979,Anrich Nortje,23 Jan 2026,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+481979,Anrich Nortje,25 Jan 2026,v Capitals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+481979,Anrich Nortje,29 Jan 2026,v West Indies,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,59,0,19.66
+481979,Anrich Nortje,18 Feb 2026,v U.A.E.,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+481979,Anrich Nortje,1 Mar 2026,v Zimbabwe,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25

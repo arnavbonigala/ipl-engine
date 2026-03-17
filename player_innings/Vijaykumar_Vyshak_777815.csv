@@ -1,0 +1,50 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+777815,Vijaykumar Vyshak,6 Nov 2021,v Services,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+777815,Vijaykumar Vyshak,8 Nov 2021,v Baroda,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+777815,Vijaykumar Vyshak,9 Nov 2021,v Bengal,Guwahati,1,9,3,-,3,0,0,100,caught,2,3.0,0,20,0,6.66
+777815,Vijaykumar Vyshak,16 Nov 2021,v Saurashtra,Delhi,2,8,4,-,5,0,0,80,bowled,1,4.0,0,19,2,4.75
+777815,Vijaykumar Vyshak,18 Nov 2021,v Bengal,Delhi,1,7,1*,-,1,0,0,100,not out,2,4.0,0,41,0,10.25
+777815,Vijaykumar Vyshak,20 Nov 2021,v Vidarbha,Delhi,1,8,1*,-,1,0,0,100,not out,2,3.0,0,31,0,10.33
+777815,Vijaykumar Vyshak,11 Oct 2022,v Maharashtra,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,2,6.66
+777815,Vijaykumar Vyshak,12 Oct 2022,v Kerala,Mohali,2,10,10,-,8,0,1,125,caught,1,4.0,0,39,2,9.75
+777815,Vijaykumar Vyshak,14 Oct 2022,v Meghalaya,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,5,3,1.25
+777815,Vijaykumar Vyshak,16 Oct 2022,v J & K,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,2,5
+777815,Vijaykumar Vyshak,18 Oct 2022,v Arunachal,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+777815,Vijaykumar Vyshak,20 Oct 2022,v Services,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+777815,Vijaykumar Vyshak,22 Oct 2022,v Haryana,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,2,5.66
+777815,Vijaykumar Vyshak,1 Nov 2022,v Punjab,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+777815,Vijaykumar Vyshak,15 Apr 2023,v DC,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+777815,Vijaykumar Vyshak,17 Apr 2023,v CSK,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,62,1,15.5
+777815,Vijaykumar Vyshak,20 Apr 2023,v Punjab Kings,Mohali,1,-,sub,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+777815,Vijaykumar Vyshak,23 Apr 2023,v RR,Bengaluru,1,10,0,2,1,0,0,0,caught,2,2.0,0,24,0,12
+777815,Vijaykumar Vyshak,26 Apr 2023,v KKR,Bengaluru,2,10,13*,12,8,0,1,162.5,not out,1,4.0,0,41,2,10.25
+777815,Vijaykumar Vyshak,9 May 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,2,12.33
+777815,Vijaykumar Vyshak,21 May 2023,v GT,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+777815,Vijaykumar Vyshak,19 Oct 2023,v M. Pradesh,Dehradun,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,3,5.33
+777815,Vijaykumar Vyshak,21 Oct 2023,v Delhi,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+777815,Vijaykumar Vyshak,23 Oct 2023,v Nagaland,Dehradun,2,-,DNB,-,-,-,-,-,-,1,3.0,0,5,1,1.66
+777815,Vijaykumar Vyshak,25 Oct 2023,v UP,Dehradun,2,10,2,-,3,0,0,66.66,bowled,1,4.0,0,55,1,13.75
+777815,Vijaykumar Vyshak,27 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.1,0,29,2,9.15
+777815,Vijaykumar Vyshak,29 Mar 2024,v KKR,Bengaluru,1,-,sub,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+777815,Vijaykumar Vyshak,11 Apr 2024,v MI,Wankhede,1,9,0,1,1,0,0,0,caught,2,3.0,0,32,1,10.66
+777815,Vijaykumar Vyshak,15 Apr 2024,v SRH,Bengaluru,2,9,1*,4,2,0,0,50,not out,1,4.0,0,64,0,16
+777815,Vijaykumar Vyshak,4 May 2024,v GT,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.3,0,23,2,6.57
+777815,Vijaykumar Vyshak,23 Nov 2024,v Uttarakhand,Indore,2,10,0,-,1,0,0,0,bowled,1,3.0,0,46,0,15.33
+777815,Vijaykumar Vyshak,25 Nov 2024,v Tripura,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+777815,Vijaykumar Vyshak,27 Nov 2024,v Saurashtra,Indore,1,-,DNB,-,-,-,-,-,-,2,3.1,0,41,1,12.94
+777815,Vijaykumar Vyshak,29 Nov 2024,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,3.2,0,14,2,4.2
+777815,Vijaykumar Vyshak,1 Dec 2024,v Tamil Nadu,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+777815,Vijaykumar Vyshak,3 Dec 2024,v Baroda,Indore,1,9,5,-,5,0,0,100,lbw,2,3.5,0,49,1,12.78
+777815,Vijaykumar Vyshak,25 Mar 2025,v GT,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+777815,Vijaykumar Vyshak,4 May 2025,v LSG,Dharamsala,1,-,sub,-,-,-,-,-,-,2,3.0,0,49,0,16.33
+777815,Vijaykumar Vyshak,26 May 2025,v MI,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,44,2,11
+777815,Vijaykumar Vyshak,1 Jun 2025,v MI,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+777815,Vijaykumar Vyshak,3 Jun 2025,v RCB,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+777815,Vijaykumar Vyshak,18 Nov 2025,v Oman,Doha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+777815,Vijaykumar Vyshak,21 Nov 2025,v Bangladesh A,Doha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+777815,Vijaykumar Vyshak,26 Nov 2025,v Uttarakhand,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+777815,Vijaykumar Vyshak,28 Nov 2025,v Jharkhand,Ahmedabad,1,10,1,-,2,0,0,50,caught,2,4.0,0,29,1,7.25
+777815,Vijaykumar Vyshak,30 Nov 2025,v Rajasthan,Ahmedabad,2,10,9*,-,3,0,1,300,not out,1,4.0,0,39,2,9.75
+777815,Vijaykumar Vyshak,2 Dec 2025,v Tamil Nadu,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,2,3.5
+777815,Vijaykumar Vyshak,4 Dec 2025,v Delhi,Ahmedabad,2,10,5,-,3,1,0,166.66,caught,1,4.0,0,61,0,15.25
+777815,Vijaykumar Vyshak,6 Dec 2025,v Saurashtra,Ahmedabad,2,11,11*,-,7,2,0,157.14,not out,1,4.0,0,28,3,7

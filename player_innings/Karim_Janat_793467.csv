@@ -1,0 +1,183 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+793467,Karim Janat,14 Dec 2016,v U.A.E.,ICCA Dubai,1,6,25,-,24,2,1,104.16,run out,2,4.0,0,31,3,7.75
+793467,Karim Janat,16 Dec 2016,v U.A.E.,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+793467,Karim Janat,18 Dec 2016,v U.A.E.,ICCA Dubai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+793467,Karim Janat,16 Jan 2017,v U.A.E.,Abu Dhabi,2,6,22*,-,18,1,1,122.22,not out,1,3.0,0,25,0,8.33
+793467,Karim Janat,19 Jan 2017,v Namibia,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,0,3.5
+793467,Karim Janat,20 Jan 2017,v Ireland,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+793467,Karim Janat,8 Mar 2017,v Ireland,Greater Noida,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+793467,Karim Janat,10 Mar 2017,v Ireland,Greater Noida,1,6,20,19,15,1,1,133.33,run out,2,3.0,0,24,3,8
+793467,Karim Janat,12 Mar 2017,v Ireland,Greater Noida,1,8,6,2,2,0,1,300,caught,2,4.0,0,34,2,8.5
+793467,Karim Janat,30 May 2017,v WICB Pres XI,Basseterre,1,6,6,-,8,0,0,75,lbw,2,4.0,0,23,0,5.75
+793467,Karim Janat,2 Jun 2017,v West Indies,Basseterre,1,4,8,-,11,1,0,72.72,caught,2,1.0,0,12,1,12
+793467,Karim Janat,3 Jun 2017,v West Indies,Basseterre,2,6,20,-,15,1,2,133.33,caught,1,3.0,0,19,1,6.33
+793467,Karim Janat,5 Jun 2017,v West Indies,Basseterre,1,5,8,-,17,0,0,47.05,caught,2,4.0,0,41,0,10.25
+793467,Karim Janat,11 Sep 2017,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+793467,Karim Janat,13 Sep 2017,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+793467,Karim Janat,15 Sep 2017,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+793467,Karim Janat,16 Sep 2017,v MAK,Kabul,1,6,0,1,1,0,0,0,lbw,2,4.0,0,28,3,7
+793467,Karim Janat,18 Sep 2017,v BEAD,Kabul,1,5,0,1,1,0,0,0,lbw,2,3.1,0,22,1,6.94
+793467,Karim Janat,20 Sep 2017,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+793467,Karim Janat,21 Sep 2017,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+793467,Karim Janat,3 Jun 2018,v Bangladesh,Dehradun,1,9,0,1,1,0,0,0,caught,2,4.0,0,27,1,6.75
+793467,Karim Janat,5 Jun 2018,v Bangladesh,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+793467,Karim Janat,7 Jun 2018,v Bangladesh,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+793467,Karim Janat,6 Oct 2018,v KingsLeopard,Sharjah,1,5,39,-,39,3,1,100,caught,2,2.0,0,13,0,6.5
+793467,Karim Janat,7 Oct 2018,v Legends,Sharjah,2,5,8,-,14,0,0,57.14,lbw,1,3.0,0,19,1,6.33
+793467,Karim Janat,11 Oct 2018,v Kabul Zwanan,Sharjah,2,5,2,-,3,0,0,66.66,lbw,1,4.0,0,45,2,11.25
+793467,Karim Janat,12 Oct 2018,v Panthers,Sharjah,2,8,27,-,23,3,1,117.39,run out,1,4.0,0,29,1,7.25
+793467,Karim Janat,13 Oct 2018,v KingsLeopard,Sharjah,1,8,40*,-,21,2,3,190.47,not out,2,4.0,0,19,2,4.75
+793467,Karim Janat,16 Oct 2018,v Kabul Zwanan,Sharjah,1,6,11*,-,8,1,0,137.5,not out,2,4.0,0,14,3,3.5
+793467,Karim Janat,17 Oct 2018,v Panthers,Sharjah,2,7,4*,-,2,1,0,200,not out,1,4.0,0,18,2,4.5
+793467,Karim Janat,18 Oct 2018,v Legends,Sharjah,1,7,9,-,5,0,1,180,caught,2,4.0,0,16,1,4
+793467,Karim Janat,21 Feb 2019,v Ireland,Dehradun,2,4,0,-,3,0,0,0,caught,1,3.0,0,29,1,9.66
+793467,Karim Janat,23 Feb 2019,v Ireland,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+793467,Karim Janat,14 Sep 2019,v Zimbabwe,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+793467,Karim Janat,15 Sep 2019,v Bangladesh,Mirpur,1,8,5*,-,6,0,0,83.33,not out,2,3.0,0,27,0,9
+793467,Karim Janat,21 Sep 2019,v Bangladesh,Chattogram,1,8,3,-,4,0,0,75,caught,2,3.0,0,31,1,10.33
+793467,Karim Janat,7 Oct 2019,v BEAD,Kabul,1,2,20,9,8,1,2,250,bowled,2,4.0,1,36,1,9
+793467,Karim Janat,9 Oct 2019,v SGT,Kabul,1,2,45,53,33,2,3,136.36,caught,2,4.0,0,15,2,3.75
+793467,Karim Janat,10 Oct 2019,v BDD,Kabul,1,2,17,22,11,1,1,154.54,caught,2,4.0,0,18,0,4.5
+793467,Karim Janat,12 Oct 2019,v Amo Sharks,Kabul,2,2,37,44,28,2,3,132.14,caught,1,4.0,0,30,1,7.5
+793467,Karim Janat,13 Oct 2019,v MAK,Kabul,1,2,27,33,23,3,2,117.39,caught,2,4.0,0,31,0,7.75
+793467,Karim Janat,16 Oct 2019,v SGT,Kabul,1,2,120,87,63,11,8,190.47,caught,2,4.0,0,43,0,10.75
+793467,Karim Janat,17 Oct 2019,v BEAD,Kabul,2,2,51,38,27,4,4,188.88,bowled,1,4.0,0,60,1,15
+793467,Karim Janat,16 Nov 2019,v West Indies,Lucknow,1,3,26,-,18,5,0,144.44,lbw,2,4.0,0,11,5,2.75
+793467,Karim Janat,17 Nov 2019,v West Indies,Lucknow,1,3,2,-,6,0,0,33.33,caught,2,4.0,0,33,1,8.25
+793467,Karim Janat,6 Mar 2020,v Ireland,Greater Noida,2,3,6,-,12,0,0,50,run out,1,4.0,0,28,0,7
+793467,Karim Janat,8 Mar 2020,v Ireland,Greater Noida,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+793467,Karim Janat,10 Mar 2020,v Ireland,Greater Noida,2,3,17,-,11,1,1,154.54,bowled,1,2.0,0,17,0,8.5
+793467,Karim Janat,7 Sep 2020,v Kabul Eagles,Kabul,1,2,16,21,17,2,1,94.11,caught,2,4.0,0,30,2,7.5
+793467,Karim Janat,8 Sep 2020,v BEAD,Kabul,1,2,6,8,5,1,0,120,caught,2,2.0,0,19,1,9.5
+793467,Karim Janat,10 Sep 2020,v SGT,Kabul,2,2,51,40,30,2,5,170,caught,1,4.0,0,35,0,8.75
+793467,Karim Janat,11 Sep 2020,v MAK,Kabul,2,2,27,22,13,0,4,207.69,caught,1,4.0,0,34,2,8.5
+793467,Karim Janat,13 Sep 2020,v Amo Sharks,Kabul,2,2,64*,43,38,6,4,168.42,not out,1,3.0,0,10,0,3.33
+793467,Karim Janat,14 Sep 2020,v BEAD,Kabul,2,2,60,40,29,2,6,206.89,caught,1,4.0,0,43,0,10.75
+793467,Karim Janat,17 Mar 2021,v Zimbabwe,Abu Dhabi,1,2,26,38,22,3,0,118.18,caught,2,4.0,0,14,2,3.5
+793467,Karim Janat,19 Mar 2021,v Zimbabwe,Abu Dhabi,1,3,53,53,38,3,4,139.47,bowled,2,3.1,0,27,1,8.52
+793467,Karim Janat,20 Mar 2021,v Zimbabwe,Abu Dhabi,1,3,21,-,14,2,1,150,bowled,2,4.0,0,34,2,8.5
+793467,Karim Janat,25 Oct 2021,v Scotland,Sharjah,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,0,6
+793467,Karim Janat,29 Oct 2021,v Pakistan,Dubai (DICS),1,5,15,20,17,1,1,88.23,caught,2,4.0,0,48,0,12
+793467,Karim Janat,31 Oct 2021,v Namibia,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+793467,Karim Janat,3 Nov 2021,v India,Abu Dhabi,2,7,42*,41,22,3,2,190.9,not out,1,1.0,0,7,1,7
+793467,Karim Janat,7 Nov 2021,v New Zealand,Abu Dhabi,1,7,2,5,2,0,0,100,caught,2,DNB,-,-,-,-
+793467,Karim Janat,19 Dec 2021,v Dambulla,Hambantota,1,8,11*,-,3,1,1,366.66,not out,2,2.5,0,24,0,8.47
+793467,Karim Janat,22 Jan 2022,v Sunrisers,Mirpur,2,7,18,12,13,2,0,138.46,caught,1,1.0,0,7,1,7
+793467,Karim Janat,25 Jan 2022,v Barishal,Mirpur,1,6,29*,27,16,1,3,181.25,not out,2,4.0,0,26,2,6.5
+793467,Karim Janat,31 Jan 2022,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.3,0,18,1,5.14
+793467,Karim Janat,1 Feb 2022,v Dhaka,Chattogram,2,6,17,16,11,0,2,154.54,caught,1,3.5,0,46,1,12
+793467,Karim Janat,7 Feb 2022,v Barishal,Sylhet,2,8,17,15,13,1,1,130.76,caught,1,2.0,0,6,1,3
+793467,Karim Janat,3 Mar 2022,v Bangladesh,Mirpur,2,5,6,8,8,1,0,75,caught,1,1.0,0,5,0,5
+793467,Karim Janat,5 Mar 2022,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+793467,Karim Janat,11 Jun 2022,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+793467,Karim Janat,12 Jun 2022,v Zimbabwe,Harare,1,6,12,22,18,0,0,66.66,caught,2,2.0,0,14,1,7
+793467,Karim Janat,18 Jul 2022,v Kabul Eagles,Kabul,1,3,6,4,3,1,0,200,caught,2,3.0,0,23,2,7.66
+793467,Karim Janat,20 Jul 2022,v MAK,Kabul,1,3,10,14,14,1,0,71.42,caught,2,DNB,-,-,-,-
+793467,Karim Janat,23 Jul 2022,v Amo Sharks,Kabul,1,2,40,36,32,6,1,125,lbw,2,4.0,0,34,1,8.5
+793467,Karim Janat,24 Jul 2022,v Stars,Kabul,2,2,44,26,21,7,2,209.52,caught,1,2.0,0,15,0,7.5
+793467,Karim Janat,27 Jul 2022,v BDD,Kabul,2,2,24,30,18,4,1,133.33,caught,1,4.0,0,16,2,4
+793467,Karim Janat,29 Jul 2022,v Pamir Zalmi,Kabul,2,2,30*,37,16,4,1,187.5,not out,1,4.0,0,25,1,6.25
+793467,Karim Janat,31 Jul 2022,v SGT,Kabul,2,2,4,17,9,0,0,44.44,caught,1,4.0,0,32,0,8
+793467,Karim Janat,27 Aug 2022,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+793467,Karim Janat,30 Aug 2022,v Bangladesh,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+793467,Karim Janat,3 Sep 2022,v Sri Lanka,Sharjah,1,7,0*,3,1,0,0,0,not out,2,DNB,-,-,-,-
+793467,Karim Janat,7 Sep 2022,v Pakistan,Sharjah,1,4,15,24,19,1,0,78.94,caught,2,DNB,-,-,-,-
+793467,Karim Janat,8 Sep 2022,v India,Dubai (DICS),2,4,2,8,4,0,0,50,caught,1,DNB,-,-,-,-
+793467,Karim Janat,8 Dec 2022,v Aura,Hambantota,1,7,2,-,4,0,0,50,bowled,2,3.0,0,30,2,10
+793467,Karim Janat,11 Dec 2022,v Galle,Pallekele,2,3,0,-,6,0,0,0,caught,1,DNB,-,-,-,-
+793467,Karim Janat,14 Dec 2022,v Aura,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.5,0,20,1,7.05
+793467,Karim Janat,17 Dec 2022,v Kandy,Colombo (RPS),1,8,1,-,3,0,0,33.33,caught,2,2.0,0,13,0,6.5
+793467,Karim Janat,7 Jan 2023,v Strikers,Mirpur,1,7,17*,18,12,0,2,141.66,not out,2,2.0,0,15,1,7.5
+793467,Karim Janat,10 Jan 2023,v Rangpur,Mirpur,2,6,21*,18,14,2,1,150,not out,1,3.0,0,24,1,8
+793467,Karim Janat,13 Jan 2023,v Chattogram,Chattogram,1,7,6,9,5,1,0,120,caught,2,4.0,0,45,1,11.25
+793467,Karim Janat,14 Jan 2023,v Victorians,Chattogram,1,8,10*,6,5,1,0,200,not out,2,2.0,0,19,1,9.5
+793467,Karim Janat,19 Jan 2023,v Rangpur,Chattogram,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+793467,Karim Janat,20 Jan 2023,v Dominators,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+793467,Karim Janat,24 Jan 2023,v Strikers,Mirpur,2,6,21,18,12,0,3,175,caught,1,3.0,0,28,0,9.33
+793467,Karim Janat,27 Jan 2023,v Chattogram,Sylhet,2,8,31,27,12,3,2,258.33,caught,1,3.0,0,27,0,9
+793467,Karim Janat,31 Jan 2023,v Dominators,Sylhet,1,8,17,9,5,1,2,340,run out,2,2.0,0,20,1,10
+793467,Karim Janat,3 Feb 2023,v Khulna,Mirpur,1,6,16,-,8,3,0,200,caught,2,4.0,0,29,4,7.25
+793467,Karim Janat,7 Feb 2023,v Victorians,Mirpur,1,7,32,34,26,4,1,123.07,caught,2,DNB,-,-,-,-
+793467,Karim Janat,10 Feb 2023,v Khulna,Mirpur,1,7,18,14,9,2,1,200,caught,2,3.0,0,30,0,10
+793467,Karim Janat,12 Feb 2023,v Rangpur,Mirpur,1,4,33*,37,25,3,1,132,not out,2,1.0,0,12,0,12
+793467,Karim Janat,16 Feb 2023,v U.A.E.,Abu Dhabi,2,5,53,-,38,2,3,139.47,caught,1,2.0,0,12,0,6
+793467,Karim Janat,18 Feb 2023,v U.A.E.,Abu Dhabi,1,6,7,-,7,1,0,100,caught,2,2.0,0,13,1,6.5
+793467,Karim Janat,19 Feb 2023,v U.A.E.,Abu Dhabi,2,6,56*,-,22,4,5,254.54,not out,1,3.0,0,23,0,7.66
+793467,Karim Janat,24 Mar 2023,v Pakistan,Sharjah,2,5,7,18,16,0,0,43.75,bowled,1,DNB,-,-,-,-
+793467,Karim Janat,26 Mar 2023,v Pakistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+793467,Karim Janat,27 Mar 2023,v Pakistan,Sharjah,2,7,0,2,1,0,0,0,caught,1,3.0,0,32,1,10.66
+793467,Karim Janat,14 Jul 2023,v Bangladesh,Sylhet,1,4,3,19,9,0,0,33.33,caught,2,1.5,0,15,3,8.18
+793467,Karim Janat,16 Jul 2023,v Bangladesh,Sylhet,1,7,20,25,15,1,1,133.33,caught,2,DNB,-,-,-,-
+793467,Karim Janat,4 Oct 2023,v Sri Lanka,Hangzhou,1,6,3,-,4,0,0,75,caught,2,1.1,0,7,1,6
+793467,Karim Janat,6 Oct 2023,v Pakistan,Hangzhou,2,6,3,-,7,0,0,42.85,caught,1,2.0,0,12,1,6
+793467,Karim Janat,7 Oct 2023,v India,Hangzhou,1,6,1,-,5,0,0,20,bowled,-,TDNB,-,-,-,-
+793467,Karim Janat,17 Oct 2023,v Oman,Al Amerat,1,7,18,-,13,0,2,138.46,caught,2,2.0,0,10,0,5
+793467,Karim Janat,18 Oct 2023,v Oman,Al Amerat,2,7,23,-,20,2,1,115,bowled,1,3.0,0,28,0,9.33
+793467,Karim Janat,20 Oct 2023,v Oman,Al Amerat,2,5,5,-,8,0,0,62.5,caught,1,4.0,0,21,1,5.25
+793467,Karim Janat,21 Oct 2023,v Oman,Al Amerat,1,6,16,-,18,1,0,88.88,bowled,2,3.0,0,22,0,7.33
+793467,Karim Janat,23 Oct 2023,v Oman,Al Amerat,2,6,13,-,13,0,1,100,caught,1,4.0,0,21,1,5.25
+793467,Karim Janat,29 Dec 2023,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+793467,Karim Janat,11 Jan 2024,v India,Mohali,1,7,9*,9,5,2,0,180,not out,2,DNB,-,-,-,-
+793467,Karim Janat,14 Jan 2024,v India,Indore,1,7,20,22,10,2,1,200,caught,2,2.0,0,13,2,6.5
+793467,Karim Janat,17 Jan 2024,v India,Bengaluru,2,6,2,4,2,0,0,100,run out,1,3.0,0,54,0,18
+793467,Karim Janat,19 Jan 2024,v Warriors,Sharjah,1,6,17,29,13,0,1,130.76,caught,2,1.0,0,9,0,9
+793467,Karim Janat,21 Jan 2024,v MI Emirates,Abu Dhabi,2,7,1,12,4,0,0,25,caught,1,DNB,-,-,-,-
+793467,Karim Janat,17 Feb 2024,v Sri Lanka,Dambulla,2,7,20,26,16,2,0,125,lbw,1,3.0,0,23,1,7.66
+793467,Karim Janat,19 Feb 2024,v Sri Lanka,Dambulla,2,7,28,40,23,2,1,121.73,caught,1,2.0,0,20,0,10
+793467,Karim Janat,21 Feb 2024,v Sri Lanka,Dambulla,1,6,0,1,1,0,0,0,bowled,2,1.0,0,9,0,9
+793467,Karim Janat,1 May 2024,v Boost Region,Kabul,1,4,6,13,8,0,0,75,caught,2,4.0,0,16,1,4
+793467,Karim Janat,2 May 2024,v Amo Region,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,1,6.5
+793467,Karim Janat,5 May 2024,v Speen-Ghar,Kabul,1,4,37,52,34,4,1,108.82,bowled,2,4.0,0,24,2,6
+793467,Karim Janat,8 May 2024,v Mis-Ainak,Kabul,1,4,11,13,10,0,1,110,bowled,2,4.0,0,21,1,5.25
+793467,Karim Janat,9 May 2024,v Boost Region,Kabul,2,4,1,3,2,0,0,50,caught,1,4.0,0,48,1,12
+793467,Karim Janat,10 May 2024,v Amo Region,Kabul,2,4,9,11,9,0,1,100,caught,1,3.0,0,16,0,5.33
+793467,Karim Janat,11 May 2024,v Speen-Ghar,Kabul,2,4,26*,23,18,1,2,144.44,not out,1,4.0,0,31,0,7.75
+793467,Karim Janat,13 May 2024,v Mis-Ainak,Kabul,1,4,107,78,53,8,8,201.88,caught,2,4.0,0,34,4,8.5
+793467,Karim Janat,3 Jun 2024,v Uganda,Providence,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+793467,Karim Janat,7 Jun 2024,v New Zealand,Providence,1,6,1*,6,1,0,0,100,not out,2,DNB,-,-,-,-
+793467,Karim Janat,13 Jun 2024,v P.N.G.,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+793467,Karim Janat,17 Jun 2024,v West Indies,Gros Islet,2,7,14,14,9,0,1,155.55,run out,1,DNB,-,-,-,-
+793467,Karim Janat,22 Jun 2024,v Australia,Kingstown,1,4,13,13,9,0,1,144.44,caught,2,DNB,-,-,-,-
+793467,Karim Janat,24 Jun 2024,v Bangladesh,Kingstown,1,6,7*,15,6,1,0,116.66,not out,2,DNB,-,-,-,-
+793467,Karim Janat,26 Jun 2024,v South Africa,Tarouba,1,7,8,22,13,1,0,61.53,lbw,2,DNB,-,-,-,-
+793467,Karim Janat,12 Aug 2024,v SGT,Kabul,1,4,34,32,25,2,2,136,caught,2,2.0,0,30,0,15
+793467,Karim Janat,13 Aug 2024,v Amo Sharks,Kabul,2,4,2,9,5,0,0,40,caught,1,2.0,0,21,0,10.5
+793467,Karim Janat,14 Aug 2024,v BDD,Kabul,2,4,4,4,5,0,0,80,caught,1,1.0,0,21,0,21
+793467,Karim Janat,16 Aug 2024,v MAK,Kabul,2,4,9,18,8,1,0,112.5,bowled,1,3.0,0,17,1,5.66
+793467,Karim Janat,18 Aug 2024,v SGT,Kabul,1,4,9,28,12,0,0,75,run out,2,2.0,0,15,0,7.5
+793467,Karim Janat,20 Aug 2024,v MAK,Kabul,1,4,8,18,12,0,0,66.66,caught,2,4.0,0,22,3,5.5
+793467,Karim Janat,21 Aug 2024,v Amo Sharks,Kabul,2,3,76,62,39,6,5,194.87,bowled,1,3.0,0,28,0,9.33
+793467,Karim Janat,22 Aug 2024,v BDD,Kabul,1,2,29,48,29,2,2,100,lbw,2,4.0,0,28,2,7
+793467,Karim Janat,24 Aug 2024,v Amo Sharks,Kabul,1,2,20,17,11,4,0,181.81,run out,2,3.0,0,30,0,10
+793467,Karim Janat,18 Oct 2024,v Sri Lanka A,Al Amerat,1,4,0,-,1,0,0,0,stumped,2,3.0,0,28,0,9.33
+793467,Karim Janat,20 Oct 2024,v Bangladesh A,Al Amerat,2,4,9,-,13,0,0,69.23,caught,1,4.0,0,32,1,8
+793467,Karim Janat,22 Oct 2024,v Hong Kong,Al Amerat,1,6,21,-,20,2,1,105,caught,2,4.0,0,26,0,6.5
+793467,Karim Janat,25 Oct 2024,v India A,Al Amerat,1,3,41,-,20,4,2,205,caught,2,4.0,0,30,0,7.5
+793467,Karim Janat,27 Oct 2024,v Sri Lanka A,Al Amerat,2,4,33,-,27,0,3,122.22,bowled,1,3.0,0,30,0,10
+793467,Karim Janat,11 Dec 2024,v Zimbabwe,Harare,1,5,54*,71,49,5,0,110.2,not out,2,DNB,-,-,-,-
+793467,Karim Janat,12 Jan 2025,v Gulf Giants,Dubai (DICS),2,6,5,3,5,1,0,100,bowled,1,DNB,-,-,-,-
+793467,Karim Janat,15 Jan 2025,v KnightRiders,Abu Dhabi,2,6,9,11,9,0,1,100,caught,1,DNB,-,-,-,-
+793467,Karim Janat,17 Jan 2025,v DC,Sharjah,2,6,1,-,4,0,0,25,caught,1,2.0,0,24,1,12
+793467,Karim Janat,19 Jan 2025,v MI Emirates,Sharjah,1,6,18,33,17,1,1,105.88,caught,2,1.0,0,8,0,8
+793467,Karim Janat,7 Feb 2025,v Vipers,Sharjah,1,7,23,16,10,0,3,230,caught,2,2.0,0,23,0,11.5
+793467,Karim Janat,28 Apr 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,30,0,30
+793467,Karim Janat,19 Jul 2025,v Amo Sharks,Kabul,1,3,30,37,25,3,1,120,caught,2,2.5,0,30,0,10.58
+793467,Karim Janat,20 Jul 2025,v SGT,Kabul,1,3,52,32,26,6,3,200,caught,2,4.0,0,37,2,9.25
+793467,Karim Janat,21 Jul 2025,v MAK,Kabul,2,3,10,12,8,0,1,125,caught,1,4.0,0,42,0,10.5
+793467,Karim Janat,24 Jul 2025,v BEAD,Kabul,1,3,34,26,19,2,3,178.94,caught,2,4.0,0,35,0,8.75
+793467,Karim Janat,26 Jul 2025,v MAK,Kabul,2,3,0,4,3,0,0,0,run out,1,4.0,0,27,1,6.75
+793467,Karim Janat,28 Jul 2025,v BEAD,Kabul,1,3,65,60,41,5,4,158.53,caught,2,4.0,0,27,0,6.75
+793467,Karim Janat,29 Jul 2025,v Amo Sharks,Kabul,2,3,14,8,6,0,2,233.33,caught,1,4.0,0,24,1,6
+793467,Karim Janat,30 Jul 2025,v SGT,Kabul,1,3,50,22,24,7,2,208.33,lbw,2,4.0,0,34,3,8.5
+793467,Karim Janat,29 Aug 2025,v Pakistan,Sharjah,2,5,0,3,3,0,0,0,caught,1,DNB,-,-,-,-
+793467,Karim Janat,1 Sep 2025,v U.A.E.,Sharjah,1,6,23*,12,10,2,2,230,not out,2,DNB,-,-,-,-
+793467,Karim Janat,2 Sep 2025,v Pakistan,Sharjah,1,5,8*,15,5,1,0,160,not out,2,DNB,-,-,-,-
+793467,Karim Janat,5 Sep 2025,v U.A.E.,Sharjah,1,4,28,20,14,1,3,200,caught,2,DNB,-,-,-,-
+793467,Karim Janat,7 Sep 2025,v Pakistan,Sharjah,2,7,0,2,3,0,0,0,lbw,1,DNB,-,-,-,-
+793467,Karim Janat,9 Sep 2025,v Hong Kong,Abu Dhabi,1,7,2,4,3,0,0,66.66,caught,2,2.0,0,21,0,10.5
+793467,Karim Janat,16 Sep 2025,v Bangladesh,Abu Dhabi,2,7,6,21,8,0,0,75,run out,1,DNB,-,-,-,-
+793467,Karim Janat,18 Sep 2025,v Sri Lanka,Abu Dhabi,1,3,1,4,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+793467,Karim Janat,28 Dec 2025,v Super Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+793467,Karim Janat,6 Jan 2026,v Super Kings,Cape Town,2,7,9*,9,2,0,1,450,not out,1,DNB,-,-,-,-
+793467,Karim Janat,10 Jan 2026,v Super Kings,Johannesburg,1,5,20*,28,11,1,2,181.81,not out,2,DNB,-,-,-,-
+793467,Karim Janat,12 Jan 2026,v Capitals,Centurion,2,6,0,2,3,0,0,0,caught,1,1.0,0,24,1,24

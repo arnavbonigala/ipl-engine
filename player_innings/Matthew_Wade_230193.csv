@@ -1,0 +1,288 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+230193,Matthew Wade,21 Jan 2009,v Queensland,Brisbane,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,24 Jan 2009,v NSW,Sydney,1,3,8,16,12,1,0,66.66,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Oct 2009,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,13 Oct 2009,v Wayamba,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,15 Oct 2009,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,17 Oct 2009,v Cape Cobras,Bengaluru,1,7,18*,12,10,3,0,180,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,21 Oct 2009,v NSW,Delhi,2,7,23*,-,29,0,1,79.31,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Dec 2009,v Queensland,Brisbane,1,8,11*,8,6,1,0,183.33,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,2 Jan 2010,v NSW,Melbourne,2,2,41,29,24,4,2,170.83,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Jan 2010,v South Aust,Adelaide,2,2,4,7,2,1,0,200,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,10 Jan 2010,v West Aust,W.A.C.A,2,1,6,8,10,1,0,60,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2010,v Queensland,Brisbane,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Jan 2010,v South Aust,Adelaide,1,6,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,2 Jul 2010,v Sri Lanka A,Townsville,1,2,80,-,50,9,2,160,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Sep 2010,v Warriors,Gqeberha,2,6,0,4,2,0,0,0,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,15 Sep 2010,v Central D,Centurion,2,3,9,9,10,1,0,90,run out,1,DNB,-,-,-,-
+230193,Matthew Wade,18 Sep 2010,v CSK,Gqeberha,2,3,31,30,23,4,1,134.78,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Sep 2010,v Wayamba,Centurion,2,3,5,15,12,0,0,41.66,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Jan 2011,v Queensland,Melbourne,1,3,19,18,13,1,1,146.15,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Jan 2011,v South Aust,Adelaide,2,3,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Jan 2011,v Tasmania,Hobart,1,3,9,-,11,1,0,81.81,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,18 Jan 2011,v West Aust,W.A.C.A,1,4,1,6,5,0,0,20,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,22 Jan 2011,v NSW,Melbourne,2,4,8,-,11,0,0,72.72,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Jan 2011,v South Aust,Melbourne,1,5,52*,-,31,3,4,167.74,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,17 Apr 2011,v Warriors,DY Patil,2,5,3,-,4,0,0,75,lbw,1,DNB,-,-,-,-
+230193,Matthew Wade,26 Apr 2011,v RCB,Delhi,1,4,8,-,9,0,0,88.88,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,21 May 2011,v Warriors,Delhi,1,3,11,-,20,0,0,55,bowled,-,TDNB,-,-,-,-
+230193,Matthew Wade,13 Oct 2011,v South Africa,Cape Town,2,7,1*,5,1,0,0,100,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,16 Oct 2011,v South Africa,Johannesburg,1,2,10,21,13,0,1,76.92,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,17 Dec 2011,v Thunder,Melbourne,1,2,14,29,14,1,0,100,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,20 Dec 2011,v Heat,Brisbane,1,2,5,7,4,0,0,125,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,27 Dec 2011,v Sixers,Sydney,2,2,1,7,2,0,0,50,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,4 Jan 2012,v Scorchers,Melbourne,2,5,53*,50,43,3,0,123.25,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Jan 2012,v Renegades,Melbourne,1,6,32*,17,15,0,3,213.33,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Jan 2012,v Hurricanes,Hobart,1,4,3,-,3,0,0,100,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2012,v Strikers,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2012,v Scorchers,W.A.C.A,2,8,37,21,17,2,3,217.64,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,1 Feb 2012,v India,Sydney,1,2,72,67,43,5,3,167.44,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,3 Feb 2012,v India,Melbourne,1,6,32,34,29,1,1,110.34,run out,2,DNB,-,-,-,-
+230193,Matthew Wade,27 Mar 2012,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Mar 2012,v West Indies,Bridgetown,2,6,17,27,20,1,1,85,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,5 Sep 2012,v Pakistan,Dubai (DICS),1,7,6,20,13,0,0,46.15,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,7 Sep 2012,v Pakistan,Dubai (DICS),2,7,6,15,6,0,0,100,run out,1,DNB,-,-,-,-
+230193,Matthew Wade,10 Sep 2012,v Pakistan,Dubai (DICS),1,8,6*,9,6,0,0,100,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,19 Sep 2012,v Ireland,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Sep 2012,v West Indies,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Sep 2012,v India,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Sep 2012,v South Africa,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Oct 2012,v Pakistan,Colombo (RPS),2,7,13,24,14,1,0,92.85,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,5 Oct 2012,v West Indies,Colombo (RPS),2,7,1,4,5,0,0,20,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Dec 2012,v Renegades,Melbourne (Docklands),1,6,14*,16,8,1,0,175,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,26 Jan 2013,v Sri Lanka,Sydney,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,28 Jan 2013,v Sri Lanka,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,29 Aug 2013,v England,Southampton,1,7,15*,8,7,2,1,214.28,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,31 Aug 2013,v England,Chester-le-Street,2,7,4,7,4,0,0,100,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Dec 2013,v Renegades,Melbourne,1,6,5,5,6,0,0,83.33,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,29 Dec 2013,v Sixers,Sydney,1,3,36,45,25,2,2,144,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2014,v Thunder,Sydney,2,3,44,44,40,4,1,110,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,4 Jan 2014,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,9 Jan 2014,v Strikers,Melbourne,2,4,2*,9,3,0,0,66.66,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Jan 2014,v Heat,Brisbane,2,3,33,-,28,2,1,117.85,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,29 Jan 2014,v England,Hobart,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,31 Jan 2014,v England,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Feb 2014,v England,Sydney,1,8,19*,17,10,1,1,190,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Feb 2014,v Hurricanes,Melbourne,1,3,8,11,10,1,0,80,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,19 Dec 2014,v Sixers,Sydney,1,1,35,-,18,4,2,194.44,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,26 Dec 2014,v Scorchers,W.A.C.A,2,2,14,-,17,2,0,82.35,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Dec 2014,v Thunder,Melbourne (Docklands),2,1,20,17,15,3,0,133.33,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Jan 2015,v Stars,Melbourne (Docklands),2,1,4,-,5,0,0,80,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Jan 2015,v Hurricanes,Hobart,1,1,2,6,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,10 Jan 2015,v Stars,Melbourne,1,2,71,68,49,2,4,144.89,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Jan 2015,v Heat,Melbourne (Docklands),2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2015,v Strikers,Melbourne (Docklands),2,1,22,46,34,1,0,64.7,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,31 Aug 2015,v England,Cardiff,2,7,2,5,2,0,0,100,run out,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Dec 2015,v Heat,Brisbane,2,4,11*,-,6,2,0,183.33,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Dec 2015,v Sixers,Melbourne (Docklands),1,5,4,10,8,0,0,50,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,30 Dec 2015,v Scorchers,Melbourne (Docklands),1,4,35,32,25,2,1,140,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,2 Jan 2016,v Stars,Melbourne,1,4,24,25,21,1,1,114.28,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Jan 2016,v Hurricanes,Hobart,2,5,3,5,4,0,0,75,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,26 Jan 2016,v India,Adelaide,2,7,5,13,7,0,0,71.42,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,29 Jan 2016,v India,Melbourne,2,6,16*,27,15,0,1,106.66,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,8 Jul 2016,v Yorkshire,Leeds,2,4,6,7,8,0,0,75,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,15 Jul 2016,v Worcs,Worcester,1,3,74,35,32,5,4,231.25,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,17 Jul 2016,v Leics,Birmingham,1,3,5,7,3,1,0,166.66,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,19 Jul 2016,v Northants,Northampton,2,3,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Jul 2016,v Notts,Birmingham,1,4,7*,7,3,1,0,233.33,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,29 Jul 2016,v Lancashire,Manchester,2,4,16,29,21,0,0,76.19,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,9 Sep 2016,v Sri Lanka,Colombo (RPS),2,5,14,29,23,0,0,60.86,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Dec 2017,v Renegades,Hobart,1,6,15,-,10,0,1,150,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,30 Dec 2017,v Thunder,Launceston,2,5,2,-,6,0,0,33.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2018,v Thunder,Sydney,1,3,27,-,23,0,2,117.39,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Jan 2018,v Strikers,Hobart,1,6,20*,-,13,1,0,153.84,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Jan 2018,v Sixers,Hobart,1,3,41,-,30,5,1,136.66,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,10 Jan 2018,v Heat,Brisbane,1,3,16,-,19,1,0,84.21,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Jan 2018,v Heat,Hobart,2,6,11*,-,9,1,0,122.22,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,17 Jan 2018,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Jan 2018,v Scorchers,W.A.C.A,1,1,31,-,17,5,1,182.35,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,27 Jan 2018,v Stars,Melbourne,1,1,17,-,11,3,0,154.54,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Feb 2018,v Scorchers,Perth,1,1,71,-,45,10,1,157.77,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Feb 2018,v Strikers,Adelaide,2,6,0,-,0,0,0,-,run out,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Dec 2018,v Heat,Carrara,1,1,5,-,8,0,0,62.5,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,24 Dec 2018,v Stars,Hobart,2,1,52,-,37,5,1,140.54,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Dec 2018,v Thunder,Hobart,2,1,85,-,49,7,4,173.46,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Dec 2018,v Scorchers,Launceston,2,1,24,-,22,3,0,109.09,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,4 Jan 2019,v Sixers,Hobart,2,1,15,-,11,2,0,136.36,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Jan 2019,v Renegades,Melbourne (Docklands),1,1,9,-,8,1,0,112.5,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,14 Jan 2019,v Stars,Melbourne,1,1,41,-,38,1,1,107.89,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,18 Jan 2019,v Scorchers,Perth,2,1,8,-,6,0,1,133.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2019,v Strikers,Adelaide,2,1,84*,-,49,8,3,171.42,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Jan 2019,v Sixers,Sydney,1,1,64,-,51,4,2,125.49,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,29 Jan 2019,v Heat,Hobart,2,1,12,-,7,0,1,171.42,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,31 Jan 2019,v Strikers,Launceston,1,1,88,-,54,8,2,162.96,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,7 Feb 2019,v Renegades,Hobart,1,1,58,-,30,6,4,193.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Feb 2019,v Thunder,Canberra,1,1,45,-,29,3,2,155.17,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,14 Feb 2019,v Stars,Hobart,1,1,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Jan 2020,v Heat,Brisbane,1,1,61,-,46,3,2,132.6,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,11 Jan 2020,v Thunder,Sydney,1,1,16,-,14,2,0,114.28,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Jan 2020,v Scorchers,Hobart,2,1,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,16 Jan 2020,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2020,v Strikers,Launceston,2,1,5,-,5,1,0,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2020,v Renegades,Melbourne (Docklands),1,1,66,-,29,7,3,227.58,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,24 Jan 2020,v Thunder,Hobart,1,1,56,-,34,6,2,164.7,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,26 Jan 2020,v Strikers,Adelaide,1,1,130*,-,61,11,7,213.11,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,30 Jan 2020,v Thunder,Hobart,2,1,14,-,11,0,1,127.27,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Feb 2020,v South Africa,Johannesburg,1,4,18,16,11,2,0,163.63,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,23 Feb 2020,v South Africa,Gqeberha,2,6,1,3,2,0,0,50,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,26 Feb 2020,v South Africa,Cape Town,1,3,10,20,9,0,1,111.11,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Sep 2020,v England,Southampton,2,1,14,16,9,1,1,155.55,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,4 Dec 2020,v India,Canberra,2,6,7,-,9,0,0,77.77,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,6 Dec 2020,v India,Sydney,1,1,58,-,32,10,1,181.25,run out,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Dec 2020,v India,Sydney,1,1,80,-,53,7,2,150.94,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,22 Jan 2021,v Scorchers,Melbourne (Docklands),2,1,6,-,6,1,0,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,24 Jan 2021,v Sixers,Melbourne,1,1,86,-,44,10,3,195.45,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,26 Jan 2021,v Renegades,Melbourne,2,1,13,-,6,1,1,216.66,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Feb 2021,v New Zealand,Christchurch,2,1,12,18,12,0,1,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,25 Feb 2021,v New Zealand,Dunedin,2,1,24,19,15,3,1,160,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Mar 2021,v New Zealand,Wellington,1,1,5,9,6,1,0,83.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,5 Mar 2021,v New Zealand,Wellington,1,1,14,11,10,1,1,140,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,7 Mar 2021,v New Zealand,Wellington,1,3,44,49,29,3,2,151.72,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Jul 2021,v West Indies,Gros Islet,2,1,33,22,14,1,3,235.71,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,10 Jul 2021,v West Indies,Gros Islet,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,12 Jul 2021,v West Indies,Gros Islet,1,1,23,24,16,4,0,143.75,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,14 Jul 2021,v West Indies,Gros Islet,1,1,5,11,4,1,0,125,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,16 Jul 2021,v West Indies,Gros Islet,2,6,26,26,18,3,1,144.44,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Aug 2021,v Bangladesh,Mirpur,2,5,13,32,23,0,0,56.52,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,4 Aug 2021,v Bangladesh,Mirpur,1,5,4,16,7,0,0,57.14,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,6 Aug 2021,v Bangladesh,Mirpur,2,2,1,5,5,0,0,20,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Aug 2021,v Bangladesh,Mirpur,2,2,2,3,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,9 Aug 2021,v Bangladesh,Mirpur,2,2,22,37,22,0,2,100,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Oct 2021,v South Africa,Abu Dhabi,2,7,15*,27,10,2,0,150,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Oct 2021,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Oct 2021,v England,Dubai (DICS),1,6,18,24,18,2,0,100,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Nov 2021,v Bangladesh,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,6 Nov 2021,v West Indies,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Nov 2021,v Pakistan,Dubai (DICS),2,7,41*,39,17,2,4,241.17,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,14 Nov 2021,v New Zealand,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,8 Dec 2021,v Sixers,Launceston,2,1,20,34,18,1,0,111.11,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Dec 2021,v Sixers,Sydney,1,1,93,53,46,9,5,202.17,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,14 Dec 2021,v Scorchers,Hobart,2,1,4,4,5,1,0,80,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Dec 2021,v Scorchers,Hobart,2,1,13,17,14,2,0,92.85,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,24 Dec 2021,v Stars,Hobart,1,2,39,40,27,2,2,144.44,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,27 Dec 2021,v Strikers,Hobart,2,2,6,8,7,1,0,85.71,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,29 Dec 2021,v Renegades,Melbourne (Docklands),1,1,0,4,3,0,0,0,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2022,v Heat,Hobart,2,1,1,7,5,0,0,20,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,5 Jan 2022,v Strikers,Adelaide,1,2,1,8,4,0,0,25,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Jan 2022,v Thunder,Melbourne (Docklands),1,3,83*,75,54,8,2,153.7,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,18 Jan 2022,v Renegades,Melbourne (Docklands),1,3,48,43,39,4,1,123.07,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2022,v Stars,Melbourne,2,4,10,14,12,0,0,83.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2022,v Strikers,Melbourne,2,3,7,15,7,1,0,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Feb 2022,v Sri Lanka,Sydney,1,7,4,20,5,0,0,80,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Feb 2022,v Sri Lanka,Sydney,1,7,13*,9,4,1,1,325,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Feb 2022,v Sri Lanka,Canberra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,18 Feb 2022,v Sri Lanka,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Feb 2022,v Sri Lanka,Melbourne,1,6,43*,42,27,2,2,159.25,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,28 Mar 2022,v LSG,Wankhede,2,2,30,60,29,4,0,103.44,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Apr 2022,v DC,Pune,1,1,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Apr 2022,v Punjab Kings,Brabourne,2,1,6,18,7,1,0,85.71,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Apr 2022,v SRH,DY Patil,1,1,19,40,19,3,0,100,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,14 Apr 2022,v RR,DY Patil,1,1,12,8,6,3,0,200,run out,2,DNB,-,-,-,-
+230193,Matthew Wade,10 May 2022,v LSG,Pune,1,3,10,10,7,2,0,142.85,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,15 May 2022,v CSK,Wankhede,2,3,20,19,15,2,0,133.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,19 May 2022,v RCB,Wankhede,1,3,16,14,13,2,1,123.07,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,24 May 2022,v RR,Eden Gardens,2,3,35,49,30,6,0,116.66,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,29 May 2022,v RR,Ahmedabad,2,3,8,16,10,0,1,80,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Jun 2022,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,7,26*,44,26,2,0,100,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Jun 2022,v Sri Lanka,Pallekele,1,7,13*,16,8,2,0,162.5,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,10 Aug 2022,v Brave,Birmingham,1,5,10,-,6,0,1,166.66,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Aug 2022,v Fire,Cardiff,1,5,38,-,30,1,3,126.66,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Aug 2022,v Rockets,Birmingham,2,5,14*,-,10,1,1,140,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Aug 2022,v N S-Chargers,Birmingham,2,5,3,8,5,0,0,60,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Aug 2022,v Invincibles,The Oval,1,5,21,23,12,2,1,175,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,28 Aug 2022,v Originals,Birmingham,2,5,7,-,6,1,0,116.66,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,30 Aug 2022,v Spirit,Lord's,2,3,81,63,42,11,2,192.85,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Sep 2022,v India,Mohali,2,7,45*,29,21,6,2,214.28,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Sep 2022,v India,Nagpur,1,5,43*,-,20,4,3,215,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,25 Sep 2022,v India,Hyderabad,1,7,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,5 Oct 2022,v West Indies,Carrara,2,7,39*,64,29,5,0,134.48,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Oct 2022,v West Indies,Brisbane,1,7,16,20,14,2,0,114.28,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Oct 2022,v England,Perth,2,7,21,24,15,1,1,140,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,12 Oct 2022,v England,Canberra,2,7,10*,32,10,0,0,100,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,14 Oct 2022,v England,Canberra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Oct 2022,v New Zealand,Sydney,2,7,2,10,4,0,0,50,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,25 Oct 2022,v Sri Lanka,Perth,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,31 Oct 2022,v Ireland,Brisbane,1,7,7*,7,3,1,0,233.33,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,4 Nov 2022,v Afghanistan,Adelaide,1,7,6,14,8,1,0,75,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,16 Dec 2022,v Stars,Melbourne,2,3,35,46,35,1,1,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Dec 2022,v Scorchers,Launceston,1,3,51,31,29,5,2,175.86,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,22 Dec 2022,v Sixers,Sydney,2,3,15,-,17,0,1,88.23,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,31 Dec 2022,v Thunder,Albury,2,3,67,42,30,2,6,223.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Jan 2023,v Strikers,Hobart,2,3,9,14,9,1,0,100,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,5 Jan 2023,v Strikers,Adelaide,1,3,9,-,11,1,0,81.81,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,7 Jan 2023,v Renegades,Melbourne (Docklands),1,3,20,28,17,2,0,117.64,run out,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Jan 2023,v Thunder,Hobart,2,4,30,44,22,2,1,136.36,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,18 Jan 2023,v Scorchers,Perth,1,3,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,20 Jan 2023,v Heat,Brisbane,2,4,45,39,37,4,1,121.62,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Jan 2023,v Sixers,Hobart,2,4,14,15,10,2,0,140,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,25 Jan 2023,v Heat,Launceston,1,6,12,23,14,1,0,85.71,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,3 Feb 2023,v Paarl Royals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,5 Feb 2023,v Sunrisers,Johannesburg,1,3,7,7,5,1,0,140,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,6 Feb 2023,v MI Cape Town,Johannesburg,1,5,40,21,18,8,1,222.22,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Feb 2023,v Sunrisers,Centurion,2,5,19,23,18,2,0,105.55,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,14 Feb 2023,v Zalmi,Karachi,2,1,23,21,15,3,1,153.33,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,16 Feb 2023,v United,Karachi,1,4,18,25,18,2,0,100,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,18 Feb 2023,v Gladiators,Karachi,2,5,15,32,19,2,0,78.94,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Feb 2023,v Qalandars,Karachi,1,1,36,-,24,4,1,150,run out,2,DNB,-,-,-,-
+230193,Matthew Wade,22 Feb 2023,v Sultans,Multan,2,1,20,36,14,3,1,142.85,lbw,1,DNB,-,-,-,-
+230193,Matthew Wade,26 Feb 2023,v Sultans,Karachi,1,1,46,101,47,4,0,97.87,bowled,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Mar 2023,v Zalmi,Rawalpindi,2,1,53,60,41,9,0,129.26,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Mar 2023,v United,Rawalpindi,1,7,13*,8,6,2,0,216.66,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,6 Mar 2023,v Gladiators,Rawalpindi,1,1,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,2 Aug 2023,v Invincibles,Lord's,1,4,37,45,27,4,0,137.03,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,5 Aug 2023,v Originals,Manchester,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,8 Aug 2023,v Brave,Lord's,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,12 Aug 2023,v Rockets,Lord's,1,4,8,9,7,1,0,114.28,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Aug 2023,v Invincibles,The Oval,2,5,19,14,15,2,0,126.66,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,18 Aug 2023,v N S-Chargers,Lord's,1,4,42,31,22,5,1,190.9,lbw,2,DNB,-,-,-,-
+230193,Matthew Wade,20 Aug 2023,v Fire,Cardiff,1,4,11,5,6,1,1,183.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,24 Aug 2023,v Phoenix,Birmingham,2,4,0,2,4,0,0,0,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Nov 2023,v India,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,26 Nov 2023,v India,Thiruvananthapuram,2,7,42*,39,23,1,4,182.6,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Nov 2023,v India,Guwahati,2,7,28*,41,16,3,1,175,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,1 Dec 2023,v India,Raipur,2,7,36*,29,23,2,2,156.52,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Dec 2023,v India,Bengaluru,2,7,22,25,15,4,0,146.66,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Dec 2023,v Sixers,Launceston,1,1,11,10,7,2,0,157.14,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,23 Dec 2023,v Renegades,Hobart,2,1,82,81,50,9,3,164,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,28 Dec 2023,v Stars,Hobart,1,1,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2024,v Thunder,Hobart,2,1,15,26,22,0,1,68.18,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,11 Jan 2024,v Strikers,Hobart,1,2,14,15,12,3,0,116.66,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,15 Jan 2024,v Stars,Melbourne,1,1,63,68,41,7,1,153.65,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,9 Feb 2024,v West Indies,Hobart,1,7,21,21,14,1,1,150,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,11 Feb 2024,v West Indies,Adelaide,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,13 Feb 2024,v West Indies,Perth,2,7,7*,13,7,0,0,100,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,23 Feb 2024,v New Zealand,Auckland,1,7,1,7,3,0,0,33.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,25 Feb 2024,v New Zealand,Auckland,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,10 Apr 2024,v RR,Jaipur,2,3,4,10,6,0,0,66.66,bowled,1,DNB,-,-,-,-
+230193,Matthew Wade,10 May 2024,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,5 Jun 2024,v Oman,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230193,Matthew Wade,8 Jun 2024,v England,Bridgetown,1,7,17*,21,10,3,0,170,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,11 Jun 2024,v Namibia,North Sound,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,15 Jun 2024,v Scotland,Gros Islet,2,7,4*,13,5,0,0,80,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,20 Jun 2024,v Bangladesh,North Sound,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,22 Jun 2024,v Afghanistan,Kingstown,2,7,5,16,7,0,0,71.42,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,24 Jun 2024,v India,Gros Islet,2,7,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Dec 2024,v Renegades,Geelong,1,1,5,8,5,1,0,100,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2025,v Sixers,Hobart,1,1,15,27,16,2,0,93.75,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,5 Jan 2025,v Strikers,Hobart,2,2,27,31,18,3,1,150,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,10 Jan 2025,v Thunder,Hobart,2,2,13,9,5,0,2,260,lbw,1,DNB,-,-,-,-
+230193,Matthew Wade,14 Jan 2025,v Renegades,Hobart,2,6,36,31,23,5,1,156.52,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,16 Jan 2025,v Heat,Brisbane,2,6,15*,24,9,0,1,166.66,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,19 Jan 2025,v Stars,Melbourne,2,6,21,17,19,1,0,110.52,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2025,v Sixers,Hobart,1,3,4,7,7,0,0,57.14,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,27 Jan 2025,v Thunder,Hobart,2,5,32*,15,17,5,1,188.23,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,2 Feb 2025,v MI Emirates,Abu Dhabi,2,4,44*,42,25,4,2,176,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,6 Feb 2025,v MI Emirates,Abu Dhabi,2,4,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,7 Feb 2025,v Vipers,Sharjah,1,5,5,9,6,1,0,83.33,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,16 Dec 2025,v Thunder,Hobart,2,5,25,28,16,2,1,156.25,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,18 Dec 2025,v Stars,Melbourne,1,6,11,23,7,1,0,157.14,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,21 Dec 2025,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,29 Dec 2025,v Renegades,Hobart,2,6,43*,34,20,2,4,215,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,1 Jan 2026,v Scorchers,Hobart,2,6,29,23,14,2,2,207.14,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,3 Jan 2026,v Thunder,Sydney,2,6,13*,14,5,3,0,260,not out,1,DNB,-,-,-,-
+230193,Matthew Wade,9 Jan 2026,v Strikers,Hobart,1,6,27,26,19,2,1,142.1,caught,2,DNB,-,-,-,-
+230193,Matthew Wade,11 Jan 2026,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230193,Matthew Wade,14 Jan 2026,v Heat,Hobart,2,6,11,10,8,0,1,137.5,caught,1,DNB,-,-,-,-
+230193,Matthew Wade,21 Jan 2026,v Stars,Hobart,1,6,2*,-,1,0,0,200,not out,2,DNB,-,-,-,-
+230193,Matthew Wade,23 Jan 2026,v Sixers,Sydney,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-

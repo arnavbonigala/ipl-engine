@@ -1,0 +1,4 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1206495,Kuldip Yadav,5 Oct 2021,v MI,Sharjah,1,10,0*,14,4,0,0,0,not out,2,2.0,0,16,0,8
+1206495,Kuldip Yadav,27 Apr 2023,v CSK,Jaipur,1,-,sub,-,-,-,-,-,-,2,3.0,0,18,1,6
+1206495,Kuldip Yadav,7 May 2023,v SRH,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5

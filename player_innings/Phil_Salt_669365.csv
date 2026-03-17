@@ -1,0 +1,333 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+669365,Phil Salt,20 May 2016,v Gloucs,Bristol,1,2,24,24,12,2,1,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,16 Jun 2016,v Middlesex,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+669365,Phil Salt,26 Jun 2016,v Gloucs,Arundel,2,3,12,17,11,2,0,109.09,lbw,1,DNB,-,-,-,-
+669365,Phil Salt,30 Jun 2016,v Kent,Canterbury,2,3,18,47,27,0,0,66.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Jul 2016,v Middlesex,Hove,2,3,27,22,18,3,0,150,caught,1,DNB,-,-,-,-
+669365,Phil Salt,7 Jul 2016,v Glamorgan,Cardiff,2,3,9,18,10,1,0,90,caught,1,DNB,-,-,-,-
+669365,Phil Salt,15 Jul 2016,v Hampshire,Hove,2,3,2,6,5,0,0,40,caught,1,DNB,-,-,-,-
+669365,Phil Salt,21 Jul 2016,v Essex,Chelmsford,1,3,33,23,19,3,2,173.68,caught,2,DNB,-,-,-,-
+669365,Phil Salt,22 Jul 2016,v Surrey,The Oval,1,3,18,18,13,3,0,138.46,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Jul 2016,v Glamorgan,Hove,2,3,8*,11,7,1,0,114.28,not out,1,DNB,-,-,-,-
+669365,Phil Salt,21 Jul 2017,v Glamorgan,Cardiff,1,3,28*,32,21,3,1,133.33,not out,-,TDNB,-,-,-,-
+669365,Phil Salt,4 Jul 2018,v Essex,Chelmsford,1,1,4,14,8,0,0,50,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Jul 2018,v Glamorgan,Cardiff,2,1,7,14,8,1,0,87.5,caught,1,DNB,-,-,-,-
+669365,Phil Salt,12 Jul 2018,v Hampshire,Southampton,2,1,20,19,18,2,1,111.11,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,13 Jul 2018,v Surrey,Hove,2,1,74,67,47,8,2,157.44,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,27 Jul 2018,v Kent,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,1 Aug 2018,v Gloucs,Hove,1,1,1,9,6,0,0,16.66,run out,2,DNB,-,-,-,-
+669365,Phil Salt,2 Aug 2018,v Middlesex,Lord's,1,1,50,27,20,5,3,250,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,5 Aug 2018,v Somerset,Hove,1,1,5,3,5,1,0,100,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,9 Aug 2018,v Surrey,The Oval,1,1,33,23,14,4,2,235.71,caught,-,TDNB,-,-,-,-
+669365,Phil Salt,14 Aug 2018,v Glamorgan,Hove,1,1,1,7,7,0,0,14.28,caught,2,DNB,-,-,-,-
+669365,Phil Salt,16 Aug 2018,v Gloucs,Bristol,2,1,60,33,30,8,2,200,caught,1,DNB,-,-,-,-
+669365,Phil Salt,17 Aug 2018,v Middlesex,Hove,1,1,66,25,25,8,4,264,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Aug 2018,v Durham,Chester-le-Street,2,1,4,3,3,1,0,133.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,15 Sep 2018,v Somerset,Birmingham,1,1,13,7,7,3,0,185.71,caught,2,DNB,-,-,-,-
+669365,Phil Salt,15 Sep 2018,v Worcs,Birmingham,1,1,17,10,8,1,2,212.5,run out,2,DNB,-,-,-,-
+669365,Phil Salt,4 Oct 2018,v Yorkshire,Abu Dhabi,2,5,37*,-,21,3,2,176.19,not out,1,DNB,-,-,-,-
+669365,Phil Salt,5 Oct 2018,v Hurricanes,Abu Dhabi,1,5,15,-,8,1,1,187.5,caught,2,DNB,-,-,-,-
+669365,Phil Salt,6 Oct 2018,v Titans,Abu Dhabi,1,5,26,-,15,1,2,173.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,14 Feb 2019,v Qalandars,Dubai (DICS),2,4,4,-,4,1,0,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Feb 2019,v Sultans,Dubai (DICS),1,5,4,-,2,1,0,200,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,27 Feb 2019,v Kings,Dubai (DICS),2,3,46,-,38,6,0,121.05,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Mar 2019,v Zalmi,Dubai (DICS),1,3,28,-,18,5,0,155.55,caught,2,DNB,-,-,-,-
+669365,Phil Salt,5 Mar 2019,v Gladiators,Abu Dhabi,2,3,2,-,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,9 Mar 2019,v Qalandars,Karachi,1,3,10,-,8,2,0,125,caught,2,DNB,-,-,-,-
+669365,Phil Salt,19 Jul 2019,v Hampshire,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+669365,Phil Salt,24 Jul 2019,v Hampshire,Hove,1,1,73,55,46,7,3,158.69,caught,2,DNB,-,-,-,-
+669365,Phil Salt,26 Jul 2019,v Surrey,Hove,1,1,27,9,10,1,3,270,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Jul 2019,v Somerset,Taunton,1,1,4,1,2,1,0,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,2 Aug 2019,v Kent,Hove,2,1,63*,61,44,6,2,143.18,not out,1,DNB,-,-,-,-
+669365,Phil Salt,4 Aug 2019,v Gloucs,Bristol,2,1,9,11,8,2,0,112.5,caught,1,DNB,-,-,-,-
+669365,Phil Salt,6 Aug 2019,v Glamorgan,Hove,2,1,78*,52,42,8,3,185.71,not out,1,DNB,-,-,-,-
+669365,Phil Salt,9 Aug 2019,v Middlesex,Hove,2,1,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,15 Aug 2019,v Surrey,The Oval,2,1,15,15,11,2,0,136.36,caught,1,DNB,-,-,-,-
+669365,Phil Salt,22 Aug 2019,v Essex,Hove,2,1,6,4,4,1,0,150,caught,1,DNB,-,-,-,-
+669365,Phil Salt,24 Aug 2019,v Middlesex,Uxbridge,2,1,29,23,21,4,0,138.09,caught,1,DNB,-,-,-,-
+669365,Phil Salt,26 Aug 2019,v Glamorgan,Cardiff,2,2,27,27,18,4,0,150,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,30 Aug 2019,v Gloucs,Hove,1,1,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+669365,Phil Salt,6 Sep 2019,v Worcs,Hove,1,1,72,44,40,5,5,180,caught,2,DNB,-,-,-,-
+669365,Phil Salt,12 Oct 2019,v Amazon,Tarouba,1,3,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,21 Dec 2019,v Thunder,Canberra,1,1,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,23 Dec 2019,v Scorchers,Adelaide,1,2,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,27 Dec 2019,v Stars,Carrara,1,1,14,-,10,2,0,140,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,29 Dec 2019,v Renegades,Melbourne (Docklands),1,1,54,-,26,7,1,207.69,caught,2,DNB,-,-,-,-
+669365,Phil Salt,31 Dec 2019,v Thunder,Adelaide,2,2,0,-,6,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Jan 2020,v Sixers,Coffs Harbour,1,1,25,-,13,3,1,192.3,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Jan 2020,v Sixers,Adelaide,1,1,9,-,10,1,0,90,caught,2,DNB,-,-,-,-
+669365,Phil Salt,12 Jan 2020,v Renegades,Adelaide,1,2,18,-,12,2,1,150,caught,2,DNB,-,-,-,-
+669365,Phil Salt,14 Jan 2020,v Heat,Brisbane,1,1,7,-,6,1,0,116.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,17 Jan 2020,v Heat,Adelaide,2,1,67*,-,38,5,5,176.31,not out,1,DNB,-,-,-,-
+669365,Phil Salt,19 Jan 2020,v Hurricanes,Launceston,1,2,13,-,9,2,0,144.44,caught,2,DNB,-,-,-,-
+669365,Phil Salt,22 Jan 2020,v Stars,Adelaide,1,1,22,-,14,4,0,157.14,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,24 Jan 2020,v Scorchers,Perth,1,2,59,-,31,7,2,190.32,stumped,2,DNB,-,-,-,-
+669365,Phil Salt,26 Jan 2020,v Hurricanes,Adelaide,2,1,66,-,33,10,2,200,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Feb 2020,v Thunder,Adelaide,2,2,5,-,4,1,0,125,caught,1,DNB,-,-,-,-
+669365,Phil Salt,14 Mar 2020,v Kings,Karachi,1,2,25,-,19,3,1,131.57,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Aug 2020,v Surrey,Hove,1,1,40,40,22,4,2,181.81,caught,-,TDNB,-,-,-,-
+669365,Phil Salt,30 Aug 2020,v Hampshire,Hove,2,1,27,33,16,1,2,168.75,run out,1,DNB,-,-,-,-
+669365,Phil Salt,1 Sep 2020,v Middlesex,Lord's,2,1,7,11,4,0,1,175,caught,1,DNB,-,-,-,-
+669365,Phil Salt,3 Sep 2020,v Kent,Hove,2,1,33,21,14,2,3,235.71,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Sep 2020,v Surrey,The Oval,1,1,1,8,4,0,0,25,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,18 Sep 2020,v Middlesex,Hove,2,1,56,58,40,8,0,140,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,20 Sep 2020,v Essex,Chelmsford,2,1,42,30,22,7,1,190.9,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Oct 2020,v Lancashire,Hove,2,1,5,5,4,1,0,125,caught,1,DNB,-,-,-,-
+669365,Phil Salt,13 Dec 2020,v Hurricanes,Hobart,2,1,8,-,8,0,0,100,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,15 Dec 2020,v Hurricanes,Launceston,2,1,6,-,3,1,0,200,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,20 Dec 2020,v Sixers,Hobart,2,1,28,-,16,5,1,175,caught,1,DNB,-,-,-,-
+669365,Phil Salt,23 Dec 2020,v Heat,Brisbane,1,2,25,-,28,2,0,89.28,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Dec 2020,v Scorchers,Adelaide,1,1,51,-,31,4,4,164.51,caught,2,DNB,-,-,-,-
+669365,Phil Salt,31 Dec 2020,v Scorchers,Adelaide,1,2,4,-,2,1,0,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,3 Jan 2021,v Sixers,Carrara,1,1,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,5 Jan 2021,v Renegades,Adelaide,1,2,8,-,11,1,0,72.72,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Jan 2021,v Renegades,Adelaide,1,2,59,-,42,3,3,140.47,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Jan 2021,v Stars,Adelaide,2,2,31,-,22,4,0,140.9,caught,1,DNB,-,-,-,-
+669365,Phil Salt,15 Jan 2021,v Stars,Melbourne,2,2,5,-,8,1,0,62.5,caught,1,DNB,-,-,-,-
+669365,Phil Salt,21 Jan 2021,v Heat,Adelaide,1,4,26,-,17,2,1,152.94,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Jan 2021,v Thunder,Adelaide,1,3,31,-,24,4,0,129.16,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 Jan 2021,v Thunder,Adelaide,1,3,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+669365,Phil Salt,29 Jan 2021,v Heat,Brisbane,1,4,26,-,21,1,0,123.8,caught,2,DNB,-,-,-,-
+669365,Phil Salt,21 Feb 2021,v Sultans,Karachi,2,1,13,21,12,2,0,108.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,24 Feb 2021,v Kings,Karachi,2,1,0,4,2,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 Feb 2021,v Zalmi,Karachi,1,3,9,20,11,1,0,81.81,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,11 Jun 2021,v Gloucs,Bristol,2,1,77*,77,49,8,2,157.14,not out,1,DNB,-,-,-,-
+669365,Phil Salt,12 Jun 2021,v Hampshire,Hove,2,1,72*,60,44,5,5,163.63,not out,1,DNB,-,-,-,-
+669365,Phil Salt,15 Jun 2021,v Essex,Chelmsford,2,1,13,24,12,2,0,108.33,run out,1,DNB,-,-,-,-
+669365,Phil Salt,17 Jun 2021,v Surrey,The Oval,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,25 Jun 2021,v Gloucs,Hove,2,1,11,7,11,1,1,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 Jun 2021,v Surrey,Hove,2,1,20,17,12,0,3,166.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Jul 2021,v Middlesex,Lord's,2,1,6,12,6,1,0,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,2 Jul 2021,v Glamorgan,Cardiff,1,1,63,47,35,9,1,180,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,16 Jul 2021,v Hampshire,Southampton,1,1,4,1,2,1,0,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,18 Jul 2021,v Kent,Canterbury,2,1,0,3,3,0,0,0,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,22 Jul 2021,v Invincibles,The Oval,2,1,4,-,5,1,0,80,caught,1,DNB,-,-,-,-
+669365,Phil Salt,25 Jul 2021,v Phoenix,Manchester,2,1,22,13,11,4,0,200,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,31 Jul 2021,v Fire,Cardiff,2,1,30,53,26,3,0,115.38,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Aug 2021,v Brave,Manchester,1,1,19,19,14,4,0,135.71,caught,-,TDNB,-,-,-,-
+669365,Phil Salt,10 Aug 2021,v Spirit,Manchester,2,1,14,15,8,3,0,175,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,12 Aug 2021,v N S-Chargers,Leeds,2,1,18,12,9,2,1,200,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,15 Aug 2021,v Rockets,Nottingham,1,1,15,32,13,1,0,115.38,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Aug 2021,v Yorkshire,Chester-le-Street,2,1,27,33,25,2,0,108,caught,1,DNB,-,-,-,-
+669365,Phil Salt,18 Sep 2021,v Kent,Birmingham,2,1,9,6,6,2,0,150,caught,1,DNB,-,-,-,-
+669365,Phil Salt,6 Dec 2021,v Warriors,Colombo (RPS),1,2,64,-,27,4,5,237.03,caught,2,DNB,-,-,-,-
+669365,Phil Salt,7 Dec 2021,v Jaffna Kings,Colombo (RPS),1,1,13,-,12,1,0,108.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Dec 2021,v Stars,Colombo (RPS),1,1,62,-,34,8,2,182.35,caught,2,DNB,-,-,-,-
+669365,Phil Salt,10 Dec 2021,v Galle,Colombo (RPS),1,2,20,-,12,4,0,166.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Dec 2021,v Stars,Colombo (RPS),1,2,21,-,18,4,0,116.66,stumped,2,DNB,-,-,-,-
+669365,Phil Salt,13 Dec 2021,v Jaffna Kings,Colombo (RPS),1,1,23,-,22,1,0,104.54,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,14 Dec 2021,v Galle,Colombo (RPS),2,2,41,-,29,3,1,141.37,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Dec 2021,v Warriors,Colombo (RPS),1,2,3,-,9,0,0,33.33,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,19 Dec 2021,v Stars,Hambantota,2,2,32,-,21,4,1,152.38,caught,1,DNB,-,-,-,-
+669365,Phil Salt,21 Dec 2021,v Jaffna Kings,Hambantota,2,1,22,-,11,3,1,200,caught,1,DNB,-,-,-,-
+669365,Phil Salt,26 Jan 2022,v West Indies,Bridgetown,2,6,57,42,24,3,5,237.5,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,29 Jan 2022,v West Indies,Bridgetown,1,7,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,30 Jan 2022,v West Indies,Bridgetown,2,7,3,9,6,0,0,50,stumped,1,DNB,-,-,-,-
+669365,Phil Salt,5 Feb 2022,v United,Karachi,1,5,2,9,3,0,0,66.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,7 Feb 2022,v Gladiators,Karachi,1,5,8,8,4,0,1,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Feb 2022,v Sultans,Lahore,1,5,26*,29,13,2,1,200,not out,2,DNB,-,-,-,-
+669365,Phil Salt,13 Feb 2022,v Gladiators,Lahore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,18 Feb 2022,v Kings,Lahore,2,5,8,13,12,0,0,66.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,19 Feb 2022,v United,Lahore,1,2,2,7,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,21 Feb 2022,v Zalmi,Lahore,2,2,14,18,10,3,0,140,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,23 Feb 2022,v Sultans,Lahore,2,7,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,25 Feb 2022,v United,Lahore,1,2,2,-,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,27 May 2022,v Yorkshire,Manchester,1,1,59,65,41,5,2,143.9,run out,2,DNB,-,-,-,-
+669365,Phil Salt,29 May 2022,v Worcs,Manchester,1,2,29,13,12,4,1,241.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,31 May 2022,v Notts,Nottingham,1,1,11,13,10,1,0,110,caught,2,DNB,-,-,-,-
+669365,Phil Salt,1 Jun 2022,v Derbyshire,Manchester,1,1,19,31,13,3,0,146.15,caught,2,DNB,-,-,-,-
+669365,Phil Salt,3 Jun 2022,v Northants,Manchester,2,1,37,41,30,4,0,123.33,lbw,1,DNB,-,-,-,-
+669365,Phil Salt,7 Jun 2022,v Leics,Leicester,2,2,38,54,34,4,0,111.76,caught,1,DNB,-,-,-,-
+669365,Phil Salt,8 Jun 2022,v Yorkshire,Leeds,1,1,10,11,7,2,0,142.85,caught,2,DNB,-,-,-,-
+669365,Phil Salt,10 Jun 2022,v Durham,Chester-le-Street,1,1,23,10,12,5,0,191.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Jun 2022,v Derbyshire,Derby,2,1,14,9,11,3,0,127.27,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Jul 2022,v Worcs,Worcester,2,1,44,45,27,4,2,162.96,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,3 Jul 2022,v Bears,Manchester,2,1,33,42,28,4,0,117.85,caught,1,DNB,-,-,-,-
+669365,Phil Salt,8 Jul 2022,v Essex,Manchester,2,1,27,36,21,3,0,128.57,caught,1,DNB,-,-,-,-
+669365,Phil Salt,10 Jul 2022,v India,Nottingham,1,4,8,12,6,1,0,133.33,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,16 Jul 2022,v Yorkshire,Birmingham,2,1,36,14,15,4,3,240,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Jul 2022,v Hampshire,Birmingham,2,1,10,3,4,1,1,250,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Aug 2022,v N S-Chargers,Manchester,1,2,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Aug 2022,v Spirit,Lord's,2,2,36,-,34,4,0,105.88,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,13 Aug 2022,v Rockets,Manchester,1,2,70*,-,46,6,2,152.17,not out,2,DNB,-,-,-,-
+669365,Phil Salt,16 Aug 2022,v Fire,Manchester,1,2,38,-,22,2,4,172.72,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,18 Aug 2022,v Brave,Southampton,1,2,38,28,22,4,1,172.72,caught,2,DNB,-,-,-,-
+669365,Phil Salt,21 Aug 2022,v N S-Chargers,Leeds,1,1,55,37,25,3,5,220,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Aug 2022,v Phoenix,Birmingham,1,1,56,-,38,5,2,147.36,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,31 Aug 2022,v Invincibles,Manchester,2,1,19,22,14,3,0,135.71,caught,1,DNB,-,-,-,-
+669365,Phil Salt,2 Sep 2022,v Spirit,Southampton,2,1,29,33,18,2,1,161.11,caught,1,DNB,-,-,-,-
+669365,Phil Salt,3 Sep 2022,v Rockets,Lord's,1,1,11,19,10,2,0,110,caught,2,DNB,-,-,-,-
+669365,Phil Salt,20 Sep 2022,v Pakistan,Karachi,2,1,10,11,10,2,0,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,22 Sep 2022,v Pakistan,Karachi,1,1,30,58,27,1,1,111.11,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,23 Sep 2022,v Pakistan,Karachi,1,1,8,10,6,1,0,133.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 Sep 2022,v Pakistan,Karachi,2,1,8,3,4,2,0,200,caught,1,DNB,-,-,-,-
+669365,Phil Salt,28 Sep 2022,v Pakistan,Lahore,2,1,3,18,6,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,30 Sep 2022,v Pakistan,Lahore,2,1,88*,79,41,13,3,214.63,not out,1,DNB,-,-,-,-
+669365,Phil Salt,2 Oct 2022,v Pakistan,Lahore,1,1,20,25,12,3,0,166.66,run out,2,DNB,-,-,-,-
+669365,Phil Salt,10 Nov 2022,v India,Adelaide,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,13 Nov 2022,v Pakistan,Melbourne,2,3,10,16,9,2,0,111.11,caught,1,DNB,-,-,-,-
+669365,Phil Salt,12 Jan 2023,v Sunrisers,Gqeberha,1,1,77*,100,47,11,0,163.82,not out,2,DNB,-,-,-,-
+669365,Phil Salt,14 Jan 2023,v Sunrisers,Centurion,1,1,1,-,2,0,0,50,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,17 Jan 2023,v Super Kings,Johannesburg,2,1,29,38,15,4,1,193.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,18 Jan 2023,v Super Kings,Centurion,2,1,52*,64,30,6,1,173.33,not out,1,DNB,-,-,-,-
+669365,Phil Salt,20 Jan 2023,v Super Giants,Durban,2,1,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,4 Feb 2023,v MI Cape Town,Centurion,2,1,9,24,9,1,0,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Feb 2023,v Super Giants,Centurion,2,1,1,7,3,0,0,33.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,7 Feb 2023,v Paarl Royals,Centurion,1,1,39,24,21,3,3,185.71,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Feb 2023,v Paarl Royals,Johannesburg,1,1,22,39,21,3,0,104.76,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,11 Feb 2023,v Sunrisers,Johannesburg,1,1,8,-,7,1,0,114.28,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,9 Mar 2023,v Bangladesh,Chattogram,1,1,38,39,35,4,1,108.57,caught,2,DNB,-,-,-,-
+669365,Phil Salt,12 Mar 2023,v Bangladesh,Mirpur,1,1,25,33,19,3,1,131.57,caught,2,DNB,-,-,-,-
+669365,Phil Salt,14 Mar 2023,v Bangladesh,Mirpur,2,2,0,3,1,0,0,0,stumped,1,DNB,-,-,-,-
+669365,Phil Salt,20 Apr 2023,v KKR,Delhi,2,4,5,6,3,1,0,166.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,24 Apr 2023,v SRH,Hyderabad,1,2,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,29 Apr 2023,v SRH,Delhi,2,2,59,53,35,9,0,168.57,caught,1,DNB,-,-,-,-
+669365,Phil Salt,2 May 2023,v GT,Ahmedabad,1,1,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,6 May 2023,v RCB,Delhi,2,2,87,76,45,8,6,193.33,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,10 May 2023,v CSK,Chennai,2,2,17,19,11,1,2,154.54,caught,1,DNB,-,-,-,-
+669365,Phil Salt,13 May 2023,v Punjab Kings,Delhi,2,2,21,31,17,3,0,123.52,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,17 May 2023,v Punjab Kings,Dharamsala,1,4,26*,21,14,2,2,185.71,not out,2,DNB,-,-,-,-
+669365,Phil Salt,20 May 2023,v CSK,Delhi,2,3,3,17,6,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,25 May 2023,v Leics,Manchester,2,1,28,29,19,4,1,147.36,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 May 2023,v Notts,Manchester,1,1,34,37,24,5,0,141.66,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,1 Jun 2023,v Yorkshire,Leeds,2,1,16,29,17,2,0,94.11,caught,1,DNB,-,-,-,-
+669365,Phil Salt,2 Jun 2023,v Durham,Chester-le-Street,1,1,21,18,11,4,0,190.9,caught,2,DNB,-,-,-,-
+669365,Phil Salt,4 Jun 2023,v Notts,Nottingham,1,1,12,13,9,2,0,133.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,7 Jun 2023,v Worcs,Blackpool,2,1,5,19,10,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Jun 2023,v Northants,Northampton,1,1,12,17,8,2,0,150,caught,2,DNB,-,-,-,-
+669365,Phil Salt,18 Jun 2023,v Durham,Manchester,1,1,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,20 Jun 2023,v Worcs,Worcester,1,1,6,2,5,0,1,120,caught,2,DNB,-,-,-,-
+669365,Phil Salt,23 Jun 2023,v Derbyshire,Manchester,1,1,16,20,11,2,0,145.45,caught,2,DNB,-,-,-,-
+669365,Phil Salt,2 Jul 2023,v Northants,Manchester,2,1,74*,70,51,5,4,145.09,not out,1,DNB,-,-,-,-
+669365,Phil Salt,7 Jul 2023,v Surrey,Manchester,2,1,13,14,11,2,0,118.18,caught,1,DNB,-,-,-,-
+669365,Phil Salt,2 Aug 2023,v Fire,Cardiff,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+669365,Phil Salt,5 Aug 2023,v Spirit,Manchester,1,1,21,-,9,0,3,233.33,caught,-,TDNB,-,-,-,-
+669365,Phil Salt,7 Aug 2023,v Phoenix,Manchester,1,1,2,2,4,0,0,50,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,9 Aug 2023,v Invincibles,The Oval,2,1,2,13,11,0,0,18.18,caught,1,DNB,-,-,-,-
+669365,Phil Salt,13 Aug 2023,v N S-Chargers,Leeds,1,1,4,2,3,1,0,133.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,17 Aug 2023,v Rockets,Nottingham,1,1,86,30,32,12,5,268.75,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,20 Aug 2023,v N S-Chargers,Manchester,1,1,28,27,18,1,2,155.55,caught,2,DNB,-,-,-,-
+669365,Phil Salt,23 Aug 2023,v Brave,Manchester,1,1,17,13,8,2,1,212.5,caught,2,DNB,-,-,-,-
+669365,Phil Salt,26 Aug 2023,v Brave,The Oval,2,1,47,24,17,5,4,276.47,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 Aug 2023,v Invincibles,Lord's,2,1,25,16,16,4,1,156.25,caught,1,DNB,-,-,-,-
+669365,Phil Salt,12 Dec 2023,v West Indies,Bridgetown,1,1,40,21,20,6,1,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,14 Dec 2023,v West Indies,St George's,2,1,25,33,23,2,1,108.69,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Dec 2023,v West Indies,St George's,2,1,109*,95,56,4,9,194.64,not out,1,DNB,-,-,-,-
+669365,Phil Salt,19 Dec 2023,v West Indies,Tarouba,1,1,119,80,57,7,10,208.77,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,21 Dec 2023,v West Indies,Tarouba,1,1,38,30,22,5,1,172.72,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,12 Jan 2024,v Paarl Royals,Paarl,2,1,39,57,31,3,2,125.8,lbw,1,DNB,-,-,-,-
+669365,Phil Salt,14 Jan 2024,v Paarl Royals,Centurion,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,18 Jan 2024,v Super Giants,Centurion,1,1,23,25,13,2,2,176.92,caught,2,DNB,-,-,-,-
+669365,Phil Salt,20 Jan 2024,v Super Kings,Johannesburg,1,1,12,14,6,1,1,200,caught,2,DNB,-,-,-,-
+669365,Phil Salt,22 Jan 2024,v Sunrisers,Gqeberha,1,1,10,13,7,2,0,142.85,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 Jan 2024,v Sunrisers,Centurion,1,1,20,11,9,1,2,222.22,caught,2,DNB,-,-,-,-
+669365,Phil Salt,27 Jan 2024,v Super Kings,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,30 Jan 2024,v Super Giants,Durban,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Feb 2024,v MI Cape Town,Centurion,2,1,5,8,4,1,0,125,caught,1,DNB,-,-,-,-
+669365,Phil Salt,3 Feb 2024,v MI Cape Town,Cape Town,2,1,7,8,7,1,0,100,caught,1,DNB,-,-,-,-
+669365,Phil Salt,9 Feb 2024,v DC,Dubai (DICS),1,1,26,21,11,4,1,236.36,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Feb 2024,v Warriors,Sharjah,2,1,30,19,12,4,2,250,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,23 Mar 2024,v SRH,Eden Gardens,1,1,54,68,40,3,3,135,caught,2,DNB,-,-,-,-
+669365,Phil Salt,29 Mar 2024,v RCB,Bengaluru,2,1,30,37,20,2,2,150,caught,1,DNB,-,-,-,-
+669365,Phil Salt,3 Apr 2024,v DC,Visakhapatnam,1,1,18,24,12,4,0,150,caught,2,DNB,-,-,-,-
+669365,Phil Salt,8 Apr 2024,v CSK,Chennai,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,14 Apr 2024,v LSG,Eden Gardens,2,1,89*,79,47,14,3,189.36,not out,1,DNB,-,-,-,-
+669365,Phil Salt,16 Apr 2024,v RR,Eden Gardens,1,1,10,16,13,1,0,76.92,caught,2,DNB,-,-,-,-
+669365,Phil Salt,21 Apr 2024,v RCB,Eden Gardens,1,1,48,25,14,7,3,342.85,caught,2,DNB,-,-,-,-
+669365,Phil Salt,26 Apr 2024,v Punjab Kings,Eden Gardens,1,1,75,-,37,6,6,202.7,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,29 Apr 2024,v DC,Eden Gardens,2,1,68,42,33,7,5,206.06,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,3 May 2024,v MI,Wankhede,1,1,5,4,3,1,0,166.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,5 May 2024,v LSG,Lucknow,1,1,32,23,14,5,1,228.57,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 May 2024,v MI,Eden Gardens,1,1,6,4,5,0,1,120,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 May 2024,v Pakistan,Birmingham,1,1,13,15,9,2,0,144.44,caught,2,DNB,-,-,-,-
+669365,Phil Salt,30 May 2024,v Pakistan,The Oval,2,1,45,30,24,6,2,187.5,caught,1,DNB,-,-,-,-
+669365,Phil Salt,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,8 Jun 2024,v Australia,Bridgetown,2,1,37,36,23,4,2,160.86,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,13 Jun 2024,v Oman,North Sound,2,1,12,2,3,0,2,400,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,15 Jun 2024,v Namibia,North Sound,1,1,11,11,8,2,0,137.5,caught,2,DNB,-,-,-,-
+669365,Phil Salt,19 Jun 2024,v West Indies,Gros Islet,2,1,87*,79,47,7,5,185.1,not out,1,DNB,-,-,-,-
+669365,Phil Salt,21 Jun 2024,v South Africa,Gros Islet,2,1,11,8,8,1,1,137.5,caught,1,DNB,-,-,-,-
+669365,Phil Salt,23 Jun 2024,v U.S.A.,Bridgetown,2,1,25*,44,21,2,0,119.04,not out,1,DNB,-,-,-,-
+669365,Phil Salt,27 Jun 2024,v India,Providence,2,1,5,20,8,0,0,62.5,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,17 Jul 2024,v Notts,Manchester,2,1,70,58,42,3,5,166.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,19 Jul 2024,v Northants,Manchester,1,1,9,14,8,0,1,112.5,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 Jul 2024,v Fire,Manchester,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,29 Jul 2024,v Rockets,Manchester,2,1,16,8,8,3,0,200,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Aug 2024,v Brave,Southampton,1,1,7,7,11,1,0,63.63,caught,2,DNB,-,-,-,-
+669365,Phil Salt,4 Aug 2024,v N S-Chargers,Leeds,2,1,40,38,27,3,2,148.14,run out,1,DNB,-,-,-,-
+669365,Phil Salt,6 Aug 2024,v Invincibles,Manchester,2,1,34,37,28,3,1,121.42,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,9 Aug 2024,v Spirit,Lord's,1,1,58,56,41,4,2,141.46,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Aug 2024,v N S-Chargers,Manchester,1,1,61,57,28,5,4,217.85,caught,2,DNB,-,-,-,-
+669365,Phil Salt,15 Aug 2024,v Phoenix,Birmingham,1,1,12,13,8,0,1,150,caught,2,DNB,-,-,-,-
+669365,Phil Salt,4 Sep 2024,v Sussex,Hove,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,11 Sep 2024,v Australia,Southampton,2,1,20,28,12,4,0,166.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,13 Sep 2024,v Australia,Cardiff,2,1,39,41,23,2,3,169.56,caught,1,DNB,-,-,-,-
+669365,Phil Salt,9 Nov 2024,v West Indies,Bridgetown,2,1,103*,-,54,9,6,190.74,not out,1,DNB,-,-,-,-
+669365,Phil Salt,10 Nov 2024,v West Indies,Bridgetown,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,14 Nov 2024,v West Indies,Gros Islet,2,1,4,12,8,0,0,50,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,16 Nov 2024,v West Indies,Gros Islet,1,1,55,46,35,5,4,157.14,caught,2,DNB,-,-,-,-
+669365,Phil Salt,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,12 Jan 2025,v Vipers,Abu Dhabi,1,1,71*,88,49,5,4,144.89,not out,2,DNB,-,-,-,-
+669365,Phil Salt,15 Jan 2025,v Warriorz,Abu Dhabi,1,1,2,10,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,18 Jan 2025,v Vipers,Dubai (DICS),2,1,2,2,4,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,22 Jan 2025,v India,Eden Gardens,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+669365,Phil Salt,25 Jan 2025,v India,Chennai,1,1,4,3,3,1,0,133.33,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Jan 2025,v India,Rajkot,1,1,5,6,7,1,0,71.42,caught,2,DNB,-,-,-,-
+669365,Phil Salt,31 Jan 2025,v India,Pune,2,1,23,30,21,4,0,109.52,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,2 Feb 2025,v India,Wankhede,2,1,55,37,23,7,3,239.13,caught,1,DNB,-,-,-,-
+669365,Phil Salt,22 Mar 2025,v KKR,Eden Gardens,2,1,56,40,31,9,2,180.64,caught,1,DNB,-,-,-,-
+669365,Phil Salt,28 Mar 2025,v CSK,Chennai,1,1,32,23,16,5,1,200,stumped,2,DNB,-,-,-,-
+669365,Phil Salt,2 Apr 2025,v GT,Bengaluru,1,1,14,26,13,1,1,107.69,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,7 Apr 2025,v MI,Wankhede,1,1,4,1,2,1,0,200,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,10 Apr 2025,v DC,Bengaluru,1,1,37,17,17,4,3,217.64,run out,2,DNB,-,-,-,-
+669365,Phil Salt,13 Apr 2025,v RR,Jaipur,2,1,65,38,33,5,6,196.96,caught,1,DNB,-,-,-,-
+669365,Phil Salt,18 Apr 2025,v Punjab Kings,Bengaluru,1,1,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+669365,Phil Salt,20 Apr 2025,v Punjab Kings,New Chandigarh,2,1,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,24 Apr 2025,v RR,Bengaluru,1,1,26,31,23,4,0,113.04,caught,2,DNB,-,-,-,-
+669365,Phil Salt,23 May 2025,v SRH,Lucknow,2,1,62,65,32,4,5,193.75,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 May 2025,v LSG,Lucknow,2,1,30,28,19,6,0,157.89,caught,1,DNB,-,-,-,-
+669365,Phil Salt,29 May 2025,v Punjab Kings,New Chandigarh,2,1,56*,48,27,6,3,207.4,not out,1,DNB,-,-,-,-
+669365,Phil Salt,3 Jun 2025,v Punjab Kings,Ahmedabad,1,1,16,9,9,2,1,177.77,caught,2,DNB,-,-,-,-
+669365,Phil Salt,4 Jul 2025,v Northants,Northampton,2,1,80,77,57,8,4,140.35,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Jul 2025,v Derbyshire,Manchester,1,1,44,65,35,1,2,125.71,caught,2,DNB,-,-,-,-
+669365,Phil Salt,9 Jul 2025,v Bears,Birmingham,2,1,21,12,9,3,1,233.33,caught,1,DNB,-,-,-,-
+669365,Phil Salt,11 Jul 2025,v Yorkshire,Manchester,2,1,38,39,20,5,1,190,caught,1,DNB,-,-,-,-
+669365,Phil Salt,13 Jul 2025,v Durham,Manchester,2,1,2,2,5,0,0,40,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,17 Jul 2025,v Yorkshire,Leeds,1,1,42,33,29,5,2,144.82,caught,2,DNB,-,-,-,-
+669365,Phil Salt,18 Jul 2025,v Notts,Nottingham,1,1,18,20,12,2,1,150,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,6 Aug 2025,v Brave,Manchester,1,1,60,55,41,4,2,146.34,caught,2,DNB,-,-,-,-
+669365,Phil Salt,9 Aug 2025,v Invincibles,The Oval,1,1,41,59,32,1,3,128.12,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Aug 2025,v Spirit,Manchester,1,1,31,29,20,4,1,155,caught,2,DNB,-,-,-,-
+669365,Phil Salt,13 Aug 2025,v Fire,Cardiff,2,1,3,9,4,0,0,75,caught,1,DNB,-,-,-,-
+669365,Phil Salt,17 Aug 2025,v N S-Chargers,Manchester,1,1,9,8,5,2,0,180,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,19 Aug 2025,v Rockets,Nottingham,1,1,19,44,20,1,0,95,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Aug 2025,v Phoenix,Manchester,1,1,31,20,20,2,3,155,caught,2,DNB,-,-,-,-
+669365,Phil Salt,26 Aug 2025,v N S-Chargers,Leeds,2,1,9,22,13,1,0,69.23,caught,1,DNB,-,-,-,-
+669365,Phil Salt,6 Sep 2025,v Kent,Manchester,2,1,3,3,4,0,0,75,caught,1,DNB,-,-,-,-
+669365,Phil Salt,10 Sep 2025,v South Africa,Cardiff,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,12 Sep 2025,v South Africa,Manchester,1,1,141*,101,60,15,8,235,not out,2,DNB,-,-,-,-
+669365,Phil Salt,17 Sep 2025,v Ireland,Dublin (Malahide),2,1,89,84,46,10,4,193.47,caught,1,DNB,-,-,-,-
+669365,Phil Salt,21 Sep 2025,v Ireland,Dublin (Malahide),2,1,29,49,23,2,1,126.08,caught,1,DNB,-,-,-,-
+669365,Phil Salt,18 Oct 2025,v New Zealand,Christchurch,1,1,3,8,4,0,0,75,caught,-,TDNB,-,-,-,-
+669365,Phil Salt,20 Oct 2025,v New Zealand,Christchurch,1,1,85,86,56,11,1,151.78,caught,2,DNB,-,-,-,-
+669365,Phil Salt,23 Oct 2025,v New Zealand,Auckland,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+669365,Phil Salt,5 Dec 2025,v Vipers,Sharjah,1,1,18,-,15,1,1,120,caught,2,sub,-,-,-,-
+669365,Phil Salt,7 Dec 2025,v DC,Dubai (DICS),2,1,27,29,21,2,2,128.57,caught,1,DNB,-,-,-,-
+669365,Phil Salt,11 Dec 2025,v MI Emirates,Abu Dhabi,1,1,17,11,9,3,0,188.88,bowled,2,DNB,-,-,-,-
+669365,Phil Salt,13 Dec 2025,v DC,Abu Dhabi,2,1,33,45,29,3,1,113.79,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Dec 2025,v Vipers,Abu Dhabi,1,1,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+669365,Phil Salt,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,1,35,30,24,4,1,145.83,caught,1,DNB,-,-,-,-
+669365,Phil Salt,20 Dec 2025,v MI Emirates,Abu Dhabi,2,1,6,7,4,1,0,150,bowled,1,DNB,-,-,-,-
+669365,Phil Salt,22 Dec 2025,v Warriorz,Abu Dhabi,1,1,4,-,6,1,0,66.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,1,72*,92,56,2,4,128.57,not out,2,DNB,-,-,-,-
+669365,Phil Salt,1 Jan 2026,v DC,Dubai (DICS),1,1,43,62,34,3,1,126.47,caught,2,DNB,-,-,-,-
+669365,Phil Salt,30 Jan 2026,v Sri Lanka,Pallekele,2,1,46,71,35,3,2,131.42,caught,1,DNB,-,-,-,-
+669365,Phil Salt,1 Feb 2026,v Sri Lanka,Pallekele,2,1,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,8 Feb 2026,v Nepal,Wankhede,1,1,1,7,2,0,0,50,caught,2,DNB,-,-,-,-
+669365,Phil Salt,11 Feb 2026,v West Indies,Wankhede,2,1,30,15,14,4,2,214.28,caught,1,DNB,-,-,-,-
+669365,Phil Salt,14 Feb 2026,v Scotland,Eden Gardens,2,1,2,3,3,0,0,66.66,caught,1,DNB,-,-,-,-
+669365,Phil Salt,16 Feb 2026,v Italy,Eden Gardens,1,1,28,28,15,2,2,186.66,caught,2,DNB,-,-,-,-
+669365,Phil Salt,22 Feb 2026,v Sri Lanka,Pallekele,1,1,62,76,40,6,2,155,caught,2,DNB,-,-,-,-
+669365,Phil Salt,24 Feb 2026,v Pakistan,Pallekele,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+669365,Phil Salt,27 Feb 2026,v New Zealand,Colombo (RPS),2,1,2,3,4,0,0,50,caught,1,DNB,-,-,-,-
+669365,Phil Salt,5 Mar 2026,v India,Wankhede,2,1,5,6,3,1,0,166.66,caught,1,DNB,-,-,-,-

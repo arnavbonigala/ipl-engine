@@ -1,0 +1,292 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+35582,Robin Uthappa,3 Apr 2007,v Kerala,Visakhapatnam,1,2,40,36,28,4,1,142.85,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 Apr 2007,v Andhra,Visakhapatnam,1,2,48,47,28,3,2,171.42,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,5 Apr 2007,v Goa,Visakhapatnam,2,2,1,6,2,0,0,50,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,6 Apr 2007,v Tamil Nadu,Visakhapatnam,1,2,10,6,5,2,0,200,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,7 Apr 2007,v Hyderabad,Visakhapatnam,2,2,46,24,28,8,0,164.28,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 Apr 2007,v Punjab,Wankhede,1,2,6,10,8,1,0,75,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2007,v Gujarat,Brabourne,2,2,6,20,16,0,0,37.5,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,18 Apr 2007,v Orissa,Wankhede,1,2,3,8,6,0,0,50,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Apr 2007,v Railways,Brabourne,1,2,31,38,23,3,1,134.78,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+35582,Robin Uthappa,14 Sep 2007,v Pakistan,Durban,1,3,50,52,39,4,2,128.2,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,16 Sep 2007,v New Zealand,Johannesburg,2,3,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 Sep 2007,v England,Durban,1,3,6,8,4,1,0,150,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,20 Sep 2007,v South Africa,Durban,1,4,15,22,16,1,1,93.75,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,22 Sep 2007,v Australia,Durban,1,3,34,38,28,1,3,121.42,run out,2,DNB,-,-,-,-
+35582,Robin Uthappa,24 Sep 2007,v Pakistan,Johannesburg,1,3,8,13,11,1,0,72.72,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,20 Oct 2007,v Australia,Brabourne,2,3,35,38,26,6,0,134.61,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,1 Feb 2008,v Australia,Melbourne,1,4,1,7,3,0,0,33.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,20 Apr 2008,v RCB,Wankhede,1,4,48,-,38,5,1,126.31,stumped,2,DNB,-,-,-,-
+35582,Robin Uthappa,23 Apr 2008,v CSK,Chennai,2,3,43,38,36,6,1,119.44,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,25 Apr 2008,v Kings XI,Mohali,2,3,21,-,18,2,1,116.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,27 Apr 2008,v Chargers,DY Patil,1,4,6,-,5,1,0,120,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,29 Apr 2008,v KKR,Eden Gardens,2,4,37*,-,37,5,0,100,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,4 May 2008,v Daredevils,DY Patil,1,4,22,-,21,0,2,104.76,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,7 May 2008,v RR,DY Patil,2,3,34*,-,21,4,1,161.9,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 May 2008,v CSK,Wankhede,2,3,16*,-,19,2,0,84.21,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 May 2008,v KKR,Wankhede,2,3,9,-,8,2,0,112.5,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,18 May 2008,v Chargers,Hyderabad,1,5,7,-,16,0,0,43.75,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,21 May 2008,v Kings XI,Wankhede,2,5,9,-,13,0,0,69.23,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 May 2008,v Daredevils,Delhi,1,4,46*,-,23,5,2,200,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,26 May 2008,v RR,Jaipur,1,4,3,-,8,0,0,37.5,stumped,2,DNB,-,-,-,-
+35582,Robin Uthappa,28 May 2008,v RCB,Bengaluru,2,3,19*,-,16,2,1,118.75,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,18 Apr 2009,v RR,Cape Town,1,2,3,-,10,0,0,30,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,20 Apr 2009,v CSK,Gqeberha,2,2,20,38,19,2,0,105.26,stumped,1,DNB,-,-,-,-
+35582,Robin Uthappa,22 Apr 2009,v Chargers,Cape Town,2,2,12,-,19,1,0,63.15,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Apr 2009,v Kings XI,Durban,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,26 Apr 2009,v Daredevils,Gqeberha,1,2,3,8,4,0,0,75,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,1 May 2009,v Kings XI,Durban,1,5,19,-,17,2,0,111.76,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,3 May 2009,v MI,Johannesburg,2,3,66*,-,42,8,2,157.14,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,7 May 2009,v RR,Centurion,1,3,17,-,20,3,0,85,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,10 May 2009,v MI,Gqeberha,2,3,4,4,5,1,0,80,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,12 May 2009,v KKR,Centurion,2,3,7,-,9,0,0,77.77,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 May 2009,v CSK,Durban,2,1,6,-,4,1,0,150,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2009,v Daredevils,Johannesburg,2,1,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 May 2009,v Chargers,Centurion,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+35582,Robin Uthappa,23 May 2009,v CSK,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 May 2009,v Chargers,Johannesburg,2,8,17*,-,15,0,1,113.33,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,25 Sep 2009,v Goa,Visakhapatnam,2,4,19,15,14,0,2,135.71,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,26 Sep 2009,v Andhra,Visakhapatnam,2,2,20*,11,7,1,2,285.71,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 Oct 2009,v Cape Cobras,Bengaluru,1,2,51,-,39,7,2,130.76,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 Oct 2009,v Otago,Bengaluru,1,2,42,-,31,5,2,135.48,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,15 Oct 2009,v Victoria,Bengaluru,1,2,13,-,12,2,0,108.33,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Oct 2009,v Daredevils,Bengaluru,2,2,9,-,9,1,0,100,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 Mar 2010,v KKR,Eden Gardens,1,7,20,-,17,1,0,117.64,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,16 Mar 2010,v Kings XI,Bengaluru,2,3,51,-,21,4,4,242.85,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,18 Mar 2010,v RR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+35582,Robin Uthappa,20 Mar 2010,v MI,Brabourne,2,3,23,-,15,2,1,153.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,23 Mar 2010,v CSK,Bengaluru,1,4,68*,-,38,3,6,178.94,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,25 Mar 2010,v Daredevils,Bengaluru,2,3,15,-,10,1,1,150,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,31 Mar 2010,v CSK,Chennai,1,3,21,-,13,1,2,161.53,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,2 Apr 2010,v Kings XI,Mohali,2,5,22,-,8,1,2,275,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,4 Apr 2010,v Daredevils,Delhi,2,4,12,-,9,0,1,133.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 Apr 2010,v Chargers,Bengaluru,1,4,2,-,5,0,0,40,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,10 Apr 2010,v KKR,Bengaluru,2,4,50*,-,22,4,4,227.27,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,12 Apr 2010,v Chargers,Nagpur,2,4,34,-,20,0,3,170,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 Apr 2010,v RR,Jaipur,2,4,26,-,21,2,1,123.8,stumped,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2010,v MI,Bengaluru,2,5,4,-,6,0,0,66.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2010,v MI,DY Patil,2,4,26,-,13,2,2,200,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Apr 2010,v Chargers,DY Patil,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+35582,Robin Uthappa,12 Sep 2010,v Guyana,Centurion,2,3,25*,9,8,2,2,312.5,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Sep 2010,v South Aust,Durban,1,3,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Sep 2010,v MI,Durban,2,3,6,6,5,1,0,120,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Sep 2010,v Lions,Johannesburg,2,5,7,7,5,1,0,140,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Sep 2010,v CSK,Durban,2,3,4,7,7,1,0,57.14,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 Oct 2010,v Goa,Hyderabad,2,3,53,37,30,6,2,176.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,15 Oct 2010,v Andhra,Hyderabad,2,4,14,11,9,2,0,155.55,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 Oct 2010,v Kerala,Hyderabad,1,3,38,37,26,4,0,146.15,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,18 Oct 2010,v Tamil Nadu,Hyderabad,2,3,12,13,11,0,1,109.09,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 Oct 2010,v Hyderabad,Hyderabad,2,3,30,27,24,2,0,125,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,10 Apr 2011,v Kings XI,DY Patil,2,4,22*,-,14,1,2,157.14,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 Apr 2011,v Kochi,DY Patil,2,5,31,-,13,3,2,238.46,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2011,v Daredevils,DY Patil,1,5,4,-,10,0,0,40,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,20 Apr 2011,v MI,Wankhede,1,4,45,-,37,6,1,121.62,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,25 Apr 2011,v CSK,Chennai,2,4,0,-,4,0,0,0,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,27 Apr 2011,v CSK,DY Patil,1,6,31,-,22,2,2,140.9,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,29 Apr 2011,v RCB,Bengaluru,2,5,23*,-,17,3,1,135.29,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,1 May 2011,v RR,Jaipur,1,3,35,-,21,7,0,166.66,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 May 2011,v MI,DY Patil,2,6,34*,-,26,0,2,130.76,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 May 2011,v Kings XI,Mohali,2,3,22,-,18,3,0,122.22,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,10 May 2011,v Chargers,Hyderabad,2,4,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 May 2011,v Chargers,DY Patil,1,4,4,-,5,1,0,80,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2011,v KKR,DY Patil,1,5,12,-,19,1,0,63.15,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,21 May 2011,v Daredevils,Delhi,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 Oct 2011,v Goa,Chennai,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Oct 2011,v Kerala,Chennai,1,1,10,20,12,1,0,83.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,18 Oct 2011,v Tamil Nadu,Chennai,2,1,59,37,29,7,3,203.44,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,20 Oct 2011,v Hyderabad,Chennai,1,1,92,-,36,8,8,255.55,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,21 Oct 2011,v Andhra,Chennai,2,1,64,-,20,6,5,320,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,29 Oct 2011,v England,Eden Gardens,1,1,1,6,3,0,0,33.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,23 Mar 2012,v Baroda,Brabourne,1,1,21,-,13,4,0,161.53,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,30 Mar 2012,v South Africa,Johannesburg,2,1,18*,36,19,1,0,94.73,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,6 Apr 2012,v MI,Wankhede,1,4,36,52,33,3,0,109.09,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 Apr 2012,v Kings XI,Pune,1,4,40,59,33,2,2,121.21,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 Apr 2012,v Kings XI,Mohali,1,4,17,33,16,0,1,106.25,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,14 Apr 2012,v CSK,Pune,2,1,10,12,7,0,1,142.85,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2012,v RCB,Bengaluru,1,1,69,60,45,9,2,153.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Apr 2012,v CSK,Chennai,2,1,8,7,5,2,0,160,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2012,v Daredevils,Delhi,1,1,10,16,13,2,0,76.92,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,24 Apr 2012,v Daredevils,Pune,1,4,60*,75,58,6,0,103.44,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,26 Apr 2012,v Chargers,Pune,2,4,29,39,27,2,1,107.4,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,1 May 2012,v Chargers,Cuttack,2,5,26,31,18,1,1,144.44,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,3 May 2012,v MI,Pune,2,1,18,17,18,2,1,100,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,5 May 2012,v KKR,Eden Gardens,2,1,17,16,14,2,0,121.42,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 May 2012,v RR,Pune,1,3,13,35,19,0,0,68.42,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,11 May 2012,v RCB,Pune,2,4,38,36,23,5,1,165.21,stumped,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 May 2012,v RR,Jaipur,2,3,6,7,6,1,0,100,stumped,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2012,v KKR,Pune,2,1,8,10,8,1,0,100,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,26 Mar 2013,v Punjab,Indore,2,1,1,-,2,0,0,50,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Mar 2013,v UP,Indore,2,1,20,27,17,2,1,117.64,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,29 Mar 2013,v Bengal,Indore,2,1,41,35,26,5,1,157.69,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Mar 2013,v Baroda,Indore,1,1,49,46,34,6,2,144.11,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,5 Apr 2013,v SRH,Hyderabad,2,1,24,30,22,2,1,109.09,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,7 Apr 2013,v Kings XI,Pune,1,1,19,40,23,2,0,82.6,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,11 Apr 2013,v RR,Pune,2,1,32,19,16,3,2,200,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 Apr 2013,v MI,Wankhede,2,2,7,14,9,1,0,77.77,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,15 Apr 2013,v CSK,Chennai,1,1,26,55,33,2,0,78.78,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2013,v SRH,Pune,2,1,22,19,14,4,0,157.14,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2013,v Kings XI,Mohali,1,1,37,44,33,4,0,112.12,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,23 Apr 2013,v RCB,Bengaluru,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Apr 2013,v Daredevils,Raipur,2,1,37,44,33,4,0,112.12,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Apr 2013,v CSK,Pune,2,1,10,17,11,0,1,90.9,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 May 2013,v RCB,Pune,2,1,75,81,45,5,5,166.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,5 May 2013,v RR,Jaipur,1,1,54,68,41,8,1,131.7,run out,2,DNB,-,-,-,-
+35582,Robin Uthappa,9 May 2013,v KKR,Pune,2,1,31,55,35,2,0,88.57,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 May 2013,v MI,Pune,1,1,11,21,13,1,0,84.61,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,15 May 2013,v KKR,Ranchi,1,1,25,20,21,1,2,119.04,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2013,v Daredevils,Pune,1,1,24,22,20,3,0,120,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,21 Sep 2013,v W. Indies A,Bengaluru,1,1,35,32,21,1,3,166.66,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,1 Apr 2014,v Andhra,Vizianagaram,2,3,6,8,9,1,0,66.66,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 Apr 2014,v Hyderabad,Visakhapatnam,1,1,64,-,45,8,1,142.22,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,3 Apr 2014,v Kerala,Visakhapatnam,2,1,6,9,6,1,0,100,bowled,1,1.0,0,11,0,11
+35582,Robin Uthappa,4 Apr 2014,v Goa,Visakhapatnam,2,1,3,5,3,0,0,100,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 Apr 2014,v MI,Abu Dhabi,1,4,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Apr 2014,v Daredevils,Dubai (DICS),1,4,55,69,41,6,1,134.14,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,24 Apr 2014,v RCB,Sharjah,1,6,22,26,18,0,1,122.22,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,26 Apr 2014,v Kings XI,Abu Dhabi,2,5,19,35,27,2,0,70.37,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,29 Apr 2014,v RR,Abu Dhabi,2,7,0,4,1,0,0,0,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 May 2014,v CSK,Ranchi,2,1,47,-,38,5,1,123.68,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,5 May 2014,v RR,Ahmedabad,2,1,65,66,52,5,3,125,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,7 May 2014,v Daredevils,Delhi,2,1,47,59,34,5,1,138.23,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 May 2014,v Kings XI,Cuttack,2,1,46,31,28,8,1,164.28,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 May 2014,v MI,Cuttack,2,1,80,71,52,9,3,153.84,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,18 May 2014,v SRH,Hyderabad,2,1,40,46,33,5,1,121.21,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,20 May 2014,v CSK,Eden Gardens,2,1,67,53,39,10,1,171.79,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,22 May 2014,v RCB,Eden Gardens,1,1,83*,100,51,10,1,162.74,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,24 May 2014,v SRH,Eden Gardens,2,1,41,48,30,4,2,136.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,27 May 2014,v Kings XI,Eden Gardens,1,1,42,43,30,4,2,140,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,1 Jun 2014,v Kings XI,Bengaluru,2,1,5,3,3,1,0,166.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Sep 2014,v Lahore Lions,Hyderabad,2,1,46,57,34,4,2,135.29,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Sep 2014,v Scorchers,Hyderabad,2,1,23,27,18,4,0,127.77,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,29 Sep 2014,v Dolphins,Hyderabad,1,1,85*,86,55,13,0,154.54,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,2 Oct 2014,v Hurricanes,Hyderabad,2,1,17,32,21,3,0,80.95,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,4 Oct 2014,v CSK,Bengaluru,1,1,39,48,32,4,1,121.87,stumped,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 Apr 2015,v MI,Eden Gardens,2,1,9,14,12,0,1,75,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 Apr 2015,v RCB,Eden Gardens,1,1,35,52,28,4,0,125,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,18 Apr 2015,v Kings XI,Pune,2,1,13,11,10,2,0,130,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,20 Apr 2015,v Daredevils,Delhi,2,1,13,19,13,2,0,100,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,22 Apr 2015,v SRH,Visakhapatnam,2,1,34,-,21,2,2,161.9,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Apr 2015,v CSK,Chennai,2,1,39,26,17,6,1,229.41,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Apr 2015,v CSK,Eden Gardens,2,1,80*,-,58,7,1,137.93,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 May 2015,v RCB,Bengaluru,1,1,23,-,21,3,0,109.52,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 May 2015,v SRH,Eden Gardens,1,1,30,45,27,3,0,111.11,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,7 May 2015,v Daredevils,Eden Gardens,1,1,32,42,31,4,1,103.22,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,9 May 2015,v Kings XI,Eden Gardens,2,1,17,16,11,3,0,154.54,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 May 2015,v MI,Wankhede,2,1,25,26,20,3,1,125,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 May 2015,v RR,Brabourne,2,1,14,15,8,3,0,175,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Jul 2015,v Zimbabwe,Harare,1,3,39*,57,35,2,0,111.42,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Jul 2015,v Zimbabwe,Harare,2,3,42,-,25,9,0,168,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 Jan 2016,v Services,Cuttack,1,3,22,24,11,3,0,200,bowled,2,DNB,-,-,-,-
+35582,Robin Uthappa,3 Jan 2016,v Mumbai,Cuttack,1,3,30,32,25,4,1,120,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 Jan 2016,v UP,Cuttack,1,3,25,23,18,3,1,138.88,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,7 Jan 2016,v Maharashtra,Cuttack,2,2,80,96,52,10,2,153.84,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 Jan 2016,v Odisha,Cuttack,2,2,48,59,41,6,1,117.07,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,10 Apr 2016,v Daredevils,Eden Gardens,2,1,35,45,33,7,0,106.06,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 Apr 2016,v MI,Eden Gardens,1,1,8,17,10,1,0,80,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,16 Apr 2016,v SRH,Hyderabad,2,1,38,61,34,3,1,111.76,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 Apr 2016,v Kings XI,Mohali,2,1,53,40,28,9,0,189.28,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Apr 2016,v Supergiants,Pune,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Apr 2016,v MI,Wankhede,1,1,36,37,20,1,2,180,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,30 Apr 2016,v Daredevils,Delhi,2,1,72,93,52,6,2,138.46,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 May 2016,v RCB,Bengaluru,2,1,1,4,4,0,0,25,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,4 May 2016,v Kings XI,Eden Gardens,1,1,70,76,49,6,2,142.85,run out,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 May 2016,v Guj Lions,Eden Gardens,1,1,14,17,10,3,0,140,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,14 May 2016,v Supergiants,Eden Gardens,2,1,4,-,1,1,0,400,stumped,1,DNB,-,-,-,-
+35582,Robin Uthappa,16 May 2016,v RCB,Eden Gardens,1,1,2,10,4,0,0,50,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2016,v Guj Lions,Kanpur,1,1,25,31,19,3,1,131.57,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,22 May 2016,v SRH,Eden Gardens,1,1,25,17,17,4,0,147.05,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,25 May 2016,v SRH,Delhi,2,1,11,8,7,1,0,157.14,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,7 Apr 2017,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+35582,Robin Uthappa,9 Apr 2017,v MI,Wankhede,1,3,4,3,3,1,0,133.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,13 Apr 2017,v Kings XI,Eden Gardens,2,3,26,22,16,3,1,162.5,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,15 Apr 2017,v SRH,Eden Gardens,1,3,68,59,39,5,4,174.35,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2017,v Daredevils,Delhi,2,3,4,6,2,1,0,200,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2017,v Guj Lions,Eden Gardens,1,3,72,64,48,8,2,150,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,23 Apr 2017,v RCB,Eden Gardens,1,3,11,16,9,2,0,122.22,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,26 Apr 2017,v Supergiant,Pune,2,3,87,66,47,7,6,185.1,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Apr 2017,v Daredevils,Eden Gardens,2,3,59,57,33,5,4,178.78,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Apr 2017,v SRH,Hyderabad,2,3,53,55,28,4,4,189.28,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,9 May 2017,v Kings XI,Mohali,2,4,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 May 2017,v MI,Eden Gardens,2,4,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 May 2017,v SRH,Bengaluru,2,1,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2017,v MI,Bengaluru,1,4,1,4,3,0,0,33.33,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 Jan 2018,v Maharashtra,Rajkot,1,1,16,16,12,2,0,133.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,10 Jan 2018,v Mumbai,Rajkot,2,1,52,54,36,5,3,144.44,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 Jan 2018,v Baroda,Rajkot,1,2,29,35,19,3,1,152.63,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,13 Jan 2018,v Gujarat,Rajkot,1,1,3,7,5,0,0,60,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 Apr 2018,v RCB,Eden Gardens,2,3,13,-,12,0,1,108.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,10 Apr 2018,v CSK,Chennai,1,3,29,-,16,2,3,181.25,run out,2,DNB,-,-,-,-
+35582,Robin Uthappa,14 Apr 2018,v SRH,Eden Gardens,1,1,3,-,8,0,0,37.5,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,16 Apr 2018,v Daredevils,Eden Gardens,1,3,35,-,19,2,3,184.21,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,18 Apr 2018,v RR,Jaipur,2,3,48,-,36,6,2,133.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2018,v Kings XI,Eden Gardens,1,3,34,-,23,5,1,147.82,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,27 Apr 2018,v Daredevils,Delhi,2,3,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,29 Apr 2018,v RCB,Bengaluru,2,3,36,-,21,3,3,171.42,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,3 May 2018,v CSK,Eden Gardens,2,3,6,-,8,1,0,75,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,6 May 2018,v MI,Wankhede,2,3,54,-,35,6,3,154.28,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,9 May 2018,v MI,Eden Gardens,2,3,14,-,13,0,2,107.69,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,12 May 2018,v Kings XI,Indore,1,3,24,-,17,2,1,141.17,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,15 May 2018,v RR,Eden Gardens,2,3,4,-,6,0,0,66.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,19 May 2018,v SRH,Hyderabad,2,3,45,-,34,3,2,132.35,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,23 May 2018,v RR,Eden Gardens,1,3,3,-,7,0,0,42.85,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,25 May 2018,v SRH,Eden Gardens,2,4,2,-,8,0,0,25,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,21 Feb 2019,v Railways,Indore,1,3,46,40,31,5,2,148.38,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,22 Feb 2019,v M. Pradesh,Indore,2,3,4,12,6,0,0,66.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Feb 2019,v Punjab,Indore,2,3,54,54,44,3,3,122.72,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,25 Feb 2019,v Sikkim,Indore,2,3,6,9,9,1,0,66.66,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Feb 2019,v Mumbai,Indore,2,3,57,-,41,6,1,139.02,run out,1,DNB,-,-,-,-
+35582,Robin Uthappa,2 Mar 2019,v Goa,Indore,2,3,18,-,9,4,0,200,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,24 Mar 2019,v SRH,Eden Gardens,2,3,35,-,27,3,1,129.62,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,27 Mar 2019,v Kings XI,Eden Gardens,1,3,67*,-,50,6,2,134,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,30 Mar 2019,v DC,Delhi,1,3,11,11,6,2,0,183.33,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,5 Apr 2019,v RCB,Bengaluru,2,3,33,40,25,6,0,132,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,7 Apr 2019,v RR,Jaipur,2,3,26*,22,16,1,2,162.5,not out,1,DNB,-,-,-,-
+35582,Robin Uthappa,9 Apr 2019,v CSK,Chennai,1,3,11,18,9,2,0,122.22,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 Apr 2019,v DC,Eden Gardens,1,3,28,38,30,4,1,93.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,14 Apr 2019,v CSK,Eden Gardens,1,4,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Apr 2019,v RCB,Eden Gardens,2,4,9,43,20,1,0,45,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+35582,Robin Uthappa,3 May 2019,v Kings XI,Mohali,2,3,22,19,14,2,1,157.14,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,5 May 2019,v MI,Wankhede,1,3,40,71,47,1,3,85.1,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,8 Nov 2019,v Tamil Nadu,Thumba,2,1,9,-,13,1,0,69.23,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 Nov 2019,v Tripura,Thiruvananthapuram,1,4,19,-,19,1,1,100,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 Nov 2019,v Manipur,Thiruvananthapuram,1,5,29,-,24,1,2,120.83,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,14 Nov 2019,v Vidarbha,Thumba,1,5,69*,-,39,2,5,176.92,not out,2,DNB,-,-,-,-
+35582,Robin Uthappa,15 Nov 2019,v Rajasthan,Thiruvananthapuram,1,5,11,-,10,0,0,110,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Nov 2019,v UP,Thiruvananthapuram,1,5,2,-,11,0,0,18.18,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,22 Sep 2020,v CSK,Sharjah,1,5,5,-,9,0,0,55.55,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,27 Sep 2020,v Kings XI,Sharjah,2,5,9,-,4,2,0,225,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Sep 2020,v KKR,Dubai (DICS),2,4,2,-,7,0,0,28.57,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,3 Oct 2020,v RCB,Abu Dhabi,1,4,17,-,22,1,0,77.27,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,11 Oct 2020,v SRH,Dubai (DICS),2,5,18,-,15,1,1,120,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,14 Oct 2020,v DC,Dubai (DICS),2,5,32,-,27,3,1,118.51,bowled,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Oct 2020,v RCB,Dubai (DICS),1,1,41,-,22,7,1,186.36,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Oct 2020,v CSK,Abu Dhabi,2,2,4,-,9,0,0,44.44,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,22 Oct 2020,v SRH,Dubai (DICS),1,1,19,-,13,2,1,146.15,run out,2,DNB,-,-,-,-
+35582,Robin Uthappa,25 Oct 2020,v MI,Abu Dhabi,2,1,13,-,11,2,0,118.18,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,30 Oct 2020,v Kings XI,Abu Dhabi,2,1,30,-,23,1,2,130.43,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,1 Nov 2020,v KKR,Dubai (DICS),2,1,6,-,2,0,1,300,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,11 Jan 2021,v Puducherry,Wankhede,2,1,21,-,12,3,0,175,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,13 Jan 2021,v Mumbai,Wankhede,2,1,33,-,23,4,0,143.47,lbw,1,DNB,-,-,-,-
+35582,Robin Uthappa,15 Jan 2021,v Delhi,Wankhede,2,1,91,-,54,3,8,168.51,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,17 Jan 2021,v Andhra,Mumbai,1,1,8,-,17,1,0,47.05,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,19 Jan 2021,v Haryana,Wankhede,2,1,8,-,9,2,0,88.88,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,4 Oct 2021,v DC,Dubai (DICS),1,3,19,27,19,1,0,100,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,4,2,7,6,0,0,33.33,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,10 Oct 2021,v DC,Dubai (DICS),2,3,63,62,44,7,2,143.18,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,15 Oct 2021,v KKR,Dubai (DICS),1,3,31,26,15,0,3,206.66,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 Nov 2021,v Gujarat,Delhi,1,1,9,-,12,1,0,75,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,5 Nov 2021,v Bihar,Delhi,2,1,57*,-,34,5,4,167.64,retired notout,1,DNB,-,-,-,-
+35582,Robin Uthappa,26 Mar 2022,v KKR,Wankhede,1,3,28,37,21,2,2,133.33,stumped,2,DNB,-,-,-,-
+35582,Robin Uthappa,31 Mar 2022,v LSG,Brabourne,1,1,50,41,27,8,1,185.18,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,3 Apr 2022,v Punjab Kings,Brabourne,2,1,13,12,10,2,0,130,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,9 Apr 2022,v SRH,DY Patil,1,1,15,17,11,1,0,136.36,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 Apr 2022,v RCB,DY Patil,1,2,88,98,50,4,9,176,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,17 Apr 2022,v GT,Pune,1,2,3,14,10,0,0,30,lbw,2,DNB,-,-,-,-
+35582,Robin Uthappa,21 Apr 2022,v MI,DY Patil,2,2,30,50,25,2,2,120,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,25 Apr 2022,v Punjab Kings,Wankhede,2,2,1,10,7,0,0,14.28,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,1 May 2022,v SRH,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+35582,Robin Uthappa,4 May 2022,v RCB,Pune,2,3,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+35582,Robin Uthappa,8 May 2022,v DC,DY Patil,1,7,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+35582,Robin Uthappa,12 May 2022,v MI,Wankhede,1,4,1,9,6,0,0,16.66,lbw,2,DNB,-,-,-,-

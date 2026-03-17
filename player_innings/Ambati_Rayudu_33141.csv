@@ -1,0 +1,304 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+33141,Ambati Rayudu,3 Apr 2007,v Goa,Visakhapatnam,1,3,8,12,8,1,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Apr 2007,v Kerala,Visakhapatnam,1,3,14,33,19,1,0,73.68,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 Apr 2007,v Tamil Nadu,Visakhapatnam,1,5,14,19,16,0,0,87.5,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2007,v Andhra,Visakhapatnam,1,4,75*,42,42,8,2,178.57,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 Apr 2007,v Karnataka,Visakhapatnam,1,4,3,6,9,0,0,33.33,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Sep 2009,v Andhra,Visakhapatnam,1,3,53,-,34,4,2,155.88,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Mar 2010,v RR,Brabourne,1,5,55,-,33,6,2,166.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Mar 2010,v Daredevils,Delhi,1,5,34,-,21,1,3,161.9,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Mar 2010,v RCB,Brabourne,1,5,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,28 Mar 2010,v Chargers,DY Patil,1,5,6,-,7,0,0,85.71,stumped,2,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Mar 2010,v Kings XI,Brabourne,2,5,9,-,12,1,0,75,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,3 Apr 2010,v Chargers,Brabourne,1,5,55*,-,29,6,2,189.65,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2010,v CSK,Chennai,2,4,3,-,4,0,0,75,stumped,1,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2010,v Kings XI,Mohali,1,3,33,-,18,7,0,183.33,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Apr 2010,v RR,Jaipur,1,3,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Apr 2010,v Daredevils,Brabourne,1,4,24,-,21,2,0,114.28,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2010,v RCB,Bengaluru,1,3,46,-,27,3,4,170.37,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Apr 2010,v KKR,Eden Gardens,1,7,27,-,15,3,1,180,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2010,v RCB,DY Patil,1,4,40,-,38,4,0,105.26,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2010,v CSK,DY Patil,2,5,21,-,14,1,1,150,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Sep 2010,v Lions,Johannesburg,2,3,3,5,4,0,0,75,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Sep 2010,v South Aust,Durban,1,3,38,43,32,1,2,118.75,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Sep 2010,v Guyana,Durban,1,5,4,15,5,0,0,80,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Sep 2010,v RCB,Durban,1,3,3,3,3,0,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Oct 2010,v Mumbai,Vadodara,1,3,45,58,44,4,0,102.27,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Oct 2010,v Gujarat,Vadodara,2,3,2,8,8,0,0,25,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Oct 2010,v Saurashtra,Vadodara,2,3,5,9,9,0,0,55.55,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Oct 2010,v Maharashtra,Vadodara,2,2,20,27,19,2,0,105.26,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Apr 2011,v Daredevils,Delhi,2,3,14,-,15,2,0,93.33,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Apr 2011,v RCB,Bengaluru,2,3,63*,-,50,9,0,126,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Apr 2011,v Kochi,Wankhede,1,3,53,-,33,3,4,160.6,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Apr 2011,v Warriors,Wankhede,2,3,37,-,40,4,0,92.5,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Apr 2011,v CSK,Wankhede,1,3,27,-,29,4,0,93.1,stumped,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Apr 2011,v Chargers,Hyderabad,1,3,7,-,8,0,0,87.5,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,29 Apr 2011,v RR,Jaipur,1,3,11,-,13,1,0,84.61,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,2 May 2011,v Kings XI,Wankhede,1,3,51,-,37,8,1,137.83,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 May 2011,v Warriors,DY Patil,1,3,27,-,28,2,0,96.42,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 May 2011,v Daredevils,Wankhede,1,3,59,-,39,7,2,151.28,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,10 May 2011,v Kings XI,Mohali,2,5,13,-,19,2,0,68.42,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 May 2011,v Chargers,Wankhede,2,3,2,-,8,0,0,25,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,20 May 2011,v RR,Wankhede,1,3,2,-,8,0,0,25,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 May 2011,v KKR,Eden Gardens,2,7,17*,-,6,0,2,283.33,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 May 2011,v KKR,Wankhede,2,4,12,-,16,2,0,75,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,27 May 2011,v RCB,Chennai,2,6,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Sep 2011,v CSK,Chennai,2,4,5,5,6,1,0,83.33,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Sep 2011,v Trinidad & T,Bengaluru,2,3,36,76,47,3,0,76.59,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Sep 2011,v Cape Cobras,Bengaluru,1,3,6,11,7,1,0,85.71,caught,-,TDNB,-,-,-,-
+33141,Ambati Rayudu,2 Oct 2011,v NSW,Chennai,1,3,2,8,5,0,0,40,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,8 Oct 2011,v Somerset,Chennai,1,3,19,-,19,2,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Oct 2011,v RCB,Chennai,1,3,22,37,21,1,1,104.76,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Oct 2011,v Mumbai,Rajkot,1,2,35,48,33,4,0,106.06,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Oct 2011,v Gujarat,Rajkot,1,2,57,45,38,3,4,150,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Oct 2011,v Saurashtra,Rajkot,2,2,37,36,20,7,0,185,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Oct 2011,v Maharashtra,Rajkot,1,2,24,11,16,4,1,150,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Mar 2012,v Karnataka,Brabourne,2,5,19,-,21,1,1,90.47,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Mar 2012,v Bengal,Mumbai,2,4,66,-,56,9,2,117.85,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Mar 2012,v Delhi,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,27 Mar 2012,v Punjab,Brabourne,1,4,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Apr 2012,v CSK,Chennai,2,4,18*,39,18,0,1,100,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2012,v Warriors,Wankhede,2,2,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2012,v Chargers,Visakhapatnam,2,4,19,30,24,1,0,79.16,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Apr 2012,v RR,Wankhede,1,4,47*,64,32,1,3,146.87,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Apr 2012,v Daredevils,Wankhede,1,4,4,16,11,0,0,36.36,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Apr 2012,v Kings XI,Wankhede,1,8,3*,8,3,0,0,100,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2012,v Kings XI,Mohali,2,6,34*,38,17,2,2,200,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,27 Apr 2012,v Daredevils,Delhi,2,5,62,53,39,5,3,158.97,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,29 Apr 2012,v Chargers,Wankhede,2,6,19*,-,15,2,0,126.66,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,3 May 2012,v Warriors,Pune,1,6,1,7,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,6 May 2012,v CSK,Wankhede,2,5,0,2,2,0,0,0,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,9 May 2012,v RCB,Wankhede,1,5,22,29,17,2,0,129.41,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,12 May 2012,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,14 May 2012,v RCB,Bengaluru,2,5,81*,93,54,6,4,150,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,16 May 2012,v KKR,Wankhede,2,5,11,13,8,0,1,137.5,stumped,1,DNB,-,-,-,-
+33141,Ambati Rayudu,20 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,23 May 2012,v CSK,Bengaluru,2,6,11,-,7,2,0,157.14,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Oct 2012,v Lions,Johannesburg,1,7,4,4,4,0,0,100,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,18 Oct 2012,v Yorkshire,Cape Town,1,5,15,17,10,2,0,150,caught,-,TDNB,-,-,-,-
+33141,Ambati Rayudu,20 Oct 2012,v CSK,Johannesburg,2,5,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Oct 2012,v Sixers,Durban,2,6,6,11,6,1,0,100,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Mar 2013,v Mumbai,Ahmedabad,1,2,21,24,14,3,1,150,lbw,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Mar 2013,v Gujarat,Ahmedabad,2,2,28,26,20,3,1,140,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Mar 2013,v Saurashtra,Ahmedabad,2,2,47,53,37,4,1,127.02,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Mar 2013,v Maharashtra,Ahmedabad,2,2,2,8,7,0,0,28.57,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Mar 2013,v Bengal,Indore,2,4,13,-,14,1,0,92.85,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Apr 2013,v RCB,Bengaluru,2,5,18,33,18,1,0,100,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2013,v CSK,Chennai,1,5,7,23,10,0,0,70,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2013,v Daredevils,Wankhede,1,6,24,7,8,2,2,300,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Apr 2013,v Warriors,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2013,v RR,Jaipur,2,6,27,47,29,2,0,93.1,lbw,1,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2013,v Daredevils,Delhi,1,6,2*,4,2,0,0,100,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Apr 2013,v KKR,Eden Gardens,2,6,13*,14,8,1,0,162.5,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,27 Apr 2013,v RCB,Wankhede,1,6,0,2,0,0,0,-,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,29 Apr 2013,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2013,v SRH,Hyderabad,1,6,34*,35,27,4,0,125.92,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 May 2013,v CSK,Wankhede,1,6,10,13,11,1,0,90.9,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 May 2013,v KKR,Wankhede,1,6,0,2,0,0,0,-,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,11 May 2013,v Warriors,Pune,2,5,26,33,23,2,1,113.04,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,13 May 2013,v SRH,Wankhede,2,5,2,5,5,0,0,40,stumped,1,DNB,-,-,-,-
+33141,Ambati Rayudu,15 May 2013,v RR,Wankhede,1,6,7,-,7,0,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,18 May 2013,v Kings XI,Dharamsala,2,3,26,35,22,3,0,118.18,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,21 May 2013,v CSK,Delhi,2,6,15,30,14,1,0,107.14,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,24 May 2013,v RR,Eden Gardens,2,6,17,13,11,1,1,154.54,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 May 2013,v CSK,Eden Gardens,1,5,37,56,36,4,0,102.77,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Sep 2013,v RR,Jaipur,1,5,3,5,3,0,0,100,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,27 Sep 2013,v Lions,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,2 Oct 2013,v Scorchers,Delhi,2,6,14*,3,4,0,2,350,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,5 Oct 2013,v Trinidad & T,Delhi,2,3,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Oct 2013,v RR,Delhi,1,3,29,37,24,4,0,120.83,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Apr 2014,v KKR,Abu Dhabi,2,3,48,59,40,4,0,120,stumped,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Apr 2014,v RCB,Dubai (DICS),1,3,35,63,37,1,0,94.59,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2014,v CSK,Dubai (DICS),1,6,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,27 Apr 2014,v Daredevils,Sharjah,1,4,14,26,21,1,0,66.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Apr 2014,v SRH,Dubai (DICS),2,4,35,57,27,5,0,129.62,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,3 May 2014,v Kings XI,Wankhede,2,3,8,9,5,2,0,160,lbw,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 May 2014,v RCB,Wankhede,1,3,9,27,9,1,0,100,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,10 May 2014,v CSK,Wankhede,1,3,59,69,43,2,4,137.2,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,12 May 2014,v SRH,Hyderabad,2,3,68,70,46,7,2,147.82,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 May 2014,v KKR,Cuttack,1,3,33,39,27,3,1,122.22,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 May 2014,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 May 2014,v Kings XI,Mohali,2,3,17,18,14,0,0,121.42,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,23 May 2014,v Daredevils,Wankhede,1,5,2,7,3,0,0,66.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 May 2014,v RR,Wankhede,2,6,30,32,10,5,1,300,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,28 May 2014,v CSK,Brabourne,1,6,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 Sep 2014,v England,Birmingham,2,7,3*,15,5,0,0,60,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Sep 2014,v Lahore Lions,Raipur,1,4,3,4,4,0,0,75,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Sep 2014,v Express,Raipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Sep 2014,v Northern Dis,Raipur,1,4,6,21,14,0,0,42.85,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,8 Apr 2015,v KKR,Eden Gardens,1,4,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Apr 2015,v Kings XI,Wankhede,2,4,13,43,19,2,0,68.42,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2015,v CSK,Wankhede,1,7,29,26,16,1,3,181.25,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Apr 2015,v RCB,Bengaluru,1,6,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Apr 2015,v Daredevils,Delhi,2,6,30,25,22,3,1,136.36,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2015,v SRH,Wankhede,1,6,7,15,7,1,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2015,v RR,Wankhede,1,5,53*,50,27,4,3,196.29,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,3 May 2015,v Kings XI,Mohali,1,5,4*,2,1,1,0,400,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 May 2015,v Daredevils,Wankhede,2,6,49*,72,40,4,1,122.5,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,8 May 2015,v CSK,Chennai,2,5,34*,33,19,1,3,178.94,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 May 2015,v RCB,Wankhede,2,6,14,9,4,0,2,350,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 May 2015,v KKR,Wankhede,1,4,2,5,3,0,0,66.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 May 2015,v CSK,Wankhede,1,6,10,17,8,1,0,125,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 May 2015,v CSK,Eden Gardens,1,5,36*,44,24,0,3,150,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,2 Oct 2015,v South Africa,Dharamsala,1,6,0,1,1,0,0,0,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 Oct 2015,v South Africa,Cuttack,1,5,0,4,2,0,0,0,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2016,v Supergiants,Wankhede,1,5,22,50,27,2,0,81.48,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Apr 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Apr 2016,v Guj Lions,Wankhede,1,6,20,30,19,0,1,105.26,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,18 Apr 2016,v SRH,Hyderabad,1,3,54,77,49,3,2,110.2,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Apr 2016,v RCB,Wankhede,2,3,31,48,23,5,0,134.78,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Apr 2016,v Daredevils,Delhi,2,3,25,30,23,4,0,108.69,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2016,v Kings XI,Mohali,1,3,65,72,37,4,4,175.67,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,28 Apr 2016,v KKR,Wankhede,2,3,32,25,20,5,1,160,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2016,v Supergiants,Pune,2,3,22,30,19,1,1,115.78,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,8 May 2016,v SRH,Visakhapatnam,2,3,6,13,6,1,0,100,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,11 May 2016,v RCB,Bengaluru,2,3,44,72,47,2,2,93.61,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,13 May 2016,v Kings XI,Visakhapatnam,1,3,0,3,3,0,0,0,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,15 May 2016,v Daredevils,Visakhapatnam,1,6,13*,9,5,1,1,260,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,18 Jun 2016,v Zimbabwe,Harare,2,3,19,-,16,4,0,118.75,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Jun 2016,v Zimbabwe,Harare,1,3,20,47,26,1,0,76.92,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Jan 2017,v Chhattisgarh,Jaipur,1,4,13,28,20,1,0,65,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,31 Jan 2017,v Railways,Jaipur,1,3,41,37,27,3,3,151.85,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Feb 2017,v Rajasthan,Jaipur,2,3,30,31,27,0,2,111.11,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,5 Feb 2017,v UP,Jaipur,2,4,37,28,24,5,1,154.16,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Feb 2017,v M. Pradesh,Jaipur,2,5,30,33,25,1,1,120,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Feb 2017,v West Zone,Wankhede,2,3,24,27,19,3,0,126.31,stumped,1,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Feb 2017,v East Zone,Wankhede,1,3,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Feb 2017,v North Zone,Wankhede,1,3,1,8,9,0,0,11.11,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,18 Feb 2017,v South Zone,Wankhede,2,4,11,12,8,1,0,137.5,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2017,v Supergiant,Pune,1,5,10,20,12,0,0,83.33,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 May 2017,v KKR,Eden Gardens,1,4,63,50,37,6,3,170.27,stumped,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 May 2017,v Supergiant,Wankhede,2,4,0,1,3,0,0,0,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 May 2017,v KKR,Bengaluru,2,3,6,18,11,0,0,54.54,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,21 May 2017,v Supergiant,Hyderabad,1,3,12,25,15,1,0,80,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,8 Jan 2018,v Kerala,Vizianagaram,1,4,52*,48,31,3,2,167.74,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Jan 2018,v Goa,Visakhapatnam,1,4,44,41,30,2,2,146.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Jan 2018,v Karnataka,Visakhapatnam,2,4,8,13,8,0,0,100,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Jan 2018,v Andhra,Visakhapatnam,1,6,24,33,25,2,0,96,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Jan 2018,v Tamil Nadu,Visakhapatnam,2,4,53,56,34,1,4,155.88,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,7 Apr 2018,v MI,Wankhede,2,2,22,-,19,4,0,115.78,lbw,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Apr 2018,v KKR,Chennai,2,2,39,-,26,3,2,150,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Apr 2018,v Kings XI,Mohali,2,3,49,-,35,5,1,140,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Apr 2018,v RR,Pune,1,2,12,-,8,2,0,150,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Apr 2018,v SRH,Hyderabad,1,4,79,-,37,9,4,213.51,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2018,v RCB,Bengaluru,2,2,82,-,53,3,8,154.71,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,28 Apr 2018,v MI,Pune,1,2,46,-,35,2,4,131.42,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Apr 2018,v Daredevils,Pune,1,4,41,-,24,5,1,170.83,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,3 May 2018,v KKR,Eden Gardens,1,4,21,-,17,3,0,123.52,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 May 2018,v RCB,Pune,2,2,32,-,25,3,2,128,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,11 May 2018,v RR,Jaipur,1,2,12,-,9,2,0,133.33,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 May 2018,v SRH,Pune,2,2,100*,-,62,7,7,161.29,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,18 May 2018,v Daredevils,Delhi,2,2,50,-,29,4,4,172.41,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,20 May 2018,v Kings XI,Pune,2,1,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 May 2018,v SRH,Wankhede,2,4,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,27 May 2018,v SRH,Wankhede,2,4,16*,-,19,1,1,84.21,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Feb 2019,v Puducherry,Delhi,2,4,6,4,6,1,0,100,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Feb 2019,v UP,Delhi,1,5,29,46,31,1,1,93.54,lbw,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Feb 2019,v Baroda,Delhi,1,5,17,27,16,2,0,106.25,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Feb 2019,v Maharashtra,Delhi,1,3,15,22,22,0,0,68.18,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Mar 2019,v RCB,Chennai,2,2,28,-,42,2,1,66.66,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Mar 2019,v DC,Delhi,2,2,5,12,5,1,0,100,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,31 Mar 2019,v RR,Chennai,1,1,1,-,8,0,0,12.5,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,3 Apr 2019,v MI,Wankhede,2,2,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 Apr 2019,v Kings XI,Chennai,1,5,21*,37,15,1,1,140,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2019,v KKR,Chennai,2,4,21,49,31,2,0,67.74,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Apr 2019,v RR,Jaipur,2,4,57,85,47,2,3,121.27,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Apr 2019,v KKR,Eden Gardens,2,4,5,21,11,0,0,45.45,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2019,v SRH,Hyderabad,1,4,25*,57,21,2,0,119.04,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2019,v RCB,Bengaluru,2,4,29,66,29,2,1,100,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Apr 2019,v SRH,Chennai,2,4,21,49,25,1,0,84,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Apr 2019,v MI,Chennai,2,4,0,7,3,0,0,0,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2019,v DC,Chennai,1,6,5*,10,2,1,0,250,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,5 May 2019,v Kings XI,Mohali,1,5,1,7,2,0,0,50,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 May 2019,v MI,Chennai,1,5,42*,76,37,3,1,113.51,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,10 May 2019,v DC,Visakhapatnam,2,4,20*,28,20,3,0,100,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 May 2019,v MI,Hyderabad,2,4,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,8 Nov 2019,v Punjab,Chandigarh,1,2,34,-,25,4,1,136,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Nov 2019,v Railways,Chandigarh,1,2,77,-,51,5,4,150.98,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Nov 2019,v Himachal,Chandigarh,2,2,15,-,14,3,0,107.14,lbw,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Nov 2019,v Chandigarh,Chandigarh,2,2,10,-,8,1,0,125,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Nov 2019,v Maharashtra,Chandigarh,1,2,16,-,12,1,1,133.33,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Nov 2019,v Arunachal,Chandigarh,2,6,4*,-,10,0,0,40,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Nov 2019,v Chhattisgarh,Chandigarh,1,4,18,-,20,0,1,90,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Sep 2020,v MI,Abu Dhabi,2,4,71,-,48,6,3,147.91,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,2 Oct 2020,v SRH,Dubai (DICS),2,3,8,-,9,1,0,88.88,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,7 Oct 2020,v KKR,Abu Dhabi,2,3,30,-,27,3,0,111.11,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Oct 2020,v RCB,Dubai (DICS),2,3,42,-,40,4,0,105,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Oct 2020,v SRH,Dubai (DICS),1,4,41,-,34,3,2,120.58,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Oct 2020,v DC,Sharjah,1,4,45*,-,25,1,4,180,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Oct 2020,v RR,Abu Dhabi,1,4,13,-,19,2,0,68.42,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Oct 2020,v MI,Sharjah,1,3,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Oct 2020,v RCB,Dubai (DICS),2,3,39,-,27,3,2,144.44,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,29 Oct 2020,v KKR,Dubai (DICS),2,3,38,-,20,5,1,190,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,1 Nov 2020,v Kings XI,Abu Dhabi,2,3,30*,-,30,2,0,100,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Jan 2021,v Haryana,Mumbai,1,5,13,-,11,0,1,118.18,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,13 Jan 2021,v Delhi,Wankhede,1,4,1,-,6,0,0,16.66,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Jan 2021,v Puducherry,Wankhede,1,4,62*,-,26,5,5,238.46,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Jan 2021,v Kerala,Mumbai,2,5,38*,-,27,4,1,140.74,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Jan 2021,v Mumbai,Wankhede,1,5,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Apr 2021,v DC,Wankhede,1,5,23,25,16,1,2,143.75,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Apr 2021,v Punjab Kings,Wankhede,2,5,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Apr 2021,v RR,Wankhede,1,5,27,20,17,0,3,158.82,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2021,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2021,v RCB,Wankhede,1,4,14,24,7,1,1,200,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,28 Apr 2021,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2021,v MI,Delhi,1,5,72*,45,27,4,7,266.66,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Sep 2021,v MI,Dubai (DICS),1,4,0*,2,3,0,0,0,retired notout,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Sep 2021,v RCB,Sharjah,2,4,32,31,22,3,1,145.45,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Sep 2021,v KKR,Abu Dhabi,2,4,10,14,9,1,0,111.11,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Sep 2021,v SRH,Sharjah,2,5,17*,25,13,1,1,130.76,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,2 Oct 2021,v RR,Abu Dhabi,1,5,2,18,4,0,0,50,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Oct 2021,v DC,Dubai (DICS),1,5,55*,54,43,5,2,127.9,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,5,4,9,5,0,0,80,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,10 Oct 2021,v DC,Dubai (DICS),2,5,1,5,3,0,0,33.33,run out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,15 Oct 2021,v KKR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Mar 2022,v KKR,Wankhede,1,4,15,22,17,1,1,88.23,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,31 Mar 2022,v LSG,Brabourne,1,5,27,32,20,2,2,135,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,3 Apr 2022,v Punjab Kings,Brabourne,2,4,13,27,21,2,0,61.9,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,9 Apr 2022,v SRH,DY Patil,1,4,27,42,27,4,0,100,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Apr 2022,v RCB,DY Patil,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2022,v GT,Pune,1,4,46,43,31,4,2,148.38,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2022,v MI,DY Patil,2,4,40,63,35,2,3,114.28,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,25 Apr 2022,v Punjab Kings,Wankhede,2,5,78,59,39,7,6,200,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,1 May 2022,v SRH,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,4 May 2022,v RCB,Pune,2,4,10,11,8,0,1,125,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,8 May 2022,v DC,DY Patil,1,4,5,14,6,1,0,83.33,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,12 May 2022,v MI,Wankhede,1,5,10,22,14,2,0,71.42,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 May 2022,v RR,Brabourne,1,5,3,9,6,0,0,50,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,11 Oct 2022,v Nagaland,Indore,2,5,10*,-,8,0,1,125,not out,1,DNB,-,-,-,-
+33141,Ambati Rayudu,12 Oct 2022,v Saurashtra,Indore,1,5,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,14 Oct 2022,v Gujarat,Indore,1,4,16,-,12,2,0,133.33,run out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,16 Oct 2022,v Bihar,Indore,1,6,52*,-,37,5,1,140.54,not out,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Oct 2022,v Himachal,Indore,1,6,10,-,16,1,0,62.5,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,22 Oct 2022,v Andhra,Indore,1,5,19,-,13,1,1,146.15,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,31 Mar 2023,v GT,Ahmedabad,1,5,12,-,12,0,1,100,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,3 Apr 2023,v LSG,Chennai,1,6,27*,26,14,2,2,192.85,not out,2,sub,-,-,-,-
+33141,Ambati Rayudu,8 Apr 2023,v MI,Wankhede,2,5,20*,16,16,3,0,125,not out,1,sub,-,-,-,-
+33141,Ambati Rayudu,12 Apr 2023,v RR,Chennai,2,6,1,4,2,0,0,50,caught,1,sub,-,-,-,-
+33141,Ambati Rayudu,17 Apr 2023,v RCB,Bengaluru,1,5,14,11,6,1,1,233.33,caught,2,sub,-,-,-,-
+33141,Ambati Rayudu,21 Apr 2023,v SRH,Chennai,2,4,9,11,9,1,0,100,bowled,1,sub,-,-,-,-
+33141,Ambati Rayudu,23 Apr 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,sub,-,-,-,-
+33141,Ambati Rayudu,27 Apr 2023,v RR,Jaipur,2,5,0,4,2,0,0,0,caught,1,sub,-,-,-,-
+33141,Ambati Rayudu,30 Apr 2023,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,sub,-,-,-,-
+33141,Ambati Rayudu,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,6 May 2023,v MI,Chennai,2,4,12,16,11,0,1,109.09,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,10 May 2023,v DC,Chennai,1,6,23,28,17,1,1,135.29,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,14 May 2023,v KKR,Chennai,1,4,4,14,7,0,0,57.14,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33141,Ambati Rayudu,23 May 2023,v GT,Chennai,1,5,17,15,9,1,1,188.88,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,28 May 2023,v GT,Ahmedabad,2,5,19,8,8,1,2,237.5,caught,1,DNB,-,-,-,-
+33141,Ambati Rayudu,19 Aug 2023,v Trinbago,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,23 Aug 2023,v Tallawahs,Basseterre,1,5,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,24 Aug 2023,v Amazon,Basseterre,2,4,32,44,24,2,2,133.33,bowled,1,DNB,-,-,-,-
+33141,Ambati Rayudu,26 Aug 2023,v Royals,Basseterre,1,6,15,-,13,1,1,115.38,caught,2,DNB,-,-,-,-
+33141,Ambati Rayudu,20 Jan 2024,v DC,Dubai (DICS),1,5,1,3,2,0,0,50,caught,2,sub,-,-,-,-
+33141,Ambati Rayudu,21 Jan 2024,v Gulf Giants,Abu Dhabi,1,5,25,30,16,3,1,156.25,bowled,2,sub,-,-,-,-
+33141,Ambati Rayudu,26 Jan 2024,v Warriors,Sharjah,1,5,7,10,9,1,0,77.77,bowled,2,DNB,-,-,-,-
+33141,Ambati Rayudu,28 Jan 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,30 Jan 2024,v Vipers,Dubai (DICS),1,5,23,30,30,1,0,76.66,caught,2,sub,-,-,-,-
+33141,Ambati Rayudu,2 Feb 2024,v Warriors,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33141,Ambati Rayudu,4 Feb 2024,v Vipers,Abu Dhabi,1,4,44,56,38,5,1,115.78,lbw,2,sub,-,-,-,-
+33141,Ambati Rayudu,8 Feb 2024,v Gulf Giants,Dubai (DICS),2,4,1,6,6,0,0,16.66,caught,1,DNB,-,-,-,-

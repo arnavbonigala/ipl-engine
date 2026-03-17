@@ -1,0 +1,260 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+31107,Amit Mishra,3 Apr 2007,v Punjab,Delhi,2,9,9,14,6,1,0,150,caught,1,4.0,0,19,1,4.75
+31107,Amit Mishra,4 Apr 2007,v Services,Delhi,1,2,49,49,34,6,1,144.11,run out,2,2.0,0,7,0,3.5
+31107,Amit Mishra,6 Apr 2007,v J & K,Delhi,2,2,26,27,21,4,0,123.8,caught,1,2.0,0,5,1,2.5
+31107,Amit Mishra,7 Apr 2007,v Delhi,Delhi,2,1,0,1,2,0,0,0,caught,1,4.0,0,34,3,8.5
+31107,Amit Mishra,8 Apr 2007,v Himachal,Delhi,2,1,28,39,27,3,0,103.7,bowled,1,3.2,0,12,2,3.6
+31107,Amit Mishra,15 Apr 2007,v M. Pradesh,Ahmedabad,1,1,13,17,13,2,0,100,caught,2,3.3,0,25,2,7.14
+31107,Amit Mishra,16 Apr 2007,v Bengal,Ahmedabad,2,1,1,5,3,0,0,33.33,bowled,1,4.0,0,34,2,8.5
+31107,Amit Mishra,17 Apr 2007,v Mumbai,Ahmedabad,1,1,31,22,19,5,0,163.15,caught,2,4.0,0,33,2,8.25
+31107,Amit Mishra,18 Apr 2007,v Tamil Nadu,Ahmedabad,2,1,0,1,1,0,0,0,caught,1,4.0,0,30,2,7.5
+31107,Amit Mishra,11 May 2008,v RR,Jaipur,1,7,4,-,5,0,0,80,bowled,2,3.0,0,27,2,9
+31107,Amit Mishra,13 May 2008,v KKR,Eden Gardens,2,7,31,-,32,3,0,96.87,caught,1,3.0,0,13,0,4.33
+31107,Amit Mishra,15 May 2008,v Chargers,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,5,4.25
+31107,Amit Mishra,17 May 2008,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+31107,Amit Mishra,24 May 2008,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+31107,Amit Mishra,30 May 2008,v RR,Wankhede,2,8,2,-,5,0,0,40,bowled,1,4.0,0,37,2,9.25
+31107,Amit Mishra,26 Apr 2009,v RCB,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+31107,Amit Mishra,28 Apr 2009,v RR,Centurion,1,8,0,-,4,0,0,0,bowled,2,4.0,0,34,3,8.5
+31107,Amit Mishra,30 Apr 2009,v Chargers,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+31107,Amit Mishra,2 May 2009,v CSK,Johannesburg,2,9,11*,-,8,1,1,137.5,not out,1,3.0,0,24,0,8
+31107,Amit Mishra,5 May 2009,v KKR,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,0,4.5
+31107,Amit Mishra,8 May 2009,v MI,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+31107,Amit Mishra,10 May 2009,v KKR,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,3,3.5
+31107,Amit Mishra,13 May 2009,v Chargers,Durban,1,8,2,-,3,0,0,66.66,run out,2,3.0,0,39,0,13
+31107,Amit Mishra,17 May 2009,v RR,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+31107,Amit Mishra,21 May 2009,v MI,Centurion,2,8,13*,-,4,1,1,325,not out,1,4.0,0,42,0,10.5
+31107,Amit Mishra,22 May 2009,v Chargers,Centurion,1,8,0,-,1,0,0,0,run out,2,4.0,0,19,3,4.75
+31107,Amit Mishra,9 Oct 2009,v Victoria,Delhi,1,8,7*,-,14,0,0,50,not out,2,4.0,0,30,1,7.5
+31107,Amit Mishra,11 Oct 2009,v Wayamba,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,1,4.5
+31107,Amit Mishra,17 Oct 2009,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,59,0,14.75
+31107,Amit Mishra,19 Oct 2009,v Cape Cobras,Delhi,1,8,8*,-,9,0,0,88.88,not out,2,4.0,0,19,2,4.75
+31107,Amit Mishra,13 Mar 2010,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+31107,Amit Mishra,15 Mar 2010,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+31107,Amit Mishra,17 Mar 2010,v MI,Delhi,2,7,3,-,5,0,0,60,bowled,1,4.0,0,44,1,11
+31107,Amit Mishra,19 Mar 2010,v CSK,Delhi,1,8,6*,-,3,1,0,200,not out,2,3.0,0,25,1,8.33
+31107,Amit Mishra,21 Mar 2010,v Chargers,Cuttack,2,8,0,-,1,0,0,0,caught,1,3.0,0,12,1,4
+31107,Amit Mishra,25 Mar 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+31107,Amit Mishra,29 Mar 2010,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+31107,Amit Mishra,31 Mar 2010,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+31107,Amit Mishra,4 Apr 2010,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+31107,Amit Mishra,7 Apr 2010,v KKR,Eden Gardens,2,10,4*,-,6,0,0,66.66,not out,1,4.0,0,41,0,10.25
+31107,Amit Mishra,11 Apr 2010,v Kings XI,Delhi,1,10,10*,-,10,0,0,100,not out,2,4.0,0,15,1,3.75
+31107,Amit Mishra,13 Apr 2010,v MI,Brabourne,2,8,12,-,17,0,0,70.58,bowled,1,3.0,0,30,0,10
+31107,Amit Mishra,15 Apr 2010,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+31107,Amit Mishra,18 Apr 2010,v Chargers,Delhi,2,8,4,-,9,0,0,44.44,bowled,1,4.0,0,28,1,7
+31107,Amit Mishra,13 Jun 2010,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+31107,Amit Mishra,20 Oct 2010,v Punjab,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+31107,Amit Mishra,21 Oct 2010,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+31107,Amit Mishra,22 Oct 2010,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,5,4.75
+31107,Amit Mishra,24 Oct 2010,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+31107,Amit Mishra,25 Oct 2010,v Himachal,Delhi,1,7,12,16,13,1,0,92.3,caught,2,4.0,0,26,0,6.5
+31107,Amit Mishra,12 Mar 2011,v Mumbai,Hyderabad,2,8,13*,10,6,3,0,216.66,not out,1,3.0,0,17,1,5.66
+31107,Amit Mishra,14 Mar 2011,v Kerala,Hyderabad,1,8,6*,7,4,1,0,150,not out,2,4.0,0,14,2,3.5
+31107,Amit Mishra,15 Mar 2011,v M. Pradesh,Hyderabad,1,8,29,32,26,2,0,111.53,bowled,2,4.0,0,31,0,7.75
+31107,Amit Mishra,9 Apr 2011,v RR,Hyderabad,1,9,2*,-,2,0,0,100,not out,2,4.0,0,28,0,7
+31107,Amit Mishra,11 Apr 2011,v KKR,Eden Gardens,2,9,12*,-,5,1,1,240,not out,1,4.0,0,19,2,4.75
+31107,Amit Mishra,14 Apr 2011,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+31107,Amit Mishra,16 Apr 2011,v Kings XI,Hyderabad,1,9,0,-,1,0,0,0,lbw,2,4.0,0,28,2,7
+31107,Amit Mishra,19 Apr 2011,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+31107,Amit Mishra,24 Apr 2011,v MI,Hyderabad,2,8,25*,-,19,4,0,131.57,not out,1,4.0,0,14,2,3.5
+31107,Amit Mishra,27 Apr 2011,v Kochi,Kochi,1,8,0,-,1,0,0,0,run out,2,4.0,0,12,1,3
+31107,Amit Mishra,1 May 2011,v CSK,Chennai,2,8,2,-,5,0,0,40,caught,1,3.0,0,34,0,11.33
+31107,Amit Mishra,3 May 2011,v KKR,Hyderabad,2,8,9*,-,9,0,0,100,not out,1,3.0,0,22,1,7.33
+31107,Amit Mishra,5 May 2011,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25
+31107,Amit Mishra,10 May 2011,v Warriors,Hyderabad,1,8,0,-,1,0,0,0,caught,2,3.2,0,26,1,7.8
+31107,Amit Mishra,14 May 2011,v MI,Wankhede,1,8,18*,-,6,4,0,300,not out,2,4.0,0,18,1,4.5
+31107,Amit Mishra,16 May 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,2,6.5
+31107,Amit Mishra,21 May 2011,v Kings XI,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,1,9,4,2.25
+31107,Amit Mishra,26 Aug 2011,v Kent,Canterbury,1,8,5*,3,2,1,0,250,not out,2,4.0,0,37,0,9.25
+31107,Amit Mishra,29 Aug 2011,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+31107,Amit Mishra,20 Oct 2011,v Punjab,Rohtak,2,8,5,9,8,0,0,62.5,caught,1,3.0,0,21,1,7
+31107,Amit Mishra,21 Oct 2011,v Services,Rohtak,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+31107,Amit Mishra,22 Oct 2011,v J & K,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,0,3
+31107,Amit Mishra,24 Oct 2011,v Delhi,Rohtak,1,9,6*,8,5,0,0,120,not out,2,4.0,2,12,3,3
+31107,Amit Mishra,25 Oct 2011,v Himachal,Rohtak,2,8,7*,11,8,0,0,87.5,not out,1,2.0,0,14,0,7
+31107,Amit Mishra,9 Apr 2012,v MI,Visakhapatnam,1,8,0,2,2,0,0,0,caught,2,4.0,0,31,1,7.75
+31107,Amit Mishra,17 Apr 2012,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+31107,Amit Mishra,19 Apr 2012,v Daredevils,Delhi,1,9,6,9,6,0,0,100,run out,2,2.0,0,26,0,13
+31107,Amit Mishra,22 Apr 2012,v KKR,Cuttack,1,9,1*,2,1,0,0,100,not out,2,4.0,0,27,1,6.75
+31107,Amit Mishra,26 Apr 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+31107,Amit Mishra,29 Apr 2012,v MI,Wankhede,1,9,1,7,6,0,0,16.66,caught,2,4.0,0,29,0,7.25
+31107,Amit Mishra,1 May 2012,v Warriors,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+31107,Amit Mishra,4 May 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+31107,Amit Mishra,6 May 2012,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+31107,Amit Mishra,8 May 2012,v Kings XI,Hyderabad,2,10,8*,6,5,1,0,160,not out,1,2.0,0,20,0,10
+31107,Amit Mishra,10 May 2012,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+31107,Amit Mishra,13 May 2012,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+31107,Amit Mishra,18 May 2012,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+31107,Amit Mishra,20 May 2012,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+31107,Amit Mishra,17 Mar 2013,v Punjab,Rohtak,1,2,5,32,16,0,0,31.25,caught,2,4.0,0,22,2,5.5
+31107,Amit Mishra,18 Mar 2013,v Himachal,Rohtak,1,2,5,16,8,1,0,62.5,bowled,2,4.0,0,12,2,3
+31107,Amit Mishra,19 Mar 2013,v Services,Rohtak,1,2,1,22,16,0,0,6.25,run out,2,2.0,0,16,1,8
+31107,Amit Mishra,21 Mar 2013,v Delhi,Rohtak,2,9,4*,11,5,0,0,80,not out,1,4.0,0,12,2,3
+31107,Amit Mishra,22 Mar 2013,v J & K,Rohtak,2,9,12*,-,11,1,0,109.09,not out,1,4.0,0,46,3,11.5
+31107,Amit Mishra,5 Apr 2013,v Warriors,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+31107,Amit Mishra,7 Apr 2013,v RCB,Hyderabad,2,7,0,4,0,0,0,-,run out,1,4.0,0,15,1,3.75
+31107,Amit Mishra,9 Apr 2013,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+31107,Amit Mishra,12 Apr 2013,v Daredevils,Delhi,2,8,16*,22,14,2,0,114.28,not out,1,4.0,0,15,1,3.75
+31107,Amit Mishra,14 Apr 2013,v KKR,Eden Gardens,2,9,1*,3,1,0,0,100,not out,1,3.0,0,28,0,9.33
+31107,Amit Mishra,17 Apr 2013,v Warriors,Pune,1,8,30,42,24,3,0,125,run out,2,4.0,0,19,4,4.75
+31107,Amit Mishra,19 Apr 2013,v Kings XI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+31107,Amit Mishra,25 Apr 2013,v CSK,Chennai,1,5,15,22,21,2,0,71.42,caught,2,4.0,0,26,3,6.5
+31107,Amit Mishra,27 Apr 2013,v RR,Jaipur,1,8,21,40,28,2,0,75,caught,2,2.0,0,20,0,10
+31107,Amit Mishra,1 May 2013,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+31107,Amit Mishra,4 May 2013,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+31107,Amit Mishra,8 May 2013,v CSK,Hyderabad,2,8,6,10,8,0,0,75,run out,1,4.0,0,41,0,10.25
+31107,Amit Mishra,11 May 2013,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+31107,Amit Mishra,13 May 2013,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+31107,Amit Mishra,17 May 2013,v RR,Hyderabad,1,10,0,-,0,0,0,-,run out,2,4.0,0,8,2,2
+31107,Amit Mishra,19 May 2013,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+31107,Amit Mishra,22 May 2013,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,16,1,4
+31107,Amit Mishra,17 Sep 2013,v Kandurata Ma,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+31107,Amit Mishra,18 Sep 2013,v Wolves,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,1,13,1,3.25
+31107,Amit Mishra,20 Sep 2013,v Otago,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+31107,Amit Mishra,24 Sep 2013,v Trinidad & T,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+31107,Amit Mishra,26 Sep 2013,v CSK,Ranchi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+31107,Amit Mishra,28 Sep 2013,v Titans,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+31107,Amit Mishra,21 Mar 2014,v Pakistan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,2,5.5
+31107,Amit Mishra,23 Mar 2014,v West Indies,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+31107,Amit Mishra,28 Mar 2014,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+31107,Amit Mishra,30 Mar 2014,v Australia,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,2,4.33
+31107,Amit Mishra,4 Apr 2014,v South Africa,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+31107,Amit Mishra,6 Apr 2014,v Sri Lanka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+31107,Amit Mishra,18 Apr 2014,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+31107,Amit Mishra,22 Apr 2014,v Kings XI,Sharjah,2,10,4*,8,5,0,0,80,not out,1,4.0,0,56,2,14
+31107,Amit Mishra,25 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+31107,Amit Mishra,27 Apr 2014,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.3,0,27,0,7.71
+31107,Amit Mishra,30 Apr 2014,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,0,13.5
+31107,Amit Mishra,8 May 2014,v RR,Ahmedabad,1,10,0,2,2,0,0,0,run out,2,4.0,0,13,0,3.25
+31107,Amit Mishra,10 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+31107,Amit Mishra,12 May 2014,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+31107,Amit Mishra,14 May 2014,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+31107,Amit Mishra,18 May 2014,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+31107,Amit Mishra,24 Mar 2015,v Punjab,Delhi,1,8,0,1,3,0,0,0,run out,2,3.0,0,25,1,8.33
+31107,Amit Mishra,25 Mar 2015,v Himachal,Delhi,2,9,3*,9,6,0,0,50,not out,1,4.0,0,22,2,5.5
+31107,Amit Mishra,26 Mar 2015,v Services,Delhi,2,9,2,9,5,0,0,40,caught,1,3.0,0,22,0,7.33
+31107,Amit Mishra,27 Mar 2015,v Delhi,Delhi,1,8,18*,23,19,0,1,94.73,not out,2,4.0,0,14,0,3.5
+31107,Amit Mishra,28 Mar 2015,v J & K,Delhi,1,8,5*,9,6,0,0,83.33,not out,2,4.0,0,33,1,8.25
+31107,Amit Mishra,9 Apr 2015,v CSK,Chennai,2,9,4,6,4,0,0,100,run out,1,4.0,0,21,1,5.25
+31107,Amit Mishra,12 Apr 2015,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+31107,Amit Mishra,15 Apr 2015,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+31107,Amit Mishra,18 Apr 2015,v SRH,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,0,7
+31107,Amit Mishra,20 Apr 2015,v KKR,Delhi,1,9,1*,3,1,0,0,100,not out,2,3.1,0,22,0,6.94
+31107,Amit Mishra,23 Apr 2015,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+31107,Amit Mishra,26 Apr 2015,v RCB,Delhi,1,8,2,7,4,0,0,50,bowled,2,2.0,0,25,0,12.5
+31107,Amit Mishra,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+31107,Amit Mishra,3 May 2015,v RR,Brabourne,2,9,1*,6,3,0,0,33.33,not out,1,4.0,0,41,0,10.25
+31107,Amit Mishra,5 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+31107,Amit Mishra,7 May 2015,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+31107,Amit Mishra,9 May 2015,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+31107,Amit Mishra,6 Jan 2016,v Hyderabad,Nagpur,2,8,28*,27,23,4,0,121.73,not out,1,4.0,0,27,2,6.75
+31107,Amit Mishra,7 Jan 2016,v Himachal,Nagpur,1,8,9,11,9,1,0,100,caught,2,4.0,0,26,2,6.5
+31107,Amit Mishra,9 Jan 2016,v Bengal,Nagpur,1,4,6,6,5,1,0,120,bowled,2,4.0,0,30,4,7.5
+31107,Amit Mishra,10 Jan 2016,v Gujarat,Nagpur,1,8,5,15,9,0,0,55.55,caught,2,DNB,-,-,-,-
+31107,Amit Mishra,10 Apr 2016,v KKR,Eden Gardens,1,10,3,8,9,0,0,33.33,caught,2,2.0,0,11,1,5.5
+31107,Amit Mishra,15 Apr 2016,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,4,3.66
+31107,Amit Mishra,17 Apr 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+31107,Amit Mishra,23 Apr 2016,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+31107,Amit Mishra,27 Apr 2016,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+31107,Amit Mishra,30 Apr 2016,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+31107,Amit Mishra,3 May 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+31107,Amit Mishra,5 May 2016,v Supergiants,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+31107,Amit Mishra,7 May 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+31107,Amit Mishra,12 May 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+31107,Amit Mishra,15 May 2016,v MI,Visakhapatnam,2,8,1,12,5,0,0,20,bowled,1,4.0,0,42,1,10.5
+31107,Amit Mishra,17 May 2016,v Supergiants,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+31107,Amit Mishra,20 May 2016,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+31107,Amit Mishra,22 May 2016,v RCB,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+31107,Amit Mishra,28 Aug 2016,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+31107,Amit Mishra,29 Jan 2017,v England,Nagpur,1,8,0,2,0,0,0,-,run out,2,4.0,0,25,1,6.25
+31107,Amit Mishra,1 Feb 2017,v England,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+31107,Amit Mishra,8 Apr 2017,v RCB,Bengaluru,2,9,8*,24,14,0,0,57.14,not out,1,2.0,0,32,0,16
+31107,Amit Mishra,11 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,11,3,3.66
+31107,Amit Mishra,15 Apr 2017,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+31107,Amit Mishra,17 Apr 2017,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.5,0,26,1,9.17
+31107,Amit Mishra,19 Apr 2017,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+31107,Amit Mishra,22 Apr 2017,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,2,4.5
+31107,Amit Mishra,28 Apr 2017,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+31107,Amit Mishra,30 Apr 2017,v Kings XI,Mohali,1,9,4*,17,9,0,0,44.44,not out,2,1.0,0,9,0,9
+31107,Amit Mishra,2 May 2017,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+31107,Amit Mishra,4 May 2017,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+31107,Amit Mishra,6 May 2017,v MI,Delhi,2,9,9*,22,14,0,0,64.28,not out,1,4.0,0,37,1,9.25
+31107,Amit Mishra,10 May 2017,v Guj Lions,Kanpur,2,10,8*,2,2,2,0,400,not out,1,2.0,0,27,1,13.5
+31107,Amit Mishra,12 May 2017,v Supergiant,Delhi,1,8,13*,19,9,0,1,144.44,not out,2,3.0,0,26,0,8.66
+31107,Amit Mishra,14 May 2017,v RCB,Delhi,2,8,7,11,4,0,1,175,bowled,1,2.0,0,26,0,13
+31107,Amit Mishra,8 Jan 2018,v Himachal,Delhi,2,10,3*,4,2,0,0,150,not out,1,3.0,0,22,0,7.33
+31107,Amit Mishra,10 Jan 2018,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+31107,Amit Mishra,12 Jan 2018,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+31107,Amit Mishra,13 Jan 2018,v J & K,Delhi,1,8,19,15,10,4,0,190,bowled,2,4.0,0,29,2,7.25
+31107,Amit Mishra,15 Jan 2018,v Services,Delhi,2,7,0,2,1,0,0,0,caught,1,2.0,0,26,0,13
+31107,Amit Mishra,8 Apr 2018,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+31107,Amit Mishra,23 Apr 2018,v Kings XI,Delhi,2,9,1*,-,2,0,0,50,not out,1,4.0,0,33,0,8.25
+31107,Amit Mishra,27 Apr 2018,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,2,5.75
+31107,Amit Mishra,30 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+31107,Amit Mishra,2 May 2018,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+31107,Amit Mishra,5 May 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+31107,Amit Mishra,10 May 2018,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+31107,Amit Mishra,12 May 2018,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+31107,Amit Mishra,18 May 2018,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+31107,Amit Mishra,20 May 2018,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+31107,Amit Mishra,21 Feb 2019,v Arunachal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+31107,Amit Mishra,22 Feb 2019,v Odisha,Cuttack,1,9,2,-,5,0,0,40,caught,2,4.0,0,40,0,10
+31107,Amit Mishra,24 Feb 2019,v Bengal,Cuttack,1,10,1*,-,1,0,0,100,not out,2,3.0,0,23,2,7.66
+31107,Amit Mishra,25 Feb 2019,v Chhattisgarh,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+31107,Amit Mishra,27 Feb 2019,v Mizoram,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+31107,Amit Mishra,28 Feb 2019,v Assam,Cuttack,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+31107,Amit Mishra,2 Mar 2019,v Karnataka,Cuttack,2,9,0,-,1,0,0,0,bowled,1,4.0,0,26,3,6.5
+31107,Amit Mishra,26 Mar 2019,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+31107,Amit Mishra,30 Mar 2019,v KKR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+31107,Amit Mishra,14 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,0,4.33
+31107,Amit Mishra,18 Apr 2019,v MI,Delhi,2,10,6*,11,8,0,0,75,not out,1,3.0,0,18,1,6
+31107,Amit Mishra,20 Apr 2019,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+31107,Amit Mishra,22 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+31107,Amit Mishra,28 Apr 2019,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+31107,Amit Mishra,1 May 2019,v CSK,Chennai,2,10,8,20,11,1,0,72.72,caught,1,3.0,0,16,0,5.33
+31107,Amit Mishra,4 May 2019,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+31107,Amit Mishra,8 May 2019,v SRH,Visakhapatnam,2,9,1,12,2,0,0,50,obstruct field,1,4.0,0,16,1,4
+31107,Amit Mishra,10 May 2019,v CSK,Visakhapatnam,1,9,6*,13,3,1,0,200,not out,2,4.0,0,21,1,5.25
+31107,Amit Mishra,9 Nov 2019,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,1,13.33
+31107,Amit Mishra,11 Nov 2019,v Assam,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+31107,Amit Mishra,12 Nov 2019,v Bengal,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+31107,Amit Mishra,14 Nov 2019,v Puducherry,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+31107,Amit Mishra,15 Nov 2019,v Mizoram,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+31107,Amit Mishra,17 Nov 2019,v M. Pradesh,Mumbai,2,8,0*,-,0,0,0,-,not out,1,2.0,0,19,0,9.5
+31107,Amit Mishra,18 Nov 2019,v Meghalaya,Mumbai,1,8,14*,-,10,2,0,140,not out,2,4.0,0,21,1,5.25
+31107,Amit Mishra,22 Nov 2019,v Rajasthan,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+31107,Amit Mishra,24 Nov 2019,v Delhi,Surat,1,8,13*,-,5,3,0,260,not out,2,2.0,0,21,0,10.5
+31107,Amit Mishra,25 Nov 2019,v Baroda,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+31107,Amit Mishra,27 Nov 2019,v Maharashtra,Surat,2,8,10*,-,8,1,0,125,not out,1,4.0,0,35,0,8.75
+31107,Amit Mishra,29 Nov 2019,v Karnataka,Surat,1,8,0,-,1,0,0,0,caught,2,3.0,0,36,0,12
+31107,Amit Mishra,25 Sep 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+31107,Amit Mishra,29 Sep 2020,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+31107,Amit Mishra,3 Oct 2020,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,1,7
+31107,Amit Mishra,10 Apr 2021,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+31107,Amit Mishra,20 Apr 2021,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+31107,Amit Mishra,25 Apr 2021,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+31107,Amit Mishra,27 Apr 2021,v RCB,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+31107,Amit Mishra,11 Oct 2022,v Services,New Chandigarh,1,10,1,-,1,0,0,100,run out,2,4.0,0,21,2,5.25
+31107,Amit Mishra,12 Oct 2022,v Meghalaya,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,3,2.5
+31107,Amit Mishra,14 Oct 2022,v Kerala,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+31107,Amit Mishra,16 Oct 2022,v Arunachal,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+31107,Amit Mishra,18 Oct 2022,v J & K,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+31107,Amit Mishra,20 Oct 2022,v Maharashtra,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+31107,Amit Mishra,22 Oct 2022,v Karnataka,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+31107,Amit Mishra,30 Oct 2022,v Punjab,Eden Gardens,2,11,3*,9,3,0,0,100,not out,1,2.0,0,30,0,15
+31107,Amit Mishra,7 Apr 2023,v SRH,Lucknow,2,-,sub,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+31107,Amit Mishra,10 Apr 2023,v RCB,Bengaluru,2,-,sub,-,-,-,-,-,-,1,2.0,0,18,1,9
+31107,Amit Mishra,19 Apr 2023,v RR,Jaipur,1,-,sub,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+31107,Amit Mishra,22 Apr 2023,v GT,Lucknow,2,-,sub,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+31107,Amit Mishra,28 Apr 2023,v Punjab Kings,Mohali,1,-,sub,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+31107,Amit Mishra,1 May 2023,v RCB,Lucknow,2,9,19,42,30,2,0,63.33,caught,1,3.0,0,21,2,7
+31107,Amit Mishra,13 May 2023,v SRH,Hyderabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,40,1,10
+31107,Amit Mishra,16 Oct 2023,v Mumbai,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+31107,Amit Mishra,17 Oct 2023,v Chhattisgarh,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,2,9
+31107,Amit Mishra,19 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+31107,Amit Mishra,21 Oct 2023,v Baroda,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+31107,Amit Mishra,23 Oct 2023,v Mizoram,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+31107,Amit Mishra,25 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,2,2.5
+31107,Amit Mishra,27 Oct 2023,v Hyderabad,Jaipur,1,11,3*,-,5,0,0,60,not out,2,1.4,0,16,0,9.6
+31107,Amit Mishra,27 Apr 2024,v RR,Lucknow,1,-,sub,-,-,-,-,-,-,2,2.0,0,20,1,10

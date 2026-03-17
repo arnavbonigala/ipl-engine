@@ -1,0 +1,154 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+974175,Fazalhaq Farooqi,14 Oct 2019,v BEAD,Kabul,2,11,0,1,2,0,0,0,run out,1,2.0,0,22,0,11
+974175,Fazalhaq Farooqi,20 Mar 2021,v Zimbabwe,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,8 Feb 2022,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+974175,Fazalhaq Farooqi,9 Feb 2022,v Khulna,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+974175,Fazalhaq Farooqi,11 Feb 2022,v Barishal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.3,0,22,0,8.8
+974175,Fazalhaq Farooqi,3 Mar 2022,v Bangladesh,Mirpur,2,11,0*,1,0,0,0,-,not out,1,4.0,0,27,2,6.75
+974175,Fazalhaq Farooqi,5 Mar 2022,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+974175,Fazalhaq Farooqi,8 May 2022,v RCB,Wankhede,2,11,2*,15,8,0,0,25,not out,1,4.0,0,47,0,11.75
+974175,Fazalhaq Farooqi,17 May 2022,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+974175,Fazalhaq Farooqi,22 May 2022,v Punjab Kings,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+974175,Fazalhaq Farooqi,11 Jun 2022,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,12 Jun 2022,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+974175,Fazalhaq Farooqi,14 Jun 2022,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+974175,Fazalhaq Farooqi,19 Jul 2022,v Pamir Zalmi,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,0,2.75
+974175,Fazalhaq Farooqi,21 Jul 2022,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,0,2.75
+974175,Fazalhaq Farooqi,23 Jul 2022,v Stars,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,3,3.25
+974175,Fazalhaq Farooqi,24 Jul 2022,v SGT,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+974175,Fazalhaq Farooqi,27 Jul 2022,v BEAD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+974175,Fazalhaq Farooqi,30 Jul 2022,v MAK,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,0,4.75
+974175,Fazalhaq Farooqi,1 Aug 2022,v Kabul Eagles,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,2,10,2,2.5
+974175,Fazalhaq Farooqi,2 Aug 2022,v SGT,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+974175,Fazalhaq Farooqi,4 Aug 2022,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+974175,Fazalhaq Farooqi,9 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+974175,Fazalhaq Farooqi,11 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,12 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,2,5.5
+974175,Fazalhaq Farooqi,27 Aug 2022,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.4,1,11,3,3
+974175,Fazalhaq Farooqi,30 Aug 2022,v Bangladesh,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+974175,Fazalhaq Farooqi,3 Sep 2022,v Sri Lanka,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.1,0,34,0,10.73
+974175,Fazalhaq Farooqi,7 Sep 2022,v Pakistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.2,0,31,3,9.3
+974175,Fazalhaq Farooqi,8 Sep 2022,v India,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+974175,Fazalhaq Farooqi,22 Oct 2022,v England,Perth,1,11,0,3,2,0,0,0,caught,2,4.0,0,24,1,6
+974175,Fazalhaq Farooqi,1 Nov 2022,v Sri Lanka,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.3,1,22,0,6.28
+974175,Fazalhaq Farooqi,4 Nov 2022,v Australia,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+974175,Fazalhaq Farooqi,13 Dec 2022,v Stars,Canberra,2,10,0,2,1,0,0,0,bowled,1,4.0,0,20,2,5
+974175,Fazalhaq Farooqi,16 Dec 2022,v Strikers,Sydney,2,11,1*,3,2,0,0,50,not out,1,4.0,0,20,3,5
+974175,Fazalhaq Farooqi,18 Dec 2022,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+974175,Fazalhaq Farooqi,20 Dec 2022,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+974175,Fazalhaq Farooqi,6 Jan 2023,v Rangpur,Mirpur,2,11,0*,1,0,0,0,-,not out,1,4.0,0,28,1,7
+974175,Fazalhaq Farooqi,9 Jan 2023,v Strikers,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.4,0,28,0,7.63
+974175,Fazalhaq Farooqi,16 Feb 2023,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+974175,Fazalhaq Farooqi,19 Feb 2023,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+974175,Fazalhaq Farooqi,24 Feb 2023,v Gladiators,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.1,0,28,3,8.84
+974175,Fazalhaq Farooqi,5 Mar 2023,v Gladiators,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+974175,Fazalhaq Farooqi,7 Mar 2023,v Sultans,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+974175,Fazalhaq Farooqi,9 Mar 2023,v Qalandars,Rawalpindi,2,10,0*,9,1,0,0,0,not out,1,4.0,0,40,3,10
+974175,Fazalhaq Farooqi,12 Mar 2023,v Zalmi,Rawalpindi,2,11,0,2,1,0,0,0,bowled,1,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,16 Mar 2023,v Zalmi,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+974175,Fazalhaq Farooqi,24 Mar 2023,v Pakistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+974175,Fazalhaq Farooqi,26 Mar 2023,v Pakistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+974175,Fazalhaq Farooqi,27 Mar 2023,v Pakistan,Sharjah,2,12,1*,-,2,0,0,50,not out,1,4.0,0,25,1,6.25
+974175,Fazalhaq Farooqi,2 Apr 2023,v RR,Hyderabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+974175,Fazalhaq Farooqi,7 Apr 2023,v LSG,Lucknow,1,-,sub,-,-,-,-,-,-,2,3.0,0,13,1,4.33
+974175,Fazalhaq Farooqi,13 May 2023,v LSG,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.2,0,32,0,9.6
+974175,Fazalhaq Farooqi,15 May 2023,v GT,Ahmedabad,2,11,1*,5,5,0,0,20,not out,1,3.0,0,31,1,10.33
+974175,Fazalhaq Farooqi,14 Jul 2023,v Bangladesh,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+974175,Fazalhaq Farooqi,16 Jul 2023,v Bangladesh,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+974175,Fazalhaq Farooqi,29 Dec 2023,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+974175,Fazalhaq Farooqi,31 Dec 2023,v U.A.E.,Sharjah,2,11,0*,-,2,0,0,0,not out,1,4.0,0,25,1,6.25
+974175,Fazalhaq Farooqi,2 Jan 2024,v U.A.E.,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,1,14,0,7
+974175,Fazalhaq Farooqi,11 Jan 2024,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+974175,Fazalhaq Farooqi,14 Jan 2024,v India,Indore,1,11,0,1,0,0,0,-,run out,2,3.4,0,28,1,7.63
+974175,Fazalhaq Farooqi,20 Jan 2024,v DC,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+974175,Fazalhaq Farooqi,21 Jan 2024,v Gulf Giants,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+974175,Fazalhaq Farooqi,23 Jan 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+974175,Fazalhaq Farooqi,26 Jan 2024,v Warriors,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+974175,Fazalhaq Farooqi,28 Jan 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+974175,Fazalhaq Farooqi,30 Jan 2024,v Vipers,Dubai (DICS),1,10,1,1,1,0,0,100,run out,2,4.0,0,23,2,5.75
+974175,Fazalhaq Farooqi,2 Feb 2024,v Warriors,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+974175,Fazalhaq Farooqi,4 Feb 2024,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,4,7.75
+974175,Fazalhaq Farooqi,17 Feb 2024,v Sri Lanka,Dambulla,2,11,0*,4,0,0,0,-,not out,1,4.0,0,25,3,6.25
+974175,Fazalhaq Farooqi,19 Feb 2024,v Sri Lanka,Dambulla,2,11,2,3,3,0,0,66.66,caught,1,4.0,0,31,1,7.75
+974175,Fazalhaq Farooqi,26 Feb 2024,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.3,0,27,2,7.71
+974175,Fazalhaq Farooqi,28 Feb 2024,v Barishal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+974175,Fazalhaq Farooqi,15 Mar 2024,v Ireland,Sharjah,2,11,2*,12,4,0,0,50,not out,1,3.0,0,20,0,6.66
+974175,Fazalhaq Farooqi,17 Mar 2024,v Ireland,Sharjah,1,11,1*,1,1,0,0,100,not out,2,4.0,0,48,1,12
+974175,Fazalhaq Farooqi,18 Mar 2024,v Ireland,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+974175,Fazalhaq Farooqi,3 Jun 2024,v Uganda,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,9,5,2.25
+974175,Fazalhaq Farooqi,7 Jun 2024,v New Zealand,Providence,1,-,DNB,-,-,-,-,-,-,2,3.2,0,17,4,5.1
+974175,Fazalhaq Farooqi,13 Jun 2024,v P.N.G.,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+974175,Fazalhaq Farooqi,17 Jun 2024,v West Indies,Gros Islet,2,11,0*,3,2,0,0,0,not out,1,3.0,0,38,0,12.66
+974175,Fazalhaq Farooqi,20 Jun 2024,v India,Bridgetown,2,11,4*,11,1,1,0,400,not out,1,4.0,0,33,3,8.25
+974175,Fazalhaq Farooqi,22 Jun 2024,v Australia,Kingstown,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+974175,Fazalhaq Farooqi,24 Jun 2024,v Bangladesh,Kingstown,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+974175,Fazalhaq Farooqi,26 Jun 2024,v South Africa,Tarouba,1,11,2*,6,2,0,0,100,not out,2,2.0,0,11,1,5.5
+974175,Fazalhaq Farooqi,5 Jul 2024,v Leics,Nottingham,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+974175,Fazalhaq Farooqi,7 Jul 2024,v Bears,Nottingham,1,11,0*,3,1,0,0,0,not out,2,3.0,0,31,1,10.33
+974175,Fazalhaq Farooqi,12 Jul 2024,v Durham,Chester-le-Street,2,11,16*,19,12,1,1,133.33,not out,1,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,14 Jul 2024,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+974175,Fazalhaq Farooqi,17 Jul 2024,v Lancashire,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,1,6.85
+974175,Fazalhaq Farooqi,19 Jul 2024,v Yorkshire,Leeds,1,11,4*,1,1,1,0,400,not out,2,4.0,0,32,1,8
+974175,Fazalhaq Farooqi,25 Jul 2024,v Fire,Manchester,1,10,7*,9,9,1,0,77.77,not out,2,2.0,0,17,0,10.2
+974175,Fazalhaq Farooqi,29 Jul 2024,v Rockets,Manchester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,7.8
+974175,Fazalhaq Farooqi,1 Aug 2024,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.3,0,21,0,9.69
+974175,Fazalhaq Farooqi,4 Aug 2024,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,4.2
+974175,Fazalhaq Farooqi,6 Aug 2024,v Invincibles,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,12.6
+974175,Fazalhaq Farooqi,9 Aug 2024,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,7.2
+974175,Fazalhaq Farooqi,11 Aug 2024,v N S-Chargers,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,11.1
+974175,Fazalhaq Farooqi,15 Aug 2024,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,9.6
+974175,Fazalhaq Farooqi,18 Aug 2024,v BDD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,1,5.25
+974175,Fazalhaq Farooqi,19 Aug 2024,v MAK,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,1,5.25
+974175,Fazalhaq Farooqi,20 Aug 2024,v SGT,Kabul,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,5,4.33
+974175,Fazalhaq Farooqi,21 Aug 2024,v BEAD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,5,4.5
+974175,Fazalhaq Farooqi,24 Aug 2024,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+974175,Fazalhaq Farooqi,14 Dec 2024,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+974175,Fazalhaq Farooqi,11 Jan 2025,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,5,4
+974175,Fazalhaq Farooqi,13 Jan 2025,v DC,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+974175,Fazalhaq Farooqi,16 Jan 2025,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+974175,Fazalhaq Farooqi,19 Jan 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+974175,Fazalhaq Farooqi,21 Jan 2025,v KnightRiders,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+974175,Fazalhaq Farooqi,24 Jan 2025,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,25 Jan 2025,v Gulf Giants,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+974175,Fazalhaq Farooqi,27 Jan 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.3,0,10,2,4
+974175,Fazalhaq Farooqi,31 Jan 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,1,13
+974175,Fazalhaq Farooqi,2 Feb 2025,v Warriorz,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+974175,Fazalhaq Farooqi,6 Feb 2025,v Warriorz,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+974175,Fazalhaq Farooqi,23 Mar 2025,v SRH,Hyderabad,2,-,sub,-,-,-,-,-,-,1,3.0,0,49,0,16.33
+974175,Fazalhaq Farooqi,9 Apr 2025,v GT,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+974175,Fazalhaq Farooqi,24 Apr 2025,v RCB,Bengaluru,2,11,2*,1,2,0,0,100,not out,1,3.0,0,30,0,10
+974175,Fazalhaq Farooqi,1 May 2025,v MI,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,54,0,13.5
+974175,Fazalhaq Farooqi,18 May 2025,v Punjab Kings,Jaipur,2,-,sub,-,-,-,-,-,-,1,3.0,0,39,0,13
+974175,Fazalhaq Farooqi,19 Jul 2025,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+974175,Fazalhaq Farooqi,21 Jul 2025,v BEAD,Kabul,2,-,sub,-,-,-,-,-,-,1,4.0,0,28,1,7
+974175,Fazalhaq Farooqi,22 Jul 2025,v MAK,Kabul,1,11,1*,1,2,0,0,50,not out,2,2.0,0,35,0,17.5
+974175,Fazalhaq Farooqi,24 Jul 2025,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.1,0,24,2,7.57
+974175,Fazalhaq Farooqi,25 Jul 2025,v MAK,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+974175,Fazalhaq Farooqi,26 Jul 2025,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+974175,Fazalhaq Farooqi,31 Jul 2025,v MAK,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+974175,Fazalhaq Farooqi,14 Aug 2025,v Falcons,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+974175,Fazalhaq Farooqi,15 Aug 2025,v Amazon,Basseterre,1,10,0,-,1,0,0,0,caught,2,3.2,0,34,1,10.2
+974175,Fazalhaq Farooqi,17 Aug 2025,v Trinbago,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+974175,Fazalhaq Farooqi,19 Aug 2025,v Kings,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+974175,Fazalhaq Farooqi,29 Aug 2025,v Pakistan,Sharjah,2,11,1*,7,4,0,0,25,not out,1,3.0,0,31,0,10.33
+974175,Fazalhaq Farooqi,1 Sep 2025,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+974175,Fazalhaq Farooqi,2 Sep 2025,v Pakistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+974175,Fazalhaq Farooqi,7 Sep 2025,v Pakistan,Sharjah,2,11,2*,7,11,0,0,18.18,not out,1,3.0,0,19,2,6.33
+974175,Fazalhaq Farooqi,9 Sep 2025,v Hong Kong,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,2,5.33
+974175,Fazalhaq Farooqi,16 Sep 2025,v Bangladesh,Abu Dhabi,2,11,2*,8,3,0,0,66.66,not out,1,4.0,0,37,0,9.25
+974175,Fazalhaq Farooqi,18 Sep 2025,v Sri Lanka,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+974175,Fazalhaq Farooqi,2 Nov 2025,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+974175,Fazalhaq Farooqi,4 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.0,1,32,0,10.66
+974175,Fazalhaq Farooqi,7 Dec 2025,v Warriorz,Sharjah,1,-,sub,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+974175,Fazalhaq Farooqi,9 Dec 2025,v Vipers,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,3.0,0,27,1,9
+974175,Fazalhaq Farooqi,11 Dec 2025,v KnightRiders,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,3.3,0,14,4,4
+974175,Fazalhaq Farooqi,14 Dec 2025,v Warriorz,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+974175,Fazalhaq Farooqi,20 Dec 2025,v KnightRiders,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+974175,Fazalhaq Farooqi,23 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+974175,Fazalhaq Farooqi,27 Dec 2025,v DC,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+974175,Fazalhaq Farooqi,30 Dec 2025,v Vipers,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+974175,Fazalhaq Farooqi,2 Jan 2026,v KnightRiders,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+974175,Fazalhaq Farooqi,4 Jan 2026,v Vipers,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+974175,Fazalhaq Farooqi,21 Jan 2026,v West Indies,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,28,2,7.3
+974175,Fazalhaq Farooqi,8 Feb 2026,v New Zealand,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+974175,Fazalhaq Farooqi,11 Feb 2026,v South Africa,Ahmedabad,2,11,0,6,0,0,0,-,run out,1,4.0,0,32,1,8

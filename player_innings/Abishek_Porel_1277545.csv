@@ -1,0 +1,58 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1277545,Abishek Porel,14 Oct 2022,v Odisha,Lucknow,2,4,20*,-,14,2,1,142.85,not out,1,DNB,-,-,-,-
+1277545,Abishek Porel,16 Oct 2022,v Tamil Nadu,Lucknow,1,4,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,22 Oct 2022,v Chandigarh,Lucknow,1,1,2,-,6,0,0,33.33,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,4 Apr 2023,v GT,Delhi,1,6,20,25,11,0,2,181.81,bowled,2,DNB,-,-,-,-
+1277545,Abishek Porel,8 Apr 2023,v RR,Guwahati,2,8,7,18,9,1,0,77.77,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,11 Apr 2023,v MI,Delhi,1,8,1,8,3,0,0,33.33,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,15 Apr 2023,v RCB,Bengaluru,2,6,5,17,8,0,0,62.5,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,16 Oct 2023,v Maharashtra,Mohali,1,2,15,-,14,2,0,107.14,lbw,2,DNB,-,-,-,-
+1277545,Abishek Porel,17 Oct 2023,v Rajasthan,Mohali,1,2,10,-,5,2,0,200,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,19 Oct 2023,v Puducherry,New Chandigarh,1,2,73*,-,52,10,1,140.38,not out,2,DNB,-,-,-,-
+1277545,Abishek Porel,21 Oct 2023,v Vidarbha,Mohali,1,2,43,-,30,2,1,143.33,bowled,2,DNB,-,-,-,-
+1277545,Abishek Porel,23 Oct 2023,v Uttarakhand,Mohali,2,2,57,-,28,5,3,203.57,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,25 Oct 2023,v Jharkhand,New Chandigarh,1,2,18,-,12,2,0,150,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,31 Oct 2023,v Assam,Mohali,1,2,23,-,16,2,1,143.75,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,23 Mar 2024,v Punjab Kings,New Chandigarh,1,9,32*,17,10,4,2,320,not out,2,DNB,-,-,-,-
+1277545,Abishek Porel,28 Mar 2024,v RR,Jaipur,2,6,9,10,10,0,0,90,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,31 Mar 2024,v CSK,Visakhapatnam,1,7,9*,7,6,1,0,150,not out,2,DNB,-,-,-,-
+1277545,Abishek Porel,3 Apr 2024,v KKR,Visakhapatnam,2,4,0,5,5,0,0,0,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,7 Apr 2024,v MI,Wankhede,2,3,41,50,31,5,0,132.25,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,12 Apr 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1277545,Abishek Porel,17 Apr 2024,v GT,Ahmedabad,2,3,15,19,7,2,1,214.28,bowled,1,DNB,-,-,-,-
+1277545,Abishek Porel,20 Apr 2024,v SRH,Delhi,2,4,42,29,22,7,1,190.9,stumped,1,DNB,-,-,-,-
+1277545,Abishek Porel,24 Apr 2024,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1277545,Abishek Porel,27 Apr 2024,v MI,Delhi,1,2,36,48,27,3,1,133.33,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,29 Apr 2024,v KKR,Eden Gardens,1,3,18,28,15,2,1,120,bowled,2,DNB,-,-,-,-
+1277545,Abishek Porel,7 May 2024,v RR,Delhi,1,2,65,59,36,7,3,180.55,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,12 May 2024,v RCB,Bengaluru,2,3,2,8,3,0,0,66.66,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,14 May 2024,v LSG,Delhi,1,2,58,58,33,5,4,175.75,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,23 Nov 2024,v Punjab,Rajkot,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,25 Nov 2024,v Hyderabad,Rajkot,2,1,41,-,39,3,2,105.12,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,27 Nov 2024,v Mizoram,Saurashtra,2,1,81,-,45,9,4,180,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,29 Nov 2024,v M. Pradesh,Saurashtra,1,1,25,-,14,2,2,178.57,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,1 Dec 2024,v Meghalaya,Rajkot,2,1,61*,-,31,9,2,196.77,not out,1,DNB,-,-,-,-
+1277545,Abishek Porel,3 Dec 2024,v Bihar,Saurashtra,2,1,19,-,10,4,0,190,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,5 Dec 2024,v Rajasthan,Rajkot,2,1,78,-,48,7,4,162.5,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,9 Dec 2024,v Chandigarh,Bengaluru,1,1,8,-,9,1,0,88.88,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,11 Dec 2024,v Baroda,Bengaluru,2,1,22,-,13,3,1,169.23,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,24 Mar 2025,v LSG,Visakhapatnam,2,3,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,30 Mar 2025,v SRH,Visakhapatnam,2,3,34*,32,18,2,2,188.88,not out,1,DNB,-,-,-,-
+1277545,Abishek Porel,5 Apr 2025,v CSK,Chennai,1,3,33,29,20,4,1,165,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,10 Apr 2025,v RCB,Bengaluru,2,3,7,15,7,1,0,100,caught,1,sub,-,-,-,-
+1277545,Abishek Porel,13 Apr 2025,v MI,Delhi,2,2,33,52,25,3,1,132,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,16 Apr 2025,v RR,Delhi,1,2,49,61,37,5,1,132.43,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,19 Apr 2025,v GT,Ahmedabad,1,1,18,10,9,3,1,200,caught,2,sub,-,-,-,-
+1277545,Abishek Porel,22 Apr 2025,v LSG,Lucknow,2,1,51,55,36,5,1,141.66,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,27 Apr 2025,v RCB,Delhi,1,1,28,19,11,2,2,254.54,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,29 Apr 2025,v KKR,Delhi,2,1,4,1,2,1,0,200,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,5 May 2025,v SRH,Hyderabad,1,3,8,21,10,1,0,80,caught,-,TDNB,-,-,-,-
+1277545,Abishek Porel,18 May 2025,v GT,Delhi,1,3,30,43,19,1,3,157.89,caught,2,DNB,-,-,-,-
+1277545,Abishek Porel,21 May 2025,v MI,Wankhede,2,3,6,15,9,0,0,66.66,stumped,1,DNB,-,-,-,-
+1277545,Abishek Porel,26 Nov 2025,v Baroda,Hyderabad,2,1,50,-,24,6,3,208.33,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,28 Nov 2025,v Gujarat,Hyderabad,2,1,14,-,12,1,0,116.66,run out,1,DNB,-,-,-,-
+1277545,Abishek Porel,30 Nov 2025,v Punjab,Hyderabad,2,1,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,2 Dec 2025,v Himachal,Hyderabad,2,1,41,-,26,7,1,157.69,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,4 Dec 2025,v Services,Hyderabad,2,1,56,-,29,8,2,193.1,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,6 Dec 2025,v Puducherry,Hyderabad,2,1,11,-,9,2,0,122.22,caught,1,DNB,-,-,-,-
+1277545,Abishek Porel,8 Dec 2025,v Haryana,Hyderabad,2,1,47,-,24,4,3,195.83,caught,1,DNB,-,-,-,-

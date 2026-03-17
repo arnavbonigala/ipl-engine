@@ -1,0 +1,58 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+272465,James Pattinson,2 Jan 2010,v NSW,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+272465,James Pattinson,10 Jan 2010,v West Aust,W.A.C.A,2,9,1*,4,2,0,0,50,not out,1,4.0,0,39,0,9.75
+272465,James Pattinson,23 Jan 2010,v South Aust,Adelaide,1,9,1*,3,3,0,0,33.33,not out,2,4.0,0,27,3,6.75
+272465,James Pattinson,2 Jul 2010,v Sri Lanka A,Townsville,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+272465,James Pattinson,20 Sep 2010,v Wayamba,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,1,14,2,4.66
+272465,James Pattinson,2 Jan 2011,v Queensland,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+272465,James Pattinson,8 Jan 2011,v South Aust,Adelaide,2,10,6*,-,8,0,0,75,not out,1,4.0,0,35,0,8.75
+272465,James Pattinson,18 Jan 2011,v West Aust,W.A.C.A,1,9,10,12,10,1,0,100,run out,2,2.1,0,21,0,9.69
+272465,James Pattinson,22 Jan 2011,v NSW,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+272465,James Pattinson,28 Jan 2011,v South Aust,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+272465,James Pattinson,13 Oct 2011,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+272465,James Pattinson,16 Oct 2011,v South Africa,Johannesburg,1,9,5*,10,3,1,0,166.66,not out,2,4.0,0,17,2,4.25
+272465,James Pattinson,27 Mar 2012,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+272465,James Pattinson,30 Mar 2012,v West Indies,Bridgetown,2,10,0*,2,0,0,0,-,not out,1,2.0,0,34,0,17
+272465,James Pattinson,30 Dec 2013,v Heat,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+272465,James Pattinson,1 Jan 2014,v Hurricanes,Hobart,1,8,0,-,1,0,0,0,bowled,2,4.0,0,24,4,6
+272465,James Pattinson,4 Jan 2014,v Stars,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.2,0,37,0,11.1
+272465,James Pattinson,14 Jan 2014,v Thunder,Melbourne (Docklands),1,8,3,7,5,0,0,60,caught,2,3.3,0,30,1,8.57
+272465,James Pattinson,30 Dec 2014,v Thunder,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+272465,James Pattinson,3 Jan 2015,v Stars,Melbourne (Docklands),2,8,1,-,4,0,0,25,caught,1,4.0,0,42,0,10.5
+272465,James Pattinson,10 Jan 2015,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+272465,James Pattinson,13 Jan 2015,v Heat,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,3.0,1,23,2,7.66
+272465,James Pattinson,19 Jan 2015,v Strikers,Melbourne (Docklands),2,8,3,8,5,0,0,60,caught,1,4.0,1,12,1,3
+272465,James Pattinson,7 Jan 2017,v Stars,Melbourne (Docklands),2,9,13,-,10,0,1,130,lbw,1,4.0,0,44,3,11
+272465,James Pattinson,9 Jan 2017,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.3,0,36,0,14.4
+272465,James Pattinson,12 Jan 2017,v Hurricanes,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,47,0,15.66
+272465,James Pattinson,16 Jan 2017,v Strikers,Adelaide,1,9,1,-,2,0,0,50,caught,2,3.0,0,31,0,10.33
+272465,James Pattinson,20 Jan 2017,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+272465,James Pattinson,19 Dec 2018,v Strikers,Brisbane,1,8,4,-,7,0,0,57.14,stumped,2,4.0,0,23,2,5.75
+272465,James Pattinson,1 Jan 2019,v Sixers,Carrara,1,8,1*,-,2,0,0,50,not out,2,4.0,0,29,0,7.25
+272465,James Pattinson,5 Jan 2019,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+272465,James Pattinson,8 Jan 2019,v Thunder,Sydney,1,8,0,-,4,0,0,0,lbw,2,2.0,0,6,1,3
+272465,James Pattinson,10 Jan 2019,v Renegades,Brisbane,1,8,3,-,2,0,0,150,run out,2,3.0,0,27,0,9
+272465,James Pattinson,11 Jan 2020,v Scorchers,Perth,2,8,11,-,6,0,1,183.33,run out,1,4.0,0,52,0,13
+272465,James Pattinson,14 Jan 2020,v Strikers,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,5,8.25
+272465,James Pattinson,19 Jan 2020,v Renegades,Brisbane,2,8,1,-,3,0,0,33.33,bowled,1,4.0,0,31,1,7.75
+272465,James Pattinson,23 Jan 2020,v Sixers,Brisbane,1,8,27*,-,15,1,2,180,not out,2,3.5,0,19,1,4.95
+272465,James Pattinson,25 Jan 2020,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+272465,James Pattinson,27 Jan 2020,v Renegades,Melbourne (Docklands),1,8,0*,-,0,0,0,-,not out,2,4.0,0,30,0,7.5
+272465,James Pattinson,19 Sep 2020,v CSK,Abu Dhabi,1,8,11,-,8,2,0,137.5,caught,2,4.0,0,27,1,6.75
+272465,James Pattinson,23 Sep 2020,v KKR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+272465,James Pattinson,28 Sep 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+272465,James Pattinson,1 Oct 2020,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+272465,James Pattinson,4 Oct 2020,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+272465,James Pattinson,6 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.1,0,19,2,6
+272465,James Pattinson,11 Oct 2020,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+272465,James Pattinson,25 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.2,0,40,2,12
+272465,James Pattinson,28 Oct 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+272465,James Pattinson,3 Nov 2020,v SRH,Sharjah,1,9,4*,-,5,0,0,80,not out,2,3.0,0,29,0,9.66
+272465,James Pattinson,7 Dec 2021,v Strikers,Melbourne (Docklands),1,8,3,8,3,0,0,100,caught,2,4.0,0,27,1,6.75
+272465,James Pattinson,9 Dec 2021,v Strikers,Adelaide,2,8,0,3,3,0,0,0,caught,1,3.0,0,27,1,9
+272465,James Pattinson,22 Dec 2021,v Scorchers,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+272465,James Pattinson,26 Dec 2021,v Scorchers,Melbourne (Docklands),1,9,16,10,8,2,1,200,bowled,2,3.0,0,35,0,11.66
+272465,James Pattinson,29 Dec 2021,v Hurricanes,Melbourne (Docklands),2,8,0,2,1,0,0,0,run out,1,3.0,0,31,0,10.33
+272465,James Pattinson,6 Jan 2022,v Heat,Geelong,2,-,sub,-,-,-,-,-,-,1,1.0,0,10,0,10
+272465,James Pattinson,3 Jun 2022,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,2,12.66
+272465,James Pattinson,5 Jun 2022,v Bears,Birmingham,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19

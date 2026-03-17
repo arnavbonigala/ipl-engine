@@ -1,0 +1,68 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+33870,Rajagopal Sathish,25 Sep 2009,v Kerala,Visakhapatnam,1,5,16,18,10,1,1,160,caught,2,3.0,0,17,0,5.66
+33870,Rajagopal Sathish,26 Sep 2009,v Goa,Visakhapatnam,1,5,24,15,15,2,1,160,caught,2,1.0,0,11,0,11
+33870,Rajagopal Sathish,13 Mar 2010,v RR,Brabourne,1,6,6,-,5,1,0,120,run out,2,3.0,0,51,1,17
+33870,Rajagopal Sathish,17 Mar 2010,v Daredevils,Delhi,1,8,0*,-,0,0,0,-,not out,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,20 Mar 2010,v RCB,Brabourne,1,7,24,-,22,3,0,109.09,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,22 Mar 2010,v KKR,Brabourne,2,5,21*,-,11,3,0,190.9,not out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,25 Mar 2010,v CSK,Brabourne,2,4,5,-,9,0,0,55.55,bowled,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,28 Mar 2010,v Chargers,DY Patil,1,6,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,30 Mar 2010,v Kings XI,Brabourne,2,7,17*,-,9,2,0,188.88,not out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,3 Apr 2010,v Chargers,Brabourne,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,6 Apr 2010,v CSK,Chennai,2,7,4,-,5,0,0,80,run out,1,1.0,0,5,0,5
+33870,Rajagopal Sathish,9 Apr 2010,v Kings XI,Mohali,1,6,20,-,17,1,0,117.64,caught,2,2.0,0,14,0,7
+33870,Rajagopal Sathish,11 Apr 2010,v RR,Jaipur,1,7,1*,-,2,0,0,50,not out,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,19 Apr 2010,v KKR,Eden Gardens,1,5,11,-,11,1,0,100,caught,2,2.0,0,11,1,5.5
+33870,Rajagopal Sathish,10 Sep 2010,v Lions,Johannesburg,2,6,10,11,6,0,1,166.66,run out,1,1.0,0,15,0,15
+33870,Rajagopal Sathish,14 Oct 2010,v Kerala,Hyderabad,2,6,21*,22,16,2,1,131.25,not out,1,1.0,0,9,0,9
+33870,Rajagopal Sathish,15 Oct 2010,v Goa,Hyderabad,1,6,2,3,5,0,0,40,bowled,2,2.0,0,13,1,6.5
+33870,Rajagopal Sathish,16 Oct 2010,v Hyderabad,Hyderabad,2,6,16*,20,13,1,0,123.07,not out,1,4.0,0,16,0,4
+33870,Rajagopal Sathish,18 Oct 2010,v Karnataka,Hyderabad,1,6,21*,7,11,4,0,190.9,not out,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,19 Oct 2010,v Andhra,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,10 Apr 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,12 Apr 2011,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,15 Apr 2011,v Kochi,Wankhede,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+33870,Rajagopal Sathish,20 Apr 2011,v Warriors,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,22 Apr 2011,v CSK,Wankhede,1,1,0,-,7,0,0,0,caught,2,1.0,0,13,0,13
+33870,Rajagopal Sathish,24 Apr 2011,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,0,6
+33870,Rajagopal Sathish,29 Apr 2011,v RR,Jaipur,1,7,7,-,6,0,0,116.66,stumped,2,1.1,0,5,0,4.28
+33870,Rajagopal Sathish,22 May 2011,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,27 May 2011,v RCB,Chennai,2,8,18*,-,21,1,0,85.71,not out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,24 Sep 2011,v CSK,Chennai,2,7,14,7,8,1,1,175,lbw,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,26 Sep 2011,v Trinidad & T,Bengaluru,2,7,14,26,25,1,0,56,caught,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,30 Sep 2011,v Cape Cobras,Bengaluru,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+33870,Rajagopal Sathish,2 Oct 2011,v NSW,Chennai,1,7,14,13,16,2,0,87.5,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,8 Oct 2011,v Somerset,Chennai,1,7,25*,-,12,2,1,208.33,not out,2,1.0,0,13,0,13
+33870,Rajagopal Sathish,9 Oct 2011,v RCB,Chennai,1,7,9,20,9,0,1,100,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,20 Oct 2011,v Bengal,Jamshedpur,2,5,13,27,16,2,0,81.25,caught,1,3.0,0,22,1,7.33
+33870,Rajagopal Sathish,22 Oct 2011,v Tripura,Jamshedpur,1,5,17,12,11,2,0,154.54,lbw,2,3.0,0,12,3,4
+33870,Rajagopal Sathish,24 Oct 2011,v Jharkhand,Jamshedpur,1,5,41,42,29,4,0,141.37,caught,2,4.0,0,27,1,6.75
+33870,Rajagopal Sathish,7 Apr 2013,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,10 Apr 2013,v CSK,Mohali,1,7,8,12,6,1,0,133.33,caught,2,1.0,0,15,0,15
+33870,Rajagopal Sathish,14 Apr 2013,v RR,Jaipur,1,6,11,15,12,2,0,91.66,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,2 May 2013,v CSK,Chennai,2,7,0,2,1,0,0,0,lbw,1,2.0,0,26,0,13
+33870,Rajagopal Sathish,6 May 2013,v RCB,Mohali,2,6,27*,42,18,2,1,150,not out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,9 May 2013,v RR,Mohali,1,7,4*,5,3,0,0,133.33,not out,2,1.0,0,10,0,10
+33870,Rajagopal Sathish,11 May 2013,v SRH,Mohali,2,6,25,32,18,1,2,138.88,run out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,14 May 2013,v RCB,Bengaluru,2,5,12*,6,6,1,1,200,not out,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,16 May 2013,v Daredevils,Dharamsala,1,5,22,16,13,2,1,169.23,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,25 Mar 2015,v Hyderabad,Kochi,1,5,4,1,2,1,0,200,bowled,2,3.0,0,17,1,5.66
+33870,Rajagopal Sathish,26 Mar 2015,v Kerala,Kochi,2,7,18,32,16,2,0,112.5,caught,1,4.0,0,20,2,5
+33870,Rajagopal Sathish,27 Mar 2015,v Karnataka,Kochi,1,7,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+33870,Rajagopal Sathish,28 Mar 2015,v Goa,Kochi,2,5,18*,12,8,2,1,225,not out,1,4.0,1,17,3,4.25
+33870,Rajagopal Sathish,29 Mar 2015,v Andhra,Kochi,2,5,7,18,8,1,0,87.5,caught,1,3.0,0,22,1,7.33
+33870,Rajagopal Sathish,2 Jan 2016,v Haryana,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+33870,Rajagopal Sathish,3 Jan 2016,v Bengal,Nagpur,1,7,12,5,5,1,1,240,caught,2,3.0,0,16,1,5.33
+33870,Rajagopal Sathish,6 Jan 2016,v Vidarbha,Nagpur,1,7,32,17,17,2,2,188.23,caught,2,4.0,0,25,0,6.25
+33870,Rajagopal Sathish,7 Jan 2016,v Gujarat,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+33870,Rajagopal Sathish,9 Jan 2016,v Himachal,Nagpur,1,7,41*,35,21,3,3,195.23,not out,2,3.0,0,23,0,7.66
+33870,Rajagopal Sathish,10 Jan 2016,v Hyderabad,Nagpur,2,6,8,4,4,0,1,200,caught,1,3.0,0,28,0,9.33
+33870,Rajagopal Sathish,24 Apr 2016,v Supergiants,Pune,2,7,10,18,8,0,1,125,bowled,1,3.0,0,20,1,6.66
+33870,Rajagopal Sathish,28 Apr 2016,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+33870,Rajagopal Sathish,30 Apr 2016,v Daredevils,Delhi,2,6,6,7,7,1,0,85.71,caught,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,25 May 2016,v SRH,Delhi,2,7,8,21,9,0,0,88.88,bowled,1,1.0,0,9,0,9
+33870,Rajagopal Sathish,29 Jan 2017,v Karnataka,Chennai,2,6,15,18,18,1,0,83.33,caught,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,30 Jan 2017,v Hyderabad,Chennai,2,6,5,16,9,0,0,55.55,bowled,1,DNB,-,-,-,-
+33870,Rajagopal Sathish,31 Jan 2017,v Goa,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+33870,Rajagopal Sathish,2 Feb 2017,v Andhra,Chennai,1,6,32*,34,14,3,2,228.57,not out,2,4.0,0,18,2,4.5
+33870,Rajagopal Sathish,3 Feb 2017,v Kerala,Chennai,2,6,3,6,4,0,0,75,caught,1,4.0,0,16,2,4

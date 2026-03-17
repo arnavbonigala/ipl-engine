@@ -1,0 +1,471 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+56143,Shakib Al Hasan,28 Nov 2006,v Zimbabwe,Khulna,1,4,26,32,28,2,0,92.85,caught,2,4.0,0,31,1,7.75
+56143,Shakib Al Hasan,13 Sep 2007,v West Indies,Johannesburg,2,5,13,9,9,1,0,144.44,caught,1,4.0,0,34,4,8.5
+56143,Shakib Al Hasan,15 Sep 2007,v South Africa,Cape Town,1,5,19,22,14,3,0,135.71,run out,2,4.0,0,28,1,7
+56143,Shakib Al Hasan,16 Sep 2007,v Australia,Cape Town,1,5,16,13,11,1,1,145.45,caught,2,2.0,0,15,0,7.5
+56143,Shakib Al Hasan,18 Sep 2007,v Sri Lanka,Johannesburg,2,5,18,30,19,2,0,94.73,bowled,1,3.0,0,22,1,7.33
+56143,Shakib Al Hasan,20 Sep 2007,v Pakistan,Cape Town,1,5,1,2,3,0,0,33.33,caught,2,4.0,0,17,0,4.25
+56143,Shakib Al Hasan,20 Apr 2008,v Pakistan,Karachi,2,5,0,1,1,0,0,0,caught,1,4.0,0,33,1,8.25
+56143,Shakib Al Hasan,5 Nov 2008,v South Africa,Johannesburg,2,5,4,6,3,1,0,133.33,run out,1,3.0,0,21,2,7
+56143,Shakib Al Hasan,6 Jun 2009,v India,Nottingham,2,4,8,7,10,0,0,80,caught,1,4.0,0,24,1,6
+56143,Shakib Al Hasan,8 Jun 2009,v Ireland,Nottingham,1,4,7,3,7,1,0,100,caught,2,3.0,0,23,1,7.66
+56143,Shakib Al Hasan,2 Aug 2009,v West Indies,Basseterre,1,5,17,12,16,3,0,106.25,bowled,2,4.0,0,13,1,3.25
+56143,Shakib Al Hasan,3 Feb 2010,v New Zealand,Hamilton,1,4,3,8,5,0,0,60,bowled,2,2.0,0,16,0,8
+56143,Shakib Al Hasan,12 Apr 2010,v Rajshahi DIV,Savar (2),2,4,18,14,12,2,1,150,caught,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,13 Apr 2010,v Chittagong,Mirpur,1,4,16,27,16,2,0,100,caught,2,4.0,0,18,0,4.5
+56143,Shakib Al Hasan,15 Apr 2010,v Dhaka DIV,Mirpur,1,4,4,8,7,0,0,57.14,caught,2,4.0,1,15,1,3.75
+56143,Shakib Al Hasan,17 Apr 2010,v Sylhet DIV,Mirpur,2,3,15,26,19,1,0,78.94,caught,1,4.0,0,29,2,7.25
+56143,Shakib Al Hasan,18 Apr 2010,v Barisal DIV,Mirpur,1,6,0,1,1,0,0,0,lbw,2,3.0,0,16,2,5.33
+56143,Shakib Al Hasan,19 Apr 2010,v Sylhet DIV,Mirpur,2,5,6,6,4,1,0,150,caught,1,4.0,0,31,1,7.75
+56143,Shakib Al Hasan,21 Apr 2010,v Rajshahi DIV,Mirpur,1,5,27,23,15,1,2,180,caught,2,4.0,0,28,1,7
+56143,Shakib Al Hasan,1 May 2010,v Pakistan,Gros Islet,2,4,47,-,31,3,2,151.61,caught,1,4.0,0,27,2,6.75
+56143,Shakib Al Hasan,5 May 2010,v Australia,Bridgetown,2,4,28,35,28,0,1,100,caught,1,4.0,0,24,2,6
+56143,Shakib Al Hasan,15 Apr 2011,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+56143,Shakib Al Hasan,17 Apr 2011,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+56143,Shakib Al Hasan,20 Apr 2011,v Kochi,Eden Gardens,2,6,2,-,5,0,0,40,bowled,1,4.0,0,28,3,7
+56143,Shakib Al Hasan,22 Apr 2011,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.1,0,29,0,13.38
+56143,Shakib Al Hasan,19 May 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+56143,Shakib Al Hasan,22 May 2011,v MI,Eden Gardens,1,8,1*,-,1,0,0,100,not out,2,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,25 May 2011,v MI,Wankhede,1,7,26,-,16,4,0,162.5,bowled,2,3.2,0,24,2,7.2
+56143,Shakib Al Hasan,9 Jun 2011,v Yorkshire,Leeds,2,4,3,21,6,0,0,50,bowled,1,4.0,0,32,2,8
+56143,Shakib Al Hasan,10 Jun 2011,v Northants,Worcester,2,4,0,1,1,0,0,0,lbw,1,4.0,0,29,3,7.25
+56143,Shakib Al Hasan,15 Jun 2011,v Derbyshire,Derby,1,4,8,6,9,0,0,88.88,caught,2,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,17 Jun 2011,v Warwickshire,Birmingham,2,4,16,22,13,2,0,123.07,caught,1,3.0,0,24,2,8
+56143,Shakib Al Hasan,25 Jun 2011,v Leics,Leicester,2,4,9,14,13,0,0,69.23,caught,1,4.0,0,11,2,2.75
+56143,Shakib Al Hasan,26 Jun 2011,v Yorkshire,Worcester,1,4,5,8,8,0,0,62.5,caught,2,4.0,0,31,4,7.75
+56143,Shakib Al Hasan,29 Jun 2011,v Northants,Milton Keynes,2,4,5,9,9,0,0,55.55,bowled,1,3.0,0,29,0,9.66
+56143,Shakib Al Hasan,1 Jul 2011,v Leics,Worcester,1,4,10,17,16,1,0,62.5,caught,2,4.0,0,19,1,4.75
+56143,Shakib Al Hasan,3 Jul 2011,v Durham,Chester-le-Street,2,4,0,1,1,0,0,0,caught,1,4.0,0,35,1,8.75
+56143,Shakib Al Hasan,5 Jul 2011,v Notts,Worcester,2,4,20,20,22,1,0,90.9,caught,1,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,8 Jul 2011,v Warwickshire,Worcester,1,4,21,25,25,1,0,84,caught,2,4.0,0,20,1,5
+56143,Shakib Al Hasan,15 Jul 2011,v Notts,Nottingham,2,4,13,4,5,0,2,260,caught,1,4.0,0,40,1,10
+56143,Shakib Al Hasan,19 Sep 2011,v Auckland,Hyderabad,1,6,4,13,7,0,0,57.14,run out,2,2.0,0,11,0,5.5
+56143,Shakib Al Hasan,21 Sep 2011,v Somerset,Hyderabad,2,7,13,11,9,1,1,144.44,caught,1,3.0,0,20,0,6.66
+56143,Shakib Al Hasan,25 Sep 2011,v Somerset,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,27 Sep 2011,v South Aust,Hyderabad,2,3,13,10,11,1,1,118.18,caught,1,4.0,0,23,0,5.75
+56143,Shakib Al Hasan,1 Oct 2011,v Warriors,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+56143,Shakib Al Hasan,11 Oct 2011,v West Indies,Mirpur,2,4,0,1,1,0,0,0,bowled,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,29 Nov 2011,v Pakistan,Mirpur,2,4,7,17,14,0,0,50,bowled,1,4.0,1,24,2,6
+56143,Shakib Al Hasan,11 Feb 2012,v Dhaka,Mirpur,1,4,42,48,31,5,0,135.48,bowled,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,12 Feb 2012,v Chittagong,Mirpur,1,5,4*,1,1,1,0,400,not out,2,2.0,0,11,0,5.5
+56143,Shakib Al Hasan,13 Feb 2012,v Barisal,Mirpur,2,5,5*,7,5,0,0,100,not out,1,4.0,1,19,2,4.75
+56143,Shakib Al Hasan,15 Feb 2012,v Rajshahi,Mirpur,1,5,44,-,26,5,1,169.23,caught,2,4.0,0,35,2,8.75
+56143,Shakib Al Hasan,18 Feb 2012,v Royals,Chattogram,1,5,14,-,19,1,0,73.68,caught,2,4.0,0,30,2,7.5
+56143,Shakib Al Hasan,19 Feb 2012,v Dhaka,Chattogram,2,4,39,47,34,2,2,114.7,caught,1,4.0,0,27,1,6.75
+56143,Shakib Al Hasan,20 Feb 2012,v Chittagong,Chattogram,1,4,14,-,13,2,0,107.69,caught,2,4.0,0,15,1,3.75
+56143,Shakib Al Hasan,22 Feb 2012,v Barisal,Chattogram,1,4,0,-,3,0,0,0,stumped,2,4.0,0,34,2,8.5
+56143,Shakib Al Hasan,26 Feb 2012,v Rajshahi,Mirpur,1,5,11,7,6,2,0,183.33,bowled,2,4.0,0,17,1,4.25
+56143,Shakib Al Hasan,27 Feb 2012,v Royals,Mirpur,1,4,21*,-,21,2,0,100,not out,2,4.0,0,41,2,10.25
+56143,Shakib Al Hasan,28 Feb 2012,v Dhaka,Mirpur,2,5,86*,60,41,9,4,209.75,not out,1,4.0,0,45,1,11.25
+56143,Shakib Al Hasan,10 Apr 2012,v RCB,Bengaluru,1,7,4,8,4,0,0,100,caught,2,3.0,0,21,2,7
+56143,Shakib Al Hasan,13 Apr 2012,v RR,Eden Gardens,2,5,16,21,10,1,1,160,caught,1,4.0,0,17,3,4.25
+56143,Shakib Al Hasan,15 Apr 2012,v Kings XI,Eden Gardens,2,5,4,14,8,0,0,50,caught,1,4.0,0,26,1,6.5
+56143,Shakib Al Hasan,12 May 2012,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+56143,Shakib Al Hasan,16 May 2012,v MI,Wankhede,1,5,13,19,12,1,0,108.33,bowled,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,19 May 2012,v Warriors,Pune,1,4,42,44,30,3,2,140,bowled,2,4.0,0,18,2,4.5
+56143,Shakib Al Hasan,22 May 2012,v Daredevils,Pune,1,4,1,-,3,0,0,33.33,caught,2,4.0,0,36,1,9
+56143,Shakib Al Hasan,27 May 2012,v CSK,Chennai,2,6,11*,-,7,1,0,157.14,not out,1,3.0,0,25,1,8.33
+56143,Shakib Al Hasan,18 Jul 2012,v Ireland,Belfast,1,3,57,33,33,9,0,172.72,bowled,2,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,20 Jul 2012,v Ireland,Belfast,1,3,11,12,9,2,0,122.22,caught,2,4.0,0,31,0,7.75
+56143,Shakib Al Hasan,21 Jul 2012,v Ireland,Belfast,2,3,3,6,5,0,0,60,caught,1,4.0,0,28,1,7
+56143,Shakib Al Hasan,24 Jul 2012,v Scotland,The Hague,2,3,31,54,29,1,1,106.89,caught,1,4.0,0,37,1,9.25
+56143,Shakib Al Hasan,25 Jul 2012,v Netherlands,The Hague,2,3,12,13,11,2,0,109.09,caught,1,4.0,0,23,2,5.75
+56143,Shakib Al Hasan,26 Jul 2012,v Netherlands,The Hague,1,3,0,1,3,0,0,0,bowled,2,4.0,0,28,2,7
+56143,Shakib Al Hasan,6 Sep 2012,v Barbados,Port of Spain,2,2,13,5,4,1,1,325,caught,1,1.0,0,11,1,11
+56143,Shakib Al Hasan,7 Sep 2012,v Afghanistan,Port of Spain,2,4,5*,17,8,0,0,62.5,not out,1,3.0,0,13,2,4.33
+56143,Shakib Al Hasan,8 Sep 2012,v Trinidad & T,Port of Spain,1,3,10,16,8,1,0,125,caught,2,2.3,0,29,0,11.6
+56143,Shakib Al Hasan,21 Sep 2012,v New Zealand,Pallekele,2,3,11,12,8,2,0,137.5,caught,1,4.0,0,40,0,10
+56143,Shakib Al Hasan,25 Sep 2012,v Pakistan,Pallekele,1,3,84,71,54,11,2,155.55,caught,2,4.0,0,23,0,5.75
+56143,Shakib Al Hasan,15 Oct 2012,v Auckland,Cape Town,1,6,15,27,22,0,0,68.18,caught,2,4.0,0,34,0,8.5
+56143,Shakib Al Hasan,18 Jan 2013,v Khulna,Mirpur,1,5,27*,24,14,2,1,192.85,not out,2,4.0,0,27,1,6.75
+56143,Shakib Al Hasan,19 Jan 2013,v Rangpur,Mirpur,1,4,13,9,6,1,1,216.66,caught,2,4.0,0,17,2,4.25
+56143,Shakib Al Hasan,22 Jan 2013,v Rajshahi,Khulna,1,3,37,34,21,5,1,176.19,bowled,2,4.0,0,18,1,4.5
+56143,Shakib Al Hasan,25 Jan 2013,v Royals,Khulna,1,5,7,17,12,0,0,58.33,bowled,2,3.4,0,43,0,11.72
+56143,Shakib Al Hasan,29 Jan 2013,v Royals,Chattogram,1,3,2,6,7,0,0,28.57,run out,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,5 Feb 2013,v Rangpur,Mirpur,1,4,42,34,24,4,2,175,caught,2,4.0,0,19,3,4.75
+56143,Shakib Al Hasan,9 Feb 2013,v Barisal,Mirpur,2,3,54,47,31,7,1,174.19,caught,1,4.0,0,22,2,5.5
+56143,Shakib Al Hasan,11 Feb 2013,v Khulna,Mirpur,2,3,1,4,4,0,0,25,caught,1,4.0,0,24,2,6
+56143,Shakib Al Hasan,12 Feb 2013,v Barisal,Mirpur,1,3,8,9,2,0,1,400,run out,2,4.0,0,18,1,4.5
+56143,Shakib Al Hasan,14 Feb 2013,v Chittagong,Mirpur,1,4,59*,54,29,9,0,203.44,not out,2,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,15 Feb 2013,v Royals,Mirpur,1,4,38,22,21,2,4,180.95,bowled,2,4.0,0,29,1,7.25
+56143,Shakib Al Hasan,19 Feb 2013,v Chittagong,Mirpur,1,4,41,63,29,2,2,141.37,caught,2,3.0,0,21,0,7
+56143,Shakib Al Hasan,11 May 2013,v Zimbabwe,Bulawayo,2,3,65,56,40,8,2,162.5,caught,1,4.0,0,20,2,5
+56143,Shakib Al Hasan,12 May 2013,v Zimbabwe,Bulawayo,1,3,40,33,28,6,1,142.85,caught,2,4.0,0,21,4,5.25
+56143,Shakib Al Hasan,28 Jun 2013,v Notts,Nottingham,1,4,31,17,14,3,1,221.42,caught,2,4.0,0,35,1,8.75
+56143,Shakib Al Hasan,29 Jun 2013,v Derbyshire,Leicester,2,4,4,5,4,0,0,100,caught,1,4.0,0,37,0,9.25
+56143,Shakib Al Hasan,5 Jul 2013,v Durham,Leicester,1,4,1,3,4,0,0,25,caught,2,4.0,0,17,1,4.25
+56143,Shakib Al Hasan,7 Jul 2013,v Lancashire,Manchester,2,4,12,13,16,1,0,75,bowled,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,9 Jul 2013,v Yorkshire,Leeds,1,4,14,8,10,3,0,140,caught,2,4.0,0,18,0,4.5
+56143,Shakib Al Hasan,12 Jul 2013,v Notts,Leicester,2,5,43*,26,21,3,3,204.76,not out,1,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,23 Jul 2013,v Lancashire,Leicester,1,5,23,14,16,4,0,143.75,caught,2,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,25 Jul 2013,v Durham,Chester-le-Street,1,5,15,29,23,1,0,65.21,lbw,2,4.0,0,37,0,9.25
+56143,Shakib Al Hasan,26 Jul 2013,v Derbyshire,Derby,1,4,3,5,4,0,0,75,caught,2,2.0,0,7,2,3.5
+56143,Shakib Al Hasan,28 Jul 2013,v Yorkshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,3.2,0,26,2,7.8
+56143,Shakib Al Hasan,30 Jul 2013,v Zouks,Bridgetown,1,4,5,-,5,1,0,100,caught,2,2.0,0,29,0,14.5
+56143,Shakib Al Hasan,1 Aug 2013,v Hawksbills,Bridgetown,1,4,1,-,6,0,0,16.66,caught,2,4.0,1,16,1,4
+56143,Shakib Al Hasan,3 Aug 2013,v Red Steel,Bridgetown,2,6,1,-,6,0,0,16.66,bowled,1,4.0,1,6,6,1.5
+56143,Shakib Al Hasan,8 Aug 2013,v Zouks,Gros Islet,1,6,12,-,9,0,1,133.33,caught,2,2.0,0,15,0,7.5
+56143,Shakib Al Hasan,11 Aug 2013,v Amazon,Port of Spain,2,7,3,-,9,0,0,33.33,caught,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,13 Aug 2013,v Hawksbills,North Sound,1,4,0,-,3,0,0,0,caught,2,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,17 Aug 2013,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,23 Aug 2013,v Tallawahs,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+56143,Shakib Al Hasan,23 Dec 2013,v UCB-BCB XI,Sylhet,2,4,33,38,25,2,2,132,caught,1,4.0,0,25,0,6.25
+56143,Shakib Al Hasan,25 Dec 2013,v Abahani Ltd,Sylhet,2,4,8,13,10,0,0,80,bowled,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,26 Dec 2013,v Mohammedan,Sylhet,1,4,57*,44,28,6,3,203.57,not out,2,2.4,0,18,6,6.75
+56143,Shakib Al Hasan,28 Dec 2013,v UCB-BCB XI,Mirpur,1,3,1,3,3,0,0,33.33,caught,2,4.0,1,28,2,7
+56143,Shakib Al Hasan,29 Dec 2013,v Abahani Ltd,Mirpur,1,3,25,25,19,3,1,131.57,caught,2,4.0,0,24,1,6
+56143,Shakib Al Hasan,31 Dec 2013,v UCB-BCB XI,Mirpur,1,4,14,23,14,1,0,100,caught,2,4.0,0,27,1,6.75
+56143,Shakib Al Hasan,5 Jan 2014,v Sixers,Adelaide,1,6,46,-,30,3,2,153.33,caught,2,4.0,0,21,2,5.25
+56143,Shakib Al Hasan,9 Jan 2014,v Stars,Melbourne,1,6,2,7,8,0,0,25,caught,2,1.0,0,10,0,10
+56143,Shakib Al Hasan,12 Feb 2014,v Sri Lanka,Chattogram,2,4,26,22,17,2,1,152.94,bowled,1,4.0,0,27,2,6.75
+56143,Shakib Al Hasan,14 Feb 2014,v Sri Lanka,Chattogram,1,4,12,7,6,3,0,200,caught,2,2.0,0,8,1,4
+56143,Shakib Al Hasan,16 Mar 2014,v Afghanistan,Mirpur,2,3,10*,-,12,1,0,83.33,not out,1,3.1,0,8,3,2.52
+56143,Shakib Al Hasan,18 Mar 2014,v Nepal,Chattogram,2,4,37*,23,18,1,4,205.55,not out,1,4.0,0,22,0,5.5
+56143,Shakib Al Hasan,20 Mar 2014,v Hong Kong,Chattogram,1,4,34,42,27,6,0,125.92,caught,2,4.0,0,9,3,2.25
+56143,Shakib Al Hasan,25 Mar 2014,v West Indies,Mirpur,2,4,0,1,1,0,0,0,bowled,1,3.0,0,21,1,7
+56143,Shakib Al Hasan,28 Mar 2014,v India,Mirpur,1,4,1,3,2,0,0,50,bowled,2,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,30 Mar 2014,v Pakistan,Mirpur,2,3,38,44,32,2,2,118.75,caught,1,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,1 Apr 2014,v Australia,Mirpur,1,3,66,72,52,5,3,126.92,caught,2,3.0,0,36,0,12
+56143,Shakib Al Hasan,16 Apr 2014,v MI,Abu Dhabi,1,6,1,4,2,0,0,50,caught,2,4.0,0,29,1,7.25
+56143,Shakib Al Hasan,19 Apr 2014,v Daredevils,Dubai (DICS),1,5,30*,43,22,2,1,136.36,not out,2,3.0,0,25,0,8.33
+56143,Shakib Al Hasan,29 Apr 2014,v RR,Abu Dhabi,2,6,29*,41,18,3,0,161.11,not out,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,2 May 2014,v CSK,Ranchi,2,5,0,-,1,0,0,0,caught,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,5 May 2014,v RR,Ahmedabad,2,5,21*,37,14,1,1,150,not out,1,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,7 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+56143,Shakib Al Hasan,14 May 2014,v MI,Cuttack,2,5,9,13,8,1,0,112.5,caught,1,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,18 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,2,7.33
+56143,Shakib Al Hasan,20 May 2014,v CSK,Eden Gardens,2,4,46*,25,21,6,2,219.04,not out,1,4.0,0,30,0,7.5
+56143,Shakib Al Hasan,22 May 2014,v RCB,Eden Gardens,1,5,60,53,38,5,3,157.89,bowled,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,24 May 2014,v SRH,Eden Gardens,2,6,1,11,5,0,0,20,caught,1,4.0,1,25,1,6.25
+56143,Shakib Al Hasan,27 May 2014,v Kings XI,Eden Gardens,1,4,18,30,16,2,0,112.5,caught,2,4.0,0,43,1,10.75
+56143,Shakib Al Hasan,1 Jun 2014,v Kings XI,Bengaluru,2,5,12,10,7,2,0,171.42,run out,1,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,7 Jan 2015,v Hurricanes,Hobart,1,5,14,19,12,2,0,116.66,caught,2,4.0,0,33,2,8.25
+56143,Shakib Al Hasan,10 Jan 2015,v Stars,Melbourne,1,6,1,8,5,0,0,20,caught,2,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,13 Jan 2015,v Heat,Melbourne (Docklands),2,6,2,5,3,0,0,66.66,caught,1,4.0,0,13,4,3.25
+56143,Shakib Al Hasan,19 Jan 2015,v Strikers,Melbourne (Docklands),2,6,22,13,16,1,1,137.5,caught,1,4.0,0,28,0,7
+56143,Shakib Al Hasan,8 Apr 2015,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+56143,Shakib Al Hasan,11 Apr 2015,v RCB,Eden Gardens,1,7,0,4,1,0,0,0,run out,2,2.0,0,17,1,8.5
+56143,Shakib Al Hasan,24 Apr 2015,v Pakistan,Mirpur,2,3,57*,67,41,9,0,139.02,not out,1,4.0,0,17,0,4.25
+56143,Shakib Al Hasan,14 May 2015,v MI,Wankhede,2,5,23,18,15,3,0,153.33,caught,1,4.0,0,22,2,5.5
+56143,Shakib Al Hasan,16 May 2015,v RR,Brabourne,2,7,13,35,11,2,0,118.18,caught,1,4.0,0,36,0,9
+56143,Shakib Al Hasan,5 Jul 2015,v South Africa,Mirpur,2,3,26,55,30,1,1,86.66,caught,1,4.0,0,24,1,6
+56143,Shakib Al Hasan,7 Jul 2015,v South Africa,Mirpur,2,3,8,18,14,0,0,57.14,caught,1,4.0,0,37,0,9.25
+56143,Shakib Al Hasan,22 Nov 2015,v Chattogram,Mirpur,2,5,1,5,6,0,0,16.66,caught,1,2.0,0,22,0,11
+56143,Shakib Al Hasan,23 Nov 2015,v Bulls,Mirpur,2,3,6,15,12,0,0,50,caught,1,4.0,0,23,3,5.75
+56143,Shakib Al Hasan,25 Nov 2015,v Dynamites,Mirpur,1,6,24*,26,15,3,0,160,not out,2,4.0,0,16,4,4
+56143,Shakib Al Hasan,26 Nov 2015,v Super Stars,Mirpur,1,3,33,71,37,2,1,89.18,caught,2,4.0,0,31,3,7.75
+56143,Shakib Al Hasan,1 Dec 2015,v Chattogram,Chattogram,2,3,1*,7,2,0,0,50,not out,1,4.0,1,16,2,4
+56143,Shakib Al Hasan,3 Dec 2015,v Bulls,Chattogram,1,3,1,4,3,0,0,33.33,caught,2,3.0,1,12,1,4
+56143,Shakib Al Hasan,6 Dec 2015,v Dynamites,Mirpur,2,4,8,12,6,1,0,133.33,caught,1,4.0,0,16,1,4
+56143,Shakib Al Hasan,7 Dec 2015,v Super Stars,Mirpur,2,3,29*,38,24,4,0,120.83,not out,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,8 Dec 2015,v Victorians,Mirpur,1,4,20,24,15,2,0,133.33,caught,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,12 Dec 2015,v Victorians,Mirpur,2,5,0,1,1,0,0,0,caught,1,4.0,0,42,0,10.5
+56143,Shakib Al Hasan,13 Dec 2015,v Bulls,Mirpur,1,4,13,25,10,0,1,130,bowled,2,4.0,0,29,1,7.25
+56143,Shakib Al Hasan,15 Jan 2016,v Zimbabwe,Khulna,2,6,20*,-,13,2,0,153.84,not out,1,4.0,0,45,1,11.25
+56143,Shakib Al Hasan,17 Jan 2016,v Zimbabwe,Khulna,1,6,27*,19,17,2,1,158.82,not out,2,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,20 Jan 2016,v Zimbabwe,Khulna,2,5,3,11,10,0,0,30,caught,1,4.0,0,32,3,8
+56143,Shakib Al Hasan,22 Jan 2016,v Zimbabwe,Khulna,2,5,4,2,3,1,0,133.33,bowled,1,4.0,0,35,1,8.75
+56143,Shakib Al Hasan,5 Feb 2016,v Qalandars,Dubai (DICS),2,4,51,-,35,3,3,145.71,caught,1,4.0,0,26,1,6.5
+56143,Shakib Al Hasan,6 Feb 2016,v Gladiators,Dubai (DICS),1,4,17,-,13,1,0,130.76,bowled,2,4.0,0,43,1,10.75
+56143,Shakib Al Hasan,7 Feb 2016,v United,Dubai (DICS),2,5,20,-,22,1,0,90.9,caught,1,2.0,0,11,0,5.5
+56143,Shakib Al Hasan,11 Feb 2016,v Zalmi,Sharjah,2,6,1,-,4,0,0,25,caught,1,2.0,0,26,0,13
+56143,Shakib Al Hasan,12 Feb 2016,v Qalandars,Sharjah,1,5,9,-,9,0,0,100,caught,2,DNB,-,-,-,-
+56143,Shakib Al Hasan,13 Feb 2016,v Gladiators,Sharjah,1,4,10,-,19,0,0,52.63,caught,2,4.0,0,34,1,8.5
+56143,Shakib Al Hasan,14 Feb 2016,v United,Sharjah,1,7,7*,-,6,1,0,116.66,not out,2,2.0,0,14,0,7
+56143,Shakib Al Hasan,17 Feb 2016,v Zalmi,Dubai (DICS),1,6,11,-,12,0,0,91.66,caught,2,3.0,0,13,0,4.33
+56143,Shakib Al Hasan,24 Feb 2016,v India,Mirpur,2,5,3,12,8,0,0,37.5,run out,1,3.0,0,15,1,5
+56143,Shakib Al Hasan,26 Feb 2016,v U.A.E.,Mirpur,1,5,13,24,13,1,0,100,bowled,2,3.4,0,20,2,5.45
+56143,Shakib Al Hasan,28 Feb 2016,v Sri Lanka,Mirpur,1,5,32,52,34,3,0,94.11,caught,2,4.0,0,21,2,5.25
+56143,Shakib Al Hasan,2 Mar 2016,v Pakistan,Mirpur,2,5,8,23,13,0,0,61.53,bowled,1,4.0,0,26,0,6.5
+56143,Shakib Al Hasan,6 Mar 2016,v India,Mirpur,1,4,21,18,16,3,0,131.25,caught,2,2.0,0,26,0,13
+56143,Shakib Al Hasan,9 Mar 2016,v Netherlands,Dharamsala,1,4,5,9,7,0,0,71.42,caught,2,4.0,0,29,2,7.25
+56143,Shakib Al Hasan,11 Mar 2016,v Ireland,Dharamsala,1,4,0*,1,0,0,0,-,not out,-,TDNB,-,-,-,-
+56143,Shakib Al Hasan,13 Mar 2016,v Oman,Dharamsala,1,4,17*,18,9,2,1,188.88,not out,2,3.0,0,15,4,5
+56143,Shakib Al Hasan,16 Mar 2016,v Pakistan,Eden Gardens,2,4,50*,65,40,5,1,125,not out,1,4.0,0,39,0,9.75
+56143,Shakib Al Hasan,21 Mar 2016,v Australia,Bengaluru,1,4,33,44,25,3,1,132,caught,2,4.0,0,27,3,6.75
+56143,Shakib Al Hasan,23 Mar 2016,v India,Bengaluru,2,4,22,24,15,0,2,146.66,caught,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,26 Mar 2016,v New Zealand,Eden Gardens,2,4,2,6,6,0,0,33.33,caught,1,4.0,0,33,0,8.25
+56143,Shakib Al Hasan,16 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+56143,Shakib Al Hasan,19 Apr 2016,v Kings XI,Mohali,2,4,11,23,15,1,0,73.33,caught,1,4.0,0,28,0,7
+56143,Shakib Al Hasan,24 Apr 2016,v Supergiants,Pune,2,4,3,19,9,0,0,33.33,bowled,1,3.0,0,14,1,4.66
+56143,Shakib Al Hasan,28 Apr 2016,v MI,Wankhede,1,3,6,4,4,1,0,150,caught,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,4 May 2016,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+56143,Shakib Al Hasan,8 May 2016,v Guj Lions,Eden Gardens,1,5,66*,82,49,4,4,134.69,not out,2,3.0,0,38,1,12.66
+56143,Shakib Al Hasan,14 May 2016,v Supergiants,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+56143,Shakib Al Hasan,16 May 2016,v RCB,Eden Gardens,1,7,18*,27,11,1,1,163.63,not out,2,4.0,0,39,0,9.75
+56143,Shakib Al Hasan,19 May 2016,v Guj Lions,Kanpur,1,6,3,7,8,0,0,37.5,caught,2,DNB,-,-,-,-
+56143,Shakib Al Hasan,22 May 2016,v SRH,Eden Gardens,1,7,7,13,10,0,0,70,caught,2,4.0,0,34,1,8.5
+56143,Shakib Al Hasan,2 Jul 2016,v Patriots,Basseterre,1,5,7,-,15,0,0,46.66,caught,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,4 Jul 2016,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+56143,Shakib Al Hasan,7 Jul 2016,v Amazon,Providence,1,5,25,-,23,0,1,108.69,caught,2,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,11 Jul 2016,v Tridents,Bridgetown,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+56143,Shakib Al Hasan,15 Jul 2016,v Amazon,Kingston,2,5,54*,-,47,7,0,114.89,not out,1,2.0,0,20,1,10
+56143,Shakib Al Hasan,16 Jul 2016,v Patriots,Kingston,1,6,34*,-,17,5,1,200,not out,2,2.0,0,2,2,1
+56143,Shakib Al Hasan,18 Jul 2016,v Trinbago,Kingston,1,5,10,-,13,0,1,76.92,caught,2,3.0,0,28,1,9.33
+56143,Shakib Al Hasan,20 Jul 2016,v Tridents,Kingston,1,6,0,-,1,0,0,0,run out,2,DNB,-,-,-,-
+56143,Shakib Al Hasan,30 Jul 2016,v Zouks,Lauderhill,2,8,0,-,1,0,0,0,bowled,1,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,31 Jul 2016,v Zouks,Lauderhill,2,8,9*,-,9,1,0,100,not out,1,3.0,0,21,0,7
+56143,Shakib Al Hasan,3 Aug 2016,v Amazon,Basseterre,1,6,2,-,4,0,0,50,caught,2,4.0,0,20,0,5
+56143,Shakib Al Hasan,5 Aug 2016,v Trinbago,Basseterre,1,5,19,-,23,1,0,82.6,bowled,2,2.0,0,23,3,11.5
+56143,Shakib Al Hasan,7 Aug 2016,v Amazon,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,8 Nov 2016,v Bulls,Mirpur,2,3,20,25,23,2,0,86.95,bowled,1,3.0,0,23,1,7.66
+56143,Shakib Al Hasan,11 Nov 2016,v Kings,Mirpur,1,4,0,4,1,0,0,0,stumped,2,4.0,0,18,1,4.5
+56143,Shakib Al Hasan,12 Nov 2016,v Rangpur,Mirpur,1,5,10,26,11,1,0,90.9,caught,2,4.0,0,17,2,4.25
+56143,Shakib Al Hasan,14 Nov 2016,v Victorians,Mirpur,1,5,24,19,13,1,2,184.61,caught,2,3.0,0,34,0,11.33
+56143,Shakib Al Hasan,17 Nov 2016,v Chattogram,Chattogram,1,5,13,9,7,2,0,185.71,bowled,2,2.0,0,9,0,4.5
+56143,Shakib Al Hasan,19 Nov 2016,v Khulna,Chattogram,2,6,8,21,13,0,0,61.53,bowled,1,3.0,0,17,0,5.66
+56143,Shakib Al Hasan,21 Nov 2016,v Kings,Chattogram,1,6,18*,19,12,3,0,150,not out,2,4.0,0,36,1,9
+56143,Shakib Al Hasan,26 Nov 2016,v Victorians,Mirpur,1,4,41*,48,26,4,1,157.69,not out,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,27 Nov 2016,v Bulls,Mirpur,2,3,22,37,21,2,0,104.76,caught,1,4.0,0,31,1,7.75
+56143,Shakib Al Hasan,30 Nov 2016,v Rangpur,Mirpur,1,5,29,32,20,3,1,145,bowled,2,4.0,0,11,2,2.75
+56143,Shakib Al Hasan,2 Dec 2016,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+56143,Shakib Al Hasan,4 Dec 2016,v Khulna,Mirpur,1,4,11,14,7,1,0,157.14,caught,2,4.0,0,40,1,10
+56143,Shakib Al Hasan,6 Dec 2016,v Khulna,Mirpur,1,5,18,33,18,2,0,100,caught,2,3.0,0,22,1,7.33
+56143,Shakib Al Hasan,9 Dec 2016,v Kings,Mirpur,1,8,12,10,7,2,0,171.42,bowled,2,4.0,0,30,2,7.5
+56143,Shakib Al Hasan,3 Jan 2017,v New Zealand,Napier,1,4,14,27,14,0,0,100,caught,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,6 Jan 2017,v New Zealand,Mount Maunganui,2,4,1,4,2,0,0,50,caught,1,4.0,0,32,1,8
+56143,Shakib Al Hasan,8 Jan 2017,v New Zealand,Mount Maunganui,2,4,41,43,34,4,0,120.58,caught,1,4.0,0,22,0,5.5
+56143,Shakib Al Hasan,17 Feb 2017,v Gladiators,Sharjah,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+56143,Shakib Al Hasan,18 Feb 2017,v United,Sharjah,1,6,5,-,7,0,0,71.42,caught,2,4.0,0,24,1,6
+56143,Shakib Al Hasan,19 Feb 2017,v Kings,Sharjah,2,5,18,-,16,3,0,112.5,caught,1,2.0,0,14,1,7
+56143,Shakib Al Hasan,24 Feb 2017,v Qalandars,Dubai (DICS),1,5,30,-,24,2,1,125,caught,2,2.0,1,14,2,7
+56143,Shakib Al Hasan,25 Feb 2017,v Gladiators,Dubai (DICS),2,5,1,-,1,0,0,100,run out,1,4.0,1,25,1,6.25
+56143,Shakib Al Hasan,4 Apr 2017,v Sri Lanka,Colombo (RPS),1,5,11,-,15,0,0,73.33,caught,2,3.0,0,29,0,9.66
+56143,Shakib Al Hasan,6 Apr 2017,v Sri Lanka,Colombo (RPS),1,4,38,-,31,4,0,122.58,bowled,2,4.0,0,24,3,6
+56143,Shakib Al Hasan,21 Apr 2017,v Guj Lions,Eden Gardens,1,7,1*,2,1,0,0,100,not out,2,3.0,0,31,0,10.33
+56143,Shakib Al Hasan,5 Aug 2017,v Tridents,Lauderhill,2,4,1,-,3,0,0,33.33,bowled,1,4.0,0,26,1,6.5
+56143,Shakib Al Hasan,6 Aug 2017,v Tridents,Lauderhill,1,6,44*,-,32,5,1,137.5,not out,2,4.0,0,28,1,7
+56143,Shakib Al Hasan,9 Aug 2017,v Trinbago,Port of Spain,2,5,16,-,22,0,0,72.72,caught,1,1.0,0,12,0,12
+56143,Shakib Al Hasan,26 Oct 2017,v South Africa,Bloemfontein,2,3,13,14,8,3,0,162.5,caught,1,3.0,0,28,1,9.33
+56143,Shakib Al Hasan,29 Oct 2017,v South Africa,Potchefstroom,2,3,2,6,4,0,0,50,bowled,1,4.0,0,22,2,5.5
+56143,Shakib Al Hasan,4 Nov 2017,v Sylhet,Sylhet,1,5,23,-,21,1,0,109.52,caught,2,4.0,0,23,0,5.75
+56143,Shakib Al Hasan,5 Nov 2017,v Khulna,Sylhet,1,5,1,-,4,0,0,25,caught,2,2.0,0,25,2,12.5
+56143,Shakib Al Hasan,11 Nov 2017,v Sylhet,Mirpur,2,4,18*,-,11,2,1,163.63,not out,1,2.0,0,10,0,5
+56143,Shakib Al Hasan,14 Nov 2017,v Khulna,Mirpur,2,5,20,-,17,3,0,117.64,caught,1,3.0,0,32,1,10.66
+56143,Shakib Al Hasan,18 Nov 2017,v Kings,Mirpur,1,6,11,-,11,0,1,100,caught,2,4.0,0,22,2,5.5
+56143,Shakib Al Hasan,20 Nov 2017,v Victorians,Mirpur,1,6,3,-,8,0,0,37.5,bowled,2,4.0,0,23,0,5.75
+56143,Shakib Al Hasan,21 Nov 2017,v Rangpur,Mirpur,2,3,11,-,11,1,0,100,bowled,1,3.5,0,16,5,4.17
+56143,Shakib Al Hasan,27 Nov 2017,v Chattogram,Chattogram,2,4,22*,-,17,3,0,129.41,not out,1,4.0,0,51,1,12.75
+56143,Shakib Al Hasan,29 Nov 2017,v Victorians,Chattogram,2,4,7,-,8,0,0,87.5,caught,1,4.0,0,23,2,5.75
+56143,Shakib Al Hasan,2 Dec 2017,v Kings,Mirpur,1,6,13*,-,6,1,1,216.66,not out,2,4.0,1,8,4,2
+56143,Shakib Al Hasan,6 Dec 2017,v Rangpur,Mirpur,1,7,47*,-,33,2,2,142.42,not out,2,4.0,1,13,2,3.25
+56143,Shakib Al Hasan,8 Dec 2017,v Victorians,Mirpur,1,5,9,-,8,0,1,112.5,caught,2,3.0,0,19,2,6.33
+56143,Shakib Al Hasan,12 Dec 2017,v Rangpur,Mirpur,2,4,26,-,16,3,1,162.5,bowled,1,3.0,1,26,1,8.66
+56143,Shakib Al Hasan,16 Mar 2018,v Sri Lanka,Colombo (RPS),2,7,7,-,9,0,0,77.77,caught,1,2.0,0,9,1,4.5
+56143,Shakib Al Hasan,18 Mar 2018,v India,Colombo (RPS),1,7,7,-,7,1,0,100,run out,2,4.0,0,28,1,7
+56143,Shakib Al Hasan,9 Apr 2018,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+56143,Shakib Al Hasan,12 Apr 2018,v MI,Hyderabad,2,5,12,-,12,1,0,100,bowled,1,4.0,0,34,1,8.5
+56143,Shakib Al Hasan,14 Apr 2018,v KKR,Eden Gardens,2,5,27,-,21,2,1,128.57,bowled,1,4.0,0,21,2,5.25
+56143,Shakib Al Hasan,19 Apr 2018,v Kings XI,Mohali,2,7,24*,-,12,1,2,200,not out,1,2.0,0,28,0,14
+56143,Shakib Al Hasan,22 Apr 2018,v CSK,Hyderabad,2,5,24,-,19,2,1,126.31,caught,1,4.0,0,32,0,8
+56143,Shakib Al Hasan,24 Apr 2018,v MI,Wankhede,1,5,2,-,4,0,0,50,run out,2,3.0,0,16,1,5.33
+56143,Shakib Al Hasan,26 Apr 2018,v Kings XI,Hyderabad,1,5,28,-,29,3,0,96.55,caught,2,3.0,0,18,2,6
+56143,Shakib Al Hasan,29 Apr 2018,v RR,Jaipur,1,5,6,-,6,1,0,100,bowled,2,4.0,0,30,0,7.5
+56143,Shakib Al Hasan,5 May 2018,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+56143,Shakib Al Hasan,7 May 2018,v RCB,Hyderabad,1,5,35,-,32,5,0,109.37,caught,2,4.0,0,36,2,9
+56143,Shakib Al Hasan,10 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+56143,Shakib Al Hasan,13 May 2018,v CSK,Pune,1,6,8*,-,6,1,0,133.33,not out,2,4.0,0,41,0,10.25
+56143,Shakib Al Hasan,17 May 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+56143,Shakib Al Hasan,19 May 2018,v KKR,Hyderabad,1,7,10,-,7,2,0,142.85,caught,2,3.0,0,30,1,10
+56143,Shakib Al Hasan,22 May 2018,v CSK,Wankhede,1,5,12,-,10,2,0,120,caught,2,2.0,0,20,0,10
+56143,Shakib Al Hasan,25 May 2018,v KKR,Eden Gardens,1,4,28,-,24,4,0,116.66,run out,2,3.0,0,16,1,5.33
+56143,Shakib Al Hasan,27 May 2018,v CSK,Wankhede,1,4,23,-,15,2,1,153.33,caught,2,1.0,0,15,0,15
+56143,Shakib Al Hasan,3 Jun 2018,v Afghanistan,Dehradun,2,3,15,14,15,2,0,100,caught,1,4.0,0,19,1,4.75
+56143,Shakib Al Hasan,5 Jun 2018,v Afghanistan,Dehradun,1,6,3,-,7,0,0,42.85,caught,2,4.0,0,37,0,9.25
+56143,Shakib Al Hasan,7 Jun 2018,v Afghanistan,Dehradun,2,5,10,-,9,0,1,111.11,caught,1,4.0,0,16,1,4
+56143,Shakib Al Hasan,31 Jul 2018,v West Indies,Basseterre,1,4,19,-,10,4,0,190,caught,2,2.1,0,27,0,12.46
+56143,Shakib Al Hasan,4 Aug 2018,v West Indies,Lauderhill,1,5,60,-,38,9,1,157.89,caught,2,4.0,0,19,2,4.75
+56143,Shakib Al Hasan,5 Aug 2018,v West Indies,Lauderhill,1,5,24,-,22,2,0,109.09,caught,2,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,17 Dec 2018,v West Indies,Sylhet,1,4,61,-,43,8,2,141.86,caught,2,3.5,0,32,0,8.34
+56143,Shakib Al Hasan,20 Dec 2018,v West Indies,Mirpur,1,4,42*,-,26,5,1,161.53,not out,2,4.0,0,20,5,5
+56143,Shakib Al Hasan,22 Dec 2018,v West Indies,Mirpur,2,4,0,-,1,0,0,0,caught,1,4.0,0,37,3,9.25
+56143,Shakib Al Hasan,5 Jan 2019,v Kings,Mirpur,1,4,2,-,7,0,0,28.57,caught,2,2.0,0,11,1,5.5
+56143,Shakib Al Hasan,8 Jan 2019,v Khulna,Mirpur,1,4,0,-,1,0,0,0,caught,2,3.0,0,18,3,6
+56143,Shakib Al Hasan,11 Jan 2019,v Rangpur,Mirpur,1,4,36,-,37,4,0,97.29,caught,2,4.0,0,35,1,8.75
+56143,Shakib Al Hasan,12 Jan 2019,v Sylhet,Mirpur,1,4,23,-,17,3,0,135.29,caught,2,4.0,0,34,2,8.5
+56143,Shakib Al Hasan,16 Jan 2019,v Kings,Sylhet,2,5,13,-,18,1,0,72.22,caught,1,4.0,0,29,1,7.25
+56143,Shakib Al Hasan,18 Jan 2019,v Sylhet,Sylhet,2,4,61*,-,41,8,2,148.78,not out,1,4.0,0,34,2,8.5
+56143,Shakib Al Hasan,21 Jan 2019,v Chattogram,Mirpur,1,4,34,-,34,2,1,100,caught,2,4.0,1,16,4,4
+56143,Shakib Al Hasan,22 Jan 2019,v Victorians,Mirpur,2,5,20,-,19,1,0,105.26,caught,1,4.0,0,24,3,6
+56143,Shakib Al Hasan,28 Jan 2019,v Rangpur,Chattogram,1,4,25,-,12,4,0,208.33,bowled,2,4.0,0,41,0,10.25
+56143,Shakib Al Hasan,30 Jan 2019,v Chattogram,Chattogram,2,4,53,-,42,6,0,126.19,caught,1,3.0,0,24,0,8
+56143,Shakib Al Hasan,1 Feb 2019,v Victorians,Mirpur,2,4,7,-,6,0,1,116.66,bowled,1,4.0,0,23,2,5.75
+56143,Shakib Al Hasan,2 Feb 2019,v Khulna,Mirpur,2,3,1,-,6,0,0,16.66,caught,1,4.0,0,32,2,8
+56143,Shakib Al Hasan,4 Feb 2019,v Chattogram,Mirpur,2,4,0,-,1,0,0,0,caught,1,4.0,0,11,0,2.75
+56143,Shakib Al Hasan,6 Feb 2019,v Rangpur,Mirpur,2,4,23,-,20,2,1,115,bowled,1,4.0,1,29,1,7.25
+56143,Shakib Al Hasan,8 Feb 2019,v Victorians,Mirpur,2,4,3,-,5,0,0,60,caught,1,4.0,0,45,1,11.25
+56143,Shakib Al Hasan,24 Mar 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.4,0,42,1,11.45
+56143,Shakib Al Hasan,23 Apr 2019,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,27 Apr 2019,v RR,Jaipur,1,5,9,19,10,0,0,90,caught,2,3.1,0,26,1,8.21
+56143,Shakib Al Hasan,13 Sep 2019,v Zimbabwe,Mirpur,2,3,1,-,3,0,0,33.33,caught,1,4.0,0,49,0,12.25
+56143,Shakib Al Hasan,15 Sep 2019,v Afghanistan,Mirpur,2,3,15,-,13,2,0,115.38,caught,1,4.0,1,18,2,4.5
+56143,Shakib Al Hasan,18 Sep 2019,v Zimbabwe,Chattogram,1,3,10,-,9,1,0,111.11,caught,2,4.0,0,28,1,7
+56143,Shakib Al Hasan,21 Sep 2019,v Afghanistan,Chattogram,2,3,70*,-,45,8,1,155.55,not out,1,4.0,0,24,1,6
+56143,Shakib Al Hasan,28 Sep 2019,v Patriots,Bridgetown,2,3,38,-,25,3,1,152,caught,1,4.0,1,14,1,3.5
+56143,Shakib Al Hasan,29 Sep 2019,v Zouks,Bridgetown,1,3,22,-,21,2,0,104.76,caught,2,4.0,0,20,1,5
+56143,Shakib Al Hasan,2 Oct 2019,v Trinbago,Port of Spain,2,3,13,-,14,0,0,92.85,caught,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,6 Oct 2019,v Amazon,Providence,2,3,5,-,9,0,0,55.55,caught,1,4.0,0,46,0,11.5
+56143,Shakib Al Hasan,10 Oct 2019,v Trinbago,Tarouba,1,3,18,-,12,1,1,150,caught,2,2.0,0,27,0,13.5
+56143,Shakib Al Hasan,12 Oct 2019,v Amazon,Tarouba,1,5,15,-,15,1,0,100,run out,2,2.0,0,18,0,9
+56143,Shakib Al Hasan,24 Nov 2020,v Barishal,Mirpur,2,3,15,26,13,2,0,115.38,caught,1,3.0,0,18,1,6
+56143,Shakib Al Hasan,26 Nov 2020,v Rajshahi,Mirpur,1,3,12,9,9,2,0,133.33,caught,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,28 Nov 2020,v Chattogram,Mirpur,1,2,3,16,7,0,0,42.85,caught,2,4.0,1,14,0,3.5
+56143,Shakib Al Hasan,30 Nov 2020,v Dhaka,Mirpur,1,2,11,17,9,2,0,122.22,bowled,2,4.0,2,8,1,2
+56143,Shakib Al Hasan,4 Dec 2020,v Barishal,Mirpur,1,4,14,13,10,2,0,140,caught,2,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,6 Dec 2020,v Rajshahi,Mirpur,2,4,4,15,5,0,0,80,bowled,1,4.0,0,17,0,4.25
+56143,Shakib Al Hasan,8 Dec 2020,v Chattogram,Mirpur,1,3,15,27,16,0,1,93.75,caught,2,4.0,0,30,2,7.5
+56143,Shakib Al Hasan,10 Dec 2020,v Dhaka,Mirpur,2,3,8,10,7,1,0,114.28,caught,1,3.0,0,36,0,12
+56143,Shakib Al Hasan,14 Dec 2020,v Chattogram,Mirpur,1,4,28,38,15,2,2,186.66,bowled,2,4.0,0,32,1,8
+56143,Shakib Al Hasan,11 Apr 2021,v SRH,Chennai,1,7,3,13,5,0,0,60,caught,2,4.0,0,34,1,8.5
+56143,Shakib Al Hasan,13 Apr 2021,v MI,Chennai,2,5,9,15,9,1,0,100,caught,1,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,18 Apr 2021,v RCB,Chennai,2,6,26,37,25,1,1,104,bowled,1,2.0,0,24,0,12
+56143,Shakib Al Hasan,31 May 2021,v Shinepukur,Savar (4),2,4,29,37,22,2,1,131.81,caught,1,4.0,0,29,2,7.25
+56143,Shakib Al Hasan,3 Jun 2021,v PSC,Mirpur,2,3,0,1,1,0,0,0,bowled,1,4.0,1,31,1,7.75
+56143,Shakib Al Hasan,5 Jun 2021,v Prime Bank,Mirpur,1,4,20,19,15,2,0,133.33,bowled,2,4.0,0,16,2,4
+56143,Shakib Al Hasan,7 Jun 2021,v Sheikh Jamal,Mirpur,2,3,2,7,9,0,0,22.22,bowled,1,4.0,0,12,2,3
+56143,Shakib Al Hasan,8 Jun 2021,v Prime DSC,Savar (4),2,3,22,28,14,2,1,157.14,caught,1,2.0,0,27,1,13.5
+56143,Shakib Al Hasan,10 Jun 2021,v L Rupganj,Mirpur,1,4,0,5,6,0,0,0,caught,2,3.1,0,17,0,5.36
+56143,Shakib Al Hasan,11 Jun 2021,v Abahani Ltd,Mirpur,1,4,37,37,27,1,2,137.03,caught,2,1.0,0,10,0,10
+56143,Shakib Al Hasan,17 Jun 2021,v Gazi Group,Mirpur,1,3,10,21,16,0,0,62.5,caught,2,3.0,0,24,1,8
+56143,Shakib Al Hasan,22 Jul 2021,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+56143,Shakib Al Hasan,23 Jul 2021,v Zimbabwe,Harare,2,4,12,19,10,2,0,120,caught,1,4.0,0,32,1,8
+56143,Shakib Al Hasan,25 Jul 2021,v Zimbabwe,Harare,2,3,25,30,13,1,2,192.3,caught,1,4.0,0,24,1,6
+56143,Shakib Al Hasan,3 Aug 2021,v Australia,Mirpur,1,3,36,63,33,3,0,109.09,bowled,2,4.0,0,24,1,6
+56143,Shakib Al Hasan,4 Aug 2021,v Australia,Mirpur,2,3,26,30,17,4,0,152.94,bowled,1,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,6 Aug 2021,v Australia,Mirpur,1,3,26,29,17,4,0,152.94,caught,2,4.0,0,22,1,5.5
+56143,Shakib Al Hasan,7 Aug 2021,v Australia,Mirpur,1,3,15,23,26,1,0,57.69,caught,2,4.0,0,50,0,12.5
+56143,Shakib Al Hasan,9 Aug 2021,v Australia,Mirpur,1,3,11,24,20,0,0,55,lbw,2,3.4,1,9,4,2.45
+56143,Shakib Al Hasan,1 Sep 2021,v New Zealand,Mirpur,2,3,25,32,33,2,0,75.75,caught,1,4.0,0,10,2,2.5
+56143,Shakib Al Hasan,3 Sep 2021,v New Zealand,Mirpur,1,4,12,6,7,2,0,171.42,caught,2,4.0,0,29,2,7.25
+56143,Shakib Al Hasan,5 Sep 2021,v New Zealand,Mirpur,2,4,0,2,2,0,0,0,caught,1,4.0,0,24,0,6
+56143,Shakib Al Hasan,8 Sep 2021,v New Zealand,Mirpur,2,3,8,14,8,1,0,100,stumped,1,4.0,0,25,0,6.25
+56143,Shakib Al Hasan,3 Oct 2021,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+56143,Shakib Al Hasan,7 Oct 2021,v RR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,1.0,0,1,1,1
+56143,Shakib Al Hasan,11 Oct 2021,v RCB,Sharjah,2,8,9*,10,6,1,0,150,not out,1,4.0,0,24,0,6
+56143,Shakib Al Hasan,13 Oct 2021,v DC,Sharjah,2,7,0,5,2,0,0,0,lbw,1,4.0,0,28,0,7
+56143,Shakib Al Hasan,15 Oct 2021,v CSK,Dubai (DICS),2,7,0,7,1,0,0,0,lbw,1,3.0,0,33,0,11
+56143,Shakib Al Hasan,17 Oct 2021,v Scotland,Al Amerat,2,3,20,53,28,1,0,71.42,caught,1,4.0,0,17,2,4.25
+56143,Shakib Al Hasan,19 Oct 2021,v Oman,Al Amerat,1,4,42,47,29,6,0,144.82,run out,2,4.0,0,28,3,7
+56143,Shakib Al Hasan,21 Oct 2021,v P.N.G.,Al Amerat,1,3,46,67,37,0,3,124.32,caught,2,4.0,0,9,4,2.25
+56143,Shakib Al Hasan,24 Oct 2021,v Sri Lanka,Sharjah,1,3,10,10,7,2,0,142.85,bowled,2,3.0,0,17,2,5.66
+56143,Shakib Al Hasan,27 Oct 2021,v England,Abu Dhabi,1,3,4,16,7,0,0,57.14,caught,2,3.0,0,24,0,8
+56143,Shakib Al Hasan,29 Oct 2021,v West Indies,Sharjah,2,2,9,21,12,1,0,75,caught,1,4.0,0,28,0,7
+56143,Shakib Al Hasan,21 Jan 2022,v Chattogram,Mirpur,2,3,13,14,16,2,0,81.25,bowled,1,4.0,0,9,1,2.25
+56143,Shakib Al Hasan,24 Jan 2022,v Dhaka,Mirpur,1,3,23,34,19,2,1,121.05,caught,2,3.3,0,21,1,6
+56143,Shakib Al Hasan,25 Jan 2022,v Victorians,Mirpur,2,3,1,7,4,0,0,25,caught,1,4.0,0,25,2,6.25
+56143,Shakib Al Hasan,29 Jan 2022,v Khulna,Chattogram,1,7,9,7,6,2,0,150,caught,2,4.0,0,24,1,6
+56143,Shakib Al Hasan,31 Jan 2022,v Khulna,Chattogram,1,4,41,50,27,2,3,151.85,caught,2,4.0,0,10,2,2.5
+56143,Shakib Al Hasan,1 Feb 2022,v Chattogram,Chattogram,1,4,50,51,31,3,3,161.29,caught,2,4.0,0,23,3,5.75
+56143,Shakib Al Hasan,7 Feb 2022,v Victorians,Sylhet,1,4,50,58,37,4,2,135.13,caught,2,4.0,0,20,2,5
+56143,Shakib Al Hasan,8 Feb 2022,v Sunrisers,Sylhet,1,4,38,20,19,2,4,200,caught,2,4.0,0,23,2,5.75
+56143,Shakib Al Hasan,11 Feb 2022,v Dhaka,Mirpur,2,4,51*,39,29,6,2,175.86,not out,1,4.0,0,21,1,5.25
+56143,Shakib Al Hasan,14 Feb 2022,v Victorians,Mirpur,1,4,1,3,2,0,0,50,run out,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,18 Feb 2022,v Victorians,Mirpur,2,5,7,11,7,1,0,100,caught,1,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,3 Mar 2022,v Afghanistan,Mirpur,1,4,5,11,6,0,0,83.33,caught,2,4.0,0,18,2,4.5
+56143,Shakib Al Hasan,5 Mar 2022,v Afghanistan,Mirpur,1,4,9,24,15,0,0,60,caught,2,3.0,0,32,0,10.66
+56143,Shakib Al Hasan,2 Jul 2022,v West Indies,Roseau,1,3,29,38,15,2,2,193.33,caught,-,TDNB,-,-,-,-
+56143,Shakib Al Hasan,3 Jul 2022,v West Indies,Roseau,2,3,68*,92,52,5,3,130.76,not out,1,4.0,0,38,1,9.5
+56143,Shakib Al Hasan,7 Jul 2022,v West Indies,Providence,1,3,5,7,3,1,0,166.66,caught,2,2.0,0,10,1,5
+56143,Shakib Al Hasan,30 Aug 2022,v Afghanistan,Sharjah,1,3,11,18,9,2,0,122.22,bowled,2,4.0,0,13,1,3.25
+56143,Shakib Al Hasan,1 Sep 2022,v Sri Lanka,Dubai (DICS),1,3,24,44,22,3,0,109.09,bowled,2,4.0,0,31,0,7.75
+56143,Shakib Al Hasan,21 Sep 2022,v Tallawahs,Providence,1,4,0,4,1,0,0,0,lbw,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,22 Sep 2022,v Kings,Providence,2,4,0,2,1,0,0,0,bowled,1,4.0,0,33,2,8.25
+56143,Shakib Al Hasan,24 Sep 2022,v Trinbago,Providence,1,4,35,-,25,4,1,140,stumped,2,4.0,0,20,3,5
+56143,Shakib Al Hasan,25 Sep 2022,v Royals,Providence,2,4,53,-,30,5,3,176.66,caught,1,2.3,0,12,1,4.8
+56143,Shakib Al Hasan,27 Sep 2022,v Royals,Providence,2,4,1,-,2,0,0,50,lbw,1,3.0,0,22,1,7.33
+56143,Shakib Al Hasan,28 Sep 2022,v Tallawahs,Providence,2,4,5,-,6,0,0,83.33,bowled,1,3.0,0,30,0,10
+56143,Shakib Al Hasan,9 Oct 2022,v New Zealand,Christchurch,1,7,16,22,16,1,0,100,caught,2,3.0,0,23,0,7.66
+56143,Shakib Al Hasan,12 Oct 2022,v New Zealand,Christchurch,2,4,70,62,44,8,1,159.09,caught,1,4.0,0,40,0,10
+56143,Shakib Al Hasan,13 Oct 2022,v Pakistan,Christchurch,1,4,68,61,42,7,3,161.9,caught,2,3.0,0,28,0,9.33
+56143,Shakib Al Hasan,24 Oct 2022,v Netherlands,Hobart,1,4,7,14,9,0,0,77.77,caught,2,4.0,0,32,1,8
+56143,Shakib Al Hasan,27 Oct 2022,v South Africa,Sydney,2,4,1,11,4,0,0,25,lbw,1,3.0,0,33,2,11
+56143,Shakib Al Hasan,30 Oct 2022,v Zimbabwe,Brisbane,1,4,23,32,20,1,0,115,caught,2,4.0,0,34,0,8.5
+56143,Shakib Al Hasan,2 Nov 2022,v India,Adelaide,2,3,13,24,12,2,0,108.33,caught,1,4.0,0,33,2,8.25
+56143,Shakib Al Hasan,6 Nov 2022,v Pakistan,Adelaide,1,4,0,4,1,0,0,0,lbw,2,4.0,0,35,1,8.75
+56143,Shakib Al Hasan,7 Jan 2023,v Strikers,Mirpur,1,4,67,62,32,7,4,209.37,caught,2,4.0,0,31,0,7.75
+56143,Shakib Al Hasan,10 Jan 2023,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+56143,Shakib Al Hasan,13 Jan 2023,v Chattogram,Chattogram,1,3,8,4,3,2,0,266.66,bowled,2,4.0,0,27,1,6.75
+56143,Shakib Al Hasan,14 Jan 2023,v Victorians,Chattogram,1,4,81*,60,45,8,4,180,not out,2,3.0,0,11,1,3.66
+56143,Shakib Al Hasan,19 Jan 2023,v Rangpur,Chattogram,1,4,89*,83,43,9,6,206.97,not out,2,3.0,0,15,0,5
+56143,Shakib Al Hasan,20 Jan 2023,v Dominators,Chattogram,1,5,30,24,17,4,1,176.47,bowled,2,4.0,0,30,0,7.5
+56143,Shakib Al Hasan,24 Jan 2023,v Strikers,Mirpur,2,4,29,40,18,3,1,161.11,bowled,1,2.0,0,11,1,5.5
+56143,Shakib Al Hasan,27 Jan 2023,v Chattogram,Sylhet,2,3,2,12,6,0,0,33.33,bowled,1,3.0,0,35,0,11.66
+56143,Shakib Al Hasan,31 Jan 2023,v Dominators,Sylhet,1,3,5,4,4,0,0,125,caught,2,4.0,0,18,2,4.5
+56143,Shakib Al Hasan,3 Feb 2023,v Khulna,Mirpur,1,4,36,-,21,1,4,171.42,caught,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,7 Feb 2023,v Victorians,Mirpur,1,4,6,17,12,1,0,50,bowled,2,4.0,1,21,1,5.25
+56143,Shakib Al Hasan,10 Feb 2023,v Khulna,Mirpur,1,4,22,15,14,1,2,157.14,caught,2,4.0,0,27,0,6.75
+56143,Shakib Al Hasan,12 Feb 2023,v Rangpur,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,27,2,6.75
+56143,Shakib Al Hasan,14 Feb 2023,v Kings,Karachi,1,7,1*,2,1,0,0,100,not out,2,3.0,0,32,0,10.66
+56143,Shakib Al Hasan,9 Mar 2023,v England,Chattogram,2,5,34*,31,24,6,0,141.66,not out,1,4.0,0,26,1,6.5
+56143,Shakib Al Hasan,12 Mar 2023,v England,Mirpur,2,6,0,5,3,0,0,0,caught,1,3.0,0,13,1,4.33
+56143,Shakib Al Hasan,14 Mar 2023,v England,Mirpur,1,4,4*,18,6,0,0,66.66,not out,2,4.0,0,30,1,7.5
+56143,Shakib Al Hasan,27 Mar 2023,v Ireland,Chattogram,1,6,20*,15,13,3,0,153.84,not out,2,1.0,0,5,0,5
+56143,Shakib Al Hasan,29 Mar 2023,v Ireland,Chattogram,1,3,38*,39,24,3,2,158.33,not out,2,4.0,0,22,5,5.5
+56143,Shakib Al Hasan,31 Mar 2023,v Ireland,Chattogram,1,4,6,13,6,1,0,100,caught,2,2.0,0,15,0,7.5
+56143,Shakib Al Hasan,14 Jul 2023,v Afghanistan,Sylhet,2,4,19,24,17,3,0,111.76,caught,1,4.0,0,27,2,6.75
+56143,Shakib Al Hasan,16 Jul 2023,v Afghanistan,Sylhet,2,5,18*,28,11,1,1,163.63,not out,1,3.0,0,15,2,5
+56143,Shakib Al Hasan,31 Jul 2023,v Aura,Colombo (RPS),1,5,23,-,14,1,2,164.28,bowled,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,1 Aug 2023,v B-Love Kandy,Colombo (RPS),1,5,30,-,21,0,2,142.85,run out,2,3.0,0,10,2,3.33
+56143,Shakib Al Hasan,4 Aug 2023,v Jaffna Kings,Pallekele,1,5,6,-,9,0,0,66.66,caught,2,4.0,0,31,2,7.75
+56143,Shakib Al Hasan,7 Aug 2023,v Colombo,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+56143,Shakib Al Hasan,8 Aug 2023,v B-Love Kandy,Pallekele,2,5,11,-,12,1,0,91.66,caught,1,3.0,0,31,0,10.33
+56143,Shakib Al Hasan,11 Aug 2023,v Aura,Colombo (RPS),1,4,13,-,13,1,0,100,bowled,2,4.0,0,20,1,5
+56143,Shakib Al Hasan,13 Aug 2023,v Jaffna Kings,Colombo (RPS),2,4,2,-,4,0,0,50,caught,1,4.0,0,13,1,3.25
+56143,Shakib Al Hasan,15 Aug 2023,v Colombo,Colombo (RPS),2,4,17*,-,15,2,0,113.33,not out,1,3.4,0,8,1,2.18
+56143,Shakib Al Hasan,17 Aug 2023,v Aura,Colombo (RPS),1,4,19,-,17,3,0,111.76,caught,2,4.0,0,23,1,5.75
+56143,Shakib Al Hasan,19 Aug 2023,v B-Love Kandy,Colombo (RPS),2,4,17,-,15,2,0,113.33,caught,1,4.0,0,24,1,6
+56143,Shakib Al Hasan,20 Jan 2024,v Barishal,Mirpur,1,3,2,9,3,0,0,66.66,bowled,2,4.0,0,16,2,4
+56143,Shakib Al Hasan,26 Jan 2024,v Khulna,Sylhet,2,8,2,7,4,0,0,50,caught,1,4.0,0,21,0,5.25
+56143,Shakib Al Hasan,27 Jan 2024,v Dhaka,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+56143,Shakib Al Hasan,30 Jan 2024,v Victorians,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+56143,Shakib Al Hasan,3 Feb 2024,v Strikers,Sylhet,1,4,0,1,1,0,0,0,lbw,2,4.0,1,18,2,4.5
+56143,Shakib Al Hasan,6 Feb 2024,v Dhaka,Mirpur,1,3,34,28,20,1,3,170,caught,2,4.0,0,16,3,4
+56143,Shakib Al Hasan,10 Feb 2024,v Chattogram,Mirpur,1,3,27,27,16,3,1,168.75,caught,2,4.0,0,24,2,6
+56143,Shakib Al Hasan,13 Feb 2024,v Khulna,Chattogram,1,3,69,55,31,6,6,222.58,caught,2,3.2,0,30,2,9
+56143,Shakib Al Hasan,16 Feb 2024,v Chattogram,Chattogram,1,4,62,72,39,5,3,158.97,caught,2,4.0,0,30,0,7.5
+56143,Shakib Al Hasan,19 Feb 2024,v Barishal,Chattogram,2,3,29,25,15,4,1,193.33,caught,1,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,20 Feb 2024,v Victorians,Chattogram,1,3,24,39,19,3,0,126.31,caught,2,4.0,0,20,3,5
+56143,Shakib Al Hasan,26 Feb 2024,v Victorians,Mirpur,1,3,5,15,9,0,0,55.55,caught,2,4.0,0,21,0,5.25
+56143,Shakib Al Hasan,28 Feb 2024,v Barishal,Mirpur,1,3,1,2,4,0,0,25,caught,2,1.3,0,17,0,11.33
+56143,Shakib Al Hasan,10 May 2024,v Zimbabwe,Mirpur,1,5,1,2,3,0,0,33.33,bowled,2,3.4,0,35,4,9.54
+56143,Shakib Al Hasan,12 May 2024,v Zimbabwe,Mirpur,1,6,21,22,17,0,1,123.52,caught,2,4.0,0,9,1,2.25
+56143,Shakib Al Hasan,21 May 2024,v U.S.A.,Prairie View,1,5,6,-,12,0,0,50,run out,2,3.0,0,16,0,5.33
+56143,Shakib Al Hasan,23 May 2024,v U.S.A.,Prairie View,2,5,30,-,23,4,1,130.43,bowled,1,4.0,0,35,0,8.75
+56143,Shakib Al Hasan,25 May 2024,v U.S.A.,Prairie View,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+56143,Shakib Al Hasan,7 Jun 2024,v Sri Lanka,Dallas,2,6,8,19,14,0,0,57.14,caught,1,3.0,0,30,0,10
+56143,Shakib Al Hasan,10 Jun 2024,v South Africa,New York,2,4,3,6,4,0,0,75,caught,1,1.0,0,6,0,6
+56143,Shakib Al Hasan,13 Jun 2024,v Netherlands,Kingstown,1,4,64*,74,46,9,0,139.13,not out,2,4.0,0,29,0,7.25
+56143,Shakib Al Hasan,16 Jun 2024,v Nepal,Kingstown,1,4,17,-,22,2,0,77.27,lbw,2,2.2,0,9,2,3.85
+56143,Shakib Al Hasan,20 Jun 2024,v Australia,North Sound,1,6,8,27,10,0,0,80,caught,2,DNB,-,-,-,-
+56143,Shakib Al Hasan,22 Jun 2024,v India,North Sound,2,5,11,7,7,1,1,157.14,caught,1,3.0,0,37,1,12.33
+56143,Shakib Al Hasan,24 Jun 2024,v Afghanistan,Kingstown,2,4,0,1,1,0,0,0,caught,1,4.0,0,19,0,4.75
+56143,Shakib Al Hasan,5 Jul 2024,v Texas,Dallas,1,4,18,-,13,3,0,138.46,caught,2,3.0,0,32,1,10.66
+56143,Shakib Al Hasan,7 Jul 2024,v SF,Dallas,1,4,35,-,26,6,0,134.61,caught,2,2.0,0,27,0,13.5
+56143,Shakib Al Hasan,9 Jul 2024,v Seattle,Dallas,1,4,7,-,7,1,0,100,caught,2,2.0,0,23,0,11.5
+56143,Shakib Al Hasan,14 Jul 2024,v Washington,Morrisville,1,4,0,-,2,0,0,0,bowled,2,3.0,0,29,0,9.66
+56143,Shakib Al Hasan,18 May 2025,v Zalmi,Rawalpindi,1,7,0,-,1,0,0,0,bowled,2,2.0,0,18,0,9
+56143,Shakib Al Hasan,22 May 2025,v Kings,Lahore,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,1,4
+56143,Shakib Al Hasan,23 May 2025,v United,Lahore,1,8,0,-,2,0,0,0,caught,2,3.0,0,27,0,9
+56143,Shakib Al Hasan,10 Jul 2025,v Central D,Providence,1,5,58*,-,37,7,1,156.75,not out,2,4.0,1,13,4,3.25
+56143,Shakib Al Hasan,11 Jul 2025,v Hurricanes,Providence,1,5,7,-,10,0,1,70,caught,2,4.0,0,34,0,8.5
+56143,Shakib Al Hasan,13 Jul 2025,v Amazon,Providence,2,5,4,-,5,1,0,80,bowled,1,4.0,0,21,0,5.25
+56143,Shakib Al Hasan,16 Jul 2025,v Rangpur,Providence,2,6,3,-,7,0,0,42.85,stumped,1,4.0,0,16,1,4
+56143,Shakib Al Hasan,14 Aug 2025,v Patriots,Basseterre,1,6,11,-,16,0,0,68.75,caught,2,1.0,0,6,0,6
+56143,Shakib Al Hasan,16 Aug 2025,v Royals,North Sound,2,4,13,20,13,1,0,100,caught,1,1.0,0,14,0,14
+56143,Shakib Al Hasan,17 Aug 2025,v Kings,North Sound,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+56143,Shakib Al Hasan,20 Aug 2025,v Trinbago,North Sound,1,5,7,22,13,1,0,53.84,caught,2,1.0,0,2,1,2
+56143,Shakib Al Hasan,22 Aug 2025,v Amazon,North Sound,2,5,8,9,7,0,1,114.28,stumped,1,2.0,0,16,0,8
+56143,Shakib Al Hasan,24 Aug 2025,v Patriots,North Sound,2,4,25,21,18,1,2,138.88,stumped,1,2.0,0,11,3,5.5
+56143,Shakib Al Hasan,27 Aug 2025,v Trinbago,Tarouba,1,5,13,23,14,2,0,92.85,caught,2,4.0,0,25,1,6.25
+56143,Shakib Al Hasan,31 Aug 2025,v Kings,Gros Islet,1,4,61,34,26,5,5,234.61,caught,2,2.0,0,32,0,16
+56143,Shakib Al Hasan,5 Sep 2025,v Royals,Bridgetown,2,5,15,17,12,1,1,125,caught,1,3.0,0,33,0,11
+56143,Shakib Al Hasan,10 Sep 2025,v Amazon,Providence,2,5,1,4,2,0,0,50,lbw,1,4.0,0,28,1,7
+56143,Shakib Al Hasan,16 Sep 2025,v Trinbago,Providence,1,6,26*,17,9,4,1,288.88,not out,2,3.0,0,24,0,8
+56143,Shakib Al Hasan,7 Dec 2025,v Warriorz,Sharjah,1,5,16,18,12,2,0,133.33,retired out,2,2.0,0,27,0,13.5
+56143,Shakib Al Hasan,20 Dec 2025,v KnightRiders,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+56143,Shakib Al Hasan,21 Dec 2025,v Vipers,Dubai (DICS),2,6,17*,50,25,1,0,68,not out,1,4.0,0,14,2,3.5
+56143,Shakib Al Hasan,23 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+56143,Shakib Al Hasan,27 Dec 2025,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,1,2.75
+56143,Shakib Al Hasan,30 Dec 2025,v Vipers,Abu Dhabi,2,8,8,12,6,1,0,133.33,caught,1,1.0,0,10,0,10
+56143,Shakib Al Hasan,2 Jan 2026,v KnightRiders,Sharjah,2,4,38,38,24,5,1,158.33,caught,1,4.0,0,20,0,5
+56143,Shakib Al Hasan,4 Jan 2026,v Vipers,Dubai (DICS),2,4,36,52,27,3,0,133.33,caught,1,1.0,0,10,0,10

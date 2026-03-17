@@ -1,0 +1,230 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+47492,Dale Steyn,1 Apr 2005,v Warriors,Gqeberha,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+47492,Dale Steyn,1 Apr 2005,v Warriors,Gqeberha,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+47492,Dale Steyn,5 Apr 2005,v Eagles,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,0,3.5
+47492,Dale Steyn,10 Apr 2005,v Dolphins,Benoni,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+47492,Dale Steyn,15 Apr 2005,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,2,2.5
+47492,Dale Steyn,17 Apr 2005,v WP Boland,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+47492,Dale Steyn,20 Apr 2005,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+47492,Dale Steyn,27 Apr 2005,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+47492,Dale Steyn,25 Feb 2007,v Eagles,Centurion,2,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+47492,Dale Steyn,2 Mar 2007,v Warriors,Gqeberha,1,10,1,1,1,0,0,100,run out,1,4.0,0,32,1,8
+47492,Dale Steyn,7 Mar 2007,v Cape Cobras,Cape Town,2,10,4*,7,4,0,0,100,not out,2,4.0,0,31,2,7.75
+47492,Dale Steyn,14 Mar 2007,v Dolphins,Benoni,1,-,DNB,-,-,-,-,-,-,1,4.0,0,47,2,11.75
+47492,Dale Steyn,18 Mar 2007,v Lions,Johannesburg,2,11,1,2,2,0,0,50,caught,1,4.0,0,17,1,4.25
+47492,Dale Steyn,23 Nov 2007,v New Zealand,Johannesburg,2,-,DNB,-,-,-,-,-,-,2,3.0,0,9,4,3
+47492,Dale Steyn,16 Dec 2007,v West Indies,Gqeberha,1,10,1*,15,1,0,0,100,not out,2,4.0,0,41,0,10.25
+47492,Dale Steyn,20 Apr 2008,v Cape Cobras,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+47492,Dale Steyn,25 Apr 2008,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+47492,Dale Steyn,28 Apr 2008,v CSK,Bengaluru,2,11,1,-,2,0,0,50,caught,1,4.0,0,29,1,7.25
+47492,Dale Steyn,30 Apr 2008,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+47492,Dale Steyn,3 May 2008,v Chargers,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,0,4
+47492,Dale Steyn,5 May 2008,v Kings XI,Bengaluru,1,11,1*,-,3,0,0,33.33,not out,1,4.0,0,27,3,6.75
+47492,Dale Steyn,8 May 2008,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,2,2.0,0,33,0,16.5
+47492,Dale Steyn,12 May 2008,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+47492,Dale Steyn,19 May 2008,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+47492,Dale Steyn,21 May 2008,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+47492,Dale Steyn,25 May 2008,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+47492,Dale Steyn,28 May 2008,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+47492,Dale Steyn,5 Nov 2008,v Bangladesh,Johannesburg,1,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+47492,Dale Steyn,11 Jan 2009,v Australia,Melbourne,2,9,1,1,2,0,0,50,caught,2,3.0,0,19,1,6.33
+47492,Dale Steyn,13 Jan 2009,v Australia,Brisbane,1,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+47492,Dale Steyn,27 Mar 2009,v Australia,Johannesburg,2,-,DNB,-,-,-,-,-,-,2,2.0,0,6,0,3
+47492,Dale Steyn,18 Apr 2009,v RR,Cape Town,1,10,0*,-,0,0,0,-,not out,1,4.0,0,35,1,8.75
+47492,Dale Steyn,20 Apr 2009,v CSK,Gqeberha,2,10,0,-,3,0,0,0,run out,1,3.0,0,21,1,7
+47492,Dale Steyn,22 Apr 2009,v Chargers,Cape Town,2,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+47492,Dale Steyn,7 Jun 2009,v Scotland,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+47492,Dale Steyn,9 Jun 2009,v New Zealand,Lord's,1,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+47492,Dale Steyn,11 Jun 2009,v England,Nottingham,2,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+47492,Dale Steyn,13 Jun 2009,v West Indies,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+47492,Dale Steyn,16 Jun 2009,v India,Nottingham,1,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+47492,Dale Steyn,18 Jun 2009,v Pakistan,Nottingham,2,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+47492,Dale Steyn,15 Oct 2009,v Victoria,Bengaluru,1,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+47492,Dale Steyn,17 Oct 2009,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+47492,Dale Steyn,13 Nov 2009,v England,Johannesburg,2,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+47492,Dale Steyn,15 Nov 2009,v England,Centurion,1,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+47492,Dale Steyn,5 Mar 2010,v Lions,Centurion,2,7,22,17,12,1,2,183.33,caught,2,4.0,0,38,0,9.5
+47492,Dale Steyn,14 Mar 2010,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+47492,Dale Steyn,16 Mar 2010,v Kings XI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+47492,Dale Steyn,18 Mar 2010,v RR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+47492,Dale Steyn,20 Mar 2010,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+47492,Dale Steyn,23 Mar 2010,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+47492,Dale Steyn,25 Mar 2010,v Daredevils,Bengaluru,2,10,8,-,9,1,0,88.88,bowled,2,4.0,0,20,1,5
+47492,Dale Steyn,31 Mar 2010,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+47492,Dale Steyn,2 Apr 2010,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+47492,Dale Steyn,8 Apr 2010,v Chargers,Bengaluru,1,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+47492,Dale Steyn,10 Apr 2010,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+47492,Dale Steyn,12 Apr 2010,v Chargers,Nagpur,2,9,0,-,1,0,0,0,lbw,1,4.0,0,15,1,3.75
+47492,Dale Steyn,14 Apr 2010,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+47492,Dale Steyn,17 Apr 2010,v MI,Bengaluru,2,8,0,-,2,0,0,0,bowled,1,4.0,0,43,2,10.75
+47492,Dale Steyn,21 Apr 2010,v MI,DY Patil,2,10,5,-,5,1,0,100,bowled,1,3.0,1,11,1,3.66
+47492,Dale Steyn,24 Apr 2010,v Chargers,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+47492,Dale Steyn,2 May 2010,v India,Gros Islet,2,-,DNB,-,-,-,-,-,-,2,3.0,0,6,2,2
+47492,Dale Steyn,5 May 2010,v Afghanistan,Bridgetown,1,9,1*,1,1,0,0,100,not out,2,4.0,0,25,1,6.25
+47492,Dale Steyn,6 May 2010,v New Zealand,Bridgetown,1,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+47492,Dale Steyn,8 May 2010,v England,Bridgetown,2,9,5,7,6,0,0,83.33,caught,1,4.0,0,26,1,6.5
+47492,Dale Steyn,10 May 2010,v Pakistan,Gros Islet,2,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+47492,Dale Steyn,19 May 2010,v West Indies,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+47492,Dale Steyn,20 May 2010,v West Indies,North Sound,1,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+47492,Dale Steyn,12 Sep 2010,v Guyana,Centurion,2,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+47492,Dale Steyn,17 Sep 2010,v South Aust,Durban,1,10,0,1,1,0,0,0,bowled,1,4.0,0,26,3,6.5
+47492,Dale Steyn,19 Sep 2010,v MI,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+47492,Dale Steyn,21 Sep 2010,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+47492,Dale Steyn,24 Sep 2010,v CSK,Durban,2,-,absent,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+47492,Dale Steyn,9 Apr 2011,v RR,Hyderabad,1,8,7,-,6,1,0,116.66,caught,1,4.0,0,33,1,8.25
+47492,Dale Steyn,11 Apr 2011,v KKR,Eden Gardens,2,8,13,-,12,1,0,108.33,bowled,2,4.0,0,24,3,6
+47492,Dale Steyn,14 Apr 2011,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+47492,Dale Steyn,16 Apr 2011,v Kings XI,Hyderabad,1,10,1*,-,2,0,0,50,not out,2,4.0,0,24,0,6
+47492,Dale Steyn,19 Apr 2011,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+47492,Dale Steyn,24 Apr 2011,v MI,Hyderabad,2,9,4,-,9,0,0,44.44,run out,2,3.3,1,16,3,4.57
+47492,Dale Steyn,27 Apr 2011,v Kochi,Kochi,1,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+47492,Dale Steyn,3 May 2011,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+47492,Dale Steyn,5 May 2011,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+47492,Dale Steyn,10 May 2011,v Warriors,Hyderabad,1,9,11,-,6,1,0,183.33,caught,1,4.0,0,23,1,5.75
+47492,Dale Steyn,16 May 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,2,3.0,0,13,1,4.33
+47492,Dale Steyn,21 May 2011,v Kings XI,Dharamsala,1,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+47492,Dale Steyn,24 Sep 2011,v NSW,Chennai,2,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+47492,Dale Steyn,28 Sep 2011,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+47492,Dale Steyn,30 Sep 2011,v MI,Bengaluru,-,-,TDNB,-,-,-,-,-,-,2,4.0,1,18,1,4.5
+47492,Dale Steyn,4 Oct 2011,v Trinidad & T,Chennai,1,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+47492,Dale Steyn,7 Apr 2012,v CSK,Visakhapatnam,2,10,5,9,8,0,0,62.5,lbw,2,4.0,1,12,3,3
+47492,Dale Steyn,9 Apr 2012,v MI,Visakhapatnam,1,9,2,4,2,0,0,100,bowled,2,3.4,0,44,0,12
+47492,Dale Steyn,17 Apr 2012,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+47492,Dale Steyn,19 Apr 2012,v Daredevils,Delhi,1,8,2,2,3,0,0,66.66,caught,2,4.0,0,24,2,6
+47492,Dale Steyn,22 Apr 2012,v KKR,Cuttack,1,8,7,4,3,0,1,233.33,caught,2,4.0,0,10,2,2.5
+47492,Dale Steyn,29 Apr 2012,v MI,Wankhede,1,10,3,8,5,0,0,60,caught,2,4.0,0,46,0,11.5
+47492,Dale Steyn,1 May 2012,v Warriors,Cuttack,1,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+47492,Dale Steyn,4 May 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,2,3.0,1,30,0,10
+47492,Dale Steyn,6 May 2012,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+47492,Dale Steyn,13 May 2012,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+47492,Dale Steyn,18 May 2012,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,2,4.0,0,8,3,2
+47492,Dale Steyn,20 May 2012,v RCB,Hyderabad,1,8,0*,-,0,0,0,-,not out,1,4.0,0,13,1,3.25
+47492,Dale Steyn,8 Sep 2012,v England,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,2,1.0,0,10,1,10
+47492,Dale Steyn,10 Sep 2012,v England,Manchester,1,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+47492,Dale Steyn,20 Sep 2012,v Zimbabwe,Hambantota,2,-,DNB,-,-,-,-,-,-,2,2.0,0,10,2,5
+47492,Dale Steyn,22 Sep 2012,v Sri Lanka,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+47492,Dale Steyn,28 Sep 2012,v Pakistan,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,0,5
+47492,Dale Steyn,30 Sep 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,1,4.0,1,26,0,6.5
+47492,Dale Steyn,2 Oct 2012,v India,Colombo (RPS),2,10,0*,7,0,0,0,-,not out,1,3.0,0,13,2,4.33
+47492,Dale Steyn,21 Dec 2012,v New Zealand,Durban,2,-,DNB,-,-,-,-,-,-,2,3.5,0,11,3,2.86
+47492,Dale Steyn,5 Apr 2013,v Warriors,Hyderabad,1,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+47492,Dale Steyn,7 Apr 2013,v RCB,Hyderabad,2,9,3*,5,3,0,0,100,not out,2,4.0,0,16,0,4
+47492,Dale Steyn,9 Apr 2013,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,1,4.0,1,11,2,2.75
+47492,Dale Steyn,12 Apr 2013,v Daredevils,Delhi,2,9,9*,9,5,1,0,180,not out,1,4.0,0,29,0,7.25
+47492,Dale Steyn,14 Apr 2013,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+47492,Dale Steyn,17 Apr 2013,v Warriors,Pune,1,10,4*,1,1,1,0,400,not out,1,4.0,0,14,1,3.5
+47492,Dale Steyn,19 Apr 2013,v Kings XI,Hyderabad,2,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+47492,Dale Steyn,25 Apr 2013,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,15,1,3.75
+47492,Dale Steyn,27 Apr 2013,v RR,Jaipur,1,10,18*,10,8,2,1,225,not out,1,4.0,0,27,0,6.75
+47492,Dale Steyn,1 May 2013,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+47492,Dale Steyn,4 May 2013,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,0,4.25
+47492,Dale Steyn,8 May 2013,v CSK,Hyderabad,2,9,14,17,13,1,1,107.69,caught,2,4.0,0,20,2,5
+47492,Dale Steyn,11 May 2013,v Kings XI,Mohali,1,9,1*,5,3,0,0,33.33,not out,2,4.0,0,23,0,5.75
+47492,Dale Steyn,13 May 2013,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+47492,Dale Steyn,17 May 2013,v RR,Hyderabad,1,8,0,-,1,0,0,0,bowled,1,4.0,0,24,2,6
+47492,Dale Steyn,19 May 2013,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+47492,Dale Steyn,22 May 2013,v RR,Delhi,1,9,4*,2,2,0,0,200,not out,1,4.0,0,35,0,8.75
+47492,Dale Steyn,17 Sep 2013,v Kandurata Ma,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+47492,Dale Steyn,18 Sep 2013,v Wolves,Mohali,2,-,DNB,-,-,-,-,-,-,2,3.0,0,13,2,4.33
+47492,Dale Steyn,20 Sep 2013,v Otago,Mohali,1,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+47492,Dale Steyn,24 Sep 2013,v Trinidad & T,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+47492,Dale Steyn,26 Sep 2013,v CSK,Ranchi,2,8,10*,8,5,0,1,200,not out,2,4.0,0,23,1,5.75
+47492,Dale Steyn,28 Sep 2013,v Titans,Ranchi,1,9,27*,12,12,3,2,225,not out,1,4.0,0,15,3,3.75
+47492,Dale Steyn,13 Nov 2013,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,2,4.0,1,20,2,5
+47492,Dale Steyn,15 Nov 2013,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+47492,Dale Steyn,20 Nov 2013,v Pakistan,Johannesburg,1,8,1,6,3,0,0,33.33,caught,1,4.0,0,29,2,7.25
+47492,Dale Steyn,22 Nov 2013,v Pakistan,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+47492,Dale Steyn,22 Mar 2014,v Sri Lanka,Chattogram,2,8,0,6,2,0,0,0,run out,2,4.0,0,17,4,4.25
+47492,Dale Steyn,24 Mar 2014,v New Zealand,Chattogram,1,8,1*,4,1,0,0,100,not out,2,4.0,0,19,2,4.75
+47492,Dale Steyn,27 Mar 2014,v Netherlands,Chattogram,1,8,5,6,4,1,0,125,caught,2,4.0,0,44,1,11
+47492,Dale Steyn,29 Mar 2014,v England,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.1,0,36,0,11.36
+47492,Dale Steyn,4 Apr 2014,v India,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+47492,Dale Steyn,18 Apr 2014,v RR,Abu Dhabi,1,8,0*,-,0,0,0,-,not out,1,4.0,0,26,0,6.5
+47492,Dale Steyn,22 Apr 2014,v Kings XI,Sharjah,2,9,12,21,16,0,0,75,bowled,2,4.0,0,33,2,8.25
+47492,Dale Steyn,25 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+47492,Dale Steyn,27 Apr 2014,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+47492,Dale Steyn,30 Apr 2014,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+47492,Dale Steyn,4 May 2014,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+47492,Dale Steyn,8 May 2014,v RR,Ahmedabad,1,9,9,8,8,1,0,112.5,run out,1,4.0,0,20,2,5
+47492,Dale Steyn,10 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+47492,Dale Steyn,12 May 2014,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,0,12.75
+47492,Dale Steyn,14 May 2014,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+47492,Dale Steyn,18 May 2014,v KKR,Hyderabad,1,9,1,2,2,0,0,50,bowled,1,4.0,0,23,0,5.75
+47492,Dale Steyn,20 May 2014,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+47492,Dale Steyn,22 May 2014,v CSK,Ranchi,2,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+47492,Dale Steyn,24 May 2014,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+47492,Dale Steyn,3 Dec 2014,v Warriors,Paarl,2,-,DNB,-,-,-,-,-,-,2,4.0,0,11,0,2.75
+47492,Dale Steyn,12 Dec 2014,v Knights,Cape Town,1,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+47492,Dale Steyn,18 Apr 2015,v Daredevils,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+47492,Dale Steyn,22 Apr 2015,v KKR,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+47492,Dale Steyn,25 Apr 2015,v MI,Wankhede,2,9,0,1,1,0,0,0,caught,1,4.0,0,37,0,9.25
+47492,Dale Steyn,4 May 2015,v KKR,Eden Gardens,2,11,1*,2,1,0,0,100,not out,2,1.0,0,17,0,17
+47492,Dale Steyn,15 May 2015,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+47492,Dale Steyn,17 May 2015,v MI,Hyderabad,1,11,19*,13,11,3,0,172.72,not out,2,4.0,0,32,2,8
+47492,Dale Steyn,6 Mar 2016,v Australia,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+47492,Dale Steyn,9 Mar 2016,v Australia,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,35,0,17.5
+47492,Dale Steyn,18 Mar 2016,v England,Wankhede,1,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+47492,Dale Steyn,28 Mar 2016,v Sri Lanka,Delhi,2,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+47492,Dale Steyn,21 Apr 2016,v SRH,Rajkot,1,8,1,2,2,0,0,50,caught,2,3.0,0,32,0,10.66
+47492,Dale Steyn,1 Jun 2016,v Essex,Cardiff,1,8,7*,10,5,1,0,140,not out,1,3.3,0,22,3,6.28
+47492,Dale Steyn,3 Jun 2016,v Hampshire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+47492,Dale Steyn,10 Jun 2016,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,2,4.0,0,18,4,4.5
+47492,Dale Steyn,17 Jun 2016,v Kent,Cardiff,1,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+47492,Dale Steyn,24 Jun 2016,v Surrey,Cardiff,2,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+47492,Dale Steyn,2 Jul 2016,v Patriots,Basseterre,1,9,1*,-,1,0,0,100,not out,1,4.0,0,56,1,14
+47492,Dale Steyn,4 Jul 2016,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+47492,Dale Steyn,7 Jul 2016,v Amazon,Providence,1,9,2,-,3,0,0,66.66,run out,-,TDNB,-,-,-,-
+47492,Dale Steyn,11 Jul 2016,v Tridents,Bridgetown,1,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+47492,Dale Steyn,15 Jul 2016,v Amazon,Kingston,2,-,DNB,-,-,-,-,-,-,2,3.5,0,5,2,1.3
+47492,Dale Steyn,16 Jul 2016,v Patriots,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,2,5.25
+47492,Dale Steyn,18 Jul 2016,v Trinbago,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,4,6.75
+47492,Dale Steyn,20 Jul 2016,v Tridents,Kingston,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+47492,Dale Steyn,15 Nov 2017,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+47492,Dale Steyn,17 Nov 2017,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+47492,Dale Steyn,19 Nov 2017,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+47492,Dale Steyn,3 Dec 2017,v Knights,Gqeberha,2,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+47492,Dale Steyn,8 Dec 2017,v Cape Cobras,Cape Town,1,8,0,5,4,0,0,0,caught,2,4.0,0,21,1,5.25
+47492,Dale Steyn,8 Aug 2018,v Somerset,Southampton,1,9,8*,13,9,1,0,88.88,not out,2,3.5,0,21,1,5.47
+47492,Dale Steyn,10 Aug 2018,v Glamorgan,Cardiff,1,9,11*,15,11,1,0,100,not out,2,3.3,0,37,1,10.57
+47492,Dale Steyn,15 Aug 2018,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+47492,Dale Steyn,17 Aug 2018,v Gloucs,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+47492,Dale Steyn,18 Nov 2018,v Durban Heat,Durban,2,-,DNB,-,-,-,-,-,-,2,4.0,1,21,2,5.25
+47492,Dale Steyn,21 Nov 2018,v Giants,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+47492,Dale Steyn,24 Nov 2018,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+47492,Dale Steyn,25 Nov 2018,v Paarl Rocks,Paarl,1,11,1*,1,1,0,0,100,not out,2,4.0,0,21,1,5.25
+47492,Dale Steyn,1 Dec 2018,v Spartans,Centurion,1,9,1,1,1,0,0,100,run out,1,4.0,0,33,1,8.25
+47492,Dale Steyn,4 Dec 2018,v Jozi Stars,Cape Town,2,9,0,4,2,0,0,0,bowled,1,4.0,0,22,2,5.5
+47492,Dale Steyn,7 Dec 2018,v Paarl Rocks,Cape Town,2,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+47492,Dale Steyn,9 Dec 2018,v Durban Heat,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,1,20,1,5
+47492,Dale Steyn,16 Dec 2018,v Jozi Stars,Cape Town,1,9,15*,13,9,1,1,166.66,not out,1,4.0,1,25,1,6.25
+47492,Dale Steyn,19 Mar 2019,v Sri Lanka,Cape Town,2,9,1*,11,3,0,0,33.33,not out,2,3.0,0,34,2,11.33
+47492,Dale Steyn,22 Mar 2019,v Sri Lanka,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+47492,Dale Steyn,19 Apr 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+47492,Dale Steyn,21 Apr 2019,v CSK,Bengaluru,1,9,0*,1,0,0,0,-,not out,2,4.0,0,25,3,6.25
+47492,Dale Steyn,8 Nov 2019,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+47492,Dale Steyn,10 Nov 2019,v Paarl Rocks,Paarl,2,10,5*,15,9,0,0,55.55,not out,2,4.0,0,33,1,8.25
+47492,Dale Steyn,14 Nov 2019,v Jozi Stars,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+47492,Dale Steyn,17 Nov 2019,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+47492,Dale Steyn,20 Nov 2019,v Giants,Gqeberha,1,10,8*,9,6,1,0,133.33,not out,1,4.0,0,38,2,9.5
+47492,Dale Steyn,24 Nov 2019,v Paarl Rocks,Cape Town,2,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+47492,Dale Steyn,28 Nov 2019,v Durban Heat,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,3,2.5
+47492,Dale Steyn,1 Dec 2019,v Spartans,Cape Town,1,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+47492,Dale Steyn,27 Dec 2019,v Strikers,Carrara,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,2,6
+47492,Dale Steyn,30 Dec 2019,v Hurricanes,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+47492,Dale Steyn,2 Jan 2020,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+47492,Dale Steyn,4 Jan 2020,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+47492,Dale Steyn,12 Feb 2020,v England,East London,1,9,5*,4,2,1,0,250,not out,2,4.0,0,43,0,10.75
+47492,Dale Steyn,16 Feb 2020,v England,Centurion,1,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+47492,Dale Steyn,21 Feb 2020,v Australia,Johannesburg,2,8,0,1,1,0,0,0,caught,2,4.0,1,37,1,9.25
+47492,Dale Steyn,1 Mar 2020,v Kings,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+47492,Dale Steyn,4 Mar 2020,v Qalandars,Lahore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+47492,Dale Steyn,7 Mar 2020,v Zalmi,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+47492,Dale Steyn,8 Mar 2020,v Sultans,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,3.4,0,33,1,9
+47492,Dale Steyn,21 Sep 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,1,4.0,0,57,0,14.25
+47492,Dale Steyn,24 Sep 2020,v Kings XI,Dubai (DICS),2,10,1*,-,2,0,0,50,not out,2,4.0,0,43,0,10.75
+47492,Dale Steyn,28 Oct 2020,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+47492,Dale Steyn,9 Dec 2020,v Stallions,Hambantota,2,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+47492,Dale Steyn,10 Dec 2020,v Galle,Hambantota,1,9,1,-,5,0,0,20,bowled,2,4.0,0,44,2,11
+47492,Dale Steyn,26 Feb 2021,v Zalmi,Karachi,1,8,0*,7,2,0,0,0,not out,2,3.0,0,20,1,6.66
+47492,Dale Steyn,1 Mar 2021,v United,Karachi,1,9,0*,1,0,0,0,-,not out,2,3.4,0,34,1,9.27
+47492,Dale Steyn,3 Mar 2021,v Sultans,Karachi,1,-,DNB,-,-,-,-,-,-,,,,,,

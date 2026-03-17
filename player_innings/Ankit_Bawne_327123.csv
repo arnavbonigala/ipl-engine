@@ -1,0 +1,43 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+327123,Ankit Bawne,14 Mar 2011,v Bengal,Hyderabad,2,3,1,5,6,0,0,16.66,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,17 Mar 2013,v Gujarat,Ahmedabad,1,8,3,9,6,0,0,50,caught,2,4.0,0,38,0,9.5
+327123,Ankit Bawne,30 Mar 2014,v Gujarat,Mumbai,2,5,11,24,12,2,0,91.66,lbw,1,2.0,0,11,1,5.5
+327123,Ankit Bawne,31 Mar 2014,v Saurashtra,Wankhede,2,3,22,27,21,3,0,104.76,caught,1,3.0,0,12,2,4
+327123,Ankit Bawne,3 Apr 2014,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+327123,Ankit Bawne,4 Apr 2014,v Baroda,Mumbai,1,3,19,24,13,2,1,146.15,run out,2,2.0,0,18,0,9
+327123,Ankit Bawne,27 Mar 2015,v Mumbai,Pune,2,4,36,39,30,3,1,120,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,2 Jan 2016,v UP,Cuttack,1,4,7,11,8,1,0,87.5,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,3 Jan 2016,v Services,Cuttack,1,6,6,5,7,1,0,85.71,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,4 Jan 2016,v Odisha,Cuttack,2,7,49*,37,24,3,4,204.16,not out,1,DNB,-,-,-,-
+327123,Ankit Bawne,7 Jan 2016,v Karnataka,Cuttack,1,7,33,33,20,3,2,165,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,8 Jan 2016,v Mumbai,Cuttack,1,6,5,8,6,0,0,83.33,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,29 Jan 2017,v Gujarat,Vadodara,1,3,90*,86,59,9,3,152.54,not out,2,DNB,-,-,-,-
+327123,Ankit Bawne,30 Jan 2017,v Saurashtra,Vadodara,1,3,71,79,52,9,1,136.53,lbw,2,DNB,-,-,-,-
+327123,Ankit Bawne,2 Feb 2017,v Mumbai,Vadodara,1,3,50,48,42,4,2,119.04,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,4 Feb 2017,v Baroda,Vadodara,2,3,24,41,28,2,1,85.71,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,13 Feb 2017,v North Zone,Wankhede,2,4,4*,6,4,0,0,100,not out,1,DNB,-,-,-,-
+327123,Ankit Bawne,28 Apr 2017,v KKR,Eden Gardens,1,7,12*,14,12,1,0,100,not out,2,DNB,-,-,-,-
+327123,Ankit Bawne,7 Jan 2018,v Gujarat,Rajkot,2,3,1,4,4,0,0,25,bowled,1,DNB,-,-,-,-
+327123,Ankit Bawne,8 Jan 2018,v Saurashtra,Rajkot,2,3,12,22,20,0,0,60,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,11 Jan 2018,v Mumbai,Rajkot,1,4,9,9,10,0,0,90,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,13 Jan 2018,v Baroda,Rajkot,1,7,23*,13,9,2,1,255.55,not out,2,DNB,-,-,-,-
+327123,Ankit Bawne,21 Feb 2019,v UP,Delhi,1,6,14*,24,13,1,0,107.69,not out,2,DNB,-,-,-,-
+327123,Ankit Bawne,22 Feb 2019,v Puducherry,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,24 Feb 2019,v Services,Delhi,1,5,34,36,28,2,1,121.42,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,25 Feb 2019,v Hyderabad,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,27 Feb 2019,v Uttarakhand,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,28 Feb 2019,v Baroda,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,2 Mar 2019,v Tripura,Delhi,1,5,1*,2,1,0,0,100,not out,-,TDNB,-,-,-,-
+327123,Ankit Bawne,9 Mar 2019,v Bengal,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,10 Mar 2019,v Gujarat,Indore,2,4,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,11 Mar 2019,v Jharkhand,Indore,1,5,64*,61,46,3,4,139.13,not out,2,DNB,-,-,-,-
+327123,Ankit Bawne,12 Mar 2019,v Railways,Indore,1,5,8,5,5,0,1,160,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,14 Mar 2019,v Karnataka,Indore,1,5,29,35,25,4,0,116,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,21 Oct 2023,v Puducherry,Mohali,2,3,81*,-,45,8,5,180,not out,1,DNB,-,-,-,-
+327123,Ankit Bawne,23 Oct 2023,v Jharkhand,Mohali,2,3,20,-,10,3,1,200,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,25 Oct 2023,v Vidarbha,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+327123,Ankit Bawne,27 Oct 2023,v Rajasthan,New Chandigarh,2,3,4,-,7,0,0,57.14,caught,1,DNB,-,-,-,-
+327123,Ankit Bawne,23 Nov 2024,v Nagaland,Hyderabad,2,3,73*,-,42,10,2,173.8,not out,1,DNB,-,-,-,-
+327123,Ankit Bawne,27 Nov 2024,v Mumbai,Hyderabad,1,4,7,-,6,1,0,116.66,caught,2,DNB,-,-,-,-
+327123,Ankit Bawne,29 Nov 2024,v Andhra,Hyderabad,2,4,1,-,2,0,0,50,run out,1,DNB,-,-,-,-
+327123,Ankit Bawne,3 Dec 2024,v Goa,Hyderabad,1,2,51,-,41,6,1,124.39,caught,2,DNB,-,-,-,-

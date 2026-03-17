@@ -1,0 +1,72 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+447439,Ishwar Pandey,18 Mar 2013,v Vidarbha,Nagpur,2,10,8,8,7,1,0,114.28,bowled,1,4.0,0,29,0,7.25
+447439,Ishwar Pandey,19 Mar 2013,v UP,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+447439,Ishwar Pandey,21 Mar 2013,v Railways,Nagpur,2,9,17*,4,5,2,1,340,not out,1,3.0,0,35,1,11.66
+447439,Ishwar Pandey,22 Mar 2013,v Rajasthan,Nagpur,2,9,0,1,1,0,0,0,bowled,1,4.0,1,26,2,6.5
+447439,Ishwar Pandey,23 Apr 2013,v RCB,Bengaluru,2,10,0,1,2,0,0,0,bowled,1,2.0,0,33,0,16.5
+447439,Ishwar Pandey,15 May 2013,v KKR,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+447439,Ishwar Pandey,31 Mar 2014,v Rajasthan,Nagpur,2,11,19*,13,13,3,0,146.15,not out,1,4.0,0,45,0,11.25
+447439,Ishwar Pandey,1 Apr 2014,v Railways,Nagpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+447439,Ishwar Pandey,2 Apr 2014,v UP,Nagpur,1,11,0,1,1,0,0,0,run out,2,4.0,0,23,3,5.75
+447439,Ishwar Pandey,4 Apr 2014,v Vidarbha,Nagpur,1,11,8*,7,6,1,0,133.33,not out,2,4.0,0,17,2,4.25
+447439,Ishwar Pandey,21 Apr 2014,v Daredevils,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+447439,Ishwar Pandey,23 Apr 2014,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,22,1,5.5
+447439,Ishwar Pandey,25 Apr 2014,v MI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+447439,Ishwar Pandey,27 Apr 2014,v SRH,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+447439,Ishwar Pandey,2 May 2014,v KKR,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+447439,Ishwar Pandey,5 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,1,26,0,8.66
+447439,Ishwar Pandey,7 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+447439,Ishwar Pandey,10 May 2014,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+447439,Ishwar Pandey,13 May 2014,v RR,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+447439,Ishwar Pandey,18 May 2014,v RCB,Ranchi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+447439,Ishwar Pandey,20 May 2014,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+447439,Ishwar Pandey,28 May 2014,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+447439,Ishwar Pandey,30 May 2014,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+447439,Ishwar Pandey,17 Sep 2014,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+447439,Ishwar Pandey,22 Sep 2014,v Dolphins,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+447439,Ishwar Pandey,24 Mar 2015,v Rajasthan,Indore,2,10,1,9,2,0,0,50,run out,1,4.0,0,18,2,4.5
+447439,Ishwar Pandey,25 Mar 2015,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+447439,Ishwar Pandey,27 Mar 2015,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+447439,Ishwar Pandey,28 Mar 2015,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+447439,Ishwar Pandey,9 Apr 2015,v Daredevils,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+447439,Ishwar Pandey,11 Apr 2015,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+447439,Ishwar Pandey,17 Apr 2015,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,1,22,1,7.33
+447439,Ishwar Pandey,19 Apr 2015,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,0,6
+447439,Ishwar Pandey,22 Apr 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+447439,Ishwar Pandey,25 Apr 2015,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+447439,Ishwar Pandey,28 Apr 2015,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+447439,Ishwar Pandey,4 May 2015,v RCB,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+447439,Ishwar Pandey,12 May 2015,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,27,2,6.75
+447439,Ishwar Pandey,16 May 2015,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+447439,Ishwar Pandey,2 Jan 2016,v Andhra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+447439,Ishwar Pandey,3 Jan 2016,v Goa,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+447439,Ishwar Pandey,4 Jan 2016,v Delhi,Vadodara,1,3,2,2,2,0,0,100,caught,2,4.0,0,23,2,5.75
+447439,Ishwar Pandey,6 Jan 2016,v Railways,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+447439,Ishwar Pandey,7 Jan 2016,v Baroda,Vadodara,2,10,1,5,2,0,0,50,caught,1,4.0,0,39,1,9.75
+447439,Ishwar Pandey,10 Jan 2016,v Assam,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+447439,Ishwar Pandey,29 Jan 2017,v Railways,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+447439,Ishwar Pandey,30 Jan 2017,v Rajasthan,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+447439,Ishwar Pandey,3 Feb 2017,v UP,Jaipur,1,9,0,3,2,0,0,0,caught,2,3.1,0,24,2,7.57
+447439,Ishwar Pandey,4 Feb 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+447439,Ishwar Pandey,6 Feb 2017,v Vidarbha,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.1,0,22,1,6.94
+447439,Ishwar Pandey,8 Jan 2018,v Rajasthan,Raipur,2,5,11,8,6,0,1,183.33,caught,1,4.0,0,41,1,10.25
+447439,Ishwar Pandey,10 Jan 2018,v UP,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,1,3.66
+447439,Ishwar Pandey,12 Jan 2018,v Vidarbha,Raipur,2,9,1,4,2,0,0,50,caught,1,3.0,0,10,1,3.33
+447439,Ishwar Pandey,14 Jan 2018,v Chhattisgarh,Raipur,2,4,0,1,2,0,0,0,caught,1,4.0,0,32,0,8
+447439,Ishwar Pandey,15 Jan 2018,v Railways,Raipur,1,9,1*,3,3,0,0,33.33,not out,2,4.0,0,15,1,3.75
+447439,Ishwar Pandey,21 Feb 2019,v Punjab,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,3,4.25
+447439,Ishwar Pandey,22 Feb 2019,v Saurashtra,Indore,1,10,1,5,3,0,0,33.33,caught,2,4.0,0,26,2,6.5
+447439,Ishwar Pandey,24 Feb 2019,v Mumbai,Indore,1,9,0,3,3,0,0,0,bowled,2,3.0,0,41,1,13.66
+447439,Ishwar Pandey,25 Feb 2019,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,3.4,0,32,0,8.72
+447439,Ishwar Pandey,27 Feb 2019,v Goa,Indore,2,8,18*,13,7,0,2,257.14,not out,1,4.0,0,26,2,6.5
+447439,Ishwar Pandey,2 Mar 2019,v Sikkim,Indore,1,9,4,-,2,1,0,200,bowled,2,2.0,0,8,1,4
+447439,Ishwar Pandey,9 Nov 2019,v Assam,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+447439,Ishwar Pandey,11 Nov 2019,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+447439,Ishwar Pandey,12 Nov 2019,v Mizoram,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+447439,Ishwar Pandey,14 Nov 2019,v Meghalaya,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+447439,Ishwar Pandey,15 Nov 2019,v Bengal,Mumbai,1,8,14,-,7,1,1,200,bowled,2,3.0,0,20,2,6.66
+447439,Ishwar Pandey,17 Nov 2019,v Haryana,Mumbai,1,8,0*,-,2,0,0,0,not out,2,4.0,0,26,2,6.5
+447439,Ishwar Pandey,13 Jan 2021,v Rajasthan,Indore,2,9,2*,-,3,0,0,66.66,not out,1,4.0,0,29,1,7.25
+447439,Ishwar Pandey,15 Jan 2021,v Vidarbha,Indore,1,9,1,-,5,0,0,20,caught,2,4.0,0,23,0,5.75
+447439,Ishwar Pandey,17 Jan 2021,v Saurashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+447439,Ishwar Pandey,19 Jan 2021,v Services,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25

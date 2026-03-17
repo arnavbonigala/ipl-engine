@@ -1,0 +1,120 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+530773,Pawan Negi,20 Oct 2011,v Himachal,Rohtak,1,5,21,23,20,1,1,105,run out,2,4.0,0,23,2,5.75
+530773,Pawan Negi,21 Oct 2011,v J & K,Rohtak,2,6,17*,15,10,1,1,170,not out,1,3.0,0,16,1,5.33
+530773,Pawan Negi,22 Oct 2011,v Punjab,Rohtak,1,7,13,31,16,0,0,81.25,caught,2,3.0,1,17,1,5.66
+530773,Pawan Negi,24 Oct 2011,v Haryana,Rohtak,2,4,0,1,2,0,0,0,caught,1,3.0,0,24,0,8
+530773,Pawan Negi,25 Oct 2011,v Services,Rohtak,1,7,7*,11,5,1,0,140,not out,2,4.0,1,9,2,2.25
+530773,Pawan Negi,24 Mar 2012,v Railways,Brabourne,1,8,7*,-,3,1,0,233.33,not out,2,DNB,-,-,-,-
+530773,Pawan Negi,26 Mar 2012,v Baroda,Mumbai,1,7,1,-,1,0,0,100,run out,2,4.0,0,39,2,9.75
+530773,Pawan Negi,21 Apr 2012,v Warriors,Delhi,2,5,8,13,8,1,0,100,run out,1,DNB,-,-,-,-
+530773,Pawan Negi,24 Apr 2012,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+530773,Pawan Negi,1 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,4,4.5
+530773,Pawan Negi,15 May 2012,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+530773,Pawan Negi,17 May 2012,v RCB,Delhi,2,9,6*,11,4,1,0,150,not out,1,3.0,0,37,0,12.33
+530773,Pawan Negi,19 May 2012,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+530773,Pawan Negi,22 May 2012,v KKR,Pune,2,6,14,-,11,2,0,127.27,stumped,1,4.0,0,18,1,4.5
+530773,Pawan Negi,25 May 2012,v CSK,Chennai,2,8,8*,-,6,0,1,133.33,not out,1,4.0,0,33,1,8.25
+530773,Pawan Negi,13 Oct 2012,v KKR,Centurion,1,8,1,3,5,0,0,20,caught,2,4.0,0,18,0,4.5
+530773,Pawan Negi,21 Oct 2012,v Scorchers,Cape Town,2,8,7*,19,7,1,0,100,not out,1,2.0,0,12,0,6
+530773,Pawan Negi,23 Oct 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+530773,Pawan Negi,25 Oct 2012,v Lions,Durban,2,8,0,3,1,0,0,0,lbw,1,3.0,0,21,1,7
+530773,Pawan Negi,18 Mar 2013,v Punjab,Gurgaon,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+530773,Pawan Negi,19 Mar 2013,v Himachal,Rohtak,2,8,3*,12,4,0,0,75,not out,1,3.0,0,15,1,5
+530773,Pawan Negi,20 Mar 2013,v J & K,Gurgaon,1,7,12*,6,5,1,1,240,not out,2,3.0,0,14,1,4.66
+530773,Pawan Negi,21 Mar 2013,v Haryana,Rohtak,1,8,10,22,12,0,0,83.33,run out,2,2.0,0,18,0,9
+530773,Pawan Negi,22 Mar 2013,v Services,Rohtak,1,4,7,-,9,1,0,77.77,bowled,2,3.0,0,21,1,7
+530773,Pawan Negi,26 Mar 2013,v Kerala,Indore,1,6,2*,-,1,0,0,200,not out,2,2.0,0,21,1,10.5
+530773,Pawan Negi,27 Mar 2013,v Gujarat,Indore,1,6,0*,-,1,0,0,0,not out,2,3.0,0,8,1,2.66
+530773,Pawan Negi,28 Mar 2013,v Odisha,Indore,1,9,20,-,24,1,1,83.33,run out,2,1.4,0,10,0,6
+530773,Pawan Negi,30 Mar 2013,v Vidarbha,Indore,1,8,1,-,2,0,0,50,caught,2,2.0,0,20,0,10
+530773,Pawan Negi,7 May 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+530773,Pawan Negi,18 Apr 2014,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+530773,Pawan Negi,22 May 2014,v SRH,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+530773,Pawan Negi,2 Oct 2014,v Kings XI,Hyderabad,1,6,8,14,5,0,1,160,bowled,2,4.0,0,28,2,7
+530773,Pawan Negi,4 Oct 2014,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,5,5.5
+530773,Pawan Negi,24 Mar 2015,v J & K,Delhi,1,7,6,6,6,1,0,100,caught,2,4.0,0,30,2,7.5
+530773,Pawan Negi,25 Mar 2015,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+530773,Pawan Negi,26 Mar 2015,v Himachal,Delhi,2,6,11,14,13,1,0,84.61,caught,1,4.0,0,35,1,8.75
+530773,Pawan Negi,27 Mar 2015,v Haryana,Delhi,2,8,0*,6,1,0,0,0,not out,1,4.0,0,21,1,5.25
+530773,Pawan Negi,30 Apr 2015,v KKR,Eden Gardens,1,8,27,-,13,4,1,207.69,bowled,2,4.0,0,23,1,5.75
+530773,Pawan Negi,2 May 2015,v SRH,Hyderabad,2,6,15,22,11,1,1,136.36,bowled,1,2.0,0,20,1,10
+530773,Pawan Negi,4 May 2015,v RCB,Chennai,1,7,13,15,7,1,1,185.71,bowled,2,2.0,0,19,0,9.5
+530773,Pawan Negi,8 May 2015,v MI,Chennai,1,6,36,25,17,4,1,211.76,run out,2,4.0,0,34,0,8.5
+530773,Pawan Negi,10 May 2015,v RR,Chennai,1,5,2,8,3,0,0,66.66,caught,2,4.0,0,35,0,8.75
+530773,Pawan Negi,12 May 2015,v Daredevils,Raipur,1,7,5*,16,8,0,0,62.5,not out,2,3.0,0,28,2,9.33
+530773,Pawan Negi,16 May 2015,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+530773,Pawan Negi,19 May 2015,v MI,Wankhede,2,8,3,4,3,0,0,100,caught,1,4.0,0,46,0,11.5
+530773,Pawan Negi,22 May 2015,v RCB,Ranchi,2,6,12,13,6,0,1,200,run out,1,1.0,0,4,0,4
+530773,Pawan Negi,24 May 2015,v MI,Eden Gardens,2,6,3,18,5,0,0,60,caught,1,2.0,0,18,0,9
+530773,Pawan Negi,2 Jan 2016,v Railways,Vadodara,2,7,35*,26,18,5,1,194.44,not out,1,3.0,0,48,1,16
+530773,Pawan Negi,3 Jan 2016,v Andhra,Vadodara,1,7,22*,26,14,0,2,157.14,not out,2,4.0,0,28,2,7
+530773,Pawan Negi,4 Jan 2016,v M. Pradesh,Vadodara,2,7,17,23,11,1,1,154.54,caught,1,2.3,0,30,1,12
+530773,Pawan Negi,6 Jan 2016,v Assam,Vadodara,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+530773,Pawan Negi,9 Jan 2016,v Goa,Vadodara,1,7,3,6,5,0,0,60,bowled,2,4.0,0,14,1,3.5
+530773,Pawan Negi,10 Jan 2016,v Baroda,Vadodara,2,7,18*,15,9,1,1,200,not out,1,4.0,0,25,0,6.25
+530773,Pawan Negi,15 Jan 2016,v Gujarat,Mumbai,1,7,13*,8,8,1,1,162.5,not out,2,2.0,0,19,0,9.5
+530773,Pawan Negi,16 Jan 2016,v Jharkhand,Mumbai,2,7,24*,10,12,3,1,200,not out,1,DNB,-,-,-,-
+530773,Pawan Negi,18 Jan 2016,v UP,Mumbai,1,7,41*,26,23,4,2,178.26,not out,2,3.4,0,38,1,10.36
+530773,Pawan Negi,3 Mar 2016,v U.A.E.,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+530773,Pawan Negi,10 Apr 2016,v KKR,Eden Gardens,1,6,11,21,19,0,1,57.89,stumped,2,DNB,-,-,-,-
+530773,Pawan Negi,15 Apr 2016,v Kings XI,Delhi,2,4,8*,3,2,0,1,400,not out,1,1.0,0,10,0,10
+530773,Pawan Negi,17 Apr 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+530773,Pawan Negi,23 Apr 2016,v MI,Delhi,1,6,10*,20,10,1,0,100,not out,2,1.0,0,19,0,19
+530773,Pawan Negi,27 Apr 2016,v Guj Lions,Delhi,2,7,3*,16,4,0,0,75,not out,1,DNB,-,-,-,-
+530773,Pawan Negi,5 May 2016,v Supergiants,Delhi,1,7,19*,15,12,1,1,158.33,not out,2,1.0,0,10,0,10
+530773,Pawan Negi,20 May 2016,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+530773,Pawan Negi,22 May 2016,v RCB,Raipur,1,6,6,14,12,0,0,50,caught,2,3.0,0,19,1,6.33
+530773,Pawan Negi,29 Jan 2017,v J & K,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+530773,Pawan Negi,30 Jan 2017,v Punjab,Dharamsala,1,8,0,6,4,0,0,0,caught,2,3.2,0,27,1,8.1
+530773,Pawan Negi,31 Jan 2017,v Himachal,Nadaun,2,8,15,22,15,0,1,100,bowled,1,2.0,0,17,1,8.5
+530773,Pawan Negi,1 Feb 2017,v Haryana,Dharamsala,2,6,8*,16,9,1,0,88.88,not out,1,DNB,-,-,-,-
+530773,Pawan Negi,2 Feb 2017,v Services,Dharamsala,2,3,5,5,4,1,0,125,bowled,1,1.0,0,3,0,3
+530773,Pawan Negi,8 Apr 2017,v Daredevils,Bengaluru,1,7,10,12,8,0,1,125,bowled,2,1.0,0,3,2,3
+530773,Pawan Negi,10 Apr 2017,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+530773,Pawan Negi,14 Apr 2017,v MI,Bengaluru,1,5,13*,18,13,0,0,100,not out,2,2.0,0,28,0,14
+530773,Pawan Negi,16 Apr 2017,v Supergiant,Bengaluru,2,7,10,9,7,0,1,142.85,caught,1,3.0,0,12,1,4
+530773,Pawan Negi,18 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+530773,Pawan Negi,23 Apr 2017,v KKR,Eden Gardens,2,7,2,6,3,0,0,66.66,lbw,1,3.0,0,15,2,5
+530773,Pawan Negi,27 Apr 2017,v Guj Lions,Bengaluru,1,7,32,16,19,3,2,168.42,caught,2,2.0,0,24,1,12
+530773,Pawan Negi,29 Apr 2017,v Supergiant,Pune,2,7,3,11,7,0,0,42.85,caught,1,4.0,0,18,1,4.5
+530773,Pawan Negi,1 May 2017,v MI,Wankhede,1,7,35,30,23,1,3,152.17,caught,2,4.0,0,17,2,4.25
+530773,Pawan Negi,5 May 2017,v Kings XI,Bengaluru,2,7,21,30,23,2,0,91.3,caught,1,3.0,0,21,1,7
+530773,Pawan Negi,7 May 2017,v KKR,Bengaluru,1,7,5,7,3,1,0,166.66,caught,2,3.1,0,21,2,6.63
+530773,Pawan Negi,14 May 2017,v Daredevils,Delhi,1,8,13*,8,5,3,0,260,not out,2,2.0,0,10,3,5
+530773,Pawan Negi,9 Jan 2018,v Punjab,Delhi,2,6,8*,9,6,0,0,133.33,not out,1,2.0,0,8,2,4
+530773,Pawan Negi,10 Jan 2018,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+530773,Pawan Negi,12 Jan 2018,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+530773,Pawan Negi,14 Jan 2018,v Himachal,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+530773,Pawan Negi,16 Jan 2018,v Services,Delhi,1,8,0,3,0,0,0,-,run out,2,3.0,0,36,1,12
+530773,Pawan Negi,21 Jan 2018,v Tamil Nadu,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+530773,Pawan Negi,22 Jan 2018,v Baroda,Eden Gardens,2,9,1,4,2,0,0,50,caught,1,2.0,0,15,0,7.5
+530773,Pawan Negi,23 Jan 2018,v Bengal,Kolkata,2,7,3,11,5,0,0,60,stumped,1,DNB,-,-,-,-
+530773,Pawan Negi,25 Jan 2018,v UP,Kolkata,1,8,9,22,14,0,0,64.28,run out,2,2.0,0,13,2,6.5
+530773,Pawan Negi,26 Jan 2018,v Rajasthan,Eden Gardens,1,8,5*,5,3,0,0,166.66,not out,2,4.0,0,21,2,5.25
+530773,Pawan Negi,15 Apr 2018,v RR,Bengaluru,2,6,3,-,4,0,0,75,caught,1,1.0,0,13,0,13
+530773,Pawan Negi,25 Apr 2018,v CSK,Bengaluru,1,7,0,-,1,0,0,0,run out,2,3.0,0,36,1,12
+530773,Pawan Negi,21 Feb 2019,v Jharkhand,Mulapadu,2,7,2*,8,3,0,0,66.66,not out,1,2.0,0,18,1,9
+530773,Pawan Negi,22 Feb 2019,v Manipur,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+530773,Pawan Negi,24 Feb 2019,v J & K,Mulapadu,2,8,15*,26,7,0,1,214.28,not out,1,4.0,0,45,1,11.25
+530773,Pawan Negi,25 Feb 2019,v Kerala,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+530773,Pawan Negi,27 Feb 2019,v Andhra,Mulapadu,1,8,3,6,3,0,0,100,run out,2,4.0,0,40,1,10
+530773,Pawan Negi,2 Mar 2019,v Nagaland,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+530773,Pawan Negi,8 Mar 2019,v Vidarbha,Indore,1,7,18,-,22,2,0,81.81,bowled,2,2.0,0,18,0,9
+530773,Pawan Negi,9 Mar 2019,v Mumbai,Indore,1,7,12*,16,5,0,1,240,not out,2,4.0,0,23,0,5.75
+530773,Pawan Negi,10 Mar 2019,v Karnataka,Indore,1,8,5,19,10,0,0,50,caught,2,2.0,0,15,0,7.5
+530773,Pawan Negi,11 Mar 2019,v UP,Indore,2,8,2*,6,3,0,0,66.66,not out,1,3.0,0,9,3,3
+530773,Pawan Negi,5 Apr 2019,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.1,0,21,2,6.63
+530773,Pawan Negi,7 Apr 2019,v DC,Bengaluru,1,7,0,5,1,0,0,0,caught,2,3.0,0,27,1,9
+530773,Pawan Negi,13 Apr 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+530773,Pawan Negi,15 Apr 2019,v MI,Wankhede,1,7,0,3,2,0,0,0,caught,2,4.0,0,47,0,11.75
+530773,Pawan Negi,19 Apr 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+530773,Pawan Negi,21 Apr 2019,v CSK,Bengaluru,1,7,5,12,6,0,0,83.33,caught,2,1.0,0,7,0,7
+530773,Pawan Negi,30 Apr 2019,v RR,Bengaluru,1,7,4,6,3,1,0,133.33,caught,2,DNB,-,-,-,-
+530773,Pawan Negi,11 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+530773,Pawan Negi,12 Nov 2019,v Saurashtra,Surat,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+530773,Pawan Negi,14 Nov 2019,v J & K,Surat,1,9,0*,-,0,0,0,-,not out,2,3.0,0,33,0,11
+530773,Pawan Negi,15 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+530773,Pawan Negi,18 Nov 2019,v Odisha,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+530773,Pawan Negi,11 Jan 2021,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+530773,Pawan Negi,13 Jan 2021,v Andhra,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+530773,Pawan Negi,15 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14

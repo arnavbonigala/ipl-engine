@@ -1,0 +1,89 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+971349,Nandre Burger,14 Feb 2016,v S West D,Oudtshoorn,2,10,2*,15,11,0,0,18.18,not out,1,4.0,0,42,2,10.5
+971349,Nandre Burger,25 Sep 2016,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+971349,Nandre Burger,1 Sep 2017,v E. Province,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+971349,Nandre Burger,2 Sep 2017,v Northerns,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+971349,Nandre Burger,3 Sep 2017,v North West,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+971349,Nandre Burger,24 Sep 2017,v KZN-Inland,Kimberley,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+971349,Nandre Burger,14 Sep 2018,v Zim Select,Oudtshoorn,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+971349,Nandre Burger,14 Sep 2018,v S West D,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+971349,Nandre Burger,15 Sep 2018,v Free State,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+971349,Nandre Burger,16 Sep 2018,v Northerns,Oudtshoorn,2,8,1,6,2,0,0,50,caught,1,3.0,0,26,2,8.66
+971349,Nandre Burger,23 Sep 2018,v North West,East London,1,-,DNB,-,-,-,-,-,-,2,2.5,0,18,1,6.35
+971349,Nandre Burger,24 Sep 2018,v Border,East London,2,9,4*,7,4,0,0,100,not out,1,4.0,0,27,3,6.75
+971349,Nandre Burger,1 Dec 2018,v Spartans,Centurion,1,11,6*,8,6,1,0,100,not out,2,3.2,0,19,3,5.7
+971349,Nandre Burger,4 Dec 2018,v Jozi Stars,Cape Town,2,11,2*,4,3,0,0,66.66,not out,1,4.0,0,32,2,8
+971349,Nandre Burger,7 Dec 2018,v Paarl Rocks,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+971349,Nandre Burger,9 Dec 2018,v Durban Heat,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+971349,Nandre Burger,16 Dec 2018,v Jozi Stars,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.3,0,21,0,6
+971349,Nandre Burger,13 Sep 2019,v KZN-Inland,Kimberley,1,9,1,5,3,0,0,33.33,run out,2,4.0,0,22,2,5.5
+971349,Nandre Burger,14 Sep 2019,v E. Province,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+971349,Nandre Burger,14 Sep 2019,v Northern Cpe,Kimberley,2,11,1*,11,3,0,0,33.33,not out,1,4.0,0,32,1,8
+971349,Nandre Burger,15 Sep 2019,v Boland,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.0,0,7,1,2.33
+971349,Nandre Burger,10 Nov 2019,v Jozi Stars,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+971349,Nandre Burger,13 Nov 2019,v Spartans,Centurion,-,-,TDNB,-,-,-,-,-,-,1,2.0,1,5,0,2.5
+971349,Nandre Burger,16 Nov 2019,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.5,0,28,2,7.3
+971349,Nandre Burger,20 Nov 2019,v Blitz,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+971349,Nandre Burger,23 Nov 2019,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+971349,Nandre Burger,6 Dec 2019,v Blitz,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+971349,Nandre Burger,8 Dec 2019,v Paarl Rocks,Paarl,2,8,0*,1,0,0,0,-,not out,1,3.0,0,30,0,10
+971349,Nandre Burger,13 Dec 2019,v Spartans,Gqeberha,2,8,6,18,9,0,0,66.66,caught,1,4.0,0,32,0,8
+971349,Nandre Burger,24 Sep 2021,v Lions,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+971349,Nandre Burger,25 Sep 2021,v S West D,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+971349,Nandre Burger,19 Oct 2021,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+971349,Nandre Burger,21 Oct 2022,v Titans,Potchefstroom,2,10,4*,2,4,0,0,100,not out,1,3.0,0,20,2,6.66
+971349,Nandre Burger,27 Oct 2022,v North West,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+971349,Nandre Burger,29 Oct 2022,v Dolphins,Potchefstroom,1,11,0,2,5,0,0,0,lbw,2,2.0,0,10,1,5
+971349,Nandre Burger,31 Oct 2022,v Lions,Potchefstroom,2,10,4,9,7,0,0,57.14,run out,1,4.0,0,22,3,5.5
+971349,Nandre Burger,18 Jan 2023,v Capitals,Centurion,1,11,2,21,16,0,0,12.5,caught,2,3.0,0,24,1,8
+971349,Nandre Burger,24 Jan 2023,v Super Giants,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+971349,Nandre Burger,3 Feb 2023,v Paarl Royals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+971349,Nandre Burger,5 Feb 2023,v Sunrisers,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+971349,Nandre Burger,9 Feb 2023,v Sunrisers,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+971349,Nandre Burger,4 Aug 2023,v Galle Titans,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,2,7.5
+971349,Nandre Burger,5 Aug 2023,v B-Love Kandy,Pallekele,1,11,6*,-,7,1,0,85.71,not out,2,2.0,0,17,1,8.5
+971349,Nandre Burger,14 Dec 2023,v India,Johannesburg,2,9,1,9,3,0,0,33.33,lbw,1,4.0,0,39,1,9.75
+971349,Nandre Burger,13 Jan 2024,v MI Cape Town,Johannesburg,2,9,9,14,10,1,0,90,caught,1,4.0,0,53,2,13.25
+971349,Nandre Burger,15 Jan 2024,v Super Giants,Durban,2,10,1*,4,3,0,0,33.33,not out,1,4.0,0,22,1,5.5
+971349,Nandre Burger,17 Jan 2024,v Paarl Royals,Paarl,1,10,4,12,6,0,0,66.66,run out,2,2.0,0,20,0,10
+971349,Nandre Burger,20 Jan 2024,v Capitals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+971349,Nandre Burger,24 Jan 2024,v Paarl Royals,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+971349,Nandre Burger,27 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+971349,Nandre Burger,29 Jan 2024,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+971349,Nandre Burger,31 Jan 2024,v Sunrisers,Johannesburg,1,10,1*,17,5,0,0,20,not out,2,3.0,0,25,0,8.33
+971349,Nandre Burger,3 Feb 2024,v Super Giants,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+971349,Nandre Burger,7 Feb 2024,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+971349,Nandre Burger,8 Feb 2024,v Super Giants,Johannesburg,2,10,1,15,4,0,0,25,bowled,1,4.0,0,27,2,6.75
+971349,Nandre Burger,8 Mar 2024,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,1,13,1,3.25
+971349,Nandre Burger,10 Mar 2024,v KZN-Inland,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+971349,Nandre Burger,24 Mar 2024,v LSG,Jaipur,1,-,sub,-,-,-,-,-,-,2,3.0,0,30,1,10
+971349,Nandre Burger,28 Mar 2024,v DC,Jaipur,1,-,sub,-,-,-,-,-,-,2,3.0,0,29,2,9.66
+971349,Nandre Burger,1 Apr 2024,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+971349,Nandre Burger,6 Apr 2024,v RCB,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+971349,Nandre Burger,12 May 2024,v CSK,Chennai,1,-,sub,-,-,-,-,-,-,2,3.0,0,21,1,7
+971349,Nandre Burger,19 May 2024,v KKR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+971349,Nandre Burger,5 Jul 2024,v MI New York,Morrisville,1,10,4,-,9,0,0,44.44,caught,2,4.0,0,28,1,7
+971349,Nandre Burger,9 Jul 2024,v Los Angeles,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+971349,Nandre Burger,11 Jul 2024,v Washington,Dallas,1,10,3,-,6,0,0,50,caught,2,4.0,0,27,2,6.75
+971349,Nandre Burger,15 Jul 2024,v SF,Morrisville,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+971349,Nandre Burger,23 Jul 2024,v Texas,Dallas,2,10,3*,-,3,0,0,100,not out,1,4.0,0,42,1,10.5
+971349,Nandre Burger,23 Aug 2024,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.0,0,47,0,15.66
+971349,Nandre Burger,16 Jun 2025,v Seattle,Oakland,1,-,DNB,-,-,-,-,-,-,2,3.5,1,10,3,2.6
+971349,Nandre Burger,22 Jun 2025,v Washington,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+971349,Nandre Burger,24 Jun 2025,v Los Angeles,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+971349,Nandre Burger,29 Jun 2025,v MI New York,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+971349,Nandre Burger,2 Jul 2025,v Washington,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,2,12
+971349,Nandre Burger,4 Jul 2025,v SF,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+971349,Nandre Burger,14 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+971349,Nandre Burger,20 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+971349,Nandre Burger,26 Jul 2025,v New Zealand,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+971349,Nandre Burger,11 Oct 2025,v Namibia,Windhoek,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+971349,Nandre Burger,28 Oct 2025,v Pakistan,Rawalpindi,1,10,0*,2,2,0,0,0,not out,2,4.0,0,35,0,8.75
+971349,Nandre Burger,31 Oct 2025,v Pakistan,Lahore,1,9,9,29,16,0,0,56.25,bowled,2,2.0,0,14,0,7
+971349,Nandre Burger,6 Jan 2026,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,2,7.66
+971349,Nandre Burger,8 Jan 2026,v Paarl Royals,Johannesburg,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+971349,Nandre Burger,10 Jan 2026,v MI Cape Town,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+971349,Nandre Burger,14 Jan 2026,v Sunrisers,Gqeberha,2,9,7,11,8,1,0,87.5,caught,1,4.0,0,37,1,9.25
+971349,Nandre Burger,17 Jan 2026,v Capitals,Johannesburg,2,10,1,3,2,0,0,50,bowled,1,4.0,0,32,1,8
+971349,Nandre Burger,19 Jan 2026,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+971349,Nandre Burger,22 Jan 2026,v Paarl Royals,Centurion,2,10,17*,17,11,3,0,154.54,not out,1,4.0,0,45,1,11.25

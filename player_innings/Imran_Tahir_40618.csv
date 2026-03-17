@@ -1,0 +1,449 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+40618,Imran Tahir,24 Feb 2006,v K Dolphins,Karachi,2,11,11*,-,3,1,1,366.66,not out,1,1.0,0,13,0,13
+40618,Imran Tahir,25 Feb 2006,v Hawks,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,2,2.75
+40618,Imran Tahir,26 Feb 2006,v Quetta Bears,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+40618,Imran Tahir,27 Feb 2006,v Leopards,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+40618,Imran Tahir,28 Feb 2006,v Rhinos,Karachi,1,8,13,-,7,2,0,185.71,run out,2,4.0,0,23,0,5.75
+40618,Imran Tahir,3 Mar 2006,v Wolves,Karachi,1,9,1,-,3,0,0,33.33,caught,2,4.0,0,22,0,5.5
+40618,Imran Tahir,13 Apr 2008,v Lions,Centurion,1,10,0*,1,0,0,0,-,not out,2,4.0,1,13,3,3.25
+40618,Imran Tahir,25 Jan 2009,v Dolphins,Centurion,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+40618,Imran Tahir,1 Feb 2009,v Cape Cobras,Cape Town,2,9,0,4,1,0,0,0,caught,1,4.0,0,28,2,7
+40618,Imran Tahir,25 May 2009,v Sussex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+40618,Imran Tahir,27 May 2009,v Surrey,The Oval,2,10,1,2,3,0,0,33.33,bowled,1,4.0,0,21,0,5.25
+40618,Imran Tahir,29 May 2009,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+40618,Imran Tahir,31 May 2009,v Surrey,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+40618,Imran Tahir,2 Jun 2009,v Middlesex,Uxbridge,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+40618,Imran Tahir,4 Jun 2009,v Essex,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+40618,Imran Tahir,22 Jun 2009,v Kent,Tunbridge Wells,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+40618,Imran Tahir,23 Jun 2009,v Middlesex,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+40618,Imran Tahir,26 Jun 2009,v Kent,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+40618,Imran Tahir,28 Jun 2009,v Essex,Chelmsford,2,4,2,9,6,0,0,33.33,caught,1,4.0,0,33,0,8.25
+40618,Imran Tahir,29 Jul 2009,v Northants,Northampton,2,11,0*,1,0,0,0,-,not out,1,4.0,0,22,0,5.5
+40618,Imran Tahir,3 Jun 2010,v Northants,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,3,3.5
+40618,Imran Tahir,9 Jun 2010,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+40618,Imran Tahir,11 Jun 2010,v Durham,Birmingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,44,0,14.66
+40618,Imran Tahir,13 Jun 2010,v Lancashire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+40618,Imran Tahir,16 Jun 2010,v Notts,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+40618,Imran Tahir,18 Jun 2010,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+40618,Imran Tahir,20 Jun 2010,v Lancashire,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,3,4.5
+40618,Imran Tahir,23 Jun 2010,v Leics,Birmingham,2,11,11,10,10,0,1,110,caught,1,4.0,0,31,1,7.75
+40618,Imran Tahir,25 Jun 2010,v Derbyshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+40618,Imran Tahir,27 Jun 2010,v Notts,Nottingham,2,11,8*,1,3,0,1,266.66,not out,1,4.0,0,36,1,9
+40618,Imran Tahir,2 Jul 2010,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,3,6.33
+40618,Imran Tahir,4 Jul 2010,v Yorkshire,Leeds,1,9,0,1,1,0,0,0,caught,2,4.0,0,18,1,4.5
+40618,Imran Tahir,9 Jul 2010,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+40618,Imran Tahir,14 Jul 2010,v Yorkshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+40618,Imran Tahir,16 Jul 2010,v Worcs,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+40618,Imran Tahir,18 Jul 2010,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+40618,Imran Tahir,26 Jul 2010,v Hampshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+40618,Imran Tahir,1 Jun 2011,v Somerset,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+40618,Imran Tahir,3 Jun 2011,v Surrey,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+40618,Imran Tahir,5 Jun 2011,v Kent,Tunbridge Wells,1,-,DNB,-,-,-,-,-,-,2,1.0,0,20,0,20
+40618,Imran Tahir,10 Jun 2011,v Gloucs,Gloucester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+40618,Imran Tahir,17 Jun 2011,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,23 Jun 2011,v Essex,Chelmsford,2,11,1*,3,1,0,0,100,not out,1,4.0,0,22,1,5.5
+40618,Imran Tahir,24 Jun 2011,v Gloucs,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+40618,Imran Tahir,27 Jun 2011,v Sussex,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,1,13,3,3.25
+40618,Imran Tahir,30 Jun 2011,v Kent,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,2,4
+40618,Imran Tahir,1 Jul 2011,v Middlesex,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+40618,Imran Tahir,6 Jul 2011,v Essex,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+40618,Imran Tahir,8 Jul 2011,v Surrey,The Oval,2,11,17*,11,12,2,0,141.66,not out,1,4.0,0,25,1,6.25
+40618,Imran Tahir,10 Jul 2011,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+40618,Imran Tahir,15 Jul 2011,v Middlesex,Southampton,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,7 Aug 2011,v Durham,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+40618,Imran Tahir,27 Aug 2011,v Somerset,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,2,10
+40618,Imran Tahir,19 Feb 2012,v Impi,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+40618,Imran Tahir,22 Feb 2012,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+40618,Imran Tahir,24 Feb 2012,v Titans,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+40618,Imran Tahir,26 Feb 2012,v Cape Cobras,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+40618,Imran Tahir,17 Feb 2013,v Cape Cobras,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+40618,Imran Tahir,20 Feb 2013,v Titans,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+40618,Imran Tahir,22 Feb 2013,v Dolphins,Durban,1,11,0,1,1,0,0,0,bowled,2,4.0,0,25,1,6.25
+40618,Imran Tahir,24 Feb 2013,v Warriors,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+40618,Imran Tahir,2 Mar 2013,v Knights,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+40618,Imran Tahir,8 Mar 2013,v Cape Cobras,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+40618,Imran Tahir,12 Mar 2013,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+40618,Imran Tahir,19 Mar 2013,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+40618,Imran Tahir,22 Mar 2013,v Warriors,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+40618,Imran Tahir,28 Mar 2013,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+40618,Imran Tahir,7 Apr 2013,v Titans,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+40618,Imran Tahir,2 Aug 2013,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+40618,Imran Tahir,4 Aug 2013,v Sri Lanka,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+40618,Imran Tahir,6 Aug 2013,v Sri Lanka,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+40618,Imran Tahir,23 Sep 2013,v Scorchers,Ahmedabad,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,27 Sep 2013,v MI,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+40618,Imran Tahir,29 Sep 2013,v Otago,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+40618,Imran Tahir,13 Nov 2013,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+40618,Imran Tahir,15 Nov 2013,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+40618,Imran Tahir,20 Nov 2013,v Pakistan,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+40618,Imran Tahir,5 Jan 2014,v Warriors,Cape Town,2,11,3*,5,4,0,0,75,not out,1,4.0,0,22,1,5.5
+40618,Imran Tahir,12 Jan 2014,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,3.4,0,30,0,8.18
+40618,Imran Tahir,15 Jan 2014,v Cape Cobras,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+40618,Imran Tahir,17 Jan 2014,v Titans,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+40618,Imran Tahir,19 Jan 2014,v Warriors,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+40618,Imran Tahir,22 Jan 2014,v Dolphins,Durban,2,11,11*,9,5,2,0,220,not out,1,4.0,0,31,1,7.75
+40618,Imran Tahir,24 Jan 2014,v Knights,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,26 Jan 2014,v Titans,Benoni,1,10,4,6,2,1,0,200,caught,2,4.0,0,27,1,6.75
+40618,Imran Tahir,14 Mar 2014,v Australia,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+40618,Imran Tahir,22 Mar 2014,v Sri Lanka,Chattogram,2,10,8*,2,4,0,1,200,not out,1,4.0,0,26,3,6.5
+40618,Imran Tahir,24 Mar 2014,v New Zealand,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+40618,Imran Tahir,27 Mar 2014,v Netherlands,Chattogram,1,10,9*,9,7,1,0,128.57,not out,2,4.0,0,21,4,5.25
+40618,Imran Tahir,29 Mar 2014,v England,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+40618,Imran Tahir,4 Apr 2014,v India,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+40618,Imran Tahir,10 May 2014,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+40618,Imran Tahir,13 May 2014,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+40618,Imran Tahir,15 May 2014,v RR,Ahmedabad,2,9,4,15,6,1,0,66.66,bowled,1,4.0,0,25,2,6.25
+40618,Imran Tahir,19 May 2014,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+40618,Imran Tahir,23 May 2014,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,3,9.25
+40618,Imran Tahir,25 May 2014,v Kings XI,Mohali,1,10,4,2,4,1,0,100,caught,2,3.5,0,32,1,8.34
+40618,Imran Tahir,5 Nov 2014,v Australia,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+40618,Imran Tahir,7 Nov 2014,v Australia,Melbourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+40618,Imran Tahir,9 Jan 2015,v West Indies,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+40618,Imran Tahir,11 Jan 2015,v West Indies,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+40618,Imran Tahir,9 Apr 2015,v CSK,Chennai,2,10,2,5,2,0,0,100,caught,1,4.0,0,27,1,6.75
+40618,Imran Tahir,12 Apr 2015,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,4,7
+40618,Imran Tahir,15 Apr 2015,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,3,10.75
+40618,Imran Tahir,18 Apr 2015,v SRH,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+40618,Imran Tahir,20 Apr 2015,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+40618,Imran Tahir,23 Apr 2015,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+40618,Imran Tahir,26 Apr 2015,v RCB,Delhi,1,10,3*,9,4,0,0,75,not out,2,2.0,0,20,0,10
+40618,Imran Tahir,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+40618,Imran Tahir,5 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.3,0,27,0,10.8
+40618,Imran Tahir,7 May 2015,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,2,11.5
+40618,Imran Tahir,2 Oct 2015,v India,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+40618,Imran Tahir,5 Oct 2015,v India,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+40618,Imran Tahir,12 Dec 2015,v Titans,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+40618,Imran Tahir,19 Feb 2016,v England,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,4,5.25
+40618,Imran Tahir,21 Feb 2016,v England,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+40618,Imran Tahir,4 Mar 2016,v Australia,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+40618,Imran Tahir,6 Mar 2016,v Australia,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,0,11.75
+40618,Imran Tahir,9 Mar 2016,v Australia,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+40618,Imran Tahir,18 Mar 2016,v England,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+40618,Imran Tahir,20 Mar 2016,v Afghanistan,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+40618,Imran Tahir,25 Mar 2016,v West Indies,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,2,3.25
+40618,Imran Tahir,28 Mar 2016,v Sri Lanka,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+40618,Imran Tahir,23 Apr 2016,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+40618,Imran Tahir,27 Apr 2016,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+40618,Imran Tahir,5 May 2016,v Supergiants,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+40618,Imran Tahir,15 May 2016,v MI,Visakhapatnam,2,10,5,6,7,1,0,71.42,run out,1,4.0,0,59,0,14.75
+40618,Imran Tahir,1 Jul 2016,v Durham,Nottingham,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,8 Jul 2016,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+40618,Imran Tahir,9 Jul 2016,v Worcs,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+40618,Imran Tahir,15 Jul 2016,v Yorkshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+40618,Imran Tahir,22 Jul 2016,v Warwickshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+40618,Imran Tahir,29 Jul 2016,v Leics,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+40618,Imran Tahir,8 Aug 2016,v Essex,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+40618,Imran Tahir,13 Nov 2016,v Warriors,Durban,1,10,1*,1,1,0,0,100,not out,2,3.0,0,28,1,9.33
+40618,Imran Tahir,16 Nov 2016,v Lions,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+40618,Imran Tahir,20 Nov 2016,v Titans,Bloemfontein,2,10,5*,5,5,0,0,100,not out,1,4.0,0,38,1,9.5
+40618,Imran Tahir,23 Nov 2016,v Cape Cobras,Cape Town,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,25 Nov 2016,v Knights,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+40618,Imran Tahir,27 Nov 2016,v Lions,Johannesburg,2,9,6,14,6,1,0,100,bowled,1,4.0,0,32,2,8
+40618,Imran Tahir,30 Nov 2016,v Titans,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,25,0,12.5
+40618,Imran Tahir,4 Dec 2016,v Cape Cobras,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+40618,Imran Tahir,7 Dec 2016,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+40618,Imran Tahir,11 Dec 2016,v Knights,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+40618,Imran Tahir,20 Jan 2017,v Sri Lanka,Centurion,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,2,11.5
+40618,Imran Tahir,22 Jan 2017,v Sri Lanka,Johannesburg,1,10,1,8,6,0,0,16.66,bowled,2,4.0,0,14,1,3.5
+40618,Imran Tahir,25 Jan 2017,v Sri Lanka,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+40618,Imran Tahir,17 Feb 2017,v New Zealand,Auckland,1,-,DNB,-,-,-,-,-,-,2,3.5,0,24,5,6.26
+40618,Imran Tahir,6 Apr 2017,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+40618,Imran Tahir,8 Apr 2017,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+40618,Imran Tahir,11 Apr 2017,v Daredevils,Pune,2,11,0*,5,2,0,0,0,not out,1,4.0,0,24,1,6
+40618,Imran Tahir,14 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25
+40618,Imran Tahir,16 Apr 2017,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+40618,Imran Tahir,22 Apr 2017,v SRH,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+40618,Imran Tahir,24 Apr 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+40618,Imran Tahir,26 Apr 2017,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+40618,Imran Tahir,29 Apr 2017,v RCB,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+40618,Imran Tahir,1 May 2017,v Guj Lions,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+40618,Imran Tahir,3 May 2017,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+40618,Imran Tahir,6 May 2017,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+40618,Imran Tahir,21 Jun 2017,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+40618,Imran Tahir,25 Jun 2017,v England,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+40618,Imran Tahir,7 Jul 2017,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+40618,Imran Tahir,8 Jul 2017,v Yorkshire,Chesterfield,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+40618,Imran Tahir,16 Jul 2017,v Lancashire,Manchester,1,10,0*,1,0,0,0,-,not out,2,4.0,0,32,2,8
+40618,Imran Tahir,19 Jul 2017,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+40618,Imran Tahir,21 Jul 2017,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+40618,Imran Tahir,23 Jul 2017,v Warwickshire,Birmingham,2,11,8*,3,4,1,0,200,not out,1,4.0,0,34,0,8.5
+40618,Imran Tahir,25 Jul 2017,v Lancashire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+40618,Imran Tahir,30 Jul 2017,v Leics,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+40618,Imran Tahir,3 Aug 2017,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+40618,Imran Tahir,4 Aug 2017,v Notts,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+40618,Imran Tahir,15 Aug 2017,v Durham,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+40618,Imran Tahir,17 Aug 2017,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,1,3.25
+40618,Imran Tahir,18 Aug 2017,v Worcs,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,4,4.25
+40618,Imran Tahir,22 Aug 2017,v Hampshire,Derby,2,11,23,18,16,0,2,143.75,caught,1,4.0,0,42,0,10.5
+40618,Imran Tahir,12 Sep 2017,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+40618,Imran Tahir,13 Sep 2017,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+40618,Imran Tahir,15 Sep 2017,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+40618,Imran Tahir,17 Nov 2017,v Knights,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,19 Nov 2017,v Lions,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+40618,Imran Tahir,24 Nov 2017,v Titans,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,1 Dec 2017,v Cape Cobras,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+40618,Imran Tahir,3 Dec 2017,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+40618,Imran Tahir,8 Dec 2017,v Knights,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+40618,Imran Tahir,10 Dec 2017,v Titans,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+40618,Imran Tahir,16 Dec 2017,v Titans,Centurion,1,10,1*,7,2,0,0,50,not out,2,DNB,-,-,-,-
+40618,Imran Tahir,22 Feb 2018,v Zalmi,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+40618,Imran Tahir,23 Feb 2018,v Qalandars,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.2,0,27,3,8.1
+40618,Imran Tahir,25 Feb 2018,v United,Dubai (DICS),1,9,2,-,5,0,0,40,bowled,2,4.0,1,19,3,4.75
+40618,Imran Tahir,2 Mar 2018,v Kings,Sharjah,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,3 Mar 2018,v Gladiators,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.4,0,19,3,7.12
+40618,Imran Tahir,6 Mar 2018,v Zalmi,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+40618,Imran Tahir,7 Mar 2018,v Gladiators,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+40618,Imran Tahir,9 Mar 2018,v Qalandars,Dubai (DICS),1,9,2*,-,5,0,0,40,not out,2,4.0,0,26,1,6.5
+40618,Imran Tahir,10 Mar 2018,v Kings,Dubai (DICS),2,9,2,-,9,0,0,22.22,bowled,1,3.0,0,27,0,9
+40618,Imran Tahir,13 Mar 2018,v United,Sharjah,2,10,7*,-,4,1,0,175,not out,1,4.0,0,29,1,7.25
+40618,Imran Tahir,7 Apr 2018,v MI,Wankhede,2,11,2*,-,2,0,0,100,not out,1,2.0,0,23,1,11.5
+40618,Imran Tahir,10 Apr 2018,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+40618,Imran Tahir,15 Apr 2018,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+40618,Imran Tahir,20 Apr 2018,v RR,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+40618,Imran Tahir,25 Apr 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+40618,Imran Tahir,28 Apr 2018,v MI,Pune,1,-,DNB,-,-,-,-,-,-,2,2.4,0,26,0,9.75
+40618,Imran Tahir,5 Jul 2018,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+40618,Imran Tahir,6 Jul 2018,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,4,3.5
+40618,Imran Tahir,13 Jul 2018,v Yorkshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+40618,Imran Tahir,15 Jul 2018,v Bears,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,0,13.25
+40618,Imran Tahir,17 Jul 2018,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+40618,Imran Tahir,20 Jul 2018,v Worcs,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+40618,Imran Tahir,28 Jul 2018,v Notts,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+40618,Imran Tahir,2 Aug 2018,v Northants,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,4,4
+40618,Imran Tahir,9 Aug 2018,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+40618,Imran Tahir,11 Aug 2018,v Stars,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+40618,Imran Tahir,12 Aug 2018,v Tridents,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+40618,Imran Tahir,18 Aug 2018,v Tallawahs,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+40618,Imran Tahir,24 Aug 2018,v Stars,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+40618,Imran Tahir,28 Aug 2018,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,4,5.5
+40618,Imran Tahir,31 Aug 2018,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+40618,Imran Tahir,5 Sep 2018,v Trinbago,Port of Spain,2,11,0,-,2,0,0,0,caught,1,4.0,0,27,0,6.75
+40618,Imran Tahir,8 Sep 2018,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+40618,Imran Tahir,9 Sep 2018,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+40618,Imran Tahir,11 Sep 2018,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+40618,Imran Tahir,16 Sep 2018,v Trinbago,Tarouba,1,11,8*,-,4,0,1,200,not out,2,4.0,0,17,0,4.25
+40618,Imran Tahir,9 Oct 2018,v Zimbabwe,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,5,5.75
+40618,Imran Tahir,21 Nov 2018,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+40618,Imran Tahir,23 Nov 2018,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+40618,Imran Tahir,25 Nov 2018,v Spartans,Centurion,1,10,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+40618,Imran Tahir,30 Nov 2018,v Paarl Rocks,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+40618,Imran Tahir,2 Dec 2018,v Jozi Stars,Gqeberha,2,11,9*,9,6,0,1,150,not out,1,4.0,0,24,0,6
+40618,Imran Tahir,5 Dec 2018,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,8 Dec 2018,v Spartans,Gqeberha,2,11,4*,13,9,0,0,44.44,not out,1,4.0,0,30,1,7.5
+40618,Imran Tahir,19 Mar 2019,v Sri Lanka,Cape Town,2,10,1*,3,1,0,0,100,not out,1,4.0,0,21,1,5.25
+40618,Imran Tahir,23 Mar 2019,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,3,2.25
+40618,Imran Tahir,26 Mar 2019,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+40618,Imran Tahir,31 Mar 2019,v RR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+40618,Imran Tahir,3 Apr 2019,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+40618,Imran Tahir,6 Apr 2019,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+40618,Imran Tahir,9 Apr 2019,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+40618,Imran Tahir,11 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+40618,Imran Tahir,14 Apr 2019,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,4,6.75
+40618,Imran Tahir,17 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+40618,Imran Tahir,21 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+40618,Imran Tahir,23 Apr 2019,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+40618,Imran Tahir,26 Apr 2019,v MI,Chennai,2,11,0*,2,0,0,0,-,not out,1,4.0,0,37,1,9.25
+40618,Imran Tahir,1 May 2019,v DC,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.2,0,12,4,3.6
+40618,Imran Tahir,5 May 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+40618,Imran Tahir,7 May 2019,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+40618,Imran Tahir,10 May 2019,v DC,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+40618,Imran Tahir,12 May 2019,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+40618,Imran Tahir,19 Jul 2019,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,2.0,0,39,0,19.5
+40618,Imran Tahir,23 Jul 2019,v Middlesex,The Oval,2,11,5*,7,6,0,0,83.33,not out,1,4.0,0,40,1,10
+40618,Imran Tahir,25 Jul 2019,v Glamorgan,The Oval,1,11,0,4,2,0,0,0,caught,2,3.0,0,8,3,2.66
+40618,Imran Tahir,26 Jul 2019,v Sussex,Hove,2,10,8*,6,4,0,1,200,not out,1,4.0,0,21,1,5.25
+40618,Imran Tahir,30 Jul 2019,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,1,11
+40618,Imran Tahir,2 Aug 2019,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+40618,Imran Tahir,8 Aug 2019,v Middlesex,Lord's,2,11,4,6,5,0,0,80,caught,1,4.0,0,45,1,11.25
+40618,Imran Tahir,9 Aug 2019,v Gloucs,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+40618,Imran Tahir,11 Aug 2019,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+40618,Imran Tahir,15 Aug 2019,v Sussex,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+40618,Imran Tahir,23 Aug 2019,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+40618,Imran Tahir,27 Aug 2019,v Somerset,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,4,6.25
+40618,Imran Tahir,29 Aug 2019,v Essex,The Oval,2,11,0*,4,0,0,0,-,not out,1,4.0,0,34,0,8.5
+40618,Imran Tahir,14 Sep 2019,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+40618,Imran Tahir,18 Sep 2019,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+40618,Imran Tahir,22 Sep 2019,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+40618,Imran Tahir,25 Sep 2019,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,2,5.75
+40618,Imran Tahir,30 Sep 2019,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,2,10.66
+40618,Imran Tahir,3 Oct 2019,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,3,3
+40618,Imran Tahir,4 Oct 2019,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+40618,Imran Tahir,6 Oct 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,2,3.25
+40618,Imran Tahir,12 Oct 2019,v Tridents,Tarouba,2,10,4*,-,5,0,0,80,not out,1,4.0,0,24,1,6
+40618,Imran Tahir,10 Nov 2019,v Jozi Stars,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+40618,Imran Tahir,13 Nov 2019,v Spartans,Centurion,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+40618,Imran Tahir,16 Nov 2019,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+40618,Imran Tahir,20 Nov 2019,v Blitz,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+40618,Imran Tahir,23 Nov 2019,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,1,5
+40618,Imran Tahir,27 Nov 2019,v Paarl Rocks,Gqeberha,2,11,2*,8,4,0,0,50,not out,1,4.0,0,19,2,4.75
+40618,Imran Tahir,30 Nov 2019,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+40618,Imran Tahir,3 Dec 2019,v Spartans,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+40618,Imran Tahir,6 Dec 2019,v Blitz,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+40618,Imran Tahir,8 Dec 2019,v Paarl Rocks,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+40618,Imran Tahir,13 Dec 2019,v Spartans,Gqeberha,2,9,4*,4,3,0,0,133.33,not out,1,4.0,0,26,1,6.5
+40618,Imran Tahir,21 Feb 2020,v Qalandars,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+40618,Imran Tahir,22 Feb 2020,v United,Lahore,1,10,3*,-,2,0,0,150,not out,2,4.0,0,44,0,11
+40618,Imran Tahir,26 Feb 2020,v Zalmi,Multan,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+40618,Imran Tahir,28 Feb 2020,v Kings,Multan,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,3,9.33
+40618,Imran Tahir,29 Feb 2020,v Gladiators,Multan,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+40618,Imran Tahir,6 Mar 2020,v Kings,Lahore,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,8 Mar 2020,v United,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,2,6.5
+40618,Imran Tahir,13 Mar 2020,v Zalmi,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+40618,Imran Tahir,18 Aug 2020,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+40618,Imran Tahir,19 Aug 2020,v Patriots,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+40618,Imran Tahir,22 Aug 2020,v Tallawahs,Tarouba,1,11,1*,-,3,0,0,33.33,not out,2,4.0,1,26,1,6.5
+40618,Imran Tahir,23 Aug 2020,v Zouks,Tarouba,2,10,1*,-,1,0,0,100,not out,1,4.0,0,22,3,5.5
+40618,Imran Tahir,25 Aug 2020,v Tallawahs,Port of Spain,1,10,9,-,5,0,0,180,run out,2,4.0,0,23,1,5.75
+40618,Imran Tahir,27 Aug 2020,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+40618,Imran Tahir,30 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+40618,Imran Tahir,1 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+40618,Imran Tahir,2 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,1,2.5
+40618,Imran Tahir,3 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+40618,Imran Tahir,8 Sep 2020,v Zouks,Tarouba,1,11,0,-,1,0,0,0,caught,2,2.0,0,24,0,12
+40618,Imran Tahir,23 Oct 2020,v MI,Sharjah,1,10,13*,-,10,2,0,130,not out,2,3.0,0,22,0,7.33
+40618,Imran Tahir,25 Oct 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+40618,Imran Tahir,1 Nov 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+40618,Imran Tahir,14 Nov 2020,v Kings,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+40618,Imran Tahir,15 Nov 2020,v Qalandars,Karachi,2,10,1,-,2,0,0,50,caught,1,4.0,0,30,0,7.5
+40618,Imran Tahir,3 Mar 2021,v Gladiators,Karachi,2,9,14,12,8,1,1,175,run out,1,4.0,0,29,2,7.25
+40618,Imran Tahir,25 Apr 2021,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+40618,Imran Tahir,10 Jun 2021,v Kings,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+40618,Imran Tahir,13 Jun 2021,v Zalmi,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+40618,Imran Tahir,16 Jun 2021,v Gladiators,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,1,7,3,3.5
+40618,Imran Tahir,18 Jun 2021,v Qalandars,Abu Dhabi,1,8,4,-,2,1,0,200,caught,2,3.0,0,18,1,6
+40618,Imran Tahir,21 Jun 2021,v United,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+40618,Imran Tahir,24 Jun 2021,v Zalmi,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+40618,Imran Tahir,23 Jul 2021,v Spirit,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,10.5
+40618,Imran Tahir,25 Jul 2021,v Originals,Manchester,1,11,0,3,1,0,0,0,lbw,2,4.0,0,31,1,9.3
+40618,Imran Tahir,30 Jul 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,8.1
+40618,Imran Tahir,1 Aug 2021,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,8.4
+40618,Imran Tahir,4 Aug 2021,v Invincibles,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,8.7
+40618,Imran Tahir,9 Aug 2021,v Fire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.4,0,25,5,7.89
+40618,Imran Tahir,13 Aug 2021,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,7.8
+40618,Imran Tahir,17 Aug 2021,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,5.4
+40618,Imran Tahir,21 Aug 2021,v Brave,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,9.9
+40618,Imran Tahir,26 Aug 2021,v Trinbago,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+40618,Imran Tahir,28 Aug 2021,v Patriots,Basseterre,1,9,4,16,6,0,0,66.66,caught,2,4.0,0,32,1,8
+40618,Imran Tahir,29 Aug 2021,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+40618,Imran Tahir,1 Sep 2021,v Trinbago,Basseterre,2,10,2,4,2,0,0,100,run out,1,4.0,0,14,1,3.5
+40618,Imran Tahir,2 Sep 2021,v Kings,Basseterre,2,11,0,13,2,0,0,0,bowled,1,4.0,0,26,0,6.5
+40618,Imran Tahir,4 Sep 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+40618,Imran Tahir,7 Sep 2021,v Royals,Basseterre,2,11,0*,2,0,0,0,-,not out,1,4.0,0,29,1,7.25
+40618,Imran Tahir,8 Sep 2021,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+40618,Imran Tahir,11 Sep 2021,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+40618,Imran Tahir,12 Sep 2021,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,2.0,2,0,2,0
+40618,Imran Tahir,14 Sep 2021,v Patriots,Basseterre,1,11,5*,7,2,1,0,250,not out,2,4.0,0,41,0,10.25
+40618,Imran Tahir,6 Dec 2021,v Warriors,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+40618,Imran Tahir,7 Dec 2021,v Jaffna Kings,Colombo (RPS),1,11,0,-,3,0,0,0,bowled,2,4.0,0,20,1,5
+40618,Imran Tahir,8 Dec 2021,v Stars,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+40618,Imran Tahir,10 Dec 2021,v Galle,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+40618,Imran Tahir,11 Dec 2021,v Stars,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+40618,Imran Tahir,13 Dec 2021,v Jaffna Kings,Colombo (RPS),1,10,8,-,8,2,0,100,lbw,2,4.0,0,21,2,5.25
+40618,Imran Tahir,14 Dec 2021,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,3,6.66
+40618,Imran Tahir,16 Dec 2021,v Warriors,Colombo (RPS),1,11,5*,-,2,1,0,250,not out,2,4.0,0,17,2,4.25
+40618,Imran Tahir,19 Dec 2021,v Stars,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+40618,Imran Tahir,21 Dec 2021,v Jaffna Kings,Hambantota,2,10,6,-,5,1,0,120,caught,1,4.0,0,24,0,6
+40618,Imran Tahir,27 Jan 2022,v Kings,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+40618,Imran Tahir,29 Jan 2022,v Qalandars,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+40618,Imran Tahir,31 Jan 2022,v Gladiators,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+40618,Imran Tahir,1 Feb 2022,v United,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+40618,Imran Tahir,5 Feb 2022,v Zalmi,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+40618,Imran Tahir,10 Feb 2022,v Zalmi,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+40618,Imran Tahir,11 Feb 2022,v Qalandars,Lahore,2,9,3,20,9,0,0,33.33,caught,1,4.0,0,30,1,7.5
+40618,Imran Tahir,16 Feb 2022,v Kings,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+40618,Imran Tahir,18 Feb 2022,v Gladiators,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+40618,Imran Tahir,20 Feb 2022,v United,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,8,2,2
+40618,Imran Tahir,23 Feb 2022,v Qalandars,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+40618,Imran Tahir,27 Feb 2022,v Qalandars,Lahore,2,10,10,-,7,2,0,142.85,caught,1,4.0,0,22,0,5.5
+40618,Imran Tahir,6 Aug 2022,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,11.2
+40618,Imran Tahir,10 Aug 2022,v Brave,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,11.4
+40618,Imran Tahir,13 Aug 2022,v Fire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,13.2
+40618,Imran Tahir,15 Aug 2022,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,7.8
+40618,Imran Tahir,19 Aug 2022,v N S-Chargers,Birmingham,2,11,6*,1,1,0,1,600,not out,1,4.0,0,24,1,7.2
+40618,Imran Tahir,23 Aug 2022,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,13.6
+40618,Imran Tahir,3 Sep 2022,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+40618,Imran Tahir,8 Sep 2022,v Patriots,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+40618,Imran Tahir,10 Sep 2022,v Kings,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+40618,Imran Tahir,14 Sep 2022,v Trinbago,Port of Spain,2,10,5,7,5,1,0,100,caught,1,4.0,0,19,1,4.75
+40618,Imran Tahir,18 Sep 2022,v Royals,Tarouba,2,10,5,-,4,1,0,125,caught,1,3.0,0,30,1,10
+40618,Imran Tahir,21 Sep 2022,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+40618,Imran Tahir,22 Sep 2022,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+40618,Imran Tahir,24 Sep 2022,v Trinbago,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+40618,Imran Tahir,25 Sep 2022,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+40618,Imran Tahir,27 Sep 2022,v Royals,Providence,2,11,7,-,7,0,1,100,caught,1,3.0,0,34,1,11.33
+40618,Imran Tahir,28 Sep 2022,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+40618,Imran Tahir,14 Feb 2023,v Zalmi,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+40618,Imran Tahir,18 Feb 2023,v Gladiators,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+40618,Imran Tahir,19 Feb 2023,v Qalandars,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+40618,Imran Tahir,22 Feb 2023,v Sultans,Multan,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+40618,Imran Tahir,12 Mar 2023,v Qalandars,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+40618,Imran Tahir,19 Aug 2023,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,24 Aug 2023,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+40618,Imran Tahir,27 Aug 2023,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,1,13
+40618,Imran Tahir,2 Sep 2023,v Patriots,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,3.1,0,18,0,5.68
+40618,Imran Tahir,5 Sep 2023,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+40618,Imran Tahir,10 Sep 2023,v Royals,Tarouba,1,11,4*,-,1,0,0,400,not out,2,4.0,0,21,0,5.25
+40618,Imran Tahir,13 Sep 2023,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+40618,Imran Tahir,14 Sep 2023,v Kings,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+40618,Imran Tahir,16 Sep 2023,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+40618,Imran Tahir,17 Sep 2023,v Royals,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+40618,Imran Tahir,20 Sep 2023,v Trinbago,Providence,1,-,DNB,-,-,-,-,-,-,2,3.1,0,30,1,9.47
+40618,Imran Tahir,22 Sep 2023,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,2.2,0,7,3,3
+40618,Imran Tahir,24 Sep 2023,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,8,2,2
+40618,Imran Tahir,13 Jan 2024,v MI Cape Town,Johannesburg,2,11,1*,2,2,0,0,50,not out,1,3.0,0,31,1,10.33
+40618,Imran Tahir,15 Jan 2024,v Super Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+40618,Imran Tahir,17 Jan 2024,v Paarl Royals,Paarl,1,11,0*,1,1,0,0,0,not out,2,4.0,0,12,1,3
+40618,Imran Tahir,20 Jan 2024,v Capitals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+40618,Imran Tahir,24 Jan 2024,v Paarl Royals,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+40618,Imran Tahir,27 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+40618,Imran Tahir,29 Jan 2024,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,2,13
+40618,Imran Tahir,31 Jan 2024,v Sunrisers,Johannesburg,1,11,1,8,7,0,0,14.28,caught,2,2.0,0,11,0,5.5
+40618,Imran Tahir,3 Feb 2024,v Super Giants,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+40618,Imran Tahir,7 Feb 2024,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+40618,Imran Tahir,8 Feb 2024,v Super Giants,Johannesburg,2,11,1*,3,2,0,0,50,not out,1,3.0,0,45,0,15
+40618,Imran Tahir,10 Feb 2024,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+40618,Imran Tahir,13 Feb 2024,v Khulna,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,5,6.5
+40618,Imran Tahir,20 Feb 2024,v Victorians,Chattogram,1,11,5,17,5,1,0,100,caught,2,4.0,0,20,0,5
+40618,Imran Tahir,30 Aug 2024,v Falcons,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+40618,Imran Tahir,4 Sep 2024,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,1,48,3,12
+40618,Imran Tahir,7 Sep 2024,v Kings,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+40618,Imran Tahir,20 Sep 2024,v Patriots,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+40618,Imran Tahir,21 Sep 2024,v Falcons,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+40618,Imran Tahir,25 Sep 2024,v Royals,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+40618,Imran Tahir,28 Sep 2024,v Kings,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+40618,Imran Tahir,29 Sep 2024,v Trinbago,Providence,2,10,20,34,20,2,0,100,caught,1,3.0,0,29,1,9.66
+40618,Imran Tahir,2 Oct 2024,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+40618,Imran Tahir,4 Oct 2024,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+40618,Imran Tahir,6 Oct 2024,v Kings,Providence,1,-,DNB,-,-,-,-,-,-,2,3.1,0,16,0,5.05
+40618,Imran Tahir,26 Nov 2024,v Qalandars,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+40618,Imran Tahir,29 Nov 2024,v Victoria,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+40618,Imran Tahir,1 Dec 2024,v Hampshire,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+40618,Imran Tahir,4 Dec 2024,v Rangpur,Providence,2,9,2,-,2,0,0,100,caught,1,4.0,0,24,2,6
+40618,Imran Tahir,14 Jan 2025,v Super Giants,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+40618,Imran Tahir,16 Jan 2025,v Capitals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+40618,Imran Tahir,18 Jan 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+40618,Imran Tahir,20 Jan 2025,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+40618,Imran Tahir,24 Jan 2025,v Sunrisers,Gqeberha,2,10,0*,5,1,0,0,0,not out,1,4.0,0,28,0,7
+40618,Imran Tahir,26 Jan 2025,v Sunrisers,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+40618,Imran Tahir,28 Jan 2025,v Capitals,Centurion,1,9,4,16,7,0,0,57.14,caught,2,1.0,0,8,0,8
+40618,Imran Tahir,30 Jan 2025,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+40618,Imran Tahir,5 Feb 2025,v Sunrisers,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+40618,Imran Tahir,10 Jul 2025,v Rangpur,Providence,2,11,0*,-,0,0,0,-,not out,1,4.0,0,21,2,5.25
+40618,Imran Tahir,11 Jul 2025,v Central D,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+40618,Imran Tahir,13 Jul 2025,v DC,Providence,1,-,DNB,-,-,-,-,-,-,2,3.4,0,12,4,3.27
+40618,Imran Tahir,16 Jul 2025,v Hurricanes,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+40618,Imran Tahir,18 Jul 2025,v Rangpur,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+40618,Imran Tahir,15 Aug 2025,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,1,29,2,7.25
+40618,Imran Tahir,22 Aug 2025,v Falcons,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,5,5.25
+40618,Imran Tahir,26 Aug 2025,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+40618,Imran Tahir,30 Aug 2025,v Trinbago,Tarouba,1,11,6*,1,1,0,1,600,not out,2,4.0,0,27,4,6.75
+40618,Imran Tahir,4 Sep 2025,v Royals,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+40618,Imran Tahir,6 Sep 2025,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+40618,Imran Tahir,7 Sep 2025,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+40618,Imran Tahir,10 Sep 2025,v Falcons,Providence,1,11,3*,17,6,0,0,50,not out,2,4.0,0,27,2,6.75
+40618,Imran Tahir,13 Sep 2025,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+40618,Imran Tahir,14 Sep 2025,v Royals,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+40618,Imran Tahir,17 Sep 2025,v Kings,Providence,1,11,1*,3,1,0,0,100,not out,2,4.0,0,22,2,5.5
+40618,Imran Tahir,21 Sep 2025,v Trinbago,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+40618,Imran Tahir,14 Jan 2026,v Sunrisers,Gqeberha,2,10,2*,10,3,0,0,66.66,not out,1,3.0,0,33,0,11
+40618,Imran Tahir,19 Jan 2026,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25

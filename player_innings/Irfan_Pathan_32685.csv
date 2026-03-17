@@ -1,0 +1,182 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+32685,Irfan Pathan,22 Jun 2005,v Hampshire,Southampton,1,6,5,5,5,1,0,100,stumped,2,4.0,0,16,3,4
+32685,Irfan Pathan,23 Jun 2005,v Surrey,Lord's,2,7,0,1,1,0,0,0,caught,1,4.0,0,31,1,7.75
+32685,Irfan Pathan,25 Jun 2005,v Kent,Beckenham,1,7,11,7,6,1,1,183.33,caught,2,4.0,0,30,1,7.5
+32685,Irfan Pathan,28 Jun 2005,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+32685,Irfan Pathan,29 Jun 2005,v Kent,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+32685,Irfan Pathan,1 Jul 2005,v Essex,Southgate,1,7,21*,7,8,0,2,262.5,not out,2,4.0,0,27,4,6.75
+32685,Irfan Pathan,4 Jul 2005,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+32685,Irfan Pathan,1 Dec 2006,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+32685,Irfan Pathan,3 Apr 2007,v Mumbai,Wankhede,1,4,9,11,6,0,1,150,lbw,2,3.0,0,35,0,11.66
+32685,Irfan Pathan,5 Apr 2007,v Gujarat,Wankhede,1,4,14,11,12,1,1,116.66,run out,2,4.0,0,38,2,9.5
+32685,Irfan Pathan,6 Apr 2007,v Saurashtra,Brabourne,1,4,1,3,2,0,0,50,run out,2,2.0,1,5,1,2.5
+32685,Irfan Pathan,7 Apr 2007,v Maharashtra,Wankhede,1,3,21,21,13,3,1,161.53,caught,2,3.0,0,26,0,8.66
+32685,Irfan Pathan,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+32685,Irfan Pathan,14 Sep 2007,v Pakistan,Durban,1,7,20,11,15,0,2,133.33,bowled,2,4.0,1,20,2,5
+32685,Irfan Pathan,16 Sep 2007,v New Zealand,Johannesburg,2,7,11,9,10,2,0,110,bowled,1,2.0,0,16,0,8
+32685,Irfan Pathan,19 Sep 2007,v England,Durban,1,6,0*,1,0,0,0,-,not out,2,4.0,0,37,3,9.25
+32685,Irfan Pathan,20 Sep 2007,v South Africa,Durban,1,7,0*,1,1,0,0,0,not out,2,4.0,0,16,0,4
+32685,Irfan Pathan,22 Sep 2007,v Australia,Durban,1,7,0*,1,1,0,0,0,not out,2,4.0,0,44,2,11
+32685,Irfan Pathan,24 Sep 2007,v Pakistan,Johannesburg,1,7,3*,9,3,0,0,100,not out,2,4.0,0,16,3,4
+32685,Irfan Pathan,20 Oct 2007,v Australia,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+32685,Irfan Pathan,1 Feb 2008,v Australia,Melbourne,1,7,26,41,30,0,0,86.66,caught,2,3.0,0,18,0,6
+32685,Irfan Pathan,19 Apr 2008,v CSK,Mohali,2,6,3*,-,5,0,0,60,not out,1,4.0,0,47,2,11.75
+32685,Irfan Pathan,21 Apr 2008,v RR,Jaipur,1,6,12,-,19,0,1,63.15,bowled,2,4.0,0,21,1,5.25
+32685,Irfan Pathan,25 Apr 2008,v MI,Mohali,1,2,6,-,3,0,0,200,caught,2,4.0,1,19,2,4.75
+32685,Irfan Pathan,27 Apr 2008,v Daredevils,Mohali,2,7,10,-,7,2,0,142.85,caught,1,4.0,0,26,2,6.5
+32685,Irfan Pathan,1 May 2008,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+32685,Irfan Pathan,3 May 2008,v KKR,Mohali,1,7,24*,-,26,2,0,92.3,not out,2,4.0,0,18,2,4.5
+32685,Irfan Pathan,5 May 2008,v RCB,Bengaluru,2,6,17*,-,17,1,1,100,not out,1,3.2,0,13,1,3.9
+32685,Irfan Pathan,10 May 2008,v CSK,Chennai,2,7,40,-,18,3,3,222.22,caught,1,4.0,0,33,0,8.25
+32685,Irfan Pathan,12 May 2008,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+32685,Irfan Pathan,17 May 2008,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+32685,Irfan Pathan,21 May 2008,v MI,Wankhede,1,6,9*,-,5,0,1,180,not out,2,4.0,0,37,0,9.25
+32685,Irfan Pathan,25 May 2008,v KKR,Eden Gardens,1,6,7,-,4,1,0,175,bowled,2,3.4,0,36,0,9.81
+32685,Irfan Pathan,28 May 2008,v RR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,1,2.5
+32685,Irfan Pathan,31 May 2008,v CSK,Wankhede,1,6,3,-,12,0,0,25,run out,2,4.0,0,24,1,6
+32685,Irfan Pathan,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,9,33*,22,16,2,2,206.25,not out,1,4.0,0,34,1,8.5
+32685,Irfan Pathan,25 Feb 2009,v New Zealand,Christchurch,1,8,12,13,14,1,0,85.71,caught,2,3.0,0,38,0,12.66
+32685,Irfan Pathan,27 Feb 2009,v New Zealand,Wellington,1,8,15*,13,10,0,1,150,not out,2,4.0,0,41,2,10.25
+32685,Irfan Pathan,19 Apr 2009,v Daredevils,Cape Town,1,6,6,-,7,0,0,85.71,caught,2,1.0,0,9,0,9
+32685,Irfan Pathan,21 Apr 2009,v KKR,Durban,1,3,32,-,17,5,1,188.23,caught,2,3.0,0,27,0,9
+32685,Irfan Pathan,24 Apr 2009,v RCB,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+32685,Irfan Pathan,26 Apr 2009,v RR,Cape Town,1,6,39,-,33,2,2,118.18,bowled,2,4.0,0,26,2,6.5
+32685,Irfan Pathan,29 Apr 2009,v MI,Durban,1,6,7,-,10,0,0,70,caught,2,4.0,0,20,2,5
+32685,Irfan Pathan,1 May 2009,v RCB,Durban,2,6,12,-,9,2,0,133.33,caught,1,4.0,0,19,2,4.75
+32685,Irfan Pathan,3 May 2009,v KKR,Gqeberha,2,6,19*,26,16,2,0,118.75,not out,1,4.0,0,37,0,9.25
+32685,Irfan Pathan,5 May 2009,v RR,Durban,2,7,19,-,17,2,0,111.76,lbw,1,4.0,0,40,1,10
+32685,Irfan Pathan,7 May 2009,v CSK,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+32685,Irfan Pathan,9 May 2009,v Chargers,Kimberley,2,6,10,-,12,1,0,83.33,caught,1,4.0,0,42,0,10.5
+32685,Irfan Pathan,12 May 2009,v MI,Centurion,1,3,0,-,3,0,0,0,run out,2,3.2,1,14,0,4.2
+32685,Irfan Pathan,15 May 2009,v Daredevils,Bloemfontein,2,6,21*,-,11,0,3,190.9,not out,1,4.0,0,22,2,5.5
+32685,Irfan Pathan,17 May 2009,v Chargers,Johannesburg,1,7,17,-,11,2,0,154.54,caught,2,3.0,0,29,2,9.66
+32685,Irfan Pathan,20 May 2009,v CSK,Durban,2,7,14,-,12,1,0,116.66,caught,1,4.0,0,32,2,8
+32685,Irfan Pathan,6 Jun 2009,v Bangladesh,Nottingham,1,7,11*,2,3,1,1,366.66,not out,2,2.0,0,20,0,10
+32685,Irfan Pathan,10 Jun 2009,v Ireland,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+32685,Irfan Pathan,12 Jun 2009,v West Indies,Lord's,1,7,2,7,3,0,0,66.66,caught,2,2.0,0,9,1,4.5
+32685,Irfan Pathan,13 Mar 2010,v Daredevils,Mohali,1,6,21,-,16,2,0,131.25,stumped,2,3.5,0,27,1,7.04
+32685,Irfan Pathan,16 Mar 2010,v RCB,Bengaluru,1,5,3*,-,1,0,0,300,not out,2,3.0,0,33,0,11
+32685,Irfan Pathan,19 Mar 2010,v Chargers,Cuttack,2,7,60,-,29,3,5,206.89,caught,1,3.0,0,16,1,5.33
+32685,Irfan Pathan,21 Mar 2010,v CSK,Chennai,1,2,39,-,32,5,1,121.87,bowled,2,3.0,0,22,1,7.33
+32685,Irfan Pathan,24 Mar 2010,v RR,Mohali,2,6,1,-,1,0,0,100,run out,1,4.0,0,45,0,11.25
+32685,Irfan Pathan,27 Mar 2010,v KKR,Mohali,2,6,22,-,14,1,1,157.14,caught,1,4.0,0,42,2,10.5
+32685,Irfan Pathan,30 Mar 2010,v MI,Brabourne,1,6,18,-,14,1,0,128.57,caught,2,3.0,0,20,1,6.66
+32685,Irfan Pathan,2 Apr 2010,v RCB,Mohali,1,6,16,-,5,2,1,320,run out,2,3.1,0,36,1,11.36
+32685,Irfan Pathan,4 Apr 2010,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+32685,Irfan Pathan,7 Apr 2010,v RR,Jaipur,1,5,24*,-,23,1,0,104.34,not out,2,1.0,0,17,0,17
+32685,Irfan Pathan,9 Apr 2010,v MI,Mohali,2,5,15*,-,6,1,1,250,not out,1,4.0,0,29,3,7.25
+32685,Irfan Pathan,11 Apr 2010,v Daredevils,Delhi,2,2,12,-,17,1,0,70.58,caught,1,3.4,0,24,3,6.54
+32685,Irfan Pathan,16 Apr 2010,v Chargers,Dharamsala,1,5,1*,-,1,0,0,100,not out,2,3.0,0,35,1,11.66
+32685,Irfan Pathan,18 Apr 2010,v CSK,Dharamsala,1,5,44*,-,27,4,1,162.96,not out,2,3.4,0,44,0,12
+32685,Irfan Pathan,10 Apr 2011,v MI,Delhi,1,7,0,-,1,0,0,0,run out,2,2.5,0,14,0,4.94
+32685,Irfan Pathan,12 Apr 2011,v RR,Jaipur,1,7,9*,-,6,2,0,150,not out,2,3.0,0,32,1,10.66
+32685,Irfan Pathan,17 Apr 2011,v Warriors,DY Patil,2,3,14,-,16,1,0,87.5,caught,1,3.0,0,28,0,9.33
+32685,Irfan Pathan,19 Apr 2011,v Chargers,Delhi,2,6,5,-,9,0,0,55.55,caught,1,4.0,0,28,1,7
+32685,Irfan Pathan,23 Apr 2011,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,1,26,1,8.66
+32685,Irfan Pathan,26 Apr 2011,v RCB,Delhi,1,7,13*,-,7,0,2,185.71,not out,2,3.0,0,26,0,8.66
+32685,Irfan Pathan,28 Apr 2011,v KKR,Delhi,2,4,9,-,12,0,1,75,caught,1,4.0,0,16,1,4
+32685,Irfan Pathan,30 Apr 2011,v Kochi,Kochi,1,7,13,-,7,1,1,185.71,run out,2,4.0,0,27,2,6.75
+32685,Irfan Pathan,2 May 2011,v Kochi,Delhi,1,7,5*,-,6,0,0,83.33,not out,2,4.0,0,38,0,9.5
+32685,Irfan Pathan,5 May 2011,v Chargers,Hyderabad,2,6,12,-,15,1,0,80,stumped,1,3.0,0,18,0,6
+32685,Irfan Pathan,7 May 2011,v MI,Wankhede,2,7,23,-,18,4,0,127.77,bowled,1,4.0,1,23,1,5.75
+32685,Irfan Pathan,12 May 2011,v CSK,Chennai,2,4,44*,-,34,3,2,129.41,not out,1,4.0,0,40,1,10
+32685,Irfan Pathan,15 May 2011,v Kings XI,Dharamsala,2,5,3,-,7,0,0,42.85,caught,1,4.0,0,28,3,7
+32685,Irfan Pathan,21 May 2011,v Warriors,Delhi,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+32685,Irfan Pathan,20 Oct 2011,v Mumbai,Rajkot,1,5,38*,34,21,0,3,180.95,not out,2,4.0,0,29,0,7.25
+32685,Irfan Pathan,22 Oct 2011,v Gujarat,Rajkot,1,5,2*,7,2,0,0,100,not out,2,4.0,0,24,1,6
+32685,Irfan Pathan,24 Oct 2011,v Saurashtra,Rajkot,2,5,6,10,10,0,0,60,caught,1,4.0,0,23,1,5.75
+32685,Irfan Pathan,25 Oct 2011,v Maharashtra,Rajkot,1,6,20*,35,18,2,0,111.11,not out,2,4.0,0,23,2,5.75
+32685,Irfan Pathan,27 Mar 2012,v Punjab,Brabourne,1,7,36*,-,23,5,1,156.52,not out,2,4.0,0,24,2,6
+32685,Irfan Pathan,30 Mar 2012,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+32685,Irfan Pathan,5 Apr 2012,v KKR,Eden Gardens,2,3,42*,-,20,2,3,210,not out,1,1.0,0,9,0,9
+32685,Irfan Pathan,7 Apr 2012,v RCB,Bengaluru,2,7,24,29,15,2,1,160,run out,1,4.0,0,47,0,11.75
+32685,Irfan Pathan,10 Apr 2012,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+32685,Irfan Pathan,16 Apr 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,12,1,3
+32685,Irfan Pathan,19 Apr 2012,v Chargers,Delhi,2,6,5,21,11,0,0,45.45,caught,1,4.0,0,27,0,6.75
+32685,Irfan Pathan,21 Apr 2012,v Warriors,Delhi,2,4,15,14,11,0,1,136.36,caught,1,4.0,1,25,0,6.25
+32685,Irfan Pathan,24 Apr 2012,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+32685,Irfan Pathan,27 Apr 2012,v MI,Delhi,1,4,0,1,1,0,0,0,caught,2,4.0,0,46,2,11.5
+32685,Irfan Pathan,29 Apr 2012,v RR,Delhi,1,7,7*,11,5,1,0,140,not out,2,4.0,0,27,1,6.75
+32685,Irfan Pathan,1 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+32685,Irfan Pathan,7 May 2012,v KKR,Delhi,1,5,36,34,22,4,1,163.63,stumped,2,3.0,0,28,0,9.33
+32685,Irfan Pathan,10 May 2012,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+32685,Irfan Pathan,12 May 2012,v CSK,Chennai,1,7,13*,30,17,0,0,76.47,not out,2,2.0,0,15,1,7.5
+32685,Irfan Pathan,15 May 2012,v Kings XI,Delhi,2,7,19*,25,10,3,0,190,not out,1,4.0,0,24,0,6
+32685,Irfan Pathan,17 May 2012,v RCB,Delhi,2,8,4,7,4,0,0,100,caught,1,4.0,0,44,0,11
+32685,Irfan Pathan,19 May 2012,v Kings XI,Dharamsala,2,4,5,7,7,1,0,71.42,caught,1,4.0,0,25,0,6.25
+32685,Irfan Pathan,22 May 2012,v KKR,Pune,2,8,6*,-,3,1,0,200,not out,1,4.0,0,20,1,5
+32685,Irfan Pathan,7 Aug 2012,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+32685,Irfan Pathan,11 Sep 2012,v New Zealand,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+32685,Irfan Pathan,19 Sep 2012,v Afghanistan,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+32685,Irfan Pathan,23 Sep 2012,v England,Colombo (RPS),1,2,8,14,8,1,0,100,bowled,2,3.0,0,17,2,5.66
+32685,Irfan Pathan,28 Sep 2012,v Australia,Colombo (RPS),1,2,31,48,30,2,1,103.33,caught,2,1.0,0,19,0,19
+32685,Irfan Pathan,30 Sep 2012,v Pakistan,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+32685,Irfan Pathan,2 Oct 2012,v South Africa,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+32685,Irfan Pathan,13 Oct 2012,v KKR,Centurion,1,6,7*,16,6,1,0,116.66,not out,2,4.0,0,19,2,4.75
+32685,Irfan Pathan,21 Oct 2012,v Scorchers,Cape Town,2,6,14,23,18,0,0,77.77,caught,1,3.0,0,20,0,6.66
+32685,Irfan Pathan,23 Oct 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+32685,Irfan Pathan,25 Oct 2012,v Lions,Durban,2,5,1,5,2,0,0,50,caught,1,4.0,0,27,0,6.75
+32685,Irfan Pathan,17 Mar 2013,v Mumbai,Ahmedabad,1,5,3*,2,3,0,0,100,not out,2,4.0,0,11,3,2.75
+32685,Irfan Pathan,19 Mar 2013,v Gujarat,Ahmedabad,2,4,32,37,28,3,0,114.28,caught,1,4.0,0,28,1,7
+32685,Irfan Pathan,21 Mar 2013,v Saurashtra,Ahmedabad,2,4,12,12,12,1,0,100,caught,1,4.0,0,16,2,4
+32685,Irfan Pathan,3 Apr 2013,v KKR,Eden Gardens,1,7,4,10,7,0,0,57.14,caught,2,2.0,1,15,0,7.5
+32685,Irfan Pathan,6 Apr 2013,v RR,Delhi,2,7,1*,3,1,0,0,100,not out,1,4.0,0,31,0,7.75
+32685,Irfan Pathan,9 Apr 2013,v MI,Wankhede,2,6,10,12,12,0,0,83.33,caught,1,4.0,1,37,1,9.25
+32685,Irfan Pathan,12 Apr 2013,v SRH,Delhi,1,6,23,42,30,1,0,76.66,caught,2,3.2,0,19,1,5.7
+32685,Irfan Pathan,16 Apr 2013,v RCB,Bengaluru,1,7,19*,7,8,2,1,237.5,not out,2,4.0,0,39,0,9.75
+32685,Irfan Pathan,18 Apr 2013,v CSK,Delhi,2,7,2,6,6,0,0,33.33,caught,1,4.0,0,30,1,7.5
+32685,Irfan Pathan,21 Apr 2013,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+32685,Irfan Pathan,23 Apr 2013,v Kings XI,Delhi,1,8,14*,23,17,1,0,82.35,not out,2,2.0,0,26,1,13
+32685,Irfan Pathan,28 Apr 2013,v Warriors,Raipur,1,7,4*,3,1,1,0,400,not out,2,4.0,1,29,2,7.25
+32685,Irfan Pathan,1 May 2013,v KKR,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+32685,Irfan Pathan,4 May 2013,v SRH,Hyderabad,1,7,13,26,19,0,0,68.42,bowled,2,1.0,0,6,0,6
+32685,Irfan Pathan,10 May 2013,v RCB,Delhi,2,7,23*,21,11,2,2,209.09,not out,1,4.0,0,24,1,6
+32685,Irfan Pathan,14 May 2013,v CSK,Chennai,2,8,4,14,5,0,0,80,bowled,1,3.0,0,24,0,8
+32685,Irfan Pathan,16 May 2013,v Kings XI,Dharamsala,2,3,1,4,7,0,0,14.28,caught,1,4.0,0,28,1,7
+32685,Irfan Pathan,19 May 2013,v Warriors,Pune,2,6,24,51,28,2,0,85.71,caught,1,4.0,0,34,1,8.5
+32685,Irfan Pathan,30 Mar 2014,v Mumbai,Wankhede,1,6,13,19,11,0,1,118.18,caught,2,4.0,0,25,1,6.25
+32685,Irfan Pathan,2 Apr 2014,v Gujarat,Wankhede,2,5,21*,42,30,1,0,70,not out,1,4.0,1,17,3,4.25
+32685,Irfan Pathan,3 Apr 2014,v Saurashtra,Mumbai,1,6,0,1,1,0,0,0,bowled,2,4.0,0,34,1,8.5
+32685,Irfan Pathan,4 Apr 2014,v Maharashtra,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+32685,Irfan Pathan,22 Apr 2014,v Kings XI,Sharjah,2,6,5,12,9,0,0,55.55,bowled,1,2.0,0,28,0,14
+32685,Irfan Pathan,30 Apr 2014,v MI,Dubai (DICS),1,7,1*,5,1,0,0,100,not out,2,2.0,0,10,2,5
+32685,Irfan Pathan,4 May 2014,v RCB,Bengaluru,1,7,4*,4,2,1,0,200,not out,2,2.5,0,25,0,8.82
+32685,Irfan Pathan,8 May 2014,v RR,Ahmedabad,1,7,21*,38,21,2,0,100,not out,2,1.5,0,8,1,4.36
+32685,Irfan Pathan,10 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+32685,Irfan Pathan,12 May 2014,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+32685,Irfan Pathan,14 May 2014,v Kings XI,Hyderabad,1,6,1,3,2,0,0,50,caught,2,1.0,0,5,0,5
+32685,Irfan Pathan,18 May 2014,v KKR,Hyderabad,1,6,23*,34,19,2,0,121.05,not out,2,3.0,0,20,0,6.66
+32685,Irfan Pathan,20 May 2014,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+32685,Irfan Pathan,22 May 2014,v CSK,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+32685,Irfan Pathan,2 Jan 2016,v Assam,Vadodara,1,5,4,5,3,0,0,133.33,run out,2,4.0,0,13,5,3.25
+32685,Irfan Pathan,3 Jan 2016,v Railways,Vadodara,1,6,1,4,4,0,0,25,caught,2,3.0,0,30,1,10
+32685,Irfan Pathan,6 Jan 2016,v Goa,Vadodara,1,4,49*,39,29,3,3,168.96,not out,2,3.0,0,19,2,6.33
+32685,Irfan Pathan,7 Jan 2016,v M. Pradesh,Vadodara,1,6,27*,18,12,2,2,225,not out,2,3.4,0,34,4,9.27
+32685,Irfan Pathan,9 Jan 2016,v Andhra,Vadodara,2,6,28*,40,25,3,0,112,not out,1,4.0,0,32,0,8
+32685,Irfan Pathan,10 Jan 2016,v Delhi,Vadodara,1,6,1,6,3,0,0,33.33,caught,2,4.0,0,36,0,9
+32685,Irfan Pathan,15 Jan 2016,v Vidarbha,Wankhede,2,6,26*,30,16,0,2,162.5,not out,1,4.0,0,32,1,8
+32685,Irfan Pathan,16 Jan 2016,v Kerala,Wankhede,1,6,35*,31,18,3,2,194.44,not out,2,4.0,0,14,2,3.5
+32685,Irfan Pathan,18 Jan 2016,v Mumbai,Wankhede,2,6,19,21,13,2,0,146.15,caught,1,3.0,0,14,1,4.66
+32685,Irfan Pathan,20 Jan 2016,v UP,Wankhede,2,7,10,11,8,1,0,125,caught,1,4.0,0,44,1,11
+32685,Irfan Pathan,17 Apr 2016,v Kings XI,Mohali,1,7,2,5,2,0,0,100,run out,2,1.0,0,7,0,7
+32685,Irfan Pathan,14 May 2016,v KKR,Eden Gardens,1,5,7,-,8,0,0,87.5,run out,2,DNB,-,-,-,-
+32685,Irfan Pathan,17 May 2016,v Daredevils,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+32685,Irfan Pathan,21 May 2016,v Kings XI,Visakhapatnam,2,6,2,5,3,0,0,66.66,caught,1,4.0,0,37,0,9.25
+32685,Irfan Pathan,29 Jan 2017,v Mumbai,Vadodara,2,4,1,2,2,0,0,50,caught,1,4.0,0,27,0,6.75
+32685,Irfan Pathan,1 Feb 2017,v Gujarat,Vadodara,1,6,17,22,16,2,0,106.25,caught,2,4.0,0,43,1,10.75
+32685,Irfan Pathan,2 Feb 2017,v Saurashtra,Vadodara,2,6,65*,57,32,5,3,203.12,not out,1,4.0,0,24,2,6
+32685,Irfan Pathan,4 Feb 2017,v Maharashtra,Vadodara,1,5,3,5,4,0,0,75,caught,2,4.0,0,47,0,11.75
+32685,Irfan Pathan,12 Feb 2017,v Central Zone,Wankhede,1,5,4,12,5,0,0,80,run out,2,4.0,0,39,1,9.75
+32685,Irfan Pathan,13 Feb 2017,v North Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,3,2.5
+32685,Irfan Pathan,16 Feb 2017,v South Zone,Wankhede,1,8,26,19,17,4,0,152.94,bowled,2,4.0,0,22,1,5.5
+32685,Irfan Pathan,18 Feb 2017,v East Zone,Wankhede,1,7,2*,2,2,0,0,100,not out,2,2.0,0,17,0,8.5
+32685,Irfan Pathan,29 Apr 2017,v MI,Rajkot,1,8,2,8,3,0,0,66.66,caught,2,2.0,0,26,0,13
+32685,Irfan Pathan,21 Feb 2019,v Nagaland,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+32685,Irfan Pathan,22 Feb 2019,v Jharkhand,Mulapadu,1,6,12,6,5,3,0,240,caught,2,3.0,0,34,0,11.33
+32685,Irfan Pathan,24 Feb 2019,v Delhi,Mulapadu,1,7,26*,17,13,0,3,200,not out,2,4.0,0,38,1,9.5
+32685,Irfan Pathan,25 Feb 2019,v Andhra,Mulapadu,2,6,2*,9,3,0,0,66.66,not out,1,3.0,0,24,0,8
+32685,Irfan Pathan,27 Feb 2019,v Kerala,Mulapadu,2,6,10,17,9,1,0,111.11,caught,1,4.0,0,32,2,8
+32685,Irfan Pathan,26 Nov 2020,v Kings,Hambantota,1,-,DNB,-,-,-,-,-,-,2,1.5,0,25,0,13.63
+32685,Irfan Pathan,5 Dec 2020,v Kings,Hambantota,1,6,18,-,27,2,0,66.66,caught,2,1.0,0,5,0,5
+32685,Irfan Pathan,9 Dec 2020,v Stallions,Hambantota,2,6,25*,-,19,4,0,131.57,not out,1,DNB,-,-,-,-
+32685,Irfan Pathan,10 Dec 2020,v Galle,Hambantota,1,7,11,-,15,0,0,73.33,bowled,2,1.0,0,9,0,9

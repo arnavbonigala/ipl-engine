@@ -1,0 +1,232 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+36084,Yuvraj Singh,14 Jun 2003,v Derbyshire,Leeds,1,3,44,40,41,6,0,107.31,caught,2,3.0,0,27,1,9
+36084,Yuvraj Singh,16 Jun 2003,v Leics,Leicester,2,3,71,28,37,14,1,191.89,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,19 Jun 2003,v Lancashire,Manchester,1,2,13,20,11,3,0,118.18,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,20 Jun 2003,v Durham,Leeds,1,1,22,12,9,3,1,244.44,caught,2,3.0,0,20,3,6.66
+36084,Yuvraj Singh,24 Jun 2003,v Notts,Leeds,1,2,4,6,9,1,0,44.44,caught,2,1.0,0,4,1,4
+36084,Yuvraj Singh,4 Apr 2007,v Himachal,Delhi,2,3,17,18,12,3,0,141.66,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,6 Apr 2007,v Delhi,Delhi,1,3,22,18,14,2,1,157.14,caught,2,1.2,0,10,0,7.5
+36084,Yuvraj Singh,7 Apr 2007,v Services,Delhi,2,3,17,0,30,0,0,56.66,stumped,1,2.0,0,7,2,3.5
+36084,Yuvraj Singh,15 Apr 2007,v Railways,Brabourne,2,3,0,2,2,0,0,0,bowled,1,2.0,0,13,0,6.5
+36084,Yuvraj Singh,16 Apr 2007,v Karnataka,Wankhede,2,3,25,27,26,3,1,96.15,caught,1,1.0,0,10,0,10
+36084,Yuvraj Singh,18 Apr 2007,v Gujarat,Wankhede,2,3,12,18,17,0,0,70.58,stumped,1,2.0,0,17,2,8.5
+36084,Yuvraj Singh,19 Apr 2007,v Orissa,Brabourne,1,3,70,61,40,8,4,175,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Apr 2007,v Tamil Nadu,Brabourne,1,3,9,24,14,1,0,64.28,run out,2,2.4,0,21,0,7.87
+36084,Yuvraj Singh,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+36084,Yuvraj Singh,14 Sep 2007,v Pakistan,Durban,1,4,1,8,4,0,0,25,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,16 Sep 2007,v New Zealand,Johannesburg,2,5,5,8,7,0,0,71.42,caught,1,3.0,0,38,1,12.66
+36084,Yuvraj Singh,19 Sep 2007,v England,Durban,1,5,58,14,16,3,7,362.5,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,22 Sep 2007,v Australia,Durban,1,4,70,38,30,5,5,233.33,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,24 Sep 2007,v Pakistan,Johannesburg,1,4,14,28,19,1,0,73.68,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,20 Oct 2007,v Australia,Brabourne,2,4,31*,34,25,1,3,124,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,19 Apr 2008,v CSK,Mohali,2,4,23,-,13,1,2,176.92,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Apr 2008,v RR,Jaipur,1,5,57,-,34,6,3,167.64,lbw,2,DNB,-,-,-,-
+36084,Yuvraj Singh,25 Apr 2008,v MI,Mohali,1,4,18,-,9,1,1,200,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,27 Apr 2008,v Daredevils,Mohali,2,5,40*,-,29,3,2,137.93,not out,1,2.0,0,11,1,5.5
+36084,Yuvraj Singh,1 May 2008,v Chargers,Hyderabad,2,4,14,-,9,2,0,155.55,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,3 May 2008,v KKR,Mohali,1,4,17,-,10,2,1,170,stumped,2,DNB,-,-,-,-
+36084,Yuvraj Singh,5 May 2008,v RCB,Bengaluru,2,4,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,10 May 2008,v CSK,Chennai,2,5,2,-,5,0,0,40,caught,1,1.0,0,8,0,8
+36084,Yuvraj Singh,12 May 2008,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+36084,Yuvraj Singh,17 May 2008,v Daredevils,Delhi,2,3,23,-,8,1,3,287.5,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,21 May 2008,v MI,Wankhede,1,4,7,-,6,1,0,116.66,caught,2,2.0,0,12,2,6
+36084,Yuvraj Singh,23 May 2008,v Chargers,Mohali,2,3,17,-,15,2,0,113.33,caught,1,1.0,0,18,0,18
+36084,Yuvraj Singh,25 May 2008,v KKR,Eden Gardens,1,4,27,-,18,3,1,150,run out,2,DNB,-,-,-,-
+36084,Yuvraj Singh,28 May 2008,v RR,Mohali,1,3,49,-,16,2,6,306.25,run out,2,1.0,0,20,0,20
+36084,Yuvraj Singh,31 May 2008,v CSK,Wankhede,1,4,4,-,8,0,0,50,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,4,32,43,21,3,2,152.38,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,25 Feb 2009,v New Zealand,Christchurch,1,5,1,4,3,0,0,33.33,lbw,2,1.0,0,17,0,17
+36084,Yuvraj Singh,27 Feb 2009,v New Zealand,Wellington,1,4,50,33,34,3,4,147.05,caught,2,2.0,0,17,1,8.5
+36084,Yuvraj Singh,19 Apr 2009,v Daredevils,Cape Town,1,3,16,-,11,0,2,145.45,run out,2,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Apr 2009,v KKR,Durban,1,5,38,-,28,3,2,135.71,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,24 Apr 2009,v RCB,Durban,2,4,30*,-,17,3,1,176.47,not out,1,3.0,0,28,0,9.33
+36084,Yuvraj Singh,26 Apr 2009,v RR,Cape Town,1,4,2,-,3,0,0,66.66,caught,2,2.0,0,9,0,4.5
+36084,Yuvraj Singh,29 Apr 2009,v MI,Durban,1,4,10,-,13,1,0,76.92,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,1 May 2009,v RCB,Durban,2,1,50,-,34,3,4,147.05,caught,1,4.0,0,22,3,5.5
+36084,Yuvraj Singh,3 May 2009,v KKR,Gqeberha,2,5,14,25,16,1,0,87.5,caught,1,2.0,0,22,0,11
+36084,Yuvraj Singh,5 May 2009,v RR,Durban,2,6,48,-,37,3,3,129.72,caught,1,1.0,0,9,0,9
+36084,Yuvraj Singh,7 May 2009,v CSK,Centurion,2,4,58*,-,36,5,2,161.11,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,9 May 2009,v Chargers,Kimberley,2,4,18,-,13,1,1,138.46,caught,1,1.0,0,11,0,11
+36084,Yuvraj Singh,12 May 2009,v MI,Centurion,1,5,12,-,18,2,0,66.66,caught,2,2.0,0,14,0,7
+36084,Yuvraj Singh,15 May 2009,v Daredevils,Bloemfontein,2,4,18,-,31,1,0,58.06,caught,1,1.0,0,14,0,14
+36084,Yuvraj Singh,17 May 2009,v Chargers,Johannesburg,1,4,20,-,18,2,1,111.11,bowled,2,4.0,0,13,3,3.25
+36084,Yuvraj Singh,20 May 2009,v CSK,Durban,2,4,6,-,19,0,0,31.57,bowled,1,DNB,-,-,-,-
+36084,Yuvraj Singh,6 Jun 2009,v Bangladesh,Nottingham,1,4,41,12,18,3,4,227.77,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,10 Jun 2009,v Ireland,Nottingham,2,4,3*,7,4,0,0,75,not out,1,1.0,0,4,0,4
+36084,Yuvraj Singh,12 Jun 2009,v West Indies,Lord's,1,4,67,55,43,6,2,155.81,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,14 Jun 2009,v England,Lord's,2,5,17,14,9,0,2,188.88,stumped,1,2.0,0,20,0,10
+36084,Yuvraj Singh,16 Jun 2009,v South Africa,Nottingham,2,4,25,47,25,1,1,100,caught,1,4.0,0,25,0,6.25
+36084,Yuvraj Singh,9 Dec 2009,v Sri Lanka,Nagpur,2,4,6,-,8,0,0,75,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,12 Dec 2009,v Sri Lanka,Mohali,2,4,60*,45,25,3,5,240,not out,1,3.0,0,23,3,7.66
+36084,Yuvraj Singh,13 Mar 2010,v Daredevils,Mohali,1,4,4,-,5,1,0,80,caught,2,3.0,0,11,0,3.66
+36084,Yuvraj Singh,16 Mar 2010,v RCB,Bengaluru,1,3,9,-,6,1,0,150,caught,2,2.0,0,18,0,9
+36084,Yuvraj Singh,19 Mar 2010,v Chargers,Cuttack,2,4,4,-,6,1,0,66.66,caught,1,4.0,0,21,2,5.25
+36084,Yuvraj Singh,21 Mar 2010,v CSK,Chennai,1,5,43,-,28,4,2,153.57,caught,2,2.0,0,18,1,9
+36084,Yuvraj Singh,24 Mar 2010,v RR,Mohali,2,4,15,-,13,0,1,115.38,caught,1,1.0,0,12,0,12
+36084,Yuvraj Singh,27 Mar 2010,v KKR,Mohali,2,2,24,-,16,3,1,150,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,30 Mar 2010,v MI,Brabourne,1,5,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,2 Apr 2010,v RCB,Mohali,1,5,36,-,20,3,2,180,caught,2,2.0,0,14,0,7
+36084,Yuvraj Singh,4 Apr 2010,v KKR,Eden Gardens,2,4,33*,-,16,2,3,206.25,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,7 Apr 2010,v RR,Jaipur,1,4,28,-,16,1,3,175,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,9 Apr 2010,v MI,Mohali,2,4,15,-,21,1,0,71.42,caught,1,2.0,0,15,0,7.5
+36084,Yuvraj Singh,11 Apr 2010,v Daredevils,Delhi,2,4,21*,-,25,2,1,84,not out,1,4.0,0,14,1,3.5
+36084,Yuvraj Singh,16 Apr 2010,v Chargers,Dharamsala,1,4,20,-,20,1,1,100,caught,2,2.0,0,22,1,11
+36084,Yuvraj Singh,18 Apr 2010,v CSK,Dharamsala,1,4,1,-,4,0,0,25,lbw,2,1.0,0,7,0,7
+36084,Yuvraj Singh,1 May 2010,v Afghanistan,Gros Islet,2,4,23*,34,22,0,1,104.54,not out,1,1.0,0,4,0,4
+36084,Yuvraj Singh,2 May 2010,v South Africa,Gros Islet,1,4,37,43,30,3,2,123.33,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,7 May 2010,v Australia,Bridgetown,2,5,1,5,2,0,0,50,bowled,1,2.0,0,20,2,10
+36084,Yuvraj Singh,9 May 2010,v West Indies,Bridgetown,2,5,12,22,14,1,0,85.71,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,11 May 2010,v Sri Lanka,Gros Islet,1,5,1,2,2,0,0,50,caught,2,1.0,0,6,0,6
+36084,Yuvraj Singh,9 Jan 2011,v South Africa,Durban,1,4,12,20,13,1,0,92.3,run out,2,4.0,0,20,1,5
+36084,Yuvraj Singh,10 Apr 2011,v Kings XI,DY Patil,2,5,21*,-,15,2,1,140,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,13 Apr 2011,v Kochi,DY Patil,2,4,8,-,12,0,0,66.66,caught,1,1.0,0,12,0,12
+36084,Yuvraj Singh,17 Apr 2011,v Daredevils,DY Patil,1,4,66*,-,32,4,5,206.25,not out,2,4.0,0,29,4,7.25
+36084,Yuvraj Singh,20 Apr 2011,v MI,Wankhede,1,5,0,-,2,0,0,0,caught,2,1.0,0,5,0,5
+36084,Yuvraj Singh,25 Apr 2011,v CSK,Chennai,2,5,34,-,43,2,0,79.06,caught,1,2.0,0,14,0,7
+36084,Yuvraj Singh,27 Apr 2011,v CSK,DY Patil,1,5,62*,-,43,3,4,144.18,not out,2,1.0,0,10,0,10
+36084,Yuvraj Singh,29 Apr 2011,v RCB,Bengaluru,2,4,41,-,23,2,3,178.26,caught,1,2.0,0,10,0,5
+36084,Yuvraj Singh,1 May 2011,v RR,Jaipur,1,4,7,-,11,0,0,63.63,run out,2,1.0,0,9,0,9
+36084,Yuvraj Singh,4 May 2011,v MI,DY Patil,2,5,20,-,16,1,2,125,caught,1,4.0,0,22,2,5.5
+36084,Yuvraj Singh,8 May 2011,v Kings XI,Mohali,2,4,35,-,15,5,2,233.33,caught,1,2.0,0,17,0,8.5
+36084,Yuvraj Singh,10 May 2011,v Chargers,Hyderabad,2,5,2,-,6,0,0,33.33,bowled,1,4.0,0,17,2,4.25
+36084,Yuvraj Singh,16 May 2011,v Chargers,DY Patil,1,5,23,-,17,3,1,135.29,caught,2,4.0,0,27,1,6.75
+36084,Yuvraj Singh,19 May 2011,v KKR,DY Patil,1,6,24,-,26,2,0,92.3,caught,2,2.0,0,12,0,6
+36084,Yuvraj Singh,21 May 2011,v Daredevils,Delhi,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+36084,Yuvraj Singh,24 Oct 2011,v Services,Rohtak,1,4,2,10,8,0,0,25,bowled,2,3.0,0,18,0,6
+36084,Yuvraj Singh,25 Oct 2011,v J & K,Rohtak,2,4,27,38,30,2,1,90,lbw,1,2.0,0,13,0,6.5
+36084,Yuvraj Singh,11 Sep 2012,v New Zealand,Chennai,2,4,34,49,26,1,2,130.76,bowled,1,2.0,0,14,0,7
+36084,Yuvraj Singh,19 Sep 2012,v Afghanistan,Colombo (RPS),1,4,18,26,20,0,1,90,caught,2,4.0,0,24,3,6
+36084,Yuvraj Singh,23 Sep 2012,v England,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,0.4,0,2,0,3
+36084,Yuvraj Singh,28 Sep 2012,v Australia,Colombo (RPS),1,4,8,11,10,1,0,80,caught,2,2.0,0,16,1,8
+36084,Yuvraj Singh,30 Sep 2012,v Pakistan,Colombo (RPS),2,4,19*,24,16,2,0,118.75,not out,1,3.0,0,16,2,5.33
+36084,Yuvraj Singh,2 Oct 2012,v South Africa,Colombo (RPS),1,5,21,18,15,1,2,140,bowled,2,4.0,0,23,2,5.75
+36084,Yuvraj Singh,20 Dec 2012,v England,Pune,2,4,38,21,21,2,3,180.95,caught,1,4.0,0,19,3,4.75
+36084,Yuvraj Singh,22 Dec 2012,v England,Wankhede,1,4,4,6,5,0,0,80,caught,2,4.0,0,17,3,4.25
+36084,Yuvraj Singh,25 Dec 2012,v Pakistan,Bengaluru,1,4,10,21,9,0,1,111.11,caught,2,3.0,0,25,0,8.33
+36084,Yuvraj Singh,28 Dec 2012,v Pakistan,Ahmedabad,1,4,72,59,36,4,7,200,caught,2,2.0,0,23,1,11.5
+36084,Yuvraj Singh,5 Apr 2013,v SRH,Hyderabad,2,4,2,8,5,0,0,40,stumped,1,2.0,0,8,1,4
+36084,Yuvraj Singh,11 Apr 2013,v RR,Pune,2,4,28*,27,23,2,2,121.73,not out,1,4.0,0,27,2,6.75
+36084,Yuvraj Singh,13 Apr 2013,v MI,Wankhede,2,4,24,43,16,1,2,150,caught,1,2.0,0,13,1,6.5
+36084,Yuvraj Singh,21 Apr 2013,v Kings XI,Mohali,1,3,34,35,24,2,3,141.66,caught,2,2.0,0,15,1,7.5
+36084,Yuvraj Singh,23 Apr 2013,v RCB,Bengaluru,2,3,16,22,14,2,0,114.28,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,28 Apr 2013,v Daredevils,Raipur,2,3,31,41,24,4,0,129.16,caught,1,2.0,0,9,0,4.5
+36084,Yuvraj Singh,30 Apr 2013,v CSK,Pune,2,4,5,9,4,1,0,125,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,2 May 2013,v RCB,Pune,2,4,16,13,11,0,2,145.45,caught,1,1.0,0,15,0,15
+36084,Yuvraj Singh,5 May 2013,v RR,Jaipur,1,3,15,16,11,1,1,136.36,caught,2,2.0,0,16,0,8
+36084,Yuvraj Singh,9 May 2013,v KKR,Pune,2,3,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,11 May 2013,v MI,Pune,1,4,33,41,29,1,2,113.79,lbw,2,4.0,0,21,1,5.25
+36084,Yuvraj Singh,15 May 2013,v KKR,Ranchi,1,4,30,31,20,0,3,150,caught,2,1.0,0,11,0,11
+36084,Yuvraj Singh,19 May 2013,v Daredevils,Pune,1,4,3,16,7,0,0,42.85,caught,2,2.0,0,17,0,8.5
+36084,Yuvraj Singh,21 Sep 2013,v W. Indies A,Bengaluru,1,3,52,50,35,4,3,148.57,caught,2,4.0,0,24,2,6
+36084,Yuvraj Singh,10 Oct 2013,v Australia,Rajkot,2,5,77*,57,35,8,5,220,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Mar 2014,v Pakistan,Mirpur,2,4,1,3,2,0,0,50,bowled,1,1.0,0,13,0,13
+36084,Yuvraj Singh,23 Mar 2014,v West Indies,Mirpur,2,4,10,19,19,1,0,52.63,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,28 Mar 2014,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+36084,Yuvraj Singh,30 Mar 2014,v Australia,Mirpur,1,4,60,61,43,5,4,139.53,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,4 Apr 2014,v South Africa,Mirpur,2,4,18,24,17,2,0,105.88,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,6 Apr 2014,v Sri Lanka,Mirpur,1,4,11,30,21,0,0,52.38,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,17 Apr 2014,v Daredevils,Sharjah,2,4,52*,40,29,3,5,179.31,not out,1,2.0,0,16,0,8
+36084,Yuvraj Singh,19 Apr 2014,v MI,Dubai (DICS),2,4,0,2,2,0,0,0,lbw,1,1.0,0,6,0,6
+36084,Yuvraj Singh,24 Apr 2014,v KKR,Sharjah,2,4,31,49,34,2,1,91.17,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,26 Apr 2014,v RR,Abu Dhabi,1,4,3,7,7,0,0,42.85,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,28 Apr 2014,v Kings XI,Dubai (DICS),1,6,35,49,32,3,1,109.37,caught,2,2.0,0,13,0,6.5
+36084,Yuvraj Singh,4 May 2014,v SRH,Bengaluru,2,6,14,20,16,1,1,87.5,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,6 May 2014,v MI,Wankhede,2,5,6,17,10,0,0,60,run out,1,1.0,0,9,0,9
+36084,Yuvraj Singh,9 May 2014,v Kings XI,Bengaluru,2,6,3,11,11,0,0,27.27,caught,1,1.0,0,19,0,19
+36084,Yuvraj Singh,11 May 2014,v RR,Bengaluru,1,5,83,52,38,7,7,218.42,lbw,2,4.0,0,35,4,8.75
+36084,Yuvraj Singh,13 May 2014,v Daredevils,Bengaluru,1,5,68*,42,29,1,9,234.48,not out,2,4.0,0,28,0,7
+36084,Yuvraj Singh,18 May 2014,v CSK,Ranchi,2,5,13*,14,9,0,1,144.44,not out,1,DNB,-,-,-,-
+36084,Yuvraj Singh,20 May 2014,v SRH,Hyderabad,1,4,21,27,25,2,1,84,caught,2,1.4,0,10,0,6
+36084,Yuvraj Singh,22 May 2014,v KKR,Eden Gardens,2,4,22,21,12,1,2,183.33,caught,1,2.0,0,21,0,10.5
+36084,Yuvraj Singh,24 May 2014,v CSK,Bengaluru,1,5,25,29,24,2,0,104.16,caught,2,4.0,0,30,1,7.5
+36084,Yuvraj Singh,24 Mar 2015,v Haryana,Delhi,2,4,56*,34,29,4,5,193.1,not out,1,2.0,0,26,0,13
+36084,Yuvraj Singh,25 Mar 2015,v Delhi,Delhi,1,4,25,25,22,3,1,113.63,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,26 Mar 2015,v J & K,Delhi,1,4,11,12,9,0,1,122.22,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,28 Mar 2015,v Himachal,Delhi,1,3,23,23,16,2,1,143.75,caught,2,4.0,0,26,3,6.5
+36084,Yuvraj Singh,9 Apr 2015,v CSK,Chennai,2,6,9,8,6,1,0,150,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,12 Apr 2015,v RR,Delhi,1,4,27,23,17,0,2,158.82,caught,2,1.0,0,11,0,11
+36084,Yuvraj Singh,15 Apr 2015,v Kings XI,Pune,2,4,54,56,39,5,3,138.46,caught,1,1.0,0,9,0,9
+36084,Yuvraj Singh,18 Apr 2015,v SRH,Visakhapatnam,1,4,9,24,13,0,0,69.23,caught,2,1.0,0,10,0,10
+36084,Yuvraj Singh,20 Apr 2015,v KKR,Delhi,1,5,21,30,19,2,1,110.52,stumped,2,DNB,-,-,-,-
+36084,Yuvraj Singh,23 Apr 2015,v MI,Delhi,1,5,2,7,4,0,0,50,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,26 Apr 2015,v RCB,Delhi,1,4,2,5,5,0,0,40,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+36084,Yuvraj Singh,3 May 2015,v RR,Brabourne,2,4,22,24,18,4,0,122.22,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,5 May 2015,v MI,Wankhede,1,5,57,62,44,7,2,129.54,caught,2,1.0,0,5,0,5
+36084,Yuvraj Singh,7 May 2015,v KKR,Eden Gardens,2,5,0,2,3,0,0,0,caught,1,2.0,0,14,1,7
+36084,Yuvraj Singh,9 May 2015,v SRH,Raipur,2,4,2,5,7,0,0,28.57,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,12 May 2015,v CSK,Raipur,2,4,32,33,28,4,1,114.28,caught,1,3.0,0,23,0,7.66
+36084,Yuvraj Singh,17 May 2015,v RCB,Bengaluru,1,4,11,9,7,0,1,157.14,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,2 Jan 2016,v Rajasthan,Kochi,1,4,2,8,5,0,0,40,caught,2,2.4,0,16,2,6
+36084,Yuvraj Singh,3 Jan 2016,v J & K,Kochi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+36084,Yuvraj Singh,9 Jan 2016,v Kerala,Kochi,1,3,54,72,44,7,1,122.72,lbw,2,DNB,-,-,-,-
+36084,Yuvraj Singh,10 Jan 2016,v Saurashtra,Kochi,2,3,0,4,3,0,0,0,caught,1,2.0,0,24,0,12
+36084,Yuvraj Singh,26 Jan 2016,v Australia,Adelaide,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+36084,Yuvraj Singh,29 Jan 2016,v Australia,Melbourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,1,3.5
+36084,Yuvraj Singh,31 Jan 2016,v Australia,Sydney,2,5,15*,28,12,1,1,125,not out,1,2.0,0,19,1,9.5
+36084,Yuvraj Singh,9 Feb 2016,v Sri Lanka,Pune,1,5,10,22,14,0,1,71.42,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,12 Feb 2016,v Sri Lanka,Ranchi,1,7,0,-,1,0,0,0,caught,2,3.0,0,19,0,6.33
+36084,Yuvraj Singh,14 Feb 2016,v Sri Lanka,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+36084,Yuvraj Singh,24 Feb 2016,v Bangladesh,Mirpur,1,5,15,29,16,1,0,93.75,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,27 Feb 2016,v Pakistan,Mirpur,2,5,14*,66,32,2,0,43.75,not out,1,2.0,0,11,1,5.5
+36084,Yuvraj Singh,1 Mar 2016,v Sri Lanka,Mirpur,2,5,35,30,18,3,3,194.44,caught,1,1.0,0,3,0,3
+36084,Yuvraj Singh,3 Mar 2016,v U.A.E.,Mirpur,2,3,25*,19,14,4,1,178.57,not out,1,2.0,0,10,1,5
+36084,Yuvraj Singh,6 Mar 2016,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+36084,Yuvraj Singh,15 Mar 2016,v New Zealand,Nagpur,2,5,4,-,5,1,0,80,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,19 Mar 2016,v Pakistan,Eden Gardens,2,5,24,35,23,1,1,104.34,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,23 Mar 2016,v Bangladesh,Bengaluru,1,7,3,8,6,0,0,50,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,27 Mar 2016,v Australia,Mohali,2,5,21,31,18,1,1,116.66,caught,1,3.0,0,19,1,6.33
+36084,Yuvraj Singh,6 May 2016,v Guj Lions,Hyderabad,2,5,5,22,14,0,0,35.71,caught,1,2.0,0,13,0,6.5
+36084,Yuvraj Singh,8 May 2016,v MI,Visakhapatnam,1,4,39,41,23,3,2,169.56,hit wicket,2,DNB,-,-,-,-
+36084,Yuvraj Singh,10 May 2016,v Supergiants,Visakhapatnam,1,4,23,18,21,1,2,109.52,caught,2,1.0,0,10,0,10
+36084,Yuvraj Singh,12 May 2016,v Daredevils,Hyderabad,1,4,8,11,8,0,1,100,caught,2,1.1,0,11,0,9.42
+36084,Yuvraj Singh,15 May 2016,v Kings XI,Mohali,2,4,42*,43,24,3,3,175,not out,1,1.0,0,11,0,11
+36084,Yuvraj Singh,20 May 2016,v Daredevils,Raipur,1,4,10,16,11,1,0,90.9,bowled,2,1.0,0,7,0,7
+36084,Yuvraj Singh,22 May 2016,v KKR,Eden Gardens,2,4,19,12,12,1,2,158.33,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,25 May 2016,v KKR,Delhi,1,4,44,42,30,8,1,146.66,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,27 May 2016,v Guj Lions,Delhi,2,4,8,14,13,1,0,61.53,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,29 May 2016,v RCB,Bengaluru,1,4,38,32,23,4,2,165.21,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,26 Jan 2017,v England,Kanpur,1,4,12,13,13,1,0,92.3,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,29 Jan 2017,v England,Nagpur,1,4,4,9,12,0,0,33.33,lbw,2,DNB,-,-,-,-
+36084,Yuvraj Singh,1 Feb 2017,v England,Bengaluru,1,5,27,23,10,1,3,270,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,12 Feb 2017,v South Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+36084,Yuvraj Singh,13 Feb 2017,v West Zone,Wankhede,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,15 Feb 2017,v Central Zone,Wankhede,2,5,33,26,20,0,4,165,caught,1,1.0,0,10,0,10
+36084,Yuvraj Singh,16 Feb 2017,v East Zone,Wankhede,1,4,38,31,24,0,4,158.33,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,5 Apr 2017,v RCB,Hyderabad,1,4,62,49,27,7,3,229.62,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,9 Apr 2017,v Guj Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+36084,Yuvraj Singh,12 Apr 2017,v MI,Wankhede,1,4,5,16,7,1,0,71.42,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,15 Apr 2017,v KKR,Eden Gardens,2,4,26,27,16,2,2,162.5,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,17 Apr 2017,v Kings XI,Hyderabad,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,19 Apr 2017,v Daredevils,Hyderabad,1,4,3,11,4,0,0,75,bowled,2,1.0,0,6,1,6
+36084,Yuvraj Singh,28 Apr 2017,v Kings XI,Mohali,1,4,15,11,12,2,0,125,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,30 Apr 2017,v KKR,Hyderabad,1,4,6*,19,6,0,0,100,not out,2,DNB,-,-,-,-
+36084,Yuvraj Singh,2 May 2017,v Daredevils,Delhi,1,4,70*,56,41,11,1,170.73,not out,2,1.0,0,16,0,16
+36084,Yuvraj Singh,6 May 2017,v Supergiant,Hyderabad,2,4,47,61,43,4,2,109.3,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,8 May 2017,v MI,Hyderabad,2,4,9,16,11,1,0,81.81,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,17 May 2017,v KKR,Bengaluru,1,4,9,-,9,2,0,100,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,9 Jan 2018,v Delhi,Delhi,1,4,50*,59,40,4,1,125,not out,2,DNB,-,-,-,-
+36084,Yuvraj Singh,10 Jan 2018,v Services,Delhi,2,4,35*,40,35,1,2,100,not out,1,1.0,0,14,0,14
+36084,Yuvraj Singh,12 Jan 2018,v Haryana,Delhi,1,4,8,22,16,1,0,50,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,14 Jan 2018,v J & K,Delhi,2,4,4,7,8,0,0,50,caught,1,1.0,0,12,0,12
+36084,Yuvraj Singh,15 Jan 2018,v Himachal,Delhi,1,3,21,20,14,1,2,150,caught,2,2.0,0,22,0,11
+36084,Yuvraj Singh,21 Jan 2018,v Karnataka,Kolkata,2,4,29,32,25,5,0,116,caught,1,1.0,0,17,0,17
+36084,Yuvraj Singh,22 Jan 2018,v Mumbai,Kolkata,2,4,40,52,34,2,2,117.64,lbw,1,DNB,-,-,-,-
+36084,Yuvraj Singh,23 Jan 2018,v Jharkhand,Eden Gardens,1,5,17,57,33,1,0,51.51,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,25 Jan 2018,v Rajasthan,Eden Gardens,1,5,4,12,11,0,0,36.36,stumped,2,DNB,-,-,-,-
+36084,Yuvraj Singh,8 Apr 2018,v Daredevils,Mohali,2,3,12,-,22,2,0,54.54,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,13 Apr 2018,v RCB,Bengaluru,1,4,4,-,4,1,0,100,bowled,2,DNB,-,-,-,-
+36084,Yuvraj Singh,15 Apr 2018,v CSK,Mohali,1,4,20,-,13,2,1,153.84,caught,2,1.0,0,10,0,10
+36084,Yuvraj Singh,19 Apr 2018,v SRH,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Apr 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+36084,Yuvraj Singh,23 Apr 2018,v Daredevils,Delhi,1,5,14,-,17,1,0,82.35,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,4 May 2018,v MI,Indore,1,3,14,-,14,0,1,100,run out,2,DNB,-,-,-,-
+36084,Yuvraj Singh,16 May 2018,v MI,Wankhede,2,6,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,21 Feb 2019,v M. Pradesh,Indore,2,4,6,-,8,0,1,75,bowled,1,1.0,0,12,0,12
+36084,Yuvraj Singh,22 Feb 2019,v Mumbai,Indore,2,4,7,20,11,0,1,63.63,caught,1,2.0,0,15,0,7.5
+36084,Yuvraj Singh,24 Feb 2019,v Saurashtra,Indore,1,4,34,39,31,5,0,109.67,bowled,2,2.0,0,17,0,8.5
+36084,Yuvraj Singh,2 Mar 2019,v Railways,Indore,2,4,26,-,15,6,0,173.33,caught,1,1.0,0,9,0,9
+36084,Yuvraj Singh,24 Mar 2019,v DC,Wankhede,2,4,53,-,35,5,3,151.42,caught,1,DNB,-,-,-,-
+36084,Yuvraj Singh,28 Mar 2019,v RCB,Bengaluru,1,4,23,-,12,0,3,191.66,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,30 Mar 2019,v Kings XI,Mohali,1,4,18,39,22,2,0,81.81,caught,2,DNB,-,-,-,-
+36084,Yuvraj Singh,3 Apr 2019,v CSK,Wankhede,1,4,4,8,6,0,0,66.66,caught,2,DNB,-,-,-,-

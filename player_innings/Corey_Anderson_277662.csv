@@ -1,0 +1,191 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+277662,Corey Anderson,4 Feb 2009,v Otago,Dunedin,2,5,0,5,6,0,0,0,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,6 Feb 2009,v Northern Dis,Christchurch,2,5,11,13,14,2,0,78.57,bowled,1,DNB,-,-,-,-
+277662,Corey Anderson,8 Feb 2009,v Auckland,Auckland,2,5,23,25,13,1,2,176.92,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,13 Feb 2009,v Wellington,Christchurch,1,5,0,1,3,0,0,0,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Feb 2009,v Central D,Christchurch,1,5,2,11,6,0,0,33.33,run out,2,DNB,-,-,-,-
+277662,Corey Anderson,18 Feb 2009,v Northern Dis,Hamilton,1,5,22,23,17,0,2,129.41,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,22 Feb 2009,v Central D,Palmerston North,2,5,18,31,14,0,1,128.57,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,15 Dec 2010,v Otago,Christchurch,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,17 Dec 2010,v Northern Dis,Hamilton,1,6,17,22,10,1,1,170,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,19 Dec 2010,v Central D,Christchurch,2,6,0,3,0,0,0,-,run out,1,DNB,-,-,-,-
+277662,Corey Anderson,21 Dec 2010,v Auckland,Auckland,2,7,44,46,27,2,1,162.96,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,18 Dec 2011,v Canterbury,Rangiora,1,5,4,4,3,1,0,133.33,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,26 Dec 2011,v Auckland,Auckland,1,6,17,22,17,0,1,100,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,29 Dec 2011,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,31 Dec 2011,v Canterbury,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,4 Jan 2012,v Wellington,Mt Maunganui,1,6,9*,12,7,1,0,128.57,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,5 Jan 2012,v Central D,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,8 Jan 2012,v Auckland,Mount Maunganui,1,6,30,37,34,2,1,88.23,stumped,2,DNB,-,-,-,-
+277662,Corey Anderson,11 Jan 2012,v Wellington,Wellington,1,5,11,12,8,1,0,137.5,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,2 Nov 2012,v Otago,Hamilton,1,7,6,4,3,0,1,200,caught,2,1.0,0,12,1,12
+277662,Corey Anderson,23 Nov 2012,v Central D,Hamilton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,30 Nov 2012,v Canterbury,Hamilton,1,5,35*,21,15,2,3,233.33,not out,2,2.0,0,17,1,8.5
+277662,Corey Anderson,21 Dec 2012,v South Africa,Durban,1,6,5,6,5,1,0,100,caught,2,1.0,0,11,0,11
+277662,Corey Anderson,23 Dec 2012,v South Africa,East London,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+277662,Corey Anderson,26 Dec 2012,v South Africa,Gqeberha,2,8,12,16,9,1,0,133.33,run out,1,DNB,-,-,-,-
+277662,Corey Anderson,1 Jan 2013,v Wellington,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+277662,Corey Anderson,6 Jan 2013,v Auckland,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+277662,Corey Anderson,22 Jun 2013,v Kent,Canterbury,1,7,1,5,2,0,0,50,caught,2,3.0,0,10,1,3.33
+277662,Corey Anderson,25 Jun 2013,v England,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+277662,Corey Anderson,27 Jun 2013,v England,The Oval,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,6 Nov 2013,v Bangladesh,Mirpur,1,5,18,8,6,1,2,300,bowled,2,4.0,0,21,2,5.25
+277662,Corey Anderson,11 Jan 2014,v West Indies,Auckland,1,6,0,2,2,0,0,0,caught,2,4.0,0,15,0,3.75
+277662,Corey Anderson,15 Jan 2014,v West Indies,Wellington,2,6,6,9,9,1,0,66.66,caught,1,4.0,0,50,0,12.5
+277662,Corey Anderson,22 Mar 2014,v England,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+277662,Corey Anderson,24 Mar 2014,v South Africa,Chattogram,2,6,7,4,4,1,0,175,caught,1,3.0,0,28,2,9.33
+277662,Corey Anderson,29 Mar 2014,v Netherlands,Chattogram,2,5,20*,30,14,1,1,142.85,not out,1,2.0,0,19,0,9.5
+277662,Corey Anderson,31 Mar 2014,v Sri Lanka,Chattogram,2,-,absent,-,-,-,-,-,-,1,3.0,0,13,0,4.33
+277662,Corey Anderson,16 Apr 2014,v KKR,Abu Dhabi,2,6,2,17,8,0,0,25,bowled,1,3.0,0,33,0,11
+277662,Corey Anderson,19 Apr 2014,v RCB,Dubai (DICS),1,6,18,27,19,2,0,94.73,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,25 Apr 2014,v CSK,Dubai (DICS),1,3,39,55,31,3,1,125.8,run out,2,2.0,0,23,0,11.5
+277662,Corey Anderson,27 Apr 2014,v Daredevils,Sharjah,1,3,13,23,14,2,0,92.85,caught,2,2.0,0,16,1,8
+277662,Corey Anderson,30 Apr 2014,v SRH,Dubai (DICS),2,3,1,7,8,0,0,12.5,caught,1,1.0,0,18,2,18
+277662,Corey Anderson,3 May 2014,v Kings XI,Wankhede,2,5,35,38,25,3,2,140,caught,1,2.0,0,17,1,8.5
+277662,Corey Anderson,6 May 2014,v RCB,Wankhede,1,5,6,5,4,0,1,150,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,10 May 2014,v CSK,Wankhede,1,6,18*,14,6,0,2,300,not out,2,1.0,0,11,0,11
+277662,Corey Anderson,12 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+277662,Corey Anderson,14 May 2014,v KKR,Cuttack,1,5,18,21,12,1,1,150,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,25 May 2014,v RR,Wankhede,2,3,95*,79,44,9,6,215.9,not out,1,2.0,0,14,0,7
+277662,Corey Anderson,28 May 2014,v CSK,Brabourne,1,3,20,-,10,1,2,200,caught,2,3.0,0,35,0,11.66
+277662,Corey Anderson,5 Jul 2014,v West Indies,Roseau,2,5,15,18,9,1,1,166.66,caught,1,4.0,0,32,2,8
+277662,Corey Anderson,6 Jul 2014,v West Indies,Roseau,2,5,14,31,16,0,1,87.5,caught,1,4.0,0,51,1,12.75
+277662,Corey Anderson,4 Dec 2014,v Pakistan,Dubai (DICS),1,5,48,56,37,1,4,129.72,caught,2,1.0,0,17,0,17
+277662,Corey Anderson,8 Apr 2015,v KKR,Eden Gardens,1,5,55*,61,41,4,3,134.14,not out,2,2.0,0,21,1,10.5
+277662,Corey Anderson,12 Apr 2015,v Kings XI,Wankhede,2,5,5,11,11,1,0,45.45,stumped,1,DNB,-,-,-,-
+277662,Corey Anderson,14 Apr 2015,v RR,Ahmedabad,1,5,50,-,38,5,3,131.57,bowled,2,2.0,0,12,0,6
+277662,Corey Anderson,17 Apr 2015,v CSK,Wankhede,1,3,4,11,7,1,0,57.14,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,12 Nov 2015,v Wellington,Hamilton,1,5,5*,10,7,0,0,71.42,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Nov 2015,v Canterbury,Whangarei,1,5,42,29,18,2,3,233.33,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,26 Nov 2015,v Central D,Hamilton,2,4,13,15,10,3,0,130,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,29 Nov 2015,v Central D,New Plymouth,1,4,47*,61,35,1,5,134.28,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,5 Dec 2015,v Auckland,Hamilton,2,4,39,37,22,1,4,177.27,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,6 Dec 2015,v Otago,Mount Maunganui,2,3,7,10,8,1,0,87.5,bowled,1,DNB,-,-,-,-
+277662,Corey Anderson,7 Jan 2016,v Sri Lanka,Mount Maunganui,1,4,2,5,3,0,0,66.66,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,10 Jan 2016,v Sri Lanka,Auckland,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,15 Jan 2016,v Pakistan,Auckland,2,4,0,-,2,0,0,0,caught,1,1.0,0,18,0,18
+277662,Corey Anderson,17 Jan 2016,v Pakistan,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+277662,Corey Anderson,22 Jan 2016,v Pakistan,Wellington,1,4,82*,58,42,6,4,195.23,not out,2,3.0,0,17,2,5.66
+277662,Corey Anderson,15 Mar 2016,v India,Nagpur,1,4,34,60,42,3,0,80.95,bowled,2,3.0,0,18,0,6
+277662,Corey Anderson,18 Mar 2016,v Australia,Dharamsala,1,4,3,9,6,0,0,50,caught,2,4.0,0,29,2,7.25
+277662,Corey Anderson,22 Mar 2016,v Pakistan,Mohali,1,4,21,28,14,3,0,150,caught,2,2.0,0,14,0,7
+277662,Corey Anderson,26 Mar 2016,v Bangladesh,Eden Gardens,1,5,0,4,3,0,0,0,bowled,2,2.0,0,7,0,3.5
+277662,Corey Anderson,30 Mar 2016,v England,Delhi,1,4,28,35,23,2,1,121.73,caught,2,1.0,0,16,0,16
+277662,Corey Anderson,4 Dec 2016,v Wellington,Hamilton,1,4,34,46,27,3,1,125.92,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,10 Dec 2016,v Central D,New Plymouth,1,4,13,25,14,2,0,92.85,caught,-,TDNB,-,-,-,-
+277662,Corey Anderson,14 Dec 2016,v Otago,Dunedin,2,4,30,18,11,2,3,272.72,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,17 Dec 2016,v Auckland,Hamilton,2,4,28,-,22,3,2,127.27,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,18 Dec 2016,v Otago,Mount Maunganui,1,4,39,51,30,5,0,130,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,23 Dec 2016,v Central D,Hamilton,1,4,28,24,20,5,0,140,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,27 Dec 2016,v Auckland,Mount Maunganui,2,3,23*,23,13,0,2,176.92,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,29 Dec 2016,v Canterbury,Mount Maunganui,2,3,3,10,10,0,0,30,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,30 Dec 2016,v Wellington,Hamilton,1,3,72*,52,41,6,5,175.6,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,3 Jan 2017,v Bangladesh,Napier,2,4,13,15,14,1,0,92.85,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,6 Jan 2017,v Bangladesh,Mount Maunganui,1,4,4,2,3,1,0,133.33,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,8 Jan 2017,v Bangladesh,Mount Maunganui,1,5,94*,68,41,2,10,229.26,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,17 Feb 2017,v South Africa,Auckland,2,5,6,14,10,0,0,60,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,11 Apr 2017,v Supergiant,Pune,1,5,2*,23,4,0,0,50,not out,2,1.0,0,10,0,10
+277662,Corey Anderson,15 Apr 2017,v Kings XI,Delhi,1,6,39*,37,22,3,3,177.27,not out,2,3.0,0,23,1,7.66
+277662,Corey Anderson,22 Apr 2017,v MI,Wankhede,2,5,0,3,3,0,0,0,lbw,1,DNB,-,-,-,-
+277662,Corey Anderson,28 Apr 2017,v KKR,Eden Gardens,1,6,2,8,5,0,0,40,run out,2,2.5,0,27,0,9.52
+277662,Corey Anderson,30 Apr 2017,v Kings XI,Mohali,1,6,18,29,25,0,1,72,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,2 May 2017,v SRH,Delhi,2,5,41*,38,24,2,3,170.83,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,4 May 2017,v Guj Lions,Delhi,2,5,18*,19,12,0,2,150,not out,1,3.0,0,36,1,12
+277662,Corey Anderson,6 May 2017,v MI,Delhi,2,5,10,12,8,2,0,125,caught,1,2.0,0,29,1,14.5
+277662,Corey Anderson,10 May 2017,v Guj Lions,Kanpur,2,6,6,7,6,1,0,100,run out,1,2.0,0,19,0,9.5
+277662,Corey Anderson,12 May 2017,v Supergiant,Delhi,1,6,3,10,5,0,0,60,stumped,2,1.0,0,4,0,4
+277662,Corey Anderson,14 May 2017,v RCB,Delhi,2,6,3,19,9,0,0,33.33,stumped,1,4.0,0,38,0,9.5
+277662,Corey Anderson,9 Jul 2017,v Surrey,The Oval,2,7,81,60,45,3,7,180,run out,1,1.0,0,6,0,6
+277662,Corey Anderson,23 Jul 2017,v Middlesex,Taunton,2,6,19*,24,13,1,1,146.15,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,26 Jul 2017,v Hampshire,Taunton,1,6,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,30 Jul 2017,v Sussex,Taunton,1,3,41*,31,17,4,3,241.17,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,17 Apr 2018,v MI,Wankhede,2,5,0,-,1,0,0,0,caught,1,4.0,0,47,2,11.75
+277662,Corey Anderson,21 Apr 2018,v Daredevils,Bengaluru,2,5,15,-,13,0,1,115.38,bowled,1,1.0,0,10,1,10
+277662,Corey Anderson,25 Apr 2018,v CSK,Bengaluru,1,4,2,-,8,0,0,25,caught,2,3.4,0,58,0,15.81
+277662,Corey Anderson,6 Jul 2018,v Gloucs,Taunton,2,5,24,18,16,3,1,150,caught,1,1.0,0,14,0,14
+277662,Corey Anderson,8 Jul 2018,v Kent,Taunton,1,6,30*,35,24,4,0,125,not out,2,1.0,0,15,0,15
+277662,Corey Anderson,13 Jul 2018,v Gloucs,Bristol,1,5,40*,32,17,3,3,235.29,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,19 Jul 2018,v Middlesex,Lord's,2,6,39,28,24,0,4,162.5,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,20 Jul 2018,v Glamorgan,Cardiff,1,6,59,35,29,6,4,203.44,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,27 Jul 2018,v Surrey,The Oval,1,4,8,16,6,1,0,133.33,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,29 Jul 2018,v Middlesex,Taunton,1,6,41*,39,24,2,3,170.83,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,1 Aug 2018,v Hampshire,Taunton,1,6,32,25,20,2,2,160,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,3 Aug 2018,v Essex,Taunton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,5 Aug 2018,v Sussex,Hove,2,6,14,19,16,1,0,87.5,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,8 Aug 2018,v Hampshire,Southampton,2,5,25,24,17,2,1,147.05,lbw,1,DNB,-,-,-,-
+277662,Corey Anderson,10 Aug 2018,v Surrey,Taunton,2,6,53,44,31,0,5,170.96,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,12 Aug 2018,v Glamorgan,Taunton,1,6,72,43,30,4,6,240,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,16 Aug 2018,v Kent,Canterbury,2,5,23,16,11,0,2,209.09,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,26 Aug 2018,v Notts,Taunton,1,6,6,10,7,1,0,85.71,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Sep 2018,v Sussex,Birmingham,2,6,48,48,32,2,3,150,caught,1,2.0,0,11,1,5.5
+277662,Corey Anderson,12 Oct 2018,v Pakistan A,ICCA Dubai,1,4,16,-,12,1,1,133.33,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Oct 2018,v Pakistan A,ICCA Dubai,2,4,0,-,2,0,0,0,caught,1,2.0,0,8,0,4
+277662,Corey Anderson,17 Oct 2018,v Pakistan A,ICCA Dubai,2,4,22,-,16,0,2,137.5,caught,1,2.0,0,23,1,11.5
+277662,Corey Anderson,31 Oct 2018,v Pakistan,Abu Dhabi,2,6,9,-,12,0,0,75,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,2 Nov 2018,v Pakistan,Dubai (DICS),1,6,44*,-,25,4,2,176,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,30 Dec 2018,v Otago,Alexandra,2,6,4,8,7,1,0,57.14,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,6 Jan 2019,v Auckland,Hamilton,1,5,4,8,7,0,0,57.14,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,9 Jan 2019,v Canterbury,Christchurch,2,5,17,-,14,2,0,121.42,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,12 Jan 2019,v Wellington,Wellington,1,5,4,12,8,0,0,50,bowled,2,3.0,0,22,2,7.33
+277662,Corey Anderson,16 Jan 2019,v Canterbury,Hamilton,1,5,38,33,24,1,4,158.33,caught,2,3.0,0,31,2,10.33
+277662,Corey Anderson,25 Jan 2019,v Central D,Napier,1,6,10*,15,7,1,0,142.85,not out,2,1.0,0,15,0,15
+277662,Corey Anderson,2 Feb 2019,v Auckland,Auckland,1,6,36,28,22,3,2,163.63,caught,2,4.0,0,31,0,7.75
+277662,Corey Anderson,9 Feb 2019,v Otago,Mount Maunganui,1,4,42,45,29,2,3,144.82,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,17 Feb 2019,v Central D,Hamilton,2,5,2,17,8,0,0,25,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,23 Feb 2019,v Gladiators,Sharjah,1,5,19,-,18,0,1,105.55,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,27 Feb 2019,v Gladiators,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,28 Feb 2019,v Kings,Dubai (DICS),1,5,22,-,18,1,2,122.22,stumped,2,DNB,-,-,-,-
+277662,Corey Anderson,14 Dec 2019,v Otago,Auckland,2,6,11,22,13,0,1,84.61,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,17 Dec 2019,v Canterbury,Christchurch,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,19 Dec 2019,v Otago,Dunedin,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277662,Corey Anderson,22 Dec 2019,v Northern Dis,Hamilton,2,6,24,20,18,0,2,133.33,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,28 Dec 2019,v Central D,New Plymouth,1,5,15,-,10,0,2,150,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,30 Dec 2019,v Wellington,Auckland,1,6,2,-,8,0,0,25,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,1 Jan 2020,v Canterbury,Auckland,2,5,28*,24,16,1,2,175,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,4 Jan 2020,v Central D,Auckland,2,5,29,42,26,2,1,111.53,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,10 Jan 2020,v Northern Dis,Auckland,1,5,20,19,16,1,1,125,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,18 Aug 2020,v Patriots,Tarouba,1,3,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,20 Aug 2020,v Zouks,Tarouba,1,3,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,23 Aug 2020,v Trinbago,Tarouba,2,3,2,-,3,0,0,66.66,run out,1,DNB,-,-,-,-
+277662,Corey Anderson,25 Aug 2020,v Patriots,Port of Spain,1,5,31,-,19,0,3,163.15,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,26 Aug 2020,v Tallawahs,Port of Spain,1,6,1,-,5,0,0,20,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,29 Aug 2020,v Trinbago,Port of Spain,1,5,6,-,8,0,0,75,stumped,2,DNB,-,-,-,-
+277662,Corey Anderson,30 Aug 2020,v Zouks,Port of Spain,2,5,11,-,20,0,0,55,bowled,1,DNB,-,-,-,-
+277662,Corey Anderson,11 Dec 2023,v Sixers,Launceston,1,6,17,49,27,1,0,62.96,caught,2,3.3,0,10,2,2.85
+277662,Corey Anderson,20 Dec 2023,v Scorchers,Perth,1,5,8,20,16,1,0,50,caught,2,1.0,0,14,0,14
+277662,Corey Anderson,23 Dec 2023,v Renegades,Hobart,2,6,4*,8,1,1,0,400,not out,1,1.0,0,5,0,5
+277662,Corey Anderson,28 Dec 2023,v Stars,Hobart,1,5,5,15,6,0,0,83.33,caught,2,0.3,0,4,0,8
+277662,Corey Anderson,1 Jan 2024,v Thunder,Hobart,2,5,12*,10,8,1,1,150,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,4 Jan 2024,v Renegades,Melbourne (Docklands),2,5,41*,57,35,3,2,117.14,not out,1,1.0,0,7,0,7
+277662,Corey Anderson,7 Jan 2024,v Heat,Brisbane,2,5,2,9,6,0,0,33.33,bowled,1,1.0,0,9,0,9
+277662,Corey Anderson,9 Jan 2024,v Strikers,Adelaide,1,5,3,-,9,0,0,33.33,caught,2,0.3,0,5,0,10
+277662,Corey Anderson,11 Jan 2024,v Strikers,Hobart,1,7,18*,18,11,1,1,163.63,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,20 Jan 2024,v DC,Dubai (DICS),1,7,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,12 Apr 2024,v Canada,Prairie View,1,5,28,-,29,2,0,96.55,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,13 Apr 2024,v Canada,Prairie View,2,5,55,-,48,6,2,114.58,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,21 May 2024,v Bangladesh,Prairie View,2,6,34*,-,25,0,2,136,not out,1,2.0,0,10,0,5
+277662,Corey Anderson,23 May 2024,v Bangladesh,Prairie View,1,5,11,-,10,0,1,110,bowled,2,2.0,0,11,1,5.5
+277662,Corey Anderson,25 May 2024,v Bangladesh,Prairie View,1,6,18,-,18,1,1,100,bowled,2,DNB,-,-,-,-
+277662,Corey Anderson,1 Jun 2024,v Canada,Dallas,2,5,3*,8,5,0,0,60,not out,1,3.0,0,29,1,9.66
+277662,Corey Anderson,6 Jun 2024,v Pakistan,Dallas,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+277662,Corey Anderson,12 Jun 2024,v India,New York,1,6,15,25,12,1,1,125,caught,2,3.0,0,17,0,5.66
+277662,Corey Anderson,19 Jun 2024,v South Africa,North Sound,2,5,12,10,12,0,1,100,bowled,1,1.0,0,17,0,17
+277662,Corey Anderson,21 Jun 2024,v West Indies,Bridgetown,1,5,7,23,15,0,0,46.66,lbw,2,DNB,-,-,-,-
+277662,Corey Anderson,23 Jun 2024,v England,Bridgetown,1,5,29,43,28,0,1,103.57,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,7 Jul 2024,v Los Angeles,Dallas,2,5,11*,-,9,0,1,122.22,not out,1,DNB,-,-,-,-
+277662,Corey Anderson,10 Jul 2024,v Texas,Morrisville,1,6,3,-,4,0,0,75,lbw,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Jul 2024,v Seattle,Morrisville,1,5,5,-,11,0,0,45.45,bowled,2,3.2,0,21,1,6.3
+277662,Corey Anderson,18 Jul 2024,v MI New York,Dallas,1,7,59*,-,37,4,2,159.45,not out,2,0.1,0,4,0,24
+277662,Corey Anderson,20 Jul 2024,v Seattle,Dallas,2,6,4*,-,1,1,0,400,not out,1,1.4,0,11,1,6.6
+277662,Corey Anderson,22 Jul 2024,v Washington,Dallas,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+277662,Corey Anderson,25 Jul 2024,v Washington,Dallas,1,7,26,-,19,1,2,136.84,caught,2,1.0,0,15,0,15
+277662,Corey Anderson,26 Jul 2024,v Texas,Dallas,1,7,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,28 Jul 2024,v Washington,Dallas,2,7,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+277662,Corey Anderson,29 Nov 2024,v Amazon,Providence,2,5,9,-,8,1,0,112.5,run out,1,2.0,0,15,1,7.5
+277662,Corey Anderson,1 Dec 2024,v Rangpur,Providence,1,6,4,-,6,0,0,66.66,caught,2,2.0,0,13,1,6.5
+277662,Corey Anderson,3 Dec 2024,v Qalandars,Providence,2,6,11,-,9,2,0,122.22,bowled,1,1.0,0,6,0,6
+277662,Corey Anderson,5 Dec 2024,v Hampshire,Providence,1,6,1*,-,4,0,0,25,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,6 Dec 2024,v Rangpur,Providence,2,6,3,-,8,0,0,37.5,stumped,1,2.0,0,25,0,12.5
+277662,Corey Anderson,12 Jun 2025,v Washington,Oakland,1,7,3*,-,6,0,0,50,not out,2,DNB,-,-,-,-
+277662,Corey Anderson,14 Jun 2025,v Los Angeles,Oakland,1,7,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+277662,Corey Anderson,15 Jun 2025,v MI New York,Oakland,2,7,9,-,13,1,0,69.23,caught,1,0.5,0,11,0,13.2

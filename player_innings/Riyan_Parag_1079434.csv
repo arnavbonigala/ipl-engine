@@ -1,0 +1,144 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1079434,Riyan Parag,29 Jan 2017,v Jharkhand,Eden Gardens,2,2,9,9,5,0,1,180,bowled,1,DNB,-,-,-,-
+1079434,Riyan Parag,1 Feb 2017,v Bengal,Eden Gardens,1,2,8,9,7,2,0,114.28,caught,2,1.0,0,13,0,13
+1079434,Riyan Parag,3 Feb 2017,v Tripura,Eden Gardens,2,2,9,12,8,2,0,112.5,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,21 Feb 2019,v Karnataka,Cuttack,2,1,0,-,2,0,0,0,caught,1,2.0,0,18,1,9
+1079434,Riyan Parag,22 Feb 2019,v Mizoram,Cuttack,1,3,63*,-,39,6,2,161.53,not out,2,1.0,0,7,0,7
+1079434,Riyan Parag,24 Feb 2019,v Chhattisgarh,Cuttack,2,4,4,-,2,1,0,200,lbw,1,2.0,0,17,0,8.5
+1079434,Riyan Parag,25 Feb 2019,v Bengal,Cuttack,1,4,52,-,47,5,1,110.63,bowled,2,1.0,0,4,1,4
+1079434,Riyan Parag,27 Feb 2019,v Odisha,Cuttack,1,4,13,-,6,3,0,216.66,caught,2,3.0,0,21,0,7
+1079434,Riyan Parag,28 Feb 2019,v Haryana,Cuttack,1,5,17,-,24,0,0,70.83,caught,2,1.4,0,13,0,7.8
+1079434,Riyan Parag,2 Mar 2019,v Arunachal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+1079434,Riyan Parag,11 Apr 2019,v CSK,Jaipur,1,7,16,18,14,2,0,114.28,caught,2,3.0,0,24,0,8
+1079434,Riyan Parag,20 Apr 2019,v MI,Jaipur,2,5,43,44,29,5,1,148.27,run out,1,2.0,0,17,0,8.5
+1079434,Riyan Parag,22 Apr 2019,v DC,Jaipur,1,7,4,3,3,1,0,133.33,bowled,2,3.0,0,25,1,8.33
+1079434,Riyan Parag,25 Apr 2019,v KKR,Eden Gardens,2,5,47,63,31,5,2,151.61,hit wicket,1,1.0,0,7,0,7
+1079434,Riyan Parag,27 Apr 2019,v SRH,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+1079434,Riyan Parag,30 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,1,10
+1079434,Riyan Parag,4 May 2019,v DC,Delhi,1,6,50,76,49,4,2,102.04,caught,2,1.0,0,14,0,14
+1079434,Riyan Parag,9 Nov 2019,v M. Pradesh,Mumbai,1,4,5,-,20,0,0,25,caught,2,4.0,0,25,0,6.25
+1079434,Riyan Parag,11 Nov 2019,v Haryana,Mumbai,1,4,58,-,31,1,6,187.09,caught,2,4.0,0,15,1,3.75
+1079434,Riyan Parag,12 Nov 2019,v Meghalaya,Wankhede,1,4,2,-,10,0,0,20,bowled,2,4.0,0,19,0,4.75
+1079434,Riyan Parag,14 Nov 2019,v Mizoram,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,2,11,2,2.75
+1079434,Riyan Parag,15 Nov 2019,v Puducherry,Mumbai,1,4,1,-,2,0,0,50,caught,2,3.0,0,18,0,6
+1079434,Riyan Parag,17 Nov 2019,v Mumbai,Wankhede,2,4,38,-,33,2,2,115.15,caught,1,4.0,0,30,3,7.5
+1079434,Riyan Parag,18 Nov 2019,v Bengal,Wankhede,1,4,31,-,20,2,2,155,bowled,2,3.0,0,24,0,8
+1079434,Riyan Parag,22 Sep 2020,v CSK,Sharjah,1,7,6,-,4,1,0,150,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,27 Sep 2020,v Kings XI,Sharjah,2,7,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+1079434,Riyan Parag,30 Sep 2020,v KKR,Dubai (DICS),2,5,1,-,6,0,0,16.66,caught,1,1.0,0,14,0,14
+1079434,Riyan Parag,3 Oct 2020,v RCB,Abu Dhabi,1,6,16,-,18,1,0,88.88,caught,2,1.0,0,13,0,13
+1079434,Riyan Parag,11 Oct 2020,v SRH,Dubai (DICS),2,6,42*,-,26,2,2,161.53,not out,1,DNB,-,-,-,-
+1079434,Riyan Parag,14 Oct 2020,v DC,Dubai (DICS),2,6,1,-,2,0,0,50,run out,1,DNB,-,-,-,-
+1079434,Riyan Parag,17 Oct 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1079434,Riyan Parag,19 Oct 2020,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,22 Oct 2020,v SRH,Dubai (DICS),1,6,20,-,12,2,1,166.66,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,25 Oct 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,30 Oct 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,1 Nov 2020,v KKR,Dubai (DICS),2,6,0,-,7,0,0,0,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,10 Jan 2021,v Hyderabad,Eden Gardens,1,5,51*,-,40,3,2,127.5,not out,2,4.0,0,27,1,6.75
+1079434,Riyan Parag,12 Jan 2021,v Tamil Nadu,Eden Gardens,1,4,24,-,26,1,1,92.3,bowled,2,3.0,0,24,0,8
+1079434,Riyan Parag,14 Jan 2021,v Jharkhand,Jadavpur Uni,2,4,67,-,38,1,7,176.31,lbw,1,4.0,0,36,0,9
+1079434,Riyan Parag,16 Jan 2021,v Bengal,Eden Gardens,1,4,77*,-,54,5,5,142.59,not out,2,4.0,0,28,2,7
+1079434,Riyan Parag,18 Jan 2021,v Odisha,Jadavpur Uni,1,3,42,-,26,3,2,161.53,caught,2,4.0,0,24,2,6
+1079434,Riyan Parag,12 Apr 2021,v Punjab Kings,Wankhede,2,6,25,19,11,1,3,227.27,caught,1,1.0,0,7,1,7
+1079434,Riyan Parag,15 Apr 2021,v DC,Wankhede,2,6,2,9,5,0,0,40,caught,1,2.0,0,16,0,8
+1079434,Riyan Parag,19 Apr 2021,v CSK,Wankhede,2,6,3,10,7,0,0,42.85,caught,1,1.0,0,16,0,16
+1079434,Riyan Parag,22 Apr 2021,v RCB,Wankhede,1,6,25,32,16,4,0,156.25,caught,2,1.0,0,14,0,14
+1079434,Riyan Parag,24 Apr 2021,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,29 Apr 2021,v MI,Delhi,1,6,8*,8,7,1,0,114.28,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,2 May 2021,v SRH,Delhi,1,4,15*,17,8,0,1,187.5,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,6,4,12,5,0,0,80,caught,2,1.0,0,16,0,16
+1079434,Riyan Parag,25 Sep 2021,v DC,Abu Dhabi,2,6,2,6,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+1079434,Riyan Parag,27 Sep 2021,v SRH,Dubai (DICS),1,6,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,29 Sep 2021,v RCB,Dubai (DICS),1,7,9,26,16,0,0,56.25,caught,2,0.1,0,4,0,24
+1079434,Riyan Parag,4 Nov 2021,v M. Pradesh,Delhi,1,4,5,-,10,0,0,50,caught,2,4.0,0,20,1,5
+1079434,Riyan Parag,5 Nov 2021,v Gujarat,Delhi,2,4,20*,-,7,0,3,285.71,not out,1,4.0,0,23,2,5.75
+1079434,Riyan Parag,6 Nov 2021,v Bihar,Delhi,2,4,58,-,33,4,4,175.75,caught,1,2.0,0,16,0,8
+1079434,Riyan Parag,8 Nov 2021,v Kerala,Delhi,1,4,24,-,24,3,0,100,caught,2,4.0,0,23,1,5.75
+1079434,Riyan Parag,9 Nov 2021,v Railways,Delhi,2,4,2,-,7,0,0,28.57,caught,1,4.0,0,26,2,6.5
+1079434,Riyan Parag,29 Mar 2022,v SRH,Pune,1,6,12,22,9,2,0,133.33,caught,2,1.0,0,14,0,14
+1079434,Riyan Parag,2 Apr 2022,v MI,DY Patil,1,6,5,13,4,1,0,125,caught,2,1.0,0,11,0,11
+1079434,Riyan Parag,5 Apr 2022,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1079434,Riyan Parag,10 Apr 2022,v LSG,Wankhede,1,7,8,10,4,0,1,200,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,14 Apr 2022,v GT,DY Patil,2,7,18,31,16,1,1,112.5,caught,1,1.0,0,12,1,12
+1079434,Riyan Parag,18 Apr 2022,v KKR,Brabourne,1,5,5,5,3,1,0,166.66,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,22 Apr 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,1.0,0,22,0,22
+1079434,Riyan Parag,26 Apr 2022,v RCB,Pune,1,6,56*,52,31,3,4,180.64,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,30 Apr 2022,v MI,DY Patil,1,6,3,7,3,0,0,100,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,2 May 2022,v KKR,Wankhede,1,5,19,20,12,1,2,158.33,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,7 May 2022,v Punjab Kings,Wankhede,2,6,0*,6,1,0,0,0,not out,1,DNB,-,-,-,-
+1079434,Riyan Parag,11 May 2022,v DC,DY Patil,1,6,9,11,5,0,1,180,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,15 May 2022,v LSG,Brabourne,1,5,19,27,16,0,1,118.75,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,20 May 2022,v CSK,Brabourne,2,7,10*,21,10,1,0,100,not out,1,DNB,-,-,-,-
+1079434,Riyan Parag,24 May 2022,v GT,Eden Gardens,1,6,4,9,3,0,0,133.33,run out,2,DNB,-,-,-,-
+1079434,Riyan Parag,27 May 2022,v RCB,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,29 May 2022,v GT,Ahmedabad,1,7,15,29,15,1,0,100,bowled,2,DNB,-,-,-,-
+1079434,Riyan Parag,11 Oct 2022,v Vidarbha,Saurashtra,1,4,19,-,15,0,1,126.66,caught,2,4.0,0,35,0,8.75
+1079434,Riyan Parag,12 Oct 2022,v Uttarakhand,Saurashtra,2,4,28*,-,16,2,1,175,not out,1,4.0,0,17,1,4.25
+1079434,Riyan Parag,14 Oct 2022,v Mumbai,Rajkot,2,4,28,-,10,2,3,280,bowled,1,4.0,0,25,1,6.25
+1079434,Riyan Parag,16 Oct 2022,v Mizoram,Rajkot,2,4,52*,-,30,4,2,173.33,not out,1,4.0,0,18,1,4.5
+1079434,Riyan Parag,18 Oct 2022,v Railways,Saurashtra,1,4,49*,-,37,2,3,132.43,not out,2,4.0,0,12,1,3
+1079434,Riyan Parag,20 Oct 2022,v Rajasthan,Saurashtra,2,4,2,-,4,0,0,50,caught,1,4.0,0,13,2,3.25
+1079434,Riyan Parag,22 Oct 2022,v M. Pradesh,Rajkot,2,4,75,-,41,7,4,182.92,caught,1,3.0,0,39,0,13
+1079434,Riyan Parag,2 Apr 2023,v SRH,Hyderabad,1,5,7,12,6,1,0,116.66,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,5 Apr 2023,v Punjab Kings,Guwahati,2,6,20,16,12,1,2,166.66,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,8 Apr 2023,v DC,Guwahati,1,4,7,16,11,0,0,63.63,bowled,2,DNB,-,-,-,-
+1079434,Riyan Parag,16 Apr 2023,v GT,Ahmedabad,2,5,5,10,7,0,0,71.42,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,19 Apr 2023,v LSG,Jaipur,2,6,15*,24,12,1,1,125,not out,1,DNB,-,-,-,-
+1079434,Riyan Parag,5 May 2023,v GT,Jaipur,1,6,4,8,6,0,0,66.66,lbw,2,DNB,-,-,-,-
+1079434,Riyan Parag,19 May 2023,v Punjab Kings,Dharamsala,2,6,20,21,12,1,2,166.66,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,16 Oct 2023,v Odisha,DY Patil,2,4,45,-,19,4,3,236.84,caught,1,4.0,0,53,0,13.25
+1079434,Riyan Parag,17 Oct 2023,v Bihar,DY Patil,1,3,61,-,34,4,5,179.41,caught,2,4.0,0,25,2,6.25
+1079434,Riyan Parag,19 Oct 2023,v Services,Mumbai,2,4,76*,-,37,8,5,205.4,not out,1,4.0,0,9,3,2.25
+1079434,Riyan Parag,21 Oct 2023,v Sikkim,Mumbai,1,3,53*,-,29,2,4,182.75,not out,2,4.0,0,17,1,4.25
+1079434,Riyan Parag,23 Oct 2023,v Chandigarh,DY Patil,1,4,76,-,39,4,7,194.87,caught,2,4.0,0,37,1,9.25
+1079434,Riyan Parag,25 Oct 2023,v Himachal,DY Patil,1,4,72,-,37,5,5,194.59,caught,2,3.0,0,35,1,11.66
+1079434,Riyan Parag,27 Oct 2023,v Kerala,Mumbai,2,4,57*,-,33,1,6,172.72,not out,1,4.0,0,17,1,4.25
+1079434,Riyan Parag,31 Oct 2023,v Bengal,Mohali,2,4,50*,-,31,2,4,161.29,not out,1,4.0,0,23,2,5.75
+1079434,Riyan Parag,2 Nov 2023,v Kerala,Mohali,2,4,12,-,10,1,1,120,bowled,1,3.0,0,22,0,7.33
+1079434,Riyan Parag,4 Nov 2023,v Baroda,Mohali,1,4,8,-,10,0,0,80,caught,2,3.0,0,32,0,10.66
+1079434,Riyan Parag,24 Mar 2024,v LSG,Jaipur,1,4,43,42,29,1,3,148.27,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,28 Mar 2024,v DC,Jaipur,1,4,84*,73,45,7,6,186.66,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,1 Apr 2024,v MI,Wankhede,2,4,54*,54,39,5,3,138.46,not out,1,DNB,-,-,-,-
+1079434,Riyan Parag,6 Apr 2024,v RCB,Jaipur,2,4,4,4,4,1,0,100,caught,1,1.0,0,10,0,10
+1079434,Riyan Parag,10 Apr 2024,v GT,Jaipur,1,4,76,62,48,3,5,158.33,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,13 Apr 2024,v Punjab Kings,New Chandigarh,2,4,23,22,18,1,1,127.77,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,16 Apr 2024,v KKR,Eden Gardens,2,4,34,17,14,4,2,242.85,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,22 Apr 2024,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,27 Apr 2024,v LSG,Lucknow,2,4,14,10,11,0,1,127.27,caught,1,sub,-,-,-,-
+1079434,Riyan Parag,2 May 2024,v SRH,Hyderabad,2,4,77,-,49,8,4,157.14,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,7 May 2024,v DC,Delhi,2,4,27,81,22,1,3,122.72,bowled,1,2.0,0,17,0,8.5
+1079434,Riyan Parag,12 May 2024,v CSK,Chennai,1,4,47*,55,35,1,3,134.28,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,15 May 2024,v Punjab Kings,Guwahati,1,4,48,67,34,6,0,141.17,lbw,2,DNB,-,-,-,-
+1079434,Riyan Parag,19 May 2024,v KKR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1079434,Riyan Parag,22 May 2024,v RCB,Ahmedabad,2,4,36,48,26,2,2,138.46,bowled,1,DNB,-,-,-,-
+1079434,Riyan Parag,24 May 2024,v SRH,Chennai,2,4,6,12,10,0,0,60,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,6 Jul 2024,v Zimbabwe,Harare,2,4,2,6,3,0,0,66.66,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,7 Jul 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,0,5
+1079434,Riyan Parag,14 Jul 2024,v Zimbabwe,Harare,1,5,22,40,24,0,1,91.66,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,27 Jul 2024,v Sri Lanka,Pallekele,1,6,7,8,6,1,0,116.66,lbw,2,1.2,0,5,3,3.75
+1079434,Riyan Parag,28 Jul 2024,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1079434,Riyan Parag,30 Jul 2024,v Sri Lanka,Pallekele,1,7,26,29,18,1,2,144.44,caught,2,4.0,0,27,0,6.75
+1079434,Riyan Parag,6 Oct 2024,v Bangladesh,Gwalior,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1079434,Riyan Parag,9 Oct 2024,v Bangladesh,Delhi,1,7,15,8,6,0,2,250,caught,2,2.0,0,16,1,8
+1079434,Riyan Parag,12 Oct 2024,v Bangladesh,Hyderabad,1,4,34,26,13,1,4,261.53,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,23 Mar 2025,v SRH,Hyderabad,2,3,4,2,2,1,0,200,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,26 Mar 2025,v KKR,Guwahati,1,3,25,18,15,0,3,166.66,caught,2,4.0,0,25,0,6.25
+1079434,Riyan Parag,30 Mar 2025,v CSK,Guwahati,1,4,37,50,28,2,2,132.14,bowled,2,DNB,-,-,-,-
+1079434,Riyan Parag,5 Apr 2025,v Punjab Kings,New Chandigarh,1,3,43*,51,25,3,3,172,not out,2,DNB,-,-,-,-
+1079434,Riyan Parag,9 Apr 2025,v GT,Ahmedabad,2,4,26,21,14,1,3,185.71,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,13 Apr 2025,v RCB,Jaipur,1,3,30,24,22,3,1,136.36,caught,2,1.0,0,10,0,10
+1079434,Riyan Parag,16 Apr 2025,v DC,Delhi,2,3,8,8,11,1,0,72.72,bowled,1,1.0,0,6,0,6
+1079434,Riyan Parag,19 Apr 2025,v LSG,Jaipur,2,4,39,35,26,3,2,150,lbw,1,DNB,-,-,-,-
+1079434,Riyan Parag,24 Apr 2025,v RCB,Bengaluru,2,4,22,19,10,2,2,220,caught,1,3.0,0,30,0,10
+1079434,Riyan Parag,28 Apr 2025,v GT,Jaipur,2,4,32*,13,15,2,2,213.33,not out,1,1.0,0,14,0,14
+1079434,Riyan Parag,1 May 2025,v MI,Jaipur,2,4,16,16,8,3,0,200,caught,1,2.0,0,12,1,6
+1079434,Riyan Parag,4 May 2025,v KKR,Eden Gardens,2,4,95,79,45,6,8,211.11,caught,1,3.0,0,21,1,7
+1079434,Riyan Parag,18 May 2025,v Punjab Kings,Jaipur,2,4,13,19,11,0,1,118.18,bowled,1,3.0,0,26,1,8.66
+1079434,Riyan Parag,20 May 2025,v CSK,Delhi,2,4,3,9,4,0,0,75,bowled,1,2.0,0,26,0,13
+1079434,Riyan Parag,26 Nov 2025,v Andhra,Lucknow,2,4,5,-,10,0,0,50,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,28 Nov 2025,v Chhattisgarh,Lucknow,1,3,15,-,15,2,0,100,bowled,2,DNB,-,-,-,-
+1079434,Riyan Parag,30 Nov 2025,v Railways,Lucknow,1,5,14,-,19,1,0,73.68,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,2 Dec 2025,v Mumbai,Lucknow,2,4,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1079434,Riyan Parag,4 Dec 2025,v Vidarbha,Lucknow,1,4,5,-,6,1,0,83.33,caught,2,DNB,-,-,-,-
+1079434,Riyan Parag,6 Dec 2025,v Odisha,Lucknow,2,5,14,-,19,0,0,73.68,caught,1,DNB,-,-,-,-

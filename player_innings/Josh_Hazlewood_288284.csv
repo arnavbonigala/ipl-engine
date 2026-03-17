@@ -1,0 +1,128 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+288284,Josh Hazlewood,30 Dec 2009,v Tasmania,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.5,0,35,1,9.13
+288284,Josh Hazlewood,2 Jan 2010,v Victoria,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+288284,Josh Hazlewood,5 Jan 2010,v West Aust,W.A.C.A,2,11,6*,10,10,0,0,60,not out,1,4.0,0,37,0,9.25
+288284,Josh Hazlewood,16 Dec 2011,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+288284,Josh Hazlewood,21 Dec 2011,v Hurricanes,Hobart,2,10,2,-,6,0,0,33.33,bowled,1,4.0,0,29,0,7.25
+288284,Josh Hazlewood,2 Jan 2012,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+288284,Josh Hazlewood,14 Oct 2012,v CSK,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+288284,Josh Hazlewood,16 Oct 2012,v Yorkshire,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+288284,Josh Hazlewood,18 Oct 2012,v Lions,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,2,4.5
+288284,Josh Hazlewood,22 Oct 2012,v MI,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+288284,Josh Hazlewood,26 Oct 2012,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+288284,Josh Hazlewood,28 Oct 2012,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,3,5.5
+288284,Josh Hazlewood,7 Jan 2013,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+288284,Josh Hazlewood,9 Jan 2013,v Renegades,Sydney,2,10,0,-,1,0,0,0,bowled,1,4.0,0,44,1,11
+288284,Josh Hazlewood,13 Feb 2013,v West Indies,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+288284,Josh Hazlewood,29 Aug 2013,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+288284,Josh Hazlewood,21 Dec 2013,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+288284,Josh Hazlewood,29 Dec 2013,v Stars,Sydney,2,11,2*,3,5,0,0,40,not out,1,4.0,0,20,3,5
+288284,Josh Hazlewood,2 Jan 2014,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+288284,Josh Hazlewood,5 Jan 2014,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+288284,Josh Hazlewood,10 Jan 2014,v Scorchers,Sydney,2,11,1*,1,1,0,0,100,not out,1,4.0,0,36,1,9
+288284,Josh Hazlewood,15 Jan 2014,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+288284,Josh Hazlewood,18 Jan 2014,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+288284,Josh Hazlewood,25 Jan 2014,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+288284,Josh Hazlewood,29 Jan 2014,v England,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+288284,Josh Hazlewood,31 Jan 2014,v England,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,4,7.5
+288284,Josh Hazlewood,5 Feb 2014,v Scorchers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+288284,Josh Hazlewood,6 Mar 2016,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+288284,Josh Hazlewood,25 Mar 2016,v Pakistan,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+288284,Josh Hazlewood,27 Mar 2016,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+288284,Josh Hazlewood,5 Jan 2020,v Strikers,Coffs Harbour,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+288284,Josh Hazlewood,8 Jan 2020,v Strikers,Adelaide,2,10,12*,-,3,3,0,400,not out,1,4.0,0,19,1,4.75
+288284,Josh Hazlewood,25 Jan 2020,v Renegades,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+288284,Josh Hazlewood,31 Jan 2020,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,2,4.66
+288284,Josh Hazlewood,8 Feb 2020,v Stars,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+288284,Josh Hazlewood,8 Sep 2020,v England,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+288284,Josh Hazlewood,25 Sep 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+288284,Josh Hazlewood,19 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+288284,Josh Hazlewood,23 Oct 2020,v MI,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+288284,Josh Hazlewood,4 Dec 2020,v India,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+288284,Josh Hazlewood,9 Jul 2021,v West Indies,Gros Islet,2,11,0,3,1,0,0,0,caught,1,4.0,1,12,3,3
+288284,Josh Hazlewood,10 Jul 2021,v West Indies,Gros Islet,2,11,4,3,2,1,0,200,bowled,1,4.0,0,39,1,9.75
+288284,Josh Hazlewood,12 Jul 2021,v West Indies,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+288284,Josh Hazlewood,16 Jul 2021,v West Indies,Gros Islet,2,11,13*,5,5,1,1,260,not out,1,4.0,0,32,0,8
+288284,Josh Hazlewood,3 Aug 2021,v Bangladesh,Mirpur,2,11,2*,7,3,0,0,66.66,not out,1,4.0,0,24,3,6
+288284,Josh Hazlewood,4 Aug 2021,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.4,0,21,1,5.72
+288284,Josh Hazlewood,6 Aug 2021,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+288284,Josh Hazlewood,7 Aug 2021,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+288284,Josh Hazlewood,19 Sep 2021,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+288284,Josh Hazlewood,24 Sep 2021,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+288284,Josh Hazlewood,26 Sep 2021,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+288284,Josh Hazlewood,30 Sep 2021,v SRH,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+288284,Josh Hazlewood,2 Oct 2021,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,0,13.5
+288284,Josh Hazlewood,4 Oct 2021,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+288284,Josh Hazlewood,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+288284,Josh Hazlewood,10 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+288284,Josh Hazlewood,15 Oct 2021,v KKR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+288284,Josh Hazlewood,23 Oct 2021,v South Africa,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+288284,Josh Hazlewood,28 Oct 2021,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+288284,Josh Hazlewood,30 Oct 2021,v England,Dubai (DICS),1,11,0*,3,0,0,0,-,not out,2,2.0,0,18,0,9
+288284,Josh Hazlewood,4 Nov 2021,v Bangladesh,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,2,4
+288284,Josh Hazlewood,6 Nov 2021,v West Indies,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,4,9.75
+288284,Josh Hazlewood,11 Nov 2021,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+288284,Josh Hazlewood,14 Nov 2021,v New Zealand,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+288284,Josh Hazlewood,11 Feb 2022,v Sri Lanka,Sydney,1,11,2*,5,2,0,0,100,not out,2,4.0,0,12,4,3
+288284,Josh Hazlewood,13 Feb 2022,v Sri Lanka,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+288284,Josh Hazlewood,15 Feb 2022,v Sri Lanka,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+288284,Josh Hazlewood,12 Apr 2022,v CSK,DY Patil,2,11,7*,12,7,0,0,100,not out,1,4.0,0,33,1,8.25
+288284,Josh Hazlewood,16 Apr 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+288284,Josh Hazlewood,19 Apr 2022,v LSG,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+288284,Josh Hazlewood,23 Apr 2022,v SRH,Brabourne,1,10,3*,20,11,0,0,27.27,not out,2,3.0,0,31,0,10.33
+288284,Josh Hazlewood,26 Apr 2022,v RR,Pune,2,11,0*,8,2,0,0,0,not out,1,4.0,1,19,2,4.75
+288284,Josh Hazlewood,30 Apr 2022,v GT,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.3,0,36,0,10.28
+288284,Josh Hazlewood,4 May 2022,v CSK,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+288284,Josh Hazlewood,8 May 2022,v SRH,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+288284,Josh Hazlewood,13 May 2022,v Punjab Kings,Brabourne,2,11,7*,8,4,1,0,175,not out,1,4.0,0,64,0,16
+288284,Josh Hazlewood,19 May 2022,v GT,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+288284,Josh Hazlewood,25 May 2022,v LSG,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,3,10.75
+288284,Josh Hazlewood,27 May 2022,v RR,Ahmedabad,1,10,1*,4,2,0,0,50,not out,2,4.0,0,23,2,5.75
+288284,Josh Hazlewood,7 Jun 2022,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,4,4
+288284,Josh Hazlewood,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,0,4
+288284,Josh Hazlewood,11 Jun 2022,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,1,25,2,6.25
+288284,Josh Hazlewood,20 Sep 2022,v India,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+288284,Josh Hazlewood,23 Sep 2022,v India,Nagpur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,20,0,20
+288284,Josh Hazlewood,25 Sep 2022,v India,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+288284,Josh Hazlewood,5 Oct 2022,v West Indies,Carrara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+288284,Josh Hazlewood,7 Oct 2022,v West Indies,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,0,4.75
+288284,Josh Hazlewood,12 Oct 2022,v England,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+288284,Josh Hazlewood,14 Oct 2022,v England,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+288284,Josh Hazlewood,22 Oct 2022,v New Zealand,Sydney,2,11,1*,6,1,0,0,100,not out,1,4.0,0,41,2,10.25
+288284,Josh Hazlewood,25 Oct 2022,v Sri Lanka,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+288284,Josh Hazlewood,31 Oct 2022,v Ireland,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+288284,Josh Hazlewood,4 Nov 2022,v Afghanistan,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+288284,Josh Hazlewood,1 May 2023,v LSG,Lucknow,1,11,1*,3,2,0,0,50,not out,2,3.0,0,15,2,5
+288284,Josh Hazlewood,6 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+288284,Josh Hazlewood,9 May 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+288284,Josh Hazlewood,9 Feb 2024,v West Indies,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+288284,Josh Hazlewood,11 Feb 2024,v West Indies,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,1,31,2,7.75
+288284,Josh Hazlewood,21 Feb 2024,v New Zealand,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+288284,Josh Hazlewood,23 Feb 2024,v New Zealand,Auckland,1,11,0,1,1,0,0,0,caught,2,4.0,1,12,1,3
+288284,Josh Hazlewood,5 Jun 2024,v Oman,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+288284,Josh Hazlewood,8 Jun 2024,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+288284,Josh Hazlewood,11 Jun 2024,v Namibia,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+288284,Josh Hazlewood,20 Jun 2024,v Bangladesh,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,0,6.25
+288284,Josh Hazlewood,22 Jun 2024,v Afghanistan,Kingstown,2,11,5*,10,7,0,0,71.42,not out,1,4.0,0,39,0,9.75
+288284,Josh Hazlewood,24 Jun 2024,v India,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+288284,Josh Hazlewood,11 Sep 2024,v England,Southampton,1,11,2*,6,5,0,0,40,not out,2,4.0,0,32,2,8
+288284,Josh Hazlewood,22 Mar 2025,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+288284,Josh Hazlewood,28 Mar 2025,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+288284,Josh Hazlewood,2 Apr 2025,v GT,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.5,0,43,1,11.21
+288284,Josh Hazlewood,7 Apr 2025,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+288284,Josh Hazlewood,10 Apr 2025,v DC,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+288284,Josh Hazlewood,13 Apr 2025,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+288284,Josh Hazlewood,18 Apr 2025,v Punjab Kings,Bengaluru,1,11,0*,11,1,0,0,0,not out,2,3.0,0,14,3,4.66
+288284,Josh Hazlewood,20 Apr 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+288284,Josh Hazlewood,24 Apr 2025,v RR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,4,8.25
+288284,Josh Hazlewood,27 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+288284,Josh Hazlewood,29 May 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,3.1,0,21,3,6.63
+288284,Josh Hazlewood,3 Jun 2025,v Punjab Kings,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,1,13.5
+288284,Josh Hazlewood,10 Aug 2025,v South Africa,Darwin,1,11,0*,7,1,0,0,0,not out,2,4.0,0,27,3,6.75
+288284,Josh Hazlewood,12 Aug 2025,v South Africa,Darwin,2,11,0*,2,0,0,0,-,not out,1,4.0,0,56,1,14
+288284,Josh Hazlewood,16 Aug 2025,v South Africa,Cairns,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+288284,Josh Hazlewood,1 Oct 2025,v New Zealand,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+288284,Josh Hazlewood,3 Oct 2025,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+288284,Josh Hazlewood,4 Oct 2025,v New Zealand,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+288284,Josh Hazlewood,29 Oct 2025,v India,Canberra,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+288284,Josh Hazlewood,31 Oct 2025,v India,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25

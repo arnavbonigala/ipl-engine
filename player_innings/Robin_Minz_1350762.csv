@@ -1,0 +1,21 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1350762,Robin Minz,23 Nov 2024,v J & K,Mumbai,2,5,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+1350762,Robin Minz,25 Nov 2024,v Manipur,Mumbai,1,6,36*,-,12,5,2,300,not out,2,DNB,-,-,-,-
+1350762,Robin Minz,27 Nov 2024,v Himachal,Wankhede,1,6,7,-,5,1,0,140,caught,2,DNB,-,-,-,-
+1350762,Robin Minz,29 Nov 2024,v Arunachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1350762,Robin Minz,1 Dec 2024,v Haryana,Mumbai,2,6,1,-,2,0,0,50,lbw,1,DNB,-,-,-,-
+1350762,Robin Minz,3 Dec 2024,v Delhi,Mumbai,2,7,12*,-,6,2,0,200,not out,1,DNB,-,-,-,-
+1350762,Robin Minz,5 Dec 2024,v UP,Wankhede,2,7,11,-,11,0,1,100,caught,1,DNB,-,-,-,-
+1350762,Robin Minz,23 Mar 2025,v CSK,Chennai,1,6,3,8,9,0,0,33.33,caught,2,DNB,-,-,-,-
+1350762,Robin Minz,29 Mar 2025,v GT,Ahmedabad,2,5,3,8,6,0,0,50,caught,1,sub,-,-,-,-
+1350762,Robin Minz,26 Nov 2025,v Delhi,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1350762,Robin Minz,28 Nov 2025,v Karnataka,Ahmedabad,2,6,7,-,10,0,0,70,caught,1,DNB,-,-,-,-
+1350762,Robin Minz,30 Nov 2025,v Tripura,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1350762,Robin Minz,2 Dec 2025,v Saurashtra,Ahmedabad,1,4,28,-,18,1,2,155.55,bowled,2,DNB,-,-,-,-
+1350762,Robin Minz,4 Dec 2025,v Uttarakhand,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1350762,Robin Minz,6 Dec 2025,v Tamil Nadu,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1350762,Robin Minz,8 Dec 2025,v Rajasthan,Ahmedabad,1,4,58,-,27,8,2,214.81,caught,2,DNB,-,-,-,-
+1350762,Robin Minz,12 Dec 2025,v Punjab,Ambi,2,4,2,-,3,0,0,66.66,caught,1,DNB,-,-,-,-
+1350762,Robin Minz,14 Dec 2025,v M. Pradesh,Pune,1,4,15,-,13,0,1,115.38,caught,2,DNB,-,-,-,-
+1350762,Robin Minz,16 Dec 2025,v Andhra,Ambi,2,4,25,-,17,2,1,147.05,caught,1,DNB,-,-,-,-
+1350762,Robin Minz,18 Dec 2025,v Haryana,Pune,1,5,31*,-,14,0,3,221.42,not out,2,DNB,-,-,-,-

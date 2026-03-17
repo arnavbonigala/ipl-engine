@@ -1,0 +1,378 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+45705,Colin Ingram,21 Feb 2007,v Eagles,Bloemfontein,2,1,0,2,3,0,0,0,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Jan 2009,v Titans,Gqeberha,1,3,35,34,25,2,2,140,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,23 Jan 2009,v Cape Cobras,Cape Town,2,3,84,73,52,5,5,161.53,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,1 Feb 2009,v Dolphins,East London,2,3,0,2,1,0,0,0,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Feb 2009,v Lions,Gqeberha,2,3,13,20,17,1,0,76.47,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,8 Feb 2009,v Eagles,Bloemfontein,1,3,20,42,32,2,0,62.5,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Feb 2009,v Eagles,Bloemfontein,1,3,2,6,5,0,0,40,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Feb 2009,v Eagles,Gqeberha,1,6,8,17,12,0,0,66.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,16 Feb 2009,v Eagles,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Feb 2009,v Eagles,Gqeberha,1,3,4,4,4,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,5 Feb 2010,v Eagles,East London,1,3,61,63,49,5,3,124.48,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Feb 2010,v Dolphins,Durban,1,3,32,19,15,2,3,213.33,lbw,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Feb 2010,v Lions,Johannesburg,2,3,82,69,52,7,4,157.69,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,19 Feb 2010,v Cape Cobras,Gqeberha,1,3,5,12,8,1,0,62.5,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,21 Feb 2010,v Titans,Centurion,2,3,18,26,12,1,1,150,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,26 Feb 2010,v Cape Cobras,Gqeberha,1,3,60*,60,41,5,3,146.34,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,3 Mar 2010,v Cape Cobras,Cape Town,1,3,2,8,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Mar 2010,v Lions,Gqeberha,1,3,23*,19,12,3,1,191.66,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Sep 2010,v Wayamba,Gqeberha,2,3,34,38,28,5,0,121.42,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,13 Sep 2010,v Victoria,Gqeberha,1,3,8,12,8,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,18 Sep 2010,v Central D,Gqeberha,2,3,1,4,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,22 Sep 2010,v CSK,Gqeberha,2,3,17,29,24,1,0,70.83,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,25 Sep 2010,v South Aust,Centurion,1,3,46,54,35,3,1,131.42,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,26 Sep 2010,v CSK,Johannesburg,1,3,16,28,23,1,0,69.56,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,8 Oct 2010,v Zimbabwe,Bloemfontein,2,3,3,8,5,0,0,60,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Oct 2010,v Zimbabwe,Kimberley,1,3,12,10,8,3,0,150,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,26 Oct 2010,v Pakistan,Abu Dhabi,2,5,46*,54,38,4,2,121.05,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,27 Oct 2010,v Pakistan,Abu Dhabi,2,5,31,17,17,4,1,182.35,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,9 Jan 2011,v India,Durban,2,3,2,15,8,0,0,25,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,7 May 2011,v MI,Wankhede,2,3,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,12 May 2011,v CSK,Chennai,2,3,7,-,12,1,0,58.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 May 2011,v Warriors,Delhi,1,4,13*,-,12,1,0,108.33,not out,-,TDNB,-,-,-,-
+45705,Colin Ingram,23 Sep 2011,v RCB,Bengaluru,2,3,15,10,8,2,1,187.5,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,25 Sep 2011,v South Aust,Hyderabad,1,3,30,33,24,3,1,125,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Oct 2011,v KKR,Bengaluru,1,3,61,73,47,3,3,129.78,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,5 Oct 2011,v Somerset,Bengaluru,2,3,31,-,25,1,2,124,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,13 Oct 2011,v Australia,Cape Town,1,3,33,39,28,3,1,117.85,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,16 Oct 2011,v Australia,Johannesburg,2,3,5,11,6,1,0,83.33,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,15 Feb 2012,v Canterbury,Christchurch,1,3,2,6,8,0,0,25,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,17 Feb 2012,v New Zealand,Wellington,1,3,0,4,2,0,0,0,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,29 Feb 2012,v Impi,Benoni,1,3,42*,48,24,3,2,175,not out,2,2.0,0,16,1,8
+45705,Colin Ingram,2 Mar 2012,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Mar 2012,v Impi,East London,1,3,51,47,30,2,3,170,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,9 Mar 2012,v Knights,Gqeberha,2,3,53,38,36,7,1,147.22,run out,1,2.0,0,17,1,8.5
+45705,Colin Ingram,14 Mar 2012,v Lions,Johannesburg,2,3,8,15,7,2,0,114.28,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Mar 2012,v Cape Cobras,Cape Town,1,3,13,20,12,1,0,108.33,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,18 Mar 2012,v Knights,Kimberley,1,3,5,6,6,1,0,83.33,run out,2,1.0,0,10,0,10
+45705,Colin Ingram,21 Mar 2012,v Titans,Centurion,1,3,5,23,6,0,0,83.33,lbw,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Mar 2012,v India,Johannesburg,1,3,78,59,50,8,3,156,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,19 Jun 2012,v Bdesh XI,Harare,1,3,29,30,22,5,0,131.81,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Jun 2012,v Zimbabwe XI,Harare,2,3,48,74,39,5,2,123.07,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,22 Jun 2012,v Bdesh XI,Harare,1,3,1,4,4,0,0,25,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Jun 2012,v Zimbabwe XI,Harare,1,3,19,31,20,1,1,95,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,17 Feb 2013,v Knights,Kimberley,2,3,46,51,43,7,0,106.97,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,22 Feb 2013,v Titans,Gqeberha,1,3,10,21,9,2,0,111.11,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Feb 2013,v Lions,Potchefstroom,2,3,21,16,13,4,0,161.53,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,2 Mar 2013,v Dolphins,East London,2,3,26*,29,22,3,0,118.18,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Mar 2013,v Cape Cobras,Gqeberha,2,3,3,11,7,0,0,42.85,caught,1,1.0,0,5,0,5
+45705,Colin Ingram,22 Mar 2013,v Lions,East London,1,3,21,21,16,1,1,131.25,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,28 Mar 2013,v Cape Cobras,Cape Town,2,3,45,29,22,5,2,204.54,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,3 Apr 2013,v Titans,East London,1,3,7,12,11,1,0,63.63,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,17 Jan 2014,v Dolphins,Gqeberha,1,3,23,20,15,4,0,153.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,19 Jan 2014,v Lions,East London,1,3,38,53,31,3,2,122.58,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,22 Jan 2014,v Knights,Kimberley,2,3,19,19,17,4,0,111.76,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,24 Jan 2014,v Titans,East London,1,3,0,5,3,0,0,0,caught,-,TDNB,-,-,-,-
+45705,Colin Ingram,26 Jan 2014,v Dolphins,Durban,1,3,8,12,9,1,0,88.88,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Feb 2014,v Cape Cobras,Cape Town,1,4,11,13,14,1,0,78.57,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Jul 2014,v Gloucs,Taunton,1,4,24,13,15,0,2,160,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,16 Jul 2014,v Surrey,The Oval,1,4,13,18,11,2,0,118.18,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,18 Jul 2014,v Kent,Canterbury,2,4,37*,24,18,4,2,205.55,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,25 Jul 2014,v Middlesex,Taunton,1,4,21,14,12,2,1,175,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Nov 2014,v Knights,Johannesburg,2,3,3,7,4,0,0,75,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,5 Nov 2014,v Dolphins,Durban,2,4,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Nov 2014,v Lions,East London,1,4,0,3,1,0,0,0,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Nov 2014,v Dolphins,Gqeberha,2,3,64*,72,54,3,3,118.51,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Nov 2014,v Lions,Durban,1,3,5,8,6,1,0,83.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,21 Nov 2014,v Knights,East London,2,3,40,39,36,4,1,111.11,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,23 Nov 2014,v Titans,Centurion,2,3,4,5,3,1,0,133.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,28 Nov 2014,v Cape Cobras,Gqeberha,2,3,4,3,4,1,0,100,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,30 Nov 2014,v Titans,Bloemfontein,1,3,40,63,44,4,0,90.9,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,3 Dec 2014,v Cape Cobras,Paarl,1,3,2,6,3,0,0,66.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 May 2015,v Surrey,The Oval,1,3,91,55,47,7,6,193.61,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,22 May 2015,v Essex,Cardiff,1,3,24,23,20,3,1,120,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,29 May 2015,v Hampshire,Cardiff,2,4,7,3,6,1,0,116.66,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,5 Jun 2015,v Middlesex,Cardiff,1,3,3,7,5,0,0,60,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Jun 2015,v Gloucs,Bristol,1,3,28,22,18,3,0,155.55,lbw,2,DNB,-,-,-,-
+45705,Colin Ingram,13 Jun 2015,v Somerset,Cardiff,2,3,12*,9,9,2,0,133.33,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,19 Jun 2015,v Essex,Chelmsford,2,3,70,75,46,4,4,152.17,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Jun 2015,v Sussex,Cardiff,1,3,1,5,8,0,0,12.5,caught,2,2.2,0,18,0,7.71
+45705,Colin Ingram,26 Jun 2015,v Surrey,Cardiff,2,3,0,2,1,0,0,0,caught,1,4.0,0,20,2,5
+45705,Colin Ingram,28 Jun 2015,v Somerset,Taunton,1,3,96,79,62,9,6,154.83,caught,2,2.0,0,16,0,8
+45705,Colin Ingram,3 Jul 2015,v Hampshire,Southampton,1,2,13,13,9,1,1,144.44,caught,2,4.0,0,26,0,6.5
+45705,Colin Ingram,10 Jul 2015,v Sussex,Hove,1,2,9,6,7,2,0,128.57,caught,2,1.0,0,11,0,11
+45705,Colin Ingram,17 Jul 2015,v Kent,Tunbridge Wells,1,2,4,6,5,1,0,80,caught,2,2.0,0,15,1,7.5
+45705,Colin Ingram,24 Jul 2015,v Gloucs,Cardiff,1,1,18,12,8,2,1,225,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Nov 2015,v Knights,Cape Town,1,1,52*,27,21,5,4,247.61,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,6 Nov 2015,v Cape Cobras,Paarl,2,3,33,41,33,3,0,100,caught,1,1.0,0,6,0,6
+45705,Colin Ingram,8 Nov 2015,v Dolphins,Durban,2,3,5,7,7,1,0,71.42,lbw,1,1.0,0,15,0,15
+45705,Colin Ingram,13 Nov 2015,v Lions,Gqeberha,1,3,52,41,36,4,2,144.44,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Nov 2015,v Titans,Centurion,1,3,28,19,15,3,2,186.66,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Nov 2015,v Dolphins,East London,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,28 Nov 2015,v Titans,Gqeberha,2,3,25,41,22,1,2,113.63,caught,1,1.0,0,4,1,4
+45705,Colin Ingram,2 Dec 2015,v Cape Cobras,East London,1,3,18,15,14,1,2,128.57,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,4 Dec 2015,v Knights,Bloemfontein,2,3,9,9,8,1,0,112.5,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Dec 2015,v Lions,Johannesburg,2,3,5,4,6,1,0,83.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,26 May 2016,v Surrey,The Oval,2,3,11,9,8,0,1,137.5,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,1 Jun 2016,v Essex,Cardiff,1,3,26,33,24,1,1,108.33,caught,2,4.0,0,30,1,7.5
+45705,Colin Ingram,3 Jun 2016,v Hampshire,Cardiff,2,3,43,40,30,4,2,143.33,caught,1,1.0,0,14,0,14
+45705,Colin Ingram,10 Jun 2016,v Gloucs,Bristol,2,3,64,45,30,4,5,213.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,17 Jun 2016,v Kent,Cardiff,1,3,60,42,29,6,4,206.89,caught,2,2.0,0,24,1,12
+45705,Colin Ingram,24 Jun 2016,v Surrey,Cardiff,2,3,73*,55,49,7,3,148.97,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Jul 2016,v Sussex,Cardiff,1,3,16,15,11,3,0,145.45,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,8 Jul 2016,v Middlesex,Richmond,2,3,19*,6,6,0,3,316.66,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Jul 2016,v Gloucs,Cardiff,1,3,4,3,2,1,0,200,lbw,2,2.0,0,15,0,7.5
+45705,Colin Ingram,14 Jul 2016,v Hampshire,Southampton,2,3,5,4,3,1,0,166.66,caught,1,4.0,0,28,0,7
+45705,Colin Ingram,22 Jul 2016,v Somerset,Cardiff,2,3,54,47,37,5,2,145.94,caught,1,4.0,1,20,3,5
+45705,Colin Ingram,28 Jul 2016,v Sussex,Hove,1,3,10,6,7,1,1,142.85,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,29 Jul 2016,v Essex,Chelmsford,1,3,101,70,56,6,7,180.35,bowled,-,TDNB,-,-,-,-
+45705,Colin Ingram,11 Aug 2016,v Yorkshire,Cardiff,2,3,16,20,13,3,0,123.07,caught,1,4.0,0,32,4,8
+45705,Colin Ingram,13 Nov 2016,v Dolphins,Durban,2,3,4,8,7,0,0,57.14,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Nov 2016,v Cape Cobras,Cape Town,2,3,4,14,10,0,0,40,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,20 Nov 2016,v Knights,Bloemfontein,1,3,16,33,17,1,0,94.11,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Nov 2016,v Knights,Gqeberha,2,3,23,27,19,4,0,121.05,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,2 Dec 2016,v Titans,Centurion,2,3,50,62,45,6,0,111.11,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Dec 2016,v Lions,Durban,2,3,47,41,28,6,2,167.85,caught,1,4.0,0,22,2,5.5
+45705,Colin Ingram,7 Dec 2016,v Dolphins,East London,2,3,55,40,26,6,3,211.53,lbw,1,2.0,0,17,0,8.5
+45705,Colin Ingram,11 Dec 2016,v Titans,East London,2,2,19,17,8,1,2,237.5,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,13 Dec 2016,v Lions,Gqeberha,2,3,56*,72,46,3,2,121.73,not out,1,4.0,0,24,2,6
+45705,Colin Ingram,16 Dec 2016,v Titans,Centurion,2,3,12,25,13,2,0,92.3,caught,1,4.0,0,24,1,6
+45705,Colin Ingram,7 Jul 2017,v Hampshire,Cardiff,2,3,1,4,4,0,0,25,caught,1,2.0,0,22,0,11
+45705,Colin Ingram,9 Jul 2017,v Sussex,Arundel,1,3,101*,75,47,8,7,214.89,not out,2,4.0,0,27,2,6.75
+45705,Colin Ingram,15 Jul 2017,v Somerset,Cardiff,1,3,39,25,21,4,2,185.71,caught,-,TDNB,-,-,-,-
+45705,Colin Ingram,16 Jul 2017,v Essex,Chelmsford,2,3,114,65,55,8,9,207.27,run out,1,4.0,0,46,0,11.5
+45705,Colin Ingram,21 Jul 2017,v Sussex,Cardiff,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,25 Jul 2017,v Gloucs,Bristol,1,3,18,12,10,2,1,180,caught,2,4.0,0,18,1,4.5
+45705,Colin Ingram,30 Jul 2017,v Kent,Canterbury,1,3,11,16,11,0,1,100,caught,2,2.0,0,23,0,11.5
+45705,Colin Ingram,3 Aug 2017,v Gloucs,Cardiff,2,3,4*,14,7,1,0,57.14,not out,1,2.0,0,20,1,10
+45705,Colin Ingram,4 Aug 2017,v Surrey,The Oval,1,3,42,39,31,3,3,135.48,caught,2,3.0,0,18,1,6
+45705,Colin Ingram,10 Aug 2017,v Hampshire,Southampton,1,3,13,9,10,1,1,130,caught,2,4.0,0,29,2,7.25
+45705,Colin Ingram,13 Aug 2017,v Somerset,Taunton,1,3,35,36,25,3,1,140,caught,2,4.0,0,42,0,10.5
+45705,Colin Ingram,18 Aug 2017,v Middlesex,Cardiff,2,3,3,11,6,0,0,50,caught,1,3.0,0,21,0,7
+45705,Colin Ingram,23 Aug 2017,v Leics,Cardiff,2,3,70*,48,43,5,5,162.79,not out,1,4.0,0,19,1,4.75
+45705,Colin Ingram,2 Sep 2017,v Warwickshire,Birmingham,2,3,11,13,8,2,0,137.5,caught,1,4.0,0,30,1,7.5
+45705,Colin Ingram,10 Nov 2017,v Knights,Gqeberha,1,3,5,11,7,1,0,71.42,run out,2,2.0,0,9,0,4.5
+45705,Colin Ingram,24 Nov 2017,v Knights,Bloemfontein,1,3,5,9,5,1,0,100,caught,2,2.0,0,17,0,8.5
+45705,Colin Ingram,26 Nov 2017,v Lions,Cape Town,2,3,89,80,48,5,7,185.41,caught,1,3.0,0,21,0,7
+45705,Colin Ingram,29 Nov 2017,v Cape Cobras,Paarl,2,3,38,44,30,1,2,126.66,caught,1,4.0,0,25,0,6.25
+45705,Colin Ingram,1 Dec 2017,v Titans,Benoni,2,3,13,15,12,2,0,108.33,caught,1,1.0,0,15,0,15
+45705,Colin Ingram,3 Dec 2017,v Dolphins,Gqeberha,1,3,2,13,7,0,0,28.57,caught,2,2.0,0,18,0,9
+45705,Colin Ingram,8 Dec 2017,v Lions,Potchefstroom,1,3,17,31,20,1,0,85,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,10 Dec 2017,v Cape Cobras,East London,1,3,41,42,32,2,3,128.12,caught,2,3.0,0,18,2,6
+45705,Colin Ingram,13 Dec 2017,v Titans,Centurion,1,3,41,37,28,5,2,146.42,caught,2,2.0,0,19,0,9.5
+45705,Colin Ingram,22 Dec 2017,v Thunder,Adelaide,1,4,15,-,15,0,1,100,caught,2,1.0,0,9,0,9
+45705,Colin Ingram,28 Dec 2017,v Sixers,Sydney,1,4,15,-,15,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,31 Dec 2017,v Heat,Adelaide,1,4,23,-,22,2,0,104.54,caught,2,1.0,0,4,0,4
+45705,Colin Ingram,4 Jan 2018,v Hurricanes,Hobart,2,4,66,-,44,9,2,150,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Jan 2018,v Thunder,Sydney,1,4,48,-,31,2,4,154.83,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,9 Jan 2018,v Stars,Adelaide,2,4,15*,-,11,1,1,136.36,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,13 Jan 2018,v Scorchers,Alice Springs,1,3,3,-,5,0,0,60,caught,2,1.0,0,11,0,11
+45705,Colin Ingram,17 Jan 2018,v Hurricanes,Adelaide,1,3,4*,-,4,0,0,100,not out,2,1.0,0,6,0,6
+45705,Colin Ingram,22 Jan 2018,v Renegades,Melbourne (Docklands),1,4,68,-,36,4,5,188.88,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Jan 2018,v Scorchers,W.A.C.A,1,3,5,-,8,0,0,62.5,caught,2,1.0,0,9,0,9
+45705,Colin Ingram,2 Feb 2018,v Renegades,Adelaide,1,4,1,-,2,0,0,50,caught,2,2.0,0,19,0,9.5
+45705,Colin Ingram,4 Feb 2018,v Hurricanes,Adelaide,1,4,14*,-,6,1,1,233.33,not out,2,1.0,0,18,0,18
+45705,Colin Ingram,23 Feb 2018,v Gladiators,Dubai (DICS),1,4,41,-,21,5,2,195.23,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Feb 2018,v Zalmi,Dubai (DICS),2,4,23,-,14,2,1,164.28,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,26 Feb 2018,v Qalandars,Dubai (DICS),1,4,28,-,29,2,1,96.55,caught,2,1.0,0,8,0,8
+45705,Colin Ingram,2 Mar 2018,v Sultans,Sharjah,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+45705,Colin Ingram,4 Mar 2018,v United,Sharjah,1,4,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,8 Mar 2018,v Gladiators,Dubai (DICS),2,3,5,-,6,1,0,83.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Mar 2018,v Sultans,Dubai (DICS),1,4,29*,-,8,0,4,362.5,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Mar 2018,v Qalandars,Dubai (DICS),1,4,12,-,13,1,0,92.3,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Mar 2018,v Zalmi,Sharjah,2,3,0,-,8,0,0,0,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Mar 2018,v United,Sharjah,2,5,31*,-,30,2,2,103.33,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Mar 2018,v United,Dubai (DICS),1,5,68*,-,39,1,6,174.35,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,21 Mar 2018,v Zalmi,Lahore,2,4,5*,-,3,1,0,166.66,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Jul 2018,v Hampshire,Southampton,1,3,35,32,28,3,1,125,caught,2,2.5,0,15,2,5.29
+45705,Colin Ingram,8 Jul 2018,v Sussex,Cardiff,1,3,81*,56,44,7,4,184.09,not out,2,4.0,0,37,0,9.25
+45705,Colin Ingram,13 Jul 2018,v Essex,Chelmsford,2,3,2,6,7,0,0,28.57,caught,1,1.0,0,11,0,11
+45705,Colin Ingram,20 Jul 2018,v Somerset,Cardiff,2,3,25,15,12,2,2,208.33,caught,1,1.0,0,11,0,11
+45705,Colin Ingram,27 Jul 2018,v Gloucs,Cheltenham,2,3,38,31,28,3,2,135.71,caught,1,2.0,0,23,0,11.5
+45705,Colin Ingram,5 Aug 2018,v Middlesex,Richmond,2,3,46*,51,30,5,2,153.33,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Aug 2018,v Essex,Cardiff,1,3,89,51,47,9,5,189.36,caught,2,3.0,0,23,1,7.66
+45705,Colin Ingram,10 Aug 2018,v Hampshire,Cardiff,2,3,71*,55,40,6,4,177.5,not out,1,2.0,0,10,1,5
+45705,Colin Ingram,12 Aug 2018,v Somerset,Taunton,2,3,19,9,10,3,1,190,caught,1,2.0,0,12,0,6
+45705,Colin Ingram,14 Aug 2018,v Sussex,Hove,2,3,1,3,4,0,0,25,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,17 Aug 2018,v Surrey,Cardiff,1,3,23,11,11,2,2,209.09,caught,2,1.0,0,9,0,9
+45705,Colin Ingram,9 Sep 2018,v Amazon,Providence,1,3,4,-,5,0,0,80,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Sep 2018,v Amazon,Providence,1,5,25,-,26,2,0,96.15,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Sep 2018,v Patriots,Tarouba,1,1,5,-,9,1,0,55.55,caught,2,1.0,0,10,1,10
+45705,Colin Ingram,16 Sep 2018,v Amazon,Tarouba,2,5,7*,-,5,1,0,140,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Oct 2018,v Auckland,Abu Dhabi,1,3,84*,-,47,6,5,178.72,not out,2,2.0,0,16,1,8
+45705,Colin Ingram,5 Oct 2018,v Titans,Abu Dhabi,2,3,51,-,28,4,3,182.14,lbw,1,1.0,0,15,0,15
+45705,Colin Ingram,6 Oct 2018,v Legends,Sharjah,1,3,9,-,8,2,0,112.5,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,9 Oct 2018,v KingsLeopard,Sharjah,2,4,1,-,3,0,0,33.33,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,11 Oct 2018,v Knights,Sharjah,1,3,4,-,5,1,0,80,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Oct 2018,v KingsLeopard,Sharjah,2,3,4,-,10,0,0,40,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,14 Oct 2018,v Legends,Sharjah,2,6,29,-,14,2,2,207.14,caught,1,1.0,0,32,0,32
+45705,Colin Ingram,16 Oct 2018,v Knights,Sharjah,2,3,11,-,11,1,1,100,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Oct 2018,v Panthers,Sharjah,1,4,83*,-,51,9,4,162.74,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Oct 2018,v Panthers,Sharjah,1,4,44,-,27,5,2,162.96,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,21 Oct 2018,v Legends,Sharjah,1,4,21,-,19,3,0,110.52,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,19 Dec 2018,v Heat,Brisbane,2,3,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,23 Dec 2018,v Renegades,Adelaide,1,3,21,-,13,3,0,161.53,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,26 Dec 2018,v Scorchers,Perth,1,3,2,-,6,0,0,33.33,caught,2,1.0,0,7,0,7
+45705,Colin Ingram,31 Dec 2018,v Thunder,Adelaide,1,3,75,-,43,3,6,174.41,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,3 Jan 2019,v Renegades,Geelong,1,3,6,-,10,1,0,60,caught,2,3.0,0,20,1,6.66
+45705,Colin Ingram,6 Jan 2019,v Sixers,Adelaide,1,3,15,-,12,1,1,125,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Jan 2019,v Stars,Adelaide,1,4,57,-,41,4,2,139.02,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,13 Jan 2019,v Thunder,Sydney,2,4,48,-,30,4,2,160,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Jan 2019,v Hurricanes,Adelaide,1,4,67*,-,36,6,3,186.11,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,23 Jan 2019,v Stars,Moe,2,4,9,-,15,0,0,60,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,29 Jan 2019,v Sixers,Sydney,1,4,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,31 Jan 2019,v Hurricanes,Launceston,2,4,4*,-,7,0,0,57.14,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,3 Feb 2019,v Heat,Adelaide,1,4,28,-,21,0,3,133.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Feb 2019,v Sultans,Dubai (DICS),1,3,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,16 Feb 2019,v Qalandars,Dubai (DICS),2,4,16,-,14,1,0,114.28,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Feb 2019,v Zalmi,Sharjah,2,4,21,-,14,4,0,150,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,23 Feb 2019,v United,Sharjah,1,4,5,-,6,1,0,83.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Feb 2019,v Gladiators,Sharjah,2,4,127*,-,59,12,8,215.25,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,27 Feb 2019,v United,Dubai (DICS),1,4,13,-,12,1,0,108.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,28 Feb 2019,v Qalandars,Dubai (DICS),2,4,12,-,15,1,0,80,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Mar 2019,v Sultans,Abu Dhabi,2,4,31,-,24,4,0,129.16,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Mar 2019,v Gladiators,Karachi,1,4,24,-,10,1,3,240,lbw,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Mar 2019,v Zalmi,Karachi,2,4,71,-,37,7,4,191.89,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,14 Mar 2019,v United,Karachi,1,4,23,-,16,2,1,143.75,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Mar 2019,v MI,Wankhede,1,4,47,-,32,7,1,146.87,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,26 Mar 2019,v CSK,Delhi,1,5,2,3,2,0,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Mar 2019,v KKR,Delhi,2,5,10,13,7,1,0,142.85,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,1 Apr 2019,v Kings XI,Mohali,2,5,38,44,29,4,1,131.03,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Apr 2019,v SRH,Delhi,1,6,5,13,8,0,0,62.5,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Apr 2019,v RCB,Bengaluru,2,4,22,17,21,2,1,104.76,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,12 Apr 2019,v KKR,Eden Gardens,2,5,14*,8,6,1,1,233.33,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,20 Apr 2019,v Kings XI,Delhi,2,5,19,18,9,4,0,211.11,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,22 Apr 2019,v RR,Jaipur,2,6,3*,8,5,0,0,60,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,28 Apr 2019,v RCB,Delhi,1,5,11,11,7,1,1,157.14,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,1 May 2019,v CSK,Chennai,2,5,1,8,5,0,0,20,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,4 May 2019,v RR,Delhi,2,5,12,24,23,0,0,52.17,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jul 2019,v Somerset,Cardiff,1,3,50*,45,28,2,4,178.57,not out,2,2.0,0,18,0,9
+45705,Colin Ingram,19 Jul 2019,v Gloucs,Cheltenham,1,3,17,13,12,1,2,141.66,caught,-,TDNB,-,-,-,-
+45705,Colin Ingram,25 Jul 2019,v Surrey,The Oval,2,3,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,26 Jul 2019,v Middlesex,Cardiff,1,3,15,14,11,3,0,136.36,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Aug 2019,v Gloucs,Cardiff,1,3,12,22,13,1,0,92.3,caught,2,1.0,0,8,0,8
+45705,Colin Ingram,2 Aug 2019,v Hampshire,Southampton,2,3,12,19,13,2,0,92.3,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Aug 2019,v Sussex,Hove,1,4,19,18,15,2,0,126.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,9 Aug 2019,v Essex,Cardiff,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,11 Aug 2019,v Surrey,Cardiff,1,4,41,34,33,2,2,124.24,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Aug 2019,v Somerset,Taunton,2,3,1,3,1,0,0,100,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,26 Aug 2019,v Sussex,Cardiff,1,3,50,38,30,4,3,166.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Aug 2019,v Hampshire,Cardiff,1,3,44,41,23,2,4,191.3,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Sep 2019,v Tridents,Gros Islet,2,3,4,-,5,1,0,80,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Sep 2019,v Trinbago,Gros Islet,1,3,52*,-,34,5,2,152.94,not out,-,TDNB,-,-,-,-
+45705,Colin Ingram,24 Sep 2019,v Patriots,Gros Islet,1,3,21,-,16,1,1,131.25,stumped,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Sep 2019,v Amazon,Gros Islet,1,3,25,-,14,2,2,178.57,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,27 Sep 2019,v Tallawahs,Gros Islet,2,3,17,-,24,1,1,70.83,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,29 Sep 2019,v Tridents,Bridgetown,2,3,25,-,17,2,2,147.05,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,20 Feb 2020,v Gladiators,Karachi,1,5,6,-,6,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,22 Feb 2020,v Sultans,Lahore,2,4,1*,-,2,0,0,50,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,23 Feb 2020,v Qalandars,Lahore,2,5,30,-,14,1,3,214.28,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,27 Feb 2020,v Gladiators,Rawalpindi,1,5,63*,-,40,6,2,157.5,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Mar 2020,v Kings,Rawalpindi,1,4,16,-,12,1,1,133.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,4 Mar 2020,v Qalandars,Lahore,1,4,29,-,19,6,0,152.63,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Mar 2020,v Zalmi,Rawalpindi,1,5,41,-,25,1,2,164,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,8 Mar 2020,v Sultans,Rawalpindi,1,4,6,-,4,1,0,150,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Mar 2020,v Kings,Karachi,1,5,14,-,15,1,0,93.33,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,10 Dec 2020,v Sixers,Hobart,1,3,55,-,42,7,1,130.95,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,13 Dec 2020,v Strikers,Hobart,1,3,25,-,19,1,1,131.57,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Dec 2020,v Strikers,Launceston,1,5,46,-,35,4,2,131.42,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,19 Dec 2020,v Renegades,Hobart,2,5,19,-,18,2,1,105.55,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,27 Dec 2020,v Heat,Brisbane,1,5,16,-,11,2,0,145.45,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Dec 2020,v Heat,Brisbane,1,5,24,-,21,3,0,114.28,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Jan 2021,v Stars,Hobart,1,5,26,-,12,1,3,216.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,4 Jan 2021,v Stars,Hobart,2,4,17,-,13,1,1,130.76,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Jan 2021,v Thunder,Perth,2,5,12,-,14,1,0,85.71,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,12 Jan 2021,v Scorchers,Perth,1,5,18,-,18,3,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Feb 2021,v Gladiators,Karachi,2,4,17*,38,22,1,0,77.27,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,24 Feb 2021,v United,Karachi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+45705,Colin Ingram,27 Feb 2021,v Sultans,Karachi,2,4,6,8,5,1,0,120,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,28 Feb 2021,v Qalandars,Karachi,1,4,0,2,1,0,0,0,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,3 Mar 2021,v Zalmi,Karachi,2,4,3,17,11,0,0,27.27,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Jun 2021,v Gloucs,Cardiff,2,4,1,4,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,13 Jun 2021,v Essex,Cardiff,2,4,11*,15,9,2,0,122.22,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,14 Jun 2021,v Surrey,The Oval,1,4,4,6,6,0,0,66.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,16 Jun 2021,v Kent,Cardiff,2,4,17,24,18,2,0,94.44,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jun 2021,v Middlesex,Cardiff,1,2,75,72,48,10,2,156.25,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,24 Jun 2021,v Gloucs,Bristol,2,2,14,24,12,2,0,116.66,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,27 Jun 2021,v Middlesex,Radlett,1,2,0,4,4,0,0,0,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,29 Jun 2021,v Surrey,Cardiff,1,3,5,13,8,0,0,62.5,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Jul 2021,v Essex,Chelmsford,1,3,1,6,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Jul 2021,v Sussex,Cardiff,2,3,3,9,7,0,0,42.85,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Jul 2021,v Somerset,Cardiff,2,3,19,19,21,2,1,90.47,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jul 2021,v Hampshire,Southampton,1,4,24,36,28,0,1,85.71,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,22 Jul 2021,v Originals,The Oval,1,6,17,-,17,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+45705,Colin Ingram,31 Jul 2021,v N S-Chargers,Leeds,1,4,2,4,4,0,0,50,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Aug 2021,v Fire,The Oval,2,5,9,20,16,0,0,56.25,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Aug 2021,v Phoenix,Birmingham,1,3,81*,55,43,8,4,188.37,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,8 Aug 2021,v Rockets,The Oval,1,4,9,5,4,0,1,225,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Aug 2021,v Spirit,The Oval,2,4,2,10,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Aug 2021,v Brave,Southampton,1,3,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,22 Jan 2022,v Victorians,Mirpur,1,2,20,24,21,3,1,95.23,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Jan 2022,v Dhaka,Mirpur,2,4,21*,26,19,1,1,110.52,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,28 Jan 2022,v Dhaka,Chattogram,1,4,0,3,3,0,0,0,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,29 Jan 2022,v Chattogram,Chattogram,2,3,50,65,37,5,2,135.13,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,3 Feb 2022,v Khulna,Mirpur,1,4,2,9,3,0,0,66.66,lbw,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Feb 2022,v Khulna,Sylhet,2,3,37,68,28,1,2,132.14,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,8 Feb 2022,v Barishal,Sylhet,2,1,90,75,49,16,1,183.67,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,9 Feb 2022,v Victorians,Sylhet,1,1,89,93,63,9,3,141.26,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Feb 2022,v Chattogram,Mirpur,1,1,24,19,19,1,2,126.31,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Jun 2022,v Gloucs,Cardiff,1,3,10,13,11,1,0,90.9,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,10 Jun 2022,v Hampshire,Cardiff,2,3,16,13,14,3,0,114.28,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jun 2022,v Gloucs,Bristol,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+45705,Colin Ingram,19 Jun 2022,v Sussex,Cardiff,2,3,57,62,43,6,1,132.55,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Jun 2022,v Middlesex,Cardiff,2,3,3*,11,4,0,0,75,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,24 Jun 2022,v Somerset,Cardiff,2,3,37*,29,19,1,4,194.73,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,2 Jul 2022,v Essex,Chelmsford,2,3,3,5,4,0,0,75,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,3 Jul 2022,v Kent,Canterbury,1,3,26,29,18,1,1,144.44,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,10 Sep 2022,v Kings,Gros Islet,2,3,6,11,7,1,0,85.71,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,14 Sep 2022,v Trinbago,Port of Spain,2,3,13,61,20,0,0,65,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,5 Feb 2023,v Super Giants,Centurion,2,5,4,16,11,0,0,36.36,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Feb 2023,v Paarl Royals,Centurion,1,5,41,38,21,4,2,195.23,run out,2,2.0,0,21,0,10.5
+45705,Colin Ingram,8 Feb 2023,v Paarl Royals,Johannesburg,1,5,10,21,14,1,0,71.42,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Feb 2023,v Sunrisers,Johannesburg,1,5,17,-,25,1,0,68,bowled,2,2.0,0,16,1,8
+45705,Colin Ingram,26 May 2023,v Gloucs,Bristol,2,4,47,53,33,6,0,142.42,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,28 May 2023,v Somerset,Taunton,1,4,13,12,9,2,0,144.44,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,31 May 2023,v Middlesex,Northwood,1,4,92*,66,51,7,6,180.39,not out,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Jun 2023,v Kent,Cardiff,2,4,63*,48,32,10,1,196.87,not out,1,DNB,-,-,-,-
+45705,Colin Ingram,4 Jun 2023,v Sussex,Hove,1,4,48,47,32,6,1,150,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Jun 2023,v Surrey,Cardiff,2,4,11,15,11,0,1,100,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,9 Jun 2023,v Essex,Cardiff,2,3,48,25,21,5,3,228.57,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Jun 2023,v Essex,Chelmsford,1,3,7,9,9,1,0,77.77,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,30 Jun 2023,v Hampshire,Southampton,2,2,34,19,14,4,2,242.85,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,2 Jul 2023,v Middlesex,Cardiff,2,4,13,19,12,1,0,108.33,lbw,1,DNB,-,-,-,-
+45705,Colin Ingram,12 Jan 2024,v Paarl Royals,Paarl,2,5,8,25,13,0,0,61.53,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,14 Jan 2024,v Paarl Royals,Centurion,2,5,1,8,5,0,0,20,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jan 2024,v Super Giants,Centurion,1,5,43,41,23,5,1,186.95,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Jan 2024,v Super Kings,Johannesburg,1,5,0,6,6,0,0,0,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,22 Jan 2024,v Sunrisers,Gqeberha,1,5,1,3,2,0,0,50,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,25 Jan 2024,v Sunrisers,Centurion,1,5,4,15,6,1,0,66.66,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,27 Jan 2024,v Super Kings,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,30 Jan 2024,v Super Giants,Durban,2,6,10,13,7,2,0,142.85,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,31 May 2024,v Surrey,Cardiff,2,4,50,49,40,4,2,125,run out,1,DNB,-,-,-,-
+45705,Colin Ingram,2 Jun 2024,v Sussex,Cardiff,1,5,39,25,23,5,1,169.56,bowled,2,2.0,0,10,1,5
+45705,Colin Ingram,6 Jun 2024,v Middlesex,Lord's,2,5,10,7,8,2,0,125,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,7 Jun 2024,v Essex,Chelmsford,1,5,52,36,29,7,2,179.31,caught,2,2.4,0,25,0,9.37
+45705,Colin Ingram,16 Jun 2024,v Somerset,Taunton,2,5,4,6,6,1,0,66.66,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,20 Jun 2024,v Gloucs,Cardiff,1,4,25,25,24,4,0,104.16,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,21 Jun 2024,v Surrey,The Oval,1,4,8,15,8,1,0,100,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,5 Jul 2024,v Sussex,Hove,1,4,40,17,19,7,1,210.52,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,7 Jul 2024,v Essex,Cardiff,1,5,47,38,28,2,3,167.85,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,12 Jul 2024,v Middlesex,Cardiff,1,4,11,8,7,2,0,157.14,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Jul 2024,v Gloucs,Cheltenham,2,5,20,18,12,2,1,166.66,bowled,1,DNB,-,-,-,-
+45705,Colin Ingram,16 Jul 2024,v Kent,Canterbury,1,5,26,17,13,2,2,200,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,19 Jul 2024,v Somerset,Cardiff,1,3,21,30,10,2,0,210,run out,2,DNB,-,-,-,-
+45705,Colin Ingram,9 Jan 2025,v Sunrisers,Gqeberha,1,4,22,29,18,2,1,122.22,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,11 Jan 2025,v Super Kings,Johannesburg,1,4,11,18,12,1,0,91.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,13 Jan 2025,v Paarl Royals,Cape Town,1,4,7,10,9,1,0,77.77,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,15 Jan 2025,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+45705,Colin Ingram,18 Jan 2025,v Super Kings,Cape Town,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,21 Jan 2025,v Super Giants,Durban,1,4,1,3,6,0,0,16.66,caught,-,TDNB,-,-,-,-
+45705,Colin Ingram,29 Jan 2025,v Sunrisers,Cape Town,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+45705,Colin Ingram,31 Jan 2025,v Capitals,Centurion,1,4,16,12,12,2,1,133.33,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,2 Feb 2025,v Capitals,Cape Town,1,3,7,9,7,1,0,100,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,1 Jun 2025,v Middlesex,Northwood,2,4,3,13,4,0,0,75,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,3 Jun 2025,v Surrey,Cardiff,2,4,10,15,13,0,1,76.92,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,6 Jun 2025,v Essex,Cardiff,2,4,7,14,6,1,0,116.66,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,8 Jun 2025,v Sussex,Hove,2,4,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,12 Jun 2025,v Essex,Chelmsford,1,4,39,31,21,5,2,185.71,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,14 Jun 2025,v Sussex,Cardiff,2,4,37,31,21,3,2,176.19,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,15 Jun 2025,v Gloucs,Bristol,1,4,38,41,28,0,3,135.71,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,20 Jun 2025,v Somerset,Cardiff,1,4,7,13,10,1,0,70,bowled,2,DNB,-,-,-,-
+45705,Colin Ingram,4 Jul 2025,v Somerset,Taunton,1,5,55,45,33,6,2,166.66,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,6 Jul 2025,v Kent,Cardiff,2,5,24,15,14,2,2,171.42,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,10 Jul 2025,v Hampshire,Southampton,2,5,18,17,16,1,1,112.5,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,11 Jul 2025,v Surrey,The Oval,1,5,69,45,33,5,5,209.09,caught,2,DNB,-,-,-,-
+45705,Colin Ingram,13 Jul 2025,v Gloucs,Cardiff,2,5,30,26,17,4,1,176.47,caught,1,DNB,-,-,-,-
+45705,Colin Ingram,18 Jul 2025,v Middlesex,Cardiff,1,5,1,2,3,0,0,33.33,bowled,2,DNB,-,-,-,-

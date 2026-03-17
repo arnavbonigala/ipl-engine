@@ -1,0 +1,217 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+826901,Daniel Sams,19 Dec 2017,v Thunder,Sydney,1,10,0*,-,0,0,0,-,not out,2,4.0,0,14,4,3.5
+826901,Daniel Sams,23 Dec 2017,v Scorchers,Sydney,1,10,0,-,1,0,0,0,lbw,2,4.0,0,34,0,8.5
+826901,Daniel Sams,28 Dec 2017,v Strikers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+826901,Daniel Sams,1 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+826901,Daniel Sams,3 Jan 2018,v Renegades,Geelong,1,7,1,-,2,0,0,50,caught,2,3.3,0,27,0,7.71
+826901,Daniel Sams,8 Jan 2018,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+826901,Daniel Sams,21 Dec 2018,v Stars,Canberra,1,6,34,-,21,1,2,161.9,caught,2,2.0,0,5,3,2.5
+826901,Daniel Sams,24 Dec 2018,v Sixers,Sydney,1,6,28,-,11,3,2,254.54,caught,2,4.0,0,30,3,7.5
+826901,Daniel Sams,28 Dec 2018,v Hurricanes,Hobart,1,6,11,-,8,2,0,137.5,caught,2,4.0,0,54,0,13.5
+826901,Daniel Sams,31 Dec 2018,v Strikers,Adelaide,2,6,15,-,8,1,1,187.5,caught,1,4.0,0,24,2,6
+826901,Daniel Sams,2 Jan 2019,v Scorchers,Sydney,1,5,5,-,6,0,0,83.33,caught,2,3.0,0,36,0,12
+826901,Daniel Sams,5 Jan 2019,v Stars,Carrara,1,6,42,-,25,0,4,168,caught,2,3.2,0,28,1,8.4
+826901,Daniel Sams,8 Jan 2019,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,1,12.66
+826901,Daniel Sams,13 Jan 2019,v Strikers,Sydney,1,5,0,-,3,0,0,0,caught,2,1.4,0,8,1,4.8
+826901,Daniel Sams,17 Jan 2019,v Heat,Brisbane,1,4,18,-,13,1,1,138.46,caught,2,DNB,-,-,-,-
+826901,Daniel Sams,22 Jan 2019,v Renegades,Sydney,2,6,2,-,4,0,0,50,caught,1,4.0,0,29,3,7.25
+826901,Daniel Sams,24 Jan 2019,v Scorchers,Perth,2,5,1,-,5,0,0,20,bowled,1,2.0,0,30,0,15
+826901,Daniel Sams,30 Jan 2019,v Renegades,Melbourne (Docklands),2,7,10,-,13,1,0,76.92,bowled,1,3.0,0,13,1,4.33
+826901,Daniel Sams,2 Feb 2019,v Sixers,Sydney,1,6,2,-,3,0,0,66.66,caught,2,1.0,0,8,0,8
+826901,Daniel Sams,9 Feb 2019,v Hurricanes,Canberra,2,5,7,-,7,0,0,100,caught,1,1.0,0,13,0,13
+826901,Daniel Sams,17 Dec 2019,v Heat,Brisbane,1,6,0,-,1,0,0,0,bowled,2,2.2,0,34,2,14.57
+826901,Daniel Sams,19 Dec 2019,v Renegades,Geelong,2,6,0*,-,0,0,0,-,not out,1,3.0,0,26,2,8.66
+826901,Daniel Sams,21 Dec 2019,v Strikers,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,2,5.25
+826901,Daniel Sams,28 Dec 2019,v Sixers,Sydney,1,8,0,-,1,0,0,0,caught,2,4.0,0,24,1,6
+826901,Daniel Sams,31 Dec 2019,v Strikers,Adelaide,1,6,0,-,2,0,0,0,lbw,2,4.0,0,32,2,8
+826901,Daniel Sams,2 Jan 2020,v Stars,Sydney,1,7,13,-,16,1,0,81.25,bowled,2,4.0,1,25,3,6.25
+826901,Daniel Sams,6 Jan 2020,v Heat,Sydney,2,5,10,-,3,1,1,333.33,caught,1,2.0,0,24,2,12
+826901,Daniel Sams,8 Jan 2020,v Stars,Melbourne,1,6,0,-,1,0,0,0,lbw,2,4.0,0,36,1,9
+826901,Daniel Sams,11 Jan 2020,v Hurricanes,Sydney,2,7,1,-,2,0,0,50,caught,1,4.0,0,29,2,7.25
+826901,Daniel Sams,15 Jan 2020,v Renegades,Canberra,2,4,4,-,7,0,0,57.14,lbw,1,3.0,0,25,0,8.33
+826901,Daniel Sams,18 Jan 2020,v Sixers,Sydney,2,4,5*,-,8,0,0,62.5,not out,1,3.0,0,14,3,4.66
+826901,Daniel Sams,20 Jan 2020,v Scorchers,Perth,1,5,1,-,2,0,0,50,caught,2,3.0,0,30,0,10
+826901,Daniel Sams,24 Jan 2020,v Hurricanes,Hobart,2,7,1,-,3,0,0,33.33,caught,1,4.0,0,34,4,8.5
+826901,Daniel Sams,26 Jan 2020,v Scorchers,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+826901,Daniel Sams,30 Jan 2020,v Hurricanes,Hobart,1,6,7*,-,4,1,0,175,not out,2,3.3,0,24,2,6.85
+826901,Daniel Sams,1 Feb 2020,v Strikers,Adelaide,1,7,10,-,10,0,1,100,bowled,2,4.0,0,26,3,6.5
+826901,Daniel Sams,6 Feb 2020,v Stars,Melbourne,2,7,3,-,6,0,0,50,caught,1,4.0,0,41,0,10.25
+826901,Daniel Sams,20 Oct 2020,v Kings XI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+826901,Daniel Sams,2 Nov 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+826901,Daniel Sams,5 Nov 2020,v MI,Dubai (DICS),2,8,0,-,2,0,0,0,caught,1,4.0,0,44,0,11
+826901,Daniel Sams,6 Dec 2020,v India,Sydney,1,7,8*,-,3,1,0,266.66,not out,2,3.4,0,41,1,11.18
+826901,Daniel Sams,8 Dec 2020,v India,Sydney,1,7,4*,-,2,1,0,200,not out,2,2.0,0,29,0,14.5
+826901,Daniel Sams,12 Dec 2020,v Stars,Canberra,2,6,0,-,1,0,0,0,caught,1,3.0,0,24,2,8
+826901,Daniel Sams,14 Dec 2020,v Heat,Canberra,2,7,65*,-,25,3,7,260,not out,1,4.0,0,32,2,8
+826901,Daniel Sams,22 Dec 2020,v Scorchers,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+826901,Daniel Sams,26 Dec 2020,v Renegades,Canberra,1,5,22,-,12,1,2,183.33,caught,2,2.0,0,21,1,10.5
+826901,Daniel Sams,29 Dec 2020,v Stars,Canberra,1,6,9,-,5,0,1,180,bowled,2,4.0,0,27,1,6.75
+826901,Daniel Sams,1 Jan 2021,v Renegades,Carrara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+826901,Daniel Sams,4 Jan 2021,v Heat,Brisbane,1,6,37,-,18,3,2,205.55,caught,2,DNB,-,-,-,-
+826901,Daniel Sams,13 Jan 2021,v Sixers,Canberra,1,6,50*,-,37,4,1,135.13,not out,2,2.4,0,25,2,9.37
+826901,Daniel Sams,18 Jan 2021,v Hurricanes,Canberra,1,7,16*,-,6,0,1,266.66,not out,2,3.0,0,30,0,10
+826901,Daniel Sams,31 Jan 2021,v Heat,Canberra,1,6,1,-,2,0,0,50,lbw,2,4.0,0,32,1,8
+826901,Daniel Sams,22 Feb 2021,v New Zealand,Christchurch,2,8,1,2,3,0,0,33.33,caught,1,4.0,0,40,2,10
+826901,Daniel Sams,25 Feb 2021,v New Zealand,Dunedin,2,8,41,30,15,2,4,273.33,caught,1,4.0,0,46,1,11.5
+826901,Daniel Sams,27 Apr 2021,v DC,Ahmedabad,1,7,3*,11,2,0,0,150,not out,2,2.0,0,15,0,7.5
+826901,Daniel Sams,30 Apr 2021,v Punjab Kings,Ahmedabad,2,7,3,5,4,0,0,75,bowled,1,4.0,0,24,1,6
+826901,Daniel Sams,6 Dec 2021,v Heat,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+826901,Daniel Sams,10 Dec 2021,v Stars,Melbourne,2,5,1,10,3,0,0,33.33,caught,1,4.0,0,50,0,12.5
+826901,Daniel Sams,12 Dec 2021,v Stars,Sydney,1,6,22,35,18,1,2,122.22,caught,2,3.0,0,36,0,12
+826901,Daniel Sams,19 Dec 2021,v Heat,Brisbane,1,5,1,6,3,0,0,33.33,caught,2,3.0,0,30,1,10
+826901,Daniel Sams,26 Dec 2021,v Sixers,Sydney,2,6,28,15,11,0,4,254.54,caught,1,3.0,0,29,2,9.66
+826901,Daniel Sams,28 Dec 2021,v Scorchers,Canberra,1,6,10,5,4,1,1,250,lbw,2,4.0,0,30,1,7.5
+826901,Daniel Sams,31 Dec 2021,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,4,8.25
+826901,Daniel Sams,2 Jan 2022,v Strikers,Sydney,1,6,1,5,2,0,0,50,bowled,2,4.0,0,26,1,6.5
+826901,Daniel Sams,6 Jan 2022,v Scorchers,Carrara,2,6,1*,3,1,0,0,100,not out,1,4.0,0,28,1,7
+826901,Daniel Sams,8 Jan 2022,v Renegades,Melbourne (Docklands),1,4,98*,54,44,7,8,222.72,not out,2,2.0,0,10,1,5
+826901,Daniel Sams,10 Jan 2022,v Hurricanes,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+826901,Daniel Sams,13 Jan 2022,v Hurricanes,Melbourne (Docklands),2,4,18,30,17,1,1,105.88,caught,1,4.0,0,32,1,8
+826901,Daniel Sams,15 Jan 2022,v Sixers,Sydney,2,5,10,15,12,1,0,83.33,caught,1,4.0,0,43,2,10.75
+826901,Daniel Sams,19 Jan 2022,v Renegades,Melbourne,1,5,0,2,1,0,0,0,lbw,2,4.0,0,22,1,5.5
+826901,Daniel Sams,23 Jan 2022,v Strikers,Melbourne,2,5,1,-,2,0,0,50,lbw,1,4.0,0,47,0,11.75
+826901,Daniel Sams,15 Feb 2022,v Sri Lanka,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+826901,Daniel Sams,18 Feb 2022,v Sri Lanka,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+826901,Daniel Sams,20 Feb 2022,v Sri Lanka,Melbourne,1,7,18,32,15,2,0,120,caught,2,2.1,0,22,0,10.15
+826901,Daniel Sams,27 Mar 2022,v DC,Brabourne,1,7,7*,6,2,0,1,350,not out,2,4.0,0,57,0,14.25
+826901,Daniel Sams,2 Apr 2022,v RR,DY Patil,2,7,0,2,1,0,0,0,caught,1,4.0,0,32,0,8
+826901,Daniel Sams,6 Apr 2022,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,50,1,16.66
+826901,Daniel Sams,21 Apr 2022,v CSK,DY Patil,1,8,5,8,3,1,0,166.66,lbw,2,4.0,0,30,4,7.5
+826901,Daniel Sams,24 Apr 2022,v LSG,Wankhede,2,7,3,14,7,0,0,42.85,caught,1,4.0,0,40,1,10
+826901,Daniel Sams,30 Apr 2022,v RR,DY Patil,2,7,6*,1,1,0,1,600,not out,1,4.0,0,32,1,8
+826901,Daniel Sams,6 May 2022,v GT,Brabourne,1,7,0,5,2,0,0,0,caught,2,3.0,0,18,0,6
+826901,Daniel Sams,9 May 2022,v KKR,DY Patil,2,7,1,5,2,0,0,50,caught,1,4.0,0,26,1,6.5
+826901,Daniel Sams,12 May 2022,v CSK,Wankhede,2,3,1,23,6,0,0,16.66,lbw,1,4.0,0,16,3,4
+826901,Daniel Sams,17 May 2022,v SRH,Wankhede,2,3,15,26,11,0,1,136.36,caught,1,4.0,0,39,1,9.75
+826901,Daniel Sams,21 May 2022,v DC,Wankhede,2,7,0*,4,1,0,0,0,not out,1,4.0,0,30,1,7.5
+826901,Daniel Sams,27 May 2022,v Kent,Canterbury,2,6,3,8,6,0,0,50,caught,1,4.0,0,47,1,11.75
+826901,Daniel Sams,29 May 2022,v Somerset,Taunton,1,7,14,18,10,0,1,140,caught,2,3.0,0,33,0,11
+826901,Daniel Sams,31 May 2022,v Hampshire,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+826901,Daniel Sams,2 Jun 2022,v Glamorgan,Cardiff,1,6,6,9,6,0,0,100,run out,2,2.5,0,25,1,8.82
+826901,Daniel Sams,7 Jun 2022,v Kent,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+826901,Daniel Sams,17 Jun 2022,v Sussex,Chelmsford,1,6,71,27,24,6,6,295.83,caught,2,4.0,0,41,1,10.25
+826901,Daniel Sams,19 Jun 2022,v Somerset,Chelmsford,1,6,0,1,1,0,0,0,caught,2,4.0,0,29,1,7.25
+826901,Daniel Sams,23 Jun 2022,v Middlesex,Lord's,1,7,1*,10,5,0,0,20,not out,2,4.0,0,37,1,9.25
+826901,Daniel Sams,24 Jun 2022,v Surrey,Chelmsford,1,6,11,7,6,2,0,183.33,caught,2,4.0,0,42,1,10.5
+826901,Daniel Sams,1 Jul 2022,v Sussex,Hove,1,7,13,17,11,0,1,118.18,caught,2,4.0,0,45,3,11.25
+826901,Daniel Sams,2 Jul 2022,v Glamorgan,Chelmsford,1,6,21*,17,10,0,3,210,not out,2,4.0,0,20,3,5
+826901,Daniel Sams,8 Jul 2022,v Lancashire,Manchester,1,7,25*,20,17,0,2,147.05,not out,2,2.0,0,21,0,10.5
+826901,Daniel Sams,6 Aug 2022,v Phoenix,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,7.2
+826901,Daniel Sams,9 Aug 2022,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,9.3
+826901,Daniel Sams,13 Aug 2022,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,10.8
+826901,Daniel Sams,15 Aug 2022,v Phoenix,Birmingham,1,8,55*,-,25,5,3,220,not out,2,4.0,0,35,0,10.5
+826901,Daniel Sams,17 Aug 2022,v Invincibles,Nottingham,1,5,3,-,5,0,0,60,caught,2,4.0,0,40,0,12
+826901,Daniel Sams,20 Aug 2022,v Spirit,Nottingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,10.2
+826901,Daniel Sams,25 Aug 2022,v Brave,Southampton,1,7,3*,-,3,0,0,100,not out,2,3.0,0,29,0,11.6
+826901,Daniel Sams,29 Aug 2022,v Fire,Nottingham,1,4,31,25,14,2,3,221.42,caught,2,3.2,0,35,0,12.35
+826901,Daniel Sams,3 Sep 2022,v Originals,Lord's,2,7,13,13,8,1,1,162.5,caught,1,3.0,0,20,1,8
+826901,Daniel Sams,23 Sep 2022,v India,Nagpur,1,-,DNB,-,-,-,-,-,-,2,1.2,0,20,0,15
+826901,Daniel Sams,25 Sep 2022,v India,Hyderabad,1,8,28*,31,20,1,2,140,not out,2,3.5,0,33,2,8.6
+826901,Daniel Sams,9 Oct 2022,v England,Perth,2,8,6,11,4,1,0,150,caught,1,4.0,0,42,1,10.5
+826901,Daniel Sams,13 Dec 2022,v Stars,Canberra,2,6,3,7,5,0,0,60,caught,1,4.0,0,21,2,5.25
+826901,Daniel Sams,16 Dec 2022,v Strikers,Sydney,2,6,1,4,3,0,0,33.33,bowled,1,4.0,0,23,2,5.75
+826901,Daniel Sams,18 Dec 2022,v Renegades,Melbourne (Docklands),1,5,1,6,2,0,0,50,caught,2,4.0,0,33,3,8.25
+826901,Daniel Sams,20 Dec 2022,v Strikers,Adelaide,1,5,8,10,10,0,0,80,caught,2,2.0,0,34,0,17
+826901,Daniel Sams,27 Dec 2022,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+826901,Daniel Sams,29 Dec 2022,v Heat,Carrara,1,6,36*,19,15,2,4,240,not out,2,4.0,0,41,2,10.25
+826901,Daniel Sams,31 Dec 2022,v Hurricanes,Albury,1,5,1,3,2,0,0,50,caught,2,1.0,0,21,0,21
+826901,Daniel Sams,8 Jan 2023,v Sixers,Sydney,1,6,5,12,7,0,0,71.42,caught,2,2.0,0,23,0,11.5
+826901,Daniel Sams,13 Jan 2023,v Scorchers,Sydney,1,6,2,19,6,0,0,33.33,caught,2,1.5,0,16,0,8.72
+826901,Daniel Sams,15 Jan 2023,v Hurricanes,Hobart,1,6,9,24,12,0,0,75,caught,2,4.0,0,18,4,4.5
+826901,Daniel Sams,19 Jan 2023,v Renegades,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+826901,Daniel Sams,21 Jan 2023,v Sixers,Sydney,2,6,5,10,6,1,0,83.33,bowled,1,4.0,0,47,0,11.75
+826901,Daniel Sams,25 Jan 2023,v Stars,Melbourne,2,6,28,-,18,3,1,155.55,bowled,1,3.0,0,27,1,9
+826901,Daniel Sams,27 Jan 2023,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+826901,Daniel Sams,30 May 2023,v Gloucs,Chelmsford,2,7,15,10,8,0,2,187.5,caught,1,4.0,0,36,2,9
+826901,Daniel Sams,1 Jun 2023,v Sussex,Hove,1,7,8,7,7,1,0,114.28,bowled,2,3.4,0,19,1,5.18
+826901,Daniel Sams,2 Jun 2023,v Hampshire,Chelmsford,2,8,7,16,9,0,0,77.77,caught,1,4.0,1,28,3,7
+826901,Daniel Sams,4 Jun 2023,v Somerset,Taunton,2,7,14,26,14,0,0,100,caught,1,4.0,0,20,4,5
+826901,Daniel Sams,6 Jun 2023,v Sussex,Chelmsford,2,7,29*,18,16,4,1,181.25,not out,1,3.3,0,25,1,7.14
+826901,Daniel Sams,7 Jun 2023,v Kent,Canterbury,2,7,17,15,15,1,1,113.33,bowled,1,4.0,0,52,1,13
+826901,Daniel Sams,9 Jun 2023,v Glamorgan,Cardiff,1,7,30,24,20,3,1,150,bowled,2,3.0,0,27,2,9
+826901,Daniel Sams,16 Jun 2023,v Glamorgan,Chelmsford,2,7,41,17,16,5,2,256.25,bowled,1,4.0,0,20,1,5
+826901,Daniel Sams,18 Jun 2023,v Middlesex,Lord's,1,6,67,29,24,2,8,279.16,caught,2,2.0,0,15,1,7.5
+826901,Daniel Sams,19 Jun 2023,v Somerset,Chelmsford,1,7,4,5,5,0,0,80,bowled,2,4.0,0,22,2,5.5
+826901,Daniel Sams,22 Jun 2023,v Kent,Chelmsford,1,7,3,13,6,0,0,50,caught,2,3.0,0,18,1,6
+826901,Daniel Sams,23 Jun 2023,v Hampshire,Southampton,1,5,30*,30,18,0,2,166.66,not out,2,3.2,0,46,1,13.8
+826901,Daniel Sams,30 Jun 2023,v Middlesex,Chelmsford,1,7,69*,34,34,6,6,202.94,not out,2,4.0,0,37,1,9.25
+826901,Daniel Sams,2 Jul 2023,v Surrey,The Oval,2,7,6,6,3,0,1,200,caught,1,4.0,0,44,1,11
+826901,Daniel Sams,6 Jul 2023,v Bears,Birmingham,2,7,5,5,4,1,0,125,caught,1,4.0,1,41,1,10.25
+826901,Daniel Sams,15 Jul 2023,v Hampshire,Birmingham,2,6,29,16,17,2,3,170.58,caught,1,4.0,0,49,1,12.25
+826901,Daniel Sams,15 Jul 2023,v Somerset,Birmingham,2,7,45,45,26,1,3,173.07,caught,1,4.0,0,26,1,6.5
+826901,Daniel Sams,1 Aug 2023,v Brave,Nottingham,1,8,0*,3,0,0,0,-,not out,2,3.4,0,26,3,8.21
+826901,Daniel Sams,9 Aug 2023,v N S-Chargers,Nottingham,2,7,27,17,14,0,2,192.85,caught,1,4.0,0,38,0,11.4
+826901,Daniel Sams,12 Aug 2023,v Spirit,Lord's,2,6,32,14,11,4,2,290.9,lbw,1,3.0,0,33,0,13.2
+826901,Daniel Sams,14 Aug 2023,v Fire,Cardiff,1,7,17,26,18,1,1,94.44,caught,2,4.0,0,35,2,10.5
+826901,Daniel Sams,17 Aug 2023,v Originals,Nottingham,2,5,13,13,9,0,1,144.44,caught,1,4.0,0,28,2,8.4
+826901,Daniel Sams,19 Aug 2023,v Phoenix,Nottingham,1,6,20,17,12,3,0,166.66,caught,2,4.0,0,17,3,5.1
+826901,Daniel Sams,21 Aug 2023,v Invincibles,The Oval,1,7,19,9,9,1,2,211.11,caught,2,4.0,0,38,2,11.4
+826901,Daniel Sams,12 Dec 2023,v Heat,Canberra,2,6,11,8,9,0,1,122.22,bowled,1,2.0,0,25,0,12.5
+826901,Daniel Sams,19 Dec 2023,v Strikers,Adelaide,1,6,1,5,2,0,0,50,caught,2,3.0,0,35,1,11.66
+826901,Daniel Sams,23 Dec 2023,v Stars,Albury,2,6,22*,16,13,1,1,169.23,not out,1,4.0,0,33,4,8.25
+826901,Daniel Sams,27 Dec 2023,v Heat,Brisbane,2,6,1,2,2,0,0,50,caught,1,4.0,0,30,5,7.5
+826901,Daniel Sams,30 Dec 2023,v Sixers,Sydney,1,6,30,37,25,3,0,120,caught,2,DNB,-,-,-,-
+826901,Daniel Sams,1 Jan 2024,v Hurricanes,Hobart,1,6,25,32,21,3,0,119.04,lbw,2,4.0,0,37,1,9.25
+826901,Daniel Sams,8 Jan 2024,v Scorchers,Sydney,1,7,1,4,5,0,0,20,caught,2,3.0,0,29,0,9.66
+826901,Daniel Sams,12 Jan 2024,v Sixers,Sydney,2,6,0,3,3,0,0,0,caught,1,4.0,0,40,1,10
+826901,Daniel Sams,14 Jan 2024,v Strikers,Canberra,1,8,11*,11,6,2,0,183.33,not out,2,3.0,0,22,0,7.33
+826901,Daniel Sams,19 Jan 2024,v Gulf Giants,Sharjah,2,4,4,17,11,0,0,36.36,bowled,1,4.0,0,47,1,11.75
+826901,Daniel Sams,22 Jan 2024,v DC,Dubai (DICS),2,7,16*,-,8,3,0,200,not out,1,4.0,0,28,3,7
+826901,Daniel Sams,26 Jan 2024,v MI Emirates,Sharjah,2,8,0,2,1,0,0,0,lbw,1,4.0,0,46,1,11.5
+826901,Daniel Sams,28 Jan 2024,v Vipers,Sharjah,1,6,1,4,2,0,0,50,stumped,2,4.0,0,29,2,7.25
+826901,Daniel Sams,29 Jan 2024,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+826901,Daniel Sams,2 Feb 2024,v MI Emirates,Abu Dhabi,1,7,0,2,1,0,0,0,bowled,2,1.0,0,17,0,17
+826901,Daniel Sams,4 Feb 2024,v Gulf Giants,Dubai (DICS),2,7,14,22,17,0,0,82.35,caught,1,4.0,0,40,1,10
+826901,Daniel Sams,5 Feb 2024,v KnightRiders,Sharjah,1,7,24,24,19,2,0,126.31,bowled,2,DNB,-,-,-,-
+826901,Daniel Sams,7 Feb 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.1,1,14,1,6.46
+826901,Daniel Sams,11 Feb 2024,v Vipers,Sharjah,1,7,15,15,10,0,1,150,caught,2,1.0,0,13,0,13
+826901,Daniel Sams,18 Feb 2024,v Sultans,Multan,2,7,0,6,4,0,0,0,bowled,1,4.0,0,37,1,9.25
+826901,Daniel Sams,21 Feb 2024,v Zalmi,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+826901,Daniel Sams,24 Feb 2024,v Qalandars,Lahore,2,7,7,15,6,1,0,116.66,bowled,1,4.0,0,52,0,13
+826901,Daniel Sams,11 Mar 2024,v Zalmi,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+826901,Daniel Sams,30 May 2024,v Gloucs,Bristol,1,7,9,5,7,0,1,128.57,caught,2,3.0,0,32,1,10.66
+826901,Daniel Sams,31 May 2024,v Somerset,Taunton,1,6,1,5,2,0,0,50,bowled,2,3.1,0,31,1,9.78
+826901,Daniel Sams,2 Jun 2024,v Middlesex,Chelmsford,2,7,10*,9,3,1,1,333.33,not out,1,4.0,0,35,2,8.75
+826901,Daniel Sams,7 Jun 2024,v Glamorgan,Chelmsford,2,7,2,3,4,0,0,50,caught,1,4.0,1,28,3,7
+826901,Daniel Sams,13 Jun 2024,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+826901,Daniel Sams,14 Jun 2024,v Sussex,Chelmsford,1,6,11,19,13,1,0,84.61,caught,2,2.0,0,35,0,17.5
+826901,Daniel Sams,17 Dec 2024,v Strikers,Canberra,2,8,42*,25,18,4,3,233.33,not out,1,4.0,0,44,0,11
+826901,Daniel Sams,21 Dec 2024,v Sixers,Sydney,1,6,2,2,2,0,0,100,caught,2,4.0,0,29,1,7.25
+826901,Daniel Sams,28 Dec 2024,v Stars,Canberra,1,8,16,14,8,2,1,200,bowled,2,3.0,0,27,1,9
+826901,Daniel Sams,30 Dec 2024,v Renegades,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+826901,Daniel Sams,3 Jan 2025,v Scorchers,Perth,2,-,sub,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+826901,Daniel Sams,18 May 2025,v Qalandars,Rawalpindi,2,7,26*,-,14,2,2,185.71,not out,1,3.0,0,28,2,9.33
+826901,Daniel Sams,30 May 2025,v Bears,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+826901,Daniel Sams,31 May 2025,v Lancashire,Manchester,2,6,1,6,3,0,0,33.33,bowled,1,4.0,0,54,1,13.5
+826901,Daniel Sams,6 Jun 2025,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+826901,Daniel Sams,7 Jun 2025,v Worcs,Nottingham,2,6,20,15,12,0,2,166.66,caught,1,4.0,0,48,0,12
+826901,Daniel Sams,11 Jun 2025,v Yorkshire,Nottingham,2,7,20,16,9,0,3,222.22,caught,1,4.0,0,31,2,7.75
+826901,Daniel Sams,13 Jun 2025,v Derbyshire,Nottingham,2,7,9,14,5,0,1,180,caught,1,4.0,0,50,0,12.5
+826901,Daniel Sams,14 Jun 2025,v Bears,Birmingham,2,6,16*,11,6,0,2,266.66,not out,1,4.0,0,43,0,10.75
+826901,Daniel Sams,19 Jun 2025,v Leics,Leicester,1,7,28,25,17,1,3,164.7,caught,2,3.0,0,23,1,7.66
+826901,Daniel Sams,20 Jun 2025,v Northants,Northampton,1,6,6,7,5,1,0,120,bowled,2,4.0,0,41,2,10.25
+826901,Daniel Sams,4 Jul 2025,v Durham,Chester-le-Street,2,6,9,14,6,0,1,150,bowled,1,2.4,0,34,0,12.75
+826901,Daniel Sams,6 Jul 2025,v Leics,Nottingham,2,6,33,17,12,3,3,275,bowled,1,4.0,0,34,1,8.5
+826901,Daniel Sams,11 Jul 2025,v Durham,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,4,6.5
+826901,Daniel Sams,17 Jul 2025,v Worcs,Worcester,2,7,3,7,4,0,0,75,caught,1,4.0,0,53,3,13.25
+826901,Daniel Sams,18 Jul 2025,v Lancashire,Nottingham,2,7,17*,14,9,1,1,188.88,not out,1,2.0,0,14,0,7
+826901,Daniel Sams,16 Aug 2025,v Falcons,North Sound,1,7,2,7,6,0,0,33.33,bowled,2,4.0,0,45,1,11.25
+826901,Daniel Sams,21 Aug 2025,v Patriots,Basseterre,2,8,16,10,8,0,2,200,bowled,1,4.0,0,24,2,6
+826901,Daniel Sams,24 Aug 2025,v Kings,Gros Islet,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+826901,Daniel Sams,29 Aug 2025,v Trinbago,Tarouba,1,7,2*,10,2,0,0,100,not out,2,3.0,0,27,0,9
+826901,Daniel Sams,4 Sep 2025,v Amazon,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+826901,Daniel Sams,5 Sep 2025,v Falcons,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+826901,Daniel Sams,7 Sep 2025,v Kings,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+826901,Daniel Sams,11 Sep 2025,v Patriots,Bridgetown,2,8,4,17,6,0,0,66.66,lbw,1,4.0,0,30,2,7.5
+826901,Daniel Sams,12 Sep 2025,v Trinbago,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+826901,Daniel Sams,14 Sep 2025,v Amazon,Providence,2,8,1,2,2,0,0,50,bowled,1,4.0,0,34,1,8.5
+826901,Daniel Sams,16 Dec 2025,v Hurricanes,Hobart,1,7,23*,17,11,1,1,209.09,not out,2,3.5,0,35,1,9.13
+826901,Daniel Sams,20 Dec 2025,v Sixers,Sydney,2,7,1,4,2,0,0,50,caught,1,4.0,0,36,0,9
+826901,Daniel Sams,22 Dec 2025,v Heat,Canberra,1,5,10*,14,10,1,0,100,not out,2,4.0,0,25,2,6.25
+826901,Daniel Sams,28 Dec 2025,v Stars,Canberra,1,7,3,7,3,0,0,100,bowled,2,2.0,0,31,0,15.5
+826901,Daniel Sams,30 Dec 2025,v Scorchers,Sydney,2,6,16,11,13,2,0,123.07,caught,1,4.0,0,51,4,12.75
+826901,Daniel Sams,3 Jan 2026,v Hurricanes,Sydney,1,6,14*,11,6,1,1,233.33,not out,2,3.0,0,36,3,12
+826901,Daniel Sams,6 Jan 2026,v Strikers,Adelaide,2,6,7,3,3,0,1,233.33,bowled,1,4.0,0,38,1,9.5
+826901,Daniel Sams,10 Jan 2026,v Heat,Brisbane,1,6,5,4,3,1,0,166.66,caught,2,2.2,0,33,1,14.14
+826901,Daniel Sams,12 Jan 2026,v Renegades,Sydney,2,6,0,1,1,0,0,0,caught,1,4.0,0,29,0,7.25
+826901,Daniel Sams,16 Jan 2026,v Sixers,Sydney,1,7,10,5,4,1,1,250,caught,2,DNB,-,-,-,-

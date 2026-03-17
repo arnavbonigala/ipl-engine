@@ -1,0 +1,251 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+914541,Sherfane Rutherford,9 Aug 2018,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Aug 2018,v Stars,Providence,1,6,16*,-,15,0,1,106.66,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Aug 2018,v Tridents,Providence,2,5,48,-,46,4,2,104.34,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Aug 2018,v Tallawahs,Lauderhill,1,5,5,-,4,1,0,125,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Aug 2018,v Stars,Gros Islet,1,6,15,-,18,0,0,83.33,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,9 Sep 2018,v Trinbago,Providence,2,5,45*,-,13,1,6,346.15,not out,1,1.0,0,15,0,15
+914541,Sherfane Rutherford,11 Sep 2018,v Trinbago,Providence,2,7,30,-,17,4,1,176.47,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Sep 2018,v Trinbago,Tarouba,1,6,12,-,7,1,1,171.42,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Dec 2018,v Bangladesh,Mirpur,1,8,2,-,6,0,0,33.33,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,20 Apr 2019,v Kings XI,Delhi,2,7,2*,8,2,0,0,100,not out,1,1.0,0,5,0,5
+914541,Sherfane Rutherford,22 Apr 2019,v RR,Jaipur,2,5,11,9,5,1,1,220,caught,1,1.0,0,16,0,16
+914541,Sherfane Rutherford,28 Apr 2019,v RCB,Delhi,1,6,28*,22,13,1,3,215.38,not out,2,1.0,0,6,1,6
+914541,Sherfane Rutherford,1 May 2019,v CSK,Chennai,2,7,2,4,4,0,0,50,caught,1,2.0,0,19,0,9.5
+914541,Sherfane Rutherford,4 May 2019,v RR,Delhi,2,6,11,11,6,0,1,183.33,caught,1,0.5,0,2,0,2.4
+914541,Sherfane Rutherford,8 May 2019,v SRH,Visakhapatnam,2,7,9,21,12,0,1,75,caught,1,1.0,0,11,0,11
+914541,Sherfane Rutherford,10 May 2019,v CSK,Visakhapatnam,1,7,10,19,12,0,1,83.33,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Sep 2019,v Zouks,Providence,1,6,10,-,7,2,0,142.85,stumped,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,7 Sep 2019,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,8 Sep 2019,v Tridents,Providence,1,6,32*,-,14,0,4,228.57,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Sep 2019,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Sep 2019,v Tallawahs,Kingston,1,6,15,-,6,0,2,250,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Sep 2019,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Sep 2019,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 Sep 2019,v Trinbago,Port of Spain,1,6,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Oct 2019,v Tallawahs,Providence,1,6,45,-,43,5,1,104.65,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,4 Oct 2019,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Oct 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Oct 2019,v Tridents,Tarouba,2,6,15,-,12,2,0,125,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Nov 2019,v Afghanistan,Lucknow,1,6,9,-,6,1,0,150,bowled,2,3.0,0,28,0,9.33
+914541,Sherfane Rutherford,16 Nov 2019,v Afghanistan,Lucknow,2,4,6,-,11,0,0,54.54,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Dec 2019,v Platoon,Chattogram,1,6,38*,-,28,3,2,135.71,not out,2,2.0,0,25,0,12.5
+914541,Sherfane Rutherford,28 Dec 2019,v Khulna,Mirpur,1,4,26*,-,20,0,2,130,not out,2,1.0,0,9,1,9
+914541,Sherfane Rutherford,30 Dec 2019,v Rangers,Mirpur,1,5,16,-,9,2,1,177.77,caught,2,2.0,0,22,0,11
+914541,Sherfane Rutherford,2 Jan 2020,v Warriors,Sylhet,2,4,15,-,16,3,0,93.75,caught,1,4.0,0,19,3,4.75
+914541,Sherfane Rutherford,3 Jan 2020,v Rangers,Sylhet,2,4,60,-,37,5,3,162.16,run out,1,4.0,0,28,1,7
+914541,Sherfane Rutherford,4 Jan 2020,v Royals,Sylhet,1,5,25,-,11,2,2,227.27,caught,2,4.0,0,31,1,7.75
+914541,Sherfane Rutherford,15 Jan 2020,v Ireland,St George's,2,6,26,-,13,0,3,200,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+914541,Sherfane Rutherford,18 Aug 2020,v Trinbago,Tarouba,1,6,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Aug 2020,v Patriots,Tarouba,2,6,10,-,10,1,0,100,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Aug 2020,v Tallawahs,Tarouba,1,6,6,-,9,1,0,66.66,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Aug 2020,v Zouks,Tarouba,2,7,15,-,9,1,1,166.66,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Aug 2020,v Tallawahs,Port of Spain,1,6,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,27 Aug 2020,v Trinbago,Port of Spain,1,6,6,-,15,0,0,40,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Sep 2020,v Tridents,Tarouba,2,4,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Nov 2020,v Sultans,Karachi,2,7,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Nov 2020,v Qalandars,Karachi,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Feb 2021,v Qalandars,Karachi,1,6,26,41,27,0,2,96.29,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Feb 2021,v Sultans,Karachi,2,4,15,13,6,2,1,250,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Feb 2021,v Gladiators,Karachi,2,6,36*,42,18,1,4,200,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,27 Feb 2021,v United,Karachi,2,6,6*,4,2,0,0,300,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Mar 2021,v Kings,Karachi,1,6,46,44,32,3,3,143.75,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Jun 2021,v Qalandars,Abu Dhabi,2,6,15,-,10,2,1,150,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Jun 2021,v Gladiators,Abu Dhabi,1,6,10,-,12,1,0,83.33,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,13 Jun 2021,v Sultans,Abu Dhabi,1,6,56,-,40,2,4,140,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Jun 2021,v Kings,Abu Dhabi,2,6,2*,-,5,0,0,40,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Jun 2021,v United,Abu Dhabi,2,6,29,-,8,1,4,362.5,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Jun 2021,v Kings,Abu Dhabi,2,6,17*,-,10,3,0,170,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Jun 2021,v United,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Jun 2021,v Sultans,Abu Dhabi,2,6,18,-,10,1,2,180,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Aug 2021,v Royals,Basseterre,1,5,53,72,43,2,4,123.25,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Aug 2021,v Amazon,Basseterre,2,3,14,23,17,1,0,82.35,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,29 Aug 2021,v Amazon,Basseterre,2,4,58*,54,34,1,6,170.58,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,1 Sep 2021,v Tallawahs,Basseterre,2,5,50*,-,26,2,4,192.3,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,2 Sep 2021,v Royals,Basseterre,2,5,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,4 Sep 2021,v Kings,Basseterre,2,5,11,13,9,1,0,122.22,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Sep 2021,v Kings,Basseterre,1,5,14,24,16,0,1,87.5,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Sep 2021,v Trinbago,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Sep 2021,v Trinbago,Basseterre,1,4,25,48,28,3,0,89.28,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Sep 2021,v Amazon,Basseterre,2,5,11*,13,9,0,1,122.22,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Sep 2021,v Kings,Basseterre,2,4,25,37,22,1,2,113.63,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Dec 2021,v Galle,Colombo (RPS),2,5,10,-,13,2,0,76.92,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,8 Dec 2021,v Dambulla,Colombo (RPS),2,4,16,-,18,2,0,88.88,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Dec 2021,v Jaffna Kings,Colombo (RPS),2,3,10,-,7,2,0,142.85,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Dec 2021,v Dambulla,Colombo (RPS),2,5,4,-,8,1,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Dec 2021,v Warriors,Colombo (RPS),2,5,12*,-,14,1,0,85.71,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Jan 2022,v Gladiators,Karachi,2,6,10,-,9,2,0,111.11,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 Jan 2022,v United,Karachi,1,6,70*,-,46,7,3,152.17,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,2 Feb 2022,v Qalandars,Karachi,2,6,21,17,11,3,1,190.9,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,4 Feb 2022,v Kings,Karachi,1,6,9*,5,4,0,1,225,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Feb 2022,v Sultans,Karachi,2,5,2,10,4,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Feb 2022,v Sultans,Lahore,2,6,21,-,19,2,1,110.52,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,13 Feb 2022,v Kings,Lahore,1,6,11,10,5,2,0,220,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Feb 2022,v Gladiators,Lahore,1,6,0,-,6,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Feb 2022,v United,Lahore,1,5,16,14,9,0,2,177.77,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,27 Mar 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 Mar 2022,v KKR,DY Patil,2,5,28,79,40,1,1,70,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Apr 2022,v RR,Wankhede,2,5,5,21,10,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,31 Aug 2022,v Tallawahs,Basseterre,2,5,33,-,22,0,4,150,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,1 Sep 2022,v Royals,Basseterre,1,4,9,-,7,0,1,128.57,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Sep 2022,v Trinbago,Basseterre,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+914541,Sherfane Rutherford,8 Sep 2022,v Amazon,Gros Islet,2,5,6,4,2,0,1,300,stumped,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Sep 2022,v Kings,Gros Islet,2,5,9,27,19,0,0,47.36,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Sep 2022,v Tallawahs,Port of Spain,2,4,7*,-,4,0,1,175,not out,1,2.0,0,11,1,5.5
+914541,Sherfane Rutherford,17 Sep 2022,v Kings,Tarouba,2,5,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Sep 2022,v Royals,Providence,2,3,9,24,15,0,1,60,caught,1,1.0,0,9,0,9
+914541,Sherfane Rutherford,22 Sep 2022,v Trinbago,Providence,1,4,78,73,50,6,5,156,caught,2,3.0,0,28,0,9.33
+914541,Sherfane Rutherford,19 Aug 2023,v Trinbago,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Aug 2023,v Tallawahs,Basseterre,1,6,16,22,15,0,1,106.66,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Aug 2023,v Amazon,Basseterre,2,5,3,3,4,0,0,75,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Aug 2023,v Royals,Basseterre,1,4,28,-,20,1,2,140,caught,2,1.0,0,17,0,17
+914541,Sherfane Rutherford,27 Aug 2023,v Trinbago,Basseterre,1,5,62*,56,38,4,5,163.15,not out,2,1.0,0,12,0,12
+914541,Sherfane Rutherford,2 Sep 2023,v Amazon,Bridgetown,2,5,2,-,2,0,0,100,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Sep 2023,v Royals,Bridgetown,1,4,65*,37,27,5,5,240.74,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,9 Sep 2023,v Kings,Tarouba,2,5,17,23,16,1,1,106.25,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Sep 2023,v Tallawahs,Providence,2,5,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Dec 2023,v England,St George's,1,6,29,27,17,2,2,170.58,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Dec 2023,v England,Tarouba,2,5,36,24,15,5,2,240,lbw,1,1.0,0,23,0,23
+914541,Sherfane Rutherford,21 Dec 2023,v England,Tarouba,2,5,30,24,24,1,2,125,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Jan 2024,v KnightRiders,Dubai (DICS),1,6,0,7,4,0,0,0,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,24 Jan 2024,v Gulf Giants,Dubai (DICS),2,6,20*,17,14,3,1,142.85,not out,1,sub,-,-,-,-
+914541,Sherfane Rutherford,27 Jan 2024,v KnightRiders,Abu Dhabi,1,7,28,-,21,4,0,133.33,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Jan 2024,v Warriors,Sharjah,2,7,4,10,7,0,0,57.14,lbw,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 Jan 2024,v MI Emirates,Dubai (DICS),2,8,35,22,22,5,1,159.09,caught,1,sub,-,-,-,-
+914541,Sherfane Rutherford,1 Feb 2024,v DC,Dubai (DICS),1,5,0,8,5,0,0,0,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,3 Feb 2024,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,sub,-,-,-,-
+914541,Sherfane Rutherford,4 Feb 2024,v MI Emirates,Abu Dhabi,2,8,18,22,14,2,0,128.57,caught,1,sub,-,-,-,-
+914541,Sherfane Rutherford,9 Feb 2024,v Australia,Hobart,2,7,7,8,4,0,1,175,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Feb 2024,v Australia,Adelaide,2,6,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,13 Feb 2024,v Australia,Perth,1,6,67*,59,40,5,5,167.5,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Feb 2024,v Zalmi,Lahore,1,4,20,14,13,3,0,153.84,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Feb 2024,v Qalandars,Lahore,2,6,14,16,12,1,0,116.66,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Feb 2024,v United,Lahore,2,6,29,38,23,1,2,126.08,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Feb 2024,v Sultans,Multan,2,6,21,-,14,0,2,150,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,29 Feb 2024,v Kings,Karachi,2,6,58*,45,31,1,6,187.09,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Mar 2024,v Kings,Rawalpindi,1,6,9,16,9,1,0,100,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,2 Jun 2024,v P.N.G.,Providence,2,6,2,6,7,0,0,28.57,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,8 Jun 2024,v Uganda,Providence,1,5,22,23,16,2,1,137.5,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Jun 2024,v New Zealand,Tarouba,1,6,68*,72,39,2,6,174.35,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Jun 2024,v Afghanistan,Gros Islet,1,7,1*,1,1,0,0,100,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Jun 2024,v England,Gros Islet,1,6,28*,20,15,1,2,186.66,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Jun 2024,v South Africa,North Sound,1,6,0,5,4,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Jul 2024,v MI New York,Dallas,1,5,14,-,15,3,0,93.33,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,20 Jul 2024,v Seattle,Dallas,2,5,17,-,8,1,2,212.5,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Jul 2024,v Washington,Dallas,2,5,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Jul 2024,v Washington,Dallas,1,5,6,-,9,0,0,66.66,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Jul 2024,v Texas,Dallas,1,5,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Jul 2024,v Washington,Dallas,2,5,4,-,9,0,0,44.44,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Aug 2024,v South Africa,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Aug 2024,v South Africa,Tarouba,1,6,29,35,18,3,2,161.11,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,31 Aug 2024,v Trinbago,Basseterre,2,6,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,1 Sep 2024,v Kings,Basseterre,1,4,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,4 Sep 2024,v Amazon,Basseterre,2,4,34,-,12,3,3,283.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Sep 2024,v Royals,Basseterre,1,6,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,13 Oct 2024,v Sri Lanka,Dambulla,2,6,14*,16,12,1,0,116.66,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Oct 2024,v Sri Lanka,Dambulla,2,5,14,21,16,2,0,87.5,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Oct 2024,v Sri Lanka,Dambulla,1,5,6,11,5,1,0,120,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,9 Nov 2024,v England,Bridgetown,1,6,2,7,6,0,0,33.33,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Nov 2024,v England,Bridgetown,1,6,1,8,5,0,0,20,lbw,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Nov 2024,v England,Gros Islet,2,6,29*,31,17,0,3,170.58,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Nov 2024,v England,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+914541,Sherfane Rutherford,17 Dec 2024,v Strikers,Canberra,2,6,3,9,8,0,0,37.5,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Dec 2024,v Sixers,Sydney,1,5,8,14,9,0,0,88.88,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Dec 2024,v Stars,Canberra,1,6,2,13,4,0,0,50,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 Dec 2024,v Renegades,Sydney,1,3,11,21,18,1,0,61.11,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Jan 2025,v Scorchers,Perth,2,6,39*,28,19,5,1,205.26,not out,1,1.0,0,22,0,22
+914541,Sherfane Rutherford,6 Jan 2025,v Heat,Brisbane,1,5,11,11,9,0,1,122.22,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Jan 2025,v KnightRiders,Abu Dhabi,2,5,9*,5,4,2,0,225,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,14 Jan 2025,v Gulf Giants,Dubai (DICS),2,6,40*,-,18,3,3,222.22,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Jan 2025,v MI Emirates,Dubai (DICS),2,6,21*,-,8,3,1,262.5,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Jan 2025,v KnightRiders,Dubai (DICS),1,6,7*,3,3,1,0,233.33,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,20 Jan 2025,v DC,Dubai (DICS),1,6,27,-,24,1,3,112.5,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Jan 2025,v Warriorz,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Jan 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,27 Jan 2025,v MI Emirates,Abu Dhabi,2,8,7,4,3,0,1,233.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Feb 2025,v DC,Sharjah,1,6,0,2,2,0,0,0,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,5 Feb 2025,v DC,Dubai (DICS),1,6,4,8,5,0,0,80,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,9 Feb 2025,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,sub,-,-,-,-
+914541,Sherfane Rutherford,25 Mar 2025,v Punjab Kings,Ahmedabad,2,4,46,43,28,4,3,164.28,bowled,1,sub,-,-,-,-
+914541,Sherfane Rutherford,29 Mar 2025,v MI,Ahmedabad,1,5,18,20,11,0,2,163.63,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,2 Apr 2025,v RCB,Bengaluru,2,4,30*,22,18,1,3,166.66,not out,1,sub,-,-,-,-
+914541,Sherfane Rutherford,6 Apr 2025,v SRH,Hyderabad,2,5,35*,15,16,6,1,218.75,not out,1,sub,-,-,-,-
+914541,Sherfane Rutherford,9 Apr 2025,v RR,Ahmedabad,1,5,7,3,3,0,1,233.33,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,12 Apr 2025,v LSG,Lucknow,1,5,22,32,19,3,0,115.78,lbw,2,sub,-,-,-,-
+914541,Sherfane Rutherford,19 Apr 2025,v DC,Ahmedabad,2,4,43,56,34,1,3,126.47,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Apr 2025,v KKR,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,sub,-,-,-,-
+914541,Sherfane Rutherford,6 May 2025,v MI,Wankhede,2,4,28,21,15,2,2,186.66,lbw,1,sub,-,-,-,-
+914541,Sherfane Rutherford,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 May 2025,v LSG,Ahmedabad,2,4,38,42,22,1,3,172.72,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 May 2025,v CSK,Ahmedabad,2,4,0,4,4,0,0,0,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,30 May 2025,v MI,New Chandigarh,2,5,24,23,15,4,0,160,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Jun 2025,v England,Chester-le-Street,2,5,2,4,4,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,8 Jun 2025,v England,Bristol,1,4,6,7,8,1,0,75,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Jun 2025,v England,Southampton,2,5,1,2,4,0,0,25,caught,1,2.0,0,20,1,10
+914541,Sherfane Rutherford,22 Jun 2025,v Seattle,Dallas,2,6,20*,-,9,1,2,222.22,not out,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Jun 2025,v Texas,Dallas,2,5,13,-,15,2,0,86.66,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Jun 2025,v Washington,Dallas,1,3,20,-,11,0,2,181.81,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Jun 2025,v Seattle,Dallas,1,4,5,-,4,1,0,125,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Jul 2025,v MI New York,Lauderhill,1,5,86,-,44,5,6,195.45,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Jul 2025,v MI New York,Lauderhill,2,4,29,-,28,4,0,103.57,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,6 Jul 2025,v SF,Lauderhill,1,3,49,-,28,4,3,175,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Jul 2025,v Rangpur,Providence,2,6,19,-,13,1,2,146.15,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Jul 2025,v Central D,Providence,1,6,16*,-,15,3,0,106.66,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,13 Jul 2025,v DC,Providence,1,6,33,-,23,4,1,143.47,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Jul 2025,v Hurricanes,Providence,2,6,3,-,6,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Jul 2025,v Rangpur,Providence,1,5,19*,-,15,1,1,126.66,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,20 Jul 2025,v Australia,Kingston,1,7,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,22 Jul 2025,v Australia,Kingston,1,6,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,25 Jul 2025,v Australia,Basseterre,1,4,12,-,13,2,0,92.3,run out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Jul 2025,v Australia,Basseterre,1,4,31,-,15,4,2,206.66,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,28 Jul 2025,v Australia,Basseterre,1,4,35,-,17,6,1,205.88,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,31 Jul 2025,v Pakistan,Lauderhill,2,5,11,14,11,1,0,100,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,2 Aug 2025,v Pakistan,Lauderhill,2,4,9,17,11,1,0,81.81,lbw,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Aug 2025,v Pakistan,Lauderhill,2,4,51,56,35,4,3,145.71,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Aug 2025,v Falcons,North Sound,1,6,7,5,4,0,1,175,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Aug 2025,v Patriots,Basseterre,2,5,8,9,6,0,1,133.33,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,24 Aug 2025,v Kings,Gros Islet,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+914541,Sherfane Rutherford,29 Aug 2025,v Trinbago,Tarouba,1,4,45,33,22,3,4,204.54,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,4 Sep 2025,v Amazon,Bridgetown,1,6,0,2,2,0,0,0,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,5 Sep 2025,v Falcons,Bridgetown,1,3,29,31,17,3,2,170.58,caught,2,1.0,0,12,0,12
+914541,Sherfane Rutherford,7 Sep 2025,v Kings,Bridgetown,1,5,16,17,11,1,1,145.45,bowled,2,2.0,0,21,0,10.5
+914541,Sherfane Rutherford,11 Sep 2025,v Patriots,Bridgetown,2,5,25,17,20,1,2,125,caught,1,1.0,0,5,0,5
+914541,Sherfane Rutherford,12 Sep 2025,v Trinbago,Bridgetown,2,4,32*,39,26,0,3,123.07,not out,1,2.0,0,29,1,14.5
+914541,Sherfane Rutherford,14 Sep 2025,v Amazon,Providence,2,5,27,36,32,1,2,84.37,lbw,1,3.0,0,35,2,11.66
+914541,Sherfane Rutherford,27 Oct 2025,v Bangladesh,Chattogram,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,29 Oct 2025,v Bangladesh,Chattogram,1,4,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,9 Nov 2025,v New Zealand,Nelson,2,5,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Nov 2025,v New Zealand,Nelson,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+914541,Sherfane Rutherford,13 Nov 2025,v New Zealand,Dunedin,1,5,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,3 Dec 2025,v Warriorz,Sharjah,1,5,45,-,27,3,3,166.66,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,5 Dec 2025,v Vipers,Sharjah,1,5,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,7 Dec 2025,v DC,Dubai (DICS),2,6,19,38,25,1,0,76,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Dec 2025,v MI Emirates,Abu Dhabi,1,6,7,9,8,1,0,87.5,caught,2,sub,-,-,-,-
+914541,Sherfane Rutherford,13 Dec 2025,v DC,Abu Dhabi,2,3,7,10,6,1,0,116.66,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,16 Dec 2025,v Vipers,Abu Dhabi,1,6,24*,-,14,1,2,171.42,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,4,30,35,22,1,2,136.36,bowled,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,20 Dec 2025,v MI Emirates,Abu Dhabi,2,4,5,12,9,0,0,55.55,caught,1,1.0,0,19,0,19
+914541,Sherfane Rutherford,22 Dec 2025,v Warriorz,Abu Dhabi,1,6,44,-,36,4,1,122.22,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,29 Dec 2025,v Sunrisers,Gqeberha,2,6,25,29,19,3,1,131.57,caught,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,31 Dec 2025,v MI Cape Town,Cape Town,1,7,47*,25,15,0,6,313.33,not out,2,3.0,0,24,4,8
+914541,Sherfane Rutherford,3 Jan 2026,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+914541,Sherfane Rutherford,5 Jan 2026,v Sunrisers,Centurion,1,6,47*,30,22,3,4,213.63,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,7 Jan 2026,v Super Giants,Durban,1,4,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,10 Jan 2026,v Paarl Royals,Paarl,1,7,42*,50,35,3,3,120,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,12 Jan 2026,v MI Cape Town,Centurion,1,6,53,37,27,3,5,196.29,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Jan 2026,v Paarl Royals,Centurion,1,6,29,22,20,1,3,145,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,17 Jan 2026,v Super Kings,Johannesburg,1,7,74*,81,50,10,2,148,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,21 Jan 2026,v Sunrisers,Durban,2,5,0*,1,1,0,0,0,not out,1,1.0,0,9,0,9
+914541,Sherfane Rutherford,25 Jan 2026,v Sunrisers,Cape Town,1,6,17,18,11,0,2,154.54,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,27 Jan 2026,v South Africa,Paarl,1,4,6,8,6,1,0,100,bowled,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,29 Jan 2026,v South Africa,Centurion,1,5,57*,28,24,5,4,237.5,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,7 Feb 2026,v Scotland,Eden Gardens,1,5,26,19,13,4,1,200,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,11 Feb 2026,v England,Wankhede,1,5,76*,69,42,2,7,180.95,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,15 Feb 2026,v Nepal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+914541,Sherfane Rutherford,19 Feb 2026,v Italy,Eden Gardens,1,6,24*,27,15,2,1,160,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,23 Feb 2026,v Zimbabwe,Wankhede,1,5,31*,35,13,3,2,238.46,not out,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,26 Feb 2026,v South Africa,Ahmedabad,1,6,12,14,10,0,1,120,caught,2,DNB,-,-,-,-
+914541,Sherfane Rutherford,1 Mar 2026,v India,Eden Gardens,1,4,14,15,9,0,1,155.55,caught,2,DNB,-,-,-,-

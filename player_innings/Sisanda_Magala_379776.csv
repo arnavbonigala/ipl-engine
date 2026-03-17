@@ -1,0 +1,136 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+379776,Sisanda Magala,16 Oct 2011,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+379776,Sisanda Magala,29 Oct 2011,v S West D,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+379776,Sisanda Magala,13 Nov 2011,v Border,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+379776,Sisanda Magala,8 Jan 2012,v KZ-Natal,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+379776,Sisanda Magala,27 Jan 2013,v North West,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+379776,Sisanda Magala,3 Feb 2013,v Griq West,Port Elizabeth,1,7,28,20,23,1,2,121.73,caught,2,1.0,0,24,0,24
+379776,Sisanda Magala,10 Feb 2013,v Namibia,Windhoek,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+379776,Sisanda Magala,24 Feb 2013,v Free State,Bloemfontein,2,6,3,8,6,0,0,50,caught,1,4.0,0,40,1,10
+379776,Sisanda Magala,10 Mar 2013,v Easterns,Port Elizabeth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+379776,Sisanda Magala,17 Mar 2013,v Gauteng,Johannesburg,2,6,10,12,11,1,0,90.9,run out,1,3.0,0,30,0,10
+379776,Sisanda Magala,24 Mar 2013,v Northerns,Pretoria,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+379776,Sisanda Magala,12 Jan 2014,v Border,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+379776,Sisanda Magala,26 Jan 2014,v S West D,Gqeberha,1,7,4,10,10,0,0,40,lbw,2,3.0,0,14,1,4.66
+379776,Sisanda Magala,2 Feb 2014,v KZ-Natal,Gqeberha,2,8,28*,29,16,3,1,175,not out,1,3.0,0,14,2,4.66
+379776,Sisanda Magala,2 Mar 2014,v Boland,Paarl,1,7,17*,26,13,0,1,130.76,not out,2,3.3,0,25,1,7.14
+379776,Sisanda Magala,16 Mar 2014,v KZN-Inland,Pietermaritzburg,2,5,29,28,23,1,2,126.08,caught,1,DNB,-,-,-,-
+379776,Sisanda Magala,30 Mar 2014,v W Province,Gqeberha,1,5,63,49,43,5,4,146.51,caught,2,DNB,-,-,-,-
+379776,Sisanda Magala,2 Nov 2014,v Knights,Johannesburg,2,9,6,10,8,1,0,75,caught,1,3.0,0,43,0,14.33
+379776,Sisanda Magala,5 Nov 2014,v Dolphins,Durban,2,10,2*,5,5,0,0,40,not out,1,4.0,0,51,0,12.75
+379776,Sisanda Magala,23 Nov 2014,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,25,0,12.5
+379776,Sisanda Magala,30 Nov 2014,v Titans,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+379776,Sisanda Magala,3 Dec 2014,v Cape Cobras,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+379776,Sisanda Magala,18 Sep 2015,v Northern Cpe,Kimberley,1,6,1,5,5,0,0,20,caught,2,4.0,0,42,0,10.5
+379776,Sisanda Magala,19 Sep 2015,v KZ-Natal,Kimberley,2,7,6,10,9,0,0,66.66,caught,1,4.0,0,38,0,9.5
+379776,Sisanda Magala,20 Sep 2015,v Namibia,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+379776,Sisanda Magala,1 Nov 2015,v Knights,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,1,15
+379776,Sisanda Magala,6 Nov 2015,v Cape Cobras,Paarl,2,9,0*,-,0,0,0,-,not out,1,2.0,0,21,1,10.5
+379776,Sisanda Magala,8 Nov 2015,v Dolphins,Durban,2,10,24*,23,21,2,1,114.28,not out,1,4.0,0,29,2,7.25
+379776,Sisanda Magala,13 Nov 2015,v Lions,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,5,7
+379776,Sisanda Magala,15 Nov 2015,v Titans,Centurion,1,9,6*,2,1,0,1,600,not out,2,3.0,0,24,1,8
+379776,Sisanda Magala,20 Nov 2015,v Dolphins,East London,-,-,TDNB,-,-,-,-,-,-,1,0.1,0,4,0,24
+379776,Sisanda Magala,28 Nov 2015,v Titans,Gqeberha,2,5,14,18,11,1,1,127.27,caught,1,4.0,0,40,1,10
+379776,Sisanda Magala,2 Dec 2015,v Cape Cobras,East London,1,7,0,3,1,0,0,0,bowled,2,4.0,0,24,1,6
+379776,Sisanda Magala,4 Dec 2015,v Knights,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+379776,Sisanda Magala,6 Dec 2015,v Lions,Johannesburg,2,9,5*,18,4,0,0,125,not out,1,4.0,0,34,2,8.5
+379776,Sisanda Magala,23 Sep 2016,v Gauteng,Paarl,1,7,0*,1,0,0,0,-,not out,2,4.0,0,40,1,10
+379776,Sisanda Magala,24 Sep 2016,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+379776,Sisanda Magala,25 Sep 2016,v KZ-Natal,Paarl,1,7,0,2,2,0,0,0,run out,2,3.2,0,9,4,2.7
+379776,Sisanda Magala,30 Sep 2016,v Zimbabwe,Oudtshoorn,1,7,6,9,9,0,0,66.66,caught,2,3.0,1,6,2,2
+379776,Sisanda Magala,1 Oct 2016,v Northern Cpe,Oudtshoorn,1,6,8,11,7,1,0,114.28,caught,2,4.0,0,21,2,5.25
+379776,Sisanda Magala,13 Nov 2016,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+379776,Sisanda Magala,18 Nov 2016,v Cape Cobras,Cape Town,2,9,9*,10,7,2,0,128.57,not out,1,4.0,0,27,1,6.75
+379776,Sisanda Magala,20 Nov 2016,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,2,5
+379776,Sisanda Magala,25 Nov 2016,v Lions,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,1,7
+379776,Sisanda Magala,30 Nov 2016,v Knights,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.4,0,14,1,3.81
+379776,Sisanda Magala,2 Dec 2016,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+379776,Sisanda Magala,4 Dec 2016,v Lions,Durban,2,9,10,5,6,2,0,166.66,caught,1,3.0,0,23,1,7.66
+379776,Sisanda Magala,7 Dec 2016,v Dolphins,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+379776,Sisanda Magala,11 Dec 2016,v Titans,East London,2,-,DNB,-,-,-,-,-,-,1,1.0,0,27,0,27
+379776,Sisanda Magala,13 Dec 2016,v Lions,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,2,8.66
+379776,Sisanda Magala,16 Dec 2016,v Titans,Centurion,2,8,14*,21,12,0,1,116.66,not out,1,4.0,0,40,0,10
+379776,Sisanda Magala,1 Sep 2017,v Gauteng,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+379776,Sisanda Magala,2 Sep 2017,v North West,Potchefstroom,2,8,5,4,3,1,0,166.66,caught,1,2.5,0,27,1,9.52
+379776,Sisanda Magala,3 Sep 2017,v Northerns,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+379776,Sisanda Magala,10 Nov 2017,v Knights,Gqeberha,1,8,0,3,1,0,0,0,bowled,2,4.0,0,23,0,5.75
+379776,Sisanda Magala,17 Nov 2017,v Titans,East London,2,9,19,16,10,2,1,190,caught,1,4.0,0,52,1,13
+379776,Sisanda Magala,24 Nov 2017,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+379776,Sisanda Magala,26 Nov 2017,v Lions,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+379776,Sisanda Magala,29 Nov 2017,v Cape Cobras,Paarl,2,10,3*,5,2,0,0,150,not out,1,4.0,0,30,1,7.5
+379776,Sisanda Magala,1 Dec 2017,v Titans,Benoni,2,6,2,3,3,0,0,66.66,caught,1,3.0,0,41,0,13.66
+379776,Sisanda Magala,3 Dec 2017,v Dolphins,Gqeberha,1,8,0,1,1,0,0,0,bowled,2,4.0,0,25,0,6.25
+379776,Sisanda Magala,8 Dec 2017,v Lions,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,2,9.5
+379776,Sisanda Magala,10 Dec 2017,v Cape Cobras,East London,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+379776,Sisanda Magala,13 Dec 2017,v Titans,Centurion,1,10,1,8,3,0,0,33.33,caught,2,2.0,0,23,0,11.5
+379776,Sisanda Magala,17 Nov 2018,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+379776,Sisanda Magala,23 Nov 2018,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+379776,Sisanda Magala,25 Nov 2018,v Spartans,Centurion,1,8,0,1,1,0,0,0,caught,2,1.0,0,6,1,6
+379776,Sisanda Magala,30 Nov 2018,v Paarl Rocks,Gqeberha,1,8,2,6,4,0,0,50,bowled,2,3.3,0,17,3,4.85
+379776,Sisanda Magala,2 Dec 2018,v Jozi Stars,Gqeberha,2,8,0,4,2,0,0,0,bowled,1,4.0,0,31,0,7.75
+379776,Sisanda Magala,5 Dec 2018,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379776,Sisanda Magala,8 Dec 2018,v Spartans,Gqeberha,2,8,31,24,20,2,2,155,caught,1,4.0,0,42,1,10.5
+379776,Sisanda Magala,12 Dec 2018,v Paarl Rocks,Paarl,1,8,1,5,3,0,0,33.33,caught,2,3.0,0,15,2,5
+379776,Sisanda Magala,5 Apr 2019,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+379776,Sisanda Magala,12 Apr 2019,v Cape Cobras,Paarl,1,10,25*,15,15,1,2,166.66,not out,2,3.0,0,25,1,8.33
+379776,Sisanda Magala,14 Apr 2019,v Lions,East London,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379776,Sisanda Magala,17 Apr 2019,v Dolphins,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379776,Sisanda Magala,20 Apr 2019,v Cape Cobras,Gqeberha,1,9,22,15,13,3,1,169.23,caught,2,4.0,0,24,1,6
+379776,Sisanda Magala,24 Apr 2019,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+379776,Sisanda Magala,26 Apr 2019,v Dolphins,Gqeberha,1,8,50,39,32,5,2,156.25,caught,2,3.2,0,22,1,6.6
+379776,Sisanda Magala,28 Apr 2019,v Knights,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+379776,Sisanda Magala,1 May 2019,v Cape Cobras,East London,1,9,5*,5,3,1,0,166.66,not out,2,4.0,0,19,2,4.75
+379776,Sisanda Magala,5 May 2019,v Lions,Johannesburg,2,9,5,13,8,0,0,62.5,caught,1,4.0,0,26,1,6.5
+379776,Sisanda Magala,13 Sep 2019,v W Province,Potchefstroom,2,7,22*,15,12,1,2,183.33,not out,1,3.0,0,20,1,6.66
+379776,Sisanda Magala,13 Sep 2019,v Limpopo,Potchefstroom,1,6,15,17,14,0,1,107.14,caught,2,3.0,0,20,0,6.66
+379776,Sisanda Magala,14 Sep 2019,v Mpumalanga,Potchefstroom (Uni),2,7,0,1,1,0,0,0,caught,1,2.0,0,19,0,9.5
+379776,Sisanda Magala,15 Sep 2019,v North West,Potchefstroom,1,6,7*,10,3,0,1,233.33,not out,2,3.0,0,14,2,4.66
+379776,Sisanda Magala,8 Nov 2019,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+379776,Sisanda Magala,10 Nov 2019,v Paarl Rocks,Paarl,2,9,0,4,3,0,0,0,bowled,1,3.0,0,23,1,7.66
+379776,Sisanda Magala,14 Nov 2019,v Jozi Stars,Cape Town,1,8,4*,7,3,0,0,133.33,not out,2,2.0,0,17,3,8.5
+379776,Sisanda Magala,17 Nov 2019,v Durban Heat,Durban,1,8,1*,3,1,0,0,100,not out,2,4.0,0,30,1,7.5
+379776,Sisanda Magala,20 Nov 2019,v Giants,Gqeberha,1,8,2,6,5,0,0,40,caught,2,3.2,0,31,0,9.3
+379776,Sisanda Magala,24 Nov 2019,v Paarl Rocks,Cape Town,2,9,9*,15,7,1,0,128.57,not out,1,4.0,0,35,2,8.75
+379776,Sisanda Magala,28 Nov 2019,v Durban Heat,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+379776,Sisanda Magala,1 Dec 2019,v Spartans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+379776,Sisanda Magala,6 Dec 2019,v Giants,Cape Town,2,9,3,7,6,0,0,50,bowled,1,4.0,0,26,2,6.5
+379776,Sisanda Magala,20 Feb 2021,v Warriors,Durban,2,8,6*,7,5,1,0,120,not out,1,3.5,0,37,4,9.65
+379776,Sisanda Magala,22 Feb 2021,v Titans,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+379776,Sisanda Magala,23 Feb 2021,v Knights,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,5,5
+379776,Sisanda Magala,24 Feb 2021,v Dolphins,Durban,2,8,8,-,6,0,1,133.33,caught,1,4.0,0,34,0,8.5
+379776,Sisanda Magala,27 Feb 2021,v Warriors,Durban,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+379776,Sisanda Magala,28 Feb 2021,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+379776,Sisanda Magala,10 Apr 2021,v Pakistan,Johannesburg,1,8,9*,7,5,0,1,180,not out,2,3.0,0,35,0,11.66
+379776,Sisanda Magala,12 Apr 2021,v Pakistan,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+379776,Sisanda Magala,14 Apr 2021,v Pakistan,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+379776,Sisanda Magala,16 Apr 2021,v Pakistan,Centurion,1,8,7,14,8,0,1,87.5,caught,2,4.0,0,33,2,8.25
+379776,Sisanda Magala,24 Sep 2021,v W Province,Kimberley,2,8,23*,16,15,2,0,153.33,not out,1,4.0,0,32,1,8
+379776,Sisanda Magala,25 Sep 2021,v Northern Cpe,Kimberley,2,8,25,25,15,4,1,166.66,caught,1,4.0,0,29,0,7.25
+379776,Sisanda Magala,26 Sep 2021,v S West D,Kimberley,2,7,3,7,5,0,0,60,caught,1,4.0,0,18,1,4.5
+379776,Sisanda Magala,8 Feb 2022,v North West,Gqeberha,2,7,9*,10,6,1,0,150,not out,1,4.0,0,27,1,6.75
+379776,Sisanda Magala,10 Feb 2022,v Dolphins,Gqeberha,1,7,37,32,27,4,1,137.03,caught,2,4.0,0,26,2,6.5
+379776,Sisanda Magala,13 Feb 2022,v W Province,Gqeberha,1,7,19*,20,15,0,1,126.66,not out,2,4.0,0,24,1,6
+379776,Sisanda Magala,15 Feb 2022,v Boland,Gqeberha,2,7,21,15,15,2,1,140,caught,1,4.0,0,41,1,10.25
+379776,Sisanda Magala,17 Feb 2022,v Titans,Gqeberha,1,7,33*,27,18,2,2,183.33,not out,2,3.0,0,30,0,10
+379776,Sisanda Magala,19 Feb 2022,v Warriors,Gqeberha,1,5,2,9,8,0,0,25,bowled,2,2.0,0,22,0,11
+379776,Sisanda Magala,20 Feb 2022,v Knights,Gqeberha,2,6,4,14,10,0,0,40,bowled,1,2.0,0,12,0,6
+379776,Sisanda Magala,12 Jan 2023,v Capitals,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+379776,Sisanda Magala,14 Jan 2023,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+379776,Sisanda Magala,16 Jan 2023,v MI Cape Town,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+379776,Sisanda Magala,18 Jan 2023,v MI Cape Town,Cape Town,2,10,0*,-,2,0,0,0,not out,1,4.0,0,49,1,12.25
+379776,Sisanda Magala,19 Jan 2023,v Paarl Royals,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+379776,Sisanda Magala,21 Jan 2023,v Super Kings,Gqeberha,1,11,1*,3,1,0,0,100,not out,2,3.4,0,29,1,7.9
+379776,Sisanda Magala,22 Jan 2023,v Super Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+379776,Sisanda Magala,24 Jan 2023,v Paarl Royals,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,1,14.33
+379776,Sisanda Magala,3 Feb 2023,v Super Giants,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379776,Sisanda Magala,5 Feb 2023,v Super Kings,Johannesburg,2,11,1*,3,2,0,0,50,not out,1,4.0,0,24,2,6
+379776,Sisanda Magala,9 Feb 2023,v Super Kings,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,1,46,1,11.5
+379776,Sisanda Magala,11 Feb 2023,v Capitals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,2,10
+379776,Sisanda Magala,25 Mar 2023,v West Indies,Centurion,1,8,18*,15,5,1,2,360,not out,2,2.0,0,21,3,10.5
+379776,Sisanda Magala,26 Mar 2023,v West Indies,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,67,0,16.75
+379776,Sisanda Magala,8 Apr 2023,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+379776,Sisanda Magala,12 Apr 2023,v RR,Chennai,2,-,sub,-,-,-,-,-,-,1,2.0,0,14,0,7
+379776,Sisanda Magala,24 Oct 2025,v Northern Cpe,Kimberley,1,-,DNB,-,-,-,-,-,-,2,1.5,0,12,2,6.54
+379776,Sisanda Magala,9 Nov 2025,v Easterns,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,4,6
+379776,Sisanda Magala,18 Nov 2025,v Border,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+379776,Sisanda Magala,23 Nov 2025,v Border,Bloemfontein,1,9,3*,6,6,0,0,50,not out,2,3.0,0,16,2,5.33

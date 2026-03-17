@@ -1,0 +1,4 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1350770,Raghav Goyal,6 May 2023,v CSK,Chennai,1,-,sub,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+1350770,Raghav Goyal,28 Nov 2025,v Baroda,Hyderabad,1,9,2,-,3,0,0,66.66,bowled,2,1.0,0,16,0,16
+1350770,Raghav Goyal,8 Dec 2025,v Himachal,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6

@@ -1,0 +1,320 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+379145,Tabraiz Shamsi,20 Nov 2011,v E. Province,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,1,2.5
+379145,Tabraiz Shamsi,8 Jan 2012,v Border,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,3.4,0,29,1,7.9
+379145,Tabraiz Shamsi,15 Jan 2012,v KZ-Natal,Durban,2,11,0*,4,5,0,0,0,not out,1,4.0,0,22,2,5.5
+379145,Tabraiz Shamsi,20 Jan 2013,v Gauteng,Pietermaritzburg,2,11,1*,4,1,0,0,100,not out,1,3.0,0,14,0,4.66
+379145,Tabraiz Shamsi,2 Feb 2013,v Namibia,Windhoek,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+379145,Tabraiz Shamsi,10 Feb 2013,v Free State,Pietermaritzburg,2,9,1,3,3,0,0,33.33,bowled,1,2.0,0,37,0,18.5
+379145,Tabraiz Shamsi,24 Feb 2013,v Northerns,Pietermaritzburg,2,9,4,6,6,0,0,66.66,caught,1,2.0,0,14,0,7
+379145,Tabraiz Shamsi,16 Mar 2013,v North West,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+379145,Tabraiz Shamsi,24 Mar 2013,v Griq West,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+379145,Tabraiz Shamsi,7 Apr 2013,v Easterns,Benoni,1,9,7,13,10,0,0,70,run out,2,3.0,0,19,1,6.33
+379145,Tabraiz Shamsi,19 Jan 2014,v Border,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+379145,Tabraiz Shamsi,2 Feb 2014,v Boland,Paarl,2,9,0,10,4,0,0,0,bowled,1,4.0,0,27,1,6.75
+379145,Tabraiz Shamsi,9 Feb 2014,v KZ-Natal,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+379145,Tabraiz Shamsi,16 Feb 2014,v S West D,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,2,6.66
+379145,Tabraiz Shamsi,2 Mar 2014,v W Province,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+379145,Tabraiz Shamsi,16 Mar 2014,v E. Province,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+379145,Tabraiz Shamsi,7 Nov 2014,v Knights,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+379145,Tabraiz Shamsi,9 Nov 2014,v Dolphins,Durban,2,10,0,5,5,0,0,0,caught,1,4.0,0,27,0,6.75
+379145,Tabraiz Shamsi,14 Nov 2014,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,0,5.66
+379145,Tabraiz Shamsi,16 Nov 2014,v Cape Cobras,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+379145,Tabraiz Shamsi,21 Nov 2014,v Lions,Benoni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+379145,Tabraiz Shamsi,30 Nov 2014,v S West D,Benoni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,7 Dec 2014,v W Province,Cape Town,2,11,3*,6,3,0,0,100,not out,1,4.0,0,34,2,8.5
+379145,Tabraiz Shamsi,11 Jan 2015,v Northerns,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+379145,Tabraiz Shamsi,24 Jun 2015,v Zouks,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+379145,Tabraiz Shamsi,27 Jun 2015,v Tridents,Bridgetown,1,10,1*,4,2,0,0,50,not out,2,1.0,0,18,0,18
+379145,Tabraiz Shamsi,3 Jul 2015,v Amazon,Basseterre,1,11,0*,-,0,0,0,-,not out,2,4.0,0,25,1,6.25
+379145,Tabraiz Shamsi,4 Jul 2015,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+379145,Tabraiz Shamsi,6 Jul 2015,v Tridents,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,4,2.5
+379145,Tabraiz Shamsi,8 Jul 2015,v Amazon,Basseterre,1,-,DNB,-,-,-,-,-,-,2,1.3,0,21,0,14
+379145,Tabraiz Shamsi,18 Jul 2015,v Red Steel,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,1,9,1,3
+379145,Tabraiz Shamsi,4 Sep 2015,v W Province,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+379145,Tabraiz Shamsi,6 Sep 2015,v Northerns,Benoni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+379145,Tabraiz Shamsi,1 Nov 2015,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+379145,Tabraiz Shamsi,6 Nov 2015,v Lions,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+379145,Tabraiz Shamsi,13 Nov 2015,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+379145,Tabraiz Shamsi,15 Nov 2015,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+379145,Tabraiz Shamsi,18 Nov 2015,v Dolphins,Durban,1,11,0*,1,0,0,0,-,not out,2,4.0,0,14,0,3.5
+379145,Tabraiz Shamsi,20 Nov 2015,v Cape Cobras,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,0,4.25
+379145,Tabraiz Shamsi,28 Nov 2015,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,1,13
+379145,Tabraiz Shamsi,4 Dec 2015,v Lions,Benoni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+379145,Tabraiz Shamsi,6 Dec 2015,v Knights,Benoni,1,10,5*,12,6,1,0,83.33,not out,2,3.0,0,42,0,14
+379145,Tabraiz Shamsi,12 Dec 2015,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+379145,Tabraiz Shamsi,17 Feb 2016,v England XI,Paarl,2,10,5*,1,3,0,0,166.66,not out,1,3.0,0,43,0,14.33
+379145,Tabraiz Shamsi,22 Apr 2016,v Supergiants,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+379145,Tabraiz Shamsi,24 Apr 2016,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+379145,Tabraiz Shamsi,30 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+379145,Tabraiz Shamsi,2 May 2016,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,0,12.75
+379145,Tabraiz Shamsi,30 Jun 2016,v Amazon,Basseterre,1,11,5*,-,5,0,0,100,not out,2,4.0,0,16,1,4
+379145,Tabraiz Shamsi,2 Jul 2016,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+379145,Tabraiz Shamsi,3 Jul 2016,v Zouks,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,5 Jul 2016,v Tridents,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+379145,Tabraiz Shamsi,9 Jul 2016,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+379145,Tabraiz Shamsi,13 Jul 2016,v Tridents,Bridgetown,2,9,1,-,4,0,0,25,stumped,1,4.0,0,32,1,8
+379145,Tabraiz Shamsi,16 Jul 2016,v Tallawahs,Kingston,2,10,1,-,5,0,0,20,bowled,1,4.0,0,30,1,7.5
+379145,Tabraiz Shamsi,9 Sep 2016,v Border,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+379145,Tabraiz Shamsi,2 Dec 2016,v Warriors,Centurion,1,9,0,1,1,0,0,0,caught,2,4.0,0,18,1,4.5
+379145,Tabraiz Shamsi,7 Dec 2016,v Lions,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+379145,Tabraiz Shamsi,11 Dec 2016,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+379145,Tabraiz Shamsi,16 Dec 2016,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+379145,Tabraiz Shamsi,21 Jun 2017,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+379145,Tabraiz Shamsi,23 Jun 2017,v England,Taunton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+379145,Tabraiz Shamsi,7 Jul 2017,v Derbyshire,Northampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+379145,Tabraiz Shamsi,9 Jul 2017,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+379145,Tabraiz Shamsi,14 Jul 2017,v Warwickshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+379145,Tabraiz Shamsi,21 Jul 2017,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+379145,Tabraiz Shamsi,22 Jul 2017,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,0.1,0,0,0,0
+379145,Tabraiz Shamsi,12 Aug 2017,v Stars,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+379145,Tabraiz Shamsi,14 Aug 2017,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+379145,Tabraiz Shamsi,18 Aug 2017,v Tridents,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,1,12.33
+379145,Tabraiz Shamsi,19 Aug 2017,v Stars,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379145,Tabraiz Shamsi,21 Aug 2017,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+379145,Tabraiz Shamsi,23 Aug 2017,v Trinbago,Basseterre,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+379145,Tabraiz Shamsi,30 Aug 2017,v Tallawahs,Kingston,2,11,2,-,4,0,0,50,caught,1,4.0,0,27,1,6.75
+379145,Tabraiz Shamsi,3 Sep 2017,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+379145,Tabraiz Shamsi,5 Sep 2017,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+379145,Tabraiz Shamsi,9 Sep 2017,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+379145,Tabraiz Shamsi,12 Nov 2017,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+379145,Tabraiz Shamsi,15 Nov 2017,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+379145,Tabraiz Shamsi,17 Nov 2017,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+379145,Tabraiz Shamsi,19 Nov 2017,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+379145,Tabraiz Shamsi,24 Nov 2017,v Dolphins,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,1 Dec 2017,v Warriors,Benoni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,3,7.33
+379145,Tabraiz Shamsi,3 Dec 2017,v Knights,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+379145,Tabraiz Shamsi,8 Dec 2017,v Cape Cobras,Cape Town,1,10,0*,6,2,0,0,0,not out,2,4.0,0,25,2,6.25
+379145,Tabraiz Shamsi,10 Dec 2017,v Dolphins,Durban,2,10,15*,25,20,0,1,75,not out,1,2.0,0,25,0,12.5
+379145,Tabraiz Shamsi,13 Dec 2017,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,4,8
+379145,Tabraiz Shamsi,16 Dec 2017,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+379145,Tabraiz Shamsi,18 Feb 2018,v India,Johannesburg,2,11,0*,2,2,0,0,0,not out,1,4.0,0,37,1,9.25
+379145,Tabraiz Shamsi,21 Feb 2018,v India,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+379145,Tabraiz Shamsi,24 Feb 2018,v India,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+379145,Tabraiz Shamsi,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,11,0,-,2,0,0,0,caught,2,4.0,1,26,2,6.5
+379145,Tabraiz Shamsi,4 Sep 2018,v Tridents,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+379145,Tabraiz Shamsi,12 Sep 2018,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+379145,Tabraiz Shamsi,14 Sep 2018,v Trinbago,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+379145,Tabraiz Shamsi,9 Oct 2018,v Zimbabwe,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+379145,Tabraiz Shamsi,12 Oct 2018,v Zimbabwe,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+379145,Tabraiz Shamsi,17 Nov 2018,v Australia,Carrara,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+379145,Tabraiz Shamsi,25 Nov 2018,v Blitz,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+379145,Tabraiz Shamsi,28 Nov 2018,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+379145,Tabraiz Shamsi,30 Nov 2018,v Giants,Gqeberha,2,11,1*,4,1,0,0,100,not out,1,4.0,0,29,1,7.25
+379145,Tabraiz Shamsi,2 Dec 2018,v Durban Heat,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+379145,Tabraiz Shamsi,5 Dec 2018,v Spartans,Centurion,1,11,1*,2,1,0,0,100,not out,2,4.0,0,18,3,4.5
+379145,Tabraiz Shamsi,7 Dec 2018,v Blitz,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.3,0,32,1,9.14
+379145,Tabraiz Shamsi,9 Dec 2018,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+379145,Tabraiz Shamsi,12 Dec 2018,v Giants,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+379145,Tabraiz Shamsi,14 Dec 2018,v Jozi Stars,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,1 Feb 2019,v Pakistan,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+379145,Tabraiz Shamsi,3 Feb 2019,v Pakistan,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+379145,Tabraiz Shamsi,6 Feb 2019,v Pakistan,Centurion,2,11,0*,6,1,0,0,0,not out,1,4.0,0,30,0,7.5
+379145,Tabraiz Shamsi,22 Mar 2019,v Sri Lanka,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+379145,Tabraiz Shamsi,24 Mar 2019,v Sri Lanka,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+379145,Tabraiz Shamsi,28 Apr 2019,v Lions,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+379145,Tabraiz Shamsi,22 Aug 2019,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+379145,Tabraiz Shamsi,25 Aug 2019,v Essex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+379145,Tabraiz Shamsi,29 Aug 2019,v Middlesex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+379145,Tabraiz Shamsi,30 Aug 2019,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+379145,Tabraiz Shamsi,18 Sep 2019,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+379145,Tabraiz Shamsi,22 Sep 2019,v India,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+379145,Tabraiz Shamsi,10 Nov 2019,v Blitz,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,3,5.33
+379145,Tabraiz Shamsi,17 Nov 2019,v Spartans,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+379145,Tabraiz Shamsi,22 Nov 2019,v Jozi Stars,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+379145,Tabraiz Shamsi,24 Nov 2019,v Blitz,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+379145,Tabraiz Shamsi,27 Nov 2019,v Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+379145,Tabraiz Shamsi,29 Nov 2019,v Spartans,Centurion,1,11,2*,7,3,0,0,66.66,not out,2,3.0,0,27,0,9
+379145,Tabraiz Shamsi,1 Dec 2019,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+379145,Tabraiz Shamsi,4 Dec 2019,v Durban Heat,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+379145,Tabraiz Shamsi,8 Dec 2019,v Giants,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+379145,Tabraiz Shamsi,16 Dec 2019,v Spartans,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+379145,Tabraiz Shamsi,12 Feb 2020,v England,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+379145,Tabraiz Shamsi,14 Feb 2020,v England,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+379145,Tabraiz Shamsi,16 Feb 2020,v England,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,1,13.33
+379145,Tabraiz Shamsi,21 Feb 2020,v Australia,Johannesburg,2,11,2*,4,4,0,0,50,not out,1,4.0,0,31,2,7.75
+379145,Tabraiz Shamsi,23 Feb 2020,v Australia,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,0,4.25
+379145,Tabraiz Shamsi,26 Feb 2020,v Australia,Cape Town,2,11,2*,5,4,0,0,50,not out,1,4.0,0,25,1,6.25
+379145,Tabraiz Shamsi,27 Nov 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+379145,Tabraiz Shamsi,29 Nov 2020,v England,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+379145,Tabraiz Shamsi,1 Dec 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,57,0,14.25
+379145,Tabraiz Shamsi,11 Feb 2021,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+379145,Tabraiz Shamsi,13 Feb 2021,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+379145,Tabraiz Shamsi,14 Feb 2021,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+379145,Tabraiz Shamsi,19 Feb 2021,v Knights,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+379145,Tabraiz Shamsi,21 Feb 2021,v Cape Cobras,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+379145,Tabraiz Shamsi,22 Feb 2021,v Lions,Durban,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+379145,Tabraiz Shamsi,24 Feb 2021,v Warriors,Durban,2,10,2,-,3,0,0,66.66,caught,1,2.0,0,23,0,11.5
+379145,Tabraiz Shamsi,26 Feb 2021,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+379145,Tabraiz Shamsi,10 Apr 2021,v Pakistan,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+379145,Tabraiz Shamsi,12 Apr 2021,v Pakistan,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,14 Apr 2021,v Pakistan,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+379145,Tabraiz Shamsi,16 Apr 2021,v Pakistan,Centurion,1,11,0,6,3,0,0,0,caught,2,4.0,0,21,1,5.25
+379145,Tabraiz Shamsi,26 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+379145,Tabraiz Shamsi,27 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+379145,Tabraiz Shamsi,29 Jun 2021,v West Indies,St George's,1,10,0*,2,0,0,0,-,not out,2,4.0,0,13,2,3.25
+379145,Tabraiz Shamsi,1 Jul 2021,v West Indies,St George's,2,9,0,3,2,0,0,0,caught,1,4.0,0,13,2,3.25
+379145,Tabraiz Shamsi,3 Jul 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,11,1,2.75
+379145,Tabraiz Shamsi,19 Jul 2021,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,4,6.75
+379145,Tabraiz Shamsi,22 Jul 2021,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,3,3.5
+379145,Tabraiz Shamsi,31 Jul 2021,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,8.4
+379145,Tabraiz Shamsi,2 Aug 2021,v Fire,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,6.6
+379145,Tabraiz Shamsi,4 Aug 2021,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,10.8
+379145,Tabraiz Shamsi,8 Aug 2021,v Rockets,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,2,9.2
+379145,Tabraiz Shamsi,14 Aug 2021,v Spirit,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,7.5
+379145,Tabraiz Shamsi,16 Aug 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,9.9
+379145,Tabraiz Shamsi,10 Sep 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+379145,Tabraiz Shamsi,12 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+379145,Tabraiz Shamsi,14 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+379145,Tabraiz Shamsi,25 Sep 2021,v DC,Abu Dhabi,2,8,2*,14,4,0,0,50,not out,1,4.0,0,34,0,8.5
+379145,Tabraiz Shamsi,23 Oct 2021,v Australia,Abu Dhabi,1,11,0*,3,1,0,0,0,not out,2,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,26 Oct 2021,v West Indies,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+379145,Tabraiz Shamsi,30 Oct 2021,v Sri Lanka,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+379145,Tabraiz Shamsi,2 Nov 2021,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+379145,Tabraiz Shamsi,6 Nov 2021,v England,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+379145,Tabraiz Shamsi,7 Feb 2022,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+379145,Tabraiz Shamsi,9 Feb 2022,v Boland,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+379145,Tabraiz Shamsi,12 Feb 2022,v Knights,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+379145,Tabraiz Shamsi,14 Feb 2022,v Dolphins,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+379145,Tabraiz Shamsi,17 Feb 2022,v Lions,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+379145,Tabraiz Shamsi,19 Feb 2022,v W Province,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+379145,Tabraiz Shamsi,22 Feb 2022,v North West,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+379145,Tabraiz Shamsi,25 Feb 2022,v Dolphins,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,3,3.75
+379145,Tabraiz Shamsi,27 Feb 2022,v Boland,Gqeberha,2,10,3*,-,4,0,0,75,not out,1,4.0,0,20,3,5
+379145,Tabraiz Shamsi,9 Jun 2022,v India,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,27,0,13.5
+379145,Tabraiz Shamsi,12 Jun 2022,v India,Cuttack,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+379145,Tabraiz Shamsi,14 Jun 2022,v India,Visakhapatnam,2,11,0,2,1,0,0,0,caught,1,4.0,0,36,1,9
+379145,Tabraiz Shamsi,17 Jun 2022,v India,Rajkot,2,11,4*,5,3,0,0,133.33,not out,1,2.0,0,18,0,9
+379145,Tabraiz Shamsi,27 Jul 2022,v England,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,49,0,16.33
+379145,Tabraiz Shamsi,28 Jul 2022,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+379145,Tabraiz Shamsi,31 Jul 2022,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,5,6
+379145,Tabraiz Shamsi,3 Aug 2022,v Ireland,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+379145,Tabraiz Shamsi,5 Aug 2022,v Ireland,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+379145,Tabraiz Shamsi,9 Aug 2022,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,6.6
+379145,Tabraiz Shamsi,13 Aug 2022,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,13.5
+379145,Tabraiz Shamsi,15 Aug 2022,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,15.6
+379145,Tabraiz Shamsi,17 Aug 2022,v Invincibles,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,6.3
+379145,Tabraiz Shamsi,25 Aug 2022,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,9
+379145,Tabraiz Shamsi,29 Aug 2022,v Fire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3.6
+379145,Tabraiz Shamsi,3 Sep 2022,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+379145,Tabraiz Shamsi,8 Sep 2022,v Patriots,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+379145,Tabraiz Shamsi,10 Sep 2022,v Kings,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+379145,Tabraiz Shamsi,14 Sep 2022,v Trinbago,Port of Spain,2,11,8*,18,10,1,0,80,not out,1,4.0,0,36,4,9
+379145,Tabraiz Shamsi,18 Sep 2022,v Royals,Tarouba,2,11,0*,-,0,0,0,-,not out,1,3.0,0,13,0,4.33
+379145,Tabraiz Shamsi,28 Sep 2022,v India,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,2.4,0,27,0,10.12
+379145,Tabraiz Shamsi,27 Oct 2022,v Bangladesh,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+379145,Tabraiz Shamsi,3 Nov 2022,v Pakistan,Sydney,2,11,1*,3,1,0,0,100,not out,1,4.0,0,36,1,9
+379145,Tabraiz Shamsi,10 Jan 2023,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+379145,Tabraiz Shamsi,13 Jan 2023,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,1,4
+379145,Tabraiz Shamsi,17 Jan 2023,v Super Giants,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+379145,Tabraiz Shamsi,19 Jan 2023,v Sunrisers,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+379145,Tabraiz Shamsi,21 Jan 2023,v MI Cape Town,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+379145,Tabraiz Shamsi,22 Jan 2023,v Capitals,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+379145,Tabraiz Shamsi,24 Jan 2023,v Sunrisers,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+379145,Tabraiz Shamsi,3 Feb 2023,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,8 Feb 2023,v Capitals,Johannesburg,2,11,0,3,3,0,0,0,caught,1,4.0,0,19,2,4.75
+379145,Tabraiz Shamsi,26 Feb 2023,v Sultans,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+379145,Tabraiz Shamsi,1 Mar 2023,v Zalmi,Rawalpindi,2,9,0,2,1,0,0,0,bowled,1,4.0,0,25,1,6.25
+379145,Tabraiz Shamsi,3 Mar 2023,v United,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+379145,Tabraiz Shamsi,6 Mar 2023,v Gladiators,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+379145,Tabraiz Shamsi,25 Mar 2023,v West Indies,Centurion,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,1,13.5
+379145,Tabraiz Shamsi,26 Mar 2023,v West Indies,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,33,0,16.5
+379145,Tabraiz Shamsi,31 Jul 2023,v Aura,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+379145,Tabraiz Shamsi,1 Aug 2023,v B-Love Kandy,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+379145,Tabraiz Shamsi,4 Aug 2023,v Jaffna Kings,Pallekele,1,10,2*,-,3,0,0,66.66,not out,2,3.0,0,26,0,8.66
+379145,Tabraiz Shamsi,7 Aug 2023,v Colombo,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+379145,Tabraiz Shamsi,8 Aug 2023,v B-Love Kandy,Pallekele,2,10,0,-,2,0,0,0,bowled,1,4.0,0,46,1,11.5
+379145,Tabraiz Shamsi,13 Aug 2023,v Jaffna Kings,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+379145,Tabraiz Shamsi,15 Aug 2023,v Colombo,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+379145,Tabraiz Shamsi,17 Aug 2023,v Aura,Colombo (RPS),1,11,0,-,1,0,0,0,lbw,2,4.0,0,37,1,9.25
+379145,Tabraiz Shamsi,19 Aug 2023,v B-Love Kandy,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+379145,Tabraiz Shamsi,30 Aug 2023,v Australia,Durban,2,11,0,2,2,0,0,0,bowled,1,4.0,0,42,1,10.5
+379145,Tabraiz Shamsi,1 Sep 2023,v Australia,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+379145,Tabraiz Shamsi,12 Dec 2023,v India,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+379145,Tabraiz Shamsi,14 Dec 2023,v India,Johannesburg,2,11,1*,1,1,0,0,100,not out,1,4.0,0,38,1,9.5
+379145,Tabraiz Shamsi,12 Jan 2024,v Capitals,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,14 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+379145,Tabraiz Shamsi,17 Jan 2024,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+379145,Tabraiz Shamsi,19 Jan 2024,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+379145,Tabraiz Shamsi,21 Jan 2024,v MI Cape Town,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,1,11,2,2.75
+379145,Tabraiz Shamsi,24 Jan 2024,v Super Kings,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+379145,Tabraiz Shamsi,26 Jan 2024,v Super Giants,Paarl,2,11,1*,2,1,0,0,100,not out,1,4.0,0,30,0,7.5
+379145,Tabraiz Shamsi,28 Jan 2024,v Super Giants,Durban,2,11,0,1,1,0,0,0,lbw,1,4.0,0,20,2,5
+379145,Tabraiz Shamsi,2 Feb 2024,v Sunrisers,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+379145,Tabraiz Shamsi,7 Feb 2024,v Super Kings,Johannesburg,1,11,1*,2,1,0,0,100,not out,2,4.0,0,43,1,10.75
+379145,Tabraiz Shamsi,18 Feb 2024,v Sultans,Multan,2,10,0*,16,1,0,0,0,not out,1,4.0,0,45,0,11.25
+379145,Tabraiz Shamsi,21 Feb 2024,v Zalmi,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+379145,Tabraiz Shamsi,24 Feb 2024,v Qalandars,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+379145,Tabraiz Shamsi,28 Feb 2024,v United,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+379145,Tabraiz Shamsi,8 Mar 2024,v North West,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+379145,Tabraiz Shamsi,10 Mar 2024,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,4,5.75
+379145,Tabraiz Shamsi,13 Mar 2024,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+379145,Tabraiz Shamsi,15 Mar 2024,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+379145,Tabraiz Shamsi,20 Mar 2024,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+379145,Tabraiz Shamsi,23 Mar 2024,v W Province,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+379145,Tabraiz Shamsi,1 Apr 2024,v North West,Potchefstroom (Uni),1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,5 Apr 2024,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+379145,Tabraiz Shamsi,7 Apr 2024,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+379145,Tabraiz Shamsi,10 Apr 2024,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+379145,Tabraiz Shamsi,12 Apr 2024,v Boland,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+379145,Tabraiz Shamsi,14 Apr 2024,v KZN-Inland,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+379145,Tabraiz Shamsi,19 Apr 2024,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+379145,Tabraiz Shamsi,21 Apr 2024,v W Province,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+379145,Tabraiz Shamsi,24 Apr 2024,v Lions,Johannesburg,1,11,0*,3,0,0,0,-,not out,2,1.0,0,4,0,4
+379145,Tabraiz Shamsi,14 Jun 2024,v Nepal,Kingstown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,4,4.75
+379145,Tabraiz Shamsi,19 Jun 2024,v U.S.A.,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+379145,Tabraiz Shamsi,23 Jun 2024,v West Indies,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+379145,Tabraiz Shamsi,26 Jun 2024,v Afghanistan,Tarouba,2,-,DNB,-,-,-,-,-,-,1,1.5,0,6,3,3.27
+379145,Tabraiz Shamsi,29 Jun 2024,v India,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+379145,Tabraiz Shamsi,6 Jul 2024,v Sixers,Dambulla,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+379145,Tabraiz Shamsi,9 Jul 2024,v Kandy,Dambulla,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+379145,Tabraiz Shamsi,10 Jul 2024,v Colombo,Dambulla,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,1,14.5
+379145,Tabraiz Shamsi,18 Jul 2024,v Galle,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.1,0,27,1,8.52
+379145,Tabraiz Shamsi,29 Aug 2024,v Falcons,North Sound,2,11,1*,-,1,0,0,100,not out,1,4.0,0,27,1,6.75
+379145,Tabraiz Shamsi,31 Aug 2024,v Trinbago,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+379145,Tabraiz Shamsi,1 Sep 2024,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,2.0,0,41,0,20.5
+379145,Tabraiz Shamsi,12 Sep 2024,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+379145,Tabraiz Shamsi,17 Sep 2024,v Royals,Bridgetown,1,11,1*,5,1,0,0,100,not out,2,3.0,0,29,0,9.66
+379145,Tabraiz Shamsi,20 Sep 2024,v Amazon,Providence,2,11,0*,6,3,0,0,0,not out,1,4.0,0,13,2,3.25
+379145,Tabraiz Shamsi,22 Sep 2024,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+379145,Tabraiz Shamsi,19 Oct 2024,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+379145,Tabraiz Shamsi,22 Oct 2024,v Lions,Johannesburg,1,11,0,4,4,0,0,0,lbw,2,2.0,0,25,0,12.5
+379145,Tabraiz Shamsi,25 Oct 2024,v W Province,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+379145,Tabraiz Shamsi,27 Oct 2024,v Lions,Johannesburg,1,11,0*,5,1,0,0,0,not out,2,2.0,0,21,0,10.5
+379145,Tabraiz Shamsi,26 Nov 2024,v Amazon,Providence,1,11,0*,-,0,0,0,-,not out,2,4.0,0,20,0,5
+379145,Tabraiz Shamsi,30 Nov 2024,v Hampshire,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+379145,Tabraiz Shamsi,3 Dec 2024,v Victoria,Providence,1,11,0*,-,0,0,0,-,not out,2,4.0,1,11,3,2.75
+379145,Tabraiz Shamsi,5 Dec 2024,v Rangpur,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,1,10,0,5
+379145,Tabraiz Shamsi,11 Jan 2025,v MI Cape Town,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+379145,Tabraiz Shamsi,14 Jan 2025,v Super Giants,Durban,1,9,1*,2,1,0,0,100,not out,2,2.0,0,18,2,9
+379145,Tabraiz Shamsi,18 Jan 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+379145,Tabraiz Shamsi,20 Jan 2025,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+379145,Tabraiz Shamsi,1 Feb 2025,v Super Giants,Johannesburg,2,11,1*,1,1,0,0,100,not out,1,2.0,0,25,0,12.5
+379145,Tabraiz Shamsi,10 Jul 2025,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+379145,Tabraiz Shamsi,13 Jul 2025,v Hurricanes,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+379145,Tabraiz Shamsi,16 Jul 2025,v DC,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+379145,Tabraiz Shamsi,18 Jul 2025,v Amazon,Providence,2,11,1*,-,2,0,0,50,not out,1,3.0,0,28,1,9.33
+379145,Tabraiz Shamsi,17 Aug 2025,v Falcons,North Sound,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,19 Aug 2025,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,48,0,16
+379145,Tabraiz Shamsi,23 Aug 2025,v Trinbago,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+379145,Tabraiz Shamsi,24 Aug 2025,v Royals,Gros Islet,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379145,Tabraiz Shamsi,26 Aug 2025,v Amazon,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+379145,Tabraiz Shamsi,28 Aug 2025,v Patriots,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+379145,Tabraiz Shamsi,31 Aug 2025,v Falcons,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+379145,Tabraiz Shamsi,3 Sep 2025,v Trinbago,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+379145,Tabraiz Shamsi,7 Sep 2025,v Royals,Bridgetown,2,11,1*,5,3,0,0,33.33,not out,1,4.0,0,26,3,6.5
+379145,Tabraiz Shamsi,13 Sep 2025,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+379145,Tabraiz Shamsi,17 Sep 2025,v Amazon,Providence,2,11,5*,10,4,1,0,125,not out,1,4.0,0,33,3,8.25
+379145,Tabraiz Shamsi,19 Sep 2025,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+379145,Tabraiz Shamsi,29 Oct 2025,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+379145,Tabraiz Shamsi,1 Nov 2025,v Warriors,Centurion,2,11,6*,12,7,0,0,85.71,not out,1,4.0,0,30,0,7.5
+379145,Tabraiz Shamsi,6 Nov 2025,v Boland,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+379145,Tabraiz Shamsi,9 Nov 2025,v W Province,Cape Town,2,11,1,9,5,0,0,20,caught,1,4.0,0,50,1,12.5
+379145,Tabraiz Shamsi,4 Dec 2025,v MI Emirates,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+379145,Tabraiz Shamsi,18 Dec 2025,v KnightRiders,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+379145,Tabraiz Shamsi,21 Dec 2025,v DC,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+379145,Tabraiz Shamsi,23 Dec 2025,v MI Emirates,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+379145,Tabraiz Shamsi,28 Dec 2025,v KnightRiders,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+379145,Tabraiz Shamsi,4 Jan 2026,v Scorchers,Perth,2,11,7*,9,7,1,0,100,not out,1,4.0,0,30,3,7.5
+379145,Tabraiz Shamsi,9 Jan 2026,v Hurricanes,Hobart,2,11,1*,6,2,0,0,50,not out,1,4.0,0,19,1,4.75
+379145,Tabraiz Shamsi,13 Jan 2026,v Stars,Melbourne,1,11,8*,24,22,0,0,36.36,not out,2,3.0,0,20,0,6.66
+379145,Tabraiz Shamsi,17 Jan 2026,v Renegades,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.5,0,15,4,3.91

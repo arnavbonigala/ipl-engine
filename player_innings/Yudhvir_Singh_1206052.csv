@@ -1,0 +1,45 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1206052,Yudhvir Singh,12 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+1206052,Yudhvir Singh,14 Nov 2019,v Maharashtra,Chandigarh,1,7,7,-,3,0,1,233.33,bowled,2,4.0,0,22,0,5.5
+1206052,Yudhvir Singh,15 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+1206052,Yudhvir Singh,10 Jan 2021,v Assam,Eden Gardens,2,8,1,-,2,0,0,50,caught,1,4.0,0,27,1,6.75
+1206052,Yudhvir Singh,12 Jan 2021,v Odisha,Jadavpur Uni,1,7,10,-,4,1,1,250,run out,2,4.0,0,35,0,8.75
+1206052,Yudhvir Singh,14 Jan 2021,v Bengal,Eden Gardens,1,10,6,-,5,1,0,120,caught,2,2.0,0,20,0,10
+1206052,Yudhvir Singh,4 Nov 2021,v Andhra,Vadodara,2,8,10,7,4,0,1,250,run out,1,3.0,0,36,0,12
+1206052,Yudhvir Singh,5 Nov 2021,v Rajasthan,Vadodara,1,6,1*,4,1,0,0,100,not out,2,2.0,0,30,0,15
+1206052,Yudhvir Singh,8 Nov 2021,v Himachal,Vadodara,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+1206052,Yudhvir Singh,11 Oct 2022,v Meghalaya,Mohali,1,4,10,-,4,1,1,250,bowled,2,1.3,0,18,0,12
+1206052,Yudhvir Singh,12 Oct 2022,v Arunachal,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+1206052,Yudhvir Singh,14 Oct 2022,v Maharashtra,Mohali,1,7,6*,-,2,0,1,300,not out,2,2.0,0,23,0,11.5
+1206052,Yudhvir Singh,16 Oct 2022,v Karnataka,New Chandigarh,2,9,6,-,4,0,1,150,caught,1,1.0,0,15,0,15
+1206052,Yudhvir Singh,22 Oct 2022,v Services,Mohali,1,6,7,-,4,0,1,175,bowled,2,3.0,0,30,0,10
+1206052,Yudhvir Singh,15 Apr 2023,v Punjab Kings,Lucknow,1,9,0,3,1,0,0,0,caught,2,3.0,0,19,2,6.33
+1206052,Yudhvir Singh,19 Apr 2023,v RR,Jaipur,1,8,1,2,1,0,0,100,run out,2,2.0,0,27,0,13.5
+1206052,Yudhvir Singh,13 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+1206052,Yudhvir Singh,16 Oct 2023,v Baroda,Jaipur,2,8,0,-,1,0,0,0,caught,1,4.0,1,13,3,3.25
+1206052,Yudhvir Singh,17 Oct 2023,v Hyderabad,Jaipur,1,7,2,-,3,0,0,66.66,caught,2,3.0,0,17,1,5.66
+1206052,Yudhvir Singh,19 Oct 2023,v Haryana,Jaipur,2,9,1,-,2,0,0,50,caught,1,4.0,0,38,1,9.5
+1206052,Yudhvir Singh,21 Oct 2023,v Mumbai,Jaipur,2,10,22,-,7,2,2,314.28,run out,1,4.0,0,35,1,8.75
+1206052,Yudhvir Singh,23 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+1206052,Yudhvir Singh,25 Oct 2023,v Mizoram,Jaipur,1,6,1*,-,1,0,0,100,not out,2,3.0,0,13,3,4.33
+1206052,Yudhvir Singh,27 Oct 2023,v Chhattisgarh,Jaipur,1,7,13,-,4,0,2,325,caught,2,4.0,0,32,1,8
+1206052,Yudhvir Singh,5 May 2024,v KKR,Lucknow,2,9,7,7,7,0,1,100,caught,1,2.0,0,24,1,12
+1206052,Yudhvir Singh,14 May 2024,v DC,Delhi,2,9,14,11,7,1,1,200,caught,1,2.0,0,28,0,14
+1206052,Yudhvir Singh,23 Nov 2024,v Jharkhand,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+1206052,Yudhvir Singh,25 Nov 2024,v Delhi,Wankhede,2,8,14,-,5,0,2,280,caught,1,3.0,0,23,1,7.66
+1206052,Yudhvir Singh,27 Nov 2024,v Arunachal,Mumbai,2,2,21*,-,11,3,1,190.9,not out,1,3.0,0,14,2,4.66
+1206052,Yudhvir Singh,29 Nov 2024,v Himachal,Mumbai,1,7,29,-,13,1,3,223.07,caught,2,3.3,0,34,1,9.71
+1206052,Yudhvir Singh,1 Dec 2024,v Manipur,Wankhede,2,3,9,-,5,2,0,180,caught,1,4.0,0,20,1,5
+1206052,Yudhvir Singh,3 Dec 2024,v UP,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1206052,Yudhvir Singh,5 Dec 2024,v Haryana,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+1206052,Yudhvir Singh,5 Apr 2025,v Punjab Kings,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+1206052,Yudhvir Singh,28 Apr 2025,v GT,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+1206052,Yudhvir Singh,4 May 2025,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,1,13
+1206052,Yudhvir Singh,20 May 2025,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,3,11.75
+1206052,Yudhvir Singh,26 Nov 2025,v Maharashtra,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1206052,Yudhvir Singh,28 Nov 2025,v UP,Jadavpur Uni,2,7,4,-,5,0,0,80,caught,1,4.0,0,42,1,10.5
+1206052,Yudhvir Singh,30 Nov 2025,v Bihar,Eden Gardens,1,8,9,-,5,0,1,180,caught,2,4.0,0,20,2,5
+1206052,Yudhvir Singh,2 Dec 2025,v Chandigarh,Jadavpur Uni,1,8,0,-,1,0,0,0,run out,2,4.0,0,32,2,8
+1206052,Yudhvir Singh,4 Dec 2025,v Hyderabad,Jadavpur Uni,1,9,2,-,7,0,0,28.57,caught,2,3.0,0,18,2,6
+1206052,Yudhvir Singh,6 Dec 2025,v Goa,Eden Gardens,1,7,0,-,1,0,0,0,caught,2,3.0,0,41,0,13.66
+1206052,Yudhvir Singh,8 Dec 2025,v M. Pradesh,Eden Gardens,1,8,18,-,12,0,2,150,caught,2,4.0,0,34,2,8.5

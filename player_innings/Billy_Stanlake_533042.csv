@@ -1,0 +1,94 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+533042,Billy Stanlake,28 Dec 2015,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+533042,Billy Stanlake,5 Jan 2016,v Scorchers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+533042,Billy Stanlake,8 Jan 2016,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+533042,Billy Stanlake,23 Dec 2016,v Scorchers,W.A.C.A,2,11,3*,-,3,0,0,100,not out,1,4.0,0,34,0,8.5
+533042,Billy Stanlake,31 Dec 2016,v Sixers,Adelaide,1,10,0*,-,1,0,0,0,not out,2,3.2,0,17,3,5.1
+533042,Billy Stanlake,2 Jan 2017,v Hurricanes,Hobart,1,10,1*,3,2,0,0,50,not out,2,4.0,0,17,1,4.25
+533042,Billy Stanlake,6 Jan 2017,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+533042,Billy Stanlake,17 Feb 2017,v Sri Lanka,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14
+533042,Billy Stanlake,8 Apr 2017,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+533042,Billy Stanlake,10 Apr 2017,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+533042,Billy Stanlake,22 Dec 2017,v Thunder,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+533042,Billy Stanlake,28 Dec 2017,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+533042,Billy Stanlake,31 Dec 2017,v Heat,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+533042,Billy Stanlake,4 Jan 2018,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+533042,Billy Stanlake,7 Jan 2018,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+533042,Billy Stanlake,9 Jan 2018,v Stars,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+533042,Billy Stanlake,13 Jan 2018,v Scorchers,Alice Springs,1,11,4*,-,5,0,0,80,not out,2,3.0,0,23,0,7.66
+533042,Billy Stanlake,17 Jan 2018,v Hurricanes,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+533042,Billy Stanlake,22 Jan 2018,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+533042,Billy Stanlake,25 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+533042,Billy Stanlake,3 Feb 2018,v New Zealand,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+533042,Billy Stanlake,7 Feb 2018,v England,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+533042,Billy Stanlake,10 Feb 2018,v England,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+533042,Billy Stanlake,16 Feb 2018,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+533042,Billy Stanlake,21 Feb 2018,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+533042,Billy Stanlake,9 Apr 2018,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+533042,Billy Stanlake,12 Apr 2018,v MI,Hyderabad,2,11,5*,-,2,1,0,250,not out,1,4.0,0,42,2,10.5
+533042,Billy Stanlake,14 Apr 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+533042,Billy Stanlake,22 Apr 2018,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+533042,Billy Stanlake,27 Jun 2018,v England,Birmingham,2,11,7,-,5,0,1,140,caught,1,3.0,0,44,1,14.66
+533042,Billy Stanlake,2 Jul 2018,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,8,4,2
+533042,Billy Stanlake,3 Jul 2018,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+533042,Billy Stanlake,5 Jul 2018,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+533042,Billy Stanlake,6 Jul 2018,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,2,5.25
+533042,Billy Stanlake,8 Jul 2018,v Pakistan,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+533042,Billy Stanlake,22 Oct 2018,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,2,5
+533042,Billy Stanlake,24 Oct 2018,v Pakistan,Abu Dhabi,2,11,2*,-,7,0,0,28.57,not out,1,4.0,0,21,3,5.25
+533042,Billy Stanlake,26 Oct 2018,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+533042,Billy Stanlake,17 Nov 2018,v South Africa,Carrara,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+533042,Billy Stanlake,21 Nov 2018,v India,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+533042,Billy Stanlake,19 Dec 2018,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,2,12.5
+533042,Billy Stanlake,23 Dec 2018,v Renegades,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+533042,Billy Stanlake,26 Dec 2018,v Scorchers,Perth,1,11,0*,-,1,0,0,0,not out,2,4.0,0,18,1,4.5
+533042,Billy Stanlake,31 Dec 2018,v Thunder,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+533042,Billy Stanlake,3 Jan 2019,v Renegades,Geelong,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+533042,Billy Stanlake,6 Jan 2019,v Sixers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+533042,Billy Stanlake,13 Jan 2019,v Thunder,Sydney,2,11,1,-,1,0,0,100,run out,1,4.0,0,31,2,7.75
+533042,Billy Stanlake,21 Jan 2019,v Hurricanes,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+533042,Billy Stanlake,23 Jan 2019,v Stars,Moe,2,11,3*,-,5,0,0,60,not out,1,4.0,0,26,0,6.5
+533042,Billy Stanlake,29 Jan 2019,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,1,12.33
+533042,Billy Stanlake,9 Feb 2019,v Scorchers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+533042,Billy Stanlake,30 Oct 2019,v Sri Lanka,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+533042,Billy Stanlake,8 Nov 2019,v Pakistan,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+533042,Billy Stanlake,21 Dec 2019,v Thunder,Canberra,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,1,8
+533042,Billy Stanlake,23 Dec 2019,v Scorchers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,38,0,19
+533042,Billy Stanlake,27 Dec 2019,v Stars,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+533042,Billy Stanlake,29 Dec 2019,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+533042,Billy Stanlake,31 Dec 2019,v Thunder,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+533042,Billy Stanlake,5 Jan 2020,v Sixers,Coffs Harbour,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+533042,Billy Stanlake,8 Jan 2020,v Sixers,Adelaide,1,11,0*,-,0,0,0,-,not out,2,4.0,0,31,0,7.75
+533042,Billy Stanlake,22 Jan 2020,v Stars,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+533042,Billy Stanlake,24 Jan 2020,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,2,6.66
+533042,Billy Stanlake,26 Jan 2020,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,1.0,0,22,0,22
+533042,Billy Stanlake,1 Feb 2020,v Thunder,Adelaide,2,11,1*,-,2,0,0,50,not out,1,3.0,0,32,0,10.66
+533042,Billy Stanlake,11 Dec 2020,v Heat,Canberra,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+533042,Billy Stanlake,12 Dec 2020,v Thunder,Canberra,1,10,1*,-,1,0,0,100,not out,2,4.0,0,34,0,8.5
+533042,Billy Stanlake,16 Dec 2020,v Scorchers,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+533042,Billy Stanlake,26 Dec 2020,v Sixers,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+533042,Billy Stanlake,29 Dec 2020,v Thunder,Canberra,2,10,0,-,3,0,0,0,run out,1,2.0,0,19,2,9.5
+533042,Billy Stanlake,2 Jan 2021,v Hurricanes,Hobart,2,10,2*,-,8,0,0,25,not out,1,4.0,0,25,3,6.25
+533042,Billy Stanlake,4 Jan 2021,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+533042,Billy Stanlake,7 Jan 2021,v Heat,Carrara,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+533042,Billy Stanlake,15 Jan 2021,v Strikers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+533042,Billy Stanlake,17 Jan 2021,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,2,9.33
+533042,Billy Stanlake,23 Jan 2021,v Scorchers,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+533042,Billy Stanlake,26 Jan 2021,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.5,0,41,1,10.69
+533042,Billy Stanlake,20 Dec 2023,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+533042,Billy Stanlake,19 Dec 2024,v Renegades,Geelong,1,10,4,26,11,1,0,36.36,bowled,2,2.0,0,29,1,14.5
+533042,Billy Stanlake,21 Dec 2024,v Scorchers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+533042,Billy Stanlake,27 Dec 2024,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,41,1,13.66
+533042,Billy Stanlake,1 Jan 2025,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+533042,Billy Stanlake,5 Jan 2025,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+533042,Billy Stanlake,10 Jan 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+533042,Billy Stanlake,14 Jan 2025,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+533042,Billy Stanlake,11 Jul 2025,v DC,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+533042,Billy Stanlake,13 Jul 2025,v Rangpur,Providence,2,11,1,-,1,0,0,100,run out,1,3.0,0,28,0,9.33
+533042,Billy Stanlake,15 Jul 2025,v Central D,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+533042,Billy Stanlake,16 Jul 2025,v Amazon,Providence,1,11,0*,-,1,0,0,0,not out,2,3.3,0,21,3,6
+533042,Billy Stanlake,16 Dec 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+533042,Billy Stanlake,18 Dec 2025,v Stars,Melbourne,1,11,1*,1,1,0,0,100,not out,2,3.0,0,19,0,6.33
+533042,Billy Stanlake,11 Jan 2026,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+533042,Billy Stanlake,21 Jan 2026,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+533042,Billy Stanlake,23 Jan 2026,v Sixers,Sydney,2,11,7*,-,3,1,0,233.33,not out,1,4.0,0,46,2,11.5

@@ -1,0 +1,252 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+28763,Gautam Gambhir,3 Apr 2007,v Himachal,Delhi,1,2,6,19,10,1,0,60,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,4 Apr 2007,v J & K,Delhi,1,2,2,5,5,0,0,40,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,6 Apr 2007,v Punjab,Delhi,2,2,58*,82,54,7,0,107.4,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 Apr 2007,v Haryana,Delhi,1,2,27,40,23,5,0,117.39,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2007,v Services,Delhi,2,3,15,16,12,1,0,125,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+28763,Gautam Gambhir,14 Sep 2007,v Pakistan,Durban,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Sep 2007,v New Zealand,Johannesburg,2,1,51,45,33,5,2,154.54,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Sep 2007,v England,Durban,1,1,58,62,41,7,1,141.46,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Sep 2007,v South Africa,Durban,1,1,19,19,19,3,0,100,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Sep 2007,v Australia,Durban,1,1,24,37,25,4,0,96,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Sep 2007,v Pakistan,Johannesburg,1,1,75,76,54,8,2,138.88,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Oct 2007,v Australia,Brabourne,2,1,63,74,52,6,1,121.15,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Feb 2008,v Australia,Melbourne,1,1,9,9,6,1,0,150,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Apr 2008,v RR,Delhi,2,1,58*,-,46,7,1,126.08,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Apr 2008,v Chargers,Hyderabad,2,1,12,-,9,2,0,133.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,27 Apr 2008,v Kings XI,Mohali,1,1,18,-,14,3,0,128.57,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2008,v RCB,Delhi,1,1,86,-,54,11,1,159.25,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,2 May 2008,v CSK,Chennai,2,1,50,-,37,5,1,135.13,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,4 May 2008,v MI,DY Patil,2,1,1,-,9,0,0,11.11,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,8 May 2008,v CSK,Delhi,1,1,80,-,49,11,1,163.26,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,11 May 2008,v RR,Jaipur,1,1,31,-,23,4,0,134.78,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,13 May 2008,v KKR,Eden Gardens,2,1,10,-,7,2,0,142.85,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 May 2008,v Chargers,Delhi,1,1,79,-,48,7,3,164.58,stumped,2,DNB,-,-,-,-
+28763,Gautam Gambhir,17 May 2008,v Kings XI,Delhi,1,1,40,-,28,7,0,142.85,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2008,v RCB,Bengaluru,2,1,39,-,31,6,0,125.8,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,24 May 2008,v MI,Delhi,2,1,19,-,9,2,1,211.11,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,30 May 2008,v RR,Wankhede,2,1,11,-,15,1,0,73.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,1,13,6,6,3,0,216.66,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,25 Feb 2009,v New Zealand,Christchurch,1,1,6,8,7,1,0,85.71,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,27 Feb 2009,v New Zealand,Wellington,1,1,10,29,13,0,1,76.92,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Apr 2009,v Kings XI,Cape Town,2,1,15*,-,13,2,0,115.38,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,23 Apr 2009,v CSK,Durban,1,1,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Apr 2009,v RCB,Gqeberha,2,1,16,25,19,1,0,84.21,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2009,v RR,Centurion,1,1,8,-,6,1,0,133.33,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2009,v Chargers,Centurion,2,1,17,-,15,3,0,113.33,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 May 2009,v CSK,Johannesburg,2,1,13,-,14,2,0,92.85,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,5 May 2009,v KKR,Durban,2,1,71*,-,57,7,0,124.56,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,8 May 2009,v MI,East London,2,1,19,-,23,2,0,82.6,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,10 May 2009,v KKR,Johannesburg,2,1,18,-,24,3,0,75,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 May 2009,v Chargers,Durban,1,1,19,-,25,0,1,76,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,15 May 2009,v Kings XI,Bloemfontein,1,1,8,-,11,0,0,72.72,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,17 May 2009,v RR,Bloemfontein,1,1,8,-,8,1,0,100,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2009,v RCB,Johannesburg,1,1,27,-,19,3,1,142.1,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,21 May 2009,v MI,Centurion,2,1,47,-,38,7,0,123.68,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 May 2009,v Chargers,Centurion,1,1,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,6 Jun 2009,v Bangladesh,Nottingham,1,1,50,70,46,4,0,108.69,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Jun 2009,v Ireland,Nottingham,2,1,37,42,31,3,1,119.35,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,12 Jun 2009,v West Indies,Lord's,1,1,14,23,13,2,0,107.69,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,14 Jun 2009,v England,Lord's,2,1,26,50,26,4,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Jun 2009,v South Africa,Nottingham,2,1,21,27,19,3,0,110.52,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 Oct 2009,v Victoria,Delhi,1,1,4,-,8,0,0,50,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Oct 2009,v Wayamba,Delhi,1,3,3,-,6,0,0,50,lbw,2,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Oct 2009,v RCB,Bengaluru,1,1,11,-,18,2,0,61.11,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Oct 2009,v Cape Cobras,Delhi,1,2,0,-,4,0,0,0,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,9 Dec 2009,v Sri Lanka,Nagpur,2,1,55,-,26,11,0,211.53,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,12 Dec 2009,v Sri Lanka,Mohali,2,1,21,30,18,1,0,116.66,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Mar 2010,v Kings XI,Mohali,2,1,72,-,54,9,1,133.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Mar 2010,v RR,Ahmedabad,2,1,9,-,8,1,0,112.5,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Mar 2010,v MI,Delhi,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+28763,Gautam Gambhir,29 Mar 2010,v KKR,Delhi,1,3,1,-,2,0,0,50,lbw,2,DNB,-,-,-,-
+28763,Gautam Gambhir,31 Mar 2010,v RR,Delhi,1,3,43,-,37,3,0,116.21,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,4 Apr 2010,v RCB,Delhi,1,3,1,-,1,0,0,100,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,7 Apr 2010,v KKR,Eden Gardens,2,3,47,-,29,6,1,162.06,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Apr 2010,v Kings XI,Delhi,1,3,26,-,12,5,0,216.66,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Apr 2010,v MI,Brabourne,2,3,17,-,9,3,0,188.88,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Apr 2010,v CSK,Chennai,2,4,57*,-,56,5,0,101.78,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,18 Apr 2010,v Chargers,Delhi,2,4,4,-,9,0,0,44.44,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 May 2010,v Afghanistan,Gros Islet,2,1,4,11,6,0,0,66.66,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2010,v Australia,Bridgetown,2,2,9,14,10,2,0,90,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 May 2010,v West Indies,Bridgetown,2,2,15,22,14,3,0,107.14,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 May 2010,v Sri Lanka,Gros Islet,1,2,41,52,32,3,0,128.12,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2011,v CSK,Chennai,2,6,1,-,2,0,0,50,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Apr 2011,v Chargers,Eden Gardens,1,3,29,-,18,4,0,161.11,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Apr 2011,v RR,Jaipur,2,3,75*,-,44,11,1,170.45,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Apr 2011,v RR,Eden Gardens,2,3,35*,-,35,3,0,100,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Apr 2011,v Kochi,Eden Gardens,2,3,3,-,5,0,0,60,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Apr 2011,v RCB,Eden Gardens,1,3,48,-,38,6,0,126.31,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2011,v Daredevils,Delhi,1,3,18,-,19,2,0,94.73,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2011,v Kings XI,Eden Gardens,2,3,45*,-,44,4,0,102.27,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 May 2011,v Chargers,Hyderabad,1,3,35,-,22,3,1,159.09,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,5 May 2011,v Kochi,Kochi,2,3,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2011,v CSK,Eden Gardens,2,3,16,-,19,2,0,84.21,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 May 2011,v RCB,Bengaluru,1,3,7,-,9,1,0,77.77,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2011,v Warriors,DY Patil,2,1,54*,-,46,7,0,117.39,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 May 2011,v MI,Eden Gardens,1,3,8,-,7,0,1,114.28,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,25 May 2011,v MI,Wankhede,1,1,4,-,8,1,0,50,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,25 Sep 2011,v Somerset,Hyderabad,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,27 Sep 2011,v South Aust,Hyderabad,2,4,9,9,9,2,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,29 Sep 2011,v RCB,Bengaluru,2,3,55*,49,31,3,4,177.41,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Oct 2011,v Warriors,Bengaluru,2,3,33*,-,23,3,1,143.47,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Feb 2012,v Australia,Sydney,2,1,20,27,14,3,0,142.85,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 Feb 2012,v Australia,Melbourne,2,1,56*,91,60,4,0,93.33,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Mar 2012,v South Africa,Johannesburg,2,2,49*,36,28,7,1,175,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,5 Apr 2012,v Daredevils,Eden Gardens,1,3,16,24,15,2,0,106.66,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2012,v RR,Jaipur,2,3,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Apr 2012,v RCB,Bengaluru,1,2,64,77,39,9,1,164.1,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Apr 2012,v RR,Eden Gardens,2,2,11,18,11,2,0,100,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Apr 2012,v Kings XI,Eden Gardens,2,2,22,17,13,4,0,169.23,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,18 Apr 2012,v Kings XI,Mohali,2,2,66*,71,44,7,1,150,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Apr 2012,v Chargers,Cuttack,2,2,30,48,28,4,0,107.14,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2012,v RCB,Eden Gardens,1,2,93,91,51,9,5,182.35,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2012,v CSK,Chennai,2,1,63,92,52,6,1,121.15,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,5 May 2012,v Warriors,Eden Gardens,1,1,56,63,36,4,2,155.55,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2012,v Daredevils,Delhi,2,2,36,33,21,4,1,171.42,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,12 May 2012,v MI,Eden Gardens,2,2,0,2,2,0,0,0,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 May 2012,v CSK,Eden Gardens,1,1,62,50,43,6,3,144.18,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,16 May 2012,v MI,Wankhede,1,1,27,40,23,3,1,117.39,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2012,v Warriors,Pune,1,2,10,19,12,1,0,83.33,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,22 May 2012,v Daredevils,Pune,1,2,32,-,16,3,2,200,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,27 May 2012,v CSK,Chennai,2,2,2,-,4,0,0,50,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 Aug 2012,v Sri Lanka,Pallekele,1,1,6,7,8,1,0,75,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Sep 2012,v New Zealand,Chennai,2,1,3,12,6,0,0,50,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Sep 2012,v Afghanistan,Colombo (RPS),1,1,10,14,8,1,0,125,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,23 Sep 2012,v England,Colombo (RPS),1,1,45,70,38,5,0,118.42,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Sep 2012,v Australia,Colombo (RPS),1,1,17,12,12,3,0,141.66,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Sep 2012,v Pakistan,Colombo (RPS),2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 Oct 2012,v South Africa,Colombo (RPS),1,1,8,15,12,1,0,66.66,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Oct 2012,v Daredevils,Centurion,2,2,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Oct 2012,v Auckland,Cape Town,1,2,5,9,9,1,0,55.55,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Oct 2012,v Scorchers,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28763,Gautam Gambhir,21 Oct 2012,v Titans,Cape Town,1,2,44,63,36,4,1,122.22,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Dec 2012,v England,Pune,2,1,16,23,16,3,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Dec 2012,v England,Wankhede,1,1,17,52,27,1,0,62.96,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,25 Dec 2012,v Pakistan,Bengaluru,1,1,43,56,41,2,1,104.87,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Dec 2012,v Pakistan,Ahmedabad,1,1,21,22,11,4,0,190.9,lbw,2,DNB,-,-,-,-
+28763,Gautam Gambhir,18 Mar 2013,v Punjab,Gurgaon,2,1,68*,86,54,6,2,125.92,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 Apr 2013,v Daredevils,Eden Gardens,2,2,41,58,29,5,1,141.37,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2013,v RR,Jaipur,2,2,22,37,22,1,1,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Apr 2013,v RCB,Bengaluru,1,2,59,75,46,7,1,128.26,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,14 Apr 2013,v SRH,Eden Gardens,1,2,53,63,45,6,1,117.77,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Apr 2013,v Kings XI,Mohali,2,2,60,60,39,9,0,153.84,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Apr 2013,v CSK,Eden Gardens,1,1,25,27,19,5,0,131.57,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Apr 2013,v MI,Eden Gardens,1,2,26,39,20,2,1,130,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Apr 2013,v Kings XI,Eden Gardens,2,2,8,7,6,2,0,133.33,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2013,v CSK,Chennai,2,2,14,14,8,3,0,175,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 May 2013,v Daredevils,Raipur,1,2,0,2,0,0,0,-,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,3 May 2013,v RR,Eden Gardens,2,1,12,23,14,1,0,85.71,stumped,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2013,v MI,Wankhede,2,2,0,2,2,0,0,0,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 May 2013,v Warriors,Pune,1,2,50,59,44,6,0,113.63,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,12 May 2013,v RCB,Ranchi,2,2,14,26,15,3,0,93.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 May 2013,v Warriors,Ranchi,2,1,12,22,17,1,0,70.58,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2013,v SRH,Hyderabad,1,2,10,37,17,0,0,58.82,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Apr 2014,v Himachal,Mohali,2,1,41,59,40,6,0,102.5,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 Apr 2014,v J & K,Chandigarh,2,1,6,35,13,0,0,46.15,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 Apr 2014,v Punjab,Mohali,2,1,40,34,25,5,1,160,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,4 Apr 2014,v Haryana,Chandigarh,2,1,75*,71,53,7,3,141.5,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,5 Apr 2014,v Services,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Apr 2014,v MI,Abu Dhabi,1,1,0,10,8,0,0,0,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Apr 2014,v Daredevils,Dubai (DICS),1,2,0,11,4,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Apr 2014,v RCB,Sharjah,1,2,0,2,1,0,0,0,lbw,2,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Apr 2014,v Kings XI,Abu Dhabi,2,3,1,9,5,0,0,20,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,29 Apr 2014,v RR,Abu Dhabi,2,1,45,65,44,4,0,102.27,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 May 2014,v CSK,Ranchi,2,2,6,-,6,1,0,100,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,5 May 2014,v RR,Ahmedabad,2,2,54,62,34,6,1,158.82,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2014,v Daredevils,Delhi,2,2,69,91,56,5,2,123.21,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 May 2014,v Kings XI,Cuttack,2,2,63*,83,45,7,0,140,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 May 2014,v MI,Cuttack,2,2,14,35,18,1,0,77.77,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,18 May 2014,v SRH,Hyderabad,2,2,6,10,10,1,0,60,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,20 May 2014,v CSK,Eden Gardens,2,2,21,30,20,3,0,105,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 May 2014,v RCB,Eden Gardens,1,2,4,4,4,1,0,100,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,24 May 2014,v SRH,Eden Gardens,2,2,28,22,18,4,1,155.55,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,27 May 2014,v Kings XI,Eden Gardens,1,2,1,7,3,0,0,33.33,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Jun 2014,v Kings XI,Bengaluru,2,2,23,34,17,3,0,135.29,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Sep 2014,v CSK,Hyderabad,2,2,6,11,5,1,0,120,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,21 Sep 2014,v Lahore Lions,Hyderabad,2,2,60,66,47,8,0,127.65,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Sep 2014,v Scorchers,Hyderabad,2,2,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,29 Sep 2014,v Dolphins,Hyderabad,1,2,12,17,11,2,0,109.09,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,2 Oct 2014,v Hurricanes,Hyderabad,2,2,4,15,11,0,0,36.36,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,4 Oct 2014,v CSK,Bengaluru,1,2,80,72,52,7,3,153.84,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Mar 2015,v J & K,Delhi,1,2,10,31,20,2,0,50,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,25 Mar 2015,v Punjab,Delhi,2,2,4,3,3,1,0,133.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Mar 2015,v Himachal,Delhi,2,2,6,28,15,0,0,40,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,27 Mar 2015,v Haryana,Delhi,2,2,22,30,25,3,0,88,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2015,v MI,Eden Gardens,2,2,57,66,43,7,1,132.55,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Apr 2015,v RCB,Eden Gardens,1,2,58,66,46,7,1,126.08,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,18 Apr 2015,v Kings XI,Pune,2,2,11,40,19,1,0,57.89,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,20 Apr 2015,v Daredevils,Delhi,2,2,60,88,49,8,0,122.44,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Apr 2015,v SRH,Visakhapatnam,2,2,4,-,8,0,0,50,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2015,v CSK,Chennai,2,2,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2015,v CSK,Eden Gardens,2,2,19,-,16,0,2,118.75,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 May 2015,v RCB,Bengaluru,1,2,12,-,8,2,0,150,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,4 May 2015,v SRH,Eden Gardens,1,2,31,30,23,5,0,134.78,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2015,v Daredevils,Eden Gardens,1,2,12,23,10,2,0,120,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,9 May 2015,v Kings XI,Eden Gardens,2,2,24,39,23,4,0,104.34,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 May 2015,v MI,Wankhede,2,2,38,52,29,5,0,131.03,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 May 2015,v RR,Brabourne,2,2,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 Jan 2016,v Railways,Vadodara,2,2,10,11,6,2,0,166.66,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 Jan 2016,v Andhra,Vadodara,1,2,18,28,12,3,0,150,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,4 Jan 2016,v M. Pradesh,Vadodara,2,2,38,63,38,3,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,6 Jan 2016,v Assam,Vadodara,2,2,10,14,10,2,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 Jan 2016,v Goa,Vadodara,1,2,4,23,12,0,0,33.33,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Jan 2016,v Baroda,Vadodara,2,2,9,24,15,1,0,60,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Jan 2016,v Gujarat,Mumbai,1,2,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Jan 2016,v Jharkhand,Mumbai,2,2,6,12,10,1,0,60,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,18 Jan 2016,v UP,Mumbai,1,2,13,18,11,2,0,118.18,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Apr 2016,v Daredevils,Eden Gardens,2,2,38*,69,41,5,0,92.68,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Apr 2016,v MI,Eden Gardens,1,2,64,94,52,4,1,123.07,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Apr 2016,v SRH,Hyderabad,2,2,90*,90,60,13,1,150,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,19 Apr 2016,v Kings XI,Mohali,2,2,34,50,34,3,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,24 Apr 2016,v Supergiants,Pune,2,2,11,16,5,2,0,220,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2016,v MI,Wankhede,1,2,59,65,45,6,1,131.11,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2016,v Daredevils,Delhi,2,2,6,14,8,0,0,75,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 May 2016,v RCB,Bengaluru,2,2,37,49,29,4,1,127.58,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,4 May 2016,v Kings XI,Eden Gardens,1,2,54,59,45,6,1,120,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,8 May 2016,v Guj Lions,Eden Gardens,1,2,5,10,6,0,0,83.33,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,14 May 2016,v Supergiants,Eden Gardens,2,2,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 May 2016,v RCB,Eden Gardens,1,2,51,48,34,7,0,150,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2016,v Guj Lions,Kanpur,1,2,8,16,8,1,0,100,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,22 May 2016,v SRH,Eden Gardens,1,2,16,33,15,1,0,106.66,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,25 May 2016,v SRH,Delhi,2,2,28,41,28,2,1,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,29 Jan 2017,v J & K,Dharamsala,2,2,1,7,5,0,0,20,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Jan 2017,v Punjab,Dharamsala,1,2,5,18,5,0,0,100,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,31 Jan 2017,v Himachal,Nadaun,2,2,6,9,4,1,0,150,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,1 Feb 2017,v Haryana,Dharamsala,2,2,61,75,44,11,0,138.63,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,2 Feb 2017,v Services,Dharamsala,2,2,11,9,8,2,0,137.5,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,12 Feb 2017,v South Zone,Wankhede,2,2,81,75,51,12,0,158.82,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Feb 2017,v West Zone,Wankhede,1,2,60,90,58,4,1,103.44,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Feb 2017,v Central Zone,Wankhede,2,2,20,34,20,3,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Feb 2017,v East Zone,Wankhede,1,2,20,26,13,4,0,153.84,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,7 Apr 2017,v Guj Lions,Rajkot,2,1,76*,68,48,12,0,158.33,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 Apr 2017,v MI,Wankhede,1,1,19,24,13,3,0,146.15,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,13 Apr 2017,v Kings XI,Eden Gardens,2,2,72*,83,49,11,0,146.93,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,15 Apr 2017,v SRH,Eden Gardens,1,2,15,28,16,2,0,93.75,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,17 Apr 2017,v Daredevils,Delhi,2,1,14,15,12,2,0,116.66,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,21 Apr 2017,v Guj Lions,Eden Gardens,1,2,33,48,28,2,1,117.85,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,23 Apr 2017,v RCB,Eden Gardens,1,2,14,22,11,1,1,127.27,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Apr 2017,v Supergiant,Pune,2,2,62,83,46,6,1,134.78,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,28 Apr 2017,v Daredevils,Eden Gardens,2,2,71*,87,52,11,0,136.53,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,30 Apr 2017,v SRH,Hyderabad,2,2,11,11,11,2,0,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,3 May 2017,v Supergiant,Eden Gardens,1,2,24,26,19,3,1,126.31,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,7 May 2017,v RCB,Bengaluru,2,4,14,26,16,0,0,87.5,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,9 May 2017,v Kings XI,Mohali,2,3,8,25,18,0,0,44.44,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,13 May 2017,v MI,Eden Gardens,2,3,21,18,16,3,1,131.25,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,17 May 2017,v SRH,Bengaluru,2,4,32*,-,19,2,2,168.42,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,19 May 2017,v MI,Bengaluru,1,3,12,27,15,2,0,80,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,9 Jan 2018,v Punjab,Delhi,2,1,66,86,54,6,2,122.22,run out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,10 Jan 2018,v Haryana,Delhi,2,1,19,27,20,2,0,95,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,12 Jan 2018,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 Jan 2018,v Himachal,Delhi,2,1,30*,53,33,4,0,90.9,not out,1,DNB,-,-,-,-
+28763,Gautam Gambhir,21 Jan 2018,v Tamil Nadu,Eden Gardens,2,1,21,27,21,2,1,100,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,22 Jan 2018,v Baroda,Eden Gardens,2,1,7,21,7,0,1,100,lbw,1,DNB,-,-,-,-
+28763,Gautam Gambhir,23 Jan 2018,v Bengal,Kolkata,2,1,1,18,8,0,0,12.5,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,25 Jan 2018,v UP,Kolkata,1,1,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,26 Jan 2018,v Rajasthan,Eden Gardens,1,1,27,23,23,4,1,117.39,bowled,2,DNB,-,-,-,-
+28763,Gautam Gambhir,8 Apr 2018,v Kings XI,Mohali,1,2,55,-,42,5,1,130.95,run out,2,DNB,-,-,-,-
+28763,Gautam Gambhir,11 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28763,Gautam Gambhir,14 Apr 2018,v MI,Wankhede,2,2,15,-,16,2,0,93.75,caught,1,DNB,-,-,-,-
+28763,Gautam Gambhir,16 Apr 2018,v KKR,Eden Gardens,2,1,8,-,7,1,0,114.28,bowled,1,DNB,-,-,-,-
+28763,Gautam Gambhir,21 Apr 2018,v RCB,Bengaluru,1,2,3,-,10,0,0,30,caught,2,DNB,-,-,-,-
+28763,Gautam Gambhir,23 Apr 2018,v Kings XI,Delhi,2,2,4,-,13,0,0,30.76,caught,1,DNB,-,-,-,-

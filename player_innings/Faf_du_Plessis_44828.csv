@@ -1,0 +1,432 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+44828,Faf du Plessis,25 Feb 2007,v Eagles,Centurion,2,1,33,20,19,6,1,173.68,caught,1,1.0,0,11,1,11
+44828,Faf du Plessis,2 Mar 2007,v Warriors,Gqeberha,1,2,0,3,3,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 Mar 2007,v Cape Cobras,Cape Town,2,1,18,15,14,2,0,128.57,run out,1,4.0,0,26,2,6.5
+44828,Faf du Plessis,9 Mar 2007,v Lions,Johannesburg,1,1,4,9,10,0,0,40,caught,2,1.0,0,21,0,21
+44828,Faf du Plessis,14 Mar 2007,v Dolphins,Benoni,1,2,76,67,43,10,3,176.74,caught,2,3.0,0,27,2,9
+44828,Faf du Plessis,18 Mar 2007,v Lions,Johannesburg,2,2,19,40,20,3,0,95,caught,1,4.0,0,35,0,8.75
+44828,Faf du Plessis,28 Mar 2008,v Warriors,Benoni,1,4,29,28,21,3,0,138.09,bowled,2,4.0,0,24,3,6
+44828,Faf du Plessis,30 Mar 2008,v Eagles,Kimberley,1,4,22,27,27,0,0,81.48,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Apr 2008,v Cape Cobras,Centurion,2,4,0,2,1,0,0,0,bowled,1,3.0,0,30,1,10
+44828,Faf du Plessis,9 Apr 2008,v Dolphins,Durban,2,4,1,5,4,0,0,25,caught,1,3.0,0,18,0,6
+44828,Faf du Plessis,11 Apr 2008,v Zimbabwe,Centurion,2,2,4,17,11,0,0,36.36,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,13 Apr 2008,v Lions,Centurion,1,3,0,2,4,0,0,0,caught,2,2.0,0,7,1,3.5
+44828,Faf du Plessis,20 Apr 2008,v Cape Cobras,Cape Town,1,2,44,43,34,2,3,129.41,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2008,v Dolphins,Durban,1,2,0,9,4,0,0,0,caught,2,1.0,0,3,1,3
+44828,Faf du Plessis,11 Jun 2008,v Leics,Leicester,1,4,45,37,34,3,2,132.35,caught,2,4.0,0,19,2,4.75
+44828,Faf du Plessis,13 Jun 2008,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,1,15
+44828,Faf du Plessis,15 Jun 2008,v Leics,Manchester,1,4,8,16,11,0,0,72.72,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Jun 2008,v Durham,Manchester,1,4,3,8,9,0,0,33.33,caught,2,3.0,0,31,1,10.33
+44828,Faf du Plessis,18 Jun 2008,v Yorkshire,Leeds,1,4,10,20,15,1,0,66.66,caught,2,2.0,0,13,2,6.5
+44828,Faf du Plessis,20 Jun 2008,v Yorkshire,Manchester,2,4,42,48,38,3,0,110.52,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Jun 2008,v Notts,Nottingham,2,4,57*,47,37,7,1,154.05,not out,1,3.0,0,13,1,4.33
+44828,Faf du Plessis,23 Jun 2008,v Derbyshire,Manchester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+44828,Faf du Plessis,25 Jun 2008,v Notts,Manchester,1,4,19,20,21,1,0,90.47,caught,2,3.0,0,16,2,5.33
+44828,Faf du Plessis,27 Jun 2008,v Durham,Chester-le-Street,2,4,0*,1,0,0,0,-,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,8 Jul 2008,v Middlesex,The Oval,2,5,18,16,12,3,0,150,caught,1,1.0,0,20,0,20
+44828,Faf du Plessis,21 Jan 2009,v Warriors,Gqeberha,2,4,0,2,1,0,0,0,bowled,1,4.0,0,23,2,5.75
+44828,Faf du Plessis,25 Jan 2009,v Dolphins,Centurion,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+44828,Faf du Plessis,1 Feb 2009,v Cape Cobras,Cape Town,2,5,25,25,19,2,0,131.57,caught,1,4.0,0,28,0,7
+44828,Faf du Plessis,6 Feb 2009,v Eagles,Centurion,2,3,3,6,7,0,0,42.85,stumped,1,3.0,0,18,1,6
+44828,Faf du Plessis,26 May 2009,v Yorkshire,Manchester,2,4,1,2,3,0,0,33.33,caught,1,2.0,0,4,1,2
+44828,Faf du Plessis,28 May 2009,v Notts,Manchester,1,4,31,22,21,4,1,147.61,bowled,2,3.0,0,16,1,5.33
+44828,Faf du Plessis,29 May 2009,v Yorkshire,Leeds,2,4,0,0,1,0,0,0,lbw,1,3.0,0,22,1,7.33
+44828,Faf du Plessis,31 May 2009,v Leics,Leicester,2,4,78*,48,49,13,2,159.18,not out,1,1.0,0,4,0,4
+44828,Faf du Plessis,2 Jun 2009,v Derbyshire,Manchester,1,4,5,10,10,0,0,50,stumped,2,3.0,0,26,1,8.66
+44828,Faf du Plessis,4 Jun 2009,v Durham,Manchester,2,4,36,29,32,2,1,112.5,caught,1,3.0,0,16,1,5.33
+44828,Faf du Plessis,22 Jun 2009,v Leics,Liverpool,2,4,1,3,3,0,0,33.33,caught,1,2.0,0,15,0,7.5
+44828,Faf du Plessis,25 Jun 2009,v Derbyshire,Derby,1,4,1,4,2,0,0,50,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 Feb 2010,v Dolphins,Durban,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+44828,Faf du Plessis,7 Feb 2010,v Cape Cobras,Centurion,1,3,18*,20,10,1,1,180,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Feb 2010,v Lions,Centurion,1,3,0,3,1,0,0,0,bowled,2,2.0,0,20,0,10
+44828,Faf du Plessis,14 Feb 2010,v Eagles,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+44828,Faf du Plessis,21 Feb 2010,v Warriors,Centurion,1,4,18,16,14,0,1,128.57,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Feb 2010,v Lions,Johannesburg,1,4,23,36,24,1,1,95.83,caught,2,4.0,0,18,3,4.5
+44828,Faf du Plessis,9 Oct 2011,v Easterns,Pretoria,1,3,6,9,5,1,0,120,caught,2,4.0,0,19,5,4.75
+44828,Faf du Plessis,9 Mar 2012,v Dolphins,Centurion,1,3,20*,28,17,1,0,117.64,not out,-,TDNB,-,-,-,-
+44828,Faf du Plessis,11 Mar 2012,v Lions,Johannesburg,2,3,20,37,23,1,0,86.95,caught,1,4.0,0,28,5,7
+44828,Faf du Plessis,14 Mar 2012,v Impi,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+44828,Faf du Plessis,18 Mar 2012,v Cape Cobras,Centurion,2,4,38*,49,27,1,3,140.74,not out,1,2.0,0,13,0,6.5
+44828,Faf du Plessis,21 Mar 2012,v Warriors,Centurion,2,3,22*,33,18,2,0,122.22,not out,1,1.1,0,1,0,0.85
+44828,Faf du Plessis,25 Mar 2012,v Knights,Centurion,2,4,6,10,5,1,0,120,caught,1,3.0,0,20,1,6.66
+44828,Faf du Plessis,1 Apr 2012,v Lions,Johannesburg,1,4,22,26,19,2,0,115.78,caught,2,4.0,0,24,4,6
+44828,Faf du Plessis,4 Apr 2012,v MI,Chennai,1,1,3,4,2,0,0,150,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 Apr 2012,v Chargers,Visakhapatnam,1,2,39,36,25,1,4,156,caught,2,1.0,0,16,0,16
+44828,Faf du Plessis,10 Apr 2012,v Daredevils,Delhi,1,1,15,14,12,3,0,125,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Apr 2012,v RCB,Chennai,2,2,71,54,46,5,4,154.34,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Apr 2012,v Warriors,Pune,1,1,43,40,33,5,2,130.3,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Apr 2012,v Warriors,Chennai,1,1,58,79,48,4,2,120.83,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Apr 2012,v RR,Chennai,2,2,73,78,52,6,2,140.38,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2012,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44828,Faf du Plessis,28 Apr 2012,v Kings XI,Chennai,2,1,29,23,20,3,2,145,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Apr 2012,v KKR,Chennai,1,1,3,8,4,0,0,75,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 May 2012,v Chargers,Chennai,1,1,42,63,35,2,1,120,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,6 May 2012,v MI,Wankhede,1,2,9,26,11,0,0,81.81,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 May 2012,v KKR,Eden Gardens,2,4,13,33,16,0,0,81.25,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Jun 2012,v Bdesh XI,Harare,1,2,13,17,14,1,0,92.85,caught,2,4.0,0,21,0,5.25
+44828,Faf du Plessis,23 Jun 2012,v Zimbabwe XI,Harare,2,3,14,36,14,2,0,100,caught,1,4.0,0,22,0,5.5
+44828,Faf du Plessis,24 Jun 2012,v Zimbabwe XI,Harare,1,4,66,77,57,4,1,115.78,caught,2,3.0,0,18,0,6
+44828,Faf du Plessis,8 Sep 2012,v England,Chester-le-Street,2,3,4,4,3,0,0,133.33,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,12 Sep 2012,v England,Birmingham,2,3,8,15,6,1,0,133.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Sep 2012,v Sri Lanka,Hambantota,1,3,13,29,11,0,0,118.18,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2012,v India,Colombo (RPS),2,4,65,40,38,6,2,171.05,caught,1,1.0,0,3,0,3
+44828,Faf du Plessis,14 Oct 2012,v Sixers,Johannesburg,2,3,43,28,25,5,2,172,caught,1,4.0,0,35,0,8.75
+44828,Faf du Plessis,16 Oct 2012,v Lions,Cape Town,1,1,25,26,20,2,1,125,caught,2,1.0,0,14,0,14
+44828,Faf du Plessis,20 Oct 2012,v MI,Johannesburg,1,2,52,46,33,6,1,157.57,caught,2,1.0,0,3,1,3
+44828,Faf du Plessis,22 Oct 2012,v Yorkshire,Durban,2,1,1,5,4,0,0,25,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 Dec 2012,v Stars,Melbourne (Docklands),2,3,14,32,17,0,0,82.35,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 Dec 2012,v New Zealand,Durban,2,3,38*,45,32,6,0,118.75,not out,1,0.2,0,0,0,0
+44828,Faf du Plessis,23 Dec 2012,v New Zealand,East London,1,3,63,68,43,8,1,146.51,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Dec 2012,v New Zealand,Gqeberha,1,2,1,5,9,0,0,11.11,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 Mar 2013,v Pakistan,Centurion,2,3,6,12,4,0,0,150,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Aug 2013,v Sri Lanka,Colombo (RPS),1,3,8,17,11,1,0,72.72,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Aug 2013,v Sri Lanka,Hambantota,1,3,12,24,15,0,1,80,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,6 Aug 2013,v Sri Lanka,Hambantota,1,3,85,83,65,10,3,130.76,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,13 Nov 2013,v Pakistan,Dubai (DICS),2,3,37*,41,40,4,1,92.5,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,15 Nov 2013,v Pakistan,Dubai (DICS),1,3,58*,56,48,1,3,120.83,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 Nov 2013,v Pakistan,Johannesburg,1,3,22,40,22,1,0,100,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Nov 2013,v Pakistan,Cape Town,2,3,6,9,10,0,0,60,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Jan 2014,v Dolphins,Cape Town,2,4,24,41,21,1,0,114.28,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Jan 2014,v Cape Cobras,Centurion,2,2,0,6,1,0,0,0,caught,1,1.1,0,3,0,2.57
+44828,Faf du Plessis,19 Jan 2014,v Knights,Centurion,1,3,0,2,2,0,0,0,caught,2,1.0,0,9,0,9
+44828,Faf du Plessis,22 Jan 2014,v Cape Cobras,Cape Town,2,3,14,25,23,0,0,60.86,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jan 2014,v Warriors,East London,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Jan 2014,v Lions,Benoni,2,3,6,8,7,0,0,85.71,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Jan 2014,v Dolphins,Centurion,1,3,2,6,6,0,0,33.33,caught,2,1.0,0,10,0,10
+44828,Faf du Plessis,12 Mar 2014,v Australia,Durban,1,3,27*,28,13,2,2,207.69,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 Mar 2014,v Australia,Centurion,1,3,5,6,6,1,0,83.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Mar 2014,v New Zealand,Chattogram,1,3,13,9,8,2,0,162.5,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Mar 2014,v Netherlands,Chattogram,1,3,24,36,14,3,1,171.42,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Apr 2014,v India,Mirpur,1,3,58,53,41,5,2,141.46,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 Apr 2014,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Apr 2014,v Daredevils,Abu Dhabi,1,4,24,31,17,1,1,141.17,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,23 Apr 2014,v RR,Dubai (DICS),1,4,7,17,9,0,0,77.77,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2014,v MI,Dubai (DICS),2,4,20,36,25,0,0,80,stumped,1,DNB,-,-,-,-
+44828,Faf du Plessis,27 Apr 2014,v SRH,Sharjah,2,5,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 May 2014,v KKR,Ranchi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 May 2014,v Kings XI,Cuttack,2,5,52,31,25,7,1,208,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,10 May 2014,v MI,Wankhede,2,4,31,41,24,2,1,129.16,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,13 May 2014,v RR,Ranchi,2,4,38,64,39,2,0,97.43,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,20 May 2014,v KKR,Eden Gardens,1,4,23,28,20,2,0,115,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 May 2014,v SRH,Ranchi,1,2,19,14,11,4,0,172.72,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 May 2014,v RCB,Bengaluru,2,2,54*,75,43,3,3,125.58,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,28 May 2014,v MI,Brabourne,2,2,35,-,20,5,1,175,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 May 2014,v Kings XI,Wankhede,2,2,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Sep 2014,v KKR,Hyderabad,1,4,14,28,16,1,0,87.5,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Sep 2014,v Dolphins,Bengaluru,1,4,30,35,19,3,1,157.89,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2014,v Kings XI,Hyderabad,1,4,46,34,33,5,1,139.39,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Oct 2014,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Jan 2015,v West Indies,Cape Town,1,3,38,25,20,5,2,190,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Jan 2015,v West Indies,Johannesburg,1,3,119,99,56,11,5,212.5,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Apr 2015,v Daredevils,Chennai,1,4,32,34,24,3,0,133.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Apr 2015,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Apr 2015,v MI,Wankhede,2,4,11,20,13,2,0,84.61,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 Apr 2015,v RR,Ahmedabad,1,4,1,5,3,0,0,33.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Apr 2015,v RCB,Bengaluru,1,6,33*,30,18,4,1,183.33,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2015,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44828,Faf du Plessis,28 Apr 2015,v KKR,Chennai,1,4,29*,58,29,1,0,100,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Apr 2015,v KKR,Eden Gardens,1,4,20,-,11,5,0,181.81,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 May 2015,v SRH,Hyderabad,2,4,33,36,22,4,0,150,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 May 2015,v RCB,Chennai,1,4,24,47,20,0,1,120,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,8 May 2015,v MI,Chennai,1,4,17,31,16,0,1,106.25,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 May 2015,v RR,Chennai,1,4,29,59,25,3,0,116,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 May 2015,v Daredevils,Raipur,1,4,29,33,23,3,0,126.08,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 May 2015,v Kings XI,Mohali,2,3,55,56,41,5,1,134.14,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 May 2015,v MI,Wankhede,2,3,45,66,34,5,1,132.35,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 May 2015,v RCB,Ranchi,2,3,21,31,22,2,0,95.45,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 May 2015,v MI,Eden Gardens,2,7,1,3,3,0,0,33.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Jul 2015,v Bangladesh,Mirpur,1,3,79*,88,61,8,0,129.5,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 Jul 2015,v Bangladesh,Mirpur,1,4,16,26,17,1,0,94.11,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2015,v India,Dharamsala,2,3,4,14,5,0,0,80,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Oct 2015,v India,Cuttack,2,3,16,13,14,2,1,114.28,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 Feb 2016,v England,Cape Town,2,3,25,51,30,1,0,83.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 Feb 2016,v England,Johannesburg,2,3,22*,20,21,2,0,104.76,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 Mar 2016,v Australia,Durban,2,3,40,44,26,4,1,153.84,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,6 Mar 2016,v Australia,Johannesburg,1,3,79,80,41,5,5,192.68,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Mar 2016,v Australia,Cape Town,1,3,4,14,7,0,0,57.14,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 Mar 2016,v England,Wankhede,1,4,17,26,17,1,0,100,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 Mar 2016,v Afghanistan,Wankhede,1,3,41,30,27,7,1,151.85,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Mar 2016,v West Indies,Nagpur,1,3,9,9,7,0,1,128.57,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,28 Mar 2016,v Sri Lanka,Delhi,2,3,31,41,36,3,0,86.11,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Apr 2016,v MI,Wankhede,2,2,34,46,33,1,3,103.03,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Apr 2016,v Guj Lions,Rajkot,1,2,69,70,43,5,4,160.46,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Apr 2016,v Kings XI,Mohali,1,2,67,95,53,8,0,126.41,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Apr 2016,v RCB,Pune,2,2,2,7,3,0,0,66.66,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Apr 2016,v KKR,Pune,1,2,4,15,9,0,0,44.44,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Apr 2016,v SRH,Hyderabad,2,2,30,46,21,3,2,142.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Jun 2016,v Amazon,Basseterre,1,3,30,-,28,2,1,107.14,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Jul 2016,v Tallawahs,Basseterre,2,3,27,-,29,1,1,93.1,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,3 Jul 2016,v Zouks,Basseterre,1,3,9,-,12,0,0,75,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 Jul 2016,v Tridents,Basseterre,1,3,8,-,10,0,0,80,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Jul 2016,v Amazon,Providence,1,4,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,13 Jul 2016,v Tridents,Bridgetown,2,3,42,-,34,5,0,123.52,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,16 Jul 2016,v Tallawahs,Kingston,2,3,12,-,13,1,1,92.3,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 Jul 2016,v Zouks,Gros Islet,2,4,48,-,37,3,1,129.72,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Jul 2016,v Trinbago,Lauderhill,1,4,2,-,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,31 Jul 2016,v Trinbago,Lauderhill,1,3,0,-,4,0,0,0,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Feb 2017,v New Zealand,Auckland,1,3,36,36,25,1,3,144,lbw,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Apr 2017,v Daredevils,Pune,2,3,8,18,7,1,0,114.28,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Apr 2017,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Sep 2017,v Pakistan,Lahore,2,4,29,-,18,4,1,161.11,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,13 Sep 2017,v Pakistan,Lahore,2,4,20,-,14,0,2,142.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,15 Sep 2017,v Pakistan,Lahore,2,4,13,-,13,1,0,100,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Apr 2018,v SRH,Hyderabad,1,2,11,-,13,1,0,84.61,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Apr 2018,v Daredevils,Pune,1,2,33,-,33,3,1,100,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 May 2018,v KKR,Eden Gardens,1,2,27,-,15,4,1,180,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 May 2018,v Kings XI,Pune,2,2,14,-,15,3,0,93.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 May 2018,v SRH,Wankhede,2,2,67*,-,42,5,4,159.52,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,27 May 2018,v SRH,Wankhede,2,2,10,-,11,1,0,90.9,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Oct 2018,v Zimbabwe,East London,1,3,34,25,20,5,2,170,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Oct 2018,v Zimbabwe,Potchefstroom,2,3,12,20,9,2,0,133.33,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Nov 2018,v Australia,Carrara,1,3,27,-,15,4,0,180,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Nov 2018,v Blitz,Paarl,2,3,54,77,39,6,0,138.46,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,28 Nov 2018,v Durban Heat,Durban,1,3,15*,9,6,1,1,250,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Nov 2018,v Giants,Gqeberha,2,3,7,9,6,1,0,116.66,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Dec 2018,v Durban Heat,Paarl,2,3,76*,74,48,9,0,158.33,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Dec 2018,v Spartans,Centurion,1,3,38,20,19,5,2,200,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 Dec 2018,v Blitz,Cape Town,1,3,61,65,39,4,2,156.41,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Dec 2018,v Jozi Stars,Johannesburg,2,3,61,55,34,7,2,179.41,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,12 Dec 2018,v Giants,Paarl,2,3,6,16,12,0,0,50,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Dec 2018,v Jozi Stars,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44828,Faf du Plessis,1 Feb 2019,v Pakistan,Cape Town,1,3,78,58,45,6,4,173.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Mar 2019,v Sri Lanka,Cape Town,2,3,21,23,23,2,1,91.3,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,6 Apr 2019,v Kings XI,Chennai,1,2,54,65,38,2,4,142.1,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Apr 2019,v KKR,Chennai,2,2,43*,89,45,3,0,95.55,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,11 Apr 2019,v RR,Jaipur,2,2,7,22,10,0,0,70,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Apr 2019,v KKR,Eden Gardens,2,2,24,29,16,5,0,150,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Apr 2019,v SRH,Hyderabad,1,2,45,50,31,3,3,145.16,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Apr 2019,v RCB,Bengaluru,2,2,5,25,15,0,0,33.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,23 Apr 2019,v SRH,Chennai,2,2,1,12,7,0,0,14.28,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 May 2019,v DC,Chennai,1,1,39,60,41,2,2,95.12,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 May 2019,v Kings XI,Mohali,1,1,96,89,55,10,4,174.54,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 May 2019,v MI,Chennai,1,1,6,11,11,1,0,54.54,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 May 2019,v DC,Visakhapatnam,2,1,50,52,39,7,1,128.2,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,12 May 2019,v MI,Hyderabad,2,1,26,-,13,3,1,200,stumped,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Aug 2019,v Gloucs,Canterbury,2,3,60,70,45,7,0,133.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Aug 2019,v Essex,Chelmsford,2,3,32,22,21,1,2,152.38,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,10 Nov 2019,v Blitz,Paarl,1,3,38,29,20,1,4,190,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Nov 2019,v Spartans,Paarl,1,3,0,6,3,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Nov 2019,v Jozi Stars,Paarl,2,4,5,16,9,1,0,55.55,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Nov 2019,v Blitz,Cape Town,1,3,21,30,18,1,1,116.66,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Nov 2019,v Giants,Gqeberha,1,3,27,23,21,1,2,128.57,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,29 Nov 2019,v Spartans,Centurion,1,3,19,45,21,1,0,90.47,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,1 Dec 2019,v Jozi Stars,Johannesburg,2,3,18,18,16,1,1,112.5,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 Dec 2019,v Durban Heat,Paarl,1,3,66*,66,36,3,4,183.33,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,8 Dec 2019,v Giants,Paarl,1,3,22,29,19,0,1,115.78,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 Dec 2019,v Spartans,Paarl,2,4,3*,7,4,0,0,75,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 Feb 2020,v Australia,Johannesburg,2,3,24,34,22,3,0,109.09,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,23 Feb 2020,v Australia,Gqeberha,1,3,15,14,14,1,0,107.14,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Feb 2020,v Australia,Cape Town,2,3,5,11,7,0,0,71.42,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 Sep 2020,v MI,Abu Dhabi,2,3,58*,-,44,6,0,131.81,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Sep 2020,v RR,Sharjah,2,3,72,-,37,1,7,194.59,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,25 Sep 2020,v DC,Dubai (DICS),2,3,43,-,35,4,0,122.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2020,v SRH,Dubai (DICS),2,1,22,-,19,4,0,115.78,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 Oct 2020,v Kings XI,Dubai (DICS),2,2,87*,-,53,11,1,164.15,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 Oct 2020,v KKR,Abu Dhabi,2,2,17,-,10,3,0,170,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,10 Oct 2020,v RCB,Dubai (DICS),2,2,8,-,10,0,0,80,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,13 Oct 2020,v SRH,Dubai (DICS),1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Oct 2020,v DC,Sharjah,1,2,58,-,47,6,2,123.4,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Oct 2020,v RR,Abu Dhabi,1,2,10,-,9,1,0,111.11,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,23 Oct 2020,v MI,Sharjah,1,2,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Oct 2020,v RCB,Dubai (DICS),2,2,25,-,13,2,2,192.3,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 Nov 2020,v Kings XI,Abu Dhabi,2,2,48,-,34,4,2,141.17,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Nov 2020,v Qalandars,Karachi,1,4,31,-,25,1,1,124,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Nov 2020,v England,Cape Town,1,3,58,-,40,4,2,145,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,29 Nov 2020,v England,Paarl,1,4,11,-,11,1,0,100,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,1 Dec 2020,v England,Cape Town,1,4,52*,-,37,5,3,140.54,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Feb 2021,v Zalmi,Karachi,1,3,37,43,26,4,1,142.3,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,1 Mar 2021,v United,Karachi,1,3,17,18,11,3,0,154.54,lbw,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 Mar 2021,v Sultans,Karachi,1,3,17,27,17,1,0,100,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Apr 2021,v DC,Wankhede,1,2,0,11,3,0,0,0,lbw,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 Apr 2021,v Punjab Kings,Wankhede,2,2,36*,80,33,3,1,109.09,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 Apr 2021,v RR,Wankhede,1,2,33,29,17,4,2,194.11,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Apr 2021,v KKR,Wankhede,1,2,95*,105,60,9,4,158.33,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2021,v RCB,Wankhede,1,2,50,74,41,5,1,121.95,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,28 Apr 2021,v SRH,Delhi,2,2,56,72,38,6,1,147.36,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 May 2021,v MI,Delhi,1,2,50,62,28,2,4,178.57,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Jun 2021,v United,Abu Dhabi,1,2,5,-,8,0,0,62.5,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Jun 2021,v Zalmi,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,27 Aug 2021,v Tallawahs,Basseterre,2,3,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Aug 2021,v Trinbago,Basseterre,1,3,10,16,15,0,0,66.66,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,31 Aug 2021,v Trinbago,Basseterre,2,3,14,32,24,1,0,58.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Sep 2021,v Amazon,Basseterre,1,2,2,9,3,0,0,66.66,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Sep 2021,v Patriots,Basseterre,1,2,120*,103,60,13,5,200,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 Sep 2021,v Patriots,Basseterre,2,2,22,19,15,1,2,146.66,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,8 Sep 2021,v Amazon,Basseterre,2,2,19,19,17,1,1,111.76,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Sep 2021,v Tallawahs,Basseterre,2,2,6,-,4,1,0,150,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,11 Sep 2021,v Royals,Basseterre,1,3,84,82,54,5,4,155.55,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Sep 2021,v MI,Dubai (DICS),1,2,0,5,3,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Sep 2021,v RCB,Sharjah,2,2,31,48,26,2,2,119.23,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Sep 2021,v KKR,Abu Dhabi,2,2,43,53,30,7,0,143.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Sep 2021,v SRH,Sharjah,2,2,41,72,36,3,2,113.88,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2021,v RR,Abu Dhabi,1,2,25,37,19,2,1,131.57,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Oct 2021,v DC,Dubai (DICS),1,2,10,16,8,2,0,125,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,2,76,102,55,8,2,138.18,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Oct 2021,v DC,Dubai (DICS),2,2,1,4,2,0,0,50,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,15 Oct 2021,v KKR,Dubai (DICS),1,2,86,104,59,7,3,145.76,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Jan 2022,v Sunrisers,Mirpur,2,2,2,14,7,0,0,28.57,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,25 Jan 2022,v Barishal,Mirpur,1,3,6,7,11,1,0,54.54,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,31 Jan 2022,v Chattogram,Chattogram,1,3,83*,86,55,8,3,150.9,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,1 Feb 2022,v Dhaka,Chattogram,2,3,8,10,7,1,0,114.28,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,3 Feb 2022,v Chattogram,Mirpur,2,3,0*,2,0,0,0,-,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Feb 2022,v Sunrisers,Sylhet,2,3,2,8,5,0,0,40,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,11 Feb 2022,v Khulna,Mirpur,1,3,38,61,36,3,1,105.55,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Feb 2022,v Khulna,Mirpur,1,4,101,77,54,12,3,187.03,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 Feb 2022,v Barishal,Mirpur,2,4,21,40,15,1,1,140,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,16 Feb 2022,v Chattogram,Mirpur,2,4,30*,37,23,2,1,130.43,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,18 Feb 2022,v Barishal,Mirpur,1,4,4,17,7,0,0,57.14,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Mar 2022,v Punjab Kings,DY Patil,1,1,88,82,57,3,7,154.38,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Mar 2022,v KKR,DY Patil,2,1,5,11,4,1,0,125,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Apr 2022,v RR,Wankhede,2,1,29,34,20,5,0,145,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Apr 2022,v MI,Pune,2,1,16,41,24,1,0,66.66,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,12 Apr 2022,v CSK,DY Patil,2,1,8,13,9,0,0,88.88,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,16 Apr 2022,v DC,Wankhede,1,1,8,17,11,2,0,72.72,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Apr 2022,v LSG,DY Patil,1,2,96,106,64,11,2,150,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,23 Apr 2022,v SRH,Brabourne,1,1,5,7,7,1,0,71.42,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Apr 2022,v RR,Pune,2,2,23,30,21,3,1,109.52,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Apr 2022,v GT,Brabourne,1,2,0,12,4,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 May 2022,v CSK,Pune,1,2,38,32,22,4,1,172.72,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,8 May 2022,v SRH,Wankhede,1,2,73*,109,50,8,2,146,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,13 May 2022,v Punjab Kings,Brabourne,2,2,10,25,8,2,0,125,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,19 May 2022,v GT,Wankhede,2,2,44,70,38,5,0,115.78,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,25 May 2022,v LSG,Eden Gardens,1,2,0,6,1,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 May 2022,v RR,Ahmedabad,1,2,25,50,27,3,0,92.59,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 Aug 2022,v Originals,Manchester,2,2,15,-,11,0,2,136.36,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 Aug 2022,v Rockets,Leeds,1,2,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Aug 2022,v Invincibles,The Oval,1,2,9,15,10,0,1,90,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 Aug 2022,v Spirit,Leeds,1,1,56,-,35,6,2,160,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Aug 2022,v Phoenix,Birmingham,1,1,9,16,6,1,0,150,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Aug 2022,v Originals,Leeds,2,1,6,10,6,1,0,100,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Aug 2022,v Fire,Cardiff,2,2,32,-,24,2,2,133.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,31 Aug 2022,v Brave,Leeds,1,1,7,8,5,1,0,140,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Sep 2022,v Royals,Basseterre,2,2,47*,-,20,2,4,235,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 Sep 2022,v Tallawahs,Gros Islet,2,3,0,3,2,0,0,0,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,8 Sep 2022,v Royals,Gros Islet,1,3,7,19,10,0,0,70,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Sep 2022,v Amazon,Gros Islet,1,2,31,36,20,0,4,155,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Sep 2022,v Patriots,Gros Islet,1,2,60,63,35,3,5,171.42,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Sep 2022,v Patriots,Tarouba,1,1,41,19,21,5,2,195.23,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 Sep 2022,v Trinbago,Tarouba,1,1,2,9,4,0,0,50,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Sep 2022,v Amazon,Providence,1,1,103,96,59,10,6,174.57,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Sep 2022,v Tallawahs,Providence,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44828,Faf du Plessis,27 Sep 2022,v Tallawahs,Providence,2,2,41,-,26,4,2,157.69,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Dec 2022,v Sixers,Perth,1,2,14,18,12,3,0,116.66,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Dec 2022,v Hurricanes,Launceston,2,2,32,19,16,3,3,200,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,23 Dec 2022,v Stars,Melbourne,1,2,68,43,33,6,5,206.06,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,26 Dec 2022,v Strikers,Perth,2,1,6,3,4,0,1,150,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Dec 2022,v Stars,Perth,2,2,3,10,5,0,0,60,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 Jan 2023,v Renegades,Melbourne (Docklands),2,1,39,42,29,5,0,134.48,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 Jan 2023,v Thunder,Perth,1,2,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Jan 2023,v Super Giants,Durban,1,3,39,53,33,3,0,118.18,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,13 Jan 2023,v Paarl Royals,Paarl,1,3,2,9,6,0,0,33.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 Jan 2023,v MI Cape Town,Cape Town,1,3,8,19,14,0,0,57.14,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Jan 2023,v Capitals,Johannesburg,1,2,27,34,16,5,0,168.75,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 Jan 2023,v Capitals,Centurion,1,2,51,33,22,9,2,231.81,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Jan 2023,v Sunrisers,Gqeberha,2,2,37,-,38,4,0,97.36,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jan 2023,v Super Giants,Johannesburg,2,2,113*,86,58,8,8,194.82,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,3 Feb 2023,v Paarl Royals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Feb 2023,v Sunrisers,Johannesburg,1,1,92,90,61,7,4,150.81,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,6 Feb 2023,v MI Cape Town,Johannesburg,1,1,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 Feb 2023,v Sunrisers,Centurion,2,1,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Apr 2023,v MI,Bengaluru,2,2,73,66,43,5,6,169.76,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,6 Apr 2023,v KKR,Eden Gardens,2,2,23,24,12,2,2,191.66,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,10 Apr 2023,v LSG,Bengaluru,1,2,79*,104,46,5,5,171.73,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,15 Apr 2023,v DC,Bengaluru,1,2,22,21,16,3,1,137.5,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,17 Apr 2023,v CSK,Bengaluru,2,2,62,64,33,5,4,187.87,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,20 Apr 2023,v Punjab Kings,Mohali,1,2,84,78,56,5,5,150,caught,2,sub,-,-,-,-
+44828,Faf du Plessis,23 Apr 2023,v RR,Bengaluru,1,2,62,71,39,8,2,158.97,run out,2,sub,-,-,-,-
+44828,Faf du Plessis,26 Apr 2023,v KKR,Bengaluru,2,2,17,12,7,1,2,242.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 May 2023,v LSG,Lucknow,1,2,44,83,40,1,1,110,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,6 May 2023,v DC,Delhi,1,2,45,46,32,5,1,140.62,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,9 May 2023,v MI,Wankhede,1,2,65,78,41,5,3,158.53,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,14 May 2023,v RR,Jaipur,1,2,55,65,44,3,2,125,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 May 2023,v SRH,Hyderabad,2,2,71,86,47,7,2,151.06,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 May 2023,v GT,Bengaluru,1,2,28,35,19,5,0,147.36,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 Aug 2023,v Tallawahs,Gros Islet,2,2,9,14,8,1,0,112.5,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Aug 2023,v Royals,Gros Islet,1,2,46,55,32,4,2,143.75,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Aug 2023,v Amazon,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Aug 2023,v Trinbago,Basseterre,1,1,57,48,36,8,1,158.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,13 Jan 2024,v MI Cape Town,Johannesburg,2,1,6,19,10,0,0,60,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,15 Jan 2024,v Super Giants,Durban,2,1,7,19,17,0,0,41.17,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,17 Jan 2024,v Paarl Royals,Paarl,1,2,10,23,11,1,0,90.9,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 Jan 2024,v Capitals,Johannesburg,2,2,9,6,6,2,0,150,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jan 2024,v Paarl Royals,Johannesburg,1,1,17,21,19,3,0,89.47,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Jan 2024,v Capitals,Centurion,1,1,25*,11,12,4,1,208.33,not out,-,TDNB,-,-,-,-
+44828,Faf du Plessis,29 Jan 2024,v MI Cape Town,Cape Town,2,2,50*,36,20,5,3,250,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,31 Jan 2024,v Sunrisers,Johannesburg,1,2,0,8,4,0,0,0,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 Feb 2024,v Super Giants,Johannesburg,2,1,57,43,29,7,3,196.55,lbw,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 Feb 2024,v Paarl Royals,Johannesburg,2,2,55*,68,34,3,3,161.76,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,8 Feb 2024,v Super Giants,Johannesburg,2,1,3,7,7,0,0,42.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Mar 2024,v CSK,Chennai,1,2,35,21,23,8,0,152.17,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,25 Mar 2024,v Punjab Kings,Bengaluru,2,2,3,13,7,0,0,42.85,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,29 Mar 2024,v KKR,Bengaluru,1,2,8,10,6,0,1,133.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,2 Apr 2024,v LSG,Bengaluru,2,2,19,20,13,3,0,146.15,run out,1,DNB,-,-,-,-
+44828,Faf du Plessis,6 Apr 2024,v RR,Jaipur,1,2,44,58,33,2,2,133.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,11 Apr 2024,v MI,Wankhede,1,2,61,88,40,4,3,152.5,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,15 Apr 2024,v SRH,Bengaluru,2,2,62,40,28,7,4,221.42,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,21 Apr 2024,v KKR,Eden Gardens,2,2,7,25,7,1,0,100,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,25 Apr 2024,v SRH,Hyderabad,1,2,25,17,12,3,1,208.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,28 Apr 2024,v GT,Ahmedabad,2,2,24,19,12,1,3,200,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,4 May 2024,v GT,Bengaluru,2,2,64,28,23,10,3,278.26,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,9 May 2024,v Punjab Kings,Dharamsala,1,2,9,11,7,2,0,128.57,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 May 2024,v DC,Bengaluru,1,2,6,12,7,1,0,85.71,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,18 May 2024,v CSK,Bengaluru,1,2,54,54,39,3,3,138.46,run out,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 May 2024,v RR,Ahmedabad,1,2,17,22,14,2,1,121.42,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,5 Jul 2024,v Los Angeles,Dallas,2,2,14,-,14,2,0,100,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,8 Jul 2024,v Washington,Morrisville,1,2,100,-,58,12,5,172.41,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Jul 2024,v SF,Morrisville,2,2,34,-,17,1,4,200,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Jul 2024,v MI New York,Dallas,1,2,61,-,38,4,4,160.52,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,19 Jul 2024,v Washington,Dallas,2,2,55,-,32,5,5,171.87,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,23 Jul 2024,v Seattle,Dallas,1,2,39,-,17,6,1,229.41,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jul 2024,v MI New York,Dallas,2,2,72,-,47,6,3,153.19,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Jul 2024,v SF,Dallas,2,2,45,-,22,7,1,204.54,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 Sep 2024,v Patriots,Basseterre,2,2,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,3 Sep 2024,v Falcons,North Sound,2,2,28,17,15,5,1,186.66,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,7 Sep 2024,v Amazon,Gros Islet,1,1,6,-,6,1,0,100,lbw,2,DNB,-,-,-,-
+44828,Faf du Plessis,10 Sep 2024,v Trinbago,Gros Islet,1,1,34,35,26,1,3,130.76,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,12 Sep 2024,v Patriots,Gros Islet,2,2,62,48,31,5,5,200,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,15 Sep 2024,v Falcons,Gros Islet,1,2,14,25,12,1,1,116.66,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 Sep 2024,v Royals,Providence,2,1,26,35,19,3,1,136.84,stumped,1,DNB,-,-,-,-
+44828,Faf du Plessis,22 Sep 2024,v Royals,Providence,1,1,4,14,7,0,0,57.14,stumped,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Sep 2024,v Trinbago,Tarouba,1,1,59,83,43,4,3,137.2,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,28 Sep 2024,v Amazon,Providence,2,1,92*,99,59,7,4,155.93,not out,1,DNB,-,-,-,-
+44828,Faf du Plessis,2 Oct 2024,v Amazon,Providence,1,1,57,63,36,5,3,158.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,6 Oct 2024,v Amazon,Providence,2,1,21,34,21,2,1,100,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,11 Jan 2025,v MI Cape Town,Johannesburg,2,2,30,32,23,4,1,130.43,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,14 Jan 2025,v Super Giants,Durban,1,1,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 Jan 2025,v Capitals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44828,Faf du Plessis,18 Jan 2025,v MI Cape Town,Cape Town,1,2,61,45,38,6,3,160.52,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 Jan 2025,v Paarl Royals,Paarl,1,2,18,18,19,3,0,94.73,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jan 2025,v Sunrisers,Gqeberha,2,2,27,23,18,5,0,150,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,26 Jan 2025,v Sunrisers,Johannesburg,2,2,15,25,11,2,0,136.36,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,28 Jan 2025,v Capitals,Centurion,1,1,14,17,13,1,1,107.69,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Jan 2025,v Paarl Royals,Johannesburg,2,2,87,72,55,4,7,158.18,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 Feb 2025,v Super Giants,Johannesburg,2,2,14,22,9,1,1,155.55,bowled,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Feb 2025,v Sunrisers,Centurion,2,2,19,38,18,1,0,105.55,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 Mar 2025,v LSG,Visakhapatnam,2,2,29,33,18,3,2,161.11,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,30 Mar 2025,v SRH,Visakhapatnam,2,2,50,40,27,3,3,185.18,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,10 Apr 2025,v RCB,Bengaluru,2,1,2,10,7,0,0,28.57,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,27 Apr 2025,v RCB,Delhi,1,2,22,48,26,2,0,84.61,caught,2,sub,-,-,-,-
+44828,Faf du Plessis,29 Apr 2025,v KKR,Delhi,2,2,62,74,45,7,2,137.77,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 May 2025,v SRH,Hyderabad,1,2,3,12,8,0,0,37.5,caught,-,TDNB,-,-,-,-
+44828,Faf du Plessis,18 May 2025,v GT,Delhi,1,2,5,17,10,0,0,50,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,21 May 2025,v MI,Wankhede,2,2,6,8,7,1,0,85.71,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,24 May 2025,v Punjab Kings,Jaipur,2,2,23,31,15,2,1,153.33,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,13 Jun 2025,v MI New York,Oakland,1,2,18,-,15,2,1,120,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,15 Jun 2025,v Los Angeles,Oakland,1,2,8,-,10,0,1,80,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,16 Jun 2025,v Seattle,Oakland,1,2,7,-,12,1,0,58.33,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,20 Jun 2025,v SF,Dallas,1,2,100,-,51,6,7,196.07,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,22 Jun 2025,v Washington,Dallas,1,2,69,-,31,8,4,222.58,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,24 Jun 2025,v Los Angeles,Dallas,1,2,12,-,5,3,0,240,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,29 Jun 2025,v MI New York,Dallas,1,2,103*,-,53,5,9,194.33,not out,2,DNB,-,-,-,-
+44828,Faf du Plessis,4 Jul 2025,v SF,Lauderhill,2,2,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,5 Jul 2025,v Seattle,Lauderhill,1,2,91,-,52,6,4,175,retired out,2,DNB,-,-,-,-
+44828,Faf du Plessis,8 Jul 2025,v Washington,Dallas,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44828,Faf du Plessis,11 Jul 2025,v MI New York,Dallas,1,2,59,-,42,7,1,140.47,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,27 Dec 2025,v Capitals,Centurion,1,1,2,20,8,0,0,25,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,30 Dec 2025,v Super Giants,Durban,2,1,3,10,6,0,0,50,caught,1,DNB,-,-,-,-
+44828,Faf du Plessis,1 Jan 2026,v Super Giants,Johannesburg,1,2,47,51,30,3,3,156.66,bowled,2,DNB,-,-,-,-
+44828,Faf du Plessis,3 Jan 2026,v Sunrisers,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44828,Faf du Plessis,6 Jan 2026,v MI Cape Town,Cape Town,1,2,44,33,21,7,2,209.52,caught,2,DNB,-,-,-,-
+44828,Faf du Plessis,8 Jan 2026,v Paarl Royals,Johannesburg,1,2,39,35,24,6,1,162.5,bowled,-,TDNB,-,-,-,-
+44828,Faf du Plessis,10 Jan 2026,v MI Cape Town,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-

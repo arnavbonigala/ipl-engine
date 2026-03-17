@@ -1,0 +1,275 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+32498,Yusuf Pathan,3 Apr 2007,v Mumbai,Wankhede,1,2,0,4,1,0,0,0,caught,2,3.0,0,22,0,7.33
+32498,Yusuf Pathan,5 Apr 2007,v Gujarat,Wankhede,1,2,29,22,13,2,3,223.07,caught,2,3.0,0,31,1,10.33
+32498,Yusuf Pathan,6 Apr 2007,v Saurashtra,Brabourne,1,2,51,50,26,9,1,196.15,caught,2,3.0,0,22,4,7.33
+32498,Yusuf Pathan,7 Apr 2007,v Maharashtra,Wankhede,1,1,0,1,1,0,0,0,caught,2,2.0,0,10,4,5
+32498,Yusuf Pathan,24 Sep 2007,v Pakistan,Johannesburg,1,2,15,12,8,1,1,187.5,caught,2,1.0,0,5,0,5
+32498,Yusuf Pathan,19 Apr 2008,v Daredevils,Delhi,1,2,10,-,5,2,0,200,run out,2,2.1,0,17,0,7.84
+32498,Yusuf Pathan,21 Apr 2008,v Kings XI,Jaipur,2,3,7,-,5,1,0,140,caught,1,1.0,0,13,0,13
+32498,Yusuf Pathan,24 Apr 2008,v Chargers,Hyderabad,2,3,61,-,28,4,6,217.85,caught,1,2.0,0,20,2,10
+32498,Yusuf Pathan,26 Apr 2008,v RCB,Bengaluru,2,3,21,-,12,5,0,175,caught,1,1.0,0,10,0,10
+32498,Yusuf Pathan,1 May 2008,v KKR,Jaipur,1,4,55,-,33,6,2,166.66,bowled,2,2.0,0,14,0,7
+32498,Yusuf Pathan,4 May 2008,v CSK,Jaipur,2,3,8,-,5,0,1,160,caught,1,2.0,0,9,0,4.5
+32498,Yusuf Pathan,7 May 2008,v MI,DY Patil,1,3,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,9 May 2008,v Chargers,Jaipur,2,2,68,-,37,9,2,183.78,caught,1,2.0,0,19,1,9.5
+32498,Yusuf Pathan,11 May 2008,v Daredevils,Jaipur,2,1,8,-,13,1,0,61.53,run out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,17 May 2008,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+32498,Yusuf Pathan,20 May 2008,v KKR,Eden Gardens,2,6,48*,-,18,5,3,266.66,not out,1,2.0,0,14,1,7
+32498,Yusuf Pathan,24 May 2008,v CSK,Chennai,1,4,6,-,5,1,0,120,caught,2,3.0,0,31,0,10.33
+32498,Yusuf Pathan,26 May 2008,v MI,Jaipur,2,3,2,-,4,0,0,50,caught,1,3.0,0,9,0,3
+32498,Yusuf Pathan,28 May 2008,v Kings XI,Mohali,2,5,39,-,15,3,3,260,caught,1,2.0,0,24,1,12
+32498,Yusuf Pathan,30 May 2008,v Daredevils,Wankhede,1,6,45,-,21,3,4,214.28,run out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,1 Jun 2008,v CSK,DY Patil,2,5,56,-,39,3,4,143.58,run out,1,4.0,0,22,3,5.5
+32498,Yusuf Pathan,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,8,22*,26,10,1,2,220,not out,1,4.0,0,23,2,5.75
+32498,Yusuf Pathan,25 Feb 2009,v New Zealand,Christchurch,1,7,20,7,8,0,3,250,caught,2,2.5,0,37,0,13.05
+32498,Yusuf Pathan,27 Feb 2009,v New Zealand,Wellington,1,6,0,3,2,0,0,0,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,18 Apr 2009,v RCB,Cape Town,2,5,11,-,14,1,0,78.57,caught,1,2.0,0,17,0,8.5
+32498,Yusuf Pathan,23 Apr 2009,v KKR,Cape Town,1,4,42,-,21,6,2,200,caught,2,4.0,0,27,0,6.75
+32498,Yusuf Pathan,26 Apr 2009,v Kings XI,Cape Town,2,4,10,-,13,2,0,76.92,caught,1,4.0,0,30,0,7.5
+32498,Yusuf Pathan,28 Apr 2009,v Daredevils,Centurion,2,7,62*,-,30,3,6,206.66,not out,1,2.0,0,14,0,7
+32498,Yusuf Pathan,30 Apr 2009,v CSK,Centurion,2,5,20,-,13,3,0,153.84,caught,1,3.0,0,17,2,5.66
+32498,Yusuf Pathan,2 May 2009,v Chargers,Gqeberha,2,8,24,17,14,2,2,171.42,caught,1,4.0,0,19,1,4.75
+32498,Yusuf Pathan,5 May 2009,v Kings XI,Durban,1,3,12,-,7,1,1,171.42,caught,2,4.0,0,28,1,7
+32498,Yusuf Pathan,7 May 2009,v RCB,Centurion,2,4,22,-,19,2,0,115.78,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,9 May 2009,v CSK,Kimberley,1,5,7,-,11,0,1,63.63,caught,2,4.0,0,28,0,7
+32498,Yusuf Pathan,11 May 2009,v Chargers,Kimberley,2,5,6,-,7,0,0,85.71,caught,1,4.0,0,34,3,8.5
+32498,Yusuf Pathan,14 May 2009,v MI,Durban,1,3,17,-,14,3,0,121.42,caught,2,3.0,0,25,0,8.33
+32498,Yusuf Pathan,17 May 2009,v Daredevils,Bloemfontein,2,6,1,-,5,0,0,20,caught,1,1.0,0,4,0,4
+32498,Yusuf Pathan,20 May 2009,v KKR,Durban,1,6,9,-,15,1,0,60,run out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,6 Jun 2009,v Bangladesh,Nottingham,1,6,1*,10,1,0,0,100,not out,2,3.0,0,26,1,8.66
+32498,Yusuf Pathan,10 Jun 2009,v Ireland,Nottingham,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,12 Jun 2009,v West Indies,Lord's,1,6,31,27,23,3,1,134.78,bowled,2,4.0,0,27,1,6.75
+32498,Yusuf Pathan,14 Jun 2009,v England,Lord's,2,7,33*,29,17,1,2,194.11,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,16 Jun 2009,v South Africa,Nottingham,2,6,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Oct 2009,v Mumbai,Pune,2,4,24,14,10,5,0,240,caught,1,4.0,0,37,2,9.25
+32498,Yusuf Pathan,22 Oct 2009,v Gujarat,Pune,2,4,52,44,21,2,6,247.61,caught,1,3.0,0,41,2,13.66
+32498,Yusuf Pathan,24 Oct 2009,v Saurashtra,Pune,2,3,27,14,16,3,1,168.75,lbw,1,4.0,0,30,3,7.5
+32498,Yusuf Pathan,25 Oct 2009,v Maharashtra,Pune,1,4,11,14,9,0,1,122.22,caught,2,3.0,0,22,1,7.33
+32498,Yusuf Pathan,9 Dec 2009,v Sri Lanka,Nagpur,2,7,0,-,2,0,0,0,caught,1,4.0,0,54,1,13.5
+32498,Yusuf Pathan,12 Dec 2009,v Sri Lanka,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+32498,Yusuf Pathan,13 Mar 2010,v MI,Brabourne,2,5,100,-,37,9,8,270.27,run out,1,2.0,0,22,0,11
+32498,Yusuf Pathan,15 Mar 2010,v Daredevils,Ahmedabad,1,4,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,18 Mar 2010,v RCB,Bengaluru,1,5,26,-,24,1,2,108.33,run out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Mar 2010,v KKR,Ahmedabad,1,5,15,-,14,2,0,107.14,caught,2,4.0,0,23,2,5.75
+32498,Yusuf Pathan,24 Mar 2010,v Kings XI,Mohali,1,4,28,-,19,1,1,147.36,caught,2,2.0,0,9,2,4.5
+32498,Yusuf Pathan,26 Mar 2010,v Chargers,Ahmedabad,2,3,73*,-,34,2,8,214.7,not out,1,2.0,0,12,0,6
+32498,Yusuf Pathan,28 Mar 2010,v CSK,Ahmedabad,1,4,8,-,6,1,0,133.33,caught,2,4.0,0,26,1,6.5
+32498,Yusuf Pathan,31 Mar 2010,v Daredevils,Delhi,2,6,24,-,14,2,2,171.42,caught,1,3.0,0,25,0,8.33
+32498,Yusuf Pathan,3 Apr 2010,v CSK,Chennai,2,3,4,-,2,1,0,200,caught,1,4.0,0,44,0,11
+32498,Yusuf Pathan,5 Apr 2010,v Chargers,Nagpur,1,5,5,-,7,0,0,71.42,caught,2,2.0,0,3,0,1.5
+32498,Yusuf Pathan,7 Apr 2010,v Kings XI,Jaipur,2,3,21*,-,13,0,2,161.53,not out,1,4.0,0,26,0,6.5
+32498,Yusuf Pathan,11 Apr 2010,v MI,Jaipur,2,7,10,-,8,0,1,125,caught,1,4.0,0,24,0,6
+32498,Yusuf Pathan,14 Apr 2010,v RCB,Jaipur,1,6,11,-,9,2,0,122.22,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,17 Apr 2010,v KKR,Eden Gardens,1,3,8,-,9,1,0,88.88,caught,2,3.0,0,32,0,10.66
+32498,Yusuf Pathan,1 May 2010,v Afghanistan,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+32498,Yusuf Pathan,2 May 2010,v South Africa,Gros Islet,1,5,11,11,7,0,1,157.14,caught,2,4.0,0,42,2,10.5
+32498,Yusuf Pathan,7 May 2010,v Australia,Bridgetown,2,7,1,6,5,0,0,20,caught,1,4.0,0,35,1,8.75
+32498,Yusuf Pathan,9 May 2010,v West Indies,Bridgetown,2,7,17,12,10,0,2,170,caught,1,4.0,0,28,0,7
+32498,Yusuf Pathan,11 May 2010,v Sri Lanka,Gros Islet,1,6,13,10,9,2,0,144.44,caught,2,3.0,0,23,1,7.66
+32498,Yusuf Pathan,12 Jun 2010,v Zimbabwe,Harare,2,6,37*,27,24,2,3,154.16,not out,1,2.0,0,10,0,5
+32498,Yusuf Pathan,13 Jun 2010,v Zimbabwe,Harare,2,4,4,16,7,0,0,57.14,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Oct 2010,v Mumbai,Vadodara,1,4,2,10,9,0,0,22.22,caught,2,4.0,0,19,0,4.75
+32498,Yusuf Pathan,22 Oct 2010,v Gujarat,Vadodara,2,4,89,72,42,5,8,211.9,caught,1,4.0,0,25,3,6.25
+32498,Yusuf Pathan,24 Oct 2010,v Saurashtra,Vadodara,2,4,17,13,12,3,0,141.66,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,25 Oct 2010,v Maharashtra,Vadodara,2,4,2,8,5,0,0,40,caught,1,4.0,0,31,2,7.75
+32498,Yusuf Pathan,9 Jan 2011,v South Africa,Durban,1,5,6,16,8,0,0,75,bowled,2,3.0,0,22,2,7.33
+32498,Yusuf Pathan,8 Apr 2011,v CSK,Chennai,2,3,11,-,12,0,1,91.66,run out,1,3.0,0,19,1,6.33
+32498,Yusuf Pathan,11 Apr 2011,v Chargers,Eden Gardens,1,5,22,-,15,4,0,146.66,caught,2,3.0,0,22,0,7.33
+32498,Yusuf Pathan,15 Apr 2011,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,2,4
+32498,Yusuf Pathan,17 Apr 2011,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+32498,Yusuf Pathan,20 Apr 2011,v Kochi,Eden Gardens,2,7,8,-,3,0,1,266.66,caught,1,4.0,1,20,3,5
+32498,Yusuf Pathan,22 Apr 2011,v RCB,Eden Gardens,1,4,46,-,24,3,3,191.66,caught,2,3.0,0,25,0,8.33
+32498,Yusuf Pathan,28 Apr 2011,v Daredevils,Delhi,1,5,5,-,8,0,0,62.5,caught,2,2.0,0,6,1,3
+32498,Yusuf Pathan,30 Apr 2011,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+32498,Yusuf Pathan,3 May 2011,v Chargers,Hyderabad,1,4,47*,-,26,3,3,180.76,not out,2,3.0,0,19,0,6.33
+32498,Yusuf Pathan,5 May 2011,v Kochi,Kochi,2,5,17,-,13,2,0,130.76,caught,1,3.0,0,16,1,5.33
+32498,Yusuf Pathan,7 May 2011,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+32498,Yusuf Pathan,14 May 2011,v RCB,Bengaluru,1,5,36,-,24,2,3,150,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,19 May 2011,v Warriors,DY Patil,2,4,29,-,25,3,1,116,caught,1,4.0,0,23,2,5.75
+32498,Yusuf Pathan,22 May 2011,v MI,Eden Gardens,1,5,36,-,27,4,1,133.33,caught,2,1.0,0,7,0,7
+32498,Yusuf Pathan,25 May 2011,v MI,Wankhede,1,5,26,-,24,3,0,108.33,caught,2,2.0,0,18,0,9
+32498,Yusuf Pathan,4 Jun 2011,v West Indies,Port of Spain,1,7,15*,1,6,0,2,250,not out,2,4.0,0,22,0,5.5
+32498,Yusuf Pathan,19 Sep 2011,v Auckland,Hyderabad,1,3,12,16,17,1,0,70.58,bowled,2,4.0,0,21,2,5.25
+32498,Yusuf Pathan,21 Sep 2011,v Somerset,Hyderabad,2,5,12,25,13,1,0,92.3,caught,1,3.0,0,31,0,10.33
+32498,Yusuf Pathan,25 Sep 2011,v Somerset,Hyderabad,1,5,39*,32,21,0,4,185.71,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,27 Sep 2011,v South Aust,Hyderabad,2,6,5,13,8,0,0,62.5,caught,1,4.0,0,43,1,10.75
+32498,Yusuf Pathan,29 Sep 2011,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+32498,Yusuf Pathan,1 Oct 2011,v Warriors,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+32498,Yusuf Pathan,20 Oct 2011,v Mumbai,Rajkot,1,4,86*,64,46,8,4,186.95,not out,2,4.0,0,36,1,9
+32498,Yusuf Pathan,22 Oct 2011,v Gujarat,Rajkot,1,4,39,32,32,2,2,121.87,caught,2,4.0,0,25,2,6.25
+32498,Yusuf Pathan,24 Oct 2011,v Saurashtra,Rajkot,2,3,19,17,12,2,1,158.33,run out,1,4.0,0,40,0,10
+32498,Yusuf Pathan,25 Oct 2011,v Maharashtra,Rajkot,1,3,72,50,32,8,4,225,caught,2,2.0,0,14,1,7
+32498,Yusuf Pathan,29 Oct 2011,v England,Eden Gardens,1,8,10,17,12,1,0,83.33,bowled,2,3.0,0,34,1,11.33
+32498,Yusuf Pathan,23 Mar 2012,v Karnataka,Brabourne,2,4,9,-,11,1,0,81.81,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Mar 2012,v Delhi,Mumbai,2,4,5*,-,8,0,0,62.5,not out,1,4.0,0,30,2,7.5
+32498,Yusuf Pathan,27 Mar 2012,v Punjab,Brabourne,1,5,27,-,29,0,2,93.1,caught,2,4.0,0,35,1,8.75
+32498,Yusuf Pathan,30 Mar 2012,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+32498,Yusuf Pathan,5 Apr 2012,v Daredevils,Eden Gardens,1,5,0,4,4,0,0,0,caught,2,1.0,0,7,0,7
+32498,Yusuf Pathan,8 Apr 2012,v RR,Jaipur,2,6,15,-,14,0,1,107.14,caught,1,2.0,0,28,0,14
+32498,Yusuf Pathan,10 Apr 2012,v RCB,Bengaluru,1,4,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,13 Apr 2012,v RR,Eden Gardens,2,6,7*,15,7,1,0,100,not out,1,3.0,0,19,0,6.33
+32498,Yusuf Pathan,15 Apr 2012,v Kings XI,Eden Gardens,2,6,0,1,3,0,0,0,bowled,1,1.0,0,7,0,7
+32498,Yusuf Pathan,18 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+32498,Yusuf Pathan,22 Apr 2012,v Chargers,Cuttack,2,5,6,4,4,0,1,150,bowled,1,2.0,0,19,0,9.5
+32498,Yusuf Pathan,28 Apr 2012,v RCB,Eden Gardens,1,4,7,7,4,0,1,175,caught,2,4.0,0,19,1,4.75
+32498,Yusuf Pathan,30 Apr 2012,v CSK,Chennai,2,5,12,21,11,0,0,109.09,caught,1,1.0,0,10,0,10
+32498,Yusuf Pathan,5 May 2012,v Warriors,Eden Gardens,1,3,11,30,15,0,0,73.33,caught,2,2.0,0,23,0,11.5
+32498,Yusuf Pathan,7 May 2012,v Daredevils,Delhi,2,5,7*,19,11,0,0,63.63,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,12 May 2012,v MI,Eden Gardens,2,5,40*,56,31,2,1,129.03,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,14 May 2012,v CSK,Eden Gardens,1,5,11,9,8,0,1,137.5,caught,2,2.0,0,14,0,7
+32498,Yusuf Pathan,16 May 2012,v MI,Wankhede,1,6,21*,40,21,2,0,100,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,19 May 2012,v Warriors,Pune,1,6,15*,11,10,2,0,150,not out,2,2.0,0,12,2,6
+32498,Yusuf Pathan,22 May 2012,v Daredevils,Pune,1,5,40*,-,21,3,2,190.47,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,27 May 2012,v CSK,Chennai,2,5,1,-,2,0,0,50,caught,1,1.0,0,17,0,17
+32498,Yusuf Pathan,13 Oct 2012,v Daredevils,Centurion,2,6,11,13,11,1,0,100,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,15 Oct 2012,v Auckland,Cape Town,1,7,22*,31,19,2,0,115.78,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,17 Oct 2012,v Scorchers,Durban,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+32498,Yusuf Pathan,21 Oct 2012,v Titans,Cape Town,1,6,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,17 Mar 2013,v Mumbai,Ahmedabad,1,4,40,64,24,4,2,166.66,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,19 Mar 2013,v Gujarat,Ahmedabad,2,5,1,1,2,0,0,50,caught,1,3.0,0,26,0,8.66
+32498,Yusuf Pathan,21 Mar 2013,v Saurashtra,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,22 Mar 2013,v Maharashtra,Ahmedabad,2,7,3,16,4,0,0,75,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,3 Apr 2013,v Daredevils,Eden Gardens,2,6,18*,27,16,0,1,112.5,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,8 Apr 2013,v RR,Jaipur,2,6,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,11 Apr 2013,v RCB,Bengaluru,1,4,27,22,17,3,1,158.82,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,14 Apr 2013,v SRH,Eden Gardens,1,5,3*,5,3,0,0,100,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,16 Apr 2013,v Kings XI,Mohali,2,6,13,28,16,2,0,81.25,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Apr 2013,v CSK,Eden Gardens,1,2,25,40,22,4,0,113.63,run out,2,1.1,0,9,1,7.71
+32498,Yusuf Pathan,24 Apr 2013,v MI,Eden Gardens,1,1,19,7,6,3,1,316.66,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Apr 2013,v Kings XI,Eden Gardens,2,3,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,28 Apr 2013,v CSK,Chennai,2,6,3*,9,3,0,0,100,not out,1,2.0,0,18,0,9
+32498,Yusuf Pathan,1 May 2013,v Daredevils,Raipur,1,3,20,23,16,2,1,125,caught,2,0.5,0,11,0,13.2
+32498,Yusuf Pathan,3 May 2013,v RR,Eden Gardens,2,4,49*,45,35,3,3,140,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,7 May 2013,v MI,Wankhede,2,4,13,9,8,1,1,162.5,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,9 May 2013,v Warriors,Pune,1,6,3,8,6,0,0,50,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,12 May 2013,v RCB,Ranchi,2,4,18,23,16,1,1,112.5,lbw,1,1.0,0,6,0,6
+32498,Yusuf Pathan,15 May 2013,v Warriors,Ranchi,2,4,72,70,44,8,2,163.63,obstruct field,1,DNB,-,-,-,-
+32498,Yusuf Pathan,19 May 2013,v SRH,Hyderabad,1,5,49*,48,29,3,3,168.96,not out,2,4.0,0,29,0,7.25
+32498,Yusuf Pathan,21 Sep 2013,v W. Indies A,Bengaluru,1,6,0,5,1,0,0,0,caught,2,1.0,0,19,0,19
+32498,Yusuf Pathan,30 Mar 2014,v Mumbai,Wankhede,1,5,13,25,16,0,0,81.25,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,2 Apr 2014,v Gujarat,Wankhede,2,6,11*,3,6,1,1,183.33,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,3 Apr 2014,v Saurashtra,Mumbai,1,5,54,45,28,3,4,192.85,caught,2,3.0,0,23,0,7.66
+32498,Yusuf Pathan,4 Apr 2014,v Maharashtra,Mumbai,2,6,57*,31,24,7,3,237.5,not out,1,2.0,0,7,0,3.5
+32498,Yusuf Pathan,16 Apr 2014,v MI,Abu Dhabi,1,5,4*,13,4,0,0,100,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,19 Apr 2014,v Daredevils,Dubai (DICS),1,6,11,13,8,1,0,137.5,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,24 Apr 2014,v RCB,Sharjah,1,5,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Apr 2014,v Kings XI,Abu Dhabi,2,6,3,5,5,0,0,60,lbw,1,DNB,-,-,-,-
+32498,Yusuf Pathan,2 May 2014,v CSK,Ranchi,2,7,41,-,29,1,4,141.37,lbw,1,DNB,-,-,-,-
+32498,Yusuf Pathan,5 May 2014,v RR,Ahmedabad,2,6,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,7 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,11 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,14 May 2014,v MI,Cuttack,2,4,20*,24,13,3,0,153.84,not out,1,1.0,0,10,0,10
+32498,Yusuf Pathan,18 May 2014,v SRH,Hyderabad,2,4,39*,45,28,2,2,139.28,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 May 2014,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,22 May 2014,v RCB,Eden Gardens,1,4,22,17,13,1,2,169.23,run out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,24 May 2014,v SRH,Eden Gardens,2,4,72,35,22,5,7,327.27,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,27 May 2014,v Kings XI,Eden Gardens,1,5,20,30,18,2,1,111.11,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,1 Jun 2014,v Kings XI,Bengaluru,2,4,36,30,22,0,4,163.63,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,17 Sep 2014,v CSK,Hyderabad,2,4,1,5,5,0,0,20,caught,1,3.0,0,16,1,5.33
+32498,Yusuf Pathan,21 Sep 2014,v Lahore Lions,Hyderabad,2,4,11,15,10,0,1,110,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,24 Sep 2014,v Scorchers,Hyderabad,2,6,21,34,20,0,2,105,caught,1,4.0,0,22,0,5.5
+32498,Yusuf Pathan,29 Sep 2014,v Dolphins,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+32498,Yusuf Pathan,2 Oct 2014,v Hurricanes,Hyderabad,2,5,14*,16,13,1,0,107.69,not out,1,4.0,0,24,1,6
+32498,Yusuf Pathan,4 Oct 2014,v CSK,Bengaluru,1,5,20*,18,9,2,1,222.22,not out,2,3.3,0,34,1,9.71
+32498,Yusuf Pathan,24 Mar 2015,v Mumbai,Pune,1,5,33*,47,28,2,2,117.85,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Mar 2015,v Gujarat,Pune,1,5,11,23,20,1,0,55,caught,2,3.0,0,19,1,6.33
+32498,Yusuf Pathan,27 Mar 2015,v Saurashtra,Pune,1,5,24,32,23,1,0,104.34,run out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,8 Apr 2015,v MI,Eden Gardens,2,5,14*,24,12,1,1,116.66,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,11 Apr 2015,v RCB,Eden Gardens,1,5,3,18,4,0,0,75,caught,2,4.0,0,40,2,10
+32498,Yusuf Pathan,18 Apr 2015,v Kings XI,Pune,2,5,28*,58,24,4,0,116.66,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Apr 2015,v Daredevils,Delhi,2,5,40*,39,26,6,1,153.84,not out,1,1.0,0,9,0,9
+32498,Yusuf Pathan,22 Apr 2015,v SRH,Visakhapatnam,2,5,6,-,7,0,0,85.71,caught,1,2.0,0,18,0,9
+32498,Yusuf Pathan,28 Apr 2015,v CSK,Chennai,2,5,13,36,18,0,0,72.22,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,30 Apr 2015,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+32498,Yusuf Pathan,2 May 2015,v RCB,Bengaluru,1,5,11*,-,6,0,1,183.33,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,4 May 2015,v SRH,Eden Gardens,1,6,30*,37,19,4,0,157.89,not out,2,1.0,0,19,0,19
+32498,Yusuf Pathan,7 May 2015,v Daredevils,Eden Gardens,1,5,42,35,24,3,3,175,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,9 May 2015,v Kings XI,Eden Gardens,2,5,29,29,19,1,3,152.63,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,14 May 2015,v MI,Wankhede,2,4,52,73,37,5,2,140.54,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,16 May 2015,v RR,Brabourne,2,4,44,71,35,5,1,125.71,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,2 Jan 2016,v Assam,Vadodara,1,6,9,14,11,1,0,81.81,caught,2,2.0,0,20,0,10
+32498,Yusuf Pathan,3 Jan 2016,v Railways,Vadodara,1,5,41*,60,41,2,1,100,not out,2,2.0,0,10,1,5
+32498,Yusuf Pathan,6 Jan 2016,v Goa,Vadodara,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+32498,Yusuf Pathan,7 Jan 2016,v M. Pradesh,Vadodara,1,5,15,18,12,2,0,125,caught,2,2.0,0,21,0,10.5
+32498,Yusuf Pathan,9 Jan 2016,v Andhra,Vadodara,2,5,7,20,13,0,0,53.84,lbw,1,1.0,0,4,0,4
+32498,Yusuf Pathan,10 Jan 2016,v Delhi,Vadodara,1,4,0,5,1,0,0,0,lbw,2,DNB,-,-,-,-
+32498,Yusuf Pathan,15 Jan 2016,v Vidarbha,Wankhede,2,5,14,7,7,1,1,200,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,16 Jan 2016,v Kerala,Wankhede,1,4,18,24,18,2,0,100,caught,2,2.0,0,21,1,10.5
+32498,Yusuf Pathan,18 Jan 2016,v Mumbai,Wankhede,2,5,1,2,2,0,0,50,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,20 Jan 2016,v UP,Wankhede,2,5,14,28,27,0,0,51.85,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,10 Apr 2016,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,13 Apr 2016,v MI,Eden Gardens,1,5,9*,13,6,1,0,150,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,16 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,19 Apr 2016,v Kings XI,Mohali,2,6,12*,8,6,2,0,200,not out,1,1.0,0,6,1,6
+32498,Yusuf Pathan,24 Apr 2016,v Supergiants,Pune,2,5,36,30,27,2,2,133.33,lbw,1,DNB,-,-,-,-
+32498,Yusuf Pathan,28 Apr 2016,v MI,Wankhede,1,7,19*,15,8,4,0,237.5,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,30 Apr 2016,v Daredevils,Delhi,2,4,10,20,9,1,0,111.11,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,2 May 2016,v RCB,Bengaluru,2,5,60*,54,29,6,3,206.89,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,4 May 2016,v Kings XI,Eden Gardens,1,3,19*,34,16,0,1,118.75,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,8 May 2016,v Guj Lions,Eden Gardens,1,6,63*,72,41,7,1,153.65,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,14 May 2016,v Supergiants,Eden Gardens,2,4,37*,-,18,4,3,205.55,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,16 May 2016,v RCB,Eden Gardens,1,4,6,19,12,0,0,50,stumped,2,DNB,-,-,-,-
+32498,Yusuf Pathan,19 May 2016,v Guj Lions,Kanpur,1,5,36,52,36,3,1,100,caught,2,1.0,0,6,0,6
+32498,Yusuf Pathan,22 May 2016,v SRH,Eden Gardens,1,5,52*,68,34,3,2,152.94,not out,2,1.0,0,4,0,4
+32498,Yusuf Pathan,25 May 2016,v SRH,Delhi,2,5,2,8,6,0,0,33.33,caught,1,3.0,0,17,0,5.66
+32498,Yusuf Pathan,29 Jan 2017,v Mumbai,Vadodara,2,5,5,7,6,0,0,83.33,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,1 Feb 2017,v Gujarat,Vadodara,1,5,1,5,3,0,0,33.33,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,2 Feb 2017,v Saurashtra,Vadodara,2,5,4,8,8,0,0,50,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,4 Feb 2017,v Maharashtra,Vadodara,1,4,56,50,35,3,3,160,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,7 Apr 2017,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+32498,Yusuf Pathan,9 Apr 2017,v MI,Wankhede,1,5,6,15,11,0,0,54.54,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,13 Apr 2017,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,15 Apr 2017,v SRH,Eden Gardens,1,5,21*,30,15,1,1,140,not out,2,1.0,0,2,1,2
+32498,Yusuf Pathan,17 Apr 2017,v Daredevils,Delhi,2,5,59,58,39,6,2,151.28,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,21 Apr 2017,v Guj Lions,Eden Gardens,1,5,11*,12,4,2,0,275,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,23 Apr 2017,v RCB,Eden Gardens,1,5,8,11,8,0,0,100,stumped,2,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Apr 2017,v Supergiant,Pune,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,28 Apr 2017,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,30 Apr 2017,v SRH,Hyderabad,2,5,12,23,13,0,0,92.3,caught,1,1.0,0,17,0,17
+32498,Yusuf Pathan,3 May 2017,v Supergiant,Eden Gardens,1,5,4,16,9,0,0,44.44,lbw,2,DNB,-,-,-,-
+32498,Yusuf Pathan,7 May 2017,v RCB,Bengaluru,2,6,0*,3,5,0,0,0,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,9 May 2017,v Kings XI,Mohali,2,7,2,4,3,0,0,66.66,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,13 May 2017,v MI,Eden Gardens,2,6,20,14,7,0,3,285.71,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,17 May 2017,v SRH,Bengaluru,2,3,0,-,1,0,0,0,run out,1,1.0,0,7,0,7
+32498,Yusuf Pathan,9 Apr 2018,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,12 Apr 2018,v MI,Hyderabad,2,7,14,-,14,2,0,100,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,14 Apr 2018,v KKR,Eden Gardens,2,7,17*,-,7,2,1,242.85,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,19 Apr 2018,v Kings XI,Mohali,2,4,19,-,13,3,0,146.15,bowled,1,DNB,-,-,-,-
+32498,Yusuf Pathan,22 Apr 2018,v CSK,Hyderabad,2,6,45,-,27,1,4,166.66,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,24 Apr 2018,v MI,Wankhede,1,6,29,-,33,2,1,87.87,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,26 Apr 2018,v Kings XI,Hyderabad,1,6,21*,-,19,1,1,110.52,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,29 Apr 2018,v RR,Jaipur,1,6,2,-,3,0,0,66.66,caught,2,2.0,0,14,1,7
+32498,Yusuf Pathan,5 May 2018,v Daredevils,Hyderabad,2,5,27*,-,12,2,2,225,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,7 May 2018,v RCB,Hyderabad,1,6,12,-,7,2,0,171.42,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,10 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,19 May 2018,v KKR,Hyderabad,1,5,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,22 May 2018,v CSK,Wankhede,1,6,24,-,29,3,0,82.75,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,25 May 2018,v KKR,Eden Gardens,1,6,3,-,7,0,0,42.85,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,27 May 2018,v CSK,Wankhede,1,5,45*,-,25,4,2,180,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,21 Feb 2019,v Tripura,Delhi,2,4,19*,18,17,2,0,111.76,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,22 Feb 2019,v Uttarakhand,Delhi,1,4,47*,44,32,3,3,146.87,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,24 Feb 2019,v Hyderabad,Delhi,2,5,0,5,4,0,0,0,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,25 Feb 2019,v Services,Delhi,1,5,8,22,18,1,0,44.44,bowled,2,1.2,0,9,0,6.75
+32498,Yusuf Pathan,27 Feb 2019,v Puducherry,Delhi,2,5,3,6,8,0,0,37.5,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,28 Feb 2019,v Maharashtra,Delhi,1,4,28,44,31,3,0,90.32,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,2 Mar 2019,v UP,Delhi,1,4,10*,17,11,1,0,90.9,not out,-,TDNB,-,-,-,-
+32498,Yusuf Pathan,24 Mar 2019,v KKR,Eden Gardens,1,4,1,-,4,0,0,25,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,29 Mar 2019,v RR,Hyderabad,2,6,16*,22,12,0,1,133.33,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,31 Mar 2019,v RCB,Hyderabad,1,4,6*,13,6,0,0,100,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,4 Apr 2019,v DC,Delhi,2,6,9*,18,11,1,0,81.81,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,6 Apr 2019,v MI,Hyderabad,2,6,0,5,4,0,0,0,caught,1,1.0,0,8,0,8
+32498,Yusuf Pathan,8 Apr 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+32498,Yusuf Pathan,17 Apr 2019,v CSK,Hyderabad,2,6,0*,1,0,0,0,-,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,21 Apr 2019,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,23 Apr 2019,v CSK,Chennai,1,5,5*,5,4,0,0,125,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,4 May 2019,v RCB,Bengaluru,1,6,3,11,4,0,0,75,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,8 Nov 2019,v Goa,Visakhapatnam,1,5,0,-,2,0,0,0,bowled,2,DNB,-,-,-,-
+32498,Yusuf Pathan,9 Nov 2019,v Karnataka,Visakhapatnam,1,5,23*,-,16,2,1,143.75,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,11 Nov 2019,v Uttarakhand,Vizianagaram,1,5,26*,-,14,1,2,185.71,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,12 Nov 2019,v Andhra,Visakhapatnam,2,5,6*,-,5,0,0,120,not out,1,DNB,-,-,-,-
+32498,Yusuf Pathan,14 Nov 2019,v Bihar,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32498,Yusuf Pathan,15 Nov 2019,v Services,Vizianagaram,1,6,4*,-,4,0,0,100,not out,2,DNB,-,-,-,-
+32498,Yusuf Pathan,21 Nov 2019,v Rajasthan,Surat,1,5,7,-,6,0,1,116.66,caught,2,DNB,-,-,-,-
+32498,Yusuf Pathan,22 Nov 2019,v Delhi,Surat,1,5,19,-,23,1,0,82.6,lbw,2,4.0,0,23,1,5.75
+32498,Yusuf Pathan,24 Nov 2019,v Maharashtra,Surat,2,5,6,-,13,0,0,46.15,caught,1,DNB,-,-,-,-
+32498,Yusuf Pathan,25 Nov 2019,v Haryana,Surat,1,5,45*,-,34,1,3,132.35,not out,2,2.3,0,11,2,4.4

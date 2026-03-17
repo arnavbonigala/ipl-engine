@@ -1,0 +1,94 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1081442,Mayank Markande,14 Jan 2018,v J & K,Delhi,2,11,0*,1,0,0,0,-,not out,1,4.0,0,21,1,5.25
+1081442,Mayank Markande,15 Jan 2018,v Himachal,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+1081442,Mayank Markande,22 Jan 2018,v Mumbai,Kolkata,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+1081442,Mayank Markande,25 Jan 2018,v Rajasthan,Eden Gardens,1,11,1*,3,2,0,0,50,not out,2,4.0,0,31,0,7.75
+1081442,Mayank Markande,7 Apr 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+1081442,Mayank Markande,12 Apr 2018,v SRH,Hyderabad,1,9,6*,-,3,1,0,200,not out,2,4.0,0,23,4,5.75
+1081442,Mayank Markande,14 Apr 2018,v Daredevils,Wankhede,1,9,4*,-,3,0,0,133.33,not out,2,3.0,0,42,0,14
+1081442,Mayank Markande,17 Apr 2018,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+1081442,Mayank Markande,22 Apr 2018,v RR,Jaipur,1,9,0*,-,1,0,0,0,not out,2,2.0,0,15,0,7.5
+1081442,Mayank Markande,24 Apr 2018,v SRH,Wankhede,2,9,1,-,2,0,0,50,lbw,1,3.0,0,15,2,5
+1081442,Mayank Markande,28 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+1081442,Mayank Markande,1 May 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+1081442,Mayank Markande,4 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+1081442,Mayank Markande,6 May 2018,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+1081442,Mayank Markande,9 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+1081442,Mayank Markande,13 May 2018,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+1081442,Mayank Markande,16 May 2018,v Kings XI,Wankhede,1,10,7*,-,5,1,0,140,not out,2,3.0,0,34,0,11.33
+1081442,Mayank Markande,20 May 2018,v Daredevils,Delhi,2,9,3,-,10,0,0,30,bowled,1,2.0,0,21,1,10.5
+1081442,Mayank Markande,24 Feb 2019,v Australia,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+1081442,Mayank Markande,28 Mar 2019,v RCB,Bengaluru,1,9,6,-,5,1,0,120,caught,2,3.0,0,23,1,7.66
+1081442,Mayank Markande,30 Mar 2019,v Kings XI,Mohali,1,9,0*,1,0,0,0,-,not out,2,1.0,0,12,0,12
+1081442,Mayank Markande,20 Apr 2019,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+1081442,Mayank Markande,8 Nov 2019,v Hyderabad,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+1081442,Mayank Markande,11 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+1081442,Mayank Markande,12 Nov 2019,v Himachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+1081442,Mayank Markande,14 Nov 2019,v Railways,Chandigarh,2,8,1*,-,2,0,0,50,not out,1,4.0,0,41,1,10.25
+1081442,Mayank Markande,15 Nov 2019,v Chhattisgarh,Chandigarh,1,9,9*,-,4,1,0,225,not out,2,4.0,0,28,0,7
+1081442,Mayank Markande,18 Nov 2019,v Maharashtra,Chandigarh,2,9,5*,-,2,1,0,250,not out,1,3.0,0,34,1,11.33
+1081442,Mayank Markande,21 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,1,13,3,3.25
+1081442,Mayank Markande,24 Nov 2019,v Karnataka,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+1081442,Mayank Markande,25 Nov 2019,v Tamil Nadu,Surat,1,9,33*,-,26,3,1,126.92,not out,2,4.0,0,18,2,4.5
+1081442,Mayank Markande,10 Jan 2021,v UP,Alur (2),1,8,0,-,1,0,0,0,caught,2,4.0,0,17,0,4.25
+1081442,Mayank Markande,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+1081442,Mayank Markande,14 Jan 2021,v Railways,Alur (2),1,-,DNB,-,-,-,-,-,-,2,3.1,0,13,2,4.1
+1081442,Mayank Markande,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1081442,Mayank Markande,18 Jan 2021,v Tripura,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+1081442,Mayank Markande,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,1,4
+1081442,Mayank Markande,29 Jan 2021,v Baroda,Ahmedabad,2,8,2,-,3,0,0,66.66,caught,1,4.0,0,29,1,7.25
+1081442,Mayank Markande,2 Oct 2021,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+1081442,Mayank Markande,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1081442,Mayank Markande,5 Nov 2021,v Maharashtra,Lucknow,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+1081442,Mayank Markande,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1081442,Mayank Markande,8 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+1081442,Mayank Markande,17 May 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+1081442,Mayank Markande,21 May 2022,v DC,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1081442,Mayank Markande,11 Oct 2022,v Hyderabad,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+1081442,Mayank Markande,12 Oct 2022,v Delhi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+1081442,Mayank Markande,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1081442,Mayank Markande,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1081442,Mayank Markande,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.1,0,4,4,1.26
+1081442,Mayank Markande,20 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1081442,Mayank Markande,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1081442,Mayank Markande,30 Oct 2022,v Haryana,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,2,10.66
+1081442,Mayank Markande,1 Nov 2022,v Karnataka,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+1081442,Mayank Markande,3 Nov 2022,v Himachal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19
+1081442,Mayank Markande,9 Apr 2023,v Punjab Kings,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,4,3.75
+1081442,Mayank Markande,14 Apr 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+1081442,Mayank Markande,18 Apr 2023,v MI,Hyderabad,2,11,2*,4,2,0,0,100,not out,1,4.0,0,35,0,8.75
+1081442,Mayank Markande,21 Apr 2023,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+1081442,Mayank Markande,24 Apr 2023,v DC,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+1081442,Mayank Markande,29 Apr 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1081442,Mayank Markande,4 May 2023,v KKR,Hyderabad,2,10,1*,6,2,0,0,50,not out,1,4.0,0,29,1,7.25
+1081442,Mayank Markande,7 May 2023,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+1081442,Mayank Markande,13 May 2023,v LSG,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+1081442,Mayank Markande,15 May 2023,v GT,Ahmedabad,2,10,18*,17,9,2,1,200,not out,1,3.0,0,27,0,9
+1081442,Mayank Markande,16 Oct 2023,v Saurashtra,Ranchi,2,10,4*,-,6,0,0,66.66,not out,1,2.0,0,23,0,11.5
+1081442,Mayank Markande,17 Oct 2023,v Andhra,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+1081442,Mayank Markande,19 Oct 2023,v Railways,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,3,6
+1081442,Mayank Markande,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+1081442,Mayank Markande,23 Oct 2023,v Gujarat,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1081442,Mayank Markande,25 Oct 2023,v Goa,Ranchi,1,10,0,-,2,0,0,0,caught,2,4.0,0,20,4,5
+1081442,Mayank Markande,2 Nov 2023,v UP,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+1081442,Mayank Markande,4 Nov 2023,v Delhi,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1081442,Mayank Markande,6 Nov 2023,v Baroda,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+1081442,Mayank Markande,23 Mar 2024,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+1081442,Mayank Markande,27 Mar 2024,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,0,13
+1081442,Mayank Markande,31 Mar 2024,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+1081442,Mayank Markande,5 Apr 2024,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+1081442,Mayank Markande,15 Apr 2024,v RCB,Bengaluru,1,-,sub,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+1081442,Mayank Markande,20 Apr 2024,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,2,13
+1081442,Mayank Markande,25 Apr 2024,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,1,14
+1081442,Mayank Markande,23 Nov 2024,v Bengal,Rajkot,1,8,2,-,3,0,0,66.66,caught,2,4.0,0,25,1,6.25
+1081442,Mayank Markande,25 Nov 2024,v Bihar,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+1081442,Mayank Markande,27 Nov 2024,v M. Pradesh,Rajkot,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+1081442,Mayank Markande,29 Nov 2024,v Mizoram,Rajkot,2,9,1*,-,1,0,0,100,not out,1,4.0,0,22,1,5.5
+1081442,Mayank Markande,1 Dec 2024,v Hyderabad,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+1081442,Mayank Markande,3 Dec 2024,v Rajasthan,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+1081442,Mayank Markande,26 Nov 2025,v Himachal,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+1081442,Mayank Markande,28 Nov 2025,v Haryana,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+1081442,Mayank Markande,30 Nov 2025,v Bengal,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+1081442,Mayank Markande,2 Dec 2025,v Baroda,Hyderabad,1,9,2*,-,2,0,0,100,not out,2,DNB,-,-,-,-
+1081442,Mayank Markande,4 Dec 2025,v Puducherry,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+1081442,Mayank Markande,6 Dec 2025,v Services,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5

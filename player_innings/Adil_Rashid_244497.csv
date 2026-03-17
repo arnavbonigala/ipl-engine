@@ -1,0 +1,365 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+244497,Adil Rashid,12 Jun 2008,v Derbyshire,Leeds,2,7,2,2,3,0,0,66.66,bowled,1,1.0,0,13,0,13
+244497,Adil Rashid,13 Jun 2008,v Notts,Leeds,1,8,10,5,5,0,1,200,run out,2,DNB,-,-,-,-
+244497,Adil Rashid,17 Jun 2008,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+244497,Adil Rashid,18 Jun 2008,v Lancashire,Leeds,2,8,5*,19,9,0,0,55.55,not out,1,3.0,0,22,0,7.33
+244497,Adil Rashid,20 Jun 2008,v Lancashire,Manchester,1,8,1,2,2,0,0,50,caught,2,4.0,0,25,1,6.25
+244497,Adil Rashid,22 Jun 2008,v Durham,Leeds,1,9,0*,0,0,0,0,-,not out,2,3.0,0,29,0,9.66
+244497,Adil Rashid,24 Jun 2008,v Durham,Chester-le-Street,2,2,0,3,0,0,0,-,run out,1,2.0,0,21,0,10.5
+244497,Adil Rashid,27 Jun 2008,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+244497,Adil Rashid,29 May 2009,v Lancashire,Leeds,1,8,2,3,3,0,0,66.66,run out,2,4.0,0,25,1,6.25
+244497,Adil Rashid,5 Jun 2009,v Netherlands,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+244497,Adil Rashid,7 Jun 2009,v Pakistan,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+244497,Adil Rashid,11 Jun 2009,v South Africa,Nottingham,1,10,9*,16,17,0,0,52.94,not out,2,4.0,0,24,1,6
+244497,Adil Rashid,15 Jun 2009,v West Indies,The Oval,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,1,11
+244497,Adil Rashid,22 Jun 2009,v Notts,Nottingham,2,9,12*,6,7,2,0,171.42,not out,1,2.0,0,29,0,14.5
+244497,Adil Rashid,24 Jun 2009,v Durham,Chester-le-Street,2,8,28*,40,34,2,0,82.35,not out,1,4.0,0,27,1,6.75
+244497,Adil Rashid,10 Nov 2009,v SA A,Bloemfontein,1,9,6*,15,8,0,0,75,not out,2,4.0,1,22,2,5.5
+244497,Adil Rashid,15 Nov 2009,v South Africa,Centurion,2,9,1,3,2,0,0,50,run out,1,1.0,0,25,0,25
+244497,Adil Rashid,12 Feb 2010,v Pakistan A,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+244497,Adil Rashid,14 Feb 2010,v Pakistan A,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+244497,Adil Rashid,16 Feb 2010,v Pakistan A,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+244497,Adil Rashid,17 Feb 2010,v England,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+244497,Adil Rashid,3 Jun 2010,v Derbyshire,Leeds,2,7,11,8,8,1,0,137.5,bowled,1,3.0,0,38,1,12.66
+244497,Adil Rashid,4 Jun 2010,v Worcs,Worcester,2,7,34,20,19,2,2,178.94,caught,1,4.0,0,32,3,8
+244497,Adil Rashid,10 Jun 2010,v Durham,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+244497,Adil Rashid,13 Jun 2010,v Northants,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+244497,Adil Rashid,17 Jun 2010,v Lancashire,Leeds,1,7,9,8,7,1,0,128.57,caught,2,4.0,0,22,2,5.5
+244497,Adil Rashid,18 Jun 2010,v Durham,Chester-le-Street,1,7,21,17,20,1,0,105,caught,2,4.0,0,36,2,9
+244497,Adil Rashid,20 Jun 2010,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+244497,Adil Rashid,22 Jun 2010,v Worcs,Leeds,1,7,2,1,3,0,0,66.66,caught,2,4.0,0,28,1,7
+244497,Adil Rashid,24 Jun 2010,v Notts,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+244497,Adil Rashid,27 Jun 2010,v Leics,Leeds,2,7,21*,33,17,1,0,123.52,not out,1,4.0,0,20,4,5
+244497,Adil Rashid,2 Jul 2010,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+244497,Adil Rashid,4 Jul 2010,v Warwickshire,Leeds,2,7,4,9,8,0,0,50,bowled,1,4.0,0,20,2,5
+244497,Adil Rashid,9 Jul 2010,v Lancashire,Manchester,1,7,13,12,10,0,0,130,caught,2,4.0,0,28,1,7
+244497,Adil Rashid,14 Jul 2010,v Warwickshire,Birmingham,2,7,4,5,6,0,0,66.66,caught,1,4.0,0,17,1,4.25
+244497,Adil Rashid,17 Jul 2010,v Notts,Nottingham,1,7,9,11,11,1,0,81.81,run out,2,2.0,0,20,0,10
+244497,Adil Rashid,18 Jul 2010,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+244497,Adil Rashid,4 Jan 2011,v NSW,Adelaide,2,9,6,14,7,0,0,85.71,caught,1,1.0,0,14,0,14
+244497,Adil Rashid,8 Jan 2011,v Victoria,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,1,15,3,5
+244497,Adil Rashid,13 Jan 2011,v West Aust,W.A.C.A,1,9,0,-,1,0,0,0,run out,2,1.0,0,12,0,12
+244497,Adil Rashid,20 Jan 2011,v Queensland,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+244497,Adil Rashid,24 Jan 2011,v Tasmania,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+244497,Adil Rashid,28 Jan 2011,v Victoria,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+244497,Adil Rashid,5 Feb 2011,v NSW,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+244497,Adil Rashid,3 Jun 2011,v Warwickshire,Leeds,1,7,6,9,7,0,0,85.71,caught,2,4.0,0,28,3,7
+244497,Adil Rashid,5 Jun 2011,v Notts,Nottingham,2,8,7,2,4,1,0,175,caught,1,3.0,0,41,1,13.66
+244497,Adil Rashid,9 Jun 2011,v Worcs,Leeds,1,7,13*,17,9,1,0,144.44,not out,2,4.0,0,19,3,4.75
+244497,Adil Rashid,10 Jun 2011,v Lancashire,Manchester,2,5,9,32,18,0,0,50,run out,1,4.0,0,29,2,7.25
+244497,Adil Rashid,17 Jun 2011,v Lancashire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,4,6.5
+244497,Adil Rashid,22 Jun 2011,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+244497,Adil Rashid,24 Jun 2011,v Warwickshire,Birmingham,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+244497,Adil Rashid,26 Jun 2011,v Worcs,Worcester,2,9,2,8,6,0,0,33.33,stumped,1,4.0,0,37,1,9.25
+244497,Adil Rashid,29 Jun 2011,v Leics,Leicester,1,11,1,1,2,0,0,50,bowled,2,4.0,0,30,0,7.5
+244497,Adil Rashid,1 Jul 2011,v Northants,Northampton,1,8,5,12,6,0,0,83.33,caught,2,4.0,0,29,0,7.25
+244497,Adil Rashid,3 Jul 2011,v Notts,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+244497,Adil Rashid,6 Jul 2011,v Leics,Leeds,2,9,0,1,1,0,0,0,caught,1,4.0,0,58,0,14.5
+244497,Adil Rashid,8 Jul 2011,v Durham,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244497,Adil Rashid,10 Jul 2011,v Durham,Scarborough,2,7,7,17,14,0,0,50,bowled,1,4.0,0,36,1,9
+244497,Adil Rashid,25 Sep 2011,v Warriors,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+244497,Adil Rashid,27 Jun 2012,v Leics,Leicester,1,8,4,6,2,1,0,200,run out,2,3.0,0,30,1,10
+244497,Adil Rashid,29 Jun 2012,v Lancashire,Leeds,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+244497,Adil Rashid,8 Jul 2012,v Derbyshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+244497,Adil Rashid,25 Jul 2012,v Worcs,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+244497,Adil Rashid,9 Oct 2012,v Uva Next,Johannesburg,2,6,36*,51,30,2,1,120,not out,1,3.0,0,25,1,8.33
+244497,Adil Rashid,10 Oct 2012,v Trinidad & T,Centurion,2,6,33*,44,27,3,1,122.22,not out,1,3.0,0,25,1,8.33
+244497,Adil Rashid,16 Oct 2012,v Sixers,Cape Town,1,6,1,2,2,0,0,50,caught,2,1.0,0,8,0,8
+244497,Adil Rashid,18 Oct 2012,v MI,Cape Town,-,-,TDNB,-,-,-,-,-,-,1,3.5,0,42,2,10.95
+244497,Adil Rashid,20 Oct 2012,v Lions,Johannesburg,1,6,8,11,9,1,0,88.88,lbw,2,3.0,0,36,0,12
+244497,Adil Rashid,22 Oct 2012,v CSK,Durban,1,6,4*,10,8,0,0,50,not out,2,4.0,0,32,0,8
+244497,Adil Rashid,28 Jun 2013,v Derbyshire,Leeds,1,6,4,10,6,0,0,66.66,caught,2,1.0,0,11,0,11
+244497,Adil Rashid,30 Jun 2013,v Durham,Scarborough,1,5,10,22,12,1,0,83.33,caught,2,DNB,-,-,-,-
+244497,Adil Rashid,5 Jul 2013,v Lancashire,Leeds,1,4,16,13,14,1,0,114.28,lbw,2,3.0,0,16,0,5.33
+244497,Adil Rashid,9 Jul 2013,v Leics,Leeds,2,4,4,2,5,1,0,80,lbw,1,3.0,0,24,1,8
+244497,Adil Rashid,12 Jul 2013,v Durham,Chester-le-Street,2,6,11,21,11,1,0,100,stumped,1,2.0,0,23,0,11.5
+244497,Adil Rashid,14 Jul 2013,v Derbyshire,Chesterfield,1,6,11,19,10,1,0,110,caught,2,4.0,0,21,0,5.25
+244497,Adil Rashid,21 Jul 2013,v Notts,Leeds,2,8,1*,2,1,0,0,100,not out,1,3.0,0,22,0,7.33
+244497,Adil Rashid,24 Jul 2013,v Lancashire,Manchester,1,6,19,12,14,0,2,135.71,run out,2,3.0,0,39,0,13
+244497,Adil Rashid,16 May 2014,v Northants,Leeds,1,6,12,16,15,1,0,80,caught,2,1.0,0,19,0,19
+244497,Adil Rashid,30 May 2014,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+244497,Adil Rashid,6 Jun 2014,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+244497,Adil Rashid,13 Jun 2014,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+244497,Adil Rashid,28 Jun 2014,v Notts,Nottingham,2,7,21,19,18,3,0,116.66,bowled,1,4.0,0,25,0,6.25
+244497,Adil Rashid,1 Jul 2014,v Leics,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+244497,Adil Rashid,2 Jul 2014,v Durham,Leeds,2,7,7,17,14,0,0,50,caught,1,4.0,1,14,3,3.5
+244497,Adil Rashid,11 Jul 2014,v Durham,Chester-le-Street,1,7,29,25,19,2,2,152.63,bowled,2,4.0,0,24,1,6
+244497,Adil Rashid,13 Jul 2014,v Derbyshire,Chesterfield,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,2,9.33
+244497,Adil Rashid,18 Jul 2014,v Warwickshire,Leeds,1,8,29*,25,20,4,0,145,not out,2,4.0,0,28,1,7
+244497,Adil Rashid,25 Jul 2014,v Notts,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+244497,Adil Rashid,15 May 2015,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+244497,Adil Rashid,22 May 2015,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+244497,Adil Rashid,29 May 2015,v Durham,Chester-le-Street,2,10,8*,7,5,1,0,160,not out,1,3.0,0,22,1,7.33
+244497,Adil Rashid,5 Jun 2015,v Lancashire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+244497,Adil Rashid,23 Jun 2015,v New Zealand,Manchester,1,9,7*,8,3,1,0,233.33,not out,2,4.0,0,33,1,8.25
+244497,Adil Rashid,26 Jun 2015,v Leics,Leicester,2,9,3,11,4,0,0,75,lbw,1,4.0,0,27,1,6.75
+244497,Adil Rashid,10 Jul 2015,v Durham,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+244497,Adil Rashid,12 Jul 2015,v Derbyshire,Chesterfield,1,1,7,7,7,0,0,100,stumped,2,4.0,0,17,0,4.25
+244497,Adil Rashid,31 Aug 2015,v Australia,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+244497,Adil Rashid,26 Nov 2015,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+244497,Adil Rashid,27 Nov 2015,v Pakistan,Dubai (DICS),1,10,3*,6,2,0,0,150,not out,2,4.0,0,18,2,4.5
+244497,Adil Rashid,30 Nov 2015,v Pakistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+244497,Adil Rashid,18 Dec 2015,v Stars,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+244497,Adil Rashid,21 Dec 2015,v Scorchers,W.A.C.A,2,8,2*,-,2,0,0,100,not out,1,4.0,0,21,2,5.25
+244497,Adil Rashid,28 Dec 2015,v Thunder,Sydney,1,8,25,-,18,3,0,138.88,caught,2,4.0,0,39,0,9.75
+244497,Adil Rashid,31 Dec 2015,v Sixers,Adelaide,2,7,2*,-,1,0,0,200,not out,1,4.0,0,34,3,8.5
+244497,Adil Rashid,5 Jan 2016,v Scorchers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+244497,Adil Rashid,8 Jan 2016,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+244497,Adil Rashid,13 Jan 2016,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+244497,Adil Rashid,18 Jan 2016,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+244497,Adil Rashid,21 Jan 2016,v Thunder,Adelaide,1,8,14*,-,3,2,1,466.66,not out,2,3.4,0,28,1,7.63
+244497,Adil Rashid,17 Feb 2016,v SA A,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+244497,Adil Rashid,19 Feb 2016,v South Africa,Cape Town,1,9,2,10,6,0,0,33.33,caught,2,4.0,0,24,1,6
+244497,Adil Rashid,21 Feb 2016,v South Africa,Johannesburg,1,10,2,6,3,0,0,66.66,bowled,2,4.0,0,30,1,7.5
+244497,Adil Rashid,16 Mar 2016,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+244497,Adil Rashid,18 Mar 2016,v South Africa,Wankhede,2,10,0*,1,0,0,0,-,not out,1,4.0,0,35,1,8.75
+244497,Adil Rashid,23 Mar 2016,v Afghanistan,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+244497,Adil Rashid,26 Mar 2016,v Sri Lanka,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,31,0,15.5
+244497,Adil Rashid,30 Mar 2016,v New Zealand,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+244497,Adil Rashid,3 Apr 2016,v West Indies,Eden Gardens,1,11,4*,6,4,0,0,100,not out,2,4.0,0,23,1,5.75
+244497,Adil Rashid,27 May 2016,v Leics,Leeds,2,3,2,13,7,0,0,28.57,caught,1,4.0,0,33,0,8.25
+244497,Adil Rashid,2 Jun 2016,v Worcs,Worcester,1,3,1,5,2,0,0,50,run out,2,4.0,0,39,1,9.75
+244497,Adil Rashid,3 Jun 2016,v Lancashire,Manchester,2,9,1*,2,1,0,0,100,not out,1,2.0,0,29,0,14.5
+244497,Adil Rashid,10 Jun 2016,v Warwickshire,Birmingham,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244497,Adil Rashid,5 Jul 2016,v Sri Lanka,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,0,6.25
+244497,Adil Rashid,8 Jul 2016,v Warwickshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+244497,Adil Rashid,10 Jul 2016,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+244497,Adil Rashid,15 Jul 2016,v Notts,Nottingham,1,8,2*,5,2,0,0,100,not out,2,4.0,0,23,1,5.75
+244497,Adil Rashid,22 Jul 2016,v Northants,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+244497,Adil Rashid,29 Jul 2016,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+244497,Adil Rashid,11 Aug 2016,v Glamorgan,Cardiff,1,9,5,7,6,0,0,83.33,caught,2,3.0,0,26,4,8.66
+244497,Adil Rashid,20 Aug 2016,v Durham,Birmingham,2,10,5*,9,4,0,0,125,not out,1,2.0,0,22,1,11
+244497,Adil Rashid,7 Sep 2016,v Pakistan,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+244497,Adil Rashid,26 Jan 2017,v India,Kanpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+244497,Adil Rashid,29 Jan 2017,v India,Nagpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+244497,Adil Rashid,1 Feb 2017,v India,Bengaluru,2,10,0*,2,0,0,0,-,not out,1,2.0,0,23,0,11.5
+244497,Adil Rashid,7 Jul 2017,v Notts,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+244497,Adil Rashid,8 Jul 2017,v Derbyshire,Chesterfield,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+244497,Adil Rashid,14 Jul 2017,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+244497,Adil Rashid,21 Jul 2017,v Warwickshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+244497,Adil Rashid,23 Jul 2017,v Worcs,Leeds,1,8,4*,1,2,1,0,200,not out,2,4.0,0,20,2,5
+244497,Adil Rashid,26 Jul 2017,v Durham,Leeds,1,6,10,9,6,0,1,166.66,caught,2,4.0,0,19,4,4.75
+244497,Adil Rashid,30 Jul 2017,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+244497,Adil Rashid,3 Aug 2017,v Derbyshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+244497,Adil Rashid,4 Aug 2017,v Durham,Chester-le-Street,2,8,2*,8,2,0,0,100,not out,1,4.0,0,33,0,8.25
+244497,Adil Rashid,11 Aug 2017,v Lancashire,Leeds,1,9,2*,7,3,0,0,66.66,not out,2,4.0,0,27,1,6.75
+244497,Adil Rashid,12 Aug 2017,v Leics,Leicester,1,6,26*,21,17,3,0,152.94,not out,2,4.0,0,31,0,7.75
+244497,Adil Rashid,17 Aug 2017,v Northants,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+244497,Adil Rashid,16 Sep 2017,v West Indies,Chester-le-Street,2,7,1,6,2,0,0,50,caught,1,4.0,0,25,3,6.25
+244497,Adil Rashid,4 Nov 2017,v Sylhet,Sylhet,1,8,3,-,6,0,0,50,caught,2,4.0,0,31,1,7.75
+244497,Adil Rashid,7 Feb 2018,v Australia,Hobart,1,9,1,3,4,0,0,25,caught,2,4.0,0,30,1,7.5
+244497,Adil Rashid,10 Feb 2018,v Australia,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+244497,Adil Rashid,13 Feb 2018,v New Zealand,Wellington,2,10,8*,11,6,1,0,133.33,not out,1,4.0,0,36,2,9
+244497,Adil Rashid,18 Feb 2018,v New Zealand,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+244497,Adil Rashid,27 Jun 2018,v Australia,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+244497,Adil Rashid,3 Jul 2018,v India,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+244497,Adil Rashid,6 Jul 2018,v India,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+244497,Adil Rashid,8 Jul 2018,v India,Bristol,1,10,4*,-,3,1,0,133.33,not out,2,4.0,0,32,0,8
+244497,Adil Rashid,20 Jul 2018,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,44,0,14.66
+244497,Adil Rashid,27 Jul 2018,v Bears,Leeds,1,9,0,3,1,0,0,0,caught,2,3.0,0,19,1,6.33
+244497,Adil Rashid,28 Jul 2018,v Derbyshire,Chesterfield,1,9,1*,5,2,0,0,50,not out,2,4.0,0,19,2,4.75
+244497,Adil Rashid,27 Oct 2018,v Sri Lanka,Colombo (RPS),1,8,5,-,3,1,0,166.66,bowled,2,4.0,0,11,3,2.75
+244497,Adil Rashid,5 Mar 2019,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+244497,Adil Rashid,8 Mar 2019,v West Indies,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,2,4
+244497,Adil Rashid,10 Mar 2019,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,2,9
+244497,Adil Rashid,5 May 2019,v Pakistan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+244497,Adil Rashid,1 Nov 2019,v New Zealand,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+244497,Adil Rashid,3 Nov 2019,v New Zealand,Wellington,2,9,4,16,6,0,0,66.66,bowled,1,4.0,0,40,1,10
+244497,Adil Rashid,10 Nov 2019,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+244497,Adil Rashid,12 Feb 2020,v South Africa,East London,2,10,1,3,1,0,0,100,run out,1,4.0,0,23,1,5.75
+244497,Adil Rashid,14 Feb 2020,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+244497,Adil Rashid,16 Feb 2020,v South Africa,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+244497,Adil Rashid,28 Aug 2020,v Pakistan,Manchester,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244497,Adil Rashid,30 Aug 2020,v Pakistan,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+244497,Adil Rashid,1 Sep 2020,v Pakistan,Manchester,2,10,3*,5,3,0,0,100,not out,1,3.0,0,40,0,13.33
+244497,Adil Rashid,4 Sep 2020,v Australia,Southampton,1,9,1*,8,4,0,0,25,not out,2,4.0,0,29,2,7.25
+244497,Adil Rashid,6 Sep 2020,v Australia,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+244497,Adil Rashid,8 Sep 2020,v Australia,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+244497,Adil Rashid,27 Nov 2020,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+244497,Adil Rashid,29 Nov 2020,v South Africa,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+244497,Adil Rashid,1 Dec 2020,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+244497,Adil Rashid,12 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+244497,Adil Rashid,14 Mar 2021,v India,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+244497,Adil Rashid,16 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+244497,Adil Rashid,18 Mar 2021,v India,Ahmedabad,2,10,0*,1,0,0,0,-,not out,1,4.0,1,39,1,9.75
+244497,Adil Rashid,20 Mar 2021,v India,Ahmedabad,2,10,0*,2,0,0,0,-,not out,1,4.0,0,31,1,7.75
+244497,Adil Rashid,10 Jun 2021,v Bears,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+244497,Adil Rashid,11 Jun 2021,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+244497,Adil Rashid,15 Jun 2021,v Leics,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+244497,Adil Rashid,16 Jun 2021,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+244497,Adil Rashid,23 Jun 2021,v Sri Lanka,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+244497,Adil Rashid,24 Jun 2021,v Sri Lanka,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+244497,Adil Rashid,26 Jun 2021,v Sri Lanka,Southampton,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+244497,Adil Rashid,18 Jul 2021,v Pakistan,Leeds,1,9,2,8,4,0,0,50,bowled,2,4.0,0,30,2,7.5
+244497,Adil Rashid,20 Jul 2021,v Pakistan,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,4,8.75
+244497,Adil Rashid,24 Jul 2021,v Fire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,9.6
+244497,Adil Rashid,26 Jul 2021,v Rockets,Nottingham,1,10,10,13,6,1,0,166.66,run out,2,4.0,1,27,2,8.1
+244497,Adil Rashid,31 Jul 2021,v Invincibles,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.9
+244497,Adil Rashid,3 Aug 2021,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,7.2
+244497,Adil Rashid,7 Aug 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,5.7
+244497,Adil Rashid,12 Aug 2021,v Originals,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,8.4
+244497,Adil Rashid,17 Aug 2021,v Phoenix,Leeds,1,9,1*,3,1,0,0,100,not out,2,3.0,0,30,0,12
+244497,Adil Rashid,24 Aug 2021,v Sussex,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+244497,Adil Rashid,21 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+244497,Adil Rashid,23 Oct 2021,v West Indies,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.2,0,2,4,0.85
+244497,Adil Rashid,27 Oct 2021,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+244497,Adil Rashid,30 Oct 2021,v Australia,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+244497,Adil Rashid,1 Nov 2021,v Sri Lanka,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+244497,Adil Rashid,6 Nov 2021,v South Africa,Sharjah,2,10,2*,4,2,0,0,100,not out,1,4.0,0,32,1,8
+244497,Adil Rashid,10 Nov 2021,v New Zealand,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+244497,Adil Rashid,22 Jan 2022,v West Indies,Bridgetown,1,9,22,34,18,3,0,122.22,bowled,2,4.0,0,21,1,5.25
+244497,Adil Rashid,23 Jan 2022,v West Indies,Bridgetown,1,9,2*,7,3,0,0,66.66,not out,2,4.0,1,24,2,6
+244497,Adil Rashid,26 Jan 2022,v West Indies,Bridgetown,2,9,1,4,1,0,0,100,run out,1,4.0,0,25,1,6.25
+244497,Adil Rashid,29 Jan 2022,v West Indies,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+244497,Adil Rashid,30 Jan 2022,v West Indies,Bridgetown,2,9,0,3,1,0,0,0,caught,1,4.0,0,17,2,4.25
+244497,Adil Rashid,25 May 2022,v Worcs,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+244497,Adil Rashid,27 May 2022,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+244497,Adil Rashid,29 May 2022,v Leics,Leeds,2,10,7*,6,3,1,0,233.33,not out,1,4.0,0,36,1,9
+244497,Adil Rashid,31 May 2022,v Derbyshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,1.3,0,20,0,13.33
+244497,Adil Rashid,3 Jun 2022,v Durham,Leeds,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,1,13
+244497,Adil Rashid,6 Jun 2022,v Notts,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+244497,Adil Rashid,8 Jun 2022,v Lancashire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+244497,Adil Rashid,10 Jun 2022,v Bears,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+244497,Adil Rashid,27 Jul 2022,v South Africa,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,2,8.5
+244497,Adil Rashid,28 Jul 2022,v South Africa,Cardiff,2,9,3,5,3,0,0,100,bowled,1,3.0,0,38,0,12.66
+244497,Adil Rashid,31 Jul 2022,v South Africa,Southampton,2,10,0,4,2,0,0,0,caught,1,4.0,0,33,0,8.25
+244497,Adil Rashid,5 Aug 2022,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,6
+244497,Adil Rashid,9 Aug 2022,v Rockets,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,8.7
+244497,Adil Rashid,11 Aug 2022,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,9.9
+244497,Adil Rashid,14 Aug 2022,v Spirit,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,11.6
+244497,Adil Rashid,19 Aug 2022,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,5.4
+244497,Adil Rashid,21 Aug 2022,v Originals,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,8.4
+244497,Adil Rashid,26 Aug 2022,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,5.1
+244497,Adil Rashid,31 Aug 2022,v Brave,Leeds,1,9,0,3,2,0,0,0,caught,2,4.0,0,20,1,6
+244497,Adil Rashid,20 Sep 2022,v Pakistan,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+244497,Adil Rashid,22 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+244497,Adil Rashid,23 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+244497,Adil Rashid,25 Sep 2022,v Pakistan,Karachi,2,9,3*,19,3,0,0,100,not out,1,4.0,0,27,0,6.75
+244497,Adil Rashid,28 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+244497,Adil Rashid,30 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+244497,Adil Rashid,2 Oct 2022,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+244497,Adil Rashid,9 Oct 2022,v Australia,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,41,1,13.66
+244497,Adil Rashid,12 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+244497,Adil Rashid,14 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+244497,Adil Rashid,22 Oct 2022,v Afghanistan,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+244497,Adil Rashid,26 Oct 2022,v Ireland,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+244497,Adil Rashid,1 Nov 2022,v New Zealand,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+244497,Adil Rashid,5 Nov 2022,v Sri Lanka,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+244497,Adil Rashid,10 Nov 2022,v India,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+244497,Adil Rashid,13 Nov 2022,v Pakistan,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,2,5.5
+244497,Adil Rashid,12 Jan 2023,v Sunrisers,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+244497,Adil Rashid,14 Jan 2023,v Sunrisers,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+244497,Adil Rashid,17 Jan 2023,v Super Kings,Johannesburg,2,10,8,8,5,0,1,160,caught,1,4.0,0,38,0,9.5
+244497,Adil Rashid,18 Jan 2023,v Super Kings,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.4,0,25,2,9.37
+244497,Adil Rashid,20 Jan 2023,v Super Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,1,2.5
+244497,Adil Rashid,22 Jan 2023,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+244497,Adil Rashid,23 Jan 2023,v MI Cape Town,Cape Town,1,10,1*,2,1,0,0,100,not out,2,4.0,0,37,2,9.25
+244497,Adil Rashid,7 Feb 2023,v Paarl Royals,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+244497,Adil Rashid,8 Feb 2023,v Paarl Royals,Johannesburg,1,10,8*,4,4,2,0,200,not out,2,3.0,0,15,2,5
+244497,Adil Rashid,11 Feb 2023,v Sunrisers,Johannesburg,1,10,3,-,4,0,0,75,caught,2,4.0,0,13,1,3.25
+244497,Adil Rashid,9 Mar 2023,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+244497,Adil Rashid,12 Mar 2023,v Bangladesh,Mirpur,1,10,1*,5,2,0,0,50,not out,2,4.0,0,28,0,7
+244497,Adil Rashid,14 Mar 2023,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+244497,Adil Rashid,2 Apr 2023,v RR,Hyderabad,2,8,18,17,13,1,1,138.46,stumped,1,4.0,0,33,0,8.25
+244497,Adil Rashid,7 Apr 2023,v LSG,Lucknow,1,8,4,3,3,1,0,133.33,caught,2,3.0,0,23,2,7.66
+244497,Adil Rashid,3 Aug 2023,v Phoenix,Leeds,-,-,TDNB,-,-,-,-,-,-,1,3.2,0,14,1,4.94
+244497,Adil Rashid,6 Aug 2023,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,8.7
+244497,Adil Rashid,9 Aug 2023,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,6
+244497,Adil Rashid,11 Aug 2023,v Invincibles,Leeds,2,9,0,1,1,0,0,0,caught,1,4.0,0,38,1,11.4
+244497,Adil Rashid,13 Aug 2023,v Originals,Leeds,2,9,8,10,6,0,1,133.33,bowled,1,3.0,0,27,1,10.8
+244497,Adil Rashid,18 Aug 2023,v Spirit,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,5.4
+244497,Adil Rashid,20 Aug 2023,v Originals,Manchester,2,9,13,15,14,2,0,92.85,caught,1,4.0,0,18,4,5.4
+244497,Adil Rashid,22 Aug 2023,v Fire,Leeds,1,6,6,12,10,1,0,60,caught,2,4.0,0,27,1,8.1
+244497,Adil Rashid,30 Aug 2023,v New Zealand,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+244497,Adil Rashid,1 Sep 2023,v New Zealand,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+244497,Adil Rashid,3 Sep 2023,v New Zealand,Birmingham,2,11,8,13,8,0,0,100,caught,1,4.0,0,43,0,10.75
+244497,Adil Rashid,5 Sep 2023,v New Zealand,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+244497,Adil Rashid,12 Dec 2023,v West Indies,Bridgetown,1,10,0,2,2,0,0,0,bowled,2,4.0,0,25,2,6.25
+244497,Adil Rashid,14 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+244497,Adil Rashid,16 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+244497,Adil Rashid,19 Dec 2023,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+244497,Adil Rashid,21 Dec 2023,v West Indies,Tarouba,1,10,1,6,1,0,0,100,run out,2,4.0,0,21,2,5.25
+244497,Adil Rashid,12 Jan 2024,v Paarl Royals,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+244497,Adil Rashid,14 Jan 2024,v Paarl Royals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+244497,Adil Rashid,18 Jan 2024,v Super Giants,Centurion,1,11,1*,1,1,0,0,100,not out,2,3.0,0,23,0,7.66
+244497,Adil Rashid,20 Jan 2024,v Super Kings,Johannesburg,1,10,15,13,8,3,0,187.5,caught,2,3.0,0,21,1,7
+244497,Adil Rashid,22 Jan 2024,v Sunrisers,Gqeberha,1,10,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+244497,Adil Rashid,25 Jan 2024,v Sunrisers,Centurion,1,10,0,6,2,0,0,0,run out,2,4.0,0,30,3,7.5
+244497,Adil Rashid,27 Jan 2024,v Super Kings,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+244497,Adil Rashid,30 Jan 2024,v Super Giants,Durban,2,10,19*,7,7,2,1,271.42,not out,1,4.0,0,43,1,10.75
+244497,Adil Rashid,1 Feb 2024,v MI Cape Town,Centurion,2,10,21*,29,14,4,0,150,not out,1,4.0,0,42,0,10.5
+244497,Adil Rashid,3 Feb 2024,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+244497,Adil Rashid,5 Feb 2024,v KnightRiders,Sharjah,1,9,10,18,15,0,0,66.66,bowled,2,2.0,0,9,0,4.5
+244497,Adil Rashid,7 Feb 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,12,4,3
+244497,Adil Rashid,11 Feb 2024,v Vipers,Sharjah,1,10,0,1,1,0,0,0,bowled,2,3.0,0,23,0,7.66
+244497,Adil Rashid,25 May 2024,v Pakistan,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+244497,Adil Rashid,30 May 2024,v Pakistan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+244497,Adil Rashid,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+244497,Adil Rashid,8 Jun 2024,v Australia,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+244497,Adil Rashid,13 Jun 2024,v Oman,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,4,2.75
+244497,Adil Rashid,15 Jun 2024,v Namibia,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+244497,Adil Rashid,19 Jun 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+244497,Adil Rashid,21 Jun 2024,v South Africa,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+244497,Adil Rashid,23 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+244497,Adil Rashid,27 Jun 2024,v India,Providence,2,10,2,2,2,0,0,100,run out,1,4.0,0,25,1,6.25
+244497,Adil Rashid,26 Jul 2024,v Rockets,Leeds,2,10,1*,2,1,0,0,100,not out,1,4.0,0,28,0,8.4
+244497,Adil Rashid,30 Jul 2024,v Brave,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,5.7
+244497,Adil Rashid,2 Aug 2024,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,8.4
+244497,Adil Rashid,4 Aug 2024,v Originals,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,8.7
+244497,Adil Rashid,6 Aug 2024,v Phoenix,Birmingham,1,10,9,5,5,2,0,180,caught,2,DNB,-,-,-,-
+244497,Adil Rashid,8 Aug 2024,v Fire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+244497,Adil Rashid,11 Aug 2024,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,1,5.7
+244497,Adil Rashid,13 Aug 2024,v Spirit,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4.8
+244497,Adil Rashid,11 Sep 2024,v Australia,Southampton,2,9,7,20,10,1,0,70,caught,1,4.0,0,23,1,5.75
+244497,Adil Rashid,13 Sep 2024,v Australia,Cardiff,2,9,1*,1,1,0,0,100,not out,1,4.0,0,35,1,8.75
+244497,Adil Rashid,9 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+244497,Adil Rashid,10 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,1,32,1,8
+244497,Adil Rashid,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+244497,Adil Rashid,12 Jan 2025,v Gulf Giants,Dubai (DICS),2,9,9*,16,6,0,1,150,not out,1,4.0,0,30,0,7.5
+244497,Adil Rashid,15 Jan 2025,v KnightRiders,Abu Dhabi,2,9,4,12,7,0,0,57.14,caught,1,4.0,0,14,2,3.5
+244497,Adil Rashid,17 Jan 2025,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+244497,Adil Rashid,22 Jan 2025,v India,Eden Gardens,1,10,8*,17,11,1,0,72.72,not out,2,2.0,0,27,1,13.5
+244497,Adil Rashid,25 Jan 2025,v India,Chennai,1,10,10,12,11,1,0,90.9,caught,2,4.0,0,14,1,3.5
+244497,Adil Rashid,28 Jan 2025,v India,Rajkot,1,10,10*,20,9,1,0,111.11,not out,2,4.0,0,15,1,3.75
+244497,Adil Rashid,31 Jan 2025,v India,Pune,2,10,10*,15,6,0,1,166.66,not out,1,4.0,0,35,1,8.75
+244497,Adil Rashid,2 Feb 2025,v India,Wankhede,2,10,6,5,6,1,0,100,caught,1,3.0,0,41,1,13.66
+244497,Adil Rashid,6 Jun 2025,v West Indies,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+244497,Adil Rashid,8 Jun 2025,v West Indies,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,59,1,14.75
+244497,Adil Rashid,10 Jun 2025,v West Indies,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+244497,Adil Rashid,7 Aug 2025,v Fire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,7.5
+244497,Adil Rashid,10 Aug 2025,v Rockets,Nottingham,1,10,0,2,2,0,0,0,bowled,2,4.0,0,18,2,5.4
+244497,Adil Rashid,13 Aug 2025,v Brave,Southampton,2,9,1*,5,1,0,0,100,not out,1,4.0,0,24,0,7.2
+244497,Adil Rashid,15 Aug 2025,v Phoenix,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,7.8
+244497,Adil Rashid,17 Aug 2025,v Originals,Manchester,2,10,5*,6,6,0,0,83.33,not out,1,4.0,0,37,0,11.1
+244497,Adil Rashid,20 Aug 2025,v Spirit,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,5.4
+244497,Adil Rashid,23 Aug 2025,v Invincibles,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,8.7
+244497,Adil Rashid,26 Aug 2025,v Originals,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,11.7
+244497,Adil Rashid,30 Aug 2025,v Rockets,The Oval,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+244497,Adil Rashid,10 Sep 2025,v South Africa,Cardiff,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,1,12
+244497,Adil Rashid,12 Sep 2025,v South Africa,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,1,12
+244497,Adil Rashid,17 Sep 2025,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+244497,Adil Rashid,21 Sep 2025,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+244497,Adil Rashid,18 Oct 2025,v New Zealand,Christchurch,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244497,Adil Rashid,20 Oct 2025,v New Zealand,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,4,8
+244497,Adil Rashid,23 Oct 2025,v New Zealand,Auckland,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+244497,Adil Rashid,3 Dec 2025,v KnightRiders,Sharjah,2,10,25,-,11,2,2,227.27,caught,1,4.0,0,31,2,7.75
+244497,Adil Rashid,7 Dec 2025,v MI Emirates,Sharjah,2,8,3*,12,3,0,0,100,not out,1,4.0,0,32,3,8
+244497,Adil Rashid,10 Dec 2025,v Gulf Giants,Dubai (DICS),1,8,12*,14,6,2,0,200,not out,2,4.0,0,21,1,5.25
+244497,Adil Rashid,14 Dec 2025,v MI Emirates,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+244497,Adil Rashid,15 Dec 2025,v Gulf Giants,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+244497,Adil Rashid,19 Dec 2025,v DC,Dubai (DICS),2,9,2,-,4,0,0,50,caught,1,4.0,0,30,1,7.5
+244497,Adil Rashid,20 Dec 2025,v Vipers,Dubai (DICS),1,10,1,5,6,0,0,16.66,caught,2,2.5,0,16,1,5.64
+244497,Adil Rashid,22 Dec 2025,v KnightRiders,Abu Dhabi,2,8,2*,-,2,0,0,100,not out,1,4.0,0,18,3,4.5
+244497,Adil Rashid,24 Dec 2025,v DC,Dubai (DICS),1,8,14*,22,9,1,1,155.55,not out,2,4.0,0,26,0,6.5
+244497,Adil Rashid,26 Dec 2025,v Vipers,Sharjah,1,9,6*,3,3,0,1,200,not out,2,4.0,0,22,0,5.5
+244497,Adil Rashid,30 Jan 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+244497,Adil Rashid,1 Feb 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+244497,Adil Rashid,3 Feb 2026,v Sri Lanka,Pallekele,1,10,7*,14,5,1,0,140,not out,2,4.0,0,25,1,6.25
+244497,Adil Rashid,8 Feb 2026,v Nepal,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14
+244497,Adil Rashid,11 Feb 2026,v West Indies,Wankhede,2,11,0,3,1,0,0,0,caught,1,4.0,0,16,2,4
+244497,Adil Rashid,14 Feb 2026,v Scotland,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+244497,Adil Rashid,16 Feb 2026,v Italy,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+244497,Adil Rashid,22 Feb 2026,v Sri Lanka,Pallekele,1,11,1*,6,1,0,0,100,not out,2,3.4,0,13,2,3.54
+244497,Adil Rashid,24 Feb 2026,v Pakistan,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+244497,Adil Rashid,27 Feb 2026,v New Zealand,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+244497,Adil Rashid,5 Mar 2026,v India,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25

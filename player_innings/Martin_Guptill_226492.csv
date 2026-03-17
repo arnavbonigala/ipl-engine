@@ -1,0 +1,360 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+226492,Martin Guptill,20 Jan 2006,v Northern Dis,Hamilton,2,3,29*,25,29,3,2,100,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,21 Jan 2007,v Canterbury,Christchurch,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+226492,Martin Guptill,28 Jan 2007,v Northern Dis,Hamilton,2,2,38,42,35,3,2,108.57,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Jan 2007,v Central D,Auckland,1,2,33,39,26,5,0,126.92,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Feb 2007,v Otago,Auckland,1,2,36,34,25,1,3,144,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Jan 2008,v Otago,Dunedin,2,2,5,6,6,0,0,83.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Jan 2008,v Northern Dis,Auckland,1,2,43,44,42,3,1,102.38,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,23 Jan 2008,v Canterbury,Auckland,1,2,5,10,9,0,0,55.55,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,28 Jan 2008,v Wellington,Auckland,2,2,19,10,15,3,1,126.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,30 Jan 2008,v Central D,New Plymouth,2,2,55,20,18,4,5,305.55,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,15 Feb 2009,v Australia,Sydney,2,2,0,2,2,0,0,0,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,18 Feb 2009,v Wellington,Wellington,2,1,43,21,21,5,3,204.76,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Feb 2009,v Otago,Auckland,2,1,6,26,12,0,1,50,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,25 Feb 2009,v India,Christchurch,2,3,41,26,28,4,3,146.42,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,27 Feb 2009,v India,Wellington,2,3,10,15,19,1,0,52.63,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,6 Jun 2009,v Scotland,The Oval,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,9 Jun 2009,v South Africa,Lord's,2,2,6,8,5,1,0,120,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Jun 2009,v Ireland,Nottingham,1,3,45*,60,32,0,4,140.62,not out,2,DNB,-,-,-,-
+226492,Martin Guptill,13 Jun 2009,v Pakistan,The Oval,1,3,8,14,8,1,0,100,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,16 Jun 2009,v Sri Lanka,Nottingham,2,3,43,45,34,4,1,126.47,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Sep 2009,v Sri Lanka,Colombo (RPS),1,3,29,38,25,2,1,116,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Sep 2009,v Sri Lanka,Colombo (RPS),1,4,32,29,20,2,1,160,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Nov 2009,v Pakistan,Dubai (DICS),2,2,8,6,4,2,0,200,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,13 Nov 2009,v Pakistan,Dubai (DICS),2,3,17,16,21,3,0,80.95,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Jan 2010,v Northern Dis,Mt Maunganui,2,2,37,29,22,4,1,168.18,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,13 Jan 2010,v Wellington,Auckland,1,2,62,52,35,7,1,177.14,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Jan 2010,v Otago,Dunedin,1,1,7,8,5,1,0,140,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,17 Jan 2010,v Central D,Nelson,1,1,17,25,20,0,1,85,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2010,v Northern Dis,Auckland,1,1,27,31,26,4,0,103.84,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,24 Jan 2010,v Canterbury,Christchurch,2,2,97*,74,60,7,4,161.66,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,26 Jan 2010,v Otago,Auckland,1,1,6,6,6,1,0,100,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,31 Jan 2010,v Central D,New Plymouth,2,2,0,8,2,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,3 Feb 2010,v Bangladesh,Hamilton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,26 Feb 2010,v Australia,Wellington,1,3,30,41,29,4,0,103.44,caught,2,1.0,0,11,0,11
+226492,Martin Guptill,28 Feb 2010,v Australia,Christchurch,1,3,17,22,17,3,0,100,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Apr 2010,v Sri Lanka,Providence,2,3,19,39,24,1,1,79.16,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,4 May 2010,v Zimbabwe,Providence,2,3,6*,21,12,0,0,50,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,6 May 2010,v South Africa,Bridgetown,2,3,18,27,19,3,0,94.73,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,8 May 2010,v Pakistan,Bridgetown,1,3,2,9,10,0,0,20,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 May 2010,v Sri Lanka,Lauderhill,1,7,10,7,10,0,0,100,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Dec 2010,v Otago,Auckland,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+226492,Martin Guptill,21 Dec 2010,v Canterbury,Auckland,1,3,8,6,7,2,0,114.28,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Dec 2010,v Pakistan,Auckland,2,2,54,45,29,4,4,186.2,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Dec 2010,v Pakistan,Hamilton,1,2,44,50,28,3,3,157.14,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Dec 2010,v Pakistan,Christchurch,2,2,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Jan 2011,v Central D,Auckland,1,2,4,6,7,0,0,57.14,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,2 Jun 2011,v Lancashire,Derby,1,1,21,22,19,2,0,110.52,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jun 2011,v Notts,Nottingham,2,2,25,22,19,5,0,131.57,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Jun 2011,v Durham,Derby,1,1,60,44,43,8,1,139.53,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Jun 2011,v Durham,Chester-le-Street,1,2,44,43,31,8,0,141.93,caught,-,TDNB,-,-,-,-
+226492,Martin Guptill,15 Jun 2011,v Worcs,Derby,2,1,4,5,7,1,0,57.14,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,18 Jun 2011,v Leics,Derby,1,2,44,57,43,6,0,102.32,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jun 2011,v Yorkshire,Leeds,1,1,1,3,2,0,0,50,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Jun 2011,v Warwickshire,Leek,2,2,72,53,44,3,6,163.63,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Jul 2011,v Notts,Derby,1,1,79,72,55,7,2,143.63,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jul 2011,v Lancashire,Manchester,1,2,8,26,15,1,0,53.33,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,6 Jul 2011,v Warwickshire,Birmingham,1,1,38,30,26,4,3,146.15,stumped,2,DNB,-,-,-,-
+226492,Martin Guptill,8 Jul 2011,v Leics,Leicester,1,2,7,15,12,0,0,58.33,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,9 Jul 2011,v Northants,Derby,1,1,27,37,34,2,0,79.41,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Jul 2011,v Yorkshire,Derby,1,2,46,51,39,4,1,117.94,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Sep 2011,v KKR,Hyderabad,2,2,0,1,0,0,0,-,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Sep 2011,v Somerset,Hyderabad,1,1,9,15,10,1,0,90,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Oct 2011,v Zimbabwe,Harare,2,1,40*,54,36,2,2,111.11,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Oct 2011,v Zimbabwe,Harare,1,2,67,68,46,7,2,145.65,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Dec 2011,v Wellington,Auckland,1,2,46,46,32,3,2,143.75,stumped,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Dec 2011,v Northern Dis,Auckland,2,2,27,20,22,3,1,122.72,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Dec 2011,v Wellington,Wellington,1,1,23,27,19,1,1,121.05,caught,2,1.0,0,8,0,8
+226492,Martin Guptill,3 Jan 2012,v Canterbury,Rangiora,2,2,120*,89,60,6,8,200,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,6 Jan 2012,v Otago,Auckland,1,1,65,52,45,2,6,144.44,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,8 Jan 2012,v Northern Dis,Mount Maunganui,2,2,49*,63,48,5,1,102.08,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,12 Jan 2012,v Central D,Auckland,2,2,18,21,13,3,1,138.46,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,15 Jan 2012,v Otago,Dunedin,2,1,68*,69,47,7,2,144.68,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Jan 2012,v Canterbury,Auckland,1,1,18,6,6,3,1,300,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2012,v Canterbury,Auckland,1,2,70,59,41,4,4,170.73,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,11 Feb 2012,v Zimbabwe,Auckland,2,2,91*,74,54,5,6,168.51,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Feb 2012,v South Africa,Wellington,2,2,78*,93,55,5,4,141.81,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Feb 2012,v South Africa,Hamilton,1,2,47,48,35,7,1,134.28,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Feb 2012,v South Africa,Auckland,2,2,26,25,19,3,1,136.84,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,30 Jun 2012,v West Indies,Lauderhill,2,2,11,19,9,2,0,122.22,stumped,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Jul 2012,v West Indies,Lauderhill,2,2,18,18,18,2,1,100,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Sep 2012,v India,Chennai,1,2,1,7,5,0,0,20,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,21 Sep 2012,v Bangladesh,Pallekele,1,1,11,17,14,0,1,78.57,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,27 Sep 2012,v Sri Lanka,Pallekele,1,2,38,34,30,6,0,126.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,29 Sep 2012,v England,Pallekele,1,1,5,7,6,1,0,83.33,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Oct 2012,v West Indies,Pallekele,2,2,21,36,27,2,0,77.77,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,9 Oct 2012,v S Stallions,Johannesburg,2,1,40,44,32,5,1,125,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Oct 2012,v Hampshire,Centurion,2,1,38,45,31,3,2,122.58,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,15 Oct 2012,v KKR,Cape Town,2,1,25,37,26,3,0,96.15,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Oct 2012,v Titans,Durban,2,1,3,12,8,0,0,37.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,23 Oct 2012,v Scorchers,Centurion,2,1,36,39,32,3,1,112.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,8 Dec 2012,v Sixers,Sydney,1,1,20,-,27,1,0,74.07,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,23 Dec 2012,v South Africa,East London,2,1,101*,89,69,9,6,146.37,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,26 Dec 2012,v South Africa,Gqeberha,2,2,24,26,20,3,1,120,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,9 Feb 2013,v England,Auckland,2,2,44,58,32,3,2,137.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,12 Feb 2013,v England,Hamilton,1,1,47,45,31,4,2,151.61,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Feb 2013,v England,Wellington,1,2,59,77,55,2,1,107.27,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jun 2013,v Kent,Canterbury,1,2,56,72,44,3,2,127.27,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,31 Jul 2013,v Red Steel,Providence,1,2,32,-,21,3,1,152.38,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,2 Aug 2013,v Tallawahs,Providence,2,2,17,-,16,1,1,106.25,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,4 Aug 2013,v Zouks,Providence,1,2,12,-,10,1,0,120,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,9 Aug 2013,v Red Steel,Port of Spain,2,2,6,-,12,0,0,50,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Aug 2013,v Tridents,Port of Spain,1,2,73,-,55,4,4,132.72,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Aug 2013,v Tallawahs,Kingston,1,2,39,-,36,5,0,108.33,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,17 Aug 2013,v Hawksbills,North Sound,2,2,19*,-,16,3,0,118.75,retired notout,1,DNB,-,-,-,-
+226492,Martin Guptill,23 Nov 2013,v Wellington,Wellington,2,2,8,20,12,1,0,66.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Nov 2013,v Wellington,Auckland,1,1,21,34,20,0,1,105,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Nov 2013,v Canterbury,Auckland,2,2,4,21,9,0,0,44.44,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Jan 2014,v West Indies,Auckland,1,1,25,16,16,3,1,156.25,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Jan 2014,v West Indies,Wellington,2,1,1,3,4,0,0,25,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Mar 2014,v England,Chattogram,2,1,11,14,9,2,0,122.22,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Mar 2014,v South Africa,Chattogram,2,1,22,31,25,3,0,88,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Mar 2014,v Netherlands,Chattogram,2,1,9,13,15,1,0,60,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,31 Mar 2014,v Sri Lanka,Chattogram,2,1,5,13,9,0,0,55.55,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Jul 2014,v Hawksbills,St George's,2,2,4,-,5,1,0,80,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Jul 2014,v Red Steel,Providence,2,2,4,-,7,0,0,57.14,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Jul 2014,v Zouks,Providence,2,2,50*,-,47,2,3,106.38,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Jul 2014,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Jul 2014,v Red Steel,Port of Spain,1,2,1,-,10,0,0,10,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Jul 2014,v Tridents,Bridgetown,1,2,55*,-,51,4,1,107.84,not out,2,DNB,-,-,-,-
+226492,Martin Guptill,2 Aug 2014,v Tallawahs,Kingston,1,2,15,-,14,1,1,107.14,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Aug 2014,v Hawksbills,Basseterre,1,2,90,-,51,7,6,176.47,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,10 Aug 2014,v Zouks,Basseterre,2,2,66,-,47,6,2,140.42,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,14 Aug 2014,v Tallawahs,Basseterre,2,2,66*,-,46,6,2,143.47,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,16 Aug 2014,v Tridents,Basseterre,2,2,7,-,6,1,0,116.66,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,31 Oct 2014,v South Island,Hamilton,2,1,1,7,3,0,0,33.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Nov 2014,v Otago,Hamilton,1,1,64,72,54,3,4,118.51,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,8 Nov 2014,v Otago,Hamilton,1,2,84*,82,65,4,6,129.23,not out,2,DNB,-,-,-,-
+226492,Martin Guptill,14 Nov 2014,v Wellington,Auckland,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Nov 2014,v Central D,Auckland,1,2,1*,6,6,0,0,16.66,not out,-,TDNB,-,-,-,-
+226492,Martin Guptill,16 Nov 2014,v Northern Dis,Auckland,2,1,27,31,21,3,0,128.57,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,4 Dec 2014,v Pakistan,Dubai (DICS),1,1,32,47,30,2,1,106.66,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,23 Jun 2015,v England,Manchester,2,1,6,2,3,1,0,200,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Jun 2015,v Zouks,Gros Islet,1,1,14,-,11,2,0,127.27,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,27 Jun 2015,v Tridents,Bridgetown,1,1,23,21,15,1,2,153.33,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Jun 2015,v Tallawahs,Basseterre,1,1,53,-,49,3,2,108.16,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jul 2015,v Amazon,Basseterre,1,1,34,-,31,3,1,109.67,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Jul 2015,v Tallawahs,Basseterre,1,1,35,-,25,2,2,140,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,6 Jul 2015,v Tridents,Basseterre,2,1,45,-,35,2,3,128.57,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,8 Jul 2015,v Amazon,Basseterre,1,1,10,-,11,0,1,90.9,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,10 Jul 2015,v Zouks,Basseterre,1,1,35,-,30,6,0,116.66,stumped,2,DNB,-,-,-,-
+226492,Martin Guptill,11 Jul 2015,v Red Steel,Basseterre,1,1,16,-,13,3,0,123.07,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Jul 2015,v Red Steel,Port of Spain,2,2,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,9 Aug 2015,v Zimbabwe,Harare,1,1,33,35,24,5,0,137.5,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,14 Aug 2015,v South Africa,Durban,1,1,42,54,37,5,0,113.51,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,16 Aug 2015,v South Africa,Centurion,1,1,60,50,35,6,3,171.42,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Dec 2015,v Northern Dis,Hamilton,1,2,63,74,46,3,5,136.95,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Jan 2016,v Sri Lanka,Mount Maunganui,1,1,58,43,34,4,4,170.58,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,10 Jan 2016,v Sri Lanka,Auckland,2,1,63,29,25,6,5,252,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,15 Jan 2016,v Pakistan,Auckland,2,1,2,-,3,0,0,66.66,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Jan 2016,v Pakistan,Hamilton,2,1,87*,68,58,9,4,150,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2016,v Pakistan,Wellington,1,1,42,25,19,6,2,221.05,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Mar 2016,v India,Nagpur,1,1,6,2,2,0,1,300,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Mar 2016,v Australia,Dharamsala,1,1,39,27,27,2,4,144.44,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Mar 2016,v Pakistan,Mohali,1,1,80,61,48,10,3,166.66,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Mar 2016,v England,Delhi,1,1,15,9,12,3,0,125,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Apr 2016,v SRH,Hyderabad,1,1,2,3,4,0,0,50,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 May 2016,v Daredevils,Visakhapatnam,1,2,48,75,42,2,3,114.28,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,21 May 2016,v Guj Lions,Kanpur,1,2,7,20,9,1,0,77.77,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,27 May 2016,v Durham,Manchester,1,1,72,51,46,10,1,156.52,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jun 2016,v Yorkshire,Manchester,1,1,13,13,13,2,0,100,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Jun 2016,v Notts,Nottingham,1,1,28,16,18,4,1,155.55,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Jun 2016,v Warwickshire,Birmingham,2,1,6,7,7,1,0,85.71,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Jun 2016,v Worcs,Manchester,1,1,6,16,11,0,0,54.54,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Jun 2016,v Patriots,Basseterre,2,2,22,-,16,2,1,137.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Jul 2016,v Trinbago,Port of Spain,2,2,25,-,22,1,1,113.63,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,7 Jul 2016,v Tallawahs,Providence,2,2,5,-,9,1,0,55.55,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,9 Jul 2016,v Patriots,Providence,2,2,43,-,22,3,4,195.45,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Jul 2016,v Trinbago,Providence,2,2,50,-,40,1,4,125,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,12 Jul 2016,v Zouks,Providence,2,2,19,-,22,2,1,86.36,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,15 Jul 2016,v Tallawahs,Kingston,1,2,0,-,7,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,28 Apr 2017,v SRH,Mohali,2,1,23,11,11,4,1,209.09,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,30 Apr 2017,v Daredevils,Mohali,2,1,50*,32,27,6,3,185.18,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,5 May 2017,v RCB,Bengaluru,1,2,9,15,10,1,0,90,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,7 May 2017,v Guj Lions,Mohali,1,1,2,3,5,0,0,40,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,9 May 2017,v KKR,Mohali,1,1,12,24,16,1,0,75,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,11 May 2017,v MI,Wankhede,1,1,36,28,18,5,1,200,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,14 May 2017,v Supergiant,Pune,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Aug 2017,v Patriots,Lauderhill,1,2,23,-,14,3,1,164.28,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,11 Aug 2017,v Trinbago,Port of Spain,1,2,24,-,14,2,2,171.42,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,13 Aug 2017,v Stars,Gros Islet,2,2,23,-,28,1,1,82.14,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Aug 2017,v Tallawahs,Providence,2,2,33,-,41,2,0,80.48,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Aug 2017,v Trinbago,Providence,1,2,4,-,10,0,0,40,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,20 Aug 2017,v Tridents,Providence,2,4,27,-,33,0,0,81.81,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Aug 2017,v Stars,Providence,2,3,8,-,11,0,1,72.72,stumped,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Nov 2017,v India,Delhi,2,1,4,8,8,1,0,50,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,4 Nov 2017,v India,Rajkot,1,1,45,44,41,3,3,109.75,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Nov 2017,v India,Thiruvananthapuram,2,1,1,3,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Dec 2017,v Wellington,Auckland,2,1,29,-,22,3,1,131.81,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Dec 2017,v West Indies,Nelson,1,1,5,5,4,1,0,125,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Jan 2018,v West Indies,Mount Maunganui,1,1,2,3,4,0,0,50,caught,-,TDNB,-,-,-,-
+226492,Martin Guptill,3 Jan 2018,v West Indies,Mount Maunganui,1,1,63,51,38,5,2,165.78,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2018,v Pakistan,Wellington,2,1,2,5,6,0,0,33.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,25 Jan 2018,v Pakistan,Auckland,2,1,26,33,27,1,1,96.29,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Jan 2018,v Pakistan,Mount Maunganui,2,1,59,-,43,2,4,137.2,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,3 Feb 2018,v Australia,Sydney,1,1,5,9,5,1,0,100,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,13 Feb 2018,v England,Wellington,1,1,65,58,40,6,3,162.5,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,16 Feb 2018,v Australia,Auckland,1,1,105,74,54,6,9,194.44,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Feb 2018,v England,Hamilton,2,1,62,68,47,3,4,131.91,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,21 Feb 2018,v Australia,Auckland,1,1,21,20,15,2,1,140,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Jul 2018,v Lancashire,Manchester,2,1,19,12,10,4,0,190,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,6 Jul 2018,v Bears,Worcester,1,1,51,44,40,7,1,127.5,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,8 Jul 2018,v Derbyshire,Derby,2,1,65,73,65,2,3,100,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,13 Jul 2018,v Northants,Worcester,1,1,9,8,7,2,0,128.57,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Jul 2018,v Yorkshire,Worcester,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Jul 2018,v Durham,Chester-le-Street,1,2,7,18,10,1,0,70,lbw,2,DNB,-,-,-,-
+226492,Martin Guptill,27 Jul 2018,v Northants,Northampton,2,1,102,40,38,12,7,268.42,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,12 Aug 2018,v Amazon,Providence,1,2,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,17 Aug 2018,v Stars,Gros Islet,2,2,7,-,9,1,0,77.77,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Aug 2018,v Tallawahs,Lauderhill,1,3,0,-,2,0,0,0,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,25 Aug 2018,v Patriots,Bridgetown,1,2,19,-,19,1,1,100,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,29 Aug 2018,v Tallawahs,Bridgetown,1,2,73,-,60,4,3,121.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,31 Aug 2018,v Amazon,Bridgetown,1,2,8,-,11,1,0,72.72,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,2 Sep 2018,v Stars,Bridgetown,1,2,9,-,7,0,1,128.57,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,29 Dec 2018,v Central D,New Plymouth,2,1,71*,78,51,10,2,139.21,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Jan 2019,v Sri Lanka,Auckland,1,1,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,13 Jan 2019,v Otago,Dunedin,1,2,62*,45,37,7,3,167.56,not out,-,TDNB,-,-,-,-
+226492,Martin Guptill,18 Jan 2019,v Wellington,Wellington,2,1,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 May 2019,v MI,Wankhede,2,2,15,28,11,1,1,136.36,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,4 May 2019,v RCB,Bengaluru,1,2,30,36,23,2,2,130.43,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,8 May 2019,v DC,Visakhapatnam,1,2,36,38,19,1,4,189.47,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Jul 2019,v Notts,Nottingham,1,2,27,39,24,2,1,112.5,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Jul 2019,v Lancashire,Manchester,1,1,37,46,33,3,1,112.12,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,28 Jul 2019,v Durham,Worcester,2,2,86*,49,31,3,10,277.41,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,31 Jul 2019,v Derbyshire,Worcester,2,1,15,8,10,2,1,150,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Aug 2019,v Yorkshire,Leeds,2,2,5,14,8,1,0,62.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,4 Aug 2019,v Leics,Worcester,2,1,17,14,14,0,2,121.42,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,13 Aug 2019,v Derbyshire,Derby,2,2,45,48,40,2,2,112.5,bowled,1,1.0,0,9,0,9
+226492,Martin Guptill,15 Aug 2019,v Durham,Chester-le-Street,1,1,0,3,2,0,0,0,caught,2,1.0,0,7,0,7
+226492,Martin Guptill,23 Aug 2019,v Bears,Birmingham,2,2,27,20,16,2,2,168.75,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Sep 2019,v Sri Lanka,Pallekele,2,1,11,-,12,1,0,91.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,3 Sep 2019,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,1 Nov 2019,v England,Christchurch,1,1,2,11,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Nov 2019,v England,Wellington,1,1,41,44,28,3,2,146.42,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Nov 2019,v England,Nelson,1,2,33,17,17,7,0,194.11,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,8 Nov 2019,v England,Napier,2,1,27,21,14,1,3,192.85,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Nov 2019,v England,Auckland,1,1,50,-,20,3,5,250,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,14 Dec 2019,v Otago,Auckland,2,1,46,24,18,4,3,255.55,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Dec 2019,v Canterbury,Christchurch,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Dec 2019,v Otago,Dunedin,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Dec 2019,v Northern Dis,Hamilton,2,1,12,15,9,2,0,133.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Dec 2019,v Central D,New Plymouth,1,1,43,-,29,6,1,148.27,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Dec 2019,v Wellington,Auckland,1,1,42,-,34,5,2,123.52,stumped,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Jan 2020,v Canterbury,Auckland,2,1,83*,83,52,6,5,159.61,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,4 Jan 2020,v Central D,Auckland,2,1,22,28,18,2,1,122.22,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Jan 2020,v Northern Dis,Auckland,1,1,42,47,29,4,2,144.82,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Jan 2020,v Wellington,Wellington,2,1,10,11,10,2,0,100,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Jan 2020,v Otago,Dunedin,2,2,43,43,31,4,2,138.7,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Jan 2020,v Wellington,Wellington,2,1,60,92,53,3,2,113.2,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Jan 2020,v India,Auckland,1,1,30,-,19,4,1,157.89,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Jan 2020,v India,Auckland,1,1,33,29,20,4,2,165,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,29 Jan 2020,v India,Hamilton,2,1,31,31,21,2,3,147.61,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,31 Jan 2020,v India,Wellington,2,1,4,24,8,0,0,50,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Feb 2020,v India,Mount Maunganui,2,1,2,-,6,0,0,33.33,lbw,1,DNB,-,-,-,-
+226492,Martin Guptill,27 Nov 2020,v West Indies,Auckland,2,1,5,3,3,0,0,166.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Nov 2020,v West Indies,Mount Maunganui,1,1,34,31,23,5,2,147.82,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Nov 2020,v West Indies,Mount Maunganui,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,18 Dec 2020,v Pakistan,Auckland,2,1,6,8,10,1,0,60,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Dec 2020,v Pakistan,Hamilton,2,1,21,16,11,1,2,190.9,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Dec 2020,v Pakistan,Napier,1,1,19,21,16,2,1,118.75,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,11 Jan 2021,v Canterbury,Christchurch,2,1,6,7,7,1,0,85.71,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Jan 2021,v Northern Dis,Auckland,1,1,9,5,6,2,0,150,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,23 Jan 2021,v Central D,Auckland,1,1,29,52,31,0,2,93.54,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,29 Jan 2021,v Northern Dis,Hamilton,1,1,2,7,6,0,0,33.33,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Feb 2021,v Australia,Christchurch,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,25 Feb 2021,v Australia,Dunedin,1,1,97,62,50,6,8,194,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Mar 2021,v Australia,Wellington,2,1,43,40,28,2,3,153.57,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,5 Mar 2021,v Australia,Wellington,2,1,7,17,10,1,0,70,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,7 Mar 2021,v Australia,Wellington,2,2,71,66,46,7,4,154.34,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Mar 2021,v Bangladesh,Hamilton,1,1,35,31,27,3,2,129.62,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,30 Mar 2021,v Bangladesh,Napier,1,1,21,26,18,2,1,116.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Apr 2021,v Bangladesh,Auckland,1,1,44,27,19,1,5,231.57,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,10 Jun 2021,v Sultans,Abu Dhabi,2,3,11,-,16,1,0,68.75,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,14 Jun 2021,v United,Abu Dhabi,1,3,6,-,4,1,0,150,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Jun 2021,v Zalmi,Abu Dhabi,1,3,4,-,7,1,0,57.14,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,17 Jun 2021,v Qalandars,Abu Dhabi,1,3,43,-,31,2,3,138.7,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Jun 2021,v Gladiators,Abu Dhabi,1,3,5,-,5,1,0,100,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,21 Jun 2021,v Zalmi,Abu Dhabi,1,3,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Oct 2021,v Pakistan,Sharjah,1,1,17,25,20,3,0,85,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,31 Oct 2021,v India,Dubai (DICS),2,1,20,15,17,3,0,117.64,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,3 Nov 2021,v Scotland,Dubai (DICS),1,1,93,92,56,6,7,166.07,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Nov 2021,v Namibia,Sharjah,1,1,18,20,18,1,1,100,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Nov 2021,v Afghanistan,Abu Dhabi,2,1,28,34,23,4,0,121.73,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Nov 2021,v England,Abu Dhabi,2,1,4,3,3,1,0,133.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,14 Nov 2021,v Australia,Dubai (DICS),1,1,28,53,35,3,0,80,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,17 Nov 2021,v India,Jaipur,1,1,70,87,42,3,4,166.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Nov 2021,v India,Ranchi,1,1,31,25,15,3,2,206.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,21 Nov 2021,v India,Eden Gardens,2,1,51,52,36,4,4,141.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,17 Dec 2021,v Northern Dis,Hamilton,1,1,47,50,31,4,2,151.61,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,20 Dec 2021,v Northern Dis,Auckland,1,1,4,19,13,0,0,30.76,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,24 Dec 2021,v Wellington,Wellington,1,1,4,2,3,1,0,133.33,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,27 Dec 2021,v Central D,Palmerston North,2,1,79*,96,58,7,3,136.2,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Dec 2021,v Otago,Queenstown,2,1,1,3,3,0,0,33.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2022,v Central D,Auckland,2,1,16,31,21,1,1,76.19,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,18 Jul 2022,v Ireland,Belfast,1,1,24,18,12,5,0,200,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,20 Jul 2022,v Ireland,Belfast,1,1,11,40,17,0,0,64.7,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jul 2022,v Ireland,Belfast,2,1,25,-,19,1,2,131.57,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,27 Jul 2022,v Scotland,Edinburgh,1,1,40,-,31,4,2,129.03,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Aug 2022,v Netherlands,The Hague,1,1,45,58,36,4,1,125,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Aug 2022,v Netherlands,The Hague,2,1,2,11,6,0,0,33.33,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Aug 2022,v West Indies,Kingston,1,1,16,33,17,1,1,94.11,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Aug 2022,v West Indies,Kingston,1,1,20,17,11,3,0,181.81,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,14 Aug 2022,v West Indies,Kingston,1,1,15,11,13,1,1,115.38,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Oct 2022,v Bangladesh,Christchurch,1,3,34,40,27,3,1,125.92,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,28 Dec 2022,v Sixers,Sydney,2,1,0,3,4,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,30 Dec 2022,v Sixers,Geelong,1,1,12,29,18,0,0,66.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Jan 2023,v Scorchers,Melbourne (Docklands),1,1,6,9,9,0,0,66.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jan 2023,v Stars,Melbourne,1,1,32,36,27,2,1,118.51,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Jan 2023,v Hurricanes,Melbourne (Docklands),2,1,36,18,19,5,1,189.47,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Jan 2023,v Strikers,Adelaide,2,1,14,-,12,2,0,116.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,14 Jan 2023,v Stars,Melbourne (Docklands),1,1,11,24,14,1,0,78.57,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Jan 2023,v Thunder,Canberra,1,1,30,43,27,3,1,111.11,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2023,v Scorchers,Perth,2,2,15,27,19,2,0,78.94,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Jan 2023,v Strikers,Melbourne (Docklands),2,1,8,4,3,0,1,266.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Jan 2023,v Heat,Melbourne (Docklands),1,2,1,10,2,0,0,50,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,15 Feb 2023,v Sultans,Multan,1,2,7,10,6,1,0,116.66,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,18 Feb 2023,v Kings,Karachi,1,2,117,102,67,12,5,174.62,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,20 Feb 2023,v Zalmi,Karachi,1,2,12,-,16,2,0,75,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,21 Feb 2023,v Qalandars,Karachi,2,1,15,-,18,1,0,83.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,24 Feb 2023,v United,Karachi,2,2,0,4,1,0,0,0,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Mar 2023,v Qalandars,Lahore,2,3,15,32,20,1,0,75,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,6 Mar 2023,v Kings,Rawalpindi,2,2,86*,105,56,9,4,153.57,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,8 Mar 2023,v Zalmi,Rawalpindi,2,2,21,13,8,3,1,262.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,11 Mar 2023,v Sultans,Rawalpindi,2,2,37,22,14,2,4,264.28,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Aug 2023,v Patriots,Gros Islet,1,1,11,-,15,2,0,73.33,bowled,-,TDNB,-,-,-,-
+226492,Martin Guptill,26 Aug 2023,v Kings,Basseterre,2,2,7,17,8,1,0,87.5,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,27 Aug 2023,v Patriots,Basseterre,2,2,7,22,8,0,0,87.5,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,30 Aug 2023,v Royals,Bridgetown,1,1,100*,97,58,1,9,172.41,not out,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Sep 2023,v Tallawahs,Bridgetown,1,1,15,-,25,2,0,60,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,5 Sep 2023,v Amazon,Port of Spain,1,1,15,39,20,2,0,75,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,6 Sep 2023,v Royals,Port of Spain,1,1,37,47,30,5,0,123.33,stumped,2,DNB,-,-,-,-
+226492,Martin Guptill,9 Sep 2023,v Tallawahs,Tarouba,2,1,53*,93,45,5,1,117.77,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,10 Sep 2023,v Kings,Tarouba,2,1,16,17,15,1,1,106.66,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,16 Sep 2023,v Amazon,Providence,1,1,1,7,3,0,0,33.33,run out,2,DNB,-,-,-,-
+226492,Martin Guptill,19 Dec 2023,v Canterbury,Auckland,1,2,47,-,29,5,2,162.06,bowled,2,DNB,-,-,-,-
+226492,Martin Guptill,1 Jan 2024,v Otago,Alexandra,1,2,7,12,8,1,0,87.5,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,4 Jan 2024,v Wellington,Auckland,1,2,85*,93,52,5,6,163.46,not out,2,DNB,-,-,-,-
+226492,Martin Guptill,7 Jan 2024,v Canterbury,Christchurch,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,19 Jan 2024,v Gulf Giants,Sharjah,2,1,40,41,30,6,1,133.33,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2024,v DC,Dubai (DICS),2,1,2,-,4,0,0,50,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,26 Jan 2024,v MI Emirates,Sharjah,2,1,17,26,13,2,0,130.76,bowled,1,DNB,-,-,-,-
+226492,Martin Guptill,28 Jan 2024,v Vipers,Sharjah,1,3,39,64,32,4,1,121.87,caught,2,sub,-,-,-,-
+226492,Martin Guptill,29 Jan 2024,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+226492,Martin Guptill,7 Feb 2024,v KnightRiders,Abu Dhabi,2,4,13*,28,23,0,0,56.52,not out,1,sub,-,-,-,-
+226492,Martin Guptill,11 Feb 2024,v Vipers,Sharjah,1,4,11,20,13,0,0,84.61,bowled,2,sub,-,-,-,-
+226492,Martin Guptill,15 Mar 2024,v Gladiators,Karachi,1,1,56,87,47,5,1,119.14,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,16 Mar 2024,v Zalmi,Karachi,2,1,34,26,21,5,1,161.9,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,18 Mar 2024,v Sultans,Karachi,2,1,50,56,32,4,3,156.25,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,29 Dec 2024,v Otago,Alexandra,1,1,31,45,23,2,1,134.78,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,3 Jan 2025,v Canterbury,Auckland,1,1,60,56,35,7,3,171.42,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,10 Jan 2025,v Canterbury,Christchurch,2,1,20,30,21,4,0,95.23,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,20 Jan 2025,v Wellington,Wellington,1,1,82,64,49,6,6,167.34,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,26 Dec 2025,v Northern Dis,Hamilton,1,3,3,8,5,0,0,60,caught,-,TDNB,-,-,-,-
+226492,Martin Guptill,29 Dec 2025,v Wellington,Wellington,2,3,19,36,18,2,0,105.55,run out,1,DNB,-,-,-,-
+226492,Martin Guptill,2 Jan 2026,v Wellington,Auckland,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+226492,Martin Guptill,6 Jan 2026,v Otago,Auckland,1,4,13,15,10,1,0,130,caught,2,DNB,-,-,-,-
+226492,Martin Guptill,12 Jan 2026,v Otago,Dunedin,2,3,0,4,4,0,0,0,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,14 Jan 2026,v Canterbury,Auckland,2,3,39*,23,15,2,4,260,not out,1,DNB,-,-,-,-
+226492,Martin Guptill,16 Jan 2026,v Central D,Napier,2,2,15,38,23,0,0,65.21,caught,1,DNB,-,-,-,-
+226492,Martin Guptill,22 Jan 2026,v Northern Dis,Auckland,2,3,8,-,13,1,0,61.53,caught,1,DNB,-,-,-,-

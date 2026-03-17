@@ -1,0 +1,504 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+325026,Glenn Maxwell,2 Jan 2010,v NSW,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,7 Jan 2010,v South Aust,Adelaide,2,8,10,7,7,2,0,142.85,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Sep 2010,v Warriors,Gqeberha,2,7,2,7,4,0,0,50,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,11 Jan 2011,v Tasmania,Hobart,1,1,0,-,3,0,0,0,lbw,2,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Jan 2011,v West Aust,W.A.C.A,1,7,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Dec 2011,v Strikers,Adelaide,2,3,46,-,31,5,1,148.38,caught,1,2.0,0,16,0,8
+325026,Glenn Maxwell,22 Dec 2011,v Scorchers,Melbourne (Docklands),1,3,31,17,15,1,3,206.66,bowled,2,3.0,0,24,0,8
+325026,Glenn Maxwell,30 Dec 2011,v Thunder,Sydney,1,3,10,17,15,0,0,66.66,bowled,2,1.0,0,17,0,17
+325026,Glenn Maxwell,2 Jan 2012,v Sixers,Melbourne (Docklands),2,3,3,3,3,0,0,100,caught,1,4.0,0,21,1,5.25
+325026,Glenn Maxwell,7 Jan 2012,v Stars,Melbourne,2,3,24,30,24,3,0,100,caught,1,2.0,0,15,0,7.5
+325026,Glenn Maxwell,12 Jan 2012,v Heat,Melbourne (Docklands),2,7,10,6,6,2,0,166.66,caught,1,1.0,0,2,0,2
+325026,Glenn Maxwell,5 Apr 2012,v KKR,Eden Gardens,2,4,3*,-,7,0,0,42.85,not out,1,1.0,0,12,0,12
+325026,Glenn Maxwell,7 Apr 2012,v RCB,Bengaluru,2,5,3,6,4,0,0,75,caught,1,2.0,0,10,1,5
+325026,Glenn Maxwell,18 Jun 2012,v Middlesex,Southampton,1,6,15,8,10,0,1,150,caught,2,3.0,0,23,0,7.66
+325026,Glenn Maxwell,22 Jun 2012,v Kent,Southampton,2,6,14,11,11,1,1,127.27,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,24 Jun 2012,v Kent,Canterbury,2,6,66*,28,32,5,6,206.25,not out,1,2.0,0,10,2,5
+325026,Glenn Maxwell,27 Jun 2012,v Middlesex,Richmond,2,6,1,3,2,0,0,50,caught,1,4.0,1,18,0,4.5
+325026,Glenn Maxwell,29 Jun 2012,v Essex,Chelmsford,2,6,60*,29,24,6,4,250,not out,1,4.0,0,47,0,11.75
+325026,Glenn Maxwell,30 Jun 2012,v Surrey,Southampton,2,5,22*,22,21,2,1,104.76,not out,1,4.0,0,18,1,4.5
+325026,Glenn Maxwell,2 Jul 2012,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+325026,Glenn Maxwell,6 Jul 2012,v Sussex,Southampton,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+325026,Glenn Maxwell,25 Jul 2012,v Notts,Nottingham,2,6,1,2,2,0,0,50,stumped,1,4.0,0,36,3,9
+325026,Glenn Maxwell,5 Sep 2012,v Pakistan,Dubai (DICS),1,8,4,8,7,0,0,57.14,caught,2,2.0,0,25,0,12.5
+325026,Glenn Maxwell,10 Sep 2012,v Pakistan,Dubai (DICS),1,3,27,14,20,3,1,135,caught,2,4.0,0,12,1,3
+325026,Glenn Maxwell,19 Sep 2012,v Ireland,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,6
+325026,Glenn Maxwell,22 Sep 2012,v West Indies,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,17,0,17
+325026,Glenn Maxwell,28 Sep 2012,v India,Colombo (RPS),2,3,4*,4,6,0,0,66.66,not out,1,2.0,0,11,0,5.5
+325026,Glenn Maxwell,30 Sep 2012,v South Africa,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+325026,Glenn Maxwell,2 Oct 2012,v Pakistan,Colombo (RPS),2,6,4,6,5,0,0,80,caught,1,1.0,0,6,0,6
+325026,Glenn Maxwell,10 Oct 2012,v Auckland,Centurion,1,6,11,7,7,2,0,157.14,caught,2,0.3,0,5,0,10
+325026,Glenn Maxwell,11 Oct 2012,v S Stallions,Johannesburg,1,5,42,39,29,4,3,144.82,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Dec 2012,v Scorchers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Dec 2012,v Hurricanes,Melbourne,2,6,19,15,12,2,1,158.33,caught,1,1.0,0,9,0,9
+325026,Glenn Maxwell,21 Dec 2012,v Sixers,Melbourne,1,4,82,49,50,6,3,164,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,27 Dec 2012,v Strikers,Adelaide,1,6,11,-,5,1,1,220,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,3 Jan 2013,v Heat,Brisbane,2,5,13,-,9,0,1,144.44,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Jan 2013,v Renegades,Melbourne,1,3,3,10,7,0,0,42.85,caught,2,1.0,0,7,0,7
+325026,Glenn Maxwell,8 Jan 2013,v Thunder,Melbourne,1,5,17,19,12,3,0,141.66,caught,2,1.0,0,5,1,5
+325026,Glenn Maxwell,26 Jan 2013,v Sri Lanka,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,2,5
+325026,Glenn Maxwell,28 Jan 2013,v Sri Lanka,Melbourne,2,5,8*,7,3,2,0,266.66,not out,1,4.0,0,23,1,5.75
+325026,Glenn Maxwell,11 May 2013,v Warriors,Pune,2,6,13*,16,7,1,1,185.71,not out,1,1.0,0,5,0,5
+325026,Glenn Maxwell,15 May 2013,v RR,Wankhede,1,1,23,-,17,0,3,135.29,lbw,2,DNB,-,-,-,-
+325026,Glenn Maxwell,18 May 2013,v Kings XI,Dharamsala,2,1,0,2,3,0,0,0,caught,1,1.0,0,18,0,18
+325026,Glenn Maxwell,26 Jun 2013,v Hampshire,Southampton,1,4,15,14,16,0,0,93.75,caught,2,2.0,0,13,0,6.5
+325026,Glenn Maxwell,28 Jun 2013,v Sussex,Hove,1,4,6,8,7,1,0,85.71,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,30 Jun 2013,v Kent,Canterbury,1,4,32,21,18,3,2,177.77,caught,2,1.0,0,9,0,9
+325026,Glenn Maxwell,3 Jul 2013,v Sussex,The Oval,1,4,8,11,9,0,0,88.88,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,5 Jul 2013,v Middlesex,The Oval,1,7,10,10,8,0,1,125,caught,2,2.0,0,18,0,9
+325026,Glenn Maxwell,15 Jul 2013,v Essex,The Oval,1,4,16,22,18,0,0,88.88,caught,2,1.0,0,4,0,4
+325026,Glenn Maxwell,17 Aug 2013,v Hampshire,Birmingham,2,3,26,30,21,4,0,123.8,caught,1,2.0,0,13,1,6.5
+325026,Glenn Maxwell,17 Aug 2013,v Northants,Birmingham,2,3,29,15,17,2,3,170.58,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,29 Aug 2013,v England,Southampton,1,5,1,9,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,31 Aug 2013,v England,Chester-le-Street,2,6,27,17,16,2,1,168.75,caught,1,2.0,0,25,0,12.5
+325026,Glenn Maxwell,2 Oct 2013,v Scorchers,Delhi,2,3,10,8,7,2,0,142.85,caught,1,3.0,0,14,0,4.66
+325026,Glenn Maxwell,6 Oct 2013,v RR,Delhi,1,6,37,17,14,4,2,264.28,run out,2,1.0,0,10,0,10
+325026,Glenn Maxwell,10 Oct 2013,v India,Rajkot,1,5,27,12,13,0,4,207.69,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Dec 2013,v Renegades,Melbourne,1,3,11,8,7,0,1,157.14,caught,2,1.0,0,6,0,6
+325026,Glenn Maxwell,29 Dec 2013,v Sixers,Sydney,1,6,37,20,18,3,2,205.55,caught,2,4.0,0,26,3,6.5
+325026,Glenn Maxwell,1 Jan 2014,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+325026,Glenn Maxwell,4 Jan 2014,v Renegades,Melbourne (Docklands),2,3,58*,34,28,2,6,207.14,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,9 Jan 2014,v Strikers,Melbourne,2,3,25*,11,10,4,1,250,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,29 Jan 2014,v England,Hobart,1,3,20,24,13,2,1,153.84,caught,2,3.0,0,30,1,10
+325026,Glenn Maxwell,31 Jan 2014,v England,Melbourne,2,3,2,7,5,0,0,40,caught,1,1.0,0,7,0,7
+325026,Glenn Maxwell,2 Feb 2014,v England,Sydney,1,3,14,7,7,0,2,200,caught,2,4.0,0,31,2,7.75
+325026,Glenn Maxwell,4 Feb 2014,v Hurricanes,Melbourne,1,4,12,14,9,0,1,133.33,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Mar 2014,v South Africa,Durban,2,4,1,7,3,0,0,33.33,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,14 Mar 2014,v South Africa,Centurion,2,4,17,20,12,2,0,141.66,lbw,1,4.0,0,19,2,4.75
+325026,Glenn Maxwell,23 Mar 2014,v Pakistan,Mirpur,2,4,74,48,33,7,6,224.24,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,28 Mar 2014,v West Indies,Mirpur,1,4,45,28,22,5,3,204.54,caught,2,3.0,0,28,0,9.33
+325026,Glenn Maxwell,30 Mar 2014,v India,Mirpur,2,5,23,16,12,0,3,191.66,bowled,1,4.0,0,20,1,5
+325026,Glenn Maxwell,1 Apr 2014,v Bangladesh,Mirpur,2,4,5,6,3,1,0,166.66,bowled,1,3.0,0,32,0,10.66
+325026,Glenn Maxwell,18 Apr 2014,v CSK,Abu Dhabi,2,3,95,-,43,15,2,220.93,bowled,1,2.0,0,23,0,11.5
+325026,Glenn Maxwell,20 Apr 2014,v RR,Sharjah,2,4,89,54,45,8,6,197.77,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,22 Apr 2014,v SRH,Sharjah,1,3,95,55,43,5,9,220.93,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,26 Apr 2014,v KKR,Abu Dhabi,1,4,15,14,12,2,0,125,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,28 Apr 2014,v RCB,Dubai (DICS),2,4,6,6,6,0,0,100,caught,1,3.0,0,39,0,13
+325026,Glenn Maxwell,3 May 2014,v MI,Wankhede,1,4,45,38,27,5,2,166.66,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,7 May 2014,v CSK,Cuttack,1,3,90,58,38,6,8,236.84,caught,2,2.0,0,21,1,10.5
+325026,Glenn Maxwell,9 May 2014,v RCB,Bengaluru,1,3,25,14,11,2,2,227.27,caught,2,1.0,0,24,0,24
+325026,Glenn Maxwell,11 May 2014,v KKR,Cuttack,1,4,14,24,14,1,0,100,caught,2,1.0,0,11,0,11
+325026,Glenn Maxwell,14 May 2014,v SRH,Hyderabad,2,4,43,34,22,2,5,195.45,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,19 May 2014,v Daredevils,Delhi,2,3,14,13,11,0,1,127.27,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,21 May 2014,v MI,Mohali,1,4,2,7,3,0,0,66.66,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,25 May 2014,v Daredevils,Mohali,2,3,0,5,3,0,0,0,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,27 May 2014,v KKR,Eden Gardens,2,4,6,8,9,1,0,66.66,lbw,1,DNB,-,-,-,-
+325026,Glenn Maxwell,30 May 2014,v CSK,Wankhede,1,3,13,-,6,1,1,216.66,caught,2,1.0,0,4,0,4
+325026,Glenn Maxwell,1 Jun 2014,v KKR,Bengaluru,1,5,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,5 Jun 2014,v Kent,Southampton,1,4,7,3,4,0,1,175,caught,2,1.0,0,11,0,11
+325026,Glenn Maxwell,13 Jun 2014,v Somerset,Taunton,2,4,21,24,13,3,1,161.53,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Jun 2014,v Gloucs,Southampton,1,4,30,18,16,2,2,187.5,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,25 Jun 2014,v Glamorgan,Cardiff,1,4,5,12,7,0,0,71.42,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,27 Jun 2014,v Surrey,The Oval,1,5,4,9,6,0,0,66.66,caught,2,1.0,0,15,0,15
+325026,Glenn Maxwell,4 Jul 2014,v Kent,Canterbury,1,5,13,9,8,0,1,162.5,caught,2,1.0,0,8,0,8
+325026,Glenn Maxwell,6 Jul 2014,v Somerset,Southampton,2,5,0,4,2,0,0,0,run out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,11 Jul 2014,v Middlesex,Southampton,2,6,10,19,12,0,0,83.33,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Jul 2014,v Sussex,Southampton,1,3,1,6,6,0,0,16.66,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,22 Jul 2014,v Essex,Chelmsford,2,3,25,41,24,2,1,104.16,lbw,1,DNB,-,-,-,-
+325026,Glenn Maxwell,3 Aug 2014,v Notts,Nottingham,2,3,11,10,9,1,0,122.22,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Sep 2014,v Hurricanes,Mohali,2,5,43,27,25,4,2,172,caught,1,1.0,0,9,0,9
+325026,Glenn Maxwell,20 Sep 2014,v Tridents,Mohali,2,4,16,9,8,3,0,200,caught,1,3.0,0,22,0,7.33
+325026,Glenn Maxwell,26 Sep 2014,v Northern Dis,Mohali,1,4,7,9,6,1,0,116.66,caught,2,1.0,0,5,0,5
+325026,Glenn Maxwell,28 Sep 2014,v Cape Cobras,Mohali,2,4,23,18,19,0,2,121.05,bowled,1,2.0,0,17,1,8.5
+325026,Glenn Maxwell,2 Oct 2014,v CSK,Hyderabad,2,4,0,3,4,0,0,0,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,5 Oct 2014,v Pakistan,Dubai (DICS),2,3,17,10,10,3,0,170,lbw,1,3.0,0,13,3,4.33
+325026,Glenn Maxwell,7 Nov 2014,v South Africa,Melbourne,2,4,0,-,2,0,0,0,caught,1,2.0,0,11,0,5.5
+325026,Glenn Maxwell,9 Nov 2014,v South Africa,Sydney,2,5,23,-,15,2,1,153.33,caught,1,4.0,0,24,0,6
+325026,Glenn Maxwell,18 Dec 2014,v Strikers,Adelaide,1,4,7,-,8,1,0,87.5,caught,2,1.0,0,9,0,9
+325026,Glenn Maxwell,20 Dec 2014,v Hurricanes,Melbourne,2,4,12,8,6,3,0,200,caught,1,2.0,0,19,0,9.5
+325026,Glenn Maxwell,28 Dec 2014,v Heat,Brisbane,2,3,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,3 Jan 2015,v Renegades,Melbourne (Docklands),1,6,10,-,8,2,0,125,caught,2,1.0,0,2,1,2
+325026,Glenn Maxwell,5 Jan 2015,v Sixers,Melbourne,2,4,23,20,15,3,0,153.33,caught,1,3.0,0,24,0,8
+325026,Glenn Maxwell,10 Jan 2015,v Renegades,Melbourne,2,4,66,56,44,2,4,150,bowled,1,3.0,0,25,1,8.33
+325026,Glenn Maxwell,10 Apr 2015,v RR,Pune,2,4,7,9,5,1,0,140,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Apr 2015,v MI,Wankhede,1,3,6,3,4,1,0,150,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Apr 2015,v Daredevils,Pune,1,5,15,6,5,0,2,300,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,18 Apr 2015,v KKR,Pune,1,4,33,34,26,2,2,126.92,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Apr 2015,v RR,Ahmedabad,2,4,1,9,6,0,0,16.66,caught,1,1.0,0,15,0,15
+325026,Glenn Maxwell,3 May 2015,v MI,Mohali,2,3,12,16,9,2,0,133.33,caught,1,1.0,0,8,0,8
+325026,Glenn Maxwell,6 May 2015,v RCB,Bengaluru,2,4,1,3,5,0,0,20,bowled,1,2.0,0,23,0,11.5
+325026,Glenn Maxwell,9 May 2015,v KKR,Eden Gardens,1,4,43,30,22,4,3,195.45,caught,2,1.0,0,5,1,5
+325026,Glenn Maxwell,11 May 2015,v SRH,Hyderabad,2,4,11,5,6,1,1,183.33,caught,1,3.0,0,28,1,9.33
+325026,Glenn Maxwell,13 May 2015,v RCB,Mohali,1,3,10,-,10,1,0,100,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,16 May 2015,v CSK,Mohali,1,4,6,24,14,1,0,42.85,bowled,2,1.0,0,8,0,8
+325026,Glenn Maxwell,22 May 2015,v Notts,Nottingham,2,5,20,15,12,1,2,166.66,caught,1,4.0,0,31,0,7.75
+325026,Glenn Maxwell,29 May 2015,v Durham,Chester-le-Street,2,5,8,9,7,0,0,114.28,lbw,1,3.0,0,28,1,9.33
+325026,Glenn Maxwell,5 Jun 2015,v Lancashire,Leeds,1,1,18,8,9,3,1,200,caught,2,3.0,0,15,3,5
+325026,Glenn Maxwell,14 Jun 2015,v Northants,Leeds,1,2,2,10,6,0,0,33.33,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,19 Jun 2015,v Notts,Leeds,1,4,92*,56,48,8,5,191.66,not out,2,4.0,0,31,2,7.75
+325026,Glenn Maxwell,21 Jun 2015,v Warwickshire,Birmingham,1,5,0,2,2,0,0,0,caught,2,4.0,0,26,2,6.5
+325026,Glenn Maxwell,26 Jun 2015,v Leics,Leicester,2,5,10,9,8,1,0,125,caught,1,2.0,0,15,0,7.5
+325026,Glenn Maxwell,3 Jul 2015,v Lancashire,Manchester,2,3,1,2,2,0,0,50,caught,1,3.0,0,26,1,8.66
+325026,Glenn Maxwell,10 Jul 2015,v Durham,Leeds,2,5,16,13,10,3,0,160,bowled,1,4.0,0,28,2,7
+325026,Glenn Maxwell,12 Jul 2015,v Derbyshire,Chesterfield,1,5,45,32,29,5,1,155.17,bowled,2,4.0,0,33,1,8.25
+325026,Glenn Maxwell,14 Jul 2015,v Worcs,Leeds,2,5,0,1,1,0,0,0,caught,1,2.0,0,21,0,10.5
+325026,Glenn Maxwell,17 Jul 2015,v Northants,Northampton,1,5,17,19,13,1,1,130.76,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,31 Aug 2015,v England,Cardiff,2,4,44,44,32,6,1,137.5,caught,1,2.0,0,12,0,6
+325026,Glenn Maxwell,18 Dec 2015,v Strikers,Adelaide,2,4,21,-,12,2,1,175,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Dec 2015,v Thunder,Melbourne,2,4,2,15,8,0,0,25,caught,1,4.0,0,28,2,7
+325026,Glenn Maxwell,27 Dec 2015,v Sixers,Sydney,2,3,50,-,36,5,0,138.88,caught,1,4.0,0,35,1,8.75
+325026,Glenn Maxwell,2 Jan 2016,v Renegades,Melbourne,2,4,22,22,18,0,1,122.22,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Jan 2016,v Hurricanes,Melbourne,2,4,56*,43,32,3,3,175,not out,1,3.0,0,25,1,8.33
+325026,Glenn Maxwell,29 Jan 2016,v India,Melbourne,2,4,1,4,2,0,0,50,stumped,1,2.0,0,17,1,8.5
+325026,Glenn Maxwell,31 Jan 2016,v India,Sydney,1,4,3,5,5,0,0,60,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,4 Mar 2016,v South Africa,Durban,1,5,17,16,11,3,0,154.54,caught,2,1.0,0,16,0,16
+325026,Glenn Maxwell,6 Mar 2016,v South Africa,Johannesburg,2,5,75,61,43,7,3,174.41,caught,1,4.0,0,30,0,7.5
+325026,Glenn Maxwell,9 Mar 2016,v South Africa,Cape Town,2,5,19*,10,10,2,1,190,not out,1,3.0,0,24,0,8
+325026,Glenn Maxwell,18 Mar 2016,v New Zealand,Dharamsala,2,5,22,24,23,2,0,95.65,caught,1,3.0,0,18,2,6
+325026,Glenn Maxwell,21 Mar 2016,v Bangladesh,Bengaluru,2,5,26,21,15,2,2,173.33,stumped,1,1.0,0,12,0,12
+325026,Glenn Maxwell,25 Mar 2016,v Pakistan,Mohali,1,5,30,24,18,3,1,166.66,caught,2,2.0,0,13,0,6.5
+325026,Glenn Maxwell,27 Mar 2016,v India,Mohali,1,5,31,32,28,1,1,110.71,bowled,2,2.0,0,18,0,9
+325026,Glenn Maxwell,11 Apr 2016,v Guj Lions,Mohali,1,4,2,6,4,0,0,50,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Apr 2016,v Daredevils,Delhi,1,5,0,3,3,0,0,0,caught,2,1.0,0,11,0,11
+325026,Glenn Maxwell,17 Apr 2016,v Supergiants,Mohali,2,5,32*,20,14,3,2,228.57,not out,1,1.0,0,3,0,3
+325026,Glenn Maxwell,19 Apr 2016,v KKR,Mohali,1,6,4,9,7,0,0,57.14,caught,2,2.0,0,17,0,8.5
+325026,Glenn Maxwell,23 Apr 2016,v SRH,Hyderabad,1,5,1,2,2,0,0,50,caught,2,2.0,0,16,0,8
+325026,Glenn Maxwell,25 Apr 2016,v MI,Mohali,2,4,56,55,39,5,1,143.58,bowled,1,1.0,0,11,0,11
+325026,Glenn Maxwell,1 May 2016,v Guj Lions,Rajkot,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,4 May 2016,v KKR,Eden Gardens,2,5,68,53,42,6,4,161.9,lbw,1,1.0,0,11,0,11
+325026,Glenn Maxwell,7 May 2016,v Daredevils,Mohali,1,5,16,22,11,0,1,145.45,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,13 May 2016,v MI,Visakhapatnam,2,4,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,15 May 2016,v SRH,Mohali,1,6,0*,2,0,0,0,-,not out,2,1.0,0,11,0,11
+325026,Glenn Maxwell,6 Sep 2016,v Sri Lanka,Pallekele,1,1,145*,-,65,14,9,223.07,not out,2,2.0,0,21,0,10.5
+325026,Glenn Maxwell,9 Sep 2016,v Sri Lanka,Colombo (RPS),2,2,66,41,29,7,4,227.58,bowled,1,1.0,0,16,0,16
+325026,Glenn Maxwell,26 Dec 2016,v Hurricanes,Hobart,2,3,58*,43,29,8,1,200,not out,1,2.0,0,12,1,6
+325026,Glenn Maxwell,1 Jan 2017,v Renegades,Melbourne,2,1,1,-,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Jan 2017,v Thunder,Sydney,1,1,34,-,22,6,0,154.54,caught,2,1.0,0,15,0,15
+325026,Glenn Maxwell,7 Jan 2017,v Renegades,Melbourne (Docklands),1,4,24,-,17,2,0,141.17,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,8 Apr 2017,v Supergiant,Indore,2,5,44*,-,20,2,4,220,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,10 Apr 2017,v RCB,Indore,2,4,43*,24,22,3,4,195.45,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Apr 2017,v KKR,Eden Gardens,1,4,25,20,14,3,1,178.57,caught,2,1.0,0,18,0,18
+325026,Glenn Maxwell,15 Apr 2017,v Daredevils,Delhi,2,6,0,2,2,0,0,0,caught,1,1.0,0,7,0,7
+325026,Glenn Maxwell,17 Apr 2017,v SRH,Hyderabad,2,3,10,12,12,2,0,83.33,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Apr 2017,v MI,Indore,1,4,40,30,18,4,3,222.22,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,23 Apr 2017,v Guj Lions,Rajkot,1,4,31,19,18,1,3,172.22,lbw,2,DNB,-,-,-,-
+325026,Glenn Maxwell,28 Apr 2017,v SRH,Mohali,2,4,0,6,2,0,0,0,caught,1,4.0,0,29,2,7.25
+325026,Glenn Maxwell,30 Apr 2017,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+325026,Glenn Maxwell,5 May 2017,v RCB,Bengaluru,1,6,6,10,11,1,0,54.54,caught,2,3.0,0,15,2,5
+325026,Glenn Maxwell,7 May 2017,v Guj Lions,Mohali,1,4,20*,20,11,0,2,181.81,not out,2,2.0,0,21,1,10.5
+325026,Glenn Maxwell,9 May 2017,v KKR,Mohali,1,5,44,36,25,1,4,176,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,11 May 2017,v MI,Wankhede,1,3,47,29,21,2,5,223.8,bowled,2,2.0,0,8,1,4
+325026,Glenn Maxwell,14 May 2017,v Supergiant,Pune,1,6,0,2,3,0,0,0,caught,2,2.0,0,15,0,7.5
+325026,Glenn Maxwell,7 Oct 2017,v India,Ranchi,1,3,17,24,16,2,0,106.25,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,10 Oct 2017,v India,Guwahati,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Dec 2017,v Heat,Brisbane,2,4,8,-,5,0,1,160,caught,1,1.0,0,8,0,8
+325026,Glenn Maxwell,26 Dec 2017,v Scorchers,W.A.C.A,2,4,4,-,6,1,0,66.66,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Jan 2018,v Heat,Melbourne,1,4,50,-,39,5,1,128.2,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Jan 2018,v Renegades,Melbourne,1,4,33,-,23,3,0,143.47,bowled,2,1.0,0,10,0,10
+325026,Glenn Maxwell,9 Jan 2018,v Strikers,Adelaide,1,5,60,-,39,7,1,153.84,caught,2,3.0,0,24,1,8
+325026,Glenn Maxwell,12 Jan 2018,v Renegades,Melbourne (Docklands),1,4,31*,-,16,2,2,193.75,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,16 Jan 2018,v Sixers,Melbourne,1,4,28,-,16,1,3,175,caught,2,1.0,0,11,0,11
+325026,Glenn Maxwell,20 Jan 2018,v Thunder,Melbourne,1,4,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,23 Jan 2018,v Sixers,Sydney,1,3,84,-,47,7,4,178.72,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,3 Feb 2018,v New Zealand,Sydney,2,4,40*,37,24,5,1,166.66,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,7 Feb 2018,v England,Hobart,2,4,103*,89,58,10,4,177.58,not out,1,2.0,0,10,3,5
+325026,Glenn Maxwell,10 Feb 2018,v England,Melbourne,2,4,39,33,26,3,2,150,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,16 Feb 2018,v New Zealand,Auckland,2,4,31,18,14,3,2,221.42,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Feb 2018,v New Zealand,Auckland,2,4,20*,24,18,0,1,111.11,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,11 Apr 2018,v RR,Jaipur,2,1,17,-,12,2,1,141.66,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,14 Apr 2018,v MI,Wankhede,2,4,13,-,6,1,1,216.66,caught,1,3.0,0,21,0,7
+325026,Glenn Maxwell,16 Apr 2018,v KKR,Eden Gardens,2,5,47,-,22,3,4,213.63,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Apr 2018,v RCB,Bengaluru,1,5,4,-,6,0,0,66.66,caught,2,2.0,0,13,1,6.5
+325026,Glenn Maxwell,23 Apr 2018,v Kings XI,Delhi,2,3,12,-,10,1,1,120,caught,1,1.0,0,4,0,4
+325026,Glenn Maxwell,27 Apr 2018,v KKR,Delhi,1,5,27,-,18,1,2,150,run out,2,2.0,0,22,2,11
+325026,Glenn Maxwell,30 Apr 2018,v CSK,Pune,2,5,6,-,5,1,0,120,bowled,1,1.0,0,5,1,5
+325026,Glenn Maxwell,2 May 2018,v RR,Delhi,1,5,5,-,5,0,0,100,lbw,2,1.0,0,21,1,21
+325026,Glenn Maxwell,5 May 2018,v SRH,Hyderabad,1,2,2,-,3,0,0,66.66,run out,2,1.0,0,4,0,4
+325026,Glenn Maxwell,10 May 2018,v SRH,Delhi,1,6,9,-,8,1,0,112.5,caught,2,1.0,0,9,0,9
+325026,Glenn Maxwell,18 May 2018,v CSK,Delhi,1,4,5,-,7,0,0,71.42,bowled,2,2.0,0,14,0,7
+325026,Glenn Maxwell,20 May 2018,v MI,Delhi,1,2,22,-,18,4,0,122.22,bowled,2,2.0,0,19,0,9.5
+325026,Glenn Maxwell,27 Jun 2018,v England,Birmingham,2,3,10,-,7,1,0,142.85,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Jul 2018,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+325026,Glenn Maxwell,3 Jul 2018,v Zimbabwe,Harare,1,3,0*,-,1,0,0,0,not out,2,1.0,0,7,1,7
+325026,Glenn Maxwell,5 Jul 2018,v Pakistan,Harare,2,4,10,-,8,2,0,125,lbw,1,3.0,0,30,1,10
+325026,Glenn Maxwell,6 Jul 2018,v Zimbabwe,Harare,2,4,56,-,38,1,5,147.36,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Jul 2018,v Pakistan,Harare,1,3,5,-,5,0,0,100,caught,2,3.0,0,35,2,11.66
+325026,Glenn Maxwell,22 Oct 2018,v U.A.E.,Abu Dhabi,2,4,18,-,16,1,0,112.5,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,24 Oct 2018,v Pakistan,Abu Dhabi,2,4,2,-,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,26 Oct 2018,v Pakistan,Dubai (DICS),2,5,52,-,37,4,2,140.54,caught,1,1.0,0,5,0,5
+325026,Glenn Maxwell,28 Oct 2018,v Pakistan,Dubai (DICS),2,5,4,-,8,0,0,50,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,17 Nov 2018,v South Africa,Carrara,2,4,38,-,23,2,2,165.21,caught,1,2.0,0,14,1,7
+325026,Glenn Maxwell,21 Nov 2018,v India,Brisbane,1,4,46,-,24,0,4,191.66,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,23 Nov 2018,v India,Melbourne,1,4,19,-,22,1,0,86.36,bowled,-,TDNB,-,-,-,-
+325026,Glenn Maxwell,25 Nov 2018,v India,Sydney,1,3,13,-,16,2,0,81.25,caught,2,4.0,0,25,1,6.25
+325026,Glenn Maxwell,21 Dec 2018,v Thunder,Canberra,2,3,0,-,4,0,0,0,caught,1,1.0,0,8,0,8
+325026,Glenn Maxwell,24 Dec 2018,v Hurricanes,Hobart,1,4,47,-,31,0,5,151.61,lbw,2,2.0,0,15,0,7.5
+325026,Glenn Maxwell,27 Dec 2018,v Sixers,Sydney,2,4,8,-,11,0,0,72.72,caught,1,4.0,0,27,1,6.75
+325026,Glenn Maxwell,1 Jan 2019,v Renegades,Melbourne,2,4,33,-,22,1,1,150,stumped,1,1.0,0,7,0,7
+325026,Glenn Maxwell,5 Jan 2019,v Thunder,Carrara,2,4,41*,-,31,1,2,132.25,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,19 Jan 2019,v Renegades,Melbourne (Docklands),2,4,7,-,5,1,0,140,run out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,23 Jan 2019,v Strikers,Moe,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+325026,Glenn Maxwell,27 Jan 2019,v Heat,Melbourne,1,4,3,-,4,0,0,75,caught,2,2.0,0,14,1,7
+325026,Glenn Maxwell,3 Feb 2019,v Scorchers,Perth,2,4,61,-,40,4,3,152.5,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Feb 2019,v Heat,Brisbane,1,4,5,-,3,1,0,166.66,caught,2,1.0,0,22,0,22
+325026,Glenn Maxwell,10 Feb 2019,v Sixers,Melbourne,1,4,82,-,43,4,6,190.69,caught,2,1.0,0,6,1,6
+325026,Glenn Maxwell,14 Feb 2019,v Hurricanes,Hobart,2,5,43*,-,33,4,0,130.3,not out,1,3.0,0,22,0,7.33
+325026,Glenn Maxwell,17 Feb 2019,v Renegades,Melbourne (Docklands),2,4,1,-,6,0,0,16.66,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,24 Feb 2019,v India,Visakhapatnam,2,4,56,42,43,6,2,130.23,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,27 Feb 2019,v India,Bengaluru,2,4,113*,74,55,7,9,205.45,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,19 Jul 2019,v Leics,Leicester,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+325026,Glenn Maxwell,21 Jul 2019,v Durham,Manchester,1,3,58,31,33,3,4,175.75,caught,2,1.0,0,8,0,8
+325026,Glenn Maxwell,25 Jul 2019,v Yorkshire,Leeds,1,4,25,35,18,3,0,138.88,caught,2,4.0,0,30,0,7.5
+325026,Glenn Maxwell,26 Jul 2019,v Worcs,Manchester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+325026,Glenn Maxwell,2 Aug 2019,v Durham,Chester-le-Street,2,3,7,13,10,0,0,70,caught,1,3.0,0,15,0,5
+325026,Glenn Maxwell,3 Aug 2019,v Notts,Manchester,1,5,73,63,46,7,2,158.69,caught,2,2.0,0,13,0,6.5
+325026,Glenn Maxwell,11 Aug 2019,v Bears,Birmingham,2,5,79,39,39,8,4,202.56,bowled,1,2.0,0,22,0,11
+325026,Glenn Maxwell,25 Aug 2019,v Worcs,Worcester,1,4,12,8,7,1,1,171.42,caught,2,4.0,0,23,3,5.75
+325026,Glenn Maxwell,26 Aug 2019,v Derbyshire,Manchester,2,6,8,8,7,1,0,114.28,bowled,1,3.0,0,22,1,7.33
+325026,Glenn Maxwell,30 Aug 2019,v Leics,Manchester,2,4,29*,52,31,1,1,93.54,not out,1,4.0,0,22,1,5.5
+325026,Glenn Maxwell,4 Sep 2019,v Essex,Chester-le-Street,1,4,14,13,11,3,0,127.27,lbw,2,4.0,0,26,1,6.5
+325026,Glenn Maxwell,27 Oct 2019,v Sri Lanka,Adelaide,1,3,62,-,28,7,3,221.42,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,30 Oct 2019,v Sri Lanka,Brisbane,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Dec 2019,v Heat,Carrara,1,5,83,-,39,7,5,212.82,bowled,2,1.0,0,12,0,12
+325026,Glenn Maxwell,22 Dec 2019,v Hurricanes,Moe,1,4,2,-,3,0,0,66.66,caught,2,3.0,0,15,2,5
+325026,Glenn Maxwell,27 Dec 2019,v Strikers,Carrara,2,5,43,-,25,1,4,172,bowled,1,2.0,0,20,0,10
+325026,Glenn Maxwell,30 Dec 2019,v Hurricanes,Launceston,2,5,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Jan 2020,v Thunder,Sydney,2,4,1,-,2,0,0,50,caught,1,3.0,0,17,2,5.66
+325026,Glenn Maxwell,4 Jan 2020,v Renegades,Melbourne,2,4,40*,-,32,3,1,125,not out,1,1.0,0,8,0,8
+325026,Glenn Maxwell,8 Jan 2020,v Thunder,Melbourne,2,5,59*,-,37,8,1,159.45,not out,1,3.0,0,18,0,6
+325026,Glenn Maxwell,10 Jan 2020,v Renegades,Melbourne (Docklands),2,5,83*,-,45,1,7,184.44,not out,1,3.0,0,20,0,6.66
+325026,Glenn Maxwell,12 Jan 2020,v Sixers,Melbourne,1,3,5*,-,2,1,0,250,not out,2,2.0,0,17,0,8.5
+325026,Glenn Maxwell,15 Jan 2020,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,1.0,0,8,1,8
+325026,Glenn Maxwell,18 Jan 2020,v Scorchers,Melbourne,1,5,25,-,23,2,1,108.69,caught,2,3.0,0,20,1,6.66
+325026,Glenn Maxwell,20 Jan 2020,v Sixers,Sydney,2,4,12,-,13,2,0,92.3,caught,1,2.0,0,11,0,5.5
+325026,Glenn Maxwell,22 Jan 2020,v Strikers,Adelaide,2,4,19,-,16,2,1,118.75,caught,1,4.0,0,19,1,4.75
+325026,Glenn Maxwell,25 Jan 2020,v Heat,Melbourne,2,5,1,-,2,0,0,50,bowled,1,3.0,0,26,0,8.66
+325026,Glenn Maxwell,31 Jan 2020,v Sixers,Melbourne,2,5,16,-,19,0,0,84.21,caught,1,2.0,0,13,1,6.5
+325026,Glenn Maxwell,6 Feb 2020,v Thunder,Melbourne,1,4,4*,-,6,0,0,66.66,not out,2,2.0,0,19,0,9.5
+325026,Glenn Maxwell,8 Feb 2020,v Sixers,Sydney,2,3,5,-,4,1,0,125,lbw,1,2.0,0,17,2,8.5
+325026,Glenn Maxwell,4 Sep 2020,v England,Southampton,2,4,1,4,2,0,0,50,caught,1,3.0,0,14,2,4.66
+325026,Glenn Maxwell,6 Sep 2020,v England,Southampton,1,6,26,-,18,1,1,144.44,caught,2,2.0,0,16,0,8
+325026,Glenn Maxwell,8 Sep 2020,v England,Southampton,2,4,6,13,11,0,0,54.54,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Sep 2020,v DC,Dubai (DICS),2,5,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,24 Sep 2020,v RCB,Dubai (DICS),1,4,5,-,6,0,0,83.33,caught,2,2.0,0,10,1,5
+325026,Glenn Maxwell,27 Sep 2020,v RR,Sharjah,1,3,13*,-,9,2,0,144.44,not out,2,3.0,0,29,0,9.66
+325026,Glenn Maxwell,1 Oct 2020,v MI,Abu Dhabi,2,5,11,-,18,0,0,61.11,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Oct 2020,v CSK,Dubai (DICS),1,5,11*,-,7,1,0,157.14,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Oct 2020,v SRH,Dubai (DICS),2,5,7,-,12,0,0,58.33,run out,1,2.0,0,26,0,13
+325026,Glenn Maxwell,10 Oct 2020,v KKR,Abu Dhabi,2,5,10*,-,5,2,0,200,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Oct 2020,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+325026,Glenn Maxwell,18 Oct 2020,v MI,Dubai (DICS),2,5,0,-,2,0,0,0,caught,1,4.0,0,24,0,6
+325026,Glenn Maxwell,20 Oct 2020,v DC,Dubai (DICS),2,5,32,-,24,3,0,133.33,caught,1,4.0,0,31,1,7.75
+325026,Glenn Maxwell,24 Oct 2020,v SRH,Dubai (DICS),1,5,12,-,13,0,0,92.3,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,26 Oct 2020,v KKR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,1,10.5
+325026,Glenn Maxwell,30 Oct 2020,v RR,Abu Dhabi,1,5,6*,-,6,1,0,100,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Dec 2020,v India,Canberra,2,4,2,-,3,0,0,66.66,lbw,1,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Dec 2020,v India,Sydney,1,4,22,-,13,0,2,169.23,caught,2,1.0,0,19,0,19
+325026,Glenn Maxwell,8 Dec 2020,v India,Sydney,1,4,54,-,36,3,3,150,bowled,2,3.0,0,20,1,6.66
+325026,Glenn Maxwell,11 Dec 2020,v Heat,Canberra,2,5,46,-,26,3,3,176.92,bowled,1,3.0,0,20,0,6.66
+325026,Glenn Maxwell,12 Dec 2020,v Thunder,Canberra,1,3,39,-,29,4,0,134.48,lbw,2,1.0,0,11,0,11
+325026,Glenn Maxwell,16 Dec 2020,v Scorchers,Launceston,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+325026,Glenn Maxwell,26 Dec 2020,v Sixers,Carrara,1,5,71*,-,47,5,5,151.06,not out,2,1.5,0,24,1,13.09
+325026,Glenn Maxwell,29 Dec 2020,v Thunder,Canberra,2,4,23,-,20,1,1,115,caught,1,3.0,0,26,0,8.66
+325026,Glenn Maxwell,2 Jan 2021,v Hurricanes,Hobart,2,4,70,-,37,6,5,189.18,caught,1,2.0,0,13,1,6.5
+325026,Glenn Maxwell,4 Jan 2021,v Hurricanes,Hobart,1,4,6,-,7,0,0,85.71,lbw,2,3.0,0,19,0,6.33
+325026,Glenn Maxwell,7 Jan 2021,v Heat,Carrara,2,4,0,-,1,0,0,0,caught,1,1.0,0,20,1,20
+325026,Glenn Maxwell,11 Jan 2021,v Strikers,Adelaide,1,4,0,-,1,0,0,0,caught,2,4.0,0,19,1,4.75
+325026,Glenn Maxwell,15 Jan 2021,v Strikers,Melbourne,1,3,37,-,28,3,1,132.14,caught,2,4.0,0,12,2,3
+325026,Glenn Maxwell,17 Jan 2021,v Renegades,Melbourne,2,4,20,-,19,1,1,105.26,caught,1,3.0,0,29,1,9.66
+325026,Glenn Maxwell,20 Jan 2021,v Renegades,Melbourne (Docklands),1,5,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,23 Jan 2021,v Scorchers,Melbourne,2,4,0,-,4,0,0,0,caught,1,1.0,0,6,0,6
+325026,Glenn Maxwell,26 Jan 2021,v Sixers,Melbourne,1,4,66,-,41,9,1,160.97,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,22 Feb 2021,v New Zealand,Christchurch,2,5,1,5,5,0,0,20,caught,1,1.0,0,9,0,9
+325026,Glenn Maxwell,25 Feb 2021,v New Zealand,Dunedin,2,4,3,9,5,0,0,60,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,3 Mar 2021,v New Zealand,Wellington,1,4,70,37,31,8,5,225.8,caught,2,1.0,0,15,0,15
+325026,Glenn Maxwell,5 Mar 2021,v New Zealand,Wellington,1,4,18,12,9,2,1,200,caught,2,3.0,0,14,2,4.66
+325026,Glenn Maxwell,7 Mar 2021,v New Zealand,Wellington,1,4,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,9 Apr 2021,v MI,Chennai,2,4,39,38,28,3,2,139.28,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,14 Apr 2021,v SRH,Chennai,1,4,59,65,41,5,3,143.9,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Apr 2021,v KKR,Chennai,1,4,78,75,49,9,3,159.18,caught,2,2.0,0,24,0,12
+325026,Glenn Maxwell,22 Apr 2021,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,25 Apr 2021,v CSK,Wankhede,2,4,22,15,15,3,0,146.66,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,27 Apr 2021,v DC,Ahmedabad,1,4,25,21,20,1,2,125,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,30 Apr 2021,v Punjab Kings,Ahmedabad,2,4,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Sep 2021,v KKR,Abu Dhabi,1,4,10,31,17,0,0,58.82,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,24 Sep 2021,v CSK,Sharjah,1,4,11,15,9,0,1,122.22,caught,2,2.0,0,17,1,8.5
+325026,Glenn Maxwell,26 Sep 2021,v MI,Dubai (DICS),1,4,56,51,37,6,3,151.35,caught,2,4.0,0,23,2,5.75
+325026,Glenn Maxwell,29 Sep 2021,v RR,Dubai (DICS),2,4,50*,47,30,6,1,166.66,not out,1,2.0,0,17,0,8.5
+325026,Glenn Maxwell,3 Oct 2021,v Punjab Kings,Sharjah,1,4,57,46,33,3,4,172.72,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Oct 2021,v SRH,Abu Dhabi,2,5,40,40,25,3,2,160,run out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Oct 2021,v DC,Dubai (DICS),2,5,51*,54,33,8,0,154.54,not out,1,3.0,0,29,0,9.66
+325026,Glenn Maxwell,11 Oct 2021,v KKR,Sharjah,1,4,15,33,18,1,0,83.33,caught,2,3.0,0,25,0,8.33
+325026,Glenn Maxwell,23 Oct 2021,v South Africa,Abu Dhabi,2,5,18,35,21,1,0,85.71,bowled,1,4.0,0,24,1,6
+325026,Glenn Maxwell,28 Oct 2021,v Sri Lanka,Dubai (DICS),2,3,5,7,6,1,0,83.33,caught,1,1.0,0,16,0,16
+325026,Glenn Maxwell,30 Oct 2021,v England,Dubai (DICS),1,4,6,9,9,0,0,66.66,lbw,2,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Nov 2021,v Bangladesh,Dubai (DICS),2,4,0*,3,0,0,0,-,not out,1,2.0,0,6,1,3
+325026,Glenn Maxwell,6 Nov 2021,v West Indies,Abu Dhabi,2,4,0*,3,0,0,0,-,not out,1,1.0,0,6,0,6
+325026,Glenn Maxwell,11 Nov 2021,v Pakistan,Dubai (DICS),2,5,7,22,10,0,0,70,caught,1,3.0,0,20,0,6.66
+325026,Glenn Maxwell,14 Nov 2021,v New Zealand,Dubai (DICS),2,4,28*,33,18,4,1,155.55,not out,1,3.0,0,28,0,9.33
+325026,Glenn Maxwell,5 Dec 2021,v Sixers,Sydney,2,4,4,12,9,0,0,44.44,bowled,1,2.0,0,17,1,8.5
+325026,Glenn Maxwell,10 Dec 2021,v Thunder,Melbourne,1,3,16,28,16,0,0,100,bowled,2,1.0,0,9,0,9
+325026,Glenn Maxwell,12 Dec 2021,v Thunder,Sydney,2,4,40,34,25,3,2,160,caught,1,1.0,0,7,1,7
+325026,Glenn Maxwell,15 Dec 2021,v Sixers,Melbourne,1,4,103,71,57,12,3,180.7,caught,2,2.0,0,20,0,10
+325026,Glenn Maxwell,24 Dec 2021,v Hurricanes,Hobart,2,3,12,11,9,0,0,133.33,caught,1,2.0,0,20,0,10
+325026,Glenn Maxwell,27 Dec 2021,v Heat,Brisbane,1,4,2,6,4,0,0,50,caught,2,4.0,0,30,0,7.5
+325026,Glenn Maxwell,2 Jan 2022,v Scorchers,Melbourne,2,3,4,15,7,0,0,57.14,bowled,1,4.0,0,38,0,9.5
+325026,Glenn Maxwell,3 Jan 2022,v Renegades,Melbourne,1,4,7,16,9,0,0,77.77,caught,2,3.0,0,19,0,6.33
+325026,Glenn Maxwell,11 Jan 2022,v Scorchers,Geelong,2,4,5,8,8,0,0,62.5,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Jan 2022,v Renegades,Melbourne (Docklands),2,2,68*,-,45,8,1,151.11,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Jan 2022,v Strikers,Adelaide,2,2,16,9,10,0,2,160,bowled,1,1.0,0,6,0,6
+325026,Glenn Maxwell,16 Jan 2022,v Heat,Melbourne,2,2,37,49,30,4,0,123.33,caught,1,4.0,0,19,2,4.75
+325026,Glenn Maxwell,19 Jan 2022,v Hurricanes,Melbourne,1,1,154*,81,64,22,4,240.62,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,11 Feb 2022,v Sri Lanka,Sydney,1,4,7,7,5,1,0,140,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Feb 2022,v Sri Lanka,Sydney,1,4,15,23,12,2,0,125,caught,2,1.0,0,4,0,4
+325026,Glenn Maxwell,15 Feb 2022,v Sri Lanka,Canberra,2,4,39,28,26,3,2,150,caught,1,1.0,0,3,1,3
+325026,Glenn Maxwell,18 Feb 2022,v Sri Lanka,Melbourne,2,4,48*,54,39,3,0,123.07,not out,1,2.0,0,21,0,10.5
+325026,Glenn Maxwell,20 Feb 2022,v Sri Lanka,Melbourne,1,4,29,41,21,2,1,138.09,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,9 Apr 2022,v MI,Pune,2,5,8*,2,2,2,0,400,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Apr 2022,v CSK,DY Patil,2,4,26,15,11,2,2,236.36,bowled,1,3.0,0,29,0,9.66
+325026,Glenn Maxwell,16 Apr 2022,v DC,Wankhede,1,4,55,47,34,7,2,161.76,caught,2,2.0,0,14,0,7
+325026,Glenn Maxwell,19 Apr 2022,v LSG,DY Patil,1,4,23,21,11,3,1,209.09,caught,2,2.0,0,11,1,5.5
+325026,Glenn Maxwell,23 Apr 2022,v SRH,Brabourne,1,4,12,18,11,2,0,109.09,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,26 Apr 2022,v RR,Pune,2,4,0,2,1,0,0,0,caught,1,1.0,0,4,0,4
+325026,Glenn Maxwell,30 Apr 2022,v GT,Brabourne,1,4,33,26,18,3,2,183.33,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,4 May 2022,v CSK,Pune,1,3,3,7,3,0,0,100,run out,2,4.0,0,22,2,5.5
+325026,Glenn Maxwell,8 May 2022,v SRH,Wankhede,1,4,33,41,24,3,2,137.5,caught,2,2.0,0,13,1,6.5
+325026,Glenn Maxwell,13 May 2022,v Punjab Kings,Brabourne,2,5,35,33,22,3,1,159.09,caught,1,2.0,0,17,1,8.5
+325026,Glenn Maxwell,19 May 2022,v GT,Wankhede,2,3,40*,22,18,5,2,222.22,not out,1,4.0,1,28,1,7
+325026,Glenn Maxwell,25 May 2022,v LSG,Eden Gardens,1,4,9,10,10,0,1,90,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,27 May 2022,v RR,Ahmedabad,1,4,24,18,13,1,2,184.61,caught,2,3.0,0,17,0,5.66
+325026,Glenn Maxwell,7 Jun 2022,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+325026,Glenn Maxwell,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,5,19,43,19,0,0,100,caught,1,3.0,0,18,2,6
+325026,Glenn Maxwell,11 Jun 2022,v Sri Lanka,Pallekele,1,3,16,20,9,0,2,177.77,caught,2,3.0,0,26,0,8.66
+325026,Glenn Maxwell,4 Aug 2022,v Invincibles,The Oval,1,3,18,-,16,3,0,112.5,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Aug 2022,v Originals,Lord's,1,3,21,-,15,2,1,140,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Aug 2022,v Brave,Southampton,1,3,34,-,21,5,1,161.9,caught,2,2.0,0,10,1,6
+325026,Glenn Maxwell,14 Aug 2022,v N S-Chargers,Leeds,2,3,43*,-,25,6,1,172,not out,1,3.0,0,6,1,2.4
+325026,Glenn Maxwell,20 Sep 2022,v India,Mohali,2,4,1,11,3,0,0,33.33,caught,1,1.0,0,10,0,10
+325026,Glenn Maxwell,23 Sep 2022,v India,Nagpur,1,3,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,25 Sep 2022,v India,Hyderabad,1,4,6,14,11,1,0,54.54,run out,2,1.0,0,11,0,11
+325026,Glenn Maxwell,5 Oct 2022,v West Indies,Carrara,2,5,0,5,3,0,0,0,caught,1,2.0,0,8,0,4
+325026,Glenn Maxwell,7 Oct 2022,v West Indies,Brisbane,1,5,1,8,4,0,0,25,run out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Oct 2022,v England,Canberra,2,4,8,18,11,0,0,72.72,caught,1,1.0,0,6,0,6
+325026,Glenn Maxwell,14 Oct 2022,v England,Canberra,2,2,8,12,9,0,1,88.88,caught,1,2.0,0,21,0,10.5
+325026,Glenn Maxwell,22 Oct 2022,v New Zealand,Sydney,2,4,28,47,20,3,1,140,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,25 Oct 2022,v Sri Lanka,Perth,2,4,23,21,12,2,2,191.66,caught,1,1.0,0,5,1,5
+325026,Glenn Maxwell,31 Oct 2022,v Ireland,Brisbane,1,4,13,18,9,0,1,144.44,caught,2,2.1,0,14,2,6.46
+325026,Glenn Maxwell,4 Nov 2022,v Afghanistan,Adelaide,1,6,54*,46,32,6,2,168.75,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Apr 2023,v MI,Bengaluru,2,4,12*,5,3,0,2,400,not out,1,1.0,0,16,0,16
+325026,Glenn Maxwell,6 Apr 2023,v KKR,Eden Gardens,2,4,5,9,7,1,0,71.42,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,10 Apr 2023,v LSG,Bengaluru,1,3,59,54,29,3,6,203.44,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Apr 2023,v DC,Bengaluru,1,4,24,25,14,0,3,171.42,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,17 Apr 2023,v CSK,Bengaluru,2,4,76,46,36,3,8,211.11,caught,1,2.4,0,28,1,10.5
+325026,Glenn Maxwell,20 Apr 2023,v Punjab Kings,Mohali,1,3,0,1,1,0,0,0,caught,2,1.0,0,5,0,5
+325026,Glenn Maxwell,23 Apr 2023,v RR,Bengaluru,1,4,77,66,44,6,4,175,caught,2,2.0,0,25,0,12.5
+325026,Glenn Maxwell,26 Apr 2023,v KKR,Bengaluru,2,4,5,6,4,1,0,125,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,1 May 2023,v LSG,Lucknow,1,4,4,8,5,0,0,80,lbw,2,1.0,0,3,1,3
+325026,Glenn Maxwell,6 May 2023,v DC,Delhi,1,3,0,2,1,0,0,0,caught,2,1.4,0,14,0,8.4
+325026,Glenn Maxwell,9 May 2023,v MI,Wankhede,1,4,68,53,33,8,4,206.06,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,14 May 2023,v RR,Jaipur,1,3,54,51,33,5,3,163.63,bowled,2,1.0,0,3,1,3
+325026,Glenn Maxwell,18 May 2023,v SRH,Hyderabad,2,3,5*,11,3,1,0,166.66,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,21 May 2023,v GT,Bengaluru,1,3,11,7,5,1,1,220,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,26 May 2023,v Leics,Leicester,2,4,47,34,27,7,1,174.07,caught,1,2.0,0,14,0,7
+325026,Glenn Maxwell,29 May 2023,v Lancashire,Birmingham,2,3,2,6,3,0,0,66.66,bowled,1,3.0,0,19,1,6.33
+325026,Glenn Maxwell,31 May 2023,v Northants,Northampton,1,3,0,2,1,0,0,0,caught,2,3.0,0,28,1,9.33
+325026,Glenn Maxwell,2 Jun 2023,v Derbyshire,Derby,2,3,29,33,22,4,0,131.81,caught,1,4.0,0,19,2,4.75
+325026,Glenn Maxwell,3 Jun 2023,v Notts,Birmingham,2,3,5,8,4,1,0,125,caught,1,1.0,0,18,0,18
+325026,Glenn Maxwell,7 Jun 2023,v Derbyshire,Birmingham,1,5,1,4,2,0,0,50,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,9 Jun 2023,v Northants,Birmingham,1,5,15,8,9,1,1,166.66,caught,2,4.0,0,19,1,4.75
+325026,Glenn Maxwell,16 Jun 2023,v Worcs,Worcester,1,4,9,7,7,0,1,128.57,caught,2,3.0,0,22,2,7.33
+325026,Glenn Maxwell,20 Jun 2023,v Durham,Chester-le-Street,2,3,14,12,13,2,0,107.69,lbw,1,1.0,0,3,0,3
+325026,Glenn Maxwell,22 Jun 2023,v Yorkshire,Leeds,1,4,21,14,10,0,3,210,bowled,2,4.0,0,32,1,8
+325026,Glenn Maxwell,23 Jun 2023,v Worcs,Birmingham,1,3,44,27,20,5,3,220,caught,2,2.0,0,27,0,13.5
+325026,Glenn Maxwell,30 Jun 2023,v Notts,Nottingham,2,6,19,21,12,2,1,158.33,bowled,1,3.0,0,20,2,6.66
+325026,Glenn Maxwell,2 Jul 2023,v Durham,Birmingham,1,5,10,12,9,1,0,111.11,caught,2,1.0,0,9,0,9
+325026,Glenn Maxwell,6 Jul 2023,v Essex,Birmingham,1,3,32,33,23,5,1,139.13,caught,2,2.0,0,28,0,14
+325026,Glenn Maxwell,26 Nov 2023,v India,Thiruvananthapuram,2,4,12,6,8,1,1,150,caught,1,2.0,0,38,0,19
+325026,Glenn Maxwell,28 Nov 2023,v India,Guwahati,2,4,104*,79,48,8,8,216.66,not out,1,1.0,0,30,0,30
+325026,Glenn Maxwell,7 Dec 2023,v Heat,Brisbane,2,4,23,25,14,3,1,164.28,caught,1,3.0,0,44,1,14.66
+325026,Glenn Maxwell,23 Dec 2023,v Thunder,Albury,1,4,30,36,26,5,0,115.38,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,26 Dec 2023,v Sixers,Sydney,2,4,12,6,8,1,1,150,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,28 Dec 2023,v Hurricanes,Hobart,2,2,35*,38,18,0,4,194.44,not out,1,4.0,0,29,3,7.25
+325026,Glenn Maxwell,31 Dec 2023,v Strikers,Adelaide,2,4,28,23,17,5,0,164.7,caught,1,3.0,0,21,2,7
+325026,Glenn Maxwell,2 Jan 2024,v Renegades,Melbourne,2,4,32*,23,15,2,3,213.33,not out,1,3.0,0,8,1,2.66
+325026,Glenn Maxwell,6 Jan 2024,v Sixers,Melbourne,1,4,31,14,14,4,2,221.42,caught,2,3.0,0,23,0,7.66
+325026,Glenn Maxwell,13 Jan 2024,v Renegades,Melbourne (Docklands),1,4,20,9,10,1,2,200,caught,2,1.0,0,6,0,6
+325026,Glenn Maxwell,15 Jan 2024,v Hurricanes,Melbourne,2,4,32,22,18,6,0,177.77,bowled,1,2.0,0,22,0,11
+325026,Glenn Maxwell,9 Feb 2024,v West Indies,Hobart,1,4,10,19,8,1,0,125,caught,2,2.0,0,31,1,15.5
+325026,Glenn Maxwell,11 Feb 2024,v West Indies,Adelaide,1,4,120*,70,55,12,8,218.18,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Feb 2024,v West Indies,Perth,2,5,12,21,14,2,0,85.71,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Feb 2024,v New Zealand,Wellington,2,4,25,17,11,2,2,227.27,bowled,1,2.0,0,32,0,16
+325026,Glenn Maxwell,23 Feb 2024,v New Zealand,Auckland,1,4,6,9,4,0,1,150,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,25 Feb 2024,v New Zealand,Auckland,1,4,20,11,9,3,1,222.22,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,22 Mar 2024,v CSK,Chennai,1,4,0,2,1,0,0,0,caught,2,1.0,0,7,0,7
+325026,Glenn Maxwell,25 Mar 2024,v Punjab Kings,Bengaluru,2,5,3,8,5,0,0,60,bowled,1,3.0,0,29,2,9.66
+325026,Glenn Maxwell,29 Mar 2024,v KKR,Bengaluru,1,4,28,21,19,3,1,147.36,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Apr 2024,v LSG,Bengaluru,2,4,0,2,2,0,0,0,caught,1,4.0,0,23,2,5.75
+325026,Glenn Maxwell,6 Apr 2024,v RR,Jaipur,1,3,1,4,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,11 Apr 2024,v MI,Wankhede,1,5,0,5,4,0,0,0,lbw,2,1.0,0,17,0,17
+325026,Glenn Maxwell,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+325026,Glenn Maxwell,4 May 2024,v GT,Bengaluru,2,5,4,2,3,1,0,133.33,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,18 May 2024,v CSK,Bengaluru,1,6,16,5,5,2,1,320,caught,2,4.0,0,25,1,6.25
+325026,Glenn Maxwell,22 May 2024,v RR,Ahmedabad,1,5,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,5 Jun 2024,v Oman,Bridgetown,1,4,0,1,1,0,0,0,caught,2,2.0,0,11,0,5.5
+325026,Glenn Maxwell,8 Jun 2024,v England,Bridgetown,1,4,28,44,25,3,1,112,caught,2,2.0,0,22,0,11
+325026,Glenn Maxwell,11 Jun 2024,v Namibia,North Sound,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,15 Jun 2024,v Scotland,Gros Islet,2,4,11,13,8,0,1,137.5,bowled,1,4.0,0,44,2,11
+325026,Glenn Maxwell,20 Jun 2024,v Bangladesh,North Sound,2,4,14*,12,6,1,1,233.33,not out,1,2.0,0,14,1,7
+325026,Glenn Maxwell,22 Jun 2024,v Afghanistan,Kingstown,2,4,59,58,41,6,3,143.9,caught,1,2.0,0,12,0,6
+325026,Glenn Maxwell,24 Jun 2024,v India,Gros Islet,2,4,20,15,12,2,1,166.66,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,6 Jul 2024,v MI New York,Morrisville,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+325026,Glenn Maxwell,8 Jul 2024,v Texas,Morrisville,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+325026,Glenn Maxwell,11 Jul 2024,v Seattle,Dallas,2,5,10,-,11,1,0,90.9,caught,1,4.0,0,17,0,4.25
+325026,Glenn Maxwell,14 Jul 2024,v Los Angeles,Morrisville,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+325026,Glenn Maxwell,16 Jul 2024,v MI New York,Dallas,1,4,15,-,14,0,1,107.14,bowled,2,2.3,0,20,2,8
+325026,Glenn Maxwell,19 Jul 2024,v Texas,Dallas,1,5,34,-,23,1,3,147.82,bowled,2,4.0,0,42,3,10.5
+325026,Glenn Maxwell,25 Jul 2024,v SF,Dallas,2,5,54*,-,23,4,5,234.78,not out,1,4.0,0,26,0,6.5
+325026,Glenn Maxwell,28 Jul 2024,v SF,Dallas,1,5,40,-,22,1,4,181.81,caught,2,2.0,0,14,1,7
+325026,Glenn Maxwell,14 Nov 2024,v Pakistan,Brisbane,1,3,43,23,19,5,3,226.31,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,16 Nov 2024,v Pakistan,Sydney,1,4,21,39,20,2,0,105,caught,2,1.0,0,11,0,11
+325026,Glenn Maxwell,18 Nov 2024,v Pakistan,Hobart,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,20 Dec 2024,v Strikers,Adelaide,2,4,15,5,5,0,2,300,lbw,1,2.0,0,12,1,6
+325026,Glenn Maxwell,26 Dec 2024,v Sixers,Sydney,1,4,32,25,17,2,3,188.23,caught,2,2.0,0,31,0,15.5
+325026,Glenn Maxwell,28 Dec 2024,v Thunder,Canberra,2,4,6,3,4,1,0,150,caught,1,1.0,0,11,0,11
+325026,Glenn Maxwell,1 Jan 2025,v Heat,Brisbane,2,6,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Jan 2025,v Renegades,Melbourne,2,6,20*,19,10,0,2,200,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,9 Jan 2025,v Sixers,Melbourne,1,6,58*,51,32,5,3,181.25,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Jan 2025,v Renegades,Melbourne (Docklands),1,6,90,59,52,4,10,173.07,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,19 Jan 2025,v Hurricanes,Melbourne,1,5,76*,48,32,5,6,237.5,not out,2,1.0,0,7,0,7
+325026,Glenn Maxwell,22 Jan 2025,v Thunder,Sydney,2,5,28,26,21,3,1,133.33,caught,1,1.0,0,3,0,3
+325026,Glenn Maxwell,25 Mar 2025,v GT,Ahmedabad,1,5,0,1,1,0,0,0,lbw,2,2.0,0,26,1,13
+325026,Glenn Maxwell,1 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+325026,Glenn Maxwell,5 Apr 2025,v RR,New Chandigarh,2,6,30,40,21,3,1,142.85,caught,1,1.0,0,6,0,6
+325026,Glenn Maxwell,8 Apr 2025,v CSK,New Chandigarh,1,6,1,2,2,0,0,50,caught,2,2.0,0,11,1,5.5
+325026,Glenn Maxwell,12 Apr 2025,v SRH,Hyderabad,1,6,3,14,7,0,0,42.85,bowled,2,3.0,0,40,0,13.33
+325026,Glenn Maxwell,15 Apr 2025,v KKR,New Chandigarh,1,6,7,17,10,1,0,70,bowled,2,2.0,0,5,1,2.5
+325026,Glenn Maxwell,26 Apr 2025,v KKR,Eden Gardens,1,4,7,8,8,1,0,87.5,bowled,2,DNB,-,-,-,-
+325026,Glenn Maxwell,12 Jun 2025,v SF,Oakland,2,4,5,-,4,1,0,125,lbw,1,DNB,-,-,-,-
+325026,Glenn Maxwell,14 Jun 2025,v Seattle,Oakland,2,4,38*,-,20,3,3,190,not out,1,DNB,-,-,-,-
+325026,Glenn Maxwell,17 Jun 2025,v Los Angeles,Oakland,1,6,106*,-,49,2,13,216.32,not out,2,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Jun 2025,v MI New York,Dallas,2,6,16,-,5,1,2,320,bowled,1,4.0,0,37,1,9.25
+325026,Glenn Maxwell,22 Jun 2025,v Texas,Dallas,2,4,20,-,12,1,2,166.66,caught,1,4.0,0,35,2,8.75
+325026,Glenn Maxwell,26 Jun 2025,v Los Angeles,Dallas,2,4,42,-,23,2,3,182.6,bowled,1,2.0,0,25,0,12.5
+325026,Glenn Maxwell,28 Jun 2025,v SF,Dallas,1,5,8,-,8,0,1,100,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,2 Jul 2025,v Texas,Lauderhill,2,3,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,4 Jul 2025,v Seattle,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+325026,Glenn Maxwell,6 Jul 2025,v MI New York,Lauderhill,2,5,2,-,6,0,0,33.33,caught,1,4.0,0,29,3,7.25
+325026,Glenn Maxwell,8 Jul 2025,v Texas,Dallas,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+325026,Glenn Maxwell,13 Jul 2025,v MI New York,Dallas,2,6,15,-,16,0,0,93.75,caught,1,4.0,0,46,1,11.5
+325026,Glenn Maxwell,20 Jul 2025,v West Indies,Kingston,2,5,11,11,10,2,0,110,caught,1,1.0,0,11,0,11
+325026,Glenn Maxwell,22 Jul 2025,v West Indies,Kingston,2,1,12,8,10,1,1,120,caught,1,2.0,0,15,2,7.5
+325026,Glenn Maxwell,25 Jul 2025,v West Indies,Basseterre,2,2,20,-,7,3,1,285.71,run out,1,2.0,0,31,0,15.5
+325026,Glenn Maxwell,26 Jul 2025,v West Indies,Basseterre,2,2,47,-,18,1,6,261.11,caught,1,DNB,-,-,-,-
+325026,Glenn Maxwell,28 Jul 2025,v West Indies,Basseterre,2,2,0,-,1,0,0,0,caught,1,1.0,0,6,1,6
+325026,Glenn Maxwell,10 Aug 2025,v South Africa,Darwin,1,7,1,5,5,0,0,20,caught,2,4.0,0,29,1,7.25
+325026,Glenn Maxwell,12 Aug 2025,v South Africa,Darwin,2,5,16,22,10,1,1,160,caught,1,4.0,0,44,2,11
+325026,Glenn Maxwell,16 Aug 2025,v South Africa,Cairns,2,6,62*,46,36,8,2,172.22,not out,1,2.0,0,15,0,7.5
+325026,Glenn Maxwell,6 Nov 2025,v India,Carrara,2,7,2,9,4,0,0,50,bowled,1,DNB,-,-,-,-
+325026,Glenn Maxwell,8 Nov 2025,v India,Brisbane,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+325026,Glenn Maxwell,18 Dec 2025,v Hurricanes,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+325026,Glenn Maxwell,23 Dec 2025,v Strikers,Adelaide,2,4,2,7,4,0,0,50,caught,1,2.0,0,14,0,7
+325026,Glenn Maxwell,26 Dec 2025,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+325026,Glenn Maxwell,28 Dec 2025,v Thunder,Canberra,2,3,39*,19,20,5,2,195,not out,1,1.0,0,12,0,12
+325026,Glenn Maxwell,2 Jan 2026,v Heat,Brisbane,1,5,1,3,2,0,0,50,caught,2,3.0,0,20,0,6.66
+325026,Glenn Maxwell,4 Jan 2026,v Renegades,Melbourne,1,5,1,4,4,0,0,25,caught,2,2.0,0,15,0,7.5
+325026,Glenn Maxwell,8 Jan 2026,v Sixers,Melbourne,1,6,1,6,4,0,0,25,caught,2,1.0,0,10,0,10
+325026,Glenn Maxwell,10 Jan 2026,v Renegades,Melbourne (Docklands),2,4,20*,32,17,0,1,117.64,not out,1,1.0,0,10,0,10
+325026,Glenn Maxwell,13 Jan 2026,v Strikers,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+325026,Glenn Maxwell,17 Jan 2026,v Scorchers,Perth,1,7,3,16,8,0,0,37.5,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,21 Jan 2026,v Hurricanes,Hobart,2,5,9*,-,4,0,1,225,not out,1,1.0,0,9,1,9
+325026,Glenn Maxwell,11 Feb 2026,v Ireland,Colombo (RPS),1,5,9,12,9,1,0,100,caught,2,DNB,-,-,-,-
+325026,Glenn Maxwell,13 Feb 2026,v Zimbabwe,Colombo (RPS),2,5,31,59,32,1,1,96.87,bowled,1,1.0,0,14,0,14
+325026,Glenn Maxwell,16 Feb 2026,v Sri Lanka,Pallekele,1,6,22,16,15,1,1,146.66,caught,2,2.0,0,16,0,8
+325026,Glenn Maxwell,20 Feb 2026,v Oman,Pallekele,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,2,4.33

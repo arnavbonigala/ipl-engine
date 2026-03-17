@@ -1,0 +1,139 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+30102,Zaheer Khan,27 Jun 2006,v Glamorgan,Cardiff,1,8,4*,4,2,0,0,200,not out,2,4.0,0,34,1,8.5
+30102,Zaheer Khan,29 Jun 2006,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+30102,Zaheer Khan,30 Jun 2006,v Northants,Worcester,1,9,26,28,21,4,0,123.8,caught,2,3.0,0,15,0,5
+30102,Zaheer Khan,7 Jul 2006,v Warwickshire,Birmingham,1,7,1*,1,1,0,0,100,not out,2,4.0,0,29,2,7.25
+30102,Zaheer Khan,9 Jul 2006,v Somerset,Worcester,2,9,10*,12,10,1,0,100,not out,1,4.0,0,37,1,9.25
+30102,Zaheer Khan,1 Dec 2006,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+30102,Zaheer Khan,16 Apr 2007,v Tamil Nadu,Ahmedabad,2,8,3,10,13,0,0,23.07,bowled,1,4.0,0,34,1,8.5
+30102,Zaheer Khan,17 Apr 2007,v Haryana,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+30102,Zaheer Khan,18 Apr 2007,v M. Pradesh,Ahmedabad,1,7,7,6,5,1,0,140,run out,2,3.0,0,22,1,7.33
+30102,Zaheer Khan,19 Apr 2007,v Bengal,Ahmedabad,1,6,5,4,4,0,0,125,caught,2,4.0,0,14,1,3.5
+30102,Zaheer Khan,18 Apr 2008,v KKR,Bengaluru,2,10,3,-,8,0,0,37.5,bowled,1,4.0,0,38,1,9.5
+30102,Zaheer Khan,20 Apr 2008,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+30102,Zaheer Khan,26 Apr 2008,v RR,Bengaluru,1,9,17*,-,18,2,0,94.44,not out,2,4.0,0,24,1,6
+30102,Zaheer Khan,28 Apr 2008,v CSK,Bengaluru,2,9,8,-,6,1,0,133.33,run out,1,4.0,0,38,3,9.5
+30102,Zaheer Khan,30 Apr 2008,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+30102,Zaheer Khan,3 May 2008,v Chargers,Bengaluru,1,9,0*,-,0,0,0,-,not out,2,4.0,0,24,2,6
+30102,Zaheer Khan,5 May 2008,v Kings XI,Bengaluru,1,9,0,-,1,0,0,0,bowled,2,4.0,0,29,2,7.25
+30102,Zaheer Khan,8 May 2008,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+30102,Zaheer Khan,12 May 2008,v Kings XI,Mohali,1,9,1*,-,4,0,0,25,not out,2,4.0,0,35,0,8.75
+30102,Zaheer Khan,17 May 2008,v RR,Jaipur,2,9,1,-,5,0,0,20,caught,1,4.0,0,46,0,11.5
+30102,Zaheer Khan,19 May 2008,v Daredevils,Bengaluru,1,9,4*,-,1,1,0,400,not out,2,3.0,0,37,0,12.33
+30102,Zaheer Khan,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+30102,Zaheer Khan,25 Feb 2009,v New Zealand,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+30102,Zaheer Khan,27 Feb 2009,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,18 Apr 2009,v CSK,Cape Town,1,8,2,-,3,0,0,66.66,caught,2,4.0,0,34,0,8.5
+30102,Zaheer Khan,25 Apr 2009,v Chargers,Durban,2,8,4*,-,6,0,0,66.66,not out,1,4.0,0,32,0,8
+30102,Zaheer Khan,27 Apr 2009,v KKR,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+30102,Zaheer Khan,29 Apr 2009,v Kings XI,Durban,2,9,0*,-,0,0,0,-,not out,1,4.0,0,19,1,4.75
+30102,Zaheer Khan,1 May 2009,v KKR,East London,1,8,2*,-,2,0,0,100,not out,2,4.0,0,31,3,7.75
+30102,Zaheer Khan,3 May 2009,v RCB,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+30102,Zaheer Khan,6 Jun 2009,v Bangladesh,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+30102,Zaheer Khan,10 Jun 2009,v Ireland,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,4,6.33
+30102,Zaheer Khan,12 Jun 2009,v West Indies,Lord's,1,9,0*,1,0,0,0,-,not out,2,2.4,0,26,0,9.75
+30102,Zaheer Khan,14 Jun 2009,v England,Lord's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+30102,Zaheer Khan,16 Jun 2009,v South Africa,Nottingham,2,9,4,1,3,0,0,133.33,caught,1,3.0,0,26,1,8.66
+30102,Zaheer Khan,20 Oct 2009,v Baroda,Pune,1,11,1*,1,1,0,0,100,not out,2,4.0,0,31,1,7.75
+30102,Zaheer Khan,21 Oct 2009,v Gujarat,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+30102,Zaheer Khan,22 Oct 2009,v Saurashtra,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,0,3.75
+30102,Zaheer Khan,24 Oct 2009,v Maharashtra,Pune,2,9,0,1,1,0,0,0,caught,1,4.0,0,30,1,7.5
+30102,Zaheer Khan,13 Mar 2010,v RR,Brabourne,1,9,0*,-,0,0,0,-,not out,2,4.0,0,27,0,6.75
+30102,Zaheer Khan,17 Mar 2010,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+30102,Zaheer Khan,20 Mar 2010,v RCB,Brabourne,1,10,23*,-,9,3,1,255.55,not out,2,4.0,0,18,1,4.5
+30102,Zaheer Khan,22 Mar 2010,v KKR,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+30102,Zaheer Khan,25 Mar 2010,v CSK,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+30102,Zaheer Khan,28 Mar 2010,v Chargers,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,3,7
+30102,Zaheer Khan,30 Mar 2010,v Kings XI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+30102,Zaheer Khan,3 Apr 2010,v Chargers,Brabourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,2,5
+30102,Zaheer Khan,9 Apr 2010,v Kings XI,Mohali,1,10,0*,-,1,0,0,0,not out,2,3.2,0,36,0,10.8
+30102,Zaheer Khan,11 Apr 2010,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,17,2,4.25
+30102,Zaheer Khan,13 Apr 2010,v Daredevils,Brabourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+30102,Zaheer Khan,17 Apr 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,21 Apr 2010,v RCB,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+30102,Zaheer Khan,25 Apr 2010,v CSK,DY Patil,2,9,1,-,3,0,0,33.33,run out,1,4.0,0,34,1,8.5
+30102,Zaheer Khan,1 May 2010,v Afghanistan,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+30102,Zaheer Khan,7 May 2010,v Australia,Bridgetown,2,10,9,6,6,0,1,150,caught,1,4.0,0,45,0,11.25
+30102,Zaheer Khan,9 May 2010,v West Indies,Bridgetown,2,11,0*,1,1,0,0,0,not out,1,4.0,0,36,1,9
+30102,Zaheer Khan,10 Sep 2010,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+30102,Zaheer Khan,14 Sep 2010,v South Aust,Durban,1,9,0*,1,1,0,0,0,not out,2,4.0,0,33,1,8.25
+30102,Zaheer Khan,16 Sep 2010,v Guyana,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+30102,Zaheer Khan,19 Sep 2010,v RCB,Durban,1,9,0*,-,0,0,0,-,not out,2,4.0,0,36,1,9
+30102,Zaheer Khan,9 Apr 2011,v Kochi,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+30102,Zaheer Khan,12 Apr 2011,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+30102,Zaheer Khan,14 Apr 2011,v Chargers,Hyderabad,2,3,0,-,3,0,0,0,bowled,1,4.0,0,32,3,8
+30102,Zaheer Khan,16 Apr 2011,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+30102,Zaheer Khan,22 Apr 2011,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+30102,Zaheer Khan,26 Apr 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+30102,Zaheer Khan,29 Apr 2011,v Warriors,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+30102,Zaheer Khan,6 May 2011,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+30102,Zaheer Khan,8 May 2011,v Kochi,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+30102,Zaheer Khan,11 May 2011,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+30102,Zaheer Khan,14 May 2011,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+30102,Zaheer Khan,22 May 2011,v CSK,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+30102,Zaheer Khan,24 May 2011,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+30102,Zaheer Khan,27 May 2011,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+30102,Zaheer Khan,28 May 2011,v CSK,Chennai,2,9,21,-,21,2,0,100,caught,1,4.0,0,30,0,7.5
+30102,Zaheer Khan,7 Apr 2012,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+30102,Zaheer Khan,10 Apr 2012,v KKR,Bengaluru,2,10,11*,6,7,1,0,157.14,not out,1,4.0,0,31,2,7.75
+30102,Zaheer Khan,12 Apr 2012,v CSK,Chennai,1,10,0*,1,0,0,0,-,not out,2,4.0,0,32,1,8
+30102,Zaheer Khan,15 Apr 2012,v RR,Bengaluru,2,9,0,10,3,0,0,0,caught,1,4.0,1,15,1,3.75
+30102,Zaheer Khan,17 Apr 2012,v Warriors,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+30102,Zaheer Khan,20 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+30102,Zaheer Khan,23 Apr 2012,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,25 Apr 2012,v CSK,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+30102,Zaheer Khan,28 Apr 2012,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+30102,Zaheer Khan,2 May 2012,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+30102,Zaheer Khan,6 May 2012,v Chargers,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+30102,Zaheer Khan,9 May 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+30102,Zaheer Khan,11 May 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+30102,Zaheer Khan,14 May 2012,v MI,Bengaluru,1,8,1*,11,3,0,0,33.33,not out,2,4.0,0,34,1,8.5
+30102,Zaheer Khan,17 May 2012,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,3,9.5
+30102,Zaheer Khan,20 May 2012,v Chargers,Hyderabad,2,7,0,-,4,0,0,0,bowled,1,4.0,0,30,2,7.5
+30102,Zaheer Khan,11 Sep 2012,v New Zealand,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+30102,Zaheer Khan,19 Sep 2012,v Afghanistan,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+30102,Zaheer Khan,28 Sep 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+30102,Zaheer Khan,30 Sep 2012,v Pakistan,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+30102,Zaheer Khan,2 Oct 2012,v South Africa,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+30102,Zaheer Khan,14 May 2013,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,18 May 2013,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,4,8.5
+30102,Zaheer Khan,30 Mar 2014,v Baroda,Wankhede,2,9,0,1,3,0,0,0,caught,1,4.0,0,18,0,4.5
+30102,Zaheer Khan,31 Mar 2014,v Gujarat,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+30102,Zaheer Khan,2 Apr 2014,v Saurashtra,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+30102,Zaheer Khan,3 Apr 2014,v Maharashtra,Wankhede,2,9,4*,9,8,0,0,50,not out,1,4.0,0,20,2,5
+30102,Zaheer Khan,16 Apr 2014,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+30102,Zaheer Khan,19 Apr 2014,v RCB,Dubai (DICS),1,8,0,3,2,0,0,0,caught,2,4.0,0,21,2,5.25
+30102,Zaheer Khan,25 Apr 2014,v CSK,Dubai (DICS),1,9,7*,6,3,0,1,233.33,not out,2,4.0,0,31,0,7.75
+30102,Zaheer Khan,27 Apr 2014,v Daredevils,Sharjah,1,9,0*,1,0,0,0,-,not out,2,2.5,0,17,0,6
+30102,Zaheer Khan,30 Apr 2014,v SRH,Dubai (DICS),2,9,1*,8,2,0,0,50,not out,1,4.0,0,26,2,6.5
+30102,Zaheer Khan,3 May 2014,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.3,0,28,0,8
+30102,Zaheer Khan,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+30102,Zaheer Khan,3 May 2015,v RR,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+30102,Zaheer Khan,5 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+30102,Zaheer Khan,7 May 2015,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+30102,Zaheer Khan,9 May 2015,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+30102,Zaheer Khan,12 May 2015,v CSK,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,2,2.25
+30102,Zaheer Khan,17 May 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,0.1,0,0,0,0
+30102,Zaheer Khan,10 Apr 2016,v KKR,Eden Gardens,1,11,4,10,9,1,0,44.44,caught,2,2.1,0,24,0,11.07
+30102,Zaheer Khan,15 Apr 2016,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,1,3.5
+30102,Zaheer Khan,17 Apr 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,1,12.5
+30102,Zaheer Khan,23 Apr 2016,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,27 Apr 2016,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+30102,Zaheer Khan,30 Apr 2016,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.3,0,21,3,6
+30102,Zaheer Khan,3 May 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+30102,Zaheer Khan,7 May 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+30102,Zaheer Khan,15 May 2016,v MI,Visakhapatnam,2,11,2,4,4,0,0,50,bowled,1,4.0,0,23,1,5.75
+30102,Zaheer Khan,17 May 2016,v Supergiants,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+30102,Zaheer Khan,20 May 2016,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+30102,Zaheer Khan,22 May 2016,v RCB,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+30102,Zaheer Khan,8 Apr 2017,v RCB,Bengaluru,2,11,1*,1,1,0,0,100,not out,1,4.0,0,31,2,7.75
+30102,Zaheer Khan,11 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,3,6.66
+30102,Zaheer Khan,15 Apr 2017,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+30102,Zaheer Khan,17 Apr 2017,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+30102,Zaheer Khan,19 Apr 2017,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+30102,Zaheer Khan,22 Apr 2017,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+30102,Zaheer Khan,28 Apr 2017,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.1,0,8,0,6.85
+30102,Zaheer Khan,6 May 2017,v MI,Delhi,2,11,2,11,11,0,0,18.18,caught,1,4.0,0,29,0,7.25
+30102,Zaheer Khan,10 May 2017,v Guj Lions,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+30102,Zaheer Khan,12 May 2017,v Supergiant,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+30102,Zaheer Khan,14 May 2017,v RCB,Delhi,2,11,1*,2,1,0,0,100,not out,1,4.0,0,31,1,7.75

@@ -1,0 +1,49 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1201520,Ripal Patel,11 Nov 2019,v Saurashtra,Surat,2,6,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,12 Nov 2019,v Nagaland,Surat,1,7,41*,-,13,3,4,315.38,not out,2,DNB,-,-,-,-
+1201520,Ripal Patel,14 Nov 2019,v Sikkim,Surat,2,3,1*,-,1,0,0,100,not out,1,DNB,-,-,-,-
+1201520,Ripal Patel,15 Nov 2019,v Odisha,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,17 Nov 2019,v Jharkhand,Surat,1,7,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,18 Nov 2019,v J & K,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,10 Jan 2021,v Maharashtra,Vadodara,1,7,29,15,17,2,2,170.58,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,12 Jan 2021,v Uttarakhand,Vadodara,1,7,41*,-,20,3,3,205,not out,2,DNB,-,-,-,-
+1201520,Ripal Patel,14 Jan 2021,v Himachal,Vadodara,2,6,14,-,20,2,0,70,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,16 Jan 2021,v Chhattisgarh,Vadodara,2,3,32,-,9,3,3,355.55,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,18 Jan 2021,v Baroda,Vadodara,2,6,29,-,14,2,2,207.14,caught,1,1.0,0,15,0,15
+1201520,Ripal Patel,4 Oct 2021,v CSK,Dubai (DICS),2,5,18,16,20,2,0,90,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,8 Oct 2021,v RCB,Dubai (DICS),1,6,7*,17,7,1,0,100,not out,2,3.0,0,22,0,7.33
+1201520,Ripal Patel,4 Nov 2021,v Kerala,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+1201520,Ripal Patel,5 Nov 2021,v Assam,Delhi,1,5,21,-,25,2,0,84,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,6 Nov 2021,v M. Pradesh,Delhi,1,5,5*,-,4,0,0,125,not out,2,DNB,-,-,-,-
+1201520,Ripal Patel,8 Nov 2021,v Railways,Delhi,2,4,19*,-,6,0,3,316.66,not out,1,1.0,0,11,0,11
+1201520,Ripal Patel,9 Nov 2021,v Bihar,Delhi,2,5,3,-,6,0,0,50,caught,1,1.0,0,9,0,9
+1201520,Ripal Patel,18 Nov 2021,v Hyderabad,Delhi,2,6,35,-,24,1,2,145.83,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,5 May 2022,v SRH,Brabourne,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1201520,Ripal Patel,8 May 2022,v CSK,DY Patil,2,6,6,4,3,0,1,200,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,14 Oct 2022,v Baroda,Indore,2,6,16,-,8,1,1,200,run out,1,DNB,-,-,-,-
+1201520,Ripal Patel,16 Oct 2022,v Saurashtra,Indore,1,6,17,-,21,2,0,80.95,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,18 Oct 2022,v Nagaland,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,20 Oct 2022,v Andhra,Indore,2,7,16*,-,6,0,2,266.66,not out,1,DNB,-,-,-,-
+1201520,Ripal Patel,22 Oct 2022,v Bihar,Indore,2,6,4,-,3,1,0,133.33,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,24 Apr 2023,v SRH,Hyderabad,1,8,5,13,6,0,0,83.33,run out,2,DNB,-,-,-,-
+1201520,Ripal Patel,29 Apr 2023,v SRH,Delhi,2,8,11*,16,8,1,0,137.5,not out,1,DNB,-,-,-,-
+1201520,Ripal Patel,2 May 2023,v GT,Ahmedabad,1,8,23,32,13,2,1,176.92,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,6 May 2023,v RCB,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,10 May 2023,v CSK,Chennai,2,6,10,31,16,0,0,62.5,run out,1,DNB,-,-,-,-
+1201520,Ripal Patel,16 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+1201520,Ripal Patel,17 Oct 2023,v Saurashtra,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,19 Oct 2023,v Goa,Ranchi,1,7,29,-,13,3,2,223.07,lbw,2,DNB,-,-,-,-
+1201520,Ripal Patel,21 Oct 2023,v Andhra,Ranchi,1,7,5,-,8,0,0,62.5,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,23 Oct 2023,v Punjab,Ranchi,2,7,14,-,12,0,1,116.66,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,27 Oct 2023,v Manipur,Ranchi,2,6,5*,-,5,0,0,100,not out,1,2.0,1,23,0,11.5
+1201520,Ripal Patel,31 Oct 2023,v UP,Mohali,1,7,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,23 Nov 2024,v Baroda,Indore,1,7,18*,-,7,1,2,257.14,not out,2,DNB,-,-,-,-
+1201520,Ripal Patel,25 Nov 2024,v Saurashtra,Indore,2,7,9*,-,6,0,1,150,not out,1,DNB,-,-,-,-
+1201520,Ripal Patel,27 Nov 2024,v Tripura,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,29 Nov 2024,v Tamil Nadu,Indore,1,8,1,-,6,0,0,16.66,bowled,2,DNB,-,-,-,-
+1201520,Ripal Patel,1 Dec 2024,v Sikkim,Indore,2,5,7,-,11,1,0,63.63,bowled,1,DNB,-,-,-,-
+1201520,Ripal Patel,26 Nov 2025,v Services,Hyderabad,2,3,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,28 Nov 2025,v Bengal,Hyderabad,1,8,9,-,5,0,1,180,caught,2,DNB,-,-,-,-
+1201520,Ripal Patel,30 Nov 2025,v Haryana,Hyderabad,2,7,2,-,3,0,0,66.66,caught,1,DNB,-,-,-,-
+1201520,Ripal Patel,2 Dec 2025,v Puducherry,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1201520,Ripal Patel,4 Dec 2025,v Baroda,Hyderabad,1,8,2,-,3,0,0,66.66,run out,2,DNB,-,-,-,-

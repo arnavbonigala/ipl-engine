@@ -1,0 +1,193 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+669855,Jofra Archer,15 Jul 2016,v Hampshire,Hove,2,9,0,6,0,0,0,-,run out,1,4.0,0,27,1,6.75
+669855,Jofra Archer,21 Jul 2016,v Essex,Chelmsford,1,8,12*,7,7,2,0,171.42,not out,2,4.0,0,39,1,9.75
+669855,Jofra Archer,22 Jul 2016,v Surrey,The Oval,1,7,9*,7,6,1,0,150,not out,2,4.0,0,39,2,9.75
+669855,Jofra Archer,28 Jul 2016,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+669855,Jofra Archer,9 Jul 2017,v Glamorgan,Arundel,2,7,5*,12,8,0,0,62.5,not out,1,4.0,0,41,1,10.25
+669855,Jofra Archer,12 Jul 2017,v Hampshire,Hove,2,7,2,2,2,0,0,100,bowled,1,4.0,0,35,1,8.75
+669855,Jofra Archer,16 Jul 2017,v Gloucs,Cheltenham,1,8,22,13,12,4,0,183.33,caught,-,TDNB,-,-,-,-
+669855,Jofra Archer,20 Jul 2017,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,4,4.5
+669855,Jofra Archer,21 Jul 2017,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+669855,Jofra Archer,23 Jul 2017,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+669855,Jofra Archer,28 Jul 2017,v Middlesex,Hove,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,17,2,5.66
+669855,Jofra Archer,30 Jul 2017,v Somerset,Taunton,2,6,2*,7,2,0,0,100,not out,1,2.0,0,22,1,11
+669855,Jofra Archer,3 Aug 2017,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+669855,Jofra Archer,4 Aug 2017,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+669855,Jofra Archer,10 Aug 2017,v Middlesex,Lord's,2,9,1,7,5,0,0,20,caught,1,4.0,0,29,1,7.25
+669855,Jofra Archer,11 Aug 2017,v Gloucs,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+669855,Jofra Archer,13 Aug 2017,v Surrey,The Oval,2,9,10*,14,8,1,0,125,not out,1,4.0,0,52,0,13
+669855,Jofra Archer,18 Aug 2017,v Essex,Hove,1,-,DNB,-,-,-,-,-,-,2,2.5,0,26,1,9.17
+669855,Jofra Archer,5 Nov 2017,v Dynamites,Sylhet,2,7,36,-,24,5,0,150,caught,1,4.0,0,34,1,8.5
+669855,Jofra Archer,8 Nov 2017,v Sylhet,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+669855,Jofra Archer,12 Nov 2017,v Chattogram,Mirpur,1,8,11*,-,4,1,1,275,not out,2,4.0,0,30,1,7.5
+669855,Jofra Archer,14 Nov 2017,v Dynamites,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+669855,Jofra Archer,24 Nov 2017,v Rangpur,Chattogram,1,8,10*,-,8,1,0,125,not out,2,4.0,0,33,0,8.25
+669855,Jofra Archer,27 Nov 2017,v Kings,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+669855,Jofra Archer,28 Nov 2017,v Victorians,Chattogram,1,8,5,-,3,1,0,166.66,caught,2,3.0,0,16,0,5.33
+669855,Jofra Archer,3 Dec 2017,v Rangpur,Mirpur,2,8,19,-,11,0,2,172.72,run out,1,4.0,0,28,2,7
+669855,Jofra Archer,8 Dec 2017,v Rangpur,Mirpur,1,8,6*,-,3,1,0,200,not out,2,4.0,0,30,2,7.5
+669855,Jofra Archer,21 Dec 2017,v Renegades,Hobart,1,7,1,-,2,0,0,50,caught,2,4.0,1,17,2,4.25
+669855,Jofra Archer,30 Dec 2017,v Thunder,Launceston,2,9,25*,-,16,1,1,156.25,not out,1,4.0,0,22,1,5.5
+669855,Jofra Archer,1 Jan 2018,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+669855,Jofra Archer,4 Jan 2018,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,3.75
+669855,Jofra Archer,8 Jan 2018,v Sixers,Hobart,1,8,0*,-,0,0,0,-,not out,2,4.0,0,35,0,8.75
+669855,Jofra Archer,10 Jan 2018,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+669855,Jofra Archer,15 Jan 2018,v Heat,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+669855,Jofra Archer,17 Jan 2018,v Strikers,Adelaide,2,6,4*,-,4,0,0,100,not out,1,4.0,0,27,3,6.75
+669855,Jofra Archer,20 Jan 2018,v Scorchers,W.A.C.A,1,7,3*,-,4,0,0,75,not out,2,3.2,0,31,1,9.3
+669855,Jofra Archer,27 Jan 2018,v Stars,Melbourne,1,8,7*,-,3,0,0,233.33,not out,2,4.0,0,35,0,8.75
+669855,Jofra Archer,1 Feb 2018,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+669855,Jofra Archer,4 Feb 2018,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+669855,Jofra Archer,23 Feb 2018,v Kings,Dubai (DICS),2,10,5,-,4,1,0,125,caught,1,4.0,0,30,2,7.5
+669855,Jofra Archer,24 Feb 2018,v Qalandars,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+669855,Jofra Archer,22 Apr 2018,v MI,Jaipur,2,7,8,-,9,1,0,88.88,caught,1,4.0,0,22,3,5.5
+669855,Jofra Archer,29 Apr 2018,v SRH,Jaipur,2,8,1*,-,1,0,0,100,not out,1,4.0,0,26,3,6.5
+669855,Jofra Archer,2 May 2018,v Daredevils,Delhi,2,7,0*,-,0,0,0,-,not out,1,3.1,0,31,1,9.78
+669855,Jofra Archer,6 May 2018,v Kings XI,Indore,1,7,0,-,1,0,0,0,bowled,2,3.4,0,43,1,11.72
+669855,Jofra Archer,8 May 2018,v Kings XI,Jaipur,1,8,0,-,1,0,0,0,caught,2,4.0,0,32,1,8
+669855,Jofra Archer,11 May 2018,v CSK,Jaipur,2,8,0*,-,0,0,0,-,not out,1,4.0,0,42,2,10.5
+669855,Jofra Archer,13 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+669855,Jofra Archer,15 May 2018,v KKR,Eden Gardens,1,10,6,-,5,1,0,120,caught,2,4.0,0,43,0,10.75
+669855,Jofra Archer,19 May 2018,v RCB,Jaipur,1,2,0,-,4,0,0,0,caught,2,4.0,0,37,0,9.25
+669855,Jofra Archer,23 May 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+669855,Jofra Archer,4 Jul 2018,v Essex,Chelmsford,1,7,24,19,18,1,1,133.33,run out,2,3.4,0,24,3,6.54
+669855,Jofra Archer,8 Jul 2018,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+669855,Jofra Archer,12 Jul 2018,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+669855,Jofra Archer,13 Jul 2018,v Surrey,Hove,2,7,19,10,10,2,1,190,run out,1,4.0,0,39,0,9.75
+669855,Jofra Archer,27 Jul 2018,v Kent,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+669855,Jofra Archer,1 Aug 2018,v Gloucs,Hove,1,7,26*,38,26,0,1,100,not out,2,4.0,0,28,1,7
+669855,Jofra Archer,2 Aug 2018,v Middlesex,Lord's,1,8,6,8,5,1,0,120,caught,2,4.0,0,25,3,6.25
+669855,Jofra Archer,5 Aug 2018,v Somerset,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+669855,Jofra Archer,9 Aug 2018,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+669855,Jofra Archer,14 Aug 2018,v Glamorgan,Hove,1,7,22*,5,6,2,2,366.66,not out,2,2.0,0,18,1,9
+669855,Jofra Archer,16 Aug 2018,v Gloucs,Bristol,2,7,12,13,8,2,0,150,caught,1,4.0,0,32,2,8
+669855,Jofra Archer,17 Aug 2018,v Middlesex,Hove,1,7,1*,2,1,0,0,100,not out,2,4.0,0,42,1,10.5
+669855,Jofra Archer,24 Aug 2018,v Durham,Chester-le-Street,2,7,0*,3,1,0,0,0,not out,1,4.0,0,40,1,10
+669855,Jofra Archer,15 Sep 2018,v Somerset,Birmingham,1,7,3,5,3,0,0,100,run out,2,4.0,0,32,3,8
+669855,Jofra Archer,15 Sep 2018,v Worcs,Birmingham,1,7,7,11,8,0,0,87.5,caught,2,3.3,0,36,1,10.28
+669855,Jofra Archer,22 Dec 2018,v Heat,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+669855,Jofra Archer,24 Dec 2018,v Stars,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+669855,Jofra Archer,28 Dec 2018,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+669855,Jofra Archer,30 Dec 2018,v Scorchers,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+669855,Jofra Archer,4 Jan 2019,v Sixers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+669855,Jofra Archer,7 Jan 2019,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+669855,Jofra Archer,14 Jan 2019,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.1,0,23,2,7.26
+669855,Jofra Archer,18 Jan 2019,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,1.4,0,19,0,11.4
+669855,Jofra Archer,21 Jan 2019,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+669855,Jofra Archer,23 Jan 2019,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+669855,Jofra Archer,29 Jan 2019,v Heat,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+669855,Jofra Archer,31 Jan 2019,v Strikers,Launceston,1,8,11,-,7,1,0,157.14,caught,2,4.0,0,32,1,8
+669855,Jofra Archer,7 Feb 2019,v Renegades,Hobart,1,7,3,-,3,0,0,100,caught,2,4.0,0,19,2,4.75
+669855,Jofra Archer,9 Feb 2019,v Thunder,Canberra,1,-,DNB,-,-,-,-,-,-,2,3.2,0,22,1,6.6
+669855,Jofra Archer,14 Feb 2019,v Stars,Hobart,1,8,7*,-,4,0,0,175,not out,2,4.0,0,33,1,8.25
+669855,Jofra Archer,25 Mar 2019,v Kings XI,Jaipur,2,8,2,4,2,0,0,100,run out,1,4.0,0,17,0,4.25
+669855,Jofra Archer,29 Mar 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+669855,Jofra Archer,31 Mar 2019,v CSK,Chennai,2,8,24*,-,11,1,2,218.18,not out,1,4.0,1,17,2,4.25
+669855,Jofra Archer,2 Apr 2019,v RCB,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+669855,Jofra Archer,7 Apr 2019,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,0,4.66
+669855,Jofra Archer,11 Apr 2019,v CSK,Jaipur,1,8,13*,23,12,1,0,108.33,not out,2,4.0,1,19,1,4.75
+669855,Jofra Archer,13 Apr 2019,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+669855,Jofra Archer,16 Apr 2019,v Kings XI,Mohali,2,6,1,3,3,0,0,33.33,caught,1,4.0,0,15,3,3.75
+669855,Jofra Archer,20 Apr 2019,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+669855,Jofra Archer,22 Apr 2019,v DC,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+669855,Jofra Archer,25 Apr 2019,v KKR,Eden Gardens,2,8,27*,22,12,2,2,225,not out,1,4.0,0,28,0,7
+669855,Jofra Archer,5 May 2019,v Pakistan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+669855,Jofra Archer,26 Jul 2019,v Surrey,Hove,1,8,1,3,3,0,0,33.33,caught,2,4.0,0,21,2,5.25
+669855,Jofra Archer,2 Aug 2019,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+669855,Jofra Archer,4 Sep 2020,v Australia,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+669855,Jofra Archer,6 Sep 2020,v Australia,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+669855,Jofra Archer,8 Sep 2020,v Australia,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+669855,Jofra Archer,22 Sep 2020,v CSK,Sharjah,1,9,27*,-,8,0,4,337.5,not out,2,4.0,0,26,1,6.5
+669855,Jofra Archer,27 Sep 2020,v Kings XI,Sharjah,2,6,13*,-,3,0,2,433.33,not out,1,4.0,0,46,0,11.5
+669855,Jofra Archer,30 Sep 2020,v KKR,Dubai (DICS),2,9,6,-,4,0,1,150,caught,1,4.0,0,18,2,4.5
+669855,Jofra Archer,3 Oct 2020,v RCB,Abu Dhabi,1,8,16*,-,10,1,1,160,not out,2,4.0,0,18,1,4.5
+669855,Jofra Archer,6 Oct 2020,v MI,Abu Dhabi,2,8,24,-,11,3,1,218.18,caught,1,4.0,0,34,1,8.5
+669855,Jofra Archer,9 Oct 2020,v DC,Sharjah,2,8,2,-,4,0,0,50,caught,1,4.0,0,24,3,6
+669855,Jofra Archer,11 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+669855,Jofra Archer,14 Oct 2020,v DC,Dubai (DICS),2,8,1,-,4,0,0,25,caught,1,4.0,0,19,3,4.75
+669855,Jofra Archer,17 Oct 2020,v RCB,Dubai (DICS),1,7,2,-,3,0,0,66.66,lbw,2,3.4,0,38,0,10.36
+669855,Jofra Archer,19 Oct 2020,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+669855,Jofra Archer,22 Oct 2020,v SRH,Dubai (DICS),1,8,16*,-,7,1,1,228.57,not out,2,4.0,0,21,2,5.25
+669855,Jofra Archer,25 Oct 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+669855,Jofra Archer,30 Oct 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+669855,Jofra Archer,1 Nov 2020,v KKR,Dubai (DICS),2,9,6,-,9,0,0,66.66,caught,1,4.0,0,19,1,4.75
+669855,Jofra Archer,27 Nov 2020,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+669855,Jofra Archer,29 Nov 2020,v South Africa,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+669855,Jofra Archer,1 Dec 2020,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+669855,Jofra Archer,12 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,3,5.75
+669855,Jofra Archer,14 Mar 2021,v India,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+669855,Jofra Archer,16 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+669855,Jofra Archer,18 Mar 2021,v India,Ahmedabad,2,9,18*,16,8,2,1,225,not out,1,4.0,0,33,4,8.25
+669855,Jofra Archer,20 Mar 2021,v India,Ahmedabad,2,8,1,2,2,0,0,50,run out,1,4.0,0,43,0,10.75
+669855,Jofra Archer,18 Jul 2021,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+669855,Jofra Archer,10 Jan 2023,v Paarl Royals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,1,27,3,6.75
+669855,Jofra Archer,13 Jan 2023,v Super Giants,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+669855,Jofra Archer,18 Jan 2023,v Sunrisers,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+669855,Jofra Archer,21 Jan 2023,v Paarl Royals,Paarl,1,10,2*,11,2,0,0,100,not out,2,4.0,0,31,1,7.75
+669855,Jofra Archer,23 Jan 2023,v Capitals,Cape Town,2,10,1,-,2,0,0,50,caught,1,4.0,0,37,3,9.25
+669855,Jofra Archer,6 Feb 2023,v Super Kings,Johannesburg,2,10,2,5,3,0,0,66.66,caught,1,4.0,0,35,2,8.75
+669855,Jofra Archer,9 Mar 2023,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+669855,Jofra Archer,12 Mar 2023,v Bangladesh,Mirpur,1,11,0,1,1,0,0,0,run out,2,4.0,0,13,3,3.25
+669855,Jofra Archer,14 Mar 2023,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+669855,Jofra Archer,2 Apr 2023,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+669855,Jofra Archer,22 Apr 2023,v Punjab Kings,Wankhede,2,8,1*,4,2,0,0,50,not out,1,4.0,0,42,1,10.5
+669855,Jofra Archer,30 Apr 2023,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+669855,Jofra Archer,3 May 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,0,14
+669855,Jofra Archer,6 May 2023,v CSK,Chennai,1,9,3*,5,2,0,0,150,not out,2,4.0,0,24,0,6
+669855,Jofra Archer,25 May 2024,v Pakistan,Birmingham,1,9,12*,4,4,1,1,300,not out,2,4.0,0,28,2,7
+669855,Jofra Archer,30 May 2024,v Pakistan,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.5,0,31,1,8.08
+669855,Jofra Archer,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+669855,Jofra Archer,8 Jun 2024,v Australia,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+669855,Jofra Archer,13 Jun 2024,v Oman,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.2,1,12,3,3.6
+669855,Jofra Archer,15 Jun 2024,v Namibia,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+669855,Jofra Archer,19 Jun 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+669855,Jofra Archer,21 Jun 2024,v South Africa,Gros Islet,2,8,1*,4,2,0,0,50,not out,1,4.0,0,40,3,10
+669855,Jofra Archer,23 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,0,5.33
+669855,Jofra Archer,27 Jun 2024,v India,Providence,2,9,21,17,15,1,2,140,lbw,1,4.0,0,33,1,8.25
+669855,Jofra Archer,24 Jul 2024,v Spirit,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,7.2
+669855,Jofra Archer,30 Jul 2024,v N S-Chargers,Leeds,1,9,3,1,2,0,0,150,run out,2,4.0,0,19,1,5.7
+669855,Jofra Archer,3 Aug 2024,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,10.8
+669855,Jofra Archer,8 Aug 2024,v Invincibles,The Oval,1,8,10,10,6,0,1,166.66,caught,2,4.0,0,22,0,6.6
+669855,Jofra Archer,10 Aug 2024,v Rockets,Southampton,2,9,2,5,3,0,0,66.66,run out,1,4.0,0,18,2,5.4
+669855,Jofra Archer,14 Aug 2024,v Fire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,13.2
+669855,Jofra Archer,17 Aug 2024,v Phoenix,The Oval,1,8,1*,2,1,0,0,100,not out,2,4.0,0,29,1,8.7
+669855,Jofra Archer,18 Aug 2024,v Invincibles,Lord's,2,8,6*,16,9,0,0,66.66,not out,1,4.0,0,36,2,10.8
+669855,Jofra Archer,4 Sep 2024,v Lancashire,Hove,2,-,DNB,-,-,-,-,-,-,1,3.3,0,20,2,5.71
+669855,Jofra Archer,11 Sep 2024,v Australia,Southampton,2,8,4,4,5,0,0,80,caught,1,3.3,0,31,2,8.85
+669855,Jofra Archer,10 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+669855,Jofra Archer,14 Nov 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+669855,Jofra Archer,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+669855,Jofra Archer,22 Jan 2025,v India,Eden Gardens,1,9,12,17,10,1,0,120,caught,2,4.0,0,21,2,5.25
+669855,Jofra Archer,25 Jan 2025,v India,Chennai,1,9,12*,18,9,1,0,133.33,not out,2,4.0,0,60,1,15
+669855,Jofra Archer,28 Jan 2025,v India,Rajkot,1,9,0,1,2,0,0,0,bowled,2,4.0,0,33,2,8.25
+669855,Jofra Archer,31 Jan 2025,v India,Pune,2,9,0,3,2,0,0,0,bowled,1,4.0,0,37,0,9.25
+669855,Jofra Archer,2 Feb 2025,v India,Wankhede,2,9,1*,9,2,0,0,50,not out,1,4.0,0,55,1,13.75
+669855,Jofra Archer,23 Mar 2025,v SRH,Hyderabad,2,8,1*,1,1,0,0,100,not out,1,4.0,0,76,0,19
+669855,Jofra Archer,26 Mar 2025,v KKR,Guwahati,1,9,16,9,7,0,2,228.57,bowled,2,2.3,0,33,0,13.2
+669855,Jofra Archer,30 Mar 2025,v CSK,Guwahati,1,8,0,4,2,0,0,0,caught,2,3.0,1,13,1,4.33
+669855,Jofra Archer,5 Apr 2025,v Punjab Kings,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+669855,Jofra Archer,9 Apr 2025,v GT,Ahmedabad,2,8,4,11,4,0,0,100,caught,1,4.0,0,30,1,7.5
+669855,Jofra Archer,13 Apr 2025,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+669855,Jofra Archer,16 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+669855,Jofra Archer,19 Apr 2025,v LSG,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+669855,Jofra Archer,24 Apr 2025,v RCB,Bengaluru,2,8,0,1,1,0,0,0,caught,1,4.0,0,33,1,8.25
+669855,Jofra Archer,28 Apr 2025,v GT,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+669855,Jofra Archer,1 May 2025,v MI,Jaipur,2,8,30,42,27,2,2,111.11,caught,1,4.0,0,42,0,10.5
+669855,Jofra Archer,4 May 2025,v KKR,Eden Gardens,2,9,12,14,8,1,0,150,run out,1,4.0,0,30,1,7.5
+669855,Jofra Archer,10 Aug 2025,v Phoenix,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4.8
+669855,Jofra Archer,13 Aug 2025,v N S-Chargers,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,4.5
+669855,Jofra Archer,16 Aug 2025,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,6
+669855,Jofra Archer,18 Aug 2025,v Invincibles,Southampton,1,10,5,5,3,1,0,166.66,caught,2,4.0,0,19,0,5.7
+669855,Jofra Archer,20 Aug 2025,v Fire,Cardiff,1,10,1*,2,1,0,0,100,not out,2,4.0,0,20,3,6
+669855,Jofra Archer,23 Aug 2025,v Spirit,Lord's,2,10,1*,7,5,0,0,20,not out,1,4.0,0,42,1,12.6
+669855,Jofra Archer,12 Sep 2025,v South Africa,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,3,8.33
+669855,Jofra Archer,30 Jan 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+669855,Jofra Archer,1 Feb 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+669855,Jofra Archer,8 Feb 2026,v Nepal,Wankhede,1,8,1,8,3,0,0,33.33,run out,2,4.0,0,42,1,10.5
+669855,Jofra Archer,11 Feb 2026,v West Indies,Wankhede,2,9,6,7,4,1,0,150,run out,1,4.0,0,48,1,12
+669855,Jofra Archer,14 Feb 2026,v Scotland,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+669855,Jofra Archer,16 Feb 2026,v Italy,Eden Gardens,1,9,1*,3,1,0,0,100,not out,2,4.0,0,35,2,8.75
+669855,Jofra Archer,22 Feb 2026,v Sri Lanka,Pallekele,1,10,0,1,1,0,0,0,caught,2,3.0,0,20,2,6.66
+669855,Jofra Archer,24 Feb 2026,v Pakistan,Pallekele,2,10,5*,3,2,1,0,250,not out,1,4.0,0,32,2,8
+669855,Jofra Archer,27 Feb 2026,v New Zealand,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,1,24,0,8
+669855,Jofra Archer,5 Mar 2026,v India,Wankhede,2,9,19*,4,4,0,3,475,not out,1,4.0,0,61,1,15.25

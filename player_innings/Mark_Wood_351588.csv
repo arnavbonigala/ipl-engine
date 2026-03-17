@@ -1,0 +1,64 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+351588,Mark Wood,28 Jun 2013,v Lancashire,Chester-le-Street,2,9,2,6,3,0,0,66.66,bowled,1,4.0,0,40,0,10
+351588,Mark Wood,30 Jun 2013,v Yorkshire,Scarborough,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+351588,Mark Wood,5 Jul 2013,v Leics,Leicester,2,10,1,4,1,0,0,100,run out,1,2.0,0,20,0,10
+351588,Mark Wood,6 Jul 2013,v Notts,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+351588,Mark Wood,12 Jul 2013,v Yorkshire,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,0,16
+351588,Mark Wood,14 Jul 2013,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+351588,Mark Wood,16 May 2014,v Worcs,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+351588,Mark Wood,30 May 2014,v Notts,Nottingham,1,10,9*,16,11,0,0,81.81,not out,2,2.0,0,9,1,4.5
+351588,Mark Wood,18 Jul 2014,v Leics,Leicester,1,9,12,13,11,1,0,109.09,bowled,2,4.0,0,38,1,9.5
+351588,Mark Wood,23 Jun 2015,v New Zealand,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,3,8.66
+351588,Mark Wood,10 Jul 2016,v Leics,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+351588,Mark Wood,15 Jul 2016,v Northants,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+351588,Mark Wood,10 Aug 2016,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+351588,Mark Wood,20 Aug 2016,v Yorkshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+351588,Mark Wood,20 Aug 2016,v Northants,Birmingham,1,10,5*,5,3,1,0,166.66,not out,2,4.0,0,25,1,6.25
+351588,Mark Wood,21 Jun 2017,v South Africa,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+351588,Mark Wood,7 Feb 2018,v Australia,Hobart,1,11,5*,11,9,0,0,55.55,not out,2,3.3,0,26,1,7.42
+351588,Mark Wood,13 Feb 2018,v New Zealand,Wellington,2,11,5*,5,3,1,0,166.66,not out,1,4.0,0,51,2,12.75
+351588,Mark Wood,7 Apr 2018,v MI,Wankhede,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,49,0,12.25
+351588,Mark Wood,10 Aug 2018,v Northants,Northampton,1,8,17*,9,9,2,0,188.88,not out,2,4.0,0,29,1,7.25
+351588,Mark Wood,12 Aug 2018,v Lancashire,Chester-le-Street,2,8,12,19,19,0,0,63.15,bowled,1,4.0,0,22,2,5.5
+351588,Mark Wood,24 Aug 2018,v Sussex,Chester-le-Street,1,8,4,9,10,0,0,40,bowled,2,4.0,0,25,2,6.25
+351588,Mark Wood,7 Dec 2018,v Pakistan A,Tolerance Oval,2,7,27*,-,18,4,0,150,not out,1,4.0,0,24,1,6
+351588,Mark Wood,8 Dec 2018,v Pakistan A,Tolerance Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+351588,Mark Wood,10 Mar 2019,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,9,3,3
+351588,Mark Wood,12 Feb 2020,v South Africa,East London,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,1,10.66
+351588,Mark Wood,14 Feb 2020,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+351588,Mark Wood,16 Feb 2020,v South Africa,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,47,1,15.66
+351588,Mark Wood,27 Aug 2020,v Lancashire,Chester-le-Street,2,9,6*,6,3,1,0,200,not out,1,4.0,0,24,1,6
+351588,Mark Wood,4 Sep 2020,v Australia,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+351588,Mark Wood,6 Sep 2020,v Australia,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+351588,Mark Wood,8 Sep 2020,v Australia,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+351588,Mark Wood,12 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+351588,Mark Wood,16 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+351588,Mark Wood,18 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,1,6.25
+351588,Mark Wood,20 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+351588,Mark Wood,23 Jun 2021,v Sri Lanka,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+351588,Mark Wood,24 Jun 2021,v Sri Lanka,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+351588,Mark Wood,6 Nov 2021,v South Africa,Sharjah,2,11,1*,2,1,0,0,100,not out,1,4.0,0,47,0,11.75
+351588,Mark Wood,10 Nov 2021,v New Zealand,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+351588,Mark Wood,23 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+351588,Mark Wood,28 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+351588,Mark Wood,9 Oct 2022,v Australia,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+351588,Mark Wood,14 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+351588,Mark Wood,22 Oct 2022,v Afghanistan,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+351588,Mark Wood,26 Oct 2022,v Ireland,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+351588,Mark Wood,1 Nov 2022,v New Zealand,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+351588,Mark Wood,5 Nov 2022,v Sri Lanka,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,3,8.66
+351588,Mark Wood,9 Mar 2023,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,1,12
+351588,Mark Wood,1 Apr 2023,v DC,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,5,3.5
+351588,Mark Wood,3 Apr 2023,v CSK,Chennai,2,9,10*,2,3,1,1,333.33,not out,1,4.0,0,49,3,12.25
+351588,Mark Wood,10 Apr 2023,v RCB,Bengaluru,2,9,1,6,2,0,0,50,bowled,1,4.0,1,32,1,8
+351588,Mark Wood,15 Apr 2023,v Punjab Kings,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+351588,Mark Wood,30 May 2024,v Pakistan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+351588,Mark Wood,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+351588,Mark Wood,8 Jun 2024,v Australia,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+351588,Mark Wood,13 Jun 2024,v Oman,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,3,4
+351588,Mark Wood,19 Jun 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+351588,Mark Wood,21 Jun 2024,v South Africa,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+351588,Mark Wood,22 Jan 2025,v India,Eden Gardens,1,11,1,2,1,0,0,100,run out,2,2.5,0,25,0,8.82
+351588,Mark Wood,25 Jan 2025,v India,Chennai,1,11,5*,4,3,1,0,166.66,not out,2,3.0,0,28,1,9.33
+351588,Mark Wood,28 Jan 2025,v India,Rajkot,1,11,10*,13,10,0,0,100,not out,2,3.0,0,29,1,9.66
+351588,Mark Wood,2 Feb 2025,v India,Wankhede,2,11,0,2,1,0,0,0,caught,1,4.0,0,32,2,8

@@ -1,0 +1,42 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1175428,Anshul Kamboj,22 Oct 2022,v Karnataka,Mohali,1,10,1,-,2,0,0,50,caught,2,3.0,0,21,1,7
+1175428,Anshul Kamboj,30 Oct 2022,v Punjab,Eden Gardens,2,10,8*,11,11,1,0,72.72,not out,1,4.0,0,25,3,6.25
+1175428,Anshul Kamboj,16 Oct 2023,v Mumbai,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+1175428,Anshul Kamboj,17 Oct 2023,v Chhattisgarh,Jaipur,1,7,1*,-,1,0,0,100,not out,2,2.0,0,20,1,10
+1175428,Anshul Kamboj,19 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,3,4
+1175428,Anshul Kamboj,21 Oct 2023,v Baroda,Jaipur,1,8,5*,-,2,1,0,250,not out,2,3.0,0,18,1,6
+1175428,Anshul Kamboj,23 Oct 2023,v Mizoram,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,1,4
+1175428,Anshul Kamboj,25 Oct 2023,v Meghalaya,Jaipur,2,-,sub,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+1175428,Anshul Kamboj,27 Oct 2023,v Hyderabad,Jaipur,1,10,7*,-,8,0,0,87.5,not out,2,1.0,0,12,0,12
+1175428,Anshul Kamboj,6 May 2024,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+1175428,Anshul Kamboj,11 May 2024,v KKR,Eden Gardens,2,9,2*,4,2,0,0,100,not out,1,3.0,0,24,1,8
+1175428,Anshul Kamboj,17 May 2024,v LSG,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,48,0,16
+1175428,Anshul Kamboj,19 Oct 2024,v Shaheens,Al Amerat,1,8,0,-,1,0,0,0,caught,2,4.0,0,33,3,8.25
+1175428,Anshul Kamboj,21 Oct 2024,v U.A.E.,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+1175428,Anshul Kamboj,25 Oct 2024,v AFG A,Al Amerat,2,8,2*,-,3,0,0,66.66,not out,1,3.0,0,40,0,13.33
+1175428,Anshul Kamboj,23 Nov 2024,v Manipur,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,1,5
+1175428,Anshul Kamboj,25 Nov 2024,v Arunachal,Mumbai,1,-,DNB,-,-,-,-,-,-,2,2.0,1,8,1,4
+1175428,Anshul Kamboj,27 Nov 2024,v Delhi,Wankhede,1,9,17,-,11,2,1,154.54,caught,2,3.2,0,30,1,9
+1175428,Anshul Kamboj,29 Nov 2024,v UP,Mumbai,1,9,8*,-,5,1,0,160,not out,2,3.0,0,16,1,5.33
+1175428,Anshul Kamboj,1 Dec 2024,v Jharkhand,Mumbai,1,9,1*,-,1,0,0,100,not out,2,4.0,0,37,0,9.25
+1175428,Anshul Kamboj,3 Dec 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,3,6.5
+1175428,Anshul Kamboj,5 Dec 2024,v J & K,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.3,0,15,2,6
+1175428,Anshul Kamboj,11 Apr 2025,v KKR,Chennai,1,11,3*,20,3,0,0,100,not out,2,2.0,0,19,1,9.5
+1175428,Anshul Kamboj,14 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+1175428,Anshul Kamboj,25 Apr 2025,v SRH,Chennai,1,9,2,4,4,0,0,50,caught,2,3.0,0,16,1,5.33
+1175428,Anshul Kamboj,30 Apr 2025,v Punjab Kings,Chennai,1,9,0,1,1,0,0,0,bowled,2,2.0,0,20,0,10
+1175428,Anshul Kamboj,3 May 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+1175428,Anshul Kamboj,7 May 2025,v KKR,Eden Gardens,2,10,4*,4,1,1,0,400,not out,1,3.0,0,38,1,12.66
+1175428,Anshul Kamboj,20 May 2025,v RR,Delhi,1,9,5*,4,3,1,0,166.66,not out,2,3.0,0,21,1,7
+1175428,Anshul Kamboj,25 May 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.3,0,13,3,5.2
+1175428,Anshul Kamboj,26 Nov 2025,v Puducherry,Hyderabad,2,8,1*,-,1,0,0,100,not out,1,4.0,0,31,1,7.75
+1175428,Anshul Kamboj,28 Nov 2025,v Punjab,Hyderabad,1,9,0*,-,0,0,0,-,not out,2,4.0,0,26,2,6.5
+1175428,Anshul Kamboj,30 Nov 2025,v Gujarat,Hyderabad,1,8,5,-,3,1,0,166.66,bowled,2,4.0,0,25,2,6.25
+1175428,Anshul Kamboj,2 Dec 2025,v Services,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1175428,Anshul Kamboj,4 Dec 2025,v Himachal,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,3,11
+1175428,Anshul Kamboj,6 Dec 2025,v Baroda,Hyderabad,1,9,1*,-,1,0,0,100,not out,2,4.0,0,23,4,5.75
+1175428,Anshul Kamboj,8 Dec 2025,v Bengal,Hyderabad,1,9,5*,-,4,0,0,125,not out,2,4.0,0,42,2,10.5
+1175428,Anshul Kamboj,12 Dec 2025,v Rajasthan,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1175428,Anshul Kamboj,14 Dec 2025,v Mumbai,Ambi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,63,1,15.75
+1175428,Anshul Kamboj,16 Dec 2025,v Hyderabad,Pune,1,9,6*,-,1,0,1,600,not out,2,3.1,0,16,2,5.05
+1175428,Anshul Kamboj,18 Dec 2025,v Jharkhand,Pune,2,9,11,-,7,0,1,157.14,caught,1,4.0,0,51,1,12.75

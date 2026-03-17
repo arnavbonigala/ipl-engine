@@ -1,0 +1,142 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+545467,Junior Dala,17 Dec 2011,v Free State,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+545467,Junior Dala,29 Dec 2011,v Easterns,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+545467,Junior Dala,20 Jan 2013,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+545467,Junior Dala,17 Feb 2013,v Border,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,4,4.5
+545467,Junior Dala,7 Apr 2013,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+545467,Junior Dala,26 Jan 2014,v Griq West,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.3,0,19,3,5.42
+545467,Junior Dala,9 Feb 2014,v North West,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+545467,Junior Dala,16 Feb 2014,v Free State,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+545467,Junior Dala,21 Nov 2014,v Lions,Benoni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+545467,Junior Dala,23 Nov 2014,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+545467,Junior Dala,26 Nov 2014,v Dolphins,Benoni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+545467,Junior Dala,28 Nov 2014,v Lions,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+545467,Junior Dala,30 Nov 2014,v Warriors,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+545467,Junior Dala,7 Dec 2014,v W Province,Cape Town,2,10,18,11,8,2,1,225,bowled,1,4.0,0,42,0,10.5
+545467,Junior Dala,14 Dec 2014,v Border,East London,2,6,1,3,3,0,0,33.33,caught,1,4.0,0,26,0,6.5
+545467,Junior Dala,11 Jan 2015,v Northerns,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+545467,Junior Dala,6 Sep 2015,v Northerns,Benoni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+545467,Junior Dala,1 Nov 2015,v Dolphins,Centurion,2,10,4*,1,1,1,0,400,not out,1,2.0,0,22,1,11
+545467,Junior Dala,6 Nov 2015,v Lions,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,2.3,0,15,1,6
+545467,Junior Dala,8 Nov 2015,v Cape Cobras,Centurion,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+545467,Junior Dala,13 Nov 2015,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,1,7
+545467,Junior Dala,15 Nov 2015,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+545467,Junior Dala,18 Nov 2015,v Dolphins,Durban,1,10,0,1,1,0,0,0,caught,2,2.4,0,13,2,4.87
+545467,Junior Dala,20 Nov 2015,v Cape Cobras,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+545467,Junior Dala,28 Nov 2015,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+545467,Junior Dala,4 Dec 2015,v Lions,Benoni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+545467,Junior Dala,12 Dec 2015,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+545467,Junior Dala,9 Sep 2016,v Border,East London,1,-,DNB,-,-,-,-,-,-,2,1.1,0,21,0,18
+545467,Junior Dala,16 Nov 2016,v Cape Cobras,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+545467,Junior Dala,18 Nov 2016,v Knights,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,57,0,14.25
+545467,Junior Dala,20 Nov 2016,v Dolphins,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+545467,Junior Dala,25 Nov 2016,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+545467,Junior Dala,27 Nov 2016,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+545467,Junior Dala,30 Nov 2016,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,2.2,0,25,1,10.71
+545467,Junior Dala,2 Dec 2016,v Warriors,Centurion,1,10,1,6,1,0,0,100,run out,2,2.5,0,34,1,12
+545467,Junior Dala,7 Dec 2016,v Lions,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+545467,Junior Dala,11 Dec 2016,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,1,14
+545467,Junior Dala,16 Dec 2016,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+545467,Junior Dala,12 Nov 2017,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+545467,Junior Dala,15 Nov 2017,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+545467,Junior Dala,17 Nov 2017,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,1.0,0,17,0,17
+545467,Junior Dala,19 Nov 2017,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+545467,Junior Dala,24 Nov 2017,v Dolphins,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,1 Dec 2017,v Warriors,Benoni,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+545467,Junior Dala,3 Dec 2017,v Knights,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,6
+545467,Junior Dala,8 Dec 2017,v Cape Cobras,Cape Town,1,9,4,6,4,1,0,100,caught,2,3.0,0,15,2,5
+545467,Junior Dala,10 Dec 2017,v Dolphins,Durban,2,9,4,11,6,0,0,66.66,caught,1,3.0,0,23,2,7.66
+545467,Junior Dala,13 Dec 2017,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.1,0,18,2,5.68
+545467,Junior Dala,16 Dec 2017,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+545467,Junior Dala,18 Feb 2018,v India,Johannesburg,2,10,2*,11,3,0,0,66.66,not out,1,4.0,0,47,2,11.75
+545467,Junior Dala,21 Feb 2018,v India,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,2,7
+545467,Junior Dala,24 Feb 2018,v India,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+545467,Junior Dala,12 May 2018,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+545467,Junior Dala,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,9,12*,-,17,1,0,70.58,not out,2,4.0,0,22,2,5.5
+545467,Junior Dala,9 Oct 2018,v Zimbabwe,East London,1,8,0*,5,1,0,0,0,not out,2,3.0,0,25,2,8.33
+545467,Junior Dala,17 Nov 2018,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+545467,Junior Dala,21 Nov 2018,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+545467,Junior Dala,23 Nov 2018,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+545467,Junior Dala,25 Nov 2018,v Spartans,Centurion,1,11,4*,2,2,1,0,200,not out,2,2.0,0,18,1,9
+545467,Junior Dala,30 Nov 2018,v Paarl Rocks,Gqeberha,1,10,0,3,0,0,0,-,run out,2,2.0,0,11,1,5.5
+545467,Junior Dala,2 Dec 2018,v Jozi Stars,Gqeberha,2,10,7,5,5,1,0,140,bowled,1,3.0,0,30,0,10
+545467,Junior Dala,5 Dec 2018,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,12 Dec 2018,v Paarl Rocks,Paarl,1,10,0*,1,0,0,0,-,not out,2,3.0,0,32,0,10.66
+545467,Junior Dala,1 Feb 2019,v Pakistan,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+545467,Junior Dala,3 Feb 2019,v Pakistan,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+545467,Junior Dala,6 Feb 2019,v Pakistan,Centurion,2,9,5,12,7,0,0,71.42,caught,1,2.0,0,27,0,13.5
+545467,Junior Dala,24 Mar 2019,v Sri Lanka,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,2,9.66
+545467,Junior Dala,5 Apr 2019,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+545467,Junior Dala,10 Apr 2019,v Cape Cobras,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+545467,Junior Dala,14 Apr 2019,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,18 Apr 2019,v Lions,Johannesburg,2,10,12,7,7,1,1,171.42,caught,1,4.0,0,33,3,8.25
+545467,Junior Dala,20 Apr 2019,v Dolphins,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+545467,Junior Dala,24 Apr 2019,v Cape Cobras,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,3,10.66
+545467,Junior Dala,26 Apr 2019,v Knights,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+545467,Junior Dala,28 Apr 2019,v Lions,Centurion,1,9,1*,4,1,0,0,100,not out,2,4.0,0,22,2,5.5
+545467,Junior Dala,10 Nov 2019,v Jozi Stars,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+545467,Junior Dala,13 Nov 2019,v Spartans,Centurion,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,7,1,7
+545467,Junior Dala,16 Nov 2019,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+545467,Junior Dala,20 Nov 2019,v Blitz,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,2,13
+545467,Junior Dala,23 Nov 2019,v Durban Heat,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+545467,Junior Dala,27 Nov 2019,v Paarl Rocks,Gqeberha,2,10,9,12,6,1,0,150,caught,1,3.0,0,30,1,10
+545467,Junior Dala,30 Nov 2019,v Durban Heat,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,1,15.33
+545467,Junior Dala,3 Dec 2019,v Spartans,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+545467,Junior Dala,11 Feb 2021,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,25,0,12.5
+545467,Junior Dala,21 Feb 2021,v Cape Cobras,Durban,1,8,8*,4,4,1,0,200,not out,2,1.0,0,6,1,6
+545467,Junior Dala,22 Feb 2021,v Lions,Durban,2,8,21,-,12,0,2,175,caught,1,2.0,0,28,0,14
+545467,Junior Dala,9 Feb 2022,v Boland,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+545467,Junior Dala,12 Feb 2022,v Knights,Gqeberha,1,8,27*,23,18,4,0,150,not out,2,4.0,1,24,1,6
+545467,Junior Dala,14 Feb 2022,v Dolphins,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+545467,Junior Dala,17 Feb 2022,v Lions,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+545467,Junior Dala,19 Feb 2022,v W Province,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+545467,Junior Dala,22 Feb 2022,v North West,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+545467,Junior Dala,25 Feb 2022,v Dolphins,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+545467,Junior Dala,27 Feb 2022,v Boland,Gqeberha,2,8,8,-,14,0,0,57.14,caught,1,3.0,0,27,0,9
+545467,Junior Dala,7 May 2022,v Zimbabwe XI,Harare,1,9,2*,4,2,0,0,100,not out,2,3.0,0,12,3,4
+545467,Junior Dala,8 May 2022,v Zimbabwe XI,Harare,2,10,1*,4,3,0,0,33.33,not out,1,4.0,0,27,1,6.75
+545467,Junior Dala,10 May 2022,v Zimbabwe XI,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+545467,Junior Dala,17 Oct 2022,v Dolphins,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,1,8
+545467,Junior Dala,19 Oct 2022,v Lions,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+545467,Junior Dala,21 Oct 2022,v W Province,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+545467,Junior Dala,22 Oct 2022,v North West,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+545467,Junior Dala,25 Oct 2022,v Boland,Potchefstroom,2,9,2*,2,2,0,0,100,not out,1,4.0,0,20,3,5
+545467,Junior Dala,28 Oct 2022,v Warriors,Potchefstroom,2,10,14*,29,17,1,0,82.35,not out,1,4.0,0,30,1,7.5
+545467,Junior Dala,31 Oct 2022,v Knights,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+545467,Junior Dala,2 Nov 2022,v Knights,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+545467,Junior Dala,5 Nov 2022,v Dolphins,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+545467,Junior Dala,5 Feb 2023,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+545467,Junior Dala,18 Jan 2024,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+545467,Junior Dala,30 Jan 2024,v Capitals,Durban,1,9,0,1,2,0,0,0,caught,2,4.0,0,26,5,6.5
+545467,Junior Dala,6 Feb 2024,v Sunrisers,Cape Town,2,9,3,10,6,0,0,50,caught,1,4.0,0,35,2,8.75
+545467,Junior Dala,8 Feb 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.4,0,38,4,10.36
+545467,Junior Dala,10 Feb 2024,v Sunrisers,Cape Town,2,9,15,15,9,1,1,166.66,caught,1,4.0,0,48,0,12
+545467,Junior Dala,8 Mar 2024,v North West,Centurion,1,9,0*,1,1,0,0,0,not out,2,4.0,0,30,3,7.5
+545467,Junior Dala,10 Mar 2024,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+545467,Junior Dala,13 Mar 2024,v Warriors,Centurion,2,9,11*,8,6,2,0,183.33,not out,1,4.0,0,39,1,9.75
+545467,Junior Dala,15 Mar 2024,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+545467,Junior Dala,23 Mar 2024,v W Province,Johannesburg,1,9,2*,4,2,0,0,100,not out,2,2.0,0,20,0,10
+545467,Junior Dala,1 Apr 2024,v North West,Potchefstroom (Uni),1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,12 Apr 2024,v Boland,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,2,10.66
+545467,Junior Dala,14 Apr 2024,v KZN-Inland,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+545467,Junior Dala,19 Apr 2024,v Lions,Centurion,2,9,8,4,5,2,0,160,caught,1,2.0,0,15,0,7.5
+545467,Junior Dala,21 Apr 2024,v W Province,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+545467,Junior Dala,24 Apr 2024,v Lions,Johannesburg,1,9,7,5,5,1,0,140,caught,2,1.4,0,15,0,9
+545467,Junior Dala,27 Sep 2024,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,0,4.75
+545467,Junior Dala,4 Oct 2024,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+545467,Junior Dala,6 Oct 2024,v W Province,Centurion,1,10,1*,1,1,0,0,100,not out,2,3.0,0,24,1,8
+545467,Junior Dala,15 Oct 2024,v North West,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,19 Oct 2024,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+545467,Junior Dala,22 Oct 2024,v Lions,Johannesburg,1,10,1*,7,1,0,0,100,not out,2,2.0,0,17,0,8.5
+545467,Junior Dala,25 Oct 2024,v W Province,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+545467,Junior Dala,27 Oct 2024,v Lions,Johannesburg,1,10,13,15,16,0,0,81.25,caught,2,2.0,0,23,0,11.5
+545467,Junior Dala,12 Jan 2025,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+545467,Junior Dala,19 Jan 2025,v Sunrisers,Gqeberha,1,9,5*,27,9,0,0,55.55,not out,2,2.2,0,17,0,7.28
+545467,Junior Dala,21 Jan 2025,v MI Cape Town,Durban,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,15,1,7.5
+545467,Junior Dala,23 Jan 2025,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+545467,Junior Dala,25 Jan 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,1,15
+545467,Junior Dala,29 Oct 2025,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,2,10.66
+545467,Junior Dala,1 Nov 2025,v Warriors,Centurion,2,10,3,5,3,0,0,100,run out,1,4.0,0,49,1,12.25
+545467,Junior Dala,6 Nov 2025,v Boland,Paarl,1,9,0*,5,1,0,0,0,not out,2,2.0,0,17,0,8.5
+545467,Junior Dala,9 Nov 2025,v W Province,Cape Town,2,10,9,9,7,2,0,128.57,stumped,1,2.0,0,30,0,15
+545467,Junior Dala,21 Nov 2025,v Dolphins,Centurion,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-

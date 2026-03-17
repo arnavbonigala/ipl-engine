@@ -1,0 +1,134 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+959767,Rachin Ravindra,27 Jan 2019,v Otago,Dunedin,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+959767,Rachin Ravindra,1 Feb 2019,v Central D,Wellington,2,6,0,3,1,0,0,0,caught,1,4.0,0,19,1,4.75
+959767,Rachin Ravindra,9 Feb 2019,v Canterbury,Christchurch,1,7,6,-,9,0,0,66.66,caught,2,4.0,0,41,1,10.25
+959767,Rachin Ravindra,15 Dec 2019,v Canterbury,Christchurch,2,3,38,38,27,4,1,140.74,bowled,1,3.0,0,14,1,4.66
+959767,Rachin Ravindra,18 Dec 2019,v Central D,Wellington,2,3,9,14,7,1,0,128.57,caught,1,1.0,0,10,0,10
+959767,Rachin Ravindra,21 Dec 2019,v Otago,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+959767,Rachin Ravindra,27 Dec 2019,v Central D,New Plymouth,1,3,16,-,11,3,0,145.45,caught,2,4.0,0,28,1,7
+959767,Rachin Ravindra,30 Dec 2019,v Auckland,Auckland,2,3,10,-,8,2,0,125,caught,1,4.0,0,23,1,5.75
+959767,Rachin Ravindra,1 Jan 2020,v Northern Dis,Mount Maunganui,1,3,19,29,15,2,0,126.66,caught,2,4.0,0,40,1,10
+959767,Rachin Ravindra,3 Jan 2020,v Northern Dis,Wellington,1,3,39,32,20,3,2,195,caught,2,3.0,0,24,1,8
+959767,Rachin Ravindra,6 Jan 2020,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+959767,Rachin Ravindra,9 Jan 2020,v Canterbury,Wellington,2,3,11,18,10,2,0,110,caught,1,4.0,0,30,2,7.5
+959767,Rachin Ravindra,12 Jan 2020,v Auckland,Wellington,1,3,30,26,20,1,2,150,lbw,2,3.0,0,29,0,9.66
+959767,Rachin Ravindra,19 Jan 2020,v Auckland,Wellington,1,3,14,13,11,1,1,127.27,caught,2,4.0,0,23,1,5.75
+959767,Rachin Ravindra,24 Dec 2020,v Auckland,Wellington,2,2,3,10,6,0,0,50,bowled,1,3.0,0,36,0,12
+959767,Rachin Ravindra,27 Dec 2020,v Central D,Napier,1,3,4,13,6,0,0,66.66,run out,2,4.0,0,22,2,5.5
+959767,Rachin Ravindra,1 Jan 2021,v Northern Dis,Mount Maunganui,2,3,40*,48,31,3,2,129.03,not out,1,2.0,0,16,1,8
+959767,Rachin Ravindra,9 Jan 2021,v Northern Dis,Wellington,1,7,6,11,4,1,0,150,run out,2,4.0,0,22,1,5.5
+959767,Rachin Ravindra,14 Jan 2021,v Otago,Dunedin,2,3,13,-,6,1,1,216.66,caught,1,2.0,0,21,0,10.5
+959767,Rachin Ravindra,16 Jan 2021,v Canterbury,Christchurch,1,3,4,11,3,1,0,133.33,bowled,2,3.0,0,29,1,9.66
+959767,Rachin Ravindra,24 Jan 2021,v Otago,Wellington,2,3,29,44,20,2,2,145,run out,1,3.0,0,22,1,7.33
+959767,Rachin Ravindra,25 Jan 2021,v Canterbury,Wellington,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+959767,Rachin Ravindra,1 Sep 2021,v Bangladesh,Mirpur,1,2,0,1,1,0,0,0,caught,2,4.0,0,21,1,5.25
+959767,Rachin Ravindra,3 Sep 2021,v Bangladesh,Mirpur,2,2,10,8,9,0,1,111.11,bowled,1,4.0,0,22,3,5.5
+959767,Rachin Ravindra,5 Sep 2021,v Bangladesh,Mirpur,1,2,20,41,20,2,0,100,bowled,2,4.0,0,13,1,3.25
+959767,Rachin Ravindra,8 Sep 2021,v Bangladesh,Mirpur,1,1,0,3,5,0,0,0,caught,2,4.0,0,8,0,2
+959767,Rachin Ravindra,10 Sep 2021,v Bangladesh,Mirpur,1,2,17,27,12,3,0,141.66,caught,2,3.0,0,19,1,6.33
+959767,Rachin Ravindra,17 Nov 2021,v India,Jaipur,1,6,7,19,8,1,0,87.5,bowled,2,DNB,-,-,-,-
+959767,Rachin Ravindra,16 Jan 2022,v Northern Dis,Whangarei,1,5,14,23,21,0,0,66.66,bowled,2,4.0,0,16,2,4
+959767,Rachin Ravindra,20 Jan 2022,v Auckland,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+959767,Rachin Ravindra,24 Jan 2022,v Northern Dis,Wellington,1,6,7,19,11,0,0,63.63,caught,2,2.0,0,24,0,12
+959767,Rachin Ravindra,27 Jan 2022,v Canterbury,Dunedin,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+959767,Rachin Ravindra,24 Dec 2022,v Otago,Wellington,1,3,67,-,45,3,3,148.88,run out,2,3.0,0,21,0,7
+959767,Rachin Ravindra,27 Dec 2022,v Central D,Palmerston North,1,3,16,24,12,0,1,133.33,caught,2,4.0,0,42,3,10.5
+959767,Rachin Ravindra,1 Jan 2023,v Canterbury,Christchurch,2,3,19*,-,16,2,0,118.75,not out,1,4.0,0,23,2,5.75
+959767,Rachin Ravindra,4 Jan 2023,v Northern Dis,Wellington,1,3,2,-,6,0,0,33.33,caught,2,4.0,0,27,0,6.75
+959767,Rachin Ravindra,15 Jan 2023,v Otago,Dunedin,1,3,10,10,7,2,0,142.85,caught,2,4.0,0,19,1,4.75
+959767,Rachin Ravindra,20 Jan 2023,v Auckland,Auckland,1,3,18,43,16,1,1,112.5,run out,2,1.0,0,15,0,15
+959767,Rachin Ravindra,23 Jan 2023,v Canterbury,Wellington,1,4,6,8,6,1,0,100,caught,2,2.0,0,15,1,7.5
+959767,Rachin Ravindra,5 Feb 2023,v Auckland,Wellington,2,3,4,22,9,0,0,44.44,caught,1,1.0,0,8,0,8
+959767,Rachin Ravindra,2 Apr 2023,v Sri Lanka,Auckland,2,7,26,20,13,2,2,200,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,5 Apr 2023,v Sri Lanka,Dunedin,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+959767,Rachin Ravindra,8 Apr 2023,v Sri Lanka,Queenstown,2,7,2*,2,1,0,0,200,not out,1,2.0,0,27,0,13.5
+959767,Rachin Ravindra,14 Apr 2023,v Pakistan,Lahore,2,7,2,13,5,0,0,40,bowled,1,1.0,0,9,0,9
+959767,Rachin Ravindra,15 Apr 2023,v Pakistan,Lahore,2,7,5,12,6,0,0,83.33,caught,1,4.0,0,22,1,5.5
+959767,Rachin Ravindra,17 Apr 2023,v Pakistan,Lahore,1,7,8*,7,6,1,0,133.33,not out,2,3.0,0,28,2,9.33
+959767,Rachin Ravindra,20 Apr 2023,v Pakistan,Rawalpindi,1,6,8,-,12,0,0,66.66,caught,-,TDNB,-,-,-,-
+959767,Rachin Ravindra,24 Apr 2023,v Pakistan,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+959767,Rachin Ravindra,17 Aug 2023,v U.A.E.,Dubai (DICS),1,8,21*,-,11,1,1,190.9,not out,2,1.0,0,8,0,8
+959767,Rachin Ravindra,19 Aug 2023,v U.A.E.,Dubai (DICS),1,8,2,-,4,0,0,50,lbw,2,DNB,-,-,-,-
+959767,Rachin Ravindra,20 Aug 2023,v U.A.E.,Dubai (DICS),1,7,0*,2,1,0,0,0,not out,2,DNB,-,-,-,-
+959767,Rachin Ravindra,5 Sep 2023,v England,Nottingham,2,6,17*,13,9,2,0,188.88,not out,1,2.0,0,17,1,8.5
+959767,Rachin Ravindra,15 Jan 2024,v Northern Dis,Wellington,1,2,3,11,4,0,0,75,run out,2,2.0,0,10,0,5
+959767,Rachin Ravindra,21 Jan 2024,v Pakistan,Christchurch,2,2,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,26 Jan 2024,v Canterbury,Hamilton,1,3,2,6,5,0,0,40,bowled,2,3.0,0,22,1,7.33
+959767,Rachin Ravindra,21 Feb 2024,v Australia,Wellington,1,3,68,47,35,2,6,194.28,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,22 Mar 2024,v RCB,Chennai,2,2,37,33,15,3,3,246.66,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,26 Mar 2024,v GT,Chennai,1,2,46,29,20,6,3,230,stumped,2,DNB,-,-,-,-
+959767,Rachin Ravindra,31 Mar 2024,v DC,Visakhapatnam,2,2,2,15,12,0,0,16.66,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,5 Apr 2024,v SRH,Hyderabad,1,1,12,14,9,2,0,133.33,caught,2,1.0,0,3,0,3
+959767,Rachin Ravindra,8 Apr 2024,v KKR,Chennai,2,1,15,18,8,3,0,187.5,caught,1,1.0,0,4,0,4
+959767,Rachin Ravindra,14 Apr 2024,v MI,Wankhede,1,2,21,37,16,2,1,131.25,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,19 Apr 2024,v LSG,Lucknow,1,2,0,5,1,0,0,0,bowled,2,DNB,-,-,-,-
+959767,Rachin Ravindra,10 May 2024,v GT,Ahmedabad,2,2,1,5,2,0,0,50,run out,1,DNB,-,-,-,-
+959767,Rachin Ravindra,12 May 2024,v RR,Chennai,2,1,27,17,18,1,2,150,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,18 May 2024,v RCB,Bengaluru,2,2,61,63,37,5,3,164.86,run out,1,DNB,-,-,-,-
+959767,Rachin Ravindra,12 Jun 2024,v West Indies,Tarouba,2,3,10,27,13,0,0,76.92,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,14 Jun 2024,v Uganda,Tarouba,2,3,1*,6,1,0,0,100,not out,1,3.0,1,9,2,3
+959767,Rachin Ravindra,17 Jun 2024,v P.N.G.,Tarouba,2,3,6,15,11,0,0,54.54,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,11 Jul 2024,v Seattle,Dallas,2,3,26,-,16,3,2,162.5,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,14 Jul 2024,v Los Angeles,Morrisville,2,3,11,-,16,1,0,68.75,caught,1,2.0,0,7,1,3.5
+959767,Rachin Ravindra,16 Jul 2024,v MI New York,Dallas,1,5,31,-,14,2,2,221.42,caught,2,1.0,0,5,0,5
+959767,Rachin Ravindra,19 Jul 2024,v Texas,Dallas,1,4,1,-,2,0,0,50,caught,2,3.5,0,16,4,4.17
+959767,Rachin Ravindra,22 Jul 2024,v SF,Dallas,1,4,16,-,6,0,2,266.66,run out,2,1.4,0,11,0,6.6
+959767,Rachin Ravindra,25 Jul 2024,v SF,Dallas,2,4,3,-,9,0,0,33.33,caught,1,2.4,1,11,4,4.12
+959767,Rachin Ravindra,28 Jul 2024,v SF,Dallas,1,4,11,-,9,1,0,122.22,bowled,2,4.0,0,23,3,5.75
+959767,Rachin Ravindra,28 Dec 2024,v Sri Lanka,Mount Maunganui,1,2,8,24,14,0,0,57.14,caught,2,1.0,0,14,0,14
+959767,Rachin Ravindra,30 Dec 2024,v Sri Lanka,Mount Maunganui,1,2,1,11,4,0,0,25,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,2 Jan 2025,v Sri Lanka,Nelson,2,2,69,61,39,5,4,176.92,bowled,1,DNB,-,-,-,-
+959767,Rachin Ravindra,27 Jan 2025,v Auckland,Auckland,2,2,48,42,37,2,3,129.72,caught,1,4.0,0,23,2,5.75
+959767,Rachin Ravindra,23 Mar 2025,v MI,Chennai,2,1,65*,91,45,2,4,144.44,not out,1,DNB,-,-,-,-
+959767,Rachin Ravindra,28 Mar 2025,v RCB,Chennai,2,1,41,61,31,5,0,132.25,bowled,1,DNB,-,-,-,-
+959767,Rachin Ravindra,30 Mar 2025,v RR,Guwahati,2,1,0,3,4,0,0,0,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,5 Apr 2025,v DC,Chennai,2,1,3,10,6,0,0,50,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,8 Apr 2025,v Punjab Kings,New Chandigarh,2,1,36,30,23,6,0,156.52,stumped,1,DNB,-,-,-,-
+959767,Rachin Ravindra,11 Apr 2025,v KKR,Chennai,1,1,4,20,9,0,0,44.44,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,14 Apr 2025,v LSG,Lucknow,2,2,37,37,22,5,0,168.18,lbw,1,DNB,-,-,-,-
+959767,Rachin Ravindra,20 Apr 2025,v MI,Wankhede,1,2,5,15,9,0,0,55.55,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,12 Jun 2025,v SF,Oakland,2,2,42,-,17,2,5,247.05,caught,1,2.0,0,36,0,18
+959767,Rachin Ravindra,14 Jun 2025,v Seattle,Oakland,2,2,44,-,18,4,4,244.44,lbw,1,DNB,-,-,-,-
+959767,Rachin Ravindra,17 Jun 2025,v Los Angeles,Oakland,1,2,8,-,4,2,0,200,bowled,2,DNB,-,-,-,-
+959767,Rachin Ravindra,21 Jun 2025,v MI New York,Dallas,2,2,10,-,6,2,0,166.66,bowled,1,DNB,-,-,-,-
+959767,Rachin Ravindra,22 Jun 2025,v Texas,Dallas,2,2,11,-,6,2,0,183.33,caught,1,3.0,0,30,1,10
+959767,Rachin Ravindra,26 Jun 2025,v Los Angeles,Dallas,2,2,18,-,12,2,0,150,caught,1,2.0,0,19,0,9.5
+959767,Rachin Ravindra,28 Jun 2025,v SF,Dallas,1,2,9,-,9,1,0,100,caught,2,2.0,0,27,1,13.5
+959767,Rachin Ravindra,2 Jul 2025,v Texas,Lauderhill,2,2,10,-,4,1,1,250,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,4 Jul 2025,v Seattle,Lauderhill,2,2,32,-,23,4,1,139.13,caught,1,1.0,1,0,1,0
+959767,Rachin Ravindra,6 Jul 2025,v MI New York,Lauderhill,2,2,9,-,13,0,0,69.23,caught,1,3.0,0,18,1,6
+959767,Rachin Ravindra,8 Jul 2025,v Texas,Dallas,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+959767,Rachin Ravindra,13 Jul 2025,v MI New York,Dallas,2,2,70,-,41,8,2,170.73,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,18 Jul 2025,v Zimbabwe,Harare,2,3,30,35,19,4,1,157.89,caught,1,3.0,0,10,1,3.33
+959767,Rachin Ravindra,22 Jul 2025,v South Africa,Harare,2,3,3,8,5,0,0,60,caught,1,1.0,0,14,0,14
+959767,Rachin Ravindra,24 Jul 2025,v Zimbabwe,Harare,1,3,63,52,39,7,2,161.53,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,26 Jul 2025,v South Africa,Harare,1,3,47,55,27,4,2,174.07,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,17 Aug 2025,v N S-Chargers,Manchester,1,4,31,25,14,6,0,221.42,bowled,2,2.0,0,13,2,7.8
+959767,Rachin Ravindra,19 Aug 2025,v Rockets,Nottingham,1,4,0,1,1,0,0,0,caught,2,4.0,1,28,1,8.4
+959767,Rachin Ravindra,24 Aug 2025,v Phoenix,Manchester,1,4,13,15,7,1,1,185.71,caught,2,1.0,0,4,0,4.8
+959767,Rachin Ravindra,26 Aug 2025,v N S-Chargers,Leeds,2,4,47*,35,23,5,2,204.34,not out,1,DNB,-,-,-,-
+959767,Rachin Ravindra,18 Oct 2025,v England,Christchurch,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+959767,Rachin Ravindra,20 Oct 2025,v England,Christchurch,2,3,8,2,3,2,0,266.66,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,23 Oct 2025,v England,Auckland,1,3,10*,9,8,0,1,125,not out,-,TDNB,-,-,-,-
+959767,Rachin Ravindra,5 Nov 2025,v West Indies,Auckland,2,3,21,41,19,2,0,110.52,caught,1,1.0,0,11,0,11
+959767,Rachin Ravindra,6 Nov 2025,v West Indies,Auckland,1,3,11,26,15,0,0,73.33,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,9 Nov 2025,v West Indies,Nelson,1,3,26,22,15,4,0,173.33,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,10 Nov 2025,v West Indies,Nelson,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+959767,Rachin Ravindra,13 Nov 2025,v West Indies,Dunedin,2,3,21,23,16,2,1,131.25,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,7 Jan 2026,v Central D,Wellington,2,3,1,9,4,0,0,25,caught,1,1.0,0,13,0,13
+959767,Rachin Ravindra,9 Jan 2026,v Otago,Wellington,1,3,26,36,19,3,1,136.84,caught,2,4.0,0,24,2,6
+959767,Rachin Ravindra,11 Jan 2026,v Northern Dis,Wellington,1,4,19,21,12,3,0,158.33,bowled,2,1.0,0,15,0,15
+959767,Rachin Ravindra,21 Jan 2026,v India,Nagpur,2,3,1,7,5,0,0,20,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,23 Jan 2026,v India,Raipur,1,3,44,51,26,2,4,169.23,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,25 Jan 2026,v India,Guwahati,1,3,4,6,5,1,0,80,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,28 Jan 2026,v India,Visakhapatnam,1,3,2,4,4,0,0,50,caught,2,DNB,-,-,-,-
+959767,Rachin Ravindra,31 Jan 2026,v India,Thiruvananthapuram,2,3,30,49,17,2,2,176.47,caught,1,DNB,-,-,-,-
+959767,Rachin Ravindra,8 Feb 2026,v Afghanistan,Chennai,2,3,0,1,1,0,0,0,bowled,1,1.0,0,14,1,14
+959767,Rachin Ravindra,10 Feb 2026,v U.A.E.,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+959767,Rachin Ravindra,14 Feb 2026,v South Africa,Ahmedabad,1,3,13,10,8,1,1,162.5,caught,2,1.0,0,9,1,9
+959767,Rachin Ravindra,17 Feb 2026,v Canada,Chennai,2,3,59*,59,39,4,3,151.28,not out,1,DNB,-,-,-,-
+959767,Rachin Ravindra,21 Feb 2026,v Pakistan,Colombo (RPS),-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+959767,Rachin Ravindra,25 Feb 2026,v Sri Lanka,Colombo (RPS),1,3,32,42,22,3,1,145.45,caught,2,4.0,0,27,4,6.75
+959767,Rachin Ravindra,27 Feb 2026,v England,Colombo (RPS),1,3,11,17,13,1,0,84.61,caught,2,4.0,0,19,3,4.75
+959767,Rachin Ravindra,4 Mar 2026,v South Africa,Eden Gardens,2,3,13*,19,11,2,0,118.18,not out,1,4.0,0,29,2,7.25
+959767,Rachin Ravindra,8 Mar 2026,v India,Ahmedabad,2,3,1,3,2,0,0,50,caught,1,2.0,0,32,1,16

@@ -1,0 +1,388 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+5334,Aaron Finch,2 Jan 2009,v South Aust,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+5334,Aaron Finch,4 Jan 2009,v Queensland,Geelong,1,6,8,10,9,0,0,88.88,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Jan 2009,v NSW,Sydney,2,4,43,50,46,2,2,93.47,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Jan 2009,v Queensland,Brisbane,2,4,0,1,2,0,0,0,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,24 Jan 2009,v NSW,Sydney,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+5334,Aaron Finch,2 Jan 2010,v NSW,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2010,v South Aust,Adelaide,2,7,48,35,38,6,1,126.31,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Jan 2010,v West Aust,W.A.C.A,2,7,14,7,6,1,1,233.33,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Jan 2010,v Tasmania,Melbourne,2,1,58*,64,39,6,2,148.71,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Jan 2010,v Queensland,Brisbane,2,1,22,14,15,4,0,146.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Jan 2010,v South Aust,Adelaide,1,1,47,44,34,6,0,138.23,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Apr 2010,v KKR,Eden Gardens,1,4,21,-,21,0,1,100,bowled,2,1.1,0,5,0,4.28
+5334,Aaron Finch,2 Jul 2010,v Sri Lanka A,Townsville,1,1,29,-,22,3,1,131.81,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Sep 2010,v Warriors,Gqeberha,2,3,25,26,20,0,2,125,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Sep 2010,v Central D,Centurion,2,2,93*,80,60,11,3,155,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Sep 2010,v CSK,Gqeberha,2,1,41,14,17,4,3,241.17,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,20 Sep 2010,v Wayamba,Centurion,2,1,38*,54,36,4,1,105.55,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,2 Jan 2011,v Queensland,Melbourne,1,1,58,39,38,8,2,152.63,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,8 Jan 2011,v South Aust,Adelaide,2,1,16,-,20,0,0,80,stumped,1,DNB,-,-,-,-
+5334,Aaron Finch,12 Jan 2011,v England,Adelaide,1,5,15*,21,14,1,0,107.14,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Jan 2011,v England,Melbourne,1,6,53*,35,33,4,2,160.6,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,18 Jan 2011,v West Aust,W.A.C.A,1,1,61,-,46,7,2,132.6,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Jan 2011,v NSW,Melbourne,2,1,53,-,37,3,2,143.24,stumped,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Jan 2011,v South Aust,Melbourne,1,1,34,-,26,3,1,130.76,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,10 Apr 2011,v MI,Delhi,1,4,8,-,12,1,0,66.66,caught,2,2.0,0,13,0,6.5
+5334,Aaron Finch,12 Apr 2011,v RR,Jaipur,1,3,11,-,14,1,1,78.57,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Apr 2011,v Warriors,DY Patil,2,7,25,-,12,1,2,208.33,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Apr 2011,v Chargers,Delhi,2,4,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Apr 2011,v Kings XI,Delhi,1,5,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,5 May 2011,v Chargers,Hyderabad,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Dec 2011,v Strikers,Adelaide,2,1,4,-,6,1,0,66.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,22 Dec 2011,v Scorchers,Melbourne (Docklands),1,1,49,40,40,5,1,122.5,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Dec 2011,v Thunder,Sydney,1,1,41,38,34,4,1,120.58,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,2 Jan 2012,v Sixers,Melbourne (Docklands),2,1,25,16,15,3,2,166.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2012,v Stars,Melbourne,2,1,1,3,3,0,0,33.33,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,12 Jan 2012,v Heat,Melbourne (Docklands),2,3,72,66,46,3,5,156.52,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Jan 2012,v Hurricanes,Hobart,1,1,67,-,45,5,3,148.88,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Feb 2012,v India,Melbourne,1,2,36,33,23,6,0,156.52,run out,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Apr 2012,v KKR,Eden Gardens,2,1,30,-,27,5,0,111.11,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Apr 2012,v RCB,Bengaluru,2,1,25,43,24,3,0,104.16,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Aug 2012,v Nagenahira,Colombo (RPS),1,1,14,-,15,2,0,93.33,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Aug 2012,v Uthura,Colombo (RPS),1,1,65,-,48,6,2,135.41,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Aug 2012,v K Warriors,Pallekele,2,1,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Aug 2012,v Uva Next,Pallekele,2,4,16,-,16,1,1,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Aug 2012,v Basnahira CD,Colombo (RPS),2,2,28,-,14,4,2,200,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Aug 2012,v Wayamba U,Colombo (RPS),2,1,14,-,9,1,1,155.55,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Dec 2012,v Stars,Melbourne (Docklands),2,1,111*,85,65,12,4,170.76,not out,1,2.0,0,14,1,7
+5334,Aaron Finch,14 Dec 2012,v Thunder,Sydney,2,2,31,-,33,2,0,93.93,caught,1,1.0,0,7,0,7
+5334,Aaron Finch,19 Dec 2012,v Hurricanes,Melbourne (Docklands),2,1,46*,56,40,5,0,115,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,22 Dec 2012,v Heat,Melbourne (Docklands),2,2,33,-,34,3,1,97.05,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Dec 2012,v Scorchers,W.A.C.A,2,1,8,-,8,1,0,100,caught,1,4.0,0,46,1,11.5
+5334,Aaron Finch,2 Jan 2013,v Strikers,Melbourne (Docklands),1,2,13,29,14,2,0,92.85,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,6 Jan 2013,v Stars,Melbourne,2,1,67*,86,47,6,2,142.55,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Jan 2013,v Heat,Melbourne (Docklands),2,1,23,40,23,2,1,100,caught,1,2.0,0,23,1,11.5
+5334,Aaron Finch,18 Jan 2013,v Wellington,Wellington,2,2,44,37,30,7,0,146.66,bowled,1,3.0,0,24,0,8
+5334,Aaron Finch,26 Jan 2013,v Sri Lanka,Sydney,1,2,1,8,3,0,0,33.33,caught,2,1.0,0,9,0,9
+5334,Aaron Finch,28 Jan 2013,v Sri Lanka,Melbourne,2,1,7,17,6,1,0,116.66,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Feb 2013,v West Indies,Brisbane,2,1,4,5,6,0,0,66.66,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Apr 2013,v RR,Pune,2,2,64,71,53,6,3,120.75,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Apr 2013,v MI,Wankhede,2,1,0,1,1,0,0,0,bowled,1,2.0,0,11,1,5.5
+5334,Aaron Finch,15 Apr 2013,v CSK,Chennai,1,2,67,48,45,10,2,148.88,stumped,2,1.0,0,9,0,9
+5334,Aaron Finch,17 Apr 2013,v SRH,Pune,2,2,16,21,13,3,0,123.07,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Apr 2013,v Kings XI,Mohali,1,2,64,66,42,8,2,152.38,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,23 Apr 2013,v RCB,Bengaluru,2,2,18,16,15,4,0,120,caught,1,1.0,0,29,0,29
+5334,Aaron Finch,28 Apr 2013,v Daredevils,Raipur,2,2,37,47,33,5,0,112.12,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,30 Apr 2013,v CSK,Pune,2,2,15,13,9,2,1,166.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,2 May 2013,v RCB,Pune,2,2,15,13,11,1,1,136.36,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,5 May 2013,v RR,Jaipur,1,2,45,44,32,7,0,140.62,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,9 May 2013,v KKR,Pune,2,2,5,14,5,1,0,100,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,11 May 2013,v MI,Pune,1,2,10,12,11,2,0,90.9,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,15 May 2013,v KKR,Ranchi,1,2,48,53,32,2,3,150,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,19 May 2013,v Daredevils,Pune,1,2,52,52,34,3,4,152.94,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,29 Aug 2013,v England,Southampton,1,2,156,70,63,11,14,247.61,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,31 Aug 2013,v England,Chester-le-Street,2,2,5,6,5,1,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Oct 2013,v India,Rajkot,1,1,89,71,52,14,1,171.15,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Dec 2013,v Stars,Melbourne,2,2,32,28,26,4,1,123.07,caught,1,2.0,0,20,1,10
+5334,Aaron Finch,26 Dec 2013,v Scorchers,W.A.C.A,2,1,15,-,12,3,0,125,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,30 Dec 2013,v Heat,Melbourne (Docklands),1,2,81,66,51,7,3,158.82,caught,2,1.0,0,13,0,13
+5334,Aaron Finch,1 Jan 2014,v Hurricanes,Hobart,1,2,50,-,31,6,2,161.29,caught,2,1.0,0,10,0,10
+5334,Aaron Finch,4 Jan 2014,v Stars,Melbourne (Docklands),1,2,84*,87,55,3,6,152.72,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Jan 2014,v Thunder,Melbourne (Docklands),1,1,0,1,2,0,0,0,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,29 Jan 2014,v England,Hobart,1,2,52,46,31,5,3,167.74,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,31 Jan 2014,v England,Melbourne,2,2,10,21,11,2,0,90.9,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,2 Feb 2014,v England,Sydney,1,2,30,29,21,1,3,142.85,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Mar 2014,v South Africa,Durban,2,1,5,6,5,1,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Mar 2014,v South Africa,Centurion,2,1,39,34,27,6,0,144.44,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Mar 2014,v Pakistan,Mirpur,2,2,65,79,54,7,2,120.37,bowled,1,1.0,0,18,0,18
+5334,Aaron Finch,28 Mar 2014,v West Indies,Mirpur,1,1,16,14,11,2,1,145.45,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Mar 2014,v India,Mirpur,2,1,6,15,11,1,0,54.54,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,1 Apr 2014,v Bangladesh,Mirpur,2,1,71,62,45,7,4,157.77,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Apr 2014,v RR,Abu Dhabi,1,1,2,-,5,0,0,40,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Apr 2014,v Kings XI,Sharjah,2,1,19,24,15,2,1,126.66,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Apr 2014,v Daredevils,Dubai (DICS),1,2,88*,90,53,8,4,166.03,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,27 Apr 2014,v CSK,Sharjah,1,1,44,72,45,5,0,97.77,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Apr 2014,v MI,Dubai (DICS),1,1,16,23,15,3,0,106.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 May 2014,v RCB,Bengaluru,1,1,13,13,8,1,1,162.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,8 May 2014,v RR,Ahmedabad,1,2,9,33,10,1,0,90,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,10 May 2014,v Daredevils,Delhi,2,1,4,19,7,0,0,57.14,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,12 May 2014,v MI,Hyderabad,1,1,68,84,62,7,2,109.67,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,14 May 2014,v Kings XI,Hyderabad,1,1,20,40,23,2,0,86.95,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,18 May 2014,v KKR,Hyderabad,1,1,8,6,8,1,0,100,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,20 May 2014,v RCB,Hyderabad,2,4,11*,17,9,1,0,122.22,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,22 May 2014,v CSK,Ranchi,2,4,7,3,3,0,1,233.33,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,30 May 2014,v Derbyshire,Leeds,2,1,19,35,17,1,1,111.76,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Jun 2014,v Lancashire,Manchester,2,2,88,73,55,8,5,160,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Jun 2014,v Northants,Northampton,1,2,5,11,13,0,0,38.46,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,28 Jun 2014,v Notts,Nottingham,2,2,10,7,6,2,0,166.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,1 Jul 2014,v Leics,Leeds,1,2,5,24,13,0,0,38.46,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,2 Jul 2014,v Durham,Leeds,2,2,17,25,21,1,0,80.95,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Jul 2014,v Durham,Chester-le-Street,1,2,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Jul 2014,v Derbyshire,Chesterfield,1,1,10,19,17,1,0,58.82,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,18 Jul 2014,v Warwickshire,Leeds,1,1,13,10,10,2,0,130,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,25 Jul 2014,v Notts,Leeds,1,2,89,51,46,4,7,193.47,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Oct 2014,v Pakistan,Dubai (DICS),2,2,5,8,9,1,0,55.55,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,5 Nov 2014,v South Africa,Adelaide,1,2,14,16,11,2,0,127.27,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Nov 2014,v South Africa,Melbourne,2,2,44*,-,30,8,0,146.66,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,9 Nov 2014,v South Africa,Sydney,2,2,33,-,25,2,2,132,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Dec 2014,v Sixers,Sydney,1,2,20,-,18,1,1,111.11,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,26 Dec 2014,v Scorchers,W.A.C.A,2,1,15,-,19,1,1,78.94,bowled,1,1.0,0,6,0,6
+5334,Aaron Finch,30 Dec 2014,v Thunder,Melbourne (Docklands),2,2,48,52,37,8,0,129.72,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,3 Jan 2015,v Stars,Melbourne (Docklands),2,2,8,-,8,1,0,100,caught,1,2.0,0,14,0,7
+5334,Aaron Finch,7 Jan 2015,v Hurricanes,Hobart,1,2,5,15,7,0,0,71.42,caught,2,1.0,0,5,0,5
+5334,Aaron Finch,10 Jan 2015,v Stars,Melbourne,1,1,12,14,10,1,0,120,caught,2,1.0,0,5,0,5
+5334,Aaron Finch,8 Apr 2015,v KKR,Eden Gardens,1,2,5,5,5,1,0,100,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Apr 2015,v Kings XI,Wankhede,2,2,8,24,14,1,0,57.14,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Apr 2015,v RR,Ahmedabad,1,1,10*,-,14,2,0,71.42,retired notout,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Jun 2015,v Northants,Leeds,1,1,5,7,6,1,0,83.33,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,19 Jun 2015,v Notts,Leeds,1,2,6,7,4,1,0,150,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,21 Jun 2015,v Warwickshire,Birmingham,1,2,30,53,32,3,0,93.75,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,26 Jun 2015,v Leics,Leicester,2,2,2,4,7,0,0,28.57,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,3 Jul 2015,v Lancashire,Manchester,2,2,33,27,19,5,0,173.68,caught,1,1.0,0,9,1,9
+5334,Aaron Finch,10 Jul 2015,v Durham,Leeds,2,1,0,1,1,0,0,0,caught,1,1.0,0,15,0,15
+5334,Aaron Finch,19 Dec 2015,v Heat,Brisbane,2,1,65,-,45,6,3,144.44,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Dec 2015,v Sixers,Melbourne (Docklands),1,1,13,13,11,3,0,118.18,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Dec 2015,v Scorchers,Melbourne (Docklands),1,1,72,72,48,6,3,150,caught,2,0.4,0,5,0,7.5
+5334,Aaron Finch,2 Jan 2016,v Stars,Melbourne,1,1,36,36,29,4,1,124.13,caught,2,1.0,0,8,0,8
+5334,Aaron Finch,4 Jan 2016,v Hurricanes,Hobart,2,1,60,46,39,11,0,153.84,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Jan 2016,v India,Adelaide,2,1,44,42,33,4,2,133.33,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Jan 2016,v India,Melbourne,2,1,74,69,48,8,2,154.16,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,4 Mar 2016,v South Africa,Durban,1,2,40,32,18,2,4,222.22,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,6 Mar 2016,v South Africa,Johannesburg,2,1,2,2,4,0,0,50,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Mar 2016,v Pakistan,Mohali,1,2,15,37,16,1,0,93.75,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,27 Mar 2016,v India,Mohali,1,2,43,57,34,3,2,126.47,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,11 Apr 2016,v Kings XI,Mohali,2,1,74,58,47,12,0,157.44,stumped,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Apr 2016,v Supergiants,Rajkot,2,1,50,39,36,7,2,138.88,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,16 Apr 2016,v MI,Wankhede,2,1,67*,105,54,7,1,124.07,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Apr 2016,v SRH,Rajkot,1,1,0,3,4,0,0,0,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,24 Apr 2016,v RCB,Rajkot,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+5334,Aaron Finch,3 May 2016,v Daredevils,Rajkot,1,3,5,7,5,1,0,100,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,6 May 2016,v SRH,Hyderabad,1,5,51*,71,42,3,1,121.42,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,8 May 2016,v KKR,Eden Gardens,2,5,29,17,10,3,2,290,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,14 May 2016,v RCB,Bengaluru,2,5,37,49,38,3,1,97.36,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,19 May 2016,v KKR,Kanpur,2,5,26,31,23,1,2,113.04,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,21 May 2016,v MI,Kanpur,2,1,0,1,2,0,0,0,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,24 May 2016,v RCB,Bengaluru,1,1,4,7,6,1,0,66.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,27 May 2016,v SRH,Delhi,1,5,50,42,32,7,2,156.25,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,6 Jul 2016,v Gloucs,Bristol,1,2,31,34,24,4,0,129.16,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,8 Jul 2016,v Somerset,The Oval,1,2,51,30,26,5,3,196.15,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,15 Jul 2016,v Kent,Tunbridge Wells,1,2,7,27,9,0,0,77.77,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,21 Jul 2016,v Middlesex,Lord's,1,2,78,79,59,4,3,132.2,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Jul 2016,v Sussex,The Oval,2,2,13,13,10,2,0,130,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Jul 2016,v Kent,The Oval,1,2,79,69,51,5,4,154.9,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Dec 2016,v Thunder,Melbourne (Docklands),1,2,63,-,37,3,4,170.27,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,29 Dec 2016,v Scorchers,Melbourne (Docklands),1,2,24,22,14,3,1,171.42,caught,2,2.0,0,17,1,8.5
+5334,Aaron Finch,1 Jan 2017,v Stars,Melbourne,1,2,30,-,24,2,1,125,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2017,v Stars,Melbourne (Docklands),2,2,27,-,13,2,2,207.69,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,9 Jan 2017,v Sixers,Sydney,1,2,57,-,44,3,1,129.54,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Jan 2017,v Hurricanes,Melbourne (Docklands),1,2,63,-,40,6,2,157.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,16 Jan 2017,v Strikers,Adelaide,1,2,19,-,13,4,0,146.15,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Jan 2017,v Heat,Brisbane,1,2,71,-,35,6,4,202.85,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Feb 2017,v Sri Lanka,Melbourne,1,1,43,49,34,2,2,126.47,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,19 Feb 2017,v Sri Lanka,Geelong,1,2,12,14,10,2,0,120,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Feb 2017,v Sri Lanka,Adelaide,1,1,53,-,32,5,3,165.62,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Apr 2017,v KKR,Rajkot,1,4,15,9,8,0,2,187.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,9 Apr 2017,v SRH,Hyderabad,1,4,3,4,5,0,0,60,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Apr 2017,v Supergiant,Rajkot,2,5,33*,28,19,3,2,173.68,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Apr 2017,v RCB,Rajkot,2,4,19,29,15,2,1,126.66,stumped,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Apr 2017,v KKR,Eden Gardens,2,1,31,13,15,4,2,206.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Apr 2017,v Kings XI,Rajkot,2,2,13,30,12,0,1,108.33,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,27 Apr 2017,v RCB,Bengaluru,2,4,72,39,34,5,6,211.76,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Apr 2017,v MI,Rajkot,1,4,0,7,3,0,0,0,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,1 May 2017,v Supergiant,Pune,1,4,13,8,6,1,1,216.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 May 2017,v Daredevils,Delhi,1,5,27,30,19,4,0,142.1,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 May 2017,v Kings XI,Mohali,2,5,2,2,2,0,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 May 2017,v Daredevils,Kanpur,1,5,69,58,39,6,4,176.92,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,13 May 2017,v SRH,Kanpur,1,5,2,4,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Jul 2017,v Essex,Chelmsford,1,2,56,39,27,6,3,207.4,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,9 Jul 2017,v Somerset,The Oval,1,1,61,42,42,7,3,145.23,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Jul 2017,v Middlesex,Lord's,1,2,22,20,12,2,1,183.33,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Jul 2017,v Kent,The Oval,1,2,49,41,25,4,3,196,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,19 Jul 2017,v Essex,The Oval,1,1,21,22,14,3,1,150,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,21 Jul 2017,v Middlesex,The Oval,1,2,40,35,22,4,1,181.81,run out,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Aug 2017,v Sussex,Hove,1,1,13,13,8,3,0,162.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 Aug 2017,v Glamorgan,The Oval,2,2,33,32,22,3,2,150,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Aug 2017,v Somerset,Taunton,1,2,26,16,16,5,0,162.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Aug 2017,v Sussex,The Oval,1,2,114*,79,64,7,7,178.12,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Aug 2017,v Gloucs,The Oval,2,1,7,6,6,0,1,116.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Aug 2017,v Kent,Canterbury,1,2,8,20,8,0,1,100,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,25 Aug 2017,v Warwickshire,The Oval,1,2,39,40,27,5,2,144.44,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Oct 2017,v India,Ranchi,1,2,42,40,30,4,1,140,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,10 Oct 2017,v India,Guwahati,2,1,8,14,8,1,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Dec 2017,v Hurricanes,Hobart,2,1,4,-,2,1,0,200,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Dec 2017,v Heat,Melbourne (Docklands),2,1,8,-,9,1,0,88.88,caught,1,1.0,0,5,0,5
+5334,Aaron Finch,29 Dec 2017,v Scorchers,Melbourne (Docklands),1,2,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Jan 2018,v Sixers,Geelong,2,2,51,-,38,6,2,134.21,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Jan 2018,v Stars,Melbourne,2,2,43,-,22,7,1,195.45,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Jan 2018,v Scorchers,W.A.C.A,1,2,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,10 Feb 2018,v England,Melbourne,2,5,20*,8,5,2,2,400,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,16 Feb 2018,v New Zealand,Auckland,2,5,36*,22,14,3,3,257.14,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Feb 2018,v New Zealand,Auckland,2,5,18*,18,13,0,1,138.46,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Apr 2018,v RCB,Bengaluru,1,3,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,15 Apr 2018,v CSK,Mohali,1,5,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,19 Apr 2018,v SRH,Mohali,1,5,14*,-,6,1,1,233.33,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,21 Apr 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Apr 2018,v Daredevils,Delhi,1,2,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,26 Apr 2018,v SRH,Hyderabad,2,5,8,-,4,0,1,200,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,12 May 2018,v KKR,Indore,2,5,34,-,20,0,3,170,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,14 May 2018,v RCB,Indore,1,4,26,-,23,1,2,113.04,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,16 May 2018,v MI,Wankhede,2,3,46,-,35,3,1,131.42,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,20 May 2018,v CSK,Pune,1,3,4,-,6,1,0,66.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,27 Jun 2018,v England,Birmingham,2,2,84,-,41,7,6,204.87,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,2 Jul 2018,v Pakistan,Harare,2,2,68*,-,33,4,6,206.06,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,3 Jul 2018,v Zimbabwe,Harare,1,1,172,-,76,16,10,226.31,hit wicket,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Jul 2018,v Pakistan,Harare,2,2,16,-,11,3,0,145.45,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Jul 2018,v Zimbabwe,Harare,2,1,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Jul 2018,v Pakistan,Harare,1,2,47,-,27,2,3,174.07,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Jul 2018,v Essex,The Oval,1,2,58,45,33,5,4,175.75,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Jul 2018,v Sussex,Hove,1,2,131*,77,79,10,7,165.82,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Jul 2018,v Kent,Canterbury,1,1,83,47,38,11,4,218.42,bowled,-,TDNB,-,-,-,-
+5334,Aaron Finch,27 Jul 2018,v Somerset,The Oval,2,2,43*,32,21,4,3,204.76,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,31 Jul 2018,v Glamorgan,The Oval,1,2,30,25,17,5,0,176.47,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Aug 2018,v Middlesex,The Oval,2,2,117*,65,52,11,8,225,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,5 Aug 2018,v Essex,Chelmsford,2,1,16,15,10,2,1,160,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Aug 2018,v Hampshire,The Oval,2,1,67*,65,57,7,1,117.54,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,17 Aug 2018,v Glamorgan,Cardiff,2,2,44*,21,16,5,3,275,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,22 Oct 2018,v U.A.E.,Abu Dhabi,2,2,1,-,6,0,0,16.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,24 Oct 2018,v Pakistan,Abu Dhabi,2,1,0,-,3,0,0,0,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Oct 2018,v Pakistan,Dubai (DICS),2,2,3,-,10,0,0,30,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Oct 2018,v Pakistan,Dubai (DICS),2,2,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,17 Nov 2018,v South Africa,Carrara,2,1,7,-,6,1,0,116.66,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Nov 2018,v India,Brisbane,1,2,27,-,24,3,0,112.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,23 Nov 2018,v India,Melbourne,1,2,0,-,1,0,0,0,caught,-,TDNB,-,-,-,-
+5334,Aaron Finch,25 Nov 2018,v India,Sydney,1,2,28,-,23,4,0,121.73,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2019,v Hurricanes,Melbourne (Docklands),2,2,42,-,39,3,1,107.69,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Jan 2019,v Stars,Melbourne (Docklands),1,2,14,-,9,0,2,155.55,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Jan 2019,v Thunder,Sydney,1,2,54,-,38,2,4,142.1,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,28 Jan 2019,v Scorchers,Perth,1,2,8,-,12,1,0,66.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Jan 2019,v Thunder,Melbourne (Docklands),1,2,10,-,10,0,1,100,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Feb 2019,v Hurricanes,Hobart,2,2,35,-,28,6,0,125,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Feb 2019,v Sixers,Melbourne (Docklands),2,2,44,-,41,4,0,107.31,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,17 Feb 2019,v Stars,Melbourne (Docklands),1,2,13,-,10,2,0,130,run out,2,DNB,-,-,-,-
+5334,Aaron Finch,24 Feb 2019,v India,Visakhapatnam,2,3,0,2,1,0,0,0,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,27 Feb 2019,v India,Bengaluru,2,3,8,8,7,1,0,114.28,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Jul 2019,v Essex,Chelmsford,2,2,40,35,19,4,2,210.52,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Jul 2019,v Middlesex,The Oval,2,2,9,10,8,1,0,112.5,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Jul 2019,v Glamorgan,The Oval,1,1,28,41,20,2,1,140,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,26 Jul 2019,v Sussex,Hove,2,2,6,13,9,1,0,66.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,30 Jul 2019,v Kent,The Oval,1,2,36*,30,20,1,2,180,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,2 Aug 2019,v Somerset,Taunton,1,2,72,57,44,6,4,163.63,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,8 Aug 2019,v Middlesex,Lord's,2,2,47,32,25,5,3,188,stumped,1,DNB,-,-,-,-
+5334,Aaron Finch,9 Aug 2019,v Gloucs,The Oval,2,2,12,16,10,1,0,120,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Aug 2019,v Glamorgan,Cardiff,2,2,0,4,2,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Aug 2019,v Sussex,The Oval,1,2,9,8,8,2,0,112.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,23 Aug 2019,v Kent,Canterbury,1,2,25,18,12,4,1,208.33,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,27 Aug 2019,v Somerset,The Oval,2,1,102*,72,53,5,9,192.45,not out,1,1.0,0,8,0,8
+5334,Aaron Finch,29 Aug 2019,v Essex,The Oval,2,1,12,10,8,1,1,150,caught,1,1.0,0,11,0,11
+5334,Aaron Finch,27 Oct 2019,v Sri Lanka,Adelaide,1,1,64,-,36,8,3,177.77,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,30 Oct 2019,v Sri Lanka,Brisbane,2,2,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,1 Nov 2019,v Sri Lanka,Melbourne,2,1,37,-,25,1,3,148,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,3 Nov 2019,v Pakistan,Sydney,2,2,37*,-,16,5,2,231.25,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,5 Nov 2019,v Pakistan,Canberra,2,2,17,-,14,3,0,121.42,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Nov 2019,v Pakistan,Perth,2,2,52*,-,36,4,3,144.44,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Dec 2019,v Thunder,Geelong,1,2,29,-,22,2,1,131.81,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,21 Dec 2019,v Scorchers,Perth,2,2,28,-,15,3,1,186.66,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,24 Dec 2019,v Hurricanes,Hobart,1,2,50,-,37,6,0,135.13,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,29 Dec 2019,v Strikers,Melbourne (Docklands),2,2,50,-,39,1,1,128.2,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,2 Jan 2020,v Sixers,Melbourne (Docklands),1,2,9,-,6,2,0,150,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 Jan 2020,v Stars,Melbourne,1,2,25,-,24,1,2,104.16,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2020,v Scorchers,Geelong,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,25 Jan 2020,v Sixers,Sydney,1,1,109,-,68,6,7,160.29,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,27 Jan 2020,v Heat,Melbourne (Docklands),2,2,63*,-,49,2,4,128.57,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Feb 2020,v South Africa,Johannesburg,1,2,42,38,27,6,1,155.55,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,23 Feb 2020,v South Africa,Gqeberha,2,2,14,19,12,2,0,116.66,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Feb 2020,v South Africa,Cape Town,1,2,55,59,37,6,1,148.64,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,4 Sep 2020,v England,Southampton,2,2,46,53,32,7,1,143.75,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Sep 2020,v England,Southampton,1,2,40,-,33,4,2,121.21,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,8 Sep 2020,v England,Southampton,2,2,39,52,26,4,1,150,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Sep 2020,v SRH,Dubai (DICS),1,2,29,-,27,1,2,107.4,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,24 Sep 2020,v Kings XI,Dubai (DICS),2,2,20,-,21,3,0,95.23,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Sep 2020,v MI,Dubai (DICS),1,2,52,-,35,7,1,148.57,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Oct 2020,v RR,Abu Dhabi,2,2,8,-,7,2,0,114.28,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,5 Oct 2020,v DC,Dubai (DICS),2,2,13,-,14,1,0,92.85,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Oct 2020,v CSK,Dubai (DICS),1,2,2,-,9,0,0,22.22,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Oct 2020,v KKR,Sharjah,1,1,47,-,37,4,1,127.02,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,15 Oct 2020,v Kings XI,Sharjah,1,1,20,-,18,2,1,111.11,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Oct 2020,v RR,Dubai (DICS),2,2,14,-,11,0,2,127.27,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Oct 2020,v KKR,Abu Dhabi,2,2,16,-,21,2,0,76.19,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Oct 2020,v CSK,Dubai (DICS),1,2,15,-,11,3,0,136.36,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,6 Nov 2020,v SRH,Abu Dhabi,1,3,32,-,30,3,1,106.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 Dec 2020,v India,Canberra,2,2,35,-,26,5,1,134.61,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Dec 2020,v India,Sydney,1,2,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,12 Dec 2020,v Scorchers,Hobart,2,2,35,-,28,5,1,125,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Dec 2020,v Sixers,Hobart,2,2,12,-,7,2,0,171.42,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Dec 2020,v Thunder,Canberra,2,2,20,-,17,1,1,117.64,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Dec 2020,v Sixers,Carrara,1,1,39,-,32,4,0,121.87,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,1 Jan 2021,v Thunder,Carrara,1,1,18,-,13,1,1,138.46,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Jan 2021,v Scorchers,Perth,2,3,8,-,7,1,0,114.28,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,5 Jan 2021,v Strikers,Adelaide,2,1,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Jan 2021,v Strikers,Adelaide,2,2,14,-,15,1,0,93.33,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Jan 2021,v Heat,Canberra,1,4,13,-,13,2,0,100,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,17 Jan 2021,v Stars,Melbourne,1,1,0,-,2,0,0,0,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Jan 2021,v Stars,Melbourne (Docklands),2,2,10,-,14,2,0,71.42,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Jan 2021,v Heat,Melbourne (Docklands),2,2,4,-,2,1,0,200,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Jan 2021,v Hurricanes,Melbourne,1,2,6,-,7,0,0,85.71,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Feb 2021,v New Zealand,Christchurch,2,2,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Feb 2021,v New Zealand,Dunedin,2,2,12,40,14,1,0,85.71,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,3 Mar 2021,v New Zealand,Wellington,1,2,69,71,44,8,2,156.81,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Mar 2021,v New Zealand,Wellington,1,2,79*,86,55,5,4,143.63,not out,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Mar 2021,v New Zealand,Wellington,1,2,36,41,32,5,1,112.5,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,9 Jul 2021,v West Indies,Gros Islet,2,2,4,7,5,0,0,80,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Jul 2021,v West Indies,Gros Islet,2,2,6,18,8,0,0,75,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,12 Jul 2021,v West Indies,Gros Islet,1,2,30,52,31,2,0,96.77,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,14 Jul 2021,v West Indies,Gros Islet,1,2,53,55,37,5,3,143.24,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,16 Jul 2021,v West Indies,Gros Islet,2,2,34,39,23,6,0,147.82,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Oct 2021,v South Africa,Abu Dhabi,2,2,0,22,5,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Oct 2021,v Sri Lanka,Dubai (DICS),2,2,37,33,23,5,2,160.86,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,30 Oct 2021,v England,Dubai (DICS),1,2,44,89,49,4,0,89.79,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,4 Nov 2021,v Bangladesh,Dubai (DICS),2,2,40,27,20,2,4,200,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Nov 2021,v West Indies,Abu Dhabi,2,2,9,18,11,1,0,81.81,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Nov 2021,v Pakistan,Dubai (DICS),2,2,0,2,1,0,0,0,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Nov 2021,v New Zealand,Dubai (DICS),2,2,5,12,7,1,0,71.42,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,22 Dec 2021,v Scorchers,Melbourne (Docklands),2,2,68,68,43,4,5,158.13,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,26 Dec 2021,v Scorchers,Melbourne (Docklands),1,1,8,10,7,1,0,114.28,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,29 Dec 2021,v Hurricanes,Melbourne (Docklands),2,2,1,9,2,0,0,50,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,1 Jan 2022,v Sixers,Coffs Harbour,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+5334,Aaron Finch,3 Jan 2022,v Stars,Melbourne,2,2,50,57,40,3,2,125,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,6 Jan 2022,v Heat,Geelong,2,2,37,50,28,2,2,132.14,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Jan 2022,v Thunder,Melbourne (Docklands),2,2,17,28,12,0,2,141.66,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Jan 2022,v Sixers,Geelong,2,1,3,8,4,0,0,75,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,13 Jan 2022,v Stars,Melbourne (Docklands),1,5,45,-,44,3,1,102.27,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,18 Jan 2022,v Hurricanes,Melbourne (Docklands),2,2,75,82,52,6,4,144.23,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,19 Jan 2022,v Thunder,Melbourne,2,2,82,87,64,4,2,128.12,caught,1,1.0,0,10,0,10
+5334,Aaron Finch,11 Feb 2022,v Sri Lanka,Sydney,1,1,8,25,12,0,0,66.66,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Feb 2022,v Sri Lanka,Sydney,1,2,25,40,20,3,0,125,stumped,2,DNB,-,-,-,-
+5334,Aaron Finch,15 Feb 2022,v Sri Lanka,Canberra,2,3,35,65,36,3,0,97.22,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,18 Feb 2022,v Sri Lanka,Melbourne,2,3,2,13,5,0,0,40,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,20 Feb 2022,v Sri Lanka,Melbourne,1,1,8,14,12,0,0,66.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Apr 2022,v Pakistan,Lahore,2,2,55,84,45,6,0,122.22,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,15 Apr 2022,v SRH,Brabourne,1,2,7,10,5,0,1,140,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,18 Apr 2022,v RR,Brabourne,2,1,58,49,28,9,2,207.14,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Apr 2022,v DC,Wankhede,1,1,3,9,7,0,0,42.85,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,2 May 2022,v RR,Wankhede,2,2,4,16,7,0,0,57.14,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,7 May 2022,v LSG,Pune,2,2,14,29,14,1,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Jun 2022,v Sri Lanka,Colombo (RPS),2,1,61*,76,40,4,4,152.5,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,1,24,16,13,4,0,184.61,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,11 Jun 2022,v Sri Lanka,Pallekele,1,2,29,29,20,5,0,145,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,20 Sep 2022,v India,Mohali,2,1,22,16,13,3,1,169.23,bowled,1,DNB,-,-,-,-
+5334,Aaron Finch,23 Sep 2022,v India,Nagpur,1,1,31,-,15,4,1,206.66,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,25 Sep 2022,v India,Hyderabad,1,2,7,18,6,1,0,116.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,5 Oct 2022,v West Indies,Carrara,2,4,58,69,53,6,0,109.43,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,7 Oct 2022,v West Indies,Brisbane,1,3,15,45,19,1,0,78.94,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,9 Oct 2022,v England,Perth,2,4,12,14,7,0,1,171.42,run out,1,DNB,-,-,-,-
+5334,Aaron Finch,12 Oct 2022,v England,Canberra,2,2,13,18,13,2,0,100,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Oct 2022,v England,Canberra,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,22 Oct 2022,v New Zealand,Sydney,2,2,13,20,11,1,1,118.18,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,25 Oct 2022,v Sri Lanka,Perth,2,2,31*,89,42,0,1,73.8,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,31 Oct 2022,v Ireland,Brisbane,1,2,63,87,44,5,3,143.18,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,15 Dec 2022,v Heat,Cairns,1,4,4,10,7,0,0,57.14,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,18 Dec 2022,v Thunder,Melbourne (Docklands),2,4,70*,77,43,7,2,162.79,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Dec 2022,v Heat,Geelong,2,4,31*,-,43,2,1,72.09,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,24 Dec 2022,v Hurricanes,Hobart,2,4,13,28,18,0,0,72.22,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,28 Dec 2022,v Sixers,Sydney,2,3,36,58,35,5,0,102.85,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,30 Dec 2022,v Sixers,Geelong,1,4,17,34,15,0,1,113.33,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,1 Jan 2023,v Scorchers,Melbourne (Docklands),1,4,65,73,48,6,2,135.41,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,3 Jan 2023,v Stars,Melbourne,1,4,1,6,2,0,0,50,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,7 Jan 2023,v Hurricanes,Melbourne (Docklands),2,4,5,11,7,0,0,71.42,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Jan 2023,v Strikers,Adelaide,2,4,2,-,5,0,0,40,lbw,1,DNB,-,-,-,-
+5334,Aaron Finch,14 Jan 2023,v Stars,Melbourne (Docklands),1,4,13,9,6,3,0,216.66,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,19 Jan 2023,v Thunder,Canberra,1,4,22,30,23,1,1,95.65,lbw,2,DNB,-,-,-,-
+5334,Aaron Finch,22 Jan 2023,v Scorchers,Perth,2,4,76*,62,35,7,5,217.14,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,24 Jan 2023,v Strikers,Melbourne (Docklands),2,4,63*,78,54,6,2,116.66,not out,1,DNB,-,-,-,-
+5334,Aaron Finch,29 Jan 2023,v Heat,Melbourne (Docklands),1,4,10,17,12,2,0,83.33,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,8 Dec 2023,v Sixers,Sydney,2,5,33,48,31,3,0,106.45,caught,1,DNB,-,-,-,-
+5334,Aaron Finch,10 Dec 2023,v Scorchers,Geelong,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+5334,Aaron Finch,21 Dec 2023,v Heat,Melbourne (Docklands),1,5,2,8,8,0,0,25,caught,2,DNB,-,-,-,-
+5334,Aaron Finch,23 Dec 2023,v Hurricanes,Hobart,1,5,31,51,28,3,0,110.71,bowled,2,DNB,-,-,-,-
+5334,Aaron Finch,13 Jan 2024,v Stars,Melbourne (Docklands),2,2,0,10,3,0,0,0,caught,1,DNB,-,-,-,-

@@ -1,0 +1,269 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+536936,Litton Das,12 Feb 2013,v Barisal,Mirpur,1,7,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+536936,Litton Das,22 Apr 2013,v Dhaka DIV,Bogra,1,2,37,32,20,6,1,185,caught,2,DNB,-,-,-,-
+536936,Litton Das,25 Apr 2013,v Dhaka Metro,Bogra,1,2,10,3,5,2,0,200,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Apr 2013,v Rajshahi DIV,Bogra,1,2,17,16,10,2,1,170,caught,2,DNB,-,-,-,-
+536936,Litton Das,22 Dec 2013,v Mohammedan,Sylhet,1,3,8,6,7,1,0,114.28,lbw,2,DNB,-,-,-,-
+536936,Litton Das,23 Dec 2013,v UCB-BCB XI,Sylhet,2,5,8*,12,11,1,0,72.72,not out,1,DNB,-,-,-,-
+536936,Litton Das,25 Dec 2013,v Abahani Ltd,Sylhet,2,7,12,8,5,1,1,240,caught,1,DNB,-,-,-,-
+536936,Litton Das,26 Dec 2013,v Mohammedan,Sylhet,1,2,9,11,7,2,0,128.57,caught,2,DNB,-,-,-,-
+536936,Litton Das,28 Dec 2013,v UCB-BCB XI,Mirpur,1,2,7,7,6,1,0,116.66,caught,2,DNB,-,-,-,-
+536936,Litton Das,29 Dec 2013,v Abahani Ltd,Mirpur,1,2,3,5,5,0,0,60,caught,2,DNB,-,-,-,-
+536936,Litton Das,31 Dec 2013,v UCB-BCB XI,Mirpur,1,2,62,53,39,6,2,158.97,bowled,2,DNB,-,-,-,-
+536936,Litton Das,5 Jul 2015,v South Africa,Mirpur,2,7,22,33,26,0,1,84.61,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Jul 2015,v South Africa,Mirpur,2,8,10,11,7,1,0,142.85,caught,1,DNB,-,-,-,-
+536936,Litton Das,13 Nov 2015,v Zimbabwe,Mirpur,2,7,17,22,12,2,0,141.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,22 Nov 2015,v Dynamites,Mirpur,1,2,3,7,5,0,0,60,caught,2,DNB,-,-,-,-
+536936,Litton Das,24 Nov 2015,v Chattogram,Mirpur,2,1,9,13,12,2,0,75,caught,1,DNB,-,-,-,-
+536936,Litton Das,30 Nov 2015,v Super Stars,Chattogram,1,1,42,31,24,6,1,175,lbw,2,DNB,-,-,-,-
+536936,Litton Das,2 Dec 2015,v Dynamites,Chattogram,1,1,31,63,34,2,0,91.17,caught,2,DNB,-,-,-,-
+536936,Litton Das,3 Dec 2015,v Chattogram,Chattogram,2,1,3,7,8,0,0,37.5,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Dec 2015,v Bulls,Mirpur,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,10 Dec 2015,v Super Stars,Mirpur,1,2,4,7,5,1,0,80,caught,2,DNB,-,-,-,-
+536936,Litton Das,12 Dec 2015,v Rangpur,Mirpur,1,2,28,44,37,1,0,75.67,stumped,2,DNB,-,-,-,-
+536936,Litton Das,15 Dec 2015,v Bulls,Mirpur,2,2,3,12,6,0,0,50,caught,1,DNB,-,-,-,-
+536936,Litton Das,8 Nov 2016,v Chattogram,Mirpur,2,1,13,32,18,2,0,72.22,caught,1,DNB,-,-,-,-
+536936,Litton Das,11 Nov 2016,v Bulls,Mirpur,1,5,4,11,6,0,0,66.66,caught,2,DNB,-,-,-,-
+536936,Litton Das,13 Nov 2016,v Khulna,Mirpur,2,1,8,3,5,2,0,160,caught,1,DNB,-,-,-,-
+536936,Litton Das,18 Nov 2016,v Rangpur,Chattogram,1,1,4,29,12,0,0,33.33,run out,2,DNB,-,-,-,-
+536936,Litton Das,19 Nov 2016,v Kings,Chattogram,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+536936,Litton Das,21 Nov 2016,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+536936,Litton Das,26 Nov 2016,v Dynamites,Mirpur,2,5,5,12,6,0,0,83.33,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Nov 2016,v Bulls,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+536936,Litton Das,30 Nov 2016,v Kings,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+536936,Litton Das,2 Dec 2016,v Khulna,Mirpur,2,7,24*,22,11,5,0,218.18,not out,1,DNB,-,-,-,-
+536936,Litton Das,4 Dec 2016,v Rangpur,Mirpur,1,6,6,9,3,0,1,200,bowled,2,DNB,-,-,-,-
+536936,Litton Das,29 Oct 2017,v South Africa,Potchefstroom,2,7,9,9,7,0,1,128.57,caught,1,DNB,-,-,-,-
+536936,Litton Das,5 Nov 2017,v Sylhet,Sylhet,1,1,21,-,19,2,1,110.52,stumped,2,DNB,-,-,-,-
+536936,Litton Das,7 Nov 2017,v Chattogram,Sylhet,2,1,23,-,14,3,1,164.28,lbw,1,DNB,-,-,-,-
+536936,Litton Das,12 Nov 2017,v Kings,Mirpur,2,1,23,-,12,2,2,191.66,bowled,1,DNB,-,-,-,-
+536936,Litton Das,14 Nov 2017,v Chattogram,Mirpur,2,2,21,-,20,2,0,105,bowled,1,DNB,-,-,-,-
+536936,Litton Das,18 Nov 2017,v Rangpur,Mirpur,1,2,11,-,11,1,0,100,bowled,2,DNB,-,-,-,-
+536936,Litton Das,20 Nov 2017,v Dynamites,Mirpur,2,2,0,-,3,0,0,0,bowled,1,DNB,-,-,-,-
+536936,Litton Das,28 Nov 2017,v Khulna,Chattogram,2,2,21,-,20,4,0,105,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Nov 2017,v Dynamites,Chattogram,1,2,34,-,30,3,0,113.33,stumped,2,DNB,-,-,-,-
+536936,Litton Das,2 Dec 2017,v Rangpur,Mirpur,2,2,3,-,7,0,0,42.85,caught,1,DNB,-,-,-,-
+536936,Litton Das,6 Dec 2017,v Sylhet,Mirpur,1,1,65,-,43,6,3,151.16,caught,2,DNB,-,-,-,-
+536936,Litton Das,8 Dec 2017,v Dynamites,Mirpur,2,2,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,10 Dec 2017,v Rangpur,Mirpur,2,2,39,-,28,3,2,139.28,caught,1,DNB,-,-,-,-
+536936,Litton Das,8 Mar 2018,v India,Colombo (RPS),1,3,34,-,30,3,0,113.33,caught,2,DNB,-,-,-,-
+536936,Litton Das,10 Mar 2018,v Sri Lanka,Colombo (RPS),2,2,43,-,19,2,5,226.31,lbw,1,DNB,-,-,-,-
+536936,Litton Das,14 Mar 2018,v India,Colombo (RPS),2,2,7,-,7,1,0,100,stumped,1,DNB,-,-,-,-
+536936,Litton Das,16 Mar 2018,v Sri Lanka,Colombo (RPS),2,2,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,18 Mar 2018,v India,Colombo (RPS),1,2,11,-,9,0,1,122.22,caught,2,DNB,-,-,-,-
+536936,Litton Das,3 Jun 2018,v Afghanistan,Dehradun,2,2,30,39,20,3,1,150,lbw,1,DNB,-,-,-,-
+536936,Litton Das,5 Jun 2018,v Afghanistan,Dehradun,1,1,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+536936,Litton Das,7 Jun 2018,v Afghanistan,Dehradun,2,1,12,-,14,1,0,85.71,run out,1,DNB,-,-,-,-
+536936,Litton Das,31 Jul 2018,v West Indies,Basseterre,1,3,24,-,21,3,0,114.28,caught,2,DNB,-,-,-,-
+536936,Litton Das,4 Aug 2018,v West Indies,Lauderhill,1,1,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+536936,Litton Das,5 Aug 2018,v West Indies,Lauderhill,1,1,61,-,32,6,3,190.62,caught,2,DNB,-,-,-,-
+536936,Litton Das,17 Dec 2018,v West Indies,Sylhet,1,2,6,-,5,1,0,120,caught,2,DNB,-,-,-,-
+536936,Litton Das,20 Dec 2018,v West Indies,Mirpur,1,2,60,-,34,6,4,176.47,bowled,2,DNB,-,-,-,-
+536936,Litton Das,22 Dec 2018,v West Indies,Mirpur,2,2,43,-,25,3,3,172,caught,1,DNB,-,-,-,-
+536936,Litton Das,6 Jan 2019,v Victorians,Mirpur,1,1,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+536936,Litton Das,9 Jan 2019,v Chattogram,Mirpur,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+536936,Litton Das,12 Jan 2019,v Dynamites,Mirpur,2,2,9,-,9,0,1,100,caught,1,DNB,-,-,-,-
+536936,Litton Das,15 Jan 2019,v Victorians,Sylhet,1,3,6,-,13,0,0,46.15,caught,2,DNB,-,-,-,-
+536936,Litton Das,16 Jan 2019,v Rangpur,Sylhet,1,1,70,-,43,9,1,162.79,run out,2,DNB,-,-,-,-
+536936,Litton Das,18 Jan 2019,v Dynamites,Sylhet,1,1,27,-,14,4,1,192.85,lbw,2,DNB,-,-,-,-
+536936,Litton Das,19 Jan 2019,v Rangpur,Sylhet,1,1,11,-,8,1,1,137.5,caught,2,DNB,-,-,-,-
+536936,Litton Das,23 Jan 2019,v Khulna,Mirpur,2,1,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+536936,Litton Das,25 Jan 2019,v Kings,Chattogram,1,1,24,-,13,3,1,184.61,caught,2,DNB,-,-,-,-
+536936,Litton Das,26 Jan 2019,v Khulna,Chattogram,1,1,34,-,22,3,2,154.54,caught,2,DNB,-,-,-,-
+536936,Litton Das,30 Jan 2019,v Kings,Chattogram,1,1,10,-,6,1,1,166.66,lbw,2,DNB,-,-,-,-
+536936,Litton Das,13 Sep 2019,v Zimbabwe,Mirpur,2,1,19,-,14,1,1,135.71,bowled,1,DNB,-,-,-,-
+536936,Litton Das,15 Sep 2019,v Afghanistan,Mirpur,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,18 Sep 2019,v Zimbabwe,Chattogram,1,2,38,-,22,4,2,172.72,caught,2,DNB,-,-,-,-
+536936,Litton Das,21 Sep 2019,v Afghanistan,Chattogram,2,1,4,-,10,0,0,40,caught,1,DNB,-,-,-,-
+536936,Litton Das,27 Sep 2019,v Zouks,Gros Islet,1,4,21,-,21,1,0,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,3 Oct 2019,v Amazon,Providence,2,4,21,-,25,2,0,84,caught,1,DNB,-,-,-,-
+536936,Litton Das,3 Nov 2019,v India,Delhi,2,1,7,-,4,1,0,175,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Nov 2019,v India,Rajkot,1,1,29,-,21,4,0,138.09,run out,2,DNB,-,-,-,-
+536936,Litton Das,10 Nov 2019,v India,Nagpur,2,1,9,-,8,2,0,112.5,caught,1,DNB,-,-,-,-
+536936,Litton Das,12 Dec 2019,v Platoon,Mirpur,2,2,39,-,27,4,2,144.44,caught,1,DNB,-,-,-,-
+536936,Litton Das,13 Dec 2019,v Thunder,Mirpur,2,2,44*,-,26,7,0,169.23,not out,1,DNB,-,-,-,-
+536936,Litton Das,17 Dec 2019,v Khulna,Chattogram,1,1,19,-,16,1,1,118.75,caught,2,DNB,-,-,-,-
+536936,Litton Das,23 Dec 2019,v Khulna,Chattogram,2,1,58,-,44,5,2,131.81,caught,1,DNB,-,-,-,-
+536936,Litton Das,24 Dec 2019,v Warriors,Chattogram,2,1,27,-,19,2,2,142.1,bowled,1,DNB,-,-,-,-
+536936,Litton Das,28 Dec 2019,v Warriors,Mirpur,1,1,24,-,19,2,1,126.31,caught,2,DNB,-,-,-,-
+536936,Litton Das,30 Dec 2019,v Platoon,Mirpur,2,1,10,-,6,0,1,166.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,31 Dec 2019,v Rangers,Mirpur,2,1,15,-,17,1,0,88.23,caught,1,DNB,-,-,-,-
+536936,Litton Das,2 Jan 2020,v Rangers,Sylhet,1,1,19,-,15,3,0,126.66,caught,2,DNB,-,-,-,-
+536936,Litton Das,4 Jan 2020,v Thunder,Sylhet,2,1,36,-,20,4,2,180,lbw,1,DNB,-,-,-,-
+536936,Litton Das,7 Jan 2020,v Chattogram,Mirpur,1,1,56,-,45,5,2,124.44,caught,2,DNB,-,-,-,-
+536936,Litton Das,11 Jan 2020,v Chattogram,Mirpur,2,1,75,-,48,11,1,156.25,lbw,1,DNB,-,-,-,-
+536936,Litton Das,13 Jan 2020,v Khulna,Mirpur,2,1,2,-,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+536936,Litton Das,15 Jan 2020,v Chattogram,Mirpur,2,1,6,-,6,1,0,100,run out,1,DNB,-,-,-,-
+536936,Litton Das,17 Jan 2020,v Khulna,Mirpur,1,1,25,-,28,1,1,89.28,caught,2,DNB,-,-,-,-
+536936,Litton Das,24 Jan 2020,v Pakistan,Lahore,1,3,12,-,13,2,0,92.3,run out,2,DNB,-,-,-,-
+536936,Litton Das,25 Jan 2020,v Pakistan,Lahore,1,4,8,-,14,1,0,57.14,lbw,2,DNB,-,-,-,-
+536936,Litton Das,9 Mar 2020,v Zimbabwe,Mirpur,1,2,59,-,39,5,3,151.28,lbw,2,DNB,-,-,-,-
+536936,Litton Das,11 Mar 2020,v Zimbabwe,Mirpur,2,1,60*,73,45,8,0,133.33,not out,1,DNB,-,-,-,-
+536936,Litton Das,26 Nov 2020,v Dhaka,Mirpur,2,1,34,49,33,3,1,103.03,bowled,1,DNB,-,-,-,-
+536936,Litton Das,28 Nov 2020,v Khulna,Mirpur,2,1,53*,51,46,9,0,115.21,not out,1,DNB,-,-,-,-
+536936,Litton Das,30 Nov 2020,v Barishal,Mirpur,1,1,35,50,25,4,0,140,caught,2,DNB,-,-,-,-
+536936,Litton Das,2 Dec 2020,v Rajshahi,Mirpur,1,1,78*,102,53,9,1,147.16,not out,2,DNB,-,-,-,-
+536936,Litton Das,6 Dec 2020,v Dhaka,Mirpur,2,1,47,70,39,3,1,120.51,caught,1,DNB,-,-,-,-
+536936,Litton Das,8 Dec 2020,v Khulna,Mirpur,2,1,4,6,5,0,0,80,caught,1,DNB,-,-,-,-
+536936,Litton Das,12 Dec 2020,v Rajshahi,Mirpur,1,1,55,77,43,5,1,127.9,bowled,2,DNB,-,-,-,-
+536936,Litton Das,14 Dec 2020,v Khulna,Mirpur,2,1,24,14,13,2,2,184.61,bowled,1,DNB,-,-,-,-
+536936,Litton Das,15 Dec 2020,v Dhaka,Mirpur,2,1,40,83,49,4,0,81.63,caught,1,DNB,-,-,-,-
+536936,Litton Das,18 Dec 2020,v Khulna,Mirpur,2,1,23,47,23,2,0,100,run out,1,DNB,-,-,-,-
+536936,Litton Das,28 Mar 2021,v New Zealand,Hamilton,2,2,4,11,5,1,0,80,caught,1,DNB,-,-,-,-
+536936,Litton Das,30 Mar 2021,v New Zealand,Napier,2,2,6,13,5,1,0,120,caught,1,DNB,-,-,-,-
+536936,Litton Das,1 Apr 2021,v New Zealand,Auckland,2,3,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+536936,Litton Das,20 Jun 2021,v Mohammedan,Mirpur,1,2,4,14,7,0,0,57.14,lbw,2,DNB,-,-,-,-
+536936,Litton Das,21 Jun 2021,v Gazi Group,Mirpur,2,1,22,24,17,3,0,129.41,caught,1,DNB,-,-,-,-
+536936,Litton Das,23 Jun 2021,v Prime DSC,Mirpur,2,1,27,41,25,4,0,108,caught,1,DNB,-,-,-,-
+536936,Litton Das,24 Jun 2021,v Sheikh Jamal,Mirpur,1,3,70,86,51,8,1,137.25,run out,2,DNB,-,-,-,-
+536936,Litton Das,26 Jun 2021,v Prime Bank,Mirpur,1,3,19,56,13,2,1,146.15,caught,2,DNB,-,-,-,-
+536936,Litton Das,22 Jul 2021,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+536936,Litton Das,1 Sep 2021,v New Zealand,Mirpur,2,2,1,10,3,0,0,33.33,stumped,1,DNB,-,-,-,-
+536936,Litton Das,3 Sep 2021,v New Zealand,Mirpur,1,2,33,39,29,3,1,113.79,bowled,2,DNB,-,-,-,-
+536936,Litton Das,5 Sep 2021,v New Zealand,Mirpur,2,2,15,10,11,3,0,136.36,lbw,1,DNB,-,-,-,-
+536936,Litton Das,8 Sep 2021,v New Zealand,Mirpur,2,2,6,8,11,1,0,54.54,caught,1,DNB,-,-,-,-
+536936,Litton Das,10 Sep 2021,v New Zealand,Mirpur,2,2,10,18,12,1,0,83.33,caught,1,DNB,-,-,-,-
+536936,Litton Das,17 Oct 2021,v Scotland,Al Amerat,2,1,5,18,7,0,0,71.42,caught,1,DNB,-,-,-,-
+536936,Litton Das,19 Oct 2021,v Oman,Al Amerat,1,2,6,18,7,0,0,85.71,lbw,2,DNB,-,-,-,-
+536936,Litton Das,21 Oct 2021,v P.N.G.,Al Amerat,1,2,29,40,23,1,1,126.08,caught,2,DNB,-,-,-,-
+536936,Litton Das,24 Oct 2021,v Sri Lanka,Sharjah,1,2,16,33,16,2,0,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Oct 2021,v England,Abu Dhabi,1,1,9,13,8,2,0,112.5,caught,2,DNB,-,-,-,-
+536936,Litton Das,29 Oct 2021,v West Indies,Sharjah,2,3,44,81,43,4,0,102.32,caught,1,DNB,-,-,-,-
+536936,Litton Das,2 Nov 2021,v South Africa,Abu Dhabi,1,2,24,63,36,1,0,66.66,lbw,2,DNB,-,-,-,-
+536936,Litton Das,4 Nov 2021,v Australia,Dubai (DICS),1,2,0,5,1,0,0,0,bowled,2,DNB,-,-,-,-
+536936,Litton Das,31 Jan 2022,v Chattogram,Chattogram,1,1,47,46,34,5,1,138.23,caught,2,DNB,-,-,-,-
+536936,Litton Das,1 Feb 2022,v Dhaka,Chattogram,2,1,0,2,3,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,3 Feb 2022,v Chattogram,Mirpur,2,2,53,79,37,4,3,143.24,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Feb 2022,v Barishal,Sylhet,2,1,19,14,17,4,0,111.76,stumped,1,DNB,-,-,-,-
+536936,Litton Das,9 Feb 2022,v Sunrisers,Sylhet,2,1,7,5,4,0,1,175,caught,1,DNB,-,-,-,-
+536936,Litton Das,11 Feb 2022,v Khulna,Mirpur,1,1,41,31,17,4,3,241.17,caught,2,DNB,-,-,-,-
+536936,Litton Das,14 Feb 2022,v Barishal,Mirpur,2,1,38,54,35,4,0,108.57,bowled,1,DNB,-,-,-,-
+536936,Litton Das,16 Feb 2022,v Chattogram,Mirpur,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,18 Feb 2022,v Barishal,Mirpur,1,2,4,12,6,0,0,66.66,bowled,2,DNB,-,-,-,-
+536936,Litton Das,3 Mar 2022,v Afghanistan,Mirpur,1,3,60,74,44,4,2,136.36,caught,2,DNB,-,-,-,-
+536936,Litton Das,5 Mar 2022,v Afghanistan,Mirpur,1,3,13,11,10,0,1,130,caught,2,DNB,-,-,-,-
+536936,Litton Das,2 Jul 2022,v West Indies,Roseau,1,4,9,16,14,2,0,64.28,caught,-,TDNB,-,-,-,-
+536936,Litton Das,3 Jul 2022,v West Indies,Roseau,2,2,5,7,4,1,0,125,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Jul 2022,v West Indies,Providence,1,1,49,63,41,3,2,119.51,caught,2,DNB,-,-,-,-
+536936,Litton Das,30 Jul 2022,v Zimbabwe,Harare,2,2,32,36,19,6,0,168.42,run out,1,DNB,-,-,-,-
+536936,Litton Das,31 Jul 2022,v Zimbabwe,Harare,2,1,56,-,33,6,2,169.69,lbw,1,DNB,-,-,-,-
+536936,Litton Das,2 Aug 2022,v Zimbabwe,Harare,2,1,13,-,6,2,0,216.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,25 Sep 2022,v U.A.E.,Dubai (DICS),1,3,13,-,8,3,0,162.5,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Sep 2022,v U.A.E.,Dubai (DICS),1,3,25,-,20,4,0,125,caught,2,DNB,-,-,-,-
+536936,Litton Das,7 Oct 2022,v Pakistan,Christchurch,2,3,35,40,26,4,1,134.61,caught,1,DNB,-,-,-,-
+536936,Litton Das,9 Oct 2022,v New Zealand,Christchurch,1,3,15,28,16,2,0,93.75,caught,2,DNB,-,-,-,-
+536936,Litton Das,12 Oct 2022,v New Zealand,Christchurch,2,2,23,28,16,3,1,143.75,caught,1,DNB,-,-,-,-
+536936,Litton Das,13 Oct 2022,v Pakistan,Christchurch,1,3,69,63,42,6,2,164.28,caught,2,DNB,-,-,-,-
+536936,Litton Das,24 Oct 2022,v Netherlands,Hobart,1,3,9,17,11,0,0,81.81,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Oct 2022,v South Africa,Sydney,2,3,34,57,31,1,1,109.67,caught,1,DNB,-,-,-,-
+536936,Litton Das,30 Oct 2022,v Zimbabwe,Brisbane,1,3,14,22,12,3,0,116.66,caught,2,DNB,-,-,-,-
+536936,Litton Das,2 Nov 2022,v India,Adelaide,2,2,60,40,27,7,3,222.22,run out,1,DNB,-,-,-,-
+536936,Litton Das,6 Nov 2022,v Pakistan,Adelaide,1,2,10,15,8,0,1,125,caught,2,DNB,-,-,-,-
+536936,Litton Das,6 Jan 2023,v Rangpur,Mirpur,2,2,10,18,12,2,0,83.33,caught,1,DNB,-,-,-,-
+536936,Litton Das,9 Jan 2023,v Strikers,Mirpur,1,1,8,2,4,2,0,200,caught,2,DNB,-,-,-,-
+536936,Litton Das,14 Jan 2023,v Barishal,Chattogram,2,1,32,29,26,1,3,123.07,run out,1,DNB,-,-,-,-
+536936,Litton Das,16 Jan 2023,v Chattogram,Chattogram,2,1,40,29,22,4,3,181.81,bowled,1,DNB,-,-,-,-
+536936,Litton Das,17 Jan 2023,v Strikers,Chattogram,2,1,70,63,42,7,4,166.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,19 Jan 2023,v Dominators,Chattogram,1,1,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+536936,Litton Das,23 Jan 2023,v Dominators,Mirpur,1,2,20,31,20,3,0,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,28 Jan 2023,v Khulna,Sylhet,1,1,50,48,42,9,0,119.04,caught,2,DNB,-,-,-,-
+536936,Litton Das,31 Jan 2023,v Khulna,Sylhet,2,1,4*,3,2,1,0,200,retired notout,1,DNB,-,-,-,-
+536936,Litton Das,7 Feb 2023,v Barishal,Mirpur,2,2,36,73,39,5,0,92.3,caught,1,DNB,-,-,-,-
+536936,Litton Das,10 Feb 2023,v Rangpur,Mirpur,1,2,47,69,33,3,3,142.42,caught,2,DNB,-,-,-,-
+536936,Litton Das,12 Feb 2023,v Strikers,Mirpur,2,1,7,18,10,0,0,70,caught,1,DNB,-,-,-,-
+536936,Litton Das,16 Feb 2023,v Strikers,Mirpur,2,1,55,63,39,7,1,141.02,caught,1,DNB,-,-,-,-
+536936,Litton Das,9 Mar 2023,v England,Chattogram,2,1,12,25,10,2,0,120,caught,1,DNB,-,-,-,-
+536936,Litton Das,12 Mar 2023,v England,Mirpur,2,1,9,11,9,1,0,100,caught,1,DNB,-,-,-,-
+536936,Litton Das,14 Mar 2023,v England,Mirpur,1,1,73,78,57,10,1,128.07,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Mar 2023,v Ireland,Chattogram,1,1,47,34,23,4,3,204.34,caught,2,DNB,-,-,-,-
+536936,Litton Das,29 Mar 2023,v Ireland,Chattogram,1,1,83,51,41,10,3,202.43,caught,2,DNB,-,-,-,-
+536936,Litton Das,31 Mar 2023,v Ireland,Chattogram,1,1,5,4,4,1,0,125,caught,2,DNB,-,-,-,-
+536936,Litton Das,20 Apr 2023,v DC,Delhi,1,2,4,13,4,1,0,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,14 Jul 2023,v Afghanistan,Sylhet,2,1,18,34,19,2,0,94.73,caught,1,DNB,-,-,-,-
+536936,Litton Das,16 Jul 2023,v Afghanistan,Sylhet,2,1,35,45,36,6,0,97.22,caught,1,DNB,-,-,-,-
+536936,Litton Das,15 Aug 2023,v Colombo,Colombo (RPS),2,3,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+536936,Litton Das,17 Aug 2023,v Aura,Colombo (RPS),1,3,8,-,7,1,0,114.28,caught,2,DNB,-,-,-,-
+536936,Litton Das,19 Aug 2023,v B-Love Kandy,Colombo (RPS),2,1,25,-,19,4,0,131.57,bowled,1,DNB,-,-,-,-
+536936,Litton Das,27 Dec 2023,v New Zealand,Napier,2,1,41*,87,36,2,1,113.88,not out,1,DNB,-,-,-,-
+536936,Litton Das,19 Jan 2024,v Dhaka,Mirpur,1,1,13,19,16,1,1,81.25,caught,2,DNB,-,-,-,-
+536936,Litton Das,23 Jan 2024,v Barishal,Mirpur,2,1,14,47,19,1,0,73.68,caught,1,DNB,-,-,-,-
+536936,Litton Das,26 Jan 2024,v Strikers,Sylhet,1,1,8,3,4,2,0,200,lbw,2,DNB,-,-,-,-
+536936,Litton Das,30 Jan 2024,v Rangpur,Sylhet,2,2,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,2 Feb 2024,v Chattogram,Sylhet,2,2,2,-,9,0,0,22.22,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Feb 2024,v Khulna,Mirpur,1,2,45,41,30,2,4,150,bowled,2,DNB,-,-,-,-
+536936,Litton Das,9 Feb 2024,v Dhaka,Mirpur,2,2,8,7,5,0,1,160,lbw,1,DNB,-,-,-,-
+536936,Litton Das,13 Feb 2024,v Chattogram,Chattogram,1,1,60,35,31,9,3,193.54,caught,2,DNB,-,-,-,-
+536936,Litton Das,14 Feb 2024,v Khulna,Chattogram,2,1,2,5,3,0,0,66.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,19 Feb 2024,v Strikers,Chattogram,2,2,85,90,58,7,3,146.55,bowled,1,DNB,-,-,-,-
+536936,Litton Das,20 Feb 2024,v Rangpur,Chattogram,2,1,43,68,42,4,1,102.38,caught,1,DNB,-,-,-,-
+536936,Litton Das,23 Feb 2024,v Barishal,Mirpur,1,2,12,30,12,2,0,100,bowled,2,DNB,-,-,-,-
+536936,Litton Das,26 Feb 2024,v Rangpur,Mirpur,2,2,83,87,57,9,4,145.61,caught,1,DNB,-,-,-,-
+536936,Litton Das,1 Mar 2024,v Barishal,Mirpur,1,2,16,22,12,3,0,133.33,caught,2,DNB,-,-,-,-
+536936,Litton Das,4 Mar 2024,v Sri Lanka,Sylhet,2,1,0,2,3,0,0,0,caught,1,DNB,-,-,-,-
+536936,Litton Das,6 Mar 2024,v Sri Lanka,Sylhet,2,1,36,49,24,5,1,150,caught,1,DNB,-,-,-,-
+536936,Litton Das,9 Mar 2024,v Sri Lanka,Sylhet,2,1,7,-,11,1,0,63.63,caught,1,DNB,-,-,-,-
+536936,Litton Das,3 May 2024,v Zimbabwe,Chattogram,2,2,1,8,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+536936,Litton Das,5 May 2024,v Zimbabwe,Chattogram,2,1,23,48,25,2,1,92,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 May 2024,v Zimbabwe,Chattogram,1,1,12,20,15,2,0,80,bowled,2,DNB,-,-,-,-
+536936,Litton Das,21 May 2024,v U.S.A.,Prairie View,1,1,14,-,15,1,1,93.33,lbw,2,DNB,-,-,-,-
+536936,Litton Das,25 May 2024,v U.S.A.,Prairie View,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+536936,Litton Das,7 Jun 2024,v Sri Lanka,Dallas,2,3,36,63,38,2,1,94.73,lbw,1,DNB,-,-,-,-
+536936,Litton Das,10 Jun 2024,v South Africa,New York,2,3,9,18,13,1,0,69.23,caught,1,DNB,-,-,-,-
+536936,Litton Das,13 Jun 2024,v Netherlands,Kingstown,1,3,1,12,2,0,0,50,caught,2,DNB,-,-,-,-
+536936,Litton Das,16 Jun 2024,v Nepal,Kingstown,1,2,10,-,12,1,0,83.33,caught,2,DNB,-,-,-,-
+536936,Litton Das,20 Jun 2024,v Australia,North Sound,1,2,16,42,25,2,0,64,bowled,2,DNB,-,-,-,-
+536936,Litton Das,22 Jun 2024,v India,North Sound,2,1,13,20,10,1,1,130,caught,1,DNB,-,-,-,-
+536936,Litton Das,24 Jun 2024,v Afghanistan,Kingstown,2,1,54*,95,49,5,1,110.2,not out,1,DNB,-,-,-,-
+536936,Litton Das,6 Oct 2024,v India,Gwalior,1,2,4,4,2,1,0,200,caught,2,DNB,-,-,-,-
+536936,Litton Das,9 Oct 2024,v India,Delhi,2,2,14,25,11,0,1,127.27,bowled,1,DNB,-,-,-,-
+536936,Litton Das,12 Oct 2024,v India,Hyderabad,2,4,42,32,25,8,0,168,caught,1,DNB,-,-,-,-
+536936,Litton Das,15 Dec 2024,v West Indies,Kingstown,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+536936,Litton Das,17 Dec 2024,v West Indies,Kingstown,1,1,3,10,10,0,0,30,stumped,2,DNB,-,-,-,-
+536936,Litton Das,19 Dec 2024,v West Indies,Kingstown,1,1,14,23,13,3,0,107.69,caught,2,DNB,-,-,-,-
+536936,Litton Das,30 Dec 2024,v Rangpur,Mirpur,2,2,31,46,27,3,1,114.81,caught,1,DNB,-,-,-,-
+536936,Litton Das,2 Jan 2025,v Rajshahi,Mirpur,1,1,0,4,5,0,0,0,caught,2,DNB,-,-,-,-
+536936,Litton Das,3 Jan 2025,v Khulna,Mirpur,2,2,2,10,3,0,0,66.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,7 Jan 2025,v Rangpur,Sylhet,1,4,9,20,13,1,0,69.23,caught,2,DNB,-,-,-,-
+536936,Litton Das,10 Jan 2025,v Strikers,Sylhet,1,1,73,69,43,10,1,169.76,lbw,2,DNB,-,-,-,-
+536936,Litton Das,12 Jan 2025,v Rajshahi,Sylhet,1,2,125*,95,55,10,9,227.27,not out,2,DNB,-,-,-,-
+536936,Litton Das,16 Jan 2025,v Barishal,Chattogram,1,2,13,22,17,2,0,76.47,caught,2,DNB,-,-,-,-
+536936,Litton Das,20 Jan 2025,v Strikers,Chattogram,1,2,70,99,48,4,4,145.83,caught,2,DNB,-,-,-,-
+536936,Litton Das,22 Jan 2025,v Chittagong,Chattogram,2,2,25,30,28,3,0,89.28,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Jan 2025,v Barishal,Mirpur,1,2,10,8,8,2,0,125,bowled,2,DNB,-,-,-,-
+536936,Litton Das,1 Feb 2025,v Khulna,Mirpur,1,2,10,12,10,1,1,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,17 May 2025,v U.A.E.,Sharjah,1,3,11,-,8,0,1,137.5,lbw,2,DNB,-,-,-,-
+536936,Litton Das,19 May 2025,v U.A.E.,Sharjah,1,2,40,-,32,3,1,125,caught,2,DNB,-,-,-,-
+536936,Litton Das,21 May 2025,v U.A.E.,Sharjah,1,3,14,-,10,1,1,140,lbw,2,DNB,-,-,-,-
+536936,Litton Das,28 May 2025,v Pakistan,Lahore,2,3,48,-,30,1,3,160,caught,1,DNB,-,-,-,-
+536936,Litton Das,30 May 2025,v Pakistan,Lahore,2,3,6,12,9,0,0,66.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,1 Jun 2025,v Pakistan,Lahore,1,3,22,29,18,1,1,122.22,bowled,2,DNB,-,-,-,-
+536936,Litton Das,10 Jul 2025,v Sri Lanka,Pallekele,1,3,6,14,11,0,0,54.54,lbw,2,DNB,-,-,-,-
+536936,Litton Das,13 Jul 2025,v Sri Lanka,Dambulla,1,3,76,80,50,1,5,152,caught,2,DNB,-,-,-,-
+536936,Litton Das,16 Jul 2025,v Sri Lanka,Colombo (RPS),2,3,32,41,26,2,1,123.07,caught,1,DNB,-,-,-,-
+536936,Litton Das,20 Jul 2025,v Pakistan,Mirpur,2,3,1,7,4,0,0,25,caught,1,DNB,-,-,-,-
+536936,Litton Das,22 Jul 2025,v Pakistan,Mirpur,1,3,8,15,9,1,0,88.88,caught,2,DNB,-,-,-,-
+536936,Litton Das,24 Jul 2025,v Pakistan,Mirpur,2,3,8,7,8,1,0,100,bowled,1,DNB,-,-,-,-
+536936,Litton Das,30 Aug 2025,v Netherlands,Sylhet,2,3,54*,55,29,6,2,186.2,not out,1,DNB,-,-,-,-
+536936,Litton Das,1 Sep 2025,v Netherlands,Sylhet,2,3,18*,41,18,2,0,100,not out,1,DNB,-,-,-,-
+536936,Litton Das,3 Sep 2025,v Netherlands,Sylhet,1,2,73,78,46,6,4,158.69,caught,-,TDNB,-,-,-,-
+536936,Litton Das,11 Sep 2025,v Hong Kong,Abu Dhabi,2,3,59,67,39,6,1,151.28,bowled,1,DNB,-,-,-,-
+536936,Litton Das,13 Sep 2025,v Sri Lanka,Abu Dhabi,1,3,28,47,26,4,0,107.69,caught,2,DNB,-,-,-,-
+536936,Litton Das,16 Sep 2025,v Afghanistan,Abu Dhabi,1,3,9,14,11,0,0,81.81,lbw,2,DNB,-,-,-,-
+536936,Litton Das,20 Sep 2025,v Sri Lanka,Dubai (DICS),2,3,23,28,16,3,0,143.75,caught,1,DNB,-,-,-,-
+536936,Litton Das,27 Oct 2025,v West Indies,Chattogram,2,3,5,6,8,1,0,62.5,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Oct 2025,v West Indies,Chattogram,2,3,23,20,17,4,0,135.29,bowled,1,DNB,-,-,-,-
+536936,Litton Das,31 Oct 2025,v West Indies,Chattogram,1,3,6,18,9,1,0,66.66,caught,2,DNB,-,-,-,-
+536936,Litton Das,27 Nov 2025,v Ireland,Chattogram,2,3,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Nov 2025,v Ireland,Chattogram,2,3,57,73,37,3,3,154.05,lbw,1,DNB,-,-,-,-
+536936,Litton Das,2 Dec 2025,v Ireland,Chattogram,2,3,7,5,6,1,0,116.66,caught,1,DNB,-,-,-,-
+536936,Litton Das,29 Dec 2025,v Chattogram,Sylhet,2,2,47,51,31,4,2,151.61,caught,1,DNB,-,-,-,-
+536936,Litton Das,1 Jan 2026,v Rajshahi,Sylhet,2,2,16,15,11,3,0,145.45,caught,1,DNB,-,-,-,-
+536936,Litton Das,2 Jan 2026,v Sylhet,Sylhet,2,2,35,64,25,4,1,140,caught,1,DNB,-,-,-,-
+536936,Litton Das,4 Jan 2026,v Dhaka,Sylhet,1,2,6,24,6,1,0,100,caught,2,DNB,-,-,-,-
+536936,Litton Das,5 Jan 2026,v Chattogram,Sylhet,2,2,10,13,8,1,0,125,caught,1,DNB,-,-,-,-
+536936,Litton Das,9 Jan 2026,v Noakhali,Sylhet,2,2,15,14,13,3,0,115.38,bowled,1,DNB,-,-,-,-
+536936,Litton Das,11 Jan 2026,v Rajshahi,Sylhet,1,3,11,18,14,1,0,78.57,caught,2,DNB,-,-,-,-
+536936,Litton Das,12 Jan 2026,v Sylhet,Sylhet,1,3,22,14,12,4,0,183.33,bowled,2,DNB,-,-,-,-
+536936,Litton Das,17 Jan 2026,v Dhaka,Mirpur,1,5,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+536936,Litton Das,18 Jan 2026,v Noakhali,Mirpur,2,3,39*,61,35,2,1,111.42,not out,1,DNB,-,-,-,-
+536936,Litton Das,20 Jan 2026,v Sylhet,Mirpur,1,3,1,9,4,0,0,25,caught,2,DNB,-,-,-,-

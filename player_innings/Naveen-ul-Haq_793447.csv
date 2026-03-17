@@ -1,0 +1,224 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+793447,Naveen-ul-Haq,19 Jan 2017,v Namibia,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,1,5,1,2.5
+793447,Naveen-ul-Haq,12 Sep 2017,v BEAD,Kabul,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+793447,Naveen-ul-Haq,13 Sep 2017,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,14 Sep 2017,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,0,6.25
+793447,Naveen-ul-Haq,16 Sep 2017,v Kabul Eagles,Kabul,2,10,2*,10,2,0,0,100,not out,1,4.0,0,22,1,5.5
+793447,Naveen-ul-Haq,17 Sep 2017,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+793447,Naveen-ul-Haq,20 Sep 2017,v BEAD,Kabul,1,10,0*,1,0,0,0,-,not out,2,3.1,0,25,1,7.89
+793447,Naveen-ul-Haq,22 Sep 2017,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+793447,Naveen-ul-Haq,6 Oct 2018,v Knights,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+793447,Naveen-ul-Haq,7 Oct 2018,v Panthers,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,48,0,16
+793447,Naveen-ul-Haq,9 Oct 2018,v Kabul Zwanan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+793447,Naveen-ul-Haq,11 Oct 2018,v Legends,Sharjah,2,9,3,-,4,0,0,75,caught,1,3.0,0,14,0,4.66
+793447,Naveen-ul-Haq,12 Oct 2018,v Kabul Zwanan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+793447,Naveen-ul-Haq,13 Oct 2018,v Knights,Sharjah,2,8,1,-,2,0,0,50,caught,1,4.0,0,22,1,5.5
+793447,Naveen-ul-Haq,14 Oct 2018,v Panthers,Sharjah,1,8,13,-,16,1,0,81.25,caught,2,2.0,0,25,0,12.5
+793447,Naveen-ul-Haq,17 Oct 2018,v Legends,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+793447,Naveen-ul-Haq,19 Oct 2018,v Legends,Sharjah,2,9,4*,-,14,0,0,28.57,not out,1,4.0,0,33,1,8.25
+793447,Naveen-ul-Haq,21 Sep 2019,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+793447,Naveen-ul-Haq,8 Oct 2019,v BDD,Kabul,1,9,16*,14,14,0,1,114.28,not out,2,4.0,0,16,1,4
+793447,Naveen-ul-Haq,9 Oct 2019,v BEAD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+793447,Naveen-ul-Haq,11 Oct 2019,v SGT,Kabul,2,9,1,4,2,0,0,50,caught,1,4.0,1,29,1,7.25
+793447,Naveen-ul-Haq,13 Oct 2019,v Kabul Eagles,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+793447,Naveen-ul-Haq,14 Oct 2019,v Amo Sharks,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+793447,Naveen-ul-Haq,16 Oct 2019,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,18 Oct 2019,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,3,10.25
+793447,Naveen-ul-Haq,14 Nov 2019,v West Indies,Lucknow,2,10,5,-,5,1,0,100,caught,1,4.0,0,39,1,9.75
+793447,Naveen-ul-Haq,16 Nov 2019,v West Indies,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+793447,Naveen-ul-Haq,17 Nov 2019,v West Indies,Lucknow,1,10,2*,-,2,0,0,100,not out,2,4.0,0,24,3,6
+793447,Naveen-ul-Haq,11 Dec 2019,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+793447,Naveen-ul-Haq,13 Dec 2019,v Royals,Mirpur,1,8,2,-,6,0,0,33.33,run out,2,2.0,0,19,1,9.5
+793447,Naveen-ul-Haq,21 Dec 2019,v Khulna,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+793447,Naveen-ul-Haq,30 Dec 2019,v Rangers,Mirpur,1,10,0*,-,3,0,0,0,not out,2,4.0,0,13,2,3.25
+793447,Naveen-ul-Haq,2 Jan 2020,v Warriors,Sylhet,2,9,15,-,7,3,0,214.28,run out,1,4.0,0,25,0,6.25
+793447,Naveen-ul-Haq,4 Jan 2020,v Royals,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+793447,Naveen-ul-Haq,10 Mar 2020,v Ireland,Greater Noida,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+793447,Naveen-ul-Haq,18 Aug 2020,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.4,0,21,2,5.72
+793447,Naveen-ul-Haq,19 Aug 2020,v Patriots,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+793447,Naveen-ul-Haq,22 Aug 2020,v Tallawahs,Tarouba,1,9,14,-,17,1,0,82.35,caught,2,4.0,0,22,1,5.5
+793447,Naveen-ul-Haq,25 Aug 2020,v Tallawahs,Port of Spain,1,9,20*,-,20,0,1,100,not out,2,4.0,0,35,2,8.75
+793447,Naveen-ul-Haq,27 Aug 2020,v Trinbago,Port of Spain,1,9,1*,-,1,0,0,100,not out,2,3.0,0,19,0,6.33
+793447,Naveen-ul-Haq,30 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+793447,Naveen-ul-Haq,1 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,4,3.5
+793447,Naveen-ul-Haq,2 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,1,24,2,6
+793447,Naveen-ul-Haq,3 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+793447,Naveen-ul-Haq,8 Sep 2020,v Zouks,Tarouba,1,10,0*,-,3,0,0,0,not out,2,1.0,0,16,0,16
+793447,Naveen-ul-Haq,26 Nov 2020,v Kings,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+793447,Naveen-ul-Haq,28 Nov 2020,v Viiking,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+793447,Naveen-ul-Haq,30 Nov 2020,v Galle,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+793447,Naveen-ul-Haq,1 Dec 2020,v Stallions,Hambantota,2,9,4,-,3,1,0,133.33,caught,1,4.0,0,44,3,11
+793447,Naveen-ul-Haq,3 Dec 2020,v Viiking,Hambantota,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+793447,Naveen-ul-Haq,17 Mar 2021,v Zimbabwe,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+793447,Naveen-ul-Haq,19 Mar 2021,v Zimbabwe,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,2,9.33
+793447,Naveen-ul-Haq,20 Mar 2021,v Zimbabwe,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+793447,Naveen-ul-Haq,10 Jun 2021,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+793447,Naveen-ul-Haq,11 Jun 2021,v Derbyshire,Leicester,2,9,0,1,1,0,0,0,caught,1,4.0,0,26,3,6.5
+793447,Naveen-ul-Haq,13 Jun 2021,v Durham,Leicester,1,10,3*,5,3,0,0,100,not out,2,3.5,0,46,1,12
+793447,Naveen-ul-Haq,15 Jun 2021,v Yorkshire,Leeds,2,10,0*,1,0,0,0,-,not out,1,4.0,0,49,2,12.25
+793447,Naveen-ul-Haq,16 Jun 2021,v Bears,Leicester,2,10,4,6,4,1,0,100,caught,1,4.0,0,20,2,5
+793447,Naveen-ul-Haq,20 Jun 2021,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+793447,Naveen-ul-Haq,22 Jun 2021,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,3.4,0,17,2,4.63
+793447,Naveen-ul-Haq,25 Jun 2021,v Yorkshire,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+793447,Naveen-ul-Haq,27 Jun 2021,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+793447,Naveen-ul-Haq,29 Jun 2021,v Northants,Leicester,1,11,6,3,2,0,1,300,caught,2,3.2,0,27,2,8.1
+793447,Naveen-ul-Haq,1 Jul 2021,v Notts,Nottingham,1,10,2,6,3,0,0,66.66,run out,2,3.5,0,44,2,11.47
+793447,Naveen-ul-Haq,2 Jul 2021,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,2,7
+793447,Naveen-ul-Haq,16 Jul 2021,v Notts,Leicester,2,10,8*,4,2,2,0,400,not out,1,4.0,0,33,3,8.25
+793447,Naveen-ul-Haq,18 Jul 2021,v Worcs,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+793447,Naveen-ul-Haq,26 Aug 2021,v Trinbago,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+793447,Naveen-ul-Haq,28 Aug 2021,v Patriots,Basseterre,1,8,4,6,6,0,0,66.66,caught,2,3.0,0,28,1,9.33
+793447,Naveen-ul-Haq,29 Aug 2021,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+793447,Naveen-ul-Haq,1 Sep 2021,v Trinbago,Basseterre,2,9,13*,16,5,1,1,260,not out,1,3.0,0,31,1,10.33
+793447,Naveen-ul-Haq,2 Sep 2021,v Kings,Basseterre,2,9,1,6,5,0,0,20,caught,1,3.0,0,32,0,10.66
+793447,Naveen-ul-Haq,8 Sep 2021,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+793447,Naveen-ul-Haq,11 Sep 2021,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.1,0,8,2,2.52
+793447,Naveen-ul-Haq,12 Sep 2021,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+793447,Naveen-ul-Haq,14 Sep 2021,v Patriots,Basseterre,1,10,10,18,11,1,0,90.9,caught,2,2.0,0,18,0,9
+793447,Naveen-ul-Haq,25 Oct 2021,v Scotland,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+793447,Naveen-ul-Haq,29 Oct 2021,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+793447,Naveen-ul-Haq,31 Oct 2021,v Namibia,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+793447,Naveen-ul-Haq,3 Nov 2021,v India,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,59,0,14.75
+793447,Naveen-ul-Haq,7 Nov 2021,v New Zealand,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+793447,Naveen-ul-Haq,6 Dec 2021,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+793447,Naveen-ul-Haq,8 Dec 2021,v Dambulla,Colombo (RPS),2,5,3,-,6,0,0,50,caught,1,4.0,0,37,0,9.25
+793447,Naveen-ul-Haq,10 Dec 2021,v Jaffna Kings,Colombo (RPS),2,11,1*,-,2,0,0,50,not out,1,4.0,0,36,1,9
+793447,Naveen-ul-Haq,11 Dec 2021,v Dambulla,Colombo (RPS),2,10,0*,-,0,0,0,-,not out,1,3.0,0,15,0,5
+793447,Naveen-ul-Haq,12 Dec 2021,v Galle,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,27,3,7.04
+793447,Naveen-ul-Haq,14 Dec 2021,v Warriors,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+793447,Naveen-ul-Haq,16 Dec 2021,v Jaffna Kings,Colombo (RPS),2,11,4,-,4,1,0,100,bowled,1,4.0,0,27,3,6.75
+793447,Naveen-ul-Haq,17 Dec 2021,v Warriors,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+793447,Naveen-ul-Haq,19 Dec 2021,v Dambulla,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,21 Jan 2022,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+793447,Naveen-ul-Haq,24 Jan 2022,v Chattogram,Mirpur,2,12,1*,3,2,0,0,50,not out,1,4.0,0,48,1,12
+793447,Naveen-ul-Haq,12 Feb 2022,v Victorians,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+793447,Naveen-ul-Haq,26 May 2022,v Durham,Leicester,2,10,6,11,8,1,0,75,bowled,1,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,28 May 2022,v Derbyshire,Leicester,2,11,0,4,2,0,0,0,caught,1,4.0,0,34,1,8.5
+793447,Naveen-ul-Haq,29 May 2022,v Yorkshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,4,8.5
+793447,Naveen-ul-Haq,1 Jun 2022,v Northants,Northampton,2,10,6,9,7,1,0,85.71,lbw,1,4.0,0,43,0,10.75
+793447,Naveen-ul-Haq,2 Jun 2022,v Bears,Birmingham,1,9,0,2,2,0,0,0,caught,2,4.0,0,24,1,6
+793447,Naveen-ul-Haq,5 Jun 2022,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,11,5,2.75
+793447,Naveen-ul-Haq,7 Jun 2022,v Lancashire,Leicester,1,10,5,5,4,0,0,125,run out,2,3.1,0,32,2,10.1
+793447,Naveen-ul-Haq,9 Jun 2022,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,3.4,0,48,0,13.09
+793447,Naveen-ul-Haq,10 Jun 2022,v Notts,Leicester,1,10,7,4,7,1,0,100,bowled,2,2.0,0,21,2,10.5
+793447,Naveen-ul-Haq,17 Jun 2022,v Worcs,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+793447,Naveen-ul-Haq,19 Jun 2022,v Durham,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+793447,Naveen-ul-Haq,21 Jun 2022,v Notts,Nottingham,1,10,7,7,4,1,0,175,run out,2,3.4,0,24,4,6.54
+793447,Naveen-ul-Haq,1 Jul 2022,v Northants,Leicester,1,-,DNB,-,-,-,-,-,-,2,3.5,0,26,0,6.78
+793447,Naveen-ul-Haq,3 Jul 2022,v Yorkshire,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+793447,Naveen-ul-Haq,9 Aug 2022,v Ireland,Belfast,1,9,1*,6,1,0,0,100,not out,2,3.5,1,39,1,10.17
+793447,Naveen-ul-Haq,11 Aug 2022,v Ireland,Belfast,1,9,10*,17,13,1,0,76.92,not out,2,3.0,0,12,1,4
+793447,Naveen-ul-Haq,12 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,3,9.5
+793447,Naveen-ul-Haq,15 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,2,12.5
+793447,Naveen-ul-Haq,17 Aug 2022,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+793447,Naveen-ul-Haq,27 Aug 2022,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+793447,Naveen-ul-Haq,30 Aug 2022,v Bangladesh,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+793447,Naveen-ul-Haq,3 Sep 2022,v Sri Lanka,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+793447,Naveen-ul-Haq,4 Nov 2022,v Australia,Adelaide,2,9,0*,4,0,0,0,-,not out,1,4.0,0,21,3,5.25
+793447,Naveen-ul-Haq,8 Dec 2022,v Aura,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+793447,Naveen-ul-Haq,11 Dec 2022,v Galle,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+793447,Naveen-ul-Haq,12 Dec 2022,v Jaffna Kings,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+793447,Naveen-ul-Haq,13 Dec 2022,v Galle,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+793447,Naveen-ul-Haq,17 Dec 2022,v Scorchers,Perth,2,10,2,6,6,0,0,33.33,caught,1,4.0,0,33,1,8.25
+793447,Naveen-ul-Haq,22 Dec 2022,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+793447,Naveen-ul-Haq,10 Feb 2023,v Victorians,Mirpur,2,10,0,4,3,0,0,0,run out,1,4.0,0,49,0,12.25
+793447,Naveen-ul-Haq,16 Feb 2023,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+793447,Naveen-ul-Haq,18 Feb 2023,v U.A.E.,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+793447,Naveen-ul-Haq,19 Feb 2023,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,43,1,14.33
+793447,Naveen-ul-Haq,2 Mar 2023,v Qalandars,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+793447,Naveen-ul-Haq,5 Mar 2023,v United,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+793447,Naveen-ul-Haq,6 Mar 2023,v Kings,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+793447,Naveen-ul-Haq,11 Mar 2023,v Sultans,Rawalpindi,2,10,17*,11,7,3,0,242.85,not out,1,4.0,0,41,0,10.25
+793447,Naveen-ul-Haq,24 Mar 2023,v Pakistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+793447,Naveen-ul-Haq,26 Mar 2023,v Pakistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,19 Apr 2023,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,0,4.75
+793447,Naveen-ul-Haq,22 Apr 2023,v GT,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+793447,Naveen-ul-Haq,28 Apr 2023,v Punjab Kings,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+793447,Naveen-ul-Haq,1 May 2023,v RCB,Lucknow,2,10,13,20,13,2,0,100,caught,1,4.0,0,30,3,7.5
+793447,Naveen-ul-Haq,3 May 2023,v CSK,Lucknow,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+793447,Naveen-ul-Haq,16 May 2023,v MI,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+793447,Naveen-ul-Haq,20 May 2023,v KKR,Eden Gardens,1,10,2*,3,3,0,0,66.66,not out,2,4.0,0,46,0,11.5
+793447,Naveen-ul-Haq,24 May 2023,v MI,Chennai,2,10,1*,10,5,0,0,20,not out,1,4.0,0,38,4,9.5
+793447,Naveen-ul-Haq,1 Jun 2023,v Derbyshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+793447,Naveen-ul-Haq,2 Jun 2023,v Northants,Northampton,1,9,25*,9,8,1,3,312.5,not out,2,4.0,0,26,1,6.5
+793447,Naveen-ul-Haq,4 Jun 2023,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+793447,Naveen-ul-Haq,6 Jun 2023,v Yorkshire,Leicester,2,9,0,2,1,0,0,0,caught,1,4.0,0,39,1,9.75
+793447,Naveen-ul-Haq,16 Jun 2023,v Yorkshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+793447,Naveen-ul-Haq,29 Dec 2023,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+793447,Naveen-ul-Haq,31 Dec 2023,v U.A.E.,Sharjah,2,10,0,-,1,0,0,0,caught,1,4.0,0,35,0,8.75
+793447,Naveen-ul-Haq,2 Jan 2024,v U.A.E.,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+793447,Naveen-ul-Haq,11 Jan 2024,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.3,0,43,0,12.28
+793447,Naveen-ul-Haq,14 Jan 2024,v India,Indore,1,10,1*,2,1,0,0,100,not out,2,3.0,0,33,1,11
+793447,Naveen-ul-Haq,20 Jan 2024,v Sunrisers,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14
+793447,Naveen-ul-Haq,23 Jan 2024,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+793447,Naveen-ul-Haq,26 Jan 2024,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,1,6.85
+793447,Naveen-ul-Haq,28 Jan 2024,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,1,6
+793447,Naveen-ul-Haq,30 Jan 2024,v Capitals,Durban,1,11,10*,2,3,1,1,333.33,not out,2,3.0,0,20,1,6.66
+793447,Naveen-ul-Haq,3 Feb 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+793447,Naveen-ul-Haq,6 Feb 2024,v Sunrisers,Cape Town,2,10,2,5,5,0,0,40,caught,1,4.0,0,31,1,7.75
+793447,Naveen-ul-Haq,8 Feb 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+793447,Naveen-ul-Haq,10 Feb 2024,v Sunrisers,Cape Town,2,10,3*,8,5,0,0,60,not out,1,4.0,0,39,0,9.75
+793447,Naveen-ul-Haq,17 Feb 2024,v Sri Lanka,Dambulla,2,10,1,2,2,0,0,50,bowled,1,3.0,0,25,2,8.33
+793447,Naveen-ul-Haq,19 Feb 2024,v Sri Lanka,Dambulla,2,10,5,11,9,1,0,55.55,bowled,1,4.0,0,46,1,11.5
+793447,Naveen-ul-Haq,23 Feb 2024,v Sultans,Multan,1,9,6,6,4,1,0,150,caught,2,4.0,0,44,2,11
+793447,Naveen-ul-Haq,25 Feb 2024,v Qalandars,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,2,12.5
+793447,Naveen-ul-Haq,26 Feb 2024,v United,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+793447,Naveen-ul-Haq,5 Mar 2024,v Sultans,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+793447,Naveen-ul-Haq,8 Mar 2024,v Gladiators,Rawalpindi,1,10,10*,20,9,0,1,111.11,not out,2,2.0,0,25,1,12.5
+793447,Naveen-ul-Haq,11 Mar 2024,v Kings,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,22,2,5.5
+793447,Naveen-ul-Haq,15 Mar 2024,v Ireland,Sharjah,2,10,13,22,15,1,1,86.66,caught,1,4.0,0,52,0,13
+793447,Naveen-ul-Haq,17 Mar 2024,v Ireland,Sharjah,1,10,0,1,1,0,0,0,caught,2,4.0,0,23,0,5.75
+793447,Naveen-ul-Haq,18 Mar 2024,v Ireland,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.2,0,10,3,4.28
+793447,Naveen-ul-Haq,24 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+793447,Naveen-ul-Haq,30 Mar 2024,v Punjab Kings,Lucknow,1,10,0*,2,0,0,0,-,not out,2,4.0,0,43,0,10.75
+793447,Naveen-ul-Haq,2 Apr 2024,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.4,0,25,2,6.81
+793447,Naveen-ul-Haq,7 Apr 2024,v GT,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+793447,Naveen-ul-Haq,12 Apr 2024,v DC,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+793447,Naveen-ul-Haq,30 Apr 2024,v MI,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.5,0,15,1,3.91
+793447,Naveen-ul-Haq,5 May 2024,v KKR,Lucknow,2,11,0*,-,0,0,0,-,not out,1,4.0,0,49,3,12.25
+793447,Naveen-ul-Haq,8 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,37,0,18.5
+793447,Naveen-ul-Haq,14 May 2024,v DC,Delhi,2,11,2*,7,4,0,0,50,not out,1,4.0,0,51,2,12.75
+793447,Naveen-ul-Haq,17 May 2024,v MI,Wankhede,1,-,sub,-,-,-,-,-,-,2,4.0,0,50,2,12.5
+793447,Naveen-ul-Haq,3 Jun 2024,v Uganda,Providence,1,-,DNB,-,-,-,-,-,-,2,2.0,0,4,2,2
+793447,Naveen-ul-Haq,7 Jun 2024,v New Zealand,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+793447,Naveen-ul-Haq,13 Jun 2024,v P.N.G.,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.5,0,4,2,1.41
+793447,Naveen-ul-Haq,17 Jun 2024,v West Indies,Gros Islet,2,10,4,5,6,1,0,66.66,caught,1,4.0,0,41,1,10.25
+793447,Naveen-ul-Haq,20 Jun 2024,v India,Bridgetown,2,10,0,1,1,0,0,0,caught,1,4.0,0,40,1,10
+793447,Naveen-ul-Haq,22 Jun 2024,v Australia,Kingstown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+793447,Naveen-ul-Haq,24 Jun 2024,v Bangladesh,Kingstown,1,-,DNB,-,-,-,-,-,-,2,3.5,0,26,4,6.78
+793447,Naveen-ul-Haq,26 Jun 2024,v South Africa,Tarouba,1,10,2,9,8,0,0,25,lbw,2,3.0,0,15,0,5
+793447,Naveen-ul-Haq,5 Jul 2024,v Los Angeles,Dallas,2,10,6*,-,7,1,0,85.71,not out,1,4.0,0,31,0,7.75
+793447,Naveen-ul-Haq,8 Jul 2024,v Washington,Morrisville,1,-,DNB,-,-,-,-,-,-,2,1.0,0,18,0,18
+793447,Naveen-ul-Haq,10 Jul 2024,v SF,Morrisville,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+793447,Naveen-ul-Haq,14 Jul 2024,v MI New York,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+793447,Naveen-ul-Haq,21 Aug 2024,v Amo Sharks,Kabul,2,11,0,2,1,0,0,0,caught,1,3.0,0,42,0,14
+793447,Naveen-ul-Haq,22 Aug 2024,v BDD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+793447,Naveen-ul-Haq,24 Aug 2024,v Amo Sharks,Kabul,1,-,DNB,-,-,-,-,-,-,2,3.5,0,40,0,10.43
+793447,Naveen-ul-Haq,1 Sep 2024,v Falcons,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+793447,Naveen-ul-Haq,6 Sep 2024,v Patriots,Basseterre,2,10,0*,-,0,0,0,-,not out,1,4.0,0,37,0,9.25
+793447,Naveen-ul-Haq,11 Sep 2024,v Falcons,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,2,11.33
+793447,Naveen-ul-Haq,13 Sep 2024,v Trinbago,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+793447,Naveen-ul-Haq,14 Sep 2024,v Amazon,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+793447,Naveen-ul-Haq,17 Sep 2024,v Patriots,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+793447,Naveen-ul-Haq,25 Sep 2024,v Amazon,Providence,2,11,1*,20,4,0,0,25,not out,1,4.0,0,45,0,11.25
+793447,Naveen-ul-Haq,27 Sep 2024,v Trinbago,Tarouba,2,10,1*,6,3,0,0,33.33,not out,1,4.0,0,35,3,8.75
+793447,Naveen-ul-Haq,1 Oct 2024,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+793447,Naveen-ul-Haq,4 Oct 2024,v Amazon,Providence,1,9,0,1,1,0,0,0,caught,2,2.0,0,26,0,13
+793447,Naveen-ul-Haq,11 Dec 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,1,33,3,8.25
+793447,Naveen-ul-Haq,13 Dec 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+793447,Naveen-ul-Haq,14 Dec 2024,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,3.5,0,27,2,7.04
+793447,Naveen-ul-Haq,10 Jan 2025,v Capitals,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+793447,Naveen-ul-Haq,12 Jan 2025,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+793447,Naveen-ul-Haq,14 Jan 2025,v Super Kings,Durban,2,11,1,3,4,0,0,25,caught,1,4.0,0,52,1,13
+793447,Naveen-ul-Haq,17 Jan 2025,v Sunrisers,Durban,2,11,0*,2,1,0,0,0,not out,1,4.0,0,44,1,11
+793447,Naveen-ul-Haq,19 Jan 2025,v Sunrisers,Gqeberha,1,10,30*,12,15,4,1,200,not out,2,3.0,0,28,1,9.33
+793447,Naveen-ul-Haq,21 Jan 2025,v MI Cape Town,Durban,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+793447,Naveen-ul-Haq,23 Jan 2025,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,2.3,0,26,0,10.4
+793447,Naveen-ul-Haq,1 Feb 2025,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+793447,Naveen-ul-Haq,13 Jun 2025,v Texas,Oakland,2,10,2*,-,4,0,0,50,not out,1,4.0,0,39,1,9.75
+793447,Naveen-ul-Haq,15 Jun 2025,v SF,Oakland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+793447,Naveen-ul-Haq,18 Jun 2025,v Seattle,Oakland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,64,2,16
+793447,Naveen-ul-Haq,21 Jun 2025,v Washington,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+793447,Naveen-ul-Haq,23 Jun 2025,v SF,Dallas,2,-,DNB,-,-,-,-,-,-,1,3.2,0,33,1,9.9
+793447,Naveen-ul-Haq,7 Dec 2025,v Warriorz,Sharjah,1,10,0*,2,0,0,0,-,not out,2,4.0,0,29,2,7.25
+793447,Naveen-ul-Haq,17 Dec 2025,v DC,Dubai (DICS),1,10,2*,-,4,0,0,50,not out,2,4.0,0,27,2,6.75

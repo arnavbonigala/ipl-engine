@@ -1,0 +1,240 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+422108,KL Rahul,17 Mar 2013,v Goa,Shimoga,2,3,5*,-,9,0,0,55.55,not out,1,DNB,-,-,-,-
+422108,KL Rahul,18 Mar 2013,v Kerala,Bhadravati,1,3,62,-,37,5,2,167.56,caught,2,DNB,-,-,-,-
+422108,KL Rahul,19 Mar 2013,v Tamil Nadu,Shimoga,1,3,2,9,2,0,0,100,run out,2,DNB,-,-,-,-
+422108,KL Rahul,21 Mar 2013,v Hyderabad,Bhadravati,1,3,31,-,19,2,2,163.15,caught,2,DNB,-,-,-,-
+422108,KL Rahul,22 Mar 2013,v Andhra,Shimoga,2,3,60*,68,48,4,2,125,not out,1,DNB,-,-,-,-
+422108,KL Rahul,26 Mar 2013,v Punjab,Indore,2,3,1,-,4,0,0,25,lbw,1,DNB,-,-,-,-
+422108,KL Rahul,28 Mar 2013,v UP,Indore,2,4,34,54,28,4,0,121.42,run out,1,DNB,-,-,-,-
+422108,KL Rahul,29 Mar 2013,v Bengal,Indore,2,4,51,49,33,5,2,154.54,caught,1,DNB,-,-,-,-
+422108,KL Rahul,30 Mar 2013,v Baroda,Indore,1,3,4,7,4,0,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,11 Apr 2013,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2013,v Daredevils,Bengaluru,2,2,12,14,12,2,0,100,caught,1,DNB,-,-,-,-
+422108,KL Rahul,2 May 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,14 May 2013,v Kings XI,Bengaluru,1,6,8,2,4,2,0,200,caught,2,DNB,-,-,-,-
+422108,KL Rahul,18 May 2013,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,1 Apr 2014,v Andhra,Vizianagaram,2,2,41,44,34,3,2,120.58,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,2 Apr 2014,v Hyderabad,Visakhapatnam,1,3,3,-,7,0,0,42.85,caught,2,DNB,-,-,-,-
+422108,KL Rahul,3 Apr 2014,v Kerala,Visakhapatnam,2,3,3,8,7,0,0,42.85,caught,1,DNB,-,-,-,-
+422108,KL Rahul,4 Apr 2014,v Goa,Visakhapatnam,2,4,6,16,13,1,0,46.15,caught,1,DNB,-,-,-,-
+422108,KL Rahul,5 Apr 2014,v Tamil Nadu,Visakhapatnam,1,5,22,-,31,1,0,70.96,caught,2,DNB,-,-,-,-
+422108,KL Rahul,18 Apr 2014,v RR,Abu Dhabi,1,4,20,-,18,1,1,111.11,caught,2,DNB,-,-,-,-
+422108,KL Rahul,22 Apr 2014,v Kings XI,Sharjah,2,4,27,45,27,1,1,100,caught,1,DNB,-,-,-,-
+422108,KL Rahul,25 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,27 Apr 2014,v CSK,Sharjah,1,4,25,30,27,1,1,92.59,caught,2,DNB,-,-,-,-
+422108,KL Rahul,30 Apr 2014,v MI,Dubai (DICS),1,3,46,85,40,3,0,115,caught,2,DNB,-,-,-,-
+422108,KL Rahul,4 May 2014,v RCB,Bengaluru,1,3,6,5,6,1,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,8 May 2014,v RR,Ahmedabad,1,3,18,23,18,2,0,100,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,10 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422108,KL Rahul,12 May 2014,v MI,Hyderabad,1,3,10,20,13,1,0,76.92,run out,2,DNB,-,-,-,-
+422108,KL Rahul,14 May 2014,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,18 May 2014,v KKR,Hyderabad,1,5,14,18,15,2,0,93.33,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,11 Apr 2015,v CSK,Chennai,2,3,5,12,8,1,0,62.5,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,13 Apr 2015,v RCB,Bengaluru,2,4,44*,44,28,4,1,157.14,not out,1,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2015,v RR,Visakhapatnam,1,3,2,8,5,0,0,40,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,18 Apr 2015,v Daredevils,Visakhapatnam,2,4,24,20,21,0,2,114.28,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,22 Apr 2015,v KKR,Visakhapatnam,1,6,0*,-,3,0,0,0,not out,2,DNB,-,-,-,-
+422108,KL Rahul,25 Apr 2015,v MI,Wankhede,2,3,25,44,27,0,1,92.59,caught,1,DNB,-,-,-,-
+422108,KL Rahul,11 May 2015,v Kings XI,Hyderabad,1,6,17*,15,10,1,1,170,not out,2,DNB,-,-,-,-
+422108,KL Rahul,15 May 2015,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,17 May 2015,v MI,Hyderabad,1,5,25,30,24,2,0,104.16,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,20 Apr 2016,v MI,Wankhede,1,2,23,18,14,2,2,164.28,caught,2,DNB,-,-,-,-
+422108,KL Rahul,22 Apr 2016,v Supergiants,Pune,1,2,7,15,10,1,0,70,caught,2,DNB,-,-,-,-
+422108,KL Rahul,24 Apr 2016,v Guj Lions,Rajkot,1,4,51*,57,35,4,3,145.71,not out,2,DNB,-,-,-,-
+422108,KL Rahul,30 Apr 2016,v SRH,Hyderabad,2,2,51,47,28,6,1,182.14,caught,1,DNB,-,-,-,-
+422108,KL Rahul,2 May 2016,v KKR,Bengaluru,1,1,52,50,32,6,2,162.5,caught,2,DNB,-,-,-,-
+422108,KL Rahul,7 May 2016,v Supergiants,Bengaluru,2,2,38,52,35,1,2,108.57,caught,1,DNB,-,-,-,-
+422108,KL Rahul,9 May 2016,v Kings XI,Mohali,1,2,42,34,25,6,1,168,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,11 May 2016,v MI,Bengaluru,1,4,68*,81,53,3,4,128.3,not out,2,DNB,-,-,-,-
+422108,KL Rahul,14 May 2016,v Guj Lions,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,16 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422108,KL Rahul,18 May 2016,v Kings XI,Bengaluru,1,4,16*,-,6,3,0,266.66,not out,2,DNB,-,-,-,-
+422108,KL Rahul,22 May 2016,v Daredevils,Raipur,2,4,38,34,23,4,1,165.21,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,24 May 2016,v Guj Lions,Bengaluru,2,4,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+422108,KL Rahul,29 May 2016,v SRH,Bengaluru,2,4,11,16,9,1,0,122.22,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,18 Jun 2016,v Zimbabwe,Harare,2,1,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,20 Jun 2016,v Zimbabwe,Harare,2,1,47*,56,40,2,2,117.5,not out,1,DNB,-,-,-,-
+422108,KL Rahul,22 Jun 2016,v Zimbabwe,Harare,1,1,22,21,20,3,1,110,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,27 Aug 2016,v West Indies,Lauderhill,2,4,110*,84,51,12,5,215.68,not out,1,DNB,-,-,-,-
+422108,KL Rahul,28 Aug 2016,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422108,KL Rahul,26 Jan 2017,v England,Kanpur,1,2,8,21,9,1,0,88.88,caught,2,DNB,-,-,-,-
+422108,KL Rahul,29 Jan 2017,v England,Nagpur,1,2,71,75,47,6,2,151.06,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 Feb 2017,v England,Bengaluru,1,2,22,39,18,2,1,122.22,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,6 Sep 2017,v Sri Lanka,Colombo (RPS),2,2,24,-,18,3,0,133.33,caught,1,DNB,-,-,-,-
+422108,KL Rahul,20 Dec 2017,v Sri Lanka,Cuttack,1,2,61,68,48,7,1,127.08,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,22 Dec 2017,v Sri Lanka,Indore,1,2,89,94,49,5,8,181.63,caught,2,DNB,-,-,-,-
+422108,KL Rahul,24 Dec 2017,v Sri Lanka,Wankhede,2,2,4,14,9,0,0,44.44,lbw,1,DNB,-,-,-,-
+422108,KL Rahul,12 Mar 2018,v Sri Lanka,Colombo (RPS),2,3,18,-,17,1,0,105.88,hit wicket,1,DNB,-,-,-,-
+422108,KL Rahul,14 Mar 2018,v Bangladesh,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422108,KL Rahul,18 Mar 2018,v Bangladesh,Colombo (RPS),2,4,24,-,14,2,1,171.42,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 Apr 2018,v Daredevils,Mohali,2,1,51,-,16,6,4,318.75,caught,1,DNB,-,-,-,-
+422108,KL Rahul,13 Apr 2018,v RCB,Bengaluru,1,1,47,-,30,2,4,156.66,caught,2,DNB,-,-,-,-
+422108,KL Rahul,15 Apr 2018,v CSK,Mohali,1,1,37,-,22,7,0,168.18,caught,2,DNB,-,-,-,-
+422108,KL Rahul,19 Apr 2018,v SRH,Mohali,1,1,18,-,21,3,0,85.71,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,21 Apr 2018,v KKR,Eden Gardens,2,1,60,-,27,9,2,222.22,caught,1,DNB,-,-,-,-
+422108,KL Rahul,23 Apr 2018,v Daredevils,Delhi,1,1,23,-,15,3,1,153.33,caught,2,DNB,-,-,-,-
+422108,KL Rahul,26 Apr 2018,v SRH,Hyderabad,2,1,32,-,26,4,1,123.07,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,4 May 2018,v MI,Indore,1,1,24,-,20,1,2,120,caught,2,DNB,-,-,-,-
+422108,KL Rahul,6 May 2018,v RR,Indore,2,1,84*,-,54,7,3,155.55,not out,1,DNB,-,-,-,-
+422108,KL Rahul,8 May 2018,v RR,Jaipur,2,1,95*,-,70,11,2,135.71,not out,1,DNB,-,-,-,-
+422108,KL Rahul,12 May 2018,v KKR,Indore,2,1,66,-,29,2,7,227.58,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,14 May 2018,v RCB,Indore,1,1,21,-,15,0,3,140,caught,2,DNB,-,-,-,-
+422108,KL Rahul,16 May 2018,v MI,Wankhede,2,1,94,-,60,10,3,156.66,caught,1,DNB,-,-,-,-
+422108,KL Rahul,20 May 2018,v CSK,Pune,1,1,7,-,11,1,0,63.63,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,29 Jun 2018,v Ireland,Dublin (Malahide),1,1,70,-,36,3,6,194.44,caught,2,DNB,-,-,-,-
+422108,KL Rahul,3 Jul 2018,v England,Manchester,2,3,101*,-,54,10,5,187.03,not out,1,DNB,-,-,-,-
+422108,KL Rahul,6 Jul 2018,v England,Cardiff,1,3,6,-,8,0,0,75,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,8 Jul 2018,v England,Bristol,2,3,19,-,10,1,2,190,caught,1,DNB,-,-,-,-
+422108,KL Rahul,4 Nov 2018,v West Indies,Eden Gardens,2,3,16,-,22,2,0,72.72,caught,1,DNB,-,-,-,-
+422108,KL Rahul,6 Nov 2018,v West Indies,Lucknow,1,4,26*,20,14,2,1,185.71,not out,2,DNB,-,-,-,-
+422108,KL Rahul,11 Nov 2018,v West Indies,Chennai,2,3,17,-,10,4,0,170,caught,1,DNB,-,-,-,-
+422108,KL Rahul,21 Nov 2018,v Australia,Brisbane,2,3,13,-,12,1,0,108.33,stumped,1,DNB,-,-,-,-
+422108,KL Rahul,23 Nov 2018,v Australia,Melbourne,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422108,KL Rahul,25 Nov 2018,v Australia,Sydney,2,4,14,-,20,0,1,70,caught,1,DNB,-,-,-,-
+422108,KL Rahul,24 Feb 2019,v Australia,Visakhapatnam,1,2,50,56,36,6,1,138.88,caught,2,DNB,-,-,-,-
+422108,KL Rahul,27 Feb 2019,v Australia,Bengaluru,1,1,47,36,26,3,4,180.76,caught,2,DNB,-,-,-,-
+422108,KL Rahul,25 Mar 2019,v RR,Jaipur,1,1,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,27 Mar 2019,v KKR,Eden Gardens,2,1,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+422108,KL Rahul,30 Mar 2019,v MI,Mohali,2,1,71*,101,57,6,1,124.56,not out,1,DNB,-,-,-,-
+422108,KL Rahul,1 Apr 2019,v DC,Mohali,1,1,15,8,11,2,1,136.36,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,6 Apr 2019,v CSK,Chennai,2,1,55,80,47,3,1,117.02,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 Apr 2019,v SRH,Mohali,2,1,71*,102,53,7,1,133.96,not out,1,DNB,-,-,-,-
+422108,KL Rahul,10 Apr 2019,v MI,Wankhede,1,1,100*,110,64,6,6,156.25,not out,2,DNB,-,-,-,-
+422108,KL Rahul,13 Apr 2019,v RCB,Mohali,1,1,18,34,15,2,1,120,stumped,2,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2019,v RR,Mohali,1,1,52,86,47,3,2,110.63,caught,2,DNB,-,-,-,-
+422108,KL Rahul,20 Apr 2019,v DC,Delhi,1,1,12,9,9,1,1,133.33,stumped,2,DNB,-,-,-,-
+422108,KL Rahul,24 Apr 2019,v RCB,Bengaluru,2,1,42,56,27,7,1,155.55,caught,1,DNB,-,-,-,-
+422108,KL Rahul,29 Apr 2019,v SRH,Hyderabad,2,1,79,95,56,4,5,141.07,caught,1,DNB,-,-,-,-
+422108,KL Rahul,3 May 2019,v KKR,Mohali,1,2,2,14,7,0,0,28.57,caught,2,DNB,-,-,-,-
+422108,KL Rahul,5 May 2019,v CSK,Mohali,2,1,71,56,36,7,5,197.22,caught,1,DNB,-,-,-,-
+422108,KL Rahul,6 Aug 2019,v West Indies,Providence,2,1,20,-,18,2,1,111.11,caught,1,DNB,-,-,-,-
+422108,KL Rahul,3 Nov 2019,v Bangladesh,Delhi,1,3,15,-,17,2,0,88.23,caught,2,DNB,-,-,-,-
+422108,KL Rahul,7 Nov 2019,v Bangladesh,Rajkot,2,3,8*,-,11,0,0,72.72,not out,1,DNB,-,-,-,-
+422108,KL Rahul,10 Nov 2019,v Bangladesh,Nagpur,1,3,52,-,35,7,0,148.57,caught,2,DNB,-,-,-,-
+422108,KL Rahul,15 Nov 2019,v Bihar,Visakhapatnam,2,1,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+422108,KL Rahul,17 Nov 2019,v Goa,Vizianagaram,1,1,34,-,27,3,1,125.92,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,21 Nov 2019,v Tamil Nadu,Surat,2,1,69*,-,46,6,2,150,not out,1,DNB,-,-,-,-
+422108,KL Rahul,22 Nov 2019,v Jharkhand,Surat,1,1,36,-,28,5,1,128.57,caught,2,DNB,-,-,-,-
+422108,KL Rahul,24 Nov 2019,v Punjab,Surat,2,1,84*,-,48,7,4,175,not out,1,DNB,-,-,-,-
+422108,KL Rahul,25 Nov 2019,v Mumbai,Surat,1,1,0,-,2,0,0,0,stumped,2,DNB,-,-,-,-
+422108,KL Rahul,29 Nov 2019,v Haryana,Surat,2,1,66,-,31,4,6,212.9,caught,1,DNB,-,-,-,-
+422108,KL Rahul,1 Dec 2019,v Tamil Nadu,Surat,1,1,22,-,15,2,1,146.66,caught,2,DNB,-,-,-,-
+422108,KL Rahul,6 Dec 2019,v West Indies,Hyderabad,2,2,62,-,40,5,4,155,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 Dec 2019,v West Indies,Thiruvananthapuram,1,2,11,-,11,1,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,11 Dec 2019,v West Indies,Wankhede,1,2,91,-,56,9,4,162.5,caught,2,DNB,-,-,-,-
+422108,KL Rahul,5 Jan 2020,v Sri Lanka,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+422108,KL Rahul,7 Jan 2020,v Sri Lanka,Indore,2,1,45,-,32,6,0,140.62,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,10 Jan 2020,v Sri Lanka,Pune,1,1,54,-,36,5,1,150,stumped,2,DNB,-,-,-,-
+422108,KL Rahul,24 Jan 2020,v New Zealand,Auckland,2,2,56,-,27,4,3,207.4,caught,1,DNB,-,-,-,-
+422108,KL Rahul,26 Jan 2020,v New Zealand,Auckland,2,2,57*,80,50,3,2,114,not out,1,DNB,-,-,-,-
+422108,KL Rahul,29 Jan 2020,v New Zealand,Hamilton,1,2,27,40,19,2,1,142.1,caught,2,DNB,-,-,-,-
+422108,KL Rahul,31 Jan 2020,v New Zealand,Wellington,1,1,39,49,26,3,2,150,caught,2,DNB,-,-,-,-
+422108,KL Rahul,2 Feb 2020,v New Zealand,Mount Maunganui,1,1,45,-,33,4,2,136.36,caught,2,DNB,-,-,-,-
+422108,KL Rahul,20 Sep 2020,v DC,Dubai (DICS),2,1,21,-,19,2,1,110.52,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,24 Sep 2020,v RCB,Dubai (DICS),1,1,132*,-,69,14,7,191.3,not out,2,DNB,-,-,-,-
+422108,KL Rahul,27 Sep 2020,v RR,Sharjah,1,1,69,-,54,7,1,127.77,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 Oct 2020,v MI,Abu Dhabi,2,1,17,-,19,1,0,89.47,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,4 Oct 2020,v CSK,Dubai (DICS),1,1,63,-,52,7,1,121.15,caught,2,DNB,-,-,-,-
+422108,KL Rahul,8 Oct 2020,v SRH,Dubai (DICS),2,1,11,-,16,0,0,68.75,caught,1,DNB,-,-,-,-
+422108,KL Rahul,10 Oct 2020,v KKR,Abu Dhabi,2,1,74,-,58,6,0,127.58,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,15 Oct 2020,v RCB,Sharjah,2,1,61*,-,49,1,5,124.48,not out,1,DNB,-,-,-,-
+422108,KL Rahul,18 Oct 2020,v MI,Dubai (DICS),2,1,77,-,51,7,3,150.98,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,20 Oct 2020,v DC,Dubai (DICS),2,1,15,-,11,1,1,136.36,caught,1,DNB,-,-,-,-
+422108,KL Rahul,24 Oct 2020,v SRH,Dubai (DICS),1,1,27,-,27,2,1,100,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,26 Oct 2020,v KKR,Sharjah,2,1,28,-,25,4,0,112,lbw,1,DNB,-,-,-,-
+422108,KL Rahul,30 Oct 2020,v RR,Abu Dhabi,1,1,46,-,41,3,2,112.19,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 Nov 2020,v CSK,Abu Dhabi,1,1,29,-,27,3,1,107.4,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,4 Dec 2020,v Australia,Canberra,1,1,51,-,40,5,1,127.5,caught,2,DNB,-,-,-,-
+422108,KL Rahul,6 Dec 2020,v Australia,Sydney,2,1,30,-,22,2,1,136.36,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 Dec 2020,v Australia,Sydney,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+422108,KL Rahul,12 Mar 2021,v England,Ahmedabad,1,2,1,5,4,0,0,25,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,14 Mar 2021,v England,Ahmedabad,2,1,0,3,6,0,0,0,caught,1,DNB,-,-,-,-
+422108,KL Rahul,16 Mar 2021,v England,Ahmedabad,1,2,0,11,4,0,0,0,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,18 Mar 2021,v England,Ahmedabad,1,2,14,41,17,2,0,82.35,caught,2,DNB,-,-,-,-
+422108,KL Rahul,12 Apr 2021,v RR,Wankhede,1,1,91,110,50,7,5,182,caught,2,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2021,v CSK,Wankhede,1,1,5,17,7,1,0,71.42,run out,2,DNB,-,-,-,-
+422108,KL Rahul,18 Apr 2021,v DC,Wankhede,1,1,61,73,51,7,2,119.6,caught,2,DNB,-,-,-,-
+422108,KL Rahul,21 Apr 2021,v SRH,Chennai,1,1,4,14,6,0,0,66.66,caught,2,DNB,-,-,-,-
+422108,KL Rahul,23 Apr 2021,v MI,Chennai,2,1,60*,85,52,3,3,115.38,not out,1,DNB,-,-,-,-
+422108,KL Rahul,26 Apr 2021,v KKR,Ahmedabad,1,1,19,28,20,2,1,95,caught,2,DNB,-,-,-,-
+422108,KL Rahul,30 Apr 2021,v RCB,Ahmedabad,1,1,91*,96,57,7,5,159.64,not out,2,DNB,-,-,-,-
+422108,KL Rahul,21 Sep 2021,v RR,Dubai (DICS),2,1,49,69,33,4,2,148.48,caught,1,DNB,-,-,-,-
+422108,KL Rahul,25 Sep 2021,v SRH,Sharjah,1,1,21,21,21,3,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,28 Sep 2021,v MI,Abu Dhabi,1,1,21,38,22,2,0,95.45,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 Oct 2021,v KKR,Dubai (DICS),2,1,67,114,55,4,2,121.81,caught,1,DNB,-,-,-,-
+422108,KL Rahul,3 Oct 2021,v RCB,Sharjah,2,1,39,54,35,1,2,111.42,caught,1,DNB,-,-,-,-
+422108,KL Rahul,7 Oct 2021,v CSK,Dubai (DICS),2,1,98*,70,42,7,8,233.33,not out,1,DNB,-,-,-,-
+422108,KL Rahul,24 Oct 2021,v Pakistan,Dubai (DICS),1,1,3,15,8,0,0,37.5,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,31 Oct 2021,v New Zealand,Dubai (DICS),1,1,18,29,16,3,0,112.5,caught,2,DNB,-,-,-,-
+422108,KL Rahul,3 Nov 2021,v Afghanistan,Abu Dhabi,1,1,69,88,48,6,2,143.75,bowled,2,DNB,-,-,-,-
+422108,KL Rahul,5 Nov 2021,v Scotland,Dubai (DICS),2,1,50,34,19,6,3,263.15,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 Nov 2021,v Namibia,Dubai (DICS),2,1,54*,72,36,4,2,150,not out,1,DNB,-,-,-,-
+422108,KL Rahul,17 Nov 2021,v New Zealand,Jaipur,2,1,15,27,14,1,1,107.14,caught,1,DNB,-,-,-,-
+422108,KL Rahul,19 Nov 2021,v New Zealand,Ranchi,2,1,65,80,49,6,2,132.65,caught,1,DNB,-,-,-,-
+422108,KL Rahul,28 Mar 2022,v GT,Wankhede,1,1,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+422108,KL Rahul,31 Mar 2022,v CSK,Brabourne,2,1,40,57,26,2,3,153.84,caught,1,DNB,-,-,-,-
+422108,KL Rahul,4 Apr 2022,v SRH,DY Patil,1,1,68,93,50,6,1,136,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,7 Apr 2022,v DC,DY Patil,2,1,24,52,25,1,1,96,caught,1,DNB,-,-,-,-
+422108,KL Rahul,10 Apr 2022,v RR,Wankhede,2,1,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2022,v MI,Brabourne,1,1,103*,103,60,9,5,171.66,not out,2,DNB,-,-,-,-
+422108,KL Rahul,19 Apr 2022,v RCB,DY Patil,2,2,30,44,24,3,1,125,caught,1,DNB,-,-,-,-
+422108,KL Rahul,24 Apr 2022,v MI,Wankhede,1,2,103*,106,62,12,4,166.12,not out,2,DNB,-,-,-,-
+422108,KL Rahul,29 Apr 2022,v Punjab Kings,Pune,1,2,6,16,11,1,0,54.54,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 May 2022,v DC,Wankhede,1,2,77,98,51,4,5,150.98,caught,2,DNB,-,-,-,-
+422108,KL Rahul,7 May 2022,v KKR,Pune,1,2,0,4,0,0,0,-,run out,2,DNB,-,-,-,-
+422108,KL Rahul,10 May 2022,v GT,Pune,2,2,8,27,16,1,0,50,caught,1,DNB,-,-,-,-
+422108,KL Rahul,15 May 2022,v RR,Brabourne,2,2,10,32,19,0,1,52.63,caught,1,DNB,-,-,-,-
+422108,KL Rahul,18 May 2022,v KKR,DY Patil,1,2,68*,97,51,3,4,133.33,not out,2,DNB,-,-,-,-
+422108,KL Rahul,25 May 2022,v RCB,Eden Gardens,2,2,79,108,58,3,5,136.2,caught,1,DNB,-,-,-,-
+422108,KL Rahul,28 Aug 2022,v Pakistan,Dubai (DICS),2,2,0,4,1,0,0,0,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,31 Aug 2022,v Hong Kong,Dubai (DICS),1,1,36,62,39,0,2,92.3,caught,2,DNB,-,-,-,-
+422108,KL Rahul,4 Sep 2022,v Pakistan,Dubai (DICS),1,1,28,34,20,1,2,140,caught,2,DNB,-,-,-,-
+422108,KL Rahul,6 Sep 2022,v Sri Lanka,Dubai (DICS),1,1,6,14,7,1,0,85.71,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,8 Sep 2022,v Afghanistan,Dubai (DICS),1,1,62,54,41,6,2,151.21,caught,2,DNB,-,-,-,-
+422108,KL Rahul,20 Sep 2022,v Australia,Mohali,1,1,55,58,35,4,3,157.14,caught,2,DNB,-,-,-,-
+422108,KL Rahul,23 Sep 2022,v Australia,Nagpur,2,1,10,-,6,0,1,166.66,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,25 Sep 2022,v Australia,Hyderabad,2,1,1,6,4,0,0,25,caught,1,DNB,-,-,-,-
+422108,KL Rahul,28 Sep 2022,v South Africa,Thiruvananthapuram,2,1,51*,83,56,2,4,91.07,not out,1,DNB,-,-,-,-
+422108,KL Rahul,2 Oct 2022,v South Africa,Guwahati,1,1,57,60,28,5,4,203.57,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,23 Oct 2022,v Pakistan,Melbourne,2,1,4,13,8,0,0,50,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,27 Oct 2022,v Netherlands,Sydney,1,1,9,12,12,1,0,75,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,30 Oct 2022,v South Africa,Perth,1,1,9,25,14,0,1,64.28,caught,2,DNB,-,-,-,-
+422108,KL Rahul,2 Nov 2022,v Bangladesh,Adelaide,1,1,50,49,32,3,4,156.25,caught,2,DNB,-,-,-,-
+422108,KL Rahul,6 Nov 2022,v Zimbabwe,Melbourne,1,1,51,59,35,3,3,145.71,caught,2,DNB,-,-,-,-
+422108,KL Rahul,10 Nov 2022,v England,Adelaide,1,1,5,8,5,1,0,100,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 Apr 2023,v DC,Lucknow,1,1,8,21,12,0,1,66.66,caught,2,DNB,-,-,-,-
+422108,KL Rahul,3 Apr 2023,v CSK,Chennai,2,1,20,42,18,2,0,111.11,caught,1,DNB,-,-,-,-
+422108,KL Rahul,7 Apr 2023,v SRH,Lucknow,2,2,35,74,31,4,0,112.9,lbw,1,DNB,-,-,-,-
+422108,KL Rahul,10 Apr 2023,v RCB,Bengaluru,2,2,18,61,20,1,0,90,caught,1,DNB,-,-,-,-
+422108,KL Rahul,15 Apr 2023,v Punjab Kings,Lucknow,1,1,74,101,56,8,1,132.14,caught,2,DNB,-,-,-,-
+422108,KL Rahul,19 Apr 2023,v RR,Jaipur,1,1,39,51,32,4,1,121.87,caught,2,DNB,-,-,-,-
+422108,KL Rahul,22 Apr 2023,v GT,Lucknow,2,1,68,94,61,8,0,111.47,caught,1,DNB,-,-,-,-
+422108,KL Rahul,28 Apr 2023,v Punjab Kings,Mohali,1,1,12,19,9,1,1,133.33,caught,2,DNB,-,-,-,-
+422108,KL Rahul,1 May 2023,v RCB,Lucknow,2,11,0*,7,3,0,0,0,not out,1,DNB,-,-,-,-
+422108,KL Rahul,24 Mar 2024,v RR,Jaipur,2,2,58,81,44,4,2,131.81,caught,1,DNB,-,-,-,-
+422108,KL Rahul,30 Mar 2024,v Punjab Kings,Lucknow,1,2,15,19,9,1,1,166.66,caught,2,sub,-,-,-,-
+422108,KL Rahul,2 Apr 2024,v RCB,Bengaluru,1,2,20,26,14,0,2,142.85,caught,2,DNB,-,-,-,-
+422108,KL Rahul,7 Apr 2024,v GT,Lucknow,1,2,33,60,31,3,0,106.45,caught,2,DNB,-,-,-,-
+422108,KL Rahul,12 Apr 2024,v DC,Lucknow,1,2,39,56,22,5,1,177.27,caught,2,DNB,-,-,-,-
+422108,KL Rahul,14 Apr 2024,v KKR,Eden Gardens,1,2,39,52,27,3,2,144.44,caught,2,DNB,-,-,-,-
+422108,KL Rahul,19 Apr 2024,v CSK,Lucknow,2,2,82,85,53,9,3,154.71,caught,1,DNB,-,-,-,-
+422108,KL Rahul,23 Apr 2024,v CSK,Chennai,2,2,16,25,14,1,1,114.28,caught,1,DNB,-,-,-,-
+422108,KL Rahul,27 Apr 2024,v RR,Lucknow,1,2,76,85,48,8,2,158.33,caught,2,DNB,-,-,-,-
+422108,KL Rahul,30 Apr 2024,v MI,Lucknow,2,1,28,39,22,3,1,127.27,caught,1,DNB,-,-,-,-
+422108,KL Rahul,5 May 2024,v KKR,Lucknow,2,1,25,40,21,3,0,119.04,caught,1,DNB,-,-,-,-
+422108,KL Rahul,8 May 2024,v SRH,Hyderabad,1,1,29,48,33,1,1,87.87,caught,2,DNB,-,-,-,-
+422108,KL Rahul,14 May 2024,v DC,Delhi,2,2,5,4,3,1,0,166.66,caught,1,DNB,-,-,-,-
+422108,KL Rahul,17 May 2024,v MI,Wankhede,1,1,55,99,41,3,3,134.14,caught,2,DNB,-,-,-,-
+422108,KL Rahul,30 Mar 2025,v SRH,Visakhapatnam,2,4,15,7,5,2,1,300,bowled,1,DNB,-,-,-,-
+422108,KL Rahul,5 Apr 2025,v CSK,Chennai,1,2,77,92,51,6,3,150.98,caught,2,DNB,-,-,-,-
+422108,KL Rahul,10 Apr 2025,v RCB,Bengaluru,2,4,93*,76,53,7,6,175.47,not out,1,DNB,-,-,-,-
+422108,KL Rahul,13 Apr 2025,v MI,Delhi,2,4,15,26,13,1,0,115.38,caught,1,DNB,-,-,-,-
+422108,KL Rahul,16 Apr 2025,v RR,Delhi,1,4,38,39,32,2,2,118.75,caught,2,DNB,-,-,-,-
+422108,KL Rahul,19 Apr 2025,v GT,Ahmedabad,1,3,28,16,14,4,1,200,lbw,2,DNB,-,-,-,-
+422108,KL Rahul,22 Apr 2025,v LSG,Lucknow,2,3,57*,68,42,3,3,135.71,not out,1,DNB,-,-,-,-
+422108,KL Rahul,27 Apr 2025,v RCB,Delhi,1,4,41,53,39,3,0,105.12,caught,2,DNB,-,-,-,-
+422108,KL Rahul,29 Apr 2025,v KKR,Delhi,2,4,7,9,5,1,0,140,run out,1,DNB,-,-,-,-
+422108,KL Rahul,5 May 2025,v SRH,Hyderabad,1,4,10,26,14,1,0,71.42,caught,-,TDNB,-,-,-,-
+422108,KL Rahul,18 May 2025,v GT,Delhi,1,1,112*,101,65,14,4,172.3,not out,2,DNB,-,-,-,-
+422108,KL Rahul,21 May 2025,v MI,Wankhede,2,1,11,15,6,2,0,183.33,caught,1,DNB,-,-,-,-
+422108,KL Rahul,24 May 2025,v Punjab Kings,Jaipur,2,1,35,25,21,6,1,166.66,caught,1,DNB,-,-,-,-

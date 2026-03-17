@@ -1,0 +1,213 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+438362,Sandeep Sharma,18 Mar 2013,v Delhi,Gurgaon,1,-,DNB,-,-,-,-,-,-,2,3.1,0,34,0,10.73
+438362,Sandeep Sharma,30 Mar 2013,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,6,2,2
+438362,Sandeep Sharma,31 Mar 2013,v Gujarat,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,0,5
+438362,Sandeep Sharma,11 May 2013,v SRH,Mohali,2,11,0*,1,1,0,0,0,not out,1,4.0,0,21,3,5.25
+438362,Sandeep Sharma,14 May 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+438362,Sandeep Sharma,16 May 2013,v Daredevils,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,3,5.75
+438362,Sandeep Sharma,18 May 2013,v MI,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+438362,Sandeep Sharma,4 Apr 2014,v Services,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+438362,Sandeep Sharma,5 Apr 2014,v J & K,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+438362,Sandeep Sharma,22 Apr 2014,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+438362,Sandeep Sharma,26 Apr 2014,v KKR,Abu Dhabi,1,11,2*,4,5,0,0,40,not out,2,4.0,1,21,3,5.25
+438362,Sandeep Sharma,28 Apr 2014,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,1,15,3,5
+438362,Sandeep Sharma,3 May 2014,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.1,0,29,2,9.15
+438362,Sandeep Sharma,7 May 2014,v CSK,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+438362,Sandeep Sharma,9 May 2014,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+438362,Sandeep Sharma,11 May 2014,v KKR,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+438362,Sandeep Sharma,14 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,65,1,16.25
+438362,Sandeep Sharma,19 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+438362,Sandeep Sharma,21 May 2014,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+438362,Sandeep Sharma,30 May 2014,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+438362,Sandeep Sharma,24 Mar 2015,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+438362,Sandeep Sharma,25 Mar 2015,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+438362,Sandeep Sharma,26 Mar 2015,v J & K,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,5,1,2.5
+438362,Sandeep Sharma,27 Mar 2015,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+438362,Sandeep Sharma,28 Mar 2015,v Himachal,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+438362,Sandeep Sharma,1 Apr 2015,v Hyderabad,Cuttack,2,11,0*,1,0,0,0,-,not out,1,4.0,0,31,0,7.75
+438362,Sandeep Sharma,2 Apr 2015,v Mumbai,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+438362,Sandeep Sharma,3 Apr 2015,v Odisha,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+438362,Sandeep Sharma,5 Apr 2015,v Rajasthan,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+438362,Sandeep Sharma,10 Apr 2015,v RR,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,1,4.75
+438362,Sandeep Sharma,12 Apr 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,1,3
+438362,Sandeep Sharma,15 Apr 2015,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+438362,Sandeep Sharma,18 Apr 2015,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,1,25,4,6.25
+438362,Sandeep Sharma,21 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+438362,Sandeep Sharma,25 Apr 2015,v CSK,Chennai,2,11,1*,4,4,0,0,25,not out,1,4.0,0,32,0,8
+438362,Sandeep Sharma,27 Apr 2015,v SRH,Mohali,2,11,1*,1,1,0,0,100,not out,1,4.0,1,35,1,8.75
+438362,Sandeep Sharma,1 May 2015,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+438362,Sandeep Sharma,3 May 2015,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+438362,Sandeep Sharma,6 May 2015,v RCB,Bengaluru,2,11,7,11,9,1,0,77.77,caught,1,4.0,0,41,2,10.25
+438362,Sandeep Sharma,9 May 2015,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+438362,Sandeep Sharma,11 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+438362,Sandeep Sharma,13 May 2015,v RCB,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+438362,Sandeep Sharma,16 May 2015,v CSK,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+438362,Sandeep Sharma,17 Jul 2015,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+438362,Sandeep Sharma,19 Jul 2015,v Zimbabwe,Harare,2,11,1*,-,1,0,0,100,not out,1,4.0,0,39,1,9.75
+438362,Sandeep Sharma,11 Apr 2016,v Guj Lions,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+438362,Sandeep Sharma,15 Apr 2016,v Daredevils,Delhi,1,11,1*,5,2,0,0,50,not out,2,2.0,1,6,1,3
+438362,Sandeep Sharma,17 Apr 2016,v Supergiants,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+438362,Sandeep Sharma,19 Apr 2016,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+438362,Sandeep Sharma,23 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+438362,Sandeep Sharma,25 Apr 2016,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+438362,Sandeep Sharma,1 May 2016,v Guj Lions,Rajkot,1,11,1*,3,1,0,0,100,not out,2,4.0,0,31,1,7.75
+438362,Sandeep Sharma,4 May 2016,v KKR,Eden Gardens,2,11,1*,1,1,0,0,100,not out,1,4.0,0,25,0,6.25
+438362,Sandeep Sharma,7 May 2016,v Daredevils,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+438362,Sandeep Sharma,9 May 2016,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,2,12.25
+438362,Sandeep Sharma,13 May 2016,v MI,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+438362,Sandeep Sharma,15 May 2016,v SRH,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+438362,Sandeep Sharma,18 May 2016,v RCB,Bengaluru,2,11,5*,-,5,0,0,100,not out,1,3.0,0,29,1,9.66
+438362,Sandeep Sharma,21 May 2016,v Supergiants,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+438362,Sandeep Sharma,29 Jan 2017,v Haryana,Nadaun,2,11,2*,4,2,0,0,100,not out,1,4.0,0,35,2,8.75
+438362,Sandeep Sharma,30 Jan 2017,v Delhi,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+438362,Sandeep Sharma,31 Jan 2017,v J & K,Dharamsala,2,11,9,8,8,1,0,112.5,stumped,1,4.0,0,19,1,4.75
+438362,Sandeep Sharma,1 Feb 2017,v Services,Dharamsala,1,9,13*,14,9,1,0,144.44,not out,2,4.0,0,30,1,7.5
+438362,Sandeep Sharma,2 Feb 2017,v Himachal,Dharamsala,1,2,4,8,4,1,0,100,caught,2,4.0,0,15,1,3.75
+438362,Sandeep Sharma,8 Apr 2017,v Supergiant,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+438362,Sandeep Sharma,10 Apr 2017,v RCB,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+438362,Sandeep Sharma,13 Apr 2017,v KKR,Eden Gardens,1,10,0*,2,0,0,0,-,not out,2,3.0,0,28,0,9.33
+438362,Sandeep Sharma,15 Apr 2017,v Daredevils,Delhi,2,10,2*,2,2,0,0,100,not out,1,4.0,0,41,1,10.25
+438362,Sandeep Sharma,17 Apr 2017,v SRH,Hyderabad,2,11,5*,8,4,0,0,125,not out,1,4.0,0,35,1,8.75
+438362,Sandeep Sharma,20 Apr 2017,v MI,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+438362,Sandeep Sharma,23 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+438362,Sandeep Sharma,30 Apr 2017,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+438362,Sandeep Sharma,5 May 2017,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+438362,Sandeep Sharma,7 May 2017,v Guj Lions,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+438362,Sandeep Sharma,9 May 2017,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+438362,Sandeep Sharma,11 May 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+438362,Sandeep Sharma,14 May 2017,v Supergiant,Pune,1,11,0*,5,0,0,0,-,not out,2,2.0,0,12,0,6
+438362,Sandeep Sharma,9 Jan 2018,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+438362,Sandeep Sharma,10 Jan 2018,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+438362,Sandeep Sharma,12 Jan 2018,v Haryana,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+438362,Sandeep Sharma,15 Jan 2018,v Himachal,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+438362,Sandeep Sharma,21 Jan 2018,v Karnataka,Kolkata,2,10,6*,8,5,1,0,120,not out,1,3.0,0,40,0,13.33
+438362,Sandeep Sharma,12 Apr 2018,v MI,Hyderabad,2,10,0,-,2,0,0,0,caught,1,4.0,0,25,2,6.25
+438362,Sandeep Sharma,24 Apr 2018,v MI,Wankhede,1,11,0*,-,1,0,0,0,not out,2,3.0,0,9,1,3
+438362,Sandeep Sharma,26 Apr 2018,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+438362,Sandeep Sharma,29 Apr 2018,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+438362,Sandeep Sharma,5 May 2018,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+438362,Sandeep Sharma,7 May 2018,v RCB,Hyderabad,1,11,0,-,1,0,0,0,lbw,2,4.0,0,20,1,5
+438362,Sandeep Sharma,10 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+438362,Sandeep Sharma,13 May 2018,v CSK,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+438362,Sandeep Sharma,17 May 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+438362,Sandeep Sharma,19 May 2018,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+438362,Sandeep Sharma,22 May 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,2,10
+438362,Sandeep Sharma,27 May 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,1,13
+438362,Sandeep Sharma,21 Feb 2019,v M. Pradesh,Indore,2,11,1*,-,1,0,0,100,not out,1,4.0,0,40,1,10
+438362,Sandeep Sharma,22 Feb 2019,v Mumbai,Indore,2,10,6*,12,10,0,0,60,not out,1,4.0,0,18,2,4.5
+438362,Sandeep Sharma,24 Feb 2019,v Saurashtra,Indore,1,11,1*,1,1,0,0,100,not out,2,2.4,0,20,1,7.5
+438362,Sandeep Sharma,27 Feb 2019,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+438362,Sandeep Sharma,2 Mar 2019,v Railways,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+438362,Sandeep Sharma,24 Mar 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+438362,Sandeep Sharma,29 Mar 2019,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+438362,Sandeep Sharma,31 Mar 2019,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.5,0,19,3,4.95
+438362,Sandeep Sharma,4 Apr 2019,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+438362,Sandeep Sharma,6 Apr 2019,v MI,Hyderabad,2,11,5*,3,2,1,0,250,not out,1,3.0,0,20,1,6.66
+438362,Sandeep Sharma,8 Apr 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+438362,Sandeep Sharma,14 Apr 2019,v DC,Hyderabad,2,10,1*,6,1,0,0,100,not out,1,4.0,0,30,0,7.5
+438362,Sandeep Sharma,17 Apr 2019,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+438362,Sandeep Sharma,21 Apr 2019,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+438362,Sandeep Sharma,23 Apr 2019,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.5,0,54,1,14.08
+438362,Sandeep Sharma,29 Apr 2019,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+438362,Sandeep Sharma,8 Nov 2019,v Hyderabad,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+438362,Sandeep Sharma,9 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,6,1,3
+438362,Sandeep Sharma,11 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+438362,Sandeep Sharma,12 Nov 2019,v Himachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,2,8,4,2
+438362,Sandeep Sharma,14 Nov 2019,v Railways,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+438362,Sandeep Sharma,15 Nov 2019,v Chhattisgarh,Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+438362,Sandeep Sharma,18 Nov 2019,v Maharashtra,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+438362,Sandeep Sharma,21 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+438362,Sandeep Sharma,24 Nov 2019,v Karnataka,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+438362,Sandeep Sharma,25 Nov 2019,v Tamil Nadu,Surat,1,10,5*,-,7,0,0,71.42,not out,2,DNB,-,-,-,-
+438362,Sandeep Sharma,21 Sep 2020,v RCB,Dubai (DICS),2,9,9,-,6,1,0,150,caught,1,4.0,0,36,0,9
+438362,Sandeep Sharma,4 Oct 2020,v MI,Sharjah,2,9,0*,-,1,0,0,0,not out,1,4.0,0,41,2,10.25
+438362,Sandeep Sharma,8 Oct 2020,v Kings XI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+438362,Sandeep Sharma,11 Oct 2020,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+438362,Sandeep Sharma,13 Oct 2020,v CSK,Dubai (DICS),2,9,1*,-,2,0,0,50,not out,1,4.0,0,19,2,4.75
+438362,Sandeep Sharma,18 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+438362,Sandeep Sharma,22 Oct 2020,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+438362,Sandeep Sharma,24 Oct 2020,v Kings XI,Dubai (DICS),2,9,0,-,2,0,0,0,caught,1,4.0,0,29,2,7.25
+438362,Sandeep Sharma,27 Oct 2020,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+438362,Sandeep Sharma,31 Oct 2020,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+438362,Sandeep Sharma,3 Nov 2020,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+438362,Sandeep Sharma,6 Nov 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+438362,Sandeep Sharma,8 Nov 2020,v DC,Abu Dhabi,2,10,2*,-,4,0,0,50,not out,1,4.0,0,30,1,7.5
+438362,Sandeep Sharma,10 Jan 2021,v UP,Alur (2),1,9,0*,-,0,0,0,-,not out,2,4.0,0,18,1,4.5
+438362,Sandeep Sharma,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+438362,Sandeep Sharma,14 Jan 2021,v Railways,Alur (2),1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,1,3
+438362,Sandeep Sharma,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+438362,Sandeep Sharma,18 Jan 2021,v Tripura,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+438362,Sandeep Sharma,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,2.2,0,17,2,7.28
+438362,Sandeep Sharma,29 Jan 2021,v Baroda,Ahmedabad,2,9,1,-,2,0,0,50,bowled,1,4.0,0,35,1,8.75
+438362,Sandeep Sharma,11 Apr 2021,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+438362,Sandeep Sharma,28 Apr 2021,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,0,6.85
+438362,Sandeep Sharma,2 May 2021,v RR,Delhi,2,10,8*,10,6,1,0,133.33,not out,1,4.0,0,50,1,12.5
+438362,Sandeep Sharma,22 Sep 2021,v DC,Dubai (DICS),1,10,0,3,1,0,0,0,run out,2,3.0,0,26,0,8.66
+438362,Sandeep Sharma,25 Sep 2021,v Punjab Kings,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+438362,Sandeep Sharma,27 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+438362,Sandeep Sharma,30 Sep 2021,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+438362,Sandeep Sharma,27 Mar 2022,v RCB,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+438362,Sandeep Sharma,25 Apr 2022,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+438362,Sandeep Sharma,29 Apr 2022,v LSG,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+438362,Sandeep Sharma,3 May 2022,v GT,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+438362,Sandeep Sharma,7 May 2022,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+438362,Sandeep Sharma,12 Oct 2022,v Sikkim,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,3,7.33
+438362,Sandeep Sharma,14 Oct 2022,v Jharkhand,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+438362,Sandeep Sharma,16 Oct 2022,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+438362,Sandeep Sharma,18 Oct 2022,v Chhattisgarh,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+438362,Sandeep Sharma,20 Oct 2022,v Tamil Nadu,Lucknow,2,11,1,-,2,0,0,50,bowled,1,4.0,0,14,3,3.5
+438362,Sandeep Sharma,22 Oct 2022,v Bengal,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+438362,Sandeep Sharma,8 Apr 2023,v DC,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+438362,Sandeep Sharma,12 Apr 2023,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+438362,Sandeep Sharma,16 Apr 2023,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+438362,Sandeep Sharma,19 Apr 2023,v LSG,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+438362,Sandeep Sharma,23 Apr 2023,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,2,12.25
+438362,Sandeep Sharma,27 Apr 2023,v CSK,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+438362,Sandeep Sharma,30 Apr 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+438362,Sandeep Sharma,5 May 2023,v GT,Jaipur,1,11,2*,8,5,0,0,40,not out,2,3.0,0,19,0,6.33
+438362,Sandeep Sharma,7 May 2023,v SRH,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+438362,Sandeep Sharma,11 May 2023,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+438362,Sandeep Sharma,14 May 2023,v RCB,Jaipur,2,10,0*,4,1,0,0,0,not out,1,4.0,0,34,1,8.5
+438362,Sandeep Sharma,19 May 2023,v Punjab Kings,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+438362,Sandeep Sharma,16 Oct 2023,v Bihar,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+438362,Sandeep Sharma,17 Oct 2023,v Sikkim,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+438362,Sandeep Sharma,19 Oct 2023,v Himachal,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+438362,Sandeep Sharma,21 Oct 2023,v Kerala,DY Patil,2,-,sub,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+438362,Sandeep Sharma,23 Oct 2023,v Assam,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+438362,Sandeep Sharma,25 Oct 2023,v Services,Mumbai,1,-,DNB,-,-,-,-,-,-,2,2.2,0,32,0,13.71
+438362,Sandeep Sharma,27 Oct 2023,v Odisha,Mumbai,2,-,sub,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+438362,Sandeep Sharma,24 Mar 2024,v LSG,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+438362,Sandeep Sharma,28 Mar 2024,v DC,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+438362,Sandeep Sharma,22 Apr 2024,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,5,4.5
+438362,Sandeep Sharma,27 Apr 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+438362,Sandeep Sharma,2 May 2024,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+438362,Sandeep Sharma,7 May 2024,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+438362,Sandeep Sharma,12 May 2024,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+438362,Sandeep Sharma,15 May 2024,v Punjab Kings,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+438362,Sandeep Sharma,19 May 2024,v KKR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+438362,Sandeep Sharma,22 May 2024,v RCB,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+438362,Sandeep Sharma,24 May 2024,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+438362,Sandeep Sharma,23 Nov 2024,v Puducherry,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+438362,Sandeep Sharma,25 Nov 2024,v Vidarbha,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+438362,Sandeep Sharma,27 Nov 2024,v Assam,Visakhapatnam,2,11,2*,-,2,0,0,100,not out,1,4.0,0,22,4,5.5
+438362,Sandeep Sharma,29 Nov 2024,v Chhattisgarh,Vizianagaram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+438362,Sandeep Sharma,3 Dec 2024,v Railways,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.4,1,21,0,5.72
+438362,Sandeep Sharma,5 Dec 2024,v Odisha,Vizianagaram,2,10,5*,-,2,1,0,250,not out,1,4.0,0,35,0,8.75
+438362,Sandeep Sharma,9 Dec 2024,v Bengal,Bengaluru,2,10,0*,-,0,0,0,-,not out,1,4.0,0,39,0,9.75
+438362,Sandeep Sharma,23 Mar 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+438362,Sandeep Sharma,26 Mar 2025,v KKR,Guwahati,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+438362,Sandeep Sharma,30 Mar 2025,v CSK,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+438362,Sandeep Sharma,5 Apr 2025,v Punjab Kings,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+438362,Sandeep Sharma,9 Apr 2025,v GT,Ahmedabad,2,11,6*,12,5,0,0,120,not out,1,4.0,0,41,1,10.25
+438362,Sandeep Sharma,13 Apr 2025,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.3,0,29,0,11.6
+438362,Sandeep Sharma,16 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+438362,Sandeep Sharma,19 Apr 2025,v LSG,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,55,1,13.75
+438362,Sandeep Sharma,24 Apr 2025,v RCB,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+438362,Sandeep Sharma,28 Apr 2025,v GT,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+438362,Sandeep Sharma,26 Nov 2025,v Bihar,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,2,12
+438362,Sandeep Sharma,28 Nov 2025,v Goa,Eden Gardens,2,11,11,-,13,1,0,84.61,caught,1,4.0,0,39,2,9.75
+438362,Sandeep Sharma,30 Nov 2025,v Maharashtra,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,2,4.5
+438362,Sandeep Sharma,2 Dec 2025,v J & K,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+438362,Sandeep Sharma,4 Dec 2025,v UP,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,4,6.5
+438362,Sandeep Sharma,6 Dec 2025,v M. Pradesh,Jadavpur Uni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+438362,Sandeep Sharma,8 Dec 2025,v Hyderabad,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25

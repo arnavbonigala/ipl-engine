@@ -1,0 +1,34 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+777515,Praveen Dubey,8 Jan 2018,v Goa,Visakhapatnam,1,6,17*,14,11,1,1,154.54,not out,2,2.0,0,19,0,9.5
+777515,Praveen Dubey,9 Jan 2018,v Andhra,Vizianagaram,1,9,10,10,9,1,0,111.11,caught,2,3.0,0,19,0,6.33
+777515,Praveen Dubey,12 Jan 2018,v Tamil Nadu,Vizianagaram,1,8,4,11,5,0,0,80,bowled,2,3.3,0,19,4,5.42
+777515,Praveen Dubey,14 Jan 2018,v Kerala,Vizianagaram,1,7,0*,3,0,0,0,-,not out,2,4.0,0,35,3,8.75
+777515,Praveen Dubey,21 Jan 2018,v Punjab,Kolkata,1,8,0,6,4,0,0,0,run out,2,3.0,0,12,2,4
+777515,Praveen Dubey,23 Jan 2018,v Rajasthan,Kolkata,2,9,6,5,8,1,0,75,caught,1,3.0,0,19,1,6.33
+777515,Praveen Dubey,11 Nov 2019,v Andhra,Visakhapatnam,2,7,13*,-,9,2,0,144.44,not out,1,2.0,0,20,0,10
+777515,Praveen Dubey,12 Nov 2019,v Services,Vizianagaram,1,5,9*,-,3,0,1,300,not out,2,4.0,0,33,0,8.25
+777515,Praveen Dubey,15 Nov 2019,v Bihar,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+777515,Praveen Dubey,17 Nov 2019,v Goa,Vizianagaram,1,6,1,-,2,0,0,50,lbw,2,4.0,0,30,2,7.5
+777515,Praveen Dubey,21 Nov 2019,v Tamil Nadu,Surat,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+777515,Praveen Dubey,22 Nov 2019,v Jharkhand,Surat,1,6,10,-,14,0,0,71.42,caught,2,4.0,0,19,1,4.75
+777515,Praveen Dubey,24 Nov 2019,v Punjab,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+777515,Praveen Dubey,25 Nov 2019,v Mumbai,Surat,1,8,1*,-,3,0,0,33.33,not out,2,3.0,0,32,1,10.66
+777515,Praveen Dubey,31 Oct 2020,v MI,Dubai (DICS),1,9,7*,-,13,0,0,53.84,not out,2,3.0,0,29,0,9.66
+777515,Praveen Dubey,8 Nov 2020,v SRH,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,0,7
+777515,Praveen Dubey,10 Nov 2020,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+777515,Praveen Dubey,14 Jan 2021,v Tripura,Alur (3),1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+777515,Praveen Dubey,16 Jan 2021,v Railways,Alur (2),2,6,0,-,1,0,0,0,lbw,1,2.0,0,20,0,10
+777515,Praveen Dubey,18 Jan 2021,v UP,Alur (3),2,7,6*,-,7,1,0,85.71,not out,1,4.0,0,15,3,3.75
+777515,Praveen Dubey,26 Jan 2021,v Punjab,Ahmedabad,1,8,9,-,9,1,0,100,bowled,2,1.0,0,9,0,9
+777515,Praveen Dubey,22 Nov 2021,v Tamil Nadu,Delhi,1,6,33,-,25,3,1,132,caught,2,1.0,0,4,0,4
+777515,Praveen Dubey,13 May 2023,v Punjab Kings,Delhi,2,8,16,29,20,2,0,80,bowled,1,3.0,0,19,1,6.33
+777515,Praveen Dubey,27 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+777515,Praveen Dubey,23 Nov 2024,v Uttarakhand,Indore,2,7,4,-,4,0,0,100,caught,1,3.0,0,22,0,7.33
+777515,Praveen Dubey,5 Dec 2024,v Gujarat,Indore,2,5,7,-,11,0,0,63.63,bowled,1,DNB,-,-,-,-
+777515,Praveen Dubey,24 May 2025,v DC,Jaipur,1,-,sub,-,-,-,-,-,-,2,2.0,0,20,1,10
+777515,Praveen Dubey,26 Nov 2025,v Uttarakhand,Ahmedabad,2,6,38*,-,24,4,1,158.33,not out,1,2.0,0,23,0,11.5
+777515,Praveen Dubey,28 Nov 2025,v Jharkhand,Ahmedabad,1,7,13,-,15,1,0,86.66,caught,2,4.0,0,23,2,5.75
+777515,Praveen Dubey,30 Nov 2025,v Rajasthan,Ahmedabad,2,7,6,-,3,1,0,200,caught,1,4.0,0,36,1,9
+777515,Praveen Dubey,2 Dec 2025,v Tamil Nadu,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.2,0,15,3,6.42
+777515,Praveen Dubey,4 Dec 2025,v Delhi,Ahmedabad,2,7,10,-,8,1,0,125,caught,1,2.0,0,17,0,8.5
+777515,Praveen Dubey,8 Dec 2025,v Tripura,Ahmedabad,1,8,10*,-,5,0,1,200,not out,2,2.0,0,6,2,3

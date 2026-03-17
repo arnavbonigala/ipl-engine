@@ -1,0 +1,105 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+277237,Iqbal Abdulla,3 Apr 2007,v Baroda,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.1,0,19,2,6
+277237,Iqbal Abdulla,4 Apr 2007,v Gujarat,Brabourne,2,7,10*,22,13,0,0,76.92,not out,1,4.0,0,29,1,7.25
+277237,Iqbal Abdulla,5 Apr 2007,v Saurashtra,Wankhede,1,8,4*,8,3,0,0,133.33,not out,2,3.0,0,24,1,8
+277237,Iqbal Abdulla,6 Apr 2007,v Maharashtra,Brabourne,2,7,3*,8,5,0,0,60,not out,1,4.0,0,24,1,6
+277237,Iqbal Abdulla,17 Apr 2007,v Haryana,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,5,2.5
+277237,Iqbal Abdulla,18 Apr 2007,v M. Pradesh,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+277237,Iqbal Abdulla,19 Apr 2007,v Bengal,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+277237,Iqbal Abdulla,13 May 2008,v Daredevils,Eden Gardens,1,8,1*,-,2,0,0,50,not out,2,3.0,0,22,0,7.33
+277237,Iqbal Abdulla,20 Oct 2009,v Baroda,Pune,1,9,1,2,2,0,0,50,run out,2,3.0,0,24,0,8
+277237,Iqbal Abdulla,21 Oct 2009,v Gujarat,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+277237,Iqbal Abdulla,22 Oct 2009,v Saurashtra,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+277237,Iqbal Abdulla,24 Oct 2009,v Maharashtra,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+277237,Iqbal Abdulla,27 Mar 2010,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,0,6
+277237,Iqbal Abdulla,7 Apr 2010,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+277237,Iqbal Abdulla,13 Apr 2010,v CSK,Chennai,1,10,0*,-,1,0,0,0,not out,2,2.3,0,21,0,8.4
+277237,Iqbal Abdulla,20 Oct 2010,v Baroda,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+277237,Iqbal Abdulla,21 Oct 2010,v Gujarat,Vadodara,2,5,10,12,10,1,0,100,stumped,1,3.0,0,21,0,7
+277237,Iqbal Abdulla,22 Oct 2010,v Saurashtra,Vadodara,1,7,2,6,3,0,0,66.66,run out,2,4.0,1,7,4,1.75
+277237,Iqbal Abdulla,24 Oct 2010,v Maharashtra,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+277237,Iqbal Abdulla,12 Mar 2011,v Haryana,Hyderabad,1,8,21,14,13,1,2,161.53,stumped,2,4.0,0,25,1,6.25
+277237,Iqbal Abdulla,8 Apr 2011,v CSK,Chennai,2,9,3*,-,3,0,0,100,not out,1,4.0,0,26,1,6.5
+277237,Iqbal Abdulla,11 Apr 2011,v Chargers,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+277237,Iqbal Abdulla,15 Apr 2011,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+277237,Iqbal Abdulla,17 Apr 2011,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+277237,Iqbal Abdulla,20 Apr 2011,v Kochi,Eden Gardens,2,10,12*,-,9,1,0,133.33,not out,1,4.0,0,23,0,5.75
+277237,Iqbal Abdulla,22 Apr 2011,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,0,6
+277237,Iqbal Abdulla,28 Apr 2011,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+277237,Iqbal Abdulla,30 Apr 2011,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+277237,Iqbal Abdulla,3 May 2011,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+277237,Iqbal Abdulla,5 May 2011,v Kochi,Kochi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+277237,Iqbal Abdulla,7 May 2011,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+277237,Iqbal Abdulla,14 May 2011,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+277237,Iqbal Abdulla,19 May 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,1,4
+277237,Iqbal Abdulla,22 May 2011,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+277237,Iqbal Abdulla,25 May 2011,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+277237,Iqbal Abdulla,19 Sep 2011,v Auckland,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+277237,Iqbal Abdulla,21 Sep 2011,v Somerset,Hyderabad,2,10,1*,1,1,0,0,100,not out,1,3.0,0,29,0,9.66
+277237,Iqbal Abdulla,25 Sep 2011,v Somerset,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+277237,Iqbal Abdulla,27 Sep 2011,v South Aust,Hyderabad,2,10,10*,5,2,1,1,500,not out,1,4.0,0,37,0,9.25
+277237,Iqbal Abdulla,29 Sep 2011,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+277237,Iqbal Abdulla,1 Oct 2011,v Warriors,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+277237,Iqbal Abdulla,20 Oct 2011,v Baroda,Rajkot,2,8,0,5,3,0,0,0,caught,1,3.0,0,24,0,8
+277237,Iqbal Abdulla,21 Oct 2011,v Gujarat,Rajkot,1,9,2*,7,2,0,0,100,not out,2,4.0,0,21,2,5.25
+277237,Iqbal Abdulla,22 Oct 2011,v Saurashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+277237,Iqbal Abdulla,24 Oct 2011,v Maharashtra,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+277237,Iqbal Abdulla,24 Mar 2012,v Tamil Nadu,Brabourne,1,9,0,-,1,0,0,0,caught,2,4.0,0,24,2,6
+277237,Iqbal Abdulla,26 Mar 2012,v Punjab,Mumbai,1,7,7,-,14,0,0,50,caught,2,4.0,0,20,3,5
+277237,Iqbal Abdulla,5 Apr 2012,v Daredevils,Eden Gardens,1,10,1*,2,1,0,0,100,not out,2,1.0,0,8,0,8
+277237,Iqbal Abdulla,8 Apr 2012,v RR,Jaipur,2,11,1*,-,2,0,0,50,not out,1,2.0,0,16,0,8
+277237,Iqbal Abdulla,28 Apr 2012,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277237,Iqbal Abdulla,30 Apr 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+277237,Iqbal Abdulla,5 May 2012,v Warriors,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+277237,Iqbal Abdulla,16 May 2012,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+277237,Iqbal Abdulla,19 May 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+277237,Iqbal Abdulla,22 May 2012,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+277237,Iqbal Abdulla,27 May 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+277237,Iqbal Abdulla,17 Oct 2012,v Scorchers,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277237,Iqbal Abdulla,21 Oct 2012,v Titans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+277237,Iqbal Abdulla,17 Mar 2013,v Baroda,Ahmedabad,2,8,7,24,11,0,0,63.63,caught,1,4.0,0,23,1,5.75
+277237,Iqbal Abdulla,18 Mar 2013,v Gujarat,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+277237,Iqbal Abdulla,19 Mar 2013,v Saurashtra,Ahmedabad,2,8,1,7,3,0,0,33.33,caught,1,4.0,0,30,2,7.5
+277237,Iqbal Abdulla,21 Mar 2013,v Maharashtra,Ahmedabad,2,9,3,9,4,0,0,75,bowled,1,3.0,0,37,0,12.33
+277237,Iqbal Abdulla,24 Apr 2013,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+277237,Iqbal Abdulla,3 May 2013,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+277237,Iqbal Abdulla,7 May 2013,v MI,Wankhede,2,9,6*,20,11,0,0,54.54,not out,1,4.0,0,30,1,7.5
+277237,Iqbal Abdulla,9 May 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+277237,Iqbal Abdulla,19 May 2013,v SRH,Hyderabad,1,9,2*,4,3,0,0,66.66,not out,2,3.5,0,29,3,7.56
+277237,Iqbal Abdulla,29 Apr 2014,v KKR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+277237,Iqbal Abdulla,19 Apr 2015,v MI,Bengaluru,2,8,20,27,15,4,0,133.33,run out,1,4.0,0,35,0,8.75
+277237,Iqbal Abdulla,22 Apr 2015,v CSK,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+277237,Iqbal Abdulla,24 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+277237,Iqbal Abdulla,26 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,1,4.25
+277237,Iqbal Abdulla,4 May 2015,v CSK,Chennai,2,10,0,4,3,0,0,0,caught,1,3.0,0,34,0,11.33
+277237,Iqbal Abdulla,20 Apr 2016,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,3,10
+277237,Iqbal Abdulla,22 Apr 2016,v Supergiants,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+277237,Iqbal Abdulla,24 Apr 2016,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+277237,Iqbal Abdulla,9 May 2016,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+277237,Iqbal Abdulla,16 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+277237,Iqbal Abdulla,22 May 2016,v Daredevils,Raipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+277237,Iqbal Abdulla,24 May 2016,v Guj Lions,Bengaluru,2,8,33*,41,25,3,1,132,not out,1,4.0,0,38,2,9.5
+277237,Iqbal Abdulla,29 May 2016,v SRH,Bengaluru,2,9,4*,3,2,1,0,200,not out,1,1.0,0,10,0,10
+277237,Iqbal Abdulla,29 Jan 2017,v Andhra,Chennai,1,7,0,1,1,0,0,0,caught,2,4.0,0,41,0,10.25
+277237,Iqbal Abdulla,30 Jan 2017,v Karnataka,Chennai,2,7,3,3,3,0,0,100,run out,1,4.0,0,39,0,9.75
+277237,Iqbal Abdulla,31 Jan 2017,v Hyderabad,Chennai,2,7,4*,15,6,0,0,66.66,not out,1,4.0,0,30,0,7.5
+277237,Iqbal Abdulla,2 Feb 2017,v Goa,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+277237,Iqbal Abdulla,3 Feb 2017,v Tamil Nadu,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+277237,Iqbal Abdulla,8 Apr 2017,v Daredevils,Bengaluru,1,8,5*,13,7,0,0,71.42,not out,2,3.0,0,36,2,12
+277237,Iqbal Abdulla,10 Apr 2017,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+277237,Iqbal Abdulla,9 Nov 2019,v Nagaland,Surat,1,5,30,-,26,1,1,115.38,caught,2,4.0,0,20,0,5
+277237,Iqbal Abdulla,11 Nov 2019,v Odisha,Surat,1,4,7,-,8,1,0,87.5,caught,2,4.0,0,21,1,5.25
+277237,Iqbal Abdulla,12 Nov 2019,v Jharkhand,Surat,1,4,20,-,16,2,1,125,caught,2,DNB,-,-,-,-
+277237,Iqbal Abdulla,14 Nov 2019,v Gujarat,Surat,1,4,10,-,10,1,0,100,stumped,2,1.0,0,7,0,7
+277237,Iqbal Abdulla,15 Nov 2019,v Saurashtra,Surat,1,4,18,-,25,1,0,72,bowled,2,4.0,0,22,1,5.5
+277237,Iqbal Abdulla,17 Nov 2019,v Delhi,Surat,1,4,37,-,45,3,2,82.22,bowled,2,2.0,0,22,0,11
+277237,Iqbal Abdulla,10 Jan 2021,v Baroda,Vadodara,2,6,7,-,12,0,0,58.33,bowled,1,4.0,0,22,0,5.5
+277237,Iqbal Abdulla,12 Jan 2021,v Gujarat,Vadodara,2,4,3,-,8,0,0,37.5,caught,1,4.0,0,31,2,7.75
+277237,Iqbal Abdulla,14 Jan 2021,v Maharashtra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+277237,Iqbal Abdulla,16 Jan 2021,v Himachal,Vadodara,1,8,16*,-,11,3,0,145.45,not out,2,2.0,0,24,0,12
+277237,Iqbal Abdulla,18 Jan 2021,v Chhattisgarh,Vadodara,1,8,8,-,5,1,0,160,run out,2,3.0,0,28,0,9.33
+277237,Iqbal Abdulla,4 Nov 2021,v Meghalaya,Mangalagiri,1,5,9*,10,7,1,0,128.57,not out,2,4.0,0,21,0,5.25
+277237,Iqbal Abdulla,5 Nov 2021,v Tripura,Mangalagiri,2,5,46*,67,39,7,0,117.94,not out,1,4.0,0,17,2,4.25
+277237,Iqbal Abdulla,6 Nov 2021,v Nagaland,Mangalagiri,2,5,12,12,9,2,0,133.33,caught,1,4.0,0,20,1,5
+277237,Iqbal Abdulla,8 Nov 2021,v Sikkim,Mulapadu,1,4,10,22,18,1,0,55.55,caught,2,3.0,0,23,0,7.66
+277237,Iqbal Abdulla,9 Nov 2021,v Manipur,Mulapadu,2,4,16*,13,6,2,1,266.66,not out,1,4.0,0,15,0,3.75

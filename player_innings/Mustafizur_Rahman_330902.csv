@@ -1,0 +1,323 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+330902,Mustafizur Rahman,24 Apr 2015,v Pakistan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+330902,Mustafizur Rahman,5 Jul 2015,v South Africa,Mirpur,2,11,1,5,6,0,0,16.66,bowled,1,4.0,0,30,0,7.5
+330902,Mustafizur Rahman,7 Jul 2015,v South Africa,Mirpur,2,11,0,1,1,0,0,0,bowled,1,4.0,0,34,1,8.5
+330902,Mustafizur Rahman,13 Nov 2015,v Zimbabwe,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.3,0,16,2,4.57
+330902,Mustafizur Rahman,15 Nov 2015,v Zimbabwe,Mirpur,1,10,1*,6,1,0,0,100,not out,2,4.0,0,12,1,3
+330902,Mustafizur Rahman,22 Nov 2015,v Victorians,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+330902,Mustafizur Rahman,25 Nov 2015,v Rangpur,Mirpur,2,11,1*,5,2,0,0,50,not out,1,4.0,0,38,2,9.5
+330902,Mustafizur Rahman,26 Nov 2015,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.4,0,14,3,3.81
+330902,Mustafizur Rahman,27 Nov 2015,v Super Stars,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+330902,Mustafizur Rahman,1 Dec 2015,v Bulls,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+330902,Mustafizur Rahman,2 Dec 2015,v Victorians,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+330902,Mustafizur Rahman,6 Dec 2015,v Rangpur,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,1,5,1,1.66
+330902,Mustafizur Rahman,8 Dec 2015,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.5,0,7,2,2.47
+330902,Mustafizur Rahman,9 Dec 2015,v Super Stars,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,0,3.5
+330902,Mustafizur Rahman,12 Dec 2015,v Bulls,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+330902,Mustafizur Rahman,15 Jan 2016,v Zimbabwe,Khulna,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+330902,Mustafizur Rahman,17 Jan 2016,v Zimbabwe,Khulna,1,-,DNB,-,-,-,-,-,-,2,3.5,0,19,2,4.95
+330902,Mustafizur Rahman,24 Feb 2016,v India,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+330902,Mustafizur Rahman,26 Feb 2016,v U.A.E.,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,2,3.25
+330902,Mustafizur Rahman,28 Feb 2016,v Sri Lanka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,21 Mar 2016,v Australia,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+330902,Mustafizur Rahman,23 Mar 2016,v India,Bengaluru,2,10,0,2,0,0,0,-,run out,1,4.0,0,34,2,8.5
+330902,Mustafizur Rahman,26 Mar 2016,v New Zealand,Eden Gardens,2,10,6,1,3,0,1,200,caught,1,4.0,0,22,5,5.5
+330902,Mustafizur Rahman,12 Apr 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+330902,Mustafizur Rahman,16 Apr 2016,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+330902,Mustafizur Rahman,18 Apr 2016,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+330902,Mustafizur Rahman,21 Apr 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,23 Apr 2016,v Kings XI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,2,2.25
+330902,Mustafizur Rahman,26 Apr 2016,v Supergiants,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+330902,Mustafizur Rahman,30 Apr 2016,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+330902,Mustafizur Rahman,6 May 2016,v Guj Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+330902,Mustafizur Rahman,8 May 2016,v MI,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,3,5.33
+330902,Mustafizur Rahman,10 May 2016,v Supergiants,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+330902,Mustafizur Rahman,12 May 2016,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+330902,Mustafizur Rahman,15 May 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+330902,Mustafizur Rahman,20 May 2016,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+330902,Mustafizur Rahman,22 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+330902,Mustafizur Rahman,25 May 2016,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+330902,Mustafizur Rahman,29 May 2016,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+330902,Mustafizur Rahman,21 Jul 2016,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+330902,Mustafizur Rahman,22 Jul 2016,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.2,0,31,0,9.3
+330902,Mustafizur Rahman,3 Jan 2017,v New Zealand,Napier,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+330902,Mustafizur Rahman,6 Jan 2017,v New Zealand,Mount Maunganui,2,11,0*,3,4,0,0,0,not out,1,4.0,0,30,0,7.5
+330902,Mustafizur Rahman,4 Apr 2017,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+330902,Mustafizur Rahman,6 Apr 2017,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,4,7
+330902,Mustafizur Rahman,12 Apr 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.4,0,34,0,12.75
+330902,Mustafizur Rahman,25 Nov 2017,v Victorians,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.1,0,32,2,10.1
+330902,Mustafizur Rahman,27 Nov 2017,v Khulna,Chattogram,2,11,0*,-,1,0,0,0,not out,1,4.0,0,48,0,12
+330902,Mustafizur Rahman,29 Nov 2017,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+330902,Mustafizur Rahman,2 Dec 2017,v Dynamites,Mirpur,2,11,7,-,10,0,1,70,bowled,1,4.0,0,22,0,5.5
+330902,Mustafizur Rahman,5 Dec 2017,v Chattogram,Mirpur,2,11,1*,-,6,0,0,16.66,not out,1,4.0,0,41,0,10.25
+330902,Mustafizur Rahman,15 Feb 2018,v Sri Lanka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+330902,Mustafizur Rahman,18 Feb 2018,v Sri Lanka,Sylhet,2,9,8,-,9,1,0,88.88,bowled,1,4.0,0,39,1,9.75
+330902,Mustafizur Rahman,23 Feb 2018,v Sultans,Dubai (DICS),2,11,0*,-,1,0,0,0,not out,1,4.0,0,22,2,5.5
+330902,Mustafizur Rahman,24 Feb 2018,v Gladiators,Dubai (DICS),1,11,1*,-,4,0,0,25,not out,2,2.0,0,10,0,5
+330902,Mustafizur Rahman,26 Feb 2018,v Kings,Dubai (DICS),2,11,0,-,3,0,0,0,caught,1,4.0,1,22,1,5.5
+330902,Mustafizur Rahman,2 Mar 2018,v United,Sharjah,2,11,0*,-,0,0,0,-,not out,1,4.0,0,39,1,9.75
+330902,Mustafizur Rahman,3 Mar 2018,v Zalmi,Sharjah,1,11,0*,-,1,0,0,0,not out,2,2.0,0,10,0,5
+330902,Mustafizur Rahman,8 Mar 2018,v India,Colombo (RPS),1,10,1*,-,2,0,0,50,not out,2,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,10 Mar 2018,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,3,12
+330902,Mustafizur Rahman,14 Mar 2018,v India,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+330902,Mustafizur Rahman,16 Mar 2018,v Sri Lanka,Colombo (RPS),2,9,0,-,2,0,0,0,run out,1,4.0,1,39,2,9.75
+330902,Mustafizur Rahman,18 Mar 2018,v India,Colombo (RPS),1,10,0*,-,3,0,0,0,not out,2,4.0,1,21,1,5.25
+330902,Mustafizur Rahman,7 Apr 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.5,0,39,1,10.17
+330902,Mustafizur Rahman,12 Apr 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+330902,Mustafizur Rahman,14 Apr 2018,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+330902,Mustafizur Rahman,17 Apr 2018,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,0,13.75
+330902,Mustafizur Rahman,22 Apr 2018,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+330902,Mustafizur Rahman,24 Apr 2018,v SRH,Wankhede,2,11,1,-,3,0,0,33.33,caught,1,3.4,0,18,1,4.9
+330902,Mustafizur Rahman,20 May 2018,v Daredevils,Delhi,2,11,0*,-,0,0,0,-,not out,1,4.0,0,34,0,8.5
+330902,Mustafizur Rahman,31 Jul 2018,v West Indies,Basseterre,1,11,3*,-,5,0,0,60,not out,2,2.0,1,18,2,9
+330902,Mustafizur Rahman,4 Aug 2018,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,3,12.5
+330902,Mustafizur Rahman,5 Aug 2018,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.1,0,31,3,9.78
+330902,Mustafizur Rahman,17 Dec 2018,v West Indies,Sylhet,1,11,0,-,2,0,0,0,bowled,2,1.0,0,15,0,15
+330902,Mustafizur Rahman,20 Dec 2018,v West Indies,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,2,12.5
+330902,Mustafizur Rahman,22 Dec 2018,v West Indies,Mirpur,2,11,7,-,7,0,1,100,bowled,1,4.0,0,33,3,8.25
+330902,Mustafizur Rahman,5 Jan 2019,v Dynamites,Mirpur,2,11,11*,-,13,0,1,84.61,not out,1,4.0,0,27,0,6.75
+330902,Mustafizur Rahman,9 Jan 2019,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+330902,Mustafizur Rahman,11 Jan 2019,v Victorians,Mirpur,1,11,1*,-,1,0,0,100,not out,2,3.4,0,24,1,6.54
+330902,Mustafizur Rahman,13 Jan 2019,v Rangpur,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,0,4.25
+330902,Mustafizur Rahman,15 Jan 2019,v Khulna,Sylhet,2,11,0*,-,0,0,0,-,not out,1,4.0,0,21,1,5.25
+330902,Mustafizur Rahman,16 Jan 2019,v Dynamites,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,21 Jan 2019,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.2,0,8,1,2.4
+330902,Mustafizur Rahman,23 Jan 2019,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.4,0,32,0,8.72
+330902,Mustafizur Rahman,25 Jan 2019,v Sylhet,Chattogram,2,11,1*,-,3,0,0,33.33,not out,1,4.0,0,43,2,10.75
+330902,Mustafizur Rahman,26 Jan 2019,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+330902,Mustafizur Rahman,29 Jan 2019,v Rangpur,Chattogram,1,10,4*,-,1,1,0,400,not out,2,3.4,0,33,0,9
+330902,Mustafizur Rahman,30 Jan 2019,v Sylhet,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,13 Sep 2019,v Zimbabwe,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,15 Sep 2019,v Afghanistan,Mirpur,2,11,15,-,7,2,1,214.28,caught,1,4.0,0,25,0,6.25
+330902,Mustafizur Rahman,18 Sep 2019,v Zimbabwe,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+330902,Mustafizur Rahman,21 Sep 2019,v Afghanistan,Chattogram,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+330902,Mustafizur Rahman,3 Nov 2019,v India,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+330902,Mustafizur Rahman,7 Nov 2019,v India,Rajkot,1,-,DNB,-,-,-,-,-,-,2,3.4,0,35,0,9.54
+330902,Mustafizur Rahman,10 Nov 2019,v India,Nagpur,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,42,0,10.5
+330902,Mustafizur Rahman,11 Dec 2019,v Warriors,Mirpur,2,10,8*,-,12,1,0,66.66,not out,1,4.0,0,37,2,9.25
+330902,Mustafizur Rahman,14 Dec 2019,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.2,0,21,0,6.3
+330902,Mustafizur Rahman,18 Dec 2019,v Warriors,Chattogram,1,10,1*,-,1,0,0,100,not out,2,4.0,0,35,1,8.75
+330902,Mustafizur Rahman,20 Dec 2019,v Khulna,Chattogram,1,9,0,-,1,0,0,0,bowled,2,2.0,0,18,1,9
+330902,Mustafizur Rahman,21 Dec 2019,v Chattogram,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,2,5.75
+330902,Mustafizur Rahman,27 Dec 2019,v Khulna,Mirpur,2,11,21*,-,11,1,2,190.9,not out,1,4.0,0,28,3,7
+330902,Mustafizur Rahman,30 Dec 2019,v Thunder,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,3,2.5
+330902,Mustafizur Rahman,31 Dec 2019,v Royals,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,16,0,4
+330902,Mustafizur Rahman,2 Jan 2020,v Royals,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+330902,Mustafizur Rahman,3 Jan 2020,v Thunder,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.1,0,18,2,5.68
+330902,Mustafizur Rahman,8 Jan 2020,v Platoon,Mirpur,2,11,2,-,6,0,0,33.33,bowled,1,4.0,0,34,3,8.5
+330902,Mustafizur Rahman,10 Jan 2020,v Platoon,Mirpur,1,9,0,-,0,0,0,-,run out,2,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,24 Jan 2020,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+330902,Mustafizur Rahman,25 Jan 2020,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+330902,Mustafizur Rahman,9 Mar 2020,v Zimbabwe,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+330902,Mustafizur Rahman,11 Mar 2020,v Zimbabwe,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+330902,Mustafizur Rahman,26 Nov 2020,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.2,1,13,2,3.9
+330902,Mustafizur Rahman,28 Nov 2020,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.5,0,5,4,1.3
+330902,Mustafizur Rahman,30 Nov 2020,v Barishal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+330902,Mustafizur Rahman,2 Dec 2020,v Rajshahi,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+330902,Mustafizur Rahman,6 Dec 2020,v Dhaka,Mirpur,2,10,7,3,3,0,1,233.33,caught,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,8 Dec 2020,v Khulna,Mirpur,2,9,6*,12,4,1,0,150,not out,1,4.0,0,36,2,9
+330902,Mustafizur Rahman,12 Dec 2020,v Rajshahi,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+330902,Mustafizur Rahman,14 Dec 2020,v Khulna,Mirpur,2,9,0,2,2,0,0,0,caught,1,3.4,0,31,2,8.45
+330902,Mustafizur Rahman,15 Dec 2020,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+330902,Mustafizur Rahman,18 Dec 2020,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+330902,Mustafizur Rahman,28 Mar 2021,v New Zealand,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+330902,Mustafizur Rahman,12 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+330902,Mustafizur Rahman,15 Apr 2021,v DC,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+330902,Mustafizur Rahman,19 Apr 2021,v CSK,Wankhede,2,11,0*,3,4,0,0,0,not out,1,4.0,0,37,1,9.25
+330902,Mustafizur Rahman,22 Apr 2021,v RCB,Wankhede,1,11,0*,3,0,0,0,-,not out,2,3.3,0,34,0,9.71
+330902,Mustafizur Rahman,24 Apr 2021,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+330902,Mustafizur Rahman,29 Apr 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.3,0,37,1,10.57
+330902,Mustafizur Rahman,2 May 2021,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+330902,Mustafizur Rahman,31 May 2021,v Gazi Group,Savar (3),2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+330902,Mustafizur Rahman,2 Jun 2021,v Shinepukur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+330902,Mustafizur Rahman,5 Jun 2021,v Mohammedan,Mirpur,2,11,0,1,1,0,0,0,bowled,1,4.0,0,22,5,5.5
+330902,Mustafizur Rahman,7 Jun 2021,v PSC,Savar (3),1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,0,6
+330902,Mustafizur Rahman,8 Jun 2021,v Sheikh Jamal,Savar (4),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+330902,Mustafizur Rahman,10 Jun 2021,v Prime DSC,Savar (3),1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+330902,Mustafizur Rahman,11 Jun 2021,v L Rupganj,Mirpur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+330902,Mustafizur Rahman,16 Jun 2021,v Brothers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.5,0,22,0,7.76
+330902,Mustafizur Rahman,17 Jun 2021,v Khelaghar,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+330902,Mustafizur Rahman,20 Jun 2021,v Sheikh Jamal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+330902,Mustafizur Rahman,21 Jun 2021,v Mohammedan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+330902,Mustafizur Rahman,23 Jun 2021,v Gazi Group,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+330902,Mustafizur Rahman,24 Jun 2021,v Prime DSC,Mirpur,1,11,1*,3,1,0,0,100,not out,2,3.0,0,19,0,6.33
+330902,Mustafizur Rahman,26 Jun 2021,v Abahani Ltd,Mirpur,2,11,0*,5,1,0,0,0,not out,1,4.0,0,37,1,9.25
+330902,Mustafizur Rahman,22 Jul 2021,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+330902,Mustafizur Rahman,3 Aug 2021,v Australia,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+330902,Mustafizur Rahman,4 Aug 2021,v Australia,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+330902,Mustafizur Rahman,6 Aug 2021,v Australia,Mirpur,1,9,0,1,1,0,0,0,caught,2,4.0,0,9,0,2.25
+330902,Mustafizur Rahman,7 Aug 2021,v Australia,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,9,2,2.25
+330902,Mustafizur Rahman,9 Aug 2021,v Australia,Mirpur,1,10,0*,2,1,0,0,0,not out,2,1.0,0,3,0,3
+330902,Mustafizur Rahman,1 Sep 2021,v New Zealand,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.5,0,13,3,4.58
+330902,Mustafizur Rahman,3 Sep 2021,v New Zealand,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+330902,Mustafizur Rahman,5 Sep 2021,v New Zealand,Mirpur,2,11,4,10,10,0,0,40,caught,1,4.0,1,29,1,7.25
+330902,Mustafizur Rahman,8 Sep 2021,v New Zealand,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.3,0,12,4,3.42
+330902,Mustafizur Rahman,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,11,0*,2,0,0,0,-,not out,2,4.0,0,30,0,7.5
+330902,Mustafizur Rahman,25 Sep 2021,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+330902,Mustafizur Rahman,27 Sep 2021,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.3,0,26,1,7.42
+330902,Mustafizur Rahman,29 Sep 2021,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,2,6.66
+330902,Mustafizur Rahman,2 Oct 2021,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+330902,Mustafizur Rahman,5 Oct 2021,v MI,Sharjah,1,11,8*,6,7,0,1,114.28,not out,2,2.2,0,32,1,13.71
+330902,Mustafizur Rahman,7 Oct 2021,v KKR,Sharjah,2,11,0*,4,3,0,0,0,not out,1,4.0,0,31,0,7.75
+330902,Mustafizur Rahman,17 Oct 2021,v Scotland,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,1,32,2,8
+330902,Mustafizur Rahman,19 Oct 2021,v Oman,Al Amerat,1,11,2,5,3,0,0,66.66,caught,2,4.0,0,36,4,9
+330902,Mustafizur Rahman,21 Oct 2021,v P.N.G.,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+330902,Mustafizur Rahman,24 Oct 2021,v Sri Lanka,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+330902,Mustafizur Rahman,27 Oct 2021,v England,Abu Dhabi,1,10,0,2,1,0,0,0,bowled,2,3.0,0,23,0,7.66
+330902,Mustafizur Rahman,29 Oct 2021,v West Indies,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+330902,Mustafizur Rahman,4 Nov 2021,v Australia,Dubai (DICS),1,10,4,11,9,0,0,44.44,caught,2,2.0,0,32,0,16
+330902,Mustafizur Rahman,19 Nov 2021,v Pakistan,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+330902,Mustafizur Rahman,20 Nov 2021,v Pakistan,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.1,0,12,1,5.53
+330902,Mustafizur Rahman,22 Jan 2022,v Sunrisers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+330902,Mustafizur Rahman,25 Jan 2022,v Barishal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.3,0,22,1,8.8
+330902,Mustafizur Rahman,31 Jan 2022,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,2,8.66
+330902,Mustafizur Rahman,1 Feb 2022,v Dhaka,Chattogram,2,11,1,4,4,0,0,25,caught,1,4.0,0,26,1,6.5
+330902,Mustafizur Rahman,3 Feb 2022,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,5,6.75
+330902,Mustafizur Rahman,7 Feb 2022,v Barishal,Sylhet,2,11,7*,10,5,1,0,140,not out,1,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,9 Feb 2022,v Sunrisers,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+330902,Mustafizur Rahman,11 Feb 2022,v Khulna,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,2,8
+330902,Mustafizur Rahman,14 Feb 2022,v Barishal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+330902,Mustafizur Rahman,16 Feb 2022,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.1,0,13,1,4.1
+330902,Mustafizur Rahman,18 Feb 2022,v Barishal,Mirpur,1,11,0*,2,0,0,0,-,not out,2,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,3 Mar 2022,v Afghanistan,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+330902,Mustafizur Rahman,5 Mar 2022,v Afghanistan,Mirpur,1,11,6*,9,5,0,0,120,not out,2,3.0,0,13,0,4.33
+330902,Mustafizur Rahman,2 Apr 2022,v GT,Pune,2,11,3*,11,5,0,0,60,not out,1,4.0,0,23,3,5.75
+330902,Mustafizur Rahman,7 Apr 2022,v LSG,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+330902,Mustafizur Rahman,10 Apr 2022,v KKR,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+330902,Mustafizur Rahman,16 Apr 2022,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+330902,Mustafizur Rahman,20 Apr 2022,v Punjab Kings,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+330902,Mustafizur Rahman,22 Apr 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+330902,Mustafizur Rahman,28 Apr 2022,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+330902,Mustafizur Rahman,1 May 2022,v LSG,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+330902,Mustafizur Rahman,2 Jul 2022,v West Indies,Roseau,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+330902,Mustafizur Rahman,3 Jul 2022,v West Indies,Roseau,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+330902,Mustafizur Rahman,7 Jul 2022,v West Indies,Providence,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,13.5
+330902,Mustafizur Rahman,30 Jul 2022,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,2,12.5
+330902,Mustafizur Rahman,31 Jul 2022,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,2 Aug 2022,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+330902,Mustafizur Rahman,30 Aug 2022,v Afghanistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+330902,Mustafizur Rahman,1 Sep 2022,v Sri Lanka,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+330902,Mustafizur Rahman,25 Sep 2022,v U.A.E.,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+330902,Mustafizur Rahman,7 Oct 2022,v Pakistan,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+330902,Mustafizur Rahman,24 Oct 2022,v Netherlands,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+330902,Mustafizur Rahman,27 Oct 2022,v South Africa,Sydney,2,11,9*,8,3,0,1,300,not out,1,4.0,0,25,0,6.25
+330902,Mustafizur Rahman,30 Oct 2022,v Zimbabwe,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,3.75
+330902,Mustafizur Rahman,2 Nov 2022,v India,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+330902,Mustafizur Rahman,6 Nov 2022,v Pakistan,Adelaide,1,10,0*,1,1,0,0,0,not out,2,4.0,0,21,1,5.25
+330902,Mustafizur Rahman,6 Jan 2023,v Rangpur,Mirpur,2,9,1,2,3,0,0,33.33,caught,1,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,9 Jan 2023,v Strikers,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+330902,Mustafizur Rahman,14 Jan 2023,v Barishal,Chattogram,2,-,DNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+330902,Mustafizur Rahman,28 Jan 2023,v Khulna,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+330902,Mustafizur Rahman,31 Jan 2023,v Khulna,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+330902,Mustafizur Rahman,4 Feb 2023,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+330902,Mustafizur Rahman,7 Feb 2023,v Barishal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,10 Feb 2023,v Rangpur,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,3,6
+330902,Mustafizur Rahman,12 Feb 2023,v Strikers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,2,8.33
+330902,Mustafizur Rahman,16 Feb 2023,v Strikers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+330902,Mustafizur Rahman,9 Mar 2023,v England,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+330902,Mustafizur Rahman,12 Mar 2023,v England,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,14 Mar 2023,v England,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+330902,Mustafizur Rahman,27 Mar 2023,v Ireland,Chattogram,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+330902,Mustafizur Rahman,29 Mar 2023,v Ireland,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+330902,Mustafizur Rahman,11 Apr 2023,v MI,Delhi,1,11,1*,5,1,0,0,100,not out,2,4.0,0,38,1,9.5
+330902,Mustafizur Rahman,15 Apr 2023,v RCB,Bengaluru,2,-,sub,-,-,-,-,-,-,1,3.0,0,41,0,13.66
+330902,Mustafizur Rahman,14 Jul 2023,v Afghanistan,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+330902,Mustafizur Rahman,16 Jul 2023,v Afghanistan,Sylhet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,2,10
+330902,Mustafizur Rahman,27 Dec 2023,v New Zealand,Napier,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+330902,Mustafizur Rahman,29 Dec 2023,v New Zealand,Mount Maunganui,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+330902,Mustafizur Rahman,31 Dec 2023,v New Zealand,Mount Maunganui,1,11,3*,6,4,0,0,75,not out,2,3.0,0,13,0,4.33
+330902,Mustafizur Rahman,19 Jan 2024,v Dhaka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.3,0,31,2,8.85
+330902,Mustafizur Rahman,23 Jan 2024,v Barishal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+330902,Mustafizur Rahman,26 Jan 2024,v Strikers,Sylhet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+330902,Mustafizur Rahman,30 Jan 2024,v Rangpur,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+330902,Mustafizur Rahman,2 Feb 2024,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,2.0,0,6,1,3
+330902,Mustafizur Rahman,7 Feb 2024,v Khulna,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+330902,Mustafizur Rahman,9 Feb 2024,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,33,0,16.5
+330902,Mustafizur Rahman,13 Feb 2024,v Chattogram,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,2,15.33
+330902,Mustafizur Rahman,14 Feb 2024,v Khulna,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+330902,Mustafizur Rahman,1 Mar 2024,v Barishal,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+330902,Mustafizur Rahman,4 Mar 2024,v Sri Lanka,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+330902,Mustafizur Rahman,6 Mar 2024,v Sri Lanka,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+330902,Mustafizur Rahman,9 Mar 2024,v Sri Lanka,Sylhet,2,11,7*,-,3,0,1,233.33,not out,1,4.0,0,47,1,11.75
+330902,Mustafizur Rahman,22 Mar 2024,v RCB,Chennai,2,-,sub,-,-,-,-,-,-,1,4.0,0,29,4,7.25
+330902,Mustafizur Rahman,26 Mar 2024,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+330902,Mustafizur Rahman,31 Mar 2024,v DC,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+330902,Mustafizur Rahman,8 Apr 2024,v KKR,Chennai,2,-,sub,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+330902,Mustafizur Rahman,14 Apr 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,1,13.75
+330902,Mustafizur Rahman,19 Apr 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+330902,Mustafizur Rahman,23 Apr 2024,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.3,0,51,1,14.57
+330902,Mustafizur Rahman,28 Apr 2024,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.5,0,19,2,6.7
+330902,Mustafizur Rahman,1 May 2024,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,22,0,5.5
+330902,Mustafizur Rahman,10 May 2024,v Zimbabwe,Mirpur,1,10,3,12,6,0,0,50,caught,2,4.0,0,19,3,4.75
+330902,Mustafizur Rahman,12 May 2024,v Zimbabwe,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+330902,Mustafizur Rahman,21 May 2024,v U.S.A.,Prairie View,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+330902,Mustafizur Rahman,23 May 2024,v U.S.A.,Prairie View,2,11,1*,-,3,0,0,33.33,not out,1,4.0,0,31,2,7.75
+330902,Mustafizur Rahman,25 May 2024,v U.S.A.,Prairie View,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,6,2.5
+330902,Mustafizur Rahman,7 Jun 2024,v Sri Lanka,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+330902,Mustafizur Rahman,10 Jun 2024,v South Africa,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+330902,Mustafizur Rahman,13 Jun 2024,v Netherlands,Kingstown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,1,3
+330902,Mustafizur Rahman,16 Jun 2024,v Nepal,Kingstown,1,11,3,-,4,0,0,75,run out,2,4.0,1,7,3,1.75
+330902,Mustafizur Rahman,20 Jun 2024,v Australia,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+330902,Mustafizur Rahman,22 Jun 2024,v India,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+330902,Mustafizur Rahman,24 Jun 2024,v Afghanistan,Kingstown,2,11,0,1,1,0,0,0,lbw,1,4.0,0,17,1,4.25
+330902,Mustafizur Rahman,1 Jul 2024,v Kandy,Pallekele,1,-,DNB,-,-,-,-,-,-,2,3.0,0,44,1,14.66
+330902,Mustafizur Rahman,3 Jul 2024,v Jaffna Kings,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+330902,Mustafizur Rahman,6 Jul 2024,v Jaffna Kings,Dambulla,2,10,1*,-,1,0,0,100,not out,1,4.0,0,39,2,9.75
+330902,Mustafizur Rahman,7 Jul 2024,v Colombo,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+330902,Mustafizur Rahman,6 Oct 2024,v India,Gwalior,1,11,1,10,5,0,0,20,bowled,2,3.0,0,36,1,12
+330902,Mustafizur Rahman,9 Oct 2024,v India,Delhi,2,11,1*,3,2,0,0,50,not out,1,4.0,0,36,2,9
+330902,Mustafizur Rahman,12 Oct 2024,v India,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,1,13
+330902,Mustafizur Rahman,22 Dec 2024,v Dhaka Metro,Sylhet,2,11,2*,5,3,0,0,66.66,not out,1,4.0,0,35,1,8.75
+330902,Mustafizur Rahman,30 Dec 2024,v Rangpur,Mirpur,2,11,5*,7,7,1,0,71.42,not out,1,4.0,0,48,1,12
+330902,Mustafizur Rahman,2 Jan 2025,v Rajshahi,Mirpur,1,11,1*,1,1,0,0,100,not out,2,4.0,1,33,1,8.25
+330902,Mustafizur Rahman,3 Jan 2025,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,7 Jan 2025,v Rangpur,Sylhet,1,11,1,6,5,0,0,20,caught,2,4.0,1,23,1,5.75
+330902,Mustafizur Rahman,9 Jan 2025,v Chittagong,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+330902,Mustafizur Rahman,10 Jan 2025,v Strikers,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.4,0,31,1,8.45
+330902,Mustafizur Rahman,12 Jan 2025,v Rajshahi,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+330902,Mustafizur Rahman,16 Jan 2025,v Barishal,Chattogram,1,11,1*,4,2,0,0,50,not out,2,2.0,0,14,0,7
+330902,Mustafizur Rahman,20 Jan 2025,v Strikers,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+330902,Mustafizur Rahman,22 Jan 2025,v Chittagong,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,0,4.5
+330902,Mustafizur Rahman,29 Jan 2025,v Barishal,Mirpur,1,10,2,7,5,0,0,40,caught,2,2.0,0,16,1,8
+330902,Mustafizur Rahman,1 Feb 2025,v Khulna,Mirpur,1,11,1*,3,4,0,0,25,not out,2,4.0,0,16,3,4
+330902,Mustafizur Rahman,17 May 2025,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+330902,Mustafizur Rahman,18 May 2025,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+330902,Mustafizur Rahman,21 May 2025,v MI,Wankhede,2,11,0,1,1,0,0,0,bowled,1,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,24 May 2025,v Punjab Kings,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+330902,Mustafizur Rahman,13 Jul 2025,v Sri Lanka,Dambulla,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+330902,Mustafizur Rahman,16 Jul 2025,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+330902,Mustafizur Rahman,20 Jul 2025,v Pakistan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,6,2,1.5
+330902,Mustafizur Rahman,22 Jul 2025,v Pakistan,Mirpur,1,11,0*,2,0,0,0,-,not out,2,3.2,0,15,1,4.5
+330902,Mustafizur Rahman,30 Aug 2025,v Netherlands,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+330902,Mustafizur Rahman,1 Sep 2025,v Netherlands,Sylhet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,2,6
+330902,Mustafizur Rahman,11 Sep 2025,v Hong Kong,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+330902,Mustafizur Rahman,13 Sep 2025,v Sri Lanka,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+330902,Mustafizur Rahman,16 Sep 2025,v Afghanistan,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+330902,Mustafizur Rahman,20 Sep 2025,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+330902,Mustafizur Rahman,24 Sep 2025,v India,Dubai (DICS),2,11,6,11,11,1,0,54.54,caught,1,4.0,0,33,1,8.25
+330902,Mustafizur Rahman,25 Sep 2025,v Pakistan,Dubai (DICS),2,11,6*,12,4,1,0,150,not out,1,4.0,0,33,1,8.25
+330902,Mustafizur Rahman,2 Oct 2025,v Afghanistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+330902,Mustafizur Rahman,3 Oct 2025,v Afghanistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+330902,Mustafizur Rahman,27 Oct 2025,v West Indies,Chattogram,2,11,11*,12,8,1,0,137.5,not out,1,4.0,0,24,0,6
+330902,Mustafizur Rahman,29 Oct 2025,v West Indies,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+330902,Mustafizur Rahman,27 Nov 2025,v Ireland,Chattogram,2,11,2*,10,4,0,0,50,not out,1,4.0,0,23,0,5.75
+330902,Mustafizur Rahman,29 Nov 2025,v Ireland,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+330902,Mustafizur Rahman,2 Dec 2025,v Ireland,Chattogram,2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,3,3.66
+330902,Mustafizur Rahman,6 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+330902,Mustafizur Rahman,7 Dec 2025,v KnightRiders,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+330902,Mustafizur Rahman,13 Dec 2025,v KnightRiders,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+330902,Mustafizur Rahman,14 Dec 2025,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,17 Dec 2025,v MI Emirates,Dubai (DICS),2,10,1,-,2,0,0,50,run out,1,4.0,0,34,3,8.5
+330902,Mustafizur Rahman,19 Dec 2025,v Warriorz,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,2,6.5
+330902,Mustafizur Rahman,21 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.5,0,34,3,8.86
+330902,Mustafizur Rahman,24 Dec 2025,v Warriorz,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+330902,Mustafizur Rahman,29 Dec 2025,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+330902,Mustafizur Rahman,1 Jan 2026,v Rajshahi,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+330902,Mustafizur Rahman,2 Jan 2026,v Sylhet,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+330902,Mustafizur Rahman,4 Jan 2026,v Dhaka,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+330902,Mustafizur Rahman,5 Jan 2026,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+330902,Mustafizur Rahman,9 Jan 2026,v Noakhali,Sylhet,2,10,4,2,3,1,0,133.33,bowled,1,4.0,0,18,3,4.5
+330902,Mustafizur Rahman,11 Jan 2026,v Rajshahi,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+330902,Mustafizur Rahman,12 Jan 2026,v Sylhet,Sylhet,1,10,0,2,1,0,0,0,bowled,2,3.0,0,28,0,9.33
+330902,Mustafizur Rahman,17 Jan 2026,v Dhaka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+330902,Mustafizur Rahman,20 Jan 2026,v Sylhet,Mirpur,1,10,1*,12,5,0,0,20,not out,2,4.0,0,20,2,5

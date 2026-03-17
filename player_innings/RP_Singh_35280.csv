@@ -1,0 +1,133 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+35280,RP Singh,3 Apr 2007,v Railways,Jaipur,1,10,0*,4,0,0,0,-,not out,2,4.0,0,44,1,11
+35280,RP Singh,4 Apr 2007,v Rajasthan,Jaipur,1,10,3,4,4,0,0,75,run out,2,4.0,0,30,0,7.5
+35280,RP Singh,5 Apr 2007,v M. Pradesh,Jaipur,1,8,4*,5,3,0,0,133.33,not out,2,4.0,0,25,0,6.25
+35280,RP Singh,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+35280,RP Singh,14 Sep 2007,v Pakistan,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+35280,RP Singh,16 Sep 2007,v New Zealand,Johannesburg,2,11,1*,5,1,0,0,100,not out,1,4.0,0,29,2,7.25
+35280,RP Singh,19 Sep 2007,v England,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+35280,RP Singh,20 Sep 2007,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,4,3.25
+35280,RP Singh,22 Sep 2007,v Australia,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+35280,RP Singh,24 Sep 2007,v Pakistan,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+35280,RP Singh,20 Oct 2007,v Australia,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+35280,RP Singh,20 Apr 2008,v KKR,Eden Gardens,1,10,1*,-,2,0,0,50,not out,2,3.0,0,15,1,5
+35280,RP Singh,22 Apr 2008,v Daredevils,Hyderabad,1,10,1*,-,1,0,0,100,not out,2,3.0,0,27,1,9
+35280,RP Singh,24 Apr 2008,v RR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+35280,RP Singh,27 Apr 2008,v MI,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,2,3.75
+35280,RP Singh,1 May 2008,v Kings XI,Hyderabad,1,10,2*,-,2,0,0,100,not out,2,3.5,0,36,0,9.39
+35280,RP Singh,3 May 2008,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,3,10.25
+35280,RP Singh,6 May 2008,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,2,4
+35280,RP Singh,9 May 2008,v RR,Jaipur,1,9,2,-,3,0,0,66.66,run out,2,4.0,0,24,1,6
+35280,RP Singh,11 May 2008,v KKR,Hyderabad,2,9,6*,-,4,1,0,150,not out,1,4.0,0,59,1,14.75
+35280,RP Singh,15 May 2008,v Daredevils,Delhi,2,8,1,-,2,0,0,50,stumped,1,4.0,0,50,0,12.5
+35280,RP Singh,18 May 2008,v MI,Hyderabad,2,9,3*,-,3,0,0,100,not out,1,4.0,0,35,3,8.75
+35280,RP Singh,23 May 2008,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.3,0,37,0,10.57
+35280,RP Singh,25 May 2008,v RCB,Hyderabad,1,10,1,-,3,0,0,33.33,bowled,2,3.0,0,15,0,5
+35280,RP Singh,27 May 2008,v CSK,Hyderabad,1,8,10,-,4,1,1,250,caught,2,4.0,0,32,0,8
+35280,RP Singh,19 Apr 2009,v KKR,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.4,0,22,4,6
+35280,RP Singh,22 Apr 2009,v RCB,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+35280,RP Singh,25 Apr 2009,v MI,Durban,1,8,4,-,4,0,0,100,caught,2,4.0,0,27,2,6.75
+35280,RP Singh,27 Apr 2009,v CSK,Durban,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,1,10.66
+35280,RP Singh,30 Apr 2009,v Daredevils,Centurion,1,9,2*,-,4,0,0,50,not out,2,3.0,0,20,1,6.66
+35280,RP Singh,2 May 2009,v RR,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+35280,RP Singh,4 May 2009,v CSK,East London,2,9,2,-,6,0,0,33.33,caught,1,4.0,0,36,1,9
+35280,RP Singh,6 May 2009,v MI,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+35280,RP Singh,9 May 2009,v Kings XI,Kimberley,1,-,DNB,-,-,-,-,-,-,2,2.5,0,26,0,9.17
+35280,RP Singh,11 May 2009,v RR,Kimberley,1,9,0*,-,0,0,0,-,not out,2,4.0,0,22,1,5.5
+35280,RP Singh,13 May 2009,v Daredevils,Durban,2,9,0,-,1,0,0,0,run out,1,4.0,0,26,0,6.5
+35280,RP Singh,16 May 2009,v KKR,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.1,0,30,0,9.47
+35280,RP Singh,17 May 2009,v Kings XI,Johannesburg,2,9,0,-,2,0,0,0,caught,1,4.0,0,26,3,6.5
+35280,RP Singh,21 May 2009,v RCB,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+35280,RP Singh,22 May 2009,v Daredevils,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+35280,RP Singh,24 May 2009,v RCB,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+35280,RP Singh,14 Jun 2009,v England,Lord's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+35280,RP Singh,16 Jun 2009,v South Africa,Nottingham,2,10,2*,4,2,0,0,100,not out,1,2.0,0,21,1,10.5
+35280,RP Singh,10 Oct 2009,v Somerset,Hyderabad,1,8,2,-,4,0,0,50,bowled,2,4.0,0,23,3,5.75
+35280,RP Singh,14 Oct 2009,v Trinidad & T,Hyderabad,2,9,5,-,5,0,0,100,bowled,1,4.0,0,22,0,5.5
+35280,RP Singh,20 Oct 2009,v Railways,Indore,2,9,0*,3,5,0,0,0,not out,1,4.0,0,31,1,7.75
+35280,RP Singh,23 Oct 2009,v M. Pradesh,Indore,1,9,8,6,8,1,0,100,bowled,2,4.0,0,34,2,8.5
+35280,RP Singh,24 Oct 2009,v Vidarbha,Indore,1,9,4,10,7,0,0,57.14,caught,2,4.0,1,22,1,5.5
+35280,RP Singh,12 Mar 2010,v KKR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+35280,RP Singh,14 Mar 2010,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+35280,RP Singh,19 Mar 2010,v Kings XI,Cuttack,1,10,4*,-,2,0,0,200,not out,2,4.0,0,43,1,10.75
+35280,RP Singh,21 Mar 2010,v Daredevils,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+35280,RP Singh,26 Mar 2010,v RR,Ahmedabad,1,10,1*,-,4,0,0,25,not out,2,2.0,0,22,0,11
+35280,RP Singh,28 Mar 2010,v MI,DY Patil,2,10,1,-,5,0,0,20,bowled,1,4.0,0,31,3,7.75
+35280,RP Singh,5 Apr 2010,v RR,Nagpur,2,9,3,-,5,0,0,60,caught,1,4.0,0,17,3,4.25
+35280,RP Singh,8 Apr 2010,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+35280,RP Singh,10 Apr 2010,v CSK,Nagpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+35280,RP Singh,12 Apr 2010,v RCB,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+35280,RP Singh,16 Apr 2010,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+35280,RP Singh,22 Apr 2010,v CSK,DY Patil,2,10,0*,-,3,0,0,0,not out,1,4.0,0,33,0,8.25
+35280,RP Singh,20 Oct 2010,v M. Pradesh,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+35280,RP Singh,21 Oct 2010,v Rajasthan,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+35280,RP Singh,22 Oct 2010,v Railways,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,8,5,2
+35280,RP Singh,24 Oct 2010,v Vidarbha,Jaipur,2,9,18,17,10,1,1,180,run out,1,4.0,0,35,0,8.75
+35280,RP Singh,9 Apr 2011,v RCB,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+35280,RP Singh,13 Apr 2011,v Warriors,DY Patil,1,10,0*,-,1,0,0,0,not out,2,3.0,0,30,0,10
+35280,RP Singh,15 Apr 2011,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+35280,RP Singh,18 Apr 2011,v CSK,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+35280,RP Singh,20 Apr 2011,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+35280,RP Singh,24 Apr 2011,v RR,Jaipur,1,11,1,-,1,0,0,100,run out,2,2.0,0,11,0,5.5
+35280,RP Singh,27 Apr 2011,v Chargers,Kochi,2,11,0,-,1,0,0,0,bowled,1,4.0,0,21,2,5.25
+35280,RP Singh,30 Apr 2011,v Daredevils,Kochi,2,11,1*,-,1,0,0,100,not out,1,4.0,0,29,0,7.25
+35280,RP Singh,2 May 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+35280,RP Singh,5 May 2011,v KKR,Kochi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+35280,RP Singh,8 May 2011,v RCB,Bengaluru,1,10,0,1,0,0,0,-,run out,2,2.0,0,13,0,6.5
+35280,RP Singh,13 May 2011,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+35280,RP Singh,15 May 2011,v RR,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+35280,RP Singh,18 May 2011,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+35280,RP Singh,26 Aug 2011,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+35280,RP Singh,21 Oct 2011,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+35280,RP Singh,22 Oct 2011,v Railways,Indore,1,10,5,9,12,0,0,41.66,bowled,2,4.0,0,32,0,8
+35280,RP Singh,24 Oct 2011,v Rajasthan,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+35280,RP Singh,25 Oct 2011,v M. Pradesh,Indore,2,11,1*,2,1,0,0,100,not out,1,4.0,0,51,1,12.75
+35280,RP Singh,16 Apr 2012,v Daredevils,Wankhede,1,9,0,4,4,0,0,0,bowled,2,4.0,0,24,2,6
+35280,RP Singh,22 Apr 2012,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+35280,RP Singh,25 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+35280,RP Singh,27 Apr 2012,v Daredevils,Delhi,2,10,1*,1,1,0,0,100,not out,1,4.0,0,41,0,10.25
+35280,RP Singh,29 Apr 2012,v Chargers,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+35280,RP Singh,6 May 2012,v CSK,Wankhede,2,10,1*,3,1,0,0,100,not out,1,4.0,0,28,3,7
+35280,RP Singh,9 May 2012,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+35280,RP Singh,14 May 2012,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+35280,RP Singh,16 May 2012,v KKR,Wankhede,2,10,3,7,5,0,0,60,caught,1,4.0,0,33,2,8.25
+35280,RP Singh,20 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+35280,RP Singh,23 May 2012,v CSK,Bengaluru,2,11,1*,-,1,0,0,100,not out,1,4.0,0,34,0,8.5
+35280,RP Singh,17 Mar 2013,v Railways,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+35280,RP Singh,19 Mar 2013,v M. Pradesh,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+35280,RP Singh,21 Mar 2013,v Rajasthan,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+35280,RP Singh,22 Mar 2013,v Vidarbha,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+35280,RP Singh,27 Mar 2013,v Bengal,Indore,2,11,0*,-,0,0,0,-,not out,1,4.0,0,33,0,8.25
+35280,RP Singh,28 Mar 2013,v Karnataka,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+35280,RP Singh,29 Mar 2013,v Baroda,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+35280,RP Singh,30 Mar 2013,v Punjab,Indore,2,10,0,3,3,0,0,0,bowled,1,4.0,0,35,0,8.75
+35280,RP Singh,9 Apr 2013,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+35280,RP Singh,11 Apr 2013,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+35280,RP Singh,13 Apr 2013,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.5,0,41,0,10.69
+35280,RP Singh,16 Apr 2013,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+35280,RP Singh,20 Apr 2013,v RR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+35280,RP Singh,23 Apr 2013,v Warriors,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+35280,RP Singh,27 Apr 2013,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+35280,RP Singh,29 Apr 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+35280,RP Singh,2 May 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+35280,RP Singh,6 May 2013,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+35280,RP Singh,18 May 2013,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,19,0,19
+35280,RP Singh,31 Mar 2014,v Vidarbha,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+35280,RP Singh,1 Apr 2014,v Rajasthan,Nagpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+35280,RP Singh,24 Mar 2015,v Vidarbha,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,5,1,2.5
+35280,RP Singh,25 Mar 2015,v Rajasthan,Indore,2,11,0*,1,0,0,0,-,not out,1,4.0,0,27,2,6.75
+35280,RP Singh,27 Mar 2015,v M. Pradesh,Indore,2,11,1,3,3,0,0,33.33,run out,1,4.0,0,29,1,7.25
+35280,RP Singh,29 Mar 2015,v Railways,Indore,1,10,1*,2,1,0,0,100,not out,2,3.0,0,31,0,10.33
+35280,RP Singh,2 Jan 2016,v Himachal,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+35280,RP Singh,3 Jan 2016,v Vidarbha,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+35280,RP Singh,4 Jan 2016,v Hyderabad,Nagpur,2,9,1*,2,2,0,0,50,not out,1,4.0,0,15,3,3.75
+35280,RP Singh,6 Jan 2016,v Bengal,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+35280,RP Singh,7 Jan 2016,v Tamil Nadu,Nagpur,1,9,0,1,1,0,0,0,caught,2,4.0,0,23,1,5.75
+35280,RP Singh,10 Jan 2016,v Haryana,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+35280,RP Singh,15 Jan 2016,v Delhi,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+35280,RP Singh,16 Jan 2016,v UP,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+35280,RP Singh,18 Jan 2016,v Jharkhand,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+35280,RP Singh,9 Apr 2016,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+35280,RP Singh,14 Apr 2016,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+35280,RP Singh,7 May 2016,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+35280,RP Singh,10 May 2016,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66

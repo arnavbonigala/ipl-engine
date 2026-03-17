@@ -1,0 +1,78 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+389605,Ashish Reddy,25 Sep 2009,v Andhra,Visakhapatnam,1,7,19*,-,10,0,2,190,not out,2,3.0,0,33,1,11
+389605,Ashish Reddy,14 Oct 2010,v Andhra,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,2,5.5
+389605,Ashish Reddy,15 Oct 2010,v Kerala,Hyderabad,1,4,14,12,12,1,0,116.66,caught,2,2.0,0,14,1,7
+389605,Ashish Reddy,16 Oct 2010,v Tamil Nadu,Hyderabad,1,4,7,6,6,0,1,116.66,caught,2,4.0,0,19,2,4.75
+389605,Ashish Reddy,18 Oct 2010,v Goa,Hyderabad,1,4,13,7,6,1,1,216.66,caught,2,1.0,0,9,1,9
+389605,Ashish Reddy,19 Oct 2010,v Karnataka,Hyderabad,1,7,4*,5,2,1,0,200,not out,2,4.0,0,33,2,8.25
+389605,Ashish Reddy,16 Oct 2011,v Kerala,Chennai,1,7,27*,13,12,1,3,225,not out,2,4.0,0,25,1,6.25
+389605,Ashish Reddy,17 Oct 2011,v Andhra,Chennai,1,5,4,6,4,0,0,100,caught,2,4.0,0,31,1,7.75
+389605,Ashish Reddy,18 Oct 2011,v Goa,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.2,0,19,2,8.14
+389605,Ashish Reddy,20 Oct 2011,v Karnataka,Chennai,2,8,29*,-,15,1,3,193.33,not out,1,2.0,0,37,0,18.5
+389605,Ashish Reddy,21 Oct 2011,v Tamil Nadu,Chennai,2,3,0,-,2,0,0,0,caught,1,2.0,0,18,0,9
+389605,Ashish Reddy,26 Apr 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+389605,Ashish Reddy,29 Apr 2012,v MI,Wankhede,1,8,10,10,10,0,1,100,caught,2,2.1,0,11,1,5.07
+389605,Ashish Reddy,1 May 2012,v Warriors,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+389605,Ashish Reddy,4 May 2012,v CSK,Chennai,2,6,3,7,3,0,0,100,caught,1,2.0,0,16,1,8
+389605,Ashish Reddy,6 May 2012,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+389605,Ashish Reddy,8 May 2012,v Kings XI,Hyderabad,2,8,8,8,8,1,0,100,caught,1,4.0,0,39,2,9.75
+389605,Ashish Reddy,10 May 2012,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+389605,Ashish Reddy,18 May 2012,v RR,Hyderabad,2,7,10*,3,4,2,0,250,not out,1,2.0,0,17,0,8.5
+389605,Ashish Reddy,20 May 2012,v RCB,Hyderabad,1,7,4,-,4,0,0,100,bowled,2,4.0,0,25,3,6.25
+389605,Ashish Reddy,17 Mar 2013,v Kerala,Shimoga,1,5,16,-,15,1,0,106.66,caught,2,3.4,0,28,0,7.63
+389605,Ashish Reddy,18 Mar 2013,v Andhra,Shimoga,1,5,5,-,5,0,0,100,caught,2,4.0,0,38,0,9.5
+389605,Ashish Reddy,19 Mar 2013,v Goa,Bhadravati,2,7,11,-,10,1,0,110,caught,1,4.0,0,25,1,6.25
+389605,Ashish Reddy,21 Mar 2013,v Karnataka,Bhadravati,2,6,0,-,1,0,0,0,caught,1,4.0,0,43,0,10.75
+389605,Ashish Reddy,22 Mar 2013,v Tamil Nadu,Shimoga,1,8,9*,-,6,1,0,150,not out,2,4.0,0,39,2,9.75
+389605,Ashish Reddy,5 Apr 2013,v Warriors,Hyderabad,1,7,7*,8,4,1,0,175,not out,2,2.0,0,21,1,10.5
+389605,Ashish Reddy,7 Apr 2013,v RCB,Hyderabad,2,8,14,14,12,1,0,116.66,caught,1,1.0,0,7,1,7
+389605,Ashish Reddy,9 Apr 2013,v RCB,Bengaluru,1,6,3,7,4,0,0,75,bowled,2,1.0,0,12,0,12
+389605,Ashish Reddy,12 Apr 2013,v Daredevils,Delhi,2,7,16,12,9,2,0,177.77,bowled,1,DNB,-,-,-,-
+389605,Ashish Reddy,14 Apr 2013,v KKR,Eden Gardens,2,6,4,8,5,0,0,80,bowled,1,2.0,0,15,1,7.5
+389605,Ashish Reddy,17 Apr 2013,v Warriors,Pune,1,9,19*,24,15,0,1,126.66,not out,2,DNB,-,-,-,-
+389605,Ashish Reddy,19 Apr 2013,v Kings XI,Hyderabad,2,7,7*,14,7,1,0,100,not out,1,DNB,-,-,-,-
+389605,Ashish Reddy,25 Apr 2013,v CSK,Chennai,1,8,36*,23,16,2,3,225,not out,2,0.4,0,15,0,22.5
+389605,Ashish Reddy,27 Apr 2013,v RR,Jaipur,1,9,14,17,11,1,0,127.27,caught,2,DNB,-,-,-,-
+389605,Ashish Reddy,1 May 2013,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+389605,Ashish Reddy,4 May 2013,v Daredevils,Hyderabad,2,3,5,7,6,1,0,83.33,caught,1,DNB,-,-,-,-
+389605,Ashish Reddy,8 May 2013,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+389605,Ashish Reddy,17 Sep 2013,v Kandurata Ma,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+389605,Ashish Reddy,18 Sep 2013,v Wolves,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+389605,Ashish Reddy,20 Sep 2013,v Otago,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+389605,Ashish Reddy,24 Sep 2013,v Trinidad & T,Mohali,2,7,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+389605,Ashish Reddy,26 Sep 2013,v CSK,Ranchi,2,6,3,11,4,0,0,75,caught,1,DNB,-,-,-,-
+389605,Ashish Reddy,1 Apr 2014,v Kerala,Visakhapatnam,1,4,6*,5,5,0,0,120,not out,2,4.0,0,30,2,7.5
+389605,Ashish Reddy,2 Apr 2014,v Karnataka,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+389605,Ashish Reddy,3 Apr 2014,v Tamil Nadu,Visakhapatnam,2,7,0,1,1,0,0,0,lbw,1,3.0,0,13,2,4.33
+389605,Ashish Reddy,4 Apr 2014,v Andhra,Vizianagaram,1,8,0,5,1,0,0,0,caught,2,3.0,0,21,1,7
+389605,Ashish Reddy,5 Apr 2014,v Goa,Visakhapatnam,1,5,6,16,11,0,0,54.54,caught,2,4.0,0,22,2,5.5
+389605,Ashish Reddy,25 Mar 2015,v Tamil Nadu,Kochi,2,6,12,14,12,1,0,100,caught,1,2.0,0,30,0,15
+389605,Ashish Reddy,26 Mar 2015,v Andhra,Kochi,1,5,2,10,4,0,0,50,caught,2,4.0,1,16,1,4
+389605,Ashish Reddy,27 Mar 2015,v Kerala,Kochi,2,6,6,8,8,0,0,75,caught,1,4.0,1,10,2,2.5
+389605,Ashish Reddy,28 Mar 2015,v Karnataka,Kochi,1,6,6*,8,4,1,0,150,not out,2,4.0,0,22,4,5.5
+389605,Ashish Reddy,29 Mar 2015,v Goa,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+389605,Ashish Reddy,1 Apr 2015,v Punjab,Cuttack,1,5,16,15,12,0,1,133.33,run out,2,4.0,0,33,0,8.25
+389605,Ashish Reddy,3 Apr 2015,v Rajasthan,Cuttack,2,6,5,8,5,1,0,100,caught,1,4.0,0,29,0,7.25
+389605,Ashish Reddy,13 Apr 2015,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,1,11
+389605,Ashish Reddy,16 Apr 2015,v RR,Visakhapatnam,1,7,13*,15,9,0,1,144.44,not out,2,1.0,0,5,0,5
+389605,Ashish Reddy,18 Apr 2015,v Daredevils,Visakhapatnam,2,7,15,16,8,1,1,187.5,run out,1,2.0,0,15,1,7.5
+389605,Ashish Reddy,27 Apr 2015,v Kings XI,Mohali,1,7,22*,15,8,1,2,275,not out,2,DNB,-,-,-,-
+389605,Ashish Reddy,2 May 2015,v CSK,Hyderabad,1,6,6,5,6,1,0,100,caught,2,2.0,0,19,1,9.5
+389605,Ashish Reddy,17 May 2015,v MI,Hyderabad,1,8,17,15,15,0,1,113.33,caught,2,DNB,-,-,-,-
+389605,Ashish Reddy,2 Jan 2016,v Bengal,Nagpur,2,7,9,13,11,0,0,81.81,bowled,1,DNB,-,-,-,-
+389605,Ashish Reddy,3 Jan 2016,v Himachal,Nagpur,1,7,37,37,29,0,2,127.58,caught,2,DNB,-,-,-,-
+389605,Ashish Reddy,4 Jan 2016,v Gujarat,Nagpur,1,6,1,3,6,0,0,16.66,caught,2,DNB,-,-,-,-
+389605,Ashish Reddy,6 Jan 2016,v Haryana,Nagpur,1,5,2,5,6,0,0,33.33,run out,2,DNB,-,-,-,-
+389605,Ashish Reddy,9 Jan 2016,v Vidarbha,Nagpur,1,6,12,17,14,1,0,85.71,caught,2,DNB,-,-,-,-
+389605,Ashish Reddy,12 Apr 2016,v RCB,Bengaluru,2,7,32,18,18,2,3,177.77,bowled,1,1.5,0,25,0,13.63
+389605,Ashish Reddy,16 Apr 2016,v KKR,Hyderabad,1,7,13,13,8,0,1,162.5,run out,2,2.0,0,14,1,7
+389605,Ashish Reddy,18 Apr 2016,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+389605,Ashish Reddy,30 Apr 2016,v RCB,Hyderabad,1,7,2*,3,3,0,0,66.66,not out,2,DNB,-,-,-,-
+389605,Ashish Reddy,8 Jan 2018,v Kerala,Vizianagaram,1,5,21,12,14,4,0,150,caught,2,4.0,0,40,0,10
+389605,Ashish Reddy,9 Jan 2018,v Goa,Visakhapatnam,1,3,0,1,1,0,0,0,caught,2,3.0,0,30,0,10
+389605,Ashish Reddy,11 Jan 2018,v Karnataka,Visakhapatnam,2,6,11,23,11,0,0,100,run out,1,DNB,-,-,-,-
+389605,Ashish Reddy,12 Jan 2018,v Andhra,Visakhapatnam,1,7,18,16,12,1,1,150,caught,2,3.0,0,16,1,5.33
+389605,Ashish Reddy,14 Jan 2018,v Tamil Nadu,Visakhapatnam,2,5,3,4,6,0,0,50,caught,1,3.0,0,36,0,12
+389605,Ashish Reddy,21 Feb 2019,v Puducherry,Delhi,2,6,1,5,4,0,0,25,caught,1,DNB,-,-,-,-
+389605,Ashish Reddy,22 Feb 2019,v UP,Delhi,1,3,16,28,16,2,0,100,bowled,2,4.0,0,33,3,8.25
+389605,Ashish Reddy,25 Feb 2019,v Maharashtra,Delhi,1,6,6,10,5,0,0,120,bowled,2,2.0,0,21,0,10.5

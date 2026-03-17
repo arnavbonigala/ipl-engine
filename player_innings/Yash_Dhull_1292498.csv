@@ -1,0 +1,36 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1292498,Yash Dhull,11 Oct 2022,v Manipur,Jaipur,1,3,24,-,23,1,1,104.34,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,12 Oct 2022,v Punjab,Jaipur,1,3,66*,-,45,4,4,146.66,not out,2,DNB,-,-,-,-
+1292498,Yash Dhull,14 Oct 2022,v UP,Jaipur,1,3,11,-,18,1,0,61.11,lbw,2,DNB,-,-,-,-
+1292498,Yash Dhull,16 Oct 2022,v Puducherry,Jaipur,2,3,71*,-,46,10,0,154.34,not out,1,DNB,-,-,-,-
+1292498,Yash Dhull,18 Oct 2022,v Hyderabad,Jaipur,1,4,73,-,36,6,6,202.77,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,20 Oct 2022,v Goa,Jaipur,2,3,46,-,41,6,0,112.19,bowled,1,DNB,-,-,-,-
+1292498,Yash Dhull,22 Oct 2022,v Tripura,Jaipur,2,3,33,-,27,5,0,122.22,caught,1,DNB,-,-,-,-
+1292498,Yash Dhull,1 Nov 2022,v Vidarbha,Kolkata,2,3,39*,-,40,3,0,97.5,not out,1,DNB,-,-,-,-
+1292498,Yash Dhull,11 Apr 2023,v MI,Delhi,1,4,2,7,4,0,0,50,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,15 Apr 2023,v RCB,Bengaluru,2,4,1,6,4,0,0,25,lbw,1,DNB,-,-,-,-
+1292498,Yash Dhull,17 May 2023,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1292498,Yash Dhull,20 May 2023,v CSK,Delhi,2,5,13,25,15,1,0,86.66,caught,1,DNB,-,-,-,-
+1292498,Yash Dhull,17 Oct 2023,v M. Pradesh,Dehradun,2,3,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+1292498,Yash Dhull,19 Oct 2023,v Nagaland,Dehradun,2,3,41*,-,26,6,1,157.69,not out,1,DNB,-,-,-,-
+1292498,Yash Dhull,21 Oct 2023,v Karnataka,Dehradun,2,3,26*,-,32,2,0,81.25,not out,1,DNB,-,-,-,-
+1292498,Yash Dhull,23 Oct 2023,v Tamil Nadu,Dehradun,1,3,36,-,29,4,1,124.13,bowled,2,DNB,-,-,-,-
+1292498,Yash Dhull,25 Oct 2023,v Tripura,Dehradun,1,5,56,-,36,6,1,155.55,bowled,2,DNB,-,-,-,-
+1292498,Yash Dhull,2 Nov 2023,v Vidarbha,New Chandigarh,1,3,43,-,29,2,3,148.27,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,4 Nov 2023,v Punjab,Mohali,1,3,7,-,9,1,0,77.77,lbw,2,DNB,-,-,-,-
+1292498,Yash Dhull,23 Nov 2024,v UP,Wankhede,1,2,6,-,10,1,0,60,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,25 Nov 2024,v J & K,Wankhede,1,2,27,-,29,2,1,93.1,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,27 Nov 2024,v Haryana,Wankhede,2,2,11,-,11,2,0,100,caught,1,DNB,-,-,-,-
+1292498,Yash Dhull,29 Nov 2024,v Manipur,Wankhede,2,1,59*,-,51,8,1,115.68,not out,1,1.0,0,5,0,5
+1292498,Yash Dhull,1 Dec 2024,v Himachal,Mumbai,2,2,47,-,31,4,3,151.61,bowled,1,DNB,-,-,-,-
+1292498,Yash Dhull,3 Dec 2024,v Jharkhand,Mumbai,1,2,0,-,3,0,0,0,run out,2,DNB,-,-,-,-
+1292498,Yash Dhull,5 Dec 2024,v Arunachal,Mumbai,2,1,35*,-,16,5,2,218.75,not out,1,DNB,-,-,-,-
+1292498,Yash Dhull,11 Dec 2024,v UP,Bengaluru,1,2,42,-,34,5,2,123.52,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,13 Dec 2024,v M. Pradesh,Bengaluru,1,2,11,-,18,1,0,61.11,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,26 Nov 2025,v Jharkhand,Ahmedabad,1,2,21,-,12,4,0,175,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,28 Nov 2025,v Tamil Nadu,Ahmedabad,2,1,71,-,46,4,4,154.34,caught,1,DNB,-,-,-,-
+1292498,Yash Dhull,30 Nov 2025,v Saurashtra,Ahmedabad,1,2,47,-,30,7,1,156.66,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,2 Dec 2025,v Tripura,Ahmedabad,2,2,25,-,19,2,1,131.57,caught,1,DNB,-,-,-,-
+1292498,Yash Dhull,4 Dec 2025,v Karnataka,Ahmedabad,1,2,7,-,5,1,0,140,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,6 Dec 2025,v Rajasthan,Ahmedabad,1,2,38,-,31,3,3,122.58,caught,2,DNB,-,-,-,-
+1292498,Yash Dhull,8 Dec 2025,v Uttarakhand,Ahmedabad,1,1,52,-,37,4,2,140.54,caught,2,DNB,-,-,-,-

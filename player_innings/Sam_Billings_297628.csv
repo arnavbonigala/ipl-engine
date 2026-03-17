@@ -1,0 +1,397 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+297628,Sam Billings,11 Jun 2011,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,15 Jun 2011,v Gloucs,Beckenham,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,18 Jun 2011,v Middlesex,Canterbury,1,7,2,5,3,0,0,66.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jul 2011,v Sussex,Canterbury,2,9,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+297628,Sam Billings,17 Jun 2012,v Surrey,Beckenham,2,1,18,21,19,2,0,94.73,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,20 Jun 2012,v Essex,Chelmsford,2,1,59,70,55,4,2,107.27,caught,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jun 2012,v Hampshire,Southampton,1,1,20,29,26,0,1,76.92,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,24 Jun 2012,v Hampshire,Canterbury,1,1,8,9,11,1,0,72.72,caught,2,DNB,-,-,-,-
+297628,Sam Billings,26 Jun 2012,v Middlesex,Canterbury,2,2,43,38,29,5,1,148.27,caught,1,DNB,-,-,-,-
+297628,Sam Billings,29 Jun 2012,v Sussex,Hove,2,2,38,56,37,1,0,102.7,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,5 Jul 2012,v Surrey,The Oval,1,2,12,22,12,1,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,6 Jul 2012,v Essex,Canterbury,2,2,8,16,16,1,0,50,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,8 Jul 2012,v Middlesex,Uxbridge,2,2,10,6,7,2,0,142.85,caught,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jun 2013,v N Zealanders,Canterbury,2,2,9,16,11,1,0,81.81,caught,1,DNB,-,-,-,-
+297628,Sam Billings,28 Jun 2013,v Middlesex,Canterbury,1,3,26,16,19,5,0,136.84,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 Jun 2013,v Surrey,Canterbury,2,3,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+297628,Sam Billings,5 Jul 2013,v Essex,Canterbury,2,3,15,25,19,1,0,78.94,caught,1,DNB,-,-,-,-
+297628,Sam Billings,7 Jul 2013,v Middlesex,Uxbridge,1,3,22,28,20,1,1,110,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jul 2013,v Essex,Chelmsford,2,3,7,13,10,0,0,70,caught,1,DNB,-,-,-,-
+297628,Sam Billings,21 Jul 2013,v Hampshire,Southampton,1,3,26,38,27,2,0,96.29,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,24 Jul 2013,v Sussex,Canterbury,1,2,24,20,14,2,1,171.42,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,26 Jul 2013,v Surrey,The Oval,1,3,28,26,25,4,0,112,caught,2,DNB,-,-,-,-
+297628,Sam Billings,29 Jul 2013,v Hampshire,Canterbury,2,3,21,26,19,2,0,110.52,caught,1,DNB,-,-,-,-
+297628,Sam Billings,31 Jul 2013,v Sussex,Hove,2,4,19*,17,18,2,0,105.55,not out,1,DNB,-,-,-,-
+297628,Sam Billings,23 May 2014,v Somerset,Taunton,1,4,5,8,3,1,0,166.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 May 2014,v Gloucs,Canterbury,1,5,0,3,3,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,5 Jun 2014,v Hampshire,Southampton,2,5,2,2,3,0,0,66.66,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,6 Jun 2014,v Middlesex,Canterbury,1,6,31*,23,12,2,2,258.33,not out,2,DNB,-,-,-,-
+297628,Sam Billings,11 Jun 2014,v Essex,Canterbury,1,5,26,18,19,3,0,136.84,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,13 Jun 2014,v Glamorgan,Cardiff,2,6,33,34,25,2,1,132,caught,1,DNB,-,-,-,-
+297628,Sam Billings,20 Jun 2014,v Sussex,Canterbury,2,5,23,20,20,3,0,115,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,27 Jun 2014,v Gloucs,Bristol,1,6,7,16,9,0,0,77.77,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Jul 2014,v Surrey,The Oval,1,6,12*,20,13,1,0,92.3,not out,2,DNB,-,-,-,-
+297628,Sam Billings,4 Jul 2014,v Hampshire,Canterbury,2,6,19,14,12,1,1,158.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Jul 2014,v Sussex,Hove,1,7,3,8,9,0,0,33.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,12 Jul 2014,v Essex,Colchester,2,7,25,18,10,0,3,250,caught,1,DNB,-,-,-,-
+297628,Sam Billings,18 Jul 2014,v Somerset,Canterbury,1,6,16,11,9,3,0,177.77,caught,2,DNB,-,-,-,-
+297628,Sam Billings,25 Jul 2014,v Surrey,Canterbury,1,7,8,10,6,1,0,133.33,run out,2,DNB,-,-,-,-
+297628,Sam Billings,15 May 2015,v Sussex,Canterbury,1,4,46,27,28,3,2,164.28,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,22 May 2015,v Hampshire,Southampton,2,4,15,18,14,1,0,107.14,run out,1,DNB,-,-,-,-
+297628,Sam Billings,28 May 2015,v Middlesex,Lord's,2,5,11,17,11,0,0,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,29 May 2015,v Surrey,Beckenham,1,4,5,4,5,1,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,31 May 2015,v Somerset,Taunton,1,4,24,26,18,3,0,133.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,5 Jun 2015,v Gloucs,Beckenham,1,2,26,22,18,1,3,144.44,stumped,2,DNB,-,-,-,-
+297628,Sam Billings,23 Jun 2015,v New Zealand,Manchester,1,6,21,15,11,2,1,190.9,caught,2,DNB,-,-,-,-
+297628,Sam Billings,3 Jul 2015,v Sussex,Hove,2,4,39*,44,24,4,1,162.5,not out,1,DNB,-,-,-,-
+297628,Sam Billings,10 Jul 2015,v Somerset,Canterbury,1,5,22*,14,11,4,0,200,not out,2,DNB,-,-,-,-
+297628,Sam Billings,12 Jul 2015,v Gloucs,Cheltenham,2,4,5,7,7,0,0,71.42,caught,1,DNB,-,-,-,-
+297628,Sam Billings,17 Jul 2015,v Glamorgan,Tunbridge Wells,2,4,8,10,8,0,0,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,15 Aug 2015,v Lancashire,Canterbury,1,4,27,35,27,2,1,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,31 Aug 2015,v Australia,Cardiff,1,6,2,11,7,0,0,28.57,run out,2,DNB,-,-,-,-
+297628,Sam Billings,26 Nov 2015,v Pakistan,Dubai (DICS),1,6,53,27,25,5,2,212,run out,2,DNB,-,-,-,-
+297628,Sam Billings,27 Nov 2015,v Pakistan,Dubai (DICS),1,6,11,16,9,0,1,122.22,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 Nov 2015,v Pakistan,Sharjah,1,7,7,8,8,1,0,87.5,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 Dec 2015,v Pakistan A,ICCA Dubai,1,4,31,-,21,3,1,147.61,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Dec 2015,v Pakistan A,Dubai (DICS),1,4,14,-,13,2,0,107.69,caught,2,DNB,-,-,-,-
+297628,Sam Billings,11 Dec 2015,v Pakistan A,Dubai (DICS),1,4,15,-,15,0,1,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,13 Dec 2015,v Pakistan A,Dubai (DICS),2,4,61*,-,48,4,2,127.08,not out,1,DNB,-,-,-,-
+297628,Sam Billings,16 Dec 2015,v Pakistan A,ICCA Dubai,2,4,50,-,31,4,2,161.29,caught,1,DNB,-,-,-,-
+297628,Sam Billings,4 Feb 2016,v Gladiators,Dubai (DICS),1,5,2,-,4,0,0,50,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,5 Feb 2016,v Zalmi,Dubai (DICS),2,6,26,-,20,1,1,130,caught,1,DNB,-,-,-,-
+297628,Sam Billings,7 Feb 2016,v Kings,Dubai (DICS),1,7,4,-,2,1,0,200,run out,2,DNB,-,-,-,-
+297628,Sam Billings,10 Feb 2016,v Qalandars,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,11 Feb 2016,v Gladiators,Sharjah,1,5,2,-,4,0,0,50,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,17 Feb 2016,v SA A,Paarl,1,6,4*,9,4,0,0,100,not out,2,DNB,-,-,-,-
+297628,Sam Billings,21 Feb 2016,v South Africa,Johannesburg,1,7,5,14,6,1,0,83.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 Apr 2016,v KKR,Delhi,1,5,54,62,34,3,2,158.82,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,3 May 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,5 May 2016,v Supergiants,Delhi,1,5,24,25,15,1,2,160,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 May 2016,v Kings XI,Mohali,2,4,6,22,9,0,0,66.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,22 May 2016,v RCB,Raipur,1,5,4,8,6,0,0,66.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Jun 2016,v Hampshire,Southampton,2,4,3,4,3,0,0,100,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,3 Jun 2016,v Gloucs,Beckenham,1,4,7,16,11,0,0,63.63,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jun 2016,v Hampshire,Canterbury,1,4,55*,37,30,3,2,183.33,not out,2,DNB,-,-,-,-
+297628,Sam Billings,10 Jun 2016,v Sussex,Hove,1,5,10,15,11,1,0,90.9,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,17 Jun 2016,v Glamorgan,Cardiff,2,4,1,9,4,0,0,25,caught,1,DNB,-,-,-,-
+297628,Sam Billings,24 Jun 2016,v Middlesex,Canterbury,2,6,7,12,11,0,0,63.63,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 Jun 2016,v Sussex,Canterbury,1,4,22,13,13,1,1,169.23,caught,2,DNB,-,-,-,-
+297628,Sam Billings,1 Jul 2016,v Essex,Chelmsford,2,4,18,19,12,1,1,150,run out,1,DNB,-,-,-,-
+297628,Sam Billings,5 Jul 2016,v Sri Lanka,Southampton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,7 Jul 2016,v Somerset,Taunton,1,4,14,15,10,2,0,140,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jul 2016,v Gloucs,Bristol,1,4,16,27,19,0,0,84.21,run out,2,DNB,-,-,-,-
+297628,Sam Billings,15 Jul 2016,v Surrey,Tunbridge Wells,2,4,8*,17,13,0,0,61.53,not out,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jul 2016,v Essex,Canterbury,2,4,1,3,2,0,0,50,caught,1,DNB,-,-,-,-
+297628,Sam Billings,29 Jul 2016,v Surrey,The Oval,2,4,2,4,3,0,0,66.66,stumped,1,DNB,-,-,-,-
+297628,Sam Billings,20 Dec 2016,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,23 Dec 2016,v Hurricanes,Sydney,2,5,42,-,33,3,0,127.27,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,27 Dec 2016,v Scorchers,Sydney,2,1,40,-,30,7,0,133.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,31 Dec 2016,v Strikers,Adelaide,2,6,40,-,30,2,2,133.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,3 Jan 2017,v Heat,Brisbane,2,5,5,-,5,0,0,100,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,26 Jan 2017,v India,Kanpur,2,2,22,20,10,3,1,220,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,29 Jan 2017,v India,Nagpur,2,2,12,12,9,0,1,133.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,1 Feb 2017,v India,Bengaluru,2,2,0,8,1,0,0,0,caught,1,DNB,-,-,-,-
+297628,Sam Billings,9 Feb 2017,v Zalmi,Dubai (DICS),2,5,7*,-,3,1,0,233.33,not out,1,DNB,-,-,-,-
+297628,Sam Billings,11 Feb 2017,v Qalandars,Dubai (DICS),1,2,37,-,28,4,1,132.14,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,15 Feb 2017,v Gladiators,Sharjah,2,2,78*,-,50,8,3,156,not out,1,DNB,-,-,-,-
+297628,Sam Billings,17 Feb 2017,v Kings,Sharjah,1,2,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,18 Feb 2017,v Zalmi,Sharjah,2,4,11,-,16,1,0,68.75,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,8 Apr 2017,v RCB,Bengaluru,2,2,25,35,19,1,1,131.57,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Apr 2017,v Supergiant,Pune,1,2,24,42,17,4,0,141.17,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,15 Apr 2017,v Kings XI,Delhi,1,2,55,63,40,9,0,137.5,caught,2,DNB,-,-,-,-
+297628,Sam Billings,17 Apr 2017,v KKR,Delhi,1,2,21,27,17,2,0,123.52,caught,2,DNB,-,-,-,-
+297628,Sam Billings,19 Apr 2017,v SRH,Hyderabad,2,2,13,7,9,3,0,144.44,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 Apr 2017,v Kings XI,Mohali,1,2,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,21 Jun 2017,v South Africa,Southampton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,23 Jun 2017,v South Africa,Taunton,2,2,3,11,4,0,0,75,caught,1,DNB,-,-,-,-
+297628,Sam Billings,25 Jun 2017,v South Africa,Cardiff,1,5,12,19,11,0,1,109.09,caught,2,DNB,-,-,-,-
+297628,Sam Billings,9 Jul 2017,v Essex,Beckenham,2,4,6,12,7,0,0,85.71,caught,1,DNB,-,-,-,-
+297628,Sam Billings,13 Jul 2017,v Gloucs,Cheltenham,1,4,36,39,25,3,1,144,caught,2,DNB,-,-,-,-
+297628,Sam Billings,14 Jul 2017,v Surrey,The Oval,2,3,16,14,8,2,1,200,caught,1,DNB,-,-,-,-
+297628,Sam Billings,18 Jul 2017,v Gloucs,Canterbury,2,4,15,21,16,1,1,93.75,caught,1,DNB,-,-,-,-
+297628,Sam Billings,20 Jul 2017,v Middlesex,Richmond,2,4,9,19,11,1,0,81.81,caught,1,DNB,-,-,-,-
+297628,Sam Billings,23 Jul 2017,v Sussex,Hove,1,4,64,60,42,9,1,152.38,caught,2,DNB,-,-,-,-
+297628,Sam Billings,27 Jul 2017,v Somerset,Canterbury,2,5,14*,10,7,1,0,200,not out,1,DNB,-,-,-,-
+297628,Sam Billings,30 Jul 2017,v Glamorgan,Canterbury,2,6,4*,7,5,0,0,80,not out,1,DNB,-,-,-,-
+297628,Sam Billings,1 Aug 2017,v Hampshire,Southampton,1,4,4,8,5,0,0,80,caught,2,DNB,-,-,-,-
+297628,Sam Billings,4 Aug 2017,v Sussex,Canterbury,1,4,74,72,40,4,5,185,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,11 Aug 2017,v Hampshire,Canterbury,1,4,40,36,25,3,2,160,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,12 Aug 2017,v Somerset,Taunton,2,4,56*,49,36,3,3,155.55,not out,1,DNB,-,-,-,-
+297628,Sam Billings,17 Aug 2017,v Essex,Chelmsford,1,3,8,6,5,1,0,160,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 Aug 2017,v Surrey,Canterbury,2,4,15,12,11,2,0,136.36,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,19 Dec 2017,v Thunder,Sydney,1,5,32,-,21,2,1,152.38,run out,2,DNB,-,-,-,-
+297628,Sam Billings,23 Dec 2017,v Scorchers,Sydney,1,5,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,28 Dec 2017,v Strikers,Sydney,2,5,8,-,10,0,0,80,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,1 Jan 2018,v Scorchers,W.A.C.A,1,5,33,-,21,2,2,157.14,caught,2,DNB,-,-,-,-
+297628,Sam Billings,3 Jan 2018,v Renegades,Geelong,1,5,22,-,26,2,0,84.61,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jan 2018,v Hurricanes,Hobart,2,5,61*,-,31,6,3,196.77,not out,1,DNB,-,-,-,-
+297628,Sam Billings,7 Feb 2018,v Australia,Hobart,1,6,10,10,9,1,0,111.11,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Feb 2018,v Australia,Melbourne,1,6,29,30,23,4,1,126.08,caught,2,DNB,-,-,-,-
+297628,Sam Billings,13 Feb 2018,v New Zealand,Wellington,2,6,12,13,11,1,0,109.09,caught,1,DNB,-,-,-,-
+297628,Sam Billings,18 Feb 2018,v New Zealand,Hamilton,1,6,6,17,8,0,0,75,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,10 Apr 2018,v KKR,Chennai,2,5,56,-,23,2,5,243.47,caught,1,DNB,-,-,-,-
+297628,Sam Billings,15 Apr 2018,v Kings XI,Mohali,2,4,9,-,8,1,0,112.5,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,20 Apr 2018,v RR,Pune,1,5,3,-,7,0,0,42.85,caught,2,DNB,-,-,-,-
+297628,Sam Billings,22 Apr 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,25 Apr 2018,v RCB,Bengaluru,2,4,9,-,7,2,0,128.57,stumped,1,DNB,-,-,-,-
+297628,Sam Billings,28 Apr 2018,v MI,Pune,1,6,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+297628,Sam Billings,11 May 2018,v RR,Jaipur,1,5,27,-,22,3,0,122.72,run out,2,DNB,-,-,-,-
+297628,Sam Billings,13 May 2018,v SRH,Pune,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,18 May 2018,v Daredevils,Delhi,2,5,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+297628,Sam Billings,20 May 2018,v Kings XI,Pune,2,4,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,31 May 2018,v West Indies,Lord's,2,3,4,-,6,1,0,66.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,6 Jul 2018,v Surrey,The Oval,1,4,14,11,11,3,0,127.27,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Jul 2018,v Somerset,Taunton,2,4,18*,13,9,1,1,200,not out,1,DNB,-,-,-,-
+297628,Sam Billings,11 Jul 2018,v Gloucs,Bristol,2,4,24,12,11,0,3,218.18,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,13 Jul 2018,v Hampshire,Beckenham,1,4,95*,59,54,7,5,175.92,not out,2,DNB,-,-,-,-
+297628,Sam Billings,20 Jul 2018,v Surrey,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,27 Jul 2018,v Sussex,Canterbury,1,4,3*,4,4,0,0,75,not out,-,TDNB,-,-,-,-
+297628,Sam Billings,2 Aug 2018,v Essex,Canterbury,1,4,56*,53,39,6,1,143.58,not out,2,DNB,-,-,-,-
+297628,Sam Billings,3 Aug 2018,v Hampshire,Southampton,1,4,8,10,7,1,0,114.28,caught,2,DNB,-,-,-,-
+297628,Sam Billings,5 Aug 2018,v Gloucs,Canterbury,1,4,7,19,13,0,0,53.84,caught,2,DNB,-,-,-,-
+297628,Sam Billings,12 Aug 2018,v Middlesex,Beckenham,2,4,20,21,18,1,0,111.11,caught,1,DNB,-,-,-,-
+297628,Sam Billings,16 Aug 2018,v Somerset,Canterbury,1,4,57*,59,35,8,0,162.85,not out,2,DNB,-,-,-,-
+297628,Sam Billings,17 Aug 2018,v Essex,Chelmsford,2,4,33,18,19,4,2,173.68,caught,1,DNB,-,-,-,-
+297628,Sam Billings,23 Aug 2018,v Lancashire,Canterbury,1,4,37,54,37,2,0,100,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,5 Mar 2019,v West Indies,Gros Islet,2,6,18,-,16,1,0,112.5,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,8 Mar 2019,v West Indies,Basseterre,1,6,87,-,47,10,3,185.1,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Mar 2019,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,17 Apr 2019,v SRH,Hyderabad,1,6,0,7,4,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Aug 2019,v Somerset,Taunton,2,4,7,10,9,0,0,77.77,caught,1,DNB,-,-,-,-
+297628,Sam Billings,23 Aug 2019,v Surrey,Canterbury,2,5,5*,8,4,0,0,125,not out,1,DNB,-,-,-,-
+297628,Sam Billings,29 Aug 2019,v Gloucs,Canterbury,2,4,55,45,40,2,3,137.5,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 Aug 2019,v Essex,Chelmsford,2,4,7,7,6,0,0,116.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,1 Nov 2019,v New Zealand,Christchurch,2,5,14*,-,11,2,0,127.27,not out,1,DNB,-,-,-,-
+297628,Sam Billings,3 Nov 2019,v New Zealand,Wellington,2,5,8,16,10,0,0,80,caught,1,DNB,-,-,-,-
+297628,Sam Billings,5 Nov 2019,v New Zealand,Nelson,2,5,1,4,2,0,0,50,run out,1,DNB,-,-,-,-
+297628,Sam Billings,8 Nov 2019,v New Zealand,Napier,1,5,0*,3,1,0,0,0,not out,2,DNB,-,-,-,-
+297628,Sam Billings,10 Nov 2019,v New Zealand,Auckland,2,6,11*,-,10,1,0,110,not out,1,DNB,-,-,-,-
+297628,Sam Billings,28 Aug 2020,v Pakistan,Manchester,1,6,3*,-,5,0,0,60,not out,-,TDNB,-,-,-,-
+297628,Sam Billings,30 Aug 2020,v Pakistan,Manchester,2,6,10,8,5,2,0,200,caught,1,DNB,-,-,-,-
+297628,Sam Billings,1 Sep 2020,v Pakistan,Manchester,2,6,26,29,24,2,1,108.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,8 Sep 2020,v Australia,Southampton,1,4,4,11,4,0,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 Sep 2020,v Essex,Canterbury,2,5,18,14,11,1,1,163.63,caught,1,DNB,-,-,-,-
+297628,Sam Billings,20 Sep 2020,v Surrey,The Oval,1,4,50,45,33,6,0,151.51,caught,2,DNB,-,-,-,-
+297628,Sam Billings,1 Oct 2020,v Surrey,The Oval,2,4,18,29,21,1,1,85.71,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,29 Dec 2020,v Stars,Canberra,1,5,6,-,6,0,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,1 Jan 2021,v Renegades,Carrara,2,4,10*,-,10,1,0,100,not out,1,DNB,-,-,-,-
+297628,Sam Billings,4 Jan 2021,v Heat,Brisbane,1,4,22,-,16,0,2,137.5,run out,2,DNB,-,-,-,-
+297628,Sam Billings,7 Jan 2021,v Hurricanes,Perth,1,4,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+297628,Sam Billings,9 Jan 2021,v Scorchers,Perth,2,4,83,-,48,8,4,172.91,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,13 Jan 2021,v Sixers,Canberra,1,4,15,-,15,1,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 Jan 2021,v Hurricanes,Canberra,1,5,50,-,34,4,1,147.05,caught,2,DNB,-,-,-,-
+297628,Sam Billings,22 Jan 2021,v Sixers,Adelaide,1,4,33,-,21,3,1,157.14,caught,2,DNB,-,-,-,-
+297628,Sam Billings,24 Jan 2021,v Strikers,Adelaide,2,5,6,-,3,1,0,200,run out,1,DNB,-,-,-,-
+297628,Sam Billings,25 Jan 2021,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,31 Jan 2021,v Heat,Canberra,1,4,34,-,24,3,1,141.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,15 Jun 2021,v Somerset,Taunton,2,4,14,22,15,2,0,93.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,16 Jun 2021,v Glamorgan,Cardiff,1,4,30,36,30,0,2,100,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,24 Jun 2021,v Sri Lanka,Cardiff,2,5,24,41,29,2,0,82.75,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,26 Jun 2021,v Sri Lanka,Southampton,1,4,2,7,3,0,0,66.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,22 Jul 2021,v Originals,The Oval,1,5,49,-,30,4,2,163.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297628,Sam Billings,31 Jul 2021,v N S-Chargers,Leeds,1,5,3,7,4,0,0,75,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,2 Aug 2021,v Fire,The Oval,2,4,40*,50,34,2,1,117.64,not out,1,DNB,-,-,-,-
+297628,Sam Billings,4 Aug 2021,v Phoenix,Birmingham,1,4,24,27,17,2,1,141.17,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Aug 2021,v Rockets,The Oval,1,5,6,7,4,1,0,150,stumped,2,DNB,-,-,-,-
+297628,Sam Billings,14 Aug 2021,v Spirit,The Oval,2,5,9,16,8,1,0,112.5,caught,1,DNB,-,-,-,-
+297628,Sam Billings,16 Aug 2021,v Brave,Southampton,1,4,12,15,12,2,0,100,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,27 Aug 2021,v Bears,Canterbury,1,4,56,55,37,8,1,151.35,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 Sep 2021,v Sussex,Birmingham,1,4,14,21,14,1,0,100,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,18 Sep 2021,v Somerset,Birmingham,1,4,2,6,5,0,0,40,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Nov 2021,v New Zealand,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,6 Dec 2021,v Heat,Canberra,2,4,44*,59,36,5,1,122.22,not out,1,DNB,-,-,-,-
+297628,Sam Billings,10 Dec 2021,v Stars,Melbourne,2,4,43,42,31,2,2,138.7,caught,1,DNB,-,-,-,-
+297628,Sam Billings,12 Dec 2021,v Stars,Sydney,1,4,9,32,19,0,0,47.36,caught,2,DNB,-,-,-,-
+297628,Sam Billings,19 Dec 2021,v Heat,Brisbane,1,4,64,41,27,5,5,237.03,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,26 Dec 2021,v Sixers,Sydney,2,4,9,11,6,0,1,150,caught,1,DNB,-,-,-,-
+297628,Sam Billings,28 Dec 2021,v Scorchers,Canberra,1,4,67,47,35,10,2,191.42,caught,2,DNB,-,-,-,-
+297628,Sam Billings,31 Dec 2021,v Strikers,Adelaide,1,4,18,-,11,1,1,163.63,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Jan 2022,v Strikers,Sydney,1,4,11,14,9,1,0,122.22,caught,2,DNB,-,-,-,-
+297628,Sam Billings,6 Jan 2022,v Scorchers,Carrara,2,4,19*,27,11,4,0,172.72,not out,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jan 2022,v West Indies,Bridgetown,1,6,2,10,4,0,0,50,stumped,2,DNB,-,-,-,-
+297628,Sam Billings,23 Jan 2022,v West Indies,Bridgetown,1,5,5,13,7,1,0,71.42,caught,2,DNB,-,-,-,-
+297628,Sam Billings,29 Jan 2022,v West Indies,Bridgetown,1,6,13*,12,4,0,2,325,not out,2,DNB,-,-,-,-
+297628,Sam Billings,30 Jan 2022,v West Indies,Bridgetown,2,6,41,44,28,1,2,146.42,caught,1,DNB,-,-,-,-
+297628,Sam Billings,26 Mar 2022,v CSK,Wankhede,2,5,25,25,22,1,1,113.63,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 Mar 2022,v RCB,DY Patil,1,6,14,28,15,0,1,93.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,1 Apr 2022,v Punjab Kings,Wankhede,2,4,24*,49,23,1,1,104.34,not out,1,DNB,-,-,-,-
+297628,Sam Billings,6 Apr 2022,v MI,Pune,2,4,17,19,12,0,2,141.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,10 Apr 2022,v DC,Brabourne,2,6,15,10,9,1,1,166.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,23 Apr 2022,v GT,DY Patil,2,1,4,5,4,1,0,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,14 May 2022,v SRH,Pune,1,5,34,58,29,3,1,117.24,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 May 2022,v LSG,DY Patil,2,5,36,44,24,2,3,150,stumped,1,DNB,-,-,-,-
+297628,Sam Billings,25 May 2022,v Somerset,Canterbury,1,4,5,9,9,1,0,55.55,caught,2,DNB,-,-,-,-
+297628,Sam Billings,27 May 2022,v Essex,Canterbury,1,4,48*,41,31,4,3,154.83,not out,2,DNB,-,-,-,-
+297628,Sam Billings,29 May 2022,v Sussex,Hove,2,4,31,29,23,6,0,134.78,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,1 Jun 2022,v Gloucs,Bristol,1,4,22,22,18,3,0,122.22,caught,2,DNB,-,-,-,-
+297628,Sam Billings,3 Jun 2022,v Surrey,Canterbury,2,4,16,18,17,1,0,94.11,caught,1,DNB,-,-,-,-
+297628,Sam Billings,5 Jun 2022,v Middlesex,Canterbury,1,5,5,17,7,0,0,71.42,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 Jun 2022,v Essex,Chelmsford,1,5,8,19,13,0,0,61.53,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Jun 2022,v Somerset,Taunton,1,5,8,6,7,1,0,114.28,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,17 Jun 2022,v Hampshire,Southampton,2,4,12,20,12,0,0,100,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,19 Jun 2022,v Middlesex,Lord's,1,4,29,38,33,2,0,87.87,caught,2,DNB,-,-,-,-
+297628,Sam Billings,21 Jun 2022,v Gloucs,Canterbury,2,5,26,19,13,1,2,200,caught,1,DNB,-,-,-,-
+297628,Sam Billings,24 Jun 2022,v Sussex,Canterbury,2,4,43*,55,33,4,0,130.3,not out,1,DNB,-,-,-,-
+297628,Sam Billings,4 Aug 2022,v Spirit,The Oval,2,4,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+297628,Sam Billings,7 Aug 2022,v Fire,Cardiff,1,4,14,-,13,1,0,107.69,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,14 Aug 2022,v Brave,The Oval,2,4,8,-,8,1,0,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,17 Aug 2022,v Rockets,Nottingham,2,4,0,-,3,0,0,0,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,23 Aug 2022,v Phoenix,The Oval,2,6,0,4,1,0,0,0,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,27 Aug 2022,v Spirit,Lord's,2,6,4*,1,1,1,0,400,not out,1,DNB,-,-,-,-
+297628,Sam Billings,31 Aug 2022,v Originals,Manchester,1,4,53,48,33,4,3,160.6,caught,2,DNB,-,-,-,-
+297628,Sam Billings,15 Dec 2022,v Renegades,Cairns,2,4,6,18,10,0,0,60,caught,1,DNB,-,-,-,-
+297628,Sam Billings,21 Dec 2022,v Renegades,Geelong,1,4,25,-,19,0,1,131.57,caught,2,DNB,-,-,-,-
+297628,Sam Billings,23 Dec 2022,v Strikers,Brisbane,1,4,79,76,48,6,4,164.58,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,27 Dec 2022,v Thunder,Sydney,1,4,1,4,4,0,0,25,caught,2,DNB,-,-,-,-
+297628,Sam Billings,29 Dec 2022,v Thunder,Carrara,2,4,5,15,7,1,0,71.42,stumped,1,DNB,-,-,-,-
+297628,Sam Billings,1 Jan 2023,v Sixers,Brisbane,1,4,28,-,21,1,1,133.33,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,4 Jan 2023,v Sixers,North Sydney,1,3,16,12,9,2,1,177.77,caught,-,TDNB,-,-,-,-
+297628,Sam Billings,7 Jan 2023,v Scorchers,Perth,1,4,27,33,23,2,1,117.39,caught,2,DNB,-,-,-,-
+297628,Sam Billings,14 Feb 2023,v Strikers,Mirpur,2,2,1,6,4,0,0,25,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,26 Feb 2023,v Zalmi,Lahore,1,4,47*,38,23,5,3,204.34,not out,2,DNB,-,-,-,-
+297628,Sam Billings,27 Feb 2023,v United,Lahore,1,4,33,39,23,5,0,143.47,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Mar 2023,v Gladiators,Lahore,1,4,2,7,5,0,0,40,caught,2,DNB,-,-,-,-
+297628,Sam Billings,4 Mar 2023,v Sultans,Lahore,1,4,54,51,35,6,2,154.28,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,7 Mar 2023,v Zalmi,Rawalpindi,2,4,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+297628,Sam Billings,9 Mar 2023,v United,Rawalpindi,1,4,32,47,22,2,2,145.45,caught,2,DNB,-,-,-,-
+297628,Sam Billings,12 Mar 2023,v Kings,Lahore,2,4,11,24,13,0,0,84.61,caught,1,DNB,-,-,-,-
+297628,Sam Billings,15 Mar 2023,v Sultans,Lahore,2,4,19,49,27,1,0,70.37,caught,1,DNB,-,-,-,-
+297628,Sam Billings,17 Mar 2023,v Zalmi,Lahore,2,5,28,43,21,3,0,133.33,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,18 Mar 2023,v Sultans,Lahore,1,4,9,10,8,0,1,112.5,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,24 May 2023,v Gloucs,Canterbury,2,4,6,8,7,0,0,85.71,caught,1,DNB,-,-,-,-
+297628,Sam Billings,26 May 2023,v Surrey,The Oval,2,6,5,3,3,1,0,166.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 May 2023,v Somerset,Canterbury,2,4,29,35,27,2,1,107.4,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,2 Jun 2023,v Glamorgan,Cardiff,1,4,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+297628,Sam Billings,4 Jun 2023,v Surrey,Canterbury,1,4,30,33,28,1,1,107.14,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,7 Jun 2023,v Essex,Canterbury,1,4,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,9 Jun 2023,v Hampshire,Canterbury,2,4,13,16,10,2,0,130,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,16 Jun 2023,v Middlesex,Lord's,1,5,24*,22,15,3,1,160,not out,2,DNB,-,-,-,-
+297628,Sam Billings,17 Jun 2023,v Gloucs,Bristol,2,4,28,20,18,2,1,155.55,run out,1,DNB,-,-,-,-
+297628,Sam Billings,20 Jun 2023,v Sussex,Hove,2,4,2,6,3,0,0,66.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jun 2023,v Essex,Chelmsford,2,4,13,10,8,0,1,162.5,caught,1,DNB,-,-,-,-
+297628,Sam Billings,23 Jun 2023,v Middlesex,Canterbury,1,5,23*,7,7,2,2,328.57,not out,2,DNB,-,-,-,-
+297628,Sam Billings,30 Jun 2023,v Sussex,Canterbury,2,4,11,17,8,1,0,137.5,run out,1,DNB,-,-,-,-
+297628,Sam Billings,2 Jul 2023,v Somerset,Taunton,2,2,36,38,21,3,2,171.42,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,2 Aug 2023,v Spirit,Lord's,2,6,25,24,15,2,1,166.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,6 Aug 2023,v Fire,The Oval,2,6,4,7,5,0,0,80,caught,1,DNB,-,-,-,-
+297628,Sam Billings,9 Aug 2023,v Originals,The Oval,1,6,5*,8,2,1,0,250,not out,2,DNB,-,-,-,-
+297628,Sam Billings,11 Aug 2023,v N S-Chargers,Leeds,1,7,0*,1,1,0,0,0,not out,2,DNB,-,-,-,-
+297628,Sam Billings,13 Aug 2023,v Phoenix,Birmingham,2,6,14,7,8,1,1,175,caught,1,DNB,-,-,-,-
+297628,Sam Billings,15 Aug 2023,v Spirit,The Oval,1,6,2*,1,1,0,0,200,not out,2,DNB,-,-,-,-
+297628,Sam Billings,19 Aug 2023,v Brave,Southampton,1,6,0,1,2,0,0,0,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,21 Aug 2023,v Rockets,The Oval,2,5,76*,47,40,5,5,190,not out,1,DNB,-,-,-,-
+297628,Sam Billings,27 Aug 2023,v Originals,Lord's,1,5,10,11,11,2,0,90.9,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 Dec 2023,v Stars,Brisbane,1,4,18,20,11,1,1,163.63,caught,2,DNB,-,-,-,-
+297628,Sam Billings,12 Dec 2023,v Thunder,Canberra,1,5,23,27,18,3,0,127.77,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,21 Dec 2023,v Renegades,Melbourne (Docklands),2,5,40,29,29,3,1,137.93,caught,1,DNB,-,-,-,-
+297628,Sam Billings,27 Dec 2023,v Thunder,Brisbane,1,5,23,14,13,4,0,176.92,caught,2,DNB,-,-,-,-
+297628,Sam Billings,3 Jan 2024,v Sixers,Coffs Harbour,2,5,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,7 Jan 2024,v Hurricanes,Brisbane,1,5,3,21,8,0,0,37.5,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Jan 2024,v Scorchers,Brisbane,1,5,37,47,21,2,2,176.19,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,20 Jan 2024,v MI Emirates,Dubai (DICS),2,4,13*,26,17,0,0,76.47,not out,1,DNB,-,-,-,-
+297628,Sam Billings,22 Jan 2024,v Warriors,Dubai (DICS),1,4,52,-,31,1,4,167.74,caught,2,DNB,-,-,-,-
+297628,Sam Billings,25 Jan 2024,v KnightRiders,Dubai (DICS),2,4,67,53,35,9,1,191.42,caught,1,DNB,-,-,-,-
+297628,Sam Billings,27 Jan 2024,v Gulf Giants,Sharjah,1,4,10,-,10,1,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,29 Jan 2024,v Warriors,Sharjah,1,4,9,-,11,0,0,81.81,caught,2,DNB,-,-,-,-
+297628,Sam Billings,1 Feb 2024,v Vipers,Dubai (DICS),2,4,6,10,8,0,0,75,caught,1,DNB,-,-,-,-
+297628,Sam Billings,3 Feb 2024,v KnightRiders,Abu Dhabi,2,4,2,-,11,0,0,18.18,caught,1,DNB,-,-,-,-
+297628,Sam Billings,6 Feb 2024,v Gulf Giants,Dubai (DICS),2,4,12,8,7,2,0,171.42,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,9 Feb 2024,v Vipers,Dubai (DICS),2,4,57,54,36,5,2,158.33,lbw,1,DNB,-,-,-,-
+297628,Sam Billings,10 Feb 2024,v MI Emirates,Abu Dhabi,1,4,6,19,7,0,0,85.71,caught,2,DNB,-,-,-,-
+297628,Sam Billings,13 Feb 2024,v KnightRiders,Abu Dhabi,1,5,46*,41,26,2,2,176.92,not out,2,DNB,-,-,-,-
+297628,Sam Billings,15 Feb 2024,v Gulf Giants,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,17 Feb 2024,v MI Emirates,Dubai (DICS),2,4,40,44,29,3,2,137.93,stumped,1,DNB,-,-,-,-
+297628,Sam Billings,31 May 2024,v Middlesex,Chelmsford,1,4,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Jun 2024,v Hampshire,Southampton,1,4,43,37,30,2,1,143.33,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 Jun 2024,v Somerset,Canterbury,2,5,106,66,58,14,2,182.75,caught,1,DNB,-,-,-,-
+297628,Sam Billings,9 Jun 2024,v Middlesex,Canterbury,1,5,10,20,13,1,0,76.92,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,14 Jun 2024,v Somerset,Taunton,2,4,16,16,10,3,0,160,run out,1,DNB,-,-,-,-
+297628,Sam Billings,16 Jun 2024,v Gloucs,Canterbury,1,5,36,29,26,6,0,138.46,caught,2,DNB,-,-,-,-
+297628,Sam Billings,20 Jun 2024,v Sussex,Hove,2,4,51,43,35,5,1,145.71,caught,1,DNB,-,-,-,-
+297628,Sam Billings,21 Jun 2024,v Essex,Canterbury,1,4,38,26,20,4,1,190,caught,2,DNB,-,-,-,-
+297628,Sam Billings,5 Jul 2024,v Gloucs,Cheltenham,1,4,1,9,5,0,0,20,caught,2,DNB,-,-,-,-
+297628,Sam Billings,7 Jul 2024,v Surrey,The Oval,2,4,14*,22,11,1,1,127.27,not out,1,DNB,-,-,-,-
+297628,Sam Billings,11 Jul 2024,v Essex,Chelmsford,2,4,12,12,10,1,0,120,caught,1,DNB,-,-,-,-
+297628,Sam Billings,12 Jul 2024,v Sussex,Canterbury,2,5,14,10,8,0,1,175,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,16 Jul 2024,v Glamorgan,Canterbury,2,4,33,25,17,4,1,194.11,caught,1,DNB,-,-,-,-
+297628,Sam Billings,19 Jul 2024,v Surrey,Canterbury,1,3,37,22,17,5,1,217.64,caught,2,DNB,-,-,-,-
+297628,Sam Billings,23 Jul 2024,v Phoenix,The Oval,2,4,31*,36,28,4,1,110.71,not out,1,DNB,-,-,-,-
+297628,Sam Billings,28 Jul 2024,v Fire,Cardiff,1,4,3,6,6,0,0,50,caught,2,DNB,-,-,-,-
+297628,Sam Billings,2 Aug 2024,v N S-Chargers,The Oval,2,4,2,7,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,4 Aug 2024,v Spirit,Lord's,1,4,17,32,22,0,1,77.27,retired out,2,DNB,-,-,-,-
+297628,Sam Billings,6 Aug 2024,v Originals,Manchester,1,5,24,12,12,1,2,200,caught,2,DNB,-,-,-,-
+297628,Sam Billings,8 Aug 2024,v Brave,The Oval,2,5,5,3,3,1,0,166.66,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Aug 2024,v Spirit,The Oval,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,14 Aug 2024,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,18 Aug 2024,v Brave,Lord's,1,5,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,29 Aug 2024,v Patriots,North Sound,1,4,18,20,14,2,0,128.57,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 Aug 2024,v Amazon,North Sound,1,4,10,-,7,2,0,142.85,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,1 Sep 2024,v Royals,North Sound,1,3,8,-,12,1,0,66.66,stumped,2,DNB,-,-,-,-
+297628,Sam Billings,3 Sep 2024,v Kings,North Sound,1,6,14,14,12,3,0,116.66,stumped,2,DNB,-,-,-,-
+297628,Sam Billings,5 Sep 2024,v Trinbago,North Sound,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,8 Sep 2024,v Patriots,Basseterre,2,4,18,33,21,1,0,85.71,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Sep 2024,v Royals,Bridgetown,1,3,56,46,43,5,1,130.23,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,15 Sep 2024,v Kings,Gros Islet,2,3,5,8,5,1,0,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,17 Dec 2024,v Strikers,Canberra,2,5,29,33,26,3,0,111.53,caught,1,DNB,-,-,-,-
+297628,Sam Billings,21 Dec 2024,v Sixers,Sydney,1,7,15*,13,10,1,1,150,not out,2,DNB,-,-,-,-
+297628,Sam Billings,28 Dec 2024,v Stars,Canberra,1,5,72,56,39,9,2,184.61,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,30 Dec 2024,v Renegades,Sydney,1,5,10,18,10,1,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,3 Jan 2025,v Scorchers,Perth,2,5,13,13,9,2,0,144.44,caught,1,DNB,-,-,-,-
+297628,Sam Billings,6 Jan 2025,v Heat,Brisbane,1,4,10,9,9,1,0,111.11,caught,2,DNB,-,-,-,-
+297628,Sam Billings,10 Jan 2025,v Hurricanes,Hobart,1,5,28,18,15,4,0,186.66,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,13 Jan 2025,v Scorchers,Sydney,1,4,8,14,18,0,0,44.44,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,17 Jan 2025,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297628,Sam Billings,22 Jan 2025,v Stars,Sydney,1,4,24,31,25,4,0,96,caught,2,DNB,-,-,-,-
+297628,Sam Billings,24 Jan 2025,v Sixers,Sydney,2,4,42*,54,29,2,2,144.82,not out,1,DNB,-,-,-,-
+297628,Sam Billings,27 Jan 2025,v Hurricanes,Hobart,1,4,20,16,14,1,1,142.85,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,2 Feb 2025,v KnightRiders,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,3 Feb 2025,v Vipers,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,5 Feb 2025,v Vipers,Dubai (DICS),2,4,38,18,16,5,2,237.5,run out,1,DNB,-,-,-,-
+297628,Sam Billings,9 Feb 2025,v Vipers,Dubai (DICS),2,4,6,12,10,0,0,60,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Apr 2025,v United,Rawalpindi,1,5,0,4,3,0,0,0,caught,2,DNB,-,-,-,-
+297628,Sam Billings,13 Apr 2025,v Gladiators,Rawalpindi,1,6,50*,28,19,4,4,263.15,not out,2,DNB,-,-,-,-
+297628,Sam Billings,15 Apr 2025,v Kings,Karachi,1,5,19,13,10,2,1,190,caught,2,DNB,-,-,-,-
+297628,Sam Billings,22 Apr 2025,v Sultans,Multan,2,5,43,35,23,2,4,186.95,caught,1,DNB,-,-,-,-
+297628,Sam Billings,24 Apr 2025,v Zalmi,Lahore,1,5,9,-,9,2,0,100,caught,2,DNB,-,-,-,-
+297628,Sam Billings,26 Apr 2025,v Sultans,Lahore,2,5,0,3,3,0,0,0,caught,1,DNB,-,-,-,-
+297628,Sam Billings,30 Apr 2025,v United,Lahore,1,5,38*,-,17,1,4,223.52,not out,2,DNB,-,-,-,-
+297628,Sam Billings,1 May 2025,v Gladiators,Lahore,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297628,Sam Billings,4 May 2025,v Kings,Lahore,1,5,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 May 2025,v Gloucs,Bristol,1,5,15*,-,8,1,1,187.5,not out,2,DNB,-,-,-,-
+297628,Sam Billings,5 Jun 2025,v Middlesex,Lord's,1,5,8,9,6,1,0,133.33,lbw,-,TDNB,-,-,-,-
+297628,Sam Billings,6 Jun 2025,v Surrey,Canterbury,2,6,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+297628,Sam Billings,8 Jun 2025,v Hampshire,Canterbury,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,12 Jun 2025,v Surrey,The Oval,1,5,3,12,6,0,0,50,caught,2,DNB,-,-,-,-
+297628,Sam Billings,15 Jun 2025,v Somerset,Taunton,1,3,6,9,7,0,0,85.71,caught,2,DNB,-,-,-,-
+297628,Sam Billings,18 Jun 2025,v Gloucs,Canterbury,1,4,38,36,32,5,0,118.75,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,20 Jun 2025,v Essex,Chelmsford,1,4,34*,25,19,6,0,178.94,not out,2,DNB,-,-,-,-
+297628,Sam Billings,4 Jul 2025,v Sussex,Canterbury,2,5,16,16,9,1,1,177.77,caught,1,DNB,-,-,-,-
+297628,Sam Billings,6 Jul 2025,v Glamorgan,Cardiff,1,5,5,11,7,0,0,71.42,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,9 Jul 2025,v Sussex,Hove,2,5,18,18,18,0,1,100,caught,1,DNB,-,-,-,-
+297628,Sam Billings,11 Jul 2025,v Somerset,Canterbury,1,4,11,16,11,2,0,100,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,13 Jul 2025,v Middlesex,Canterbury,2,4,20*,14,7,3,1,285.71,not out,1,DNB,-,-,-,-
+297628,Sam Billings,18 Jul 2025,v Essex,Canterbury,2,5,11*,6,4,0,1,275,not out,1,DNB,-,-,-,-
+297628,Sam Billings,5 Aug 2025,v Spirit,Lord's,2,5,6*,8,3,1,0,200,not out,1,DNB,-,-,-,-
+297628,Sam Billings,9 Aug 2025,v Originals,The Oval,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+297628,Sam Billings,12 Aug 2025,v Phoenix,Birmingham,1,5,17,16,10,1,1,170,caught,2,DNB,-,-,-,-
+297628,Sam Billings,16 Aug 2025,v Fire,The Oval,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+297628,Sam Billings,18 Aug 2025,v Brave,Southampton,2,5,13*,6,7,3,0,185.71,not out,1,DNB,-,-,-,-
+297628,Sam Billings,21 Aug 2025,v Rockets,The Oval,2,6,1*,2,1,0,0,100,not out,1,DNB,-,-,-,-
+297628,Sam Billings,23 Aug 2025,v N S-Chargers,Leeds,2,5,13,33,11,1,0,118.18,run out,1,DNB,-,-,-,-
+297628,Sam Billings,25 Aug 2025,v Spirit,The Oval,2,5,2*,14,2,0,0,100,not out,1,DNB,-,-,-,-
+297628,Sam Billings,31 Aug 2025,v Rockets,Lord's,1,7,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+297628,Sam Billings,6 Sep 2025,v Lancashire,Manchester,1,5,2,6,3,0,0,66.66,caught,2,DNB,-,-,-,-
+297628,Sam Billings,16 Dec 2025,v Hurricanes,Hobart,1,4,3,7,4,0,0,75,bowled,2,DNB,-,-,-,-
+297628,Sam Billings,20 Dec 2025,v Sixers,Sydney,2,5,51,37,28,3,4,182.14,caught,1,DNB,-,-,-,-
+297628,Sam Billings,22 Dec 2025,v Heat,Canberra,1,3,25,14,11,2,2,227.27,caught,2,DNB,-,-,-,-
+297628,Sam Billings,28 Dec 2025,v Stars,Canberra,1,5,23,26,19,2,1,121.05,caught,2,DNB,-,-,-,-
+297628,Sam Billings,30 Dec 2025,v Scorchers,Sydney,2,5,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+297628,Sam Billings,3 Jan 2026,v Hurricanes,Sydney,1,4,20,41,24,2,0,83.33,lbw,2,DNB,-,-,-,-
+297628,Sam Billings,6 Jan 2026,v Strikers,Adelaide,2,3,1,3,3,0,0,33.33,caught,1,DNB,-,-,-,-
+297628,Sam Billings,10 Jan 2026,v Heat,Brisbane,1,4,34,52,26,4,0,130.76,caught,2,DNB,-,-,-,-
+297628,Sam Billings,12 Jan 2026,v Renegades,Sydney,2,4,33,34,27,1,1,122.22,caught,1,DNB,-,-,-,-
+297628,Sam Billings,16 Jan 2026,v Sixers,Sydney,1,4,14,16,13,1,0,107.69,caught,2,DNB,-,-,-,-
+297628,Sam Billings,20 Jan 2026,v Rangpur,Mirpur,2,5,29,60,40,0,1,72.5,caught,1,DNB,-,-,-,-
+297628,Sam Billings,21 Jan 2026,v Rajshahi,Mirpur,2,4,37,59,28,3,1,132.14,caught,1,DNB,-,-,-,-

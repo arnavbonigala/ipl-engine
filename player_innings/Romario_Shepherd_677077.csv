@@ -1,0 +1,233 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+677077,Romario Shepherd,5 Sep 2018,v Trinbago,Port of Spain,2,10,10,-,7,0,1,142.85,bowled,1,3.0,0,29,3,9.66
+677077,Romario Shepherd,11 Sep 2018,v Trinbago,Providence,2,10,13*,-,6,1,1,216.66,not out,1,4.0,0,30,0,7.5
+677077,Romario Shepherd,16 Sep 2018,v Trinbago,Tarouba,1,9,10,-,9,1,0,111.11,run out,2,3.0,0,29,1,9.66
+677077,Romario Shepherd,5 Sep 2019,v Zouks,Providence,1,10,0*,-,0,0,0,-,not out,2,4.0,0,18,2,4.5
+677077,Romario Shepherd,7 Sep 2019,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+677077,Romario Shepherd,8 Sep 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,2.4,0,13,4,4.87
+677077,Romario Shepherd,14 Sep 2019,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+677077,Romario Shepherd,22 Sep 2019,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+677077,Romario Shepherd,25 Sep 2019,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+677077,Romario Shepherd,30 Sep 2019,v Trinbago,Port of Spain,1,7,32*,-,13,3,2,246.15,not out,2,4.0,0,33,0,8.25
+677077,Romario Shepherd,3 Oct 2019,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+677077,Romario Shepherd,6 Oct 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,3,12.5
+677077,Romario Shepherd,12 Oct 2019,v Tridents,Tarouba,2,7,9,-,7,1,0,128.57,caught,1,3.0,0,29,1,9.66
+677077,Romario Shepherd,18 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+677077,Romario Shepherd,19 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+677077,Romario Shepherd,18 Aug 2020,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+677077,Romario Shepherd,19 Aug 2020,v Patriots,Tarouba,2,9,4*,-,3,1,0,133.33,not out,1,4.0,0,34,0,8.5
+677077,Romario Shepherd,27 Aug 2020,v Trinbago,Port of Spain,1,8,11,-,10,0,1,110,caught,2,2.0,0,17,0,8.5
+677077,Romario Shepherd,30 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+677077,Romario Shepherd,1 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+677077,Romario Shepherd,2 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,1,5.5
+677077,Romario Shepherd,3 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,3,5.5
+677077,Romario Shepherd,8 Sep 2020,v Zouks,Tarouba,1,9,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+677077,Romario Shepherd,30 Nov 2020,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,31 Jul 2021,v Pakistan,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+677077,Romario Shepherd,1 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,3 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,26 Aug 2021,v Trinbago,Basseterre,1,8,9*,-,6,1,0,150,not out,2,3.0,1,15,3,5
+677077,Romario Shepherd,1 Sep 2021,v Trinbago,Basseterre,2,8,18,15,9,1,2,200,bowled,1,4.0,1,24,3,6
+677077,Romario Shepherd,2 Sep 2021,v Kings,Basseterre,2,7,1,5,4,0,0,25,lbw,1,4.0,0,21,3,5.25
+677077,Romario Shepherd,4 Sep 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+677077,Romario Shepherd,7 Sep 2021,v Royals,Basseterre,2,8,1,6,2,0,0,50,caught,1,4.0,0,31,3,7.75
+677077,Romario Shepherd,8 Sep 2021,v Kings,Basseterre,1,8,2*,16,4,0,0,50,not out,2,4.0,0,38,0,9.5
+677077,Romario Shepherd,11 Sep 2021,v Tallawahs,Basseterre,1,6,5,17,8,0,0,62.5,caught,2,3.0,0,31,1,10.33
+677077,Romario Shepherd,12 Sep 2021,v Tallawahs,Basseterre,1,7,72*,44,31,7,6,232.25,not out,2,4.0,0,31,3,7.75
+677077,Romario Shepherd,14 Sep 2021,v Patriots,Basseterre,1,8,1,4,2,0,0,50,run out,2,3.0,0,30,0,10
+677077,Romario Shepherd,13 Dec 2021,v Pakistan,Karachi,2,8,21,32,16,2,1,131.25,bowled,1,4.0,0,43,2,10.75
+677077,Romario Shepherd,14 Dec 2021,v Pakistan,Karachi,2,7,35*,32,19,2,2,184.21,not out,1,3.0,0,29,1,9.66
+677077,Romario Shepherd,16 Dec 2021,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.5,0,53,1,13.82
+677077,Romario Shepherd,22 Jan 2022,v England,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+677077,Romario Shepherd,23 Jan 2022,v England,Bridgetown,2,7,44*,51,28,1,5,157.14,not out,1,2.0,0,26,1,13
+677077,Romario Shepherd,26 Jan 2022,v England,Bridgetown,1,5,11*,18,5,0,1,220,not out,2,4.0,0,59,3,14.75
+677077,Romario Shepherd,29 Jan 2022,v England,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,1,13.33
+677077,Romario Shepherd,30 Jan 2022,v England,Bridgetown,1,3,6,7,5,0,1,120,caught,2,1.0,0,7,0,7
+677077,Romario Shepherd,16 Feb 2022,v India,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+677077,Romario Shepherd,18 Feb 2022,v India,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+677077,Romario Shepherd,20 Feb 2022,v India,Eden Gardens,2,8,29,38,21,1,3,138.09,caught,1,4.0,0,50,1,12.5
+677077,Romario Shepherd,29 Mar 2022,v RR,Pune,2,7,24,19,18,0,2,133.33,bowled,1,4.0,0,33,1,8.25
+677077,Romario Shepherd,4 Apr 2022,v LSG,DY Patil,2,8,8,17,8,0,1,100,caught,1,4.0,0,42,2,10.5
+677077,Romario Shepherd,22 May 2022,v Punjab Kings,Wankhede,1,7,26*,34,15,2,2,173.33,not out,2,1.0,0,23,0,23
+677077,Romario Shepherd,2 Jul 2022,v Bangladesh,Roseau,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,21,3,7
+677077,Romario Shepherd,3 Jul 2022,v Bangladesh,Roseau,1,6,3,15,5,0,0,60,caught,2,4.0,0,28,2,7
+677077,Romario Shepherd,7 Jul 2022,v Bangladesh,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+677077,Romario Shepherd,10 Aug 2022,v New Zealand,Kingston,2,8,31*,24,16,1,3,193.75,not out,1,3.0,0,35,0,11.66
+677077,Romario Shepherd,12 Aug 2022,v New Zealand,Kingston,2,8,18,26,18,0,1,100,caught,1,3.0,0,26,1,8.66
+677077,Romario Shepherd,14 Aug 2022,v New Zealand,Kingston,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+677077,Romario Shepherd,3 Sep 2022,v Tallawahs,Basseterre,1,5,36,-,17,3,3,211.76,bowled,2,3.2,0,48,1,14.4
+677077,Romario Shepherd,8 Sep 2022,v Patriots,Gros Islet,1,6,3,9,5,0,0,60,stumped,2,3.4,0,42,2,11.45
+677077,Romario Shepherd,10 Sep 2022,v Kings,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+677077,Romario Shepherd,14 Sep 2022,v Trinbago,Port of Spain,2,7,8,19,14,1,0,57.14,bowled,1,3.0,0,22,3,7.33
+677077,Romario Shepherd,18 Sep 2022,v Royals,Tarouba,2,7,4,-,10,0,0,40,caught,1,1.0,0,8,0,8
+677077,Romario Shepherd,21 Sep 2022,v Tallawahs,Providence,1,6,9,15,11,1,0,81.81,caught,2,1.0,0,6,0,6
+677077,Romario Shepherd,22 Sep 2022,v Kings,Providence,2,6,10*,24,11,1,0,90.9,not out,1,2.0,0,19,1,9.5
+677077,Romario Shepherd,24 Sep 2022,v Trinbago,Providence,1,5,6,-,8,0,0,75,caught,2,1.0,0,6,0,6
+677077,Romario Shepherd,25 Sep 2022,v Royals,Providence,2,7,0*,-,1,0,0,0,not out,1,3.0,0,14,3,4.66
+677077,Romario Shepherd,27 Sep 2022,v Royals,Providence,2,7,1,-,2,0,0,50,caught,1,4.0,0,29,2,7.25
+677077,Romario Shepherd,28 Sep 2022,v Tallawahs,Providence,2,7,2,-,3,0,0,66.66,caught,1,4.0,0,43,2,10.75
+677077,Romario Shepherd,11 Jan 2023,v Super Giants,Durban,1,7,40,33,19,2,4,210.52,bowled,2,1.0,0,9,0,9
+677077,Romario Shepherd,13 Jan 2023,v Paarl Royals,Paarl,1,7,7,11,6,0,1,116.66,lbw,2,1.0,0,10,1,10
+677077,Romario Shepherd,14 Jan 2023,v MI Cape Town,Cape Town,1,7,5,22,14,0,0,35.71,caught,2,1.2,0,14,1,10.5
+677077,Romario Shepherd,17 Jan 2023,v Capitals,Johannesburg,1,5,1,6,2,0,0,50,caught,2,4.0,0,28,2,7
+677077,Romario Shepherd,18 Jan 2023,v Capitals,Centurion,1,7,2,8,7,0,0,28.57,caught,2,1.0,0,7,0,7
+677077,Romario Shepherd,21 Jan 2023,v Sunrisers,Gqeberha,2,7,7*,-,9,0,0,77.77,not out,1,3.0,0,20,1,6.66
+677077,Romario Shepherd,24 Jan 2023,v Super Giants,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+677077,Romario Shepherd,3 Feb 2023,v Paarl Royals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+677077,Romario Shepherd,5 Feb 2023,v Sunrisers,Johannesburg,1,6,2,8,3,0,0,66.66,caught,2,4.0,0,24,2,6
+677077,Romario Shepherd,6 Feb 2023,v MI Cape Town,Johannesburg,1,8,15*,12,11,0,2,136.36,not out,2,3.0,0,29,0,9.66
+677077,Romario Shepherd,9 Feb 2023,v Sunrisers,Centurion,2,7,38*,25,14,1,4,271.42,not out,1,4.0,0,54,0,13.5
+677077,Romario Shepherd,25 Mar 2023,v South Africa,Centurion,2,6,3,14,6,0,0,50,run out,1,2.0,0,20,1,10
+677077,Romario Shepherd,26 Mar 2023,v South Africa,Centurion,1,6,41*,29,18,1,4,227.77,not out,2,3.5,0,44,0,11.47
+677077,Romario Shepherd,28 Mar 2023,v South Africa,Johannesburg,1,9,44*,30,22,2,3,200,not out,2,4.0,0,44,0,11
+677077,Romario Shepherd,7 Apr 2023,v SRH,Lucknow,2,6,0,3,1,0,0,0,lbw,1,DNB,-,-,-,-
+677077,Romario Shepherd,3 Aug 2023,v India,Tarouba,1,7,4*,13,6,0,0,66.66,not out,2,4.0,0,33,2,8.25
+677077,Romario Shepherd,6 Aug 2023,v India,Providence,2,7,0,6,0,0,0,-,run out,1,3.0,0,28,2,9.33
+677077,Romario Shepherd,8 Aug 2023,v India,Providence,1,7,2*,16,5,0,0,40,not out,2,3.0,0,36,0,12
+677077,Romario Shepherd,12 Aug 2023,v India,Lauderhill,1,7,9,7,6,0,1,150,caught,2,3.0,0,35,1,11.66
+677077,Romario Shepherd,13 Aug 2023,v India,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,4,7.75
+677077,Romario Shepherd,19 Aug 2023,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,24 Aug 2023,v Patriots,Basseterre,1,8,25*,22,10,2,2,250,not out,2,2.0,0,14,1,7
+677077,Romario Shepherd,27 Aug 2023,v Tallawahs,Basseterre,1,7,19*,20,9,2,1,211.11,not out,2,3.0,1,7,3,2.33
+677077,Romario Shepherd,2 Sep 2023,v Patriots,Bridgetown,1,8,26*,-,7,1,3,371.42,not out,2,2.0,0,19,1,9.5
+677077,Romario Shepherd,5 Sep 2023,v Trinbago,Port of Spain,2,6,0*,2,1,0,0,0,not out,1,4.0,0,39,1,9.75
+677077,Romario Shepherd,10 Sep 2023,v Royals,Tarouba,1,7,2,-,3,0,0,66.66,caught,2,4.0,0,48,1,12
+677077,Romario Shepherd,13 Sep 2023,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+677077,Romario Shepherd,14 Sep 2023,v Kings,Providence,1,7,10*,2,4,1,1,250,not out,2,2.0,0,15,1,7.5
+677077,Romario Shepherd,16 Sep 2023,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+677077,Romario Shepherd,20 Sep 2023,v Trinbago,Providence,1,7,16,13,6,2,1,266.66,caught,2,3.0,0,20,0,6.66
+677077,Romario Shepherd,22 Sep 2023,v Tallawahs,Providence,1,6,15,12,8,1,1,187.5,caught,2,2.0,0,15,1,7.5
+677077,Romario Shepherd,24 Sep 2023,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+677077,Romario Shepherd,12 Dec 2023,v England,Bridgetown,2,7,0,1,1,0,0,0,caught,1,4.0,0,22,2,5.5
+677077,Romario Shepherd,13 Jan 2024,v MI Cape Town,Johannesburg,2,7,34,27,19,3,2,178.94,caught,1,3.0,0,49,1,16.33
+677077,Romario Shepherd,15 Jan 2024,v Super Giants,Durban,2,7,0,4,4,0,0,0,bowled,1,4.0,0,40,1,10
+677077,Romario Shepherd,17 Jan 2024,v Paarl Royals,Paarl,1,7,0,9,6,0,0,0,lbw,2,1.0,0,10,0,10
+677077,Romario Shepherd,20 Jan 2024,v Capitals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+677077,Romario Shepherd,24 Jan 2024,v Paarl Royals,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+677077,Romario Shepherd,27 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,9 Feb 2024,v Australia,Hobart,2,8,2,9,3,0,0,66.66,caught,1,4.0,0,38,1,9.5
+677077,Romario Shepherd,11 Feb 2024,v Australia,Adelaide,2,8,12,26,12,1,1,100,caught,1,4.0,0,48,1,12
+677077,Romario Shepherd,13 Feb 2024,v Australia,Perth,1,8,2*,1,2,0,0,100,not out,2,4.0,0,31,2,7.75
+677077,Romario Shepherd,16 Feb 2024,v Rangpur,Chattogram,2,6,66*,41,30,5,6,220,not out,1,4.0,0,27,3,6.75
+677077,Romario Shepherd,17 Feb 2024,v Dhaka,Chattogram,1,5,3,12,8,0,0,37.5,caught,2,4.0,0,32,0,8
+677077,Romario Shepherd,20 Feb 2024,v Khulna,Chattogram,1,5,10,6,5,2,0,200,caught,2,4.0,0,25,1,6.25
+677077,Romario Shepherd,26 Feb 2024,v Barishal,Mirpur,1,7,11,27,16,1,0,68.75,bowled,2,3.0,0,17,1,5.66
+677077,Romario Shepherd,27 Mar 2024,v SRH,Hyderabad,2,7,15*,7,6,2,1,250,not out,1,sub,-,-,-,-
+677077,Romario Shepherd,7 Apr 2024,v DC,Wankhede,1,7,39*,13,10,3,4,390,not out,2,4.0,0,54,1,13.5
+677077,Romario Shepherd,11 Apr 2024,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+677077,Romario Shepherd,14 Apr 2024,v CSK,Wankhede,2,7,1,4,2,0,0,50,bowled,1,2.0,0,33,0,16.5
+677077,Romario Shepherd,18 Apr 2024,v Punjab Kings,New Chandigarh,1,7,1,3,2,0,0,50,caught,2,2.0,0,20,0,10
+677077,Romario Shepherd,17 May 2024,v LSG,Wankhede,2,8,1*,2,1,0,0,100,not out,1,2.0,0,30,0,15
+677077,Romario Shepherd,25 May 2024,v South Africa,Kingston,1,6,26,19,13,1,3,200,caught,2,4.0,0,23,1,5.75
+677077,Romario Shepherd,2 Jun 2024,v P.N.G.,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+677077,Romario Shepherd,8 Jun 2024,v Uganda,Providence,1,7,5*,13,5,0,0,100,not out,2,2.0,0,9,1,4.5
+677077,Romario Shepherd,12 Jun 2024,v New Zealand,Tarouba,1,9,13,19,13,0,1,100,lbw,2,3.0,0,36,0,12
+677077,Romario Shepherd,19 Jun 2024,v England,Gros Islet,1,7,5*,16,7,1,0,71.42,not out,2,2.0,0,41,0,20.5
+677077,Romario Shepherd,16 Jul 2024,v Washington,Dallas,2,7,25,-,14,3,2,178.57,caught,1,4.0,0,31,1,7.75
+677077,Romario Shepherd,18 Jul 2024,v SF,Dallas,2,6,7,-,7,0,1,100,caught,1,4.0,0,31,1,7.75
+677077,Romario Shepherd,21 Jul 2024,v Los Angeles,Dallas,2,6,1,-,4,0,0,25,caught,1,4.0,0,30,1,7.5
+677077,Romario Shepherd,24 Jul 2024,v Texas,Dallas,1,6,7*,-,8,0,0,87.5,not out,2,3.0,0,26,0,8.66
+677077,Romario Shepherd,23 Aug 2024,v South Africa,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,1,13
+677077,Romario Shepherd,25 Aug 2024,v South Africa,Tarouba,1,7,9*,13,6,0,1,150,not out,2,4.0,0,15,3,3.75
+677077,Romario Shepherd,27 Aug 2024,v South Africa,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,2,7
+677077,Romario Shepherd,30 Aug 2024,v Falcons,North Sound,2,7,32,-,16,0,4,200,bowled,1,3.0,0,13,0,4.33
+677077,Romario Shepherd,18 Sep 2024,v Trinbago,Port of Spain,1,8,51*,43,24,3,4,212.5,not out,2,DNB,-,-,-,-
+677077,Romario Shepherd,20 Sep 2024,v Patriots,Providence,1,9,34*,30,22,1,3,154.54,not out,2,DNB,-,-,-,-
+677077,Romario Shepherd,21 Sep 2024,v Falcons,Providence,1,7,10,6,6,0,1,166.66,caught,2,1.0,0,5,0,5
+677077,Romario Shepherd,25 Sep 2024,v Royals,Providence,1,6,23,24,13,2,1,176.92,run out,2,3.0,0,28,1,9.33
+677077,Romario Shepherd,28 Sep 2024,v Kings,Providence,1,5,24,31,16,3,0,150,caught,2,1.0,0,22,0,22
+677077,Romario Shepherd,29 Sep 2024,v Trinbago,Providence,2,7,0,2,4,0,0,0,caught,1,4.0,0,42,0,10.5
+677077,Romario Shepherd,2 Oct 2024,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+677077,Romario Shepherd,4 Oct 2024,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+677077,Romario Shepherd,6 Oct 2024,v Kings,Providence,1,8,19*,25,9,2,1,211.11,not out,2,2.5,0,29,1,10.23
+677077,Romario Shepherd,13 Oct 2024,v Sri Lanka,Dambulla,2,7,1*,8,2,0,0,50,not out,1,4.0,0,39,2,9.75
+677077,Romario Shepherd,15 Oct 2024,v Sri Lanka,Dambulla,2,8,1,3,2,0,0,50,lbw,1,3.0,0,23,2,7.66
+677077,Romario Shepherd,17 Oct 2024,v Sri Lanka,Dambulla,1,8,18,22,13,1,1,138.46,bowled,2,3.0,0,24,0,8
+677077,Romario Shepherd,9 Nov 2024,v England,Bridgetown,1,8,35*,38,22,3,2,159.09,not out,2,3.5,0,45,1,11.73
+677077,Romario Shepherd,10 Nov 2024,v England,Bridgetown,1,7,22,28,12,4,0,183.33,caught,2,2.5,0,42,2,14.82
+677077,Romario Shepherd,14 Nov 2024,v England,Gros Islet,1,7,30,50,28,1,1,107.14,lbw,2,3.0,0,20,0,6.66
+677077,Romario Shepherd,17 Nov 2024,v England,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,29 Nov 2024,v Victoria,Providence,1,6,10,-,17,0,0,58.82,caught,2,DNB,-,-,-,-
+677077,Romario Shepherd,1 Dec 2024,v Hampshire,Providence,2,8,11*,-,5,1,1,220,not out,1,3.0,0,14,1,4.66
+677077,Romario Shepherd,4 Dec 2024,v Rangpur,Providence,2,10,9,-,12,0,1,75,caught,1,4.0,0,27,1,6.75
+677077,Romario Shepherd,15 Dec 2024,v Bangladesh,Kingstown,2,9,22,26,17,2,1,129.41,caught,1,3.0,0,33,1,11
+677077,Romario Shepherd,17 Dec 2024,v Bangladesh,Kingstown,2,7,0,6,5,0,0,0,caught,1,3.0,0,26,0,8.66
+677077,Romario Shepherd,19 Dec 2024,v Bangladesh,Kingstown,2,7,33,48,27,1,3,122.22,caught,1,4.0,0,30,2,7.5
+677077,Romario Shepherd,13 Jan 2025,v DC,Abu Dhabi,1,6,4,-,3,1,0,133.33,caught,2,DNB,-,-,-,-
+677077,Romario Shepherd,16 Jan 2025,v Vipers,Dubai (DICS),1,7,16*,-,8,0,2,200,not out,2,DNB,-,-,-,-
+677077,Romario Shepherd,19 Jan 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,1,14.5
+677077,Romario Shepherd,21 Jan 2025,v KnightRiders,Abu Dhabi,1,7,38*,22,13,4,3,292.3,not out,2,2.0,0,14,2,7
+677077,Romario Shepherd,24 Jan 2025,v KnightRiders,Abu Dhabi,2,7,12,30,13,1,0,92.3,caught,1,3.0,0,31,0,10.33
+677077,Romario Shepherd,25 Jan 2025,v Gulf Giants,Abu Dhabi,1,7,8*,17,7,0,1,114.28,not out,2,1.0,0,9,0,9
+677077,Romario Shepherd,27 Jan 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,4,0,4
+677077,Romario Shepherd,31 Jan 2025,v Gulf Giants,Dubai (DICS),2,7,23*,-,9,2,1,255.55,not out,1,DNB,-,-,-,-
+677077,Romario Shepherd,2 Feb 2025,v Warriorz,Abu Dhabi,1,6,2,9,3,0,0,66.66,run out,2,1.0,0,8,0,8
+677077,Romario Shepherd,6 Feb 2025,v Warriorz,Abu Dhabi,1,8,7,9,8,1,0,87.5,caught,2,DNB,-,-,-,-
+677077,Romario Shepherd,20 Apr 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+677077,Romario Shepherd,24 Apr 2025,v RR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+677077,Romario Shepherd,27 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+677077,Romario Shepherd,3 May 2025,v CSK,Bengaluru,1,7,53*,16,14,4,6,378.57,not out,2,1.0,0,18,0,18
+677077,Romario Shepherd,23 May 2025,v SRH,Lucknow,2,6,0,2,1,0,0,0,caught,1,2.0,0,14,2,7
+677077,Romario Shepherd,27 May 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+677077,Romario Shepherd,29 May 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,1,5
+677077,Romario Shepherd,3 Jun 2025,v Punjab Kings,Ahmedabad,1,7,17,14,9,1,1,188.88,lbw,2,3.0,0,30,1,10
+677077,Romario Shepherd,6 Jun 2025,v England,Chester-le-Street,2,9,16,22,12,2,0,133.33,caught,1,4.0,0,33,2,8.25
+677077,Romario Shepherd,8 Jun 2025,v England,Bristol,1,6,19,23,11,0,2,172.72,run out,2,3.0,0,42,1,14
+677077,Romario Shepherd,10 Jun 2025,v England,Southampton,2,7,0,3,5,0,0,0,caught,1,2.0,0,39,0,19.5
+677077,Romario Shepherd,15 Jun 2025,v Ireland,Bready,1,7,19*,9,6,0,3,316.66,not out,2,3.0,0,23,1,7.66
+677077,Romario Shepherd,23 Jun 2025,v MI New York,Dallas,1,5,2,-,4,0,0,50,caught,2,4.0,0,30,2,7.5
+677077,Romario Shepherd,25 Jun 2025,v Seattle,Dallas,1,6,56,-,31,4,4,180.64,caught,2,3.0,0,16,2,5.33
+677077,Romario Shepherd,28 Jun 2025,v Washington,Dallas,2,6,0,-,1,0,0,0,caught,1,4.0,0,28,1,7
+677077,Romario Shepherd,1 Jul 2025,v Seattle,Lauderhill,1,7,13*,-,3,0,2,433.33,not out,2,3.3,0,40,1,11.42
+677077,Romario Shepherd,4 Jul 2025,v Texas,Lauderhill,1,6,13,-,14,0,1,92.85,caught,2,3.0,0,26,2,8.66
+677077,Romario Shepherd,6 Jul 2025,v Los Angeles,Lauderhill,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+677077,Romario Shepherd,13 Jul 2025,v DC,Providence,1,7,15*,-,9,1,1,166.66,not out,2,1.0,0,11,2,11
+677077,Romario Shepherd,16 Jul 2025,v Hurricanes,Providence,2,8,6*,-,2,1,0,300,not out,1,2.0,0,17,0,8.5
+677077,Romario Shepherd,18 Jul 2025,v Rangpur,Providence,1,6,28*,-,9,1,3,311.11,not out,2,1.0,0,19,0,19
+677077,Romario Shepherd,25 Jul 2025,v Australia,Basseterre,1,6,9*,-,3,2,0,300,not out,2,3.1,0,39,2,12.31
+677077,Romario Shepherd,26 Jul 2025,v Australia,Basseterre,1,7,28,-,18,4,1,155.55,caught,2,4.0,0,59,1,14.75
+677077,Romario Shepherd,28 Jul 2025,v Australia,Basseterre,1,7,8,-,8,0,1,100,bowled,2,1.5,0,26,0,14.18
+677077,Romario Shepherd,31 Jul 2025,v Pakistan,Lauderhill,2,7,12,11,5,1,1,240,bowled,1,3.0,0,29,1,9.66
+677077,Romario Shepherd,2 Aug 2025,v Pakistan,Lauderhill,2,9,15,14,11,2,1,136.36,lbw,1,2.0,0,22,0,11
+677077,Romario Shepherd,3 Aug 2025,v Pakistan,Lauderhill,2,7,4*,13,3,0,0,133.33,not out,1,2.0,0,20,0,10
+677077,Romario Shepherd,15 Aug 2025,v Patriots,Basseterre,2,7,0*,-,0,0,0,-,not out,1,3.0,0,17,1,5.66
+677077,Romario Shepherd,22 Aug 2025,v Falcons,North Sound,1,5,25*,13,8,2,2,312.5,not out,2,2.0,0,16,2,8
+677077,Romario Shepherd,26 Aug 2025,v Kings,Gros Islet,1,7,73*,46,34,5,7,214.7,not out,2,2.0,0,28,0,14
+677077,Romario Shepherd,30 Aug 2025,v Trinbago,Tarouba,1,7,19,23,15,2,1,126.66,bowled,2,1.0,0,4,0,4
+677077,Romario Shepherd,4 Sep 2025,v Royals,Bridgetown,2,7,1,7,2,0,0,50,caught,1,3.0,0,20,1,6.66
+677077,Romario Shepherd,6 Sep 2025,v Trinbago,Providence,2,7,9,10,6,0,1,150,bowled,1,4.0,0,46,1,11.5
+677077,Romario Shepherd,7 Sep 2025,v Patriots,Providence,2,8,8,11,6,0,1,133.33,caught,1,2.0,0,17,1,8.5
+677077,Romario Shepherd,10 Sep 2025,v Falcons,Providence,1,9,2,6,5,0,0,40,bowled,2,2.0,0,16,0,8
+677077,Romario Shepherd,13 Sep 2025,v Kings,Providence,2,7,6,5,5,1,0,120,bowled,1,4.0,0,36,0,9
+677077,Romario Shepherd,14 Sep 2025,v Royals,Providence,1,5,20,20,13,0,2,153.84,bowled,2,3.0,0,21,0,7
+677077,Romario Shepherd,17 Sep 2025,v Kings,Providence,1,9,21,12,8,2,1,262.5,caught,2,4.0,0,36,1,9
+677077,Romario Shepherd,21 Sep 2025,v Trinbago,Providence,1,8,13,14,9,0,1,144.44,run out,2,1.0,0,22,0,22
+677077,Romario Shepherd,27 Oct 2025,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.4,0,29,1,7.9
+677077,Romario Shepherd,29 Oct 2025,v Bangladesh,Chattogram,1,8,13,21,16,1,0,81.25,caught,2,4.0,0,29,3,7.25
+677077,Romario Shepherd,31 Oct 2025,v Bangladesh,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+677077,Romario Shepherd,5 Nov 2025,v New Zealand,Auckland,1,8,9*,7,5,2,0,180,not out,2,3.0,0,26,1,8.66
+677077,Romario Shepherd,6 Nov 2025,v New Zealand,Auckland,2,8,34,17,16,1,4,212.5,caught,1,3.0,0,38,1,12.66
+677077,Romario Shepherd,9 Nov 2025,v New Zealand,Nelson,2,8,49,50,34,4,3,144.11,caught,1,3.0,0,23,1,7.66
+677077,Romario Shepherd,10 Nov 2025,v New Zealand,Nelson,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+677077,Romario Shepherd,13 Nov 2025,v New Zealand,Dunedin,1,8,36,29,22,3,3,163.63,caught,2,2.4,0,21,1,7.87
+677077,Romario Shepherd,4 Dec 2025,v Gulf Giants,Dubai (DICS),1,7,18*,-,6,2,1,300,not out,2,DNB,-,-,-,-
+677077,Romario Shepherd,7 Dec 2025,v Warriorz,Sharjah,1,8,31*,15,10,1,4,310,not out,2,3.0,0,31,1,10.33
+677077,Romario Shepherd,9 Dec 2025,v Vipers,Abu Dhabi,2,7,1,4,4,0,0,25,caught,1,2.0,0,16,0,8
+677077,Romario Shepherd,11 Dec 2025,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+677077,Romario Shepherd,14 Dec 2025,v Warriorz,Abu Dhabi,2,6,2,3,3,0,0,66.66,caught,1,4.0,0,33,0,8.25
+677077,Romario Shepherd,17 Dec 2025,v DC,Dubai (DICS),1,8,18*,-,10,1,1,180,not out,2,3.0,0,25,2,8.33
+677077,Romario Shepherd,20 Dec 2025,v KnightRiders,Abu Dhabi,1,6,1*,4,1,0,0,100,not out,2,4.0,0,32,0,8
+677077,Romario Shepherd,21 Dec 2025,v Vipers,Dubai (DICS),2,8,6*,7,3,0,1,200,not out,1,2.0,0,16,0,8
+677077,Romario Shepherd,23 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+677077,Romario Shepherd,27 Dec 2025,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+677077,Romario Shepherd,30 Dec 2025,v Vipers,Abu Dhabi,2,7,39*,31,23,5,2,169.56,not out,1,3.0,0,48,0,16
+677077,Romario Shepherd,2 Jan 2026,v KnightRiders,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+677077,Romario Shepherd,4 Jan 2026,v Vipers,Dubai (DICS),2,8,1,8,2,0,0,50,caught,1,3.0,0,35,0,11.66
+677077,Romario Shepherd,27 Jan 2026,v South Africa,Paarl,1,9,1*,1,1,0,0,100,not out,2,3.0,0,29,0,9.66
+677077,Romario Shepherd,29 Jan 2026,v South Africa,Centurion,1,6,17*,25,10,1,1,170,not out,2,2.0,0,35,0,17.5
+677077,Romario Shepherd,31 Jan 2026,v South Africa,Johannesburg,1,5,3*,4,3,0,0,100,not out,2,DNB,-,-,-,-
+677077,Romario Shepherd,7 Feb 2026,v Scotland,Eden Gardens,1,6,6*,6,3,0,1,200,not out,2,3.0,0,20,5,6.66
+677077,Romario Shepherd,11 Feb 2026,v England,Wankhede,1,8,1*,2,1,0,0,100,not out,2,1.0,0,7,1,7
+677077,Romario Shepherd,23 Feb 2026,v Zimbabwe,Wankhede,1,6,21,12,10,0,3,210,caught,2,DNB,-,-,-,-
+677077,Romario Shepherd,26 Feb 2026,v South Africa,Ahmedabad,1,9,52*,46,37,3,4,140.54,not out,2,2.0,0,22,0,11
+677077,Romario Shepherd,1 Mar 2026,v India,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.2,0,34,0,14.57

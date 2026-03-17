@@ -1,0 +1,138 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+955235,Nuwan Thushara,5 Jan 2016,v Galle CC,Colombo (PSS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+955235,Nuwan Thushara,6 Jan 2016,v Bloomfield,Colombo (PSS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+955235,Nuwan Thushara,24 Feb 2018,v Saracens,Colombo (Bloomfield),2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+955235,Nuwan Thushara,27 Feb 2018,v SL Army,Colombo (NCC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+955235,Nuwan Thushara,1 Mar 2018,v Panadura,Katunayake,2,-,DNB,-,-,-,-,-,-,1,1.0,0,1,0,1
+955235,Nuwan Thushara,2 Mar 2018,v Negambo CC,Colombo (Burgher),2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+955235,Nuwan Thushara,4 Mar 2018,v Badureliya,Katunayake,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+955235,Nuwan Thushara,7 Mar 2018,v Tamil Union,Colombo (PSS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,2,10.66
+955235,Nuwan Thushara,8 Mar 2018,v Nondescripts,Colombo (PSS),2,11,1*,-,1,0,0,100,not out,1,4.0,0,32,4,8
+955235,Nuwan Thushara,15 Feb 2019,v Lankan CC,Panagoda,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+955235,Nuwan Thushara,16 Feb 2019,v Galle CC,Colombo (CCC),2,11,0*,-,1,0,0,0,not out,1,4.0,0,21,2,5.25
+955235,Nuwan Thushara,18 Feb 2019,v Burgher,SLAOCIC Stadium,1,11,0*,-,0,0,0,-,not out,2,4.0,0,34,3,8.5
+955235,Nuwan Thushara,19 Feb 2019,v Kandy CCC,Colombo (CCC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+955235,Nuwan Thushara,21 Feb 2019,v Tamil Union,Colombo (CCC),2,11,0,-,1,0,0,0,caught,1,4.0,0,33,3,8.25
+955235,Nuwan Thushara,4 Jan 2020,v Kandy CCC,Colombo (Colts),1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+955235,Nuwan Thushara,6 Jan 2020,v Nugegoda SWC,Katunayake,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+955235,Nuwan Thushara,8 Jan 2020,v SLPACC,Colombo (NCC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+955235,Nuwan Thushara,10 Jan 2020,v Burgher,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+955235,Nuwan Thushara,12 Jan 2020,v Lankan CC,Colombo (SSC),2,11,0*,-,0,0,0,-,not out,1,4.0,0,22,3,5.5
+955235,Nuwan Thushara,15 Jan 2020,v Ragama CC,Colombo (PSS),2,10,2*,-,3,0,0,66.66,not out,1,4.0,0,42,2,10.5
+955235,Nuwan Thushara,17 Jan 2020,v Badureliya,Katunayake,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+955235,Nuwan Thushara,19 Jan 2020,v Nondescripts,Katunayake,1,11,0,-,1,0,0,0,bowled,2,2.0,0,27,1,13.5
+955235,Nuwan Thushara,21 Jan 2020,v Chilaw MCC,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+955235,Nuwan Thushara,7 Dec 2020,v Kings,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+955235,Nuwan Thushara,9 Dec 2020,v Viiking,Hambantota,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+955235,Nuwan Thushara,10 Dec 2020,v Tuskers,Hambantota,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,2,4
+955235,Nuwan Thushara,13 Dec 2020,v Kings,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+955235,Nuwan Thushara,16 Dec 2020,v Stallions,Hambantota,2,11,0*,-,0,0,0,-,not out,1,4.0,0,39,0,9.75
+955235,Nuwan Thushara,4 Mar 2021,v Galle CC,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+955235,Nuwan Thushara,6 Mar 2021,v Nugegoda SWC,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+955235,Nuwan Thushara,7 Mar 2021,v Negombo,Colombo (PSS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+955235,Nuwan Thushara,12 Mar 2021,v Badureliya,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+955235,Nuwan Thushara,14 Mar 2021,v Burgher,Katunayake,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,6
+955235,Nuwan Thushara,16 Mar 2021,v Ragama CC,Colombo (PSS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,2,7.5
+955235,Nuwan Thushara,18 Mar 2021,v Sinhalese,Colombo (NCC),2,11,2*,-,2,0,0,100,not out,1,4.0,0,30,0,7.5
+955235,Nuwan Thushara,16 Aug 2021,v SLC Reds,Pallekele,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,0,6.85
+955235,Nuwan Thushara,18 Aug 2021,v SLC Greys,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,27,0,13.5
+955235,Nuwan Thushara,21 Aug 2021,v SLC Blues,Pallekele,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+955235,Nuwan Thushara,5 Dec 2021,v Jaffna Kings,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.4,0,20,1,7.5
+955235,Nuwan Thushara,6 Dec 2021,v Stars,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.3,0,26,2,10.4
+955235,Nuwan Thushara,7 Dec 2021,v Warriors,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+955235,Nuwan Thushara,10 Dec 2021,v Dambulla,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,2,8
+955235,Nuwan Thushara,11 Dec 2021,v Warriors,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,31,1,8.45
+955235,Nuwan Thushara,12 Dec 2021,v Stars,Colombo (RPS),2,11,1*,-,1,0,0,100,not out,1,1.0,0,7,0,7
+955235,Nuwan Thushara,19 Dec 2021,v Jaffna Kings,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.5,0,13,5,3.39
+955235,Nuwan Thushara,23 Dec 2021,v Jaffna Kings,Hambantota,2,11,5*,-,2,1,0,250,not out,1,4.0,0,33,1,8.25
+955235,Nuwan Thushara,13 Feb 2022,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+955235,Nuwan Thushara,15 Feb 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,1.1,0,10,0,8.57
+955235,Nuwan Thushara,22 May 2022,v Lankan CC,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+955235,Nuwan Thushara,24 May 2022,v Badureliya,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+955235,Nuwan Thushara,26 May 2022,v Air Force SC,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+955235,Nuwan Thushara,30 May 2022,v Sinhalese,Colombo (PSS),-,-,TDNB,-,-,-,-,-,-,1,1.0,0,2,1,2
+955235,Nuwan Thushara,7 Jun 2022,v Australia,Colombo (RPS),1,11,0*,5,3,0,0,0,not out,2,2.0,0,21,0,10.5
+955235,Nuwan Thushara,8 Jun 2022,v Australia,Colombo (RPS),1,11,2*,2,1,0,0,200,not out,2,2.0,0,18,1,9
+955235,Nuwan Thushara,8 Aug 2022,v SLC Blues,Colombo (RPS),2,11,7*,-,3,0,1,233.33,not out,1,4.0,0,26,1,6.5
+955235,Nuwan Thushara,10 Aug 2022,v SLC Reds,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+955235,Nuwan Thushara,13 Aug 2022,v SLC Greys,Colombo (RPS),2,10,0,-,2,0,0,0,caught,1,4.0,0,34,0,8.5
+955235,Nuwan Thushara,6 Dec 2022,v Jaffna Kings,Hambantota,2,11,0,-,1,0,0,0,caught,1,3.5,0,31,2,8.08
+955235,Nuwan Thushara,7 Dec 2022,v Kandy,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+955235,Nuwan Thushara,11 Dec 2022,v Stars,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,1,5.75
+955235,Nuwan Thushara,12 Dec 2022,v Kandy,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+955235,Nuwan Thushara,13 Dec 2022,v Stars,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+955235,Nuwan Thushara,17 Dec 2022,v Aura,Colombo (RPS),2,11,1*,-,3,0,0,33.33,not out,1,4.0,0,29,1,7.25
+955235,Nuwan Thushara,18 Dec 2022,v Jaffna Kings,Colombo (RPS),2,11,2*,-,3,0,0,66.66,not out,1,4.0,0,31,2,7.75
+955235,Nuwan Thushara,19 Dec 2022,v Aura,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+955235,Nuwan Thushara,21 Dec 2022,v Stars,Colombo (RPS),1,11,2*,-,1,0,0,200,not out,2,3.0,0,23,0,7.66
+955235,Nuwan Thushara,15 Feb 2023,v Sultans,Multan,1,11,0*,8,3,0,0,0,not out,2,2.0,0,21,1,10.5
+955235,Nuwan Thushara,27 May 2023,v Galle CC,Maggona,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,2,7
+955235,Nuwan Thushara,29 May 2023,v Negombo,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+955235,Nuwan Thushara,31 May 2023,v Burgher,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,2,7.5
+955235,Nuwan Thushara,2 Jun 2023,v Moors,Panagoda,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+955235,Nuwan Thushara,4 Aug 2023,v Galle Titans,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+955235,Nuwan Thushara,5 Aug 2023,v B-Love Kandy,Pallekele,1,10,0,-,1,0,0,0,lbw,2,2.0,0,12,0,6
+955235,Nuwan Thushara,7 Aug 2023,v Aura,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+955235,Nuwan Thushara,8 Aug 2023,v Colombo,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+955235,Nuwan Thushara,12 Aug 2023,v B-Love Kandy,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+955235,Nuwan Thushara,13 Aug 2023,v Galle Titans,Colombo (RPS),1,11,7,-,3,0,1,233.33,run out,2,4.0,0,38,0,9.5
+955235,Nuwan Thushara,17 Aug 2023,v B-Love Kandy,Colombo (RPS),2,11,0,-,1,0,0,0,caught,1,4.0,0,40,4,10
+955235,Nuwan Thushara,4 Oct 2023,v Afghanistan,Hangzhou,2,11,6,-,5,1,0,120,caught,1,3.0,0,17,4,5.66
+955235,Nuwan Thushara,14 Jan 2024,v Zimbabwe,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+955235,Nuwan Thushara,21 Jan 2024,v Paarl Royals,Paarl,2,11,0*,3,2,0,0,0,not out,1,4.0,0,27,2,6.75
+955235,Nuwan Thushara,27 Jan 2024,v Sunrisers,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+955235,Nuwan Thushara,29 Jan 2024,v Super Kings,Cape Town,1,-,DNB,-,-,-,-,-,-,2,1.0,0,18,0,18
+955235,Nuwan Thushara,1 Feb 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+955235,Nuwan Thushara,3 Feb 2024,v Capitals,Cape Town,1,10,0,1,1,0,0,0,bowled,2,3.4,0,40,1,10.9
+955235,Nuwan Thushara,21 Feb 2024,v Afghanistan,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+955235,Nuwan Thushara,9 Mar 2024,v Bangladesh,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,1,20,5,5
+955235,Nuwan Thushara,22 Apr 2024,v RR,Jaipur,1,-,sub,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+955235,Nuwan Thushara,27 Apr 2024,v DC,Delhi,2,-,sub,-,-,-,-,-,-,1,4.0,0,56,0,14
+955235,Nuwan Thushara,30 Apr 2024,v LSG,Lucknow,1,-,sub,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+955235,Nuwan Thushara,3 May 2024,v KKR,Wankhede,2,-,sub,-,-,-,-,-,-,1,4.0,0,42,3,10.5
+955235,Nuwan Thushara,6 May 2024,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+955235,Nuwan Thushara,11 May 2024,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+955235,Nuwan Thushara,17 May 2024,v LSG,Wankhede,2,-,sub,-,-,-,-,-,-,1,4.0,0,28,3,7
+955235,Nuwan Thushara,3 Jun 2024,v South Africa,New York,1,11,0,7,4,0,0,0,run out,2,3.0,0,18,1,6
+955235,Nuwan Thushara,7 Jun 2024,v Bangladesh,Dallas,1,11,0*,1,1,0,0,0,not out,2,4.0,0,18,4,4.5
+955235,Nuwan Thushara,16 Jun 2024,v Netherlands,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.4,0,24,3,6.54
+955235,Nuwan Thushara,1 Jul 2024,v Kandy,Pallekele,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+955235,Nuwan Thushara,3 Jul 2024,v Jaffna Kings,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+955235,Nuwan Thushara,6 Jul 2024,v Jaffna Kings,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+955235,Nuwan Thushara,9 Jul 2024,v Galle,Dambulla,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+955235,Nuwan Thushara,14 Jul 2024,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+955235,Nuwan Thushara,15 Jul 2024,v Kandy,Colombo (RPS),2,11,1*,-,2,0,0,50,not out,1,4.0,0,36,0,9
+955235,Nuwan Thushara,16 Jul 2024,v Colombo,Colombo (RPS),1,11,0*,-,3,0,0,0,not out,2,2.0,0,17,0,8.5
+955235,Nuwan Thushara,15 Oct 2024,v West Indies,Dambulla,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+955235,Nuwan Thushara,17 Oct 2024,v West Indies,Dambulla,2,-,DNB,-,-,-,-,-,-,1,2.0,0,27,1,13.5
+955235,Nuwan Thushara,9 Nov 2024,v New Zealand,Dambulla,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+955235,Nuwan Thushara,10 Nov 2024,v New Zealand,Dambulla,2,11,1*,2,1,0,0,100,not out,1,4.0,0,22,2,5.5
+955235,Nuwan Thushara,28 Dec 2024,v New Zealand,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+955235,Nuwan Thushara,30 Dec 2024,v New Zealand,Mount Maunganui,2,11,0*,2,2,0,0,0,not out,1,4.0,0,25,1,6.25
+955235,Nuwan Thushara,2 Jan 2025,v New Zealand,Nelson,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+955235,Nuwan Thushara,27 May 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+955235,Nuwan Thushara,8 Jun 2025,v Panadura,Colombo (PSS),2,11,0*,-,1,0,0,0,not out,1,4.0,0,35,0,8.75
+955235,Nuwan Thushara,11 Jun 2025,v Burgher,Colombo (PSS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,2,6.5
+955235,Nuwan Thushara,13 Jun 2025,v Moors,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,1,12
+955235,Nuwan Thushara,15 Jun 2025,v Panadura,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+955235,Nuwan Thushara,10 Jul 2025,v Bangladesh,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+955235,Nuwan Thushara,13 Jul 2025,v Bangladesh,Dambulla,2,11,0*,2,0,0,0,-,not out,1,4.0,0,30,1,7.5
+955235,Nuwan Thushara,16 Jul 2025,v Bangladesh,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+955235,Nuwan Thushara,7 Aug 2025,v SLC Blues,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,3.4,0,36,2,9.81
+955235,Nuwan Thushara,10 Aug 2025,v SLC Greys,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+955235,Nuwan Thushara,11 Aug 2025,v SLC Blues,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+955235,Nuwan Thushara,16 Aug 2025,v SLC Greys,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+955235,Nuwan Thushara,3 Sep 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+955235,Nuwan Thushara,13 Sep 2025,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,1,4.25
+955235,Nuwan Thushara,15 Sep 2025,v Hong Kong,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+955235,Nuwan Thushara,18 Sep 2025,v Afghanistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,4,4.5
+955235,Nuwan Thushara,20 Sep 2025,v Bangladesh,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+955235,Nuwan Thushara,23 Sep 2025,v Pakistan,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+955235,Nuwan Thushara,26 Sep 2025,v India,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+955235,Nuwan Thushara,20 Nov 2025,v Zimbabwe,Rawalpindi,2,11,1*,12,9,0,0,11.11,not out,1,3.0,0,30,0,10
+955235,Nuwan Thushara,4 Dec 2025,v MI Emirates,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+955235,Nuwan Thushara,6 Dec 2025,v DC,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+955235,Nuwan Thushara,8 Dec 2025,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,33,2,8.25
+955235,Nuwan Thushara,10 Dec 2025,v Warriorz,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,44,0,11
+955235,Nuwan Thushara,12 Dec 2025,v Vipers,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.5,0,40,0,10.43
+955235,Nuwan Thushara,7 Jan 2026,v Pakistan,Dambulla,1,11,0*,4,3,0,0,0,not out,2,2.0,0,31,0,15.5

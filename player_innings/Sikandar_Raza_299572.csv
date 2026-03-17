@@ -1,0 +1,350 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+299572,Sikandar Raza,13 Feb 2010,v Vipers,Harare,2,2,1,7,6,0,0,16.66,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,14 Feb 2010,v Tuskers,Harare,1,2,53,-,34,4,3,155.88,bowled,2,DNB,-,-,-,-
+299572,Sikandar Raza,15 Feb 2010,v Mountaineers,Harare,2,2,5,19,7,1,0,71.42,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,16 Feb 2010,v Eagles,Harare,1,2,38,52,42,3,0,90.47,caught,2,4.0,0,20,1,5
+299572,Sikandar Raza,17 Feb 2010,v Rhinos,Harare,1,2,14,22,13,3,0,107.69,bowled,2,4.0,0,34,1,8.5
+299572,Sikandar Raza,13 Nov 2010,v Eagles,Harare,2,2,33,32,20,3,2,165,lbw,1,DNB,-,-,-,-
+299572,Sikandar Raza,14 Nov 2010,v Rhinos,Harare,2,2,11,19,10,0,1,110,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,17 Nov 2010,v Tuskers,Harare,1,1,93,47,48,11,5,193.75,caught,2,1.0,0,10,0,10
+299572,Sikandar Raza,19 Nov 2010,v Mountaineers,Harare,1,1,54,47,30,8,1,180,caught,2,2.0,0,34,0,17
+299572,Sikandar Raza,20 Nov 2010,v Rhinos,Harare,1,1,13,11,7,3,0,185.71,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,21 Nov 2010,v Tuskers,Harare,1,1,2,5,5,0,0,40,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,7 Oct 2012,v Rocks,Harare,2,3,1,6,5,0,0,20,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,14 Oct 2012,v Rhinos,Kwekwe,2,3,8,9,6,1,0,133.33,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,18 Oct 2012,v Tuskers,Harare,1,2,63,61,44,10,0,143.18,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,25 Oct 2012,v Mountaineers,Mutare,2,2,50,68,41,2,3,121.95,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,13 Dec 2012,v Mountaineers,Harare,1,1,70,73,42,5,3,166.66,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,6 Jan 2013,v Rhinos,Harare,1,1,62,77,56,2,3,110.71,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,10 Jan 2013,v Tuskers,Bulawayo,1,1,24,43,23,1,0,104.34,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,10 Feb 2013,v Mountaineers,Harare,1,2,15,25,15,1,1,100,caught,2,0.1,0,1,0,6
+299572,Sikandar Raza,11 May 2013,v Bangladesh,Bulawayo,1,5,14,13,14,1,0,100,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,12 May 2013,v Bangladesh,Bulawayo,2,5,31,38,30,0,2,103.33,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,17 Mar 2014,v Ireland,Sylhet,1,2,10,7,8,2,0,125,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,19 Mar 2014,v Netherlands,Sylhet,2,2,13,19,12,2,0,108.33,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,21 Mar 2014,v U.A.E.,Sylhet,2,2,9,28,14,1,0,64.28,caught,1,3.0,0,15,2,5
+299572,Sikandar Raza,22 May 2015,v Pakistan,Lahore,1,6,17,19,13,1,1,130.76,caught,2,2.0,0,23,0,11.5
+299572,Sikandar Raza,24 May 2015,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+299572,Sikandar Raza,17 Jul 2015,v India,Harare,2,5,10,26,17,0,0,58.82,bowled,1,1.0,0,2,0,2
+299572,Sikandar Raza,19 Jul 2015,v India,Harare,1,3,8,-,7,1,0,114.28,caught,2,2.0,0,9,0,4.5
+299572,Sikandar Raza,9 Aug 2015,v New Zealand,Harare,2,4,8,13,10,2,0,80,caught,1,3.0,0,32,0,10.66
+299572,Sikandar Raza,27 Sep 2015,v Pakistan,Harare,2,4,13,14,10,2,0,130,lbw,1,1.0,0,12,0,12
+299572,Sikandar Raza,29 Sep 2015,v Pakistan,Harare,2,6,36,39,36,1,0,100,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,26 Oct 2015,v Afghanistan,Bulawayo,1,1,59,49,41,5,1,143.9,caught,2,1.0,0,5,0,5
+299572,Sikandar Raza,28 Oct 2015,v Afghanistan,Bulawayo,1,2,21,19,13,3,1,161.53,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,13 Nov 2015,v Bangladesh,Mirpur,1,1,4,3,5,1,0,80,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,15 Nov 2015,v Bangladesh,Mirpur,2,1,5,5,6,1,0,83.33,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,8 Jan 2016,v Afghanistan,Sharjah,2,6,19,-,19,1,1,100,stumped,1,3.0,0,27,1,9
+299572,Sikandar Raza,10 Jan 2016,v Afghanistan,Sharjah,2,5,1,-,5,0,0,20,stumped,1,1.0,0,17,0,17
+299572,Sikandar Raza,15 Jan 2016,v Bangladesh,Khulna,1,4,6,-,8,0,0,75,caught,2,1.0,0,12,0,12
+299572,Sikandar Raza,20 Jan 2016,v Bangladesh,Khulna,1,6,7,10,6,1,0,116.66,caught,2,2.0,0,7,2,3.5
+299572,Sikandar Raza,22 Jan 2016,v Bangladesh,Khulna,1,5,2,5,5,0,0,40,stumped,2,3.0,0,31,2,10.33
+299572,Sikandar Raza,9 Feb 2016,v Tuskers,Bulawayo,2,4,26,-,29,1,0,89.65,caught,1,4.0,0,22,0,5.5
+299572,Sikandar Raza,9 Feb 2016,v Mountaineers,Bulawayo,1,4,33,29,21,4,1,157.14,lbw,2,4.0,0,33,0,8.25
+299572,Sikandar Raza,10 Feb 2016,v Tuskers,Bulawayo,1,4,59*,38,28,5,3,210.71,not out,2,4.0,0,20,0,5
+299572,Sikandar Raza,10 Feb 2016,v Rhinos,Bulawayo,2,5,9,8,7,1,0,128.57,caught,1,4.0,0,20,0,5
+299572,Sikandar Raza,11 Feb 2016,v Mountaineers,Bulawayo,2,4,19,-,18,1,0,105.55,caught,1,3.0,0,28,0,9.33
+299572,Sikandar Raza,12 Feb 2016,v Rhinos,Bulawayo,2,3,23,33,22,2,0,104.54,bowled,1,2.0,0,12,2,6
+299572,Sikandar Raza,13 Feb 2016,v Mountaineers,Bulawayo,2,3,3,3,4,0,0,75,caught,1,4.0,0,23,1,5.75
+299572,Sikandar Raza,8 Mar 2016,v Hong Kong,Nagpur,1,5,3,7,4,0,0,75,run out,2,2.0,0,10,1,5
+299572,Sikandar Raza,10 Mar 2016,v Scotland,Nagpur,1,5,9,10,9,1,0,100,bowled,2,2.0,0,19,0,9.5
+299572,Sikandar Raza,12 Mar 2016,v Afghanistan,Nagpur,2,6,15,21,17,0,0,88.23,bowled,1,2.0,0,15,0,7.5
+299572,Sikandar Raza,18 Jun 2016,v India,Harare,1,4,20,-,18,2,0,111.11,run out,2,3.0,0,18,0,6
+299572,Sikandar Raza,20 Jun 2016,v India,Harare,1,4,1,3,2,0,0,50,caught,2,1.0,0,9,0,9
+299572,Sikandar Raza,5 Sep 2016,v Rawalpindi,Multan,1,4,13*,-,17,0,0,76.47,not out,2,4.0,0,32,1,8
+299572,Sikandar Raza,6 Sep 2016,v Karachi B,Multan,1,4,18,-,16,2,0,112.5,bowled,2,4.0,0,21,1,5.25
+299572,Sikandar Raza,9 Sep 2016,v FATA,Multan,2,4,14,-,13,3,0,107.69,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,10 Sep 2016,v Peshawar,Multan,1,4,11*,-,7,2,0,157.14,not out,2,2.0,0,18,0,9
+299572,Sikandar Raza,12 Sep 2017,v BEAD,Kabul,1,6,0,4,1,0,0,0,bowled,2,4.0,1,9,3,2.25
+299572,Sikandar Raza,13 Sep 2017,v BDD,Kabul,2,6,19,22,11,4,0,172.72,run out,1,1.0,0,22,0,22
+299572,Sikandar Raza,14 Sep 2017,v Amo Sharks,Kabul,2,3,14*,15,10,0,1,140,not out,1,4.0,0,19,1,4.75
+299572,Sikandar Raza,16 Sep 2017,v Kabul Eagles,Kabul,2,5,7,9,11,1,0,63.63,bowled,1,3.0,0,21,1,7
+299572,Sikandar Raza,17 Sep 2017,v SGT,Kabul,2,5,33*,23,18,3,2,183.33,not out,1,1.0,0,7,0,7
+299572,Sikandar Raza,20 Sep 2017,v BEAD,Kabul,1,4,20,16,13,1,1,153.84,bowled,2,3.0,0,25,1,8.33
+299572,Sikandar Raza,22 Sep 2017,v BEAD,Kabul,2,5,40,38,29,4,1,137.93,run out,1,3.0,0,23,0,7.66
+299572,Sikandar Raza,7 Nov 2017,v Victorians,Sylhet,1,7,18*,-,13,2,0,138.46,not out,2,3.0,0,17,0,5.66
+299572,Sikandar Raza,8 Nov 2017,v Rangpur,Sylhet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+299572,Sikandar Raza,12 Nov 2017,v Khulna,Mirpur,2,6,37,-,27,4,1,137.03,bowled,1,2.0,0,17,0,8.5
+299572,Sikandar Raza,14 Nov 2017,v Victorians,Mirpur,1,4,20,-,24,1,0,83.33,caught,2,4.0,0,30,0,7.5
+299572,Sikandar Raza,17 Nov 2017,v Khulna,Mirpur,1,5,0,-,2,0,0,0,caught,2,3.0,0,20,1,6.66
+299572,Sikandar Raza,24 Nov 2017,v Sylhet,Chattogram,1,5,95,-,45,9,6,211.11,caught,2,1.0,0,13,0,13
+299572,Sikandar Raza,25 Nov 2017,v Rangpur,Chattogram,1,5,22,-,19,2,0,115.78,caught,2,1.0,0,7,0,7
+299572,Sikandar Raza,27 Nov 2017,v Dynamites,Chattogram,1,6,26*,-,11,4,0,236.36,not out,2,4.0,0,37,0,9.25
+299572,Sikandar Raza,29 Nov 2017,v Kings,Chattogram,2,5,17,-,17,0,1,100,caught,1,1.0,0,3,0,3
+299572,Sikandar Raza,3 Dec 2017,v Sylhet,Mirpur,1,5,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,5 Dec 2017,v Kings,Mirpur,1,4,42*,-,20,3,3,210,not out,2,4.0,0,16,4,4
+299572,Sikandar Raza,5 Feb 2018,v Afghanistan,Sharjah,1,4,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,6 Feb 2018,v Afghanistan,Sharjah,2,4,40,-,26,5,1,153.84,lbw,1,2.0,0,26,0,13
+299572,Sikandar Raza,5 Oct 2018,v Kabul Zwanan,Sharjah,1,4,78*,-,40,5,7,195,not out,2,2.0,0,36,0,18
+299572,Sikandar Raza,7 Oct 2018,v KingsLeopard,Sharjah,1,4,8,-,9,0,1,88.88,bowled,2,DNB,-,-,-,-
+299572,Sikandar Raza,10 Oct 2018,v Legends,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+299572,Sikandar Raza,12 Oct 2018,v Knights,Sharjah,1,4,51,-,42,5,0,121.42,bowled,2,2.0,0,5,0,2.5
+299572,Sikandar Raza,13 Oct 2018,v Legends,Sharjah,2,5,3,-,10,0,0,30,bowled,1,2.0,0,12,1,6
+299572,Sikandar Raza,14 Oct 2018,v KingsLeopard,Sharjah,2,4,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,21 Nov 2018,v Durban Heat,Durban,1,5,20,22,20,1,0,100,caught,2,2.0,0,26,0,13
+299572,Sikandar Raza,12 Dec 2018,v Durban Heat,Centurion,1,3,19,25,18,2,0,105.55,caught,2,2.0,0,15,1,7.5
+299572,Sikandar Raza,5 Jan 2019,v Rangpur,Mirpur,2,5,3,-,13,0,0,23.07,run out,1,DNB,-,-,-,-
+299572,Sikandar Raza,9 Jan 2019,v Sylhet,Mirpur,2,5,37,-,28,2,2,132.14,bowled,1,3.0,0,28,0,9.33
+299572,Sikandar Raza,12 Jan 2019,v Khulna,Mirpur,2,5,0,-,4,0,0,0,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,25 Jan 2019,v Rangpur,Chattogram,2,3,3,-,3,0,0,100,bowled,1,4.0,0,48,1,12
+299572,Sikandar Raza,26 Jan 2019,v Kings,Chattogram,2,6,29,-,15,2,2,193.33,bowled,1,1.0,0,10,0,10
+299572,Sikandar Raza,29 Jan 2019,v Victorians,Chattogram,1,7,5,-,8,0,0,62.5,bowled,2,1.0,0,8,0,8
+299572,Sikandar Raza,30 Jan 2019,v Dynamites,Chattogram,1,6,6*,-,2,0,1,300,not out,2,DNB,-,-,-,-
+299572,Sikandar Raza,1 Feb 2019,v Sylhet,Mirpur,2,6,5,-,8,0,0,62.5,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,15 Feb 2019,v Sultans,Dubai (DICS),1,5,4,-,6,0,0,66.66,run out,2,DNB,-,-,-,-
+299572,Sikandar Raza,16 Feb 2019,v Qalandars,Dubai (DICS),2,7,5,-,6,1,0,83.33,caught,1,2.0,0,9,1,4.5
+299572,Sikandar Raza,21 Feb 2019,v Zalmi,Sharjah,2,5,14,-,26,1,0,53.84,bowled,1,4.0,1,23,2,5.75
+299572,Sikandar Raza,17 Mar 2019,v Mountaineers,Harare,1,5,6,13,7,0,0,85.71,caught,-,TDNB,-,-,-,-
+299572,Sikandar Raza,23 Jun 2019,v Netherlands,Rotterdam,2,6,14,14,10,1,1,140,caught,1,4.0,0,29,1,7.25
+299572,Sikandar Raza,25 Jun 2019,v Netherlands,Rotterdam,2,5,7,-,11,0,0,63.63,caught,1,4.0,0,25,1,6.25
+299572,Sikandar Raza,12 Jul 2019,v Ireland,Bready,1,5,3,-,6,0,0,50,caught,2,1.0,0,14,0,14
+299572,Sikandar Raza,14 Jul 2019,v Ireland,Bready,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+299572,Sikandar Raza,9 Mar 2020,v Bangladesh,Mirpur,2,6,10,-,14,2,0,71.42,caught,1,4.0,0,31,1,7.75
+299572,Sikandar Raza,11 Mar 2020,v Bangladesh,Mirpur,1,5,12,11,10,2,0,120,caught,2,2.0,0,18,0,9
+299572,Sikandar Raza,18 Aug 2020,v Amazon,Tarouba,2,8,0*,-,0,0,0,-,not out,1,1.0,0,7,0,7
+299572,Sikandar Raza,27 Aug 2020,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+299572,Sikandar Raza,29 Aug 2020,v Tridents,Port of Spain,2,8,3,-,6,0,0,50,run out,1,1.0,0,11,2,11
+299572,Sikandar Raza,2 Sep 2020,v Patriots,Tarouba,1,6,3*,-,2,0,0,150,not out,2,3.0,0,15,3,5
+299572,Sikandar Raza,5 Sep 2020,v Zouks,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,0,4.33
+299572,Sikandar Raza,6 Sep 2020,v Patriots,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,0,6,1,2
+299572,Sikandar Raza,10 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,28,0,14
+299572,Sikandar Raza,7 Nov 2020,v Pakistan,Rawalpindi,1,5,7,9,5,1,0,140,caught,2,2.0,0,19,0,9.5
+299572,Sikandar Raza,8 Nov 2020,v Pakistan,Rawalpindi,1,5,7,19,10,1,0,70,bowled,2,2.0,0,20,0,10
+299572,Sikandar Raza,17 Mar 2021,v Afghanistan,Abu Dhabi,2,4,22,30,14,3,0,157.14,caught,1,2.0,0,16,0,8
+299572,Sikandar Raza,19 Mar 2021,v Afghanistan,Abu Dhabi,2,5,15,19,13,2,0,115.38,caught,1,3.0,0,26,0,8.66
+299572,Sikandar Raza,20 Mar 2021,v Afghanistan,Abu Dhabi,2,5,41*,-,29,2,1,141.37,not out,1,2.0,0,14,1,7
+299572,Sikandar Raza,22 Jul 2021,v Bangladesh,Harare,1,5,0,4,3,0,0,0,caught,2,2.0,0,16,0,8
+299572,Sikandar Raza,23 Jul 2021,v Bangladesh,Harare,1,5,4,12,6,0,0,66.66,run out,2,3.0,0,22,0,7.33
+299572,Sikandar Raza,25 Jul 2021,v Bangladesh,Harare,1,4,0,3,2,0,0,0,bowled,2,1.0,0,13,0,13
+299572,Sikandar Raza,24 Jan 2022,v Chattogram,Mirpur,2,7,22,18,12,1,2,183.33,caught,1,sub,-,-,-,-
+299572,Sikandar Raza,7 Feb 2022,v Sunrisers,Sylhet,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+299572,Sikandar Raza,9 Feb 2022,v Dhaka,Sylhet,1,7,64,58,50,5,4,128,caught,2,2.0,0,16,0,8
+299572,Sikandar Raza,11 Feb 2022,v Victorians,Mirpur,2,6,8,13,8,0,1,100,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,14 Feb 2022,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+299572,Sikandar Raza,2 May 2022,v SA A,Harare,1,4,16,20,15,1,1,106.66,lbw,2,4.0,0,26,1,6.5
+299572,Sikandar Raza,4 May 2022,v SA A,Harare,2,4,82,61,42,2,9,195.23,bowled,1,4.0,0,37,1,9.25
+299572,Sikandar Raza,7 May 2022,v SA A,Harare,2,4,2,7,6,0,0,33.33,caught,1,3.0,0,34,0,11.33
+299572,Sikandar Raza,8 May 2022,v SA A,Harare,1,5,4,9,6,1,0,66.66,caught,2,4.0,0,18,3,4.5
+299572,Sikandar Raza,10 May 2022,v SA A,Harare,2,6,25,45,25,1,2,100,caught,1,3.0,0,30,0,10
+299572,Sikandar Raza,17 May 2022,v Namibia,Bulawayo,1,4,37,38,30,2,1,123.33,lbw,2,3.0,0,25,0,8.33
+299572,Sikandar Raza,19 May 2022,v Namibia,Bulawayo,1,5,11,16,16,1,0,68.75,bowled,2,1.0,0,10,0,10
+299572,Sikandar Raza,21 May 2022,v Namibia,Bulawayo,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+299572,Sikandar Raza,22 May 2022,v Namibia,Bulawayo,1,5,15,28,15,0,1,100,caught,2,4.0,0,20,1,5
+299572,Sikandar Raza,24 May 2022,v Namibia,Bulawayo,2,4,12,22,16,0,1,75,caught,1,4.0,0,18,2,4.5
+299572,Sikandar Raza,11 Jun 2022,v Afghanistan,Harare,1,6,45,46,31,3,2,145.16,caught,2,4.0,0,16,0,4
+299572,Sikandar Raza,12 Jun 2022,v Afghanistan,Harare,2,5,41,35,21,1,4,195.23,bowled,1,3.0,0,23,0,7.66
+299572,Sikandar Raza,14 Jun 2022,v Afghanistan,Harare,2,5,0,3,1,0,0,0,stumped,1,4.0,0,18,2,4.5
+299572,Sikandar Raza,11 Jul 2022,v Singapore,Bulawayo,1,5,87,-,40,8,5,217.5,caught,2,1.0,0,9,0,9
+299572,Sikandar Raza,12 Jul 2022,v Jersey,Bulawayo,1,5,18,-,21,0,1,85.71,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,14 Jul 2022,v U.S.A.,Bulawayo,1,5,82*,-,40,7,5,205,not out,2,4.0,0,32,0,8
+299572,Sikandar Raza,15 Jul 2022,v P.N.G.,Bulawayo,1,4,22,-,14,2,0,157.14,caught,2,2.0,0,22,1,11
+299572,Sikandar Raza,17 Jul 2022,v Netherlands,Bulawayo,1,5,19,-,14,1,1,135.71,lbw,2,4.0,1,8,4,2
+299572,Sikandar Raza,30 Jul 2022,v Bangladesh,Harare,1,5,65*,40,26,7,4,250,not out,2,3.0,0,30,1,10
+299572,Sikandar Raza,31 Jul 2022,v Bangladesh,Harare,1,4,62,-,53,4,2,116.98,caught,2,3.0,0,18,1,6
+299572,Sikandar Raza,2 Aug 2022,v Bangladesh,Harare,1,4,0,-,1,0,0,0,caught,2,4.0,0,21,0,5.25
+299572,Sikandar Raza,17 Oct 2022,v Ireland,Hobart,1,5,82,72,48,5,5,170.83,bowled,2,3.0,0,22,1,7.33
+299572,Sikandar Raza,19 Oct 2022,v West Indies,Hobart,2,5,14,12,8,1,1,175,caught,1,4.0,0,19,3,4.75
+299572,Sikandar Raza,21 Oct 2022,v Scotland,Hobart,2,5,40,34,23,3,2,173.91,caught,1,4.0,0,20,1,5
+299572,Sikandar Raza,24 Oct 2022,v South Africa,Hobart,1,4,0,3,2,0,0,0,caught,2,1.0,0,11,0,11
+299572,Sikandar Raza,27 Oct 2022,v Pakistan,Perth,1,5,9,22,16,1,0,56.25,caught,2,4.0,0,25,3,6.25
+299572,Sikandar Raza,30 Oct 2022,v Bangladesh,Brisbane,2,5,0,4,3,0,0,0,caught,1,4.0,0,35,1,8.75
+299572,Sikandar Raza,2 Nov 2022,v Netherlands,Adelaide,1,5,40,46,24,3,3,166.66,caught,2,1.0,0,6,0,6
+299572,Sikandar Raza,6 Nov 2022,v India,Melbourne,2,5,34,53,24,3,0,141.66,caught,1,3.0,0,18,1,6
+299572,Sikandar Raza,7 Dec 2022,v Jaffna Kings,Hambantota,1,4,5,-,14,0,0,35.71,caught,2,2.0,0,12,0,6
+299572,Sikandar Raza,8 Dec 2022,v Stars,Hambantota,2,6,0,-,3,0,0,0,caught,1,4.0,0,31,1,7.75
+299572,Sikandar Raza,11 Dec 2022,v Jaffna Kings,Pallekele,2,6,8,-,6,1,0,133.33,caught,1,4.0,0,35,0,8.75
+299572,Sikandar Raza,13 Dec 2022,v Kandy,Pallekele,2,7,1,-,3,0,0,33.33,caught,1,2.0,0,32,0,16
+299572,Sikandar Raza,17 Dec 2022,v Galle,Colombo (RPS),1,5,0,-,3,0,0,0,run out,2,3.0,0,5,2,1.66
+299572,Sikandar Raza,18 Dec 2022,v Kandy,Colombo (RPS),2,3,45,-,33,3,2,136.36,stumped,1,4.0,0,26,1,6.5
+299572,Sikandar Raza,19 Dec 2022,v Galle,Colombo (RPS),2,5,17,-,7,0,2,242.85,caught,1,2.0,0,31,1,15.5
+299572,Sikandar Raza,6 Jan 2023,v Victorians,Mirpur,1,4,12,13,10,0,1,120,caught,2,4.0,0,23,2,5.75
+299572,Sikandar Raza,10 Jan 2023,v Barishal,Mirpur,1,4,2,10,7,0,0,28.57,bowled,2,2.0,0,14,2,7
+299572,Sikandar Raza,13 Feb 2023,v Sultans,Multan,1,5,19*,33,14,1,1,135.71,not out,2,3.0,0,32,0,10.66
+299572,Sikandar Raza,19 Feb 2023,v Kings,Karachi,2,6,18,-,12,1,1,150,caught,1,4.0,0,27,0,6.75
+299572,Sikandar Raza,21 Feb 2023,v Gladiators,Karachi,1,6,32*,-,16,1,2,200,not out,2,1.0,0,6,1,6
+299572,Sikandar Raza,26 Feb 2023,v Zalmi,Lahore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+299572,Sikandar Raza,27 Feb 2023,v United,Lahore,1,6,23*,28,10,2,1,230,not out,2,1.5,0,6,2,3.27
+299572,Sikandar Raza,2 Mar 2023,v Gladiators,Lahore,1,7,71*,64,34,8,3,208.82,not out,2,1.0,0,6,0,6
+299572,Sikandar Raza,4 Mar 2023,v Sultans,Lahore,1,5,14,18,8,1,1,175,lbw,2,1.0,0,10,1,10
+299572,Sikandar Raza,7 Mar 2023,v Zalmi,Rawalpindi,2,7,20,10,7,2,2,285.71,bowled,1,1.0,0,21,0,21
+299572,Sikandar Raza,9 Mar 2023,v United,Rawalpindi,1,5,1*,14,4,0,0,25,not out,2,1.0,0,14,0,14
+299572,Sikandar Raza,15 Mar 2023,v Sultans,Lahore,2,7,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,17 Mar 2023,v Zalmi,Lahore,2,6,23,28,14,3,0,164.28,bowled,1,DNB,-,-,-,-
+299572,Sikandar Raza,18 Mar 2023,v Sultans,Lahore,1,6,1,3,2,0,0,50,bowled,2,DNB,-,-,-,-
+299572,Sikandar Raza,1 Apr 2023,v KKR,Mohali,1,5,16,22,13,1,1,123.07,caught,2,3.0,0,25,1,8.33
+299572,Sikandar Raza,5 Apr 2023,v RR,Guwahati,1,5,1,2,2,0,0,50,bowled,2,2.0,0,24,0,12
+299572,Sikandar Raza,9 Apr 2023,v SRH,Hyderabad,1,6,5,5,6,0,0,83.33,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,15 Apr 2023,v LSG,Lucknow,2,5,57,62,41,4,3,139.02,caught,1,2.0,0,19,1,9.5
+299572,Sikandar Raza,28 Apr 2023,v LSG,Mohali,2,4,36,41,22,4,1,163.63,caught,1,1.0,0,17,0,17
+299572,Sikandar Raza,30 Apr 2023,v CSK,Chennai,2,8,13*,9,7,1,0,185.71,not out,1,3.0,0,31,1,10.33
+299572,Sikandar Raza,13 May 2023,v DC,Delhi,1,8,11*,11,7,0,1,157.14,not out,2,1.0,0,3,0,3
+299572,Sikandar Raza,16 Aug 2023,v Tallawahs,Gros Islet,2,5,4,10,10,0,0,40,caught,1,2.0,0,19,0,9.5
+299572,Sikandar Raza,17 Aug 2023,v Royals,Gros Islet,1,5,23,23,13,0,2,176.92,caught,2,4.0,0,21,1,5.25
+299572,Sikandar Raza,19 Aug 2023,v Amazon,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+299572,Sikandar Raza,26 Aug 2023,v Trinbago,Basseterre,1,4,32,26,23,2,2,139.13,caught,2,3.0,0,31,2,10.33
+299572,Sikandar Raza,2 Sep 2023,v Royals,Bridgetown,1,6,18,10,8,0,2,225,caught,2,3.0,0,21,1,7
+299572,Sikandar Raza,9 Sep 2023,v Patriots,Tarouba,1,6,22,26,17,1,2,129.41,caught,2,4.0,0,28,2,7
+299572,Sikandar Raza,10 Sep 2023,v Trinbago,Tarouba,1,4,8,7,8,0,0,100,caught,2,2.0,0,24,0,12
+299572,Sikandar Raza,14 Sep 2023,v Amazon,Providence,2,5,12*,8,6,2,0,200,not out,1,3.0,0,14,1,4.66
+299572,Sikandar Raza,17 Sep 2023,v Tallawahs,Providence,2,6,3,8,8,0,0,37.5,caught,1,3.0,0,20,0,6.66
+299572,Sikandar Raza,19 Sep 2023,v Tallawahs,Providence,1,7,19,9,12,3,0,158.33,bowled,2,2.0,0,12,0,6
+299572,Sikandar Raza,24 Oct 2023,v Namibia,Windhoek,1,5,39,-,35,4,1,111.42,caught,2,2.4,0,22,0,8.25
+299572,Sikandar Raza,25 Oct 2023,v Namibia,Windhoek,2,4,82*,-,35,3,9,234.28,not out,1,3.0,0,38,0,12.66
+299572,Sikandar Raza,27 Oct 2023,v Namibia,Windhoek,2,4,52,-,36,4,3,144.44,caught,1,3.0,0,26,0,8.66
+299572,Sikandar Raza,29 Oct 2023,v Namibia,Windhoek,1,4,2,-,4,0,0,50,bowled,2,4.0,0,31,0,7.75
+299572,Sikandar Raza,30 Oct 2023,v Namibia,Windhoek,2,5,2,-,10,0,0,20,caught,1,4.0,0,24,4,6
+299572,Sikandar Raza,22 Nov 2023,v Namibia,Windhoek,1,5,20,-,21,0,1,95.23,caught,2,2.0,0,18,0,9
+299572,Sikandar Raza,23 Nov 2023,v Tanzania,Windhoek,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,3,2.5
+299572,Sikandar Raza,26 Nov 2023,v Uganda,Windhoek,1,4,48,-,39,2,4,123.07,caught,2,2.1,0,19,0,8.76
+299572,Sikandar Raza,27 Nov 2023,v Rwanda,Windhoek,1,1,58,-,36,6,4,161.11,caught,2,2.4,0,3,3,1.12
+299572,Sikandar Raza,29 Nov 2023,v Nigeria,Windhoek,2,1,65,-,37,4,7,175.67,caught,1,3.0,1,13,2,4.33
+299572,Sikandar Raza,30 Nov 2023,v Kenya,Windhoek,1,1,82,-,48,1,8,170.83,caught,2,4.0,0,21,2,5.25
+299572,Sikandar Raza,7 Dec 2023,v Ireland,Harare,2,4,65,75,42,5,2,154.76,caught,1,4.0,0,28,3,7
+299572,Sikandar Raza,14 Jan 2024,v Sri Lanka,Colombo (RPS),1,4,62,60,42,5,2,147.61,caught,2,4.0,0,13,3,3.25
+299572,Sikandar Raza,16 Jan 2024,v Sri Lanka,Colombo (RPS),2,4,8,4,5,2,0,160,caught,1,4.0,0,25,0,6.25
+299572,Sikandar Raza,18 Jan 2024,v Sri Lanka,Colombo (RPS),1,5,10,12,12,1,0,83.33,caught,2,2.5,0,25,0,8.82
+299572,Sikandar Raza,20 Jan 2024,v MI Emirates,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+299572,Sikandar Raza,22 Jan 2024,v Warriors,Dubai (DICS),1,5,48,-,23,3,3,208.69,bowled,2,4.0,0,29,0,7.25
+299572,Sikandar Raza,25 Jan 2024,v KnightRiders,Dubai (DICS),2,5,43,53,29,5,0,148.27,caught,1,2.0,0,12,0,6
+299572,Sikandar Raza,27 Jan 2024,v Gulf Giants,Sharjah,1,6,47,-,36,3,2,130.55,caught,2,3.0,0,8,2,2.66
+299572,Sikandar Raza,29 Jan 2024,v Warriors,Sharjah,1,5,22,-,25,0,2,88,caught,2,3.0,0,17,0,5.66
+299572,Sikandar Raza,1 Feb 2024,v Vipers,Dubai (DICS),2,5,22,32,19,2,0,115.78,caught,1,4.0,0,28,1,7
+299572,Sikandar Raza,3 Feb 2024,v KnightRiders,Abu Dhabi,2,5,11,-,7,2,0,157.14,caught,1,3.0,0,21,1,7
+299572,Sikandar Raza,6 Feb 2024,v Gulf Giants,Dubai (DICS),2,6,10,16,13,0,0,76.92,bowled,1,4.0,0,28,0,7
+299572,Sikandar Raza,9 Feb 2024,v Vipers,Dubai (DICS),2,5,60*,68,45,5,2,133.33,not out,1,4.0,0,16,1,4
+299572,Sikandar Raza,10 Feb 2024,v MI Emirates,Abu Dhabi,1,5,0,3,4,0,0,0,bowled,2,4.0,0,23,1,5.75
+299572,Sikandar Raza,13 Feb 2024,v KnightRiders,Abu Dhabi,1,6,40,24,19,5,1,210.52,caught,2,4.0,0,27,2,6.75
+299572,Sikandar Raza,15 Feb 2024,v Gulf Giants,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+299572,Sikandar Raza,17 Feb 2024,v MI Emirates,Dubai (DICS),2,5,10,19,13,0,0,76.92,caught,1,3.0,0,27,1,9
+299572,Sikandar Raza,19 Feb 2024,v Gladiators,Lahore,1,6,18,16,12,1,1,150,caught,2,3.0,0,25,1,8.33
+299572,Sikandar Raza,21 Feb 2024,v Sultans,Multan,1,4,23,21,16,4,0,143.75,caught,2,2.0,0,24,0,12
+299572,Sikandar Raza,24 Feb 2024,v Kings,Lahore,1,7,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,25 Feb 2024,v Zalmi,Lahore,2,7,1,2,1,0,0,100,run out,1,2.0,0,20,0,10
+299572,Sikandar Raza,27 Feb 2024,v Sultans,Lahore,2,5,17,6,7,0,2,242.85,caught,1,2.0,0,20,1,10
+299572,Sikandar Raza,6 Mar 2024,v United,Rawalpindi,1,6,4,11,10,0,0,40,caught,2,1.0,0,7,0,7
+299572,Sikandar Raza,9 Mar 2024,v Kings,Karachi,1,6,22*,25,16,2,1,137.5,not out,2,4.0,0,23,1,5.75
+299572,Sikandar Raza,10 Mar 2024,v Gladiators,Karachi,1,6,6*,2,5,1,0,120,not out,2,4.0,0,32,0,8
+299572,Sikandar Raza,4 Apr 2024,v GT,Ahmedabad,2,5,15,23,16,0,0,93.75,caught,1,2.0,0,22,0,11
+299572,Sikandar Raza,9 Apr 2024,v SRH,New Chandigarh,2,5,28,38,22,2,2,127.27,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,3 May 2024,v Bangladesh,Chattogram,1,5,0,2,1,0,0,0,caught,2,4.0,0,31,0,7.75
+299572,Sikandar Raza,5 May 2024,v Bangladesh,Chattogram,1,4,3,10,8,0,0,37.5,caught,2,4.0,0,31,0,7.75
+299572,Sikandar Raza,7 May 2024,v Bangladesh,Chattogram,2,5,1,9,5,0,0,20,caught,1,4.0,0,38,1,9.5
+299572,Sikandar Raza,10 May 2024,v Bangladesh,Mirpur,2,3,17,14,10,4,0,170,bowled,1,4.0,0,24,1,6
+299572,Sikandar Raza,12 May 2024,v Bangladesh,Mirpur,2,3,72*,62,46,6,4,156.52,not out,1,4.0,0,26,0,6.5
+299572,Sikandar Raza,30 May 2024,v Derbyshire,Northampton,2,5,38,30,27,1,2,140.74,caught,1,3.0,0,32,0,10.66
+299572,Sikandar Raza,31 May 2024,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+299572,Sikandar Raza,2 Jun 2024,v Yorkshire,Northampton,2,6,0,3,2,0,0,0,caught,1,4.0,0,26,0,6.5
+299572,Sikandar Raza,7 Jun 2024,v Worcs,Northampton,1,5,42*,39,31,2,3,135.48,not out,2,3.0,0,26,0,8.66
+299572,Sikandar Raza,14 Jun 2024,v Derbyshire,Derby,1,5,34,27,16,3,2,212.5,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,16 Jun 2024,v Worcs,Worcester,1,5,43,34,34,3,1,126.47,caught,2,2.0,0,16,0,8
+299572,Sikandar Raza,20 Jun 2024,v Bears,Birmingham,2,5,13,15,11,1,1,118.18,caught,1,4.0,0,40,1,10
+299572,Sikandar Raza,21 Jun 2024,v Leics,Northampton,1,5,36*,19,14,1,4,257.14,not out,2,2.0,0,11,0,5.5
+299572,Sikandar Raza,6 Jul 2024,v India,Harare,1,4,17,27,19,1,1,89.47,caught,2,4.0,0,25,3,6.25
+299572,Sikandar Raza,7 Jul 2024,v India,Harare,2,5,4,4,4,1,0,100,caught,1,3.0,0,34,0,11.33
+299572,Sikandar Raza,10 Jul 2024,v India,Harare,2,5,15,15,16,3,0,93.75,caught,1,4.0,0,24,2,6
+299572,Sikandar Raza,13 Jul 2024,v India,Harare,1,4,46,38,28,2,3,164.28,caught,2,2.0,0,24,0,12
+299572,Sikandar Raza,14 Jul 2024,v India,Harare,2,5,8,23,12,0,0,66.66,run out,1,4.0,0,37,1,9.25
+299572,Sikandar Raza,25 Jul 2024,v Fire,Manchester,1,5,13,8,10,2,0,130,bowled,2,DNB,-,-,-,-
+299572,Sikandar Raza,29 Jul 2024,v Rockets,Manchester,2,8,21,13,12,1,1,175,run out,1,4.0,1,29,2,8.7
+299572,Sikandar Raza,1 Aug 2024,v Brave,Southampton,1,4,13,13,16,0,1,81.25,caught,2,2.0,0,10,0,6
+299572,Sikandar Raza,4 Aug 2024,v N S-Chargers,Leeds,2,6,8*,14,6,1,0,133.33,not out,1,2.0,0,22,0,13.2
+299572,Sikandar Raza,6 Aug 2024,v Invincibles,Manchester,2,6,1,1,2,0,0,50,caught,1,4.0,0,17,2,5.1
+299572,Sikandar Raza,9 Aug 2024,v Spirit,Lord's,1,6,0,3,2,0,0,0,caught,2,4.0,0,26,0,7.8
+299572,Sikandar Raza,11 Aug 2024,v N S-Chargers,Manchester,1,6,0,2,1,0,0,0,caught,2,2.0,0,28,0,16.8
+299572,Sikandar Raza,15 Aug 2024,v Phoenix,Birmingham,1,6,3,4,4,0,0,75,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,19 Oct 2024,v Seychelles,Nairobi (Gym),1,4,36*,-,13,5,2,276.92,not out,2,3.0,0,14,0,4.66
+299572,Sikandar Raza,20 Oct 2024,v Mozambique,Nairobi (Gym),2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,2,3.33
+299572,Sikandar Raza,22 Oct 2024,v Rwanda,Nairobi (Ruaraka),1,4,3,-,5,0,0,60,stumped,2,4.0,1,18,5,4.5
+299572,Sikandar Raza,23 Oct 2024,v Gambia,Nairobi (Ruaraka),1,4,133*,-,43,7,15,309.3,not out,2,DNB,-,-,-,-
+299572,Sikandar Raza,24 Oct 2024,v Kenya,Nairobi (Gym),1,4,27,-,28,2,1,96.42,stumped,2,4.0,0,17,3,4.25
+299572,Sikandar Raza,1 Dec 2024,v Pakistan,Bulawayo,2,4,39,49,28,4,0,139.28,caught,1,4.0,0,14,1,3.5
+299572,Sikandar Raza,3 Dec 2024,v Pakistan,Bulawayo,1,4,3,6,4,0,0,75,bowled,2,1.0,0,11,0,11
+299572,Sikandar Raza,5 Dec 2024,v Pakistan,Bulawayo,2,4,19,35,20,1,0,95,caught,1,4.0,0,24,0,6
+299572,Sikandar Raza,11 Dec 2024,v Afghanistan,Harare,2,4,9,12,5,2,0,180,caught,1,4.0,0,24,0,6
+299572,Sikandar Raza,13 Dec 2024,v Afghanistan,Harare,2,5,35,47,30,2,1,116.66,caught,1,3.0,0,26,0,8.66
+299572,Sikandar Raza,14 Dec 2024,v Afghanistan,Harare,1,5,6,11,7,0,0,85.71,caught,2,4.0,0,19,2,4.75
+299572,Sikandar Raza,11 Jan 2025,v MI Emirates,Dubai (DICS),1,4,10,11,10,1,0,100,caught,2,3.0,0,27,0,9
+299572,Sikandar Raza,13 Jan 2025,v MI Emirates,Abu Dhabi,2,4,6,-,7,0,0,85.71,bowled,1,3.0,0,27,0,9
+299572,Sikandar Raza,17 Jan 2025,v Warriorz,Sharjah,1,4,27,-,20,1,1,135,caught,2,1.0,0,11,0,11
+299572,Sikandar Raza,18 Jan 2025,v Gulf Giants,Sharjah,1,4,28,35,22,4,0,127.27,caught,2,4.0,0,31,1,7.75
+299572,Sikandar Raza,20 Jan 2025,v Vipers,Dubai (DICS),2,5,24,-,26,0,1,92.3,caught,1,4.0,0,30,1,7.5
+299572,Sikandar Raza,23 Jan 2025,v Gulf Giants,Dubai (DICS),2,6,26*,25,15,1,1,173.33,not out,1,4.0,0,22,0,5.5
+299572,Sikandar Raza,26 Jan 2025,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+299572,Sikandar Raza,28 Jan 2025,v Warriorz,Dubai (DICS),1,4,6,14,9,0,0,66.66,caught,2,2.0,0,9,1,4.5
+299572,Sikandar Raza,2 Feb 2025,v KnightRiders,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+299572,Sikandar Raza,3 Feb 2025,v Vipers,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,1,4
+299572,Sikandar Raza,5 Feb 2025,v Vipers,Dubai (DICS),2,7,4*,1,1,1,0,400,not out,1,1.0,0,20,0,20
+299572,Sikandar Raza,9 Feb 2025,v Vipers,Dubai (DICS),2,7,34*,13,12,5,1,283.33,not out,1,4.0,0,42,1,10.5
+299572,Sikandar Raza,22 Feb 2025,v Ireland,Harare,1,3,0,-,1,0,0,0,caught,-,TDNB,-,-,-,-
+299572,Sikandar Raza,23 Feb 2025,v Ireland,Harare,2,4,22,40,27,2,0,81.48,caught,1,4.0,0,22,2,5.5
+299572,Sikandar Raza,25 Feb 2025,v Ireland,Harare,1,4,34,31,27,2,2,125.92,caught,-,TDNB,-,-,-,-
+299572,Sikandar Raza,25 Mar 2025,v Eagles,Harare,1,5,55*,59,35,5,2,157.14,not out,2,2.0,0,21,0,10.5
+299572,Sikandar Raza,26 Mar 2025,v Mountaineers,Harare,1,4,55,47,30,7,2,183.33,caught,2,4.0,0,20,1,5
+299572,Sikandar Raza,11 Apr 2025,v United,Rawalpindi,1,6,23,17,21,3,1,109.52,caught,2,2.0,0,15,0,7.5
+299572,Sikandar Raza,13 Apr 2025,v Gladiators,Rawalpindi,1,5,6,14,6,0,0,100,caught,2,3.0,0,12,2,4
+299572,Sikandar Raza,15 Apr 2025,v Kings,Karachi,1,6,10*,10,5,2,0,200,not out,2,2.1,0,13,2,6
+299572,Sikandar Raza,22 Apr 2025,v Sultans,Multan,2,7,50*,43,27,5,3,185.18,not out,1,2.0,0,15,1,7.5
+299572,Sikandar Raza,24 Apr 2025,v Zalmi,Lahore,1,7,52,-,37,5,3,140.54,caught,2,1.0,0,6,0,6
+299572,Sikandar Raza,26 Apr 2025,v Sultans,Lahore,2,6,40*,36,21,2,4,190.47,not out,1,2.0,0,20,0,10
+299572,Sikandar Raza,30 Apr 2025,v United,Lahore,1,6,39,-,17,3,3,229.41,caught,2,3.0,0,20,3,6.66
+299572,Sikandar Raza,1 May 2025,v Gladiators,Lahore,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+299572,Sikandar Raza,4 May 2025,v Kings,Lahore,1,6,8,-,6,0,0,133.33,lbw,2,2.0,0,21,0,10.5
+299572,Sikandar Raza,18 May 2025,v Zalmi,Rawalpindi,1,5,4,-,3,1,0,133.33,caught,2,1.0,0,7,1,7
+299572,Sikandar Raza,25 May 2025,v Gladiators,Lahore,2,6,22*,-,7,2,2,314.28,not out,1,4.0,0,43,1,10.75
+299572,Sikandar Raza,14 Jun 2025,v Washington,Oakland,1,6,15,-,26,0,1,57.69,caught,2,DNB,-,-,-,-
+299572,Sikandar Raza,16 Jun 2025,v Texas,Oakland,2,6,4,-,3,1,0,133.33,caught,1,3.0,0,24,0,8
+299572,Sikandar Raza,18 Jun 2025,v MI New York,Oakland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+299572,Sikandar Raza,22 Jun 2025,v Los Angeles,Dallas,1,7,16*,-,12,1,1,133.33,not out,2,3.0,0,27,1,9
+299572,Sikandar Raza,27 Jun 2025,v MI New York,Dallas,2,4,30,-,9,6,1,333.33,caught,1,4.0,0,57,0,14.25
+299572,Sikandar Raza,28 Jun 2025,v Los Angeles,Dallas,2,6,4,-,7,0,0,57.14,caught,1,DNB,-,-,-,-
+299572,Sikandar Raza,1 Jul 2025,v SF,Lauderhill,2,4,11,-,14,1,0,78.57,run out,1,2.0,0,19,1,9.5
+299572,Sikandar Raza,4 Jul 2025,v Washington,Lauderhill,1,4,8,-,8,2,0,100,caught,2,2.0,0,18,1,9
+299572,Sikandar Raza,5 Jul 2025,v Texas,Lauderhill,2,7,23,-,17,2,1,135.29,caught,1,1.0,0,12,0,12
+299572,Sikandar Raza,14 Jul 2025,v South Africa,Harare,1,4,54*,61,38,3,2,142.1,not out,2,2.4,0,24,0,9
+299572,Sikandar Raza,18 Jul 2025,v New Zealand,Harare,1,4,12,25,18,1,0,66.66,caught,2,3.0,0,23,0,7.66
+299572,Sikandar Raza,20 Jul 2025,v South Africa,Harare,1,4,9,13,12,1,0,75,caught,2,2.0,0,26,0,13
+299572,Sikandar Raza,24 Jul 2025,v New Zealand,Harare,2,4,9,6,5,1,0,180,lbw,1,4.0,0,34,0,8.5
+299572,Sikandar Raza,3 Sep 2025,v Sri Lanka,Harare,1,4,28,26,22,2,1,127.27,caught,2,4.0,0,26,1,6.5
+299572,Sikandar Raza,6 Sep 2025,v Sri Lanka,Harare,2,4,2,9,7,0,0,28.57,bowled,1,4.0,0,11,3,2.75
+299572,Sikandar Raza,7 Sep 2025,v Sri Lanka,Harare,1,4,28,29,18,3,1,155.55,caught,2,4.0,0,29,1,7.25
+299572,Sikandar Raza,15 Sep 2025,v Namibia,Bulawayo,1,4,23*,-,11,2,1,209.09,not out,2,4.0,0,31,2,7.75
+299572,Sikandar Raza,16 Sep 2025,v Namibia,Bulawayo,2,4,3,6,4,0,0,75,caught,1,4.0,0,35,1,8.75
+299572,Sikandar Raza,18 Sep 2025,v Namibia,Bulawayo,2,5,8,10,8,1,0,100,caught,1,4.0,0,25,3,6.25
+299572,Sikandar Raza,26 Sep 2025,v Uganda,Harare,2,4,24,-,16,2,0,150,caught,1,4.0,0,22,1,5.5
+299572,Sikandar Raza,28 Sep 2025,v Botswana,Harare,1,4,21,-,10,1,2,210,caught,2,4.0,2,14,1,3.5
+299572,Sikandar Raza,30 Sep 2025,v Tanzania,Harare,1,3,19,-,9,1,2,211.11,bowled,2,2.0,0,6,2,3
+299572,Sikandar Raza,2 Oct 2025,v Kenya,Harare,2,3,10,-,18,0,0,55.55,caught,1,4.0,0,18,0,4.5
+299572,Sikandar Raza,4 Oct 2025,v Namibia,Harare,2,4,0,-,1,0,0,0,caught,1,3.0,0,30,0,10
+299572,Sikandar Raza,29 Oct 2025,v Afghanistan,Harare,2,4,1,5,4,0,0,25,caught,1,4.0,0,20,3,5
+299572,Sikandar Raza,31 Oct 2025,v Afghanistan,Harare,1,4,37,51,32,4,0,115.62,caught,2,4.0,0,15,0,3.75
+299572,Sikandar Raza,2 Nov 2025,v Afghanistan,Harare,2,4,51,-,29,7,2,175.86,bowled,1,4.0,0,20,0,5
+299572,Sikandar Raza,18 Nov 2025,v Pakistan,Rawalpindi,1,5,34*,36,24,3,1,141.66,not out,2,4.0,0,29,0,7.25
+299572,Sikandar Raza,20 Nov 2025,v Sri Lanka,Rawalpindi,1,4,47,55,32,3,2,146.87,caught,2,4.0,0,23,1,5.75
+299572,Sikandar Raza,23 Nov 2025,v Pakistan,Rawalpindi,2,4,23,30,18,2,1,127.77,caught,1,4.0,0,39,2,9.75
+299572,Sikandar Raza,25 Nov 2025,v Sri Lanka,Rawalpindi,1,5,37,34,29,5,1,127.58,caught,2,4.0,0,17,0,4.25
+299572,Sikandar Raza,3 Dec 2025,v KnightRiders,Sharjah,2,5,8,-,11,0,0,72.72,caught,1,2.0,0,22,0,11
+299572,Sikandar Raza,7 Dec 2025,v MI Emirates,Sharjah,2,5,64,47,33,3,5,193.93,lbw,1,3.0,0,22,0,7.33
+299572,Sikandar Raza,10 Dec 2025,v Gulf Giants,Dubai (DICS),1,6,3,6,7,0,0,42.85,lbw,2,4.0,0,20,2,5
+299572,Sikandar Raza,14 Dec 2025,v MI Emirates,Abu Dhabi,1,3,29,33,22,2,1,131.81,caught,2,4.0,0,15,2,3.75
+299572,Sikandar Raza,15 Dec 2025,v Gulf Giants,Sharjah,1,5,9,17,9,1,0,100,caught,2,1.0,0,14,0,14
+299572,Sikandar Raza,19 Dec 2025,v DC,Dubai (DICS),2,5,21,-,14,3,0,150,caught,1,3.0,0,24,1,8
+299572,Sikandar Raza,20 Dec 2025,v Vipers,Dubai (DICS),1,6,1,4,3,0,0,33.33,caught,2,2.0,0,16,1,8
+299572,Sikandar Raza,22 Dec 2025,v KnightRiders,Abu Dhabi,2,5,28,-,25,1,1,112,caught,1,4.0,0,17,1,4.25
+299572,Sikandar Raza,24 Dec 2025,v DC,Dubai (DICS),1,5,8,13,11,1,0,72.72,caught,2,4.0,0,15,2,3.75
+299572,Sikandar Raza,26 Dec 2025,v Vipers,Sharjah,1,6,0,1,1,0,0,0,bowled,2,4.0,0,27,1,6.75
+299572,Sikandar Raza,2 Jan 2026,v MI Cape Town,Paarl,1,4,2,11,5,0,0,40,lbw,2,4.0,0,27,3,6.75
+299572,Sikandar Raza,4 Jan 2026,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,4,3.25
+299572,Sikandar Raza,8 Jan 2026,v Super Kings,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+299572,Sikandar Raza,10 Jan 2026,v Capitals,Paarl,2,6,9,18,14,1,0,64.28,bowled,1,4.0,0,13,2,3.25
+299572,Sikandar Raza,13 Jan 2026,v Super Giants,Paarl,2,6,27*,23,13,2,2,207.69,not out,1,3.0,0,29,0,9.66
+299572,Sikandar Raza,15 Jan 2026,v Capitals,Centurion,2,6,2*,2,2,0,0,100,not out,1,4.0,0,29,2,7.25
+299572,Sikandar Raza,17 Jan 2026,v Super Giants,Durban,2,7,21,28,21,0,2,100,bowled,1,4.0,0,57,0,14.25
+299572,Sikandar Raza,19 Jan 2026,v Super Kings,Paarl,2,6,3,8,8,0,0,37.5,caught,1,3.0,0,27,1,9
+299572,Sikandar Raza,22 Jan 2026,v Super Kings,Centurion,1,5,35,32,19,2,3,184.21,caught,2,4.0,0,26,1,6.5
+299572,Sikandar Raza,23 Jan 2026,v Sunrisers,Johannesburg,1,6,19,31,27,1,1,70.37,stumped,2,2.0,0,18,0,9
+299572,Sikandar Raza,9 Feb 2026,v Oman,Colombo (SSC),2,5,5*,3,2,1,0,250,not out,1,4.0,0,17,1,4.25
+299572,Sikandar Raza,13 Feb 2026,v Australia,Colombo (RPS),1,4,25*,18,13,2,1,192.3,not out,2,2.0,0,17,0,8.5
+299572,Sikandar Raza,19 Feb 2026,v Sri Lanka,Colombo (RPS),2,4,45,31,26,2,4,173.07,caught,1,4.0,0,36,0,9
+299572,Sikandar Raza,23 Feb 2026,v West Indies,Wankhede,2,5,27,39,20,2,2,135,bowled,1,3.0,0,52,0,17.33
+299572,Sikandar Raza,26 Feb 2026,v India,Chennai,2,4,31,29,21,2,2,147.61,caught,1,3.0,0,29,1,9.66
+299572,Sikandar Raza,1 Mar 2026,v South Africa,Delhi,1,4,73,61,43,8,4,169.76,caught,2,4.0,0,29,3,7.25

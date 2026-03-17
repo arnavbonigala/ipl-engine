@@ -1,0 +1,170 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+423838,Rahul Tewatia,5 May 2014,v KKR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+423838,Rahul Tewatia,11 May 2014,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+423838,Rahul Tewatia,23 May 2014,v Kings XI,Mohali,2,6,16,21,13,0,1,123.07,caught,1,4.0,0,24,1,6
+423838,Rahul Tewatia,21 Apr 2015,v Kings XI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+423838,Rahul Tewatia,29 Jan 2017,v Punjab,Nadaun,1,5,5,8,6,0,0,83.33,caught,2,4.0,0,13,2,3.25
+423838,Rahul Tewatia,30 Jan 2017,v Himachal,Dharamsala,1,6,17,21,12,3,0,141.66,caught,2,1.0,0,14,0,14
+423838,Rahul Tewatia,31 Jan 2017,v Services,Dharamsala,1,7,40,21,17,1,5,235.29,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,1 Feb 2017,v Delhi,Dharamsala,1,8,15*,17,9,3,0,166.66,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,2 Feb 2017,v J & K,Nadaun,2,6,16,21,12,2,0,133.33,caught,1,4.0,0,21,0,5.25
+423838,Rahul Tewatia,9 May 2017,v KKR,Mohali,1,8,15*,10,8,3,0,187.5,not out,2,4.0,0,18,2,4.5
+423838,Rahul Tewatia,11 May 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+423838,Rahul Tewatia,14 May 2017,v Supergiant,Pune,1,5,4,5,3,1,0,133.33,caught,2,3.0,0,14,0,4.66
+423838,Rahul Tewatia,8 Jan 2018,v Himachal,Delhi,2,4,42,48,26,4,1,161.53,bowled,1,3.0,0,34,1,11.33
+423838,Rahul Tewatia,10 Jan 2018,v Delhi,Delhi,1,5,1,4,2,0,0,50,run out,2,3.0,0,28,1,9.33
+423838,Rahul Tewatia,12 Jan 2018,v Punjab,Delhi,2,6,37*,34,22,5,1,168.18,not out,1,3.0,0,15,2,5
+423838,Rahul Tewatia,13 Jan 2018,v J & K,Delhi,1,7,16,16,17,1,1,94.11,bowled,2,4.0,0,18,0,4.5
+423838,Rahul Tewatia,15 Jan 2018,v Services,Delhi,2,6,29*,28,16,1,2,181.25,not out,1,2.0,0,12,1,6
+423838,Rahul Tewatia,8 Apr 2018,v Kings XI,Mohali,1,6,9,-,7,1,0,128.57,lbw,2,4.0,0,24,1,6
+423838,Rahul Tewatia,11 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+423838,Rahul Tewatia,14 Apr 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+423838,Rahul Tewatia,16 Apr 2018,v KKR,Eden Gardens,2,6,1,-,2,0,0,50,caught,1,3.0,0,18,3,6
+423838,Rahul Tewatia,21 Apr 2018,v RCB,Bengaluru,1,6,13*,-,9,3,0,144.44,not out,2,3.0,0,26,0,8.66
+423838,Rahul Tewatia,23 Apr 2018,v Kings XI,Delhi,2,7,24,-,21,1,1,114.28,caught,1,1.0,0,6,0,6
+423838,Rahul Tewatia,27 Apr 2018,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+423838,Rahul Tewatia,30 Apr 2018,v CSK,Pune,2,7,3*,-,4,0,0,75,not out,1,2.0,0,23,0,11.5
+423838,Rahul Tewatia,21 Feb 2019,v Arunachal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+423838,Rahul Tewatia,22 Feb 2019,v Odisha,Cuttack,1,7,13,-,11,2,0,118.18,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,24 Feb 2019,v Bengal,Cuttack,1,5,30,-,17,5,0,176.47,caught,2,3.0,0,23,1,7.66
+423838,Rahul Tewatia,25 Feb 2019,v Chhattisgarh,Cuttack,1,7,59*,-,20,5,5,295,not out,2,2.0,0,21,0,10.5
+423838,Rahul Tewatia,27 Feb 2019,v Mizoram,Cuttack,1,5,2*,-,1,0,0,200,not out,2,4.0,0,18,2,4.5
+423838,Rahul Tewatia,28 Feb 2019,v Assam,Cuttack,2,5,11*,-,4,1,1,275,not out,1,2.0,0,11,1,5.5
+423838,Rahul Tewatia,2 Mar 2019,v Karnataka,Cuttack,2,6,1,-,4,0,0,25,caught,1,3.0,0,23,0,7.66
+423838,Rahul Tewatia,24 Mar 2019,v MI,Wankhede,1,8,9*,-,4,0,1,225,not out,2,1.2,0,12,1,9
+423838,Rahul Tewatia,26 Mar 2019,v CSK,Delhi,1,8,11*,12,9,1,0,122.22,not out,2,2.0,0,20,0,10
+423838,Rahul Tewatia,4 Apr 2019,v SRH,Delhi,1,5,5,7,7,1,0,71.42,caught,2,3.0,0,10,1,3.33
+423838,Rahul Tewatia,7 Apr 2019,v RCB,Bengaluru,2,8,1*,3,2,0,0,50,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,12 Apr 2019,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,9 Nov 2019,v Mumbai,Wankhede,1,6,29*,-,16,2,2,181.25,not out,2,3.0,0,28,0,9.33
+423838,Rahul Tewatia,11 Nov 2019,v Assam,Mumbai,2,7,13,-,9,2,0,144.44,caught,1,2.0,0,23,0,11.5
+423838,Rahul Tewatia,12 Nov 2019,v Bengal,Mumbai,2,6,17,-,23,1,0,73.91,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,14 Nov 2019,v Puducherry,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,17 Nov 2019,v M. Pradesh,Mumbai,2,6,2,-,3,0,0,66.66,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,18 Nov 2019,v Meghalaya,Mumbai,1,7,31*,-,16,2,2,193.75,not out,2,0.3,0,6,2,12
+423838,Rahul Tewatia,22 Nov 2019,v Rajasthan,Surat,2,6,4,-,5,1,0,80,caught,1,4.0,0,18,3,4.5
+423838,Rahul Tewatia,24 Nov 2019,v Delhi,Surat,1,7,17*,-,9,1,1,188.88,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,25 Nov 2019,v Baroda,Surat,2,5,10,-,8,2,0,125,caught,1,1.0,0,15,0,15
+423838,Rahul Tewatia,27 Nov 2019,v Maharashtra,Surat,2,5,28,-,13,4,1,215.38,run out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,29 Nov 2019,v Karnataka,Surat,1,5,32,-,20,6,0,160,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,22 Sep 2020,v CSK,Sharjah,1,6,10,-,8,1,0,125,lbw,2,4.0,0,37,3,9.25
+423838,Rahul Tewatia,27 Sep 2020,v Kings XI,Sharjah,2,4,53,-,31,0,7,170.96,caught,1,1.0,0,19,0,19
+423838,Rahul Tewatia,30 Sep 2020,v KKR,Dubai (DICS),2,6,14,-,10,0,1,140,bowled,1,1.0,0,6,1,6
+423838,Rahul Tewatia,3 Oct 2020,v RCB,Abu Dhabi,1,7,24*,-,12,0,3,200,not out,2,4.0,0,28,0,7
+423838,Rahul Tewatia,6 Oct 2020,v MI,Abu Dhabi,2,7,5,-,6,1,0,83.33,bowled,1,2.0,0,13,0,6.5
+423838,Rahul Tewatia,9 Oct 2020,v DC,Sharjah,2,6,38,-,29,3,2,131.03,bowled,1,4.0,0,20,1,5
+423838,Rahul Tewatia,11 Oct 2020,v SRH,Dubai (DICS),2,7,45*,-,28,4,2,160.71,not out,1,4.0,0,35,0,8.75
+423838,Rahul Tewatia,14 Oct 2020,v DC,Dubai (DICS),2,7,14*,-,18,1,0,77.77,not out,1,3.0,0,23,0,7.66
+423838,Rahul Tewatia,17 Oct 2020,v RCB,Dubai (DICS),1,6,19*,-,11,1,1,172.72,not out,2,4.0,0,30,1,7.5
+423838,Rahul Tewatia,19 Oct 2020,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+423838,Rahul Tewatia,22 Oct 2020,v SRH,Dubai (DICS),1,7,2*,-,3,0,0,66.66,not out,2,4.0,0,25,0,6.25
+423838,Rahul Tewatia,25 Oct 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+423838,Rahul Tewatia,30 Oct 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+423838,Rahul Tewatia,1 Nov 2020,v KKR,Dubai (DICS),2,7,31,-,27,2,1,114.81,caught,1,4.0,0,25,3,6.25
+423838,Rahul Tewatia,11 Jan 2021,v Andhra,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+423838,Rahul Tewatia,13 Jan 2021,v Puducherry,Mumbai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+423838,Rahul Tewatia,15 Jan 2021,v Mumbai,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+423838,Rahul Tewatia,17 Jan 2021,v Delhi,Wankhede,2,7,31*,-,16,3,2,193.75,not out,1,2.0,0,20,1,10
+423838,Rahul Tewatia,19 Jan 2021,v Kerala,Wankhede,1,7,41*,-,26,4,2,157.69,not out,2,2.0,0,10,0,5
+423838,Rahul Tewatia,27 Jan 2021,v Baroda,Ahmedabad,1,5,10,-,10,0,0,100,run out,2,2.0,0,20,0,10
+423838,Rahul Tewatia,12 Apr 2021,v Punjab Kings,Wankhede,2,7,2,13,4,0,0,50,caught,1,2.0,0,25,0,12.5
+423838,Rahul Tewatia,15 Apr 2021,v DC,Wankhede,2,7,19,27,17,2,0,111.76,caught,1,3.0,0,27,0,9
+423838,Rahul Tewatia,19 Apr 2021,v CSK,Wankhede,2,7,20,27,15,0,2,133.33,caught,1,3.0,0,21,1,7
+423838,Rahul Tewatia,22 Apr 2021,v RCB,Wankhede,1,7,40,30,23,4,2,173.91,caught,2,2.0,0,23,0,11.5
+423838,Rahul Tewatia,24 Apr 2021,v KKR,Wankhede,2,5,5,14,8,0,0,62.5,caught,1,3.0,0,24,0,8
+423838,Rahul Tewatia,29 Apr 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+423838,Rahul Tewatia,2 May 2021,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+423838,Rahul Tewatia,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,7,2,13,5,0,0,40,bowled,2,3.0,0,23,1,7.66
+423838,Rahul Tewatia,25 Sep 2021,v DC,Abu Dhabi,2,7,9,28,15,0,0,60,caught,1,3.0,0,17,1,5.66
+423838,Rahul Tewatia,27 Sep 2021,v SRH,Dubai (DICS),1,7,0*,2,1,0,0,0,not out,2,3.0,0,32,0,10.66
+423838,Rahul Tewatia,29 Sep 2021,v RCB,Dubai (DICS),1,6,2,4,3,0,0,66.66,caught,2,3.0,0,23,0,7.66
+423838,Rahul Tewatia,2 Oct 2021,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+423838,Rahul Tewatia,5 Oct 2021,v MI,Sharjah,1,7,12,24,20,0,0,60,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,7 Oct 2021,v KKR,Sharjah,2,7,44,42,36,5,2,122.22,bowled,1,1.0,0,11,1,11
+423838,Rahul Tewatia,4 Nov 2021,v Himachal,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+423838,Rahul Tewatia,5 Nov 2021,v Andhra,Vadodara,2,6,46*,42,25,7,1,184,not out,1,2.0,0,13,1,6.5
+423838,Rahul Tewatia,6 Nov 2021,v J & K,Vadodara,1,6,0,1,1,0,0,0,caught,2,4.0,0,21,1,5.25
+423838,Rahul Tewatia,8 Nov 2021,v Jharkhand,Vadodara,2,6,2,5,3,0,0,66.66,caught,1,2.0,0,14,2,7
+423838,Rahul Tewatia,9 Nov 2021,v Rajasthan,Vadodara,2,5,2,9,4,0,0,50,bowled,1,1.0,0,9,0,9
+423838,Rahul Tewatia,28 Mar 2022,v LSG,Wankhede,2,6,40*,43,24,5,2,166.66,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,2 Apr 2022,v DC,Pune,1,6,14,14,8,1,1,175,caught,2,2.0,0,22,0,11
+423838,Rahul Tewatia,8 Apr 2022,v Punjab Kings,Brabourne,2,6,13*,5,3,0,2,433.33,not out,1,1.0,0,24,0,24
+423838,Rahul Tewatia,11 Apr 2022,v SRH,DY Patil,1,7,6,7,4,1,0,150,run out,2,1.0,0,10,0,10
+423838,Rahul Tewatia,14 Apr 2022,v RR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+423838,Rahul Tewatia,17 Apr 2022,v CSK,Pune,2,6,6,19,14,0,0,42.85,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,23 Apr 2022,v KKR,DY Patil,1,5,17,24,12,2,0,141.66,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,27 Apr 2022,v SRH,Wankhede,2,5,40*,41,21,4,2,190.47,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,30 Apr 2022,v RCB,Brabourne,2,6,43*,39,25,5,2,172,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,3 May 2022,v Punjab Kings,DY Patil,1,6,11,28,13,0,0,84.61,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,6 May 2022,v MI,Brabourne,2,6,3,15,4,0,0,75,run out,1,1.0,0,11,0,11
+423838,Rahul Tewatia,10 May 2022,v LSG,Pune,1,6,22*,24,16,4,0,137.5,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,15 May 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,19 May 2022,v RCB,Wankhede,1,6,2,7,3,0,0,66.66,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,24 May 2022,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,29 May 2022,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,11 Oct 2022,v Services,New Chandigarh,1,7,6,-,6,1,0,100,bowled,2,2.0,0,18,2,9
+423838,Rahul Tewatia,12 Oct 2022,v Meghalaya,New Chandigarh,1,5,35,-,19,3,2,184.21,bowled,2,1.3,0,4,3,2.66
+423838,Rahul Tewatia,14 Oct 2022,v Kerala,Mohali,1,9,0*,-,0,0,0,-,not out,2,4.0,0,18,3,4.5
+423838,Rahul Tewatia,16 Oct 2022,v Arunachal,Mohali,1,7,12,-,10,2,0,120,caught,2,4.0,0,18,3,4.5
+423838,Rahul Tewatia,18 Oct 2022,v J & K,New Chandigarh,2,7,29*,-,17,3,1,170.58,not out,1,3.0,0,19,0,6.33
+423838,Rahul Tewatia,20 Oct 2022,v Maharashtra,New Chandigarh,2,7,15,-,17,0,0,88.23,caught,1,3.0,0,20,2,6.66
+423838,Rahul Tewatia,22 Oct 2022,v Karnataka,Mohali,1,6,27,-,23,3,0,117.39,caught,2,4.0,0,36,1,9
+423838,Rahul Tewatia,30 Oct 2022,v Punjab,Eden Gardens,2,7,2,14,3,0,0,66.66,caught,1,2.0,0,20,0,10
+423838,Rahul Tewatia,31 Mar 2023,v CSK,Ahmedabad,2,6,15*,-,14,1,1,107.14,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,4 Apr 2023,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,9 Apr 2023,v KKR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,13 Apr 2023,v Punjab Kings,Mohali,2,6,5*,-,2,1,0,250,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,16 Apr 2023,v RR,Ahmedabad,1,7,1*,10,1,0,0,100,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,22 Apr 2023,v LSG,Lucknow,1,7,2*,4,2,0,0,100,not out,2,1.0,0,8,0,8
+423838,Rahul Tewatia,25 Apr 2023,v MI,Ahmedabad,1,7,20*,13,5,0,3,400,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,29 Apr 2023,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,2 May 2023,v DC,Ahmedabad,2,7,20,19,7,0,3,285.71,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,5 May 2023,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,7 May 2023,v LSG,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,12 May 2023,v MI,Wankhede,2,7,14,29,13,1,0,107.69,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,15 May 2023,v SRH,Ahmedabad,1,6,3,7,3,0,0,100,caught,2,1.1,0,7,0,6
+423838,Rahul Tewatia,21 May 2023,v RCB,Bengaluru,2,6,4*,12,5,0,0,80,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,23 May 2023,v CSK,Chennai,2,7,3,8,5,0,0,60,bowled,1,DNB,-,-,-,-
+423838,Rahul Tewatia,26 May 2023,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,28 May 2023,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,16 Oct 2023,v Mumbai,Jaipur,1,7,18*,-,10,1,1,180,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,17 Oct 2023,v Chhattisgarh,Jaipur,1,4,9,-,14,0,0,64.28,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,19 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,21 Oct 2023,v Baroda,Jaipur,1,6,54,-,30,4,4,180,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,23 Oct 2023,v Mizoram,Jaipur,1,6,26*,-,18,2,1,144.44,not out,2,1.0,0,2,0,2
+423838,Rahul Tewatia,25 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.1,0,6,1,2.76
+423838,Rahul Tewatia,27 Oct 2023,v Hyderabad,Jaipur,1,7,19,-,16,3,0,118.75,lbw,2,DNB,-,-,-,-
+423838,Rahul Tewatia,24 Mar 2024,v MI,Ahmedabad,1,7,22,15,15,2,1,146.66,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,26 Mar 2024,v CSK,Chennai,2,7,6,20,11,1,0,54.54,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,31 Mar 2024,v SRH,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,4 Apr 2024,v Punjab Kings,Ahmedabad,1,6,23*,16,8,3,1,287.5,not out,2,sub,-,-,-,-
+423838,Rahul Tewatia,7 Apr 2024,v LSG,Lucknow,2,7,30,35,25,2,2,120,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,10 Apr 2024,v RR,Jaipur,2,6,22,42,11,3,0,200,run out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,17 Apr 2024,v DC,Ahmedabad,1,6,10,34,15,1,0,66.66,lbw,2,DNB,-,-,-,-
+423838,Rahul Tewatia,21 Apr 2024,v Punjab Kings,New Chandigarh,2,6,36*,28,18,7,0,200,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,24 Apr 2024,v DC,Delhi,2,7,4,8,5,0,0,80,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,28 Apr 2024,v RCB,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,4 May 2024,v RCB,Bengaluru,1,6,35,31,21,5,1,166.66,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,10 May 2024,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,23 Nov 2024,v Manipur,Wankhede,2,3,43*,-,16,7,2,268.75,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,25 Nov 2024,v Arunachal,Mumbai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+423838,Rahul Tewatia,27 Nov 2024,v Delhi,Wankhede,1,6,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+423838,Rahul Tewatia,29 Nov 2024,v UP,Mumbai,1,7,19,-,19,2,0,100,bowled,2,DNB,-,-,-,-
+423838,Rahul Tewatia,1 Dec 2024,v Jharkhand,Mumbai,1,6,8,-,4,0,1,200,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,3 Dec 2024,v Himachal,Wankhede,2,5,10*,-,7,1,0,142.85,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,5 Dec 2024,v J & K,Wankhede,1,5,14*,-,16,1,0,87.5,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,25 Mar 2025,v Punjab Kings,Ahmedabad,2,5,6,8,2,0,1,300,run out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,29 Mar 2025,v MI,Ahmedabad,1,6,0,1,0,0,0,-,run out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,2 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,6 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,9 Apr 2025,v RR,Ahmedabad,1,6,24*,21,12,2,2,200,not out,2,DNB,-,-,-,-
+423838,Rahul Tewatia,12 Apr 2025,v LSG,Lucknow,1,7,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,19 Apr 2025,v DC,Ahmedabad,2,5,11*,4,3,1,1,366.66,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,21 Apr 2025,v KKR,Eden Gardens,1,4,0,4,2,0,0,0,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,28 Apr 2025,v RR,Jaipur,1,5,9,4,4,0,1,225,lbw,2,DNB,-,-,-,-
+423838,Rahul Tewatia,2 May 2025,v SRH,Ahmedabad,1,6,6,2,3,0,1,200,caught,2,DNB,-,-,-,-
+423838,Rahul Tewatia,6 May 2025,v MI,Wankhede,2,6,11*,26,8,1,0,137.5,not out,1,DNB,-,-,-,-
+423838,Rahul Tewatia,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+423838,Rahul Tewatia,22 May 2025,v LSG,Ahmedabad,2,6,2,3,3,0,0,66.66,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,25 May 2025,v CSK,Ahmedabad,2,6,14,26,10,1,0,140,caught,1,DNB,-,-,-,-
+423838,Rahul Tewatia,30 May 2025,v MI,New Chandigarh,2,6,16*,31,11,1,1,145.45,not out,1,DNB,-,-,-,-

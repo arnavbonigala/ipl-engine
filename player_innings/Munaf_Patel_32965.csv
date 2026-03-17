@@ -1,0 +1,102 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+32965,Munaf Patel,19 Apr 2008,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+32965,Munaf Patel,21 Apr 2008,v Kings XI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+32965,Munaf Patel,24 Apr 2008,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,0,13.75
+32965,Munaf Patel,26 Apr 2008,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+32965,Munaf Patel,1 May 2008,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+32965,Munaf Patel,4 May 2008,v CSK,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+32965,Munaf Patel,7 May 2008,v MI,DY Patil,1,11,0*,-,1,0,0,0,not out,2,3.0,0,21,0,7
+32965,Munaf Patel,9 May 2008,v Chargers,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+32965,Munaf Patel,11 May 2008,v Daredevils,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+32965,Munaf Patel,17 May 2008,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+32965,Munaf Patel,20 May 2008,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,2,5.5
+32965,Munaf Patel,24 May 2008,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,1,13.75
+32965,Munaf Patel,28 May 2008,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+32965,Munaf Patel,30 May 2008,v Daredevils,Wankhede,1,10,0*,-,0,0,0,-,not out,2,4.0,0,17,3,4.25
+32965,Munaf Patel,1 Jun 2008,v CSK,DY Patil,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+32965,Munaf Patel,18 Apr 2009,v RCB,Cape Town,2,10,0,-,2,0,0,0,caught,1,3.0,0,25,2,8.33
+32965,Munaf Patel,23 Apr 2009,v KKR,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+32965,Munaf Patel,26 Apr 2009,v Kings XI,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+32965,Munaf Patel,28 Apr 2009,v Daredevils,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,2,3.5
+32965,Munaf Patel,30 Apr 2009,v CSK,Centurion,2,9,0,-,1,0,0,0,caught,1,4.0,0,25,2,6.25
+32965,Munaf Patel,2 May 2009,v Chargers,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+32965,Munaf Patel,7 May 2009,v RCB,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+32965,Munaf Patel,11 May 2009,v Chargers,Kimberley,2,11,5,-,7,0,0,71.42,run out,1,1.0,0,3,0,3
+32965,Munaf Patel,14 May 2009,v MI,Durban,1,-,DNB,-,-,-,-,-,-,2,3.5,0,22,2,5.73
+32965,Munaf Patel,17 May 2009,v Daredevils,Bloemfontein,2,11,23*,-,10,5,0,230,not out,1,4.0,0,39,2,9.75
+32965,Munaf Patel,20 May 2009,v KKR,Durban,1,10,5*,-,6,0,0,83.33,not out,2,4.0,0,14,2,3.5
+32965,Munaf Patel,6 Jul 2009,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+32965,Munaf Patel,15 Mar 2010,v Daredevils,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+32965,Munaf Patel,18 Mar 2010,v RCB,Bengaluru,1,10,0,-,2,0,0,0,run out,2,3.0,0,23,0,7.66
+32965,Munaf Patel,20 Mar 2010,v KKR,Ahmedabad,1,9,4*,-,3,0,0,133.33,not out,2,3.0,0,20,1,6.66
+32965,Munaf Patel,24 Mar 2010,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+32965,Munaf Patel,9 Jan 2011,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,1,13
+32965,Munaf Patel,10 Apr 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+32965,Munaf Patel,12 Apr 2011,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,0,3.33
+32965,Munaf Patel,15 Apr 2011,v Kochi,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,0,5
+32965,Munaf Patel,20 Apr 2011,v Warriors,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.2,0,8,3,3.42
+32965,Munaf Patel,22 Apr 2011,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+32965,Munaf Patel,24 Apr 2011,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+32965,Munaf Patel,29 Apr 2011,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+32965,Munaf Patel,2 May 2011,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+32965,Munaf Patel,4 May 2011,v Warriors,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+32965,Munaf Patel,7 May 2011,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+32965,Munaf Patel,10 May 2011,v Kings XI,Mohali,2,11,0,-,1,0,0,0,lbw,1,4.0,0,21,5,5.25
+32965,Munaf Patel,14 May 2011,v Chargers,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+32965,Munaf Patel,20 May 2011,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+32965,Munaf Patel,25 May 2011,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+32965,Munaf Patel,27 May 2011,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+32965,Munaf Patel,4 Jun 2011,v West Indies,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+32965,Munaf Patel,26 Aug 2011,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+32965,Munaf Patel,31 Aug 2011,v England,Manchester,1,11,0,1,1,0,0,0,caught,2,4.0,0,25,2,6.25
+32965,Munaf Patel,23 Mar 2012,v Karnataka,Brabourne,2,11,4*,-,7,0,0,57.14,not out,1,4.0,0,24,1,6
+32965,Munaf Patel,25 Mar 2012,v Bengal,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+32965,Munaf Patel,26 Mar 2012,v Delhi,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,0,4.75
+32965,Munaf Patel,27 Mar 2012,v Punjab,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,2,5.25
+32965,Munaf Patel,6 Apr 2012,v Warriors,Wankhede,2,11,1*,1,2,0,0,50,not out,1,4.0,0,26,2,6.5
+32965,Munaf Patel,9 Apr 2012,v Chargers,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+32965,Munaf Patel,11 Apr 2012,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.4,0,28,4,7.63
+32965,Munaf Patel,16 Apr 2012,v Daredevils,Wankhede,1,11,1*,4,5,0,0,20,not out,2,3.0,1,15,0,5
+32965,Munaf Patel,22 Apr 2012,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+32965,Munaf Patel,25 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,1,41,0,10.25
+32965,Munaf Patel,29 Apr 2012,v Chargers,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+32965,Munaf Patel,3 May 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+32965,Munaf Patel,6 May 2012,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+32965,Munaf Patel,12 May 2012,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+32965,Munaf Patel,14 May 2012,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,1,13.5
+32965,Munaf Patel,16 May 2012,v KKR,Wankhede,2,11,0*,1,0,0,0,-,not out,1,4.0,0,17,1,4.25
+32965,Munaf Patel,22 Oct 2012,v Sixers,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,2,4.25
+32965,Munaf Patel,17 Mar 2013,v Mumbai,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+32965,Munaf Patel,19 Mar 2013,v Gujarat,Ahmedabad,2,11,1*,6,1,0,0,100,not out,1,4.0,0,28,1,7
+32965,Munaf Patel,21 Mar 2013,v Saurashtra,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+32965,Munaf Patel,22 Mar 2013,v Maharashtra,Ahmedabad,2,11,2*,3,2,0,0,100,not out,1,4.0,0,28,1,7
+32965,Munaf Patel,4 Apr 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+32965,Munaf Patel,6 Apr 2013,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+32965,Munaf Patel,21 Apr 2013,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+32965,Munaf Patel,21 May 2013,v CSK,Delhi,2,11,0*,2,0,0,0,-,not out,1,3.0,0,32,0,10.66
+32965,Munaf Patel,30 Mar 2014,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+32965,Munaf Patel,2 Apr 2014,v Gujarat,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+32965,Munaf Patel,3 Apr 2014,v Saurashtra,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,2,4.33
+32965,Munaf Patel,4 Apr 2014,v Maharashtra,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+32965,Munaf Patel,8 Apr 2014,v Bengal,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,0,3.75
+32965,Munaf Patel,9 Apr 2014,v Delhi,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,2,2.5
+32965,Munaf Patel,11 Apr 2014,v Rajasthan,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,8,0,2
+32965,Munaf Patel,12 Apr 2014,v Kerala,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+32965,Munaf Patel,14 Apr 2014,v UP,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+32965,Munaf Patel,2 Jan 2016,v Assam,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,0,3.25
+32965,Munaf Patel,3 Jan 2016,v Railways,Vadodara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+32965,Munaf Patel,6 Jan 2016,v Goa,Vadodara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,8,0,2.66
+32965,Munaf Patel,7 Jan 2016,v M. Pradesh,Vadodara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,1,3.33
+32965,Munaf Patel,10 Jan 2016,v Delhi,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+32965,Munaf Patel,15 Jan 2016,v Vidarbha,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+32965,Munaf Patel,16 Jan 2016,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+32965,Munaf Patel,18 Jan 2016,v Mumbai,Wankhede,2,11,0*,1,0,0,0,-,not out,1,4.0,0,30,1,7.5
+32965,Munaf Patel,20 Jan 2016,v UP,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+32965,Munaf Patel,29 Jan 2017,v Mumbai,Vadodara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+32965,Munaf Patel,2 Feb 2017,v Saurashtra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+32965,Munaf Patel,16 Apr 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+32965,Munaf Patel,13 May 2017,v SRH,Kanpur,1,11,0,1,1,0,0,0,bowled,2,3.0,0,22,0,7.33
+32965,Munaf Patel,30 Nov 2020,v Galle,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+32965,Munaf Patel,1 Dec 2020,v Stallions,Hambantota,2,11,0*,-,1,0,0,0,not out,1,3.0,0,14,0,4.66
+32965,Munaf Patel,3 Dec 2020,v Viiking,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+32965,Munaf Patel,5 Dec 2020,v Kings,Hambantota,1,11,1,-,7,0,0,14.28,bowled,2,4.0,0,28,1,7

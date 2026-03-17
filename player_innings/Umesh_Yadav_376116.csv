@@ -1,0 +1,198 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+376116,Umesh Yadav,21 Oct 2009,v M. Pradesh,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+376116,Umesh Yadav,22 Oct 2009,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,3.1,0,30,0,9.47
+376116,Umesh Yadav,19 Mar 2010,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+376116,Umesh Yadav,21 Mar 2010,v Chargers,Cuttack,2,9,3*,-,4,0,0,75,not out,1,4.0,0,36,0,9
+376116,Umesh Yadav,25 Mar 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+376116,Umesh Yadav,29 Mar 2010,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+376116,Umesh Yadav,31 Mar 2010,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+376116,Umesh Yadav,15 Apr 2010,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+376116,Umesh Yadav,18 Apr 2010,v Chargers,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+376116,Umesh Yadav,21 Oct 2010,v Railways,Jaipur,1,7,0,1,1,0,0,0,caught,2,4.0,0,23,1,5.75
+376116,Umesh Yadav,22 Oct 2010,v M. Pradesh,Jaipur,1,6,2,8,3,0,0,66.66,caught,2,3.0,0,29,0,9.66
+376116,Umesh Yadav,24 Oct 2010,v UP,Jaipur,1,7,1*,1,2,0,0,50,not out,2,3.0,0,27,1,9
+376116,Umesh Yadav,25 Oct 2010,v Rajasthan,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+376116,Umesh Yadav,10 Apr 2011,v MI,Delhi,1,10,0,-,4,0,0,0,stumped,2,2.0,0,16,0,8
+376116,Umesh Yadav,17 Apr 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+376116,Umesh Yadav,26 Apr 2011,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+376116,Umesh Yadav,28 Apr 2011,v KKR,Delhi,2,11,1*,-,1,0,0,100,not out,1,4.0,0,29,2,7.25
+376116,Umesh Yadav,30 Apr 2011,v Kochi,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+376116,Umesh Yadav,2 May 2011,v Kochi,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,23,0,23
+376116,Umesh Yadav,21 May 2011,v Warriors,Delhi,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+376116,Umesh Yadav,5 Apr 2012,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,2,4.5
+376116,Umesh Yadav,7 Apr 2012,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,0,4
+376116,Umesh Yadav,10 Apr 2012,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+376116,Umesh Yadav,16 Apr 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+376116,Umesh Yadav,19 Apr 2012,v Chargers,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+376116,Umesh Yadav,21 Apr 2012,v Warriors,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+376116,Umesh Yadav,24 Apr 2012,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+376116,Umesh Yadav,27 Apr 2012,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+376116,Umesh Yadav,29 Apr 2012,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+376116,Umesh Yadav,1 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+376116,Umesh Yadav,7 May 2012,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+376116,Umesh Yadav,12 May 2012,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+376116,Umesh Yadav,15 May 2012,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+376116,Umesh Yadav,17 May 2012,v RCB,Delhi,2,10,0,1,2,0,0,0,caught,1,4.0,1,42,0,10.5
+376116,Umesh Yadav,19 May 2012,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,3,4.75
+376116,Umesh Yadav,22 May 2012,v KKR,Pune,2,10,1*,-,1,0,0,100,not out,1,4.0,0,37,1,9.25
+376116,Umesh Yadav,25 May 2012,v CSK,Chennai,2,10,1,-,4,0,0,25,bowled,1,4.0,0,27,1,6.75
+376116,Umesh Yadav,7 Aug 2012,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+376116,Umesh Yadav,13 Oct 2012,v KKR,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,2,3.25
+376116,Umesh Yadav,21 Oct 2012,v Scorchers,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+376116,Umesh Yadav,23 Oct 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+376116,Umesh Yadav,25 Oct 2012,v Lions,Durban,2,11,1*,7,2,0,0,50,not out,1,4.0,1,20,2,5
+376116,Umesh Yadav,27 Mar 2013,v Odisha,Indore,1,-,DNB,-,-,-,-,-,-,2,2.3,0,18,5,7.2
+376116,Umesh Yadav,30 Mar 2013,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+376116,Umesh Yadav,3 Apr 2013,v KKR,Eden Gardens,1,11,0*,1,0,0,0,-,not out,2,3.0,0,23,0,7.66
+376116,Umesh Yadav,6 Apr 2013,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+376116,Umesh Yadav,9 Apr 2013,v MI,Wankhede,2,11,5*,3,4,1,0,125,not out,1,3.0,0,28,0,9.33
+376116,Umesh Yadav,12 Apr 2013,v SRH,Delhi,1,10,6*,8,5,1,0,120,not out,2,3.0,0,32,0,10.66
+376116,Umesh Yadav,16 Apr 2013,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+376116,Umesh Yadav,18 Apr 2013,v CSK,Delhi,2,11,1,5,5,0,0,20,caught,1,4.0,0,33,1,8.25
+376116,Umesh Yadav,21 Apr 2013,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+376116,Umesh Yadav,23 Apr 2013,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+376116,Umesh Yadav,28 Apr 2013,v Warriors,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+376116,Umesh Yadav,1 May 2013,v KKR,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+376116,Umesh Yadav,4 May 2013,v SRH,Hyderabad,1,11,2*,4,5,0,0,40,not out,2,2.5,0,27,0,9.52
+376116,Umesh Yadav,7 May 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+376116,Umesh Yadav,10 May 2013,v RCB,Delhi,2,9,4*,1,1,1,0,400,not out,1,4.0,0,65,0,16.25
+376116,Umesh Yadav,14 May 2013,v CSK,Chennai,2,9,12*,16,9,0,1,133.33,not out,1,4.0,0,26,2,6.5
+376116,Umesh Yadav,16 May 2013,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+376116,Umesh Yadav,19 May 2013,v Warriors,Pune,2,9,8*,15,9,0,0,88.88,not out,1,4.0,0,52,1,13
+376116,Umesh Yadav,31 Mar 2014,v UP,Nagpur,2,9,23,13,7,1,3,328.57,bowled,1,4.0,0,39,1,9.75
+376116,Umesh Yadav,2 Apr 2014,v Railways,Nagpur,1,9,0,5,2,0,0,0,caught,2,3.0,2,10,1,3.33
+376116,Umesh Yadav,4 Apr 2014,v M. Pradesh,Nagpur,2,8,6,1,2,0,1,300,caught,1,4.0,0,18,2,4.5
+376116,Umesh Yadav,24 Apr 2014,v RCB,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+376116,Umesh Yadav,26 Apr 2014,v Kings XI,Abu Dhabi,2,10,2,15,4,0,0,50,bowled,1,4.0,0,28,0,7
+376116,Umesh Yadav,5 May 2014,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+376116,Umesh Yadav,7 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+376116,Umesh Yadav,11 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+376116,Umesh Yadav,14 May 2014,v MI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+376116,Umesh Yadav,18 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+376116,Umesh Yadav,20 May 2014,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+376116,Umesh Yadav,22 May 2014,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+376116,Umesh Yadav,24 May 2014,v SRH,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+376116,Umesh Yadav,27 May 2014,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,3,3.25
+376116,Umesh Yadav,1 Jun 2014,v Kings XI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+376116,Umesh Yadav,17 Sep 2014,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+376116,Umesh Yadav,8 Apr 2015,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+376116,Umesh Yadav,18 Apr 2015,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+376116,Umesh Yadav,20 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+376116,Umesh Yadav,22 Apr 2015,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+376116,Umesh Yadav,28 Apr 2015,v CSK,Chennai,2,10,0,5,1,0,0,0,bowled,1,4.0,0,36,0,9
+376116,Umesh Yadav,30 Apr 2015,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+376116,Umesh Yadav,2 May 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,31,0,15.5
+376116,Umesh Yadav,4 May 2015,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+376116,Umesh Yadav,7 May 2015,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+376116,Umesh Yadav,9 May 2015,v Kings XI,Eden Gardens,2,10,0*,4,0,0,0,-,not out,1,4.0,0,36,0,9
+376116,Umesh Yadav,14 May 2015,v MI,Wankhede,2,9,5*,4,2,1,0,250,not out,1,3.0,0,37,0,12.33
+376116,Umesh Yadav,16 May 2015,v RR,Brabourne,2,10,24*,12,11,4,1,218.18,not out,1,4.0,0,36,1,9
+376116,Umesh Yadav,10 Apr 2016,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+376116,Umesh Yadav,16 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+376116,Umesh Yadav,19 Apr 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+376116,Umesh Yadav,24 Apr 2016,v Supergiants,Pune,2,9,7*,6,2,0,1,350,not out,1,2.0,0,16,1,8
+376116,Umesh Yadav,28 Apr 2016,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+376116,Umesh Yadav,30 Apr 2016,v Daredevils,Delhi,2,9,2,8,3,0,0,66.66,caught,1,3.0,0,33,3,11
+376116,Umesh Yadav,2 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,1,14
+376116,Umesh Yadav,4 May 2016,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+376116,Umesh Yadav,8 May 2016,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+376116,Umesh Yadav,13 Apr 2017,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,4,8.25
+376116,Umesh Yadav,15 Apr 2017,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+376116,Umesh Yadav,17 Apr 2017,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,1,13.25
+376116,Umesh Yadav,21 Apr 2017,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+376116,Umesh Yadav,23 Apr 2017,v RCB,Eden Gardens,1,10,2*,11,4,0,0,50,not out,2,3.0,0,15,1,5
+376116,Umesh Yadav,26 Apr 2017,v Supergiant,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+376116,Umesh Yadav,28 Apr 2017,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+376116,Umesh Yadav,30 Apr 2017,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+376116,Umesh Yadav,3 May 2017,v Supergiant,Eden Gardens,1,10,2*,2,2,0,0,100,not out,2,4.0,0,23,1,5.75
+376116,Umesh Yadav,7 May 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+376116,Umesh Yadav,9 May 2017,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+376116,Umesh Yadav,13 May 2017,v MI,Eden Gardens,2,9,4*,14,4,0,0,100,not out,1,4.0,0,40,0,10
+376116,Umesh Yadav,17 May 2017,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+376116,Umesh Yadav,19 May 2017,v MI,Bengaluru,1,10,2*,10,3,0,0,66.66,not out,2,2.3,0,23,1,9.2
+376116,Umesh Yadav,8 Apr 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+376116,Umesh Yadav,13 Apr 2018,v Kings XI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+376116,Umesh Yadav,15 Apr 2018,v RR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,59,0,14.75
+376116,Umesh Yadav,17 Apr 2018,v MI,Wankhede,2,9,1,-,2,0,0,50,caught,1,4.0,0,36,2,9
+376116,Umesh Yadav,21 Apr 2018,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+376116,Umesh Yadav,25 Apr 2018,v CSK,Bengaluru,1,9,0,-,1,0,0,0,caught,2,4.0,0,23,1,5.75
+376116,Umesh Yadav,29 Apr 2018,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.1,0,36,0,11.36
+376116,Umesh Yadav,1 May 2018,v MI,Bengaluru,1,9,1*,-,2,0,0,50,not out,2,4.0,0,29,2,7.25
+376116,Umesh Yadav,5 May 2018,v CSK,Pune,1,9,1,-,5,0,0,20,run out,2,3.0,0,15,2,5
+376116,Umesh Yadav,7 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+376116,Umesh Yadav,12 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+376116,Umesh Yadav,14 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+376116,Umesh Yadav,17 May 2018,v SRH,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+376116,Umesh Yadav,19 May 2018,v RR,Jaipur,2,9,0,-,1,0,0,0,bowled,1,4.0,1,25,3,6.25
+376116,Umesh Yadav,29 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,2,9.5
+376116,Umesh Yadav,3 Jul 2018,v England,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+376116,Umesh Yadav,6 Jul 2018,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+376116,Umesh Yadav,8 Jul 2018,v England,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+376116,Umesh Yadav,4 Nov 2018,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+376116,Umesh Yadav,24 Feb 2019,v Australia,Visakhapatnam,1,8,2,8,4,0,0,50,lbw,2,4.0,0,35,0,8.75
+376116,Umesh Yadav,8 Mar 2019,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,2.2,0,10,2,4.28
+376116,Umesh Yadav,10 Mar 2019,v UP,Indore,1,9,7*,4,2,0,1,350,not out,2,2.0,0,21,0,10.5
+376116,Umesh Yadav,11 Mar 2019,v Mumbai,Indore,1,8,26,25,12,3,2,216.66,bowled,2,3.0,0,28,0,9.33
+376116,Umesh Yadav,12 Mar 2019,v Karnataka,Indore,1,2,4,2,2,1,0,200,caught,2,4.0,0,31,1,7.75
+376116,Umesh Yadav,23 Mar 2019,v CSK,Chennai,1,10,1,-,10,0,0,10,bowled,2,3.0,0,13,0,4.33
+376116,Umesh Yadav,28 Mar 2019,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+376116,Umesh Yadav,31 Mar 2019,v SRH,Hyderabad,2,9,14,13,9,1,1,155.55,run out,1,4.0,0,47,0,11.75
+376116,Umesh Yadav,2 Apr 2019,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.5,0,40,0,10.43
+376116,Umesh Yadav,13 Apr 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+376116,Umesh Yadav,15 Apr 2019,v MI,Wankhede,1,8,0*,4,1,0,0,0,not out,2,2.0,0,25,0,12.5
+376116,Umesh Yadav,21 Apr 2019,v CSK,Bengaluru,1,8,1*,6,1,0,0,100,not out,2,4.0,0,47,2,11.75
+376116,Umesh Yadav,24 Apr 2019,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+376116,Umesh Yadav,28 Apr 2019,v DC,Delhi,2,9,0*,3,0,0,0,-,not out,1,4.0,0,39,1,9.75
+376116,Umesh Yadav,30 Apr 2019,v RR,Bengaluru,1,8,0*,3,0,0,0,-,not out,2,1.0,0,10,0,10
+376116,Umesh Yadav,4 May 2019,v SRH,Bengaluru,2,8,9*,4,4,2,0,225,not out,1,4.0,0,46,0,11.5
+376116,Umesh Yadav,21 Sep 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+376116,Umesh Yadav,24 Sep 2020,v Kings XI,Dubai (DICS),2,8,0,-,2,0,0,0,bowled,1,3.0,0,35,0,11.66
+376116,Umesh Yadav,4 Nov 2021,v Arunachal,Mulapadu,1,8,17*,6,6,0,2,283.33,not out,2,3.0,0,16,0,5.33
+376116,Umesh Yadav,5 Nov 2021,v Nagaland,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+376116,Umesh Yadav,6 Nov 2021,v Meghalaya,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,1,2.5
+376116,Umesh Yadav,26 Mar 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+376116,Umesh Yadav,30 Mar 2022,v RCB,DY Patil,1,10,18,26,12,2,1,150,bowled,2,4.0,0,16,2,4
+376116,Umesh Yadav,1 Apr 2022,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,4,5.75
+376116,Umesh Yadav,6 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+376116,Umesh Yadav,10 Apr 2022,v DC,Brabourne,2,9,0,2,1,0,0,0,caught,1,4.0,0,48,1,12
+376116,Umesh Yadav,15 Apr 2022,v SRH,Brabourne,1,10,1*,5,1,0,0,100,not out,2,4.0,0,31,0,7.75
+376116,Umesh Yadav,18 Apr 2022,v RR,Brabourne,2,10,21,18,9,1,2,233.33,bowled,1,4.0,0,44,0,11
+376116,Umesh Yadav,23 Apr 2022,v GT,DY Patil,2,9,15*,26,15,1,1,100,not out,1,4.0,0,31,1,7.75
+376116,Umesh Yadav,28 Apr 2022,v DC,Wankhede,1,9,0*,6,1,0,0,0,not out,2,4.0,0,24,3,6
+376116,Umesh Yadav,2 May 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,24,1,6
+376116,Umesh Yadav,14 May 2022,v SRH,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+376116,Umesh Yadav,18 May 2022,v LSG,DY Patil,2,9,0,3,1,0,0,0,bowled,1,4.0,0,34,0,8.5
+376116,Umesh Yadav,20 Sep 2022,v Australia,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,2,13.5
+376116,Umesh Yadav,4 Oct 2022,v South Africa,Indore,2,10,20*,30,17,2,0,117.64,not out,1,3.0,0,34,1,11.33
+376116,Umesh Yadav,16 Oct 2022,v Mumbai,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+376116,Umesh Yadav,18 Oct 2022,v Uttarakhand,Rajkot,1,8,0*,-,1,0,0,0,not out,2,3.0,0,25,0,8.33
+376116,Umesh Yadav,20 Oct 2022,v M. Pradesh,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+376116,Umesh Yadav,22 Oct 2022,v Railways,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+376116,Umesh Yadav,30 Oct 2022,v Chhattisgarh,Kolkata,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+376116,Umesh Yadav,1 Nov 2022,v Delhi,Kolkata,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+376116,Umesh Yadav,3 Nov 2022,v Mumbai,Eden Gardens,1,9,2*,-,3,0,0,66.66,not out,2,3.0,0,22,0,7.33
+376116,Umesh Yadav,1 Apr 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+376116,Umesh Yadav,6 Apr 2023,v RCB,Eden Gardens,1,9,6*,2,2,1,0,300,not out,2,2.0,0,17,0,8.5
+376116,Umesh Yadav,9 Apr 2023,v GT,Ahmedabad,2,9,5*,19,6,0,0,83.33,not out,1,3.0,0,24,0,8
+376116,Umesh Yadav,14 Apr 2023,v SRH,Eden Gardens,2,9,1*,4,1,0,0,100,not out,1,3.0,0,42,0,14
+376116,Umesh Yadav,16 Apr 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+376116,Umesh Yadav,20 Apr 2023,v DC,Delhi,1,10,3,5,5,0,0,60,caught,2,1.0,0,6,0,6
+376116,Umesh Yadav,23 Apr 2023,v CSK,Eden Gardens,2,9,4,8,4,0,0,100,caught,1,3.0,0,35,0,11.66
+376116,Umesh Yadav,26 Apr 2023,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,19,0,19
+376116,Umesh Yadav,19 Oct 2023,v Rajasthan,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+376116,Umesh Yadav,21 Oct 2023,v Bengal,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,5,8.25
+376116,Umesh Yadav,23 Oct 2023,v Puducherry,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,6,2,3
+376116,Umesh Yadav,25 Oct 2023,v Maharashtra,Mohali,1,11,11*,-,4,0,1,275,not out,2,3.0,0,36,0,12
+376116,Umesh Yadav,27 Oct 2023,v Jharkhand,Mohali,2,10,2*,-,2,0,0,100,not out,1,4.0,0,29,2,7.25
+376116,Umesh Yadav,2 Nov 2023,v Delhi,New Chandigarh,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,30,4,7.5
+376116,Umesh Yadav,24 Mar 2024,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,2,10.33
+376116,Umesh Yadav,26 Mar 2024,v CSK,Chennai,2,9,10*,17,11,0,1,90.9,not out,1,2.0,0,27,0,13.5
+376116,Umesh Yadav,31 Mar 2024,v SRH,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+376116,Umesh Yadav,4 Apr 2024,v Punjab Kings,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+376116,Umesh Yadav,7 Apr 2024,v LSG,Lucknow,2,9,2,7,4,0,0,50,caught,1,3.0,0,22,2,7.33
+376116,Umesh Yadav,10 Apr 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+376116,Umesh Yadav,10 May 2024,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+376116,Umesh Yadav,23 Nov 2024,v Odisha,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,1.1,0,19,1,16.28
+376116,Umesh Yadav,26 Nov 2025,v Chhattisgarh,Lucknow,2,10,3*,-,3,0,0,100,not out,1,3.0,0,25,1,8.33
+376116,Umesh Yadav,28 Nov 2025,v Mumbai,Lucknow,1,10,4*,-,4,0,0,100,not out,2,4.0,0,54,0,13.5
+376116,Umesh Yadav,8 Dec 2025,v Andhra,Lucknow,1,9,7*,-,4,1,0,175,not out,2,4.0,0,28,2,7

@@ -1,0 +1,163 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+670013,Fabian Allen,19 Aug 2017,v Stars,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,3.1,0,24,1,7.57
+670013,Fabian Allen,2 Sep 2018,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+670013,Fabian Allen,4 Sep 2018,v Tridents,Basseterre,2,7,64*,-,34,6,4,188.23,not out,1,2.0,0,12,0,6
+670013,Fabian Allen,12 Sep 2018,v Tallawahs,Providence,2,5,23,-,10,1,2,230,caught,1,4.0,0,23,1,5.75
+670013,Fabian Allen,14 Sep 2018,v Trinbago,Tarouba,2,7,32*,-,19,1,3,168.42,not out,1,1.0,0,10,0,10
+670013,Fabian Allen,4 Nov 2018,v India,Eden Gardens,1,8,27,-,20,4,0,135,caught,2,1.0,0,11,0,11
+670013,Fabian Allen,6 Nov 2018,v India,Lucknow,2,8,0,1,1,0,0,0,run out,1,4.0,0,33,1,8.25
+670013,Fabian Allen,11 Nov 2018,v India,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+670013,Fabian Allen,17 Dec 2018,v Bangladesh,Sylhet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+670013,Fabian Allen,20 Dec 2018,v Bangladesh,Mirpur,2,8,0,-,3,0,0,0,bowled,1,4.0,0,29,1,7.25
+670013,Fabian Allen,22 Dec 2018,v Bangladesh,Mirpur,1,9,8,-,7,1,0,114.28,stumped,2,4.0,0,19,2,4.75
+670013,Fabian Allen,5 Mar 2019,v England,Gros Islet,1,7,8,-,6,0,1,133.33,caught,2,1.0,0,8,0,8
+670013,Fabian Allen,8 Mar 2019,v England,Basseterre,2,7,1,-,3,0,0,33.33,caught,1,4.0,0,29,2,7.25
+670013,Fabian Allen,10 Mar 2019,v England,Basseterre,1,7,7,9,4,0,1,175,bowled,2,4.0,1,25,0,6.25
+670013,Fabian Allen,6 Aug 2019,v India,Providence,1,8,8*,-,5,0,1,160,not out,2,3.0,0,18,1,6
+670013,Fabian Allen,4 Sep 2019,v Trinbago,Port of Spain,2,7,30,-,14,0,4,214.28,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,7 Sep 2019,v Amazon,Providence,1,6,33,-,19,2,2,173.68,caught,2,2.0,0,9,0,4.5
+670013,Fabian Allen,10 Sep 2019,v Tallawahs,Basseterre,2,4,37*,-,15,5,2,246.66,not out,1,2.0,0,30,2,15
+670013,Fabian Allen,11 Sep 2019,v Tridents,Basseterre,2,6,0,-,2,0,0,0,bowled,1,4.0,0,35,0,8.75
+670013,Fabian Allen,14 Sep 2019,v Amazon,Basseterre,1,7,16,-,17,2,0,94.11,caught,2,1.0,0,16,0,16
+670013,Fabian Allen,15 Sep 2019,v Zouks,Basseterre,2,6,1*,-,2,0,0,50,not out,1,1.0,0,8,0,8
+670013,Fabian Allen,17 Sep 2019,v Trinbago,Basseterre,2,7,12,-,8,1,1,150,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,19 Sep 2019,v Tallawahs,Kingston,1,7,62*,-,27,7,3,229.62,not out,2,2.0,0,21,0,10.5
+670013,Fabian Allen,24 Sep 2019,v Zouks,Gros Islet,2,5,1,-,2,0,0,50,lbw,1,DNB,-,-,-,-
+670013,Fabian Allen,28 Sep 2019,v Tridents,Bridgetown,1,7,20,-,13,1,1,153.84,bowled,2,1.0,0,6,0,6
+670013,Fabian Allen,6 Oct 2019,v Trinbago,Providence,1,7,6,-,4,1,0,150,caught,2,4.0,0,17,0,4.25
+670013,Fabian Allen,14 Nov 2019,v Afghanistan,Lucknow,1,7,5*,-,7,0,0,71.42,not out,2,DNB,-,-,-,-
+670013,Fabian Allen,4 Mar 2020,v Sri Lanka,Pallekele,1,6,3*,-,3,0,0,100,not out,2,DNB,-,-,-,-
+670013,Fabian Allen,6 Mar 2020,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+670013,Fabian Allen,27 Nov 2020,v New Zealand,Auckland,1,7,30,40,26,4,1,115.38,caught,2,2.0,0,32,0,16
+670013,Fabian Allen,29 Nov 2020,v New Zealand,Mount Maunganui,2,8,15,14,11,0,2,136.36,caught,1,3.0,0,35,1,11.66
+670013,Fabian Allen,30 Nov 2020,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670013,Fabian Allen,3 Mar 2021,v Sri Lanka,Coolidge,2,7,0,0,1,0,0,0,lbw,1,1.0,0,4,1,4
+670013,Fabian Allen,5 Mar 2021,v Sri Lanka,Coolidge,2,8,12,20,17,0,1,70.58,lbw,1,2.0,0,11,0,5.5
+670013,Fabian Allen,7 Mar 2021,v Sri Lanka,Coolidge,2,9,21*,11,6,0,3,350,not out,1,4.0,0,13,1,3.25
+670013,Fabian Allen,21 Apr 2021,v SRH,Chennai,1,8,6,15,11,0,0,54.54,caught,2,4.0,1,22,1,5.5
+670013,Fabian Allen,23 Apr 2021,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+670013,Fabian Allen,10 Jun 2021,v Qalandars,Abu Dhabi,2,7,0,-,2,0,0,0,lbw,1,3.0,0,36,2,12
+670013,Fabian Allen,12 Jun 2021,v Gladiators,Abu Dhabi,1,7,0*,-,0,0,0,-,not out,2,1.0,0,8,1,8
+670013,Fabian Allen,13 Jun 2021,v Sultans,Abu Dhabi,1,7,3,-,4,0,0,75,run out,2,4.0,0,39,0,9.75
+670013,Fabian Allen,26 Jun 2021,v South Africa,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+670013,Fabian Allen,27 Jun 2021,v South Africa,St George's,2,8,34,19,12,0,5,283.33,lbw,1,4.0,0,35,0,8.75
+670013,Fabian Allen,29 Jun 2021,v South Africa,St George's,2,8,14*,17,9,1,1,155.55,not out,1,2.0,0,23,0,11.5
+670013,Fabian Allen,1 Jul 2021,v South Africa,St George's,1,8,19*,25,13,2,1,146.15,not out,2,DNB,-,-,-,-
+670013,Fabian Allen,9 Jul 2021,v Australia,Gros Islet,1,7,8*,21,8,0,0,100,not out,2,3.0,0,24,2,8
+670013,Fabian Allen,10 Jul 2021,v Australia,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+670013,Fabian Allen,12 Jul 2021,v Australia,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+670013,Fabian Allen,14 Jul 2021,v Australia,Gros Islet,2,7,29,21,14,2,3,207.14,caught,1,4.0,0,31,1,7.75
+670013,Fabian Allen,16 Jul 2021,v Australia,Gros Islet,1,7,1,5,4,0,0,25,caught,2,3.0,0,29,0,9.66
+670013,Fabian Allen,26 Aug 2021,v Royals,Basseterre,1,7,19*,7,7,2,1,271.42,not out,2,3.0,0,12,1,4
+670013,Fabian Allen,28 Aug 2021,v Amazon,Basseterre,2,4,4*,6,4,0,0,100,not out,1,4.0,0,36,1,9
+670013,Fabian Allen,29 Aug 2021,v Amazon,Basseterre,2,6,4*,6,1,1,0,400,not out,1,3.0,0,31,1,10.33
+670013,Fabian Allen,1 Sep 2021,v Tallawahs,Basseterre,2,6,30*,-,12,2,3,250,not out,1,2.0,0,14,0,7
+670013,Fabian Allen,2 Sep 2021,v Royals,Basseterre,2,4,3,9,4,0,0,75,caught,1,2.0,0,15,0,7.5
+670013,Fabian Allen,4 Sep 2021,v Kings,Basseterre,2,6,5,22,10,0,0,50,caught,1,3.0,0,26,1,8.66
+670013,Fabian Allen,5 Sep 2021,v Kings,Basseterre,1,7,34,44,32,2,3,106.25,caught,2,4.0,0,30,2,7.5
+670013,Fabian Allen,8 Sep 2021,v Tallawahs,Basseterre,2,7,18,23,14,0,2,128.57,bowled,1,4.0,0,39,1,9.75
+670013,Fabian Allen,11 Sep 2021,v Trinbago,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+670013,Fabian Allen,12 Sep 2021,v Trinbago,Basseterre,1,6,0,3,2,0,0,0,bowled,2,2.0,0,9,1,4.5
+670013,Fabian Allen,14 Sep 2021,v Amazon,Basseterre,2,4,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,15 Sep 2021,v Kings,Basseterre,2,7,20,28,18,2,0,111.11,caught,1,4.0,0,17,1,4.25
+670013,Fabian Allen,21 Sep 2021,v RR,Dubai (DICS),2,6,0*,3,1,0,0,0,not out,1,DNB,-,-,-,-
+670013,Fabian Allen,1 Oct 2021,v KKR,Dubai (DICS),2,7,0*,2,0,0,0,-,not out,1,4.0,0,38,0,9.5
+670013,Fabian Allen,22 Jan 2022,v England,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+670013,Fabian Allen,23 Jan 2022,v England,Bridgetown,2,9,12,15,11,0,1,109.09,caught,1,4.0,0,50,2,12.5
+670013,Fabian Allen,26 Jan 2022,v England,Bridgetown,1,6,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,30 Jan 2022,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,0,5.66
+670013,Fabian Allen,16 Feb 2022,v India,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.5,0,23,1,12.54
+670013,Fabian Allen,20 Feb 2022,v India,Eden Gardens,2,9,5*,17,3,1,0,166.66,not out,1,1.0,0,5,0,5
+670013,Fabian Allen,16 Apr 2022,v LSG,Brabourne,2,7,8,13,7,1,0,114.28,caught,1,4.0,0,46,1,11.5
+670013,Fabian Allen,31 Aug 2022,v Patriots,Basseterre,1,4,3*,-,2,0,0,150,not out,2,DNB,-,-,-,-
+670013,Fabian Allen,3 Sep 2022,v Amazon,Basseterre,2,7,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,7 Sep 2022,v Kings,Gros Islet,1,7,7,25,8,0,0,87.5,caught,2,2.0,0,19,0,9.5
+670013,Fabian Allen,10 Sep 2022,v Trinbago,Gros Islet,1,6,3,-,4,0,0,75,bowled,2,1.0,0,6,0,6
+670013,Fabian Allen,11 Sep 2022,v Royals,Gros Islet,1,6,20,-,10,2,1,200,caught,2,1.0,0,10,0,10
+670013,Fabian Allen,14 Sep 2022,v Patriots,Port of Spain,1,6,23,-,24,3,0,95.83,caught,2,2.0,0,19,1,9.5
+670013,Fabian Allen,15 Sep 2022,v Royals,Port of Spain,2,6,1,15,10,0,0,10,bowled,1,2.0,0,14,1,7
+670013,Fabian Allen,17 Sep 2022,v Trinbago,Tarouba,1,7,50,49,35,3,3,142.85,caught,2,4.0,0,20,1,5
+670013,Fabian Allen,21 Sep 2022,v Amazon,Providence,2,6,1,6,3,0,0,33.33,caught,1,2.0,0,13,1,6.5
+670013,Fabian Allen,25 Sep 2022,v Kings,Providence,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670013,Fabian Allen,27 Sep 2022,v Kings,Providence,1,6,0,-,2,0,0,0,caught,2,4.0,0,28,3,7
+670013,Fabian Allen,28 Sep 2022,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+670013,Fabian Allen,30 Sep 2022,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+670013,Fabian Allen,6 Dec 2022,v Stars,Hambantota,1,-,DNB,-,-,-,-,-,-,2,0.3,0,1,2,2
+670013,Fabian Allen,7 Dec 2022,v Galle,Hambantota,2,5,10,-,10,1,0,100,caught,1,2.0,0,16,0,8
+670013,Fabian Allen,10 Dec 2022,v Jaffna Kings,Pallekele,2,6,0,-,3,0,0,0,caught,1,4.0,0,23,2,5.75
+670013,Fabian Allen,13 Dec 2022,v Aura,Pallekele,1,-,DNB,-,-,-,-,-,-,2,1.2,0,5,2,3.75
+670013,Fabian Allen,14 Dec 2022,v Jaffna Kings,Pallekele,1,8,47,-,23,3,4,204.34,bowled,2,4.0,0,22,1,5.5
+670013,Fabian Allen,17 Dec 2022,v Stars,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+670013,Fabian Allen,18 Dec 2022,v Aura,Colombo (RPS),1,7,3,-,5,0,0,60,caught,2,4.0,0,23,2,5.75
+670013,Fabian Allen,21 Dec 2022,v Jaffna Kings,Colombo (RPS),1,7,6,-,4,1,0,150,caught,2,1.0,0,8,0,8
+670013,Fabian Allen,22 Dec 2022,v Stars,Colombo (RPS),1,6,0,-,1,0,0,0,bowled,2,3.5,0,38,0,9.91
+670013,Fabian Allen,16 Aug 2023,v Kings,Gros Islet,1,6,15,4,6,2,1,250,run out,2,2.0,0,21,0,10.5
+670013,Fabian Allen,23 Aug 2023,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670013,Fabian Allen,27 Aug 2023,v Amazon,Basseterre,2,7,47,39,25,0,6,188,caught,1,2.0,0,20,0,10
+670013,Fabian Allen,31 Aug 2023,v Royals,Bridgetown,1,7,2,6,4,0,0,50,bowled,2,DNB,-,-,-,-
+670013,Fabian Allen,3 Sep 2023,v Trinbago,Bridgetown,2,7,8,-,8,1,0,100,bowled,1,2.0,0,20,0,10
+670013,Fabian Allen,9 Sep 2023,v Trinbago,Tarouba,1,6,14,23,11,2,0,127.27,caught,2,1.0,0,14,0,14
+670013,Fabian Allen,13 Sep 2023,v Amazon,Providence,1,7,21*,19,14,0,2,150,not out,2,2.0,0,22,0,11
+670013,Fabian Allen,16 Sep 2023,v Patriots,Providence,1,8,33*,32,18,3,2,183.33,not out,2,3.0,0,26,0,8.66
+670013,Fabian Allen,17 Sep 2023,v Kings,Providence,1,6,1,1,1,0,0,100,run out,2,DNB,-,-,-,-
+670013,Fabian Allen,19 Sep 2023,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,4,6.25
+670013,Fabian Allen,22 Sep 2023,v Amazon,Providence,2,8,11,12,10,0,1,110,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,12 Jan 2024,v Capitals,Paarl,1,6,5,4,3,1,0,166.66,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,14 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+670013,Fabian Allen,17 Jan 2024,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670013,Fabian Allen,19 Jan 2024,v MI Cape Town,Cape Town,1,7,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,21 Jan 2024,v MI Cape Town,Paarl,1,4,0,2,1,0,0,0,lbw,2,1.0,0,3,0,3
+670013,Fabian Allen,24 Jan 2024,v Super Kings,Johannesburg,2,6,17*,10,7,0,2,242.85,not out,1,3.0,0,21,1,7
+670013,Fabian Allen,26 Jan 2024,v Super Giants,Paarl,2,7,9,11,7,0,1,128.57,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,28 Jan 2024,v Super Giants,Durban,2,7,3,5,5,0,0,60,caught,1,3.0,0,33,1,11
+670013,Fabian Allen,10 Feb 2024,v Gulf Giants,Dubai (DICS),2,7,7,7,8,1,0,87.5,bowled,1,1.0,0,12,0,12
+670013,Fabian Allen,13 Feb 2024,v DC,Abu Dhabi,2,8,2,3,3,0,0,66.66,caught,1,3.0,0,24,1,8
+670013,Fabian Allen,1 May 2024,v Nepal,Kirtipur,1,4,19,-,9,2,1,211.11,caught,2,4.0,0,20,1,5
+670013,Fabian Allen,2 May 2024,v Nepal,Kirtipur,1,5,33*,-,19,2,3,173.68,not out,2,4.0,0,34,2,8.5
+670013,Fabian Allen,4 May 2024,v Nepal,Kirtipur,1,7,3,-,6,0,0,50,caught,2,3.0,0,20,0,6.66
+670013,Fabian Allen,23 May 2024,v South Africa,Kingston,1,6,1,3,2,0,0,50,lbw,2,4.0,0,32,0,8
+670013,Fabian Allen,25 May 2024,v South Africa,Kingston,1,7,0,2,1,0,0,0,caught,2,1.0,0,5,0,5
+670013,Fabian Allen,26 May 2024,v South Africa,Kingston,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+670013,Fabian Allen,2 Jul 2024,v Galle,Pallekele,1,7,0,-,1,0,0,0,lbw,2,4.0,0,33,2,8.25
+670013,Fabian Allen,3 Jul 2024,v Sixers,Pallekele,2,8,11*,-,6,1,1,183.33,not out,1,1.0,0,9,0,9
+670013,Fabian Allen,5 Jul 2024,v Galle,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+670013,Fabian Allen,6 Jul 2024,v Sixers,Dambulla,1,7,4*,-,3,0,0,133.33,not out,2,4.0,0,39,1,9.75
+670013,Fabian Allen,9 Jul 2024,v Kandy,Dambulla,1,7,10*,-,5,2,0,200,not out,2,2.0,0,22,0,11
+670013,Fabian Allen,10 Jul 2024,v Colombo,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+670013,Fabian Allen,13 Jul 2024,v Kandy,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670013,Fabian Allen,14 Jul 2024,v Colombo,Colombo (RPS),1,7,0,-,1,0,0,0,caught,2,2.0,0,18,0,9
+670013,Fabian Allen,18 Jul 2024,v Galle,Colombo (RPS),1,8,1,-,2,0,0,50,caught,2,4.0,0,38,1,9.5
+670013,Fabian Allen,20 Jul 2024,v Kandy,Colombo (RPS),1,8,6,-,3,0,1,200,caught,2,4.0,0,24,4,6
+670013,Fabian Allen,21 Jul 2024,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+670013,Fabian Allen,27 Aug 2024,v South Africa,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670013,Fabian Allen,29 Aug 2024,v Patriots,North Sound,1,6,24*,30,17,1,2,141.17,not out,2,1.0,0,12,0,12
+670013,Fabian Allen,30 Aug 2024,v Amazon,North Sound,1,7,11*,-,15,1,0,73.33,not out,2,4.0,0,27,1,6.75
+670013,Fabian Allen,1 Sep 2024,v Royals,North Sound,1,8,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,3 Sep 2024,v Kings,North Sound,1,7,0,1,1,0,0,0,bowled,2,4.0,0,34,1,8.5
+670013,Fabian Allen,5 Sep 2024,v Trinbago,North Sound,1,6,25*,-,11,2,1,227.27,not out,2,4.0,0,23,3,5.75
+670013,Fabian Allen,8 Sep 2024,v Patriots,Basseterre,2,10,13*,6,7,1,1,185.71,not out,1,4.0,0,44,2,11
+670013,Fabian Allen,11 Sep 2024,v Royals,Bridgetown,1,4,1,3,2,0,0,50,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,15 Sep 2024,v Kings,Gros Islet,2,8,2,12,6,0,0,33.33,caught,1,2.0,0,15,0,7.5
+670013,Fabian Allen,19 Sep 2024,v Trinbago,Port of Spain,2,6,4*,7,3,0,0,133.33,not out,1,2.0,0,13,2,6.5
+670013,Fabian Allen,21 Sep 2024,v Amazon,Providence,2,8,0,2,3,0,0,0,lbw,1,1.0,0,14,0,14
+670013,Fabian Allen,17 Oct 2024,v Sri Lanka,Dambulla,1,9,4*,5,1,1,0,400,not out,2,2.0,0,23,0,11.5
+670013,Fabian Allen,17 Dec 2024,v Thunder,Canberra,1,7,7,7,8,0,0,87.5,caught,2,2.0,0,10,1,5
+670013,Fabian Allen,6 Jul 2025,v Washington,Lauderhill,1,7,11,-,11,0,1,100,caught,2,2.0,0,20,1,10
+670013,Fabian Allen,11 Jul 2025,v DC,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+670013,Fabian Allen,13 Jul 2025,v Rangpur,Providence,2,8,3,-,6,0,0,50,caught,1,4.0,0,38,2,9.5
+670013,Fabian Allen,15 Jul 2025,v Central D,Providence,2,8,36*,-,16,0,5,225,not out,1,4.0,0,35,0,8.75
+670013,Fabian Allen,16 Jul 2025,v Amazon,Providence,1,8,28,-,20,1,2,140,lbw,2,1.0,0,32,0,32
+670013,Fabian Allen,14 Aug 2025,v Patriots,Basseterre,1,5,12,-,10,0,1,120,bowled,2,DNB,-,-,-,-
+670013,Fabian Allen,16 Aug 2025,v Royals,North Sound,2,6,11*,12,6,0,1,183.33,not out,1,DNB,-,-,-,-
+670013,Fabian Allen,17 Aug 2025,v Kings,North Sound,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670013,Fabian Allen,20 Aug 2025,v Trinbago,North Sound,1,7,45,28,20,3,3,225,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,22 Aug 2025,v Amazon,North Sound,2,8,22,39,20,1,1,110,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,24 Aug 2025,v Patriots,North Sound,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670013,Fabian Allen,27 Aug 2025,v Trinbago,Tarouba,1,7,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+670013,Fabian Allen,31 Aug 2025,v Kings,Gros Islet,1,5,38*,30,17,4,3,223.52,not out,2,DNB,-,-,-,-
+670013,Fabian Allen,5 Sep 2025,v Royals,Bridgetown,2,6,8,5,4,0,1,200,caught,1,DNB,-,-,-,-
+670013,Fabian Allen,10 Sep 2025,v Amazon,Providence,2,8,15*,21,14,1,1,107.14,not out,1,1.0,0,7,0,7
+670013,Fabian Allen,16 Sep 2025,v Trinbago,Providence,1,4,1,11,2,0,0,50,bowled,2,DNB,-,-,-,-
+670013,Fabian Allen,27 Sep 2025,v Nepal,Sharjah,2,8,19,-,14,3,0,135.71,caught,1,2.0,0,19,0,9.5
+670013,Fabian Allen,29 Sep 2025,v Nepal,Sharjah,2,7,7,-,8,1,0,87.5,bowled,1,2.0,0,16,0,8
+670013,Fabian Allen,30 Sep 2025,v Nepal,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-

@@ -1,0 +1,182 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+352048,Gulbadin Naib,11 Aug 2011,v Trinidad & T,King City (NW),1,7,10,13,8,0,1,125,caught,2,2.0,0,16,1,8
+352048,Gulbadin Naib,12 Aug 2011,v Canada,King City (NW),1,7,27,11,11,0,3,245.45,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,28 Sep 2011,v R Rams,Karachi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+352048,Gulbadin Naib,29 Sep 2011,v Wolves,Karachi,2,3,68,53,42,10,2,161.9,caught,1,4.0,0,33,1,8.25
+352048,Gulbadin Naib,30 Sep 2011,v Tigers,Karachi,1,3,1,-,3,0,0,33.33,caught,2,2.0,0,17,1,8.5
+352048,Gulbadin Naib,13 Mar 2012,v P.N.G.,Dubai (DICS),2,5,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,14 Mar 2012,v Netherlands,Dubai (DICS),2,2,5,-,16,0,0,31.25,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,15 Mar 2012,v Denmark,Sharjah,1,2,14,-,17,2,0,82.35,caught,2,1.0,0,11,0,11
+352048,Gulbadin Naib,16 Mar 2012,v Nepal,Sharjah,1,6,4,-,3,0,0,133.33,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,18 Mar 2012,v Canada,ICCA Dubai,1,7,13,-,7,0,1,185.71,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,19 Mar 2012,v Hong Kong,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,20 Mar 2012,v Bermuda,ICCA Dubai,1,7,26*,10,8,1,3,325,not out,2,1.0,0,16,0,16
+352048,Gulbadin Naib,22 Mar 2012,v Namibia,Dubai (DICS),1,8,2,-,4,0,0,50,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,24 Mar 2012,v Ireland,Dubai (DICS),1,8,17*,-,8,0,2,212.5,not out,2,1.0,0,5,0,5
+352048,Gulbadin Naib,6 Sep 2012,v Trinidad & T,Port of Spain,2,8,35*,36,20,1,1,175,not out,1,DNB,-,-,-,-
+352048,Gulbadin Naib,7 Sep 2012,v BCB XI,Port of Spain,1,7,14*,15,8,1,1,175,not out,2,DNB,-,-,-,-
+352048,Gulbadin Naib,8 Sep 2012,v Barbados,Port of Spain,2,6,6,4,2,0,1,300,run out,1,4.0,0,19,2,4.75
+352048,Gulbadin Naib,19 Sep 2012,v India,Colombo (RPS),2,8,5,23,14,0,0,35.71,caught,1,2.0,0,15,0,7.5
+352048,Gulbadin Naib,21 Sep 2012,v England,Colombo (RPS),2,8,44,42,32,5,3,137.5,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,13 Feb 2013,v Pakistan A,Lahore,2,7,4,9,10,0,0,40,bowled,1,DNB,-,-,-,-
+352048,Gulbadin Naib,3 Mar 2013,v Scotland,Sharjah,1,5,15,-,10,1,1,150,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,4 Mar 2013,v Scotland,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,15 Nov 2013,v Netherlands,Sharjah,1,8,9,29,14,0,0,64.28,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,16 Nov 2013,v Scotland,Sharjah,1,6,14,17,15,0,1,93.33,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,17 Nov 2013,v P.N.G.,Sharjah,2,4,0,7,3,0,0,0,caught,1,1.0,0,10,0,10
+352048,Gulbadin Naib,20 Nov 2013,v Bermuda,ICCA Dubai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,21 Nov 2013,v Denmark,ICCA 2 Dubai,2,7,9,9,7,1,0,128.57,caught,1,1.0,0,12,0,12
+352048,Gulbadin Naib,22 Nov 2013,v Nepal,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,29 Nov 2013,v Nepal,Abu Dhabi,2,6,12*,7,6,1,1,200,not out,1,DNB,-,-,-,-
+352048,Gulbadin Naib,30 Nov 2013,v Ireland,Abu Dhabi,2,6,43,24,19,3,4,226.31,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,8 Dec 2013,v Pakistan,Sharjah,1,8,3,-,9,0,0,33.33,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,16 Mar 2014,v Bangladesh,Mirpur,1,3,21,25,22,3,1,95.45,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,18 Mar 2014,v Hong Kong,Chattogram,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+352048,Gulbadin Naib,15 Jul 2015,v Oman,Edinburgh (Golden),2,8,10,19,9,2,0,111.11,caught,1,2.0,0,13,0,6.5
+352048,Gulbadin Naib,26 Oct 2015,v Zimbabwe,Bulawayo,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+352048,Gulbadin Naib,28 Oct 2015,v Zimbabwe,Bulawayo,2,3,56*,49,31,7,0,180.64,not out,1,3.0,0,40,2,13.33
+352048,Gulbadin Naib,28 Nov 2015,v Hong Kong,Abu Dhabi,1,7,4*,-,4,0,0,100,not out,2,0.4,0,6,0,9
+352048,Gulbadin Naib,29 Nov 2015,v Oman,Abu Dhabi,1,7,14*,-,8,2,0,175,not out,2,2.0,0,11,0,5.5
+352048,Gulbadin Naib,30 Nov 2015,v Oman,Abu Dhabi,1,6,18*,-,11,0,0,163.63,not out,2,4.0,0,31,0,7.75
+352048,Gulbadin Naib,8 Jan 2016,v Zimbabwe,Sharjah,1,6,37,-,20,2,3,185,run out,2,3.0,0,28,1,9.33
+352048,Gulbadin Naib,10 Jan 2016,v Zimbabwe,Sharjah,1,7,13,-,6,0,1,216.66,run out,2,2.0,0,27,0,13.5
+352048,Gulbadin Naib,19 Feb 2016,v U.A.E.,Fatullah,2,6,5,10,7,0,0,71.42,caught,1,2.0,0,18,0,9
+352048,Gulbadin Naib,20 Feb 2016,v Oman,Fatullah,2,7,4*,16,6,0,0,66.66,not out,1,4.0,0,24,2,6
+352048,Gulbadin Naib,22 Feb 2016,v Hong Kong,Mirpur,1,7,0,1,1,0,0,0,caught,2,2.0,0,24,0,12
+352048,Gulbadin Naib,8 Mar 2016,v Scotland,Nagpur,1,4,12,11,11,1,0,109.09,caught,2,1.0,0,18,0,18
+352048,Gulbadin Naib,10 Mar 2016,v Hong Kong,Nagpur,2,6,4*,6,5,0,0,80,not out,1,2.0,0,13,1,6.5
+352048,Gulbadin Naib,12 Mar 2016,v Zimbabwe,Nagpur,1,4,7,8,7,1,0,100,bowled,2,1.0,0,15,0,15
+352048,Gulbadin Naib,20 Mar 2016,v South Africa,Wankhede,2,4,26,19,18,3,1,144.44,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,23 Mar 2016,v England,Delhi,2,4,0,5,5,0,0,0,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,27 Mar 2016,v West Indies,Nagpur,1,4,8,22,14,0,0,57.14,caught,2,1.2,0,14,1,10.5
+352048,Gulbadin Naib,14 Jan 2017,v Ireland,Abu Dhabi,2,6,2,-,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+352048,Gulbadin Naib,16 Jan 2017,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+352048,Gulbadin Naib,19 Jan 2017,v Namibia,Dubai (DICS),1,7,12*,-,4,0,1,300,not out,2,3.0,0,17,1,5.66
+352048,Gulbadin Naib,20 Jan 2017,v Oman,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,20 Jan 2017,v Ireland,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+352048,Gulbadin Naib,30 May 2017,v WICB Pres XI,Basseterre,1,2,10,-,9,1,0,111.11,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,2 Jun 2017,v West Indies,Basseterre,1,2,12,-,8,3,0,150,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,3 Jun 2017,v West Indies,Basseterre,2,1,12,-,14,0,1,85.71,bowled,1,2.0,0,10,1,5
+352048,Gulbadin Naib,5 Jun 2017,v West Indies,Basseterre,1,8,7*,-,5,0,1,140,not out,2,DNB,-,-,-,-
+352048,Gulbadin Naib,11 Sep 2017,v Kabul Eagles,Kabul,1,5,16,36,13,0,1,123.07,caught,2,2.0,0,16,0,8
+352048,Gulbadin Naib,12 Sep 2017,v SGT,Kabul,2,7,27,31,20,0,2,135,bowled,1,4.0,0,25,3,6.25
+352048,Gulbadin Naib,13 Sep 2017,v MAK,Kabul,1,6,3,12,8,0,0,37.5,caught,2,4.0,0,36,3,9
+352048,Gulbadin Naib,15 Sep 2017,v BEAD,Kabul,2,6,5,9,6,0,0,83.33,caught,1,4.0,0,31,2,7.75
+352048,Gulbadin Naib,16 Sep 2017,v Amo Sharks,Kabul,1,6,2,2,2,0,0,100,lbw,2,2.0,0,4,2,2
+352048,Gulbadin Naib,20 Sep 2017,v Kabul Eagles,Kabul,1,8,52,36,29,6,1,179.31,caught,2,4.0,0,27,1,6.75
+352048,Gulbadin Naib,5 Feb 2018,v Zimbabwe,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,8,1,2.66
+352048,Gulbadin Naib,6 Feb 2018,v Zimbabwe,Sharjah,1,8,2*,-,3,0,0,66.66,not out,2,3.0,0,34,0,11.33
+352048,Gulbadin Naib,6 Oct 2018,v Kabul Zwanan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+352048,Gulbadin Naib,7 Oct 2018,v Knights,Sharjah,1,6,14*,-,14,0,0,100,not out,2,4.0,0,12,4,3
+352048,Gulbadin Naib,10 Oct 2018,v Panthers,Sharjah,2,7,8,-,11,1,0,72.72,caught,1,4.0,0,46,2,11.5
+352048,Gulbadin Naib,11 Oct 2018,v KingsLeopard,Sharjah,1,8,17*,-,9,3,0,188.88,not out,2,2.1,0,10,2,4.61
+352048,Gulbadin Naib,13 Oct 2018,v Panthers,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.2,0,19,2,5.7
+352048,Gulbadin Naib,14 Oct 2018,v Kabul Zwanan,Sharjah,1,6,0,-,1,0,0,0,caught,2,3.0,0,46,0,15.33
+352048,Gulbadin Naib,17 Oct 2018,v KingsLeopard,Sharjah,1,8,2,-,5,0,0,40,caught,2,3.0,0,30,1,10
+352048,Gulbadin Naib,19 Oct 2018,v KingsLeopard,Sharjah,1,7,0*,-,0,0,0,-,not out,2,2.0,0,9,0,4.5
+352048,Gulbadin Naib,21 Oct 2018,v Kabul Zwanan,Sharjah,2,8,7*,-,3,0,1,233.33,not out,1,2.0,0,22,0,11
+352048,Gulbadin Naib,14 Sep 2019,v Zimbabwe,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+352048,Gulbadin Naib,15 Sep 2019,v Bangladesh,Mirpur,1,7,0,-,2,0,0,0,bowled,2,4.0,0,27,2,6.75
+352048,Gulbadin Naib,20 Sep 2019,v Zimbabwe,Chattogram,1,6,10,-,7,0,1,142.85,caught,2,3.0,0,19,0,6.33
+352048,Gulbadin Naib,21 Sep 2019,v Bangladesh,Chattogram,1,6,1,-,1,0,0,100,run out,2,2.0,0,16,0,8
+352048,Gulbadin Naib,8 Oct 2019,v MAK,Kabul,2,6,3,8,3,0,0,100,caught,1,4.0,0,27,1,6.75
+352048,Gulbadin Naib,10 Oct 2019,v Kabul Eagles,Kabul,2,5,10,14,9,1,0,111.11,caught,1,4.0,0,36,1,9
+352048,Gulbadin Naib,11 Oct 2019,v Amo Sharks,Kabul,1,3,91,83,47,7,5,193.61,caught,2,4.0,0,22,3,5.5
+352048,Gulbadin Naib,13 Oct 2019,v SGT,Kabul,1,3,0,1,1,0,0,0,lbw,2,3.0,0,57,0,19
+352048,Gulbadin Naib,14 Oct 2019,v BEAD,Kabul,2,3,0,1,1,0,0,0,bowled,1,4.0,0,30,1,7.5
+352048,Gulbadin Naib,14 Nov 2019,v West Indies,Lucknow,2,7,1,-,4,0,0,25,caught,1,4.0,0,24,2,6
+352048,Gulbadin Naib,16 Nov 2019,v West Indies,Lucknow,1,8,24,-,18,2,1,133.33,lbw,2,3.0,0,22,1,7.33
+352048,Gulbadin Naib,17 Nov 2019,v West Indies,Lucknow,1,9,4*,-,4,0,0,100,not out,2,4.0,0,26,1,6.5
+352048,Gulbadin Naib,6 Mar 2020,v Ireland,Greater Noida,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+352048,Gulbadin Naib,8 Mar 2020,v Ireland,Greater Noida,1,6,13*,-,4,0,2,325,not out,2,2.0,0,22,1,11
+352048,Gulbadin Naib,10 Mar 2020,v Ireland,Greater Noida,2,7,10,-,11,1,0,90.9,bowled,1,2.0,0,20,0,10
+352048,Gulbadin Naib,7 Sep 2020,v Kabul Eagles,Kabul,1,6,15*,18,9,3,0,166.66,not out,2,4.0,0,23,3,5.75
+352048,Gulbadin Naib,8 Sep 2020,v BEAD,Kabul,1,7,12,10,7,1,1,171.42,caught,2,3.0,0,26,0,8.66
+352048,Gulbadin Naib,10 Sep 2020,v SGT,Kabul,2,7,35,30,14,1,4,250,caught,1,3.4,0,39,0,10.63
+352048,Gulbadin Naib,11 Sep 2020,v MAK,Kabul,2,7,54*,46,27,2,5,200,not out,1,4.0,0,40,0,10
+352048,Gulbadin Naib,13 Sep 2020,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,2,12.66
+352048,Gulbadin Naib,14 Sep 2020,v BEAD,Kabul,2,6,2,13,5,0,0,40,caught,1,4.0,0,55,0,13.75
+352048,Gulbadin Naib,25 Oct 2021,v Scotland,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+352048,Gulbadin Naib,29 Oct 2021,v Pakistan,Dubai (DICS),1,8,35*,42,25,4,1,140,not out,2,DNB,-,-,-,-
+352048,Gulbadin Naib,31 Oct 2021,v Namibia,Abu Dhabi,1,7,1*,5,1,0,0,100,not out,2,4.0,1,19,2,4.75
+352048,Gulbadin Naib,3 Nov 2021,v India,Abu Dhabi,2,4,18,28,20,3,0,90,lbw,1,4.0,0,39,1,9.75
+352048,Gulbadin Naib,7 Nov 2021,v New Zealand,Abu Dhabi,1,4,15,31,18,1,0,83.33,bowled,2,1.1,0,9,0,7.71
+352048,Gulbadin Naib,18 Jul 2022,v SGT,Kabul,1,6,12,31,18,0,0,66.66,caught,2,3.0,0,19,1,6.33
+352048,Gulbadin Naib,20 Jul 2022,v BEAD,Kabul,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+352048,Gulbadin Naib,22 Jul 2022,v Kabul Eagles,Kabul,1,4,37,30,22,5,2,168.18,bowled,2,1.0,0,12,0,12
+352048,Gulbadin Naib,25 Jul 2022,v Pamir Zalmi,Kabul,2,6,27*,32,22,1,2,122.72,not out,1,4.0,0,24,1,6
+352048,Gulbadin Naib,28 Jul 2022,v Amo Sharks,Kabul,1,6,11*,11,8,1,0,137.5,not out,2,1.3,0,16,0,10.66
+352048,Gulbadin Naib,30 Jul 2022,v BDD,Kabul,2,5,22,39,23,0,1,95.65,bowled,1,3.0,0,27,0,9
+352048,Gulbadin Naib,1 Aug 2022,v Stars,Kabul,2,3,40*,38,24,3,3,166.66,not out,1,3.0,0,19,1,6.33
+352048,Gulbadin Naib,2 Aug 2022,v Kabul Eagles,Kabul,1,5,1,4,4,0,0,25,run out,2,1.0,0,9,0,9
+352048,Gulbadin Naib,1 Nov 2022,v Sri Lanka,Brisbane,1,5,12,25,14,0,0,85.71,run out,2,1.0,0,12,0,12
+352048,Gulbadin Naib,4 Nov 2022,v Australia,Adelaide,2,4,39,38,23,3,2,169.56,run out,1,3.0,0,31,0,10.33
+352048,Gulbadin Naib,8 Feb 2023,v Khulna,Mirpur,2,6,2*,5,5,0,0,40,not out,1,4.0,0,22,0,5.5
+352048,Gulbadin Naib,19 Feb 2023,v U.A.E.,Abu Dhabi,2,3,0,-,6,0,0,0,lbw,1,2.0,0,13,2,6.5
+352048,Gulbadin Naib,24 Mar 2023,v Pakistan,Sharjah,2,3,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,4 Oct 2023,v Sri Lanka,Hangzhou,1,5,7,-,3,0,1,233.33,caught,2,4.0,0,28,3,7
+352048,Gulbadin Naib,6 Oct 2023,v Pakistan,Hangzhou,2,7,26*,-,19,1,3,136.84,not out,1,4.0,0,29,1,7.25
+352048,Gulbadin Naib,7 Oct 2023,v India,Hangzhou,1,7,27*,-,24,1,2,112.5,not out,-,TDNB,-,-,-,-
+352048,Gulbadin Naib,11 Jan 2024,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+352048,Gulbadin Naib,14 Jan 2024,v India,Indore,1,3,57,35,35,5,4,162.85,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,17 Jan 2024,v India,Bengaluru,2,3,55*,49,23,4,4,239.13,not out,1,DNB,-,-,-,-
+352048,Gulbadin Naib,29 Jan 2024,v Khulna,Sylhet,1,3,3,12,6,0,0,50,caught,2,2.0,0,17,0,8.5
+352048,Gulbadin Naib,2 Feb 2024,v Strikers,Sylhet,2,5,12,41,18,0,0,66.66,caught,1,3.0,0,25,0,8.33
+352048,Gulbadin Naib,6 Feb 2024,v Rangpur,Mirpur,2,5,13,23,18,1,0,72.22,caught,1,1.0,0,11,0,11
+352048,Gulbadin Naib,17 Feb 2024,v Sri Lanka,Dambulla,2,3,16,19,17,2,0,94.11,bowled,1,DNB,-,-,-,-
+352048,Gulbadin Naib,19 Feb 2024,v Sri Lanka,Dambulla,2,4,4,10,8,0,0,50,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,7 May 2024,v RR,Delhi,1,7,19,20,15,1,1,126.66,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,14 May 2024,v LSG,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+352048,Gulbadin Naib,3 Jun 2024,v Uganda,Providence,1,5,4,6,5,0,0,80,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,7 Jun 2024,v New Zealand,Providence,1,7,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,13 Jun 2024,v P.N.G.,Tarouba,2,3,49*,60,36,4,2,136.11,not out,1,DNB,-,-,-,-
+352048,Gulbadin Naib,17 Jun 2024,v West Indies,Gros Islet,2,3,7,26,10,1,0,70,lbw,1,2.0,0,14,2,7
+352048,Gulbadin Naib,20 Jun 2024,v India,Bridgetown,2,4,17,25,21,1,1,80.95,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,22 Jun 2024,v Australia,Kingstown,1,7,0,12,1,0,0,0,caught,2,4.0,0,20,4,5
+352048,Gulbadin Naib,24 Jun 2024,v Bangladesh,Kingstown,1,4,4,4,3,1,0,133.33,caught,2,2.0,0,5,1,2.5
+352048,Gulbadin Naib,26 Jun 2024,v South Africa,Tarouba,1,3,9,6,8,2,0,112.5,bowled,2,1.0,0,8,0,8
+352048,Gulbadin Naib,13 Aug 2024,v SGT,Kabul,2,3,40,59,41,2,1,97.56,lbw,1,4.0,0,49,0,12.25
+352048,Gulbadin Naib,14 Aug 2024,v BEAD,Kabul,1,6,30,26,19,3,1,157.89,caught,2,4.0,0,45,0,11.25
+352048,Gulbadin Naib,16 Aug 2024,v Amo Sharks,Kabul,1,7,30*,25,25,3,0,120,not out,2,1.4,0,12,1,7.2
+352048,Gulbadin Naib,17 Aug 2024,v MAK,Kabul,1,3,20,20,14,2,1,142.85,bowled,2,sub,-,-,-,-
+352048,Gulbadin Naib,18 Aug 2024,v Amo Sharks,Kabul,2,7,0,3,4,0,0,0,stumped,1,3.3,0,23,0,6.57
+352048,Gulbadin Naib,13 Dec 2024,v Zimbabwe,Harare,1,7,26*,30,21,3,0,123.8,not out,2,DNB,-,-,-,-
+352048,Gulbadin Naib,14 Dec 2024,v Zimbabwe,Harare,2,6,22,30,22,0,0,100,lbw,1,DNB,-,-,-,-
+352048,Gulbadin Naib,11 Jan 2025,v MI Emirates,Dubai (DICS),1,7,2,8,2,0,0,100,run out,2,4.0,0,13,3,3.25
+352048,Gulbadin Naib,13 Jan 2025,v MI Emirates,Abu Dhabi,2,7,12,-,8,1,0,150,caught,1,3.0,0,18,3,6
+352048,Gulbadin Naib,17 Jan 2025,v Warriorz,Sharjah,1,7,6*,-,3,1,0,200,not out,2,2.1,0,47,0,21.69
+352048,Gulbadin Naib,18 Jan 2025,v Gulf Giants,Sharjah,1,7,15,15,12,0,1,125,caught,2,2.0,0,11,0,5.5
+352048,Gulbadin Naib,20 Jan 2025,v Vipers,Dubai (DICS),2,4,78*,-,51,3,5,152.94,not out,1,2.0,0,10,1,5
+352048,Gulbadin Naib,23 Jan 2025,v Gulf Giants,Dubai (DICS),2,4,17,12,16,4,0,106.25,lbw,1,1.0,0,8,1,8
+352048,Gulbadin Naib,26 Jan 2025,v KnightRiders,Abu Dhabi,2,3,80,54,47,4,5,170.21,caught,1,1.0,0,18,0,18
+352048,Gulbadin Naib,28 Jan 2025,v Warriorz,Dubai (DICS),1,3,2,4,3,0,0,66.66,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,2 Feb 2025,v KnightRiders,Dubai (DICS),1,3,47,-,25,3,3,188,caught,2,3.0,0,32,1,10.66
+352048,Gulbadin Naib,3 Feb 2025,v Vipers,Sharjah,2,3,55*,47,31,3,4,177.41,not out,1,1.0,0,11,0,11
+352048,Gulbadin Naib,5 Feb 2025,v Vipers,Dubai (DICS),2,3,62,65,39,7,1,158.97,caught,1,3.0,0,25,2,8.33
+352048,Gulbadin Naib,9 Feb 2025,v Vipers,Dubai (DICS),2,3,5,4,3,0,0,166.66,lbw,1,1.0,0,10,0,10
+352048,Gulbadin Naib,10 Jul 2025,v Central D,Providence,1,3,1,-,6,0,0,16.66,run out,2,2.0,0,20,0,10
+352048,Gulbadin Naib,11 Jul 2025,v Hurricanes,Providence,1,4,31,-,27,2,1,114.81,caught,2,3.0,0,18,0,6
+352048,Gulbadin Naib,13 Jul 2025,v Amazon,Providence,2,4,0,-,1,0,0,0,lbw,1,4.0,0,31,1,7.75
+352048,Gulbadin Naib,16 Jul 2025,v Rangpur,Providence,2,3,0,-,1,0,0,0,bowled,1,4.0,0,39,1,9.75
+352048,Gulbadin Naib,20 Jul 2025,v MAK,Kabul,2,5,10*,9,5,2,0,200,not out,1,3.0,0,33,0,11
+352048,Gulbadin Naib,21 Jul 2025,v Amo Sharks,Kabul,1,4,25,22,14,3,1,178.57,caught,2,3.0,0,24,1,8
+352048,Gulbadin Naib,22 Jul 2025,v SGT,Kabul,1,4,7,4,4,1,0,175,bowled,2,2.0,0,25,1,12.5
+352048,Gulbadin Naib,24 Jul 2025,v BDD,Kabul,2,5,57,46,26,5,4,219.23,caught,1,3.0,0,44,0,14.66
+352048,Gulbadin Naib,25 Jul 2025,v SGT,Kabul,1,5,14,22,12,2,0,116.66,caught,2,3.0,0,23,1,7.66
+352048,Gulbadin Naib,28 Jul 2025,v BDD,Kabul,2,5,17,15,12,1,1,141.66,caught,1,4.0,0,41,4,10.25
+352048,Gulbadin Naib,29 Jul 2025,v MAK,Kabul,2,4,30,24,14,3,2,214.28,caught,1,3.3,0,37,1,10.57
+352048,Gulbadin Naib,30 Jul 2025,v Amo Sharks,Kabul,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,14
+352048,Gulbadin Naib,5 Sep 2025,v U.A.E.,Sharjah,1,5,20*,26,14,2,0,142.85,not out,2,1.0,0,17,0,17
+352048,Gulbadin Naib,9 Sep 2025,v Hong Kong,Abu Dhabi,1,5,5,11,8,0,0,62.5,caught,2,3.0,0,8,2,2.66
+352048,Gulbadin Naib,16 Sep 2025,v Bangladesh,Abu Dhabi,2,4,16,23,14,2,0,114.28,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,2 Dec 2025,v Vipers,Dubai (DICS),1,3,0,2,1,0,0,0,caught,2,3.0,0,28,1,9.33
+352048,Gulbadin Naib,6 Dec 2025,v Gulf Giants,Dubai (DICS),1,4,10,-,15,0,1,66.66,bowled,2,DNB,-,-,-,-
+352048,Gulbadin Naib,14 Dec 2025,v Vipers,Dubai (DICS),1,3,21,28,20,4,0,105,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,1 Jan 2026,v KnightRiders,Dubai (DICS),2,4,7,23,10,0,0,70,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,19 Jan 2026,v West Indies,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+352048,Gulbadin Naib,21 Jan 2026,v West Indies,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+352048,Gulbadin Naib,22 Jan 2026,v West Indies,Dubai (DICS),2,6,7*,20,9,0,0,77.77,not out,1,1.0,0,8,0,8
+352048,Gulbadin Naib,8 Feb 2026,v New Zealand,Chennai,1,3,63,59,35,3,4,180,caught,2,DNB,-,-,-,-
+352048,Gulbadin Naib,11 Feb 2026,v South Africa,Ahmedabad,2,3,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+352048,Gulbadin Naib,16 Feb 2026,v U.A.E.,Delhi,2,3,13,24,12,1,1,108.33,caught,1,1.0,0,8,0,8
+352048,Gulbadin Naib,19 Feb 2026,v Canada,Chennai,1,3,1,3,2,0,0,50,lbw,2,DNB,-,-,-,-

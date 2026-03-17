@@ -1,0 +1,176 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1070173,Shubman Gill,14 Apr 2018,v SRH,Eden Gardens,1,7,3,-,9,0,0,33.33,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,16 Apr 2018,v Daredevils,Eden Gardens,1,7,6,-,5,1,0,120,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,18 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070173,Shubman Gill,21 Apr 2018,v Kings XI,Eden Gardens,1,7,14*,-,8,2,0,175,not out,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Apr 2018,v Daredevils,Delhi,2,6,37,-,29,3,1,127.58,run out,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 Apr 2018,v RCB,Bengaluru,2,7,5*,-,2,1,0,250,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,3 May 2018,v CSK,Eden Gardens,2,4,57*,-,36,6,2,158.33,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,6 May 2018,v MI,Wankhede,2,2,7,-,5,1,0,140,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,12 May 2018,v Kings XI,Indore,1,7,16*,-,8,3,0,200,not out,2,DNB,-,-,-,-
+1070173,Shubman Gill,15 May 2018,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1070173,Shubman Gill,19 May 2018,v SRH,Hyderabad,2,7,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,23 May 2018,v RR,Eden Gardens,1,6,28,-,17,3,1,164.7,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,25 May 2018,v SRH,Eden Gardens,2,6,30,-,20,2,1,150,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,22 Feb 2019,v Mumbai,Indore,2,1,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Feb 2019,v Saurashtra,Indore,1,2,12,31,12,2,0,100,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Feb 2019,v Sikkim,Indore,2,1,70*,-,40,7,3,175,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,28 Feb 2019,v Goa,Indore,1,2,21,25,16,2,1,131.25,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,2 Mar 2019,v Railways,Indore,2,2,11,-,14,1,0,78.57,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Mar 2019,v SRH,Eden Gardens,2,6,18*,-,10,0,2,180,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,27 Mar 2019,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1070173,Shubman Gill,30 Mar 2019,v DC,Delhi,1,6,4,12,5,0,0,80,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,5 Apr 2019,v RCB,Bengaluru,2,7,3*,16,3,0,0,100,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 Apr 2019,v RR,Jaipur,2,4,6*,12,10,0,0,60,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,9 Apr 2019,v CSK,Chennai,1,6,9,24,12,0,0,75,stumped,2,DNB,-,-,-,-
+1070173,Shubman Gill,12 Apr 2019,v DC,Eden Gardens,1,2,65,70,39,7,2,166.66,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,14 Apr 2019,v CSK,Eden Gardens,1,7,15,28,20,0,0,75,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,19 Apr 2019,v RCB,Eden Gardens,2,3,9,21,11,1,0,81.81,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,21 Apr 2019,v SRH,Hyderabad,1,3,3,9,4,0,0,75,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,25 Apr 2019,v RR,Eden Gardens,1,2,14,24,14,2,0,100,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,28 Apr 2019,v MI,Eden Gardens,1,1,76,74,45,6,4,168.88,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,3 May 2019,v Kings XI,Mohali,2,1,65*,88,49,5,2,132.65,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,5 May 2019,v MI,Wankhede,1,1,9,29,16,0,0,56.25,lbw,2,DNB,-,-,-,-
+1070173,Shubman Gill,8 Nov 2019,v Hyderabad,Chandigarh,2,1,48,-,42,4,2,114.28,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,9 Nov 2019,v Arunachal,Chandigarh,2,1,24*,-,14,3,1,171.42,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Nov 2019,v Karnataka,Surat,1,1,11,-,9,2,0,122.22,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,25 Nov 2019,v Tamil Nadu,Surat,1,2,2,-,11,0,0,18.18,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Nov 2019,v Mumbai,Surat,2,1,78,-,38,7,5,205.26,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,23 Sep 2020,v MI,Abu Dhabi,2,1,7,-,11,1,0,63.63,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,26 Sep 2020,v SRH,Abu Dhabi,2,1,70*,-,62,5,2,112.9,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,30 Sep 2020,v RR,Dubai (DICS),1,1,47,-,34,5,1,138.23,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,3 Oct 2020,v DC,Sharjah,2,1,28,-,22,2,1,127.27,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 Oct 2020,v CSK,Abu Dhabi,1,2,11,-,12,1,0,91.66,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,10 Oct 2020,v Kings XI,Abu Dhabi,1,2,57,-,47,5,0,121.27,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,12 Oct 2020,v RCB,Sharjah,2,2,34,-,25,3,1,136,run out,1,DNB,-,-,-,-
+1070173,Shubman Gill,16 Oct 2020,v MI,Abu Dhabi,1,2,21,-,23,2,0,91.3,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,18 Oct 2020,v SRH,Abu Dhabi,1,1,36,-,37,5,0,97.29,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,21 Oct 2020,v RCB,Abu Dhabi,1,1,1,-,6,0,0,16.66,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,24 Oct 2020,v DC,Abu Dhabi,1,1,9,-,8,2,0,112.5,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,26 Oct 2020,v Kings XI,Sharjah,1,1,57,-,45,3,4,126.66,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,29 Oct 2020,v CSK,Dubai (DICS),1,1,26,-,17,4,0,152.94,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,1 Nov 2020,v RR,Dubai (DICS),1,1,36,-,24,6,0,150,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,11 Apr 2021,v SRH,Chennai,1,2,15,32,13,1,1,115.38,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,13 Apr 2021,v MI,Chennai,2,2,33,40,24,5,1,137.5,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,18 Apr 2021,v RCB,Chennai,2,2,21,10,9,2,2,233.33,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,21 Apr 2021,v CSK,Wankhede,2,2,0,4,1,0,0,0,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Apr 2021,v RR,Wankhede,1,2,11,28,19,1,0,57.89,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,26 Apr 2021,v Punjab Kings,Ahmedabad,2,1,9,9,8,2,0,112.5,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 Apr 2021,v DC,Ahmedabad,1,2,43,61,38,3,1,113.15,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,20 Sep 2021,v RCB,Abu Dhabi,2,1,48,48,34,6,1,141.17,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,23 Sep 2021,v MI,Abu Dhabi,2,1,13,16,9,1,1,144.44,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,26 Sep 2021,v CSK,Abu Dhabi,1,1,9,8,5,2,0,180,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,28 Sep 2021,v DC,Sharjah,2,1,30,46,33,1,2,90.9,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,2,7,12,7,1,0,100,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,3 Oct 2021,v SRH,Dubai (DICS),2,1,57,77,51,10,0,111.76,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 Oct 2021,v RR,Sharjah,1,1,56,79,44,4,2,127.27,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,11 Oct 2021,v RCB,Sharjah,2,1,29,24,18,4,0,161.11,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,13 Oct 2021,v DC,Sharjah,2,1,46,80,46,1,1,100,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,15 Oct 2021,v CSK,Dubai (DICS),2,1,51,74,43,6,0,118.6,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,4 Nov 2021,v Puducherry,Lucknow,2,1,12,-,10,2,0,120,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,5 Nov 2021,v Maharashtra,Lucknow,1,1,44,-,39,3,1,112.82,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,6 Nov 2021,v Goa,Lucknow,1,1,40,-,36,2,0,111.11,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,8 Nov 2021,v Odisha,Lucknow,1,2,9,-,5,2,0,180,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,9 Nov 2021,v Tamil Nadu,Lucknow,1,1,34,48,30,5,0,113.33,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,28 Mar 2022,v LSG,Wankhede,2,1,0,4,3,0,0,0,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,2 Apr 2022,v DC,Pune,1,2,84,83,46,6,4,182.6,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,8 Apr 2022,v Punjab Kings,Brabourne,2,2,96,96,59,11,1,162.71,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,11 Apr 2022,v SRH,DY Patil,1,2,7,14,9,1,0,77.77,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,14 Apr 2022,v RR,DY Patil,1,2,13,34,14,2,0,92.85,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,17 Apr 2022,v CSK,Pune,2,2,0,8,1,0,0,0,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,23 Apr 2022,v KKR,DY Patil,1,2,7,8,5,1,0,140,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Apr 2022,v SRH,Wankhede,2,2,22,37,24,1,1,91.66,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,30 Apr 2022,v RCB,Brabourne,2,2,31,44,28,3,1,110.71,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,3 May 2022,v Punjab Kings,DY Patil,1,2,9,11,6,2,0,150,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,6 May 2022,v MI,Brabourne,2,2,52,54,36,6,2,144.44,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,10 May 2022,v LSG,Pune,1,2,63*,100,49,7,0,128.57,not out,2,DNB,-,-,-,-
+1070173,Shubman Gill,15 May 2022,v CSK,Wankhede,2,2,18,33,17,3,0,105.88,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,19 May 2022,v RCB,Wankhede,1,2,1,13,4,0,0,25,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,24 May 2022,v RR,Eden Gardens,2,2,35,42,21,5,1,166.66,run out,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 May 2022,v RR,Ahmedabad,2,2,45*,86,43,3,1,104.65,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,18 Oct 2022,v Manipur,Jaipur,2,2,7,-,10,1,0,70,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,20 Oct 2022,v Puducherry,Jaipur,2,2,21,-,15,2,1,140,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,22 Oct 2022,v UP,Jaipur,2,1,57*,-,44,5,2,129.54,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,30 Oct 2022,v Haryana,Eden Gardens,1,1,4,14,10,1,0,40,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,1 Nov 2022,v Karnataka,Eden Gardens,1,2,126,88,55,11,9,229.09,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,3 Nov 2022,v Himachal,Eden Gardens,2,1,45,-,32,6,1,140.62,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,3 Jan 2023,v Sri Lanka,Wankhede,1,2,7,16,5,1,0,140,lbw,2,DNB,-,-,-,-
+1070173,Shubman Gill,5 Jan 2023,v Sri Lanka,Pune,2,2,5,13,3,1,0,166.66,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 Jan 2023,v Sri Lanka,Rajkot,1,2,46,69,36,2,3,127.77,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Jan 2023,v New Zealand,Ranchi,2,1,7,17,6,1,0,116.66,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 Jan 2023,v New Zealand,Lucknow,2,1,11,15,9,2,0,122.22,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,1 Feb 2023,v New Zealand,Ahmedabad,1,2,126*,99,63,12,7,200,not out,2,DNB,-,-,-,-
+1070173,Shubman Gill,31 Mar 2023,v CSK,Ahmedabad,2,2,63,-,36,6,3,175,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,4 Apr 2023,v DC,Delhi,2,2,14,19,13,3,0,107.69,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,9 Apr 2023,v KKR,Ahmedabad,1,2,39,55,31,5,0,125.8,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,13 Apr 2023,v Punjab Kings,Mohali,2,2,67,-,49,7,1,136.73,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,16 Apr 2023,v RR,Ahmedabad,1,2,45,70,34,4,1,132.35,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,22 Apr 2023,v LSG,Lucknow,1,2,0,9,2,0,0,0,caught,2,sub,-,-,-,-
+1070173,Shubman Gill,25 Apr 2023,v MI,Ahmedabad,1,2,56,57,34,7,1,164.7,caught,2,sub,-,-,-,-
+1070173,Shubman Gill,29 Apr 2023,v KKR,Eden Gardens,2,2,49,53,35,8,0,140,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,2 May 2023,v DC,Ahmedabad,2,2,6,18,7,1,0,85.71,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,5 May 2023,v RR,Jaipur,2,2,36,39,35,6,0,102.85,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 May 2023,v LSG,Ahmedabad,1,2,94*,96,51,2,7,184.31,not out,2,sub,-,-,-,-
+1070173,Shubman Gill,12 May 2023,v MI,Wankhede,2,2,6,20,9,0,0,66.66,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,15 May 2023,v SRH,Ahmedabad,1,2,101,100,58,13,1,174.13,caught,2,sub,-,-,-,-
+1070173,Shubman Gill,21 May 2023,v RCB,Bengaluru,2,2,104*,97,52,5,8,200,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,23 May 2023,v CSK,Chennai,2,2,42,58,38,4,1,110.52,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,26 May 2023,v MI,Ahmedabad,1,2,129,86,60,7,10,215,caught,2,sub,-,-,-,-
+1070173,Shubman Gill,28 May 2023,v CSK,Ahmedabad,1,2,39,34,20,7,0,195,stumped,2,DNB,-,-,-,-
+1070173,Shubman Gill,3 Aug 2023,v West Indies,Tarouba,2,2,3,9,9,0,0,33.33,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,6 Aug 2023,v West Indies,Providence,1,2,7,12,9,0,1,77.77,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,8 Aug 2023,v West Indies,Providence,2,2,6,20,11,1,0,54.54,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,12 Aug 2023,v West Indies,Lauderhill,2,2,77,75,47,3,5,163.82,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,13 Aug 2023,v West Indies,Lauderhill,1,2,9,12,9,1,0,100,lbw,2,DNB,-,-,-,-
+1070173,Shubman Gill,12 Dec 2023,v South Africa,Gqeberha,1,2,0,11,2,0,0,0,lbw,2,DNB,-,-,-,-
+1070173,Shubman Gill,14 Dec 2023,v South Africa,Johannesburg,1,2,8,11,6,2,0,133.33,lbw,2,DNB,-,-,-,-
+1070173,Shubman Gill,11 Jan 2024,v Afghanistan,Mohali,2,2,23,16,12,5,0,191.66,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Mar 2024,v MI,Ahmedabad,1,2,31,35,22,3,1,140.9,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,26 Mar 2024,v CSK,Chennai,2,2,8,17,5,0,1,160,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,31 Mar 2024,v SRH,Ahmedabad,2,2,36,39,28,2,1,128.57,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,4 Apr 2024,v Punjab Kings,Ahmedabad,1,2,89*,96,48,6,4,185.41,not out,2,DNB,-,-,-,-
+1070173,Shubman Gill,7 Apr 2024,v LSG,Lucknow,2,2,19,29,21,2,0,90.47,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,10 Apr 2024,v RR,Jaipur,2,2,72,77,44,6,2,163.63,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,17 Apr 2024,v DC,Ahmedabad,1,2,8,9,6,2,0,133.33,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,21 Apr 2024,v Punjab Kings,New Chandigarh,2,2,35,39,29,5,0,120.68,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Apr 2024,v DC,Delhi,2,2,6,7,5,1,0,120,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,28 Apr 2024,v RCB,Ahmedabad,1,2,16,35,19,1,0,84.21,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,4 May 2024,v RCB,Bengaluru,1,2,2,20,7,0,0,28.57,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,10 May 2024,v CSK,Ahmedabad,1,2,104,89,55,9,6,189.09,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,6 Jul 2024,v Zimbabwe,Harare,2,2,31,53,29,5,0,106.89,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,7 Jul 2024,v Zimbabwe,Harare,1,1,2,5,4,0,0,50,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,10 Jul 2024,v Zimbabwe,Harare,1,2,66,74,49,7,3,134.69,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,13 Jul 2024,v Zimbabwe,Harare,2,2,58*,66,39,6,2,148.71,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,14 Jul 2024,v Zimbabwe,Harare,1,2,13,25,14,2,0,92.85,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,27 Jul 2024,v Sri Lanka,Pallekele,1,2,34,28,16,6,1,212.5,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,30 Jul 2024,v Sri Lanka,Pallekele,1,2,39,73,37,3,0,105.4,stumped,2,DNB,-,-,-,-
+1070173,Shubman Gill,25 Mar 2025,v Punjab Kings,Ahmedabad,2,2,33,26,14,2,3,235.71,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 Mar 2025,v MI,Ahmedabad,1,2,38,40,27,4,1,140.74,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,2 Apr 2025,v RCB,Bengaluru,2,2,14,21,14,1,1,100,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,6 Apr 2025,v SRH,Hyderabad,2,2,61*,82,43,9,0,141.86,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,9 Apr 2025,v RR,Ahmedabad,1,2,2,11,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,12 Apr 2025,v LSG,Lucknow,1,2,60,57,38,6,1,157.89,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,19 Apr 2025,v DC,Ahmedabad,2,2,7,9,5,1,0,140,run out,1,DNB,-,-,-,-
+1070173,Shubman Gill,21 Apr 2025,v KKR,Eden Gardens,1,2,90,80,55,10,3,163.63,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,28 Apr 2025,v RR,Jaipur,1,2,84,77,50,5,4,168,caught,2,sub,-,-,-,-
+1070173,Shubman Gill,2 May 2025,v SRH,Ahmedabad,1,2,76,65,38,10,2,200,run out,2,DNB,-,-,-,-
+1070173,Shubman Gill,6 May 2025,v MI,Wankhede,2,2,43,75,46,3,1,93.47,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,18 May 2025,v DC,Delhi,2,2,93*,80,53,3,7,175.47,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,22 May 2025,v LSG,Ahmedabad,2,2,35,40,20,7,0,175,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,25 May 2025,v CSK,Ahmedabad,2,2,13,11,9,1,1,144.44,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,30 May 2025,v MI,New Chandigarh,2,2,1,4,2,0,0,50,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,10 Sep 2025,v U.A.E.,Dubai (DICS),2,2,20*,22,9,2,1,222.22,not out,1,DNB,-,-,-,-
+1070173,Shubman Gill,14 Sep 2025,v Pakistan,Dubai (DICS),2,2,10,8,7,2,0,142.85,stumped,1,DNB,-,-,-,-
+1070173,Shubman Gill,19 Sep 2025,v Oman,Abu Dhabi,1,2,5,7,8,1,0,62.5,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,21 Sep 2025,v Pakistan,Dubai (DICS),2,2,47,50,28,8,0,167.85,bowled,1,DNB,-,-,-,-
+1070173,Shubman Gill,24 Sep 2025,v Bangladesh,Dubai (DICS),1,2,29,31,19,2,1,152.63,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,26 Sep 2025,v Sri Lanka,Dubai (DICS),1,2,4,9,3,1,0,133.33,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,28 Sep 2025,v Pakistan,Dubai (DICS),2,2,12,29,10,1,0,120,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,29 Oct 2025,v Australia,Canberra,1,2,37*,57,20,4,1,185,not out,-,TDNB,-,-,-,-
+1070173,Shubman Gill,31 Oct 2025,v Australia,Melbourne,1,1,5,16,10,0,0,50,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,2 Nov 2025,v Australia,Hobart,2,2,15,30,12,1,0,125,lbw,1,DNB,-,-,-,-
+1070173,Shubman Gill,6 Nov 2025,v Australia,Carrara,1,2,46,72,39,4,1,117.94,bowled,2,DNB,-,-,-,-
+1070173,Shubman Gill,8 Nov 2025,v Australia,Brisbane,1,2,29*,21,16,6,0,181.25,not out,-,TDNB,-,-,-,-
+1070173,Shubman Gill,9 Dec 2025,v South Africa,Cuttack,1,2,4,3,2,1,0,200,caught,2,DNB,-,-,-,-
+1070173,Shubman Gill,11 Dec 2025,v South Africa,New Chandigarh,2,2,0,4,1,0,0,0,caught,1,DNB,-,-,-,-
+1070173,Shubman Gill,14 Dec 2025,v South Africa,Dharamsala,2,2,28,56,28,5,0,100,bowled,1,DNB,-,-,-,-

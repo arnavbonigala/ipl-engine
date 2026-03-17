@@ -1,0 +1,47 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1132219,Sanvir Singh,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+1132219,Sanvir Singh,5 Nov 2021,v Maharashtra,Lucknow,1,7,28*,-,18,0,2,155.55,not out,2,3.0,0,20,1,6.66
+1132219,Sanvir Singh,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1132219,Sanvir Singh,8 Nov 2021,v Odisha,Lucknow,1,6,3*,-,3,0,0,100,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,9 Nov 2021,v Tamil Nadu,Lucknow,1,7,1,1,2,0,0,50,caught,2,DNB,-,-,-,-
+1132219,Sanvir Singh,11 Oct 2022,v Hyderabad,Jaipur,1,5,55*,-,19,3,5,289.47,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,12 Oct 2022,v Delhi,Jaipur,2,5,16*,-,12,2,0,133.33,not out,1,1.0,0,17,0,17
+1132219,Sanvir Singh,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+1132219,Sanvir Singh,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1132219,Sanvir Singh,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+1132219,Sanvir Singh,20 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+1132219,Sanvir Singh,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1132219,Sanvir Singh,30 Oct 2022,v Haryana,Eden Gardens,1,4,17,14,9,1,1,188.88,caught,2,DNB,-,-,-,-
+1132219,Sanvir Singh,1 Nov 2022,v Karnataka,Eden Gardens,1,5,27*,20,13,2,2,207.69,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,3 Nov 2022,v Himachal,Eden Gardens,2,7,4,-,5,0,0,80,bowled,1,2.0,0,17,2,8.5
+1132219,Sanvir Singh,15 May 2023,v GT,Ahmedabad,2,6,7,12,6,0,1,116.66,caught,1,DNB,-,-,-,-
+1132219,Sanvir Singh,21 May 2023,v MI,Wankhede,1,7,4*,8,3,1,0,133.33,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,16 Oct 2023,v Saurashtra,Ranchi,2,7,2,-,3,0,0,66.66,caught,1,4.0,0,43,1,10.75
+1132219,Sanvir Singh,17 Oct 2023,v Andhra,Ranchi,1,6,15*,-,6,3,0,250,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,19 Oct 2023,v Railways,Ranchi,1,6,22*,-,14,3,1,157.14,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1132219,Sanvir Singh,23 Oct 2023,v Gujarat,Ranchi,1,4,48,-,22,1,5,218.18,caught,2,2.0,0,26,1,13
+1132219,Sanvir Singh,25 Oct 2023,v Goa,Ranchi,1,6,16,-,9,0,2,177.77,caught,2,DNB,-,-,-,-
+1132219,Sanvir Singh,2 Nov 2023,v UP,Mohali,2,6,35*,-,13,4,2,269.23,not out,1,DNB,-,-,-,-
+1132219,Sanvir Singh,4 Nov 2023,v Delhi,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1132219,Sanvir Singh,6 Nov 2023,v Baroda,Mohali,1,6,4*,-,1,1,0,400,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,6 May 2024,v MI,Wankhede,1,10,8*,16,7,0,0,114.28,not out,2,DNB,-,-,-,-
+1132219,Sanvir Singh,8 May 2024,v LSG,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1132219,Sanvir Singh,19 May 2024,v Punjab Kings,Hyderabad,2,8,6*,3,4,1,0,150,not out,1,DNB,-,-,-,-
+1132219,Sanvir Singh,21 May 2024,v KKR,Ahmedabad,1,8,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+1132219,Sanvir Singh,23 Nov 2024,v Bengal,Rajkot,1,6,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+1132219,Sanvir Singh,25 Nov 2024,v Bihar,Rajkot,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,0,4
+1132219,Sanvir Singh,27 Nov 2024,v M. Pradesh,Rajkot,2,6,22*,-,14,2,0,157.14,not out,1,1.0,0,16,0,16
+1132219,Sanvir Singh,1 Dec 2024,v Hyderabad,Saurashtra,1,6,24,-,14,3,0,171.42,caught,2,2.0,0,14,0,7
+1132219,Sanvir Singh,3 Dec 2024,v Rajasthan,Saurashtra,2,6,19*,-,11,1,1,172.72,not out,1,1.0,0,9,1,9
+1132219,Sanvir Singh,5 Dec 2024,v Meghalaya,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1132219,Sanvir Singh,26 Nov 2025,v Himachal,Hyderabad,2,6,23,-,11,3,1,209.09,caught,1,2.0,0,15,1,7.5
+1132219,Sanvir Singh,28 Nov 2025,v Haryana,Hyderabad,2,7,30*,-,16,2,2,187.5,not out,1,1.0,0,16,0,16
+1132219,Sanvir Singh,30 Nov 2025,v Bengal,Hyderabad,1,5,22,-,9,2,2,244.44,caught,2,DNB,-,-,-,-
+1132219,Sanvir Singh,2 Dec 2025,v Baroda,Hyderabad,1,7,16,-,11,1,1,145.45,caught,2,4.0,0,44,0,11
+1132219,Sanvir Singh,4 Dec 2025,v Puducherry,Hyderabad,1,5,38,-,22,4,2,172.72,caught,2,1.0,0,2,1,2
+1132219,Sanvir Singh,6 Dec 2025,v Services,Hyderabad,1,7,1*,-,1,0,0,100,not out,2,3.0,0,29,2,9.66
+1132219,Sanvir Singh,8 Dec 2025,v Gujarat,Hyderabad,1,6,30,-,17,1,3,176.47,caught,2,2.0,0,11,2,5.5
+1132219,Sanvir Singh,12 Dec 2025,v Jharkhand,Ambi,1,6,10,-,9,1,0,111.11,caught,2,4.0,0,40,1,10
+1132219,Sanvir Singh,14 Dec 2025,v Andhra,Pune,1,7,1*,-,1,0,0,100,not out,2,1.0,0,18,0,18
+1132219,Sanvir Singh,16 Dec 2025,v M. Pradesh,Ambi,2,7,5,-,2,1,0,250,run out,1,2.0,0,25,0,12.5

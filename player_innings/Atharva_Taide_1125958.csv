@@ -1,0 +1,61 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1125958,Atharva Taide,21 Feb 2019,v Himachal,Surat,2,1,43,-,16,8,1,268.75,run out,1,DNB,-,-,-,-
+1125958,Atharva Taide,22 Feb 2019,v Bihar,Surat,2,1,15,-,12,3,0,125,bowled,1,DNB,-,-,-,-
+1125958,Atharva Taide,25 Feb 2019,v Rajasthan,Surat,1,1,23,-,16,3,1,143.75,caught,2,3.0,0,16,2,5.33
+1125958,Atharva Taide,27 Feb 2019,v Meghalaya,Surat,1,1,4,-,7,1,0,57.14,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,28 Feb 2019,v Tamil Nadu,Surat,1,1,7,-,14,1,0,50,caught,2,3.0,0,20,0,6.66
+1125958,Atharva Taide,2 Mar 2019,v Gujarat,Surat,2,1,8,-,6,1,0,133.33,caught,1,4.0,0,16,2,4
+1125958,Atharva Taide,8 Mar 2019,v Delhi,Indore,2,1,32*,-,22,5,0,145.45,not out,1,1.0,0,2,1,2
+1125958,Atharva Taide,10 Mar 2019,v UP,Indore,1,1,41,48,37,3,2,110.81,caught,2,2.0,0,18,0,9
+1125958,Atharva Taide,11 Mar 2019,v Mumbai,Indore,1,1,4,18,7,0,0,57.14,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,12 Mar 2019,v Karnataka,Indore,1,1,28,45,26,3,0,107.69,run out,2,DNB,-,-,-,-
+1125958,Atharva Taide,11 Jan 2021,v Rajasthan,Indore,1,2,4,4,3,1,0,133.33,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,13 Jan 2021,v Saurashtra,Indore,2,2,13,-,12,3,0,108.33,caught,1,1.0,0,32,0,32
+1125958,Atharva Taide,15 Jan 2021,v M. Pradesh,Indore,2,2,15,-,16,3,0,93.75,bowled,1,DNB,-,-,-,-
+1125958,Atharva Taide,5 Nov 2021,v Nagaland,Mulapadu,2,2,21,34,20,0,2,105,bowled,1,2.0,0,7,0,3.5
+1125958,Atharva Taide,6 Nov 2021,v Meghalaya,Mulapadu,2,2,40*,47,38,2,2,105.26,not out,1,2.0,0,6,0,3
+1125958,Atharva Taide,8 Nov 2021,v Manipur,Mangalagiri,1,1,46,29,21,7,2,219.04,caught,2,1.0,1,0,2,0
+1125958,Atharva Taide,9 Nov 2021,v Sikkim,Mangalagiri,1,2,35,38,22,4,1,159.09,run out,2,2.0,1,2,2,1
+1125958,Atharva Taide,16 Nov 2021,v Maharashtra,Delhi,2,2,56,-,38,6,1,147.36,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,18 Nov 2021,v Rajasthan,Delhi,2,1,40*,-,42,4,0,95.23,not out,1,3.0,0,9,1,3
+1125958,Atharva Taide,20 Nov 2021,v Karnataka,Delhi,2,1,32,-,16,3,2,200,caught,1,1.0,0,6,0,6
+1125958,Atharva Taide,11 Oct 2022,v Assam,Saurashtra,2,1,10,-,9,2,0,111.11,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,12 Oct 2022,v Rajasthan,Rajkot,1,1,43,-,24,5,3,179.16,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,14 Oct 2022,v Mizoram,Saurashtra,1,1,22,-,18,2,1,122.22,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,16 Oct 2022,v Mumbai,Saurashtra,2,1,28,-,23,4,0,121.73,lbw,1,DNB,-,-,-,-
+1125958,Atharva Taide,18 Oct 2022,v Uttarakhand,Rajkot,1,1,36,-,27,1,3,133.33,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,20 Oct 2022,v M. Pradesh,Saurashtra,1,1,30,-,17,5,0,176.47,bowled,2,DNB,-,-,-,-
+1125958,Atharva Taide,22 Oct 2022,v Railways,Rajkot,2,1,31,-,28,3,0,110.71,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,30 Oct 2022,v Chhattisgarh,Kolkata,2,1,4,-,8,0,0,50,run out,1,DNB,-,-,-,-
+1125958,Atharva Taide,1 Nov 2022,v Delhi,Kolkata,1,1,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,3 Nov 2022,v Mumbai,Eden Gardens,1,1,29,-,22,3,1,131.81,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,15 Apr 2023,v LSG,Lucknow,2,1,0,3,3,0,0,0,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,20 Apr 2023,v RCB,Mohali,2,1,4,5,2,1,0,200,lbw,1,DNB,-,-,-,-
+1125958,Atharva Taide,22 Apr 2023,v MI,Wankhede,1,3,29,38,17,3,1,170.58,bowled,2,DNB,-,-,-,-
+1125958,Atharva Taide,28 Apr 2023,v LSG,Mohali,2,3,66,67,36,8,2,183.33,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,30 Apr 2023,v CSK,Chennai,2,3,13,26,17,0,0,76.47,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,17 May 2023,v DC,Dharamsala,2,3,55,67,42,5,2,130.95,retired out,1,DNB,-,-,-,-
+1125958,Atharva Taide,19 May 2023,v RR,Dharamsala,1,3,19,19,12,3,1,158.33,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,16 Oct 2023,v Uttarakhand,New Chandigarh,2,1,15,-,9,2,1,166.66,caught,1,1.0,0,15,0,15
+1125958,Atharva Taide,19 Oct 2023,v Rajasthan,Mohali,2,1,54,-,29,4,3,186.2,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,21 Oct 2023,v Bengal,Mohali,2,1,30,-,15,5,1,200,lbw,1,DNB,-,-,-,-
+1125958,Atharva Taide,23 Oct 2023,v Puducherry,New Chandigarh,1,1,97,-,58,11,3,167.24,run out,2,DNB,-,-,-,-
+1125958,Atharva Taide,25 Oct 2023,v Maharashtra,Mohali,1,1,37,-,16,6,1,231.25,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,27 Oct 2023,v Jharkhand,Mohali,2,1,40,-,23,5,1,173.91,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,2 Nov 2023,v Delhi,New Chandigarh,2,1,29,-,28,3,1,103.57,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,13 Apr 2024,v RR,New Chandigarh,1,1,15,19,12,2,0,125,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,19 May 2024,v SRH,Hyderabad,1,1,46,39,27,5,2,170.37,caught,2,0.1,0,4,0,24
+1125958,Atharva Taide,23 Nov 2024,v Odisha,Visakhapatnam,1,1,4,-,4,1,0,100,caught,2,1.5,0,14,1,7.63
+1125958,Atharva Taide,25 Nov 2024,v Chandigarh,Visakhapatnam,2,1,31,-,22,4,1,140.9,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,27 Nov 2024,v Puducherry,Vizianagaram,2,1,49*,-,35,6,1,140,not out,1,DNB,-,-,-,-
+1125958,Atharva Taide,29 Nov 2024,v Assam,Visakhapatnam,2,1,5,-,4,1,0,125,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,3 Dec 2024,v Chhattisgarh,Vizianagaram,1,1,34,-,27,5,0,125.92,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,11 Dec 2024,v Mumbai,Alur,1,1,66,-,41,10,1,160.97,lbw,2,DNB,-,-,-,-
+1125958,Atharva Taide,19 May 2025,v LSG,Lucknow,2,1,13,9,9,3,0,144.44,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,26 Nov 2025,v Chhattisgarh,Lucknow,2,1,13,-,12,2,0,108.33,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,28 Nov 2025,v Mumbai,Lucknow,1,1,64,-,36,9,1,177.77,caught,2,DNB,-,-,-,-
+1125958,Atharva Taide,30 Nov 2025,v Odisha,Lucknow,2,1,16,-,9,2,1,177.77,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,2 Dec 2025,v Kerala,Lucknow,2,1,54,-,36,7,2,150,caught,1,DNB,-,-,-,-
+1125958,Atharva Taide,4 Dec 2025,v Assam,Lucknow,2,1,0,-,1,0,0,0,lbw,1,2.0,0,11,0,5.5
+1125958,Atharva Taide,6 Dec 2025,v Railways,Lucknow,1,1,19,-,17,3,0,111.76,bowled,2,DNB,-,-,-,-
+1125958,Atharva Taide,8 Dec 2025,v Andhra,Lucknow,1,1,14,-,15,2,0,93.33,caught,2,1.0,0,12,0,12

@@ -1,0 +1,57 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+230554,Javon Searles,25 Jul 2010,v Windward Is,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,4,4.75
+230554,Javon Searles,30 Jul 2010,v Jamaica,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,1,11.66
+230554,Javon Searles,31 Jul 2010,v Guyana,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,3.5,0,26,0,6.78
+230554,Javon Searles,11 Jan 2011,v Leeward Is,North Sound,2,7,15,-,11,1,1,136.36,lbw,1,4.0,0,14,2,3.5
+230554,Javon Searles,13 Jan 2011,v Hampshire,North Sound,2,6,8,-,8,1,0,100,caught,1,2.0,0,22,0,11
+230554,Javon Searles,19 Jan 2011,v Canada,Bridgetown,1,7,2,-,4,0,0,50,bowled,2,3.0,1,5,4,1.66
+230554,Javon Searles,21 Jan 2011,v Trinidad & T,Bridgetown,2,9,6,-,13,0,0,46.15,caught,1,4.0,0,20,1,5
+230554,Javon Searles,21 Jan 2012,v Trinidad & T,Bridgetown,1,8,7,-,9,1,0,77.77,caught,2,DNB,-,-,-,-
+230554,Javon Searles,16 Jan 2013,v Trinidad & T,Gros Islet,1,7,11,-,9,2,0,122.22,caught,2,2.1,1,4,0,1.84
+230554,Javon Searles,17 Jan 2013,v Windward Is,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,1,13.5
+230554,Javon Searles,26 Jul 2014,v Tallawahs,Port of Spain,1,7,14*,-,4,0,2,350,not out,2,3.0,0,28,0,9.33
+230554,Javon Searles,27 Jul 2014,v Zouks,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,1,14
+230554,Javon Searles,2 Aug 2014,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,7 Aug 2014,v Tridents,Basseterre,2,7,4,-,8,0,0,50,caught,1,2.0,0,22,0,11
+230554,Javon Searles,9 Aug 2014,v Hawksbills,Basseterre,1,7,1,-,3,0,0,33.33,run out,2,DNB,-,-,-,-
+230554,Javon Searles,21 Jun 2015,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,4 Jul 2015,v Amazon,Basseterre,2,8,2,-,4,0,0,50,stumped,1,3.0,0,20,0,6.66
+230554,Javon Searles,9 Jul 2015,v Tallawahs,Kingston,2,8,2,-,5,0,0,40,caught,1,3.0,0,32,0,10.66
+230554,Javon Searles,11 Jul 2015,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,1,14.5
+230554,Javon Searles,14 Jul 2015,v Zouks,Port of Spain,1,4,6,-,7,0,0,85.71,caught,2,DNB,-,-,-,-
+230554,Javon Searles,16 Jul 2015,v Tridents,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230554,Javon Searles,18 Jul 2015,v Patriots,Port of Spain,1,7,0*,-,0,0,0,-,not out,2,DNB,-,-,-,-
+230554,Javon Searles,21 Jul 2015,v Amazon,Providence,1,3,6,-,9,1,0,66.66,caught,2,DNB,-,-,-,-
+230554,Javon Searles,4 Jul 2016,v Tallawahs,Port of Spain,1,5,8,-,3,2,0,266.66,run out,2,2.0,0,35,0,17.5
+230554,Javon Searles,4 Aug 2017,v Stars,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,7 Aug 2017,v Stars,Port of Spain,2,8,27*,-,20,2,2,135,not out,1,DNB,-,-,-,-
+230554,Javon Searles,9 Aug 2017,v Tallawahs,Port of Spain,1,9,2,-,8,0,0,25,caught,2,1.0,0,12,0,12
+230554,Javon Searles,11 Aug 2017,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,12 Aug 2017,v Tridents,Port of Spain,2,8,9,-,6,2,0,150,caught,1,DNB,-,-,-,-
+230554,Javon Searles,14 Aug 2017,v Patriots,Port of Spain,2,8,12*,-,6,1,1,200,not out,1,DNB,-,-,-,-
+230554,Javon Searles,19 Aug 2017,v Amazon,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,23 Aug 2017,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,26 Aug 2017,v Tallawahs,Kingston,1,6,11*,-,9,0,1,122.22,not out,2,3.0,0,27,3,9
+230554,Javon Searles,2 Sep 2017,v Tridents,Bridgetown,2,9,29,-,21,3,1,138.09,caught,1,2.0,0,18,1,9
+230554,Javon Searles,5 Sep 2017,v Patriots,Tarouba,2,9,4,-,9,0,0,44.44,caught,1,2.0,0,16,0,8
+230554,Javon Searles,7 Sep 2017,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+230554,Javon Searles,9 Sep 2017,v Patriots,Tarouba,2,8,2,-,8,0,0,25,caught,1,4.0,0,29,2,7.25
+230554,Javon Searles,12 May 2018,v Kings XI,Indore,1,8,6*,-,1,0,1,600,not out,2,4.0,0,52,1,13
+230554,Javon Searles,15 May 2018,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,19 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,1,12
+230554,Javon Searles,23 May 2018,v RR,Eden Gardens,1,8,2,-,5,0,0,40,caught,2,1.0,0,13,0,13
+230554,Javon Searles,8 Aug 2018,v Stars,Port of Spain,1,8,9*,-,3,2,0,300,not out,2,1.0,0,4,1,4
+230554,Javon Searles,10 Aug 2018,v Tallawahs,Port of Spain,1,6,6*,-,2,0,1,300,not out,2,1.0,0,18,0,18
+230554,Javon Searles,16 Aug 2018,v Stars,Gros Islet,2,6,0,-,3,0,0,0,caught,1,4.0,0,36,1,9
+230554,Javon Searles,19 Aug 2018,v Tallawahs,Lauderhill,2,7,6*,-,6,1,0,100,not out,1,DNB,-,-,-,-
+230554,Javon Searles,26 Aug 2018,v Tridents,Bridgetown,2,8,0*,-,0,0,0,-,not out,1,1.0,0,14,0,14
+230554,Javon Searles,1 Sep 2018,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230554,Javon Searles,5 Sep 2018,v Amazon,Port of Spain,1,7,8,-,6,1,0,133.33,bowled,2,DNB,-,-,-,-
+230554,Javon Searles,4 Sep 2019,v Patriots,Port of Spain,1,7,8,-,7,1,0,114.28,caught,2,DNB,-,-,-,-
+230554,Javon Searles,6 Sep 2019,v Tallawahs,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230554,Javon Searles,8 Sep 2019,v Zouks,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230554,Javon Searles,13 Sep 2019,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230554,Javon Searles,30 Sep 2019,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,3,13
+230554,Javon Searles,2 Oct 2019,v Tridents,Port of Spain,1,7,0,-,1,0,0,0,run out,2,DNB,-,-,-,-
+230554,Javon Searles,4 Oct 2019,v Amazon,Providence,1,2,1,-,5,0,0,20,bowled,2,DNB,-,-,-,-
+230554,Javon Searles,10 Oct 2019,v Tridents,Tarouba,2,8,1,-,4,0,0,25,caught,1,2.0,0,16,0,8

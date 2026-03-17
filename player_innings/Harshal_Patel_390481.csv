@@ -1,0 +1,218 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+390481,Harshal Patel,20 Oct 2011,v Punjab,Rohtak,2,10,7*,11,11,0,0,63.63,not out,1,3.0,0,24,0,8
+390481,Harshal Patel,21 Oct 2011,v Services,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+390481,Harshal Patel,22 Oct 2011,v J & K,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,2,2.5
+390481,Harshal Patel,24 Oct 2011,v Delhi,Rohtak,1,10,0*,1,0,0,0,-,not out,2,3.0,0,16,0,5.33
+390481,Harshal Patel,25 Oct 2011,v Himachal,Rohtak,2,10,0*,1,0,0,0,-,not out,1,3.3,0,9,2,2.57
+390481,Harshal Patel,7 Apr 2012,v Daredevils,Bengaluru,1,9,0,1,1,0,0,0,bowled,2,2.0,0,10,0,5
+390481,Harshal Patel,10 Apr 2012,v KKR,Bengaluru,2,9,10,15,9,1,0,111.11,bowled,1,4.0,0,46,1,11.5
+390481,Harshal Patel,17 Apr 2012,v Warriors,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+390481,Harshal Patel,20 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+390481,Harshal Patel,23 Apr 2012,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+390481,Harshal Patel,25 Apr 2012,v CSK,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+390481,Harshal Patel,28 Apr 2012,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+390481,Harshal Patel,9 May 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+390481,Harshal Patel,11 May 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+390481,Harshal Patel,14 May 2012,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+390481,Harshal Patel,17 May 2012,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+390481,Harshal Patel,20 May 2012,v Chargers,Hyderabad,2,9,5*,-,5,0,0,100,not out,1,4.0,0,26,0,6.5
+390481,Harshal Patel,17 Mar 2013,v Punjab,Rohtak,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,2,3.5
+390481,Harshal Patel,18 Mar 2013,v Himachal,Rohtak,1,9,0,1,1,0,0,0,caught,2,3.0,0,21,0,7
+390481,Harshal Patel,19 Mar 2013,v Services,Rohtak,1,9,8,6,6,0,1,133.33,caught,2,4.0,1,14,0,3.5
+390481,Harshal Patel,21 Mar 2013,v Delhi,Rohtak,2,4,2,3,3,0,0,66.66,caught,1,4.0,0,19,1,4.75
+390481,Harshal Patel,22 Mar 2013,v J & K,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+390481,Harshal Patel,1 Apr 2014,v Punjab,Mohali,1,9,7,5,6,0,1,116.66,bowled,2,4.0,0,35,3,8.75
+390481,Harshal Patel,2 Apr 2014,v Services,Mohali,1,8,20,11,10,0,2,200,run out,2,3.0,0,36,0,12
+390481,Harshal Patel,3 Apr 2014,v J & K,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+390481,Harshal Patel,4 Apr 2014,v Delhi,Chandigarh,1,8,4*,8,6,0,0,66.66,not out,2,3.3,0,32,1,9.14
+390481,Harshal Patel,5 Apr 2014,v Himachal,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+390481,Harshal Patel,4 May 2014,v SRH,Bengaluru,2,8,1*,3,2,0,0,50,not out,1,4.0,0,29,1,7.25
+390481,Harshal Patel,6 May 2014,v MI,Wankhede,2,8,6,6,2,0,1,300,bowled,1,4.0,0,28,1,7
+390481,Harshal Patel,9 May 2014,v Kings XI,Bengaluru,2,9,6,6,3,1,0,200,caught,1,3.0,0,56,2,18.66
+390481,Harshal Patel,24 Mar 2015,v Punjab,Delhi,1,7,4,3,2,1,0,200,caught,2,3.0,0,22,0,7.33
+390481,Harshal Patel,25 Mar 2015,v Himachal,Delhi,2,7,6,2,2,0,1,300,caught,1,4.0,0,28,0,7
+390481,Harshal Patel,26 Mar 2015,v Services,Delhi,2,7,2,3,3,0,0,66.66,caught,1,4.0,0,36,0,9
+390481,Harshal Patel,27 Mar 2015,v Delhi,Delhi,1,9,1*,1,2,0,0,50,not out,2,4.0,0,18,1,4.5
+390481,Harshal Patel,28 Mar 2015,v J & K,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+390481,Harshal Patel,11 Apr 2015,v KKR,Eden Gardens,2,8,9*,16,4,0,1,225,not out,1,4.0,0,37,1,9.25
+390481,Harshal Patel,13 Apr 2015,v SRH,Bengaluru,1,8,2,2,2,0,0,100,caught,2,2.0,0,23,0,11.5
+390481,Harshal Patel,22 Apr 2015,v CSK,Bengaluru,2,8,0,1,1,0,0,0,caught,1,4.0,0,28,1,7
+390481,Harshal Patel,24 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+390481,Harshal Patel,26 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+390481,Harshal Patel,29 Apr 2015,v RR,Bengaluru,1,8,6,6,2,0,1,300,run out,-,TDNB,-,-,-,-
+390481,Harshal Patel,2 May 2015,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+390481,Harshal Patel,4 May 2015,v CSK,Chennai,2,8,0,1,1,0,0,0,caught,1,4.0,0,19,2,4.75
+390481,Harshal Patel,6 May 2015,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+390481,Harshal Patel,10 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+390481,Harshal Patel,13 May 2015,v Kings XI,Mohali,2,8,0*,-,0,0,0,-,not out,1,2.0,0,12,2,6
+390481,Harshal Patel,15 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,30,0,15
+390481,Harshal Patel,17 May 2015,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+390481,Harshal Patel,20 May 2015,v RR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,2,5
+390481,Harshal Patel,22 May 2015,v CSK,Ranchi,1,8,2,7,2,0,0,100,run out,2,3.5,0,26,1,6.78
+390481,Harshal Patel,2 Jan 2016,v Tamil Nadu,Nagpur,1,7,17,26,13,0,1,130.76,caught,2,3.0,0,26,0,8.66
+390481,Harshal Patel,4 Jan 2016,v Vidarbha,Nagpur,1,2,20,15,9,1,2,222.22,caught,2,4.0,0,38,1,9.5
+390481,Harshal Patel,6 Jan 2016,v Hyderabad,Nagpur,2,2,1,4,3,0,0,33.33,bowled,1,4.0,0,18,1,4.5
+390481,Harshal Patel,7 Jan 2016,v Himachal,Nagpur,1,2,26,20,15,1,3,173.33,caught,2,4.0,0,33,1,8.25
+390481,Harshal Patel,9 Jan 2016,v Bengal,Nagpur,1,2,5,7,7,1,0,71.42,caught,2,4.0,0,16,2,4
+390481,Harshal Patel,10 Jan 2016,v Gujarat,Nagpur,1,2,0,8,4,0,0,0,caught,2,1.0,0,15,0,15
+390481,Harshal Patel,12 Apr 2016,v SRH,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+390481,Harshal Patel,17 Apr 2016,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+390481,Harshal Patel,20 Apr 2016,v MI,Wankhede,1,8,0*,3,0,0,0,-,not out,2,2.0,0,20,0,10
+390481,Harshal Patel,22 Apr 2016,v Supergiants,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+390481,Harshal Patel,30 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,1.0,0,16,0,16
+390481,Harshal Patel,29 Jan 2017,v Punjab,Nadaun,1,8,4*,6,5,1,0,80,not out,2,2.0,0,24,0,12
+390481,Harshal Patel,30 Jan 2017,v Himachal,Dharamsala,1,9,5*,11,6,0,0,83.33,not out,2,4.0,0,33,0,8.25
+390481,Harshal Patel,31 Jan 2017,v Services,Dharamsala,1,9,0*,1,0,0,0,-,not out,2,4.0,0,30,1,7.5
+390481,Harshal Patel,1 Feb 2017,v Delhi,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+390481,Harshal Patel,2 Feb 2017,v J & K,Nadaun,2,7,0,1,0,0,0,-,run out,1,4.0,0,36,1,9
+390481,Harshal Patel,14 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,3,10.75
+390481,Harshal Patel,8 Jan 2018,v Himachal,Delhi,2,1,73,47,32,7,5,228.12,caught,1,4.0,0,35,0,8.75
+390481,Harshal Patel,10 Jan 2018,v Delhi,Delhi,1,1,10,13,7,2,0,142.85,bowled,2,2.0,0,20,1,10
+390481,Harshal Patel,12 Jan 2018,v Punjab,Delhi,2,1,31,27,19,5,1,163.15,caught,1,4.0,0,41,1,10.25
+390481,Harshal Patel,13 Jan 2018,v J & K,Delhi,1,1,28,27,23,6,0,121.73,caught,2,4.0,0,18,2,4.5
+390481,Harshal Patel,15 Jan 2018,v Services,Delhi,2,1,4,6,8,1,0,50,bowled,1,4.0,0,26,2,6.5
+390481,Harshal Patel,21 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+390481,Harshal Patel,10 May 2018,v SRH,Delhi,1,5,24,-,17,0,2,141.17,run out,2,4.0,0,32,1,8
+390481,Harshal Patel,12 May 2018,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,1,12.75
+390481,Harshal Patel,18 May 2018,v CSK,Delhi,1,7,36*,-,16,1,4,225,not out,2,4.0,0,23,1,5.75
+390481,Harshal Patel,20 May 2018,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.3,0,28,3,11.2
+390481,Harshal Patel,30 Mar 2019,v KKR,Delhi,2,7,0*,1,0,0,0,-,not out,1,4.0,0,40,2,10
+390481,Harshal Patel,1 Apr 2019,v Kings XI,Mohali,2,8,0,2,2,0,0,0,caught,1,4.0,0,37,0,9.25
+390481,Harshal Patel,9 Nov 2019,v Mumbai,Wankhede,1,2,33,-,27,2,2,122.22,caught,2,2.0,0,17,0,8.5
+390481,Harshal Patel,11 Nov 2019,v Assam,Mumbai,2,2,62,-,34,9,3,182.35,caught,1,4.0,0,30,2,7.5
+390481,Harshal Patel,12 Nov 2019,v Bengal,Mumbai,2,2,35,-,27,5,1,129.62,stumped,1,4.0,0,19,1,4.75
+390481,Harshal Patel,14 Nov 2019,v Puducherry,Mumbai,2,2,16,-,13,3,0,123.07,caught,1,4.0,0,14,3,3.5
+390481,Harshal Patel,15 Nov 2019,v Mizoram,Wankhede,2,2,39,-,16,5,3,243.75,caught,1,2.0,0,13,1,6.5
+390481,Harshal Patel,17 Nov 2019,v M. Pradesh,Mumbai,2,2,0,-,1,0,0,0,bowled,1,4.0,0,34,3,8.5
+390481,Harshal Patel,18 Nov 2019,v Meghalaya,Mumbai,1,2,82,-,40,5,7,205,caught,2,4.0,0,22,3,5.5
+390481,Harshal Patel,22 Nov 2019,v Rajasthan,Surat,2,2,41,-,25,3,4,164,caught,1,4.0,0,19,1,4.75
+390481,Harshal Patel,24 Nov 2019,v Delhi,Surat,1,2,5,-,6,1,0,83.33,caught,2,4.0,0,27,2,6.75
+390481,Harshal Patel,25 Nov 2019,v Baroda,Surat,2,2,5,-,6,1,0,83.33,caught,1,4.0,0,37,1,9.25
+390481,Harshal Patel,27 Nov 2019,v Maharashtra,Surat,2,2,22,-,11,3,1,200,bowled,1,4.0,0,43,1,10.75
+390481,Harshal Patel,29 Nov 2019,v Karnataka,Surat,1,2,34,-,20,6,1,170,caught,2,3.0,0,28,1,9.33
+390481,Harshal Patel,3 Oct 2020,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+390481,Harshal Patel,5 Oct 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+390481,Harshal Patel,9 Oct 2020,v RR,Sharjah,1,7,16,-,15,1,0,106.66,caught,2,4.0,0,29,1,7.25
+390481,Harshal Patel,11 Oct 2020,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+390481,Harshal Patel,31 Oct 2020,v MI,Dubai (DICS),1,7,5,-,9,1,0,55.55,lbw,2,1.0,0,8,0,8
+390481,Harshal Patel,9 Apr 2021,v MI,Chennai,2,9,4*,11,3,0,0,133.33,not out,1,4.0,0,27,5,6.75
+390481,Harshal Patel,14 Apr 2021,v SRH,Chennai,1,9,0*,6,0,0,0,-,not out,2,4.0,0,25,2,6.25
+390481,Harshal Patel,18 Apr 2021,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+390481,Harshal Patel,22 Apr 2021,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,3,11.75
+390481,Harshal Patel,25 Apr 2021,v CSK,Wankhede,2,8,0,8,8,0,0,0,bowled,1,4.0,0,51,3,12.75
+390481,Harshal Patel,27 Apr 2021,v DC,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+390481,Harshal Patel,30 Apr 2021,v Punjab Kings,Ahmedabad,2,9,31,22,13,3,2,238.46,caught,1,4.0,0,53,0,13.25
+390481,Harshal Patel,20 Sep 2021,v KKR,Abu Dhabi,1,9,12,14,10,2,0,120,bowled,2,2.0,0,13,0,6.5
+390481,Harshal Patel,24 Sep 2021,v CSK,Sharjah,1,6,3,10,5,0,0,60,caught,2,3.1,0,25,2,7.89
+390481,Harshal Patel,26 Sep 2021,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.1,0,17,4,5.36
+390481,Harshal Patel,29 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+390481,Harshal Patel,3 Oct 2021,v Punjab Kings,Sharjah,1,9,1*,1,1,0,0,100,not out,2,4.0,0,27,0,6.75
+390481,Harshal Patel,6 Oct 2021,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+390481,Harshal Patel,8 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+390481,Harshal Patel,11 Oct 2021,v KKR,Sharjah,1,8,8*,9,6,1,0,133.33,not out,2,4.0,0,19,2,4.75
+390481,Harshal Patel,4 Nov 2021,v Himachal,Vadodara,2,2,4,5,3,1,0,133.33,caught,1,4.0,0,27,3,6.75
+390481,Harshal Patel,5 Nov 2021,v Andhra,Vadodara,2,2,21,40,13,2,1,161.53,caught,1,4.0,0,45,2,11.25
+390481,Harshal Patel,6 Nov 2021,v J & K,Vadodara,1,1,20,24,15,3,1,133.33,caught,2,2.0,0,17,0,8.5
+390481,Harshal Patel,8 Nov 2021,v Jharkhand,Vadodara,2,2,26,24,14,4,1,185.71,caught,1,4.0,0,30,1,7.5
+390481,Harshal Patel,9 Nov 2021,v Rajasthan,Vadodara,2,1,14,12,7,2,1,200,caught,1,4.0,0,41,2,10.25
+390481,Harshal Patel,19 Nov 2021,v New Zealand,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+390481,Harshal Patel,21 Nov 2021,v New Zealand,Eden Gardens,1,8,18,15,11,2,1,163.63,hit wicket,2,3.0,0,26,2,8.66
+390481,Harshal Patel,16 Feb 2022,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+390481,Harshal Patel,18 Feb 2022,v West Indies,Eden Gardens,1,7,1*,3,1,0,0,100,not out,2,4.0,0,46,0,11.5
+390481,Harshal Patel,20 Feb 2022,v West Indies,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+390481,Harshal Patel,24 Feb 2022,v Sri Lanka,Lucknow,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+390481,Harshal Patel,26 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,1,13
+390481,Harshal Patel,27 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+390481,Harshal Patel,27 Mar 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+390481,Harshal Patel,30 Mar 2022,v KKR,DY Patil,2,9,10*,12,6,2,0,166.66,not out,1,4.0,2,11,2,2.75
+390481,Harshal Patel,5 Apr 2022,v RR,Wankhede,2,8,9*,10,4,0,1,225,not out,1,4.0,0,18,1,4.5
+390481,Harshal Patel,9 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+390481,Harshal Patel,16 Apr 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+390481,Harshal Patel,19 Apr 2022,v LSG,DY Patil,1,8,0*,1,1,0,0,0,not out,2,4.0,0,47,2,11.75
+390481,Harshal Patel,23 Apr 2022,v SRH,Brabourne,1,8,4,19,8,0,0,50,bowled,2,2.0,0,18,1,9
+390481,Harshal Patel,26 Apr 2022,v RR,Pune,2,9,8,21,11,0,1,72.72,caught,1,4.0,0,33,1,8.25
+390481,Harshal Patel,30 Apr 2022,v GT,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+390481,Harshal Patel,4 May 2022,v CSK,Pune,1,9,0,8,0,0,0,-,run out,2,4.0,0,35,3,8.75
+390481,Harshal Patel,8 May 2022,v SRH,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.2,0,20,1,6
+390481,Harshal Patel,13 May 2022,v Punjab Kings,Brabourne,2,8,11,21,7,2,0,157.14,caught,1,4.0,0,34,4,8.5
+390481,Harshal Patel,19 May 2022,v GT,Wankhede,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+390481,Harshal Patel,25 May 2022,v LSG,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+390481,Harshal Patel,27 May 2022,v RR,Ahmedabad,1,9,1,7,2,0,0,50,bowled,2,3.1,0,29,0,9.15
+390481,Harshal Patel,9 Jun 2022,v South Africa,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+390481,Harshal Patel,12 Jun 2022,v South Africa,Cuttack,1,8,12*,14,9,2,0,133.33,not out,2,3.0,0,17,1,5.66
+390481,Harshal Patel,14 Jun 2022,v South Africa,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.1,0,25,4,7.89
+390481,Harshal Patel,17 Jun 2022,v South Africa,Rajkot,1,8,1*,4,1,0,0,100,not out,2,2.0,0,3,1,1.5
+390481,Harshal Patel,19 Jun 2022,v South Africa,Bengaluru,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+390481,Harshal Patel,28 Jun 2022,v Ireland,Dublin (Malahide),1,8,0,4,1,0,0,0,bowled,2,4.0,0,54,1,13.5
+390481,Harshal Patel,3 Jul 2022,v Northants,Northampton,1,7,54,39,36,5,3,150,caught,2,3.3,0,23,2,6.57
+390481,Harshal Patel,7 Jul 2022,v England,Southampton,1,8,3,13,6,0,0,50,run out,2,3.0,0,24,1,8
+390481,Harshal Patel,9 Jul 2022,v England,Birmingham,1,8,13,9,6,1,1,216.66,caught,2,4.0,0,34,1,8.5
+390481,Harshal Patel,10 Jul 2022,v England,Nottingham,2,8,5,13,6,1,0,83.33,caught,1,4.0,0,35,2,8.75
+390481,Harshal Patel,20 Sep 2022,v Australia,Mohali,1,8,7*,10,4,1,0,175,not out,2,4.0,0,49,0,12.25
+390481,Harshal Patel,23 Sep 2022,v Australia,Nagpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,32,0,16
+390481,Harshal Patel,25 Sep 2022,v Australia,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+390481,Harshal Patel,28 Sep 2022,v South Africa,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+390481,Harshal Patel,2 Oct 2022,v South Africa,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+390481,Harshal Patel,4 Oct 2022,v South Africa,Indore,2,7,17,17,12,2,1,141.66,caught,1,4.0,0,49,0,12.25
+390481,Harshal Patel,22 Nov 2022,v New Zealand,Napier,2,-,DNB,-,-,-,-,-,-,1,3.4,0,28,1,7.63
+390481,Harshal Patel,3 Jan 2023,v Sri Lanka,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+390481,Harshal Patel,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+390481,Harshal Patel,6 Apr 2023,v KKR,Eden Gardens,2,5,0,3,2,0,0,0,bowled,1,3.0,0,38,1,12.66
+390481,Harshal Patel,10 Apr 2023,v LSG,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,2,12
+390481,Harshal Patel,15 Apr 2023,v DC,Bengaluru,1,5,6,9,4,0,1,150,caught,2,4.0,0,32,1,8
+390481,Harshal Patel,17 Apr 2023,v CSK,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.2,0,36,1,10.8
+390481,Harshal Patel,20 Apr 2023,v Punjab Kings,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.2,0,22,1,6.6
+390481,Harshal Patel,23 Apr 2023,v RR,Bengaluru,1,-,sub,-,-,-,-,-,-,2,4.0,0,32,3,8
+390481,Harshal Patel,26 Apr 2023,v KKR,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,44,0,11
+390481,Harshal Patel,1 May 2023,v LSG,Lucknow,1,-,sub,-,-,-,-,-,-,2,3.5,0,20,1,5.21
+390481,Harshal Patel,6 May 2023,v DC,Delhi,1,-,sub,-,-,-,-,-,-,2,2.0,0,32,1,16
+390481,Harshal Patel,9 May 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.3,0,41,0,11.71
+390481,Harshal Patel,14 May 2023,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+390481,Harshal Patel,18 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+390481,Harshal Patel,21 May 2023,v GT,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+390481,Harshal Patel,16 Oct 2023,v Mumbai,Jaipur,1,1,38,-,27,3,2,140.74,caught,2,3.0,0,30,0,10
+390481,Harshal Patel,17 Oct 2023,v Chhattisgarh,Jaipur,1,1,21,-,18,3,0,116.66,stumped,2,2.0,0,29,0,14.5
+390481,Harshal Patel,19 Oct 2023,v J & K,Jaipur,1,1,1,-,3,0,0,33.33,lbw,2,3.3,0,16,3,4.57
+390481,Harshal Patel,21 Oct 2023,v Baroda,Jaipur,1,1,28,-,18,3,1,155.55,caught,2,2.0,0,21,0,10.5
+390481,Harshal Patel,23 Oct 2023,v Mizoram,Jaipur,1,1,30,-,26,4,0,115.38,caught,2,DNB,-,-,-,-
+390481,Harshal Patel,25 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+390481,Harshal Patel,27 Oct 2023,v Hyderabad,Jaipur,1,1,6,-,5,0,1,120,lbw,2,3.0,0,36,1,12
+390481,Harshal Patel,23 Mar 2024,v DC,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,2,11.75
+390481,Harshal Patel,25 Mar 2024,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+390481,Harshal Patel,30 Mar 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+390481,Harshal Patel,4 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+390481,Harshal Patel,9 Apr 2024,v SRH,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+390481,Harshal Patel,13 Apr 2024,v RR,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+390481,Harshal Patel,18 Apr 2024,v MI,New Chandigarh,2,10,1*,15,4,0,0,25,not out,1,4.0,0,31,3,7.75
+390481,Harshal Patel,21 Apr 2024,v GT,New Chandigarh,1,10,0,1,1,0,0,0,caught,2,3.0,0,15,3,5
+390481,Harshal Patel,26 Apr 2024,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,48,1,16
+390481,Harshal Patel,1 May 2024,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+390481,Harshal Patel,5 May 2024,v CSK,Dharamsala,2,9,12,9,13,1,1,92.3,caught,1,4.0,0,24,3,6
+390481,Harshal Patel,9 May 2024,v RCB,Dharamsala,2,9,0,5,1,0,0,0,caught,1,4.0,0,38,3,9.5
+390481,Harshal Patel,15 May 2024,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+390481,Harshal Patel,19 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,2,12.25
+390481,Harshal Patel,23 Nov 2024,v Manipur,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+390481,Harshal Patel,25 Nov 2024,v Arunachal,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,5,3
+390481,Harshal Patel,27 Nov 2024,v Delhi,Wankhede,1,8,0,-,2,0,0,0,caught,2,3.0,0,29,1,9.66
+390481,Harshal Patel,29 Nov 2024,v UP,Mumbai,1,2,2,-,6,0,0,33.33,caught,2,2.5,0,27,1,9.52
+390481,Harshal Patel,1 Dec 2024,v Jharkhand,Mumbai,1,2,18,-,18,0,2,100,caught,2,3.0,0,16,2,5.33
+390481,Harshal Patel,3 Dec 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+390481,Harshal Patel,5 Dec 2024,v J & K,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+390481,Harshal Patel,23 Mar 2025,v RR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+390481,Harshal Patel,27 Mar 2025,v LSG,Hyderabad,1,9,12*,17,11,0,0,109.09,not out,2,2.0,0,28,1,14
+390481,Harshal Patel,30 Mar 2025,v DC,Visakhapatnam,1,10,5,13,9,0,0,55.55,caught,2,3.0,0,17,0,5.66
+390481,Harshal Patel,3 Apr 2025,v KKR,Eden Gardens,2,9,3,11,5,0,0,60,caught,1,4.0,0,43,1,10.75
+390481,Harshal Patel,12 Apr 2025,v Punjab Kings,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,4,10.5
+390481,Harshal Patel,17 Apr 2025,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+390481,Harshal Patel,23 Apr 2025,v MI,Hyderabad,1,9,1*,2,1,0,0,100,not out,2,3.0,0,21,0,7
+390481,Harshal Patel,25 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,4,7
+390481,Harshal Patel,2 May 2025,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,41,0,13.66
+390481,Harshal Patel,5 May 2025,v DC,Hyderabad,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+390481,Harshal Patel,19 May 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+390481,Harshal Patel,23 May 2025,v RCB,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.5,0,39,1,10.17
+390481,Harshal Patel,25 May 2025,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+390481,Harshal Patel,26 Nov 2025,v Services,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+390481,Harshal Patel,28 Nov 2025,v Bengal,Hyderabad,1,9,1,-,2,0,0,50,run out,2,4.0,0,25,2,6.25
+390481,Harshal Patel,30 Nov 2025,v Haryana,Hyderabad,2,3,4,-,5,0,0,80,caught,1,3.3,0,26,3,7.42
+390481,Harshal Patel,6 Dec 2025,v Himachal,Hyderabad,2,9,12*,-,8,2,0,150,not out,1,4.0,0,46,2,11.5
+390481,Harshal Patel,8 Dec 2025,v Punjab,Hyderabad,2,9,5,-,3,1,0,166.66,stumped,1,4.0,0,57,0,14.25

@@ -1,0 +1,181 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+375126,Hardus Viljoen,1 Oct 2011,v North West,Benoni,1,7,5*,9,6,0,0,83.33,not out,2,4.0,0,40,0,10
+375126,Hardus Viljoen,9 Oct 2011,v Northerns,Pretoria,2,10,16*,14,10,2,0,160,not out,1,4.0,0,33,0,8.25
+375126,Hardus Viljoen,15 Jan 2012,v Namibia,Benoni,2,9,30*,16,14,0,3,214.28,not out,1,4.0,0,16,5,4
+375126,Hardus Viljoen,17 Feb 2013,v Cape Cobras,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+375126,Hardus Viljoen,20 Feb 2013,v Titans,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+375126,Hardus Viljoen,22 Feb 2013,v Dolphins,Durban,1,9,2,2,2,0,0,100,stumped,2,4.0,0,28,1,7
+375126,Hardus Viljoen,24 Feb 2013,v Warriors,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,3,3
+375126,Hardus Viljoen,2 Mar 2013,v Knights,Johannesburg,2,10,1*,3,1,0,0,100,not out,1,4.0,0,29,2,7.25
+375126,Hardus Viljoen,8 Mar 2013,v Cape Cobras,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+375126,Hardus Viljoen,12 Mar 2013,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,2,7.33
+375126,Hardus Viljoen,19 Mar 2013,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+375126,Hardus Viljoen,22 Mar 2013,v Warriors,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+375126,Hardus Viljoen,28 Mar 2013,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+375126,Hardus Viljoen,7 Apr 2013,v Titans,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+375126,Hardus Viljoen,23 Sep 2013,v Scorchers,Ahmedabad,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+375126,Hardus Viljoen,25 Sep 2013,v RR,Jaipur,2,4,24,30,21,0,2,114.28,bowled,1,4.0,0,41,0,10.25
+375126,Hardus Viljoen,27 Sep 2013,v MI,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+375126,Hardus Viljoen,29 Sep 2013,v Otago,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+375126,Hardus Viljoen,5 Jan 2014,v Warriors,Cape Town,2,9,11,13,9,1,1,122.22,caught,1,4.0,0,32,0,8
+375126,Hardus Viljoen,15 Jan 2014,v Cape Cobras,Paarl,2,9,2,6,4,0,0,50,caught,1,4.0,0,24,1,6
+375126,Hardus Viljoen,17 Jan 2014,v Titans,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+375126,Hardus Viljoen,19 Jan 2014,v Warriors,East London,2,9,2*,8,3,0,0,66.66,not out,1,2.0,0,23,0,11.5
+375126,Hardus Viljoen,22 Jan 2014,v Dolphins,Durban,2,10,13*,16,14,0,0,92.85,not out,1,3.0,0,46,0,15.33
+375126,Hardus Viljoen,24 Jan 2014,v Knights,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+375126,Hardus Viljoen,26 Jan 2014,v Titans,Benoni,1,9,18*,16,11,2,1,163.63,not out,2,3.3,0,34,1,9.71
+375126,Hardus Viljoen,31 Jan 2014,v Cape Cobras,Johannesburg,1,9,0,2,3,0,0,0,lbw,2,3.0,0,17,1,5.66
+375126,Hardus Viljoen,2 Feb 2014,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+375126,Hardus Viljoen,2 Nov 2014,v Dolphins,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+375126,Hardus Viljoen,7 Nov 2014,v Warriors,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+375126,Hardus Viljoen,9 Nov 2014,v Knights,Potchefstroom,1,9,0*,1,0,0,0,-,not out,2,4.0,0,26,2,6.5
+375126,Hardus Viljoen,14 Nov 2014,v Cape Cobras,Johannesburg,1,9,5*,3,2,1,0,250,not out,2,4.0,1,12,2,3
+375126,Hardus Viljoen,16 Nov 2014,v Warriors,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+375126,Hardus Viljoen,21 Nov 2014,v Titans,Benoni,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+375126,Hardus Viljoen,23 Nov 2014,v Cape Cobras,Cape Town,2,9,1,2,2,0,0,50,caught,1,4.0,0,25,1,6.25
+375126,Hardus Viljoen,1 Nov 2015,v Cape Cobras,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+375126,Hardus Viljoen,4 Nov 2015,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+375126,Hardus Viljoen,6 Nov 2015,v Titans,Potchefstroom,1,9,9,16,12,0,0,75,caught,2,4.0,0,25,1,6.25
+375126,Hardus Viljoen,13 Nov 2015,v Warriors,Gqeberha,2,3,0,2,2,0,0,0,caught,1,4.0,0,30,0,7.5
+375126,Hardus Viljoen,22 Nov 2015,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+375126,Hardus Viljoen,25 Nov 2015,v Knights,Potchefstroom,2,8,3*,14,6,0,0,50,not out,1,4.0,0,41,1,10.25
+375126,Hardus Viljoen,29 Nov 2015,v Cape Cobras,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+375126,Hardus Viljoen,4 Dec 2015,v Titans,Benoni,2,8,6,6,6,1,0,100,bowled,1,3.0,0,23,0,7.66
+375126,Hardus Viljoen,6 Dec 2015,v Warriors,Johannesburg,1,8,6,16,6,0,0,100,caught,2,4.0,0,16,1,4
+375126,Hardus Viljoen,12 Nov 2016,v Titans,Johannesburg,2,9,41*,31,26,3,3,157.69,not out,1,4.0,0,34,2,8.5
+375126,Hardus Viljoen,16 Nov 2016,v Dolphins,Durban,2,7,5,6,6,0,0,83.33,caught,1,4.0,0,34,2,8.5
+375126,Hardus Viljoen,20 Nov 2016,v Cape Cobras,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+375126,Hardus Viljoen,25 Nov 2016,v Warriors,Gqeberha,1,7,1*,3,2,0,0,50,not out,2,4.0,0,30,2,7.5
+375126,Hardus Viljoen,27 Nov 2016,v Dolphins,Johannesburg,1,6,14*,20,11,0,1,127.27,not out,2,4.0,0,37,3,9.25
+375126,Hardus Viljoen,2 Dec 2016,v Knights,Kimberley,1,6,11*,7,5,0,1,220,not out,2,4.0,0,24,1,6
+375126,Hardus Viljoen,4 Dec 2016,v Warriors,Durban,1,8,6,4,5,1,0,120,bowled,2,4.0,1,16,3,4
+375126,Hardus Viljoen,7 Dec 2016,v Titans,Centurion,2,7,28*,26,22,1,2,127.27,not out,1,4.0,0,47,1,11.75
+375126,Hardus Viljoen,9 Dec 2016,v Knights,Potchefstroom,1,8,1,5,4,0,0,25,bowled,2,4.0,0,25,1,6.25
+375126,Hardus Viljoen,11 Dec 2016,v Cape Cobras,Paarl,1,8,0,4,2,0,0,0,caught,2,4.0,0,23,2,5.75
+375126,Hardus Viljoen,13 Dec 2016,v Warriors,Gqeberha,1,8,1,3,1,0,0,100,run out,2,3.2,0,25,1,7.5
+375126,Hardus Viljoen,7 Jul 2017,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+375126,Hardus Viljoen,8 Jul 2017,v Yorkshire,Chesterfield,1,10,0*,2,1,0,0,0,not out,2,4.0,0,33,2,8.25
+375126,Hardus Viljoen,16 Jul 2017,v Lancashire,Manchester,1,9,0,1,1,0,0,0,caught,2,3.3,0,26,1,7.42
+375126,Hardus Viljoen,19 Jul 2017,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,1,12.33
+375126,Hardus Viljoen,21 Jul 2017,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+375126,Hardus Viljoen,23 Jul 2017,v Warwickshire,Birmingham,2,10,20,14,12,1,1,166.66,bowled,1,4.0,0,48,2,12
+375126,Hardus Viljoen,25 Jul 2017,v Lancashire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+375126,Hardus Viljoen,30 Jul 2017,v Leics,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+375126,Hardus Viljoen,3 Aug 2017,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,2,11.5
+375126,Hardus Viljoen,4 Aug 2017,v Notts,Derby,2,9,9*,7,5,0,1,180,not out,1,3.0,0,28,0,9.33
+375126,Hardus Viljoen,15 Aug 2017,v Durham,Derby,2,9,0*,1,0,0,0,-,not out,1,3.0,0,32,0,10.66
+375126,Hardus Viljoen,17 Aug 2017,v Leics,Leicester,1,9,11*,9,7,1,0,157.14,not out,2,2.0,0,23,0,11.5
+375126,Hardus Viljoen,18 Aug 2017,v Worcs,Derby,1,9,0*,1,1,0,0,0,not out,2,4.0,0,20,2,5
+375126,Hardus Viljoen,22 Aug 2017,v Hampshire,Derby,2,4,16,21,15,2,0,106.66,caught,1,4.0,0,46,0,11.5
+375126,Hardus Viljoen,17 Nov 2017,v Cape Cobras,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+375126,Hardus Viljoen,19 Nov 2017,v Dolphins,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+375126,Hardus Viljoen,24 Nov 2017,v Cape Cobras,Paarl,2,8,0*,2,2,0,0,0,not out,1,4.0,0,30,2,7.5
+375126,Hardus Viljoen,26 Nov 2017,v Warriors,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+375126,Hardus Viljoen,1 Dec 2017,v Knights,Bloemfontein,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+375126,Hardus Viljoen,8 Dec 2017,v Warriors,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+375126,Hardus Viljoen,10 Dec 2017,v Knights,Johannesburg,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+375126,Hardus Viljoen,22 Feb 2018,v Zalmi,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+375126,Hardus Viljoen,10 Mar 2018,v Kings,Dubai (DICS),2,7,2,-,7,0,0,28.57,run out,1,4.0,0,49,2,12.25
+375126,Hardus Viljoen,6 Jul 2018,v Lancashire,Derby,1,-,DNB,-,-,-,-,-,-,2,2.0,0,37,0,18.5
+375126,Hardus Viljoen,19 Jul 2018,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+375126,Hardus Viljoen,27 Jul 2018,v Leics,Leicester,2,5,32,20,16,3,2,200,caught,1,3.0,0,22,0,7.33
+375126,Hardus Viljoen,28 Jul 2018,v Yorkshire,Chesterfield,2,6,5,11,9,0,0,55.55,bowled,1,4.0,0,34,1,8.5
+375126,Hardus Viljoen,30 Jul 2018,v Yorkshire,Leeds,1,5,1,10,2,0,0,50,caught,2,4.0,0,32,3,8
+375126,Hardus Viljoen,2 Aug 2018,v Notts,Nottingham,2,7,7,10,9,0,0,77.77,bowled,1,3.0,0,18,1,6
+375126,Hardus Viljoen,3 Aug 2018,v Bears,Derby,1,9,11,12,7,2,0,157.14,caught,2,4.0,0,12,2,3
+375126,Hardus Viljoen,8 Aug 2018,v Northants,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+375126,Hardus Viljoen,9 Aug 2018,v Worcs,Worcester,2,9,0*,1,0,0,0,-,not out,1,4.0,0,25,3,6.25
+375126,Hardus Viljoen,11 Aug 2018,v Leics,Derby,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+375126,Hardus Viljoen,1 Feb 2019,v Sylhet,Mirpur,2,8,15,-,8,1,1,187.5,bowled,1,4.0,0,29,4,7.25
+375126,Hardus Viljoen,4 Feb 2019,v Dynamites,Mirpur,1,8,1,-,2,0,0,50,lbw,2,4.0,0,33,0,8.25
+375126,Hardus Viljoen,16 Feb 2019,v Kings,Dubai (DICS),1,7,8*,-,7,1,0,114.28,not out,2,4.0,0,30,1,7.5
+375126,Hardus Viljoen,17 Feb 2019,v Zalmi,Dubai (DICS),1,7,1,-,3,0,0,33.33,lbw,2,1.0,0,13,0,13
+375126,Hardus Viljoen,27 Mar 2019,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+375126,Hardus Viljoen,30 Mar 2019,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+375126,Hardus Viljoen,1 Apr 2019,v DC,Mohali,1,7,1,6,3,0,0,33.33,caught,2,3.0,0,22,1,7.33
+375126,Hardus Viljoen,10 Apr 2019,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+375126,Hardus Viljoen,20 Apr 2019,v DC,Delhi,1,9,2*,4,3,0,0,66.66,not out,2,4.0,0,39,2,9.75
+375126,Hardus Viljoen,24 Apr 2019,v RCB,Bengaluru,2,8,0,1,1,0,0,0,caught,1,4.0,0,51,1,12.75
+375126,Hardus Viljoen,20 Jul 2019,v Somerset,Canterbury,1,9,15,14,7,1,1,214.28,run out,2,4.0,0,36,2,9
+375126,Hardus Viljoen,21 Jul 2019,v Hampshire,Southampton,2,9,9,5,6,1,0,150,caught,1,4.0,0,20,2,5
+375126,Hardus Viljoen,26 Jul 2019,v Essex,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+375126,Hardus Viljoen,30 Jul 2019,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,2,5
+375126,Hardus Viljoen,1 Aug 2019,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+375126,Hardus Viljoen,2 Aug 2019,v Sussex,Hove,1,9,0,3,1,0,0,0,caught,2,4.0,0,39,0,9.75
+375126,Hardus Viljoen,4 Aug 2019,v Hampshire,Beckenham,2,-,DNB,-,-,-,-,-,-,1,3.2,0,15,3,4.5
+375126,Hardus Viljoen,7 Aug 2019,v Gloucs,Bristol,1,9,3*,8,3,0,0,100,not out,2,4.0,0,30,2,7.5
+375126,Hardus Viljoen,10 Aug 2019,v Somerset,Taunton,2,9,4,5,4,0,0,100,bowled,1,4.0,0,33,1,8.25
+375126,Hardus Viljoen,23 Aug 2019,v Surrey,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+375126,Hardus Viljoen,29 Aug 2019,v Gloucs,Canterbury,2,8,3,7,3,0,0,100,run out,1,4.0,0,35,0,8.75
+375126,Hardus Viljoen,30 Aug 2019,v Essex,Chelmsford,2,8,9,9,4,2,0,225,bowled,1,4.0,0,45,0,11.25
+375126,Hardus Viljoen,12 Sep 2019,v Tallawahs,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+375126,Hardus Viljoen,15 Sep 2019,v Patriots,Basseterre,1,8,28,-,23,4,0,121.73,caught,2,1.0,0,20,0,20
+375126,Hardus Viljoen,20 Sep 2019,v Tridents,Gros Islet,2,8,31,-,21,0,3,147.61,bowled,1,3.0,0,25,0,8.33
+375126,Hardus Viljoen,21 Sep 2019,v Trinbago,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+375126,Hardus Viljoen,24 Sep 2019,v Patriots,Gros Islet,1,8,2*,-,3,0,0,66.66,not out,2,4.0,1,14,3,3.5
+375126,Hardus Viljoen,25 Sep 2019,v Amazon,Gros Islet,1,8,0*,-,0,0,0,-,not out,2,4.0,0,38,0,9.5
+375126,Hardus Viljoen,27 Sep 2019,v Tallawahs,Gros Islet,2,5,32,-,24,2,2,133.33,caught,1,3.0,0,40,1,13.33
+375126,Hardus Viljoen,29 Sep 2019,v Tridents,Bridgetown,2,5,22,-,23,2,1,95.65,caught,1,4.0,0,26,2,6.5
+375126,Hardus Viljoen,10 Nov 2019,v Blitz,Paarl,1,5,4,4,5,1,0,80,stumped,2,2.0,0,9,2,4.5
+375126,Hardus Viljoen,17 Nov 2019,v Spartans,Paarl,1,8,8*,1,2,2,0,400,not out,2,3.0,0,25,0,8.33
+375126,Hardus Viljoen,22 Nov 2019,v Jozi Stars,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+375126,Hardus Viljoen,24 Nov 2019,v Blitz,Cape Town,1,9,7*,12,7,0,0,100,not out,2,4.0,0,43,1,10.75
+375126,Hardus Viljoen,27 Nov 2019,v Giants,Gqeberha,1,9,9*,13,5,0,1,180,not out,2,4.0,0,21,2,5.25
+375126,Hardus Viljoen,29 Nov 2019,v Spartans,Centurion,1,10,0,2,2,0,0,0,bowled,2,3.0,0,42,1,14
+375126,Hardus Viljoen,1 Dec 2019,v Jozi Stars,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+375126,Hardus Viljoen,4 Dec 2019,v Durban Heat,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.5,0,56,0,14.6
+375126,Hardus Viljoen,14 Nov 2020,v Qalandars,Karachi,1,8,37,-,16,3,3,231.25,caught,2,2.0,0,23,0,11.5
+375126,Hardus Viljoen,20 Oct 2021,v North West,Kimberley,2,7,2,4,2,0,0,100,caught,1,4.0,0,35,2,8.75
+375126,Hardus Viljoen,7 Feb 2022,v W Province,Gqeberha,1,7,12*,11,7,1,0,171.42,not out,2,3.0,0,16,3,5.33
+375126,Hardus Viljoen,9 Feb 2022,v Titans,Gqeberha,2,5,1,6,3,0,0,33.33,caught,1,4.0,0,35,1,8.75
+375126,Hardus Viljoen,13 Feb 2022,v North West,Gqeberha,1,7,19,10,8,1,2,237.5,caught,2,4.0,0,50,0,12.5
+375126,Hardus Viljoen,15 Feb 2022,v Lions,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,2,7.5
+375126,Hardus Viljoen,17 Feb 2022,v Warriors,Gqeberha,2,7,18*,19,8,3,0,225,not out,1,3.0,0,36,1,12
+375126,Hardus Viljoen,20 Feb 2022,v Dolphins,Gqeberha,1,7,15,16,14,1,0,107.14,bowled,2,DNB,-,-,-,-
+375126,Hardus Viljoen,27 Feb 2022,v Titans,Gqeberha,1,7,32*,-,16,3,2,200,not out,2,3.0,0,14,2,4.66
+375126,Hardus Viljoen,18 Oct 2022,v W Province,Potchefstroom,2,7,9*,2,3,2,0,300,not out,1,4.0,0,29,1,7.25
+375126,Hardus Viljoen,20 Oct 2022,v Warriors,Potchefstroom,2,8,7*,8,5,1,0,140,not out,1,4.0,1,29,1,7.25
+375126,Hardus Viljoen,22 Oct 2022,v Dolphins,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.0,1,11,0,3.66
+375126,Hardus Viljoen,25 Oct 2022,v Titans,Potchefstroom,1,8,2,6,4,0,0,50,run out,2,4.0,0,35,2,8.75
+375126,Hardus Viljoen,26 Oct 2022,v Knights,Potchefstroom,2,7,20,39,12,1,1,166.66,caught,1,4.0,0,24,0,6
+375126,Hardus Viljoen,29 Oct 2022,v North West,Potchefstroom,2,5,5,8,8,0,0,62.5,caught,1,4.0,0,13,1,3.25
+375126,Hardus Viljoen,2 Nov 2022,v Dolphins,Potchefstroom,2,8,22,24,18,1,1,122.22,caught,1,3.0,0,26,0,8.66
+375126,Hardus Viljoen,13 Jan 2023,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,2,10
+375126,Hardus Viljoen,17 Jan 2023,v Paarl Royals,Paarl,2,9,0,2,1,0,0,0,caught,1,4.0,0,30,1,7.5
+375126,Hardus Viljoen,20 Jan 2023,v Capitals,Durban,1,9,2,13,7,0,0,28.57,caught,2,2.0,0,30,0,15
+375126,Hardus Viljoen,24 Jan 2023,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.1,0,40,0,12.63
+375126,Hardus Viljoen,30 Jul 2023,v Colombo,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+375126,Hardus Viljoen,1 Aug 2023,v Aura,Colombo (RPS),1,7,4,-,6,1,0,66.66,bowled,2,1.0,0,20,0,20
+375126,Hardus Viljoen,14 Jan 2024,v Paarl Royals,Centurion,2,8,10*,23,10,1,0,100,not out,1,4.0,0,37,0,9.25
+375126,Hardus Viljoen,18 Jan 2024,v Super Giants,Centurion,1,10,5*,3,3,1,0,166.66,not out,2,4.0,0,39,2,9.75
+375126,Hardus Viljoen,20 Jan 2024,v Super Kings,Johannesburg,1,11,10*,1,2,1,1,500,not out,2,3.0,0,49,0,16.33
+375126,Hardus Viljoen,8 Mar 2024,v Lions,Johannesburg,2,8,1,3,2,0,0,50,bowled,1,4.0,0,45,3,11.25
+375126,Hardus Viljoen,15 Mar 2024,v Dolphins,Paarl,1,9,0,2,1,0,0,0,caught,2,3.3,0,33,1,9.42
+375126,Hardus Viljoen,17 Mar 2024,v Warriors,Gqeberha,2,8,26,26,14,2,2,185.71,run out,1,4.0,0,28,2,7
+375126,Hardus Viljoen,21 Mar 2024,v North West,Potchefstroom (Uni),1,8,21*,32,18,0,1,116.66,not out,2,3.0,0,23,1,7.66
+375126,Hardus Viljoen,12 Apr 2024,v Titans,Centurion,1,8,9,15,11,1,0,81.81,caught,2,2.0,0,21,0,10.5
+375126,Hardus Viljoen,21 Sep 2024,v Easterns,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+375126,Hardus Viljoen,24 Sep 2024,v Mpumalanga,White River,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+375126,Hardus Viljoen,2 Oct 2024,v Border,Kimberley,1,7,0,8,7,0,0,0,caught,2,4.0,0,20,0,5
+375126,Hardus Viljoen,5 Oct 2024,v KZN-Inland,Pietermaritzburg,2,5,1,2,1,0,0,100,run out,1,4.0,0,29,0,7.25
+375126,Hardus Viljoen,9 Oct 2024,v S West D,Oudtshoorn,2,7,7,6,3,0,1,233.33,bowled,1,2.0,0,9,1,4.5
+375126,Hardus Viljoen,12 Oct 2024,v Limpopo,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+375126,Hardus Viljoen,16 Oct 2024,v Easterns,Benoni,2,8,44,31,20,0,6,220,lbw,1,4.0,0,48,0,12
+375126,Hardus Viljoen,16 Jan 2025,v Capitals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+375126,Hardus Viljoen,20 Jan 2025,v Paarl Royals,Paarl,1,8,1*,1,1,0,0,100,not out,2,4.0,0,23,2,5.75
+375126,Hardus Viljoen,24 Jan 2025,v Sunrisers,Gqeberha,2,8,1,4,2,0,0,50,caught,1,4.0,0,36,1,9
+375126,Hardus Viljoen,26 Jan 2025,v Sunrisers,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+375126,Hardus Viljoen,28 Jan 2025,v Capitals,Centurion,1,8,2,15,10,0,0,20,caught,2,2.0,0,18,1,9
+375126,Hardus Viljoen,30 Jan 2025,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+375126,Hardus Viljoen,1 Feb 2025,v Super Giants,Johannesburg,2,8,4,16,5,0,0,80,run out,1,4.0,0,42,2,10.5
+375126,Hardus Viljoen,5 Feb 2025,v Sunrisers,Centurion,2,8,14,19,15,1,0,93.33,caught,1,4.0,0,37,2,9.25
+375126,Hardus Viljoen,29 Oct 2025,v Titans,Pietermaritzburg,2,8,32,17,12,1,4,266.66,caught,1,4.0,0,25,1,6.25
+375126,Hardus Viljoen,11 Nov 2025,v North West,Potchefstroom,2,7,12,21,11,1,1,109.09,bowled,1,4.0,0,47,0,11.75
+375126,Hardus Viljoen,13 Nov 2025,v W Province,Pietermaritzburg,1,9,26,23,21,1,1,123.8,bowled,2,2.0,0,14,0,7
+375126,Hardus Viljoen,15 Nov 2025,v Warriors,Pietermaritzburg,2,-,absent,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+375126,Hardus Viljoen,8 Jan 2026,v Super Kings,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+375126,Hardus Viljoen,10 Jan 2026,v Capitals,Paarl,2,8,1*,4,1,0,0,100,not out,1,2.0,0,25,2,12.5
+375126,Hardus Viljoen,15 Jan 2026,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.1,0,17,2,5.36
+375126,Hardus Viljoen,17 Jan 2026,v Super Giants,Durban,2,9,2,5,3,0,0,66.66,bowled,1,4.0,0,21,4,5.25
+375126,Hardus Viljoen,22 Jan 2026,v Super Kings,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+375126,Hardus Viljoen,23 Jan 2026,v Sunrisers,Johannesburg,1,9,4*,4,3,1,0,133.33,not out,2,1.0,0,16,0,16

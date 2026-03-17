@@ -1,0 +1,176 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+542023,Lungi Ngidi,5 Sep 2015,v Zim Pres XI,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,2,14,3,3.5
+542023,Lungi Ngidi,6 Sep 2015,v Easterns,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+542023,Lungi Ngidi,3 Oct 2015,v KZ-Natal,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+542023,Lungi Ngidi,4 Oct 2015,v KZN-Inland,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,0,4
+542023,Lungi Ngidi,1 Nov 2015,v Easterns,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+542023,Lungi Ngidi,6 Nov 2015,v Lions,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,2,10
+542023,Lungi Ngidi,8 Nov 2015,v Cape Cobras,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+542023,Lungi Ngidi,13 Nov 2015,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,2.0,1,4,0,2
+542023,Lungi Ngidi,15 Nov 2015,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+542023,Lungi Ngidi,20 Nov 2015,v Cape Cobras,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+542023,Lungi Ngidi,29 Nov 2015,v Boland,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+542023,Lungi Ngidi,6 Dec 2015,v Knights,Benoni,1,11,2*,3,1,0,0,200,not out,2,4.0,0,32,2,8
+542023,Lungi Ngidi,12 Dec 2015,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,1,7
+542023,Lungi Ngidi,16 Sep 2016,v Kenya,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+542023,Lungi Ngidi,17 Sep 2016,v Northern Cpe,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+542023,Lungi Ngidi,18 Sep 2016,v S West D,Oudtshoorn,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+542023,Lungi Ngidi,12 Nov 2016,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+542023,Lungi Ngidi,16 Nov 2016,v Cape Cobras,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+542023,Lungi Ngidi,18 Nov 2016,v Knights,Benoni,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+542023,Lungi Ngidi,20 Nov 2016,v Dolphins,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+542023,Lungi Ngidi,25 Nov 2016,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,31,1,15.5
+542023,Lungi Ngidi,27 Nov 2016,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+542023,Lungi Ngidi,30 Nov 2016,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+542023,Lungi Ngidi,2 Dec 2016,v Warriors,Centurion,1,11,0*,1,0,0,0,-,not out,2,2.0,0,24,0,12
+542023,Lungi Ngidi,7 Dec 2016,v Lions,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+542023,Lungi Ngidi,11 Dec 2016,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,1.0,0,19,0,19
+542023,Lungi Ngidi,16 Dec 2016,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+542023,Lungi Ngidi,20 Jan 2017,v Sri Lanka,Centurion,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,2,6
+542023,Lungi Ngidi,22 Jan 2017,v Sri Lanka,Johannesburg,1,11,2*,5,3,0,0,66.66,not out,2,4.0,0,19,4,4.75
+542023,Lungi Ngidi,25 Jan 2017,v Sri Lanka,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+542023,Lungi Ngidi,12 Nov 2017,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,1,14.5
+542023,Lungi Ngidi,15 Nov 2017,v Knights,Kimberley,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+542023,Lungi Ngidi,17 Nov 2017,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,2.2,1,14,4,6
+542023,Lungi Ngidi,19 Nov 2017,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+542023,Lungi Ngidi,24 Nov 2017,v Dolphins,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+542023,Lungi Ngidi,1 Dec 2017,v Warriors,Benoni,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,2,4
+542023,Lungi Ngidi,8 Dec 2017,v Cape Cobras,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+542023,Lungi Ngidi,13 Dec 2017,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+542023,Lungi Ngidi,16 Dec 2017,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+542023,Lungi Ngidi,30 Apr 2018,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+542023,Lungi Ngidi,3 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+542023,Lungi Ngidi,5 May 2018,v RCB,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+542023,Lungi Ngidi,18 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+542023,Lungi Ngidi,20 May 2018,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,4,2.5
+542023,Lungi Ngidi,22 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+542023,Lungi Ngidi,27 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,1,6.5
+542023,Lungi Ngidi,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,10,4,-,6,0,0,66.66,caught,2,3.0,0,25,0,8.33
+542023,Lungi Ngidi,9 Oct 2018,v Zimbabwe,East London,1,-,DNB,-,-,-,-,-,-,2,3.0,0,7,1,2.33
+542023,Lungi Ngidi,12 Oct 2018,v Zimbabwe,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+542023,Lungi Ngidi,17 Nov 2018,v Australia,Carrara,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,2,8
+542023,Lungi Ngidi,13 Nov 2019,v Giants,Centurion,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+542023,Lungi Ngidi,17 Nov 2019,v Paarl Rocks,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+542023,Lungi Ngidi,21 Nov 2019,v Durban Heat,Centurion,1,-,DNB,-,-,-,-,-,-,2,1.0,0,2,2,2
+542023,Lungi Ngidi,24 Nov 2019,v Jozi Stars,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+542023,Lungi Ngidi,29 Nov 2019,v Paarl Rocks,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+542023,Lungi Ngidi,1 Dec 2019,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+542023,Lungi Ngidi,3 Dec 2019,v Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+542023,Lungi Ngidi,12 Feb 2020,v England,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+542023,Lungi Ngidi,14 Feb 2020,v England,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,3,12
+542023,Lungi Ngidi,16 Feb 2020,v England,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,2,13.75
+542023,Lungi Ngidi,21 Feb 2020,v Australia,Johannesburg,2,10,1,5,5,0,0,20,caught,1,3.0,0,37,1,12.33
+542023,Lungi Ngidi,23 Feb 2020,v Australia,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,3,10.25
+542023,Lungi Ngidi,26 Feb 2020,v Australia,Cape Town,2,10,0,1,1,0,0,0,bowled,1,4.0,0,33,1,8.25
+542023,Lungi Ngidi,19 Sep 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+542023,Lungi Ngidi,22 Sep 2020,v RR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,1,14
+542023,Lungi Ngidi,29 Oct 2020,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+542023,Lungi Ngidi,1 Nov 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+542023,Lungi Ngidi,27 Nov 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.2,0,31,2,9.3
+542023,Lungi Ngidi,29 Nov 2020,v England,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,2,12.75
+542023,Lungi Ngidi,1 Dec 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+542023,Lungi Ngidi,19 Feb 2021,v Knights,Durban,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+542023,Lungi Ngidi,21 Feb 2021,v Cape Cobras,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+542023,Lungi Ngidi,22 Feb 2021,v Lions,Durban,2,10,3*,-,4,0,0,75,not out,1,3.0,0,19,1,6.33
+542023,Lungi Ngidi,24 Feb 2021,v Warriors,Durban,2,9,2,-,4,0,0,50,caught,1,3.0,0,22,1,7.33
+542023,Lungi Ngidi,26 Feb 2021,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+542023,Lungi Ngidi,21 Apr 2021,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+542023,Lungi Ngidi,28 Apr 2021,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+542023,Lungi Ngidi,1 May 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,62,0,15.5
+542023,Lungi Ngidi,26 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,0,15.33
+542023,Lungi Ngidi,27 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+542023,Lungi Ngidi,29 Jun 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+542023,Lungi Ngidi,1 Jul 2021,v West Indies,St George's,2,10,0,3,2,0,0,0,caught,1,4.0,0,48,0,12
+542023,Lungi Ngidi,3 Jul 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+542023,Lungi Ngidi,19 Jul 2021,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+542023,Lungi Ngidi,22 Jul 2021,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,3.3,0,14,1,4
+542023,Lungi Ngidi,17 Jun 2022,v India,Rajkot,2,10,4,10,10,0,0,40,caught,1,3.0,0,20,2,6.66
+542023,Lungi Ngidi,19 Jun 2022,v India,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,1.3,0,6,2,4
+542023,Lungi Ngidi,27 Jul 2022,v England,Bristol,2,10,1*,4,2,0,0,50,not out,1,4.0,0,39,5,9.75
+542023,Lungi Ngidi,28 Jul 2022,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,2.4,0,11,2,4.12
+542023,Lungi Ngidi,31 Jul 2022,v England,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+542023,Lungi Ngidi,3 Aug 2022,v Ireland,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+542023,Lungi Ngidi,5 Aug 2022,v Ireland,Bristol,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+542023,Lungi Ngidi,2 Oct 2022,v India,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+542023,Lungi Ngidi,4 Oct 2022,v India,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,51,2,17
+542023,Lungi Ngidi,24 Oct 2022,v Zimbabwe,Hobart,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+542023,Lungi Ngidi,30 Oct 2022,v India,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,4,7.25
+542023,Lungi Ngidi,3 Nov 2022,v Pakistan,Sydney,2,10,4*,5,1,1,0,400,not out,1,4.0,0,32,1,8
+542023,Lungi Ngidi,6 Nov 2022,v Netherlands,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+542023,Lungi Ngidi,13 Jan 2023,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+542023,Lungi Ngidi,15 Jan 2023,v Super Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+542023,Lungi Ngidi,17 Jan 2023,v Super Giants,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+542023,Lungi Ngidi,19 Jan 2023,v Sunrisers,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+542023,Lungi Ngidi,21 Jan 2023,v MI Cape Town,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+542023,Lungi Ngidi,22 Jan 2023,v Capitals,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+542023,Lungi Ngidi,24 Jan 2023,v Sunrisers,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+542023,Lungi Ngidi,3 Feb 2023,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+542023,Lungi Ngidi,7 Feb 2023,v Capitals,Centurion,2,11,2*,3,3,0,0,66.66,not out,1,4.0,0,39,2,9.75
+542023,Lungi Ngidi,8 Feb 2023,v Capitals,Johannesburg,2,10,0*,8,1,0,0,0,not out,1,4.0,0,40,0,10
+542023,Lungi Ngidi,28 Mar 2023,v West Indies,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+542023,Lungi Ngidi,30 Aug 2023,v Australia,Durban,2,10,2*,9,3,0,0,66.66,not out,1,4.0,0,49,0,12.25
+542023,Lungi Ngidi,1 Sep 2023,v Australia,Durban,1,9,13*,9,7,2,0,185.71,not out,2,2.5,0,41,0,14.47
+542023,Lungi Ngidi,3 Sep 2023,v Australia,Durban,1,10,2*,1,2,0,0,100,not out,2,1.0,0,18,0,18
+542023,Lungi Ngidi,12 Jan 2024,v Capitals,Paarl,1,9,1*,1,1,0,0,100,not out,2,4.0,0,23,1,5.75
+542023,Lungi Ngidi,14 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,4,9.75
+542023,Lungi Ngidi,17 Jan 2024,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.5,0,17,3,4.43
+542023,Lungi Ngidi,19 Jan 2024,v MI Cape Town,Cape Town,1,9,2,7,4,0,0,50,run out,2,3.5,0,43,0,11.21
+542023,Lungi Ngidi,21 Jan 2024,v MI Cape Town,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.2,0,26,2,7.8
+542023,Lungi Ngidi,24 Jan 2024,v Super Kings,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,59,1,14.75
+542023,Lungi Ngidi,26 Jan 2024,v Super Giants,Paarl,2,9,2,8,4,0,0,50,caught,1,4.0,0,46,1,11.5
+542023,Lungi Ngidi,28 Jan 2024,v Super Giants,Durban,2,9,1,3,5,0,0,20,stumped,1,3.0,0,31,1,10.33
+542023,Lungi Ngidi,2 Feb 2024,v Sunrisers,Paarl,2,9,13*,3,4,0,2,325,not out,1,4.0,0,45,0,11.25
+542023,Lungi Ngidi,5 Apr 2024,v Warriors,Gqeberha,1,10,2,7,2,0,0,100,run out,2,2.0,0,28,0,14
+542023,Lungi Ngidi,7 Apr 2024,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,1.4,0,18,1,10.8
+542023,Lungi Ngidi,10 Apr 2024,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+542023,Lungi Ngidi,12 Apr 2024,v Boland,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+542023,Lungi Ngidi,14 Apr 2024,v KZN-Inland,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,2,4
+542023,Lungi Ngidi,19 Apr 2024,v Lions,Centurion,2,10,2*,12,3,0,0,66.66,not out,1,3.0,0,26,2,8.66
+542023,Lungi Ngidi,21 Apr 2024,v W Province,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+542023,Lungi Ngidi,24 Apr 2024,v Lions,Johannesburg,1,10,0,6,2,0,0,0,run out,2,1.0,0,11,0,11
+542023,Lungi Ngidi,23 May 2024,v West Indies,Kingston,2,10,5*,15,8,1,0,62.5,not out,1,4.0,0,41,0,10.25
+542023,Lungi Ngidi,25 May 2024,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+542023,Lungi Ngidi,17 Jul 2024,v Los Angeles,Morrisville,1,-,DNB,-,-,-,-,-,-,2,3.1,0,24,1,7.57
+542023,Lungi Ngidi,20 Jul 2024,v SF,Dallas,1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,0,16
+542023,Lungi Ngidi,29 Sep 2024,v Ireland,Abu Dhabi,2,11,3*,1,2,0,0,150,not out,1,4.0,0,23,1,5.75
+542023,Lungi Ngidi,11 Jan 2025,v Sunrisers,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+542023,Lungi Ngidi,13 Jan 2025,v MI Cape Town,Cape Town,2,11,4*,8,5,0,0,80,not out,1,4.0,0,43,1,10.75
+542023,Lungi Ngidi,18 Jan 2025,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+542023,Lungi Ngidi,30 Jan 2025,v Super Kings,Johannesburg,1,11,0*,4,1,0,0,0,not out,2,3.0,0,30,1,10
+542023,Lungi Ngidi,1 Feb 2025,v Sunrisers,Gqeberha,2,11,3,6,6,0,0,50,caught,1,2.0,0,22,0,11
+542023,Lungi Ngidi,3 May 2025,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+542023,Lungi Ngidi,23 May 2025,v SRH,Lucknow,2,11,0*,6,2,0,0,0,not out,1,4.0,0,51,1,12.75
+542023,Lungi Ngidi,14 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,1,3.75
+542023,Lungi Ngidi,16 Jul 2025,v New Zealand,Harare,2,11,0*,2,1,0,0,0,not out,1,3.0,0,28,1,9.33
+542023,Lungi Ngidi,20 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+542023,Lungi Ngidi,26 Jul 2025,v New Zealand,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+542023,Lungi Ngidi,10 Aug 2025,v Australia,Darwin,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+542023,Lungi Ngidi,12 Aug 2025,v Australia,Darwin,1,-,DNB,-,-,-,-,-,-,2,3.4,0,19,1,5.18
+542023,Lungi Ngidi,16 Aug 2025,v Australia,Cairns,1,-,DNB,-,-,-,-,-,-,2,3.5,0,34,0,8.86
+542023,Lungi Ngidi,28 Oct 2025,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+542023,Lungi Ngidi,31 Oct 2025,v Pakistan,Lahore,1,11,7*,5,3,0,1,233.33,not out,2,2.0,0,14,0,7
+542023,Lungi Ngidi,14 Nov 2025,v North West,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+542023,Lungi Ngidi,9 Dec 2025,v India,Cuttack,2,11,2*,4,4,0,0,50,not out,1,4.0,0,31,3,7.75
+542023,Lungi Ngidi,11 Dec 2025,v India,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.1,0,26,2,8.21
+542023,Lungi Ngidi,14 Dec 2025,v India,Dharamsala,1,10,2*,6,3,0,0,66.66,not out,2,3.0,0,23,1,7.66
+542023,Lungi Ngidi,19 Dec 2025,v India,Ahmedabad,2,10,7*,16,9,1,0,77.77,not out,1,4.0,0,29,0,7.25
+542023,Lungi Ngidi,27 Dec 2025,v Super Kings,Centurion,2,11,4*,1,1,1,0,400,not out,1,4.0,0,43,0,10.75
+542023,Lungi Ngidi,29 Dec 2025,v Sunrisers,Gqeberha,2,11,1,2,3,0,0,33.33,caught,1,4.0,0,35,1,8.75
+542023,Lungi Ngidi,31 Dec 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+542023,Lungi Ngidi,3 Jan 2026,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+542023,Lungi Ngidi,5 Jan 2026,v Sunrisers,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+542023,Lungi Ngidi,7 Jan 2026,v Super Giants,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,3,9.75
+542023,Lungi Ngidi,10 Jan 2026,v Paarl Royals,Paarl,1,10,0,3,1,0,0,0,bowled,2,4.0,0,35,1,8.75
+542023,Lungi Ngidi,12 Jan 2026,v MI Cape Town,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+542023,Lungi Ngidi,15 Jan 2026,v Paarl Royals,Centurion,1,10,0,1,1,0,0,0,caught,2,4.0,0,24,1,6
+542023,Lungi Ngidi,17 Jan 2026,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+542023,Lungi Ngidi,21 Jan 2026,v Sunrisers,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+542023,Lungi Ngidi,25 Jan 2026,v Sunrisers,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+542023,Lungi Ngidi,31 Jan 2026,v West Indies,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+542023,Lungi Ngidi,9 Feb 2026,v Canada,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,4,7.75
+542023,Lungi Ngidi,11 Feb 2026,v Afghanistan,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+542023,Lungi Ngidi,14 Feb 2026,v New Zealand,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+542023,Lungi Ngidi,22 Feb 2026,v India,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,0,3.75
+542023,Lungi Ngidi,26 Feb 2026,v West Indies,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+542023,Lungi Ngidi,1 Mar 2026,v Zimbabwe,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+542023,Lungi Ngidi,4 Mar 2026,v New Zealand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11

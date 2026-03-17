@@ -1,0 +1,55 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1131754,Chetan Sakariya,21 Feb 2019,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,3.4,0,40,1,10.9
+1131754,Chetan Sakariya,22 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,4,9.5
+1131754,Chetan Sakariya,24 Feb 2019,v Punjab,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+1131754,Chetan Sakariya,25 Feb 2019,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+1131754,Chetan Sakariya,28 Feb 2019,v Mumbai,Indore,2,11,0,-,2,0,0,0,caught,1,2.0,0,27,1,13.5
+1131754,Chetan Sakariya,8 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,3.0,1,8,1,2.66
+1131754,Chetan Sakariya,9 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,3.4,0,40,0,10.9
+1131754,Chetan Sakariya,11 Nov 2019,v Gujarat,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+1131754,Chetan Sakariya,12 Nov 2019,v Delhi,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1131754,Chetan Sakariya,15 Nov 2019,v Sikkim,Surat,2,-,DNB,-,-,-,-,-,-,1,3.2,0,21,1,6.3
+1131754,Chetan Sakariya,17 Nov 2019,v J & K,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,1,34,2,8.5
+1131754,Chetan Sakariya,11 Jan 2021,v Services,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1131754,Chetan Sakariya,13 Jan 2021,v Vidarbha,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,1,11,5,2.75
+1131754,Chetan Sakariya,15 Jan 2021,v Goa,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,3.75
+1131754,Chetan Sakariya,17 Jan 2021,v M. Pradesh,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+1131754,Chetan Sakariya,19 Jan 2021,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1131754,Chetan Sakariya,12 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+1131754,Chetan Sakariya,15 Apr 2021,v DC,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+1131754,Chetan Sakariya,19 Apr 2021,v CSK,Wankhede,2,10,0*,6,0,0,0,-,not out,1,4.0,0,36,3,9
+1131754,Chetan Sakariya,22 Apr 2021,v RCB,Wankhede,1,10,0,3,1,0,0,0,caught,2,4.0,0,35,0,8.75
+1131754,Chetan Sakariya,24 Apr 2021,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1131754,Chetan Sakariya,29 Apr 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+1131754,Chetan Sakariya,2 May 2021,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+1131754,Chetan Sakariya,28 Jul 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,1,9.27
+1131754,Chetan Sakariya,29 Jul 2021,v Sri Lanka,Colombo (RPS),1,10,5*,17,9,0,0,55.55,not out,2,DNB,-,-,-,-
+1131754,Chetan Sakariya,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,9,7,11,6,1,0,116.66,caught,2,3.0,0,31,1,10.33
+1131754,Chetan Sakariya,25 Sep 2021,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+1131754,Chetan Sakariya,27 Sep 2021,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1131754,Chetan Sakariya,29 Sep 2021,v RCB,Dubai (DICS),1,9,2,7,2,0,0,100,caught,2,3.0,0,18,0,6
+1131754,Chetan Sakariya,2 Oct 2021,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1131754,Chetan Sakariya,5 Oct 2021,v MI,Sharjah,1,9,6,14,11,1,0,54.54,bowled,2,3.0,1,36,1,12
+1131754,Chetan Sakariya,7 Oct 2021,v KKR,Sharjah,2,10,1,20,5,0,0,20,run out,1,4.0,0,23,1,5.75
+1131754,Chetan Sakariya,4 Nov 2021,v Hyderabad,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+1131754,Chetan Sakariya,5 Nov 2021,v UP,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1131754,Chetan Sakariya,6 Nov 2021,v Uttarakhand,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+1131754,Chetan Sakariya,8 Nov 2021,v Chandigarh,Rohtak,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+1131754,Chetan Sakariya,9 Nov 2021,v Delhi,Rohtak,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+1131754,Chetan Sakariya,16 Nov 2021,v Karnataka,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+1131754,Chetan Sakariya,28 Apr 2022,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+1131754,Chetan Sakariya,1 May 2022,v LSG,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+1131754,Chetan Sakariya,11 May 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+1131754,Chetan Sakariya,20 Oct 2022,v Bihar,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+1131754,Chetan Sakariya,30 Oct 2022,v Kerala,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+1131754,Chetan Sakariya,1 Nov 2022,v Mumbai,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,4,8.25
+1131754,Chetan Sakariya,1 Apr 2023,v LSG,Lucknow,2,10,4,5,4,1,0,100,caught,1,4.0,0,53,2,13.25
+1131754,Chetan Sakariya,20 May 2023,v CSK,Delhi,2,11,0*,3,2,0,0,0,not out,1,4.0,0,36,1,9
+1131754,Chetan Sakariya,26 Apr 2025,v Punjab Kings,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,3.0,0,39,0,13
+1131754,Chetan Sakariya,26 Nov 2025,v Tripura,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+1131754,Chetan Sakariya,28 Nov 2025,v Uttarakhand,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1131754,Chetan Sakariya,30 Nov 2025,v Delhi,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+1131754,Chetan Sakariya,2 Dec 2025,v Jharkhand,Ahmedabad,2,11,0*,-,0,0,0,-,not out,1,4.0,0,42,3,10.5
+1131754,Chetan Sakariya,4 Dec 2025,v Rajasthan,Ahmedabad,1,10,0*,-,3,0,0,0,not out,2,4.0,0,41,2,10.25
+1131754,Chetan Sakariya,6 Dec 2025,v Karnataka,Ahmedabad,1,10,1*,-,1,0,0,100,not out,2,4.0,0,37,2,9.25
+1131754,Chetan Sakariya,8 Dec 2025,v Tamil Nadu,Ahmedabad,1,8,6*,-,4,1,0,150,not out,2,4.0,0,50,1,12.5

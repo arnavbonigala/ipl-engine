@@ -1,0 +1,103 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+279545,Pradeep Sangwan,3 Apr 2007,v Himachal,Delhi,1,8,2,1,3,0,0,66.66,caught,2,3.0,0,31,0,10.33
+279545,Pradeep Sangwan,4 Apr 2007,v J & K,Delhi,1,8,1*,3,1,0,0,100,not out,2,3.0,0,26,0,8.66
+279545,Pradeep Sangwan,6 Apr 2007,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+279545,Pradeep Sangwan,7 Apr 2007,v Haryana,Delhi,1,9,1*,1,1,0,0,100,not out,2,3.3,0,34,0,9.71
+279545,Pradeep Sangwan,8 Apr 2007,v Services,Delhi,2,11,5*,1,3,0,0,166.66,not out,1,4.0,0,13,2,3.25
+279545,Pradeep Sangwan,2 May 2008,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+279545,Pradeep Sangwan,4 May 2008,v MI,DY Patil,2,8,2,-,4,0,0,50,caught,1,4.0,0,21,1,5.25
+279545,Pradeep Sangwan,8 May 2008,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+279545,Pradeep Sangwan,11 May 2008,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+279545,Pradeep Sangwan,13 May 2008,v KKR,Eden Gardens,2,10,0,-,1,0,0,0,caught,1,4.0,0,29,1,7.25
+279545,Pradeep Sangwan,17 May 2008,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,1,12
+279545,Pradeep Sangwan,19 May 2008,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,51,0,17
+279545,Pradeep Sangwan,19 Apr 2009,v Kings XI,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+279545,Pradeep Sangwan,23 Apr 2009,v CSK,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+279545,Pradeep Sangwan,26 Apr 2009,v RCB,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+279545,Pradeep Sangwan,28 Apr 2009,v RR,Centurion,1,9,1*,-,1,0,0,100,not out,2,4.0,0,28,0,7
+279545,Pradeep Sangwan,30 Apr 2009,v Chargers,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+279545,Pradeep Sangwan,2 May 2009,v CSK,Johannesburg,2,8,0,-,3,0,0,0,bowled,1,3.0,0,41,1,13.66
+279545,Pradeep Sangwan,5 May 2009,v KKR,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+279545,Pradeep Sangwan,8 May 2009,v MI,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+279545,Pradeep Sangwan,10 May 2009,v KKR,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,1,10.66
+279545,Pradeep Sangwan,13 May 2009,v Chargers,Durban,1,9,0*,-,0,0,0,-,not out,2,4.0,1,18,3,4.5
+279545,Pradeep Sangwan,15 May 2009,v Kings XI,Bloemfontein,1,10,5*,-,5,0,0,100,not out,2,4.0,0,42,1,10.5
+279545,Pradeep Sangwan,21 May 2009,v MI,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+279545,Pradeep Sangwan,22 May 2009,v Chargers,Centurion,1,9,0*,-,1,0,0,0,not out,2,2.4,0,21,0,7.87
+279545,Pradeep Sangwan,9 Oct 2009,v Victoria,Delhi,1,9,1,-,2,0,0,50,bowled,2,DNB,-,-,-,-
+279545,Pradeep Sangwan,19 Oct 2009,v Cape Cobras,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,4,0,2
+279545,Pradeep Sangwan,20 Oct 2009,v J & K,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+279545,Pradeep Sangwan,21 Oct 2009,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+279545,Pradeep Sangwan,22 Oct 2009,v Himachal,Delhi,2,10,0,0,1,0,0,0,run out,1,4.0,0,29,1,7.25
+279545,Pradeep Sangwan,24 Oct 2009,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+279545,Pradeep Sangwan,25 Oct 2009,v Services,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+279545,Pradeep Sangwan,13 Mar 2010,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+279545,Pradeep Sangwan,15 Mar 2010,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+279545,Pradeep Sangwan,17 Mar 2010,v MI,Delhi,2,8,4,-,9,0,0,44.44,run out,1,4.0,0,41,1,10.25
+279545,Pradeep Sangwan,19 Mar 2010,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+279545,Pradeep Sangwan,25 Mar 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+279545,Pradeep Sangwan,4 Apr 2010,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+279545,Pradeep Sangwan,7 Apr 2010,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+279545,Pradeep Sangwan,13 Apr 2010,v MI,Brabourne,2,9,6*,-,5,0,0,120,not out,1,4.0,0,35,2,8.75
+279545,Pradeep Sangwan,20 Oct 2010,v Himachal,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.2,0,12,1,5.14
+279545,Pradeep Sangwan,21 Oct 2010,v J & K,Delhi,1,9,0,1,1,0,0,0,caught,2,4.0,0,23,2,5.75
+279545,Pradeep Sangwan,22 Oct 2010,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+279545,Pradeep Sangwan,24 Oct 2010,v Haryana,Delhi,2,9,14*,4,5,1,1,280,not out,1,4.0,0,33,0,8.25
+279545,Pradeep Sangwan,25 Oct 2010,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+279545,Pradeep Sangwan,13 Mar 2011,v Tamil Nadu,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.1,0,21,0,9.69
+279545,Pradeep Sangwan,20 Oct 2011,v Himachal,Rohtak,1,7,0*,1,0,0,0,-,not out,2,4.0,0,21,1,5.25
+279545,Pradeep Sangwan,21 Oct 2011,v J & K,Rohtak,2,8,0*,1,0,0,0,-,not out,1,3.0,0,8,1,2.66
+279545,Pradeep Sangwan,22 Oct 2011,v Punjab,Rohtak,1,9,0,5,1,0,0,0,caught,2,3.2,0,25,1,7.5
+279545,Pradeep Sangwan,24 Oct 2011,v Haryana,Rohtak,2,8,1*,2,1,0,0,100,not out,1,4.0,1,13,3,3.25
+279545,Pradeep Sangwan,25 Oct 2011,v Services,Rohtak,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+279545,Pradeep Sangwan,24 Mar 2012,v Railways,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+279545,Pradeep Sangwan,26 Mar 2012,v Baroda,Mumbai,1,8,4,-,4,0,0,100,bowled,2,3.0,0,24,1,8
+279545,Pradeep Sangwan,7 May 2012,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+279545,Pradeep Sangwan,13 Oct 2012,v Daredevils,Centurion,2,9,11*,14,12,1,0,91.66,not out,1,3.0,0,22,1,7.33
+279545,Pradeep Sangwan,15 Oct 2012,v Auckland,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.4,0,26,0,9.75
+279545,Pradeep Sangwan,11 Apr 2013,v RCB,Bengaluru,1,9,4*,3,2,1,0,200,not out,2,2.0,0,34,0,17
+279545,Pradeep Sangwan,19 May 2013,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+279545,Pradeep Sangwan,3 Jan 2016,v Andhra,Vadodara,1,8,8,8,7,1,0,114.28,bowled,2,3.0,0,18,1,6
+279545,Pradeep Sangwan,4 Jan 2016,v M. Pradesh,Vadodara,2,8,8*,5,4,2,0,200,not out,1,4.0,0,22,3,5.5
+279545,Pradeep Sangwan,6 Jan 2016,v Assam,Vadodara,2,3,7,18,16,1,0,43.75,lbw,1,3.0,0,21,2,7
+279545,Pradeep Sangwan,9 Jan 2016,v Goa,Vadodara,1,3,9,14,10,1,0,90,caught,2,4.0,0,12,1,3
+279545,Pradeep Sangwan,11 Apr 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+279545,Pradeep Sangwan,6 May 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+279545,Pradeep Sangwan,29 Jan 2017,v J & K,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+279545,Pradeep Sangwan,30 Jan 2017,v Punjab,Dharamsala,1,7,14,14,10,1,1,140,bowled,2,4.0,0,19,0,4.75
+279545,Pradeep Sangwan,31 Jan 2017,v Himachal,Nadaun,2,7,24,29,24,1,1,100,stumped,1,4.0,0,34,0,8.5
+279545,Pradeep Sangwan,1 Feb 2017,v Haryana,Dharamsala,2,7,2*,18,7,0,0,28.57,not out,1,4.0,0,21,2,5.25
+279545,Pradeep Sangwan,2 Feb 2017,v Services,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+279545,Pradeep Sangwan,12 Feb 2017,v South Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+279545,Pradeep Sangwan,13 Feb 2017,v West Zone,Wankhede,1,9,10*,14,8,1,0,125,not out,2,2.0,0,26,0,13
+279545,Pradeep Sangwan,16 Feb 2017,v East Zone,Wankhede,1,9,21,17,14,3,0,150,caught,2,3.0,0,26,1,8.66
+279545,Pradeep Sangwan,1 May 2017,v Supergiant,Pune,1,9,1,2,2,0,0,50,caught,2,4.0,0,38,2,9.5
+279545,Pradeep Sangwan,4 May 2017,v Daredevils,Delhi,1,9,1*,3,1,0,0,100,not out,2,4.0,0,43,1,10.75
+279545,Pradeep Sangwan,7 May 2017,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+279545,Pradeep Sangwan,10 May 2017,v Daredevils,Kanpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+279545,Pradeep Sangwan,13 May 2017,v SRH,Kanpur,1,8,0,1,1,0,0,0,bowled,2,4.0,0,37,0,9.25
+279545,Pradeep Sangwan,9 Jan 2018,v Punjab,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+279545,Pradeep Sangwan,10 Jan 2018,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+279545,Pradeep Sangwan,12 Jan 2018,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+279545,Pradeep Sangwan,14 Jan 2018,v Himachal,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+279545,Pradeep Sangwan,16 Jan 2018,v Services,Delhi,1,7,29,9,9,4,2,322.22,caught,2,4.0,0,42,2,10.5
+279545,Pradeep Sangwan,21 Jan 2018,v Tamil Nadu,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+279545,Pradeep Sangwan,22 Jan 2018,v Baroda,Eden Gardens,2,8,23*,25,12,3,1,191.66,not out,1,4.0,0,26,1,6.5
+279545,Pradeep Sangwan,23 Jan 2018,v Bengal,Kolkata,2,8,2,12,9,0,0,22.22,lbw,1,4.0,0,27,2,6.75
+279545,Pradeep Sangwan,25 Jan 2018,v UP,Kolkata,1,9,14*,18,11,1,1,127.27,not out,2,4.0,0,25,1,6.25
+279545,Pradeep Sangwan,26 Jan 2018,v Rajasthan,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,2,3.5
+279545,Pradeep Sangwan,12 Apr 2018,v SRH,Hyderabad,1,8,0,-,4,0,0,0,lbw,2,2.0,0,19,0,9.5
+279545,Pradeep Sangwan,11 Jan 2021,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+279545,Pradeep Sangwan,13 Jan 2021,v Andhra,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+279545,Pradeep Sangwan,15 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+279545,Pradeep Sangwan,17 Jan 2021,v Haryana,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+279545,Pradeep Sangwan,4 Nov 2021,v Uttarakhand,Rohtak,1,8,25*,33,21,4,0,119.04,not out,2,3.0,0,12,1,4
+279545,Pradeep Sangwan,5 Nov 2021,v Chandigarh,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+279545,Pradeep Sangwan,6 Nov 2021,v UP,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+279545,Pradeep Sangwan,8 Nov 2021,v Hyderabad,Sultanpur,1,7,0*,5,0,0,0,-,not out,2,4.0,0,27,3,6.75
+279545,Pradeep Sangwan,9 Nov 2021,v Saurashtra,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+279545,Pradeep Sangwan,30 Apr 2022,v RCB,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+279545,Pradeep Sangwan,3 May 2022,v Punjab Kings,DY Patil,1,8,2,7,5,0,0,40,bowled,2,2.0,0,23,0,11.5
+279545,Pradeep Sangwan,6 May 2022,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+279545,Pradeep Sangwan,2 Nov 2023,v Vidarbha,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+279545,Pradeep Sangwan,4 Nov 2023,v Punjab,Mohali,1,9,0*,-,1,0,0,0,not out,2,2.0,0,30,0,15

@@ -1,0 +1,43 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1159722,Simarjeet Singh,11 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,3.0,0,7,0,2.33
+1159722,Simarjeet Singh,12 Nov 2019,v Saurashtra,Surat,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,1,13.33
+1159722,Simarjeet Singh,14 Nov 2019,v J & K,Surat,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+1159722,Simarjeet Singh,15 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+1159722,Simarjeet Singh,17 Nov 2019,v Sikkim,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1159722,Simarjeet Singh,18 Nov 2019,v Odisha,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+1159722,Simarjeet Singh,21 Nov 2019,v Maharashtra,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+1159722,Simarjeet Singh,22 Nov 2019,v Baroda,Surat,2,11,1*,-,1,0,0,100,not out,1,3.3,0,32,0,9.14
+1159722,Simarjeet Singh,24 Nov 2019,v Haryana,Surat,2,10,0*,-,2,0,0,0,not out,1,4.0,0,43,2,10.75
+1159722,Simarjeet Singh,27 Nov 2019,v Rajasthan,Surat,2,10,1,-,2,0,0,50,caught,1,2.0,1,15,1,7.5
+1159722,Simarjeet Singh,11 Jan 2021,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1159722,Simarjeet Singh,13 Jan 2021,v Andhra,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+1159722,Simarjeet Singh,15 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,1,13
+1159722,Simarjeet Singh,17 Jan 2021,v Haryana,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,2,11
+1159722,Simarjeet Singh,19 Jan 2021,v Puducherry,Mumbai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+1159722,Simarjeet Singh,4 Nov 2021,v Uttarakhand,Rohtak,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+1159722,Simarjeet Singh,5 Nov 2021,v Chandigarh,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1159722,Simarjeet Singh,6 Nov 2021,v UP,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,1,13,2,3.25
+1159722,Simarjeet Singh,8 Nov 2021,v Hyderabad,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,31,0,15.5
+1159722,Simarjeet Singh,9 Nov 2021,v Saurashtra,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1159722,Simarjeet Singh,1 May 2022,v SRH,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+1159722,Simarjeet Singh,4 May 2022,v RCB,Pune,2,9,2*,10,2,0,0,100,not out,1,2.0,0,21,0,10.5
+1159722,Simarjeet Singh,8 May 2022,v DC,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+1159722,Simarjeet Singh,12 May 2022,v MI,Wankhede,1,9,2,5,3,0,0,66.66,lbw,2,4.0,0,22,1,5.5
+1159722,Simarjeet Singh,15 May 2022,v GT,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+1159722,Simarjeet Singh,20 May 2022,v RR,Brabourne,1,8,3*,4,3,0,0,100,not out,2,3.0,0,18,1,6
+1159722,Simarjeet Singh,5 May 2024,v Punjab Kings,Dharamsala,1,-,sub,-,-,-,-,-,-,2,3.0,0,16,2,5.33
+1159722,Simarjeet Singh,10 May 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,60,0,15
+1159722,Simarjeet Singh,12 May 2024,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+1159722,Simarjeet Singh,18 May 2024,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19
+1159722,Simarjeet Singh,23 Nov 2024,v UP,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1159722,Simarjeet Singh,25 Nov 2024,v J & K,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+1159722,Simarjeet Singh,27 Nov 2024,v Haryana,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.2,0,16,3,4.8
+1159722,Simarjeet Singh,1 Dec 2024,v Himachal,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.2,0,29,1,8.7
+1159722,Simarjeet Singh,11 Dec 2024,v UP,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+1159722,Simarjeet Singh,23 Mar 2025,v RR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,2,15.33
+1159722,Simarjeet Singh,27 Mar 2025,v LSG,Hyderabad,1,11,3*,6,4,0,0,75,not out,2,2.0,0,28,0,14
+1159722,Simarjeet Singh,3 Apr 2025,v KKR,Eden Gardens,2,10,0,1,1,0,0,0,bowled,1,4.0,0,47,0,11.75
+1159722,Simarjeet Singh,6 Apr 2025,v GT,Hyderabad,1,9,0,1,2,0,0,0,bowled,2,1.0,0,20,0,20
+1159722,Simarjeet Singh,26 Nov 2025,v Jharkhand,Ahmedabad,1,8,0,-,3,0,0,0,caught,2,3.0,0,31,1,10.33
+1159722,Simarjeet Singh,28 Nov 2025,v Tamil Nadu,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,2,13
+1159722,Simarjeet Singh,30 Nov 2025,v Saurashtra,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,67,0,16.75

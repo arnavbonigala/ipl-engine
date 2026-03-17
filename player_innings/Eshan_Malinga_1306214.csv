@@ -1,0 +1,40 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1306214,Eshan Malinga,25 May 2022,v Panadura,Colombo (Colts),1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+1306214,Eshan Malinga,27 May 2022,v Burgher,Colombo (Colts),-,-,TDNB,-,-,-,-,-,-,1,2.0,0,10,2,5
+1306214,Eshan Malinga,10 Jun 2022,v Nondescripts,Colombo (PSS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+1306214,Eshan Malinga,28 May 2023,v Bloomfield,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1306214,Eshan Malinga,30 May 2023,v Sebast CAC,Colombo (NCC),2,11,1*,-,1,0,0,100,not out,1,4.0,0,27,1,6.75
+1306214,Eshan Malinga,6 Jun 2023,v Colts CC,Colombo (CCC),1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,1,11
+1306214,Eshan Malinga,7 Jun 2023,v Nugegoda SWC,Colombo (PSS),1,11,0*,-,1,0,0,0,not out,2,3.2,0,24,1,7.2
+1306214,Eshan Malinga,14 Jul 2024,v Colombo,Colombo (RPS),1,10,15,-,17,0,1,88.23,lbw,2,1.5,0,26,0,14.18
+1306214,Eshan Malinga,18 Oct 2024,v AFG A,Al Amerat,2,11,0*,-,0,0,0,-,not out,1,4.0,0,32,0,8
+1306214,Eshan Malinga,20 Oct 2024,v Hong Kong,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1306214,Eshan Malinga,22 Oct 2024,v Bangladesh A,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+1306214,Eshan Malinga,25 Oct 2024,v Shaheens,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+1306214,Eshan Malinga,27 Oct 2024,v AFG A,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,3.1,0,20,1,6.31
+1306214,Eshan Malinga,18 Jan 2025,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+1306214,Eshan Malinga,23 Jan 2025,v Super Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+1306214,Eshan Malinga,1 Feb 2025,v Sunrisers,Gqeberha,2,10,8,5,4,0,1,200,caught,1,4.0,0,21,2,5.25
+1306214,Eshan Malinga,12 Apr 2025,v Punjab Kings,Hyderabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+1306214,Eshan Malinga,17 Apr 2025,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+1306214,Eshan Malinga,23 Apr 2025,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+1306214,Eshan Malinga,5 May 2025,v DC,Hyderabad,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+1306214,Eshan Malinga,19 May 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+1306214,Eshan Malinga,23 May 2025,v RCB,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1306214,Eshan Malinga,25 May 2025,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.4,0,31,3,8.45
+1306214,Eshan Malinga,5 Jun 2025,v Burgher,Colombo (CCC),1,11,0*,-,1,0,0,0,not out,2,4.0,0,22,1,5.5
+1306214,Eshan Malinga,6 Jun 2025,v Police SC,Colombo (Colts),2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,4,3.75
+1306214,Eshan Malinga,8 Jun 2025,v Tamil Union,Colombo (CCC),1,-,DNB,-,-,-,-,-,-,2,3.4,0,28,3,7.63
+1306214,Eshan Malinga,12 Jun 2025,v Moors,Colombo (PSS),2,11,0,-,2,0,0,0,bowled,1,4.0,0,38,2,9.5
+1306214,Eshan Malinga,8 Aug 2025,v SLC Blues,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,4,10.5
+1306214,Eshan Malinga,10 Aug 2025,v SLC Greens,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+1306214,Eshan Malinga,13 Aug 2025,v SLC Blues,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+1306214,Eshan Malinga,16 Aug 2025,v SLC Greens,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+1306214,Eshan Malinga,20 Nov 2025,v Zimbabwe,Rawalpindi,2,10,1,6,6,0,0,16.66,caught,1,4.0,0,27,2,6.75
+1306214,Eshan Malinga,22 Nov 2025,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,2.3,0,28,0,11.2
+1306214,Eshan Malinga,25 Nov 2025,v Zimbabwe,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+1306214,Eshan Malinga,27 Nov 2025,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,2,13.5
+1306214,Eshan Malinga,29 Nov 2025,v Pakistan,Rawalpindi,1,11,0*,3,1,0,0,0,not out,2,3.0,0,16,1,5.33
+1306214,Eshan Malinga,11 Jan 2026,v Pakistan,Dambulla,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,1,13.5
+1306214,Eshan Malinga,30 Jan 2026,v England,Pallekele,1,11,0*,2,0,0,0,-,not out,2,2.0,0,24,2,12
+1306214,Eshan Malinga,1 Feb 2026,v England,Pallekele,1,-,DNB,-,-,-,-,-,-,2,1.2,0,6,0,4.5

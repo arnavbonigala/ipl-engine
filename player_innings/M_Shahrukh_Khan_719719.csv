@@ -1,0 +1,117 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+719719,M Shahrukh Khan,1 Apr 2014,v Goa,Visakhapatnam,1,8,21*,6,8,2,1,262.5,not out,2,3.0,0,13,0,4.33
+719719,M Shahrukh Khan,2 Apr 2014,v Andhra,Vizianagaram,1,6,3,6,3,0,0,100,caught,2,1.0,0,9,1,9
+719719,M Shahrukh Khan,3 Apr 2014,v Hyderabad,Visakhapatnam,1,7,3,5,4,0,0,75,caught,2,2.0,0,13,0,6.5
+719719,M Shahrukh Khan,4 Apr 2014,v Kerala,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.2,0,24,1,7.2
+719719,M Shahrukh Khan,5 Apr 2014,v Karnataka,Visakhapatnam,2,7,4,-,8,0,0,50,run out,1,2.0,0,23,0,11.5
+719719,M Shahrukh Khan,25 Mar 2015,v Hyderabad,Kochi,1,6,1*,5,3,0,0,33.33,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,26 Mar 2015,v Kerala,Kochi,2,6,6,10,10,0,0,60,lbw,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,27 Mar 2015,v Karnataka,Kochi,1,6,12,25,14,1,0,85.71,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,7 Jan 2016,v Gujarat,Nagpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,10 Jan 2016,v Hyderabad,Nagpur,2,7,0,2,1,0,0,0,lbw,1,2.0,0,21,0,10.5
+719719,M Shahrukh Khan,21 Feb 2019,v Rajasthan,Surat,2,1,23,-,19,2,1,121.05,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,8 Nov 2019,v Kerala,Thumba,1,6,28,-,18,2,2,155.55,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,9 Nov 2019,v Rajasthan,Thumba,1,5,16*,-,13,0,1,123.07,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,11 Nov 2019,v UP,Thiruvananthapuram,1,5,4,-,3,1,0,133.33,stumped,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,14 Nov 2019,v Manipur,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,15 Nov 2019,v Tripura,Thiruvananthapuram,2,4,0*,-,1,0,0,0,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,17 Nov 2019,v Vidarbha,Thiruvananthapuram,1,6,19,-,16,0,2,118.75,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,21 Nov 2019,v Karnataka,Surat,1,6,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,22 Nov 2019,v Mumbai,Surat,2,1,17,-,11,2,1,154.54,bowled,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,25 Nov 2019,v Punjab,Surat,2,2,7,-,9,1,0,77.77,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,27 Nov 2019,v Jharkhand,Surat,2,2,24,-,28,2,1,85.71,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,29 Nov 2019,v Rajasthan,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,1 Dec 2019,v Karnataka,Surat,2,1,16,-,11,3,0,145.45,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,10 Jan 2021,v Jharkhand,Eden Gardens,1,5,12,-,4,0,2,300,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,12 Jan 2021,v Assam,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,14 Jan 2021,v Odisha,Eden Gardens,2,4,18*,-,10,1,2,180,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,16 Jan 2021,v Hyderabad,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,18 Jan 2021,v Bengal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,26 Jan 2021,v Himachal,Ahmedabad,2,7,40*,-,19,5,2,210.52,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,29 Jan 2021,v Rajasthan,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,31 Jan 2021,v Baroda,Ahmedabad,2,5,18*,-,7,2,1,257.14,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,12 Apr 2021,v RR,Wankhede,1,6,6*,12,4,1,0,150,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,16 Apr 2021,v CSK,Wankhede,1,6,47,55,36,4,2,130.55,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,18 Apr 2021,v DC,Wankhede,1,6,15*,6,5,2,1,300,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,21 Apr 2021,v SRH,Chennai,1,7,22,33,17,0,2,129.41,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,23 Apr 2021,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,26 Apr 2021,v KKR,Ahmedabad,1,7,13,21,14,0,1,92.85,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,30 Apr 2021,v RCB,Ahmedabad,1,6,0,4,3,0,0,0,bowled,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,2 May 2021,v DC,Ahmedabad,1,6,4,19,5,0,0,80,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,1 Oct 2021,v KKR,Dubai (DICS),2,6,22*,26,9,1,2,244.44,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,3 Oct 2021,v RCB,Sharjah,2,6,16,21,11,1,1,145.45,run out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,7 Oct 2021,v CSK,Dubai (DICS),2,4,8,19,10,0,1,80,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,4 Nov 2021,v Maharashtra,Lucknow,1,5,16,-,12,1,1,133.33,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,5 Nov 2021,v Odisha,Lucknow,1,5,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,6 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,8 Nov 2021,v Goa,Lucknow,1,7,26,-,24,3,0,108.33,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,9 Nov 2021,v Punjab,Lucknow,2,5,7*,5,3,0,1,233.33,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,18 Nov 2021,v Kerala,Delhi,2,6,19*,-,9,0,2,211.11,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,20 Nov 2021,v Hyderabad,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,22 Nov 2021,v Karnataka,Delhi,2,6,33*,-,15,1,3,220,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,27 Mar 2022,v RCB,DY Patil,2,6,24*,37,20,1,2,120,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,1 Apr 2022,v KKR,Wankhede,1,6,0,14,5,0,0,0,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,3 Apr 2022,v CSK,Brabourne,1,6,6,25,11,0,0,54.54,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,8 Apr 2022,v GT,Brabourne,1,7,15,15,8,0,2,187.5,lbw,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,13 Apr 2022,v MI,Pune,1,6,15,17,6,0,2,250,bowled,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,17 Apr 2022,v SRH,DY Patil,1,6,26,41,28,1,2,92.85,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,20 Apr 2022,v DC,Brabourne,1,6,12,35,20,0,0,60,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,22 May 2022,v SRH,Wankhede,2,3,19,19,10,2,1,190,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,11 Oct 2022,v Chhattisgarh,Lucknow,2,6,11,-,9,0,1,122.22,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,12 Oct 2022,v Odisha,Lucknow,2,6,19,-,18,1,1,105.55,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,14 Oct 2022,v Sikkim,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,16 Oct 2022,v Bengal,Lucknow,2,7,1,-,7,0,0,14.28,bowled,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,18 Oct 2022,v Jharkhand,Lucknow,1,9,5,-,9,1,0,55.55,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,20 Oct 2022,v Chandigarh,Lucknow,1,6,9,-,5,0,1,180,bowled,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,1 Apr 2023,v KKR,Mohali,1,7,11*,11,7,2,0,157.14,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,5 Apr 2023,v RR,Guwahati,1,6,11,23,10,1,0,110,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,9 Apr 2023,v SRH,Hyderabad,1,7,4,7,3,1,0,133.33,lbw,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,13 Apr 2023,v GT,Mohali,1,7,22,19,9,1,2,244.44,run out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,15 Apr 2023,v LSG,Lucknow,2,8,23*,26,10,1,2,230,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,20 Apr 2023,v RCB,Mohali,2,8,7,9,5,0,1,140,stumped,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,22 Apr 2023,v MI,Wankhede,1,8,0*,6,0,0,0,-,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,28 Apr 2023,v LSG,Mohali,2,8,6,18,9,0,0,66.66,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,30 Apr 2023,v CSK,Chennai,2,7,2*,21,3,0,0,66.66,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,3 May 2023,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,8 May 2023,v KKR,Eden Gardens,1,8,21*,20,8,3,1,262.5,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,13 May 2023,v DC,Delhi,1,7,2,22,4,0,0,50,run out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,17 May 2023,v DC,Dharamsala,2,6,6,7,3,0,1,200,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,19 May 2023,v RR,Dharamsala,1,7,41*,31,23,4,2,178.26,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,17 Oct 2023,v UP,Dehradun,1,5,5,-,7,1,0,71.42,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,19 Oct 2023,v Tripura,Dehradun,2,4,15*,-,7,1,1,214.28,not out,1,sub,-,-,-,-
+719719,M Shahrukh Khan,23 Oct 2023,v Delhi,Dehradun,2,7,17,-,8,2,1,212.5,caught,1,sub,-,-,-,-
+719719,M Shahrukh Khan,25 Oct 2023,v M. Pradesh,Dehradun,1,6,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,27 Oct 2023,v Nagaland,Dehradun,1,5,23,-,16,2,1,143.75,caught,2,4.0,0,39,1,9.75
+719719,M Shahrukh Khan,10 Apr 2024,v RR,Jaipur,2,7,14,14,8,1,1,175,lbw,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,17 Apr 2024,v DC,Ahmedabad,1,7,0,3,1,0,0,0,stumped,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,21 Apr 2024,v Punjab Kings,New Chandigarh,2,7,8,17,4,0,1,200,bowled,1,1.0,0,7,0,7
+719719,M Shahrukh Khan,24 Apr 2024,v DC,Delhi,2,6,8,8,5,0,1,160,caught,1,1.0,0,8,0,8
+719719,M Shahrukh Khan,28 Apr 2024,v RCB,Ahmedabad,1,4,58,34,30,3,5,193.33,bowled,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,4 May 2024,v RCB,Bengaluru,1,4,37,46,24,5,1,154.16,run out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,10 May 2024,v CSK,Ahmedabad,1,4,2,12,3,0,0,66.66,run out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,23 Nov 2024,v Tripura,Indore,1,4,31,-,18,2,2,172.22,caught,2,1.0,0,18,0,18
+719719,M Shahrukh Khan,25 Nov 2024,v Sikkim,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+719719,M Shahrukh Khan,27 Nov 2024,v Baroda,Indore,1,4,39,-,25,3,2,156,caught,2,1.0,0,21,0,21
+719719,M Shahrukh Khan,29 Nov 2024,v Gujarat,Indore,2,5,33,-,33,1,2,100,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,1 Dec 2024,v Karnataka,Indore,1,4,19,-,17,1,1,111.76,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,3 Dec 2024,v Saurashtra,Indore,2,6,0,-,2,0,0,0,caught,1,2.0,0,16,1,8
+719719,M Shahrukh Khan,5 Dec 2024,v Uttarakhand,Indore,1,5,15,-,8,1,1,187.5,caught,2,4.0,0,19,2,4.75
+719719,M Shahrukh Khan,25 Mar 2025,v Punjab Kings,Ahmedabad,2,6,6*,4,1,0,1,600,not out,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,29 Mar 2025,v MI,Ahmedabad,1,4,9,9,7,0,1,128.57,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,2 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,6 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,9 Apr 2025,v RR,Ahmedabad,1,4,36,29,20,4,2,180,stumped,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,12 Apr 2025,v LSG,Lucknow,1,6,11*,25,6,0,1,183.33,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,19 Apr 2025,v DC,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,21 Apr 2025,v KKR,Eden Gardens,1,5,11*,8,5,0,1,220,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,28 Apr 2025,v RR,Jaipur,1,6,5*,2,2,1,0,250,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,2 May 2025,v SRH,Ahmedabad,1,5,6*,8,2,0,1,300,not out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,6 May 2025,v MI,Wankhede,2,5,6,14,6,1,0,100,bowled,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,22 May 2025,v LSG,Ahmedabad,2,5,57,49,29,5,3,196.55,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,25 May 2025,v CSK,Ahmedabad,2,5,19,25,15,0,2,126.66,caught,1,1.0,0,13,1,13
+719719,M Shahrukh Khan,30 May 2025,v MI,New Chandigarh,2,7,13,10,7,0,1,185.71,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,26 Nov 2025,v Rajasthan,Ahmedabad,1,6,3,-,5,0,0,60,run out,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,28 Nov 2025,v Delhi,Ahmedabad,1,4,6,-,5,1,0,120,caught,2,DNB,-,-,-,-
+719719,M Shahrukh Khan,30 Nov 2025,v Uttarakhand,Ahmedabad,2,6,7,-,9,0,0,77.77,caught,1,DNB,-,-,-,-
+719719,M Shahrukh Khan,2 Dec 2025,v Karnataka,Ahmedabad,2,6,2,-,5,0,0,40,stumped,1,1.0,0,17,0,17

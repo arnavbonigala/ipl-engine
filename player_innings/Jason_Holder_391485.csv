@@ -1,0 +1,343 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+391485,Jason Holder,22 Apr 2010,v Zimbabwe,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+391485,Jason Holder,24 Apr 2010,v Zimbabwe,St Andrew's,2,8,7*,-,3,0,1,233.33,not out,1,4.0,0,26,1,6.5
+391485,Jason Holder,5 Nov 2010,v Pakistan A,North Sound,2,8,2,-,3,0,0,66.66,run out,1,4.0,0,24,1,6
+391485,Jason Holder,10 Jan 2012,v Jamaica,North Sound,1,8,6,-,3,1,0,200,bowled,2,4.0,0,33,2,8.25
+391485,Jason Holder,14 Jan 2012,v Sussex,North Sound,1,7,2*,-,3,0,0,66.66,not out,2,2.0,0,20,0,10
+391485,Jason Holder,18 Jan 2012,v Netherlands,Bridgetown,2,7,13,-,9,1,0,144.44,run out,1,4.0,0,35,1,8.75
+391485,Jason Holder,23 Jun 2012,v India A,Port of Spain,2,7,10,19,10,0,0,100,stumped,1,3.0,0,19,3,6.33
+391485,Jason Holder,24 Jun 2012,v India A,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+391485,Jason Holder,6 Sep 2012,v BCB XI,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+391485,Jason Holder,7 Sep 2012,v Trinidad & T,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+391485,Jason Holder,8 Sep 2012,v Afghanistan,Port of Spain,1,11,4*,8,5,0,0,80,not out,2,4.0,0,21,0,5.25
+391485,Jason Holder,7 Jan 2013,v Guyana,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+391485,Jason Holder,8 Jan 2013,v Trinidad & T,Port of Spain,1,6,7,-,12,0,0,58.33,caught,2,3.2,0,19,1,5.7
+391485,Jason Holder,10 Jan 2013,v Windward Is,Port of Spain,2,6,4,-,11,0,0,36.36,caught,1,4.0,0,26,2,6.5
+391485,Jason Holder,11 Jan 2013,v Barbados,Port of Spain,1,6,2,-,12,0,0,16.66,caught,2,4.0,1,11,1,2.75
+391485,Jason Holder,16 Jan 2013,v Leeward Is,Gros Islet,2,8,20,-,8,1,2,250,run out,1,2.4,0,31,1,11.62
+391485,Jason Holder,18 Jan 2013,v Jamaica,Gros Islet,1,7,3*,-,3,0,0,100,not out,2,3.0,0,15,0,5
+391485,Jason Holder,22 Apr 2013,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+391485,Jason Holder,25 Apr 2013,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+391485,Jason Holder,8 May 2013,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+391485,Jason Holder,12 May 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+391485,Jason Holder,14 May 2013,v Daredevils,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+391485,Jason Holder,18 May 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,20,0,20
+391485,Jason Holder,30 Jul 2013,v Zouks,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+391485,Jason Holder,1 Aug 2013,v Hawksbills,Bridgetown,1,10,6*,-,1,0,1,600,not out,2,2.0,0,15,0,7.5
+391485,Jason Holder,3 Aug 2013,v Red Steel,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+391485,Jason Holder,8 Aug 2013,v Zouks,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+391485,Jason Holder,11 Aug 2013,v Amazon,Port of Spain,2,11,16,-,4,1,2,400,stumped,1,4.0,0,15,1,3.75
+391485,Jason Holder,17 Aug 2013,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,2.1,0,6,0,2.76
+391485,Jason Holder,23 Aug 2013,v Tallawahs,Port of Spain,1,3,5,-,5,1,0,100,caught,2,3.0,0,22,0,7.33
+391485,Jason Holder,22 Sep 2013,v Titans,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+391485,Jason Holder,26 Sep 2013,v SRH,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+391485,Jason Holder,28 Sep 2013,v Heat,Ranchi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+391485,Jason Holder,2 Oct 2013,v Trinidad & T,Delhi,1,10,0,1,1,0,0,0,caught,2,2.0,0,17,0,8.5
+391485,Jason Holder,4 Oct 2013,v RR,Jaipur,2,10,0*,1,0,0,0,-,not out,1,4.0,0,35,2,8.75
+391485,Jason Holder,15 Jan 2014,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,2,11.33
+391485,Jason Holder,18 Jan 2014,v Northern Dis,Hamilton,1,5,5,4,5,1,0,100,bowled,2,4.0,0,38,2,9.5
+391485,Jason Holder,24 May 2014,v KKR,Eden Gardens,1,7,16,14,12,2,1,133.33,run out,2,3.0,0,35,1,11.66
+391485,Jason Holder,12 Jul 2014,v Red Steel,St George's,1,7,17*,-,9,1,1,188.88,not out,2,4.0,0,17,0,4.25
+391485,Jason Holder,19 Jul 2014,v Hawksbills,North Sound,2,6,19*,-,9,0,2,211.11,not out,1,3.0,0,35,1,11.66
+391485,Jason Holder,23 Jul 2014,v Zouks,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+391485,Jason Holder,25 Jul 2014,v Hawksbills,Bridgetown,2,7,5,-,6,1,0,83.33,caught,1,4.0,1,18,0,4.5
+391485,Jason Holder,26 Jul 2014,v Amazon,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+391485,Jason Holder,31 Jul 2014,v Zouks,Gros Islet,2,3,48,-,30,5,2,160,lbw,1,3.0,0,25,0,8.33
+391485,Jason Holder,3 Aug 2014,v Tallawahs,Kingston,2,7,7,-,6,1,0,116.66,caught,1,4.0,0,21,0,5.25
+391485,Jason Holder,7 Aug 2014,v Red Steel,Basseterre,1,7,0*,-,0,0,0,-,not out,2,4.0,0,27,4,6.75
+391485,Jason Holder,10 Aug 2014,v Tallawahs,Basseterre,1,7,12,-,4,0,2,300,bowled,2,4.0,0,17,1,4.25
+391485,Jason Holder,16 Aug 2014,v Amazon,Basseterre,1,3,0,-,1,0,0,0,bowled,2,4.0,0,18,2,4.5
+391485,Jason Holder,20 Sep 2014,v Kings XI,Mohali,1,7,12,12,9,0,1,133.33,caught,2,3.4,0,38,0,10.36
+391485,Jason Holder,26 Sep 2014,v Cape Cobras,Mohali,1,7,0,2,2,0,0,0,caught,2,2.0,0,30,0,15
+391485,Jason Holder,28 Sep 2014,v Hurricanes,Mohali,1,6,5,14,10,0,0,50,caught,2,2.0,0,12,0,6
+391485,Jason Holder,30 Sep 2014,v Northern Dis,Bengaluru,2,3,11,14,11,2,0,100,caught,1,1.0,0,12,0,12
+391485,Jason Holder,9 Jan 2015,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+391485,Jason Holder,11 Jan 2015,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+391485,Jason Holder,20 Jun 2015,v Amazon,Bridgetown,1,6,1,15,4,0,0,25,run out,2,4.0,0,21,1,5.25
+391485,Jason Holder,23 Jun 2015,v Tallawahs,Bridgetown,1,6,9*,7,5,0,1,180,not out,2,4.0,0,31,0,7.75
+391485,Jason Holder,25 Jun 2015,v Red Steel,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,3,2.75
+391485,Jason Holder,27 Jun 2015,v Patriots,Bridgetown,2,6,4,5,2,1,0,200,caught,1,4.0,0,18,0,4.5
+391485,Jason Holder,1 Jul 2015,v Zouks,Basseterre,1,9,1*,-,1,0,0,100,not out,2,3.0,0,26,0,8.66
+391485,Jason Holder,3 Jul 2015,v Zouks,Basseterre,2,7,31*,-,19,2,2,163.15,not out,1,4.0,0,47,0,11.75
+391485,Jason Holder,6 Jul 2015,v Patriots,Basseterre,1,4,17,-,19,1,1,89.47,caught,2,2.0,0,25,0,12.5
+391485,Jason Holder,11 Jul 2015,v Tallawahs,Kingston,1,6,26,-,22,2,1,118.18,bowled,2,4.0,0,36,2,9
+391485,Jason Holder,16 Jul 2015,v Red Steel,Port of Spain,2,7,5,-,4,1,0,125,bowled,1,4.0,0,41,0,10.25
+391485,Jason Holder,18 Jul 2015,v Amazon,Providence,1,7,30,-,17,2,2,176.47,caught,2,DNB,-,-,-,-
+391485,Jason Holder,26 Jul 2015,v Red Steel,Port of Spain,2,6,20*,-,20,2,0,100,not out,1,2.0,0,21,0,10.5
+391485,Jason Holder,9 Nov 2015,v Sri Lanka,Pallekele,2,8,2,6,4,0,0,50,caught,1,2.0,0,27,0,13.5
+391485,Jason Holder,30 Apr 2016,v Daredevils,Delhi,2,8,0,2,1,0,0,0,run out,1,4.0,0,35,0,8.75
+391485,Jason Holder,19 May 2016,v Guj Lions,Kanpur,1,8,13,14,8,1,1,162.5,caught,2,2.0,0,14,0,7
+391485,Jason Holder,22 May 2016,v SRH,Eden Gardens,1,6,3,5,3,0,0,100,caught,2,3.0,0,21,0,7
+391485,Jason Holder,25 May 2016,v SRH,Delhi,2,8,6,12,7,1,0,85.71,caught,1,4.0,0,33,2,8.25
+391485,Jason Holder,26 Mar 2017,v Pakistan,Bridgetown,1,9,14,-,12,2,0,116.66,caught,2,3.1,0,27,2,8.52
+391485,Jason Holder,30 Mar 2017,v Pakistan,Port of Spain,2,8,26*,-,17,2,1,152.94,not out,1,4.0,0,32,0,8
+391485,Jason Holder,1 Apr 2017,v Pakistan,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+391485,Jason Holder,2 Apr 2017,v Pakistan,Port of Spain,1,8,0,-,4,0,0,0,caught,2,3.0,0,24,0,8
+391485,Jason Holder,12 Aug 2018,v Amazon,Providence,1,6,3*,-,3,0,0,100,not out,2,4.0,0,41,1,10.25
+391485,Jason Holder,17 Aug 2018,v Stars,Gros Islet,2,7,14,-,9,2,0,155.55,caught,1,4.0,0,42,1,10.5
+391485,Jason Holder,22 Aug 2018,v Tallawahs,Lauderhill,1,7,0,-,1,0,0,0,run out,2,1.0,0,20,0,20
+391485,Jason Holder,25 Aug 2018,v Patriots,Bridgetown,1,3,54,-,35,4,3,154.28,caught,2,4.0,0,38,0,9.5
+391485,Jason Holder,26 Aug 2018,v Trinbago,Bridgetown,1,6,30,-,33,3,0,90.9,caught,2,4.0,0,13,0,3.25
+391485,Jason Holder,29 Aug 2018,v Tallawahs,Bridgetown,1,5,7,-,3,0,1,233.33,run out,2,3.0,0,28,0,9.33
+391485,Jason Holder,31 Aug 2018,v Amazon,Bridgetown,1,7,1,-,3,0,0,33.33,caught,2,3.0,0,40,0,13.33
+391485,Jason Holder,2 Sep 2018,v Stars,Bridgetown,1,7,6,-,8,0,0,75,caught,2,3.3,0,25,2,7.14
+391485,Jason Holder,4 Sep 2018,v Patriots,Basseterre,1,7,30*,-,11,2,3,272.72,not out,2,4.0,0,27,1,6.75
+391485,Jason Holder,7 Sep 2018,v Trinbago,Port of Spain,2,5,21,-,16,1,1,131.25,caught,1,1.0,0,12,0,12
+391485,Jason Holder,5 Mar 2019,v England,Gros Islet,1,8,7,-,5,1,0,140,caught,2,4.0,0,26,1,6.5
+391485,Jason Holder,8 Mar 2019,v England,Basseterre,2,5,0,-,1,0,0,0,lbw,1,4.0,0,29,0,7.25
+391485,Jason Holder,10 Mar 2019,v England,Basseterre,1,5,11,19,13,0,1,84.61,caught,2,3.0,0,19,1,6.33
+391485,Jason Holder,8 Sep 2019,v Amazon,Providence,2,6,4,-,5,0,0,80,run out,1,4.0,1,31,1,7.75
+391485,Jason Holder,11 Sep 2019,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+391485,Jason Holder,15 Sep 2019,v Tallawahs,Kingston,1,5,0,-,1,0,0,0,caught,2,4.0,0,21,2,5.25
+391485,Jason Holder,20 Sep 2019,v Zouks,Gros Islet,1,6,10*,-,6,0,1,166.66,not out,2,4.0,0,24,2,6
+391485,Jason Holder,22 Sep 2019,v Amazon,Bridgetown,1,6,2,-,8,0,0,25,caught,2,3.0,0,17,0,5.66
+391485,Jason Holder,23 Sep 2019,v Tallawahs,Bridgetown,2,6,2,-,7,0,0,28.57,caught,1,4.0,1,21,2,5.25
+391485,Jason Holder,26 Sep 2019,v Trinbago,Bridgetown,1,6,0,-,1,0,0,0,caught,2,4.0,0,38,1,9.5
+391485,Jason Holder,28 Sep 2019,v Patriots,Bridgetown,2,6,1,-,7,0,0,14.28,caught,1,3.0,0,16,1,5.33
+391485,Jason Holder,29 Sep 2019,v Zouks,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+391485,Jason Holder,2 Oct 2019,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+391485,Jason Holder,6 Oct 2019,v Amazon,Providence,2,7,29,-,15,0,3,193.33,caught,1,4.0,0,36,1,9
+391485,Jason Holder,10 Oct 2019,v Trinbago,Tarouba,1,7,1,-,2,0,0,50,caught,2,4.0,0,24,1,6
+391485,Jason Holder,12 Oct 2019,v Amazon,Tarouba,1,6,1,-,3,0,0,33.33,run out,2,4.0,0,37,0,9.25
+391485,Jason Holder,14 Nov 2019,v Afghanistan,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+391485,Jason Holder,16 Nov 2019,v Afghanistan,Lucknow,2,7,13,-,9,2,0,144.44,stumped,1,4.0,0,23,2,5.75
+391485,Jason Holder,17 Nov 2019,v Afghanistan,Lucknow,2,7,6,-,5,1,0,120,caught,1,4.0,0,26,0,6.5
+391485,Jason Holder,6 Dec 2019,v India,Hyderabad,1,6,24*,-,9,1,2,266.66,not out,2,4.0,0,46,0,11.5
+391485,Jason Holder,8 Dec 2019,v India,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+391485,Jason Holder,11 Dec 2019,v India,Wankhede,2,6,8,-,5,1,0,160,caught,1,4.0,0,54,0,13.5
+391485,Jason Holder,18 Aug 2020,v Patriots,Tarouba,1,5,38,-,22,2,3,172.72,caught,2,4.0,0,21,0,5.25
+391485,Jason Holder,20 Aug 2020,v Zouks,Tarouba,1,5,27,-,12,2,2,225,caught,2,1.0,0,13,0,13
+391485,Jason Holder,23 Aug 2020,v Trinbago,Tarouba,2,6,34*,-,19,2,3,178.94,not out,1,4.0,0,37,1,9.25
+391485,Jason Holder,25 Aug 2020,v Patriots,Port of Spain,1,4,2,-,3,0,0,66.66,run out,2,4.0,1,18,1,4.5
+391485,Jason Holder,26 Aug 2020,v Tallawahs,Port of Spain,1,4,15,-,14,0,1,107.14,caught,2,2.0,0,18,2,9
+391485,Jason Holder,29 Aug 2020,v Trinbago,Port of Spain,1,4,3,-,7,0,0,42.85,bowled,2,4.0,1,27,2,6.75
+391485,Jason Holder,30 Aug 2020,v Zouks,Port of Spain,2,4,1,-,5,0,0,20,lbw,1,2.0,0,15,1,7.5
+391485,Jason Holder,1 Sep 2020,v Amazon,Tarouba,1,4,0,-,1,0,0,0,run out,2,4.0,1,22,0,5.5
+391485,Jason Holder,3 Sep 2020,v Amazon,Tarouba,1,6,3,-,12,0,0,25,caught,2,4.0,1,10,2,2.5
+391485,Jason Holder,5 Sep 2020,v Tallawahs,Tarouba,2,4,69,-,42,9,3,164.28,lbw,1,4.0,0,38,1,9.5
+391485,Jason Holder,22 Oct 2020,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+391485,Jason Holder,24 Oct 2020,v Kings XI,Dubai (DICS),2,6,5,-,8,0,0,62.5,caught,1,4.0,0,27,2,6.75
+391485,Jason Holder,27 Oct 2020,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+391485,Jason Holder,31 Oct 2020,v RCB,Sharjah,2,6,26*,-,10,1,3,260,not out,1,4.0,0,27,2,6.75
+391485,Jason Holder,3 Nov 2020,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+391485,Jason Holder,6 Nov 2020,v RCB,Abu Dhabi,2,6,24*,-,20,3,0,120,not out,1,4.0,0,25,3,6.25
+391485,Jason Holder,8 Nov 2020,v DC,Abu Dhabi,2,5,11,-,15,1,0,73.33,caught,1,4.0,0,50,1,12.5
+391485,Jason Holder,20 Dec 2020,v Strikers,Hobart,1,7,11*,-,5,1,1,220,not out,2,2.0,0,26,0,13
+391485,Jason Holder,26 Dec 2020,v Stars,Carrara,2,7,18,-,11,3,1,163.63,caught,1,4.0,0,26,1,6.5
+391485,Jason Holder,29 Dec 2020,v Renegades,Carrara,2,7,33*,-,18,3,2,183.33,not out,1,4.0,0,31,1,7.75
+391485,Jason Holder,3 Mar 2021,v Sri Lanka,Coolidge,2,6,29*,40,24,1,2,120.83,not out,1,4.0,0,19,1,4.75
+391485,Jason Holder,5 Mar 2021,v Sri Lanka,Coolidge,2,5,9,10,5,0,1,180,caught,1,4.0,0,36,1,9
+391485,Jason Holder,7 Mar 2021,v Sri Lanka,Coolidge,2,6,14*,36,23,0,1,60.86,not out,1,4.0,0,27,1,6.75
+391485,Jason Holder,14 Apr 2021,v RCB,Chennai,2,7,4,10,5,0,0,80,caught,1,4.0,0,30,3,7.5
+391485,Jason Holder,26 Jun 2021,v South Africa,St George's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+391485,Jason Holder,27 Jun 2021,v South Africa,St George's,2,7,20,31,20,0,1,100,run out,1,3.0,0,26,1,8.66
+391485,Jason Holder,29 Jun 2021,v South Africa,St George's,2,3,16,18,11,1,1,145.45,caught,1,3.0,0,18,0,6
+391485,Jason Holder,28 Jul 2021,v Pakistan,Bridgetown,1,8,2*,9,4,0,0,50,not out,-,TDNB,-,-,-,-
+391485,Jason Holder,31 Jul 2021,v Pakistan,Providence,2,7,0*,3,0,0,0,-,not out,1,4.0,0,26,4,6.5
+391485,Jason Holder,1 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+391485,Jason Holder,3 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+391485,Jason Holder,26 Aug 2021,v Patriots,Basseterre,2,4,10,22,14,2,0,71.42,caught,1,4.0,0,45,1,11.25
+391485,Jason Holder,27 Aug 2021,v Trinbago,Basseterre,1,3,3,10,4,0,0,75,caught,2,4.0,1,30,0,7.5
+391485,Jason Holder,28 Aug 2021,v Tallawahs,Basseterre,1,5,12,13,12,2,0,100,caught,2,3.0,0,22,1,7.33
+391485,Jason Holder,31 Aug 2021,v Tallawahs,Basseterre,1,5,0,5,2,0,0,0,caught,2,4.0,0,44,1,11
+391485,Jason Holder,2 Sep 2021,v Patriots,Basseterre,1,6,19,22,7,1,2,271.42,run out,2,3.0,0,22,0,7.33
+391485,Jason Holder,4 Sep 2021,v Amazon,Basseterre,1,7,9,25,14,0,0,64.28,caught,2,2.0,0,24,0,12
+391485,Jason Holder,7 Sep 2021,v Amazon,Basseterre,1,6,22,18,7,2,2,314.28,caught,2,4.0,0,28,1,7
+391485,Jason Holder,9 Sep 2021,v Trinbago,Basseterre,1,7,0,5,3,0,0,0,caught,2,3.0,0,9,0,3
+391485,Jason Holder,11 Sep 2021,v Kings,Basseterre,2,5,34,-,24,1,3,141.66,caught,1,4.0,0,40,1,10
+391485,Jason Holder,12 Sep 2021,v Kings,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+391485,Jason Holder,22 Sep 2021,v DC,Dubai (DICS),1,7,10,12,9,0,1,111.11,caught,2,3.5,0,33,0,8.6
+391485,Jason Holder,25 Sep 2021,v Punjab Kings,Sharjah,2,7,47*,35,29,0,5,162.06,not out,1,4.0,0,19,3,4.75
+391485,Jason Holder,27 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+391485,Jason Holder,30 Sep 2021,v CSK,Sharjah,1,7,5,10,5,0,0,100,caught,2,4.0,0,27,3,6.75
+391485,Jason Holder,3 Oct 2021,v KKR,Dubai (DICS),1,7,2,10,9,0,0,22.22,caught,2,4.0,0,32,2,8
+391485,Jason Holder,6 Oct 2021,v RCB,Abu Dhabi,1,7,16,22,13,2,0,123.07,caught,2,4.0,0,27,1,6.75
+391485,Jason Holder,8 Oct 2021,v MI,Abu Dhabi,2,7,1,7,2,0,0,50,caught,1,4.0,0,52,4,13
+391485,Jason Holder,29 Oct 2021,v Bangladesh,Sharjah,1,9,15*,10,5,0,2,300,not out,2,4.0,0,22,1,5.5
+391485,Jason Holder,4 Nov 2021,v Sri Lanka,Abu Dhabi,2,8,8,7,5,0,1,160,caught,1,4.0,0,37,0,9.25
+391485,Jason Holder,6 Nov 2021,v Australia,Abu Dhabi,1,9,1*,4,1,0,0,100,not out,2,2.0,0,26,0,13
+391485,Jason Holder,22 Jan 2022,v England,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.4,1,7,4,1.9
+391485,Jason Holder,23 Jan 2022,v England,Bridgetown,2,6,1,15,6,0,0,16.66,caught,1,4.0,0,25,2,6.25
+391485,Jason Holder,26 Jan 2022,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+391485,Jason Holder,29 Jan 2022,v England,Bridgetown,2,5,36,32,24,2,3,150,caught,1,4.0,0,44,3,11
+391485,Jason Holder,30 Jan 2022,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,2.5,0,27,5,9.52
+391485,Jason Holder,18 Feb 2022,v India,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+391485,Jason Holder,20 Feb 2022,v India,Eden Gardens,2,6,2,13,6,0,0,33.33,caught,1,4.0,0,29,1,7.25
+391485,Jason Holder,4 Apr 2022,v SRH,DY Patil,1,8,8*,8,3,0,1,266.66,not out,2,4.0,0,34,3,8.5
+391485,Jason Holder,7 Apr 2022,v DC,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+391485,Jason Holder,10 Apr 2022,v RR,Wankhede,2,4,8,17,14,2,0,57.14,caught,1,4.0,0,50,2,12.5
+391485,Jason Holder,16 Apr 2022,v MI,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+391485,Jason Holder,19 Apr 2022,v RCB,DY Patil,2,8,16,18,9,0,2,177.77,caught,1,4.0,0,25,2,6.25
+391485,Jason Holder,24 Apr 2022,v MI,Wankhede,1,8,0*,2,2,0,0,0,not out,2,4.0,0,36,1,9
+391485,Jason Holder,29 Apr 2022,v Punjab Kings,Pune,1,7,11,15,8,0,1,137.5,caught,2,1.0,0,8,0,8
+391485,Jason Holder,1 May 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+391485,Jason Holder,7 May 2022,v KKR,Pune,1,7,13,6,4,0,2,325,caught,2,2.3,0,31,3,12.4
+391485,Jason Holder,10 May 2022,v GT,Pune,2,8,1,4,2,0,0,50,lbw,1,4.0,0,41,1,10.25
+391485,Jason Holder,15 May 2022,v RR,Brabourne,2,7,1,5,2,0,0,50,caught,1,2.0,0,12,1,6
+391485,Jason Holder,18 May 2022,v KKR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+391485,Jason Holder,29 Jul 2022,v India,Tarouba,2,3,0,7,4,0,0,0,bowled,1,4.0,0,50,1,12.5
+391485,Jason Holder,1 Aug 2022,v India,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.4,0,23,2,6.27
+391485,Jason Holder,2 Aug 2022,v India,Basseterre,1,7,1*,1,1,0,0,100,not out,2,3.0,0,30,1,10
+391485,Jason Holder,6 Aug 2022,v India,Lauderhill,2,7,13,16,9,1,1,144.44,caught,1,4.0,0,33,0,8.25
+391485,Jason Holder,7 Aug 2022,v India,Lauderhill,2,1,0,2,3,0,0,0,bowled,1,4.0,0,38,1,9.5
+391485,Jason Holder,10 Aug 2022,v New Zealand,Kingston,2,6,25,42,19,3,0,131.57,caught,1,4.0,0,42,1,10.5
+391485,Jason Holder,12 Aug 2022,v New Zealand,Kingston,2,6,11,17,9,0,1,122.22,caught,1,4.0,0,40,0,10
+391485,Jason Holder,1 Sep 2022,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+391485,Jason Holder,4 Sep 2022,v Kings,Basseterre,1,8,15,-,15,1,0,100,caught,2,2.0,0,20,0,10
+391485,Jason Holder,7 Sep 2022,v Trinbago,Gros Islet,1,6,14*,4,4,2,1,350,not out,2,1.0,0,3,1,3
+391485,Jason Holder,8 Sep 2022,v Kings,Gros Islet,2,6,7*,16,8,0,0,87.5,not out,1,4.0,0,29,1,7.25
+391485,Jason Holder,11 Sep 2022,v Tallawahs,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+391485,Jason Holder,13 Sep 2022,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+391485,Jason Holder,15 Sep 2022,v Tallawahs,Port of Spain,1,7,4*,8,3,0,0,133.33,not out,2,4.0,0,33,3,8.25
+391485,Jason Holder,18 Sep 2022,v Amazon,Tarouba,1,5,40*,-,33,1,3,121.21,not out,2,2.0,0,8,1,4
+391485,Jason Holder,21 Sep 2022,v Patriots,Providence,1,5,8*,3,3,1,0,266.66,not out,2,4.0,0,31,2,7.75
+391485,Jason Holder,25 Sep 2022,v Amazon,Providence,1,5,42,-,39,1,3,107.69,caught,2,3.0,0,22,1,7.33
+391485,Jason Holder,27 Sep 2022,v Amazon,Providence,1,6,8*,-,5,0,1,160,not out,2,3.0,0,19,1,6.33
+391485,Jason Holder,30 Sep 2022,v Tallawahs,Providence,1,4,17,24,19,2,0,89.47,bowled,2,3.0,0,14,1,4.66
+391485,Jason Holder,5 Oct 2022,v Australia,Carrara,1,7,13,9,7,0,2,185.71,bowled,2,4.0,0,30,1,7.5
+391485,Jason Holder,7 Oct 2022,v Australia,Brisbane,2,5,16,22,13,1,0,123.07,caught,1,3.0,0,27,0,9
+391485,Jason Holder,17 Oct 2022,v Scotland,Hobart,2,7,38,37,33,4,1,115.15,caught,1,3.0,0,14,2,4.66
+391485,Jason Holder,19 Oct 2022,v Zimbabwe,Hobart,1,7,4,3,3,0,0,133.33,caught,2,3.2,0,12,3,3.6
+391485,Jason Holder,21 Oct 2022,v Ireland,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+391485,Jason Holder,11 Jan 2023,v Super Kings,Durban,2,5,2*,18,4,0,0,50,not out,1,2.0,0,23,1,11.5
+391485,Jason Holder,13 Jan 2023,v MI Cape Town,Cape Town,2,5,11*,20,10,0,1,110,not out,1,4.0,0,27,1,6.75
+391485,Jason Holder,15 Jan 2023,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,0,12.25
+391485,Jason Holder,17 Jan 2023,v Paarl Royals,Paarl,2,6,17,16,12,1,1,141.66,caught,1,DNB,-,-,-,-
+391485,Jason Holder,20 Jan 2023,v Capitals,Durban,1,5,10,20,16,0,1,62.5,caught,2,1.0,0,10,0,10
+391485,Jason Holder,22 Jan 2023,v Sunrisers,Gqeberha,2,6,7,-,8,1,0,87.5,caught,1,4.0,0,41,0,10.25
+391485,Jason Holder,24 Jan 2023,v Super Kings,Johannesburg,1,7,28*,11,12,4,1,233.33,not out,2,2.0,0,31,0,15.5
+391485,Jason Holder,26 Mar 2023,v South Africa,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,1,12
+391485,Jason Holder,28 Mar 2023,v South Africa,Johannesburg,1,7,13,15,9,0,1,144.44,caught,2,4.0,0,42,1,10.5
+391485,Jason Holder,2 Apr 2023,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+391485,Jason Holder,5 Apr 2023,v Punjab Kings,Guwahati,2,9,1*,4,1,0,0,100,not out,1,4.0,0,29,2,7.25
+391485,Jason Holder,8 Apr 2023,v DC,Guwahati,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+391485,Jason Holder,12 Apr 2023,v CSK,Chennai,1,8,0,6,1,0,0,0,caught,2,3.0,0,37,0,12.33
+391485,Jason Holder,19 Apr 2023,v LSG,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+391485,Jason Holder,23 Apr 2023,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+391485,Jason Holder,27 Apr 2023,v CSK,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,0,12.25
+391485,Jason Holder,30 Apr 2023,v MI,Wankhede,1,5,11,18,9,0,1,122.22,caught,2,3.3,0,55,0,15.71
+391485,Jason Holder,3 Aug 2023,v India,Tarouba,1,8,6*,8,5,0,0,120,not out,2,4.0,1,19,2,4.75
+391485,Jason Holder,6 Aug 2023,v India,Providence,2,8,0,3,3,0,0,0,stumped,1,4.0,0,29,0,7.25
+391485,Jason Holder,12 Aug 2023,v India,Lauderhill,1,8,3,5,4,0,0,75,bowled,2,4.0,0,33,0,8.25
+391485,Jason Holder,13 Aug 2023,v India,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+391485,Jason Holder,17 Aug 2023,v Kings,Gros Islet,2,6,10,18,8,0,1,125,bowled,1,4.0,0,38,4,9.5
+391485,Jason Holder,26 Aug 2023,v Patriots,Basseterre,2,3,24,-,20,2,1,120,caught,1,3.1,0,30,0,9.47
+391485,Jason Holder,30 Aug 2023,v Trinbago,Bridgetown,2,5,14,23,15,2,0,93.33,caught,1,4.0,0,39,2,9.75
+391485,Jason Holder,31 Aug 2023,v Tallawahs,Bridgetown,2,6,9*,5,3,2,0,300,not out,1,4.0,0,19,2,4.75
+391485,Jason Holder,2 Sep 2023,v Kings,Bridgetown,2,6,18,34,11,1,1,163.63,caught,1,4.0,0,40,2,10
+391485,Jason Holder,3 Sep 2023,v Patriots,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+391485,Jason Holder,6 Sep 2023,v Trinbago,Port of Spain,2,6,19,28,10,2,1,190,stumped,1,4.0,0,39,2,9.75
+391485,Jason Holder,10 Sep 2023,v Amazon,Tarouba,2,6,4,-,7,0,0,57.14,caught,1,4.0,0,37,2,9.25
+391485,Jason Holder,17 Sep 2023,v Amazon,Providence,2,6,8,29,12,0,0,66.66,bowled,1,4.0,0,50,2,12.5
+391485,Jason Holder,12 Dec 2023,v England,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+391485,Jason Holder,14 Dec 2023,v England,St George's,1,8,0,2,1,0,0,0,caught,2,4.0,0,27,1,6.75
+391485,Jason Holder,16 Dec 2023,v England,St George's,1,8,18*,6,5,1,2,360,not out,2,4.0,0,52,1,13
+391485,Jason Holder,19 Dec 2023,v England,Tarouba,2,8,0,1,1,0,0,0,caught,1,4.0,0,55,1,13.75
+391485,Jason Holder,21 Dec 2023,v England,Tarouba,2,8,4*,3,2,0,0,200,not out,1,3.3,0,24,2,6.85
+391485,Jason Holder,20 Jan 2024,v MI Emirates,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+391485,Jason Holder,22 Jan 2024,v Warriors,Dubai (DICS),1,7,15,-,9,1,1,166.66,caught,2,4.0,0,35,0,8.75
+391485,Jason Holder,25 Jan 2024,v KnightRiders,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+391485,Jason Holder,27 Jan 2024,v Gulf Giants,Sharjah,1,8,16*,-,14,1,0,114.28,not out,2,3.0,0,33,1,11
+391485,Jason Holder,29 Jan 2024,v Warriors,Sharjah,1,8,1,-,4,0,0,25,lbw,2,1.0,0,5,0,5
+391485,Jason Holder,1 Feb 2024,v Vipers,Dubai (DICS),2,8,23*,23,12,2,1,191.66,not out,1,4.0,0,37,1,9.25
+391485,Jason Holder,3 Feb 2024,v KnightRiders,Abu Dhabi,2,8,42,-,21,4,3,200,caught,1,4.0,0,47,1,11.75
+391485,Jason Holder,9 Feb 2024,v Australia,Hobart,2,9,34*,18,15,3,2,226.66,not out,1,3.0,0,37,1,12.33
+391485,Jason Holder,11 Feb 2024,v Australia,Adelaide,2,9,28*,25,16,3,1,175,not out,1,4.0,0,42,2,10.5
+391485,Jason Holder,13 Feb 2024,v Australia,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,0,12.25
+391485,Jason Holder,15 Feb 2024,v Gulf Giants,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,7,1,3.5
+391485,Jason Holder,17 Feb 2024,v MI Emirates,Dubai (DICS),2,7,24,20,16,1,2,150,bowled,1,2.0,0,33,0,16.5
+391485,Jason Holder,20 Feb 2024,v Chattogram,Chattogram,2,7,18,26,17,1,1,105.88,caught,1,4.0,0,29,1,7.25
+391485,Jason Holder,23 Feb 2024,v Strikers,Mirpur,1,5,6,15,8,0,0,75,caught,2,3.0,0,19,1,6.33
+391485,Jason Holder,1 Sep 2024,v Falcons,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+391485,Jason Holder,6 Sep 2024,v Patriots,Basseterre,2,7,17,-,12,1,1,141.66,caught,1,3.1,0,29,0,9.15
+391485,Jason Holder,11 Sep 2024,v Falcons,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+391485,Jason Holder,13 Sep 2024,v Trinbago,Bridgetown,1,5,0,5,4,0,0,0,lbw,2,3.5,0,45,1,11.73
+391485,Jason Holder,14 Sep 2024,v Amazon,Bridgetown,1,6,28*,28,10,1,3,280,not out,2,4.0,0,32,2,8
+391485,Jason Holder,17 Sep 2024,v Patriots,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+391485,Jason Holder,21 Sep 2024,v Kings,Providence,1,6,21,31,29,1,1,72.41,lbw,2,2.0,0,19,1,9.5
+391485,Jason Holder,22 Sep 2024,v Kings,Providence,2,7,16,23,13,2,0,123.07,caught,1,4.0,0,34,0,8.5
+391485,Jason Holder,25 Sep 2024,v Amazon,Providence,2,7,7,3,6,0,1,116.66,caught,1,4.0,0,41,1,10.25
+391485,Jason Holder,27 Sep 2024,v Trinbago,Tarouba,2,7,4,14,5,0,0,80,caught,1,4.0,0,31,1,7.75
+391485,Jason Holder,1 Oct 2024,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+391485,Jason Holder,4 Oct 2024,v Amazon,Providence,1,7,19,42,19,1,0,100,caught,2,2.0,0,25,0,12.5
+391485,Jason Holder,12 Jan 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+391485,Jason Holder,15 Jan 2025,v Warriorz,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+391485,Jason Holder,18 Jan 2025,v Vipers,Dubai (DICS),2,10,27,6,9,3,2,300,run out,1,4.0,0,24,2,6
+391485,Jason Holder,19 Jan 2025,v Gulf Giants,Dubai (DICS),1,9,16,8,9,2,0,177.77,caught,2,4.0,0,25,2,6.25
+391485,Jason Holder,21 Jan 2025,v MI Emirates,Abu Dhabi,2,10,6,6,6,1,0,100,caught,1,4.0,0,38,2,9.5
+391485,Jason Holder,24 Jan 2025,v MI Emirates,Abu Dhabi,1,8,22*,8,7,1,2,314.28,not out,2,4.0,0,28,2,7
+391485,Jason Holder,26 Jan 2025,v DC,Abu Dhabi,1,7,11*,13,9,0,1,122.22,not out,2,3.5,0,40,1,10.43
+391485,Jason Holder,30 Jan 2025,v Warriorz,Sharjah,1,8,26,-,17,1,2,152.94,caught,2,4.0,1,22,2,5.5
+391485,Jason Holder,1 Feb 2025,v Gulf Giants,Abu Dhabi,1,7,2,8,4,0,0,50,bowled,2,4.0,0,17,1,4.25
+391485,Jason Holder,2 Feb 2025,v DC,Dubai (DICS),2,5,16*,-,9,0,2,177.77,not out,1,4.0,0,61,1,15.25
+391485,Jason Holder,3 Feb 2025,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+391485,Jason Holder,5 Feb 2025,v Chittagong,Mirpur,1,7,12*,16,5,1,1,240,not out,2,3.0,0,23,0,7.66
+391485,Jason Holder,11 Apr 2025,v Qalandars,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,4,6.5
+391485,Jason Holder,14 Apr 2025,v Zalmi,Rawalpindi,1,6,20*,23,11,2,1,181.81,not out,2,2.0,0,20,1,10
+391485,Jason Holder,16 Apr 2025,v Sultans,Rawalpindi,1,7,32*,25,14,3,2,228.57,not out,2,4.0,0,25,4,6.25
+391485,Jason Holder,20 Apr 2025,v Kings,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+391485,Jason Holder,23 Apr 2025,v Sultans,Multan,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+391485,Jason Holder,30 Apr 2025,v Qalandars,Lahore,2,7,0,-,1,0,0,0,caught,1,4.0,0,54,2,13.5
+391485,Jason Holder,3 May 2025,v Gladiators,Lahore,1,9,14*,-,11,2,0,127.27,not out,2,4.0,0,40,1,10
+391485,Jason Holder,7 May 2025,v Gladiators,Rawalpindi,2,8,3,-,5,0,0,60,caught,1,4.0,0,52,0,13
+391485,Jason Holder,6 Jun 2025,v England,Chester-le-Street,2,10,16*,17,13,2,0,123.07,not out,1,4.0,0,38,0,9.5
+391485,Jason Holder,8 Jun 2025,v England,Bristol,1,7,29*,13,9,2,3,322.22,not out,2,3.3,0,30,1,8.57
+391485,Jason Holder,10 Jun 2025,v England,Southampton,2,8,25,21,12,0,3,208.33,caught,1,4.0,0,43,0,10.75
+391485,Jason Holder,15 Jun 2025,v Ireland,Bready,1,6,18,17,13,2,1,138.46,caught,2,4.0,0,49,2,12.25
+391485,Jason Holder,17 Jun 2025,v Washington,Oakland,2,7,23,-,16,0,3,143.75,bowled,1,4.0,0,53,1,13.25
+391485,Jason Holder,22 Jun 2025,v Seattle,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+391485,Jason Holder,24 Jun 2025,v Texas,Dallas,2,8,26*,-,17,2,1,152.94,not out,1,4.0,0,32,0,8
+391485,Jason Holder,26 Jun 2025,v Washington,Dallas,1,6,11*,-,6,0,1,183.33,not out,2,4.0,0,50,1,12.5
+391485,Jason Holder,28 Jun 2025,v Seattle,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+391485,Jason Holder,3 Jul 2025,v MI New York,Lauderhill,1,7,4,-,6,0,0,66.66,caught,2,3.0,0,22,0,7.33
+391485,Jason Holder,5 Jul 2025,v MI New York,Lauderhill,2,6,2*,-,2,0,0,100,not out,1,4.0,0,28,2,7
+391485,Jason Holder,6 Jul 2025,v SF,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+391485,Jason Holder,20 Jul 2025,v Australia,Kingston,1,8,0,1,2,0,0,0,caught,2,4.0,0,32,2,8
+391485,Jason Holder,22 Jul 2025,v Australia,Kingston,1,8,1,3,3,0,0,33.33,caught,2,3.0,0,28,1,9.33
+391485,Jason Holder,25 Jul 2025,v Australia,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+391485,Jason Holder,26 Jul 2025,v Australia,Basseterre,1,8,26,-,16,4,1,162.5,bowled,2,4.0,0,38,1,9.5
+391485,Jason Holder,28 Jul 2025,v Australia,Basseterre,1,6,20,-,15,2,1,133.33,caught,2,3.0,0,36,2,12
+391485,Jason Holder,31 Jul 2025,v Pakistan,Lauderhill,2,8,30*,23,12,0,4,250,not out,1,4.0,0,35,1,8.75
+391485,Jason Holder,2 Aug 2025,v Pakistan,Lauderhill,2,8,16*,23,10,1,1,160,not out,1,4.0,0,19,4,4.75
+391485,Jason Holder,3 Aug 2025,v Pakistan,Lauderhill,2,6,0,1,2,0,0,0,bowled,1,4.0,0,34,1,8.5
+391485,Jason Holder,14 Aug 2025,v Falcons,Basseterre,2,6,18*,-,14,1,1,128.57,not out,1,3.0,0,19,1,6.33
+391485,Jason Holder,15 Aug 2025,v Amazon,Basseterre,1,6,7,-,8,0,1,87.5,caught,2,3.0,0,27,0,9
+391485,Jason Holder,17 Aug 2025,v Trinbago,Basseterre,2,5,44,51,22,3,3,200,bowled,1,4.0,0,40,2,10
+391485,Jason Holder,19 Aug 2025,v Kings,Basseterre,2,6,63,30,29,3,6,217.24,caught,1,3.0,0,44,1,14.66
+391485,Jason Holder,21 Aug 2025,v Royals,Basseterre,1,6,38,32,21,4,2,180.95,caught,2,3.2,0,14,4,4.2
+391485,Jason Holder,24 Aug 2025,v Falcons,North Sound,1,6,9,22,6,0,1,150,run out,2,3.4,0,26,0,7.09
+391485,Jason Holder,28 Aug 2025,v Kings,Gros Islet,1,5,21*,20,14,0,2,150,not out,2,3.0,0,25,0,8.33
+391485,Jason Holder,1 Sep 2025,v Trinbago,Tarouba,2,4,7,23,9,0,0,77.77,caught,1,4.0,0,25,2,6.25
+391485,Jason Holder,7 Sep 2025,v Amazon,Providence,1,6,7,13,6,1,0,116.66,bowled,2,4.0,0,21,1,5.25
+391485,Jason Holder,11 Sep 2025,v Royals,Bridgetown,1,5,53*,53,30,1,5,176.66,not out,2,4.0,0,32,2,8
+391485,Jason Holder,27 Sep 2025,v Nepal,Sharjah,2,7,5,-,7,0,0,71.42,caught,1,4.0,0,20,4,5
+391485,Jason Holder,29 Sep 2025,v Nepal,Sharjah,2,6,21,-,15,0,2,140,caught,1,4.0,0,39,0,9.75
+391485,Jason Holder,30 Sep 2025,v Nepal,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+391485,Jason Holder,27 Oct 2025,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+391485,Jason Holder,29 Oct 2025,v Bangladesh,Chattogram,1,6,4,10,4,1,0,100,caught,2,4.0,0,20,2,5
+391485,Jason Holder,31 Oct 2025,v Bangladesh,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+391485,Jason Holder,5 Nov 2025,v New Zealand,Auckland,1,7,5*,10,5,1,0,100,not out,2,4.0,0,35,0,8.75
+391485,Jason Holder,6 Nov 2025,v New Zealand,Auckland,2,5,16,9,8,0,2,200,bowled,1,4.0,0,34,1,8.5
+391485,Jason Holder,9 Nov 2025,v New Zealand,Nelson,2,7,3,12,6,0,0,50,caught,1,4.0,0,31,2,7.75
+391485,Jason Holder,10 Nov 2025,v New Zealand,Nelson,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+391485,Jason Holder,13 Nov 2025,v New Zealand,Dunedin,1,7,20,29,19,1,1,105.26,caught,2,2.0,0,23,0,11.5
+391485,Jason Holder,7 Dec 2025,v DC,Dubai (DICS),2,8,0,7,4,0,0,0,bowled,1,4.0,0,30,2,7.5
+391485,Jason Holder,11 Dec 2025,v MI Emirates,Abu Dhabi,1,8,2,9,5,0,0,40,caught,2,2.0,0,11,1,5.5
+391485,Jason Holder,13 Dec 2025,v DC,Abu Dhabi,2,9,22,17,9,0,3,244.44,caught,1,4.0,1,22,2,5.5
+391485,Jason Holder,16 Dec 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+391485,Jason Holder,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,7,9,9,7,1,0,128.57,caught,1,4.0,0,37,1,9.25
+391485,Jason Holder,20 Dec 2025,v MI Emirates,Abu Dhabi,2,8,4,6,4,0,0,100,caught,1,4.0,0,25,1,6.25
+391485,Jason Holder,22 Dec 2025,v Warriorz,Abu Dhabi,1,9,14,-,6,0,2,233.33,caught,2,4.0,0,25,2,6.25
+391485,Jason Holder,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+391485,Jason Holder,1 Jan 2026,v DC,Dubai (DICS),1,7,22*,20,11,1,2,200,not out,2,3.2,0,18,3,5.4
+391485,Jason Holder,2 Jan 2026,v MI Emirates,Sharjah,1,7,1,2,2,0,0,50,caught,2,3.0,0,25,0,8.33
+391485,Jason Holder,27 Jan 2026,v South Africa,Paarl,1,8,1,3,2,0,0,50,caught,2,3.5,0,41,0,10.69
+391485,Jason Holder,29 Jan 2026,v South Africa,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+391485,Jason Holder,31 Jan 2026,v South Africa,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,1,15
+391485,Jason Holder,7 Feb 2026,v Scotland,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.5,0,30,3,7.82
+391485,Jason Holder,11 Feb 2026,v England,Wankhede,1,7,33,25,17,1,4,194.11,caught,2,2.0,0,34,0,17
+391485,Jason Holder,15 Feb 2026,v Nepal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,4,6.75
+391485,Jason Holder,19 Feb 2026,v Italy,Eden Gardens,1,7,9,9,7,0,1,128.57,caught,2,3.0,0,19,0,6.33
+391485,Jason Holder,23 Feb 2026,v Zimbabwe,Wankhede,1,7,13,5,4,0,2,325,caught,2,3.0,0,25,1,8.33
+391485,Jason Holder,26 Feb 2026,v South Africa,Ahmedabad,1,7,49,63,31,4,3,158.06,run out,2,3.1,0,31,0,9.78
+391485,Jason Holder,1 Mar 2026,v India,Eden Gardens,1,6,37*,30,22,2,3,168.18,not out,2,4.0,0,38,2,9.5

@@ -1,0 +1,48 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+340841,Eklavya Dwivedi,20 Oct 2010,v M. Pradesh,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,21 Oct 2010,v Rajasthan,Jaipur,2,6,25*,-,22,2,0,113.63,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,22 Oct 2010,v Railways,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,24 Oct 2010,v Vidarbha,Jaipur,2,5,18,25,24,1,0,75,bowled,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,21 Oct 2011,v Vidarbha,Indore,2,7,38*,19,16,4,2,237.5,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,22 Oct 2011,v Railways,Indore,1,8,2,6,3,0,0,66.66,lbw,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,24 Oct 2011,v Rajasthan,Indore,1,7,12*,16,9,1,0,133.33,not out,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,25 Oct 2011,v M. Pradesh,Indore,2,7,18,19,13,3,0,138.46,lbw,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,17 Mar 2013,v Railways,Nagpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,19 Mar 2013,v M. Pradesh,Nagpur,1,7,20*,22,14,3,0,142.85,not out,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,21 Mar 2013,v Rajasthan,Nagpur,2,2,65*,58,48,9,1,135.41,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,22 Mar 2013,v Vidarbha,Nagpur,2,2,0,5,3,0,0,0,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,27 Mar 2013,v Bengal,Indore,2,2,34,-,25,7,0,136,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,31 Mar 2014,v Vidarbha,Nagpur,1,3,14,11,10,3,0,140,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,1 Apr 2014,v Rajasthan,Nagpur,2,3,45*,57,39,5,2,115.38,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,2 Apr 2014,v M. Pradesh,Nagpur,2,3,11,15,12,2,0,91.66,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,9 Apr 2014,v Jharkhand,Rajkot,2,3,37*,30,24,4,1,154.16,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,10 Apr 2014,v Goa,Rajkot,1,3,43*,28,26,1,4,165.38,not out,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,11 Apr 2014,v Gujarat,Rajkot,2,3,7,5,4,0,1,175,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,12 Apr 2014,v Haryana,Rajkot,2,3,22,21,19,4,0,115.78,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,14 Apr 2014,v Baroda,Wankhede,2,3,56,62,47,6,0,119.14,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,24 Mar 2015,v Vidarbha,Indore,1,3,15,17,11,3,0,136.36,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,25 Mar 2015,v Rajasthan,Indore,2,3,2,10,5,0,0,40,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,27 Mar 2015,v M. Pradesh,Indore,2,4,14,11,12,1,1,116.66,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,29 Mar 2015,v Railways,Indore,1,2,9,13,12,1,0,75,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,2 Jan 2016,v Maharashtra,Cuttack,2,3,1,7,4,0,0,25,run out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,3 Jan 2016,v Odisha,Cuttack,1,3,47,55,46,5,1,102.17,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,4 Jan 2016,v Karnataka,Cuttack,2,4,29*,37,19,3,0,152.63,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,7 Jan 2016,v Mumbai,Cuttack,2,4,10,14,8,1,0,125,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,8 Jan 2016,v Services,Cuttack,1,4,89,62,53,8,5,167.92,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,15 Jan 2016,v Jharkhand,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,16 Jan 2016,v Gujarat,Mumbai,2,5,33*,29,23,3,1,143.47,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,18 Jan 2016,v Delhi,Mumbai,2,6,49*,56,35,5,2,140,not out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,20 Jan 2016,v Baroda,Wankhede,1,4,0,2,2,0,0,0,lbw,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,19 May 2016,v KKR,Kanpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,21 May 2016,v MI,Kanpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,24 May 2016,v RCB,Bengaluru,1,8,19,12,9,1,2,211.11,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,27 May 2016,v SRH,Delhi,1,1,5,4,5,1,0,100,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,29 Jan 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,31 Jan 2017,v Rajasthan,Jaipur,2,6,2,3,3,0,0,66.66,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,2 Feb 2017,v Railways,Jaipur,2,1,0,4,6,0,0,0,caught,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,3 Feb 2017,v M. Pradesh,Jaipur,2,2,33,37,28,3,1,117.85,run out,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,5 Feb 2017,v Vidarbha,Jaipur,1,2,61,84,54,2,3,112.96,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,9 Jan 2018,v Rajasthan,Raipur,1,2,27,48,30,3,0,90,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,10 Jan 2018,v M. Pradesh,Raipur,1,2,10,33,19,0,0,52.63,caught,2,DNB,-,-,-,-
+340841,Eklavya Dwivedi,13 Jan 2018,v Railways,Raipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+340841,Eklavya Dwivedi,16 Jan 2018,v Chhattisgarh,Raipur,2,6,1*,1,1,0,0,100,not out,1,DNB,-,-,-,-

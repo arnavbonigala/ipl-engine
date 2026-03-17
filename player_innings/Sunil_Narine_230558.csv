@@ -1,0 +1,584 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+230558,Sunil Narine,19 Jan 2011,v Hampshire,Bridgetown,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+230558,Sunil Narine,21 Jan 2011,v Barbados,Bridgetown,1,6,0,-,1,0,0,0,run out,2,4.0,0,22,3,5.5
+230558,Sunil Narine,22 Jan 2011,v Jamaica,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+230558,Sunil Narine,23 Jan 2011,v Hampshire,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+230558,Sunil Narine,19 Sep 2011,v Ruhuna,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+230558,Sunil Narine,20 Sep 2011,v Leics,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+230558,Sunil Narine,26 Sep 2011,v MI,Bengaluru,1,10,11,15,9,1,0,122.22,caught,2,4.0,0,10,2,2.5
+230558,Sunil Narine,28 Sep 2011,v NSW,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+230558,Sunil Narine,2 Oct 2011,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,8,3,2
+230558,Sunil Narine,4 Oct 2011,v Cape Cobras,Chennai,2,10,1*,-,1,0,0,100,not out,1,4.0,0,19,1,4.75
+230558,Sunil Narine,9 Jan 2012,v Windward Is,North Sound,2,9,1,-,1,0,0,100,run out,1,4.0,1,35,0,8.75
+230558,Sunil Narine,11 Jan 2012,v Leeward Is,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,4,4.5
+230558,Sunil Narine,13 Jan 2012,v Guyana,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+230558,Sunil Narine,19 Jan 2012,v Canada,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,6,0,1.5
+230558,Sunil Narine,21 Jan 2012,v Barbados,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,2,2.5
+230558,Sunil Narine,22 Jan 2012,v Jamaica,Bridgetown,1,6,22,-,15,1,2,146.66,caught,2,4.0,0,20,1,5
+230558,Sunil Narine,27 Mar 2012,v Australia,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+230558,Sunil Narine,30 Mar 2012,v Australia,Bridgetown,1,9,2,7,4,0,0,50,run out,2,4.0,0,33,0,8.25
+230558,Sunil Narine,8 Apr 2012,v RR,Jaipur,2,10,0,-,1,0,0,0,bowled,1,4.0,0,29,0,7.25
+230558,Sunil Narine,13 Apr 2012,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+230558,Sunil Narine,15 Apr 2012,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,5,4.75
+230558,Sunil Narine,18 Apr 2012,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+230558,Sunil Narine,22 Apr 2012,v Chargers,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+230558,Sunil Narine,28 Apr 2012,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,11,1,2.75
+230558,Sunil Narine,30 Apr 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+230558,Sunil Narine,5 May 2012,v Warriors,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,1,13,1,3.25
+230558,Sunil Narine,7 May 2012,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+230558,Sunil Narine,12 May 2012,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+230558,Sunil Narine,14 May 2012,v CSK,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,2,3.5
+230558,Sunil Narine,16 May 2012,v MI,Wankhede,1,9,9*,10,6,2,0,150,not out,2,3.1,0,15,4,4.73
+230558,Sunil Narine,19 May 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+230558,Sunil Narine,22 May 2012,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+230558,Sunil Narine,27 May 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+230558,Sunil Narine,24 Jun 2012,v England,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+230558,Sunil Narine,30 Jun 2012,v New Zealand,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+230558,Sunil Narine,1 Jul 2012,v New Zealand,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,4,3
+230558,Sunil Narine,22 Sep 2012,v Australia,Colombo (RPS),1,10,4*,1,1,1,0,400,not out,2,2.0,0,16,0,8
+230558,Sunil Narine,24 Sep 2012,v Ireland,Colombo (RPS),-,-,TDNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+230558,Sunil Narine,27 Sep 2012,v England,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+230558,Sunil Narine,29 Sep 2012,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+230558,Sunil Narine,1 Oct 2012,v New Zealand,Pallekele,1,9,3,9,4,0,0,75,bowled,2,4.0,0,20,3,5
+230558,Sunil Narine,5 Oct 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+230558,Sunil Narine,7 Oct 2012,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,9,3,2.45
+230558,Sunil Narine,13 Oct 2012,v Daredevils,Centurion,2,10,1*,4,3,0,0,33.33,not out,1,4.0,0,21,3,5.25
+230558,Sunil Narine,15 Oct 2012,v Auckland,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+230558,Sunil Narine,17 Oct 2012,v Scorchers,Durban,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+230558,Sunil Narine,21 Oct 2012,v Titans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.4,0,8,1,3
+230558,Sunil Narine,10 Dec 2012,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+230558,Sunil Narine,16 Dec 2012,v Scorchers,Sydney,1,10,5,-,3,1,0,166.66,caught,2,4.0,0,16,0,4
+230558,Sunil Narine,21 Dec 2012,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+230558,Sunil Narine,23 Dec 2012,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+230558,Sunil Narine,26 Dec 2012,v Hurricanes,Sydney,1,10,6*,-,6,0,1,100,not out,2,4.0,0,39,0,9.75
+230558,Sunil Narine,30 Dec 2012,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+230558,Sunil Narine,6 Jan 2013,v Jamaica,Port of Spain,1,7,16,-,9,1,1,177.77,bowled,2,DNB,-,-,-,-
+230558,Sunil Narine,8 Jan 2013,v Comb C&C,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+230558,Sunil Narine,9 Jan 2013,v Leeward Is,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,1,11,0,2.75
+230558,Sunil Narine,12 Jan 2013,v Guyana,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,1,3
+230558,Sunil Narine,15 Jan 2013,v Windward Is,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,1,4.5
+230558,Sunil Narine,16 Jan 2013,v Barbados,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+230558,Sunil Narine,20 Jan 2013,v Guyana,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+230558,Sunil Narine,13 Feb 2013,v Australia,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+230558,Sunil Narine,2 Mar 2013,v Zimbabwe,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+230558,Sunil Narine,3 Mar 2013,v Zimbabwe,North Sound,1,9,1*,4,1,0,0,100,not out,2,4.0,0,22,0,5.5
+230558,Sunil Narine,3 Apr 2013,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,4,3.25
+230558,Sunil Narine,8 Apr 2013,v RR,Jaipur,2,11,2*,3,2,0,0,100,not out,1,4.0,0,28,2,7
+230558,Sunil Narine,11 Apr 2013,v RCB,Bengaluru,1,10,1*,2,1,0,0,100,not out,2,4.0,0,17,0,4.25
+230558,Sunil Narine,14 Apr 2013,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+230558,Sunil Narine,16 Apr 2013,v Kings XI,Mohali,2,10,1*,7,2,0,0,50,not out,1,4.0,0,33,3,8.25
+230558,Sunil Narine,20 Apr 2013,v CSK,Eden Gardens,1,10,13,5,6,0,2,216.66,caught,2,4.0,0,20,1,5
+230558,Sunil Narine,24 Apr 2013,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,3,4.25
+230558,Sunil Narine,26 Apr 2013,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+230558,Sunil Narine,28 Apr 2013,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+230558,Sunil Narine,1 May 2013,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,0,3.5
+230558,Sunil Narine,3 May 2013,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+230558,Sunil Narine,7 May 2013,v MI,Wankhede,2,10,3,16,6,0,0,50,caught,1,4.0,0,29,0,7.25
+230558,Sunil Narine,9 May 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+230558,Sunil Narine,12 May 2013,v RCB,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,4,5.5
+230558,Sunil Narine,15 May 2013,v Warriors,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+230558,Sunil Narine,19 May 2013,v SRH,Hyderabad,1,8,1,6,2,0,0,50,caught,2,4.0,1,11,0,2.75
+230558,Sunil Narine,27 Jul 2013,v Pakistan,Kingstown,1,8,0,2,0,0,0,-,run out,2,4.0,0,24,1,6
+230558,Sunil Narine,28 Jul 2013,v Pakistan,Kingstown,2,6,28,23,16,3,1,175,caught,1,4.0,0,26,3,6.5
+230558,Sunil Narine,31 Jul 2013,v Red Steel,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,1,29,2,7.25
+230558,Sunil Narine,2 Aug 2013,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+230558,Sunil Narine,4 Aug 2013,v Zouks,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+230558,Sunil Narine,9 Aug 2013,v Red Steel,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+230558,Sunil Narine,11 Aug 2013,v Tridents,Port of Spain,1,7,7,-,6,1,0,116.66,run out,2,3.4,0,46,2,12.54
+230558,Sunil Narine,15 Aug 2013,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,1,2.5
+230558,Sunil Narine,17 Aug 2013,v Hawksbills,North Sound,2,8,7*,-,2,0,1,350,not out,1,4.0,0,13,0,3.25
+230558,Sunil Narine,22 Aug 2013,v Red Steel,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+230558,Sunil Narine,24 Aug 2013,v Tallawahs,Port of Spain,1,5,9,-,7,0,1,128.57,run out,2,4.0,0,9,0,2.25
+230558,Sunil Narine,22 Sep 2013,v Heat,Ranchi,1,8,8,15,11,0,0,72.72,caught,2,4.0,0,25,2,6.25
+230558,Sunil Narine,24 Sep 2013,v SRH,Mohali,1,8,0,1,0,0,0,-,run out,2,4.0,1,9,4,2.25
+230558,Sunil Narine,30 Sep 2013,v Titans,Ahmedabad,1,7,8*,8,3,0,1,266.66,not out,2,4.0,0,23,2,5.75
+230558,Sunil Narine,2 Oct 2013,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,0,3
+230558,Sunil Narine,5 Oct 2013,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,3,4.25
+230558,Sunil Narine,11 Jan 2014,v New Zealand,Auckland,2,9,0,1,2,0,0,0,caught,1,4.0,0,46,0,11.5
+230558,Sunil Narine,15 Jan 2014,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+230558,Sunil Narine,17 Jan 2014,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+230558,Sunil Narine,19 Jan 2014,v Dolphins,Durban,1,9,2*,2,1,0,0,200,not out,2,4.0,1,24,2,6
+230558,Sunil Narine,22 Jan 2014,v Titans,Cape Town,1,9,0,1,1,0,0,0,caught,2,4.0,0,23,1,5.75
+230558,Sunil Narine,24 Jan 2014,v Dolphins,Paarl,2,8,8,4,6,1,0,133.33,caught,1,4.0,0,28,3,7
+230558,Sunil Narine,31 Jan 2014,v Lions,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+230558,Sunil Narine,2 Feb 2014,v Warriors,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+230558,Sunil Narine,19 Feb 2014,v Ireland,Kingston,1,9,6*,-,6,0,0,100,not out,2,4.0,0,16,1,4
+230558,Sunil Narine,21 Feb 2014,v Ireland,Kingston,1,9,12*,-,13,1,0,92.3,not out,2,4.0,0,12,1,3
+230558,Sunil Narine,9 Mar 2014,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,1,4
+230558,Sunil Narine,13 Mar 2014,v England,Bridgetown,2,9,0*,3,0,0,0,-,not out,1,4.0,0,34,1,8.5
+230558,Sunil Narine,23 Mar 2014,v India,Mirpur,1,8,7*,3,2,0,1,350,not out,2,4.0,0,20,0,5
+230558,Sunil Narine,25 Mar 2014,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+230558,Sunil Narine,28 Mar 2014,v Australia,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+230558,Sunil Narine,1 Apr 2014,v Pakistan,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+230558,Sunil Narine,3 Apr 2014,v Sri Lanka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+230558,Sunil Narine,16 Apr 2014,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,5
+230558,Sunil Narine,19 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+230558,Sunil Narine,24 Apr 2014,v RCB,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+230558,Sunil Narine,26 Apr 2014,v Kings XI,Abu Dhabi,2,9,6,11,8,0,0,75,bowled,1,4.0,0,24,3,6
+230558,Sunil Narine,29 Apr 2014,v RR,Abu Dhabi,2,10,1*,3,1,0,0,100,not out,1,4.0,0,28,0,7
+230558,Sunil Narine,2 May 2014,v CSK,Ranchi,2,11,1*,-,1,0,0,100,not out,1,4.0,0,26,0,6.5
+230558,Sunil Narine,5 May 2014,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+230558,Sunil Narine,7 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+230558,Sunil Narine,11 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+230558,Sunil Narine,14 May 2014,v MI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+230558,Sunil Narine,18 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+230558,Sunil Narine,20 May 2014,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+230558,Sunil Narine,22 May 2014,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,5
+230558,Sunil Narine,24 May 2014,v SRH,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+230558,Sunil Narine,27 May 2014,v Kings XI,Eden Gardens,1,9,0,6,0,0,0,-,run out,2,4.0,0,30,0,7.5
+230558,Sunil Narine,1 Jun 2014,v Kings XI,Bengaluru,2,9,2*,8,4,0,0,50,not out,1,4.0,0,46,1,11.5
+230558,Sunil Narine,5 Jul 2014,v New Zealand,Roseau,1,9,0*,2,0,0,0,-,not out,2,3.0,0,19,0,6.33
+230558,Sunil Narine,6 Jul 2014,v New Zealand,Roseau,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+230558,Sunil Narine,11 Jul 2014,v Hawksbills,St George's,2,8,11*,-,9,1,0,122.22,not out,1,4.0,1,3,0,0.75
+230558,Sunil Narine,17 Jul 2014,v Red Steel,Providence,2,8,16,-,19,0,1,84.21,caught,1,4.0,0,23,2,5.75
+230558,Sunil Narine,19 Jul 2014,v Zouks,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+230558,Sunil Narine,20 Jul 2014,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+230558,Sunil Narine,7 Aug 2014,v Hawksbills,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,1,16,0,4
+230558,Sunil Narine,10 Aug 2014,v Zouks,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+230558,Sunil Narine,14 Aug 2014,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+230558,Sunil Narine,16 Aug 2014,v Tridents,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+230558,Sunil Narine,27 Aug 2014,v Bangladesh,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230558,Sunil Narine,17 Sep 2014,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+230558,Sunil Narine,21 Sep 2014,v Lahore Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,3,2.25
+230558,Sunil Narine,24 Sep 2014,v Scorchers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,4,7.75
+230558,Sunil Narine,29 Sep 2014,v Dolphins,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+230558,Sunil Narine,2 Oct 2014,v Hurricanes,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+230558,Sunil Narine,8 Apr 2015,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+230558,Sunil Narine,11 Apr 2015,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+230558,Sunil Narine,18 Apr 2015,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+230558,Sunil Narine,20 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+230558,Sunil Narine,22 Apr 2015,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+230558,Sunil Narine,7 May 2015,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+230558,Sunil Narine,9 May 2015,v Kings XI,Eden Gardens,2,11,0*,1,1,0,0,0,not out,1,4.0,0,19,4,4.75
+230558,Sunil Narine,14 May 2015,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+230558,Sunil Narine,20 Jun 2015,v Tridents,Bridgetown,2,8,7,2,4,0,1,175,caught,1,4.0,0,22,2,5.5
+230558,Sunil Narine,26 Jun 2015,v Zouks,Gros Islet,2,7,2*,-,2,0,0,100,not out,1,4.0,0,32,2,8
+230558,Sunil Narine,3 Jul 2015,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,1,27,2,6.75
+230558,Sunil Narine,4 Jul 2015,v Red Steel,Basseterre,1,5,14,-,15,1,1,93.33,caught,2,4.0,0,18,1,4.5
+230558,Sunil Narine,8 Jul 2015,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+230558,Sunil Narine,12 Jul 2015,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,2,3
+230558,Sunil Narine,17 Jul 2015,v Zouks,Providence,2,8,1,-,2,0,0,50,run out,1,4.0,1,6,3,1.5
+230558,Sunil Narine,18 Jul 2015,v Tridents,Providence,2,7,1*,-,2,0,0,50,not out,1,4.0,1,14,0,3.5
+230558,Sunil Narine,21 Jul 2015,v Red Steel,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+230558,Sunil Narine,25 Jul 2015,v Red Steel,Port of Spain,1,5,0,-,2,0,0,0,bowled,2,4.0,0,23,1,5.75
+230558,Sunil Narine,9 Nov 2015,v Sri Lanka,Pallekele,2,10,23,18,15,2,1,153.33,bowled,1,4.0,0,20,1,5
+230558,Sunil Narine,11 Nov 2015,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+230558,Sunil Narine,22 Nov 2015,v Dynamites,Mirpur,1,10,0*,2,1,0,0,0,not out,2,4.0,0,24,1,6
+230558,Sunil Narine,24 Nov 2015,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+230558,Sunil Narine,25 Nov 2015,v Bulls,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.3,0,21,1,6
+230558,Sunil Narine,27 Nov 2015,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+230558,Sunil Narine,16 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+230558,Sunil Narine,19 Apr 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+230558,Sunil Narine,24 Apr 2016,v Supergiants,Pune,2,10,0*,1,0,0,0,-,not out,1,4.0,0,32,1,8
+230558,Sunil Narine,28 Apr 2016,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+230558,Sunil Narine,30 Apr 2016,v Daredevils,Delhi,2,10,4,4,3,0,0,133.33,run out,1,3.0,0,22,1,7.33
+230558,Sunil Narine,2 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+230558,Sunil Narine,14 May 2016,v Supergiants,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.4,0,10,0,2.72
+230558,Sunil Narine,16 May 2016,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+230558,Sunil Narine,19 May 2016,v Guj Lions,Kanpur,1,9,2*,8,7,0,0,28.57,not out,2,4.0,0,30,1,7.5
+230558,Sunil Narine,22 May 2016,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+230558,Sunil Narine,25 May 2016,v SRH,Delhi,2,9,1*,2,3,0,0,33.33,not out,1,4.0,0,35,0,8.75
+230558,Sunil Narine,29 Jun 2016,v Zouks,Port of Spain,1,8,0*,-,0,0,0,-,not out,2,4.0,0,25,2,6.25
+230558,Sunil Narine,1 Jul 2016,v Tridents,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+230558,Sunil Narine,2 Jul 2016,v Amazon,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,1,4.5
+230558,Sunil Narine,4 Jul 2016,v Tallawahs,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,9,1,2.25
+230558,Sunil Narine,10 Jul 2016,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+230558,Sunil Narine,16 Jul 2016,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+230558,Sunil Narine,18 Jul 2016,v Tallawahs,Kingston,2,9,0,-,1,0,0,0,caught,1,4.0,0,22,1,5.5
+230558,Sunil Narine,26 Jul 2016,v Zouks,Gros Islet,2,8,17,-,12,0,2,141.66,bowled,1,3.0,0,22,0,7.33
+230558,Sunil Narine,29 Jul 2016,v Patriots,Lauderhill,2,8,19,-,11,2,1,172.72,caught,1,4.0,0,27,3,6.75
+230558,Sunil Narine,31 Jul 2016,v Patriots,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,1,2.25
+230558,Sunil Narine,4 Aug 2016,v Zouks,Basseterre,2,7,22*,-,14,1,2,157.14,not out,1,4.0,0,30,0,7.5
+230558,Sunil Narine,5 Aug 2016,v Tallawahs,Basseterre,2,5,6,-,2,0,1,300,caught,1,4.0,0,22,1,5.5
+230558,Sunil Narine,27 Aug 2016,v India,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.0,0,50,0,16.66
+230558,Sunil Narine,28 Aug 2016,v India,Lauderhill,1,10,9*,12,7,0,1,128.57,not out,2,DNB,-,-,-,-
+230558,Sunil Narine,23 Sep 2016,v Pakistan,Dubai (DICS),1,9,1,5,4,0,0,25,run out,2,3.0,0,21,0,7
+230558,Sunil Narine,24 Sep 2016,v Pakistan,Dubai (DICS),2,9,30,23,17,4,1,176.47,caught,1,4.0,0,36,0,9
+230558,Sunil Narine,27 Sep 2016,v Pakistan,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+230558,Sunil Narine,22 Dec 2016,v Thunder,Melbourne (Docklands),1,9,11*,-,4,1,1,275,not out,2,4.0,0,32,2,8
+230558,Sunil Narine,29 Dec 2016,v Scorchers,Melbourne (Docklands),1,8,1,4,2,0,0,50,caught,2,4.0,0,20,2,5
+230558,Sunil Narine,1 Jan 2017,v Stars,Melbourne,1,1,21,-,13,2,1,161.53,caught,2,4.0,0,26,0,6.5
+230558,Sunil Narine,7 Jan 2017,v Stars,Melbourne (Docklands),2,1,12,-,10,0,1,120,caught,1,4.0,0,37,1,9.25
+230558,Sunil Narine,9 Jan 2017,v Sixers,Sydney,1,1,4,-,4,1,0,100,caught,2,4.0,0,30,2,7.5
+230558,Sunil Narine,12 Jan 2017,v Hurricanes,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+230558,Sunil Narine,16 Jan 2017,v Strikers,Adelaide,1,7,2,-,4,0,0,50,caught,2,4.0,0,40,1,10
+230558,Sunil Narine,20 Jan 2017,v Heat,Brisbane,1,7,1*,-,1,0,0,100,not out,2,4.0,0,38,2,9.5
+230558,Sunil Narine,10 Feb 2017,v Gladiators,Dubai (DICS),2,8,26,-,15,0,3,173.33,lbw,1,4.0,0,16,2,4
+230558,Sunil Narine,11 Feb 2017,v United,Dubai (DICS),2,6,26*,-,12,3,2,216.66,not out,1,4.0,0,39,1,9.75
+230558,Sunil Narine,12 Feb 2017,v Zalmi,Dubai (DICS),1,7,2,-,3,0,0,66.66,caught,2,4.0,0,16,2,4
+230558,Sunil Narine,16 Feb 2017,v Kings,Sharjah,1,7,13,-,6,1,1,216.66,caught,2,4.0,0,31,2,7.75
+230558,Sunil Narine,18 Feb 2017,v Gladiators,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+230558,Sunil Narine,20 Feb 2017,v United,Sharjah,2,8,12,-,5,0,2,240,lbw,1,4.0,0,20,1,5
+230558,Sunil Narine,24 Feb 2017,v Zalmi,Dubai (DICS),2,7,21,-,14,2,1,150,caught,1,4.0,0,28,1,7
+230558,Sunil Narine,25 Feb 2017,v Kings,Dubai (DICS),1,5,16,-,9,0,2,177.77,caught,2,4.0,0,19,1,4.75
+230558,Sunil Narine,26 Mar 2017,v Pakistan,Bridgetown,1,6,1,-,5,0,0,20,caught,2,4.0,0,22,0,5.5
+230558,Sunil Narine,30 Mar 2017,v Pakistan,Port of Spain,2,9,9,-,7,2,0,128.57,run out,1,4.0,0,22,3,5.5
+230558,Sunil Narine,1 Apr 2017,v Pakistan,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,1,11.33
+230558,Sunil Narine,2 Apr 2017,v Pakistan,Port of Spain,1,9,9,-,9,0,0,100,bowled,2,4.0,0,19,0,4.75
+230558,Sunil Narine,7 Apr 2017,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+230558,Sunil Narine,9 Apr 2017,v MI,Wankhede,1,8,1,10,2,0,0,50,lbw,2,4.0,0,22,1,5.5
+230558,Sunil Narine,13 Apr 2017,v Kings XI,Eden Gardens,2,1,37,29,18,4,3,205.55,caught,1,4.0,0,19,1,4.75
+230558,Sunil Narine,15 Apr 2017,v SRH,Eden Gardens,1,1,6,10,9,1,0,66.66,bowled,2,4.0,0,18,1,4.5
+230558,Sunil Narine,17 Apr 2017,v Daredevils,Delhi,2,8,1*,2,1,0,0,100,not out,1,4.0,0,20,1,5
+230558,Sunil Narine,21 Apr 2017,v Guj Lions,Eden Gardens,1,1,42,15,17,9,1,247.05,caught,2,4.0,0,42,0,10.5
+230558,Sunil Narine,23 Apr 2017,v RCB,Eden Gardens,1,1,34,33,17,6,1,200,caught,2,DNB,-,-,-,-
+230558,Sunil Narine,26 Apr 2017,v Supergiant,Pune,2,1,16,11,11,3,0,145.45,run out,1,4.0,0,34,1,8.5
+230558,Sunil Narine,28 Apr 2017,v Daredevils,Eden Gardens,2,1,4,6,4,1,0,100,bowled,1,4.0,0,25,1,6.25
+230558,Sunil Narine,30 Apr 2017,v SRH,Hyderabad,2,1,1,5,4,0,0,25,caught,1,3.0,0,37,0,12.33
+230558,Sunil Narine,3 May 2017,v Supergiant,Eden Gardens,1,1,0,4,6,0,0,0,caught,2,4.0,0,28,1,7
+230558,Sunil Narine,7 May 2017,v RCB,Bengaluru,2,2,54,25,17,6,4,317.64,caught,1,4.0,0,29,2,7.25
+230558,Sunil Narine,9 May 2017,v Kings XI,Mohali,2,1,18,17,10,4,0,180,bowled,1,4.0,0,27,1,6.75
+230558,Sunil Narine,13 May 2017,v MI,Eden Gardens,2,1,0,4,4,0,0,0,caught,1,4.0,0,37,0,9.25
+230558,Sunil Narine,17 May 2017,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+230558,Sunil Narine,19 May 2017,v MI,Bengaluru,1,2,10,23,10,0,1,100,stumped,2,4.0,0,21,0,5.25
+230558,Sunil Narine,2 Jun 2017,v Afghanistan,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+230558,Sunil Narine,3 Jun 2017,v Afghanistan,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+230558,Sunil Narine,5 Jun 2017,v Afghanistan,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+230558,Sunil Narine,9 Jul 2017,v India,Kingston,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+230558,Sunil Narine,4 Aug 2017,v Stars,Gros Islet,2,2,0,-,1,0,0,0,bowled,1,4.0,0,24,0,6
+230558,Sunil Narine,7 Aug 2017,v Stars,Port of Spain,2,2,11,-,7,0,1,157.14,caught,1,4.0,0,17,1,4.25
+230558,Sunil Narine,9 Aug 2017,v Tallawahs,Port of Spain,1,2,23,-,11,2,2,209.09,caught,2,4.0,0,21,2,5.25
+230558,Sunil Narine,11 Aug 2017,v Amazon,Port of Spain,2,2,23,-,22,1,1,104.54,caught,1,4.0,0,16,2,4
+230558,Sunil Narine,12 Aug 2017,v Tridents,Port of Spain,2,2,79,-,45,6,5,175.55,caught,1,4.0,0,17,0,4.25
+230558,Sunil Narine,14 Aug 2017,v Patriots,Port of Spain,2,2,5,-,7,1,0,71.42,caught,1,4.0,0,26,2,6.5
+230558,Sunil Narine,19 Aug 2017,v Amazon,Providence,2,1,1,-,4,0,0,25,caught,1,4.0,1,11,1,2.75
+230558,Sunil Narine,23 Aug 2017,v Patriots,Basseterre,2,1,5,-,6,1,0,83.33,bowled,1,3.0,0,36,1,12
+230558,Sunil Narine,26 Aug 2017,v Tallawahs,Kingston,1,1,0,-,1,0,0,0,caught,2,4.0,0,30,0,7.5
+230558,Sunil Narine,2 Sep 2017,v Tridents,Bridgetown,2,1,9,-,7,2,0,128.57,caught,1,4.0,0,18,0,4.5
+230558,Sunil Narine,5 Sep 2017,v Patriots,Tarouba,2,2,0,-,0,0,0,-,run out,1,4.0,0,30,0,7.5
+230558,Sunil Narine,7 Sep 2017,v Amazon,Tarouba,2,1,0,-,1,0,0,0,lbw,1,4.0,0,21,2,5.25
+230558,Sunil Narine,9 Sep 2017,v Patriots,Tarouba,2,1,3,-,4,0,0,75,caught,1,4.0,1,8,1,2
+230558,Sunil Narine,16 Sep 2017,v England,Chester-le-Street,1,8,2,4,3,0,0,66.66,lbw,2,4.0,0,15,2,3.75
+230558,Sunil Narine,5 Nov 2017,v Khulna,Sylhet,1,6,16,-,11,0,2,145.45,caught,2,3.1,0,32,2,10.1
+230558,Sunil Narine,11 Nov 2017,v Sylhet,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,3,2.5
+230558,Sunil Narine,14 Nov 2017,v Khulna,Mirpur,2,2,7,-,16,1,0,43.75,caught,1,4.0,0,22,1,5.5
+230558,Sunil Narine,18 Nov 2017,v Kings,Mirpur,1,8,0,-,1,0,0,0,bowled,2,4.0,0,32,0,8
+230558,Sunil Narine,20 Nov 2017,v Victorians,Mirpur,1,1,76,-,45,7,5,168.88,caught,2,4.0,0,17,2,4.25
+230558,Sunil Narine,21 Nov 2017,v Rangpur,Mirpur,2,2,0,-,1,0,0,0,caught,1,4.0,0,29,0,7.25
+230558,Sunil Narine,27 Nov 2017,v Chattogram,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,1,2.75
+230558,Sunil Narine,29 Nov 2017,v Victorians,Chattogram,2,5,5,-,3,1,0,166.66,caught,1,4.0,0,15,0,3.75
+230558,Sunil Narine,2 Dec 2017,v Kings,Mirpur,1,2,69,-,34,4,6,202.94,bowled,2,3.0,0,11,0,3.66
+230558,Sunil Narine,6 Dec 2017,v Rangpur,Mirpur,1,1,4,-,6,0,0,66.66,caught,2,4.0,1,18,1,4.5
+230558,Sunil Narine,8 Dec 2017,v Victorians,Mirpur,1,8,9*,-,4,1,0,225,not out,2,3.0,1,9,1,3
+230558,Sunil Narine,12 Dec 2017,v Rangpur,Mirpur,2,9,14,-,15,2,0,93.33,bowled,1,4.0,0,18,0,4.5
+230558,Sunil Narine,23 Feb 2018,v Sultans,Dubai (DICS),2,2,26,-,20,2,1,130,caught,1,4.0,0,32,0,8
+230558,Sunil Narine,24 Feb 2018,v Gladiators,Dubai (DICS),1,2,28,-,10,4,2,280,caught,2,4.0,0,40,1,10
+230558,Sunil Narine,26 Feb 2018,v Kings,Dubai (DICS),2,2,0,-,1,0,0,0,caught,1,4.0,0,18,2,4.5
+230558,Sunil Narine,2 Mar 2018,v United,Sharjah,2,7,9,-,4,2,0,225,caught,1,4.0,0,10,0,2.5
+230558,Sunil Narine,3 Mar 2018,v Zalmi,Sharjah,1,7,3,-,5,0,0,60,bowled,2,2.0,0,16,0,8
+230558,Sunil Narine,8 Mar 2018,v United,Dubai (DICS),1,6,6,-,5,1,0,120,bowled,2,4.0,0,28,3,7
+230558,Sunil Narine,9 Mar 2018,v Sultans,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+230558,Sunil Narine,11 Mar 2018,v Kings,Dubai (DICS),2,4,6,-,7,0,0,85.71,lbw,1,4.0,0,22,0,5.5
+230558,Sunil Narine,14 Mar 2018,v Gladiators,Sharjah,1,6,20*,-,14,2,1,142.85,not out,2,4.0,0,22,2,5.5
+230558,Sunil Narine,8 Apr 2018,v RCB,Eden Gardens,2,1,50,-,19,4,5,263.15,bowled,1,4.0,0,30,1,7.5
+230558,Sunil Narine,10 Apr 2018,v CSK,Chennai,1,2,12,-,4,0,2,300,caught,2,4.0,0,17,1,4.25
+230558,Sunil Narine,14 Apr 2018,v SRH,Eden Gardens,1,4,9,-,10,1,0,90,caught,2,4.0,0,17,2,4.25
+230558,Sunil Narine,16 Apr 2018,v Daredevils,Eden Gardens,1,2,1,-,4,0,0,25,caught,2,3.0,0,18,3,6
+230558,Sunil Narine,18 Apr 2018,v RR,Jaipur,2,1,35,-,25,5,1,140,run out,1,4.0,0,48,0,12
+230558,Sunil Narine,21 Apr 2018,v Kings XI,Eden Gardens,1,2,1,-,4,0,0,25,caught,2,3.0,0,23,1,7.66
+230558,Sunil Narine,27 Apr 2018,v Daredevils,Delhi,2,2,26,-,9,1,3,288.88,caught,1,3.0,0,35,0,11.66
+230558,Sunil Narine,29 Apr 2018,v RCB,Bengaluru,2,2,27,-,19,3,1,142.1,caught,1,4.0,0,38,0,9.5
+230558,Sunil Narine,3 May 2018,v CSK,Eden Gardens,2,2,32,-,20,4,2,160,caught,1,4.0,0,20,2,5
+230558,Sunil Narine,6 May 2018,v MI,Wankhede,2,7,5,-,4,1,0,125,caught,1,4.0,0,35,2,8.75
+230558,Sunil Narine,9 May 2018,v MI,Eden Gardens,2,1,4,-,2,1,0,200,caught,1,4.0,0,27,1,6.75
+230558,Sunil Narine,12 May 2018,v Kings XI,Indore,1,2,75,-,36,9,4,208.33,caught,2,4.0,0,44,1,11
+230558,Sunil Narine,15 May 2018,v RR,Eden Gardens,2,1,21,-,7,2,2,300,caught,1,4.0,0,29,1,7.25
+230558,Sunil Narine,19 May 2018,v SRH,Hyderabad,2,2,29,-,10,4,2,290,caught,1,4.0,0,23,1,5.75
+230558,Sunil Narine,23 May 2018,v RR,Eden Gardens,1,1,4,-,2,1,0,200,stumped,2,4.0,0,39,0,9.75
+230558,Sunil Narine,25 May 2018,v SRH,Eden Gardens,2,2,26,-,13,4,1,200,caught,1,4.0,0,24,1,6
+230558,Sunil Narine,8 Aug 2018,v Stars,Port of Spain,1,2,17,-,13,2,1,130.76,bowled,2,4.0,0,18,1,4.5
+230558,Sunil Narine,10 Aug 2018,v Tallawahs,Port of Spain,1,1,7,-,6,0,1,116.66,caught,2,3.3,0,42,0,12
+230558,Sunil Narine,11 Aug 2018,v Patriots,Port of Spain,2,2,4,-,2,1,0,200,caught,1,4.0,0,24,2,6
+230558,Sunil Narine,16 Aug 2018,v Stars,Gros Islet,2,1,9,-,6,0,1,150,caught,1,3.0,0,26,0,8.66
+230558,Sunil Narine,19 Aug 2018,v Tallawahs,Lauderhill,2,1,0,-,3,0,0,0,caught,1,4.0,0,42,0,10.5
+230558,Sunil Narine,26 Aug 2018,v Tridents,Bridgetown,2,2,13,-,10,0,1,130,caught,1,4.0,0,27,0,6.75
+230558,Sunil Narine,1 Sep 2018,v Patriots,Basseterre,1,2,6,-,4,0,1,150,caught,2,4.0,0,22,0,5.5
+230558,Sunil Narine,5 Sep 2018,v Amazon,Port of Spain,1,8,0,-,1,0,0,0,caught,2,4.0,0,15,1,3.75
+230558,Sunil Narine,7 Sep 2018,v Tridents,Port of Spain,1,7,2*,-,3,0,0,66.66,not out,2,4.0,0,27,0,6.75
+230558,Sunil Narine,11 Sep 2018,v Amazon,Providence,1,1,8,-,15,1,0,53.33,caught,2,4.0,0,9,1,2.25
+230558,Sunil Narine,14 Sep 2018,v Patriots,Tarouba,1,8,0*,-,0,0,0,-,not out,2,4.0,0,21,2,5.25
+230558,Sunil Narine,16 Sep 2018,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+230558,Sunil Narine,5 Jan 2019,v Kings,Mirpur,1,2,38,-,28,4,2,135.71,caught,2,2.0,0,14,0,7
+230558,Sunil Narine,8 Jan 2019,v Khulna,Mirpur,1,2,19,-,14,1,2,135.71,caught,2,3.0,0,20,2,6.66
+230558,Sunil Narine,11 Jan 2019,v Rangpur,Mirpur,1,2,8,-,9,2,0,88.88,caught,2,4.0,0,40,2,10
+230558,Sunil Narine,12 Jan 2019,v Sylhet,Mirpur,1,2,25,-,21,2,2,119.04,caught,2,3.0,0,13,1,4.33
+230558,Sunil Narine,16 Jan 2019,v Kings,Sylhet,2,2,1,-,3,0,0,33.33,lbw,1,4.0,0,19,3,4.75
+230558,Sunil Narine,18 Jan 2019,v Sylhet,Sylhet,2,2,20,-,10,3,1,200,caught,1,4.0,0,32,1,8
+230558,Sunil Narine,21 Jan 2019,v Chattogram,Mirpur,1,2,18,-,9,3,1,200,bowled,2,4.0,0,26,0,6.5
+230558,Sunil Narine,22 Jan 2019,v Victorians,Mirpur,2,2,20,-,18,3,0,111.11,run out,1,4.0,0,31,0,7.75
+230558,Sunil Narine,28 Jan 2019,v Rangpur,Chattogram,1,2,28,-,19,3,2,147.36,caught,2,4.0,0,45,0,11.25
+230558,Sunil Narine,30 Jan 2019,v Chattogram,Chattogram,2,2,0,-,3,0,0,0,caught,1,4.0,0,20,2,5
+230558,Sunil Narine,1 Feb 2019,v Victorians,Mirpur,2,5,22,-,24,2,0,91.66,caught,1,4.0,0,25,2,6.25
+230558,Sunil Narine,2 Feb 2019,v Khulna,Mirpur,2,2,35,-,13,2,4,269.23,caught,1,4.0,0,20,1,5
+230558,Sunil Narine,4 Feb 2019,v Chattogram,Mirpur,2,2,31,-,16,6,1,193.75,caught,1,4.0,0,15,4,3.75
+230558,Sunil Narine,6 Feb 2019,v Rangpur,Mirpur,2,2,14,-,8,3,0,175,caught,1,4.0,0,18,0,4.5
+230558,Sunil Narine,8 Feb 2019,v Victorians,Mirpur,2,2,0,-,0,0,0,-,run out,1,4.0,0,18,0,4.5
+230558,Sunil Narine,24 Mar 2019,v SRH,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+230558,Sunil Narine,27 Mar 2019,v Kings XI,Eden Gardens,1,2,24,-,9,1,3,266.66,caught,2,2.0,0,26,0,13
+230558,Sunil Narine,5 Apr 2019,v RCB,Bengaluru,2,2,10,12,8,2,0,125,caught,1,4.0,0,30,1,7.5
+230558,Sunil Narine,7 Apr 2019,v RR,Jaipur,2,2,47,39,25,6,3,188,caught,1,4.0,0,22,0,5.5
+230558,Sunil Narine,9 Apr 2019,v CSK,Chennai,1,2,6,10,5,0,0,120,caught,2,3.2,0,24,2,7.2
+230558,Sunil Narine,14 Apr 2019,v CSK,Eden Gardens,1,2,2,24,7,0,0,28.57,caught,2,4.0,1,19,2,4.75
+230558,Sunil Narine,19 Apr 2019,v RCB,Eden Gardens,2,2,18,18,16,4,0,112.5,caught,1,4.0,0,32,1,8
+230558,Sunil Narine,21 Apr 2019,v SRH,Hyderabad,1,2,25,15,8,3,2,312.5,bowled,2,4.0,0,34,0,8.5
+230558,Sunil Narine,25 Apr 2019,v RR,Eden Gardens,1,5,11,15,8,1,1,137.5,run out,2,4.0,0,25,2,6.25
+230558,Sunil Narine,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,2,11
+230558,Sunil Narine,3 May 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+230558,Sunil Narine,5 May 2019,v MI,Wankhede,1,8,0*,2,0,0,0,-,not out,2,4.0,0,33,0,8.25
+230558,Sunil Narine,3 Aug 2019,v India,Lauderhill,1,8,2,-,4,0,0,50,caught,2,4.0,0,14,2,3.5
+230558,Sunil Narine,4 Aug 2019,v India,Lauderhill,2,1,4,-,12,0,0,33.33,bowled,1,4.0,0,28,0,7
+230558,Sunil Narine,6 Aug 2019,v India,Providence,1,2,2,-,6,0,0,33.33,caught,2,4.0,0,29,0,7.25
+230558,Sunil Narine,4 Sep 2019,v Patriots,Port of Spain,1,2,0,-,4,0,0,0,bowled,2,4.0,0,21,0,5.25
+230558,Sunil Narine,6 Sep 2019,v Tallawahs,Port of Spain,1,3,46,-,22,4,3,209.09,caught,2,4.0,0,23,2,5.75
+230558,Sunil Narine,8 Sep 2019,v Zouks,Port of Spain,2,2,7,-,5,0,1,140,caught,1,4.0,0,23,1,5.75
+230558,Sunil Narine,13 Sep 2019,v Tallawahs,Kingston,1,2,20,-,18,3,1,111.11,bowled,2,4.0,0,47,1,11.75
+230558,Sunil Narine,26 Sep 2019,v Tridents,Bridgetown,2,1,19,-,9,2,1,211.11,bowled,1,4.0,1,19,1,4.75
+230558,Sunil Narine,6 Oct 2019,v Patriots,Providence,2,2,8,-,4,2,0,200,caught,1,4.0,0,10,2,2.5
+230558,Sunil Narine,10 Oct 2019,v Tridents,Tarouba,2,1,17,-,8,4,0,212.5,caught,1,4.0,0,19,0,4.75
+230558,Sunil Narine,18 Aug 2020,v Amazon,Tarouba,2,2,50,-,28,2,4,178.57,caught,1,4.0,0,19,2,4.75
+230558,Sunil Narine,20 Aug 2020,v Tallawahs,Tarouba,2,2,53,-,38,7,2,139.47,caught,1,4.0,0,19,1,4.75
+230558,Sunil Narine,23 Aug 2020,v Tridents,Tarouba,1,2,8,-,16,1,0,50,bowled,2,4.0,0,17,1,4.25
+230558,Sunil Narine,1 Sep 2020,v Tallawahs,Tarouba,1,2,29,-,11,5,1,263.63,caught,2,4.0,0,23,1,5.75
+230558,Sunil Narine,8 Sep 2020,v Tallawahs,Tarouba,2,2,4,-,4,1,0,100,bowled,1,4.0,1,13,1,3.25
+230558,Sunil Narine,23 Sep 2020,v MI,Abu Dhabi,2,2,9,-,10,0,1,90,caught,1,4.0,0,22,1,5.5
+230558,Sunil Narine,26 Sep 2020,v SRH,Abu Dhabi,2,2,0,-,2,0,0,0,caught,1,4.0,0,31,0,7.75
+230558,Sunil Narine,30 Sep 2020,v RR,Dubai (DICS),1,2,15,-,14,2,1,107.14,bowled,2,4.0,0,40,1,10
+230558,Sunil Narine,3 Oct 2020,v DC,Sharjah,2,2,3,-,5,0,0,60,bowled,1,2.0,0,26,0,13
+230558,Sunil Narine,7 Oct 2020,v CSK,Abu Dhabi,1,4,17,-,9,1,1,188.88,caught,2,4.0,0,31,1,7.75
+230558,Sunil Narine,10 Oct 2020,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+230558,Sunil Narine,24 Oct 2020,v DC,Abu Dhabi,1,5,64,-,32,6,4,200,caught,2,4.0,0,37,0,9.25
+230558,Sunil Narine,26 Oct 2020,v Kings XI,Sharjah,1,6,6,-,4,1,0,150,bowled,2,4.0,0,27,0,6.75
+230558,Sunil Narine,29 Oct 2020,v CSK,Dubai (DICS),1,3,7,-,7,0,1,100,caught,2,4.0,0,23,0,5.75
+230558,Sunil Narine,1 Nov 2020,v RR,Dubai (DICS),1,4,0,-,2,0,0,0,caught,2,4.0,0,37,0,9.25
+230558,Sunil Narine,21 Apr 2021,v CSK,Wankhede,2,5,4,3,3,1,0,133.33,caught,1,4.0,0,34,1,8.5
+230558,Sunil Narine,24 Apr 2021,v RR,Wankhede,1,4,6,9,7,1,0,85.71,caught,2,4.0,0,20,0,5
+230558,Sunil Narine,26 Apr 2021,v Punjab Kings,Ahmedabad,2,4,0,9,4,0,0,0,caught,1,4.0,0,22,2,5.5
+230558,Sunil Narine,29 Apr 2021,v DC,Ahmedabad,1,5,0,4,1,0,0,0,bowled,2,4.0,0,36,0,9
+230558,Sunil Narine,22 Jul 2021,v Originals,The Oval,1,3,2,-,5,0,0,40,lbw,2,4.0,0,22,1,6.6
+230558,Sunil Narine,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+230558,Sunil Narine,31 Jul 2021,v N S-Chargers,Leeds,1,3,22,16,11,0,3,200,caught,2,4.0,0,15,1,4.5
+230558,Sunil Narine,2 Aug 2021,v Fire,The Oval,2,3,19,19,11,1,2,172.72,caught,1,4.0,0,19,0,5.7
+230558,Sunil Narine,4 Aug 2021,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,12.3
+230558,Sunil Narine,8 Aug 2021,v Rockets,The Oval,1,3,1,4,3,0,0,33.33,caught,2,2.0,0,11,3,6.6
+230558,Sunil Narine,14 Aug 2021,v Spirit,The Oval,2,3,4,3,2,1,0,200,caught,1,4.0,0,22,1,6.6
+230558,Sunil Narine,16 Aug 2021,v Brave,Southampton,1,5,14,22,15,0,0,93.33,caught,2,4.0,0,28,0,8.4
+230558,Sunil Narine,26 Aug 2021,v Amazon,Basseterre,2,2,20,-,17,2,1,117.64,caught,1,4.0,0,17,2,4.25
+230558,Sunil Narine,27 Aug 2021,v Royals,Basseterre,2,2,0,4,1,0,0,0,caught,1,4.0,0,27,1,6.75
+230558,Sunil Narine,29 Aug 2021,v Kings,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+230558,Sunil Narine,31 Aug 2021,v Kings,Basseterre,1,2,24,53,32,4,0,75,caught,2,4.0,1,16,1,4
+230558,Sunil Narine,1 Sep 2021,v Amazon,Basseterre,1,1,21,32,20,2,1,105,caught,2,4.0,0,9,2,2.25
+230558,Sunil Narine,5 Sep 2021,v Tallawahs,Basseterre,2,1,9,10,8,2,0,112.5,lbw,1,4.0,0,13,1,3.25
+230558,Sunil Narine,7 Sep 2021,v Tallawahs,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,1,11,2,2.75
+230558,Sunil Narine,9 Sep 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+230558,Sunil Narine,11 Sep 2021,v Patriots,Basseterre,1,7,33*,29,18,1,4,183.33,not out,2,4.0,0,10,0,2.5
+230558,Sunil Narine,14 Sep 2021,v Kings,Basseterre,2,2,30,41,17,4,1,176.47,caught,1,4.0,0,12,1,3
+230558,Sunil Narine,20 Sep 2021,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+230558,Sunil Narine,23 Sep 2021,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+230558,Sunil Narine,26 Sep 2021,v CSK,Abu Dhabi,1,8,0*,4,1,0,0,0,not out,2,4.0,0,41,3,10.25
+230558,Sunil Narine,28 Sep 2021,v DC,Sharjah,2,7,21,17,10,1,2,210,caught,1,4.0,0,18,2,4.5
+230558,Sunil Narine,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,8,3*,8,3,0,0,100,not out,2,4.0,0,34,1,8.5
+230558,Sunil Narine,3 Oct 2021,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,0,3
+230558,Sunil Narine,7 Oct 2021,v RR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+230558,Sunil Narine,11 Oct 2021,v RCB,Sharjah,2,5,26,31,15,0,3,173.33,bowled,1,4.0,0,21,4,5.25
+230558,Sunil Narine,13 Oct 2021,v DC,Sharjah,2,8,0,3,1,0,0,0,caught,1,4.0,0,27,0,6.75
+230558,Sunil Narine,15 Oct 2021,v CSK,Dubai (DICS),2,4,2,6,2,0,0,100,caught,1,4.0,0,26,2,6.5
+230558,Sunil Narine,3 Feb 2022,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+230558,Sunil Narine,7 Feb 2022,v Barishal,Sylhet,2,7,3,8,7,0,0,42.85,caught,1,4.0,0,25,0,6.25
+230558,Sunil Narine,9 Feb 2022,v Sunrisers,Sylhet,2,6,24*,24,12,3,1,200,not out,1,4.0,0,34,1,8.5
+230558,Sunil Narine,11 Feb 2022,v Khulna,Mirpur,1,6,0,3,1,0,0,0,bowled,2,4.0,0,15,0,3.75
+230558,Sunil Narine,12 Feb 2022,v Khulna,Mirpur,1,7,1*,5,5,0,0,20,not out,2,4.0,0,22,0,5.5
+230558,Sunil Narine,14 Feb 2022,v Barishal,Mirpur,2,6,17,34,16,1,1,106.25,caught,1,4.0,1,16,1,4
+230558,Sunil Narine,16 Feb 2022,v Chattogram,Mirpur,2,2,57,26,16,5,6,356.25,caught,1,4.0,0,24,0,6
+230558,Sunil Narine,18 Feb 2022,v Barishal,Mirpur,1,1,57,25,23,5,5,247.82,caught,2,4.0,0,15,2,3.75
+230558,Sunil Narine,26 Mar 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+230558,Sunil Narine,30 Mar 2022,v RCB,DY Patil,1,5,12,20,8,1,1,150,caught,2,4.0,0,12,1,3
+230558,Sunil Narine,1 Apr 2022,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+230558,Sunil Narine,6 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+230558,Sunil Narine,10 Apr 2022,v DC,Brabourne,2,8,4,3,2,1,0,200,caught,1,4.0,0,21,2,5.25
+230558,Sunil Narine,15 Apr 2022,v SRH,Brabourne,1,4,6,3,2,0,1,300,caught,2,4.0,0,23,0,5.75
+230558,Sunil Narine,18 Apr 2022,v RR,Brabourne,2,2,0,3,0,0,0,-,run out,1,4.0,0,21,2,5.25
+230558,Sunil Narine,23 Apr 2022,v GT,DY Patil,2,2,5,14,5,1,0,100,caught,1,4.0,0,31,0,7.75
+230558,Sunil Narine,28 Apr 2022,v DC,Wankhede,1,5,0,3,1,0,0,0,lbw,2,4.0,0,19,1,4.75
+230558,Sunil Narine,2 May 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+230558,Sunil Narine,7 May 2022,v LSG,Pune,2,7,22,21,12,3,1,183.33,caught,1,4.0,0,20,1,5
+230558,Sunil Narine,9 May 2022,v MI,DY Patil,1,9,0,2,1,0,0,0,caught,2,4.0,0,21,0,5.25
+230558,Sunil Narine,14 May 2022,v SRH,Pune,1,8,1*,8,2,0,0,50,not out,2,4.0,0,34,1,8.5
+230558,Sunil Narine,18 May 2022,v LSG,DY Patil,2,8,21*,24,7,0,3,300,not out,1,4.0,0,27,0,6.75
+230558,Sunil Narine,27 May 2022,v Glamorgan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+230558,Sunil Narine,31 May 2022,v Gloucs,The Oval,1,6,6,7,4,1,0,150,caught,2,4.0,0,17,1,4.25
+230558,Sunil Narine,2 Jun 2022,v Hampshire,The Oval,1,5,52,28,23,5,4,226.08,caught,2,4.0,0,24,1,6
+230558,Sunil Narine,3 Jun 2022,v Kent,Canterbury,1,5,25,24,19,1,2,131.57,caught,2,4.0,0,18,1,4.5
+230558,Sunil Narine,5 Jun 2022,v Glamorgan,Cardiff,1,6,6,6,4,1,0,150,lbw,2,DNB,-,-,-,-
+230558,Sunil Narine,8 Jun 2022,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+230558,Sunil Narine,9 Jun 2022,v Middlesex,Lord's,1,5,25,15,16,2,1,156.25,caught,2,4.0,0,28,2,7
+230558,Sunil Narine,17 Jun 2022,v Middlesex,The Oval,2,5,51*,32,29,2,4,175.86,not out,1,4.0,0,27,2,6.75
+230558,Sunil Narine,19 Jun 2022,v Hampshire,Southampton,2,4,11,8,8,1,1,137.5,caught,1,4.0,0,28,1,7
+230558,Sunil Narine,21 Jun 2022,v Somerset,The Oval,2,3,13,11,12,0,1,108.33,caught,1,4.0,0,18,0,4.5
+230558,Sunil Narine,23 Jun 2022,v Sussex,Hove,2,5,6,4,2,0,1,300,bowled,1,4.0,0,25,0,6.25
+230558,Sunil Narine,24 Jun 2022,v Essex,Chelmsford,2,6,4,5,4,1,0,100,caught,1,4.0,0,35,2,8.75
+230558,Sunil Narine,1 Jul 2022,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+230558,Sunil Narine,6 Jul 2022,v Yorkshire,The Oval,2,8,0,4,1,0,0,0,caught,1,4.0,0,26,1,6.5
+230558,Sunil Narine,4 Aug 2022,v Spirit,The Oval,2,8,9*,-,7,0,1,128.57,not out,1,4.0,0,25,2,7.5
+230558,Sunil Narine,7 Aug 2022,v Fire,Cardiff,1,6,6*,-,5,1,0,120,not out,2,4.0,0,21,3,6.3
+230558,Sunil Narine,11 Aug 2022,v N S-Chargers,The Oval,2,2,4,7,3,1,0,133.33,caught,1,4.0,0,11,3,3.3
+230558,Sunil Narine,14 Aug 2022,v Brave,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,5.7
+230558,Sunil Narine,17 Aug 2022,v Rockets,Nottingham,2,6,23,-,19,2,1,121.05,caught,1,4.0,0,24,1,7.2
+230558,Sunil Narine,23 Aug 2022,v Phoenix,The Oval,2,8,6*,11,6,1,0,100,not out,1,4.0,0,21,2,6.3
+230558,Sunil Narine,1 Sep 2022,v Kings,Basseterre,2,1,6,-,4,0,1,150,caught,1,4.0,0,21,1,5.25
+230558,Sunil Narine,3 Sep 2022,v Patriots,Basseterre,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+230558,Sunil Narine,7 Sep 2022,v Royals,Gros Islet,2,2,7,8,5,1,0,140,bowled,1,4.0,0,23,1,5.75
+230558,Sunil Narine,10 Sep 2022,v Tallawahs,Gros Islet,2,2,0,-,2,0,0,0,bowled,1,4.0,0,11,2,2.75
+230558,Sunil Narine,13 Sep 2022,v Royals,Port of Spain,1,6,30,53,31,0,2,96.77,caught,2,4.0,0,21,0,5.25
+230558,Sunil Narine,14 Sep 2022,v Amazon,Port of Spain,1,6,26,43,20,0,2,130,stumped,2,4.0,0,9,2,2.25
+230558,Sunil Narine,17 Sep 2022,v Tallawahs,Tarouba,2,5,4,6,3,1,0,133.33,caught,1,4.0,0,21,1,5.25
+230558,Sunil Narine,18 Sep 2022,v Kings,Tarouba,2,8,19*,22,14,2,1,135.71,not out,1,4.0,0,31,2,7.75
+230558,Sunil Narine,22 Sep 2022,v Patriots,Providence,2,8,0,3,1,0,0,0,caught,1,4.0,0,13,0,3.25
+230558,Sunil Narine,24 Sep 2022,v Amazon,Providence,2,7,19,-,12,1,2,158.33,bowled,1,4.0,0,23,2,5.75
+230558,Sunil Narine,7 Feb 2023,v Barishal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+230558,Sunil Narine,10 Feb 2023,v Rangpur,Mirpur,1,3,8,7,3,2,0,266.66,bowled,2,4.0,0,27,2,6.75
+230558,Sunil Narine,12 Feb 2023,v Strikers,Mirpur,2,2,39,22,18,3,4,216.66,bowled,1,3.1,0,8,1,2.52
+230558,Sunil Narine,16 Feb 2023,v Strikers,Mirpur,2,2,10,12,5,1,1,200,caught,1,4.0,0,33,1,8.25
+230558,Sunil Narine,1 Apr 2023,v Punjab Kings,Mohali,2,9,7*,4,2,0,1,350,not out,1,4.0,0,40,1,10
+230558,Sunil Narine,6 Apr 2023,v RCB,Eden Gardens,1,8,0*,6,1,0,0,0,not out,2,4.0,0,16,2,4
+230558,Sunil Narine,9 Apr 2023,v GT,Ahmedabad,2,7,0,2,1,0,0,0,caught,1,4.0,0,33,3,8.25
+230558,Sunil Narine,14 Apr 2023,v SRH,Eden Gardens,2,4,0,2,1,0,0,0,caught,1,4.0,0,28,0,7
+230558,Sunil Narine,16 Apr 2023,v MI,Wankhede,1,8,2*,9,2,0,0,100,not out,2,3.0,0,41,0,13.66
+230558,Sunil Narine,20 Apr 2023,v DC,Delhi,1,7,4,6,6,1,0,66.66,caught,2,4.0,0,36,0,9
+230558,Sunil Narine,23 Apr 2023,v CSK,Eden Gardens,2,2,0,4,3,0,0,0,bowled,1,2.0,0,23,0,11.5
+230558,Sunil Narine,26 Apr 2023,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+230558,Sunil Narine,29 Apr 2023,v GT,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+230558,Sunil Narine,4 May 2023,v SRH,Hyderabad,1,7,1,6,2,0,0,50,caught,2,2.0,0,16,0,8
+230558,Sunil Narine,8 May 2023,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+230558,Sunil Narine,11 May 2023,v RR,Eden Gardens,1,9,6,9,5,1,0,120,caught,2,2.0,0,13,0,6.5
+230558,Sunil Narine,14 May 2023,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+230558,Sunil Narine,20 May 2023,v LSG,Eden Gardens,2,8,1,4,2,0,0,50,run out,1,4.0,0,28,2,7
+230558,Sunil Narine,25 May 2023,v Middlesex,Lord's,1,2,10,20,12,2,0,83.33,caught,2,4.0,0,37,2,9.25
+230558,Sunil Narine,26 May 2023,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+230558,Sunil Narine,28 May 2023,v Sussex,The Oval,1,5,29,26,18,2,3,161.11,caught,2,4.0,1,18,2,4.5
+230558,Sunil Narine,31 May 2023,v Hampshire,Southampton,2,5,7,4,3,0,1,233.33,caught,1,4.0,0,22,1,5.5
+230558,Sunil Narine,2 Jun 2023,v Gloucs,Bristol,1,7,7,11,9,1,0,77.77,caught,2,4.0,0,16,1,4
+230558,Sunil Narine,4 Jun 2023,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+230558,Sunil Narine,7 Jun 2023,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+230558,Sunil Narine,9 Jun 2023,v Sussex,Hove,1,8,8*,6,4,1,0,200,not out,2,2.5,0,12,3,4.23
+230558,Sunil Narine,16 Jun 2023,v Somerset,Taunton,1,9,8,9,5,0,1,160,caught,2,4.0,0,55,0,13.75
+230558,Sunil Narine,18 Jun 2023,v Hampshire,The Oval,1,9,2,6,7,0,0,28.57,bowled,2,4.0,0,24,0,6
+230558,Sunil Narine,20 Jun 2023,v Glamorgan,The Oval,1,3,36,32,19,4,1,189.47,caught,2,4.0,0,25,2,6.25
+230558,Sunil Narine,22 Jun 2023,v Middlesex,The Oval,1,6,0,1,2,0,0,0,caught,2,4.0,0,47,0,11.75
+230558,Sunil Narine,30 Jun 2023,v Somerset,The Oval,2,3,16,9,8,4,0,200,caught,1,4.0,0,38,2,9.5
+230558,Sunil Narine,2 Jul 2023,v Essex,The Oval,1,5,78*,50,38,7,6,205.26,not out,2,4.0,0,42,1,10.5
+230558,Sunil Narine,7 Jul 2023,v Lancashire,Manchester,1,7,2*,4,2,0,0,100,not out,2,4.0,0,31,1,7.75
+230558,Sunil Narine,2 Aug 2023,v Spirit,Lord's,2,8,13*,11,5,1,1,260,not out,1,4.0,0,14,2,4.2
+230558,Sunil Narine,6 Aug 2023,v Fire,The Oval,2,8,2,15,4,0,0,50,run out,1,3.0,0,25,0,10
+230558,Sunil Narine,9 Aug 2023,v Originals,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,3,3.6
+230558,Sunil Narine,11 Aug 2023,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,10.5
+230558,Sunil Narine,13 Aug 2023,v Phoenix,Birmingham,2,8,20,10,11,0,3,181.81,caught,1,4.0,0,32,0,9.6
+230558,Sunil Narine,19 Aug 2023,v Patriots,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+230558,Sunil Narine,26 Aug 2023,v Kings,Basseterre,2,9,1,5,3,0,0,33.33,caught,1,4.0,0,24,0,6
+230558,Sunil Narine,27 Aug 2023,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+230558,Sunil Narine,30 Aug 2023,v Royals,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,1,5.5
+230558,Sunil Narine,3 Sep 2023,v Tallawahs,Bridgetown,1,9,0,-,3,0,0,0,lbw,2,4.0,0,26,2,6.5
+230558,Sunil Narine,5 Sep 2023,v Amazon,Port of Spain,1,9,4,1,2,1,0,200,caught,2,4.0,0,29,0,7.25
+230558,Sunil Narine,6 Sep 2023,v Royals,Port of Spain,1,8,0*,4,0,0,0,-,not out,2,4.0,1,41,1,10.25
+230558,Sunil Narine,9 Sep 2023,v Tallawahs,Tarouba,2,2,15,10,6,2,1,250,lbw,1,4.0,0,29,2,7.25
+230558,Sunil Narine,10 Sep 2023,v Kings,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+230558,Sunil Narine,24 Sep 2023,v Amazon,Providence,1,9,1,4,4,0,0,25,caught,2,4.0,0,10,0,2.5
+230558,Sunil Narine,21 Jan 2024,v Vipers,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+230558,Sunil Narine,23 Jan 2024,v MI Emirates,Abu Dhabi,1,10,1,-,5,0,0,20,caught,2,1.0,0,9,0,9
+230558,Sunil Narine,25 Jan 2024,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+230558,Sunil Narine,27 Jan 2024,v Vipers,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+230558,Sunil Narine,28 Jan 2024,v MI Emirates,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+230558,Sunil Narine,31 Jan 2024,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+230558,Sunil Narine,3 Feb 2024,v DC,Abu Dhabi,1,10,2,-,8,0,0,25,bowled,2,3.0,0,22,2,7.33
+230558,Sunil Narine,7 Feb 2024,v Warriors,Abu Dhabi,1,10,0,1,1,0,0,0,lbw,2,4.0,0,14,0,3.5
+230558,Sunil Narine,10 Feb 2024,v Gulf Giants,Dubai (DICS),2,10,2,7,3,0,0,66.66,run out,1,4.0,0,22,0,5.5
+230558,Sunil Narine,13 Feb 2024,v DC,Abu Dhabi,2,10,1,7,4,0,0,25,caught,1,4.0,0,31,0,7.75
+230558,Sunil Narine,19 Feb 2024,v Strikers,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,2,4
+230558,Sunil Narine,20 Feb 2024,v Rangpur,Chattogram,2,2,15,23,11,3,0,136.36,caught,1,4.0,0,26,0,6.5
+230558,Sunil Narine,23 Feb 2024,v Barishal,Mirpur,1,1,16,18,18,2,1,88.88,caught,2,4.0,0,18,0,4.5
+230558,Sunil Narine,26 Feb 2024,v Rangpur,Mirpur,2,1,0,1,1,0,0,0,caught,1,4.0,0,11,1,2.75
+230558,Sunil Narine,1 Mar 2024,v Barishal,Mirpur,1,1,5,3,4,1,0,125,caught,2,4.0,0,21,0,5.25
+230558,Sunil Narine,23 Mar 2024,v SRH,Eden Gardens,1,2,2,11,4,0,0,50,run out,2,4.0,0,19,1,4.75
+230558,Sunil Narine,29 Mar 2024,v RCB,Bengaluru,2,2,47,29,22,2,5,213.63,bowled,1,4.0,0,40,1,10
+230558,Sunil Narine,3 Apr 2024,v DC,Visakhapatnam,1,2,85,62,39,7,7,217.94,caught,2,4.0,0,29,1,7.25
+230558,Sunil Narine,8 Apr 2024,v CSK,Chennai,1,2,27,36,20,3,2,135,caught,2,4.0,0,30,1,7.5
+230558,Sunil Narine,14 Apr 2024,v LSG,Eden Gardens,2,2,6,10,6,1,0,100,caught,1,4.0,0,17,1,4.25
+230558,Sunil Narine,16 Apr 2024,v RR,Eden Gardens,1,2,109,89,56,13,6,194.64,bowled,2,4.0,0,30,2,7.5
+230558,Sunil Narine,21 Apr 2024,v RCB,Eden Gardens,1,2,10,31,15,2,0,66.66,caught,2,4.0,0,34,2,8.5
+230558,Sunil Narine,26 Apr 2024,v Punjab Kings,Eden Gardens,1,2,71,-,32,9,4,221.87,caught,2,4.0,0,24,1,6
+230558,Sunil Narine,29 Apr 2024,v DC,Eden Gardens,2,2,15,34,10,3,0,150,caught,1,4.0,0,24,1,6
+230558,Sunil Narine,3 May 2024,v MI,Wankhede,1,2,8,23,8,0,1,100,bowled,2,4.0,0,22,2,5.5
+230558,Sunil Narine,5 May 2024,v LSG,Lucknow,1,2,81,60,39,6,7,207.69,caught,2,4.0,0,22,1,5.5
+230558,Sunil Narine,11 May 2024,v MI,Eden Gardens,1,2,0,7,1,0,0,0,bowled,2,3.0,0,21,1,7
+230558,Sunil Narine,19 May 2024,v RR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+230558,Sunil Narine,21 May 2024,v SRH,Ahmedabad,2,2,21,36,16,4,0,131.25,caught,1,4.0,0,40,1,10
+230558,Sunil Narine,26 May 2024,v SRH,Chennai,2,2,6,6,2,0,1,300,caught,1,4.0,0,16,1,4
+230558,Sunil Narine,5 Jul 2024,v Texas,Dallas,1,2,2,-,3,0,0,66.66,bowled,2,4.0,0,23,1,5.75
+230558,Sunil Narine,7 Jul 2024,v SF,Dallas,1,2,6,-,6,1,0,100,caught,2,4.0,0,39,1,9.75
+230558,Sunil Narine,9 Jul 2024,v Seattle,Dallas,1,2,5,-,6,1,0,83.33,caught,2,4.0,0,25,0,6.25
+230558,Sunil Narine,14 Jul 2024,v Washington,Morrisville,1,2,0,-,2,0,0,0,bowled,2,4.0,0,17,0,4.25
+230558,Sunil Narine,17 Jul 2024,v Seattle,Morrisville,2,2,8,-,7,0,1,114.28,bowled,1,4.0,0,21,1,5.25
+230558,Sunil Narine,21 Jul 2024,v MI New York,Dallas,1,2,6,-,4,1,0,150,caught,2,4.0,0,24,2,6
+230558,Sunil Narine,31 Aug 2024,v Patriots,Basseterre,1,2,38,-,19,3,4,200,caught,2,4.0,0,24,2,6
+230558,Sunil Narine,5 Sep 2024,v Falcons,North Sound,2,2,0,-,4,0,0,0,caught,1,4.0,0,32,2,8
+230558,Sunil Narine,10 Sep 2024,v Kings,Gros Islet,2,2,14,10,8,0,2,175,caught,1,4.0,0,13,2,3.25
+230558,Sunil Narine,13 Sep 2024,v Royals,Bridgetown,2,1,0,1,1,0,0,0,caught,1,4.0,0,16,2,4
+230558,Sunil Narine,18 Sep 2024,v Amazon,Port of Spain,2,2,11,7,6,1,1,183.33,bowled,1,4.0,0,24,2,6
+230558,Sunil Narine,19 Sep 2024,v Falcons,Port of Spain,1,2,4,3,3,1,0,133.33,bowled,2,4.0,1,20,1,5
+230558,Sunil Narine,1 Oct 2024,v Royals,Providence,1,1,2,1,3,0,0,66.66,bowled,2,2.0,0,22,1,11
+230558,Sunil Narine,12 Jan 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+230558,Sunil Narine,15 Jan 2025,v Warriorz,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,0,4
+230558,Sunil Narine,18 Jan 2025,v Vipers,Dubai (DICS),2,5,7,5,6,0,1,116.66,caught,1,4.0,0,32,0,8
+230558,Sunil Narine,19 Jan 2025,v Gulf Giants,Dubai (DICS),1,7,1,2,2,0,0,50,bowled,2,4.0,0,25,1,6.25
+230558,Sunil Narine,21 Jan 2025,v MI Emirates,Abu Dhabi,2,8,13,24,11,0,1,118.18,caught,1,4.0,0,24,0,6
+230558,Sunil Narine,24 Jan 2025,v MI Emirates,Abu Dhabi,1,9,1*,2,1,0,0,100,not out,2,4.0,0,14,0,3.5
+230558,Sunil Narine,26 Jan 2025,v DC,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+230558,Sunil Narine,30 Jan 2025,v Warriorz,Sharjah,1,6,2,-,3,0,0,66.66,caught,2,4.0,0,20,2,5
+230558,Sunil Narine,1 Feb 2025,v Gulf Giants,Abu Dhabi,1,9,12*,20,12,0,1,100,not out,2,4.0,0,22,0,5.5
+230558,Sunil Narine,2 Feb 2025,v DC,Dubai (DICS),2,7,22*,-,8,2,2,275,not out,1,4.0,0,34,1,8.5
+230558,Sunil Narine,22 Mar 2025,v RCB,Eden Gardens,1,2,44,52,26,5,3,169.23,caught,2,4.0,0,27,1,6.75
+230558,Sunil Narine,31 Mar 2025,v MI,Wankhede,1,2,0,3,2,0,0,0,bowled,2,3.0,0,32,0,10.66
+230558,Sunil Narine,3 Apr 2025,v SRH,Eden Gardens,1,2,7,13,7,0,1,100,caught,2,4.0,0,30,1,7.5
+230558,Sunil Narine,8 Apr 2025,v LSG,Eden Gardens,2,2,30,36,13,4,2,230.76,caught,1,3.0,0,38,0,12.66
+230558,Sunil Narine,11 Apr 2025,v CSK,Chennai,2,2,44,35,18,2,5,244.44,bowled,1,4.0,0,13,3,3.25
+230558,Sunil Narine,15 Apr 2025,v Punjab Kings,New Chandigarh,2,2,5,4,4,1,0,125,bowled,1,3.0,0,14,2,4.66
+230558,Sunil Narine,21 Apr 2025,v GT,Eden Gardens,2,2,17,31,13,2,1,130.76,caught,1,4.0,0,36,0,9
+230558,Sunil Narine,26 Apr 2025,v Punjab Kings,Eden Gardens,2,2,4*,4,3,1,0,133.33,not out,1,4.0,0,35,0,8.75
+230558,Sunil Narine,29 Apr 2025,v DC,Delhi,1,2,27,38,16,2,2,168.75,lbw,2,4.0,0,29,3,7.25
+230558,Sunil Narine,4 May 2025,v RR,Eden Gardens,1,2,11,9,9,1,1,122.22,bowled,2,4.0,0,27,0,6.75
+230558,Sunil Narine,7 May 2025,v CSK,Eden Gardens,1,2,26,34,17,4,1,152.94,stumped,2,4.0,0,28,0,7
+230558,Sunil Narine,25 May 2025,v SRH,Delhi,2,2,31,17,16,3,3,193.75,bowled,1,4.0,0,42,2,10.5
+230558,Sunil Narine,14 Jun 2025,v SF,Oakland,2,8,27,-,13,3,2,207.69,caught,1,4.0,0,42,1,10.5
+230558,Sunil Narine,15 Jun 2025,v Texas,Oakland,2,8,0,-,1,0,0,0,caught,1,4.0,0,26,0,6.5
+230558,Sunil Narine,17 Jun 2025,v Washington,Oakland,2,2,0,-,1,0,0,0,bowled,1,4.0,0,28,0,7
+230558,Sunil Narine,24 Jun 2025,v Texas,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+230558,Sunil Narine,3 Jul 2025,v MI New York,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+230558,Sunil Narine,5 Jul 2025,v MI New York,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+230558,Sunil Narine,17 Aug 2025,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+230558,Sunil Narine,20 Aug 2025,v Falcons,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+230558,Sunil Narine,23 Aug 2025,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+230558,Sunil Narine,27 Aug 2025,v Falcons,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+230558,Sunil Narine,29 Aug 2025,v Royals,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+230558,Sunil Narine,30 Aug 2025,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+230558,Sunil Narine,1 Sep 2025,v Patriots,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+230558,Sunil Narine,3 Sep 2025,v Kings,Tarouba,1,10,1,2,2,0,0,50,caught,2,4.0,0,28,2,7
+230558,Sunil Narine,6 Sep 2025,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+230558,Sunil Narine,12 Sep 2025,v Royals,Bridgetown,1,8,4,2,2,1,0,200,bowled,2,4.0,0,18,0,4.5
+230558,Sunil Narine,16 Sep 2025,v Falcons,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+230558,Sunil Narine,19 Sep 2025,v Kings,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,3,4.5
+230558,Sunil Narine,21 Sep 2025,v Amazon,Providence,2,5,22,23,17,0,2,129.41,caught,1,4.0,1,30,0,7.5
+230558,Sunil Narine,3 Dec 2025,v Warriorz,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+230558,Sunil Narine,5 Dec 2025,v Vipers,Sharjah,1,8,1*,-,1,0,0,100,not out,2,4.0,0,35,2,8.75
+230558,Sunil Narine,7 Dec 2025,v DC,Dubai (DICS),2,9,3,5,5,0,0,60,bowled,1,4.0,0,38,0,9.5
+230558,Sunil Narine,11 Dec 2025,v MI Emirates,Abu Dhabi,1,7,26,34,20,1,2,130,caught,2,2.0,0,11,0,5.5
+230558,Sunil Narine,13 Dec 2025,v DC,Abu Dhabi,2,7,1,2,2,0,0,50,bowled,1,4.0,0,38,0,9.5
+230558,Sunil Narine,16 Dec 2025,v Vipers,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+230558,Sunil Narine,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+230558,Sunil Narine,20 Dec 2025,v MI Emirates,Abu Dhabi,2,7,6,13,12,0,0,50,bowled,1,4.0,0,29,0,7.25
+230558,Sunil Narine,22 Dec 2025,v Warriorz,Abu Dhabi,1,10,0*,-,0,0,0,-,not out,2,4.0,0,14,1,3.5
+230558,Sunil Narine,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,2,3.5
+230558,Sunil Narine,1 Jan 2026,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,3,4
+230558,Sunil Narine,2 Jan 2026,v MI Emirates,Sharjah,1,8,4,2,3,1,0,133.33,caught,2,4.0,0,20,1,5
+230558,Sunil Narine,7 Jan 2026,v Capitals,Durban,2,8,0,1,1,0,0,0,caught,1,4.0,0,22,0,5.5
+230558,Sunil Narine,11 Jan 2026,v Sunrisers,Gqeberha,2,4,0,4,3,0,0,0,caught,1,4.0,1,24,1,6
+230558,Sunil Narine,13 Jan 2026,v Paarl Royals,Paarl,1,1,22,14,11,3,1,200,caught,2,4.0,0,30,1,7.5
+230558,Sunil Narine,17 Jan 2026,v Paarl Royals,Durban,1,1,4,2,2,1,0,200,caught,2,4.0,0,18,2,4.5

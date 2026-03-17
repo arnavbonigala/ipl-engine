@@ -1,0 +1,61 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1153149,Vijayakanth Viyaskanth,4 Dec 2020,v Kings,Hambantota,1,11,3*,-,4,0,0,75,not out,2,4.0,0,29,1,7.25
+1153149,Vijayakanth Viyaskanth,7 Dec 2020,v Viiking,Hambantota,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+1153149,Vijayakanth Viyaskanth,9 Dec 2020,v Tuskers,Hambantota,1,10,8,-,7,1,0,114.28,bowled,2,2.0,0,18,0,9
+1153149,Vijayakanth Viyaskanth,16 Dec 2021,v Stars,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+1153149,Vijayakanth Viyaskanth,17 Dec 2021,v Galle,Colombo (RPS),2,10,0,-,1,0,0,0,run out,1,4.0,0,21,2,5.25
+1153149,Vijayakanth Viyaskanth,6 Dec 2022,v Galle,Hambantota,1,9,4,-,4,0,0,100,bowled,2,4.0,0,20,2,5
+1153149,Vijayakanth Viyaskanth,7 Dec 2022,v Aura,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+1153149,Vijayakanth Viyaskanth,10 Dec 2022,v Kandy,Pallekele,1,9,3*,-,4,0,0,75,not out,2,4.0,0,19,1,4.75
+1153149,Vijayakanth Viyaskanth,12 Dec 2022,v Stars,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+1153149,Vijayakanth Viyaskanth,14 Dec 2022,v Kandy,Pallekele,2,9,10*,-,9,0,0,111.11,not out,1,4.0,0,38,0,9.5
+1153149,Vijayakanth Viyaskanth,18 Dec 2022,v Galle,Colombo (RPS),1,10,1*,-,1,0,0,100,not out,2,4.0,0,27,2,6.75
+1153149,Vijayakanth Viyaskanth,21 Dec 2022,v Kandy,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+1153149,Vijayakanth Viyaskanth,23 Dec 2022,v Stars,Colombo (RPS),2,10,0*,-,0,0,0,-,not out,1,4.0,0,24,0,6
+1153149,Vijayakanth Viyaskanth,9 Jan 2023,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+1153149,Vijayakanth Viyaskanth,13 Jan 2023,v Barishal,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+1153149,Vijayakanth Viyaskanth,23 Jan 2023,v Rangpur,Mirpur,2,7,6,19,10,0,0,60,run out,1,4.0,0,41,1,10.25
+1153149,Vijayakanth Viyaskanth,27 Jan 2023,v Barishal,Sylhet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,0,4.33
+1153149,Vijayakanth Viyaskanth,28 Jan 2023,v Strikers,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+1153149,Vijayakanth Viyaskanth,8 Feb 2023,v Rangpur,Mirpur,1,9,11,21,10,1,0,110,run out,2,3.0,0,23,0,7.66
+1153149,Vijayakanth Viyaskanth,28 May 2023,v Badureliya,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1153149,Vijayakanth Viyaskanth,30 May 2023,v Sinhalese,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1153149,Vijayakanth Viyaskanth,1 Jun 2023,v Kurunegala,Colombo (NCC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+1153149,Vijayakanth Viyaskanth,7 Jun 2023,v Ace Capital,Colombo (NCC),1,3,14,-,8,3,0,175,caught,2,2.4,0,14,3,5.25
+1153149,Vijayakanth Viyaskanth,30 Jul 2023,v Colombo,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+1153149,Vijayakanth Viyaskanth,1 Aug 2023,v Aura,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+1153149,Vijayakanth Viyaskanth,4 Aug 2023,v Galle Titans,Pallekele,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+1153149,Vijayakanth Viyaskanth,5 Aug 2023,v B-Love Kandy,Pallekele,1,8,0,-,1,0,0,0,lbw,2,1.0,0,13,0,13
+1153149,Vijayakanth Viyaskanth,7 Aug 2023,v Aura,Pallekele,2,8,2,-,6,0,0,33.33,run out,1,2.0,0,18,0,9
+1153149,Vijayakanth Viyaskanth,4 Oct 2023,v Afghanistan,Hangzhou,2,9,13*,-,19,1,0,68.42,not out,1,4.0,0,28,1,7
+1153149,Vijayakanth Viyaskanth,8 Feb 2024,v Gulf Giants,Dubai (DICS),2,9,1*,7,2,0,0,50,not out,1,4.0,0,18,1,4.5
+1153149,Vijayakanth Viyaskanth,10 Feb 2024,v DC,Abu Dhabi,2,9,8*,18,13,0,0,61.53,not out,1,4.0,0,23,2,5.75
+1153149,Vijayakanth Viyaskanth,14 Feb 2024,v Gulf Giants,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+1153149,Vijayakanth Viyaskanth,17 Feb 2024,v DC,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,24,2,6
+1153149,Vijayakanth Viyaskanth,8 May 2024,v LSG,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+1153149,Vijayakanth Viyaskanth,19 May 2024,v Punjab Kings,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+1153149,Vijayakanth Viyaskanth,21 May 2024,v KKR,Ahmedabad,1,11,7*,16,5,0,0,140,not out,2,2.0,0,22,0,11
+1153149,Vijayakanth Viyaskanth,24 Jun 2024,v Burgher,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+1153149,Vijayakanth Viyaskanth,2 Jul 2024,v Galle,Pallekele,1,8,1*,-,1,0,0,100,not out,2,2.0,0,26,0,13
+1153149,Vijayakanth Viyaskanth,3 Jul 2024,v Sixers,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1153149,Vijayakanth Viyaskanth,5 Jul 2024,v Galle,Dambulla,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1153149,Vijayakanth Viyaskanth,10 Jul 2024,v Colombo,Dambulla,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+1153149,Vijayakanth Viyaskanth,14 Jul 2024,v Colombo,Colombo (RPS),1,8,25*,-,34,2,0,73.52,not out,2,2.0,0,20,0,10
+1153149,Vijayakanth Viyaskanth,20 Jul 2024,v Kandy,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+1153149,Vijayakanth Viyaskanth,21 Jul 2024,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,0,13
+1153149,Vijayakanth Viyaskanth,15 Jan 2025,v Warriorz,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,DNB,-,-,-,-
+1153149,Vijayakanth Viyaskanth,18 Jan 2025,v Vipers,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,2.0,0,22,0,11
+1153149,Vijayakanth Viyaskanth,30 Jan 2025,v Warriorz,Sharjah,1,-,sub,-,-,-,-,-,-,2,3.0,0,38,1,12.66
+1153149,Vijayakanth Viyaskanth,16 May 2025,v Colts CC,Colombo (CCC),1,4,4,-,5,0,0,80,caught,2,4.0,0,31,1,7.75
+1153149,Vijayakanth Viyaskanth,26 May 2025,v Police SC,Colombo (Colts),1,8,4,-,6,0,0,66.66,run out,2,4.0,0,18,0,4.5
+1153149,Vijayakanth Viyaskanth,5 Jun 2025,v Nugegoda SWC,Colombo (Colts),1,8,8,-,7,0,0,114.28,run out,2,4.0,1,21,1,5.25
+1153149,Vijayakanth Viyaskanth,6 Jun 2025,v Chilaw MCC,Colombo (SSC),1,9,1*,-,2,0,0,50,not out,2,4.0,0,22,4,5.5
+1153149,Vijayakanth Viyaskanth,8 Jun 2025,v Bloomfield,Colombo (CCC),2,8,0,-,2,0,0,0,stumped,1,4.0,0,18,2,4.5
+1153149,Vijayakanth Viyaskanth,11 Jun 2025,v Nondescripts,Colombo (CCC),1,-,DNB,-,-,-,-,-,-,2,1.0,0,19,1,19
+1153149,Vijayakanth Viyaskanth,8 Aug 2025,v SLC Blues,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+1153149,Vijayakanth Viyaskanth,10 Aug 2025,v SLC Greens,Colombo (SSC),1,8,8*,-,2,2,0,400,not out,2,4.0,0,24,2,6
+1153149,Vijayakanth Viyaskanth,13 Aug 2025,v SLC Blues,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+1153149,Vijayakanth Viyaskanth,16 Aug 2025,v SLC Greens,Colombo (SSC),2,8,9*,-,10,1,0,90,not out,1,4.0,0,45,2,11.25
+1153149,Vijayakanth Viyaskanth,15 Nov 2025,v AFG A,Doha,1,10,2,-,4,0,0,50,run out,2,4.0,0,28,3,7
+1153149,Vijayakanth Viyaskanth,17 Nov 2025,v Hong Kong,Doha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+1153149,Vijayakanth Viyaskanth,22 Nov 2025,v Pakistan,Rawalpindi,1,9,0*,6,2,0,0,0,not out,2,4.0,0,28,0,7

@@ -1,0 +1,146 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+851403,Venkatesh Iyer,25 Mar 2015,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+851403,Venkatesh Iyer,27 Mar 2015,v UP,Indore,1,6,21*,24,13,1,1,161.53,not out,2,4.0,0,21,2,5.25
+851403,Venkatesh Iyer,28 Mar 2015,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,2.5,0,11,1,3.88
+851403,Venkatesh Iyer,2 Apr 2015,v Jharkhand,Bhubaneswar,1,8,0*,1,0,0,0,-,not out,2,4.0,0,35,0,8.75
+851403,Venkatesh Iyer,3 Apr 2015,v Andhra,Bhubaneswar,2,-,DNB,-,-,-,-,-,-,1,1.4,0,8,1,4.8
+851403,Venkatesh Iyer,4 Apr 2015,v Gujarat,Bhubaneswar,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+851403,Venkatesh Iyer,5 Apr 2015,v Himachal,Bhubaneswar,2,9,0,1,2,0,0,0,caught,1,4.0,0,15,0,3.75
+851403,Venkatesh Iyer,2 Jan 2016,v Andhra,Vadodara,2,5,2,12,9,0,0,22.22,bowled,1,4.0,0,10,2,2.5
+851403,Venkatesh Iyer,3 Jan 2016,v Goa,Vadodara,2,5,17*,19,21,0,2,80.95,not out,1,4.0,0,14,1,3.5
+851403,Venkatesh Iyer,4 Jan 2016,v Delhi,Vadodara,1,8,0*,3,0,0,0,-,not out,2,4.0,0,33,1,8.25
+851403,Venkatesh Iyer,6 Jan 2016,v Railways,Vadodara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+851403,Venkatesh Iyer,7 Jan 2016,v Baroda,Vadodara,2,8,7,5,8,1,0,87.5,caught,1,4.0,0,31,1,7.75
+851403,Venkatesh Iyer,10 Jan 2016,v Assam,Vadodara,2,7,44*,35,24,1,5,183.33,not out,1,3.0,1,9,0,3
+851403,Venkatesh Iyer,29 Jan 2017,v Railways,Jaipur,2,6,1,4,2,0,0,50,bowled,1,3.0,0,25,1,8.33
+851403,Venkatesh Iyer,30 Jan 2017,v Rajasthan,Jaipur,1,7,45*,38,25,3,2,180,not out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,3 Feb 2017,v UP,Jaipur,1,5,18,25,16,1,0,112.5,caught,2,2.0,0,15,1,7.5
+851403,Venkatesh Iyer,4 Feb 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+851403,Venkatesh Iyer,6 Feb 2017,v Vidarbha,Jaipur,1,6,3,5,5,0,0,60,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,8 Jan 2018,v Rajasthan,Raipur,2,6,21,24,19,2,0,110.52,bowled,1,3.0,0,21,1,7
+851403,Venkatesh Iyer,10 Jan 2018,v UP,Raipur,2,5,27*,26,23,2,0,117.39,not out,1,2.0,0,17,0,8.5
+851403,Venkatesh Iyer,21 Feb 2019,v Punjab,Indore,1,6,20*,-,9,3,1,222.22,not out,2,4.0,0,43,2,10.75
+851403,Venkatesh Iyer,22 Feb 2019,v Saurashtra,Indore,1,6,23,24,18,4,0,127.77,lbw,2,1.0,0,13,0,13
+851403,Venkatesh Iyer,24 Feb 2019,v Mumbai,Indore,1,7,29,32,19,1,3,152.63,bowled,2,3.0,0,26,0,8.66
+851403,Venkatesh Iyer,25 Feb 2019,v Railways,Indore,1,5,15*,23,11,1,1,136.36,not out,2,2.0,0,18,1,9
+851403,Venkatesh Iyer,27 Feb 2019,v Goa,Indore,2,7,24*,25,15,2,1,160,not out,1,2.0,0,19,0,9.5
+851403,Venkatesh Iyer,2 Mar 2019,v Sikkim,Indore,1,6,2,-,5,0,0,40,caught,2,2.0,0,9,1,4.5
+851403,Venkatesh Iyer,9 Nov 2019,v Assam,Mumbai,2,5,26,-,27,1,0,96.29,run out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,11 Nov 2019,v Mumbai,Wankhede,1,6,24,-,19,0,1,126.31,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,12 Nov 2019,v Mizoram,Mumbai,1,6,30,-,12,2,3,250,run out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,14 Nov 2019,v Meghalaya,Wankhede,1,5,26,-,11,3,1,236.36,run out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,15 Nov 2019,v Bengal,Mumbai,1,5,3,-,10,0,0,30,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,17 Nov 2019,v Haryana,Mumbai,1,4,34,-,30,1,1,113.33,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,18 Nov 2019,v Puducherry,Wankhede,1,3,35,-,21,5,1,166.66,run out,2,1.0,0,9,1,9
+851403,Venkatesh Iyer,11 Jan 2021,v Goa,Indore,1,2,87*,-,52,11,2,167.3,not out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,13 Jan 2021,v Rajasthan,Indore,2,2,27,-,19,5,0,142.1,caught,1,4.0,0,27,1,6.75
+851403,Venkatesh Iyer,15 Jan 2021,v Vidarbha,Indore,1,2,14,-,19,1,0,73.68,caught,2,2.0,0,17,0,8.5
+851403,Venkatesh Iyer,17 Jan 2021,v Saurashtra,Indore,2,2,88*,-,53,11,2,166.03,not out,1,1.0,0,17,0,17
+851403,Venkatesh Iyer,19 Jan 2021,v Services,Indore,1,2,11,-,9,1,1,122.22,caught,2,2.0,0,19,1,9.5
+851403,Venkatesh Iyer,20 Sep 2021,v RCB,Abu Dhabi,2,2,41*,51,27,7,1,151.85,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,23 Sep 2021,v MI,Abu Dhabi,2,2,53,58,30,4,3,176.66,bowled,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Sep 2021,v CSK,Abu Dhabi,1,2,18,32,15,3,0,120,caught,2,1.0,0,5,0,5
+851403,Venkatesh Iyer,28 Sep 2021,v DC,Sharjah,2,2,14,18,15,2,0,93.33,bowled,1,4.0,0,29,2,7.25
+851403,Venkatesh Iyer,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,1,67,71,49,9,1,136.73,caught,2,2.3,0,30,1,12
+851403,Venkatesh Iyer,3 Oct 2021,v SRH,Dubai (DICS),2,2,8,24,14,0,0,57.14,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,7 Oct 2021,v RR,Sharjah,1,2,38,53,35,3,2,108.57,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,11 Oct 2021,v RCB,Sharjah,2,2,26,51,30,0,1,86.66,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,13 Oct 2021,v DC,Sharjah,2,2,55,58,41,4,3,134.14,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,15 Oct 2021,v CSK,Dubai (DICS),2,2,50,56,32,5,3,156.25,caught,1,1.0,0,5,0,5
+851403,Venkatesh Iyer,4 Nov 2021,v Assam,Delhi,2,1,37,-,23,8,0,160.86,stumped,1,2.0,0,13,1,6.5
+851403,Venkatesh Iyer,5 Nov 2021,v Railways,Delhi,2,1,50*,-,41,3,2,121.95,not out,1,3.0,0,20,2,6.66
+851403,Venkatesh Iyer,6 Nov 2021,v Gujarat,Delhi,2,1,31,-,24,4,1,129.16,caught,1,3.0,0,26,0,8.66
+851403,Venkatesh Iyer,8 Nov 2021,v Bihar,Delhi,2,1,36*,-,20,7,0,180,not out,1,4.0,2,2,2,0.5
+851403,Venkatesh Iyer,9 Nov 2021,v Kerala,Delhi,1,1,1,-,2,0,0,50,caught,2,3.0,0,26,0,8.66
+851403,Venkatesh Iyer,17 Nov 2021,v New Zealand,Jaipur,2,6,4,5,2,1,0,200,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,19 Nov 2021,v New Zealand,Ranchi,2,3,12*,22,11,2,0,109.09,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,21 Nov 2021,v New Zealand,Eden Gardens,1,6,20,24,15,1,1,133.33,caught,2,3.0,0,12,1,4
+851403,Venkatesh Iyer,16 Feb 2022,v West Indies,Eden Gardens,2,6,24*,22,13,2,1,184.61,not out,1,1.0,0,4,0,4
+851403,Venkatesh Iyer,18 Feb 2022,v West Indies,Eden Gardens,1,6,33,28,18,4,1,183.33,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,20 Feb 2022,v West Indies,Eden Gardens,1,6,35*,40,19,4,2,184.21,not out,2,2.1,0,23,2,10.61
+851403,Venkatesh Iyer,24 Feb 2022,v Sri Lanka,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,2,12
+851403,Venkatesh Iyer,26 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,27 Feb 2022,v Sri Lanka,Dharamsala,2,5,5,11,4,1,0,125,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Mar 2022,v CSK,Wankhede,2,2,16,31,16,2,0,100,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,30 Mar 2022,v RCB,DY Patil,1,2,10,16,14,1,0,71.42,caught,2,1.0,0,10,0,10
+851403,Venkatesh Iyer,1 Apr 2022,v Punjab Kings,Wankhede,2,2,3,23,7,0,0,42.85,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,6 Apr 2022,v MI,Pune,2,2,50*,84,41,6,1,121.95,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,10 Apr 2022,v DC,Brabourne,2,2,18,16,8,1,2,225,caught,1,1.0,0,14,0,14
+851403,Venkatesh Iyer,15 Apr 2022,v SRH,Brabourne,1,1,6,23,13,1,0,46.15,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,18 Apr 2022,v RR,Brabourne,2,6,6,18,7,0,0,85.71,stumped,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,23 Apr 2022,v GT,DY Patil,2,6,17,40,17,2,0,100,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,28 Apr 2022,v DC,Wankhede,1,2,6,24,12,0,0,50,caught,2,1.0,0,14,0,14
+851403,Venkatesh Iyer,9 May 2022,v MI,DY Patil,1,1,43,28,24,3,4,179.16,caught,2,1.0,0,8,0,8
+851403,Venkatesh Iyer,14 May 2022,v SRH,Pune,1,1,7,12,6,1,0,116.66,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,18 May 2022,v LSG,DY Patil,2,1,0,5,4,0,0,0,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,1 Jul 2022,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+851403,Venkatesh Iyer,3 Jul 2022,v Northants,Northampton,1,6,20,42,22,3,0,90.9,caught,2,2.0,0,15,1,7.5
+851403,Venkatesh Iyer,11 Oct 2022,v Rajasthan,Rajkot,1,3,62*,-,31,5,4,200,not out,2,4.0,0,20,6,5
+851403,Venkatesh Iyer,12 Oct 2022,v Mumbai,Rajkot,1,4,57,-,35,5,2,162.85,run out,2,2.0,0,23,0,11.5
+851403,Venkatesh Iyer,14 Oct 2022,v Uttarakhand,Saurashtra,2,5,42,-,29,3,2,144.82,caught,1,3.0,0,46,0,15.33
+851403,Venkatesh Iyer,16 Oct 2022,v Railways,Saurashtra,1,4,28,-,22,3,1,127.27,caught,2,3.0,0,32,0,10.66
+851403,Venkatesh Iyer,1 Apr 2023,v Punjab Kings,Mohali,2,4,34,66,28,3,1,121.42,caught,1,sub,-,-,-,-
+851403,Venkatesh Iyer,6 Apr 2023,v RCB,Eden Gardens,1,2,3,18,7,0,0,42.85,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,9 Apr 2023,v GT,Ahmedabad,2,3,83,64,40,8,5,207.5,caught,1,sub,-,-,-,-
+851403,Venkatesh Iyer,14 Apr 2023,v SRH,Eden Gardens,2,3,10,15,11,2,0,90.9,caught,1,sub,-,-,-,-
+851403,Venkatesh Iyer,16 Apr 2023,v MI,Wankhede,1,3,104,82,51,6,9,203.92,caught,2,sub,-,-,-,-
+851403,Venkatesh Iyer,20 Apr 2023,v DC,Delhi,1,3,0,9,2,0,0,0,caught,2,sub,-,-,-,-
+851403,Venkatesh Iyer,23 Apr 2023,v CSK,Eden Gardens,2,3,20,35,20,2,1,100,lbw,1,sub,-,-,-,-
+851403,Venkatesh Iyer,26 Apr 2023,v RCB,Bengaluru,1,3,31,44,26,3,0,119.23,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,29 Apr 2023,v GT,Eden Gardens,1,4,11,27,14,0,0,78.57,lbw,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,4 May 2023,v SRH,Hyderabad,1,3,7,6,4,1,0,175,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,8 May 2023,v Punjab Kings,Eden Gardens,2,4,11,28,13,0,0,84.61,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,11 May 2023,v RR,Eden Gardens,1,3,57,68,42,2,4,135.71,caught,2,sub,-,-,-,-
+851403,Venkatesh Iyer,14 May 2023,v CSK,Chennai,2,3,9,11,4,2,0,225,caught,1,sub,-,-,-,-
+851403,Venkatesh Iyer,20 May 2023,v LSG,Eden Gardens,2,2,24,25,15,3,1,160,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,17 Oct 2023,v Delhi,Dehradun,1,1,2,-,2,0,0,100,caught,2,3.0,0,21,0,7
+851403,Venkatesh Iyer,19 Oct 2023,v Karnataka,Dehradun,1,5,13,-,17,1,0,76.47,caught,2,1.0,0,5,0,5
+851403,Venkatesh Iyer,21 Oct 2023,v Tripura,Dehradun,1,4,43*,-,18,5,2,238.88,not out,2,2.0,0,14,0,7
+851403,Venkatesh Iyer,25 Oct 2023,v Tamil Nadu,Dehradun,2,4,29*,-,22,2,1,131.81,not out,1,1.0,0,12,0,12
+851403,Venkatesh Iyer,27 Oct 2023,v UP,Dehradun,2,5,35*,-,35,2,0,100,not out,1,2.0,0,14,0,7
+851403,Venkatesh Iyer,23 Mar 2024,v SRH,Eden Gardens,1,3,7,7,5,1,0,140,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,29 Mar 2024,v RCB,Bengaluru,2,3,50,43,30,3,4,166.66,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,3 Apr 2024,v DC,Visakhapatnam,1,7,5*,7,2,1,0,250,not out,2,1.0,0,28,0,28
+851403,Venkatesh Iyer,8 Apr 2024,v CSK,Chennai,1,5,3,6,8,0,0,37.5,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,14 Apr 2024,v LSG,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,16 Apr 2024,v RR,Eden Gardens,1,7,8,8,6,1,0,133.33,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,21 Apr 2024,v RCB,Eden Gardens,1,4,16,13,8,3,0,200,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Apr 2024,v Punjab Kings,Eden Gardens,1,3,39,-,23,3,2,169.56,run out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,29 Apr 2024,v DC,Eden Gardens,2,5,26*,27,23,2,1,113.04,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,3 May 2024,v MI,Wankhede,1,5,70,80,52,6,3,134.61,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,5 May 2024,v LSG,Lucknow,1,8,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,11 May 2024,v MI,Eden Gardens,1,3,42,41,21,6,2,200,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,19 May 2024,v RR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+851403,Venkatesh Iyer,21 May 2024,v SRH,Ahmedabad,2,3,51*,48,28,5,4,182.14,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 May 2024,v SRH,Chennai,2,3,52*,46,26,4,3,200,not out,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,23 Nov 2024,v Mizoram,Rajkot,1,6,36,-,15,5,2,240,caught,2,2.0,0,23,0,11.5
+851403,Venkatesh Iyer,25 Nov 2024,v Meghalaya,Saurashtra,1,5,37*,-,17,0,4,217.64,not out,2,2.0,0,9,1,4.5
+851403,Venkatesh Iyer,27 Nov 2024,v Punjab,Rajkot,1,6,22*,-,15,1,1,146.66,not out,2,1.0,0,12,0,12
+851403,Venkatesh Iyer,29 Nov 2024,v Bengal,Saurashtra,2,5,12*,-,9,1,0,133.33,not out,1,1.0,0,17,0,17
+851403,Venkatesh Iyer,1 Dec 2024,v Rajasthan,Saurashtra,1,6,16,-,14,2,0,114.28,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,3 Dec 2024,v Hyderabad,Rajkot,1,5,22,-,12,2,1,183.33,caught,2,3.0,0,24,0,8
+851403,Venkatesh Iyer,5 Dec 2024,v Bihar,Rajkot,2,4,27*,-,15,4,0,180,not out,1,2.0,0,19,1,9.5
+851403,Venkatesh Iyer,11 Dec 2024,v Saurashtra,Alur,2,4,38*,-,33,2,2,115.15,not out,1,3.0,0,23,2,7.66
+851403,Venkatesh Iyer,13 Dec 2024,v Delhi,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,2,6
+851403,Venkatesh Iyer,15 Dec 2024,v Mumbai,Bengaluru,1,6,17,-,9,1,1,188.88,caught,2,3.0,0,29,1,9.66
+851403,Venkatesh Iyer,22 Mar 2025,v RCB,Eden Gardens,1,4,6,11,7,1,0,85.71,bowled,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Mar 2025,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,31 Mar 2025,v MI,Wankhede,1,5,3,12,9,0,0,33.33,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,3 Apr 2025,v SRH,Eden Gardens,1,5,60,41,29,7,3,206.89,caught,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,8 Apr 2025,v LSG,Eden Gardens,2,4,45,52,29,6,1,155.17,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,11 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,15 Apr 2025,v Punjab Kings,New Chandigarh,2,5,7,13,4,0,0,175,lbw,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,21 Apr 2025,v GT,Eden Gardens,2,4,14,26,19,0,0,73.68,caught,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Apr 2025,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,29 Apr 2025,v DC,Delhi,1,5,7,7,5,1,0,140,caught,2,sub,-,-,-,-
+851403,Venkatesh Iyer,4 May 2025,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+851403,Venkatesh Iyer,26 Nov 2025,v Hyderabad,Jadavpur Uni,1,6,11,-,16,0,0,68.75,caught,2,1.0,0,15,0,15
+851403,Venkatesh Iyer,28 Nov 2025,v Bihar,Eden Gardens,1,6,55*,-,34,1,4,161.76,not out,2,3.0,0,32,1,10.66
+851403,Venkatesh Iyer,30 Nov 2025,v UP,Jadavpur Uni,1,5,0,-,2,0,0,0,stumped,2,1.0,0,6,0,6
+851403,Venkatesh Iyer,2 Dec 2025,v Goa,Jadavpur Uni,1,6,6,-,13,0,0,46.15,caught,2,3.0,0,35,1,11.66
+851403,Venkatesh Iyer,4 Dec 2025,v Maharashtra,Eden Gardens,1,6,13,-,15,0,1,86.66,caught,2,2.0,0,11,0,5.5
+851403,Venkatesh Iyer,6 Dec 2025,v Chandigarh,Jadavpur Uni,2,5,3*,-,5,0,0,60,not out,1,2.0,0,13,0,6.5
+851403,Venkatesh Iyer,8 Dec 2025,v J & K,Eden Gardens,2,6,23,-,22,4,0,104.54,bowled,1,DNB,-,-,-,-
+851403,Venkatesh Iyer,12 Dec 2025,v Andhra,Ambi,2,2,22,-,18,4,0,122.22,caught,1,3.0,0,16,1,5.33
+851403,Venkatesh Iyer,14 Dec 2025,v Jharkhand,Pune,2,2,8,-,9,1,0,88.88,run out,1,3.0,0,17,3,5.66
+851403,Venkatesh Iyer,16 Dec 2025,v Punjab,Ambi,1,2,70,-,43,8,2,162.79,caught,2,1.0,0,12,0,12

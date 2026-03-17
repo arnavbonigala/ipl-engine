@@ -1,0 +1,231 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+39024,Azhar Mahmood,13 Jun 2003,v Middlesex,The Oval,2,7,1,3,2,0,0,50,caught,1,4.0,0,28,2,7
+39024,Azhar Mahmood,14 Jun 2003,v Essex,East Molesey,1,7,43,29,18,3,3,238.88,run out,2,3.5,0,20,4,5.21
+39024,Azhar Mahmood,23 Jun 2003,v Kent,Canterbury,1,7,57*,31,31,2,5,183.87,not out,2,4.0,0,25,2,6.25
+39024,Azhar Mahmood,19 Jul 2003,v Gloucs,Nottingham,1,5,13,9,9,1,0,144.44,caught,2,4.0,0,28,3,7
+39024,Azhar Mahmood,19 Jul 2003,v Warwickshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+39024,Azhar Mahmood,15 Jul 2004,v Middlesex,Lord's,1,6,9,8,6,1,0,150,caught,2,3.0,0,18,0,6
+39024,Azhar Mahmood,7 Aug 2004,v Lancashire,Birmingham,1,7,13,10,12,0,1,108.33,caught,2,4.0,0,22,2,5.5
+39024,Azhar Mahmood,7 Aug 2004,v Leics,Birmingham,1,7,13,6,6,1,1,216.66,bowled,2,3.1,0,33,0,10.42
+39024,Azhar Mahmood,13 Jan 2005,v Australia A,Adelaide,2,7,1,2,2,0,0,50,lbw,1,3.0,0,24,0,8
+39024,Azhar Mahmood,28 Jun 2005,v Middlesex,The Oval,1,6,19,11,12,4,0,158.33,caught,2,2.0,0,19,0,9.5
+39024,Azhar Mahmood,29 Jun 2005,v Sussex,Hove,2,4,28*,20,17,4,1,164.7,not out,1,3.0,0,28,1,9.33
+39024,Azhar Mahmood,1 Jul 2005,v Kent,The Oval,1,5,23,16,14,2,1,164.28,caught,2,3.0,0,14,0,4.66
+39024,Azhar Mahmood,5 Jul 2005,v Essex,Chelmsford,2,3,35*,16,13,1,3,269.23,not out,1,1.0,0,3,2,3
+39024,Azhar Mahmood,6 Jul 2005,v Sussex,The Oval,1,5,40*,42,28,2,2,142.85,not out,2,4.0,0,21,2,5.25
+39024,Azhar Mahmood,18 Jul 2005,v Warwickshire,The Oval,1,6,13,12,14,0,0,92.85,caught,2,3.0,0,21,2,7
+39024,Azhar Mahmood,30 Jul 2005,v Lancashire,The Oval,2,6,30,22,17,3,2,176.47,caught,1,4.0,0,35,0,8.75
+39024,Azhar Mahmood,27 Jun 2006,v Middlesex,Lord's,1,3,12,5,8,2,0,150,caught,2,4.0,0,35,1,8.75
+39024,Azhar Mahmood,28 Jun 2006,v Kent,The Oval,1,4,4,4,5,0,0,80,caught,2,2.0,0,19,0,9.5
+39024,Azhar Mahmood,30 Jun 2006,v Sussex,Hove,1,4,27,24,24,3,0,112.5,bowled,2,3.0,0,26,0,8.66
+39024,Azhar Mahmood,1 Jul 2006,v Essex,The Oval,1,6,14,20,15,1,0,93.33,caught,2,2.0,0,22,1,11
+39024,Azhar Mahmood,4 Jul 2006,v Sussex,The Oval,1,6,19,21,20,1,1,95,caught,2,4.0,0,28,0,7
+39024,Azhar Mahmood,6 Jul 2006,v Hampshire,Southampton,1,6,65*,32,30,7,4,216.66,not out,2,3.1,0,25,2,7.89
+39024,Azhar Mahmood,7 Jul 2006,v Middlesex,The Oval,2,5,22*,19,18,2,1,122.22,not out,1,3.0,0,6,2,2
+39024,Azhar Mahmood,11 Jul 2006,v Kent,Canterbury,1,4,33,20,18,2,2,183.33,bowled,2,3.0,1,26,1,8.66
+39024,Azhar Mahmood,24 Jul 2006,v Gloucs,Bristol,1,6,0,0,1,0,0,0,caught,2,3.0,0,19,1,6.33
+39024,Azhar Mahmood,12 Aug 2006,v Notts,Nottingham,2,6,21,25,13,3,1,161.53,caught,1,4.0,0,36,0,9
+39024,Azhar Mahmood,22 Dec 2006,v Tigers,Karachi,2,5,7,-,8,0,0,87.5,lbw,1,4.0,0,17,3,4.25
+39024,Azhar Mahmood,23 Dec 2006,v P Panthers,Karachi,2,6,11,-,11,1,0,100,caught,1,3.0,0,19,1,6.33
+39024,Azhar Mahmood,22 Jun 2007,v Middlesex,The Oval,2,6,9*,11,7,1,0,128.57,not out,1,4.0,0,37,2,9.25
+39024,Azhar Mahmood,24 Jun 2007,v Hampshire,The Oval,2,4,21*,19,17,2,1,123.52,not out,1,2.0,0,13,1,6.5
+39024,Azhar Mahmood,28 Jun 2007,v Essex,Chelmsford,1,4,2,3,4,0,0,50,caught,2,3.0,0,31,1,10.33
+39024,Azhar Mahmood,2 Jul 2007,v Kent,Beckenham,2,5,39*,21,19,6,1,205.26,not out,1,4.0,0,34,0,8.5
+39024,Azhar Mahmood,3 Jul 2007,v Middlesex,Lord's,1,7,4*,2,1,1,0,400,not out,2,1.0,0,11,0,11
+39024,Azhar Mahmood,5 Jul 2007,v Sussex,The Oval,2,3,22,12,10,0,3,220,caught,1,1.0,0,13,0,13
+39024,Azhar Mahmood,6 Jul 2007,v Kent,The Oval,1,5,14,13,12,1,0,116.66,bowled,2,3.1,0,23,0,7.26
+39024,Azhar Mahmood,11 Jun 2008,v Sussex,Canterbury,2,6,19*,14,10,2,1,190,not out,1,3.0,0,12,1,4
+39024,Azhar Mahmood,13 Jun 2008,v Surrey,The Oval,1,6,13,13,14,0,1,92.85,caught,2,4.0,0,21,1,5.25
+39024,Azhar Mahmood,14 Jun 2008,v Hampshire,Southampton,2,7,10,16,11,0,0,90.9,caught,1,4.0,0,55,0,13.75
+39024,Azhar Mahmood,16 Jun 2008,v Hampshire,Canterbury,2,5,26*,14,12,3,1,216.66,not out,1,4.0,0,40,1,10
+39024,Azhar Mahmood,18 Jun 2008,v Essex,Chelmsford,2,7,20,15,12,0,2,166.66,caught,1,4.0,0,21,1,5.25
+39024,Azhar Mahmood,20 Jun 2008,v Middlesex,Beckenham,1,5,7,12,5,1,0,140,bowled,2,2.0,0,13,2,6.5
+39024,Azhar Mahmood,22 Jun 2008,v Essex,Beckenham,1,6,36*,14,11,4,2,327.27,not out,2,3.5,0,35,1,9.13
+39024,Azhar Mahmood,24 Jun 2008,v Middlesex,Uxbridge,2,6,19,16,12,0,2,158.33,caught,1,4.0,0,27,3,6.75
+39024,Azhar Mahmood,25 Jun 2008,v Surrey,Canterbury,2,7,55,38,31,7,1,177.41,caught,1,4.0,0,41,2,10.25
+39024,Azhar Mahmood,27 Jun 2008,v Sussex,Hove,1,5,34*,29,21,2,2,161.9,not out,2,3.0,0,22,1,7.33
+39024,Azhar Mahmood,9 Jul 2008,v Warwickshire,Birmingham,1,7,25*,20,13,1,2,192.3,not out,2,4.0,0,16,0,4
+39024,Azhar Mahmood,26 Jul 2008,v Essex,Southampton,1,6,24,21,19,2,0,126.31,caught,2,4.0,0,32,1,8
+39024,Azhar Mahmood,26 Jul 2008,v Middlesex,Southampton,2,6,6*,8,4,1,0,150,not out,1,4.0,0,33,1,8.25
+39024,Azhar Mahmood,25 May 2009,v Essex,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+39024,Azhar Mahmood,27 May 2009,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+39024,Azhar Mahmood,29 May 2009,v Middlesex,Canterbury,2,8,5*,3,4,1,0,125,not out,1,4.0,0,20,1,5
+39024,Azhar Mahmood,31 May 2009,v Sussex,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+39024,Azhar Mahmood,1 Jun 2009,v Essex,Chelmsford,2,7,8,11,8,1,0,100,caught,1,4.0,0,41,1,10.25
+39024,Azhar Mahmood,4 Jun 2009,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+39024,Azhar Mahmood,22 Jun 2009,v Hampshire,Tunbridge Wells,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+39024,Azhar Mahmood,24 Jun 2009,v Surrey,The Oval,1,6,15,16,14,2,0,107.14,caught,2,4.0,0,32,2,8
+39024,Azhar Mahmood,26 Jun 2009,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+39024,Azhar Mahmood,28 Jun 2009,v Surrey,Beckenham,1,7,3,9,3,0,0,100,caught,2,4.0,0,33,1,8.25
+39024,Azhar Mahmood,27 Jul 2009,v Durham,Canterbury,1,7,14,18,11,0,1,127.27,caught,2,2.2,0,14,2,6
+39024,Azhar Mahmood,15 Aug 2009,v Somerset,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.5,0,28,1,9.88
+39024,Azhar Mahmood,3 Mar 2010,v Rhinos,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+39024,Azhar Mahmood,5 Mar 2010,v Wolves,Karachi,1,5,2,9,9,0,0,22.22,caught,2,2.0,0,20,0,10
+39024,Azhar Mahmood,2 Jun 2010,v Essex,Chelmsford,2,6,7*,9,6,1,0,116.66,not out,1,4.0,0,23,1,5.75
+39024,Azhar Mahmood,3 Jun 2010,v Hampshire,Southampton,1,7,11,5,7,2,0,157.14,caught,2,2.4,1,12,0,4.5
+39024,Azhar Mahmood,9 Jun 2010,v Sussex,Tunbridge Wells,1,6,16,6,8,3,0,200,caught,2,3.4,0,29,0,7.9
+39024,Azhar Mahmood,11 Jun 2010,v Middlesex,Canterbury,1,6,4,4,6,1,0,66.66,bowled,2,4.0,0,27,2,6.75
+39024,Azhar Mahmood,13 Jun 2010,v Gloucs,Gloucester,1,7,23,11,11,1,2,209.09,run out,2,3.0,0,18,2,6
+39024,Azhar Mahmood,18 Jun 2010,v Surrey,The Oval,2,7,9*,10,12,0,0,75,not out,1,4.0,0,30,1,7.5
+39024,Azhar Mahmood,20 Jun 2010,v Somerset,Beckenham,2,7,15,17,18,1,0,83.33,bowled,1,4.0,0,37,1,9.25
+39024,Azhar Mahmood,23 Jun 2010,v Surrey,Beckenham,2,5,34,19,23,3,1,147.82,caught,1,4.0,0,37,0,9.25
+39024,Azhar Mahmood,24 Jun 2010,v Middlesex,Lord's,2,6,2,4,3,0,0,66.66,caught,1,4.0,1,27,1,6.75
+39024,Azhar Mahmood,27 Jun 2010,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+39024,Azhar Mahmood,2 Jul 2010,v Hampshire,Canterbury,2,7,16,15,17,2,0,94.11,bowled,1,4.0,0,20,1,5
+39024,Azhar Mahmood,4 Jul 2010,v Gloucs,Canterbury,1,7,4,5,5,0,0,80,bowled,2,4.0,0,27,2,6.75
+39024,Azhar Mahmood,9 Jul 2010,v Essex,The Oval,1,7,8,6,4,2,0,200,caught,2,3.4,0,31,2,8.45
+39024,Azhar Mahmood,11 Jul 2010,v Glamorgan,Canterbury,2,4,30*,46,29,2,0,103.44,not out,1,4.0,0,26,0,6.5
+39024,Azhar Mahmood,16 Jul 2010,v Glamorgan,Cardiff,1,4,14,20,22,1,0,63.63,caught,2,2.0,0,15,0,7.5
+39024,Azhar Mahmood,18 Jul 2010,v Somerset,Taunton,1,4,1,10,6,0,0,16.66,caught,2,2.0,0,12,0,6
+39024,Azhar Mahmood,13 Oct 2010,v Quetta Bears,Lahore,1,5,3,12,5,0,0,60,caught,2,4.0,1,21,1,5.25
+39024,Azhar Mahmood,14 Oct 2010,v Wolves,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+39024,Azhar Mahmood,15 Oct 2010,v Lahore Lions,Lahore,1,4,21,25,20,1,1,105,caught,2,4.0,0,32,4,8
+39024,Azhar Mahmood,3 Jun 2011,v Somerset,Tunbridge Wells,1,6,2,4,4,0,0,50,caught,2,3.0,0,29,0,9.66
+39024,Azhar Mahmood,5 Jun 2011,v Hampshire,Tunbridge Wells,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+39024,Azhar Mahmood,11 Jun 2011,v Glamorgan,Cardiff,2,3,15,23,15,1,0,100,caught,1,4.0,0,34,1,8.5
+39024,Azhar Mahmood,15 Jun 2011,v Gloucs,Beckenham,2,3,106*,64,57,13,3,185.96,not out,1,4.0,0,35,0,8.75
+39024,Azhar Mahmood,18 Jun 2011,v Middlesex,Canterbury,1,3,1,6,5,0,0,20,caught,2,4.0,0,14,3,3.5
+39024,Azhar Mahmood,24 Jun 2011,v Middlesex,Uxbridge,1,3,10,15,10,1,0,100,stumped,2,3.0,0,21,1,7
+39024,Azhar Mahmood,26 Jun 2011,v Surrey,Beckenham,2,3,49,54,36,1,4,136.11,caught,1,4.0,0,26,2,6.5
+39024,Azhar Mahmood,30 Jun 2011,v Hampshire,Southampton,2,3,0,2,1,0,0,0,lbw,1,3.0,0,21,0,7
+39024,Azhar Mahmood,1 Jul 2011,v Essex,Canterbury,2,3,50*,46,36,6,0,138.88,not out,1,4.0,0,27,1,6.75
+39024,Azhar Mahmood,3 Jul 2011,v Glamorgan,Canterbury,2,3,32,33,31,3,0,103.22,lbw,1,4.0,0,36,1,9
+39024,Azhar Mahmood,6 Jul 2011,v Gloucs,Bristol,2,3,20,18,16,3,0,125,bowled,1,3.0,0,14,1,4.66
+39024,Azhar Mahmood,8 Jul 2011,v Sussex,Canterbury,2,3,18,24,15,3,0,120,run out,1,4.0,0,38,0,9.5
+39024,Azhar Mahmood,14 Jul 2011,v Surrey,The Oval,1,3,60,49,40,7,1,150,caught,2,3.2,0,26,0,7.8
+39024,Azhar Mahmood,15 Jul 2011,v Essex,Chelmsford,1,3,31,18,19,3,0,163.15,bowled,2,4.0,0,36,3,9
+39024,Azhar Mahmood,6 Aug 2011,v Leics,Leicester,1,3,91,64,52,9,4,175,caught,2,4.0,0,52,1,13
+39024,Azhar Mahmood,18 Dec 2011,v Wellington,Auckland,1,3,29,33,17,1,1,170.58,run out,2,2.0,0,21,1,10.5
+39024,Azhar Mahmood,26 Dec 2011,v Northern Dis,Auckland,2,3,3,14,6,0,0,50,run out,1,4.0,0,31,0,7.75
+39024,Azhar Mahmood,28 Dec 2011,v Wellington,Wellington,1,3,0,5,3,0,0,0,lbw,2,3.0,0,28,0,9.33
+39024,Azhar Mahmood,3 Jan 2012,v Canterbury,Rangiora,2,3,1,3,2,0,0,50,lbw,1,4.0,0,45,2,11.25
+39024,Azhar Mahmood,6 Jan 2012,v Otago,Auckland,1,3,79*,81,49,6,3,161.22,not out,2,4.0,0,30,0,7.5
+39024,Azhar Mahmood,8 Jan 2012,v Northern Dis,Mount Maunganui,2,1,5,4,5,1,0,100,run out,1,1.2,0,6,1,4.5
+39024,Azhar Mahmood,12 Jan 2012,v Central D,Auckland,2,1,19,29,19,4,0,100,caught,1,1.0,0,5,0,5
+39024,Azhar Mahmood,15 Jan 2012,v Otago,Dunedin,2,3,51,45,39,6,1,130.76,caught,1,3.0,0,22,2,7.33
+39024,Azhar Mahmood,17 Jan 2012,v Canterbury,Auckland,1,2,100*,82,61,10,3,163.93,not out,2,3.0,0,33,0,11
+39024,Azhar Mahmood,22 Jan 2012,v Canterbury,Auckland,1,1,44,32,32,7,0,137.5,caught,2,2.0,0,30,0,15
+39024,Azhar Mahmood,11 Feb 2012,v Khulna,Mirpur,2,3,28,20,16,4,1,175,caught,1,4.0,0,20,2,5
+39024,Azhar Mahmood,12 Feb 2012,v Royals,Mirpur,2,2,9,14,10,2,0,90,bowled,1,2.5,0,25,1,8.82
+39024,Azhar Mahmood,13 Feb 2012,v Chittagong,Mirpur,2,2,1,15,9,0,0,11.11,bowled,1,4.0,0,44,0,11
+39024,Azhar Mahmood,14 Feb 2012,v Barisal,Mirpur,1,4,77*,75,47,8,3,163.82,not out,2,4.0,0,42,2,10.5
+39024,Azhar Mahmood,19 Feb 2012,v Khulna,Chattogram,1,3,33,28,24,4,1,137.5,run out,2,2.0,0,12,1,6
+39024,Azhar Mahmood,22 Feb 2012,v Royals,Chattogram,2,3,29,-,15,3,2,193.33,stumped,1,4.0,0,22,2,5.5
+39024,Azhar Mahmood,24 Feb 2012,v Chittagong,Mirpur,2,3,12,9,8,1,1,150,caught,1,4.0,0,31,0,7.75
+39024,Azhar Mahmood,25 Feb 2012,v Barisal,Mirpur,2,4,42,53,30,7,0,140,caught,1,4.0,0,32,0,8
+39024,Azhar Mahmood,27 Feb 2012,v Rajshahi,Mirpur,1,3,2,-,9,0,0,22.22,lbw,2,4.0,0,22,1,5.5
+39024,Azhar Mahmood,28 Feb 2012,v Khulna,Mirpur,1,4,65,52,39,6,3,166.66,caught,2,4.0,0,47,0,11.75
+39024,Azhar Mahmood,29 Feb 2012,v Barisal,Mirpur,2,4,0*,3,1,0,0,0,not out,1,2.0,0,25,0,12.5
+39024,Azhar Mahmood,20 Apr 2012,v RCB,Mohali,1,7,33*,24,14,3,2,235.71,not out,2,3.3,0,30,0,8.57
+39024,Azhar Mahmood,22 Apr 2012,v MI,Wankhede,2,5,10,13,7,0,1,142.85,caught,1,4.0,0,39,0,9.75
+39024,Azhar Mahmood,25 Apr 2012,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.5,0,23,2,6
+39024,Azhar Mahmood,28 Apr 2012,v CSK,Chennai,1,3,18,17,12,0,2,150,lbw,2,4.0,0,25,3,6.25
+39024,Azhar Mahmood,2 May 2012,v RCB,Bengaluru,2,5,2,5,4,0,0,50,run out,1,4.0,0,20,3,5
+39024,Azhar Mahmood,5 May 2012,v RR,Mohali,2,5,24,34,24,2,1,100,bowled,1,4.0,0,37,0,9.25
+39024,Azhar Mahmood,8 May 2012,v Chargers,Hyderabad,1,5,14,26,9,2,0,155.55,run out,2,4.0,0,31,0,7.75
+39024,Azhar Mahmood,13 May 2012,v Chargers,Mohali,2,4,31,42,20,2,1,155,stumped,1,4.0,0,39,2,9.75
+39024,Azhar Mahmood,15 May 2012,v Daredevils,Delhi,1,6,9,9,7,1,0,128.57,caught,2,4.0,0,34,0,8.5
+39024,Azhar Mahmood,17 May 2012,v CSK,Dharamsala,2,6,9*,8,7,2,0,128.57,not out,1,4.0,0,28,2,7
+39024,Azhar Mahmood,19 May 2012,v Daredevils,Dharamsala,1,6,36,59,38,4,1,94.73,caught,2,3.2,0,23,2,6.9
+39024,Azhar Mahmood,17 Jun 2012,v Surrey,Beckenham,2,3,6,9,8,0,0,75,stumped,1,2.0,0,12,2,6
+39024,Azhar Mahmood,20 Jun 2012,v Essex,Chelmsford,2,3,0,2,1,0,0,0,lbw,1,2.0,0,13,0,6.5
+39024,Azhar Mahmood,22 Jun 2012,v Hampshire,Southampton,1,3,22,29,24,1,1,91.66,caught,2,4.0,0,44,2,11
+39024,Azhar Mahmood,24 Jun 2012,v Hampshire,Canterbury,1,3,21,31,27,2,0,77.77,bowled,2,1.2,0,10,0,7.5
+39024,Azhar Mahmood,26 Jun 2012,v Middlesex,Canterbury,2,4,13,9,10,1,0,130,caught,1,4.0,0,61,1,15.25
+39024,Azhar Mahmood,5 Jul 2012,v Surrey,The Oval,1,5,7,8,7,1,0,100,stumped,2,3.0,0,12,3,4
+39024,Azhar Mahmood,6 Jul 2012,v Essex,Canterbury,2,5,11,11,9,0,1,122.22,bowled,1,4.0,0,38,0,9.5
+39024,Azhar Mahmood,8 Jul 2012,v Middlesex,Uxbridge,2,5,30,35,26,2,1,115.38,run out,1,4.0,0,22,2,5.5
+39024,Azhar Mahmood,19 Aug 2012,v Basnahira CD,Pallekele,1,6,1,-,1,0,0,100,run out,2,2.0,0,12,1,6
+39024,Azhar Mahmood,20 Aug 2012,v Nagenahira,Pallekele,1,5,4,-,3,0,0,133.33,bowled,2,4.0,0,34,0,8.5
+39024,Azhar Mahmood,28 Aug 2012,v Uva Next,Colombo (RPS),2,7,75*,-,47,8,4,159.57,not out,1,4.0,0,52,1,13
+39024,Azhar Mahmood,9 Oct 2012,v S Stallions,Johannesburg,2,3,24,42,23,3,0,104.34,caught,1,2.0,0,20,1,10
+39024,Azhar Mahmood,10 Oct 2012,v Hampshire,Centurion,2,3,55*,34,31,5,4,177.41,not out,1,4.0,0,24,5,6
+39024,Azhar Mahmood,15 Oct 2012,v KKR,Cape Town,2,3,51*,59,42,3,2,121.42,not out,1,4.0,1,16,3,4
+39024,Azhar Mahmood,17 Oct 2012,v Titans,Durban,2,3,7,16,9,0,0,77.77,caught,1,4.0,0,32,1,8
+39024,Azhar Mahmood,23 Oct 2012,v Scorchers,Centurion,2,3,23,35,21,4,0,109.52,caught,1,4.0,0,24,0,6
+39024,Azhar Mahmood,14 Dec 2012,v Renegades,Sydney,1,5,1,-,3,0,0,33.33,bowled,2,4.0,0,18,2,4.5
+39024,Azhar Mahmood,20 Dec 2012,v Strikers,Sydney,2,3,1,-,7,0,0,14.28,lbw,1,2.0,0,18,0,9
+39024,Azhar Mahmood,23 Dec 2012,v Hurricanes,Hobart,2,4,23,-,20,2,0,115,caught,1,3.0,0,44,0,14.66
+39024,Azhar Mahmood,18 Jan 2013,v Royals,Mirpur,2,4,10,10,12,1,0,83.33,caught,1,4.0,0,34,1,8.5
+39024,Azhar Mahmood,20 Jan 2013,v Khulna,Mirpur,2,4,25*,27,16,3,1,156.25,not out,1,4.0,0,33,1,8.25
+39024,Azhar Mahmood,23 Jan 2013,v Rangpur,Khulna,2,5,6,10,10,0,0,60,stumped,1,3.0,0,23,0,7.66
+39024,Azhar Mahmood,24 Jan 2013,v Chittagong,Khulna,2,4,5,19,13,0,0,38.46,caught,1,4.0,0,22,2,5.5
+39024,Azhar Mahmood,28 Jan 2013,v Rajshahi,Chattogram,2,5,54,58,28,3,4,192.85,lbw,1,4.0,0,50,1,12.5
+39024,Azhar Mahmood,31 Jan 2013,v Chittagong,Chattogram,1,4,35,46,29,4,1,120.68,run out,2,4.0,0,36,2,9
+39024,Azhar Mahmood,2 Feb 2013,v Rajshahi,Chattogram,1,4,57,56,34,2,4,167.64,run out,2,4.0,0,20,2,5
+39024,Azhar Mahmood,4 Feb 2013,v Khulna,Mirpur,2,4,52*,54,33,7,1,157.57,not out,1,4.0,0,23,3,5.75
+39024,Azhar Mahmood,9 Feb 2013,v Dhaka,Mirpur,1,4,30,48,33,3,0,90.9,caught,2,2.0,0,10,1,5
+39024,Azhar Mahmood,12 Feb 2013,v Dhaka,Mirpur,2,4,2,11,4,0,0,50,bowled,1,3.2,0,7,3,2.1
+39024,Azhar Mahmood,13 Feb 2013,v Royals,Mirpur,1,4,0,1,2,0,0,0,lbw,2,3.4,0,16,2,4.36
+39024,Azhar Mahmood,14 Feb 2013,v Rangpur,Mirpur,1,4,0,2,1,0,0,0,lbw,2,2.0,1,8,1,4
+39024,Azhar Mahmood,22 Feb 2013,v Knights,Paarl,1,5,13,12,11,1,0,118.18,bowled,2,4.0,0,40,0,10
+39024,Azhar Mahmood,24 Feb 2013,v Dolphins,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+39024,Azhar Mahmood,28 Feb 2013,v Titans,Benoni,1,5,15,19,15,2,0,100,caught,2,3.4,0,21,1,5.72
+39024,Azhar Mahmood,6 Mar 2013,v Warriors,Gqeberha,1,6,13,13,9,2,0,144.44,caught,2,4.0,0,20,2,5
+39024,Azhar Mahmood,8 Mar 2013,v Lions,Cape Town,1,3,12,15,10,2,0,120,caught,2,4.0,1,15,1,3.75
+39024,Azhar Mahmood,12 Mar 2013,v Titans,Paarl,2,3,27,37,25,2,0,108,run out,1,4.0,0,34,3,8.5
+39024,Azhar Mahmood,14 Mar 2013,v Dolphins,Durban,2,6,11,10,8,2,0,137.5,caught,1,4.0,0,36,0,9
+39024,Azhar Mahmood,7 Apr 2013,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+39024,Azhar Mahmood,10 Apr 2013,v CSK,Mohali,1,6,8,13,7,0,0,114.28,caught,2,4.0,0,34,0,8.5
+39024,Azhar Mahmood,14 Apr 2013,v RR,Jaipur,1,7,23,26,20,3,0,115,bowled,2,4.0,0,23,0,5.75
+39024,Azhar Mahmood,16 Apr 2013,v KKR,Mohali,1,6,0,1,1,0,0,0,caught,2,4.0,0,21,3,5.25
+39024,Azhar Mahmood,19 Apr 2013,v SRH,Hyderabad,1,7,4,3,4,1,0,100,caught,2,3.5,0,36,1,9.39
+39024,Azhar Mahmood,21 Apr 2013,v Warriors,Mohali,2,3,0,3,4,0,0,0,lbw,1,4.0,0,42,2,10.5
+39024,Azhar Mahmood,26 Apr 2013,v KKR,Eden Gardens,1,7,2,5,7,0,0,28.57,run out,2,4.0,0,35,3,8.75
+39024,Azhar Mahmood,29 Apr 2013,v MI,Wankhede,2,7,9,16,13,1,0,69.23,caught,1,4.0,0,32,0,8
+39024,Azhar Mahmood,14 May 2013,v RCB,Bengaluru,2,3,61,59,41,8,1,148.78,caught,1,4.0,0,24,2,6
+39024,Azhar Mahmood,16 May 2013,v Daredevils,Dharamsala,1,3,9,17,13,1,0,69.23,caught,2,4.0,0,40,0,10
+39024,Azhar Mahmood,18 May 2013,v MI,Dharamsala,1,3,80,76,44,8,4,181.81,lbw,2,4.0,0,24,2,6
+39024,Azhar Mahmood,26 Jun 2013,v Hampshire,Southampton,1,6,2,5,6,0,0,33.33,caught,2,3.0,0,24,1,8
+39024,Azhar Mahmood,28 Jun 2013,v Sussex,Hove,1,7,23*,17,13,3,0,176.92,not out,2,4.0,0,27,1,6.75
+39024,Azhar Mahmood,30 Jun 2013,v Kent,Canterbury,1,5,6*,1,1,0,1,600,not out,2,4.0,0,22,2,5.5
+39024,Azhar Mahmood,3 Jul 2013,v Sussex,The Oval,1,6,5,8,8,0,0,62.5,caught,2,4.0,0,35,2,8.75
+39024,Azhar Mahmood,5 Jul 2013,v Middlesex,The Oval,1,6,2,8,3,0,0,66.66,lbw,2,4.0,0,24,1,6
+39024,Azhar Mahmood,15 Jul 2013,v Essex,The Oval,1,5,12,25,11,1,0,109.09,caught,2,4.0,0,32,0,8
+39024,Azhar Mahmood,19 Jul 2013,v Hampshire,The Oval,1,4,0,6,2,0,0,0,caught,2,4.0,0,31,2,7.75
+39024,Azhar Mahmood,25 Jul 2013,v Middlesex,Lord's,1,6,35,27,20,4,1,175,run out,2,2.0,0,12,2,6
+39024,Azhar Mahmood,26 Jul 2013,v Kent,The Oval,2,7,47*,36,31,3,3,151.61,not out,1,4.0,0,41,0,10.25
+39024,Azhar Mahmood,31 Jul 2013,v Essex,Chelmsford,1,5,6,6,5,1,0,120,caught,2,3.0,0,11,2,3.66
+39024,Azhar Mahmood,6 Aug 2013,v Somerset,The Oval,2,4,14,21,16,1,0,87.5,caught,1,4.0,0,25,0,6.25
+39024,Azhar Mahmood,17 Aug 2013,v Hampshire,Birmingham,2,7,0,2,0,0,0,-,run out,1,4.0,1,9,2,2.25
+39024,Azhar Mahmood,17 Aug 2013,v Northants,Birmingham,2,5,2,7,4,0,0,50,caught,1,4.0,0,53,1,13.25
+39024,Azhar Mahmood,23 Aug 2013,v Tallawahs,Port of Spain,1,6,14,-,7,1,1,200,caught,2,3.3,0,37,2,10.57
+39024,Azhar Mahmood,5 Jan 2014,v Warriors,Cape Town,2,3,13,20,16,1,0,81.25,caught,1,4.0,0,31,2,7.75
+39024,Azhar Mahmood,12 Jan 2014,v Knights,Bloemfontein,1,5,27*,26,21,3,0,128.57,not out,2,3.0,0,16,0,5.33
+39024,Azhar Mahmood,15 Jan 2014,v Cape Cobras,Paarl,2,5,7,8,6,1,0,116.66,caught,1,3.0,0,32,0,10.66
+39024,Azhar Mahmood,17 Jan 2014,v Titans,Potchefstroom,2,5,15*,20,12,0,0,125,not out,1,4.0,0,33,2,8.25
+39024,Azhar Mahmood,19 Jan 2014,v Warriors,East London,2,5,3,7,3,0,0,100,caught,1,4.0,0,24,1,6
+39024,Azhar Mahmood,22 Jan 2014,v Dolphins,Durban,2,5,0,2,1,0,0,0,run out,1,4.0,0,50,1,12.5
+39024,Azhar Mahmood,16 May 2014,v Sussex,Hove,1,6,23,19,12,4,0,191.66,bowled,2,4.0,0,28,1,7
+39024,Azhar Mahmood,18 May 2014,v Somerset,Taunton,1,6,27,22,15,2,2,180,run out,2,4.0,0,37,1,9.25
+39024,Azhar Mahmood,30 May 2014,v Middlesex,The Oval,2,6,10*,12,12,1,0,83.33,not out,1,3.0,0,21,1,7
+39024,Azhar Mahmood,6 Jun 2014,v Essex,The Oval,1,6,17*,21,13,1,0,130.76,not out,2,3.5,1,25,1,6.52
+39024,Azhar Mahmood,13 Jun 2014,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+39024,Azhar Mahmood,20 Jun 2014,v Glamorgan,Cardiff,1,6,12,12,10,1,0,120,bowled,2,4.0,0,26,1,6.5
+39024,Azhar Mahmood,27 Jun 2014,v Hampshire,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+39024,Azhar Mahmood,2 Jul 2014,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+39024,Azhar Mahmood,4 Jul 2014,v Essex,Chelmsford,1,6,13*,15,10,1,0,130,not out,2,3.3,0,26,1,7.42
+39024,Azhar Mahmood,11 Jul 2014,v Glamorgan,The Oval,2,5,36*,22,16,4,2,225,not out,1,4.0,0,24,0,6
+39024,Azhar Mahmood,16 Jul 2014,v Somerset,The Oval,2,6,13,25,14,1,0,92.85,caught,1,4.0,0,35,1,8.75
+39024,Azhar Mahmood,18 Jul 2014,v Gloucs,Cheltenham,1,6,3,11,6,0,0,50,caught,2,4.0,0,23,0,5.75
+39024,Azhar Mahmood,24 Jul 2014,v Middlesex,Lord's,2,6,28,30,28,3,0,100,caught,1,4.0,0,18,2,4.5
+39024,Azhar Mahmood,25 Jul 2014,v Kent,Canterbury,2,5,1,3,2,0,0,50,bowled,1,4.0,0,43,3,10.75
+39024,Azhar Mahmood,2 Aug 2014,v Worcs,The Oval,2,6,9,15,11,0,1,81.81,caught,1,4.0,0,32,1,8
+39024,Azhar Mahmood,23 Aug 2014,v Warwickshire,Birmingham,2,6,16,19,11,2,0,145.45,bowled,1,4.0,0,38,1,9.5
+39024,Azhar Mahmood,16 May 2015,v RR,Brabourne,2,8,6,11,7,1,0,85.71,caught,1,3.0,0,41,0,13.66
+39024,Azhar Mahmood,29 May 2015,v Kent,Beckenham,2,7,18,9,7,1,2,257.14,caught,1,4.0,0,49,1,12.25
+39024,Azhar Mahmood,5 Jun 2015,v Essex,The Oval,1,6,20,20,18,3,0,111.11,bowled,2,3.2,0,33,0,9.9
+39024,Azhar Mahmood,14 Jun 2015,v Sussex,Arundel,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,7,0,3.5
+39024,Azhar Mahmood,26 Jun 2015,v Glamorgan,Cardiff,1,6,8,7,7,1,0,114.28,stumped,2,4.0,1,14,3,3.5
+39024,Azhar Mahmood,1 Jul 2015,v Gloucs,The Oval,2,6,22*,23,14,1,2,157.14,not out,1,4.0,0,32,0,8
+39024,Azhar Mahmood,3 Jul 2015,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+39024,Azhar Mahmood,10 Jul 2015,v Hampshire,Southampton,2,7,34,28,24,3,1,141.66,caught,1,4.0,0,21,2,5.25
+39024,Azhar Mahmood,17 Jul 2015,v Somerset,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+39024,Azhar Mahmood,23 Jul 2015,v Middlesex,Lord's,2,7,2,5,6,0,0,33.33,caught,1,4.0,0,40,2,10
+39024,Azhar Mahmood,14 Feb 2016,v Kings,Sharjah,2,7,2*,-,3,0,0,66.66,not out,1,4.0,0,22,1,5.5
+39024,Azhar Mahmood,17 Feb 2016,v Qalandars,Dubai (DICS),2,7,12*,-,9,2,0,133.33,not out,1,3.0,0,35,0,11.66
+39024,Azhar Mahmood,20 May 2016,v Essex,Chelmsford,1,7,42,37,22,4,2,190.9,caught,2,3.4,0,38,4,10.36
+39024,Azhar Mahmood,26 May 2016,v Glamorgan,The Oval,1,7,0*,2,3,0,0,0,retired notout,2,DNB,-,-,-,-
+39024,Azhar Mahmood,21 Jul 2016,v Middlesex,Lord's,1,7,3*,4,3,0,0,100,not out,2,4.0,0,43,1,10.75
+39024,Azhar Mahmood,22 Jul 2016,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+39024,Azhar Mahmood,29 Jul 2016,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5

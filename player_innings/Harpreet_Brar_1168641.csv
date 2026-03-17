@@ -1,0 +1,106 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1168641,Harpreet Brar,20 Apr 2019,v DC,Delhi,1,8,20*,22,12,2,1,166.66,not out,2,2.0,0,24,0,12
+1168641,Harpreet Brar,5 May 2019,v CSK,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+1168641,Harpreet Brar,11 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+1168641,Harpreet Brar,12 Nov 2019,v Himachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+1168641,Harpreet Brar,14 Nov 2019,v Railways,Chandigarh,2,7,14,-,7,1,1,200,caught,1,2.0,0,19,0,9.5
+1168641,Harpreet Brar,15 Nov 2019,v Chhattisgarh,Chandigarh,1,5,0,-,1,0,0,0,caught,2,4.0,0,31,3,7.75
+1168641,Harpreet Brar,18 Nov 2019,v Maharashtra,Chandigarh,2,7,4,-,6,0,0,66.66,caught,1,3.0,0,23,1,7.66
+1168641,Harpreet Brar,21 Nov 2019,v Jharkhand,Surat,1,4,0,-,1,0,0,0,bowled,2,3.2,0,20,2,6
+1168641,Harpreet Brar,24 Nov 2019,v Karnataka,Surat,1,8,0*,-,0,0,0,-,not out,2,4.0,0,27,1,6.75
+1168641,Harpreet Brar,25 Nov 2019,v Tamil Nadu,Surat,1,7,2,-,17,0,0,11.76,caught,2,4.0,0,23,2,5.75
+1168641,Harpreet Brar,27 Nov 2019,v Mumbai,Surat,2,7,8,-,6,0,0,133.33,caught,1,4.0,0,44,2,11
+1168641,Harpreet Brar,4 Oct 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+1168641,Harpreet Brar,10 Jan 2021,v UP,Alur (2),1,7,16*,-,11,2,1,145.45,not out,2,1.0,0,7,0,7
+1168641,Harpreet Brar,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,0,4
+1168641,Harpreet Brar,14 Jan 2021,v Railways,Alur (2),1,6,6*,-,1,0,1,600,not out,2,4.0,0,22,4,5.5
+1168641,Harpreet Brar,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1168641,Harpreet Brar,18 Jan 2021,v Tripura,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+1168641,Harpreet Brar,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+1168641,Harpreet Brar,29 Jan 2021,v Baroda,Ahmedabad,2,7,7,-,5,1,0,140,caught,1,4.0,0,24,0,6
+1168641,Harpreet Brar,30 Apr 2021,v RCB,Ahmedabad,1,7,25*,26,17,1,2,147.05,not out,2,4.0,1,19,3,4.75
+1168641,Harpreet Brar,2 May 2021,v DC,Ahmedabad,1,8,4*,6,2,1,0,200,not out,2,3.0,0,19,1,6.33
+1168641,Harpreet Brar,21 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+1168641,Harpreet Brar,25 Sep 2021,v SRH,Sharjah,1,7,18*,24,18,1,0,100,not out,2,4.0,0,25,0,6.25
+1168641,Harpreet Brar,28 Sep 2021,v MI,Abu Dhabi,1,7,14*,24,19,0,0,73.68,not out,2,1.0,0,11,0,11
+1168641,Harpreet Brar,3 Oct 2021,v RCB,Sharjah,2,8,3*,4,2,0,0,150,not out,1,4.0,0,26,0,6.5
+1168641,Harpreet Brar,7 Oct 2021,v CSK,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+1168641,Harpreet Brar,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+1168641,Harpreet Brar,5 Nov 2021,v Maharashtra,Lucknow,1,8,7*,-,6,0,0,116.66,not out,2,4.0,0,26,0,6.5
+1168641,Harpreet Brar,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,2,3
+1168641,Harpreet Brar,8 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+1168641,Harpreet Brar,9 Nov 2021,v Tamil Nadu,Lucknow,1,8,1*,3,1,0,0,100,not out,2,4.0,0,22,0,5.5
+1168641,Harpreet Brar,27 Mar 2022,v RCB,DY Patil,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+1168641,Harpreet Brar,1 Apr 2022,v KKR,Wankhede,1,7,14,23,18,1,1,77.77,bowled,2,2.0,0,20,0,10
+1168641,Harpreet Brar,13 May 2022,v RCB,Brabourne,1,7,7,6,5,0,1,140,caught,2,4.0,0,33,1,8.25
+1168641,Harpreet Brar,16 May 2022,v DC,DY Patil,2,7,1,6,2,0,0,50,bowled,1,3.0,0,29,0,9.66
+1168641,Harpreet Brar,22 May 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+1168641,Harpreet Brar,11 Oct 2022,v Hyderabad,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.4,0,11,1,6.6
+1168641,Harpreet Brar,12 Oct 2022,v Delhi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,32,0,16
+1168641,Harpreet Brar,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+1168641,Harpreet Brar,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+1168641,Harpreet Brar,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,1,4
+1168641,Harpreet Brar,20 Oct 2022,v Puducherry,Jaipur,2,4,13*,-,9,1,1,144.44,not out,1,4.0,0,16,1,4
+1168641,Harpreet Brar,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+1168641,Harpreet Brar,30 Oct 2022,v Haryana,Eden Gardens,1,8,1,2,1,0,0,100,run out,2,3.0,0,13,0,4.33
+1168641,Harpreet Brar,1 Nov 2022,v Karnataka,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+1168641,Harpreet Brar,3 Nov 2022,v Himachal,Eden Gardens,2,9,3*,-,2,0,0,150,not out,1,3.0,0,28,1,9.33
+1168641,Harpreet Brar,1 Apr 2023,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+1168641,Harpreet Brar,5 Apr 2023,v RR,Guwahati,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+1168641,Harpreet Brar,9 Apr 2023,v SRH,Hyderabad,1,8,1,5,2,0,0,50,bowled,2,3.1,0,26,0,8.21
+1168641,Harpreet Brar,13 Apr 2023,v GT,Mohali,1,8,8*,12,5,0,1,160,not out,2,4.0,0,20,1,5
+1168641,Harpreet Brar,15 Apr 2023,v LSG,Lucknow,2,9,6,10,4,1,0,150,caught,1,2.0,0,10,1,5
+1168641,Harpreet Brar,20 Apr 2023,v RCB,Mohali,2,9,13,22,13,1,0,100,bowled,1,3.0,0,31,2,10.33
+1168641,Harpreet Brar,22 Apr 2023,v MI,Wankhede,1,9,5,3,2,1,0,250,run out,2,2.0,0,15,0,7.5
+1168641,Harpreet Brar,30 Apr 2023,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1168641,Harpreet Brar,3 May 2023,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+1168641,Harpreet Brar,8 May 2023,v KKR,Eden Gardens,1,9,17*,17,9,2,1,188.88,not out,2,1.0,0,4,1,4
+1168641,Harpreet Brar,13 May 2023,v DC,Delhi,1,6,2,9,5,0,0,40,caught,2,4.0,0,30,4,7.5
+1168641,Harpreet Brar,17 May 2023,v DC,Dharamsala,2,8,0,3,1,0,0,0,run out,1,3.0,0,39,0,13
+1168641,Harpreet Brar,19 May 2023,v RR,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1168641,Harpreet Brar,16 Oct 2023,v Saurashtra,Ranchi,2,9,22,-,16,2,1,137.5,caught,1,4.0,0,36,1,9
+1168641,Harpreet Brar,17 Oct 2023,v Andhra,Ranchi,1,8,0*,-,0,0,0,-,not out,2,4.0,1,18,3,4.5
+1168641,Harpreet Brar,19 Oct 2023,v Railways,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,3,5
+1168641,Harpreet Brar,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,1,2.25
+1168641,Harpreet Brar,23 Oct 2023,v Gujarat,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,0,12.75
+1168641,Harpreet Brar,25 Oct 2023,v Goa,Ranchi,1,9,10,-,4,1,1,250,caught,2,4.0,0,18,4,4.5
+1168641,Harpreet Brar,27 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+1168641,Harpreet Brar,2 Nov 2023,v UP,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+1168641,Harpreet Brar,4 Nov 2023,v Delhi,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+1168641,Harpreet Brar,6 Nov 2023,v Baroda,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+1168641,Harpreet Brar,23 Mar 2024,v DC,New Chandigarh,2,8,2*,4,2,0,0,100,not out,1,3.0,0,14,1,4.66
+1168641,Harpreet Brar,25 Mar 2024,v RCB,Bengaluru,1,8,2*,7,2,0,0,100,not out,2,4.0,0,13,2,3.25
+1168641,Harpreet Brar,30 Mar 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+1168641,Harpreet Brar,4 Apr 2024,v GT,Ahmedabad,2,9,1*,7,2,0,0,50,not out,1,4.0,0,33,1,8.25
+1168641,Harpreet Brar,9 Apr 2024,v SRH,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+1168641,Harpreet Brar,13 Apr 2024,v RR,New Chandigarh,1,9,3*,11,3,0,0,100,not out,2,3.0,0,22,0,7.33
+1168641,Harpreet Brar,18 Apr 2024,v MI,New Chandigarh,2,9,21,38,20,2,1,105,caught,1,3.0,0,21,0,7
+1168641,Harpreet Brar,21 Apr 2024,v GT,New Chandigarh,1,9,29,20,12,4,1,241.66,caught,2,4.0,0,35,0,8.75
+1168641,Harpreet Brar,26 Apr 2024,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+1168641,Harpreet Brar,1 May 2024,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1168641,Harpreet Brar,5 May 2024,v CSK,Dharamsala,2,8,17*,37,13,2,0,130.76,not out,1,1.0,0,19,0,19
+1168641,Harpreet Brar,15 May 2024,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+1168641,Harpreet Brar,19 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,1,12
+1168641,Harpreet Brar,23 Nov 2024,v Bengal,Rajkot,1,9,9,-,10,1,0,90,caught,2,4.0,0,38,0,9.5
+1168641,Harpreet Brar,25 Nov 2024,v Bihar,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+1168641,Harpreet Brar,27 Nov 2024,v M. Pradesh,Rajkot,2,8,1,-,2,0,0,50,bowled,1,2.0,0,24,0,12
+1168641,Harpreet Brar,29 Nov 2024,v Mizoram,Rajkot,2,8,23*,-,7,1,3,328.57,not out,1,3.0,0,29,0,9.66
+1168641,Harpreet Brar,3 Dec 2024,v Rajasthan,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,2.0,0,28,1,14
+1168641,Harpreet Brar,5 Dec 2024,v Meghalaya,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1168641,Harpreet Brar,18 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,25,2,12.5
+1168641,Harpreet Brar,20 Apr 2025,v RCB,New Chandigarh,1,-,sub,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+1168641,Harpreet Brar,26 Apr 2025,v KKR,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,DNB,-,-,-,-
+1168641,Harpreet Brar,30 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,1,10.5
+1168641,Harpreet Brar,18 May 2025,v RR,Jaipur,1,-,sub,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+1168641,Harpreet Brar,24 May 2025,v DC,Jaipur,1,10,7*,2,2,0,1,350,not out,2,4.0,0,41,2,10.25
+1168641,Harpreet Brar,26 May 2025,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+1168641,Harpreet Brar,29 May 2025,v RCB,New Chandigarh,1,10,4,13,11,0,0,36.36,bowled,2,2.0,0,18,0,9
+1168641,Harpreet Brar,26 Nov 2025,v Himachal,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,2,3.5
+1168641,Harpreet Brar,28 Nov 2025,v Haryana,Hyderabad,2,9,10*,-,4,0,1,250,not out,1,4.0,0,41,1,10.25
+1168641,Harpreet Brar,30 Nov 2025,v Bengal,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+1168641,Harpreet Brar,2 Dec 2025,v Baroda,Hyderabad,1,8,2,-,2,0,0,100,run out,2,2.0,0,30,0,15
+1168641,Harpreet Brar,4 Dec 2025,v Puducherry,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,1,12,2,4
+1168641,Harpreet Brar,6 Dec 2025,v Services,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+1168641,Harpreet Brar,8 Dec 2025,v Gujarat,Hyderabad,1,9,24*,-,8,2,2,300,not out,2,2.1,0,22,2,10.15
+1168641,Harpreet Brar,12 Dec 2025,v Jharkhand,Ambi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,1,15
+1168641,Harpreet Brar,14 Dec 2025,v Andhra,Pune,1,-,DNB,-,-,-,-,-,-,2,3.5,0,28,1,7.3

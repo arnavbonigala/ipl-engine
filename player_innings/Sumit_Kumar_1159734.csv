@@ -1,0 +1,68 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1159734,Sumit Kumar,21 Feb 2019,v Arunachal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+1159734,Sumit Kumar,22 Feb 2019,v Odisha,Cuttack,1,6,18,-,17,3,0,105.88,run out,2,4.0,0,27,1,6.75
+1159734,Sumit Kumar,24 Feb 2019,v Bengal,Cuttack,1,7,1,-,3,0,0,33.33,caught,2,4.0,0,26,1,6.5
+1159734,Sumit Kumar,25 Feb 2019,v Chhattisgarh,Cuttack,1,5,43,-,29,6,0,148.27,lbw,2,3.0,0,28,1,9.33
+1159734,Sumit Kumar,27 Feb 2019,v Mizoram,Cuttack,1,4,41,-,19,2,3,215.78,caught,2,3.0,0,33,0,11
+1159734,Sumit Kumar,28 Feb 2019,v Assam,Cuttack,2,4,10*,-,14,1,0,71.42,not out,1,3.0,0,20,4,6.66
+1159734,Sumit Kumar,2 Mar 2019,v Karnataka,Cuttack,2,7,63,-,40,8,3,157.5,caught,1,4.0,0,23,2,5.75
+1159734,Sumit Kumar,9 Nov 2019,v Mumbai,Wankhede,1,5,11,-,11,0,1,100,caught,2,1.0,0,15,0,15
+1159734,Sumit Kumar,11 Nov 2019,v Assam,Mumbai,2,6,17,-,9,2,0,188.88,run out,1,4.0,0,37,1,9.25
+1159734,Sumit Kumar,12 Nov 2019,v Bengal,Mumbai,2,7,13*,-,9,2,0,144.44,not out,1,1.0,0,4,0,4
+1159734,Sumit Kumar,14 Nov 2019,v Puducherry,Mumbai,2,6,0*,-,1,0,0,0,not out,1,4.0,1,18,2,4.5
+1159734,Sumit Kumar,15 Nov 2019,v Mizoram,Wankhede,2,-,DNB,-,-,-,-,-,-,1,1.0,0,2,0,2
+1159734,Sumit Kumar,17 Nov 2019,v M. Pradesh,Mumbai,2,7,44*,-,28,4,3,157.14,not out,1,4.0,0,26,1,6.5
+1159734,Sumit Kumar,18 Nov 2019,v Meghalaya,Mumbai,1,6,25,-,18,1,2,138.88,caught,2,2.0,0,11,0,5.5
+1159734,Sumit Kumar,22 Nov 2019,v Rajasthan,Surat,2,7,23*,-,19,1,2,121.05,not out,1,1.0,0,16,1,16
+1159734,Sumit Kumar,24 Nov 2019,v Delhi,Surat,1,5,14,-,14,0,1,100,caught,2,4.0,0,25,2,6.25
+1159734,Sumit Kumar,25 Nov 2019,v Baroda,Surat,2,6,1*,-,1,0,0,100,not out,1,3.0,0,17,1,5.66
+1159734,Sumit Kumar,27 Nov 2019,v Maharashtra,Surat,2,6,18,-,13,2,0,138.46,caught,1,4.0,0,32,3,8
+1159734,Sumit Kumar,29 Nov 2019,v Karnataka,Surat,1,6,0,-,1,0,0,0,caught,2,1.0,0,14,0,14
+1159734,Sumit Kumar,11 Jan 2021,v Andhra,Mumbai,2,6,1*,-,1,0,0,100,not out,1,2.0,0,5,1,2.5
+1159734,Sumit Kumar,13 Jan 2021,v Puducherry,Mumbai,2,6,8*,-,9,1,0,88.88,not out,1,4.0,0,30,1,7.5
+1159734,Sumit Kumar,15 Jan 2021,v Mumbai,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1159734,Sumit Kumar,17 Jan 2021,v Delhi,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+1159734,Sumit Kumar,19 Jan 2021,v Kerala,Wankhede,1,8,21*,-,10,3,1,210,not out,2,2.0,0,16,2,8
+1159734,Sumit Kumar,27 Jan 2021,v Baroda,Ahmedabad,1,6,20*,-,16,2,1,125,not out,2,3.0,0,37,1,12.33
+1159734,Sumit Kumar,4 Nov 2021,v Himachal,Vadodara,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+1159734,Sumit Kumar,5 Nov 2021,v Andhra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+1159734,Sumit Kumar,6 Nov 2021,v J & K,Vadodara,1,7,8,11,13,0,0,61.53,caught,2,DNB,-,-,-,-
+1159734,Sumit Kumar,8 Nov 2021,v Jharkhand,Vadodara,2,8,14,10,7,1,1,200,caught,1,3.0,0,23,1,7.66
+1159734,Sumit Kumar,9 Nov 2021,v Rajasthan,Vadodara,2,7,0,5,1,0,0,0,caught,1,4.0,0,28,2,7
+1159734,Sumit Kumar,11 Oct 2022,v Services,New Chandigarh,1,6,24,-,29,1,0,82.75,bowled,2,1.0,0,6,1,6
+1159734,Sumit Kumar,12 Oct 2022,v Meghalaya,New Chandigarh,1,6,14,-,13,0,1,107.69,caught,2,DNB,-,-,-,-
+1159734,Sumit Kumar,14 Oct 2022,v Kerala,Mohali,1,7,30*,-,23,0,3,130.43,not out,2,DNB,-,-,-,-
+1159734,Sumit Kumar,16 Oct 2022,v Arunachal,Mohali,1,-,sub,-,-,-,-,-,-,2,2.0,0,10,0,5
+1159734,Sumit Kumar,18 Oct 2022,v J & K,New Chandigarh,2,8,33*,-,13,2,3,253.84,not out,1,2.0,0,7,2,3.5
+1159734,Sumit Kumar,20 Oct 2022,v Maharashtra,New Chandigarh,2,8,22*,-,12,1,2,183.33,not out,1,2.0,0,28,0,14
+1159734,Sumit Kumar,22 Oct 2022,v Karnataka,Mohali,1,8,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+1159734,Sumit Kumar,30 Oct 2022,v Punjab,Eden Gardens,2,8,0,3,1,0,0,0,caught,1,4.0,0,39,1,9.75
+1159734,Sumit Kumar,16 Oct 2023,v Mumbai,Jaipur,1,5,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+1159734,Sumit Kumar,17 Oct 2023,v Chhattisgarh,Jaipur,1,6,16*,-,8,0,1,200,not out,2,0.2,0,5,0,15
+1159734,Sumit Kumar,19 Oct 2023,v J & K,Jaipur,1,-,sub,-,-,-,-,-,-,2,3.0,0,18,1,6
+1159734,Sumit Kumar,21 Oct 2023,v Baroda,Jaipur,1,7,4*,-,5,0,0,80,not out,2,DNB,-,-,-,-
+1159734,Sumit Kumar,23 Oct 2023,v Mizoram,Jaipur,1,7,5*,-,4,0,0,125,not out,2,4.0,0,18,4,4.5
+1159734,Sumit Kumar,25 Oct 2023,v Meghalaya,Jaipur,2,7,11*,-,9,2,0,122.22,not out,1,1.0,0,10,0,10
+1159734,Sumit Kumar,27 Oct 2023,v Hyderabad,Jaipur,1,8,0,-,1,0,0,0,bowled,2,3.0,0,22,2,7.33
+1159734,Sumit Kumar,23 Mar 2024,v Punjab Kings,New Chandigarh,1,8,2,18,9,0,0,22.22,caught,2,1.2,0,19,0,14.25
+1159734,Sumit Kumar,28 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1159734,Sumit Kumar,3 Apr 2024,v KKR,Visakhapatnam,2,8,7,12,6,0,1,116.66,caught,1,2.0,0,19,0,9.5
+1159734,Sumit Kumar,17 Apr 2024,v GT,Ahmedabad,2,6,9*,11,9,2,0,100,not out,1,DNB,-,-,-,-
+1159734,Sumit Kumar,23 Nov 2024,v Manipur,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.1,0,7,2,3.23
+1159734,Sumit Kumar,25 Nov 2024,v Arunachal,Mumbai,1,4,16*,-,5,2,1,320,not out,2,2.0,0,12,0,6
+1159734,Sumit Kumar,27 Nov 2024,v Delhi,Wankhede,1,7,17,-,15,2,0,113.33,caught,2,2.0,0,22,0,11
+1159734,Sumit Kumar,29 Nov 2024,v UP,Mumbai,1,8,26,-,20,2,1,130,caught,2,3.0,0,17,0,5.66
+1159734,Sumit Kumar,1 Dec 2024,v Jharkhand,Mumbai,1,5,1,-,3,0,0,33.33,caught,2,3.0,0,25,3,8.33
+1159734,Sumit Kumar,3 Dec 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+1159734,Sumit Kumar,5 Dec 2024,v J & K,Wankhede,1,6,5*,-,7,0,0,71.42,not out,2,3.0,0,29,0,9.66
+1159734,Sumit Kumar,26 Nov 2025,v Puducherry,Hyderabad,2,6,3,-,5,0,0,60,caught,1,1.0,0,19,0,19
+1159734,Sumit Kumar,28 Nov 2025,v Punjab,Hyderabad,1,7,28,-,14,3,1,200,caught,2,4.0,0,55,0,13.75
+1159734,Sumit Kumar,30 Nov 2025,v Gujarat,Hyderabad,1,7,9,-,12,1,0,75,run out,2,4.0,0,31,2,7.75
+1159734,Sumit Kumar,2 Dec 2025,v Services,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+1159734,Sumit Kumar,4 Dec 2025,v Himachal,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+1159734,Sumit Kumar,6 Dec 2025,v Baroda,Hyderabad,1,7,15,-,11,1,1,136.36,caught,2,3.0,0,36,0,12
+1159734,Sumit Kumar,8 Dec 2025,v Bengal,Hyderabad,1,6,13,-,7,2,0,185.71,caught,2,4.0,0,25,2,6.25
+1159734,Sumit Kumar,12 Dec 2025,v Rajasthan,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+1159734,Sumit Kumar,14 Dec 2025,v Mumbai,Ambi,1,5,16*,-,4,4,0,400,not out,2,4.0,0,37,1,9.25
+1159734,Sumit Kumar,16 Dec 2025,v Hyderabad,Pune,1,8,2*,-,2,0,0,100,not out,2,3.0,0,28,0,9.33
+1159734,Sumit Kumar,18 Dec 2025,v Jharkhand,Pune,2,8,5,-,5,0,0,100,caught,1,4.0,0,41,1,10.25

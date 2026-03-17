@@ -1,0 +1,17 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+322535,Karanveer Singh,5 Apr 2014,v Haryana,Mohali,1,3,7,15,12,1,0,58.33,caught,2,1.0,0,13,0,13
+322535,Karanveer Singh,23 May 2014,v RR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+322535,Karanveer Singh,25 May 2014,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+322535,Karanveer Singh,27 May 2014,v KKR,Eden Gardens,2,10,1*,3,1,0,0,100,not out,1,4.0,0,40,3,10
+322535,Karanveer Singh,30 May 2014,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+322535,Karanveer Singh,1 Jun 2014,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,4,13.5
+322535,Karanveer Singh,18 Sep 2014,v Hurricanes,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,1,12.33
+322535,Karanveer Singh,20 Sep 2014,v Tridents,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+322535,Karanveer Singh,26 Sep 2014,v Northern Dis,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.2,0,15,4,4.5
+322535,Karanveer Singh,28 Sep 2014,v Cape Cobras,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+322535,Karanveer Singh,2 Oct 2014,v CSK,Hyderabad,2,9,17*,15,25,1,0,68,not out,1,4.0,0,36,0,9
+322535,Karanveer Singh,10 Apr 2015,v RR,Pune,2,10,5*,5,4,1,0,125,not out,1,4.0,0,43,0,10.75
+322535,Karanveer Singh,25 Apr 2015,v CSK,Chennai,2,10,2*,10,5,0,0,40,not out,1,4.0,0,43,0,10.75
+322535,Karanveer Singh,3 May 2015,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+322535,Karanveer Singh,6 May 2015,v RCB,Bengaluru,2,10,4,9,7,0,0,57.14,bowled,1,2.0,0,41,0,20.5
+322535,Karanveer Singh,17 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75

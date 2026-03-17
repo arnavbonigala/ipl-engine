@@ -1,0 +1,105 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+774223,Jhye Richardson,16 Jan 2016,v Stars,W.A.C.A,2,9,5,-,9,0,0,55.55,caught,1,2.0,0,22,0,11
+774223,Jhye Richardson,23 Dec 2016,v Strikers,W.A.C.A,1,9,0*,-,0,0,0,-,not out,2,3.0,0,32,2,10.66
+774223,Jhye Richardson,27 Dec 2016,v Sixers,Sydney,1,10,6*,-,8,1,0,75,not out,2,4.0,0,36,0,9
+774223,Jhye Richardson,1 Jan 2017,v Thunder,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+774223,Jhye Richardson,5 Jan 2017,v Heat,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+774223,Jhye Richardson,11 Jan 2017,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+774223,Jhye Richardson,14 Jan 2017,v Stars,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,2,8.66
+774223,Jhye Richardson,24 Jan 2017,v Stars,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+774223,Jhye Richardson,28 Jan 2017,v Sixers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+774223,Jhye Richardson,19 Feb 2017,v Sri Lanka,Geelong,1,11,0,2,1,0,0,0,bowled,2,3.0,0,24,1,8
+774223,Jhye Richardson,22 Feb 2017,v Sri Lanka,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,1,12.66
+774223,Jhye Richardson,23 Dec 2017,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,2,9.33
+774223,Jhye Richardson,26 Dec 2017,v Stars,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+774223,Jhye Richardson,29 Dec 2017,v Renegades,Melbourne (Docklands),2,8,2,-,4,0,0,50,run out,1,4.0,0,23,1,5.75
+774223,Jhye Richardson,1 Jan 2018,v Sixers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+774223,Jhye Richardson,5 Jan 2018,v Heat,Brisbane,2,9,8*,-,6,1,0,133.33,not out,1,4.0,0,44,1,11
+774223,Jhye Richardson,8 Jan 2018,v Renegades,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,0,13.75
+774223,Jhye Richardson,25 Jan 2018,v Strikers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+774223,Jhye Richardson,1 Feb 2018,v Hurricanes,Perth,2,9,16,-,12,0,2,133.33,caught,1,4.0,0,37,0,9.25
+774223,Jhye Richardson,2 Jul 2018,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+774223,Jhye Richardson,3 Jul 2018,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+774223,Jhye Richardson,5 Jul 2018,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+774223,Jhye Richardson,6 Jul 2018,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+774223,Jhye Richardson,8 Jul 2018,v Pakistan,Harare,1,10,6*,-,2,1,0,300,not out,2,4.0,0,29,1,7.25
+774223,Jhye Richardson,22 Dec 2018,v Sixers,Sydney,2,9,15*,-,10,2,0,150,not out,1,4.0,0,25,1,6.25
+774223,Jhye Richardson,26 Dec 2018,v Strikers,Perth,2,-,DNB,-,-,-,-,-,-,1,3.0,1,7,3,2.33
+774223,Jhye Richardson,30 Dec 2018,v Hurricanes,Launceston,1,9,5*,-,5,0,0,100,not out,2,4.0,0,22,1,5.5
+774223,Jhye Richardson,2 Jan 2019,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+774223,Jhye Richardson,5 Jan 2019,v Heat,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+774223,Jhye Richardson,24 Feb 2019,v India,Visakhapatnam,2,9,7*,7,3,1,0,233.33,not out,1,4.0,0,31,0,7.75
+774223,Jhye Richardson,27 Feb 2019,v India,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+774223,Jhye Richardson,18 Dec 2019,v Sixers,Sydney,1,9,2,-,4,0,0,50,caught,2,3.0,0,37,0,12.33
+774223,Jhye Richardson,21 Dec 2019,v Renegades,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+774223,Jhye Richardson,23 Dec 2019,v Strikers,Adelaide,2,9,0*,-,0,0,0,-,not out,1,4.0,0,29,2,7.25
+774223,Jhye Richardson,26 Dec 2019,v Sixers,Perth,2,9,14,-,15,0,1,93.33,caught,1,4.0,0,26,1,6.5
+774223,Jhye Richardson,1 Jan 2020,v Heat,Carrara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+774223,Jhye Richardson,5 Jan 2020,v Hurricanes,Perth,2,9,33*,-,14,1,3,235.71,not out,1,4.0,0,40,0,10
+774223,Jhye Richardson,7 Jan 2020,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,3,5.5
+774223,Jhye Richardson,11 Jan 2020,v Heat,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+774223,Jhye Richardson,13 Jan 2020,v Hurricanes,Hobart,1,9,0*,-,0,0,0,-,not out,2,4.0,0,19,4,4.75
+774223,Jhye Richardson,15 Jan 2020,v Stars,Perth,1,9,1,-,2,0,0,50,bowled,2,4.0,0,15,0,3.75
+774223,Jhye Richardson,18 Jan 2020,v Stars,Melbourne,2,9,9*,-,7,0,0,128.57,not out,1,4.0,0,23,1,5.75
+774223,Jhye Richardson,20 Jan 2020,v Thunder,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+774223,Jhye Richardson,24 Jan 2020,v Strikers,Perth,2,9,16*,-,4,1,2,400,not out,1,4.0,0,36,0,9
+774223,Jhye Richardson,26 Jan 2020,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,1,4.33
+774223,Jhye Richardson,12 Dec 2020,v Renegades,Hobart,1,8,8,-,9,0,0,88.88,caught,2,3.3,0,20,2,5.71
+774223,Jhye Richardson,16 Dec 2020,v Stars,Launceston,1,8,1*,-,2,0,0,50,not out,2,0.1,0,0,1,0
+774223,Jhye Richardson,22 Dec 2020,v Thunder,Canberra,1,6,5,-,4,1,0,125,caught,2,4.0,0,31,0,7.75
+774223,Jhye Richardson,28 Dec 2020,v Strikers,Adelaide,2,8,7,-,9,1,0,77.77,bowled,1,4.0,0,30,3,7.5
+774223,Jhye Richardson,31 Dec 2020,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+774223,Jhye Richardson,3 Jan 2021,v Renegades,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+774223,Jhye Richardson,6 Jan 2021,v Sixers,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,3.75
+774223,Jhye Richardson,9 Jan 2021,v Thunder,Perth,1,8,20*,-,8,2,1,250,not out,2,4.0,0,24,4,6
+774223,Jhye Richardson,12 Jan 2021,v Hurricanes,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+774223,Jhye Richardson,16 Jan 2021,v Sixers,Canberra,1,8,6*,-,6,0,0,100,not out,2,3.5,0,31,1,8.08
+774223,Jhye Richardson,19 Jan 2021,v Heat,Melbourne (Docklands),1,7,0*,-,2,0,0,0,not out,2,3.0,0,10,2,3.33
+774223,Jhye Richardson,22 Jan 2021,v Hurricanes,Melbourne (Docklands),1,8,29,-,14,3,2,207.14,bowled,2,4.0,0,33,4,8.25
+774223,Jhye Richardson,23 Jan 2021,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+774223,Jhye Richardson,26 Jan 2021,v Heat,Adelaide,2,8,13*,-,7,2,0,185.71,not out,1,4.0,0,44,1,11
+774223,Jhye Richardson,30 Jan 2021,v Sixers,Canberra,1,7,0,-,1,0,0,0,caught,2,4.0,0,36,0,9
+774223,Jhye Richardson,4 Feb 2021,v Heat,Canberra,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+774223,Jhye Richardson,6 Feb 2021,v Sixers,Sydney,2,8,7*,-,7,0,0,100,not out,1,4.0,0,45,2,11.25
+774223,Jhye Richardson,22 Feb 2021,v New Zealand,Christchurch,2,9,11,17,11,0,1,100,stumped,1,4.0,0,31,2,7.75
+774223,Jhye Richardson,25 Feb 2021,v New Zealand,Dunedin,2,9,4*,4,1,1,0,400,not out,1,4.0,0,39,1,9.75
+774223,Jhye Richardson,3 Mar 2021,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+774223,Jhye Richardson,5 Mar 2021,v New Zealand,Wellington,1,8,4*,14,7,0,0,57.14,not out,2,2.0,0,16,0,8
+774223,Jhye Richardson,7 Mar 2021,v New Zealand,Wellington,1,8,4,15,6,0,0,66.66,caught,2,3.0,0,19,1,6.33
+774223,Jhye Richardson,12 Apr 2021,v RR,Wankhede,1,7,0,2,2,0,0,0,caught,2,4.0,0,55,1,13.75
+774223,Jhye Richardson,16 Apr 2021,v CSK,Wankhede,1,7,15,18,22,2,0,68.18,bowled,2,3.0,0,21,0,7
+774223,Jhye Richardson,18 Apr 2021,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+774223,Jhye Richardson,22 Jan 2022,v Sixers,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+774223,Jhye Richardson,28 Jan 2022,v Sixers,Melbourne (Docklands),1,8,1*,8,2,0,0,50,not out,2,3.2,0,20,2,6
+774223,Jhye Richardson,18 Feb 2022,v Sri Lanka,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+774223,Jhye Richardson,20 Feb 2022,v Sri Lanka,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+774223,Jhye Richardson,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,9,9*,24,20,0,0,45,not out,1,4.0,0,26,3,6.5
+774223,Jhye Richardson,11 Jun 2022,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+774223,Jhye Richardson,17 Dec 2022,v Sixers,Perth,1,8,6,6,5,1,0,120,caught,2,4.0,1,9,4,2.25
+774223,Jhye Richardson,19 Dec 2022,v Hurricanes,Launceston,2,8,13,18,13,1,0,100,caught,1,4.0,0,26,3,6.5
+774223,Jhye Richardson,23 Dec 2022,v Stars,Melbourne,1,8,0,2,1,0,0,0,caught,2,4.0,0,36,1,9
+774223,Jhye Richardson,26 Dec 2022,v Strikers,Perth,2,8,18,34,27,0,0,66.66,caught,1,4.0,1,20,0,5
+774223,Jhye Richardson,29 Dec 2022,v Stars,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,4,6.25
+774223,Jhye Richardson,1 Jan 2023,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+774223,Jhye Richardson,4 Jan 2023,v Thunder,Perth,1,7,1,-,5,0,0,20,bowled,2,3.4,0,36,2,9.81
+774223,Jhye Richardson,10 Dec 2023,v Renegades,Geelong,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+774223,Jhye Richardson,13 Dec 2023,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+774223,Jhye Richardson,20 Dec 2023,v Hurricanes,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+774223,Jhye Richardson,26 Dec 2023,v Renegades,Perth,1,8,1,4,2,0,0,50,caught,2,4.0,0,29,1,7.25
+774223,Jhye Richardson,3 Jan 2024,v Strikers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.2,0,31,2,9.3
+774223,Jhye Richardson,5 Jan 2024,v Strikers,Adelaide,1,8,1*,3,1,0,0,100,not out,2,4.0,0,38,0,9.5
+774223,Jhye Richardson,8 Jan 2024,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+774223,Jhye Richardson,10 Jan 2024,v Heat,Brisbane,2,8,6,11,6,0,0,100,bowled,1,4.0,0,52,1,13
+774223,Jhye Richardson,7 Apr 2024,v MI,Wankhede,2,9,2,1,2,0,0,100,caught,1,4.0,0,40,0,10
+774223,Jhye Richardson,15 Dec 2024,v Stars,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+774223,Jhye Richardson,21 Dec 2024,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+774223,Jhye Richardson,31 Dec 2024,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+774223,Jhye Richardson,7 Jan 2025,v Renegades,Perth,1,8,11,10,7,1,1,157.14,stumped,2,4.0,0,28,2,7
+774223,Jhye Richardson,11 Jan 2025,v Sixers,Sydney,2,9,1*,1,1,0,0,100,not out,1,4.0,0,51,0,12.75
+774223,Jhye Richardson,19 Dec 2025,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+774223,Jhye Richardson,7 Jan 2026,v Renegades,Perth,1,8,10,13,6,0,1,166.66,run out,2,4.0,0,37,1,9.25
+774223,Jhye Richardson,11 Jan 2026,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+774223,Jhye Richardson,15 Jan 2026,v Renegades,Melbourne (Docklands),1,8,4*,7,4,0,0,100,not out,2,3.0,0,38,0,12.66
+774223,Jhye Richardson,17 Jan 2026,v Stars,Perth,2,-,DNB,-,-,-,-,-,-,1,3.2,1,16,4,4.8
+774223,Jhye Richardson,20 Jan 2026,v Sixers,Perth,1,8,20,25,18,1,1,111.11,bowled,2,3.0,0,20,1,6.66
+774223,Jhye Richardson,25 Jan 2026,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8

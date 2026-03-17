@@ -1,0 +1,47 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1175456,Priyansh Arya,4 Nov 2021,v Uttarakhand,Rohtak,1,1,19,14,16,4,0,118.75,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,5 Nov 2021,v Chandigarh,Rohtak,2,1,7,20,11,1,0,63.63,lbw,1,DNB,-,-,-,-
+1175456,Priyansh Arya,17 Oct 2023,v M. Pradesh,Dehradun,2,1,22,-,20,3,0,110,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,19 Oct 2023,v Nagaland,Dehradun,2,1,18,-,17,2,1,105.88,bowled,1,DNB,-,-,-,-
+1175456,Priyansh Arya,21 Oct 2023,v Karnataka,Dehradun,2,1,51,-,24,7,3,212.5,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,23 Oct 2023,v Tamil Nadu,Dehradun,1,1,81,-,47,4,7,172.34,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,25 Oct 2023,v Tripura,Dehradun,1,1,16,-,8,2,1,200,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,2 Nov 2023,v Vidarbha,New Chandigarh,1,1,21,-,11,3,1,190.9,bowled,2,sub,-,-,-,-
+1175456,Priyansh Arya,4 Nov 2023,v Punjab,Mohali,1,1,13,-,6,3,0,216.66,caught,2,sub,-,-,-,-
+1175456,Priyansh Arya,23 Nov 2024,v UP,Wankhede,1,1,102,-,43,5,10,237.2,run out,2,DNB,-,-,-,-
+1175456,Priyansh Arya,25 Nov 2024,v J & K,Wankhede,1,1,6,-,9,1,0,66.66,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,27 Nov 2024,v Haryana,Wankhede,2,1,48,-,33,4,2,145.45,stumped,1,DNB,-,-,-,-
+1175456,Priyansh Arya,29 Nov 2024,v Manipur,Wankhede,2,2,4,-,2,1,0,200,caught,1,1.0,0,2,1,2
+1175456,Priyansh Arya,1 Dec 2024,v Himachal,Mumbai,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,3 Dec 2024,v Jharkhand,Mumbai,1,1,38,-,22,2,3,172.72,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,5 Dec 2024,v Arunachal,Mumbai,2,2,54*,-,21,6,4,257.14,not out,1,DNB,-,-,-,-
+1175456,Priyansh Arya,11 Dec 2024,v UP,Bengaluru,1,1,44,-,31,3,3,141.93,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,13 Dec 2024,v M. Pradesh,Bengaluru,1,1,29,-,21,3,1,138.09,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,25 Mar 2025,v GT,Ahmedabad,1,1,47,31,23,7,2,204.34,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,1 Apr 2025,v LSG,Lucknow,2,1,8,12,9,1,0,88.88,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,5 Apr 2025,v RR,New Chandigarh,2,1,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+1175456,Priyansh Arya,8 Apr 2025,v CSK,New Chandigarh,1,1,103,61,42,7,9,245.23,caught,2,sub,-,-,-,-
+1175456,Priyansh Arya,12 Apr 2025,v SRH,Hyderabad,1,1,36,22,13,2,4,276.92,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,15 Apr 2025,v KKR,New Chandigarh,1,1,22,16,12,3,1,183.33,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,18 Apr 2025,v RCB,Bengaluru,2,1,16,17,11,1,1,145.45,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,20 Apr 2025,v RCB,New Chandigarh,1,1,22,20,15,3,1,146.66,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,26 Apr 2025,v KKR,Eden Gardens,1,1,69,57,35,8,4,197.14,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,30 Apr 2025,v CSK,Chennai,2,1,23,21,15,5,0,153.33,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,4 May 2025,v LSG,Dharamsala,1,1,1,3,4,0,0,25,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,18 May 2025,v RR,Jaipur,1,1,9,8,7,1,0,128.57,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,24 May 2025,v DC,Jaipur,1,1,6,9,9,1,0,66.66,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,26 May 2025,v MI,Jaipur,2,1,62,72,35,9,2,177.14,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,29 May 2025,v RCB,New Chandigarh,1,1,7,6,5,1,0,140,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,1 Jun 2025,v MI,Ahmedabad,2,1,20,26,10,2,1,200,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,3 Jun 2025,v RCB,Ahmedabad,2,1,24,24,19,4,0,126.31,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,14 Nov 2025,v U.A.E.,Doha,1,2,10,-,6,1,1,166.66,run out,2,DNB,-,-,-,-
+1175456,Priyansh Arya,16 Nov 2025,v Shaheens,Doha,1,2,10,-,9,2,0,111.11,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,18 Nov 2025,v Oman,Doha,2,2,10,-,6,2,0,166.66,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,21 Nov 2025,v Bangladesh A,Doha,2,2,44,-,23,4,3,191.3,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,26 Nov 2025,v Jharkhand,Ahmedabad,1,1,39,-,29,2,2,134.48,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,28 Nov 2025,v Tamil Nadu,Ahmedabad,2,2,35,-,15,6,1,233.33,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,30 Nov 2025,v Saurashtra,Ahmedabad,1,1,10,-,10,2,0,100,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,2 Dec 2025,v Tripura,Ahmedabad,2,1,8,-,10,1,0,80,caught,1,DNB,-,-,-,-
+1175456,Priyansh Arya,4 Dec 2025,v Karnataka,Ahmedabad,1,1,62,-,33,2,6,187.87,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,6 Dec 2025,v Rajasthan,Ahmedabad,1,1,32,-,20,2,3,160,caught,2,DNB,-,-,-,-
+1175456,Priyansh Arya,8 Dec 2025,v Uttarakhand,Ahmedabad,1,2,11,-,10,1,0,110,caught,2,DNB,-,-,-,-

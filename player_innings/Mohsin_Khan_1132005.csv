@@ -1,0 +1,63 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1132005,Mohsin Khan,10 Jan 2018,v M. Pradesh,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1132005,Mohsin Khan,13 Jan 2018,v Railways,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+1132005,Mohsin Khan,15 Jan 2018,v Vidarbha,Raipur,1,10,6*,5,2,1,0,300,not out,2,3.0,0,23,1,7.66
+1132005,Mohsin Khan,16 Jan 2018,v Chhattisgarh,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+1132005,Mohsin Khan,22 Jan 2018,v Bengal,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,3,11.66
+1132005,Mohsin Khan,23 Jan 2018,v Tamil Nadu,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,2,10
+1132005,Mohsin Khan,24 Jan 2018,v Baroda,Kolkata,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+1132005,Mohsin Khan,25 Jan 2018,v Delhi,Kolkata,2,10,4,26,8,0,0,50,run out,1,4.0,0,29,2,7.25
+1132005,Mohsin Khan,21 Feb 2019,v Maharashtra,Delhi,2,9,2,5,2,0,0,100,run out,1,4.0,0,42,1,10.5
+1132005,Mohsin Khan,2 Mar 2019,v Baroda,Delhi,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+1132005,Mohsin Khan,9 Mar 2019,v Karnataka,Indore,2,8,1*,-,1,0,0,100,not out,1,4.0,0,24,0,6
+1132005,Mohsin Khan,10 Mar 2019,v Vidarbha,Indore,2,8,2,2,3,0,0,66.66,run out,1,4.0,0,40,2,10
+1132005,Mohsin Khan,11 Mar 2019,v Delhi,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,0,4
+1132005,Mohsin Khan,12 Mar 2019,v Mumbai,Indore,2,10,19,6,8,2,1,237.5,lbw,1,4.0,0,28,1,7
+1132005,Mohsin Khan,9 Nov 2019,v Vidarbha,Thiruvananthapuram,1,7,15,-,11,1,1,136.36,bowled,2,1.0,0,14,0,14
+1132005,Mohsin Khan,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,2,7,0*,-,1,0,0,0,not out,1,4.0,0,13,2,3.25
+1132005,Mohsin Khan,12 Nov 2019,v Tripura,Thumba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+1132005,Mohsin Khan,14 Nov 2019,v Rajasthan,Thiruvananthapuram,1,8,1,-,2,0,0,50,caught,2,4.0,0,28,2,7
+1132005,Mohsin Khan,15 Nov 2019,v Manipur,Thumba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,2,2.25
+1132005,Mohsin Khan,17 Nov 2019,v Kerala,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+1132005,Mohsin Khan,14 Jan 2021,v J & K,Alur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+1132005,Mohsin Khan,16 Jan 2021,v Tripura,Alur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+1132005,Mohsin Khan,18 Jan 2021,v Karnataka,Alur (3),1,7,2,-,5,0,0,40,caught,2,4.0,0,41,1,10.25
+1132005,Mohsin Khan,4 Nov 2021,v Chandigarh,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+1132005,Mohsin Khan,5 Nov 2021,v Saurashtra,Sultanpur,2,9,3,11,4,0,0,75,run out,1,4.0,0,31,2,7.75
+1132005,Mohsin Khan,6 Nov 2021,v Delhi,Rohtak,1,9,0,1,1,0,0,0,caught,2,3.0,0,31,0,10.33
+1132005,Mohsin Khan,28 Mar 2022,v GT,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+1132005,Mohsin Khan,24 Apr 2022,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+1132005,Mohsin Khan,29 Apr 2022,v Punjab Kings,Pune,1,9,13*,13,6,1,1,216.66,not out,2,4.0,1,24,3,6
+1132005,Mohsin Khan,1 May 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,4,4
+1132005,Mohsin Khan,7 May 2022,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,1,6,1,2
+1132005,Mohsin Khan,10 May 2022,v GT,Pune,2,9,1,5,3,0,0,33.33,caught,1,4.0,0,18,1,4.5
+1132005,Mohsin Khan,15 May 2022,v RR,Brabourne,2,9,9*,20,7,1,0,128.57,not out,1,4.0,0,43,0,10.75
+1132005,Mohsin Khan,18 May 2022,v KKR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+1132005,Mohsin Khan,25 May 2022,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+1132005,Mohsin Khan,3 May 2023,v CSK,Lucknow,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1132005,Mohsin Khan,7 May 2023,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,1,14
+1132005,Mohsin Khan,16 May 2023,v MI,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+1132005,Mohsin Khan,20 May 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+1132005,Mohsin Khan,24 May 2023,v MI,Chennai,2,11,0,8,7,0,0,0,bowled,1,3.0,0,24,1,8
+1132005,Mohsin Khan,23 Oct 2023,v Tripura,Dehradun,1,-,sub,-,-,-,-,-,-,2,4.0,0,20,3,5
+1132005,Mohsin Khan,25 Oct 2023,v Karnataka,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+1132005,Mohsin Khan,27 Oct 2023,v M. Pradesh,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,2,4.33
+1132005,Mohsin Khan,31 Oct 2023,v Gujarat,Mohali,2,-,sub,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+1132005,Mohsin Khan,2 Nov 2023,v Punjab,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+1132005,Mohsin Khan,24 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+1132005,Mohsin Khan,30 Mar 2024,v Punjab Kings,Lucknow,1,9,2,4,1,0,0,200,run out,2,4.0,0,34,2,8.5
+1132005,Mohsin Khan,14 Apr 2024,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1132005,Mohsin Khan,19 Apr 2024,v CSK,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+1132005,Mohsin Khan,23 Apr 2024,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,1,12.5
+1132005,Mohsin Khan,27 Apr 2024,v RR,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,0,13
+1132005,Mohsin Khan,30 Apr 2024,v MI,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+1132005,Mohsin Khan,5 May 2024,v KKR,Lucknow,2,-,sub,-,-,-,-,-,-,1,2.0,0,28,0,14
+1132005,Mohsin Khan,14 May 2024,v DC,Delhi,2,-,sub,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+1132005,Mohsin Khan,17 May 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+1132005,Mohsin Khan,25 Nov 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.2,0,16,2,4.8
+1132005,Mohsin Khan,27 Nov 2024,v Manipur,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+1132005,Mohsin Khan,29 Nov 2024,v Haryana,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+1132005,Mohsin Khan,3 Dec 2024,v J & K,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,2,12.25
+1132005,Mohsin Khan,5 Dec 2024,v Jharkhand,Wankhede,1,10,3*,-,4,0,0,75,not out,2,2.5,0,38,2,13.41
+1132005,Mohsin Khan,9 Dec 2024,v Andhra,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1132005,Mohsin Khan,11 Dec 2024,v Delhi,Bengaluru,2,10,18*,-,11,1,1,163.63,not out,1,3.0,0,27,1,9

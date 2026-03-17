@@ -1,0 +1,192 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+30288,Karn Sharma,3 Apr 2007,v UP,Jaipur,2,6,21,12,11,1,0,190.9,stumped,1,DNB,-,-,-,-
+30288,Karn Sharma,4 Apr 2007,v M. Pradesh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30288,Karn Sharma,6 Apr 2007,v Rajasthan,Jaipur,2,6,8,19,13,0,0,61.53,caught,1,DNB,-,-,-,-
+30288,Karn Sharma,15 Apr 2007,v Punjab,Brabourne,1,3,2,3,4,0,0,50,bowled,2,DNB,-,-,-,-
+30288,Karn Sharma,16 Apr 2007,v Gujarat,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30288,Karn Sharma,22 Apr 2009,v Chargers,Cape Town,2,8,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+30288,Karn Sharma,20 Oct 2009,v UP,Indore,1,5,13,15,7,2,0,185.71,run out,2,2.0,0,17,1,8.5
+30288,Karn Sharma,22 Oct 2009,v Vidarbha,Indore,2,5,10,11,10,1,0,100,caught,1,1.0,0,5,0,5
+30288,Karn Sharma,25 Oct 2009,v M. Pradesh,Indore,1,5,29,41,35,2,0,82.85,caught,2,2.0,0,11,1,5.5
+30288,Karn Sharma,12 Mar 2010,v Assam,Indore,1,2,8,20,13,1,0,61.53,bowled,2,2.0,0,25,0,12.5
+30288,Karn Sharma,20 Oct 2010,v Rajasthan,Jaipur,1,8,31,9,12,3,2,258.33,caught,2,3.0,0,26,0,8.66
+30288,Karn Sharma,21 Oct 2010,v Vidarbha,Jaipur,2,8,30,25,15,1,2,200,caught,1,4.0,0,21,2,5.25
+30288,Karn Sharma,22 Oct 2010,v UP,Jaipur,2,6,1,5,5,0,0,20,caught,1,2.0,0,6,1,3
+30288,Karn Sharma,25 Oct 2010,v M. Pradesh,Jaipur,2,5,12,17,10,2,0,120,bowled,1,1.0,0,12,0,12
+30288,Karn Sharma,20 Oct 2011,v M. Pradesh,Indore,2,5,19,24,18,3,0,105.55,caught,1,4.0,0,23,2,5.75
+30288,Karn Sharma,22 Oct 2011,v UP,Indore,2,4,7,12,8,0,0,87.5,caught,1,4.0,0,16,1,4
+30288,Karn Sharma,24 Oct 2011,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+30288,Karn Sharma,25 Oct 2011,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+30288,Karn Sharma,24 Mar 2012,v Delhi,Brabourne,2,7,67,-,35,7,3,191.42,caught,1,4.0,0,34,1,8.5
+30288,Karn Sharma,17 Mar 2013,v UP,Nagpur,1,5,62*,68,48,5,3,129.16,not out,2,2.0,0,9,0,4.5
+30288,Karn Sharma,18 Mar 2013,v Rajasthan,Nagpur,1,5,37,41,40,0,2,92.5,caught,2,2.1,0,21,1,9.69
+30288,Karn Sharma,19 Mar 2013,v Vidarbha,Nagpur,2,5,5,13,9,0,0,55.55,caught,1,1.0,0,5,0,5
+30288,Karn Sharma,21 Mar 2013,v M. Pradesh,Nagpur,1,5,26,26,18,2,1,144.44,caught,2,2.0,0,11,0,5.5
+30288,Karn Sharma,14 Apr 2013,v KKR,Eden Gardens,2,7,5*,13,9,0,0,55.55,not out,1,2.0,0,13,1,6.5
+30288,Karn Sharma,17 Apr 2013,v Warriors,Pune,1,6,7,21,13,0,0,53.84,lbw,2,3.0,0,13,1,4.33
+30288,Karn Sharma,19 Apr 2013,v Kings XI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+30288,Karn Sharma,25 Apr 2013,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,8,0,2
+30288,Karn Sharma,27 Apr 2013,v RR,Jaipur,1,5,6,4,8,1,0,75,caught,2,1.5,0,24,0,13.09
+30288,Karn Sharma,1 May 2013,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+30288,Karn Sharma,4 May 2013,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+30288,Karn Sharma,8 May 2013,v CSK,Hyderabad,2,7,39*,46,33,3,1,118.18,not out,1,2.0,0,19,0,9.5
+30288,Karn Sharma,11 May 2013,v Kings XI,Mohali,1,7,22,27,18,2,1,122.22,caught,2,1.0,0,6,0,6
+30288,Karn Sharma,13 May 2013,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+30288,Karn Sharma,17 May 2013,v RR,Hyderabad,1,9,4,-,3,0,0,133.33,run out,2,4.0,0,33,2,8.25
+30288,Karn Sharma,19 May 2013,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,1,5
+30288,Karn Sharma,22 May 2013,v RR,Delhi,1,8,2*,10,2,0,0,100,not out,2,2.0,0,24,1,12
+30288,Karn Sharma,17 Sep 2013,v Kandurata Ma,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30288,Karn Sharma,18 Sep 2013,v Wolves,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,1,5.5
+30288,Karn Sharma,20 Sep 2013,v Otago,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.2,0,29,0,8.7
+30288,Karn Sharma,24 Sep 2013,v Trinidad & T,Mohali,2,8,13*,8,5,1,1,260,not out,1,DNB,-,-,-,-
+30288,Karn Sharma,26 Sep 2013,v CSK,Ranchi,2,7,11,21,9,2,0,122.22,caught,1,DNB,-,-,-,-
+30288,Karn Sharma,28 Sep 2013,v Titans,Ranchi,1,8,11*,17,6,1,1,183.33,not out,2,1.0,0,9,0,9
+30288,Karn Sharma,1 Apr 2014,v M. Pradesh,Nagpur,1,7,20,23,22,1,1,90.9,caught,2,3.0,0,34,1,11.33
+30288,Karn Sharma,2 Apr 2014,v Vidarbha,Nagpur,2,5,49*,47,40,4,3,122.5,not out,1,4.0,0,26,2,6.5
+30288,Karn Sharma,4 Apr 2014,v Rajasthan,Nagpur,2,6,28,16,14,2,2,200,lbw,1,4.0,0,25,1,6.25
+30288,Karn Sharma,5 Apr 2014,v UP,Nagpur,2,5,0,1,2,0,0,0,bowled,1,4.0,0,30,0,7.5
+30288,Karn Sharma,18 Apr 2014,v RR,Abu Dhabi,1,7,4,-,5,0,0,80,caught,2,2.0,0,8,0,4
+30288,Karn Sharma,22 Apr 2014,v Kings XI,Sharjah,2,8,10,20,8,0,1,125,caught,1,4.0,0,37,0,9.25
+30288,Karn Sharma,25 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+30288,Karn Sharma,27 Apr 2014,v CSK,Sharjah,1,7,17*,15,7,0,2,242.85,not out,2,4.0,0,35,1,8.75
+30288,Karn Sharma,30 Apr 2014,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+30288,Karn Sharma,4 May 2014,v RCB,Bengaluru,1,8,1*,1,1,0,0,100,not out,2,4.0,0,17,3,4.25
+30288,Karn Sharma,8 May 2014,v RR,Ahmedabad,1,8,0,1,1,0,0,0,caught,2,4.0,0,20,1,5
+30288,Karn Sharma,10 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+30288,Karn Sharma,12 May 2014,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.4,0,25,0,9.37
+30288,Karn Sharma,14 May 2014,v Kings XI,Hyderabad,1,7,1*,2,1,0,0,100,not out,2,4.0,0,46,1,11.5
+30288,Karn Sharma,18 May 2014,v KKR,Hyderabad,1,8,4,7,4,0,0,100,run out,2,4.0,0,19,1,4.75
+30288,Karn Sharma,20 May 2014,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+30288,Karn Sharma,22 May 2014,v CSK,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+30288,Karn Sharma,24 May 2014,v KKR,Eden Gardens,1,8,5*,3,2,1,0,250,not out,2,4.0,0,38,4,9.5
+30288,Karn Sharma,7 Sep 2014,v England,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+30288,Karn Sharma,25 Mar 2015,v M. Pradesh,Indore,2,5,16,18,17,0,1,94.11,run out,1,3.0,0,19,0,6.33
+30288,Karn Sharma,27 Mar 2015,v Vidarbha,Indore,2,5,46*,44,34,2,3,135.29,not out,1,4.0,0,40,0,10
+30288,Karn Sharma,28 Mar 2015,v Rajasthan,Indore,2,5,0,2,1,0,0,0,caught,1,4.0,0,19,1,4.75
+30288,Karn Sharma,29 Mar 2015,v UP,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+30288,Karn Sharma,11 Apr 2015,v CSK,Chennai,2,7,4,11,6,0,0,66.66,caught,1,4.0,0,51,0,12.75
+30288,Karn Sharma,13 Apr 2015,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+30288,Karn Sharma,16 Apr 2015,v RR,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+30288,Karn Sharma,18 Apr 2015,v Daredevils,Visakhapatnam,2,8,19,19,10,0,2,190,caught,1,2.0,0,25,0,12.5
+30288,Karn Sharma,22 Apr 2015,v KKR,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,0,5
+30288,Karn Sharma,25 Apr 2015,v MI,Wankhede,2,7,2*,13,5,0,0,40,not out,1,4.0,0,30,1,7.5
+30288,Karn Sharma,27 Apr 2015,v Kings XI,Mohali,1,8,1*,3,1,0,0,100,not out,2,4.0,0,22,1,5.5
+30288,Karn Sharma,2 May 2015,v CSK,Hyderabad,1,8,4,1,2,1,0,200,caught,2,2.0,0,19,0,9.5
+30288,Karn Sharma,4 May 2015,v KKR,Eden Gardens,2,8,32,27,20,0,3,160,caught,1,4.0,0,29,2,7.25
+30288,Karn Sharma,7 May 2015,v RR,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+30288,Karn Sharma,9 May 2015,v Daredevils,Raipur,1,5,16,22,13,2,0,123.07,caught,2,3.0,0,12,2,4
+30288,Karn Sharma,11 May 2015,v Kings XI,Hyderabad,1,7,11*,12,7,0,1,157.14,not out,2,2.0,0,20,0,10
+30288,Karn Sharma,15 May 2015,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+30288,Karn Sharma,17 May 2015,v MI,Hyderabad,1,7,15,37,21,0,0,71.42,caught,2,2.5,0,38,1,13.41
+30288,Karn Sharma,2 Jan 2016,v Delhi,Vadodara,1,4,3*,11,4,0,0,75,not out,2,4.0,0,38,1,9.5
+30288,Karn Sharma,3 Jan 2016,v Baroda,Vadodara,2,6,17,15,13,0,1,130.76,caught,1,4.0,0,30,1,7.5
+30288,Karn Sharma,4 Jan 2016,v Andhra,Vadodara,1,6,1,5,3,0,0,33.33,caught,2,4.0,0,19,1,4.75
+30288,Karn Sharma,6 Jan 2016,v M. Pradesh,Vadodara,1,7,10,11,14,1,0,71.42,caught,2,4.0,0,28,2,7
+30288,Karn Sharma,7 Jan 2016,v Goa,Vadodara,1,6,30,10,11,2,3,272.72,caught,2,4.0,0,24,5,6
+30288,Karn Sharma,9 Jan 2016,v Assam,Vadodara,1,7,0,1,1,0,0,0,caught,2,4.0,0,21,1,5.25
+30288,Karn Sharma,12 Apr 2016,v RCB,Bengaluru,2,8,26*,22,17,3,1,152.94,not out,1,4.0,0,57,0,14.25
+30288,Karn Sharma,16 Apr 2016,v KKR,Hyderabad,1,8,2*,8,2,0,0,100,not out,2,2.2,0,24,0,10.28
+30288,Karn Sharma,15 May 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+30288,Karn Sharma,20 May 2016,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+30288,Karn Sharma,22 May 2016,v KKR,Eden Gardens,2,8,8*,21,11,0,0,72.72,not out,1,3.0,0,39,0,13
+30288,Karn Sharma,29 Jan 2017,v M. Pradesh,Jaipur,1,6,9*,18,9,1,0,100,not out,2,4.0,0,20,1,5
+30288,Karn Sharma,31 Jan 2017,v Vidarbha,Jaipur,2,6,19,22,15,0,1,126.66,caught,1,4.0,0,32,2,8
+30288,Karn Sharma,2 Feb 2017,v UP,Jaipur,1,6,13,15,11,2,0,118.18,caught,2,2.3,0,14,2,5.6
+30288,Karn Sharma,3 Feb 2017,v Chhattisgarh,Jaipur,2,6,4,11,10,0,0,40,caught,1,3.0,0,19,1,6.33
+30288,Karn Sharma,5 Feb 2017,v Rajasthan,Jaipur,2,5,42*,37,32,4,2,131.25,not out,1,4.0,0,28,0,7
+30288,Karn Sharma,12 Feb 2017,v West Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+30288,Karn Sharma,13 Feb 2017,v East Zone,Wankhede,1,7,5,4,4,1,0,125,bowled,2,4.0,0,30,0,7.5
+30288,Karn Sharma,15 Feb 2017,v North Zone,Wankhede,1,6,15,14,11,1,1,136.36,caught,2,4.0,0,17,3,4.25
+30288,Karn Sharma,18 Feb 2017,v South Zone,Wankhede,2,7,1,8,3,0,0,33.33,caught,1,4.0,0,31,2,7.75
+30288,Karn Sharma,24 Apr 2017,v Supergiant,Wankhede,2,5,11,13,10,0,1,110,bowled,1,4.0,0,39,2,9.75
+30288,Karn Sharma,1 May 2017,v RCB,Wankhede,2,7,9,17,8,1,0,112.5,caught,1,3.0,0,23,1,7.66
+30288,Karn Sharma,6 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.4,0,11,3,3
+30288,Karn Sharma,8 May 2017,v SRH,Hyderabad,1,7,5,9,5,1,0,100,caught,2,2.0,0,19,0,9.5
+30288,Karn Sharma,11 May 2017,v Kings XI,Wankhede,2,7,19,9,6,3,1,316.66,bowled,1,3.0,0,32,1,10.66
+30288,Karn Sharma,13 May 2017,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+30288,Karn Sharma,16 May 2017,v Supergiant,Wankhede,2,9,4,9,7,0,0,57.14,caught,1,4.0,0,30,1,7.5
+30288,Karn Sharma,19 May 2017,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,4,4
+30288,Karn Sharma,21 May 2017,v Supergiant,Hyderabad,1,8,1,4,5,0,0,20,run out,2,4.0,0,18,0,4.5
+30288,Karn Sharma,8 Jan 2018,v Chhattisgarh,Raipur,1,7,25*,18,13,3,1,192.3,not out,2,3.0,0,36,1,12
+30288,Karn Sharma,9 Jan 2018,v Railways,Raipur,1,7,5,5,3,0,0,166.66,run out,2,3.0,0,18,0,6
+30288,Karn Sharma,12 Jan 2018,v M. Pradesh,Raipur,1,7,0*,1,0,0,0,-,not out,2,3.0,0,23,0,7.66
+30288,Karn Sharma,13 Jan 2018,v Rajasthan,Raipur,1,7,22,4,17,2,0,129.41,bowled,2,4.0,0,24,0,6
+30288,Karn Sharma,15 Jan 2018,v UP,Raipur,2,7,18,27,16,1,0,112.5,bowled,1,4.0,0,21,2,5.25
+30288,Karn Sharma,20 Apr 2018,v RR,Pune,1,-,DNB,-,-,-,-,-,-,2,1.3,0,13,2,8.66
+30288,Karn Sharma,22 Apr 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+30288,Karn Sharma,30 Apr 2018,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30288,Karn Sharma,3 May 2018,v KKR,Eden Gardens,1,7,0*,-,0,0,0,-,not out,2,1.0,0,11,0,11
+30288,Karn Sharma,11 May 2018,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+30288,Karn Sharma,27 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+30288,Karn Sharma,22 Feb 2019,v Nagaland,Mulapadu,1,5,4,3,2,1,0,200,caught,2,3.1,0,14,3,4.42
+30288,Karn Sharma,24 Feb 2019,v Kerala,Mulapadu,2,9,11,14,8,0,1,137.5,caught,1,4.0,0,38,0,9.5
+30288,Karn Sharma,25 Feb 2019,v J & K,Mulapadu,1,7,22*,22,14,2,1,157.14,not out,2,3.0,0,30,2,10
+30288,Karn Sharma,27 Feb 2019,v Delhi,Mulapadu,2,8,0,1,1,0,0,0,caught,1,2.0,0,32,0,16
+30288,Karn Sharma,28 Feb 2019,v Jharkhand,Mulapadu,1,7,30,28,15,2,2,200,caught,2,DNB,-,-,-,-
+30288,Karn Sharma,17 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.5,0,33,1,11.64
+30288,Karn Sharma,8 Nov 2019,v Maharashtra,Chandigarh,2,6,11,-,10,2,0,110,caught,1,3.0,0,19,1,6.33
+30288,Karn Sharma,9 Nov 2019,v Hyderabad,Chandigarh,2,6,26,-,18,2,1,144.44,caught,1,4.0,0,15,0,3.75
+30288,Karn Sharma,11 Nov 2019,v Chhattisgarh,Chandigarh,2,6,9,-,7,0,1,128.57,caught,1,4.0,0,25,0,6.25
+30288,Karn Sharma,12 Nov 2019,v Arunachal,Chandigarh,2,5,23*,-,15,3,0,153.33,not out,1,2.0,0,19,0,9.5
+30288,Karn Sharma,14 Nov 2019,v Punjab,Chandigarh,1,5,14,-,9,1,1,155.55,caught,2,3.0,0,26,0,8.66
+30288,Karn Sharma,15 Nov 2019,v Chandigarh,Chandigarh,1,4,11,-,8,2,0,137.5,run out,2,2.0,0,21,0,10.5
+30288,Karn Sharma,18 Nov 2019,v Himachal,Chandigarh,2,6,22,-,12,1,2,183.33,caught,1,2.0,0,29,0,14.5
+30288,Karn Sharma,7 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+30288,Karn Sharma,10 Oct 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+30288,Karn Sharma,13 Oct 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+30288,Karn Sharma,17 Oct 2020,v DC,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+30288,Karn Sharma,29 Oct 2020,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+30288,Karn Sharma,10 Jan 2021,v Tripura,Alur (3),2,4,45,-,29,1,5,155.17,caught,1,4.0,0,23,1,5.75
+30288,Karn Sharma,12 Jan 2021,v UP,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+30288,Karn Sharma,18 Jan 2021,v J & K,Alur,1,3,1,-,3,0,0,33.33,bowled,2,4.0,0,17,2,4.25
+30288,Karn Sharma,4 Nov 2021,v Bihar,Delhi,2,7,12,-,16,1,0,75,caught,1,4.0,0,23,1,5.75
+30288,Karn Sharma,5 Nov 2021,v M. Pradesh,Delhi,1,7,0,-,2,0,0,0,bowled,2,3.0,0,13,1,4.33
+30288,Karn Sharma,6 Nov 2021,v Kerala,Delhi,1,6,3,-,8,0,0,37.5,caught,2,4.0,0,36,1,9
+30288,Karn Sharma,8 Nov 2021,v Gujarat,Delhi,1,5,23,-,24,3,0,95.83,bowled,2,2.0,0,30,0,15
+30288,Karn Sharma,9 Nov 2021,v Assam,Delhi,1,4,29,-,20,1,2,145,bowled,2,4.0,0,26,1,6.5
+30288,Karn Sharma,11 Oct 2022,v Uttarakhand,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+30288,Karn Sharma,12 Oct 2022,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+30288,Karn Sharma,14 Oct 2022,v Rajasthan,Rajkot,2,8,9*,-,5,2,0,180,not out,1,4.0,0,21,0,5.25
+30288,Karn Sharma,16 Oct 2022,v M. Pradesh,Saurashtra,2,8,2,-,4,0,0,50,caught,1,3.0,0,43,0,14.33
+30288,Karn Sharma,18 Oct 2022,v Assam,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+30288,Karn Sharma,20 Oct 2022,v Mumbai,Rajkot,2,8,14*,-,9,2,0,155.55,not out,1,4.0,0,10,3,2.5
+30288,Karn Sharma,22 Oct 2022,v Vidarbha,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+30288,Karn Sharma,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+30288,Karn Sharma,6 Apr 2023,v KKR,Eden Gardens,2,10,1,11,3,0,0,33.33,caught,1,3.0,0,26,2,8.66
+30288,Karn Sharma,10 Apr 2023,v LSG,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,48,1,16
+30288,Karn Sharma,1 May 2023,v LSG,Lucknow,1,9,2,5,2,0,0,100,caught,2,4.0,0,20,2,5
+30288,Karn Sharma,6 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+30288,Karn Sharma,14 May 2023,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.3,0,19,2,12.66
+30288,Karn Sharma,18 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,45,0,15
+30288,Karn Sharma,16 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+30288,Karn Sharma,17 Oct 2023,v Arunachal,Ranchi,1,7,1*,-,1,0,0,100,not out,2,2.0,0,15,0,7.5
+30288,Karn Sharma,19 Oct 2023,v Punjab,Ranchi,2,9,5,-,9,0,0,55.55,caught,1,4.0,0,45,0,11.25
+30288,Karn Sharma,21 Oct 2023,v Saurashtra,Ranchi,2,8,0,-,1,0,0,0,caught,1,3.0,0,39,1,13
+30288,Karn Sharma,23 Oct 2023,v Goa,Ranchi,1,7,0,-,1,0,0,0,caught,2,3.3,0,36,3,10.28
+30288,Karn Sharma,25 Oct 2023,v Gujarat,Ranchi,1,9,29*,-,14,3,2,207.14,not out,2,3.0,0,27,1,9
+30288,Karn Sharma,27 Oct 2023,v Andhra,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+30288,Karn Sharma,22 Mar 2024,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,1,12
+30288,Karn Sharma,21 Apr 2024,v KKR,Eden Gardens,2,9,20,17,7,0,3,285.71,caught,1,4.0,0,33,0,8.25
+30288,Karn Sharma,25 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+30288,Karn Sharma,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,0,12.66
+30288,Karn Sharma,4 May 2024,v GT,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,1,14
+30288,Karn Sharma,9 May 2024,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,2,12
+30288,Karn Sharma,12 May 2024,v DC,Bengaluru,1,9,6,7,4,1,0,150,run out,2,2.0,0,19,0,9.5
+30288,Karn Sharma,18 May 2024,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+30288,Karn Sharma,22 May 2024,v RR,Ahmedabad,1,9,5,6,4,1,0,125,caught,2,2.0,0,19,1,9.5
+30288,Karn Sharma,23 Nov 2024,v Assam,Vizianagaram,1,8,15,-,19,2,0,78.94,lbw,2,4.0,0,20,2,5
+30288,Karn Sharma,25 Nov 2024,v Odisha,Vizianagaram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+30288,Karn Sharma,27 Nov 2024,v Chhattisgarh,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.3,0,23,3,6.57
+30288,Karn Sharma,13 Apr 2025,v DC,Delhi,1,-,sub,-,-,-,-,-,-,2,4.0,0,36,3,9
+30288,Karn Sharma,17 Apr 2025,v SRH,Wankhede,2,-,sub,-,-,-,-,-,-,1,DNB,-,-,-,-
+30288,Karn Sharma,27 Apr 2025,v LSG,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+30288,Karn Sharma,1 May 2025,v RR,Jaipur,1,-,sub,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+30288,Karn Sharma,6 May 2025,v GT,Wankhede,1,10,1*,1,1,0,0,100,not out,2,2.0,0,13,0,6.5
+30288,Karn Sharma,21 May 2025,v DC,Wankhede,1,-,sub,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+30288,Karn Sharma,26 Nov 2025,v Mumbai,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+30288,Karn Sharma,28 Nov 2025,v Kerala,Lucknow,1,8,14*,-,17,1,0,82.35,not out,2,3.0,0,19,1,6.33
+30288,Karn Sharma,30 Nov 2025,v Assam,Lucknow,2,8,24*,-,16,2,2,150,not out,1,4.0,0,23,2,5.75
+30288,Karn Sharma,2 Dec 2025,v Andhra,Lucknow,1,8,1*,-,3,0,0,33.33,not out,2,3.0,0,28,0,9.33
+30288,Karn Sharma,4 Dec 2025,v Odisha,Lucknow,2,8,2,-,7,0,0,28.57,caught,1,4.0,0,22,1,5.5
+30288,Karn Sharma,6 Dec 2025,v Vidarbha,Lucknow,2,7,10*,-,5,2,0,200,not out,1,4.0,0,17,2,4.25
+30288,Karn Sharma,8 Dec 2025,v Chhattisgarh,Lucknow,1,8,6,-,14,0,0,42.85,caught,2,4.0,0,45,0,11.25

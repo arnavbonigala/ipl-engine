@@ -1,0 +1,265 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+459257,Tymal Mills,13 Jun 2012,v Surrey,The Oval,2,11,3*,7,5,0,0,60,not out,1,1.0,0,8,0,8
+459257,Tymal Mills,28 Jun 2013,v Hampshire,Chelmsford,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,12 Jul 2013,v Middlesex,Chelmsford,1,10,8*,8,6,0,1,133.33,not out,2,1.0,0,9,0,9
+459257,Tymal Mills,14 Jul 2013,v Sussex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+459257,Tymal Mills,6 Jun 2014,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+459257,Tymal Mills,11 Jun 2014,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,3,10.25
+459257,Tymal Mills,13 Jun 2014,v Gloucs,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+459257,Tymal Mills,20 Jun 2014,v Middlesex,Chelmsford,2,9,0,10,1,0,0,0,run out,1,4.0,0,31,1,7.75
+459257,Tymal Mills,17 May 2015,v Gloucs,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+459257,Tymal Mills,22 May 2015,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+459257,Tymal Mills,29 May 2015,v Middlesex,Hove,2,10,0,1,1,0,0,0,caught,1,3.0,0,34,0,11.33
+459257,Tymal Mills,12 Jun 2015,v Essex,Hove,1,10,1*,1,1,0,0,100,not out,2,4.0,0,24,1,6
+459257,Tymal Mills,19 Jun 2015,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+459257,Tymal Mills,21 Jun 2015,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,1,19,2,4.75
+459257,Tymal Mills,26 Jun 2015,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+459257,Tymal Mills,2 Jul 2015,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,4,5.5
+459257,Tymal Mills,3 Jul 2015,v Kent,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+459257,Tymal Mills,10 Jul 2015,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+459257,Tymal Mills,17 Jul 2015,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+459257,Tymal Mills,12 Aug 2015,v Northants,Hove,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+459257,Tymal Mills,7 Dec 2015,v Pakistan A,ICCA Dubai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+459257,Tymal Mills,10 Dec 2015,v Pakistan A,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+459257,Tymal Mills,20 May 2016,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+459257,Tymal Mills,1 Jun 2016,v Somerset,Hove,1,-,DNB,-,-,-,-,-,-,2,2.4,0,11,2,4.12
+459257,Tymal Mills,3 Jun 2016,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,1,13.75
+459257,Tymal Mills,10 Jun 2016,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,3,3.75
+459257,Tymal Mills,16 Jun 2016,v Middlesex,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,26 Jun 2016,v Gloucs,Arundel,2,11,7*,3,2,0,1,350,not out,1,4.0,0,42,0,10.5
+459257,Tymal Mills,30 Jun 2016,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+459257,Tymal Mills,1 Jul 2016,v Middlesex,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,2,11.33
+459257,Tymal Mills,5 Jul 2016,v Sri Lanka,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+459257,Tymal Mills,7 Jul 2016,v Glamorgan,Cardiff,2,11,1*,8,3,0,0,33.33,not out,1,4.0,0,23,2,5.75
+459257,Tymal Mills,15 Jul 2016,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+459257,Tymal Mills,21 Jul 2016,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+459257,Tymal Mills,28 Jul 2016,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+459257,Tymal Mills,8 Nov 2016,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+459257,Tymal Mills,9 Nov 2016,v Rangpur,Mirpur,1,11,5,2,3,1,0,166.66,run out,2,3.0,0,30,1,10
+459257,Tymal Mills,17 Nov 2016,v Dynamites,Chattogram,2,9,4,8,3,1,0,133.33,run out,1,4.0,0,25,3,6.25
+459257,Tymal Mills,4 Dec 2016,v Otago,Auckland,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+459257,Tymal Mills,11 Dec 2016,v Canterbury,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+459257,Tymal Mills,17 Dec 2016,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+459257,Tymal Mills,18 Dec 2016,v Canterbury,Auckland,2,-,DNB,-,-,-,-,-,-,1,3.5,0,22,3,5.73
+459257,Tymal Mills,22 Dec 2016,v Wellington,Wellington,2,11,0*,4,0,0,0,-,not out,1,4.0,0,32,1,8
+459257,Tymal Mills,24 Dec 2016,v Wellington,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+459257,Tymal Mills,27 Dec 2016,v Northern Dis,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+459257,Tymal Mills,29 Dec 2016,v Central D,New Plymouth,2,11,1,3,4,0,0,25,caught,1,4.0,0,27,1,6.75
+459257,Tymal Mills,1 Jan 2017,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+459257,Tymal Mills,3 Jan 2017,v Central D,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+459257,Tymal Mills,11 Jan 2017,v Scorchers,Brisbane,2,11,0*,-,0,0,0,-,not out,1,4.0,0,30,0,7.5
+459257,Tymal Mills,17 Jan 2017,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+459257,Tymal Mills,26 Jan 2017,v India,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+459257,Tymal Mills,29 Jan 2017,v India,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+459257,Tymal Mills,1 Feb 2017,v India,Bengaluru,2,11,0,1,2,0,0,0,caught,1,4.0,0,31,1,7.75
+459257,Tymal Mills,10 Feb 2017,v Qalandars,Dubai (DICS),1,10,0,-,1,0,0,0,lbw,2,4.0,0,31,1,7.75
+459257,Tymal Mills,11 Feb 2017,v Kings,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+459257,Tymal Mills,23 Feb 2017,v Kings,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+459257,Tymal Mills,25 Feb 2017,v Zalmi,Dubai (DICS),1,11,1*,-,1,0,0,100,not out,2,4.0,0,20,3,5
+459257,Tymal Mills,28 Feb 2017,v Zalmi,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+459257,Tymal Mills,5 Apr 2017,v SRH,Hyderabad,2,9,6,6,3,0,1,200,caught,1,4.0,0,31,1,7.75
+459257,Tymal Mills,8 Apr 2017,v Daredevils,Bengaluru,1,9,0,2,3,0,0,0,bowled,2,4.0,0,33,1,8.25
+459257,Tymal Mills,10 Apr 2017,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,1,11
+459257,Tymal Mills,14 Apr 2017,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.5,0,36,0,9.39
+459257,Tymal Mills,23 Apr 2017,v KKR,Eden Gardens,2,9,2,11,5,0,0,40,caught,1,4.0,0,31,2,7.75
+459257,Tymal Mills,20 Jul 2017,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+459257,Tymal Mills,23 Jul 2017,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+459257,Tymal Mills,3 Aug 2017,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+459257,Tymal Mills,4 Aug 2017,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,0,5
+459257,Tymal Mills,21 Dec 2017,v Renegades,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+459257,Tymal Mills,30 Dec 2017,v Thunder,Launceston,2,11,1,-,7,0,0,14.28,bowled,1,4.0,0,32,0,8
+459257,Tymal Mills,1 Jan 2018,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+459257,Tymal Mills,4 Jan 2018,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+459257,Tymal Mills,8 Jan 2018,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+459257,Tymal Mills,10 Jan 2018,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+459257,Tymal Mills,15 Jan 2018,v Heat,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+459257,Tymal Mills,17 Jan 2018,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+459257,Tymal Mills,20 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+459257,Tymal Mills,27 Jan 2018,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,56,2,14
+459257,Tymal Mills,23 Feb 2018,v Gladiators,Dubai (DICS),1,11,5*,-,2,1,0,250,not out,2,4.0,0,27,2,6.75
+459257,Tymal Mills,25 Feb 2018,v Zalmi,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+459257,Tymal Mills,26 Feb 2018,v Qalandars,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.3,0,33,2,9.42
+459257,Tymal Mills,2 Mar 2018,v Sultans,Sharjah,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,4 Mar 2018,v United,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+459257,Tymal Mills,16 Mar 2018,v United,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+459257,Tymal Mills,18 Mar 2018,v United,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,1,16
+459257,Tymal Mills,21 Mar 2018,v Zalmi,Lahore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+459257,Tymal Mills,31 May 2018,v West Indies,Lord's,2,-,absent,-,-,-,-,-,-,1,3.0,1,13,0,4.33
+459257,Tymal Mills,27 Jul 2018,v Kent,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+459257,Tymal Mills,1 Aug 2018,v Gloucs,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+459257,Tymal Mills,9 Aug 2018,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,14 Aug 2018,v Glamorgan,Hove,1,-,DNB,-,-,-,-,-,-,2,2.3,0,20,3,8
+459257,Tymal Mills,16 Aug 2018,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+459257,Tymal Mills,17 Aug 2018,v Middlesex,Hove,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,2,10.33
+459257,Tymal Mills,24 Aug 2018,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+459257,Tymal Mills,15 Sep 2018,v Somerset,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+459257,Tymal Mills,15 Sep 2018,v Worcs,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+459257,Tymal Mills,6 Oct 2018,v KingsLeopard,Sharjah,1,10,5*,-,3,1,0,166.66,not out,2,3.3,0,34,0,9.71
+459257,Tymal Mills,7 Oct 2018,v Legends,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+459257,Tymal Mills,18 Oct 2018,v Legends,Sharjah,1,10,1,-,2,0,0,50,run out,2,4.0,0,32,0,8
+459257,Tymal Mills,5 Mar 2019,v Qalandars,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+459257,Tymal Mills,11 Mar 2019,v Kings,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,2,8.33
+459257,Tymal Mills,13 Mar 2019,v Gladiators,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+459257,Tymal Mills,15 Mar 2019,v United,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+459257,Tymal Mills,17 Mar 2019,v Gladiators,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+459257,Tymal Mills,19 Jul 2019,v Hampshire,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,24 Jul 2019,v Hampshire,Hove,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+459257,Tymal Mills,26 Jul 2019,v Surrey,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+459257,Tymal Mills,28 Jul 2019,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+459257,Tymal Mills,2 Aug 2019,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+459257,Tymal Mills,6 Aug 2019,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+459257,Tymal Mills,9 Aug 2019,v Middlesex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+459257,Tymal Mills,22 Feb 2020,v Zalmi,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+459257,Tymal Mills,23 Feb 2020,v Kings,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+459257,Tymal Mills,27 Feb 2020,v United,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+459257,Tymal Mills,5 Mar 2020,v Zalmi,Rawalpindi,2,9,4*,-,5,0,0,80,not out,1,3.0,0,33,0,11
+459257,Tymal Mills,28 Aug 2020,v Surrey,Hove,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,30 Aug 2020,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+459257,Tymal Mills,1 Sep 2020,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+459257,Tymal Mills,3 Sep 2020,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+459257,Tymal Mills,10 Sep 2020,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+459257,Tymal Mills,12 Sep 2020,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+459257,Tymal Mills,14 Sep 2020,v Essex,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+459257,Tymal Mills,20 Sep 2020,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+459257,Tymal Mills,1 Oct 2020,v Lancashire,Hove,2,11,10,9,10,0,1,100,stumped,1,4.0,0,23,2,5.75
+459257,Tymal Mills,12 Jun 2021,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+459257,Tymal Mills,15 Jun 2021,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+459257,Tymal Mills,17 Jun 2021,v Surrey,The Oval,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,28,0,28
+459257,Tymal Mills,25 Jun 2021,v Gloucs,Hove,2,10,27,17,16,4,1,168.75,bowled,1,4.0,0,20,3,5
+459257,Tymal Mills,27 Jun 2021,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+459257,Tymal Mills,1 Jul 2021,v Middlesex,Lord's,2,9,11,23,19,1,0,57.89,bowled,1,4.0,0,31,2,7.75
+459257,Tymal Mills,2 Jul 2021,v Glamorgan,Cardiff,1,9,0*,3,0,0,0,-,not out,2,1.0,0,12,0,12
+459257,Tymal Mills,24 Jul 2021,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,7.2
+459257,Tymal Mills,27 Jul 2021,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,9.6
+459257,Tymal Mills,30 Jul 2021,v Phoenix,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,9.6
+459257,Tymal Mills,1 Aug 2021,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,4.5
+459257,Tymal Mills,5 Aug 2021,v Originals,Manchester,-,-,TDNB,-,-,-,-,-,-,1,2.1,0,9,1,4.9
+459257,Tymal Mills,7 Aug 2021,v N S-Chargers,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,5.1
+459257,Tymal Mills,11 Aug 2021,v Fire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,6.3
+459257,Tymal Mills,16 Aug 2021,v Invincibles,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,11.1
+459257,Tymal Mills,20 Aug 2021,v Rockets,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.1,0,8,3,3
+459257,Tymal Mills,21 Aug 2021,v Phoenix,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,1,3.9
+459257,Tymal Mills,24 Aug 2021,v Yorkshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+459257,Tymal Mills,18 Sep 2021,v Kent,Birmingham,2,10,6,5,4,1,0,150,bowled,1,4.0,0,33,3,8.25
+459257,Tymal Mills,23 Oct 2021,v West Indies,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+459257,Tymal Mills,27 Oct 2021,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+459257,Tymal Mills,30 Oct 2021,v Australia,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+459257,Tymal Mills,1 Nov 2021,v Sri Lanka,Sharjah,1,-,DNB,-,-,-,-,-,-,2,1.3,0,19,0,12.66
+459257,Tymal Mills,14 Dec 2021,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+459257,Tymal Mills,20 Dec 2021,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+459257,Tymal Mills,22 Dec 2021,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+459257,Tymal Mills,26 Dec 2021,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+459257,Tymal Mills,2 Jan 2022,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.5,0,28,3,7.3
+459257,Tymal Mills,4 Jan 2022,v Sixers,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+459257,Tymal Mills,6 Jan 2022,v Thunder,Carrara,1,10,1*,4,1,0,0,100,not out,2,3.0,0,21,0,7
+459257,Tymal Mills,22 Jan 2022,v West Indies,Bridgetown,1,11,0*,2,0,0,0,-,not out,2,3.1,0,20,0,6.31
+459257,Tymal Mills,26 Jan 2022,v West Indies,Bridgetown,2,10,1*,6,1,0,0,100,not out,1,4.0,0,52,1,13
+459257,Tymal Mills,29 Jan 2022,v West Indies,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+459257,Tymal Mills,27 Mar 2022,v DC,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+459257,Tymal Mills,2 Apr 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+459257,Tymal Mills,6 Apr 2022,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,2,12.66
+459257,Tymal Mills,13 Apr 2022,v Punjab Kings,Pune,2,10,0,3,2,0,0,0,caught,1,4.0,0,37,0,9.25
+459257,Tymal Mills,16 Apr 2022,v LSG,Brabourne,2,11,0*,2,1,0,0,0,not out,1,3.0,0,54,0,18
+459257,Tymal Mills,26 May 2022,v Glamorgan,Hove,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+459257,Tymal Mills,29 May 2022,v Kent,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+459257,Tymal Mills,1 Jun 2022,v Somerset,Taunton,1,9,0*,4,1,0,0,0,not out,2,3.5,0,32,4,8.34
+459257,Tymal Mills,3 Jun 2022,v Middlesex,Hove,2,-,DNB,-,-,-,-,-,-,1,3.4,0,41,2,11.18
+459257,Tymal Mills,8 Jun 2022,v Surrey,The Oval,1,9,5*,3,2,1,0,250,not out,2,4.0,0,50,1,12.5
+459257,Tymal Mills,10 Jun 2022,v Gloucs,Hove,2,8,3,6,5,0,0,60,caught,1,4.0,0,29,0,7.25
+459257,Tymal Mills,17 Jun 2022,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,3.5,0,47,2,12.26
+459257,Tymal Mills,19 Jun 2022,v Glamorgan,Cardiff,1,9,5*,13,8,0,0,62.5,not out,2,4.0,0,30,3,7.5
+459257,Tymal Mills,23 Jun 2022,v Surrey,Hove,1,-,DNB,-,-,-,-,-,-,2,3.2,0,22,2,6.6
+459257,Tymal Mills,7 Jul 2022,v India,Southampton,2,9,7,9,8,0,1,87.5,caught,1,3.0,0,35,1,11.66
+459257,Tymal Mills,10 Aug 2022,v Phoenix,Birmingham,2,11,0,-,2,0,0,0,bowled,1,4.0,0,33,0,9.9
+459257,Tymal Mills,26 May 2023,v Somerset,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+459257,Tymal Mills,28 May 2023,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+459257,Tymal Mills,1 Jun 2023,v Essex,Hove,2,10,2,6,3,0,0,66.66,bowled,1,4.0,0,32,2,8
+459257,Tymal Mills,4 Jun 2023,v Glamorgan,Hove,2,10,2*,6,2,0,0,100,not out,1,4.0,0,36,2,9
+459257,Tymal Mills,6 Jun 2023,v Essex,Chelmsford,1,10,5,7,4,1,0,125,caught,2,4.0,0,34,2,8.5
+459257,Tymal Mills,8 Jun 2023,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+459257,Tymal Mills,9 Jun 2023,v Surrey,Hove,2,10,4,1,2,1,0,200,stumped,1,4.0,0,50,2,12.5
+459257,Tymal Mills,16 Jun 2023,v Hampshire,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+459257,Tymal Mills,20 Jun 2023,v Kent,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+459257,Tymal Mills,23 Jun 2023,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+459257,Tymal Mills,30 Jun 2023,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,13.5
+459257,Tymal Mills,1 Jul 2023,v Gloucs,Hove,1,10,5,4,4,1,0,125,caught,2,3.0,0,25,0,8.33
+459257,Tymal Mills,1 Aug 2023,v Rockets,Nottingham,2,11,0,2,1,0,0,0,lbw,1,4.0,0,24,1,7.2
+459257,Tymal Mills,4 Aug 2023,v Fire,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,6.9
+459257,Tymal Mills,6 Aug 2023,v N S-Chargers,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,10.8
+459257,Tymal Mills,8 Aug 2023,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,12 Aug 2023,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,4,3.9
+459257,Tymal Mills,16 Aug 2023,v Phoenix,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,6
+459257,Tymal Mills,19 Aug 2023,v Invincibles,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,11.7
+459257,Tymal Mills,23 Aug 2023,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,8.1
+459257,Tymal Mills,26 Aug 2023,v Originals,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,8.1
+459257,Tymal Mills,12 Dec 2023,v West Indies,Bridgetown,1,11,0,2,1,0,0,0,caught,2,3.0,0,34,0,11.33
+459257,Tymal Mills,14 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+459257,Tymal Mills,16 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,2.0,0,36,0,18
+459257,Tymal Mills,21 Jan 2024,v KnightRiders,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.4,0,21,2,5.72
+459257,Tymal Mills,24 Jan 2024,v Gulf Giants,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+459257,Tymal Mills,27 Jan 2024,v KnightRiders,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,3.0,0,45,0,15
+459257,Tymal Mills,3 Feb 2024,v Gulf Giants,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+459257,Tymal Mills,17 Feb 2024,v Qalandars,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+459257,Tymal Mills,20 Feb 2024,v Sultans,Multan,1,11,0*,3,1,0,0,0,not out,2,3.5,0,31,1,8.08
+459257,Tymal Mills,26 Feb 2024,v Zalmi,Lahore,2,11,1*,1,1,0,0,100,not out,1,2.0,0,30,0,15
+459257,Tymal Mills,7 Mar 2024,v Kings,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+459257,Tymal Mills,10 Mar 2024,v Sultans,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+459257,Tymal Mills,18 Mar 2024,v Sultans,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+459257,Tymal Mills,31 May 2024,v Gloucs,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,4,6.25
+459257,Tymal Mills,2 Jun 2024,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,4,8.25
+459257,Tymal Mills,7 Jun 2024,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+459257,Tymal Mills,9 Jun 2024,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+459257,Tymal Mills,14 Jun 2024,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+459257,Tymal Mills,15 Jun 2024,v Surrey,Hove,2,11,1*,3,1,0,0,100,not out,1,4.0,0,21,2,5.25
+459257,Tymal Mills,20 Jun 2024,v Kent,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+459257,Tymal Mills,21 Jun 2024,v Hampshire,Southampton,1,10,0*,4,0,0,0,-,not out,2,4.0,0,37,1,9.25
+459257,Tymal Mills,5 Jul 2024,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,4,7.25
+459257,Tymal Mills,10 Jul 2024,v Hampshire,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+459257,Tymal Mills,13 Jul 2024,v Essex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+459257,Tymal Mills,18 Jul 2024,v Somerset,Taunton,1,10,1*,3,1,0,0,100,not out,2,4.0,0,28,2,7
+459257,Tymal Mills,19 Jul 2024,v Middlesex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+459257,Tymal Mills,24 Jul 2024,v Spirit,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,11.1
+459257,Tymal Mills,30 Jul 2024,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,16.2
+459257,Tymal Mills,1 Aug 2024,v Originals,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,7.8
+459257,Tymal Mills,3 Aug 2024,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,6.3
+459257,Tymal Mills,5 Aug 2024,v Fire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,4,4.8
+459257,Tymal Mills,8 Aug 2024,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,10.8
+459257,Tymal Mills,10 Aug 2024,v Rockets,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,11.7
+459257,Tymal Mills,14 Aug 2024,v Fire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,11.4
+459257,Tymal Mills,17 Aug 2024,v Phoenix,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,6.9
+459257,Tymal Mills,18 Aug 2024,v Invincibles,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,9.9
+459257,Tymal Mills,4 Sep 2024,v Lancashire,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+459257,Tymal Mills,14 Sep 2024,v Gloucs,Birmingham,1,10,0,2,0,0,0,-,stumped,2,3.0,0,38,0,12.66
+459257,Tymal Mills,12 Jan 2025,v Warriorz,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+459257,Tymal Mills,14 Jan 2025,v Vipers,Dubai (DICS),1,10,0,-,4,0,0,0,run out,2,3.0,0,23,1,7.66
+459257,Tymal Mills,18 Jan 2025,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+459257,Tymal Mills,19 Jan 2025,v KnightRiders,Dubai (DICS),2,10,8*,3,5,2,0,160,not out,1,4.0,0,47,1,11.75
+459257,Tymal Mills,19 May 2025,v Kings,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+459257,Tymal Mills,23 May 2025,v Qalandars,Lahore,2,10,7,-,9,0,1,77.77,bowled,1,4.0,0,42,3,10.5
+459257,Tymal Mills,29 May 2025,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,2,13.5
+459257,Tymal Mills,1 Jun 2025,v Gloucs,Hove,1,10,1,10,4,0,0,25,caught,2,2.3,0,13,3,5.2
+459257,Tymal Mills,6 Jun 2025,v Somerset,Hove,1,10,4*,3,2,1,0,200,not out,2,4.0,0,34,1,8.5
+459257,Tymal Mills,8 Jun 2025,v Glamorgan,Hove,1,-,DNB,-,-,-,-,-,-,2,2.2,0,10,2,4.28
+459257,Tymal Mills,13 Jun 2025,v Essex,Hove,2,-,DNB,-,-,-,-,-,-,1,0.5,0,21,0,25.2
+459257,Tymal Mills,14 Jun 2025,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+459257,Tymal Mills,18 Jun 2025,v Surrey,The Oval,2,9,3,9,4,0,0,75,run out,1,4.0,0,55,1,13.75
+459257,Tymal Mills,4 Jul 2025,v Kent,Canterbury,1,10,8,10,5,1,0,160,run out,2,4.0,0,20,3,5
+459257,Tymal Mills,5 Jul 2025,v Hampshire,Hove,2,10,6,6,6,1,0,100,caught,1,4.0,0,42,0,10.5
+459257,Tymal Mills,9 Jul 2025,v Kent,Hove,1,10,0,6,1,0,0,0,run out,2,4.0,0,21,3,5.25
+459257,Tymal Mills,11 Jul 2025,v Essex,Chelmsford,1,10,0,2,1,0,0,0,caught,2,4.0,0,31,2,7.75
+459257,Tymal Mills,13 Jul 2025,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+459257,Tymal Mills,17 Jul 2025,v Gloucs,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+459257,Tymal Mills,18 Jul 2025,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+459257,Tymal Mills,6 Aug 2025,v Originals,Manchester,2,10,8,8,4,0,1,200,caught,1,4.0,0,22,3,6.6
+459257,Tymal Mills,10 Aug 2025,v Phoenix,Southampton,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,7.2
+459257,Tymal Mills,13 Aug 2025,v N S-Chargers,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,11.4
+459257,Tymal Mills,16 Aug 2025,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,8.4
+459257,Tymal Mills,18 Aug 2025,v Invincibles,Southampton,1,11,4,2,2,1,0,200,run out,2,3.0,0,37,1,14.8
+459257,Tymal Mills,28 Aug 2025,v Fire,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,7.2
+459257,Tymal Mills,17 Sep 2025,v Amazon,Providence,2,10,30,26,18,4,1,166.66,caught,1,3.5,0,38,2,9.91
+459257,Tymal Mills,19 Sep 2025,v Trinbago,Providence,2,9,6,2,3,0,1,200,caught,1,4.0,0,31,0,7.75
+459257,Tymal Mills,27 Dec 2025,v Super Kings,Centurion,2,10,7,9,6,1,0,116.66,caught,1,4.0,0,17,2,4.25
+459257,Tymal Mills,29 Dec 2025,v Sunrisers,Gqeberha,2,10,1*,4,1,0,0,100,not out,1,4.0,0,31,2,7.75
+459257,Tymal Mills,31 Dec 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.2,0,27,1,11.57
+459257,Tymal Mills,3 Jan 2026,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+459257,Tymal Mills,5 Jan 2026,v Sunrisers,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.2,0,34,0,10.2

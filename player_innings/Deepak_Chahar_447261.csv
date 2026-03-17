@@ -1,0 +1,167 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+447261,Deepak Chahar,25 Oct 2010,v Vidarbha,Jaipur,2,9,5*,4,5,1,0,100,not out,1,4.0,0,30,0,7.5
+447261,Deepak Chahar,24 Oct 2011,v UP,Indore,2,8,0,1,1,0,0,0,bowled,1,4.0,0,28,1,7
+447261,Deepak Chahar,25 Oct 2011,v Railways,Indore,1,8,6,2,2,0,1,300,caught,2,4.0,0,44,0,11
+447261,Deepak Chahar,31 Mar 2014,v M. Pradesh,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+447261,Deepak Chahar,1 Apr 2014,v UP,Nagpur,1,9,0,1,2,0,0,0,run out,2,3.0,0,17,1,5.66
+447261,Deepak Chahar,4 Apr 2014,v Railways,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,42,2,10.5
+447261,Deepak Chahar,5 Apr 2014,v Vidarbha,Nagpur,2,8,1*,6,3,0,0,33.33,not out,1,3.0,0,30,0,10
+447261,Deepak Chahar,9 Apr 2014,v Bengal,Mumbai,1,8,0,1,1,0,0,0,caught,2,4.0,0,25,0,6.25
+447261,Deepak Chahar,10 Apr 2014,v Kerala,Mumbai,2,8,2,4,2,0,0,100,run out,1,4.0,0,27,0,6.75
+447261,Deepak Chahar,17 May 2016,v Daredevils,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+447261,Deepak Chahar,21 May 2016,v Kings XI,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+447261,Deepak Chahar,4 Feb 2017,v Vidarbha,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+447261,Deepak Chahar,5 Feb 2017,v Railways,Jaipur,1,8,19,8,9,1,2,211.11,caught,2,3.0,0,31,2,10.33
+447261,Deepak Chahar,6 Apr 2017,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+447261,Deepak Chahar,11 Apr 2017,v Daredevils,Pune,2,8,14,10,6,0,2,233.33,caught,1,3.0,0,35,1,11.66
+447261,Deepak Chahar,29 Apr 2017,v RCB,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+447261,Deepak Chahar,8 Jan 2018,v M. Pradesh,Raipur,1,7,4*,1,1,1,0,400,not out,2,4.0,0,19,2,4.75
+447261,Deepak Chahar,9 Jan 2018,v UP,Raipur,2,7,0,1,1,0,0,0,caught,1,4.0,0,16,1,4
+447261,Deepak Chahar,12 Jan 2018,v Chhattisgarh,Raipur,2,3,5,12,7,0,0,71.42,caught,1,4.0,0,19,1,4.75
+447261,Deepak Chahar,13 Jan 2018,v Vidarbha,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+447261,Deepak Chahar,16 Jan 2018,v Railways,Raipur,1,8,5*,14,4,0,0,125,not out,2,4.0,0,24,1,6
+447261,Deepak Chahar,22 Jan 2018,v Jharkhand,Kolkata,2,7,20*,24,13,3,0,153.84,not out,1,4.0,0,35,2,8.75
+447261,Deepak Chahar,23 Jan 2018,v Karnataka,Kolkata,1,6,2,3,3,0,0,66.66,bowled,2,4.0,0,15,5,3.75
+447261,Deepak Chahar,24 Jan 2018,v Mumbai,Eden Gardens,1,7,0*,4,0,0,0,-,not out,2,4.0,0,27,3,6.75
+447261,Deepak Chahar,25 Jan 2018,v Punjab,Eden Gardens,2,8,15*,20,15,1,1,100,retired notout,1,1.5,0,9,2,4.9
+447261,Deepak Chahar,7 Apr 2018,v MI,Wankhede,2,8,0,-,1,0,0,0,stumped,1,3.0,0,14,1,4.66
+447261,Deepak Chahar,10 Apr 2018,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+447261,Deepak Chahar,15 Apr 2018,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+447261,Deepak Chahar,20 Apr 2018,v RR,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+447261,Deepak Chahar,22 Apr 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,1,15,3,3.75
+447261,Deepak Chahar,25 Apr 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+447261,Deepak Chahar,28 Apr 2018,v MI,Pune,1,-,DNB,-,-,-,-,-,-,2,2.1,0,19,0,8.76
+447261,Deepak Chahar,13 May 2018,v SRH,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+447261,Deepak Chahar,18 May 2018,v Daredevils,Delhi,2,8,1*,-,2,0,0,50,not out,1,3.0,0,23,1,7.66
+447261,Deepak Chahar,20 May 2018,v Kings XI,Pune,2,6,39,-,20,1,3,195,caught,1,4.0,0,30,1,7.5
+447261,Deepak Chahar,22 May 2018,v SRH,Wankhede,2,8,10,-,6,0,1,166.66,caught,1,4.0,0,31,1,7.75
+447261,Deepak Chahar,27 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+447261,Deepak Chahar,8 Jul 2018,v England,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+447261,Deepak Chahar,21 Feb 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+447261,Deepak Chahar,22 Feb 2019,v Gujarat,Surat,1,7,0,-,1,0,0,0,caught,2,4.0,0,30,0,7.5
+447261,Deepak Chahar,25 Feb 2019,v Vidarbha,Surat,2,7,1,-,5,0,0,20,caught,1,4.0,0,28,1,7
+447261,Deepak Chahar,28 Feb 2019,v Himachal,Surat,2,7,2,-,2,0,0,100,caught,1,4.0,0,20,1,5
+447261,Deepak Chahar,23 Mar 2019,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+447261,Deepak Chahar,26 Mar 2019,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+447261,Deepak Chahar,31 Mar 2019,v RR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,19,2,4.75
+447261,Deepak Chahar,3 Apr 2019,v MI,Wankhede,2,8,7,10,7,1,0,100,caught,1,3.0,0,21,1,7
+447261,Deepak Chahar,6 Apr 2019,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+447261,Deepak Chahar,9 Apr 2019,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+447261,Deepak Chahar,11 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+447261,Deepak Chahar,14 Apr 2019,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+447261,Deepak Chahar,17 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+447261,Deepak Chahar,21 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+447261,Deepak Chahar,23 Apr 2019,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+447261,Deepak Chahar,26 Apr 2019,v MI,Chennai,2,9,0,3,2,0,0,0,caught,1,4.0,0,46,1,11.5
+447261,Deepak Chahar,1 May 2019,v DC,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+447261,Deepak Chahar,5 May 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+447261,Deepak Chahar,7 May 2019,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.3,0,30,1,8.57
+447261,Deepak Chahar,10 May 2019,v DC,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+447261,Deepak Chahar,12 May 2019,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,3,6.5
+447261,Deepak Chahar,6 Aug 2019,v West Indies,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,1,4,3,1.33
+447261,Deepak Chahar,18 Sep 2019,v South Africa,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+447261,Deepak Chahar,22 Sep 2019,v South Africa,Bengaluru,1,10,0*,3,0,0,0,-,not out,2,3.0,0,15,0,5
+447261,Deepak Chahar,3 Nov 2019,v Bangladesh,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+447261,Deepak Chahar,7 Nov 2019,v Bangladesh,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+447261,Deepak Chahar,10 Nov 2019,v Bangladesh,Nagpur,1,-,DNB,-,-,-,-,-,-,2,3.2,0,7,6,2.1
+447261,Deepak Chahar,12 Nov 2019,v Vidarbha,Thiruvananthapuram,2,7,4,-,6,0,0,66.66,caught,1,3.0,0,18,4,6
+447261,Deepak Chahar,14 Nov 2019,v UP,Thiruvananthapuram,2,7,13*,-,5,3,0,260,not out,1,4.0,0,46,3,11.5
+447261,Deepak Chahar,15 Nov 2019,v Kerala,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+447261,Deepak Chahar,17 Nov 2019,v Tripura,Thumba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,3,1,1.5
+447261,Deepak Chahar,25 Nov 2019,v Maharashtra,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+447261,Deepak Chahar,27 Nov 2019,v Delhi,Surat,1,7,55*,-,42,0,7,130.95,not out,2,4.0,1,27,0,6.75
+447261,Deepak Chahar,29 Nov 2019,v Tamil Nadu,Surat,1,2,9,-,5,0,1,180,bowled,2,2.0,1,11,1,5.5
+447261,Deepak Chahar,6 Dec 2019,v West Indies,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,1,14
+447261,Deepak Chahar,8 Dec 2019,v West Indies,Thiruvananthapuram,1,9,1*,-,1,0,0,100,not out,2,3.3,0,35,0,10
+447261,Deepak Chahar,11 Dec 2019,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+447261,Deepak Chahar,19 Sep 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+447261,Deepak Chahar,22 Sep 2020,v RR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+447261,Deepak Chahar,25 Sep 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+447261,Deepak Chahar,2 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+447261,Deepak Chahar,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+447261,Deepak Chahar,7 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+447261,Deepak Chahar,10 Oct 2020,v RCB,Dubai (DICS),2,9,5*,-,5,0,0,100,not out,1,3.0,0,10,1,3.33
+447261,Deepak Chahar,13 Oct 2020,v SRH,Dubai (DICS),1,8,2*,-,2,0,0,100,not out,2,4.0,0,28,0,7
+447261,Deepak Chahar,17 Oct 2020,v DC,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+447261,Deepak Chahar,19 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,2,4.5
+447261,Deepak Chahar,23 Oct 2020,v MI,Sharjah,1,8,0,-,5,0,0,0,stumped,2,4.0,0,34,0,8.5
+447261,Deepak Chahar,25 Oct 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+447261,Deepak Chahar,29 Oct 2020,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+447261,Deepak Chahar,1 Nov 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+447261,Deepak Chahar,4 Dec 2020,v Australia,Canberra,1,9,0*,-,0,0,0,-,not out,2,4.0,0,29,1,7.25
+447261,Deepak Chahar,6 Dec 2020,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+447261,Deepak Chahar,8 Dec 2020,v Australia,Sydney,2,9,0*,-,0,0,0,-,not out,1,4.0,0,34,0,8.5
+447261,Deepak Chahar,11 Jan 2021,v Vidarbha,Indore,2,8,10,16,10,0,1,100,caught,1,3.3,1,10,3,2.85
+447261,Deepak Chahar,13 Jan 2021,v M. Pradesh,Indore,1,7,6,-,7,0,0,85.71,bowled,2,4.0,0,40,0,10
+447261,Deepak Chahar,15 Jan 2021,v Services,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+447261,Deepak Chahar,19 Jan 2021,v Saurashtra,Indore,1,7,2*,-,3,0,0,66.66,not out,2,4.0,0,36,0,9
+447261,Deepak Chahar,10 Apr 2021,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+447261,Deepak Chahar,16 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,13,4,3.25
+447261,Deepak Chahar,19 Apr 2021,v RR,Wankhede,1,11,0*,2,0,0,0,-,not out,2,3.0,0,32,0,10.66
+447261,Deepak Chahar,21 Apr 2021,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,4,7.25
+447261,Deepak Chahar,25 Apr 2021,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+447261,Deepak Chahar,28 Apr 2021,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+447261,Deepak Chahar,1 May 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+447261,Deepak Chahar,25 Jul 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+447261,Deepak Chahar,19 Sep 2021,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+447261,Deepak Chahar,24 Sep 2021,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+447261,Deepak Chahar,26 Sep 2021,v KKR,Abu Dhabi,2,10,1*,2,1,0,0,100,not out,1,4.0,0,32,0,8
+447261,Deepak Chahar,30 Sep 2021,v SRH,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+447261,Deepak Chahar,4 Oct 2021,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+447261,Deepak Chahar,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,1,12
+447261,Deepak Chahar,10 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+447261,Deepak Chahar,15 Oct 2021,v KKR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+447261,Deepak Chahar,17 Nov 2021,v New Zealand,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+447261,Deepak Chahar,19 Nov 2021,v New Zealand,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+447261,Deepak Chahar,21 Nov 2021,v New Zealand,Eden Gardens,1,9,21*,8,8,2,1,262.5,not out,2,2.2,0,26,1,11.14
+447261,Deepak Chahar,16 Feb 2022,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+447261,Deepak Chahar,18 Feb 2022,v West Indies,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+447261,Deepak Chahar,20 Feb 2022,v West Indies,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.5,0,15,2,8.18
+447261,Deepak Chahar,8 Sep 2022,v Afghanistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+447261,Deepak Chahar,28 Sep 2022,v South Africa,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+447261,Deepak Chahar,2 Oct 2022,v South Africa,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,1,24,0,6
+447261,Deepak Chahar,4 Oct 2022,v South Africa,Indore,2,9,31,26,17,2,3,182.35,caught,1,4.0,0,48,1,12
+447261,Deepak Chahar,31 Mar 2023,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+447261,Deepak Chahar,3 Apr 2023,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,0,13.75
+447261,Deepak Chahar,8 Apr 2023,v MI,Wankhede,2,-,sub,-,-,-,-,-,-,1,1.0,0,10,0,10
+447261,Deepak Chahar,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+447261,Deepak Chahar,6 May 2023,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,2,6
+447261,Deepak Chahar,10 May 2023,v DC,Chennai,1,9,1*,6,2,0,0,50,not out,2,3.0,0,28,2,9.33
+447261,Deepak Chahar,14 May 2023,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,3,9
+447261,Deepak Chahar,20 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+447261,Deepak Chahar,23 May 2023,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+447261,Deepak Chahar,28 May 2023,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+447261,Deepak Chahar,17 Oct 2023,v Bengal,Mohali,2,8,1,-,3,0,0,33.33,run out,1,4.0,0,37,2,9.25
+447261,Deepak Chahar,19 Oct 2023,v Vidarbha,Mohali,1,8,26*,-,11,1,2,236.36,not out,2,4.0,0,31,2,7.75
+447261,Deepak Chahar,21 Oct 2023,v Jharkhand,New Chandigarh,1,6,13,-,10,2,0,130,caught,2,4.0,0,32,1,8
+447261,Deepak Chahar,25 Oct 2023,v Uttarakhand,Mohali,2,7,27*,-,14,2,1,192.85,not out,1,3.5,0,25,3,6.52
+447261,Deepak Chahar,27 Oct 2023,v Maharashtra,New Chandigarh,1,5,0,-,1,0,0,0,caught,2,3.0,0,14,2,4.66
+447261,Deepak Chahar,1 Dec 2023,v Australia,Raipur,1,8,0,5,2,0,0,0,caught,2,4.0,0,44,2,11
+447261,Deepak Chahar,22 Mar 2024,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+447261,Deepak Chahar,26 Mar 2024,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+447261,Deepak Chahar,31 Mar 2024,v DC,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+447261,Deepak Chahar,5 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.1,0,32,1,10.1
+447261,Deepak Chahar,19 Apr 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+447261,Deepak Chahar,23 Apr 2024,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,1,5.5
+447261,Deepak Chahar,28 Apr 2024,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+447261,Deepak Chahar,1 May 2024,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,0.2,0,4,0,12
+447261,Deepak Chahar,23 Nov 2024,v Bihar,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+447261,Deepak Chahar,25 Nov 2024,v Mizoram,Saurashtra,1,7,2*,-,3,0,0,66.66,not out,2,4.0,0,33,0,8.25
+447261,Deepak Chahar,27 Nov 2024,v Hyderabad,Rajkot,1,7,14,-,11,1,0,127.27,caught,2,4.0,0,35,1,8.75
+447261,Deepak Chahar,1 Dec 2024,v M. Pradesh,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+447261,Deepak Chahar,3 Dec 2024,v Punjab,Saurashtra,1,7,12,-,11,0,1,109.09,caught,2,4.0,0,30,2,7.5
+447261,Deepak Chahar,5 Dec 2024,v Bengal,Rajkot,1,7,11,-,9,2,0,122.22,caught,2,4.0,0,30,0,7.5
+447261,Deepak Chahar,23 Mar 2025,v CSK,Chennai,1,9,28*,19,15,2,2,186.66,not out,2,2.0,0,18,1,9
+447261,Deepak Chahar,29 Mar 2025,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+447261,Deepak Chahar,31 Mar 2025,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,2,9.5
+447261,Deepak Chahar,4 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+447261,Deepak Chahar,7 Apr 2025,v RCB,Wankhede,2,9,0,1,1,0,0,0,caught,1,2.0,0,29,0,14.5
+447261,Deepak Chahar,13 Apr 2025,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+447261,Deepak Chahar,17 Apr 2025,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+447261,Deepak Chahar,20 Apr 2025,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+447261,Deepak Chahar,23 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,2,3
+447261,Deepak Chahar,27 Apr 2025,v LSG,Wankhede,1,9,1*,1,1,0,0,100,not out,2,3.0,0,38,0,12.66
+447261,Deepak Chahar,1 May 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+447261,Deepak Chahar,6 May 2025,v GT,Wankhede,1,9,8*,20,8,1,0,100,not out,2,3.0,0,32,1,10.66
+447261,Deepak Chahar,21 May 2025,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+447261,Deepak Chahar,26 May 2025,v Punjab Kings,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,1,28,0,9.33

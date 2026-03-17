@@ -1,0 +1,255 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+337790,Rassie van der Dussen,27 Jan 2013,v E. Province,Gqeberha,1,1,36,57,37,1,2,97.29,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Feb 2013,v S West D,Potchefstroom,2,1,112*,82,76,10,5,147.36,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Feb 2013,v KZ-Natal,Durban,1,1,68,86,58,6,3,117.24,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Mar 2013,v Boland,Potchefstroom,2,1,27,25,20,6,0,135,stumped,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Mar 2013,v KZN-Inland,Potchefstroom,2,1,38,45,33,2,2,115.15,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Mar 2013,v W Province,Cape Town,1,1,21,33,21,3,0,100,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Mar 2013,v Dolphins,Johannesburg,1,1,27,31,17,4,0,158.82,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Apr 2013,v Titans,Johannesburg,1,1,12,27,18,0,1,66.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Sep 2013,v Scorchers,Ahmedabad,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+337790,Rassie van der Dussen,25 Sep 2013,v RR,Jaipur,2,1,14,20,16,1,1,87.5,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Sep 2013,v MI,Jaipur,1,1,13,20,15,3,0,86.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Sep 2013,v Otago,Jaipur,1,1,17,29,24,0,1,70.83,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,5 Jan 2014,v Warriors,Cape Town,2,2,14,38,24,1,0,58.33,stumped,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Jan 2014,v Easterns,Benoni,1,3,16,41,19,0,1,84.21,bowled,2,1.0,0,4,1,4
+337790,Rassie van der Dussen,24 Jan 2014,v Knights,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+337790,Rassie van der Dussen,26 Jan 2014,v Titans,Benoni,1,3,10,7,8,1,0,125,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,31 Jan 2014,v Cape Cobras,Johannesburg,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Feb 2014,v Dolphins,Johannesburg,1,3,14,19,17,1,0,82.35,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Feb 2014,v Gauteng,Johannesburg,2,3,47,69,48,2,2,97.91,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Feb 2014,v Griq West,Potchefstroom,2,3,65,46,36,6,4,180.55,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Mar 2014,v Namibia,Potchefstroom,1,1,60,47,35,5,4,171.42,caught,2,2.0,0,13,0,6.5
+337790,Rassie van der Dussen,19 Oct 2014,v Gauteng,Potchefstroom,2,1,103*,86,64,14,2,160.93,not out,1,1.0,0,8,0,8
+337790,Rassie van der Dussen,14 Nov 2014,v Cape Cobras,Johannesburg,1,1,52,62,40,3,2,130,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Nov 2014,v Warriors,Durban,2,1,10,19,11,0,1,90.9,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Nov 2014,v Titans,Potchefstroom,1,2,101*,91,61,2,8,165.57,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,30 Nov 2014,v Dolphins,Bloemfontein,1,3,20,51,28,0,0,71.42,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Dec 2014,v Knights,Kimberley,2,2,1*,10,1,0,0,100,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Dec 2014,v Knights,Johannesburg,1,3,17,31,16,2,0,106.25,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Sep 2015,v KZN-Inland,Potchefstroom,2,1,24,46,25,3,0,96,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Sep 2015,v Border,Potchefstroom,1,1,14,21,18,3,0,77.77,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Sep 2015,v Boland,Potchefstroom,2,1,74,82,57,7,2,129.82,lbw,1,3.0,0,15,2,5
+337790,Rassie van der Dussen,1 Nov 2015,v Cape Cobras,Cape Town,2,1,55,75,48,2,3,114.58,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Nov 2015,v Dolphins,Durban,2,1,32,34,26,2,2,123.07,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Nov 2015,v Titans,Potchefstroom,1,1,27,45,31,2,0,87.09,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Nov 2015,v Warriors,Gqeberha,2,1,56,72,44,3,2,127.27,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,15 Nov 2015,v Knights,Bloemfontein,1,1,3,13,11,0,0,27.27,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Nov 2015,v Dolphins,Johannesburg,1,1,9,11,7,1,0,128.57,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,25 Nov 2015,v Knights,Potchefstroom,2,1,40,48,26,4,2,153.84,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Nov 2015,v Cape Cobras,Johannesburg,1,2,9,14,7,2,0,128.57,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Dec 2015,v Titans,Benoni,2,1,6,11,6,1,0,100,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Dec 2015,v Warriors,Johannesburg,1,1,5,6,6,0,0,83.33,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Feb 2016,v Free State,Potchefstroom,1,1,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Sep 2016,v KZN-Inland,Pietermaritzburg,2,1,31,32,24,3,1,129.16,caught,1,1.0,0,5,0,5
+337790,Rassie van der Dussen,3 Sep 2016,v Namibia,Pietermaritzburg,2,1,47,32,26,5,3,180.76,caught,1,1.0,0,10,0,10
+337790,Rassie van der Dussen,4 Sep 2016,v W Province,Pietermaritzburg,1,1,40,31,23,5,2,173.91,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,30 Sep 2016,v Northern Cpe,Oudtshoorn,1,1,85,74,54,6,5,157.4,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Nov 2016,v Titans,Johannesburg,2,2,51,44,28,2,5,182.14,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Nov 2016,v Dolphins,Durban,2,2,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,20 Nov 2016,v Cape Cobras,Potchefstroom,1,2,16,34,18,2,0,88.88,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,25 Nov 2016,v Warriors,Gqeberha,1,2,29,45,25,2,1,116,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Nov 2016,v Dolphins,Johannesburg,1,1,41,46,32,1,2,128.12,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Dec 2016,v Knights,Kimberley,1,1,24,29,21,1,2,114.28,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Dec 2016,v Warriors,Durban,1,1,50,42,25,2,5,200,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Dec 2016,v Titans,Centurion,2,1,45,20,18,3,4,250,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Dec 2016,v Knights,Potchefstroom,1,1,12,14,9,1,1,133.33,run out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Dec 2016,v Cape Cobras,Paarl,1,1,56,62,44,5,1,127.27,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Dec 2016,v Warriors,Gqeberha,1,1,21,17,15,2,1,140,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Nov 2017,v Titans,Centurion,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Nov 2017,v Cape Cobras,Johannesburg,2,1,12,16,11,1,1,109.09,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Nov 2017,v Dolphins,Potchefstroom,2,1,57,80,42,5,1,135.71,stumped,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Nov 2017,v Cape Cobras,Paarl,2,1,51,62,44,3,1,115.9,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Nov 2017,v Warriors,Cape Town,1,1,45,42,30,3,2,150,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Dec 2017,v Knights,Bloemfontein,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,8 Dec 2017,v Warriors,Potchefstroom,2,1,4,6,6,0,0,66.66,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Dec 2017,v Knights,Johannesburg,1,1,2*,-,4,0,0,50,not out,-,TDNB,-,-,-,-
+337790,Rassie van der Dussen,1 Sep 2018,v Trinbago,Basseterre,2,3,11,-,9,2,0,122.22,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Sep 2018,v Tallawahs,Basseterre,2,3,45*,-,24,4,2,187.5,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Sep 2018,v Tridents,Basseterre,2,3,4,-,2,1,0,200,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Sep 2018,v Tallawahs,Providence,2,3,20,-,22,3,0,90.9,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Sep 2018,v Trinbago,Tarouba,2,3,14,-,18,2,0,77.77,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Oct 2018,v Zimbabwe,East London,1,4,56,69,44,5,1,127.27,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Oct 2018,v Zimbabwe,Potchefstroom,2,1,13,14,8,1,1,162.5,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Nov 2018,v Giants,Johannesburg,1,3,23,27,19,1,1,121.05,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,20 Nov 2018,v Paarl Rocks,Paarl,1,2,78,84,49,3,4,159.18,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Nov 2018,v Blitz,Johannesburg,2,3,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Nov 2018,v Spartans,Centurion,1,3,18,23,18,0,0,100,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,30 Nov 2018,v Durban Heat,Johannesburg,1,3,37,30,21,0,4,176.19,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Dec 2018,v Giants,Gqeberha,1,3,19,24,22,1,0,86.36,run out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Dec 2018,v Blitz,Cape Town,1,3,42,55,39,2,2,107.69,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Dec 2018,v Durban Heat,Durban,2,4,14,26,15,0,1,93.33,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Dec 2018,v Paarl Rocks,Johannesburg,1,3,83*,84,55,6,4,150.9,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Dec 2018,v Spartans,Johannesburg,1,3,96*,74,44,6,6,218.18,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Dec 2018,v Paarl Rocks,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+337790,Rassie van der Dussen,16 Dec 2018,v Blitz,Cape Town,2,3,59*,62,54,8,1,109.25,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Feb 2019,v Pakistan,Cape Town,1,4,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Feb 2019,v Pakistan,Johannesburg,1,3,45,40,27,1,4,166.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Feb 2019,v Pakistan,Centurion,2,3,41,53,35,2,2,117.14,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Mar 2019,v Sri Lanka,Cape Town,2,4,34,48,30,1,1,113.33,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Mar 2019,v Sri Lanka,Centurion,1,3,64,62,44,4,3,145.45,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Apr 2019,v Cape Cobras,Johannesburg,2,3,5,13,7,0,0,71.42,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Apr 2019,v Dolphins,Durban,1,3,18,37,24,0,1,75,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Apr 2019,v Knights,Potchefstroom,1,3,7,14,12,0,0,58.33,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Apr 2019,v Warriors,East London,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,18 Apr 2019,v Titans,Johannesburg,1,3,85,69,47,6,3,180.85,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Apr 2019,v Warriors,Johannesburg,1,3,2,6,6,0,0,33.33,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Apr 2019,v Cape Cobras,Cape Town,2,4,59*,50,36,2,4,163.88,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Apr 2019,v Titans,Centurion,2,4,30*,39,19,3,1,157.89,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 May 2019,v Dolphins,Johannesburg,2,4,69*,60,49,5,3,140.81,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,5 May 2019,v Warriors,Johannesburg,1,4,73,77,41,3,5,178.04,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,18 Sep 2019,v India,Mohali,1,4,1,5,2,0,0,50,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Sep 2019,v India,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,8 Nov 2019,v Blitz,Johannesburg,2,4,31,27,21,4,0,147.61,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Nov 2019,v Giants,Gqeberha,2,4,17,21,13,1,1,130.76,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Nov 2019,v Blitz,Cape Town,2,4,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Nov 2019,v Giants,Johannesburg,1,4,4,5,4,1,0,100,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Nov 2019,v Paarl Rocks,Paarl,1,4,30*,41,29,1,0,103.44,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Nov 2019,v Spartans,Johannesburg,2,4,20,39,20,1,1,100,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Dec 2019,v Paarl Rocks,Johannesburg,1,4,28*,32,20,0,2,140,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Feb 2020,v England,East London,1,3,31,31,26,3,1,119.23,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Feb 2020,v England,Durban,2,4,43*,69,26,2,3,165.38,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Feb 2020,v England,Centurion,1,3,11,15,9,1,0,122.22,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Feb 2020,v Australia,Johannesburg,2,2,6,15,10,1,0,60,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Feb 2020,v Australia,Gqeberha,1,4,37,38,26,2,2,142.3,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Feb 2020,v Australia,Cape Town,2,2,24,40,19,3,0,126.31,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Nov 2020,v England,Cape Town,1,4,37,-,28,0,3,132.14,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Nov 2020,v England,Paarl,1,5,25*,-,29,0,0,86.2,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Dec 2020,v England,Cape Town,1,5,74*,-,32,5,5,231.25,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,20 Feb 2021,v Warriors,Durban,2,4,64,67,41,3,4,156.09,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Feb 2021,v Titans,Durban,1,4,37*,-,24,2,2,154.16,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Feb 2021,v Knights,Durban,2,5,5*,-,3,1,0,166.66,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Feb 2021,v Dolphins,Durban,2,4,33,-,29,2,1,113.79,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Feb 2021,v Cape Cobras,Durban,2,4,8*,-,15,0,0,53.33,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Feb 2021,v Warriors,Durban,2,4,17,-,21,0,0,80.95,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Feb 2021,v Dolphins,Durban,2,4,3,-,4,0,0,75,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Apr 2021,v Pakistan,Centurion,1,4,34*,35,20,1,2,170,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Apr 2021,v Pakistan,Centurion,1,3,52,58,36,5,2,144.44,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Jun 2021,v West Indies,St George's,1,4,56*,68,38,4,2,147.36,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Jun 2021,v West Indies,St George's,1,5,2,15,4,0,0,50,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Jun 2021,v West Indies,St George's,1,5,32,55,24,2,1,133.33,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Jul 2021,v West Indies,St George's,2,5,6,10,7,0,0,85.71,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Jul 2021,v West Indies,St George's,1,5,1,7,2,0,0,50,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Jul 2021,v Ireland,Dublin (Malahide),1,5,25,21,18,2,1,138.88,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Jul 2021,v Ireland,Belfast,1,5,6,28,15,0,0,40,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Oct 2021,v Australia,Abu Dhabi,1,3,2,5,3,0,0,66.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Oct 2021,v West Indies,Dubai (DICS),2,3,43*,91,51,3,0,84.31,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,30 Oct 2021,v Sri Lanka,Sharjah,2,3,16,26,11,0,0,145.45,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Nov 2021,v Bangladesh,Abu Dhabi,2,3,22,60,27,2,0,81.48,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Nov 2021,v England,Sharjah,1,3,94*,93,60,5,6,156.66,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Apr 2022,v LSG,Wankhede,1,4,4,9,4,1,0,100,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Apr 2022,v GT,DY Patil,2,5,6,30,10,0,0,60,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 May 2022,v DC,DY Patil,1,7,12*,14,10,1,0,120,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Jun 2022,v India,Delhi,2,4,75*,72,46,7,5,163.04,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Jun 2022,v India,Cuttack,2,4,1,15,7,0,0,14.28,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Jun 2022,v India,Visakhapatnam,2,4,1,5,4,0,0,25,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Jun 2022,v India,Rajkot,2,4,20,40,20,2,0,100,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Jun 2022,v India,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Aug 2022,v Ireland,Bristol,1,3,10,12,7,2,0,142.85,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,5 Aug 2022,v Ireland,Bristol,1,3,4,-,14,0,0,28.57,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Jan 2023,v Paarl Royals,Cape Town,2,4,8*,9,3,0,1,266.66,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Jan 2023,v Super Giants,Cape Town,1,4,1,13,3,0,0,33.33,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Jan 2023,v Super Kings,Cape Town,2,3,14*,39,23,1,0,60.86,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Jan 2023,v Sunrisers,Gqeberha,1,5,29,-,22,4,1,131.81,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,18 Jan 2023,v Sunrisers,Cape Town,1,5,4,14,5,0,0,80,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Jan 2023,v Paarl Royals,Paarl,1,5,49,82,42,4,1,116.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Jan 2023,v Capitals,Cape Town,2,4,24,-,25,0,1,96,lbw,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Feb 2023,v Super Giants,Durban,1,3,43,56,32,5,1,134.37,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Feb 2023,v Capitals,Centurion,1,1,51,60,29,4,4,175.86,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Feb 2023,v Super Kings,Johannesburg,2,1,20,37,15,2,0,133.33,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Feb 2023,v Kings,Karachi,2,3,31,38,25,4,1,124,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Feb 2023,v Sultans,Multan,2,3,49,73,32,5,1,153.12,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Feb 2023,v Zalmi,Karachi,2,3,42,54,29,6,0,144.82,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Feb 2023,v Gladiators,Karachi,1,3,1,10,4,0,0,25,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Feb 2023,v Qalandars,Lahore,2,3,3,15,6,0,0,50,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Mar 2023,v Kings,Rawalpindi,2,3,22,31,20,1,0,110,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,30 Aug 2023,v Australia,Durban,2,3,21,18,11,2,2,190.9,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Sep 2023,v Australia,Durban,1,3,6,6,7,0,1,85.71,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Jan 2024,v Super Giants,Durban,1,1,24,37,20,1,1,120,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Jan 2024,v Super Kings,Johannesburg,1,1,104,70,50,9,6,208,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Jan 2024,v Sunrisers,Cape Town,2,1,41,49,28,3,2,146.42,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Jan 2024,v Paarl Royals,Cape Town,2,1,41,35,28,4,2,146.42,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Jan 2024,v Paarl Royals,Paarl,2,2,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Jan 2024,v Super Giants,Cape Town,2,1,19,25,18,2,0,105.55,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Jan 2024,v Sunrisers,Gqeberha,2,1,2,8,3,0,0,66.66,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Jan 2024,v Super Kings,Cape Town,1,1,16,21,18,0,1,88.88,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,1 Feb 2024,v Capitals,Centurion,1,1,21,23,9,0,3,233.33,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Feb 2024,v Capitals,Cape Town,1,1,60,79,46,4,1,130.43,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Feb 2024,v United,Lahore,1,3,71*,64,41,4,3,173.17,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Feb 2024,v Gladiators,Lahore,1,3,15,32,16,2,0,93.75,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Feb 2024,v Sultans,Multan,1,3,54,53,37,4,2,145.94,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Feb 2024,v Kings,Lahore,1,3,26,29,23,3,0,113.04,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,25 Feb 2024,v Zalmi,Lahore,2,3,104*,95,52,7,6,200,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Feb 2024,v Sultans,Lahore,2,3,30,40,22,1,1,136.36,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Mar 2024,v United,Rawalpindi,1,3,64,81,44,4,4,145.45,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,8 Mar 2024,v Boland,Johannesburg,1,4,42*,41,22,3,2,190.9,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Mar 2024,v North West,Potchefstroom (Uni),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Mar 2024,v Dolphins,Durban,1,1,28,30,21,3,1,133.33,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,15 Mar 2024,v Titans,Johannesburg,1,1,8,17,9,1,0,88.88,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Mar 2024,v W Province,Johannesburg,2,1,14,24,15,0,1,93.33,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Mar 2024,v KZN-Inland,Johannesburg,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Mar 2024,v Warriors,Johannesburg,2,3,43,58,31,2,2,138.7,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,31 Mar 2024,v Boland,Paarl,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,3 Apr 2024,v W Province,Cape Town,1,3,29*,26,18,0,3,161.11,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,5 Apr 2024,v Dolphins,Johannesburg,2,3,14,23,13,1,0,107.69,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,17 Apr 2024,v Warriors,Gqeberha,1,3,17,21,17,0,1,100,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Apr 2024,v Titans,Centurion,1,3,6,9,7,1,0,85.71,lbw,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Apr 2024,v KZN-Inland,Johannesburg,2,4,51*,48,35,2,3,145.71,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,24 Apr 2024,v Titans,Johannesburg,2,3,73*,65,45,8,1,162.22,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Apr 2024,v Dolphins,Johannesburg,2,3,6,13,8,0,0,75,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 May 2024,v West Indies,Kingston,2,5,17,25,17,1,0,100,lbw,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,25 May 2024,v West Indies,Kingston,2,5,30,30,22,0,2,136.36,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 May 2024,v West Indies,Kingston,1,5,51,50,31,1,5,164.51,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Aug 2024,v West Indies,Tarouba,1,5,5,8,9,0,0,55.55,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,25 Aug 2024,v West Indies,Tarouba,2,5,17,41,24,0,0,70.83,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Oct 2024,v W Province,Johannesburg,1,3,43,47,33,3,3,130.3,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Oct 2024,v North West,Potchefstroom,1,3,59,57,38,4,3,155.26,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Oct 2024,v Titans,Johannesburg,2,3,40*,62,37,4,0,108.1,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,27 Oct 2024,v Titans,Johannesburg,2,3,44*,60,31,7,1,141.93,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Dec 2024,v Pakistan,Durban,1,2,0,3,1,0,0,0,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Dec 2024,v Pakistan,Centurion,2,4,66*,83,38,3,5,173.68,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,9 Jan 2025,v Sunrisers,Gqeberha,1,1,16,33,15,1,1,106.66,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Jan 2025,v Super Kings,Johannesburg,1,1,4,20,10,0,0,40,run out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,13 Jan 2025,v Paarl Royals,Cape Town,1,2,43,52,33,3,2,130.3,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,15 Jan 2025,v Paarl Royals,Paarl,1,1,91*,84,64,5,5,142.18,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,18 Jan 2025,v Super Kings,Cape Town,2,1,39,27,24,4,1,162.5,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Jan 2025,v Super Giants,Durban,1,1,35*,43,32,3,1,109.37,not out,-,TDNB,-,-,-,-
+337790,Rassie van der Dussen,25 Jan 2025,v Super Giants,Cape Town,2,2,24,31,18,0,2,133.33,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,29 Jan 2025,v Sunrisers,Cape Town,2,1,48*,46,30,4,2,160,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,31 Jan 2025,v Capitals,Centurion,1,1,30,28,20,1,3,150,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Feb 2025,v Paarl Royals,Gqeberha,1,2,40,37,32,3,2,125,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,8 Feb 2025,v Sunrisers,Johannesburg,1,1,23,36,25,0,2,92,stumped,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 May 2025,v Kings,Rawalpindi,1,3,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 May 2025,v Gladiators,Lahore,2,3,35,-,23,4,2,152.17,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 May 2025,v Qalandars,Lahore,2,3,7,-,7,1,0,100,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Jul 2025,v Zimbabwe,Harare,2,3,16,27,13,1,2,123.07,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Jul 2025,v New Zealand,Harare,2,5,6,13,8,0,0,75,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,20 Jul 2025,v Zimbabwe,Harare,2,3,52*,76,41,6,0,126.82,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,22 Jul 2025,v New Zealand,Harare,1,1,14,10,13,3,0,107.69,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Jul 2025,v New Zealand,Harare,2,3,18,22,17,2,0,105.88,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Aug 2025,v Australia,Darwin,1,6,5,6,3,1,0,166.66,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Aug 2025,v Australia,Cairns,1,6,38*,38,26,3,0,146.15,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Sep 2025,v Amazon,Bridgetown,1,4,45,67,37,1,2,121.62,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,5 Sep 2025,v Falcons,Bridgetown,1,5,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,7 Sep 2025,v Kings,Bridgetown,1,4,20,28,22,0,1,90.9,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Sep 2025,v Patriots,Bridgetown,2,4,37*,66,27,2,1,137.03,not out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Sep 2025,v Trinbago,Bridgetown,2,3,7,26,15,0,0,46.66,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,14 Sep 2025,v Amazon,Providence,2,3,4,13,9,0,0,44.44,bowled,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Nov 2025,v Boland,Johannesburg,2,3,22,19,17,1,2,129.41,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,8 Nov 2025,v KZN-Inland,Johannesburg,2,3,44,38,30,7,1,146.66,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,11 Nov 2025,v Warriors,Gqeberha,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,19 Nov 2025,v North West,Johannesburg,2,1,66,77,45,4,3,146.66,run out,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,21 Nov 2025,v W Province,Cape Town,1,1,49,52,42,5,1,116.66,bowled,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,23 Nov 2025,v Dolphins,Durban,1,1,94*,88,56,4,6,167.85,not out,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,26 Dec 2025,v Super Giants,Cape Town,2,1,2,11,6,0,0,33.33,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,28 Dec 2025,v Super Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,31 Dec 2025,v Capitals,Cape Town,2,1,28,40,20,2,2,140,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,2 Jan 2026,v Paarl Royals,Paarl,2,2,59,51,42,2,5,140.47,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,4 Jan 2026,v Paarl Royals,Cape Town,1,2,14,19,11,1,1,127.27,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,6 Jan 2026,v Super Kings,Cape Town,2,1,35,59,24,0,3,145.83,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,10 Jan 2026,v Super Kings,Johannesburg,1,1,65,53,32,4,6,203.12,caught,2,DNB,-,-,-,-
+337790,Rassie van der Dussen,12 Jan 2026,v Capitals,Centurion,2,1,15,10,13,2,1,115.38,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,16 Jan 2026,v Sunrisers,Cape Town,2,1,8,13,12,1,0,66.66,caught,1,DNB,-,-,-,-
+337790,Rassie van der Dussen,18 Jan 2026,v Sunrisers,Gqeberha,1,1,21,45,24,0,1,87.5,bowled,2,DNB,-,-,-,-

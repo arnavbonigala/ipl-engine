@@ -1,0 +1,93 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+424377,Krishnappa Gowtham,16 Oct 2011,v Goa,Chennai,1,8,4,2,2,0,0,200,caught,2,1.0,0,12,0,12
+424377,Krishnappa Gowtham,17 Oct 2011,v Kerala,Chennai,1,6,5,7,7,1,0,71.42,bowled,2,3.0,0,16,0,5.33
+424377,Krishnappa Gowtham,18 Oct 2011,v Tamil Nadu,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+424377,Krishnappa Gowtham,17 Mar 2013,v Goa,Shimoga,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+424377,Krishnappa Gowtham,18 Mar 2013,v Kerala,Bhadravati,1,6,6*,-,5,1,0,120,not out,2,4.0,0,17,1,4.25
+424377,Krishnappa Gowtham,19 Mar 2013,v Tamil Nadu,Shimoga,1,9,4*,4,1,1,0,400,not out,2,3.0,0,22,0,7.33
+424377,Krishnappa Gowtham,21 Mar 2013,v Hyderabad,Bhadravati,1,6,0,-,0,0,0,-,run out,2,4.0,0,19,4,4.75
+424377,Krishnappa Gowtham,22 Mar 2013,v Andhra,Shimoga,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+424377,Krishnappa Gowtham,26 Mar 2013,v Punjab,Indore,2,9,2,-,3,0,0,66.66,caught,1,4.0,0,10,1,2.5
+424377,Krishnappa Gowtham,28 Mar 2013,v UP,Indore,2,9,9,8,7,1,0,128.57,caught,1,4.0,0,41,1,10.25
+424377,Krishnappa Gowtham,29 Mar 2013,v Bengal,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+424377,Krishnappa Gowtham,30 Mar 2013,v Baroda,Indore,1,10,24,18,17,3,1,141.17,caught,2,2.0,0,19,0,9.5
+424377,Krishnappa Gowtham,3 Apr 2014,v Kerala,Visakhapatnam,2,8,12,10,6,0,2,200,caught,1,2.0,0,16,0,8
+424377,Krishnappa Gowtham,4 Apr 2014,v Goa,Visakhapatnam,2,5,4,5,4,1,0,100,bowled,1,3.0,0,34,0,11.33
+424377,Krishnappa Gowtham,5 Apr 2014,v Tamil Nadu,Visakhapatnam,1,8,22,-,10,2,2,220,caught,2,2.0,0,14,1,7
+424377,Krishnappa Gowtham,29 Jan 2017,v Tamil Nadu,Chennai,1,9,16,8,7,2,1,228.57,caught,2,4.0,0,25,2,6.25
+424377,Krishnappa Gowtham,30 Jan 2017,v Kerala,Chennai,1,3,60,45,29,7,3,206.89,caught,2,4.0,0,31,1,7.75
+424377,Krishnappa Gowtham,31 Jan 2017,v Andhra,Chennai,1,6,16,17,11,1,1,145.45,caught,2,4.0,0,30,1,7.5
+424377,Krishnappa Gowtham,2 Feb 2017,v Hyderabad,Chennai,1,6,2,2,3,0,0,66.66,caught,2,4.0,0,30,0,7.5
+424377,Krishnappa Gowtham,3 Feb 2017,v Goa,Chennai,2,3,19,21,11,2,1,172.72,caught,1,3.0,0,12,1,4
+424377,Krishnappa Gowtham,8 Jan 2018,v Goa,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+424377,Krishnappa Gowtham,9 Jan 2018,v Andhra,Vizianagaram,1,10,1*,8,2,0,0,50,not out,2,3.0,0,24,0,8
+424377,Krishnappa Gowtham,11 Jan 2018,v Hyderabad,Visakhapatnam,1,3,57,53,31,3,3,183.87,caught,2,3.0,0,35,1,11.66
+424377,Krishnappa Gowtham,12 Jan 2018,v Tamil Nadu,Vizianagaram,1,3,0,2,3,0,0,0,caught,2,3.0,0,14,2,4.66
+424377,Krishnappa Gowtham,14 Jan 2018,v Kerala,Vizianagaram,1,6,21,15,12,2,1,175,run out,2,2.0,0,26,0,13
+424377,Krishnappa Gowtham,21 Jan 2018,v Punjab,Kolkata,1,3,13,9,11,3,0,118.18,caught,2,4.0,0,24,0,6
+424377,Krishnappa Gowtham,23 Jan 2018,v Rajasthan,Kolkata,2,8,13,16,12,0,1,108.33,stumped,1,2.0,0,13,0,6.5
+424377,Krishnappa Gowtham,9 Apr 2018,v SRH,Hyderabad,1,7,0,-,2,0,0,0,caught,2,1.0,0,9,0,9
+424377,Krishnappa Gowtham,11 Apr 2018,v Daredevils,Jaipur,1,7,2*,-,1,0,0,200,not out,2,1.0,0,10,0,10
+424377,Krishnappa Gowtham,15 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+424377,Krishnappa Gowtham,18 Apr 2018,v KKR,Jaipur,1,7,12,-,7,0,1,171.42,caught,2,4.0,0,23,2,5.75
+424377,Krishnappa Gowtham,20 Apr 2018,v CSK,Pune,2,8,1,-,2,0,0,50,caught,1,3.0,0,35,0,11.66
+424377,Krishnappa Gowtham,22 Apr 2018,v MI,Jaipur,2,8,33*,-,11,4,2,300,not out,1,3.0,0,20,0,6.66
+424377,Krishnappa Gowtham,29 Apr 2018,v SRH,Jaipur,2,7,8,-,5,1,0,160,caught,1,4.0,0,18,2,4.5
+424377,Krishnappa Gowtham,2 May 2018,v Daredevils,Delhi,2,6,18*,-,6,2,1,300,not out,1,2.0,0,27,0,13.5
+424377,Krishnappa Gowtham,6 May 2018,v Kings XI,Indore,1,8,5,-,3,1,0,166.66,caught,2,3.0,0,18,1,6
+424377,Krishnappa Gowtham,8 May 2018,v Kings XI,Jaipur,1,3,8,-,6,0,1,133.33,caught,2,3.0,0,12,2,4
+424377,Krishnappa Gowtham,11 May 2018,v CSK,Jaipur,2,7,13,-,4,0,2,325,caught,1,3.0,0,28,0,9.33
+424377,Krishnappa Gowtham,13 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+424377,Krishnappa Gowtham,15 May 2018,v KKR,Eden Gardens,1,7,3,-,5,0,0,60,caught,2,2.0,0,32,0,16
+424377,Krishnappa Gowtham,19 May 2018,v RCB,Jaipur,1,6,14,-,5,0,2,280,run out,2,2.0,0,6,1,3
+424377,Krishnappa Gowtham,23 May 2018,v KKR,Eden Gardens,2,6,9*,-,7,1,0,128.57,not out,1,3.0,0,15,2,5
+424377,Krishnappa Gowtham,25 Mar 2019,v Kings XI,Jaipur,2,7,3,12,4,0,0,75,caught,1,4.0,0,32,1,8
+424377,Krishnappa Gowtham,29 Mar 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+424377,Krishnappa Gowtham,31 Mar 2019,v CSK,Chennai,2,7,9,-,8,0,1,112.5,caught,1,2.0,0,13,0,6.5
+424377,Krishnappa Gowtham,2 Apr 2019,v RCB,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+424377,Krishnappa Gowtham,7 Apr 2019,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,22,0,22
+424377,Krishnappa Gowtham,13 Apr 2019,v MI,Wankhede,2,8,0*,10,1,0,0,0,not out,1,3.0,0,39,0,13
+424377,Krishnappa Gowtham,4 May 2019,v DC,Delhi,1,8,6,7,6,1,0,100,caught,2,4.0,0,16,0,4
+424377,Krishnappa Gowtham,8 Nov 2019,v Uttarakhand,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+424377,Krishnappa Gowtham,9 Nov 2019,v Baroda,Visakhapatnam,2,6,1,-,2,0,0,50,caught,1,3.0,0,22,2,7.33
+424377,Krishnappa Gowtham,11 Nov 2019,v Andhra,Visakhapatnam,2,3,35,-,17,5,1,205.88,caught,1,4.0,0,33,0,8.25
+424377,Krishnappa Gowtham,12 Nov 2019,v Services,Vizianagaram,1,4,23,-,15,2,1,153.33,caught,2,4.0,0,48,1,12
+424377,Krishnappa Gowtham,25 Nov 2019,v Mumbai,Surat,1,7,8*,-,9,1,0,88.88,not out,2,4.0,0,22,0,5.5
+424377,Krishnappa Gowtham,29 Nov 2019,v Haryana,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+424377,Krishnappa Gowtham,1 Dec 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+424377,Krishnappa Gowtham,20 Sep 2020,v DC,Dubai (DICS),2,7,20,-,14,1,1,142.85,caught,1,4.0,0,39,0,9.75
+424377,Krishnappa Gowtham,1 Oct 2020,v MI,Abu Dhabi,2,8,22*,-,13,2,1,169.23,not out,1,4.0,0,45,1,11.25
+424377,Krishnappa Gowtham,10 Jan 2021,v J & K,Alur,1,7,1*,-,1,0,0,100,not out,2,4.0,0,13,2,3.25
+424377,Krishnappa Gowtham,12 Jan 2021,v Punjab,Alur,1,3,13,-,13,1,0,100,bowled,2,4.0,0,28,1,7
+424377,Krishnappa Gowtham,14 Jan 2021,v Tripura,Alur (3),1,6,5,-,3,1,0,166.66,caught,2,3.0,0,26,1,8.66
+424377,Krishnappa Gowtham,16 Jan 2021,v Railways,Alur (2),2,8,12,-,9,0,1,133.33,caught,1,3.0,0,16,0,5.33
+424377,Krishnappa Gowtham,4 Nov 2021,v Mumbai,Guwahati,1,5,0*,-,0,0,0,-,not out,2,4.0,0,26,2,6.5
+424377,Krishnappa Gowtham,5 Nov 2021,v Chhattisgarh,Guwahati,2,7,2,-,3,0,0,66.66,caught,1,4.0,0,26,2,6.5
+424377,Krishnappa Gowtham,6 Nov 2021,v Services,Guwahati,1,6,7,-,3,0,1,233.33,caught,2,4.0,0,19,1,4.75
+424377,Krishnappa Gowtham,8 Nov 2021,v Baroda,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+424377,Krishnappa Gowtham,9 Nov 2021,v Bengal,Guwahati,1,7,7,-,11,0,0,63.63,caught,2,4.0,0,20,0,5
+424377,Krishnappa Gowtham,7 Apr 2022,v DC,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+424377,Krishnappa Gowtham,10 Apr 2022,v RR,Wankhede,2,3,0,3,1,0,0,0,lbw,1,4.0,0,30,2,7.5
+424377,Krishnappa Gowtham,1 May 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+424377,Krishnappa Gowtham,18 May 2022,v KKR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+424377,Krishnappa Gowtham,11 Oct 2022,v Maharashtra,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+424377,Krishnappa Gowtham,12 Oct 2022,v Kerala,Mohali,2,8,2,-,3,0,0,66.66,caught,1,3.0,0,19,0,6.33
+424377,Krishnappa Gowtham,14 Oct 2022,v Meghalaya,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+424377,Krishnappa Gowtham,16 Oct 2022,v J & K,New Chandigarh,1,8,2,-,4,0,0,50,caught,2,4.0,0,20,0,5
+424377,Krishnappa Gowtham,18 Oct 2022,v Arunachal,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+424377,Krishnappa Gowtham,20 Oct 2022,v Services,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+424377,Krishnappa Gowtham,22 Oct 2022,v Haryana,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+424377,Krishnappa Gowtham,1 Nov 2022,v Punjab,Eden Gardens,2,8,30*,24,14,2,2,214.28,not out,1,4.0,0,49,1,12.25
+424377,Krishnappa Gowtham,1 Apr 2023,v DC,Lucknow,1,8,6*,2,1,0,1,600,not out,2,4.0,0,23,0,5.75
+424377,Krishnappa Gowtham,3 Apr 2023,v CSK,Chennai,2,8,17*,26,11,0,1,154.54,not out,1,1.0,0,20,0,20
+424377,Krishnappa Gowtham,15 Apr 2023,v Punjab Kings,Lucknow,1,8,1,7,2,0,0,50,caught,2,4.0,0,31,1,7.75
+424377,Krishnappa Gowtham,1 May 2023,v RCB,Lucknow,2,7,23,20,13,1,2,176.92,run out,1,2.0,0,10,1,5
+424377,Krishnappa Gowtham,3 May 2023,v CSK,Lucknow,1,8,1,10,3,0,0,33.33,caught,-,TDNB,-,-,-,-
+424377,Krishnappa Gowtham,20 May 2023,v KKR,Eden Gardens,1,8,11*,9,4,1,1,275,not out,2,4.0,0,26,1,6.5
+424377,Krishnappa Gowtham,24 May 2023,v MI,Chennai,2,8,2,3,3,0,0,66.66,run out,1,1.0,0,8,0,8
+424377,Krishnappa Gowtham,19 Oct 2023,v M. Pradesh,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+424377,Krishnappa Gowtham,21 Oct 2023,v Delhi,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+424377,Krishnappa Gowtham,23 Oct 2023,v Nagaland,Dehradun,2,-,DNB,-,-,-,-,-,-,1,2.0,0,2,1,1
+424377,Krishnappa Gowtham,25 Oct 2023,v UP,Dehradun,2,8,15*,-,7,2,1,214.28,not out,1,4.0,0,35,2,8.75
+424377,Krishnappa Gowtham,27 Oct 2023,v Tripura,Dehradun,1,8,14*,-,8,3,0,175,not out,2,4.0,0,30,2,7.5
+424377,Krishnappa Gowtham,8 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5

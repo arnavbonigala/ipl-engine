@@ -1,0 +1,529 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+249866,Alex Hales,25 May 2009,v Durham,Nottingham,1,2,0,4,2,0,0,0,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,28 May 2009,v Lancashire,Manchester,2,2,5,10,6,1,0,83.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 May 2009,v Derbyshire,Derby,2,2,15,19,12,3,0,125,caught,1,DNB,-,-,-,-
+249866,Alex Hales,31 May 2009,v Durham,Chester-le-Street,2,2,12,9,9,1,1,133.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jun 2009,v Leics,Leicester,2,3,5,5,6,0,0,83.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Jun 2009,v Yorkshire,Leeds,1,6,12,13,8,2,0,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Jun 2010,v Worcs,Worcester,2,1,66*,57,49,9,2,134.69,not out,1,DNB,-,-,-,-
+249866,Alex Hales,11 Jun 2010,v Derbyshire,Nottingham,2,1,69,28,25,11,3,276,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Jun 2010,v Worcs,Nottingham,2,1,15,9,10,3,0,150,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Jun 2010,v Lancashire,Nottingham,1,1,35,26,23,5,1,152.17,run out,2,DNB,-,-,-,-
+249866,Alex Hales,16 Jun 2010,v Warwickshire,Birmingham,1,1,1,4,4,0,0,25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Jun 2010,v Derbyshire,Derby,2,1,27,27,21,4,1,128.57,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,20 Jun 2010,v Durham,Chester-le-Street,1,1,15,14,13,3,0,115.38,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jun 2010,v Northants,Nottingham,2,1,0,1,3,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,24 Jun 2010,v Yorkshire,Leeds,1,1,62,57,43,4,3,144.18,caught,2,0.2,0,5,0,15
+249866,Alex Hales,25 Jun 2010,v Durham,Nottingham,2,1,1,1,2,0,0,50,run out,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jun 2010,v Warwickshire,Nottingham,1,1,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,4 Jul 2010,v Leics,Leicester,2,1,29,18,20,3,1,145,caught,1,DNB,-,-,-,-
+249866,Alex Hales,11 Jul 2010,v Northants,Northampton,1,1,3,11,8,0,0,37.5,caught,2,DNB,-,-,-,-
+249866,Alex Hales,14 Jul 2010,v Lancashire,Manchester,1,1,83,72,61,8,1,136.06,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jul 2010,v Leics,Nottingham,2,1,13,20,12,2,0,108.33,run out,1,DNB,-,-,-,-
+249866,Alex Hales,17 Jul 2010,v Yorkshire,Nottingham,2,1,27*,57,32,2,0,84.37,not out,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2010,v Sussex,Nottingham,1,1,9,7,7,2,0,128.57,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,14 Aug 2010,v Somerset,Southampton,2,3,11,6,8,2,0,137.5,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jun 2011,v Derbyshire,Nottingham,1,1,18,13,14,3,0,128.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Jun 2011,v Yorkshire,Nottingham,1,1,10,13,11,1,0,90.9,caught,2,DNB,-,-,-,-
+249866,Alex Hales,8 Jun 2011,v Warwickshire,Birmingham,1,1,3,7,4,0,0,75,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Jun 2011,v Leics,Leicester,1,1,6,8,9,1,0,66.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,11 Jun 2011,v Warwickshire,Nottingham,1,1,67,50,40,11,0,167.5,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,14 Jun 2011,v Durham,Chester-le-Street,2,1,26,14,15,4,1,173.33,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,16 Jun 2011,v Durham,Nottingham,1,1,67,65,39,8,2,171.79,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jun 2011,v Northants,Nottingham,1,1,17,23,16,3,0,106.25,bowled,2,0.1,0,2,0,12
+249866,Alex Hales,24 Jun 2011,v Leics,Nottingham,1,1,28,27,23,3,0,121.73,stumped,-,TDNB,-,-,-,-
+249866,Alex Hales,26 Jun 2011,v Lancashire,Nottingham,1,1,60,38,38,7,2,157.89,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jul 2011,v Derbyshire,Derby,2,2,76,52,40,5,5,190,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2011,v Yorkshire,Leeds,2,2,24,20,19,4,0,126.31,caught,1,DNB,-,-,-,-
+249866,Alex Hales,5 Jul 2011,v Worcs,Worcester,1,2,39,35,28,7,0,139.28,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Jul 2011,v Lancashire,Manchester,1,2,24,28,19,2,1,126.31,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jul 2011,v Worcs,Nottingham,1,2,1,7,5,0,0,20,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Aug 2011,v Somerset,Nottingham,1,1,78,58,51,6,3,152.94,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Aug 2011,v India,Manchester,2,1,0,1,2,0,0,0,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,23 Sep 2011,v West Indies,The Oval,2,1,62*,62,48,8,1,129.16,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Sep 2011,v West Indies,The Oval,2,1,2,9,9,0,0,22.22,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,29 Oct 2011,v India,Eden Gardens,2,1,11,24,19,0,0,57.89,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Jan 2012,v Bangladesh A,Mirpur,1,2,11,11,12,2,0,91.66,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,23 Jan 2012,v Bangladesh A,Mirpur,2,2,1,3,2,0,0,50,run out,1,DNB,-,-,-,-
+249866,Alex Hales,12 Jun 2012,v Leics,Leicester,2,2,5,10,5,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,17 Jun 2012,v Durham,Chester-le-Street,2,2,30,32,30,4,0,100,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,24 Jun 2012,v West Indies,Nottingham,2,2,99,84,68,6,4,145.58,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,29 Jun 2012,v Durham,Nottingham,1,2,88,71,51,6,4,172.54,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2012,v Lancashire,Nottingham,2,2,4,11,4,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jul 2012,v Hampshire,Nottingham,1,2,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,8 Sep 2012,v South Africa,Chester-le-Street,1,2,11,15,6,2,0,183.33,run out,2,DNB,-,-,-,-
+249866,Alex Hales,10 Sep 2012,v South Africa,Manchester,2,2,11*,21,8,0,1,137.5,not out,1,DNB,-,-,-,-
+249866,Alex Hales,21 Sep 2012,v Afghanistan,Colombo (RPS),1,2,31,39,27,5,0,114.81,run out,2,DNB,-,-,-,-
+249866,Alex Hales,23 Sep 2012,v India,Colombo (RPS),2,2,0,4,2,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,27 Sep 2012,v West Indies,Pallekele,2,2,68,80,51,5,2,133.33,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,29 Sep 2012,v New Zealand,Pallekele,2,2,22,26,15,3,0,146.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,1 Oct 2012,v Sri Lanka,Pallekele,2,2,3,15,5,0,0,60,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,20 Dec 2012,v India,Pune,1,2,56,52,35,7,2,160,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,22 Dec 2012,v India,Wankhede,2,2,42,74,33,4,1,127.27,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Jan 2013,v Sixers,Sydney,1,2,89,-,52,5,8,171.15,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jan 2013,v Heat,Melbourne (Docklands),2,2,20,16,15,3,1,133.33,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,4 Feb 2013,v NZ XI,Whangarei,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+249866,Alex Hales,5 Feb 2013,v NZ XI,Whangarei,1,2,2,16,8,0,0,25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,6 Feb 2013,v NZ XI,Whangarei,1,2,4,15,8,0,0,50,run out,2,DNB,-,-,-,-
+249866,Alex Hales,9 Feb 2013,v New Zealand,Auckland,1,2,21,14,16,2,1,131.25,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,12 Feb 2013,v New Zealand,Hamilton,2,2,5,6,4,1,0,125,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,15 Feb 2013,v New Zealand,Wellington,2,2,80*,50,42,9,4,190.47,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jun 2013,v New Zealand,The Oval,2,2,39,43,29,5,1,134.48,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jun 2013,v New Zealand,The Oval,1,2,0*,2,0,0,0,-,not out,-,TDNB,-,-,-,-
+249866,Alex Hales,28 Jun 2013,v Leics,Nottingham,2,2,24,13,13,5,0,184.61,caught,1,DNB,-,-,-,-
+249866,Alex Hales,1 Jul 2013,v Lancashire,Manchester,2,1,49,60,37,0,3,132.43,caught,1,DNB,-,-,-,-
+249866,Alex Hales,5 Jul 2013,v Derbyshire,Derby,2,1,10,24,12,1,0,83.33,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jul 2013,v Durham,Chester-le-Street,2,1,34,35,24,4,1,141.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,12 Jul 2013,v Leics,Leicester,1,1,27,33,20,5,0,135,caught,2,DNB,-,-,-,-
+249866,Alex Hales,19 Jul 2013,v Durham,Nottingham,1,1,41,41,31,6,0,132.25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Jul 2013,v Yorkshire,Leeds,1,2,5,20,9,0,0,55.55,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,23 Jul 2013,v Derbyshire,Nottingham,2,2,0,3,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2013,v Yorkshire,Nottingham,2,1,62,36,38,4,5,163.15,caught,1,DNB,-,-,-,-
+249866,Alex Hales,28 Jul 2013,v Lancashire,Nottingham,1,1,82,55,52,3,6,157.69,run out,2,DNB,-,-,-,-
+249866,Alex Hales,8 Aug 2013,v Essex,Nottingham,2,2,31,13,12,4,2,258.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 Aug 2013,v Australia,Southampton,2,2,8,16,9,1,0,88.88,caught,1,DNB,-,-,-,-
+249866,Alex Hales,31 Aug 2013,v Australia,Chester-le-Street,1,2,94,80,61,11,2,154.09,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Dec 2013,v Hurricanes,Hobart,1,2,49,28,19,9,1,257.89,run out,-,TDNB,-,-,-,-
+249866,Alex Hales,27 Dec 2013,v Thunder,Sydney,1,2,16,-,11,3,0,145.45,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Dec 2013,v Scorchers,Adelaide,2,2,31,-,20,5,1,155,caught,1,DNB,-,-,-,-
+249866,Alex Hales,5 Jan 2014,v Sixers,Adelaide,1,2,8,-,10,1,0,80,caught,2,DNB,-,-,-,-
+249866,Alex Hales,9 Jan 2014,v Stars,Melbourne,1,2,5,12,3,1,0,166.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,16 Jan 2014,v Scorchers,W.A.C.A,2,1,31,-,19,3,2,163.15,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,18 Jan 2014,v Heat,Adelaide,2,2,3,-,7,0,0,42.85,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,22 Jan 2014,v Renegades,Adelaide,2,2,32,-,25,1,2,128,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 Jan 2014,v Australia,Hobart,2,1,22,21,12,5,0,183.33,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,31 Jan 2014,v Australia,Melbourne,1,1,16,24,13,3,0,123.07,caught,2,DNB,-,-,-,-
+249866,Alex Hales,2 Feb 2014,v Australia,Sydney,2,2,6,16,8,1,0,75,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Mar 2014,v West Indies,Bridgetown,2,2,3,8,7,0,0,42.85,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,11 Mar 2014,v West Indies,Bridgetown,1,2,40,59,36,1,2,111.11,caught,2,DNB,-,-,-,-
+249866,Alex Hales,13 Mar 2014,v West Indies,Bridgetown,1,2,38,54,31,4,1,122.58,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Mar 2014,v New Zealand,Chattogram,1,2,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,27 Mar 2014,v Sri Lanka,Chattogram,2,2,116*,97,64,11,6,181.25,not out,1,DNB,-,-,-,-
+249866,Alex Hales,29 Mar 2014,v South Africa,Chattogram,2,1,38,35,22,6,1,172.72,caught,1,DNB,-,-,-,-
+249866,Alex Hales,31 Mar 2014,v Netherlands,Chattogram,2,1,12,17,17,2,0,70.58,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,16 May 2014,v Lancashire,Nottingham,1,1,6,6,5,1,0,120,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 May 2014,v Sri Lanka,The Oval,2,2,66,77,41,7,2,160.97,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,23 May 2014,v Worcs,Nottingham,2,1,39,33,34,4,1,114.7,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,30 May 2014,v Durham,Nottingham,2,2,5,10,8,0,0,62.5,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jun 2014,v Derbyshire,Derby,2,1,63,46,32,11,1,196.87,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Jun 2014,v Warwickshire,Nottingham,2,2,30,23,16,4,2,187.5,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,19 Jun 2014,v Leics,Leicester,1,1,17,14,14,2,1,121.42,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,20 Jun 2014,v Derbyshire,Nottingham,1,2,23,29,20,2,1,115,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Jun 2014,v Yorkshire,Nottingham,1,2,12,14,12,0,1,100,caught,2,DNB,-,-,-,-
+249866,Alex Hales,8 Jul 2014,v Warwickshire,Birmingham,1,1,6,8,7,1,0,85.71,run out,2,DNB,-,-,-,-
+249866,Alex Hales,20 Jul 2014,v Leics,Nottingham,1,2,18,24,18,3,0,100,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,23 Jul 2014,v Northants,Northampton,1,2,28,19,16,3,2,175,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,25 Jul 2014,v Yorkshire,Leeds,2,2,67,48,40,6,3,167.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Aug 2014,v Hampshire,Nottingham,1,1,51,47,45,4,2,113.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Sep 2014,v India,Birmingham,1,2,40,39,25,3,3,160,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 Dec 2014,v Stars,Melbourne,1,2,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,23 Dec 2014,v Sixers,Hobart,1,2,1,4,4,0,0,25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Dec 2014,v Strikers,Adelaide,1,2,29,-,24,1,1,120.83,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,2 Jan 2015,v Heat,Hobart,2,3,34,30,23,2,1,147.82,caught,1,DNB,-,-,-,-
+249866,Alex Hales,7 Jan 2015,v Renegades,Hobart,2,3,7,9,7,1,0,100,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,15 May 2015,v Warwickshire,Nottingham,2,2,86*,57,43,5,8,200,not out,1,DNB,-,-,-,-
+249866,Alex Hales,31 May 2015,v Durham,Nottingham,1,2,7,6,6,0,1,116.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Jun 2015,v Leics,Nottingham,1,2,54,49,42,4,3,128.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Jun 2015,v Worcs,Worcester,1,2,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,23 Jun 2015,v New Zealand,Manchester,1,2,27,31,23,2,1,117.39,caught,2,DNB,-,-,-,-
+249866,Alex Hales,26 Jun 2015,v Derbyshire,Derby,2,2,0,5,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jun 2015,v Northants,Nottingham,2,2,1,5,6,0,0,16.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2015,v Worcs,Nottingham,2,2,47,32,29,5,3,162.06,caught,1,DNB,-,-,-,-
+249866,Alex Hales,10 Jul 2015,v Derbyshire,Nottingham,1,1,54,50,35,7,1,154.28,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jul 2015,v Lancashire,Manchester,2,2,30,44,28,5,0,107.14,caught,1,DNB,-,-,-,-
+249866,Alex Hales,17 Jul 2015,v Durham,Chester-le-Street,1,2,3,10,8,0,0,37.5,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Aug 2015,v Australia,Cardiff,1,2,3,16,7,0,0,42.85,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,26 Nov 2015,v Pakistan,Dubai (DICS),1,2,8,13,9,1,0,88.88,caught,2,DNB,-,-,-,-
+249866,Alex Hales,27 Nov 2015,v Pakistan,Dubai (DICS),1,2,11,20,11,1,0,100,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,17 Feb 2016,v SA A,Paarl,1,2,78,65,52,9,3,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,19 Feb 2016,v South Africa,Cape Town,1,2,27,21,21,5,0,128.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Feb 2016,v South Africa,Johannesburg,1,2,16,36,16,0,1,100,run out,2,DNB,-,-,-,-
+249866,Alex Hales,16 Mar 2016,v West Indies,Wankhede,1,2,28,50,26,4,0,107.69,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,18 Mar 2016,v South Africa,Wankhede,2,2,17,12,7,4,0,242.85,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,26 Mar 2016,v Sri Lanka,Delhi,1,2,0,7,4,0,0,0,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,30 Mar 2016,v New Zealand,Delhi,2,2,20,33,19,1,1,105.26,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Apr 2016,v West Indies,Eden Gardens,1,2,1,6,3,0,0,33.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jun 2016,v Worcs,Worcester,2,3,4,6,6,1,0,66.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Aug 2016,v Northants,Birmingham,2,2,0,7,2,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,7 Sep 2016,v Pakistan,Manchester,1,2,37,40,26,5,0,142.3,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,21 Jun 2017,v South Africa,Southampton,2,2,47*,58,38,3,2,123.68,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jun 2017,v South Africa,Cardiff,1,2,36,63,28,2,2,128.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Jul 2017,v Yorkshire,Leeds,2,2,47,27,26,7,2,180.76,caught,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jul 2017,v Warwickshire,Birmingham,1,2,3,15,6,0,0,50,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Jul 2017,v Derbyshire,Nottingham,1,2,4,3,2,1,0,200,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jul 2017,v Northants,Nottingham,2,2,30*,22,16,5,1,187.5,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jul 2017,v Durham,Chester-le-Street,2,2,44,27,22,10,0,200,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2017,v Worcs,Nottingham,2,2,63,26,27,13,1,233.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Jul 2017,v Yorkshire,Nottingham,2,2,101,56,47,14,4,214.89,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Aug 2017,v Leics,Leicester,1,2,51,31,27,8,1,188.88,stumped,-,TDNB,-,-,-,-
+249866,Alex Hales,4 Aug 2017,v Derbyshire,Derby,1,2,7,11,6,1,0,116.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Aug 2017,v Durham,Nottingham,2,2,95,33,30,9,9,316.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,11 Aug 2017,v Warwickshire,Nottingham,2,2,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,13 Aug 2017,v Worcs,Worcester,1,2,9,7,5,2,0,180,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Aug 2017,v Leics,Nottingham,2,2,17,8,9,4,0,188.88,caught,1,DNB,-,-,-,-
+249866,Alex Hales,24 Aug 2017,v Somerset,Nottingham,2,2,14,15,11,3,0,127.27,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Sep 2017,v Hampshire,Birmingham,1,2,15,10,7,1,1,214.28,caught,2,DNB,-,-,-,-
+249866,Alex Hales,2 Sep 2017,v Warwickshire,Birmingham,1,2,7,10,6,0,1,116.66,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,16 Sep 2017,v West Indies,Chester-le-Street,2,2,43,39,17,8,1,252.94,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,7 Feb 2018,v Australia,Hobart,1,2,22,28,15,4,0,146.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Feb 2018,v Australia,Melbourne,1,2,3,7,3,0,0,100,caught,2,DNB,-,-,-,-
+249866,Alex Hales,13 Feb 2018,v New Zealand,Wellington,2,2,47,34,24,6,3,195.83,caught,1,DNB,-,-,-,-
+249866,Alex Hales,18 Feb 2018,v New Zealand,Hamilton,1,2,1,10,4,0,0,25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,13 Mar 2018,v Sultans,Sharjah,1,3,46,-,33,5,2,139.39,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Mar 2018,v Gladiators,Sharjah,2,3,16,-,12,2,0,133.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,16 Mar 2018,v Kings,Sharjah,1,2,11,-,9,2,0,122.22,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Mar 2018,v Kings,Dubai (DICS),2,3,14,-,11,2,0,127.27,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 Apr 2018,v RR,Jaipur,1,1,45,-,39,4,0,115.38,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 May 2018,v Daredevils,Hyderabad,2,1,45,-,31,3,3,145.16,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,7 May 2018,v RCB,Hyderabad,1,1,5,-,5,1,0,100,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,10 May 2018,v Daredevils,Delhi,2,1,14,-,10,3,0,140,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,13 May 2018,v CSK,Pune,1,2,2,-,9,0,0,22.22,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 May 2018,v RCB,Bengaluru,2,2,37,-,24,2,3,154.16,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jun 2018,v Australia,Birmingham,1,4,49,-,24,5,2,204.16,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2018,v India,Manchester,1,3,8,-,18,0,0,44.44,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,6 Jul 2018,v India,Cardiff,2,4,58*,-,41,4,3,141.46,not out,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jul 2018,v India,Bristol,1,3,30,-,24,3,2,125,caught,2,DNB,-,-,-,-
+249866,Alex Hales,4 Aug 2018,v Worcs,Nottingham,2,2,11,5,7,2,0,157.14,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Aug 2018,v Bears,Birmingham,1,2,20,16,14,3,1,142.85,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,10 Aug 2018,v Yorkshire,Nottingham,1,2,17,22,18,3,0,94.44,caught,2,DNB,-,-,-,-
+249866,Alex Hales,12 Aug 2018,v Worcs,Worcester,2,2,9,12,8,2,0,112.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,17 Aug 2018,v Yorkshire,Leeds,2,2,71*,73,56,5,1,126.78,not out,1,DNB,-,-,-,-
+249866,Alex Hales,26 Aug 2018,v Somerset,Taunton,2,2,45,34,28,6,1,160.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 Oct 2018,v Sri Lanka,Colombo (RPS),1,3,4,-,3,1,0,133.33,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,5 Jan 2019,v Chattogram,Mirpur,1,2,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,6 Jan 2019,v Khulna,Mirpur,1,3,15,-,9,1,1,166.66,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,16 Jan 2019,v Sylhet,Sylhet,2,3,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,19 Jan 2019,v Sylhet,Sylhet,2,2,33,-,24,2,2,137.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Jan 2019,v Khulna,Mirpur,2,2,55,-,29,8,3,189.65,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jan 2019,v Chattogram,Chattogram,1,2,100,-,48,11,5,208.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Jan 2019,v Dynamites,Chattogram,2,2,85*,-,53,8,3,160.37,not out,1,DNB,-,-,-,-
+249866,Alex Hales,29 Jan 2019,v Kings,Chattogram,2,2,16,-,15,1,0,106.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,5 Mar 2019,v West Indies,Gros Islet,2,1,11,-,5,1,1,220,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,8 Mar 2019,v West Indies,Basseterre,1,1,8,-,7,0,1,114.28,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Mar 2019,v West Indies,Basseterre,2,1,20,16,13,3,1,153.84,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Mar 2019,v Kings,Karachi,2,3,41,-,42,5,1,97.61,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Mar 2019,v Zalmi,Karachi,2,3,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+249866,Alex Hales,18 Jul 2019,v Worcs,Nottingham,2,2,52,45,34,3,3,152.94,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,24 Jul 2019,v Northants,Nottingham,2,2,33,50,27,2,2,122.22,caught,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2019,v Derbyshire,Derby,1,2,63,64,42,5,3,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,27 Jul 2019,v Leics,Nottingham,2,1,10,13,8,2,0,125,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Aug 2019,v Bears,Nottingham,1,2,10,12,6,2,0,166.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Aug 2019,v Lancashire,Manchester,2,2,29,35,18,5,0,161.11,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Aug 2019,v Bears,Birmingham,2,2,11,19,13,2,0,84.61,caught,1,DNB,-,-,-,-
+249866,Alex Hales,23 Aug 2019,v Leics,Leicester,2,2,60,52,39,8,1,153.84,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,25 Aug 2019,v Yorkshire,Nottingham,1,2,7,10,10,1,0,70,caught,2,DNB,-,-,-,-
+249866,Alex Hales,30 Aug 2019,v Durham,Nottingham,2,2,8,16,12,1,0,66.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,5 Sep 2019,v Middlesex,Nottingham,2,2,83*,61,47,6,7,176.59,not out,1,DNB,-,-,-,-
+249866,Alex Hales,8 Sep 2019,v Amazon,Providence,2,1,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,11 Sep 2019,v Patriots,Basseterre,1,2,18,-,12,4,0,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Sep 2019,v Tallawahs,Kingston,1,2,12,-,5,0,2,240,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Sep 2019,v Worcs,Birmingham,2,2,52,49,42,4,2,123.8,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Sep 2019,v Amazon,Bridgetown,1,2,24,-,15,2,1,160,caught,2,DNB,-,-,-,-
+249866,Alex Hales,23 Sep 2019,v Tallawahs,Bridgetown,2,2,16,-,16,1,2,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,26 Sep 2019,v Trinbago,Bridgetown,1,4,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Sep 2019,v Patriots,Bridgetown,2,2,19,-,22,2,1,86.36,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 Sep 2019,v Zouks,Bridgetown,1,2,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,2 Oct 2019,v Trinbago,Port of Spain,2,2,33,-,27,6,0,122.22,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Oct 2019,v Amazon,Providence,2,2,36,-,19,2,3,189.47,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,10 Oct 2019,v Trinbago,Tarouba,1,2,10,-,11,2,0,90.9,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,12 Oct 2019,v Amazon,Tarouba,1,2,28,-,24,2,2,116.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Nov 2019,v Blitz,Durban,2,2,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,21 Nov 2019,v Spartans,Centurion,2,2,7*,12,5,1,0,140,not out,1,DNB,-,-,-,-
+249866,Alex Hales,23 Nov 2019,v Giants,Gqeberha,1,1,5,9,7,1,0,71.42,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Nov 2019,v Blitz,Cape Town,2,2,10,7,6,2,0,166.66,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,30 Nov 2019,v Giants,Durban,2,2,41,52,38,4,1,107.89,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Dec 2019,v Paarl Rocks,Paarl,2,2,97*,91,55,9,4,176.36,not out,1,DNB,-,-,-,-
+249866,Alex Hales,17 Dec 2019,v Heat,Brisbane,1,2,7,-,8,1,0,87.5,caught,2,DNB,-,-,-,-
+249866,Alex Hales,19 Dec 2019,v Renegades,Geelong,2,1,68,-,38,8,2,178.94,caught,1,DNB,-,-,-,-
+249866,Alex Hales,21 Dec 2019,v Strikers,Canberra,2,2,11*,-,10,2,0,110,not out,1,DNB,-,-,-,-
+249866,Alex Hales,28 Dec 2019,v Sixers,Sydney,1,2,32,-,21,5,1,152.38,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Dec 2019,v Strikers,Adelaide,1,2,4,-,5,0,0,80,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,2 Jan 2020,v Stars,Sydney,1,1,0,-,3,0,0,0,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,6 Jan 2020,v Heat,Sydney,2,2,20*,-,9,2,1,222.22,not out,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jan 2020,v Stars,Melbourne,1,2,26,-,28,2,0,92.85,caught,2,DNB,-,-,-,-
+249866,Alex Hales,11 Jan 2020,v Hurricanes,Sydney,2,2,55,-,36,6,2,152.77,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Jan 2020,v Renegades,Canberra,2,2,31,-,25,2,1,124,caught,1,DNB,-,-,-,-
+249866,Alex Hales,18 Jan 2020,v Sixers,Sydney,2,2,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Jan 2020,v Scorchers,Perth,1,2,85,-,59,10,3,144.06,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Jan 2020,v Hurricanes,Hobart,2,2,63,-,42,5,4,150,caught,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jan 2020,v Scorchers,Sydney,2,2,47,-,27,4,2,174.07,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Jan 2020,v Hurricanes,Hobart,1,2,60,-,37,6,3,162.16,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Feb 2020,v Strikers,Adelaide,1,2,59,-,35,6,4,168.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,6 Feb 2020,v Stars,Melbourne,2,2,8,-,8,0,0,100,run out,1,DNB,-,-,-,-
+249866,Alex Hales,23 Feb 2020,v Gladiators,Karachi,1,3,29,-,27,1,1,107.4,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Feb 2020,v Sultans,Multan,2,3,29,-,21,4,1,138.09,caught,1,DNB,-,-,-,-
+249866,Alex Hales,1 Mar 2020,v United,Rawalpindi,2,3,52,-,30,3,3,173.33,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,2 Mar 2020,v Zalmi,Rawalpindi,2,3,49,-,27,6,2,181.48,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,6 Mar 2020,v Sultans,Lahore,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+249866,Alex Hales,8 Mar 2020,v Qalandars,Lahore,1,3,80*,-,48,6,5,166.66,not out,2,DNB,-,-,-,-
+249866,Alex Hales,12 Mar 2020,v Qalandars,Karachi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+249866,Alex Hales,29 Aug 2020,v Durham,Chester-le-Street,2,2,11,9,8,1,0,137.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,31 Aug 2020,v Yorkshire,Nottingham,2,2,4,2,3,1,0,133.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Sep 2020,v Leics,Nottingham,2,2,44,23,16,4,4,275,caught,1,DNB,-,-,-,-
+249866,Alex Hales,11 Sep 2020,v Lancashire,Nottingham,2,2,19,32,17,4,0,111.76,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Sep 2020,v Derbyshire,Nottingham,1,2,49,38,32,9,0,153.12,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Sep 2020,v Derbyshire,Nottingham,2,2,22,8,7,2,2,314.28,caught,1,DNB,-,-,-,-
+249866,Alex Hales,18 Sep 2020,v Leics,Leicester,1,2,11,24,13,1,0,84.61,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,20 Sep 2020,v Durham,Nottingham,1,2,4,3,2,1,0,200,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Oct 2020,v Leics,Nottingham,2,2,9,8,7,2,0,128.57,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,4 Oct 2020,v Lancashire,Birmingham,2,2,29,22,17,2,2,170.58,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,4 Oct 2020,v Surrey,Birmingham,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Nov 2020,v Sultans,Karachi,2,3,22,-,19,4,0,115.78,run out,1,DNB,-,-,-,-
+249866,Alex Hales,17 Nov 2020,v Qalandars,Karachi,2,3,11,-,11,1,0,100,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,12 Dec 2020,v Stars,Canberra,2,2,46,-,41,4,2,112.19,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Dec 2020,v Heat,Canberra,2,2,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,22 Dec 2020,v Scorchers,Canberra,2,2,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,26 Dec 2020,v Renegades,Canberra,1,2,35,-,21,4,2,166.66,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,29 Dec 2020,v Stars,Canberra,1,2,71,-,29,8,5,244.82,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jan 2021,v Renegades,Carrara,2,2,45,-,19,7,2,236.84,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Jan 2021,v Heat,Brisbane,1,2,46,-,26,3,3,176.92,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Jan 2021,v Hurricanes,Perth,1,2,21,-,19,4,0,110.52,caught,2,DNB,-,-,-,-
+249866,Alex Hales,9 Jan 2021,v Scorchers,Perth,2,2,5,-,10,1,0,50,caught,1,DNB,-,-,-,-
+249866,Alex Hales,13 Jan 2021,v Sixers,Canberra,1,2,54,-,33,5,3,163.63,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jan 2021,v Hurricanes,Canberra,1,2,29,-,23,2,1,126.08,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jan 2021,v Sixers,Adelaide,1,2,110,-,56,9,8,196.42,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Jan 2021,v Strikers,Adelaide,2,2,10,-,9,2,0,111.11,caught,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jan 2021,v Strikers,Adelaide,2,2,63*,-,39,4,4,161.53,not out,1,DNB,-,-,-,-
+249866,Alex Hales,31 Jan 2021,v Heat,Canberra,1,2,8,-,9,1,0,88.88,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Feb 2021,v Sultans,Karachi,2,2,29,37,20,2,2,145,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,24 Feb 2021,v Kings,Karachi,2,2,46,39,21,8,1,219.04,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 Feb 2021,v Zalmi,Karachi,1,2,41,56,27,5,1,151.85,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Mar 2021,v Gladiators,Karachi,2,2,23,31,13,5,0,176.92,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,9 Jun 2021,v Worcs,Worcester,2,2,31,25,18,2,3,172.22,caught,1,DNB,-,-,-,-
+249866,Alex Hales,11 Jun 2021,v Bears,Nottingham,2,2,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,13 Jun 2021,v Northants,Northampton,1,2,14,19,11,1,1,127.27,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jun 2021,v Durham,Chester-le-Street,1,2,96*,80,54,10,4,177.77,not out,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jun 2021,v Derbyshire,Nottingham,1,2,0,3,1,0,0,0,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,20 Jun 2021,v Lancashire,Manchester,1,2,33,18,17,7,0,194.11,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jun 2021,v Worcs,Nottingham,2,2,60*,27,24,11,2,250,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jun 2021,v Derbyshire,Derby,1,2,0,6,1,0,0,0,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,26 Jun 2021,v Lancashire,Nottingham,1,2,101*,85,66,12,4,153.03,not out,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jul 2021,v Leics,Nottingham,2,2,13,13,7,3,0,185.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Jul 2021,v Bears,Birmingham,1,2,34,27,21,2,3,161.9,caught,2,DNB,-,-,-,-
+249866,Alex Hales,9 Jul 2021,v Yorkshire,Nottingham,2,2,31*,18,9,1,4,344.44,not out,1,DNB,-,-,-,-
+249866,Alex Hales,16 Jul 2021,v Leics,Leicester,1,2,15,14,10,3,0,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jul 2021,v Durham,Nottingham,1,2,35,31,17,7,1,205.88,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Jul 2021,v Brave,Nottingham,2,2,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2021,v N S-Chargers,Nottingham,2,2,40*,74,34,2,3,117.64,not out,1,DNB,-,-,-,-
+249866,Alex Hales,29 Jul 2021,v Spirit,Lord's,1,2,21,18,14,2,1,150,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,1 Aug 2021,v Phoenix,Birmingham,1,2,38,31,22,5,1,172.72,caught,2,DNB,-,-,-,-
+249866,Alex Hales,6 Aug 2021,v Fire,Cardiff,2,2,26,43,25,3,0,104,caught,1,DNB,-,-,-,-
+249866,Alex Hales,8 Aug 2021,v Invincibles,The Oval,2,2,25,-,15,3,1,166.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Aug 2021,v Phoenix,Nottingham,2,2,13,8,7,2,0,185.71,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,15 Aug 2021,v Originals,Nottingham,2,1,19,27,16,3,0,118.75,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Aug 2021,v Brave,The Oval,1,2,3,12,6,0,0,50,caught,2,DNB,-,-,-,-
+249866,Alex Hales,25 Aug 2021,v Hampshire,Nottingham,2,2,19,18,12,2,1,158.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Dec 2021,v Heat,Canberra,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,10 Dec 2021,v Stars,Melbourne,2,1,10,11,10,2,0,100,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,12 Dec 2021,v Stars,Sydney,1,1,28,25,21,4,1,133.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,19 Dec 2021,v Heat,Brisbane,1,2,35,43,26,3,2,134.61,caught,2,DNB,-,-,-,-
+249866,Alex Hales,26 Dec 2021,v Sixers,Sydney,2,2,14,17,6,0,2,233.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,28 Dec 2021,v Scorchers,Canberra,1,2,13,9,11,1,1,118.18,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,6 Jan 2022,v Scorchers,Carrara,2,2,26,57,32,1,1,81.25,caught,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jan 2022,v Renegades,Melbourne (Docklands),1,2,63,47,28,3,5,225,caught,2,DNB,-,-,-,-
+249866,Alex Hales,10 Jan 2022,v Hurricanes,Melbourne,2,2,80*,70,56,11,1,142.85,not out,1,DNB,-,-,-,-
+249866,Alex Hales,13 Jan 2022,v Hurricanes,Melbourne (Docklands),2,2,38,28,17,7,1,223.52,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Jan 2022,v Sixers,Sydney,2,2,23,25,18,4,0,127.77,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,19 Jan 2022,v Renegades,Melbourne,1,1,44,32,22,7,1,200,caught,2,DNB,-,-,-,-
+249866,Alex Hales,23 Jan 2022,v Strikers,Melbourne,2,1,9,-,9,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Jan 2022,v Zalmi,Karachi,2,2,82*,-,54,13,1,151.85,not out,1,DNB,-,-,-,-
+249866,Alex Hales,1 Feb 2022,v Sultans,Karachi,2,2,23,28,14,4,0,164.28,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Feb 2022,v Gladiators,Karachi,1,2,22,22,9,5,0,244.44,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Feb 2022,v Qalandars,Karachi,2,2,11,14,8,1,1,137.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Feb 2022,v Kings,Karachi,1,2,30,36,21,5,0,142.85,caught,2,DNB,-,-,-,-
+249866,Alex Hales,12 Feb 2022,v Gladiators,Lahore,1,2,62,48,38,4,4,163.15,run out,2,DNB,-,-,-,-
+249866,Alex Hales,14 Feb 2022,v Kings,Lahore,1,2,25,-,19,3,1,131.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Feb 2022,v Zalmi,Lahore,2,2,62,-,49,6,3,126.53,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,25 Feb 2022,v Qalandars,Lahore,2,2,38,-,29,2,1,131.03,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 May 2022,v Worcs,Nottingham,2,2,2,5,3,0,0,66.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 May 2022,v Northants,Nottingham,1,2,15,18,11,0,2,136.36,caught,-,TDNB,-,-,-,-
+249866,Alex Hales,31 May 2022,v Lancashire,Nottingham,2,2,15,32,15,3,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jun 2022,v Derbyshire,Derby,2,2,91,37,33,12,5,275.75,caught,1,DNB,-,-,-,-
+249866,Alex Hales,5 Jun 2022,v Bears,Birmingham,2,2,30,19,9,1,4,333.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jun 2022,v Yorkshire,Leeds,2,2,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,10 Jun 2022,v Leics,Leicester,2,2,44,23,16,6,3,275,caught,1,DNB,-,-,-,-
+249866,Alex Hales,17 Jun 2022,v Bears,Nottingham,2,2,4,11,4,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,19 Jun 2022,v Lancashire,Blackpool,1,2,22,10,12,2,2,183.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Jun 2022,v Leics,Nottingham,2,2,55,63,43,5,2,127.9,caught,1,DNB,-,-,-,-
+249866,Alex Hales,23 Jun 2022,v Derbyshire,Nottingham,1,2,55,21,23,8,3,239.13,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Jun 2022,v Durham,Chester-le-Street,1,2,1,11,3,0,0,33.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jul 2022,v Durham,Nottingham,2,2,26,18,14,2,2,185.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2022,v Worcs,Worcester,2,2,14,16,6,0,2,233.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Aug 2022,v Phoenix,Nottingham,2,1,58,-,41,5,2,141.46,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Aug 2022,v N S-Chargers,Leeds,2,1,43,-,27,4,2,159.25,caught,1,DNB,-,-,-,-
+249866,Alex Hales,13 Aug 2022,v Originals,Manchester,2,1,38,-,20,5,2,190,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Aug 2022,v Phoenix,Birmingham,1,1,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Aug 2022,v Invincibles,Nottingham,1,1,59,-,29,6,4,203.44,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 Aug 2022,v Spirit,Nottingham,2,1,6,12,7,1,0,85.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,25 Aug 2022,v Brave,Southampton,1,1,8,-,7,1,0,114.28,caught,2,DNB,-,-,-,-
+249866,Alex Hales,29 Aug 2022,v Fire,Nottingham,1,2,38,45,29,4,1,131.03,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Sep 2022,v Originals,Lord's,2,1,8,12,8,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Sep 2022,v Pakistan,Karachi,2,2,53,79,40,7,0,132.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Sep 2022,v Pakistan,Karachi,1,2,26,26,21,3,1,123.8,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,25 Sep 2022,v Pakistan,Karachi,2,2,5,7,3,1,0,166.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,28 Sep 2022,v Pakistan,Lahore,2,2,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Sep 2022,v Pakistan,Lahore,2,2,27,21,12,4,1,225,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Oct 2022,v Pakistan,Lahore,1,2,18,23,13,3,0,138.46,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,9 Oct 2022,v Australia,Perth,1,2,84,78,51,12,3,164.7,caught,2,DNB,-,-,-,-
+249866,Alex Hales,12 Oct 2022,v Australia,Canberra,1,2,4,23,7,1,0,57.14,caught,2,DNB,-,-,-,-
+249866,Alex Hales,14 Oct 2022,v Australia,Canberra,1,2,0,9,2,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Oct 2022,v Afghanistan,Perth,2,2,19,41,20,0,1,95,caught,1,DNB,-,-,-,-
+249866,Alex Hales,26 Oct 2022,v Ireland,Melbourne,2,2,7,14,5,1,0,140,caught,1,DNB,-,-,-,-
+249866,Alex Hales,1 Nov 2022,v New Zealand,Brisbane,1,2,52,46,40,7,1,130,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,5 Nov 2022,v Sri Lanka,Sydney,2,2,47,42,30,7,1,156.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,10 Nov 2022,v India,Adelaide,2,2,86*,74,47,4,7,182.97,not out,1,DNB,-,-,-,-
+249866,Alex Hales,13 Nov 2022,v Pakistan,Melbourne,2,2,1,6,2,0,0,50,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Dec 2022,v Stars,Canberra,2,2,16,23,12,1,1,133.33,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,16 Dec 2022,v Strikers,Sydney,2,1,0,13,2,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,18 Dec 2022,v Renegades,Melbourne (Docklands),1,2,16,20,12,1,1,133.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 Dec 2022,v Strikers,Adelaide,1,1,68,65,50,6,3,136,caught,2,DNB,-,-,-,-
+249866,Alex Hales,27 Dec 2022,v Heat,Sydney,2,2,59*,52,36,10,0,163.88,not out,1,DNB,-,-,-,-
+249866,Alex Hales,29 Dec 2022,v Heat,Carrara,1,2,9,21,11,1,0,81.81,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Dec 2022,v Hurricanes,Albury,1,2,77,86,45,5,4,171.11,caught,2,DNB,-,-,-,-
+249866,Alex Hales,4 Jan 2023,v Scorchers,Perth,2,2,0,8,4,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jan 2023,v Sixers,Sydney,1,2,0,8,1,0,0,0,lbw,2,DNB,-,-,-,-
+249866,Alex Hales,3 Mar 2023,v Kings,Rawalpindi,2,2,34,28,16,4,2,212.5,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,5 Mar 2023,v Gladiators,Rawalpindi,2,2,12,29,9,1,1,133.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,7 Mar 2023,v Sultans,Rawalpindi,2,2,1,14,7,0,0,14.28,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,9 Mar 2023,v Qalandars,Rawalpindi,2,2,18,43,16,0,1,112.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,12 Mar 2023,v Zalmi,Rawalpindi,2,2,15,24,16,3,0,93.75,caught,1,DNB,-,-,-,-
+249866,Alex Hales,16 Mar 2023,v Zalmi,Lahore,2,2,57,73,37,7,2,154.05,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,26 May 2023,v Derbyshire,Nottingham,2,2,12,21,10,2,0,120,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 May 2023,v Lancashire,Manchester,2,2,0,3,2,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,29 May 2023,v Durham,Chester-le-Street,2,2,65*,81,46,7,2,141.3,not out,1,DNB,-,-,-,-
+249866,Alex Hales,30 May 2023,v Yorkshire,Nottingham,2,2,53,46,35,8,0,151.42,caught,1,DNB,-,-,-,-
+249866,Alex Hales,2 Jun 2023,v Worcs,Nottingham,2,2,71,57,35,8,3,202.85,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jun 2023,v Bears,Birmingham,1,2,1,6,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,4 Jun 2023,v Lancashire,Nottingham,2,2,17,32,15,3,0,113.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,8 Jun 2023,v Durham,Nottingham,1,2,39,32,22,5,1,177.27,caught,2,DNB,-,-,-,-
+249866,Alex Hales,9 Jun 2023,v Derbyshire,Derby,2,2,35,44,30,2,1,116.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,18 Jun 2023,v Northants,Northampton,2,2,0,7,6,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,20 Jun 2023,v Leics,Leicester,1,2,5,15,9,1,0,55.55,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jun 2023,v Worcs,Worcester,1,2,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+249866,Alex Hales,30 Jun 2023,v Bears,Nottingham,1,2,4,12,4,1,0,100,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,2 Jul 2023,v Leics,Nottingham,1,2,26,20,13,2,2,200,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Jul 2023,v Somerset,Taunton,1,2,0,2,2,0,0,0,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,1 Aug 2023,v Brave,Nottingham,1,1,9,9,6,2,0,150,caught,2,DNB,-,-,-,-
+249866,Alex Hales,9 Aug 2023,v N S-Chargers,Nottingham,2,1,29,30,22,5,0,131.81,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,12 Aug 2023,v Spirit,Lord's,2,1,15,15,12,2,0,125,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Aug 2023,v Fire,Cardiff,1,2,4,5,5,1,0,80,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Aug 2023,v Originals,Nottingham,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,19 Aug 2023,v Phoenix,Nottingham,1,2,27,13,14,4,1,192.85,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,21 Aug 2023,v Invincibles,The Oval,1,2,4,5,6,1,0,66.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Aug 2023,v Royals,Bridgetown,1,2,12,25,10,2,0,120,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Sep 2023,v Trinbago,Bridgetown,2,2,21,-,23,3,0,91.3,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,13 Sep 2023,v Amazon,Providence,1,2,9,12,10,2,0,90,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,16 Sep 2023,v Patriots,Providence,1,2,17,27,16,2,1,106.25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Sep 2023,v Kings,Providence,1,2,119*,95,57,12,7,208.77,not out,2,DNB,-,-,-,-
+249866,Alex Hales,19 Sep 2023,v Kings,Providence,2,2,24,40,17,3,1,141.17,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Sep 2023,v Amazon,Providence,2,2,15,20,15,2,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,12 Dec 2023,v Heat,Canberra,2,2,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,19 Dec 2023,v Strikers,Adelaide,1,2,18,7,7,3,1,257.14,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,23 Dec 2023,v Stars,Albury,2,2,40,31,26,3,3,153.84,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,27 Dec 2023,v Heat,Brisbane,2,2,28,30,22,5,1,127.27,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Dec 2023,v Sixers,Sydney,1,2,26,30,19,3,1,136.84,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jan 2024,v Hurricanes,Hobart,1,2,3,16,4,0,0,75,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,8 Jan 2024,v Scorchers,Sydney,1,2,72,87,55,4,5,130.9,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,12 Jan 2024,v Sixers,Sydney,2,2,28,20,17,6,0,164.7,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,14 Jan 2024,v Strikers,Canberra,1,1,43,44,32,3,2,134.37,caught,2,DNB,-,-,-,-
+249866,Alex Hales,21 Jan 2024,v KnightRiders,Dubai (DICS),1,2,11,13,6,2,0,183.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,24 Jan 2024,v Gulf Giants,Dubai (DICS),2,2,21,31,20,2,1,105,caught,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jan 2024,v KnightRiders,Abu Dhabi,1,2,0,-,5,0,0,0,caught,2,sub,-,-,-,-
+249866,Alex Hales,28 Jan 2024,v Warriors,Sharjah,2,2,61,69,40,3,5,152.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Jan 2024,v MI Emirates,Dubai (DICS),2,2,3,8,8,0,0,37.5,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,1 Feb 2024,v DC,Dubai (DICS),1,2,49,60,32,2,4,153.12,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Feb 2024,v Gulf Giants,Dubai (DICS),2,2,44,-,30,4,2,146.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Feb 2024,v MI Emirates,Abu Dhabi,2,2,6,9,7,1,0,85.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Feb 2024,v DC,Dubai (DICS),1,2,66,53,37,4,6,178.37,caught,2,DNB,-,-,-,-
+249866,Alex Hales,11 Feb 2024,v Warriors,Sharjah,2,2,21,30,15,0,3,140,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,13 Feb 2024,v Rangpur,Chattogram,2,2,60,54,33,7,3,181.81,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Feb 2024,v Victorians,Chattogram,1,1,22,17,17,3,1,129.41,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,17 Feb 2024,v Qalandars,Lahore,2,2,36,40,28,5,1,128.57,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Feb 2024,v Sultans,Multan,1,2,2,12,8,0,0,25,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Feb 2024,v Gladiators,Lahore,1,2,21,13,9,1,2,233.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,28 Feb 2024,v Kings,Karachi,2,2,47,51,35,7,0,134.28,caught,1,DNB,-,-,-,-
+249866,Alex Hales,4 Mar 2024,v Zalmi,Rawalpindi,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,6 Mar 2024,v Qalandars,Rawalpindi,2,2,0,4,2,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,7 Mar 2024,v Kings,Rawalpindi,2,2,18,24,13,2,1,138.46,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,10 Mar 2024,v Sultans,Rawalpindi,2,2,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Mar 2024,v Gladiators,Karachi,1,2,23,27,20,1,2,115,caught,2,DNB,-,-,-,-
+249866,Alex Hales,16 Mar 2024,v Zalmi,Karachi,2,2,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+249866,Alex Hales,31 May 2024,v Northants,Nottingham,1,2,6,7,7,1,0,85.71,caught,2,DNB,-,-,-,-
+249866,Alex Hales,1 Jun 2024,v Bears,Birmingham,2,2,32,36,26,6,0,123.07,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jun 2024,v Worcs,Nottingham,2,2,5,14,8,0,0,62.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,7 Jun 2024,v Derbyshire,Derby,2,2,15,18,12,3,0,125,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Jun 2024,v Lancashire,Nottingham,1,2,4,21,12,0,0,33.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,14 Jun 2024,v Worcs,Worcester,2,2,50*,61,37,2,4,135.13,not out,1,DNB,-,-,-,-
+249866,Alex Hales,15 Jun 2024,v Durham,Nottingham,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+249866,Alex Hales,21 Jun 2024,v Derbyshire,Nottingham,1,3,26,29,23,2,0,113.04,caught,2,DNB,-,-,-,-
+249866,Alex Hales,2 Jul 2024,v Jaffna Kings,Pallekele,2,2,65,-,47,7,2,138.29,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,3 Jul 2024,v Colombo,Pallekele,1,2,14,-,15,2,0,93.33,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Jul 2024,v Jaffna Kings,Dambulla,1,2,23,-,19,3,1,121.05,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,7 Jul 2024,v Kandy,Dambulla,2,2,38,-,19,4,3,200,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Jul 2024,v Sixers,Dambulla,2,2,17,-,20,2,1,85,caught,1,DNB,-,-,-,-
+249866,Alex Hales,10 Jul 2024,v Kandy,Dambulla,2,2,86*,-,55,7,4,156.36,not out,1,DNB,-,-,-,-
+249866,Alex Hales,14 Jul 2024,v Sixers,Colombo (RPS),1,2,38,-,26,5,1,146.15,caught,2,DNB,-,-,-,-
+249866,Alex Hales,15 Jul 2024,v Colombo,Colombo (RPS),1,2,3,-,8,0,0,37.5,caught,2,DNB,-,-,-,-
+249866,Alex Hales,18 Jul 2024,v Jaffna Kings,Colombo (RPS),2,1,36,-,21,5,2,171.42,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,21 Jul 2024,v Jaffna Kings,Colombo (RPS),1,1,6,-,9,0,0,66.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,26 Jul 2024,v N S-Chargers,Leeds,1,3,6,7,6,1,0,100,caught,2,DNB,-,-,-,-
+249866,Alex Hales,29 Jul 2024,v Originals,Manchester,1,3,10,16,14,1,0,71.42,caught,2,DNB,-,-,-,-
+249866,Alex Hales,31 Jul 2024,v Phoenix,Nottingham,2,2,38,40,30,3,1,126.66,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,3 Aug 2024,v Fire,Nottingham,2,2,23,28,16,1,2,143.75,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,7 Aug 2024,v Spirit,Nottingham,1,3,68,55,42,3,5,161.9,run out,2,DNB,-,-,-,-
+249866,Alex Hales,10 Aug 2024,v Brave,Southampton,1,3,15,16,13,2,0,115.38,stumped,2,DNB,-,-,-,-
+249866,Alex Hales,12 Aug 2024,v Phoenix,Birmingham,1,2,9,14,10,2,0,90,caught,2,DNB,-,-,-,-
+249866,Alex Hales,14 Aug 2024,v Invincibles,Nottingham,2,2,35,28,25,5,1,140,lbw,1,DNB,-,-,-,-
+249866,Alex Hales,30 Dec 2024,v Dhaka,Mirpur,1,2,5,12,6,1,0,83.33,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,31 Dec 2024,v Strikers,Mirpur,1,2,6,14,7,1,0,85.71,caught,2,DNB,-,-,-,-
+249866,Alex Hales,2 Jan 2025,v Barishal,Mirpur,2,1,49*,77,41,4,3,119.51,not out,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jan 2025,v Strikers,Sylhet,2,1,113*,88,56,10,7,201.78,not out,1,DNB,-,-,-,-
+249866,Alex Hales,7 Jan 2025,v Dhaka,Sylhet,2,2,44,35,27,4,3,162.96,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Jan 2025,v Barishal,Sylhet,2,2,1,5,3,0,0,33.33,stumped,1,DNB,-,-,-,-
+249866,Alex Hales,12 Jan 2025,v KnightRiders,Abu Dhabi,2,2,10,36,17,0,0,58.82,caught,1,DNB,-,-,-,-
+249866,Alex Hales,14 Jan 2025,v Gulf Giants,Dubai (DICS),2,2,20,-,30,2,0,66.66,caught,1,DNB,-,-,-,-
+249866,Alex Hales,16 Jan 2025,v MI Emirates,Dubai (DICS),2,2,34,-,22,6,0,154.54,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,18 Jan 2025,v KnightRiders,Dubai (DICS),1,2,58,50,36,3,4,161.11,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 Jan 2025,v DC,Dubai (DICS),1,2,34,-,31,2,2,109.67,caught,2,DNB,-,-,-,-
+249866,Alex Hales,22 Jan 2025,v Warriorz,Dubai (DICS),2,2,23*,-,21,2,1,109.52,not out,1,DNB,-,-,-,-
+249866,Alex Hales,25 Jan 2025,v Warriorz,Sharjah,2,2,77*,70,42,7,5,183.33,not out,1,DNB,-,-,-,-
+249866,Alex Hales,27 Jan 2025,v MI Emirates,Abu Dhabi,2,2,3,13,7,0,0,42.85,caught,1,DNB,-,-,-,-
+249866,Alex Hales,29 Jan 2025,v Gulf Giants,Dubai (DICS),2,2,9,12,8,2,0,112.5,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Feb 2025,v DC,Sharjah,1,2,18,24,14,4,0,128.57,caught,2,DNB,-,-,-,-
+249866,Alex Hales,5 Feb 2025,v DC,Dubai (DICS),1,2,67,40,32,5,6,209.37,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Feb 2025,v Warriorz,Sharjah,2,2,47,37,29,9,0,162.06,caught,1,DNB,-,-,-,-
+249866,Alex Hales,9 Feb 2025,v DC,Dubai (DICS),1,2,5,5,4,1,0,125,caught,2,DNB,-,-,-,-
+249866,Alex Hales,19 May 2025,v Kings,Rawalpindi,1,2,88,-,35,6,8,251.42,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,21 May 2025,v Gladiators,Lahore,2,2,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,14 Jun 2025,v SF,Oakland,2,2,6,-,6,1,0,100,caught,1,DNB,-,-,-,-
+249866,Alex Hales,15 Jun 2025,v Texas,Oakland,2,2,25,-,17,1,3,147.05,caught,1,DNB,-,-,-,-
+249866,Alex Hales,17 Jun 2025,v Washington,Oakland,2,1,0,-,4,0,0,0,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Jun 2025,v Seattle,Dallas,2,2,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+249866,Alex Hales,24 Jun 2025,v Texas,Dallas,2,2,5,-,6,1,0,83.33,caught,1,DNB,-,-,-,-
+249866,Alex Hales,5 Jul 2025,v MI New York,Lauderhill,2,2,21,-,26,2,0,80.76,caught,1,DNB,-,-,-,-
+249866,Alex Hales,6 Jul 2025,v SF,Lauderhill,1,2,58,-,26,8,3,223.07,caught,2,DNB,-,-,-,-
+249866,Alex Hales,17 Aug 2025,v Patriots,Basseterre,1,2,47,43,27,4,3,174.07,caught,2,DNB,-,-,-,-
+249866,Alex Hales,20 Aug 2025,v Falcons,North Sound,2,2,5,19,10,0,0,50,caught,1,DNB,-,-,-,-
+249866,Alex Hales,23 Aug 2025,v Kings,Gros Islet,1,2,10,20,8,2,0,125,caught,2,DNB,-,-,-,-
+249866,Alex Hales,27 Aug 2025,v Falcons,Tarouba,2,2,55*,98,46,6,0,119.56,not out,1,DNB,-,-,-,-
+249866,Alex Hales,29 Aug 2025,v Royals,Tarouba,2,2,19,35,14,2,1,135.71,caught,1,DNB,-,-,-,-
+249866,Alex Hales,30 Aug 2025,v Amazon,Tarouba,2,1,74,76,43,3,7,172.09,caught,1,DNB,-,-,-,-
+249866,Alex Hales,1 Sep 2025,v Patriots,Tarouba,1,2,7,21,11,1,0,63.63,caught,2,DNB,-,-,-,-
+249866,Alex Hales,3 Sep 2025,v Kings,Tarouba,1,2,9,29,10,1,0,90,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,6 Sep 2025,v Amazon,Providence,1,2,7,16,6,1,0,116.66,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,12 Sep 2025,v Royals,Bridgetown,1,2,15,18,9,2,0,166.66,caught,2,DNB,-,-,-,-
+249866,Alex Hales,16 Sep 2025,v Falcons,Providence,2,2,54*,86,40,3,3,135,not out,1,DNB,-,-,-,-
+249866,Alex Hales,19 Sep 2025,v Kings,Providence,1,2,58*,95,44,2,4,131.81,not out,2,DNB,-,-,-,-
+249866,Alex Hales,21 Sep 2025,v Amazon,Providence,2,2,26,87,34,1,0,76.47,caught,1,DNB,-,-,-,-
+249866,Alex Hales,3 Dec 2025,v Warriorz,Sharjah,1,2,32,-,19,2,3,168.42,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,5 Dec 2025,v Vipers,Sharjah,1,2,53,-,37,4,3,143.24,caught,2,DNB,-,-,-,-
+249866,Alex Hales,7 Dec 2025,v DC,Dubai (DICS),2,2,0,2,1,0,0,0,bowled,1,DNB,-,-,-,-
+249866,Alex Hales,11 Dec 2025,v MI Emirates,Abu Dhabi,1,2,6,16,8,1,0,75,bowled,2,DNB,-,-,-,-
+249866,Alex Hales,13 Dec 2025,v DC,Abu Dhabi,2,2,11,14,7,2,0,157.14,caught,1,DNB,-,-,-,-
+249866,Alex Hales,16 Dec 2025,v Vipers,Abu Dhabi,1,3,25,-,18,2,2,138.88,caught,2,sub,-,-,-,-
+249866,Alex Hales,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,2,46,62,39,3,2,117.94,caught,1,DNB,-,-,-,-
+249866,Alex Hales,20 Dec 2025,v MI Emirates,Abu Dhabi,2,2,40,42,27,4,1,148.14,caught,1,DNB,-,-,-,-
+249866,Alex Hales,22 Dec 2025,v Warriorz,Abu Dhabi,1,2,5,-,5,1,0,100,caught,2,sub,-,-,-,-
+249866,Alex Hales,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,sub,-,-,-,-
+249866,Alex Hales,1 Jan 2026,v DC,Dubai (DICS),1,6,2,4,5,0,0,40,caught,2,sub,-,-,-,-
+249866,Alex Hales,2 Jan 2026,v MI Emirates,Sharjah,1,1,29,54,36,3,0,80.55,caught,2,sub,-,-,-,-

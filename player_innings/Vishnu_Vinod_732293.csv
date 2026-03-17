@@ -1,0 +1,73 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+732293,Vishnu Vinod,3 Apr 2014,v Karnataka,Visakhapatnam,1,3,33,55,35,0,3,94.28,run out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,4 Apr 2014,v Tamil Nadu,Visakhapatnam,2,3,7,6,6,0,1,116.66,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,5 Apr 2014,v Andhra,Vizianagaram,2,1,31*,40,30,3,1,103.33,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,12 Apr 2014,v Baroda,Wankhede,1,3,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,29 Jan 2017,v Andhra,Chennai,1,1,63,67,45,7,2,140,bowled,2,DNB,-,-,-,-
+732293,Vishnu Vinod,30 Jan 2017,v Karnataka,Chennai,2,1,64,48,35,2,6,182.85,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,31 Jan 2017,v Hyderabad,Chennai,2,1,37,39,28,3,2,132.14,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,2 Feb 2017,v Goa,Chennai,2,2,35,12,13,2,4,269.23,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,12 Feb 2017,v North Zone,Wankhede,1,3,1,8,7,0,0,14.28,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,16 Feb 2017,v West Zone,Wankhede,2,1,36,21,20,4,2,180,lbw,1,DNB,-,-,-,-
+732293,Vishnu Vinod,18 Feb 2017,v Central Zone,Wankhede,1,1,31,18,15,7,0,206.66,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,8 Apr 2017,v Daredevils,Bengaluru,1,6,9,8,5,0,1,180,run out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,10 Apr 2017,v Kings XI,Indore,1,2,7,15,12,1,0,58.33,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,14 May 2017,v Daredevils,Delhi,1,2,3,22,9,0,0,33.33,bowled,2,DNB,-,-,-,-
+732293,Vishnu Vinod,8 Jan 2018,v Hyderabad,Vizianagaram,2,2,22,15,11,3,1,200,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,9 Jan 2018,v Tamil Nadu,Visakhapatnam,2,2,1,12,5,0,0,20,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,12 Jan 2018,v Goa,Visakhapatnam,2,2,34,24,19,1,4,178.94,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,14 Jan 2018,v Karnataka,Vizianagaram,2,2,46,50,26,7,1,176.92,lbw,1,DNB,-,-,-,-
+732293,Vishnu Vinod,21 Feb 2019,v Manipur,Mulapadu,1,1,34,22,20,4,2,170,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,24 Feb 2019,v Andhra,Mulapadu,1,1,70,81,61,5,2,114.75,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,25 Feb 2019,v Delhi,Mulapadu,1,1,18,41,21,2,0,85.71,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,27 Feb 2019,v J & K,Mulapadu,1,1,23,22,13,5,0,176.92,run out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,28 Feb 2019,v Nagaland,Mulapadu,2,1,53*,52,38,4,3,139.47,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,2 Mar 2019,v Jharkhand,Mulapadu,1,1,27,25,20,4,0,135,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,8 Nov 2019,v Tamil Nadu,Thumba,2,2,24,-,18,2,1,133.33,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,11 Nov 2019,v Tripura,Thiruvananthapuram,1,1,14,-,6,0,2,233.33,bowled,2,DNB,-,-,-,-
+732293,Vishnu Vinod,12 Nov 2019,v Manipur,Thiruvananthapuram,1,1,25,-,20,2,1,125,lbw,2,1.0,0,7,0,7
+732293,Vishnu Vinod,14 Nov 2019,v Vidarbha,Thumba,1,1,13,-,8,0,2,162.5,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,15 Nov 2019,v Rajasthan,Thiruvananthapuram,1,1,36,-,30,4,1,120,lbw,2,DNB,-,-,-,-
+732293,Vishnu Vinod,17 Nov 2019,v UP,Thiruvananthapuram,1,1,13,-,14,1,1,92.85,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,11 Jan 2021,v Puducherry,Wankhede,2,5,11*,-,17,1,0,64.7,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,13 Jan 2021,v Mumbai,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+732293,Vishnu Vinod,15 Jan 2021,v Delhi,Wankhede,2,5,71*,-,38,3,5,186.84,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,17 Jan 2021,v Andhra,Mumbai,1,5,4,-,9,0,0,44.44,lbw,2,2.1,0,17,0,7.84
+732293,Vishnu Vinod,19 Jan 2021,v Haryana,Wankhede,2,5,10,-,10,0,0,100,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,4 Nov 2021,v Gujarat,Delhi,1,6,12,-,14,1,0,85.71,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,5 Nov 2021,v Bihar,Delhi,2,6,6*,-,6,0,0,100,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,6 Nov 2021,v Railways,Delhi,2,6,62*,-,43,4,2,144.18,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,8 Nov 2021,v Assam,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+732293,Vishnu Vinod,9 Nov 2021,v M. Pradesh,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+732293,Vishnu Vinod,16 Nov 2021,v Himachal,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+732293,Vishnu Vinod,18 Nov 2021,v Tamil Nadu,Delhi,1,5,65*,-,26,2,7,250,not out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,11 Oct 2022,v Arunachal,New Chandigarh,2,1,23*,-,16,2,1,143.75,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,12 Oct 2022,v Karnataka,Mohali,1,1,34,-,27,3,1,125.92,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,14 Oct 2022,v Haryana,Mohali,2,1,25,-,26,2,1,96.15,lbw,1,DNB,-,-,-,-
+732293,Vishnu Vinod,16 Oct 2022,v Services,New Chandigarh,2,2,8,-,6,0,1,133.33,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,18 Oct 2022,v Maharashtra,New Chandigarh,2,2,10,-,8,0,1,125,bowled,1,DNB,-,-,-,-
+732293,Vishnu Vinod,20 Oct 2022,v J & K,Mohali,1,6,1*,-,1,0,0,100,not out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,22 Oct 2022,v Meghalaya,New Chandigarh,2,2,27,-,12,3,2,225,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,30 Oct 2022,v Saurashtra,Eden Gardens,2,6,12*,14,7,2,0,171.42,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,12 May 2023,v GT,Wankhede,1,5,30,36,20,2,2,150,caught,2,sub,-,-,-,-
+732293,Vishnu Vinod,16 May 2023,v LSG,Lucknow,2,6,2,9,4,0,0,50,caught,1,sub,-,-,-,-
+732293,Vishnu Vinod,26 May 2023,v GT,Ahmedabad,2,6,5,19,7,0,0,71.42,caught,1,sub,-,-,-,-
+732293,Vishnu Vinod,16 Oct 2023,v Himachal,Mumbai,1,3,44,-,27,5,2,162.96,lbw,2,DNB,-,-,-,-
+732293,Vishnu Vinod,17 Oct 2023,v Services,Mumbai,1,3,109*,-,62,15,4,175.8,not out,2,DNB,-,-,-,-
+732293,Vishnu Vinod,19 Oct 2023,v Bihar,DY Patil,2,3,32,-,17,4,2,188.23,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,21 Oct 2023,v Chandigarh,DY Patil,1,3,42,-,23,4,2,182.6,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,23 Oct 2023,v Sikkim,Mumbai,1,3,79,-,43,11,3,183.72,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,25 Oct 2023,v Odisha,DY Patil,1,3,35,-,33,3,1,106.06,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,27 Oct 2023,v Assam,Mumbai,1,4,5,-,9,0,0,55.55,lbw,2,DNB,-,-,-,-
+732293,Vishnu Vinod,2 Nov 2023,v Assam,Mohali,1,3,17,-,12,2,0,141.66,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,23 Nov 2024,v Services,Hyderabad,2,3,4,-,3,1,0,133.33,caught,1,DNB,-,-,-,-
+732293,Vishnu Vinod,25 Nov 2024,v Maharashtra,Hyderabad,1,3,9,-,7,0,1,128.57,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,27 Nov 2024,v Nagaland,Hyderabad,2,1,2,-,6,0,0,33.33,bowled,1,DNB,-,-,-,-
+732293,Vishnu Vinod,29 Nov 2024,v Mumbai,Hyderabad,1,6,6,-,2,0,1,300,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,1 Dec 2024,v Goa,Hyderabad,1,5,7,-,4,1,0,175,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,3 Dec 2024,v Andhra,Hyderabad,1,6,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,26 Nov 2025,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+732293,Vishnu Vinod,28 Nov 2025,v Railways,Lucknow,2,4,7,-,7,1,0,100,lbw,1,DNB,-,-,-,-
+732293,Vishnu Vinod,30 Nov 2025,v Chhattisgarh,Lucknow,2,4,22*,-,14,0,2,157.14,not out,1,DNB,-,-,-,-
+732293,Vishnu Vinod,2 Dec 2025,v Vidarbha,Lucknow,1,4,65,-,38,1,6,171.05,caught,2,DNB,-,-,-,-
+732293,Vishnu Vinod,4 Dec 2025,v Mumbai,Lucknow,1,3,43*,-,40,3,0,107.5,not out,2,DNB,-,-,-,-

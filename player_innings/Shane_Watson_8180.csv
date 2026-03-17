@@ -1,0 +1,344 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+8180,Shane Watson,2 Jul 2004,v Essex,Chelmsford,2,4,0,6,3,0,0,0,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,3 Jul 2004,v Surrey,The Oval,2,4,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,9 Jul 2004,v Sussex,Hove,2,4,4,4,8,1,0,50,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,13 Jul 2004,v Middlesex,Southampton,1,3,21,29,18,1,0,116.66,caught,2,DNB,-,-,-,-
+8180,Shane Watson,15 Jul 2004,v Kent,Southampton,1,3,97*,71,68,9,3,142.64,not out,2,DNB,-,-,-,-
+8180,Shane Watson,24 Feb 2006,v South Africa,Johannesburg,2,6,4,9,6,0,0,66.66,bowled,1,3.0,0,35,1,11.66
+8180,Shane Watson,9 Jul 2006,v NZ A,Darwin,1,3,8,9,8,0,0,100,caught,2,4.0,0,30,3,7.5
+8180,Shane Watson,23 Jul 2006,v Pakistan A,Cairns,1,3,0,1,1,0,0,0,bowled,2,4.0,0,29,1,7.25
+8180,Shane Watson,20 Sep 2007,v Sri Lanka,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.2,0,19,1,5.7
+8180,Shane Watson,31 Dec 2007,v Victoria,Townsville,2,3,16,9,10,2,1,160,run out,1,4.0,0,31,2,7.75
+8180,Shane Watson,4 Jan 2008,v South Aust,Brisbane,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+8180,Shane Watson,6 Jan 2008,v West Aust,W.A.C.A,1,3,51,-,30,7,1,170,caught,2,4.0,0,24,1,6
+8180,Shane Watson,8 Jan 2008,v NSW,Sydney,2,3,7,16,10,1,0,70,caught,1,4.0,0,19,2,4.75
+8180,Shane Watson,10 Jan 2008,v Tasmania,Brisbane,2,3,69*,-,32,2,7,215.62,not out,1,4.0,0,24,1,6
+8180,Shane Watson,19 Apr 2008,v Daredevils,Delhi,1,3,21,-,15,3,0,140,run out,2,4.0,0,31,1,7.75
+8180,Shane Watson,21 Apr 2008,v Kings XI,Jaipur,2,4,76*,-,49,5,5,155.1,not out,1,4.0,0,39,0,9.75
+8180,Shane Watson,24 Apr 2008,v Chargers,Hyderabad,2,4,4,-,6,0,0,66.66,bowled,1,4.0,0,32,1,8
+8180,Shane Watson,26 Apr 2008,v RCB,Bengaluru,2,4,61*,-,41,8,2,148.78,not out,1,4.0,0,20,2,5
+8180,Shane Watson,1 May 2008,v KKR,Jaipur,1,5,0,-,1,0,0,0,lbw,2,3.1,0,22,2,6.94
+8180,Shane Watson,4 May 2008,v CSK,Jaipur,2,4,14*,-,8,1,1,175,not out,1,4.0,0,19,1,4.75
+8180,Shane Watson,7 May 2008,v MI,DY Patil,1,4,32,-,20,4,1,160,bowled,2,4.0,0,26,2,6.5
+8180,Shane Watson,9 May 2008,v Chargers,Jaipur,2,4,5*,-,2,1,0,250,not out,1,3.0,0,22,1,7.33
+8180,Shane Watson,11 May 2008,v Daredevils,Jaipur,2,4,74,-,40,5,5,185,run out,1,4.0,0,21,2,5.25
+8180,Shane Watson,17 May 2008,v RCB,Jaipur,1,3,46*,-,28,6,0,164.28,not out,2,2.0,0,6,0,3
+8180,Shane Watson,20 May 2008,v KKR,Eden Gardens,2,5,19,-,15,2,1,126.66,bowled,1,4.0,0,36,0,9
+8180,Shane Watson,26 May 2008,v MI,Jaipur,2,4,18,-,19,3,0,94.73,caught,1,3.0,0,30,0,10
+8180,Shane Watson,28 May 2008,v Kings XI,Mohali,2,4,22,-,19,1,1,115.78,caught,1,4.0,0,40,1,10
+8180,Shane Watson,30 May 2008,v Daredevils,Wankhede,1,4,52,-,29,4,3,179.31,stumped,2,3.0,0,10,3,3.33
+8180,Shane Watson,1 Jun 2008,v CSK,DY Patil,2,4,28,-,19,3,0,147.36,bowled,1,4.0,0,29,1,7.25
+8180,Shane Watson,20 Jun 2008,v West Indies,Bridgetown,1,3,17*,27,15,1,1,113.33,not out,2,2.1,0,17,1,7.84
+8180,Shane Watson,7 May 2009,v Pakistan,Dubai (DICS),1,1,33,-,14,5,0,235.71,lbw,2,DNB,-,-,-,-
+8180,Shane Watson,6 Jun 2009,v West Indies,The Oval,1,1,0,2,3,0,0,0,caught,2,2.0,0,13,0,6.5
+8180,Shane Watson,8 Jun 2009,v Sri Lanka,Nottingham,1,1,22,32,21,2,1,104.76,lbw,2,2.0,0,24,0,12
+8180,Shane Watson,30 Aug 2009,v England,Manchester,1,1,10,-,14,0,0,71.42,caught,2,DNB,-,-,-,-
+8180,Shane Watson,5 Feb 2010,v Pakistan,Melbourne,1,1,8,6,8,1,0,100,run out,2,4.0,1,24,2,6
+8180,Shane Watson,21 Feb 2010,v West Indies,Hobart,1,1,37,30,19,1,4,194.73,caught,2,2.0,0,14,0,7
+8180,Shane Watson,23 Feb 2010,v West Indies,Sydney,2,1,62*,50,33,4,4,187.87,not out,1,3.0,0,15,1,5
+8180,Shane Watson,26 Feb 2010,v New Zealand,Wellington,2,2,19,14,12,4,0,158.33,lbw,1,4.0,0,23,2,5.75
+8180,Shane Watson,3 Apr 2010,v CSK,Chennai,2,4,60,-,25,5,5,240,bowled,1,4.0,0,47,2,11.75
+8180,Shane Watson,5 Apr 2010,v Chargers,Nagpur,1,4,58,-,36,3,3,161.11,caught,2,3.0,0,40,0,13.33
+8180,Shane Watson,7 Apr 2010,v Kings XI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+8180,Shane Watson,11 Apr 2010,v MI,Jaipur,2,4,1,-,2,0,0,50,run out,1,4.0,0,37,3,9.25
+8180,Shane Watson,14 Apr 2010,v RCB,Jaipur,1,4,22,-,25,3,0,88,caught,2,4.0,0,24,0,6
+8180,Shane Watson,17 Apr 2010,v KKR,Eden Gardens,1,1,44,-,26,7,1,169.23,bowled,2,3.0,0,17,0,5.66
+8180,Shane Watson,2 May 2010,v Pakistan,Gros Islet,1,2,81,62,49,7,4,165.3,lbw,2,3.0,0,24,0,8
+8180,Shane Watson,5 May 2010,v Bangladesh,Bridgetown,1,2,4,10,7,0,0,57.14,caught,2,DNB,-,-,-,-
+8180,Shane Watson,7 May 2010,v India,Bridgetown,1,1,54,40,32,1,6,168.75,bowled,2,3.0,0,31,1,10.33
+8180,Shane Watson,9 May 2010,v Sri Lanka,Bridgetown,1,1,1,3,4,0,0,25,bowled,2,3.0,0,27,0,9
+8180,Shane Watson,11 May 2010,v West Indies,Gros Islet,2,2,5,15,7,0,0,71.42,bowled,1,2.0,0,13,1,6.5
+8180,Shane Watson,14 May 2010,v Pakistan,Gros Islet,2,2,16,13,9,2,1,177.77,caught,1,2.0,0,26,0,13
+8180,Shane Watson,16 May 2010,v England,Bridgetown,1,1,2,3,3,0,0,66.66,caught,2,3.0,0,42,0,14
+8180,Shane Watson,5 Jul 2010,v Pakistan,Birmingham,2,2,0,4,2,0,0,0,lbw,1,DNB,-,-,-,-
+8180,Shane Watson,31 Oct 2010,v Sri Lanka,W.A.C.A,1,3,4,-,7,0,0,57.14,caught,2,DNB,-,-,-,-
+8180,Shane Watson,12 Jan 2011,v England,Adelaide,1,2,59,35,31,6,3,190.32,bowled,2,4.0,0,15,4,3.75
+8180,Shane Watson,14 Jan 2011,v England,Melbourne,1,2,17,18,10,0,2,170,caught,2,4.0,0,17,2,4.25
+8180,Shane Watson,15 Apr 2011,v KKR,Jaipur,1,4,22,-,13,0,2,169.23,bowled,2,2.0,0,18,0,9
+8180,Shane Watson,17 Apr 2011,v KKR,Eden Gardens,1,1,11,-,13,2,0,84.61,bowled,2,4.0,0,20,0,5
+8180,Shane Watson,21 Apr 2011,v Kings XI,Mohali,2,3,24,-,16,4,0,150,caught,1,4.0,0,24,2,6
+8180,Shane Watson,24 Apr 2011,v Kochi,Jaipur,2,1,49,-,40,4,2,122.5,bowled,1,4.0,0,23,0,5.75
+8180,Shane Watson,29 Apr 2011,v MI,Jaipur,2,1,26,-,32,3,1,81.25,caught,1,4.0,0,25,0,6.25
+8180,Shane Watson,1 May 2011,v Warriors,Jaipur,2,1,12,-,14,0,1,85.71,caught,1,4.0,0,19,1,4.75
+8180,Shane Watson,4 May 2011,v CSK,Chennai,1,1,32,-,26,5,0,123.07,caught,2,4.0,0,27,0,6.75
+8180,Shane Watson,9 May 2011,v CSK,Jaipur,2,1,11,-,10,1,0,110,caught,1,4.0,0,47,0,11.75
+8180,Shane Watson,11 May 2011,v RCB,Jaipur,1,1,34,-,29,3,2,117.24,caught,2,2.0,0,19,0,9.5
+8180,Shane Watson,15 May 2011,v Kochi,Indore,1,3,20,-,13,0,3,153.84,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,20 May 2011,v MI,Wankhede,2,1,89*,-,47,9,6,189.36,not out,1,4.0,0,19,3,4.75
+8180,Shane Watson,6 Aug 2011,v Sri Lanka,Pallekele,2,1,10,10,9,0,1,111.11,bowled,1,4.0,0,41,1,10.25
+8180,Shane Watson,8 Aug 2011,v Sri Lanka,Pallekele,2,1,57,22,24,6,5,237.5,caught,1,DNB,-,-,-,-
+8180,Shane Watson,24 Sep 2011,v Cape Cobras,Chennai,1,2,34,38,29,4,1,117.24,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,28 Sep 2011,v Trinidad & T,Chennai,2,2,14,24,15,2,0,93.33,caught,1,DNB,-,-,-,-
+8180,Shane Watson,2 Oct 2011,v MI,Chennai,2,1,3,5,6,0,0,50,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,4 Oct 2011,v CSK,Chennai,1,2,21,-,19,3,0,110.52,caught,2,DNB,-,-,-,-
+8180,Shane Watson,7 Oct 2011,v RCB,Bengaluru,1,1,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+8180,Shane Watson,13 Oct 2011,v South Africa,Cape Town,2,1,52,45,39,6,2,133.33,caught,1,4.0,0,26,1,6.5
+8180,Shane Watson,27 Mar 2012,v West Indies,Gros Islet,2,2,69,-,43,5,6,160.46,caught,1,4.0,0,16,1,4
+8180,Shane Watson,30 Mar 2012,v West Indies,Bridgetown,2,2,0,4,2,0,0,0,caught,1,4.0,0,26,2,6.5
+8180,Shane Watson,1 May 2012,v Daredevils,Jaipur,1,3,8,7,9,0,1,88.88,bowled,2,4.0,0,29,1,7.25
+8180,Shane Watson,5 May 2012,v Kings XI,Mohali,1,3,36,29,17,4,2,211.76,caught,2,4.0,1,22,2,5.5
+8180,Shane Watson,8 May 2012,v Warriors,Pune,2,3,90*,71,51,10,4,176.47,not out,1,4.0,0,28,0,7
+8180,Shane Watson,10 May 2012,v CSK,Jaipur,1,3,5,20,11,1,0,45.45,caught,2,3.0,0,32,1,10.66
+8180,Shane Watson,13 May 2012,v Warriors,Jaipur,1,3,58,47,31,6,4,187.09,bowled,2,3.0,0,19,2,6.33
+8180,Shane Watson,18 May 2012,v Chargers,Hyderabad,1,3,13,21,13,1,1,100,bowled,2,2.0,0,14,0,7
+8180,Shane Watson,20 May 2012,v MI,Jaipur,1,3,45,-,36,4,2,125,caught,2,3.0,0,17,0,5.66
+8180,Shane Watson,5 Sep 2012,v Pakistan,Dubai (DICS),1,1,8,12,11,1,0,72.72,lbw,2,2.5,0,9,1,3.17
+8180,Shane Watson,7 Sep 2012,v Pakistan,Dubai (DICS),2,2,33,48,28,2,2,117.85,lbw,1,4.0,0,29,1,7.25
+8180,Shane Watson,10 Sep 2012,v Pakistan,Dubai (DICS),1,2,47,47,32,1,5,146.87,caught,2,3.0,0,13,1,4.33
+8180,Shane Watson,19 Sep 2012,v Ireland,Colombo (RPS),2,2,51,45,30,5,3,170,run out,1,4.0,0,26,3,6.5
+8180,Shane Watson,22 Sep 2012,v West Indies,Colombo (RPS),2,2,41*,43,24,2,3,170.83,not out,1,4.0,0,29,2,7.25
+8180,Shane Watson,28 Sep 2012,v India,Colombo (RPS),2,1,72,55,42,2,7,171.42,caught,1,4.0,0,34,3,8.5
+8180,Shane Watson,30 Sep 2012,v South Africa,Colombo (RPS),2,2,70,62,47,8,2,148.93,caught,1,4.0,0,29,2,7.25
+8180,Shane Watson,2 Oct 2012,v Pakistan,Colombo (RPS),2,1,8,14,14,1,0,57.14,lbw,1,4.0,0,23,1,5.75
+8180,Shane Watson,5 Oct 2012,v West Indies,Colombo (RPS),2,2,7,19,9,1,0,77.77,bowled,1,4.0,0,35,0,8.75
+8180,Shane Watson,14 Oct 2012,v CSK,Johannesburg,1,2,46,39,30,5,2,153.33,run out,2,3.0,0,31,1,10.33
+8180,Shane Watson,16 Oct 2012,v Yorkshire,Cape Town,2,1,11,3,6,1,1,183.33,caught,1,4.0,0,27,2,6.75
+8180,Shane Watson,18 Oct 2012,v Lions,Cape Town,2,2,47,42,38,4,3,123.68,caught,1,4.0,0,25,2,6.25
+8180,Shane Watson,9 Dec 2012,v Hurricanes,Brisbane,1,1,17,-,14,0,2,121.42,caught,2,3.0,0,17,0,5.66
+8180,Shane Watson,8 Apr 2013,v KKR,Jaipur,1,1,5,13,10,1,0,50,caught,2,DNB,-,-,-,-
+8180,Shane Watson,14 Apr 2013,v Kings XI,Jaipur,2,1,32,21,19,7,0,168.42,caught,1,DNB,-,-,-,-
+8180,Shane Watson,17 Apr 2013,v MI,Jaipur,1,1,31,35,25,5,1,124,caught,2,DNB,-,-,-,-
+8180,Shane Watson,20 Apr 2013,v RCB,Bengaluru,1,1,6,9,9,1,0,66.66,caught,2,2.0,0,11,2,5.5
+8180,Shane Watson,22 Apr 2013,v CSK,Chennai,1,1,101,82,61,6,6,165.57,caught,2,1.5,0,21,0,11.45
+8180,Shane Watson,27 Apr 2013,v SRH,Jaipur,2,3,98*,70,53,13,4,184.9,not out,1,2.0,0,16,0,8
+8180,Shane Watson,29 Apr 2013,v RCB,Jaipur,2,4,41,54,31,3,1,132.25,caught,1,4.0,0,22,3,5.5
+8180,Shane Watson,3 May 2013,v KKR,Eden Gardens,1,1,35,49,35,4,0,100,lbw,2,3.0,0,21,1,7
+8180,Shane Watson,5 May 2013,v Warriors,Jaipur,2,3,5,14,5,1,0,100,bowled,1,4.0,0,29,0,7.25
+8180,Shane Watson,7 May 2013,v Daredevils,Jaipur,2,3,28*,20,14,3,1,200,not out,1,3.0,0,21,1,7
+8180,Shane Watson,9 May 2013,v Kings XI,Mohali,2,3,31,37,25,3,1,124,bowled,1,4.0,0,19,1,4.75
+8180,Shane Watson,12 May 2013,v CSK,Jaipur,2,5,70,56,34,6,6,205.88,bowled,1,4.0,0,23,0,5.75
+8180,Shane Watson,15 May 2013,v MI,Wankhede,2,5,19,-,16,0,2,118.75,caught,1,4.0,0,30,2,7.5
+8180,Shane Watson,17 May 2013,v SRH,Hyderabad,2,3,11,-,20,0,0,55,caught,1,3.0,0,19,1,6.33
+8180,Shane Watson,22 May 2013,v SRH,Delhi,2,3,24,20,15,5,0,160,caught,1,4.0,0,32,1,8
+8180,Shane Watson,24 May 2013,v MI,Eden Gardens,1,3,6,8,8,1,0,75,caught,2,2.5,0,34,1,12
+8180,Shane Watson,29 Aug 2013,v England,Southampton,1,4,37,30,16,4,2,231.25,bowled,2,4.0,0,42,1,10.5
+8180,Shane Watson,31 Aug 2013,v England,Chester-le-Street,2,3,7,6,6,1,0,116.66,run out,1,2.0,0,24,0,12
+8180,Shane Watson,21 Sep 2013,v MI,Jaipur,2,4,27*,41,22,0,2,122.72,not out,1,3.0,0,26,1,8.66
+8180,Shane Watson,25 Sep 2013,v Lions,Jaipur,1,4,33,31,24,4,2,137.5,caught,2,4.0,0,27,1,6.75
+8180,Shane Watson,29 Sep 2013,v Scorchers,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+8180,Shane Watson,1 Oct 2013,v Otago,Jaipur,2,4,2,6,9,0,0,22.22,caught,1,3.0,0,24,1,8
+8180,Shane Watson,4 Oct 2013,v CSK,Jaipur,1,5,32,27,23,4,0,139.13,caught,2,4.0,0,34,1,8.5
+8180,Shane Watson,6 Oct 2013,v MI,Delhi,2,4,8,14,8,0,1,100,caught,1,3.0,0,30,1,10
+8180,Shane Watson,10 Oct 2013,v India,Rajkot,1,3,6,12,5,1,0,120,lbw,2,3.4,0,29,0,7.9
+8180,Shane Watson,12 Mar 2014,v South Africa,Durban,2,3,2,11,3,0,0,66.66,caught,1,1.0,0,14,0,14
+8180,Shane Watson,14 Mar 2014,v South Africa,Centurion,2,3,35,38,28,2,2,125,caught,1,1.0,0,11,0,11
+8180,Shane Watson,23 Mar 2014,v Pakistan,Mirpur,2,3,4,3,4,1,0,100,caught,1,4.0,0,38,1,9.5
+8180,Shane Watson,28 Mar 2014,v West Indies,Mirpur,1,3,2,12,8,0,0,25,stumped,2,2.0,1,11,0,5.5
+8180,Shane Watson,30 Mar 2014,v India,Mirpur,2,4,1,5,4,0,0,25,bowled,1,4.0,0,36,1,9
+8180,Shane Watson,1 Apr 2014,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+8180,Shane Watson,18 Apr 2014,v SRH,Abu Dhabi,2,4,3,-,7,0,0,42.85,caught,1,DNB,-,-,-,-
+8180,Shane Watson,20 Apr 2014,v Kings XI,Sharjah,1,4,50,30,29,5,3,172.41,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,23 Apr 2014,v CSK,Dubai (DICS),2,4,7,4,6,0,1,116.66,caught,1,1.0,0,5,0,5
+8180,Shane Watson,26 Apr 2014,v RCB,Abu Dhabi,2,5,24,29,24,1,2,100,caught,1,2.0,1,5,1,2.5
+8180,Shane Watson,29 Apr 2014,v KKR,Abu Dhabi,1,4,33,34,24,5,0,137.5,run out,2,3.0,0,26,0,8.66
+8180,Shane Watson,3 May 2014,v Daredevils,Delhi,2,5,16*,21,10,0,2,160,not out,1,1.0,0,11,0,11
+8180,Shane Watson,5 May 2014,v KKR,Ahmedabad,1,4,31,26,20,2,2,155,caught,2,4.0,0,21,3,5.25
+8180,Shane Watson,8 May 2014,v SRH,Ahmedabad,2,4,11,13,10,1,0,110,caught,1,2.0,0,13,3,6.5
+8180,Shane Watson,11 May 2014,v RCB,Bengaluru,2,3,1,5,5,0,0,20,bowled,1,4.0,0,35,0,8.75
+8180,Shane Watson,13 May 2014,v CSK,Ranchi,1,2,51,55,36,3,4,141.66,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,19 May 2014,v MI,Ahmedabad,2,3,5,7,6,1,0,83.33,caught,1,DNB,-,-,-,-
+8180,Shane Watson,23 May 2014,v Kings XI,Mohali,2,4,0,1,1,0,0,0,bowled,1,2.0,0,16,0,8
+8180,Shane Watson,25 May 2014,v MI,Wankhede,1,1,8,22,18,1,0,44.44,caught,2,2.0,0,33,0,16.5
+8180,Shane Watson,5 Nov 2014,v South Africa,Adelaide,1,3,47,54,36,0,3,130.55,caught,2,1.0,0,13,0,13
+8180,Shane Watson,7 Nov 2014,v South Africa,Melbourne,2,3,30,-,23,5,0,130.43,caught,1,DNB,-,-,-,-
+8180,Shane Watson,9 Nov 2014,v South Africa,Sydney,2,3,5,-,10,0,0,50,caught,1,DNB,-,-,-,-
+8180,Shane Watson,19 Apr 2015,v CSK,Ahmedabad,2,2,73,75,47,6,4,155.31,bowled,1,2.0,0,20,0,10
+8180,Shane Watson,21 Apr 2015,v Kings XI,Ahmedabad,1,2,45,52,35,5,2,128.57,stumped,2,1.0,0,13,0,13
+8180,Shane Watson,24 Apr 2015,v RCB,Ahmedabad,1,2,26,26,22,4,1,118.18,caught,2,3.0,0,23,1,7.66
+8180,Shane Watson,29 Apr 2015,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+8180,Shane Watson,1 May 2015,v MI,Wankhede,2,2,28,41,23,2,2,121.73,bowled,1,3.0,0,36,0,12
+8180,Shane Watson,3 May 2015,v Daredevils,Brabourne,1,2,21,35,24,4,0,87.5,caught,2,4.0,1,25,1,6.25
+8180,Shane Watson,7 May 2015,v SRH,Brabourne,2,2,12,17,12,3,0,100,caught,1,3.0,0,36,2,12
+8180,Shane Watson,10 May 2015,v CSK,Chennai,2,2,28,53,30,2,0,93.33,caught,1,2.0,0,19,0,9.5
+8180,Shane Watson,16 May 2015,v KKR,Brabourne,1,2,104*,105,59,9,5,176.27,not out,2,4.0,0,38,2,9.5
+8180,Shane Watson,20 May 2015,v RCB,Pune,2,2,10,8,5,2,0,200,caught,1,4.0,0,32,0,8
+8180,Shane Watson,31 Aug 2015,v England,Cardiff,2,2,8,8,5,2,0,160,bowled,1,2.0,0,33,0,16.5
+8180,Shane Watson,6 Dec 2015,v Central D,Christchurch,1,1,0,3,5,0,0,0,caught,2,DNB,-,-,-,-
+8180,Shane Watson,17 Dec 2015,v Sixers,Sydney,1,4,16,-,12,1,1,133.33,bowled,2,2.0,0,13,3,6.5
+8180,Shane Watson,20 Dec 2015,v Stars,Melbourne,1,4,1,3,2,0,0,50,lbw,2,3.0,0,29,1,9.66
+8180,Shane Watson,28 Dec 2015,v Strikers,Sydney,2,3,13,-,15,2,0,86.66,bowled,1,2.0,0,13,0,6.5
+8180,Shane Watson,1 Jan 2016,v Hurricanes,Hobart,2,3,0,1,2,0,0,0,caught,1,3.0,0,15,0,5
+8180,Shane Watson,3 Jan 2016,v Heat,Brisbane,1,3,46,-,31,0,5,148.38,caught,2,2.0,0,20,1,10
+8180,Shane Watson,7 Jan 2016,v Scorchers,Sydney,2,4,18,-,17,3,0,105.88,bowled,1,4.0,0,38,0,9.5
+8180,Shane Watson,11 Jan 2016,v Renegades,Sydney,1,3,62,-,43,3,4,144.18,caught,2,3.2,0,36,0,10.8
+8180,Shane Watson,16 Jan 2016,v Sixers,Sydney,1,1,66,-,41,7,3,160.97,caught,2,2.0,0,22,0,11
+8180,Shane Watson,21 Jan 2016,v Strikers,Adelaide,2,2,7,-,8,1,0,87.5,caught,1,4.0,0,28,2,7
+8180,Shane Watson,24 Jan 2016,v Stars,Melbourne,2,3,6,7,7,0,0,85.71,caught,1,3.0,0,17,2,5.66
+8180,Shane Watson,26 Jan 2016,v India,Adelaide,2,6,12,8,10,0,1,120,caught,1,4.0,0,24,2,6
+8180,Shane Watson,29 Jan 2016,v India,Melbourne,2,5,15,12,11,2,0,136.36,caught,1,3.0,0,17,0,5.66
+8180,Shane Watson,31 Jan 2016,v India,Sydney,1,2,124*,86,71,10,6,174.64,not out,2,4.0,0,30,1,7.5
+8180,Shane Watson,4 Feb 2016,v Gladiators,Dubai (DICS),1,1,15,-,27,1,0,55.55,bowled,2,2.0,0,13,0,6.5
+8180,Shane Watson,5 Feb 2016,v Zalmi,Dubai (DICS),2,1,28,-,31,4,0,90.32,caught,1,4.0,0,37,1,9.25
+8180,Shane Watson,7 Feb 2016,v Kings,Dubai (DICS),1,1,13,-,14,0,1,92.85,lbw,2,4.0,0,31,0,7.75
+8180,Shane Watson,10 Feb 2016,v Qalandars,Sharjah,2,1,79,-,47,4,7,168.08,caught,1,2.0,0,24,0,12
+8180,Shane Watson,11 Feb 2016,v Gladiators,Sharjah,1,1,40,-,28,3,3,142.85,caught,2,1.0,0,7,0,7
+8180,Shane Watson,12 Feb 2016,v Zalmi,Sharjah,1,1,19,-,20,4,0,95,bowled,2,1.0,0,5,0,5
+8180,Shane Watson,6 Mar 2016,v South Africa,Johannesburg,2,2,9,29,15,2,0,60,caught,1,DNB,-,-,-,-
+8180,Shane Watson,9 Mar 2016,v South Africa,Cape Town,2,2,42,36,27,2,3,155.55,caught,1,2.0,0,22,1,11
+8180,Shane Watson,18 Mar 2016,v New Zealand,Dharamsala,2,2,13,22,12,1,0,108.33,caught,1,4.0,0,22,1,5.5
+8180,Shane Watson,21 Mar 2016,v Bangladesh,Bengaluru,2,2,21,34,15,2,1,140,run out,1,4.0,0,31,2,7.75
+8180,Shane Watson,25 Mar 2016,v Pakistan,Mohali,1,6,44*,28,21,4,3,209.52,not out,2,2.0,0,27,0,13.5
+8180,Shane Watson,27 Mar 2016,v India,Mohali,1,6,18*,32,16,2,0,112.5,not out,2,4.0,0,23,2,5.75
+8180,Shane Watson,12 Apr 2016,v SRH,Bengaluru,1,4,19,10,8,0,3,237.5,caught,2,4.0,0,30,2,7.5
+8180,Shane Watson,17 Apr 2016,v Daredevils,Bengaluru,1,4,33,25,19,2,3,173.68,caught,2,4.0,0,25,2,6.25
+8180,Shane Watson,20 Apr 2016,v MI,Wankhede,1,4,5,14,10,0,0,50,caught,2,4.0,0,40,0,10
+8180,Shane Watson,22 Apr 2016,v Supergiants,Pune,1,4,1*,3,1,0,0,100,not out,2,4.0,0,31,2,7.75
+8180,Shane Watson,24 Apr 2016,v Guj Lions,Rajkot,1,2,6,7,6,1,0,100,caught,2,3.3,0,31,1,8.85
+8180,Shane Watson,30 Apr 2016,v SRH,Hyderabad,2,4,2,8,3,0,0,66.66,run out,1,4.0,0,33,1,8.25
+8180,Shane Watson,2 May 2016,v KKR,Bengaluru,1,5,34,36,21,5,1,161.9,run out,2,3.0,0,38,1,12.66
+8180,Shane Watson,7 May 2016,v Supergiants,Bengaluru,2,4,36,17,13,5,2,276.92,lbw,1,4.0,0,24,3,6
+8180,Shane Watson,9 May 2016,v Kings XI,Mohali,1,4,1,4,3,0,0,33.33,bowled,2,4.0,0,22,2,5.5
+8180,Shane Watson,11 May 2016,v MI,Bengaluru,1,5,15,27,14,1,1,107.14,run out,2,3.0,0,38,0,12.66
+8180,Shane Watson,14 May 2016,v Guj Lions,Bengaluru,1,4,0,1,1,0,0,0,caught,2,1.0,0,3,0,3
+8180,Shane Watson,16 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+8180,Shane Watson,18 May 2016,v Kings XI,Bengaluru,1,5,1*,-,2,0,0,50,not out,2,2.0,0,7,2,3.5
+8180,Shane Watson,22 May 2016,v Daredevils,Raipur,2,5,14,18,18,0,1,77.77,caught,1,4.0,0,27,0,6.75
+8180,Shane Watson,24 May 2016,v Guj Lions,Bengaluru,2,5,1,5,6,0,0,16.66,caught,1,4.0,0,29,4,7.25
+8180,Shane Watson,29 May 2016,v SRH,Bengaluru,2,5,11,16,9,0,1,122.22,caught,1,4.0,0,61,0,15.25
+8180,Shane Watson,29 Jun 2016,v Trinbago,Port of Spain,2,2,16,-,15,2,1,106.66,caught,1,4.0,0,26,3,6.5
+8180,Shane Watson,3 Jul 2016,v Patriots,Basseterre,2,2,55,-,31,4,3,177.41,caught,1,4.0,0,36,3,9
+8180,Shane Watson,12 Jul 2016,v Amazon,Providence,1,2,4,-,4,1,0,100,caught,2,4.0,0,21,0,5.25
+8180,Shane Watson,17 Jul 2016,v Tridents,Bridgetown,2,3,0,-,5,0,0,0,bowled,1,4.0,0,37,0,9.25
+8180,Shane Watson,21 Jul 2016,v Patriots,Gros Islet,1,3,15,-,14,2,0,107.14,caught,2,4.0,0,27,1,6.75
+8180,Shane Watson,23 Jul 2016,v Tridents,Gros Islet,2,3,19,-,13,0,2,146.15,caught,1,4.0,0,29,2,7.25
+8180,Shane Watson,24 Jul 2016,v Amazon,Gros Islet,2,3,57*,-,39,7,0,146.15,not out,1,4.0,0,27,2,6.75
+8180,Shane Watson,26 Jul 2016,v Trinbago,Gros Islet,1,3,32,-,28,2,0,114.28,run out,2,4.0,0,43,0,10.75
+8180,Shane Watson,30 Jul 2016,v Tallawahs,Lauderhill,1,3,43,-,20,1,5,215,caught,2,3.0,0,24,0,8
+8180,Shane Watson,31 Jul 2016,v Tallawahs,Lauderhill,1,4,42*,-,17,0,5,247.05,not out,2,4.0,0,26,1,6.5
+8180,Shane Watson,4 Aug 2016,v Trinbago,Basseterre,1,3,4,-,3,1,0,133.33,caught,2,4.0,0,33,0,8.25
+8180,Shane Watson,28 Dec 2016,v Heat,Sydney,1,3,0,-,6,0,0,0,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,1 Jan 2017,v Scorchers,W.A.C.A,2,3,3,-,7,0,0,42.85,caught,1,2.0,0,18,1,9
+8180,Shane Watson,4 Jan 2017,v Stars,Sydney,2,3,3,-,3,0,0,100,caught,1,4.0,0,23,3,5.75
+8180,Shane Watson,8 Jan 2017,v Hurricanes,Hobart,2,3,55,-,31,2,5,177.41,caught,1,4.0,0,30,0,7.5
+8180,Shane Watson,14 Jan 2017,v Sixers,Sydney,2,3,4,-,3,1,0,133.33,caught,1,4.0,0,16,1,4
+8180,Shane Watson,18 Jan 2017,v Strikers,Sydney,2,3,39,-,26,6,1,150,caught,1,4.0,0,42,2,10.5
+8180,Shane Watson,9 Feb 2017,v Zalmi,Dubai (DICS),2,4,26*,-,13,2,2,200,not out,1,4.0,0,44,4,11
+8180,Shane Watson,11 Feb 2017,v Qalandars,Dubai (DICS),1,5,7,-,6,1,0,116.66,caught,2,4.0,0,40,1,10
+8180,Shane Watson,15 Feb 2017,v Gladiators,Sharjah,2,5,36,-,27,4,2,133.33,caught,1,3.0,0,22,2,7.33
+8180,Shane Watson,17 Feb 2017,v Kings,Sharjah,1,5,26,-,14,2,2,185.71,run out,2,1.0,0,9,0,9
+8180,Shane Watson,18 Feb 2017,v Zalmi,Sharjah,2,6,30,-,22,1,2,136.36,run out,1,2.0,0,25,0,12.5
+8180,Shane Watson,20 Feb 2017,v Qalandars,Sharjah,1,6,7,-,9,0,0,77.77,lbw,2,3.0,0,25,1,8.33
+8180,Shane Watson,24 Feb 2017,v Gladiators,Dubai (DICS),1,6,29,-,16,2,2,181.25,lbw,2,1.0,0,10,0,10
+8180,Shane Watson,26 Feb 2017,v Kings,Dubai (DICS),1,4,2,-,7,0,0,28.57,caught,2,1.0,0,5,0,5
+8180,Shane Watson,1 Mar 2017,v Kings,Sharjah,2,5,8,-,9,1,0,88.88,bowled,1,4.0,0,29,2,7.25
+8180,Shane Watson,5 Apr 2017,v SRH,Hyderabad,2,5,22,31,17,1,1,129.41,caught,1,3.0,0,41,0,13.66
+8180,Shane Watson,8 Apr 2017,v Daredevils,Bengaluru,1,2,24,42,24,4,0,100,stumped,2,4.0,0,21,1,5.25
+8180,Shane Watson,10 Apr 2017,v Kings XI,Indore,1,1,1,3,4,0,0,25,bowled,2,2.0,0,28,0,14
+8180,Shane Watson,16 Apr 2017,v Supergiant,Bengaluru,2,5,14,27,18,1,0,77.77,bowled,1,4.0,0,44,1,11
+8180,Shane Watson,18 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+8180,Shane Watson,1 May 2017,v MI,Wankhede,1,6,3,8,5,0,0,60,bowled,2,3.5,0,28,1,7.3
+8180,Shane Watson,5 May 2017,v Kings XI,Bengaluru,2,6,3,11,6,0,0,50,caught,1,4.0,0,43,1,10.75
+8180,Shane Watson,14 May 2017,v Daredevils,Delhi,1,7,4*,15,4,0,0,100,not out,2,4.0,0,16,1,4
+8180,Shane Watson,10 Aug 2017,v Tridents,Gros Islet,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+8180,Shane Watson,12 Aug 2017,v Patriots,Gros Islet,2,5,12,-,13,0,1,92.3,caught,1,DNB,-,-,-,-
+8180,Shane Watson,13 Aug 2017,v Amazon,Gros Islet,1,4,32,-,27,3,1,118.51,caught,2,DNB,-,-,-,-
+8180,Shane Watson,15 Aug 2017,v Tallawahs,Gros Islet,1,3,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+8180,Shane Watson,19 Aug 2017,v Patriots,Basseterre,1,3,12*,-,11,0,1,109.09,not out,-,TDNB,-,-,-,-
+8180,Shane Watson,22 Aug 2017,v Amazon,Providence,1,3,0,-,1,0,0,0,run out,2,DNB,-,-,-,-
+8180,Shane Watson,25 Aug 2017,v Tallawahs,Kingston,1,3,80,-,45,3,7,177.77,caught,2,3.0,0,24,1,8
+8180,Shane Watson,31 Aug 2017,v Tridents,Bridgetown,2,3,22,-,17,1,2,129.41,caught,1,3.0,0,55,0,18.33
+8180,Shane Watson,19 Dec 2017,v Sixers,Sydney,2,3,77,-,46,6,6,167.39,caught,1,1.0,0,15,0,15
+8180,Shane Watson,22 Dec 2017,v Strikers,Adelaide,2,3,12,-,12,2,0,100,caught,1,DNB,-,-,-,-
+8180,Shane Watson,27 Dec 2017,v Heat,Brisbane,1,3,56,-,34,6,2,164.7,caught,2,2.0,0,13,1,6.5
+8180,Shane Watson,30 Dec 2017,v Hurricanes,Launceston,1,3,41,-,35,4,1,117.14,run out,2,DNB,-,-,-,-
+8180,Shane Watson,1 Jan 2018,v Hurricanes,Sydney,2,3,36,-,31,4,1,116.12,caught,1,3.4,0,35,1,9.54
+8180,Shane Watson,7 Jan 2018,v Strikers,Sydney,2,3,14,-,16,1,0,87.5,caught,1,1.0,0,8,0,8
+8180,Shane Watson,11 Jan 2018,v Scorchers,Sydney,1,3,21,-,15,3,0,140,caught,2,DNB,-,-,-,-
+8180,Shane Watson,13 Jan 2018,v Sixers,Sydney,1,3,3,-,5,0,0,60,bowled,2,2.0,0,26,0,13
+8180,Shane Watson,20 Jan 2018,v Stars,Melbourne,2,3,49*,-,28,5,2,175,not out,1,4.0,0,34,1,8.5
+8180,Shane Watson,24 Jan 2018,v Renegades,Canberra,2,3,22,-,16,0,3,137.5,caught,1,4.0,0,37,0,9.25
+8180,Shane Watson,23 Feb 2018,v Kings,Dubai (DICS),2,2,1,-,6,0,0,16.66,run out,1,4.0,0,22,3,5.5
+8180,Shane Watson,24 Feb 2018,v Qalandars,Dubai (DICS),2,2,66,-,42,5,5,157.14,bowled,1,4.0,0,35,1,8.75
+8180,Shane Watson,28 Feb 2018,v United,Sharjah,2,2,13,-,11,1,1,118.18,caught,1,4.0,0,35,1,8.75
+8180,Shane Watson,1 Mar 2018,v Zalmi,Sharjah,1,2,47,-,32,1,5,146.87,bowled,2,4.0,0,16,1,4
+8180,Shane Watson,3 Mar 2018,v Sultans,Sharjah,1,2,19,-,17,2,1,111.76,caught,2,1.0,0,6,0,6
+8180,Shane Watson,7 Mar 2018,v Sultans,Dubai (DICS),2,2,26,-,26,5,0,100,caught,1,4.0,0,37,1,9.25
+8180,Shane Watson,8 Mar 2018,v Kings,Dubai (DICS),1,2,90*,-,58,5,7,155.17,not out,2,3.0,0,18,1,6
+8180,Shane Watson,10 Mar 2018,v Zalmi,Dubai (DICS),2,2,37,-,25,6,1,148,caught,1,4.0,0,26,2,6.5
+8180,Shane Watson,14 Mar 2018,v Qalandars,Sharjah,2,2,12,-,13,0,1,92.3,bowled,1,4.0,0,50,0,12.5
+8180,Shane Watson,15 Mar 2018,v United,Sharjah,1,2,8,-,6,0,1,133.33,caught,2,4.0,0,31,1,7.75
+8180,Shane Watson,7 Apr 2018,v MI,Wankhede,2,1,16,-,14,1,1,114.28,caught,1,4.0,0,29,2,7.25
+8180,Shane Watson,10 Apr 2018,v KKR,Chennai,2,1,42,-,19,3,3,221.05,caught,1,4.0,0,39,2,9.75
+8180,Shane Watson,15 Apr 2018,v Kings XI,Mohali,2,1,11,-,9,2,0,122.22,caught,1,2.0,0,15,1,7.5
+8180,Shane Watson,20 Apr 2018,v RR,Pune,1,1,106,-,57,9,6,185.96,caught,2,3.0,0,13,1,4.33
+8180,Shane Watson,22 Apr 2018,v SRH,Hyderabad,1,1,9,-,15,0,1,60,caught,2,2.0,0,23,0,11.5
+8180,Shane Watson,25 Apr 2018,v RCB,Bengaluru,2,1,7,-,4,0,1,175,caught,1,2.0,0,21,0,10.5
+8180,Shane Watson,28 Apr 2018,v MI,Pune,1,1,12,-,11,1,0,109.09,caught,2,4.0,0,41,0,10.25
+8180,Shane Watson,30 Apr 2018,v Daredevils,Pune,1,1,78,-,40,4,7,195,caught,2,2.0,0,27,0,13.5
+8180,Shane Watson,3 May 2018,v KKR,Eden Gardens,1,1,36,-,25,4,2,144,caught,2,2.0,0,19,0,9.5
+8180,Shane Watson,5 May 2018,v RCB,Pune,2,1,11,-,14,2,0,78.57,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,11 May 2018,v RR,Jaipur,1,1,39,-,31,2,2,125.8,caught,2,1.0,0,9,0,9
+8180,Shane Watson,13 May 2018,v SRH,Pune,2,1,57,-,35,5,3,162.85,run out,1,2.0,0,15,0,7.5
+8180,Shane Watson,18 May 2018,v Daredevils,Delhi,2,1,14,-,23,0,1,60.86,caught,1,DNB,-,-,-,-
+8180,Shane Watson,22 May 2018,v SRH,Wankhede,2,1,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+8180,Shane Watson,27 May 2018,v SRH,Wankhede,2,1,117*,-,57,11,8,205.26,not out,1,DNB,-,-,-,-
+8180,Shane Watson,21 Dec 2018,v Stars,Canberra,1,2,22,-,19,3,0,115.78,caught,2,DNB,-,-,-,-
+8180,Shane Watson,24 Dec 2018,v Sixers,Sydney,1,2,19,-,15,3,1,126.66,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,28 Dec 2018,v Hurricanes,Hobart,1,2,20,-,14,3,1,142.85,lbw,2,DNB,-,-,-,-
+8180,Shane Watson,31 Dec 2018,v Strikers,Adelaide,2,1,28,-,25,2,1,112,caught,1,DNB,-,-,-,-
+8180,Shane Watson,2 Jan 2019,v Scorchers,Sydney,1,2,4,-,7,0,0,57.14,caught,2,DNB,-,-,-,-
+8180,Shane Watson,5 Jan 2019,v Stars,Carrara,1,2,14,-,13,1,0,107.69,caught,2,DNB,-,-,-,-
+8180,Shane Watson,8 Jan 2019,v Heat,Sydney,2,2,13*,-,14,0,1,92.85,not out,1,DNB,-,-,-,-
+8180,Shane Watson,13 Jan 2019,v Strikers,Sydney,1,2,68,-,40,4,5,170,caught,2,DNB,-,-,-,-
+8180,Shane Watson,17 Jan 2019,v Heat,Brisbane,1,2,100,-,62,8,6,161.29,caught,2,DNB,-,-,-,-
+8180,Shane Watson,22 Jan 2019,v Renegades,Sydney,2,2,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+8180,Shane Watson,24 Jan 2019,v Scorchers,Perth,2,1,8,-,14,1,0,57.14,caught,1,DNB,-,-,-,-
+8180,Shane Watson,30 Jan 2019,v Renegades,Melbourne (Docklands),2,1,4,-,4,1,0,100,caught,1,DNB,-,-,-,-
+8180,Shane Watson,2 Feb 2019,v Sixers,Sydney,1,1,28,-,24,2,2,116.66,caught,2,DNB,-,-,-,-
+8180,Shane Watson,9 Feb 2019,v Hurricanes,Canberra,2,2,15,-,9,2,1,166.66,caught,1,DNB,-,-,-,-
+8180,Shane Watson,15 Feb 2019,v Zalmi,Dubai (DICS),2,2,19,-,15,2,1,126.66,caught,1,DNB,-,-,-,-
+8180,Shane Watson,17 Feb 2019,v United,Dubai (DICS),2,1,81*,-,55,6,4,147.27,not out,1,DNB,-,-,-,-
+8180,Shane Watson,20 Feb 2019,v Sultans,Sharjah,2,1,61,-,40,11,0,152.5,caught,1,DNB,-,-,-,-
+8180,Shane Watson,23 Feb 2019,v Qalandars,Sharjah,2,1,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+8180,Shane Watson,24 Feb 2019,v Kings,Sharjah,1,1,25,-,24,2,2,104.16,caught,2,DNB,-,-,-,-
+8180,Shane Watson,27 Feb 2019,v Qalandars,Dubai (DICS),1,1,7,-,7,1,0,100,lbw,2,DNB,-,-,-,-
+8180,Shane Watson,1 Mar 2019,v Sultans,Dubai (DICS),2,1,33,-,25,6,1,132,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,4 Mar 2019,v Zalmi,Abu Dhabi,2,1,91*,-,55,6,6,165.45,not out,1,DNB,-,-,-,-
+8180,Shane Watson,5 Mar 2019,v United,Abu Dhabi,1,1,15,-,11,2,1,136.36,caught,2,DNB,-,-,-,-
+8180,Shane Watson,10 Mar 2019,v Kings,Karachi,2,1,20,-,15,1,1,133.33,caught,1,DNB,-,-,-,-
+8180,Shane Watson,13 Mar 2019,v Zalmi,Karachi,1,1,71,-,43,5,6,165.11,bowled,2,1.0,0,10,1,10
+8180,Shane Watson,17 Mar 2019,v Zalmi,Karachi,2,1,7,-,6,1,0,116.66,run out,1,DNB,-,-,-,-
+8180,Shane Watson,23 Mar 2019,v RCB,Chennai,2,1,0,-,10,0,0,0,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,26 Mar 2019,v DC,Delhi,2,1,44,36,26,4,3,169.23,stumped,1,DNB,-,-,-,-
+8180,Shane Watson,31 Mar 2019,v RR,Chennai,1,2,13,-,13,1,1,100,caught,2,DNB,-,-,-,-
+8180,Shane Watson,3 Apr 2019,v MI,Wankhede,2,1,5,9,6,1,0,83.33,caught,1,DNB,-,-,-,-
+8180,Shane Watson,6 Apr 2019,v Kings XI,Chennai,1,1,26,39,24,3,1,108.33,caught,2,DNB,-,-,-,-
+8180,Shane Watson,9 Apr 2019,v KKR,Chennai,2,1,17,10,9,2,1,188.88,caught,1,DNB,-,-,-,-
+8180,Shane Watson,11 Apr 2019,v RR,Jaipur,2,1,0,3,4,0,0,0,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,14 Apr 2019,v KKR,Eden Gardens,2,1,6,17,7,1,0,85.71,lbw,1,DNB,-,-,-,-
+8180,Shane Watson,17 Apr 2019,v SRH,Hyderabad,1,1,31,45,29,4,0,106.89,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,21 Apr 2019,v RCB,Bengaluru,2,1,5,6,3,1,0,166.66,caught,1,DNB,-,-,-,-
+8180,Shane Watson,23 Apr 2019,v SRH,Chennai,2,1,96,91,53,9,6,181.13,caught,1,DNB,-,-,-,-
+8180,Shane Watson,26 Apr 2019,v MI,Chennai,2,2,8,6,4,2,0,200,caught,1,DNB,-,-,-,-
+8180,Shane Watson,1 May 2019,v DC,Chennai,1,2,0,14,9,0,0,0,caught,2,DNB,-,-,-,-
+8180,Shane Watson,5 May 2019,v Kings XI,Mohali,1,2,7,21,11,1,0,63.63,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,7 May 2019,v MI,Chennai,1,2,10,29,13,2,0,76.92,caught,2,DNB,-,-,-,-
+8180,Shane Watson,10 May 2019,v DC,Visakhapatnam,2,2,50,63,32,3,4,156.25,caught,1,DNB,-,-,-,-
+8180,Shane Watson,12 May 2019,v MI,Hyderabad,2,2,80,-,59,8,4,135.59,run out,1,DNB,-,-,-,-
+8180,Shane Watson,27 Dec 2019,v Khulna,Mirpur,2,1,5,-,10,1,0,50,caught,1,DNB,-,-,-,-
+8180,Shane Watson,30 Dec 2019,v Thunder,Mirpur,2,2,1,-,6,0,0,16.66,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,31 Dec 2019,v Royals,Mirpur,1,2,7,-,7,0,1,100,caught,2,DNB,-,-,-,-
+8180,Shane Watson,2 Jan 2020,v Royals,Sylhet,2,2,2,-,9,0,0,22.22,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,3 Jan 2020,v Thunder,Sylhet,1,2,68,-,36,6,5,188.88,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,8 Jan 2020,v Platoon,Mirpur,2,2,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+8180,Shane Watson,10 Jan 2020,v Platoon,Mirpur,1,1,10,-,8,1,1,125,caught,2,DNB,-,-,-,-
+8180,Shane Watson,20 Feb 2020,v United,Karachi,2,2,15,-,12,2,1,125,run out,1,DNB,-,-,-,-
+8180,Shane Watson,22 Feb 2020,v Zalmi,Karachi,1,2,8,-,10,1,0,80,caught,2,DNB,-,-,-,-
+8180,Shane Watson,23 Feb 2020,v Kings,Karachi,2,2,27,-,20,2,2,135,run out,1,DNB,-,-,-,-
+8180,Shane Watson,27 Feb 2020,v United,Rawalpindi,2,2,9,-,8,2,0,112.5,caught,1,DNB,-,-,-,-
+8180,Shane Watson,29 Feb 2020,v Sultans,Multan,2,2,80,-,41,7,7,195.12,caught,1,DNB,-,-,-,-
+8180,Shane Watson,3 Mar 2020,v Qalandars,Lahore,2,2,23,-,17,1,2,135.29,caught,1,DNB,-,-,-,-
+8180,Shane Watson,5 Mar 2020,v Zalmi,Rawalpindi,2,2,19,-,14,4,0,135.71,caught,1,DNB,-,-,-,-
+8180,Shane Watson,7 Mar 2020,v Qalandars,Lahore,1,2,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+8180,Shane Watson,15 Mar 2020,v Kings,Karachi,2,2,66,-,34,7,4,194.11,caught,1,DNB,-,-,-,-
+8180,Shane Watson,19 Sep 2020,v MI,Abu Dhabi,2,2,4,-,5,1,0,80,lbw,1,DNB,-,-,-,-
+8180,Shane Watson,22 Sep 2020,v RR,Sharjah,2,2,33,-,21,1,4,157.14,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,25 Sep 2020,v DC,Dubai (DICS),2,2,14,-,16,1,1,87.5,caught,1,DNB,-,-,-,-
+8180,Shane Watson,2 Oct 2020,v SRH,Dubai (DICS),2,2,1,-,6,0,0,16.66,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,4 Oct 2020,v Kings XI,Dubai (DICS),2,1,83*,-,53,11,3,156.6,not out,1,DNB,-,-,-,-
+8180,Shane Watson,7 Oct 2020,v KKR,Abu Dhabi,2,1,50,-,40,6,1,125,lbw,1,DNB,-,-,-,-
+8180,Shane Watson,10 Oct 2020,v RCB,Dubai (DICS),2,1,14,-,18,3,0,77.77,bowled,1,DNB,-,-,-,-
+8180,Shane Watson,13 Oct 2020,v SRH,Dubai (DICS),1,3,42,-,38,1,3,110.52,caught,2,DNB,-,-,-,-
+8180,Shane Watson,17 Oct 2020,v DC,Sharjah,1,3,36,-,28,6,0,128.57,bowled,2,DNB,-,-,-,-
+8180,Shane Watson,19 Oct 2020,v RR,Abu Dhabi,1,3,8,-,3,2,0,266.66,caught,2,DNB,-,-,-,-
+8180,Shane Watson,29 Oct 2020,v KKR,Dubai (DICS),2,1,14,-,19,1,1,73.68,caught,1,DNB,-,-,-,-

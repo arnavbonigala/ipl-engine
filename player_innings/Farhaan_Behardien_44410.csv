@@ -1,0 +1,205 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+44410,Farhaan Behardien,25 Feb 2007,v Eagles,Centurion,2,7,23*,33,18,1,1,127.77,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Mar 2007,v Warriors,Gqeberha,1,5,7,17,12,1,0,58.33,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Mar 2007,v Cape Cobras,Cape Town,2,7,13,17,16,1,0,81.25,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Mar 2007,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Mar 2007,v Dolphins,Benoni,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Mar 2007,v Lions,Johannesburg,2,7,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Mar 2008,v Warriors,Benoni,1,6,22*,18,10,1,2,220,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Mar 2008,v Eagles,Kimberley,1,6,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Apr 2008,v Cape Cobras,Centurion,2,5,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Apr 2008,v Dolphins,Durban,2,7,3,7,4,0,0,75,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,11 Apr 2008,v Zimbabwe,Centurion,2,5,16,19,19,1,0,84.21,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Apr 2008,v Lions,Centurion,1,5,8,30,20,0,0,40,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Apr 2008,v Cape Cobras,Cape Town,1,6,32*,18,18,1,2,177.77,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Apr 2008,v Dolphins,Durban,1,6,2,5,4,0,0,50,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Jan 2009,v Warriors,Gqeberha,2,7,8,20,15,0,0,53.33,stumped,1,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Jan 2009,v Dolphins,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,1 Feb 2009,v Cape Cobras,Cape Town,2,6,11,12,11,1,0,100,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Feb 2009,v Eagles,Centurion,2,5,35,20,20,2,3,175,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,3 Feb 2010,v Dolphins,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Feb 2010,v Cape Cobras,Centurion,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,10 Feb 2010,v Lions,Centurion,1,6,19*,31,17,2,0,111.76,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Feb 2010,v Eagles,Kimberley,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Feb 2010,v Warriors,Centurion,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Feb 2010,v Lions,Johannesburg,1,6,15,17,12,1,0,125,run out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,5 Mar 2010,v Lions,Centurion,2,6,18,21,11,0,1,163.63,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Jan 2011,v Cape Cobras,Cape Town,1,6,11*,30,15,0,0,73.33,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Jan 2011,v Warriors,East London,1,6,7,9,8,1,0,87.5,run out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,4 Feb 2011,v Lions,Johannesburg,2,5,13,12,9,0,1,144.44,caught,1,1.0,0,10,0,10
+44410,Farhaan Behardien,13 Feb 2011,v Dolphins,Centurion,2,3,24,19,22,0,2,109.09,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Feb 2011,v Knights,Centurion,2,5,33,25,21,3,1,157.14,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,27 Feb 2011,v Cape Cobras,Cape Town,1,4,17,23,20,0,1,85,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Mar 2011,v Cape Cobras,Centurion,1,4,69,42,33,7,3,209.09,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Jan 2012,v E. Province,Gqeberha,1,4,46,61,44,1,2,104.54,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Feb 2012,v Warriors,East London,1,5,54*,50,37,3,3,145.94,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,19 Feb 2012,v Knights,Centurion,1,5,70,52,44,5,4,159.09,run out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Feb 2012,v Dolphins,Durban,2,5,6,9,8,0,0,75,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Feb 2012,v Impi,Benoni,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Mar 2012,v Lions,Centurion,1,5,22,34,23,1,0,95.65,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,4 Mar 2012,v Cape Cobras,Cape Town,2,5,29*,23,14,2,2,207.14,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Mar 2012,v Dolphins,Centurion,1,5,0*,2,0,0,0,-,not out,-,TDNB,-,-,-,-
+44410,Farhaan Behardien,11 Mar 2012,v Lions,Johannesburg,2,6,48,34,26,2,4,184.61,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Mar 2012,v Impi,Centurion,2,6,0*,3,0,0,0,-,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Mar 2012,v Cape Cobras,Centurion,2,6,12*,22,10,0,1,120,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Mar 2012,v Warriors,Centurion,2,4,13*,13,9,2,0,144.44,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Mar 2012,v Knights,Centurion,2,6,37,57,35,1,1,105.71,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Mar 2012,v India,Johannesburg,1,4,20*,22,11,2,0,181.81,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,1 Apr 2012,v Lions,Johannesburg,1,6,42*,40,26,2,2,161.53,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Jun 2012,v Bdesh XI,Harare,1,5,16,39,26,0,0,61.53,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,23 Jun 2012,v Zimbabwe XI,Harare,2,5,19*,27,27,0,0,70.37,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Sep 2012,v Zimbabwe,Hambantota,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Sep 2012,v Sri Lanka,Hambantota,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Sep 2012,v Pakistan,Colombo (RPS),1,5,18,22,21,2,0,85.71,stumped,2,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Sep 2012,v Australia,Colombo (RPS),1,6,31*,45,27,2,1,114.81,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Oct 2012,v India,Colombo (RPS),2,6,13,26,12,1,0,108.33,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Oct 2012,v Scorchers,Centurion,1,4,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Oct 2012,v Auckland,Durban,1,4,48*,32,23,1,3,208.69,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Oct 2012,v KKR,Cape Town,2,5,8,8,8,0,0,100,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,23 Oct 2012,v Daredevils,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44410,Farhaan Behardien,26 Oct 2012,v Sixers,Centurion,1,5,14,29,21,0,0,66.66,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Dec 2012,v New Zealand,Durban,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,23 Dec 2012,v New Zealand,East London,1,5,5*,5,2,1,0,250,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Dec 2012,v New Zealand,Gqeberha,1,6,22,19,11,2,1,200,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Feb 2013,v Lions,Johannesburg,1,5,36,36,28,3,1,128.57,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Feb 2013,v Warriors,Gqeberha,2,6,16*,32,20,1,0,80,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,3 Mar 2013,v Pakistan,Centurion,2,6,0,6,1,0,0,0,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Mar 2013,v Knights,Centurion,2,6,7,7,4,0,1,175,stumped,1,1.0,0,13,0,13
+44410,Farhaan Behardien,12 Mar 2013,v Cape Cobras,Paarl,1,5,68*,46,40,6,2,170,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Mar 2013,v Dolphins,Centurion,2,6,34*,48,25,1,2,136,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Mar 2013,v Knights,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,3 Apr 2013,v Warriors,East London,2,5,41*,45,26,1,3,157.69,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Apr 2013,v Lions,Johannesburg,2,5,6,7,7,1,0,85.71,lbw,1,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Sep 2013,v CSK,Ranchi,1,4,21,18,14,2,1,150,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Sep 2013,v Heat,Mohali,1,6,9,22,15,0,0,60,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Sep 2013,v SRH,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Sep 2013,v Trinidad & T,Ahmedabad,2,6,29,20,19,0,3,152.63,caught,1,1.0,0,12,0,12
+44410,Farhaan Behardien,5 Jan 2014,v Dolphins,Cape Town,2,5,19,22,20,0,1,95,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Jan 2014,v Cape Cobras,Centurion,2,4,41,32,23,2,3,178.26,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,15 Jan 2014,v Warriors,Benoni,2,3,72,64,47,4,3,153.19,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Jan 2014,v Lions,Potchefstroom,1,5,34,43,26,2,1,130.76,lbw,2,DNB,-,-,-,-
+44410,Farhaan Behardien,19 Jan 2014,v Knights,Centurion,1,4,21,46,24,2,0,87.5,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Jan 2014,v Cape Cobras,Cape Town,2,4,17,33,17,1,0,100,stumped,1,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Jan 2014,v Warriors,East London,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Jan 2014,v Lions,Benoni,2,4,31*,33,22,4,0,140.9,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,29 Jan 2014,v Dolphins,Centurion,1,4,31,42,27,5,0,114.81,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Feb 2014,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Feb 2014,v Dolphins,Durban,2,4,22,26,17,1,0,129.41,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,12 Mar 2014,v Australia,Durban,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Mar 2014,v Sri Lanka,Chattogram,2,7,5,10,4,0,0,125,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,29 Mar 2014,v England,Chattogram,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Nov 2014,v CA XI,North Sydney,2,6,10,-,8,0,1,125,caught,1,1.0,0,10,0,10
+44410,Farhaan Behardien,5 Nov 2014,v Australia,Adelaide,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Nov 2014,v Australia,Melbourne,1,5,5,-,10,0,0,50,stumped,2,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Nov 2014,v Australia,Sydney,1,5,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Nov 2014,v Warriors,Bloemfontein,2,3,3,6,5,0,0,60,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Jan 2015,v West Indies,Cape Town,1,6,18*,18,12,0,1,150,not out,2,1.0,0,8,0,8
+44410,Farhaan Behardien,11 Jan 2015,v West Indies,Johannesburg,1,6,8*,36,12,0,0,66.66,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Jan 2015,v West Indies,Durban,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Aug 2015,v New Zealand,Durban,2,6,4*,2,2,1,0,200,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Aug 2015,v New Zealand,Centurion,2,5,36,33,27,3,1,133.33,caught,1,1.0,0,4,1,4
+44410,Farhaan Behardien,2 Oct 2015,v India,Dharamsala,2,5,32*,54,23,4,1,139.13,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,5 Oct 2015,v India,Cuttack,2,5,11,73,18,0,0,61.11,lbw,1,DNB,-,-,-,-
+44410,Farhaan Behardien,1 Nov 2015,v Dolphins,Centurion,2,5,11,23,12,1,0,91.66,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Nov 2015,v Lions,Potchefstroom,2,6,5,10,7,0,0,71.42,lbw,1,DNB,-,-,-,-
+44410,Farhaan Behardien,8 Nov 2015,v Cape Cobras,Centurion,1,5,61*,46,31,5,3,196.77,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Nov 2015,v Knights,Bloemfontein,1,5,24,44,26,3,0,92.3,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,15 Nov 2015,v Warriors,Centurion,2,5,14*,19,8,2,0,175,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Nov 2015,v Dolphins,Durban,1,4,17,29,18,0,0,94.44,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Nov 2015,v Cape Cobras,Cape Town,1,4,16*,18,15,0,0,106.66,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Nov 2015,v Warriors,Gqeberha,1,4,17,30,17,1,0,100,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,4 Dec 2015,v Lions,Benoni,1,4,1*,5,1,0,0,100,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Dec 2015,v Knights,Benoni,1,5,6,13,9,0,0,66.66,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,12 Dec 2015,v Dolphins,Centurion,2,4,7*,12,5,1,0,140,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Feb 2016,v England XI,Paarl,2,5,4,17,7,0,0,57.14,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,6 Mar 2016,v Australia,Johannesburg,1,6,3,9,5,0,0,60,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Mar 2016,v Sri Lanka,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+44410,Farhaan Behardien,9 May 2016,v RCB,Mohali,2,6,9*,19,7,1,0,128.57,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 May 2016,v RCB,Bengaluru,2,7,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,21 May 2016,v Supergiants,Visakhapatnam,1,6,5,7,5,1,0,100,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,8 Jul 2016,v Derbyshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+44410,Farhaan Behardien,10 Jul 2016,v Durham,Chester-le-Street,1,4,29,34,30,2,0,96.66,bowled,2,2.0,0,24,0,12
+44410,Farhaan Behardien,15 Jul 2016,v Lancashire,Leicester,1,5,13*,12,10,1,0,130,not out,2,2.0,0,23,0,11.5
+44410,Farhaan Behardien,17 Jul 2016,v Warwickshire,Birmingham,2,5,18,20,12,1,1,150,caught,1,2.0,0,22,0,11
+44410,Farhaan Behardien,29 Jul 2016,v Notts,Nottingham,1,4,48*,30,26,6,1,184.61,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,12 Nov 2016,v Lions,Johannesburg,1,6,37*,21,17,1,3,217.64,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Nov 2016,v Cape Cobras,Paarl,2,5,22*,40,16,1,1,137.5,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Nov 2016,v Knights,Benoni,2,5,30,38,18,4,0,166.66,run out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Nov 2016,v Dolphins,Bloemfontein,1,5,65*,39,33,1,4,196.96,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Nov 2016,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,27 Nov 2016,v Knights,Kimberley,1,5,37*,36,22,2,2,168.18,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,30 Nov 2016,v Dolphins,Durban,1,5,72*,63,40,9,2,180,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Dec 2016,v Warriors,Centurion,1,5,4,16,7,0,0,57.14,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Dec 2016,v Lions,Centurion,1,6,19*,26,9,0,2,211.11,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,11 Dec 2016,v Warriors,East London,1,4,55*,-,15,4,5,366.66,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Dec 2016,v Warriors,Centurion,1,6,11,13,10,0,1,110,caught,2,0.1,0,0,0,0
+44410,Farhaan Behardien,20 Jan 2017,v Sri Lanka,Centurion,1,5,31*,-,18,3,1,172.22,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Jan 2017,v Sri Lanka,Johannesburg,1,6,27,38,22,2,0,122.72,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Jan 2017,v Sri Lanka,Cape Town,1,5,6,11,6,0,0,100,run out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Feb 2017,v New Zealand,Auckland,1,6,8,12,7,0,1,114.28,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Jun 2017,v England,Southampton,1,5,64*,58,52,4,2,123.07,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,23 Jun 2017,v England,Taunton,1,6,32,34,21,2,2,152.38,lbw,2,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Jun 2017,v England,Cardiff,2,6,3,15,8,0,0,37.5,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Oct 2017,v Bangladesh,Bloemfontein,1,6,36*,24,17,2,2,211.76,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,29 Oct 2017,v Bangladesh,Potchefstroom,1,6,6*,20,5,0,0,120,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,12 Nov 2017,v Lions,Centurion,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,15 Nov 2017,v Knights,Kimberley,1,5,37*,22,14,3,3,264.28,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Nov 2017,v Warriors,East London,1,5,43*,48,24,3,2,179.16,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,19 Nov 2017,v Cape Cobras,Centurion,2,5,15*,21,16,1,0,93.75,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Nov 2017,v Dolphins,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44410,Farhaan Behardien,1 Dec 2017,v Warriors,Benoni,1,5,36*,16,12,0,4,300,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,3 Dec 2017,v Knights,Gqeberha,2,5,56*,67,39,2,3,143.58,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,8 Dec 2017,v Cape Cobras,Cape Town,1,4,43,48,30,3,0,143.33,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Dec 2017,v Warriors,Centurion,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Dec 2017,v Dolphins,Centurion,2,5,4*,6,6,0,0,66.66,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Feb 2018,v India,Johannesburg,2,5,39,37,27,3,2,144.44,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Feb 2018,v India,Centurion,2,6,16*,20,10,0,1,160,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Feb 2018,v India,Cape Town,2,7,15*,19,6,3,0,250,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,17 Nov 2018,v Australia,Carrara,1,6,3*,-,2,0,0,150,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Nov 2018,v Giants,Cape Town,1,6,17,16,11,2,0,154.54,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Nov 2018,v Jozi Stars,Johannesburg,1,3,30,30,25,2,1,120,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Nov 2018,v Paarl Rocks,Paarl,1,4,4,10,6,0,0,66.66,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,1 Dec 2018,v Spartans,Centurion,1,4,1,4,2,0,0,50,stumped,2,DNB,-,-,-,-
+44410,Farhaan Behardien,4 Dec 2018,v Jozi Stars,Cape Town,2,4,14,14,14,1,0,100,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,7 Dec 2018,v Paarl Rocks,Cape Town,2,5,12*,10,5,1,1,240,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,9 Dec 2018,v Durban Heat,Cape Town,1,6,17,19,18,0,0,94.44,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Dec 2018,v Jozi Stars,Cape Town,1,6,23,31,22,2,0,104.54,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,5 Apr 2019,v Warriors,Centurion,1,6,19*,13,8,2,0,237.5,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,10 Apr 2019,v Cape Cobras,Benoni,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Apr 2019,v Knights,Kimberley,1,6,7*,7,4,1,0,175,not out,-,TDNB,-,-,-,-
+44410,Farhaan Behardien,18 Apr 2019,v Lions,Johannesburg,2,7,8,19,9,0,0,88.88,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Apr 2019,v Dolphins,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,24 Apr 2019,v Cape Cobras,Paarl,1,4,39*,22,18,3,2,216.66,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Apr 2019,v Knights,Centurion,2,6,31*,27,18,2,2,172.22,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Apr 2019,v Lions,Centurion,1,6,48,52,38,4,1,126.31,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,10 Nov 2019,v Jozi Stars,Gqeberha,1,6,48,51,34,2,2,141.17,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Nov 2019,v Spartans,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Sep 2020,v Derbyshire,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+44410,Farhaan Behardien,4 Sep 2020,v Yorkshire,Chester-le-Street,2,5,11,18,11,0,0,100,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,11 Sep 2020,v Derbyshire,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+44410,Farhaan Behardien,13 Sep 2020,v Leics,Chester-le-Street,2,5,17,27,19,2,0,89.47,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,16 Sep 2020,v Yorkshire,Leeds,1,5,1,5,5,0,0,20,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Sep 2020,v Lancashire,Manchester,1,5,26,33,26,2,0,100,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Sep 2020,v Notts,Nottingham,2,5,16,24,20,1,0,80,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,19 Feb 2021,v Titans,Durban,1,5,0,2,1,0,0,0,lbw,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Feb 2021,v Dolphins,Durban,1,5,5,11,9,1,0,55.55,lbw,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Feb 2021,v Cape Cobras,Durban,2,5,9,-,9,0,0,100,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,23 Feb 2021,v Lions,Durban,1,6,28,-,28,0,2,100,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,28 Sep 2021,v Titans,Bloemfontein,2,5,23,25,19,1,1,121.05,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,29 Sep 2021,v KZN-Inland,Bloemfontein,1,5,54*,66,42,2,1,128.57,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,19 Oct 2021,v W Province,Kimberley,1,4,57,48,29,4,5,196.55,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,21 Oct 2021,v North West,Kimberley,1,5,3,9,7,0,0,42.85,bowled,2,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Oct 2021,v Dolphins,Kimberley,1,5,29*,-,18,3,0,161.11,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,8 Feb 2022,v Dolphins,Gqeberha,1,5,36*,-,29,1,1,124.13,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,10 Feb 2022,v North West,Gqeberha,1,5,4,7,7,0,0,57.14,run out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,12 Feb 2022,v Titans,Gqeberha,2,5,31,55,27,1,1,114.81,caught,1,DNB,-,-,-,-
+44410,Farhaan Behardien,14 Feb 2022,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Feb 2022,v W Province,Gqeberha,1,5,6,9,6,0,0,100,caught,2,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Feb 2022,v Lions,Gqeberha,1,5,35*,58,31,1,1,112.9,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,18 Oct 2022,v W Province,Potchefstroom,2,6,1*,4,1,0,0,100,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,20 Oct 2022,v Warriors,Potchefstroom,2,5,4,4,5,0,0,80,lbw,1,DNB,-,-,-,-
+44410,Farhaan Behardien,22 Oct 2022,v Dolphins,Potchefstroom,2,5,24*,22,18,0,1,133.33,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,25 Oct 2022,v Titans,Potchefstroom,1,5,63*,70,51,5,2,123.52,not out,2,DNB,-,-,-,-
+44410,Farhaan Behardien,26 Oct 2022,v Knights,Potchefstroom,2,5,17,30,17,1,0,100,bowled,1,DNB,-,-,-,-
+44410,Farhaan Behardien,29 Oct 2022,v North West,Potchefstroom,2,7,2*,5,2,0,0,100,not out,1,DNB,-,-,-,-
+44410,Farhaan Behardien,2 Nov 2022,v Dolphins,Potchefstroom,2,5,31*,53,32,2,0,96.87,not out,1,DNB,-,-,-,-

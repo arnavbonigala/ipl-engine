@@ -1,0 +1,209 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+398666,Sean Abbott,22 Jan 2011,v Victoria,Melbourne,1,9,0*,-,0,0,0,-,not out,2,4.0,0,25,2,6.25
+398666,Sean Abbott,24 Jan 2011,v Queensland,Brisbane,1,8,1,-,2,0,0,50,caught,2,3.0,0,15,3,5
+398666,Sean Abbott,29 Jan 2011,v Queensland,Sydney,1,8,9,-,12,0,0,75,caught,2,1.0,0,22,0,22
+398666,Sean Abbott,1 Feb 2011,v Tasmania,Hobart,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398666,Sean Abbott,5 Feb 2011,v South Aust,Adelaide,1,7,10*,-,10,0,0,100,not out,2,1.0,0,8,0,8
+398666,Sean Abbott,17 Dec 2011,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,1,11.66
+398666,Sean Abbott,23 Dec 2011,v Strikers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+398666,Sean Abbott,30 Dec 2011,v Renegades,Sydney,2,8,4,4,2,1,0,200,bowled,1,4.0,0,21,2,5.25
+398666,Sean Abbott,1 Jan 2012,v Hurricanes,Hobart,1,3,39,-,39,1,3,100,caught,2,3.0,0,27,0,9
+398666,Sean Abbott,8 Jan 2012,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,2,8.5
+398666,Sean Abbott,11 Jan 2012,v Scorchers,Sydney,1,8,0,1,1,0,0,0,bowled,2,1.0,0,11,0,11
+398666,Sean Abbott,17 Jan 2012,v Heat,Brisbane,2,7,22*,37,22,1,1,100,not out,1,4.0,0,48,0,12
+398666,Sean Abbott,8 Dec 2012,v Sixers,Sydney,1,7,24*,-,14,2,1,171.42,not out,2,3.4,0,40,1,10.9
+398666,Sean Abbott,14 Dec 2012,v Renegades,Sydney,1,6,3,-,4,0,0,75,caught,2,3.2,0,28,1,8.4
+398666,Sean Abbott,20 Dec 2012,v Strikers,Sydney,2,5,14,-,8,2,0,175,caught,1,1.0,0,6,0,6
+398666,Sean Abbott,23 Dec 2012,v Hurricanes,Hobart,2,7,9*,-,8,1,0,112.5,not out,1,1.0,0,8,0,8
+398666,Sean Abbott,28 Dec 2012,v Heat,Sydney,1,5,11,-,10,0,1,110,caught,2,1.4,0,16,0,9.6
+398666,Sean Abbott,30 Dec 2012,v Sixers,Sydney,1,5,1,4,5,0,0,20,caught,2,2.0,0,25,0,12.5
+398666,Sean Abbott,8 Jan 2013,v Stars,Melbourne,2,5,3,11,4,0,0,75,caught,1,4.0,0,31,1,7.75
+398666,Sean Abbott,25 Jan 2014,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,0,4
+398666,Sean Abbott,5 Feb 2014,v Scorchers,Sydney,2,4,1,10,3,0,0,33.33,run out,1,2.0,0,35,0,17.5
+398666,Sean Abbott,5 Oct 2014,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+398666,Sean Abbott,7 Nov 2014,v South Africa,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+398666,Sean Abbott,9 Nov 2014,v South Africa,Sydney,2,9,5,-,8,1,0,62.5,lbw,1,1.0,0,14,0,14
+398666,Sean Abbott,19 Dec 2014,v Renegades,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+398666,Sean Abbott,23 Dec 2014,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+398666,Sean Abbott,27 Dec 2014,v Thunder,Sydney,1,7,2,-,3,0,0,66.66,caught,2,4.0,0,28,2,7
+398666,Sean Abbott,29 Dec 2014,v Scorchers,Sydney,2,7,5,-,4,1,0,125,caught,1,4.0,0,33,1,8.25
+398666,Sean Abbott,5 Jan 2015,v Stars,Melbourne,1,7,3,2,4,0,0,75,caught,2,3.0,0,24,0,8
+398666,Sean Abbott,11 Jan 2015,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+398666,Sean Abbott,14 Jan 2015,v Strikers,Sydney,2,7,2,-,4,0,0,50,caught,1,3.0,0,38,1,12.66
+398666,Sean Abbott,22 Jan 2015,v Thunder,Sydney,2,7,21,-,18,1,1,116.66,caught,1,4.0,0,35,1,8.75
+398666,Sean Abbott,24 Jan 2015,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,2,7
+398666,Sean Abbott,28 Jan 2015,v Scorchers,Canberra,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+398666,Sean Abbott,11 Apr 2015,v KKR,Eden Gardens,2,7,1,8,4,0,0,25,run out,1,3.0,0,36,0,12
+398666,Sean Abbott,13 Apr 2015,v SRH,Bengaluru,1,7,14,17,9,1,1,155.55,caught,2,2.0,0,21,0,10.5
+398666,Sean Abbott,17 Dec 2015,v Thunder,Sydney,2,7,0,-,3,0,0,0,caught,1,3.0,0,28,1,9.33
+398666,Sean Abbott,20 Dec 2015,v Hurricanes,Sydney,1,7,6,-,4,0,0,150,bowled,2,1.0,0,5,1,5
+398666,Sean Abbott,23 Dec 2015,v Renegades,Melbourne (Docklands),2,8,3*,8,3,0,0,100,not out,1,3.0,0,33,1,11
+398666,Sean Abbott,27 Dec 2015,v Stars,Sydney,1,7,7,-,7,0,0,100,caught,2,4.0,0,32,1,8
+398666,Sean Abbott,31 Dec 2015,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.3,0,57,1,16.28
+398666,Sean Abbott,2 Jan 2016,v Scorchers,W.A.C.A,1,8,1,-,4,0,0,25,caught,2,1.0,0,11,1,11
+398666,Sean Abbott,10 Jan 2016,v Heat,Sydney,2,4,1,-,6,0,0,16.66,run out,1,2.0,0,8,3,4
+398666,Sean Abbott,16 Jan 2016,v Thunder,Sydney,2,8,7*,-,7,0,0,100,not out,1,4.0,0,41,2,10.25
+398666,Sean Abbott,20 Dec 2016,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+398666,Sean Abbott,23 Dec 2016,v Hurricanes,Sydney,2,8,0,-,2,0,0,0,caught,1,4.0,0,41,2,10.25
+398666,Sean Abbott,27 Dec 2016,v Scorchers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+398666,Sean Abbott,31 Dec 2016,v Strikers,Adelaide,2,8,2,-,4,0,0,50,caught,1,4.0,0,16,5,4
+398666,Sean Abbott,3 Jan 2017,v Heat,Brisbane,2,8,7*,-,2,0,1,350,not out,1,4.0,0,38,3,9.5
+398666,Sean Abbott,9 Jan 2017,v Renegades,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+398666,Sean Abbott,14 Jan 2017,v Thunder,Sydney,1,8,4,-,8,0,0,50,caught,2,4.0,0,36,2,9
+398666,Sean Abbott,21 Jan 2017,v Stars,Melbourne,2,8,33*,-,17,3,2,194.11,not out,1,3.0,0,31,1,10.33
+398666,Sean Abbott,25 Jan 2017,v Heat,Brisbane,2,8,2,-,3,0,0,66.66,caught,1,4.0,0,40,4,10
+398666,Sean Abbott,28 Jan 2017,v Scorchers,W.A.C.A,1,8,5,21,10,0,0,50,caught,2,3.0,0,33,0,11
+398666,Sean Abbott,19 Dec 2017,v Thunder,Sydney,1,9,7,-,4,1,0,175,run out,2,4.0,0,39,0,9.75
+398666,Sean Abbott,23 Dec 2017,v Scorchers,Sydney,1,9,23,-,13,3,0,176.92,caught,2,3.1,0,28,3,8.84
+398666,Sean Abbott,28 Dec 2017,v Strikers,Sydney,2,8,0,-,2,0,0,0,bowled,1,4.0,0,34,0,8.5
+398666,Sean Abbott,1 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.1,0,42,0,13.26
+398666,Sean Abbott,3 Jan 2018,v Renegades,Geelong,1,6,6,-,5,1,0,120,caught,2,2.0,0,13,0,6.5
+398666,Sean Abbott,8 Jan 2018,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+398666,Sean Abbott,13 Jan 2018,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+398666,Sean Abbott,16 Jan 2018,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+398666,Sean Abbott,18 Jan 2018,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,4,2.75
+398666,Sean Abbott,23 Jan 2018,v Stars,Sydney,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+398666,Sean Abbott,22 Dec 2018,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+398666,Sean Abbott,24 Dec 2018,v Thunder,Sydney,2,8,35,-,28,1,1,125,caught,1,4.0,0,48,1,12
+398666,Sean Abbott,27 Dec 2018,v Stars,Sydney,1,8,22,-,16,3,1,137.5,caught,2,3.0,0,27,0,9
+398666,Sean Abbott,29 Dec 2018,v Renegades,Melbourne (Docklands),1,8,9,-,7,0,1,128.57,caught,2,4.0,0,16,2,4
+398666,Sean Abbott,1 Jan 2019,v Heat,Carrara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+398666,Sean Abbott,4 Jan 2019,v Hurricanes,Hobart,1,8,7,-,3,0,1,233.33,caught,2,4.0,0,29,2,7.25
+398666,Sean Abbott,6 Jan 2019,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+398666,Sean Abbott,13 Jan 2019,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+398666,Sean Abbott,16 Jan 2019,v Renegades,Sydney,1,8,7,-,10,0,0,70,caught,2,3.0,0,31,1,10.33
+398666,Sean Abbott,20 Jan 2019,v Heat,Sydney,1,8,0*,-,1,0,0,0,not out,2,3.1,0,18,3,5.68
+398666,Sean Abbott,23 Jan 2019,v Hurricanes,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+398666,Sean Abbott,29 Jan 2019,v Strikers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+398666,Sean Abbott,2 Feb 2019,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+398666,Sean Abbott,10 Feb 2019,v Stars,Melbourne,2,7,1,-,7,0,0,14.28,caught,1,3.0,1,23,1,7.66
+398666,Sean Abbott,15 Feb 2019,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+398666,Sean Abbott,8 Nov 2019,v Pakistan,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+398666,Sean Abbott,18 Dec 2019,v Scorchers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+398666,Sean Abbott,20 Dec 2019,v Hurricanes,Alice Springs,2,8,0,-,1,0,0,0,stumped,1,4.0,0,20,3,5
+398666,Sean Abbott,22 Dec 2019,v Heat,Sydney,2,8,22*,-,11,2,1,200,not out,1,4.0,0,42,2,10.5
+398666,Sean Abbott,26 Dec 2019,v Scorchers,Perth,1,8,2,-,2,0,0,100,caught,2,4.0,0,30,3,7.5
+398666,Sean Abbott,28 Dec 2019,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+398666,Sean Abbott,31 Jan 2020,v Stars,Melbourne,1,7,7,-,11,0,0,63.63,stumped,2,4.0,0,23,3,5.75
+398666,Sean Abbott,8 Feb 2020,v Stars,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+398666,Sean Abbott,4 Dec 2020,v India,Canberra,2,7,12*,-,8,0,1,150,not out,1,2.0,0,23,0,11.5
+398666,Sean Abbott,6 Dec 2020,v India,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+398666,Sean Abbott,8 Dec 2020,v India,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+398666,Sean Abbott,24 Jan 2021,v Hurricanes,Melbourne,2,8,5,-,4,0,0,125,caught,1,4.0,0,32,2,8
+398666,Sean Abbott,26 Jan 2021,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+398666,Sean Abbott,30 Jan 2021,v Scorchers,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,1,12.66
+398666,Sean Abbott,6 Feb 2021,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,2,11
+398666,Sean Abbott,5 Dec 2021,v Stars,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,3,4.66
+398666,Sean Abbott,11 Dec 2021,v Hurricanes,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+398666,Sean Abbott,21 Dec 2021,v Strikers,Sydney,2,7,19*,15,10,2,0,190,not out,1,4.0,0,24,3,6
+398666,Sean Abbott,26 Dec 2021,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.1,0,29,2,9.15
+398666,Sean Abbott,29 Dec 2021,v Heat,Sydney,2,7,37*,63,43,2,2,86.04,not out,1,4.0,0,31,4,7.75
+398666,Sean Abbott,1 Jan 2022,v Renegades,Coffs Harbour,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+398666,Sean Abbott,4 Jan 2022,v Scorchers,Carrara,2,7,4,5,2,1,0,200,caught,1,4.0,0,28,1,7
+398666,Sean Abbott,11 Jan 2022,v Renegades,Geelong,1,7,1*,5,1,0,0,100,not out,2,3.0,0,18,2,6
+398666,Sean Abbott,15 Jan 2022,v Thunder,Sydney,1,7,6*,7,1,0,1,600,not out,2,2.0,0,16,0,8
+398666,Sean Abbott,17 Jan 2022,v Strikers,Adelaide,1,7,5,8,6,0,0,83.33,bowled,2,3.0,0,44,0,14.66
+398666,Sean Abbott,19 Jan 2022,v Heat,Brisbane,1,7,0*,2,0,0,0,-,not out,2,4.0,0,39,1,9.75
+398666,Sean Abbott,22 Jan 2022,v Scorchers,Melbourne (Docklands),2,7,3,-,7,0,0,42.85,run out,1,4.0,0,39,0,9.75
+398666,Sean Abbott,26 Jan 2022,v Strikers,Sydney,2,6,41,25,20,2,2,205,caught,1,4.0,0,27,3,6.75
+398666,Sean Abbott,28 Jan 2022,v Scorchers,Melbourne (Docklands),2,7,1,12,9,0,0,11.11,caught,1,4.0,0,27,0,6.75
+398666,Sean Abbott,5 Apr 2022,v Pakistan,Lahore,2,8,0,3,1,0,0,0,bowled,1,4.0,0,28,1,7
+398666,Sean Abbott,5 May 2022,v DC,Brabourne,2,7,7,13,5,0,1,140,caught,1,4.0,0,47,1,11.75
+398666,Sean Abbott,5 Aug 2022,v N S-Chargers,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.4,0,43,0,13.57
+398666,Sean Abbott,8 Aug 2022,v Spirit,Lord's,2,8,10,-,7,0,1,142.85,caught,1,3.0,0,28,1,11.2
+398666,Sean Abbott,13 Aug 2022,v Rockets,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,15.6
+398666,Sean Abbott,16 Aug 2022,v Fire,Manchester,1,9,1,-,4,0,0,25,bowled,2,3.0,2,8,4,3.2
+398666,Sean Abbott,18 Aug 2022,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,11.6
+398666,Sean Abbott,23 Sep 2022,v India,Nagpur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+398666,Sean Abbott,14 Dec 2022,v Strikers,Adelaide,2,8,0,3,2,0,0,0,bowled,1,4.0,0,37,3,9.25
+398666,Sean Abbott,17 Dec 2022,v Scorchers,Perth,2,8,6,13,8,0,0,75,bowled,1,4.0,0,45,1,11.25
+398666,Sean Abbott,22 Dec 2022,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,2,10.66
+398666,Sean Abbott,26 Dec 2022,v Stars,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+398666,Sean Abbott,28 Dec 2022,v Renegades,Sydney,1,9,1,4,2,0,0,50,caught,2,4.0,0,17,2,4.25
+398666,Sean Abbott,1 Jan 2023,v Heat,Brisbane,2,9,14,-,9,0,1,155.55,caught,1,4.0,0,46,1,11.5
+398666,Sean Abbott,4 Jan 2023,v Heat,North Sydney,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+398666,Sean Abbott,6 Jan 2023,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+398666,Sean Abbott,8 Jan 2023,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,3,2.25
+398666,Sean Abbott,15 Jan 2023,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+398666,Sean Abbott,17 Jan 2023,v Strikers,Coffs Harbour,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+398666,Sean Abbott,21 Jan 2023,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.4,0,11,3,4.12
+398666,Sean Abbott,23 Jan 2023,v Hurricanes,Hobart,1,9,13*,13,7,2,0,185.71,not out,2,4.0,0,32,2,8
+398666,Sean Abbott,28 Jan 2023,v Scorchers,Perth,1,9,10,9,6,1,0,166.66,caught,2,4.0,1,25,3,6.25
+398666,Sean Abbott,2 Feb 2023,v Heat,Sydney,1,9,7,9,4,1,0,175,caught,2,4.0,1,13,1,3.25
+398666,Sean Abbott,25 May 2023,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,1,11
+398666,Sean Abbott,26 May 2023,v Kent,The Oval,1,6,110*,52,41,4,11,268.29,not out,2,3.0,0,38,0,12.66
+398666,Sean Abbott,31 May 2023,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+398666,Sean Abbott,4 Jun 2023,v Kent,Canterbury,2,7,21*,28,14,2,0,150,not out,1,1.0,0,13,0,13
+398666,Sean Abbott,7 Jun 2023,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+398666,Sean Abbott,9 Jun 2023,v Sussex,Hove,1,6,16*,14,8,1,1,200,not out,2,1.0,0,9,0,9
+398666,Sean Abbott,16 Jun 2023,v Somerset,Taunton,1,6,2,6,5,0,0,40,caught,2,1.0,0,12,0,12
+398666,Sean Abbott,18 Jun 2023,v Hampshire,The Oval,1,5,6,16,9,0,0,66.66,caught,2,1.2,0,15,0,11.25
+398666,Sean Abbott,20 Jun 2023,v Glamorgan,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+398666,Sean Abbott,22 Jun 2023,v Middlesex,The Oval,1,8,11,6,7,0,1,157.14,caught,2,1.0,0,20,0,20
+398666,Sean Abbott,30 Jun 2023,v Somerset,The Oval,2,6,1,3,4,0,0,25,caught,1,3.0,0,28,1,9.33
+398666,Sean Abbott,2 Jul 2023,v Essex,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+398666,Sean Abbott,7 Jul 2023,v Lancashire,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+398666,Sean Abbott,15 Jul 2023,v Somerset,Birmingham,2,9,9,14,7,1,0,128.57,caught,1,4.0,0,23,4,5.75
+398666,Sean Abbott,30 Aug 2023,v South Africa,Durban,1,8,3*,6,3,0,0,100,not out,2,2.0,0,17,1,8.5
+398666,Sean Abbott,1 Sep 2023,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+398666,Sean Abbott,3 Sep 2023,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,31,4,7.75
+398666,Sean Abbott,23 Nov 2023,v India,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.5,0,43,1,11.21
+398666,Sean Abbott,26 Nov 2023,v India,Thiruvananthapuram,2,8,1,3,2,0,0,50,bowled,1,3.0,0,56,0,18.66
+398666,Sean Abbott,8 Dec 2023,v Renegades,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+398666,Sean Abbott,26 Dec 2023,v Stars,Sydney,1,8,1*,4,2,0,0,50,not out,2,4.0,0,32,2,8
+398666,Sean Abbott,30 Dec 2023,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+398666,Sean Abbott,3 Jan 2024,v Heat,Coffs Harbour,1,8,8,9,4,0,1,200,bowled,2,2.3,0,20,1,8
+398666,Sean Abbott,6 Jan 2024,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+398666,Sean Abbott,12 Jan 2024,v Thunder,Sydney,1,8,8*,9,6,0,0,133.33,not out,2,4.0,0,45,2,11.25
+398666,Sean Abbott,16 Jan 2024,v Scorchers,Perth,2,9,1*,6,1,0,0,100,not out,1,4.0,0,41,0,10.25
+398666,Sean Abbott,19 Jan 2024,v Heat,Carrara,1,8,0,5,6,0,0,0,caught,2,3.0,0,22,0,7.33
+398666,Sean Abbott,24 Jan 2024,v Heat,Sydney,2,9,16,24,11,1,1,145.45,caught,1,4.0,0,32,4,8
+398666,Sean Abbott,9 Feb 2024,v West Indies,Hobart,1,8,0,1,1,0,0,0,bowled,2,4.0,0,41,1,10.25
+398666,Sean Abbott,30 May 2024,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+398666,Sean Abbott,31 May 2024,v Glamorgan,Cardiff,1,8,24*,22,15,0,1,160,not out,2,4.0,0,43,1,10.75
+398666,Sean Abbott,2 Jun 2024,v Somerset,The Oval,1,8,2,5,4,0,0,50,bowled,2,3.0,0,8,3,2.66
+398666,Sean Abbott,7 Jun 2024,v Sussex,The Oval,2,8,6,11,5,0,0,120,run out,1,4.0,0,41,0,10.25
+398666,Sean Abbott,14 Jun 2024,v Gloucs,The Oval,2,9,2,4,2,0,0,100,caught,1,4.0,0,37,1,9.25
+398666,Sean Abbott,15 Jun 2024,v Sussex,Hove,1,9,2,2,2,0,0,100,caught,2,3.0,0,23,1,7.66
+398666,Sean Abbott,20 Jun 2024,v Middlesex,Lord's,1,9,9,14,6,0,1,150,caught,2,4.0,0,18,5,4.5
+398666,Sean Abbott,21 Jun 2024,v Glamorgan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+398666,Sean Abbott,23 Jul 2024,v Invincibles,The Oval,1,8,4,14,8,0,0,50,bowled,2,3.0,0,11,0,4.4
+398666,Sean Abbott,27 Jul 2024,v Spirit,Lord's,2,9,3*,6,5,0,0,60,not out,1,4.0,0,14,4,4.2
+398666,Sean Abbott,31 Jul 2024,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,14
+398666,Sean Abbott,3 Aug 2024,v Brave,Birmingham,2,9,11,16,10,1,0,110,caught,1,4.0,0,37,1,11.1
+398666,Sean Abbott,6 Aug 2024,v N S-Chargers,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4.8
+398666,Sean Abbott,10 Aug 2024,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,4,4.8
+398666,Sean Abbott,12 Aug 2024,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,10.8
+398666,Sean Abbott,15 Aug 2024,v Originals,Birmingham,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,1,8.4
+398666,Sean Abbott,17 Aug 2024,v Brave,The Oval,2,8,0*,9,2,0,0,0,not out,1,4.0,0,32,1,9.6
+398666,Sean Abbott,4 Sep 2024,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+398666,Sean Abbott,6 Sep 2024,v Scotland,Edinburgh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,1,7
+398666,Sean Abbott,7 Sep 2024,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+398666,Sean Abbott,11 Sep 2024,v England,Southampton,1,8,4,4,4,0,0,100,bowled,2,3.2,0,28,3,8.4
+398666,Sean Abbott,13 Sep 2024,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+398666,Sean Abbott,16 Dec 2024,v Renegades,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+398666,Sean Abbott,21 Dec 2024,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+398666,Sean Abbott,9 Jan 2025,v Stars,Melbourne,2,9,5,8,5,0,0,100,caught,1,4.0,0,29,3,7.25
+398666,Sean Abbott,11 Jan 2025,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,4,10.75
+398666,Sean Abbott,15 Jan 2025,v Strikers,Adelaide,2,9,7*,10,5,1,0,140,not out,1,4.0,0,59,0,14.75
+398666,Sean Abbott,17 Jan 2025,v Thunder,Sydney,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+398666,Sean Abbott,18 Apr 2025,v Kings,Karachi,2,8,3,12,14,0,0,21.42,lbw,1,4.0,0,33,1,8.25
+398666,Sean Abbott,20 Jul 2025,v West Indies,Kingston,2,9,5*,8,4,0,0,125,not out,1,4.0,0,40,1,10
+398666,Sean Abbott,25 Jul 2025,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+398666,Sean Abbott,26 Jul 2025,v West Indies,Basseterre,2,9,1*,-,1,0,0,100,not out,1,4.0,0,61,2,15.25
+398666,Sean Abbott,28 Jul 2025,v West Indies,Basseterre,2,9,5*,-,3,1,0,166.66,not out,1,4.0,0,30,1,7.5
+398666,Sean Abbott,12 Aug 2025,v South Africa,Darwin,2,9,1,11,6,0,0,16.66,caught,1,4.0,0,44,0,11
+398666,Sean Abbott,3 Oct 2025,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+398666,Sean Abbott,4 Oct 2025,v New Zealand,Mount Maunganui,2,9,13*,11,7,2,0,185.71,not out,1,4.0,0,25,3,6.25
+398666,Sean Abbott,2 Nov 2025,v India,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.3,0,56,0,16
+398666,Sean Abbott,26 Dec 2025,v Stars,Sydney,1,10,3,4,4,0,0,75,caught,2,3.3,0,30,1,8.57
+398666,Sean Abbott,1 Jan 2026,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+398666,Sean Abbott,5 Jan 2026,v Heat,Coffs Harbour,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+398666,Sean Abbott,8 Jan 2026,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+398666,Sean Abbott,11 Jan 2026,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+398666,Sean Abbott,16 Jan 2026,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+398666,Sean Abbott,18 Jan 2026,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+398666,Sean Abbott,20 Jan 2026,v Scorchers,Perth,2,10,1,1,1,0,0,100,run out,1,4.0,0,24,0,6
+398666,Sean Abbott,23 Jan 2026,v Hurricanes,Sydney,1,10,5*,-,4,0,0,125,not out,2,3.0,0,18,2,6
+398666,Sean Abbott,25 Jan 2026,v Scorchers,Perth,1,10,1,3,2,0,0,50,caught,2,4.0,0,19,2,4.75
+398666,Sean Abbott,31 Jan 2026,v Pakistan,Lahore,2,9,0,7,1,0,0,0,bowled,1,3.0,0,33,1,11

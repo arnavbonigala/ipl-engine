@@ -1,0 +1,591 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+276298,Andre Russell,10 Apr 2010,v Ireland,Florence Hall,2,7,8,-,9,0,0,88.88,caught,1,1.0,0,16,0,16
+276298,Andre Russell,11 Apr 2010,v Canada,Florence Hall,1,6,14*,-,8,0,0,175,not out,2,2.0,0,17,0,8.5
+276298,Andre Russell,22 Jul 2010,v Leeward Is,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+276298,Andre Russell,24 Jul 2010,v Canada,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,0,4
+276298,Andre Russell,28 Jul 2010,v Trinidad & T,Port of Spain,2,9,13,-,10,1,1,130,stumped,1,3.0,0,34,0,11.33
+276298,Andre Russell,30 Jul 2010,v Barbados,Port of Spain,1,6,16,-,8,1,1,200,bowled,2,3.0,0,43,0,14.33
+276298,Andre Russell,31 Jul 2010,v Trinidad & T,Port of Spain,1,6,4,-,8,0,0,50,bowled,2,2.0,0,17,0,8.5
+276298,Andre Russell,10 Jan 2011,v Guyana,North Sound,1,5,0,-,1,0,0,0,stumped,2,3.0,0,8,3,2.66
+276298,Andre Russell,12 Jan 2011,v Comb C&C,North Sound,1,5,8,-,6,0,1,133.33,bowled,2,4.0,0,30,0,7.5
+276298,Andre Russell,18 Jan 2011,v Somerset,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,1.0,0,2,1,2
+276298,Andre Russell,20 Jan 2011,v Windward Is,Bridgetown,2,7,8*,-,3,0,1,266.66,not out,1,4.0,0,44,0,11
+276298,Andre Russell,22 Jan 2011,v Trinidad & T,Bridgetown,1,6,36,-,17,2,3,211.76,caught,2,3.0,0,22,0,7.33
+276298,Andre Russell,23 Jan 2011,v Windward Is,Bridgetown,1,5,1,-,2,0,0,50,caught,2,4.0,0,49,1,12.25
+276298,Andre Russell,21 Apr 2011,v Pakistan,Gros Islet,1,8,0,1,3,0,0,0,caught,2,4.0,0,28,0,7
+276298,Andre Russell,4 Jun 2011,v India,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+276298,Andre Russell,23 Sep 2011,v England,The Oval,1,7,6,7,6,1,0,100,run out,2,2.0,0,21,0,10.5
+276298,Andre Russell,25 Sep 2011,v England,The Oval,1,7,12*,9,8,1,0,150,not out,2,2.0,0,14,1,7
+276298,Andre Russell,9 Oct 2011,v BCB XI,Fatullah,1,4,58,36,35,3,3,165.71,caught,2,4.0,0,22,0,5.5
+276298,Andre Russell,11 Oct 2011,v Bangladesh,Mirpur,1,4,5,17,12,0,0,41.66,caught,2,2.0,0,17,0,8.5
+276298,Andre Russell,10 Jan 2012,v Comb C&C,North Sound,2,5,7,-,4,0,1,175,caught,1,4.0,0,13,1,3.25
+276298,Andre Russell,12 Jan 2012,v Sussex,North Sound,1,6,24,-,11,2,2,218.18,caught,2,4.0,0,18,0,4.5
+276298,Andre Russell,14 Jan 2012,v Barbados,North Sound,2,6,10,-,17,0,1,58.82,stumped,1,4.0,0,28,0,7
+276298,Andre Russell,20 Jan 2012,v Netherlands,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+276298,Andre Russell,21 Jan 2012,v Windward Is,Bridgetown,2,7,13*,-,10,2,0,130,not out,1,4.0,0,25,0,6.25
+276298,Andre Russell,22 Jan 2012,v Trinidad & T,Bridgetown,2,6,3,-,7,0,0,42.85,caught,1,3.0,0,26,1,8.66
+276298,Andre Russell,11 Feb 2012,v Dhaka,Mirpur,1,6,37*,19,15,2,3,246.66,not out,2,4.0,0,35,4,8.75
+276298,Andre Russell,12 Feb 2012,v Chittagong,Mirpur,1,4,24,23,16,3,1,150,caught,2,4.0,0,38,1,9.5
+276298,Andre Russell,13 Feb 2012,v Barisal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+276298,Andre Russell,15 Feb 2012,v Rajshahi,Mirpur,1,7,4,-,4,1,0,100,bowled,2,3.0,0,25,0,8.33
+276298,Andre Russell,18 Feb 2012,v Royals,Chattogram,1,8,35*,-,14,3,2,250,not out,2,4.0,0,36,2,9
+276298,Andre Russell,19 Feb 2012,v Dhaka,Chattogram,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,1,10.5
+276298,Andre Russell,20 Feb 2012,v Chittagong,Chattogram,1,8,16*,-,7,2,0,228.57,not out,2,DNB,-,-,-,-
+276298,Andre Russell,22 Feb 2012,v Barisal,Chattogram,1,6,5,-,6,1,0,83.33,bowled,2,3.0,0,24,1,8
+276298,Andre Russell,10 May 2012,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+276298,Andre Russell,17 May 2012,v RCB,Delhi,2,7,31,21,15,1,3,206.66,caught,1,4.0,0,41,0,10.25
+276298,Andre Russell,19 May 2012,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+276298,Andre Russell,25 May 2012,v CSK,Chennai,2,5,16,-,11,2,0,145.45,caught,1,4.0,0,30,0,7.5
+276298,Andre Russell,24 Sep 2012,v Ireland,Colombo (RPS),-,-,TDNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+276298,Andre Russell,27 Sep 2012,v England,Pallekele,1,7,10*,7,5,2,0,200,not out,2,DNB,-,-,-,-
+276298,Andre Russell,29 Sep 2012,v Sri Lanka,Pallekele,1,6,19*,19,14,0,1,135.71,not out,2,1.0,0,11,0,11
+276298,Andre Russell,1 Oct 2012,v New Zealand,Pallekele,1,3,6,9,6,0,1,100,caught,2,DNB,-,-,-,-
+276298,Andre Russell,5 Oct 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,25,0,25
+276298,Andre Russell,7 Oct 2012,v Sri Lanka,Colombo (RPS),1,6,0,2,1,0,0,0,lbw,2,DNB,-,-,-,-
+276298,Andre Russell,10 Dec 2012,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,17,0,17
+276298,Andre Russell,6 Jan 2013,v Trinidad & T,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+276298,Andre Russell,8 Jan 2013,v Barbados,Port of Spain,1,6,1,11,7,0,0,14.28,caught,2,1.0,0,5,0,5
+276298,Andre Russell,9 Jan 2013,v Windward Is,Port of Spain,1,6,8,6,4,0,1,200,run out,2,3.0,0,16,1,5.33
+276298,Andre Russell,11 Jan 2013,v Leeward Is,Port of Spain,1,6,8,-,10,0,0,80,caught,2,3.0,0,26,0,8.66
+276298,Andre Russell,15 Jan 2013,v Guyana,Gros Islet,2,7,20*,-,7,0,3,285.71,not out,1,4.0,0,22,4,5.5
+276298,Andre Russell,18 Jan 2013,v Comb C&C,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+276298,Andre Russell,19 Jan 2013,v Guyana,Gros Islet,1,6,10,-,3,1,1,333.33,caught,2,2.4,0,17,0,6.37
+276298,Andre Russell,13 Feb 2013,v Australia,Brisbane,1,6,23*,19,11,3,0,209.09,not out,2,1.0,0,9,0,9
+276298,Andre Russell,2 Mar 2013,v Zimbabwe,North Sound,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+276298,Andre Russell,3 Mar 2013,v Zimbabwe,North Sound,1,7,0,2,1,0,0,0,caught,2,2.0,0,21,0,10.5
+276298,Andre Russell,3 Apr 2013,v KKR,Eden Gardens,1,8,4,11,8,0,0,50,caught,2,3.0,0,24,0,8
+276298,Andre Russell,6 Apr 2013,v RR,Delhi,2,5,7,13,6,0,0,116.66,bowled,1,3.0,0,31,0,10.33
+276298,Andre Russell,21 Apr 2013,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+276298,Andre Russell,18 Jun 2013,v Sri Lanka A,Kingstown,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,19 Jun 2013,v Sri Lanka A,Kingstown,2,6,8,10,10,0,1,80,caught,1,1.0,0,12,0,12
+276298,Andre Russell,28 Jun 2013,v Glamorgan,Worcester,2,5,1,3,2,0,0,50,caught,1,3.0,0,38,2,12.66
+276298,Andre Russell,30 Jun 2013,v Gloucs,Bristol,2,5,12,5,4,0,2,300,lbw,1,3.0,0,32,1,10.66
+276298,Andre Russell,7 Jul 2013,v Gloucs,Worcester,2,5,18,12,14,2,1,128.57,run out,1,DNB,-,-,-,-
+276298,Andre Russell,12 Jul 2013,v Warwickshire,Worcester,1,5,47*,26,21,5,3,223.8,not out,2,3.0,0,36,0,12
+276298,Andre Russell,14 Jul 2013,v Somerset,Taunton,1,5,21,16,16,0,2,131.25,caught,2,3.0,0,20,1,6.66
+276298,Andre Russell,21 Jul 2013,v Northants,Worcester,2,5,44,35,31,6,1,141.93,caught,1,3.0,0,12,1,4
+276298,Andre Russell,23 Jul 2013,v Glamorgan,Cardiff,1,4,15,13,11,2,0,136.36,bowled,2,2.0,0,12,1,6
+276298,Andre Russell,26 Jul 2013,v Warwickshire,Birmingham,1,5,5,12,10,0,0,50,caught,2,3.0,0,26,2,8.66
+276298,Andre Russell,27 Jul 2013,v Somerset,Worcester,2,5,77*,51,42,4,6,183.33,not out,1,4.0,0,43,1,10.75
+276298,Andre Russell,2 Aug 2013,v Amazon,Providence,1,8,3,-,4,0,0,75,caught,2,1.0,0,4,0,4
+276298,Andre Russell,4 Aug 2013,v Hawksbills,Providence,2,5,42*,-,23,4,3,182.6,not out,1,4.0,0,30,0,7.5
+276298,Andre Russell,7 Aug 2013,v Red Steel,Port of Spain,1,6,2,-,3,0,0,66.66,run out,2,3.0,0,27,2,9
+276298,Andre Russell,10 Aug 2013,v Zouks,Gros Islet,2,5,47*,-,19,3,4,247.36,not out,1,2.0,0,15,1,7.5
+276298,Andre Russell,15 Aug 2013,v Amazon,Kingston,2,6,14,-,11,0,1,127.27,caught,1,2.0,0,17,0,8.5
+276298,Andre Russell,17 Aug 2013,v Tridents,Kingston,2,6,27*,-,17,2,2,158.82,not out,1,3.0,0,17,0,5.66
+276298,Andre Russell,18 Aug 2013,v Red Steel,Kingston,2,4,6,-,6,0,1,100,run out,1,4.0,0,33,1,8.25
+276298,Andre Russell,23 Aug 2013,v Tridents,Port of Spain,2,5,29*,-,6,1,4,483.33,not out,1,3.0,0,31,0,10.33
+276298,Andre Russell,24 Aug 2013,v Amazon,Port of Spain,2,5,33*,-,18,5,1,183.33,not out,1,1.0,0,12,0,12
+276298,Andre Russell,21 Sep 2013,v India A,Bengaluru,2,7,12,5,5,1,1,240,caught,1,4.0,0,45,4,11.25
+276298,Andre Russell,11 Jan 2014,v New Zealand,Auckland,2,6,0,1,2,0,0,0,caught,1,1.0,0,23,0,23
+276298,Andre Russell,15 Jan 2014,v New Zealand,Wellington,1,7,10*,10,7,1,0,142.85,not out,2,3.0,0,16,2,5.33
+276298,Andre Russell,19 Feb 2014,v Ireland,Kingston,1,6,15,-,15,1,1,100,bowled,2,1.0,0,7,0,7
+276298,Andre Russell,21 Feb 2014,v Ireland,Kingston,1,6,8,-,11,0,0,72.72,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,9 Mar 2014,v England,Bridgetown,1,5,24*,28,15,2,1,160,not out,2,2.0,0,21,0,10.5
+276298,Andre Russell,11 Mar 2014,v England,Bridgetown,2,5,2,9,4,0,0,50,caught,1,2.0,0,13,0,6.5
+276298,Andre Russell,13 Mar 2014,v England,Bridgetown,2,6,0,2,2,0,0,0,caught,1,1.0,0,11,0,11
+276298,Andre Russell,23 Mar 2014,v India,Mirpur,1,7,7,4,5,0,1,140,caught,2,2.0,0,12,1,6
+276298,Andre Russell,25 Mar 2014,v Bangladesh,Mirpur,1,6,0,1,1,0,0,0,caught,2,2.1,0,10,2,4.61
+276298,Andre Russell,28 Mar 2014,v Australia,Mirpur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+276298,Andre Russell,1 Apr 2014,v Pakistan,Mirpur,1,8,0*,4,0,0,0,-,not out,2,3.0,0,15,2,5
+276298,Andre Russell,3 Apr 2014,v Sri Lanka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,1,12.33
+276298,Andre Russell,2 May 2014,v CSK,Ranchi,2,8,1,-,5,0,0,20,bowled,1,2.0,0,25,1,12.5
+276298,Andre Russell,5 May 2014,v RR,Ahmedabad,2,3,1,5,3,0,0,33.33,bowled,1,3.0,0,27,0,9
+276298,Andre Russell,14 Jun 2014,v Bangladesh A,Bridgetown,1,7,48,33,26,5,2,184.61,run out,2,1.0,0,12,0,12
+276298,Andre Russell,15 Jun 2014,v Bangladesh A,Cave Hill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+276298,Andre Russell,5 Jul 2014,v New Zealand,Roseau,1,7,1,8,5,0,0,20,caught,2,2.0,0,21,0,10.5
+276298,Andre Russell,6 Jul 2014,v New Zealand,Roseau,1,7,14*,9,7,2,0,200,not out,2,2.0,0,17,1,8.5
+276298,Andre Russell,12 Jul 2014,v Zouks,St George's,2,5,0*,-,0,0,0,-,not out,1,3.0,0,27,2,9
+276298,Andre Russell,17 Jul 2014,v Hawksbills,North Sound,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,2,8
+276298,Andre Russell,20 Jul 2014,v Amazon,Providence,1,5,15,-,11,1,1,136.36,bowled,2,2.0,0,17,0,8.5
+276298,Andre Russell,26 Jul 2014,v Red Steel,Port of Spain,2,5,40*,-,17,1,5,235.29,not out,1,4.0,0,23,2,5.75
+276298,Andre Russell,31 Jul 2014,v Hawksbills,Kingston,2,4,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+276298,Andre Russell,2 Aug 2014,v Amazon,Kingston,2,6,58*,-,24,3,6,241.66,not out,1,2.0,0,10,1,5
+276298,Andre Russell,3 Aug 2014,v Tridents,Kingston,1,4,1,-,2,0,0,50,caught,2,4.0,0,32,1,8
+276298,Andre Russell,9 Aug 2014,v Zouks,Basseterre,1,6,18,-,8,4,0,225,caught,2,2.0,0,25,1,12.5
+276298,Andre Russell,10 Aug 2014,v Tridents,Basseterre,2,6,4,-,4,1,0,100,caught,1,4.0,0,48,1,12
+276298,Andre Russell,13 Aug 2014,v Red Steel,Basseterre,2,7,62*,-,27,5,4,229.62,not out,1,4.0,0,37,1,9.25
+276298,Andre Russell,14 Aug 2014,v Amazon,Basseterre,1,5,20,-,12,2,0,166.66,run out,2,2.0,0,16,0,8
+276298,Andre Russell,27 Aug 2014,v Bangladesh,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,17 Sep 2014,v CSK,Hyderabad,2,7,58,34,25,4,5,232,bowled,1,1.0,0,12,0,12
+276298,Andre Russell,21 Sep 2014,v Lahore Lions,Hyderabad,2,7,1,3,4,0,0,25,caught,1,4.0,0,38,0,9.5
+276298,Andre Russell,24 Sep 2014,v Scorchers,Hyderabad,2,8,4,11,5,0,0,80,bowled,1,DNB,-,-,-,-
+276298,Andre Russell,29 Sep 2014,v Dolphins,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+276298,Andre Russell,2 Oct 2014,v Hurricanes,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+276298,Andre Russell,4 Oct 2014,v CSK,Bengaluru,1,8,2*,5,2,0,0,100,not out,2,2.0,0,14,0,7
+276298,Andre Russell,2 Nov 2014,v Warriors,Johannesburg,1,6,10,9,6,0,1,166.66,caught,2,3.5,0,21,1,5.47
+276298,Andre Russell,7 Nov 2014,v Titans,Centurion,1,4,48,21,21,8,2,228.57,lbw,2,4.0,0,20,1,5
+276298,Andre Russell,9 Nov 2014,v Lions,Potchefstroom,2,6,0,1,1,0,0,0,lbw,1,4.0,0,44,2,11
+276298,Andre Russell,12 Nov 2014,v Cape Cobras,Paarl,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,14 Nov 2014,v Titans,Bloemfontein,2,4,7*,7,4,0,1,175,not out,1,4.0,0,26,0,6.5
+276298,Andre Russell,16 Nov 2014,v Dolphins,Durban,-,-,TDNB,-,-,-,-,-,-,1,3.5,1,18,4,4.69
+276298,Andre Russell,21 Nov 2014,v Warriors,East London,1,6,57*,32,31,4,4,183.87,not out,2,3.3,0,20,1,5.71
+276298,Andre Russell,28 Nov 2014,v Dolphins,Kimberley,1,5,50,26,19,0,6,263.15,run out,2,3.3,0,17,3,4.85
+276298,Andre Russell,30 Nov 2014,v Cape Cobras,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+276298,Andre Russell,3 Dec 2014,v Lions,Kimberley,1,5,5,5,3,1,0,166.66,stumped,2,1.0,0,12,0,12
+276298,Andre Russell,7 Dec 2014,v Lions,Johannesburg,2,4,0*,2,0,0,0,-,not out,1,4.0,0,44,1,11
+276298,Andre Russell,12 Dec 2014,v Cape Cobras,Cape Town,2,5,5,9,6,1,0,83.33,caught,1,4.0,0,40,0,10
+276298,Andre Russell,19 Dec 2014,v Sixers,Sydney,1,7,18*,-,13,1,1,138.46,not out,2,2.5,0,22,1,7.76
+276298,Andre Russell,26 Dec 2014,v Scorchers,W.A.C.A,2,6,43,-,21,2,4,204.76,bowled,1,3.0,0,26,0,8.66
+276298,Andre Russell,30 Dec 2014,v Thunder,Melbourne (Docklands),2,4,16*,9,7,1,1,228.57,not out,1,4.0,0,20,2,5
+276298,Andre Russell,3 Jan 2015,v Stars,Melbourne (Docklands),2,7,9,-,5,2,0,180,caught,1,2.0,0,26,1,13
+276298,Andre Russell,9 Jan 2015,v South Africa,Cape Town,2,6,6,5,6,1,0,100,caught,1,4.0,0,43,1,10.75
+276298,Andre Russell,11 Jan 2015,v South Africa,Johannesburg,2,5,14,9,6,1,1,233.33,caught,1,4.0,0,39,0,9.75
+276298,Andre Russell,14 Jan 2015,v South Africa,Durban,2,7,12,7,6,1,1,200,caught,1,2.0,0,24,0,12
+276298,Andre Russell,8 Apr 2015,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+276298,Andre Russell,11 Apr 2015,v RCB,Eden Gardens,1,6,41*,22,17,6,2,241.17,not out,2,2.0,0,16,0,8
+276298,Andre Russell,18 Apr 2015,v Kings XI,Pune,2,7,66,48,36,9,2,183.33,bowled,1,4.0,0,39,2,9.75
+276298,Andre Russell,20 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+276298,Andre Russell,22 Apr 2015,v SRH,Visakhapatnam,2,4,19,-,10,1,2,190,caught,1,1.0,0,6,1,6
+276298,Andre Russell,28 Apr 2015,v CSK,Chennai,2,7,4,9,4,0,0,100,run out,1,4.0,0,26,2,6.5
+276298,Andre Russell,30 Apr 2015,v CSK,Eden Gardens,2,5,55*,-,32,4,4,171.87,not out,1,4.0,0,20,2,5
+276298,Andre Russell,2 May 2015,v RCB,Bengaluru,1,3,45,-,17,5,3,264.7,run out,2,1.4,0,22,1,13.2
+276298,Andre Russell,4 May 2015,v SRH,Eden Gardens,1,4,1,3,3,0,0,33.33,caught,2,2.0,0,10,1,5
+276298,Andre Russell,7 May 2015,v Daredevils,Eden Gardens,1,6,5,9,5,1,0,100,caught,2,4.0,0,24,1,6
+276298,Andre Russell,9 May 2015,v Kings XI,Eden Gardens,2,6,51,30,21,5,4,242.85,caught,1,4.0,0,50,1,12.5
+276298,Andre Russell,14 May 2015,v MI,Wankhede,2,6,2,6,4,0,0,50,caught,1,4.0,0,37,0,9.25
+276298,Andre Russell,16 May 2015,v RR,Brabourne,2,5,37,28,20,4,2,185,caught,1,4.0,0,32,3,8
+276298,Andre Russell,23 Jun 2015,v Tridents,Bridgetown,2,7,12,11,9,2,0,133.33,caught,1,4.0,0,30,1,7.5
+276298,Andre Russell,28 Jun 2015,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,0,4
+276298,Andre Russell,30 Jun 2015,v Patriots,Basseterre,2,5,21*,-,14,2,1,150,not out,1,2.0,0,16,0,8
+276298,Andre Russell,4 Jul 2015,v Patriots,Basseterre,2,5,18,-,14,2,1,128.57,lbw,1,4.0,0,42,1,10.5
+276298,Andre Russell,7 Jul 2015,v Zouks,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+276298,Andre Russell,9 Jul 2015,v Red Steel,Kingston,1,7,3*,-,4,0,0,75,not out,2,4.0,0,19,1,4.75
+276298,Andre Russell,11 Jul 2015,v Tridents,Kingston,2,7,15,-,10,1,1,150,caught,1,4.0,0,18,2,4.5
+276298,Andre Russell,12 Jul 2015,v Amazon,Kingston,2,7,28,-,14,3,1,200,bowled,1,3.0,0,39,1,13
+276298,Andre Russell,19 Jul 2015,v Red Steel,Port of Spain,2,8,36,-,22,2,3,163.63,caught,1,4.0,0,36,1,9
+276298,Andre Russell,23 Jul 2015,v Red Steel,Port of Spain,2,5,6,-,5,1,0,120,bowled,1,4.0,0,30,1,7.5
+276298,Andre Russell,9 Nov 2015,v Sri Lanka,Pallekele,2,4,16,13,8,0,2,200,bowled,1,DNB,-,-,-,-
+276298,Andre Russell,11 Nov 2015,v Sri Lanka,Colombo (RPS),1,5,9,7,9,0,1,100,caught,2,DNB,-,-,-,-
+276298,Andre Russell,13 Nov 2015,v Titans,Bloemfontein,2,5,20,10,8,0,3,250,caught,1,4.0,0,38,0,9.5
+276298,Andre Russell,15 Nov 2015,v Lions,Bloemfontein,2,6,13,22,14,0,2,92.85,caught,1,4.0,0,22,1,5.5
+276298,Andre Russell,22 Nov 2015,v Cape Cobras,Paarl,1,5,27,25,20,1,2,135,bowled,2,4.0,0,43,2,10.75
+276298,Andre Russell,25 Nov 2015,v Lions,Potchefstroom,1,4,11,8,8,2,0,137.5,caught,2,4.0,0,21,1,5.25
+276298,Andre Russell,28 Nov 2015,v Dolphins,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,3,3.75
+276298,Andre Russell,4 Dec 2015,v Warriors,Bloemfontein,1,4,52,33,24,2,5,216.66,caught,2,4.0,0,31,3,7.75
+276298,Andre Russell,6 Dec 2015,v Titans,Benoni,2,6,66*,38,23,4,7,286.95,not out,1,4.0,0,11,4,2.75
+276298,Andre Russell,8 Dec 2015,v Rangpur,Mirpur,2,7,9,11,10,0,1,90,caught,1,4.0,0,38,1,9.5
+276298,Andre Russell,10 Dec 2015,v Super Stars,Mirpur,1,6,1*,2,1,0,0,100,not out,2,2.5,0,9,2,3.17
+276298,Andre Russell,12 Dec 2015,v Rangpur,Mirpur,1,4,3,16,4,0,0,75,caught,2,2.0,0,15,1,7.5
+276298,Andre Russell,17 Dec 2015,v Sixers,Sydney,1,6,4*,-,5,0,0,80,not out,2,4.0,1,13,3,3.25
+276298,Andre Russell,20 Dec 2015,v Stars,Melbourne,1,6,22,20,16,4,0,137.5,caught,2,4.0,0,28,2,7
+276298,Andre Russell,28 Dec 2015,v Strikers,Sydney,2,4,17,-,7,0,2,242.85,caught,1,4.0,0,28,2,7
+276298,Andre Russell,1 Jan 2016,v Hurricanes,Hobart,2,6,8,7,5,0,1,160,caught,1,4.0,0,40,0,10
+276298,Andre Russell,3 Jan 2016,v Heat,Brisbane,1,5,20,-,9,2,1,222.22,run out,2,4.0,0,28,2,7
+276298,Andre Russell,7 Jan 2016,v Scorchers,Sydney,2,5,42,-,20,0,5,210,caught,1,4.0,0,31,2,7.75
+276298,Andre Russell,11 Jan 2016,v Renegades,Sydney,1,4,16,-,9,1,1,177.77,hit wicket,2,4.0,0,42,2,10.5
+276298,Andre Russell,16 Jan 2016,v Sixers,Sydney,1,5,46,-,20,3,4,230,caught,2,3.0,0,31,1,10.33
+276298,Andre Russell,21 Jan 2016,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+276298,Andre Russell,24 Jan 2016,v Stars,Melbourne,2,5,10,14,8,0,1,125,caught,1,4.0,0,30,1,7.5
+276298,Andre Russell,4 Feb 2016,v Gladiators,Dubai (DICS),1,8,35*,-,20,4,2,175,not out,2,2.0,0,31,0,15.5
+276298,Andre Russell,5 Feb 2016,v Zalmi,Dubai (DICS),2,8,12,-,12,0,1,100,caught,1,4.0,0,31,3,7.75
+276298,Andre Russell,7 Feb 2016,v Kings,Dubai (DICS),1,5,2,-,6,0,0,33.33,caught,2,4.0,0,23,1,5.75
+276298,Andre Russell,10 Feb 2016,v Qalandars,Sharjah,2,3,2,-,5,0,0,40,caught,1,4.0,0,34,0,8.5
+276298,Andre Russell,11 Feb 2016,v Gladiators,Sharjah,1,8,10,-,13,1,0,76.92,lbw,2,3.0,0,18,3,6
+276298,Andre Russell,12 Feb 2016,v Zalmi,Sharjah,1,5,2,-,2,0,0,100,caught,2,2.0,0,20,0,10
+276298,Andre Russell,14 Feb 2016,v Kings,Sharjah,2,2,14,-,11,2,1,127.27,hit wicket,1,3.2,0,25,1,7.5
+276298,Andre Russell,20 Feb 2016,v Kings,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+276298,Andre Russell,21 Feb 2016,v Zalmi,Dubai (DICS),1,5,0*,-,0,0,0,-,not out,2,4.0,0,37,3,9.25
+276298,Andre Russell,23 Feb 2016,v Gladiators,Dubai (DICS),2,4,7,-,3,0,1,233.33,bowled,1,4.0,0,36,3,9
+276298,Andre Russell,16 Mar 2016,v England,Wankhede,2,6,16*,31,16,2,0,100,not out,1,4.0,0,36,2,9
+276298,Andre Russell,20 Mar 2016,v Sri Lanka,Bengaluru,2,5,20*,29,8,3,1,250,not out,1,4.0,0,34,1,8.5
+276298,Andre Russell,25 Mar 2016,v South Africa,Nagpur,2,6,4,16,8,0,0,50,caught,1,4.0,0,28,2,7
+276298,Andre Russell,27 Mar 2016,v Afghanistan,Nagpur,2,7,7,19,9,0,0,77.77,run out,1,4.0,0,23,2,5.75
+276298,Andre Russell,31 Mar 2016,v India,Wankhede,2,5,43*,34,20,3,4,215,not out,1,4.0,0,47,1,11.75
+276298,Andre Russell,3 Apr 2016,v England,Eden Gardens,2,6,1,7,3,0,0,33.33,caught,1,4.0,0,21,1,5.25
+276298,Andre Russell,10 Apr 2016,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,3,8
+276298,Andre Russell,13 Apr 2016,v MI,Eden Gardens,1,4,36,16,17,1,4,211.76,bowled,2,4.0,0,52,1,13
+276298,Andre Russell,16 Apr 2016,v SRH,Hyderabad,2,3,2,4,5,0,0,40,bowled,1,4.0,0,19,1,4.75
+276298,Andre Russell,19 Apr 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+276298,Andre Russell,24 Apr 2016,v Supergiants,Pune,2,6,17,19,11,0,2,154.54,caught,1,2.0,0,16,0,8
+276298,Andre Russell,28 Apr 2016,v MI,Wankhede,1,5,22,19,16,3,0,137.5,bowled,2,3.0,0,28,0,9.33
+276298,Andre Russell,30 Apr 2016,v Daredevils,Delhi,2,7,17,17,12,2,1,141.66,caught,1,4.0,0,26,3,6.5
+276298,Andre Russell,2 May 2016,v RCB,Bengaluru,2,6,39,37,24,1,4,162.5,caught,1,4.0,0,24,1,6
+276298,Andre Russell,4 May 2016,v Kings XI,Eden Gardens,1,4,16,17,10,1,1,160,run out,2,4.0,0,20,4,5
+276298,Andre Russell,8 May 2016,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+276298,Andre Russell,14 May 2016,v Supergiants,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,1,5.5
+276298,Andre Russell,16 May 2016,v RCB,Eden Gardens,1,5,39*,38,19,2,3,205.26,not out,2,2.3,0,32,0,12.8
+276298,Andre Russell,18 Jun 2016,v Worcs,Worcester,2,7,41,26,25,1,3,164,caught,1,4.0,0,28,2,7
+276298,Andre Russell,24 Jun 2016,v Derbyshire,Derby,2,4,15,8,8,0,2,187.5,caught,1,4.0,0,34,2,8.5
+276298,Andre Russell,2 Jul 2016,v Patriots,Basseterre,1,6,34*,-,20,2,3,170,not out,2,DNB,-,-,-,-
+276298,Andre Russell,4 Jul 2016,v Trinbago,Port of Spain,2,4,24,-,18,2,1,133.33,caught,1,DNB,-,-,-,-
+276298,Andre Russell,15 Jul 2016,v Amazon,Kingston,2,6,24,-,15,2,2,160,caught,1,3.0,1,23,0,7.66
+276298,Andre Russell,16 Jul 2016,v Patriots,Kingston,1,5,16,-,15,1,1,106.66,caught,2,2.0,0,11,2,5.5
+276298,Andre Russell,18 Jul 2016,v Trinbago,Kingston,1,6,44,-,24,5,3,183.33,caught,2,4.0,0,23,4,5.75
+276298,Andre Russell,20 Jul 2016,v Tridents,Kingston,1,4,0,-,1,0,0,0,caught,2,3.0,0,33,1,11
+276298,Andre Russell,30 Jul 2016,v Zouks,Lauderhill,2,6,12,-,6,1,1,200,caught,1,4.0,0,64,0,16
+276298,Andre Russell,31 Jul 2016,v Zouks,Lauderhill,2,5,21,-,13,4,0,161.53,caught,1,DNB,-,-,-,-
+276298,Andre Russell,3 Aug 2016,v Amazon,Basseterre,1,5,11,-,10,0,1,110,bowled,2,4.0,0,26,1,6.5
+276298,Andre Russell,5 Aug 2016,v Trinbago,Basseterre,1,6,100,-,44,3,11,227.27,caught,2,3.0,0,27,2,9
+276298,Andre Russell,7 Aug 2016,v Amazon,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.1,0,5,1,2.3
+276298,Andre Russell,20 Aug 2016,v Northants,Birmingham,2,6,39,17,18,4,3,216.66,caught,1,4.0,0,20,3,5
+276298,Andre Russell,27 Aug 2016,v India,Lauderhill,1,3,22,30,12,1,2,183.33,lbw,2,4.0,0,53,1,13.25
+276298,Andre Russell,28 Aug 2016,v India,Lauderhill,1,7,13,25,15,0,1,86.66,caught,2,1.0,0,7,0,7
+276298,Andre Russell,8 Nov 2016,v Bulls,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+276298,Andre Russell,30 Nov 2016,v Rangpur,Mirpur,1,4,8,14,7,0,0,114.28,caught,2,4.0,0,33,0,8.25
+276298,Andre Russell,2 Dec 2016,v Chattogram,Mirpur,2,6,31*,25,18,1,3,172.22,not out,1,4.0,0,23,1,5.75
+276298,Andre Russell,6 Dec 2016,v Khulna,Mirpur,1,7,46,38,25,4,3,184,caught,2,4.0,0,16,3,4
+276298,Andre Russell,9 Dec 2016,v Kings,Mirpur,1,7,8,11,11,0,0,72.72,caught,2,3.4,0,21,1,5.72
+276298,Andre Russell,20 Dec 2016,v Sixers,Sydney,1,6,9,-,7,2,0,128.57,caught,2,4.0,0,27,1,6.75
+276298,Andre Russell,22 Dec 2016,v Renegades,Melbourne (Docklands),2,5,2,-,7,0,0,28.57,bowled,1,4.0,0,42,2,10.5
+276298,Andre Russell,28 Dec 2016,v Heat,Sydney,1,5,8,-,10,1,0,80,caught,2,3.4,0,25,0,6.81
+276298,Andre Russell,1 Jan 2017,v Scorchers,W.A.C.A,2,6,6,-,9,1,0,66.66,caught,1,4.0,0,38,0,9.5
+276298,Andre Russell,4 Jan 2017,v Stars,Sydney,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+276298,Andre Russell,24 Feb 2018,v Zalmi,Dubai (DICS),2,8,11,-,7,2,0,157.14,caught,1,3.0,0,37,1,12.33
+276298,Andre Russell,25 Feb 2018,v Sultans,Dubai (DICS),2,6,0,-,1,0,0,0,lbw,1,3.0,0,30,2,10
+276298,Andre Russell,2 Mar 2018,v Qalandars,Sharjah,1,7,15,-,12,0,1,125,run out,2,4.0,0,22,1,5.5
+276298,Andre Russell,4 Mar 2018,v Kings,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,8 Apr 2018,v RCB,Eden Gardens,2,7,15,-,11,2,1,136.36,caught,1,2.0,0,10,0,5
+276298,Andre Russell,10 Apr 2018,v CSK,Chennai,1,7,88*,-,36,1,11,244.44,not out,2,4.0,0,35,0,8.75
+276298,Andre Russell,14 Apr 2018,v SRH,Eden Gardens,1,6,9,-,5,0,1,180,caught,2,3.0,0,39,0,13
+276298,Andre Russell,16 Apr 2018,v Daredevils,Eden Gardens,1,6,41,-,12,0,6,341.66,bowled,2,2.0,0,25,1,12.5
+276298,Andre Russell,18 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,21 Apr 2018,v Kings XI,Eden Gardens,1,6,10,-,7,2,0,142.85,caught,2,1.5,0,31,0,16.9
+276298,Andre Russell,27 Apr 2018,v Daredevils,Delhi,2,7,44,-,30,3,4,146.66,bowled,1,3.0,0,28,1,9.33
+276298,Andre Russell,29 Apr 2018,v RCB,Bengaluru,2,5,0,-,1,0,0,0,caught,1,3.0,0,31,3,10.33
+276298,Andre Russell,3 May 2018,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+276298,Andre Russell,6 May 2018,v MI,Wankhede,2,6,9,-,10,1,0,90,caught,1,2.0,0,12,2,6
+276298,Andre Russell,9 May 2018,v MI,Eden Gardens,2,5,2,-,4,0,0,50,caught,1,2.0,0,16,0,8
+276298,Andre Russell,12 May 2018,v Kings XI,Indore,1,4,31,-,14,2,3,221.42,caught,2,4.0,0,41,3,10.25
+276298,Andre Russell,15 May 2018,v RR,Eden Gardens,2,6,11*,-,5,2,0,220,not out,1,3.0,0,13,2,4.33
+276298,Andre Russell,19 May 2018,v SRH,Hyderabad,2,5,4,-,4,1,0,100,caught,1,3.0,0,31,1,10.33
+276298,Andre Russell,23 May 2018,v RR,Eden Gardens,1,7,49*,-,25,3,5,196,not out,2,3.0,0,22,0,7.33
+276298,Andre Russell,25 May 2018,v SRH,Eden Gardens,2,7,3,-,7,0,0,42.85,caught,1,1.0,0,9,0,9
+276298,Andre Russell,31 May 2018,v ICC World XI,Lord's,1,6,21*,-,10,0,3,210,not out,2,3.0,0,25,2,8.33
+276298,Andre Russell,31 Jul 2018,v Bangladesh,Basseterre,2,3,35*,-,21,3,3,166.66,not out,1,4.0,0,27,1,6.75
+276298,Andre Russell,4 Aug 2018,v Bangladesh,Lauderhill,2,3,17,-,10,1,2,170,caught,1,4.0,0,33,1,8.25
+276298,Andre Russell,5 Aug 2018,v Bangladesh,Lauderhill,2,6,47,-,21,1,6,223.8,caught,1,3.0,0,36,0,12
+276298,Andre Russell,10 Aug 2018,v Trinbago,Port of Spain,2,7,121*,-,49,6,13,246.93,not out,1,3.0,0,38,3,12.66
+276298,Andre Russell,14 Aug 2018,v Stars,Kingston,2,5,3,-,4,0,0,75,caught,1,4.0,0,48,2,12
+276298,Andre Russell,15 Aug 2018,v Patriots,Kingston,1,6,10*,-,9,0,1,111.11,not out,2,2.0,0,7,1,3.5
+276298,Andre Russell,18 Aug 2018,v Amazon,Lauderhill,2,6,1,-,2,0,0,50,caught,1,3.0,0,31,2,10.33
+276298,Andre Russell,19 Aug 2018,v Trinbago,Lauderhill,1,6,2,-,3,0,0,66.66,caught,2,4.0,0,41,1,10.25
+276298,Andre Russell,22 Aug 2018,v Tridents,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+276298,Andre Russell,25 Aug 2018,v Stars,Gros Islet,1,5,5,-,3,1,0,166.66,caught,2,3.0,0,15,2,5
+276298,Andre Russell,29 Aug 2018,v Tridents,Bridgetown,2,6,10,-,4,1,1,250,run out,1,4.0,0,33,1,8.25
+276298,Andre Russell,2 Sep 2018,v Patriots,Basseterre,1,6,1,-,3,0,0,33.33,run out,2,1.0,0,7,0,7
+276298,Andre Russell,8 Sep 2018,v Amazon,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,12 Sep 2018,v Patriots,Providence,1,5,10,-,6,0,1,166.66,caught,2,4.0,0,28,0,7
+276298,Andre Russell,9 Oct 2018,v Kabul Zwanan,Sharjah,1,4,0,-,4,0,0,0,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,5 Jan 2019,v Kings,Mirpur,1,5,21*,-,19,2,1,110.52,not out,2,2.0,0,12,1,6
+276298,Andre Russell,8 Jan 2019,v Khulna,Mirpur,1,6,25,-,22,0,3,113.63,caught,2,2.0,0,9,0,4.5
+276298,Andre Russell,11 Jan 2019,v Rangpur,Mirpur,1,7,23,-,13,0,3,176.92,bowled,2,3.0,0,26,1,8.66
+276298,Andre Russell,12 Jan 2019,v Sylhet,Mirpur,1,6,5,-,4,1,0,125,caught,2,2.0,0,21,0,10.5
+276298,Andre Russell,16 Jan 2019,v Kings,Sylhet,2,3,11,-,8,1,1,137.5,caught,1,3.0,1,17,1,5.66
+276298,Andre Russell,18 Jan 2019,v Sylhet,Sylhet,2,6,40*,-,21,2,4,190.47,not out,1,3.0,1,20,1,6.66
+276298,Andre Russell,21 Jan 2019,v Chattogram,Mirpur,1,7,1,-,4,0,0,25,caught,2,3.0,0,25,1,8.33
+276298,Andre Russell,22 Jan 2019,v Victorians,Mirpur,2,6,46,-,24,2,5,191.66,caught,1,4.0,0,27,2,6.75
+276298,Andre Russell,28 Jan 2019,v Rangpur,Chattogram,1,5,14,-,8,1,1,175,caught,2,3.0,0,30,2,10
+276298,Andre Russell,30 Jan 2019,v Chattogram,Chattogram,2,7,39,-,23,4,2,169.56,caught,1,4.0,0,38,3,9.5
+276298,Andre Russell,1 Feb 2019,v Victorians,Mirpur,2,7,30*,-,23,2,3,130.43,not out,1,4.0,0,22,0,5.5
+276298,Andre Russell,2 Feb 2019,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,0,3.5
+276298,Andre Russell,4 Feb 2019,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+276298,Andre Russell,6 Feb 2019,v Rangpur,Mirpur,2,7,40*,-,19,0,5,210.52,not out,1,4.0,0,31,2,7.75
+276298,Andre Russell,8 Feb 2019,v Victorians,Mirpur,2,6,4,-,3,1,0,133.33,caught,1,4.0,0,37,0,9.25
+276298,Andre Russell,15 Feb 2019,v Kings,Dubai (DICS),2,5,9,-,5,0,1,180,caught,1,3.0,0,25,1,8.33
+276298,Andre Russell,16 Feb 2019,v United,Dubai (DICS),2,6,16,-,7,2,1,228.57,bowled,1,3.0,0,32,0,10.66
+276298,Andre Russell,20 Feb 2019,v Gladiators,Sharjah,1,6,18,-,12,3,0,150,caught,2,3.0,0,33,0,11
+276298,Andre Russell,22 Feb 2019,v Qalandars,Sharjah,1,4,7,-,6,0,1,116.66,caught,2,2.0,0,28,0,14
+276298,Andre Russell,24 Mar 2019,v SRH,Eden Gardens,2,5,49*,-,19,4,4,257.89,not out,1,3.0,0,32,2,10.66
+276298,Andre Russell,27 Mar 2019,v Kings XI,Eden Gardens,1,5,48,-,17,3,5,282.35,caught,2,3.0,0,21,2,7
+276298,Andre Russell,30 Mar 2019,v DC,Delhi,1,7,62,52,28,4,6,221.42,caught,2,3.0,0,28,1,9.33
+276298,Andre Russell,5 Apr 2019,v RCB,Bengaluru,2,6,48*,27,13,1,7,369.23,not out,1,1.0,0,16,0,16
+276298,Andre Russell,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,9 Apr 2019,v CSK,Chennai,1,7,50*,59,44,5,3,113.63,not out,2,DNB,-,-,-,-
+276298,Andre Russell,12 Apr 2019,v DC,Eden Gardens,1,5,45,34,21,3,4,214.28,caught,2,3.0,0,29,1,9.66
+276298,Andre Russell,14 Apr 2019,v CSK,Eden Gardens,1,6,10,3,4,1,1,250,caught,2,1.0,0,16,0,16
+276298,Andre Russell,19 Apr 2019,v RCB,Eden Gardens,2,6,65,50,25,2,9,260,run out,1,3.0,0,17,1,5.66
+276298,Andre Russell,21 Apr 2019,v SRH,Hyderabad,1,7,15,17,9,0,2,166.66,caught,2,1.0,0,8,0,8
+276298,Andre Russell,25 Apr 2019,v RR,Eden Gardens,1,6,14,33,14,0,1,100,caught,2,3.0,0,32,1,10.66
+276298,Andre Russell,28 Apr 2019,v MI,Eden Gardens,1,3,80*,61,40,6,8,200,not out,2,4.0,0,25,2,6.25
+276298,Andre Russell,3 May 2019,v Kings XI,Mohali,2,4,24,23,14,2,2,171.42,caught,1,3.0,0,29,1,9.66
+276298,Andre Russell,5 May 2019,v MI,Wankhede,1,5,0,3,1,0,0,0,caught,2,2.1,0,34,0,15.69
+276298,Andre Russell,6 Sep 2019,v Trinbago,Port of Spain,2,6,44,-,24,4,4,183.33,caught,1,4.0,0,37,1,9.25
+276298,Andre Russell,10 Sep 2019,v Patriots,Basseterre,1,4,15,0,8,0,2,187.5,caught,2,3.5,0,54,2,14.08
+276298,Andre Russell,12 Sep 2019,v Zouks,Kingston,1,6,0*,-,3,0,0,0,retired notout,2,DNB,-,-,-,-
+276298,Andre Russell,18 Sep 2019,v Amazon,Kingston,2,6,40,-,19,3,3,210.52,caught,1,4.0,0,35,2,8.75
+276298,Andre Russell,19 Sep 2019,v Patriots,Kingston,2,6,0,-,1,0,0,0,caught,1,3.0,0,17,1,5.66
+276298,Andre Russell,12 Dec 2019,v Platoon,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,8,0,2.66
+276298,Andre Russell,13 Dec 2019,v Thunder,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.3,0,25,1,7.14
+276298,Andre Russell,17 Dec 2019,v Khulna,Chattogram,1,6,13*,-,6,1,1,216.66,not out,2,4.0,0,41,2,10.25
+276298,Andre Russell,23 Dec 2019,v Khulna,Chattogram,2,4,28*,-,19,3,1,147.36,not out,1,4.0,0,37,4,9.25
+276298,Andre Russell,24 Dec 2019,v Warriors,Chattogram,2,5,20*,-,7,3,1,285.71,not out,1,4.0,0,26,2,6.5
+276298,Andre Russell,28 Dec 2019,v Warriors,Mirpur,1,5,37*,-,21,0,4,176.19,not out,2,3.0,0,44,1,14.66
+276298,Andre Russell,30 Dec 2019,v Platoon,Mirpur,2,7,7,-,8,1,0,87.5,caught,1,4.0,0,37,1,9.25
+276298,Andre Russell,31 Dec 2019,v Rangers,Mirpur,2,7,17,-,7,1,2,242.85,run out,1,0.3,0,11,0,22
+276298,Andre Russell,7 Jan 2020,v Chattogram,Mirpur,1,5,20,-,10,1,2,200,caught,2,3.0,0,30,0,10
+276298,Andre Russell,11 Jan 2020,v Chattogram,Mirpur,2,4,2*,-,4,0,0,50,not out,1,DNB,-,-,-,-
+276298,Andre Russell,13 Jan 2020,v Khulna,Mirpur,2,6,0,-,5,0,0,0,caught,1,4.0,0,33,0,8.25
+276298,Andre Russell,15 Jan 2020,v Chattogram,Mirpur,2,6,54*,-,22,2,7,245.45,not out,1,4.0,0,35,1,8.75
+276298,Andre Russell,17 Jan 2020,v Khulna,Mirpur,1,5,27*,-,16,0,3,168.75,not out,2,4.0,0,32,2,8
+276298,Andre Russell,4 Mar 2020,v Sri Lanka,Pallekele,1,4,35,-,14,2,4,250,bowled,2,4.0,0,33,1,8.25
+276298,Andre Russell,6 Mar 2020,v Sri Lanka,Pallekele,2,5,40*,-,14,0,6,285.71,not out,1,4.0,0,33,0,8.25
+276298,Andre Russell,19 Aug 2020,v Zouks,Tarouba,2,6,16,-,17,2,0,94.11,caught,1,4.0,0,32,1,8
+276298,Andre Russell,20 Aug 2020,v Trinbago,Tarouba,1,7,25,-,26,3,0,96.15,caught,2,2.0,0,25,0,12.5
+276298,Andre Russell,22 Aug 2020,v Amazon,Tarouba,2,7,52*,-,37,4,5,140.54,not out,1,2.0,0,16,1,8
+276298,Andre Russell,25 Aug 2020,v Amazon,Port of Spain,2,7,23*,-,20,1,2,115,not out,1,3.0,0,17,1,5.66
+276298,Andre Russell,1 Sep 2020,v Trinbago,Tarouba,2,6,50*,-,23,5,4,217.39,not out,1,DNB,-,-,-,-
+276298,Andre Russell,3 Sep 2020,v Patriots,Tarouba,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,5 Sep 2020,v Tridents,Tarouba,1,4,54,-,28,4,5,192.85,stumped,2,DNB,-,-,-,-
+276298,Andre Russell,6 Sep 2020,v Zouks,Tarouba,2,5,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+276298,Andre Russell,8 Sep 2020,v Trinbago,Tarouba,1,7,2,-,5,0,0,40,caught,2,2.0,0,25,0,12.5
+276298,Andre Russell,23 Sep 2020,v MI,Abu Dhabi,2,6,11,-,11,2,0,100,bowled,1,2.0,0,17,1,8.5
+276298,Andre Russell,26 Sep 2020,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+276298,Andre Russell,30 Sep 2020,v RR,Dubai (DICS),1,4,24,-,14,0,3,171.42,caught,2,DNB,-,-,-,-
+276298,Andre Russell,3 Oct 2020,v DC,Sharjah,2,4,13,-,8,1,1,162.5,caught,1,4.0,0,29,2,7.25
+276298,Andre Russell,7 Oct 2020,v CSK,Abu Dhabi,1,6,2,-,4,0,0,50,caught,2,2.0,0,18,1,9
+276298,Andre Russell,10 Oct 2020,v Kings XI,Abu Dhabi,1,6,5,-,3,1,0,166.66,caught,2,DNB,-,-,-,-
+276298,Andre Russell,12 Oct 2020,v RCB,Sharjah,2,6,16,-,10,2,1,160,caught,1,4.0,0,51,1,12.75
+276298,Andre Russell,16 Oct 2020,v MI,Abu Dhabi,1,6,12,-,9,1,1,133.33,caught,2,2.0,0,15,0,7.5
+276298,Andre Russell,18 Oct 2020,v SRH,Abu Dhabi,1,4,9,-,11,1,0,81.81,caught,2,2.0,0,29,0,14.5
+276298,Andre Russell,1 Nov 2020,v RR,Dubai (DICS),1,7,25,-,11,1,3,227.27,caught,2,DNB,-,-,-,-
+276298,Andre Russell,26 Nov 2020,v Tuskers,Hambantota,2,4,24,-,13,3,1,184.61,caught,1,DNB,-,-,-,-
+276298,Andre Russell,28 Nov 2020,v Galle,Hambantota,1,1,65*,-,19,9,4,342.1,not out,2,DNB,-,-,-,-
+276298,Andre Russell,1 Dec 2020,v Viiking,Hambantota,2,5,5,-,6,1,0,83.33,caught,1,2.0,0,18,3,9
+276298,Andre Russell,4 Dec 2020,v Stallions,Hambantota,2,5,32,-,20,2,3,160,caught,1,3.0,0,12,1,4
+276298,Andre Russell,5 Dec 2020,v Tuskers,Hambantota,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+276298,Andre Russell,7 Dec 2020,v Galle,Hambantota,1,6,11,-,9,2,0,122.22,caught,2,2.0,0,22,0,11
+276298,Andre Russell,10 Dec 2020,v Stallions,Hambantota,1,5,21,-,14,2,1,150,run out,2,4.0,0,46,3,11.5
+276298,Andre Russell,13 Dec 2020,v Galle,Hambantota,1,5,11,-,6,1,1,183.33,caught,2,DNB,-,-,-,-
+276298,Andre Russell,11 Apr 2021,v SRH,Chennai,1,4,5,7,5,1,0,100,caught,2,3.0,0,32,1,10.66
+276298,Andre Russell,13 Apr 2021,v MI,Chennai,2,7,9,22,15,1,0,60,caught,1,2.0,0,15,5,7.5
+276298,Andre Russell,18 Apr 2021,v RCB,Chennai,2,7,31,27,20,3,2,155,bowled,1,2.0,0,38,0,19
+276298,Andre Russell,21 Apr 2021,v CSK,Wankhede,2,7,54,30,22,3,6,245.45,bowled,1,2.0,0,27,1,13.5
+276298,Andre Russell,24 Apr 2021,v RR,Wankhede,1,7,9,16,7,0,1,128.57,caught,2,DNB,-,-,-,-
+276298,Andre Russell,26 Apr 2021,v Punjab Kings,Ahmedabad,2,6,10,19,9,2,0,111.11,run out,1,1.0,0,2,0,2
+276298,Andre Russell,29 Apr 2021,v DC,Ahmedabad,1,6,45*,45,27,2,4,166.66,not out,2,DNB,-,-,-,-
+276298,Andre Russell,11 Jun 2021,v United,Abu Dhabi,1,6,13,-,6,0,2,216.66,caught,2,sub,-,-,-,-
+276298,Andre Russell,26 Jun 2021,v South Africa,St George's,2,4,23*,16,12,1,3,191.66,not out,1,3.0,0,29,1,9.66
+276298,Andre Russell,27 Jun 2021,v South Africa,St George's,2,6,5,4,4,1,0,125,caught,1,2.0,0,18,1,9
+276298,Andre Russell,29 Jun 2021,v South Africa,St George's,2,7,25,23,16,0,3,156.25,caught,1,2.0,0,25,0,12.5
+276298,Andre Russell,1 Jul 2021,v South Africa,St George's,1,7,9,10,8,1,0,112.5,caught,2,4.0,0,30,2,7.5
+276298,Andre Russell,3 Jul 2021,v South Africa,St George's,2,6,0,-,1,0,0,0,caught,1,3.0,0,32,0,10.66
+276298,Andre Russell,9 Jul 2021,v Australia,Gros Islet,1,6,51,41,28,3,5,182.14,bowled,2,1.0,0,14,1,14
+276298,Andre Russell,10 Jul 2021,v Australia,Gros Islet,1,6,24*,12,8,2,2,300,not out,2,3.0,0,22,1,7.33
+276298,Andre Russell,12 Jul 2021,v Australia,Gros Islet,2,6,7*,6,2,0,1,350,not out,1,3.0,0,29,0,9.66
+276298,Andre Russell,14 Jul 2021,v Australia,Gros Islet,2,6,24*,30,13,0,3,184.61,not out,1,3.0,0,25,1,8.33
+276298,Andre Russell,16 Jul 2021,v Australia,Gros Islet,1,6,1,8,3,0,0,33.33,caught,2,4.0,0,43,3,10.75
+276298,Andre Russell,28 Jul 2021,v Pakistan,Bridgetown,1,5,7,9,6,0,1,116.66,caught,-,TDNB,-,-,-,-
+276298,Andre Russell,1 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,3 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,27 Aug 2021,v Kings,Basseterre,1,5,50*,26,14,3,6,357.14,not out,2,3.0,0,19,1,6.33
+276298,Andre Russell,28 Aug 2021,v Royals,Basseterre,2,7,0,6,1,0,0,0,caught,1,4.0,0,49,1,12.25
+276298,Andre Russell,31 Aug 2021,v Royals,Basseterre,2,6,6*,7,1,0,1,600,not out,1,4.0,0,28,1,7
+276298,Andre Russell,1 Sep 2021,v Patriots,Basseterre,1,7,5,-,6,1,0,83.33,caught,2,3.0,0,31,1,10.33
+276298,Andre Russell,5 Sep 2021,v Trinbago,Basseterre,1,8,20*,18,8,1,2,250,not out,2,2.0,0,12,0,6
+276298,Andre Russell,7 Sep 2021,v Trinbago,Basseterre,2,8,1,16,11,0,0,9.09,caught,1,2.0,0,25,0,12.5
+276298,Andre Russell,8 Sep 2021,v Patriots,Basseterre,1,6,28,30,17,2,3,164.7,caught,2,2.0,0,13,1,6.5
+276298,Andre Russell,9 Sep 2021,v Kings,Basseterre,1,5,31,-,15,0,4,206.66,caught,2,3.1,0,34,2,10.73
+276298,Andre Russell,11 Sep 2021,v Amazon,Basseterre,2,6,0,6,5,0,0,0,caught,1,4.0,0,35,2,8.75
+276298,Andre Russell,12 Sep 2021,v Amazon,Basseterre,2,8,19,-,13,4,0,146.15,caught,1,4.0,0,51,2,12.75
+276298,Andre Russell,20 Sep 2021,v RCB,Abu Dhabi,2,3,0*,3,0,0,0,-,not out,1,3.0,0,9,3,3
+276298,Andre Russell,23 Sep 2021,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+276298,Andre Russell,26 Sep 2021,v CSK,Abu Dhabi,1,6,20,24,15,2,1,133.33,bowled,2,3.0,0,28,1,9.33
+276298,Andre Russell,23 Oct 2021,v England,Dubai (DICS),1,8,0,10,2,0,0,0,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,26 Oct 2021,v South Africa,Dubai (DICS),1,6,5,8,4,1,0,125,bowled,2,3.2,0,36,0,10.8
+276298,Andre Russell,29 Oct 2021,v Bangladesh,Sharjah,1,6,0,2,0,0,0,-,run out,2,4.0,0,29,1,7.25
+276298,Andre Russell,4 Nov 2021,v Sri Lanka,Abu Dhabi,2,6,2,11,4,0,0,50,caught,1,4.0,0,33,2,8.25
+276298,Andre Russell,6 Nov 2021,v Australia,Abu Dhabi,1,8,18*,14,7,1,2,257.14,not out,2,2.0,0,25,0,12.5
+276298,Andre Russell,10 Dec 2021,v Thunder,Melbourne,1,6,17*,13,9,2,0,188.88,not out,2,4.0,0,40,0,10
+276298,Andre Russell,12 Dec 2021,v Thunder,Sydney,2,5,42*,37,21,1,5,200,not out,1,4.0,0,38,0,9.5
+276298,Andre Russell,15 Dec 2021,v Sixers,Melbourne,1,6,12*,15,8,1,0,150,not out,2,3.0,0,24,0,8
+276298,Andre Russell,24 Dec 2021,v Hurricanes,Hobart,2,5,12,28,13,2,0,92.3,caught,1,4.0,0,48,3,12
+276298,Andre Russell,27 Dec 2021,v Heat,Brisbane,1,6,0,3,2,0,0,0,lbw,2,2.0,0,22,0,11
+276298,Andre Russell,21 Jan 2022,v Khulna,Mirpur,1,5,7,5,3,0,1,233.33,run out,2,4.0,0,42,2,10.5
+276298,Andre Russell,22 Jan 2022,v Chattogram,Mirpur,2,6,12,14,10,1,1,120,caught,1,1.0,0,17,0,17
+276298,Andre Russell,24 Jan 2022,v Barishal,Mirpur,2,7,31*,21,15,3,2,206.66,not out,1,4.0,0,27,2,6.75
+276298,Andre Russell,25 Jan 2022,v Sunrisers,Mirpur,1,6,0,3,4,0,0,0,lbw,2,3.0,0,17,0,5.66
+276298,Andre Russell,28 Jan 2022,v Sunrisers,Chattogram,2,-,DNB,-,-,-,-,-,-,1,3.0,0,45,1,15
+276298,Andre Russell,1 Feb 2022,v Victorians,Chattogram,1,6,11,11,7,1,1,157.14,bowled,2,2.3,0,17,3,6.8
+276298,Andre Russell,26 Mar 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+276298,Andre Russell,30 Mar 2022,v RCB,DY Patil,1,8,25,26,18,1,3,138.88,caught,2,2.2,0,36,0,15.42
+276298,Andre Russell,1 Apr 2022,v Punjab Kings,Wankhede,2,6,70*,37,31,2,8,225.8,not out,1,0.2,0,0,1,0
+276298,Andre Russell,6 Apr 2022,v MI,Pune,2,6,11,9,5,1,1,220,caught,1,1.0,0,9,0,9
+276298,Andre Russell,10 Apr 2022,v DC,Brabourne,2,5,24,45,21,3,0,114.28,caught,1,2.0,0,16,1,8
+276298,Andre Russell,15 Apr 2022,v SRH,Brabourne,1,7,49*,43,25,4,4,196,not out,2,2.0,0,20,2,10
+276298,Andre Russell,18 Apr 2022,v RR,Brabourne,2,5,0,4,1,0,0,0,bowled,1,2.0,0,29,1,14.5
+276298,Andre Russell,23 Apr 2022,v GT,DY Patil,2,7,48,43,25,1,6,192,caught,1,1.0,0,5,4,5
+276298,Andre Russell,28 Apr 2022,v DC,Wankhede,1,7,0,3,3,0,0,0,stumped,2,1.0,0,14,0,14
+276298,Andre Russell,2 May 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,7 May 2022,v LSG,Pune,2,6,45,31,19,3,5,236.84,caught,1,3.0,0,22,2,7.33
+276298,Andre Russell,9 May 2022,v MI,DY Patil,1,5,9,8,5,0,1,180,caught,2,2.3,0,22,2,8.8
+276298,Andre Russell,14 May 2022,v SRH,Pune,1,7,49*,48,28,3,4,175,not out,2,4.0,0,22,3,5.5
+276298,Andre Russell,18 May 2022,v LSG,DY Patil,2,6,5,18,11,0,0,45.45,caught,1,3.0,0,45,0,15
+276298,Andre Russell,5 Aug 2022,v N S-Chargers,Manchester,1,4,29*,-,20,0,3,145,not out,2,3.0,0,25,1,10
+276298,Andre Russell,8 Aug 2022,v Spirit,Lord's,2,6,5,-,5,1,0,100,run out,1,3.0,0,27,0,10.8
+276298,Andre Russell,13 Aug 2022,v Rockets,Manchester,1,3,16,-,10,1,1,160,caught,2,2.0,0,27,0,16.2
+276298,Andre Russell,16 Aug 2022,v Fire,Manchester,1,4,17,-,13,1,1,130.76,caught,2,2.0,0,13,1,7.8
+276298,Andre Russell,18 Aug 2022,v Brave,Southampton,1,4,64*,28,23,6,5,278.26,not out,2,1.0,0,7,1,8.4
+276298,Andre Russell,21 Aug 2022,v N S-Chargers,Leeds,1,4,17,20,17,0,2,100,caught,2,4.0,0,34,1,10.2
+276298,Andre Russell,1 Sep 2022,v Kings,Basseterre,2,5,5,-,5,1,0,100,caught,1,2.0,0,20,0,10
+276298,Andre Russell,3 Sep 2022,v Patriots,Basseterre,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,7 Sep 2022,v Royals,Gros Islet,2,7,9,14,10,1,0,90,caught,1,3.0,0,33,1,11
+276298,Andre Russell,10 Sep 2022,v Tallawahs,Gros Islet,2,6,17,-,10,0,2,170,bowled,1,3.0,0,37,0,12.33
+276298,Andre Russell,13 Sep 2022,v Royals,Port of Spain,1,7,3,12,5,0,0,60,caught,2,1.0,0,9,0,9
+276298,Andre Russell,14 Sep 2022,v Amazon,Port of Spain,1,5,3,5,3,0,0,100,caught,2,2.5,0,16,3,5.64
+276298,Andre Russell,17 Sep 2022,v Tallawahs,Tarouba,2,8,18*,16,12,2,1,150,not out,1,1.0,0,12,0,12
+276298,Andre Russell,18 Sep 2022,v Kings,Tarouba,2,7,23*,31,11,1,2,209.09,not out,1,3.0,0,22,1,7.33
+276298,Andre Russell,22 Sep 2022,v Patriots,Providence,2,6,29,24,17,2,2,170.58,bowled,1,3.0,0,29,1,9.66
+276298,Andre Russell,24 Sep 2022,v Amazon,Providence,2,6,12,-,8,2,0,150,caught,1,DNB,-,-,-,-
+276298,Andre Russell,15 Dec 2022,v Heat,Cairns,1,6,35,41,28,0,3,125,caught,2,3.0,0,26,1,8.66
+276298,Andre Russell,18 Dec 2022,v Thunder,Melbourne (Docklands),2,6,7,11,7,1,0,100,caught,1,4.0,0,38,1,9.5
+276298,Andre Russell,21 Dec 2022,v Heat,Geelong,2,6,57,-,42,2,6,135.71,caught,1,2.0,0,16,0,8
+276298,Andre Russell,24 Dec 2022,v Hurricanes,Hobart,2,6,2,11,4,0,0,50,bowled,1,3.0,0,23,2,7.66
+276298,Andre Russell,7 Feb 2023,v Barishal,Mirpur,2,7,30*,25,16,2,3,187.5,not out,1,4.0,0,30,1,7.5
+276298,Andre Russell,10 Feb 2023,v Rangpur,Mirpur,1,7,0*,1,1,0,0,0,not out,2,2.0,0,16,1,8
+276298,Andre Russell,12 Feb 2023,v Strikers,Mirpur,2,8,15*,13,10,0,2,150,not out,1,3.0,0,22,2,7.33
+276298,Andre Russell,16 Feb 2023,v Strikers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+276298,Andre Russell,1 Apr 2023,v Punjab Kings,Mohali,2,7,35,24,19,3,2,184.21,caught,1,DNB,-,-,-,-
+276298,Andre Russell,6 Apr 2023,v RCB,Eden Gardens,1,6,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+276298,Andre Russell,9 Apr 2023,v GT,Ahmedabad,2,6,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+276298,Andre Russell,14 Apr 2023,v SRH,Eden Gardens,2,6,3,10,6,0,0,50,caught,1,2.1,0,22,3,10.15
+276298,Andre Russell,16 Apr 2023,v MI,Wankhede,1,7,21*,18,11,3,1,190.9,not out,2,1.0,0,17,0,17
+276298,Andre Russell,20 Apr 2023,v DC,Delhi,1,8,38*,49,31,1,4,122.58,not out,2,1.0,0,12,0,12
+276298,Andre Russell,23 Apr 2023,v CSK,Eden Gardens,2,7,9,14,6,0,1,150,caught,1,1.0,0,17,0,17
+276298,Andre Russell,26 Apr 2023,v RCB,Bengaluru,1,5,1,10,2,0,0,50,bowled,2,4.0,0,29,2,7.25
+276298,Andre Russell,29 Apr 2023,v GT,Eden Gardens,1,7,34,22,19,2,3,178.94,caught,2,3.0,0,29,1,9.66
+276298,Andre Russell,4 May 2023,v SRH,Hyderabad,1,6,24,13,15,1,2,160,caught,2,1.0,0,15,1,15
+276298,Andre Russell,8 May 2023,v Punjab Kings,Eden Gardens,2,5,42,34,23,3,3,182.6,run out,1,1.0,0,19,0,19
+276298,Andre Russell,11 May 2023,v RR,Eden Gardens,1,5,10,19,10,0,1,100,caught,2,DNB,-,-,-,-
+276298,Andre Russell,14 May 2023,v CSK,Chennai,2,6,2*,9,2,0,0,100,not out,1,DNB,-,-,-,-
+276298,Andre Russell,20 May 2023,v LSG,Eden Gardens,2,6,7,13,9,0,1,77.77,bowled,1,1.0,0,12,0,12
+276298,Andre Russell,19 Aug 2023,v Patriots,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,26 Aug 2023,v Kings,Basseterre,2,8,10,12,11,0,1,90.9,caught,1,3.0,0,28,2,9.33
+276298,Andre Russell,27 Aug 2023,v Patriots,Basseterre,2,6,23*,10,8,2,2,287.5,not out,1,3.0,0,20,0,6.66
+276298,Andre Russell,30 Aug 2023,v Royals,Bridgetown,1,5,5,9,5,1,0,100,caught,2,2.0,0,13,3,6.5
+276298,Andre Russell,3 Sep 2023,v Tallawahs,Bridgetown,1,6,1,-,5,0,0,20,caught,2,4.0,0,34,3,8.5
+276298,Andre Russell,5 Sep 2023,v Amazon,Port of Spain,1,6,14,10,7,0,2,200,caught,2,3.1,0,29,2,9.15
+276298,Andre Russell,6 Sep 2023,v Royals,Port of Spain,1,6,39,37,22,2,4,177.27,caught,2,3.0,0,26,1,8.66
+276298,Andre Russell,9 Sep 2023,v Tallawahs,Tarouba,2,5,20*,16,12,0,3,166.66,not out,1,3.0,0,29,0,9.66
+276298,Andre Russell,10 Sep 2023,v Kings,Tarouba,2,5,29*,13,13,2,3,223.07,not out,1,2.0,0,24,0,12
+276298,Andre Russell,20 Sep 2023,v Amazon,Providence,2,5,1*,4,2,0,0,50,not out,1,2.0,0,17,0,8.5
+276298,Andre Russell,24 Sep 2023,v Amazon,Providence,1,7,3,7,5,0,0,60,caught,2,1.0,0,12,0,12
+276298,Andre Russell,12 Dec 2023,v England,Bridgetown,2,8,29*,19,14,2,2,207.14,not out,1,4.0,0,19,3,4.75
+276298,Andre Russell,14 Dec 2023,v England,St George's,1,7,14,18,10,0,2,140,bowled,2,4.0,0,66,0,16.5
+276298,Andre Russell,16 Dec 2023,v England,St George's,1,7,8*,13,5,0,1,160,not out,2,3.5,0,50,1,13.04
+276298,Andre Russell,19 Dec 2023,v England,Tarouba,2,7,51,38,25,3,5,204,caught,1,3.0,0,37,1,12.33
+276298,Andre Russell,21 Dec 2023,v England,Tarouba,2,7,3,12,8,0,0,37.5,caught,1,4.0,0,25,2,6.25
+276298,Andre Russell,21 Jan 2024,v Vipers,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+276298,Andre Russell,23 Jan 2024,v MI Emirates,Abu Dhabi,1,7,48,-,25,3,4,192,caught,2,2.0,0,20,0,10
+276298,Andre Russell,25 Jan 2024,v DC,Dubai (DICS),1,6,3*,3,3,0,0,100,not out,2,1.0,0,19,1,19
+276298,Andre Russell,27 Jan 2024,v Vipers,Abu Dhabi,2,6,24*,-,10,0,3,240,not out,1,4.0,0,29,2,7.25
+276298,Andre Russell,28 Jan 2024,v MI Emirates,Abu Dhabi,1,5,46*,33,17,0,6,270.58,not out,2,3.0,0,34,0,11.33
+276298,Andre Russell,31 Jan 2024,v Gulf Giants,Abu Dhabi,2,6,30*,17,13,1,3,230.76,not out,1,4.0,0,39,2,9.75
+276298,Andre Russell,3 Feb 2024,v DC,Abu Dhabi,1,8,41,-,16,3,3,256.25,caught,2,3.0,0,22,1,7.33
+276298,Andre Russell,5 Feb 2024,v Warriors,Sharjah,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+276298,Andre Russell,9 Feb 2024,v Australia,Hobart,2,6,1,2,2,0,0,50,bowled,1,4.0,0,42,3,10.5
+276298,Andre Russell,11 Feb 2024,v Australia,Adelaide,2,7,37,18,16,4,2,231.25,caught,1,4.0,0,59,0,14.75
+276298,Andre Russell,13 Feb 2024,v Australia,Perth,1,7,71,52,29,4,7,244.82,caught,2,1.0,0,11,0,11
+276298,Andre Russell,19 Feb 2024,v Strikers,Chattogram,2,6,23,18,14,3,1,164.28,caught,1,4.0,0,35,0,8.75
+276298,Andre Russell,20 Feb 2024,v Rangpur,Chattogram,2,6,43*,20,12,4,4,358.33,not out,1,2.5,0,20,3,7.05
+276298,Andre Russell,23 Feb 2024,v Barishal,Mirpur,1,6,14,12,11,1,1,127.27,bowled,2,4.0,0,39,1,9.75
+276298,Andre Russell,26 Feb 2024,v Rangpur,Mirpur,2,6,2*,4,2,0,0,100,not out,1,4.0,0,37,2,9.25
+276298,Andre Russell,1 Mar 2024,v Barishal,Mirpur,1,8,27*,19,14,0,4,192.85,not out,2,3.0,0,33,0,11
+276298,Andre Russell,23 Mar 2024,v SRH,Eden Gardens,1,8,64*,32,25,3,7,256,not out,2,2.0,0,25,2,12.5
+276298,Andre Russell,29 Mar 2024,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+276298,Andre Russell,3 Apr 2024,v DC,Visakhapatnam,1,4,41,43,19,4,3,215.78,bowled,2,1.2,0,14,1,10.5
+276298,Andre Russell,8 Apr 2024,v CSK,Chennai,1,8,10,11,10,2,0,100,caught,2,1.0,0,8,0,8
+276298,Andre Russell,14 Apr 2024,v LSG,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,16,1,16
+276298,Andre Russell,16 Apr 2024,v RR,Eden Gardens,1,5,13,18,10,2,0,130,caught,2,1.0,0,17,0,17
+276298,Andre Russell,21 Apr 2024,v RCB,Eden Gardens,1,7,27*,37,20,4,0,135,not out,2,3.0,0,25,3,8.33
+276298,Andre Russell,26 Apr 2024,v Punjab Kings,Eden Gardens,1,4,24,-,12,2,2,200,caught,2,2.0,0,36,0,18
+276298,Andre Russell,29 Apr 2024,v DC,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+276298,Andre Russell,3 May 2024,v MI,Wankhede,1,8,7,3,2,0,1,350,run out,2,4.0,0,30,2,7.5
+276298,Andre Russell,5 May 2024,v LSG,Lucknow,1,4,12,15,8,1,1,150,caught,2,2.0,0,17,2,8.5
+276298,Andre Russell,11 May 2024,v MI,Eden Gardens,1,6,24,26,14,2,2,171.42,caught,2,3.0,0,34,2,11.33
+276298,Andre Russell,19 May 2024,v RR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,21 May 2024,v SRH,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,1.3,0,15,1,10
+276298,Andre Russell,26 May 2024,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.3,0,19,3,7.6
+276298,Andre Russell,2 Jun 2024,v P.N.G.,Providence,2,7,15*,11,9,0,1,166.66,not out,1,3.0,0,19,2,6.33
+276298,Andre Russell,8 Jun 2024,v Uganda,Providence,1,6,30*,23,17,6,0,176.47,not out,2,1.0,0,4,1,4
+276298,Andre Russell,12 Jun 2024,v New Zealand,Tarouba,1,8,14,8,7,2,1,200,caught,2,4.0,0,30,1,7.5
+276298,Andre Russell,17 Jun 2024,v Afghanistan,Gros Islet,1,6,3*,9,3,0,0,100,not out,2,2.2,0,17,1,7.28
+276298,Andre Russell,19 Jun 2024,v England,Gros Islet,1,5,1,7,2,0,0,50,caught,2,2.0,0,21,1,10.5
+276298,Andre Russell,21 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.5,0,31,3,8.08
+276298,Andre Russell,23 Jun 2024,v South Africa,North Sound,1,7,15,15,9,0,2,166.66,run out,2,4.0,0,19,2,4.75
+276298,Andre Russell,5 Jul 2024,v Texas,Dallas,1,7,10,-,5,1,1,200,hit wicket,2,3.0,0,25,0,8.33
+276298,Andre Russell,7 Jul 2024,v SF,Dallas,1,7,40*,-,25,2,3,160,not out,2,1.0,0,17,0,17
+276298,Andre Russell,9 Jul 2024,v Seattle,Dallas,1,6,14,-,10,0,1,140,caught,2,3.0,0,33,0,11
+276298,Andre Russell,14 Jul 2024,v Washington,Morrisville,1,8,20,-,12,3,1,166.66,caught,2,2.0,0,19,0,9.5
+276298,Andre Russell,17 Jul 2024,v Seattle,Morrisville,2,7,10,-,7,0,1,142.85,caught,1,4.0,0,15,1,3.75
+276298,Andre Russell,21 Jul 2024,v MI New York,Dallas,1,7,35,-,21,6,1,166.66,caught,2,1.0,0,12,1,12
+276298,Andre Russell,24 Jul 2024,v Brave,Southampton,1,7,13,11,7,1,1,185.71,caught,2,1.4,0,13,0,8.66
+276298,Andre Russell,27 Jul 2024,v Phoenix,Lord's,1,8,37*,25,20,1,4,185,not out,2,3.0,0,31,0,12.4
+276298,Andre Russell,1 Aug 2024,v Fire,Lord's,2,7,0,1,1,0,0,0,bowled,1,2.0,0,22,1,13.2
+276298,Andre Russell,4 Aug 2024,v Invincibles,Lord's,2,6,12,12,8,1,1,150,caught,1,1.0,0,11,0,13.2
+276298,Andre Russell,7 Aug 2024,v Rockets,Nottingham,2,7,23,19,15,1,2,153.33,bowled,1,3.0,0,26,0,10.4
+276298,Andre Russell,9 Aug 2024,v Originals,Lord's,2,6,1,4,3,0,0,33.33,caught,1,2.0,0,14,0,8.4
+276298,Andre Russell,11 Aug 2024,v Invincibles,The Oval,1,6,1,3,6,0,0,16.66,caught,2,DNB,-,-,-,-
+276298,Andre Russell,13 Aug 2024,v N S-Chargers,Leeds,1,7,3,9,9,0,0,33.33,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,5 Sep 2024,v Falcons,North Sound,2,7,8,-,5,0,1,160,caught,1,2.0,0,21,0,10.5
+276298,Andre Russell,18 Sep 2024,v Amazon,Port of Spain,2,7,36*,26,15,1,4,240,not out,1,2.0,0,20,0,10
+276298,Andre Russell,19 Sep 2024,v Falcons,Port of Spain,1,7,0,1,1,0,0,0,caught,2,2.0,0,7,1,3.5
+276298,Andre Russell,22 Sep 2024,v Patriots,Tarouba,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+276298,Andre Russell,24 Sep 2024,v Kings,Tarouba,2,7,12,6,6,0,2,200,bowled,1,2.0,0,19,0,9.5
+276298,Andre Russell,27 Sep 2024,v Royals,Tarouba,1,6,31,19,12,1,4,258.33,caught,2,DNB,-,-,-,-
+276298,Andre Russell,29 Sep 2024,v Amazon,Providence,1,4,9,5,6,0,1,150,caught,2,2.0,0,33,0,16.5
+276298,Andre Russell,1 Oct 2024,v Royals,Providence,1,5,20*,42,18,1,1,111.11,not out,2,DNB,-,-,-,-
+276298,Andre Russell,9 Nov 2024,v England,Bridgetown,1,7,30,21,17,0,4,176.47,caught,2,2.0,0,27,0,13.5
+276298,Andre Russell,12 Jan 2025,v Vipers,Abu Dhabi,1,6,30,14,14,2,3,214.28,run out,2,2.0,0,15,1,7.5
+276298,Andre Russell,15 Jan 2025,v Warriorz,Abu Dhabi,1,7,24*,23,12,0,3,200,not out,2,sub,-,-,-,-
+276298,Andre Russell,18 Jan 2025,v Vipers,Dubai (DICS),2,6,6,11,3,0,1,200,caught,1,DNB,-,-,-,-
+276298,Andre Russell,19 Jan 2025,v Gulf Giants,Dubai (DICS),1,6,12,7,10,0,1,120,caught,2,sub,-,-,-,-
+276298,Andre Russell,21 Jan 2025,v MI Emirates,Abu Dhabi,2,7,37*,43,23,3,3,160.86,not out,1,sub,-,-,-,-
+276298,Andre Russell,24 Jan 2025,v MI Emirates,Abu Dhabi,1,7,6,2,2,0,1,300,caught,2,DNB,-,-,-,-
+276298,Andre Russell,26 Jan 2025,v DC,Abu Dhabi,1,6,3*,18,8,0,0,37.5,not out,2,3.0,0,38,1,12.66
+276298,Andre Russell,30 Jan 2025,v Warriorz,Sharjah,1,7,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+276298,Andre Russell,1 Feb 2025,v Gulf Giants,Abu Dhabi,1,6,9,12,6,2,0,150,caught,2,2.0,0,27,0,13.5
+276298,Andre Russell,2 Feb 2025,v DC,Dubai (DICS),2,4,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+276298,Andre Russell,3 Feb 2025,v Khulna,Mirpur,1,8,4,16,9,0,0,44.44,bowled,2,1.0,0,14,0,14
+276298,Andre Russell,22 Mar 2025,v RCB,Eden Gardens,1,7,4,2,3,1,0,133.33,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,26 Mar 2025,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,31 Mar 2025,v MI,Wankhede,1,8,5,12,11,1,0,45.45,bowled,2,2.5,0,35,2,12.35
+276298,Andre Russell,3 Apr 2025,v SRH,Eden Gardens,1,7,1,4,2,0,0,50,run out,2,1.4,0,21,2,12.6
+276298,Andre Russell,8 Apr 2025,v LSG,Eden Gardens,2,7,7,8,4,0,1,175,caught,1,2.0,0,32,1,16
+276298,Andre Russell,11 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+276298,Andre Russell,15 Apr 2025,v Punjab Kings,New Chandigarh,2,7,17,27,11,1,2,154.54,bowled,1,DNB,-,-,-,-
+276298,Andre Russell,21 Apr 2025,v GT,Eden Gardens,2,6,21,18,15,3,1,140,stumped,1,1.0,0,13,1,13
+276298,Andre Russell,26 Apr 2025,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+276298,Andre Russell,29 Apr 2025,v DC,Delhi,1,7,17,25,9,2,1,188.88,run out,2,2.0,0,22,1,11
+276298,Andre Russell,4 May 2025,v RR,Eden Gardens,1,5,57*,37,25,4,6,228,not out,2,1.0,0,11,0,11
+276298,Andre Russell,7 May 2025,v CSK,Eden Gardens,1,6,38,18,21,4,3,180.95,caught,2,2.4,0,22,0,8.25
+276298,Andre Russell,25 May 2025,v SRH,Delhi,2,6,0,1,1,0,0,0,lbw,1,2.0,0,34,0,17
+276298,Andre Russell,6 Jun 2025,v England,Chester-le-Street,2,7,15,23,13,0,1,115.38,bowled,1,2.0,0,25,1,12.5
+276298,Andre Russell,14 Jun 2025,v SF,Oakland,2,6,0,-,2,0,0,0,bowled,1,4.0,0,42,1,10.5
+276298,Andre Russell,15 Jun 2025,v Texas,Oakland,2,7,1,-,5,0,0,20,caught,1,4.0,0,53,1,13.25
+276298,Andre Russell,17 Jun 2025,v Washington,Oakland,2,8,4,-,4,1,0,100,caught,1,2.0,0,17,0,8.5
+276298,Andre Russell,22 Jun 2025,v Seattle,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+276298,Andre Russell,24 Jun 2025,v Texas,Dallas,2,7,2,-,8,0,0,25,bowled,1,4.0,0,37,3,9.25
+276298,Andre Russell,26 Jun 2025,v Washington,Dallas,1,4,30*,-,13,0,3,230.76,not out,2,4.0,0,48,0,12
+276298,Andre Russell,28 Jun 2025,v Seattle,Dallas,1,3,65*,-,39,6,4,166.66,not out,2,4.0,0,29,1,7.25
+276298,Andre Russell,3 Jul 2025,v MI New York,Lauderhill,1,3,15,-,10,2,1,150,bowled,2,4.0,0,43,1,10.75
+276298,Andre Russell,5 Jul 2025,v MI New York,Lauderhill,2,5,9*,-,6,1,0,150,not out,1,3.0,0,29,0,9.66
+276298,Andre Russell,20 Jul 2025,v Australia,Kingston,1,6,8,10,9,0,1,88.88,caught,2,2.0,0,37,0,18.5
+276298,Andre Russell,22 Jul 2025,v Australia,Kingston,1,7,36,17,15,2,4,240,caught,2,1.0,0,16,0,16
+276298,Andre Russell,23 Aug 2025,v Kings,Gros Islet,1,6,1,14,6,0,0,16.66,caught,2,4.0,0,38,2,9.5
+276298,Andre Russell,27 Aug 2025,v Falcons,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,2,5.75
+276298,Andre Russell,29 Aug 2025,v Royals,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,3,9.25
+276298,Andre Russell,30 Aug 2025,v Amazon,Tarouba,2,6,27*,22,14,1,3,192.85,not out,1,3.0,0,36,1,12
+276298,Andre Russell,1 Sep 2025,v Patriots,Tarouba,1,6,10*,7,5,1,1,200,not out,2,2.0,0,20,0,10
+276298,Andre Russell,3 Sep 2025,v Kings,Tarouba,1,7,12,7,7,1,1,171.42,bowled,2,1.0,0,20,0,20
+276298,Andre Russell,6 Sep 2025,v Amazon,Providence,1,7,3*,10,3,0,0,100,not out,2,3.0,0,45,1,15
+276298,Andre Russell,12 Sep 2025,v Royals,Bridgetown,1,7,8,16,10,0,0,80,caught,2,2.0,0,22,0,11
+276298,Andre Russell,16 Sep 2025,v Falcons,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,30,2,15
+276298,Andre Russell,19 Sep 2025,v Kings,Providence,1,5,28,16,12,1,3,233.33,run out,2,3.0,0,17,0,5.66
+276298,Andre Russell,21 Sep 2025,v Amazon,Providence,2,7,0,1,1,0,0,0,caught,1,3.0,0,18,1,6
+276298,Andre Russell,3 Dec 2025,v Warriorz,Sharjah,1,6,11*,-,4,0,1,275,not out,2,4.0,0,48,2,12
+276298,Andre Russell,5 Dec 2025,v Vipers,Sharjah,1,6,36*,-,23,3,2,156.52,not out,2,3.0,0,33,1,11
+276298,Andre Russell,7 Dec 2025,v DC,Dubai (DICS),2,7,12,5,6,0,2,200,caught,1,2.0,0,37,0,18.5
+276298,Andre Russell,13 Dec 2025,v DC,Abu Dhabi,2,8,53*,44,33,4,4,160.6,not out,1,3.0,0,32,2,10.66
+276298,Andre Russell,16 Dec 2025,v Vipers,Abu Dhabi,1,7,2*,-,1,0,0,200,not out,2,3.0,0,16,2,5.33
+276298,Andre Russell,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,6,21*,24,13,0,2,161.53,not out,1,1.0,0,10,0,10
+276298,Andre Russell,20 Dec 2025,v MI Emirates,Abu Dhabi,2,6,0,3,3,0,0,0,bowled,1,DNB,-,-,-,-
+276298,Andre Russell,22 Dec 2025,v Warriorz,Abu Dhabi,1,8,18,-,12,0,2,150,caught,2,4.0,0,36,0,9
+276298,Andre Russell,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,3,6.5
+276298,Andre Russell,1 Jan 2026,v DC,Dubai (DICS),1,3,1,7,4,0,0,25,bowled,2,DNB,-,-,-,-
+276298,Andre Russell,2 Jan 2026,v MI Emirates,Sharjah,1,6,3,11,10,0,0,30,caught,2,1.0,0,6,0,6
+276298,Andre Russell,3 Jan 2026,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+276298,Andre Russell,5 Jan 2026,v Sunrisers,Centurion,1,7,4,4,4,1,0,100,caught,2,1.0,0,15,0,15
+276298,Andre Russell,12 Jan 2026,v MI Cape Town,Centurion,1,7,11*,4,5,2,0,220,not out,2,4.0,0,20,1,5
+276298,Andre Russell,15 Jan 2026,v Paarl Royals,Centurion,1,7,15,13,11,0,2,136.36,caught,2,3.0,0,32,0,10.66
+276298,Andre Russell,17 Jan 2026,v Super Kings,Johannesburg,1,6,0,4,3,0,0,0,bowled,2,1.0,0,7,0,7

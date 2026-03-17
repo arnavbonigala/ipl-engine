@@ -1,0 +1,169 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+960361,Sandeep Lamichhane,12 May 2018,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+960361,Sandeep Lamichhane,18 May 2018,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+960361,Sandeep Lamichhane,20 May 2018,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+960361,Sandeep Lamichhane,31 May 2018,v West Indies,Lord's,2,10,4*,-,5,0,0,80,not out,1,1.0,0,12,0,12
+960361,Sandeep Lamichhane,29 Jul 2018,v M.C.C.,Lord's,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+960361,Sandeep Lamichhane,29 Jul 2018,v Netherlands,Lord's,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+960361,Sandeep Lamichhane,9 Aug 2018,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+960361,Sandeep Lamichhane,11 Aug 2018,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,3.0,1,17,1,5.66
+960361,Sandeep Lamichhane,15 Aug 2018,v Tallawahs,Kingston,2,11,2*,-,2,0,0,100,not out,1,4.0,0,21,2,5.25
+960361,Sandeep Lamichhane,21 Aug 2018,v Stars,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,2,6.5
+960361,Sandeep Lamichhane,25 Aug 2018,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+960361,Sandeep Lamichhane,14 Oct 2018,v Panthers,Sharjah,1,10,0*,-,1,0,0,0,not out,2,4.0,0,23,2,5.75
+960361,Sandeep Lamichhane,21 Dec 2018,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+960361,Sandeep Lamichhane,24 Dec 2018,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+960361,Sandeep Lamichhane,27 Dec 2018,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+960361,Sandeep Lamichhane,1 Jan 2019,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+960361,Sandeep Lamichhane,6 Jan 2019,v Victorians,Mirpur,1,9,1*,-,2,0,0,50,not out,2,4.0,0,16,2,4
+960361,Sandeep Lamichhane,9 Jan 2019,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+960361,Sandeep Lamichhane,12 Jan 2019,v Dynamites,Mirpur,2,10,1,-,4,0,0,25,lbw,1,4.0,0,33,0,8.25
+960361,Sandeep Lamichhane,16 Jan 2019,v Rangpur,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+960361,Sandeep Lamichhane,18 Jan 2019,v Dynamites,Sylhet,1,9,0*,-,0,0,0,-,not out,2,4.0,0,27,1,6.75
+960361,Sandeep Lamichhane,19 Jan 2019,v Rangpur,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+960361,Sandeep Lamichhane,31 Jan 2019,v U.A.E.,ICCA Dubai,2,9,2*,-,2,0,0,100,not out,1,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,1 Feb 2019,v U.A.E.,ICCA Dubai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+960361,Sandeep Lamichhane,3 Feb 2019,v U.A.E.,ICCA Dubai,1,9,0*,-,0,0,0,-,not out,2,2.0,0,23,1,11.5
+960361,Sandeep Lamichhane,8 Feb 2019,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+960361,Sandeep Lamichhane,10 Feb 2019,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.4,0,11,3,3
+960361,Sandeep Lamichhane,14 Feb 2019,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+960361,Sandeep Lamichhane,17 Feb 2019,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+960361,Sandeep Lamichhane,22 Feb 2019,v Sultans,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,3,11.5
+960361,Sandeep Lamichhane,23 Feb 2019,v Gladiators,Sharjah,1,9,5*,-,5,0,0,100,not out,2,4.0,0,20,1,5
+960361,Sandeep Lamichhane,27 Feb 2019,v Gladiators,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,4,2.5
+960361,Sandeep Lamichhane,28 Feb 2019,v Kings,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+960361,Sandeep Lamichhane,5 Mar 2019,v Zalmi,Abu Dhabi,1,9,0*,-,1,0,0,0,not out,2,2.1,0,22,0,10.15
+960361,Sandeep Lamichhane,9 Mar 2019,v United,Karachi,2,10,6*,-,8,0,0,75,not out,1,4.0,0,46,1,11.5
+960361,Sandeep Lamichhane,11 Mar 2019,v Sultans,Karachi,1,-,DNB,-,-,-,-,-,-,2,2.3,0,28,0,11.2
+960361,Sandeep Lamichhane,30 Mar 2019,v KKR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+960361,Sandeep Lamichhane,1 Apr 2019,v Kings XI,Mohali,2,11,0,1,1,0,0,0,bowled,1,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,4 Apr 2019,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+960361,Sandeep Lamichhane,7 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+960361,Sandeep Lamichhane,20 Apr 2019,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,3,10
+960361,Sandeep Lamichhane,28 Apr 2019,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+960361,Sandeep Lamichhane,13 Jul 2019,v Malaysia,Kuala Lumpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,14 Jul 2019,v Malaysia,Kuala Lumpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+960361,Sandeep Lamichhane,23 Jul 2019,v Qatar,Singapore,1,8,9,-,5,1,0,180,run out,2,4.0,0,33,3,8.25
+960361,Sandeep Lamichhane,24 Jul 2019,v Malaysia,Singapore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+960361,Sandeep Lamichhane,27 Jul 2019,v Kuwait,Singapore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+960361,Sandeep Lamichhane,28 Jul 2019,v Singapore,Singapore,2,9,0,-,1,0,0,0,caught,1,3.0,0,34,0,11.33
+960361,Sandeep Lamichhane,8 Sep 2019,v Amazon,Providence,2,11,0,-,2,0,0,0,bowled,1,1.0,0,5,0,5
+960361,Sandeep Lamichhane,11 Sep 2019,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+960361,Sandeep Lamichhane,15 Sep 2019,v Tallawahs,Kingston,1,11,10*,-,8,1,0,125,not out,2,4.0,1,35,1,8.75
+960361,Sandeep Lamichhane,20 Sep 2019,v Zouks,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.5,0,29,1,7.56
+960361,Sandeep Lamichhane,22 Sep 2019,v Amazon,Bridgetown,1,11,0,-,1,0,0,0,caught,2,3.0,0,21,1,7
+960361,Sandeep Lamichhane,23 Sep 2019,v Tallawahs,Bridgetown,2,10,9*,-,8,1,0,112.5,not out,1,4.0,0,17,2,4.25
+960361,Sandeep Lamichhane,27 Sep 2019,v Zimbabwe,Singapore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,3.75
+960361,Sandeep Lamichhane,28 Sep 2019,v Singapore,Singapore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+960361,Sandeep Lamichhane,1 Oct 2019,v Zimbabwe,Singapore,2,9,5*,15,9,0,0,55.55,not out,1,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,6 Oct 2019,v Hong Kong,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+960361,Sandeep Lamichhane,7 Oct 2019,v Netherlands,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+960361,Sandeep Lamichhane,9 Oct 2019,v Ireland,Al Amerat,2,9,1,-,2,0,0,50,caught,1,4.0,0,21,2,5.25
+960361,Sandeep Lamichhane,10 Oct 2019,v Oman,Al Amerat,1,9,2,-,5,0,0,40,caught,2,4.0,0,23,1,5.75
+960361,Sandeep Lamichhane,20 Dec 2019,v Heat,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+960361,Sandeep Lamichhane,22 Dec 2019,v Hurricanes,Moe,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+960361,Sandeep Lamichhane,27 Dec 2019,v Strikers,Carrara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,1,5
+960361,Sandeep Lamichhane,30 Dec 2019,v Hurricanes,Launceston,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+960361,Sandeep Lamichhane,4 Jan 2020,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+960361,Sandeep Lamichhane,8 Jan 2020,v Thunder,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+960361,Sandeep Lamichhane,10 Jan 2020,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+960361,Sandeep Lamichhane,12 Jan 2020,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+960361,Sandeep Lamichhane,15 Jan 2020,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,3.0,1,7,2,2.33
+960361,Sandeep Lamichhane,18 Jan 2020,v Scorchers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+960361,Sandeep Lamichhane,20 Jan 2020,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,2,12.66
+960361,Sandeep Lamichhane,22 Jan 2020,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+960361,Sandeep Lamichhane,25 Jan 2020,v Heat,Melbourne,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,16,1,4
+960361,Sandeep Lamichhane,29 Feb 2020,v Malaysia,Bangkok,2,9,1,-,3,0,0,33.33,caught,1,4.0,1,22,3,5.5
+960361,Sandeep Lamichhane,1 Mar 2020,v Hong Kong,Bangkok,2,9,0,-,2,0,0,0,caught,1,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,4 Mar 2020,v Thailand,Bangkok,2,-,DNB,-,-,-,-,-,-,1,4.0,2,9,1,2.25
+960361,Sandeep Lamichhane,19 Aug 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+960361,Sandeep Lamichhane,20 Aug 2020,v Trinbago,Tarouba,1,10,0*,-,0,0,0,-,not out,2,4.0,0,30,1,7.5
+960361,Sandeep Lamichhane,22 Aug 2020,v Amazon,Tarouba,2,8,0,-,3,0,0,0,lbw,1,4.0,0,8,2,2
+960361,Sandeep Lamichhane,25 Aug 2020,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+960361,Sandeep Lamichhane,26 Aug 2020,v Tridents,Port of Spain,2,10,4*,-,6,0,0,66.66,not out,1,4.0,0,16,2,4
+960361,Sandeep Lamichhane,29 Aug 2020,v Patriots,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,1 Sep 2020,v Trinbago,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+960361,Sandeep Lamichhane,3 Sep 2020,v Patriots,Tarouba,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+960361,Sandeep Lamichhane,5 Sep 2020,v Tridents,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+960361,Sandeep Lamichhane,6 Sep 2020,v Zouks,Tarouba,2,10,0,-,1,0,0,0,caught,1,4.0,1,20,1,5
+960361,Sandeep Lamichhane,8 Sep 2020,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+960361,Sandeep Lamichhane,2 Jan 2021,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+960361,Sandeep Lamichhane,4 Jan 2021,v Stars,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+960361,Sandeep Lamichhane,7 Jan 2021,v Thunder,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+960361,Sandeep Lamichhane,12 Jan 2021,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+960361,Sandeep Lamichhane,18 Jan 2021,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+960361,Sandeep Lamichhane,22 Jan 2021,v Scorchers,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,24 Jan 2021,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+960361,Sandeep Lamichhane,26 Jan 2021,v Renegades,Melbourne,2,11,1*,-,1,0,0,100,not out,1,4.0,0,35,0,8.75
+960361,Sandeep Lamichhane,17 Apr 2021,v Netherlands,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+960361,Sandeep Lamichhane,19 Apr 2021,v Malaysia,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,3.5,0,25,2,6.52
+960361,Sandeep Lamichhane,20 Apr 2021,v Netherlands,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,4,12
+960361,Sandeep Lamichhane,22 Apr 2021,v Malaysia,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+960361,Sandeep Lamichhane,24 Apr 2021,v Netherlands,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+960361,Sandeep Lamichhane,8 Dec 2021,v Sixers,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+960361,Sandeep Lamichhane,11 Dec 2021,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+960361,Sandeep Lamichhane,14 Dec 2021,v Scorchers,Hobart,2,10,13*,15,9,0,1,144.44,not out,1,4.0,0,32,1,8
+960361,Sandeep Lamichhane,20 Dec 2021,v Scorchers,Hobart,2,11,8*,9,7,0,0,114.28,not out,1,4.0,0,39,0,9.75
+960361,Sandeep Lamichhane,24 Dec 2021,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+960361,Sandeep Lamichhane,27 Dec 2021,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+960361,Sandeep Lamichhane,29 Dec 2021,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.5,0,32,3,8.34
+960361,Sandeep Lamichhane,1 Jan 2022,v Heat,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+960361,Sandeep Lamichhane,5 Jan 2022,v Strikers,Adelaide,1,11,2,3,2,0,0,100,bowled,2,4.0,0,22,2,5.5
+960361,Sandeep Lamichhane,8 Jan 2022,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+960361,Sandeep Lamichhane,10 Jan 2022,v Thunder,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.2,0,21,0,6.3
+960361,Sandeep Lamichhane,13 Jan 2022,v Thunder,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+960361,Sandeep Lamichhane,18 Jan 2022,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,19 Jan 2022,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+960361,Sandeep Lamichhane,11 Feb 2022,v Oman,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+960361,Sandeep Lamichhane,12 Feb 2022,v U.A.E.,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+960361,Sandeep Lamichhane,14 Feb 2022,v Ireland,Al Amerat,2,9,1,-,2,0,0,50,caught,1,4.0,0,26,1,6.5
+960361,Sandeep Lamichhane,18 Feb 2022,v Oman,Al Amerat,1,9,16*,-,7,1,1,228.57,not out,2,4.0,0,20,2,5
+960361,Sandeep Lamichhane,19 Feb 2022,v Philippines,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,9,3,2.25
+960361,Sandeep Lamichhane,21 Feb 2022,v Canada,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+960361,Sandeep Lamichhane,22 Feb 2022,v U.A.E.,Al Amerat,2,7,4,-,6,0,0,66.66,caught,1,4.0,0,24,1,6
+960361,Sandeep Lamichhane,24 Feb 2022,v Oman,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+960361,Sandeep Lamichhane,28 Mar 2022,v P.N.G.,Kirtipur,1,10,1*,-,2,0,0,50,not out,2,4.0,0,22,3,5.5
+960361,Sandeep Lamichhane,30 Mar 2022,v Malaysia,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+960361,Sandeep Lamichhane,31 Mar 2022,v P.N.G.,Kirtipur,1,9,0*,-,0,0,0,-,not out,2,4.0,0,37,1,9.25
+960361,Sandeep Lamichhane,2 Apr 2022,v Malaysia,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+960361,Sandeep Lamichhane,4 Apr 2022,v P.N.G.,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,1 May 2022,v Zimbabwe A,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+960361,Sandeep Lamichhane,2 May 2022,v Zimbabwe A,Kirtipur,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+960361,Sandeep Lamichhane,4 May 2022,v Zimbabwe A,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,25 Aug 2022,v Kenya,Nairobi (Gym),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+960361,Sandeep Lamichhane,26 Aug 2022,v Kenya,Nairobi (Gym),2,9,7,-,8,0,0,87.5,caught,1,4.0,0,26,3,6.5
+960361,Sandeep Lamichhane,28 Aug 2022,v Kenya,Nairobi (Gym),2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+960361,Sandeep Lamichhane,29 Aug 2022,v Kenya,Nairobi (Gym),2,10,4*,-,4,0,0,100,not out,1,4.0,0,9,5,2.25
+960361,Sandeep Lamichhane,30 Aug 2022,v Kenya,Nairobi (Gym),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+960361,Sandeep Lamichhane,27 Sep 2023,v Mongolia,Hangzhou,1,-,DNB,-,-,-,-,-,-,2,2.0,1,7,2,3.5
+960361,Sandeep Lamichhane,1 Oct 2023,v Maldives,Hangzhou,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,1,4
+960361,Sandeep Lamichhane,3 Oct 2023,v India,Hangzhou,2,10,5,-,4,1,0,125,caught,1,3.0,0,28,1,9.33
+960361,Sandeep Lamichhane,30 Oct 2023,v Singapore,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+960361,Sandeep Lamichhane,31 Oct 2023,v Malaysia,Kirtipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+960361,Sandeep Lamichhane,2 Nov 2023,v Oman,Kirtipur,2,9,2,-,4,0,0,50,stumped,1,4.0,0,30,2,7.5
+960361,Sandeep Lamichhane,3 Nov 2023,v U.A.E.,Mulpani,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,2,3.5
+960361,Sandeep Lamichhane,5 Nov 2023,v Oman,Kirtipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+960361,Sandeep Lamichhane,14 Jun 2024,v South Africa,Kingstown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+960361,Sandeep Lamichhane,16 Jun 2024,v Bangladesh,Kingstown,2,10,0*,3,0,0,0,-,not out,1,4.0,1,17,2,4.25
+960361,Sandeep Lamichhane,28 Sep 2024,v Canada,King City (NW),2,9,10,-,11,0,1,90.9,caught,1,4.0,0,29,3,7.25
+960361,Sandeep Lamichhane,29 Sep 2024,v Oman,King City (NW),1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+960361,Sandeep Lamichhane,1 Oct 2024,v Canada,King City (NW),1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,2,5.75
+960361,Sandeep Lamichhane,2 Oct 2024,v Oman,King City (NW),1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+960361,Sandeep Lamichhane,16 Jun 2025,v Netherlands,Glasgow,2,9,4*,-,3,0,0,133.33,not out,1,4.0,0,18,3,4.5
+960361,Sandeep Lamichhane,17 Jun 2025,v Scotland,Glasgow,2,10,1*,1,1,0,0,100,not out,1,4.0,1,11,4,2.75
+960361,Sandeep Lamichhane,19 Jun 2025,v Netherlands,Glasgow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+960361,Sandeep Lamichhane,20 Jun 2025,v Scotland,Glasgow,2,9,0,1,1,0,0,0,bowled,1,4.0,0,25,1,6.25
+960361,Sandeep Lamichhane,8 Oct 2025,v Kuwait,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,1,22,2,5.5
+960361,Sandeep Lamichhane,10 Oct 2025,v Japan,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+960361,Sandeep Lamichhane,12 Oct 2025,v U.A.E.,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+960361,Sandeep Lamichhane,13 Oct 2025,v Qatar,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,3.5,0,18,5,4.69
+960361,Sandeep Lamichhane,15 Oct 2025,v Oman,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+960361,Sandeep Lamichhane,17 Oct 2025,v Samoa,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,1,2.5
+960361,Sandeep Lamichhane,26 Dec 2025,v Sylhet,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+960361,Sandeep Lamichhane,27 Dec 2025,v Dhaka,Sylhet,1,10,0*,3,0,0,0,-,not out,2,4.0,0,35,1,8.75
+960361,Sandeep Lamichhane,9 Jan 2026,v Chattogram,Sylhet,1,10,5,9,7,0,0,71.42,bowled,2,4.0,0,21,1,5.25
+960361,Sandeep Lamichhane,11 Jan 2026,v Rangpur,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+960361,Sandeep Lamichhane,8 Feb 2026,v England,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+960361,Sandeep Lamichhane,12 Feb 2026,v Italy,Wankhede,1,10,5,11,7,0,0,71.42,caught,2,3.0,0,31,0,10.33
+960361,Sandeep Lamichhane,15 Feb 2026,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+960361,Sandeep Lamichhane,17 Feb 2026,v Scotland,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66

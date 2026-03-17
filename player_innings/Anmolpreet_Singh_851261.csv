@@ -1,0 +1,82 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+851261,Anmolpreet Singh,3 Apr 2015,v Odisha,Cuttack,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,7 Apr 2015,v Gujarat,Bhubaneswar,1,4,14,16,14,0,0,100,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,30 Jan 2017,v Delhi,Dharamsala,2,5,28,50,32,2,1,87.5,stumped,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,31 Jan 2017,v J & K,Dharamsala,2,4,17,42,24,2,0,70.83,bowled,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,1 Feb 2017,v Services,Dharamsala,1,4,2,10,5,0,0,40,run out,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,2 Feb 2017,v Himachal,Dharamsala,1,4,15,34,18,0,0,83.33,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,9 Jan 2018,v Delhi,Delhi,1,3,3,6,4,0,0,75,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,10 Jan 2018,v Services,Delhi,2,3,17,30,18,0,0,94.44,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,12 Jan 2018,v Haryana,Delhi,1,5,9,9,9,1,0,100,bowled,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,14 Jan 2018,v J & K,Delhi,2,5,11,15,13,1,0,84.61,bowled,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,21 Feb 2019,v M. Pradesh,Indore,2,1,6,-,12,1,0,50,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,22 Feb 2019,v Mumbai,Indore,2,6,4,5,5,1,0,80,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,27 Feb 2019,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,28 Feb 2019,v Goa,Indore,1,4,12,16,17,0,0,70.58,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,2 Mar 2019,v Railways,Indore,2,6,5,-,6,1,0,83.33,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,8 Nov 2019,v Hyderabad,Chandigarh,2,3,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,9 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,11 Nov 2019,v Chandigarh,Chandigarh,2,3,28,-,24,3,0,116.66,bowled,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,12 Nov 2019,v Himachal,Chandigarh,2,3,2,-,9,0,0,22.22,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,14 Nov 2019,v Railways,Chandigarh,2,3,84,-,56,5,5,150,run out,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,15 Nov 2019,v Chhattisgarh,Chandigarh,1,3,78,-,51,8,2,152.94,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,18 Nov 2019,v Maharashtra,Chandigarh,2,3,36,-,32,2,2,112.5,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,21 Nov 2019,v Jharkhand,Surat,1,3,8,-,7,1,0,114.28,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,24 Nov 2019,v Karnataka,Surat,1,4,11,-,17,0,0,64.7,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,25 Nov 2019,v Tamil Nadu,Surat,1,4,6,-,9,1,0,66.66,bowled,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,27 Nov 2019,v Mumbai,Surat,2,6,20*,-,8,0,2,250,not out,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,10 Jan 2021,v UP,Alur (2),1,5,35,-,27,2,2,129.62,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,14 Jan 2021,v Railways,Alur (2),1,4,10,-,6,0,1,166.66,run out,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,18 Jan 2021,v Tripura,Alur (2),1,5,6*,-,4,0,0,150,not out,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,29 Jan 2021,v Baroda,Ahmedabad,2,3,15,-,19,2,0,78.94,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,19 Sep 2021,v CSK,Dubai (DICS),2,2,16,24,14,2,1,114.28,bowled,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,5 Nov 2021,v Maharashtra,Lucknow,1,6,2,-,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,27 Mar 2022,v DC,Brabourne,1,3,8,10,9,0,0,88.88,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,2 Apr 2022,v RR,DY Patil,2,3,5,13,4,1,0,125,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,11 Oct 2022,v Hyderabad,Jaipur,1,3,50,-,40,5,1,125,bowled,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,12 Oct 2022,v Delhi,Jaipur,2,3,64,-,47,8,0,136.17,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,20 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,30 Oct 2022,v Haryana,Eden Gardens,1,7,20,13,9,2,1,222.22,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,1 Nov 2022,v Karnataka,Eden Gardens,1,4,59,61,43,9,0,137.2,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,3 Nov 2022,v Himachal,Eden Gardens,2,4,30,-,25,3,1,120,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,7 Apr 2023,v LSG,Lucknow,1,1,31,38,26,3,1,119.23,lbw,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,7 May 2023,v RR,Jaipur,2,1,33,26,25,4,1,132,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,13 May 2023,v LSG,Hyderabad,1,1,36,46,27,7,0,133.33,caught,2,sub,-,-,-,-
+851261,Anmolpreet Singh,15 May 2023,v GT,Ahmedabad,2,1,5,5,4,1,0,125,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,16 Oct 2023,v Saurashtra,Ranchi,2,5,48,-,22,8,1,218.18,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,17 Oct 2023,v Andhra,Ranchi,1,4,87,-,26,6,9,334.61,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,19 Oct 2023,v Railways,Ranchi,1,4,28,-,18,1,2,155.55,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,21 Oct 2023,v Manipur,Ranchi,2,4,7*,-,5,1,0,140,not out,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,23 Oct 2023,v Gujarat,Ranchi,1,3,5,-,7,0,0,71.42,bowled,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,25 Oct 2023,v Goa,Ranchi,1,4,16,-,21,0,0,76.19,caught,2,sub,-,-,-,-
+851261,Anmolpreet Singh,27 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,2 Nov 2023,v UP,Mohali,2,4,43,-,29,3,2,148.27,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,4 Nov 2023,v Delhi,Mohali,2,4,8,-,8,2,0,100,lbw,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,6 Nov 2023,v Baroda,Mohali,1,3,113,-,61,10,6,185.24,run out,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,28 Apr 2024,v CSK,Chennai,2,3,0,1,1,0,0,0,caught,1,sub,-,-,-,-
+851261,Anmolpreet Singh,2 May 2024,v RR,Hyderabad,1,3,5,5,5,1,0,100,caught,2,sub,-,-,-,-
+851261,Anmolpreet Singh,23 Nov 2024,v Bengal,Rajkot,1,3,39,-,21,5,1,185.71,run out,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,25 Nov 2024,v Bihar,Rajkot,2,3,14*,-,13,1,0,107.69,not out,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,27 Nov 2024,v M. Pradesh,Rajkot,2,4,15,-,11,2,0,136.36,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,29 Nov 2024,v Mizoram,Rajkot,2,5,21,-,12,2,0,175,run out,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,1 Dec 2024,v Hyderabad,Saurashtra,1,3,60,-,36,8,1,166.66,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,3 Dec 2024,v Rajasthan,Saurashtra,2,3,29,-,16,4,1,181.25,lbw,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,26 Nov 2025,v Himachal,Hyderabad,2,3,43,-,27,3,2,159.25,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,28 Nov 2025,v Haryana,Hyderabad,2,3,81,-,37,8,5,218.91,caught,1,DNB,-,-,-,-
+851261,Anmolpreet Singh,30 Nov 2025,v Bengal,Hyderabad,1,3,11,-,6,1,1,183.33,lbw,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,2 Dec 2025,v Baroda,Hyderabad,1,3,69,-,32,7,4,215.62,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,4 Dec 2025,v Puducherry,Hyderabad,1,3,1,-,6,0,0,16.66,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,6 Dec 2025,v Services,Hyderabad,1,3,34,-,23,3,1,147.82,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,8 Dec 2025,v Gujarat,Hyderabad,1,3,2,-,9,0,0,22.22,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,12 Dec 2025,v Jharkhand,Ambi,1,3,23,-,18,1,2,127.77,lbw,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,14 Dec 2025,v Andhra,Pune,1,3,47,-,27,3,3,174.07,caught,2,DNB,-,-,-,-
+851261,Anmolpreet Singh,16 Dec 2025,v M. Pradesh,Ambi,2,3,38,-,14,4,3,271.42,caught,1,DNB,-,-,-,-

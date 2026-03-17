@@ -1,0 +1,416 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+30045,Dinesh Karthik,1 Dec 2006,v South Africa,Johannesburg,2,5,31*,44,28,3,1,110.71,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Apr 2007,v Andhra,Visakhapatnam,2,4,34*,28,23,3,1,147.82,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Apr 2007,v Goa,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,5 Apr 2007,v Hyderabad,Visakhapatnam,2,5,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Apr 2007,v Karnataka,Visakhapatnam,2,4,0*,8,6,0,0,0,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Apr 2007,v Kerala,Visakhapatnam,2,4,2,9,3,0,0,66.66,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Apr 2007,v Bengal,Ahmedabad,2,4,8,10,10,1,0,80,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2007,v Mumbai,Ahmedabad,1,4,26,21,14,3,1,185.71,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Apr 2007,v Haryana,Ahmedabad,1,4,37,39,27,5,1,137.03,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2007,v M. Pradesh,Ahmedabad,1,5,27,30,27,3,0,100,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2007,v Punjab,Brabourne,2,4,19,22,21,2,0,90.47,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+30045,Dinesh Karthik,14 Sep 2007,v Pakistan,Durban,1,5,11,12,9,2,0,122.22,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Sep 2007,v New Zealand,Johannesburg,2,6,17,18,12,3,0,141.66,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Sep 2007,v South Africa,Durban,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Feb 2008,v Australia,Melbourne,1,3,8,9,8,1,0,100,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2008,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Apr 2008,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2008,v Kings XI,Mohali,1,6,24,-,14,2,1,171.42,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Apr 2008,v RCB,Delhi,1,5,2,-,4,0,0,50,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 May 2008,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 May 2008,v MI,DY Patil,2,6,28,-,23,3,0,121.73,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 May 2008,v CSK,Delhi,1,6,6*,-,3,1,0,200,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 May 2008,v RR,Jaipur,1,5,13,-,15,1,0,86.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2008,v Chargers,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 May 2008,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2008,v RCB,Bengaluru,2,6,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 May 2008,v MI,Delhi,2,6,56*,-,32,4,3,175,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 May 2008,v RR,Wankhede,2,6,10,-,12,1,0,83.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2009,v Kings XI,Cape Town,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Apr 2009,v CSK,Durban,1,5,18,-,16,2,0,112.5,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Apr 2009,v RCB,Gqeberha,2,5,12,13,9,1,1,133.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Apr 2009,v RR,Centurion,1,5,4,-,5,0,0,80,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Apr 2009,v Chargers,Centurion,2,5,41,-,30,3,1,136.66,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,2 May 2009,v CSK,Johannesburg,2,5,52,-,31,7,1,167.74,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,5 May 2009,v KKR,Durban,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 May 2009,v MI,East London,2,5,5*,-,3,1,0,166.66,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 May 2009,v KKR,Johannesburg,2,5,17*,-,22,0,0,77.27,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2009,v Chargers,Durban,1,6,44*,-,23,4,3,191.3,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2009,v Kings XI,Bloemfontein,1,6,32,-,29,0,1,110.34,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 May 2009,v RR,Bloemfontein,1,5,23*,-,11,1,1,209.09,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2009,v RCB,Johannesburg,1,5,31,-,29,1,0,106.89,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 May 2009,v MI,Centurion,2,7,0*,-,1,0,0,0,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,22 May 2009,v Chargers,Centurion,1,6,9,-,8,0,1,112.5,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Oct 2009,v Victoria,Delhi,1,5,6,-,7,1,0,85.71,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Oct 2009,v Wayamba,Delhi,1,4,61,-,41,5,3,148.78,stumped,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Oct 2009,v RCB,Bengaluru,1,4,2,-,4,0,0,50,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Oct 2009,v Cape Cobras,Delhi,1,4,23,-,24,3,0,95.83,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Dec 2009,v Sri Lanka,Mohali,2,6,4*,2,1,1,0,400,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Mar 2010,v Kings XI,Mohali,2,5,20,-,18,3,0,111.11,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Mar 2010,v RR,Ahmedabad,2,5,23*,-,26,2,0,88.46,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Mar 2010,v MI,Delhi,2,5,16,-,6,3,0,266.66,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Mar 2010,v CSK,Delhi,1,4,19,-,14,2,0,135.71,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Mar 2010,v Chargers,Cuttack,2,4,46,-,27,4,2,170.37,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Mar 2010,v RCB,Bengaluru,1,4,17,-,19,1,0,89.47,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Mar 2010,v KKR,Delhi,1,4,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,31 Mar 2010,v RR,Delhi,1,6,69,-,38,6,4,181.57,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Apr 2010,v RCB,Delhi,1,5,6,-,4,1,0,150,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Apr 2010,v KKR,Eden Gardens,2,5,20,-,17,2,0,117.64,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2010,v Kings XI,Delhi,1,5,17,-,35,1,0,48.57,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Apr 2010,v MI,Brabourne,2,4,11,-,14,0,0,78.57,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Apr 2010,v CSK,Chennai,2,5,13,-,16,1,0,81.25,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Apr 2010,v Chargers,Delhi,2,7,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,2 May 2010,v South Africa,Gros Islet,1,1,16,26,17,2,0,94.11,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 May 2010,v Sri Lanka,Gros Islet,1,1,13,20,12,2,0,108.33,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Oct 2010,v Kerala,Hyderabad,2,4,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Oct 2010,v Goa,Hyderabad,1,4,3,6,7,0,0,42.85,stumped,2,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Oct 2010,v Hyderabad,Hyderabad,2,5,6,8,6,1,0,100,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Oct 2010,v Karnataka,Hyderabad,1,5,28,30,21,4,0,133.33,bowled,2,2.0,0,10,1,5
+30045,Dinesh Karthik,19 Oct 2010,v Andhra,Hyderabad,1,5,90*,52,41,11,3,219.51,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Mar 2011,v Delhi,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Mar 2011,v Bengal,Hyderabad,2,5,1,2,3,0,0,33.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Apr 2011,v Warriors,DY Patil,1,4,0,-,7,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Apr 2011,v CSK,Mohali,2,6,21*,-,11,2,1,190.9,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2011,v Chargers,Hyderabad,2,4,3*,-,5,0,0,60,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2011,v RR,Mohali,1,4,21,-,16,3,0,131.25,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Apr 2011,v Daredevils,Delhi,2,4,6,-,5,1,0,120,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Apr 2011,v KKR,Eden Gardens,1,4,42,-,42,4,0,100,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 May 2011,v MI,Wankhede,2,5,1,-,2,0,0,50,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2011,v RCB,Bengaluru,2,5,20,19,15,3,0,133.33,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 May 2011,v Warriors,Mohali,1,4,30,-,27,3,0,111.11,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 May 2011,v MI,Mohali,1,4,31,-,24,4,1,129.16,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2011,v Kochi,Indore,2,4,69,-,33,7,5,209.09,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2011,v Daredevils,Dharamsala,1,4,27,-,19,4,0,142.1,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 May 2011,v RCB,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 May 2011,v Chargers,Dharamsala,2,4,11,-,14,1,0,78.57,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Oct 2011,v Andhra,Chennai,1,4,42,37,24,2,2,175,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Oct 2011,v Goa,Chennai,2,4,60,51,35,8,1,171.42,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Oct 2011,v Karnataka,Chennai,1,4,52,42,33,4,3,157.57,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Oct 2011,v Kerala,Chennai,2,4,55,43,34,7,0,161.76,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Oct 2011,v Hyderabad,Chennai,1,4,26,-,19,3,1,136.84,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Mar 2012,v Mumbai,Brabourne,2,4,3,-,6,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Apr 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Apr 2012,v Warriors,Wankhede,2,5,32,38,32,4,1,100,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Apr 2012,v Chargers,Visakhapatnam,2,6,7,12,6,1,0,116.66,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2012,v RR,Wankhede,1,6,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2012,v Daredevils,Wankhede,1,6,3,10,4,0,0,75,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Apr 2012,v Kings XI,Wankhede,1,4,35,29,20,5,0,175,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Apr 2012,v Kings XI,Mohali,2,4,3,7,6,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2012,v Daredevils,Delhi,2,4,40,47,28,7,0,142.85,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2012,v Chargers,Wankhede,2,4,2,-,6,0,0,33.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 May 2012,v Warriors,Pune,1,5,18*,42,22,1,0,81.81,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2012,v CSK,Wankhede,2,4,11,6,5,2,0,220,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 May 2012,v RCB,Wankhede,1,4,44,67,39,3,1,112.82,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 May 2012,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 May 2012,v RCB,Bengaluru,2,4,16,35,14,3,0,114.28,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 May 2012,v KKR,Wankhede,2,3,21,29,26,3,0,80.76,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 May 2012,v CSK,Bengaluru,2,4,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Oct 2012,v Lions,Johannesburg,1,6,19*,15,9,2,1,211.11,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Oct 2012,v Yorkshire,Cape Town,1,4,12,12,8,2,0,150,caught,-,TDNB,-,-,-,-
+30045,Dinesh Karthik,20 Oct 2012,v CSK,Johannesburg,2,4,74,64,45,4,6,164.44,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Oct 2012,v Sixers,Durban,2,4,18,29,18,2,0,100,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Mar 2013,v Andhra,Bhadravati,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Mar 2013,v Goa,Shimoga,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Mar 2013,v Karnataka,Shimoga,2,5,37,41,25,2,1,148,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Mar 2013,v Kerala,Shimoga,1,4,44,-,19,2,2,231.57,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Mar 2013,v Hyderabad,Shimoga,2,5,8,-,10,1,0,80,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Apr 2013,v RCB,Bengaluru,2,3,60,66,37,3,4,162.16,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Apr 2013,v CSK,Chennai,1,3,37,37,25,4,1,148,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Apr 2013,v Daredevils,Wankhede,1,3,86,66,48,14,2,179.16,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Apr 2013,v Warriors,Wankhede,1,3,41,38,29,4,1,141.37,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Apr 2013,v RR,Jaipur,2,3,30,51,32,3,0,93.75,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2013,v Daredevils,Delhi,1,3,2,9,6,0,0,33.33,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Apr 2013,v KKR,Eden Gardens,2,3,7,12,6,1,0,116.66,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2013,v RCB,Wankhede,1,3,43,70,33,3,1,130.3,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2013,v Kings XI,Wankhede,1,3,25,25,19,2,1,131.57,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 May 2013,v SRH,Hyderabad,1,3,0,3,2,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,5 May 2013,v CSK,Wankhede,1,3,23,24,23,2,1,100,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 May 2013,v KKR,Wankhede,1,3,34*,37,18,3,2,188.88,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 May 2013,v Warriors,Pune,2,3,17,31,25,1,1,68,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2013,v SRH,Wankhede,2,3,30,44,23,4,0,130.43,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2013,v RR,Wankhede,1,3,21,-,21,3,0,100,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 May 2013,v Kings XI,Dharamsala,2,5,0,4,3,0,0,0,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 May 2013,v CSK,Delhi,2,3,11,41,18,1,0,61.11,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 May 2013,v RR,Eden Gardens,2,3,22,22,17,3,0,129.41,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,26 May 2013,v CSK,Eden Gardens,1,3,21,45,26,3,0,80.76,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Sep 2013,v RR,Jaipur,1,3,2,15,11,0,0,18.18,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Sep 2013,v Lions,Jaipur,2,3,13,22,19,1,1,68.42,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Oct 2013,v Scorchers,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,5 Oct 2013,v Trinidad & T,Delhi,2,5,33*,21,21,3,2,157.14,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Oct 2013,v RR,Delhi,1,7,15*,15,5,0,2,300,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Apr 2014,v Goa,Visakhapatnam,1,4,35,27,23,3,2,152.17,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Apr 2014,v Andhra,Vizianagaram,1,4,27,16,10,1,3,270,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Apr 2014,v Hyderabad,Visakhapatnam,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Apr 2014,v Kerala,Visakhapatnam,1,4,11,10,11,2,0,100,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,5 Apr 2014,v Karnataka,Visakhapatnam,2,4,4,-,7,0,0,57.14,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Apr 2014,v RCB,Sharjah,1,3,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2014,v KKR,Dubai (DICS),2,3,56,59,40,5,2,140,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2014,v CSK,Abu Dhabi,2,3,21,50,22,2,0,95.45,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Apr 2014,v SRH,Dubai (DICS),2,4,15,20,14,1,0,107.14,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2014,v MI,Sharjah,2,5,2,2,3,0,0,66.66,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 May 2014,v RR,Delhi,1,4,12,28,16,0,0,75,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,5 May 2014,v CSK,Delhi,1,4,51,35,36,4,3,141.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 May 2014,v KKR,Delhi,1,4,36,28,22,4,1,163.63,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 May 2014,v SRH,Delhi,1,4,39,41,30,1,2,130,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2014,v RCB,Bengaluru,2,6,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2014,v RR,Ahmedabad,2,3,3,11,8,0,0,37.5,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2014,v Kings XI,Delhi,1,3,69,74,44,7,3,156.81,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,23 May 2014,v MI,Wankhede,2,3,7,18,13,1,0,53.84,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 May 2014,v Kings XI,Mohali,1,3,13,14,7,3,0,185.71,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2015,v KKR,Eden Gardens,2,3,6,12,8,1,0,75,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Apr 2015,v SRH,Bengaluru,1,3,9,21,11,1,0,81.81,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2015,v MI,Bengaluru,2,4,18,23,11,1,1,163.63,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Apr 2015,v CSK,Bengaluru,2,4,10,21,11,1,0,90.9,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2015,v RR,Bengaluru,1,5,27,31,18,3,1,150,run out,-,TDNB,-,-,-,-
+30045,Dinesh Karthik,2 May 2015,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 May 2015,v CSK,Chennai,2,5,23,43,20,4,0,115,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2015,v Kings XI,Bengaluru,1,4,8,4,3,0,1,266.66,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2015,v Kings XI,Mohali,2,5,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2015,v SRH,Hyderabad,2,5,2,-,2,0,0,100,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,17 May 2015,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 May 2015,v RR,Pune,1,5,8,6,3,0,1,266.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 May 2015,v CSK,Ranchi,1,5,28,45,26,4,0,107.69,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Jan 2016,v Haryana,Nagpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Jan 2016,v Bengal,Nagpur,1,6,21,24,13,3,0,161.53,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Jan 2016,v Vidarbha,Nagpur,1,5,0,1,1,0,0,0,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Jan 2016,v Gujarat,Nagpur,2,2,4,10,11,0,0,36.36,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Jan 2016,v Himachal,Nagpur,1,5,9,15,13,1,0,69.23,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Jan 2016,v Hyderabad,Nagpur,2,4,43,31,31,2,2,138.7,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2016,v Kings XI,Mohali,2,4,41*,62,26,7,0,157.69,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Apr 2016,v Supergiants,Rajkot,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2016,v MI,Wankhede,2,4,9,12,11,1,0,81.81,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2016,v SRH,Rajkot,1,4,8,11,9,1,0,88.88,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Apr 2016,v RCB,Rajkot,2,4,50*,62,39,3,0,128.2,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2016,v Daredevils,Delhi,1,4,19,30,17,1,1,111.76,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2016,v Supergiants,Pune,2,4,33,31,20,4,0,165,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,1 May 2016,v Kings XI,Rajkot,2,4,2,10,4,0,0,50,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 May 2016,v Daredevils,Rajkot,1,5,53,69,43,5,0,123.25,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2016,v SRH,Hyderabad,1,4,0,6,3,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,8 May 2016,v KKR,Eden Gardens,2,4,51,43,29,8,1,175.86,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 May 2016,v RCB,Bengaluru,2,4,2,10,4,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2016,v KKR,Kanpur,2,4,12,10,8,2,0,150,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 May 2016,v MI,Kanpur,2,4,3,6,4,0,0,75,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 May 2016,v RCB,Bengaluru,1,4,26,50,30,2,0,86.66,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 May 2016,v SRH,Delhi,1,4,26,27,19,4,1,136.84,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Jan 2017,v Karnataka,Chennai,2,4,45,62,33,4,1,136.36,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Jan 2017,v Hyderabad,Chennai,2,5,5,12,9,0,0,55.55,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Feb 2017,v East Zone,Wankhede,1,4,1,6,1,0,0,100,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Feb 2017,v West Zone,Wankhede,2,4,17,25,18,1,0,94.44,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Feb 2017,v Central Zone,Wankhede,1,4,35,33,26,2,2,134.61,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Apr 2017,v KKR,Rajkot,1,5,47,42,25,6,2,188,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Apr 2017,v SRH,Hyderabad,1,5,30,54,32,2,0,93.75,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Apr 2017,v Supergiant,Rajkot,2,4,3,7,5,0,0,60,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2017,v MI,Wankhede,1,5,48*,41,26,2,2,184.61,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Apr 2017,v RCB,Rajkot,2,5,1,8,4,0,0,25,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2017,v KKR,Eden Gardens,2,4,3,5,3,0,0,100,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Apr 2017,v Kings XI,Rajkot,2,4,58*,69,44,6,0,131.81,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2017,v MI,Rajkot,1,5,2,12,8,0,0,25,stumped,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 May 2017,v Supergiant,Pune,1,6,29,49,26,3,0,111.53,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 May 2017,v Daredevils,Delhi,1,4,65,68,34,5,5,191.17,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 May 2017,v Kings XI,Mohali,2,4,35*,48,23,2,1,152.17,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 May 2017,v Daredevils,Kanpur,1,4,40,51,28,4,1,142.85,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2017,v SRH,Kanpur,1,4,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Jul 2017,v West Indies,Kingston,1,4,48,-,29,5,3,165.51,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Dec 2017,v Sri Lanka,Cuttack,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Dec 2017,v Sri Lanka,Indore,1,7,5*,1,2,1,0,250,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Dec 2017,v Sri Lanka,Wankhede,2,6,18*,27,12,0,1,150,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Jan 2018,v Andhra,Visakhapatnam,2,3,57,32,28,9,2,203.57,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Jan 2018,v Kerala,Visakhapatnam,1,3,71,54,38,8,4,186.84,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Jan 2018,v Goa,Vizianagaram,1,3,56,50,43,6,1,130.23,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Jan 2018,v Karnataka,Vizianagaram,2,3,0,2,1,0,0,0,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Jan 2018,v Hyderabad,Visakhapatnam,1,3,27,37,16,3,1,168.75,stumped,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Feb 2018,v South Africa,Cape Town,1,7,13,10,6,3,0,216.66,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Mar 2018,v Sri Lanka,Colombo (RPS),1,6,13*,-,6,2,0,216.66,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Mar 2018,v Bangladesh,Colombo (RPS),2,6,2*,-,2,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Mar 2018,v Sri Lanka,Colombo (RPS),2,6,39*,-,25,5,0,156,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Mar 2018,v Bangladesh,Colombo (RPS),1,4,2*,-,2,0,0,100,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Mar 2018,v Bangladesh,Colombo (RPS),2,7,29*,-,8,2,3,362.5,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Apr 2018,v RCB,Eden Gardens,2,5,35*,-,29,4,0,120.68,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Apr 2018,v CSK,Chennai,1,5,26,-,25,2,1,104,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Apr 2018,v SRH,Eden Gardens,1,5,29,-,27,2,1,107.4,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2018,v Daredevils,Eden Gardens,1,5,19,-,10,2,1,190,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Apr 2018,v RR,Jaipur,2,5,42*,-,23,2,2,182.6,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2018,v Kings XI,Eden Gardens,1,5,43,-,28,6,0,153.57,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Apr 2018,v Daredevils,Delhi,2,5,18,-,18,0,1,100,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2018,v RCB,Bengaluru,2,6,23,-,10,2,1,230,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 May 2018,v CSK,Eden Gardens,2,6,45*,-,18,7,1,250,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2018,v MI,Wankhede,2,5,36*,-,26,5,1,138.46,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 May 2018,v MI,Eden Gardens,2,6,5,-,3,1,0,166.66,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,12 May 2018,v Kings XI,Indore,1,5,50,-,23,5,3,217.39,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,15 May 2018,v RR,Eden Gardens,2,5,41*,-,31,5,1,132.25,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2018,v SRH,Hyderabad,2,4,26*,-,22,1,1,118.18,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 May 2018,v RR,Eden Gardens,1,5,52,-,38,4,2,136.84,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,25 May 2018,v SRH,Eden Gardens,2,5,8,-,6,1,0,133.33,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,31 May 2018,v West Indies,Lord's,2,4,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Nov 2018,v West Indies,Eden Gardens,2,6,31*,-,34,3,1,91.17,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Nov 2018,v West Indies,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Nov 2018,v West Indies,Chennai,2,6,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Nov 2018,v Australia,Brisbane,2,6,30,-,13,4,1,230.76,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Nov 2018,v Australia,Melbourne,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Nov 2018,v Australia,Sydney,2,6,22*,-,18,1,1,122.22,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Feb 2019,v New Zealand,Wellington,2,6,5,8,6,0,0,83.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Feb 2019,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Feb 2019,v New Zealand,Hamilton,2,7,33*,29,16,0,4,206.25,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Feb 2019,v Australia,Visakhapatnam,1,6,1,2,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Feb 2019,v Australia,Bengaluru,1,6,8*,4,3,2,0,266.66,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Mar 2019,v SRH,Eden Gardens,2,4,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Mar 2019,v Kings XI,Eden Gardens,1,6,1*,-,1,0,0,100,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Mar 2019,v DC,Delhi,1,5,50,75,36,5,2,138.88,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,5 Apr 2019,v RCB,Bengaluru,2,5,19,34,15,1,1,126.66,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Apr 2019,v CSK,Chennai,1,5,19,27,21,3,0,90.47,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Apr 2019,v DC,Eden Gardens,1,6,2,6,3,0,0,66.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Apr 2019,v CSK,Eden Gardens,1,5,18,36,14,2,0,128.57,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2019,v RCB,Eden Gardens,2,7,0*,1,0,0,0,-,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2019,v SRH,Hyderabad,1,5,6,9,4,1,0,150,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Apr 2019,v RR,Eden Gardens,1,4,97*,82,50,7,9,194,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Apr 2019,v MI,Eden Gardens,1,4,15*,27,7,1,1,214.28,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,3 May 2019,v Kings XI,Mohali,2,5,21*,20,9,2,1,233.33,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,5 May 2019,v MI,Wankhede,1,4,3,20,9,0,0,33.33,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Nov 2019,v Kerala,Thumba,1,4,33,-,31,3,1,106.45,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Nov 2019,v Rajasthan,Thumba,1,3,48,-,30,5,2,160,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Nov 2019,v UP,Thiruvananthapuram,1,3,61,-,41,5,4,148.78,hit wicket,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Nov 2019,v Manipur,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Nov 2019,v Tripura,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Nov 2019,v Vidarbha,Thiruvananthapuram,1,4,58,-,32,5,3,181.25,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Nov 2019,v Karnataka,Surat,1,3,43,-,29,5,1,148.27,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 Nov 2019,v Mumbai,Surat,2,4,4,-,6,0,0,66.66,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Nov 2019,v Punjab,Surat,2,5,4,-,15,0,0,26.66,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Nov 2019,v Jharkhand,Surat,2,4,13*,-,20,0,0,65,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Nov 2019,v Rajasthan,Surat,2,4,17,-,18,1,0,94.44,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Dec 2019,v Karnataka,Surat,2,4,20,-,16,3,0,125,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Sep 2020,v MI,Abu Dhabi,2,3,30,-,23,5,0,130.43,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Sep 2020,v SRH,Abu Dhabi,2,4,0,-,3,0,0,0,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Sep 2020,v RR,Dubai (DICS),1,5,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Oct 2020,v DC,Sharjah,2,5,6,-,8,0,0,75,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Oct 2020,v CSK,Abu Dhabi,1,7,12,-,11,1,0,109.09,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Oct 2020,v Kings XI,Abu Dhabi,1,5,58,-,29,8,2,200,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Oct 2020,v RCB,Sharjah,2,5,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Oct 2020,v MI,Abu Dhabi,1,4,4,-,8,1,0,50,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Oct 2020,v SRH,Abu Dhabi,1,6,29*,-,14,2,2,207.14,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Oct 2020,v RCB,Abu Dhabi,1,5,4,-,14,0,0,28.57,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Oct 2020,v DC,Abu Dhabi,1,4,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Oct 2020,v Kings XI,Sharjah,1,4,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Oct 2020,v CSK,Dubai (DICS),1,6,21*,-,10,3,0,210,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Nov 2020,v RR,Dubai (DICS),1,6,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Jan 2021,v Jharkhand,Eden Gardens,1,4,46,-,17,3,4,270.58,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Jan 2021,v Assam,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Jan 2021,v Odisha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Jan 2021,v Hyderabad,Jadavpur Uni,2,5,40*,-,30,2,2,133.33,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Jan 2021,v Bengal,Eden Gardens,2,4,47*,-,31,7,0,151.61,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Jan 2021,v Himachal,Ahmedabad,2,6,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Jan 2021,v Rajasthan,Ahmedabad,2,5,26*,-,17,3,0,152.94,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,31 Jan 2021,v Baroda,Ahmedabad,2,4,22,-,16,3,0,137.5,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2021,v SRH,Chennai,1,6,22*,15,9,2,1,244.44,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Apr 2021,v MI,Chennai,2,6,8*,30,11,0,0,72.72,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Apr 2021,v RCB,Chennai,2,5,2,10,5,0,0,40,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2021,v CSK,Wankhede,2,6,40,48,24,4,2,166.66,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,24 Apr 2021,v RR,Wankhede,1,6,25,42,24,4,0,104.16,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Apr 2021,v Punjab Kings,Ahmedabad,2,7,12*,13,6,2,0,200,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Apr 2021,v DC,Ahmedabad,1,7,14,19,10,1,1,140,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Sep 2021,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Sep 2021,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Sep 2021,v CSK,Abu Dhabi,1,7,26,20,11,3,1,236.36,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Sep 2021,v DC,Sharjah,2,6,12,17,14,2,0,85.71,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,6,11,28,11,0,0,100,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Oct 2021,v SRH,Dubai (DICS),2,5,18*,17,12,3,0,150,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Oct 2021,v RR,Sharjah,1,5,14*,24,11,0,1,127.27,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Oct 2021,v RCB,Sharjah,2,6,10,20,12,1,0,83.33,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Oct 2021,v DC,Sharjah,2,5,0,7,3,0,0,0,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Oct 2021,v CSK,Dubai (DICS),2,6,9,8,7,0,1,128.57,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Mar 2022,v Punjab Kings,DY Patil,1,4,32*,16,14,3,3,228.57,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Mar 2022,v KKR,DY Patil,2,7,14*,23,7,1,1,200,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,5 Apr 2022,v RR,Wankhede,2,7,44*,42,23,7,1,191.3,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Apr 2022,v MI,Pune,2,4,7*,13,2,0,1,350,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Apr 2022,v CSK,DY Patil,2,7,34,38,14,2,3,242.85,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,16 Apr 2022,v DC,Wankhede,1,7,66*,47,34,5,5,194.11,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Apr 2022,v LSG,DY Patil,1,7,13*,27,8,0,1,162.5,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Apr 2022,v SRH,Brabourne,1,7,0,5,3,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Apr 2022,v RR,Pune,2,7,6,7,4,1,0,150,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Apr 2022,v GT,Brabourne,1,5,2,6,3,0,0,66.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 May 2022,v CSK,Pune,1,6,26*,28,17,1,2,152.94,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,8 May 2022,v SRH,Wankhede,1,5,30*,11,8,1,4,375,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,13 May 2022,v Punjab Kings,Brabourne,2,6,11,21,11,1,0,100,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,19 May 2022,v GT,Wankhede,2,4,2*,11,2,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 May 2022,v LSG,Eden Gardens,1,6,37*,41,23,5,1,160.86,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 May 2022,v RR,Ahmedabad,1,6,6,17,7,0,0,85.71,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Jun 2022,v South Africa,Delhi,1,6,1*,5,2,0,0,50,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 Jun 2022,v South Africa,Cuttack,1,7,30*,30,21,2,2,142.85,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 Jun 2022,v South Africa,Visakhapatnam,1,6,6,14,8,0,0,75,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Jun 2022,v South Africa,Rajkot,1,6,55,34,27,9,2,203.7,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,19 Jun 2022,v South Africa,Bengaluru,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+30045,Dinesh Karthik,26 Jun 2022,v Ireland,Dublin (Malahide),2,5,5*,7,4,1,0,125,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Jun 2022,v Ireland,Dublin (Malahide),1,6,0,4,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Jul 2022,v Derbyshire,Derby,2,5,7*,9,7,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Jul 2022,v Northants,Northampton,1,5,34,36,26,3,1,130.76,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Jul 2022,v England,Southampton,1,7,11,17,7,2,0,157.14,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 Jul 2022,v England,Birmingham,1,7,12,22,17,1,0,70.58,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Jul 2022,v England,Nottingham,2,6,6,11,7,1,0,85.71,lbw,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Jul 2022,v West Indies,Tarouba,1,7,41*,31,19,4,2,215.78,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,1 Aug 2022,v West Indies,Basseterre,1,7,7,21,13,0,0,53.84,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Aug 2022,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Aug 2022,v West Indies,Lauderhill,1,6,6,14,9,0,0,66.66,bowled,2,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Aug 2022,v West Indies,Lauderhill,1,6,12,13,9,2,0,133.33,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Aug 2022,v Pakistan,Dubai (DICS),2,7,1*,3,1,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,31 Aug 2022,v Hong Kong,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,8 Sep 2022,v Afghanistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,18,0,18
+30045,Dinesh Karthik,20 Sep 2022,v Australia,Mohali,1,7,6,17,5,0,0,120,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Sep 2022,v Australia,Nagpur,2,6,10*,-,2,1,1,500,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Sep 2022,v Australia,Hyderabad,2,6,1*,4,1,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Sep 2022,v South Africa,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Oct 2022,v South Africa,Guwahati,1,5,17*,8,7,1,2,242.85,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Oct 2022,v South Africa,Indore,2,4,46,27,21,4,4,219.04,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Oct 2022,v Pakistan,Melbourne,2,7,1,10,2,0,0,50,stumped,1,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Oct 2022,v Netherlands,Sydney,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Oct 2022,v South Africa,Perth,1,7,6,33,15,0,0,40,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Nov 2022,v Bangladesh,Adelaide,1,6,7,12,5,1,0,140,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,2 Apr 2023,v MI,Bengaluru,2,3,0,6,3,0,0,0,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Apr 2023,v KKR,Eden Gardens,2,7,9,23,8,1,0,112.5,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,10 Apr 2023,v LSG,Bengaluru,1,4,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Apr 2023,v DC,Bengaluru,1,7,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,17 Apr 2023,v CSK,Bengaluru,2,6,28,15,14,3,1,200,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Apr 2023,v Punjab Kings,Mohali,1,4,7,16,5,1,0,140,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Apr 2023,v RR,Bengaluru,1,6,16,28,13,2,0,123.07,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,26 Apr 2023,v KKR,Bengaluru,2,6,22,33,18,1,1,122.22,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,1 May 2023,v LSG,Lucknow,1,6,16,25,11,1,1,145.45,run out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,6 May 2023,v DC,Delhi,1,5,11,22,9,0,1,122.22,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,9 May 2023,v MI,Wankhede,1,6,30,31,18,4,1,166.66,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,14 May 2023,v RR,Jaipur,1,5,0,3,2,0,0,0,lbw,2,sub,-,-,-,-
+30045,Dinesh Karthik,21 May 2023,v GT,Bengaluru,1,6,0,2,1,0,0,0,caught,2,sub,-,-,-,-
+30045,Dinesh Karthik,22 Mar 2024,v CSK,Chennai,1,7,38*,45,26,3,2,146.15,not out,2,sub,-,-,-,-
+30045,Dinesh Karthik,25 Mar 2024,v Punjab Kings,Bengaluru,2,7,28*,22,10,3,2,280,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,29 Mar 2024,v KKR,Bengaluru,1,7,20,13,8,0,3,250,run out,2,sub,-,-,-,-
+30045,Dinesh Karthik,2 Apr 2024,v LSG,Bengaluru,2,8,4,13,8,0,0,50,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Apr 2024,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Apr 2024,v MI,Wankhede,1,6,53*,50,23,5,4,230.43,not out,2,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Apr 2024,v SRH,Bengaluru,2,6,83,52,35,5,7,237.14,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,21 Apr 2024,v KKR,Eden Gardens,2,8,25,32,18,3,1,138.88,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Apr 2024,v SRH,Hyderabad,1,7,11,13,6,2,0,183.33,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,4 May 2024,v GT,Bengaluru,2,7,21*,20,12,3,0,175,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,9 May 2024,v Punjab Kings,Dharamsala,1,6,18,10,7,1,2,257.14,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,12 May 2024,v DC,Bengaluru,1,7,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,18 May 2024,v CSK,Bengaluru,1,5,14,8,6,1,1,233.33,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,22 May 2024,v RR,Ahmedabad,1,7,11,23,13,1,0,84.61,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,11 Jan 2025,v Sunrisers,Paarl,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,13 Jan 2025,v MI Cape Town,Cape Town,2,7,2,12,7,0,0,28.57,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,15 Jan 2025,v MI Cape Town,Paarl,2,5,10,9,6,1,0,166.66,run out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,18 Jan 2025,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Jan 2025,v Super Kings,Paarl,2,6,2*,4,2,0,0,100,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,23 Jan 2025,v Super Giants,Durban,2,6,9*,7,7,2,0,128.57,not out,1,DNB,-,-,-,-
+30045,Dinesh Karthik,25 Jan 2025,v Capitals,Paarl,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+30045,Dinesh Karthik,27 Jan 2025,v Super Giants,Paarl,2,5,21,22,15,0,2,140,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,30 Jan 2025,v Super Kings,Johannesburg,1,6,53,58,39,4,3,135.89,caught,2,DNB,-,-,-,-
+30045,Dinesh Karthik,4 Feb 2025,v MI Cape Town,Gqeberha,2,7,31,33,28,5,0,110.71,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,6 Feb 2025,v Sunrisers,Centurion,1,5,2,5,3,0,0,66.66,lbw,2,DNB,-,-,-,-
+30045,Dinesh Karthik,3 Dec 2025,v KnightRiders,Sharjah,2,6,5,-,4,1,0,125,bowled,1,DNB,-,-,-,-
+30045,Dinesh Karthik,7 Dec 2025,v MI Emirates,Sharjah,2,7,12,26,14,1,0,85.71,caught,1,DNB,-,-,-,-
+30045,Dinesh Karthik,20 Dec 2025,v Vipers,Dubai (DICS),1,7,3,4,5,0,0,60,lbw,2,DNB,-,-,-,-

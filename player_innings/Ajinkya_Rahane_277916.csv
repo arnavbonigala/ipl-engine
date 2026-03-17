@@ -1,0 +1,295 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+277916,Ajinkya Rahane,3 Apr 2007,v Baroda,Wankhede,2,1,22,38,25,3,0,88,stumped,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 Apr 2007,v Gujarat,Brabourne,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Apr 2007,v Saurashtra,Wankhede,1,1,3,9,6,0,0,50,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2007,v Maharashtra,Brabourne,2,2,6,8,7,0,0,85.71,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2007,v Haryana,Ahmedabad,2,1,50*,61,43,6,0,116.27,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 Apr 2007,v M. Pradesh,Ahmedabad,1,1,6,19,12,0,0,50,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,19 Apr 2007,v Bengal,Ahmedabad,1,1,33,46,35,3,0,94.28,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Apr 2008,v Chargers,DY Patil,1,3,0,-,7,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2008,v KKR,Eden Gardens,2,1,4,-,10,1,0,40,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2009,v KKR,East London,1,7,10,-,8,1,0,125,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2009,v RCB,Johannesburg,1,3,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 May 2009,v Daredevils,East London,1,8,12,-,12,2,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 May 2009,v RCB,Gqeberha,1,3,62*,81,49,4,1,126.53,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 May 2009,v Kings XI,Centurion,2,3,1,-,5,0,0,20,lbw,1,1.0,0,5,1,5
+277916,Ajinkya Rahane,14 May 2009,v RR,Durban,2,3,3,-,7,0,0,42.85,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 May 2009,v CSK,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 May 2009,v Daredevils,Centurion,1,5,56,-,41,5,2,136.58,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Oct 2009,v Baroda,Pune,1,4,8,10,7,1,0,114.28,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Oct 2009,v Gujarat,Pune,2,3,19,24,14,3,0,135.71,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Oct 2009,v Saurashtra,Pune,1,3,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Oct 2009,v Maharashtra,Pune,2,3,24,15,13,3,1,184.61,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 Mar 2010,v Hyderabad,Indore,1,3,3,14,5,0,0,60,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Oct 2010,v Baroda,Vadodara,2,3,24,24,22,3,1,109.09,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Oct 2010,v Gujarat,Vadodara,2,3,13,20,14,1,0,92.85,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Oct 2010,v Saurashtra,Vadodara,1,3,1,1,3,0,0,33.33,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Oct 2010,v Maharashtra,Vadodara,1,3,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Mar 2011,v Haryana,Hyderabad,1,1,1,6,6,0,0,16.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Apr 2011,v Daredevils,Jaipur,2,5,18,-,17,1,1,105.88,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2011,v KKR,Eden Gardens,1,7,6,-,9,0,0,66.66,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Apr 2011,v Kochi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2011,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2011,v Warriors,Jaipur,2,6,15*,-,9,2,0,166.66,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 May 2011,v CSK,Chennai,1,6,4,-,8,0,0,50,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 May 2011,v CSK,Jaipur,2,3,52,-,36,7,0,144.44,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 May 2011,v RCB,Jaipur,1,3,17,-,10,1,1,170,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 May 2011,v Kochi,Indore,1,4,8,-,9,1,0,88.88,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 May 2011,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Aug 2011,v Leics,Leicester,1,2,19,18,13,3,0,146.15,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,31 Aug 2011,v England,Manchester,1,2,61,49,39,8,0,156.41,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Oct 2011,v England,Eden Gardens,1,2,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Mar 2012,v Tamil Nadu,Brabourne,1,2,1,-,1,0,0,100,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Mar 2012,v Punjab,Mumbai,1,2,21,-,20,2,1,105,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2012,v Kings XI,Jaipur,1,2,98,87,66,16,1,148.48,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2012,v KKR,Jaipur,1,2,0,-,4,0,0,0,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2012,v MI,Wankhede,2,2,40,50,31,4,2,129.03,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 Apr 2012,v KKR,Eden Gardens,1,2,19,27,16,3,0,118.75,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 Apr 2012,v RCB,Bengaluru,1,2,103*,86,60,12,5,171.66,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2012,v Chargers,Jaipur,2,2,44,65,31,5,1,141.93,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Apr 2012,v CSK,Chennai,1,2,15,19,10,3,0,150,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Apr 2012,v RCB,Jaipur,2,2,13,35,18,1,0,72.22,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2012,v Daredevils,Delhi,2,2,84*,89,63,9,1,133.33,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2012,v Daredevils,Jaipur,1,2,42,36,32,7,0,131.25,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 May 2012,v Kings XI,Mohali,1,2,5,5,6,1,0,83.33,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 May 2012,v Warriors,Pune,2,2,0,6,3,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 May 2012,v CSK,Jaipur,1,2,17,39,22,2,0,77.27,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 May 2012,v Warriors,Jaipur,1,2,61,92,47,7,0,129.78,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 May 2012,v Chargers,Hyderabad,1,2,6,5,7,1,0,85.71,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 May 2012,v MI,Jaipur,1,2,13,-,17,2,0,76.47,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Jun 2012,v W. Indies A,Port of Spain,1,2,11,10,11,2,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Jun 2012,v W. Indies A,Port of Spain,1,2,79,79,63,4,2,125.39,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 Aug 2012,v Sri Lanka,Pallekele,1,2,21,46,25,0,1,84,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Dec 2012,v England,Pune,2,2,19,25,13,0,2,146.15,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Dec 2012,v England,Wankhede,1,2,3,8,5,0,0,60,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Dec 2012,v Pakistan,Bengaluru,1,2,42,43,31,5,1,135.48,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,28 Dec 2012,v Pakistan,Ahmedabad,1,2,28,31,26,4,0,107.69,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2013,v Daredevils,Delhi,1,2,28,49,24,3,0,116.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2013,v KKR,Jaipur,1,2,36,73,34,3,1,105.88,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2013,v Warriors,Pune,1,2,30,46,27,3,0,111.11,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Apr 2013,v Kings XI,Jaipur,2,2,34*,87,42,3,0,80.95,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2013,v MI,Jaipur,1,2,68*,96,54,8,1,125.92,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Apr 2013,v RCB,Bengaluru,1,2,14,22,13,2,1,107.69,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Apr 2013,v CSK,Chennai,1,2,16,32,15,1,0,106.66,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Apr 2013,v SRH,Jaipur,2,2,1,11,9,0,0,11.11,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2013,v RCB,Jaipur,2,2,2,12,7,0,0,28.57,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2013,v KKR,Eden Gardens,1,2,6,14,10,1,0,60,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 May 2013,v Warriors,Jaipur,2,2,67,73,48,6,2,139.58,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 May 2013,v Daredevils,Jaipur,2,2,63*,82,45,5,1,140,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 May 2013,v Kings XI,Mohali,2,2,59*,87,49,3,3,120.4,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 May 2013,v CSK,Jaipur,2,2,9,14,10,1,0,90,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 May 2013,v MI,Wankhede,2,2,4,-,8,0,0,50,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 May 2013,v SRH,Hyderabad,2,2,12,-,25,0,1,48,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 May 2013,v SRH,Delhi,2,2,18,42,20,0,1,90,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 May 2013,v MI,Eden Gardens,1,2,21,30,18,3,0,116.66,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Sep 2013,v MI,Jaipur,2,2,33,48,31,3,1,106.45,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Sep 2013,v Lions,Jaipur,1,2,6,14,7,1,0,85.71,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Sep 2013,v Scorchers,Jaipur,2,2,62*,66,53,5,2,116.98,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 Oct 2013,v Otago,Jaipur,2,2,52,72,48,7,0,108.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 Oct 2013,v CSK,Jaipur,1,2,70,87,56,6,2,125,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Oct 2013,v MI,Delhi,2,2,65,75,47,5,2,138.29,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Mar 2014,v Australia,Mirpur,1,2,19,34,16,2,0,118.75,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 Apr 2014,v South Africa,Mirpur,2,2,32,41,30,2,1,106.66,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2014,v Sri Lanka,Mirpur,1,2,3,6,8,0,0,37.5,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 Apr 2014,v SRH,Abu Dhabi,2,2,59,-,53,6,0,111.32,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Apr 2014,v Kings XI,Sharjah,1,2,13,13,8,2,0,162.5,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Apr 2014,v CSK,Dubai (DICS),2,2,15,22,12,2,0,125,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Apr 2014,v RCB,Abu Dhabi,2,1,23,19,19,4,0,121.05,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2014,v KKR,Abu Dhabi,1,1,72,94,59,6,1,122.03,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2014,v Daredevils,Delhi,2,1,12,12,10,2,0,120,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 May 2014,v KKR,Ahmedabad,1,1,30,28,22,3,1,136.36,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 May 2014,v SRH,Ahmedabad,2,1,0,2,3,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 May 2014,v RCB,Bengaluru,2,1,24,34,22,3,0,109.09,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 May 2014,v CSK,Ranchi,1,3,4,11,7,0,0,57.14,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 May 2014,v Daredevils,Ahmedabad,1,1,64,78,50,8,1,128,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 May 2014,v Kings XI,Mohali,2,1,23,40,26,2,0,88.46,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 May 2014,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 Sep 2014,v England,Birmingham,2,1,8,6,4,0,1,200,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 Apr 2015,v Kings XI,Pune,1,1,0,7,8,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Apr 2015,v Daredevils,Delhi,2,1,47,72,39,2,3,120.51,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Apr 2015,v MI,Ahmedabad,2,1,46,-,39,4,0,117.94,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 Apr 2015,v SRH,Visakhapatnam,2,1,62,86,56,9,0,110.71,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,19 Apr 2015,v CSK,Ahmedabad,2,1,76*,86,55,6,2,138.18,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Apr 2015,v Kings XI,Ahmedabad,1,1,74,82,54,6,2,137.03,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Apr 2015,v RCB,Ahmedabad,1,1,18,23,12,2,1,150,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2015,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2015,v MI,Wankhede,2,1,16,17,12,2,0,133.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2015,v Daredevils,Brabourne,1,1,91*,99,54,9,3,168.51,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 May 2015,v SRH,Brabourne,2,1,8,3,6,2,0,133.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 May 2015,v CSK,Chennai,2,1,23,29,17,4,0,135.29,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 May 2015,v KKR,Brabourne,1,1,37,33,22,3,2,168.18,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 May 2015,v RCB,Pune,2,1,42,70,39,4,0,107.69,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Jul 2015,v Zimbabwe,Harare,1,1,33,44,32,2,0,103.12,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,19 Jul 2015,v Zimbabwe,Harare,2,1,4,-,3,1,0,133.33,run out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 Feb 2016,v Sri Lanka,Pune,1,3,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Feb 2016,v Sri Lanka,Ranchi,1,3,25,-,21,3,0,119.04,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Feb 2016,v Sri Lanka,Visakhapatnam,2,3,22*,-,24,1,0,91.66,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Feb 2016,v Pakistan,Mirpur,2,2,0,5,1,0,0,0,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,31 Mar 2016,v West Indies,Wankhede,1,2,40,68,35,2,0,114.28,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 Apr 2016,v MI,Wankhede,2,1,66*,65,42,7,3,157.14,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Apr 2016,v Guj Lions,Rajkot,1,1,21,15,17,4,0,123.52,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2016,v Kings XI,Mohali,1,1,9,9,11,2,0,81.81,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Apr 2016,v RCB,Pune,2,1,60,76,46,8,0,130.43,stumped,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Apr 2016,v KKR,Pune,1,1,67,68,52,4,3,128.84,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Apr 2016,v SRH,Hyderabad,2,1,0,2,5,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2016,v Guj Lions,Pune,1,1,53,62,45,5,0,117.77,run out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2016,v MI,Pune,1,1,4,8,5,0,0,80,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 May 2016,v Daredevils,Delhi,2,1,63*,94,48,7,0,131.25,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 May 2016,v RCB,Bengaluru,1,1,74,95,48,8,2,154.16,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 May 2016,v SRH,Visakhapatnam,2,1,0,1,3,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 May 2016,v KKR,Eden Gardens,1,1,2,-,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 May 2016,v Daredevils,Visakhapatnam,2,1,42*,-,36,5,1,116.66,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 May 2016,v Kings XI,Visakhapatnam,2,1,19,22,15,4,0,126.66,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Aug 2016,v West Indies,Lauderhill,2,2,7,14,7,1,0,100,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,28 Aug 2016,v West Indies,Lauderhill,2,2,4*,9,4,0,0,100,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Jan 2017,v Baroda,Vadodara,1,2,78,79,53,11,1,147.16,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Jan 2017,v Gujarat,Vadodara,2,2,25,30,30,2,1,83.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2017,v MI,Pune,2,1,60,48,34,6,3,176.47,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2017,v Kings XI,Indore,1,1,19,-,15,1,1,126.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2017,v Daredevils,Pune,2,1,10,13,9,0,0,111.11,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Apr 2017,v Guj Lions,Rajkot,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 Apr 2017,v RCB,Bengaluru,1,1,30,37,25,5,0,120,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Apr 2017,v SRH,Pune,2,1,2,12,7,0,0,28.57,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Apr 2017,v MI,Wankhede,1,1,38,43,32,5,1,118.75,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Apr 2017,v KKR,Pune,1,1,46,57,41,4,1,112.19,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2017,v RCB,Pune,1,1,6,14,8,0,0,75,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2017,v Guj Lions,Pune,2,1,4,3,4,1,0,100,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2017,v KKR,Eden Gardens,2,1,11,6,9,2,0,122.22,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 May 2017,v SRH,Hyderabad,1,1,22,33,20,0,1,110,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 May 2017,v Daredevils,Delhi,2,1,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 May 2017,v Kings XI,Pune,2,1,34*,47,34,1,1,100,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 May 2017,v MI,Wankhede,1,1,56,60,43,5,1,130.23,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 May 2017,v MI,Hyderabad,2,1,44,53,38,5,0,115.78,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 Apr 2018,v SRH,Hyderabad,1,1,13,-,13,2,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2018,v Daredevils,Jaipur,1,1,45,-,40,5,0,112.5,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 Apr 2018,v RCB,Bengaluru,1,1,36,-,20,6,1,180,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 Apr 2018,v KKR,Jaipur,1,1,36,-,19,5,1,189.47,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Apr 2018,v CSK,Pune,2,1,16,-,11,1,1,145.45,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Apr 2018,v MI,Jaipur,2,1,14,-,17,1,0,82.35,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2018,v SRH,Jaipur,2,1,65*,-,53,5,1,122.64,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,2 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 May 2018,v Kings XI,Indore,1,3,5,-,7,0,0,71.42,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 May 2018,v Kings XI,Jaipur,1,1,9,-,10,1,0,90,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 May 2018,v CSK,Jaipur,2,3,4,-,3,1,0,133.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 May 2018,v MI,Wankhede,2,3,37,-,36,4,0,102.77,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 May 2018,v KKR,Eden Gardens,1,3,11,-,12,1,0,91.66,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,19 May 2018,v RCB,Jaipur,1,3,33,-,31,3,0,106.45,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 May 2018,v KKR,Eden Gardens,2,1,46,-,41,4,1,112.19,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Feb 2019,v Sikkim,Indore,1,1,11,6,9,2,0,122.22,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Feb 2019,v Punjab,Indore,1,2,0,7,1,0,0,0,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Feb 2019,v M. Pradesh,Indore,2,2,1,9,4,0,0,25,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Feb 2019,v Goa,Indore,2,2,31,-,25,5,0,124,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Feb 2019,v Railways,Indore,2,2,4,9,3,1,0,133.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,28 Feb 2019,v Saurashtra,Indore,1,2,11,-,12,0,0,91.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Mar 2019,v Kings XI,Jaipur,2,1,27,36,20,4,0,135,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Mar 2019,v SRH,Hyderabad,1,1,70,77,49,4,3,142.85,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,31 Mar 2019,v CSK,Chennai,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,2 Apr 2019,v RCB,Jaipur,2,1,22,37,20,4,0,110,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 Apr 2019,v KKR,Jaipur,1,1,5,8,7,1,0,71.42,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2019,v CSK,Jaipur,1,1,14,16,11,3,0,127.27,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 Apr 2019,v MI,Wankhede,2,1,37,34,21,6,1,176.19,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 Apr 2019,v Kings XI,Mohali,2,4,26,37,21,1,0,123.8,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Apr 2019,v MI,Jaipur,2,1,12,18,12,2,0,100,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Apr 2019,v DC,Jaipur,1,1,105*,100,63,11,3,166.66,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Apr 2019,v KKR,Eden Gardens,2,1,34,25,21,5,1,161.9,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Apr 2019,v SRH,Jaipur,2,1,39,53,34,4,1,114.7,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 May 2019,v DC,Delhi,1,1,2,9,4,0,0,50,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Oct 2020,v MI,Abu Dhabi,1,3,15,-,15,3,0,100,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Oct 2020,v RR,Dubai (DICS),1,3,2,-,9,0,0,22.22,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Oct 2020,v CSK,Sharjah,2,3,8,-,10,1,0,80,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,24 Oct 2020,v KKR,Abu Dhabi,2,1,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Oct 2020,v SRH,Dubai (DICS),2,1,26,-,19,3,1,136.84,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,2 Nov 2020,v RCB,Abu Dhabi,2,3,60,-,46,5,1,130.43,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Nov 2020,v MI,Dubai (DICS),2,3,0,-,3,0,0,0,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Nov 2020,v SRH,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 Nov 2020,v MI,Dubai (DICS),1,3,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 Apr 2021,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 Apr 2021,v RR,Wankhede,1,3,8,21,8,1,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 Nov 2021,v Karnataka,Guwahati,2,2,75,-,54,6,3,138.88,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Nov 2021,v Services,Guwahati,1,2,54,-,44,3,4,122.72,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Nov 2021,v Bengal,Guwahati,1,2,17,-,16,3,0,106.25,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Nov 2021,v Chhattisgarh,Guwahati,2,2,69,-,55,6,2,125.45,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 Nov 2021,v Baroda,Guwahati,1,2,71,-,45,8,2,157.77,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Mar 2022,v CSK,Wankhede,2,1,44,56,34,6,1,129.41,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Mar 2022,v RCB,DY Patil,1,1,9,25,10,1,0,90,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 Apr 2022,v Punjab Kings,Wankhede,2,1,12,11,11,3,0,109.09,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Apr 2022,v MI,Pune,2,1,7,22,11,0,0,63.63,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 Apr 2022,v DC,Brabourne,2,1,8,29,14,1,0,57.14,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,9 May 2022,v MI,DY Patil,1,2,25,51,24,3,0,104.16,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 May 2022,v SRH,Pune,1,2,28,45,24,0,3,116.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Oct 2022,v Mizoram,Saurashtra,2,2,9,-,7,2,0,128.57,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Oct 2022,v M. Pradesh,Rajkot,2,2,30*,-,17,4,1,176.47,retired notout,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 Oct 2022,v Rajasthan,Saurashtra,1,2,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 Oct 2022,v Railways,Rajkot,1,2,12,-,11,2,0,109.09,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Oct 2022,v Uttarakhand,Saurashtra,1,2,34,-,28,3,1,121.42,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 Nov 2022,v Saurashtra,Eden Gardens,2,2,21,38,22,3,0,95.45,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 Nov 2022,v Vidarbha,Eden Gardens,2,2,5,-,4,1,0,125,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Nov 2022,v Himachal,Eden Gardens,2,2,1,24,5,0,0,20,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2023,v MI,Wankhede,2,3,61,33,27,7,3,225.92,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Apr 2023,v RR,Chennai,2,3,31,38,19,2,1,163.15,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Apr 2023,v RCB,Bengaluru,1,3,37,33,20,3,2,185,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Apr 2023,v SRH,Chennai,2,3,9,15,10,0,0,90,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Apr 2023,v KKR,Eden Gardens,1,3,71*,70,29,6,5,244.82,not out,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Apr 2023,v RR,Jaipur,2,3,15,23,13,0,0,115.38,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Apr 2023,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 May 2023,v MI,Chennai,2,3,21,23,17,1,1,123.52,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,10 May 2023,v DC,Chennai,1,3,21,31,20,2,0,105,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 May 2023,v KKR,Chennai,1,3,16,24,11,1,1,145.45,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,20 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 May 2023,v GT,Chennai,1,4,17,15,10,0,1,170,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,28 May 2023,v GT,Ahmedabad,2,4,27,20,13,2,2,207.69,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 Oct 2023,v Haryana,Jaipur,2,3,76*,-,43,6,3,176.74,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,17 Oct 2023,v Meghalaya,Jaipur,2,3,8*,-,13,0,0,61.53,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,19 Oct 2023,v Baroda,Jaipur,1,3,22,-,21,2,1,104.76,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Oct 2023,v J & K,Jaipur,1,3,31,-,31,1,0,100,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Oct 2023,v Chhattisgarh,Jaipur,2,3,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 Oct 2023,v Hyderabad,Jaipur,2,3,24,-,19,4,0,126.31,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Oct 2023,v Mizoram,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,2 Nov 2023,v Baroda,New Chandigarh,1,3,13,-,11,1,1,118.18,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Mar 2024,v RCB,Chennai,2,3,27,26,19,0,2,142.1,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Mar 2024,v GT,Chennai,1,3,12,19,12,0,0,100,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,31 Mar 2024,v DC,Visakhapatnam,2,3,45,64,30,5,2,150,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Apr 2024,v SRH,Hyderabad,1,3,35,54,30,2,1,116.66,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2024,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Apr 2024,v MI,Wankhede,1,1,5,8,8,1,0,62.5,caught,2,sub,-,-,-,-
+277916,Ajinkya Rahane,19 Apr 2024,v LSG,Lucknow,1,1,36,38,24,5,1,150,bowled,2,sub,-,-,-,-
+277916,Ajinkya Rahane,23 Apr 2024,v LSG,Chennai,1,1,1,4,3,0,0,33.33,caught,2,sub,-,-,-,-
+277916,Ajinkya Rahane,28 Apr 2024,v SRH,Chennai,1,1,9,15,12,1,0,75,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 May 2024,v Punjab Kings,Chennai,1,1,29,35,24,5,0,120.83,caught,2,sub,-,-,-,-
+277916,Ajinkya Rahane,5 May 2024,v Punjab Kings,Dharamsala,1,1,9,10,7,1,0,128.57,caught,2,sub,-,-,-,-
+277916,Ajinkya Rahane,10 May 2024,v GT,Ahmedabad,2,1,1,6,5,0,0,20,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,18 May 2024,v RCB,Bengaluru,2,4,33,32,22,3,1,150,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,23 Nov 2024,v Goa,Hyderabad,1,4,13,-,13,1,0,100,bowled,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,27 Nov 2024,v Maharashtra,Hyderabad,2,4,52,-,34,3,3,152.94,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Nov 2024,v Kerala,Hyderabad,2,4,68,-,35,5,4,194.28,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,1 Dec 2024,v Nagaland,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 Dec 2024,v Services,Hyderabad,1,2,22,-,18,3,0,122.22,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,5 Dec 2024,v Andhra,Hyderabad,2,2,95,-,54,9,4,175.92,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Dec 2024,v Vidarbha,Alur,2,2,84,-,45,10,3,186.66,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,13 Dec 2024,v Baroda,Bengaluru,2,2,98,-,56,11,5,175,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 Dec 2024,v M. Pradesh,Bengaluru,2,2,37,-,30,4,0,123.33,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,22 Mar 2025,v RCB,Eden Gardens,1,3,56,51,31,6,4,180.64,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Mar 2025,v RR,Guwahati,2,3,18,17,15,1,1,120,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,31 Mar 2025,v MI,Wankhede,1,3,11,13,7,1,1,157.14,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,3 Apr 2025,v SRH,Eden Gardens,1,3,38,40,27,1,4,140.74,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Apr 2025,v LSG,Eden Gardens,2,3,61,56,35,8,2,174.28,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,11 Apr 2025,v CSK,Chennai,2,3,20*,25,17,1,1,117.64,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,15 Apr 2025,v Punjab Kings,New Chandigarh,2,3,17,32,17,1,1,100,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,21 Apr 2025,v GT,Eden Gardens,2,3,50,58,36,5,1,138.88,stumped,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Apr 2025,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,29 Apr 2025,v DC,Delhi,1,3,26,22,14,4,1,185.71,lbw,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 May 2025,v RR,Eden Gardens,1,3,30,46,24,1,2,125,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,7 May 2025,v CSK,Eden Gardens,1,3,48,45,33,4,2,145.45,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,25 May 2025,v SRH,Delhi,2,3,15,12,8,3,0,187.5,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,26 Nov 2025,v Railways,Lucknow,2,2,62,-,33,4,5,187.87,hit wicket,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,28 Nov 2025,v Vidarbha,Lucknow,2,2,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,30 Nov 2025,v Andhra,Lucknow,2,2,18,-,12,0,2,150,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,2 Dec 2025,v Assam,Lucknow,1,2,42,-,33,6,0,127.27,caught,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,4 Dec 2025,v Kerala,Lucknow,2,2,32,-,18,5,0,177.77,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,6 Dec 2025,v Chhattisgarh,Lucknow,2,2,40,-,28,3,2,142.85,bowled,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,8 Dec 2025,v Odisha,Lucknow,2,2,95*,-,56,9,3,169.64,not out,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,12 Dec 2025,v Hyderabad,Pune,1,2,9,-,9,1,0,100,stumped,2,DNB,-,-,-,-
+277916,Ajinkya Rahane,14 Dec 2025,v Haryana,Ambi,2,2,21,-,10,2,1,210,caught,1,DNB,-,-,-,-
+277916,Ajinkya Rahane,16 Dec 2025,v Rajasthan,Pune,2,2,72*,-,41,7,3,175.6,not out,1,DNB,-,-,-,-

@@ -1,0 +1,85 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+592735,Sandeep Warrier,17 Mar 2013,v Hyderabad,Shimoga,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+592735,Sandeep Warrier,18 Mar 2013,v Karnataka,Bhadravati,2,11,7*,-,21,0,0,33.33,not out,1,4.0,0,38,0,9.5
+592735,Sandeep Warrier,19 Mar 2013,v Andhra,Shimoga,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+592735,Sandeep Warrier,21 Mar 2013,v Tamil Nadu,Shimoga,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+592735,Sandeep Warrier,22 Mar 2013,v Goa,Bhadravati,1,11,0*,-,0,0,0,-,not out,2,4.0,0,19,3,4.75
+592735,Sandeep Warrier,26 Mar 2013,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+592735,Sandeep Warrier,28 Mar 2013,v Vidarbha,Indore,2,11,4*,-,3,1,0,133.33,not out,1,4.0,0,33,1,8.25
+592735,Sandeep Warrier,29 Mar 2013,v Odisha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+592735,Sandeep Warrier,30 Mar 2013,v Gujarat,Indore,2,11,1,-,3,0,0,33.33,run out,1,4.0,0,29,1,7.25
+592735,Sandeep Warrier,1 Apr 2014,v Hyderabad,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,0,13.33
+592735,Sandeep Warrier,25 Mar 2015,v Goa,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+592735,Sandeep Warrier,26 Mar 2015,v Tamil Nadu,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.2,0,20,1,6
+592735,Sandeep Warrier,27 Mar 2015,v Hyderabad,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+592735,Sandeep Warrier,28 Mar 2015,v Andhra,Kochi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+592735,Sandeep Warrier,2 Jan 2016,v J & K,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+592735,Sandeep Warrier,3 Jan 2016,v Rajasthan,Kochi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+592735,Sandeep Warrier,4 Jan 2016,v Tripura,Kochi,2,-,DNB,-,-,-,-,-,-,1,3.5,0,26,2,6.78
+592735,Sandeep Warrier,6 Jan 2016,v Saurashtra,Kochi,1,11,1*,1,1,0,0,100,not out,2,4.0,0,23,1,5.75
+592735,Sandeep Warrier,9 Jan 2016,v Punjab,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+592735,Sandeep Warrier,10 Jan 2016,v Jharkhand,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+592735,Sandeep Warrier,15 Jan 2016,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.1,0,28,1,8.84
+592735,Sandeep Warrier,16 Jan 2016,v Baroda,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+592735,Sandeep Warrier,18 Jan 2016,v Vidarbha,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.3,0,9,1,3.6
+592735,Sandeep Warrier,29 Jan 2017,v Andhra,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+592735,Sandeep Warrier,30 Jan 2017,v Karnataka,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+592735,Sandeep Warrier,31 Jan 2017,v Hyderabad,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+592735,Sandeep Warrier,2 Feb 2017,v Goa,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.4,0,26,1,7.09
+592735,Sandeep Warrier,3 Feb 2017,v Tamil Nadu,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.4,0,18,2,4.9
+592735,Sandeep Warrier,16 Feb 2017,v West Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+592735,Sandeep Warrier,18 Feb 2017,v Central Zone,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,1,13
+592735,Sandeep Warrier,8 Jan 2018,v Hyderabad,Vizianagaram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+592735,Sandeep Warrier,9 Jan 2018,v Tamil Nadu,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+592735,Sandeep Warrier,11 Jan 2018,v Andhra,Visakhapatnam,1,11,0,2,1,0,0,0,lbw,2,2.0,0,21,0,10.5
+592735,Sandeep Warrier,14 Jan 2018,v Karnataka,Vizianagaram,2,11,0,1,1,0,0,0,caught,1,4.0,0,38,1,9.5
+592735,Sandeep Warrier,21 Feb 2019,v Manipur,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+592735,Sandeep Warrier,24 Feb 2019,v Andhra,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,3.4,0,27,3,7.36
+592735,Sandeep Warrier,25 Feb 2019,v Delhi,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+592735,Sandeep Warrier,27 Feb 2019,v J & K,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,3.0,0,6,1,2
+592735,Sandeep Warrier,28 Feb 2019,v Nagaland,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+592735,Sandeep Warrier,2 Mar 2019,v Jharkhand,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,3.1,0,21,2,6.63
+592735,Sandeep Warrier,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+592735,Sandeep Warrier,3 May 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+592735,Sandeep Warrier,5 May 2019,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+592735,Sandeep Warrier,8 Nov 2019,v Tamil Nadu,Thumba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+592735,Sandeep Warrier,14 Nov 2019,v Vidarbha,Thumba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+592735,Sandeep Warrier,15 Nov 2019,v Rajasthan,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,0,13
+592735,Sandeep Warrier,17 Nov 2019,v UP,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,1.0,0,3,0,3
+592735,Sandeep Warrier,23 Sep 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+592735,Sandeep Warrier,10 Jan 2021,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+592735,Sandeep Warrier,12 Jan 2021,v Assam,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+592735,Sandeep Warrier,14 Jan 2021,v Odisha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+592735,Sandeep Warrier,16 Jan 2021,v Hyderabad,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+592735,Sandeep Warrier,18 Jan 2021,v Bengal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+592735,Sandeep Warrier,26 Jan 2021,v Himachal,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+592735,Sandeep Warrier,29 Jul 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+592735,Sandeep Warrier,28 Sep 2021,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+592735,Sandeep Warrier,4 Nov 2021,v Maharashtra,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+592735,Sandeep Warrier,5 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+592735,Sandeep Warrier,6 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+592735,Sandeep Warrier,9 Nov 2021,v Punjab,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+592735,Sandeep Warrier,18 Nov 2021,v Kerala,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.3,0,25,0,10
+592735,Sandeep Warrier,20 Nov 2021,v Hyderabad,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+592735,Sandeep Warrier,22 Nov 2021,v Karnataka,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+592735,Sandeep Warrier,11 Oct 2022,v Chhattisgarh,Lucknow,2,11,0*,-,0,0,0,-,not out,1,3.0,0,18,1,6
+592735,Sandeep Warrier,12 Oct 2022,v Odisha,Lucknow,2,-,sub,-,-,-,-,-,-,1,3.0,0,15,0,5
+592735,Sandeep Warrier,14 Oct 2022,v Sikkim,Lucknow,2,-,sub,-,-,-,-,-,-,1,2.0,0,7,0,3.5
+592735,Sandeep Warrier,16 Oct 2022,v Bengal,Lucknow,2,-,sub,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+592735,Sandeep Warrier,20 Oct 2022,v Chandigarh,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.1,0,17,2,5.36
+592735,Sandeep Warrier,17 Oct 2023,v UP,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,11,1,3.66
+592735,Sandeep Warrier,19 Oct 2023,v Tripura,Dehradun,2,-,DNB,-,-,-,-,-,-,1,3.0,1,10,0,3.33
+592735,Sandeep Warrier,25 Oct 2023,v M. Pradesh,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+592735,Sandeep Warrier,27 Oct 2023,v Nagaland,Dehradun,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+592735,Sandeep Warrier,17 Apr 2024,v DC,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,2,13.33
+592735,Sandeep Warrier,21 Apr 2024,v Punjab Kings,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,1.0,0,21,0,21
+592735,Sandeep Warrier,24 Apr 2024,v DC,Delhi,2,-,sub,-,-,-,-,-,-,1,3.0,0,15,3,5
+592735,Sandeep Warrier,28 Apr 2024,v RCB,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,1.0,0,15,0,15
+592735,Sandeep Warrier,10 May 2024,v CSK,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+592735,Sandeep Warrier,23 Nov 2024,v Tripura,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+592735,Sandeep Warrier,25 Nov 2024,v Sikkim,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,1,3.5
+592735,Sandeep Warrier,27 Nov 2024,v Baroda,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,1,33,1,11
+592735,Sandeep Warrier,29 Nov 2024,v Gujarat,Indore,2,10,3,-,5,0,0,60,caught,1,4.0,0,15,2,3.75
+592735,Sandeep Warrier,1 Dec 2024,v Karnataka,Indore,1,10,9*,-,20,1,0,45,not out,2,2.3,0,24,0,9.6
+592735,Sandeep Warrier,3 Dec 2024,v Saurashtra,Indore,2,10,1*,-,1,0,0,100,not out,1,4.0,0,40,0,10
+592735,Sandeep Warrier,5 Dec 2024,v Uttarakhand,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,4,5.25

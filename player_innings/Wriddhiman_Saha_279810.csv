@@ -1,0 +1,256 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+279810,Wriddhiman Saha,3 Apr 2007,v Assam,Eden Gardens,1,1,25,13,17,6,0,147.05,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Apr 2007,v Jharkhand,Eden Gardens,1,2,13,37,15,1,0,86.66,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 Apr 2007,v Tamil Nadu,Ahmedabad,1,3,12,25,15,2,0,80,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Apr 2007,v Mumbai,Ahmedabad,2,1,6,22,13,0,0,46.15,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 Apr 2008,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Apr 2008,v Chargers,Eden Gardens,2,1,10,-,17,1,0,58.82,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Apr 2008,v CSK,Chennai,1,4,27,16,16,5,1,168.75,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 May 2008,v RR,Jaipur,2,8,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 May 2008,v Kings XI,Mohali,2,7,59*,-,32,2,4,184.37,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 May 2008,v RCB,Eden Gardens,1,7,17*,-,10,1,1,170,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 May 2008,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 May 2008,v Daredevils,Eden Gardens,1,7,5*,-,6,0,0,83.33,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 May 2008,v MI,Wankhede,1,6,1,-,6,0,0,16.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 May 2008,v CSK,Eden Gardens,1,7,15*,-,9,1,0,166.66,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 May 2008,v RR,Eden Gardens,1,7,11*,-,6,0,1,183.33,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 May 2008,v Kings XI,Eden Gardens,2,6,13,-,15,2,0,86.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Apr 2009,v RCB,Durban,1,6,21,-,14,0,1,150,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 May 2009,v MI,East London,2,7,8*,-,4,1,0,200,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 May 2009,v Kings XI,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 May 2009,v Daredevils,Durban,1,5,1*,-,1,0,0,100,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 May 2009,v Daredevils,Johannesburg,1,6,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 May 2009,v RCB,Centurion,1,6,10*,-,5,0,1,200,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 May 2009,v Chargers,Johannesburg,1,5,7,-,3,0,1,233.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 May 2009,v CSK,Centurion,2,5,25*,-,13,2,1,192.3,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Oct 2009,v Assam,Dhanbad,2,1,40,32,26,6,1,153.84,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Oct 2009,v Jharkhand,Dhanbad,1,1,15,15,10,1,1,150,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Oct 2009,v Orissa,Dhanbad,2,1,6,15,7,1,0,85.71,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Oct 2009,v Tripura,Dhanbad,1,1,71,50,41,10,2,173.17,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Mar 2010,v Chargers,DY Patil,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 Mar 2010,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 Mar 2010,v CSK,Eden Gardens,2,4,22,-,13,5,0,169.23,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Mar 2010,v RR,Ahmedabad,2,7,1*,-,2,0,0,50,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Mar 2010,v MI,Brabourne,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Mar 2010,v Kings XI,Mohali,1,7,0*,-,0,0,0,-,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Mar 2010,v Daredevils,Delhi,2,7,20*,-,17,2,0,117.64,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 Apr 2010,v Chargers,Eden Gardens,1,7,10*,-,4,2,0,250,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Apr 2010,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 Apr 2010,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 Apr 2010,v RCB,Bengaluru,1,6,13,-,15,0,1,86.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 Apr 2010,v CSK,Chennai,1,7,1,-,2,0,0,50,stumped,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Apr 2010,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Oct 2010,v Assam,Cuttack,2,3,13,10,9,1,1,144.44,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Oct 2010,v Jharkhand,Cuttack,1,3,5,10,6,0,0,83.33,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Oct 2010,v Tripura,Cuttack,1,6,7,15,9,0,0,77.77,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Oct 2010,v Orissa,Cuttack,1,5,9,9,11,1,0,81.81,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Mar 2011,v Vidarbha,Hyderabad,1,5,19*,19,9,0,2,211.11,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 Mar 2011,v Maharashtra,Hyderabad,1,6,85*,50,41,5,6,207.31,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 Mar 2011,v Tamil Nadu,Hyderabad,1,6,19,26,21,0,0,90.47,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 Mar 2011,v M. Pradesh,Hyderabad,1,6,36,22,24,1,3,150,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2011,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 May 2011,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 May 2011,v Daredevils,Chennai,1,6,0*,-,0,0,0,-,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 May 2011,v Kochi,Chennai,1,5,46*,-,33,1,3,139.39,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 May 2011,v RCB,Bengaluru,1,5,22,38,30,1,1,73.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 May 2011,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 May 2011,v RCB,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Sep 2011,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Sep 2011,v Cape Cobras,Chennai,2,5,6,14,8,0,0,75,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 Oct 2011,v Trinidad & T,Chennai,2,5,8,16,11,0,0,72.72,lbw,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Oct 2011,v NSW,Chennai,2,7,0,-,0,0,0,-,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Oct 2011,v Assam,Jamshedpur,1,4,17,18,24,0,1,70.83,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Oct 2011,v Tripura,Jamshedpur,2,4,35*,45,33,2,1,106.06,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Oct 2011,v Orissa,Jamshedpur,1,4,1,2,2,0,0,50,lbw,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Mar 2012,v Baroda,Mumbai,1,2,10,-,12,1,1,83.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Apr 2012,v Warriors,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Apr 2012,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Apr 2012,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+279810,Wriddhiman Saha,28 Apr 2012,v Kings XI,Chennai,2,4,6,23,14,0,0,42.85,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Jun 2012,v W. Indies A,Port of Spain,1,6,1,1,2,0,0,50,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Jun 2012,v W. Indies A,Port of Spain,1,5,2,10,3,0,0,66.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 Oct 2012,v Lions,Cape Town,1,8,0*,1,0,0,0,-,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Oct 2012,v MI,Johannesburg,1,8,5,10,7,0,0,71.42,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Oct 2012,v Yorkshire,Durban,2,8,1*,1,1,0,0,100,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Mar 2013,v Assam,Agartala,1,6,15,-,16,1,0,93.75,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Mar 2013,v Jharkhand,Agartala,1,5,27*,-,27,0,1,100,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Mar 2013,v Tripura,Agartala,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Mar 2013,v Odisha,Agartala,2,5,10,-,15,0,0,66.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Mar 2013,v Baroda,Indore,1,3,1,-,5,0,0,20,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Mar 2013,v UP,Indore,1,3,64*,-,35,7,2,182.85,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Mar 2013,v Punjab,Indore,2,4,22,20,19,2,0,115.78,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Mar 2013,v Karnataka,Indore,1,5,7,7,11,0,0,63.63,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Apr 2013,v KKR,Chennai,1,1,39,47,23,4,2,169.56,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,30 Apr 2013,v Warriors,Pune,1,2,13,23,15,1,1,86.66,lbw,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 May 2013,v Kings XI,Chennai,1,1,18,15,18,1,1,100,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 Apr 2014,v Assam,Eden Gardens,1,5,0,7,3,0,0,0,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 Apr 2014,v Jharkhand,Eden Gardens,2,2,54,65,37,7,1,145.94,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Apr 2014,v Tripura,Jadavpur Uni,1,2,71,40,37,9,3,191.89,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 Apr 2014,v Odisha,Eden Gardens,1,3,7,12,10,1,0,70,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 Apr 2014,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Apr 2014,v RR,Sharjah,2,3,2,4,3,0,0,66.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Apr 2014,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Apr 2014,v KKR,Abu Dhabi,1,3,14,11,10,1,1,140,lbw,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Apr 2014,v RCB,Dubai (DICS),2,3,2,7,6,0,0,33.33,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 May 2014,v MI,Wankhede,1,3,59*,88,47,4,3,125.53,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2014,v CSK,Cuttack,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 May 2014,v RCB,Bengaluru,1,6,17,32,17,0,1,100,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 May 2014,v KKR,Cuttack,1,3,15,19,9,3,0,166.66,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 May 2014,v SRH,Hyderabad,2,3,54,31,26,8,2,207.69,stumped,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 May 2014,v Daredevils,Delhi,2,5,13,29,13,1,0,100,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 May 2014,v MI,Mohali,1,6,3,11,8,0,0,37.5,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 May 2014,v RR,Mohali,1,4,27,32,20,4,0,135,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 May 2014,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 May 2014,v KKR,Eden Gardens,2,3,35,49,31,2,2,112.9,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,30 May 2014,v CSK,Wankhede,1,6,6,-,4,0,1,150,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 Jun 2014,v KKR,Bengaluru,1,4,115*,66,55,10,8,209.09,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 Sep 2014,v Hurricanes,Mohali,2,3,11,11,9,1,0,122.22,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Sep 2014,v Tridents,Mohali,2,3,14,19,13,1,0,107.69,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Sep 2014,v Northern Dis,Mohali,1,7,2*,9,3,0,0,66.66,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Sep 2014,v Cape Cobras,Mohali,2,3,42*,56,35,3,1,120,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 Oct 2014,v CSK,Hyderabad,2,3,6,15,7,1,0,85.71,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Mar 2015,v Assam,Cuttack,2,2,7,12,4,0,1,175,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Mar 2015,v Jharkhand,Cuttack,1,3,2,11,3,0,0,66.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Mar 2015,v Tripura,Cuttack,1,2,62,38,30,5,6,206.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Mar 2015,v Odisha,Cuttack,1,1,33,26,15,4,2,220,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 Apr 2015,v RR,Pune,2,3,7,11,4,1,0,175,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Apr 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 Apr 2015,v Daredevils,Pune,1,3,39,38,28,0,3,139.28,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 Apr 2015,v KKR,Pune,1,3,15,14,11,1,1,136.36,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Apr 2015,v RR,Ahmedabad,2,6,19,14,8,4,0,237.5,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Apr 2015,v CSK,Chennai,2,6,15,35,23,0,0,65.21,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Apr 2015,v SRH,Mohali,2,6,42,47,33,2,1,127.27,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 May 2015,v Daredevils,Delhi,1,4,3,10,8,0,0,37.5,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 May 2015,v MI,Mohali,2,6,12,21,12,1,0,100,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,6 May 2015,v RCB,Bengaluru,2,3,13,24,11,1,1,118.18,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 May 2015,v KKR,Eden Gardens,1,3,33,57,25,0,2,132,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 May 2015,v SRH,Hyderabad,2,3,5,20,10,0,0,50,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 May 2015,v RCB,Mohali,1,1,31,-,12,5,1,258.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 May 2015,v CSK,Mohali,1,1,15,9,12,1,1,125,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 Jan 2016,v Hyderabad,Nagpur,1,1,81,71,47,7,5,172.34,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 Jan 2016,v Tamil Nadu,Nagpur,2,1,2,10,7,0,0,28.57,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Jan 2016,v Himachal,Nagpur,1,1,0,3,5,0,0,0,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,6 Jan 2016,v Gujarat,Nagpur,1,1,12,22,11,2,0,109.09,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 Jan 2016,v Vidarbha,Nagpur,1,3,9,15,10,1,0,90,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 Jan 2016,v Haryana,Nagpur,2,4,32,52,29,1,0,110.34,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 Apr 2016,v Guj Lions,Mohali,1,5,20,41,25,0,0,80,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 Apr 2016,v Daredevils,Delhi,1,7,3,8,7,0,0,42.85,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Apr 2016,v Supergiants,Mohali,2,6,4*,11,4,0,0,100,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Apr 2016,v KKR,Mohali,1,4,8,12,14,0,0,57.14,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 May 2016,v Guj Lions,Rajkot,1,7,33,31,19,4,0,173.68,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 May 2016,v KKR,Eden Gardens,2,4,24,24,20,3,0,120,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2016,v Daredevils,Mohali,1,4,52,53,33,7,0,157.57,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 May 2016,v RCB,Mohali,2,3,16,26,13,1,0,123.07,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 May 2016,v MI,Visakhapatnam,2,3,56,62,40,6,1,140,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 May 2016,v SRH,Mohali,1,3,27,28,23,3,0,117.39,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 May 2016,v RCB,Bengaluru,2,3,24,-,10,5,0,240,lbw,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 May 2016,v Supergiants,Visakhapatnam,1,3,3,4,4,0,0,75,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,31 Jan 2017,v Tripura,Eden Gardens,1,3,12,11,9,1,0,133.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,1 Feb 2017,v Assam,Eden Gardens,2,2,74*,67,45,11,1,164.44,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 Feb 2017,v Odisha,Eden Gardens,1,2,10,17,11,0,0,90.9,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 Feb 2017,v Jharkhand,Eden Gardens,2,2,5,7,3,1,0,166.66,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 Apr 2017,v Supergiant,Indore,2,3,14,-,9,3,0,155.55,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 Apr 2017,v RCB,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 Apr 2017,v KKR,Eden Gardens,1,6,25,27,17,2,2,147.05,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 Apr 2017,v Daredevils,Delhi,2,3,7,9,5,1,0,140,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Apr 2017,v SRH,Hyderabad,2,6,0,1,2,0,0,0,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,20 Apr 2017,v MI,Indore,1,3,11,19,15,0,0,73.33,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Apr 2017,v Guj Lions,Rajkot,1,7,10,10,5,0,1,200,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Apr 2017,v SRH,Mohali,2,6,2,8,4,0,0,50,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,30 Apr 2017,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 May 2017,v RCB,Bengaluru,1,5,21,48,25,1,0,84,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2017,v Guj Lions,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 May 2017,v KKR,Mohali,1,4,38,57,33,2,1,115.15,stumped,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 May 2017,v MI,Wankhede,1,2,93*,109,55,11,3,169.09,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 May 2017,v Supergiant,Pune,1,2,13,49,17,0,1,76.47,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 Apr 2018,v RR,Hyderabad,2,1,5,-,5,1,0,100,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Apr 2018,v MI,Hyderabad,2,1,22,-,20,3,0,110,lbw,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 Apr 2018,v KKR,Eden Gardens,2,1,24,-,15,5,0,160,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Apr 2018,v Kings XI,Mohali,2,1,6,-,7,1,0,85.71,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Apr 2018,v CSK,Hyderabad,2,7,5*,-,5,0,0,100,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Apr 2018,v MI,Wankhede,1,3,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Apr 2018,v Kings XI,Hyderabad,1,3,6,-,9,1,0,66.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Apr 2018,v RR,Jaipur,1,7,11*,-,7,1,0,157.14,not out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 May 2018,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2018,v RCB,Hyderabad,1,7,8,-,5,0,1,160,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 May 2018,v KKR,Eden Gardens,1,1,35,-,27,5,0,129.62,stumped,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Feb 2019,v Mizoram,Cuttack,1,5,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Feb 2019,v Karnataka,Cuttack,1,5,6,-,6,0,0,100,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Feb 2019,v Haryana,Cuttack,2,5,3,-,4,0,0,75,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Feb 2019,v Assam,Cuttack,2,6,11,-,12,1,0,91.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Feb 2019,v Arunachal,Cuttack,1,2,129,-,62,16,4,208.06,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Feb 2019,v Chhattisgarh,Cuttack,1,2,26,-,17,3,1,152.94,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 Mar 2019,v Odisha,Cuttack,2,2,52,-,31,5,3,167.74,stumped,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 Mar 2019,v Railways,Indore,2,2,0,2,3,0,0,0,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 Mar 2019,v Maharashtra,Indore,1,2,0,2,2,0,0,0,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 Mar 2019,v Jharkhand,Indore,2,2,24,36,16,0,2,150,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Mar 2019,v Gujarat,Indore,2,2,53*,74,47,5,1,112.76,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Apr 2019,v RR,Jaipur,1,7,5,9,5,0,0,100,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Apr 2019,v Kings XI,Hyderabad,1,2,28,34,13,3,1,215.38,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 May 2019,v MI,Wankhede,2,1,25,20,15,5,0,166.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 May 2019,v RCB,Bengaluru,1,1,20,21,11,4,0,181.81,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 May 2019,v DC,Visakhapatnam,1,1,8,19,9,1,0,88.88,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Sep 2020,v KKR,Abu Dhabi,1,4,30,-,31,1,1,96.77,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Oct 2020,v DC,Dubai (DICS),1,2,87,-,45,12,2,193.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,31 Oct 2020,v RCB,Sharjah,2,2,39,-,32,4,1,121.87,stumped,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 Nov 2020,v MI,Sharjah,2,2,58*,-,45,7,1,128.88,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 Apr 2021,v KKR,Chennai,2,1,7,13,6,0,1,116.66,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 Apr 2021,v RCB,Chennai,2,1,1,13,9,0,0,11.11,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Sep 2021,v DC,Dubai (DICS),1,2,18,25,17,2,1,105.88,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Sep 2021,v Punjab Kings,Sharjah,2,2,31,77,37,1,0,83.78,run out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Sep 2021,v RR,Dubai (DICS),2,2,18,26,11,2,1,163.63,stumped,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,30 Sep 2021,v CSK,Sharjah,1,2,44,58,46,1,2,95.65,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 Oct 2021,v KKR,Dubai (DICS),1,2,0,4,1,0,0,0,lbw,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,6 Oct 2021,v RCB,Abu Dhabi,1,6,10,14,8,1,0,125,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 Oct 2021,v MI,Abu Dhabi,2,9,2,8,5,0,0,40,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Nov 2021,v Chhattisgarh,Guwahati,2,4,24,-,22,4,0,109.09,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 Nov 2021,v Baroda,Guwahati,1,4,7,-,10,0,0,70,lbw,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,6 Nov 2021,v Mumbai,Guwahati,2,4,15,-,17,1,0,88.23,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,8 Nov 2021,v Services,Guwahati,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 Nov 2021,v Karnataka,Guwahati,2,4,27,-,23,2,1,117.39,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Apr 2022,v CSK,Pune,2,1,11,38,18,0,0,61.11,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 Apr 2022,v KKR,DY Patil,1,1,25,52,25,2,1,100,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,27 Apr 2022,v SRH,Wankhede,2,1,68,65,38,11,1,178.94,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,30 Apr 2022,v RCB,Brabourne,2,1,29,36,22,4,0,131.81,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,3 May 2022,v Punjab Kings,DY Patil,1,1,21,18,17,3,1,123.52,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,6 May 2022,v MI,Brabourne,2,1,55,58,40,6,2,137.5,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,10 May 2022,v LSG,Pune,1,1,5,13,11,1,0,45.45,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 May 2022,v CSK,Wankhede,2,1,67*,86,57,8,1,117.54,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 May 2022,v RCB,Wankhede,1,1,31,43,22,4,1,140.9,run out,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 May 2022,v RR,Eden Gardens,2,1,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 May 2022,v RR,Ahmedabad,2,1,5,8,7,1,0,71.42,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,11 Oct 2022,v Goa,Jaipur,1,2,5,-,8,1,0,62.5,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 Oct 2022,v UP,Jaipur,2,2,7,-,12,0,0,58.33,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,14 Oct 2022,v Punjab,Jaipur,1,2,62,-,55,6,1,112.72,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 Oct 2022,v Hyderabad,Jaipur,1,4,13,-,15,1,0,86.66,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,18 Oct 2022,v Puducherry,Jaipur,1,3,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Oct 2022,v Delhi,Jaipur,1,2,28,-,20,3,1,140,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,31 Mar 2023,v CSK,Ahmedabad,2,1,25,-,16,2,2,156.25,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Apr 2023,v DC,Delhi,2,1,14,9,7,2,1,200,bowled,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,9 Apr 2023,v KKR,Ahmedabad,1,1,17,24,17,3,0,100,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,13 Apr 2023,v Punjab Kings,Mohali,2,1,30,-,19,5,0,157.89,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,16 Apr 2023,v RR,Ahmedabad,1,1,4,4,3,1,0,133.33,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,22 Apr 2023,v LSG,Lucknow,1,1,47,51,37,6,0,127.02,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,25 Apr 2023,v MI,Ahmedabad,1,1,4,13,7,0,0,57.14,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,29 Apr 2023,v KKR,Eden Gardens,2,1,10,21,10,1,0,100,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,2 May 2023,v DC,Ahmedabad,2,1,0,6,6,0,0,0,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,5 May 2023,v RR,Jaipur,2,1,41*,55,34,5,0,120.58,not out,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,7 May 2023,v LSG,Ahmedabad,1,1,81,59,43,10,4,188.37,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,12 May 2023,v MI,Wankhede,2,1,2,10,5,0,0,40,lbw,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,15 May 2023,v SRH,Ahmedabad,1,1,0,4,3,0,0,0,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 May 2023,v RCB,Bengaluru,2,1,12,15,14,2,0,85.71,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,23 May 2023,v CSK,Chennai,2,1,12,14,11,2,0,109.09,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 May 2023,v MI,Ahmedabad,1,1,18,31,16,3,0,112.5,stumped,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 May 2023,v CSK,Ahmedabad,1,1,54,63,39,5,1,138.46,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Oct 2023,v Nagaland,Dehradun,2,2,41,-,42,5,0,97.61,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,19 Oct 2023,v Tamil Nadu,Dehradun,1,2,4,-,7,1,0,57.14,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Oct 2023,v M. Pradesh,Dehradun,2,2,20,-,12,4,0,166.66,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Mar 2024,v MI,Ahmedabad,1,1,19,18,15,4,0,126.66,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,26 Mar 2024,v CSK,Chennai,2,1,21,28,17,4,0,123.52,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,31 Mar 2024,v SRH,Ahmedabad,2,1,25,18,13,1,2,192.3,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 Apr 2024,v Punjab Kings,Ahmedabad,1,1,11,14,13,2,0,84.61,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,17 Apr 2024,v DC,Ahmedabad,1,1,2,21,10,0,0,20,bowled,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,21 Apr 2024,v Punjab Kings,New Chandigarh,2,1,13,15,11,1,0,118.18,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,24 Apr 2024,v DC,Delhi,2,1,39,43,25,5,1,156,caught,1,DNB,-,-,-,-
+279810,Wriddhiman Saha,28 Apr 2024,v RCB,Ahmedabad,1,1,5,4,4,1,0,125,caught,2,DNB,-,-,-,-
+279810,Wriddhiman Saha,4 May 2024,v RCB,Bengaluru,1,1,1,5,7,0,0,14.28,caught,2,DNB,-,-,-,-

@@ -1,0 +1,277 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+436757,Heinrich Klaasen,13 Nov 2011,v North West,Potchefstroom,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Jan 2012,v Gauteng,Centurion,2,5,17,9,9,0,2,188.88,stumped,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Jan 2012,v Free State,Pretoria,1,5,18*,20,19,0,1,94.73,retired notout,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Jan 2013,v W Province,Centurion,1,6,7,15,12,0,0,58.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Jan 2013,v Border,Pretoria,1,7,6*,6,5,0,0,120,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Feb 2013,v KZ-Natal,Pretoria,2,6,14*,20,13,1,0,107.69,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Feb 2013,v KZN-Inland,Pietermaritzburg,1,6,16,17,14,0,1,114.28,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Mar 2013,v S West D,Oudtshoorn,1,6,1,5,3,0,0,33.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Mar 2013,v Boland,Paarl,1,5,1*,1,2,0,0,50,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Mar 2013,v E. Province,Pretoria,1,7,0,2,1,0,0,0,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Mar 2014,v North West,Potchefstroom,1,5,6,13,6,0,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 Nov 2014,v Free State,Bloemfontein,1,4,3,6,5,0,0,60,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Nov 2014,v Lions,Benoni,1,6,15,10,6,0,2,250,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Nov 2014,v Warriors,Centurion,1,5,7*,17,9,0,0,77.77,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Nov 2014,v Dolphins,Benoni,1,5,19,24,12,3,0,158.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Nov 2014,v Lions,Potchefstroom,2,5,44,28,24,2,2,183.33,run out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Nov 2014,v Warriors,Bloemfontein,2,5,13,20,14,0,0,92.85,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Jan 2015,v Easterns,Benoni,1,6,41*,26,17,1,4,241.17,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Feb 2015,v Namibia,Pretoria,1,6,1,5,4,0,0,25,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Feb 2015,v E. Province,Centurion,2,5,15*,16,9,0,1,166.66,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Sep 2015,v Zim Pres XI,Benoni,2,4,0,2,1,0,0,0,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Sep 2015,v Easterns,Benoni,2,4,72*,60,39,6,3,184.61,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Oct 2015,v KZ-Natal,Bloemfontein,1,6,2*,1,1,0,0,200,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,4 Oct 2015,v KZN-Inland,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,1 Nov 2015,v Easterns,Centurion,2,3,34*,44,35,4,1,97.14,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Nov 2015,v Gauteng,Johannesburg,2,4,73*,58,46,6,5,158.69,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Nov 2015,v KZN-Inland,Pretoria,1,4,30,38,34,0,1,88.23,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,29 Nov 2015,v Boland,Paarl,1,4,42*,30,27,3,1,155.55,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Sep 2016,v Kenya,Oudtshoorn,1,4,72,-,38,7,2,189.47,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Sep 2016,v Northern Cpe,Oudtshoorn,1,4,77*,46,37,6,4,208.1,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Sep 2016,v S West D,Oudtshoorn,1,4,32,49,30,2,0,106.66,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Nov 2016,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Nov 2016,v Cape Cobras,Paarl,2,2,46,63,39,2,0,117.94,run out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Nov 2016,v Knights,Benoni,2,1,52,56,30,6,2,173.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Nov 2016,v Dolphins,Bloemfontein,1,3,15,13,11,2,0,136.36,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Nov 2016,v Cape Cobras,Centurion,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Nov 2016,v Knights,Kimberley,1,2,13,23,8,1,1,162.5,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Nov 2016,v Dolphins,Durban,1,1,5,13,9,0,0,55.55,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 Dec 2016,v Warriors,Centurion,1,3,26,27,17,3,1,152.94,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,7 Dec 2016,v Lions,Centurion,1,3,26,17,15,2,1,173.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Dec 2016,v Warriors,East London,1,3,17*,-,9,1,1,188.88,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Dec 2016,v Warriors,Centurion,1,3,19,15,14,2,1,135.71,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Nov 2017,v Dolphins,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,1 Dec 2017,v Warriors,Benoni,1,4,16*,33,9,0,1,177.77,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Dec 2017,v Dolphins,Durban,2,4,10,24,13,0,0,76.92,stumped,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Dec 2017,v Warriors,Centurion,2,3,24,18,15,2,0,160,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Feb 2018,v India,Johannesburg,2,6,16,13,8,1,1,200,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Feb 2018,v India,Centurion,2,4,69,40,30,3,7,230,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Feb 2018,v India,Cape Town,2,4,7,17,10,0,0,70,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Apr 2018,v CSK,Pune,2,2,7,-,7,1,0,100,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Apr 2018,v MI,Jaipur,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 May 2018,v RCB,Jaipur,1,5,32,-,21,3,1,152.38,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 May 2018,v KKR,Eden Gardens,2,4,18*,-,18,1,0,100,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,5,18,-,16,1,1,112.5,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Oct 2018,v Zimbabwe,Potchefstroom,2,5,22,19,15,1,2,146.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Nov 2018,v Australia,Carrara,1,4,12,-,6,2,0,200,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Nov 2018,v Spartans,Durban,2,3,21,24,21,1,1,100,caught,1,1.0,0,7,0,7
+436757,Heinrich Klaasen,23 Nov 2018,v Giants,Gqeberha,1,3,4,7,5,1,0,80,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Nov 2018,v Paarl Rocks,Durban,2,4,2,7,5,0,0,40,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Nov 2018,v Jozi Stars,Johannesburg,2,4,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 Dec 2018,v Paarl Rocks,Paarl,1,5,4,9,9,0,0,44.44,caught,2,2.0,0,17,0,8.5
+436757,Heinrich Klaasen,9 Dec 2018,v Blitz,Cape Town,2,6,0*,1,0,0,0,-,not out,1,2.0,0,12,1,6
+436757,Heinrich Klaasen,12 Dec 2018,v Spartans,Centurion,2,6,36,44,26,1,3,138.46,caught,1,1.0,0,18,0,18
+436757,Heinrich Klaasen,1 Feb 2019,v Pakistan,Cape Town,1,7,5*,12,5,0,0,100,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Feb 2019,v Pakistan,Johannesburg,1,5,5*,27,7,0,0,71.42,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Feb 2019,v Pakistan,Centurion,2,4,2,20,10,0,0,20,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Apr 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Apr 2019,v DC,Delhi,2,5,3,4,3,0,0,100,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Apr 2019,v RR,Bengaluru,1,4,6,16,7,0,0,85.71,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Nov 2019,v Giants,Centurion,1,5,12,9,10,2,0,120,caught,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,17 Nov 2019,v Paarl Rocks,Paarl,2,4,31*,20,13,3,2,238.46,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Nov 2019,v Durban Heat,Centurion,1,4,23,20,16,3,1,143.75,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Nov 2019,v Jozi Stars,Johannesburg,1,5,10,8,9,1,0,111.11,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,29 Nov 2019,v Paarl Rocks,Centurion,2,4,36*,30,20,1,2,180,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,1 Dec 2019,v Blitz,Cape Town,2,5,13,23,17,1,0,76.47,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Dec 2019,v Giants,Gqeberha,1,4,3,6,5,0,0,60,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Dec 2019,v Giants,Gqeberha,1,4,9,14,11,1,0,81.81,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Dec 2019,v Paarl Rocks,Paarl,1,4,21,19,19,2,0,110.52,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Feb 2020,v England,Centurion,1,4,66,43,33,4,4,200,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Feb 2020,v Australia,Cape Town,2,4,22,21,18,1,1,122.22,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Nov 2020,v England,Cape Town,1,5,20,-,12,2,0,166.66,caught,2,1.0,0,14,0,14
+436757,Heinrich Klaasen,29 Nov 2020,v England,Paarl,1,6,7,-,10,0,0,70,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Feb 2021,v Pakistan,Lahore,2,5,12,22,10,2,0,120,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Feb 2021,v Pakistan,Lahore,2,6,17*,19,9,3,0,188.88,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Feb 2021,v Pakistan,Lahore,1,5,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Feb 2021,v Knights,Durban,2,5,54*,65,40,3,3,135,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Feb 2021,v Cape Cobras,Durban,1,5,7,8,7,1,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Feb 2021,v Lions,Durban,2,5,2,-,3,0,0,66.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Feb 2021,v Warriors,Durban,2,5,22,-,20,2,0,110,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Feb 2021,v Dolphins,Durban,2,6,29*,-,14,4,1,207.14,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Apr 2021,v Pakistan,Johannesburg,1,4,50,55,28,2,4,178.57,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Apr 2021,v Pakistan,Johannesburg,2,4,36*,36,21,4,1,171.42,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Apr 2021,v Pakistan,Centurion,1,5,15,12,10,2,0,150,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Apr 2021,v Pakistan,Centurion,1,4,9,25,12,1,0,75,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Jun 2021,v West Indies,St George's,1,5,7,16,12,0,0,58.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Jun 2021,v West Indies,St George's,1,6,10,28,11,0,0,90.9,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Jul 2021,v Ireland,Belfast,1,4,7*,16,5,1,0,140,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Sep 2021,v Sri Lanka,Colombo (RPS),1,4,2,9,4,0,0,50,lbw,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Sep 2021,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Oct 2021,v Australia,Abu Dhabi,1,5,13,19,13,2,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Oct 2021,v West Indies,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,7 Feb 2022,v Warriors,Gqeberha,2,4,20,23,20,2,0,100,lbw,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Feb 2022,v Boland,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Feb 2022,v Knights,Gqeberha,1,4,59*,84,41,4,2,143.9,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Feb 2022,v Dolphins,Gqeberha,2,4,16,19,14,1,1,114.28,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Feb 2022,v Lions,Gqeberha,2,4,44,52,33,1,3,133.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Feb 2022,v W Province,Gqeberha,2,4,33*,45,25,1,2,132,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Feb 2022,v North West,Gqeberha,1,4,54*,64,41,6,1,131.7,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Feb 2022,v Dolphins,Gqeberha,2,4,10,30,23,1,0,43.47,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Feb 2022,v Boland,Gqeberha,2,4,17,-,15,1,0,113.33,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 May 2022,v Zimbabwe XI,Harare,2,5,6,16,16,0,0,37.5,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,4 May 2022,v Zimbabwe XI,Harare,1,4,3,10,6,0,0,50,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,7 May 2022,v Zimbabwe XI,Harare,1,4,56,41,31,3,5,180.64,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 May 2022,v Zimbabwe XI,Harare,2,5,14,24,16,1,1,87.5,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 May 2022,v Zimbabwe XI,Harare,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Jun 2022,v India,Cuttack,2,5,81,59,46,7,5,176.08,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Jun 2022,v India,Visakhapatnam,2,5,29,38,24,3,1,120.83,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Jun 2022,v India,Rajkot,2,5,8,14,8,1,0,100,lbw,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Jun 2022,v India,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Jul 2022,v England,Bristol,2,4,20,25,14,3,0,142.85,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Jul 2022,v England,Cardiff,1,4,19,12,10,1,1,190,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Aug 2022,v Ireland,Bristol,1,5,6*,25,7,0,0,85.71,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Aug 2022,v Ireland,Bristol,1,5,39,-,16,5,2,243.75,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Sep 2022,v Tallawahs,Basseterre,1,6,22*,-,15,2,1,146.66,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Sep 2022,v Patriots,Gros Islet,1,5,10,8,8,1,0,125,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Sep 2022,v Kings,Gros Islet,2,4,61*,68,46,2,3,132.6,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Sep 2022,v Trinbago,Port of Spain,2,4,19,6,6,0,3,316.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Sep 2022,v Royals,Tarouba,2,5,6,-,11,0,0,54.54,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Nov 2022,v Pakistan,Sydney,2,5,15,18,9,3,0,166.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Nov 2022,v Netherlands,Adelaide,2,6,21,27,18,0,1,116.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Jan 2023,v Super Kings,Durban,2,3,20,29,21,1,0,95.23,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Jan 2023,v MI Cape Town,Cape Town,2,4,36,26,22,4,1,163.63,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Jan 2023,v Paarl Royals,Durban,1,4,50*,29,19,1,6,263.15,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Jan 2023,v Paarl Royals,Paarl,2,5,56*,74,39,2,2,143.58,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Jan 2023,v Capitals,Durban,1,4,31,44,24,1,2,129.16,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Jan 2023,v Sunrisers,Gqeberha,2,4,1,-,2,0,0,50,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Jan 2023,v Super Kings,Johannesburg,1,5,65,48,48,7,0,135.41,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 Feb 2023,v MI Cape Town,Durban,2,5,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Feb 2023,v Sunrisers,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Feb 2023,v Capitals,Centurion,1,3,104*,67,44,10,6,236.36,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Mar 2023,v West Indies,Centurion,1,6,1,6,2,0,0,50,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Mar 2023,v West Indies,Centurion,2,6,16*,15,7,3,0,228.57,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Mar 2023,v West Indies,Johannesburg,2,6,6,4,2,0,1,300,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Apr 2023,v Punjab Kings,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Apr 2023,v KKR,Eden Gardens,1,6,16*,13,6,2,1,266.66,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Apr 2023,v MI,Hyderabad,2,6,36,24,16,4,2,225,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Apr 2023,v CSK,Chennai,1,5,17,27,16,1,0,106.25,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Apr 2023,v DC,Hyderabad,2,6,31,25,19,3,1,163.15,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,29 Apr 2023,v DC,Delhi,1,6,53*,50,27,2,4,196.29,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,4 May 2023,v KKR,Hyderabad,2,6,36,34,20,1,3,180,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,7 May 2023,v RR,Jaipur,2,4,26,15,12,2,2,216.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 May 2023,v LSG,Hyderabad,1,5,47,52,29,3,3,162.06,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 May 2023,v GT,Ahmedabad,2,5,64,73,44,4,3,145.45,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 May 2023,v RCB,Hyderabad,1,4,104,62,51,8,6,203.92,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 May 2023,v MI,Wankhede,1,3,18,31,13,2,0,138.46,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 Aug 2023,v Spirit,Lord's,2,4,1,2,3,0,0,33.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Aug 2023,v Fire,The Oval,2,4,18,24,16,0,1,112.5,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Aug 2023,v Originals,The Oval,1,3,60,29,27,2,6,222.22,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Aug 2023,v N S-Chargers,Leeds,1,4,46,21,22,0,6,209.09,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Aug 2023,v Phoenix,Birmingham,2,4,0,5,3,0,0,0,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Aug 2023,v Spirit,The Oval,1,3,46*,42,24,1,4,191.66,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Aug 2023,v Brave,Southampton,1,4,18,13,11,3,0,163.63,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Dec 2023,v India,Gqeberha,2,4,7,7,5,0,1,140,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Dec 2023,v India,Johannesburg,2,4,5,11,5,1,0,100,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Jan 2024,v MI Cape Town,Durban,2,5,85,48,35,4,8,242.85,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Jan 2024,v Sunrisers,Gqeberha,1,5,13*,-,6,1,1,216.66,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Jan 2024,v Super Kings,Durban,1,6,64,62,41,7,2,156.09,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Jan 2024,v Capitals,Centurion,2,4,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Jan 2024,v Sunrisers,Durban,1,4,31,25,17,1,3,182.35,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Jan 2024,v MI Cape Town,Cape Town,1,5,6,7,7,1,0,85.71,lbw,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Jan 2024,v Paarl Royals,Paarl,1,5,30*,14,9,2,3,333.33,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Jan 2024,v Paarl Royals,Durban,1,6,50,22,17,2,6,294.11,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Jan 2024,v Capitals,Durban,1,4,30,26,18,1,2,166.66,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Feb 2024,v Super Kings,Johannesburg,1,6,40,21,16,3,3,250,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Feb 2024,v Sunrisers,Cape Town,2,6,23,24,15,0,2,153.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Feb 2024,v Super Kings,Johannesburg,1,5,74,52,30,3,7,246.66,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Feb 2024,v Sunrisers,Cape Town,2,6,0,5,1,0,0,0,lbw,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Mar 2024,v Warriors,Centurion,2,5,9,13,7,0,1,128.57,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Mar 2024,v KKR,Eden Gardens,2,5,63,45,29,0,8,217.24,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Mar 2024,v MI,Hyderabad,1,5,80*,43,34,4,7,235.29,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,31 Mar 2024,v GT,Ahmedabad,1,5,24,14,13,1,2,184.61,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Apr 2024,v CSK,Hyderabad,2,5,10*,19,11,1,0,90.9,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Apr 2024,v Punjab Kings,New Chandigarh,1,6,9,-,9,1,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Apr 2024,v RCB,Bengaluru,1,3,67,46,31,2,7,216.12,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Apr 2024,v DC,Delhi,1,4,15,11,8,0,2,187.5,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Apr 2024,v RCB,Hyderabad,2,5,7,4,3,0,1,233.33,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Apr 2024,v CSK,Chennai,2,6,20,40,21,0,1,95.23,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 May 2024,v RR,Hyderabad,1,5,42*,25,19,3,3,221.05,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 May 2024,v MI,Wankhede,1,5,2,9,4,0,0,50,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 May 2024,v LSG,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 May 2024,v Punjab Kings,Hyderabad,2,5,42,39,26,3,2,161.53,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 May 2024,v KKR,Ahmedabad,1,6,32,26,21,3,1,152.38,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 May 2024,v RR,Chennai,1,5,50,64,34,0,4,147.05,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 May 2024,v KKR,Chennai,1,6,16,32,17,1,0,94.11,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Jun 2024,v Sri Lanka,New York,2,5,19*,22,22,1,1,86.36,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Jun 2024,v Netherlands,New York,2,5,4,8,7,0,0,57.14,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Jun 2024,v Bangladesh,New York,1,5,46,60,44,2,3,104.54,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Jun 2024,v Nepal,Kingstown,1,4,3,6,5,0,0,60,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Jun 2024,v U.S.A.,North Sound,1,5,36*,35,22,0,3,163.63,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Jun 2024,v England,Gros Islet,1,3,8,21,13,1,0,61.53,run out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Jun 2024,v West Indies,North Sound,2,5,22,13,10,3,1,220,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Jun 2024,v Afghanistan,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,29 Jun 2024,v India,Bridgetown,2,5,52,33,27,2,5,192.59,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Jul 2024,v MI New York,Morrisville,1,5,5,-,5,0,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Jul 2024,v Los Angeles,Dallas,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Jul 2024,v Washington,Dallas,1,4,51,-,30,4,3,170,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Jul 2024,v SF,Morrisville,2,4,6,-,9,0,0,66.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Jul 2024,v Los Angeles,Morrisville,1,4,23,-,23,2,0,100,run out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,20 Jul 2024,v SF,Dallas,1,5,8,-,8,1,0,100,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Jul 2024,v Texas,Dallas,2,4,4,-,8,0,0,50,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Oct 2024,v Boland,Centurion,1,4,71*,46,32,5,5,221.87,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Oct 2024,v Knights,Centurion,2,4,4,11,4,0,0,100,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Oct 2024,v North West,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,22 Oct 2024,v Lions,Johannesburg,1,5,14,23,17,1,0,82.35,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Oct 2024,v W Province,Centurion,1,4,13,11,8,1,1,162.5,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Oct 2024,v Lions,Johannesburg,1,5,13,20,12,0,1,108.33,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,8 Nov 2024,v India,Durban,2,4,25,34,22,2,1,113.63,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Nov 2024,v India,Gqeberha,2,6,2,5,3,0,0,66.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Nov 2024,v India,Centurion,2,5,41,38,22,1,4,186.36,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,15 Nov 2024,v India,Johannesburg,2,5,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Dec 2024,v Pakistan,Durban,1,5,12,26,13,0,1,92.3,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Dec 2024,v Pakistan,Centurion,2,5,8*,9,5,1,0,160,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,10 Jan 2025,v Capitals,Durban,1,5,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Jan 2025,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,14 Jan 2025,v Super Kings,Durban,2,6,29,20,17,2,2,170.58,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Jan 2025,v Sunrisers,Durban,2,5,1,2,5,0,0,20,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Jan 2025,v Sunrisers,Gqeberha,1,7,8,9,10,1,0,80,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Jan 2025,v MI Cape Town,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Jan 2025,v Paarl Royals,Durban,1,3,5,16,9,0,0,55.55,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Jan 2025,v MI Cape Town,Cape Town,1,6,66,54,43,5,4,153.48,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Jan 2025,v Paarl Royals,Paarl,1,6,13,14,14,2,0,92.85,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,1 Feb 2025,v Super Kings,Johannesburg,1,5,76*,65,47,3,6,161.7,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Mar 2025,v RR,Hyderabad,1,5,34,25,14,5,1,242.85,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Mar 2025,v LSG,Hyderabad,1,5,26,22,17,2,1,152.94,run out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,30 Mar 2025,v DC,Visakhapatnam,1,6,32,28,19,2,2,168.42,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Apr 2025,v KKR,Eden Gardens,2,6,33,32,21,2,2,157.14,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Apr 2025,v GT,Hyderabad,1,5,27,23,19,2,1,142.1,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,12 Apr 2025,v Punjab Kings,Hyderabad,2,3,21*,32,14,2,1,150,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Apr 2025,v MI,Wankhede,1,5,37,32,28,3,2,132.14,bowled,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 Apr 2025,v MI,Hyderabad,1,5,71,68,44,9,2,161.36,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Apr 2025,v CSK,Chennai,2,4,7,11,8,1,0,87.5,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,2 May 2025,v GT,Ahmedabad,2,4,23,34,18,1,1,127.77,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 May 2025,v DC,Hyderabad,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 May 2025,v LSG,Lucknow,2,4,47,48,28,4,1,167.85,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,23 May 2025,v RCB,Lucknow,1,4,24,19,13,2,2,184.61,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 May 2025,v KKR,Delhi,1,3,105*,64,39,7,9,269.23,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Jun 2025,v Washington,Oakland,1,4,17,-,13,1,1,130.76,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,16 Jun 2025,v Texas,Oakland,2,5,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,18 Jun 2025,v MI New York,Oakland,1,5,27*,-,11,1,3,245.45,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,22 Jun 2025,v Los Angeles,Dallas,1,5,4,-,6,0,0,66.66,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,25 Jun 2025,v SF,Dallas,2,4,7,-,7,0,1,100,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,27 Jun 2025,v MI New York,Dallas,2,5,26,-,13,2,2,200,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Jun 2025,v Los Angeles,Dallas,2,4,5,-,3,1,0,166.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,1 Jul 2025,v SF,Lauderhill,2,6,5,-,8,0,0,62.5,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,4 Jul 2025,v Washington,Lauderhill,1,5,48,-,39,0,4,123.07,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,5 Jul 2025,v Texas,Lauderhill,2,6,3,-,3,0,0,100,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,6 Aug 2025,v Brave,Manchester,1,4,15,17,16,1,0,93.75,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,9 Aug 2025,v Invincibles,The Oval,1,5,6,9,10,0,0,60,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Aug 2025,v Spirit,Manchester,1,4,24,23,17,3,0,141.17,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Aug 2025,v Fire,Cardiff,2,5,11,20,12,1,0,91.66,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Aug 2025,v N S-Chargers,Manchester,1,5,50*,23,25,4,4,200,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,19 Aug 2025,v Rockets,Nottingham,1,5,9,14,16,1,0,56.25,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,24 Aug 2025,v Phoenix,Manchester,1,5,34,37,35,2,1,97.14,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Aug 2025,v N S-Chargers,Leeds,2,5,2*,3,3,0,0,66.66,not out,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,14 Nov 2025,v North West,Potchefstroom,1,4,53,49,31,3,3,170.96,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,21 Nov 2025,v Dolphins,Centurion,1,3,68*,35,24,5,6,283.33,not out,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,26 Dec 2025,v MI Cape Town,Cape Town,1,4,22,20,14,2,1,157.14,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,28 Dec 2025,v MI Cape Town,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,30 Dec 2025,v Super Kings,Durban,1,5,3,8,7,0,0,42.85,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,1 Jan 2026,v Super Kings,Johannesburg,2,5,29,-,19,1,3,152.63,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,3 Jan 2026,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+436757,Heinrich Klaasen,7 Jan 2026,v Capitals,Durban,2,5,16,27,17,0,0,94.11,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,11 Jan 2026,v Sunrisers,Gqeberha,2,5,10,11,11,0,1,90.9,caught,1,DNB,-,-,-,-
+436757,Heinrich Klaasen,13 Jan 2026,v Paarl Royals,Paarl,1,5,29,28,18,2,2,161.11,caught,2,DNB,-,-,-,-
+436757,Heinrich Klaasen,17 Jan 2026,v Paarl Royals,Durban,1,5,29,33,21,2,1,138.09,caught,2,DNB,-,-,-,-

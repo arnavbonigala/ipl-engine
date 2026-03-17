@@ -1,0 +1,294 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+277906,Kane Williamson,6 Feb 2009,v Canterbury,Christchurch,1,7,30,47,34,0,2,88.23,caught,2,4.0,0,20,0,5
+277906,Kane Williamson,11 Feb 2009,v Central D,Hamilton,2,6,10,15,10,0,0,100,run out,1,2.0,0,21,1,10.5
+277906,Kane Williamson,15 Feb 2009,v Otago,Dunedin,2,7,3,4,4,0,0,75,caught,1,1.0,0,10,0,10
+277906,Kane Williamson,22 Feb 2009,v Wellington,Mt Maunganui,1,3,14,29,20,1,0,70,caught,2,2.0,0,14,0,7
+277906,Kane Williamson,2 Jan 2010,v Auckland,Mt Maunganui,1,8,0*,1,0,0,0,-,not out,2,2.0,0,21,0,10.5
+277906,Kane Williamson,3 Jan 2010,v Otago,Mt Maunganui,1,8,13,19,16,1,0,81.25,caught,2,4.0,0,20,0,5
+277906,Kane Williamson,10 Jan 2010,v Canterbury,Christchurch,2,8,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,21 Dec 2010,v Wellington,Hamilton,2,8,3,6,3,0,0,100,run out,1,1.0,0,22,0,22
+277906,Kane Williamson,27 Dec 2010,v Auckland,Mount Maunganui,1,5,19,17,19,1,0,100,lbw,2,2.0,0,26,0,13
+277906,Kane Williamson,29 Dec 2010,v Canterbury,Christchurch,2,5,8,7,10,1,0,80,caught,1,1.0,0,7,0,7
+277906,Kane Williamson,2 Jun 2011,v Surrey,The Oval,1,4,32,33,26,2,1,123.07,run out,2,1.0,0,17,0,17
+277906,Kane Williamson,3 Jun 2011,v Essex,Chelmsford,2,4,20,24,15,2,1,133.33,caught,1,1.0,0,2,1,2
+277906,Kane Williamson,5 Jun 2011,v Sussex,Bristol,1,4,13,15,15,0,1,86.66,bowled,2,3.3,0,19,1,5.42
+277906,Kane Williamson,10 Jun 2011,v Hampshire,Gloucester,2,3,28,40,34,3,0,82.35,caught,1,4.0,0,34,0,8.5
+277906,Kane Williamson,11 Jun 2011,v Surrey,Gloucester,1,3,2,5,4,0,0,50,caught,2,4.0,0,18,2,4.5
+277906,Kane Williamson,15 Jun 2011,v Kent,Beckenham,1,3,21,25,20,0,0,105,caught,2,2.0,0,19,0,9.5
+277906,Kane Williamson,24 Jun 2011,v Hampshire,Southampton,2,3,50,51,42,6,0,119.04,caught,1,4.0,0,18,2,4.5
+277906,Kane Williamson,26 Jun 2011,v Middlesex,Uxbridge,1,3,18,9,7,3,1,257.14,caught,2,2.0,0,12,1,6
+277906,Kane Williamson,1 Jul 2011,v Somerset,Bristol,2,3,0,9,4,0,0,0,caught,1,3.0,0,22,0,7.33
+277906,Kane Williamson,3 Jul 2011,v Sussex,Arundel,1,3,8,10,8,1,0,100,caught,2,3.1,0,31,1,9.78
+277906,Kane Williamson,6 Jul 2011,v Kent,Bristol,1,5,20*,28,18,0,1,111.11,not out,2,1.0,0,10,0,10
+277906,Kane Williamson,8 Jul 2011,v Somerset,Taunton,2,6,8,6,6,1,0,133.33,caught,1,2.0,0,10,0,5
+277906,Kane Williamson,10 Jul 2011,v Glamorgan,Bristol,1,4,20,35,27,2,0,74.07,caught,2,2.0,0,4,0,2
+277906,Kane Williamson,13 Jul 2011,v Middlesex,Bristol,1,2,6,7,6,1,0,100,bowled,2,2.0,0,10,1,5
+277906,Kane Williamson,15 Jul 2011,v Glamorgan,Cardiff,1,3,2,11,7,0,0,28.57,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,15 Oct 2011,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,18 Dec 2011,v Canterbury,Rangiora,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,0,3.25
+277906,Kane Williamson,26 Dec 2011,v Auckland,Auckland,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+277906,Kane Williamson,29 Dec 2011,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+277906,Kane Williamson,31 Dec 2011,v Canterbury,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,4 Jan 2012,v Wellington,Mt Maunganui,1,4,13,24,18,1,0,72.22,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Jan 2012,v Central D,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+277906,Kane Williamson,8 Jan 2012,v Auckland,Mount Maunganui,1,4,6,10,7,0,0,85.71,bowled,2,4.0,0,17,0,4.25
+277906,Kane Williamson,11 Jan 2012,v Wellington,Wellington,1,2,53,50,41,7,0,129.26,bowled,2,4.0,0,33,3,8.25
+277906,Kane Williamson,14 Jan 2012,v Central D,Napier,1,2,13,11,11,2,0,118.18,caught,2,4.0,0,19,2,4.75
+277906,Kane Williamson,19 Jan 2012,v Otago,Hamilton,1,1,8,12,10,2,0,80,caught,2,3.0,1,27,0,9
+277906,Kane Williamson,11 Feb 2012,v Zimbabwe,Auckland,2,4,48,62,38,5,0,126.31,run out,1,1.0,0,6,1,6
+277906,Kane Williamson,14 Feb 2012,v Zimbabwe,Hamilton,2,7,20*,7,5,3,1,400,not out,1,2.0,0,16,0,8
+277906,Kane Williamson,17 Feb 2012,v South Africa,Wellington,2,4,24,22,21,3,0,114.28,run out,1,2.0,0,27,0,13.5
+277906,Kane Williamson,19 Feb 2012,v South Africa,Hamilton,1,4,28*,30,20,1,2,140,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,22 Feb 2012,v South Africa,Auckland,2,5,6,13,9,0,0,66.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Jun 2012,v Worcs,Worcester,2,3,37,43,29,5,0,127.58,caught,1,4.0,0,38,1,9.5
+277906,Kane Williamson,22 Jun 2012,v Northants,Bristol,1,2,39,35,35,5,0,111.42,caught,2,3.0,0,25,1,8.33
+277906,Kane Williamson,30 Jun 2012,v West Indies,Lauderhill,2,4,10,13,10,0,0,100,caught,1,1.4,0,21,1,12.6
+277906,Kane Williamson,1 Jul 2012,v West Indies,Lauderhill,2,4,6,4,5,1,0,120,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,11 Sep 2012,v India,Chennai,1,4,28,47,26,3,0,107.69,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,21 Sep 2012,v Bangladesh,Pallekele,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+277906,Kane Williamson,23 Sep 2012,v Pakistan,Pallekele,2,2,15,33,13,2,0,115.38,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Sep 2012,v Sri Lanka,Pallekele,1,8,4,8,4,0,0,100,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Sep 2012,v England,Pallekele,1,4,17,36,23,1,0,73.91,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,14 Dec 2012,v Otago,Hamilton,2,1,4,2,4,1,0,100,caught,1,2.0,0,15,0,7.5
+277906,Kane Williamson,10 Jan 2014,v Auckland,Hamilton,1,4,20,14,15,1,1,133.33,lbw,2,3.0,0,16,0,5.33
+277906,Kane Williamson,12 Jan 2014,v Canterbury,Christchurch,1,6,8,14,8,0,0,100,caught,2,3.0,0,16,1,5.33
+277906,Kane Williamson,17 Jan 2014,v Canterbury,Hamilton,1,4,79*,62,55,7,1,143.63,not out,2,4.0,0,25,1,6.25
+277906,Kane Williamson,22 Mar 2014,v England,Chattogram,2,2,24*,27,17,4,0,141.17,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,24 Mar 2014,v South Africa,Chattogram,2,2,51,63,35,5,2,145.71,caught,1,1.0,0,13,0,13
+277906,Kane Williamson,29 Mar 2014,v Netherlands,Chattogram,2,2,29,36,22,5,0,131.81,caught,1,1.0,0,17,0,17
+277906,Kane Williamson,31 Mar 2014,v Sri Lanka,Chattogram,2,2,42,69,43,6,0,97.67,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,16 May 2014,v Northants,Leeds,1,2,17,18,15,2,0,113.33,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Jul 2014,v West Indies,Roseau,2,1,19,37,18,2,0,105.55,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,6 Jul 2014,v West Indies,Roseau,2,1,37,48,28,5,0,132.14,bowled,1,2.0,0,11,1,5.5
+277906,Kane Williamson,11 Jul 2014,v Durham,Chester-le-Street,1,1,5,11,11,0,0,45.45,caught,2,1.0,0,3,1,3
+277906,Kane Williamson,13 Jul 2014,v Derbyshire,Chesterfield,1,2,41,30,26,7,1,157.69,bowled,2,4.0,0,26,2,6.5
+277906,Kane Williamson,18 Jul 2014,v Warwickshire,Leeds,1,2,24,32,19,3,0,126.31,lbw,2,1.0,0,8,0,8
+277906,Kane Williamson,25 Jul 2014,v Notts,Leeds,1,1,6,13,11,1,0,54.54,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,13 Sep 2014,v Express,Raipur,2,1,52,42,29,7,1,179.31,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Sep 2014,v Lahore Lions,Raipur,1,2,14,27,18,1,0,77.77,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,16 Sep 2014,v MI,Raipur,2,2,53,61,36,7,1,147.22,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,19 Sep 2014,v Cape Cobras,Raipur,1,2,101*,90,49,8,5,206.12,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,23 Sep 2014,v Hurricanes,Raipur,2,2,3,10,8,0,0,37.5,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,26 Sep 2014,v Kings XI,Mohali,2,1,20,27,15,1,1,133.33,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,30 Sep 2014,v Tridents,Bengaluru,1,2,1,8,6,0,0,16.66,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,4 Dec 2014,v Pakistan,Dubai (DICS),1,2,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Dec 2014,v Pakistan,Dubai (DICS),1,2,32,40,31,3,1,103.22,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,11 Apr 2015,v CSK,Chennai,2,6,26*,25,18,1,1,144.44,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,13 Apr 2015,v RCB,Bengaluru,2,3,5,10,9,0,0,55.55,stumped,1,DNB,-,-,-,-
+277906,Kane Williamson,23 Jun 2015,v England,Manchester,2,3,57,65,37,8,0,154.05,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,9 Aug 2015,v Zimbabwe,Harare,1,2,20,13,12,4,0,166.66,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,14 Aug 2015,v South Africa,Durban,1,2,42,34,21,8,0,200,stumped,2,1.0,0,9,0,9
+277906,Kane Williamson,16 Aug 2015,v South Africa,Centurion,1,2,25,23,17,4,1,147.05,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,7 Jan 2016,v Sri Lanka,Mount Maunganui,1,2,53,60,42,5,1,126.19,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,10 Jan 2016,v Sri Lanka,Auckland,2,2,32*,45,21,3,0,152.38,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,15 Jan 2016,v Pakistan,Auckland,2,2,70,-,60,6,1,116.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Jan 2016,v Pakistan,Hamilton,2,2,72*,68,48,11,0,150,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,22 Jan 2016,v Pakistan,Wellington,1,2,33,47,34,3,1,97.05,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,15 Mar 2016,v India,Nagpur,1,2,8,27,16,1,0,50,stumped,2,DNB,-,-,-,-
+277906,Kane Williamson,18 Mar 2016,v Australia,Dharamsala,1,2,24,34,20,4,0,120,caught,2,1.0,0,3,0,3
+277906,Kane Williamson,22 Mar 2016,v Pakistan,Mohali,1,2,17,32,21,1,0,80.95,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,26 Mar 2016,v Bangladesh,Eden Gardens,1,2,42,43,32,5,1,131.25,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,30 Mar 2016,v England,Delhi,1,2,32,47,28,3,1,114.28,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,30 Apr 2016,v RCB,Hyderabad,1,3,50,66,38,7,0,131.57,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,6 May 2016,v Guj Lions,Hyderabad,2,3,6,8,9,1,0,66.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,8 May 2016,v MI,Visakhapatnam,1,3,2,6,5,0,0,40,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,10 May 2016,v Supergiants,Visakhapatnam,1,3,32,61,37,3,0,86.48,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,12 May 2016,v Daredevils,Hyderabad,1,3,27,52,24,3,0,112.5,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,22 May 2016,v KKR,Eden Gardens,2,5,7,18,9,0,0,77.77,caught,1,1.0,0,7,0,7
+277906,Kane Williamson,10 Jun 2016,v Warwickshire,Birmingham,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+277906,Kane Williamson,19 Jun 2016,v Derbyshire,Leeds,2,3,21,19,20,1,1,105,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,24 Jun 2016,v Durham,Chester-le-Street,1,3,8,17,9,1,0,88.88,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,1 Jul 2016,v Lancashire,Leeds,1,3,28,34,22,3,0,127.27,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,8 Jul 2016,v Warwickshire,Leeds,1,4,48,57,42,4,1,114.28,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,10 Jul 2016,v Derbyshire,Derby,1,4,65,54,45,6,2,144.44,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,15 Jul 2016,v Notts,Nottingham,1,3,39,52,34,4,0,114.7,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,3 Jan 2017,v Bangladesh,Napier,2,2,73*,81,55,5,2,132.72,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,6 Jan 2017,v Bangladesh,Mount Maunganui,1,2,12,23,13,2,0,92.3,caught,2,4.0,0,16,2,4
+277906,Kane Williamson,8 Jan 2017,v Bangladesh,Mount Maunganui,1,1,60,88,57,6,1,105.26,bowled,2,2.0,0,9,1,4.5
+277906,Kane Williamson,17 Feb 2017,v South Africa,Auckland,2,2,13,30,13,2,0,100,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,19 Apr 2017,v Daredevils,Hyderabad,1,3,89,79,51,6,5,174.5,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,22 Apr 2017,v Supergiant,Pune,1,3,21,18,14,1,1,150,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,28 Apr 2017,v Kings XI,Mohali,1,3,54*,44,27,4,2,200,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,30 Apr 2017,v KKR,Hyderabad,1,3,40,39,25,5,0,160,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,2 May 2017,v Daredevils,Delhi,1,3,24,31,24,1,1,100,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,6 May 2017,v Supergiant,Hyderabad,2,3,4,2,2,1,0,200,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,17 May 2017,v KKR,Bengaluru,1,3,24,-,26,2,1,92.3,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Aug 2017,v Tallawahs,Lauderhill,1,2,13,-,20,2,0,65,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,6 Aug 2017,v Tallawahs,Lauderhill,2,2,7,-,5,1,0,140,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,10 Aug 2017,v Stars,Gros Islet,1,2,46,-,44,5,0,104.54,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,12 Aug 2017,v Trinbago,Port of Spain,1,2,30,-,35,1,0,85.71,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,18 Aug 2017,v Patriots,Basseterre,1,2,7,-,10,0,1,70,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,20 Aug 2017,v Amazon,Providence,1,2,47,-,43,3,2,109.3,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Aug 2017,v Amazon,Bridgetown,2,2,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,31 Aug 2017,v Stars,Bridgetown,1,3,2,-,4,0,0,50,stumped,2,DNB,-,-,-,-
+277906,Kane Williamson,2 Sep 2017,v Trinbago,Bridgetown,1,3,6,-,7,1,0,85.71,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,3 Sep 2017,v Patriots,Bridgetown,1,4,14,-,20,0,0,70,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,1 Nov 2017,v India,Delhi,2,3,28,37,24,1,1,116.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,4 Nov 2017,v India,Rajkot,1,3,12,16,9,2,0,133.33,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,7 Nov 2017,v India,Thiruvananthapuram,2,3,8,11,10,0,0,80,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,1 Jan 2018,v West Indies,Mount Maunganui,1,3,17*,45,15,1,0,113.33,not out,-,TDNB,-,-,-,-
+277906,Kane Williamson,3 Jan 2018,v West Indies,Mount Maunganui,1,5,19,8,8,2,1,237.5,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,25 Jan 2018,v Pakistan,Auckland,2,3,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,28 Jan 2018,v Pakistan,Mount Maunganui,2,2,9,-,14,1,0,64.28,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,3 Feb 2018,v Australia,Sydney,1,3,8,30,21,0,0,38.09,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,13 Feb 2018,v England,Wellington,1,3,72,65,46,4,4,156.52,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,16 Feb 2018,v Australia,Auckland,1,7,1,1,2,0,0,50,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,18 Feb 2018,v England,Hamilton,2,3,8,15,13,0,0,61.53,bowled,1,1.0,0,16,0,16
+277906,Kane Williamson,21 Feb 2018,v Australia,Auckland,1,3,9,14,9,1,0,100,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,9 Apr 2018,v RR,Hyderabad,2,3,36*,-,35,3,1,102.85,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,12 Apr 2018,v MI,Hyderabad,2,3,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Apr 2018,v KKR,Eden Gardens,2,3,50,-,44,4,1,113.63,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,19 Apr 2018,v Kings XI,Mohali,2,3,54,-,41,3,2,131.7,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,22 Apr 2018,v CSK,Hyderabad,2,2,84,-,51,5,5,164.7,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,24 Apr 2018,v MI,Wankhede,1,2,29,-,21,5,0,138.09,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,26 Apr 2018,v Kings XI,Hyderabad,1,2,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Apr 2018,v RR,Jaipur,1,3,63,-,43,7,2,146.51,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,5 May 2018,v Daredevils,Hyderabad,2,3,32*,-,30,0,1,106.66,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,7 May 2018,v RCB,Hyderabad,1,3,56,-,39,5,2,143.58,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,10 May 2018,v Daredevils,Delhi,2,3,83*,-,53,8,2,156.6,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,13 May 2018,v CSK,Pune,1,3,51,-,39,5,2,130.76,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,17 May 2018,v RCB,Bengaluru,2,3,81,-,42,7,5,192.85,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,19 May 2018,v KKR,Hyderabad,1,3,36,-,17,1,3,211.76,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,22 May 2018,v CSK,Wankhede,1,3,24,-,15,4,0,160,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,25 May 2018,v KKR,Eden Gardens,1,3,3,-,3,0,0,100,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,27 May 2018,v CSK,Wankhede,1,3,47,-,36,5,2,130.55,stumped,2,DNB,-,-,-,-
+277906,Kane Williamson,20 Jul 2018,v Lancashire,Manchester,2,6,6*,9,2,1,0,300,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Jul 2018,v Bears,Leeds,1,4,49,47,30,6,1,163.33,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,28 Jul 2018,v Derbyshire,Chesterfield,1,4,35,32,22,4,1,159.09,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,30 Jul 2018,v Derbyshire,Leeds,2,4,4,7,6,0,0,66.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,31 Jul 2018,v Leics,Leeds,1,4,77,48,41,5,5,187.8,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,3 Aug 2018,v Northants,Leeds,2,4,52*,57,44,3,2,118.18,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,9 Aug 2018,v Lancashire,Leeds,1,4,1,3,2,0,0,50,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,10 Aug 2018,v Notts,Nottingham,2,5,11,18,12,0,0,91.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,16 Aug 2018,v Northants,Northampton,2,4,1*,9,4,0,0,25,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Aug 2018,v Notts,Leeds,1,4,44,32,26,6,1,169.23,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,31 Oct 2018,v Pakistan,Abu Dhabi,2,3,11,-,16,0,0,68.75,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,2 Nov 2018,v Pakistan,Dubai (DICS),1,3,37,-,34,2,0,108.82,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,4 Nov 2018,v Pakistan,Dubai (DICS),2,4,60,38,38,8,2,157.89,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,6 Feb 2019,v India,Wellington,1,3,34,33,22,0,3,154.54,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,8 Feb 2019,v India,Auckland,1,3,20,27,17,3,0,117.64,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,10 Feb 2019,v India,Hamilton,1,3,27,28,21,3,0,128.57,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Mar 2019,v RR,Hyderabad,2,3,14,27,10,2,0,140,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Apr 2019,v DC,Hyderabad,2,3,3,10,8,0,0,37.5,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Apr 2019,v CSK,Hyderabad,2,3,3,7,5,0,0,60,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,21 Apr 2019,v KKR,Hyderabad,2,3,8*,12,9,0,0,88.88,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Apr 2019,v RR,Jaipur,1,2,13,19,14,2,0,92.85,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Apr 2019,v Kings XI,Hyderabad,1,5,14,16,7,1,1,200,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,2 May 2019,v MI,Wankhede,2,4,3,14,7,0,0,42.85,lbw,1,DNB,-,-,-,-
+277906,Kane Williamson,4 May 2019,v RCB,Bengaluru,1,4,70*,65,43,5,4,162.79,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,8 May 2019,v DC,Visakhapatnam,1,4,28,45,27,2,0,103.7,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,24 Jan 2020,v India,Auckland,1,3,51,-,26,4,4,196.15,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,26 Jan 2020,v India,Auckland,1,3,14,32,20,0,0,70,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Jan 2020,v India,Hamilton,2,3,95,68,48,8,6,197.91,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,29 Sep 2020,v DC,Abu Dhabi,1,4,41,-,26,5,0,157.69,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,2 Oct 2020,v CSK,Dubai (DICS),1,4,9,-,13,1,0,69.23,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,4 Oct 2020,v MI,Sharjah,2,4,3,-,5,0,0,60,caught,1,2.0,0,24,0,12
+277906,Kane Williamson,8 Oct 2020,v Kings XI,Dubai (DICS),1,5,20*,-,10,1,1,200,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,11 Oct 2020,v RR,Dubai (DICS),1,4,22*,-,12,0,2,183.33,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,13 Oct 2020,v CSK,Dubai (DICS),2,4,57,-,39,7,0,146.15,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,18 Oct 2020,v KKR,Abu Dhabi,2,2,29,-,19,4,1,152.63,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Oct 2020,v DC,Dubai (DICS),1,4,11*,-,10,1,0,110,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,31 Oct 2020,v RCB,Sharjah,2,4,8,-,14,0,0,57.14,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,3 Nov 2020,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,6 Nov 2020,v RCB,Abu Dhabi,2,4,50*,-,44,2,2,113.63,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,8 Nov 2020,v DC,Abu Dhabi,2,4,67,-,45,5,4,148.88,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,20 Dec 2020,v Pakistan,Hamilton,2,3,57*,64,42,8,1,135.71,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,22 Dec 2020,v Pakistan,Napier,1,3,1,6,4,0,0,25,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,21 Jan 2021,v Canterbury,Hamilton,2,3,34*,41,27,5,0,125.92,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,29 Jan 2021,v Auckland,Hamilton,2,3,79*,88,55,5,3,143.63,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,22 Feb 2021,v Australia,Christchurch,1,3,12,16,13,2,0,92.3,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,25 Feb 2021,v Australia,Dunedin,1,3,53,55,35,2,3,151.42,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,3 Mar 2021,v Australia,Wellington,2,3,9,11,6,0,1,150,lbw,1,DNB,-,-,-,-
+277906,Kane Williamson,5 Mar 2021,v Australia,Wellington,2,3,8,19,12,0,0,66.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,7 Mar 2021,v Australia,Wellington,2,3,0,3,1,0,0,0,lbw,1,DNB,-,-,-,-
+277906,Kane Williamson,21 Apr 2021,v Punjab Kings,Chennai,2,3,16*,39,19,0,0,84.21,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,25 Apr 2021,v DC,Chennai,2,3,66*,93,51,8,0,129.41,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,28 Apr 2021,v CSK,Delhi,1,4,26*,14,10,4,1,260,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,2 May 2021,v RR,Delhi,2,3,20,34,21,1,0,95.23,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,22 Sep 2021,v DC,Dubai (DICS),1,3,18,45,26,1,0,69.23,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,25 Sep 2021,v Punjab Kings,Sharjah,2,3,1,11,6,0,0,16.66,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Sep 2021,v RR,Dubai (DICS),2,3,51*,63,41,5,1,124.39,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,30 Sep 2021,v CSK,Sharjah,1,3,11,15,11,2,0,100,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,3 Oct 2021,v KKR,Dubai (DICS),1,3,26,34,21,4,0,123.8,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,6 Oct 2021,v RCB,Abu Dhabi,1,3,31,45,29,4,0,106.89,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,26 Oct 2021,v Pakistan,Sharjah,1,3,25,38,26,2,1,96.15,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,31 Oct 2021,v India,Dubai (DICS),2,3,33*,53,31,3,0,106.45,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,3 Nov 2021,v Scotland,Dubai (DICS),1,3,0,4,4,0,0,0,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Nov 2021,v Namibia,Sharjah,1,3,28,38,25,2,1,112,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,7 Nov 2021,v Afghanistan,Abu Dhabi,2,3,40*,63,42,3,0,95.23,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,10 Nov 2021,v England,Abu Dhabi,2,3,5,12,11,0,0,45.45,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Nov 2021,v Australia,Dubai (DICS),1,3,85,69,48,10,3,177.08,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Mar 2022,v RR,Pune,2,1,2,11,7,0,0,28.57,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,4 Apr 2022,v LSG,DY Patil,2,2,16,16,16,1,1,100,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,9 Apr 2022,v CSK,DY Patil,2,2,32,53,40,2,1,80,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,11 Apr 2022,v GT,DY Patil,2,2,57,86,46,2,4,123.91,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,15 Apr 2022,v KKR,Brabourne,2,2,17,30,16,3,0,106.25,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Apr 2022,v Punjab Kings,DY Patil,2,2,3,15,9,0,0,33.33,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,23 Apr 2022,v RCB,Brabourne,2,2,16*,40,17,2,0,94.11,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,27 Apr 2022,v GT,Wankhede,1,2,5,16,8,1,0,62.5,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,1 May 2022,v CSK,Pune,2,2,47,67,37,2,2,127.02,lbw,1,DNB,-,-,-,-
+277906,Kane Williamson,5 May 2022,v DC,Brabourne,2,2,4,25,11,1,0,36.36,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,8 May 2022,v RCB,Wankhede,2,2,0,4,0,0,0,-,run out,1,DNB,-,-,-,-
+277906,Kane Williamson,14 May 2022,v KKR,Pune,2,2,9,-,17,1,0,52.94,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,17 May 2022,v MI,Wankhede,1,6,8*,17,7,1,0,114.28,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,10 Aug 2022,v West Indies,Kingston,1,3,47,55,33,4,2,142.42,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,12 Aug 2022,v West Indies,Kingston,1,3,4,4,2,1,0,200,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,14 Aug 2022,v West Indies,Kingston,1,4,24,40,27,2,0,88.88,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,8 Oct 2022,v Pakistan,Christchurch,1,3,31,51,30,1,0,103.33,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,9 Oct 2022,v Bangladesh,Christchurch,2,3,30,51,29,1,0,103.44,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,11 Oct 2022,v Pakistan,Christchurch,2,3,9*,10,9,0,0,100,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Oct 2022,v Pakistan,Christchurch,1,3,59,69,38,4,2,155.26,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,22 Oct 2022,v Australia,Sydney,1,3,23,48,23,1,1,100,lbw,2,DNB,-,-,-,-
+277906,Kane Williamson,29 Oct 2022,v Sri Lanka,Sydney,1,3,8,18,13,1,0,61.53,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,1 Nov 2022,v England,Brisbane,2,3,40,57,40,3,0,100,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,4 Nov 2022,v Ireland,Adelaide,1,3,61,59,35,5,3,174.28,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,9 Nov 2022,v Pakistan,Sydney,1,3,46,81,42,1,1,109.52,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,20 Nov 2022,v India,Mount Maunganui,2,3,61,93,52,4,2,117.3,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,31 Mar 2023,v CSK,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,12 Jan 2024,v Pakistan,Auckland,1,3,57,60,42,9,0,135.71,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,14 Jan 2024,v Pakistan,Hamilton,1,3,26*,24,15,3,1,173.33,retired notout,2,DNB,-,-,-,-
+277906,Kane Williamson,4 Apr 2024,v Punjab Kings,Ahmedabad,1,3,26,23,22,4,0,118.18,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,7 Apr 2024,v LSG,Lucknow,2,3,1,4,5,0,0,20,caught,1,sub,-,-,-,-
+277906,Kane Williamson,7 Jun 2024,v Afghanistan,Providence,2,3,9,38,13,1,0,69.23,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,12 Jun 2024,v West Indies,Tarouba,2,4,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Jun 2024,v Uganda,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Jun 2024,v P.N.G.,Tarouba,2,4,18*,38,17,2,0,105.88,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,10 Jan 2025,v Capitals,Durban,1,3,60*,65,40,3,2,150,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,17 Jan 2025,v Sunrisers,Durban,2,3,3,7,6,0,0,50,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,19 Jan 2025,v Sunrisers,Gqeberha,1,3,44,76,45,3,0,97.77,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,21 Jan 2025,v MI Cape Town,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,23 Jan 2025,v Paarl Royals,Durban,1,4,3,4,5,0,0,60,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,25 Jan 2025,v MI Cape Town,Cape Town,1,4,56*,75,44,5,2,127.27,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,27 Jan 2025,v Paarl Royals,Paarl,1,4,45,44,36,5,1,125,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,1 Feb 2025,v Super Kings,Johannesburg,1,3,22,41,20,2,1,110,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,29 May 2025,v Sussex,Lord's,2,2,14,14,12,0,2,116.66,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,1 Jun 2025,v Glamorgan,Northwood,1,2,25,30,22,2,1,113.63,run out,2,DNB,-,-,-,-
+277906,Kane Williamson,5 Jun 2025,v Kent,Lord's,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+277906,Kane Williamson,8 Jun 2025,v Essex,Chelmsford,2,2,31,42,28,2,1,110.71,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,12 Jun 2025,v Somerset,Taunton,1,2,28,24,17,3,1,164.7,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,13 Jun 2025,v Hampshire,Southampton,2,1,23*,31,13,3,1,176.92,not out,1,DNB,-,-,-,-
+277906,Kane Williamson,19 Jun 2025,v Essex,Lord's,1,2,53,45,31,5,3,170.96,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,20 Jun 2025,v Surrey,The Oval,2,2,26,19,15,5,0,173.33,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,6 Jul 2025,v Gloucs,Bristol,2,2,34,31,23,3,2,147.82,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,9 Jul 2025,v Hampshire,Northwood,1,2,25,28,22,3,1,113.63,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,11 Jul 2025,v Gloucs,Northwood,1,3,52,41,30,6,2,173.33,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,13 Jul 2025,v Kent,Canterbury,1,3,6,25,17,0,0,35.29,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,16 Jul 2025,v Surrey,Lord's,2,4,16,15,13,2,0,123.07,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,18 Jul 2025,v Glamorgan,Cardiff,2,4,63,49,42,6,3,150,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,5 Aug 2025,v Invincibles,Lord's,1,3,9,5,7,2,0,128.57,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,9 Aug 2025,v Fire,Cardiff,1,1,14,25,14,0,1,100,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,11 Aug 2025,v Originals,Manchester,2,2,19,39,20,2,0,95,caught,1,DNB,-,-,-,-
+277906,Kane Williamson,14 Aug 2025,v Rockets,Lord's,1,3,45,40,32,6,1,140.62,stumped,2,DNB,-,-,-,-
+277906,Kane Williamson,17 Aug 2025,v Phoenix,Birmingham,1,3,33,33,29,5,0,113.79,bowled,2,DNB,-,-,-,-
+277906,Kane Williamson,20 Aug 2025,v N S-Chargers,Lord's,1,3,10,16,9,2,0,111.11,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,23 Aug 2025,v Brave,Lord's,1,3,53,40,28,4,3,189.28,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,25 Aug 2025,v Invincibles,The Oval,1,4,21,26,18,2,0,116.66,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,26 Dec 2025,v MI Cape Town,Cape Town,1,2,40,39,25,7,0,160,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,28 Dec 2025,v MI Cape Town,Durban,1,2,12*,-,11,2,0,109.09,not out,-,TDNB,-,-,-,-
+277906,Kane Williamson,30 Dec 2025,v Super Kings,Durban,1,1,2,10,6,0,0,33.33,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,1 Jan 2026,v Super Kings,Johannesburg,2,2,22,-,20,1,1,110,lbw,1,DNB,-,-,-,-
+277906,Kane Williamson,3 Jan 2026,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+277906,Kane Williamson,7 Jan 2026,v Capitals,Durban,2,1,12,22,9,0,1,133.33,bowled,1,DNB,-,-,-,-
+277906,Kane Williamson,17 Jan 2026,v Paarl Royals,Durban,1,4,22,25,20,3,0,110,caught,2,DNB,-,-,-,-
+277906,Kane Williamson,21 Jan 2026,v Sylhet,Mirpur,1,3,45*,82,38,1,2,118.42,not out,2,DNB,-,-,-,-
+277906,Kane Williamson,23 Jan 2026,v Chattogram,Mirpur,1,3,24,29,15,2,1,160,caught,2,DNB,-,-,-,-

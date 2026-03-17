@@ -1,0 +1,41 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1175489,Sameer Rizvi,16 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,18 Oct 2022,v Goa,Jaipur,2,3,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,20 Oct 2022,v Hyderabad,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,22 Oct 2022,v Punjab,Jaipur,1,5,16,-,16,2,0,100,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,17 Oct 2023,v Tamil Nadu,Dehradun,2,4,75*,-,46,6,5,163.04,not out,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,21 Oct 2023,v Nagaland,Dehradun,1,4,26,-,15,1,2,173.33,run out,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,23 Oct 2023,v Tripura,Dehradun,1,4,59*,-,32,5,4,184.37,not out,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,25 Oct 2023,v Karnataka,Dehradun,1,4,14,-,10,0,2,140,bowled,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,27 Oct 2023,v M. Pradesh,Dehradun,1,4,31,-,27,2,1,114.81,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,31 Oct 2023,v Gujarat,Mohali,2,4,30,-,39,3,0,76.92,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,2 Nov 2023,v Punjab,Mohali,1,4,42*,-,29,1,4,144.82,not out,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,22 Mar 2024,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,26 Mar 2024,v GT,Chennai,1,6,14,5,6,0,2,233.33,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,31 Mar 2024,v DC,Visakhapatnam,2,6,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,8 Apr 2024,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,14 Apr 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,19 Apr 2024,v LSG,Lucknow,1,6,1,5,5,0,0,20,stumped,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,1 May 2024,v Punjab Kings,Chennai,1,5,21,23,23,1,0,91.3,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,12 May 2024,v RR,Chennai,2,7,15*,11,8,3,0,187.5,not out,1,sub,-,-,-,-
+1175489,Sameer Rizvi,23 Nov 2024,v Delhi,Wankhede,2,6,9,-,6,0,1,150,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,25 Nov 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,27 Nov 2024,v Manipur,Mumbai,2,5,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,29 Nov 2024,v Haryana,Mumbai,2,6,2,-,2,0,0,100,run out,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,1 Dec 2024,v Arunachal,Wankhede,1,5,36*,-,18,3,2,200,not out,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,3 Dec 2024,v J & K,Mumbai,1,6,25*,-,26,2,0,96.15,not out,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,5 Dec 2024,v Jharkhand,Wankhede,1,6,24,-,19,0,1,126.31,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,9 Dec 2024,v Andhra,Bengaluru,2,6,12,-,11,1,1,109.09,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,11 Dec 2024,v Delhi,Bengaluru,2,6,26,-,16,5,0,162.5,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,24 Mar 2025,v LSG,Visakhapatnam,2,4,4,3,4,1,0,100,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,5 Apr 2025,v CSK,Chennai,1,5,20,24,15,1,1,133.33,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,18 May 2025,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,21 May 2025,v MI,Wankhede,2,4,39,54,35,6,1,111.42,bowled,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,24 May 2025,v Punjab Kings,Jaipur,2,5,58*,45,25,3,5,232,not out,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,26 Nov 2025,v Goa,Jadavpur Uni,2,4,38,-,26,4,2,146.15,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,28 Nov 2025,v J & K,Jadavpur Uni,1,4,30,-,14,2,2,214.28,bowled,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,30 Nov 2025,v M. Pradesh,Jadavpur Uni,2,4,9,-,9,0,1,100,caught,1,DNB,-,-,-,-
+1175489,Sameer Rizvi,2 Dec 2025,v Hyderabad,Eden Gardens,1,4,2,-,4,0,0,50,stumped,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,4 Dec 2025,v Chandigarh,Eden Gardens,1,4,70,-,42,6,3,166.66,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,6 Dec 2025,v Maharashtra,Eden Gardens,1,5,20,-,29,2,0,68.96,caught,2,DNB,-,-,-,-
+1175489,Sameer Rizvi,8 Dec 2025,v Bihar,Jadavpur Uni,1,4,22,-,17,4,0,129.41,caught,2,DNB,-,-,-,-

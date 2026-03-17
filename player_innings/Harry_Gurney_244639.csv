@@ -1,0 +1,157 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+244639,Harry Gurney,28 May 2009,v Derbyshire,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+244639,Harry Gurney,29 May 2009,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+244639,Harry Gurney,31 May 2009,v Lancashire,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+244639,Harry Gurney,3 Jun 2009,v Notts,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+244639,Harry Gurney,4 Jun 2009,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+244639,Harry Gurney,22 Jun 2009,v Lancashire,Liverpool,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+244639,Harry Gurney,24 Jun 2009,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+244639,Harry Gurney,26 Jun 2009,v Yorkshire,Leicester,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+244639,Harry Gurney,28 Jun 2009,v Durham,Leicester,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+244639,Harry Gurney,2 Jun 2010,v Derbyshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,1,4.5
+244639,Harry Gurney,8 Jun 2010,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+244639,Harry Gurney,11 Jun 2010,v Lancashire,Manchester,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+244639,Harry Gurney,14 Jun 2010,v Durham,Chester-le-Street,2,11,5*,3,3,0,0,166.66,not out,1,4.0,0,54,0,13.5
+244639,Harry Gurney,18 Jun 2010,v Northants,Leicester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+244639,Harry Gurney,3 Jun 2011,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,1,5.25
+244639,Harry Gurney,5 Jun 2011,v Lancashire,Leicester,1,-,DNB,-,-,-,-,-,-,2,3.1,0,39,1,12.31
+244639,Harry Gurney,10 Jun 2011,v Notts,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+244639,Harry Gurney,17 Jun 2011,v Durham,Leicester,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244639,Harry Gurney,18 Jun 2011,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,3.0,1,14,1,4.66
+244639,Harry Gurney,24 Jun 2011,v Notts,Nottingham,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+244639,Harry Gurney,25 Jun 2011,v Worcs,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+244639,Harry Gurney,26 Jun 2011,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+244639,Harry Gurney,29 Jun 2011,v Yorkshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+244639,Harry Gurney,1 Jul 2011,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+244639,Harry Gurney,3 Jul 2011,v Northants,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+244639,Harry Gurney,6 Jul 2011,v Yorkshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+244639,Harry Gurney,8 Jul 2011,v Derbyshire,Leicester,2,-,DNB,-,-,-,-,-,-,1,3.4,0,34,3,9.27
+244639,Harry Gurney,6 Aug 2011,v Kent,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+244639,Harry Gurney,20 Sep 2011,v Trinidad & T,Hyderabad,2,11,0*,2,2,0,0,0,not out,1,4.0,0,33,2,8.25
+244639,Harry Gurney,21 Sep 2011,v Ruhuna,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+244639,Harry Gurney,12 Jun 2012,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,0,4
+244639,Harry Gurney,17 Jun 2012,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+244639,Harry Gurney,24 Jun 2012,v Yorkshire,Scarborough,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244639,Harry Gurney,29 Jun 2012,v Durham,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+244639,Harry Gurney,3 Jul 2012,v Lancashire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+244639,Harry Gurney,5 Jul 2012,v Yorkshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+244639,Harry Gurney,8 Jul 2012,v Leics,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+244639,Harry Gurney,25 Jul 2012,v Hampshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+244639,Harry Gurney,1 Jul 2013,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+244639,Harry Gurney,5 Jul 2013,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+244639,Harry Gurney,6 Jul 2013,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+244639,Harry Gurney,19 Jul 2013,v Durham,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+244639,Harry Gurney,21 Jul 2013,v Yorkshire,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+244639,Harry Gurney,23 Jul 2013,v Derbyshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+244639,Harry Gurney,26 Jul 2013,v Yorkshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+244639,Harry Gurney,28 Jul 2013,v Lancashire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+244639,Harry Gurney,8 Aug 2013,v Essex,Nottingham,2,11,0,2,1,0,0,0,bowled,1,4.0,0,24,0,6
+244639,Harry Gurney,16 May 2014,v Lancashire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.3,0,25,2,7.14
+244639,Harry Gurney,20 May 2014,v Sri Lanka,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+244639,Harry Gurney,6 Jun 2014,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+244639,Harry Gurney,13 Jun 2014,v Warwickshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+244639,Harry Gurney,19 Jun 2014,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+244639,Harry Gurney,20 Jun 2014,v Derbyshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+244639,Harry Gurney,28 Jun 2014,v Yorkshire,Nottingham,1,11,1*,2,1,0,0,100,not out,2,4.0,0,25,2,6.25
+244639,Harry Gurney,8 Jul 2014,v Warwickshire,Birmingham,1,11,0*,1,0,0,0,-,not out,2,4.0,0,28,0,7
+244639,Harry Gurney,20 Jul 2014,v Leics,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+244639,Harry Gurney,23 Jul 2014,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+244639,Harry Gurney,3 Aug 2014,v Hampshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,0,15
+244639,Harry Gurney,7 Sep 2014,v India,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+244639,Harry Gurney,15 May 2015,v Warwickshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+244639,Harry Gurney,22 May 2015,v Yorkshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,1,22,0,5.5
+244639,Harry Gurney,31 May 2015,v Durham,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+244639,Harry Gurney,5 Jun 2015,v Leics,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+244639,Harry Gurney,7 Jun 2015,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+244639,Harry Gurney,19 Jun 2015,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+244639,Harry Gurney,26 Jun 2015,v Derbyshire,Derby,2,11,0*,1,0,0,0,-,not out,1,4.0,0,49,0,12.25
+244639,Harry Gurney,27 Jun 2015,v Northants,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+244639,Harry Gurney,3 Jul 2015,v Worcs,Nottingham,2,11,1*,1,1,0,0,100,not out,1,3.3,0,25,3,7.14
+244639,Harry Gurney,10 Jul 2015,v Derbyshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,0,11.75
+244639,Harry Gurney,15 Jul 2015,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+244639,Harry Gurney,17 Jul 2015,v Durham,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+244639,Harry Gurney,20 May 2016,v Warwickshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,1,28,0,7
+244639,Harry Gurney,1 Jun 2016,v Durham,Chester-le-Street,2,11,0,6,1,0,0,0,caught,1,4.0,0,44,2,11
+244639,Harry Gurney,4 Jun 2016,v Lancashire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+244639,Harry Gurney,18 Jun 2016,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+244639,Harry Gurney,24 Jun 2016,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,3.3,0,20,4,5.71
+244639,Harry Gurney,1 Jul 2016,v Durham,Nottingham,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244639,Harry Gurney,8 Jul 2016,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+244639,Harry Gurney,9 Jul 2016,v Worcs,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+244639,Harry Gurney,15 Jul 2016,v Yorkshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+244639,Harry Gurney,22 Jul 2016,v Warwickshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+244639,Harry Gurney,8 Aug 2016,v Essex,Nottingham,1,-,DNB,-,-,-,-,-,-,2,2.4,0,25,2,9.37
+244639,Harry Gurney,20 Aug 2016,v Northants,Birmingham,2,11,5*,5,4,1,0,125,not out,1,4.0,0,34,1,8.5
+244639,Harry Gurney,7 Jul 2017,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,3,12.25
+244639,Harry Gurney,8 Jul 2017,v Warwickshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+244639,Harry Gurney,21 Jul 2017,v Derbyshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+244639,Harry Gurney,22 Jul 2017,v Northants,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,3,11.5
+244639,Harry Gurney,25 Jul 2017,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,2.1,0,23,1,10.61
+244639,Harry Gurney,26 Jul 2017,v Worcs,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,57,0,14.25
+244639,Harry Gurney,30 Jul 2017,v Yorkshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+244639,Harry Gurney,2 Aug 2017,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+244639,Harry Gurney,4 Aug 2017,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+244639,Harry Gurney,5 Aug 2017,v Durham,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+244639,Harry Gurney,11 Aug 2017,v Warwickshire,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+244639,Harry Gurney,13 Aug 2017,v Worcs,Worcester,1,11,0*,2,0,0,0,-,not out,2,4.0,0,18,2,4.5
+244639,Harry Gurney,18 Aug 2017,v Leics,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+244639,Harry Gurney,24 Aug 2017,v Somerset,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+244639,Harry Gurney,2 Sep 2017,v Hampshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,3,6.33
+244639,Harry Gurney,2 Sep 2017,v Warwickshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,4,4.25
+244639,Harry Gurney,4 Jul 2018,v Bears,Nottingham,1,-,DNB,-,-,-,-,-,-,2,2.2,0,26,1,11.14
+244639,Harry Gurney,6 Jul 2018,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,3.3,0,30,3,8.57
+244639,Harry Gurney,8 Jul 2018,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+244639,Harry Gurney,13 Jul 2018,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+244639,Harry Gurney,17 Jul 2018,v Durham,Nottingham,2,11,0,6,1,0,0,0,caught,1,3.0,0,23,2,7.66
+244639,Harry Gurney,20 Jul 2018,v Leics,Nottingham,2,11,1*,1,1,0,0,100,not out,1,4.0,0,30,1,7.5
+244639,Harry Gurney,27 Jul 2018,v Lancashire,Nottingham,1,11,0*,3,0,0,0,-,not out,2,3.0,0,16,1,5.33
+244639,Harry Gurney,28 Jul 2018,v Durham,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+244639,Harry Gurney,2 Aug 2018,v Derbyshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+244639,Harry Gurney,4 Aug 2018,v Worcs,Nottingham,2,11,0,2,1,0,0,0,caught,1,4.0,0,38,1,9.5
+244639,Harry Gurney,9 Aug 2018,v Bears,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+244639,Harry Gurney,10 Aug 2018,v Yorkshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+244639,Harry Gurney,12 Aug 2018,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+244639,Harry Gurney,17 Aug 2018,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+244639,Harry Gurney,26 Aug 2018,v Somerset,Taunton,2,11,6,9,6,1,0,100,bowled,1,2.5,0,36,0,12.7
+244639,Harry Gurney,13 Jan 2019,v Heat,Geelong,2,11,1*,-,1,0,0,100,not out,1,4.0,0,37,2,9.25
+244639,Harry Gurney,16 Jan 2019,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+244639,Harry Gurney,19 Jan 2019,v Stars,Melbourne (Docklands),1,11,0,-,1,0,0,0,bowled,2,4.0,0,25,0,6.25
+244639,Harry Gurney,22 Jan 2019,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+244639,Harry Gurney,28 Jan 2019,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,0,7
+244639,Harry Gurney,30 Jan 2019,v Thunder,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+244639,Harry Gurney,7 Feb 2019,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+244639,Harry Gurney,15 Feb 2019,v Sixers,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+244639,Harry Gurney,17 Feb 2019,v Stars,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+244639,Harry Gurney,27 Feb 2019,v Qalandars,Dubai (DICS),1,11,0*,-,0,0,0,-,not out,2,2.0,0,13,1,6.5
+244639,Harry Gurney,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+244639,Harry Gurney,9 Apr 2019,v CSK,Chennai,1,11,1*,22,5,0,0,20,not out,2,2.0,0,20,0,10
+244639,Harry Gurney,14 Apr 2019,v CSK,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+244639,Harry Gurney,19 Apr 2019,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+244639,Harry Gurney,21 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+244639,Harry Gurney,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+244639,Harry Gurney,3 May 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+244639,Harry Gurney,5 May 2019,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+244639,Harry Gurney,18 Jul 2019,v Worcs,Nottingham,2,11,5*,4,2,1,0,250,not out,1,4.0,0,33,2,8.25
+244639,Harry Gurney,24 Jul 2019,v Northants,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+244639,Harry Gurney,26 Jul 2019,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,5,7.5
+244639,Harry Gurney,27 Jul 2019,v Leics,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,1,13.33
+244639,Harry Gurney,2 Aug 2019,v Bears,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+244639,Harry Gurney,3 Aug 2019,v Lancashire,Manchester,2,11,0*,2,0,0,0,-,not out,1,4.0,0,42,2,10.5
+244639,Harry Gurney,9 Aug 2019,v Bears,Birmingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+244639,Harry Gurney,23 Aug 2019,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+244639,Harry Gurney,25 Aug 2019,v Yorkshire,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+244639,Harry Gurney,30 Aug 2019,v Durham,Nottingham,2,11,0*,1,0,0,0,-,not out,1,3.0,0,39,1,13
+244639,Harry Gurney,5 Sep 2019,v Middlesex,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,2,11
+244639,Harry Gurney,21 Sep 2019,v Worcs,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+244639,Harry Gurney,23 Sep 2019,v Tallawahs,Bridgetown,2,11,0*,-,0,0,0,-,not out,1,4.0,0,20,1,5
+244639,Harry Gurney,26 Sep 2019,v Trinbago,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+244639,Harry Gurney,28 Sep 2019,v Patriots,Bridgetown,2,11,1,-,2,0,0,50,bowled,1,4.0,0,23,2,5.75
+244639,Harry Gurney,29 Sep 2019,v Zouks,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,3,4.25
+244639,Harry Gurney,2 Oct 2019,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+244639,Harry Gurney,6 Oct 2019,v Amazon,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+244639,Harry Gurney,10 Oct 2019,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+244639,Harry Gurney,12 Oct 2019,v Amazon,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+244639,Harry Gurney,19 Dec 2019,v Thunder,Geelong,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+244639,Harry Gurney,21 Dec 2019,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,1,13.75
+244639,Harry Gurney,24 Dec 2019,v Hurricanes,Hobart,1,11,0*,-,1,0,0,0,not out,2,3.0,0,35,0,11.66
+244639,Harry Gurney,29 Dec 2019,v Strikers,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33

@@ -1,0 +1,321 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+53115,Daren Sammy,12 Jul 2006,v BVI,Coolidge,2,4,21,-,13,4,0,161.53,lbw,1,4.0,0,14,2,3.5
+53115,Daren Sammy,24 Jun 2007,v Derbyshire,Derby,2,8,1,4,2,0,0,50,bowled,1,3.0,0,25,1,8.33
+53115,Daren Sammy,28 Jun 2007,v England,The Oval,1,9,1,2,2,0,0,50,bowled,2,4.0,0,37,2,9.25
+53115,Daren Sammy,29 Jun 2007,v England,The Oval,1,9,7*,3,7,0,0,100,not out,2,4.0,0,27,1,6.75
+53115,Daren Sammy,16 Dec 2007,v South Africa,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+53115,Daren Sammy,18 Jan 2008,v South Africa,Johannesburg,1,8,14*,24,16,1,1,87.5,not out,2,4.0,0,21,3,5.25
+53115,Daren Sammy,20 Jun 2008,v Australia,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,25 Oct 2008,v Trinidad & T,Coolidge,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+53115,Daren Sammy,30 Oct 2008,v Middlesex,Coolidge,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,2,4.66
+53115,Daren Sammy,1 Nov 2008,v England,Coolidge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+53115,Daren Sammy,15 Mar 2009,v England,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+53115,Daren Sammy,15 Jun 2009,v England,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+53115,Daren Sammy,19 Jun 2009,v Sri Lanka,The Oval,2,10,1,1,4,0,0,25,caught,1,4.0,0,19,0,4.75
+53115,Daren Sammy,2 Aug 2009,v Bangladesh,Basseterre,2,6,6,3,2,0,1,300,caught,1,4.0,0,33,2,8.25
+53115,Daren Sammy,21 Feb 2010,v Australia,Hobart,2,9,3*,-,4,0,0,75,not out,1,3.0,0,36,1,12
+53115,Daren Sammy,23 Feb 2010,v Australia,Sydney,1,9,26*,16,11,1,2,236.36,not out,2,1.0,0,14,0,14
+53115,Daren Sammy,28 Feb 2010,v Zimbabwe,Port of Spain,2,8,2,5,4,0,0,50,bowled,1,3.5,0,26,5,6.78
+53115,Daren Sammy,10 Apr 2010,v Canada,Florence Hall,1,7,4*,-,5,0,0,80,not out,2,2.0,0,11,0,5.5
+53115,Daren Sammy,11 Apr 2010,v Ireland,Florence Hall,1,7,28*,-,17,2,1,164.7,not out,2,3.0,0,15,2,5
+53115,Daren Sammy,17 Apr 2010,v Ireland,Kingston,1,6,11,-,7,2,0,157.14,run out,2,4.0,0,37,0,9.25
+53115,Daren Sammy,18 Apr 2010,v Ireland,Kingston,1,5,19*,-,8,1,2,237.5,not out,2,2.0,0,25,1,12.5
+53115,Daren Sammy,30 Apr 2010,v Ireland,Providence,1,7,30,24,17,2,2,176.47,caught,2,3.4,0,8,3,2.18
+53115,Daren Sammy,3 May 2010,v England,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+53115,Daren Sammy,7 May 2010,v Sri Lanka,Bridgetown,2,7,2,9,3,0,0,66.66,lbw,1,2.0,0,23,0,11.5
+53115,Daren Sammy,9 May 2010,v India,Bridgetown,1,3,19,14,10,2,1,190,caught,2,3.0,0,16,1,5.33
+53115,Daren Sammy,11 May 2010,v Australia,Gros Islet,1,8,0,1,1,0,0,0,caught,2,1.0,0,3,0,3
+53115,Daren Sammy,19 May 2010,v South Africa,North Sound,2,7,17,38,28,1,0,60.71,stumped,1,2.0,0,11,0,5.5
+53115,Daren Sammy,20 May 2010,v South Africa,North Sound,2,7,12*,12,6,1,0,200,not out,1,4.0,0,16,2,4
+53115,Daren Sammy,23 Jul 2010,v Guyana,Bridgetown,1,5,8,-,10,1,0,80,caught,2,2.2,0,31,1,13.28
+53115,Daren Sammy,25 Jul 2010,v Barbados,Bridgetown,2,5,16,-,17,2,0,94.11,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,10 Jan 2011,v Comb C&C,North Sound,1,4,18*,-,5,2,1,360,not out,2,3.0,0,35,1,11.66
+53115,Daren Sammy,14 Jan 2011,v Somerset,North Sound,2,5,3,-,8,0,0,37.5,bowled,1,4.0,1,26,1,6.5
+53115,Daren Sammy,18 Jan 2011,v Guyana,Bridgetown,1,5,26,-,16,1,2,162.5,run out,2,4.0,0,20,1,5
+53115,Daren Sammy,20 Jan 2011,v Jamaica,Bridgetown,1,5,3,-,3,0,0,100,caught,2,4.0,0,29,1,7.25
+53115,Daren Sammy,22 Jan 2011,v Hampshire,Bridgetown,2,5,20,-,13,1,2,153.84,caught,1,4.0,0,34,0,8.5
+53115,Daren Sammy,23 Jan 2011,v Jamaica,Bridgetown,2,5,17,-,12,1,1,141.66,bowled,1,3.0,0,31,0,10.33
+53115,Daren Sammy,21 Apr 2011,v Pakistan,Gros Islet,1,6,1,1,2,0,0,50,caught,2,3.0,0,26,1,8.66
+53115,Daren Sammy,4 Jun 2011,v India,Port of Spain,2,6,0,2,2,0,0,0,caught,1,4.0,0,16,4,4
+53115,Daren Sammy,23 Sep 2011,v England,The Oval,1,9,5,11,6,0,0,83.33,caught,2,3.0,0,20,0,6.66
+53115,Daren Sammy,25 Sep 2011,v England,The Oval,1,6,12,11,8,0,1,150,caught,2,2.0,0,9,0,4.5
+53115,Daren Sammy,9 Oct 2011,v BCB XI,Fatullah,1,5,7*,17,6,0,0,116.66,not out,2,4.0,0,23,2,5.75
+53115,Daren Sammy,11 Oct 2011,v Bangladesh,Mirpur,1,7,1,3,2,0,0,50,caught,2,4.0,0,30,1,7.5
+53115,Daren Sammy,9 Jan 2012,v Trinidad & T,North Sound,1,6,41*,-,31,2,2,132.25,not out,2,3.0,0,15,1,5
+53115,Daren Sammy,11 Jan 2012,v Canada,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.0,0,9,1,3
+53115,Daren Sammy,17 Jan 2012,v Leeward Is,Bridgetown,1,7,25,-,15,0,3,166.66,caught,2,4.0,0,29,1,7.25
+53115,Daren Sammy,19 Jan 2012,v Guyana,Bridgetown,2,5,9,-,6,0,1,150,caught,1,4.0,0,11,3,2.75
+53115,Daren Sammy,21 Jan 2012,v Jamaica,Bridgetown,1,7,2,-,4,0,0,50,run out,2,3.0,0,22,1,7.33
+53115,Daren Sammy,22 Jan 2012,v Barbados,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+53115,Daren Sammy,27 Mar 2012,v Australia,Gros Islet,1,7,7,-,8,1,0,87.5,caught,2,2.1,0,22,0,10.15
+53115,Daren Sammy,30 Mar 2012,v Australia,Bridgetown,1,5,5,11,9,0,0,55.55,bowled,2,1.0,0,11,0,11
+53115,Daren Sammy,24 Jun 2012,v England,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+53115,Daren Sammy,30 Jun 2012,v New Zealand,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+53115,Daren Sammy,1 Jul 2012,v New Zealand,Lauderhill,1,5,13,15,11,1,0,118.18,caught,2,2.0,0,14,0,7
+53115,Daren Sammy,22 Sep 2012,v Australia,Colombo (RPS),1,7,12,12,7,1,1,171.42,caught,2,2.0,0,15,0,7.5
+53115,Daren Sammy,24 Sep 2012,v Ireland,Colombo (RPS),-,-,TDNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+53115,Daren Sammy,27 Sep 2012,v England,Pallekele,1,6,4,4,3,0,0,133.33,bowled,2,1.0,0,13,0,13
+53115,Daren Sammy,29 Sep 2012,v Sri Lanka,Pallekele,1,7,1*,2,1,0,0,100,not out,2,4.0,0,28,0,7
+53115,Daren Sammy,1 Oct 2012,v New Zealand,Pallekele,1,8,11,13,12,1,0,91.66,caught,2,4.0,0,35,1,8.75
+53115,Daren Sammy,5 Oct 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+53115,Daren Sammy,7 Oct 2012,v Sri Lanka,Colombo (RPS),1,7,26*,23,15,3,0,173.33,not out,2,2.0,0,6,2,3
+53115,Daren Sammy,10 Dec 2012,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+53115,Daren Sammy,9 Jan 2013,v Jamaica,Port of Spain,2,5,0,1,1,0,0,0,bowled,1,4.0,0,22,0,5.5
+53115,Daren Sammy,10 Jan 2013,v Comb C&C,Port of Spain,1,6,32,-,28,2,1,114.28,lbw,2,3.5,0,17,3,4.43
+53115,Daren Sammy,12 Jan 2013,v Leeward Is,Port of Spain,1,6,7,-,8,1,0,87.5,caught,2,4.0,0,29,1,7.25
+53115,Daren Sammy,15 Jan 2013,v Trinidad & T,Gros Islet,1,7,25*,-,27,2,1,92.59,not out,2,3.0,0,20,1,6.66
+53115,Daren Sammy,17 Jan 2013,v Barbados,Gros Islet,2,7,41,-,28,2,4,146.42,bowled,1,4.0,0,33,2,8.25
+53115,Daren Sammy,18 Jan 2013,v Guyana,Gros Islet,1,6,18,-,18,1,1,100,caught,2,4.0,0,23,1,5.75
+53115,Daren Sammy,13 Feb 2013,v Australia,Brisbane,1,7,20,10,7,1,2,285.71,caught,2,3.0,0,30,1,10
+53115,Daren Sammy,2 Mar 2013,v Zimbabwe,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+53115,Daren Sammy,3 Mar 2013,v Zimbabwe,North Sound,1,6,19,22,12,2,1,158.33,caught,2,2.0,0,13,0,6.5
+53115,Daren Sammy,25 Apr 2013,v CSK,Chennai,1,7,19,18,12,2,1,158.33,caught,2,3.0,0,31,0,10.33
+53115,Daren Sammy,27 Apr 2013,v RR,Jaipur,1,7,60,72,41,8,1,146.34,lbw,2,3.0,0,17,0,5.66
+53115,Daren Sammy,1 May 2013,v MI,Hyderabad,2,5,1*,4,1,0,0,100,not out,1,DNB,-,-,-,-
+53115,Daren Sammy,4 May 2013,v Daredevils,Hyderabad,2,4,18*,33,20,0,1,90,not out,1,3.0,0,10,2,3.33
+53115,Daren Sammy,8 May 2013,v CSK,Hyderabad,2,5,7,2,3,0,1,233.33,caught,1,2.0,0,33,0,16.5
+53115,Daren Sammy,11 May 2013,v Kings XI,Mohali,1,6,0,4,3,0,0,0,lbw,2,4.0,0,22,4,5.5
+53115,Daren Sammy,13 May 2013,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+53115,Daren Sammy,17 May 2013,v RR,Hyderabad,1,6,23,-,19,1,1,121.05,caught,2,1.0,0,4,0,4
+53115,Daren Sammy,19 May 2013,v KKR,Hyderabad,2,6,17*,16,12,0,2,141.66,not out,1,1.0,0,9,0,9
+53115,Daren Sammy,22 May 2013,v RR,Delhi,1,5,29,32,21,0,3,138.09,run out,2,3.2,0,27,2,8.1
+53115,Daren Sammy,27 Jul 2013,v Pakistan,Kingstown,1,7,30,17,14,2,3,214.28,caught,2,1.0,0,4,0,4
+53115,Daren Sammy,28 Jul 2013,v Pakistan,Kingstown,2,8,1,10,4,0,0,25,caught,1,4.0,0,20,1,5
+53115,Daren Sammy,30 Jul 2013,v Tridents,Bridgetown,2,7,34,-,16,4,2,212.5,bowled,1,4.0,0,36,2,9
+53115,Daren Sammy,4 Aug 2013,v Amazon,Providence,2,7,21*,-,9,2,1,233.33,not out,1,4.0,0,26,0,6.5
+53115,Daren Sammy,6 Aug 2013,v Hawksbills,Gros Islet,2,7,4,-,8,0,0,50,caught,1,4.0,0,29,1,7.25
+53115,Daren Sammy,8 Aug 2013,v Tridents,Gros Islet,2,7,0,-,5,0,0,0,bowled,1,3.0,0,36,0,12
+53115,Daren Sammy,10 Aug 2013,v Tallawahs,Gros Islet,1,5,26,-,18,1,2,144.44,caught,2,4.0,0,28,1,7
+53115,Daren Sammy,15 Aug 2013,v Hawksbills,North Sound,1,5,35*,-,20,1,3,175,not out,2,3.0,0,19,0,6.33
+53115,Daren Sammy,17 Aug 2013,v Red Steel,Kingston,1,6,16,-,20,3,0,80,bowled,2,3.0,0,22,0,7.33
+53115,Daren Sammy,17 Sep 2013,v Kandurata Ma,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+53115,Daren Sammy,18 Sep 2013,v Wolves,Mohali,2,5,14*,10,6,3,0,233.33,not out,1,2.0,0,14,1,7
+53115,Daren Sammy,20 Sep 2013,v Otago,Mohali,1,6,26,28,22,1,2,118.18,caught,2,3.0,0,30,1,10
+53115,Daren Sammy,24 Sep 2013,v Trinidad & T,Mohali,2,6,15,24,15,1,1,100,caught,1,4.0,0,21,2,5.25
+53115,Daren Sammy,26 Sep 2013,v CSK,Ranchi,2,5,50,47,25,2,5,200,bowled,1,3.0,0,39,0,13
+53115,Daren Sammy,28 Sep 2013,v Titans,Ranchi,1,7,1,3,2,0,0,50,caught,2,2.0,0,17,0,8.5
+53115,Daren Sammy,19 Feb 2014,v Ireland,Kingston,1,7,7,-,8,1,0,87.5,bowled,2,3.0,0,16,0,5.33
+53115,Daren Sammy,21 Feb 2014,v Ireland,Kingston,1,7,2,-,5,0,0,40,run out,2,4.0,0,22,3,5.5
+53115,Daren Sammy,9 Mar 2014,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+53115,Daren Sammy,11 Mar 2014,v England,Bridgetown,2,6,30*,15,9,2,3,333.33,not out,1,1.0,0,17,0,17
+53115,Daren Sammy,13 Mar 2014,v England,Bridgetown,2,8,15*,11,6,2,1,250,not out,1,2.0,0,14,0,7
+53115,Daren Sammy,23 Mar 2014,v India,Mirpur,1,6,11,13,7,2,0,157.14,caught,2,1.0,0,9,0,9
+53115,Daren Sammy,25 Mar 2014,v Bangladesh,Mirpur,1,5,14*,13,5,3,0,280,not out,2,1.0,0,6,0,6
+53115,Daren Sammy,28 Mar 2014,v Australia,Mirpur,2,6,34*,16,13,2,3,261.53,not out,1,1.0,0,16,0,16
+53115,Daren Sammy,1 Apr 2014,v Pakistan,Mirpur,1,7,42*,28,20,5,2,210,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,3 Apr 2014,v Sri Lanka,Mirpur,2,6,0*,2,0,0,0,-,not out,1,DNB,-,-,-,-
+53115,Daren Sammy,18 Apr 2014,v RR,Abu Dhabi,1,5,6,-,11,0,0,54.54,caught,2,2.0,0,19,0,9.5
+53115,Daren Sammy,22 Apr 2014,v Kings XI,Sharjah,2,7,15,12,11,0,1,136.36,caught,1,2.0,0,22,1,11
+53115,Daren Sammy,25 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+53115,Daren Sammy,27 Apr 2014,v CSK,Sharjah,1,6,23*,25,15,2,1,153.33,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,30 Apr 2014,v MI,Dubai (DICS),1,5,10,4,4,1,1,250,caught,2,2.0,0,20,1,10
+53115,Daren Sammy,4 May 2014,v RCB,Bengaluru,1,5,8,17,8,0,1,100,caught,2,2.0,0,25,0,12.5
+53115,Daren Sammy,18 May 2014,v KKR,Hyderabad,1,7,7,19,16,0,0,43.75,caught,2,1.0,0,7,0,7
+53115,Daren Sammy,20 May 2014,v RCB,Hyderabad,2,5,10*,4,4,0,1,250,not out,1,1.0,0,19,0,19
+53115,Daren Sammy,22 May 2014,v CSK,Ranchi,2,5,0,4,3,0,0,0,caught,1,1.0,0,11,0,11
+53115,Daren Sammy,24 May 2014,v KKR,Eden Gardens,1,5,29,35,19,1,3,152.63,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,30 May 2014,v Sussex,Cardiff,2,7,8*,14,9,1,0,88.88,not out,1,3.0,0,18,0,6
+53115,Daren Sammy,6 Jun 2014,v Somerset,Taunton,1,4,3,12,8,0,0,37.5,caught,2,4.0,0,25,0,6.25
+53115,Daren Sammy,8 Jun 2014,v Gloucs,Bristol,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+53115,Daren Sammy,13 Jun 2014,v Kent,Cardiff,1,7,19*,18,17,1,1,111.76,not out,2,4.0,0,29,2,7.25
+53115,Daren Sammy,20 Jun 2014,v Surrey,Cardiff,2,7,0,3,1,0,0,0,lbw,1,4.0,0,38,1,9.5
+53115,Daren Sammy,25 Jun 2014,v Hampshire,Cardiff,2,7,28,20,14,2,2,200,caught,1,4.0,0,28,1,7
+53115,Daren Sammy,5 Jul 2014,v New Zealand,Roseau,1,6,10,7,4,1,1,250,caught,2,3.0,0,22,3,7.33
+53115,Daren Sammy,6 Jul 2014,v New Zealand,Roseau,1,6,10,9,3,1,1,333.33,caught,2,3.0,0,22,0,7.33
+53115,Daren Sammy,12 Jul 2014,v Tallawahs,St George's,1,4,29*,-,22,3,0,131.81,not out,2,2.0,0,28,0,14
+53115,Daren Sammy,19 Jul 2014,v Amazon,Providence,1,7,2,-,6,0,0,33.33,caught,2,2.0,0,8,1,4
+53115,Daren Sammy,23 Jul 2014,v Tridents,Bridgetown,2,5,0,-,2,0,0,0,caught,1,4.0,0,34,0,8.5
+53115,Daren Sammy,27 Jul 2014,v Red Steel,Port of Spain,1,6,46*,-,35,1,4,131.42,not out,2,1.0,0,20,0,20
+53115,Daren Sammy,31 Jul 2014,v Tridents,Gros Islet,1,6,6,-,5,1,0,120,run out,2,2.0,0,19,0,9.5
+53115,Daren Sammy,2 Aug 2014,v Red Steel,Gros Islet,1,5,5,-,5,1,0,100,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,3 Aug 2014,v Hawksbills,Gros Islet,2,7,0*,-,1,0,0,0,not out,1,3.0,0,20,0,6.66
+53115,Daren Sammy,9 Aug 2014,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+53115,Daren Sammy,10 Aug 2014,v Amazon,Basseterre,1,5,22,-,13,0,3,169.23,bowled,2,2.0,0,22,0,11
+53115,Daren Sammy,27 Aug 2014,v Bangladesh,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,2 Nov 2014,v Cape Cobras,Johannesburg,2,4,1,3,2,0,0,50,caught,1,2.0,0,23,0,11.5
+53115,Daren Sammy,7 Nov 2014,v Knights,Centurion,2,5,23,22,17,1,1,135.29,caught,1,3.0,0,21,3,7
+53115,Daren Sammy,9 Nov 2014,v Dolphins,Durban,2,7,1,10,2,0,0,50,lbw,1,3.0,0,29,2,9.66
+53115,Daren Sammy,14 Nov 2014,v Knights,Bloemfontein,1,4,2,4,3,0,0,66.66,caught,2,2.0,0,14,0,7
+53115,Daren Sammy,16 Nov 2014,v Cape Cobras,Durban,2,6,6,19,7,1,0,85.71,caught,1,1.0,0,13,1,13
+53115,Daren Sammy,21 Nov 2014,v Lions,Benoni,1,5,0,3,3,0,0,0,caught,2,1.0,0,4,1,4
+53115,Daren Sammy,23 Nov 2014,v Warriors,Centurion,1,6,16,17,12,2,0,133.33,lbw,2,1.0,0,8,0,8
+53115,Daren Sammy,26 Nov 2014,v Dolphins,Benoni,1,7,15*,10,5,0,2,300,not out,2,4.0,0,29,2,7.25
+53115,Daren Sammy,28 Nov 2014,v Lions,Potchefstroom,2,7,6,3,2,0,1,300,caught,1,4.0,0,33,0,8.25
+53115,Daren Sammy,30 Nov 2014,v Warriors,Bloemfontein,2,6,8,23,16,0,0,50,bowled,1,3.0,0,26,0,8.66
+53115,Daren Sammy,20 Dec 2014,v Stars,Melbourne,1,6,38*,20,12,4,3,316.66,not out,2,2.0,0,16,0,8
+53115,Daren Sammy,23 Dec 2014,v Sixers,Hobart,1,6,2,6,3,0,0,66.66,caught,2,2.0,0,20,0,10
+53115,Daren Sammy,31 Dec 2014,v Strikers,Adelaide,1,7,1,-,4,0,0,25,bowled,2,3.0,0,10,1,3.33
+53115,Daren Sammy,2 Jan 2015,v Heat,Hobart,2,6,1*,9,1,0,0,100,not out,1,4.0,0,51,1,12.75
+53115,Daren Sammy,9 Jan 2015,v South Africa,Cape Town,2,8,0*,1,0,0,0,-,not out,1,2.0,0,17,0,8.5
+53115,Daren Sammy,11 Jan 2015,v South Africa,Johannesburg,2,7,20*,15,7,2,1,285.71,not out,1,1.0,0,17,0,17
+53115,Daren Sammy,14 Jan 2015,v South Africa,Durban,2,8,8,10,9,0,0,88.88,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,11 Apr 2015,v KKR,Eden Gardens,2,6,7,14,9,0,0,77.77,stumped,1,1.0,0,7,0,7
+53115,Daren Sammy,13 Apr 2015,v SRH,Bengaluru,1,6,6,14,9,0,0,66.66,bowled,2,2.0,0,18,0,9
+53115,Daren Sammy,31 May 2015,v Durham,Nottingham,1,6,19,19,13,1,1,146.15,caught,2,4.0,0,31,2,7.75
+53115,Daren Sammy,5 Jun 2015,v Leics,Nottingham,1,6,4*,11,7,0,0,57.14,not out,2,4.0,0,26,0,6.5
+53115,Daren Sammy,7 Jun 2015,v Worcs,Worcester,1,7,36*,16,16,1,4,225,not out,2,1.0,0,8,0,8
+53115,Daren Sammy,12 Jun 2015,v Warwickshire,Birmingham,1,7,23,25,18,1,2,127.77,caught,2,2.0,0,25,1,12.5
+53115,Daren Sammy,21 Jun 2015,v Red Steel,Gros Islet,1,5,15,-,9,1,1,166.66,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,24 Jun 2015,v Patriots,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+53115,Daren Sammy,26 Jun 2015,v Amazon,Gros Islet,1,7,18,-,17,2,0,105.88,caught,2,2.0,0,16,0,8
+53115,Daren Sammy,28 Jun 2015,v Tallawahs,Gros Islet,1,7,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+53115,Daren Sammy,1 Jul 2015,v Tridents,Basseterre,2,7,15,-,9,1,1,166.66,caught,1,4.0,0,28,2,7
+53115,Daren Sammy,3 Jul 2015,v Tridents,Basseterre,1,6,4,-,6,0,0,66.66,bowled,2,4.0,0,35,3,8.75
+53115,Daren Sammy,7 Jul 2015,v Tallawahs,Kingston,1,6,29*,-,23,0,2,126.08,retired notout,2,DNB,-,-,-,-
+53115,Daren Sammy,9 Nov 2015,v Sri Lanka,Pallekele,2,7,3,7,5,0,0,60,caught,1,2.0,0,26,0,13
+53115,Daren Sammy,11 Nov 2015,v Sri Lanka,Colombo (RPS),1,8,12*,7,7,1,0,171.42,not out,2,2.0,0,17,0,8.5
+53115,Daren Sammy,22 Nov 2015,v Chattogram,Mirpur,2,8,18,10,7,2,1,257.14,run out,1,2.0,0,19,0,9.5
+53115,Daren Sammy,23 Nov 2015,v Bulls,Mirpur,2,7,2,7,3,0,0,66.66,caught,1,2.0,0,13,0,6.5
+53115,Daren Sammy,25 Nov 2015,v Dynamites,Mirpur,1,5,3,11,4,0,0,75,caught,2,2.0,0,10,0,5
+53115,Daren Sammy,26 Nov 2015,v Super Stars,Mirpur,1,7,5,9,10,0,0,50,hit wicket,2,1.0,0,7,1,7
+53115,Daren Sammy,1 Dec 2015,v Chattogram,Chattogram,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+53115,Daren Sammy,6 Dec 2015,v Dynamites,Mirpur,2,5,23,24,21,4,0,109.52,bowled,1,3.0,0,18,1,6
+53115,Daren Sammy,7 Dec 2015,v Super Stars,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,8 Dec 2015,v Victorians,Mirpur,1,6,24,24,20,2,1,120,caught,2,2.0,0,21,1,10.5
+53115,Daren Sammy,12 Dec 2015,v Victorians,Mirpur,2,9,6,-,4,1,0,150,bowled,1,1.0,0,5,0,5
+53115,Daren Sammy,13 Dec 2015,v Bulls,Mirpur,1,6,23,16,10,3,1,230,caught,2,4.0,0,36,1,9
+53115,Daren Sammy,20 Dec 2015,v Sixers,Sydney,2,7,2,-,6,0,0,33.33,caught,1,2.0,0,32,0,16
+53115,Daren Sammy,22 Dec 2015,v Heat,Hobart,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+53115,Daren Sammy,29 Dec 2015,v Heat,Brisbane,1,6,7*,-,14,0,0,50,not out,2,2.0,0,8,1,4
+53115,Daren Sammy,1 Jan 2016,v Thunder,Hobart,1,7,18,10,10,0,1,180,caught,2,3.0,0,27,0,9
+53115,Daren Sammy,4 Jan 2016,v Renegades,Hobart,1,7,9*,13,6,1,0,150,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,6 Jan 2016,v Stars,Melbourne,1,7,17,16,14,1,0,121.42,bowled,2,1.0,0,6,0,6
+53115,Daren Sammy,10 Jan 2016,v Scorchers,Hobart,2,7,28*,-,12,2,2,233.33,not out,1,4.0,0,40,0,10
+53115,Daren Sammy,5 Feb 2016,v United,Dubai (DICS),1,7,10,-,4,0,1,250,run out,2,DNB,-,-,-,-
+53115,Daren Sammy,6 Feb 2016,v Qalandars,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,7 Feb 2016,v Gladiators,Dubai (DICS),1,7,48,-,31,1,4,154.83,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,11 Feb 2016,v Kings,Sharjah,1,6,18*,-,10,1,2,180,not out,2,1.0,0,9,1,9
+53115,Daren Sammy,12 Feb 2016,v United,Sharjah,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+53115,Daren Sammy,13 Feb 2016,v Qalandars,Sharjah,2,7,6,-,4,0,1,150,caught,1,3.0,0,20,1,6.66
+53115,Daren Sammy,14 Feb 2016,v Gladiators,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,17 Feb 2016,v Kings,Dubai (DICS),2,7,11*,-,6,1,1,183.33,not out,1,2.0,0,13,1,6.5
+53115,Daren Sammy,19 Feb 2016,v Gladiators,Dubai (DICS),2,6,38,-,29,5,1,131.03,caught,1,3.0,0,30,1,10
+53115,Daren Sammy,21 Feb 2016,v United,Dubai (DICS),2,5,9,-,8,2,0,112.5,bowled,1,1.0,0,12,0,12
+53115,Daren Sammy,16 Mar 2016,v England,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,20 Mar 2016,v Sri Lanka,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,25 Mar 2016,v South Africa,Nagpur,2,7,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+53115,Daren Sammy,27 Mar 2016,v Afghanistan,Nagpur,2,8,6,17,10,0,0,60,caught,1,2.0,0,17,1,8.5
+53115,Daren Sammy,31 Mar 2016,v India,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,3 Apr 2016,v England,Eden Gardens,2,7,2,3,2,0,0,100,caught,1,1.0,0,14,0,14
+53115,Daren Sammy,2 Jun 2016,v Kent,Southampton,1,6,27,13,15,2,1,180,caught,2,3.0,0,20,2,6.66
+53115,Daren Sammy,3 Jun 2016,v Glamorgan,Cardiff,1,9,2*,11,5,0,0,40,not out,2,1.0,0,18,0,18
+53115,Daren Sammy,8 Jun 2016,v Kent,Canterbury,2,8,30,28,17,1,3,176.47,caught,1,2.0,0,21,0,10.5
+53115,Daren Sammy,9 Jun 2016,v Surrey,The Oval,2,7,0,1,1,0,0,0,caught,1,3.0,0,27,2,9
+53115,Daren Sammy,19 Jun 2016,v Somerset,Taunton,1,9,0,12,5,0,0,0,caught,2,2.0,0,22,1,11
+53115,Daren Sammy,24 Jun 2016,v Essex,Chelmsford,1,7,11,12,10,1,0,110,bowled,2,2.5,0,18,1,6.35
+53115,Daren Sammy,25 Jun 2016,v Gloucs,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+53115,Daren Sammy,29 Jun 2016,v Trinbago,Port of Spain,2,6,11*,-,5,2,0,220,not out,1,2.0,0,15,0,7.5
+53115,Daren Sammy,3 Jul 2016,v Patriots,Basseterre,2,6,19,-,14,0,2,135.71,caught,1,3.0,0,30,1,10
+53115,Daren Sammy,12 Jul 2016,v Amazon,Providence,1,6,11,-,6,2,0,183.33,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,17 Jul 2016,v Tridents,Bridgetown,2,6,18,-,14,2,1,128.57,bowled,1,DNB,-,-,-,-
+53115,Daren Sammy,21 Jul 2016,v Patriots,Gros Islet,1,6,59,-,35,2,5,168.57,caught,2,4.0,0,26,1,6.5
+53115,Daren Sammy,23 Jul 2016,v Tridents,Gros Islet,2,5,0*,-,2,0,0,0,not out,1,4.0,0,18,3,4.5
+53115,Daren Sammy,24 Jul 2016,v Amazon,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+53115,Daren Sammy,26 Jul 2016,v Trinbago,Gros Islet,1,6,37*,-,18,3,2,205.55,not out,2,4.0,0,29,1,7.25
+53115,Daren Sammy,30 Jul 2016,v Tallawahs,Lauderhill,1,5,11*,-,6,0,1,183.33,not out,2,3.0,0,24,1,8
+53115,Daren Sammy,31 Jul 2016,v Tallawahs,Lauderhill,1,5,6*,-,4,1,0,150,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,4 Aug 2016,v Trinbago,Basseterre,1,6,40,-,22,1,3,181.81,caught,2,2.0,0,18,0,9
+53115,Daren Sammy,9 Nov 2016,v Khulna,Mirpur,2,6,31,32,23,0,3,134.78,bowled,1,2.0,0,18,0,9
+53115,Daren Sammy,11 Nov 2016,v Dynamites,Mirpur,2,6,0*,1,0,0,0,-,not out,1,1.0,0,11,0,11
+53115,Daren Sammy,13 Nov 2016,v Bulls,Mirpur,2,6,27,38,19,3,0,142.1,bowled,1,3.0,0,36,1,12
+53115,Daren Sammy,18 Nov 2016,v Chattogram,Chattogram,2,6,14,17,7,0,2,200,caught,1,3.0,0,30,0,10
+53115,Daren Sammy,19 Nov 2016,v Victorians,Chattogram,2,7,0,1,1,0,0,0,run out,1,4.0,0,34,2,8.5
+53115,Daren Sammy,21 Nov 2016,v Dynamites,Chattogram,2,6,9,20,8,1,0,112.5,bowled,1,3.0,0,31,0,10.33
+53115,Daren Sammy,25 Nov 2016,v Rangpur,Mirpur,1,7,44*,29,18,3,4,244.44,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,26 Nov 2016,v Khulna,Mirpur,1,6,71*,41,34,4,5,208.82,not out,2,1.0,0,8,1,8
+53115,Daren Sammy,28 Nov 2016,v Rangpur,Mirpur,1,7,5,4,6,1,0,83.33,bowled,2,DNB,-,-,-,-
+53115,Daren Sammy,30 Nov 2016,v Victorians,Mirpur,1,7,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,1 Dec 2016,v Bulls,Mirpur,2,7,11*,18,7,1,1,157.14,not out,1,3.0,0,28,0,9.33
+53115,Daren Sammy,3 Dec 2016,v Chattogram,Mirpur,2,5,3,8,3,0,0,100,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,6 Dec 2016,v Chattogram,Mirpur,2,7,55*,47,27,7,2,203.7,not out,1,3.0,0,20,0,6.66
+53115,Daren Sammy,7 Dec 2016,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,1,4
+53115,Daren Sammy,9 Dec 2016,v Dynamites,Mirpur,2,6,6,4,4,0,1,150,bowled,1,2.0,0,22,1,11
+53115,Daren Sammy,9 Feb 2017,v United,Dubai (DICS),1,6,7,-,7,0,1,100,caught,2,3.0,0,25,0,8.33
+53115,Daren Sammy,10 Feb 2017,v Kings,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,12 Feb 2017,v Qalandars,Dubai (DICS),2,7,3,-,9,0,0,33.33,bowled,1,DNB,-,-,-,-
+53115,Daren Sammy,17 Feb 2017,v Gladiators,Sharjah,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+53115,Daren Sammy,18 Feb 2017,v United,Sharjah,1,7,20,-,19,3,0,105.26,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,19 Feb 2017,v Kings,Sharjah,2,7,34,-,26,1,3,130.76,caught,1,1.0,0,16,0,16
+53115,Daren Sammy,24 Feb 2017,v Qalandars,Dubai (DICS),1,7,17*,-,8,1,1,212.5,not out,2,2.0,0,11,1,5.5
+53115,Daren Sammy,25 Feb 2017,v Gladiators,Dubai (DICS),2,7,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,28 Feb 2017,v Gladiators,Sharjah,2,7,11*,-,11,1,0,100,not out,1,1.0,0,18,1,18
+53115,Daren Sammy,3 Mar 2017,v Kings,Dubai (DICS),1,5,0*,-,1,0,0,0,not out,2,2.0,0,21,0,10.5
+53115,Daren Sammy,5 Mar 2017,v Gladiators,Lahore,1,7,28*,-,11,1,3,254.54,not out,2,1.0,0,8,0,8
+53115,Daren Sammy,4 Aug 2017,v Trinbago,Gros Islet,1,7,6,-,9,0,0,66.66,caught,2,1.0,0,21,0,21
+53115,Daren Sammy,7 Aug 2017,v Trinbago,Port of Spain,1,6,25,-,19,2,1,131.57,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,10 Aug 2017,v Tridents,Gros Islet,2,7,60*,-,29,5,5,206.89,not out,1,1.0,0,17,0,17
+53115,Daren Sammy,12 Aug 2017,v Patriots,Gros Islet,2,6,3,-,7,0,0,42.85,bowled,1,2.0,0,18,1,9
+53115,Daren Sammy,13 Aug 2017,v Amazon,Gros Islet,1,6,26,-,24,0,3,108.33,caught,2,2.5,0,24,0,8.47
+53115,Daren Sammy,15 Aug 2017,v Tallawahs,Gros Islet,1,5,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,19 Aug 2017,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+53115,Daren Sammy,22 Aug 2017,v Amazon,Providence,1,6,19,-,24,1,0,79.16,lbw,2,DNB,-,-,-,-
+53115,Daren Sammy,25 Aug 2017,v Tallawahs,Kingston,1,6,8,-,10,0,0,80,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,31 Aug 2017,v Tridents,Bridgetown,2,6,13*,-,7,1,1,185.71,not out,1,DNB,-,-,-,-
+53115,Daren Sammy,12 Sep 2017,v Pakistan,Lahore,2,8,29*,-,16,1,3,181.25,not out,1,2.0,0,24,0,12
+53115,Daren Sammy,15 Sep 2017,v Pakistan,Lahore,2,8,24*,-,23,2,1,104.34,not out,1,4.0,0,24,0,6
+53115,Daren Sammy,4 Nov 2017,v Rangpur,Sylhet,1,7,29,-,18,1,2,161.11,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,7 Nov 2017,v Sylhet,Sylhet,2,7,9,-,9,0,1,100,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,17 Nov 2017,v Sylhet,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,18 Nov 2017,v Dynamites,Mirpur,2,7,19,-,15,1,1,126.66,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,21 Nov 2017,v Khulna,Mirpur,1,7,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,25 Nov 2017,v Victorians,Chattogram,1,7,47*,-,14,1,6,335.71,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,27 Nov 2017,v Khulna,Chattogram,2,5,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,29 Nov 2017,v Chattogram,Chattogram,1,6,40,-,25,2,3,160,lbw,2,DNB,-,-,-,-
+53115,Daren Sammy,22 Feb 2018,v Sultans,Dubai (DICS),1,6,29,-,11,2,3,263.63,caught,2,1.0,0,12,0,12
+53115,Daren Sammy,24 Feb 2018,v United,Dubai (DICS),1,5,9,-,6,2,0,150,bowled,2,1.0,0,19,0,19
+53115,Daren Sammy,25 Feb 2018,v Kings,Dubai (DICS),1,7,2,-,7,0,0,28.57,run out,2,DNB,-,-,-,-
+53115,Daren Sammy,1 Mar 2018,v Gladiators,Sharjah,2,7,16*,-,4,1,2,400,not out,1,2.4,0,21,2,7.87
+53115,Daren Sammy,9 Mar 2018,v United,Dubai (DICS),2,7,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+53115,Daren Sammy,10 Mar 2018,v Gladiators,Dubai (DICS),1,7,36*,-,19,4,2,189.47,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,15 Mar 2018,v Kings,Sharjah,1,6,36*,-,15,2,4,240,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,16 Mar 2018,v Qalandars,Sharjah,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,20 Mar 2018,v Gladiators,Lahore,1,8,2,-,5,0,0,40,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,21 Mar 2018,v Kings,Lahore,1,5,23,-,12,1,2,191.66,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,25 Mar 2018,v United,Karachi,1,7,6,-,6,1,0,100,lbw,2,DNB,-,-,-,-
+53115,Daren Sammy,8 Aug 2018,v Trinbago,Port of Spain,2,7,1,-,5,0,0,20,lbw,1,DNB,-,-,-,-
+53115,Daren Sammy,14 Aug 2018,v Tallawahs,Kingston,1,6,36,-,24,2,3,150,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,16 Aug 2018,v Trinbago,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+53115,Daren Sammy,17 Aug 2018,v Tridents,Gros Islet,1,6,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,21 Aug 2018,v Patriots,Gros Islet,1,7,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,24 Aug 2018,v Amazon,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,25 Aug 2018,v Tallawahs,Gros Islet,2,7,2,-,6,0,0,33.33,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,2 Sep 2018,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,15 Feb 2019,v Gladiators,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+53115,Daren Sammy,17 Feb 2019,v Qalandars,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,21 Feb 2019,v Kings,Sharjah,1,7,24*,-,10,3,1,240,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,22 Feb 2019,v United,Sharjah,2,7,11,-,10,1,0,110,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,24 Feb 2019,v Sultans,Sharjah,2,6,5*,-,9,0,0,55.55,not out,1,DNB,-,-,-,-
+53115,Daren Sammy,28 Feb 2019,v Sultans,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,1 Mar 2019,v United,Dubai (DICS),2,7,40,-,29,2,2,137.93,run out,1,DNB,-,-,-,-
+53115,Daren Sammy,4 Mar 2019,v Gladiators,Abu Dhabi,1,5,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,5 Mar 2019,v Qalandars,Abu Dhabi,2,7,46,-,36,4,1,127.77,bowled,1,DNB,-,-,-,-
+53115,Daren Sammy,11 Mar 2019,v Kings,Karachi,1,5,5,-,6,0,0,83.33,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,13 Mar 2019,v Gladiators,Karachi,2,7,46,-,21,2,5,219.04,run out,1,DNB,-,-,-,-
+53115,Daren Sammy,15 Mar 2019,v United,Karachi,1,5,30*,-,15,2,2,200,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,17 Mar 2019,v Gladiators,Karachi,1,7,18,-,16,2,0,112.5,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,5 Sep 2019,v Amazon,Providence,2,7,18,-,17,1,1,105.88,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,8 Sep 2019,v Trinbago,Port of Spain,1,5,16,-,13,0,2,123.07,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,12 Sep 2019,v Tallawahs,Kingston,2,5,5,-,5,0,0,100,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,15 Sep 2019,v Patriots,Basseterre,1,7,18,-,20,0,2,90,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,20 Sep 2019,v Tridents,Gros Islet,2,6,2,-,8,0,0,25,caught,1,2.0,0,12,0,6
+53115,Daren Sammy,21 Sep 2019,v Trinbago,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+53115,Daren Sammy,24 Sep 2019,v Patriots,Gros Islet,1,7,30,-,19,3,1,157.89,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,25 Sep 2019,v Amazon,Gros Islet,1,6,9,-,15,0,0,60,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,27 Sep 2019,v Tallawahs,Gros Islet,2,7,16*,-,10,0,2,160,not out,1,1.0,0,10,1,10
+53115,Daren Sammy,29 Sep 2019,v Tridents,Bridgetown,2,7,1,-,4,0,0,25,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,21 Feb 2020,v Kings,Karachi,2,7,30,-,20,2,1,150,caught,1,DNB,-,-,-,-
+53115,Daren Sammy,22 Feb 2020,v Gladiators,Karachi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,1,9
+53115,Daren Sammy,26 Feb 2020,v Sultans,Multan,1,8,2,-,13,0,0,15.38,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,28 Feb 2020,v Qalandars,Rawalpindi,1,7,12,-,9,0,1,133.33,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,19 Aug 2020,v Tallawahs,Tarouba,1,7,4,-,8,0,0,50,run out,2,DNB,-,-,-,-
+53115,Daren Sammy,20 Aug 2020,v Tridents,Tarouba,2,5,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+53115,Daren Sammy,22 Aug 2020,v Patriots,Tarouba,1,7,4,-,2,1,0,200,caught,2,DNB,-,-,-,-
+53115,Daren Sammy,23 Aug 2020,v Amazon,Tarouba,1,8,0*,-,0,0,0,-,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,26 Aug 2020,v Trinbago,Port of Spain,1,7,2,-,7,0,0,28.57,lbw,2,DNB,-,-,-,-
+53115,Daren Sammy,27 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,30 Aug 2020,v Tridents,Port of Spain,1,7,2,-,6,0,0,33.33,run out,2,DNB,-,-,-,-
+53115,Daren Sammy,2 Sep 2020,v Amazon,Tarouba,1,7,1,-,4,0,0,25,lbw,2,DNB,-,-,-,-
+53115,Daren Sammy,5 Sep 2020,v Trinbago,Tarouba,2,6,14,-,9,0,1,155.55,caught,1,2.0,0,19,1,9.5
+53115,Daren Sammy,6 Sep 2020,v Tallawahs,Tarouba,1,8,7*,-,7,1,0,100,not out,2,DNB,-,-,-,-
+53115,Daren Sammy,8 Sep 2020,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53115,Daren Sammy,10 Sep 2020,v Trinbago,Tarouba,1,7,8,-,8,0,1,100,lbw,2,1.0,0,9,0,9

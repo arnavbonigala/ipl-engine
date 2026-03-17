@@ -1,0 +1,146 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+326017,Siddarth Kaul,23 Mar 2012,v Assam,Brabourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+326017,Siddarth Kaul,17 Mar 2013,v Haryana,Rohtak,2,11,0*,1,0,0,0,-,not out,1,4.0,0,27,0,6.75
+326017,Siddarth Kaul,18 Mar 2013,v Delhi,Gurgaon,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+326017,Siddarth Kaul,19 Mar 2013,v J & K,Gurgaon,1,10,3*,4,2,0,0,150,not out,2,3.3,0,19,3,5.42
+326017,Siddarth Kaul,21 Mar 2013,v Services,Rohtak,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+326017,Siddarth Kaul,22 Mar 2013,v Himachal,Gurgaon,2,10,7*,8,4,1,0,175,not out,1,4.0,0,14,4,3.5
+326017,Siddarth Kaul,26 Mar 2013,v Karnataka,Indore,1,10,8*,-,8,1,0,100,not out,2,4.0,0,16,2,4
+326017,Siddarth Kaul,27 Mar 2013,v Baroda,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+326017,Siddarth Kaul,28 Mar 2013,v Bengal,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+326017,Siddarth Kaul,30 Mar 2013,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,0,4
+326017,Siddarth Kaul,31 Mar 2013,v Gujarat,Indore,1,9,0*,2,0,0,0,-,not out,2,4.0,0,21,1,5.25
+326017,Siddarth Kaul,12 Apr 2013,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,1,8,0,4
+326017,Siddarth Kaul,7 May 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.5,1,23,1,6
+326017,Siddarth Kaul,10 May 2013,v RCB,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+326017,Siddarth Kaul,14 May 2013,v CSK,Chennai,2,11,7*,8,9,0,0,77.77,not out,1,4.0,0,37,0,9.25
+326017,Siddarth Kaul,16 May 2013,v Kings XI,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+326017,Siddarth Kaul,19 May 2013,v Warriors,Pune,2,11,0*,1,0,0,0,-,not out,1,4.0,0,27,2,6.75
+326017,Siddarth Kaul,1 Apr 2014,v Haryana,Mohali,2,11,4*,8,6,0,0,66.66,not out,1,3.5,0,15,1,3.91
+326017,Siddarth Kaul,2 Apr 2014,v Himachal,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+326017,Siddarth Kaul,3 Apr 2014,v Delhi,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+326017,Siddarth Kaul,5 Apr 2014,v J & K,Mohali,1,10,3*,5,2,0,0,150,not out,2,4.0,0,34,1,8.5
+326017,Siddarth Kaul,7 May 2014,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+326017,Siddarth Kaul,10 May 2014,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,1,5
+326017,Siddarth Kaul,13 May 2014,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+326017,Siddarth Kaul,15 May 2014,v RR,Ahmedabad,2,11,2*,-,2,0,0,100,not out,1,3.0,0,34,0,11.33
+326017,Siddarth Kaul,23 May 2014,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+326017,Siddarth Kaul,24 Mar 2015,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+326017,Siddarth Kaul,25 Mar 2015,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,0,6.85
+326017,Siddarth Kaul,26 Mar 2015,v J & K,Delhi,1,10,3*,1,1,0,0,300,not out,2,3.2,0,14,3,4.2
+326017,Siddarth Kaul,27 Mar 2015,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+326017,Siddarth Kaul,28 Mar 2015,v Himachal,Delhi,1,9,0*,1,0,0,0,-,not out,2,2.0,0,4,1,2
+326017,Siddarth Kaul,1 Apr 2015,v Hyderabad,Cuttack,2,10,4*,3,3,1,0,133.33,not out,1,4.0,0,19,2,4.75
+326017,Siddarth Kaul,2 Apr 2015,v Mumbai,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+326017,Siddarth Kaul,3 Apr 2015,v Odisha,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.1,0,32,1,10.1
+326017,Siddarth Kaul,5 Apr 2015,v Rajasthan,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+326017,Siddarth Kaul,7 Apr 2015,v Gujarat,Bhubaneswar,1,9,1,7,1,0,0,100,run out,2,4.0,0,28,2,7
+326017,Siddarth Kaul,2 Jan 2016,v Rajasthan,Kochi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+326017,Siddarth Kaul,3 Jan 2016,v J & K,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+326017,Siddarth Kaul,6 Jan 2016,v Jharkhand,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+326017,Siddarth Kaul,7 Jan 2016,v Tripura,Kochi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,5,0,2.5
+326017,Siddarth Kaul,9 Jan 2016,v Kerala,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.5,0,24,2,6.26
+326017,Siddarth Kaul,10 Jan 2016,v Saurashtra,Kochi,2,10,0,3,2,0,0,0,run out,1,4.0,0,40,1,10
+326017,Siddarth Kaul,29 Jan 2017,v Haryana,Nadaun,2,10,4,7,6,0,0,66.66,caught,1,4.0,0,28,1,7
+326017,Siddarth Kaul,30 Jan 2017,v Delhi,Dharamsala,2,10,1*,2,1,0,0,100,not out,1,4.0,0,11,1,2.75
+326017,Siddarth Kaul,31 Jan 2017,v J & K,Dharamsala,2,10,4*,10,2,0,0,200,not out,1,4.0,0,28,1,7
+326017,Siddarth Kaul,1 Feb 2017,v Services,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+326017,Siddarth Kaul,2 Feb 2017,v Himachal,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+326017,Siddarth Kaul,17 Apr 2017,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.4,0,26,1,7.09
+326017,Siddarth Kaul,19 Apr 2017,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+326017,Siddarth Kaul,22 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,0,15
+326017,Siddarth Kaul,28 Apr 2017,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+326017,Siddarth Kaul,30 Apr 2017,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+326017,Siddarth Kaul,2 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+326017,Siddarth Kaul,6 May 2017,v Supergiant,Hyderabad,2,10,0*,3,2,0,0,0,not out,1,4.0,0,29,4,7.25
+326017,Siddarth Kaul,8 May 2017,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+326017,Siddarth Kaul,13 May 2017,v Guj Lions,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+326017,Siddarth Kaul,17 May 2017,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+326017,Siddarth Kaul,9 Jan 2018,v Delhi,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+326017,Siddarth Kaul,10 Jan 2018,v Services,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+326017,Siddarth Kaul,12 Jan 2018,v Haryana,Delhi,1,10,0*,1,0,0,0,-,not out,2,3.5,0,32,0,8.34
+326017,Siddarth Kaul,14 Jan 2018,v J & K,Delhi,2,10,5,4,3,1,0,166.66,caught,1,4.0,0,26,0,6.5
+326017,Siddarth Kaul,15 Jan 2018,v Himachal,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+326017,Siddarth Kaul,21 Jan 2018,v Karnataka,Kolkata,2,9,6,12,6,0,0,100,run out,1,3.0,0,34,0,11.33
+326017,Siddarth Kaul,22 Jan 2018,v Mumbai,Kolkata,2,9,1*,2,1,0,0,100,not out,1,4.0,0,42,0,10.5
+326017,Siddarth Kaul,23 Jan 2018,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+326017,Siddarth Kaul,25 Jan 2018,v Rajasthan,Eden Gardens,1,10,0,3,1,0,0,0,caught,2,4.0,0,21,0,5.25
+326017,Siddarth Kaul,9 Apr 2018,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+326017,Siddarth Kaul,12 Apr 2018,v MI,Hyderabad,2,9,0,-,4,0,0,0,caught,1,4.0,0,29,2,7.25
+326017,Siddarth Kaul,14 Apr 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+326017,Siddarth Kaul,19 Apr 2018,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+326017,Siddarth Kaul,22 Apr 2018,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+326017,Siddarth Kaul,24 Apr 2018,v MI,Wankhede,1,10,2,-,9,0,0,22.22,run out,2,4.0,0,23,3,5.75
+326017,Siddarth Kaul,26 Apr 2018,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+326017,Siddarth Kaul,29 Apr 2018,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+326017,Siddarth Kaul,5 May 2018,v Daredevils,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+326017,Siddarth Kaul,7 May 2018,v RCB,Hyderabad,1,10,1,-,1,0,0,100,run out,2,4.0,0,25,1,6.25
+326017,Siddarth Kaul,10 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,0,12
+326017,Siddarth Kaul,13 May 2018,v CSK,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+326017,Siddarth Kaul,17 May 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,2,11
+326017,Siddarth Kaul,19 May 2018,v KKR,Hyderabad,1,10,0*,-,0,0,0,-,not out,2,4.0,0,26,2,6.5
+326017,Siddarth Kaul,22 May 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+326017,Siddarth Kaul,25 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+326017,Siddarth Kaul,27 May 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,0,14.33
+326017,Siddarth Kaul,29 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,2.0,0,4,1,2
+326017,Siddarth Kaul,8 Jul 2018,v England,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+326017,Siddarth Kaul,27 Feb 2019,v Australia,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.4,0,45,1,12.27
+326017,Siddarth Kaul,24 Mar 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+326017,Siddarth Kaul,29 Mar 2019,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+326017,Siddarth Kaul,31 Mar 2019,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,0,5.33
+326017,Siddarth Kaul,4 Apr 2019,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+326017,Siddarth Kaul,6 Apr 2019,v MI,Hyderabad,2,10,0,6,1,0,0,0,caught,1,4.0,0,34,2,8.5
+326017,Siddarth Kaul,8 Apr 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+326017,Siddarth Kaul,27 Apr 2019,v RR,Jaipur,1,10,0*,4,0,0,0,-,not out,2,4.0,0,48,0,12
+326017,Siddarth Kaul,8 Nov 2019,v Hyderabad,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,3,11
+326017,Siddarth Kaul,9 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+326017,Siddarth Kaul,11 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+326017,Siddarth Kaul,12 Nov 2019,v Himachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+326017,Siddarth Kaul,14 Nov 2019,v Railways,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,4,4.75
+326017,Siddarth Kaul,15 Nov 2019,v Chhattisgarh,Chandigarh,1,10,1*,-,1,0,0,100,not out,2,4.0,0,33,2,8.25
+326017,Siddarth Kaul,18 Nov 2019,v Maharashtra,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+326017,Siddarth Kaul,21 Nov 2019,v Jharkhand,Surat,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+326017,Siddarth Kaul,24 Nov 2019,v Karnataka,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,0,15.33
+326017,Siddarth Kaul,25 Nov 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,0.3,0,5,0,10
+326017,Siddarth Kaul,27 Nov 2019,v Mumbai,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+326017,Siddarth Kaul,4 Oct 2020,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,64,2,16
+326017,Siddarth Kaul,10 Jan 2021,v UP,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+326017,Siddarth Kaul,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,4,6.5
+326017,Siddarth Kaul,14 Jan 2021,v Railways,Alur (2),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+326017,Siddarth Kaul,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,4,8.25
+326017,Siddarth Kaul,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,3,3.75
+326017,Siddarth Kaul,29 Jan 2021,v Baroda,Ahmedabad,2,10,0*,-,0,0,0,-,not out,1,4.0,0,31,1,7.75
+326017,Siddarth Kaul,21 Apr 2021,v Punjab Kings,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.4,0,27,1,7.36
+326017,Siddarth Kaul,25 Apr 2021,v DC,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+326017,Siddarth Kaul,28 Apr 2021,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+326017,Siddarth Kaul,27 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+326017,Siddarth Kaul,30 Sep 2021,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.4,0,24,0,9
+326017,Siddarth Kaul,3 Oct 2021,v KKR,Dubai (DICS),1,10,7*,8,5,1,0,140,not out,2,3.4,0,17,1,4.63
+326017,Siddarth Kaul,6 Oct 2021,v RCB,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,24,1,6
+326017,Siddarth Kaul,8 Oct 2021,v MI,Abu Dhabi,2,10,1*,7,3,0,0,33.33,not out,1,4.0,0,56,0,14
+326017,Siddarth Kaul,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.5,0,6,3,2.11
+326017,Siddarth Kaul,5 Nov 2021,v Maharashtra,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+326017,Siddarth Kaul,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+326017,Siddarth Kaul,8 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+326017,Siddarth Kaul,9 Nov 2021,v Tamil Nadu,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.1,0,28,1,8.84
+326017,Siddarth Kaul,19 May 2022,v GT,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+326017,Siddarth Kaul,11 Oct 2022,v Hyderabad,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+326017,Siddarth Kaul,12 Oct 2022,v Delhi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+326017,Siddarth Kaul,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+326017,Siddarth Kaul,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,4,7
+326017,Siddarth Kaul,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,2,1,1
+326017,Siddarth Kaul,20 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,5,3
+326017,Siddarth Kaul,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+326017,Siddarth Kaul,30 Oct 2022,v Haryana,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+326017,Siddarth Kaul,1 Nov 2022,v Karnataka,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,1,32,1,8
+326017,Siddarth Kaul,3 Nov 2022,v Himachal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+326017,Siddarth Kaul,16 Oct 2023,v Saurashtra,Ranchi,2,-,sub,-,-,-,-,-,-,1,4.0,0,51,2,12.75
+326017,Siddarth Kaul,17 Oct 2023,v Andhra,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+326017,Siddarth Kaul,19 Oct 2023,v Railways,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+326017,Siddarth Kaul,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+326017,Siddarth Kaul,23 Oct 2023,v Gujarat,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+326017,Siddarth Kaul,25 Oct 2023,v Goa,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.1,0,22,1,10.15
+326017,Siddarth Kaul,27 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+326017,Siddarth Kaul,2 Nov 2023,v UP,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+326017,Siddarth Kaul,4 Nov 2023,v Delhi,Mohali,2,-,sub,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+326017,Siddarth Kaul,6 Nov 2023,v Baroda,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25

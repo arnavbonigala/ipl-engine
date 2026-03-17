@@ -1,0 +1,85 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+290632,Sreenath Aravind,3 Apr 2007,v Kerala,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+290632,Sreenath Aravind,4 Apr 2007,v Andhra,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+290632,Sreenath Aravind,5 Apr 2007,v Goa,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,4,6
+290632,Sreenath Aravind,6 Apr 2007,v Tamil Nadu,Visakhapatnam,1,11,4*,6,6,0,0,66.66,not out,2,4.0,0,26,0,6.5
+290632,Sreenath Aravind,7 Apr 2007,v Hyderabad,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+290632,Sreenath Aravind,16 Apr 2007,v Punjab,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+290632,Sreenath Aravind,17 Apr 2007,v Gujarat,Brabourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,2,8.33
+290632,Sreenath Aravind,18 Apr 2007,v Orissa,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.4,0,10,3,3.75
+290632,Sreenath Aravind,19 Apr 2007,v Railways,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.1,0,19,1,6
+290632,Sreenath Aravind,26 Sep 2009,v Andhra,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+290632,Sreenath Aravind,14 Oct 2010,v Goa,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.4,0,20,1,7.5
+290632,Sreenath Aravind,15 Oct 2010,v Andhra,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+290632,Sreenath Aravind,16 Oct 2010,v Kerala,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+290632,Sreenath Aravind,18 Oct 2010,v Tamil Nadu,Hyderabad,2,11,2*,1,3,0,0,66.66,not out,1,DNB,-,-,-,-
+290632,Sreenath Aravind,14 Apr 2011,v Chargers,Hyderabad,2,11,2*,-,3,0,0,66.66,not out,1,3.0,0,26,0,8.66
+290632,Sreenath Aravind,22 Apr 2011,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,2,12.33
+290632,Sreenath Aravind,26 Apr 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+290632,Sreenath Aravind,29 Apr 2011,v Warriors,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+290632,Sreenath Aravind,6 May 2011,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,4,3.5
+290632,Sreenath Aravind,8 May 2011,v Kochi,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+290632,Sreenath Aravind,11 May 2011,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+290632,Sreenath Aravind,14 May 2011,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+290632,Sreenath Aravind,17 May 2011,v Kings XI,Dharamsala,2,11,11*,-,5,2,0,220,not out,1,4.0,0,36,0,9
+290632,Sreenath Aravind,22 May 2011,v CSK,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+290632,Sreenath Aravind,24 May 2011,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+290632,Sreenath Aravind,27 May 2011,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,2,9
+290632,Sreenath Aravind,28 May 2011,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,2,13
+290632,Sreenath Aravind,23 Sep 2011,v Warriors,Bengaluru,1,10,1*,4,2,0,0,50,not out,2,4.0,0,32,2,8
+290632,Sreenath Aravind,29 Sep 2011,v KKR,Bengaluru,1,10,0*,1,0,0,0,-,not out,2,3.0,0,37,0,12.33
+290632,Sreenath Aravind,3 Oct 2011,v Somerset,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+290632,Sreenath Aravind,5 Oct 2011,v South Aust,Bengaluru,2,10,6*,-,3,1,0,200,not out,1,4.0,0,69,0,17.25
+290632,Sreenath Aravind,7 Oct 2011,v NSW,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,1,13.75
+290632,Sreenath Aravind,9 Oct 2011,v MI,Chennai,2,10,4,7,4,0,0,100,bowled,1,4.0,0,33,1,8.25
+290632,Sreenath Aravind,15 Apr 2012,v RR,Bengaluru,2,10,14*,12,8,3,0,175,not out,1,3.0,0,48,0,16
+290632,Sreenath Aravind,3 Apr 2014,v Kerala,Visakhapatnam,2,10,0,1,1,0,0,0,caught,1,4.0,0,16,1,4
+290632,Sreenath Aravind,4 Apr 2014,v Goa,Visakhapatnam,2,10,3*,6,4,0,0,75,not out,1,4.0,0,31,2,7.75
+290632,Sreenath Aravind,5 Apr 2014,v Tamil Nadu,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+290632,Sreenath Aravind,25 Mar 2015,v Andhra,Kochi,1,10,10,5,7,2,0,142.85,lbw,2,3.3,0,23,0,6.57
+290632,Sreenath Aravind,26 Mar 2015,v Goa,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+290632,Sreenath Aravind,29 Mar 2015,v Kerala,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+290632,Sreenath Aravind,6 May 2015,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,4,6.75
+290632,Sreenath Aravind,10 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+290632,Sreenath Aravind,13 May 2015,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,31,0,15.5
+290632,Sreenath Aravind,20 May 2015,v RR,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+290632,Sreenath Aravind,22 May 2015,v CSK,Ranchi,1,10,0*,1,1,0,0,0,not out,2,4.0,0,25,1,6.25
+290632,Sreenath Aravind,2 Oct 2015,v South Africa,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,3.4,0,44,1,12
+290632,Sreenath Aravind,2 Jan 2016,v Services,Cuttack,1,10,0*,1,1,0,0,0,not out,2,4.0,0,21,1,5.25
+290632,Sreenath Aravind,3 Jan 2016,v Mumbai,Cuttack,1,10,0,3,1,0,0,0,run out,2,4.0,0,32,2,8
+290632,Sreenath Aravind,7 Jan 2016,v Maharashtra,Cuttack,2,11,1*,2,1,0,0,100,not out,1,4.0,0,35,1,8.75
+290632,Sreenath Aravind,8 Jan 2016,v Odisha,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+290632,Sreenath Aravind,17 Apr 2016,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,1,10.66
+290632,Sreenath Aravind,2 May 2016,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.1,0,16,1,7.38
+290632,Sreenath Aravind,11 May 2016,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+290632,Sreenath Aravind,14 May 2016,v Guj Lions,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+290632,Sreenath Aravind,16 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+290632,Sreenath Aravind,18 May 2016,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,2,9
+290632,Sreenath Aravind,22 May 2016,v Daredevils,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+290632,Sreenath Aravind,24 May 2016,v Guj Lions,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,0,4.33
+290632,Sreenath Aravind,29 May 2016,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+290632,Sreenath Aravind,29 Jan 2017,v Tamil Nadu,Chennai,1,10,8*,14,7,1,0,114.28,not out,2,3.2,0,27,0,8.1
+290632,Sreenath Aravind,30 Jan 2017,v Kerala,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+290632,Sreenath Aravind,31 Jan 2017,v Andhra,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+290632,Sreenath Aravind,2 Feb 2017,v Hyderabad,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,3,8.33
+290632,Sreenath Aravind,3 Feb 2017,v Goa,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,4,7.25
+290632,Sreenath Aravind,12 Feb 2017,v North Zone,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+290632,Sreenath Aravind,15 Feb 2017,v East Zone,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.4,0,47,1,12.81
+290632,Sreenath Aravind,5 Apr 2017,v SRH,Hyderabad,2,8,0,5,2,0,0,0,bowled,1,3.0,0,36,0,12
+290632,Sreenath Aravind,14 Apr 2017,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+290632,Sreenath Aravind,16 Apr 2017,v Supergiant,Bengaluru,2,10,6*,7,7,0,0,85.71,not out,1,4.0,0,29,2,7.25
+290632,Sreenath Aravind,18 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25
+290632,Sreenath Aravind,23 Apr 2017,v KKR,Eden Gardens,2,10,5*,8,4,1,0,125,not out,1,3.3,0,27,1,7.71
+290632,Sreenath Aravind,27 Apr 2017,v Guj Lions,Bengaluru,1,9,9,22,16,0,0,56.25,caught,2,3.0,0,19,0,6.33
+290632,Sreenath Aravind,29 Apr 2017,v Supergiant,Pune,2,10,8*,15,5,1,0,160,not out,1,4.0,0,30,0,7.5
+290632,Sreenath Aravind,1 May 2017,v MI,Wankhede,1,9,0,1,0,0,0,-,run out,2,2.0,0,21,0,10.5
+290632,Sreenath Aravind,5 May 2017,v Kings XI,Bengaluru,2,8,4,11,6,0,0,66.66,lbw,1,2.0,0,13,1,6.5
+290632,Sreenath Aravind,7 May 2017,v KKR,Bengaluru,1,8,0*,2,0,0,0,-,not out,2,1.0,0,26,0,26
+290632,Sreenath Aravind,8 Jan 2018,v Goa,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+290632,Sreenath Aravind,9 Jan 2018,v Andhra,Vizianagaram,1,-,DNB,-,-,-,-,-,-,2,3.2,0,27,1,8.1
+290632,Sreenath Aravind,11 Jan 2018,v Hyderabad,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+290632,Sreenath Aravind,12 Jan 2018,v Tamil Nadu,Vizianagaram,1,11,1*,2,1,0,0,100,not out,2,2.0,0,4,1,2
+290632,Sreenath Aravind,14 Jan 2018,v Kerala,Vizianagaram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+290632,Sreenath Aravind,21 Jan 2018,v Punjab,Kolkata,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,4,8
+290632,Sreenath Aravind,23 Jan 2018,v Rajasthan,Kolkata,2,11,6,20,7,0,0,85.71,stumped,1,4.0,0,25,3,6.25
+290632,Sreenath Aravind,24 Jan 2018,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,6,2,3

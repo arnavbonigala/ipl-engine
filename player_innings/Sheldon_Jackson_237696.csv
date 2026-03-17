@@ -1,0 +1,85 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+237696,Sheldon Jackson,21 Oct 2009,v Maharashtra,Pune,1,3,2,6,8,0,0,25,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,22 Oct 2009,v Mumbai,Pune,2,2,21,31,19,2,1,110.52,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,24 Oct 2009,v Baroda,Pune,1,5,2,2,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,24 Oct 2010,v Baroda,Vadodara,1,5,19,35,31,2,0,61.29,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,25 Oct 2010,v Gujarat,Vadodara,1,6,2,2,5,0,0,40,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,21 Oct 2011,v Maharashtra,Rajkot,1,4,31,24,20,2,2,155,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,22 Oct 2011,v Mumbai,Rajkot,1,4,25*,0,20,2,0,125,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,24 Oct 2011,v Baroda,Rajkot,1,4,73*,65,51,10,2,143.13,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,25 Oct 2011,v Gujarat,Rajkot,1,4,0,5,1,0,0,0,run out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,18 Mar 2013,v Maharashtra,Ahmedabad,1,3,20,-,24,2,1,83.33,run out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,19 Mar 2013,v Mumbai,Ahmedabad,1,3,20,23,22,4,0,90.9,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,21 Mar 2013,v Baroda,Ahmedabad,1,3,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,22 Mar 2013,v Gujarat,Ahmedabad,2,3,16,28,18,1,0,88.88,bowled,1,DNB,-,-,-,-
+237696,Sheldon Jackson,31 Mar 2014,v Maharashtra,Wankhede,1,3,30,42,31,4,0,96.77,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,2 Apr 2014,v Mumbai,Mumbai,2,3,26,37,27,2,1,96.29,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,3 Apr 2014,v Baroda,Mumbai,2,3,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,4 Apr 2014,v Gujarat,Wankhede,2,3,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,25 Mar 2015,v Maharashtra,Pune,2,1,20,23,18,4,0,111.11,run out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,26 Mar 2015,v Mumbai,Pune,1,1,53,53,37,5,3,143.24,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,27 Mar 2015,v Baroda,Pune,2,1,37,38,40,3,1,92.5,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,28 Mar 2015,v Gujarat,Pune,2,1,38,34,29,4,1,131.03,stumped,1,DNB,-,-,-,-
+237696,Sheldon Jackson,2 Jan 2016,v Tripura,Kochi,1,1,5,10,10,0,0,50,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,4 Jan 2016,v J & K,Kochi,1,1,4,10,10,1,0,40,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,6 Jan 2016,v Kerala,Kochi,2,1,11,16,9,2,0,122.22,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,7 Jan 2016,v Rajasthan,Kochi,1,1,23,47,30,1,1,76.66,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,9 Jan 2016,v Jharkhand,Kochi,1,1,7,13,12,1,0,58.33,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,10 Jan 2016,v Punjab,Kochi,1,5,38,39,23,3,2,165.21,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,30 Jan 2017,v Maharashtra,Vadodara,2,4,1,7,5,0,0,20,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,1 Feb 2017,v Mumbai,Vadodara,1,4,30,25,20,6,0,150,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,2 Feb 2017,v Baroda,Vadodara,1,1,7,8,6,1,0,116.66,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,4 Feb 2017,v Gujarat,Vadodara,1,1,4,19,11,0,0,36.36,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,16 Feb 2017,v South Zone,Wankhede,1,1,23,36,26,3,0,88.46,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,18 Feb 2017,v East Zone,Wankhede,1,1,52,58,44,5,2,118.18,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,28 Apr 2017,v Daredevils,Eden Gardens,2,5,12*,10,5,2,0,240,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,30 Apr 2017,v SRH,Hyderabad,2,6,16,28,17,1,0,94.11,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,3 May 2017,v Supergiant,Eden Gardens,1,3,10,15,9,2,0,111.11,hit wicket,2,DNB,-,-,-,-
+237696,Sheldon Jackson,7 May 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+237696,Sheldon Jackson,8 Jan 2018,v Maharashtra,Rajkot,1,2,14,33,16,1,0,87.5,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,10 Jan 2018,v Mumbai,Rajkot,2,2,20,27,15,2,1,133.33,bowled,1,DNB,-,-,-,-
+237696,Sheldon Jackson,11 Jan 2018,v Baroda,Rajkot,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,13 Jan 2018,v Gujarat,Rajkot,1,2,11,18,17,0,1,64.7,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,21 Feb 2019,v Railways,Indore,1,4,2,5,3,0,0,66.66,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,22 Feb 2019,v M. Pradesh,Indore,2,4,4,7,5,1,0,80,bowled,1,DNB,-,-,-,-
+237696,Sheldon Jackson,24 Feb 2019,v Punjab,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+237696,Sheldon Jackson,25 Feb 2019,v Sikkim,Indore,2,4,24,15,13,5,0,184.61,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,28 Feb 2019,v Mumbai,Indore,2,4,1,-,2,0,0,50,run out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,2 Mar 2019,v Goa,Indore,2,4,36,-,32,3,1,112.5,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,8 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+237696,Sheldon Jackson,9 Nov 2019,v Jharkhand,Surat,1,4,41*,-,25,4,1,164,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,11 Nov 2019,v Gujarat,Surat,1,6,57*,-,27,3,5,211.11,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,12 Nov 2019,v Delhi,Surat,1,6,30,-,27,1,1,111.11,run out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,14 Nov 2019,v Odisha,Surat,2,5,17,-,17,3,0,100,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,15 Nov 2019,v Sikkim,Surat,2,5,5,-,8,0,0,62.5,run out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,17 Nov 2019,v J & K,Surat,1,5,55*,-,46,5,2,119.56,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,11 Jan 2021,v Kerala,Wankhede,1,3,17,-,16,2,0,106.25,run out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,13 Jan 2021,v Haryana,Mumbai,1,3,82,-,50,8,5,164,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,15 Jan 2021,v Andhra,Wankhede,2,3,106*,-,50,7,8,212,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,17 Jan 2021,v Mumbai,Wankhede,2,3,24*,-,29,1,0,82.75,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,19 Jan 2021,v Delhi,Mumbai,2,3,13,-,11,2,0,118.18,bowled,1,DNB,-,-,-,-
+237696,Sheldon Jackson,4 Nov 2021,v Hyderabad,Sultanpur,1,3,0,10,5,0,0,0,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,5 Nov 2021,v UP,Sultanpur,1,3,10,10,6,2,0,166.66,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,6 Nov 2021,v Uttarakhand,Sultanpur,1,3,62*,72,50,5,3,124,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,8 Nov 2021,v Chandigarh,Rohtak,1,3,70,-,40,4,5,175,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,9 Nov 2021,v Delhi,Rohtak,1,4,79*,84,47,11,2,168.08,not out,2,DNB,-,-,-,-
+237696,Sheldon Jackson,16 Nov 2021,v Karnataka,Delhi,1,4,50,-,43,3,3,116.27,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,26 Mar 2022,v CSK,Wankhede,2,6,3*,6,3,0,0,100,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,30 Mar 2022,v RCB,DY Patil,1,7,0,2,1,0,0,0,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,15 Apr 2022,v SRH,Brabourne,1,6,7,18,7,0,1,100,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,18 Apr 2022,v RR,Brabourne,2,7,8,25,8,0,0,100,caught,1,DNB,-,-,-,-
+237696,Sheldon Jackson,9 May 2022,v MI,DY Patil,1,7,5,14,7,0,0,71.42,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,12 Oct 2022,v Baroda,Indore,2,4,17,-,16,1,1,106.25,bowled,1,DNB,-,-,-,-
+237696,Sheldon Jackson,14 Oct 2022,v Nagaland,Indore,1,4,3,-,6,0,0,50,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,16 Oct 2022,v Gujarat,Indore,2,4,15,-,16,2,0,93.75,stumped,1,DNB,-,-,-,-
+237696,Sheldon Jackson,18 Oct 2022,v Himachal,Indore,2,5,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+237696,Sheldon Jackson,20 Oct 2022,v Bihar,Indore,2,4,26*,-,15,1,2,173.33,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,30 Oct 2022,v Kerala,Eden Gardens,1,4,64,75,44,4,4,145.45,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,1 Nov 2022,v Mumbai,Eden Gardens,1,4,31,69,37,3,0,83.78,bowled,2,DNB,-,-,-,-
+237696,Sheldon Jackson,16 Oct 2023,v Punjab,Ranchi,1,4,41,-,29,6,1,141.37,stumped,2,DNB,-,-,-,-
+237696,Sheldon Jackson,17 Oct 2023,v Gujarat,Ranchi,1,4,1,-,3,0,0,33.33,lbw,2,DNB,-,-,-,-
+237696,Sheldon Jackson,19 Oct 2023,v Manipur,Ranchi,1,4,11,-,8,2,0,137.5,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,21 Oct 2023,v Railways,Ranchi,1,4,32,-,18,2,3,177.77,caught,2,DNB,-,-,-,-
+237696,Sheldon Jackson,23 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+237696,Sheldon Jackson,25 Oct 2023,v Andhra,Ranchi,2,4,11*,-,15,1,0,73.33,not out,1,DNB,-,-,-,-
+237696,Sheldon Jackson,27 Oct 2023,v Goa,Ranchi,2,5,26*,-,25,0,1,104,not out,1,DNB,-,-,-,-

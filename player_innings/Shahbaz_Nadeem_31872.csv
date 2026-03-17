@@ -1,0 +1,151 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+31872,Shahbaz Nadeem,3 Apr 2007,v Orissa,Eden Gardens,2,8,12,14,10,1,0,120,bowled,1,4.0,0,14,1,3.5
+31872,Shahbaz Nadeem,4 Apr 2007,v Bengal,Eden Gardens,2,8,1,1,3,0,0,33.33,run out,1,4.0,0,37,1,9.25
+31872,Shahbaz Nadeem,5 Apr 2007,v Assam,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+31872,Shahbaz Nadeem,7 Apr 2007,v Tripura,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+31872,Shahbaz Nadeem,20 Oct 2009,v Tripura,Dhanbad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,4,1,2
+31872,Shahbaz Nadeem,22 Oct 2009,v Bengal,Dhanbad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,6,1,3
+31872,Shahbaz Nadeem,23 Oct 2009,v Assam,Dhanbad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+31872,Shahbaz Nadeem,24 Oct 2009,v Orissa,Dhanbad,2,9,30*,19,18,1,2,166.66,not out,1,4.0,1,15,0,3.75
+31872,Shahbaz Nadeem,12 Mar 2010,v Himachal,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+31872,Shahbaz Nadeem,21 Oct 2010,v Tripura,Cuttack,1,7,19,21,20,0,1,95,caught,2,3.0,0,9,0,3
+31872,Shahbaz Nadeem,22 Oct 2010,v Bengal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+31872,Shahbaz Nadeem,23 Oct 2010,v Orissa,Cuttack,1,7,2,5,5,0,0,40,caught,2,4.0,0,32,0,8
+31872,Shahbaz Nadeem,24 Oct 2010,v Assam,Cuttack,1,7,16,14,10,1,1,160,run out,2,4.0,0,24,2,6
+31872,Shahbaz Nadeem,12 Apr 2011,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+31872,Shahbaz Nadeem,17 Apr 2011,v Warriors,DY Patil,2,9,0*,-,0,0,0,-,not out,1,4.0,0,39,2,9.75
+31872,Shahbaz Nadeem,19 Apr 2011,v Chargers,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+31872,Shahbaz Nadeem,7 May 2011,v MI,Wankhede,2,11,0,-,1,0,0,0,caught,1,4.0,0,28,1,7
+31872,Shahbaz Nadeem,12 May 2011,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+31872,Shahbaz Nadeem,23 Oct 2011,v Orissa,Jamshedpur,2,6,5*,6,5,1,0,100,not out,1,4.0,0,10,2,2.5
+31872,Shahbaz Nadeem,24 Oct 2011,v Assam,Jamshedpur,2,6,4,9,5,0,0,80,caught,1,4.0,0,17,2,4.25
+31872,Shahbaz Nadeem,5 Apr 2012,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+31872,Shahbaz Nadeem,7 Apr 2012,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+31872,Shahbaz Nadeem,10 Apr 2012,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,9,0,3
+31872,Shahbaz Nadeem,16 Apr 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+31872,Shahbaz Nadeem,19 Apr 2012,v Chargers,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+31872,Shahbaz Nadeem,21 Apr 2012,v Warriors,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+31872,Shahbaz Nadeem,24 Apr 2012,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+31872,Shahbaz Nadeem,27 Apr 2012,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+31872,Shahbaz Nadeem,29 Apr 2012,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,1 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+31872,Shahbaz Nadeem,7 May 2012,v KKR,Delhi,1,9,0*,2,2,0,0,0,not out,2,4.0,0,32,0,8
+31872,Shahbaz Nadeem,10 May 2012,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+31872,Shahbaz Nadeem,18 Mar 2013,v Tripura,Agartala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+31872,Shahbaz Nadeem,19 Mar 2013,v Bengal,Agartala,2,7,36*,-,22,5,1,163.63,not out,1,4.0,1,11,1,2.75
+31872,Shahbaz Nadeem,20 Mar 2013,v Odisha,Agartala,2,8,1,-,1,0,0,100,run out,1,4.0,0,22,0,5.5
+31872,Shahbaz Nadeem,3 Apr 2013,v KKR,Eden Gardens,1,9,4,13,8,0,0,50,run out,2,4.0,0,22,2,5.5
+31872,Shahbaz Nadeem,6 Apr 2013,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+31872,Shahbaz Nadeem,9 Apr 2013,v MI,Wankhede,2,8,2,7,3,0,0,66.66,caught,1,3.0,0,26,0,8.66
+31872,Shahbaz Nadeem,12 Apr 2013,v SRH,Delhi,1,9,0,2,1,0,0,0,bowled,2,4.0,0,17,2,4.25
+31872,Shahbaz Nadeem,16 Apr 2013,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+31872,Shahbaz Nadeem,18 Apr 2013,v CSK,Delhi,2,10,2*,11,7,0,0,28.57,not out,1,3.0,0,22,0,7.33
+31872,Shahbaz Nadeem,21 Apr 2013,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+31872,Shahbaz Nadeem,28 Apr 2013,v Warriors,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,1 May 2013,v KKR,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+31872,Shahbaz Nadeem,4 May 2013,v SRH,Hyderabad,1,9,0,5,3,0,0,0,run out,2,2.0,0,7,0,3.5
+31872,Shahbaz Nadeem,10 May 2013,v RCB,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+31872,Shahbaz Nadeem,19 May 2013,v Warriors,Pune,2,10,6,5,5,1,0,120,caught,1,4.0,0,21,1,5.25
+31872,Shahbaz Nadeem,2 Apr 2014,v Tripura,Eden Gardens,1,9,0*,1,0,0,0,-,not out,2,4.0,0,25,1,6.25
+31872,Shahbaz Nadeem,3 Apr 2014,v Bengal,Eden Gardens,1,3,7,15,12,0,0,58.33,lbw,2,4.0,0,40,0,10
+31872,Shahbaz Nadeem,4 Apr 2014,v Odisha,Eden Gardens,2,7,0*,1,0,0,0,-,not out,1,4.0,0,19,0,4.75
+31872,Shahbaz Nadeem,5 Apr 2014,v Assam,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+31872,Shahbaz Nadeem,17 Apr 2014,v RCB,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.4,0,32,0,12
+31872,Shahbaz Nadeem,19 Apr 2014,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+31872,Shahbaz Nadeem,21 Apr 2014,v CSK,Abu Dhabi,2,8,3,12,8,0,0,37.5,caught,1,3.0,0,29,1,9.66
+31872,Shahbaz Nadeem,25 Apr 2014,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+31872,Shahbaz Nadeem,27 Apr 2014,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+31872,Shahbaz Nadeem,3 May 2014,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+31872,Shahbaz Nadeem,5 May 2014,v CSK,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+31872,Shahbaz Nadeem,7 May 2014,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.2,0,34,0,10.2
+31872,Shahbaz Nadeem,15 May 2014,v RR,Ahmedabad,2,8,1,3,4,0,0,25,bowled,1,4.0,0,35,2,8.75
+31872,Shahbaz Nadeem,23 May 2014,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+31872,Shahbaz Nadeem,25 May 2014,v Kings XI,Mohali,1,8,3*,22,7,0,0,42.85,not out,2,2.0,0,24,0,12
+31872,Shahbaz Nadeem,26 Mar 2015,v Tripura,Cuttack,1,7,10,17,8,1,0,125,caught,2,4.0,0,26,0,6.5
+31872,Shahbaz Nadeem,27 Mar 2015,v Bengal,Cuttack,2,6,6,4,4,1,0,150,caught,1,4.0,0,30,2,7.5
+31872,Shahbaz Nadeem,28 Mar 2015,v Odisha,Cuttack,2,6,2,3,5,0,0,40,caught,1,4.0,0,39,2,9.75
+31872,Shahbaz Nadeem,29 Mar 2015,v Assam,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+31872,Shahbaz Nadeem,23 Apr 2015,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+31872,Shahbaz Nadeem,26 Apr 2015,v RCB,Delhi,1,9,2,7,7,0,0,28.57,bowled,2,DNB,-,-,-,-
+31872,Shahbaz Nadeem,12 May 2015,v CSK,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,0,4.5
+31872,Shahbaz Nadeem,17 May 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+31872,Shahbaz Nadeem,3 Jan 2016,v Tripura,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+31872,Shahbaz Nadeem,4 Jan 2016,v Rajasthan,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+31872,Shahbaz Nadeem,6 Jan 2016,v Punjab,Kochi,1,8,9,24,16,0,0,56.25,bowled,2,4.0,0,18,0,4.5
+31872,Shahbaz Nadeem,7 Jan 2016,v J & K,Kochi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+31872,Shahbaz Nadeem,9 Jan 2016,v Saurashtra,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+31872,Shahbaz Nadeem,10 Jan 2016,v Kerala,Kochi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+31872,Shahbaz Nadeem,15 Jan 2016,v UP,Mumbai,1,9,2*,8,5,0,0,40,not out,2,4.0,0,29,0,7.25
+31872,Shahbaz Nadeem,16 Jan 2016,v Delhi,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+31872,Shahbaz Nadeem,18 Jan 2016,v Gujarat,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+31872,Shahbaz Nadeem,27 Apr 2016,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+31872,Shahbaz Nadeem,3 May 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+31872,Shahbaz Nadeem,7 May 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,15 May 2016,v MI,Visakhapatnam,2,9,1*,17,5,0,0,20,not out,1,4.0,0,42,0,10.5
+31872,Shahbaz Nadeem,29 Jan 2017,v Assam,Eden Gardens,1,8,7,15,8,0,0,87.5,caught,2,4.0,0,9,1,2.25
+31872,Shahbaz Nadeem,31 Jan 2017,v Odisha,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.5,0,51,1,13.3
+31872,Shahbaz Nadeem,1 Feb 2017,v Tripura,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+31872,Shahbaz Nadeem,13 Feb 2017,v Central Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,15 Feb 2017,v South Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+31872,Shahbaz Nadeem,8 Apr 2017,v RCB,Bengaluru,2,10,0,3,2,0,0,0,caught,1,4.0,0,13,1,3.25
+31872,Shahbaz Nadeem,11 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+31872,Shahbaz Nadeem,15 Apr 2017,v Kings XI,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,2,6.5
+31872,Shahbaz Nadeem,30 Apr 2017,v Kings XI,Mohali,1,11,0,2,1,0,0,0,caught,2,0.5,0,9,0,10.8
+31872,Shahbaz Nadeem,4 May 2017,v Guj Lions,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,28,0,14
+31872,Shahbaz Nadeem,12 May 2017,v Supergiant,Delhi,1,10,0*,1,0,0,0,-,not out,2,3.0,0,21,1,7
+31872,Shahbaz Nadeem,14 May 2017,v RCB,Delhi,2,10,2,12,6,0,0,33.33,caught,1,2.0,0,12,1,6
+31872,Shahbaz Nadeem,10 Jan 2018,v Tripura,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+31872,Shahbaz Nadeem,12 Jan 2018,v Bengal,Ranchi,1,8,8*,12,4,1,0,200,not out,2,4.0,0,34,1,8.5
+31872,Shahbaz Nadeem,14 Jan 2018,v Assam,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+31872,Shahbaz Nadeem,16 Jan 2018,v Odisha,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+31872,Shahbaz Nadeem,21 Jan 2018,v Mumbai,Kolkata,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+31872,Shahbaz Nadeem,22 Jan 2018,v Rajasthan,Kolkata,1,3,27,32,22,2,1,122.72,bowled,2,4.0,0,18,1,4.5
+31872,Shahbaz Nadeem,23 Jan 2018,v Punjab,Eden Gardens,2,3,8,23,11,1,0,72.72,caught,1,1.0,0,6,0,6
+31872,Shahbaz Nadeem,24 Jan 2018,v Karnataka,Eden Gardens,2,8,0,7,3,0,0,0,bowled,1,4.0,0,41,0,10.25
+31872,Shahbaz Nadeem,11 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+31872,Shahbaz Nadeem,14 Apr 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+31872,Shahbaz Nadeem,16 Apr 2018,v KKR,Eden Gardens,2,10,6*,-,8,0,0,75,not out,1,4.0,0,43,1,10.75
+31872,Shahbaz Nadeem,21 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,13.5
+31872,Shahbaz Nadeem,2 May 2018,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+31872,Shahbaz Nadeem,10 May 2018,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+31872,Shahbaz Nadeem,21 Feb 2019,v Delhi,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+31872,Shahbaz Nadeem,22 Feb 2019,v J & K,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,4.0,1,36,1,9
+31872,Shahbaz Nadeem,27 Feb 2019,v Nagaland,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,0,3.75
+31872,Shahbaz Nadeem,28 Feb 2019,v Andhra,Mulapadu,2,9,1,7,3,0,0,33.33,caught,1,4.0,0,26,3,6.5
+31872,Shahbaz Nadeem,2 Mar 2019,v Kerala,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+31872,Shahbaz Nadeem,29 Mar 2019,v RR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+31872,Shahbaz Nadeem,17 Apr 2019,v CSK,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,1,12
+31872,Shahbaz Nadeem,21 Apr 2019,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,9 Nov 2019,v Saurashtra,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+31872,Shahbaz Nadeem,11 Nov 2019,v J & K,Surat,1,9,1,-,2,0,0,50,caught,2,3.0,0,10,2,3.33
+31872,Shahbaz Nadeem,15 Nov 2019,v Delhi,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+31872,Shahbaz Nadeem,17 Nov 2019,v Gujarat,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+31872,Shahbaz Nadeem,21 Nov 2019,v Punjab,Surat,2,-,absent,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+31872,Shahbaz Nadeem,13 Oct 2020,v CSK,Dubai (DICS),2,8,5,-,5,1,0,100,caught,1,4.0,0,29,0,7.25
+31872,Shahbaz Nadeem,22 Oct 2020,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+31872,Shahbaz Nadeem,27 Oct 2020,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,1,8
+31872,Shahbaz Nadeem,31 Oct 2020,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+31872,Shahbaz Nadeem,3 Nov 2020,v MI,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+31872,Shahbaz Nadeem,6 Nov 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+31872,Shahbaz Nadeem,8 Nov 2020,v DC,Abu Dhabi,2,9,2*,-,3,0,0,66.66,not out,1,4.0,0,48,0,12
+31872,Shahbaz Nadeem,10 Jan 2021,v Tamil Nadu,Eden Gardens,2,8,13,-,12,1,0,108.33,caught,1,2.0,0,17,0,8.5
+31872,Shahbaz Nadeem,12 Jan 2021,v Bengal,Eden Gardens,2,8,0,-,2,0,0,0,caught,1,2.0,0,15,0,7.5
+31872,Shahbaz Nadeem,14 Jan 2021,v Assam,Jadavpur Uni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,5.5
+31872,Shahbaz Nadeem,16 Jan 2021,v Odisha,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.5,0,23,2,6
+31872,Shahbaz Nadeem,18 Jan 2021,v Hyderabad,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+31872,Shahbaz Nadeem,14 Apr 2021,v RCB,Chennai,2,10,0,3,1,0,0,0,caught,1,4.0,0,36,1,9
+31872,Shahbaz Nadeem,4 Nov 2021,v Rajasthan,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+31872,Shahbaz Nadeem,5 Nov 2021,v Himachal,Vadodara,2,8,8,9,5,0,1,160,caught,1,4.0,0,33,0,8.25
+31872,Shahbaz Nadeem,6 Nov 2021,v Andhra,Vadodara,2,9,0*,3,1,0,0,0,not out,1,4.0,0,22,1,5.5
+31872,Shahbaz Nadeem,8 Nov 2021,v Haryana,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,1,17,1,4.25
+31872,Shahbaz Nadeem,9 Nov 2021,v J & K,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+31872,Shahbaz Nadeem,14 Oct 2022,v Chandigarh,Lucknow,1,11,4*,-,1,0,0,400,not out,2,4.0,0,20,0,5
+31872,Shahbaz Nadeem,18 Oct 2022,v Tamil Nadu,Lucknow,2,9,0,-,1,0,0,0,bowled,1,4.0,0,12,4,3
+31872,Shahbaz Nadeem,20 Oct 2022,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+31872,Shahbaz Nadeem,22 Oct 2022,v Sikkim,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,3,1,1.5
+31872,Shahbaz Nadeem,17 Oct 2023,v Puducherry,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+31872,Shahbaz Nadeem,19 Oct 2023,v Uttarakhand,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+31872,Shahbaz Nadeem,21 Oct 2023,v Rajasthan,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+31872,Shahbaz Nadeem,23 Oct 2023,v Maharashtra,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+31872,Shahbaz Nadeem,25 Oct 2023,v Bengal,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+31872,Shahbaz Nadeem,27 Oct 2023,v Vidarbha,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8

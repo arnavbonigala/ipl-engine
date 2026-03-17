@@ -1,0 +1,165 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+315623,Ben Laughlin,26 Dec 2008,v NSW,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+315623,Ben Laughlin,1 Jan 2009,v Tasmania,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+315623,Ben Laughlin,4 Jan 2009,v Victoria,Geelong,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,1,10.5
+315623,Ben Laughlin,9 Jan 2009,v South Aust,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+315623,Ben Laughlin,15 Jan 2009,v West Aust,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+315623,Ben Laughlin,21 Jan 2009,v Victoria,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+315623,Ben Laughlin,29 Mar 2009,v South Africa,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+315623,Ben Laughlin,2 Jan 2011,v Victoria,Melbourne,2,11,0*,1,0,0,0,-,not out,1,3.0,0,34,0,11.33
+315623,Ben Laughlin,29 Jan 2011,v NSW,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+315623,Ben Laughlin,18 Dec 2011,v Scorchers,W.A.C.A,1,11,0,-,1,0,0,0,bowled,2,4.0,0,39,1,9.75
+315623,Ben Laughlin,21 Dec 2011,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+315623,Ben Laughlin,28 Dec 2011,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+315623,Ben Laughlin,1 Jan 2012,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,1,5.25
+315623,Ben Laughlin,6 Jan 2012,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+315623,Ben Laughlin,9 Jan 2012,v Stars,Hobart,2,11,4*,-,7,0,0,57.14,not out,1,4.0,0,34,1,8.5
+315623,Ben Laughlin,18 Jan 2012,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+315623,Ben Laughlin,22 Jan 2012,v Sixers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+315623,Ben Laughlin,11 Aug 2012,v Ruhuna Ryls,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+315623,Ben Laughlin,13 Aug 2012,v K Warriors,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+315623,Ben Laughlin,20 Aug 2012,v Wayamba U,Pallekele,2,11,1,-,3,0,0,33.33,caught,1,4.0,0,44,0,11
+315623,Ben Laughlin,9 Nov 2012,v Wellington,Wellington,1,8,1*,1,1,0,0,100,not out,2,4.0,0,30,3,7.5
+315623,Ben Laughlin,9 Dec 2012,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+315623,Ben Laughlin,15 Dec 2012,v Stars,Melbourne,1,8,2,9,5,0,0,40,bowled,2,4.0,0,14,3,3.5
+315623,Ben Laughlin,19 Dec 2012,v Renegades,Melbourne (Docklands),1,8,10,10,14,1,0,71.42,caught,2,3.0,0,19,0,6.33
+315623,Ben Laughlin,23 Dec 2012,v Thunder,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+315623,Ben Laughlin,26 Dec 2012,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,4,7.75
+315623,Ben Laughlin,1 Jan 2013,v Scorchers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+315623,Ben Laughlin,5 Jan 2013,v Strikers,Hobart,2,10,8*,13,12,1,0,66.66,not out,1,4.0,0,25,0,6.25
+315623,Ben Laughlin,12 Jan 2013,v Heat,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+315623,Ben Laughlin,26 Jan 2013,v Sri Lanka,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.5,0,46,0,12
+315623,Ben Laughlin,28 Jan 2013,v Sri Lanka,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+315623,Ben Laughlin,6 Apr 2013,v MI,Chennai,2,9,0,9,1,0,0,0,bowled,1,3.0,0,25,1,8.33
+315623,Ben Laughlin,5 May 2013,v MI,Wankhede,2,11,4*,14,8,0,0,50,not out,1,4.0,0,46,0,11.5
+315623,Ben Laughlin,9 Nov 2013,v Otago,Dunedin,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+315623,Ben Laughlin,15 Nov 2013,v Otago,Hamilton,1,10,4*,5,2,0,0,200,not out,2,4.0,0,24,2,6
+315623,Ben Laughlin,16 Nov 2013,v Central D,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+315623,Ben Laughlin,19 Nov 2013,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,6,7
+315623,Ben Laughlin,22 Dec 2013,v Strikers,Hobart,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+315623,Ben Laughlin,28 Dec 2013,v Heat,Brisbane,2,8,4,-,4,0,0,100,caught,1,3.0,0,35,0,11.66
+315623,Ben Laughlin,1 Jan 2014,v Renegades,Hobart,2,8,9,-,14,0,0,64.28,caught,1,4.0,0,16,3,4
+315623,Ben Laughlin,7 Jan 2014,v Scorchers,W.A.C.A,2,8,1,-,3,0,0,33.33,lbw,1,4.0,0,40,1,10
+315623,Ben Laughlin,11 Jan 2014,v Thunder,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,8,3,2.66
+315623,Ben Laughlin,15 Jan 2014,v Sixers,Sydney,2,8,2,-,2,0,0,100,run out,1,4.0,0,33,1,8.25
+315623,Ben Laughlin,21 Jan 2014,v Stars,Melbourne,1,8,1,4,3,0,0,33.33,caught,2,4.0,0,28,2,7
+315623,Ben Laughlin,23 Jan 2014,v Heat,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+315623,Ben Laughlin,4 Feb 2014,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,2,11
+315623,Ben Laughlin,11 Jul 2014,v Amazon,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+315623,Ben Laughlin,17 Jul 2014,v Tallawahs,North Sound,1,10,0,-,1,0,0,0,lbw,2,2.3,0,10,0,4
+315623,Ben Laughlin,19 Jul 2014,v Tridents,North Sound,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+315623,Ben Laughlin,20 Jul 2014,v Red Steel,North Sound,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+315623,Ben Laughlin,25 Jul 2014,v Tridents,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+315623,Ben Laughlin,31 Jul 2014,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,2,9.33
+315623,Ben Laughlin,3 Aug 2014,v Zouks,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,1.0,0,3,0,3
+315623,Ben Laughlin,9 Aug 2014,v Red Steel,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,1,7,3,2.33
+315623,Ben Laughlin,18 Sep 2014,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+315623,Ben Laughlin,21 Sep 2014,v Cape Cobras,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+315623,Ben Laughlin,23 Sep 2014,v Northern Dis,Raipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+315623,Ben Laughlin,28 Sep 2014,v Tridents,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.4,0,22,0,6
+315623,Ben Laughlin,2 Oct 2014,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+315623,Ben Laughlin,1 Nov 2014,v Wellington,Hamilton,1,10,12*,2,3,1,1,400,not out,2,4.0,0,31,2,7.75
+315623,Ben Laughlin,2 Nov 2014,v Otago,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+315623,Ben Laughlin,7 Nov 2014,v Canterbury,Hamilton,1,9,3*,2,1,0,0,300,not out,2,3.0,0,24,1,8
+315623,Ben Laughlin,9 Nov 2014,v Central D,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+315623,Ben Laughlin,13 Nov 2014,v Canterbury,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+315623,Ben Laughlin,16 Nov 2014,v Auckland,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+315623,Ben Laughlin,29 Nov 2014,v Central D,Napier,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+315623,Ben Laughlin,18 Dec 2014,v Stars,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+315623,Ben Laughlin,22 Dec 2014,v Scorchers,W.A.C.A,2,11,1*,-,1,0,0,100,not out,1,4.0,0,32,1,8
+315623,Ben Laughlin,31 Dec 2014,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,2,8.66
+315623,Ben Laughlin,4 Jan 2015,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,2,10.33
+315623,Ben Laughlin,6 Jan 2015,v Scorchers,Adelaide,2,10,6,-,7,1,0,85.71,bowled,1,4.0,0,27,2,6.75
+315623,Ben Laughlin,12 Jan 2015,v Thunder,Adelaide,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+315623,Ben Laughlin,14 Jan 2015,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.4,0,22,1,6
+315623,Ben Laughlin,19 Jan 2015,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+315623,Ben Laughlin,24 Jan 2015,v Sixers,Adelaide,2,10,22,-,10,1,2,220,caught,1,4.0,0,51,1,12.75
+315623,Ben Laughlin,6 Nov 2015,v Canterbury,Hamilton,1,11,0,1,1,0,0,0,caught,2,4.0,1,20,1,5
+315623,Ben Laughlin,12 Nov 2015,v Wellington,Hamilton,1,-,DNB,-,-,-,-,-,-,2,1.0,0,22,0,22
+315623,Ben Laughlin,15 Nov 2015,v Canterbury,Whangarei,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+315623,Ben Laughlin,17 Nov 2015,v Otago,Dunedin,1,10,0,1,1,0,0,0,bowled,2,1.0,0,6,0,6
+315623,Ben Laughlin,18 Dec 2015,v Stars,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+315623,Ben Laughlin,21 Dec 2015,v Scorchers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+315623,Ben Laughlin,28 Dec 2015,v Thunder,Sydney,1,10,6,-,2,0,1,300,bowled,2,2.3,0,22,2,8.8
+315623,Ben Laughlin,31 Dec 2015,v Sixers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+315623,Ben Laughlin,5 Jan 2016,v Scorchers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+315623,Ben Laughlin,8 Jan 2016,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+315623,Ben Laughlin,13 Jan 2016,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+315623,Ben Laughlin,18 Jan 2016,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,2.3,0,29,1,11.6
+315623,Ben Laughlin,21 Jan 2016,v Thunder,Adelaide,1,9,1*,-,1,0,0,100,not out,2,3.0,0,21,1,7
+315623,Ben Laughlin,4 Dec 2016,v Wellington,Hamilton,1,10,0,1,1,0,0,0,bowled,2,4.0,1,13,3,3.25
+315623,Ben Laughlin,10 Dec 2016,v Central D,New Plymouth,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+315623,Ben Laughlin,21 Dec 2016,v Heat,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,0,12.33
+315623,Ben Laughlin,31 Dec 2016,v Sixers,Adelaide,1,9,0,-,0,0,0,-,run out,2,4.0,0,10,2,2.5
+315623,Ben Laughlin,2 Jan 2017,v Hurricanes,Hobart,1,9,0,4,1,0,0,0,caught,2,2.0,0,9,0,4.5
+315623,Ben Laughlin,6 Jan 2017,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+315623,Ben Laughlin,10 Jan 2017,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+315623,Ben Laughlin,16 Jan 2017,v Renegades,Adelaide,2,10,0*,-,0,0,0,-,not out,1,4.0,0,15,2,3.75
+315623,Ben Laughlin,18 Jan 2017,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+315623,Ben Laughlin,15 Dec 2017,v Wellington,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+315623,Ben Laughlin,16 Dec 2017,v Auckland,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,3,6.75
+315623,Ben Laughlin,22 Dec 2017,v Thunder,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.4,0,26,4,7.09
+315623,Ben Laughlin,28 Dec 2017,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+315623,Ben Laughlin,31 Dec 2017,v Heat,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.2,0,11,3,4.71
+315623,Ben Laughlin,4 Jan 2018,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,0,14
+315623,Ben Laughlin,7 Jan 2018,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+315623,Ben Laughlin,9 Jan 2018,v Stars,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+315623,Ben Laughlin,13 Jan 2018,v Scorchers,Alice Springs,1,10,1,-,3,0,0,33.33,bowled,2,3.0,0,21,0,7
+315623,Ben Laughlin,17 Jan 2018,v Hurricanes,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+315623,Ben Laughlin,22 Jan 2018,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+315623,Ben Laughlin,25 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+315623,Ben Laughlin,2 Feb 2018,v Renegades,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+315623,Ben Laughlin,4 Feb 2018,v Hurricanes,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+315623,Ben Laughlin,7 Mar 2018,v Sultans,Dubai (DICS),2,10,3*,-,2,0,0,150,not out,1,4.0,0,37,1,9.25
+315623,Ben Laughlin,8 Mar 2018,v Kings,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+315623,Ben Laughlin,10 Mar 2018,v Zalmi,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+315623,Ben Laughlin,9 Apr 2018,v SRH,Hyderabad,1,11,1*,-,3,0,0,33.33,not out,2,2.0,0,20,0,10
+315623,Ben Laughlin,11 Apr 2018,v Daredevils,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,2,10
+315623,Ben Laughlin,15 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+315623,Ben Laughlin,18 Apr 2018,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.5,0,37,0,9.65
+315623,Ben Laughlin,20 Apr 2018,v CSK,Pune,2,11,0,-,1,0,0,0,caught,1,4.0,0,38,2,9.5
+315623,Ben Laughlin,19 May 2018,v RCB,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,2,7.5
+315623,Ben Laughlin,23 May 2018,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,2,11.66
+315623,Ben Laughlin,6 Oct 2018,v Kabul Zwanan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+315623,Ben Laughlin,7 Oct 2018,v Knights,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+315623,Ben Laughlin,14 Oct 2018,v Kabul Zwanan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+315623,Ben Laughlin,19 Dec 2018,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+315623,Ben Laughlin,23 Dec 2018,v Renegades,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.1,0,39,0,12.31
+315623,Ben Laughlin,26 Dec 2018,v Scorchers,Perth,1,10,2,-,8,0,0,25,caught,2,3.0,0,17,0,5.66
+315623,Ben Laughlin,31 Dec 2018,v Thunder,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+315623,Ben Laughlin,3 Jan 2019,v Renegades,Geelong,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,1,14.5
+315623,Ben Laughlin,11 Jan 2019,v Stars,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.2,0,19,3,5.7
+315623,Ben Laughlin,13 Jan 2019,v Thunder,Sydney,2,9,0,-,2,0,0,0,caught,1,4.0,0,44,1,11
+315623,Ben Laughlin,21 Jan 2019,v Hurricanes,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+315623,Ben Laughlin,23 Jan 2019,v Stars,Moe,2,9,14,-,10,2,0,140,bowled,1,4.0,0,40,0,10
+315623,Ben Laughlin,29 Jan 2019,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,0,4.33
+315623,Ben Laughlin,31 Jan 2019,v Hurricanes,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+315623,Ben Laughlin,3 Feb 2019,v Heat,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+315623,Ben Laughlin,9 Feb 2019,v Scorchers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+315623,Ben Laughlin,5 Sep 2019,v Zouks,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+315623,Ben Laughlin,7 Sep 2019,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+315623,Ben Laughlin,25 Sep 2019,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,3,4
+315623,Ben Laughlin,30 Sep 2019,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+315623,Ben Laughlin,4 Oct 2019,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+315623,Ben Laughlin,12 Oct 2019,v Tridents,Tarouba,2,11,1*,-,1,0,0,100,not out,1,4.0,0,28,1,7
+315623,Ben Laughlin,17 Dec 2019,v Thunder,Brisbane,2,10,7,-,9,0,0,77.77,caught,1,4.0,0,35,1,8.75
+315623,Ben Laughlin,20 Dec 2019,v Stars,Carrara,2,10,0*,-,1,0,0,0,not out,1,4.0,0,35,1,8.75
+315623,Ben Laughlin,22 Dec 2019,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+315623,Ben Laughlin,1 Jan 2020,v Scorchers,Carrara,2,10,17,-,13,2,1,130.76,caught,1,4.0,0,32,2,8
+315623,Ben Laughlin,3 Jan 2020,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+315623,Ben Laughlin,6 Jan 2020,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,1.0,0,16,1,16
+315623,Ben Laughlin,9 Jan 2020,v Hurricanes,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+315623,Ben Laughlin,11 Jan 2020,v Scorchers,Perth,2,10,9*,-,6,1,0,150,not out,1,4.0,0,60,1,15
+315623,Ben Laughlin,17 Jan 2020,v Strikers,Adelaide,1,10,1,-,3,0,0,33.33,bowled,2,2.0,0,16,0,8
+315623,Ben Laughlin,19 Jan 2020,v Renegades,Brisbane,2,10,1*,-,2,0,0,50,not out,1,4.0,0,31,3,7.75
+315623,Ben Laughlin,23 Jan 2020,v Sixers,Brisbane,1,10,5*,-,5,0,0,100,not out,2,3.0,0,30,1,10
+315623,Ben Laughlin,25 Jan 2020,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,1,4
+315623,Ben Laughlin,27 Jan 2020,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+315623,Ben Laughlin,11 Dec 2020,v Stars,Canberra,1,11,0*,-,0,0,0,-,not out,2,4.0,0,30,0,7.5
+315623,Ben Laughlin,14 Dec 2020,v Thunder,Canberra,1,-,DNB,-,-,-,-,-,-,2,3.5,0,56,0,14.6
+315623,Ben Laughlin,23 Dec 2020,v Strikers,Brisbane,2,11,6*,-,8,1,0,75,not out,1,4.0,0,40,0,10
+315623,Ben Laughlin,23 Jan 2021,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,0,5.66
+315623,Ben Laughlin,26 Jan 2021,v Scorchers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+315623,Ben Laughlin,29 Jan 2021,v Strikers,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+315623,Ben Laughlin,31 Jan 2021,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+315623,Ben Laughlin,4 Feb 2021,v Scorchers,Canberra,2,11,2*,-,3,0,0,66.66,not out,1,3.1,0,33,0,10.42

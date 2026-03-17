@@ -1,0 +1,205 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+32242,Parthiv Patel,15 Sep 2005,v Chilaw MCC,Leicester,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32242,Parthiv Patel,17 Sep 2005,v Wolves,Leicester,1,9,17,-,14,0,1,121.42,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,3 Apr 2007,v Maharashtra,Wankhede,1,2,57,44,39,9,1,146.15,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 Apr 2007,v Mumbai,Brabourne,1,2,1,9,2,0,0,50,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,7 Apr 2007,v Saurashtra,Wankhede,1,2,4,3,3,1,0,133.33,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,15 Apr 2007,v Orissa,Brabourne,1,2,12,15,8,2,0,150,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,16 Apr 2007,v Railways,Wankhede,1,3,31,22,22,5,0,140.9,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 Apr 2007,v Karnataka,Brabourne,1,2,26,25,18,5,0,144.44,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 Apr 2007,v Punjab,Wankhede,1,2,11,26,12,2,0,91.66,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 Apr 2008,v Kings XI,Mohali,1,1,15,-,10,3,0,150,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,23 Apr 2008,v MI,Chennai,1,1,14,14,11,3,0,127.27,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,26 Apr 2008,v KKR,Chennai,2,1,21,38,27,3,0,77.77,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,28 Apr 2008,v RCB,Bengaluru,1,1,21,-,17,2,1,123.52,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,2 May 2008,v Daredevils,Chennai,1,1,21,-,20,3,0,105,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 May 2008,v RR,Jaipur,1,1,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,6 May 2008,v Chargers,Chennai,1,1,4,-,6,1,0,66.66,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 May 2008,v KKR,Eden Gardens,2,1,19*,-,28,2,0,67.85,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,21 May 2008,v RCB,Chennai,2,1,24,-,29,4,0,82.75,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,24 May 2008,v RR,Chennai,2,1,54,-,40,5,2,135,stumped,1,DNB,-,-,-,-
+32242,Parthiv Patel,27 May 2008,v Chargers,Hyderabad,2,1,20,-,27,3,0,74.07,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,31 May 2008,v Kings XI,Wankhede,2,1,51*,-,48,8,0,106.25,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,1 Jun 2008,v RR,DY Patil,1,1,38,-,33,5,0,115.15,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 Apr 2009,v MI,Cape Town,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 Apr 2009,v RCB,Gqeberha,1,1,30,41,26,2,1,115.38,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,23 Apr 2009,v Daredevils,Durban,2,1,16,-,15,2,0,106.66,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,27 Apr 2009,v Chargers,Durban,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,30 Apr 2009,v RR,Centurion,1,1,3,-,11,0,0,27.27,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,16 May 2009,v MI,Gqeberha,2,1,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,18 May 2009,v KKR,Centurion,1,1,25,-,19,4,0,131.57,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,20 May 2009,v Kings XI,Durban,1,2,32,-,23,4,1,139.13,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,23 May 2009,v RCB,Johannesburg,1,1,36,-,27,7,0,133.33,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,20 Oct 2009,v Maharashtra,Pune,1,1,49,55,36,8,0,136.11,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,21 Oct 2009,v Mumbai,Pune,1,1,25,31,19,3,1,131.57,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,22 Oct 2009,v Baroda,Pune,1,1,5,11,6,1,0,83.33,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,25 Oct 2009,v Saurashtra,Pune,2,1,8,21,14,1,0,57.14,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,19 Mar 2010,v Daredevils,Delhi,2,1,6,-,6,1,0,100,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,21 Mar 2010,v Kings XI,Chennai,2,1,57,-,58,4,2,98.27,stumped,1,DNB,-,-,-,-
+32242,Parthiv Patel,23 Mar 2010,v RCB,Bengaluru,2,1,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,25 Mar 2010,v MI,Brabourne,1,1,8,-,12,1,0,66.66,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,20 Oct 2010,v Maharashtra,Vadodara,2,2,4,17,11,0,0,36.36,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,21 Oct 2010,v Mumbai,Vadodara,1,1,32,33,26,4,1,123.07,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,22 Oct 2010,v Baroda,Vadodara,1,1,1,6,8,0,0,12.5,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,25 Oct 2010,v Saurashtra,Vadodara,2,1,1,5,4,0,0,25,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,9 Apr 2011,v RCB,Kochi,1,7,1*,-,4,0,0,25,not out,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 Apr 2011,v Warriors,DY Patil,1,3,21,-,19,4,0,110.52,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,15 Apr 2011,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32242,Parthiv Patel,18 Apr 2011,v CSK,Kochi,2,3,34,-,26,4,1,130.76,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 Apr 2011,v KKR,Eden Gardens,1,3,9,-,11,1,0,81.81,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 Apr 2011,v RR,Jaipur,1,3,32,-,34,2,0,94.11,stumped,2,DNB,-,-,-,-
+32242,Parthiv Patel,27 Apr 2011,v Chargers,Kochi,2,3,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,30 Apr 2011,v Daredevils,Kochi,2,3,1,-,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,2 May 2011,v Daredevils,Delhi,2,3,37*,-,31,5,0,119.35,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,5 May 2011,v KKR,Kochi,1,3,21,-,16,4,0,131.25,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2011,v RCB,Bengaluru,1,3,19,24,14,3,0,135.71,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 May 2011,v Kings XI,Indore,1,6,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,15 May 2011,v RR,Indore,2,3,21*,-,14,2,1,150,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,18 May 2011,v CSK,Chennai,2,1,6,-,7,0,0,85.71,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,4 Jun 2011,v West Indies,Port of Spain,1,1,26,36,20,2,1,130,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,26 Aug 2011,v Kent,Canterbury,1,1,1,2,3,0,0,33.33,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,29 Aug 2011,v Leics,Leicester,1,1,40,32,31,6,0,129.03,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,31 Aug 2011,v England,Manchester,1,1,10,19,12,2,0,83.33,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,7 Apr 2012,v CSK,Visakhapatnam,2,3,20,26,17,3,0,117.64,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,9 Apr 2012,v MI,Visakhapatnam,1,1,1,6,5,0,0,20,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 Apr 2012,v Daredevils,Delhi,1,3,45,42,27,5,1,166.66,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,22 Apr 2012,v KKR,Cuttack,1,3,23,31,19,2,0,121.05,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,26 Apr 2012,v Warriors,Pune,1,1,24,24,18,3,1,133.33,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,29 Apr 2012,v MI,Wankhede,1,1,19,24,18,1,1,105.55,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,1 May 2012,v Warriors,Cuttack,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 May 2012,v CSK,Chennai,2,1,1,6,5,0,0,20,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,6 May 2012,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2012,v Kings XI,Hyderabad,2,3,17,13,13,1,1,130.76,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,10 May 2012,v Daredevils,Hyderabad,1,6,0*,1,0,0,0,-,not out,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 May 2012,v Kings XI,Mohali,1,2,18,22,16,2,0,112.5,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 May 2012,v RR,Hyderabad,2,6,10*,15,5,1,0,200,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 May 2012,v RCB,Hyderabad,1,6,16,-,21,1,0,76.19,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 Mar 2013,v Maharashtra,Ahmedabad,2,2,18,10,9,4,0,200,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,18 Mar 2013,v Mumbai,Ahmedabad,1,2,32,35,22,2,2,145.45,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 Mar 2013,v Baroda,Ahmedabad,1,2,82,58,54,7,5,151.85,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,22 Mar 2013,v Saurashtra,Ahmedabad,1,2,37,56,32,5,0,115.62,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,26 Mar 2013,v Odisha,Indore,2,2,29,-,24,4,1,120.83,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,27 Mar 2013,v Delhi,Indore,2,2,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,29 Mar 2013,v Vidarbha,Indore,2,2,4,8,5,1,0,80,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,30 Mar 2013,v Kerala,Indore,1,1,4,-,4,1,0,100,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,31 Mar 2013,v Punjab,Indore,2,2,1,4,4,0,0,25,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,5 Apr 2013,v Warriors,Hyderabad,1,2,19,23,18,3,0,105.55,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,7 Apr 2013,v RCB,Hyderabad,2,2,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,9 Apr 2013,v RCB,Bengaluru,1,2,20,37,19,2,0,105.26,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,12 Apr 2013,v Daredevils,Delhi,2,2,19,34,19,4,0,100,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,14 Apr 2013,v KKR,Eden Gardens,2,1,27,35,31,2,1,87.09,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,17 Apr 2013,v Warriors,Pune,1,1,12,13,9,2,0,133.33,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 May 2013,v Daredevils,Hyderabad,2,1,14,35,18,1,0,77.77,stumped,1,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2013,v CSK,Hyderabad,2,1,44,45,30,6,1,146.66,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,11 May 2013,v Kings XI,Mohali,1,1,61,91,47,5,2,129.78,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 May 2013,v MI,Wankhede,1,1,26,18,14,5,0,185.71,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 May 2013,v RR,Hyderabad,1,1,2,-,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 May 2013,v KKR,Hyderabad,2,1,47,53,37,7,0,127.02,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,22 May 2013,v RR,Delhi,1,1,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 Sep 2013,v Kandurata Ma,Mohali,2,1,52,55,42,7,0,123.8,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,18 Sep 2013,v Wolves,Mohali,2,1,23,38,21,3,0,109.52,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 Sep 2013,v Otago,Mohali,1,1,12,8,12,2,0,100,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 Sep 2013,v Trinidad & T,Mohali,2,1,17,23,15,2,1,113.33,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,26 Sep 2013,v CSK,Ranchi,2,1,37,48,28,6,0,132.14,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,28 Sep 2013,v Titans,Ranchi,1,1,26,36,24,2,2,108.33,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,30 Mar 2014,v Maharashtra,Mumbai,1,1,70,72,53,6,2,132.07,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,31 Mar 2014,v Mumbai,Mumbai,1,1,0,4,2,0,0,0,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,2 Apr 2014,v Baroda,Wankhede,1,2,7,8,10,1,0,70,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 Apr 2014,v Saurashtra,Wankhede,1,1,13,35,18,0,0,72.22,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 Apr 2014,v Daredevils,Sharjah,2,1,37,39,28,5,1,132.14,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,19 Apr 2014,v MI,Dubai (DICS),2,2,57*,79,45,7,0,126.66,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,24 Apr 2014,v KKR,Sharjah,2,1,21,36,19,3,0,110.52,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,26 Apr 2014,v RR,Abu Dhabi,1,1,1,4,1,0,0,100,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,28 Apr 2014,v Kings XI,Dubai (DICS),1,2,2,17,7,0,0,28.57,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 May 2014,v SRH,Bengaluru,2,2,3,7,5,0,0,60,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,6 May 2014,v MI,Wankhede,2,2,26,27,19,5,0,136.84,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,9 May 2014,v Kings XI,Bengaluru,2,2,13,29,14,3,0,92.85,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,11 May 2014,v RR,Bengaluru,1,7,2*,2,1,0,0,200,not out,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 May 2014,v Daredevils,Bengaluru,1,2,29,57,28,4,0,103.57,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 May 2014,v CSK,Ranchi,2,2,10,12,14,2,0,71.42,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 May 2014,v SRH,Hyderabad,1,2,4,3,4,1,0,100,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 Mar 2015,v Maharashtra,Pune,2,2,52,62,35,6,1,148.57,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,25 Mar 2015,v Mumbai,Pune,2,2,8,7,6,1,0,133.33,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,26 Mar 2015,v Baroda,Pune,2,2,16,10,10,3,0,160,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,28 Mar 2015,v Saurashtra,Pune,1,2,8,19,9,1,0,88.88,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,14 Apr 2015,v RR,Ahmedabad,1,2,16,-,11,2,0,145.45,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 Apr 2015,v CSK,Wankhede,1,2,0,2,1,0,0,0,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 Apr 2015,v RCB,Bengaluru,1,2,12,25,13,2,0,92.3,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,23 Apr 2015,v Daredevils,Delhi,2,2,28,30,19,4,1,147.36,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,25 Apr 2015,v SRH,Wankhede,1,2,17,26,17,3,0,100,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,1 May 2015,v RR,Wankhede,1,2,23,24,14,5,0,164.28,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,3 May 2015,v Kings XI,Mohali,1,2,59,50,36,5,3,163.88,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,5 May 2015,v Daredevils,Wankhede,2,2,13,41,13,1,0,100,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2015,v CSK,Chennai,2,2,45,45,32,6,0,140.62,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,10 May 2015,v RCB,Wankhede,2,1,19,19,11,3,0,172.72,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,14 May 2015,v KKR,Wankhede,1,2,21,17,14,3,0,150,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,17 May 2015,v SRH,Hyderabad,2,2,51*,66,37,9,0,137.83,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,19 May 2015,v CSK,Wankhede,1,2,35,49,25,4,1,140,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 May 2015,v CSK,Eden Gardens,1,2,0,5,3,0,0,0,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,2 Jan 2016,v Himachal,Nagpur,1,1,35,29,26,5,0,134.61,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,3 Jan 2016,v Vidarbha,Nagpur,1,1,59,57,38,6,1,155.26,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 Jan 2016,v Hyderabad,Nagpur,2,1,70,44,40,8,3,175,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,6 Jan 2016,v Bengal,Nagpur,2,1,52,36,32,9,1,162.5,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,7 Jan 2016,v Tamil Nadu,Nagpur,1,1,4,12,8,0,0,50,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,10 Jan 2016,v Haryana,Nagpur,2,1,51*,30,20,8,2,255,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,15 Jan 2016,v Delhi,Mumbai,2,1,42,37,28,5,2,150,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,16 Jan 2016,v UP,Mumbai,1,1,8,2,5,1,0,160,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 Jan 2016,v Jharkhand,Mumbai,2,1,16,15,10,3,0,160,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,13 Apr 2016,v KKR,Eden Gardens,2,2,23,27,20,4,0,115,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,16 Apr 2016,v Guj Lions,Wankhede,1,2,34,61,29,2,2,117.24,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 Apr 2016,v SRH,Hyderabad,1,2,10,19,12,2,0,83.33,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,20 Apr 2016,v RCB,Wankhede,2,2,5,4,6,1,0,83.33,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,23 Apr 2016,v Daredevils,Delhi,2,2,1,7,4,0,0,25,run out,1,DNB,-,-,-,-
+32242,Parthiv Patel,25 Apr 2016,v Kings XI,Mohali,1,2,81,96,58,10,2,139.65,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,28 Apr 2016,v KKR,Wankhede,2,2,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,1 May 2016,v Supergiants,Pune,2,2,21,17,15,4,0,140,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2016,v SRH,Visakhapatnam,2,2,0,3,4,0,0,0,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,11 May 2016,v RCB,Bengaluru,2,2,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,12 Feb 2017,v Central Zone,Wankhede,1,1,16,17,15,3,0,106.66,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 Feb 2017,v North Zone,Wankhede,2,2,56,47,35,9,0,160,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,16 Feb 2017,v South Zone,Wankhede,1,2,10,17,7,1,0,142.85,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,18 Feb 2017,v East Zone,Wankhede,1,2,17,18,17,3,0,100,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,6 Apr 2017,v Supergiant,Pune,1,1,19,20,14,4,0,135.71,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,9 Apr 2017,v KKR,Wankhede,2,1,30,37,27,3,1,111.11,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,12 Apr 2017,v SRH,Wankhede,2,1,39,45,24,7,0,162.5,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,14 Apr 2017,v RCB,Bengaluru,2,1,3,10,8,0,0,37.5,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,16 Apr 2017,v Guj Lions,Wankhede,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,20 Apr 2017,v Kings XI,Indore,2,1,37,28,18,4,2,205.55,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,22 Apr 2017,v Daredevils,Wankhede,1,1,8,21,11,1,0,72.72,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 Apr 2017,v Supergiant,Wankhede,2,1,33,42,27,4,0,122.22,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,29 Apr 2017,v Guj Lions,Rajkot,2,1,70,62,44,9,1,159.09,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,1 May 2017,v RCB,Wankhede,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,6 May 2017,v Daredevils,Delhi,1,2,25,43,22,3,0,113.63,stumped,2,DNB,-,-,-,-
+32242,Parthiv Patel,8 May 2017,v SRH,Hyderabad,1,2,23,27,17,1,1,135.29,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,11 May 2017,v Kings XI,Wankhede,2,2,38,44,23,7,0,165.21,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,16 May 2017,v Supergiant,Wankhede,2,2,52,78,40,3,3,130,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,19 May 2017,v KKR,Bengaluru,2,2,14,13,9,3,0,155.55,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,21 May 2017,v Supergiant,Hyderabad,1,2,4,10,6,0,0,66.66,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,5 May 2018,v CSK,Pune,1,1,53,-,41,5,2,129.26,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,7 May 2018,v SRH,Hyderabad,2,2,20,-,13,4,0,153.84,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,12 May 2018,v Daredevils,Delhi,2,1,6,-,8,1,0,75,lbw,1,DNB,-,-,-,-
+32242,Parthiv Patel,14 May 2018,v Kings XI,Indore,2,2,40*,-,22,7,0,181.81,not out,1,DNB,-,-,-,-
+32242,Parthiv Patel,17 May 2018,v SRH,Bengaluru,1,1,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 May 2018,v RR,Jaipur,2,2,33,-,21,3,2,157.14,stumped,1,DNB,-,-,-,-
+32242,Parthiv Patel,27 Feb 2019,v Bihar,Surat,1,1,14,-,12,3,0,116.66,bowled,2,DNB,-,-,-,-
+32242,Parthiv Patel,2 Mar 2019,v Vidarbha,Surat,1,2,7,-,10,1,0,70,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,11 Mar 2019,v Railways,Indore,2,1,25,36,20,2,1,125,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,12 Mar 2019,v Bengal,Indore,1,1,6,2,3,1,0,200,run out,2,DNB,-,-,-,-
+32242,Parthiv Patel,23 Mar 2019,v CSK,Chennai,1,2,29,-,35,2,0,82.85,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,28 Mar 2019,v MI,Bengaluru,2,1,31,-,22,4,1,140.9,bowled,1,DNB,-,-,-,-
+32242,Parthiv Patel,31 Mar 2019,v SRH,Hyderabad,2,1,11,7,8,2,0,137.5,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,2 Apr 2019,v RR,Jaipur,1,2,67,78,41,9,1,163.41,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,5 Apr 2019,v KKR,Bengaluru,1,1,25,32,24,3,0,104.16,lbw,2,DNB,-,-,-,-
+32242,Parthiv Patel,7 Apr 2019,v DC,Bengaluru,1,1,9,13,9,1,0,100,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,13 Apr 2019,v Kings XI,Mohali,2,1,19,15,9,4,0,211.11,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,15 Apr 2019,v MI,Wankhede,1,1,28,36,20,4,1,140,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,19 Apr 2019,v KKR,Eden Gardens,1,1,11,16,11,2,0,100,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,21 Apr 2019,v CSK,Bengaluru,1,1,53,78,37,2,4,143.24,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,24 Apr 2019,v Kings XI,Bengaluru,1,1,43,37,24,7,2,179.16,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,28 Apr 2019,v DC,Delhi,2,1,39,31,20,7,1,195,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,30 Apr 2019,v RR,Bengaluru,1,6,8,7,5,1,0,160,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,4 May 2019,v SRH,Bengaluru,2,1,0,3,3,0,0,0,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,11 Nov 2019,v Saurashtra,Surat,2,1,15,-,9,3,0,166.66,caught,1,DNB,-,-,-,-
+32242,Parthiv Patel,12 Nov 2019,v Nagaland,Surat,1,1,37,-,27,3,1,137.03,caught,2,DNB,-,-,-,-
+32242,Parthiv Patel,14 Nov 2019,v Sikkim,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+32242,Parthiv Patel,15 Nov 2019,v Odisha,Surat,2,1,3,-,3,0,0,100,caught,1,DNB,-,-,-,-

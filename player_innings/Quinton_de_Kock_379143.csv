@@ -1,0 +1,440 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+379143,Quinton de Kock,2 Oct 2011,v Griq West,Kimberley,2,4,68,45,44,9,1,154.54,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Oct 2011,v Namibia,Windhoek,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,30 Oct 2011,v North West,Johannesburg,2,6,12,13,7,0,1,171.42,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Dec 2011,v Free State,Johannesburg,2,5,0,5,1,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,29 Dec 2011,v Easterns,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Feb 2012,v Impi,Potchefstroom,1,3,9,17,9,0,1,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Feb 2012,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Feb 2012,v Cape Cobras,Johannesburg,2,3,53,40,29,4,3,182.75,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,26 Feb 2012,v Knights,Bloemfontein,1,3,48,41,36,6,1,133.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Mar 2012,v Titans,Centurion,2,3,72*,45,36,7,5,200,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 Mar 2012,v Knights,Potchefstroom,2,3,3,5,4,0,0,75,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,9 Mar 2012,v Cape Cobras,Cape Town,2,3,34,35,24,4,1,141.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Mar 2012,v Titans,Johannesburg,1,3,40,42,23,0,4,173.91,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Mar 2012,v Warriors,Johannesburg,1,3,46,35,26,6,2,176.92,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,16 Mar 2012,v Dolphins,Johannesburg,1,3,2,12,5,0,0,40,caught,-,TDNB,-,-,-,-
+379143,Quinton de Kock,21 Mar 2012,v Impi,Benoni,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Apr 2012,v Titans,Johannesburg,2,3,17,20,10,2,1,170,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,14 Oct 2012,v MI,Johannesburg,2,3,51*,62,33,5,2,154.54,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Oct 2012,v CSK,Cape Town,2,3,5,12,8,1,0,62.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 Oct 2012,v Sixers,Cape Town,1,3,4,20,14,0,0,28.57,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Oct 2012,v Yorkshire,Johannesburg,2,3,32,36,35,2,2,91.42,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Oct 2012,v Daredevils,Durban,1,3,11,17,13,2,0,84.61,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Oct 2012,v Sixers,Johannesburg,1,3,1,6,7,0,0,14.28,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Dec 2012,v New Zealand,Durban,2,4,28*,23,23,5,0,121.73,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Dec 2012,v New Zealand,East London,1,7,0*,1,0,0,0,-,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Dec 2012,v New Zealand,Gqeberha,1,3,2,12,4,0,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Feb 2013,v Cape Cobras,Potchefstroom,2,1,126*,80,69,13,6,182.6,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,20 Feb 2013,v Titans,Johannesburg,2,1,47,54,40,4,2,117.5,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Feb 2013,v Dolphins,Durban,1,1,19,11,12,3,0,158.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,24 Feb 2013,v Warriors,Potchefstroom,1,1,47,48,32,5,1,146.87,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Mar 2013,v Knights,Johannesburg,2,1,9,23,14,2,0,64.28,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Mar 2013,v Cape Cobras,Cape Town,2,1,0,5,6,0,0,0,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 Mar 2013,v Knights,Kimberley,2,1,42,42,33,4,1,127.27,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Mar 2013,v Titans,Centurion,2,2,73,58,40,6,4,182.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Mar 2013,v Warriors,East London,2,1,20,38,22,1,1,90.9,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Mar 2013,v Dolphins,Johannesburg,1,2,97,81,61,3,8,159.01,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Apr 2013,v Titans,Johannesburg,1,2,44,42,31,3,3,141.93,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Apr 2013,v Warriors,Pune,1,2,2,8,8,0,0,25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Apr 2013,v Kings XI,Hyderabad,2,1,0,2,4,0,0,0,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Apr 2013,v CSK,Chennai,1,1,4,1,3,1,0,133.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Aug 2013,v Sri Lanka,Colombo (RPS),1,2,5,9,7,1,0,71.42,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Aug 2013,v Sri Lanka,Hambantota,1,2,19,30,23,3,0,82.6,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Aug 2013,v Sri Lanka,Hambantota,1,2,16,36,19,3,0,84.21,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Sep 2013,v Scorchers,Ahmedabad,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379143,Quinton de Kock,25 Sep 2013,v RR,Jaipur,2,2,18,15,10,2,1,180,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Sep 2013,v MI,Jaipur,1,2,19,33,22,4,0,86.36,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Sep 2013,v Otago,Jaipur,1,2,109*,81,63,10,5,173.01,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 Nov 2013,v Pakistan,Dubai (DICS),2,2,48*,52,38,3,2,126.31,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Nov 2013,v Pakistan,Dubai (DICS),1,1,30,26,19,6,0,157.89,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Nov 2013,v Pakistan,Johannesburg,1,1,43,45,33,8,0,130.3,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Nov 2013,v Pakistan,Cape Town,2,2,26,30,24,4,0,108.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,5 Jan 2014,v Warriors,Cape Town,2,1,26,32,22,3,0,118.18,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 Jan 2014,v Knights,Bloemfontein,1,1,71,61,54,6,2,131.48,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Jan 2014,v Cape Cobras,Paarl,2,1,24,19,16,4,1,150,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Jan 2014,v Titans,Potchefstroom,2,1,52,55,39,6,1,133.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Jan 2014,v Warriors,East London,2,1,22,28,17,4,0,129.41,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Jan 2014,v Dolphins,Durban,2,1,31,27,17,3,1,182.35,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Jan 2014,v Knights,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379143,Quinton de Kock,26 Jan 2014,v Titans,Benoni,1,1,70,81,50,5,3,140,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,31 Jan 2014,v Cape Cobras,Johannesburg,1,2,46,56,42,5,1,109.52,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Feb 2014,v Dolphins,Johannesburg,1,2,37,29,28,5,0,132.14,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Mar 2014,v Australia,Durban,1,2,41*,37,20,2,4,205,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Mar 2014,v Australia,Centurion,1,1,41,62,40,2,2,102.5,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Mar 2014,v Sri Lanka,Chattogram,2,1,25,18,18,4,1,138.88,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Mar 2014,v New Zealand,Chattogram,1,1,4,12,8,0,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,27 Mar 2014,v Netherlands,Chattogram,1,2,0,4,2,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Mar 2014,v England,Chattogram,1,2,29,53,33,2,0,87.87,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Apr 2014,v India,Mirpur,1,1,6,3,4,1,0,150,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Apr 2014,v SRH,Dubai (DICS),2,1,48,47,30,6,1,160,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Apr 2014,v MI,Sharjah,2,1,16,27,24,2,0,66.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 May 2014,v RR,Delhi,1,1,42,48,33,5,1,127.27,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 May 2014,v CSK,Delhi,1,1,24,17,16,3,2,150,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 May 2014,v KKR,Delhi,1,1,10,11,9,2,0,111.11,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 May 2014,v SRH,Delhi,1,1,7,11,12,0,0,58.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 May 2014,v RCB,Bengaluru,2,2,6,9,6,1,0,100,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,2 Nov 2014,v CA XI,North Sydney,2,1,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,5 Nov 2014,v Australia,Adelaide,2,2,46,66,39,4,1,117.94,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 Nov 2014,v Australia,Melbourne,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Nov 2014,v Australia,Sydney,1,1,48,-,27,5,2,177.77,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,30 Nov 2014,v Dolphins,Bloemfontein,1,2,9,18,13,2,0,69.23,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Dec 2014,v Knights,Kimberley,2,1,21*,10,13,1,2,161.53,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 Dec 2014,v Knights,Johannesburg,1,1,1,5,3,0,0,33.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 May 2015,v SRH,Raipur,2,1,50,35,31,9,1,161.29,stumped,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 May 2015,v CSK,Raipur,2,1,3,10,7,0,0,42.85,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 May 2015,v RCB,Bengaluru,1,1,69,55,39,9,3,176.92,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 Jul 2015,v Bangladesh,Mirpur,1,2,12,16,8,0,1,150,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Jul 2015,v Bangladesh,Mirpur,1,1,44,44,31,4,2,141.93,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Sep 2015,v W Province,Benoni,2,2,24,31,20,4,0,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Sep 2015,v Northerns,Benoni,1,1,11,10,13,2,0,84.61,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Nov 2015,v Dolphins,Centurion,2,1,11,4,8,2,0,137.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Nov 2015,v Lions,Potchefstroom,2,2,36,36,31,4,1,116.12,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Nov 2015,v Cape Cobras,Centurion,1,2,34,47,31,5,1,109.67,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 Nov 2015,v Knights,Bloemfontein,1,1,11,18,14,2,0,78.57,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Nov 2015,v Warriors,Centurion,2,1,60,55,34,6,3,176.47,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 Nov 2015,v Dolphins,Durban,1,1,38,45,31,6,0,122.58,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Nov 2015,v Cape Cobras,Cape Town,1,1,85,60,51,11,2,166.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Nov 2015,v Warriors,Gqeberha,1,1,34,52,31,5,0,109.67,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Dec 2015,v Lions,Benoni,1,1,88,43,43,6,7,204.65,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Dec 2015,v Knights,Benoni,1,1,28,38,24,3,1,116.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Dec 2015,v Dolphins,Centurion,2,1,12,14,10,2,0,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Mar 2016,v Australia,Durban,2,2,7,13,8,1,0,87.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Mar 2016,v Australia,Johannesburg,1,2,44,34,28,8,1,157.14,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Mar 2016,v Australia,Cape Town,1,1,25,21,13,4,1,192.3,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Mar 2016,v England,Wankhede,1,2,52,32,24,7,3,216.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Mar 2016,v Afghanistan,Wankhede,1,1,45,51,31,6,2,145.16,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Mar 2016,v West Indies,Nagpur,1,2,47,70,46,3,1,102.17,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Mar 2016,v Sri Lanka,Delhi,2,2,9,7,6,2,0,150,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,10 Apr 2016,v KKR,Eden Gardens,1,2,17,10,10,1,1,170,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Apr 2016,v Kings XI,Delhi,2,1,59*,65,42,9,1,140.47,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Apr 2016,v RCB,Bengaluru,2,1,108,94,51,15,3,211.76,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Apr 2016,v MI,Delhi,1,1,9,9,7,2,0,128.57,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,27 Apr 2016,v Guj Lions,Delhi,2,1,5,17,11,1,0,45.45,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,30 Apr 2016,v KKR,Delhi,1,1,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 May 2016,v Guj Lions,Rajkot,2,1,46,62,45,4,1,102.22,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 May 2016,v Kings XI,Mohali,2,1,52,37,30,6,2,173.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 May 2016,v SRH,Hyderabad,2,1,44,49,31,5,2,141.93,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 May 2016,v MI,Visakhapatnam,2,2,40,45,28,4,2,142.85,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 May 2016,v Supergiants,Visakhapatnam,1,1,2,-,8,0,0,25,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 May 2016,v SRH,Raipur,2,1,2,8,9,0,0,22.22,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 May 2016,v RCB,Raipur,1,1,60,81,52,5,1,115.38,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Feb 2017,v New Zealand,Auckland,1,2,0,10,4,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Oct 2017,v Bangladesh,Bloemfontein,1,1,59,71,44,5,1,134.09,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Nov 2017,v Lions,Centurion,2,1,39,20,24,5,2,162.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Nov 2017,v Knights,Kimberley,1,1,9,11,8,0,1,112.5,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Nov 2017,v Warriors,East London,1,1,7,15,12,1,0,58.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Nov 2017,v Cape Cobras,Centurion,2,1,0,3,4,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Dec 2017,v Knights,Gqeberha,2,1,17,19,18,3,0,94.44,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Dec 2017,v Cape Cobras,Cape Town,1,1,6,6,6,1,0,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 Dec 2017,v Warriors,Centurion,2,1,1,3,3,0,0,33.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Dec 2017,v Dolphins,Centurion,2,1,39,31,27,4,2,144.44,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Apr 2018,v KKR,Eden Gardens,1,2,4,-,4,1,0,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 Apr 2018,v Kings XI,Bengaluru,2,1,45,-,34,7,1,132.35,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Apr 2018,v RR,Bengaluru,2,2,26,-,19,4,0,136.84,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Apr 2018,v MI,Wankhede,2,2,19,-,12,2,1,158.33,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Apr 2018,v Daredevils,Bengaluru,2,1,18,-,16,1,1,112.5,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Apr 2018,v CSK,Bengaluru,1,1,53,-,37,1,4,143.24,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Apr 2018,v KKR,Bengaluru,1,1,29,-,27,3,1,107.4,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 May 2018,v MI,Bengaluru,1,2,7,-,13,1,0,53.84,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,1,20,-,11,4,0,181.81,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Oct 2018,v Zimbabwe,East London,1,1,5,7,5,1,0,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Oct 2018,v Zimbabwe,Potchefstroom,2,2,26,28,23,3,1,113.04,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Nov 2018,v Australia,Carrara,1,1,22,-,16,0,2,137.5,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Nov 2018,v Giants,Cape Town,1,1,6,18,9,0,0,66.66,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,24 Nov 2018,v Jozi Stars,Johannesburg,1,1,74,38,36,9,5,205.55,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Nov 2018,v Paarl Rocks,Paarl,1,1,31,11,16,3,2,193.75,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Dec 2018,v Spartans,Centurion,1,1,108,89,55,10,5,196.36,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Dec 2018,v Jozi Stars,Cape Town,2,1,9,21,15,1,0,60,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 Dec 2018,v Paarl Rocks,Cape Town,2,1,93,58,47,12,3,197.87,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,9 Dec 2018,v Durban Heat,Cape Town,1,1,86*,89,55,9,3,156.36,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,16 Dec 2018,v Jozi Stars,Cape Town,1,1,5,8,10,1,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Mar 2019,v Sri Lanka,Cape Town,2,1,13,25,17,2,0,76.47,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Mar 2019,v DC,Wankhede,2,2,27,-,16,4,1,168.75,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Mar 2019,v RCB,Bengaluru,1,1,23,-,20,2,1,115,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,30 Mar 2019,v Kings XI,Mohali,1,2,60,61,39,6,2,153.84,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Apr 2019,v CSK,Wankhede,1,1,4,11,7,1,0,57.14,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Apr 2019,v SRH,Hyderabad,1,2,19,42,18,1,1,105.55,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Apr 2019,v Kings XI,Wankhede,2,1,24,46,23,2,0,104.34,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Apr 2019,v RR,Wankhede,1,2,81,87,52,6,4,155.76,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Apr 2019,v RCB,Wankhede,2,1,40,42,26,5,2,153.84,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 Apr 2019,v DC,Delhi,1,2,35,51,27,2,2,129.62,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Apr 2019,v RR,Jaipur,1,1,65,74,47,6,2,138.29,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Apr 2019,v CSK,Chennai,1,2,15,15,9,1,1,166.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Apr 2019,v KKR,Eden Gardens,2,1,0,7,4,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,2 May 2019,v SRH,Wankhede,1,2,69*,106,58,6,2,118.96,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 May 2019,v KKR,Wankhede,2,1,30,33,23,1,3,130.43,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 May 2019,v CSK,Chennai,2,2,8,20,12,2,0,66.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 May 2019,v CSK,Hyderabad,1,1,29,24,17,0,4,170.58,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Sep 2019,v India,Mohali,1,2,52,53,37,8,0,140.54,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Sep 2019,v India,Bengaluru,2,2,79*,73,52,6,5,151.92,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Nov 2019,v Jozi Stars,Johannesburg,1,2,35,28,21,4,2,166.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Nov 2019,v Paarl Rocks,Paarl,2,1,14,8,10,3,0,140,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,14 Nov 2019,v Jozi Stars,Cape Town,1,2,41,28,21,4,3,195.23,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Nov 2019,v Durban Heat,Durban,1,1,17,11,13,3,0,130.76,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Nov 2019,v Giants,Gqeberha,1,2,39,37,18,4,3,216.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,24 Nov 2019,v Paarl Rocks,Cape Town,2,1,23,17,17,3,1,135.29,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Nov 2019,v Durban Heat,Cape Town,1,2,10,20,15,0,1,66.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Dec 2019,v Spartans,Cape Town,1,1,16,11,10,3,0,160,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Dec 2019,v Giants,Cape Town,2,2,40,29,19,7,1,210.52,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 Feb 2020,v England,East London,1,2,31,19,15,3,2,206.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Feb 2020,v England,Durban,2,2,65,35,22,2,8,295.45,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Feb 2020,v England,Centurion,1,2,35,32,24,1,4,145.83,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Feb 2020,v Australia,Johannesburg,2,1,2,2,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Feb 2020,v Australia,Gqeberha,1,1,70,64,47,5,4,148.93,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Feb 2020,v Australia,Cape Town,2,1,5,3,3,1,0,166.66,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Sep 2020,v CSK,Abu Dhabi,1,2,33,-,20,5,0,165,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Sep 2020,v KKR,Abu Dhabi,1,1,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Sep 2020,v RCB,Dubai (DICS),2,2,14,-,15,1,0,93.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Oct 2020,v Kings XI,Abu Dhabi,1,1,0,-,5,0,0,0,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Oct 2020,v SRH,Sharjah,1,2,67,-,39,4,4,171.79,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Oct 2020,v RR,Abu Dhabi,1,1,23,-,15,3,1,153.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,11 Oct 2020,v DC,Abu Dhabi,2,2,53,-,36,4,3,147.22,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Oct 2020,v KKR,Abu Dhabi,2,2,78*,-,44,9,3,177.27,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 Oct 2020,v Kings XI,Dubai (DICS),1,2,53,-,43,3,3,123.25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Oct 2020,v CSK,Sharjah,2,1,46*,-,37,5,2,124.32,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Oct 2020,v RR,Abu Dhabi,1,2,6,-,4,0,1,150,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Oct 2020,v RCB,Abu Dhabi,2,1,18,-,19,0,1,94.73,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,31 Oct 2020,v DC,Dubai (DICS),2,2,26,-,28,2,0,92.85,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Nov 2020,v SRH,Sharjah,1,2,25,-,13,2,2,192.3,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 Nov 2020,v DC,Dubai (DICS),1,1,40,-,25,5,1,160,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Nov 2020,v DC,Dubai (DICS),2,2,20,-,12,3,1,166.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Nov 2020,v England,Cape Town,1,2,30,-,23,2,1,130.43,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Nov 2020,v England,Paarl,1,2,30,-,18,3,1,166.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Dec 2020,v England,Cape Town,1,1,17,-,12,1,1,141.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,13 Apr 2021,v KKR,Chennai,1,2,2,10,6,0,0,33.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Apr 2021,v SRH,Chennai,1,1,40,61,39,5,0,102.56,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Apr 2021,v DC,Chennai,1,2,2,11,4,0,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Apr 2021,v Punjab Kings,Chennai,1,1,3,10,5,0,0,60,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Apr 2021,v RR,Delhi,2,2,70*,95,50,6,2,140,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 May 2021,v CSK,Delhi,2,1,38,51,28,4,1,135.71,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,26 Jun 2021,v West Indies,St George's,1,2,37,33,24,2,2,154.16,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,27 Jun 2021,v West Indies,St George's,1,2,26,32,20,2,2,130,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Jun 2021,v West Indies,St George's,1,1,72,87,51,5,2,141.17,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Jul 2021,v West Indies,St George's,2,1,60,98,43,6,2,139.53,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Jul 2021,v West Indies,St George's,1,2,60,77,42,4,2,142.85,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Jul 2021,v Ireland,Dublin (Malahide),1,2,20,11,9,3,1,222.22,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Jul 2021,v Ireland,Belfast,1,2,27,29,20,5,0,135,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,27 Jul 2021,v Fire,Cardiff,2,2,21,12,7,2,2,300,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,30 Jul 2021,v Phoenix,Southampton,2,1,3,15,4,0,0,75,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Aug 2021,v Spirit,Lord's,1,2,27,24,14,2,2,192.85,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 Aug 2021,v Originals,Manchester,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 Aug 2021,v N S-Chargers,Southampton,2,1,72*,76,45,9,1,160,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Aug 2021,v Fire,Southampton,2,1,57*,58,32,5,2,178.12,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Aug 2021,v Invincibles,Southampton,2,1,9,7,4,2,0,225,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,20 Aug 2021,v Rockets,The Oval,2,2,6,10,4,1,0,150,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Aug 2021,v Phoenix,Lord's,1,1,7,10,7,0,1,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Sep 2021,v Sri Lanka,Colombo (RPS),1,1,36,42,32,3,1,112.5,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Sep 2021,v Sri Lanka,Colombo (RPS),2,1,58*,74,48,7,0,120.83,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,14 Sep 2021,v Sri Lanka,Colombo (RPS),2,2,59*,70,46,7,0,128.26,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Sep 2021,v CSK,Dubai (DICS),2,1,17,11,12,3,0,141.66,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Sep 2021,v KKR,Abu Dhabi,1,2,55,78,42,4,3,130.95,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Sep 2021,v RCB,Dubai (DICS),2,2,24,35,23,4,0,104.34,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Sep 2021,v Punjab Kings,Abu Dhabi,2,2,27,49,29,2,0,93.1,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,2 Oct 2021,v DC,Sharjah,1,2,19,32,18,1,1,105.55,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Oct 2021,v Australia,Abu Dhabi,1,2,7,21,12,1,0,58.33,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,30 Oct 2021,v Sri Lanka,Sharjah,2,1,12,21,10,2,0,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,2 Nov 2021,v Bangladesh,Abu Dhabi,2,1,16,25,15,3,0,106.66,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Nov 2021,v England,Sharjah,1,2,34,56,27,4,0,125.92,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Feb 2022,v Warriors,Gqeberha,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,9 Feb 2022,v Boland,Gqeberha,1,2,72,83,61,5,1,118.03,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Feb 2022,v Knights,Gqeberha,1,1,5,12,6,0,0,83.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Feb 2022,v Dolphins,Gqeberha,2,2,26,44,21,5,0,123.8,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Feb 2022,v Lions,Gqeberha,2,1,22,10,11,3,1,200,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Feb 2022,v W Province,Gqeberha,2,2,43,43,34,7,0,126.47,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Feb 2022,v North West,Gqeberha,1,1,34,16,17,6,1,200,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Feb 2022,v Dolphins,Gqeberha,2,2,0,5,1,0,0,0,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Feb 2022,v Boland,Gqeberha,2,1,9,-,5,2,0,180,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Mar 2022,v GT,Wankhede,1,2,7,17,9,1,0,77.77,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,31 Mar 2022,v CSK,Brabourne,2,2,61,82,45,9,0,135.55,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Apr 2022,v SRH,DY Patil,1,2,1,10,4,0,0,25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Apr 2022,v DC,DY Patil,2,2,80,97,52,9,2,153.84,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,10 Apr 2022,v RR,Wankhede,2,2,39,80,32,2,1,121.87,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 Apr 2022,v MI,Brabourne,1,2,24,29,13,4,1,184.61,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Apr 2022,v RCB,DY Patil,2,1,3,15,5,0,0,60,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Apr 2022,v MI,Wankhede,1,1,10,21,9,0,1,111.11,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Apr 2022,v Punjab Kings,Pune,1,1,46,61,37,4,2,124.32,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 May 2022,v DC,Wankhede,1,1,23,26,13,3,1,176.92,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 May 2022,v KKR,Pune,1,1,50,36,29,4,3,172.41,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 May 2022,v GT,Pune,2,1,11,19,10,0,1,110,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 May 2022,v RR,Brabourne,2,1,7,14,8,1,0,87.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 May 2022,v KKR,DY Patil,1,1,140*,97,70,10,10,200,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 May 2022,v RCB,Eden Gardens,2,1,6,6,5,0,1,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,9 Jun 2022,v India,Delhi,2,1,22,43,18,3,0,122.22,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Jun 2022,v India,Rajkot,2,1,14,30,13,2,0,107.69,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Jun 2022,v India,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Jul 2022,v England,Bristol,2,1,2,6,4,0,0,50,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Jul 2022,v England,Cardiff,1,1,15,18,11,2,0,136.36,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,31 Jul 2022,v England,Southampton,1,1,0,2,3,0,0,0,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Aug 2022,v Ireland,Bristol,1,1,7,21,8,0,0,87.5,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 Aug 2022,v Ireland,Bristol,1,2,7,-,10,1,0,70,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Aug 2022,v Phoenix,Birmingham,2,2,15,-,9,1,1,166.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 Aug 2022,v Spirit,Southampton,2,2,2,-,2,0,0,100,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,14 Aug 2022,v Invincibles,The Oval,1,1,8,-,9,2,0,88.88,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Aug 2022,v Originals,Southampton,2,1,21,30,20,3,0,105,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Aug 2022,v Fire,Cardiff,2,2,37,60,37,5,0,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Aug 2022,v Rockets,Southampton,2,2,24,-,23,2,1,104.34,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,31 Aug 2022,v N S-Chargers,Leeds,2,2,8,8,6,2,0,133.33,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Sep 2022,v Kings,Basseterre,1,3,24,-,25,1,1,96,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Sep 2022,v Trinbago,Gros Islet,1,2,44,73,34,6,0,129.41,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,8 Sep 2022,v Kings,Gros Islet,2,2,0,5,1,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Sep 2022,v Tallawahs,Gros Islet,2,2,64*,-,53,7,0,120.75,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Sep 2022,v Trinbago,Port of Spain,2,4,15*,21,12,2,0,125,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Sep 2022,v Tallawahs,Port of Spain,1,4,74,75,43,7,3,172.09,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Sep 2022,v Amazon,Tarouba,1,4,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Sep 2022,v India,Thiruvananthapuram,1,1,1,9,4,0,0,25,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Oct 2022,v India,Guwahati,2,2,69*,123,48,3,4,143.75,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Oct 2022,v India,Indore,1,1,68,59,43,6,4,158.13,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,24 Oct 2022,v Zimbabwe,Hobart,2,1,47*,26,18,8,1,261.11,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Oct 2022,v Bangladesh,Sydney,1,2,63,77,38,7,3,165.78,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,30 Oct 2022,v India,Perth,2,1,1,7,3,0,0,33.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Nov 2022,v Pakistan,Sydney,2,2,0,6,5,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Nov 2022,v Netherlands,Adelaide,2,1,13,12,13,1,1,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Jan 2023,v Super Kings,Durban,2,2,78,68,52,5,5,150,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Jan 2023,v MI Cape Town,Cape Town,2,2,11,17,8,2,0,137.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Jan 2023,v Paarl Royals,Durban,1,3,57,44,31,5,4,183.87,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Jan 2023,v Paarl Royals,Paarl,2,3,0,8,2,0,0,0,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,20 Jan 2023,v Capitals,Durban,1,3,13,20,15,1,1,86.66,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Jan 2023,v Sunrisers,Gqeberha,2,5,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Jan 2023,v Super Kings,Johannesburg,1,2,6,9,9,1,0,66.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Feb 2023,v MI Cape Town,Durban,2,1,63,52,41,7,3,153.65,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Feb 2023,v Sunrisers,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,5 Feb 2023,v Capitals,Centurion,1,1,43,44,20,5,3,215,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Mar 2023,v West Indies,Centurion,1,1,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Mar 2023,v West Indies,Centurion,2,1,100,56,44,9,8,227.27,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,28 Mar 2023,v West Indies,Johannesburg,2,1,21,20,21,4,0,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,7 May 2023,v GT,Ahmedabad,2,2,70,88,41,7,3,170.73,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 May 2023,v SRH,Hyderabad,2,2,29,39,19,3,1,152.63,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,16 May 2023,v MI,Lucknow,1,2,16,31,15,0,2,106.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 May 2023,v KKR,Eden Gardens,1,2,28,55,27,0,2,103.7,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Dec 2023,v Scorchers,Geelong,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Dec 2023,v Heat,Melbourne (Docklands),1,1,0,8,7,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Dec 2023,v Hurricanes,Hobart,1,2,38,34,22,3,3,172.72,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Dec 2023,v Scorchers,Perth,2,1,23,19,18,3,1,127.77,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,29 Dec 2023,v Strikers,Melbourne (Docklands),2,2,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,2 Jan 2024,v Stars,Melbourne,1,1,23,21,16,3,1,143.75,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Jan 2024,v Hurricanes,Melbourne (Docklands),1,2,20,31,22,2,0,90.9,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,11 Jan 2024,v MI Cape Town,Durban,2,1,5,7,6,1,0,83.33,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Jan 2024,v Sunrisers,Gqeberha,1,2,23,-,16,3,1,143.75,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Jan 2024,v Super Kings,Durban,1,2,2,10,8,0,0,25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Jan 2024,v Capitals,Centurion,2,3,25,25,20,2,1,125,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,20 Jan 2024,v Sunrisers,Durban,1,2,7,7,8,0,1,87.5,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jan 2024,v MI Cape Town,Cape Town,1,3,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Jan 2024,v Paarl Royals,Paarl,1,4,83*,71,51,5,5,162.74,not out,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Jan 2024,v Paarl Royals,Durban,1,3,6,11,9,1,0,66.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,30 Jan 2024,v Capitals,Durban,1,3,16,23,7,2,1,228.57,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,6 Feb 2024,v Sunrisers,Cape Town,2,3,20,40,23,2,0,86.95,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Feb 2024,v Super Kings,Johannesburg,1,2,23,22,17,5,0,135.29,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Feb 2024,v Sunrisers,Cape Town,2,1,3,9,7,0,0,42.85,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Mar 2024,v RR,Jaipur,2,1,4,3,5,1,0,80,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,30 Mar 2024,v Punjab Kings,Lucknow,1,1,54,63,38,5,2,142.1,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,2 Apr 2024,v RCB,Bengaluru,1,1,81,76,56,8,5,144.64,caught,2,sub,-,-,-,-
+379143,Quinton de Kock,7 Apr 2024,v GT,Lucknow,1,1,6,2,4,0,1,150,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Apr 2024,v DC,Lucknow,1,1,19,15,13,4,0,146.15,lbw,2,sub,-,-,-,-
+379143,Quinton de Kock,14 Apr 2024,v KKR,Eden Gardens,1,1,10,12,8,2,0,125,caught,2,sub,-,-,-,-
+379143,Quinton de Kock,19 Apr 2024,v CSK,Lucknow,2,1,54,72,43,5,1,125.58,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Apr 2024,v CSK,Chennai,2,1,0,2,3,0,0,0,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Apr 2024,v RR,Lucknow,1,1,8,2,3,2,0,266.66,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,8 May 2024,v SRH,Hyderabad,1,2,2,11,5,0,0,40,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 May 2024,v DC,Delhi,2,1,12,16,8,2,0,150,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 May 2024,v West Indies,Kingston,2,1,4,1,2,1,0,200,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 May 2024,v West Indies,Kingston,2,2,41,24,17,4,4,241.17,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,26 May 2024,v West Indies,Kingston,1,1,19,33,18,3,0,105.55,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Jun 2024,v Sri Lanka,New York,2,1,20,54,27,0,1,74.07,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,8 Jun 2024,v Netherlands,New York,2,2,0,1,0,0,0,-,run out,1,DNB,-,-,-,-
+379143,Quinton de Kock,10 Jun 2024,v Bangladesh,New York,1,1,18,13,11,1,2,163.63,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Jun 2024,v Nepal,Kingstown,1,2,10,14,11,1,0,90.9,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Jun 2024,v U.S.A.,North Sound,1,1,74,54,40,7,5,185,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Jun 2024,v England,Gros Islet,1,2,65,50,38,4,4,171.05,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jun 2024,v West Indies,North Sound,2,1,12,10,7,3,0,171.42,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,26 Jun 2024,v Afghanistan,Tarouba,2,1,5,7,8,1,0,62.5,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,29 Jun 2024,v India,Bridgetown,2,2,39,54,31,4,1,125.8,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,5 Jul 2024,v MI New York,Morrisville,1,1,5,-,10,0,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Jul 2024,v Los Angeles,Dallas,2,3,51*,-,46,3,2,110.86,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Jul 2024,v Washington,Dallas,1,3,24,-,19,1,2,126.31,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,15 Jul 2024,v SF,Morrisville,2,3,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Jul 2024,v Los Angeles,Morrisville,1,3,0,-,4,0,0,0,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,20 Jul 2024,v SF,Dallas,1,3,62,-,33,8,3,187.87,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jul 2024,v Texas,Dallas,2,2,26,-,19,2,1,136.84,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Sep 2024,v Falcons,North Sound,2,1,87*,-,45,9,5,193.33,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,6 Sep 2024,v Patriots,Basseterre,2,2,19,-,13,2,1,146.15,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Sep 2024,v Falcons,Bridgetown,2,2,48,59,30,4,2,160,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Sep 2024,v Trinbago,Bridgetown,1,1,39,31,21,3,2,185.71,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Sep 2024,v Amazon,Bridgetown,1,1,115,102,68,8,9,169.11,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,17 Sep 2024,v Patriots,Bridgetown,2,1,59*,62,38,3,4,155.26,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Sep 2024,v Kings,Providence,1,2,2,5,4,0,0,50,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Sep 2024,v Kings,Providence,2,2,22,23,13,3,1,169.23,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Sep 2024,v Amazon,Providence,2,1,35,38,23,3,2,152.17,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Sep 2024,v Trinbago,Tarouba,2,1,8,11,8,0,1,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Oct 2024,v Trinbago,Providence,2,2,4,2,2,1,0,200,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Oct 2024,v Amazon,Providence,1,1,15,9,15,1,1,100,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,10 Jan 2025,v Capitals,Durban,1,4,15,17,14,2,0,107.14,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,12 Jan 2025,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379143,Quinton de Kock,14 Jan 2025,v Super Kings,Durban,2,3,55,75,45,5,2,122.22,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,17 Jan 2025,v Sunrisers,Durban,2,4,21,35,19,1,1,110.52,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,19 Jan 2025,v Sunrisers,Gqeberha,1,4,4,12,5,1,0,80,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Jan 2025,v MI Cape Town,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jan 2025,v Paarl Royals,Durban,1,1,43,41,30,3,3,143.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,25 Jan 2025,v MI Cape Town,Cape Town,1,1,5,14,8,1,0,62.5,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,27 Jan 2025,v Paarl Royals,Paarl,1,1,0,1,3,0,0,0,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Feb 2025,v Super Kings,Johannesburg,1,2,16,19,14,1,1,114.28,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,22 Mar 2025,v RCB,Eden Gardens,1,1,4,3,5,1,0,80,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Mar 2025,v RR,Guwahati,2,2,97*,89,61,8,6,159.01,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,31 Mar 2025,v MI,Wankhede,1,1,1,6,3,0,0,33.33,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Apr 2025,v SRH,Eden Gardens,1,1,1,9,6,0,0,16.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,8 Apr 2025,v LSG,Eden Gardens,2,1,15,15,9,0,2,166.66,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Apr 2025,v CSK,Chennai,2,1,23,21,16,0,3,143.75,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Apr 2025,v Punjab Kings,New Chandigarh,2,1,2,7,4,0,0,50,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 May 2025,v SRH,Delhi,2,1,9,42,13,0,0,69.23,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Jun 2025,v Texas,Oakland,2,2,8,-,8,1,0,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,15 Jun 2025,v SF,Oakland,1,2,63,-,38,5,4,165.78,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Jun 2025,v Seattle,Oakland,2,2,14,-,13,1,1,107.69,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Jun 2025,v Washington,Dallas,1,2,55,-,34,7,2,161.76,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jun 2025,v SF,Dallas,2,1,70,-,46,8,2,152.17,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Jun 2025,v Seattle,Dallas,1,1,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Jun 2025,v Texas,Dallas,2,1,35,-,25,2,3,140,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,3 Jul 2025,v Los Angeles,Lauderhill,2,1,11,-,12,0,1,91.66,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,5 Jul 2025,v Los Angeles,Lauderhill,1,2,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Jul 2025,v SF,Dallas,2,2,33,-,24,4,1,137.5,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Jul 2025,v Texas,Dallas,2,1,6,-,8,1,0,75,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,13 Jul 2025,v Washington,Dallas,1,2,77,-,46,6,4,167.39,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,16 Aug 2025,v Falcons,North Sound,1,1,57,73,45,5,1,126.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,21 Aug 2025,v Patriots,Basseterre,2,2,15,13,10,1,1,150,lbw,1,DNB,-,-,-,-
+379143,Quinton de Kock,24 Aug 2025,v Kings,Gros Islet,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379143,Quinton de Kock,29 Aug 2025,v Trinbago,Tarouba,1,1,17,20,15,1,0,113.33,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,4 Sep 2025,v Amazon,Bridgetown,1,2,2,16,4,0,0,50,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,5 Sep 2025,v Falcons,Bridgetown,1,1,27,52,28,3,0,96.42,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,7 Sep 2025,v Kings,Bridgetown,1,1,1,14,6,0,0,16.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,11 Sep 2025,v Patriots,Bridgetown,2,1,22,44,22,1,1,100,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,12 Sep 2025,v Trinbago,Bridgetown,2,1,55,61,35,3,3,157.14,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,14 Sep 2025,v Amazon,Providence,2,2,12,11,10,2,0,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Oct 2025,v Namibia,Windhoek,1,2,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,28 Oct 2025,v Pakistan,Rawalpindi,1,2,23,18,13,5,0,176.92,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,31 Oct 2025,v Pakistan,Lahore,1,2,7,11,6,1,0,116.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,1 Nov 2025,v Pakistan,Lahore,1,1,0,2,2,0,0,0,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,9 Dec 2025,v India,Cuttack,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Dec 2025,v India,New Chandigarh,1,1,90,90,46,5,7,195.65,run out,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Dec 2025,v India,Dharamsala,1,1,1,8,3,0,0,33.33,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,19 Dec 2025,v India,Ahmedabad,2,1,65,54,35,9,3,185.71,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,27 Dec 2025,v Paarl Royals,Paarl,1,1,42,48,24,3,2,175,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,29 Dec 2025,v Capitals,Gqeberha,1,2,77,64,47,5,6,163.82,stumped,2,DNB,-,-,-,-
+379143,Quinton de Kock,31 Dec 2025,v Paarl Royals,Gqeberha,1,1,7,8,6,1,0,116.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,3 Jan 2026,v Super Kings,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379143,Quinton de Kock,5 Jan 2026,v Capitals,Centurion,2,1,79*,66,41,5,6,192.68,not out,1,DNB,-,-,-,-
+379143,Quinton de Kock,11 Jan 2026,v Super Giants,Gqeberha,1,1,13,18,15,1,1,86.66,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Jan 2026,v Super Kings,Gqeberha,1,2,54,49,37,5,2,145.94,lbw,2,DNB,-,-,-,-
+379143,Quinton de Kock,16 Jan 2026,v MI Cape Town,Cape Town,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,18 Jan 2026,v MI Cape Town,Gqeberha,2,1,56,78,49,6,2,114.28,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,21 Jan 2026,v Capitals,Durban,1,1,19,15,15,2,1,126.66,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,23 Jan 2026,v Paarl Royals,Johannesburg,2,1,25,11,12,3,2,208.33,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,25 Jan 2026,v Capitals,Cape Town,2,1,18,29,15,1,1,120,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,29 Jan 2026,v West Indies,Centurion,2,2,115,68,49,6,10,234.69,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,31 Jan 2026,v West Indies,Johannesburg,2,2,28,19,14,4,1,200,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,9 Feb 2026,v Canada,Ahmedabad,1,2,25,32,22,2,0,113.63,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,11 Feb 2026,v Afghanistan,Ahmedabad,1,2,59,51,41,5,3,143.9,caught,2,DNB,-,-,-,-
+379143,Quinton de Kock,14 Feb 2026,v New Zealand,Ahmedabad,2,2,20,21,14,3,1,142.85,bowled,1,DNB,-,-,-,-
+379143,Quinton de Kock,18 Feb 2026,v U.A.E.,Delhi,2,2,14,24,16,3,0,87.5,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,22 Feb 2026,v India,Ahmedabad,1,2,6,9,7,1,0,85.71,bowled,2,DNB,-,-,-,-
+379143,Quinton de Kock,26 Feb 2026,v West Indies,Ahmedabad,2,2,47,40,24,4,4,195.83,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,1 Mar 2026,v Zimbabwe,Delhi,2,2,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+379143,Quinton de Kock,4 Mar 2026,v New Zealand,Eden Gardens,1,2,10,7,8,1,1,125,caught,2,DNB,-,-,-,-

@@ -1,0 +1,162 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+940973,Mohammed Siraj,2 Jan 2016,v Bengal,Nagpur,2,11,2,4,4,0,0,50,bowled,1,4.0,0,36,1,9
+940973,Mohammed Siraj,3 Jan 2016,v Himachal,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+940973,Mohammed Siraj,4 Jan 2016,v Gujarat,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+940973,Mohammed Siraj,6 Jan 2016,v Haryana,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+940973,Mohammed Siraj,9 Jan 2016,v Vidarbha,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+940973,Mohammed Siraj,29 Jan 2017,v Goa,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+940973,Mohammed Siraj,30 Jan 2017,v Tamil Nadu,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+940973,Mohammed Siraj,31 Jan 2017,v Kerala,Chennai,1,10,6*,4,3,1,0,200,not out,2,4.0,0,30,2,7.5
+940973,Mohammed Siraj,2 Feb 2017,v Karnataka,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+940973,Mohammed Siraj,3 Feb 2017,v Andhra,Chennai,2,10,1,3,2,0,0,50,bowled,1,4.0,0,24,4,6
+940973,Mohammed Siraj,19 Apr 2017,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+940973,Mohammed Siraj,22 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+940973,Mohammed Siraj,30 Apr 2017,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+940973,Mohammed Siraj,2 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+940973,Mohammed Siraj,8 May 2017,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+940973,Mohammed Siraj,13 May 2017,v Guj Lions,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,4,8
+940973,Mohammed Siraj,4 Nov 2017,v New Zealand,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,1,13.25
+940973,Mohammed Siraj,24 Dec 2017,v Sri Lanka,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+940973,Mohammed Siraj,8 Jan 2018,v Kerala,Vizianagaram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+940973,Mohammed Siraj,9 Jan 2018,v Goa,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+940973,Mohammed Siraj,11 Jan 2018,v Karnataka,Visakhapatnam,2,10,0,1,1,0,0,0,caught,1,4.0,0,41,1,10.25
+940973,Mohammed Siraj,12 Jan 2018,v Andhra,Visakhapatnam,1,10,0,2,1,0,0,0,bowled,2,4.0,0,26,3,6.5
+940973,Mohammed Siraj,14 Jan 2018,v Tamil Nadu,Visakhapatnam,2,10,2*,3,3,0,0,66.66,not out,1,4.0,0,39,2,9.75
+940973,Mohammed Siraj,14 Mar 2018,v Bangladesh,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+940973,Mohammed Siraj,17 Apr 2018,v MI,Wankhede,2,10,8*,-,3,0,1,266.66,not out,1,4.0,0,34,0,8.5
+940973,Mohammed Siraj,21 Apr 2018,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+940973,Mohammed Siraj,25 Apr 2018,v CSK,Bengaluru,1,10,0*,-,0,0,0,-,not out,2,4.0,0,48,0,12
+940973,Mohammed Siraj,29 Apr 2018,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+940973,Mohammed Siraj,1 May 2018,v MI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+940973,Mohammed Siraj,5 May 2018,v CSK,Pune,1,10,3,-,7,0,0,42.85,run out,2,2.0,0,18,0,9
+940973,Mohammed Siraj,7 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+940973,Mohammed Siraj,12 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+940973,Mohammed Siraj,14 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+940973,Mohammed Siraj,17 May 2018,v SRH,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+940973,Mohammed Siraj,19 May 2018,v RR,Jaipur,2,10,14,-,12,2,0,116.66,caught,1,4.0,0,33,1,8.25
+940973,Mohammed Siraj,21 Feb 2019,v Puducherry,Delhi,2,10,0,1,1,0,0,0,caught,1,4.0,0,43,2,10.75
+940973,Mohammed Siraj,22 Feb 2019,v UP,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+940973,Mohammed Siraj,24 Feb 2019,v Baroda,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,34,0,17
+940973,Mohammed Siraj,25 Feb 2019,v Maharashtra,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,18,1,4.5
+940973,Mohammed Siraj,27 Feb 2019,v Tripura,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+940973,Mohammed Siraj,28 Feb 2019,v Services,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,5
+940973,Mohammed Siraj,2 Mar 2019,v Uttarakhand,Delhi,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+940973,Mohammed Siraj,23 Mar 2019,v CSK,Chennai,1,11,0*,-,1,0,0,0,not out,2,2.0,1,5,1,2.5
+940973,Mohammed Siraj,28 Mar 2019,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+940973,Mohammed Siraj,31 Mar 2019,v SRH,Hyderabad,2,10,3*,13,8,0,0,37.5,not out,1,4.0,0,38,0,9.5
+940973,Mohammed Siraj,2 Apr 2019,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+940973,Mohammed Siraj,5 Apr 2019,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.2,0,36,0,15.42
+940973,Mohammed Siraj,7 Apr 2019,v DC,Bengaluru,1,9,1,7,5,0,0,20,lbw,2,1.5,0,14,1,7.63
+940973,Mohammed Siraj,13 Apr 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,1,13.5
+940973,Mohammed Siraj,15 Apr 2019,v MI,Wankhede,1,9,0*,2,0,0,0,-,not out,2,2.0,0,21,1,10.5
+940973,Mohammed Siraj,19 Apr 2019,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+940973,Mohammed Siraj,8 Nov 2019,v Punjab,Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+940973,Mohammed Siraj,9 Nov 2019,v Railways,Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+940973,Mohammed Siraj,11 Nov 2019,v Himachal,Chandigarh,2,10,12,-,17,2,0,70.58,caught,1,4.0,0,31,2,7.75
+940973,Mohammed Siraj,12 Nov 2019,v Chandigarh,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,3.5,0,15,3,3.91
+940973,Mohammed Siraj,14 Nov 2019,v Maharashtra,Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.5,0,37,3,9.65
+940973,Mohammed Siraj,15 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,0,4
+940973,Mohammed Siraj,17 Nov 2019,v Chhattisgarh,Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+940973,Mohammed Siraj,5 Oct 2020,v DC,Dubai (DICS),2,10,5,-,4,1,0,125,bowled,1,4.0,0,34,2,8.5
+940973,Mohammed Siraj,12 Oct 2020,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+940973,Mohammed Siraj,15 Oct 2020,v Kings XI,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,44,0,14.66
+940973,Mohammed Siraj,21 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,2,8,3,2
+940973,Mohammed Siraj,25 Oct 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+940973,Mohammed Siraj,28 Oct 2020,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.1,0,28,2,8.84
+940973,Mohammed Siraj,31 Oct 2020,v SRH,Sharjah,1,9,2*,-,3,0,0,66.66,not out,2,1.0,0,12,0,12
+940973,Mohammed Siraj,2 Nov 2020,v DC,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+940973,Mohammed Siraj,6 Nov 2020,v SRH,Abu Dhabi,1,9,10*,-,7,1,0,142.85,not out,2,4.0,0,28,2,7
+940973,Mohammed Siraj,9 Apr 2021,v MI,Chennai,2,10,0*,5,1,0,0,0,not out,1,4.0,0,22,0,5.5
+940973,Mohammed Siraj,14 Apr 2021,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,25,2,6.25
+940973,Mohammed Siraj,18 Apr 2021,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,0,5.66
+940973,Mohammed Siraj,22 Apr 2021,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+940973,Mohammed Siraj,25 Apr 2021,v CSK,Wankhede,2,11,12*,18,14,0,1,85.71,not out,1,4.0,0,32,0,8
+940973,Mohammed Siraj,27 Apr 2021,v DC,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+940973,Mohammed Siraj,30 Apr 2021,v Punjab Kings,Ahmedabad,2,10,0*,2,1,0,0,0,not out,1,3.0,0,24,0,8
+940973,Mohammed Siraj,20 Sep 2021,v KKR,Abu Dhabi,1,10,8,18,10,1,0,80,caught,2,2.0,0,12,0,6
+940973,Mohammed Siraj,24 Sep 2021,v CSK,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+940973,Mohammed Siraj,26 Sep 2021,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+940973,Mohammed Siraj,29 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+940973,Mohammed Siraj,3 Oct 2021,v Punjab Kings,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+940973,Mohammed Siraj,6 Oct 2021,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+940973,Mohammed Siraj,8 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+940973,Mohammed Siraj,11 Oct 2021,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+940973,Mohammed Siraj,4 Nov 2021,v Saurashtra,Sultanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+940973,Mohammed Siraj,5 Nov 2021,v Uttarakhand,Sultanpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,1,3
+940973,Mohammed Siraj,6 Nov 2021,v Chandigarh,Sultanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+940973,Mohammed Siraj,17 Nov 2021,v New Zealand,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+940973,Mohammed Siraj,27 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+940973,Mohammed Siraj,27 Mar 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,59,2,14.75
+940973,Mohammed Siraj,30 Mar 2022,v KKR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+940973,Mohammed Siraj,5 Apr 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+940973,Mohammed Siraj,9 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+940973,Mohammed Siraj,12 Apr 2022,v CSK,DY Patil,2,10,14*,26,11,3,0,127.27,not out,1,4.0,0,37,0,9.25
+940973,Mohammed Siraj,16 Apr 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+940973,Mohammed Siraj,19 Apr 2022,v LSG,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+940973,Mohammed Siraj,23 Apr 2022,v SRH,Brabourne,1,11,2,4,4,0,0,50,caught,2,2.0,0,15,0,7.5
+940973,Mohammed Siraj,26 Apr 2022,v RR,Pune,2,10,5,6,5,1,0,100,caught,1,4.0,0,30,2,7.5
+940973,Mohammed Siraj,30 Apr 2022,v GT,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+940973,Mohammed Siraj,4 May 2022,v CSK,Pune,1,10,0*,1,0,0,0,-,not out,2,2.0,0,22,0,11
+940973,Mohammed Siraj,8 May 2022,v SRH,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+940973,Mohammed Siraj,13 May 2022,v Punjab Kings,Brabourne,2,10,9*,15,13,1,0,69.23,not out,1,2.0,0,36,0,18
+940973,Mohammed Siraj,25 May 2022,v LSG,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+940973,Mohammed Siraj,27 May 2022,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,31,0,15.5
+940973,Mohammed Siraj,4 Oct 2022,v South Africa,Indore,2,11,5,10,7,1,0,71.42,caught,1,4.0,0,44,0,11
+940973,Mohammed Siraj,20 Nov 2022,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,1,24,2,6
+940973,Mohammed Siraj,22 Nov 2022,v New Zealand,Napier,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,4,4.25
+940973,Mohammed Siraj,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+940973,Mohammed Siraj,6 Apr 2023,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,4.0,0,44,1,11
+940973,Mohammed Siraj,10 Apr 2023,v LSG,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+940973,Mohammed Siraj,15 Apr 2023,v DC,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+940973,Mohammed Siraj,17 Apr 2023,v CSK,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+940973,Mohammed Siraj,20 Apr 2023,v Punjab Kings,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,4,5.25
+940973,Mohammed Siraj,23 Apr 2023,v RR,Bengaluru,1,11,1*,4,1,0,0,100,not out,2,4.0,0,39,1,9.75
+940973,Mohammed Siraj,26 Apr 2023,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+940973,Mohammed Siraj,1 May 2023,v LSG,Lucknow,1,10,0,3,1,0,0,0,caught,2,3.0,0,24,1,8
+940973,Mohammed Siraj,6 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+940973,Mohammed Siraj,9 May 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+940973,Mohammed Siraj,14 May 2023,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+940973,Mohammed Siraj,18 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+940973,Mohammed Siraj,21 May 2023,v GT,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+940973,Mohammed Siraj,12 Dec 2023,v South Africa,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+940973,Mohammed Siraj,14 Dec 2023,v South Africa,Johannesburg,1,9,2*,2,1,0,0,200,not out,2,3.0,1,13,0,4.33
+940973,Mohammed Siraj,22 Mar 2024,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+940973,Mohammed Siraj,25 Mar 2024,v Punjab Kings,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+940973,Mohammed Siraj,29 Mar 2024,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,46,0,15.33
+940973,Mohammed Siraj,2 Apr 2024,v LSG,Bengaluru,2,11,12,8,8,0,2,150,caught,1,4.0,0,47,1,11.75
+940973,Mohammed Siraj,6 Apr 2024,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+940973,Mohammed Siraj,11 Apr 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+940973,Mohammed Siraj,21 Apr 2024,v KKR,Eden Gardens,2,10,0*,9,0,0,0,-,not out,1,4.0,0,40,1,10
+940973,Mohammed Siraj,25 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+940973,Mohammed Siraj,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+940973,Mohammed Siraj,4 May 2024,v GT,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+940973,Mohammed Siraj,9 May 2024,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,3,10.75
+940973,Mohammed Siraj,12 May 2024,v DC,Bengaluru,1,10,0,3,0,0,0,-,run out,2,4.0,0,33,1,8.25
+940973,Mohammed Siraj,18 May 2024,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+940973,Mohammed Siraj,22 May 2024,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+940973,Mohammed Siraj,5 Jun 2024,v Ireland,New York,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+940973,Mohammed Siraj,9 Jun 2024,v Pakistan,New York,1,11,7*,7,7,0,0,100,not out,2,4.0,0,19,0,4.75
+940973,Mohammed Siraj,12 Jun 2024,v U.S.A.,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+940973,Mohammed Siraj,27 Jul 2024,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+940973,Mohammed Siraj,28 Jul 2024,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+940973,Mohammed Siraj,30 Jul 2024,v Sri Lanka,Pallekele,1,10,0,1,1,0,0,0,run out,2,3.0,0,11,0,3.66
+940973,Mohammed Siraj,25 Mar 2025,v Punjab Kings,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,0,13.5
+940973,Mohammed Siraj,29 Mar 2025,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+940973,Mohammed Siraj,2 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+940973,Mohammed Siraj,6 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,4,4.25
+940973,Mohammed Siraj,9 Apr 2025,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+940973,Mohammed Siraj,12 Apr 2025,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,0,12.5
+940973,Mohammed Siraj,19 Apr 2025,v DC,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+940973,Mohammed Siraj,21 Apr 2025,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+940973,Mohammed Siraj,28 Apr 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+940973,Mohammed Siraj,2 May 2025,v SRH,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+940973,Mohammed Siraj,6 May 2025,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+940973,Mohammed Siraj,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+940973,Mohammed Siraj,22 May 2025,v LSG,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+940973,Mohammed Siraj,25 May 2025,v CSK,Ahmedabad,2,11,3*,5,4,0,0,75,not out,1,4.0,0,47,0,11.75
+940973,Mohammed Siraj,30 May 2025,v MI,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+940973,Mohammed Siraj,2 Dec 2025,v UP,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+940973,Mohammed Siraj,12 Dec 2025,v Mumbai,Pune,2,-,DNB,-,-,-,-,-,-,1,3.5,0,17,3,4.43
+940973,Mohammed Siraj,14 Dec 2025,v Rajasthan,Ambi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+940973,Mohammed Siraj,16 Dec 2025,v Haryana,Pune,2,10,5,-,10,0,0,50,bowled,1,4.0,0,37,1,9.25
+940973,Mohammed Siraj,7 Feb 2026,v U.S.A.,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25

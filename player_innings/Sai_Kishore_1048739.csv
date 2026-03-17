@@ -1,0 +1,92 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1048739,Sai Kishore,8 Jan 2018,v Andhra,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+1048739,Sai Kishore,9 Jan 2018,v Kerala,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,0,5.66
+1048739,Sai Kishore,11 Jan 2018,v Goa,Vizianagaram,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,1,6
+1048739,Sai Kishore,12 Jan 2018,v Karnataka,Vizianagaram,2,10,2,4,4,0,0,50,caught,1,4.0,0,25,1,6.25
+1048739,Sai Kishore,14 Jan 2018,v Hyderabad,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+1048739,Sai Kishore,21 Jan 2018,v Delhi,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+1048739,Sai Kishore,25 Feb 2019,v Gujarat,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+1048739,Sai Kishore,27 Feb 2019,v Himachal,Surat,1,3,0,-,1,0,0,0,caught,2,4.0,0,31,0,7.75
+1048739,Sai Kishore,28 Feb 2019,v Vidarbha,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+1048739,Sai Kishore,2 Mar 2019,v Meghalaya,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+1048739,Sai Kishore,8 Nov 2019,v Kerala,Thumba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+1048739,Sai Kishore,9 Nov 2019,v Rajasthan,Thumba,1,-,DNB,-,-,-,-,-,-,2,4.0,1,19,3,4.75
+1048739,Sai Kishore,11 Nov 2019,v UP,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+1048739,Sai Kishore,14 Nov 2019,v Manipur,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,1,6,2,1.5
+1048739,Sai Kishore,15 Nov 2019,v Tripura,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,2,6,4,1.5
+1048739,Sai Kishore,17 Nov 2019,v Vidarbha,Thiruvananthapuram,1,9,2,-,2,0,0,100,run out,2,3.5,0,9,3,2.34
+1048739,Sai Kishore,21 Nov 2019,v Karnataka,Surat,1,9,2*,-,2,0,0,100,not out,2,4.0,0,33,0,8.25
+1048739,Sai Kishore,22 Nov 2019,v Mumbai,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+1048739,Sai Kishore,25 Nov 2019,v Punjab,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,1,10,3,2.5
+1048739,Sai Kishore,27 Nov 2019,v Jharkhand,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+1048739,Sai Kishore,29 Nov 2019,v Rajasthan,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1048739,Sai Kishore,1 Dec 2019,v Karnataka,Surat,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+1048739,Sai Kishore,10 Jan 2021,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+1048739,Sai Kishore,12 Jan 2021,v Assam,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1048739,Sai Kishore,14 Jan 2021,v Odisha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+1048739,Sai Kishore,16 Jan 2021,v Hyderabad,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+1048739,Sai Kishore,18 Jan 2021,v Bengal,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+1048739,Sai Kishore,26 Jan 2021,v Himachal,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1048739,Sai Kishore,29 Jan 2021,v Rajasthan,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+1048739,Sai Kishore,31 Jan 2021,v Baroda,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,0,2.75
+1048739,Sai Kishore,4 Nov 2021,v Maharashtra,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1048739,Sai Kishore,5 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+1048739,Sai Kishore,6 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,4,7
+1048739,Sai Kishore,8 Nov 2021,v Goa,Lucknow,1,3,7,-,5,0,1,140,caught,2,4.0,0,23,0,5.75
+1048739,Sai Kishore,9 Nov 2021,v Punjab,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+1048739,Sai Kishore,18 Nov 2021,v Kerala,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+1048739,Sai Kishore,20 Nov 2021,v Hyderabad,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1048739,Sai Kishore,22 Nov 2021,v Karnataka,Delhi,2,8,6*,-,3,1,0,200,not out,1,4.0,0,12,3,3
+1048739,Sai Kishore,10 May 2022,v LSG,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,2,3.5
+1048739,Sai Kishore,15 May 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1048739,Sai Kishore,19 May 2022,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+1048739,Sai Kishore,24 May 2022,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+1048739,Sai Kishore,29 May 2022,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+1048739,Sai Kishore,11 Oct 2022,v Chhattisgarh,Lucknow,2,8,0,-,1,0,0,0,caught,1,3.0,0,21,0,7
+1048739,Sai Kishore,12 Oct 2022,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+1048739,Sai Kishore,14 Oct 2022,v Sikkim,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,7,3,1.75
+1048739,Sai Kishore,16 Oct 2022,v Bengal,Lucknow,2,9,9,-,5,0,1,180,caught,1,4.0,0,20,1,5
+1048739,Sai Kishore,18 Oct 2022,v Jharkhand,Lucknow,1,8,0,-,1,0,0,0,caught,2,4.0,0,6,3,1.5
+1048739,Sai Kishore,20 Oct 2022,v Chandigarh,Lucknow,1,8,1*,-,2,0,0,50,not out,2,4.0,0,13,1,3.25
+1048739,Sai Kishore,3 Oct 2023,v Nepal,Hangzhou,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+1048739,Sai Kishore,6 Oct 2023,v Bangladesh,Hangzhou,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+1048739,Sai Kishore,7 Oct 2023,v Afghanistan,Hangzhou,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+1048739,Sai Kishore,17 Oct 2023,v UP,Dehradun,1,8,1*,-,1,0,0,100,not out,2,3.0,0,22,0,7.33
+1048739,Sai Kishore,19 Oct 2023,v Tripura,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+1048739,Sai Kishore,23 Oct 2023,v Delhi,Dehradun,2,9,6,-,10,0,0,60,bowled,1,4.0,0,25,0,6.25
+1048739,Sai Kishore,25 Oct 2023,v M. Pradesh,Dehradun,1,7,1,-,3,0,0,33.33,retired out,2,3.4,0,31,2,8.45
+1048739,Sai Kishore,27 Oct 2023,v Nagaland,Dehradun,1,10,9*,-,5,1,0,180,not out,2,4.0,0,8,0,2
+1048739,Sai Kishore,24 Mar 2024,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+1048739,Sai Kishore,26 Mar 2024,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+1048739,Sai Kishore,21 Apr 2024,v Punjab Kings,New Chandigarh,2,9,0*,1,0,0,0,-,not out,1,4.0,0,33,4,8.25
+1048739,Sai Kishore,24 Apr 2024,v DC,Delhi,2,9,13,10,6,0,2,216.66,bowled,1,1.0,0,22,0,22
+1048739,Sai Kishore,28 Apr 2024,v RCB,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+1048739,Sai Kishore,23 Oct 2024,v Oman,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+1048739,Sai Kishore,23 Nov 2024,v Tripura,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+1048739,Sai Kishore,25 Nov 2024,v Sikkim,Indore,1,7,7*,-,3,0,1,233.33,not out,2,2.0,0,2,2,1
+1048739,Sai Kishore,27 Nov 2024,v Baroda,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+1048739,Sai Kishore,29 Nov 2024,v Gujarat,Indore,2,7,21*,-,20,1,1,105,not out,1,4.0,0,38,1,9.5
+1048739,Sai Kishore,1 Dec 2024,v Karnataka,Indore,1,8,2,-,9,0,0,22.22,caught,2,3.0,0,24,0,8
+1048739,Sai Kishore,3 Dec 2024,v Saurashtra,Indore,2,8,2,-,4,0,0,50,caught,1,4.0,0,44,1,11
+1048739,Sai Kishore,5 Dec 2024,v Uttarakhand,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+1048739,Sai Kishore,25 Mar 2025,v Punjab Kings,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+1048739,Sai Kishore,29 Mar 2025,v MI,Ahmedabad,1,9,1,3,1,0,0,100,run out,2,4.0,0,37,1,9.25
+1048739,Sai Kishore,2 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1048739,Sai Kishore,6 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1048739,Sai Kishore,9 Apr 2025,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.2,0,20,2,8.57
+1048739,Sai Kishore,12 Apr 2025,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,1.3,0,35,0,23.33
+1048739,Sai Kishore,19 Apr 2025,v DC,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,1,9
+1048739,Sai Kishore,21 Apr 2025,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+1048739,Sai Kishore,28 Apr 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,16,0,16
+1048739,Sai Kishore,2 May 2025,v SRH,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,0.4,0,1,0,1.5
+1048739,Sai Kishore,6 May 2025,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+1048739,Sai Kishore,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,1,11.75
+1048739,Sai Kishore,22 May 2025,v LSG,Ahmedabad,2,10,1,1,2,0,0,50,bowled,1,3.0,0,34,1,11.33
+1048739,Sai Kishore,25 May 2025,v CSK,Ahmedabad,2,10,3,15,7,0,0,42.85,caught,1,2.0,0,23,1,11.5
+1048739,Sai Kishore,30 May 2025,v MI,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+1048739,Sai Kishore,26 Nov 2025,v Rajasthan,Ahmedabad,1,5,5,-,8,0,0,62.5,bowled,2,3.0,0,46,0,15.33
+1048739,Sai Kishore,28 Nov 2025,v Delhi,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+1048739,Sai Kishore,2 Dec 2025,v Karnataka,Ahmedabad,2,7,2,-,5,0,0,40,caught,1,2.0,0,24,0,12
+1048739,Sai Kishore,4 Dec 2025,v Tripura,Ahmedabad,1,6,87*,-,39,3,8,223.07,not out,2,3.0,0,32,0,10.66
+1048739,Sai Kishore,6 Dec 2025,v Jharkhand,Ahmedabad,2,8,10,-,7,2,0,142.85,caught,1,2.0,0,28,0,14
+1048739,Sai Kishore,8 Dec 2025,v Saurashtra,Ahmedabad,2,6,1,-,4,0,0,25,caught,1,4.0,0,34,0,8.5

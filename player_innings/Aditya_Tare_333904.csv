@@ -1,0 +1,131 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+333904,Aditya Tare,20 Oct 2009,v Baroda,Pune,1,5,3,9,5,0,0,60,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,21 Oct 2009,v Gujarat,Pune,2,5,49*,37,36,5,2,136.11,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,22 Oct 2009,v Saurashtra,Pune,1,5,6,5,4,1,0,150,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Oct 2009,v Maharashtra,Pune,2,5,16,12,17,1,1,94.11,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,13 Mar 2010,v RR,Brabourne,1,3,23,-,13,3,1,176.92,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,17 Mar 2010,v Daredevils,Delhi,1,3,17,-,10,0,2,170,bowled,2,DNB,-,-,-,-
+333904,Aditya Tare,20 Mar 2010,v RCB,Brabourne,1,3,9,-,10,2,0,90,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Mar 2010,v KKR,Brabourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,25 Mar 2010,v CSK,Brabourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,17 Apr 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+333904,Aditya Tare,19 Apr 2010,v KKR,Eden Gardens,1,1,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,20 Oct 2010,v Baroda,Vadodara,2,6,15*,31,13,3,0,115.38,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,21 Oct 2010,v Gujarat,Vadodara,2,6,10*,16,12,1,0,83.33,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,22 Oct 2010,v Saurashtra,Vadodara,1,6,6,6,5,1,0,120,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Oct 2010,v Maharashtra,Vadodara,1,5,47,65,50,3,0,94,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Mar 2012,v Tamil Nadu,Brabourne,1,7,17,-,13,3,0,130.76,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,26 Mar 2012,v Punjab,Mumbai,1,6,10,-,14,1,0,71.42,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,17 Mar 2013,v Baroda,Ahmedabad,2,2,62,60,35,7,3,177.14,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,18 Mar 2013,v Gujarat,Ahmedabad,2,2,47,54,34,7,1,138.23,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,19 Mar 2013,v Saurashtra,Ahmedabad,2,1,3,7,7,0,0,42.85,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,21 Mar 2013,v Maharashtra,Ahmedabad,2,4,38,21,24,3,2,158.33,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,15 May 2013,v RR,Wankhede,1,2,59,-,37,8,1,159.45,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,18 May 2013,v Kings XI,Dharamsala,2,2,22,16,12,2,2,183.33,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,21 May 2013,v CSK,Delhi,2,2,7,8,7,1,0,100,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,24 May 2013,v RR,Eden Gardens,2,2,35,41,27,3,2,129.62,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,26 May 2013,v CSK,Eden Gardens,1,2,0,7,1,0,0,0,bowled,2,DNB,-,-,-,-
+333904,Aditya Tare,30 Mar 2014,v Baroda,Wankhede,2,2,24,35,19,3,0,126.31,lbw,1,DNB,-,-,-,-
+333904,Aditya Tare,31 Mar 2014,v Gujarat,Mumbai,2,2,55,71,46,4,3,119.56,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,2 Apr 2014,v Saurashtra,Mumbai,1,2,29,32,27,5,0,107.4,stumped,2,DNB,-,-,-,-
+333904,Aditya Tare,3 Apr 2014,v Maharashtra,Wankhede,2,2,26,32,21,4,0,123.8,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,16 Apr 2014,v KKR,Abu Dhabi,2,2,24,36,22,2,1,109.09,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,19 Apr 2014,v RCB,Dubai (DICS),1,2,17,35,18,2,0,94.44,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,25 Apr 2014,v CSK,Dubai (DICS),1,2,23,19,19,4,0,121.05,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,27 Apr 2014,v Daredevils,Sharjah,1,2,8,15,10,1,0,80,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,30 Apr 2014,v SRH,Dubai (DICS),2,6,7,12,5,1,0,140,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,3 May 2014,v Kings XI,Wankhede,2,7,16*,15,6,1,1,266.66,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,6 May 2014,v RCB,Wankhede,1,7,0*,1,0,0,0,-,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,10 May 2014,v CSK,Wankhede,1,7,9,12,5,2,0,180,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,12 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,14 May 2014,v KKR,Cuttack,1,7,2*,2,3,0,0,66.66,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,19 May 2014,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+333904,Aditya Tare,21 May 2014,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,23 May 2014,v Daredevils,Wankhede,1,6,14,10,8,3,0,175,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,25 May 2014,v RR,Wankhede,2,7,6*,3,1,0,1,600,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,28 May 2014,v CSK,Brabourne,1,7,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,13 Sep 2014,v Lahore Lions,Raipur,1,5,37,53,36,2,2,102.77,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,14 Sep 2014,v Express,Raipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,16 Sep 2014,v Northern Dis,Raipur,1,5,7,7,10,1,0,70,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Mar 2015,v Baroda,Pune,2,2,64,90,50,4,2,128,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,25 Mar 2015,v Gujarat,Pune,1,2,30,38,20,4,1,150,stumped,2,DNB,-,-,-,-
+333904,Aditya Tare,26 Mar 2015,v Saurashtra,Pune,2,2,14,15,9,3,0,155.55,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,27 Mar 2015,v Maharashtra,Pune,1,2,31,32,22,3,1,140.9,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Apr 2015,v KKR,Eden Gardens,1,3,7,7,7,1,0,100,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,12 Apr 2015,v Kings XI,Wankhede,2,3,7,12,10,0,0,70,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,2 Jan 2016,v Odisha,Cuttack,2,3,32,61,33,5,0,96.96,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,3 Jan 2016,v Karnataka,Cuttack,2,3,28,35,19,3,1,147.36,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,4 Jan 2016,v Services,Cuttack,2,3,49*,52,42,5,0,116.66,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,7 Jan 2016,v UP,Cuttack,1,3,20,31,16,0,1,125,bowled,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Jan 2016,v Maharashtra,Cuttack,2,3,65*,56,39,3,4,166.66,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,15 Jan 2016,v Kerala,Wankhede,2,3,71,64,46,9,1,154.34,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,16 Jan 2016,v Vidarbha,Wankhede,2,3,41,30,24,5,1,170.83,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,18 Jan 2016,v Baroda,Wankhede,1,3,5,5,6,1,0,83.33,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,21 Apr 2016,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,23 Apr 2016,v Kings XI,Hyderabad,2,3,0,1,1,0,0,0,run out,1,DNB,-,-,-,-
+333904,Aditya Tare,26 Apr 2016,v Supergiants,Hyderabad,1,3,8,18,14,1,0,57.14,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,29 Jan 2017,v Baroda,Vadodara,1,3,79,59,41,5,5,192.68,run out,2,DNB,-,-,-,-
+333904,Aditya Tare,30 Jan 2017,v Gujarat,Vadodara,2,3,9,7,7,1,0,128.57,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,1 Feb 2017,v Saurashtra,Vadodara,2,3,8,8,4,0,1,200,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,2 Feb 2017,v Maharashtra,Vadodara,2,4,71*,55,38,9,1,186.84,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,12 Feb 2017,v Central Zone,Wankhede,1,6,40,31,33,5,1,121.21,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,13 Feb 2017,v North Zone,Wankhede,2,3,14*,16,11,3,0,127.27,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,16 Feb 2017,v South Zone,Wankhede,1,3,26,25,19,4,0,136.84,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,18 Feb 2017,v East Zone,Wankhede,1,3,1,3,4,0,0,25,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Apr 2017,v RCB,Bengaluru,2,1,18,20,17,3,0,105.88,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,11 Apr 2017,v Supergiant,Pune,1,1,0,6,5,0,0,0,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Apr 2017,v MI,Wankhede,2,2,0,3,1,0,0,0,run out,1,DNB,-,-,-,-
+333904,Aditya Tare,7 Jan 2018,v Baroda,Rajkot,2,2,0,4,1,0,0,0,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,8 Jan 2018,v Gujarat,Rajkot,2,3,0,3,2,0,0,0,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,10 Jan 2018,v Saurashtra,Rajkot,1,3,39,31,23,6,1,169.56,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,11 Jan 2018,v Maharashtra,Rajkot,2,3,42*,38,26,4,2,161.53,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,21 Jan 2018,v Jharkhand,Kolkata,1,5,45,46,30,4,2,150,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Jan 2018,v Punjab,Kolkata,1,6,13*,5,4,0,2,325,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Jan 2018,v Rajasthan,Eden Gardens,2,4,2,3,3,0,0,66.66,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,25 Jan 2018,v Karnataka,Eden Gardens,1,4,4,8,7,0,0,57.14,stumped,2,DNB,-,-,-,-
+333904,Aditya Tare,21 Feb 2019,v Sikkim,Indore,1,6,13*,12,11,2,0,118.18,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Feb 2019,v Punjab,Indore,1,6,10,16,11,1,0,90.9,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,25 Feb 2019,v Goa,Indore,2,6,7*,-,8,1,0,87.5,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,27 Feb 2019,v Railways,Indore,2,7,10,11,9,1,0,111.11,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,28 Feb 2019,v Saurashtra,Indore,1,5,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Mar 2019,v Karnataka,Indore,1,6,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Nov 2019,v Mizoram,Wankhede,2,2,22*,-,25,3,0,88,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,9 Nov 2019,v Haryana,Wankhede,2,2,39,-,28,6,0,139.28,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,11 Nov 2019,v M. Pradesh,Wankhede,2,2,74*,-,48,10,2,154.16,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,12 Nov 2019,v Puducherry,Wankhede,1,2,20,-,14,3,0,142.85,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,14 Nov 2019,v Bengal,Wankhede,2,2,37,-,27,3,1,137.03,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,15 Nov 2019,v Meghalaya,Wankhede,1,2,27,-,22,4,0,122.72,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,17 Nov 2019,v Assam,Wankhede,1,2,82,-,48,13,0,170.83,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Nov 2019,v Tamil Nadu,Surat,1,2,0,-,1,0,0,0,stumped,2,DNB,-,-,-,-
+333904,Aditya Tare,24 Nov 2019,v Jharkhand,Surat,2,2,21,-,25,1,1,84,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,25 Nov 2019,v Karnataka,Surat,2,2,12,-,6,3,0,200,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,27 Nov 2019,v Punjab,Surat,1,2,21,-,17,3,0,123.52,bowled,2,DNB,-,-,-,-
+333904,Aditya Tare,11 Jan 2021,v Delhi,Wankhede,2,2,3,-,3,0,0,100,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,13 Jan 2021,v Kerala,Wankhede,1,2,42,-,31,4,1,135.48,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,15 Jan 2021,v Haryana,Mumbai,1,2,8,-,8,1,0,100,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,17 Jan 2021,v Puducherry,Wankhede,1,2,3,-,8,0,0,37.5,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,4 Nov 2021,v Karnataka,Guwahati,2,6,12*,-,10,1,0,120,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,5 Nov 2021,v Services,Guwahati,1,7,7*,-,3,1,0,233.33,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,6 Nov 2021,v Bengal,Guwahati,1,4,11,-,15,1,0,73.33,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,8 Nov 2021,v Chhattisgarh,Guwahati,2,6,6*,-,8,0,0,75,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,11 Oct 2022,v Railways,Rajkot,2,3,20,-,16,2,1,125,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,12 Oct 2022,v Assam,Saurashtra,1,3,18,-,17,3,0,105.88,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,14 Oct 2022,v M. Pradesh,Saurashtra,1,3,35*,-,24,4,1,145.83,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,16 Oct 2022,v Rajasthan,Rajkot,2,3,34,-,28,3,1,121.42,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,18 Oct 2022,v Vidarbha,Rajkot,2,4,46,-,25,3,3,184,bowled,1,DNB,-,-,-,-
+333904,Aditya Tare,20 Oct 2022,v Mizoram,Rajkot,1,3,15,-,12,2,0,125,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,22 Oct 2022,v Mumbai,Saurashtra,2,4,16,-,14,2,0,114.28,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,16 Oct 2023,v Vidarbha,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+333904,Aditya Tare,17 Oct 2023,v Maharashtra,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+333904,Aditya Tare,19 Oct 2023,v Jharkhand,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,23 Oct 2023,v Bengal,Mohali,1,7,28*,-,15,3,1,186.66,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,25 Oct 2023,v Rajasthan,Mohali,1,4,61,-,38,8,1,160.52,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,27 Oct 2023,v Puducherry,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+333904,Aditya Tare,23 Nov 2024,v Karnataka,Indore,1,6,42*,-,23,5,1,182.6,not out,2,DNB,-,-,-,-
+333904,Aditya Tare,25 Nov 2024,v Baroda,Indore,1,5,10,-,8,1,0,125,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,27 Nov 2024,v Sikkim,Indore,2,4,12*,-,11,1,1,109.09,not out,1,DNB,-,-,-,-
+333904,Aditya Tare,29 Nov 2024,v Saurashtra,Indore,2,6,11,-,11,1,0,100,caught,1,DNB,-,-,-,-
+333904,Aditya Tare,1 Dec 2024,v Tripura,Indore,1,6,20,-,12,3,0,166.66,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,3 Dec 2024,v Gujarat,Indore,1,5,54,-,26,2,5,207.69,caught,2,DNB,-,-,-,-
+333904,Aditya Tare,5 Dec 2024,v Tamil Nadu,Indore,2,4,31,-,29,0,3,106.89,caught,1,DNB,-,-,-,-

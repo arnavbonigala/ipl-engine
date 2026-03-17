@@ -1,0 +1,421 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+8917,Moeen Ali,22 Jun 2007,v Northants,Northampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+8917,Moeen Ali,25 Jun 2007,v Gloucs,Bristol,1,3,10,8,8,1,0,125,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,29 Jun 2007,v Northants,Kidderminster,1,3,12,12,9,0,1,133.33,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,1 Jul 2007,v Gloucs,Kidderminster,2,4,11,7,6,1,1,183.33,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,12 Jun 2008,v Gloucs,Worcester,2,3,13*,9,9,1,1,144.44,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,13 Jun 2008,v Northants,Northampton,2,3,22,39,21,1,0,104.76,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,17 Jun 2008,v Warwickshire,Worcester,1,3,5,9,9,0,0,55.55,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,22 Jun 2008,v Somerset,Taunton,2,7,16,14,12,0,1,133.33,bowled,1,DNB,-,-,-,-
+8917,Moeen Ali,24 Jun 2008,v Northants,Worcester,2,6,26*,25,20,4,0,130,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,25 Jun 2008,v Gloucs,Bristol,1,5,3,7,5,0,0,60,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,27 Jun 2008,v Glamorgan,Worcester,1,5,10,9,13,1,0,76.92,caught,2,1.0,0,11,0,11
+8917,Moeen Ali,25 May 2009,v Gloucs,Worcester,1,4,3,10,9,0,0,33.33,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,29 May 2009,v Warwickshire,Birmingham,1,4,3,3,4,0,0,75,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,30 May 2009,v Northants,Worcester,1,4,19,30,24,0,0,79.16,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,1 Jun 2009,v Gloucs,Bristol,1,4,3,5,6,0,0,50,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,3 Jun 2009,v Somerset,Worcester,1,4,20,22,19,2,0,105.26,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,4 Jun 2009,v Glamorgan,Cardiff,1,4,41,41,30,4,1,136.66,stumped,2,1.0,0,7,0,7
+8917,Moeen Ali,23 Jun 2009,v Somerset,Taunton,1,4,36,32,23,3,1,156.52,run out,2,DNB,-,-,-,-
+8917,Moeen Ali,24 Jun 2009,v Glamorgan,Worcester,1,4,15,7,8,1,1,187.5,caught,2,2.0,0,21,0,10.5
+8917,Moeen Ali,26 Jun 2009,v Warwickshire,Worcester,1,4,46,43,39,3,1,117.94,lbw,2,2.0,0,15,2,7.5
+8917,Moeen Ali,28 Jun 2009,v Northants,Northampton,1,4,28,50,41,2,0,68.29,caught,2,2.0,0,11,0,5.5
+8917,Moeen Ali,4 Jun 2010,v Yorkshire,Worcester,1,3,28,24,20,4,0,140,bowled,2,3.0,0,29,0,9.66
+8917,Moeen Ali,6 Jun 2010,v Durham,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+8917,Moeen Ali,10 Jun 2010,v Notts,Worcester,1,3,15,24,18,2,0,83.33,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,11 Jun 2010,v Northants,Northampton,2,3,19,18,21,4,0,90.47,run out,1,4.0,0,20,1,5
+8917,Moeen Ali,13 Jun 2010,v Notts,Nottingham,1,3,67,49,48,4,4,139.58,caught,2,2.1,0,23,0,10.61
+8917,Moeen Ali,18 Jun 2010,v Warwickshire,Worcester,1,3,0,1,1,0,0,0,caught,2,2.0,0,15,0,7.5
+8917,Moeen Ali,21 Jun 2010,v Derbyshire,Derby,1,3,67,66,52,6,0,128.84,lbw,2,4.0,0,14,2,3.5
+8917,Moeen Ali,22 Jun 2010,v Yorkshire,Leeds,2,3,1,2,3,0,0,33.33,caught,1,2.0,0,32,0,16
+8917,Moeen Ali,25 Jun 2010,v Northants,Worcester,2,3,0*,1,0,0,0,-,not out,1,4.0,0,25,3,6.25
+8917,Moeen Ali,27 Jun 2010,v Derbyshire,Worcester,2,3,45,27,24,5,2,187.5,caught,1,3.0,0,21,1,7
+8917,Moeen Ali,5 Jul 2010,v Lancashire,Manchester,2,3,28,46,34,1,0,82.35,bowled,1,1.0,0,11,0,11
+8917,Moeen Ali,7 Jul 2010,v Leics,Leicester,2,3,15,20,14,1,1,107.14,caught,1,4.0,0,19,3,4.75
+8917,Moeen Ali,9 Jul 2010,v Durham,Worcester,2,3,0,1,2,0,0,0,caught,1,4.0,0,31,0,7.75
+8917,Moeen Ali,11 Jul 2010,v Leics,Worcester,2,3,5,7,6,1,0,83.33,caught,1,2.0,0,14,1,7
+8917,Moeen Ali,16 Jul 2010,v Warwickshire,Birmingham,2,3,23,13,16,3,1,143.75,caught,1,3.0,0,18,2,6
+8917,Moeen Ali,18 Jul 2010,v Lancashire,Worcester,2,3,72,46,39,8,4,184.61,caught,1,1.0,0,13,0,13
+8917,Moeen Ali,3 Jun 2011,v Lancashire,Manchester,2,1,24,11,11,6,0,218.18,lbw,1,4.0,0,24,2,6
+8917,Moeen Ali,9 Jun 2011,v Yorkshire,Leeds,2,1,1,10,9,0,0,11.11,caught,1,3.0,0,19,1,6.33
+8917,Moeen Ali,10 Jun 2011,v Northants,Worcester,2,1,53,50,48,6,0,110.41,stumped,1,4.0,0,24,1,6
+8917,Moeen Ali,15 Jun 2011,v Derbyshire,Derby,1,1,4,16,17,0,0,23.52,bowled,2,4.0,0,14,2,3.5
+8917,Moeen Ali,17 Jun 2011,v Warwickshire,Birmingham,2,1,6,14,9,1,0,66.66,caught,1,4.0,0,33,1,8.25
+8917,Moeen Ali,25 Jun 2011,v Leics,Leicester,2,1,32,56,34,2,0,94.11,caught,1,3.0,0,22,0,7.33
+8917,Moeen Ali,26 Jun 2011,v Yorkshire,Worcester,1,1,40,24,20,6,1,200,caught,2,4.0,0,28,0,7
+8917,Moeen Ali,29 Jun 2011,v Northants,Milton Keynes,2,1,7,6,6,1,0,116.66,caught,1,2.0,0,23,0,11.5
+8917,Moeen Ali,1 Jul 2011,v Leics,Worcester,1,1,8,13,5,1,0,160,caught,2,2.0,0,18,0,9
+8917,Moeen Ali,3 Jul 2011,v Durham,Chester-le-Street,2,1,29,34,22,4,0,131.81,stumped,1,1.0,0,14,0,14
+8917,Moeen Ali,5 Jul 2011,v Notts,Worcester,2,1,51,36,36,10,0,141.66,run out,1,3.0,0,29,2,9.66
+8917,Moeen Ali,8 Jul 2011,v Warwickshire,Worcester,1,1,1,5,4,0,0,25,stumped,2,1.0,0,4,0,4
+8917,Moeen Ali,15 Jul 2011,v Notts,Nottingham,2,1,41,42,30,4,1,136.66,caught,1,1.0,0,9,0,9
+8917,Moeen Ali,17 Jun 2012,v Gloucs,Worcester,1,1,82,50,44,8,4,186.36,bowled,2,3.0,0,42,0,14
+8917,Moeen Ali,22 Jun 2012,v Warwickshire,Worcester,1,1,13,18,18,2,0,72.22,run out,2,3.3,0,27,0,7.71
+8917,Moeen Ali,23 Jun 2012,v Northants,Northampton,1,1,14,29,20,2,0,70,caught,2,4.0,0,14,0,3.5
+8917,Moeen Ali,29 Jun 2012,v Glamorgan,Worcester,1,1,1,6,3,0,0,33.33,caught,2,4.0,0,27,2,6.75
+8917,Moeen Ali,1 Jul 2012,v Somerset,Taunton,1,1,47,32,23,6,2,204.34,stumped,2,2.1,0,14,2,6.46
+8917,Moeen Ali,5 Jul 2012,v Gloucs,Bristol,1,1,4,2,4,1,0,100,bowled,2,4.0,0,35,0,8.75
+8917,Moeen Ali,8 Jul 2012,v Somerset,Worcester,1,1,17,19,15,1,1,113.33,caught,2,4.0,0,13,1,3.25
+8917,Moeen Ali,25 Jul 2012,v Yorkshire,Leeds,2,1,17,9,10,4,0,170,caught,1,4.0,0,29,0,7.25
+8917,Moeen Ali,9 Dec 2012,v Mountaineers,Mutare,2,2,1,8,2,0,0,50,caught,1,3.0,0,20,2,6.66
+8917,Moeen Ali,19 Jan 2013,v Chittagong,Mirpur,1,3,0,11,6,0,0,0,caught,2,1.0,0,11,0,11
+8917,Moeen Ali,20 Jan 2013,v Royals,Mirpur,1,3,24,40,35,2,0,68.57,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,22 Jan 2013,v Dhaka,Khulna,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+8917,Moeen Ali,24 Jan 2013,v Khulna,Khulna,2,7,22,12,10,0,3,220,caught,1,2.0,0,32,0,16
+8917,Moeen Ali,28 Jan 2013,v Barisal,Chattogram,1,6,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,28 Jun 2013,v Glamorgan,Worcester,2,1,9,14,7,1,0,128.57,caught,1,1.0,0,16,0,16
+8917,Moeen Ali,30 Jun 2013,v Gloucs,Bristol,2,1,1,2,3,0,0,33.33,caught,1,1.0,0,10,0,10
+8917,Moeen Ali,7 Jul 2013,v Gloucs,Worcester,2,1,22,19,15,4,0,146.66,caught,1,4.0,0,14,2,3.5
+8917,Moeen Ali,12 Jul 2013,v Warwickshire,Worcester,1,2,85,48,42,9,4,202.38,caught,2,1.0,0,12,0,12
+8917,Moeen Ali,14 Jul 2013,v Somerset,Taunton,1,2,27,22,16,5,0,168.75,caught,2,4.0,0,29,0,7.25
+8917,Moeen Ali,21 Jul 2013,v Northants,Worcester,2,2,11,12,9,1,1,122.22,caught,1,4.0,0,17,1,4.25
+8917,Moeen Ali,23 Jul 2013,v Glamorgan,Cardiff,1,2,2,12,10,0,0,20,caught,2,4.0,0,27,1,6.75
+8917,Moeen Ali,26 Jul 2013,v Warwickshire,Birmingham,1,2,37,26,23,3,2,160.86,caught,2,3.3,0,28,0,8
+8917,Moeen Ali,27 Jul 2013,v Somerset,Worcester,2,2,7,3,6,1,0,116.66,bowled,1,2.0,0,14,0,7
+8917,Moeen Ali,30 Jul 2013,v Northants,Northampton,1,1,72,53,45,6,4,160,caught,2,4.0,0,34,5,8.5
+8917,Moeen Ali,11 Mar 2014,v West Indies,Bridgetown,1,3,5,5,7,1,0,71.42,lbw,2,DNB,-,-,-,-
+8917,Moeen Ali,13 Mar 2014,v West Indies,Bridgetown,1,7,3,6,5,0,0,60,run out,2,DNB,-,-,-,-
+8917,Moeen Ali,22 Mar 2014,v New Zealand,Chattogram,1,3,36,35,23,6,1,156.52,caught,2,1.0,0,7,0,7
+8917,Moeen Ali,27 Mar 2014,v Sri Lanka,Chattogram,2,3,0,1,1,0,0,0,caught,1,1.0,0,4,0,4
+8917,Moeen Ali,29 Mar 2014,v South Africa,Chattogram,2,3,10,13,10,1,0,100,caught,1,2.0,0,17,0,8.5
+8917,Moeen Ali,31 Mar 2014,v Netherlands,Chattogram,2,3,3,25,7,0,0,42.85,caught,1,1.0,0,13,0,13
+8917,Moeen Ali,16 May 2014,v Durham,Chester-le-Street,2,1,21,15,18,3,0,116.66,caught,1,4.0,0,32,1,8
+8917,Moeen Ali,17 May 2014,v Lancashire,Manchester,2,1,11,2,4,1,1,275,caught,1,4.0,0,25,0,6.25
+8917,Moeen Ali,23 May 2014,v Notts,Nottingham,1,1,28,24,20,5,0,140,caught,2,4.0,0,32,1,8
+8917,Moeen Ali,30 May 2014,v Northants,Worcester,2,1,41,31,25,2,3,164,caught,1,4.0,0,23,2,5.75
+8917,Moeen Ali,7 Sep 2014,v India,Birmingham,1,3,0,2,2,0,0,0,caught,2,3.0,0,31,1,10.33
+8917,Moeen Ali,5 Jun 2015,v Northants,Northampton,1,1,90,54,50,11,5,180,caught,2,2.0,0,23,0,11.5
+8917,Moeen Ali,7 Jun 2015,v Notts,Worcester,2,1,36,29,24,7,0,150,lbw,1,4.0,0,30,1,7.5
+8917,Moeen Ali,12 Jun 2015,v Durham,Chester-le-Street,1,1,26,19,20,3,1,130,caught,2,4.0,0,30,0,7.5
+8917,Moeen Ali,18 Jun 2015,v Lancashire,Manchester,2,1,21,12,12,5,0,175,caught,1,4.0,0,22,1,5.5
+8917,Moeen Ali,19 Jun 2015,v Derbyshire,Worcester,2,1,65,27,28,8,4,232.14,caught,1,4.0,0,28,3,7
+8917,Moeen Ali,26 Jun 2015,v Northants,Worcester,2,1,0,1,1,0,0,0,caught,1,2.0,0,16,0,8
+8917,Moeen Ali,14 Aug 2015,v Hampshire,Worcester,2,1,10,9,9,2,0,111.11,caught,1,4.0,0,33,0,8.25
+8917,Moeen Ali,31 Aug 2015,v Australia,Cardiff,1,3,72*,70,46,6,3,156.52,not out,2,1.0,0,3,1,3
+8917,Moeen Ali,26 Nov 2015,v Pakistan,Dubai (DICS),1,4,0,6,6,0,0,0,caught,2,4.0,0,30,1,7.5
+8917,Moeen Ali,30 Nov 2015,v Pakistan,Sharjah,1,4,0,1,1,0,0,0,caught,2,4.0,0,22,1,5.5
+8917,Moeen Ali,19 Feb 2016,v South Africa,Cape Town,1,7,0,1,1,0,0,0,caught,2,3.0,0,22,2,7.33
+8917,Moeen Ali,21 Feb 2016,v South Africa,Johannesburg,1,8,1,3,3,0,0,33.33,caught,2,3.0,0,25,0,8.33
+8917,Moeen Ali,16 Mar 2016,v West Indies,Wankhede,1,7,7,2,2,0,1,350,run out,2,4.0,0,38,1,9.5
+8917,Moeen Ali,18 Mar 2016,v South Africa,Wankhede,2,7,8*,26,10,1,0,80,not out,1,4.0,0,34,2,8.5
+8917,Moeen Ali,23 Mar 2016,v Afghanistan,Delhi,1,7,41*,50,33,4,1,124.24,not out,2,2.0,0,17,1,8.5
+8917,Moeen Ali,26 Mar 2016,v Sri Lanka,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,0,16
+8917,Moeen Ali,30 Mar 2016,v New Zealand,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+8917,Moeen Ali,3 Apr 2016,v West Indies,Eden Gardens,1,7,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,3 Jun 2016,v Northants,Northampton,1,1,9,16,12,1,0,75,caught,2,4.0,0,16,1,4
+8917,Moeen Ali,18 Jun 2016,v Notts,Worcester,1,2,40,33,27,4,1,148.14,caught,2,4.0,0,44,2,11
+8917,Moeen Ali,7 Sep 2016,v Pakistan,Manchester,1,7,13*,26,15,0,0,86.66,not out,2,3.0,0,24,0,8
+8917,Moeen Ali,26 Jan 2017,v India,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+8917,Moeen Ali,29 Jan 2017,v India,Nagpur,2,7,1*,6,2,0,0,50,not out,1,4.0,0,20,1,5
+8917,Moeen Ali,1 Feb 2017,v India,Bengaluru,2,7,2,3,3,0,0,66.66,caught,1,4.0,0,30,0,7.5
+8917,Moeen Ali,7 May 2018,v SRH,Hyderabad,2,5,10,-,7,2,0,142.85,caught,1,3.0,0,19,0,6.33
+8917,Moeen Ali,12 May 2018,v Daredevils,Delhi,2,2,1,-,3,0,0,33.33,caught,1,4.0,0,25,1,6.25
+8917,Moeen Ali,14 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,2.1,0,13,1,6
+8917,Moeen Ali,17 May 2018,v SRH,Bengaluru,1,4,65,-,34,2,6,191.17,caught,2,2.0,0,21,1,10.5
+8917,Moeen Ali,19 May 2018,v RR,Jaipur,2,4,1,-,2,0,0,50,caught,1,2.0,0,19,0,9.5
+8917,Moeen Ali,27 Jun 2018,v Australia,Birmingham,1,7,0*,-,0,0,0,-,not out,2,4.0,0,58,1,14.5
+8917,Moeen Ali,3 Jul 2018,v India,Manchester,1,7,6,-,8,1,0,75,caught,2,2.2,0,37,0,15.85
+8917,Moeen Ali,20 Jul 2018,v Durham,Chester-le-Street,1,1,4,3,3,1,0,133.33,caught,2,3.0,0,33,1,11
+8917,Moeen Ali,27 Jul 2018,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+8917,Moeen Ali,3 Aug 2018,v Durham,Worcester,2,2,42,32,25,4,3,168,caught,1,2.0,0,20,1,10
+8917,Moeen Ali,4 Aug 2018,v Notts,Nottingham,1,2,65,53,36,5,4,180.55,caught,2,4.0,0,25,2,6.25
+8917,Moeen Ali,12 Aug 2018,v Notts,Worcester,1,2,25,33,19,2,2,131.57,caught,2,4.0,0,42,0,10.5
+8917,Moeen Ali,17 Aug 2018,v Bears,Birmingham,1,2,115,65,56,12,7,205.35,stumped,2,4.0,0,35,0,8.75
+8917,Moeen Ali,25 Aug 2018,v Gloucs,Worcester,2,2,1,5,3,0,0,33.33,lbw,1,2.0,0,19,0,9.5
+8917,Moeen Ali,15 Sep 2018,v Lancashire,Birmingham,1,2,41,30,21,7,1,195.23,caught,2,4.0,0,16,2,4
+8917,Moeen Ali,15 Sep 2018,v Sussex,Birmingham,2,2,41,42,27,6,1,151.85,caught,1,4.0,0,30,3,7.5
+8917,Moeen Ali,27 Oct 2018,v Sri Lanka,Colombo (RPS),1,6,27,-,11,1,3,245.45,bowled,2,2.0,0,24,0,12
+8917,Moeen Ali,23 Mar 2019,v CSK,Chennai,1,3,9,-,8,0,1,112.5,caught,2,4.0,0,19,1,4.75
+8917,Moeen Ali,28 Mar 2019,v MI,Bengaluru,2,2,13,-,7,1,1,185.71,run out,1,1.0,0,13,0,13
+8917,Moeen Ali,31 Mar 2019,v SRH,Hyderabad,2,5,2,12,8,0,0,25,run out,1,3.0,0,29,0,9.66
+8917,Moeen Ali,2 Apr 2019,v RR,Jaipur,1,6,18*,15,9,2,1,200,not out,2,1.0,0,14,0,14
+8917,Moeen Ali,5 Apr 2019,v KKR,Bengaluru,1,5,0*,7,2,0,0,0,not out,2,DNB,-,-,-,-
+8917,Moeen Ali,7 Apr 2019,v DC,Bengaluru,1,5,32,18,18,1,3,177.77,stumped,2,4.0,0,22,1,5.5
+8917,Moeen Ali,13 Apr 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+8917,Moeen Ali,15 Apr 2019,v MI,Wankhede,1,4,50,48,32,1,5,156.25,caught,2,4.0,0,18,2,4.5
+8917,Moeen Ali,19 Apr 2019,v KKR,Eden Gardens,1,4,66,34,28,5,6,235.71,caught,2,1.0,0,13,0,13
+8917,Moeen Ali,21 Apr 2019,v CSK,Bengaluru,1,6,26,23,16,5,0,162.5,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,24 Apr 2019,v Kings XI,Bengaluru,1,4,4,5,5,1,0,80,bowled,2,3.0,0,22,1,7.33
+8917,Moeen Ali,18 Jul 2019,v Notts,Nottingham,1,4,32,27,25,3,1,128,caught,2,4.0,0,18,4,4.5
+8917,Moeen Ali,23 Aug 2019,v Bears,Birmingham,2,3,85*,58,46,7,6,184.78,not out,1,3.0,0,30,1,10
+8917,Moeen Ali,25 Aug 2019,v Lancashire,Worcester,2,3,23,27,16,0,3,143.75,bowled,1,4.0,0,41,1,10.25
+8917,Moeen Ali,30 Aug 2019,v Northants,Northampton,1,3,51,34,31,4,4,164.51,caught,2,3.0,0,28,1,9.33
+8917,Moeen Ali,6 Sep 2019,v Sussex,Hove,2,3,121*,71,60,8,11,201.66,not out,1,4.0,0,22,1,5.5
+8917,Moeen Ali,21 Sep 2019,v Notts,Birmingham,1,3,21,14,9,0,3,233.33,bowled,2,4.0,0,13,1,3.25
+8917,Moeen Ali,21 Sep 2019,v Essex,Birmingham,1,3,32,31,26,3,2,123.07,caught,2,4.0,0,22,2,5.5
+8917,Moeen Ali,8 Nov 2019,v Jozi Stars,Johannesburg,1,3,25,21,17,3,1,147.05,caught,2,2.0,0,21,1,10.5
+8917,Moeen Ali,10 Nov 2019,v Paarl Rocks,Paarl,2,3,13,19,13,2,0,100,caught,1,1.0,0,9,0,9
+8917,Moeen Ali,12 Feb 2020,v South Africa,East London,2,7,5,15,5,0,0,100,bowled,1,4.0,0,22,1,5.5
+8917,Moeen Ali,14 Feb 2020,v South Africa,Durban,1,7,39,15,11,3,4,354.54,caught,2,3.0,0,36,0,12
+8917,Moeen Ali,16 Feb 2020,v South Africa,Centurion,2,7,5*,7,2,1,0,250,not out,1,1.0,0,11,0,11
+8917,Moeen Ali,21 Feb 2020,v Qalandars,Lahore,2,3,11,-,8,2,0,137.5,run out,1,2.0,0,13,2,6.5
+8917,Moeen Ali,22 Feb 2020,v United,Lahore,1,3,10,-,11,1,0,90.9,caught,2,1.0,0,19,0,19
+8917,Moeen Ali,26 Feb 2020,v Zalmi,Multan,2,2,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,28 Feb 2020,v Kings,Multan,1,1,65,-,42,4,4,154.76,caught,2,2.0,0,25,1,12.5
+8917,Moeen Ali,29 Feb 2020,v Gladiators,Multan,1,4,6,-,7,1,0,85.71,bowled,2,DNB,-,-,-,-
+8917,Moeen Ali,6 Mar 2020,v Kings,Lahore,1,1,29,-,22,2,1,131.81,caught,-,TDNB,-,-,-,-
+8917,Moeen Ali,8 Mar 2020,v United,Rawalpindi,2,3,14*,-,5,3,0,280,not out,1,1.0,0,9,1,9
+8917,Moeen Ali,13 Mar 2020,v Zalmi,Karachi,1,4,0,-,2,0,0,0,bowled,2,4.0,0,27,1,6.75
+8917,Moeen Ali,15 Mar 2020,v Qalandars,Lahore,1,1,1,-,5,0,0,20,bowled,2,1.0,0,17,0,17
+8917,Moeen Ali,28 Aug 2020,v Pakistan,Manchester,1,5,8,-,7,1,0,114.28,caught,-,TDNB,-,-,-,-
+8917,Moeen Ali,30 Aug 2020,v Pakistan,Manchester,2,5,1,5,2,0,0,50,caught,1,1.0,0,10,0,10
+8917,Moeen Ali,1 Sep 2020,v Pakistan,Manchester,2,5,61,60,33,4,4,184.84,caught,1,1.0,0,10,1,10
+8917,Moeen Ali,4 Sep 2020,v Australia,Southampton,1,6,2,8,6,0,0,33.33,caught,2,1.0,0,9,0,9
+8917,Moeen Ali,6 Sep 2020,v Australia,Southampton,2,6,13*,-,6,1,1,216.66,not out,1,1.0,0,8,0,8
+8917,Moeen Ali,8 Sep 2020,v Australia,Southampton,1,5,23,27,21,2,1,109.52,caught,2,1.0,0,5,0,5
+8917,Moeen Ali,5 Oct 2020,v DC,Dubai (DICS),2,5,11,-,13,1,0,84.61,caught,1,2.0,0,21,1,10.5
+8917,Moeen Ali,25 Oct 2020,v CSK,Dubai (DICS),1,5,1,-,2,0,0,50,caught,2,2.0,0,17,0,8.5
+8917,Moeen Ali,6 Nov 2020,v SRH,Abu Dhabi,1,5,0,-,1,0,0,0,run out,2,1.0,0,4,0,4
+8917,Moeen Ali,10 Apr 2021,v DC,Wankhede,1,3,36,31,24,4,2,150,caught,2,3.0,0,33,0,11
+8917,Moeen Ali,16 Apr 2021,v Punjab Kings,Wankhede,2,3,46,36,31,7,1,148.38,caught,1,3.0,0,17,1,5.66
+8917,Moeen Ali,19 Apr 2021,v RR,Wankhede,1,3,26,32,20,1,2,130,caught,2,3.0,0,7,3,2.33
+8917,Moeen Ali,21 Apr 2021,v KKR,Wankhede,1,3,25,25,12,2,2,208.33,stumped,2,DNB,-,-,-,-
+8917,Moeen Ali,28 Apr 2021,v SRH,Delhi,2,3,15,9,8,3,0,187.5,caught,1,2.0,0,16,0,8
+8917,Moeen Ali,1 May 2021,v MI,Delhi,1,3,58,53,36,5,5,161.11,caught,2,1.0,0,1,1,1
+8917,Moeen Ali,9 Jun 2021,v Notts,Worcester,1,3,6,2,5,1,0,120,bowled,2,4.0,0,15,2,3.75
+8917,Moeen Ali,11 Jun 2021,v Northants,Northampton,1,3,52,39,30,3,4,173.33,caught,2,4.0,0,21,2,5.25
+8917,Moeen Ali,13 Jun 2021,v Lancashire,Worcester,2,3,9,7,9,1,0,100,caught,1,3.0,0,24,0,8
+8917,Moeen Ali,16 Jun 2021,v Yorkshire,Worcester,2,3,39,32,29,5,2,134.48,caught,1,2.0,0,24,0,12
+8917,Moeen Ali,26 Jun 2021,v Sri Lanka,Southampton,1,6,7,10,7,1,0,100,caught,2,0.5,0,3,1,3.6
+8917,Moeen Ali,16 Jul 2021,v Pakistan,Nottingham,2,4,1,8,4,0,0,25,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,18 Jul 2021,v Pakistan,Leeds,1,4,36,27,16,6,1,225,caught,2,3.0,0,32,2,10.66
+8917,Moeen Ali,20 Jul 2021,v Pakistan,Manchester,2,5,1,8,3,0,0,33.33,bowled,1,4.0,0,19,1,4.75
+8917,Moeen Ali,23 Jul 2021,v Spirit,Birmingham,2,4,40,39,30,3,1,133.33,caught,1,2.0,0,11,0,6.6
+8917,Moeen Ali,25 Jul 2021,v Originals,Manchester,1,5,15,18,18,1,0,83.33,caught,2,4.0,1,15,1,4.5
+8917,Moeen Ali,30 Jul 2021,v Brave,Southampton,1,4,0,2,3,0,0,0,bowled,2,4.0,0,39,1,11.7
+8917,Moeen Ali,1 Aug 2021,v Rockets,Birmingham,2,3,26,20,17,2,2,152.94,caught,1,4.0,0,29,1,8.7
+8917,Moeen Ali,4 Aug 2021,v Invincibles,Birmingham,2,4,49,34,26,3,4,188.46,caught,1,1.0,0,11,0,13.2
+8917,Moeen Ali,9 Aug 2021,v Fire,Birmingham,1,3,59,34,28,3,5,210.71,caught,2,2.0,0,21,1,12.6
+8917,Moeen Ali,21 Aug 2021,v Brave,Lord's,2,3,36,50,30,1,3,120,caught,1,1.0,0,5,0,6
+8917,Moeen Ali,19 Sep 2021,v MI,Dubai (DICS),1,3,0,5,3,0,0,0,caught,2,3.0,0,16,0,5.33
+8917,Moeen Ali,24 Sep 2021,v RCB,Sharjah,2,3,23,26,18,0,2,127.77,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,26 Sep 2021,v KKR,Abu Dhabi,2,3,32,45,28,2,1,114.28,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,30 Sep 2021,v SRH,Sharjah,2,3,17,22,17,2,0,100,bowled,1,1.0,0,5,0,5
+8917,Moeen Ali,2 Oct 2021,v RR,Abu Dhabi,1,4,21,31,17,1,1,123.52,stumped,2,2.2,0,23,0,9.85
+8917,Moeen Ali,4 Oct 2021,v DC,Dubai (DICS),1,4,5,13,8,0,0,62.5,caught,2,3.0,0,16,0,5.33
+8917,Moeen Ali,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,3,0,13,6,0,0,0,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,10 Oct 2021,v DC,Dubai (DICS),2,6,16,27,12,2,0,133.33,caught,1,4.0,0,27,1,6.75
+8917,Moeen Ali,15 Oct 2021,v KKR,Dubai (DICS),1,4,37*,36,20,2,3,185,not out,2,DNB,-,-,-,-
+8917,Moeen Ali,23 Oct 2021,v West Indies,Dubai (DICS),2,4,3,7,4,0,0,75,run out,1,4.0,1,17,2,4.25
+8917,Moeen Ali,27 Oct 2021,v Bangladesh,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,2,6
+8917,Moeen Ali,30 Oct 2021,v Australia,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,1 Nov 2021,v Sri Lanka,Sharjah,1,6,1*,8,2,0,0,50,not out,2,3.0,0,15,2,5
+8917,Moeen Ali,6 Nov 2021,v South Africa,Sharjah,2,3,37,43,27,3,2,137.03,caught,1,4.0,0,27,1,6.75
+8917,Moeen Ali,10 Nov 2021,v New Zealand,Abu Dhabi,1,4,51*,59,37,3,2,137.83,not out,2,DNB,-,-,-,-
+8917,Moeen Ali,22 Jan 2022,v West Indies,Bridgetown,1,4,0,2,1,0,0,0,caught,2,1.0,0,7,0,7
+8917,Moeen Ali,23 Jan 2022,v West Indies,Bridgetown,1,4,31,40,24,3,1,129.16,caught,2,4.0,0,24,3,6
+8917,Moeen Ali,26 Jan 2022,v West Indies,Bridgetown,2,4,0,6,2,0,0,0,caught,1,1.0,0,14,0,14
+8917,Moeen Ali,29 Jan 2022,v West Indies,Bridgetown,1,4,63,41,28,1,7,225,caught,2,4.0,0,28,2,7
+8917,Moeen Ali,30 Jan 2022,v West Indies,Bridgetown,2,4,14,35,19,0,0,73.68,caught,1,3.0,0,20,0,6.66
+8917,Moeen Ali,3 Feb 2022,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+8917,Moeen Ali,7 Feb 2022,v Barishal,Sylhet,2,5,6,17,11,0,0,54.54,caught,1,3.0,0,21,1,7
+8917,Moeen Ali,9 Feb 2022,v Sunrisers,Sylhet,2,4,46,56,35,4,2,131.42,caught,1,3.0,0,27,0,9
+8917,Moeen Ali,11 Feb 2022,v Khulna,Mirpur,1,5,75,47,35,1,9,214.28,caught,2,4.0,0,20,2,5
+8917,Moeen Ali,12 Feb 2022,v Khulna,Mirpur,1,5,8,21,9,0,0,88.88,bowled,2,1.4,0,13,1,7.8
+8917,Moeen Ali,14 Feb 2022,v Barishal,Mirpur,2,5,22,13,15,0,3,146.66,bowled,1,4.0,0,23,2,5.75
+8917,Moeen Ali,16 Feb 2022,v Chattogram,Mirpur,2,5,30*,21,13,3,2,230.76,not out,1,3.0,1,20,3,6.66
+8917,Moeen Ali,18 Feb 2022,v Barishal,Mirpur,1,6,38,66,32,2,1,118.75,run out,2,3.0,0,28,0,9.33
+8917,Moeen Ali,31 Mar 2022,v LSG,Brabourne,1,3,35,38,22,4,2,159.09,bowled,2,1.0,0,14,0,14
+8917,Moeen Ali,3 Apr 2022,v Punjab Kings,Brabourne,2,3,0,14,2,0,0,0,bowled,1,1.0,0,8,0,8
+8917,Moeen Ali,9 Apr 2022,v SRH,DY Patil,1,3,48,59,35,3,2,137.14,caught,2,1.0,0,10,0,10
+8917,Moeen Ali,12 Apr 2022,v RCB,DY Patil,1,3,3,16,8,0,0,37.5,run out,2,3.0,0,19,0,6.33
+8917,Moeen Ali,17 Apr 2022,v GT,Pune,1,3,1,16,3,0,0,33.33,bowled,2,2.0,0,17,0,8.5
+8917,Moeen Ali,4 May 2022,v RCB,Pune,2,5,34,34,27,2,2,125.92,caught,1,4.0,0,28,2,7
+8917,Moeen Ali,8 May 2022,v DC,DY Patil,1,6,9,8,4,2,0,225,caught,2,4.0,0,13,3,3.25
+8917,Moeen Ali,12 May 2022,v MI,Wankhede,1,3,0,3,2,0,0,0,caught,2,1.5,0,17,1,9.27
+8917,Moeen Ali,15 May 2022,v GT,Wankhede,1,3,21,36,17,0,2,123.52,caught,2,2.0,0,11,1,5.5
+8917,Moeen Ali,20 May 2022,v RR,Brabourne,1,3,93,95,57,13,3,163.15,caught,2,4.0,0,21,1,5.25
+8917,Moeen Ali,3 Jun 2022,v Bears,Worcester,1,3,16,15,15,0,1,106.66,caught,2,1.0,0,22,0,22
+8917,Moeen Ali,5 Jun 2022,v Leics,Worcester,2,3,17,25,14,2,1,121.42,lbw,1,4.0,0,19,1,4.75
+8917,Moeen Ali,9 Jun 2022,v Northants,Northampton,2,3,11,7,11,2,0,100,bowled,1,2.0,0,27,0,13.5
+8917,Moeen Ali,10 Jun 2022,v Derbyshire,Worcester,2,3,0,3,1,0,0,0,lbw,1,4.0,0,24,2,6
+8917,Moeen Ali,24 Jun 2022,v Bears,Birmingham,2,4,4,11,8,0,0,50,caught,1,3.0,0,39,1,13
+8917,Moeen Ali,1 Jul 2022,v Lancashire,Worcester,1,4,31,21,17,3,2,182.35,caught,2,2.0,0,6,2,3
+8917,Moeen Ali,3 Jul 2022,v Notts,Worcester,1,4,28,23,19,3,1,147.36,caught,2,4.0,0,21,0,5.25
+8917,Moeen Ali,7 Jul 2022,v India,Southampton,2,6,36,31,20,4,2,180,stumped,1,2.0,0,26,2,13
+8917,Moeen Ali,9 Jul 2022,v India,Birmingham,2,6,35,35,21,3,2,166.66,caught,1,2.0,0,23,0,11.5
+8917,Moeen Ali,10 Jul 2022,v India,Nottingham,1,6,0,3,1,0,0,0,caught,2,2.0,0,31,1,15.5
+8917,Moeen Ali,27 Jul 2022,v South Africa,Bristol,1,5,52,33,18,2,6,288.88,caught,2,2.0,0,27,1,13.5
+8917,Moeen Ali,28 Jul 2022,v South Africa,Cardiff,2,4,28,21,17,3,0,164.7,caught,1,2.0,0,17,1,8.5
+8917,Moeen Ali,31 Jul 2022,v South Africa,Southampton,2,5,3,7,5,0,0,60,caught,1,1.0,0,4,1,4
+8917,Moeen Ali,6 Aug 2022,v Rockets,Nottingham,1,3,35,-,21,1,3,166.66,caught,2,3.0,0,22,1,8.8
+8917,Moeen Ali,10 Aug 2022,v Brave,Birmingham,1,3,17,-,12,2,1,141.66,bowled,2,2.0,0,27,0,16.2
+8917,Moeen Ali,13 Aug 2022,v Fire,Cardiff,1,3,10,-,7,2,0,142.85,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,15 Aug 2022,v Rockets,Birmingham,2,3,52,-,28,3,5,185.71,bowled,1,1.0,0,3,1,3.6
+8917,Moeen Ali,19 Aug 2022,v N S-Chargers,Birmingham,2,4,1,6,5,0,0,20,caught,1,3.0,0,13,2,5.2
+8917,Moeen Ali,23 Aug 2022,v Invincibles,The Oval,1,3,42,39,25,0,4,168,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,28 Aug 2022,v Originals,Birmingham,2,3,4,-,2,1,0,200,bowled,1,1.0,0,11,0,13.2
+8917,Moeen Ali,30 Aug 2022,v Spirit,Lord's,2,4,11,14,9,2,0,122.22,caught,1,3.0,0,31,1,12.4
+8917,Moeen Ali,20 Sep 2022,v Pakistan,Karachi,2,6,7*,12,9,1,0,77.77,not out,1,2.0,0,23,1,11.5
+8917,Moeen Ali,22 Sep 2022,v Pakistan,Karachi,1,6,55*,37,23,4,4,239.13,not out,2,1.0,0,21,0,21
+8917,Moeen Ali,23 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+8917,Moeen Ali,25 Sep 2022,v Pakistan,Karachi,2,6,29,29,20,3,1,145,bowled,1,DNB,-,-,-,-
+8917,Moeen Ali,28 Sep 2022,v Pakistan,Lahore,2,6,51*,62,37,2,4,137.83,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,30 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,2 Oct 2022,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,0,5
+8917,Moeen Ali,9 Oct 2022,v Australia,Perth,1,5,10,19,7,0,1,142.85,caught,2,1.0,0,11,0,11
+8917,Moeen Ali,12 Oct 2022,v Australia,Canberra,1,6,44,46,27,4,2,162.96,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,14 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+8917,Moeen Ali,22 Oct 2022,v Afghanistan,Perth,2,7,8*,13,10,0,0,80,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,26 Oct 2022,v Ireland,Melbourne,2,6,24*,18,12,3,1,200,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,1 Nov 2022,v New Zealand,Brisbane,1,3,5,13,6,0,0,83.33,caught,2,1.0,0,4,0,4
+8917,Moeen Ali,5 Nov 2022,v Sri Lanka,Sydney,2,6,1,8,5,0,0,20,caught,1,1.0,0,5,0,5
+8917,Moeen Ali,10 Nov 2022,v India,Adelaide,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,13 Nov 2022,v Pakistan,Melbourne,2,6,19,30,13,3,0,146.15,bowled,1,DNB,-,-,-,-
+8917,Moeen Ali,12 Feb 2023,v Strikers,Mirpur,2,6,21,17,13,1,2,161.53,caught,1,2.0,0,20,1,10
+8917,Moeen Ali,16 Feb 2023,v Strikers,Mirpur,2,5,25*,35,17,2,1,147.05,not out,1,4.0,0,31,1,7.75
+8917,Moeen Ali,9 Mar 2023,v Bangladesh,Chattogram,1,5,8*,23,7,0,0,114.28,not out,2,4.0,0,27,1,6.75
+8917,Moeen Ali,12 Mar 2023,v Bangladesh,Mirpur,1,3,15,32,17,1,1,88.23,caught,2,4.0,0,25,1,6.25
+8917,Moeen Ali,14 Mar 2023,v Bangladesh,Mirpur,2,5,9,12,10,0,1,90,caught,1,1.0,0,12,0,12
+8917,Moeen Ali,31 Mar 2023,v GT,Ahmedabad,1,3,23,-,17,4,1,135.29,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,3 Apr 2023,v LSG,Chennai,1,4,19,25,13,3,0,146.15,stumped,2,4.0,0,26,4,6.5
+8917,Moeen Ali,12 Apr 2023,v RR,Chennai,2,5,7,12,10,0,0,70,caught,1,2.0,0,21,1,10.5
+8917,Moeen Ali,17 Apr 2023,v RCB,Bengaluru,1,6,19*,24,9,0,2,211.11,not out,2,1.0,0,13,1,13
+8917,Moeen Ali,21 Apr 2023,v SRH,Chennai,2,5,6*,9,6,1,0,100,not out,1,2.0,0,18,0,9
+8917,Moeen Ali,23 Apr 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.0,0,20,1,20
+8917,Moeen Ali,27 Apr 2023,v RR,Jaipur,2,6,23,21,12,2,2,191.66,caught,1,2.0,0,17,0,8.5
+8917,Moeen Ali,30 Apr 2023,v Punjab Kings,Chennai,1,4,10,12,6,2,0,166.66,stumped,2,1.0,0,10,0,10
+8917,Moeen Ali,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+8917,Moeen Ali,6 May 2023,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+8917,Moeen Ali,10 May 2023,v DC,Chennai,1,4,7,13,12,0,0,58.33,caught,2,4.0,0,16,0,4
+8917,Moeen Ali,14 May 2023,v KKR,Chennai,1,6,1,5,2,0,0,50,bowled,2,4.0,0,31,0,7.75
+8917,Moeen Ali,20 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+8917,Moeen Ali,23 May 2023,v GT,Chennai,1,8,9*,7,4,0,1,225,not out,2,DNB,-,-,-,-
+8917,Moeen Ali,28 May 2023,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,2 Jun 2023,v Derbyshire,Derby,2,2,16,19,12,1,1,133.33,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,3 Jun 2023,v Notts,Birmingham,2,1,10,15,12,1,0,83.33,caught,1,3.0,0,32,1,10.66
+8917,Moeen Ali,7 Jun 2023,v Derbyshire,Birmingham,1,3,10,14,11,1,0,90.9,bowled,2,4.0,0,30,1,7.5
+8917,Moeen Ali,9 Jun 2023,v Northants,Birmingham,1,3,12,15,9,1,0,133.33,caught,2,4.0,0,16,3,4
+8917,Moeen Ali,7 Aug 2023,v Originals,Manchester,2,3,1,8,2,0,0,50,lbw,1,DNB,-,-,-,-
+8917,Moeen Ali,10 Aug 2023,v Fire,Birmingham,1,4,17,19,13,0,1,130.76,caught,2,4.0,0,15,1,4.5
+8917,Moeen Ali,13 Aug 2023,v Invincibles,Birmingham,1,5,33,27,26,1,2,126.92,run out,2,3.0,0,23,0,9.2
+8917,Moeen Ali,16 Aug 2023,v Brave,Southampton,1,5,1,2,3,0,0,33.33,bowled,2,4.0,0,17,1,5.1
+8917,Moeen Ali,19 Aug 2023,v Rockets,Nottingham,2,5,4,13,11,0,0,36.36,caught,1,2.0,0,17,1,10.2
+8917,Moeen Ali,24 Aug 2023,v Spirit,Birmingham,1,4,32,14,14,1,4,228.57,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,30 Aug 2023,v New Zealand,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,1,5.5
+8917,Moeen Ali,1 Sep 2023,v New Zealand,Manchester,1,5,6,1,2,0,1,300,caught,2,1.0,0,9,0,9
+8917,Moeen Ali,3 Sep 2023,v New Zealand,Birmingham,2,6,26,39,16,1,2,162.5,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,5 Sep 2023,v New Zealand,Nottingham,1,6,1,4,3,0,0,33.33,caught,2,2.2,0,23,0,9.85
+8917,Moeen Ali,14 Dec 2023,v West Indies,St George's,2,7,22*,31,13,1,2,169.23,not out,1,2.0,0,15,0,7.5
+8917,Moeen Ali,16 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+8917,Moeen Ali,19 Dec 2023,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,1.0,0,20,1,20
+8917,Moeen Ali,21 Dec 2023,v West Indies,Tarouba,1,6,23,24,21,1,1,109.52,caught,2,2.0,0,13,0,6.5
+8917,Moeen Ali,13 Jan 2024,v MI Cape Town,Johannesburg,2,5,11,8,8,0,1,137.5,caught,1,4.0,0,43,0,10.75
+8917,Moeen Ali,15 Jan 2024,v Super Giants,Durban,2,5,36,44,26,1,3,138.46,caught,1,2.0,0,14,1,7
+8917,Moeen Ali,17 Jan 2024,v Paarl Royals,Paarl,1,5,18,24,22,1,0,81.81,caught,2,2.1,0,19,1,8.76
+8917,Moeen Ali,20 Jan 2024,v Capitals,Johannesburg,2,5,25*,37,21,1,1,119.04,not out,1,2.0,0,12,0,6
+8917,Moeen Ali,24 Jan 2024,v Paarl Royals,Johannesburg,1,5,23*,25,12,2,2,191.66,not out,2,4.0,0,31,2,7.75
+8917,Moeen Ali,27 Jan 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+8917,Moeen Ali,29 Jan 2024,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+8917,Moeen Ali,31 Jan 2024,v Sunrisers,Johannesburg,1,5,0,10,6,0,0,0,caught,2,2.0,0,16,0,8
+8917,Moeen Ali,3 Feb 2024,v Super Giants,Johannesburg,2,4,26,13,12,2,2,216.66,caught,1,2.0,0,21,0,10.5
+8917,Moeen Ali,7 Feb 2024,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+8917,Moeen Ali,8 Feb 2024,v Super Giants,Johannesburg,2,5,30,28,26,4,1,115.38,bowled,1,1.0,0,9,0,9
+8917,Moeen Ali,13 Feb 2024,v Chattogram,Chattogram,1,5,53*,45,24,2,5,220.83,not out,2,3.3,0,23,4,6.57
+8917,Moeen Ali,14 Feb 2024,v Khulna,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,2,11.5
+8917,Moeen Ali,19 Feb 2024,v Strikers,Chattogram,2,5,0,6,5,0,0,0,bowled,1,2.0,0,13,0,6.5
+8917,Moeen Ali,20 Feb 2024,v Rangpur,Chattogram,2,5,6*,26,10,0,0,60,not out,1,4.0,0,40,0,10
+8917,Moeen Ali,23 Feb 2024,v Barishal,Mirpur,1,5,23,31,22,1,1,104.54,caught,2,1.0,0,13,0,13
+8917,Moeen Ali,26 Feb 2024,v Rangpur,Mirpur,2,5,12*,11,6,1,1,200,not out,1,1.0,0,12,0,12
+8917,Moeen Ali,1 Mar 2024,v Barishal,Mirpur,1,6,3,12,6,0,0,50,run out,2,4.0,0,28,2,7
+8917,Moeen Ali,5 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,2,7.66
+8917,Moeen Ali,19 Apr 2024,v LSG,Lucknow,1,7,30,22,20,0,3,150,caught,2,1.0,0,5,0,5
+8917,Moeen Ali,23 Apr 2024,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+8917,Moeen Ali,28 Apr 2024,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+8917,Moeen Ali,1 May 2024,v Punjab Kings,Chennai,1,6,15,24,9,1,1,166.66,bowled,2,2.0,0,22,0,11
+8917,Moeen Ali,5 May 2024,v Punjab Kings,Dharamsala,1,5,17,25,20,2,0,85,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,10 May 2024,v GT,Ahmedabad,2,5,56,58,36,4,4,155.55,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,12 May 2024,v RR,Chennai,2,4,10,17,13,0,0,76.92,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,25 May 2024,v Pakistan,Birmingham,1,6,4,13,7,0,0,57.14,caught,2,4.0,0,26,2,6.5
+8917,Moeen Ali,30 May 2024,v Pakistan,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+8917,Moeen Ali,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+8917,Moeen Ali,8 Jun 2024,v Australia,Bridgetown,2,5,25,21,15,0,3,166.66,caught,1,2.0,0,18,1,9
+8917,Moeen Ali,13 Jun 2024,v Oman,North Sound,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,15 Jun 2024,v Namibia,North Sound,1,5,16,10,6,0,2,266.66,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,19 Jun 2024,v West Indies,Gros Islet,2,3,13,9,10,2,0,130,caught,1,2.0,0,15,1,7.5
+8917,Moeen Ali,21 Jun 2024,v South Africa,Gros Islet,2,4,9,15,10,0,0,90,caught,1,3.0,0,25,1,8.33
+8917,Moeen Ali,23 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+8917,Moeen Ali,27 Jun 2024,v India,Providence,2,3,8,18,10,0,0,80,stumped,1,DNB,-,-,-,-
+8917,Moeen Ali,7 Jul 2024,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,1.2,0,2,2,1.5
+8917,Moeen Ali,12 Jul 2024,v Worcs,Birmingham,2,5,16,25,15,1,0,106.66,bowled,1,3.0,0,33,2,11
+8917,Moeen Ali,14 Jul 2024,v Derbyshire,Birmingham,1,1,59,37,32,5,4,184.37,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,18 Jul 2024,v Northants,Northampton,2,1,0,1,1,0,0,0,caught,1,1.0,0,10,0,10
+8917,Moeen Ali,19 Jul 2024,v Leics,Birmingham,1,1,103,79,59,7,9,174.57,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,23 Jul 2024,v Invincibles,The Oval,1,5,1,3,4,0,0,25,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,27 Jul 2024,v Spirit,Lord's,2,5,0,28,3,0,0,0,caught,1,0.1,0,0,0,0
+8917,Moeen Ali,31 Jul 2024,v Rockets,Nottingham,1,4,4,8,6,0,0,66.66,caught,2,1.0,0,5,0,6
+8917,Moeen Ali,3 Aug 2024,v Brave,Birmingham,2,4,5,5,4,1,0,125,caught,1,2.0,0,10,0,6
+8917,Moeen Ali,6 Aug 2024,v N S-Chargers,Birmingham,2,2,37*,27,21,2,3,176.19,not out,1,1.0,0,5,0,6
+8917,Moeen Ali,10 Aug 2024,v Fire,Cardiff,2,2,60,52,46,8,1,130.43,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,12 Aug 2024,v Rockets,Birmingham,2,2,13,30,16,2,0,81.25,caught,1,2.0,0,13,0,7.8
+8917,Moeen Ali,15 Aug 2024,v Originals,Birmingham,2,3,6*,3,3,0,1,200,not out,1,DNB,-,-,-,-
+8917,Moeen Ali,17 Aug 2024,v Brave,The Oval,2,2,24,34,25,2,0,96,caught,1,2.0,0,16,0,9.6
+8917,Moeen Ali,6 Sep 2024,v Gloucs,Birmingham,2,1,27,23,20,3,2,135,caught,1,2.0,0,17,1,8.5
+8917,Moeen Ali,14 Sep 2024,v Royals,Bridgetown,2,5,33,31,19,3,2,173.68,caught,1,3.0,0,24,0,8
+8917,Moeen Ali,18 Sep 2024,v Trinbago,Port of Spain,1,5,11,19,11,1,0,100,run out,2,2.0,0,5,1,2.5
+8917,Moeen Ali,20 Sep 2024,v Patriots,Providence,1,5,10,33,22,0,0,45.45,caught,2,4.0,0,9,2,2.25
+8917,Moeen Ali,21 Sep 2024,v Falcons,Providence,1,6,42,43,33,3,3,127.27,run out,2,4.0,1,9,3,2.25
+8917,Moeen Ali,25 Sep 2024,v Royals,Providence,1,5,8,4,3,0,1,266.66,caught,2,4.0,0,16,2,4
+8917,Moeen Ali,28 Sep 2024,v Kings,Providence,1,7,1,-,5,0,0,20,caught,2,4.0,0,21,2,5.25
+8917,Moeen Ali,29 Sep 2024,v Trinbago,Providence,2,6,5,18,3,1,0,166.66,caught,1,3.0,0,27,0,9
+8917,Moeen Ali,2 Oct 2024,v Kings,Providence,2,6,1*,9,2,0,0,50,not out,1,4.0,0,24,2,6
+8917,Moeen Ali,4 Oct 2024,v Royals,Providence,2,2,44*,79,35,3,2,125.71,not out,1,4.0,0,24,2,6
+8917,Moeen Ali,6 Oct 2024,v Kings,Providence,1,1,14,37,20,1,0,70,caught,2,4.0,0,41,1,10.25
+8917,Moeen Ali,26 Nov 2024,v Qalandars,Providence,2,1,17,-,19,3,0,89.47,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,29 Nov 2024,v Victoria,Providence,1,1,51,-,33,3,4,154.54,bowled,2,2.0,0,13,0,6.5
+8917,Moeen Ali,1 Dec 2024,v Hampshire,Providence,2,2,20,-,17,2,1,117.64,caught,1,1.0,0,7,0,7
+8917,Moeen Ali,4 Dec 2024,v Rangpur,Providence,2,1,5,-,4,1,0,125,caught,1,1.0,0,5,0,5
+8917,Moeen Ali,16 Jan 2025,v Capitals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+8917,Moeen Ali,20 Jan 2025,v Paarl Royals,Paarl,1,5,1,6,8,0,0,12.5,caught,2,3.0,0,33,0,11
+8917,Moeen Ali,26 Jan 2025,v Sunrisers,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+8917,Moeen Ali,28 Jan 2025,v Capitals,Centurion,1,5,0,2,2,0,0,0,lbw,2,2.0,0,18,0,9
+8917,Moeen Ali,1 Feb 2025,v Super Giants,Johannesburg,2,5,14,16,13,0,1,107.69,caught,1,2.0,0,18,0,9
+8917,Moeen Ali,5 Feb 2025,v Sunrisers,Centurion,2,6,0,2,4,0,0,0,caught,1,4.0,0,19,1,4.75
+8917,Moeen Ali,7 Feb 2025,v Vipers,Sharjah,1,6,17,25,16,1,0,106.25,caught,2,3.0,0,29,0,9.66
+8917,Moeen Ali,26 Mar 2025,v RR,Guwahati,2,1,5,27,12,0,0,41.66,run out,1,4.0,0,23,2,5.75
+8917,Moeen Ali,3 Apr 2025,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+8917,Moeen Ali,11 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,1,5
+8917,Moeen Ali,21 Apr 2025,v GT,Eden Gardens,2,8,0,1,2,0,0,0,caught,1,3.0,0,27,0,9
+8917,Moeen Ali,4 May 2025,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,2,14.33
+8917,Moeen Ali,7 May 2025,v CSK,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+8917,Moeen Ali,31 May 2025,v Durham,Birmingham,1,3,1,7,6,0,0,16.66,caught,2,4.0,0,27,2,6.75
+8917,Moeen Ali,6 Jun 2025,v Yorkshire,Birmingham,2,5,10,16,12,0,0,83.33,caught,1,4.0,0,30,2,7.5
+8917,Moeen Ali,8 Jun 2025,v Derbyshire,Birmingham,1,5,33*,25,17,2,2,194.11,not out,2,2.0,0,14,0,7
+8917,Moeen Ali,11 Jun 2025,v Northants,Northampton,2,5,31,34,24,2,2,129.16,lbw,1,2.0,0,26,1,13
+8917,Moeen Ali,13 Jun 2025,v Yorkshire,Leeds,1,6,9,8,8,1,0,112.5,lbw,2,3.0,0,26,1,8.66
+8917,Moeen Ali,14 Jun 2025,v Notts,Birmingham,1,7,34,15,12,1,4,283.33,bowled,2,2.0,0,24,1,12
+8917,Moeen Ali,20 Jun 2025,v Worcs,Birmingham,2,5,4,11,8,0,0,50,caught,1,1.0,0,4,0,4
+8917,Moeen Ali,4 Jul 2025,v Leics,Leicester,2,5,1,5,4,0,0,25,caught,1,2.0,0,14,0,7
+8917,Moeen Ali,10 Jul 2025,v Rangpur,Providence,2,3,27,-,18,3,1,150,caught,1,1.0,0,8,0,8
+8917,Moeen Ali,11 Jul 2025,v Central D,Providence,1,3,6,-,8,1,0,75,bowled,2,DNB,-,-,-,-
+8917,Moeen Ali,13 Jul 2025,v DC,Providence,1,4,40,-,38,2,2,105.26,bowled,2,4.0,1,14,1,3.5
+8917,Moeen Ali,16 Jul 2025,v Hurricanes,Providence,2,4,30*,-,36,2,2,83.33,not out,1,2.0,0,17,2,8.5
+8917,Moeen Ali,18 Jul 2025,v Rangpur,Providence,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,1,4.33
+8917,Moeen Ali,15 Aug 2025,v Patriots,Basseterre,2,5,19,-,17,1,1,111.76,caught,1,1.0,0,15,0,15
+8917,Moeen Ali,22 Aug 2025,v Falcons,North Sound,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+8917,Moeen Ali,26 Aug 2025,v Kings,Gros Islet,1,4,0,3,3,0,0,0,bowled,2,1.0,0,18,0,18
+8917,Moeen Ali,30 Aug 2025,v Trinbago,Tarouba,1,4,4,11,6,0,0,66.66,bowled,2,2.0,0,31,0,15.5
+8917,Moeen Ali,4 Sep 2025,v Royals,Bridgetown,2,3,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,6 Sep 2025,v Trinbago,Providence,2,1,4,2,3,1,0,133.33,caught,1,4.0,0,11,1,2.75
+8917,Moeen Ali,7 Sep 2025,v Patriots,Providence,2,2,19,26,19,2,0,100,bowled,1,2.0,0,18,0,9
+8917,Moeen Ali,10 Sep 2025,v Falcons,Providence,1,1,10,14,15,1,0,66.66,caught,2,4.0,0,10,2,2.5
+8917,Moeen Ali,13 Sep 2025,v Kings,Providence,2,8,17,26,15,0,1,113.33,run out,1,1.0,0,21,0,21
+8917,Moeen Ali,14 Sep 2025,v Royals,Providence,1,7,7*,11,3,0,1,233.33,not out,2,1.0,0,8,0,8
+8917,Moeen Ali,17 Sep 2025,v Kings,Providence,1,7,4,9,8,0,0,50,bowled,2,1.0,0,9,0,9
+8917,Moeen Ali,21 Sep 2025,v Trinbago,Providence,1,4,10,24,14,1,0,71.42,bowled,2,4.0,1,11,0,2.75
+8917,Moeen Ali,4 Dec 2025,v MI Emirates,Dubai (DICS),2,4,26,-,21,1,2,123.8,run out,1,2.0,0,13,1,6.5
+8917,Moeen Ali,6 Dec 2025,v DC,Dubai (DICS),2,4,2,-,5,0,0,40,caught,1,4.0,0,23,1,5.75
+8917,Moeen Ali,8 Dec 2025,v Vipers,Dubai (DICS),1,4,11,-,11,1,0,100,caught,2,2.0,0,13,0,6.5
+8917,Moeen Ali,10 Dec 2025,v Warriorz,Dubai (DICS),2,3,14,16,13,0,1,107.69,bowled,1,1.0,0,6,0,6
+8917,Moeen Ali,15 Dec 2025,v Warriorz,Sharjah,2,5,45,64,41,2,1,109.75,caught,1,4.0,0,33,0,8.25
+8917,Moeen Ali,18 Dec 2025,v KnightRiders,Abu Dhabi,1,4,16,23,14,0,1,114.28,caught,2,1.0,0,16,0,16
+8917,Moeen Ali,21 Dec 2025,v DC,Abu Dhabi,1,3,7,5,6,0,1,116.66,caught,2,1.0,0,6,0,6
+8917,Moeen Ali,23 Dec 2025,v MI Emirates,Abu Dhabi,1,4,51,85,48,2,2,106.25,caught,2,DNB,-,-,-,-
+8917,Moeen Ali,28 Dec 2025,v KnightRiders,Dubai (DICS),2,4,79,69,49,5,5,161.22,caught,1,DNB,-,-,-,-
+8917,Moeen Ali,5 Jan 2026,v Noakhali,Sylhet,2,5,1*,5,1,0,0,100,not out,1,2.0,0,6,0,3
+8917,Moeen Ali,7 Jan 2026,v Chattogram,Sylhet,2,5,13,18,11,0,1,118.18,bowled,1,4.0,0,23,1,5.75
+8917,Moeen Ali,8 Jan 2026,v Dhaka,Sylhet,1,6,28,13,8,2,3,350,caught,2,4.0,0,20,2,5
+8917,Moeen Ali,12 Jan 2026,v Rangpur,Sylhet,2,6,0*,2,0,0,0,-,not out,1,4.0,1,8,2,2
+8917,Moeen Ali,16 Jan 2026,v Rajshahi,Mirpur,2,6,27,-,12,1,3,225,caught,1,4.0,0,16,1,4
+8917,Moeen Ali,20 Jan 2026,v Rangpur,Mirpur,2,7,5,16,9,0,0,55.55,caught,1,4.0,0,39,0,9.75
+8917,Moeen Ali,21 Jan 2026,v Rajshahi,Mirpur,2,5,7,9,5,0,0,140,bowled,1,1.0,0,18,0,18

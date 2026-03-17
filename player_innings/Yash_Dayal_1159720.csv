@@ -1,0 +1,72 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1159720,Yash Dayal,21 Feb 2019,v Maharashtra,Delhi,2,11,0*,3,1,0,0,0,not out,1,4.0,0,17,1,4.25
+1159720,Yash Dayal,22 Feb 2019,v Hyderabad,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+1159720,Yash Dayal,24 Feb 2019,v Tripura,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+1159720,Yash Dayal,25 Feb 2019,v Puducherry,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1159720,Yash Dayal,27 Feb 2019,v Services,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+1159720,Yash Dayal,28 Feb 2019,v Uttarakhand,Delhi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,2,5.5
+1159720,Yash Dayal,9 Mar 2019,v Karnataka,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1159720,Yash Dayal,10 Mar 2019,v Vidarbha,Indore,2,11,2*,3,3,0,0,66.66,not out,1,4.0,0,29,1,7.25
+1159720,Yash Dayal,11 Mar 2019,v Delhi,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1159720,Yash Dayal,9 Nov 2019,v Vidarbha,Thiruvananthapuram,1,11,4,-,8,0,0,50,caught,2,1.0,0,14,0,14
+1159720,Yash Dayal,12 Nov 2019,v Tripura,Thumba,2,-,DNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+1159720,Yash Dayal,14 Nov 2019,v Rajasthan,Thiruvananthapuram,1,11,4*,-,1,1,0,400,not out,2,4.0,0,46,2,11.5
+1159720,Yash Dayal,6 Nov 2021,v Delhi,Rohtak,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+1159720,Yash Dayal,8 Nov 2021,v Uttarakhand,Sultanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+1159720,Yash Dayal,9 Nov 2021,v Hyderabad,Sultanpur,2,11,0*,-,0,0,0,-,not out,1,4.0,0,20,2,5
+1159720,Yash Dayal,14 Apr 2022,v RR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,3,10
+1159720,Yash Dayal,17 Apr 2022,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+1159720,Yash Dayal,23 Apr 2022,v KKR,DY Patil,1,10,0,2,1,0,0,0,caught,2,4.0,0,42,2,10.5
+1159720,Yash Dayal,27 Apr 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+1159720,Yash Dayal,10 May 2022,v LSG,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,2,12
+1159720,Yash Dayal,15 May 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+1159720,Yash Dayal,19 May 2022,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+1159720,Yash Dayal,24 May 2022,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+1159720,Yash Dayal,29 May 2022,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+1159720,Yash Dayal,11 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.4,0,15,2,5.62
+1159720,Yash Dayal,12 Oct 2022,v Tripura,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.3,0,25,0,7.14
+1159720,Yash Dayal,14 Oct 2022,v Delhi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+1159720,Yash Dayal,18 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+1159720,Yash Dayal,20 Oct 2022,v Hyderabad,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+1159720,Yash Dayal,22 Oct 2022,v Punjab,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+1159720,Yash Dayal,31 Mar 2023,v CSK,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+1159720,Yash Dayal,4 Apr 2023,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+1159720,Yash Dayal,9 Apr 2023,v KKR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,69,0,17.25
+1159720,Yash Dayal,15 May 2023,v SRH,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+1159720,Yash Dayal,21 May 2023,v RCB,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+1159720,Yash Dayal,17 Oct 2023,v Tamil Nadu,Dehradun,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+1159720,Yash Dayal,21 Oct 2023,v Nagaland,Dehradun,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+1159720,Yash Dayal,23 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,2,3.5
+1159720,Yash Dayal,25 Oct 2023,v Karnataka,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+1159720,Yash Dayal,27 Oct 2023,v M. Pradesh,Dehradun,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+1159720,Yash Dayal,31 Oct 2023,v Gujarat,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+1159720,Yash Dayal,2 Nov 2023,v Punjab,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,0,13.25
+1159720,Yash Dayal,22 Mar 2024,v CSK,Chennai,1,-,sub,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+1159720,Yash Dayal,25 Mar 2024,v Punjab Kings,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+1159720,Yash Dayal,29 Mar 2024,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+1159720,Yash Dayal,2 Apr 2024,v LSG,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,24,1,6
+1159720,Yash Dayal,6 Apr 2024,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1159720,Yash Dayal,15 Apr 2024,v SRH,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+1159720,Yash Dayal,21 Apr 2024,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,4.0,0,56,2,14
+1159720,Yash Dayal,25 Apr 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+1159720,Yash Dayal,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+1159720,Yash Dayal,4 May 2024,v GT,Bengaluru,2,-,sub,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+1159720,Yash Dayal,9 May 2024,v Punjab Kings,Dharamsala,1,-,sub,-,-,-,-,-,-,2,2.0,0,22,0,11
+1159720,Yash Dayal,12 May 2024,v DC,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.1,0,20,3,6.31
+1159720,Yash Dayal,18 May 2024,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+1159720,Yash Dayal,22 May 2024,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+1159720,Yash Dayal,22 Mar 2025,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+1159720,Yash Dayal,28 Mar 2025,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+1159720,Yash Dayal,2 Apr 2025,v GT,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+1159720,Yash Dayal,7 Apr 2025,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+1159720,Yash Dayal,10 Apr 2025,v DC,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.5,0,45,1,11.73
+1159720,Yash Dayal,13 Apr 2025,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+1159720,Yash Dayal,18 Apr 2025,v Punjab Kings,Bengaluru,1,10,0,1,1,0,0,0,lbw,2,2.1,0,18,0,8.3
+1159720,Yash Dayal,20 Apr 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+1159720,Yash Dayal,24 Apr 2025,v RR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+1159720,Yash Dayal,27 Apr 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+1159720,Yash Dayal,3 May 2025,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+1159720,Yash Dayal,23 May 2025,v SRH,Lucknow,2,10,3,9,6,0,0,50,caught,1,3.0,0,36,0,12
+1159720,Yash Dayal,27 May 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,44,0,14.66
+1159720,Yash Dayal,29 May 2025,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+1159720,Yash Dayal,3 Jun 2025,v Punjab Kings,Ahmedabad,1,10,1*,2,1,0,0,100,not out,2,3.0,0,18,1,6

@@ -1,0 +1,161 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+261354,Nathan Coulter-Nile,29 Dec 2009,v South Aust,W.A.C.A,2,10,0,4,3,0,0,0,caught,1,4.0,0,34,1,8.5
+261354,Nathan Coulter-Nile,1 Jan 2010,v Tasmania,Hobart,2,10,4*,11,7,0,0,57.14,not out,1,4.0,0,44,2,11
+261354,Nathan Coulter-Nile,5 Jan 2010,v NSW,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+261354,Nathan Coulter-Nile,10 Jan 2010,v Victoria,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+261354,Nathan Coulter-Nile,16 Jan 2010,v Queensland,Brisbane,2,7,19*,15,14,2,0,135.71,not out,1,3.0,0,36,0,12
+261354,Nathan Coulter-Nile,30 Dec 2010,v Tasmania,W.A.C.A,2,9,1*,-,4,0,0,25,not out,1,4.0,0,30,1,7.5
+261354,Nathan Coulter-Nile,29 Dec 2011,v Heat,W.A.C.A,1,8,7*,-,8,1,0,87.5,not out,2,4.0,0,28,0,7
+261354,Nathan Coulter-Nile,4 Jan 2012,v Stars,Melbourne,1,7,5,21,13,0,0,38.46,run out,2,3.0,0,20,2,6.66
+261354,Nathan Coulter-Nile,8 Jan 2012,v Strikers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,2,9.33
+261354,Nathan Coulter-Nile,11 Jan 2012,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,9,3,3
+261354,Nathan Coulter-Nile,18 Jan 2012,v Sixers,Sydney,2,7,11*,18,13,1,0,84.61,not out,1,4.0,0,38,3,9.5
+261354,Nathan Coulter-Nile,21 Jan 2012,v Stars,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+261354,Nathan Coulter-Nile,28 Jan 2012,v Sixers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+261354,Nathan Coulter-Nile,17 Oct 2012,v KKR,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+261354,Nathan Coulter-Nile,21 Oct 2012,v Daredevils,Cape Town,1,7,2*,8,4,0,0,50,not out,2,4.0,0,25,1,6.25
+261354,Nathan Coulter-Nile,23 Oct 2012,v Auckland,Centurion,1,7,1*,7,1,0,0,100,not out,2,4.0,0,26,0,6.5
+261354,Nathan Coulter-Nile,9 Dec 2012,v Strikers,W.A.C.A,1,5,14,-,5,1,1,280,caught,2,4.0,0,35,1,8.75
+261354,Nathan Coulter-Nile,12 Dec 2012,v Stars,W.A.C.A,1,8,0,-,2,0,0,0,lbw,2,1.0,0,11,0,11
+261354,Nathan Coulter-Nile,16 Dec 2012,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+261354,Nathan Coulter-Nile,18 Dec 2012,v Heat,Brisbane,2,3,23*,-,6,2,2,383.33,not out,1,3.0,0,39,0,13
+261354,Nathan Coulter-Nile,29 Dec 2012,v Renegades,W.A.C.A,1,4,0*,-,1,0,0,0,not out,2,4.0,0,36,2,9
+261354,Nathan Coulter-Nile,1 Jan 2013,v Hurricanes,Hobart,1,7,5,6,5,1,0,100,caught,2,3.3,0,41,0,11.71
+261354,Nathan Coulter-Nile,4 Jan 2013,v Thunder,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+261354,Nathan Coulter-Nile,10 Jan 2013,v Strikers,Adelaide,1,4,3*,-,4,0,0,75,not out,2,3.0,0,13,3,4.33
+261354,Nathan Coulter-Nile,16 Jan 2013,v Stars,W.A.C.A,2,3,0,-,1,0,0,0,caught,1,4.0,0,24,1,6
+261354,Nathan Coulter-Nile,19 Jan 2013,v Heat,W.A.C.A,2,5,16,14,13,0,1,123.07,caught,1,4.0,0,46,1,11.5
+261354,Nathan Coulter-Nile,13 Feb 2013,v West Indies,Brisbane,2,9,16*,15,11,0,2,145.45,not out,1,4.0,0,36,1,9
+261354,Nathan Coulter-Nile,18 May 2013,v Kings XI,Dharamsala,2,9,9,7,6,0,1,150,bowled,1,4.0,0,29,1,7.25
+261354,Nathan Coulter-Nile,31 Aug 2013,v England,Chester-le-Street,2,10,13,6,6,0,2,216.66,caught,1,4.0,0,47,0,11.75
+261354,Nathan Coulter-Nile,21 Sep 2013,v RR,Jaipur,1,8,12*,5,5,1,1,240,not out,2,3.4,0,22,1,6
+261354,Nathan Coulter-Nile,27 Sep 2013,v Lions,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+261354,Nathan Coulter-Nile,2 Oct 2013,v Scorchers,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+261354,Nathan Coulter-Nile,5 Oct 2013,v Trinidad & T,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+261354,Nathan Coulter-Nile,6 Oct 2013,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+261354,Nathan Coulter-Nile,10 Oct 2013,v India,Rajkot,1,8,12*,18,11,1,0,109.09,not out,2,4.0,0,44,1,11
+261354,Nathan Coulter-Nile,22 Dec 2013,v Heat,Brisbane,1,7,4,-,4,1,0,100,caught,2,3.4,1,37,3,10.09
+261354,Nathan Coulter-Nile,31 Dec 2013,v Strikers,Adelaide,1,7,42*,-,25,3,3,168,not out,2,4.0,0,28,2,7
+261354,Nathan Coulter-Nile,7 Jan 2014,v Hurricanes,W.A.C.A,1,7,2,-,5,0,0,40,caught,2,4.0,0,15,3,3.75
+261354,Nathan Coulter-Nile,29 Jan 2014,v England,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,4,7.75
+261354,Nathan Coulter-Nile,31 Jan 2014,v England,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+261354,Nathan Coulter-Nile,2 Feb 2014,v England,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+261354,Nathan Coulter-Nile,5 Feb 2014,v Sixers,Sydney,1,7,0*,-,2,0,0,0,not out,2,1.0,0,11,0,11
+261354,Nathan Coulter-Nile,7 Feb 2014,v Hurricanes,W.A.C.A,1,6,4*,-,3,0,0,133.33,not out,2,4.0,0,35,0,8.75
+261354,Nathan Coulter-Nile,12 Mar 2014,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+261354,Nathan Coulter-Nile,14 Mar 2014,v South Africa,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+261354,Nathan Coulter-Nile,23 Mar 2014,v Pakistan,Mirpur,2,8,0,3,3,0,0,0,bowled,1,4.0,0,36,2,9
+261354,Nathan Coulter-Nile,1 Apr 2014,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,2,5.66
+261354,Nathan Coulter-Nile,19 Apr 2014,v KKR,Dubai (DICS),2,8,0*,1,0,0,0,-,not out,1,4.0,0,27,2,6.75
+261354,Nathan Coulter-Nile,21 Apr 2014,v CSK,Abu Dhabi,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+261354,Nathan Coulter-Nile,24 Sep 2014,v KKR,Hyderabad,1,5,0,1,1,0,0,0,caught,2,4.0,0,41,2,10.25
+261354,Nathan Coulter-Nile,27 Sep 2014,v CSK,Bengaluru,2,7,30,29,21,2,1,142.85,caught,1,4.0,0,28,1,7
+261354,Nathan Coulter-Nile,25 Jan 2015,v Stars,W.A.C.A,1,7,22,-,9,2,2,244.44,caught,2,4.0,0,31,2,7.75
+261354,Nathan Coulter-Nile,28 Jan 2015,v Sixers,Canberra,2,6,7,-,3,0,1,233.33,bowled,1,4.0,0,32,1,8
+261354,Nathan Coulter-Nile,9 Apr 2015,v CSK,Chennai,2,8,5,12,4,1,0,125,bowled,1,4.0,0,30,3,7.5
+261354,Nathan Coulter-Nile,12 Apr 2015,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+261354,Nathan Coulter-Nile,15 Apr 2015,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,0,4.66
+261354,Nathan Coulter-Nile,18 Apr 2015,v SRH,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+261354,Nathan Coulter-Nile,20 Apr 2015,v KKR,Delhi,1,8,2,5,2,0,0,100,run out,2,4.0,0,30,1,7.5
+261354,Nathan Coulter-Nile,23 Apr 2015,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+261354,Nathan Coulter-Nile,26 Apr 2015,v RCB,Delhi,1,7,4,4,8,1,0,50,lbw,2,3.3,0,30,0,8.57
+261354,Nathan Coulter-Nile,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+261354,Nathan Coulter-Nile,3 May 2015,v RR,Brabourne,2,8,6,5,2,0,1,300,caught,1,4.0,0,38,1,9.5
+261354,Nathan Coulter-Nile,5 May 2015,v MI,Wankhede,1,8,3*,6,2,0,0,150,not out,2,4.0,1,30,2,7.5
+261354,Nathan Coulter-Nile,9 May 2015,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+261354,Nathan Coulter-Nile,31 Aug 2015,v England,Cardiff,2,8,0,4,1,0,0,0,caught,1,4.0,0,24,1,6
+261354,Nathan Coulter-Nile,21 Dec 2015,v Strikers,W.A.C.A,1,8,18*,-,8,0,2,225,not out,2,3.0,0,18,1,6
+261354,Nathan Coulter-Nile,4 Mar 2016,v South Africa,Durban,1,9,9,15,9,0,1,100,bowled,2,4.0,0,29,3,7.25
+261354,Nathan Coulter-Nile,9 Mar 2016,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+261354,Nathan Coulter-Nile,18 Mar 2016,v New Zealand,Dharamsala,2,9,1,6,2,0,0,50,bowled,1,4.0,0,33,0,8.25
+261354,Nathan Coulter-Nile,21 Mar 2016,v Bangladesh,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+261354,Nathan Coulter-Nile,25 Mar 2016,v Pakistan,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+261354,Nathan Coulter-Nile,27 Mar 2016,v India,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+261354,Nathan Coulter-Nile,10 Apr 2016,v KKR,Eden Gardens,1,9,7*,22,11,1,0,63.63,not out,2,4.0,0,32,0,8
+261354,Nathan Coulter-Nile,12 May 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+261354,Nathan Coulter-Nile,17 May 2016,v Supergiants,Visakhapatnam,1,8,2*,-,3,0,0,66.66,not out,2,3.0,0,21,0,7
+261354,Nathan Coulter-Nile,20 May 2016,v SRH,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+261354,Nathan Coulter-Nile,17 Apr 2017,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+261354,Nathan Coulter-Nile,21 Apr 2017,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.2,0,41,2,12.3
+261354,Nathan Coulter-Nile,23 Apr 2017,v RCB,Eden Gardens,1,9,2,4,3,0,0,66.66,caught,2,3.0,0,21,3,7
+261354,Nathan Coulter-Nile,28 Apr 2017,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+261354,Nathan Coulter-Nile,30 Apr 2017,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+261354,Nathan Coulter-Nile,3 May 2017,v Supergiant,Eden Gardens,1,9,6,11,5,0,1,120,caught,2,3.0,0,41,0,13.66
+261354,Nathan Coulter-Nile,17 May 2017,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+261354,Nathan Coulter-Nile,19 May 2017,v MI,Bengaluru,1,9,6,3,4,0,1,150,caught,2,3.0,0,15,1,5
+261354,Nathan Coulter-Nile,7 Oct 2017,v India,Ranchi,1,8,1,2,2,0,0,50,bowled,2,2.0,0,20,1,10
+261354,Nathan Coulter-Nile,10 Oct 2017,v India,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+261354,Nathan Coulter-Nile,22 Oct 2018,v U.A.E.,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,2,5
+261354,Nathan Coulter-Nile,24 Oct 2018,v Pakistan,Abu Dhabi,2,8,34,-,29,6,0,117.24,bowled,1,4.0,0,42,0,10.5
+261354,Nathan Coulter-Nile,26 Oct 2018,v Pakistan,Dubai (DICS),2,8,27,-,17,0,3,158.82,caught,1,3.0,0,18,3,6
+261354,Nathan Coulter-Nile,28 Oct 2018,v Pakistan,Dubai (DICS),2,8,0,-,1,0,0,0,run out,1,3.0,0,29,0,9.66
+261354,Nathan Coulter-Nile,17 Nov 2018,v South Africa,Carrara,2,8,2*,-,4,0,0,50,not out,1,2.0,0,19,2,9.5
+261354,Nathan Coulter-Nile,23 Nov 2018,v India,Melbourne,1,8,18,-,9,1,2,200,caught,-,TDNB,-,-,-,-
+261354,Nathan Coulter-Nile,25 Nov 2018,v India,Sydney,1,8,13*,-,7,2,0,185.71,not out,2,3.0,0,40,0,13.33
+261354,Nathan Coulter-Nile,20 Dec 2018,v Renegades,Melbourne (Docklands),1,8,7,-,9,1,0,77.77,bowled,2,4.0,0,22,2,5.5
+261354,Nathan Coulter-Nile,22 Dec 2018,v Sixers,Sydney,2,8,9,-,9,0,0,100,caught,1,4.0,0,34,0,8.5
+261354,Nathan Coulter-Nile,26 Dec 2018,v Strikers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+261354,Nathan Coulter-Nile,30 Dec 2018,v Hurricanes,Launceston,1,8,20,-,14,1,2,142.85,caught,2,3.0,0,21,1,7
+261354,Nathan Coulter-Nile,2 Jan 2019,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+261354,Nathan Coulter-Nile,5 Jan 2019,v Heat,Perth,1,7,2*,-,2,0,0,100,not out,2,4.0,0,25,3,6.25
+261354,Nathan Coulter-Nile,9 Jan 2019,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+261354,Nathan Coulter-Nile,13 Jan 2019,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+261354,Nathan Coulter-Nile,18 Jan 2019,v Hurricanes,Perth,1,8,31*,-,15,1,3,206.66,not out,2,4.0,0,23,1,5.75
+261354,Nathan Coulter-Nile,24 Jan 2019,v Thunder,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+261354,Nathan Coulter-Nile,28 Jan 2019,v Renegades,Perth,2,7,8,-,5,1,0,160,bowled,1,4.0,0,34,0,8.5
+261354,Nathan Coulter-Nile,3 Feb 2019,v Stars,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,7.5
+261354,Nathan Coulter-Nile,9 Feb 2019,v Strikers,Adelaide,1,6,25,-,8,1,3,312.5,caught,2,4.0,0,28,2,7
+261354,Nathan Coulter-Nile,24 Feb 2019,v India,Visakhapatnam,2,7,4,14,8,0,0,50,bowled,1,4.0,0,26,3,6.5
+261354,Nathan Coulter-Nile,27 Feb 2019,v India,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+261354,Nathan Coulter-Nile,27 Dec 2019,v Strikers,Carrara,2,7,20*,-,8,3,1,250,not out,1,4.0,0,30,0,7.5
+261354,Nathan Coulter-Nile,30 Dec 2019,v Hurricanes,Launceston,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,2,7
+261354,Nathan Coulter-Nile,2 Jan 2020,v Thunder,Sydney,2,7,5,-,6,1,0,83.33,caught,1,4.0,0,24,0,6
+261354,Nathan Coulter-Nile,4 Jan 2020,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+261354,Nathan Coulter-Nile,8 Jan 2020,v Thunder,Melbourne,2,3,11,-,6,1,1,183.33,caught,1,3.0,0,16,1,5.33
+261354,Nathan Coulter-Nile,10 Jan 2020,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+261354,Nathan Coulter-Nile,15 Jan 2020,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+261354,Nathan Coulter-Nile,18 Jan 2020,v Scorchers,Melbourne,1,3,7,-,8,1,0,87.5,caught,2,2.0,0,12,0,6
+261354,Nathan Coulter-Nile,25 Jan 2020,v Heat,Melbourne,2,7,0,-,1,0,0,0,caught,1,3.0,0,29,0,9.66
+261354,Nathan Coulter-Nile,31 Jan 2020,v Sixers,Melbourne,2,7,7,-,9,0,0,77.77,bowled,1,4.0,0,22,1,5.5
+261354,Nathan Coulter-Nile,6 Feb 2020,v Thunder,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+261354,Nathan Coulter-Nile,8 Feb 2020,v Sixers,Sydney,2,8,19*,-,8,1,1,237.5,not out,1,2.0,0,22,0,11
+261354,Nathan Coulter-Nile,16 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+261354,Nathan Coulter-Nile,18 Oct 2020,v Kings XI,Dubai (DICS),1,8,24*,-,12,4,0,200,not out,2,4.0,0,33,0,8.25
+261354,Nathan Coulter-Nile,23 Oct 2020,v CSK,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+261354,Nathan Coulter-Nile,31 Oct 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+261354,Nathan Coulter-Nile,3 Nov 2020,v SRH,Sharjah,1,8,1,-,3,0,0,33.33,caught,2,4.0,0,27,0,6.75
+261354,Nathan Coulter-Nile,5 Nov 2020,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+261354,Nathan Coulter-Nile,10 Nov 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+261354,Nathan Coulter-Nile,11 Dec 2020,v Heat,Canberra,2,-,DNB,-,-,-,-,-,-,1,3.5,0,10,4,2.6
+261354,Nathan Coulter-Nile,16 Dec 2020,v Scorchers,Launceston,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+261354,Nathan Coulter-Nile,26 Dec 2020,v Sixers,Carrara,1,7,1*,-,2,0,0,50,not out,2,3.0,0,14,2,4.66
+261354,Nathan Coulter-Nile,20 Jan 2021,v Renegades,Melbourne (Docklands),1,4,0,-,1,0,0,0,bowled,2,4.0,0,41,3,10.25
+261354,Nathan Coulter-Nile,23 Jan 2021,v Scorchers,Melbourne,2,6,7,-,4,0,1,175,caught,1,4.0,0,49,1,12.25
+261354,Nathan Coulter-Nile,26 Jan 2021,v Sixers,Melbourne,1,7,5,-,4,1,0,125,caught,2,4.0,0,35,1,8.75
+261354,Nathan Coulter-Nile,29 Apr 2021,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+261354,Nathan Coulter-Nile,28 Sep 2021,v Punjab Kings,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+261354,Nathan Coulter-Nile,2 Oct 2021,v DC,Sharjah,1,8,1,4,2,0,0,50,bowled,2,4.0,0,19,1,4.75
+261354,Nathan Coulter-Nile,5 Oct 2021,v RR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,4,3.5
+261354,Nathan Coulter-Nile,8 Oct 2021,v SRH,Abu Dhabi,1,8,3,10,3,0,0,100,caught,2,4.0,0,40,2,10
+261354,Nathan Coulter-Nile,10 Dec 2021,v Thunder,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,1,27,2,6.75
+261354,Nathan Coulter-Nile,12 Dec 2021,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+261354,Nathan Coulter-Nile,15 Dec 2021,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+261354,Nathan Coulter-Nile,24 Dec 2021,v Hurricanes,Hobart,2,8,0,2,1,0,0,0,caught,1,4.0,0,22,2,5.5
+261354,Nathan Coulter-Nile,27 Dec 2021,v Heat,Brisbane,1,8,1,5,4,0,0,25,caught,2,3.0,0,32,1,10.66
+261354,Nathan Coulter-Nile,16 Jan 2022,v Heat,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+261354,Nathan Coulter-Nile,19 Jan 2022,v Hurricanes,Melbourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+261354,Nathan Coulter-Nile,29 Mar 2022,v SRH,Pune,1,7,1*,4,2,0,0,50,not out,2,3.0,0,48,0,16
+261354,Nathan Coulter-Nile,13 Dec 2022,v Thunder,Canberra,1,9,15,17,11,0,1,136.36,caught,2,4.0,0,19,3,4.75
+261354,Nathan Coulter-Nile,16 Dec 2022,v Hurricanes,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+261354,Nathan Coulter-Nile,23 Dec 2022,v Scorchers,Melbourne,2,9,6*,7,2,0,1,300,not out,1,4.0,0,51,0,12.75
+261354,Nathan Coulter-Nile,29 Dec 2022,v Scorchers,Perth,1,8,2,9,6,0,0,33.33,caught,2,4.0,0,24,1,6
+261354,Nathan Coulter-Nile,3 Jan 2023,v Renegades,Melbourne,2,8,0,2,1,0,0,0,caught,1,4.0,0,35,1,8.75
+261354,Nathan Coulter-Nile,6 Jan 2023,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+261354,Nathan Coulter-Nile,9 Jan 2023,v Hurricanes,Hobart,1,7,0,3,2,0,0,0,caught,2,3.0,0,22,2,7.33
+261354,Nathan Coulter-Nile,12 Jan 2023,v Strikers,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+261354,Nathan Coulter-Nile,16 Jan 2023,v Heat,Melbourne,1,6,0,2,1,0,0,0,caught,2,4.0,0,22,1,5.5
+261354,Nathan Coulter-Nile,22 Jan 2023,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+261354,Nathan Coulter-Nile,25 Jan 2023,v Thunder,Melbourne,1,8,0,2,3,0,0,0,caught,2,4.0,0,29,1,7.25
+261354,Nathan Coulter-Nile,7 Dec 2023,v Heat,Brisbane,2,11,1*,2,1,0,0,100,not out,1,4.0,0,35,1,8.75
+261354,Nathan Coulter-Nile,13 Jan 2024,v Renegades,Melbourne (Docklands),1,9,0,1,1,0,0,0,run out,2,4.0,0,25,2,6.25
+261354,Nathan Coulter-Nile,15 Jan 2024,v Hurricanes,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5

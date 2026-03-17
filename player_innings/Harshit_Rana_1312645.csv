@@ -1,0 +1,48 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1312645,Harshit Rana,28 Apr 2022,v DC,Wankhede,1,11,0*,1,1,0,0,0,not out,2,3.0,0,24,1,8
+1312645,Harshit Rana,7 May 2022,v LSG,Pune,2,11,2,2,1,0,0,200,run out,1,2.0,0,27,0,13.5
+1312645,Harshit Rana,29 Apr 2023,v GT,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+1312645,Harshit Rana,4 May 2023,v SRH,Hyderabad,1,10,0,2,1,0,0,0,run out,2,4.0,0,27,1,6.75
+1312645,Harshit Rana,8 May 2023,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,2,11
+1312645,Harshit Rana,11 May 2023,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+1312645,Harshit Rana,14 May 2023,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1312645,Harshit Rana,20 May 2023,v LSG,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,3.0,0,21,1,7
+1312645,Harshit Rana,17 Oct 2023,v M. Pradesh,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1312645,Harshit Rana,21 Oct 2023,v Karnataka,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+1312645,Harshit Rana,23 Oct 2023,v Tamil Nadu,Dehradun,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+1312645,Harshit Rana,25 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,0.5,0,5,1,6
+1312645,Harshit Rana,23 Mar 2024,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+1312645,Harshit Rana,29 Mar 2024,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+1312645,Harshit Rana,3 Apr 2024,v DC,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1312645,Harshit Rana,14 Apr 2024,v LSG,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+1312645,Harshit Rana,16 Apr 2024,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+1312645,Harshit Rana,21 Apr 2024,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+1312645,Harshit Rana,26 Apr 2024,v Punjab Kings,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,61,0,15.25
+1312645,Harshit Rana,29 Apr 2024,v DC,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+1312645,Harshit Rana,5 May 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.1,0,24,3,7.57
+1312645,Harshit Rana,11 May 2024,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,2,11.33
+1312645,Harshit Rana,19 May 2024,v RR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1312645,Harshit Rana,21 May 2024,v SRH,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1312645,Harshit Rana,26 May 2024,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,24,2,6
+1312645,Harshit Rana,31 Jan 2025,v England,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+1312645,Harshit Rana,22 Mar 2025,v RCB,Eden Gardens,1,9,5,4,6,1,0,83.33,caught,2,3.0,0,32,0,10.66
+1312645,Harshit Rana,26 Mar 2025,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+1312645,Harshit Rana,31 Mar 2025,v MI,Wankhede,1,10,4,8,8,0,0,50,caught,2,2.0,0,28,0,14
+1312645,Harshit Rana,3 Apr 2025,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+1312645,Harshit Rana,8 Apr 2025,v LSG,Eden Gardens,2,9,10*,16,9,2,0,111.11,not out,1,4.0,0,51,2,12.75
+1312645,Harshit Rana,11 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+1312645,Harshit Rana,15 Apr 2025,v Punjab Kings,New Chandigarh,2,9,3,5,6,0,0,50,bowled,1,3.0,0,25,3,8.33
+1312645,Harshit Rana,21 Apr 2025,v GT,Eden Gardens,2,10,1*,4,2,0,0,50,not out,1,4.0,0,45,1,11.25
+1312645,Harshit Rana,26 Apr 2025,v Punjab Kings,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,27,0,13.5
+1312645,Harshit Rana,29 Apr 2025,v DC,Delhi,1,10,0*,3,1,0,0,0,not out,2,4.0,0,49,0,12.25
+1312645,Harshit Rana,4 May 2025,v RR,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+1312645,Harshit Rana,7 May 2025,v CSK,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+1312645,Harshit Rana,25 May 2025,v SRH,Delhi,2,9,34,25,21,2,3,161.9,caught,1,3.0,0,40,0,13.33
+1312645,Harshit Rana,19 Sep 2025,v Oman,Abu Dhabi,1,8,13*,13,8,0,1,162.5,not out,2,3.0,0,25,1,8.33
+1312645,Harshit Rana,26 Sep 2025,v Sri Lanka,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,54,1,13.5
+1312645,Harshit Rana,29 Oct 2025,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1312645,Harshit Rana,31 Oct 2025,v Australia,Melbourne,1,7,35,38,33,3,1,106.06,caught,2,2.0,0,27,0,13.5
+1312645,Harshit Rana,14 Dec 2025,v South Africa,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+1312645,Harshit Rana,23 Jan 2026,v New Zealand,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,1,35,1,11.66
+1312645,Harshit Rana,25 Jan 2026,v New Zealand,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1312645,Harshit Rana,28 Jan 2026,v New Zealand,Visakhapatnam,2,7,9,32,13,1,0,69.23,caught,1,4.0,0,54,0,13.5

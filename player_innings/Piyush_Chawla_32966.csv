@@ -1,0 +1,306 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+32966,Piyush Chawla,3 Apr 2007,v Railways,Jaipur,1,5,33,30,25,2,2,132,caught,2,4.0,0,23,3,5.75
+32966,Piyush Chawla,4 Apr 2007,v Rajasthan,Jaipur,1,4,16,20,15,1,0,106.66,stumped,2,4.0,0,26,0,6.5
+32966,Piyush Chawla,5 Apr 2007,v M. Pradesh,Jaipur,1,5,1,8,6,0,0,16.66,caught,2,3.0,0,26,1,8.66
+32966,Piyush Chawla,6 Apr 2007,v Vidarbha,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+32966,Piyush Chawla,19 Apr 2008,v CSK,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19
+32966,Piyush Chawla,21 Apr 2008,v RR,Jaipur,1,9,24*,-,11,4,0,218.18,not out,2,2.0,0,27,0,13.5
+32966,Piyush Chawla,25 Apr 2008,v MI,Mohali,1,9,0,-,1,0,0,0,lbw,2,4.0,0,16,2,4
+32966,Piyush Chawla,27 Apr 2008,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+32966,Piyush Chawla,1 May 2008,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+32966,Piyush Chawla,3 May 2008,v KKR,Mohali,1,8,21*,-,7,3,1,300,not out,2,1.0,0,16,0,16
+32966,Piyush Chawla,5 May 2008,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+32966,Piyush Chawla,10 May 2008,v CSK,Chennai,2,8,17,-,15,1,1,113.33,caught,1,3.0,0,36,1,12
+32966,Piyush Chawla,12 May 2008,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+32966,Piyush Chawla,17 May 2008,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+32966,Piyush Chawla,21 May 2008,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+32966,Piyush Chawla,23 May 2008,v Chargers,Mohali,2,6,16*,-,9,1,1,177.77,not out,1,4.0,0,31,0,7.75
+32966,Piyush Chawla,25 May 2008,v KKR,Eden Gardens,1,7,0,-,1,0,0,0,bowled,2,4.0,0,36,2,9
+32966,Piyush Chawla,28 May 2008,v RR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+32966,Piyush Chawla,31 May 2008,v CSK,Wankhede,1,8,12,-,15,1,0,80,bowled,2,2.5,0,23,0,8.11
+32966,Piyush Chawla,19 Apr 2009,v Daredevils,Cape Town,1,7,0,-,0,0,0,-,run out,2,0.5,0,12,0,14.4
+32966,Piyush Chawla,21 Apr 2009,v KKR,Durban,1,8,3*,-,6,0,0,50,not out,2,2.0,0,8,0,4
+32966,Piyush Chawla,24 Apr 2009,v RCB,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+32966,Piyush Chawla,26 Apr 2009,v RR,Cape Town,1,7,6*,-,6,1,0,100,not out,2,4.0,0,22,2,5.5
+32966,Piyush Chawla,29 Apr 2009,v MI,Durban,1,8,0,-,2,0,0,0,bowled,2,3.0,0,26,1,8.66
+32966,Piyush Chawla,1 May 2009,v RCB,Durban,2,7,3,-,4,0,0,75,bowled,1,4.0,0,29,0,7.25
+32966,Piyush Chawla,3 May 2009,v KKR,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+32966,Piyush Chawla,5 May 2009,v RR,Durban,2,8,6,-,7,1,0,85.71,caught,1,4.0,0,30,2,7.5
+32966,Piyush Chawla,7 May 2009,v CSK,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+32966,Piyush Chawla,9 May 2009,v Chargers,Kimberley,2,9,8*,-,6,1,0,133.33,not out,1,3.0,0,26,1,8.66
+32966,Piyush Chawla,12 May 2009,v MI,Centurion,1,10,0,-,0,0,0,-,run out,2,4.0,0,32,1,8
+32966,Piyush Chawla,15 May 2009,v Daredevils,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,3.0,1,16,0,5.33
+32966,Piyush Chawla,17 May 2009,v Chargers,Johannesburg,1,9,1*,-,1,0,0,100,not out,2,4.0,0,20,0,5
+32966,Piyush Chawla,20 May 2009,v CSK,Durban,2,9,4*,-,4,0,0,100,not out,1,2.0,0,13,1,6.5
+32966,Piyush Chawla,22 Jun 2009,v Surrey,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+32966,Piyush Chawla,11 Oct 2009,v NSW,Delhi,2,6,0,-,1,0,0,0,caught,1,2.0,0,21,1,10.5
+32966,Piyush Chawla,13 Oct 2009,v Eagles,Delhi,1,8,9*,-,7,1,0,128.57,not out,2,4.0,0,17,2,4.25
+32966,Piyush Chawla,20 Oct 2009,v Railways,Indore,2,5,25,23,16,2,0,156.25,caught,1,4.0,0,35,3,8.75
+32966,Piyush Chawla,23 Oct 2009,v M. Pradesh,Indore,1,7,17,11,12,2,0,141.66,caught,2,3.5,0,31,1,8.08
+32966,Piyush Chawla,24 Oct 2009,v Vidarbha,Indore,1,6,7,11,13,0,0,53.84,lbw,2,4.0,0,27,0,6.75
+32966,Piyush Chawla,13 Mar 2010,v Daredevils,Mohali,1,8,5,-,7,0,0,71.42,caught,2,4.0,0,33,0,8.25
+32966,Piyush Chawla,16 Mar 2010,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+32966,Piyush Chawla,19 Mar 2010,v Chargers,Cuttack,2,8,9,-,13,1,0,69.23,caught,1,3.0,0,24,0,8
+32966,Piyush Chawla,21 Mar 2010,v CSK,Chennai,1,8,8*,-,4,2,0,200,not out,2,4.0,0,27,1,6.75
+32966,Piyush Chawla,24 Mar 2010,v RR,Mohali,2,8,8,-,8,1,0,100,caught,1,4.0,0,29,1,7.25
+32966,Piyush Chawla,27 Mar 2010,v KKR,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+32966,Piyush Chawla,30 Mar 2010,v MI,Brabourne,1,9,22,-,13,3,0,169.23,run out,2,3.0,0,32,1,10.66
+32966,Piyush Chawla,2 Apr 2010,v RCB,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+32966,Piyush Chawla,4 Apr 2010,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,26,0,13
+32966,Piyush Chawla,7 Apr 2010,v RR,Jaipur,1,7,10,-,15,0,0,66.66,caught,2,4.0,0,27,0,6.75
+32966,Piyush Chawla,9 Apr 2010,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+32966,Piyush Chawla,11 Apr 2010,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+32966,Piyush Chawla,16 Apr 2010,v Chargers,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+32966,Piyush Chawla,18 Apr 2010,v CSK,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+32966,Piyush Chawla,2 May 2010,v South Africa,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+32966,Piyush Chawla,11 May 2010,v Sri Lanka,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+32966,Piyush Chawla,12 Jun 2010,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+32966,Piyush Chawla,20 Oct 2010,v M. Pradesh,Jaipur,1,5,17*,9,7,1,2,242.85,not out,2,4.0,0,38,0,9.5
+32966,Piyush Chawla,21 Oct 2010,v Rajasthan,Jaipur,2,7,1,-,2,0,0,50,caught,1,4.0,0,29,0,7.25
+32966,Piyush Chawla,22 Oct 2010,v Railways,Jaipur,1,5,27,27,19,3,1,142.1,run out,2,4.0,0,39,1,9.75
+32966,Piyush Chawla,24 Oct 2010,v Vidarbha,Jaipur,2,6,12,18,16,1,0,75,caught,1,4.0,0,17,1,4.25
+32966,Piyush Chawla,10 Apr 2011,v Warriors,DY Patil,1,8,15,-,28,0,0,53.57,caught,2,1.0,0,12,0,12
+32966,Piyush Chawla,13 Apr 2011,v CSK,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+32966,Piyush Chawla,16 Apr 2011,v Chargers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+32966,Piyush Chawla,21 Apr 2011,v RR,Mohali,1,8,4,-,3,1,0,133.33,bowled,2,4.0,0,24,1,6
+32966,Piyush Chawla,23 Apr 2011,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+32966,Piyush Chawla,30 Apr 2011,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.2,0,29,0,8.7
+32966,Piyush Chawla,2 May 2011,v MI,Wankhede,2,8,10*,-,10,1,0,100,not out,1,4.0,0,37,2,9.25
+32966,Piyush Chawla,6 May 2011,v RCB,Bengaluru,2,8,5,8,6,0,0,83.33,bowled,1,4.0,0,37,2,9.25
+32966,Piyush Chawla,13 May 2011,v Kochi,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+32966,Piyush Chawla,15 May 2011,v Daredevils,Dharamsala,1,8,1*,-,1,0,0,100,not out,2,4.0,0,16,3,4
+32966,Piyush Chawla,17 May 2011,v RCB,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,4,4.25
+32966,Piyush Chawla,21 May 2011,v Chargers,Dharamsala,2,8,13*,-,7,0,2,185.71,not out,1,4.0,0,48,0,12
+32966,Piyush Chawla,21 Oct 2011,v Vidarbha,Indore,2,5,27,15,13,2,2,207.69,caught,1,4.0,0,42,1,10.5
+32966,Piyush Chawla,22 Oct 2011,v Railways,Indore,1,6,0,2,4,0,0,0,caught,2,4.0,0,18,1,4.5
+32966,Piyush Chawla,24 Oct 2011,v Rajasthan,Indore,1,6,39*,26,25,3,2,156,not out,2,4.0,0,27,3,6.75
+32966,Piyush Chawla,25 Oct 2011,v M. Pradesh,Indore,2,6,34,22,17,1,3,200,run out,1,2.0,0,27,0,13.5
+32966,Piyush Chawla,6 Apr 2012,v RR,Jaipur,2,8,10,11,8,0,1,125,bowled,1,4.0,0,33,1,8.25
+32966,Piyush Chawla,8 Apr 2012,v Warriors,Pune,2,6,16,11,8,2,1,200,caught,1,2.0,0,14,0,7
+32966,Piyush Chawla,12 Apr 2012,v Warriors,Mohali,2,5,21*,26,24,3,0,87.5,not out,1,4.0,0,23,1,5.75
+32966,Piyush Chawla,15 Apr 2012,v KKR,Eden Gardens,1,8,13*,14,8,0,1,162.5,not out,2,4.0,0,18,3,4.5
+32966,Piyush Chawla,18 Apr 2012,v KKR,Mohali,1,8,9,11,10,0,0,90,bowled,2,4.0,0,19,2,4.75
+32966,Piyush Chawla,20 Apr 2012,v RCB,Mohali,1,8,7*,3,3,1,0,233.33,not out,2,4.0,0,21,1,5.25
+32966,Piyush Chawla,22 Apr 2012,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+32966,Piyush Chawla,25 Apr 2012,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+32966,Piyush Chawla,28 Apr 2012,v CSK,Chennai,1,7,0,2,2,0,0,0,caught,2,4.0,0,20,2,5
+32966,Piyush Chawla,2 May 2012,v RCB,Bengaluru,2,8,6*,7,2,0,1,300,not out,1,3.0,0,35,1,11.66
+32966,Piyush Chawla,5 May 2012,v RR,Mohali,2,8,5,3,4,1,0,125,bowled,1,4.0,0,38,2,9.5
+32966,Piyush Chawla,8 May 2012,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+32966,Piyush Chawla,13 May 2012,v Chargers,Mohali,2,7,8,2,3,2,0,266.66,caught,1,3.0,0,27,0,9
+32966,Piyush Chawla,15 May 2012,v Daredevils,Delhi,1,8,10,20,14,0,0,71.42,caught,2,4.0,1,33,1,8.25
+32966,Piyush Chawla,17 May 2012,v CSK,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+32966,Piyush Chawla,19 May 2012,v Daredevils,Dharamsala,1,8,1,3,2,0,0,50,bowled,2,4.0,0,28,0,7
+32966,Piyush Chawla,23 Sep 2012,v England,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,13,2,3.25
+32966,Piyush Chawla,28 Sep 2012,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+32966,Piyush Chawla,20 Dec 2012,v England,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+32966,Piyush Chawla,22 Dec 2012,v England,Wankhede,1,9,0,3,1,0,0,0,run out,2,4.0,0,31,0,7.75
+32966,Piyush Chawla,17 Mar 2013,v Railways,Nagpur,2,6,26*,17,15,1,2,173.33,not out,1,4.0,1,31,0,7.75
+32966,Piyush Chawla,19 Mar 2013,v M. Pradesh,Nagpur,1,6,1,1,2,0,0,50,stumped,2,4.0,0,32,1,8
+32966,Piyush Chawla,21 Mar 2013,v Rajasthan,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+32966,Piyush Chawla,22 Mar 2013,v Vidarbha,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+32966,Piyush Chawla,27 Mar 2013,v Bengal,Indore,2,6,10,-,11,1,0,90.9,caught,1,4.0,0,41,0,10.25
+32966,Piyush Chawla,28 Mar 2013,v Karnataka,Indore,1,7,0,4,1,0,0,0,bowled,2,2.0,0,27,0,13.5
+32966,Piyush Chawla,29 Mar 2013,v Baroda,Indore,2,6,21,21,11,1,2,190.9,caught,1,4.0,0,34,0,8.5
+32966,Piyush Chawla,30 Mar 2013,v Punjab,Indore,2,6,29,21,19,1,2,152.63,caught,1,4.0,0,31,1,7.75
+32966,Piyush Chawla,7 Apr 2013,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+32966,Piyush Chawla,10 Apr 2013,v CSK,Mohali,1,8,4,6,5,1,0,80,caught,2,4.0,0,21,0,5.25
+32966,Piyush Chawla,14 Apr 2013,v RR,Jaipur,1,8,7,13,9,0,0,77.77,caught,2,3.2,0,22,1,6.6
+32966,Piyush Chawla,16 Apr 2013,v KKR,Mohali,1,9,11*,20,8,2,0,137.5,not out,2,3.0,0,28,0,9.33
+32966,Piyush Chawla,19 Apr 2013,v SRH,Hyderabad,1,5,23,22,15,1,2,153.33,run out,2,4.0,0,25,1,6.25
+32966,Piyush Chawla,21 Apr 2013,v Warriors,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+32966,Piyush Chawla,23 Apr 2013,v Daredevils,Delhi,2,7,5*,7,3,1,0,166.66,not out,1,2.0,0,17,0,8.5
+32966,Piyush Chawla,26 Apr 2013,v KKR,Eden Gardens,1,8,0*,5,2,0,0,0,not out,2,4.0,0,33,0,8.25
+32966,Piyush Chawla,29 Apr 2013,v MI,Wankhede,2,9,12,19,10,0,1,120,caught,1,2.0,0,24,1,12
+32966,Piyush Chawla,2 May 2013,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+32966,Piyush Chawla,6 May 2013,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+32966,Piyush Chawla,9 May 2013,v RR,Mohali,1,8,1*,1,1,0,0,100,not out,2,4.0,0,27,1,6.75
+32966,Piyush Chawla,11 May 2013,v SRH,Mohali,2,7,0,2,2,0,0,0,caught,1,4.0,0,20,1,5
+32966,Piyush Chawla,14 May 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+32966,Piyush Chawla,16 May 2013,v Daredevils,Dharamsala,1,6,0*,1,0,0,0,-,not out,2,4.0,0,44,2,11
+32966,Piyush Chawla,18 May 2013,v MI,Dharamsala,1,8,1,2,2,0,0,50,run out,2,4.0,0,20,2,5
+32966,Piyush Chawla,31 Mar 2014,v Vidarbha,Nagpur,1,6,37*,37,24,5,1,154.16,not out,2,4.0,0,41,3,10.25
+32966,Piyush Chawla,1 Apr 2014,v Rajasthan,Nagpur,2,6,6,11,5,1,0,120,caught,1,4.0,0,21,2,5.25
+32966,Piyush Chawla,2 Apr 2014,v M. Pradesh,Nagpur,2,6,45*,57,35,3,1,128.57,not out,1,4.0,0,20,2,5
+32966,Piyush Chawla,5 Apr 2014,v Railways,Nagpur,1,6,6,3,2,0,1,300,lbw,2,4.0,0,14,2,3.5
+32966,Piyush Chawla,16 Apr 2014,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+32966,Piyush Chawla,19 Apr 2014,v Daredevils,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.3,0,27,1,10.8
+32966,Piyush Chawla,26 Apr 2014,v Kings XI,Abu Dhabi,2,8,0,3,2,0,0,0,stumped,1,4.0,0,19,3,4.75
+32966,Piyush Chawla,29 Apr 2014,v RR,Abu Dhabi,2,9,0,3,1,0,0,0,run out,1,3.0,0,27,0,9
+32966,Piyush Chawla,2 May 2014,v CSK,Ranchi,2,9,1,-,2,0,0,50,caught,1,3.0,0,31,0,10.33
+32966,Piyush Chawla,11 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+32966,Piyush Chawla,14 May 2014,v MI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+32966,Piyush Chawla,18 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+32966,Piyush Chawla,20 May 2014,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+32966,Piyush Chawla,27 May 2014,v Kings XI,Eden Gardens,1,8,17*,13,9,3,0,188.88,not out,2,4.0,0,23,1,5.75
+32966,Piyush Chawla,1 Jun 2014,v Kings XI,Bengaluru,2,8,13*,16,5,1,1,260,not out,1,4.0,0,44,2,11
+32966,Piyush Chawla,17 Sep 2014,v CSK,Hyderabad,2,9,4*,1,1,1,0,400,not out,1,4.0,0,26,2,6.5
+32966,Piyush Chawla,21 Sep 2014,v Lahore Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+32966,Piyush Chawla,24 Sep 2014,v Scorchers,Hyderabad,2,9,5*,2,2,1,0,250,not out,1,4.0,0,35,0,8.75
+32966,Piyush Chawla,29 Sep 2014,v Dolphins,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+32966,Piyush Chawla,2 Oct 2014,v Hurricanes,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+32966,Piyush Chawla,4 Oct 2014,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+32966,Piyush Chawla,24 Mar 2015,v Vidarbha,Indore,1,7,1,4,3,0,0,33.33,caught,2,4.0,0,17,3,4.25
+32966,Piyush Chawla,25 Mar 2015,v Rajasthan,Indore,2,7,14,20,13,1,0,107.69,bowled,1,4.0,0,25,1,6.25
+32966,Piyush Chawla,27 Mar 2015,v M. Pradesh,Indore,2,8,0,3,2,0,0,0,lbw,1,2.0,0,20,0,10
+32966,Piyush Chawla,29 Mar 2015,v Railways,Indore,1,5,44,51,36,5,0,122.22,caught,2,4.0,0,28,1,7
+32966,Piyush Chawla,8 Apr 2015,v MI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+32966,Piyush Chawla,11 Apr 2015,v RCB,Eden Gardens,1,8,0*,1,0,0,0,-,not out,2,1.0,0,10,0,10
+32966,Piyush Chawla,18 Apr 2015,v Kings XI,Pune,2,8,4*,1,1,1,0,400,not out,1,4.0,0,29,0,7.25
+32966,Piyush Chawla,20 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+32966,Piyush Chawla,22 Apr 2015,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+32966,Piyush Chawla,28 Apr 2015,v CSK,Chennai,2,9,0,4,2,0,0,0,caught,1,4.0,0,26,2,6.5
+32966,Piyush Chawla,30 Apr 2015,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+32966,Piyush Chawla,2 May 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,1,10.5
+32966,Piyush Chawla,4 May 2015,v SRH,Eden Gardens,1,9,9*,11,6,1,0,150,not out,2,4.0,0,16,1,4
+32966,Piyush Chawla,7 May 2015,v Daredevils,Eden Gardens,1,4,22,31,19,1,1,115.78,caught,2,4.0,0,32,4,8
+32966,Piyush Chawla,9 May 2015,v Kings XI,Eden Gardens,2,8,18,18,11,2,1,163.63,caught,1,3.0,0,35,0,11.66
+32966,Piyush Chawla,14 May 2015,v MI,Wankhede,2,8,1*,17,7,0,0,14.28,not out,1,1.0,0,9,0,9
+32966,Piyush Chawla,16 May 2015,v RR,Brabourne,2,9,0,4,1,0,0,0,caught,1,1.0,0,12,0,12
+32966,Piyush Chawla,2 Jan 2016,v Maharashtra,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,4,9.33
+32966,Piyush Chawla,3 Jan 2016,v Odisha,Cuttack,1,5,12*,12,7,0,1,171.42,not out,2,4.0,0,18,2,4.5
+32966,Piyush Chawla,4 Jan 2016,v Karnataka,Cuttack,2,6,7,6,6,0,1,116.66,run out,1,4.0,0,24,2,6
+32966,Piyush Chawla,7 Jan 2016,v Mumbai,Cuttack,2,7,6,12,5,1,0,120,caught,1,4.0,0,21,2,5.25
+32966,Piyush Chawla,8 Jan 2016,v Services,Cuttack,1,7,5,10,6,1,0,83.33,caught,2,4.0,0,25,2,6.25
+32966,Piyush Chawla,15 Jan 2016,v Jharkhand,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+32966,Piyush Chawla,16 Jan 2016,v Gujarat,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+32966,Piyush Chawla,18 Jan 2016,v Delhi,Mumbai,2,7,10,10,8,0,1,125,run out,1,4.0,0,31,2,7.75
+32966,Piyush Chawla,20 Jan 2016,v Baroda,Wankhede,1,5,17,13,13,1,1,130.76,lbw,2,4.0,0,16,0,4
+32966,Piyush Chawla,10 Apr 2016,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+32966,Piyush Chawla,13 Apr 2016,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.1,0,29,1,9.15
+32966,Piyush Chawla,16 Apr 2016,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,1.0,0,13,0,13
+32966,Piyush Chawla,19 Apr 2016,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+32966,Piyush Chawla,24 Apr 2016,v Supergiants,Pune,2,8,8,10,5,1,0,160,caught,1,3.0,0,26,0,8.66
+32966,Piyush Chawla,30 Apr 2016,v Daredevils,Delhi,2,3,8,7,5,2,0,160,lbw,1,2.0,0,24,0,12
+32966,Piyush Chawla,2 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+32966,Piyush Chawla,4 May 2016,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+32966,Piyush Chawla,8 May 2016,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+32966,Piyush Chawla,14 May 2016,v Supergiants,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+32966,Piyush Chawla,16 May 2016,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.1,0,32,0,10.1
+32966,Piyush Chawla,19 May 2016,v Guj Lions,Kanpur,1,4,11,23,16,1,0,68.75,bowled,2,DNB,-,-,-,-
+32966,Piyush Chawla,29 Jan 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+32966,Piyush Chawla,2 Feb 2017,v Railways,Jaipur,2,7,9,10,7,1,0,128.57,caught,1,4.0,0,31,1,7.75
+32966,Piyush Chawla,3 Feb 2017,v M. Pradesh,Jaipur,2,7,24,22,18,3,1,133.33,caught,1,4.0,0,37,3,9.25
+32966,Piyush Chawla,5 Feb 2017,v Vidarbha,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+32966,Piyush Chawla,7 Apr 2017,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+32966,Piyush Chawla,13 Apr 2017,v Kings XI,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+32966,Piyush Chawla,26 Apr 2017,v Supergiant,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+32966,Piyush Chawla,7 May 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+32966,Piyush Chawla,17 May 2017,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+32966,Piyush Chawla,19 May 2017,v MI,Bengaluru,1,8,2,10,6,0,0,33.33,caught,2,4.0,0,34,2,8.5
+32966,Piyush Chawla,7 Jan 2018,v Maharashtra,Rajkot,1,3,0,1,1,0,0,0,caught,2,4.0,0,27,3,6.75
+32966,Piyush Chawla,8 Jan 2018,v Mumbai,Rajkot,1,8,1*,6,2,0,0,50,not out,2,4.0,0,29,2,7.25
+32966,Piyush Chawla,10 Jan 2018,v Baroda,Rajkot,2,7,4,1,3,1,0,133.33,stumped,1,4.0,0,45,3,11.25
+32966,Piyush Chawla,13 Jan 2018,v Saurashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+32966,Piyush Chawla,8 Apr 2018,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+32966,Piyush Chawla,10 Apr 2018,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+32966,Piyush Chawla,14 Apr 2018,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+32966,Piyush Chawla,16 Apr 2018,v Daredevils,Eden Gardens,1,9,0,-,3,0,0,0,caught,2,2.0,0,16,1,8
+32966,Piyush Chawla,18 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+32966,Piyush Chawla,21 Apr 2018,v Kings XI,Eden Gardens,1,9,2*,-,2,0,0,100,not out,2,2.0,0,24,0,12
+32966,Piyush Chawla,27 Apr 2018,v Daredevils,Delhi,2,9,2,-,4,0,0,50,caught,1,4.0,0,33,1,8.25
+32966,Piyush Chawla,29 Apr 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+32966,Piyush Chawla,3 May 2018,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+32966,Piyush Chawla,6 May 2018,v MI,Wankhede,2,8,0*,-,0,0,0,-,not out,1,3.0,0,35,0,11.66
+32966,Piyush Chawla,9 May 2018,v MI,Eden Gardens,2,9,11,-,13,1,0,84.61,caught,1,4.0,0,48,3,12
+32966,Piyush Chawla,12 May 2018,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+32966,Piyush Chawla,19 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+32966,Piyush Chawla,23 May 2018,v RR,Eden Gardens,1,9,0*,-,0,0,0,-,not out,2,4.0,0,24,2,6
+32966,Piyush Chawla,25 May 2018,v SRH,Eden Gardens,2,8,12,-,12,0,1,100,bowled,1,3.0,0,22,1,7.33
+32966,Piyush Chawla,21 Feb 2019,v Meghalaya,Surat,1,8,20*,-,20,2,0,100,not out,2,4.0,0,17,3,4.25
+32966,Piyush Chawla,22 Feb 2019,v Rajasthan,Surat,2,7,4,-,2,1,0,200,caught,1,4.0,0,20,0,5
+32966,Piyush Chawla,24 Feb 2019,v Himachal,Surat,1,6,20,-,9,2,1,222.22,bowled,2,3.1,0,15,2,4.73
+32966,Piyush Chawla,25 Feb 2019,v Tamil Nadu,Surat,2,7,0,-,2,0,0,0,stumped,1,4.0,0,16,2,4
+32966,Piyush Chawla,27 Feb 2019,v Bihar,Surat,1,6,41*,-,13,5,2,315.38,not out,2,3.0,0,23,1,7.66
+32966,Piyush Chawla,2 Mar 2019,v Vidarbha,Surat,1,7,0,-,1,0,0,0,caught,2,3.2,0,24,0,7.2
+32966,Piyush Chawla,8 Mar 2019,v Jharkhand,Indore,2,6,20,12,11,1,2,181.81,caught,1,4.0,0,35,1,8.75
+32966,Piyush Chawla,10 Mar 2019,v Maharashtra,Indore,1,7,11,11,7,2,0,157.14,caught,2,4.0,0,24,2,6
+32966,Piyush Chawla,11 Mar 2019,v Railways,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,12,3,3
+32966,Piyush Chawla,12 Mar 2019,v Bengal,Indore,1,8,1,3,2,0,0,50,caught,2,4.0,0,27,0,6.75
+32966,Piyush Chawla,24 Mar 2019,v SRH,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+32966,Piyush Chawla,27 Mar 2019,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+32966,Piyush Chawla,30 Mar 2019,v DC,Delhi,1,8,12,11,5,1,1,240,run out,2,4.0,0,36,1,9
+32966,Piyush Chawla,5 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+32966,Piyush Chawla,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+32966,Piyush Chawla,9 Apr 2019,v CSK,Chennai,1,8,8,25,13,0,1,61.53,stumped,2,4.0,0,28,1,7
+32966,Piyush Chawla,12 Apr 2019,v DC,Eden Gardens,1,8,14*,9,6,2,0,233.33,not out,2,2.5,0,35,0,12.35
+32966,Piyush Chawla,14 Apr 2019,v CSK,Eden Gardens,1,8,4*,15,5,0,0,80,not out,2,3.4,0,32,2,8.72
+32966,Piyush Chawla,19 Apr 2019,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+32966,Piyush Chawla,21 Apr 2019,v SRH,Hyderabad,1,8,4,15,8,1,0,50,caught,2,3.0,0,38,0,12.66
+32966,Piyush Chawla,25 Apr 2019,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+32966,Piyush Chawla,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,57,1,14.25
+32966,Piyush Chawla,3 May 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+32966,Piyush Chawla,11 Nov 2019,v Saurashtra,Surat,2,8,32,-,21,2,2,152.38,caught,1,4.0,0,43,0,10.75
+32966,Piyush Chawla,12 Nov 2019,v Nagaland,Surat,1,8,6*,-,3,1,0,200,not out,2,4.0,0,7,1,1.75
+32966,Piyush Chawla,14 Nov 2019,v Sikkim,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,2,4,3,1
+32966,Piyush Chawla,15 Nov 2019,v Odisha,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,3,2.25
+32966,Piyush Chawla,17 Nov 2019,v Jharkhand,Surat,1,8,13,-,13,1,0,100,run out,2,4.0,0,42,0,10.5
+32966,Piyush Chawla,18 Nov 2019,v J & K,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+32966,Piyush Chawla,19 Sep 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+32966,Piyush Chawla,22 Sep 2020,v RR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,55,1,13.75
+32966,Piyush Chawla,25 Sep 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+32966,Piyush Chawla,2 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+32966,Piyush Chawla,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,1,11
+32966,Piyush Chawla,13 Oct 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+32966,Piyush Chawla,19 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+32966,Piyush Chawla,10 Jan 2021,v Maharashtra,Vadodara,1,6,11,9,8,2,0,137.5,caught,2,4.0,0,27,0,6.75
+32966,Piyush Chawla,12 Jan 2021,v Uttarakhand,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,3,3
+32966,Piyush Chawla,14 Jan 2021,v Himachal,Vadodara,2,7,39,-,27,2,3,144.44,caught,1,4.0,1,23,0,5.75
+32966,Piyush Chawla,16 Jan 2021,v Chhattisgarh,Vadodara,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,2,10
+32966,Piyush Chawla,18 Jan 2021,v Baroda,Vadodara,2,7,2,-,3,0,0,66.66,bowled,1,4.0,0,36,0,9
+32966,Piyush Chawla,8 Oct 2021,v SRH,Abu Dhabi,1,9,0,16,2,0,0,0,caught,2,4.0,0,38,1,9.5
+32966,Piyush Chawla,4 Nov 2021,v Kerala,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+32966,Piyush Chawla,5 Nov 2021,v Assam,Delhi,1,7,21,-,31,1,0,67.74,bowled,2,4.0,0,29,2,7.25
+32966,Piyush Chawla,6 Nov 2021,v M. Pradesh,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+32966,Piyush Chawla,8 Nov 2021,v Railways,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+32966,Piyush Chawla,9 Nov 2021,v Bihar,Delhi,2,7,27*,-,25,2,1,108,not out,1,4.0,0,24,0,6
+32966,Piyush Chawla,18 Nov 2021,v Hyderabad,Delhi,2,5,25,-,20,2,1,125,caught,1,4.0,1,9,2,2.25
+32966,Piyush Chawla,14 Oct 2022,v Baroda,Indore,2,8,0,-,2,0,0,0,bowled,1,4.0,0,33,0,8.25
+32966,Piyush Chawla,16 Oct 2022,v Saurashtra,Indore,1,7,5*,-,7,0,0,71.42,not out,2,4.0,0,26,2,6.5
+32966,Piyush Chawla,18 Oct 2022,v Nagaland,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+32966,Piyush Chawla,20 Oct 2022,v Andhra,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,2,4.25
+32966,Piyush Chawla,22 Oct 2022,v Bihar,Indore,2,8,10*,-,2,1,1,500,not out,1,4.0,0,40,1,10
+32966,Piyush Chawla,2 Apr 2023,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+32966,Piyush Chawla,8 Apr 2023,v CSK,Wankhede,1,10,5*,15,6,0,0,83.33,not out,2,4.0,0,33,1,8.25
+32966,Piyush Chawla,11 Apr 2023,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+32966,Piyush Chawla,16 Apr 2023,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+32966,Piyush Chawla,18 Apr 2023,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+32966,Piyush Chawla,22 Apr 2023,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+32966,Piyush Chawla,25 Apr 2023,v GT,Ahmedabad,2,8,18,22,12,1,1,150,run out,1,4.0,0,34,2,8.5
+32966,Piyush Chawla,30 Apr 2023,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+32966,Piyush Chawla,3 May 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+32966,Piyush Chawla,6 May 2023,v CSK,Chennai,1,10,2*,2,2,0,0,100,not out,2,4.0,0,25,2,6.25
+32966,Piyush Chawla,9 May 2023,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+32966,Piyush Chawla,12 May 2023,v GT,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+32966,Piyush Chawla,16 May 2023,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+32966,Piyush Chawla,21 May 2023,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+32966,Piyush Chawla,24 May 2023,v LSG,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+32966,Piyush Chawla,26 May 2023,v GT,Ahmedabad,2,9,0,5,2,0,0,0,caught,1,3.0,0,45,1,15
+32966,Piyush Chawla,16 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+32966,Piyush Chawla,17 Oct 2023,v Saurashtra,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+32966,Piyush Chawla,19 Oct 2023,v Goa,Ranchi,1,8,4*,-,1,1,0,400,not out,2,4.0,0,38,1,9.5
+32966,Piyush Chawla,21 Oct 2023,v Andhra,Ranchi,1,9,2,-,3,0,0,66.66,caught,2,4.0,0,29,0,7.25
+32966,Piyush Chawla,23 Oct 2023,v Punjab,Ranchi,2,9,5*,-,6,1,0,83.33,not out,1,2.0,0,28,0,14
+32966,Piyush Chawla,25 Oct 2023,v Railways,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,0,13.33
+32966,Piyush Chawla,31 Oct 2023,v UP,Mohali,1,10,13*,-,8,2,0,162.5,not out,2,4.0,0,19,0,4.75
+32966,Piyush Chawla,24 Mar 2024,v GT,Ahmedabad,2,10,0,1,1,0,0,0,caught,1,3.0,0,31,1,10.33
+32966,Piyush Chawla,27 Mar 2024,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,34,1,17
+32966,Piyush Chawla,1 Apr 2024,v RR,Wankhede,1,7,3,9,6,0,0,50,caught,2,3.0,0,18,0,6
+32966,Piyush Chawla,7 Apr 2024,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,0,16
+32966,Piyush Chawla,22 Apr 2024,v RR,Jaipur,1,10,1*,3,1,0,0,100,not out,2,4.0,0,33,1,8.25
+32966,Piyush Chawla,27 Apr 2024,v DC,Delhi,2,9,10,9,4,1,1,250,caught,1,4.0,0,36,1,9
+32966,Piyush Chawla,30 Apr 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+32966,Piyush Chawla,3 May 2024,v KKR,Wankhede,2,10,0,1,1,0,0,0,caught,1,3.0,0,15,1,5
+32966,Piyush Chawla,6 May 2024,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+32966,Piyush Chawla,11 May 2024,v KKR,Eden Gardens,2,10,1*,2,2,0,0,50,not out,1,3.0,0,28,2,9.33
+32966,Piyush Chawla,17 May 2024,v LSG,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+32966,Piyush Chawla,23 Nov 2024,v Delhi,Wankhede,2,9,0*,-,1,0,0,0,not out,1,4.0,0,52,0,13
+32966,Piyush Chawla,25 Nov 2024,v Himachal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,4,3
+32966,Piyush Chawla,3 Dec 2025,v Warriorz,Sharjah,1,-,sub,-,-,-,-,-,-,2,2.0,0,36,1,18
+32966,Piyush Chawla,5 Dec 2025,v Vipers,Sharjah,1,-,sub,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+32966,Piyush Chawla,7 Dec 2025,v DC,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+32966,Piyush Chawla,18 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,4.0,0,27,4,6.75
+32966,Piyush Chawla,20 Dec 2025,v MI Emirates,Abu Dhabi,2,-,sub,-,-,-,-,-,-,1,3.0,0,24,1,8
+32966,Piyush Chawla,28 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+32966,Piyush Chawla,1 Jan 2026,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+32966,Piyush Chawla,2 Jan 2026,v MI Emirates,Sharjah,1,10,3*,7,3,0,0,100,not out,2,2.1,0,21,0,9.69

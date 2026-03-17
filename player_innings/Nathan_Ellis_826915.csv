@@ -1,0 +1,187 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+826915,Nathan Ellis,5 Oct 2018,v Qalandars,Abu Dhabi,2,9,11*,-,7,0,1,157.14,not out,1,4.0,0,28,1,7
+826915,Nathan Ellis,6 Oct 2018,v Yorkshire,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,1.5,0,23,0,12.54
+826915,Nathan Ellis,20 Dec 2019,v Sixers,Alice Springs,1,8,6*,-,6,0,0,100,not out,2,3.0,0,22,0,7.33
+826915,Nathan Ellis,22 Dec 2019,v Stars,Moe,2,8,12,-,10,1,0,120,bowled,1,4.0,0,31,0,7.75
+826915,Nathan Ellis,24 Dec 2019,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,3,5
+826915,Nathan Ellis,30 Dec 2019,v Stars,Launceston,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,0,5
+826915,Nathan Ellis,3 Jan 2020,v Heat,Hobart,2,7,0,-,2,0,0,0,caught,1,4.0,0,49,0,12.25
+826915,Nathan Ellis,5 Jan 2020,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+826915,Nathan Ellis,9 Jan 2020,v Heat,Brisbane,1,9,13*,-,11,2,0,118.18,not out,2,4.0,0,22,0,5.5
+826915,Nathan Ellis,11 Jan 2020,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.4,0,36,0,9.81
+826915,Nathan Ellis,13 Jan 2020,v Scorchers,Hobart,2,9,0,-,1,0,0,0,bowled,1,4.0,0,33,1,8.25
+826915,Nathan Ellis,16 Jan 2020,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,1.4,0,12,0,7.2
+826915,Nathan Ellis,19 Jan 2020,v Strikers,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+826915,Nathan Ellis,21 Jan 2020,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+826915,Nathan Ellis,24 Jan 2020,v Thunder,Hobart,1,8,4*,-,3,0,0,133.33,not out,2,2.3,0,12,1,4.8
+826915,Nathan Ellis,26 Jan 2020,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+826915,Nathan Ellis,30 Jan 2020,v Thunder,Hobart,2,9,5,-,7,0,0,71.42,caught,1,4.0,0,18,1,4.5
+826915,Nathan Ellis,10 Dec 2020,v Sixers,Hobart,1,8,14,-,5,0,2,280,caught,2,4.0,0,37,1,9.25
+826915,Nathan Ellis,13 Dec 2020,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+826915,Nathan Ellis,15 Dec 2020,v Strikers,Launceston,1,9,1,-,2,0,0,50,run out,2,3.4,0,36,2,9.81
+826915,Nathan Ellis,19 Dec 2020,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+826915,Nathan Ellis,27 Dec 2020,v Heat,Brisbane,1,8,6,-,4,1,0,150,caught,2,3.0,0,24,1,8
+826915,Nathan Ellis,30 Dec 2020,v Heat,Brisbane,1,8,11*,-,6,0,1,183.33,not out,2,4.0,0,40,1,10
+826915,Nathan Ellis,2 Jan 2021,v Stars,Hobart,1,4,0,-,1,0,0,0,caught,2,4.0,0,11,2,2.75
+826915,Nathan Ellis,4 Jan 2021,v Stars,Hobart,2,7,2*,-,2,0,0,100,not out,1,4.0,0,31,3,7.75
+826915,Nathan Ellis,7 Jan 2021,v Thunder,Perth,2,8,9*,-,11,1,0,81.81,not out,1,4.0,0,32,0,8
+826915,Nathan Ellis,12 Jan 2021,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+826915,Nathan Ellis,18 Jan 2021,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+826915,Nathan Ellis,22 Jan 2021,v Scorchers,Melbourne (Docklands),2,8,9,-,7,1,0,128.57,caught,1,4.0,0,34,4,8.5
+826915,Nathan Ellis,24 Jan 2021,v Sixers,Melbourne,1,7,2,-,3,0,0,66.66,caught,2,4.0,0,36,3,9
+826915,Nathan Ellis,26 Jan 2021,v Renegades,Melbourne,2,8,7,-,5,1,0,140,caught,1,4.0,0,47,0,11.75
+826915,Nathan Ellis,6 Aug 2021,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,3,8.5
+826915,Nathan Ellis,9 Aug 2021,v Bangladesh,Mirpur,2,9,1,7,7,0,0,14.28,bowled,1,4.0,0,16,2,4
+826915,Nathan Ellis,25 Sep 2021,v SRH,Sharjah,1,8,12,16,12,0,1,100,caught,2,4.0,0,32,0,8
+826915,Nathan Ellis,28 Sep 2021,v MI,Abu Dhabi,1,8,6*,7,4,0,0,150,not out,2,3.0,0,12,1,4
+826915,Nathan Ellis,1 Oct 2021,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+826915,Nathan Ellis,8 Dec 2021,v Sixers,Launceston,2,8,3,12,4,0,0,75,caught,1,4.0,0,34,2,8.5
+826915,Nathan Ellis,11 Dec 2021,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+826915,Nathan Ellis,14 Dec 2021,v Scorchers,Hobart,2,8,1,5,2,0,0,50,bowled,1,4.0,0,33,2,8.25
+826915,Nathan Ellis,20 Dec 2021,v Scorchers,Hobart,2,8,20,25,15,2,0,133.33,stumped,1,4.0,0,35,0,8.75
+826915,Nathan Ellis,24 Dec 2021,v Stars,Hobart,1,8,0*,7,0,0,0,-,not out,2,4.0,0,27,2,6.75
+826915,Nathan Ellis,27 Dec 2021,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+826915,Nathan Ellis,29 Dec 2021,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,0,4.66
+826915,Nathan Ellis,1 Jan 2022,v Heat,Hobart,2,8,18,20,10,2,1,180,caught,1,4.0,0,41,3,10.25
+826915,Nathan Ellis,5 Apr 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,4,7
+826915,Nathan Ellis,20 Apr 2022,v DC,Brabourne,1,8,0,2,2,0,0,0,bowled,2,2.0,0,15,0,7.5
+826915,Nathan Ellis,22 May 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,3,10
+826915,Nathan Ellis,27 May 2022,v Middlesex,Southampton,2,8,4*,11,6,0,0,66.66,not out,1,4.0,0,30,1,7.5
+826915,Nathan Ellis,30 May 2022,v Somerset,Southampton,1,8,3,9,5,0,0,60,bowled,2,2.5,0,24,1,8.47
+826915,Nathan Ellis,31 May 2022,v Essex,Chelmsford,1,8,3*,6,3,0,0,100,not out,2,2.0,0,9,1,4.5
+826915,Nathan Ellis,2 Jun 2022,v Surrey,The Oval,2,9,7,8,7,1,0,100,bowled,1,4.0,0,26,0,6.5
+826915,Nathan Ellis,4 Jun 2022,v Sussex,Southampton,1,8,2*,2,2,0,0,100,not out,2,4.0,0,24,1,6
+826915,Nathan Ellis,17 Jun 2022,v Kent,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+826915,Nathan Ellis,19 Jun 2022,v Surrey,Southampton,1,9,0*,1,0,0,0,-,not out,2,4.0,0,34,0,8.5
+826915,Nathan Ellis,23 Jun 2022,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+826915,Nathan Ellis,24 Jun 2022,v Gloucs,Bristol,1,9,0*,4,1,0,0,0,not out,2,4.0,0,41,1,10.25
+826915,Nathan Ellis,1 Jul 2022,v Gloucs,Southampton,1,8,6*,12,3,1,0,200,not out,2,3.4,0,14,1,3.81
+826915,Nathan Ellis,7 Jul 2022,v Bears,Birmingham,1,8,1*,2,1,0,0,100,not out,2,1.3,0,4,3,2.66
+826915,Nathan Ellis,16 Jul 2022,v Somerset,Birmingham,1,8,1*,2,1,0,0,100,not out,2,3.3,0,30,3,8.57
+826915,Nathan Ellis,16 Jul 2022,v Lancashire,Birmingham,1,8,2,7,5,0,0,40,caught,2,4.0,0,23,0,5.75
+826915,Nathan Ellis,4 Aug 2022,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,8.4
+826915,Nathan Ellis,8 Aug 2022,v Originals,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,0,4.8
+826915,Nathan Ellis,12 Aug 2022,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,9
+826915,Nathan Ellis,14 Aug 2022,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,8.1
+826915,Nathan Ellis,20 Aug 2022,v Rockets,Nottingham,1,9,5*,11,7,0,0,71.42,not out,2,3.0,0,21,1,8.4
+826915,Nathan Ellis,24 Aug 2022,v Fire,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,0,6.6
+826915,Nathan Ellis,27 Aug 2022,v Invincibles,Lord's,1,9,1*,5,5,0,0,20,not out,2,3.0,0,30,1,12
+826915,Nathan Ellis,30 Aug 2022,v Phoenix,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,10.5
+826915,Nathan Ellis,2 Sep 2022,v Originals,Southampton,1,9,1*,4,1,0,0,100,not out,2,3.4,0,32,2,10.1
+826915,Nathan Ellis,20 Sep 2022,v India,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+826915,Nathan Ellis,9 Oct 2022,v England,Perth,2,9,0,9,2,0,0,0,bowled,1,4.0,0,20,3,5
+826915,Nathan Ellis,16 Dec 2022,v Stars,Melbourne,2,9,0,3,1,0,0,0,caught,1,4.0,0,39,0,9.75
+826915,Nathan Ellis,19 Dec 2022,v Scorchers,Launceston,1,9,6,7,5,1,0,120,caught,2,4.0,0,38,1,9.5
+826915,Nathan Ellis,22 Dec 2022,v Sixers,Sydney,2,9,3*,-,3,0,0,100,not out,1,3.0,0,36,0,12
+826915,Nathan Ellis,24 Dec 2022,v Renegades,Hobart,1,9,21,24,18,1,0,116.66,caught,2,4.0,0,39,0,9.75
+826915,Nathan Ellis,31 Dec 2022,v Thunder,Albury,2,9,7,6,4,0,1,175,caught,1,4.0,0,37,4,9.25
+826915,Nathan Ellis,2 Jan 2023,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+826915,Nathan Ellis,5 Jan 2023,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+826915,Nathan Ellis,7 Jan 2023,v Renegades,Melbourne (Docklands),1,10,7*,9,9,0,0,77.77,not out,2,3.1,0,17,1,5.36
+826915,Nathan Ellis,9 Jan 2023,v Stars,Hobart,2,10,4*,3,1,1,0,400,not out,1,4.0,0,12,2,3
+826915,Nathan Ellis,15 Jan 2023,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,4,6.75
+826915,Nathan Ellis,18 Jan 2023,v Scorchers,Perth,1,9,24,-,18,4,0,133.33,run out,2,3.3,0,33,0,9.42
+826915,Nathan Ellis,20 Jan 2023,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+826915,Nathan Ellis,23 Jan 2023,v Sixers,Hobart,2,9,20*,10,9,2,1,222.22,not out,1,4.0,0,27,1,6.75
+826915,Nathan Ellis,25 Jan 2023,v Heat,Launceston,1,9,2,5,3,0,0,66.66,caught,2,4.0,0,26,2,6.5
+826915,Nathan Ellis,1 Apr 2023,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+826915,Nathan Ellis,5 Apr 2023,v RR,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,4,7.5
+826915,Nathan Ellis,9 Apr 2023,v SRH,Hyderabad,1,10,0,10,5,0,0,0,bowled,2,3.0,0,28,0,9.33
+826915,Nathan Ellis,20 Apr 2023,v RCB,Mohali,2,10,1,5,2,0,0,50,bowled,1,4.0,0,41,1,10.25
+826915,Nathan Ellis,22 Apr 2023,v MI,Wankhede,1,-,sub,-,-,-,-,-,-,2,4.0,0,44,1,11
+826915,Nathan Ellis,3 May 2023,v MI,Mohali,1,-,sub,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+826915,Nathan Ellis,8 May 2023,v KKR,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+826915,Nathan Ellis,13 May 2023,v DC,Delhi,1,-,sub,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+826915,Nathan Ellis,17 May 2023,v DC,Dharamsala,2,-,sub,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+826915,Nathan Ellis,19 May 2023,v RR,Dharamsala,1,-,sub,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+826915,Nathan Ellis,24 May 2023,v Somerset,Taunton,1,9,14,22,12,1,1,116.66,caught,2,3.0,0,15,1,5
+826915,Nathan Ellis,26 May 2023,v Middlesex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+826915,Nathan Ellis,31 May 2023,v Surrey,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.5,0,46,0,12
+826915,Nathan Ellis,2 Jun 2023,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,2.1,0,10,3,4.61
+826915,Nathan Ellis,3 Jun 2023,v Sussex,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+826915,Nathan Ellis,6 Jun 2023,v Middlesex,Radlett,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+826915,Nathan Ellis,7 Jun 2023,v Somerset,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+826915,Nathan Ellis,9 Jun 2023,v Kent,Canterbury,1,9,0*,4,1,0,0,0,not out,2,4.0,0,29,2,7.25
+826915,Nathan Ellis,16 Jun 2023,v Sussex,Hove,2,10,15,8,6,1,1,250,lbw,1,4.0,0,29,1,7.25
+826915,Nathan Ellis,18 Jun 2023,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+826915,Nathan Ellis,20 Jun 2023,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,1.1,0,11,0,9.42
+826915,Nathan Ellis,23 Jun 2023,v Essex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,2,13.25
+826915,Nathan Ellis,30 Jun 2023,v Glamorgan,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+826915,Nathan Ellis,2 Jul 2023,v Gloucs,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+826915,Nathan Ellis,7 Jul 2023,v Worcs,Southampton,2,-,DNB,-,-,-,-,-,-,1,2.5,0,6,4,2.11
+826915,Nathan Ellis,15 Jul 2023,v Essex,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.3,0,27,1,10.8
+826915,Nathan Ellis,2 Aug 2023,v Invincibles,Lord's,1,10,3,5,5,0,0,60,run out,2,3.4,0,31,2,9.78
+826915,Nathan Ellis,5 Aug 2023,v Originals,Manchester,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,25,0,10
+826915,Nathan Ellis,8 Aug 2023,v Brave,Lord's,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+826915,Nathan Ellis,12 Aug 2023,v Rockets,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,12.9
+826915,Nathan Ellis,15 Aug 2023,v Invincibles,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,10.8
+826915,Nathan Ellis,18 Aug 2023,v N S-Chargers,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,8.4
+826915,Nathan Ellis,20 Aug 2023,v Fire,Cardiff,1,10,0,1,1,0,0,0,bowled,2,3.3,0,18,0,6
+826915,Nathan Ellis,30 Aug 2023,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+826915,Nathan Ellis,1 Sep 2023,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,3,6.25
+826915,Nathan Ellis,3 Sep 2023,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+826915,Nathan Ellis,23 Nov 2023,v India,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+826915,Nathan Ellis,26 Nov 2023,v India,Thiruvananthapuram,2,9,1,4,4,0,0,25,bowled,1,4.0,0,45,3,11.25
+826915,Nathan Ellis,28 Nov 2023,v India,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+826915,Nathan Ellis,3 Dec 2023,v India,Bengaluru,2,9,4*,20,6,0,0,66.66,not out,1,4.0,0,42,1,10.5
+826915,Nathan Ellis,11 Dec 2023,v Sixers,Launceston,1,9,2*,9,2,0,0,100,not out,2,4.0,0,29,1,7.25
+826915,Nathan Ellis,20 Dec 2023,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.1,0,35,0,11.05
+826915,Nathan Ellis,23 Dec 2023,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+826915,Nathan Ellis,28 Dec 2023,v Stars,Hobart,1,10,10,7,7,2,0,142.85,run out,2,2.0,0,13,1,6.5
+826915,Nathan Ellis,1 Jan 2024,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+826915,Nathan Ellis,4 Jan 2024,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+826915,Nathan Ellis,7 Jan 2024,v Heat,Brisbane,2,10,2*,3,2,0,0,100,not out,1,4.0,0,23,2,5.75
+826915,Nathan Ellis,9 Jan 2024,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,2,11
+826915,Nathan Ellis,11 Jan 2024,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+826915,Nathan Ellis,15 Jan 2024,v Stars,Melbourne,1,9,16,3,5,0,2,320,caught,2,4.0,0,29,2,7.25
+826915,Nathan Ellis,23 Feb 2024,v New Zealand,Auckland,1,9,11*,26,15,0,0,73.33,not out,2,3.0,0,16,2,5.33
+826915,Nathan Ellis,25 Feb 2024,v New Zealand,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+826915,Nathan Ellis,15 May 2024,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+826915,Nathan Ellis,5 Jun 2024,v Oman,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+826915,Nathan Ellis,11 Jun 2024,v Namibia,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.0,1,12,1,4
+826915,Nathan Ellis,15 Jun 2024,v Scotland,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+826915,Nathan Ellis,24 Jul 2024,v Brave,Southampton,1,9,0,4,3,0,0,0,caught,2,4.0,0,23,1,6.9
+826915,Nathan Ellis,27 Jul 2024,v Phoenix,Lord's,1,9,5*,6,3,1,0,166.66,not out,2,4.0,0,27,0,8.1
+826915,Nathan Ellis,1 Aug 2024,v Fire,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4.8
+826915,Nathan Ellis,4 Aug 2024,v Invincibles,Lord's,2,10,1*,4,1,0,0,100,not out,1,4.0,0,47,1,14.1
+826915,Nathan Ellis,7 Aug 2024,v Rockets,Nottingham,2,10,0,6,2,0,0,0,caught,1,4.0,0,35,0,10.5
+826915,Nathan Ellis,11 Aug 2024,v Invincibles,The Oval,1,10,7,6,7,1,0,100,caught,2,2.0,0,22,0,13.2
+826915,Nathan Ellis,14 Nov 2024,v Pakistan,Brisbane,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,3,4.5
+826915,Nathan Ellis,16 Nov 2024,v Pakistan,Sydney,1,9,1*,11,4,0,0,25,not out,2,3.4,0,30,0,8.18
+826915,Nathan Ellis,18 Nov 2024,v Pakistan,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+826915,Nathan Ellis,19 Dec 2024,v Renegades,Geelong,1,8,35,36,29,5,1,120.68,caught,2,3.0,0,12,2,4
+826915,Nathan Ellis,21 Dec 2024,v Scorchers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+826915,Nathan Ellis,27 Dec 2024,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+826915,Nathan Ellis,5 Jan 2025,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+826915,Nathan Ellis,10 Jan 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+826915,Nathan Ellis,14 Jan 2025,v Renegades,Hobart,2,8,5*,18,10,0,0,50,not out,1,4.0,0,31,1,7.75
+826915,Nathan Ellis,16 Jan 2025,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,3,10.5
+826915,Nathan Ellis,19 Jan 2025,v Stars,Melbourne,2,10,40,19,22,4,3,181.81,caught,1,1.0,0,3,1,3
+826915,Nathan Ellis,21 Jan 2025,v Sixers,Hobart,1,8,1,2,2,0,0,50,run out,2,4.0,0,37,1,9.25
+826915,Nathan Ellis,27 Jan 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+826915,Nathan Ellis,23 Mar 2025,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+826915,Nathan Ellis,20 Jul 2025,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+826915,Nathan Ellis,22 Jul 2025,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+826915,Nathan Ellis,25 Jul 2025,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+826915,Nathan Ellis,26 Jul 2025,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+826915,Nathan Ellis,28 Jul 2025,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.4,0,32,2,8.72
+826915,Nathan Ellis,10 Aug 2025,v South Africa,Darwin,1,9,12,28,11,1,1,109.09,run out,2,4.0,0,44,0,11
+826915,Nathan Ellis,16 Aug 2025,v South Africa,Cairns,2,9,0,1,1,0,0,0,caught,1,4.0,0,31,3,7.75
+826915,Nathan Ellis,29 Oct 2025,v India,Canberra,-,-,TDNB,-,-,-,-,-,-,1,1.4,0,25,1,15
+826915,Nathan Ellis,31 Oct 2025,v India,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.4,0,21,2,5.72
+826915,Nathan Ellis,2 Nov 2025,v India,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+826915,Nathan Ellis,6 Nov 2025,v India,Carrara,2,10,2*,7,5,0,0,40,not out,1,4.0,0,21,3,5.25
+826915,Nathan Ellis,8 Nov 2025,v India,Brisbane,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+826915,Nathan Ellis,16 Dec 2025,v Thunder,Hobart,2,8,5*,13,8,0,0,62.5,not out,1,4.0,0,39,1,9.75
+826915,Nathan Ellis,18 Dec 2025,v Stars,Melbourne,1,8,0,1,1,0,0,0,caught,2,3.0,0,28,0,9.33
+826915,Nathan Ellis,21 Dec 2025,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+826915,Nathan Ellis,26 Dec 2025,v Scorchers,Perth,2,9,4*,1,1,1,0,400,not out,1,4.0,0,31,1,7.75
+826915,Nathan Ellis,29 Dec 2025,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+826915,Nathan Ellis,1 Jan 2026,v Scorchers,Hobart,2,9,16*,20,12,1,0,133.33,not out,1,4.0,0,44,2,11
+826915,Nathan Ellis,3 Jan 2026,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+826915,Nathan Ellis,9 Jan 2026,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,2,3.5
+826915,Nathan Ellis,14 Jan 2026,v Heat,Hobart,2,9,2*,9,3,0,0,66.66,not out,1,4.0,0,30,2,7.5
+826915,Nathan Ellis,11 Feb 2026,v Ireland,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.5,1,12,4,3.13
+826915,Nathan Ellis,13 Feb 2026,v Zimbabwe,Colombo (RPS),2,9,7*,11,4,1,0,175,not out,1,4.0,0,34,0,8.5
+826915,Nathan Ellis,16 Feb 2026,v Sri Lanka,Pallekele,1,10,0*,3,2,0,0,0,not out,2,3.0,0,32,0,10.66
+826915,Nathan Ellis,20 Feb 2026,v Oman,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7

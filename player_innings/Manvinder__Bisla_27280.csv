@@ -1,0 +1,66 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+27280,Manvinder  Bisla,3 Apr 2007,v Delhi,Delhi,2,4,8,15,10,1,0,80,stumped,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,4 Apr 2007,v Punjab,Delhi,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,6 Apr 2007,v Services,Delhi,2,1,17,29,18,2,0,94.44,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,7 Apr 2007,v J & K,Delhi,2,1,42*,69,50,3,0,84,not out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,8 Apr 2007,v Haryana,Delhi,1,1,11,13,11,1,0,100,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,20 Oct 2009,v Delhi,Delhi,2,2,1,9,5,0,0,20,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Oct 2009,v Services,Delhi,2,2,75*,71,60,6,1,125,not out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,22 Oct 2009,v Punjab,Delhi,2,2,18,50,27,0,1,66.66,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,24 Oct 2009,v Himachal,Delhi,1,2,3,13,5,0,0,60,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,25 Oct 2009,v Haryana,Delhi,2,6,37,34,30,3,1,123.33,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,13 Mar 2010,v Daredevils,Mohali,1,2,2,-,6,0,0,33.33,run out,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,16 Mar 2010,v RCB,Bengaluru,1,2,75,-,51,7,4,147.05,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,19 Mar 2010,v Chargers,Cuttack,2,2,0,-,7,0,0,0,run out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Mar 2010,v CSK,Chennai,1,7,7,-,9,1,0,77.77,run out,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,24 Mar 2010,v RR,Mohali,2,3,35,-,18,4,2,194.44,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,27 Mar 2010,v KKR,Mohali,2,3,22,-,24,3,0,91.66,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,30 Mar 2010,v MI,Brabourne,1,3,11,-,10,1,0,110,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,2 Apr 2010,v RCB,Mohali,1,2,28,-,26,4,0,107.69,bowled,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,4 Apr 2010,v KKR,Eden Gardens,2,1,18,-,13,3,0,138.46,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,7 Apr 2010,v RR,Jaipur,1,1,20,-,14,4,0,142.85,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,20 Oct 2010,v Delhi,Delhi,2,4,7,11,9,0,0,77.77,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Oct 2010,v Punjab,Delhi,1,4,13,15,11,2,0,118.18,bowled,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,22 Oct 2010,v Services,Delhi,1,5,25,29,31,3,0,80.64,bowled,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,24 Oct 2010,v J & K,Delhi,1,2,57,80,53,3,1,107.54,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,25 Oct 2010,v Haryana,Delhi,2,2,36,57,38,3,1,94.73,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,8 Apr 2011,v CSK,Chennai,2,1,27,-,29,3,0,93.1,stumped,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,11 Apr 2011,v Chargers,Eden Gardens,1,2,19,-,21,3,0,90.47,lbw,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,15 Apr 2011,v RR,Jaipur,2,1,1,-,3,0,0,33.33,run out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,17 Apr 2011,v RR,Eden Gardens,2,2,9,-,22,0,0,40.9,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,20 Apr 2011,v Kochi,Eden Gardens,2,1,16,-,14,2,0,114.28,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,19 Sep 2011,v Auckland,Hyderabad,1,1,45,40,32,7,1,140.62,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Sep 2011,v Somerset,Hyderabad,2,1,8,4,6,0,1,133.33,run out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,25 Sep 2011,v Somerset,Hyderabad,1,1,17,11,12,2,1,141.66,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,27 Sep 2011,v South Aust,Hyderabad,2,1,13,10,11,3,0,118.18,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,1 Oct 2011,v Warriors,Bengaluru,2,1,19,-,12,2,1,158.33,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,10 Apr 2012,v RCB,Bengaluru,1,3,46,29,29,2,3,158.62,stumped,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,13 Apr 2012,v RR,Eden Gardens,2,3,29,48,29,3,0,100,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,15 Apr 2012,v Kings XI,Eden Gardens,2,3,27,46,25,1,1,108,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,18 Apr 2012,v Kings XI,Mohali,2,3,11,18,14,0,1,78.57,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,22 Apr 2012,v Chargers,Cuttack,2,3,10,19,13,2,0,76.92,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,12 May 2012,v MI,Eden Gardens,2,1,1,6,2,0,0,50,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,27 May 2012,v CSK,Chennai,2,1,89,-,48,8,5,185.41,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,13 Oct 2012,v Daredevils,Centurion,2,1,1,6,4,0,0,25,lbw,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,15 Oct 2012,v Auckland,Cape Town,1,1,38,40,24,6,1,158.33,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,17 Oct 2012,v Scorchers,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Oct 2012,v Titans,Cape Town,1,1,27,11,14,3,2,192.85,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,3 Apr 2013,v Daredevils,Eden Gardens,2,1,4,6,9,1,0,44.44,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,8 Apr 2013,v RR,Jaipur,2,1,1,13,4,0,0,25,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,11 Apr 2013,v RCB,Bengaluru,1,1,1,4,5,0,0,20,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,14 Apr 2013,v SRH,Eden Gardens,1,1,28,37,24,5,0,116.66,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,16 Apr 2013,v Kings XI,Mohali,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,26 Apr 2013,v Kings XI,Eden Gardens,2,1,51*,86,44,3,3,115.9,not out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,28 Apr 2013,v CSK,Chennai,2,1,92,99,61,14,2,150.81,run out,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,1 May 2013,v Daredevils,Raipur,1,1,4,11,7,1,0,57.14,bowled,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,3 May 2013,v RR,Eden Gardens,2,2,29,32,25,4,1,116,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,7 May 2013,v MI,Wankhede,2,1,17,28,19,3,0,89.47,stumped,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,9 May 2013,v Warriors,Pune,1,1,12,25,13,2,0,92.3,stumped,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,12 May 2013,v RCB,Ranchi,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,15 May 2013,v Warriors,Ranchi,2,2,1,8,4,0,0,25,lbw,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,19 May 2013,v SRH,Hyderabad,1,1,15,21,18,3,0,83.33,caught,2,DNB,-,-,-,-
+27280,Manvinder  Bisla,29 Apr 2014,v RR,Abu Dhabi,2,2,3,15,9,0,0,33.33,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,17 Sep 2014,v CSK,Hyderabad,2,1,2,28,11,0,0,18.18,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,21 Sep 2014,v Lahore Lions,Hyderabad,2,3,6,12,8,0,0,75,caught,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,19 Apr 2015,v MI,Bengaluru,2,2,20,26,16,3,1,125,bowled,1,DNB,-,-,-,-
+27280,Manvinder  Bisla,22 Apr 2015,v CSK,Bengaluru,2,1,17,17,14,3,0,121.42,caught,1,DNB,-,-,-,-

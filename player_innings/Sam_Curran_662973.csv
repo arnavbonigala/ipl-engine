@@ -1,0 +1,331 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+662973,Sam Curran,19 Jun 2015,v Kent,The Oval,2,8,6,16,9,0,0,66.66,bowled,1,2.0,0,20,0,10
+662973,Sam Curran,26 Jun 2015,v Glamorgan,Cardiff,1,8,10*,10,7,0,1,142.85,not out,2,3.0,0,17,3,5.66
+662973,Sam Curran,1 Jul 2015,v Gloucs,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+662973,Sam Curran,3 Jul 2015,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+662973,Sam Curran,10 Jul 2015,v Hampshire,Southampton,2,10,3*,10,5,0,0,60,not out,1,3.0,0,30,0,10
+662973,Sam Curran,17 Jul 2015,v Somerset,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,2,12.33
+662973,Sam Curran,23 Jul 2015,v Middlesex,Lord's,2,9,17*,28,21,1,0,80.95,not out,1,3.0,0,22,1,7.33
+662973,Sam Curran,20 May 2016,v Essex,Chelmsford,1,6,6,12,11,1,0,54.54,caught,2,4.0,0,23,2,5.75
+662973,Sam Curran,26 May 2016,v Glamorgan,The Oval,1,6,21,17,20,4,0,105,caught,2,3.0,0,27,0,9
+662973,Sam Curran,3 Jun 2016,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+662973,Sam Curran,9 Jun 2016,v Hampshire,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+662973,Sam Curran,10 Jun 2016,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+662973,Sam Curran,17 Jun 2016,v Middlesex,The Oval,1,8,8,14,9,1,0,88.88,caught,2,3.0,0,16,1,5.33
+662973,Sam Curran,24 Jun 2016,v Glamorgan,Cardiff,1,8,5,18,14,0,0,35.71,bowled,2,3.0,0,18,1,6
+662973,Sam Curran,25 Jun 2016,v Essex,The Oval,1,7,32,36,33,1,1,96.96,bowled,2,2.0,0,9,0,4.5
+662973,Sam Curran,6 Jul 2016,v Gloucs,Bristol,1,8,20,12,8,2,1,250,run out,2,3.0,0,28,1,9.33
+662973,Sam Curran,8 Jul 2016,v Somerset,The Oval,1,7,18,28,19,0,0,94.73,run out,2,1.0,0,1,0,1
+662973,Sam Curran,15 Jul 2016,v Kent,Tunbridge Wells,1,8,19,14,14,2,1,135.71,bowled,2,3.0,0,23,1,7.66
+662973,Sam Curran,21 Jul 2016,v Middlesex,Lord's,1,6,4,5,3,1,0,133.33,caught,2,2.0,0,33,0,16.5
+662973,Sam Curran,22 Jul 2016,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+662973,Sam Curran,29 Jul 2016,v Kent,The Oval,1,5,1,7,2,0,0,50,run out,2,2.0,0,15,1,7.5
+662973,Sam Curran,7 Jul 2017,v Essex,Chelmsford,1,7,25,22,16,3,1,156.25,bowled,2,4.0,0,35,2,8.75
+662973,Sam Curran,9 Jul 2017,v Somerset,The Oval,1,6,39,25,21,4,2,185.71,caught,2,4.0,0,22,2,5.5
+662973,Sam Curran,13 Jul 2017,v Middlesex,Lord's,1,6,5,7,6,0,0,83.33,bowled,2,2.0,0,27,0,13.5
+662973,Sam Curran,14 Jul 2017,v Kent,The Oval,1,6,1,2,1,0,0,100,run out,2,4.0,0,37,0,9.25
+662973,Sam Curran,19 Jul 2017,v Essex,The Oval,1,7,12,12,10,0,1,120,bowled,2,4.0,0,31,0,7.75
+662973,Sam Curran,21 Jul 2017,v Middlesex,The Oval,1,7,1,3,2,0,0,50,caught,2,4.0,0,28,3,7
+662973,Sam Curran,3 Aug 2017,v Sussex,Hove,1,6,1,6,5,0,0,20,bowled,2,2.0,0,31,0,15.5
+662973,Sam Curran,4 Aug 2017,v Glamorgan,The Oval,2,6,2,5,6,0,0,33.33,caught,1,2.0,0,31,0,15.5
+662973,Sam Curran,6 Aug 2017,v Somerset,Taunton,1,7,2,7,2,0,0,100,caught,2,4.0,0,39,0,9.75
+662973,Sam Curran,13 Aug 2017,v Sussex,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+662973,Sam Curran,17 Aug 2017,v Gloucs,The Oval,2,6,12,32,12,0,0,100,bowled,1,4.0,1,13,4,3.25
+662973,Sam Curran,18 Aug 2017,v Kent,Canterbury,1,6,20,31,23,1,0,86.95,bowled,2,4.0,0,30,1,7.5
+662973,Sam Curran,25 Aug 2017,v Warwickshire,The Oval,1,6,2,7,4,0,0,50,caught,2,4.0,0,27,0,6.75
+662973,Sam Curran,13 Dec 2017,v Central D,Auckland,2,7,10*,-,7,2,0,142.85,not out,1,4.0,0,34,1,8.5
+662973,Sam Curran,16 Dec 2017,v Northern Dis,Mount Maunganui,2,7,1,-,1,0,0,100,run out,1,4.0,0,44,1,11
+662973,Sam Curran,24 Dec 2017,v Wellington,Auckland,2,7,50,-,27,3,4,185.18,caught,1,4.0,0,54,1,13.5
+662973,Sam Curran,28 Dec 2017,v Otago,Alexandra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+662973,Sam Curran,1 Jan 2018,v Canterbury,Christchurch,1,6,4,-,2,1,0,200,caught,2,4.0,0,20,1,5
+662973,Sam Curran,7 Jan 2018,v Northern Dis,Auckland,1,7,48*,-,25,7,1,192,not out,2,2.0,0,30,0,15
+662973,Sam Curran,10 Jan 2018,v Canterbury,Auckland,2,7,0,-,2,0,0,0,caught,1,2.0,0,25,1,12.5
+662973,Sam Curran,14 Jan 2018,v Otago,Auckland,1,6,32,-,28,2,1,114.28,caught,2,4.0,0,20,2,5
+662973,Sam Curran,17 Jan 2018,v Central D,Auckland,2,6,12,-,5,1,1,240,caught,1,4.0,0,28,1,7
+662973,Sam Curran,5 Jul 2018,v Middlesex,Lord's,1,4,13,17,12,0,1,108.33,caught,2,4.0,0,35,1,8.75
+662973,Sam Curran,13 Jul 2018,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,2,14,1,3.5
+662973,Sam Curran,20 Jul 2018,v Kent,Canterbury,1,7,16*,18,10,2,0,160,not out,-,TDNB,-,-,-,-
+662973,Sam Curran,27 Jul 2018,v Somerset,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+662973,Sam Curran,25 Mar 2019,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,2,13
+662973,Sam Curran,1 Apr 2019,v DC,Mohali,1,2,20,20,10,3,1,200,lbw,2,2.2,0,11,4,4.71
+662973,Sam Curran,6 Apr 2019,v CSK,Chennai,2,7,0*,2,1,0,0,0,not out,1,4.0,0,35,0,8.75
+662973,Sam Curran,8 Apr 2019,v SRH,Mohali,2,6,5*,6,3,0,0,166.66,not out,1,4.0,0,30,0,7.5
+662973,Sam Curran,10 Apr 2019,v MI,Wankhede,1,5,8,5,3,2,0,266.66,caught,2,4.0,0,54,1,13.5
+662973,Sam Curran,13 Apr 2019,v RCB,Mohali,1,5,1,5,3,0,0,33.33,lbw,2,3.0,0,31,0,10.33
+662973,Sam Curran,20 Apr 2019,v DC,Delhi,1,6,0,4,4,0,0,0,caught,2,3.4,0,34,0,9.27
+662973,Sam Curran,3 May 2019,v KKR,Mohali,1,6,55*,35,24,7,2,229.16,not out,2,4.0,0,41,0,10.25
+662973,Sam Curran,5 May 2019,v CSK,Mohali,2,6,6*,5,7,1,0,85.71,not out,1,4.0,0,35,3,8.75
+662973,Sam Curran,19 Jul 2019,v Essex,Chelmsford,2,3,0,3,1,0,0,0,caught,1,2.0,0,28,1,14
+662973,Sam Curran,2 Aug 2019,v Somerset,Taunton,1,3,53,41,37,6,2,143.24,caught,2,3.0,0,30,0,10
+662973,Sam Curran,8 Aug 2019,v Middlesex,Lord's,2,3,39,32,25,6,1,156,caught,1,2.0,0,21,0,10.5
+662973,Sam Curran,9 Aug 2019,v Gloucs,The Oval,2,3,51*,39,35,3,3,145.71,not out,1,3.0,0,23,2,7.66
+662973,Sam Curran,15 Aug 2019,v Sussex,The Oval,1,3,47,24,24,5,3,195.83,bowled,2,2.3,0,23,0,9.2
+662973,Sam Curran,23 Aug 2019,v Kent,Canterbury,1,3,23,21,21,2,1,109.52,caught,2,4.0,0,30,0,7.5
+662973,Sam Curran,27 Aug 2019,v Somerset,The Oval,2,3,9,22,9,0,0,100,caught,1,4.0,0,33,1,8.25
+662973,Sam Curran,29 Aug 2019,v Essex,The Oval,2,3,8,10,8,2,0,100,caught,1,4.0,0,48,1,12
+662973,Sam Curran,1 Nov 2019,v New Zealand,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+662973,Sam Curran,3 Nov 2019,v New Zealand,Wellington,2,6,9,11,6,1,0,150,caught,1,4.0,0,22,2,5.5
+662973,Sam Curran,5 Nov 2019,v New Zealand,Nelson,2,6,2,12,6,0,0,33.33,caught,1,4.0,0,29,1,7.25
+662973,Sam Curran,8 Nov 2019,v New Zealand,Napier,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+662973,Sam Curran,10 Nov 2019,v New Zealand,Auckland,2,5,24,-,11,2,2,218.18,stumped,1,2.0,0,33,1,16.5
+662973,Sam Curran,19 Sep 2020,v MI,Abu Dhabi,2,6,18,-,6,1,2,300,caught,1,4.0,0,28,1,7
+662973,Sam Curran,22 Sep 2020,v RR,Sharjah,2,4,17,-,6,1,2,283.33,stumped,1,4.0,0,33,3,8.25
+662973,Sam Curran,25 Sep 2020,v DC,Dubai (DICS),2,8,1*,-,2,0,0,50,not out,1,4.0,0,27,1,6.75
+662973,Sam Curran,2 Oct 2020,v SRH,Dubai (DICS),2,7,15*,-,5,0,2,300,not out,1,3.0,0,37,0,12.33
+662973,Sam Curran,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+662973,Sam Curran,7 Oct 2020,v KKR,Abu Dhabi,2,5,17,-,11,1,1,154.54,caught,1,4.0,0,26,2,6.5
+662973,Sam Curran,10 Oct 2020,v RCB,Dubai (DICS),2,6,0,-,1,0,0,0,caught,1,4.0,0,48,1,12
+662973,Sam Curran,13 Oct 2020,v SRH,Dubai (DICS),1,1,31,-,21,3,2,147.61,bowled,2,3.0,0,18,1,6
+662973,Sam Curran,17 Oct 2020,v DC,Sharjah,1,1,0,-,3,0,0,0,caught,2,4.0,0,35,1,8.75
+662973,Sam Curran,19 Oct 2020,v RR,Abu Dhabi,1,1,22,-,25,1,1,88,caught,2,1.0,0,6,0,6
+662973,Sam Curran,23 Oct 2020,v MI,Sharjah,1,7,52,-,47,4,2,110.63,bowled,2,DNB,-,-,-,-
+662973,Sam Curran,25 Oct 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,3,6.33
+662973,Sam Curran,29 Oct 2020,v KKR,Dubai (DICS),2,5,13*,-,14,1,0,92.85,not out,1,3.0,0,21,0,7
+662973,Sam Curran,1 Nov 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+662973,Sam Curran,27 Nov 2020,v South Africa,Cape Town,2,7,7*,-,3,0,1,233.33,not out,1,4.0,0,28,3,7
+662973,Sam Curran,29 Nov 2020,v South Africa,Paarl,2,7,1,-,5,0,0,20,bowled,1,2.0,0,24,0,12
+662973,Sam Curran,1 Dec 2020,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+662973,Sam Curran,12 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+662973,Sam Curran,14 Mar 2021,v India,Ahmedabad,1,7,6*,11,5,1,0,120,not out,2,4.0,1,22,1,5.5
+662973,Sam Curran,16 Mar 2021,v India,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+662973,Sam Curran,18 Mar 2021,v India,Ahmedabad,2,7,3,12,5,0,0,60,bowled,1,1.0,0,16,1,16
+662973,Sam Curran,20 Mar 2021,v India,Ahmedabad,2,9,14*,5,3,0,2,466.66,not out,1,1.0,0,11,0,11
+662973,Sam Curran,10 Apr 2021,v DC,Wankhede,1,8,34,25,15,4,2,226.66,bowled,2,2.0,0,24,0,12
+662973,Sam Curran,16 Apr 2021,v Punjab Kings,Wankhede,2,6,5*,6,4,1,0,125,not out,1,3.0,0,12,1,4
+662973,Sam Curran,19 Apr 2021,v RR,Wankhede,1,8,13,14,6,0,1,216.66,run out,2,4.0,0,24,2,6
+662973,Sam Curran,21 Apr 2021,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,58,1,14.5
+662973,Sam Curran,25 Apr 2021,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+662973,Sam Curran,28 Apr 2021,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+662973,Sam Curran,1 May 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+662973,Sam Curran,10 Jun 2021,v Middlesex,Lord's,1,4,21,28,17,1,0,123.52,caught,2,4.0,0,29,4,7.25
+662973,Sam Curran,11 Jun 2021,v Somerset,Taunton,2,4,72*,44,36,5,6,200,not out,1,4.0,0,33,1,8.25
+662973,Sam Curran,14 Jun 2021,v Glamorgan,The Oval,2,4,1,4,4,0,0,25,lbw,1,2.0,0,25,1,12.5
+662973,Sam Curran,17 Jun 2021,v Sussex,The Oval,1,4,0*,6,2,0,0,0,not out,-,TDNB,-,-,-,-
+662973,Sam Curran,23 Jun 2021,v Sri Lanka,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,2,8.33
+662973,Sam Curran,24 Jun 2021,v Sri Lanka,Cardiff,2,7,16*,9,8,1,1,200,not out,1,2.0,0,8,1,4
+662973,Sam Curran,26 Jun 2021,v Sri Lanka,Southampton,1,7,9*,8,5,1,0,180,not out,2,4.0,0,14,2,3.5
+662973,Sam Curran,22 Jul 2021,v Originals,The Oval,1,2,6,-,3,0,1,200,bowled,2,4.0,0,27,2,8.1
+662973,Sam Curran,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+662973,Sam Curran,26 Sep 2021,v KKR,Abu Dhabi,2,8,4,13,4,0,0,100,caught,1,4.0,0,56,0,14
+662973,Sam Curran,2 Oct 2021,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,0,13.75
+662973,Sam Curran,25 May 2022,v SLC Dev XI,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.5,0,21,2,5.47
+662973,Sam Curran,27 May 2022,v Glamorgan,The Oval,2,5,36,23,22,3,2,163.63,caught,1,4.0,0,25,1,6.25
+662973,Sam Curran,31 May 2022,v Gloucs,The Oval,1,3,6,3,2,0,1,300,caught,2,3.0,0,14,4,4.66
+662973,Sam Curran,2 Jun 2022,v Hampshire,The Oval,1,3,69,46,38,5,5,181.57,caught,2,4.0,0,30,5,7.5
+662973,Sam Curran,3 Jun 2022,v Kent,Canterbury,1,3,43,39,34,5,0,126.47,caught,2,DNB,-,-,-,-
+662973,Sam Curran,5 Jun 2022,v Glamorgan,Cardiff,1,3,31,42,30,2,0,103.33,stumped,2,0.3,0,6,0,12
+662973,Sam Curran,8 Jun 2022,v Sussex,The Oval,2,3,1,4,2,0,0,50,bowled,1,DNB,-,-,-,-
+662973,Sam Curran,9 Jun 2022,v Middlesex,Lord's,1,3,0,3,3,0,0,0,caught,2,4.0,0,50,1,12.5
+662973,Sam Curran,1 Jul 2022,v Kent,The Oval,2,3,50,48,30,0,5,166.66,caught,1,DNB,-,-,-,-
+662973,Sam Curran,7 Jul 2022,v India,Southampton,2,7,4,9,4,0,0,100,caught,1,2.0,0,18,0,9
+662973,Sam Curran,9 Jul 2022,v India,Birmingham,2,7,2,5,4,0,0,50,caught,1,3.0,0,26,0,8.66
+662973,Sam Curran,27 Jul 2022,v South Africa,Bristol,1,7,1*,4,1,0,0,100,not out,2,4.0,0,36,0,9
+662973,Sam Curran,28 Jul 2022,v South Africa,Cardiff,2,6,2,4,3,0,0,66.66,caught,1,4.0,0,38,0,9.5
+662973,Sam Curran,31 Jul 2022,v South Africa,Southampton,2,7,9,9,8,0,1,112.5,caught,1,3.0,0,29,0,9.66
+662973,Sam Curran,4 Aug 2022,v Spirit,The Oval,2,3,8,-,7,1,0,114.28,caught,1,4.0,0,29,1,8.7
+662973,Sam Curran,7 Aug 2022,v Fire,Cardiff,1,5,26,-,23,1,1,113.04,caught,2,4.0,0,24,1,7.2
+662973,Sam Curran,11 Aug 2022,v N S-Chargers,The Oval,2,5,60,54,39,2,5,153.84,bowled,1,4.0,0,26,1,7.8
+662973,Sam Curran,14 Aug 2022,v Brave,The Oval,2,5,11*,-,12,0,1,91.66,not out,1,4.0,0,28,1,8.4
+662973,Sam Curran,17 Aug 2022,v Rockets,Nottingham,2,3,27,-,19,3,0,142.1,stumped,1,4.0,0,41,1,12.3
+662973,Sam Curran,23 Aug 2022,v Phoenix,The Oval,2,5,30,42,20,0,3,150,caught,1,3.0,0,31,0,12.4
+662973,Sam Curran,27 Aug 2022,v Spirit,Lord's,2,4,6,19,7,0,0,85.71,caught,1,4.0,0,16,3,4.8
+662973,Sam Curran,31 Aug 2022,v Originals,Manchester,1,5,24,31,18,2,1,133.33,caught,2,4.0,0,35,0,10.5
+662973,Sam Curran,20 Sep 2022,v Pakistan,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+662973,Sam Curran,22 Sep 2022,v Pakistan,Karachi,1,7,10*,15,8,1,0,125,not out,2,4.0,0,29,0,7.25
+662973,Sam Curran,23 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+662973,Sam Curran,28 Sep 2022,v Pakistan,Lahore,2,7,17,16,11,1,0,154.54,caught,1,4.0,0,23,2,5.75
+662973,Sam Curran,30 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+662973,Sam Curran,2 Oct 2022,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+662973,Sam Curran,9 Oct 2022,v Australia,Perth,1,6,2,6,5,0,0,40,bowled,2,4.0,0,35,2,8.75
+662973,Sam Curran,12 Oct 2022,v Australia,Canberra,1,7,8,10,6,0,1,133.33,bowled,2,4.0,0,25,3,6.25
+662973,Sam Curran,22 Oct 2022,v Afghanistan,Perth,2,-,DNB,-,-,-,-,-,-,1,3.4,0,10,5,2.72
+662973,Sam Curran,26 Oct 2022,v Ireland,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,2,10.33
+662973,Sam Curran,1 Nov 2022,v New Zealand,Brisbane,1,7,6*,7,3,0,1,200,not out,2,4.0,0,26,2,6.5
+662973,Sam Curran,5 Nov 2022,v Sri Lanka,Sydney,2,7,6,16,11,0,0,54.54,caught,1,4.0,0,27,1,6.75
+662973,Sam Curran,10 Nov 2022,v India,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+662973,Sam Curran,13 Nov 2022,v Pakistan,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,3,3
+662973,Sam Curran,10 Jan 2023,v Paarl Royals,Cape Town,2,3,20,20,16,1,2,125,caught,1,3.0,0,23,0,7.66
+662973,Sam Curran,13 Jan 2023,v Super Giants,Cape Town,1,5,0,5,3,0,0,0,lbw,2,2.0,0,14,0,7
+662973,Sam Curran,14 Jan 2023,v Super Kings,Cape Town,2,5,15*,13,9,1,1,166.66,not out,1,2.0,0,21,0,10.5
+662973,Sam Curran,16 Jan 2023,v Sunrisers,Gqeberha,1,4,8,-,10,0,0,80,caught,2,4.0,0,37,2,9.25
+662973,Sam Curran,18 Jan 2023,v Sunrisers,Cape Town,1,6,0,3,1,0,0,0,caught,2,3.3,0,40,1,11.42
+662973,Sam Curran,21 Jan 2023,v Paarl Royals,Paarl,1,3,2,7,3,0,0,66.66,run out,2,2.0,0,15,0,7.5
+662973,Sam Curran,23 Jan 2023,v Capitals,Cape Town,2,3,22,-,18,3,1,122.22,bowled,1,1.0,0,15,0,15
+662973,Sam Curran,4 Feb 2023,v Capitals,Centurion,1,8,5,15,8,0,0,62.5,caught,2,4.0,0,26,3,6.5
+662973,Sam Curran,6 Feb 2023,v Super Kings,Johannesburg,2,8,2,5,5,0,0,40,caught,1,3.0,1,26,2,8.66
+662973,Sam Curran,9 Mar 2023,v Bangladesh,Chattogram,1,6,6,12,11,0,0,54.54,caught,2,2.0,0,18,0,9
+662973,Sam Curran,12 Mar 2023,v Bangladesh,Mirpur,1,6,12,24,16,1,0,75,stumped,2,3.0,0,15,1,5
+662973,Sam Curran,14 Mar 2023,v Bangladesh,Mirpur,2,6,4,10,6,0,0,66.66,caught,1,4.0,0,28,0,7
+662973,Sam Curran,1 Apr 2023,v KKR,Mohali,1,6,26*,27,17,0,2,152.94,not out,2,3.0,0,38,1,12.66
+662973,Sam Curran,5 Apr 2023,v RR,Guwahati,1,7,1*,3,2,0,0,50,not out,2,4.0,0,44,0,11
+662973,Sam Curran,9 Apr 2023,v SRH,Hyderabad,1,5,22,25,15,3,1,146.66,caught,2,3.0,0,14,0,4.66
+662973,Sam Curran,13 Apr 2023,v GT,Mohali,1,6,22,33,22,1,1,100,caught,2,3.5,0,25,1,6.52
+662973,Sam Curran,15 Apr 2023,v LSG,Lucknow,2,6,6,15,6,1,0,100,caught,1,4.0,0,31,3,7.75
+662973,Sam Curran,20 Apr 2023,v RCB,Mohali,2,6,10,18,12,1,0,83.33,run out,1,4.0,0,27,0,6.75
+662973,Sam Curran,22 Apr 2023,v MI,Wankhede,1,6,55,51,29,5,4,189.65,caught,2,3.0,0,41,0,13.66
+662973,Sam Curran,28 Apr 2023,v LSG,Mohali,2,6,21,24,11,2,1,190.9,caught,1,3.0,0,38,1,12.66
+662973,Sam Curran,30 Apr 2023,v CSK,Chennai,2,5,29,36,20,1,1,145,bowled,1,4.0,0,46,1,11.5
+662973,Sam Curran,3 May 2023,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,41,0,13.66
+662973,Sam Curran,8 May 2023,v KKR,Eden Gardens,1,6,4,25,9,0,0,44.44,caught,2,3.0,0,44,0,14.66
+662973,Sam Curran,13 May 2023,v DC,Delhi,1,5,20,39,24,1,0,83.33,caught,2,2.0,0,18,0,9
+662973,Sam Curran,17 May 2023,v DC,Dharamsala,2,7,11,13,5,1,1,220,bowled,1,4.0,0,36,2,9
+662973,Sam Curran,19 May 2023,v RR,Dharamsala,1,5,49*,72,31,4,2,158.06,not out,2,4.0,0,46,1,11.5
+662973,Sam Curran,25 May 2023,v Middlesex,Lord's,1,3,68,64,47,7,2,144.68,caught,2,2.0,0,22,0,11
+662973,Sam Curran,26 May 2023,v Kent,The Oval,1,3,15,24,16,2,0,93.75,caught,2,4.0,0,29,1,7.25
+662973,Sam Curran,28 May 2023,v Sussex,The Oval,1,3,2,12,7,0,0,28.57,caught,2,4.0,0,24,0,6
+662973,Sam Curran,31 May 2023,v Hampshire,Southampton,2,3,8,15,8,1,0,100,caught,1,4.0,0,28,1,7
+662973,Sam Curran,2 Jun 2023,v Gloucs,Bristol,1,3,0,5,3,0,0,0,bowled,2,4.0,0,20,3,5
+662973,Sam Curran,4 Jun 2023,v Kent,Canterbury,2,3,10,9,8,1,0,125,caught,1,4.0,0,42,0,10.5
+662973,Sam Curran,7 Jun 2023,v Glamorgan,Cardiff,1,3,66,36,29,1,7,227.58,caught,2,4.0,0,36,2,9
+662973,Sam Curran,9 Jun 2023,v Sussex,Hove,1,3,68,55,35,6,4,194.28,caught,2,1.0,0,12,0,12
+662973,Sam Curran,16 Jun 2023,v Somerset,Taunton,1,3,15,18,11,2,0,136.36,caught,2,4.0,0,26,5,6.5
+662973,Sam Curran,18 Jun 2023,v Hampshire,The Oval,1,3,7,18,13,0,0,53.84,caught,2,2.0,0,16,0,8
+662973,Sam Curran,20 Jun 2023,v Glamorgan,The Oval,1,4,59,30,22,3,6,268.18,bowled,2,4.0,0,30,1,7.5
+662973,Sam Curran,22 Jun 2023,v Middlesex,The Oval,1,3,6,13,5,1,0,120,caught,2,4.0,0,55,0,13.75
+662973,Sam Curran,30 Jun 2023,v Somerset,The Oval,2,4,47,57,36,1,3,130.55,caught,1,4.0,0,34,1,8.5
+662973,Sam Curran,2 Jul 2023,v Essex,The Oval,1,4,3,11,7,0,0,42.85,caught,2,4.0,0,45,1,11.25
+662973,Sam Curran,7 Jul 2023,v Lancashire,Manchester,1,4,17,26,15,2,0,113.33,caught,2,4.0,0,35,0,8.75
+662973,Sam Curran,15 Jul 2023,v Somerset,Birmingham,2,4,5,17,10,0,0,50,caught,1,4.0,0,32,1,8
+662973,Sam Curran,2 Aug 2023,v Spirit,Lord's,2,5,34,37,28,5,0,121.42,lbw,1,4.0,0,31,1,9.3
+662973,Sam Curran,6 Aug 2023,v Fire,The Oval,2,5,1,3,3,0,0,33.33,caught,1,4.0,0,33,0,9.9
+662973,Sam Curran,9 Aug 2023,v Originals,The Oval,1,4,7,9,7,1,0,100,bowled,2,2.0,0,17,0,10.2
+662973,Sam Curran,11 Aug 2023,v N S-Chargers,Leeds,1,5,24,18,12,2,1,200,caught,2,4.0,0,31,2,9.3
+662973,Sam Curran,13 Aug 2023,v Phoenix,Birmingham,2,5,11,24,16,1,0,68.75,caught,1,4.0,0,37,0,11.1
+662973,Sam Curran,15 Aug 2023,v Spirit,The Oval,1,4,35,20,17,2,3,205.88,caught,2,4.0,0,40,1,12
+662973,Sam Curran,19 Aug 2023,v Brave,Southampton,1,5,8,19,13,0,0,61.53,caught,2,4.0,0,18,1,5.4
+662973,Sam Curran,21 Aug 2023,v Rockets,The Oval,2,4,0,1,1,0,0,0,bowled,1,3.0,0,25,0,10
+662973,Sam Curran,27 Aug 2023,v Originals,Lord's,1,4,0,1,1,0,0,0,caught,2,4.0,0,31,1,9.3
+662973,Sam Curran,30 Aug 2023,v New Zealand,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+662973,Sam Curran,1 Sep 2023,v New Zealand,Manchester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+662973,Sam Curran,5 Sep 2023,v New Zealand,Nottingham,1,7,5,8,4,1,0,125,caught,2,3.0,0,32,0,10.66
+662973,Sam Curran,12 Dec 2023,v West Indies,Bridgetown,1,7,13,18,14,1,0,92.85,caught,2,2.1,0,23,0,10.61
+662973,Sam Curran,14 Dec 2023,v West Indies,St George's,2,4,50,50,32,4,3,156.25,caught,1,2.0,0,38,1,19
+662973,Sam Curran,16 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,2,11.33
+662973,Sam Curran,19 Dec 2023,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,2,12.5
+662973,Sam Curran,21 Dec 2023,v West Indies,Tarouba,1,7,12,26,15,0,0,80,caught,2,2.0,0,13,1,6.5
+662973,Sam Curran,11 Jan 2024,v Super Giants,Durban,1,7,6*,13,4,1,0,150,not out,2,3.3,0,31,1,8.85
+662973,Sam Curran,13 Jan 2024,v Super Kings,Johannesburg,1,6,3,3,3,0,0,100,bowled,2,3.0,0,29,1,9.66
+662973,Sam Curran,16 Jan 2024,v Sunrisers,Cape Town,2,4,37*,12,22,2,3,168.18,not out,1,4.0,0,38,0,9.5
+662973,Sam Curran,19 Jan 2024,v Paarl Royals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+662973,Sam Curran,21 Jan 2024,v Paarl Royals,Paarl,2,5,18,47,27,1,0,66.66,caught,1,3.0,0,30,0,10
+662973,Sam Curran,23 Jan 2024,v Super Giants,Cape Town,2,4,38,33,27,1,4,140.74,caught,1,4.0,0,50,1,12.5
+662973,Sam Curran,27 Jan 2024,v Sunrisers,Gqeberha,2,4,30,29,21,3,1,142.85,stumped,1,1.0,0,19,0,19
+662973,Sam Curran,29 Jan 2024,v Super Kings,Cape Town,1,5,0*,6,0,0,0,-,not out,2,1.0,0,13,0,13
+662973,Sam Curran,1 Feb 2024,v Capitals,Centurion,1,5,22,17,12,1,2,183.33,caught,2,4.0,0,42,1,10.5
+662973,Sam Curran,3 Feb 2024,v Capitals,Cape Town,1,4,3,5,6,0,0,50,caught,2,4.0,0,39,1,9.75
+662973,Sam Curran,9 Feb 2024,v DC,Dubai (DICS),1,5,17,27,18,1,0,94.44,lbw,2,4.0,0,39,2,9.75
+662973,Sam Curran,11 Feb 2024,v Warriors,Sharjah,2,6,7*,1,2,0,1,350,not out,1,4.0,0,29,2,7.25
+662973,Sam Curran,23 Mar 2024,v DC,New Chandigarh,2,4,63,72,47,6,1,134.04,bowled,1,1.0,0,10,0,10
+662973,Sam Curran,25 Mar 2024,v RCB,Bengaluru,1,5,23,27,17,3,0,135.29,caught,2,3.0,0,30,1,10
+662973,Sam Curran,30 Mar 2024,v LSG,Lucknow,2,6,0,-,1,0,0,0,caught,1,4.0,0,28,3,7
+662973,Sam Curran,4 Apr 2024,v GT,Ahmedabad,2,4,5,14,8,0,0,62.5,caught,1,2.0,0,18,0,9
+662973,Sam Curran,9 Apr 2024,v SRH,New Chandigarh,2,4,29,29,22,2,2,131.81,caught,1,4.0,0,41,2,10.25
+662973,Sam Curran,13 Apr 2024,v RR,New Chandigarh,1,4,6,12,10,0,0,60,caught,2,4.0,0,25,2,6.25
+662973,Sam Curran,18 Apr 2024,v MI,New Chandigarh,2,1,6,11,7,1,0,85.71,caught,1,4.0,0,41,2,10.25
+662973,Sam Curran,21 Apr 2024,v GT,New Chandigarh,1,1,20,40,19,2,0,105.26,lbw,2,2.0,0,18,1,9
+662973,Sam Curran,26 Apr 2024,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,60,1,15
+662973,Sam Curran,1 May 2024,v CSK,Chennai,2,5,26*,38,20,3,0,130,not out,1,3.0,0,37,0,12.33
+662973,Sam Curran,5 May 2024,v CSK,Dharamsala,2,5,7,17,11,0,0,63.63,caught,1,4.0,0,34,1,8.5
+662973,Sam Curran,9 May 2024,v RCB,Dharamsala,2,7,22,26,16,2,0,137.5,bowled,1,3.0,0,50,1,16.66
+662973,Sam Curran,15 May 2024,v RR,Guwahati,2,5,63*,62,41,5,3,153.65,not out,1,3.0,0,24,2,8
+662973,Sam Curran,15 Jun 2024,v Namibia,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+662973,Sam Curran,19 Jun 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+662973,Sam Curran,21 Jun 2024,v South Africa,Gros Islet,2,7,10*,14,7,1,0,142.85,not out,1,3.0,0,29,0,9.66
+662973,Sam Curran,23 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,2,11.5
+662973,Sam Curran,27 Jun 2024,v India,Providence,2,6,2,4,4,0,0,50,lbw,1,2.0,0,25,1,12.5
+662973,Sam Curran,12 Jul 2024,v Somerset,Taunton,1,5,59,51,42,4,2,140.47,caught,2,DNB,-,-,-,-
+662973,Sam Curran,14 Jul 2024,v Essex,Chelmsford,1,5,0,2,1,0,0,0,lbw,2,4.0,0,41,1,10.25
+662973,Sam Curran,18 Jul 2024,v Hampshire,The Oval,2,5,102*,65,58,7,6,175.86,not out,1,4.0,0,39,0,9.75
+662973,Sam Curran,19 Jul 2024,v Kent,Canterbury,2,5,24,26,19,0,1,126.31,caught,1,DNB,-,-,-,-
+662973,Sam Curran,23 Jul 2024,v Phoenix,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,16.8
+662973,Sam Curran,28 Jul 2024,v Fire,Cardiff,1,5,20,31,21,2,0,95.23,caught,2,4.0,0,25,2,7.5
+662973,Sam Curran,2 Aug 2024,v N S-Chargers,The Oval,2,5,2,4,3,0,0,66.66,caught,1,3.0,0,20,2,8
+662973,Sam Curran,4 Aug 2024,v Spirit,Lord's,1,5,51*,26,22,0,6,231.81,not out,2,4.0,1,16,5,4.8
+662973,Sam Curran,6 Aug 2024,v Originals,Manchester,1,3,68,48,38,2,6,178.94,caught,2,3.0,0,16,2,6.4
+662973,Sam Curran,8 Aug 2024,v Brave,The Oval,2,4,35,21,18,0,5,194.44,caught,1,4.0,0,28,2,8.4
+662973,Sam Curran,11 Aug 2024,v Spirit,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,3,4
+662973,Sam Curran,14 Aug 2024,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,10
+662973,Sam Curran,18 Aug 2024,v Brave,Lord's,1,3,25,27,20,3,0,125,caught,2,4.0,0,25,0,7.5
+662973,Sam Curran,3 Sep 2024,v Durham,The Oval,2,5,52,48,34,2,4,152.94,lbw,1,4.0,0,24,1,6
+662973,Sam Curran,11 Sep 2024,v Australia,Southampton,2,6,18,24,15,2,0,120,caught,1,2.0,0,35,1,17.5
+662973,Sam Curran,13 Sep 2024,v Australia,Cardiff,2,6,1,2,2,0,0,50,caught,1,3.0,0,37,1,12.33
+662973,Sam Curran,9 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+662973,Sam Curran,10 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,1,20,0,6.66
+662973,Sam Curran,14 Nov 2024,v West Indies,Gros Islet,2,5,41,55,26,3,1,157.69,caught,1,3.0,0,24,0,8
+662973,Sam Curran,16 Nov 2024,v West Indies,Gros Islet,1,6,24,23,13,0,2,184.61,run out,2,3.0,0,41,0,13.66
+662973,Sam Curran,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+662973,Sam Curran,12 Jan 2025,v KnightRiders,Abu Dhabi,2,4,50*,53,37,2,1,135.13,not out,1,4.0,0,48,0,12
+662973,Sam Curran,14 Jan 2025,v Gulf Giants,Dubai (DICS),2,4,42*,-,43,4,1,97.67,not out,1,3.0,0,12,1,4
+662973,Sam Curran,16 Jan 2025,v MI Emirates,Dubai (DICS),2,5,28,-,23,1,1,121.73,caught,1,3.0,0,28,0,9.33
+662973,Sam Curran,18 Jan 2025,v KnightRiders,Dubai (DICS),1,4,35,39,29,3,1,120.68,caught,2,1.0,0,11,0,11
+662973,Sam Curran,20 Jan 2025,v DC,Dubai (DICS),1,4,3,-,7,0,0,42.85,stumped,2,3.0,0,17,0,5.66
+662973,Sam Curran,22 Jan 2025,v Warriorz,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+662973,Sam Curran,25 Jan 2025,v Warriorz,Sharjah,2,4,54*,45,34,5,2,158.82,not out,1,4.0,0,26,0,6.5
+662973,Sam Curran,27 Jan 2025,v MI Emirates,Abu Dhabi,2,4,11,10,7,2,0,157.14,caught,1,4.0,0,53,0,13.25
+662973,Sam Curran,29 Jan 2025,v Gulf Giants,Dubai (DICS),2,5,16,29,19,1,0,84.21,caught,1,4.0,0,28,3,7
+662973,Sam Curran,3 Feb 2025,v DC,Sharjah,1,4,28,22,20,1,2,140,caught,2,3.0,0,19,0,6.33
+662973,Sam Curran,5 Feb 2025,v DC,Dubai (DICS),1,5,24,22,21,0,2,114.28,caught,2,4.0,0,44,0,11
+662973,Sam Curran,7 Feb 2025,v Warriorz,Sharjah,2,5,34*,19,15,3,2,226.66,not out,1,4.0,0,38,0,9.5
+662973,Sam Curran,9 Feb 2025,v DC,Dubai (DICS),1,5,62*,48,33,5,3,187.87,not out,2,4.0,0,42,1,10.5
+662973,Sam Curran,23 Mar 2025,v MI,Chennai,2,6,4,9,9,0,0,44.44,bowled,1,1.0,0,13,0,13
+662973,Sam Curran,28 Mar 2025,v RCB,Chennai,2,5,8,17,13,0,0,61.53,caught,1,3.0,0,34,0,11.33
+662973,Sam Curran,25 Apr 2025,v SRH,Chennai,1,3,9,24,10,1,0,90,caught,2,2.0,0,25,0,12.5
+662973,Sam Curran,30 Apr 2025,v Punjab Kings,Chennai,1,3,88,83,47,9,4,187.23,caught,2,3.0,0,27,0,9
+662973,Sam Curran,3 May 2025,v RCB,Bengaluru,2,3,5,6,5,1,0,100,caught,1,3.0,0,34,1,11.33
+662973,Sam Curran,30 May 2025,v Somerset,Taunton,1,4,22,-,23,2,0,95.65,caught,2,3.5,0,30,2,7.82
+662973,Sam Curran,3 Jun 2025,v Glamorgan,Cardiff,1,4,7,13,9,0,0,77.77,caught,2,4.0,0,18,3,4.5
+662973,Sam Curran,5 Jun 2025,v Hampshire,The Oval,1,4,34,37,24,2,2,141.66,caught,2,1.0,0,16,0,16
+662973,Sam Curran,6 Jun 2025,v Kent,Canterbury,1,4,1,6,2,0,0,50,caught,2,3.0,0,24,2,8
+662973,Sam Curran,12 Jun 2025,v Kent,The Oval,2,4,32,37,26,4,0,123.07,caught,1,4.0,0,35,1,8.75
+662973,Sam Curran,17 Jun 2025,v Hampshire,Southampton,1,4,38,31,20,2,3,190,caught,2,2.0,0,20,0,10
+662973,Sam Curran,18 Jun 2025,v Sussex,The Oval,1,4,38,31,28,2,2,135.71,caught,2,DNB,-,-,-,-
+662973,Sam Curran,20 Jun 2025,v Middlesex,The Oval,1,4,26,21,17,2,1,152.94,caught,2,3.0,0,25,0,8.33
+662973,Sam Curran,6 Jul 2025,v Essex,The Oval,1,4,25,15,13,2,2,192.3,caught,2,3.0,0,35,2,11.66
+662973,Sam Curran,9 Jul 2025,v Gloucs,Bristol,1,4,46,44,33,5,1,139.39,caught,2,4.0,0,32,3,8
+662973,Sam Curran,11 Jul 2025,v Glamorgan,The Oval,2,4,5,10,8,0,0,62.5,caught,1,4.0,0,31,2,7.75
+662973,Sam Curran,13 Jul 2025,v Somerset,The Oval,1,4,0,2,1,0,0,0,stumped,2,4.0,0,27,2,6.75
+662973,Sam Curran,16 Jul 2025,v Middlesex,Lord's,1,4,8,10,7,1,0,114.28,caught,2,4.0,0,34,0,8.5
+662973,Sam Curran,18 Jul 2025,v Sussex,Hove,1,4,14,10,7,0,2,200,bowled,2,3.0,0,18,4,6
+662973,Sam Curran,5 Aug 2025,v Spirit,Lord's,2,4,14,8,9,3,0,155.55,bowled,1,3.4,0,18,3,5.68
+662973,Sam Curran,9 Aug 2025,v Originals,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,5.1
+662973,Sam Curran,12 Aug 2025,v Phoenix,Birmingham,1,4,14,11,9,2,0,155.55,caught,2,4.0,0,27,1,8.1
+662973,Sam Curran,16 Aug 2025,v Fire,The Oval,1,4,34,28,19,3,2,178.94,caught,2,3.0,0,20,1,8
+662973,Sam Curran,18 Aug 2025,v Brave,Southampton,2,4,50*,54,32,4,2,156.25,not out,1,3.3,0,21,3,7
+662973,Sam Curran,21 Aug 2025,v Rockets,The Oval,2,4,54,33,24,2,6,225,caught,1,4.0,0,41,0,12.3
+662973,Sam Curran,23 Aug 2025,v N S-Chargers,Leeds,2,4,30,23,19,2,2,157.89,caught,1,3.0,0,33,1,13.2
+662973,Sam Curran,25 Aug 2025,v Spirit,The Oval,2,4,27,17,13,2,2,207.69,caught,1,4.0,0,30,1,9
+662973,Sam Curran,31 Aug 2025,v Rockets,Lord's,1,4,15,19,10,0,2,150,caught,2,4.0,0,31,0,9.3
+662973,Sam Curran,3 Sep 2025,v Northants,The Oval,2,4,69*,65,38,5,3,181.57,not out,1,3.0,0,43,0,14.33
+662973,Sam Curran,10 Sep 2025,v South Africa,Cardiff,2,7,10*,5,3,0,1,333.33,not out,1,1.0,0,11,1,11
+662973,Sam Curran,12 Sep 2025,v South Africa,Manchester,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,2,5.5
+662973,Sam Curran,17 Sep 2025,v Ireland,Dublin (Malahide),2,5,27,25,15,0,3,180,caught,1,4.0,0,43,0,10.75
+662973,Sam Curran,18 Oct 2025,v New Zealand,Christchurch,1,6,49*,49,35,3,2,140,not out,-,TDNB,-,-,-,-
+662973,Sam Curran,20 Oct 2025,v New Zealand,Christchurch,1,5,8*,14,3,0,1,266.66,not out,2,3.0,0,37,0,12.33
+662973,Sam Curran,23 Oct 2025,v New Zealand,Auckland,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+662973,Sam Curran,2 Dec 2025,v DC,Dubai (DICS),2,4,7,16,11,0,0,63.63,caught,1,4.0,0,28,1,7
+662973,Sam Curran,5 Dec 2025,v KnightRiders,Sharjah,2,4,19,-,15,2,0,126.66,caught,1,4.0,0,34,0,8.5
+662973,Sam Curran,8 Dec 2025,v Gulf Giants,Dubai (DICS),2,4,44,-,36,1,3,122.22,caught,1,3.0,0,33,0,11
+662973,Sam Curran,9 Dec 2025,v MI Emirates,Abu Dhabi,1,4,19,35,19,2,0,100,caught,2,3.0,0,32,1,10.66
+662973,Sam Curran,12 Dec 2025,v Gulf Giants,Dubai (DICS),2,4,67*,60,43,5,3,155.81,not out,1,4.0,0,27,1,6.75
+662973,Sam Curran,14 Dec 2025,v DC,Dubai (DICS),2,4,52*,65,33,2,3,157.57,not out,1,3.0,0,17,2,5.66
+662973,Sam Curran,16 Dec 2025,v KnightRiders,Abu Dhabi,2,4,11,-,10,0,1,110,caught,1,4.0,0,36,1,9
+662973,Sam Curran,20 Dec 2025,v Warriorz,Dubai (DICS),2,4,37,38,31,5,0,119.35,caught,1,1.0,0,3,1,3
+662973,Sam Curran,21 Dec 2025,v MI Emirates,Dubai (DICS),1,4,4,6,4,0,0,100,caught,2,DNB,-,-,-,-
+662973,Sam Curran,26 Dec 2025,v Warriorz,Sharjah,2,4,25,37,28,2,1,89.28,lbw,1,4.0,0,16,0,4
+662973,Sam Curran,30 Dec 2025,v MI Emirates,Abu Dhabi,1,3,38*,25,12,2,4,316.66,not out,2,3.0,0,48,0,16
+662973,Sam Curran,4 Jan 2026,v MI Emirates,Dubai (DICS),1,4,74*,69,51,8,2,145.09,not out,2,2.0,0,24,0,12
+662973,Sam Curran,8 Jan 2026,v Stars,Melbourne,2,4,17,26,21,2,0,80.95,caught,1,2.0,0,31,0,15.5
+662973,Sam Curran,11 Jan 2026,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+662973,Sam Curran,16 Jan 2026,v Thunder,Sydney,2,5,1,9,3,0,0,33.33,caught,1,4.0,0,28,3,7
+662973,Sam Curran,18 Jan 2026,v Heat,Brisbane,2,5,53*,45,27,5,2,196.29,not out,1,4.0,0,37,2,9.25
+662973,Sam Curran,30 Jan 2026,v Sri Lanka,Pallekele,2,6,1*,2,1,0,0,100,not out,1,3.0,0,38,3,12.66
+662973,Sam Curran,1 Feb 2026,v Sri Lanka,Pallekele,2,6,20*,23,14,1,1,142.85,not out,1,2.0,0,31,0,15.5
+662973,Sam Curran,3 Feb 2026,v Sri Lanka,Pallekele,1,6,58,73,48,6,1,120.83,caught,2,1.0,0,9,0,9
+662973,Sam Curran,8 Feb 2026,v Nepal,Wankhede,1,6,2,7,8,0,0,25,bowled,2,4.0,0,27,1,6.75
+662973,Sam Curran,11 Feb 2026,v West Indies,Wankhede,2,6,43*,54,30,3,2,143.33,not out,1,3.0,0,36,1,12
+662973,Sam Curran,14 Feb 2026,v Scotland,Eden Gardens,2,6,28,25,20,1,2,140,caught,1,3.4,0,33,1,9
+662973,Sam Curran,16 Feb 2026,v Italy,Eden Gardens,1,6,25,27,19,0,2,131.57,caught,2,3.0,0,22,3,7.33
+662973,Sam Curran,22 Feb 2026,v Sri Lanka,Pallekele,1,6,11,15,11,0,1,100,caught,2,DNB,-,-,-,-
+662973,Sam Curran,24 Feb 2026,v Pakistan,Pallekele,2,6,16,20,15,1,0,106.66,caught,1,3.0,0,24,0,8
+662973,Sam Curran,27 Feb 2026,v New Zealand,Colombo (RPS),2,6,24,28,22,2,1,109.09,caught,1,1.0,0,10,0,10
+662973,Sam Curran,5 Mar 2026,v India,Wankhede,2,7,18,25,14,2,0,128.57,caught,1,4.0,0,53,0,13.25

@@ -1,0 +1,33 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1254269,Aman Khan,4 Nov 2021,v Karnataka,Guwahati,2,7,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+1254269,Aman Khan,5 Nov 2021,v Services,Guwahati,1,6,18,-,9,2,1,200,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,6 Nov 2021,v Bengal,Guwahati,1,7,12,-,10,0,1,120,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,8 Nov 2021,v Chhattisgarh,Guwahati,2,7,4*,-,3,0,0,133.33,not out,1,DNB,-,-,-,-
+1254269,Aman Khan,9 Nov 2021,v Baroda,Guwahati,1,4,5*,-,3,1,0,166.66,not out,2,1.0,0,7,0,7
+1254269,Aman Khan,15 Apr 2022,v SRH,Brabourne,1,9,5,6,3,1,0,166.66,bowled,2,1.0,0,13,0,13
+1254269,Aman Khan,11 Oct 2022,v Mizoram,Saurashtra,2,3,39*,-,22,5,2,177.27,not out,1,2.0,0,19,0,9.5
+1254269,Aman Khan,12 Oct 2022,v M. Pradesh,Rajkot,2,5,21*,-,11,1,2,190.9,not out,1,2.0,0,25,0,12.5
+1254269,Aman Khan,14 Oct 2022,v Assam,Rajkot,1,2,15,-,7,2,1,214.28,caught,2,2.0,0,14,2,7
+1254269,Aman Khan,16 Oct 2022,v Vidarbha,Saurashtra,1,2,11,-,9,2,0,122.22,bowled,2,1.0,0,6,0,6
+1254269,Aman Khan,20 Oct 2022,v Railways,Rajkot,1,7,2,-,5,0,0,40,caught,2,2.0,0,10,0,5
+1254269,Aman Khan,1 Nov 2022,v Saurashtra,Eden Gardens,2,8,14,10,6,1,1,233.33,caught,1,4.0,0,25,1,6.25
+1254269,Aman Khan,3 Nov 2022,v Vidarbha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+1254269,Aman Khan,5 Nov 2022,v Himachal,Eden Gardens,2,7,6,4,2,0,1,300,caught,1,2.0,0,24,1,12
+1254269,Aman Khan,1 Apr 2023,v LSG,Lucknow,2,7,4,11,5,0,0,80,caught,1,DNB,-,-,-,-
+1254269,Aman Khan,4 Apr 2023,v GT,Delhi,1,8,8,10,8,0,1,100,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,15 Apr 2023,v RCB,Bengaluru,2,8,18,27,10,1,1,180,caught,1,DNB,-,-,-,-
+1254269,Aman Khan,20 Apr 2023,v KKR,Delhi,2,7,0,4,2,0,0,0,bowled,1,DNB,-,-,-,-
+1254269,Aman Khan,24 Apr 2023,v SRH,Hyderabad,1,6,4,3,2,1,0,200,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,2 May 2023,v GT,Ahmedabad,1,7,51,62,44,3,3,115.9,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,6 May 2023,v RCB,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1254269,Aman Khan,10 May 2023,v CSK,Chennai,2,8,2*,13,3,0,0,66.66,not out,1,DNB,-,-,-,-
+1254269,Aman Khan,13 May 2023,v Punjab Kings,Delhi,2,7,16,24,18,1,1,88.88,caught,1,DNB,-,-,-,-
+1254269,Aman Khan,17 May 2023,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1254269,Aman Khan,20 May 2023,v CSK,Delhi,2,7,7,17,9,1,0,77.77,caught,1,DNB,-,-,-,-
+1254269,Aman Khan,26 Nov 2025,v Haryana,Hyderabad,1,5,35,-,19,3,2,184.21,caught,2,4.0,0,28,4,7
+1254269,Aman Khan,28 Nov 2025,v Baroda,Hyderabad,1,6,72,-,40,7,4,180,run out,2,2.0,0,22,1,11
+1254269,Aman Khan,30 Nov 2025,v Services,Hyderabad,1,6,14,-,18,0,1,77.77,caught,2,DNB,-,-,-,-
+1254269,Aman Khan,2 Dec 2025,v Gujarat,Hyderabad,1,5,9,-,10,1,0,90,caught,2,1.0,0,17,0,17
+1254269,Aman Khan,4 Dec 2025,v Punjab,Hyderabad,2,6,10,-,9,1,1,111.11,caught,1,4.0,0,37,0,9.25
+1254269,Aman Khan,6 Dec 2025,v Bengal,Hyderabad,1,4,74,-,40,5,7,185,caught,2,0.5,0,5,1,6
+1254269,Aman Khan,8 Dec 2025,v Himachal,Hyderabad,1,4,23,-,15,0,2,153.33,caught,2,2.0,0,26,0,13

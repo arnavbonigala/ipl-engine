@@ -1,0 +1,232 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+328026,Isuru Udana,25 Mar 2009,v Basnahira S,Colombo (SSC),2,9,10,-,15,0,0,66.66,bowled,1,4.0,0,25,2,6.25
+328026,Isuru Udana,26 Mar 2009,v Schls Inv XI,Colombo (Moors),2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+328026,Isuru Udana,28 Mar 2009,v Ruhuna,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,1,8
+328026,Isuru Udana,29 Mar 2009,v Basnahira N,Colombo (Colts),1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,2,6.33
+328026,Isuru Udana,31 Mar 2009,v Kandurata,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,2.2,1,6,3,2.57
+328026,Isuru Udana,4 Apr 2009,v Ruhuna,Colombo (SSC),-,-,TDNB,-,-,-,-,-,-,1,2.0,0,7,2,3.5
+328026,Isuru Udana,5 Apr 2009,v Basnahira S,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,4,7.75
+328026,Isuru Udana,8 Jun 2009,v Australia,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,2,11.75
+328026,Isuru Udana,10 Jun 2009,v West Indies,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+328026,Isuru Udana,16 Jun 2009,v New Zealand,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+328026,Isuru Udana,19 Jun 2009,v West Indies,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+328026,Isuru Udana,21 Jun 2009,v Pakistan,Lord's,1,7,1,4,5,0,0,20,bowled,2,4.0,0,44,0,11
+328026,Isuru Udana,11 Oct 2009,v Daredevils,Delhi,2,9,11*,-,10,1,0,110,not out,1,4.0,0,38,0,9.5
+328026,Isuru Udana,1 Feb 2010,v Canada,Colombo (PSS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+328026,Isuru Udana,3 Feb 2010,v Afghanistan,Colombo (SSC),1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+328026,Isuru Udana,4 Feb 2010,v Ireland,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+328026,Isuru Udana,24 Feb 2010,v Basnahira S,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+328026,Isuru Udana,25 Feb 2010,v SLC Comb XI,Kandy,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+328026,Isuru Udana,27 Feb 2010,v Ruhuna,Kurunegala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+328026,Isuru Udana,28 Feb 2010,v Basnahira N,Kurunegala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+328026,Isuru Udana,4 Mar 2010,v Kandurata,Galle,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+328026,Isuru Udana,6 Mar 2010,v Basnahira S,Moratuwa,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+328026,Isuru Udana,7 Mar 2010,v Ruhuna,Moratuwa,1,9,9*,-,3,0,1,300,not out,2,3.0,0,34,2,11.33
+328026,Isuru Udana,2 Jul 2010,v Australia A,Townsville,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+328026,Isuru Udana,15 Sep 2010,v CSK,Centurion,2,8,13,18,16,2,0,81.25,caught,1,4.0,0,30,0,7.5
+328026,Isuru Udana,20 Sep 2010,v Victoria,Centurion,1,8,0,1,1,0,0,0,caught,2,3.0,0,31,1,10.33
+328026,Isuru Udana,22 Sep 2010,v Central D,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,3,7.33
+328026,Isuru Udana,23 Jul 2011,v Kandurata,Colombo (RPS),1,9,2,-,2,0,0,100,caught,2,2.0,0,25,0,12.5
+328026,Isuru Udana,24 Jul 2011,v Basnahira,Colombo (RPS),2,10,0*,-,0,0,0,-,not out,1,3.0,0,31,0,10.33
+328026,Isuru Udana,27 Jul 2011,v Wayamba,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+328026,Isuru Udana,26 Mar 2012,v Saracens,Colombo (SSC),2,7,6*,-,1,0,1,600,not out,1,3.0,0,19,1,6.33
+328026,Isuru Udana,27 Mar 2012,v Badureliya,Colombo (SSC),2,7,12,-,12,0,0,100,bowled,1,4.0,0,29,2,7.25
+328026,Isuru Udana,28 Mar 2012,v Air Force SC,Colombo (SSC),1,6,7,-,9,0,0,77.77,caught,2,3.0,0,27,1,9
+328026,Isuru Udana,29 Mar 2012,v Nondescripts,Colombo (Colts),2,6,9,-,7,0,1,128.57,caught,1,4.0,0,39,3,9.75
+328026,Isuru Udana,3 Jun 2012,v Pakistan,Hambantota,2,11,1*,5,2,0,0,50,not out,1,4.0,1,18,0,4.5
+328026,Isuru Udana,12 Aug 2012,v Uthura,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+328026,Isuru Udana,17 Aug 2012,v Uva Next,Pallekele,1,9,5,-,3,1,0,166.66,caught,2,3.1,0,19,2,6
+328026,Isuru Udana,19 Aug 2012,v Basnahira CD,Pallekele,1,9,2,-,2,0,0,100,caught,2,4.0,0,27,1,6.75
+328026,Isuru Udana,20 Aug 2012,v Nagenahira,Pallekele,1,-,DNB,-,-,-,-,-,-,2,2.5,0,17,2,6
+328026,Isuru Udana,24 Aug 2012,v K Warriors,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,1,35,2,8.75
+328026,Isuru Udana,26 Aug 2012,v Ruhuna Ryls,Colombo (RPS),1,8,1*,-,3,0,0,33.33,not out,2,4.0,0,37,1,9.25
+328026,Isuru Udana,28 Aug 2012,v Uva Next,Colombo (RPS),2,9,42,-,38,3,2,110.52,caught,1,3.0,0,26,1,8.66
+328026,Isuru Udana,11 Feb 2013,v Rangpur,Mirpur,2,8,7,8,4,1,0,175,caught,1,2.0,0,18,0,9
+328026,Isuru Udana,13 Feb 2013,v Chittagong,Mirpur,2,8,6*,6,7,1,0,85.71,not out,1,4.0,1,26,0,6.5
+328026,Isuru Udana,16 Feb 2013,v Chittagong,Mirpur,1,9,2*,5,2,0,0,100,not out,2,3.2,0,23,1,6.9
+328026,Isuru Udana,10 Aug 2013,v Uth Yellows,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+328026,Isuru Udana,12 Aug 2013,v Kandurata Ma,Colombo (RPS),2,9,24,-,16,1,2,150,caught,1,4.0,0,32,2,8
+328026,Isuru Udana,14 Aug 2013,v Ruhuna Reds,Colombo (RPS),1,10,12,-,5,1,1,240,bowled,2,3.0,0,22,1,7.33
+328026,Isuru Udana,17 Aug 2013,v Kandurata Ma,Colombo (RPS),1,8,3,-,7,0,0,42.85,caught,2,3.0,0,27,1,9
+328026,Isuru Udana,29 Oct 2013,v Kenya,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+328026,Isuru Udana,31 Oct 2013,v Kenya,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+328026,Isuru Udana,31 Oct 2013,v Kenya,Colombo (CCC),1,9,8,-,6,1,0,133.33,caught,2,2.0,0,27,0,13.5
+328026,Isuru Udana,2 Nov 2013,v Kenya,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+328026,Isuru Udana,27 Jun 2014,v Yaal Blazers,Colombo (SSC),1,8,4,-,2,1,0,200,caught,2,3.0,0,28,1,9.33
+328026,Isuru Udana,28 Jun 2014,v Rulers,Colombo (SSC),2,5,20,-,14,0,2,142.85,caught,1,4.0,0,46,0,11.5
+328026,Isuru Udana,30 Jun 2014,v Express,Colombo (SSC),-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+328026,Isuru Udana,1 Jul 2014,v Express,Colombo (SSC),1,9,6,-,5,1,0,120,caught,2,3.0,0,39,1,13
+328026,Isuru Udana,1 Apr 2015,v Bloomfield,Colombo (CCC),1,6,10,-,10,0,1,100,caught,-,TDNB,-,-,-,-
+328026,Isuru Udana,2 Apr 2015,v Moors,Colombo (Colts),1,8,3,-,3,0,0,100,caught,2,4.0,0,31,0,7.75
+328026,Isuru Udana,4 Apr 2015,v Chilaw MCC,Panagoda,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+328026,Isuru Udana,5 Apr 2015,v Air Force SC,Colombo (SSC),2,6,3,-,2,0,0,150,run out,1,4.0,0,25,3,6.25
+328026,Isuru Udana,6 Apr 2015,v Nondescripts,Colombo (NCC),1,5,15,-,11,2,0,136.36,caught,2,1.0,0,16,0,16
+328026,Isuru Udana,8 Apr 2015,v Colts CC,Colombo (Bloomfield),1,5,15,-,14,0,1,107.14,bowled,2,4.0,0,26,0,6.5
+328026,Isuru Udana,10 Jan 2016,v New Zealand,Auckland,1,9,0,3,2,0,0,0,caught,2,3.0,0,34,0,11.33
+328026,Isuru Udana,19 Jan 2016,v Bloomfield,Colombo (PSS),1,7,2,-,3,0,0,66.66,caught,2,3.0,0,29,0,9.66
+328026,Isuru Udana,20 Jan 2016,v Sinhalese,Colombo (PSS),1,7,12,-,9,1,0,133.33,caught,2,3.5,0,31,0,8.08
+328026,Isuru Udana,21 Jan 2016,v Ragama CC,Colombo (Colts),2,7,0*,-,0,0,0,-,not out,1,4.0,0,32,2,8
+328026,Isuru Udana,23 Jan 2016,v Tamil Union,Colombo (RPS),1,7,0,-,1,0,0,0,caught,2,3.5,0,53,3,13.82
+328026,Isuru Udana,26 Jan 2016,v Commandos,Colombo (RPS),1,7,0,-,1,0,0,0,bowled,2,2.4,0,27,2,10.12
+328026,Isuru Udana,27 Jan 2016,v Kurunegala W,Colombo (RPS),2,4,7*,-,6,1,0,116.66,not out,1,3.0,0,12,1,4
+328026,Isuru Udana,30 Jan 2016,v Crusaders,Colombo (RPS),2,9,4*,-,2,1,0,200,not out,1,1.0,0,9,0,9
+328026,Isuru Udana,1 Feb 2016,v Troopers,Colombo (RPS),2,9,7,-,4,0,1,175,caught,1,3.0,0,40,1,13.33
+328026,Isuru Udana,22 Jan 2017,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.3,0,13,3,5.2
+328026,Isuru Udana,25 Jan 2017,v South Africa,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,0,12.25
+328026,Isuru Udana,15 Feb 2017,v PM's XI,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,1,12.5
+328026,Isuru Udana,6 Sep 2017,v India,Colombo (RPS),1,9,19*,-,10,2,1,190,not out,2,4.0,0,36,1,9
+328026,Isuru Udana,26 Oct 2017,v Pakistan,Abu Dhabi,1,10,0,-,1,0,0,0,bowled,2,3.0,0,18,0,6
+328026,Isuru Udana,27 Oct 2017,v Pakistan,Abu Dhabi,1,7,6,-,4,1,0,150,caught,2,4.0,0,17,1,4.25
+328026,Isuru Udana,29 Oct 2017,v Pakistan,Lahore,2,10,0*,-,0,0,0,-,not out,1,3.0,0,32,1,10.66
+328026,Isuru Udana,2 Dec 2017,v Victorians,Mirpur,1,9,9,-,6,1,0,150,bowled,2,3.3,0,18,0,5.14
+328026,Isuru Udana,3 Dec 2017,v Khulna,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+328026,Isuru Udana,10 Dec 2017,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+328026,Isuru Udana,12 Dec 2017,v Dynamites,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+328026,Isuru Udana,15 Feb 2018,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+328026,Isuru Udana,18 Feb 2018,v Bangladesh,Sylhet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,12,1,6
+328026,Isuru Udana,24 Feb 2018,v Police SC,Colombo (Burgher),2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,0,4.75
+328026,Isuru Udana,25 Feb 2018,v Burgher,Colombo (Bloomfield),1,7,14,-,14,1,0,100,run out,-,TDNB,-,-,-,-
+328026,Isuru Udana,27 Feb 2018,v Ragama CC,Colombo (Colts),1,6,0,-,1,0,0,0,caught,2,3.0,0,13,2,4.33
+328026,Isuru Udana,16 Mar 2018,v Bangladesh,Colombo (RPS),1,8,7*,-,4,0,0,175,not out,2,2.5,0,26,1,9.17
+328026,Isuru Udana,14 Aug 2018,v South Africa,Colombo (RPS),2,9,5*,-,5,1,0,100,not out,1,1.4,0,9,1,5.4
+328026,Isuru Udana,21 Aug 2018,v Kandy,Colombo (RPS),1,6,13*,-,4,0,2,325,not out,2,3.0,0,28,2,9.33
+328026,Isuru Udana,22 Aug 2018,v Galle,Colombo (RPS),1,7,25,-,11,4,1,227.27,bowled,2,1.0,0,1,0,1
+328026,Isuru Udana,26 Aug 2018,v Kandy,Dambulla,1,6,27*,-,9,1,3,300,not out,2,3.0,0,39,1,13
+328026,Isuru Udana,29 Aug 2018,v Galle,Pallekele,2,7,7*,-,8,1,0,87.5,not out,1,4.0,0,36,1,9
+328026,Isuru Udana,30 Aug 2018,v Colombo,Pallekele,1,8,41*,-,25,0,5,164,not out,2,1.0,0,7,0,7
+328026,Isuru Udana,2 Sep 2018,v Colombo,Colombo (RPS),1,9,0*,-,0,0,0,-,not out,2,2.2,0,26,1,11.14
+328026,Isuru Udana,7 Oct 2018,v KingsLeopard,Sharjah,1,9,0,-,1,0,0,0,bowled,2,4.0,0,28,2,7
+328026,Isuru Udana,10 Oct 2018,v Legends,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,4,9.5
+328026,Isuru Udana,12 Oct 2018,v Knights,Sharjah,1,9,23,-,23,0,1,100,caught,2,4.0,0,19,3,4.75
+328026,Isuru Udana,13 Oct 2018,v Legends,Sharjah,2,10,7*,-,8,0,0,87.5,not out,1,4.0,0,27,1,6.75
+328026,Isuru Udana,14 Oct 2018,v KingsLeopard,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+328026,Isuru Udana,17 Oct 2018,v Knights,Sharjah,1,9,3*,-,3,0,0,100,not out,2,4.0,0,29,1,7.25
+328026,Isuru Udana,18 Oct 2018,v Kabul Zwanan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+328026,Isuru Udana,20 Oct 2018,v Kabul Zwanan,Sharjah,2,10,7,-,3,0,1,233.33,bowled,1,4.0,0,57,2,14.25
+328026,Isuru Udana,27 Oct 2018,v England,Colombo (RPS),2,8,2,-,3,0,0,66.66,caught,1,3.0,0,24,1,8
+328026,Isuru Udana,9 Jan 2019,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,3,3.75
+328026,Isuru Udana,11 Jan 2019,v Victorians,Mirpur,1,9,32,-,30,5,1,106.66,caught,2,3.0,0,20,0,6.66
+328026,Isuru Udana,13 Jan 2019,v Rangpur,Mirpur,1,8,8,-,5,1,0,160,caught,2,4.0,0,22,1,5.5
+328026,Isuru Udana,15 Jan 2019,v Khulna,Sylhet,2,8,6,-,14,0,0,42.85,caught,1,4.0,0,36,2,9
+328026,Isuru Udana,16 Jan 2019,v Dynamites,Sylhet,1,8,3*,-,4,0,0,75,not out,2,4.0,0,36,1,9
+328026,Isuru Udana,15 Feb 2019,v Kandy CCC,Colombo (Colts),1,8,24*,-,18,1,0,133.33,not out,2,2.0,0,7,1,3.5
+328026,Isuru Udana,16 Feb 2019,v Lankan CC,Katunayake,1,7,8,-,7,1,0,114.28,caught,2,4.0,0,29,1,7.25
+328026,Isuru Udana,18 Feb 2019,v Galle CC,Colombo (CCC),1,6,24*,-,16,0,2,150,not out,2,4.0,0,37,0,9.25
+328026,Isuru Udana,19 Mar 2019,v South Africa,Cape Town,1,8,12*,9,6,1,0,200,not out,2,3.0,0,32,0,10.66
+328026,Isuru Udana,22 Mar 2019,v South Africa,Centurion,2,8,84*,54,48,8,6,175,not out,1,4.0,0,39,1,9.75
+328026,Isuru Udana,24 Mar 2019,v South Africa,Johannesburg,2,7,36,29,23,0,4,156.52,caught,1,4.0,0,36,0,9
+328026,Isuru Udana,1 Sep 2019,v New Zealand,Pallekele,1,6,15*,-,3,0,2,500,not out,2,3.3,0,38,0,10.85
+328026,Isuru Udana,3 Sep 2019,v New Zealand,Pallekele,1,8,13,-,8,1,0,162.5,caught,2,3.0,0,18,1,6
+328026,Isuru Udana,6 Sep 2019,v New Zealand,Pallekele,1,8,2,8,4,0,0,50,run out,2,DNB,-,-,-,-
+328026,Isuru Udana,5 Oct 2019,v Pakistan,Lahore,1,6,5*,-,4,0,0,125,not out,2,2.4,0,11,3,4.12
+328026,Isuru Udana,7 Oct 2019,v Pakistan,Lahore,1,7,8,-,6,1,0,133.33,bowled,2,4.0,0,38,2,9.5
+328026,Isuru Udana,30 Oct 2019,v Australia,Brisbane,1,8,10,-,14,0,0,71.42,caught,2,2.0,0,16,0,8
+328026,Isuru Udana,10 Nov 2019,v Blitz,Paarl,1,7,6,11,7,1,0,85.71,caught,2,2.4,0,14,1,5.25
+328026,Isuru Udana,17 Nov 2019,v Spartans,Paarl,1,7,14,19,9,0,1,155.55,run out,2,3.1,0,39,0,12.31
+328026,Isuru Udana,22 Nov 2019,v Jozi Stars,Paarl,2,7,7*,7,4,1,0,175,not out,1,4.0,0,29,0,7.25
+328026,Isuru Udana,24 Nov 2019,v Blitz,Cape Town,1,6,0,3,3,0,0,0,caught,2,4.0,0,48,2,12
+328026,Isuru Udana,27 Nov 2019,v Giants,Gqeberha,1,7,3,9,8,0,0,37.5,caught,2,4.0,0,34,2,8.5
+328026,Isuru Udana,29 Nov 2019,v Spartans,Centurion,1,9,10,12,11,2,0,90.9,caught,2,2.0,0,7,0,3.5
+328026,Isuru Udana,1 Dec 2019,v Jozi Stars,Johannesburg,2,7,28*,21,16,1,2,175,not out,1,4.0,0,29,2,7.25
+328026,Isuru Udana,4 Dec 2019,v Durban Heat,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+328026,Isuru Udana,8 Dec 2019,v Giants,Paarl,1,7,27*,27,21,0,1,128.57,not out,2,4.0,0,32,0,8
+328026,Isuru Udana,16 Dec 2019,v Spartans,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+328026,Isuru Udana,5 Jan 2020,v India,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+328026,Isuru Udana,7 Jan 2020,v India,Indore,1,9,1,-,2,0,0,50,caught,2,DNB,-,-,-,-
+328026,Isuru Udana,4 Mar 2020,v West Indies,Pallekele,2,9,3,-,5,0,0,60,caught,1,3.0,0,41,1,13.66
+328026,Isuru Udana,28 Sep 2020,v MI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+328026,Isuru Udana,3 Oct 2020,v RR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+328026,Isuru Udana,5 Oct 2020,v DC,Dubai (DICS),2,8,1,-,3,0,0,33.33,caught,1,4.0,0,40,1,10
+328026,Isuru Udana,10 Oct 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+328026,Isuru Udana,12 Oct 2020,v KKR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+328026,Isuru Udana,15 Oct 2020,v Kings XI,Sharjah,1,8,10*,-,5,0,1,200,not out,2,2.0,0,14,0,7
+328026,Isuru Udana,17 Oct 2020,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,43,0,14.33
+328026,Isuru Udana,21 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+328026,Isuru Udana,31 Oct 2020,v SRH,Sharjah,1,8,0,-,1,0,0,0,caught,2,3.0,0,20,1,6.66
+328026,Isuru Udana,2 Nov 2020,v DC,Abu Dhabi,1,8,4,-,2,1,0,200,caught,2,2.0,0,24,0,12
+328026,Isuru Udana,26 Nov 2020,v Tuskers,Hambantota,2,7,34*,-,12,0,4,283.33,not out,1,4.0,0,33,0,8.25
+328026,Isuru Udana,28 Nov 2020,v Galle,Hambantota,1,-,DNB,-,-,-,-,-,-,2,2.0,0,33,0,16.5
+328026,Isuru Udana,1 Dec 2020,v Viiking,Hambantota,2,7,5,-,11,0,0,45.45,caught,1,4.0,0,25,3,6.25
+328026,Isuru Udana,4 Dec 2020,v Stallions,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,1,12.5
+328026,Isuru Udana,5 Dec 2020,v Tuskers,Hambantota,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+328026,Isuru Udana,7 Dec 2020,v Galle,Hambantota,1,8,21,-,10,1,2,210,caught,2,4.0,0,32,0,8
+328026,Isuru Udana,10 Dec 2020,v Stallions,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+328026,Isuru Udana,13 Dec 2020,v Galle,Hambantota,1,9,19,-,11,1,1,172.72,caught,2,3.5,0,26,0,6.78
+328026,Isuru Udana,4 Mar 2021,v SL Army,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+328026,Isuru Udana,6 Mar 2021,v Saracens,Katunayake,2,5,5,-,6,0,0,83.33,caught,1,4.0,0,38,1,9.5
+328026,Isuru Udana,7 Mar 2021,v Ragama CC,Colombo (NCC),1,8,11,-,12,0,0,91.66,caught,2,4.0,0,20,0,5
+328026,Isuru Udana,11 Mar 2021,v Panadura,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+328026,Isuru Udana,13 Mar 2021,v Sebast CAC,Colombo (NCC),1,8,16*,-,11,0,1,145.45,not out,2,4.0,0,17,1,4.25
+328026,Isuru Udana,14 Mar 2021,v SL Navy,Colombo (NCC),1,4,5,-,5,0,0,100,bowled,2,4.0,0,28,1,7
+328026,Isuru Udana,23 Jun 2021,v England,Cardiff,1,8,6*,21,7,0,0,85.71,not out,2,4.0,0,30,1,7.5
+328026,Isuru Udana,24 Jun 2021,v England,Cardiff,1,8,19*,20,14,1,1,135.71,not out,2,4.0,0,25,1,6.25
+328026,Isuru Udana,26 Jun 2021,v England,Southampton,2,8,0,10,4,0,0,0,caught,1,4.0,0,55,1,13.75
+328026,Isuru Udana,25 Jul 2021,v India,Colombo (RPS),2,9,1,8,2,0,0,50,caught,1,4.0,0,32,0,8
+328026,Isuru Udana,28 Jul 2021,v India,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+328026,Isuru Udana,26 Aug 2021,v Amazon,Basseterre,2,8,1,-,6,0,0,16.66,caught,1,4.0,0,39,1,9.75
+328026,Isuru Udana,27 Aug 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,5,5.25
+328026,Isuru Udana,29 Aug 2021,v Kings,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+328026,Isuru Udana,31 Aug 2021,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+328026,Isuru Udana,1 Sep 2021,v Amazon,Basseterre,1,8,21,14,9,2,2,233.33,caught,2,3.0,0,38,0,12.66
+328026,Isuru Udana,5 Sep 2021,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,49,1,16.33
+328026,Isuru Udana,12 Sep 2021,v Patriots,Basseterre,2,7,25*,24,16,0,3,156.25,not out,1,4.0,0,28,2,7
+328026,Isuru Udana,5 Dec 2021,v Jaffna Kings,Colombo (RPS),1,8,0,-,1,0,0,0,caught,2,1.0,0,9,0,9
+328026,Isuru Udana,6 Dec 2021,v Stars,Colombo (RPS),1,9,25*,-,17,0,2,147.05,not out,2,DNB,-,-,-,-
+328026,Isuru Udana,12 Dec 2021,v Stars,Colombo (RPS),2,6,4,-,4,0,0,100,run out,1,4.0,0,49,1,12.25
+328026,Isuru Udana,14 Dec 2021,v Dambulla,Colombo (RPS),1,8,13,-,8,2,0,162.5,caught,2,3.0,0,30,2,10
+328026,Isuru Udana,17 Dec 2021,v Jaffna Kings,Colombo (RPS),1,7,8,-,13,1,0,61.53,caught,2,DNB,-,-,-,-
+328026,Isuru Udana,19 Dec 2021,v Jaffna Kings,Hambantota,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,1,6.33
+328026,Isuru Udana,23 Dec 2021,v Jaffna Kings,Hambantota,2,9,9,-,11,1,0,81.81,caught,1,3.0,0,38,0,12.66
+328026,Isuru Udana,21 Jan 2022,v Khulna,Mirpur,1,8,6*,2,2,1,0,300,not out,2,4.0,0,37,0,9.25
+328026,Isuru Udana,22 Jan 2022,v Chattogram,Mirpur,2,8,16,15,9,0,2,177.77,caught,1,4.0,0,39,1,9.75
+328026,Isuru Udana,24 Jan 2022,v Barishal,Mirpur,2,8,1*,1,1,0,0,100,not out,1,4.0,0,29,2,7.25
+328026,Isuru Udana,25 Jan 2022,v Sunrisers,Mirpur,1,9,1,6,2,0,0,50,caught,2,1.0,0,7,0,7
+328026,Isuru Udana,23 May 2022,v Sebast CAC,Colombo (Colts),2,3,25,-,10,3,2,250,caught,1,4.0,0,25,1,6.25
+328026,Isuru Udana,25 May 2022,v Kandy CCC,Moratuwa,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+328026,Isuru Udana,27 May 2022,v Police SC,Maggona,1,7,10,-,13,0,0,76.92,caught,2,2.0,0,17,0,8.5
+328026,Isuru Udana,29 May 2022,v Negombo,Moratuwa,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+328026,Isuru Udana,10 Jun 2022,v Negombo,Colombo (NCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+328026,Isuru Udana,13 Jun 2022,v Colts CC,Colombo (Burgher),2,7,23,-,16,1,2,143.75,bowled,1,4.0,0,25,2,6.25
+328026,Isuru Udana,6 Dec 2022,v Stars,Hambantota,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+328026,Isuru Udana,7 Dec 2022,v Galle,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+328026,Isuru Udana,10 Dec 2022,v Jaffna Kings,Pallekele,2,9,1*,-,2,0,0,50,not out,1,4.0,0,32,2,8
+328026,Isuru Udana,12 Dec 2022,v Galle,Pallekele,2,9,3*,-,3,0,0,100,not out,1,4.0,0,19,2,4.75
+328026,Isuru Udana,13 Dec 2022,v Aura,Pallekele,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+328026,Isuru Udana,14 Dec 2022,v Jaffna Kings,Pallekele,1,10,1*,-,1,0,0,100,not out,2,4.0,0,27,1,6.75
+328026,Isuru Udana,17 Dec 2022,v Stars,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+328026,Isuru Udana,21 Dec 2022,v Jaffna Kings,Colombo (RPS),1,10,2*,-,1,0,0,200,not out,2,2.0,0,31,0,15.5
+328026,Isuru Udana,22 Dec 2022,v Stars,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+328026,Isuru Udana,12 Feb 2023,v Victorians,Mirpur,1,10,0,3,3,0,0,0,caught,2,2.0,0,15,0,7.5
+328026,Isuru Udana,28 May 2023,v Badureliya,Colombo (SSC),1,2,8,-,6,2,0,133.33,caught,2,4.0,0,22,3,5.5
+328026,Isuru Udana,30 May 2023,v Sinhalese,Colombo (NCC),2,7,28*,-,10,1,3,280,not out,1,4.0,0,36,0,9
+328026,Isuru Udana,1 Jun 2023,v Kurunegala,Colombo (NCC),1,6,1,-,2,0,0,50,lbw,2,2.0,0,8,0,4
+328026,Isuru Udana,7 Jun 2023,v Ace Capital,Colombo (NCC),1,7,8,-,10,0,0,80,run out,2,3.0,0,21,0,7
+328026,Isuru Udana,31 Jul 2023,v Colombo,Colombo (RPS),2,9,7,-,11,0,0,63.63,caught,1,4.0,0,39,3,9.75
+328026,Isuru Udana,1 Aug 2023,v Galle Titans,Colombo (RPS),2,9,16,-,12,3,0,133.33,lbw,1,4.0,0,30,0,7.5
+328026,Isuru Udana,4 Aug 2023,v Aura,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+328026,Isuru Udana,5 Aug 2023,v Jaffna Kings,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+328026,Isuru Udana,8 Aug 2023,v Galle Titans,Pallekele,1,7,3*,-,2,0,0,150,not out,2,2.0,0,18,0,9
+328026,Isuru Udana,12 Aug 2023,v Jaffna Kings,Colombo (RPS),1,8,9,-,6,0,1,150,caught,2,4.0,0,30,1,7.5
+328026,Isuru Udana,13 Aug 2023,v Colombo,Colombo (RPS),2,9,5*,-,5,0,0,100,not out,1,4.0,0,40,2,10
+328026,Isuru Udana,14 Aug 2023,v Aura,Colombo (RPS),2,9,23,-,21,2,1,109.52,bowled,1,3.0,0,30,0,10
+328026,Isuru Udana,17 Aug 2023,v Jaffna Kings,Colombo (RPS),1,9,2,-,2,0,0,100,caught,2,1.0,0,2,0,2
+328026,Isuru Udana,12 May 2024,v Nugegoda SWC,Colombo (Bloomfield),1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+328026,Isuru Udana,14 May 2024,v Police SC,Colombo (SSC),1,7,0,-,1,0,0,0,lbw,2,3.4,0,20,2,5.45
+328026,Isuru Udana,18 May 2024,v Ragama CC,Maggona,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+328026,Isuru Udana,2 Jul 2024,v Jaffna Kings,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,60,2,15
+328026,Isuru Udana,3 Jul 2024,v Colombo,Pallekele,1,8,52,-,34,5,3,152.94,caught,2,4.0,0,34,2,8.5
+328026,Isuru Udana,5 Jul 2024,v Jaffna Kings,Dambulla,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+328026,Isuru Udana,7 Jul 2024,v Kandy,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+328026,Isuru Udana,9 Jul 2024,v Sixers,Dambulla,2,8,72,-,38,5,5,189.47,caught,1,3.0,0,16,2,5.33
+328026,Isuru Udana,10 Jul 2024,v Kandy,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+328026,Isuru Udana,14 Jul 2024,v Sixers,Colombo (RPS),1,8,2,-,4,0,0,50,caught,2,2.0,0,21,0,10.5
+328026,Isuru Udana,15 Jul 2024,v Colombo,Colombo (RPS),1,8,0,-,1,0,0,0,caught,2,4.0,0,50,1,12.5
+328026,Isuru Udana,18 Jul 2024,v Jaffna Kings,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+328026,Isuru Udana,21 Jul 2024,v Jaffna Kings,Colombo (RPS),1,8,2*,-,1,0,0,200,not out,2,3.0,0,42,0,14
+328026,Isuru Udana,16 May 2025,v Ace Capital,Colombo (PSS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+328026,Isuru Udana,25 May 2025,v Moors,Colombo (SSC),2,6,0,-,1,0,0,0,caught,1,2.0,0,11,1,5.5
+328026,Isuru Udana,6 Jun 2025,v Kurunegala,Colombo (SSC),1,7,13,-,8,0,1,162.5,caught,2,2.0,0,13,1,6.5
+328026,Isuru Udana,8 Jun 2025,v Panadura,Colombo (PSS),2,8,23*,-,17,3,0,135.29,not out,1,3.0,0,30,0,10
+328026,Isuru Udana,11 Jun 2025,v Burgher,Colombo (PSS),1,8,4*,-,3,0,0,133.33,not out,2,2.0,0,15,3,7.5
+328026,Isuru Udana,13 Jun 2025,v Moors,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+328026,Isuru Udana,15 Jun 2025,v Panadura,Colombo (CCC),2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75

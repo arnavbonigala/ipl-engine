@@ -1,0 +1,74 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+500135,Prashant Chopra,1 Apr 2014,v Delhi,Mohali,1,1,24,36,28,3,1,85.71,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,2 Apr 2014,v Punjab,Mohali,1,1,90,68,54,9,4,166.66,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,3 Apr 2014,v Services,Mohali,1,1,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,4 Apr 2014,v J & K,Mohali,1,1,5,12,8,1,0,62.5,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,5 Apr 2014,v Haryana,Mohali,1,1,1,8,5,0,0,20,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,24 Mar 2015,v Services,Delhi,2,3,34*,60,40,1,0,85,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,25 Mar 2015,v Haryana,Delhi,1,2,0,3,2,0,0,0,lbw,2,DNB,-,-,-,-
+500135,Prashant Chopra,26 Mar 2015,v Delhi,Delhi,1,3,19,27,21,2,0,90.47,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,27 Mar 2015,v J & K,Delhi,1,3,4,12,8,0,0,50,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,1 Apr 2015,v Andhra,Bhubaneswar,1,3,43,56,39,5,2,110.25,run out,2,DNB,-,-,-,-
+500135,Prashant Chopra,2 Apr 2015,v Gujarat,Bhubaneswar,1,4,40,32,28,1,2,142.85,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,3 Apr 2015,v Jharkhand,Bhubaneswar,1,3,30,40,31,4,0,96.77,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,5 Apr 2015,v M. Pradesh,Bhubaneswar,1,3,59,75,50,6,2,118,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,2 Jan 2016,v Gujarat,Nagpur,2,2,89*,81,62,7,2,143.54,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,3 Jan 2016,v Hyderabad,Nagpur,2,2,5,4,6,1,0,83.33,bowled,1,DNB,-,-,-,-
+500135,Prashant Chopra,4 Jan 2016,v Bengal,Nagpur,2,1,74*,97,61,6,1,121.31,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,7 Jan 2016,v Haryana,Nagpur,2,2,16,40,29,2,0,55.17,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,9 Jan 2016,v Tamil Nadu,Nagpur,2,1,24,26,20,4,0,120,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,10 Jan 2016,v Vidarbha,Nagpur,2,1,20,39,20,0,1,100,bowled,1,DNB,-,-,-,-
+500135,Prashant Chopra,29 Jan 2017,v Services,Dharamsala,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,30 Jan 2017,v Haryana,Dharamsala,2,1,18,31,22,2,0,81.81,run out,1,DNB,-,-,-,-
+500135,Prashant Chopra,31 Jan 2017,v Delhi,Nadaun,1,1,0,8,5,0,0,0,lbw,2,DNB,-,-,-,-
+500135,Prashant Chopra,1 Feb 2017,v J & K,Nadaun,2,1,21,31,29,3,0,72.41,bowled,1,DNB,-,-,-,-
+500135,Prashant Chopra,8 Jan 2018,v Haryana,Delhi,1,1,99*,89,64,11,0,154.68,not out,2,DNB,-,-,-,-
+500135,Prashant Chopra,9 Jan 2018,v J & K,Delhi,1,1,0,2,2,0,0,0,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,13 Jan 2018,v Services,Delhi,1,1,9,9,8,1,0,112.5,lbw,2,DNB,-,-,-,-
+500135,Prashant Chopra,14 Jan 2018,v Delhi,Delhi,1,1,30,60,33,3,1,90.9,run out,2,DNB,-,-,-,-
+500135,Prashant Chopra,15 Jan 2018,v Punjab,Delhi,2,1,52,40,35,7,1,148.57,stumped,1,DNB,-,-,-,-
+500135,Prashant Chopra,11 May 2018,v CSK,Jaipur,2,5,8,-,6,2,0,133.33,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,21 Feb 2019,v Vidarbha,Surat,1,2,20,-,17,3,0,117.64,caught,2,3.0,0,18,2,6
+500135,Prashant Chopra,22 Feb 2019,v Meghalaya,Surat,1,2,53,-,41,3,3,129.26,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,24 Feb 2019,v Gujarat,Surat,2,2,35,-,35,2,1,100,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,25 Feb 2019,v Bihar,Surat,2,2,14,-,17,1,0,82.35,caught,1,1.0,0,6,0,6
+500135,Prashant Chopra,27 Feb 2019,v Tamil Nadu,Surat,2,2,68*,-,53,4,2,128.3,not out,1,1.0,0,11,0,11
+500135,Prashant Chopra,28 Feb 2019,v Rajasthan,Surat,1,2,21,-,26,2,0,80.76,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,7 Apr 2019,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+500135,Prashant Chopra,8 Nov 2019,v Chandigarh,Chandigarh,2,2,40,-,31,6,1,129.03,bowled,1,DNB,-,-,-,-
+500135,Prashant Chopra,9 Nov 2019,v Chhattisgarh,Chandigarh,1,2,9,-,9,2,0,100,caught,2,2.0,0,16,0,8
+500135,Prashant Chopra,11 Nov 2019,v Hyderabad,Chandigarh,1,2,32,-,29,3,1,110.34,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,12 Nov 2019,v Punjab,Chandigarh,1,2,46*,-,55,4,0,83.63,not out,2,DNB,-,-,-,-
+500135,Prashant Chopra,14 Nov 2019,v Arunachal,Chandigarh,2,2,0,-,1,0,0,0,caught,1,1.0,0,11,0,11
+500135,Prashant Chopra,15 Nov 2019,v Maharashtra,Chandigarh,1,2,28,-,22,4,0,127.27,caught,2,2.0,0,11,0,5.5
+500135,Prashant Chopra,18 Nov 2019,v Railways,Chandigarh,1,2,47,-,30,6,1,156.66,caught,2,1.0,0,13,0,13
+500135,Prashant Chopra,10 Jan 2021,v Chhattisgarh,Vadodara,1,2,28,-,30,1,2,93.33,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,12 Jan 2021,v Baroda,Vadodara,1,2,39,-,36,2,2,108.33,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,14 Jan 2021,v Gujarat,Vadodara,1,2,35,-,32,5,0,109.37,run out,2,DNB,-,-,-,-
+500135,Prashant Chopra,16 Jan 2021,v Uttarakhand,Vadodara,2,2,54*,-,41,8,1,131.7,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,26 Jan 2021,v Tamil Nadu,Ahmedabad,1,2,6,-,6,1,0,100,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,4 Nov 2021,v Haryana,Vadodara,1,2,7,18,9,0,0,77.77,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,5 Nov 2021,v Jharkhand,Vadodara,1,2,17,28,18,2,0,94.44,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,6 Nov 2021,v Rajasthan,Vadodara,1,3,53,84,48,0,3,110.41,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,9 Nov 2021,v Andhra,Vadodara,1,1,35,54,32,1,2,109.37,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,16 Nov 2021,v Kerala,Delhi,1,3,36,-,32,6,0,112.5,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,14 Oct 2022,v Bihar,Indore,1,2,32,-,27,5,0,118.51,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,18 Oct 2022,v Saurashtra,Indore,1,1,21,-,23,1,0,91.3,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,20 Oct 2022,v Baroda,Indore,2,1,61*,-,48,4,2,127.08,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,22 Oct 2022,v Nagaland,Indore,2,1,26,-,11,4,1,236.36,bowled,1,DNB,-,-,-,-
+500135,Prashant Chopra,1 Nov 2022,v Bengal,Kolkata,2,1,3,-,9,0,0,33.33,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,3 Nov 2022,v Punjab,Eden Gardens,1,1,17,-,15,2,1,113.33,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,5 Nov 2022,v Mumbai,Eden Gardens,1,1,19,49,27,2,0,70.37,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,16 Oct 2023,v Kerala,Mumbai,2,2,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,17 Oct 2023,v Odisha,Mumbai,2,2,35,-,41,4,0,85.36,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,19 Oct 2023,v Chandigarh,Mumbai,2,2,19,-,23,2,0,82.6,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,21 Oct 2023,v Bihar,Mumbai,2,2,48,-,26,7,1,184.61,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,23 Oct 2023,v Services,DY Patil,1,2,31,-,28,4,0,110.71,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,25 Oct 2023,v Assam,DY Patil,2,2,88,-,51,9,3,172.54,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,27 Oct 2023,v Sikkim,DY Patil,1,2,66,-,47,7,2,140.42,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,23 Nov 2024,v Arunachal,Mumbai,2,1,17*,-,9,4,0,188.88,not out,1,DNB,-,-,-,-
+500135,Prashant Chopra,25 Nov 2024,v UP,Wankhede,1,1,14,-,19,1,0,73.68,bowled,2,DNB,-,-,-,-
+500135,Prashant Chopra,29 Nov 2024,v J & K,Mumbai,2,2,0,-,1,0,0,0,lbw,1,DNB,-,-,-,-
+500135,Prashant Chopra,26 Nov 2025,v Karnataka,Ahmedabad,1,3,12,-,10,1,1,120,caught,2,DNB,-,-,-,-
+500135,Prashant Chopra,2 Dec 2025,v Rajasthan,Ahmedabad,2,1,19,-,18,3,0,105.55,caught,1,DNB,-,-,-,-
+500135,Prashant Chopra,8 Dec 2025,v Delhi,Ahmedabad,2,2,54,-,50,3,1,108,bowled,1,DNB,-,-,-,-

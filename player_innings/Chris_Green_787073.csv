@@ -1,0 +1,280 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+787073,Chris Green,22 Jan 2015,v Sixers,Sydney,1,4,3,-,5,0,0,60,caught,2,4.0,0,14,0,3.5
+787073,Chris Green,17 Dec 2015,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,1,7
+787073,Chris Green,28 Dec 2015,v Strikers,Sydney,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+787073,Chris Green,1 Jan 2016,v Hurricanes,Hobart,2,7,5,6,4,1,0,125,caught,1,1.0,0,12,0,12
+787073,Chris Green,3 Jan 2016,v Heat,Brisbane,1,7,0*,-,0,0,0,-,not out,2,2.0,0,15,1,7.5
+787073,Chris Green,7 Jan 2016,v Scorchers,Sydney,2,8,0,-,3,0,0,0,stumped,1,1.0,0,13,0,13
+787073,Chris Green,16 Jan 2016,v Sixers,Sydney,1,7,5*,-,2,1,0,250,not out,2,4.0,0,27,3,6.75
+787073,Chris Green,21 Jan 2016,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+787073,Chris Green,24 Jan 2016,v Stars,Melbourne,2,8,8,4,5,1,0,160,caught,1,4.0,0,37,2,9.25
+787073,Chris Green,20 Dec 2016,v Sixers,Sydney,1,7,0,-,2,0,0,0,caught,2,4.0,0,32,0,8
+787073,Chris Green,22 Dec 2016,v Renegades,Melbourne (Docklands),2,8,3,-,3,0,0,100,caught,1,3.0,0,21,1,7
+787073,Chris Green,28 Dec 2016,v Heat,Sydney,1,8,22*,-,6,0,3,366.66,not out,2,4.0,0,31,2,7.75
+787073,Chris Green,1 Jan 2017,v Scorchers,W.A.C.A,2,9,14*,-,12,2,0,116.66,not out,1,4.0,0,21,1,5.25
+787073,Chris Green,4 Jan 2017,v Stars,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+787073,Chris Green,8 Jan 2017,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+787073,Chris Green,14 Jan 2017,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+787073,Chris Green,18 Jan 2017,v Strikers,Sydney,2,8,1,-,3,0,0,33.33,caught,1,3.0,0,17,0,5.66
+787073,Chris Green,19 Dec 2017,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+787073,Chris Green,22 Dec 2017,v Strikers,Adelaide,2,8,0,-,1,0,0,0,lbw,1,4.0,0,23,0,5.75
+787073,Chris Green,27 Dec 2017,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+787073,Chris Green,30 Dec 2017,v Hurricanes,Launceston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+787073,Chris Green,1 Jan 2018,v Hurricanes,Sydney,2,8,5,-,3,1,0,166.66,caught,1,3.0,0,19,0,6.33
+787073,Chris Green,7 Jan 2018,v Strikers,Sydney,2,7,8,-,5,0,1,160,caught,1,4.0,0,22,1,5.5
+787073,Chris Green,11 Jan 2018,v Scorchers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+787073,Chris Green,13 Jan 2018,v Sixers,Sydney,1,5,49,-,27,2,3,181.48,run out,2,4.0,0,22,0,5.5
+787073,Chris Green,20 Jan 2018,v Stars,Melbourne,2,4,4,-,13,0,0,30.76,caught,1,4.0,0,27,2,6.75
+787073,Chris Green,24 Jan 2018,v Renegades,Canberra,2,7,22,-,14,0,2,157.14,caught,1,4.0,0,36,1,9
+787073,Chris Green,9 Aug 2018,v Patriots,Providence,2,6,25*,-,23,1,0,108.69,not out,1,4.0,0,33,1,8.25
+787073,Chris Green,11 Aug 2018,v Stars,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+787073,Chris Green,12 Aug 2018,v Tridents,Providence,2,6,12,-,7,2,0,171.42,caught,1,4.0,0,24,1,6
+787073,Chris Green,18 Aug 2018,v Tallawahs,Lauderhill,1,7,6,-,5,1,0,120,caught,2,4.0,0,19,2,4.75
+787073,Chris Green,28 Aug 2018,v Patriots,Basseterre,2,8,3*,-,3,0,0,100,not out,1,4.0,0,35,0,8.75
+787073,Chris Green,31 Aug 2018,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+787073,Chris Green,5 Sep 2018,v Trinbago,Port of Spain,2,6,2,-,5,0,0,40,caught,1,4.0,0,20,1,5
+787073,Chris Green,8 Sep 2018,v Tallawahs,Providence,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+787073,Chris Green,9 Sep 2018,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+787073,Chris Green,11 Sep 2018,v Trinbago,Providence,2,6,0,-,2,0,0,0,caught,1,4.0,1,8,2,2
+787073,Chris Green,16 Sep 2018,v Trinbago,Tarouba,1,8,5,-,7,1,0,71.42,caught,2,4.0,0,30,1,7.5
+787073,Chris Green,21 Dec 2018,v Stars,Canberra,1,7,1*,-,1,0,0,100,not out,2,1.0,0,6,1,6
+787073,Chris Green,24 Dec 2018,v Sixers,Sydney,1,7,0,-,2,0,0,0,caught,2,3.0,0,19,1,6.33
+787073,Chris Green,28 Dec 2018,v Hurricanes,Hobart,1,7,26*,-,14,2,1,185.71,not out,2,3.0,0,26,0,8.66
+787073,Chris Green,31 Dec 2018,v Strikers,Adelaide,2,8,12*,-,9,0,0,133.33,not out,1,4.0,1,18,0,4.5
+787073,Chris Green,2 Jan 2019,v Scorchers,Sydney,1,7,18*,-,9,3,0,200,not out,2,4.0,0,32,1,8
+787073,Chris Green,5 Jan 2019,v Stars,Carrara,1,7,14,-,16,0,0,87.5,caught,2,3.0,0,18,0,6
+787073,Chris Green,8 Jan 2019,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,1,9
+787073,Chris Green,13 Jan 2019,v Strikers,Sydney,1,8,11*,-,6,1,0,183.33,not out,2,3.0,0,16,1,5.33
+787073,Chris Green,17 Jan 2019,v Heat,Brisbane,1,5,14*,-,8,2,0,175,not out,2,DNB,-,-,-,-
+787073,Chris Green,22 Jan 2019,v Renegades,Sydney,2,5,7,-,8,0,0,87.5,caught,1,3.0,0,25,0,8.33
+787073,Chris Green,24 Jan 2019,v Scorchers,Perth,2,6,0*,-,2,0,0,0,not out,1,4.0,0,35,2,8.75
+787073,Chris Green,30 Jan 2019,v Renegades,Melbourne (Docklands),2,5,1,-,1,0,0,100,run out,1,2.0,0,11,0,5.5
+787073,Chris Green,2 Feb 2019,v Sixers,Sydney,1,5,34*,-,22,3,0,154.54,not out,2,1.0,0,2,0,2
+787073,Chris Green,9 Feb 2019,v Hurricanes,Canberra,2,7,34*,-,28,1,1,121.42,not out,1,3.0,0,20,1,6.66
+787073,Chris Green,15 Feb 2019,v Kings,Dubai (DICS),2,8,6,-,5,0,0,120,caught,1,4.0,0,32,3,8
+787073,Chris Green,16 Feb 2019,v United,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+787073,Chris Green,24 Feb 2019,v Zalmi,Sharjah,1,8,3,-,3,0,0,100,run out,2,4.0,0,23,0,5.75
+787073,Chris Green,4 Mar 2019,v Kings,Abu Dhabi,1,7,18*,-,21,2,0,85.71,not out,2,4.0,0,17,0,4.25
+787073,Chris Green,11 Mar 2019,v Qalandars,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+787073,Chris Green,9 Aug 2019,v Notts,Birmingham,1,6,6,11,12,0,0,50,bowled,2,2.0,0,10,0,5
+787073,Chris Green,11 Aug 2019,v Lancashire,Birmingham,1,7,0,2,1,0,0,0,caught,2,4.0,0,19,1,4.75
+787073,Chris Green,23 Aug 2019,v Worcs,Birmingham,1,7,7*,4,4,1,0,175,not out,2,3.4,0,27,1,7.36
+787073,Chris Green,25 Aug 2019,v Northants,Birmingham,1,7,23*,19,13,3,0,176.92,not out,2,4.0,0,29,1,7.25
+787073,Chris Green,27 Aug 2019,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+787073,Chris Green,30 Aug 2019,v Yorkshire,Birmingham,2,3,4,2,2,1,0,200,caught,1,4.0,0,37,1,9.25
+787073,Chris Green,5 Sep 2019,v Zouks,Providence,1,8,28,-,15,2,1,186.66,run out,2,4.0,0,28,2,7
+787073,Chris Green,7 Sep 2019,v Patriots,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+787073,Chris Green,8 Sep 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+787073,Chris Green,14 Sep 2019,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,2,9.33
+787073,Chris Green,18 Sep 2019,v Tallawahs,Kingston,1,8,0*,-,0,0,0,-,not out,2,4.0,0,30,1,7.5
+787073,Chris Green,22 Sep 2019,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.2,0,14,4,4.2
+787073,Chris Green,25 Sep 2019,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,0,4.66
+787073,Chris Green,30 Sep 2019,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+787073,Chris Green,3 Oct 2019,v Tallawahs,Providence,1,7,2,-,6,0,0,33.33,bowled,2,4.0,1,20,1,5
+787073,Chris Green,4 Oct 2019,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+787073,Chris Green,6 Oct 2019,v Tridents,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+787073,Chris Green,12 Oct 2019,v Tridents,Tarouba,2,9,5,-,3,1,0,166.66,caught,1,4.0,0,32,0,8
+787073,Chris Green,17 Dec 2019,v Heat,Brisbane,1,7,25,-,17,2,1,147.05,caught,2,4.0,0,19,2,4.75
+787073,Chris Green,19 Dec 2019,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+787073,Chris Green,21 Dec 2019,v Strikers,Canberra,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+787073,Chris Green,28 Dec 2019,v Sixers,Sydney,1,7,1,-,4,0,0,25,bowled,2,2.0,0,18,1,9
+787073,Chris Green,31 Dec 2019,v Strikers,Adelaide,1,7,2*,-,2,0,0,100,not out,2,4.0,0,27,0,6.75
+787073,Chris Green,2 Jan 2020,v Stars,Sydney,1,8,2*,-,2,0,0,100,not out,2,2.0,0,21,0,10.5
+787073,Chris Green,6 Jan 2020,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+787073,Chris Green,18 Aug 2020,v Trinbago,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+787073,Chris Green,19 Aug 2020,v Patriots,Tarouba,2,8,1*,-,2,0,0,50,not out,1,4.0,0,24,1,6
+787073,Chris Green,22 Aug 2020,v Tallawahs,Tarouba,1,8,2,-,3,0,0,66.66,bowled,2,3.0,1,10,2,3.33
+787073,Chris Green,23 Aug 2020,v Zouks,Tarouba,2,8,1,-,2,0,0,50,caught,1,3.0,0,24,1,8
+787073,Chris Green,25 Aug 2020,v Tallawahs,Port of Spain,1,8,2,-,6,0,0,33.33,caught,2,3.0,0,20,0,6.66
+787073,Chris Green,27 Aug 2020,v Trinbago,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+787073,Chris Green,30 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+787073,Chris Green,1 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,2,3,1,0.75
+787073,Chris Green,2 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+787073,Chris Green,3 Sep 2020,v Tridents,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+787073,Chris Green,8 Sep 2020,v Zouks,Tarouba,1,7,11,-,11,0,1,100,caught,2,1.3,0,16,0,10.66
+787073,Chris Green,16 Oct 2020,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.5,0,24,0,8.47
+787073,Chris Green,12 Dec 2020,v Stars,Canberra,2,7,5,-,6,0,0,83.33,caught,1,4.0,0,42,2,10.5
+787073,Chris Green,14 Dec 2020,v Heat,Canberra,2,8,6*,-,4,1,0,150,not out,1,4.0,0,42,1,10.5
+787073,Chris Green,22 Dec 2020,v Scorchers,Canberra,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+787073,Chris Green,26 Dec 2020,v Renegades,Canberra,1,7,8,-,7,1,0,114.28,caught,2,2.0,0,7,2,3.5
+787073,Chris Green,29 Dec 2020,v Stars,Canberra,1,8,12,-,4,1,1,300,stumped,2,4.0,0,34,4,8.5
+787073,Chris Green,1 Jan 2021,v Renegades,Carrara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,0,12
+787073,Chris Green,4 Jan 2021,v Heat,Brisbane,1,8,1,-,2,0,0,50,caught,2,4.0,0,20,1,5
+787073,Chris Green,7 Jan 2021,v Hurricanes,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+787073,Chris Green,9 Jan 2021,v Scorchers,Perth,2,8,7,-,8,1,0,87.5,caught,1,2.0,0,31,0,15.5
+787073,Chris Green,18 Jan 2021,v Hurricanes,Canberra,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+787073,Chris Green,22 Jan 2021,v Sixers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,0,6
+787073,Chris Green,24 Jan 2021,v Strikers,Adelaide,2,7,4,-,7,0,0,57.14,bowled,1,3.0,0,26,0,8.66
+787073,Chris Green,25 Jan 2021,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,1,9.5
+787073,Chris Green,31 Jan 2021,v Heat,Canberra,1,8,2,-,3,0,0,66.66,caught,2,3.0,0,21,0,7
+787073,Chris Green,10 Jun 2021,v Surrey,Lord's,2,6,19,22,15,1,0,126.66,caught,1,4.0,0,25,1,6.25
+787073,Chris Green,11 Jun 2021,v Kent,Canterbury,2,6,16,20,15,0,1,106.66,bowled,1,4.0,0,32,5,8
+787073,Chris Green,15 Jun 2021,v Hampshire,Radlett,2,7,26*,21,13,3,1,200,not out,1,4.0,0,55,1,13.75
+787073,Chris Green,17 Jun 2021,v Gloucs,Radlett,1,7,13*,8,6,1,1,216.66,not out,2,4.0,0,30,2,7.5
+787073,Chris Green,18 Jun 2021,v Glamorgan,Cardiff,2,7,18,22,18,1,0,100,caught,1,2.0,0,20,0,10
+787073,Chris Green,24 Jun 2021,v Essex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+787073,Chris Green,25 Jun 2021,v Surrey,The Oval,1,7,15*,13,9,2,0,166.66,not out,2,3.0,0,28,0,9.33
+787073,Chris Green,27 Aug 2021,v Kings,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+787073,Chris Green,28 Aug 2021,v Royals,Basseterre,2,9,9,18,8,1,0,112.5,caught,1,3.0,0,24,0,8
+787073,Chris Green,31 Aug 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+787073,Chris Green,1 Sep 2021,v Patriots,Basseterre,1,9,6,-,2,0,1,300,caught,2,4.0,0,15,0,3.75
+787073,Chris Green,5 Sep 2021,v Trinbago,Basseterre,1,9,0*,1,0,0,0,-,not out,2,3.1,0,26,0,8.21
+787073,Chris Green,7 Sep 2021,v Trinbago,Basseterre,2,10,9,11,11,1,0,81.81,caught,1,4.0,0,31,0,7.75
+787073,Chris Green,8 Sep 2021,v Patriots,Basseterre,1,10,1*,5,2,0,0,50,not out,2,4.0,0,19,1,4.75
+787073,Chris Green,9 Sep 2021,v Kings,Basseterre,1,10,2,-,1,0,0,200,run out,2,1.0,0,15,0,15
+787073,Chris Green,11 Sep 2021,v Amazon,Basseterre,2,9,7,11,3,0,1,233.33,run out,1,4.0,0,17,1,4.25
+787073,Chris Green,12 Sep 2021,v Amazon,Basseterre,2,9,31,-,20,1,3,155,caught,1,4.0,0,19,2,4.75
+787073,Chris Green,6 Dec 2021,v Heat,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+787073,Chris Green,10 Dec 2021,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+787073,Chris Green,12 Dec 2021,v Stars,Sydney,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,0,10
+787073,Chris Green,19 Dec 2021,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+787073,Chris Green,26 Dec 2021,v Sixers,Sydney,2,9,6,6,3,0,1,200,caught,1,3.0,0,19,1,6.33
+787073,Chris Green,28 Dec 2021,v Scorchers,Canberra,1,9,14*,6,6,2,0,233.33,not out,2,4.0,0,29,2,7.25
+787073,Chris Green,31 Dec 2021,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+787073,Chris Green,2 Jan 2022,v Strikers,Sydney,1,7,5,11,6,0,0,83.33,caught,2,3.1,0,22,1,6.94
+787073,Chris Green,6 Jan 2022,v Scorchers,Carrara,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,1,4.5
+787073,Chris Green,15 Jan 2022,v Sixers,Sydney,2,8,50,40,31,4,1,161.29,caught,1,3.0,0,36,0,12
+787073,Chris Green,19 Jan 2022,v Renegades,Melbourne,1,9,7,8,6,0,0,116.66,caught,2,3.0,0,21,0,7
+787073,Chris Green,23 Jan 2022,v Strikers,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+787073,Chris Green,26 May 2022,v Gloucs,Radlett,1,7,16,20,13,1,0,123.07,caught,2,3.0,0,29,1,9.66
+787073,Chris Green,27 May 2022,v Hampshire,Southampton,1,8,8*,3,2,2,0,400,not out,2,3.0,0,21,1,7
+787073,Chris Green,29 May 2022,v Glamorgan,Radlett,2,7,3*,10,2,0,0,150,not out,1,2.0,0,29,0,14.5
+787073,Chris Green,3 Jun 2022,v Sussex,Hove,1,8,22*,20,11,3,1,200,not out,2,4.0,0,29,1,7.25
+787073,Chris Green,5 Jun 2022,v Kent,Canterbury,2,8,4,8,9,0,0,44.44,caught,1,4.0,0,29,3,7.25
+787073,Chris Green,7 Jun 2022,v Hampshire,Radlett,1,7,7,9,9,1,0,77.77,bowled,2,2.0,0,19,0,9.5
+787073,Chris Green,9 Jun 2022,v Surrey,Lord's,2,8,46*,37,29,4,1,158.62,not out,1,4.0,0,43,1,10.75
+787073,Chris Green,10 Jun 2022,v Essex,Chelmsford,2,7,2,6,4,0,0,50,stumped,1,4.0,0,38,1,9.5
+787073,Chris Green,17 Jun 2022,v Surrey,The Oval,1,7,14,11,11,2,0,127.27,caught,2,4.0,0,35,0,8.75
+787073,Chris Green,19 Jun 2022,v Kent,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+787073,Chris Green,21 Jun 2022,v Glamorgan,Cardiff,1,7,7,8,4,1,0,175,bowled,2,2.0,0,24,0,12
+787073,Chris Green,23 Jun 2022,v Essex,Lord's,2,6,4,3,2,1,0,200,caught,1,3.0,0,16,3,5.33
+787073,Chris Green,1 Jul 2022,v Somerset,Lord's,1,7,44*,27,24,5,1,183.33,not out,2,3.4,0,24,1,6.54
+787073,Chris Green,3 Jul 2022,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+787073,Chris Green,31 Aug 2022,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+787073,Chris Green,3 Sep 2022,v Amazon,Basseterre,2,8,17*,-,7,2,1,242.85,not out,1,4.0,1,5,0,1.25
+787073,Chris Green,7 Sep 2022,v Kings,Gros Islet,1,8,4,4,2,1,0,200,caught,2,3.0,0,24,1,8
+787073,Chris Green,10 Sep 2022,v Trinbago,Gros Islet,1,8,5*,-,3,1,0,166.66,not out,2,4.0,0,38,1,9.5
+787073,Chris Green,11 Sep 2022,v Royals,Gros Islet,1,8,0,-,4,0,0,0,caught,2,4.0,0,24,1,6
+787073,Chris Green,14 Sep 2022,v Patriots,Port of Spain,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+787073,Chris Green,15 Sep 2022,v Royals,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+787073,Chris Green,17 Sep 2022,v Trinbago,Tarouba,1,8,6*,16,5,0,0,120,not out,2,2.0,0,12,1,6
+787073,Chris Green,21 Sep 2022,v Amazon,Providence,2,9,1*,11,1,0,0,100,not out,1,4.0,0,24,2,6
+787073,Chris Green,25 Sep 2022,v Kings,Providence,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+787073,Chris Green,27 Sep 2022,v Kings,Providence,1,9,2,-,3,0,0,66.66,caught,2,3.0,0,22,0,7.33
+787073,Chris Green,28 Sep 2022,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,2,10
+787073,Chris Green,30 Sep 2022,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+787073,Chris Green,13 Dec 2022,v Stars,Canberra,2,8,17,33,20,0,0,85,caught,1,4.0,0,19,1,4.75
+787073,Chris Green,16 Dec 2022,v Strikers,Sydney,2,8,0,6,6,0,0,0,caught,1,4.0,0,31,0,7.75
+787073,Chris Green,18 Dec 2022,v Renegades,Melbourne (Docklands),1,8,10*,7,5,1,0,200,not out,2,3.0,0,18,0,6
+787073,Chris Green,20 Dec 2022,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+787073,Chris Green,27 Dec 2022,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+787073,Chris Green,29 Dec 2022,v Heat,Carrara,1,8,1*,4,1,0,0,100,not out,2,4.0,0,20,1,5
+787073,Chris Green,31 Dec 2022,v Hurricanes,Albury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+787073,Chris Green,4 Jan 2023,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+787073,Chris Green,8 Jan 2023,v Sixers,Sydney,1,9,2,7,3,0,0,66.66,caught,2,4.0,0,29,2,7.25
+787073,Chris Green,13 Jan 2023,v Scorchers,Sydney,1,9,1,5,6,0,0,16.66,caught,2,3.0,0,20,0,6.66
+787073,Chris Green,15 Jan 2023,v Hurricanes,Hobart,1,9,21,28,18,1,1,116.66,caught,2,4.0,0,24,0,6
+787073,Chris Green,19 Jan 2023,v Renegades,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+787073,Chris Green,21 Jan 2023,v Sixers,Sydney,2,9,4,16,7,0,0,57.14,bowled,1,4.0,0,32,0,8
+787073,Chris Green,25 Jan 2023,v Stars,Melbourne,2,8,6*,-,7,0,0,85.71,not out,1,4.0,0,19,2,4.75
+787073,Chris Green,27 Jan 2023,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+787073,Chris Green,16 Aug 2023,v Kings,Gros Islet,1,8,6,5,3,1,0,200,lbw,2,4.0,0,28,2,7
+787073,Chris Green,23 Aug 2023,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+787073,Chris Green,27 Aug 2023,v Amazon,Basseterre,2,8,15,18,8,3,0,187.5,caught,1,4.0,0,28,2,7
+787073,Chris Green,31 Aug 2023,v Royals,Bridgetown,1,8,2*,8,4,0,0,50,not out,2,4.0,0,21,2,5.25
+787073,Chris Green,3 Sep 2023,v Trinbago,Bridgetown,2,8,32,-,16,0,3,200,caught,1,2.0,0,19,0,9.5
+787073,Chris Green,9 Sep 2023,v Trinbago,Tarouba,1,7,4,14,5,0,0,80,caught,2,4.0,0,29,1,7.25
+787073,Chris Green,13 Sep 2023,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+787073,Chris Green,16 Sep 2023,v Patriots,Providence,1,9,9*,2,3,2,0,300,not out,2,4.0,0,23,1,5.75
+787073,Chris Green,17 Sep 2023,v Kings,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,4,3.75
+787073,Chris Green,19 Sep 2023,v Kings,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+787073,Chris Green,22 Sep 2023,v Amazon,Providence,2,9,4,4,4,0,0,100,bowled,1,4.0,0,24,0,6
+787073,Chris Green,1 Dec 2023,v India,Raipur,2,9,2*,11,3,0,0,66.66,not out,1,4.0,0,36,0,9
+787073,Chris Green,12 Dec 2023,v Heat,Canberra,2,7,30,28,20,5,0,150,caught,1,4.0,0,30,1,7.5
+787073,Chris Green,19 Dec 2023,v Strikers,Adelaide,1,8,3*,4,2,0,0,150,not out,2,3.0,0,25,0,8.33
+787073,Chris Green,23 Dec 2023,v Stars,Albury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+787073,Chris Green,27 Dec 2023,v Heat,Brisbane,2,8,3,4,3,0,0,100,caught,1,4.0,0,29,1,7.25
+787073,Chris Green,30 Dec 2023,v Sixers,Sydney,1,8,17*,9,8,1,1,212.5,not out,2,1.0,0,12,1,12
+787073,Chris Green,1 Jan 2024,v Hurricanes,Hobart,1,8,33*,24,17,3,1,194.11,not out,2,3.0,0,32,0,10.66
+787073,Chris Green,8 Jan 2024,v Scorchers,Sydney,1,8,9*,11,7,0,1,128.57,not out,2,3.1,0,22,1,6.94
+787073,Chris Green,12 Jan 2024,v Sixers,Sydney,2,7,1,4,2,0,0,50,caught,1,4.0,0,28,0,7
+787073,Chris Green,14 Jan 2024,v Strikers,Canberra,1,7,19,16,12,1,0,158.33,bowled,2,4.0,0,26,0,6.5
+787073,Chris Green,30 May 2024,v Durham,Manchester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+787073,Chris Green,31 May 2024,v Worcs,Worcester,1,7,31*,21,18,2,2,172.22,not out,2,3.0,0,31,1,10.33
+787073,Chris Green,2 Jun 2024,v Derbyshire,Manchester,1,8,22*,11,11,1,2,200,not out,2,3.4,0,12,4,3.27
+787073,Chris Green,7 Jun 2024,v Bears,Manchester,1,7,17,28,14,2,0,121.42,caught,2,4.0,0,31,0,7.75
+787073,Chris Green,9 Jun 2024,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+787073,Chris Green,14 Jun 2024,v Leics,Leicester,1,8,15,16,11,0,1,136.36,caught,2,4.0,0,27,1,6.75
+787073,Chris Green,16 Jun 2024,v Durham,Chester-le-Street,2,7,38,33,18,4,2,211.11,caught,1,4.0,0,40,0,10
+787073,Chris Green,20 Jun 2024,v Yorkshire,Leeds,2,8,3,5,4,0,0,75,bowled,1,4.0,0,21,2,5.25
+787073,Chris Green,7 Jul 2024,v Worcs,Manchester,2,7,24,21,17,1,1,141.17,caught,1,4.0,0,33,2,8.25
+787073,Chris Green,17 Jul 2024,v Notts,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+787073,Chris Green,19 Jul 2024,v Northants,Manchester,1,8,5,5,3,1,0,166.66,caught,2,3.0,0,39,0,13
+787073,Chris Green,26 Jul 2024,v N S-Chargers,Leeds,1,6,25*,8,7,1,3,357.14,not out,2,4.0,0,14,3,4.2
+787073,Chris Green,12 Aug 2024,v Phoenix,Birmingham,1,7,6,2,5,1,0,120,caught,2,3.0,0,13,0,5.2
+787073,Chris Green,14 Aug 2024,v Invincibles,Nottingham,2,6,3*,7,2,0,0,150,not out,1,3.0,0,31,0,12.4
+787073,Chris Green,29 Aug 2024,v Patriots,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+787073,Chris Green,30 Aug 2024,v Amazon,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+787073,Chris Green,1 Sep 2024,v Royals,North Sound,1,7,20,-,16,1,1,125,caught,2,4.0,0,27,0,6.75
+787073,Chris Green,3 Sep 2024,v Kings,North Sound,1,8,13,13,8,1,1,162.5,caught,2,4.0,0,24,1,6
+787073,Chris Green,5 Sep 2024,v Trinbago,North Sound,1,7,1,-,1,0,0,100,run out,2,1.0,0,2,1,2
+787073,Chris Green,8 Sep 2024,v Patriots,Basseterre,2,7,4,8,6,0,0,66.66,caught,1,4.0,0,29,0,7.25
+787073,Chris Green,11 Sep 2024,v Royals,Bridgetown,1,5,4,4,2,1,0,200,caught,2,3.0,0,32,1,10.66
+787073,Chris Green,15 Sep 2024,v Kings,Gros Islet,2,7,48,55,37,4,1,129.72,caught,1,4.0,0,22,4,5.5
+787073,Chris Green,19 Sep 2024,v Trinbago,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+787073,Chris Green,21 Sep 2024,v Amazon,Providence,2,7,17,29,17,1,0,100,caught,1,4.0,0,22,0,5.5
+787073,Chris Green,17 Dec 2024,v Strikers,Canberra,2,7,8,18,6,1,0,133.33,caught,1,4.0,0,27,3,6.75
+787073,Chris Green,21 Dec 2024,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+787073,Chris Green,28 Dec 2024,v Stars,Canberra,1,7,6,4,3,1,0,200,caught,2,4.0,0,41,1,10.25
+787073,Chris Green,30 Dec 2024,v Renegades,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+787073,Chris Green,3 Jan 2025,v Scorchers,Perth,2,7,11,9,8,2,0,137.5,caught,1,4.0,0,20,3,5
+787073,Chris Green,6 Jan 2025,v Heat,Brisbane,1,7,5,12,7,0,0,71.42,caught,2,4.0,0,42,0,10.5
+787073,Chris Green,10 Jan 2025,v Hurricanes,Hobart,1,6,8,14,7,0,0,114.28,caught,2,3.0,0,15,0,5
+787073,Chris Green,13 Jan 2025,v Scorchers,Sydney,1,7,20*,32,16,1,0,125,not out,2,4.0,0,13,3,3.25
+787073,Chris Green,17 Jan 2025,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+787073,Chris Green,22 Jan 2025,v Stars,Sydney,1,7,3,2,3,0,0,100,caught,2,3.0,0,16,1,5.33
+787073,Chris Green,24 Jan 2025,v Sixers,Sydney,2,6,15,16,14,1,0,107.14,bowled,1,4.0,0,25,0,6.25
+787073,Chris Green,27 Jan 2025,v Hurricanes,Hobart,1,6,16,20,9,2,0,177.77,run out,2,3.0,0,33,0,11
+787073,Chris Green,29 May 2025,v Worcs,Manchester,1,6,0,-,1,0,0,0,caught,2,4.0,0,32,0,8
+787073,Chris Green,31 May 2025,v Notts,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+787073,Chris Green,1 Jun 2025,v Durham,Chester-le-Street,2,7,15*,15,8,1,1,187.5,not out,1,4.0,0,34,0,8.5
+787073,Chris Green,4 Jun 2025,v Leics,Manchester,1,7,36*,33,29,0,1,124.13,not out,2,4.0,0,30,2,7.5
+787073,Chris Green,8 Jun 2025,v Northants,Manchester,2,7,15,11,10,1,1,150,caught,1,4.0,0,41,0,10.25
+787073,Chris Green,13 Jun 2025,v Worcs,Worcester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+787073,Chris Green,20 Jun 2025,v Derbyshire,Derby,1,7,6,4,2,0,1,300,caught,2,4.0,0,16,3,4
+787073,Chris Green,4 Jul 2025,v Northants,Northampton,2,7,0*,3,0,0,0,-,not out,1,4.0,0,25,2,6.25
+787073,Chris Green,5 Jul 2025,v Derbyshire,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+787073,Chris Green,9 Jul 2025,v Bears,Birmingham,2,7,26,17,14,2,2,185.71,caught,1,4.0,0,41,0,10.25
+787073,Chris Green,11 Jul 2025,v Yorkshire,Manchester,2,7,6,15,7,0,0,85.71,run out,1,4.0,0,34,4,8.5
+787073,Chris Green,13 Jul 2025,v Durham,Manchester,2,7,31*,24,16,3,2,193.75,not out,1,4.0,0,15,3,3.75
+787073,Chris Green,17 Jul 2025,v Yorkshire,Leeds,1,7,16,12,11,1,1,145.45,caught,2,4.0,0,27,3,6.75
+787073,Chris Green,18 Jul 2025,v Notts,Nottingham,1,7,29,34,26,2,1,111.53,caught,2,3.0,0,29,0,9.66
+787073,Chris Green,7 Aug 2025,v N S-Chargers,Leeds,1,8,3,6,4,0,0,75,caught,2,3.4,0,23,0,7.26
+787073,Chris Green,9 Aug 2025,v Spirit,Cardiff,2,8,32*,42,21,2,1,152.38,not out,1,3.0,0,31,0,12.4
+787073,Chris Green,13 Aug 2025,v Originals,Cardiff,1,7,19,16,9,1,2,211.11,caught,2,4.0,0,19,3,5.7
+787073,Chris Green,16 Aug 2025,v Invincibles,The Oval,2,7,1,3,3,0,0,33.33,caught,1,4.0,0,42,1,12.6
+787073,Chris Green,20 Aug 2025,v Brave,Cardiff,2,8,6,5,5,1,0,120,bowled,1,4.0,0,24,2,7.2
+787073,Chris Green,22 Aug 2025,v Phoenix,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,8.1
+787073,Chris Green,24 Aug 2025,v Rockets,Cardiff,1,7,11*,5,4,2,0,275,not out,2,3.4,0,34,2,10.73
+787073,Chris Green,28 Aug 2025,v Brave,Southampton,2,7,7*,19,6,0,0,116.66,not out,1,4.0,0,24,0,7.2
+787073,Chris Green,29 Aug 2025,v Trinbago,Tarouba,1,8,4*,3,3,0,0,133.33,not out,2,4.0,0,48,0,12
+787073,Chris Green,4 Sep 2025,v Amazon,Bridgetown,1,8,6*,4,1,0,1,600,not out,2,3.4,0,46,1,12.54
+787073,Chris Green,5 Sep 2025,v Falcons,Bridgetown,1,6,16*,6,6,1,1,266.66,not out,2,1.0,0,11,0,11
+787073,Chris Green,7 Sep 2025,v Kings,Bridgetown,1,7,25*,27,14,2,1,178.57,not out,2,3.0,0,11,2,3.66
+787073,Chris Green,11 Sep 2025,v Patriots,Bridgetown,2,7,4,7,4,0,0,100,lbw,1,4.0,0,18,2,4.5
+787073,Chris Green,12 Sep 2025,v Trinbago,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,3,2.25
+787073,Chris Green,14 Sep 2025,v Amazon,Providence,2,7,10,15,9,1,0,111.11,caught,1,4.0,0,30,0,7.5
+787073,Chris Green,16 Dec 2025,v Hurricanes,Hobart,1,8,4*,1,1,1,0,400,not out,2,4.0,0,33,1,8.25
+787073,Chris Green,20 Dec 2025,v Sixers,Sydney,2,8,13,11,11,1,0,118.18,caught,1,2.0,0,18,0,9
+787073,Chris Green,22 Dec 2025,v Heat,Canberra,1,6,1*,5,2,0,0,50,not out,2,4.0,0,32,0,8
+787073,Chris Green,28 Dec 2025,v Stars,Canberra,1,8,12,14,11,1,0,109.09,caught,2,2.0,0,8,1,4
+787073,Chris Green,30 Dec 2025,v Scorchers,Sydney,2,8,5,9,7,1,0,71.42,caught,1,3.0,0,35,0,11.66
+787073,Chris Green,3 Jan 2026,v Hurricanes,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.5,0,32,0,8.34
+787073,Chris Green,6 Jan 2026,v Strikers,Adelaide,2,7,3,6,3,0,0,100,run out,1,2.0,0,21,0,10.5
+787073,Chris Green,10 Jan 2026,v Heat,Brisbane,1,7,12*,6,5,0,1,240,not out,2,4.0,0,28,1,7
+787073,Chris Green,12 Jan 2026,v Renegades,Sydney,2,8,34*,16,13,3,3,261.53,not out,1,1.0,0,7,0,7
+787073,Chris Green,16 Jan 2026,v Sixers,Sydney,1,6,0,1,1,0,0,0,caught,2,4.0,0,18,1,4.5
+787073,Chris Green,18 Jan 2026,v MI Cape Town,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+787073,Chris Green,21 Jan 2026,v Capitals,Durban,1,6,1,2,2,0,0,50,stumped,2,3.0,0,31,1,10.33
+787073,Chris Green,23 Jan 2026,v Paarl Royals,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+787073,Chris Green,25 Jan 2026,v Capitals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,28,0,14

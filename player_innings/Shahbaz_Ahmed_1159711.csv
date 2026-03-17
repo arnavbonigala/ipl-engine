@@ -1,0 +1,115 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1159711,Shahbaz Ahmed,24 Feb 2019,v Haryana,Cuttack,2,6,17,-,12,2,0,141.66,caught,1,4.0,0,25,1,6.25
+1159711,Shahbaz Ahmed,25 Feb 2019,v Assam,Cuttack,2,8,10,-,8,0,1,125,caught,1,3.0,0,28,0,9.33
+1159711,Shahbaz Ahmed,27 Feb 2019,v Arunachal,Cuttack,1,7,3*,-,2,0,0,150,not out,2,4.0,0,16,0,4
+1159711,Shahbaz Ahmed,28 Feb 2019,v Chhattisgarh,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+1159711,Shahbaz Ahmed,2 Mar 2019,v Odisha,Cuttack,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+1159711,Shahbaz Ahmed,8 Mar 2019,v Railways,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+1159711,Shahbaz Ahmed,9 Mar 2019,v Maharashtra,Indore,1,7,60*,64,44,5,2,136.36,not out,2,4.0,0,26,1,6.5
+1159711,Shahbaz Ahmed,10 Mar 2019,v Jharkhand,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+1159711,Shahbaz Ahmed,12 Mar 2019,v Gujarat,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+1159711,Shahbaz Ahmed,9 Nov 2019,v Mizoram,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,0,4
+1159711,Shahbaz Ahmed,11 Nov 2019,v Meghalaya,Wankhede,1,5,5*,-,3,1,0,166.66,not out,2,3.0,0,31,0,10.33
+1159711,Shahbaz Ahmed,12 Nov 2019,v Haryana,Mumbai,1,6,26,-,28,1,0,92.85,caught,2,4.0,0,19,2,4.75
+1159711,Shahbaz Ahmed,14 Nov 2019,v Mumbai,Wankhede,1,6,26*,-,15,1,2,173.33,not out,2,4.0,0,25,2,6.25
+1159711,Shahbaz Ahmed,15 Nov 2019,v M. Pradesh,Mumbai,2,5,11,-,9,1,0,122.22,caught,1,4.0,0,22,3,5.5
+1159711,Shahbaz Ahmed,17 Nov 2019,v Puducherry,Mumbai,1,6,0,-,2,0,0,0,caught,2,4.0,0,16,2,4
+1159711,Shahbaz Ahmed,18 Nov 2019,v Assam,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+1159711,Shahbaz Ahmed,17 Oct 2020,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+1159711,Shahbaz Ahmed,2 Nov 2020,v DC,Abu Dhabi,1,9,1*,-,1,0,0,100,not out,2,4.0,0,26,2,6.5
+1159711,Shahbaz Ahmed,10 Jan 2021,v Odisha,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+1159711,Shahbaz Ahmed,12 Jan 2021,v Jharkhand,Eden Gardens,1,5,6,-,6,1,0,100,caught,2,1.0,0,12,1,12
+1159711,Shahbaz Ahmed,14 Jan 2021,v Hyderabad,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,1,7
+1159711,Shahbaz Ahmed,16 Jan 2021,v Assam,Eden Gardens,2,5,13,-,17,1,0,76.47,caught,1,4.0,0,31,1,7.75
+1159711,Shahbaz Ahmed,18 Jan 2021,v Tamil Nadu,Eden Gardens,1,5,2,-,4,0,0,50,run out,2,4.0,0,48,0,12
+1159711,Shahbaz Ahmed,9 Apr 2021,v MI,Chennai,2,6,1,5,2,0,0,50,caught,1,1.0,0,14,0,14
+1159711,Shahbaz Ahmed,14 Apr 2021,v SRH,Chennai,1,3,14,18,10,0,1,140,caught,2,2.0,0,7,3,3.5
+1159711,Shahbaz Ahmed,18 Apr 2021,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,22 Apr 2021,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,30 Apr 2021,v Punjab Kings,Ahmedabad,2,6,8,17,11,1,0,72.72,caught,1,2.0,0,11,1,5.5
+1159711,Shahbaz Ahmed,26 Sep 2021,v MI,Dubai (DICS),1,7,1,5,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,29 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,2,5
+1159711,Shahbaz Ahmed,3 Oct 2021,v Punjab Kings,Sharjah,1,6,8,10,4,0,1,200,bowled,2,3.0,0,29,1,9.66
+1159711,Shahbaz Ahmed,6 Oct 2021,v SRH,Abu Dhabi,2,7,14,11,9,2,0,155.55,caught,1,4.0,0,21,0,5.25
+1159711,Shahbaz Ahmed,8 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,11 Oct 2021,v KKR,Sharjah,1,6,13,23,14,1,0,92.85,caught,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,4 Nov 2021,v Chhattisgarh,Guwahati,2,-,DNB,-,-,-,-,-,-,1,3.0,0,6,1,2
+1159711,Shahbaz Ahmed,5 Nov 2021,v Baroda,Guwahati,1,6,34,-,25,2,2,136,caught,2,4.0,0,26,2,6.5
+1159711,Shahbaz Ahmed,6 Nov 2021,v Mumbai,Guwahati,2,7,12,-,12,0,1,100,caught,1,4.0,0,26,1,6.5
+1159711,Shahbaz Ahmed,8 Nov 2021,v Services,Guwahati,2,3,8*,-,8,1,0,100,not out,1,4.0,0,14,1,3.5
+1159711,Shahbaz Ahmed,9 Nov 2021,v Karnataka,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+1159711,Shahbaz Ahmed,18 Nov 2021,v Karnataka,Delhi,2,6,0,-,1,0,0,0,caught,1,4.0,0,36,1,9
+1159711,Shahbaz Ahmed,27 Mar 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,0,6
+1159711,Shahbaz Ahmed,30 Mar 2022,v KKR,DY Patil,2,6,27,30,20,0,3,135,stumped,1,1.0,0,16,0,16
+1159711,Shahbaz Ahmed,5 Apr 2022,v RR,Wankhede,2,6,45,50,26,4,3,173.07,bowled,1,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,9 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1159711,Shahbaz Ahmed,12 Apr 2022,v CSK,DY Patil,2,5,41,47,27,4,0,151.85,bowled,1,2.0,0,18,0,9
+1159711,Shahbaz Ahmed,16 Apr 2022,v DC,Wankhede,1,6,32*,57,21,3,1,152.38,not out,2,2.0,0,19,0,9.5
+1159711,Shahbaz Ahmed,19 Apr 2022,v LSG,DY Patil,1,6,26,42,22,1,0,118.18,run out,2,4.0,0,25,0,6.25
+1159711,Shahbaz Ahmed,23 Apr 2022,v SRH,Brabourne,1,6,7,30,12,1,0,58.33,caught,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,26 Apr 2022,v RR,Pune,2,5,17,51,27,0,1,62.96,caught,1,3.0,0,35,0,11.66
+1159711,Shahbaz Ahmed,30 Apr 2022,v GT,Brabourne,1,6,2*,19,2,0,0,100,not out,2,3.0,0,26,2,8.66
+1159711,Shahbaz Ahmed,4 May 2022,v CSK,Pune,1,8,1,4,2,0,0,50,bowled,2,3.0,0,27,1,9
+1159711,Shahbaz Ahmed,8 May 2022,v SRH,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+1159711,Shahbaz Ahmed,13 May 2022,v Punjab Kings,Brabourne,2,7,9,23,14,0,0,64.28,caught,1,4.0,0,40,1,10
+1159711,Shahbaz Ahmed,19 May 2022,v GT,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+1159711,Shahbaz Ahmed,25 May 2022,v LSG,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+1159711,Shahbaz Ahmed,27 May 2022,v RR,Ahmedabad,1,7,12*,16,8,1,1,150,not out,2,2.0,0,35,0,17.5
+1159711,Shahbaz Ahmed,14 Oct 2022,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+1159711,Shahbaz Ahmed,16 Oct 2022,v Tamil Nadu,Lucknow,1,6,42*,-,27,3,2,155.55,not out,2,4.0,0,13,3,3.25
+1159711,Shahbaz Ahmed,18 Oct 2022,v Sikkim,Lucknow,1,5,43,-,33,2,2,130.3,caught,2,3.0,0,22,1,7.33
+1159711,Shahbaz Ahmed,20 Oct 2022,v Chhattisgarh,Lucknow,1,4,48*,-,28,2,4,171.42,not out,2,4.0,0,22,2,5.5
+1159711,Shahbaz Ahmed,22 Oct 2022,v Chandigarh,Lucknow,1,6,15,-,10,0,1,150,stumped,2,3.0,0,29,0,9.66
+1159711,Shahbaz Ahmed,1 Nov 2022,v Himachal,Kolkata,1,5,59,-,32,4,4,184.37,caught,2,4.0,0,37,1,9.25
+1159711,Shahbaz Ahmed,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,6 Apr 2023,v KKR,Eden Gardens,2,6,1,6,5,0,0,20,caught,1,1.0,0,6,0,6
+1159711,Shahbaz Ahmed,10 Apr 2023,v LSG,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+1159711,Shahbaz Ahmed,15 Apr 2023,v DC,Bengaluru,1,6,20*,31,12,3,0,166.66,not out,2,1.0,0,11,0,11
+1159711,Shahbaz Ahmed,17 Apr 2023,v CSK,Bengaluru,2,5,12,29,10,0,1,120,caught,1,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,20 Apr 2023,v Punjab Kings,Mohali,1,6,5*,5,3,0,0,166.66,not out,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,23 Apr 2023,v RR,Bengaluru,1,3,2,10,4,0,0,50,caught,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,26 Apr 2023,v KKR,Bengaluru,2,3,2,11,5,0,0,40,lbw,1,1.0,0,25,0,25
+1159711,Shahbaz Ahmed,14 May 2023,v RR,Jaipur,1,-,sub,-,-,-,-,-,-,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,18 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,38,1,12.66
+1159711,Shahbaz Ahmed,6 Oct 2023,v Bangladesh,Hangzhou,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+1159711,Shahbaz Ahmed,7 Oct 2023,v Afghanistan,Hangzhou,-,-,TDNB,-,-,-,-,-,-,1,3.2,0,28,1,8.4
+1159711,Shahbaz Ahmed,16 Oct 2023,v Maharashtra,Mohali,1,4,11,-,9,0,1,122.22,caught,2,3.0,0,33,0,11
+1159711,Shahbaz Ahmed,17 Oct 2023,v Rajasthan,Mohali,1,6,10,-,13,0,0,76.92,caught,2,4.0,0,22,1,5.5
+1159711,Shahbaz Ahmed,19 Oct 2023,v Puducherry,New Chandigarh,1,5,38*,-,10,4,3,380,not out,2,3.0,0,21,0,7
+1159711,Shahbaz Ahmed,21 Oct 2023,v Vidarbha,Mohali,1,5,5,-,4,1,0,125,caught,2,4.0,0,30,1,7.5
+1159711,Shahbaz Ahmed,23 Oct 2023,v Uttarakhand,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+1159711,Shahbaz Ahmed,25 Oct 2023,v Jharkhand,New Chandigarh,1,6,4*,-,3,0,0,133.33,not out,2,1.0,0,14,0,14
+1159711,Shahbaz Ahmed,31 Oct 2023,v Assam,Mohali,1,7,5,-,6,0,0,83.33,caught,2,4.0,0,30,1,7.5
+1159711,Shahbaz Ahmed,23 Mar 2024,v KKR,Eden Gardens,2,7,16,15,5,1,2,320,caught,1,1.0,0,14,0,14
+1159711,Shahbaz Ahmed,27 Mar 2024,v MI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+1159711,Shahbaz Ahmed,31 Mar 2024,v GT,Ahmedabad,1,6,22,28,20,1,1,110,caught,2,2.0,0,20,1,10
+1159711,Shahbaz Ahmed,5 Apr 2024,v CSK,Hyderabad,2,4,18,26,19,0,1,94.73,lbw,1,1.0,0,11,1,11
+1159711,Shahbaz Ahmed,9 Apr 2024,v Punjab Kings,New Chandigarh,1,8,14*,-,7,1,1,200,not out,2,1.0,0,10,0,10
+1159711,Shahbaz Ahmed,15 Apr 2024,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,18,0,18
+1159711,Shahbaz Ahmed,20 Apr 2024,v DC,Delhi,1,6,59*,54,29,2,5,203.44,not out,2,1.0,0,22,0,22
+1159711,Shahbaz Ahmed,25 Apr 2024,v RCB,Hyderabad,2,6,40*,72,37,1,1,108.1,not out,1,3.0,0,14,0,4.66
+1159711,Shahbaz Ahmed,28 Apr 2024,v CSK,Chennai,2,8,7,15,5,1,0,140,caught,1,3.0,0,33,0,11
+1159711,Shahbaz Ahmed,2 May 2024,v RR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+1159711,Shahbaz Ahmed,6 May 2024,v MI,Wankhede,1,7,10,13,12,0,0,83.33,caught,2,1.0,0,11,0,11
+1159711,Shahbaz Ahmed,8 May 2024,v LSG,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+1159711,Shahbaz Ahmed,19 May 2024,v Punjab Kings,Hyderabad,2,6,3,16,6,0,0,50,caught,1,1.0,0,13,0,13
+1159711,Shahbaz Ahmed,21 May 2024,v KKR,Ahmedabad,1,5,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+1159711,Shahbaz Ahmed,24 May 2024,v RR,Chennai,1,8,18,32,18,0,1,100,caught,2,4.0,0,23,3,5.75
+1159711,Shahbaz Ahmed,26 May 2024,v KKR,Chennai,1,7,8,5,7,0,1,114.28,caught,2,2.3,0,22,1,8.8
+1159711,Shahbaz Ahmed,23 Nov 2024,v Punjab,Rajkot,2,6,100*,-,49,6,7,204.08,not out,1,3.0,0,26,1,8.66
+1159711,Shahbaz Ahmed,25 Nov 2024,v Hyderabad,Rajkot,2,4,20*,-,18,2,0,111.11,not out,1,2.0,0,14,2,7
+1159711,Shahbaz Ahmed,27 Nov 2024,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1159711,Shahbaz Ahmed,29 Nov 2024,v M. Pradesh,Saurashtra,1,5,37,-,16,1,4,231.25,caught,2,4.0,0,33,0,8.25
+1159711,Shahbaz Ahmed,1 Dec 2024,v Meghalaya,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+1159711,Shahbaz Ahmed,3 Dec 2024,v Bihar,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1159711,Shahbaz Ahmed,5 Dec 2024,v Rajasthan,Rajkot,2,5,18*,-,12,1,0,150,not out,1,4.0,0,21,2,5.25
+1159711,Shahbaz Ahmed,9 Dec 2024,v Chandigarh,Bengaluru,1,6,7,-,3,0,1,233.33,caught,2,4.0,0,25,1,6.25
+1159711,Shahbaz Ahmed,11 Dec 2024,v Baroda,Bengaluru,2,6,55,-,36,3,4,152.77,caught,1,2.0,0,29,0,14.5
+1159711,Shahbaz Ahmed,24 Mar 2025,v DC,Visakhapatnam,1,8,9,10,8,1,0,112.5,caught,2,1.3,0,22,0,14.66
+1159711,Shahbaz Ahmed,22 May 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+1159711,Shahbaz Ahmed,27 May 2025,v RCB,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,0,13
+1159711,Shahbaz Ahmed,26 Nov 2025,v Baroda,Hyderabad,2,6,38*,-,21,3,2,180.95,not out,1,4.0,0,26,1,6.5
+1159711,Shahbaz Ahmed,28 Nov 2025,v Gujarat,Hyderabad,2,6,19*,-,17,2,0,111.76,not out,1,2.0,0,11,0,5.5
+1159711,Shahbaz Ahmed,30 Nov 2025,v Punjab,Hyderabad,2,4,0,-,2,0,0,0,caught,1,2.0,0,27,0,13.5
+1159711,Shahbaz Ahmed,2 Dec 2025,v Himachal,Hyderabad,2,5,0,-,1,0,0,0,caught,1,4.0,0,36,3,9
+1159711,Shahbaz Ahmed,8 Dec 2025,v Haryana,Hyderabad,2,6,3,-,4,0,0,75,caught,1,4.0,0,32,0,8

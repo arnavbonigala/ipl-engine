@@ -1,0 +1,271 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+625383,Jasprit Bumrah,17 Mar 2013,v Maharashtra,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+625383,Jasprit Bumrah,18 Mar 2013,v Mumbai,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+625383,Jasprit Bumrah,19 Mar 2013,v Baroda,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+625383,Jasprit Bumrah,22 Mar 2013,v Saurashtra,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,0,4
+625383,Jasprit Bumrah,26 Mar 2013,v Odisha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+625383,Jasprit Bumrah,27 Mar 2013,v Delhi,Indore,2,11,8*,-,9,0,1,88.88,not out,1,4.0,0,50,0,12.5
+625383,Jasprit Bumrah,29 Mar 2013,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+625383,Jasprit Bumrah,30 Mar 2013,v Kerala,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+625383,Jasprit Bumrah,31 Mar 2013,v Punjab,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,3,3.5
+625383,Jasprit Bumrah,4 Apr 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+625383,Jasprit Bumrah,21 Apr 2013,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+625383,Jasprit Bumrah,30 Mar 2014,v Maharashtra,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,2,3.33
+625383,Jasprit Bumrah,31 Mar 2014,v Mumbai,Mumbai,1,10,14*,10,8,1,1,175,not out,2,4.0,0,25,0,6.25
+625383,Jasprit Bumrah,2 Apr 2014,v Baroda,Wankhede,1,10,2,3,6,0,0,33.33,caught,2,4.0,1,10,1,2.5
+625383,Jasprit Bumrah,4 Apr 2014,v Saurashtra,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66
+625383,Jasprit Bumrah,19 Apr 2014,v RCB,Dubai (DICS),1,11,1*,2,1,0,0,100,not out,2,2.0,0,14,0,7
+625383,Jasprit Bumrah,3 May 2014,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+625383,Jasprit Bumrah,6 May 2014,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+625383,Jasprit Bumrah,10 May 2014,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+625383,Jasprit Bumrah,12 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+625383,Jasprit Bumrah,14 May 2014,v KKR,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+625383,Jasprit Bumrah,19 May 2014,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+625383,Jasprit Bumrah,21 May 2014,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+625383,Jasprit Bumrah,23 May 2014,v Daredevils,Wankhede,1,11,0*,2,2,0,0,0,not out,2,4.0,0,36,0,9
+625383,Jasprit Bumrah,25 May 2014,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,30,1,7.5
+625383,Jasprit Bumrah,28 May 2014,v CSK,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.4,0,40,0,10.9
+625383,Jasprit Bumrah,13 Sep 2014,v Lahore Lions,Raipur,1,-,DNB,-,-,-,-,-,-,2,3.4,0,35,0,9.54
+625383,Jasprit Bumrah,14 Sep 2014,v Express,Raipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+625383,Jasprit Bumrah,16 Sep 2014,v Northern Dis,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+625383,Jasprit Bumrah,24 Mar 2015,v Maharashtra,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+625383,Jasprit Bumrah,26 Mar 2015,v Baroda,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+625383,Jasprit Bumrah,28 Mar 2015,v Saurashtra,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+625383,Jasprit Bumrah,1 Apr 2015,v Jharkhand,Bhubaneswar,2,-,DNB,-,-,-,-,-,-,1,3.2,0,22,2,6.6
+625383,Jasprit Bumrah,2 Apr 2015,v Himachal,Bhubaneswar,2,-,DNB,-,-,-,-,-,-,1,3.3,0,21,3,6
+625383,Jasprit Bumrah,8 Apr 2015,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,1,12.66
+625383,Jasprit Bumrah,19 Apr 2015,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+625383,Jasprit Bumrah,23 Apr 2015,v Daredevils,Delhi,2,11,0*,1,0,0,0,-,not out,1,4.0,0,55,1,13.75
+625383,Jasprit Bumrah,10 May 2015,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,0,13
+625383,Jasprit Bumrah,2 Jan 2016,v Himachal,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+625383,Jasprit Bumrah,3 Jan 2016,v Vidarbha,Nagpur,1,-,DNB,-,-,-,-,-,-,2,3.4,0,16,3,4.36
+625383,Jasprit Bumrah,4 Jan 2016,v Hyderabad,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+625383,Jasprit Bumrah,6 Jan 2016,v Bengal,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+625383,Jasprit Bumrah,7 Jan 2016,v Tamil Nadu,Nagpur,1,11,2,4,3,0,0,66.66,stumped,2,3.0,0,25,0,8.33
+625383,Jasprit Bumrah,10 Jan 2016,v Haryana,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,3,2.5
+625383,Jasprit Bumrah,15 Jan 2016,v Delhi,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+625383,Jasprit Bumrah,16 Jan 2016,v UP,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+625383,Jasprit Bumrah,18 Jan 2016,v Jharkhand,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+625383,Jasprit Bumrah,26 Jan 2016,v Australia,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.3,0,23,3,6.57
+625383,Jasprit Bumrah,29 Jan 2016,v Australia,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+625383,Jasprit Bumrah,31 Jan 2016,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+625383,Jasprit Bumrah,9 Feb 2016,v Sri Lanka,Pune,1,11,0,1,0,0,0,-,run out,2,4.0,1,19,0,4.75
+625383,Jasprit Bumrah,12 Feb 2016,v Sri Lanka,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+625383,Jasprit Bumrah,14 Feb 2016,v Sri Lanka,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+625383,Jasprit Bumrah,24 Feb 2016,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+625383,Jasprit Bumrah,27 Feb 2016,v Pakistan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,2,8,1,2.66
+625383,Jasprit Bumrah,1 Mar 2016,v Sri Lanka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+625383,Jasprit Bumrah,3 Mar 2016,v U.A.E.,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+625383,Jasprit Bumrah,6 Mar 2016,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+625383,Jasprit Bumrah,15 Mar 2016,v New Zealand,Nagpur,2,11,0*,-,2,0,0,0,not out,1,4.0,0,15,1,3.75
+625383,Jasprit Bumrah,19 Mar 2016,v Pakistan,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+625383,Jasprit Bumrah,23 Mar 2016,v Bangladesh,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+625383,Jasprit Bumrah,27 Mar 2016,v Australia,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+625383,Jasprit Bumrah,31 Mar 2016,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+625383,Jasprit Bumrah,9 Apr 2016,v Supergiants,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+625383,Jasprit Bumrah,13 Apr 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+625383,Jasprit Bumrah,16 Apr 2016,v Guj Lions,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+625383,Jasprit Bumrah,18 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+625383,Jasprit Bumrah,20 Apr 2016,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+625383,Jasprit Bumrah,23 Apr 2016,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+625383,Jasprit Bumrah,25 Apr 2016,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+625383,Jasprit Bumrah,28 Apr 2016,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+625383,Jasprit Bumrah,1 May 2016,v Supergiants,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+625383,Jasprit Bumrah,8 May 2016,v SRH,Visakhapatnam,2,11,6,12,9,1,0,66.66,caught,1,4.0,0,35,0,8.75
+625383,Jasprit Bumrah,11 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+625383,Jasprit Bumrah,13 May 2016,v Kings XI,Visakhapatnam,1,11,2*,7,2,0,0,100,not out,2,2.0,0,13,0,6.5
+625383,Jasprit Bumrah,15 May 2016,v Daredevils,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,3,3.25
+625383,Jasprit Bumrah,21 May 2016,v Guj Lions,Kanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+625383,Jasprit Bumrah,18 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,1,24,2,6
+625383,Jasprit Bumrah,20 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,3,2.75
+625383,Jasprit Bumrah,22 Jun 2016,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+625383,Jasprit Bumrah,27 Aug 2016,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,2,11.75
+625383,Jasprit Bumrah,28 Aug 2016,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+625383,Jasprit Bumrah,26 Jan 2017,v England,Kanpur,1,9,0*,2,0,0,0,-,not out,2,3.1,0,26,0,8.21
+625383,Jasprit Bumrah,29 Jan 2017,v England,Nagpur,1,9,0*,1,0,0,0,-,not out,2,4.0,0,20,2,5
+625383,Jasprit Bumrah,1 Feb 2017,v England,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,2.3,0,14,3,5.6
+625383,Jasprit Bumrah,6 Apr 2017,v Supergiant,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+625383,Jasprit Bumrah,9 Apr 2017,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+625383,Jasprit Bumrah,12 Apr 2017,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+625383,Jasprit Bumrah,14 Apr 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+625383,Jasprit Bumrah,16 Apr 2017,v Guj Lions,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+625383,Jasprit Bumrah,20 Apr 2017,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+625383,Jasprit Bumrah,22 Apr 2017,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+625383,Jasprit Bumrah,24 Apr 2017,v Supergiant,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+625383,Jasprit Bumrah,29 Apr 2017,v Guj Lions,Rajkot,2,10,0,3,1,0,0,0,run out,1,4.0,0,32,2,8
+625383,Jasprit Bumrah,1 May 2017,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+625383,Jasprit Bumrah,6 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,1,6
+625383,Jasprit Bumrah,8 May 2017,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.2,1,23,1,6.9
+625383,Jasprit Bumrah,11 May 2017,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+625383,Jasprit Bumrah,16 May 2017,v Supergiant,Wankhede,2,10,16*,13,11,0,1,145.45,not out,1,4.0,0,33,0,8.25
+625383,Jasprit Bumrah,19 May 2017,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,1,7,3,2.33
+625383,Jasprit Bumrah,21 May 2017,v Supergiant,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+625383,Jasprit Bumrah,6 Sep 2017,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+625383,Jasprit Bumrah,7 Oct 2017,v Australia,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,2,5.66
+625383,Jasprit Bumrah,10 Oct 2017,v Australia,Guwahati,1,10,7,11,9,1,0,77.77,run out,2,3.0,0,25,1,8.33
+625383,Jasprit Bumrah,1 Nov 2017,v New Zealand,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+625383,Jasprit Bumrah,4 Nov 2017,v New Zealand,Rajkot,2,9,1*,2,2,0,0,50,not out,1,4.0,0,23,0,5.75
+625383,Jasprit Bumrah,7 Nov 2017,v New Zealand,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,2,4.5
+625383,Jasprit Bumrah,20 Dec 2017,v Sri Lanka,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+625383,Jasprit Bumrah,22 Dec 2017,v Sri Lanka,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+625383,Jasprit Bumrah,18 Feb 2018,v South Africa,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+625383,Jasprit Bumrah,24 Feb 2018,v South Africa,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+625383,Jasprit Bumrah,7 Apr 2018,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+625383,Jasprit Bumrah,12 Apr 2018,v SRH,Hyderabad,1,10,4*,-,5,0,0,80,not out,2,4.0,0,32,2,8
+625383,Jasprit Bumrah,14 Apr 2018,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+625383,Jasprit Bumrah,17 Apr 2018,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+625383,Jasprit Bumrah,22 Apr 2018,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+625383,Jasprit Bumrah,24 Apr 2018,v SRH,Wankhede,2,10,6*,-,5,1,0,120,not out,1,4.0,0,25,1,6.25
+625383,Jasprit Bumrah,28 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+625383,Jasprit Bumrah,1 May 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+625383,Jasprit Bumrah,4 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+625383,Jasprit Bumrah,6 May 2018,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+625383,Jasprit Bumrah,9 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+625383,Jasprit Bumrah,13 May 2018,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+625383,Jasprit Bumrah,16 May 2018,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,3.75
+625383,Jasprit Bumrah,20 May 2018,v Daredevils,Delhi,2,10,0,-,1,0,0,0,caught,1,4.0,0,29,1,7.25
+625383,Jasprit Bumrah,27 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,1,19,2,4.75
+625383,Jasprit Bumrah,4 Nov 2018,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+625383,Jasprit Bumrah,6 Nov 2018,v West Indies,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+625383,Jasprit Bumrah,21 Nov 2018,v Australia,Brisbane,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+625383,Jasprit Bumrah,23 Nov 2018,v Australia,Melbourne,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+625383,Jasprit Bumrah,25 Nov 2018,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+625383,Jasprit Bumrah,24 Feb 2019,v Australia,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+625383,Jasprit Bumrah,27 Feb 2019,v Australia,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+625383,Jasprit Bumrah,24 Mar 2019,v DC,Wankhede,2,-,absent,-,-,-,-,-,-,1,4.0,0,40,1,10
+625383,Jasprit Bumrah,28 Mar 2019,v RCB,Bengaluru,1,10,0*,-,1,0,0,0,not out,2,4.0,0,20,3,5
+625383,Jasprit Bumrah,30 Mar 2019,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.4,0,23,0,6.27
+625383,Jasprit Bumrah,3 Apr 2019,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+625383,Jasprit Bumrah,6 Apr 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+625383,Jasprit Bumrah,10 Apr 2019,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+625383,Jasprit Bumrah,13 Apr 2019,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+625383,Jasprit Bumrah,15 Apr 2019,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,0,5.5
+625383,Jasprit Bumrah,18 Apr 2019,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+625383,Jasprit Bumrah,20 Apr 2019,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+625383,Jasprit Bumrah,26 Apr 2019,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,2,3.33
+625383,Jasprit Bumrah,28 Apr 2019,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+625383,Jasprit Bumrah,2 May 2019,v SRH,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+625383,Jasprit Bumrah,5 May 2019,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+625383,Jasprit Bumrah,7 May 2019,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+625383,Jasprit Bumrah,12 May 2019,v CSK,Hyderabad,1,10,0*,3,0,0,0,-,not out,2,4.0,0,14,2,3.5
+625383,Jasprit Bumrah,5 Jan 2020,v Sri Lanka,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+625383,Jasprit Bumrah,7 Jan 2020,v Sri Lanka,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+625383,Jasprit Bumrah,10 Jan 2020,v Sri Lanka,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,1,5,1,2.5
+625383,Jasprit Bumrah,24 Jan 2020,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+625383,Jasprit Bumrah,26 Jan 2020,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+625383,Jasprit Bumrah,29 Jan 2020,v New Zealand,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+625383,Jasprit Bumrah,31 Jan 2020,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+625383,Jasprit Bumrah,2 Feb 2020,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,3,3
+625383,Jasprit Bumrah,19 Sep 2020,v CSK,Abu Dhabi,1,11,5*,-,3,0,0,166.66,not out,2,4.0,0,43,1,10.75
+625383,Jasprit Bumrah,23 Sep 2020,v KKR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+625383,Jasprit Bumrah,28 Sep 2020,v RCB,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+625383,Jasprit Bumrah,1 Oct 2020,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+625383,Jasprit Bumrah,4 Oct 2020,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+625383,Jasprit Bumrah,6 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,5
+625383,Jasprit Bumrah,11 Oct 2020,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+625383,Jasprit Bumrah,16 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+625383,Jasprit Bumrah,18 Oct 2020,v Kings XI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+625383,Jasprit Bumrah,23 Oct 2020,v CSK,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+625383,Jasprit Bumrah,25 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+625383,Jasprit Bumrah,28 Oct 2020,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,3,3.5
+625383,Jasprit Bumrah,31 Oct 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+625383,Jasprit Bumrah,5 Nov 2020,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,14,4,3.5
+625383,Jasprit Bumrah,10 Nov 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+625383,Jasprit Bumrah,9 Apr 2021,v RCB,Chennai,1,10,1*,5,2,0,0,50,not out,2,4.0,0,26,2,6.5
+625383,Jasprit Bumrah,13 Apr 2021,v KKR,Chennai,1,10,0,2,1,0,0,0,caught,2,4.0,0,28,0,7
+625383,Jasprit Bumrah,17 Apr 2021,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+625383,Jasprit Bumrah,20 Apr 2021,v DC,Chennai,1,10,3*,6,3,0,0,100,not out,2,4.0,0,32,1,8
+625383,Jasprit Bumrah,23 Apr 2021,v Punjab Kings,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+625383,Jasprit Bumrah,29 Apr 2021,v RR,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+625383,Jasprit Bumrah,1 May 2021,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,56,1,14
+625383,Jasprit Bumrah,19 Sep 2021,v CSK,Dubai (DICS),2,10,1*,2,2,0,0,50,not out,1,4.0,0,33,2,8.25
+625383,Jasprit Bumrah,23 Sep 2021,v KKR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,3,10.75
+625383,Jasprit Bumrah,26 Sep 2021,v RCB,Dubai (DICS),2,10,5,6,6,1,0,83.33,bowled,1,4.0,0,36,3,9
+625383,Jasprit Bumrah,28 Sep 2021,v Punjab Kings,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+625383,Jasprit Bumrah,2 Oct 2021,v DC,Sharjah,1,10,1*,3,1,0,0,100,not out,2,4.0,0,29,1,7.25
+625383,Jasprit Bumrah,5 Oct 2021,v RR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+625383,Jasprit Bumrah,8 Oct 2021,v SRH,Abu Dhabi,1,10,5*,4,2,1,0,250,not out,2,4.0,0,39,2,9.75
+625383,Jasprit Bumrah,24 Oct 2021,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+625383,Jasprit Bumrah,31 Oct 2021,v New Zealand,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+625383,Jasprit Bumrah,3 Nov 2021,v Afghanistan,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+625383,Jasprit Bumrah,5 Nov 2021,v Scotland,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.4,1,10,2,2.72
+625383,Jasprit Bumrah,8 Nov 2021,v Namibia,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+625383,Jasprit Bumrah,24 Feb 2022,v Sri Lanka,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+625383,Jasprit Bumrah,26 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+625383,Jasprit Bumrah,27 Mar 2022,v DC,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.2,0,43,0,12.9
+625383,Jasprit Bumrah,2 Apr 2022,v RR,DY Patil,2,9,0*,8,1,0,0,0,not out,1,4.0,0,17,3,4.25
+625383,Jasprit Bumrah,6 Apr 2022,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+625383,Jasprit Bumrah,9 Apr 2022,v RCB,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+625383,Jasprit Bumrah,13 Apr 2022,v Punjab Kings,Pune,2,9,0,2,1,0,0,0,caught,1,4.0,0,28,1,7
+625383,Jasprit Bumrah,16 Apr 2022,v LSG,Brabourne,2,10,0*,3,0,0,0,-,not out,1,4.0,0,24,0,6
+625383,Jasprit Bumrah,21 Apr 2022,v CSK,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+625383,Jasprit Bumrah,24 Apr 2022,v LSG,Wankhede,2,10,0*,1,2,0,0,0,not out,1,4.0,0,31,1,7.75
+625383,Jasprit Bumrah,30 Apr 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+625383,Jasprit Bumrah,6 May 2022,v GT,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+625383,Jasprit Bumrah,9 May 2022,v KKR,DY Patil,2,10,0,4,0,0,0,-,run out,1,4.0,1,10,5,2.5
+625383,Jasprit Bumrah,12 May 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,1,12,1,4
+625383,Jasprit Bumrah,17 May 2022,v SRH,Wankhede,2,9,0*,8,4,0,0,0,not out,1,4.0,0,32,1,8
+625383,Jasprit Bumrah,21 May 2022,v DC,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+625383,Jasprit Bumrah,9 Jul 2022,v England,Birmingham,1,10,0*,5,0,0,0,-,not out,2,3.0,1,10,2,3.33
+625383,Jasprit Bumrah,23 Sep 2022,v Australia,Nagpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+625383,Jasprit Bumrah,25 Sep 2022,v Australia,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+625383,Jasprit Bumrah,18 Aug 2023,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+625383,Jasprit Bumrah,20 Aug 2023,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,1,15,2,3.75
+625383,Jasprit Bumrah,24 Mar 2024,v GT,Ahmedabad,2,11,1*,1,1,0,0,100,not out,1,4.0,0,14,3,3.5
+625383,Jasprit Bumrah,27 Mar 2024,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+625383,Jasprit Bumrah,1 Apr 2024,v RR,Wankhede,1,10,8*,17,9,1,0,88.88,not out,2,4.0,0,26,0,6.5
+625383,Jasprit Bumrah,7 Apr 2024,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+625383,Jasprit Bumrah,11 Apr 2024,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,5,5.25
+625383,Jasprit Bumrah,14 Apr 2024,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+625383,Jasprit Bumrah,18 Apr 2024,v Punjab Kings,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+625383,Jasprit Bumrah,22 Apr 2024,v RR,Jaipur,1,11,2*,1,1,0,0,200,not out,2,4.0,0,37,0,9.25
+625383,Jasprit Bumrah,27 Apr 2024,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+625383,Jasprit Bumrah,30 Apr 2024,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,0,4.25
+625383,Jasprit Bumrah,3 May 2024,v KKR,Wankhede,2,11,1*,1,1,0,0,100,not out,1,3.5,0,18,3,4.69
+625383,Jasprit Bumrah,6 May 2024,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+625383,Jasprit Bumrah,11 May 2024,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+625383,Jasprit Bumrah,5 Jun 2024,v Ireland,New York,2,-,DNB,-,-,-,-,-,-,1,3.0,1,6,2,2
+625383,Jasprit Bumrah,9 Jun 2024,v Pakistan,New York,1,10,0,1,1,0,0,0,caught,2,4.0,0,14,3,3.5
+625383,Jasprit Bumrah,12 Jun 2024,v U.S.A.,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+625383,Jasprit Bumrah,20 Jun 2024,v Afghanistan,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,1,7,3,1.75
+625383,Jasprit Bumrah,22 Jun 2024,v Bangladesh,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,2,3.25
+625383,Jasprit Bumrah,24 Jun 2024,v Australia,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+625383,Jasprit Bumrah,27 Jun 2024,v England,Providence,1,-,DNB,-,-,-,-,-,-,2,2.4,0,12,2,4.5
+625383,Jasprit Bumrah,29 Jun 2024,v South Africa,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+625383,Jasprit Bumrah,7 Apr 2025,v RCB,Wankhede,2,11,0*,1,1,0,0,0,not out,1,4.0,0,29,0,7.25
+625383,Jasprit Bumrah,13 Apr 2025,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+625383,Jasprit Bumrah,17 Apr 2025,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+625383,Jasprit Bumrah,20 Apr 2025,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+625383,Jasprit Bumrah,23 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+625383,Jasprit Bumrah,27 Apr 2025,v LSG,Wankhede,1,-,sub,-,-,-,-,-,-,2,4.0,0,22,4,5.5
+625383,Jasprit Bumrah,1 May 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,3.75
+625383,Jasprit Bumrah,6 May 2025,v GT,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+625383,Jasprit Bumrah,21 May 2025,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.2,0,12,3,3.6
+625383,Jasprit Bumrah,26 May 2025,v Punjab Kings,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+625383,Jasprit Bumrah,30 May 2025,v GT,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+625383,Jasprit Bumrah,1 Jun 2025,v Punjab Kings,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+625383,Jasprit Bumrah,10 Sep 2025,v U.A.E.,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+625383,Jasprit Bumrah,14 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+625383,Jasprit Bumrah,21 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+625383,Jasprit Bumrah,24 Sep 2025,v Bangladesh,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+625383,Jasprit Bumrah,28 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.1,0,25,2,7.89
+625383,Jasprit Bumrah,29 Oct 2025,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+625383,Jasprit Bumrah,31 Oct 2025,v Australia,Melbourne,1,11,0,1,1,0,0,0,run out,2,4.0,0,26,2,6.5
+625383,Jasprit Bumrah,2 Nov 2025,v Australia,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+625383,Jasprit Bumrah,6 Nov 2025,v Australia,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+625383,Jasprit Bumrah,8 Nov 2025,v Australia,Brisbane,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+625383,Jasprit Bumrah,9 Dec 2025,v South Africa,Cuttack,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+625383,Jasprit Bumrah,11 Dec 2025,v South Africa,New Chandigarh,2,11,0*,1,0,0,0,-,not out,1,4.0,0,45,0,11.25
+625383,Jasprit Bumrah,19 Dec 2025,v South Africa,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+625383,Jasprit Bumrah,21 Jan 2026,v New Zealand,Nagpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+625383,Jasprit Bumrah,25 Jan 2026,v New Zealand,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+625383,Jasprit Bumrah,28 Jan 2026,v New Zealand,Visakhapatnam,2,10,4,4,2,1,0,200,caught,1,4.0,0,38,1,9.5
+625383,Jasprit Bumrah,31 Jan 2026,v New Zealand,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,58,0,14.5
+625383,Jasprit Bumrah,12 Feb 2026,v Namibia,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+625383,Jasprit Bumrah,15 Feb 2026,v Pakistan,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,2,8.5
+625383,Jasprit Bumrah,18 Feb 2026,v Netherlands,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+625383,Jasprit Bumrah,22 Feb 2026,v South Africa,Ahmedabad,2,11,0,1,1,0,0,0,caught,1,4.0,0,15,3,3.75
+625383,Jasprit Bumrah,26 Feb 2026,v Zimbabwe,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+625383,Jasprit Bumrah,1 Mar 2026,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+625383,Jasprit Bumrah,5 Mar 2026,v England,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+625383,Jasprit Bumrah,8 Mar 2026,v New Zealand,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,4,3.75

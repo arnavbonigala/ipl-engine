@@ -1,0 +1,293 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+53116,Lendl Simmons,24 Jun 2007,v Derbyshire,Derby,2,4,3,11,9,0,0,33.33,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,29 Jun 2007,v England,The Oval,1,2,9,22,12,2,0,75,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Feb 2008,v St Lucia,Coolidge,2,1,42,-,32,4,1,131.25,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Feb 2008,v St Vi & Gren,Coolidge,1,1,17,-,18,3,0,94.44,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,22 Feb 2008,v Barbados,Coolidge,1,1,5,-,19,0,0,26.31,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,24 Feb 2008,v Jamaica,Coolidge,2,3,26*,-,18,4,1,144.44,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Oct 2008,v Superstars,Coolidge,2,2,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,27 Oct 2008,v Middlesex,Coolidge,2,3,1,2,4,0,0,25,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,28 Oct 2008,v England,Coolidge,2,1,21,25,18,3,0,116.66,lbw,1,4.0,0,29,1,7.25
+53116,Lendl Simmons,15 Mar 2009,v England,Port of Spain,2,4,23*,54,32,1,0,71.87,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 Jun 2009,v Sri Lanka,Nottingham,2,1,29,29,19,5,0,152.63,caught,1,3.0,0,19,4,6.33
+53116,Lendl Simmons,12 Jun 2009,v India,Lord's,2,3,44,50,37,5,0,118.91,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Jun 2009,v South Africa,The Oval,2,3,77,59,50,12,1,154,caught,1,2.0,0,22,1,11
+53116,Lendl Simmons,15 Jun 2009,v England,The Oval,2,3,0,6,1,0,0,0,caught,1,1.0,0,14,1,14
+53116,Lendl Simmons,19 Jun 2009,v Sri Lanka,The Oval,2,3,0,1,2,0,0,0,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,12 Oct 2009,v Somerset,Bengaluru,1,1,22,-,19,4,0,115.78,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,14 Oct 2009,v Chargers,Hyderabad,1,1,7,-,7,1,0,100,lbw,2,3.0,0,16,1,5.33
+53116,Lendl Simmons,16 Oct 2009,v NSW,Hyderabad,2,1,3,-,6,0,0,50,lbw,1,4.0,0,33,0,8.25
+53116,Lendl Simmons,18 Oct 2009,v Eagles,Hyderabad,1,3,40,-,25,6,1,160,bowled,2,2.0,0,23,1,11.5
+53116,Lendl Simmons,22 Oct 2009,v Cape Cobras,Hyderabad,2,3,20,-,20,0,1,100,caught,1,3.0,0,17,2,5.66
+53116,Lendl Simmons,23 Oct 2009,v NSW,Hyderabad,2,3,4,-,7,1,0,57.14,caught,1,2.0,0,23,0,11.5
+53116,Lendl Simmons,21 Feb 2010,v Australia,Hobart,2,2,5,13,6,1,0,83.33,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,22 Jul 2010,v Canada,Bridgetown,2,3,22*,-,20,1,1,110,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,24 Jul 2010,v Leeward Is,Bridgetown,2,3,11,-,13,2,0,84.61,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,28 Jul 2010,v Jamaica,Port of Spain,1,3,4,-,7,0,0,57.14,caught,2,1.0,0,4,1,4
+53116,Lendl Simmons,30 Jul 2010,v Guyana,Port of Spain,2,3,6,-,12,0,0,50,caught,1,3.0,0,33,1,11
+53116,Lendl Simmons,31 Jul 2010,v Jamaica,Port of Spain,2,1,36*,-,27,3,1,133.33,not out,1,2.0,0,18,1,9
+53116,Lendl Simmons,13 Jan 2011,v Leeward Is,North Sound,1,2,83,-,62,5,5,133.87,run out,2,1.0,0,14,0,14
+53116,Lendl Simmons,15 Jan 2011,v Canada,North Sound,2,2,31,-,29,3,1,106.89,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 Jan 2011,v Hampshire,Bridgetown,1,2,0,-,6,0,0,0,caught,-,TDNB,-,-,-,-
+53116,Lendl Simmons,21 Jan 2011,v Barbados,Bridgetown,1,2,53,-,45,3,4,117.77,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,22 Jan 2011,v Jamaica,Bridgetown,2,2,51,-,49,2,4,104.08,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 Jan 2011,v Hampshire,Bridgetown,1,2,31,-,32,2,1,96.87,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Apr 2011,v Pakistan,Gros Islet,1,1,65,54,44,7,2,147.72,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,4 Jun 2011,v India,Port of Spain,2,2,9,19,9,1,0,100,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 Sep 2011,v Ruhuna,Hyderabad,2,1,3,10,7,0,0,42.85,caught,1,2.0,0,30,1,15
+53116,Lendl Simmons,20 Sep 2011,v Leics,Hyderabad,1,1,67,70,58,7,0,115.51,caught,2,1.0,0,16,0,16
+53116,Lendl Simmons,26 Sep 2011,v MI,Bengaluru,1,1,21,23,18,2,1,116.66,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,28 Sep 2011,v NSW,Chennai,1,1,41,49,39,5,0,105.12,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Oct 2011,v CSK,Chennai,1,1,20,45,33,1,0,60.6,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,4 Oct 2011,v Cape Cobras,Chennai,2,1,9,-,16,1,0,56.25,caught,1,1.0,0,8,0,8
+53116,Lendl Simmons,9 Oct 2011,v BCB XI,Fatullah,1,1,12,28,14,2,0,85.71,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 Oct 2011,v Bangladesh,Mirpur,1,1,23,35,24,2,1,95.83,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Jan 2012,v Windward Is,North Sound,2,1,32,-,30,3,1,106.66,caught,1,2.0,0,6,0,3
+53116,Lendl Simmons,11 Jan 2012,v Leeward Is,North Sound,1,1,54,-,39,6,3,138.46,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,13 Jan 2012,v Guyana,North Sound,2,1,30,-,17,5,1,176.47,caught,1,2.0,1,3,1,1.5
+53116,Lendl Simmons,19 Jan 2012,v Canada,Bridgetown,2,1,5,-,13,0,0,38.46,caught,1,1.0,0,8,0,8
+53116,Lendl Simmons,21 Jan 2012,v Barbados,Bridgetown,2,1,12,-,10,1,1,120,bowled,1,1.0,0,11,0,11
+53116,Lendl Simmons,22 Jan 2012,v Jamaica,Bridgetown,1,1,19,-,17,2,1,111.76,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,24 Jun 2012,v England,Nottingham,1,3,6,12,5,1,0,120,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,1 Jul 2012,v New Zealand,Lauderhill,1,4,18,19,16,0,2,112.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,10 Oct 2012,v Yorkshire,Centurion,1,1,7,4,4,1,0,175,caught,2,2.0,0,20,0,10
+53116,Lendl Simmons,11 Oct 2012,v Uva Next,Johannesburg,1,1,34,39,30,3,2,113.33,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,10 Dec 2012,v Bangladesh,Mirpur,1,6,18*,25,12,2,0,150,not out,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Jan 2013,v Jamaica,Port of Spain,1,1,11,-,17,0,0,64.7,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 Jan 2013,v Comb C&C,Port of Spain,2,1,12,-,8,1,1,150,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,9 Jan 2013,v Leeward Is,Port of Spain,1,1,62,54,46,0,5,134.78,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 Jan 2013,v Guyana,Port of Spain,1,1,3,-,10,0,0,30,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,15 Jan 2013,v Windward Is,Gros Islet,2,1,6,-,13,0,0,46.15,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,16 Jan 2013,v Barbados,Gros Islet,2,1,36,-,23,4,2,156.52,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,20 Jan 2013,v Guyana,Gros Islet,2,1,52*,-,37,4,3,140.54,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,2 Mar 2013,v Zimbabwe,North Sound,2,2,63*,67,49,1,6,128.57,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Mar 2013,v Zimbabwe,North Sound,1,1,41,52,39,1,2,105.12,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,18 Jun 2013,v Sri Lanka A,Kingstown,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 Jun 2013,v Sri Lanka A,Kingstown,2,1,51*,42,35,3,5,145.71,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,27 Jul 2013,v Pakistan,Kingstown,1,4,6,8,5,0,1,120,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,28 Jul 2013,v Pakistan,Kingstown,2,4,3,21,16,0,0,18.75,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,31 Jul 2013,v Red Steel,Providence,1,1,42,-,50,2,1,84,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Aug 2013,v Tallawahs,Providence,2,1,67*,-,44,5,4,152.27,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,4 Aug 2013,v Zouks,Providence,1,1,38,-,42,5,0,90.47,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Aug 2013,v Red Steel,Port of Spain,2,1,18,-,10,1,2,180,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,11 Aug 2013,v Tridents,Port of Spain,1,1,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,15 Aug 2013,v Tallawahs,Kingston,1,1,30,-,36,2,2,83.33,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 Aug 2013,v Hawksbills,North Sound,2,1,23,-,28,1,1,82.14,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,22 Aug 2013,v Red Steel,Port of Spain,2,1,8,-,8,1,0,100,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,24 Aug 2013,v Tallawahs,Port of Spain,1,1,40,-,44,3,2,90.9,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,22 Sep 2013,v Heat,Ranchi,1,1,14,12,7,3,0,200,bowled,2,1.0,0,9,0,9
+53116,Lendl Simmons,24 Sep 2013,v SRH,Mohali,1,1,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,30 Sep 2013,v Titans,Ahmedabad,1,1,0,7,7,0,0,0,bowled,2,3.0,0,18,2,6
+53116,Lendl Simmons,2 Oct 2013,v CSK,Delhi,2,1,63,51,41,5,4,153.65,caught,1,2.0,0,10,2,5
+53116,Lendl Simmons,5 Oct 2013,v MI,Delhi,1,1,0,7,4,0,0,0,caught,2,2.1,0,27,1,12.46
+53116,Lendl Simmons,11 Jan 2014,v New Zealand,Auckland,2,2,0,7,4,0,0,0,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,15 Jan 2014,v New Zealand,Wellington,1,1,29,24,19,5,1,152.63,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,19 Feb 2014,v Ireland,Kingston,1,4,16,-,23,2,0,69.56,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Feb 2014,v Ireland,Kingston,1,4,12,-,18,0,0,66.66,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Mar 2014,v England,Bridgetown,1,4,3,12,7,0,0,42.85,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 Mar 2014,v England,Bridgetown,2,4,19,17,13,3,0,146.15,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Mar 2014,v England,Bridgetown,2,4,69,80,55,7,2,125.45,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 Mar 2014,v India,Mirpur,1,4,27,27,22,1,2,122.72,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,25 Mar 2014,v Bangladesh,Mirpur,1,3,0,2,0,0,0,-,stumped,2,DNB,-,-,-,-
+53116,Lendl Simmons,28 Mar 2014,v Australia,Mirpur,2,3,26,39,24,3,0,108.33,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,1 Apr 2014,v Pakistan,Mirpur,1,3,31,34,29,2,2,106.89,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,3 Apr 2014,v Sri Lanka,Mirpur,2,3,4,15,8,0,0,50,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 May 2014,v CSK,Wankhede,1,1,38,44,38,3,2,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 May 2014,v SRH,Hyderabad,2,1,68,71,50,5,4,136,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,14 May 2014,v KKR,Cuttack,1,1,12,24,14,2,0,85.71,bowled,2,3.0,0,34,1,11.33
+53116,Lendl Simmons,19 May 2014,v RR,Ahmedabad,1,2,62,69,51,6,2,121.56,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 May 2014,v Kings XI,Mohali,2,1,100*,86,61,14,2,163.93,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 May 2014,v Daredevils,Wankhede,1,1,35,39,25,5,0,140,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,25 May 2014,v RR,Wankhede,2,1,12,8,8,3,0,150,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,28 May 2014,v CSK,Brabourne,1,1,67,-,44,5,4,152.27,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Jul 2014,v New Zealand,Roseau,1,2,1,7,3,0,0,33.33,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Jul 2014,v New Zealand,Roseau,1,2,36,44,34,3,2,105.88,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 Jul 2014,v Hawksbills,St George's,2,1,0,-,3,0,0,0,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,17 Jul 2014,v Red Steel,Providence,2,1,32,-,25,3,1,128,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 Jul 2014,v Zouks,Providence,2,1,36,-,27,3,2,133.33,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,20 Jul 2014,v Tallawahs,Providence,2,1,68*,-,61,3,2,111.47,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,24 Jul 2014,v Red Steel,Port of Spain,1,1,24,-,21,5,0,114.28,stumped,2,DNB,-,-,-,-
+53116,Lendl Simmons,26 Jul 2014,v Tridents,Bridgetown,1,1,64,-,40,5,4,160,caught,2,1.0,0,9,0,9
+53116,Lendl Simmons,2 Aug 2014,v Tallawahs,Kingston,1,1,34,-,34,1,3,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,7 Aug 2014,v Hawksbills,Basseterre,1,1,0,-,6,0,0,0,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,10 Aug 2014,v Zouks,Basseterre,2,1,97,-,60,5,8,161.66,run out,1,3.0,0,28,0,9.33
+53116,Lendl Simmons,14 Aug 2014,v Tallawahs,Basseterre,2,1,71*,-,43,7,3,165.11,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,16 Aug 2014,v Tridents,Basseterre,2,1,20,-,26,1,1,76.92,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,27 Aug 2014,v Bangladesh,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Sep 2014,v Lahore Lions,Raipur,1,1,7,15,14,1,0,50,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,14 Sep 2014,v Express,Raipur,2,1,76*,77,51,11,1,149.01,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,16 Sep 2014,v Northern Dis,Raipur,1,1,13,34,17,2,0,76.47,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,14 Jan 2015,v South Africa,Durban,2,2,49,36,31,6,2,158.06,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,17 Apr 2015,v CSK,Wankhede,1,1,5,18,13,1,0,38.46,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,19 Apr 2015,v RCB,Bengaluru,1,1,59,56,44,9,2,134.09,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,23 Apr 2015,v Daredevils,Delhi,2,1,15,22,14,3,0,107.14,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Apr 2015,v SRH,Wankhede,1,1,51,56,42,6,1,121.42,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,1 May 2015,v RR,Wankhede,1,1,38,47,31,4,1,122.58,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,3 May 2015,v Kings XI,Mohali,1,1,71,85,56,9,1,126.78,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 May 2015,v Daredevils,Wankhede,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,8 May 2015,v CSK,Chennai,2,1,38,47,31,3,2,122.58,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 May 2015,v RCB,Wankhede,2,2,68*,97,53,5,3,128.3,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,14 May 2015,v KKR,Wankhede,1,1,14,25,16,1,1,87.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 May 2015,v SRH,Hyderabad,2,1,48,64,44,4,2,109.09,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 May 2015,v CSK,Wankhede,1,1,65,62,51,3,5,127.45,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,24 May 2015,v CSK,Eden Gardens,1,1,68,59,45,8,3,151.11,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,20 Jun 2015,v Tridents,Bridgetown,2,1,1,7,4,0,0,25,run out,1,2.0,0,18,0,9
+53116,Lendl Simmons,26 Jun 2015,v Zouks,Gros Islet,2,1,14,-,16,2,0,87.5,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Jul 2015,v Patriots,Basseterre,2,1,41,-,33,5,1,124.24,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,4 Jul 2015,v Red Steel,Basseterre,1,1,50,-,48,3,2,104.16,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 Jul 2015,v Tallawahs,Kingston,1,1,36,-,32,4,1,112.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 Jul 2015,v Zouks,Providence,2,1,31,-,27,5,0,114.81,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,18 Jul 2015,v Tridents,Providence,2,1,15,-,31,0,0,48.38,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,21 Jul 2015,v Red Steel,Providence,2,1,65*,-,51,5,3,127.45,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Jul 2015,v Red Steel,Port of Spain,1,1,64,-,51,8,0,125.49,run out,2,0.3,0,3,0,6
+53116,Lendl Simmons,22 Nov 2015,v Chattogram,Mirpur,2,1,1,13,9,0,0,11.11,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 Nov 2015,v Bulls,Mirpur,2,1,19,39,21,3,0,90.47,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Nov 2015,v Dynamites,Mirpur,1,1,51,44,39,5,3,130.76,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,26 Nov 2015,v Super Stars,Mirpur,1,1,13,18,14,2,0,92.85,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,27 Nov 2015,v Victorians,Mirpur,1,1,3,11,7,0,0,42.85,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Dec 2015,v Dynamites,Mirpur,2,1,18,51,22,2,0,81.81,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,7 Dec 2015,v Super Stars,Mirpur,2,1,5,6,8,1,0,62.5,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,8 Dec 2015,v Victorians,Mirpur,1,1,13,26,18,2,0,72.22,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 Dec 2015,v Victorians,Mirpur,2,1,25,19,20,5,0,125,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Dec 2015,v Bulls,Mirpur,1,1,73,87,57,9,2,128.07,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,19 Dec 2015,v Renegades,Brisbane,1,2,29,-,25,2,2,116,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,22 Dec 2015,v Hurricanes,Hobart,2,2,16,27,17,1,1,94.11,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,26 Dec 2015,v Scorchers,W.A.C.A,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,29 Dec 2015,v Hurricanes,Brisbane,2,2,0,-,3,0,0,0,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Jan 2016,v Thunder,Brisbane,2,2,34,-,25,2,2,136,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,8 Jan 2016,v Strikers,Brisbane,1,2,0,-,2,0,0,0,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,10 Jan 2016,v Sixers,Sydney,1,2,54,-,30,9,1,180,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,14 Jan 2016,v Stars,Melbourne,1,1,44,50,35,5,1,125.71,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Feb 2016,v Qalandars,Dubai (DICS),2,1,62*,-,46,8,2,134.78,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,6 Feb 2016,v Gladiators,Dubai (DICS),1,1,11,-,19,0,1,57.89,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,7 Feb 2016,v United,Dubai (DICS),2,1,1,-,3,0,0,33.33,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,11 Feb 2016,v Zalmi,Sharjah,2,1,9,-,12,1,0,75,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,17 Feb 2016,v Zalmi,Dubai (DICS),1,1,49,-,37,6,2,132.43,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,20 Feb 2016,v United,Dubai (DICS),1,1,19,-,18,3,1,105.55,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,31 Mar 2016,v India,Wankhede,2,4,82*,80,51,7,5,160.78,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Apr 2016,v England,Eden Gardens,2,4,0,5,1,0,0,0,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,9 Apr 2016,v Supergiants,Wankhede,1,1,8,19,8,0,1,100,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,30 Jun 2016,v Amazon,Basseterre,1,1,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Jul 2016,v Tallawahs,Basseterre,2,1,29,-,29,2,2,100,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Jul 2016,v Zouks,Basseterre,1,1,30,-,16,2,3,187.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Jul 2016,v Tridents,Basseterre,1,1,2,-,2,0,0,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Jul 2016,v Amazon,Providence,1,1,50,-,60,2,1,83.33,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,13 Jul 2016,v Tridents,Bridgetown,2,1,18,-,14,4,0,128.57,stumped,1,DNB,-,-,-,-
+53116,Lendl Simmons,16 Jul 2016,v Tallawahs,Kingston,2,1,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,21 Jul 2016,v Zouks,Gros Islet,2,1,15,-,15,1,0,100,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,29 Jul 2016,v Trinbago,Lauderhill,1,3,5,-,5,1,0,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,31 Jul 2016,v Trinbago,Lauderhill,1,4,60*,-,40,3,4,150,not out,2,1.0,0,9,0,9
+53116,Lendl Simmons,27 Aug 2016,v India,Lauderhill,1,7,0,2,1,0,0,0,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,28 Aug 2016,v India,Lauderhill,1,4,19,15,19,3,0,100,stumped,2,DNB,-,-,-,-
+53116,Lendl Simmons,26 Mar 2017,v Pakistan,Bridgetown,1,4,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,30 Mar 2017,v Pakistan,Port of Spain,2,4,1,-,2,0,0,50,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,1 Apr 2017,v Pakistan,Port of Spain,2,5,4*,-,1,1,0,400,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,2 Apr 2017,v Pakistan,Port of Spain,1,5,1,-,4,0,0,25,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 May 2017,v Daredevils,Delhi,1,1,66,63,43,5,4,153.48,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 May 2017,v SRH,Hyderabad,1,1,1,7,5,0,0,20,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 May 2017,v Kings XI,Wankhede,2,1,59,50,32,5,4,184.37,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 May 2017,v KKR,Eden Gardens,1,2,0,11,5,0,0,0,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,16 May 2017,v Supergiant,Wankhede,2,1,5,21,13,0,0,38.46,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 May 2017,v KKR,Bengaluru,2,1,3,6,6,0,0,50,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,21 May 2017,v Supergiant,Hyderabad,1,1,3,14,8,0,0,37.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Jun 2017,v Afghanistan,Basseterre,2,4,6,-,3,0,1,200,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Jun 2017,v Afghanistan,Basseterre,1,4,17*,-,14,1,0,121.42,not out,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Jun 2017,v Afghanistan,Basseterre,2,4,15,-,10,1,1,150,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,5 Aug 2017,v Tridents,Lauderhill,2,1,53,-,46,6,1,115.21,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,6 Aug 2017,v Tridents,Lauderhill,1,1,30,-,32,3,0,93.75,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Aug 2017,v Trinbago,Port of Spain,2,2,38,-,18,4,3,211.11,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,15 Aug 2017,v Stars,Gros Islet,2,1,17,-,18,1,1,94.44,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,17 Aug 2017,v Amazon,Providence,1,1,20,-,24,2,1,83.33,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Aug 2017,v Patriots,Basseterre,2,4,6,-,8,1,0,75,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Aug 2017,v Stars,Kingston,2,1,11,-,15,1,1,73.33,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,26 Aug 2017,v Trinbago,Kingston,2,1,32,-,19,1,3,168.42,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,30 Aug 2017,v Patriots,Kingston,1,1,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,1 Sep 2017,v Amazon,Kingston,1,1,15,-,15,2,0,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Sep 2017,v Amazon,Tarouba,1,1,34,-,25,5,1,136,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 Nov 2017,v Rangpur,Mirpur,2,1,53,-,50,4,1,106,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,12 Nov 2017,v Victorians,Mirpur,1,1,40*,-,23,6,1,173.91,retired notout,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Dec 2017,v Dynamites,Mirpur,2,1,1,-,8,0,0,12.5,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 Mar 2018,v Sultans,Dubai (DICS),1,1,4,-,13,0,0,30.76,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,11 Mar 2018,v Qalandars,Dubai (DICS),1,1,55,-,39,8,1,141.02,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 Aug 2018,v Trinbago,Port of Spain,2,3,3,-,10,0,0,30,bowled,1,1.0,0,15,0,15
+53116,Lendl Simmons,11 Aug 2018,v Amazon,Providence,2,3,45,-,39,0,5,115.38,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,14 Aug 2018,v Tallawahs,Kingston,1,3,22,-,16,1,2,137.5,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,16 Aug 2018,v Trinbago,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 Aug 2018,v Tridents,Gros Islet,1,4,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Aug 2018,v Patriots,Gros Islet,1,4,2,-,5,0,0,40,stumped,2,DNB,-,-,-,-
+53116,Lendl Simmons,24 Aug 2018,v Amazon,Gros Islet,2,1,15,-,20,1,1,75,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,25 Aug 2018,v Tallawahs,Gros Islet,2,6,45,-,26,4,3,173.07,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,2 Sep 2018,v Tridents,Bridgetown,2,6,24*,-,17,2,1,141.17,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,4 Sep 2019,v Patriots,Port of Spain,1,1,11,-,9,0,1,122.22,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Sep 2019,v Tallawahs,Port of Spain,1,1,11,-,8,1,1,137.5,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 Sep 2019,v Zouks,Port of Spain,2,1,63,-,39,5,5,161.53,stumped,1,DNB,-,-,-,-
+53116,Lendl Simmons,13 Sep 2019,v Tallawahs,Kingston,1,1,86,-,42,8,5,204.76,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 Sep 2019,v Patriots,Basseterre,1,1,90,-,45,9,6,200,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Sep 2019,v Zouks,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+53116,Lendl Simmons,26 Sep 2019,v Tridents,Bridgetown,2,2,11,-,9,1,1,122.22,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,30 Sep 2019,v Amazon,Port of Spain,2,1,16,-,13,1,1,123.07,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,2 Oct 2019,v Tridents,Port of Spain,1,2,60,-,45,3,4,133.33,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,4 Oct 2019,v Amazon,Providence,1,1,30,-,24,3,2,125,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Oct 2019,v Patriots,Providence,2,1,51,-,47,3,3,108.51,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 Oct 2019,v Tridents,Tarouba,2,2,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,17 Nov 2019,v Afghanistan,Lucknow,2,1,7,-,11,1,0,63.63,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,6 Dec 2019,v India,Hyderabad,1,1,2,-,4,0,0,50,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 Dec 2019,v India,Thiruvananthapuram,2,1,67*,-,45,4,4,148.88,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,11 Dec 2019,v India,Wankhede,2,1,7,-,11,1,0,63.63,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,12 Dec 2019,v Khulna,Mirpur,1,1,26,-,23,2,2,113.04,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,17 Dec 2019,v Thunder,Chattogram,2,1,44,-,37,3,3,118.91,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,18 Dec 2019,v Platoon,Chattogram,1,1,57,-,36,5,4,158.33,run out,2,DNB,-,-,-,-
+53116,Lendl Simmons,20 Dec 2019,v Warriors,Chattogram,1,1,10,-,7,2,0,142.85,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,21 Dec 2019,v Rangers,Chattogram,1,1,0,-,4,0,0,0,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,27 Dec 2019,v Platoon,Mirpur,2,1,15,-,12,0,2,125,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,31 Dec 2019,v Warriors,Mirpur,1,1,54,-,34,5,2,158.82,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,4 Jan 2020,v Khulna,Sylhet,2,1,36,-,28,3,2,128.57,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,7 Jan 2020,v Royals,Mirpur,2,1,51,-,43,2,4,118.6,run out,1,DNB,-,-,-,-
+53116,Lendl Simmons,15 Jan 2020,v Ireland,St George's,2,1,22,-,14,3,1,157.14,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,18 Jan 2020,v Ireland,Basseterre,2,1,10,-,5,1,1,200,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,19 Jan 2020,v Ireland,Basseterre,2,1,91*,-,40,5,10,227.5,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,4 Mar 2020,v Sri Lanka,Pallekele,1,1,67*,-,51,7,2,131.37,not out,2,DNB,-,-,-,-
+53116,Lendl Simmons,6 Mar 2020,v Sri Lanka,Pallekele,2,1,9,-,8,0,0,112.5,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,18 Aug 2020,v Amazon,Tarouba,2,1,17,-,21,2,0,80.95,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,20 Aug 2020,v Tallawahs,Tarouba,2,1,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 Aug 2020,v Tridents,Tarouba,1,1,21,-,21,2,1,100,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,26 Aug 2020,v Zouks,Port of Spain,2,1,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,27 Aug 2020,v Amazon,Port of Spain,2,1,19,-,19,1,1,100,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,29 Aug 2020,v Tridents,Port of Spain,2,1,32,-,29,0,3,110.34,stumped,1,DNB,-,-,-,-
+53116,Lendl Simmons,1 Sep 2020,v Tallawahs,Tarouba,1,1,25,-,28,0,2,89.28,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,2 Sep 2020,v Patriots,Tarouba,1,1,96,-,63,7,6,152.38,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Sep 2020,v Zouks,Tarouba,1,1,8,-,12,0,1,66.66,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,8 Sep 2020,v Tallawahs,Tarouba,2,1,54*,-,44,6,2,122.72,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,10 Sep 2020,v Zouks,Tarouba,2,1,84*,-,49,8,4,171.42,not out,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Mar 2021,v Sri Lanka,Coolidge,2,1,26,30,15,3,2,173.33,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,5 Mar 2021,v Sri Lanka,Coolidge,2,1,21,34,19,2,1,110.52,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,7 Mar 2021,v Sri Lanka,Coolidge,2,1,26,34,18,3,1,144.44,stumped,1,DNB,-,-,-,-
+53116,Lendl Simmons,29 Jun 2021,v South Africa,St George's,2,2,22,35,22,1,1,100,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,1 Jul 2021,v South Africa,St George's,1,1,47,47,34,4,4,138.23,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,3 Jul 2021,v South Africa,St George's,2,1,3,-,6,0,0,50,lbw,1,DNB,-,-,-,-
+53116,Lendl Simmons,9 Jul 2021,v Australia,Gros Islet,1,1,27,35,28,2,2,96.42,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,10 Jul 2021,v Australia,Gros Islet,1,1,30,28,21,1,3,142.85,caught,2,0.1,0,1,0,6
+53116,Lendl Simmons,12 Jul 2021,v Australia,Gros Islet,2,2,15,26,13,3,0,115.38,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,14 Jul 2021,v Australia,Gros Islet,2,1,72,77,48,10,2,150,caught,1,1.0,0,16,0,16
+53116,Lendl Simmons,16 Jul 2021,v Australia,Gros Islet,1,4,21,40,25,1,1,84,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,28 Jul 2021,v Pakistan,Bridgetown,1,1,9*,10,7,2,0,128.57,retired notout,-,TDNB,-,-,-,-
+53116,Lendl Simmons,26 Aug 2021,v Amazon,Basseterre,2,1,5,-,6,1,0,83.33,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,27 Aug 2021,v Royals,Basseterre,2,1,5,13,9,0,0,55.55,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,29 Aug 2021,v Kings,Basseterre,2,1,25,60,30,1,2,83.33,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,31 Aug 2021,v Kings,Basseterre,1,1,11,15,13,2,0,84.61,lbw,2,DNB,-,-,-,-
+53116,Lendl Simmons,1 Sep 2021,v Amazon,Basseterre,1,2,0,3,1,0,0,0,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,5 Sep 2021,v Tallawahs,Basseterre,2,2,70,75,45,5,5,155.55,bowled,1,DNB,-,-,-,-
+53116,Lendl Simmons,7 Sep 2021,v Tallawahs,Basseterre,1,1,42,64,39,3,1,107.69,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,9 Sep 2021,v Royals,Basseterre,2,1,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,11 Sep 2021,v Patriots,Basseterre,1,1,11,11,6,2,0,183.33,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 Sep 2021,v Patriots,Basseterre,2,1,20,25,17,4,0,117.64,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,14 Sep 2021,v Kings,Basseterre,2,1,4,6,6,1,0,66.66,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,23 Oct 2021,v England,Dubai (DICS),1,1,3,13,7,0,0,42.85,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,26 Oct 2021,v South Africa,Dubai (DICS),1,1,16,61,35,0,0,45.71,bowled,2,DNB,-,-,-,-
+53116,Lendl Simmons,25 Jan 2022,v Dhaka,Mirpur,2,1,16,15,21,2,0,76.19,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,28 Jan 2022,v Dhaka,Chattogram,1,1,116,90,65,14,5,178.46,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,29 Jan 2022,v Chattogram,Chattogram,2,1,9,6,7,2,0,128.57,stumped,1,DNB,-,-,-,-
+53116,Lendl Simmons,3 Feb 2022,v Khulna,Mirpur,1,1,6,29,19,0,0,31.57,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,7 Feb 2022,v Khulna,Sylhet,2,1,10,28,17,1,0,58.82,caught,1,DNB,-,-,-,-
+53116,Lendl Simmons,9 Feb 2022,v Victorians,Sylhet,1,3,16,16,13,1,1,123.07,caught,2,DNB,-,-,-,-
+53116,Lendl Simmons,12 Feb 2022,v Chattogram,Mirpur,1,4,42,27,27,5,2,155.55,caught,2,4.0,0,33,1,8.25

@@ -1,0 +1,173 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+537119,Mohit Sharma,13 Apr 2013,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+537119,Mohit Sharma,18 Apr 2013,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,3,3.33
+537119,Mohit Sharma,20 Apr 2013,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,0,4.33
+537119,Mohit Sharma,22 Apr 2013,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+537119,Mohit Sharma,25 Apr 2013,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+537119,Mohit Sharma,28 Apr 2013,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+537119,Mohit Sharma,30 Apr 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+537119,Mohit Sharma,2 May 2013,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+537119,Mohit Sharma,5 May 2013,v MI,Wankhede,2,10,0,1,3,0,0,0,caught,1,4.0,0,20,0,5
+537119,Mohit Sharma,8 May 2013,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+537119,Mohit Sharma,12 May 2013,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+537119,Mohit Sharma,14 May 2013,v Daredevils,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,2,5.5
+537119,Mohit Sharma,18 May 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,1,14
+537119,Mohit Sharma,21 May 2013,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.4,0,32,2,8.72
+537119,Mohit Sharma,26 May 2013,v MI,Eden Gardens,2,11,0*,13,2,0,0,0,not out,1,4.0,0,26,1,6.5
+537119,Mohit Sharma,22 Sep 2013,v Titans,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+537119,Mohit Sharma,26 Sep 2013,v SRH,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+537119,Mohit Sharma,28 Sep 2013,v Heat,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,2,11.66
+537119,Mohit Sharma,2 Oct 2013,v Trinidad & T,Delhi,1,11,0*,1,1,0,0,0,not out,2,DNB,-,-,-,-
+537119,Mohit Sharma,4 Oct 2013,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+537119,Mohit Sharma,30 Mar 2014,v Australia,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,1,5.5
+537119,Mohit Sharma,4 Apr 2014,v South Africa,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+537119,Mohit Sharma,6 Apr 2014,v Sri Lanka,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,1,9
+537119,Mohit Sharma,18 Apr 2014,v Kings XI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.5,0,35,0,12.35
+537119,Mohit Sharma,21 Apr 2014,v Daredevils,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+537119,Mohit Sharma,23 Apr 2014,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+537119,Mohit Sharma,25 Apr 2014,v MI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,4,3.5
+537119,Mohit Sharma,27 Apr 2014,v SRH,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+537119,Mohit Sharma,2 May 2014,v KKR,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,3,7.33
+537119,Mohit Sharma,5 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+537119,Mohit Sharma,7 May 2014,v Kings XI,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+537119,Mohit Sharma,10 May 2014,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+537119,Mohit Sharma,13 May 2014,v RR,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+537119,Mohit Sharma,18 May 2014,v RCB,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+537119,Mohit Sharma,20 May 2014,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+537119,Mohit Sharma,22 May 2014,v SRH,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+537119,Mohit Sharma,24 May 2014,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+537119,Mohit Sharma,28 May 2014,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,3,10.5
+537119,Mohit Sharma,30 May 2014,v Kings XI,Wankhede,2,9,1*,-,3,0,0,33.33,not out,1,4.0,0,46,1,11.5
+537119,Mohit Sharma,7 Sep 2014,v England,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+537119,Mohit Sharma,17 Sep 2014,v KKR,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+537119,Mohit Sharma,22 Sep 2014,v Dolphins,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,4,10.25
+537119,Mohit Sharma,27 Sep 2014,v Scorchers,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+537119,Mohit Sharma,2 Oct 2014,v Kings XI,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,2,4.66
+537119,Mohit Sharma,4 Oct 2014,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+537119,Mohit Sharma,9 Apr 2015,v Daredevils,Chennai,1,9,2*,1,1,0,0,200,not out,2,4.0,0,33,1,8.25
+537119,Mohit Sharma,11 Apr 2015,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+537119,Mohit Sharma,17 Apr 2015,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+537119,Mohit Sharma,19 Apr 2015,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+537119,Mohit Sharma,22 Apr 2015,v RCB,Bengaluru,1,9,2,5,6,0,0,33.33,bowled,2,4.0,0,39,0,9.75
+537119,Mohit Sharma,25 Apr 2015,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,1,3.33
+537119,Mohit Sharma,28 Apr 2015,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+537119,Mohit Sharma,30 Apr 2015,v KKR,Eden Gardens,1,9,0,-,1,0,0,0,caught,2,4.0,0,22,1,5.5
+537119,Mohit Sharma,2 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,58,0,14.5
+537119,Mohit Sharma,4 May 2015,v RCB,Chennai,1,9,0,3,0,0,0,-,run out,2,4.0,0,29,1,7.25
+537119,Mohit Sharma,8 May 2015,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+537119,Mohit Sharma,10 May 2015,v RR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+537119,Mohit Sharma,12 May 2015,v Daredevils,Raipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+537119,Mohit Sharma,19 May 2015,v MI,Wankhede,2,10,3*,10,3,0,0,100,not out,1,3.0,0,33,1,11
+537119,Mohit Sharma,22 May 2015,v RCB,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+537119,Mohit Sharma,24 May 2015,v MI,Eden Gardens,2,10,21*,7,7,1,2,300,not out,1,4.0,0,38,1,9.5
+537119,Mohit Sharma,17 Jul 2015,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,8,1,2.66
+537119,Mohit Sharma,19 Jul 2015,v Zimbabwe,Harare,2,10,3*,-,3,0,0,100,not out,1,4.0,0,28,2,7
+537119,Mohit Sharma,2 Oct 2015,v South Africa,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+537119,Mohit Sharma,5 Oct 2015,v South Africa,Cuttack,1,11,0*,9,4,0,0,0,not out,2,1.0,0,7,0,7
+537119,Mohit Sharma,11 Apr 2016,v Guj Lions,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.4,0,24,0,9
+537119,Mohit Sharma,15 Apr 2016,v Daredevils,Delhi,1,9,15,10,8,1,1,187.5,caught,2,2.0,0,10,0,5
+537119,Mohit Sharma,17 Apr 2016,v Supergiants,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+537119,Mohit Sharma,19 Apr 2016,v KKR,Mohali,1,8,1,4,3,0,0,33.33,caught,2,3.1,0,29,0,9.15
+537119,Mohit Sharma,23 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+537119,Mohit Sharma,25 Apr 2016,v MI,Mohali,2,9,0*,4,0,0,0,-,not out,1,4.0,0,38,3,9.5
+537119,Mohit Sharma,1 May 2016,v Guj Lions,Rajkot,1,9,1,5,2,0,0,50,bowled,2,4.0,0,32,3,8
+537119,Mohit Sharma,4 May 2016,v KKR,Eden Gardens,2,10,1*,3,1,0,0,100,not out,1,4.0,0,39,0,9.75
+537119,Mohit Sharma,7 May 2016,v Daredevils,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+537119,Mohit Sharma,9 May 2016,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+537119,Mohit Sharma,13 May 2016,v MI,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+537119,Mohit Sharma,15 May 2016,v SRH,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.4,0,40,0,10.9
+537119,Mohit Sharma,18 May 2016,v RCB,Bengaluru,2,9,14,-,12,2,0,116.66,run out,1,3.0,0,33,0,11
+537119,Mohit Sharma,21 May 2016,v Supergiants,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+537119,Mohit Sharma,29 Jan 2017,v Punjab,Nadaun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+537119,Mohit Sharma,30 Jan 2017,v Himachal,Dharamsala,1,11,6,1,2,0,1,300,caught,2,4.0,0,18,0,4.5
+537119,Mohit Sharma,31 Jan 2017,v Services,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+537119,Mohit Sharma,12 Feb 2017,v South Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+537119,Mohit Sharma,13 Feb 2017,v West Zone,Wankhede,1,10,1*,1,1,0,0,100,not out,2,2.0,0,24,1,12
+537119,Mohit Sharma,15 Feb 2017,v Central Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+537119,Mohit Sharma,16 Feb 2017,v East Zone,Wankhede,1,10,3*,5,3,0,0,100,not out,2,3.0,0,25,0,8.33
+537119,Mohit Sharma,8 Apr 2017,v Supergiant,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+537119,Mohit Sharma,10 Apr 2017,v RCB,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+537119,Mohit Sharma,13 Apr 2017,v KKR,Eden Gardens,1,8,10,9,8,1,0,125,caught,2,3.0,0,30,0,10
+537119,Mohit Sharma,15 Apr 2017,v Daredevils,Delhi,2,8,13,24,14,1,0,92.85,bowled,1,4.0,0,37,1,9.25
+537119,Mohit Sharma,17 Apr 2017,v SRH,Hyderabad,2,8,10,12,5,0,1,200,caught,1,4.0,0,25,2,6.25
+537119,Mohit Sharma,20 Apr 2017,v MI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.3,0,29,1,11.6
+537119,Mohit Sharma,23 Apr 2017,v Guj Lions,Rajkot,1,8,4*,5,3,0,0,133.33,not out,2,4.0,0,25,1,6.25
+537119,Mohit Sharma,28 Apr 2017,v SRH,Mohali,2,9,2,7,4,0,0,50,caught,1,3.0,0,34,1,11.33
+537119,Mohit Sharma,30 Apr 2017,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.1,0,3,1,2.57
+537119,Mohit Sharma,5 May 2017,v RCB,Bengaluru,1,8,6,4,4,1,0,150,caught,2,4.0,0,24,2,6
+537119,Mohit Sharma,7 May 2017,v Guj Lions,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+537119,Mohit Sharma,9 May 2017,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+537119,Mohit Sharma,11 May 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,57,2,14.25
+537119,Mohit Sharma,14 May 2017,v Supergiant,Pune,1,9,6,22,12,0,0,50,caught,2,1.0,0,6,0,6
+537119,Mohit Sharma,13 Jan 2018,v J & K,Delhi,1,10,7,11,6,1,0,116.66,caught,2,2.0,0,14,0,7
+537119,Mohit Sharma,8 Apr 2018,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+537119,Mohit Sharma,13 Apr 2018,v RCB,Bengaluru,1,10,1*,-,2,0,0,50,not out,2,3.3,0,45,0,12.85
+537119,Mohit Sharma,15 Apr 2018,v CSK,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+537119,Mohit Sharma,19 Apr 2018,v SRH,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,2,12.75
+537119,Mohit Sharma,8 May 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+537119,Mohit Sharma,12 May 2018,v KKR,Indore,2,10,4*,-,3,1,0,133.33,not out,1,4.0,0,40,1,10
+537119,Mohit Sharma,14 May 2018,v RCB,Indore,1,10,3,-,5,0,0,60,run out,2,1.0,0,15,0,15
+537119,Mohit Sharma,16 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+537119,Mohit Sharma,20 May 2018,v CSK,Pune,1,10,2*,-,3,0,0,66.66,not out,2,3.1,0,28,1,8.84
+537119,Mohit Sharma,3 Apr 2019,v MI,Wankhede,2,10,0*,3,2,0,0,0,not out,1,3.0,0,27,1,9
+537119,Mohit Sharma,20 Sep 2020,v Kings XI,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+537119,Mohit Sharma,11 Jan 2021,v Andhra,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+537119,Mohit Sharma,13 Jan 2021,v Puducherry,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+537119,Mohit Sharma,15 Jan 2021,v Mumbai,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+537119,Mohit Sharma,17 Jan 2021,v Delhi,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,1,7
+537119,Mohit Sharma,19 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+537119,Mohit Sharma,27 Jan 2021,v Baroda,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+537119,Mohit Sharma,4 Nov 2021,v Himachal,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+537119,Mohit Sharma,5 Nov 2021,v Andhra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+537119,Mohit Sharma,6 Nov 2021,v J & K,Vadodara,1,9,4,13,8,0,0,50,caught,2,1.0,0,9,0,9
+537119,Mohit Sharma,8 Nov 2021,v Jharkhand,Vadodara,2,10,18,9,9,1,2,200,caught,1,3.0,0,36,0,12
+537119,Mohit Sharma,9 Nov 2021,v Rajasthan,Vadodara,2,9,0,2,1,0,0,0,caught,1,4.0,0,14,1,3.5
+537119,Mohit Sharma,11 Oct 2022,v Services,New Chandigarh,1,11,1*,-,1,0,0,100,not out,2,4.0,0,24,1,6
+537119,Mohit Sharma,12 Oct 2022,v Meghalaya,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,5,1,2.5
+537119,Mohit Sharma,14 Oct 2022,v Kerala,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,10.66
+537119,Mohit Sharma,16 Oct 2022,v Arunachal,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+537119,Mohit Sharma,18 Oct 2022,v J & K,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+537119,Mohit Sharma,20 Oct 2022,v Maharashtra,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+537119,Mohit Sharma,22 Oct 2022,v Karnataka,Mohali,1,11,1*,-,1,0,0,100,not out,2,3.0,0,22,2,7.33
+537119,Mohit Sharma,30 Oct 2022,v Punjab,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+537119,Mohit Sharma,13 Apr 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+537119,Mohit Sharma,16 Apr 2023,v RR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,0,3.5
+537119,Mohit Sharma,22 Apr 2023,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+537119,Mohit Sharma,25 Apr 2023,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+537119,Mohit Sharma,29 Apr 2023,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,1.0,0,12,0,12
+537119,Mohit Sharma,2 May 2023,v DC,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+537119,Mohit Sharma,5 May 2023,v RR,Jaipur,2,-,sub,-,-,-,-,-,-,1,0.5,0,5,0,6
+537119,Mohit Sharma,7 May 2023,v LSG,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,4,7.25
+537119,Mohit Sharma,12 May 2023,v MI,Wankhede,2,-,sub,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+537119,Mohit Sharma,15 May 2023,v SRH,Ahmedabad,1,11,0*,1,1,0,0,0,not out,2,4.0,0,28,4,7
+537119,Mohit Sharma,21 May 2023,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,0,13.5
+537119,Mohit Sharma,23 May 2023,v CSK,Chennai,2,-,sub,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+537119,Mohit Sharma,26 May 2023,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.2,0,10,5,4.28
+537119,Mohit Sharma,28 May 2023,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,3,12
+537119,Mohit Sharma,16 Oct 2023,v Mumbai,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+537119,Mohit Sharma,17 Oct 2023,v Chhattisgarh,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,1,24,0,8
+537119,Mohit Sharma,19 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+537119,Mohit Sharma,24 Mar 2024,v MI,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,4.0,0,32,2,8
+537119,Mohit Sharma,26 Mar 2024,v CSK,Chennai,2,-,sub,-,-,-,-,-,-,1,4.0,0,36,1,9
+537119,Mohit Sharma,31 Mar 2024,v SRH,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+537119,Mohit Sharma,4 Apr 2024,v Punjab Kings,Ahmedabad,1,-,sub,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+537119,Mohit Sharma,7 Apr 2024,v LSG,Lucknow,2,-,sub,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+537119,Mohit Sharma,10 Apr 2024,v RR,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+537119,Mohit Sharma,17 Apr 2024,v DC,Ahmedabad,1,9,2,13,14,0,0,14.28,caught,2,DNB,-,-,-,-
+537119,Mohit Sharma,21 Apr 2024,v Punjab Kings,New Chandigarh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+537119,Mohit Sharma,24 Apr 2024,v DC,Delhi,2,10,0*,8,0,0,0,-,not out,1,4.0,0,73,0,18.25
+537119,Mohit Sharma,28 Apr 2024,v RCB,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,41,0,20.5
+537119,Mohit Sharma,4 May 2024,v RCB,Bengaluru,1,10,0,1,1,0,0,0,run out,2,2.0,0,32,0,16
+537119,Mohit Sharma,10 May 2024,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+537119,Mohit Sharma,23 Nov 2024,v Manipur,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,9,0,3
+537119,Mohit Sharma,25 Nov 2024,v Arunachal,Mumbai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,2,7.66
+537119,Mohit Sharma,27 Nov 2024,v Delhi,Wankhede,1,10,0*,-,2,0,0,0,not out,2,2.0,0,14,0,7
+537119,Mohit Sharma,29 Nov 2024,v UP,Mumbai,1,10,0,-,1,0,0,0,caught,2,2.0,0,21,0,10.5
+537119,Mohit Sharma,24 Mar 2025,v LSG,Visakhapatnam,2,11,1*,8,2,0,0,50,not out,1,4.0,0,42,0,10.5
+537119,Mohit Sharma,30 Mar 2025,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+537119,Mohit Sharma,5 Apr 2025,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+537119,Mohit Sharma,10 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+537119,Mohit Sharma,13 Apr 2025,v MI,Delhi,2,11,0,1,1,0,0,0,run out,1,3.0,0,40,0,13.33
+537119,Mohit Sharma,16 Apr 2025,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+537119,Mohit Sharma,19 Apr 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,28,0,14
+537119,Mohit Sharma,24 May 2025,v Punjab Kings,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75

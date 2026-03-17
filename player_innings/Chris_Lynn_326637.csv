@@ -1,0 +1,307 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+326637,Chris Lynn,13 Jan 2010,v NSW,Sydney,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+326637,Chris Lynn,16 Jan 2010,v West Aust,Brisbane,1,7,5,5,6,1,0,83.33,run out,2,1.0,0,6,0,6
+326637,Chris Lynn,2 Jan 2011,v Victoria,Melbourne,2,5,31,29,23,2,1,134.78,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Jan 2011,v Tasmania,Brisbane,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Jan 2011,v NSW,Brisbane,2,5,4,-,5,1,0,80,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,16 Dec 2011,v Sixers,Sydney,1,4,2,1,3,0,0,66.66,caught,2,3.0,0,14,0,4.66
+326637,Chris Lynn,20 Dec 2011,v Stars,Brisbane,2,3,13,8,9,2,0,144.44,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Dec 2011,v Scorchers,W.A.C.A,2,1,4,-,7,1,0,57.14,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2012,v Strikers,Brisbane,2,5,19,-,18,1,1,105.55,caught,1,1.0,0,12,0,12
+326637,Chris Lynn,12 Jan 2012,v Renegades,Melbourne (Docklands),1,3,34,36,27,3,2,125.92,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Jan 2012,v Thunder,Brisbane,1,6,37*,18,17,0,4,217.64,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,18 May 2012,v RR,Hyderabad,2,5,6,12,9,1,0,66.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Aug 2012,v Wayamba U,Colombo (RPS),1,5,80,-,51,3,5,156.86,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,13 Dec 2012,v Strikers,Adelaide,2,6,19,-,18,1,1,105.55,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,18 Dec 2012,v Scorchers,Brisbane,1,5,51,-,29,5,3,175.86,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2012,v Renegades,Melbourne (Docklands),1,6,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Dec 2012,v Thunder,Sydney,2,5,51*,-,37,2,4,137.83,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2013,v Stars,Brisbane,1,6,26*,-,17,2,1,152.94,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,7 Jan 2013,v Sixers,Brisbane,1,5,3,-,5,0,0,60,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,12 Jan 2013,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5
+326637,Chris Lynn,15 Jan 2013,v Renegades,Melbourne (Docklands),1,5,20*,14,9,2,1,222.22,not out,2,2.0,0,15,2,7.5
+326637,Chris Lynn,19 Jan 2013,v Scorchers,W.A.C.A,1,5,5,4,5,0,0,100,caught,2,3.0,0,23,1,7.66
+326637,Chris Lynn,22 Sep 2013,v Trinidad & T,Ranchi,2,5,4,3,4,0,0,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Sep 2013,v Titans,Mohali,2,6,14,20,17,1,0,82.35,caught,1,1.0,0,12,0,12
+326637,Chris Lynn,28 Sep 2013,v CSK,Ranchi,1,3,29,35,25,4,1,116,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2013,v Scorchers,Brisbane,2,5,81,-,53,4,6,152.83,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,28 Dec 2013,v Hurricanes,Brisbane,1,5,11*,-,7,1,0,157.14,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,30 Dec 2013,v Renegades,Melbourne (Docklands),2,5,2,7,4,0,0,50,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Jan 2014,v Sixers,Brisbane,2,5,34,26,21,2,2,161.9,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Jan 2014,v Thunder,Sydney,1,5,56,40,35,1,6,160,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Jan 2014,v Stars,Brisbane,1,5,10,-,7,1,0,142.85,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,18 Jan 2014,v Strikers,Adelaide,1,4,3,-,6,0,0,50,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Jan 2014,v Hurricanes,Hobart,2,4,1,3,4,0,0,25,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Jan 2014,v England,Hobart,1,5,33*,21,19,1,3,173.68,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,31 Jan 2014,v England,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Apr 2014,v RCB,Sharjah,1,4,45,46,31,3,3,145.16,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,26 Apr 2014,v Kings XI,Abu Dhabi,2,4,13,32,18,2,0,72.22,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Dec 2014,v Thunder,Sydney,2,4,40,-,26,1,4,153.84,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,28 Dec 2014,v Stars,Brisbane,1,3,48,41,34,5,1,141.17,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,2 Jan 2015,v Hurricanes,Hobart,1,3,27,26,21,2,0,128.57,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,4 Jan 2015,v Strikers,Brisbane,1,3,28,21,16,2,2,175,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,8 Jan 2015,v Scorchers,W.A.C.A,1,3,14,-,19,1,0,73.68,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Jan 2015,v Sixers,Brisbane,1,3,5,7,4,1,0,125,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,13 Jan 2015,v Renegades,Melbourne (Docklands),1,6,0,7,9,0,0,0,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,15 Jan 2015,v Hurricanes,Brisbane,1,3,81,43,35,12,3,231.42,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Jun 2015,v Tridents,Bridgetown,2,3,37,39,23,2,2,160.86,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,28 Jun 2015,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,30 Jun 2015,v Patriots,Basseterre,2,3,52,-,33,3,4,157.57,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,4 Jul 2015,v Patriots,Basseterre,2,3,20,-,20,2,1,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Jul 2015,v Zouks,Kingston,2,3,8*,-,8,0,1,100,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Jul 2015,v Red Steel,Kingston,1,3,8,-,9,1,0,88.88,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Jul 2015,v Tridents,Kingston,2,3,13,-,7,1,1,185.71,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,12 Jul 2015,v Amazon,Kingston,2,3,16,-,14,2,1,114.28,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Jul 2015,v Red Steel,Port of Spain,2,6,10,-,12,0,0,83.33,stumped,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Jul 2015,v Red Steel,Port of Spain,2,6,3,-,6,0,0,50,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Dec 2015,v Renegades,Brisbane,1,4,35,-,20,2,2,175,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2015,v Hurricanes,Hobart,2,5,1,2,3,0,0,33.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,26 Dec 2015,v Scorchers,W.A.C.A,1,3,75*,-,58,3,4,129.31,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,29 Dec 2015,v Hurricanes,Brisbane,2,3,101,-,51,5,7,198.03,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2016,v Thunder,Brisbane,2,3,75,-,32,6,6,234.37,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Jan 2016,v Strikers,Brisbane,1,3,34,-,25,5,1,136,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,10 Jan 2016,v Sixers,Sydney,1,3,1,-,5,0,0,20,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Jan 2016,v Stars,Melbourne,1,3,56,26,24,2,7,233.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,26 Jan 2016,v India,Adelaide,2,5,17,20,16,0,1,106.25,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Jan 2016,v India,Melbourne,2,3,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,31 Jan 2016,v India,Sydney,1,6,13,12,9,2,0,144.44,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Apr 2016,v MI,Wankhede,1,6,10*,23,10,0,0,100,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,2 May 2016,v RCB,Bengaluru,2,3,15,18,12,0,1,125,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,30 Jun 2016,v Patriots,Basseterre,2,3,6,-,9,0,0,66.66,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Jul 2016,v Trinbago,Port of Spain,2,3,77,-,43,1,8,179.06,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Jul 2016,v Tallawahs,Providence,2,3,39*,-,35,1,3,111.42,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Jul 2016,v Patriots,Providence,2,3,32,-,37,2,1,86.48,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,10 Jul 2016,v Trinbago,Providence,2,3,21,-,18,4,0,116.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,12 Jul 2016,v Zouks,Providence,2,3,38*,-,29,1,2,131.03,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,15 Jul 2016,v Tallawahs,Kingston,1,3,33,-,18,5,1,183.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,24 Jul 2016,v Zouks,Gros Islet,1,3,86,-,45,6,6,191.11,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Jul 2016,v Tridents,Lauderhill,2,3,9,-,9,1,0,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,30 Jul 2016,v Tridents,Lauderhill,2,3,57,-,44,5,3,129.54,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Aug 2016,v Tallawahs,Basseterre,2,3,49,-,47,1,3,104.25,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Aug 2016,v Tallawahs,Basseterre,1,3,7,-,7,1,0,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,21 Dec 2016,v Strikers,Adelaide,1,3,29,25,20,0,3,145,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Dec 2016,v Thunder,Sydney,2,3,85*,-,48,10,3,177.08,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,30 Dec 2016,v Hurricanes,Brisbane,2,3,84*,-,50,4,7,168,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2017,v Sixers,Brisbane,1,3,13,-,7,0,2,185.71,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2017,v Scorchers,W.A.C.A,2,3,98*,-,49,3,11,200,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Apr 2017,v Guj Lions,Rajkot,2,2,93*,68,41,6,8,226.82,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Apr 2017,v MI,Wankhede,1,2,32,44,24,3,1,133.33,lbw,2,DNB,-,-,-,-
+326637,Chris Lynn,7 May 2017,v RCB,Bengaluru,2,1,50,32,22,5,4,227.27,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,9 May 2017,v Kings XI,Mohali,2,2,84,81,52,8,3,161.53,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,13 May 2017,v MI,Eden Gardens,2,2,26,33,14,3,2,185.71,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,17 May 2017,v SRH,Bengaluru,2,2,6,-,2,0,1,300,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,19 May 2017,v MI,Bengaluru,1,1,4,7,8,0,0,50,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Dec 2017,v Thunder,Brisbane,2,3,25,-,9,4,1,277.77,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,31 Dec 2017,v Strikers,Adelaide,2,3,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Jan 2018,v Stars,Melbourne,2,1,63*,-,46,7,3,136.95,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2018,v Scorchers,Brisbane,1,1,39,-,20,5,2,195,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Jan 2018,v Renegades,Brisbane,2,1,21,-,13,2,2,161.53,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Feb 2018,v New Zealand,Sydney,2,3,44,38,33,6,1,133.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Feb 2018,v England,Hobart,2,3,0,3,2,0,0,0,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,10 Feb 2018,v England,Melbourne,2,3,31,26,19,4,2,163.15,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,16 Feb 2018,v New Zealand,Auckland,2,3,18,10,13,1,1,138.46,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Feb 2018,v New Zealand,Auckland,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Apr 2018,v RCB,Eden Gardens,2,2,5,-,8,1,0,62.5,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,10 Apr 2018,v CSK,Chennai,1,1,22,-,16,4,0,137.5,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Apr 2018,v SRH,Eden Gardens,1,2,49,-,34,7,1,144.11,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,16 Apr 2018,v Daredevils,Eden Gardens,1,1,31,-,29,4,1,106.89,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,18 Apr 2018,v RR,Jaipur,2,2,0,-,2,0,0,0,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Apr 2018,v Kings XI,Eden Gardens,1,1,74,-,41,6,4,180.48,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Apr 2018,v Daredevils,Delhi,2,1,5,-,6,1,0,83.33,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Apr 2018,v RCB,Bengaluru,2,1,62*,-,52,7,1,119.23,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,3 May 2018,v CSK,Eden Gardens,2,1,12,-,6,0,2,200,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,6 May 2018,v MI,Wankhede,2,1,17,-,13,4,0,130.76,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,9 May 2018,v MI,Eden Gardens,2,2,21,-,15,3,1,140,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,12 May 2018,v Kings XI,Indore,1,1,27,-,17,2,2,158.82,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,15 May 2018,v RR,Eden Gardens,2,2,45,-,42,5,1,107.14,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,19 May 2018,v SRH,Hyderabad,2,1,55,-,43,4,3,127.9,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,23 May 2018,v RR,Eden Gardens,1,2,18,-,22,2,0,81.81,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,25 May 2018,v SRH,Eden Gardens,2,1,48,-,31,6,2,154.83,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Aug 2018,v Stars,Port of Spain,1,1,8,-,5,0,1,160,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,10 Aug 2018,v Tallawahs,Port of Spain,1,2,46,-,27,4,3,170.37,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Aug 2018,v Patriots,Port of Spain,2,1,6,-,10,1,0,60,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,16 Aug 2018,v Stars,Gros Islet,2,2,4,-,8,0,0,50,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Aug 2018,v Tallawahs,Lauderhill,2,2,2,-,4,0,0,50,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,26 Aug 2018,v Tridents,Bridgetown,2,1,8,-,10,1,0,80,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,1 Sep 2018,v Patriots,Basseterre,1,1,18,-,14,2,1,128.57,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Sep 2018,v Amazon,Port of Spain,1,2,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,7 Sep 2018,v Tridents,Port of Spain,1,2,29,-,10,4,2,290,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Oct 2018,v U.A.E.,Abu Dhabi,2,3,20,-,13,4,0,153.84,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Oct 2018,v Pakistan,Abu Dhabi,2,3,14,-,15,2,0,93.33,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,26 Oct 2018,v Pakistan,Dubai (DICS),2,3,7,-,12,0,1,58.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,28 Oct 2018,v Pakistan,Dubai (DICS),2,3,15,-,13,2,0,115.38,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,17 Nov 2018,v South Africa,Carrara,2,2,14,-,10,3,0,140,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Nov 2018,v India,Brisbane,1,3,37,-,20,1,4,185,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Nov 2018,v India,Melbourne,1,3,13,-,13,1,1,100,caught,-,TDNB,-,-,-,-
+326637,Chris Lynn,25 Nov 2018,v India,Sydney,1,6,13,-,10,1,0,130,run out,2,DNB,-,-,-,-
+326637,Chris Lynn,19 Dec 2018,v Strikers,Brisbane,1,3,33,-,20,4,2,165,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2018,v Hurricanes,Carrara,2,3,29,-,37,2,1,78.37,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,1 Jan 2019,v Sixers,Carrara,1,3,84,-,55,3,5,152.72,lbw,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2019,v Scorchers,Perth,2,3,33,-,34,6,0,97.05,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Jan 2019,v Thunder,Sydney,1,3,54,-,30,4,4,180,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,10 Jan 2019,v Renegades,Brisbane,1,3,14,-,15,0,1,93.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,13 Jan 2019,v Renegades,Geelong,1,3,66*,-,44,3,4,150,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Jan 2019,v Thunder,Brisbane,2,3,4,-,9,1,0,44.44,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,20 Jan 2019,v Sixers,Sydney,2,3,2,-,7,0,0,28.57,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,27 Jan 2019,v Stars,Melbourne,2,3,0,-,4,0,0,0,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Jan 2019,v Hurricanes,Hobart,1,3,10,-,9,2,0,111.11,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,1 Feb 2019,v Scorchers,Brisbane,2,3,56*,-,39,3,4,143.58,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Feb 2019,v Strikers,Adelaide,2,3,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,8 Feb 2019,v Stars,Brisbane,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Mar 2019,v SRH,Eden Gardens,2,1,7,-,11,0,1,63.63,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,27 Mar 2019,v Kings XI,Eden Gardens,1,1,10,-,10,2,0,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,30 Mar 2019,v DC,Delhi,1,2,20,32,18,3,0,111.11,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Apr 2019,v RCB,Bengaluru,2,1,43,62,31,4,2,138.7,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Apr 2019,v RR,Jaipur,2,1,50,49,32,6,3,156.25,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Apr 2019,v CSK,Chennai,1,1,0,6,5,0,0,0,lbw,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Apr 2019,v CSK,Eden Gardens,1,1,82,68,51,7,6,160.78,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,19 Apr 2019,v RCB,Eden Gardens,2,1,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Apr 2019,v SRH,Hyderabad,1,1,51,90,47,4,1,108.51,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,25 Apr 2019,v RR,Eden Gardens,1,1,0,4,3,0,0,0,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Apr 2019,v MI,Eden Gardens,1,2,54,44,29,8,2,186.2,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,3 May 2019,v Kings XI,Mohali,2,2,46,28,22,5,3,209.09,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,5 May 2019,v MI,Wankhede,1,2,41,41,29,2,4,141.37,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Dec 2019,v Thunder,Brisbane,2,3,9,-,9,0,1,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,20 Dec 2019,v Stars,Carrara,2,3,6,-,9,0,0,66.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2019,v Sixers,Sydney,1,3,94,-,35,4,11,268.57,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,1 Jan 2020,v Scorchers,Carrara,2,3,14,-,21,2,0,66.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2020,v Hurricanes,Hobart,1,3,88*,-,55,11,3,160,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,6 Jan 2020,v Thunder,Sydney,1,2,31,-,13,3,2,238.46,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,9 Jan 2020,v Hurricanes,Brisbane,2,3,9,-,13,1,0,69.23,run out,1,DNB,-,-,-,-
+326637,Chris Lynn,11 Jan 2020,v Scorchers,Perth,2,3,14,-,9,1,1,155.55,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,14 Jan 2020,v Strikers,Brisbane,2,2,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,17 Jan 2020,v Strikers,Adelaide,1,2,26,-,24,3,1,108.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,19 Jan 2020,v Renegades,Brisbane,2,2,41,-,15,5,3,273.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Jan 2020,v Sixers,Brisbane,1,2,7,-,8,1,0,87.5,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,25 Jan 2020,v Stars,Melbourne,1,3,34,-,31,3,1,109.67,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Jan 2020,v Renegades,Melbourne (Docklands),1,3,14,-,17,2,0,82.35,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,21 Feb 2020,v Sultans,Lahore,1,2,39,-,19,4,3,205.26,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Feb 2020,v United,Lahore,1,2,11,-,8,2,0,137.5,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,28 Feb 2020,v Zalmi,Rawalpindi,2,2,30,-,15,4,1,200,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Mar 2020,v Gladiators,Lahore,1,2,27,-,22,4,1,122.72,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,4 Mar 2020,v United,Lahore,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,10 Mar 2020,v Zalmi,Lahore,2,3,59,-,32,6,3,184.37,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,12 Mar 2020,v Kings,Karachi,1,3,5,-,5,0,0,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,15 Mar 2020,v Sultans,Lahore,2,2,113*,-,55,12,8,205.45,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,18 Aug 2020,v Tridents,Tarouba,2,2,19,-,17,3,0,111.76,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Aug 2020,v Amazon,Tarouba,1,1,16,-,14,1,1,114.28,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Aug 2020,v Zouks,Tarouba,2,1,14,-,11,2,0,127.27,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,25 Aug 2020,v Tridents,Port of Spain,2,1,16,-,11,2,1,145.45,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,27 Aug 2020,v Zouks,Port of Spain,1,1,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,29 Aug 2020,v Tallawahs,Port of Spain,2,1,8,-,4,0,1,200,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Sep 2020,v Trinbago,Tarouba,2,2,34,-,46,1,2,73.91,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Sep 2020,v Tallawahs,Tarouba,1,2,23*,-,15,1,2,153.33,not out,-,TDNB,-,-,-,-
+326637,Chris Lynn,6 Sep 2020,v Trinbago,Tarouba,1,2,8,-,7,0,1,114.28,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Dec 2020,v Stars,Canberra,1,3,20,-,20,1,1,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Dec 2020,v Thunder,Canberra,1,3,69,-,44,3,5,156.81,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,4 Jan 2021,v Thunder,Brisbane,2,2,30,-,16,3,2,187.5,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Jan 2021,v Stars,Carrara,1,2,48,-,23,3,4,208.69,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,10 Jan 2021,v Sixers,Carrara,1,2,56,-,44,7,1,127.27,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Jan 2021,v Renegades,Canberra,2,2,50,-,40,4,1,125,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Jan 2021,v Scorchers,Melbourne (Docklands),2,2,27,-,16,2,2,168.75,stumped,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Jan 2021,v Strikers,Adelaide,2,2,17,-,9,2,1,188.88,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Jan 2021,v Renegades,Melbourne (Docklands),1,1,52,-,30,5,3,173.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,26 Jan 2021,v Scorchers,Adelaide,1,1,51,-,25,4,4,204,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,29 Jan 2021,v Strikers,Brisbane,2,1,6,-,4,1,0,150,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,31 Jan 2021,v Thunder,Canberra,2,2,10,-,8,1,1,125,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,4 Feb 2021,v Scorchers,Canberra,2,1,22,-,17,3,1,129.41,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,21 Feb 2021,v United,Karachi,1,2,1,10,5,0,0,20,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Feb 2021,v Zalmi,Karachi,1,2,1,7,4,0,0,25,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,26 Feb 2021,v Qalandars,Karachi,2,2,0,3,2,0,0,0,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,27 Feb 2021,v Kings,Karachi,1,2,32,26,14,6,1,228.57,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,9 Apr 2021,v RCB,Chennai,1,2,49,62,35,4,3,140,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,24 Jul 2021,v Fire,Leeds,2,2,11,20,11,2,0,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,26 Jul 2021,v Rockets,Nottingham,1,2,2,7,4,0,0,50,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,31 Jul 2021,v Invincibles,Leeds,2,1,48,55,48,3,1,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,3 Aug 2021,v Spirit,Lord's,1,1,14,19,10,3,0,140,stumped,2,DNB,-,-,-,-
+326637,Chris Lynn,7 Aug 2021,v Brave,Southampton,1,2,26,26,22,4,0,118.18,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,12 Aug 2021,v Originals,Leeds,1,2,15,10,7,0,2,214.28,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Aug 2021,v Phoenix,Leeds,1,1,34,35,25,2,2,136,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,6 Dec 2021,v Thunder,Canberra,1,1,9,15,7,1,0,128.57,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,8 Dec 2021,v Scorchers,Perth,2,1,27,70,33,2,0,81.81,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,13 Dec 2021,v Renegades,Carrara,2,2,32,17,15,5,1,213.33,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Dec 2021,v Thunder,Brisbane,2,1,4,4,3,1,0,133.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Dec 2021,v Strikers,Adelaide,1,1,10,6,5,2,0,200,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Dec 2021,v Stars,Brisbane,2,2,57,59,34,3,5,167.64,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Dec 2021,v Sixers,Sydney,1,2,2,18,6,0,0,33.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,1 Jan 2022,v Hurricanes,Hobart,1,1,13,27,15,2,0,86.66,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,12 Jan 2022,v Strikers,Brisbane,2,2,7,-,7,0,1,100,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,16 Jan 2022,v Stars,Melbourne,1,2,28,35,22,2,1,127.27,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Jan 2022,v Scorchers,Melbourne (Docklands),1,2,7,23,11,0,0,63.63,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,19 Jan 2022,v Sixers,Brisbane,2,2,19,17,14,2,0,135.71,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,26 May 2022,v Bears,Birmingham,2,2,16,13,11,3,0,145.45,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,27 May 2022,v Durham,Northampton,1,1,83,69,46,4,8,180.43,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,30 May 2022,v Notts,Nottingham,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+326637,Chris Lynn,1 Jun 2022,v Leics,Northampton,1,2,106*,85,66,12,3,160.6,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Jun 2022,v Durham,Chester-le-Street,2,1,61,54,47,5,2,129.78,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,7 Jun 2022,v Derbyshire,Northampton,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Jun 2022,v Worcs,Northampton,1,2,113*,84,57,8,9,198.24,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,21 Jun 2022,v Derbyshire,Derby,1,2,5,7,5,1,0,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Jun 2022,v Bears,Northampton,1,2,59,51,43,5,3,137.2,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,24 Jun 2022,v Yorkshire,Northampton,2,2,5,19,11,0,0,45.45,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,1 Jul 2022,v Leics,Leicester,2,2,68,49,37,7,4,183.78,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,14 Dec 2022,v Sixers,Adelaide,1,3,41,45,34,3,2,120.58,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,16 Dec 2022,v Thunder,Sydney,1,3,36,49,27,4,1,133.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,20 Dec 2022,v Thunder,Adelaide,2,3,28,40,26,2,0,107.69,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Dec 2022,v Heat,Brisbane,2,3,12,18,10,2,0,120,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,26 Dec 2022,v Scorchers,Perth,1,3,35,48,34,4,0,102.94,run out,2,DNB,-,-,-,-
+326637,Chris Lynn,31 Dec 2022,v Stars,Adelaide,2,3,21,-,12,2,1,175,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Jan 2023,v Hurricanes,Hobart,1,3,87,78,58,9,3,150,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2023,v Hurricanes,Adelaide,2,3,64,-,29,6,4,220.68,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,10 Jan 2023,v Renegades,Adelaide,1,3,69*,-,37,5,3,186.48,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,12 Jan 2023,v Stars,Melbourne,1,3,1,6,4,0,0,25,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,14 Jan 2023,v Heat,Adelaide,2,3,22,26,24,3,0,91.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,24 May 2023,v Worcs,Northampton,2,2,28,17,14,6,0,200,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,26 May 2023,v Durham,Northampton,1,1,0,3,3,0,0,0,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,29 May 2023,v Derbyshire,Derby,2,2,31,41,29,5,0,106.89,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,31 May 2023,v Bears,Northampton,2,2,7,15,6,1,0,116.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,2 Jun 2023,v Leics,Northampton,2,2,110*,73,68,13,5,161.76,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,4 Jun 2023,v Worcs,Worcester,2,2,9,20,15,0,1,60,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,6 Jun 2023,v Durham,Chester-le-Street,1,2,24,25,24,2,1,100,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,9 Jun 2023,v Bears,Birmingham,2,2,1,7,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,16 Jun 2023,v Lancashire,Northampton,2,3,21,33,21,2,0,100,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,20 Jun 2023,v Yorkshire,Leeds,1,3,3,9,9,0,0,33.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,21 Jun 2023,v Derbyshire,Northampton,1,3,33,22,23,5,1,143.47,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,23 Jun 2023,v Leics,Leicester,1,3,62,46,35,6,2,177.14,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,2 Jul 2023,v Lancashire,Manchester,1,3,35,29,25,2,2,140,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,12 Aug 2023,v B-Love Kandy,Colombo (RPS),2,3,27,-,26,4,1,103.84,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,13 Aug 2023,v Galle Titans,Colombo (RPS),1,3,4,-,4,1,0,100,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Aug 2023,v B-Love Kandy,Colombo (RPS),2,1,19,-,19,3,0,100,lbw,1,DNB,-,-,-,-
+326637,Chris Lynn,19 Dec 2023,v Thunder,Adelaide,2,3,14,21,17,1,0,82.35,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2023,v Sixers,Sydney,2,3,37,21,17,4,2,217.64,bowled,1,DNB,-,-,-,-
+326637,Chris Lynn,29 Dec 2023,v Renegades,Melbourne (Docklands),1,3,56,42,34,4,4,164.7,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,31 Dec 2023,v Stars,Adelaide,1,3,83*,59,42,10,4,197.61,not out,2,DNB,-,-,-,-
+326637,Chris Lynn,3 Jan 2024,v Scorchers,Perth,2,3,27,18,16,4,1,168.75,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2024,v Scorchers,Adelaide,2,3,50*,44,33,4,2,151.51,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,9 Jan 2024,v Hurricanes,Adelaide,2,3,37,-,26,4,1,142.3,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,24 Jan 2024,v Vipers,Dubai (DICS),1,3,63,46,42,7,3,150,caught,2,sub,-,-,-,-
+326637,Chris Lynn,27 Jan 2024,v DC,Sharjah,2,3,37,-,22,3,3,168.18,bowled,1,sub,-,-,-,-
+326637,Chris Lynn,31 Jan 2024,v KnightRiders,Abu Dhabi,1,3,67,73,48,6,3,139.58,bowled,2,sub,-,-,-,-
+326637,Chris Lynn,3 Feb 2024,v Vipers,Dubai (DICS),1,3,31,-,27,5,0,114.81,caught,2,sub,-,-,-,-
+326637,Chris Lynn,4 Feb 2024,v Warriors,Dubai (DICS),1,3,45,31,32,6,1,140.62,caught,2,sub,-,-,-,-
+326637,Chris Lynn,6 Feb 2024,v DC,Dubai (DICS),1,3,1,4,6,0,0,16.66,caught,2,sub,-,-,-,-
+326637,Chris Lynn,8 Feb 2024,v MI Emirates,Dubai (DICS),1,3,16,14,17,2,0,94.11,bowled,2,sub,-,-,-,-
+326637,Chris Lynn,10 Feb 2024,v KnightRiders,Dubai (DICS),1,3,6,16,7,0,0,85.71,caught,2,sub,-,-,-,-
+326637,Chris Lynn,14 Feb 2024,v MI Emirates,Dubai (DICS),2,3,18,19,19,1,1,94.73,caught,1,sub,-,-,-,-
+326637,Chris Lynn,15 Feb 2024,v DC,Sharjah,1,3,0,7,3,0,0,0,bowled,2,sub,-,-,-,-
+326637,Chris Lynn,17 Dec 2024,v Thunder,Canberra,1,3,2,9,4,0,0,50,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,22 Dec 2024,v Heat,Brisbane,1,3,24,30,21,2,1,114.28,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Dec 2024,v Hurricanes,Adelaide,2,3,19,-,13,1,1,146.15,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,31 Dec 2024,v Scorchers,Adelaide,1,3,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,2 Jan 2025,v Renegades,Melbourne (Docklands),2,1,88,48,51,10,4,172.54,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,5 Jan 2025,v Hurricanes,Hobart,1,1,49,38,27,5,3,181.48,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,11 Jan 2025,v Heat,Adelaide,1,2,47,37,20,5,3,235,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Jul 2025,v Sussex,Hove,1,2,51,36,27,5,3,188.88,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,5 Sep 2025,v Durham,Chester-le-Street,1,2,51,39,27,6,3,188.88,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,13 Sep 2025,v Northants,Birmingham,2,2,108*,67,51,5,11,211.76,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,13 Sep 2025,v Somerset,Birmingham,1,2,12,8,7,1,1,171.42,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Dec 2025,v Sixers,Sydney,2,2,5,11,7,1,0,71.42,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,23 Dec 2025,v Stars,Adelaide,1,2,4,6,4,0,0,100,bowled,2,DNB,-,-,-,-
+326637,Chris Lynn,27 Dec 2025,v Heat,Brisbane,2,2,22,30,24,2,0,91.66,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,31 Dec 2025,v Heat,Adelaide,2,2,79*,71,41,6,6,192.68,not out,1,DNB,-,-,-,-
+326637,Chris Lynn,4 Jan 2026,v Scorchers,Perth,2,2,1,3,3,0,0,33.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,6 Jan 2026,v Thunder,Adelaide,1,1,15,9,6,2,1,250,caught,2,DNB,-,-,-,-
+326637,Chris Lynn,9 Jan 2026,v Hurricanes,Hobart,2,2,5,11,6,1,0,83.33,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,11 Jan 2026,v Scorchers,Adelaide,2,3,18,12,11,3,0,163.63,caught,1,DNB,-,-,-,-
+326637,Chris Lynn,13 Jan 2026,v Stars,Melbourne,1,3,2,5,5,0,0,40,lbw,2,DNB,-,-,-,-
+326637,Chris Lynn,17 Jan 2026,v Renegades,Adelaide,2,3,27*,39,25,3,0,108,not out,1,DNB,-,-,-,-

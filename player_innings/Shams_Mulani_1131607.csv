@@ -1,0 +1,60 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1131607,Shams Mulani,11 Jan 2018,v Maharashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+1131607,Shams Mulani,21 Feb 2019,v Sikkim,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,1,2,2,0.66
+1131607,Shams Mulani,22 Feb 2019,v Punjab,Indore,1,9,0,1,2,0,0,0,caught,2,4.0,0,26,1,6.5
+1131607,Shams Mulani,24 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+1131607,Shams Mulani,25 Feb 2019,v Goa,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+1131607,Shams Mulani,27 Feb 2019,v Railways,Indore,2,8,1,2,2,0,0,50,caught,1,3.0,0,12,0,4
+1131607,Shams Mulani,28 Feb 2019,v Saurashtra,Indore,1,10,0*,-,0,0,0,-,not out,2,4.0,0,28,1,7
+1131607,Shams Mulani,8 Mar 2019,v Karnataka,Indore,1,8,5,-,7,0,0,71.42,run out,2,3.0,0,27,0,9
+1131607,Shams Mulani,9 Mar 2019,v Delhi,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,1,4.5
+1131607,Shams Mulani,11 Mar 2019,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+1131607,Shams Mulani,12 Mar 2019,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+1131607,Shams Mulani,8 Nov 2019,v Mizoram,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,1,14,1,3.5
+1131607,Shams Mulani,9 Nov 2019,v Haryana,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1131607,Shams Mulani,11 Nov 2019,v M. Pradesh,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+1131607,Shams Mulani,12 Nov 2019,v Puducherry,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+1131607,Shams Mulani,14 Nov 2019,v Bengal,Wankhede,2,9,0*,-,0,0,0,-,not out,1,DNB,-,-,-,-
+1131607,Shams Mulani,15 Nov 2019,v Meghalaya,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1131607,Shams Mulani,17 Nov 2019,v Assam,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,3.75
+1131607,Shams Mulani,22 Nov 2019,v Tamil Nadu,Surat,1,4,73,-,52,10,1,140.38,caught,2,4.0,0,26,3,6.5
+1131607,Shams Mulani,24 Nov 2019,v Jharkhand,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+1131607,Shams Mulani,25 Nov 2019,v Karnataka,Surat,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,1,4
+1131607,Shams Mulani,27 Nov 2019,v Punjab,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,0,13
+1131607,Shams Mulani,11 Jan 2021,v Delhi,Wankhede,2,8,11,-,8,0,1,137.5,caught,1,4.0,0,43,2,10.75
+1131607,Shams Mulani,13 Jan 2021,v Kerala,Wankhede,1,7,1*,-,2,0,0,50,not out,2,3.0,0,41,1,13.66
+1131607,Shams Mulani,15 Jan 2021,v Haryana,Mumbai,1,7,0,-,2,0,0,0,caught,2,4.0,0,40,1,10
+1131607,Shams Mulani,11 Oct 2022,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+1131607,Shams Mulani,12 Oct 2022,v M. Pradesh,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+1131607,Shams Mulani,14 Oct 2022,v Assam,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+1131607,Shams Mulani,16 Oct 2022,v Vidarbha,Saurashtra,1,7,13,-,11,1,0,118.18,caught,2,4.0,0,21,3,5.25
+1131607,Shams Mulani,18 Oct 2022,v Rajasthan,Saurashtra,1,7,2*,-,4,0,0,50,not out,2,4.0,0,27,1,6.75
+1131607,Shams Mulani,20 Oct 2022,v Railways,Rajkot,1,5,0,-,3,0,0,0,caught,2,4.0,0,24,2,6
+1131607,Shams Mulani,22 Oct 2022,v Uttarakhand,Saurashtra,1,7,17*,-,11,3,0,154.54,not out,2,4.0,0,26,2,6.5
+1131607,Shams Mulani,1 Nov 2022,v Saurashtra,Eden Gardens,2,10,1*,1,1,0,0,100,not out,1,4.0,0,23,1,5.75
+1131607,Shams Mulani,3 Nov 2022,v Vidarbha,Eden Gardens,2,7,1*,-,1,0,0,100,not out,1,4.0,0,20,3,5
+1131607,Shams Mulani,5 Nov 2022,v Himachal,Eden Gardens,2,8,2,5,3,0,0,66.66,caught,1,4.0,0,31,0,7.75
+1131607,Shams Mulani,16 Oct 2023,v Haryana,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+1131607,Shams Mulani,17 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,6,2,1.5
+1131607,Shams Mulani,19 Oct 2023,v Baroda,Jaipur,1,6,17,-,12,2,0,141.66,lbw,2,4.0,0,27,2,6.75
+1131607,Shams Mulani,21 Oct 2023,v J & K,Jaipur,1,6,17,-,8,2,1,212.5,caught,2,4.0,0,18,3,4.5
+1131607,Shams Mulani,23 Oct 2023,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+1131607,Shams Mulani,25 Oct 2023,v Hyderabad,Jaipur,2,6,17,-,23,1,0,73.91,caught,1,4.0,0,29,2,7.25
+1131607,Shams Mulani,27 Oct 2023,v Mizoram,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+1131607,Shams Mulani,2 Nov 2023,v Baroda,New Chandigarh,1,7,8,-,11,0,0,72.72,bowled,2,4.0,0,30,1,7.5
+1131607,Shams Mulani,24 Mar 2024,v GT,Ahmedabad,2,9,1*,6,1,0,0,100,not out,1,3.0,0,24,0,8
+1131607,Shams Mulani,27 Mar 2024,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,33,0,16.5
+1131607,Shams Mulani,23 Nov 2024,v Goa,Hyderabad,1,5,41,-,24,4,2,170.83,bowled,2,3.0,0,25,1,8.33
+1131607,Shams Mulani,27 Nov 2024,v Maharashtra,Hyderabad,2,6,14*,-,6,1,1,233.33,not out,1,3.0,0,26,0,8.66
+1131607,Shams Mulani,29 Nov 2024,v Kerala,Hyderabad,2,5,5,-,4,1,0,125,caught,1,3.0,0,34,0,11.33
+1131607,Shams Mulani,1 Dec 2024,v Nagaland,Hyderabad,2,3,6,-,4,1,0,150,caught,1,4.0,0,26,0,6.5
+1131607,Shams Mulani,3 Dec 2024,v Services,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,3,10
+1131607,Shams Mulani,5 Dec 2024,v Andhra,Hyderabad,2,7,2,-,4,0,0,50,caught,1,4.0,0,36,1,9
+1131607,Shams Mulani,26 Nov 2025,v Railways,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+1131607,Shams Mulani,30 Nov 2025,v Andhra,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+1131607,Shams Mulani,2 Dec 2025,v Assam,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+1131607,Shams Mulani,4 Dec 2025,v Kerala,Lucknow,2,10,1,-,3,0,0,33.33,caught,1,4.0,0,35,1,8.75
+1131607,Shams Mulani,6 Dec 2025,v Chhattisgarh,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+1131607,Shams Mulani,8 Dec 2025,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1131607,Shams Mulani,14 Dec 2025,v Haryana,Ambi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+1131607,Shams Mulani,16 Dec 2025,v Rajasthan,Pune,2,9,4*,-,3,1,0,133.33,not out,1,4.0,0,33,1,8.25

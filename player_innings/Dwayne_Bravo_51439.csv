@@ -1,0 +1,583 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+51439,Dwayne Bravo,16 Feb 2006,v New Zealand,Auckland,1,7,19*,25,16,2,0,118.75,not out,2,2.4,0,16,2,6
+51439,Dwayne Bravo,24 Jul 2006,v Leics,Leicester,1,7,0*,2,0,0,0,-,not out,2,3.0,0,17,0,5.66
+51439,Dwayne Bravo,24 Jun 2007,v Derbyshire,Derby,2,5,12,13,12,2,0,100,stumped,1,DNB,-,-,-,-
+51439,Dwayne Bravo,28 Jun 2007,v England,The Oval,1,5,1,4,2,0,0,50,stumped,2,1.0,0,6,0,6
+51439,Dwayne Bravo,29 Jun 2007,v England,The Oval,1,8,0*,6,1,0,0,0,not out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,11 Sep 2007,v South Africa,Johannesburg,1,8,0*,1,0,0,0,-,not out,2,2.4,0,39,0,14.62
+51439,Dwayne Bravo,13 Sep 2007,v Bangladesh,Johannesburg,1,8,2,1,2,0,0,100,stumped,2,2.0,0,34,0,17
+51439,Dwayne Bravo,16 Dec 2007,v South Africa,Gqeberha,2,6,0,1,1,0,0,0,bowled,1,2.0,0,16,0,8
+51439,Dwayne Bravo,18 Jan 2008,v South Africa,Johannesburg,1,6,24,23,17,0,2,141.17,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,13 Feb 2008,v St Vi & Gren,Coolidge,1,5,62,-,34,6,2,182.35,bowled,2,4.0,0,34,0,8.5
+51439,Dwayne Bravo,22 Feb 2008,v Barbados,Coolidge,1,4,39,-,29,2,2,134.48,caught,2,4.0,0,22,1,5.5
+51439,Dwayne Bravo,24 Feb 2008,v Jamaica,Coolidge,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,1,5
+51439,Dwayne Bravo,23 Apr 2008,v CSK,Chennai,2,5,24,26,16,2,1,150,caught,1,3.0,0,36,0,12
+51439,Dwayne Bravo,25 Apr 2008,v Kings XI,Mohali,2,4,23,-,21,4,0,109.52,bowled,1,3.0,0,27,0,9
+51439,Dwayne Bravo,27 Apr 2008,v Chargers,DY Patil,1,7,34,-,18,3,1,188.88,caught,2,2.0,0,31,0,15.5
+51439,Dwayne Bravo,29 Apr 2008,v KKR,Eden Gardens,2,5,64*,-,53,8,1,120.75,not out,1,4.0,0,25,1,6.25
+51439,Dwayne Bravo,4 May 2008,v Daredevils,DY Patil,1,5,2,-,4,0,0,50,caught,2,3.0,0,27,1,9
+51439,Dwayne Bravo,7 May 2008,v RR,DY Patil,2,4,1,-,5,0,0,20,caught,1,2.2,0,12,2,5.14
+51439,Dwayne Bravo,14 May 2008,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+51439,Dwayne Bravo,16 May 2008,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,1,13,2,4.33
+51439,Dwayne Bravo,18 May 2008,v Chargers,Hyderabad,1,6,30,-,17,2,2,176.47,bowled,2,4.0,0,24,3,6
+51439,Dwayne Bravo,20 Jun 2008,v Australia,Bridgetown,2,4,28*,23,15,1,3,186.66,not out,1,2.0,0,12,1,6
+51439,Dwayne Bravo,15 Mar 2009,v England,Port of Spain,2,5,8,11,11,1,0,72.72,caught,1,4.0,0,34,1,8.5
+51439,Dwayne Bravo,18 Apr 2009,v CSK,Cape Town,1,5,5,-,4,1,0,125,caught,2,4.0,0,27,1,6.75
+51439,Dwayne Bravo,25 Apr 2009,v Chargers,Durban,2,5,21,-,18,2,0,116.66,lbw,1,4.0,0,34,3,8.5
+51439,Dwayne Bravo,27 Apr 2009,v KKR,Gqeberha,1,6,3,6,5,0,0,60,caught,2,3.0,0,31,2,10.33
+51439,Dwayne Bravo,29 Apr 2009,v Kings XI,Durban,2,5,15,-,20,1,1,75,caught,1,3.0,0,24,1,8
+51439,Dwayne Bravo,3 May 2009,v RCB,Johannesburg,1,5,50*,-,40,1,2,125,not out,2,3.0,0,32,0,10.66
+51439,Dwayne Bravo,6 May 2009,v Chargers,Centurion,2,5,13,-,16,0,0,81.25,caught,1,3.0,0,16,1,5.33
+51439,Dwayne Bravo,8 May 2009,v Daredevils,East London,1,6,35,-,30,2,2,116.66,caught,2,1.0,0,2,0,2
+51439,Dwayne Bravo,10 May 2009,v RCB,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+51439,Dwayne Bravo,12 May 2009,v Kings XI,Centurion,2,2,70*,-,59,7,3,118.64,not out,1,2.0,0,17,0,8.5
+51439,Dwayne Bravo,14 May 2009,v RR,Durban,2,1,1,-,3,0,0,33.33,caught,1,3.0,0,30,1,10
+51439,Dwayne Bravo,16 May 2009,v CSK,Gqeberha,1,2,5,-,8,1,0,62.5,bowled,2,3.1,0,19,1,6
+51439,Dwayne Bravo,6 Jun 2009,v Australia,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+51439,Dwayne Bravo,10 Jun 2009,v Sri Lanka,Nottingham,2,6,51,38,38,5,2,134.21,caught,1,4.0,0,29,0,7.25
+51439,Dwayne Bravo,12 Jun 2009,v India,Lord's,2,4,66*,45,36,4,3,183.33,not out,1,4.0,0,38,4,9.5
+51439,Dwayne Bravo,13 Jun 2009,v South Africa,The Oval,2,4,19,24,17,2,0,111.76,caught,1,2.0,0,24,0,12
+51439,Dwayne Bravo,15 Jun 2009,v England,The Oval,2,4,18,16,13,1,1,138.46,stumped,1,4.0,0,30,2,7.5
+51439,Dwayne Bravo,19 Jun 2009,v Sri Lanka,The Oval,2,4,0,1,2,0,0,0,bowled,1,3.0,0,32,2,10.66
+51439,Dwayne Bravo,12 Oct 2009,v Somerset,Bengaluru,1,5,0,-,1,0,0,0,caught,2,4.0,0,23,4,5.75
+51439,Dwayne Bravo,14 Oct 2009,v Chargers,Hyderabad,1,5,11,-,19,0,0,57.89,run out,2,4.0,0,24,3,6
+51439,Dwayne Bravo,16 Oct 2009,v NSW,Hyderabad,2,3,1,-,5,0,0,20,caught,1,4.0,0,31,3,7.75
+51439,Dwayne Bravo,18 Oct 2009,v Eagles,Hyderabad,1,6,9*,-,6,1,0,150,not out,2,4.0,0,39,0,9.75
+51439,Dwayne Bravo,22 Oct 2009,v Cape Cobras,Hyderabad,2,5,58*,-,34,4,3,170.58,not out,1,3.0,0,46,0,15.33
+51439,Dwayne Bravo,23 Oct 2009,v NSW,Hyderabad,2,5,17,-,13,2,1,130.76,bowled,1,3.0,0,27,2,9
+51439,Dwayne Bravo,28 Dec 2009,v Queensland,Brisbane,1,7,36,16,18,2,3,200,caught,2,2.0,0,28,0,14
+51439,Dwayne Bravo,2 Jan 2010,v NSW,Melbourne,2,6,18*,7,8,1,2,225,not out,1,4.0,0,32,3,8
+51439,Dwayne Bravo,7 Jan 2010,v South Aust,Adelaide,2,6,7,17,7,1,0,100,run out,1,3.0,0,40,0,13.33
+51439,Dwayne Bravo,10 Jan 2010,v West Aust,W.A.C.A,2,6,7,12,9,0,0,77.77,caught,1,4.0,0,40,0,10
+51439,Dwayne Bravo,15 Jan 2010,v Tasmania,Melbourne,2,3,9*,7,7,0,0,128.57,not out,1,4.0,0,29,1,7.25
+51439,Dwayne Bravo,17 Mar 2010,v Daredevils,Delhi,1,7,9,-,4,0,1,225,caught,2,2.0,0,11,2,5.5
+51439,Dwayne Bravo,20 Mar 2010,v RCB,Brabourne,1,6,1,-,2,0,0,50,lbw,2,3.1,0,35,0,11.05
+51439,Dwayne Bravo,22 Mar 2010,v KKR,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+51439,Dwayne Bravo,25 Mar 2010,v CSK,Brabourne,2,6,11*,-,7,0,1,157.14,not out,1,4.0,0,42,0,10.5
+51439,Dwayne Bravo,28 Mar 2010,v Chargers,DY Patil,1,3,23,-,16,3,1,143.75,caught,2,2.0,0,16,0,8
+51439,Dwayne Bravo,30 Mar 2010,v Kings XI,Brabourne,2,6,8,-,4,0,1,200,caught,1,3.0,0,22,1,7.33
+51439,Dwayne Bravo,3 Apr 2010,v Chargers,Brabourne,1,4,2,-,8,0,0,25,bowled,2,2.0,0,12,0,6
+51439,Dwayne Bravo,6 Apr 2010,v CSK,Chennai,2,5,2,-,3,0,0,66.66,caught,1,2.0,0,21,1,10.5
+51439,Dwayne Bravo,13 Apr 2010,v Daredevils,Brabourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+51439,Dwayne Bravo,19 Apr 2010,v KKR,Eden Gardens,1,6,5,-,9,0,0,55.55,stumped,2,2.0,0,7,0,3.5
+51439,Dwayne Bravo,30 Apr 2010,v Ireland,Providence,1,3,18,9,10,0,2,180,caught,2,2.0,0,5,2,2.5
+51439,Dwayne Bravo,3 May 2010,v England,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+51439,Dwayne Bravo,7 May 2010,v Sri Lanka,Bridgetown,2,4,23,34,23,3,0,100,caught,1,3.0,0,36,1,12
+51439,Dwayne Bravo,9 May 2010,v India,Bridgetown,1,5,1,1,2,0,0,50,caught,2,4.0,0,28,1,7
+51439,Dwayne Bravo,11 May 2010,v Australia,Gros Islet,1,4,6,10,9,0,0,66.66,run out,2,1.0,0,11,0,11
+51439,Dwayne Bravo,19 May 2010,v South Africa,North Sound,2,3,20,26,22,2,0,90.9,caught,1,1.0,0,14,0,14
+51439,Dwayne Bravo,20 May 2010,v South Africa,North Sound,2,3,40,65,42,1,2,95.23,caught,1,4.0,0,20,0,5
+51439,Dwayne Bravo,22 Jul 2010,v Canada,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+51439,Dwayne Bravo,24 Jul 2010,v Leeward Is,Bridgetown,2,5,33*,-,33,4,0,100,not out,1,4.0,0,25,1,6.25
+51439,Dwayne Bravo,28 Jul 2010,v Jamaica,Port of Spain,1,6,28,-,19,1,2,147.36,caught,2,3.1,0,14,2,4.42
+51439,Dwayne Bravo,30 Jul 2010,v Guyana,Port of Spain,2,6,55,-,20,1,6,275,caught,1,4.0,0,33,1,8.25
+51439,Dwayne Bravo,31 Jul 2010,v Jamaica,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,4.66
+51439,Dwayne Bravo,14 Aug 2010,v Hampshire,Southampton,1,5,5,9,8,0,0,62.5,run out,2,4.0,0,46,1,11.5
+51439,Dwayne Bravo,14 Sep 2010,v South Aust,Durban,1,7,22,21,12,4,0,183.33,run out,2,4.0,0,46,0,11.5
+51439,Dwayne Bravo,16 Sep 2010,v Guyana,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,2,6
+51439,Dwayne Bravo,19 Sep 2010,v RCB,Durban,1,7,29,23,17,3,2,170.58,caught,2,4.0,0,23,2,5.75
+51439,Dwayne Bravo,2 Jan 2011,v Queensland,Melbourne,1,6,1*,3,2,0,0,50,not out,2,2.0,0,12,1,6
+51439,Dwayne Bravo,8 Jan 2011,v South Aust,Adelaide,2,6,8,-,9,0,0,88.88,caught,1,2.0,0,29,0,14.5
+51439,Dwayne Bravo,11 Jan 2011,v Tasmania,Hobart,1,5,22,-,22,2,0,100,caught,2,1.3,0,16,0,10.66
+51439,Dwayne Bravo,18 Jan 2011,v West Aust,W.A.C.A,1,6,16,20,16,0,1,100,caught,2,2.0,0,11,1,5.5
+51439,Dwayne Bravo,9 May 2011,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+51439,Dwayne Bravo,12 May 2011,v Daredevils,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+51439,Dwayne Bravo,18 May 2011,v Kochi,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+51439,Dwayne Bravo,22 May 2011,v RCB,Bengaluru,1,7,5,6,5,1,0,100,lbw,2,4.0,0,21,0,5.25
+51439,Dwayne Bravo,24 May 2011,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+51439,Dwayne Bravo,28 May 2011,v RCB,Chennai,1,7,6*,-,1,0,1,600,not out,2,2.0,0,15,1,7.5
+51439,Dwayne Bravo,24 Sep 2011,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,2,7.33
+51439,Dwayne Bravo,28 Sep 2011,v Cape Cobras,Chennai,2,7,46*,40,25,3,2,184,not out,1,4.0,0,23,2,5.75
+51439,Dwayne Bravo,2 Oct 2011,v Trinidad & T,Chennai,2,7,32*,33,22,5,0,145.45,not out,1,4.0,0,25,1,6.25
+51439,Dwayne Bravo,4 Oct 2011,v NSW,Chennai,2,5,16,-,11,1,1,145.45,caught,1,4.0,0,43,0,10.75
+51439,Dwayne Bravo,16 Dec 2011,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+51439,Dwayne Bravo,21 Dec 2011,v Hurricanes,Hobart,2,6,3,-,5,0,0,60,caught,1,2.0,0,23,0,11.5
+51439,Dwayne Bravo,27 Dec 2011,v Stars,Sydney,1,2,51,52,39,4,3,130.76,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,2 Jan 2012,v Renegades,Melbourne (Docklands),1,1,7,7,10,1,0,70,bowled,2,2.0,0,12,0,6
+51439,Dwayne Bravo,9 Jan 2012,v Windward Is,North Sound,2,4,51,-,42,0,4,121.42,caught,1,3.0,0,25,0,8.33
+51439,Dwayne Bravo,11 Jan 2012,v Leeward Is,North Sound,1,5,1*,-,1,0,0,100,not out,2,2.5,0,10,1,3.52
+51439,Dwayne Bravo,13 Jan 2012,v Guyana,North Sound,2,4,18,-,31,1,0,58.06,caught,1,3.0,0,10,2,3.33
+51439,Dwayne Bravo,19 Jan 2012,v Canada,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+51439,Dwayne Bravo,21 Jan 2012,v Barbados,Bridgetown,2,4,2,-,5,0,0,40,caught,1,4.0,0,23,3,5.75
+51439,Dwayne Bravo,22 Jan 2012,v Jamaica,Bridgetown,1,4,49,-,43,3,4,113.95,caught,2,4.0,0,34,1,8.5
+51439,Dwayne Bravo,10 Feb 2012,v Rajshahi,Mirpur,1,6,38*,18,19,3,2,200,not out,2,3.0,0,17,3,5.66
+51439,Dwayne Bravo,12 Feb 2012,v Khulna,Mirpur,2,5,12,12,12,2,0,100,caught,1,4.0,0,34,1,8.5
+51439,Dwayne Bravo,13 Feb 2012,v Dhaka,Mirpur,1,6,43,31,31,3,2,138.7,caught,2,3.0,0,42,0,14
+51439,Dwayne Bravo,15 Feb 2012,v Royals,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+51439,Dwayne Bravo,16 Feb 2012,v Barisal,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+51439,Dwayne Bravo,18 Feb 2012,v Rajshahi,Chattogram,2,7,1,-,3,0,0,33.33,lbw,1,4.0,0,36,1,9
+51439,Dwayne Bravo,20 Feb 2012,v Khulna,Chattogram,2,6,1,-,6,0,0,16.66,caught,1,4.0,0,39,0,9.75
+51439,Dwayne Bravo,24 Feb 2012,v Dhaka,Mirpur,1,4,48*,55,43,2,2,111.62,not out,2,3.0,0,21,2,7
+51439,Dwayne Bravo,25 Feb 2012,v Royals,Mirpur,2,5,0,2,1,0,0,0,caught,1,4.0,0,27,1,6.75
+51439,Dwayne Bravo,26 Feb 2012,v Barisal,Mirpur,1,5,26,28,20,0,2,130,caught,2,3.0,0,47,0,15.66
+51439,Dwayne Bravo,27 Mar 2012,v Australia,Gros Islet,1,6,14,-,11,1,0,127.27,caught,2,3.0,0,21,0,7
+51439,Dwayne Bravo,30 Mar 2012,v Australia,Bridgetown,1,4,23,51,24,0,0,95.83,caught,2,4.0,0,27,2,6.75
+51439,Dwayne Bravo,4 Apr 2012,v MI,Chennai,1,4,19,15,19,3,0,100,caught,2,3.0,0,14,1,4.66
+51439,Dwayne Bravo,7 Apr 2012,v Chargers,Visakhapatnam,1,7,43*,28,18,0,5,238.88,not out,2,1.0,0,10,0,10
+51439,Dwayne Bravo,10 Apr 2012,v Daredevils,Delhi,1,6,22,32,31,1,0,70.96,bowled,2,1.0,0,5,0,5
+51439,Dwayne Bravo,12 Apr 2012,v RCB,Chennai,2,5,25*,33,15,2,1,166.66,not out,1,4.0,0,30,0,7.5
+51439,Dwayne Bravo,14 Apr 2012,v Warriors,Pune,1,7,5*,4,2,1,0,250,not out,2,3.0,0,31,0,10.33
+51439,Dwayne Bravo,19 Apr 2012,v Warriors,Chennai,1,5,12,12,8,0,1,150,caught,2,4.0,0,28,2,7
+51439,Dwayne Bravo,21 Apr 2012,v RR,Chennai,2,5,16*,17,10,1,0,160,not out,1,3.0,0,32,0,10.66
+51439,Dwayne Bravo,25 Apr 2012,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,28 Apr 2012,v Kings XI,Chennai,2,7,30,26,21,0,2,142.85,caught,1,4.0,0,28,2,7
+51439,Dwayne Bravo,30 Apr 2012,v KKR,Chennai,1,4,12,25,12,0,1,100,caught,2,4.0,0,27,2,6.75
+51439,Dwayne Bravo,4 May 2012,v Chargers,Chennai,1,7,12*,9,4,0,1,300,not out,2,4.0,0,35,0,8.75
+51439,Dwayne Bravo,6 May 2012,v MI,Wankhede,1,4,40,55,33,4,1,121.21,bowled,2,4.0,0,39,2,9.75
+51439,Dwayne Bravo,10 May 2012,v RR,Jaipur,2,4,10,22,15,0,0,66.66,caught,1,3.0,0,38,0,12.66
+51439,Dwayne Bravo,12 May 2012,v Daredevils,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+51439,Dwayne Bravo,14 May 2012,v KKR,Eden Gardens,2,6,11*,16,7,0,1,157.14,not out,1,3.0,0,22,0,7.33
+51439,Dwayne Bravo,17 May 2012,v Kings XI,Dharamsala,1,5,48,59,43,2,3,111.62,caught,2,3.0,0,18,2,6
+51439,Dwayne Bravo,23 May 2012,v MI,Bengaluru,1,7,33*,-,14,3,2,235.71,not out,2,3.0,0,10,2,3.33
+51439,Dwayne Bravo,25 May 2012,v Daredevils,Chennai,1,6,33*,-,12,3,2,275,not out,2,3.0,0,24,1,8
+51439,Dwayne Bravo,27 May 2012,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.4,0,49,1,13.36
+51439,Dwayne Bravo,24 Jun 2012,v England,Nottingham,1,5,54*,56,36,1,3,150,not out,2,2.0,0,21,0,10.5
+51439,Dwayne Bravo,30 Jun 2012,v New Zealand,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+51439,Dwayne Bravo,1 Jul 2012,v New Zealand,Lauderhill,1,6,35*,18,11,1,4,318.18,not out,2,2.4,0,23,2,8.62
+51439,Dwayne Bravo,22 Sep 2012,v Australia,Colombo (RPS),1,5,27,39,21,1,1,128.57,bowled,2,1.0,0,8,0,8
+51439,Dwayne Bravo,27 Sep 2012,v England,Pallekele,1,5,11*,17,8,2,0,137.5,not out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,29 Sep 2012,v Sri Lanka,Pallekele,1,4,40,36,34,4,2,117.64,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,5 Oct 2012,v Australia,Colombo (RPS),1,4,37,37,31,1,3,119.35,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,7 Oct 2012,v Sri Lanka,Colombo (RPS),1,4,19,29,19,0,1,100,lbw,2,DNB,-,-,-,-
+51439,Dwayne Bravo,6 Jan 2013,v Jamaica,Port of Spain,1,5,30,-,27,2,0,111.11,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,8 Jan 2013,v Comb C&C,Port of Spain,2,4,36*,-,42,0,2,85.71,not out,1,4.0,0,8,1,2
+51439,Dwayne Bravo,9 Jan 2013,v Leeward Is,Port of Spain,1,5,3,6,4,0,0,75,lbw,2,3.0,0,15,1,5
+51439,Dwayne Bravo,12 Jan 2013,v Guyana,Port of Spain,1,4,19,-,19,2,0,100,caught,2,4.0,0,28,0,7
+51439,Dwayne Bravo,15 Jan 2013,v Windward Is,Gros Islet,2,4,62*,-,42,5,4,147.61,not out,1,4.0,0,32,0,8
+51439,Dwayne Bravo,16 Jan 2013,v Barbados,Gros Islet,2,4,3,-,4,0,0,75,run out,1,4.0,0,30,1,7.5
+51439,Dwayne Bravo,20 Jan 2013,v Guyana,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+51439,Dwayne Bravo,13 Feb 2013,v Australia,Brisbane,1,5,13,20,13,0,0,100,bowled,2,2.0,0,17,0,8.5
+51439,Dwayne Bravo,2 Mar 2013,v Zimbabwe,North Sound,2,4,38*,42,30,3,1,126.66,not out,1,2.0,0,16,2,8
+51439,Dwayne Bravo,3 Mar 2013,v Zimbabwe,North Sound,1,3,24,22,25,1,1,96,caught,2,3.0,0,15,2,5
+51439,Dwayne Bravo,6 Apr 2013,v MI,Chennai,2,4,10,28,17,0,0,58.82,caught,1,4.0,0,44,2,11
+51439,Dwayne Bravo,10 Apr 2013,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+51439,Dwayne Bravo,13 Apr 2013,v RCB,Chennai,2,7,8,8,3,0,1,266.66,lbw,1,4.0,0,32,1,8
+51439,Dwayne Bravo,15 Apr 2013,v Warriors,Chennai,2,7,1,5,4,0,0,25,caught,1,4.0,0,35,2,8.75
+51439,Dwayne Bravo,18 Apr 2013,v Daredevils,Delhi,1,5,3,3,2,0,0,150,run out,2,1.3,0,8,1,5.33
+51439,Dwayne Bravo,20 Apr 2013,v KKR,Eden Gardens,2,8,7*,10,4,1,0,175,not out,1,2.0,0,14,1,7
+51439,Dwayne Bravo,22 Apr 2013,v RR,Chennai,2,6,15*,21,9,0,1,166.66,not out,1,4.0,0,36,2,9
+51439,Dwayne Bravo,25 Apr 2013,v SRH,Chennai,2,5,7,22,16,0,0,43.75,caught,1,4.0,0,37,2,9.25
+51439,Dwayne Bravo,28 Apr 2013,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+51439,Dwayne Bravo,30 Apr 2013,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+51439,Dwayne Bravo,2 May 2013,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+51439,Dwayne Bravo,5 May 2013,v MI,Wankhede,2,5,9,6,7,2,0,128.57,caught,1,3.0,0,19,1,6.33
+51439,Dwayne Bravo,8 May 2013,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+51439,Dwayne Bravo,12 May 2013,v RR,Jaipur,1,6,23*,10,11,4,0,209.09,not out,2,3.0,0,35,1,11.66
+51439,Dwayne Bravo,14 May 2013,v Daredevils,Chennai,1,6,12*,15,8,1,0,150,not out,2,4.0,0,19,2,4.75
+51439,Dwayne Bravo,18 May 2013,v RCB,Bengaluru,2,4,11,-,9,0,1,122.22,caught,1,2.0,0,26,1,13
+51439,Dwayne Bravo,21 May 2013,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,3,3
+51439,Dwayne Bravo,26 May 2013,v MI,Eden Gardens,2,5,15,22,16,3,0,93.75,caught,1,4.0,0,42,4,10.5
+51439,Dwayne Bravo,27 Jul 2013,v Pakistan,Kingstown,1,5,25,40,35,2,0,71.42,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,28 Jul 2013,v Pakistan,Kingstown,2,5,35,61,44,2,1,79.54,caught,1,4.0,0,35,0,8.75
+51439,Dwayne Bravo,31 Jul 2013,v Amazon,Providence,2,6,8,-,9,0,0,88.88,caught,1,4.0,0,41,2,10.25
+51439,Dwayne Bravo,3 Aug 2013,v Tridents,Bridgetown,1,5,5,-,12,0,0,41.66,lbw,2,1.0,0,4,0,4
+51439,Dwayne Bravo,7 Aug 2013,v Tallawahs,Port of Spain,2,5,29,-,24,0,3,120.83,caught,1,4.0,0,39,1,9.75
+51439,Dwayne Bravo,9 Aug 2013,v Amazon,Port of Spain,1,5,8,-,6,1,0,133.33,bowled,2,4.0,0,21,2,5.25
+51439,Dwayne Bravo,11 Aug 2013,v Hawksbills,Port of Spain,1,5,46,-,25,2,4,184,caught,2,3.0,0,14,2,4.66
+51439,Dwayne Bravo,17 Aug 2013,v Zouks,Kingston,2,6,10*,-,9,0,1,111.11,not out,1,4.0,0,28,1,7
+51439,Dwayne Bravo,18 Aug 2013,v Tallawahs,Kingston,1,6,29,-,16,4,1,181.25,caught,2,4.0,0,43,2,10.75
+51439,Dwayne Bravo,22 Aug 2013,v Amazon,Port of Spain,1,6,26,-,34,1,0,76.47,caught,2,4.0,0,17,0,4.25
+51439,Dwayne Bravo,22 Sep 2013,v Titans,Ranchi,2,5,38,29,26,4,2,146.15,caught,1,4.0,0,34,2,8.5
+51439,Dwayne Bravo,26 Sep 2013,v SRH,Ranchi,1,6,6*,10,4,0,0,150,not out,2,4.0,0,34,2,8.5
+51439,Dwayne Bravo,28 Sep 2013,v Heat,Ranchi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+51439,Dwayne Bravo,2 Oct 2013,v Trinidad & T,Delhi,1,5,2,4,4,0,0,50,caught,2,1.1,0,8,0,6.85
+51439,Dwayne Bravo,4 Oct 2013,v RR,Jaipur,2,6,3,5,5,0,0,60,lbw,1,4.0,0,26,3,6.5
+51439,Dwayne Bravo,11 Jan 2014,v New Zealand,Auckland,2,5,10,15,11,1,0,90.9,caught,1,4.0,0,24,0,6
+51439,Dwayne Bravo,15 Jan 2014,v New Zealand,Wellington,1,4,12,15,12,0,1,100,bowled,2,3.0,0,31,0,10.33
+51439,Dwayne Bravo,18 Jan 2014,v Sixers,Melbourne (Docklands),2,4,38,33,30,1,2,126.66,caught,1,4.0,0,23,1,5.75
+51439,Dwayne Bravo,22 Jan 2014,v Strikers,Adelaide,1,3,47,-,33,1,4,142.42,caught,2,4.0,0,23,2,5.75
+51439,Dwayne Bravo,19 Feb 2014,v Ireland,Kingston,1,5,8,-,14,1,0,57.14,caught,2,3.0,0,21,0,7
+51439,Dwayne Bravo,21 Feb 2014,v Ireland,Kingston,1,5,10,-,13,1,0,76.92,run out,2,4.0,0,24,1,6
+51439,Dwayne Bravo,9 Mar 2014,v England,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+51439,Dwayne Bravo,11 Mar 2014,v England,Bridgetown,2,7,8*,13,6,1,0,133.33,not out,1,4.0,0,34,2,8.5
+51439,Dwayne Bravo,13 Mar 2014,v England,Bridgetown,2,5,16,20,19,2,0,84.21,caught,1,3.0,0,35,0,11.66
+51439,Dwayne Bravo,23 Mar 2014,v India,Mirpur,1,5,0,1,1,0,0,0,lbw,2,1.0,0,12,0,12
+51439,Dwayne Bravo,25 Mar 2014,v Bangladesh,Mirpur,1,7,0,2,1,0,0,0,caught,2,3.0,0,23,0,7.66
+51439,Dwayne Bravo,28 Mar 2014,v Australia,Mirpur,2,5,27*,30,12,2,2,225,not out,1,4.0,0,39,1,9.75
+51439,Dwayne Bravo,1 Apr 2014,v Pakistan,Mirpur,1,5,46,37,26,2,4,176.92,run out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,3 Apr 2014,v Sri Lanka,Mirpur,2,5,30,24,19,3,1,157.89,caught,1,DNB,-,-,-,-
+51439,Dwayne Bravo,18 Apr 2014,v Kings XI,Abu Dhabi,1,5,8*,-,3,0,1,266.66,not out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,12 Jul 2014,v Tridents,St George's,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,2,5.66
+51439,Dwayne Bravo,17 Jul 2014,v Amazon,Providence,1,5,3,-,9,0,0,33.33,caught,2,4.0,0,21,0,5.25
+51439,Dwayne Bravo,20 Jul 2014,v Hawksbills,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+51439,Dwayne Bravo,24 Jul 2014,v Amazon,Port of Spain,2,5,67,-,42,6,3,159.52,caught,1,4.0,0,54,0,13.5
+51439,Dwayne Bravo,26 Jul 2014,v Tallawahs,Port of Spain,1,5,24*,-,18,1,2,133.33,not out,2,3.0,0,41,0,13.66
+51439,Dwayne Bravo,27 Jul 2014,v Zouks,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,1,6
+51439,Dwayne Bravo,2 Aug 2014,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+51439,Dwayne Bravo,7 Aug 2014,v Tridents,Basseterre,2,4,16,-,12,3,0,133.33,caught,1,4.0,0,38,1,9.5
+51439,Dwayne Bravo,9 Aug 2014,v Hawksbills,Basseterre,1,5,6,-,8,0,0,75,caught,2,1.0,0,12,0,12
+51439,Dwayne Bravo,13 Aug 2014,v Tallawahs,Basseterre,1,7,2*,-,3,0,0,66.66,not out,2,3.4,0,35,0,9.54
+51439,Dwayne Bravo,27 Aug 2014,v Bangladesh,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,0.4,0,8,0,12
+51439,Dwayne Bravo,17 Sep 2014,v KKR,Hyderabad,1,6,28*,32,28,2,2,100,not out,2,3.0,0,21,0,7
+51439,Dwayne Bravo,22 Sep 2014,v Dolphins,Bengaluru,1,6,11,15,9,2,0,122.22,caught,2,4.0,0,17,2,4.25
+51439,Dwayne Bravo,27 Sep 2014,v Scorchers,Bengaluru,1,5,27,31,26,1,1,103.84,bowled,2,3.0,0,34,0,11.33
+51439,Dwayne Bravo,2 Oct 2014,v Kings XI,Hyderabad,1,5,67,53,39,7,3,171.79,caught,2,1.0,0,12,0,12
+51439,Dwayne Bravo,4 Oct 2014,v KKR,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,24,0,12
+51439,Dwayne Bravo,5 Nov 2014,v Warriors,Durban,1,5,43,34,25,2,3,172,lbw,2,4.0,0,39,0,9.75
+51439,Dwayne Bravo,7 Nov 2014,v Cape Cobras,Cape Town,1,4,4,10,7,0,0,57.14,caught,2,4.0,0,25,0,6.25
+51439,Dwayne Bravo,9 Nov 2014,v Titans,Durban,1,5,13,25,11,1,0,118.18,caught,2,4.0,0,26,0,6.5
+51439,Dwayne Bravo,14 Nov 2014,v Warriors,Gqeberha,1,6,21,21,25,1,0,84,bowled,2,4.0,0,20,2,5
+51439,Dwayne Bravo,21 Nov 2014,v Cape Cobras,Durban,1,5,3,7,6,0,0,50,stumped,2,1.2,0,13,1,9.75
+51439,Dwayne Bravo,26 Nov 2014,v Titans,Benoni,2,6,34,22,18,0,3,188.88,caught,1,4.0,0,42,1,10.5
+51439,Dwayne Bravo,28 Nov 2014,v Knights,Kimberley,2,6,35,24,18,3,2,194.44,bowled,1,4.0,0,50,1,12.5
+51439,Dwayne Bravo,30 Nov 2014,v Lions,Bloemfontein,2,6,19,16,14,2,0,135.71,caught,1,4.0,0,24,2,6
+51439,Dwayne Bravo,19 Dec 2014,v Sixers,Sydney,1,5,22,-,16,1,2,137.5,caught,2,3.0,0,18,0,6
+51439,Dwayne Bravo,26 Dec 2014,v Scorchers,W.A.C.A,2,5,13,-,12,0,1,108.33,caught,1,4.0,0,48,1,12
+51439,Dwayne Bravo,30 Dec 2014,v Thunder,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+51439,Dwayne Bravo,3 Jan 2015,v Stars,Melbourne (Docklands),2,6,3,-,9,0,0,33.33,caught,1,3.0,0,22,3,7.33
+51439,Dwayne Bravo,9 Jan 2015,v South Africa,Cape Town,2,4,8,20,13,0,0,61.53,caught,1,3.0,0,26,0,8.66
+51439,Dwayne Bravo,11 Jan 2015,v South Africa,Johannesburg,2,6,10,10,5,1,1,200,caught,1,4.0,0,32,2,8
+51439,Dwayne Bravo,14 Jan 2015,v South Africa,Durban,2,5,12,16,13,0,0,92.3,caught,1,4.0,0,38,1,9.5
+51439,Dwayne Bravo,9 Apr 2015,v Daredevils,Chennai,1,7,1,7,3,0,0,33.33,lbw,2,4.0,0,36,2,9
+51439,Dwayne Bravo,11 Apr 2015,v SRH,Chennai,1,6,0*,1,0,0,0,-,not out,2,4.0,0,25,2,6.25
+51439,Dwayne Bravo,17 Apr 2015,v MI,Wankhede,2,6,13*,12,5,1,1,260,not out,1,4.0,0,30,2,7.5
+51439,Dwayne Bravo,19 Apr 2015,v RR,Ahmedabad,1,5,62*,65,36,8,1,172.22,not out,2,2.2,0,30,1,12.85
+51439,Dwayne Bravo,22 Apr 2015,v RCB,Bengaluru,1,7,5,10,4,1,0,125,caught,2,3.0,0,25,1,8.33
+51439,Dwayne Bravo,25 Apr 2015,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,0,4.33
+51439,Dwayne Bravo,28 Apr 2015,v KKR,Chennai,1,6,5,5,7,1,0,71.42,caught,2,3.0,0,22,3,7.33
+51439,Dwayne Bravo,30 Apr 2015,v KKR,Eden Gardens,1,5,30,-,32,4,0,93.75,bowled,2,2.0,0,27,0,13.5
+51439,Dwayne Bravo,2 May 2015,v SRH,Hyderabad,2,7,25*,36,20,3,0,125,not out,1,4.0,0,25,3,6.25
+51439,Dwayne Bravo,4 May 2015,v RCB,Chennai,1,8,2,6,3,0,0,66.66,caught,2,3.4,0,17,2,4.63
+51439,Dwayne Bravo,8 May 2015,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.2,0,16,1,6.85
+51439,Dwayne Bravo,10 May 2015,v RR,Chennai,1,7,15*,12,8,2,0,187.5,not out,2,4.0,0,43,2,10.75
+51439,Dwayne Bravo,12 May 2015,v Daredevils,Raipur,1,6,8,10,8,0,1,100,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,16 May 2015,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+51439,Dwayne Bravo,19 May 2015,v MI,Wankhede,2,6,20,21,15,2,1,133.33,run out,1,4.0,0,40,3,10
+51439,Dwayne Bravo,22 May 2015,v RCB,Ranchi,2,7,0,1,1,0,0,0,bowled,1,3.0,0,21,1,7
+51439,Dwayne Bravo,24 May 2015,v MI,Eden Gardens,2,5,9,5,6,0,1,150,caught,1,4.0,0,36,2,9
+51439,Dwayne Bravo,21 Jun 2015,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+51439,Dwayne Bravo,25 Jun 2015,v Tridents,Bridgetown,1,7,30,30,28,4,1,107.14,caught,2,2.0,0,16,0,8
+51439,Dwayne Bravo,4 Jul 2015,v Amazon,Basseterre,2,5,10,-,15,0,0,66.66,bowled,1,4.0,0,18,4,4.5
+51439,Dwayne Bravo,9 Jul 2015,v Tallawahs,Kingston,2,5,0,-,1,0,0,0,caught,1,4.0,0,47,1,11.75
+51439,Dwayne Bravo,11 Jul 2015,v Patriots,Basseterre,2,5,1,-,5,0,0,20,caught,1,4.0,0,29,4,7.25
+51439,Dwayne Bravo,14 Jul 2015,v Zouks,Port of Spain,1,5,14*,-,8,1,0,175,not out,2,2.0,0,27,2,13.5
+51439,Dwayne Bravo,16 Jul 2015,v Tridents,Port of Spain,1,5,14*,-,4,0,2,350,not out,2,3.4,0,16,3,4.36
+51439,Dwayne Bravo,18 Jul 2015,v Patriots,Port of Spain,1,5,8,-,5,1,0,160,bowled,2,3.0,0,15,3,5
+51439,Dwayne Bravo,19 Jul 2015,v Tallawahs,Port of Spain,1,5,49*,-,30,2,3,163.33,not out,2,4.0,0,18,2,4.5
+51439,Dwayne Bravo,21 Jul 2015,v Amazon,Providence,1,6,5,-,12,0,0,41.66,lbw,2,3.0,0,22,2,7.33
+51439,Dwayne Bravo,23 Jul 2015,v Tallawahs,Port of Spain,1,6,5,-,7,0,0,71.42,caught,2,4.0,0,23,5,5.75
+51439,Dwayne Bravo,25 Jul 2015,v Amazon,Port of Spain,2,5,8*,-,13,0,0,61.53,not out,1,3.0,1,19,2,6.33
+51439,Dwayne Bravo,26 Jul 2015,v Tridents,Port of Spain,1,5,29*,-,15,4,1,193.33,not out,2,4.0,0,39,0,9.75
+51439,Dwayne Bravo,9 Nov 2015,v Sri Lanka,Pallekele,2,5,24,27,12,2,2,200,caught,1,4.0,0,53,0,13.25
+51439,Dwayne Bravo,11 Nov 2015,v Sri Lanka,Colombo (RPS),1,4,31,37,31,0,1,100,caught,2,4.0,0,28,4,7
+51439,Dwayne Bravo,15 Nov 2015,v Cape Cobras,Centurion,1,6,0,1,1,0,0,0,caught,2,4.0,0,35,1,8.75
+51439,Dwayne Bravo,18 Nov 2015,v Titans,Durban,2,6,27,47,31,3,0,87.09,caught,1,4.0,0,31,1,7.75
+51439,Dwayne Bravo,20 Nov 2015,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,22 Nov 2015,v Lions,Johannesburg,2,6,2,16,8,0,0,25,bowled,1,4.0,0,26,0,6.5
+51439,Dwayne Bravo,28 Nov 2015,v Knights,Gqeberha,1,7,23,43,24,2,0,95.83,bowled,2,2.0,0,6,0,3
+51439,Dwayne Bravo,4 Dec 2015,v Cape Cobras,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+51439,Dwayne Bravo,9 Dec 2015,v Cape Cobras,Durban,1,5,0*,9,2,0,0,0,not out,2,4.0,0,27,1,6.75
+51439,Dwayne Bravo,12 Dec 2015,v Titans,Centurion,1,5,53,40,30,5,3,176.66,caught,2,3.0,0,22,0,7.33
+51439,Dwayne Bravo,19 Dec 2015,v Heat,Brisbane,2,5,22*,-,9,1,2,244.44,not out,1,4.0,0,30,1,7.5
+51439,Dwayne Bravo,23 Dec 2015,v Sixers,Melbourne (Docklands),1,4,45*,45,29,3,2,155.17,not out,2,3.5,0,22,0,5.73
+51439,Dwayne Bravo,30 Dec 2015,v Scorchers,Melbourne (Docklands),1,5,14*,14,10,1,0,140,not out,2,4.0,0,35,0,8.75
+51439,Dwayne Bravo,2 Jan 2016,v Stars,Melbourne,1,5,7,19,8,0,0,87.5,bowled,2,4.0,0,28,1,7
+51439,Dwayne Bravo,4 Jan 2016,v Hurricanes,Hobart,2,6,7,7,4,1,0,175,caught,1,4.0,0,41,0,10.25
+51439,Dwayne Bravo,9 Jan 2016,v Stars,Melbourne (Docklands),1,4,59*,49,37,4,3,159.45,not out,2,4.0,0,38,1,9.5
+51439,Dwayne Bravo,11 Jan 2016,v Thunder,Sydney,2,4,47,-,24,3,3,195.83,caught,1,4.0,0,26,2,6.5
+51439,Dwayne Bravo,18 Jan 2016,v Strikers,Melbourne (Docklands),2,4,0,1,1,0,0,0,bowled,1,4.0,0,36,1,9
+51439,Dwayne Bravo,5 Feb 2016,v Kings,Dubai (DICS),1,6,14,-,14,1,0,100,bowled,2,2.0,0,27,0,13.5
+51439,Dwayne Bravo,6 Feb 2016,v Zalmi,Dubai (DICS),1,6,32,-,31,2,1,103.22,caught,2,3.0,0,21,0,7
+51439,Dwayne Bravo,8 Feb 2016,v Gladiators,Dubai (DICS),1,4,5*,-,5,0,0,100,not out,2,2.0,0,13,1,6.5
+51439,Dwayne Bravo,10 Feb 2016,v United,Sharjah,1,5,26,-,17,3,0,152.94,run out,2,4.0,0,28,0,7
+51439,Dwayne Bravo,12 Feb 2016,v Kings,Sharjah,2,4,0,-,1,0,0,0,caught,1,4.0,0,47,0,11.75
+51439,Dwayne Bravo,13 Feb 2016,v Zalmi,Sharjah,1,5,1*,-,1,0,0,100,not out,2,4.0,0,28,0,7
+51439,Dwayne Bravo,16 Feb 2016,v Gladiators,Dubai (DICS),1,4,20*,-,17,3,0,117.64,not out,2,4.0,0,30,3,7.5
+51439,Dwayne Bravo,17 Feb 2016,v United,Dubai (DICS),1,6,13,-,12,0,1,108.33,run out,2,4.0,0,32,0,8
+51439,Dwayne Bravo,16 Mar 2016,v England,Wankhede,2,5,2,6,4,0,0,50,caught,1,4.0,0,41,2,10.25
+51439,Dwayne Bravo,20 Mar 2016,v Sri Lanka,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+51439,Dwayne Bravo,25 Mar 2016,v South Africa,Nagpur,2,5,8,14,6,1,0,133.33,caught,1,4.0,0,20,2,5
+51439,Dwayne Bravo,27 Mar 2016,v Afghanistan,Nagpur,2,6,28,26,29,1,1,96.55,lbw,1,4.0,0,28,0,7
+51439,Dwayne Bravo,31 Mar 2016,v India,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+51439,Dwayne Bravo,3 Apr 2016,v England,Eden Gardens,2,5,25,53,27,1,1,92.59,caught,1,4.0,0,37,3,9.25
+51439,Dwayne Bravo,11 Apr 2016,v Kings XI,Mohali,2,7,2*,5,2,0,0,100,not out,1,4.0,0,22,4,5.5
+51439,Dwayne Bravo,14 Apr 2016,v Supergiants,Rajkot,2,4,22*,26,10,3,1,220,not out,1,4.0,0,43,1,10.75
+51439,Dwayne Bravo,16 Apr 2016,v MI,Wankhede,2,5,2,4,6,0,0,33.33,caught,1,4.0,0,39,1,9.75
+51439,Dwayne Bravo,21 Apr 2016,v SRH,Rajkot,1,5,8,11,12,0,0,66.66,caught,2,3.0,0,26,0,8.66
+51439,Dwayne Bravo,24 Apr 2016,v RCB,Rajkot,2,6,4*,1,1,1,0,400,not out,1,4.0,0,43,0,10.75
+51439,Dwayne Bravo,27 Apr 2016,v Daredevils,Delhi,1,7,7*,18,6,0,0,116.66,not out,2,4.0,0,40,1,10
+51439,Dwayne Bravo,29 Apr 2016,v Supergiants,Pune,2,5,7,11,6,1,0,116.66,caught,1,4.0,0,40,1,10
+51439,Dwayne Bravo,1 May 2016,v Kings XI,Rajkot,2,6,0,1,1,0,0,0,bowled,1,4.0,0,33,2,8.25
+51439,Dwayne Bravo,6 May 2016,v SRH,Hyderabad,1,6,18,29,20,1,0,90,caught,2,3.0,0,14,2,4.66
+51439,Dwayne Bravo,8 May 2016,v KKR,Eden Gardens,2,7,0*,1,0,0,0,-,not out,1,4.0,0,39,0,9.75
+51439,Dwayne Bravo,14 May 2016,v RCB,Bengaluru,2,6,1,2,2,0,0,50,lbw,1,3.0,0,46,0,15.33
+51439,Dwayne Bravo,19 May 2016,v KKR,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+51439,Dwayne Bravo,21 May 2016,v MI,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+51439,Dwayne Bravo,24 May 2016,v RCB,Bengaluru,1,7,8,19,6,1,0,133.33,bowled,2,3.0,0,26,0,8.66
+51439,Dwayne Bravo,27 May 2016,v SRH,Delhi,1,8,20,10,10,4,0,200,bowled,2,4.0,0,32,2,8
+51439,Dwayne Bravo,3 Jun 2016,v Sussex,Hove,1,4,30,24,14,0,4,214.28,caught,2,4.0,0,36,0,9
+51439,Dwayne Bravo,9 Jun 2016,v Hampshire,The Oval,1,4,3,7,6,0,0,50,caught,2,0.3,0,3,2,6
+51439,Dwayne Bravo,10 Jun 2016,v Somerset,Taunton,1,5,15,26,17,0,1,88.23,caught,2,4.0,0,34,1,8.5
+51439,Dwayne Bravo,17 Jun 2016,v Middlesex,The Oval,1,6,7,11,8,1,0,87.5,caught,2,3.3,0,27,1,7.71
+51439,Dwayne Bravo,24 Jun 2016,v Glamorgan,Cardiff,1,6,20,21,14,1,1,142.85,stumped,2,3.5,0,24,0,6.26
+51439,Dwayne Bravo,25 Jun 2016,v Essex,The Oval,1,6,20,29,20,0,1,100,caught,2,4.0,0,32,1,8
+51439,Dwayne Bravo,29 Jun 2016,v Zouks,Port of Spain,1,6,1,-,4,0,0,25,caught,2,4.0,0,43,2,10.75
+51439,Dwayne Bravo,1 Jul 2016,v Tridents,Port of Spain,1,6,66*,-,46,3,4,143.47,not out,2,3.0,0,24,1,8
+51439,Dwayne Bravo,2 Jul 2016,v Amazon,Port of Spain,1,5,18,-,17,0,1,105.88,caught,2,4.0,0,34,2,8.5
+51439,Dwayne Bravo,4 Jul 2016,v Tallawahs,Port of Spain,1,4,10*,-,8,2,0,125,not out,2,4.0,0,35,1,8.75
+51439,Dwayne Bravo,10 Jul 2016,v Amazon,Providence,1,5,25,-,8,1,3,312.5,bowled,2,4.0,0,33,2,8.25
+51439,Dwayne Bravo,16 Jul 2016,v Tridents,Bridgetown,2,5,23*,-,11,2,2,209.09,not out,1,4.0,0,34,2,8.5
+51439,Dwayne Bravo,18 Jul 2016,v Tallawahs,Kingston,2,7,13,-,7,1,1,185.71,caught,1,4.0,0,39,2,9.75
+51439,Dwayne Bravo,26 Jul 2016,v Zouks,Gros Islet,2,6,4,-,8,0,0,50,caught,1,4.0,0,34,2,8.5
+51439,Dwayne Bravo,29 Jul 2016,v Patriots,Lauderhill,2,6,9,-,7,1,0,128.57,caught,1,4.0,0,37,1,9.25
+51439,Dwayne Bravo,31 Jul 2016,v Patriots,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,4,3.25
+51439,Dwayne Bravo,4 Aug 2016,v Zouks,Basseterre,2,6,8,-,9,0,0,88.88,caught,1,4.0,0,40,1,10
+51439,Dwayne Bravo,5 Aug 2016,v Tallawahs,Basseterre,2,6,0,-,1,0,0,0,caught,1,4.0,0,30,1,7.5
+51439,Dwayne Bravo,27 Aug 2016,v India,Lauderhill,1,6,1*,5,1,0,0,100,not out,2,4.0,0,37,2,9.25
+51439,Dwayne Bravo,28 Aug 2016,v India,Lauderhill,1,8,3,10,6,0,0,50,bowled,2,DNB,-,-,-,-
+51439,Dwayne Bravo,23 Sep 2016,v Pakistan,Dubai (DICS),1,5,55,84,54,4,2,101.85,caught,2,2.0,0,16,0,8
+51439,Dwayne Bravo,24 Sep 2016,v Pakistan,Dubai (DICS),2,5,18,21,16,1,1,112.5,bowled,1,4.0,0,38,1,9.5
+51439,Dwayne Bravo,27 Sep 2016,v Pakistan,Abu Dhabi,1,5,11,13,9,2,0,122.22,bowled,2,4.0,0,31,0,7.75
+51439,Dwayne Bravo,8 Nov 2016,v Bulls,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+51439,Dwayne Bravo,11 Nov 2016,v Kings,Mirpur,1,7,13*,18,10,1,0,130,not out,2,3.0,0,17,0,5.66
+51439,Dwayne Bravo,12 Nov 2016,v Rangpur,Mirpur,1,7,13,9,10,0,1,130,bowled,2,3.0,0,21,2,7
+51439,Dwayne Bravo,14 Nov 2016,v Victorians,Mirpur,1,6,13*,25,10,0,1,130,not out,2,2.0,0,17,0,8.5
+51439,Dwayne Bravo,17 Nov 2016,v Chattogram,Chattogram,1,6,3,6,4,0,0,75,run out,2,4.0,0,25,1,6.25
+51439,Dwayne Bravo,19 Nov 2016,v Khulna,Chattogram,2,7,4,5,6,1,0,66.66,caught,1,4.0,0,27,2,6.75
+51439,Dwayne Bravo,21 Nov 2016,v Kings,Chattogram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+51439,Dwayne Bravo,26 Nov 2016,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+51439,Dwayne Bravo,27 Nov 2016,v Bulls,Mirpur,2,8,6*,2,2,1,0,300,not out,1,4.0,0,35,1,8.75
+51439,Dwayne Bravo,30 Nov 2016,v Rangpur,Mirpur,1,6,16,21,13,1,0,123.07,bowled,2,4.0,0,43,1,10.75
+51439,Dwayne Bravo,2 Dec 2016,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+51439,Dwayne Bravo,6 Dec 2016,v Khulna,Mirpur,1,8,23*,34,22,0,1,104.54,not out,2,2.2,0,10,3,4.28
+51439,Dwayne Bravo,9 Dec 2016,v Kings,Mirpur,1,6,13,12,10,1,1,130,run out,2,3.0,0,20,1,6.66
+51439,Dwayne Bravo,22 Dec 2016,v Thunder,Melbourne (Docklands),1,5,24,-,16,1,2,150,bowled,2,4.0,0,27,2,6.75
+51439,Dwayne Bravo,29 Dec 2016,v Scorchers,Melbourne (Docklands),1,5,23,30,18,0,1,127.77,run out,2,1.0,0,14,0,14
+51439,Dwayne Bravo,4 Aug 2017,v Stars,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+51439,Dwayne Bravo,7 Aug 2017,v Stars,Port of Spain,2,6,6,-,11,1,0,54.54,bowled,1,3.0,0,33,2,11
+51439,Dwayne Bravo,9 Aug 2017,v Tallawahs,Port of Spain,1,6,5,-,12,0,0,41.66,caught,2,4.0,0,32,1,8
+51439,Dwayne Bravo,11 Aug 2017,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+51439,Dwayne Bravo,12 Aug 2017,v Tridents,Port of Spain,2,6,18,-,20,1,0,90,bowled,1,2.0,0,27,2,13.5
+51439,Dwayne Bravo,14 Aug 2017,v Patriots,Port of Spain,2,7,20,-,12,2,1,166.66,run out,1,1.0,0,7,1,7
+51439,Dwayne Bravo,19 Aug 2017,v Amazon,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,1,11.66
+51439,Dwayne Bravo,23 Aug 2017,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,0,13.33
+51439,Dwayne Bravo,26 Aug 2017,v Tallawahs,Kingston,1,7,4,-,2,1,0,200,caught,2,4.0,0,28,1,7
+51439,Dwayne Bravo,2 Sep 2017,v Tridents,Bridgetown,2,6,22,-,24,2,1,91.66,caught,1,4.0,0,30,1,7.5
+51439,Dwayne Bravo,5 Sep 2017,v Patriots,Tarouba,2,7,24,-,13,0,3,184.61,caught,1,4.0,0,38,4,9.5
+51439,Dwayne Bravo,7 Sep 2017,v Amazon,Tarouba,2,5,11,-,4,1,1,275,stumped,1,3.0,0,26,1,8.66
+51439,Dwayne Bravo,9 Sep 2017,v Patriots,Tarouba,2,3,0,-,1,0,0,0,bowled,1,2.0,0,24,0,12
+51439,Dwayne Bravo,5 Nov 2017,v Sylhet,Sylhet,1,7,11*,-,9,0,1,122.22,not out,2,3.5,0,34,2,8.86
+51439,Dwayne Bravo,7 Nov 2017,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+51439,Dwayne Bravo,12 Nov 2017,v Kings,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+51439,Dwayne Bravo,14 Nov 2017,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+51439,Dwayne Bravo,28 Nov 2017,v Khulna,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+51439,Dwayne Bravo,29 Nov 2017,v Dynamites,Chattogram,1,7,6,-,3,1,0,200,run out,2,4.0,0,31,3,7.75
+51439,Dwayne Bravo,8 Dec 2017,v Dynamites,Mirpur,2,7,0,-,4,0,0,0,lbw,1,4.0,0,45,2,11.25
+51439,Dwayne Bravo,21 Dec 2017,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,5,7
+51439,Dwayne Bravo,23 Dec 2017,v Heat,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+51439,Dwayne Bravo,29 Dec 2017,v Scorchers,Melbourne (Docklands),1,6,16,-,10,1,1,160,caught,2,3.0,0,22,1,7.33
+51439,Dwayne Bravo,3 Jan 2018,v Sixers,Geelong,2,4,6*,-,7,1,0,85.71,not out,1,4.0,0,29,3,7.25
+51439,Dwayne Bravo,6 Jan 2018,v Stars,Melbourne,2,6,6*,-,2,0,1,300,not out,1,4.0,0,31,1,7.75
+51439,Dwayne Bravo,8 Jan 2018,v Scorchers,W.A.C.A,1,5,0*,-,1,0,0,0,not out,2,4.0,0,43,0,10.75
+51439,Dwayne Bravo,12 Jan 2018,v Stars,Melbourne (Docklands),2,4,26,-,18,2,1,144.44,caught,1,4.0,0,38,0,9.5
+51439,Dwayne Bravo,22 Jan 2018,v Strikers,Melbourne (Docklands),2,6,4,-,3,1,0,133.33,caught,1,4.0,0,30,2,7.5
+51439,Dwayne Bravo,24 Jan 2018,v Thunder,Canberra,1,4,16,-,18,0,1,88.88,caught,2,4.0,0,43,0,10.75
+51439,Dwayne Bravo,27 Jan 2018,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.5,0,25,3,6.52
+51439,Dwayne Bravo,2 Feb 2018,v Strikers,Adelaide,2,5,26,-,17,1,1,152.94,caught,1,4.0,0,47,1,11.75
+51439,Dwayne Bravo,7 Apr 2018,v MI,Wankhede,2,7,68,-,30,3,7,226.66,caught,1,4.0,0,25,0,6.25
+51439,Dwayne Bravo,10 Apr 2018,v KKR,Chennai,2,7,11*,-,5,0,1,220,not out,1,3.0,0,50,0,16.66
+51439,Dwayne Bravo,15 Apr 2018,v Kings XI,Mohali,2,7,1*,-,1,0,0,100,not out,1,4.0,0,37,1,9.25
+51439,Dwayne Bravo,20 Apr 2018,v RR,Pune,1,6,24*,-,16,4,0,150,not out,2,2.0,0,16,2,8
+51439,Dwayne Bravo,22 Apr 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,1,12.33
+51439,Dwayne Bravo,25 Apr 2018,v RCB,Bengaluru,2,7,14*,-,7,1,1,200,not out,1,4.0,1,33,2,8.25
+51439,Dwayne Bravo,28 Apr 2018,v MI,Pune,1,5,0,-,1,0,0,0,caught,2,3.0,0,21,1,7
+51439,Dwayne Bravo,30 Apr 2018,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,0,14.33
+51439,Dwayne Bravo,3 May 2018,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.4,0,22,0,13.2
+51439,Dwayne Bravo,5 May 2018,v RCB,Pune,2,6,14*,-,17,0,1,82.35,not out,1,2.0,0,17,0,8.5
+51439,Dwayne Bravo,11 May 2018,v RR,Jaipur,1,6,1*,-,1,0,0,100,not out,2,3.5,0,31,1,8.08
+51439,Dwayne Bravo,13 May 2018,v SRH,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+51439,Dwayne Bravo,18 May 2018,v Daredevils,Delhi,2,7,1,-,2,0,0,50,caught,1,4.0,0,52,0,13
+51439,Dwayne Bravo,20 May 2018,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+51439,Dwayne Bravo,22 May 2018,v SRH,Wankhede,2,6,7,-,11,0,0,63.63,caught,1,4.0,0,25,2,6.25
+51439,Dwayne Bravo,27 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+51439,Dwayne Bravo,5 Jul 2018,v Surrey,Lord's,2,5,1,5,2,0,0,50,caught,1,4.0,0,25,0,6.25
+51439,Dwayne Bravo,6 Jul 2018,v Essex,Chelmsford,1,6,6,9,9,0,0,66.66,caught,2,3.5,0,53,1,13.82
+51439,Dwayne Bravo,8 Jul 2018,v Gloucs,Uxbridge,1,6,34,36,27,3,1,125.92,hit wicket,2,3.0,0,24,2,8
+51439,Dwayne Bravo,19 Jul 2018,v Somerset,Lord's,1,6,32*,19,12,2,3,266.66,not out,2,4.0,0,38,2,9.5
+51439,Dwayne Bravo,20 Jul 2018,v Hampshire,Southampton,2,6,38,30,29,1,3,131.03,caught,1,3.4,0,28,1,7.63
+51439,Dwayne Bravo,26 Jul 2018,v Hampshire,Lord's,1,7,20,11,9,2,1,222.22,run out,2,3.5,0,31,1,8.08
+51439,Dwayne Bravo,8 Aug 2018,v Stars,Port of Spain,1,7,17,-,11,1,1,154.54,caught,2,3.0,0,11,3,3.66
+51439,Dwayne Bravo,10 Aug 2018,v Tallawahs,Port of Spain,1,8,0*,-,0,0,0,-,not out,2,4.0,0,59,0,14.75
+51439,Dwayne Bravo,11 Aug 2018,v Patriots,Port of Spain,2,7,10,-,6,0,1,166.66,caught,1,3.0,0,52,1,17.33
+51439,Dwayne Bravo,16 Aug 2018,v Stars,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+51439,Dwayne Bravo,19 Aug 2018,v Tallawahs,Lauderhill,2,6,36,-,11,0,5,327.27,caught,1,4.0,0,46,1,11.5
+51439,Dwayne Bravo,26 Aug 2018,v Tridents,Bridgetown,2,7,4*,-,2,1,0,200,not out,1,3.0,0,23,2,7.66
+51439,Dwayne Bravo,1 Sep 2018,v Patriots,Basseterre,1,6,37*,-,11,1,5,336.36,not out,2,4.0,0,26,1,6.5
+51439,Dwayne Bravo,5 Sep 2018,v Amazon,Port of Spain,1,6,12*,-,6,1,1,200,not out,2,3.0,0,22,2,7.33
+51439,Dwayne Bravo,7 Sep 2018,v Tridents,Port of Spain,1,6,33,-,20,3,2,165,caught,2,3.0,0,37,0,12.33
+51439,Dwayne Bravo,9 Sep 2018,v Amazon,Providence,1,6,14,-,14,0,1,100,bowled,2,2.1,0,40,0,18.46
+51439,Dwayne Bravo,11 Sep 2018,v Amazon,Providence,1,7,22,-,22,1,1,100,caught,2,3.5,0,39,1,10.17
+51439,Dwayne Bravo,14 Sep 2018,v Patriots,Tarouba,1,6,24,-,8,1,3,300,run out,2,4.0,0,44,0,11
+51439,Dwayne Bravo,16 Sep 2018,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+51439,Dwayne Bravo,18 Nov 2018,v Spartans,Paarl,2,5,14,18,10,1,1,140,caught,1,4.0,0,31,3,7.75
+51439,Dwayne Bravo,5 Dec 2018,v Spartans,Centurion,1,5,25,15,14,0,3,178.57,caught,2,4.0,0,24,1,6
+51439,Dwayne Bravo,7 Dec 2018,v Blitz,Cape Town,1,5,10,20,12,1,0,83.33,caught,2,4.0,0,18,2,4.5
+51439,Dwayne Bravo,9 Dec 2018,v Jozi Stars,Johannesburg,2,6,17*,15,10,0,2,170,not out,1,4.0,0,48,1,12
+51439,Dwayne Bravo,12 Dec 2018,v Giants,Paarl,2,5,0,2,2,0,0,0,caught,1,4.0,0,22,3,5.5
+51439,Dwayne Bravo,14 Dec 2018,v Jozi Stars,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,21 Dec 2018,v Thunder,Canberra,2,5,11,-,8,0,1,137.5,caught,1,4.0,0,28,1,7
+51439,Dwayne Bravo,24 Dec 2018,v Hurricanes,Hobart,1,6,12,-,12,2,0,100,caught,2,3.0,0,38,0,12.66
+51439,Dwayne Bravo,27 Dec 2018,v Sixers,Sydney,2,6,9*,-,4,1,0,225,not out,1,4.0,0,28,2,7
+51439,Dwayne Bravo,1 Jan 2019,v Renegades,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+51439,Dwayne Bravo,5 Jan 2019,v Thunder,Carrara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+51439,Dwayne Bravo,9 Jan 2019,v Scorchers,Melbourne,1,5,0,-,2,0,0,0,bowled,2,3.0,0,18,2,6
+51439,Dwayne Bravo,11 Jan 2019,v Strikers,Adelaide,2,6,33,-,23,1,2,143.47,caught,1,4.0,0,51,0,12.75
+51439,Dwayne Bravo,14 Jan 2019,v Hurricanes,Melbourne,2,6,19,-,16,1,1,118.75,caught,1,4.0,0,32,0,8
+51439,Dwayne Bravo,19 Jan 2019,v Renegades,Melbourne (Docklands),2,6,17*,-,9,2,1,188.88,not out,1,3.3,0,25,1,7.14
+51439,Dwayne Bravo,23 Jan 2019,v Strikers,Moe,1,-,DNB,-,-,-,-,-,-,2,3.4,0,22,3,6
+51439,Dwayne Bravo,27 Jan 2019,v Heat,Melbourne,1,6,17,-,21,0,0,80.95,caught,2,4.0,0,25,1,6.25
+51439,Dwayne Bravo,3 Feb 2019,v Scorchers,Perth,2,6,3,-,4,0,0,75,caught,1,4.0,0,41,0,10.25
+51439,Dwayne Bravo,8 Feb 2019,v Heat,Brisbane,1,7,21,-,16,1,1,131.25,run out,2,1.0,0,15,0,15
+51439,Dwayne Bravo,10 Feb 2019,v Sixers,Melbourne,1,6,0,-,0,0,0,-,run out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,14 Feb 2019,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+51439,Dwayne Bravo,17 Feb 2019,v Renegades,Melbourne (Docklands),2,7,3,-,3,0,0,100,caught,1,3.0,0,24,0,8
+51439,Dwayne Bravo,1 Mar 2019,v Sultans,Dubai (DICS),2,6,2*,-,5,0,0,40,not out,1,4.0,0,19,3,4.75
+51439,Dwayne Bravo,4 Mar 2019,v Zalmi,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+51439,Dwayne Bravo,5 Mar 2019,v United,Abu Dhabi,1,6,0,-,2,0,0,0,caught,2,4.0,0,29,1,7.25
+51439,Dwayne Bravo,10 Mar 2019,v Kings,Karachi,2,5,9,-,15,1,0,60,run out,1,4.0,0,34,0,8.5
+51439,Dwayne Bravo,13 Mar 2019,v Zalmi,Karachi,1,7,12*,-,7,2,0,171.42,not out,2,4.0,0,52,0,13
+51439,Dwayne Bravo,17 Mar 2019,v Zalmi,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+51439,Dwayne Bravo,23 Mar 2019,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,0.1,0,0,1,0
+51439,Dwayne Bravo,26 Mar 2019,v DC,Delhi,2,6,4*,1,3,1,0,133.33,not out,1,4.0,0,33,3,8.25
+51439,Dwayne Bravo,31 Mar 2019,v RR,Chennai,1,6,27,-,16,3,1,168.75,caught,2,4.0,0,32,2,8
+51439,Dwayne Bravo,3 Apr 2019,v MI,Wankhede,2,7,8,21,9,0,1,88.88,caught,1,4.0,0,49,1,12.25
+51439,Dwayne Bravo,21 Apr 2019,v RCB,Bengaluru,2,8,5,16,4,0,0,125,caught,1,4.0,0,34,2,8.5
+51439,Dwayne Bravo,23 Apr 2019,v SRH,Chennai,2,6,0*,1,0,0,0,-,not out,1,4.0,0,34,0,8.5
+51439,Dwayne Bravo,26 Apr 2019,v MI,Chennai,2,7,20,32,17,2,0,117.64,caught,1,4.0,0,35,0,8.75
+51439,Dwayne Bravo,1 May 2019,v DC,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+51439,Dwayne Bravo,5 May 2019,v Kings XI,Mohali,1,7,1*,3,1,0,0,100,not out,2,4.0,0,27,0,6.75
+51439,Dwayne Bravo,7 May 2019,v MI,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+51439,Dwayne Bravo,10 May 2019,v DC,Visakhapatnam,2,6,0*,2,1,0,0,0,not out,1,4.0,0,19,2,4.75
+51439,Dwayne Bravo,12 May 2019,v MI,Hyderabad,2,6,15,-,15,0,1,100,caught,1,3.0,0,24,0,8
+51439,Dwayne Bravo,15 Jan 2020,v Ireland,St George's,2,7,9,-,7,0,1,128.57,caught,1,4.0,0,28,2,7
+51439,Dwayne Bravo,18 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+51439,Dwayne Bravo,19 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.1,0,19,3,6
+51439,Dwayne Bravo,4 Mar 2020,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+51439,Dwayne Bravo,6 Mar 2020,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+51439,Dwayne Bravo,18 Aug 2020,v Amazon,Tarouba,2,7,6*,-,3,1,0,200,not out,1,4.0,0,40,1,10
+51439,Dwayne Bravo,20 Aug 2020,v Tallawahs,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+51439,Dwayne Bravo,23 Aug 2020,v Tridents,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+51439,Dwayne Bravo,26 Aug 2020,v Zouks,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,7,2,2.33
+51439,Dwayne Bravo,27 Aug 2020,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+51439,Dwayne Bravo,1 Sep 2020,v Tallawahs,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+51439,Dwayne Bravo,2 Sep 2020,v Patriots,Tarouba,1,7,6*,-,1,0,1,600,not out,2,2.0,0,17,1,8.5
+51439,Dwayne Bravo,5 Sep 2020,v Zouks,Tarouba,1,6,5*,-,2,1,0,250,not out,2,4.0,0,26,2,6.5
+51439,Dwayne Bravo,8 Sep 2020,v Tallawahs,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,0,4
+51439,Dwayne Bravo,10 Sep 2020,v Zouks,Tarouba,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+51439,Dwayne Bravo,2 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+51439,Dwayne Bravo,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+51439,Dwayne Bravo,7 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,3,9.25
+51439,Dwayne Bravo,10 Oct 2020,v RCB,Dubai (DICS),2,8,7,-,5,0,0,140,caught,1,3.0,0,29,0,9.66
+51439,Dwayne Bravo,13 Oct 2020,v SRH,Dubai (DICS),1,7,0,-,1,0,0,0,bowled,2,3.0,0,25,2,8.33
+51439,Dwayne Bravo,17 Oct 2020,v DC,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+51439,Dwayne Bravo,3 Mar 2021,v Sri Lanka,Coolidge,2,8,4*,27,17,0,0,23.52,not out,1,4.0,0,26,1,6.5
+51439,Dwayne Bravo,5 Mar 2021,v Sri Lanka,Coolidge,2,6,2,9,4,0,0,50,caught,1,4.0,0,25,2,6.25
+51439,Dwayne Bravo,7 Mar 2021,v Sri Lanka,Coolidge,2,8,0,2,1,0,0,0,caught,1,4.0,0,31,0,7.75
+51439,Dwayne Bravo,10 Apr 2021,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+51439,Dwayne Bravo,16 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+51439,Dwayne Bravo,19 Apr 2021,v RR,Wankhede,1,9,20*,12,8,2,1,250,not out,2,3.0,0,28,1,9.33
+51439,Dwayne Bravo,25 Apr 2021,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+51439,Dwayne Bravo,26 Jun 2021,v South Africa,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+51439,Dwayne Bravo,27 Jun 2021,v South Africa,St George's,2,9,10,9,6,2,0,166.66,caught,1,3.0,0,29,0,9.66
+51439,Dwayne Bravo,29 Jun 2021,v South Africa,St George's,2,9,0*,7,1,0,0,0,not out,1,4.0,0,25,3,6.25
+51439,Dwayne Bravo,1 Jul 2021,v South Africa,St George's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,4,4.75
+51439,Dwayne Bravo,3 Jul 2021,v South Africa,St George's,2,8,1,-,2,0,0,50,caught,1,4.0,0,28,1,7
+51439,Dwayne Bravo,9 Jul 2021,v Australia,Gros Islet,1,8,7*,3,3,0,1,233.33,not out,2,2.0,0,16,0,8
+51439,Dwayne Bravo,10 Jul 2021,v Australia,Gros Islet,1,5,47*,59,34,1,3,138.23,not out,2,3.0,0,29,1,9.66
+51439,Dwayne Bravo,12 Jul 2021,v Australia,Gros Islet,2,5,7,13,7,1,0,100,caught,1,3.0,0,17,1,5.66
+51439,Dwayne Bravo,28 Jul 2021,v Pakistan,Bridgetown,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,31 Jul 2021,v Pakistan,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+51439,Dwayne Bravo,1 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,3 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,26 Aug 2021,v Royals,Basseterre,1,6,47*,71,35,1,4,134.28,not out,2,3.0,0,37,0,12.33
+51439,Dwayne Bravo,28 Aug 2021,v Amazon,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+51439,Dwayne Bravo,29 Aug 2021,v Amazon,Basseterre,2,5,22,47,20,2,1,110,caught,1,4.0,0,38,0,9.5
+51439,Dwayne Bravo,1 Sep 2021,v Tallawahs,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+51439,Dwayne Bravo,2 Sep 2021,v Royals,Basseterre,2,7,9,21,7,0,1,128.57,caught,1,4.0,0,26,4,6.5
+51439,Dwayne Bravo,4 Sep 2021,v Kings,Basseterre,2,-,absent,-,-,-,-,-,-,1,3.2,0,50,0,15
+51439,Dwayne Bravo,11 Sep 2021,v Trinbago,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+51439,Dwayne Bravo,12 Sep 2021,v Trinbago,Basseterre,1,5,25,29,13,1,2,192.3,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,14 Sep 2021,v Amazon,Basseterre,2,3,34,53,31,3,1,109.67,bowled,1,DNB,-,-,-,-
+51439,Dwayne Bravo,15 Sep 2021,v Kings,Basseterre,2,5,8,22,11,0,0,72.72,caught,1,DNB,-,-,-,-
+51439,Dwayne Bravo,19 Sep 2021,v MI,Dubai (DICS),1,8,23,15,8,0,3,287.5,caught,2,4.0,0,25,3,6.25
+51439,Dwayne Bravo,24 Sep 2021,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+51439,Dwayne Bravo,30 Sep 2021,v SRH,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+51439,Dwayne Bravo,4 Oct 2021,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.4,0,20,1,12
+51439,Dwayne Bravo,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,8,4*,3,2,1,0,200,not out,2,2.0,0,32,0,16
+51439,Dwayne Bravo,10 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,1,10.33
+51439,Dwayne Bravo,15 Oct 2021,v KKR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+51439,Dwayne Bravo,23 Oct 2021,v England,Dubai (DICS),1,5,5,13,5,1,0,100,caught,2,DNB,-,-,-,-
+51439,Dwayne Bravo,26 Oct 2021,v South Africa,Dubai (DICS),1,8,8*,12,5,1,0,160,not out,2,4.0,0,23,0,5.75
+51439,Dwayne Bravo,29 Oct 2021,v Bangladesh,Sharjah,1,8,1,7,3,0,0,33.33,caught,2,4.0,0,36,1,9
+51439,Dwayne Bravo,4 Nov 2021,v Sri Lanka,Abu Dhabi,2,9,2,7,3,0,0,66.66,bowled,1,4.0,0,42,1,10.5
+51439,Dwayne Bravo,6 Nov 2021,v Australia,Abu Dhabi,1,7,10,26,12,0,1,83.33,caught,2,4.0,0,36,0,9
+51439,Dwayne Bravo,21 Jan 2022,v Chattogram,Mirpur,2,6,12*,24,10,1,0,120,not out,1,4.0,0,39,1,9.75
+51439,Dwayne Bravo,24 Jan 2022,v Dhaka,Mirpur,1,7,33*,39,26,3,1,126.92,not out,2,3.0,0,16,1,5.33
+51439,Dwayne Bravo,25 Jan 2022,v Victorians,Mirpur,2,7,0,7,3,0,0,0,caught,1,4.0,0,30,3,7.5
+51439,Dwayne Bravo,31 Jan 2022,v Khulna,Chattogram,1,1,9,5,5,2,0,180,caught,2,4.0,0,40,3,10
+51439,Dwayne Bravo,1 Feb 2022,v Chattogram,Chattogram,1,6,4,10,6,0,0,66.66,caught,2,3.4,0,35,2,9.54
+51439,Dwayne Bravo,7 Feb 2022,v Victorians,Sylhet,1,6,10,12,6,0,1,166.66,caught,2,4.0,0,29,2,7.25
+51439,Dwayne Bravo,8 Feb 2022,v Sunrisers,Sylhet,1,6,34*,19,13,1,4,261.53,not out,2,4.0,0,42,2,10.5
+51439,Dwayne Bravo,11 Feb 2022,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+51439,Dwayne Bravo,14 Feb 2022,v Victorians,Mirpur,1,7,17,33,21,0,1,80.95,bowled,2,4.0,0,26,1,6.5
+51439,Dwayne Bravo,18 Feb 2022,v Victorians,Mirpur,2,7,1,3,2,0,0,50,lbw,1,4.0,0,26,1,6.5
+51439,Dwayne Bravo,26 Mar 2022,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+51439,Dwayne Bravo,31 Mar 2022,v LSG,Brabourne,1,9,1*,3,1,0,0,100,not out,2,4.0,0,35,1,8.75
+51439,Dwayne Bravo,3 Apr 2022,v Punjab Kings,Brabourne,2,8,0,2,1,0,0,0,caught,1,3.0,0,32,1,10.66
+51439,Dwayne Bravo,9 Apr 2022,v SRH,DY Patil,1,8,8*,16,5,1,0,160,not out,2,2.4,0,29,1,10.87
+51439,Dwayne Bravo,12 Apr 2022,v RCB,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+51439,Dwayne Bravo,17 Apr 2022,v GT,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,1,23,3,5.75
+51439,Dwayne Bravo,21 Apr 2022,v MI,DY Patil,2,9,1*,6,1,0,0,100,not out,1,4.0,0,36,2,9
+51439,Dwayne Bravo,25 Apr 2022,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+51439,Dwayne Bravo,8 May 2022,v DC,DY Patil,1,8,1*,3,1,0,0,100,not out,2,2.4,0,24,2,9
+51439,Dwayne Bravo,12 May 2022,v MI,Wankhede,1,8,12,24,15,0,1,80,caught,2,2.0,0,16,0,8
+51439,Dwayne Bravo,3 Jun 2022,v Bears,Worcester,1,7,2*,3,3,0,0,66.66,not out,2,4.0,0,34,1,8.5
+51439,Dwayne Bravo,5 Jun 2022,v Leics,Worcester,2,8,1,4,3,0,0,33.33,lbw,1,4.0,0,45,1,11.25
+51439,Dwayne Bravo,9 Jun 2022,v Northants,Northampton,2,9,15,9,8,1,1,187.5,caught,1,4.0,0,15,2,3.75
+51439,Dwayne Bravo,10 Jun 2022,v Derbyshire,Worcester,2,9,2,7,5,0,0,40,caught,1,4.0,0,28,2,7
+51439,Dwayne Bravo,17 Jun 2022,v Leics,Leicester,1,8,21,19,20,0,2,105,caught,2,3.0,0,27,0,9
+51439,Dwayne Bravo,18 Jun 2022,v Northants,Worcester,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,23 Jun 2022,v Yorkshire,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+51439,Dwayne Bravo,24 Jun 2022,v Bears,Birmingham,2,6,0,1,1,0,0,0,caught,1,4.0,0,38,0,9.5
+51439,Dwayne Bravo,1 Jul 2022,v Lancashire,Worcester,1,8,10*,7,5,0,1,200,not out,2,3.3,0,26,1,7.42
+51439,Dwayne Bravo,3 Jul 2022,v Notts,Worcester,1,8,10,22,12,1,0,83.33,caught,2,3.4,0,38,1,10.36
+51439,Dwayne Bravo,5 Aug 2022,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,9.6
+51439,Dwayne Bravo,9 Aug 2022,v Rockets,Leeds,1,4,19,-,12,3,0,158.33,caught,2,4.0,0,28,1,8.4
+51439,Dwayne Bravo,11 Aug 2022,v Invincibles,The Oval,1,8,0,4,1,0,0,0,caught,2,4.0,0,29,2,8.7
+51439,Dwayne Bravo,14 Aug 2022,v Spirit,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,9
+51439,Dwayne Bravo,19 Aug 2022,v Phoenix,Birmingham,1,8,5*,9,6,0,0,83.33,not out,2,4.0,0,21,1,6.3
+51439,Dwayne Bravo,21 Aug 2022,v Originals,Leeds,2,8,3*,9,6,0,0,50,not out,1,4.0,0,42,2,12.6
+51439,Dwayne Bravo,31 Aug 2022,v Tallawahs,Basseterre,2,6,13,-,10,0,1,130,caught,1,4.0,0,46,1,11.5
+51439,Dwayne Bravo,1 Sep 2022,v Royals,Basseterre,1,7,7,-,5,0,1,140,caught,2,4.0,0,33,2,8.25
+51439,Dwayne Bravo,3 Sep 2022,v Trinbago,Basseterre,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,8 Sep 2022,v Amazon,Gros Islet,2,6,4,10,5,0,0,80,caught,1,4.0,0,28,1,7
+51439,Dwayne Bravo,14 Sep 2022,v Tallawahs,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+51439,Dwayne Bravo,17 Sep 2022,v Kings,Tarouba,2,6,3,12,11,0,0,27.27,lbw,1,4.0,0,26,2,6.5
+51439,Dwayne Bravo,21 Sep 2022,v Royals,Providence,2,7,9,18,8,1,0,112.5,run out,1,4.0,0,44,1,11
+51439,Dwayne Bravo,22 Sep 2022,v Trinbago,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,2,11.5
+51439,Dwayne Bravo,12 Feb 2023,v Barishal,Mirpur,2,7,2,7,3,0,0,66.66,caught,1,4.0,0,29,0,7.25
+51439,Dwayne Bravo,14 Feb 2023,v Strikers,Mirpur,2,8,0,1,1,0,0,0,caught,1,4.0,0,31,1,7.75
+51439,Dwayne Bravo,19 Aug 2023,v Patriots,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+51439,Dwayne Bravo,26 Aug 2023,v Kings,Basseterre,2,6,1,10,4,0,0,25,lbw,1,4.0,0,31,2,7.75
+51439,Dwayne Bravo,27 Aug 2023,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,2,10.75
+51439,Dwayne Bravo,30 Aug 2023,v Royals,Bridgetown,1,6,0,1,1,0,0,0,run out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,20 Sep 2023,v Amazon,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+51439,Dwayne Bravo,24 Sep 2023,v Amazon,Providence,1,8,8,21,18,1,0,44.44,lbw,2,DNB,-,-,-,-
+51439,Dwayne Bravo,20 Jan 2024,v DC,Dubai (DICS),1,8,2,4,4,0,0,50,lbw,2,2.0,0,23,0,11.5
+51439,Dwayne Bravo,21 Jan 2024,v Gulf Giants,Abu Dhabi,1,7,1*,16,2,0,0,50,not out,2,4.0,0,29,1,7.25
+51439,Dwayne Bravo,23 Jan 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+51439,Dwayne Bravo,26 Jan 2024,v Warriors,Sharjah,1,7,2*,18,5,0,0,40,not out,2,2.0,0,7,1,3.5
+51439,Dwayne Bravo,28 Jan 2024,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+51439,Dwayne Bravo,30 Jan 2024,v Vipers,Dubai (DICS),1,8,10*,10,10,1,0,100,not out,2,4.0,0,30,2,7.5
+51439,Dwayne Bravo,10 Feb 2024,v DC,Abu Dhabi,2,8,7,19,9,0,0,77.77,bowled,1,2.0,0,22,1,11
+51439,Dwayne Bravo,14 Feb 2024,v Gulf Giants,Dubai (DICS),1,5,30,40,28,2,1,107.14,caught,2,3.0,0,24,1,8
+51439,Dwayne Bravo,17 Feb 2024,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+51439,Dwayne Bravo,8 Jul 2024,v Washington,Morrisville,1,7,5*,-,2,1,0,250,not out,2,DNB,-,-,-,-
+51439,Dwayne Bravo,10 Jul 2024,v SF,Morrisville,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,2,6.66
+51439,Dwayne Bravo,14 Jul 2024,v MI New York,Dallas,1,8,7*,-,5,1,0,140,not out,2,4.0,0,32,0,8
+51439,Dwayne Bravo,19 Jul 2024,v Washington,Dallas,2,8,1,-,2,0,0,50,stumped,1,4.0,0,40,2,10
+51439,Dwayne Bravo,24 Jul 2024,v MI New York,Dallas,2,-,DNB,-,-,-,-,-,-,1,1.3,0,21,1,14
+51439,Dwayne Bravo,31 Aug 2024,v Patriots,Basseterre,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+51439,Dwayne Bravo,18 Sep 2024,v Amazon,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+51439,Dwayne Bravo,22 Sep 2024,v Patriots,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+51439,Dwayne Bravo,24 Sep 2024,v Kings,Tarouba,2,11,0*,1,2,0,0,0,retired notout,1,DNB,-,-,-,-

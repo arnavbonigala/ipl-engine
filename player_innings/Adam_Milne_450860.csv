@@ -1,0 +1,227 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+450860,Adam Milne,11 Sep 2010,v CSK,Durban,2,9,2*,9,3,0,0,66.66,not out,1,4.0,0,28,1,7
+450860,Adam Milne,18 Sep 2010,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+450860,Adam Milne,2 Dec 2010,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,1,19,2,4.75
+450860,Adam Milne,3 Dec 2010,v Auckland,Auckland,2,11,1*,2,1,0,0,100,not out,1,4.0,0,23,0,5.75
+450860,Adam Milne,9 Dec 2010,v Wellington,Nelson,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+450860,Adam Milne,10 Dec 2010,v Canterbury,Nelson,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,2,6.33
+450860,Adam Milne,12 Dec 2010,v Otago,Invercargill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,2,12.75
+450860,Adam Milne,19 Dec 2010,v Canterbury,Christchurch,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+450860,Adam Milne,23 Dec 2010,v Northern Dis,New Plymouth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+450860,Adam Milne,26 Dec 2010,v Pakistan,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+450860,Adam Milne,30 Dec 2010,v Pakistan,Christchurch,2,11,3*,5,7,0,0,42.85,not out,1,4.0,0,48,1,12
+450860,Adam Milne,2 Jan 2011,v Auckland,Auckland,2,11,0*,3,0,0,0,-,not out,1,2.0,0,28,0,14
+450860,Adam Milne,27 Dec 2011,v Wellington,Wellington,1,11,1*,4,4,0,0,25,not out,2,3.5,0,29,1,7.56
+450860,Adam Milne,2 Jan 2012,v Otago,Nelson,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,3,8.25
+450860,Adam Milne,5 Jan 2012,v Northern Dis,Mt Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+450860,Adam Milne,8 Jan 2012,v Canterbury,Rangiora,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+450860,Adam Milne,14 Jan 2012,v Northern Dis,Napier,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+450860,Adam Milne,18 Jan 2012,v Wellington,New Plymouth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+450860,Adam Milne,11 Sep 2012,v India,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+450860,Adam Milne,23 Sep 2012,v Pakistan,Pallekele,2,11,0*,2,0,0,0,-,not out,1,1.0,0,12,0,12
+450860,Adam Milne,23 Nov 2012,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+450860,Adam Milne,7 Dec 2012,v Wellington,Napier,2,8,18*,26,15,1,0,120,not out,1,4.0,0,49,1,12.25
+450860,Adam Milne,26 Dec 2012,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,3.0,0,52,1,17.33
+450860,Adam Milne,29 Dec 2012,v Northern Dis,New Plymouth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+450860,Adam Milne,1 Jan 2013,v Canterbury,Nelson,1,9,11*,11,6,2,0,183.33,not out,2,3.0,0,36,0,12
+450860,Adam Milne,3 Jan 2013,v Canterbury,Nelson,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+450860,Adam Milne,6 Jan 2013,v Otago,Dunedin,2,6,2,7,4,0,0,50,bowled,1,DNB,-,-,-,-
+450860,Adam Milne,5 Jan 2014,v Otago,New Plymouth,1,9,10*,13,6,0,1,166.66,not out,2,4.0,0,19,0,4.75
+450860,Adam Milne,11 Jan 2014,v West Indies,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+450860,Adam Milne,15 Jan 2014,v West Indies,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+450860,Adam Milne,31 Oct 2014,v South Island,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+450860,Adam Milne,2 Nov 2014,v Canterbury,Hamilton,1,9,16*,6,6,2,0,266.66,not out,2,4.0,1,14,1,3.5
+450860,Adam Milne,9 Nov 2014,v Northern Dis,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+450860,Adam Milne,13 Nov 2014,v Otago,Dunedin,2,-,DNB,-,-,-,-,-,-,1,4.0,1,30,3,7.5
+450860,Adam Milne,15 Nov 2014,v Auckland,Auckland,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+450860,Adam Milne,16 Nov 2014,v Wellington,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+450860,Adam Milne,4 Dec 2014,v Pakistan,Dubai (DICS),1,9,2*,4,3,0,0,66.66,not out,2,4.0,0,18,0,4.5
+450860,Adam Milne,9 Aug 2015,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,2,2.5
+450860,Adam Milne,14 Aug 2015,v South Africa,Durban,1,10,2*,3,2,0,0,100,not out,2,3.5,0,23,1,6
+450860,Adam Milne,16 Aug 2015,v South Africa,Centurion,1,9,10*,8,7,1,0,142.85,not out,2,4.0,0,27,1,6.75
+450860,Adam Milne,11 Nov 2015,v Auckland,New Plymouth,2,8,8,18,8,1,0,100,caught,1,4.0,0,23,1,5.75
+450860,Adam Milne,15 Nov 2015,v Auckland,Auckland,2,9,10*,3,4,0,1,250,not out,1,4.0,0,32,1,8
+450860,Adam Milne,19 Nov 2015,v Wellington,Nelson,2,9,9,8,6,1,0,150,caught,1,4.0,0,44,1,11
+450860,Adam Milne,26 Nov 2015,v Northern Dis,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,1,31,2,7.75
+450860,Adam Milne,29 Nov 2015,v Northern Dis,New Plymouth,2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,1,6.5
+450860,Adam Milne,4 Dec 2015,v Wellington,Napier,1,9,6,5,5,1,0,120,bowled,2,4.0,0,18,2,4.5
+450860,Adam Milne,6 Dec 2015,v Canterbury,Christchurch,2,8,1,6,2,0,0,50,bowled,1,4.0,0,22,0,5.5
+450860,Adam Milne,10 Jan 2016,v Sri Lanka,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+450860,Adam Milne,15 Jan 2016,v Pakistan,Auckland,2,10,2*,-,2,0,0,100,not out,1,4.0,0,37,4,9.25
+450860,Adam Milne,17 Jan 2016,v Pakistan,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+450860,Adam Milne,22 Jan 2016,v Pakistan,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.1,1,8,3,2.52
+450860,Adam Milne,28 Feb 2016,v South Island,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,2,6.25
+450860,Adam Milne,15 Mar 2016,v India,Nagpur,1,-,DNB,-,-,-,-,-,-,2,2.1,0,8,1,3.69
+450860,Adam Milne,18 Mar 2016,v Australia,Dharamsala,1,9,2*,1,2,0,0,100,not out,2,2.0,0,22,0,11
+450860,Adam Milne,22 Mar 2016,v Pakistan,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+450860,Adam Milne,30 Mar 2016,v England,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+450860,Adam Milne,12 Apr 2016,v SRH,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+450860,Adam Milne,16 Apr 2017,v Supergiant,Bengaluru,2,8,2,9,3,0,0,66.66,bowled,1,4.0,0,27,2,6.75
+450860,Adam Milne,18 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+450860,Adam Milne,29 Apr 2017,v Supergiant,Pune,2,8,5,10,8,0,0,62.5,caught,1,4.0,0,35,0,8.75
+450860,Adam Milne,1 May 2017,v MI,Wankhede,1,8,0*,3,1,0,0,0,not out,2,2.0,0,29,0,14.5
+450860,Adam Milne,9 Jul 2017,v Essex,Beckenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+450860,Adam Milne,13 Jul 2017,v Gloucs,Cheltenham,1,9,17*,13,13,0,1,130.76,not out,2,4.0,0,28,2,7
+450860,Adam Milne,14 Jul 2017,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+450860,Adam Milne,27 Jul 2017,v Somerset,Canterbury,2,-,DNB,-,-,-,-,-,-,1,2.0,0,34,0,17
+450860,Adam Milne,12 Aug 2017,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.5,1,11,5,2.86
+450860,Adam Milne,17 Aug 2017,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+450860,Adam Milne,18 Aug 2017,v Surrey,Canterbury,2,8,2,6,2,0,0,100,lbw,1,4.0,0,26,3,6.5
+450860,Adam Milne,4 Nov 2017,v India,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+450860,Adam Milne,13 Dec 2017,v Auckland,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+450860,Adam Milne,6 Jul 2018,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.5,0,22,3,5.73
+450860,Adam Milne,8 Jul 2018,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+450860,Adam Milne,11 Jul 2018,v Gloucs,Bristol,2,9,17*,14,8,3,0,212.5,not out,1,4.0,0,37,1,9.25
+450860,Adam Milne,20 Jul 2018,v Surrey,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+450860,Adam Milne,27 Jul 2018,v Sussex,Canterbury,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,2 Aug 2018,v Essex,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,4,3.75
+450860,Adam Milne,3 Aug 2018,v Hampshire,Southampton,1,9,6*,10,8,0,0,75,not out,2,3.0,0,14,3,4.66
+450860,Adam Milne,5 Aug 2018,v Gloucs,Canterbury,1,-,DNB,-,-,-,-,-,-,2,3.2,0,17,0,5.1
+450860,Adam Milne,12 Aug 2018,v Middlesex,Beckenham,2,9,0*,2,0,0,0,-,not out,1,4.0,0,37,0,9.25
+450860,Adam Milne,16 Aug 2018,v Somerset,Canterbury,1,-,DNB,-,-,-,-,-,-,2,3.4,0,37,0,10.09
+450860,Adam Milne,17 Aug 2018,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+450860,Adam Milne,23 Aug 2018,v Lancashire,Canterbury,1,9,0,4,1,0,0,0,lbw,2,3.4,0,30,1,8.18
+450860,Adam Milne,31 Oct 2018,v Pakistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+450860,Adam Milne,2 Nov 2018,v Pakistan,Dubai (DICS),1,9,0*,-,0,0,0,-,not out,2,2.4,0,25,2,9.37
+450860,Adam Milne,9 Feb 2019,v Auckland,Auckland,1,9,3,-,7,0,0,42.85,run out,2,4.0,0,35,2,8.75
+450860,Adam Milne,15 Feb 2019,v Auckland,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+450860,Adam Milne,17 Feb 2019,v Northern Dis,Hamilton,1,8,14*,22,11,2,0,127.27,not out,2,2.4,0,12,3,4.5
+450860,Adam Milne,20 Jul 2019,v Somerset,Canterbury,1,8,11,13,9,2,0,122.22,bowled,2,3.3,0,15,2,4.28
+450860,Adam Milne,21 Jul 2019,v Hampshire,Southampton,2,8,16,11,9,1,1,177.77,bowled,1,4.0,0,29,0,7.25
+450860,Adam Milne,26 Jul 2019,v Essex,Canterbury,1,8,3*,8,3,0,0,100,not out,2,4.0,0,36,1,9
+450860,Adam Milne,30 Jul 2019,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,1,8,1,4
+450860,Adam Milne,1 Aug 2019,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+450860,Adam Milne,2 Aug 2019,v Sussex,Hove,1,8,0,5,2,0,0,0,caught,2,3.0,0,27,1,9
+450860,Adam Milne,4 Aug 2019,v Hampshire,Beckenham,2,8,12*,7,4,2,0,300,not out,1,4.0,0,21,3,5.25
+450860,Adam Milne,7 Aug 2019,v Gloucs,Bristol,1,8,3,6,3,0,0,100,caught,2,3.0,0,30,0,10
+450860,Adam Milne,10 Aug 2019,v Somerset,Taunton,2,8,15,20,10,1,1,150,caught,1,4.0,0,35,2,8.75
+450860,Adam Milne,22 Dec 2020,v Scorchers,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+450860,Adam Milne,26 Dec 2020,v Renegades,Canberra,1,10,3*,-,2,0,0,150,not out,2,3.0,0,21,2,7
+450860,Adam Milne,29 Dec 2020,v Stars,Canberra,1,9,3*,-,3,0,0,100,not out,2,4.0,0,34,0,8.5
+450860,Adam Milne,4 Jan 2021,v Heat,Brisbane,1,10,1*,-,1,0,0,100,not out,2,4.0,0,38,0,9.5
+450860,Adam Milne,7 Jan 2021,v Hurricanes,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+450860,Adam Milne,9 Jan 2021,v Scorchers,Perth,2,9,1,-,2,0,0,50,caught,1,4.0,0,36,0,9
+450860,Adam Milne,13 Jan 2021,v Sixers,Canberra,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+450860,Adam Milne,18 Jan 2021,v Hurricanes,Canberra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+450860,Adam Milne,22 Jan 2021,v Sixers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+450860,Adam Milne,24 Jan 2021,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,6,1,1.5
+450860,Adam Milne,25 Jan 2021,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+450860,Adam Milne,31 Jan 2021,v Heat,Canberra,1,9,0,-,0,0,0,-,run out,2,4.0,0,37,0,9.25
+450860,Adam Milne,30 Mar 2021,v Bangladesh,Napier,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,2,11.33
+450860,Adam Milne,1 Apr 2021,v Bangladesh,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,1,12
+450860,Adam Milne,17 Apr 2021,v SRH,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+450860,Adam Milne,28 Jun 2021,v Somerset,Canterbury,1,8,1,5,2,0,0,50,caught,2,3.0,0,35,0,11.66
+450860,Adam Milne,2 Jul 2021,v Surrey,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,4,9.5
+450860,Adam Milne,9 Jul 2021,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+450860,Adam Milne,23 Jul 2021,v Spirit,Birmingham,2,9,4*,2,1,1,0,400,not out,1,4.0,0,18,2,5.4
+450860,Adam Milne,25 Jul 2021,v Originals,Manchester,1,9,5*,9,2,1,0,250,not out,2,1.0,0,5,0,6
+450860,Adam Milne,30 Jul 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,4.5
+450860,Adam Milne,1 Aug 2021,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.9
+450860,Adam Milne,4 Aug 2021,v Invincibles,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,10.8
+450860,Adam Milne,9 Aug 2021,v Fire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,6
+450860,Adam Milne,17 Aug 2021,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,7.2
+450860,Adam Milne,21 Aug 2021,v Brave,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,1,8,2,2.4
+450860,Adam Milne,27 Aug 2021,v Bears,Canterbury,1,8,8*,4,3,0,1,266.66,not out,2,4.0,0,30,1,7.5
+450860,Adam Milne,19 Sep 2021,v CSK,Dubai (DICS),2,8,15,29,15,0,1,100,caught,1,4.0,0,21,2,5.25
+450860,Adam Milne,23 Sep 2021,v KKR,Abu Dhabi,1,8,1*,3,1,0,0,100,not out,2,3.0,0,29,0,9.66
+450860,Adam Milne,26 Sep 2021,v RCB,Dubai (DICS),2,8,0,14,1,0,0,0,bowled,1,4.0,0,48,1,12
+450860,Adam Milne,31 Oct 2021,v India,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+450860,Adam Milne,3 Nov 2021,v Scotland,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,36,0,9
+450860,Adam Milne,5 Nov 2021,v Namibia,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+450860,Adam Milne,7 Nov 2021,v Afghanistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+450860,Adam Milne,10 Nov 2021,v England,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+450860,Adam Milne,14 Nov 2021,v Australia,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+450860,Adam Milne,19 Nov 2021,v India,Ranchi,1,8,5*,13,4,0,0,125,not out,2,3.0,0,39,0,13
+450860,Adam Milne,21 Nov 2021,v India,Eden Gardens,2,8,7,15,6,0,1,116.66,caught,1,4.0,0,47,1,11.75
+450860,Adam Milne,18 Dec 2021,v Otago,Napier,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+450860,Adam Milne,22 Jan 2022,v Auckland,Auckland,1,7,8,10,8,1,0,100,caught,2,4.0,0,22,1,5.5
+450860,Adam Milne,26 Mar 2022,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.3,0,19,0,7.6
+450860,Adam Milne,9 Oct 2022,v Bangladesh,Christchurch,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+450860,Adam Milne,12 Oct 2022,v Bangladesh,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+450860,Adam Milne,20 Nov 2022,v India,Mount Maunganui,2,8,6,8,5,0,1,120,caught,1,4.0,0,35,0,8.75
+450860,Adam Milne,22 Nov 2022,v India,Napier,1,8,0,5,1,0,0,0,run out,2,2.0,0,23,1,11.5
+450860,Adam Milne,24 Dec 2022,v Otago,Wellington,1,8,12,-,9,0,1,133.33,caught,2,4.0,0,24,2,6
+450860,Adam Milne,27 Dec 2022,v Central D,Palmerston North,1,7,15*,19,9,0,1,166.66,not out,2,4.0,0,37,1,9.25
+450860,Adam Milne,15 Jan 2023,v Otago,Dunedin,1,8,22,27,19,1,1,115.78,caught,2,4.0,0,25,1,6.25
+450860,Adam Milne,5 Feb 2023,v Auckland,Wellington,2,9,1,3,3,0,0,33.33,caught,1,4.0,0,24,2,6
+450860,Adam Milne,2 Apr 2023,v Sri Lanka,Auckland,2,8,3,13,4,0,0,75,caught,1,4.0,0,42,1,10.5
+450860,Adam Milne,5 Apr 2023,v Sri Lanka,Dunedin,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,5,6.5
+450860,Adam Milne,8 Apr 2023,v Sri Lanka,Queenstown,2,8,0*,1,1,0,0,0,not out,1,4.0,1,30,1,7.5
+450860,Adam Milne,14 Apr 2023,v Pakistan,Lahore,2,8,3,7,5,0,0,60,caught,1,4.0,0,51,2,12.75
+450860,Adam Milne,17 Apr 2023,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+450860,Adam Milne,20 Apr 2023,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,24 Apr 2023,v Pakistan,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+450860,Adam Milne,3 Aug 2023,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,7 Aug 2023,v Originals,Manchester,2,9,13,19,16,0,0,81.25,bowled,1,4.0,0,33,2,9.9
+450860,Adam Milne,10 Aug 2023,v Fire,Birmingham,1,9,0*,2,3,0,0,0,not out,2,2.0,1,23,0,13.8
+450860,Adam Milne,13 Aug 2023,v Invincibles,Birmingham,1,10,6*,1,1,0,1,600,not out,2,4.0,0,18,2,5.4
+450860,Adam Milne,16 Aug 2023,v Brave,Southampton,1,9,3*,7,5,0,0,60,not out,2,2.0,0,18,0,10.8
+450860,Adam Milne,19 Aug 2023,v Rockets,Nottingham,2,9,1,5,2,0,0,50,bowled,1,4.0,0,24,2,7.2
+450860,Adam Milne,24 Aug 2023,v Spirit,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,6
+450860,Adam Milne,30 Aug 2023,v England,Chester-le-Street,1,8,10,18,9,0,1,111.11,bowled,2,3.0,0,30,0,10
+450860,Adam Milne,1 Sep 2023,v England,Manchester,2,8,2,3,3,0,0,66.66,caught,1,4.0,0,23,0,5.75
+450860,Adam Milne,27 Dec 2023,v Bangladesh,Napier,1,8,16*,28,12,0,2,133.33,not out,2,3.4,0,38,1,10.36
+450860,Adam Milne,29 Dec 2023,v Bangladesh,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,31 Dec 2023,v Bangladesh,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,3.2,0,23,2,6.9
+450860,Adam Milne,4 Jan 2024,v Auckland,Auckland,2,9,0,5,3,0,0,0,caught,1,4.0,0,46,0,11.5
+450860,Adam Milne,12 Jan 2024,v Pakistan,Auckland,1,7,10,13,11,0,1,90.9,caught,2,4.0,0,50,2,12.5
+450860,Adam Milne,14 Jan 2024,v Pakistan,Hamilton,1,8,0,1,1,0,0,0,caught,2,4.0,0,33,4,8.25
+450860,Adam Milne,19 Jan 2024,v Pakistan,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+450860,Adam Milne,22 Jan 2024,v Canterbury,Wellington,2,9,12*,9,4,3,0,300,not out,1,4.0,0,34,0,8.5
+450860,Adam Milne,26 Jan 2024,v Canterbury,Hamilton,1,9,0*,-,0,0,0,-,not out,2,4.0,0,32,1,8
+450860,Adam Milne,21 Feb 2024,v Australia,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,53,1,13.25
+450860,Adam Milne,23 Feb 2024,v Australia,Auckland,2,7,0,1,1,0,0,0,bowled,1,4.0,0,40,2,10
+450860,Adam Milne,25 Feb 2024,v Australia,Auckland,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+450860,Adam Milne,23 Jul 2024,v Invincibles,The Oval,1,9,0,1,1,0,0,0,lbw,2,3.0,0,29,0,11.6
+450860,Adam Milne,27 Jul 2024,v Spirit,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,13.5
+450860,Adam Milne,31 Jul 2024,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,6
+450860,Adam Milne,3 Aug 2024,v Brave,Birmingham,2,10,2*,5,2,0,0,100,not out,1,4.0,0,25,0,7.5
+450860,Adam Milne,6 Aug 2024,v N S-Chargers,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,6
+450860,Adam Milne,10 Aug 2024,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,8.1
+450860,Adam Milne,12 Aug 2024,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,5.1
+450860,Adam Milne,15 Aug 2024,v Originals,Birmingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,8,2,4.8
+450860,Adam Milne,17 Aug 2024,v Brave,The Oval,2,9,1*,2,2,0,0,50,not out,1,4.0,0,18,3,5.4
+450860,Adam Milne,15 Dec 2024,v Scorchers,Perth,1,9,2,2,3,0,0,66.66,caught,2,3.0,0,30,1,10
+450860,Adam Milne,18 Dec 2024,v Heat,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+450860,Adam Milne,20 Dec 2024,v Strikers,Adelaide,2,9,3,8,4,0,0,75,caught,1,4.0,0,32,2,8
+450860,Adam Milne,12 Jan 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+450860,Adam Milne,15 Jan 2025,v KnightRiders,Abu Dhabi,2,11,1*,9,2,0,0,50,not out,1,4.0,0,37,2,9.25
+450860,Adam Milne,17 Jan 2025,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+450860,Adam Milne,19 Jan 2025,v MI Emirates,Sharjah,1,10,8*,4,5,0,1,160,not out,2,4.0,0,16,0,4
+450860,Adam Milne,22 Jan 2025,v Vipers,Dubai (DICS),1,11,4,-,5,0,0,80,caught,2,2.0,0,11,0,5.5
+450860,Adam Milne,25 Jan 2025,v Vipers,Sharjah,1,10,1*,8,4,0,0,25,not out,2,3.0,0,17,2,5.66
+450860,Adam Milne,26 Jan 2025,v Gulf Giants,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+450860,Adam Milne,28 Jan 2025,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+450860,Adam Milne,30 Jan 2025,v KnightRiders,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+450860,Adam Milne,2 Feb 2025,v MI Emirates,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+450860,Adam Milne,6 Feb 2025,v MI Emirates,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+450860,Adam Milne,7 Feb 2025,v Vipers,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.4,0,26,2,7.09
+450860,Adam Milne,12 Apr 2025,v Sultans,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,60,0,15
+450860,Adam Milne,15 Apr 2025,v Qalandars,Karachi,2,10,16,18,7,2,1,228.57,bowled,1,4.0,0,31,0,7.75
+450860,Adam Milne,13 Jun 2025,v MI New York,Oakland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+450860,Adam Milne,15 Jun 2025,v Los Angeles,Oakland,1,-,DNB,-,-,-,-,-,-,2,3.1,0,8,2,2.52
+450860,Adam Milne,20 Jun 2025,v SF,Dallas,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+450860,Adam Milne,22 Jun 2025,v Washington,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+450860,Adam Milne,5 Jul 2025,v Seattle,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.4,1,23,5,6.27
+450860,Adam Milne,8 Jul 2025,v Washington,Dallas,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,11 Jul 2025,v MI New York,Dallas,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+450860,Adam Milne,18 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+450860,Adam Milne,22 Jul 2025,v South Africa,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+450860,Adam Milne,26 Jul 2025,v South Africa,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+450860,Adam Milne,8 Aug 2025,v Rockets,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.3,0,29,0,9.66
+450860,Adam Milne,10 Aug 2025,v Brave,Southampton,1,9,6*,6,3,1,0,200,not out,2,3.0,0,13,0,5.2
+450860,Adam Milne,12 Aug 2025,v Invincibles,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,8.4
+450860,Adam Milne,15 Aug 2025,v N S-Chargers,Leeds,2,8,9,5,5,0,1,180,caught,1,3.0,0,28,0,11.2
+450860,Adam Milne,17 Aug 2025,v Spirit,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4.8
+450860,Adam Milne,22 Aug 2025,v Fire,Birmingham,1,8,0,2,2,0,0,0,run out,2,3.0,0,32,1,12.8
+450860,Adam Milne,24 Aug 2025,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,13.2
+450860,Adam Milne,27 Aug 2025,v Rockets,Nottingham,1,9,6,10,12,0,0,50,caught,2,1.0,0,3,0,3.6
+450860,Adam Milne,27 Dec 2025,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,2,3.5
+450860,Adam Milne,29 Dec 2025,v Capitals,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,4,6.25
+450860,Adam Milne,31 Dec 2025,v Paarl Royals,Gqeberha,1,9,0,2,2,0,0,0,caught,2,4.0,0,22,0,5.5
+450860,Adam Milne,3 Jan 2026,v Super Kings,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+450860,Adam Milne,5 Jan 2026,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+450860,Adam Milne,11 Jan 2026,v Super Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,51,1,17
+450860,Adam Milne,14 Jan 2026,v Super Kings,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,1,3.33
+450860,Adam Milne,16 Jan 2026,v MI Cape Town,Cape Town,1,10,6,5,5,1,0,120,caught,2,3.0,0,26,1,8.66
+450860,Adam Milne,18 Jan 2026,v MI Cape Town,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,0.3,0,2,0,4

@@ -1,0 +1,31 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1244751,Arshad Khan,2 Apr 2023,v RCB,Bengaluru,1,9,15*,19,9,0,1,166.66,not out,2,2.2,0,28,1,12
+1244751,Arshad Khan,8 Apr 2023,v CSK,Wankhede,1,6,2,4,4,0,0,50,lbw,2,2.1,0,35,0,16.15
+1244751,Arshad Khan,11 Apr 2023,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+1244751,Arshad Khan,30 Apr 2023,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,3,13
+1244751,Arshad Khan,3 May 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+1244751,Arshad Khan,6 May 2023,v CSK,Chennai,1,8,1,6,2,0,0,50,caught,2,1.4,0,28,0,16.8
+1244751,Arshad Khan,17 Oct 2023,v Delhi,Dehradun,1,8,12,-,10,2,0,120,caught,2,1.2,0,16,0,12
+1244751,Arshad Khan,19 Oct 2023,v Karnataka,Dehradun,1,9,4,-,11,0,0,36.36,bowled,2,2.0,0,15,0,7.5
+1244751,Arshad Khan,27 Oct 2023,v UP,Dehradun,2,8,5*,-,2,1,0,250,not out,1,DNB,-,-,-,-
+1244751,Arshad Khan,12 Apr 2024,v DC,Lucknow,1,9,20*,33,16,2,0,125,not out,2,3.1,0,34,0,10.73
+1244751,Arshad Khan,14 Apr 2024,v KKR,Eden Gardens,1,8,5,4,4,1,0,125,bowled,2,2.0,0,24,0,12
+1244751,Arshad Khan,14 May 2024,v DC,Delhi,2,8,58*,43,33,3,5,175.75,not out,1,3.0,0,45,1,15
+1244751,Arshad Khan,17 May 2024,v MI,Wankhede,1,6,0,1,1,0,0,0,caught,2,2.0,0,11,0,5.5
+1244751,Arshad Khan,23 Nov 2024,v Mizoram,Rajkot,1,7,22*,-,7,2,2,314.28,not out,2,2.0,0,5,1,2.5
+1244751,Arshad Khan,25 Nov 2024,v Meghalaya,Saurashtra,1,7,9*,-,4,1,0,225,not out,2,2.4,0,5,3,1.87
+1244751,Arshad Khan,27 Nov 2024,v Punjab,Rajkot,1,7,6,-,3,0,1,200,caught,2,3.0,0,23,3,7.66
+1244751,Arshad Khan,25 Mar 2025,v Punjab Kings,Ahmedabad,2,7,1*,1,1,0,0,100,not out,1,1.0,0,21,0,21
+1244751,Arshad Khan,2 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+1244751,Arshad Khan,9 Apr 2025,v RR,Ahmedabad,1,8,0*,5,0,0,0,-,not out,2,2.0,0,19,1,9.5
+1244751,Arshad Khan,12 Apr 2025,v LSG,Lucknow,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+1244751,Arshad Khan,19 Apr 2025,v DC,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+1244751,Arshad Khan,6 May 2025,v MI,Wankhede,2,9,1*,1,1,0,0,100,not out,1,3.0,0,18,1,6
+1244751,Arshad Khan,18 May 2025,v DC,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,7,1,3.5
+1244751,Arshad Khan,22 May 2025,v LSG,Ahmedabad,2,7,1,4,3,0,0,33.33,caught,1,3.0,0,36,1,12
+1244751,Arshad Khan,25 May 2025,v CSK,Ahmedabad,2,9,20,18,14,0,3,142.85,bowled,1,2.0,0,42,0,21
+1244751,Arshad Khan,26 Nov 2025,v Hyderabad,Jadavpur Uni,1,9,1,-,2,0,0,50,bowled,2,3.0,0,38,0,12.66
+1244751,Arshad Khan,4 Dec 2025,v Maharashtra,Eden Gardens,1,8,30,-,17,1,3,176.47,caught,2,4.0,0,14,2,3.5
+1244751,Arshad Khan,6 Dec 2025,v Chandigarh,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,1,9,6,2.25
+1244751,Arshad Khan,8 Dec 2025,v J & K,Eden Gardens,2,8,12,-,7,1,0,171.42,caught,1,4.0,0,36,2,9
+1244751,Arshad Khan,12 Dec 2025,v Andhra,Ambi,2,8,1*,-,1,0,0,100,not out,1,2.0,1,8,0,4

@@ -1,0 +1,212 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+604527,Nitish Rana,30 Mar 2013,v Vidarbha,Indore,1,6,15,-,13,0,1,115.38,run out,2,1.0,0,8,0,8
+604527,Nitish Rana,24 Mar 2015,v J & K,Delhi,1,4,5,12,9,0,0,55.55,bowled,2,1.0,0,10,0,10
+604527,Nitish Rana,25 Mar 2015,v Punjab,Delhi,2,4,35,47,28,3,1,125,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,26 Mar 2015,v Himachal,Delhi,2,3,32,33,20,3,2,160,caught,1,1.0,0,10,1,10
+604527,Nitish Rana,27 Mar 2015,v Haryana,Delhi,2,3,6,10,6,1,0,100,run out,1,DNB,-,-,-,-
+604527,Nitish Rana,28 Mar 2015,v Services,Delhi,2,3,48,58,42,4,1,114.28,caught,1,2.0,0,30,0,15
+604527,Nitish Rana,2 Jan 2016,v Railways,Vadodara,2,4,34,16,15,1,4,226.66,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,3 Jan 2016,v Andhra,Vadodara,1,5,97,56,40,8,8,242.5,bowled,2,DNB,-,-,-,-
+604527,Nitish Rana,4 Jan 2016,v M. Pradesh,Vadodara,2,5,28,16,15,2,2,186.66,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,6 Jan 2016,v Assam,Vadodara,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+604527,Nitish Rana,9 Jan 2016,v Goa,Vadodara,1,5,5,10,10,0,0,50,run out,2,DNB,-,-,-,-
+604527,Nitish Rana,10 Jan 2016,v Baroda,Vadodara,2,5,53,36,29,3,5,182.75,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,15 Jan 2016,v Gujarat,Mumbai,1,5,9,15,7,0,1,128.57,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,16 Jan 2016,v Jharkhand,Mumbai,2,5,60*,65,44,9,1,136.36,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,18 Jan 2016,v UP,Mumbai,1,4,13,11,10,2,0,130,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 May 2016,v RCB,Bengaluru,2,4,9,16,11,0,1,81.81,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,13 May 2016,v Kings XI,Visakhapatnam,1,4,25,35,28,0,3,89.28,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,15 May 2016,v Daredevils,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,1.0,0,3,0,3
+604527,Nitish Rana,21 May 2016,v Guj Lions,Kanpur,1,3,70,62,36,7,4,194.44,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,29 Jan 2017,v J & K,Dharamsala,2,4,13*,23,13,1,0,100,not out,1,2.0,0,17,0,8.5
+604527,Nitish Rana,30 Jan 2017,v Punjab,Dharamsala,1,4,15,27,12,3,0,125,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,31 Jan 2017,v Himachal,Nadaun,2,5,1,7,4,0,0,25,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,1 Feb 2017,v Haryana,Dharamsala,2,5,21,23,28,3,0,75,caught,1,3.0,0,16,1,5.33
+604527,Nitish Rana,2 Feb 2017,v Services,Dharamsala,2,5,22,30,16,3,0,137.5,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,6 Apr 2017,v Supergiant,Pune,1,4,34,41,28,1,2,121.42,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,9 Apr 2017,v KKR,Wankhede,2,3,50,61,29,5,3,172.41,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,12 Apr 2017,v SRH,Wankhede,2,4,45,68,36,3,2,125,bowled,1,DNB,-,-,-,-
+604527,Nitish Rana,14 Apr 2017,v RCB,Bengaluru,2,5,11,26,16,1,0,68.75,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,16 Apr 2017,v Guj Lions,Wankhede,2,3,53,43,36,4,2,147.22,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,20 Apr 2017,v Kings XI,Indore,2,3,62*,49,34,0,7,182.35,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,22 Apr 2017,v Daredevils,Wankhede,1,3,8,17,9,1,0,88.88,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,24 Apr 2017,v Supergiant,Wankhede,2,3,3,16,9,0,0,33.33,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,29 Apr 2017,v Guj Lions,Rajkot,2,3,19,22,16,1,1,118.75,lbw,1,DNB,-,-,-,-
+604527,Nitish Rana,1 May 2017,v RCB,Wankhede,2,3,27,44,28,4,0,96.42,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,6 May 2017,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+604527,Nitish Rana,8 May 2017,v SRH,Hyderabad,1,3,9,10,11,2,0,81.81,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 May 2017,v Kings XI,Wankhede,2,3,12,21,12,2,0,100,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,9 Jan 2018,v Punjab,Delhi,2,3,29,18,21,5,0,138.09,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,10 Jan 2018,v Haryana,Delhi,2,4,39,39,26,2,2,150,caught,1,1.0,0,9,0,9
+604527,Nitish Rana,12 Jan 2018,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+604527,Nitish Rana,14 Jan 2018,v Himachal,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+604527,Nitish Rana,16 Jan 2018,v Services,Delhi,1,3,30,28,17,2,3,176.47,run out,2,DNB,-,-,-,-
+604527,Nitish Rana,21 Jan 2018,v Tamil Nadu,Eden Gardens,2,4,34*,16,14,3,3,242.85,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,22 Jan 2018,v Baroda,Eden Gardens,2,4,0,2,3,0,0,0,caught,1,3.0,0,20,1,6.66
+604527,Nitish Rana,23 Jan 2018,v Bengal,Kolkata,2,4,1,8,5,0,0,20,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,25 Jan 2018,v UP,Kolkata,1,5,0,12,4,0,0,0,caught,2,2.0,0,17,0,8.5
+604527,Nitish Rana,26 Jan 2018,v Rajasthan,Eden Gardens,1,5,7,9,5,1,0,140,caught,2,2.0,0,20,1,10
+604527,Nitish Rana,8 Apr 2018,v RCB,Eden Gardens,2,4,34,-,25,2,2,136,lbw,1,1.0,0,11,2,11
+604527,Nitish Rana,10 Apr 2018,v CSK,Chennai,1,4,16,-,14,2,0,114.28,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,14 Apr 2018,v SRH,Eden Gardens,1,3,18,-,16,2,1,112.5,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,16 Apr 2018,v Daredevils,Eden Gardens,1,4,59,-,35,5,4,168.57,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,18 Apr 2018,v RR,Jaipur,2,4,35*,-,27,2,1,129.62,not out,1,2.0,0,11,2,5.5
+604527,Nitish Rana,21 Apr 2018,v Kings XI,Eden Gardens,1,4,3,-,5,0,0,60,run out,2,0.1,0,0,0,0
+604527,Nitish Rana,27 Apr 2018,v Daredevils,Delhi,2,4,8,-,7,1,0,114.28,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,29 Apr 2018,v RCB,Bengaluru,2,4,15*,-,10,2,0,150,retired notout,1,DNB,-,-,-,-
+604527,Nitish Rana,6 May 2018,v MI,Wankhede,2,4,31,-,27,3,1,114.81,caught,1,2.0,0,17,0,8.5
+604527,Nitish Rana,9 May 2018,v MI,Eden Gardens,2,4,21,-,19,2,1,110.52,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,12 May 2018,v Kings XI,Indore,1,6,11,-,4,1,1,275,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,15 May 2018,v RR,Eden Gardens,2,4,21,-,17,2,1,123.52,lbw,1,DNB,-,-,-,-
+604527,Nitish Rana,19 May 2018,v SRH,Hyderabad,2,6,7,-,5,1,0,140,caught,1,1.0,0,5,0,5
+604527,Nitish Rana,23 May 2018,v RR,Eden Gardens,1,4,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,25 May 2018,v SRH,Eden Gardens,2,3,22,-,16,1,2,137.5,run out,1,DNB,-,-,-,-
+604527,Nitish Rana,21 Feb 2019,v Jharkhand,Mulapadu,2,4,9,16,9,0,1,100,caught,1,3.0,0,18,0,6
+604527,Nitish Rana,22 Feb 2019,v Manipur,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+604527,Nitish Rana,24 Feb 2019,v J & K,Mulapadu,2,5,24,23,17,0,3,141.17,run out,1,1.0,0,15,0,15
+604527,Nitish Rana,25 Feb 2019,v Kerala,Mulapadu,2,4,52*,57,36,4,2,144.44,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,27 Feb 2019,v Andhra,Mulapadu,1,4,1,5,3,0,0,33.33,caught,2,1.0,0,6,1,6
+604527,Nitish Rana,2 Mar 2019,v Nagaland,Mulapadu,2,3,2,8,7,0,0,28.57,bowled,1,3.0,0,10,2,3.33
+604527,Nitish Rana,8 Mar 2019,v Vidarbha,Indore,1,4,6,-,9,1,0,66.66,caught,2,0.3,0,6,0,12
+604527,Nitish Rana,9 Mar 2019,v Mumbai,Indore,1,4,0,1,1,0,0,0,caught,2,1.0,0,7,1,7
+604527,Nitish Rana,10 Mar 2019,v Karnataka,Indore,1,5,37,40,29,1,4,127.58,caught,2,1.0,0,4,0,4
+604527,Nitish Rana,11 Mar 2019,v UP,Indore,2,5,16,37,29,0,1,55.17,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,24 Mar 2019,v SRH,Eden Gardens,2,2,68,-,47,8,3,144.68,lbw,1,1.0,0,9,0,9
+604527,Nitish Rana,27 Mar 2019,v Kings XI,Eden Gardens,1,4,63,-,34,2,7,185.29,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,30 Mar 2019,v DC,Delhi,1,4,1,7,2,0,0,50,caught,2,1.0,0,8,0,8
+604527,Nitish Rana,5 Apr 2019,v RCB,Bengaluru,2,4,37,33,23,1,2,160.86,caught,1,2.0,0,22,1,11
+604527,Nitish Rana,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+604527,Nitish Rana,9 Apr 2019,v CSK,Chennai,1,4,0,5,3,0,0,0,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,12 Apr 2019,v DC,Eden Gardens,1,4,11,21,12,0,1,91.66,bowled,2,2.0,0,12,1,6
+604527,Nitish Rana,14 Apr 2019,v CSK,Eden Gardens,1,3,21,24,18,3,0,116.66,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,19 Apr 2019,v RCB,Eden Gardens,2,5,85*,86,46,9,5,184.78,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,21 Apr 2019,v SRH,Hyderabad,1,4,11,15,11,1,0,100,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,25 Apr 2019,v RR,Eden Gardens,1,3,21,35,26,3,0,80.76,caught,2,1.0,0,13,0,13
+604527,Nitish Rana,28 Apr 2019,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+604527,Nitish Rana,3 May 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,1.0,0,8,1,8
+604527,Nitish Rana,5 May 2019,v MI,Wankhede,1,6,26,24,13,0,3,200,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 Nov 2019,v Nagaland,Surat,2,4,20*,-,14,2,1,142.85,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,12 Nov 2019,v Saurashtra,Surat,2,4,3,-,4,0,0,75,caught,1,4.0,0,25,0,6.25
+604527,Nitish Rana,14 Nov 2019,v J & K,Surat,1,5,55,-,30,3,6,183.33,caught,2,3.5,0,23,0,6
+604527,Nitish Rana,15 Nov 2019,v Jharkhand,Surat,1,5,66,-,42,7,3,157.14,caught,2,3.0,0,34,0,11.33
+604527,Nitish Rana,17 Nov 2019,v Sikkim,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,0,3.25
+604527,Nitish Rana,18 Nov 2019,v Odisha,Surat,1,5,13,-,7,1,1,185.71,caught,2,2.0,0,6,2,3
+604527,Nitish Rana,21 Nov 2019,v Maharashtra,Surat,1,5,21,-,18,0,2,116.66,caught,2,3.2,0,17,4,5.1
+604527,Nitish Rana,22 Nov 2019,v Baroda,Surat,2,5,9,-,13,0,0,69.23,run out,1,4.0,0,22,2,5.5
+604527,Nitish Rana,24 Nov 2019,v Haryana,Surat,2,5,37,-,25,4,1,148,caught,1,2.0,0,13,1,6.5
+604527,Nitish Rana,27 Nov 2019,v Rajasthan,Surat,2,5,2,-,3,0,0,66.66,lbw,1,4.0,0,25,2,6.25
+604527,Nitish Rana,23 Sep 2020,v MI,Abu Dhabi,2,4,24,-,18,2,1,133.33,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,26 Sep 2020,v SRH,Abu Dhabi,2,3,26,-,13,6,0,200,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,30 Sep 2020,v RR,Dubai (DICS),1,3,22,-,17,2,1,129.41,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,3 Oct 2020,v DC,Sharjah,2,3,58,-,35,4,4,165.71,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,7 Oct 2020,v CSK,Abu Dhabi,1,3,9,-,10,1,0,90,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,10 Oct 2020,v Kings XI,Abu Dhabi,1,3,2,-,4,0,0,50,run out,2,1.0,0,7,0,7
+604527,Nitish Rana,12 Oct 2020,v RCB,Sharjah,2,3,9,-,14,1,0,64.28,bowled,1,DNB,-,-,-,-
+604527,Nitish Rana,16 Oct 2020,v MI,Abu Dhabi,1,3,5,-,6,1,0,83.33,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,18 Oct 2020,v SRH,Abu Dhabi,1,3,29,-,20,3,1,145,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,21 Oct 2020,v RCB,Abu Dhabi,1,3,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+604527,Nitish Rana,24 Oct 2020,v DC,Abu Dhabi,1,2,81,-,53,13,1,152.83,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,26 Oct 2020,v Kings XI,Sharjah,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,29 Oct 2020,v CSK,Dubai (DICS),1,2,87,-,61,10,4,142.62,caught,2,1.0,0,16,0,16
+604527,Nitish Rana,1 Nov 2020,v RR,Dubai (DICS),1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 Jan 2021,v Mumbai,Wankhede,1,4,74,-,37,7,5,200,caught,2,1.0,0,12,1,12
+604527,Nitish Rana,13 Jan 2021,v Andhra,Wankhede,2,3,27,-,28,4,0,96.42,run out,1,DNB,-,-,-,-
+604527,Nitish Rana,15 Jan 2021,v Kerala,Wankhede,1,4,16,-,11,1,1,145.45,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,17 Jan 2021,v Haryana,Wankhede,1,3,66,-,34,11,2,194.11,caught,2,2.2,0,12,0,5.14
+604527,Nitish Rana,19 Jan 2021,v Puducherry,Mumbai,1,3,0,-,1,0,0,0,caught,2,4.0,0,16,1,4
+604527,Nitish Rana,11 Apr 2021,v SRH,Chennai,1,1,80,82,56,9,4,142.85,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,13 Apr 2021,v MI,Chennai,2,1,57,74,47,6,2,121.27,stumped,1,DNB,-,-,-,-
+604527,Nitish Rana,18 Apr 2021,v RCB,Chennai,2,1,18,36,11,2,1,163.63,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,21 Apr 2021,v CSK,Wankhede,2,1,9,15,12,2,0,75,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,24 Apr 2021,v RR,Wankhede,1,1,22,43,25,1,1,88,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,26 Apr 2021,v Punjab Kings,Ahmedabad,2,2,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,29 Apr 2021,v DC,Ahmedabad,1,1,15,19,12,1,1,125,stumped,2,DNB,-,-,-,-
+604527,Nitish Rana,28 Jul 2021,v Sri Lanka,Colombo (RPS),1,5,9,21,12,0,0,75,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,29 Jul 2021,v Sri Lanka,Colombo (RPS),1,5,6,21,15,0,0,40,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,20 Sep 2021,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+604527,Nitish Rana,23 Sep 2021,v MI,Abu Dhabi,2,5,5*,5,2,1,0,250,not out,1,1.0,0,5,0,5
+604527,Nitish Rana,26 Sep 2021,v CSK,Abu Dhabi,1,5,37*,58,27,3,1,137.03,not out,2,DNB,-,-,-,-
+604527,Nitish Rana,28 Sep 2021,v DC,Sharjah,2,4,36*,64,27,2,2,133.33,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,4,31,37,18,2,2,172.22,caught,2,1.0,0,7,0,7
+604527,Nitish Rana,3 Oct 2021,v SRH,Dubai (DICS),2,4,25,55,33,3,0,75.75,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,7 Oct 2021,v RR,Sharjah,1,3,12,7,5,1,1,240,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 Oct 2021,v RCB,Sharjah,2,4,23,35,25,1,1,92,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,13 Oct 2021,v DC,Sharjah,2,3,13,18,12,0,1,108.33,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,15 Oct 2021,v CSK,Dubai (DICS),2,3,0,3,1,0,0,0,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,4 Nov 2021,v Uttarakhand,Rohtak,1,4,18,12,10,3,1,180,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,5 Nov 2021,v Chandigarh,Rohtak,2,4,50*,39,25,1,6,200,not out,1,1.0,0,5,1,5
+604527,Nitish Rana,6 Nov 2021,v UP,Rohtak,2,3,14*,9,9,0,2,155.55,not out,1,2.0,0,18,0,9
+604527,Nitish Rana,8 Nov 2021,v Hyderabad,Sultanpur,1,4,34,44,27,2,2,125.92,caught,2,4.0,0,23,0,5.75
+604527,Nitish Rana,9 Nov 2021,v Saurashtra,Rohtak,2,3,25,28,20,2,1,125,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,26 Mar 2022,v CSK,Wankhede,2,3,21,19,17,2,1,123.52,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,30 Mar 2022,v RCB,DY Patil,1,4,10,8,5,1,1,200,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,1 Apr 2022,v Punjab Kings,Wankhede,2,5,0,4,2,0,0,0,lbw,1,DNB,-,-,-,-
+604527,Nitish Rana,6 Apr 2022,v MI,Pune,2,5,8,10,7,0,1,114.28,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,10 Apr 2022,v DC,Brabourne,2,4,30,37,20,0,3,150,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,15 Apr 2022,v SRH,Brabourne,1,5,54,69,36,6,2,150,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,18 Apr 2022,v RR,Brabourne,2,4,18,19,11,1,1,163.63,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,23 Apr 2022,v GT,DY Patil,2,4,2,14,7,0,0,28.57,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,28 Apr 2022,v DC,Wankhede,1,6,57,65,34,3,4,167.64,caught,2,1.0,0,14,0,14
+604527,Nitish Rana,2 May 2022,v RR,Wankhede,2,4,48*,73,37,3,2,129.72,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,7 May 2022,v LSG,Pune,2,4,2,19,11,0,0,18.18,bowled,1,DNB,-,-,-,-
+604527,Nitish Rana,9 May 2022,v MI,DY Patil,1,3,43,50,26,3,4,165.38,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,14 May 2022,v SRH,Pune,1,3,26,31,16,1,3,162.5,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,18 May 2022,v LSG,DY Patil,2,3,42,35,22,9,0,190.9,caught,1,1.0,0,9,0,9
+604527,Nitish Rana,11 Oct 2022,v Manipur,Jaipur,1,4,7,-,12,1,0,58.33,caught,2,2.0,0,8,1,4
+604527,Nitish Rana,12 Oct 2022,v Punjab,Jaipur,1,4,107,-,61,9,7,175.4,caught,2,3.0,0,24,2,8
+604527,Nitish Rana,14 Oct 2022,v UP,Jaipur,1,4,45,-,39,3,2,115.38,caught,2,2.0,0,13,0,6.5
+604527,Nitish Rana,16 Oct 2022,v Puducherry,Jaipur,2,4,36,-,26,4,1,138.46,bowled,1,3.0,0,18,2,6
+604527,Nitish Rana,18 Oct 2022,v Hyderabad,Jaipur,1,3,2,-,7,0,0,28.57,caught,2,4.0,0,34,2,8.5
+604527,Nitish Rana,20 Oct 2022,v Goa,Jaipur,2,5,49*,-,38,7,0,128.94,not out,1,3.0,0,15,1,5
+604527,Nitish Rana,22 Oct 2022,v Tripura,Jaipur,2,4,61,-,31,4,5,196.77,caught,1,3.0,0,30,3,10
+604527,Nitish Rana,1 Nov 2022,v Vidarbha,Kolkata,2,4,10,-,14,0,0,71.42,lbw,1,3.0,0,18,0,6
+604527,Nitish Rana,1 Apr 2023,v Punjab Kings,Mohali,2,5,24,23,17,3,1,141.17,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,6 Apr 2023,v RCB,Eden Gardens,1,4,1,17,5,0,0,20,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,9 Apr 2023,v GT,Ahmedabad,2,4,45,42,29,4,3,155.17,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,14 Apr 2023,v SRH,Eden Gardens,2,5,75,67,41,5,6,182.92,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,16 Apr 2023,v MI,Wankhede,1,4,5,13,10,0,0,50,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,20 Apr 2023,v DC,Delhi,1,4,4,11,7,1,0,57.14,caught,2,4.0,0,17,2,4.25
+604527,Nitish Rana,23 Apr 2023,v CSK,Eden Gardens,2,4,27,38,20,4,1,135,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,26 Apr 2023,v RCB,Bengaluru,1,4,48,28,21,3,4,228.57,caught,2,1.0,0,8,0,8
+604527,Nitish Rana,29 Apr 2023,v GT,Eden Gardens,1,5,4,5,3,1,0,133.33,caught,2,0.5,0,14,0,16.8
+604527,Nitish Rana,4 May 2023,v SRH,Hyderabad,1,4,42,46,31,3,3,135.48,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,8 May 2023,v Punjab Kings,Eden Gardens,2,3,51,50,38,6,1,134.21,caught,1,1.0,0,7,1,7
+604527,Nitish Rana,11 May 2023,v RR,Eden Gardens,1,4,22,26,17,2,0,129.41,caught,2,1.0,0,26,0,26
+604527,Nitish Rana,14 May 2023,v CSK,Chennai,2,4,57*,72,44,6,1,129.54,not out,1,DNB,-,-,-,-
+604527,Nitish Rana,20 May 2023,v LSG,Eden Gardens,2,3,8,13,10,1,0,80,caught,1,1.0,0,3,0,3
+604527,Nitish Rana,17 Oct 2023,v Tamil Nadu,Dehradun,2,3,9,-,15,2,0,60,bowled,1,DNB,-,-,-,-
+604527,Nitish Rana,21 Oct 2023,v Nagaland,Dehradun,1,3,32,-,28,4,1,114.28,caught,2,3.0,0,24,2,8
+604527,Nitish Rana,23 Oct 2023,v Tripura,Dehradun,1,3,30,-,27,4,0,111.11,run out,2,DNB,-,-,-,-
+604527,Nitish Rana,25 Oct 2023,v Karnataka,Dehradun,1,3,40,-,29,5,2,137.93,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,27 Oct 2023,v M. Pradesh,Dehradun,1,3,4,-,9,0,0,44.44,bowled,2,1.2,0,6,1,4.5
+604527,Nitish Rana,31 Oct 2023,v Gujarat,Mohali,2,3,71*,-,49,7,2,144.89,not out,1,1.0,0,9,1,9
+604527,Nitish Rana,2 Nov 2023,v Punjab,Mohali,1,3,17,-,18,1,0,94.44,run out,2,3.0,0,22,0,7.33
+604527,Nitish Rana,23 Mar 2024,v SRH,Eden Gardens,1,5,9,18,11,1,0,81.81,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,11 May 2024,v MI,Eden Gardens,1,5,33,41,23,4,1,143.47,run out,2,sub,-,-,-,-
+604527,Nitish Rana,23 Nov 2024,v Delhi,Wankhede,2,4,61,-,42,7,2,145.23,caught,1,2.0,0,20,1,10
+604527,Nitish Rana,25 Nov 2024,v Himachal,Wankhede,2,4,3,-,7,0,0,42.85,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,27 Nov 2024,v Manipur,Mumbai,2,4,20*,-,7,0,3,285.71,not out,1,4.0,0,22,0,5.5
+604527,Nitish Rana,29 Nov 2024,v Haryana,Mumbai,2,4,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,1 Dec 2024,v Arunachal,Wankhede,1,4,3,-,4,0,0,75,bowled,2,2.0,0,10,0,5
+604527,Nitish Rana,3 Dec 2024,v J & K,Mumbai,1,4,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,5 Dec 2024,v Jharkhand,Wankhede,1,4,16,-,22,0,2,72.72,caught,2,4.0,0,19,2,4.75
+604527,Nitish Rana,9 Dec 2024,v Andhra,Bengaluru,2,4,4,-,7,0,0,57.14,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,11 Dec 2024,v Delhi,Bengaluru,2,4,2,-,3,0,0,66.66,caught,1,3.0,0,23,1,7.66
+604527,Nitish Rana,23 Mar 2025,v SRH,Hyderabad,2,4,11,11,8,2,0,137.5,caught,1,1.0,0,9,0,9
+604527,Nitish Rana,26 Mar 2025,v KKR,Guwahati,1,4,8,13,9,0,0,88.88,bowled,2,1.0,0,9,0,9
+604527,Nitish Rana,30 Mar 2025,v CSK,Guwahati,1,3,81,51,36,10,5,225,stumped,2,DNB,-,-,-,-
+604527,Nitish Rana,5 Apr 2025,v Punjab Kings,New Chandigarh,1,4,12,6,7,2,0,171.42,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,9 Apr 2025,v GT,Ahmedabad,2,3,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,13 Apr 2025,v RCB,Jaipur,1,6,4*,1,1,1,0,400,not out,2,DNB,-,-,-,-
+604527,Nitish Rana,16 Apr 2025,v DC,Delhi,2,4,51,44,28,6,2,182.14,lbw,1,DNB,-,-,-,-
+604527,Nitish Rana,19 Apr 2025,v LSG,Jaipur,2,3,8,5,7,0,1,114.28,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,24 Apr 2025,v RCB,Bengaluru,2,3,28,47,22,3,1,127.27,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,28 Apr 2025,v GT,Jaipur,2,3,4,4,2,1,0,200,lbw,1,DNB,-,-,-,-
+604527,Nitish Rana,1 May 2025,v MI,Jaipur,2,3,9,18,11,2,0,81.81,caught,1,DNB,-,-,-,-
+604527,Nitish Rana,26 Nov 2025,v Jharkhand,Ahmedabad,1,4,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,28 Nov 2025,v Tamil Nadu,Ahmedabad,2,3,34,-,26,3,1,130.76,caught,1,4.0,0,35,0,8.75
+604527,Nitish Rana,30 Nov 2025,v Saurashtra,Ahmedabad,1,3,76,-,41,3,7,185.36,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,2 Dec 2025,v Tripura,Ahmedabad,2,3,45,-,40,5,0,112.5,stumped,1,2.0,0,10,0,5
+604527,Nitish Rana,4 Dec 2025,v Karnataka,Ahmedabad,1,4,46*,-,28,2,4,164.28,not out,2,2.1,0,30,0,13.84
+604527,Nitish Rana,6 Dec 2025,v Rajasthan,Ahmedabad,1,3,21,-,16,1,1,131.25,caught,2,DNB,-,-,-,-
+604527,Nitish Rana,8 Dec 2025,v Uttarakhand,Ahmedabad,1,3,51,-,29,7,2,175.86,caught,2,1.0,0,10,0,10

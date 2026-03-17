@@ -1,0 +1,323 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+670025,Shimron Hetmyer,24 Jul 2016,v Zouks,Gros Islet,1,5,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Jan 2018,v New Zealand,Mount Maunganui,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Jan 2018,v New Zealand,Mount Maunganui,2,5,7,4,3,0,1,233.33,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Aug 2018,v Patriots,Providence,2,3,79*,-,45,9,4,175.55,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Aug 2018,v Stars,Providence,1,3,21,-,19,3,0,110.52,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Aug 2018,v Tridents,Providence,2,3,22,-,9,2,2,244.44,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Aug 2018,v Tallawahs,Lauderhill,1,3,100,-,49,11,5,204.08,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Aug 2018,v Stars,Gros Islet,1,3,1,-,6,0,0,16.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Aug 2018,v Patriots,Basseterre,2,3,15,-,21,1,1,71.42,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Aug 2018,v Tridents,Bridgetown,2,3,30,-,20,1,3,150,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Sep 2018,v Trinbago,Port of Spain,2,3,11,-,10,2,0,110,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Sep 2018,v Tallawahs,Providence,1,3,48,-,41,4,1,117.07,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Sep 2018,v Trinbago,Providence,2,3,59,-,30,3,5,196.66,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Sep 2018,v Trinbago,Providence,2,3,39,-,36,2,2,108.33,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Sep 2018,v Trinbago,Tarouba,1,3,15,-,11,1,1,136.36,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Nov 2018,v India,Eden Gardens,1,3,10,-,7,2,0,142.85,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Nov 2018,v India,Lucknow,2,2,15,28,14,3,0,107.14,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Nov 2018,v India,Chennai,1,2,26,-,21,4,1,123.8,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,17 Dec 2018,v Bangladesh,Sylhet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Dec 2018,v Bangladesh,Mirpur,2,4,19,-,17,1,1,111.76,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Dec 2018,v Bangladesh,Mirpur,1,5,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Mar 2019,v England,Gros Islet,1,3,14,-,11,1,1,127.27,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Mar 2019,v England,Basseterre,2,3,10,-,11,1,0,90.9,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Mar 2019,v England,Basseterre,1,3,8,11,7,1,0,114.28,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Mar 2019,v CSK,Chennai,1,5,0,-,2,0,0,0,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Mar 2019,v MI,Bengaluru,2,5,5,-,6,0,0,83.33,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Mar 2019,v SRH,Hyderabad,2,2,9,12,9,0,1,100,stumped,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Apr 2019,v RR,Jaipur,1,4,1,8,9,0,0,11.11,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 May 2019,v SRH,Bengaluru,2,4,75,81,47,4,6,159.57,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Aug 2019,v India,Lauderhill,1,5,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Aug 2019,v India,Lauderhill,2,6,6*,-,4,1,0,150,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Aug 2019,v India,Providence,1,3,1,-,3,0,0,33.33,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Sep 2019,v Zouks,Providence,1,3,24,-,26,1,0,92.3,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Sep 2019,v Patriots,Providence,2,3,70*,-,47,7,3,148.93,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Sep 2019,v Tridents,Providence,1,3,9,-,12,0,1,75,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2019,v Patriots,Basseterre,2,3,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Sep 2019,v Tallawahs,Kingston,1,3,44,-,25,6,2,176,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Sep 2019,v Tridents,Bridgetown,2,3,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Sep 2019,v Zouks,Gros Islet,2,3,5,-,3,1,0,166.66,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Sep 2019,v Trinbago,Port of Spain,1,3,48,-,38,4,1,126.31,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Oct 2019,v Tallawahs,Providence,1,3,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Oct 2019,v Trinbago,Providence,2,3,9,-,10,2,0,90,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Oct 2019,v Tridents,Providence,1,3,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Oct 2019,v Tridents,Tarouba,2,3,9,-,5,0,1,180,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Nov 2019,v Afghanistan,Lucknow,1,3,21,-,21,0,1,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Nov 2019,v Afghanistan,Lucknow,2,3,11,-,13,1,0,84.61,lbw,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,17 Nov 2019,v Afghanistan,Lucknow,2,5,11,-,10,1,0,110,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Dec 2019,v India,Hyderabad,1,4,56,-,41,2,4,136.58,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Dec 2019,v India,Thiruvananthapuram,2,3,23,-,14,0,3,164.28,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Dec 2019,v India,Wankhede,2,3,41,-,24,1,5,170.83,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,15 Jan 2020,v Ireland,St George's,2,3,28,-,18,0,3,155.55,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Jan 2020,v Ireland,Basseterre,2,3,4*,-,5,0,0,80,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Jan 2020,v Ireland,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Mar 2020,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Mar 2020,v Sri Lanka,Pallekele,2,3,43*,-,42,3,0,102.38,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Aug 2020,v Trinbago,Tarouba,1,3,63*,-,44,2,2,143.18,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Aug 2020,v Patriots,Tarouba,2,3,71,-,44,8,3,161.36,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Aug 2020,v Tallawahs,Tarouba,1,3,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Aug 2020,v Zouks,Tarouba,2,3,4,-,3,1,0,133.33,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Aug 2020,v Tallawahs,Port of Spain,1,3,5,-,7,1,0,71.42,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Aug 2020,v Trinbago,Port of Spain,1,3,26,-,30,0,1,86.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Aug 2020,v Patriots,Port of Spain,2,3,1,-,6,0,0,16.66,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Sep 2020,v Tridents,Tarouba,2,3,9,-,7,1,0,128.57,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Sep 2020,v Zouks,Tarouba,2,3,56*,-,36,6,3,155.55,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Sep 2020,v Tridents,Tarouba,2,3,32*,-,33,2,0,96.96,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Sep 2020,v Zouks,Tarouba,1,3,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Sep 2020,v Kings XI,Dubai (DICS),1,3,7,-,13,1,0,53.84,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Sep 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Sep 2020,v SRH,Abu Dhabi,2,5,21,-,12,0,2,175,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Oct 2020,v KKR,Sharjah,1,6,7*,-,5,0,1,140,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Oct 2020,v RCB,Dubai (DICS),1,6,11*,-,7,0,1,157.14,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Oct 2020,v RR,Sharjah,1,6,45,-,24,1,5,187.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Oct 2020,v Kings XI,Dubai (DICS),1,6,10,-,6,0,1,166.66,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Oct 2020,v KKR,Abu Dhabi,2,5,10,-,5,0,1,200,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Oct 2020,v SRH,Dubai (DICS),2,4,16,-,13,3,0,123.07,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Oct 2020,v MI,Dubai (DICS),1,6,11,-,13,1,0,84.61,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Nov 2020,v SRH,Abu Dhabi,1,4,42*,-,22,4,1,190.9,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Nov 2020,v MI,Dubai (DICS),1,6,5,-,5,1,0,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Nov 2020,v New Zealand,Auckland,1,3,0,3,4,0,0,0,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Nov 2020,v New Zealand,Mount Maunganui,2,3,25,66,32,2,0,78.12,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Apr 2021,v CSK,Wankhede,2,5,0*,2,0,0,0,-,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Apr 2021,v MI,Chennai,2,6,14*,19,9,2,0,155.55,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Apr 2021,v SRH,Chennai,1,5,1,6,2,0,0,50,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Apr 2021,v RCB,Ahmedabad,2,6,53*,36,25,2,4,212,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Apr 2021,v KKR,Ahmedabad,2,5,0*,4,1,0,0,0,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 May 2021,v Punjab Kings,Ahmedabad,2,5,16*,9,4,1,2,400,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Jun 2021,v Kings,Abu Dhabi,1,5,7,-,9,0,0,77.77,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Jun 2021,v Zalmi,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Jun 2021,v South Africa,St George's,2,4,17,22,10,0,2,170,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Jul 2021,v South Africa,St George's,1,4,7,24,12,0,0,58.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Jul 2021,v South Africa,St George's,2,4,33,-,31,1,2,106.45,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Jul 2021,v Australia,Gros Islet,1,4,20,51,25,1,0,80,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Jul 2021,v Australia,Gros Islet,1,4,61,59,36,2,4,169.44,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Jul 2021,v Australia,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Jul 2021,v Pakistan,Bridgetown,1,7,5,11,5,1,0,100,caught,-,TDNB,-,-,-,-
+670025,Shimron Hetmyer,31 Jul 2021,v Pakistan,Providence,2,4,17,27,18,1,0,94.44,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670025,Shimron Hetmyer,3 Aug 2021,v Pakistan,Providence,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670025,Shimron Hetmyer,26 Aug 2021,v Trinbago,Basseterre,1,4,54,-,41,4,2,131.7,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Aug 2021,v Patriots,Basseterre,1,5,4,15,5,0,0,80,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Aug 2021,v Patriots,Basseterre,1,3,52,57,35,3,3,148.57,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Sep 2021,v Trinbago,Basseterre,2,4,27,57,29,3,0,93.1,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Sep 2021,v Kings,Basseterre,2,4,9,45,21,0,0,42.85,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Sep 2021,v Royals,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Sep 2021,v Royals,Basseterre,2,4,3,8,5,0,0,60,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Sep 2021,v Kings,Basseterre,1,3,1,5,4,0,0,25,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Sep 2021,v Tallawahs,Basseterre,1,3,23,29,18,3,0,127.77,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Sep 2021,v Tallawahs,Basseterre,1,3,0,5,1,0,0,0,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2021,v Patriots,Basseterre,1,5,45*,56,20,2,4,225,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Sep 2021,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Sep 2021,v RR,Abu Dhabi,1,5,28,29,16,5,0,175,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Sep 2021,v KKR,Sharjah,1,5,4,10,5,0,0,80,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Oct 2021,v MI,Sharjah,2,7,15,10,8,2,0,187.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Oct 2021,v CSK,Dubai (DICS),2,7,28*,36,18,2,1,155.55,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Oct 2021,v RCB,Dubai (DICS),1,5,29,41,22,2,2,131.81,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Oct 2021,v CSK,Dubai (DICS),1,6,37,44,24,3,1,154.16,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Oct 2021,v KKR,Sharjah,1,6,17,20,10,0,2,170,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Oct 2021,v England,Dubai (DICS),1,4,9,10,9,2,0,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Oct 2021,v South Africa,Dubai (DICS),1,7,1,6,2,0,0,50,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Oct 2021,v Bangladesh,Sharjah,1,4,9,13,7,1,0,128.57,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Nov 2021,v Sri Lanka,Abu Dhabi,2,5,81*,96,54,8,4,150,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Nov 2021,v Australia,Abu Dhabi,1,5,27,47,28,2,0,96.42,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Mar 2022,v SRH,Pune,1,5,32,26,13,2,3,246.15,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Apr 2022,v MI,DY Patil,1,5,35,25,14,3,3,250,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Apr 2022,v RCB,Wankhede,1,5,42*,44,31,4,2,135.48,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Apr 2022,v LSG,Wankhede,1,5,59*,55,36,1,6,163.88,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Apr 2022,v GT,DY Patil,2,6,29,37,17,2,1,170.58,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Apr 2022,v KKR,Brabourne,1,4,26*,31,13,2,2,200,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Apr 2022,v DC,Wankhede,1,4,1*,7,1,0,0,100,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Apr 2022,v RCB,Pune,1,7,3,8,7,0,0,42.85,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Apr 2022,v MI,DY Patil,1,5,6*,37,14,0,0,42.85,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 May 2022,v KKR,Wankhede,1,6,27*,23,13,1,2,207.69,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 May 2022,v Punjab Kings,Wankhede,2,5,31*,34,16,3,2,193.75,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 May 2022,v CSK,Brabourne,2,6,6,7,7,1,0,85.71,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 May 2022,v GT,Eden Gardens,1,5,4,25,7,0,0,57.14,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 May 2022,v RCB,Ahmedabad,2,5,2*,8,3,0,0,66.66,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 May 2022,v GT,Ahmedabad,1,5,11,20,12,2,0,91.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Jul 2022,v India,Tarouba,2,6,14,19,15,1,1,93.33,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Aug 2022,v India,Basseterre,2,4,6,18,10,1,0,60,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Aug 2022,v India,Basseterre,1,5,20,22,12,0,2,166.66,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Aug 2022,v India,Lauderhill,2,6,19,41,19,2,1,100,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Aug 2022,v India,Lauderhill,2,4,56,59,35,5,4,160,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Aug 2022,v New Zealand,Kingston,2,5,2,11,3,0,0,66.66,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Aug 2022,v New Zealand,Kingston,2,5,14,18,18,1,1,77.77,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Aug 2022,v New Zealand,Kingston,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Sep 2022,v Tallawahs,Basseterre,1,4,39,-,45,2,1,86.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Sep 2022,v Patriots,Gros Islet,1,4,46,42,21,1,4,219.04,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Sep 2022,v Kings,Gros Islet,2,5,32,41,21,1,2,152.38,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2022,v Trinbago,Port of Spain,2,5,20,19,16,3,0,125,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Sep 2022,v Royals,Tarouba,2,4,12,-,14,1,0,85.71,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,21 Sep 2022,v Tallawahs,Providence,1,5,11,29,18,1,0,61.11,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Sep 2022,v Kings,Providence,2,5,36,41,28,2,1,128.57,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Sep 2022,v Trinbago,Providence,1,6,23,-,14,5,0,164.28,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Sep 2022,v Royals,Providence,2,5,10,-,5,2,0,200,lbw,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Sep 2022,v Royals,Providence,2,5,37,-,29,3,1,127.58,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Sep 2022,v Tallawahs,Providence,2,6,15,-,15,0,1,100,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Apr 2023,v SRH,Hyderabad,1,6,22*,21,16,1,1,137.5,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Apr 2023,v Punjab Kings,Guwahati,2,7,36,35,18,1,3,200,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Apr 2023,v DC,Guwahati,1,5,39*,32,21,1,4,185.71,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Apr 2023,v CSK,Chennai,1,6,30*,28,18,2,2,166.66,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Apr 2023,v GT,Ahmedabad,2,6,56*,44,26,2,5,215.38,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Apr 2023,v LSG,Jaipur,2,5,2,12,5,0,0,40,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Apr 2023,v RCB,Bengaluru,2,5,3,30,9,0,0,33.33,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Apr 2023,v CSK,Jaipur,1,4,8,16,10,0,0,80,bowled,2,sub,-,-,-,-
+670025,Shimron Hetmyer,30 Apr 2023,v MI,Wankhede,1,6,8,14,9,0,1,88.88,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 May 2023,v GT,Jaipur,1,7,7,29,13,0,0,53.84,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 May 2023,v SRH,Jaipur,1,4,7*,8,5,0,0,140,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 May 2023,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 May 2023,v RCB,Jaipur,2,6,35,28,19,1,4,184.21,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 May 2023,v Punjab Kings,Dharamsala,2,5,46,50,28,4,3,164.28,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Aug 2023,v India,Tarouba,1,6,10,18,12,1,0,83.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Aug 2023,v India,Providence,2,6,22,37,22,1,1,100,lbw,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Aug 2023,v India,Providence,1,6,9,13,8,1,0,112.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Aug 2023,v India,Lauderhill,1,6,61,61,39,3,4,156.41,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Aug 2023,v India,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Aug 2023,v Kings,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670025,Shimron Hetmyer,24 Aug 2023,v Patriots,Basseterre,1,5,26,37,22,1,1,118.18,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Aug 2023,v Tallawahs,Basseterre,1,5,60,70,45,3,4,133.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Sep 2023,v Patriots,Bridgetown,1,5,36,-,22,1,3,163.63,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Sep 2023,v Trinbago,Port of Spain,2,5,13,11,7,1,1,185.71,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Sep 2023,v Royals,Tarouba,1,5,24,-,16,1,2,150,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Sep 2023,v Tallawahs,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2023,v Kings,Providence,1,5,19*,36,12,1,1,158.33,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Sep 2023,v Trinbago,Providence,2,4,2,4,4,0,0,50,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,17 Sep 2023,v Royals,Providence,1,6,16,10,5,2,1,320,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Sep 2023,v Trinbago,Providence,1,5,0,3,2,0,0,0,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Sep 2023,v Tallawahs,Providence,1,4,31,44,29,2,1,106.89,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Sep 2023,v Trinbago,Providence,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Dec 2023,v England,Bridgetown,2,5,1,5,4,0,0,25,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Dec 2023,v England,St George's,1,5,2,5,5,0,0,40,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Jan 2024,v Warriors,Sharjah,1,4,0,3,1,0,0,0,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,21 Jan 2024,v MI Emirates,Abu Dhabi,2,5,15,42,16,0,0,93.75,run out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Jan 2024,v Vipers,Dubai (DICS),1,5,11,16,10,0,1,110,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Jan 2024,v DC,Sharjah,2,6,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Jan 2024,v KnightRiders,Abu Dhabi,1,6,19,13,8,0,2,237.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Feb 2024,v Vipers,Dubai (DICS),1,6,40*,-,23,5,1,173.91,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Feb 2024,v Warriors,Dubai (DICS),1,5,53*,53,28,3,4,189.28,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Feb 2024,v DC,Dubai (DICS),1,6,34,52,28,4,0,121.42,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Feb 2024,v MI Emirates,Dubai (DICS),1,4,2,5,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Feb 2024,v KnightRiders,Dubai (DICS),1,4,39*,30,27,5,0,144.44,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Feb 2024,v MI Emirates,Dubai (DICS),2,6,7,8,4,0,1,175,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,15 Feb 2024,v DC,Sharjah,1,6,8,12,8,0,0,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Mar 2024,v LSG,Jaipur,1,5,5,7,7,0,0,71.42,caught,2,sub,-,-,-,-
+670025,Shimron Hetmyer,28 Mar 2024,v DC,Jaipur,1,7,14*,16,7,1,1,200,not out,2,sub,-,-,-,-
+670025,Shimron Hetmyer,1 Apr 2024,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Apr 2024,v RCB,Jaipur,2,6,11*,14,6,2,0,183.33,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Apr 2024,v GT,Jaipur,1,5,13*,9,5,1,1,260,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Apr 2024,v Punjab Kings,New Chandigarh,2,6,27*,22,10,1,3,270,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Apr 2024,v KKR,Eden Gardens,2,7,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Apr 2024,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Apr 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 May 2024,v SRH,Hyderabad,2,5,13,-,9,1,1,144.44,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 May 2024,v RCB,Ahmedabad,2,6,26,28,14,3,1,185.71,caught,1,sub,-,-,-,-
+670025,Shimron Hetmyer,24 May 2024,v SRH,Chennai,2,7,4,8,10,0,0,40,bowled,1,sub,-,-,-,-
+670025,Shimron Hetmyer,24 Jul 2024,v Brave,Southampton,1,6,5,2,3,1,0,166.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Jul 2024,v Phoenix,Lord's,1,5,16,28,16,1,1,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Aug 2024,v Fire,Lord's,2,6,30*,33,21,2,2,142.85,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Aug 2024,v Invincibles,Lord's,2,5,20,19,21,2,0,95.23,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Aug 2024,v Rockets,Nottingham,2,5,0,2,1,0,0,0,lbw,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Aug 2024,v Originals,Lord's,2,5,44,45,35,3,1,125.71,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Aug 2024,v Invincibles,The Oval,1,4,6,6,8,0,0,75,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Aug 2024,v N S-Chargers,Leeds,1,5,5,14,10,0,0,50,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Aug 2024,v South Africa,Tarouba,2,4,31*,32,17,4,1,182.35,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Aug 2024,v Falcons,North Sound,2,4,19,-,21,2,1,90.47,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Sep 2024,v Patriots,Basseterre,1,4,91,-,39,0,11,233.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Sep 2024,v Kings,Gros Islet,2,5,8*,-,3,0,1,266.66,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2024,v Royals,Bridgetown,2,4,28,19,10,1,3,280,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Sep 2024,v Trinbago,Port of Spain,1,4,7,13,8,0,0,87.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Sep 2024,v Patriots,Providence,1,4,63,50,33,4,5,190.9,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,21 Sep 2024,v Falcons,Providence,1,5,13,4,4,0,2,325,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Sep 2024,v Royals,Providence,1,4,57,51,34,4,3,167.64,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Sep 2024,v Kings,Providence,1,4,58,40,30,9,1,193.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Sep 2024,v Trinbago,Providence,2,4,9,9,7,1,0,128.57,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Oct 2024,v Kings,Providence,2,4,37*,24,18,0,4,205.55,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Oct 2024,v Royals,Providence,2,4,1*,1,1,0,0,100,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Oct 2024,v Kings,Providence,1,4,11,14,9,0,1,122.22,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Nov 2024,v England,Bridgetown,1,4,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Nov 2024,v England,Gros Islet,1,5,2,16,5,0,0,40,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Nov 2024,v England,Gros Islet,2,5,7,19,9,0,0,77.77,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,17 Nov 2024,v England,Gros Islet,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+670025,Shimron Hetmyer,26 Nov 2024,v Qalandars,Providence,2,4,14,-,21,0,1,66.66,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Nov 2024,v Victoria,Providence,1,4,18,-,13,1,1,138.46,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Dec 2024,v Hampshire,Providence,2,4,24,-,23,3,1,104.34,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Dec 2024,v Rangpur,Providence,2,4,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Jan 2025,v Warriorz,Dubai (DICS),1,5,36,30,23,5,1,156.52,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Jan 2025,v Vipers,Dubai (DICS),1,6,8,-,13,1,0,61.53,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Jan 2025,v DC,Sharjah,2,6,41*,33,20,1,4,205,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Jan 2025,v KnightRiders,Dubai (DICS),2,6,20,21,16,2,0,125,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Jan 2025,v DC,Dubai (DICS),1,6,17*,30,15,2,0,113.33,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Jan 2025,v MI Emirates,Abu Dhabi,2,6,7,10,8,0,0,87.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Jan 2025,v Warriorz,Sharjah,2,5,12,8,8,0,1,150,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Jan 2025,v Vipers,Dubai (DICS),1,4,5,6,7,1,0,71.42,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Jan 2025,v MI Emirates,Dubai (DICS),1,5,15,-,14,2,0,107.14,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Feb 2025,v KnightRiders,Abu Dhabi,2,5,20*,14,11,1,1,181.81,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,3 Feb 2025,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Feb 2025,v Chittagong,Mirpur,1,6,63,54,33,6,4,190.9,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Mar 2025,v SRH,Hyderabad,2,6,42,30,23,1,4,182.6,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Mar 2025,v KKR,Guwahati,1,8,7,21,8,1,0,87.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Mar 2025,v CSK,Guwahati,1,7,19,31,16,1,1,118.75,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Apr 2025,v Punjab Kings,New Chandigarh,1,5,20,23,12,2,1,166.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Apr 2025,v GT,Ahmedabad,2,6,52,43,32,4,3,162.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Apr 2025,v RCB,Jaipur,1,5,9,19,8,1,0,112.5,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Apr 2025,v DC,Delhi,2,6,15*,16,9,1,0,166.66,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Apr 2025,v LSG,Jaipur,2,6,12,12,7,2,0,171.42,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,24 Apr 2025,v RCB,Bengaluru,2,6,11,14,8,1,0,137.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Apr 2025,v GT,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 May 2025,v MI,Jaipur,2,6,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 May 2025,v KKR,Eden Gardens,2,7,29,36,23,1,1,126.08,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 May 2025,v Punjab Kings,Jaipur,2,6,11,19,12,1,0,91.66,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 May 2025,v CSK,Delhi,2,6,12*,7,5,1,1,240,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Jun 2025,v England,Southampton,2,4,26,10,8,1,3,325,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,15 Jun 2025,v Ireland,Bready,1,4,15,18,7,3,0,214.28,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Jun 2025,v MI New York,Oakland,1,6,21,-,9,2,2,233.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Jun 2025,v Los Angeles,Dallas,1,6,19,-,12,1,1,158.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Jun 2025,v SF,Dallas,2,5,30,-,16,3,1,187.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Jun 2025,v MI New York,Dallas,2,6,97*,-,40,5,9,242.5,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Jun 2025,v Los Angeles,Dallas,2,5,64*,-,26,4,6,246.15,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Jul 2025,v SF,Lauderhill,2,5,78*,-,37,4,7,210.81,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Jul 2025,v Washington,Lauderhill,1,7,5,-,6,0,0,83.33,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Jul 2025,v Texas,Lauderhill,2,5,26,-,16,2,1,162.5,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Jul 2025,v Rangpur,Providence,2,5,13,-,18,0,0,72.22,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Jul 2025,v Central D,Providence,1,5,12,-,10,0,1,120,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Jul 2025,v DC,Providence,1,3,14,-,11,2,0,127.27,lbw,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Jul 2025,v Hurricanes,Providence,2,5,39,-,10,0,6,390,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,18 Jul 2025,v Rangpur,Providence,1,4,0,-,2,0,0,0,stumped,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,20 Jul 2025,v Australia,Kingston,1,4,38,36,19,2,3,200,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Jul 2025,v Australia,Kingston,1,3,14,16,10,0,1,140,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,25 Jul 2025,v Australia,Basseterre,1,3,9,-,6,0,1,150,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Jul 2025,v Australia,Basseterre,1,6,16,-,6,1,2,266.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,28 Jul 2025,v Australia,Basseterre,1,5,52,-,31,3,3,167.74,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,15 Aug 2025,v Patriots,Basseterre,2,4,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Aug 2025,v Falcons,North Sound,1,4,65*,60,26,5,5,250,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Aug 2025,v Kings,Gros Islet,1,5,3,9,4,0,0,75,run out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,30 Aug 2025,v Trinbago,Tarouba,1,6,6,2,2,0,1,300,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,4 Sep 2025,v Royals,Bridgetown,2,4,2,9,5,0,0,40,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,6 Sep 2025,v Trinbago,Providence,2,4,49,41,30,2,4,163.33,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Sep 2025,v Patriots,Providence,2,4,9,13,8,0,0,112.5,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,10 Sep 2025,v Falcons,Providence,1,4,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,13 Sep 2025,v Kings,Providence,2,4,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Sep 2025,v Royals,Providence,1,4,68,57,39,8,3,174.35,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,17 Sep 2025,v Kings,Providence,1,5,4,7,4,0,0,100,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,21 Sep 2025,v Trinbago,Providence,1,5,4,20,13,0,0,30.76,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,2 Dec 2025,v DC,Dubai (DICS),2,6,7,9,6,1,0,116.66,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,5 Dec 2025,v KnightRiders,Sharjah,2,6,48,-,25,3,3,192,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,8 Dec 2025,v Gulf Giants,Dubai (DICS),2,6,16,-,8,2,1,200,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,9 Dec 2025,v MI Emirates,Abu Dhabi,1,5,15,22,9,1,1,166.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,12 Dec 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,14 Dec 2025,v DC,Dubai (DICS),2,6,18,28,17,1,1,105.88,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,16 Dec 2025,v KnightRiders,Abu Dhabi,2,6,7,-,4,1,0,175,bowled,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Jan 2026,v Afghanistan,Dubai (DICS),2,5,3,6,7,0,0,42.85,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,21 Jan 2026,v Afghanistan,Dubai (DICS),2,5,46,22,17,1,6,270.58,caught,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,22 Jan 2026,v Afghanistan,Dubai (DICS),1,5,13,11,6,0,2,216.66,bowled,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,27 Jan 2026,v South Africa,Paarl,1,6,48,49,32,4,3,150,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,29 Jan 2026,v South Africa,Centurion,1,3,75,61,42,8,3,178.57,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,31 Jan 2026,v South Africa,Johannesburg,1,3,48*,46,22,1,6,218.18,not out,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,7 Feb 2026,v Scotland,Eden Gardens,1,3,64,54,36,2,6,177.77,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,11 Feb 2026,v England,Wankhede,1,3,23,24,12,2,2,191.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,15 Feb 2026,v Nepal,Wankhede,2,3,46*,40,32,4,2,143.75,not out,1,DNB,-,-,-,-
+670025,Shimron Hetmyer,19 Feb 2026,v Italy,Eden Gardens,1,3,1,15,4,0,0,25,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,23 Feb 2026,v Zimbabwe,Wankhede,1,3,85,66,34,7,7,250,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,26 Feb 2026,v South Africa,Ahmedabad,1,3,2,2,3,0,0,66.66,caught,2,DNB,-,-,-,-
+670025,Shimron Hetmyer,1 Mar 2026,v India,Eden Gardens,1,3,27,16,12,1,2,225,caught,2,DNB,-,-,-,-

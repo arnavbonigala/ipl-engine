@@ -1,0 +1,72 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1123718,Spencer Johnson,11 Jan 2023,v Scorchers,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.2,0,22,0,6.6
+1123718,Spencer Johnson,14 Jan 2023,v Strikers,Adelaide,1,9,0,2,1,0,0,0,bowled,2,4.0,1,28,1,7
+1123718,Spencer Johnson,16 Jan 2023,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+1123718,Spencer Johnson,20 Jan 2023,v Hurricanes,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+1123718,Spencer Johnson,22 Jan 2023,v Stars,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+1123718,Spencer Johnson,25 Jan 2023,v Hurricanes,Launceston,2,10,0*,2,0,0,0,-,not out,1,4.0,0,20,2,5
+1123718,Spencer Johnson,27 Jan 2023,v Thunder,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+1123718,Spencer Johnson,29 Jan 2023,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+1123718,Spencer Johnson,2 Feb 2023,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+1123718,Spencer Johnson,4 Feb 2023,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1123718,Spencer Johnson,9 Aug 2023,v Originals,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,3,1,3,0.3
+1123718,Spencer Johnson,11 Aug 2023,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,10.8
+1123718,Spencer Johnson,13 Aug 2023,v Phoenix,Birmingham,2,11,1*,4,1,0,0,100,not out,1,4.0,0,32,0,9.6
+1123718,Spencer Johnson,15 Aug 2023,v Spirit,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,10.4
+1123718,Spencer Johnson,19 Aug 2023,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,8.8
+1123718,Spencer Johnson,21 Aug 2023,v Rockets,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,7.2
+1123718,Spencer Johnson,30 Aug 2023,v South Africa,Durban,1,-,DNB,-,-,-,-,-,-,2,3.3,0,33,2,9.42
+1123718,Spencer Johnson,3 Sep 2023,v South Africa,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+1123718,Spencer Johnson,7 Dec 2023,v Stars,Brisbane,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,1,12.5
+1123718,Spencer Johnson,12 Dec 2023,v Thunder,Canberra,1,9,4*,1,2,1,0,200,not out,2,2.0,0,16,0,8
+1123718,Spencer Johnson,21 Dec 2023,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+1123718,Spencer Johnson,27 Dec 2023,v Thunder,Brisbane,1,9,0,1,1,0,0,0,caught,2,4.0,0,24,2,6
+1123718,Spencer Johnson,3 Jan 2024,v Sixers,Coffs Harbour,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+1123718,Spencer Johnson,7 Jan 2024,v Hurricanes,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,2,7
+1123718,Spencer Johnson,10 Jan 2024,v Scorchers,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+1123718,Spencer Johnson,13 Jan 2024,v Scorchers,Perth,2,9,0*,8,2,0,0,0,not out,1,4.0,0,35,1,8.75
+1123718,Spencer Johnson,19 Jan 2024,v Sixers,Carrara,2,9,11,10,7,2,0,157.14,caught,1,4.0,1,14,2,3.5
+1123718,Spencer Johnson,22 Jan 2024,v Strikers,Carrara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+1123718,Spencer Johnson,24 Jan 2024,v Sixers,Sydney,1,9,0*,4,0,0,0,-,not out,2,4.0,0,26,4,6.5
+1123718,Spencer Johnson,11 Feb 2024,v West Indies,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+1123718,Spencer Johnson,13 Feb 2024,v West Indies,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+1123718,Spencer Johnson,25 Feb 2024,v New Zealand,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+1123718,Spencer Johnson,24 Mar 2024,v MI,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,2,12.5
+1123718,Spencer Johnson,26 Mar 2024,v CSK,Chennai,2,10,5*,6,5,1,0,100,not out,1,4.0,0,35,1,8.75
+1123718,Spencer Johnson,7 Apr 2024,v LSG,Lucknow,2,10,0*,16,1,0,0,0,not out,1,4.0,0,32,0,8
+1123718,Spencer Johnson,10 Apr 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+1123718,Spencer Johnson,17 Apr 2024,v DC,Ahmedabad,1,11,1*,1,1,0,0,100,not out,2,2.0,0,22,1,11
+1123718,Spencer Johnson,30 May 2024,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+1123718,Spencer Johnson,31 May 2024,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+1123718,Spencer Johnson,2 Jun 2024,v Somerset,The Oval,1,11,2,8,5,0,0,40,bowled,2,3.0,1,15,2,5
+1123718,Spencer Johnson,7 Jun 2024,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+1123718,Spencer Johnson,14 Jun 2024,v Gloucs,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+1123718,Spencer Johnson,15 Jun 2024,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1123718,Spencer Johnson,20 Jun 2024,v Middlesex,Lord's,1,11,4*,1,1,1,0,400,not out,2,4.0,0,30,0,7.5
+1123718,Spencer Johnson,21 Jun 2024,v Glamorgan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,1,4
+1123718,Spencer Johnson,5 Jul 2024,v Texas,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+1123718,Spencer Johnson,7 Jul 2024,v SF,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,3,9
+1123718,Spencer Johnson,9 Jul 2024,v Seattle,Dallas,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1123718,Spencer Johnson,14 Jul 2024,v Washington,Morrisville,1,10,16,-,9,2,1,177.77,bowled,2,4.0,0,33,1,8.25
+1123718,Spencer Johnson,17 Jul 2024,v Seattle,Morrisville,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+1123718,Spencer Johnson,21 Jul 2024,v MI New York,Dallas,1,9,10,-,5,2,0,200,lbw,2,4.0,0,35,1,8.75
+1123718,Spencer Johnson,28 Jul 2024,v Fire,Cardiff,1,10,0,1,2,0,0,0,caught,2,4.0,1,21,1,6.3
+1123718,Spencer Johnson,2 Aug 2024,v N S-Chargers,The Oval,2,10,1*,6,4,0,0,25,not out,1,4.0,0,10,1,3
+1123718,Spencer Johnson,4 Aug 2024,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,8.1
+1123718,Spencer Johnson,6 Aug 2024,v Originals,Manchester,1,9,0*,1,1,0,0,0,not out,2,4.0,0,47,0,14.1
+1123718,Spencer Johnson,8 Aug 2024,v Brave,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,0,5.1
+1123718,Spencer Johnson,11 Aug 2024,v Spirit,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,0,7.2
+1123718,Spencer Johnson,14 Nov 2024,v Pakistan,Brisbane,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,1,14.5
+1123718,Spencer Johnson,16 Nov 2024,v Pakistan,Sydney,1,10,0,1,1,0,0,0,caught,2,4.0,0,26,5,6.5
+1123718,Spencer Johnson,18 Nov 2024,v Pakistan,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.1,0,24,2,7.57
+1123718,Spencer Johnson,26 Dec 2024,v Scorchers,Perth,2,10,6,23,11,1,0,54.54,bowled,1,4.0,1,20,4,5
+1123718,Spencer Johnson,29 Dec 2024,v Sixers,Brisbane,1,10,0,1,1,0,0,0,caught,2,4.0,0,32,0,8
+1123718,Spencer Johnson,1 Jan 2025,v Stars,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1123718,Spencer Johnson,6 Jan 2025,v Thunder,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,3,9.75
+1123718,Spencer Johnson,11 Jan 2025,v Strikers,Adelaide,2,11,27,14,13,3,2,207.69,caught,1,4.0,0,45,0,11.25
+1123718,Spencer Johnson,16 Jan 2025,v Hurricanes,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+1123718,Spencer Johnson,18 Jan 2025,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+1123718,Spencer Johnson,22 Mar 2025,v RCB,Eden Gardens,1,10,1*,1,1,0,0,100,not out,2,2.2,0,31,0,13.28
+1123718,Spencer Johnson,26 Mar 2025,v RR,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+1123718,Spencer Johnson,31 Mar 2025,v MI,Wankhede,1,11,1*,10,3,0,0,33.33,not out,2,2.0,0,14,0,7
+1123718,Spencer Johnson,8 Apr 2025,v LSG,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,46,0,15.33

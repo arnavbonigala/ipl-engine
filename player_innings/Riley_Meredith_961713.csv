@@ -1,0 +1,151 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+961713,Riley Meredith,1 Feb 2018,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+961713,Riley Meredith,4 Feb 2018,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+961713,Riley Meredith,22 Dec 2018,v Heat,Carrara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,2,10
+961713,Riley Meredith,24 Dec 2018,v Stars,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+961713,Riley Meredith,28 Dec 2018,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+961713,Riley Meredith,30 Dec 2018,v Scorchers,Launceston,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+961713,Riley Meredith,4 Jan 2019,v Sixers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+961713,Riley Meredith,7 Jan 2019,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+961713,Riley Meredith,14 Jan 2019,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,4,5.25
+961713,Riley Meredith,18 Jan 2019,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+961713,Riley Meredith,21 Jan 2019,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+961713,Riley Meredith,23 Jan 2019,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.1,0,42,0,13.26
+961713,Riley Meredith,7 Feb 2019,v Renegades,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,1,14.33
+961713,Riley Meredith,9 Feb 2019,v Thunder,Canberra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,1,13
+961713,Riley Meredith,14 Feb 2019,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,0,5.75
+961713,Riley Meredith,20 Dec 2019,v Sixers,Alice Springs,1,-,DNB,-,-,-,-,-,-,2,4.0,0,10,1,2.5
+961713,Riley Meredith,22 Dec 2019,v Stars,Moe,2,11,2,-,3,0,0,66.66,stumped,1,4.0,0,27,3,6.75
+961713,Riley Meredith,24 Dec 2019,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+961713,Riley Meredith,30 Dec 2019,v Stars,Launceston,1,-,DNB,-,-,-,-,-,-,2,2.3,0,21,1,8.4
+961713,Riley Meredith,3 Jan 2020,v Heat,Hobart,2,10,0,-,1,0,0,0,bowled,1,4.0,0,38,1,9.5
+961713,Riley Meredith,5 Jan 2020,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+961713,Riley Meredith,10 Dec 2020,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+961713,Riley Meredith,13 Dec 2020,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+961713,Riley Meredith,15 Dec 2020,v Strikers,Launceston,1,11,0,-,1,0,0,0,bowled,2,4.0,0,32,0,8
+961713,Riley Meredith,19 Dec 2020,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+961713,Riley Meredith,27 Dec 2020,v Heat,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+961713,Riley Meredith,30 Dec 2020,v Heat,Brisbane,1,11,0,-,3,0,0,0,run out,2,4.0,0,21,3,5.25
+961713,Riley Meredith,2 Jan 2021,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+961713,Riley Meredith,4 Jan 2021,v Stars,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+961713,Riley Meredith,12 Jan 2021,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,3.2,0,25,0,7.5
+961713,Riley Meredith,18 Jan 2021,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,6.5
+961713,Riley Meredith,22 Jan 2021,v Scorchers,Melbourne (Docklands),2,10,3*,-,3,0,0,100,not out,1,4.0,0,40,0,10
+961713,Riley Meredith,24 Jan 2021,v Sixers,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,1,13.75
+961713,Riley Meredith,26 Jan 2021,v Renegades,Melbourne,2,10,4,-,2,1,0,200,caught,1,4.0,0,22,3,5.5
+961713,Riley Meredith,3 Mar 2021,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+961713,Riley Meredith,5 Mar 2021,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+961713,Riley Meredith,7 Mar 2021,v New Zealand,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+961713,Riley Meredith,12 Apr 2021,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+961713,Riley Meredith,16 Apr 2021,v CSK,Wankhede,1,10,0*,4,0,0,0,-,not out,2,3.4,0,21,0,5.72
+961713,Riley Meredith,18 Apr 2021,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.2,0,35,1,15
+961713,Riley Meredith,30 Apr 2021,v RCB,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.2,0,29,1,8.7
+961713,Riley Meredith,2 May 2021,v DC,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.4,0,35,1,9.54
+961713,Riley Meredith,12 Jul 2021,v West Indies,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,3.5,0,48,3,12.52
+961713,Riley Meredith,14 Jul 2021,v West Indies,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,57,1,14.25
+961713,Riley Meredith,20 Dec 2021,v Scorchers,Hobart,2,-,sub,-,-,-,-,-,-,1,1.0,0,1,1,1
+961713,Riley Meredith,24 Dec 2021,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+961713,Riley Meredith,27 Dec 2021,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,3,9.25
+961713,Riley Meredith,29 Dec 2021,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+961713,Riley Meredith,1 Jan 2022,v Heat,Hobart,2,10,3*,10,2,0,0,150,not out,1,4.0,0,23,1,5.75
+961713,Riley Meredith,5 Jan 2022,v Strikers,Adelaide,1,10,1*,4,1,0,0,100,not out,2,1.0,0,12,0,12
+961713,Riley Meredith,8 Jan 2022,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+961713,Riley Meredith,10 Jan 2022,v Thunder,Melbourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+961713,Riley Meredith,13 Jan 2022,v Thunder,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+961713,Riley Meredith,18 Jan 2022,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+961713,Riley Meredith,21 Jan 2022,v Strikers,Melbourne,2,11,10,8,7,1,0,142.85,bowled,1,4.0,0,37,2,9.25
+961713,Riley Meredith,21 Apr 2022,v CSK,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+961713,Riley Meredith,24 Apr 2022,v LSG,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+961713,Riley Meredith,30 Apr 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+961713,Riley Meredith,6 May 2022,v GT,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+961713,Riley Meredith,9 May 2022,v KKR,DY Patil,2,11,0*,2,1,0,0,0,not out,1,3.0,0,35,0,11.66
+961713,Riley Meredith,12 May 2022,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,2,9
+961713,Riley Meredith,17 May 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+961713,Riley Meredith,21 May 2022,v DC,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+961713,Riley Meredith,16 Dec 2022,v Stars,Melbourne,2,11,7*,3,3,1,0,233.33,not out,1,4.0,0,38,2,9.5
+961713,Riley Meredith,19 Dec 2022,v Scorchers,Launceston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+961713,Riley Meredith,22 Dec 2022,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+961713,Riley Meredith,24 Dec 2022,v Renegades,Hobart,1,11,0*,4,0,0,0,-,not out,2,4.0,0,12,3,3
+961713,Riley Meredith,31 Dec 2022,v Thunder,Albury,2,11,0,5,2,0,0,0,bowled,1,4.0,0,49,2,12.25
+961713,Riley Meredith,2 Jan 2023,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+961713,Riley Meredith,5 Jan 2023,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+961713,Riley Meredith,7 Jan 2023,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+961713,Riley Meredith,9 Jan 2023,v Stars,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+961713,Riley Meredith,15 Jan 2023,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+961713,Riley Meredith,18 Jan 2023,v Scorchers,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+961713,Riley Meredith,20 Jan 2023,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+961713,Riley Meredith,23 Jan 2023,v Sixers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+961713,Riley Meredith,25 Jan 2023,v Heat,Launceston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,1,3
+961713,Riley Meredith,11 Apr 2023,v DC,Delhi,2,-,sub,-,-,-,-,-,-,1,3.4,0,34,2,9.27
+961713,Riley Meredith,16 Apr 2023,v KKR,Wankhede,2,-,sub,-,-,-,-,-,-,1,4.0,0,40,1,10
+961713,Riley Meredith,18 Apr 2023,v SRH,Hyderabad,1,-,sub,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+961713,Riley Meredith,25 Apr 2023,v GT,Ahmedabad,2,11,0*,2,2,0,0,0,not out,1,4.0,0,49,1,12.25
+961713,Riley Meredith,30 Apr 2023,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,1,12.75
+961713,Riley Meredith,11 Dec 2023,v Sixers,Launceston,1,-,DNB,-,-,-,-,-,-,2,1.3,0,9,1,6
+961713,Riley Meredith,23 Dec 2023,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+961713,Riley Meredith,28 Dec 2023,v Stars,Hobart,1,11,0*,3,0,0,0,-,not out,2,2.0,0,15,2,7.5
+961713,Riley Meredith,1 Jan 2024,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+961713,Riley Meredith,4 Jan 2024,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+961713,Riley Meredith,7 Jan 2024,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,0,3.75
+961713,Riley Meredith,9 Jan 2024,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.5,0,29,1,10.23
+961713,Riley Meredith,11 Jan 2024,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+961713,Riley Meredith,15 Jan 2024,v Stars,Melbourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+961713,Riley Meredith,31 May 2024,v Essex,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,0,5.25
+961713,Riley Meredith,2 Jun 2024,v Surrey,The Oval,2,11,0*,4,0,0,0,-,not out,1,4.0,0,34,3,8.5
+961713,Riley Meredith,9 Jun 2024,v Hampshire,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+961713,Riley Meredith,11 Jun 2024,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,4,3
+961713,Riley Meredith,14 Jun 2024,v Kent,Taunton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+961713,Riley Meredith,16 Jun 2024,v Glamorgan,Taunton,1,10,6*,2,1,0,1,600,not out,2,2.0,1,7,1,3.5
+961713,Riley Meredith,21 Jun 2024,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+961713,Riley Meredith,7 Jul 2024,v Gloucs,Taunton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+961713,Riley Meredith,12 Jul 2024,v Surrey,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+961713,Riley Meredith,14 Jul 2024,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+961713,Riley Meredith,18 Jul 2024,v Sussex,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+961713,Riley Meredith,19 Jul 2024,v Glamorgan,Cardiff,2,9,0,5,3,0,0,0,bowled,1,4.0,0,47,1,11.75
+961713,Riley Meredith,4 Sep 2024,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+961713,Riley Meredith,19 Dec 2024,v Renegades,Geelong,1,9,0,1,2,0,0,0,bowled,2,3.0,0,31,1,10.33
+961713,Riley Meredith,21 Dec 2024,v Scorchers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+961713,Riley Meredith,27 Dec 2024,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+961713,Riley Meredith,1 Jan 2025,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,1,4
+961713,Riley Meredith,5 Jan 2025,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+961713,Riley Meredith,10 Jan 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+961713,Riley Meredith,14 Jan 2025,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+961713,Riley Meredith,16 Jan 2025,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,57,0,14.25
+961713,Riley Meredith,21 Jan 2025,v Sixers,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+961713,Riley Meredith,27 Jan 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+961713,Riley Meredith,11 Apr 2025,v Qalandars,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+961713,Riley Meredith,16 Apr 2025,v Sultans,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+961713,Riley Meredith,23 Apr 2025,v Sultans,Multan,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+961713,Riley Meredith,2 May 2025,v Zalmi,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+961713,Riley Meredith,30 May 2025,v Surrey,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+961713,Riley Meredith,1 Jun 2025,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+961713,Riley Meredith,6 Jun 2025,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+961713,Riley Meredith,12 Jun 2025,v Middlesex,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,4,11.5
+961713,Riley Meredith,13 Jun 2025,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+961713,Riley Meredith,15 Jun 2025,v Kent,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,3,11.25
+961713,Riley Meredith,19 Jun 2025,v Hampshire,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+961713,Riley Meredith,20 Jun 2025,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,4,5.25
+961713,Riley Meredith,4 Jul 2025,v Glamorgan,Taunton,2,11,4*,1,1,1,0,400,not out,1,4.0,0,35,1,8.75
+961713,Riley Meredith,6 Jul 2025,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+961713,Riley Meredith,8 Jul 2025,v Essex,Taunton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,2,11
+961713,Riley Meredith,11 Jul 2025,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+961713,Riley Meredith,13 Jul 2025,v Surrey,The Oval,2,10,1,5,4,0,0,25,caught,1,4.0,0,46,0,11.5
+961713,Riley Meredith,7 Aug 2025,v N S-Chargers,Leeds,1,11,7*,5,5,1,0,140,not out,2,4.0,0,33,2,9.9
+961713,Riley Meredith,9 Aug 2025,v Spirit,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,7.8
+961713,Riley Meredith,13 Aug 2025,v Originals,Cardiff,1,10,0*,1,2,0,0,0,not out,2,3.2,1,9,4,3.17
+961713,Riley Meredith,22 Aug 2025,v Phoenix,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,7.5
+961713,Riley Meredith,24 Aug 2025,v Rockets,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,6
+961713,Riley Meredith,28 Aug 2025,v Brave,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,2,15
+961713,Riley Meredith,6 Sep 2025,v Bears,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,41,1,13.66
+961713,Riley Meredith,16 Dec 2025,v Thunder,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+961713,Riley Meredith,18 Dec 2025,v Stars,Melbourne,1,10,1,3,2,0,0,50,caught,2,2.0,0,18,0,9
+961713,Riley Meredith,21 Dec 2025,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+961713,Riley Meredith,26 Dec 2025,v Scorchers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+961713,Riley Meredith,29 Dec 2025,v Renegades,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+961713,Riley Meredith,1 Jan 2026,v Scorchers,Hobart,2,11,3*,2,2,0,0,150,not out,1,4.0,0,61,0,15.25
+961713,Riley Meredith,3 Jan 2026,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+961713,Riley Meredith,9 Jan 2026,v Strikers,Hobart,1,-,DNB,-,-,-,-,-,-,2,3.0,1,16,2,5.33
+961713,Riley Meredith,11 Jan 2026,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+961713,Riley Meredith,14 Jan 2026,v Heat,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,3,10
+961713,Riley Meredith,21 Jan 2026,v Stars,Hobart,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,2,9.5
+961713,Riley Meredith,23 Jan 2026,v Sixers,Sydney,2,10,0,-,1,0,0,0,caught,1,4.0,0,52,3,13

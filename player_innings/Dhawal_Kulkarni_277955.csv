@@ -1,0 +1,163 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+277955,Dhawal Kulkarni,6 Apr 2007,v Maharashtra,Brabourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+277955,Dhawal Kulkarni,20 Apr 2008,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.4,0,19,1,7.12
+277955,Dhawal Kulkarni,23 Apr 2008,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+277955,Dhawal Kulkarni,25 Apr 2008,v Kings XI,Mohali,2,10,2*,-,16,0,0,12.5,not out,1,4.0,0,37,2,9.25
+277955,Dhawal Kulkarni,27 Apr 2008,v Chargers,DY Patil,1,-,DNB,-,-,-,-,-,-,2,1.0,0,8,0,8
+277955,Dhawal Kulkarni,29 Apr 2008,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,0,5
+277955,Dhawal Kulkarni,4 May 2008,v Daredevils,DY Patil,1,-,DNB,-,-,-,-,-,-,2,2.5,0,18,2,6.35
+277955,Dhawal Kulkarni,7 May 2008,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+277955,Dhawal Kulkarni,14 May 2008,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+277955,Dhawal Kulkarni,24 May 2008,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+277955,Dhawal Kulkarni,28 May 2008,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+277955,Dhawal Kulkarni,25 Apr 2009,v Chargers,Durban,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+277955,Dhawal Kulkarni,6 May 2009,v Chargers,Centurion,2,10,7*,-,9,0,0,77.77,not out,1,4.0,0,21,1,5.25
+277955,Dhawal Kulkarni,8 May 2009,v Daredevils,East London,1,10,1,-,4,0,0,25,run out,2,3.0,0,9,0,3
+277955,Dhawal Kulkarni,10 May 2009,v RCB,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+277955,Dhawal Kulkarni,12 May 2009,v Kings XI,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,1,8
+277955,Dhawal Kulkarni,14 May 2009,v RR,Durban,2,9,1,-,4,0,0,25,lbw,1,4.0,0,29,0,7.25
+277955,Dhawal Kulkarni,16 May 2009,v CSK,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+277955,Dhawal Kulkarni,21 May 2009,v Daredevils,Centurion,1,10,0*,-,0,0,0,-,not out,2,3.0,0,36,1,12
+277955,Dhawal Kulkarni,20 Oct 2009,v Baroda,Pune,1,10,0*,1,0,0,0,-,not out,2,4.0,0,33,1,8.25
+277955,Dhawal Kulkarni,21 Oct 2009,v Gujarat,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+277955,Dhawal Kulkarni,22 Oct 2009,v Saurashtra,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,2,7
+277955,Dhawal Kulkarni,24 Oct 2009,v Maharashtra,Pune,2,10,5*,2,3,0,0,166.66,not out,1,2.0,0,33,1,16.5
+277955,Dhawal Kulkarni,11 Apr 2010,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+277955,Dhawal Kulkarni,4 May 2011,v Warriors,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,0,5
+277955,Dhawal Kulkarni,7 May 2011,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+277955,Dhawal Kulkarni,10 May 2011,v Kings XI,Mohali,2,9,2,-,4,0,0,50,caught,1,2.0,0,25,0,12.5
+277955,Dhawal Kulkarni,14 May 2011,v Chargers,Wankhede,2,10,0*,-,0,0,0,-,not out,1,4.0,0,26,3,6.5
+277955,Dhawal Kulkarni,20 May 2011,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+277955,Dhawal Kulkarni,25 May 2011,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+277955,Dhawal Kulkarni,20 Oct 2011,v Baroda,Rajkot,2,9,4*,6,3,0,0,133.33,not out,1,4.0,0,39,0,9.75
+277955,Dhawal Kulkarni,21 Oct 2011,v Gujarat,Rajkot,1,10,7,1,2,0,1,350,run out,2,4.0,0,27,1,6.75
+277955,Dhawal Kulkarni,22 Oct 2011,v Saurashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+277955,Dhawal Kulkarni,24 Mar 2012,v Tamil Nadu,Brabourne,1,10,2*,-,2,0,0,100,not out,2,3.5,0,32,3,8.34
+277955,Dhawal Kulkarni,26 Mar 2012,v Punjab,Mumbai,1,10,3*,-,3,0,0,100,not out,2,3.0,0,14,1,4.66
+277955,Dhawal Kulkarni,20 May 2012,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,3,4.5
+277955,Dhawal Kulkarni,23 May 2012,v CSK,Bengaluru,2,10,10*,-,5,2,0,200,not out,1,4.0,0,46,3,11.5
+277955,Dhawal Kulkarni,14 Oct 2012,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+277955,Dhawal Kulkarni,18 Oct 2012,v Yorkshire,Cape Town,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+277955,Dhawal Kulkarni,20 Oct 2012,v CSK,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+277955,Dhawal Kulkarni,17 Mar 2013,v Baroda,Ahmedabad,2,9,2,13,4,0,0,50,caught,1,4.0,0,33,0,8.25
+277955,Dhawal Kulkarni,18 Mar 2013,v Gujarat,Ahmedabad,2,8,14*,21,13,2,0,107.69,not out,1,4.0,0,37,0,9.25
+277955,Dhawal Kulkarni,19 Mar 2013,v Saurashtra,Ahmedabad,2,9,3,-,6,0,0,50,run out,1,4.0,0,39,1,9.75
+277955,Dhawal Kulkarni,27 Apr 2013,v RCB,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+277955,Dhawal Kulkarni,29 Apr 2013,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,2,11
+277955,Dhawal Kulkarni,1 May 2013,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+277955,Dhawal Kulkarni,13 May 2013,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+277955,Dhawal Kulkarni,15 May 2013,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+277955,Dhawal Kulkarni,18 May 2013,v Kings XI,Dharamsala,2,-,absent,-,-,-,-,-,-,1,0.4,0,12,0,18
+277955,Dhawal Kulkarni,30 Mar 2014,v Baroda,Wankhede,2,8,10,13,10,1,0,100,caught,1,4.0,0,28,1,7
+277955,Dhawal Kulkarni,31 Mar 2014,v Gujarat,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+277955,Dhawal Kulkarni,2 Apr 2014,v Saurashtra,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,1,8,1,2
+277955,Dhawal Kulkarni,3 Apr 2014,v Maharashtra,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+277955,Dhawal Kulkarni,18 Apr 2014,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+277955,Dhawal Kulkarni,20 Apr 2014,v Kings XI,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+277955,Dhawal Kulkarni,23 Apr 2014,v CSK,Dubai (DICS),2,10,28*,20,19,0,2,147.36,not out,1,3.0,0,18,0,6
+277955,Dhawal Kulkarni,3 May 2014,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,18,0,6
+277955,Dhawal Kulkarni,8 May 2014,v SRH,Ahmedabad,2,10,7*,10,6,1,0,116.66,not out,1,2.0,0,19,0,9.5
+277955,Dhawal Kulkarni,15 May 2014,v Daredevils,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,1,24,1,6
+277955,Dhawal Kulkarni,19 May 2014,v MI,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+277955,Dhawal Kulkarni,25 May 2014,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,2,14
+277955,Dhawal Kulkarni,10 Apr 2015,v Kings XI,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+277955,Dhawal Kulkarni,12 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+277955,Dhawal Kulkarni,14 Apr 2015,v MI,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,1,5
+277955,Dhawal Kulkarni,16 Apr 2015,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,3.0,1,9,2,3
+277955,Dhawal Kulkarni,24 Apr 2015,v RCB,Ahmedabad,1,10,1,1,2,0,0,50,bowled,2,4.0,0,26,0,6.5
+277955,Dhawal Kulkarni,29 Apr 2015,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+277955,Dhawal Kulkarni,1 May 2015,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,2,8.66
+277955,Dhawal Kulkarni,3 May 2015,v Daredevils,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+277955,Dhawal Kulkarni,7 May 2015,v SRH,Brabourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+277955,Dhawal Kulkarni,16 May 2015,v KKR,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+277955,Dhawal Kulkarni,20 May 2015,v RCB,Pune,2,11,3,9,9,0,0,33.33,bowled,1,4.0,0,28,2,7
+277955,Dhawal Kulkarni,2 Jan 2016,v Odisha,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.4,0,17,2,4.63
+277955,Dhawal Kulkarni,3 Jan 2016,v Karnataka,Cuttack,2,10,2*,9,2,0,0,100,not out,1,4.0,0,35,3,8.75
+277955,Dhawal Kulkarni,4 Jan 2016,v Services,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+277955,Dhawal Kulkarni,7 Jan 2016,v UP,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+277955,Dhawal Kulkarni,8 Jan 2016,v Maharashtra,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+277955,Dhawal Kulkarni,15 Jan 2016,v Kerala,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+277955,Dhawal Kulkarni,16 Jan 2016,v Vidarbha,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+277955,Dhawal Kulkarni,18 Jan 2016,v Baroda,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+277955,Dhawal Kulkarni,16 Apr 2016,v MI,Wankhede,2,9,6*,11,3,1,0,200,not out,1,4.0,1,19,2,4.75
+277955,Dhawal Kulkarni,21 Apr 2016,v SRH,Rajkot,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+277955,Dhawal Kulkarni,24 Apr 2016,v RCB,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+277955,Dhawal Kulkarni,27 Apr 2016,v Daredevils,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,19,3,4.75
+277955,Dhawal Kulkarni,29 Apr 2016,v Supergiants,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+277955,Dhawal Kulkarni,1 May 2016,v Kings XI,Rajkot,2,10,6*,7,4,0,0,150,not out,1,4.0,0,28,1,7
+277955,Dhawal Kulkarni,3 May 2016,v Daredevils,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+277955,Dhawal Kulkarni,6 May 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,1,17,2,4.25
+277955,Dhawal Kulkarni,8 May 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+277955,Dhawal Kulkarni,14 May 2016,v RCB,Bengaluru,2,9,2,4,3,0,0,66.66,bowled,1,3.0,0,33,1,11
+277955,Dhawal Kulkarni,19 May 2016,v KKR,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+277955,Dhawal Kulkarni,21 May 2016,v MI,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+277955,Dhawal Kulkarni,24 May 2016,v RCB,Bengaluru,1,10,10,8,4,2,0,250,run out,2,4.0,1,14,4,3.5
+277955,Dhawal Kulkarni,27 May 2016,v SRH,Delhi,1,9,3*,3,2,0,0,150,not out,2,4.0,0,32,0,8
+277955,Dhawal Kulkarni,20 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+277955,Dhawal Kulkarni,22 Jun 2016,v Zimbabwe,Harare,1,8,1*,7,1,0,0,100,not out,2,4.0,0,23,2,5.75
+277955,Dhawal Kulkarni,7 Apr 2017,v KKR,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.5,0,42,0,14.82
+277955,Dhawal Kulkarni,9 Apr 2017,v SRH,Hyderabad,1,7,1,6,2,0,0,50,run out,2,2.0,0,17,0,8.5
+277955,Dhawal Kulkarni,18 Apr 2017,v RCB,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+277955,Dhawal Kulkarni,21 Apr 2017,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+277955,Dhawal Kulkarni,7 May 2017,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+277955,Dhawal Kulkarni,10 May 2017,v Daredevils,Kanpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+277955,Dhawal Kulkarni,7 Jan 2018,v Baroda,Rajkot,2,10,0*,3,1,0,0,0,not out,1,4.0,0,29,1,7.25
+277955,Dhawal Kulkarni,8 Jan 2018,v Gujarat,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+277955,Dhawal Kulkarni,10 Jan 2018,v Saurashtra,Rajkot,1,10,19*,16,13,3,0,146.15,not out,2,4.0,0,22,0,5.5
+277955,Dhawal Kulkarni,11 Jan 2018,v Maharashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+277955,Dhawal Kulkarni,21 Jan 2018,v Jharkhand,Kolkata,1,-,DNB,-,-,-,-,-,-,2,4.0,2,12,1,3
+277955,Dhawal Kulkarni,22 Jan 2018,v Punjab,Kolkata,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,1,10.5
+277955,Dhawal Kulkarni,24 Jan 2018,v Rajasthan,Eden Gardens,2,9,1*,4,1,0,0,100,not out,1,4.0,0,35,3,8.75
+277955,Dhawal Kulkarni,25 Jan 2018,v Karnataka,Eden Gardens,1,8,9,15,12,0,1,75,caught,2,4.0,0,36,2,9
+277955,Dhawal Kulkarni,9 Apr 2018,v SRH,Hyderabad,1,9,3*,-,4,0,0,75,not out,2,2.5,0,18,0,6.35
+277955,Dhawal Kulkarni,11 Apr 2018,v Daredevils,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,4,0,4
+277955,Dhawal Kulkarni,15 Apr 2018,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,1.0,0,14,0,14
+277955,Dhawal Kulkarni,18 Apr 2018,v KKR,Jaipur,1,9,3,-,3,0,0,100,run out,2,2.0,0,20,0,10
+277955,Dhawal Kulkarni,22 Apr 2018,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+277955,Dhawal Kulkarni,29 Apr 2018,v SRH,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+277955,Dhawal Kulkarni,2 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,37,1,12.33
+277955,Dhawal Kulkarni,13 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+277955,Dhawal Kulkarni,21 Feb 2019,v Sikkim,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+277955,Dhawal Kulkarni,22 Feb 2019,v Punjab,Indore,1,10,0,2,2,0,0,0,caught,2,3.2,0,22,4,6.6
+277955,Dhawal Kulkarni,24 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,2,3
+277955,Dhawal Kulkarni,25 Feb 2019,v Goa,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+277955,Dhawal Kulkarni,27 Feb 2019,v Railways,Indore,2,10,13,11,12,2,0,108.33,caught,1,4.0,0,36,1,9
+277955,Dhawal Kulkarni,28 Feb 2019,v Saurashtra,Indore,1,9,2,-,4,0,0,50,run out,2,4.0,0,23,2,5.75
+277955,Dhawal Kulkarni,8 Mar 2019,v Karnataka,Indore,1,10,5,-,6,1,0,83.33,caught,2,2.0,0,12,0,6
+277955,Dhawal Kulkarni,25 Mar 2019,v Kings XI,Jaipur,2,11,5*,2,3,1,0,166.66,not out,1,4.0,0,30,1,7.5
+277955,Dhawal Kulkarni,29 Mar 2019,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+277955,Dhawal Kulkarni,31 Mar 2019,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+277955,Dhawal Kulkarni,2 Apr 2019,v RCB,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+277955,Dhawal Kulkarni,7 Apr 2019,v KKR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+277955,Dhawal Kulkarni,11 Apr 2019,v CSK,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,1,14,1,4.66
+277955,Dhawal Kulkarni,13 Apr 2019,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+277955,Dhawal Kulkarni,16 Apr 2019,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+277955,Dhawal Kulkarni,20 Apr 2019,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+277955,Dhawal Kulkarni,22 Apr 2019,v DC,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,1,12.75
+277955,Dhawal Kulkarni,8 Nov 2019,v Mizoram,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+277955,Dhawal Kulkarni,9 Nov 2019,v Haryana,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+277955,Dhawal Kulkarni,11 Nov 2019,v M. Pradesh,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+277955,Dhawal Kulkarni,14 Nov 2019,v Bengal,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+277955,Dhawal Kulkarni,15 Nov 2019,v Meghalaya,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.2,0,40,1,12
+277955,Dhawal Kulkarni,17 Nov 2019,v Assam,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+277955,Dhawal Kulkarni,22 Nov 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+277955,Dhawal Kulkarni,24 Nov 2019,v Jharkhand,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+277955,Dhawal Kulkarni,25 Nov 2019,v Karnataka,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+277955,Dhawal Kulkarni,3 Nov 2020,v SRH,Sharjah,1,10,3*,-,2,0,0,150,not out,2,3.0,0,22,0,7.33
+277955,Dhawal Kulkarni,11 Jan 2021,v Delhi,Wankhede,2,10,0,-,2,0,0,0,run out,1,4.0,0,32,0,8
+277955,Dhawal Kulkarni,13 Jan 2021,v Kerala,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+277955,Dhawal Kulkarni,15 Jan 2021,v Haryana,Mumbai,1,10,13,-,6,3,0,216.66,caught,2,3.4,0,31,0,8.45
+277955,Dhawal Kulkarni,17 Jan 2021,v Puducherry,Wankhede,1,10,6,-,9,0,0,66.66,caught,2,4.0,0,17,0,4.25
+277955,Dhawal Kulkarni,1 May 2021,v CSK,Delhi,2,8,0*,6,0,0,0,-,not out,1,4.0,0,48,0,12
+277955,Dhawal Kulkarni,11 Oct 2022,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+277955,Dhawal Kulkarni,12 Oct 2022,v M. Pradesh,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+277955,Dhawal Kulkarni,14 Oct 2022,v Assam,Rajkot,1,-,sub,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+277955,Dhawal Kulkarni,16 Oct 2022,v Vidarbha,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+277955,Dhawal Kulkarni,18 Oct 2022,v Rajasthan,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,2.2,0,15,1,6.42
+277955,Dhawal Kulkarni,16 Oct 2023,v Haryana,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+277955,Dhawal Kulkarni,17 Oct 2023,v Meghalaya,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,0,5.33
+277955,Dhawal Kulkarni,19 Oct 2023,v Baroda,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+277955,Dhawal Kulkarni,21 Oct 2023,v J & K,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.3,0,16,2,4.57
+277955,Dhawal Kulkarni,23 Oct 2023,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,0,3.25
+277955,Dhawal Kulkarni,25 Oct 2023,v Hyderabad,Jaipur,2,-,sub,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+277955,Dhawal Kulkarni,2 Nov 2023,v Baroda,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33

@@ -1,0 +1,81 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+228430,Abu Nechim,3 Apr 2007,v Bengal,Eden Gardens,2,8,7,11,9,0,0,77.77,caught,1,4.0,0,33,1,8.25
+228430,Abu Nechim,4 Apr 2007,v Tripura,Eden Gardens,1,10,2,4,6,0,0,33.33,bowled,2,3.0,0,20,0,6.66
+228430,Abu Nechim,5 Apr 2007,v Jharkhand,Eden Gardens,1,9,8,1,3,2,0,266.66,caught,2,3.0,0,25,1,8.33
+228430,Abu Nechim,8 Apr 2007,v Orissa,Eden Gardens,2,8,1,-,4,0,0,25,caught,1,4.0,0,33,0,8.25
+228430,Abu Nechim,20 Oct 2009,v Orissa,Dhanbad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,1,5.33
+228430,Abu Nechim,21 Oct 2009,v Bengal,Dhanbad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,11,1,3.66
+228430,Abu Nechim,22 Oct 2009,v Tripura,Dhanbad,1,8,11,15,4,1,1,275,caught,2,4.0,0,31,1,7.75
+228430,Abu Nechim,23 Oct 2009,v Jharkhand,Dhanbad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+228430,Abu Nechim,6 Apr 2010,v CSK,Chennai,2,10,4*,-,7,0,0,57.14,not out,1,2.0,0,26,0,13
+228430,Abu Nechim,19 Sep 2010,v RCB,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+228430,Abu Nechim,20 Apr 2011,v Warriors,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,1,13,2,4.33
+228430,Abu Nechim,22 Apr 2011,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,0,9.5
+228430,Abu Nechim,24 Apr 2011,v Chargers,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+228430,Abu Nechim,2 May 2011,v Kings XI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+228430,Abu Nechim,22 May 2011,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+228430,Abu Nechim,27 May 2011,v RCB,Chennai,2,10,18*,-,13,1,1,138.46,not out,1,4.0,0,56,1,14
+228430,Abu Nechim,24 Sep 2011,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+228430,Abu Nechim,26 Sep 2011,v Trinidad & T,Bengaluru,2,10,0*,3,0,0,0,-,not out,1,2.2,0,17,1,7.28
+228430,Abu Nechim,30 Sep 2011,v Cape Cobras,Bengaluru,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+228430,Abu Nechim,2 Oct 2011,v NSW,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+228430,Abu Nechim,8 Oct 2011,v Somerset,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+228430,Abu Nechim,9 Oct 2011,v RCB,Chennai,1,10,2*,6,4,0,0,50,not out,2,3.2,0,26,2,7.8
+228430,Abu Nechim,20 Oct 2011,v Bengal,Jamshedpur,2,11,1,4,3,0,0,33.33,bowled,1,4.0,0,18,1,4.5
+228430,Abu Nechim,22 Oct 2011,v Tripura,Jamshedpur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+228430,Abu Nechim,24 Oct 2011,v Jharkhand,Jamshedpur,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,3,3
+228430,Abu Nechim,23 Mar 2012,v Punjab,Brabourne,1,10,11,-,11,0,0,100,bowled,2,2.0,0,26,1,13
+228430,Abu Nechim,4 Apr 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+228430,Abu Nechim,17 Mar 2013,v Bengal,Agartala,2,9,9*,-,10,1,0,90,not out,1,4.0,0,22,0,5.5
+228430,Abu Nechim,18 Mar 2013,v Odisha,Agartala,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+228430,Abu Nechim,19 Mar 2013,v Tripura,Agartala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+228430,Abu Nechim,21 Mar 2013,v Jharkhand,Agartala,2,6,4*,-,1,0,0,400,not out,1,4.0,0,15,0,3.75
+228430,Abu Nechim,7 May 2013,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+228430,Abu Nechim,11 May 2013,v Warriors,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+228430,Abu Nechim,1 Apr 2014,v Bengal,Eden Gardens,2,7,4,5,8,0,0,50,caught,1,4.0,0,36,1,9
+228430,Abu Nechim,2 Apr 2014,v Odisha,Jadavpur Uni,1,7,2,1,2,0,0,100,bowled,2,3.0,0,23,2,7.66
+228430,Abu Nechim,3 Apr 2014,v Tripura,Jadavpur Uni,1,9,0,1,0,0,0,-,run out,2,4.0,0,21,4,5.25
+228430,Abu Nechim,5 Apr 2014,v Jharkhand,Jadavpur Uni,1,9,9*,7,5,0,1,180,not out,2,4.0,0,37,0,9.25
+228430,Abu Nechim,13 May 2014,v Daredevils,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+228430,Abu Nechim,18 May 2014,v CSK,Ranchi,2,7,4*,1,1,1,0,400,not out,1,4.0,0,18,1,4.5
+228430,Abu Nechim,20 May 2014,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.2,0,22,0,9.42
+228430,Abu Nechim,22 May 2014,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+228430,Abu Nechim,25 Mar 2015,v Bengal,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+228430,Abu Nechim,26 Mar 2015,v Odisha,Cuttack,2,9,17,16,15,1,1,113.33,caught,1,3.0,0,43,0,14.33
+228430,Abu Nechim,27 Mar 2015,v Tripura,Cuttack,1,9,18*,5,5,1,2,360,not out,2,4.0,0,42,1,10.5
+228430,Abu Nechim,29 Mar 2015,v Jharkhand,Cuttack,1,-,DNB,-,-,-,-,-,-,2,1.1,0,23,0,19.71
+228430,Abu Nechim,11 Apr 2015,v KKR,Eden Gardens,2,9,5*,5,2,1,0,250,not out,1,4.0,0,28,1,7
+228430,Abu Nechim,13 Apr 2015,v SRH,Bengaluru,1,9,4,10,2,1,0,200,bowled,2,4.0,0,41,0,10.25
+228430,Abu Nechim,19 Apr 2015,v MI,Bengaluru,2,9,1*,2,1,0,0,100,not out,1,4.0,0,59,0,14.75
+228430,Abu Nechim,2 Jan 2016,v Baroda,Vadodara,2,9,20,6,11,0,3,181.81,stumped,1,4.0,0,35,2,8.75
+228430,Abu Nechim,4 Jan 2016,v Goa,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+228430,Abu Nechim,6 Jan 2016,v Delhi,Vadodara,1,9,1,2,2,0,0,50,bowled,2,2.0,0,9,0,4.5
+228430,Abu Nechim,7 Jan 2016,v Andhra,Vadodara,2,9,1,6,2,0,0,50,caught,1,3.0,0,14,2,4.66
+228430,Abu Nechim,9 Jan 2016,v Railways,Vadodara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+228430,Abu Nechim,29 Jan 2017,v Jharkhand,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,3,8
+228430,Abu Nechim,1 Feb 2017,v Bengal,Eden Gardens,1,9,1,1,1,0,0,100,run out,2,2.0,0,22,0,11
+228430,Abu Nechim,3 Feb 2017,v Tripura,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,2,3.33
+228430,Abu Nechim,5 Feb 2017,v Odisha,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+228430,Abu Nechim,8 Jan 2018,v Tripura,Ranchi,2,9,5,14,7,0,0,71.42,run out,1,4.0,0,20,3,5
+228430,Abu Nechim,10 Jan 2018,v Odisha,Ranchi,2,9,3,8,4,0,0,75,stumped,1,3.0,0,13,2,4.33
+228430,Abu Nechim,14 Jan 2018,v Jharkhand,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+228430,Abu Nechim,16 Jan 2018,v Bengal,Ranchi,1,7,12,4,5,1,1,240,bowled,2,3.0,0,24,1,8
+228430,Abu Nechim,21 Feb 2019,v Karnataka,Cuttack,2,9,1*,-,2,0,0,50,not out,1,4.0,0,32,2,8
+228430,Abu Nechim,22 Feb 2019,v Mizoram,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,2,4
+228430,Abu Nechim,24 Feb 2019,v Chhattisgarh,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+228430,Abu Nechim,25 Feb 2019,v Bengal,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+228430,Abu Nechim,27 Feb 2019,v Odisha,Cuttack,1,9,1,-,3,0,0,33.33,bowled,2,3.0,0,29,2,9.66
+228430,Abu Nechim,28 Feb 2019,v Haryana,Cuttack,1,9,0,-,1,0,0,0,caught,2,1.0,0,14,0,14
+228430,Abu Nechim,2 Mar 2019,v Arunachal,Cuttack,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+228430,Abu Nechim,9 Nov 2019,v M. Pradesh,Mumbai,1,8,3,-,7,0,0,42.85,caught,2,1.0,0,10,0,10
+228430,Abu Nechim,11 Nov 2019,v Haryana,Mumbai,1,8,3,-,4,0,0,75,bowled,2,3.0,0,28,1,9.33
+228430,Abu Nechim,12 Nov 2019,v Meghalaya,Wankhede,1,8,26*,-,19,1,1,136.84,not out,2,1.0,0,11,0,11
+228430,Abu Nechim,14 Nov 2019,v Mizoram,Mumbai,2,-,DNB,-,-,-,-,-,-,1,3.1,1,3,3,0.94
+228430,Abu Nechim,15 Nov 2019,v Puducherry,Mumbai,1,7,9,-,10,1,0,90,stumped,2,4.0,1,18,1,4.5
+228430,Abu Nechim,17 Nov 2019,v Mumbai,Wankhede,2,7,10,-,13,1,0,76.92,caught,1,4.0,0,35,2,8.75
+228430,Abu Nechim,18 Nov 2019,v Bengal,Wankhede,1,8,1,-,2,0,0,50,caught,2,1.5,0,24,0,13.09
+228430,Abu Nechim,4 Nov 2021,v Manipur,Mangalagiri,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,2,4.75
+228430,Abu Nechim,5 Nov 2021,v Vidarbha,Mulapadu,1,7,2,8,6,0,0,33.33,caught,2,3.0,0,18,1,6
+228430,Abu Nechim,6 Nov 2021,v Mizoram,Mangalagiri,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+228430,Abu Nechim,8 Nov 2021,v Arunachal,Mulapadu,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+228430,Abu Nechim,9 Nov 2021,v Tripura,Mulapadu,1,9,0,-,1,0,0,0,run out,2,2.0,0,13,0,6.5

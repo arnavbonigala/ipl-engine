@@ -1,0 +1,123 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+643433,George Garton,26 Jun 2016,v Gloucs,Arundel,2,10,2*,7,2,0,0,100,not out,1,3.0,0,29,0,9.66
+643433,George Garton,28 Jul 2016,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,4,5.33
+643433,George Garton,12 Jul 2017,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+643433,George Garton,16 Jul 2017,v Gloucs,Cheltenham,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+643433,George Garton,20 Jul 2017,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+643433,George Garton,21 Jul 2017,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+643433,George Garton,23 Jul 2017,v Kent,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+643433,George Garton,28 Jul 2017,v Middlesex,Hove,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+643433,George Garton,30 Jul 2017,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,2.0,0,25,2,12.5
+643433,George Garton,10 Aug 2017,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+643433,George Garton,11 Aug 2017,v Gloucs,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+643433,George Garton,18 Aug 2017,v Essex,Hove,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+643433,George Garton,28 Aug 2020,v Surrey,Hove,1,7,13*,13,13,1,0,100,not out,-,TDNB,-,-,-,-
+643433,George Garton,30 Aug 2020,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+643433,George Garton,1 Sep 2020,v Middlesex,Lord's,2,7,19,24,19,2,0,100,bowled,1,1.0,0,11,0,11
+643433,George Garton,3 Sep 2020,v Kent,Hove,2,7,2*,12,2,0,0,100,not out,1,4.0,0,31,2,7.75
+643433,George Garton,10 Sep 2020,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+643433,George Garton,12 Sep 2020,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+643433,George Garton,14 Sep 2020,v Essex,Hove,2,7,2,13,6,0,0,33.33,caught,1,4.0,0,35,0,8.75
+643433,George Garton,16 Sep 2020,v Surrey,The Oval,1,8,6*,7,4,1,0,150,not out,2,3.0,0,27,0,9
+643433,George Garton,18 Sep 2020,v Middlesex,Hove,2,8,24,12,9,1,3,266.66,caught,1,4.0,0,27,4,6.75
+643433,George Garton,20 Sep 2020,v Essex,Chelmsford,2,7,34*,40,30,4,0,113.33,not out,1,4.0,1,21,4,5.25
+643433,George Garton,1 Oct 2020,v Lancashire,Hove,2,7,1,8,4,0,0,25,bowled,1,4.0,0,28,3,7
+643433,George Garton,11 Jun 2021,v Gloucs,Bristol,2,6,46,37,25,2,3,184,bowled,1,4.0,0,19,3,4.75
+643433,George Garton,12 Jun 2021,v Hampshire,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,2,2.75
+643433,George Garton,15 Jun 2021,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,3,7.75
+643433,George Garton,17 Jun 2021,v Surrey,The Oval,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,6,0,6
+643433,George Garton,25 Jun 2021,v Gloucs,Hove,2,7,9,13,10,1,0,90,bowled,1,3.0,0,39,0,13
+643433,George Garton,24 Jul 2021,v Rockets,Nottingham,1,9,0,-,2,0,0,0,bowled,2,3.0,0,29,1,11.6
+643433,George Garton,30 Jul 2021,v Phoenix,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,0,7.8
+643433,George Garton,1 Aug 2021,v Spirit,Lord's,1,5,6,11,7,1,0,85.71,caught,2,4.0,1,30,2,9
+643433,George Garton,5 Aug 2021,v Originals,Manchester,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,24,0,9.6
+643433,George Garton,7 Aug 2021,v N S-Chargers,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,8.4
+643433,George Garton,11 Aug 2021,v Fire,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,13.2
+643433,George Garton,16 Aug 2021,v Invincibles,Southampton,2,5,23,21,17,0,2,135.29,run out,1,3.0,0,22,2,8.8
+643433,George Garton,20 Aug 2021,v Rockets,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,5.4
+643433,George Garton,21 Aug 2021,v Phoenix,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,1,27,1,8.1
+643433,George Garton,24 Aug 2021,v Yorkshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+643433,George Garton,18 Sep 2021,v Kent,Birmingham,2,7,41,25,23,4,3,178.26,caught,1,4.0,0,24,2,6
+643433,George Garton,29 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,1,10
+643433,George Garton,3 Oct 2021,v Punjab Kings,Sharjah,1,8,0,1,1,0,0,0,bowled,2,4.0,0,27,1,6.75
+643433,George Garton,6 Oct 2021,v SRH,Abu Dhabi,2,8,2*,8,3,0,0,66.66,not out,1,2.0,0,29,1,14.5
+643433,George Garton,8 Oct 2021,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+643433,George Garton,11 Oct 2021,v KKR,Sharjah,1,9,0*,3,0,0,0,-,not out,2,3.0,0,29,0,9.66
+643433,George Garton,7 Dec 2021,v Renegades,Melbourne (Docklands),2,7,5,8,3,1,0,166.66,bowled,1,4.0,0,23,2,5.75
+643433,George Garton,9 Dec 2021,v Renegades,Adelaide,1,8,19,17,11,3,0,172.72,caught,2,3.0,0,19,1,6.33
+643433,George Garton,21 Dec 2021,v Sixers,Sydney,1,7,11,11,11,1,0,100,caught,2,4.0,0,41,2,10.25
+643433,George Garton,23 Dec 2021,v Heat,Adelaide,2,7,19,6,6,0,3,316.66,lbw,1,3.0,0,48,0,16
+643433,George Garton,27 Dec 2021,v Hurricanes,Hobart,1,6,1*,8,2,0,0,50,not out,2,3.0,0,30,1,10
+643433,George Garton,31 Dec 2021,v Thunder,Adelaide,2,6,8,-,11,0,0,72.72,caught,1,3.0,0,47,0,15.66
+643433,George Garton,26 Jan 2022,v West Indies,Bridgetown,2,8,2,7,4,0,0,50,bowled,1,4.0,0,57,1,14.25
+643433,George Garton,26 May 2022,v Glamorgan,Hove,1,6,2,6,5,0,0,40,caught,2,2.0,0,16,0,8
+643433,George Garton,27 May 2022,v Gloucs,Bristol,2,5,1,6,4,0,0,25,caught,1,4.0,0,46,0,11.5
+643433,George Garton,29 May 2022,v Kent,Hove,1,7,12*,23,10,1,0,120,not out,2,3.0,0,47,1,15.66
+643433,George Garton,1 Jun 2022,v Somerset,Taunton,1,6,14,10,7,1,1,200,bowled,2,2.0,0,13,0,6.5
+643433,George Garton,23 Jun 2022,v Surrey,Hove,1,7,24*,21,12,3,1,200,not out,2,1.0,0,12,0,12
+643433,George Garton,24 Jun 2022,v Kent,Canterbury,1,7,31,22,16,4,1,193.75,caught,2,DNB,-,-,-,-
+643433,George Garton,1 Jul 2022,v Essex,Hove,2,7,7,5,7,1,0,100,bowled,1,2.0,0,30,0,15
+643433,George Garton,3 Jul 2022,v Hampshire,Hove,1,7,37,21,17,3,3,217.64,caught,2,2.0,0,25,0,12.5
+643433,George Garton,10 Aug 2022,v Phoenix,Birmingham,2,8,4,-,2,1,0,200,lbw,1,3.0,0,43,0,17.2
+643433,George Garton,14 Aug 2022,v Invincibles,The Oval,1,8,0*,-,1,0,0,0,not out,2,3.0,0,26,1,10.4
+643433,George Garton,18 Aug 2022,v Originals,Southampton,2,6,25,18,14,3,1,178.57,bowled,1,2.0,0,23,0,13.8
+643433,George Garton,22 Aug 2022,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,1,7,3,2.8
+643433,George Garton,11 Jan 2023,v Super Giants,Durban,1,8,4*,1,1,1,0,400,not out,2,1.0,0,12,0,12
+643433,George Garton,13 Jan 2023,v Paarl Royals,Paarl,1,8,3,20,6,0,0,50,bowled,2,2.0,0,15,1,7.5
+643433,George Garton,14 Jan 2023,v MI Cape Town,Cape Town,1,8,13*,30,15,1,0,86.66,not out,2,2.0,0,13,0,6.5
+643433,George Garton,26 May 2023,v Somerset,Hove,1,7,0,1,1,0,0,0,caught,2,3.0,0,26,1,8.66
+643433,George Garton,28 May 2023,v Surrey,The Oval,2,5,7,13,12,0,0,58.33,stumped,1,3.3,0,22,1,6.28
+643433,George Garton,1 Jun 2023,v Essex,Hove,2,7,7,4,5,1,0,140,caught,1,2.0,0,17,1,8.5
+643433,George Garton,3 Jun 2023,v Hampshire,Southampton,1,8,18,14,13,2,0,138.46,caught,2,2.0,1,19,0,9.5
+643433,George Garton,16 Jun 2023,v Hampshire,Hove,1,8,4*,1,1,1,0,400,not out,2,2.0,0,20,1,10
+643433,George Garton,20 Jun 2023,v Kent,Hove,1,6,13,12,8,2,0,162.5,caught,2,3.0,0,28,0,9.33
+643433,George Garton,22 Jun 2023,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+643433,George Garton,1 Aug 2023,v Rockets,Nottingham,2,5,8,7,8,1,0,100,caught,1,3.0,0,17,1,6.8
+643433,George Garton,4 Aug 2023,v Fire,Southampton,1,5,1,2,3,0,0,33.33,bowled,2,3.0,0,19,1,7.6
+643433,George Garton,6 Aug 2023,v N S-Chargers,Southampton,2,7,4*,3,4,0,0,100,not out,1,4.0,0,39,0,11.7
+643433,George Garton,12 Aug 2023,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,8,3,3.2
+643433,George Garton,16 Aug 2023,v Phoenix,Southampton,2,5,28,15,18,4,1,155.55,caught,1,2.0,0,22,0,13.2
+643433,George Garton,19 Aug 2023,v Invincibles,Southampton,2,8,0,2,3,0,0,0,caught,1,3.0,0,21,0,8.4
+643433,George Garton,23 Aug 2023,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,7.8
+643433,George Garton,26 Aug 2023,v Originals,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,16.2
+643433,George Garton,31 May 2024,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+643433,George Garton,1 Jun 2024,v Notts,Birmingham,1,7,7,7,5,0,1,140,caught,2,1.0,0,9,0,9
+643433,George Garton,7 Jun 2024,v Lancashire,Manchester,2,7,8*,15,7,0,0,114.28,not out,1,2.0,0,18,1,9
+643433,George Garton,8 Jun 2024,v Durham,Birmingham,2,8,19,18,9,2,1,211.11,bowled,1,4.0,0,41,3,10.25
+643433,George Garton,16 Jun 2024,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+643433,George Garton,20 Jun 2024,v Northants,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,2,11.5
+643433,George Garton,21 Jun 2024,v Worcs,Worcester,2,7,4*,1,1,1,0,400,not out,1,3.0,0,24,0,8
+643433,George Garton,5 Jul 2024,v Yorkshire,Leeds,1,7,19,18,13,2,0,146.15,caught,2,3.0,0,23,0,7.66
+643433,George Garton,7 Jul 2024,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,2.0,1,6,2,3
+643433,George Garton,12 Jul 2024,v Worcs,Birmingham,2,9,0,4,2,0,0,0,bowled,1,2.0,0,49,0,24.5
+643433,George Garton,14 Jul 2024,v Derbyshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+643433,George Garton,18 Jul 2024,v Northants,Northampton,2,7,29*,34,20,2,1,145,not out,1,2.0,0,6,1,3
+643433,George Garton,19 Jul 2024,v Leics,Birmingham,1,7,4*,4,3,0,0,133.33,not out,2,3.0,0,19,1,6.33
+643433,George Garton,6 Sep 2024,v Gloucs,Birmingham,2,7,15,16,14,2,0,107.14,caught,1,1.0,0,10,0,10
+643433,George Garton,10 Jan 2025,v Hurricanes,Hobart,1,8,0*,6,0,0,0,-,not out,2,3.0,0,31,2,10.33
+643433,George Garton,13 Jan 2025,v Scorchers,Sydney,1,5,1,4,3,0,0,33.33,caught,2,DNB,-,-,-,-
+643433,George Garton,17 Jan 2025,v Sixers,Sydney,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+643433,George Garton,22 Jan 2025,v Stars,Sydney,1,6,5,14,5,1,0,100,caught,2,2.0,0,18,0,9
+643433,George Garton,24 Jan 2025,v Sixers,Sydney,2,7,2,4,3,0,0,66.66,bowled,1,2.0,0,14,1,7
+643433,George Garton,27 Jan 2025,v Hurricanes,Hobart,1,7,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+643433,George Garton,30 May 2025,v Notts,Nottingham,1,6,18,-,10,2,1,180,bowled,2,2.0,0,36,0,18
+643433,George Garton,31 May 2025,v Durham,Birmingham,1,7,17,13,11,3,0,154.54,lbw,2,DNB,-,-,-,-
+643433,George Garton,6 Jun 2025,v Yorkshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+643433,George Garton,8 Jun 2025,v Derbyshire,Birmingham,1,8,16*,5,4,2,1,400,not out,2,3.0,0,20,1,6.66
+643433,George Garton,11 Jun 2025,v Northants,Northampton,2,7,1,6,3,0,0,33.33,bowled,1,4.0,0,29,1,7.25
+643433,George Garton,13 Jun 2025,v Yorkshire,Leeds,1,8,21,13,6,2,2,350,caught,2,1.0,0,10,0,10
+643433,George Garton,14 Jun 2025,v Notts,Birmingham,1,5,7,4,4,0,1,175,caught,2,1.0,0,6,0,6
+643433,George Garton,20 Jun 2025,v Worcs,Birmingham,2,8,13,20,22,0,0,59.09,caught,1,2.0,0,19,0,9.5
+643433,George Garton,4 Jul 2025,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,1.0,0,21,0,21
+643433,George Garton,6 Jul 2025,v Durham,Chester-le-Street,2,7,1,3,2,0,0,50,caught,1,4.0,0,25,1,6.25
+643433,George Garton,9 Jul 2025,v Lancashire,Birmingham,1,7,16,9,8,2,1,200,caught,2,3.0,0,28,4,9.33
+643433,George Garton,11 Jul 2025,v Worcs,Worcester,1,7,36*,30,22,1,3,163.63,not out,2,3.0,0,16,0,5.33
+643433,George Garton,13 Jul 2025,v Northants,Birmingham,2,7,6,12,7,1,0,85.71,caught,1,2.0,0,24,0,12
+643433,George Garton,18 Jul 2025,v Derbyshire,Derby,1,6,0,2,1,0,0,0,caught,2,3.0,0,23,2,7.66
+643433,George Garton,9 Aug 2025,v Invincibles,The Oval,1,6,4,6,8,0,0,50,bowled,2,1.0,0,9,0,10.8
+643433,George Garton,26 Aug 2025,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,6
+643433,George Garton,6 Sep 2025,v Somerset,Taunton,1,7,2,6,5,0,0,40,caught,2,4.0,0,45,1,11.25
+643433,George Garton,3 Dec 2025,v Warriorz,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,2,12
+643433,George Garton,5 Dec 2025,v Vipers,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+643433,George Garton,11 Dec 2025,v MI Emirates,Abu Dhabi,1,9,1*,12,4,0,0,25,not out,2,2.0,0,15,0,7.5
+643433,George Garton,13 Dec 2025,v DC,Abu Dhabi,2,10,1*,16,2,0,0,50,not out,1,1.0,0,18,0,18

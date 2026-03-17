@@ -1,0 +1,170 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+19264,Liam Plunkett,23 Jun 2003,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+19264,Liam Plunkett,24 Jun 2003,v Lancashire,Manchester,2,9,2,4,4,0,0,50,bowled,1,4.0,0,32,2,8
+19264,Liam Plunkett,22 Jun 2005,v Derbyshire,Derby,1,9,7*,1,2,0,1,350,not out,2,3.4,0,33,0,9
+19264,Liam Plunkett,26 Jun 2005,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+19264,Liam Plunkett,28 Jun 2005,v Notts,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+19264,Liam Plunkett,30 Jun 2005,v Yorkshire,Leeds,2,9,2*,5,2,0,0,100,not out,1,2.0,0,14,0,7
+19264,Liam Plunkett,1 Jul 2005,v Leics,Chester-le-Street,2,9,6*,5,7,0,0,85.71,not out,1,3.0,0,13,0,4.33
+19264,Liam Plunkett,3 Jul 2005,v Lancashire,Manchester,2,9,4*,3,5,0,0,80,not out,1,3.0,0,31,0,10.33
+19264,Liam Plunkett,4 Jul 2005,v Yorkshire,Chester-le-Street,2,9,8,12,11,0,0,72.72,bowled,1,2.0,0,14,0,7
+19264,Liam Plunkett,15 Jun 2006,v Sri Lanka,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+19264,Liam Plunkett,22 Jun 2007,v Lancashire,Manchester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,2,8.75
+19264,Liam Plunkett,11 Jun 2008,v Derbyshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+19264,Liam Plunkett,13 Jun 2008,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+19264,Liam Plunkett,14 Jun 2008,v Notts,Nottingham,2,8,6,5,7,0,0,85.71,stumped,1,4.0,0,28,0,7
+19264,Liam Plunkett,17 Jun 2008,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+19264,Liam Plunkett,20 Jun 2008,v Leics,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+19264,Liam Plunkett,22 Jun 2008,v Yorkshire,Leeds,2,9,13*,8,9,2,0,144.44,not out,1,4.0,0,24,2,6
+19264,Liam Plunkett,24 Jun 2008,v Yorkshire,Chester-le-Street,1,8,1,6,5,0,0,20,stumped,2,3.0,0,10,1,3.33
+19264,Liam Plunkett,25 Jun 2008,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+19264,Liam Plunkett,27 Jun 2008,v Lancashire,Chester-le-Street,1,8,1,-,3,0,0,33.33,caught,2,0.4,0,3,1,4.5
+19264,Liam Plunkett,22 Jul 2008,v Glamorgan,Chester-le-Street,1,9,12*,4,3,1,1,400,not out,2,3.0,0,16,3,5.33
+19264,Liam Plunkett,26 Jul 2008,v Middlesex,Southampton,1,7,2*,2,2,0,0,100,not out,2,4.0,0,29,0,7.25
+19264,Liam Plunkett,19 Mar 2009,v NZ A,New Plymouth,2,10,3*,6,4,0,0,75,not out,1,4.0,0,27,1,6.75
+19264,Liam Plunkett,28 Jun 2009,v Leics,Leicester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+19264,Liam Plunkett,27 Jul 2009,v Kent,Canterbury,2,8,6,11,10,0,0,60,bowled,1,2.0,0,21,0,10.5
+19264,Liam Plunkett,4 Jun 2010,v Lancashire,Chester-le-Street,2,8,24,16,18,0,1,133.33,caught,1,2.0,0,24,0,12
+19264,Liam Plunkett,6 Jun 2010,v Worcs,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+19264,Liam Plunkett,10 Jun 2010,v Yorkshire,Leeds,1,9,21*,14,14,2,0,150,not out,2,3.0,0,36,0,12
+19264,Liam Plunkett,11 Jun 2010,v Warwickshire,Birmingham,1,7,8,10,5,1,0,160,run out,2,4.0,0,32,1,8
+19264,Liam Plunkett,13 Jun 2010,v Derbyshire,Derby,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+19264,Liam Plunkett,14 Jun 2010,v Leics,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+19264,Liam Plunkett,18 Jun 2010,v Yorkshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,1.0,0,2,1,2
+19264,Liam Plunkett,20 Jun 2010,v Notts,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+19264,Liam Plunkett,22 Jun 2010,v Lancashire,Manchester,2,9,31,22,24,1,2,129.16,caught,1,3.0,0,18,2,6
+19264,Liam Plunkett,25 Jun 2010,v Notts,Nottingham,1,9,13*,10,5,1,1,260,not out,2,3.0,0,33,0,11
+19264,Liam Plunkett,26 Jun 2010,v Northants,Northampton,2,8,5,7,6,0,0,83.33,bowled,1,2.0,0,18,0,9
+19264,Liam Plunkett,14 Jul 2010,v Derbyshire,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+19264,Liam Plunkett,18 Jul 2010,v Northants,Chester-le-Street,1,7,0*,2,0,0,0,-,not out,2,3.0,0,24,1,8
+19264,Liam Plunkett,2 Jun 2011,v Warwickshire,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,2.0,0,19,1,9.5
+19264,Liam Plunkett,9 Jun 2011,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+19264,Liam Plunkett,10 Jun 2011,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+19264,Liam Plunkett,12 Jun 2011,v Derbyshire,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+19264,Liam Plunkett,14 Jun 2011,v Notts,Chester-le-Street,1,8,8,9,5,1,0,160,caught,2,DNB,-,-,-,-
+19264,Liam Plunkett,16 Jun 2011,v Notts,Nottingham,2,8,24,33,25,2,0,96,caught,1,4.0,0,42,1,10.5
+19264,Liam Plunkett,17 Jun 2011,v Leics,Leicester,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+19264,Liam Plunkett,24 Jun 2011,v Lancashire,Chester-le-Street,1,7,27*,15,10,2,2,270,not out,2,4.0,0,31,5,7.75
+19264,Liam Plunkett,26 Jun 2011,v Leics,Chester-le-Street,1,7,0*,2,1,0,0,0,not out,2,4.0,0,30,2,7.5
+19264,Liam Plunkett,1 Jul 2011,v Lancashire,Manchester,2,9,41,27,26,2,3,157.69,run out,1,3.0,0,28,0,9.33
+19264,Liam Plunkett,3 Jul 2011,v Worcs,Chester-le-Street,1,7,3,7,4,0,0,75,caught,2,4.0,0,28,1,7
+19264,Liam Plunkett,8 Jul 2011,v Yorkshire,Chester-le-Street,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+19264,Liam Plunkett,10 Jul 2011,v Yorkshire,Scarborough,1,8,12,14,9,0,1,133.33,run out,2,2.0,0,25,1,12.5
+19264,Liam Plunkett,11 Jul 2011,v Warwickshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+19264,Liam Plunkett,14 Jul 2011,v Northants,Chester-le-Street,1,8,5,2,4,0,0,125,caught,2,3.0,0,16,0,5.33
+19264,Liam Plunkett,7 Aug 2011,v Hampshire,Southampton,2,8,7,14,10,0,0,70,caught,1,DNB,-,-,-,-
+19264,Liam Plunkett,15 Jun 2012,v Yorkshire,Leeds,1,8,9*,4,6,1,0,150,not out,2,4.0,0,24,1,6
+19264,Liam Plunkett,17 Jun 2012,v Notts,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,2,1.2,0,7,0,5.25
+19264,Liam Plunkett,20 Jun 2012,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+19264,Liam Plunkett,22 Jun 2012,v Yorkshire,Chester-le-Street,2,9,15,9,10,1,0,150,bowled,1,3.0,0,19,0,6.33
+19264,Liam Plunkett,25 Jun 2012,v Lancashire,Manchester,1,8,0,6,1,0,0,0,bowled,2,2.0,0,13,0,6.5
+19264,Liam Plunkett,27 Jun 2012,v Derbyshire,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+19264,Liam Plunkett,29 Jun 2012,v Notts,Nottingham,2,8,19*,17,13,3,0,146.15,not out,1,1.5,0,34,0,18.54
+19264,Liam Plunkett,1 Jul 2012,v Leics,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+19264,Liam Plunkett,8 Jul 2012,v Lancashire,Chester-le-Street,2,8,0*,3,1,0,0,0,not out,1,2.0,0,20,0,10
+19264,Liam Plunkett,28 Jun 2013,v Derbyshire,Leeds,1,8,2,3,6,0,0,33.33,run out,2,3.3,0,32,0,9.14
+19264,Liam Plunkett,30 Jun 2013,v Durham,Scarborough,1,7,30,16,16,2,2,187.5,run out,2,4.0,0,32,1,8
+19264,Liam Plunkett,5 Jul 2013,v Lancashire,Leeds,1,6,12,9,8,1,1,150,caught,2,3.0,0,21,2,7
+19264,Liam Plunkett,9 Jul 2013,v Leics,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+19264,Liam Plunkett,12 Jul 2013,v Durham,Chester-le-Street,2,7,9,15,12,1,0,75,caught,1,4.0,0,43,0,10.75
+19264,Liam Plunkett,14 Jul 2013,v Derbyshire,Chesterfield,1,7,15,13,10,2,0,150,caught,2,3.0,0,35,0,11.66
+19264,Liam Plunkett,21 Jul 2013,v Notts,Leeds,2,6,12,15,13,1,0,92.3,caught,1,4.0,0,26,2,6.5
+19264,Liam Plunkett,24 Jul 2013,v Lancashire,Manchester,1,7,10,16,12,0,0,83.33,caught,2,1.0,0,17,0,17
+19264,Liam Plunkett,26 Jul 2013,v Notts,Nottingham,1,8,4*,11,9,0,0,44.44,not out,2,3.0,0,25,1,8.33
+19264,Liam Plunkett,28 Jul 2013,v Leics,Leicester,1,8,7,14,8,0,0,87.5,bowled,2,4.0,0,26,0,6.5
+19264,Liam Plunkett,16 May 2014,v Northants,Leeds,1,8,36,24,22,6,0,163.63,caught,2,3.0,0,20,2,6.66
+19264,Liam Plunkett,30 May 2014,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+19264,Liam Plunkett,15 May 2015,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+19264,Liam Plunkett,22 May 2015,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+19264,Liam Plunkett,29 May 2015,v Durham,Chester-le-Street,2,9,17,11,8,3,0,212.5,bowled,1,4.0,0,29,2,7.25
+19264,Liam Plunkett,5 Jun 2015,v Lancashire,Leeds,1,9,9*,6,6,1,0,150,not out,2,4.0,0,33,1,8.25
+19264,Liam Plunkett,12 Jul 2015,v Derbyshire,Chesterfield,1,8,17,16,9,1,1,188.88,caught,2,4.0,0,32,1,8
+19264,Liam Plunkett,14 Jul 2015,v Worcs,Leeds,2,8,9,8,8,0,0,112.5,caught,1,4.0,0,49,3,12.25
+19264,Liam Plunkett,17 Jul 2015,v Northants,Northampton,1,6,23,17,17,1,1,135.29,bowled,2,3.0,0,36,0,12
+19264,Liam Plunkett,24 Jul 2015,v Warwickshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,1,5
+19264,Liam Plunkett,26 Nov 2015,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+19264,Liam Plunkett,27 Nov 2015,v Pakistan,Dubai (DICS),1,8,1,3,2,0,0,50,caught,2,4.0,0,33,3,8.25
+19264,Liam Plunkett,23 Mar 2016,v Afghanistan,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,0,3
+19264,Liam Plunkett,26 Mar 2016,v Sri Lanka,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+19264,Liam Plunkett,30 Mar 2016,v New Zealand,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+19264,Liam Plunkett,3 Apr 2016,v West Indies,Eden Gardens,1,10,4,4,4,0,0,100,caught,2,4.0,0,29,0,7.25
+19264,Liam Plunkett,27 May 2016,v Leics,Leeds,2,8,0,3,2,0,0,0,caught,1,4.0,0,23,2,5.75
+19264,Liam Plunkett,2 Jun 2016,v Worcs,Worcester,1,8,34*,13,10,3,3,340,not out,2,4.0,0,29,2,7.25
+19264,Liam Plunkett,3 Jun 2016,v Lancashire,Manchester,2,7,22,32,19,0,1,115.78,caught,1,4.0,0,39,1,9.75
+19264,Liam Plunkett,10 Jun 2016,v Warwickshire,Birmingham,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+19264,Liam Plunkett,19 Jun 2016,v Derbyshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,1,6.5
+19264,Liam Plunkett,5 Jul 2016,v Sri Lanka,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+19264,Liam Plunkett,8 Jul 2016,v Warwickshire,Leeds,1,7,2*,5,1,0,0,200,not out,2,3.0,0,37,0,12.33
+19264,Liam Plunkett,10 Jul 2016,v Derbyshire,Derby,1,8,9*,5,5,1,0,180,not out,2,3.0,0,35,0,11.66
+19264,Liam Plunkett,15 Jul 2016,v Notts,Nottingham,1,6,6,4,4,0,1,150,stumped,2,2.4,0,31,1,11.62
+19264,Liam Plunkett,20 Jul 2016,v Durham,Leeds,1,7,8*,6,5,1,0,160,not out,2,4.0,0,13,1,3.25
+19264,Liam Plunkett,22 Jul 2016,v Northants,Leeds,1,7,1,3,1,0,0,100,run out,2,4.0,0,32,2,8
+19264,Liam Plunkett,29 Jul 2016,v Northants,Northampton,1,7,0*,2,1,0,0,0,not out,2,3.0,0,37,0,12.33
+19264,Liam Plunkett,11 Aug 2016,v Glamorgan,Cardiff,1,7,3,8,4,0,0,75,caught,2,3.0,0,19,1,6.33
+19264,Liam Plunkett,20 Aug 2016,v Durham,Birmingham,2,9,9,6,4,2,0,225,bowled,1,4.0,0,22,2,5.5
+19264,Liam Plunkett,7 Sep 2016,v Pakistan,Manchester,1,9,0*,3,0,0,0,-,not out,2,1.5,0,24,0,13.09
+19264,Liam Plunkett,26 Jan 2017,v India,Kanpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+19264,Liam Plunkett,1 Feb 2017,v India,Bengaluru,2,8,0,5,1,0,0,0,bowled,1,2.0,0,22,1,11
+19264,Liam Plunkett,23 Jun 2017,v South Africa,Taunton,2,8,0*,2,0,0,0,-,not out,1,4.0,0,36,2,9
+19264,Liam Plunkett,25 Jun 2017,v South Africa,Cardiff,1,7,0,6,2,0,0,0,caught,2,4.0,0,22,1,5.5
+19264,Liam Plunkett,30 Jul 2017,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+19264,Liam Plunkett,11 Aug 2017,v Lancashire,Leeds,1,8,3*,11,7,0,0,42.85,not out,2,3.0,0,29,1,9.66
+19264,Liam Plunkett,12 Aug 2017,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+19264,Liam Plunkett,17 Aug 2017,v Northants,Leeds,1,5,7*,4,3,1,0,233.33,not out,2,1.0,0,14,0,14
+19264,Liam Plunkett,16 Sep 2017,v West Indies,Chester-le-Street,2,9,18,21,11,2,0,163.63,bowled,1,4.0,0,27,3,6.75
+19264,Liam Plunkett,4 Nov 2017,v Dynamites,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+19264,Liam Plunkett,5 Nov 2017,v Victorians,Sylhet,2,7,1*,-,1,0,0,100,not out,1,4.0,0,31,1,7.75
+19264,Liam Plunkett,7 Nov 2017,v Kings,Sylhet,1,6,6,-,3,1,0,200,run out,2,4.0,0,29,3,7.25
+19264,Liam Plunkett,17 Nov 2017,v Kings,Mirpur,1,8,6*,-,2,1,0,300,not out,2,3.0,0,29,0,9.66
+19264,Liam Plunkett,20 Nov 2017,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,49,1,12.25
+19264,Liam Plunkett,13 Feb 2018,v New Zealand,Wellington,2,9,0,1,1,0,0,0,bowled,1,4.0,0,33,0,8.25
+19264,Liam Plunkett,23 Apr 2018,v Kings XI,Delhi,2,8,0,-,1,0,0,0,caught,1,4.0,0,17,3,4.25
+19264,Liam Plunkett,27 Apr 2018,v KKR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,0,6
+19264,Liam Plunkett,30 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,3.0,0,52,0,17.33
+19264,Liam Plunkett,2 May 2018,v RR,Delhi,1,7,1*,-,2,0,0,50,not out,2,3.0,0,37,0,12.33
+19264,Liam Plunkett,5 May 2018,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+19264,Liam Plunkett,10 May 2018,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+19264,Liam Plunkett,20 May 2018,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+19264,Liam Plunkett,27 Jun 2018,v Australia,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,2,9.27
+19264,Liam Plunkett,3 Jul 2018,v India,Manchester,1,10,3*,-,4,0,0,75,not out,2,4.0,0,42,0,10.5
+19264,Liam Plunkett,6 Jul 2018,v India,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+19264,Liam Plunkett,8 Jul 2018,v India,Bristol,1,9,9,-,4,0,1,225,caught,2,3.0,0,42,0,14
+19264,Liam Plunkett,20 Jul 2018,v Lancashire,Manchester,2,4,19,12,9,0,2,211.11,bowled,1,2.0,0,22,0,11
+19264,Liam Plunkett,27 Jul 2018,v Bears,Leeds,1,7,11*,10,8,1,0,137.5,not out,2,4.0,0,31,2,7.75
+19264,Liam Plunkett,28 Jul 2018,v Derbyshire,Chesterfield,1,8,7,9,6,1,0,116.66,bowled,2,4.0,0,34,0,8.5
+19264,Liam Plunkett,16 Aug 2018,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+19264,Liam Plunkett,17 Aug 2018,v Notts,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+19264,Liam Plunkett,27 Oct 2018,v Sri Lanka,Colombo (RPS),1,9,7*,-,5,1,0,140,not out,2,2.0,0,24,1,12
+19264,Liam Plunkett,5 Jan 2019,v Thunder,Carrara,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+19264,Liam Plunkett,9 Jan 2019,v Scorchers,Melbourne,1,7,4*,-,4,0,0,100,not out,2,3.4,0,35,1,9.54
+19264,Liam Plunkett,11 Jan 2019,v Strikers,Adelaide,2,8,4,-,6,0,0,66.66,bowled,1,4.0,0,36,4,9
+19264,Liam Plunkett,14 Jan 2019,v Hurricanes,Melbourne,2,8,11,-,8,1,0,137.5,caught,1,4.0,0,44,0,11
+19264,Liam Plunkett,19 Jan 2019,v Renegades,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,2,7
+19264,Liam Plunkett,23 Jan 2019,v Strikers,Moe,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+19264,Liam Plunkett,27 Jan 2019,v Heat,Melbourne,1,8,4,-,5,0,0,80,caught,2,1.0,0,8,0,8
+19264,Liam Plunkett,3 Feb 2019,v Scorchers,Perth,2,8,0,-,2,0,0,0,caught,1,3.0,0,23,1,7.66
+19264,Liam Plunkett,5 Mar 2019,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+19264,Liam Plunkett,8 Mar 2019,v West Indies,Basseterre,1,-,DNB,-,-,-,-,-,-,2,2.5,0,8,2,2.82
+19264,Liam Plunkett,23 Jul 2019,v Middlesex,The Oval,2,8,5,6,4,1,0,125,bowled,1,2.0,0,24,0,12
+19264,Liam Plunkett,25 Jul 2019,v Glamorgan,The Oval,1,8,18,23,15,0,1,120,caught,2,2.0,0,5,0,2.5
+19264,Liam Plunkett,21 Dec 2019,v Rangers,Chattogram,1,8,17*,-,12,1,1,141.66,not out,2,4.0,0,46,1,11.5
+19264,Liam Plunkett,27 Dec 2019,v Platoon,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+19264,Liam Plunkett,31 Dec 2019,v Warriors,Mirpur,1,7,4,-,4,0,0,100,caught,2,4.0,0,46,1,11.5
+19264,Liam Plunkett,11 Jan 2020,v Royals,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,0,10.33
+19264,Liam Plunkett,16 Sep 2020,v Sussex,The Oval,2,8,0*,2,0,0,0,-,not out,1,4.0,0,22,1,5.5
+19264,Liam Plunkett,18 Sep 2020,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,0,11.33
+19264,Liam Plunkett,20 Sep 2020,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,3,4.75
+19264,Liam Plunkett,1 Oct 2020,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,0,7
+19264,Liam Plunkett,3 Oct 2020,v Gloucs,Birmingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,3,6
+19264,Liam Plunkett,4 Oct 2020,v Notts,Birmingham,1,8,4,4,3,0,0,133.33,caught,2,1.0,0,13,0,13
+19264,Liam Plunkett,24 Jul 2021,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,42,0,16.8
+19264,Liam Plunkett,7 Jul 2024,v Los Angeles,Dallas,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+19264,Liam Plunkett,10 Jul 2024,v Texas,Morrisville,1,8,0,-,1,0,0,0,bowled,2,2.0,0,35,1,17.5
+19264,Liam Plunkett,15 Jul 2024,v Seattle,Morrisville,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+19264,Liam Plunkett,18 Jul 2024,v MI New York,Dallas,1,-,DNB,-,-,-,-,-,-,2,1.5,0,15,0,8.18
+19264,Liam Plunkett,12 Jun 2025,v Washington,Oakland,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,1,9
+19264,Liam Plunkett,14 Jun 2025,v Los Angeles,Oakland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+19264,Liam Plunkett,23 Jun 2025,v MI New York,Dallas,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+19264,Liam Plunkett,28 Jun 2025,v Washington,Dallas,2,11,3*,-,3,0,0,100,not out,1,2.0,0,15,0,7.5
+19264,Liam Plunkett,1 Jul 2025,v Seattle,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,1,13
+19264,Liam Plunkett,9 Jul 2025,v MI New York,Dallas,1,10,7,-,7,1,0,100,caught,2,1.0,0,10,0,10

@@ -1,0 +1,296 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+232364,Tim Southee,13 Jan 2007,v Central D,Hamilton,1,9,2,5,5,0,0,40,bowled,2,4.0,0,25,1,6.25
+232364,Tim Southee,17 Jan 2008,v Wellington,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+232364,Tim Southee,20 Jan 2008,v Auckland,Auckland,2,8,9,9,6,2,0,150,run out,1,4.0,0,24,1,6
+232364,Tim Southee,25 Jan 2008,v Otago,Hamilton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+232364,Tim Southee,25 Jan 2008,v Central D,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+232364,Tim Southee,27 Jan 2008,v Canterbury,Christchurch,2,9,4,3,3,1,0,133.33,run out,1,4.0,0,37,0,9.25
+232364,Tim Southee,3 Feb 2008,v Central D,New Plymouth,1,9,1,4,2,0,0,50,caught,2,3.3,0,44,1,12.57
+232364,Tim Southee,5 Feb 2008,v England,Auckland,2,9,1,4,2,0,0,50,caught,1,4.0,0,38,1,9.5
+232364,Tim Southee,7 Feb 2008,v England,Christchurch,2,10,12*,10,10,2,0,120,not out,1,4.0,0,22,2,5.5
+232364,Tim Southee,26 Dec 2008,v West Indies,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75
+232364,Tim Southee,28 Dec 2008,v West Indies,Hamilton,1,10,2,3,3,0,0,66.66,run out,2,4.0,0,44,1,11
+232364,Tim Southee,15 Feb 2009,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+232364,Tim Southee,25 Feb 2009,v India,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+232364,Tim Southee,27 Feb 2009,v India,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+232364,Tim Southee,12 Nov 2009,v Pakistan,Dubai (DICS),2,10,6,1,3,0,1,200,caught,1,4.0,0,28,3,7
+232364,Tim Southee,13 Nov 2009,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,7.75
+232364,Tim Southee,2 Jan 2010,v Auckland,Mt Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+232364,Tim Southee,3 Jan 2010,v Otago,Mt Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,3,3.75
+232364,Tim Southee,8 Jan 2010,v Central D,New Plymouth,2,9,14*,16,9,1,1,155.55,not out,1,4.0,0,40,3,10
+232364,Tim Southee,10 Jan 2010,v Canterbury,Christchurch,2,9,32,22,16,5,1,200,bowled,1,4.0,0,32,2,8
+232364,Tim Southee,12 Jan 2010,v Otago,Invercargill,2,9,35*,23,14,3,2,250,not out,1,4.0,0,28,1,7
+232364,Tim Southee,15 Jan 2010,v Wellington,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,1,17,2,4.25
+232364,Tim Southee,17 Jan 2010,v Canterbury,Hamilton,1,8,0*,1,0,0,0,-,not out,2,2.0,0,16,0,8
+232364,Tim Southee,22 Jan 2010,v Auckland,Auckland,2,9,0,2,2,0,0,0,bowled,1,3.2,0,27,2,8.1
+232364,Tim Southee,24 Jan 2010,v Wellington,Wellington,1,7,17,12,6,1,2,283.33,caught,2,3.0,0,23,1,7.66
+232364,Tim Southee,26 Jan 2010,v Central D,Hamilton,1,8,0,2,2,0,0,0,caught,2,3.3,0,33,1,9.42
+232364,Tim Southee,3 Feb 2010,v Bangladesh,Hamilton,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+232364,Tim Southee,28 Feb 2010,v Australia,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+232364,Tim Southee,30 Apr 2010,v Sri Lanka,Providence,2,10,0*,1,0,0,0,-,not out,1,4.0,0,21,1,5.25
+232364,Tim Southee,4 May 2010,v Zimbabwe,Providence,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+232364,Tim Southee,6 May 2010,v South Africa,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,1,13
+232364,Tim Southee,22 May 2010,v Sri Lanka,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,0,3.33
+232364,Tim Southee,23 May 2010,v Sri Lanka,Lauderhill,1,10,4,7,9,0,0,44.44,bowled,2,1.0,0,15,0,15
+232364,Tim Southee,17 Dec 2010,v Canterbury,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,3,5.75
+232364,Tim Southee,21 Dec 2010,v Wellington,Hamilton,2,9,0,3,1,0,0,0,bowled,1,4.0,0,47,2,11.75
+232364,Tim Southee,23 Dec 2010,v Central D,New Plymouth,1,9,2,7,4,0,0,50,caught,2,3.0,1,9,0,3
+232364,Tim Southee,26 Dec 2010,v Pakistan,Auckland,2,-,DNB,-,-,-,-,-,-,1,4.0,1,18,5,4.5
+232364,Tim Southee,28 Dec 2010,v Pakistan,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+232364,Tim Southee,30 Dec 2010,v Pakistan,Christchurch,2,10,0,1,1,0,0,0,bowled,1,4.0,0,53,1,13.25
+232364,Tim Southee,8 Apr 2011,v KKR,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+232364,Tim Southee,13 Apr 2011,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+232364,Tim Southee,16 Apr 2011,v RCB,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+232364,Tim Southee,18 Apr 2011,v Kochi,Kochi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,0,12.66
+232364,Tim Southee,27 Apr 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+232364,Tim Southee,2 Jun 2011,v Sussex,Hove,2,10,10,4,5,2,0,200,caught,1,4.0,0,28,1,7
+232364,Tim Southee,3 Jun 2011,v Gloucs,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,2.0,1,11,2,5.5
+232364,Tim Southee,8 Jun 2011,v Sussex,Chelmsford,2,9,11*,9,7,2,0,157.14,not out,1,4.0,0,46,0,11.5
+232364,Tim Southee,9 Jun 2011,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+232364,Tim Southee,13 Jun 2011,v Surrey,The Oval,2,9,0,3,1,0,0,0,run out,1,4.0,0,36,0,9
+232364,Tim Southee,15 Jun 2011,v Somerset,Chelmsford,2,7,12,12,7,0,1,171.42,bowled,1,4.0,0,50,0,12.5
+232364,Tim Southee,21 Jun 2011,v Glamorgan,Cardiff,2,8,2*,6,3,0,0,66.66,not out,1,4.0,0,33,0,8.25
+232364,Tim Southee,23 Jun 2011,v Hampshire,Chelmsford,1,2,74,37,34,6,5,217.64,stumped,2,3.3,0,38,3,10.85
+232364,Tim Southee,24 Jun 2011,v Surrey,Chelmsford,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+232364,Tim Southee,1 Jul 2011,v Kent,Canterbury,1,9,8*,3,2,2,0,400,not out,2,3.0,0,28,0,9.33
+232364,Tim Southee,2 Jul 2011,v Middlesex,Chelmsford,1,3,3,4,4,0,0,75,caught,2,4.0,0,24,2,6
+232364,Tim Southee,4 Jul 2011,v Somerset,Bath,1,3,5,7,7,0,0,71.42,caught,2,3.3,0,25,1,7.14
+232364,Tim Southee,6 Jul 2011,v Hampshire,Southampton,2,3,0,2,2,0,0,0,caught,1,4.0,0,30,3,7.5
+232364,Tim Southee,8 Jul 2011,v Glamorgan,Chelmsford,2,3,10,5,6,0,1,166.66,caught,1,4.0,0,16,6,4
+232364,Tim Southee,15 Jul 2011,v Kent,Chelmsford,2,9,0,3,1,0,0,0,bowled,1,4.0,1,31,1,7.75
+232364,Tim Southee,18 Dec 2011,v Canterbury,Rangiora,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+232364,Tim Southee,26 Dec 2011,v Auckland,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+232364,Tim Southee,29 Dec 2011,v Otago,Dunedin,2,2,0,2,1,0,0,0,run out,1,1.0,0,2,0,2
+232364,Tim Southee,31 Dec 2011,v Canterbury,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+232364,Tim Southee,4 Jan 2012,v Wellington,Mt Maunganui,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+232364,Tim Southee,5 Jan 2012,v Central D,Mt Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,3,4
+232364,Tim Southee,8 Jan 2012,v Auckland,Mount Maunganui,1,9,0,3,2,0,0,0,caught,2,3.4,0,39,2,10.63
+232364,Tim Southee,11 Jan 2012,v Wellington,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+232364,Tim Southee,14 Jan 2012,v Central D,Napier,1,10,0,2,1,0,0,0,run out,2,4.0,0,27,1,6.75
+232364,Tim Southee,19 Jan 2012,v Otago,Hamilton,1,2,1,10,6,0,0,16.66,caught,2,3.0,0,47,0,15.66
+232364,Tim Southee,14 Feb 2012,v Zimbabwe,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+232364,Tim Southee,17 Feb 2012,v South Africa,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+232364,Tim Southee,19 Feb 2012,v South Africa,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+232364,Tim Southee,22 Feb 2012,v South Africa,Auckland,2,9,0*,3,1,0,0,0,not out,1,4.0,0,22,2,5.5
+232364,Tim Southee,30 Jun 2012,v West Indies,Lauderhill,2,5,23,25,18,0,2,127.77,stumped,1,4.0,0,35,0,8.75
+232364,Tim Southee,1 Jul 2012,v West Indies,Lauderhill,2,3,3,12,5,0,0,60,caught,1,4.0,0,43,1,10.75
+232364,Tim Southee,21 Sep 2012,v Bangladesh,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,1,16,3,4
+232364,Tim Southee,23 Sep 2012,v Pakistan,Pallekele,2,9,1,6,3,0,0,33.33,caught,1,4.0,0,31,2,7.75
+232364,Tim Southee,27 Sep 2012,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+232364,Tim Southee,29 Sep 2012,v England,Pallekele,1,-,DNB,-,-,-,-,-,-,2,2.0,0,32,0,16
+232364,Tim Southee,1 Oct 2012,v West Indies,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+232364,Tim Southee,30 Oct 2012,v Sri Lanka,Pallekele,1,9,21*,10,10,4,0,210,not out,2,DNB,-,-,-,-
+232364,Tim Southee,14 Dec 2012,v Otago,Hamilton,2,7,21,15,10,1,2,210,caught,1,4.0,0,34,1,8.5
+232364,Tim Southee,6 Nov 2013,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,3,9.5
+232364,Tim Southee,15 Nov 2013,v Otago,Hamilton,1,7,6,7,4,1,0,150,bowled,2,3.5,0,53,1,13.82
+232364,Tim Southee,16 Nov 2013,v Central D,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+232364,Tim Southee,19 Nov 2013,v Wellington,Wellington,2,-,DNB,-,-,-,-,-,-,1,3.2,0,14,2,4.2
+232364,Tim Southee,11 Jan 2014,v West Indies,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+232364,Tim Southee,22 Mar 2014,v England,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+232364,Tim Southee,24 Mar 2014,v South Africa,Chattogram,2,9,0*,1,0,0,0,-,not out,1,4.0,0,46,2,11.5
+232364,Tim Southee,23 Apr 2014,v CSK,Dubai (DICS),2,9,4,2,4,1,0,100,bowled,1,4.0,0,27,0,6.75
+232364,Tim Southee,26 Apr 2014,v RCB,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,0,5.33
+232364,Tim Southee,5 May 2014,v KKR,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+232364,Tim Southee,5 Jul 2014,v West Indies,Roseau,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+232364,Tim Southee,6 Jul 2014,v West Indies,Roseau,2,9,2,8,3,0,0,66.66,caught,1,4.0,0,34,1,8.5
+232364,Tim Southee,13 Sep 2014,v Express,Raipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+232364,Tim Southee,14 Sep 2014,v Lahore Lions,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+232364,Tim Southee,16 Sep 2014,v MI,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+232364,Tim Southee,19 Sep 2014,v Cape Cobras,Raipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,0,5
+232364,Tim Southee,23 Sep 2014,v Hurricanes,Raipur,2,8,21,18,12,1,2,175,caught,1,4.0,0,29,1,7.25
+232364,Tim Southee,26 Sep 2014,v Kings XI,Mohali,2,9,0,3,2,0,0,0,caught,1,4.0,0,50,0,12.5
+232364,Tim Southee,30 Sep 2014,v Tridents,Bengaluru,1,7,19,11,10,3,0,190,caught,2,3.4,0,32,0,8.72
+232364,Tim Southee,10 Apr 2015,v Kings XI,Pune,1,9,0*,2,0,0,0,-,not out,2,4.0,0,36,2,9
+232364,Tim Southee,12 Apr 2015,v Daredevils,Delhi,2,9,7*,7,4,1,0,175,not out,1,4.0,0,36,0,9
+232364,Tim Southee,14 Apr 2015,v MI,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,1,11.5
+232364,Tim Southee,16 Apr 2015,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+232364,Tim Southee,29 Apr 2015,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+232364,Tim Southee,1 May 2015,v MI,Wankhede,2,8,6,5,5,0,0,120,run out,1,4.0,0,36,1,9
+232364,Tim Southee,3 May 2015,v Daredevils,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,1,31,0,7.75
+232364,Tim Southee,23 Jun 2015,v England,Manchester,2,9,0,2,1,0,0,0,caught,1,4.0,0,45,1,11.25
+232364,Tim Southee,13 Apr 2016,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+232364,Tim Southee,16 Apr 2016,v Guj Lions,Wankhede,1,9,25,15,11,1,2,227.27,run out,2,4.0,0,31,0,7.75
+232364,Tim Southee,18 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+232364,Tim Southee,20 Apr 2016,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+232364,Tim Southee,23 Apr 2016,v Daredevils,Delhi,2,9,1*,1,1,0,0,100,not out,1,3.0,0,21,0,7
+232364,Tim Southee,25 Apr 2016,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+232364,Tim Southee,28 Apr 2016,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+232364,Tim Southee,1 May 2016,v Supergiants,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+232364,Tim Southee,8 May 2016,v SRH,Visakhapatnam,2,9,3,8,4,0,0,75,caught,1,4.0,0,35,0,8.75
+232364,Tim Southee,11 May 2016,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+232364,Tim Southee,13 May 2016,v Kings XI,Visakhapatnam,1,9,1,4,3,0,0,33.33,caught,2,4.0,0,22,1,5.5
+232364,Tim Southee,17 Dec 2016,v Auckland,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+232364,Tim Southee,18 Dec 2016,v Otago,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+232364,Tim Southee,23 Dec 2016,v Central D,Hamilton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,1,11.33
+232364,Tim Southee,17 Feb 2017,v South Africa,Auckland,2,10,20,9,6,0,3,333.33,bowled,1,4.0,0,47,0,11.75
+232364,Tim Southee,6 Apr 2017,v Supergiant,Pune,1,9,7,8,3,0,1,233.33,run out,2,4.0,0,34,1,8.5
+232364,Tim Southee,14 Apr 2017,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+232364,Tim Southee,13 May 2017,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,1,39,2,9.75
+232364,Tim Southee,7 Jul 2017,v Gloucs,Cheltenham,2,9,0,4,1,0,0,0,caught,1,4.0,0,39,2,9.75
+232364,Tim Southee,13 Jul 2017,v Surrey,Lord's,2,6,0,17,1,0,0,0,caught,1,4.0,0,23,2,5.75
+232364,Tim Southee,14 Jul 2017,v Hampshire,Southampton,2,9,64*,31,32,3,5,200,not out,1,4.0,0,32,0,8
+232364,Tim Southee,16 Jul 2017,v Somerset,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+232364,Tim Southee,20 Jul 2017,v Kent,Richmond,1,8,0,3,1,0,0,0,bowled,2,4.0,0,27,1,6.75
+232364,Tim Southee,21 Jul 2017,v Surrey,The Oval,2,9,5*,10,8,0,0,62.5,not out,1,4.0,0,39,1,9.75
+232364,Tim Southee,23 Jul 2017,v Somerset,Taunton,1,8,3*,5,2,0,0,150,not out,2,4.0,0,36,1,9
+232364,Tim Southee,27 Jul 2017,v Essex,Lord's,1,8,6*,5,1,0,1,600,not out,2,3.0,0,16,1,5.33
+232364,Tim Southee,28 Jul 2017,v Sussex,Hove,1,8,0*,1,0,0,0,-,not out,-,TDNB,-,-,-,-
+232364,Tim Southee,10 Aug 2017,v Sussex,Lord's,1,8,3*,3,2,0,0,150,not out,2,4.0,0,26,1,6.5
+232364,Tim Southee,11 Aug 2017,v Essex,Chelmsford,2,8,3,5,5,0,0,60,bowled,1,4.0,0,34,1,8.5
+232364,Tim Southee,15 Aug 2017,v Gloucs,Uxbridge,1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,3,3
+232364,Tim Southee,18 Aug 2017,v Glamorgan,Cardiff,1,8,10,10,6,0,1,166.66,caught,2,3.0,0,21,0,7
+232364,Tim Southee,1 Nov 2017,v India,Delhi,2,9,8,6,4,2,0,200,caught,1,4.0,0,44,0,11
+232364,Tim Southee,7 Nov 2017,v India,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,2,6.5
+232364,Tim Southee,16 Dec 2017,v Auckland,Mount Maunganui,1,9,13,-,9,1,0,144.44,run out,2,4.0,0,60,0,15
+232364,Tim Southee,29 Dec 2017,v West Indies,Nelson,1,9,10*,9,5,2,0,200,not out,2,4.0,0,36,3,9
+232364,Tim Southee,1 Jan 2018,v West Indies,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+232364,Tim Southee,3 Jan 2018,v West Indies,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,2.3,0,21,3,8.4
+232364,Tim Southee,22 Jan 2018,v Pakistan,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+232364,Tim Southee,28 Jan 2018,v Pakistan,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+232364,Tim Southee,3 Feb 2018,v Australia,Sydney,1,9,9,11,6,0,1,150,caught,2,2.3,0,27,1,10.8
+232364,Tim Southee,13 Feb 2018,v England,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+232364,Tim Southee,16 Feb 2018,v Australia,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,1,12
+232364,Tim Southee,18 Feb 2018,v England,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+232364,Tim Southee,21 Feb 2018,v Australia,Auckland,1,9,5,5,3,1,0,166.66,caught,2,2.0,0,21,0,10.5
+232364,Tim Southee,29 Apr 2018,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+232364,Tim Southee,1 May 2018,v MI,Bengaluru,1,8,1,-,2,0,0,50,caught,2,4.0,0,25,2,6.25
+232364,Tim Southee,5 May 2018,v CSK,Pune,1,8,36*,-,26,3,1,138.46,not out,2,3.0,0,30,0,10
+232364,Tim Southee,7 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+232364,Tim Southee,12 May 2018,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+232364,Tim Southee,14 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+232364,Tim Southee,17 May 2018,v SRH,Bengaluru,1,8,1*,-,1,0,0,100,not out,2,4.0,0,45,0,11.25
+232364,Tim Southee,19 May 2018,v RR,Jaipur,2,8,14,-,17,2,0,82.35,caught,1,4.0,0,37,0,9.25
+232364,Tim Southee,31 Oct 2018,v Pakistan,Abu Dhabi,2,8,5*,-,2,1,0,250,not out,1,4.0,0,30,0,7.5
+232364,Tim Southee,2 Nov 2018,v Pakistan,Dubai (DICS),1,8,0,-,1,0,0,0,run out,2,4.0,0,26,1,6.5
+232364,Tim Southee,4 Nov 2018,v Pakistan,Dubai (DICS),2,8,0,3,0,0,0,-,run out,1,4.0,0,30,0,7.5
+232364,Tim Southee,11 Jan 2019,v Sri Lanka,Auckland,1,9,13*,11,8,0,1,162.5,not out,2,2.0,0,21,1,10.5
+232364,Tim Southee,6 Feb 2019,v India,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,3,4.25
+232364,Tim Southee,8 Feb 2019,v India,Auckland,1,9,3,2,3,0,0,100,bowled,2,4.0,0,34,0,8.5
+232364,Tim Southee,10 Feb 2019,v India,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,0,11.75
+232364,Tim Southee,17 Feb 2019,v Central D,Hamilton,2,9,0,5,6,0,0,0,caught,1,4.0,0,33,1,8.25
+232364,Tim Southee,5 Apr 2019,v KKR,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,61,0,15.25
+232364,Tim Southee,7 Apr 2019,v DC,Bengaluru,1,8,9*,13,9,0,0,100,not out,2,2.0,0,24,1,12
+232364,Tim Southee,24 Apr 2019,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+232364,Tim Southee,1 Sep 2019,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+232364,Tim Southee,3 Sep 2019,v Sri Lanka,Pallekele,2,8,0*,-,0,0,0,-,not out,1,4.0,0,18,2,4.5
+232364,Tim Southee,6 Sep 2019,v Sri Lanka,Pallekele,2,9,28*,32,23,0,3,121.73,not out,1,4.0,0,16,0,4
+232364,Tim Southee,1 Nov 2019,v England,Christchurch,1,-,DNB,-,-,-,-,-,-,2,3.3,0,30,0,8.57
+232364,Tim Southee,3 Nov 2019,v England,Wellington,1,9,4*,10,3,0,0,133.33,not out,2,4.0,0,25,2,6.25
+232364,Tim Southee,5 Nov 2019,v England,Nelson,1,8,1*,5,2,0,0,50,not out,2,4.0,0,28,0,7
+232364,Tim Southee,8 Nov 2019,v England,Napier,2,8,39,15,15,2,4,260,lbw,1,4.0,0,47,1,11.75
+232364,Tim Southee,10 Nov 2019,v England,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,1,11
+232364,Tim Southee,24 Jan 2020,v India,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+232364,Tim Southee,26 Jan 2020,v India,Auckland,1,-,DNB,-,-,-,-,-,-,2,3.3,0,20,2,5.71
+232364,Tim Southee,29 Jan 2020,v India,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+232364,Tim Southee,31 Jan 2020,v India,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+232364,Tim Southee,2 Feb 2020,v India,Mount Maunganui,2,9,6,-,5,1,0,120,bowled,1,4.0,0,52,0,13
+232364,Tim Southee,27 Nov 2020,v West Indies,Auckland,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,2,7.33
+232364,Tim Southee,29 Nov 2020,v West Indies,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+232364,Tim Southee,20 Dec 2020,v Pakistan,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,4,5.25
+232364,Tim Southee,22 Dec 2020,v Pakistan,Napier,1,8,6*,7,6,0,0,100,not out,2,4.0,0,25,2,6.25
+232364,Tim Southee,17 Jan 2021,v Auckland,Auckland,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,2,10
+232364,Tim Southee,21 Jan 2021,v Canterbury,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+232364,Tim Southee,29 Jan 2021,v Auckland,Hamilton,2,8,24,27,15,1,2,160,caught,1,4.0,0,29,2,7.25
+232364,Tim Southee,6 Feb 2021,v Otago,Dunedin,1,8,0*,1,0,0,0,-,not out,2,4.0,0,41,3,10.25
+232364,Tim Southee,22 Feb 2021,v Australia,Christchurch,1,-,DNB,-,-,-,-,-,-,2,3.0,0,10,2,3.33
+232364,Tim Southee,25 Feb 2021,v Australia,Dunedin,1,8,6,5,3,1,0,200,run out,2,4.0,0,47,1,11.75
+232364,Tim Southee,3 Mar 2021,v Australia,Wellington,2,8,5,6,6,0,0,83.33,caught,1,4.0,0,37,1,9.25
+232364,Tim Southee,5 Mar 2021,v Australia,Wellington,2,8,6,4,4,0,1,150,caught,1,4.0,0,32,0,8
+232364,Tim Southee,7 Mar 2021,v Australia,Wellington,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+232364,Tim Southee,28 Mar 2021,v Bangladesh,Hamilton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+232364,Tim Southee,30 Mar 2021,v Bangladesh,Napier,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+232364,Tim Southee,1 Apr 2021,v Bangladesh,Auckland,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,3,7.5
+232364,Tim Southee,28 Sep 2021,v DC,Sharjah,2,8,3,7,5,0,0,60,bowled,1,4.0,0,29,1,7.25
+232364,Tim Southee,1 Oct 2021,v Punjab Kings,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+232364,Tim Southee,3 Oct 2021,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+232364,Tim Southee,26 Oct 2021,v Pakistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+232364,Tim Southee,31 Oct 2021,v India,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+232364,Tim Southee,3 Nov 2021,v Scotland,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+232364,Tim Southee,5 Nov 2021,v Namibia,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,2,3.75
+232364,Tim Southee,7 Nov 2021,v Afghanistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+232364,Tim Southee,10 Nov 2021,v England,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+232364,Tim Southee,14 Nov 2021,v Australia,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,43,0,11.21
+232364,Tim Southee,17 Nov 2021,v India,Jaipur,1,8,0*,2,1,0,0,0,not out,2,4.0,0,40,1,10
+232364,Tim Southee,19 Nov 2021,v India,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+232364,Tim Southee,21 Jan 2022,v Canterbury,Christchurch,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+232364,Tim Southee,24 Jan 2022,v Wellington,Wellington,2,8,10,22,14,1,0,71.42,caught,1,3.4,0,20,3,5.45
+232364,Tim Southee,29 Jan 2022,v Canterbury,Hamilton,1,-,DNB,-,-,-,-,-,-,2,3.5,0,39,3,10.17
+232364,Tim Southee,30 Mar 2022,v RCB,DY Patil,1,9,1,18,5,0,0,20,caught,2,4.0,0,20,3,5
+232364,Tim Southee,1 Apr 2022,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+232364,Tim Southee,23 Apr 2022,v GT,DY Patil,2,10,1*,3,1,0,0,100,not out,1,4.0,0,24,3,6
+232364,Tim Southee,28 Apr 2022,v DC,Wankhede,1,10,0,2,1,0,0,0,bowled,2,4.0,0,31,0,7.75
+232364,Tim Southee,2 May 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,2,11.5
+232364,Tim Southee,7 May 2022,v LSG,Pune,2,10,0,2,1,0,0,0,caught,1,4.0,0,28,1,7
+232364,Tim Southee,9 May 2022,v MI,DY Patil,1,10,0,8,4,0,0,0,caught,2,3.0,0,10,1,3.33
+232364,Tim Southee,14 May 2022,v SRH,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+232364,Tim Southee,18 May 2022,v LSG,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,57,0,14.25
+232364,Tim Southee,10 Aug 2022,v West Indies,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+232364,Tim Southee,12 Aug 2022,v West Indies,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+232364,Tim Southee,14 Aug 2022,v West Indies,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+232364,Tim Southee,8 Oct 2022,v Pakistan,Christchurch,1,9,1*,5,2,0,0,50,not out,2,4.0,0,24,1,6
+232364,Tim Southee,9 Oct 2022,v Bangladesh,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+232364,Tim Southee,11 Oct 2022,v Pakistan,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+232364,Tim Southee,12 Oct 2022,v Bangladesh,Christchurch,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+232364,Tim Southee,14 Oct 2022,v Pakistan,Christchurch,1,9,0*,2,1,0,0,0,not out,2,4.0,0,33,1,8.25
+232364,Tim Southee,22 Oct 2022,v Australia,Sydney,1,-,DNB,-,-,-,-,-,-,2,2.1,0,6,3,2.76
+232364,Tim Southee,29 Oct 2022,v Sri Lanka,Sydney,1,9,4*,1,1,1,0,400,not out,2,4.0,1,12,1,3
+232364,Tim Southee,1 Nov 2022,v England,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+232364,Tim Southee,4 Nov 2022,v Ireland,Adelaide,1,8,1*,7,2,0,0,50,not out,2,4.0,0,29,2,7.25
+232364,Tim Southee,9 Nov 2022,v Pakistan,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.1,0,24,0,7.57
+232364,Tim Southee,20 Nov 2022,v India,Mount Maunganui,2,10,0,2,1,0,0,0,caught,1,4.0,0,34,3,8.5
+232364,Tim Southee,22 Nov 2022,v India,Napier,1,10,6,7,5,1,0,120,bowled,2,3.0,0,27,2,9
+232364,Tim Southee,1 Apr 2023,v Punjab Kings,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,54,2,13.5
+232364,Tim Southee,6 Apr 2023,v RCB,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+232364,Tim Southee,17 Aug 2023,v U.A.E.,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,5,6.25
+232364,Tim Southee,19 Aug 2023,v U.A.E.,Dubai (DICS),1,10,4*,-,2,0,0,200,not out,2,3.4,1,32,1,8.72
+232364,Tim Southee,20 Aug 2023,v U.A.E.,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,1,24,0,6
+232364,Tim Southee,24 Aug 2023,v Phoenix,Birmingham,2,8,3,2,4,0,0,75,stumped,1,4.0,0,23,3,6.9
+232364,Tim Southee,30 Aug 2023,v England,Chester-le-Street,1,10,7*,4,3,1,0,233.33,not out,2,3.0,0,25,1,8.33
+232364,Tim Southee,1 Sep 2023,v England,Manchester,2,10,8,2,3,0,1,266.66,lbw,1,4.0,0,48,1,12
+232364,Tim Southee,3 Sep 2023,v England,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.3,0,30,2,8.57
+232364,Tim Southee,5 Sep 2023,v England,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+232364,Tim Southee,22 Dec 2023,v Central D,Hamilton,1,8,0,1,1,0,0,0,bowled,2,3.5,0,28,2,7.3
+232364,Tim Southee,27 Dec 2023,v Bangladesh,Napier,1,9,8,9,10,1,0,80,caught,2,4.0,0,16,1,4
+232364,Tim Southee,29 Dec 2023,v Bangladesh,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+232364,Tim Southee,31 Dec 2023,v Bangladesh,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+232364,Tim Southee,6 Jan 2024,v Otago,Hamilton,1,9,1,3,3,0,0,33.33,caught,2,3.0,0,25,0,8.33
+232364,Tim Southee,12 Jan 2024,v Pakistan,Auckland,1,10,6*,1,2,0,1,300,not out,2,4.0,0,25,4,6.25
+232364,Tim Southee,14 Jan 2024,v Pakistan,Hamilton,1,10,5*,8,4,0,0,125,not out,2,3.3,0,31,2,8.85
+232364,Tim Southee,17 Jan 2024,v Pakistan,Dunedin,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+232364,Tim Southee,19 Jan 2024,v Pakistan,Christchurch,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+232364,Tim Southee,21 Jan 2024,v Pakistan,Christchurch,2,10,4*,13,6,0,0,66.66,not out,1,4.0,1,19,2,4.75
+232364,Tim Southee,21 Feb 2024,v Australia,Wellington,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,0,13
+232364,Tim Southee,12 Jun 2024,v West Indies,Tarouba,2,9,0,1,1,0,0,0,caught,1,4.0,0,21,2,5.25
+232364,Tim Southee,14 Jun 2024,v Uganda,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,1,4,3,1
+232364,Tim Southee,17 Jun 2024,v P.N.G.,Tarouba,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,2,2.75
+232364,Tim Southee,23 Jul 2024,v Invincibles,The Oval,1,11,1*,2,1,0,0,100,not out,2,4.0,0,20,2,6
+232364,Tim Southee,27 Jul 2024,v Spirit,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4.8
+232364,Tim Southee,31 Jul 2024,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,7.2
+232364,Tim Southee,3 Aug 2024,v Brave,Birmingham,2,11,1*,1,1,0,0,100,not out,1,4.0,0,29,0,8.7
+232364,Tim Southee,6 Aug 2024,v N S-Chargers,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,4.5
+232364,Tim Southee,10 Aug 2024,v Fire,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,11.4
+232364,Tim Southee,12 Aug 2024,v Rockets,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,5,3.6
+232364,Tim Southee,15 Aug 2024,v Originals,Birmingham,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,1,12.6
+232364,Tim Southee,17 Aug 2024,v Brave,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,5.4
+232364,Tim Southee,12 Jan 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+232364,Tim Southee,15 Jan 2025,v KnightRiders,Abu Dhabi,2,10,24,11,11,2,2,218.18,caught,1,4.0,0,42,0,10.5
+232364,Tim Southee,17 Jan 2025,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+232364,Tim Southee,19 Jan 2025,v MI Emirates,Sharjah,1,8,1,2,2,0,0,50,caught,2,3.0,0,35,0,11.66
+232364,Tim Southee,22 Jan 2025,v Vipers,Dubai (DICS),1,10,7,-,17,1,0,41.17,caught,2,3.0,0,27,0,9
+232364,Tim Southee,25 Jan 2025,v Vipers,Sharjah,1,9,0,1,1,0,0,0,bowled,2,2.5,0,35,0,12.35
+232364,Tim Southee,26 Jan 2025,v Gulf Giants,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.3,0,27,1,7.71
+232364,Tim Southee,28 Jan 2025,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+232364,Tim Southee,30 Jan 2025,v KnightRiders,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+232364,Tim Southee,2 Feb 2025,v MI Emirates,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+232364,Tim Southee,6 Feb 2025,v MI Emirates,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+232364,Tim Southee,7 Feb 2025,v Vipers,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,0,10
+232364,Tim Southee,8 Aug 2025,v Rockets,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,10.8
+232364,Tim Southee,10 Aug 2025,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.1,0,29,0,10.87
+232364,Tim Southee,12 Aug 2025,v Invincibles,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,12.6
+232364,Tim Southee,15 Aug 2025,v N S-Chargers,Leeds,2,9,8,8,5,0,1,160,lbw,1,2.0,0,23,1,13.8
+232364,Tim Southee,17 Aug 2025,v Spirit,Birmingham,2,-,DNB,-,-,-,-,-,-,1,1.0,0,17,0,20.4
+232364,Tim Southee,22 Aug 2025,v Fire,Birmingham,1,9,1*,7,1,0,0,100,not out,2,2.4,0,18,0,7.71
+232364,Tim Southee,3 Dec 2025,v KnightRiders,Sharjah,2,9,10*,-,5,0,1,200,not out,1,4.0,0,49,0,12.25
+232364,Tim Southee,7 Dec 2025,v MI Emirates,Sharjah,2,9,0*,2,1,0,0,0,not out,1,3.0,0,26,1,8.66
+232364,Tim Southee,10 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,1,9.27
+232364,Tim Southee,24 Dec 2025,v DC,Dubai (DICS),1,10,5*,3,2,1,0,250,not out,2,3.0,0,40,0,13.33

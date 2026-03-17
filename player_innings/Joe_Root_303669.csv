@@ -1,0 +1,130 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+303669,Joe Root,3 Jun 2011,v Warwickshire,Leeds,1,5,7,10,5,1,0,140,caught,2,2.0,0,12,1,6
+303669,Joe Root,5 Jun 2011,v Notts,Nottingham,2,6,8,8,9,1,0,88.88,caught,1,1.0,0,22,0,22
+303669,Joe Root,17 Jun 2011,v Lancashire,Leeds,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+303669,Joe Root,22 Jun 2011,v Derbyshire,Leeds,2,5,46*,49,41,2,0,112.19,not out,1,DNB,-,-,-,-
+303669,Joe Root,24 Jun 2011,v Warwickshire,Birmingham,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+303669,Joe Root,26 Jun 2011,v Worcs,Worcester,2,5,26,34,24,3,0,108.33,caught,1,DNB,-,-,-,-
+303669,Joe Root,29 Jun 2011,v Leics,Leicester,1,9,4,6,3,1,0,133.33,bowled,2,DNB,-,-,-,-
+303669,Joe Root,1 Jul 2011,v Northants,Northampton,1,6,8,5,8,0,0,100,caught,2,DNB,-,-,-,-
+303669,Joe Root,15 Jul 2011,v Derbyshire,Derby,2,4,7*,17,16,0,0,43.75,not out,1,DNB,-,-,-,-
+303669,Joe Root,15 Jun 2012,v Durham,Leeds,2,5,14,10,10,3,0,140,lbw,1,1.0,0,8,0,8
+303669,Joe Root,17 Jun 2012,v Leics,Leeds,1,6,2*,4,3,0,0,66.66,not out,2,1.0,0,11,0,11
+303669,Joe Root,18 Jun 2012,v Derbyshire,Derby,1,3,36,39,39,4,0,92.3,caught,2,1.0,0,10,0,10
+303669,Joe Root,22 Jun 2012,v Durham,Chester-le-Street,1,3,41,38,32,7,0,128.12,caught,2,DNB,-,-,-,-
+303669,Joe Root,24 Jun 2012,v Notts,Scarborough,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+303669,Joe Root,27 Jun 2012,v Leics,Leicester,1,3,10,11,7,2,0,142.85,lbw,2,1.0,0,8,0,8
+303669,Joe Root,29 Jun 2012,v Lancashire,Leeds,1,3,15,11,12,3,0,125,caught,2,3.0,0,33,0,11
+303669,Joe Root,5 Jul 2012,v Notts,Nottingham,2,3,27,19,16,4,0,168.75,caught,1,2.0,0,16,1,8
+303669,Joe Root,8 Jul 2012,v Derbyshire,Leeds,1,5,13*,12,7,0,1,185.71,not out,2,1.0,0,6,0,6
+303669,Joe Root,25 Jul 2012,v Worcs,Leeds,1,3,65,49,40,11,0,162.5,caught,2,1.0,0,10,0,10
+303669,Joe Root,25 Aug 2012,v Sussex,Cardiff,1,3,11,15,12,2,0,91.66,lbw,2,1.0,0,3,0,3
+303669,Joe Root,25 Aug 2012,v Hampshire,Cardiff,2,3,7,9,9,0,0,77.77,bowled,1,1.0,0,9,0,9
+303669,Joe Root,9 Oct 2012,v Uva Next,Johannesburg,2,3,11,15,6,1,1,183.33,caught,1,1.0,0,6,0,6
+303669,Joe Root,10 Oct 2012,v Trinidad & T,Centurion,2,3,16,27,18,2,0,88.88,caught,1,2.0,0,15,1,7.5
+303669,Joe Root,16 Oct 2012,v Sixers,Cape Town,1,3,25,29,24,3,1,104.16,bowled,2,1.0,0,11,0,11
+303669,Joe Root,18 Oct 2012,v MI,Cape Town,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,26,1,13
+303669,Joe Root,20 Oct 2012,v Lions,Johannesburg,1,3,5,5,8,1,0,62.5,caught,2,1.0,0,4,0,4
+303669,Joe Root,22 Oct 2012,v CSK,Durban,1,3,6,12,11,1,0,54.54,caught,2,1.0,0,8,0,8
+303669,Joe Root,22 Dec 2012,v India,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+303669,Joe Root,15 Feb 2013,v New Zealand,Wellington,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,1,7.5
+303669,Joe Root,29 Aug 2013,v Australia,Southampton,2,5,90*,77,49,13,1,183.67,not out,1,1.0,0,27,0,27
+303669,Joe Root,31 Aug 2013,v Australia,Chester-le-Street,1,7,1*,1,1,0,0,100,not out,2,3.0,0,25,1,8.33
+303669,Joe Root,29 Jan 2014,v Australia,Hobart,2,4,32,30,24,3,1,133.33,caught,1,DNB,-,-,-,-
+303669,Joe Root,31 Jan 2014,v Australia,Melbourne,1,4,18,19,14,3,0,128.57,run out,2,DNB,-,-,-,-
+303669,Joe Root,2 Feb 2014,v Australia,Sydney,2,4,11,22,21,1,0,52.38,caught,1,1.0,0,13,1,13
+303669,Joe Root,16 May 2014,v Northants,Leeds,1,3,13,15,12,2,0,108.33,lbw,2,1.0,0,6,0,6
+303669,Joe Root,20 May 2014,v Sri Lanka,The Oval,2,4,5,11,7,0,0,71.42,caught,1,2.0,0,16,1,8
+303669,Joe Root,7 Sep 2014,v India,Birmingham,1,4,26,31,29,2,0,89.65,caught,2,DNB,-,-,-,-
+303669,Joe Root,5 Jun 2015,v Lancashire,Leeds,1,3,55,54,39,9,0,141.02,caught,2,DNB,-,-,-,-
+303669,Joe Root,23 Jun 2015,v New Zealand,Manchester,1,3,68,60,46,8,1,147.82,caught,2,DNB,-,-,-,-
+303669,Joe Root,27 Nov 2015,v Pakistan,Dubai (DICS),1,4,20,14,16,1,1,125,caught,2,DNB,-,-,-,-
+303669,Joe Root,30 Nov 2015,v Pakistan,Sharjah,1,3,32,23,22,4,1,145.45,bowled,2,DNB,-,-,-,-
+303669,Joe Root,19 Feb 2016,v South Africa,Cape Town,1,3,8,16,12,1,0,66.66,caught,2,DNB,-,-,-,-
+303669,Joe Root,21 Feb 2016,v South Africa,Johannesburg,1,3,34,22,17,4,2,200,caught,2,DNB,-,-,-,-
+303669,Joe Root,16 Mar 2016,v West Indies,Wankhede,1,3,48,42,36,3,2,133.33,caught,2,DNB,-,-,-,-
+303669,Joe Root,18 Mar 2016,v South Africa,Wankhede,2,4,83,70,44,6,4,188.63,caught,1,1.0,0,13,0,13
+303669,Joe Root,23 Mar 2016,v Afghanistan,Delhi,1,3,12,18,8,1,1,150,run out,2,DNB,-,-,-,-
+303669,Joe Root,26 Mar 2016,v Sri Lanka,Delhi,1,3,25,30,24,4,0,104.16,caught,2,DNB,-,-,-,-
+303669,Joe Root,30 Mar 2016,v New Zealand,Delhi,2,3,27*,38,22,3,0,122.72,not out,1,DNB,-,-,-,-
+303669,Joe Root,3 Apr 2016,v West Indies,Eden Gardens,1,3,54,62,36,7,0,150,caught,2,1.0,0,9,2,9
+303669,Joe Root,3 Jun 2016,v Lancashire,Manchester,2,3,92*,71,51,8,3,180.39,not out,1,2.0,0,25,0,12.5
+303669,Joe Root,19 Jun 2016,v Derbyshire,Leeds,2,4,5*,9,6,0,0,83.33,not out,1,DNB,-,-,-,-
+303669,Joe Root,20 Aug 2016,v Durham,Birmingham,2,3,7,9,10,1,0,70,caught,1,2.0,0,20,0,10
+303669,Joe Root,7 Sep 2016,v Pakistan,Manchester,1,3,6,11,9,0,0,66.66,caught,2,1.0,0,10,0,10
+303669,Joe Root,26 Jan 2017,v India,Kanpur,2,3,46*,65,46,4,0,100,not out,1,DNB,-,-,-,-
+303669,Joe Root,29 Jan 2017,v India,Nagpur,2,3,38,82,38,2,0,100,lbw,1,DNB,-,-,-,-
+303669,Joe Root,1 Feb 2017,v India,Bengaluru,2,3,42,60,37,4,2,113.51,lbw,1,DNB,-,-,-,-
+303669,Joe Root,16 Sep 2017,v West Indies,Chester-le-Street,2,3,17,43,19,2,0,89.47,caught,1,2.0,0,11,0,5.5
+303669,Joe Root,27 Jun 2018,v Australia,Birmingham,1,5,35,-,24,4,0,145.83,run out,2,DNB,-,-,-,-
+303669,Joe Root,3 Jul 2018,v India,Manchester,1,6,0,-,1,0,0,0,stumped,2,DNB,-,-,-,-
+303669,Joe Root,6 Jul 2018,v India,Cardiff,2,3,9,-,10,0,0,90,bowled,1,DNB,-,-,-,-
+303669,Joe Root,20 Jul 2018,v Lancashire,Manchester,2,3,51*,34,22,5,2,231.81,not out,1,DNB,-,-,-,-
+303669,Joe Root,21 Dec 2018,v Stars,Canberra,1,4,18,-,17,1,0,105.88,caught,2,DNB,-,-,-,-
+303669,Joe Root,24 Dec 2018,v Sixers,Sydney,1,4,9,-,8,1,0,112.5,bowled,2,DNB,-,-,-,-
+303669,Joe Root,28 Dec 2018,v Hurricanes,Hobart,1,4,17,-,13,3,0,130.76,caught,2,DNB,-,-,-,-
+303669,Joe Root,31 Dec 2018,v Strikers,Adelaide,2,4,18,-,11,2,0,163.63,caught,1,DNB,-,-,-,-
+303669,Joe Root,2 Jan 2019,v Scorchers,Sydney,1,4,5,-,4,1,0,125,bowled,2,DNB,-,-,-,-
+303669,Joe Root,5 Jan 2019,v Stars,Carrara,1,4,26,-,28,3,0,92.85,caught,2,DNB,-,-,-,-
+303669,Joe Root,8 Jan 2019,v Heat,Sydney,2,4,0*,-,0,0,0,-,not out,1,1.0,0,7,0,7
+303669,Joe Root,5 Mar 2019,v West Indies,Gros Islet,2,3,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+303669,Joe Root,8 Mar 2019,v West Indies,Basseterre,1,3,55,-,40,7,0,137.5,run out,2,DNB,-,-,-,-
+303669,Joe Root,10 Mar 2019,v West Indies,Basseterre,2,3,4*,23,11,0,0,36.36,not out,1,DNB,-,-,-,-
+303669,Joe Root,5 May 2019,v Pakistan,Cardiff,2,3,47,-,42,5,0,111.9,caught,1,DNB,-,-,-,-
+303669,Joe Root,30 Aug 2020,v Derbyshire,Leeds,1,3,64,53,40,7,2,160,caught,2,2.0,0,7,2,3.5
+303669,Joe Root,31 Aug 2020,v Notts,Nottingham,1,3,65,69,43,9,0,151.16,caught,2,3.0,0,23,0,7.66
+303669,Joe Root,4 Sep 2020,v Durham,Chester-le-Street,1,3,25,25,20,2,0,125,caught,2,4.0,0,29,2,7.25
+303669,Joe Root,17 Sep 2020,v Lancashire,Manchester,2,3,64,52,39,8,1,164.1,run out,1,4.0,0,25,2,6.25
+303669,Joe Root,20 Sep 2020,v Derbyshire,Leeds,2,3,60*,76,50,6,1,120,not out,1,4.0,0,28,1,7
+303669,Joe Root,20 Jun 2021,v Derbyshire,Leeds,1,3,49,53,36,6,0,136.11,caught,2,2.0,0,19,1,9.5
+303669,Joe Root,23 Jun 2021,v Worcs,Leeds,1,3,1,10,4,0,0,25,lbw,2,2.0,0,17,0,8.5
+303669,Joe Root,25 Jun 2021,v Leics,Leicester,2,3,15,20,15,1,0,100,caught,1,3.0,0,33,1,11
+303669,Joe Root,17 Jul 2021,v Lancashire,Manchester,1,3,32,49,37,2,0,86.48,caught,2,4.0,0,20,1,5
+303669,Joe Root,24 Jul 2021,v Brave,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,5.1
+303669,Joe Root,26 Jul 2021,v N S-Chargers,Nottingham,2,4,0,2,1,0,0,0,caught,1,3.0,0,22,0,8.8
+303669,Joe Root,25 May 2022,v Worcs,Leeds,2,4,35*,41,24,4,0,145.83,not out,1,1.0,0,20,1,20
+303669,Joe Root,27 May 2022,v Lancashire,Manchester,2,4,3,9,5,0,0,60,caught,1,DNB,-,-,-,-
+303669,Joe Root,29 May 2022,v Leics,Leeds,2,4,17,27,16,1,0,106.25,caught,1,DNB,-,-,-,-
+303669,Joe Root,6 Aug 2022,v Phoenix,Nottingham,2,4,34*,-,26,1,1,130.76,not out,1,DNB,-,-,-,-
+303669,Joe Root,9 Aug 2022,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+303669,Joe Root,7 May 2023,v SRH,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+303669,Joe Root,11 May 2023,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+303669,Joe Root,14 May 2023,v RCB,Jaipur,2,4,10,26,15,1,0,66.66,lbw,1,DNB,-,-,-,-
+303669,Joe Root,9 Aug 2023,v N S-Chargers,Nottingham,2,5,4,5,8,0,0,50,caught,1,4.0,0,24,2,7.2
+303669,Joe Root,12 Aug 2023,v Spirit,Lord's,2,4,72*,65,35,10,2,205.71,not out,1,3.0,0,31,0,12.4
+303669,Joe Root,14 Aug 2023,v Fire,Cardiff,1,3,14,13,10,0,1,140,caught,2,DNB,-,-,-,-
+303669,Joe Root,17 Aug 2023,v Originals,Nottingham,2,2,35,29,23,5,0,152.17,caught,1,DNB,-,-,-,-
+303669,Joe Root,19 Aug 2023,v Phoenix,Nottingham,1,1,8,17,8,1,0,100,caught,2,DNB,-,-,-,-
+303669,Joe Root,21 Aug 2023,v Invincibles,The Oval,1,1,9,11,8,0,1,112.5,bowled,2,DNB,-,-,-,-
+303669,Joe Root,30 May 2024,v Worcs,Leeds,2,4,13*,19,13,0,0,100,not out,1,DNB,-,-,-,-
+303669,Joe Root,31 May 2024,v Leics,Leicester,1,4,3,10,9,0,0,33.33,caught,2,DNB,-,-,-,-
+303669,Joe Root,2 Jun 2024,v Northants,Northampton,1,1,35,37,25,5,0,140,caught,2,1.0,0,7,0,7
+303669,Joe Root,9 Jun 2024,v Derbyshire,Leeds,2,3,14*,13,10,0,1,140,not out,1,3.0,0,20,2,6.66
+303669,Joe Root,14 Jun 2024,v Bears,Birmingham,1,3,39,30,27,2,3,144.44,caught,2,3.0,0,23,0,7.66
+303669,Joe Root,16 Jun 2024,v Leics,Leeds,2,3,30,28,25,1,1,120,caught,1,DNB,-,-,-,-
+303669,Joe Root,20 Jun 2024,v Lancashire,Leeds,1,3,43,58,33,5,0,130.3,caught,2,1.0,0,8,1,8
+303669,Joe Root,21 Jun 2024,v Durham,Chester-le-Street,2,3,20,12,13,1,1,153.84,caught,1,DNB,-,-,-,-
+303669,Joe Root,31 Jul 2024,v Phoenix,Nottingham,2,3,33,20,19,1,3,173.68,caught,1,2.0,0,11,1,6.6
+303669,Joe Root,3 Aug 2024,v Fire,Nottingham,2,3,17,21,15,1,0,113.33,run out,1,4.0,0,19,1,5.7
+303669,Joe Root,7 Aug 2024,v Spirit,Nottingham,1,4,32,37,23,3,0,139.13,caught,2,DNB,-,-,-,-
+303669,Joe Root,10 Aug 2024,v Brave,Southampton,1,4,16,19,12,2,0,133.33,caught,2,DNB,-,-,-,-
+303669,Joe Root,12 Aug 2024,v Phoenix,Birmingham,1,3,2,10,4,0,0,50,caught,2,DNB,-,-,-,-
+303669,Joe Root,14 Aug 2024,v Invincibles,Nottingham,2,3,12,27,11,0,1,109.09,caught,1,1.0,0,9,0,10.8
+303669,Joe Root,11 Jan 2025,v Sunrisers,Paarl,2,2,62*,73,44,4,1,140.9,not out,1,DNB,-,-,-,-
+303669,Joe Root,13 Jan 2025,v MI Cape Town,Cape Town,2,2,26,14,14,3,1,185.71,caught,1,DNB,-,-,-,-
+303669,Joe Root,15 Jan 2025,v MI Cape Town,Paarl,2,2,15,28,15,2,0,100,caught,1,3.0,0,24,1,8
+303669,Joe Root,18 Jan 2025,v Capitals,Centurion,2,2,92*,92,60,11,2,153.33,not out,1,1.0,0,10,0,10
+303669,Joe Root,20 Jan 2025,v Super Kings,Paarl,2,2,6,21,8,1,0,75,caught,1,4.0,0,16,1,4
+303669,Joe Root,23 Jan 2025,v Super Giants,Durban,2,2,0,3,1,0,0,0,caught,1,4.0,0,18,1,4.5
+303669,Joe Root,25 Jan 2025,v Capitals,Paarl,1,2,78*,88,56,8,2,139.28,not out,2,4.0,0,32,2,8
+303669,Joe Root,27 Jan 2025,v Super Giants,Paarl,2,1,0,3,1,0,0,0,lbw,1,3.0,0,33,0,11
+303669,Joe Root,8 Aug 2025,v Phoenix,Birmingham,2,2,6,15,10,1,0,60,bowled,1,DNB,-,-,-,-
+303669,Joe Root,10 Aug 2025,v N S-Chargers,Nottingham,2,2,20,32,17,1,1,117.64,caught,1,DNB,-,-,-,-
+303669,Joe Root,14 Aug 2025,v Spirit,Lord's,2,2,27,47,24,3,0,112.5,caught,1,DNB,-,-,-,-
+303669,Joe Root,16 Aug 2025,v Brave,Nottingham,2,2,6,10,4,1,0,150,caught,1,DNB,-,-,-,-
+303669,Joe Root,19 Aug 2025,v Originals,Nottingham,2,2,4,11,6,0,0,66.66,caught,1,DNB,-,-,-,-
+303669,Joe Root,21 Aug 2025,v Invincibles,The Oval,1,2,76,56,41,11,1,185.36,bowled,2,DNB,-,-,-,-
+303669,Joe Root,24 Aug 2025,v Fire,Cardiff,2,2,64*,78,41,4,3,156.09,not out,1,DNB,-,-,-,-
+303669,Joe Root,27 Aug 2025,v Phoenix,Nottingham,2,2,25,37,25,3,0,100,bowled,1,3.0,0,8,1,3.2
+303669,Joe Root,30 Aug 2025,v N S-Chargers,The Oval,2,2,1*,5,1,0,0,100,not out,1,DNB,-,-,-,-
+303669,Joe Root,31 Aug 2025,v Invincibles,Lord's,2,2,10,22,13,0,0,76.92,caught,1,DNB,-,-,-,-

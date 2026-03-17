@@ -1,0 +1,215 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+398506,Mandeep Singh,22 Mar 2010,v MI,Brabourne,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Mar 2010,v Kings XI,Mohali,1,3,4,-,7,1,0,57.14,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,29 Mar 2010,v Daredevils,Delhi,2,3,0,-,4,0,0,0,stumped,1,DNB,-,-,-,-
+398506,Mandeep Singh,20 Oct 2010,v Haryana,Delhi,2,5,15,17,14,2,0,107.14,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,21 Oct 2010,v Himachal,Delhi,2,5,33*,31,25,3,0,132,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Oct 2010,v Delhi,Delhi,1,5,5,8,5,0,0,100,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,8 May 2011,v Warriors,Mohali,1,6,6,-,11,0,0,54.54,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,10 May 2011,v MI,Mohali,1,6,8,-,5,0,1,160,run out,2,DNB,-,-,-,-
+398506,Mandeep Singh,13 May 2011,v Kochi,Indore,2,6,15*,-,10,1,0,150,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 May 2011,v Daredevils,Dharamsala,1,6,11,-,7,2,0,157.14,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,17 May 2011,v RCB,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 May 2011,v Chargers,Dharamsala,2,7,7,-,8,1,0,87.5,stumped,1,DNB,-,-,-,-
+398506,Mandeep Singh,20 Oct 2011,v Haryana,Rohtak,1,4,47*,38,28,3,3,167.85,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 Oct 2011,v Himachal,Rohtak,1,4,59*,48,30,4,5,196.66,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,22 Oct 2011,v Delhi,Rohtak,2,4,19*,39,21,2,0,90.47,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,24 Oct 2011,v Services,Rohtak,1,3,27,42,37,1,1,72.97,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,25 Oct 2011,v J & K,Rohtak,2,5,26*,29,19,3,0,136.84,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,23 Mar 2012,v Assam,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+398506,Mandeep Singh,25 Mar 2012,v M. Pradesh,Mumbai,2,4,28,-,22,3,0,127.27,caught,1,1.0,0,11,0,11
+398506,Mandeep Singh,26 Mar 2012,v Mumbai,Mumbai,2,4,22,-,22,0,1,100,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,27 Mar 2012,v Baroda,Brabourne,2,4,40,-,31,6,1,129.03,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,6 Apr 2012,v RR,Jaipur,2,6,34,37,25,5,0,136,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,8 Apr 2012,v Warriors,Pune,2,3,24,37,23,3,0,104.34,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,12 Apr 2012,v Warriors,Mohali,2,4,10,17,10,1,0,100,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 Apr 2012,v KKR,Eden Gardens,1,2,38,56,34,3,1,111.76,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,18 Apr 2012,v KKR,Mohali,1,4,6,17,10,0,0,60,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,20 Apr 2012,v RCB,Mohali,1,6,20,27,15,0,0,133.33,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,22 Apr 2012,v MI,Wankhede,2,2,24,40,21,3,0,114.28,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,25 Apr 2012,v MI,Mohali,1,2,22,22,16,4,0,137.5,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,28 Apr 2012,v CSK,Chennai,1,1,56,79,50,5,1,112,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,2 May 2012,v RCB,Bengaluru,2,1,43,40,30,6,1,143.33,lbw,1,DNB,-,-,-,-
+398506,Mandeep Singh,5 May 2012,v RR,Mohali,2,2,7,5,6,0,1,116.66,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,8 May 2012,v Chargers,Hyderabad,1,1,75,72,48,8,3,156.25,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,13 May 2012,v Chargers,Mohali,2,2,28,29,20,5,0,140,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 May 2012,v Daredevils,Delhi,1,1,21,23,12,5,0,175,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,17 May 2012,v CSK,Dharamsala,2,2,24,27,21,5,0,114.28,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,19 May 2012,v Daredevils,Dharamsala,1,2,0,5,1,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,17 Mar 2013,v Haryana,Rohtak,2,4,18,14,15,2,1,120,lbw,1,DNB,-,-,-,-
+398506,Mandeep Singh,18 Mar 2013,v Delhi,Gurgaon,1,4,11,11,10,1,0,110,stumped,2,DNB,-,-,-,-
+398506,Mandeep Singh,19 Mar 2013,v J & K,Gurgaon,1,4,16,19,16,1,1,100,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 Mar 2013,v Services,Rohtak,2,2,27,28,19,3,1,142.1,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Mar 2013,v Himachal,Gurgaon,2,2,14,21,8,2,0,175,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,26 Mar 2013,v Karnataka,Indore,1,2,11,-,13,1,0,84.61,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Mar 2013,v Baroda,Indore,2,2,46*,-,33,7,0,139.39,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,28 Mar 2013,v Bengal,Indore,1,2,15,29,18,2,0,83.33,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,30 Mar 2013,v UP,Indore,1,2,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,31 Mar 2013,v Gujarat,Indore,1,2,5,5,6,1,0,83.33,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,7 Apr 2013,v Warriors,Pune,2,2,31,42,26,4,0,119.23,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,10 Apr 2013,v CSK,Mohali,1,1,9,13,10,1,0,90,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,14 Apr 2013,v RR,Jaipur,1,1,2,9,8,0,0,25,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,16 Apr 2013,v KKR,Mohali,1,2,41,45,30,6,0,136.66,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,19 Apr 2013,v SRH,Hyderabad,1,1,10,12,11,1,0,90.9,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 Apr 2013,v Warriors,Mohali,2,2,77*,97,58,7,0,132.75,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,23 Apr 2013,v Daredevils,Delhi,2,2,24,27,15,5,0,160,run out,1,DNB,-,-,-,-
+398506,Mandeep Singh,26 Apr 2013,v KKR,Eden Gardens,1,2,25,24,20,5,0,125,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,29 Apr 2013,v MI,Wankhede,2,1,9,9,8,2,0,112.5,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,2 May 2013,v CSK,Chennai,2,2,15,28,15,2,0,100,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,6 May 2013,v RCB,Mohali,2,1,16,18,12,3,0,133.33,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,9 May 2013,v RR,Mohali,1,1,0,1,3,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,11 May 2013,v SRH,Mohali,2,2,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,14 May 2013,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,16 May 2013,v Daredevils,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,18 May 2013,v MI,Dharamsala,1,2,1,7,5,0,0,20,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 Apr 2014,v Haryana,Mohali,2,3,4,12,10,0,0,40,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,2 Apr 2014,v Himachal,Mohali,2,4,28*,60,32,1,0,87.5,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,3 Apr 2014,v Delhi,Mohali,1,2,36,66,33,2,1,109.09,run out,2,DNB,-,-,-,-
+398506,Mandeep Singh,4 Apr 2014,v Services,Mohali,1,2,0,5,4,0,0,0,run out,2,1.0,0,9,1,9
+398506,Mandeep Singh,5 Apr 2014,v J & K,Mohali,1,4,9,19,15,0,0,60,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,7 May 2014,v CSK,Cuttack,1,2,3,20,8,0,0,37.5,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,9 May 2014,v RCB,Bengaluru,1,2,21,33,15,2,0,140,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,11 May 2014,v KKR,Cuttack,1,2,0,6,3,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,24 Mar 2015,v Haryana,Delhi,2,3,22,28,19,3,0,115.78,caught,1,2.0,0,10,0,5
+398506,Mandeep Singh,25 Mar 2015,v Delhi,Delhi,1,3,10,10,7,2,0,142.85,caught,2,2.0,0,12,0,6
+398506,Mandeep Singh,26 Mar 2015,v J & K,Delhi,1,3,8,27,12,0,0,66.66,caught,2,4.0,0,18,1,4.5
+398506,Mandeep Singh,27 Mar 2015,v Services,Delhi,2,4,35*,27,22,4,1,159.09,not out,1,3.0,0,19,1,6.33
+398506,Mandeep Singh,28 Mar 2015,v Himachal,Delhi,1,4,37,23,25,6,0,148,caught,2,1.0,0,3,1,3
+398506,Mandeep Singh,1 Apr 2015,v Hyderabad,Cuttack,2,3,63,73,43,8,1,146.51,caught,1,2.0,0,15,0,7.5
+398506,Mandeep Singh,2 Apr 2015,v Mumbai,Cuttack,1,4,3,6,4,0,0,75,caught,2,1.0,0,2,1,2
+398506,Mandeep Singh,3 Apr 2015,v Odisha,Cuttack,1,3,11,26,15,0,0,73.33,caught,2,2.0,0,11,1,5.5
+398506,Mandeep Singh,5 Apr 2015,v Rajasthan,Cuttack,2,3,29,27,18,4,1,161.11,caught,1,4.0,0,21,3,5.25
+398506,Mandeep Singh,7 Apr 2015,v Gujarat,Bhubaneswar,1,3,0,4,3,0,0,0,caught,2,4.0,0,21,1,5.25
+398506,Mandeep Singh,11 Apr 2015,v KKR,Eden Gardens,2,4,6,1,3,0,1,200,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,13 Apr 2015,v SRH,Bengaluru,1,5,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,24 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,26 Apr 2015,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,29 Apr 2015,v RR,Bengaluru,1,4,27,41,20,4,0,135,lbw,-,TDNB,-,-,-,-
+398506,Mandeep Singh,2 May 2015,v KKR,Bengaluru,2,4,45*,-,18,4,3,250,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,4 May 2015,v CSK,Chennai,2,4,0,3,0,0,0,-,run out,1,DNB,-,-,-,-
+398506,Mandeep Singh,6 May 2015,v Kings XI,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,10 May 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,13 May 2015,v Kings XI,Mohali,2,4,20,-,14,2,0,142.85,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 May 2015,v SRH,Hyderabad,2,4,1,-,3,0,0,33.33,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,17 May 2015,v Daredevils,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,20 May 2015,v RR,Pune,1,4,54*,56,34,7,2,158.82,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,22 May 2015,v CSK,Ranchi,1,4,4,10,7,0,0,57.14,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,2 Jan 2016,v Rajasthan,Kochi,1,3,76*,84,52,7,3,146.15,not out,2,1.0,0,13,0,13
+398506,Mandeep Singh,3 Jan 2016,v J & K,Kochi,2,3,58*,57,45,6,2,128.88,not out,1,0.3,0,6,0,12
+398506,Mandeep Singh,6 Jan 2016,v Jharkhand,Kochi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Apr 2016,v Supergiants,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,18 Jun 2016,v Zimbabwe,Harare,2,2,31,-,27,5,0,114.81,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,20 Jun 2016,v Zimbabwe,Harare,2,2,52*,56,40,6,1,130,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Jun 2016,v Zimbabwe,Harare,1,2,4,14,6,0,0,66.66,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,5 Apr 2017,v SRH,Hyderabad,2,2,24,26,16,5,0,150,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,8 Apr 2017,v Daredevils,Bengaluru,1,3,12,10,10,3,0,120,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,10 Apr 2017,v Kings XI,Indore,1,5,28,36,34,1,1,82.35,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,14 Apr 2017,v MI,Bengaluru,1,6,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,16 Apr 2017,v Supergiant,Bengaluru,2,2,0,7,3,0,0,0,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,18 Apr 2017,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,23 Apr 2017,v KKR,Eden Gardens,2,3,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,27 Apr 2017,v Guj Lions,Bengaluru,1,6,8,34,14,0,0,57.14,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 May 2017,v MI,Wankhede,1,2,17,16,13,3,0,130.76,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,5 May 2017,v Kings XI,Bengaluru,2,1,46,56,40,5,2,115,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,7 May 2017,v KKR,Bengaluru,1,2,52,109,43,4,1,120.93,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,9 Jan 2018,v Delhi,Delhi,1,2,27,30,18,3,1,150,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,10 Jan 2018,v Services,Delhi,2,2,84*,82,56,10,2,150,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,12 Jan 2018,v Haryana,Delhi,1,2,30,34,18,4,1,166.66,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,14 Jan 2018,v J & K,Delhi,2,2,12,8,8,1,1,150,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 Jan 2018,v Himachal,Delhi,1,2,46,44,32,4,2,143.75,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 Jan 2018,v Karnataka,Kolkata,2,2,45,56,29,7,1,155.17,caught,1,1.0,0,10,0,10
+398506,Mandeep Singh,22 Jan 2018,v Mumbai,Kolkata,2,2,20,18,11,2,1,181.81,caught,1,1.0,0,11,0,11
+398506,Mandeep Singh,23 Jan 2018,v Jharkhand,Eden Gardens,1,2,48,64,35,6,1,137.14,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,25 Jan 2018,v Rajasthan,Eden Gardens,1,2,1,6,2,0,0,50,lbw,2,1.0,0,6,1,6
+398506,Mandeep Singh,8 Apr 2018,v KKR,Eden Gardens,1,6,37,-,18,4,2,205.55,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,13 Apr 2018,v Kings XI,Bengaluru,2,6,22,-,19,1,0,115.78,run out,1,DNB,-,-,-,-
+398506,Mandeep Singh,15 Apr 2018,v RR,Bengaluru,2,5,47*,-,25,6,1,188,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,17 Apr 2018,v MI,Wankhede,2,4,16,-,14,1,0,114.28,stumped,1,DNB,-,-,-,-
+398506,Mandeep Singh,21 Apr 2018,v Daredevils,Bengaluru,2,6,17*,-,9,1,1,188.88,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,25 Apr 2018,v CSK,Bengaluru,1,5,32,-,17,1,3,188.23,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,29 Apr 2018,v KKR,Bengaluru,1,5,19,-,14,0,2,135.71,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 May 2018,v MI,Bengaluru,1,5,14,-,10,1,1,140,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,5 May 2018,v CSK,Pune,1,5,7,-,13,0,0,53.84,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,7 May 2018,v SRH,Hyderabad,2,6,21*,-,23,1,0,91.3,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,12 May 2018,v Daredevils,Delhi,2,5,13,-,14,0,1,92.85,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,14 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,17 May 2018,v SRH,Bengaluru,1,6,4,-,6,0,0,66.66,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,19 May 2018,v RR,Jaipur,2,5,3,-,4,0,0,75,stumped,1,DNB,-,-,-,-
+398506,Mandeep Singh,21 Feb 2019,v M. Pradesh,Indore,2,3,64,-,38,5,3,168.42,run out,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Feb 2019,v Mumbai,Indore,2,3,5,11,6,1,0,83.33,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,24 Feb 2019,v Saurashtra,Indore,1,3,0,2,2,0,0,0,caught,2,1.0,0,4,1,4
+398506,Mandeep Singh,27 Feb 2019,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,9,0,4.5
+398506,Mandeep Singh,2 Mar 2019,v Railways,Indore,2,3,70*,-,48,5,3,145.83,not out,1,4.0,0,24,0,6
+398506,Mandeep Singh,25 Mar 2019,v RR,Jaipur,1,6,5*,5,2,0,0,250,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Mar 2019,v KKR,Eden Gardens,2,6,33*,-,15,4,1,220,not out,1,1.0,0,18,0,18
+398506,Mandeep Singh,30 Mar 2019,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,1 Apr 2019,v DC,Mohali,1,6,29*,35,21,2,1,138.09,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,6 Apr 2019,v CSK,Chennai,2,6,1*,7,1,0,0,100,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,8 Apr 2019,v SRH,Mohali,2,5,2,5,3,0,0,66.66,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,10 Apr 2019,v MI,Wankhede,1,6,7*,13,3,1,0,233.33,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,13 Apr 2019,v RCB,Mohali,1,6,18*,34,16,1,0,112.5,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,16 Apr 2019,v RR,Mohali,1,6,0,2,2,0,0,0,bowled,2,1.0,0,8,0,8
+398506,Mandeep Singh,20 Apr 2019,v DC,Delhi,1,5,30,44,27,1,1,111.11,stumped,2,DNB,-,-,-,-
+398506,Mandeep Singh,24 Apr 2019,v RCB,Bengaluru,2,6,4*,14,4,0,0,100,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,3 May 2019,v KKR,Mohali,1,5,25,35,17,1,1,147.05,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,5 May 2019,v CSK,Mohali,2,5,11*,26,9,0,0,122.22,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,8 Nov 2019,v Hyderabad,Chandigarh,2,5,16,-,7,0,2,228.57,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,9 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,11 Nov 2019,v Chandigarh,Chandigarh,2,5,2*,-,1,0,0,200,not out,1,2.0,0,14,0,7
+398506,Mandeep Singh,12 Nov 2019,v Himachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,14 Nov 2019,v Railways,Chandigarh,2,4,9,-,8,1,0,112.5,caught,1,2.0,0,13,1,6.5
+398506,Mandeep Singh,15 Nov 2019,v Chhattisgarh,Chandigarh,1,6,2,-,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,18 Nov 2019,v Maharashtra,Chandigarh,2,1,67,-,49,8,1,136.73,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,21 Nov 2019,v Jharkhand,Surat,1,2,81*,-,52,6,3,155.76,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,24 Nov 2019,v Karnataka,Surat,1,3,76,-,50,9,2,152,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,25 Nov 2019,v Tamil Nadu,Surat,1,3,5,-,7,1,0,71.42,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Nov 2019,v Mumbai,Surat,2,4,12,-,8,2,0,150,lbw,1,2.0,0,27,0,13.5
+398506,Mandeep Singh,4 Oct 2020,v CSK,Dubai (DICS),1,3,27,-,16,0,2,168.75,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,8 Oct 2020,v SRH,Dubai (DICS),2,6,6,-,6,0,0,100,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,10 Oct 2020,v KKR,Abu Dhabi,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,24 Oct 2020,v SRH,Dubai (DICS),1,2,17,-,14,1,0,121.42,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,26 Oct 2020,v KKR,Sharjah,2,2,66*,-,56,8,2,117.85,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,30 Oct 2020,v RR,Abu Dhabi,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 Nov 2020,v CSK,Abu Dhabi,1,5,14,-,15,1,0,93.33,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,10 Jan 2021,v UP,Alur (2),1,3,9,-,7,2,0,128.57,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,14 Jan 2021,v Railways,Alur (2),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,18 Jan 2021,v Tripura,Alur (2),1,3,99*,-,66,9,4,150,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,26 Jan 2021,v Karnataka,Ahmedabad,2,3,35*,-,33,4,1,106.06,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,29 Jan 2021,v Baroda,Ahmedabad,2,6,42*,-,24,3,3,175,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,28 Sep 2021,v MI,Abu Dhabi,1,2,15,28,14,2,0,107.14,lbw,2,DNB,-,-,-,-
+398506,Mandeep Singh,8 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+398506,Mandeep Singh,9 Nov 2021,v Tamil Nadu,Lucknow,1,6,13,11,7,1,1,185.71,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Mar 2022,v MI,Brabourne,2,3,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,2 Apr 2022,v GT,Pune,2,3,18,24,16,4,0,112.5,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,5 May 2022,v SRH,Brabourne,1,1,0,5,5,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,11 Oct 2022,v Hyderabad,Jaipur,1,4,30,-,24,2,0,125,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,12 Oct 2022,v Delhi,Jaipur,2,4,44,-,31,4,0,141.93,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,14 Oct 2022,v Tripura,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,16 Oct 2022,v Goa,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,18 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,20 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,22 Oct 2022,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,30 Oct 2022,v Haryana,Eden Gardens,1,6,8,6,4,0,1,200,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 Nov 2022,v Karnataka,Eden Gardens,1,6,1*,5,1,0,0,100,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,3 Nov 2022,v Himachal,Eden Gardens,2,6,29*,-,15,3,1,193.33,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,1 Apr 2023,v Punjab Kings,Mohali,2,1,2,7,4,0,0,50,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,6 Apr 2023,v RCB,Eden Gardens,1,3,0,2,1,0,0,0,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,20 Apr 2023,v DC,Delhi,1,5,12,16,11,0,1,109.09,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,16 Oct 2023,v Saurashtra,Ranchi,2,4,32,-,23,4,0,139.13,caught,1,DNB,-,-,-,-
+398506,Mandeep Singh,17 Oct 2023,v Andhra,Ranchi,1,7,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,19 Oct 2023,v Railways,Ranchi,1,5,12,-,7,2,0,171.42,bowled,2,DNB,-,-,-,-
+398506,Mandeep Singh,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+398506,Mandeep Singh,23 Oct 2023,v Gujarat,Ranchi,1,6,1*,-,1,0,0,100,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,25 Oct 2023,v Goa,Ranchi,1,3,26,-,20,2,1,130,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,2 Nov 2023,v UP,Mohali,2,3,1,-,9,0,0,11.11,bowled,1,DNB,-,-,-,-
+398506,Mandeep Singh,4 Nov 2023,v Delhi,Mohali,2,5,63*,-,36,3,3,175,not out,1,DNB,-,-,-,-
+398506,Mandeep Singh,6 Nov 2023,v Baroda,Mohali,1,4,32,-,23,4,0,139.13,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,23 Nov 2024,v Tamil Nadu,Indore,2,4,9,-,7,1,0,128.57,caught,1,3.0,0,39,0,13
+398506,Mandeep Singh,25 Nov 2024,v Karnataka,Indore,1,3,66*,-,41,5,2,160.97,not out,2,DNB,-,-,-,-
+398506,Mandeep Singh,27 Nov 2024,v Gujarat,Indore,1,3,7,-,7,1,0,100,caught,2,1.0,0,25,0,25
+398506,Mandeep Singh,29 Nov 2024,v Baroda,Indore,1,3,50,-,40,3,1,125,caught,2,DNB,-,-,-,-
+398506,Mandeep Singh,1 Dec 2024,v Uttarakhand,Indore,2,4,2*,-,2,0,0,100,not out,1,3.0,0,13,0,4.33
+398506,Mandeep Singh,3 Dec 2024,v Sikkim,Indore,2,4,3*,-,3,0,0,100,not out,1,1.0,0,11,0,11
+398506,Mandeep Singh,5 Dec 2024,v Saurashtra,Indore,1,4,1,-,3,0,0,33.33,caught,2,2.0,0,22,0,11

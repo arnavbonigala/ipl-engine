@@ -1,0 +1,71 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1076713,Cameron Green,13 Jan 2019,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+1076713,Cameron Green,18 Dec 2019,v Sixers,Sydney,1,6,36,-,32,3,0,112.5,caught,2,DNB,-,-,-,-
+1076713,Cameron Green,21 Dec 2019,v Renegades,Perth,1,7,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+1076713,Cameron Green,23 Dec 2019,v Strikers,Adelaide,2,7,9,-,10,0,0,90,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,26 Dec 2019,v Sixers,Perth,2,5,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,1 Jan 2020,v Heat,Carrara,1,7,3*,-,2,0,0,150,not out,2,DNB,-,-,-,-
+1076713,Cameron Green,5 Jan 2020,v Hurricanes,Perth,2,5,33,-,32,3,0,103.12,lbw,1,DNB,-,-,-,-
+1076713,Cameron Green,7 Jan 2020,v Renegades,Geelong,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1076713,Cameron Green,11 Jan 2020,v Heat,Perth,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1076713,Cameron Green,13 Jan 2020,v Hurricanes,Hobart,1,7,13*,-,7,1,0,185.71,not out,2,DNB,-,-,-,-
+1076713,Cameron Green,15 Jan 2020,v Stars,Perth,1,3,4,-,5,0,0,80,run out,2,DNB,-,-,-,-
+1076713,Cameron Green,18 Jan 2020,v Stars,Melbourne,2,7,4,-,4,0,0,100,run out,1,DNB,-,-,-,-
+1076713,Cameron Green,20 Jan 2020,v Thunder,Perth,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1076713,Cameron Green,5 Apr 2022,v Pakistan,Lahore,2,6,2,9,7,0,0,28.57,bowled,1,3.0,0,16,2,5.33
+1076713,Cameron Green,20 Sep 2022,v India,Mohali,2,2,61,49,30,8,4,203.33,caught,1,3.0,0,46,1,15.33
+1076713,Cameron Green,23 Sep 2022,v India,Nagpur,1,2,5,-,4,1,0,125,run out,2,DNB,-,-,-,-
+1076713,Cameron Green,25 Sep 2022,v India,Hyderabad,1,1,52,25,21,7,3,247.61,caught,2,3.0,0,14,0,4.66
+1076713,Cameron Green,5 Oct 2022,v West Indies,Carrara,2,2,14,27,10,1,1,140,bowled,1,2.0,0,16,1,8
+1076713,Cameron Green,7 Oct 2022,v West Indies,Brisbane,1,2,1,11,4,0,0,25,caught,2,4.0,0,35,1,8.75
+1076713,Cameron Green,9 Oct 2022,v England,Perth,2,2,1,7,2,0,0,50,caught,1,3.0,0,38,0,12.66
+1076713,Cameron Green,4 Nov 2022,v Afghanistan,Adelaide,1,2,3,12,2,0,0,150,caught,2,2.0,0,13,0,6.5
+1076713,Cameron Green,2 Apr 2023,v RCB,Bengaluru,1,3,5,6,4,1,0,125,bowled,2,2.0,0,30,1,15
+1076713,Cameron Green,8 Apr 2023,v CSK,Wankhede,1,3,12,23,11,1,0,109.09,caught,2,3.0,0,20,0,6.66
+1076713,Cameron Green,11 Apr 2023,v DC,Delhi,2,6,17*,20,8,1,1,212.5,not out,1,3.0,0,30,0,10
+1076713,Cameron Green,16 Apr 2023,v KKR,Wankhede,2,7,1*,3,1,0,0,100,not out,1,2.0,0,20,1,10
+1076713,Cameron Green,18 Apr 2023,v SRH,Hyderabad,1,3,64*,75,40,6,2,160,not out,2,4.0,0,29,1,7.25
+1076713,Cameron Green,22 Apr 2023,v Punjab Kings,Wankhede,2,3,67,64,43,6,3,155.81,caught,1,4.0,0,41,2,10.25
+1076713,Cameron Green,25 Apr 2023,v GT,Ahmedabad,2,3,33,43,26,0,3,126.92,bowled,1,2.0,0,39,0,19.5
+1076713,Cameron Green,30 Apr 2023,v RR,Wankhede,2,3,44,47,26,4,2,169.23,caught,1,3.0,0,31,0,10.33
+1076713,Cameron Green,3 May 2023,v Punjab Kings,Mohali,2,3,23,29,18,4,0,127.77,caught,1,2.0,0,15,0,7.5
+1076713,Cameron Green,6 May 2023,v CSK,Chennai,1,1,6,10,4,1,0,150,bowled,2,1.0,0,10,0,10
+1076713,Cameron Green,9 May 2023,v RCB,Wankhede,2,6,2*,4,2,0,0,100,not out,1,2.0,0,15,1,7.5
+1076713,Cameron Green,12 May 2023,v GT,Wankhede,1,7,3*,18,3,0,0,100,not out,2,1.0,0,13,0,13
+1076713,Cameron Green,16 May 2023,v LSG,Lucknow,2,7,4*,17,6,0,0,66.66,not out,1,2.0,0,16,0,8
+1076713,Cameron Green,21 May 2023,v SRH,Wankhede,2,3,100*,85,47,8,8,212.76,not out,1,1.0,0,2,0,2
+1076713,Cameron Green,24 May 2023,v LSG,Chennai,1,3,41,38,23,6,1,178.26,bowled,2,3.0,0,15,0,5
+1076713,Cameron Green,26 May 2023,v GT,Ahmedabad,2,3,30,54,20,2,2,150,bowled,1,3.0,0,35,0,11.66
+1076713,Cameron Green,22 Mar 2024,v CSK,Chennai,1,5,18,20,22,1,0,81.81,bowled,2,3.0,0,27,2,9
+1076713,Cameron Green,25 Mar 2024,v Punjab Kings,Bengaluru,2,3,3,9,5,0,0,60,caught,1,2.0,0,19,0,9.5
+1076713,Cameron Green,29 Mar 2024,v KKR,Bengaluru,1,3,33,25,21,4,2,157.14,bowled,2,1.0,0,7,0,7
+1076713,Cameron Green,2 Apr 2024,v LSG,Bengaluru,2,5,9,7,9,1,0,100,bowled,1,2.0,0,25,0,12.5
+1076713,Cameron Green,6 Apr 2024,v RR,Jaipur,1,5,5*,14,6,0,0,83.33,not out,2,3.1,0,27,0,8.52
+1076713,Cameron Green,21 Apr 2024,v KKR,Eden Gardens,2,5,6,7,4,0,1,150,caught,1,4.0,0,35,2,8.75
+1076713,Cameron Green,25 Apr 2024,v SRH,Hyderabad,1,5,37*,41,20,5,0,185,not out,2,2.0,0,12,2,6
+1076713,Cameron Green,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,0,14
+1076713,Cameron Green,4 May 2024,v GT,Bengaluru,2,6,1,6,2,0,0,50,caught,1,4.0,0,28,1,7
+1076713,Cameron Green,9 May 2024,v Punjab Kings,Dharamsala,1,5,46,50,27,5,1,170.37,caught,2,1.0,0,16,0,16
+1076713,Cameron Green,12 May 2024,v DC,Bengaluru,1,5,32*,39,24,1,2,133.33,not out,2,4.0,0,19,1,4.75
+1076713,Cameron Green,18 May 2024,v CSK,Bengaluru,1,4,38*,45,17,3,3,223.52,not out,2,2.0,0,18,1,9
+1076713,Cameron Green,22 May 2024,v RR,Ahmedabad,1,3,27,33,21,2,1,128.57,caught,2,4.0,0,28,1,7
+1076713,Cameron Green,4 Sep 2024,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,6
+1076713,Cameron Green,6 Sep 2024,v Scotland,Edinburgh,1,4,36,37,29,2,2,124.13,caught,2,2.0,0,16,2,8
+1076713,Cameron Green,7 Sep 2024,v Scotland,Edinburgh,2,4,62*,63,39,2,5,158.97,not out,1,4.0,0,35,3,8.75
+1076713,Cameron Green,11 Sep 2024,v England,Southampton,1,7,13,24,16,0,0,81.25,bowled,2,1.2,0,14,1,10.5
+1076713,Cameron Green,13 Sep 2024,v England,Cardiff,1,7,13*,16,8,0,1,162.5,not out,2,2.0,0,24,0,12
+1076713,Cameron Green,20 Jul 2025,v West Indies,Kingston,2,4,51,55,26,2,5,196.15,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,22 Jul 2025,v West Indies,Kingston,2,4,56*,56,32,3,4,175,not out,1,DNB,-,-,-,-
+1076713,Cameron Green,25 Jul 2025,v West Indies,Basseterre,2,4,11,-,14,1,0,78.57,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,26 Jul 2025,v West Indies,Basseterre,2,4,55*,-,35,3,3,157.14,not out,1,DNB,-,-,-,-
+1076713,Cameron Green,28 Jul 2025,v West Indies,Basseterre,2,4,32,-,18,5,0,177.77,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,10 Aug 2025,v South Africa,Darwin,1,4,35,18,13,4,3,269.23,caught,2,DNB,-,-,-,-
+1076713,Cameron Green,12 Aug 2025,v South Africa,Darwin,2,3,9,8,7,2,0,128.57,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,16 Aug 2025,v South Africa,Cairns,2,4,9,11,8,1,0,112.5,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,29 Jan 2026,v Pakistan,Lahore,2,3,36,48,31,3,1,116.12,caught,1,1.0,0,11,0,11
+1076713,Cameron Green,31 Jan 2026,v Pakistan,Lahore,2,3,35,36,20,1,2,175,caught,1,DNB,-,-,-,-
+1076713,Cameron Green,1 Feb 2026,v Pakistan,Lahore,2,3,22,46,24,2,0,91.66,bowled,1,3.0,0,43,1,14.33
+1076713,Cameron Green,11 Feb 2026,v Ireland,Colombo (RPS),1,3,21,18,11,1,2,190.9,caught,2,DNB,-,-,-,-
+1076713,Cameron Green,13 Feb 2026,v Zimbabwe,Colombo (RPS),2,3,0,7,2,0,0,0,caught,1,1.1,0,6,1,5.14
+1076713,Cameron Green,16 Feb 2026,v Sri Lanka,Pallekele,1,3,3,5,7,0,0,42.85,stumped,2,DNB,-,-,-,-
+1076713,Cameron Green,20 Feb 2026,v Oman,Pallekele,2,-,DNB,-,-,-,-,-,-,1,2.0,0,11,0,5.5

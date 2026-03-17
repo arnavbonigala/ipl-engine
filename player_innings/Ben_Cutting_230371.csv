@@ -1,0 +1,213 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+230371,Ben Cutting,26 Dec 2008,v NSW,Brisbane,1,9,8*,-,4,1,0,200,not out,2,2.0,0,22,1,11
+230371,Ben Cutting,1 Jan 2009,v Tasmania,Hobart,2,-,DNB,-,-,-,-,-,-,1,1.0,0,20,0,20
+230371,Ben Cutting,9 Jan 2009,v South Aust,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+230371,Ben Cutting,15 Jan 2009,v West Aust,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,1,12.33
+230371,Ben Cutting,28 Dec 2009,v Victoria,Brisbane,2,8,16*,10,9,1,1,177.77,not out,1,3.0,0,25,0,8.33
+230371,Ben Cutting,3 Jan 2010,v South Aust,Adelaide,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+230371,Ben Cutting,8 Jan 2010,v Tasmania,Brisbane,1,10,2,2,3,0,0,66.66,bowled,2,2.0,0,22,0,11
+230371,Ben Cutting,16 Jan 2010,v West Aust,Brisbane,1,9,20*,7,8,2,1,250,not out,2,4.0,0,30,2,7.5
+230371,Ben Cutting,19 Jan 2010,v Victoria,Brisbane,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+230371,Ben Cutting,2 Jan 2011,v Victoria,Melbourne,2,9,10*,6,7,1,0,142.85,not out,1,3.0,0,26,1,8.66
+230371,Ben Cutting,7 Jan 2011,v Tasmania,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+230371,Ben Cutting,20 Jan 2011,v South Aust,Adelaide,2,10,23*,-,13,1,1,176.92,not out,1,3.0,0,30,0,10
+230371,Ben Cutting,24 Jan 2011,v NSW,Brisbane,2,9,8,-,11,0,0,72.72,caught,1,3.0,0,24,2,8
+230371,Ben Cutting,25 Jan 2011,v West Aust,Brisbane,2,7,1*,-,1,0,0,100,not out,1,3.0,0,35,0,11.66
+230371,Ben Cutting,9 Dec 2012,v Hurricanes,Brisbane,1,6,6,-,4,1,0,150,caught,2,3.0,0,19,1,6.33
+230371,Ben Cutting,13 Dec 2012,v Strikers,Adelaide,2,7,13,-,5,0,2,260,run out,1,4.0,0,37,2,9.25
+230371,Ben Cutting,18 Dec 2012,v Scorchers,Brisbane,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+230371,Ben Cutting,22 Dec 2012,v Renegades,Melbourne (Docklands),1,8,33*,-,24,1,1,137.5,not out,2,4.0,0,12,2,3
+230371,Ben Cutting,28 Dec 2012,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,3.0,1,12,1,4
+230371,Ben Cutting,3 Jan 2013,v Stars,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+230371,Ben Cutting,7 Jan 2013,v Sixers,Brisbane,1,6,10,-,10,1,0,100,stumped,2,3.0,0,9,2,3
+230371,Ben Cutting,15 Jan 2013,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+230371,Ben Cutting,19 Jan 2013,v Scorchers,W.A.C.A,1,6,7*,19,9,0,0,77.77,not out,2,4.0,0,31,2,7.75
+230371,Ben Cutting,26 Jan 2013,v Sri Lanka,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+230371,Ben Cutting,13 Feb 2013,v West Indies,Brisbane,2,8,0,4,1,0,0,0,stumped,1,4.0,0,43,0,10.75
+230371,Ben Cutting,22 Sep 2013,v Trinidad & T,Ranchi,2,7,17,16,10,2,1,170,run out,1,4.0,0,24,1,6
+230371,Ben Cutting,24 Sep 2013,v Titans,Mohali,2,4,0,1,2,0,0,0,caught,1,2.0,0,23,1,11.5
+230371,Ben Cutting,28 Sep 2013,v CSK,Ranchi,1,8,42*,33,25,0,5,168,not out,2,3.5,0,38,1,9.91
+230371,Ben Cutting,22 Dec 2013,v Scorchers,Brisbane,2,8,15*,-,7,1,1,214.28,not out,1,4.0,0,31,3,7.75
+230371,Ben Cutting,28 Dec 2013,v Hurricanes,Brisbane,1,-,DNB,-,-,-,-,-,-,2,3.2,0,39,1,11.7
+230371,Ben Cutting,30 Dec 2013,v Renegades,Melbourne (Docklands),2,6,40,19,19,0,5,210.52,caught,1,3.3,0,51,0,14.57
+230371,Ben Cutting,2 Jan 2014,v Sixers,Brisbane,2,8,7,5,3,0,1,233.33,caught,1,4.0,0,30,2,7.5
+230371,Ben Cutting,8 Jan 2014,v Thunder,Sydney,1,6,25*,25,13,0,3,192.3,not out,2,3.0,0,29,1,9.66
+230371,Ben Cutting,11 Jan 2014,v Stars,Brisbane,1,8,7,-,6,0,0,116.66,caught,2,3.0,0,27,0,9
+230371,Ben Cutting,18 Jan 2014,v Strikers,Adelaide,1,6,1,-,4,0,0,25,caught,2,2.0,0,9,0,4.5
+230371,Ben Cutting,23 Jan 2014,v Hurricanes,Hobart,2,6,35,32,21,2,2,166.66,bowled,1,2.0,0,18,0,9
+230371,Ben Cutting,2 Feb 2014,v England,Sydney,1,4,29,22,16,1,3,181.25,caught,2,3.0,0,18,1,6
+230371,Ben Cutting,15 May 2014,v Daredevils,Ahmedabad,1,6,8,18,6,0,1,133.33,run out,2,4.0,0,31,1,7.75
+230371,Ben Cutting,5 Nov 2014,v South Africa,Adelaide,1,7,6,13,6,0,0,100,caught,2,1.0,0,11,0,11
+230371,Ben Cutting,28 Dec 2014,v Stars,Brisbane,1,6,27,29,18,1,2,150,caught,2,2.0,0,25,0,12.5
+230371,Ben Cutting,2 Jan 2015,v Hurricanes,Hobart,1,6,19,6,5,0,3,380,caught,2,1.0,0,14,0,14
+230371,Ben Cutting,4 Jan 2015,v Strikers,Brisbane,1,6,21,25,15,1,1,140,caught,2,2.0,0,12,0,6
+230371,Ben Cutting,8 Jan 2015,v Scorchers,W.A.C.A,1,7,1,-,2,0,0,50,caught,2,3.0,0,19,1,6.33
+230371,Ben Cutting,11 Jan 2015,v Sixers,Brisbane,1,7,11,10,9,0,1,122.22,run out,2,3.0,0,20,0,6.66
+230371,Ben Cutting,13 Jan 2015,v Renegades,Melbourne (Docklands),1,8,30,36,35,3,0,85.71,bowled,2,1.0,0,12,0,12
+230371,Ben Cutting,15 Jan 2015,v Hurricanes,Brisbane,1,6,24,9,8,2,2,300,caught,2,4.0,0,33,1,8.25
+230371,Ben Cutting,19 Dec 2015,v Renegades,Brisbane,1,6,30*,-,14,4,1,214.28,not out,2,3.0,0,31,0,10.33
+230371,Ben Cutting,22 Dec 2015,v Hurricanes,Hobart,2,7,10,17,10,0,0,100,caught,1,4.0,0,32,1,8
+230371,Ben Cutting,26 Dec 2015,v Scorchers,W.A.C.A,1,7,8,-,13,1,0,61.53,bowled,2,2.0,0,12,0,6
+230371,Ben Cutting,29 Dec 2015,v Hurricanes,Brisbane,2,7,13,-,7,1,1,185.71,caught,1,4.0,0,29,0,7.25
+230371,Ben Cutting,3 Jan 2016,v Thunder,Brisbane,2,5,22*,-,13,3,0,169.23,not out,1,4.0,0,37,0,9.25
+230371,Ben Cutting,8 Jan 2016,v Strikers,Brisbane,1,6,16,-,13,1,1,123.07,bowled,2,3.4,0,37,1,10.09
+230371,Ben Cutting,10 Jan 2016,v Sixers,Sydney,1,6,12,-,8,0,1,150,caught,2,4.0,0,41,2,10.25
+230371,Ben Cutting,14 Jan 2016,v Stars,Melbourne,1,6,22,18,11,2,1,200,lbw,2,2.0,0,20,0,10
+230371,Ben Cutting,15 May 2016,v Kings XI,Mohali,2,5,18*,24,11,0,2,163.63,not out,1,1.1,0,11,0,9.42
+230371,Ben Cutting,25 May 2016,v KKR,Delhi,1,6,0,4,1,0,0,0,stumped,2,3.0,0,14,1,4.66
+230371,Ben Cutting,27 May 2016,v Guj Lions,Delhi,2,6,8,7,7,1,0,114.28,caught,1,3.0,0,20,2,6.66
+230371,Ben Cutting,29 May 2016,v RCB,Bengaluru,1,6,39*,26,15,3,4,260,not out,2,4.0,0,35,2,8.75
+230371,Ben Cutting,21 Dec 2016,v Strikers,Adelaide,1,5,6,12,8,0,0,75,caught,2,4.0,0,46,2,11.5
+230371,Ben Cutting,28 Dec 2016,v Thunder,Sydney,2,6,1,-,4,0,0,25,lbw,1,4.0,0,24,1,6
+230371,Ben Cutting,30 Dec 2016,v Hurricanes,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+230371,Ben Cutting,3 Jan 2017,v Sixers,Brisbane,1,6,20,-,12,4,0,166.66,caught,2,3.4,0,44,2,12
+230371,Ben Cutting,5 Jan 2017,v Scorchers,W.A.C.A,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+230371,Ben Cutting,11 Jan 2017,v Scorchers,Brisbane,2,7,16,-,11,2,0,145.45,caught,1,4.0,0,40,0,10
+230371,Ben Cutting,17 Jan 2017,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,3.1,0,38,1,12
+230371,Ben Cutting,20 Jan 2017,v Renegades,Brisbane,2,6,35,-,18,1,2,194.44,caught,1,4.0,0,44,1,11
+230371,Ben Cutting,25 Jan 2017,v Sixers,Brisbane,1,6,0,-,1,0,0,0,caught,2,2.0,0,14,1,7
+230371,Ben Cutting,5 Apr 2017,v RCB,Hyderabad,1,6,16*,6,6,0,2,266.66,not out,2,3.4,0,35,0,9.54
+230371,Ben Cutting,9 Apr 2017,v Guj Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+230371,Ben Cutting,12 Apr 2017,v MI,Wankhede,1,5,20,21,10,4,0,200,bowled,2,2.0,0,18,0,9
+230371,Ben Cutting,15 Apr 2017,v KKR,Eden Gardens,2,6,15,21,10,1,1,150,caught,1,4.0,0,41,1,10.25
+230371,Ben Cutting,12 Sep 2017,v Pakistan,Lahore,2,9,0*,-,0,0,0,-,not out,1,4.0,0,38,1,9.5
+230371,Ben Cutting,13 Sep 2017,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,52,1,13
+230371,Ben Cutting,15 Sep 2017,v Pakistan,Lahore,2,3,5,-,4,1,0,125,bowled,1,2.0,0,26,0,13
+230371,Ben Cutting,20 Dec 2017,v Stars,Brisbane,1,6,35,-,18,3,2,194.44,run out,2,1.0,0,22,0,22
+230371,Ben Cutting,23 Dec 2017,v Renegades,Melbourne (Docklands),1,6,18,-,13,0,2,138.46,caught,2,1.0,0,12,1,12
+230371,Ben Cutting,27 Dec 2017,v Thunder,Brisbane,2,5,3,-,5,0,0,60,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,31 Dec 2017,v Strikers,Adelaide,2,6,14,-,13,2,0,107.69,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,2 Jan 2018,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+230371,Ben Cutting,5 Jan 2018,v Scorchers,Brisbane,1,6,46,-,20,1,5,230,caught,2,2.0,0,14,0,7
+230371,Ben Cutting,10 Jan 2018,v Hurricanes,Brisbane,2,5,4,-,7,0,0,57.14,caught,1,4.0,0,27,2,6.75
+230371,Ben Cutting,15 Jan 2018,v Hurricanes,Hobart,1,5,30,-,26,2,1,115.38,run out,2,1.2,0,14,1,10.5
+230371,Ben Cutting,18 Jan 2018,v Sixers,Sydney,1,6,5,-,5,0,0,100,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,27 Jan 2018,v Renegades,Brisbane,2,6,35,-,18,1,4,194.44,caught,1,4.0,0,50,0,12.5
+230371,Ben Cutting,12 Apr 2018,v SRH,Hyderabad,1,7,9,-,9,1,0,100,bowled,2,4.0,0,40,0,10
+230371,Ben Cutting,28 Apr 2018,v CSK,Pune,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+230371,Ben Cutting,1 May 2018,v RCB,Bengaluru,2,8,12*,-,6,1,1,200,not out,1,DNB,-,-,-,-
+230371,Ben Cutting,4 May 2018,v Kings XI,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+230371,Ben Cutting,6 May 2018,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+230371,Ben Cutting,9 May 2018,v KKR,Eden Gardens,1,6,24,-,9,1,3,266.66,caught,2,2.0,0,12,1,6
+230371,Ben Cutting,13 May 2018,v RR,Wankhede,1,7,10*,-,7,0,1,142.85,not out,2,DNB,-,-,-,-
+230371,Ben Cutting,16 May 2018,v Kings XI,Wankhede,1,8,4,-,7,0,0,57.14,caught,2,1.0,0,15,0,15
+230371,Ben Cutting,20 May 2018,v Daredevils,Delhi,2,8,37,-,20,2,3,185,caught,1,4.0,0,36,0,9
+230371,Ben Cutting,9 Aug 2018,v Amazon,Providence,1,4,15,-,14,1,1,107.14,bowled,2,3.0,0,29,0,9.66
+230371,Ben Cutting,11 Aug 2018,v Trinbago,Port of Spain,1,7,25*,-,18,1,1,138.88,not out,2,4.0,0,43,2,10.75
+230371,Ben Cutting,15 Aug 2018,v Tallawahs,Kingston,2,7,2,-,5,0,0,40,bowled,1,4.0,0,26,1,6.5
+230371,Ben Cutting,21 Aug 2018,v Stars,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,2.0,1,8,1,4
+230371,Ben Cutting,25 Aug 2018,v Tridents,Bridgetown,2,5,29*,-,21,2,2,138.09,not out,1,4.0,0,18,2,4.5
+230371,Ben Cutting,28 Aug 2018,v Amazon,Basseterre,1,8,19*,-,9,0,2,211.11,not out,2,3.5,0,36,2,9.39
+230371,Ben Cutting,1 Sep 2018,v Trinbago,Basseterre,2,6,9,-,9,0,0,100,run out,1,4.0,0,35,0,8.75
+230371,Ben Cutting,2 Sep 2018,v Tallawahs,Basseterre,2,4,0,-,1,0,0,0,bowled,1,4.0,0,29,2,7.25
+230371,Ben Cutting,4 Sep 2018,v Tridents,Basseterre,2,8,11,-,14,0,0,78.57,bowled,1,4.0,0,57,0,14.25
+230371,Ben Cutting,12 Sep 2018,v Tallawahs,Providence,2,7,17*,-,10,0,2,170,not out,1,3.0,0,45,2,15
+230371,Ben Cutting,14 Sep 2018,v Trinbago,Tarouba,2,8,2,-,2,0,0,100,lbw,1,3.0,0,30,1,10
+230371,Ben Cutting,6 Oct 2018,v Knights,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,5,7
+230371,Ben Cutting,7 Oct 2018,v Panthers,Sharjah,2,7,71,-,39,5,6,182.05,hit wicket,1,4.0,0,25,3,6.25
+230371,Ben Cutting,9 Oct 2018,v Kabul Zwanan,Sharjah,1,5,18,-,12,0,2,150,caught,2,4.0,0,41,1,10.25
+230371,Ben Cutting,11 Oct 2018,v Legends,Sharjah,2,7,3,-,8,0,0,37.5,caught,1,4.0,0,28,1,7
+230371,Ben Cutting,12 Oct 2018,v Kabul Zwanan,Sharjah,1,5,11,-,14,0,1,78.57,bowled,2,2.0,0,20,0,10
+230371,Ben Cutting,13 Oct 2018,v Knights,Sharjah,2,6,5,-,8,0,0,62.5,caught,1,3.0,0,27,0,9
+230371,Ben Cutting,14 Oct 2018,v Panthers,Sharjah,1,7,21,-,12,0,2,175,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,17 Oct 2018,v Legends,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+230371,Ben Cutting,19 Oct 2018,v Legends,Sharjah,2,7,11,-,7,1,1,157.14,caught,1,4.0,0,38,2,9.5
+230371,Ben Cutting,19 Dec 2018,v Strikers,Brisbane,1,6,8,-,10,0,0,80,caught,2,3.0,0,22,1,7.33
+230371,Ben Cutting,22 Dec 2018,v Hurricanes,Carrara,2,6,58,-,32,2,5,181.25,caught,1,4.0,0,27,0,6.75
+230371,Ben Cutting,1 Jan 2019,v Sixers,Carrara,1,6,0,-,3,0,0,0,bowled,2,3.3,0,34,1,9.71
+230371,Ben Cutting,5 Jan 2019,v Scorchers,Perth,2,7,26*,-,16,2,2,162.5,not out,1,4.0,0,42,2,10.5
+230371,Ben Cutting,8 Jan 2019,v Thunder,Sydney,1,4,3,-,4,0,0,75,lbw,2,DNB,-,-,-,-
+230371,Ben Cutting,10 Jan 2019,v Renegades,Brisbane,1,6,20,-,10,2,1,200,caught,2,2.0,0,23,0,11.5
+230371,Ben Cutting,13 Jan 2019,v Renegades,Geelong,1,4,1,-,2,0,0,50,caught,2,2.0,0,13,1,6.5
+230371,Ben Cutting,17 Jan 2019,v Thunder,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+230371,Ben Cutting,20 Jan 2019,v Sixers,Sydney,2,5,28,-,26,3,1,107.69,bowled,1,3.0,0,36,0,12
+230371,Ben Cutting,27 Jan 2019,v Stars,Melbourne,2,7,6,-,10,0,0,60,caught,1,2.0,0,10,2,5
+230371,Ben Cutting,29 Jan 2019,v Hurricanes,Hobart,1,7,5*,-,5,0,0,100,not out,2,3.0,0,29,1,9.66
+230371,Ben Cutting,1 Feb 2019,v Scorchers,Brisbane,2,2,12,-,12,3,0,100,caught,1,2.0,0,16,1,8
+230371,Ben Cutting,3 Feb 2019,v Strikers,Adelaide,2,2,1,-,2,0,0,50,caught,1,4.0,0,44,1,11
+230371,Ben Cutting,8 Feb 2019,v Stars,Brisbane,2,2,81*,-,30,4,8,270,not out,1,3.0,0,19,0,6.33
+230371,Ben Cutting,24 Mar 2019,v DC,Wankhede,2,8,3,-,4,0,0,75,caught,1,2.0,0,27,1,13.5
+230371,Ben Cutting,18 Apr 2019,v DC,Delhi,1,3,2,8,4,0,0,50,lbw,2,DNB,-,-,-,-
+230371,Ben Cutting,20 Apr 2019,v RR,Jaipur,1,6,13*,20,9,1,1,144.44,not out,2,DNB,-,-,-,-
+230371,Ben Cutting,17 Dec 2019,v Thunder,Brisbane,2,6,28,-,18,2,2,155.55,bowled,1,2.0,0,19,1,9.5
+230371,Ben Cutting,20 Dec 2019,v Stars,Carrara,2,5,12,-,18,0,0,66.66,caught,1,3.0,0,26,1,8.66
+230371,Ben Cutting,22 Dec 2019,v Sixers,Sydney,1,6,9*,-,4,0,1,225,not out,2,2.0,0,23,0,11.5
+230371,Ben Cutting,1 Jan 2020,v Scorchers,Carrara,2,7,1,-,6,0,0,16.66,bowled,1,3.0,0,20,1,6.66
+230371,Ben Cutting,3 Jan 2020,v Hurricanes,Hobart,1,5,18*,-,8,2,1,225,not out,2,2.0,0,21,1,10.5
+230371,Ben Cutting,6 Jan 2020,v Thunder,Sydney,1,3,7*,-,6,1,0,116.66,not out,2,1.0,0,11,0,11
+230371,Ben Cutting,9 Jan 2020,v Hurricanes,Brisbane,2,7,43*,-,29,3,3,148.27,not out,1,2.0,0,12,1,6
+230371,Ben Cutting,11 Jan 2020,v Scorchers,Perth,2,6,20,-,16,1,1,125,caught,1,4.0,0,26,0,6.5
+230371,Ben Cutting,14 Jan 2020,v Strikers,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+230371,Ben Cutting,17 Jan 2020,v Strikers,Adelaide,1,7,9,-,13,0,0,69.23,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,19 Jan 2020,v Renegades,Brisbane,2,7,5,-,5,1,0,100,lbw,1,4.0,0,43,2,10.75
+230371,Ben Cutting,23 Jan 2020,v Sixers,Brisbane,1,7,16,-,21,2,0,76.19,caught,2,1.0,0,5,0,5
+230371,Ben Cutting,25 Jan 2020,v Stars,Melbourne,1,2,22,-,22,3,0,100,caught,2,1.0,0,11,0,11
+230371,Ben Cutting,27 Jan 2020,v Renegades,Melbourne (Docklands),1,2,27,-,11,2,2,245.45,lbw,2,2.2,0,35,2,15
+230371,Ben Cutting,20 Feb 2020,v United,Karachi,2,7,22*,-,12,1,2,183.33,not out,1,4.0,0,31,3,7.75
+230371,Ben Cutting,27 Feb 2020,v United,Rawalpindi,2,7,42*,-,17,2,4,247.05,not out,1,3.0,0,34,1,11.33
+230371,Ben Cutting,29 Feb 2020,v Sultans,Multan,2,5,12,-,12,2,0,100,caught,1,4.0,0,42,1,10.5
+230371,Ben Cutting,3 Mar 2020,v Qalandars,Lahore,2,7,53,-,27,3,5,196.29,caught,1,3.0,0,36,2,12
+230371,Ben Cutting,5 Mar 2020,v Zalmi,Rawalpindi,2,4,17,-,7,0,2,242.85,caught,1,2.0,0,30,1,15
+230371,Ben Cutting,7 Mar 2020,v Qalandars,Lahore,1,7,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,15 Mar 2020,v Kings,Karachi,2,6,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,12 Dec 2020,v Stars,Canberra,2,5,2,-,7,0,0,28.57,caught,1,1.0,0,6,0,6
+230371,Ben Cutting,14 Dec 2020,v Heat,Canberra,2,6,29,-,23,1,2,126.08,bowled,1,1.0,0,9,0,9
+230371,Ben Cutting,22 Dec 2020,v Scorchers,Canberra,2,5,29*,-,16,4,1,181.25,not out,1,3.0,0,16,1,5.33
+230371,Ben Cutting,26 Dec 2020,v Renegades,Canberra,1,6,0,-,0,0,0,-,run out,2,DNB,-,-,-,-
+230371,Ben Cutting,29 Dec 2020,v Stars,Canberra,1,7,20*,-,7,3,1,285.71,not out,2,1.0,0,4,0,4
+230371,Ben Cutting,1 Jan 2021,v Renegades,Carrara,2,-,DNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+230371,Ben Cutting,4 Jan 2021,v Heat,Brisbane,1,7,24,-,15,1,2,160,caught,2,2.0,0,16,0,8
+230371,Ben Cutting,7 Jan 2021,v Hurricanes,Perth,1,7,31*,-,14,4,1,221.42,not out,2,1.0,0,5,0,5
+230371,Ben Cutting,9 Jan 2021,v Scorchers,Perth,2,6,31,-,27,3,1,114.81,caught,1,4.0,0,33,1,8.25
+230371,Ben Cutting,13 Jan 2021,v Sixers,Canberra,1,7,8,-,11,1,0,72.72,caught,2,2.0,0,17,1,8.5
+230371,Ben Cutting,18 Jan 2021,v Hurricanes,Canberra,1,6,15*,-,10,3,0,150,not out,2,3.0,0,22,0,7.33
+230371,Ben Cutting,22 Jan 2021,v Sixers,Adelaide,1,5,33,-,14,2,3,235.71,caught,2,3.0,0,26,1,8.66
+230371,Ben Cutting,24 Jan 2021,v Strikers,Adelaide,2,8,24*,-,17,3,1,141.17,not out,1,4.0,0,40,0,10
+230371,Ben Cutting,25 Jan 2021,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+230371,Ben Cutting,31 Jan 2021,v Heat,Canberra,1,7,34*,-,18,1,4,188.88,not out,2,1.0,0,4,0,4
+230371,Ben Cutting,20 Feb 2021,v Kings,Karachi,1,7,11,22,13,2,0,84.61,bowled,2,0.5,0,20,0,24
+230371,Ben Cutting,22 Feb 2021,v Qalandars,Karachi,1,7,5,14,6,0,0,83.33,bowled,2,3.0,0,31,0,10.33
+230371,Ben Cutting,26 Feb 2021,v Zalmi,Karachi,1,6,0,4,1,0,0,0,bowled,2,2.0,0,23,1,11.5
+230371,Ben Cutting,1 Mar 2021,v United,Karachi,1,6,23,17,17,2,1,135.29,stumped,2,DNB,-,-,-,-
+230371,Ben Cutting,3 Mar 2021,v Sultans,Karachi,1,6,10,17,8,1,0,125,lbw,2,DNB,-,-,-,-
+230371,Ben Cutting,6 Dec 2021,v Heat,Canberra,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+230371,Ben Cutting,10 Dec 2021,v Stars,Melbourne,2,7,12*,16,8,2,0,150,not out,1,2.0,0,10,0,5
+230371,Ben Cutting,12 Dec 2021,v Stars,Sydney,1,7,0*,1,0,0,0,-,not out,2,2.0,0,17,1,8.5
+230371,Ben Cutting,19 Dec 2021,v Heat,Brisbane,1,6,8,19,11,1,0,72.72,caught,2,1.0,0,9,0,9
+230371,Ben Cutting,26 Dec 2021,v Sixers,Sydney,2,7,10,23,9,1,0,111.11,caught,1,1.0,0,15,0,15
+230371,Ben Cutting,28 Dec 2021,v Scorchers,Canberra,1,7,10,10,6,2,0,166.66,caught,2,1.0,0,10,0,10
+230371,Ben Cutting,31 Dec 2021,v Strikers,Adelaide,1,2,37,-,32,3,2,115.62,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,2 Jan 2022,v Strikers,Sydney,1,2,34,29,25,3,2,136,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,6 Jan 2022,v Scorchers,Carrara,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+230371,Ben Cutting,8 Jan 2022,v Renegades,Melbourne (Docklands),1,6,6,11,5,1,0,120,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,10 Jan 2022,v Hurricanes,Melbourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+230371,Ben Cutting,13 Jan 2022,v Hurricanes,Melbourne (Docklands),2,6,0,2,1,0,0,0,bowled,1,1.0,0,20,0,20
+230371,Ben Cutting,19 Jan 2022,v Renegades,Melbourne,1,7,20,26,22,0,1,90.9,run out,2,DNB,-,-,-,-
+230371,Ben Cutting,23 Jan 2022,v Strikers,Melbourne,2,6,16,-,10,3,0,160,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,28 Jan 2022,v Gladiators,Karachi,2,7,0*,-,0,0,0,-,not out,1,1.0,0,12,0,12
+230371,Ben Cutting,30 Jan 2022,v United,Karachi,1,7,26,-,17,4,0,152.94,bowled,2,1.5,0,19,0,10.36
+230371,Ben Cutting,2 Feb 2022,v Qalandars,Karachi,2,7,10,16,8,0,1,125,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,4 Feb 2022,v Kings,Karachi,1,5,24,37,22,0,1,109.09,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,5 Feb 2022,v Sultans,Karachi,2,6,52*,43,31,3,5,167.74,not out,1,DNB,-,-,-,-
+230371,Ben Cutting,10 Feb 2022,v Sultans,Lahore,2,7,23,-,11,1,2,209.09,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,13 Feb 2022,v Kings,Lahore,1,5,26,30,15,4,0,173.33,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,15 Feb 2022,v Gladiators,Lahore,1,7,36,-,14,1,4,257.14,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,17 Feb 2022,v United,Lahore,1,7,0,8,2,0,0,0,caught,2,4.0,0,37,1,9.25
+230371,Ben Cutting,31 Dec 2022,v Hurricanes,Albury,1,7,1*,8,3,0,0,33.33,not out,2,2.0,0,16,2,8
+230371,Ben Cutting,4 Jan 2023,v Scorchers,Perth,2,6,5*,11,6,0,0,83.33,not out,1,1.0,0,8,0,8
+230371,Ben Cutting,8 Jan 2023,v Sixers,Sydney,1,7,26*,29,15,5,0,173.33,not out,2,1.0,0,14,0,14
+230371,Ben Cutting,13 Jan 2023,v Scorchers,Sydney,1,7,9,9,8,2,0,112.5,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,15 Jan 2023,v Hurricanes,Hobart,1,7,20,29,16,3,0,125,bowled,2,1.0,0,13,0,13
+230371,Ben Cutting,19 Jan 2023,v Renegades,Canberra,2,-,DNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+230371,Ben Cutting,21 Jan 2023,v Sixers,Sydney,2,7,6,12,9,0,0,66.66,caught,1,1.0,0,8,0,8
+230371,Ben Cutting,25 Jan 2023,v Stars,Melbourne,2,7,9,-,9,0,1,100,run out,1,2.0,0,9,0,4.5
+230371,Ben Cutting,27 Jan 2023,v Heat,Sydney,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+230371,Ben Cutting,14 Feb 2023,v Zalmi,Karachi,2,7,9*,18,8,1,0,112.5,not out,1,3.0,0,29,1,9.66
+230371,Ben Cutting,19 Feb 2023,v Qalandars,Karachi,1,6,20,-,19,2,1,105.26,bowled,2,1.0,0,12,2,12
+230371,Ben Cutting,22 Feb 2023,v Sultans,Multan,2,6,12,23,10,1,1,120,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,26 Feb 2023,v Sultans,Karachi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+230371,Ben Cutting,1 Mar 2023,v Zalmi,Rawalpindi,2,7,15,14,13,1,1,115.38,caught,1,DNB,-,-,-,-
+230371,Ben Cutting,12 Mar 2023,v Qalandars,Lahore,1,6,33,33,14,2,3,235.71,lbw,2,DNB,-,-,-,-
+230371,Ben Cutting,19 Jan 2024,v Chattogram,Mirpur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+230371,Ben Cutting,23 Jan 2024,v Rangpur,Mirpur,1,7,37,38,35,4,1,105.71,caught,2,DNB,-,-,-,-
+230371,Ben Cutting,26 Jan 2024,v Victorians,Sylhet,2,6,1,8,8,0,0,12.5,bowled,1,1.0,0,10,1,10

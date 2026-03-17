@@ -1,0 +1,169 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1175441,Ravi Bishnoi,21 Feb 2019,v Tamil Nadu,Surat,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1175441,Ravi Bishnoi,22 Feb 2019,v Gujarat,Surat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+1175441,Ravi Bishnoi,25 Feb 2019,v Vidarbha,Surat,2,8,5,-,7,1,0,71.42,stumped,1,2.0,0,16,1,8
+1175441,Ravi Bishnoi,28 Feb 2019,v Himachal,Surat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+1175441,Ravi Bishnoi,8 Nov 2019,v Manipur,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+1175441,Ravi Bishnoi,29 Nov 2019,v Tamil Nadu,Surat,1,9,22*,-,28,2,0,78.57,not out,2,4.0,0,36,0,9
+1175441,Ravi Bishnoi,20 Sep 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+1175441,Ravi Bishnoi,24 Sep 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+1175441,Ravi Bishnoi,27 Sep 2020,v RR,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+1175441,Ravi Bishnoi,1 Oct 2020,v MI,Abu Dhabi,2,9,1,-,5,0,0,20,caught,1,4.0,0,37,0,9.25
+1175441,Ravi Bishnoi,4 Oct 2020,v CSK,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+1175441,Ravi Bishnoi,8 Oct 2020,v SRH,Dubai (DICS),2,8,6*,-,7,1,0,85.71,not out,1,3.0,0,29,3,9.66
+1175441,Ravi Bishnoi,10 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+1175441,Ravi Bishnoi,15 Oct 2020,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+1175441,Ravi Bishnoi,18 Oct 2020,v MI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,1,6
+1175441,Ravi Bishnoi,20 Oct 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+1175441,Ravi Bishnoi,24 Oct 2020,v SRH,Dubai (DICS),1,9,0*,-,0,0,0,-,not out,2,4.0,0,13,1,3.25
+1175441,Ravi Bishnoi,26 Oct 2020,v KKR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,2,5
+1175441,Ravi Bishnoi,30 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+1175441,Ravi Bishnoi,1 Nov 2020,v CSK,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+1175441,Ravi Bishnoi,11 Jan 2021,v Vidarbha,Indore,2,5,15,11,9,2,1,166.66,bowled,1,4.0,0,17,1,4.25
+1175441,Ravi Bishnoi,13 Jan 2021,v M. Pradesh,Indore,1,9,0,-,1,0,0,0,caught,2,4.0,0,17,0,4.25
+1175441,Ravi Bishnoi,15 Jan 2021,v Services,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,4,3.75
+1175441,Ravi Bishnoi,17 Jan 2021,v Goa,Indore,2,9,7,-,9,1,0,77.77,bowled,1,4.0,0,26,3,6.5
+1175441,Ravi Bishnoi,19 Jan 2021,v Saurashtra,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+1175441,Ravi Bishnoi,27 Jan 2021,v Bihar,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+1175441,Ravi Bishnoi,29 Jan 2021,v Tamil Nadu,Ahmedabad,1,9,0,-,1,0,0,0,bowled,2,4.0,0,32,1,8
+1175441,Ravi Bishnoi,23 Apr 2021,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+1175441,Ravi Bishnoi,26 Apr 2021,v KKR,Ahmedabad,1,9,1,5,4,0,0,25,caught,2,4.0,0,19,0,4.75
+1175441,Ravi Bishnoi,30 Apr 2021,v RCB,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+1175441,Ravi Bishnoi,2 May 2021,v DC,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,10.5
+1175441,Ravi Bishnoi,25 Sep 2021,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+1175441,Ravi Bishnoi,28 Sep 2021,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+1175441,Ravi Bishnoi,1 Oct 2021,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1175441,Ravi Bishnoi,3 Oct 2021,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+1175441,Ravi Bishnoi,7 Oct 2021,v CSK,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+1175441,Ravi Bishnoi,4 Nov 2021,v Jharkhand,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+1175441,Ravi Bishnoi,5 Nov 2021,v J & K,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+1175441,Ravi Bishnoi,6 Nov 2021,v Himachal,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1175441,Ravi Bishnoi,8 Nov 2021,v Andhra,Vadodara,1,11,4*,6,4,0,0,100,not out,2,4.0,0,20,3,5
+1175441,Ravi Bishnoi,9 Nov 2021,v Haryana,Vadodara,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+1175441,Ravi Bishnoi,18 Nov 2021,v Vidarbha,Delhi,1,9,0,-,4,0,0,0,caught,2,4.0,0,26,0,6.5
+1175441,Ravi Bishnoi,16 Feb 2022,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1175441,Ravi Bishnoi,18 Feb 2022,v West Indies,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+1175441,Ravi Bishnoi,20 Feb 2022,v West Indies,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1175441,Ravi Bishnoi,27 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+1175441,Ravi Bishnoi,28 Mar 2022,v GT,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+1175441,Ravi Bishnoi,31 Mar 2022,v CSK,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1175441,Ravi Bishnoi,4 Apr 2022,v SRH,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1175441,Ravi Bishnoi,7 Apr 2022,v DC,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1175441,Ravi Bishnoi,10 Apr 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+1175441,Ravi Bishnoi,16 Apr 2022,v MI,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+1175441,Ravi Bishnoi,19 Apr 2022,v RCB,DY Patil,2,10,0*,2,1,0,0,0,not out,1,4.0,0,47,0,11.75
+1175441,Ravi Bishnoi,24 Apr 2022,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+1175441,Ravi Bishnoi,29 Apr 2022,v Punjab Kings,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+1175441,Ravi Bishnoi,1 May 2022,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1175441,Ravi Bishnoi,7 May 2022,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+1175441,Ravi Bishnoi,15 May 2022,v RR,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+1175441,Ravi Bishnoi,18 May 2022,v KKR,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+1175441,Ravi Bishnoi,25 May 2022,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+1175441,Ravi Bishnoi,28 Jun 2022,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,1,10.25
+1175441,Ravi Bishnoi,1 Jul 2022,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,0,8.5
+1175441,Ravi Bishnoi,10 Jul 2022,v England,Nottingham,2,10,2,2,2,0,0,100,bowled,1,4.0,0,30,2,7.5
+1175441,Ravi Bishnoi,29 Jul 2022,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+1175441,Ravi Bishnoi,6 Aug 2022,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+1175441,Ravi Bishnoi,7 Aug 2022,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,2.4,0,16,4,6
+1175441,Ravi Bishnoi,4 Sep 2022,v Pakistan,Dubai (DICS),1,9,8*,3,2,2,0,400,not out,2,4.0,0,26,1,6.5
+1175441,Ravi Bishnoi,12 Oct 2022,v Vidarbha,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,0,6
+1175441,Ravi Bishnoi,14 Oct 2022,v Railways,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1175441,Ravi Bishnoi,16 Oct 2022,v Uttarakhand,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+1175441,Ravi Bishnoi,18 Oct 2022,v Mumbai,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+1175441,Ravi Bishnoi,20 Oct 2022,v Assam,Saurashtra,1,10,6*,-,2,0,1,300,not out,2,2.5,0,19,1,6.7
+1175441,Ravi Bishnoi,1 Apr 2023,v DC,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+1175441,Ravi Bishnoi,3 Apr 2023,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+1175441,Ravi Bishnoi,7 Apr 2023,v SRH,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+1175441,Ravi Bishnoi,10 Apr 2023,v RCB,Bengaluru,2,10,3*,8,2,0,0,150,not out,1,4.0,0,39,0,9.75
+1175441,Ravi Bishnoi,15 Apr 2023,v Punjab Kings,Lucknow,1,10,3*,3,1,0,0,300,not out,2,2.3,0,18,2,7.2
+1175441,Ravi Bishnoi,19 Apr 2023,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+1175441,Ravi Bishnoi,22 Apr 2023,v GT,Lucknow,2,9,0*,1,1,0,0,0,not out,1,4.0,0,49,0,12.25
+1175441,Ravi Bishnoi,28 Apr 2023,v Punjab Kings,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+1175441,Ravi Bishnoi,1 May 2023,v RCB,Lucknow,2,8,5,19,10,0,0,50,run out,1,4.0,0,21,2,5.25
+1175441,Ravi Bishnoi,3 May 2023,v CSK,Lucknow,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1175441,Ravi Bishnoi,7 May 2023,v GT,Ahmedabad,2,9,4*,5,5,1,0,80,not out,1,2.0,0,21,0,10.5
+1175441,Ravi Bishnoi,13 May 2023,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+1175441,Ravi Bishnoi,16 May 2023,v MI,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+1175441,Ravi Bishnoi,20 May 2023,v KKR,Eden Gardens,1,9,2,3,2,0,0,100,bowled,2,4.0,0,23,2,5.75
+1175441,Ravi Bishnoi,24 May 2023,v MI,Chennai,2,9,3,8,6,0,0,50,caught,1,4.0,0,30,0,7.5
+1175441,Ravi Bishnoi,6 Aug 2023,v West Indies,Providence,1,8,8*,9,4,0,1,200,not out,2,4.0,0,31,0,7.75
+1175441,Ravi Bishnoi,18 Aug 2023,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+1175441,Ravi Bishnoi,20 Aug 2023,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1175441,Ravi Bishnoi,3 Oct 2023,v Nepal,Hangzhou,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+1175441,Ravi Bishnoi,6 Oct 2023,v Bangladesh,Hangzhou,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1175441,Ravi Bishnoi,7 Oct 2023,v Afghanistan,Hangzhou,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+1175441,Ravi Bishnoi,16 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,2,3.75
+1175441,Ravi Bishnoi,17 Oct 2023,v Saurashtra,Ranchi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,6,2,2
+1175441,Ravi Bishnoi,19 Oct 2023,v Goa,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+1175441,Ravi Bishnoi,21 Oct 2023,v Andhra,Ranchi,1,10,2,-,5,0,0,40,caught,2,4.0,0,27,2,6.75
+1175441,Ravi Bishnoi,23 Oct 2023,v Punjab,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+1175441,Ravi Bishnoi,25 Oct 2023,v Railways,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+1175441,Ravi Bishnoi,27 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1175441,Ravi Bishnoi,31 Oct 2023,v UP,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1175441,Ravi Bishnoi,23 Nov 2023,v Australia,Visakhapatnam,2,8,0,1,1,0,0,0,run out,1,4.0,0,54,1,13.5
+1175441,Ravi Bishnoi,26 Nov 2023,v Australia,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+1175441,Ravi Bishnoi,28 Nov 2023,v Australia,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+1175441,Ravi Bishnoi,1 Dec 2023,v Australia,Raipur,1,9,4,5,3,0,0,133.33,run out,2,4.0,0,17,1,4.25
+1175441,Ravi Bishnoi,3 Dec 2023,v Australia,Bengaluru,1,8,2,9,2,0,0,100,run out,2,4.0,0,29,2,7.25
+1175441,Ravi Bishnoi,11 Jan 2024,v Afghanistan,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+1175441,Ravi Bishnoi,14 Jan 2024,v Afghanistan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+1175441,Ravi Bishnoi,17 Jan 2024,v Afghanistan,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+1175441,Ravi Bishnoi,24 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+1175441,Ravi Bishnoi,30 Mar 2024,v Punjab Kings,Lucknow,1,8,0,1,1,0,0,0,caught,2,3.0,0,25,0,8.33
+1175441,Ravi Bishnoi,2 Apr 2024,v RCB,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,0,11
+1175441,Ravi Bishnoi,7 Apr 2024,v GT,Lucknow,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,1,4
+1175441,Ravi Bishnoi,12 Apr 2024,v DC,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+1175441,Ravi Bishnoi,14 Apr 2024,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,2.4,0,17,0,6.37
+1175441,Ravi Bishnoi,19 Apr 2024,v CSK,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+1175441,Ravi Bishnoi,23 Apr 2024,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+1175441,Ravi Bishnoi,27 Apr 2024,v RR,Lucknow,1,-,DNB,-,-,-,-,-,-,2,1.0,0,16,0,16
+1175441,Ravi Bishnoi,30 Apr 2024,v MI,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+1175441,Ravi Bishnoi,5 May 2024,v KKR,Lucknow,2,10,2,2,3,0,0,66.66,lbw,1,4.0,0,33,1,8.25
+1175441,Ravi Bishnoi,8 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,2.0,0,34,0,17
+1175441,Ravi Bishnoi,14 May 2024,v DC,Delhi,2,10,2,9,2,0,0,100,run out,1,4.0,0,26,1,6.5
+1175441,Ravi Bishnoi,17 May 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1175441,Ravi Bishnoi,6 Jul 2024,v Zimbabwe,Harare,2,8,9,11,8,2,0,112.5,lbw,1,4.0,2,13,4,3.25
+1175441,Ravi Bishnoi,7 Jul 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,11,2,2.75
+1175441,Ravi Bishnoi,10 Jul 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+1175441,Ravi Bishnoi,13 Jul 2024,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+1175441,Ravi Bishnoi,14 Jul 2024,v Zimbabwe,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+1175441,Ravi Bishnoi,27 Jul 2024,v Sri Lanka,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1175441,Ravi Bishnoi,28 Jul 2024,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+1175441,Ravi Bishnoi,30 Jul 2024,v Sri Lanka,Pallekele,1,9,8*,16,8,1,0,100,not out,2,4.0,0,38,2,9.5
+1175441,Ravi Bishnoi,12 Oct 2024,v Bangladesh,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,1,30,3,7.5
+1175441,Ravi Bishnoi,8 Nov 2024,v South Africa,Durban,1,9,1,6,3,0,0,33.33,run out,2,4.0,0,28,3,7
+1175441,Ravi Bishnoi,10 Nov 2024,v South Africa,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+1175441,Ravi Bishnoi,13 Nov 2024,v South Africa,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+1175441,Ravi Bishnoi,15 Nov 2024,v South Africa,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+1175441,Ravi Bishnoi,23 Nov 2024,v Baroda,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+1175441,Ravi Bishnoi,25 Nov 2024,v Saurashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,0,4.25
+1175441,Ravi Bishnoi,27 Nov 2024,v Tripura,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+1175441,Ravi Bishnoi,29 Nov 2024,v Tamil Nadu,Indore,1,10,2,-,7,0,0,28.57,caught,2,4.0,0,26,1,6.5
+1175441,Ravi Bishnoi,1 Dec 2024,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,1,4
+1175441,Ravi Bishnoi,3 Dec 2024,v Uttarakhand,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+1175441,Ravi Bishnoi,5 Dec 2024,v Karnataka,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+1175441,Ravi Bishnoi,22 Jan 2025,v England,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+1175441,Ravi Bishnoi,25 Jan 2025,v England,Chennai,2,10,9*,15,5,2,0,180,not out,1,4.0,0,27,0,6.75
+1175441,Ravi Bishnoi,28 Jan 2025,v England,Rajkot,2,10,4*,4,3,1,0,133.33,not out,1,4.0,0,46,1,11.5
+1175441,Ravi Bishnoi,31 Jan 2025,v England,Pune,1,10,0*,3,0,0,0,-,not out,2,4.0,0,28,3,7
+1175441,Ravi Bishnoi,2 Feb 2025,v England,Wankhede,1,10,0,1,1,0,0,0,caught,2,1.0,0,9,1,9
+1175441,Ravi Bishnoi,24 Mar 2025,v DC,Visakhapatnam,1,9,0,1,2,0,0,0,bowled,2,4.0,0,53,2,13.25
+1175441,Ravi Bishnoi,27 Mar 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+1175441,Ravi Bishnoi,1 Apr 2025,v Punjab Kings,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,0,14.33
+1175441,Ravi Bishnoi,4 Apr 2025,v MI,Lucknow,1,-,sub,-,-,-,-,-,-,2,4.0,0,40,0,10
+1175441,Ravi Bishnoi,8 Apr 2025,v KKR,Eden Gardens,1,-,sub,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+1175441,Ravi Bishnoi,12 Apr 2025,v GT,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+1175441,Ravi Bishnoi,14 Apr 2025,v CSK,Lucknow,1,-,sub,-,-,-,-,-,-,2,3.0,0,18,2,6
+1175441,Ravi Bishnoi,19 Apr 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+1175441,Ravi Bishnoi,22 Apr 2025,v DC,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+1175441,Ravi Bishnoi,27 Apr 2025,v MI,Wankhede,2,8,13,17,14,0,2,92.85,bowled,1,4.0,0,41,1,10.25
+1175441,Ravi Bishnoi,19 May 2025,v SRH,Lucknow,1,8,0*,2,0,0,0,-,not out,2,1.0,0,26,0,26
+1175441,Ravi Bishnoi,26 Nov 2025,v Services,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+1175441,Ravi Bishnoi,28 Nov 2025,v Bengal,Hyderabad,1,10,2,-,4,0,0,50,caught,2,4.0,0,29,2,7.25
+1175441,Ravi Bishnoi,30 Nov 2025,v Haryana,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+1175441,Ravi Bishnoi,2 Dec 2025,v Puducherry,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.1,0,13,3,6
+1175441,Ravi Bishnoi,4 Dec 2025,v Baroda,Hyderabad,1,10,0,-,1,0,0,0,caught,2,1.4,0,26,2,15.6
+1175441,Ravi Bishnoi,6 Dec 2025,v Himachal,Hyderabad,2,10,3,-,5,0,0,60,caught,1,4.0,0,38,0,9.5
+1175441,Ravi Bishnoi,8 Dec 2025,v Punjab,Hyderabad,2,10,25*,-,15,4,0,166.66,not out,1,4.0,0,36,1,9
+1175441,Ravi Bishnoi,25 Jan 2026,v New Zealand,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+1175441,Ravi Bishnoi,28 Jan 2026,v New Zealand,Visakhapatnam,2,8,10*,16,10,1,0,100,not out,1,4.0,0,49,1,12.25

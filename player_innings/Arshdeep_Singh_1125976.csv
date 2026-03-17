@@ -1,0 +1,195 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1125976,Arshdeep Singh,16 Apr 2019,v RR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+1125976,Arshdeep Singh,29 Apr 2019,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+1125976,Arshdeep Singh,3 May 2019,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+1125976,Arshdeep Singh,8 Oct 2020,v SRH,Dubai (DICS),2,11,0,-,3,0,0,0,caught,1,4.0,0,33,2,8.25
+1125976,Arshdeep Singh,10 Oct 2020,v KKR,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,1,6.25
+1125976,Arshdeep Singh,15 Oct 2020,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+1125976,Arshdeep Singh,18 Oct 2020,v MI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,2,11.66
+1125976,Arshdeep Singh,20 Oct 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+1125976,Arshdeep Singh,24 Oct 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,23,3,6
+1125976,Arshdeep Singh,26 Oct 2020,v KKR,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+1125976,Arshdeep Singh,30 Oct 2020,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+1125976,Arshdeep Singh,10 Jan 2021,v UP,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+1125976,Arshdeep Singh,12 Jan 2021,v Karnataka,Alur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,2,4.5
+1125976,Arshdeep Singh,14 Jan 2021,v Railways,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+1125976,Arshdeep Singh,16 Jan 2021,v J & K,Alur (3),2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1125976,Arshdeep Singh,18 Jan 2021,v Tripura,Alur (2),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+1125976,Arshdeep Singh,26 Jan 2021,v Karnataka,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,16,2,5.33
+1125976,Arshdeep Singh,29 Jan 2021,v Baroda,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+1125976,Arshdeep Singh,12 Apr 2021,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+1125976,Arshdeep Singh,16 Apr 2021,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,1,3.5
+1125976,Arshdeep Singh,18 Apr 2021,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,1,7.33
+1125976,Arshdeep Singh,21 Apr 2021,v SRH,Chennai,1,11,1*,5,2,0,0,50,not out,2,3.4,0,31,0,8.45
+1125976,Arshdeep Singh,23 Apr 2021,v MI,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+1125976,Arshdeep Singh,26 Apr 2021,v KKR,Ahmedabad,1,11,1*,3,1,0,0,100,not out,2,2.4,0,27,1,10.12
+1125976,Arshdeep Singh,21 Sep 2021,v RR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,5,8
+1125976,Arshdeep Singh,25 Sep 2021,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+1125976,Arshdeep Singh,28 Sep 2021,v MI,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1125976,Arshdeep Singh,1 Oct 2021,v KKR,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+1125976,Arshdeep Singh,3 Oct 2021,v RCB,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,42,0,14
+1125976,Arshdeep Singh,7 Oct 2021,v CSK,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+1125976,Arshdeep Singh,4 Nov 2021,v Puducherry,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+1125976,Arshdeep Singh,5 Nov 2021,v Maharashtra,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.3,0,27,0,7.71
+1125976,Arshdeep Singh,6 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+1125976,Arshdeep Singh,8 Nov 2021,v Odisha,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,0,6.25
+1125976,Arshdeep Singh,9 Nov 2021,v Tamil Nadu,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+1125976,Arshdeep Singh,27 Mar 2022,v RCB,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1125976,Arshdeep Singh,1 Apr 2022,v KKR,Wankhede,1,11,0,2,1,0,0,0,run out,2,3.0,0,32,0,10.66
+1125976,Arshdeep Singh,3 Apr 2022,v CSK,Brabourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+1125976,Arshdeep Singh,8 Apr 2022,v GT,Brabourne,1,11,10*,14,5,1,0,200,not out,2,4.0,0,31,0,7.75
+1125976,Arshdeep Singh,13 Apr 2022,v MI,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1125976,Arshdeep Singh,17 Apr 2022,v SRH,DY Patil,1,11,0,4,1,0,0,0,run out,2,4.0,0,32,0,8
+1125976,Arshdeep Singh,20 Apr 2022,v DC,Brabourne,1,10,9,25,17,2,0,52.94,run out,2,1.0,0,17,0,17
+1125976,Arshdeep Singh,25 Apr 2022,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+1125976,Arshdeep Singh,29 Apr 2022,v LSG,Pune,2,10,0*,10,2,0,0,0,not out,1,4.0,0,23,0,5.75
+1125976,Arshdeep Singh,3 May 2022,v GT,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+1125976,Arshdeep Singh,7 May 2022,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1125976,Arshdeep Singh,13 May 2022,v RCB,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+1125976,Arshdeep Singh,16 May 2022,v DC,DY Patil,2,11,2*,11,3,0,0,66.66,not out,1,4.0,0,37,3,9.25
+1125976,Arshdeep Singh,22 May 2022,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+1125976,Arshdeep Singh,1 Jul 2022,v Derbyshire,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+1125976,Arshdeep Singh,3 Jul 2022,v Northants,Northampton,1,9,0*,7,0,0,0,-,not out,2,4.0,0,29,2,7.25
+1125976,Arshdeep Singh,7 Jul 2022,v England,Southampton,1,10,2*,2,1,0,0,200,not out,2,3.3,1,18,2,5.14
+1125976,Arshdeep Singh,29 Jul 2022,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+1125976,Arshdeep Singh,1 Aug 2022,v West Indies,Basseterre,1,11,1*,4,1,0,0,100,not out,2,4.0,0,26,1,6.5
+1125976,Arshdeep Singh,2 Aug 2022,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+1125976,Arshdeep Singh,6 Aug 2022,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,3.1,0,12,3,3.78
+1125976,Arshdeep Singh,7 Aug 2022,v West Indies,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+1125976,Arshdeep Singh,28 Aug 2022,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.5,0,33,2,8.6
+1125976,Arshdeep Singh,31 Aug 2022,v Hong Kong,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+1125976,Arshdeep Singh,4 Sep 2022,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,27,1,7.04
+1125976,Arshdeep Singh,6 Sep 2022,v Sri Lanka,Dubai (DICS),1,10,1*,4,1,0,0,100,not out,2,3.5,0,40,0,10.43
+1125976,Arshdeep Singh,8 Sep 2022,v Afghanistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.0,0,7,1,3.5
+1125976,Arshdeep Singh,28 Sep 2022,v South Africa,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+1125976,Arshdeep Singh,2 Oct 2022,v South Africa,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,62,2,15.5
+1125976,Arshdeep Singh,23 Oct 2022,v Pakistan,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+1125976,Arshdeep Singh,27 Oct 2022,v Netherlands,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1125976,Arshdeep Singh,30 Oct 2022,v South Africa,Perth,1,11,2*,2,1,0,0,200,not out,2,4.0,0,25,2,6.25
+1125976,Arshdeep Singh,2 Nov 2022,v Bangladesh,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+1125976,Arshdeep Singh,6 Nov 2022,v Zimbabwe,Melbourne,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+1125976,Arshdeep Singh,10 Nov 2022,v England,Adelaide,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+1125976,Arshdeep Singh,20 Nov 2022,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,0,9.66
+1125976,Arshdeep Singh,22 Nov 2022,v New Zealand,Napier,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,4,9.25
+1125976,Arshdeep Singh,5 Jan 2023,v Sri Lanka,Pune,2,-,DNB,-,-,-,-,-,-,1,2.0,0,37,0,18.5
+1125976,Arshdeep Singh,7 Jan 2023,v Sri Lanka,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.4,0,20,3,7.5
+1125976,Arshdeep Singh,27 Jan 2023,v New Zealand,Ranchi,2,10,0*,15,6,0,0,0,not out,1,4.0,0,51,1,12.75
+1125976,Arshdeep Singh,29 Jan 2023,v New Zealand,Lucknow,2,-,DNB,-,-,-,-,-,-,1,2.0,0,7,2,3.5
+1125976,Arshdeep Singh,1 Feb 2023,v New Zealand,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,2,5.33
+1125976,Arshdeep Singh,1 Apr 2023,v KKR,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,3,6.33
+1125976,Arshdeep Singh,5 Apr 2023,v RR,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,2,11.75
+1125976,Arshdeep Singh,9 Apr 2023,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+1125976,Arshdeep Singh,13 Apr 2023,v GT,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+1125976,Arshdeep Singh,15 Apr 2023,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,1,7.33
+1125976,Arshdeep Singh,20 Apr 2023,v RCB,Mohali,2,11,0*,3,0,0,0,-,not out,1,4.0,0,34,1,8.5
+1125976,Arshdeep Singh,22 Apr 2023,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,4,7.25
+1125976,Arshdeep Singh,28 Apr 2023,v LSG,Mohali,2,11,2*,6,2,0,0,100,not out,1,4.0,0,54,1,13.5
+1125976,Arshdeep Singh,30 Apr 2023,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+1125976,Arshdeep Singh,3 May 2023,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.5,0,66,1,17.21
+1125976,Arshdeep Singh,8 May 2023,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+1125976,Arshdeep Singh,13 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+1125976,Arshdeep Singh,17 May 2023,v DC,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,2.0,0,21,0,10.5
+1125976,Arshdeep Singh,19 May 2023,v RR,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+1125976,Arshdeep Singh,3 Aug 2023,v West Indies,Tarouba,2,9,12,11,7,2,0,171.42,run out,1,4.0,0,31,2,7.75
+1125976,Arshdeep Singh,6 Aug 2023,v West Indies,Providence,1,9,6*,3,3,1,0,200,not out,2,4.0,0,34,1,8.5
+1125976,Arshdeep Singh,8 Aug 2023,v West Indies,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+1125976,Arshdeep Singh,12 Aug 2023,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+1125976,Arshdeep Singh,13 Aug 2023,v West Indies,Lauderhill,1,8,8,3,4,0,1,200,bowled,2,2.0,0,20,1,10
+1125976,Arshdeep Singh,18 Aug 2023,v Ireland,Dublin (Malahide),2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1125976,Arshdeep Singh,20 Aug 2023,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1125976,Arshdeep Singh,3 Oct 2023,v Nepal,Hangzhou,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,2,10.75
+1125976,Arshdeep Singh,6 Oct 2023,v Bangladesh,Hangzhou,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+1125976,Arshdeep Singh,7 Oct 2023,v Afghanistan,Hangzhou,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+1125976,Arshdeep Singh,16 Oct 2023,v Saurashtra,Ranchi,2,11,10,-,8,1,0,125,run out,1,4.0,0,31,0,7.75
+1125976,Arshdeep Singh,17 Oct 2023,v Andhra,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1125976,Arshdeep Singh,19 Oct 2023,v Railways,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+1125976,Arshdeep Singh,21 Oct 2023,v Manipur,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,2,5.25
+1125976,Arshdeep Singh,23 Oct 2023,v Gujarat,Ranchi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+1125976,Arshdeep Singh,25 Oct 2023,v Goa,Ranchi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,0,7
+1125976,Arshdeep Singh,2 Nov 2023,v UP,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+1125976,Arshdeep Singh,4 Nov 2023,v Delhi,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+1125976,Arshdeep Singh,6 Nov 2023,v Baroda,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,4,5.75
+1125976,Arshdeep Singh,23 Nov 2023,v Australia,Visakhapatnam,2,9,0,2,0,0,0,-,run out,1,4.0,0,41,0,10.25
+1125976,Arshdeep Singh,26 Nov 2023,v Australia,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+1125976,Arshdeep Singh,28 Nov 2023,v Australia,Guwahati,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,1,11
+1125976,Arshdeep Singh,3 Dec 2023,v Australia,Bengaluru,1,9,2*,4,2,0,0,100,not out,2,4.0,0,40,2,10
+1125976,Arshdeep Singh,12 Dec 2023,v South Africa,Gqeberha,1,8,0,1,1,0,0,0,caught,2,2.0,0,31,0,15.5
+1125976,Arshdeep Singh,14 Dec 2023,v South Africa,Johannesburg,1,8,0*,4,0,0,0,-,not out,2,2.0,0,13,1,6.5
+1125976,Arshdeep Singh,11 Jan 2024,v Afghanistan,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,0,7
+1125976,Arshdeep Singh,14 Jan 2024,v Afghanistan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+1125976,Arshdeep Singh,23 Mar 2024,v DC,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,4.0,0,28,2,7
+1125976,Arshdeep Singh,25 Mar 2024,v RCB,Bengaluru,1,-,sub,-,-,-,-,-,-,2,3.2,0,40,0,12
+1125976,Arshdeep Singh,30 Mar 2024,v LSG,Lucknow,2,-,sub,-,-,-,-,-,-,1,3.0,0,30,2,10
+1125976,Arshdeep Singh,4 Apr 2024,v GT,Ahmedabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+1125976,Arshdeep Singh,9 Apr 2024,v SRH,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,4.0,0,29,4,7.25
+1125976,Arshdeep Singh,13 Apr 2024,v RR,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.5,0,45,1,11.73
+1125976,Arshdeep Singh,18 Apr 2024,v MI,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+1125976,Arshdeep Singh,21 Apr 2024,v GT,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.1,0,17,1,7.84
+1125976,Arshdeep Singh,26 Apr 2024,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,4.0,0,45,2,11.25
+1125976,Arshdeep Singh,1 May 2024,v CSK,Chennai,2,-,sub,-,-,-,-,-,-,1,4.0,0,52,1,13
+1125976,Arshdeep Singh,5 May 2024,v CSK,Dharamsala,2,-,sub,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+1125976,Arshdeep Singh,9 May 2024,v RCB,Dharamsala,2,11,4,4,3,1,0,133.33,caught,1,3.0,0,41,1,13.66
+1125976,Arshdeep Singh,15 May 2024,v RR,Guwahati,2,-,sub,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1125976,Arshdeep Singh,19 May 2024,v SRH,Hyderabad,1,-,sub,-,-,-,-,-,-,2,4.0,0,37,2,9.25
+1125976,Arshdeep Singh,5 Jun 2024,v Ireland,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+1125976,Arshdeep Singh,9 Jun 2024,v Pakistan,New York,1,9,9,26,13,1,0,69.23,run out,2,4.0,0,31,1,7.75
+1125976,Arshdeep Singh,12 Jun 2024,v U.S.A.,New York,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,4,2.25
+1125976,Arshdeep Singh,20 Jun 2024,v Afghanistan,Bridgetown,1,9,2*,8,2,0,0,100,not out,2,4.0,0,36,3,9
+1125976,Arshdeep Singh,22 Jun 2024,v Bangladesh,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+1125976,Arshdeep Singh,24 Jun 2024,v Australia,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+1125976,Arshdeep Singh,27 Jun 2024,v England,Providence,1,9,1*,1,1,0,0,100,not out,2,2.0,0,17,0,8.5
+1125976,Arshdeep Singh,29 Jun 2024,v South Africa,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,5
+1125976,Arshdeep Singh,27 Jul 2024,v Sri Lanka,Pallekele,1,9,1*,1,1,0,0,100,not out,2,3.0,0,24,2,8
+1125976,Arshdeep Singh,28 Jul 2024,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,2,8
+1125976,Arshdeep Singh,6 Oct 2024,v Bangladesh,Gwalior,2,-,DNB,-,-,-,-,-,-,1,3.5,0,14,3,3.65
+1125976,Arshdeep Singh,9 Oct 2024,v Bangladesh,Delhi,1,10,6,1,2,0,1,300,caught,2,3.0,0,26,1,8.66
+1125976,Arshdeep Singh,8 Nov 2024,v South Africa,Durban,1,8,5*,9,4,1,0,125,not out,2,3.0,0,25,1,8.33
+1125976,Arshdeep Singh,10 Nov 2024,v South Africa,Gqeberha,1,8,7*,25,6,0,1,116.66,not out,2,4.0,0,41,1,10.25
+1125976,Arshdeep Singh,13 Nov 2024,v South Africa,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+1125976,Arshdeep Singh,15 Nov 2024,v South Africa,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,3,6.66
+1125976,Arshdeep Singh,23 Nov 2024,v Bengal,Rajkot,1,10,23*,-,11,1,2,209.09,not out,2,3.0,0,21,2,7
+1125976,Arshdeep Singh,25 Nov 2024,v Bihar,Rajkot,2,-,DNB,-,-,-,-,-,-,1,1.0,0,19,0,19
+1125976,Arshdeep Singh,27 Nov 2024,v M. Pradesh,Rajkot,2,9,2*,-,3,0,0,66.66,not out,1,4.0,0,24,1,6
+1125976,Arshdeep Singh,1 Dec 2024,v Hyderabad,Saurashtra,1,8,6*,-,5,1,0,120,not out,2,4.0,0,47,1,11.75
+1125976,Arshdeep Singh,3 Dec 2024,v Rajasthan,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+1125976,Arshdeep Singh,22 Jan 2025,v England,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+1125976,Arshdeep Singh,25 Jan 2025,v England,Chennai,2,9,6,10,4,1,0,150,caught,1,4.0,0,40,1,10
+1125976,Arshdeep Singh,31 Jan 2025,v England,Pune,1,9,0,1,1,0,0,0,run out,2,3.4,0,35,1,9.54
+1125976,Arshdeep Singh,25 Mar 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+1125976,Arshdeep Singh,1 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,3,10.75
+1125976,Arshdeep Singh,5 Apr 2025,v RR,New Chandigarh,2,10,1,11,5,0,0,20,caught,1,4.0,0,35,1,8.75
+1125976,Arshdeep Singh,8 Apr 2025,v CSK,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,0,9.75
+1125976,Arshdeep Singh,12 Apr 2025,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1125976,Arshdeep Singh,15 Apr 2025,v KKR,New Chandigarh,1,11,1*,2,1,0,0,100,not out,2,3.0,1,11,1,3.66
+1125976,Arshdeep Singh,18 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+1125976,Arshdeep Singh,20 Apr 2025,v RCB,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+1125976,Arshdeep Singh,26 Apr 2025,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1125976,Arshdeep Singh,30 Apr 2025,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,3.2,0,25,2,7.5
+1125976,Arshdeep Singh,4 May 2025,v LSG,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,4.0,0,16,3,4
+1125976,Arshdeep Singh,18 May 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,60,0,15
+1125976,Arshdeep Singh,24 May 2025,v DC,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,0,8.75
+1125976,Arshdeep Singh,26 May 2025,v MI,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+1125976,Arshdeep Singh,29 May 2025,v RCB,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+1125976,Arshdeep Singh,1 Jun 2025,v MI,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+1125976,Arshdeep Singh,3 Jun 2025,v RCB,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,3,10
+1125976,Arshdeep Singh,19 Sep 2025,v Oman,Abu Dhabi,1,9,1,2,1,0,0,100,run out,2,4.0,0,37,1,9.25
+1125976,Arshdeep Singh,26 Sep 2025,v Sri Lanka,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+1125976,Arshdeep Singh,2 Nov 2025,v Australia,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+1125976,Arshdeep Singh,6 Nov 2025,v Australia,Carrara,1,9,0,6,3,0,0,0,caught,2,3.0,0,22,1,7.33
+1125976,Arshdeep Singh,8 Nov 2025,v Australia,Brisbane,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1125976,Arshdeep Singh,9 Dec 2025,v South Africa,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,2,7
+1125976,Arshdeep Singh,11 Dec 2025,v South Africa,New Chandigarh,2,9,4,2,3,1,0,133.33,caught,1,4.0,0,54,0,13.5
+1125976,Arshdeep Singh,14 Dec 2025,v South Africa,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,2,3.25
+1125976,Arshdeep Singh,19 Dec 2025,v South Africa,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+1125976,Arshdeep Singh,21 Jan 2026,v New Zealand,Nagpur,1,9,6*,13,6,1,0,100,not out,2,4.0,0,31,1,7.75
+1125976,Arshdeep Singh,23 Jan 2026,v New Zealand,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+1125976,Arshdeep Singh,28 Jan 2026,v New Zealand,Visakhapatnam,2,9,0,1,2,0,0,0,caught,1,4.0,0,33,2,8.25
+1125976,Arshdeep Singh,31 Jan 2026,v New Zealand,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,5,12.75
+1125976,Arshdeep Singh,7 Feb 2026,v U.S.A.,Wankhede,1,9,4,16,6,1,0,66.66,caught,2,4.0,0,18,2,4.5
+1125976,Arshdeep Singh,12 Feb 2026,v Namibia,Delhi,1,10,2,2,2,0,0,100,run out,2,3.0,0,36,1,12
+1125976,Arshdeep Singh,18 Feb 2026,v Netherlands,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+1125976,Arshdeep Singh,22 Feb 2026,v South Africa,Ahmedabad,2,9,1,2,2,0,0,50,caught,1,4.0,0,28,2,7
+1125976,Arshdeep Singh,26 Feb 2026,v Zimbabwe,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+1125976,Arshdeep Singh,1 Mar 2026,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+1125976,Arshdeep Singh,5 Mar 2026,v England,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,1,12.75
+1125976,Arshdeep Singh,8 Mar 2026,v New Zealand,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8

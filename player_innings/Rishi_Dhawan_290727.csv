@@ -1,0 +1,136 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+290727,Rishi Dhawan,3 Apr 2007,v Delhi,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290727,Rishi Dhawan,20 Oct 2009,v Services,Delhi,1,7,4*,7,3,0,0,133.33,not out,2,2.0,0,14,1,7
+290727,Rishi Dhawan,21 Oct 2009,v Haryana,Delhi,2,7,6,6,4,1,0,150,caught,1,2.0,0,17,0,8.5
+290727,Rishi Dhawan,22 Oct 2009,v Delhi,Delhi,1,7,5*,2,2,1,0,250,not out,2,DNB,-,-,-,-
+290727,Rishi Dhawan,24 Oct 2009,v J & K,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290727,Rishi Dhawan,25 Oct 2009,v Punjab,Delhi,1,8,0*,2,0,0,0,-,not out,2,DNB,-,-,-,-
+290727,Rishi Dhawan,12 Mar 2010,v Jharkhand,Indore,1,4,49,37,35,7,0,140,caught,2,4.0,0,24,1,6
+290727,Rishi Dhawan,14 Mar 2010,v Tamil Nadu,Indore,1,6,28,24,26,4,0,107.69,caught,2,4.0,0,51,1,12.75
+290727,Rishi Dhawan,20 Oct 2010,v Delhi,Delhi,2,8,5,7,6,1,0,83.33,bowled,1,2.0,0,15,0,7.5
+290727,Rishi Dhawan,21 Oct 2010,v Punjab,Delhi,1,8,5,7,4,1,0,125,run out,2,3.0,0,21,0,7
+290727,Rishi Dhawan,22 Oct 2010,v Services,Delhi,1,8,14,19,15,1,0,93.33,run out,2,1.0,0,7,1,7
+290727,Rishi Dhawan,24 Oct 2010,v J & K,Delhi,1,6,0*,2,1,0,0,0,not out,2,3.0,0,15,0,5
+290727,Rishi Dhawan,25 Oct 2010,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,0,6
+290727,Rishi Dhawan,20 Oct 2011,v Delhi,Rohtak,2,7,7*,7,3,1,0,233.33,not out,1,4.0,0,35,1,8.75
+290727,Rishi Dhawan,21 Oct 2011,v Punjab,Rohtak,2,5,15,18,12,2,0,125,stumped,1,3.0,0,25,0,8.33
+290727,Rishi Dhawan,22 Oct 2011,v Services,Rohtak,1,5,31,35,32,1,0,96.87,stumped,2,4.0,0,27,0,6.75
+290727,Rishi Dhawan,24 Oct 2011,v J & K,Rohtak,1,4,16,13,13,1,1,123.07,bowled,2,4.0,0,18,2,4.5
+290727,Rishi Dhawan,25 Oct 2011,v Haryana,Rohtak,1,6,28,30,26,2,0,107.69,bowled,2,4.0,0,22,2,5.5
+290727,Rishi Dhawan,17 Mar 2013,v Services,Rohtak,1,4,16,29,25,2,0,64,bowled,2,4.0,0,13,3,3.25
+290727,Rishi Dhawan,18 Mar 2013,v Haryana,Rohtak,2,4,2,2,3,0,0,66.66,bowled,1,4.0,0,20,1,5
+290727,Rishi Dhawan,19 Mar 2013,v Delhi,Rohtak,1,5,38,44,33,2,1,115.15,caught,2,4.0,0,21,0,5.25
+290727,Rishi Dhawan,21 Mar 2013,v J & K,Gurgaon,2,5,14,11,11,1,0,127.27,caught,1,4.0,0,30,1,7.5
+290727,Rishi Dhawan,22 Mar 2013,v Punjab,Gurgaon,1,6,31,39,33,4,0,93.93,caught,2,3.0,0,35,1,11.66
+290727,Rishi Dhawan,9 Apr 2013,v Daredevils,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290727,Rishi Dhawan,13 Apr 2013,v Warriors,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+290727,Rishi Dhawan,17 Apr 2013,v RR,Jaipur,2,7,0,3,1,0,0,0,caught,1,2.0,0,20,0,10
+290727,Rishi Dhawan,18 May 2013,v Kings XI,Dharamsala,2,7,14,26,15,2,0,93.33,lbw,1,4.0,1,26,1,6.5
+290727,Rishi Dhawan,24 May 2013,v RR,Eden Gardens,2,8,4*,3,2,1,0,200,not out,1,4.0,0,30,0,7.5
+290727,Rishi Dhawan,26 May 2013,v CSK,Eden Gardens,1,8,3,5,3,0,0,100,run out,2,1.0,0,6,1,6
+290727,Rishi Dhawan,21 Sep 2013,v RR,Jaipur,1,9,0*,1,0,0,0,-,not out,2,4.0,0,17,1,4.25
+290727,Rishi Dhawan,27 Sep 2013,v Lions,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,1,5.25
+290727,Rishi Dhawan,2 Oct 2013,v Scorchers,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+290727,Rishi Dhawan,5 Oct 2013,v Trinidad & T,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+290727,Rishi Dhawan,6 Oct 2013,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+290727,Rishi Dhawan,1 Apr 2014,v Delhi,Mohali,1,7,27,26,24,3,0,112.5,lbw,2,3.0,0,18,0,6
+290727,Rishi Dhawan,2 Apr 2014,v Punjab,Mohali,1,3,32,55,38,1,0,84.21,caught,2,2.3,0,22,0,8.8
+290727,Rishi Dhawan,3 Apr 2014,v Services,Mohali,1,3,26,48,30,2,0,86.66,caught,2,3.2,0,22,2,6.6
+290727,Rishi Dhawan,4 Apr 2014,v J & K,Mohali,1,3,44,56,40,1,0,110,bowled,2,3.3,0,24,2,6.85
+290727,Rishi Dhawan,5 Apr 2014,v Haryana,Mohali,1,6,65*,62,44,5,2,147.72,not out,2,4.0,0,39,0,9.75
+290727,Rishi Dhawan,18 Apr 2014,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+290727,Rishi Dhawan,22 Apr 2014,v SRH,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.2,0,23,1,9.85
+290727,Rishi Dhawan,26 Apr 2014,v KKR,Abu Dhabi,1,7,19*,30,18,2,0,105.55,not out,2,4.0,0,24,1,6
+290727,Rishi Dhawan,28 Apr 2014,v RCB,Dubai (DICS),2,7,23*,28,22,3,0,104.54,not out,1,4.0,0,14,2,3.5
+290727,Rishi Dhawan,3 May 2014,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,2,5.75
+290727,Rishi Dhawan,7 May 2014,v CSK,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+290727,Rishi Dhawan,11 May 2014,v KKR,Cuttack,1,7,4,6,6,0,0,66.66,bowled,2,4.0,0,32,0,8
+290727,Rishi Dhawan,14 May 2014,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,2,10.5
+290727,Rishi Dhawan,19 May 2014,v Daredevils,Delhi,2,8,8*,7,5,1,0,160,not out,1,4.0,0,42,0,10.5
+290727,Rishi Dhawan,21 May 2014,v MI,Mohali,1,8,14*,20,9,2,0,155.55,not out,2,4.0,0,30,1,7.5
+290727,Rishi Dhawan,23 May 2014,v RR,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+290727,Rishi Dhawan,25 May 2014,v Daredevils,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+290727,Rishi Dhawan,27 May 2014,v KKR,Eden Gardens,2,8,14,14,15,0,1,93.33,stumped,1,4.0,0,44,0,11
+290727,Rishi Dhawan,24 Mar 2015,v Services,Delhi,2,6,1*,1,2,0,0,50,not out,1,4.0,0,29,2,7.25
+290727,Rishi Dhawan,25 Mar 2015,v Haryana,Delhi,1,5,51*,46,35,5,1,145.71,not out,2,4.0,0,19,3,4.75
+290727,Rishi Dhawan,26 Mar 2015,v Delhi,Delhi,1,6,1,2,1,0,0,100,run out,2,4.0,0,19,2,4.75
+290727,Rishi Dhawan,27 Mar 2015,v J & K,Delhi,1,5,42*,49,35,3,1,120,not out,2,4.0,0,27,1,6.75
+290727,Rishi Dhawan,28 Mar 2015,v Punjab,Delhi,2,7,8,18,13,1,0,61.53,caught,1,4.0,0,29,0,7.25
+290727,Rishi Dhawan,1 Apr 2015,v Andhra,Bhubaneswar,1,6,37,57,32,4,1,115.62,caught,2,4.0,0,30,0,7.5
+290727,Rishi Dhawan,2 Apr 2015,v Gujarat,Bhubaneswar,1,5,11,23,16,1,0,68.75,caught,2,3.0,0,23,0,7.66
+290727,Rishi Dhawan,3 Apr 2015,v Jharkhand,Bhubaneswar,1,5,10*,20,13,1,0,76.92,not out,2,4.0,0,30,1,7.5
+290727,Rishi Dhawan,12 Apr 2015,v MI,Wankhede,1,6,6,9,6,1,0,100,caught,2,4.0,0,50,0,12.5
+290727,Rishi Dhawan,15 Apr 2015,v Daredevils,Pune,1,8,0*,1,0,0,0,-,not out,2,3.0,0,23,0,7.66
+290727,Rishi Dhawan,27 Apr 2015,v SRH,Mohali,2,8,4,11,6,0,0,66.66,lbw,1,1.0,0,7,0,7
+290727,Rishi Dhawan,13 May 2015,v RCB,Mohali,1,8,1*,-,1,0,0,100,not out,2,2.0,0,18,0,9
+290727,Rishi Dhawan,16 May 2015,v CSK,Mohali,1,8,25*,29,20,1,2,125,not out,2,2.0,0,12,1,6
+290727,Rishi Dhawan,23 Apr 2016,v SRH,Hyderabad,1,8,3*,3,2,0,0,150,not out,2,4.0,0,35,1,8.75
+290727,Rishi Dhawan,21 May 2016,v Supergiants,Visakhapatnam,1,8,11*,5,4,0,1,275,not out,2,3.0,0,21,1,7
+290727,Rishi Dhawan,18 Jun 2016,v Zimbabwe,Harare,2,8,1*,-,2,0,0,50,not out,1,4.0,0,42,1,10.5
+290727,Rishi Dhawan,29 Jan 2017,v Services,Dharamsala,1,6,37*,30,20,4,1,185,not out,2,2.0,0,23,0,11.5
+290727,Rishi Dhawan,30 Jan 2017,v Haryana,Dharamsala,2,7,3*,5,2,0,0,150,not out,1,3.0,0,23,2,7.66
+290727,Rishi Dhawan,31 Jan 2017,v Delhi,Nadaun,1,7,37*,29,18,7,0,205.55,not out,2,4.0,0,25,1,6.25
+290727,Rishi Dhawan,1 Feb 2017,v J & K,Nadaun,2,8,4,18,11,0,0,36.36,bowled,1,4.0,0,24,0,6
+290727,Rishi Dhawan,2 Feb 2017,v Punjab,Dharamsala,2,6,18*,32,20,2,0,90,not out,1,4.0,0,31,1,7.75
+290727,Rishi Dhawan,13 Jan 2018,v Services,Delhi,1,7,27*,38,22,2,1,122.72,not out,2,2.0,0,17,0,8.5
+290727,Rishi Dhawan,14 Jan 2018,v Delhi,Delhi,1,7,23*,34,16,1,2,143.75,not out,2,3.0,0,12,0,4
+290727,Rishi Dhawan,15 Jan 2018,v Punjab,Delhi,2,5,20,19,13,3,0,153.84,caught,1,4.0,0,57,0,14.25
+290727,Rishi Dhawan,21 Feb 2019,v Vidarbha,Surat,1,5,23,-,18,1,1,127.77,lbw,2,2.0,0,27,0,13.5
+290727,Rishi Dhawan,22 Feb 2019,v Meghalaya,Surat,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+290727,Rishi Dhawan,24 Feb 2019,v Gujarat,Surat,2,5,0,-,1,0,0,0,lbw,1,3.0,0,26,1,8.66
+290727,Rishi Dhawan,25 Feb 2019,v Bihar,Surat,2,-,DNB,-,-,-,-,-,-,1,1.0,0,6,1,6
+290727,Rishi Dhawan,27 Feb 2019,v Tamil Nadu,Surat,2,5,22*,-,11,1,2,200,not out,1,3.0,0,25,0,8.33
+290727,Rishi Dhawan,28 Feb 2019,v Rajasthan,Surat,1,5,38*,-,28,4,1,135.71,not out,2,3.0,0,27,0,9
+290727,Rishi Dhawan,8 Nov 2019,v Chandigarh,Chandigarh,2,5,7*,-,7,1,0,100,not out,1,4.0,0,24,1,6
+290727,Rishi Dhawan,9 Nov 2019,v Chhattisgarh,Chandigarh,1,5,4,-,6,1,0,66.66,caught,2,3.0,0,24,0,8
+290727,Rishi Dhawan,11 Nov 2019,v Hyderabad,Chandigarh,1,6,29,-,12,4,1,241.66,run out,2,4.0,0,18,3,4.5
+290727,Rishi Dhawan,12 Nov 2019,v Punjab,Chandigarh,1,6,4,-,9,0,0,44.44,caught,2,1.0,0,15,0,15
+290727,Rishi Dhawan,14 Nov 2019,v Arunachal,Chandigarh,2,6,1*,-,1,0,0,100,not out,1,3.0,0,23,1,7.66
+290727,Rishi Dhawan,15 Nov 2019,v Maharashtra,Chandigarh,1,5,22,-,23,3,0,95.65,caught,2,4.0,0,31,0,7.75
+290727,Rishi Dhawan,18 Nov 2019,v Railways,Chandigarh,1,6,24*,-,12,3,1,200,not out,2,4.0,0,24,3,6
+290727,Rishi Dhawan,10 Jan 2021,v Chhattisgarh,Vadodara,1,5,1,-,2,0,0,50,caught,2,4.0,0,29,3,7.25
+290727,Rishi Dhawan,12 Jan 2021,v Baroda,Vadodara,1,5,0,-,1,0,0,0,lbw,2,2.0,0,20,1,10
+290727,Rishi Dhawan,14 Jan 2021,v Gujarat,Vadodara,1,5,43,-,34,4,1,126.47,caught,2,4.0,0,25,2,6.25
+290727,Rishi Dhawan,16 Jan 2021,v Uttarakhand,Vadodara,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,0,4.5
+290727,Rishi Dhawan,18 Jan 2021,v Maharashtra,Vadodara,2,5,61*,-,48,7,1,127.08,not out,1,4.0,0,22,3,5.5
+290727,Rishi Dhawan,26 Jan 2021,v Tamil Nadu,Ahmedabad,1,5,35*,-,26,2,1,134.61,not out,2,3.0,0,30,0,10
+290727,Rishi Dhawan,4 Nov 2021,v Haryana,Vadodara,1,5,28,37,22,2,1,127.27,run out,2,3.0,0,25,1,8.33
+290727,Rishi Dhawan,5 Nov 2021,v Jharkhand,Vadodara,1,5,5,5,3,1,0,166.66,stumped,2,4.0,0,38,2,9.5
+290727,Rishi Dhawan,6 Nov 2021,v Rajasthan,Vadodara,1,5,26,33,31,3,0,83.87,bowled,2,3.0,0,21,2,7
+290727,Rishi Dhawan,8 Nov 2021,v J & K,Vadodara,1,7,45*,45,26,2,3,173.07,not out,2,3.5,0,23,6,6
+290727,Rishi Dhawan,9 Nov 2021,v Andhra,Vadodara,1,6,12,18,8,0,1,150,caught,2,4.0,1,16,3,4
+290727,Rishi Dhawan,16 Nov 2021,v Kerala,Delhi,1,6,1,-,2,0,0,50,stumped,2,4.0,0,33,0,8.25
+290727,Rishi Dhawan,25 Apr 2022,v CSK,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,2,9.75
+290727,Rishi Dhawan,29 Apr 2022,v LSG,Pune,2,7,21*,35,22,3,1,95.45,not out,1,2.0,0,13,0,6.5
+290727,Rishi Dhawan,3 May 2022,v GT,DY Patil,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+290727,Rishi Dhawan,7 May 2022,v RR,Wankhede,1,7,5*,8,2,1,0,250,not out,2,3.0,0,25,1,8.33
+290727,Rishi Dhawan,13 May 2022,v RCB,Brabourne,1,8,7,16,3,0,1,233.33,caught,2,4.0,0,36,2,9
+290727,Rishi Dhawan,16 May 2022,v DC,DY Patil,2,8,4,14,13,0,0,30.76,bowled,1,2.0,0,17,0,8.5
+290727,Rishi Dhawan,14 Oct 2022,v Bihar,Indore,1,6,22,-,14,3,0,157.14,bowled,2,4.0,0,28,1,7
+290727,Rishi Dhawan,18 Oct 2022,v Saurashtra,Indore,1,6,1,-,1,0,0,100,run out,2,4.0,0,25,3,6.25
+290727,Rishi Dhawan,20 Oct 2022,v Baroda,Indore,2,4,4*,-,7,0,0,57.14,not out,1,4.0,0,31,2,7.75
+290727,Rishi Dhawan,22 Oct 2022,v Nagaland,Indore,2,-,DNB,-,-,-,-,-,-,1,1.0,0,2,0,2
+290727,Rishi Dhawan,1 Nov 2022,v Bengal,Kolkata,2,8,9*,-,3,2,0,300,not out,1,4.0,0,40,2,10
+290727,Rishi Dhawan,3 Nov 2022,v Punjab,Eden Gardens,1,8,7*,-,4,1,0,175,not out,2,4.0,0,25,3,6.25
+290727,Rishi Dhawan,5 Nov 2022,v Mumbai,Eden Gardens,1,6,1,5,3,0,0,33.33,caught,2,3.3,0,26,2,7.42
+290727,Rishi Dhawan,1 Apr 2023,v KKR,Mohali,1,-,sub,-,-,-,-,-,-,2,1.0,0,15,0,15
+290727,Rishi Dhawan,5 Apr 2023,v RR,Guwahati,1,-,sub,-,-,-,-,-,-,2,DNB,-,-,-,-
+290727,Rishi Dhawan,13 Apr 2023,v GT,Mohali,1,9,1,4,1,0,0,100,run out,2,DNB,-,-,-,-
+290727,Rishi Dhawan,3 May 2023,v MI,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+290727,Rishi Dhawan,8 May 2023,v KKR,Eden Gardens,1,7,19,12,11,1,1,172.72,bowled,2,2.0,0,15,0,7.5
+290727,Rishi Dhawan,13 May 2023,v DC,Delhi,1,9,0*,1,0,0,0,-,not out,2,1.0,0,10,0,10
+290727,Rishi Dhawan,16 Oct 2023,v Kerala,Mumbai,2,6,26*,-,22,2,1,118.18,not out,1,4.0,0,27,0,6.75
+290727,Rishi Dhawan,17 Oct 2023,v Odisha,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+290727,Rishi Dhawan,19 Oct 2023,v Chandigarh,Mumbai,2,6,29*,-,15,2,2,193.33,not out,1,4.0,0,42,1,10.5
+290727,Rishi Dhawan,21 Oct 2023,v Bihar,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,12,1,3
+290727,Rishi Dhawan,23 Oct 2023,v Services,DY Patil,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,4,11
+290727,Rishi Dhawan,25 Oct 2023,v Assam,DY Patil,2,7,72*,-,31,7,4,232.25,not out,1,4.0,0,47,1,11.75
+290727,Rishi Dhawan,27 Oct 2023,v Sikkim,DY Patil,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290727,Rishi Dhawan,19 May 2024,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,11.66
+290727,Rishi Dhawan,23 Nov 2024,v Arunachal,Mumbai,2,-,DNB,-,-,-,-,-,-,1,2.0,1,2,0,1
+290727,Rishi Dhawan,25 Nov 2024,v UP,Wankhede,1,5,10,-,17,0,0,58.82,caught,2,4.0,0,25,1,6.25
+290727,Rishi Dhawan,27 Nov 2024,v Jharkhand,Wankhede,2,6,10,-,9,1,0,111.11,lbw,1,3.0,0,33,0,11
+290727,Rishi Dhawan,29 Nov 2024,v J & K,Mumbai,2,6,9,-,5,0,1,180,caught,1,4.0,0,35,0,8.75
+290727,Rishi Dhawan,1 Dec 2024,v Delhi,Mumbai,1,5,18,-,21,1,0,85.71,lbw,2,2.0,0,25,1,12.5
+290727,Rishi Dhawan,3 Dec 2024,v Haryana,Wankhede,1,5,42,-,30,5,0,140,caught,2,DNB,-,-,-,-
+290727,Rishi Dhawan,5 Dec 2024,v Manipur,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-

@@ -1,0 +1,85 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+422992,Ankit Sharma,13 Mar 2010,v Maharashtra,Indore,1,9,14,7,6,1,1,233.33,caught,2,3.0,0,30,1,10
+422992,Ankit Sharma,20 Oct 2010,v UP,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,0,10
+422992,Ankit Sharma,22 Oct 2010,v Vidarbha,Jaipur,2,8,11,14,10,0,1,110,run out,1,4.0,0,30,1,7.5
+422992,Ankit Sharma,24 Oct 2010,v Rajasthan,Jaipur,1,8,0,1,1,0,0,0,caught,2,2.0,0,11,2,5.5
+422992,Ankit Sharma,25 Oct 2010,v Railways,Jaipur,1,9,0,3,3,0,0,0,caught,2,4.0,0,25,1,6.25
+422992,Ankit Sharma,13 Mar 2011,v Orissa,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+422992,Ankit Sharma,15 Mar 2011,v Haryana,Hyderabad,2,8,1,10,3,0,0,33.33,run out,1,2.0,0,13,0,6.5
+422992,Ankit Sharma,16 Mar 2011,v Bengal,Hyderabad,2,7,0,1,1,0,0,0,caught,1,4.0,0,21,0,5.25
+422992,Ankit Sharma,20 Oct 2011,v Railways,Indore,1,7,2,4,3,0,0,66.66,caught,2,3.0,0,11,2,3.66
+422992,Ankit Sharma,21 Oct 2011,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+422992,Ankit Sharma,22 Oct 2011,v Vidarbha,Indore,1,7,11*,7,6,1,0,183.33,not out,2,4.0,0,32,2,8
+422992,Ankit Sharma,25 Oct 2011,v UP,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+422992,Ankit Sharma,25 Mar 2012,v Punjab,Mumbai,1,8,41,-,37,4,1,110.81,caught,2,3.0,0,23,0,7.66
+422992,Ankit Sharma,7 Apr 2012,v CSK,Visakhapatnam,2,9,15,13,8,0,2,187.5,caught,1,3.0,0,28,1,9.33
+422992,Ankit Sharma,9 Apr 2012,v MI,Visakhapatnam,1,10,1,1,2,0,0,50,caught,2,4.0,0,18,0,4.5
+422992,Ankit Sharma,17 Apr 2012,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+422992,Ankit Sharma,19 Apr 2012,v Daredevils,Delhi,1,10,1*,2,1,0,0,100,not out,2,2.1,0,18,0,8.3
+422992,Ankit Sharma,22 Apr 2012,v KKR,Cuttack,1,7,1,5,2,0,0,50,caught,2,4.0,0,19,1,4.75
+422992,Ankit Sharma,26 Apr 2012,v Warriors,Pune,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,1,5.5
+422992,Ankit Sharma,1 May 2012,v Warriors,Cuttack,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+422992,Ankit Sharma,4 May 2012,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+422992,Ankit Sharma,10 May 2012,v Daredevils,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,1.0,0,16,0,16
+422992,Ankit Sharma,18 Mar 2013,v Vidarbha,Nagpur,2,9,0,1,1,0,0,0,caught,1,3.0,0,26,0,8.66
+422992,Ankit Sharma,19 Mar 2013,v UP,Nagpur,2,9,6*,8,6,1,0,100,not out,1,2.0,0,15,0,7.5
+422992,Ankit Sharma,7 Apr 2013,v RCB,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+422992,Ankit Sharma,31 Mar 2014,v Rajasthan,Nagpur,2,8,9,8,8,1,0,112.5,caught,1,2.0,0,23,0,11.5
+422992,Ankit Sharma,4 Apr 2014,v Vidarbha,Nagpur,1,10,0,1,0,0,0,-,run out,2,3.0,0,22,1,7.33
+422992,Ankit Sharma,13 May 2014,v CSK,Ranchi,1,1,30,33,27,4,1,111.11,caught,2,4.0,0,20,2,5
+422992,Ankit Sharma,19 May 2014,v MI,Ahmedabad,2,6,4,3,3,0,0,133.33,caught,1,4.0,0,23,2,5.75
+422992,Ankit Sharma,25 May 2014,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+422992,Ankit Sharma,24 Mar 2015,v Rajasthan,Indore,2,8,13,14,12,1,1,108.33,caught,1,4.0,0,42,1,10.5
+422992,Ankit Sharma,25 Mar 2015,v Railways,Indore,1,8,12*,11,8,2,0,150,not out,2,4.0,0,33,0,8.25
+422992,Ankit Sharma,27 Mar 2015,v UP,Indore,1,8,1*,5,3,0,0,33.33,not out,2,3.0,0,14,1,4.66
+422992,Ankit Sharma,28 Mar 2015,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+422992,Ankit Sharma,19 Apr 2015,v CSK,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+422992,Ankit Sharma,1 May 2015,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+422992,Ankit Sharma,10 May 2015,v CSK,Chennai,2,10,0,6,1,0,0,0,caught,1,4.0,0,31,1,7.75
+422992,Ankit Sharma,20 May 2015,v RCB,Pune,2,10,7*,12,5,1,0,140,not out,1,3.0,0,28,0,9.33
+422992,Ankit Sharma,2 Jan 2016,v Andhra,Vadodara,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422992,Ankit Sharma,3 Jan 2016,v Goa,Vadodara,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+422992,Ankit Sharma,4 Jan 2016,v Delhi,Vadodara,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,1,5
+422992,Ankit Sharma,6 Jan 2016,v Railways,Vadodara,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+422992,Ankit Sharma,7 Jan 2016,v Baroda,Vadodara,2,3,5,10,7,1,0,71.42,caught,1,4.0,0,34,2,8.5
+422992,Ankit Sharma,17 Apr 2016,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+422992,Ankit Sharma,22 Apr 2016,v RCB,Pune,2,9,3*,7,3,0,0,100,not out,1,4.0,0,31,0,7.75
+422992,Ankit Sharma,24 Apr 2016,v KKR,Pune,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+422992,Ankit Sharma,29 Jan 2017,v Railways,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+422992,Ankit Sharma,30 Jan 2017,v Rajasthan,Jaipur,1,8,8,21,13,1,0,61.53,bowled,2,3.0,0,24,0,8
+422992,Ankit Sharma,3 Feb 2017,v UP,Jaipur,1,7,15,13,12,3,0,125,bowled,2,4.0,0,27,2,6.75
+422992,Ankit Sharma,4 Feb 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+422992,Ankit Sharma,6 Feb 2017,v Vidarbha,Jaipur,1,7,7*,10,5,0,0,140,not out,2,4.0,0,28,0,7
+422992,Ankit Sharma,14 Apr 2017,v Guj Lions,Rajkot,1,7,25,23,15,2,1,166.66,caught,2,1.0,0,16,0,16
+422992,Ankit Sharma,8 Jan 2018,v Rajasthan,Raipur,2,8,10,22,14,0,0,71.42,bowled,1,3.0,0,17,1,5.66
+422992,Ankit Sharma,10 Jan 2018,v UP,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+422992,Ankit Sharma,14 Jan 2018,v Chhattisgarh,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+422992,Ankit Sharma,15 Jan 2018,v Railways,Raipur,1,7,5,15,6,1,0,83.33,caught,2,4.0,0,28,1,7
+422992,Ankit Sharma,11 May 2018,v CSK,Jaipur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+422992,Ankit Sharma,9 Nov 2019,v Assam,Mumbai,2,7,0*,-,0,0,0,-,not out,1,4.0,0,10,2,2.5
+422992,Ankit Sharma,11 Nov 2019,v Mumbai,Wankhede,1,7,3*,-,2,0,0,150,not out,2,4.0,0,49,0,12.25
+422992,Ankit Sharma,12 Nov 2019,v Mizoram,Mumbai,1,7,0*,-,0,0,0,-,not out,2,4.0,0,21,1,5.25
+422992,Ankit Sharma,17 Nov 2019,v Haryana,Mumbai,1,7,1,-,2,0,0,50,caught,2,4.0,0,27,0,6.75
+422992,Ankit Sharma,18 Nov 2019,v Puducherry,Wankhede,1,7,0*,-,1,0,0,0,not out,2,3.0,0,16,0,5.33
+422992,Ankit Sharma,11 Jan 2021,v Goa,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+422992,Ankit Sharma,13 Jan 2021,v Rajasthan,Indore,2,8,13,-,25,0,0,52,caught,1,2.0,0,33,0,16.5
+422992,Ankit Sharma,15 Jan 2021,v Vidarbha,Indore,1,7,8,-,4,0,1,200,bowled,2,4.0,0,21,2,5.25
+422992,Ankit Sharma,17 Jan 2021,v Saurashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+422992,Ankit Sharma,19 Jan 2021,v Services,Indore,1,8,11*,-,4,0,1,275,not out,2,4.0,0,28,1,7
+422992,Ankit Sharma,11 Oct 2022,v UP,Jaipur,1,7,11,-,14,1,0,78.57,caught,2,3.3,0,26,0,7.42
+422992,Ankit Sharma,12 Oct 2022,v Hyderabad,Jaipur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+422992,Ankit Sharma,14 Oct 2022,v Manipur,Jaipur,2,6,8,-,9,0,0,88.88,run out,1,4.0,0,32,1,8
+422992,Ankit Sharma,16 Oct 2022,v Delhi,Jaipur,1,5,16,-,17,1,0,94.11,run out,2,4.0,0,32,1,8
+422992,Ankit Sharma,18 Oct 2022,v Tripura,Jaipur,2,5,25,-,23,3,0,108.69,caught,1,4.0,0,19,2,4.75
+422992,Ankit Sharma,20 Oct 2022,v Punjab,Jaipur,1,5,23*,-,30,1,0,76.66,not out,2,1.0,0,13,0,13
+422992,Ankit Sharma,22 Oct 2022,v Goa,Jaipur,1,8,3,-,7,0,0,42.85,caught,2,3.4,0,34,2,9.27
+422992,Ankit Sharma,23 Nov 2024,v Chandigarh,Visakhapatnam,1,5,24,-,19,0,2,126.31,caught,2,4.0,1,26,1,6.5
+422992,Ankit Sharma,25 Nov 2024,v Chhattisgarh,Visakhapatnam,2,6,13*,-,7,3,0,185.71,not out,1,1.0,0,12,0,12
+422992,Ankit Sharma,27 Nov 2024,v Vidarbha,Vizianagaram,1,4,40,-,36,4,1,111.11,caught,2,3.0,0,19,2,6.33
+422992,Ankit Sharma,29 Nov 2024,v Odisha,Visakhapatnam,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,2,13.5
+422992,Ankit Sharma,1 Dec 2024,v Assam,Vizianagaram,1,5,3*,-,3,0,0,100,not out,2,2.0,0,26,1,13
+422992,Ankit Sharma,5 Dec 2024,v Railways,Visakhapatnam,1,7,15,-,13,1,1,115.38,caught,2,2.0,0,40,0,20
+422992,Ankit Sharma,26 Nov 2025,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+422992,Ankit Sharma,28 Nov 2025,v Railways,Lucknow,2,9,15*,-,11,2,0,136.36,not out,1,4.0,0,27,0,6.75
+422992,Ankit Sharma,30 Nov 2025,v Chhattisgarh,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+422992,Ankit Sharma,2 Dec 2025,v Vidarbha,Lucknow,1,8,8,-,7,1,0,114.28,caught,2,1.0,0,11,0,11

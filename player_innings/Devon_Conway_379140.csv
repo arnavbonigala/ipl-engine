@@ -1,0 +1,232 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+379140,Devon Conway,2 Feb 2011,v Knights,Bloemfontein,1,2,12,11,11,2,0,109.09,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,4 Feb 2011,v Warriors,East London,1,2,18,15,16,2,1,112.5,caught,2,DNB,-,-,-,-
+379140,Devon Conway,11 Feb 2011,v Cape Cobras,Durban,1,2,62*,80,60,7,0,103.33,not out,2,DNB,-,-,-,-
+379140,Devon Conway,13 Feb 2011,v Titans,Centurion,1,2,0,1,0,0,0,-,run out,2,2.1,0,10,1,4.61
+379140,Devon Conway,20 Feb 2011,v Lions,Durban,2,2,0,3,4,0,0,0,caught,1,1.0,0,13,0,13
+379140,Devon Conway,25 Feb 2011,v Warriors,Gqeberha,1,2,16,27,22,2,0,72.72,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,20 Nov 2011,v E. Province,Pietermaritzburg,1,1,17,26,19,3,0,89.47,caught,2,2.0,0,19,1,9.5
+379140,Devon Conway,8 Jan 2012,v Border,Pietermaritzburg,1,2,69,52,45,7,1,153.33,run out,2,DNB,-,-,-,-
+379140,Devon Conway,15 Jan 2012,v KZ-Natal,Durban,2,1,10,10,11,1,0,90.9,stumped,1,DNB,-,-,-,-
+379140,Devon Conway,20 Jan 2013,v KZN-Inland,Pietermaritzburg,1,4,36,35,33,3,0,109.09,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,17 Feb 2013,v Border,Johannesburg,2,3,17,35,28,2,0,60.71,lbw,1,DNB,-,-,-,-
+379140,Devon Conway,24 Feb 2013,v W Province,Johannesburg,2,3,24,36,18,1,2,133.33,caught,1,DNB,-,-,-,-
+379140,Devon Conway,17 Mar 2013,v E. Province,Johannesburg,1,3,65,72,55,3,3,118.18,caught,2,DNB,-,-,-,-
+379140,Devon Conway,24 Mar 2013,v KZ-Natal,Johannesburg,2,3,15,20,15,0,1,100,caught,1,DNB,-,-,-,-
+379140,Devon Conway,7 Apr 2013,v Boland,Paarl,2,3,29,42,26,4,0,111.53,bowled,1,1.0,0,4,0,4
+379140,Devon Conway,26 Jan 2014,v Griq West,Kimberley,1,3,48*,56,33,2,2,145.45,not out,2,3.0,0,23,0,7.66
+379140,Devon Conway,2 Feb 2014,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+379140,Devon Conway,9 Feb 2014,v North West,Johannesburg,1,3,53*,77,51,6,1,103.92,not out,2,DNB,-,-,-,-
+379140,Devon Conway,16 Feb 2014,v Free State,Johannesburg,1,3,3,21,10,0,0,30,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,23 Mar 2014,v Northerns,Centurion,1,4,1,6,4,0,0,25,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,19 Oct 2014,v North West,Potchefstroom,1,3,55*,46,38,2,4,144.73,not out,2,DNB,-,-,-,-
+379140,Devon Conway,9 Nov 2014,v KZ-Natal,Johannesburg,1,3,85,64,51,6,5,166.66,caught,2,DNB,-,-,-,-
+379140,Devon Conway,30 Nov 2014,v Border,Johannesburg,1,3,13,23,11,0,1,118.18,run out,2,DNB,-,-,-,-
+379140,Devon Conway,14 Dec 2014,v Griq West,Kimberley,2,4,38*,38,25,6,0,152,not out,1,DNB,-,-,-,-
+379140,Devon Conway,26 Sep 2015,v S West D,Bloemfontein,2,3,4,17,10,1,0,40,caught,1,3.0,0,16,1,5.33
+379140,Devon Conway,26 Sep 2015,v Kenya,Bloemfontein,2,3,7,13,7,1,0,100,bowled,1,3.0,0,36,0,12
+379140,Devon Conway,27 Sep 2015,v Free State,Bloemfontein,2,3,42,73,51,5,0,82.35,caught,1,2.0,0,20,0,10
+379140,Devon Conway,1 Nov 2015,v Cape Cobras,Cape Town,2,2,24,33,26,3,0,92.3,caught,1,DNB,-,-,-,-
+379140,Devon Conway,4 Nov 2015,v Dolphins,Durban,2,2,63,70,46,5,2,136.95,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,6 Nov 2015,v Titans,Potchefstroom,1,2,1,15,7,0,0,14.28,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,13 Nov 2015,v Warriors,Gqeberha,2,2,23,28,18,2,1,127.77,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,15 Nov 2015,v Knights,Bloemfontein,1,2,17,38,24,1,0,70.83,run out,2,DNB,-,-,-,-
+379140,Devon Conway,22 Nov 2015,v Dolphins,Johannesburg,1,2,28,47,29,4,0,96.55,caught,2,DNB,-,-,-,-
+379140,Devon Conway,25 Nov 2015,v Knights,Potchefstroom,2,2,36,38,34,5,1,105.88,caught,1,DNB,-,-,-,-
+379140,Devon Conway,29 Nov 2015,v Cape Cobras,Johannesburg,1,1,37,45,36,5,0,102.77,caught,2,DNB,-,-,-,-
+379140,Devon Conway,4 Dec 2015,v Titans,Benoni,2,2,0,3,5,0,0,0,caught,1,DNB,-,-,-,-
+379140,Devon Conway,6 Dec 2015,v Warriors,Johannesburg,1,5,20,-,23,1,0,86.95,caught,2,DNB,-,-,-,-
+379140,Devon Conway,23 Sep 2016,v E. Province,Paarl,2,3,65,60,42,9,0,154.76,caught,1,DNB,-,-,-,-
+379140,Devon Conway,24 Sep 2016,v KZ-Natal,Paarl,2,3,45*,55,43,2,1,104.65,not out,1,DNB,-,-,-,-
+379140,Devon Conway,16 Nov 2016,v Dolphins,Durban,2,4,22,16,16,3,0,137.5,caught,1,DNB,-,-,-,-
+379140,Devon Conway,20 Nov 2016,v Cape Cobras,Potchefstroom,1,5,11,18,10,0,1,110,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,25 Nov 2016,v Warriors,Gqeberha,1,4,6,10,8,0,0,75,run out,2,DNB,-,-,-,-
+379140,Devon Conway,27 Nov 2016,v Dolphins,Johannesburg,1,5,13,23,15,1,0,86.66,caught,2,DNB,-,-,-,-
+379140,Devon Conway,20 Dec 2017,v Northern Dis,Wellington,2,2,53,-,36,7,1,147.22,caught,1,DNB,-,-,-,-
+379140,Devon Conway,24 Dec 2017,v Auckland,Auckland,1,6,19,-,11,1,1,172.72,caught,2,DNB,-,-,-,-
+379140,Devon Conway,28 Dec 2017,v Canterbury,Wellington,2,6,6*,-,3,1,0,200,not out,1,DNB,-,-,-,-
+379140,Devon Conway,31 Dec 2017,v Otago,Wellington,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,7 Jan 2018,v Canterbury,Christchurch,2,6,6,-,10,1,0,60,caught,1,DNB,-,-,-,-
+379140,Devon Conway,12 Jan 2018,v Central D,New Plymouth,2,6,49,-,34,6,2,144.11,run out,1,DNB,-,-,-,-
+379140,Devon Conway,14 Jan 2018,v Central D,Wellington,2,6,32*,-,23,1,2,139.13,not out,1,DNB,-,-,-,-
+379140,Devon Conway,22 Dec 2018,v Northern Dis,Hamilton,2,2,45,31,23,8,1,195.65,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,28 Dec 2018,v Otago,Wellington,2,1,47,49,37,6,0,127.02,run out,1,DNB,-,-,-,-
+379140,Devon Conway,31 Dec 2018,v Central D,New Plymouth,2,2,44,43,37,7,0,118.91,caught,1,DNB,-,-,-,-
+379140,Devon Conway,6 Jan 2019,v Canterbury,Wellington,1,1,25,40,21,4,0,119.04,caught,2,DNB,-,-,-,-
+379140,Devon Conway,12 Jan 2019,v Northern Dis,Wellington,2,2,14,24,15,3,0,93.33,caught,1,DNB,-,-,-,-
+379140,Devon Conway,18 Jan 2019,v Auckland,Wellington,1,1,33,40,28,4,0,117.85,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Jan 2019,v Otago,Dunedin,1,2,105*,92,60,10,5,175,not out,2,DNB,-,-,-,-
+379140,Devon Conway,1 Feb 2019,v Central D,Wellington,2,1,39,26,22,6,1,177.27,caught,1,DNB,-,-,-,-
+379140,Devon Conway,9 Feb 2019,v Canterbury,Christchurch,1,2,11,-,9,2,0,122.22,caught,2,DNB,-,-,-,-
+379140,Devon Conway,15 Dec 2019,v Canterbury,Christchurch,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+379140,Devon Conway,18 Dec 2019,v Central D,Wellington,2,1,2,12,10,0,0,20,caught,1,DNB,-,-,-,-
+379140,Devon Conway,21 Dec 2019,v Otago,Wellington,1,1,63*,85,48,7,0,131.25,not out,2,DNB,-,-,-,-
+379140,Devon Conway,27 Dec 2019,v Central D,New Plymouth,1,1,89,-,50,11,4,178,caught,2,DNB,-,-,-,-
+379140,Devon Conway,30 Dec 2019,v Auckland,Auckland,2,1,78*,-,54,9,1,144.44,not out,1,DNB,-,-,-,-
+379140,Devon Conway,1 Jan 2020,v Northern Dis,Mount Maunganui,1,1,32,30,23,5,0,139.13,caught,2,DNB,-,-,-,-
+379140,Devon Conway,3 Jan 2020,v Northern Dis,Wellington,1,1,9,14,10,1,0,90,caught,2,DNB,-,-,-,-
+379140,Devon Conway,6 Jan 2020,v Otago,Dunedin,2,1,101*,72,49,15,3,206.12,not out,1,DNB,-,-,-,-
+379140,Devon Conway,9 Jan 2020,v Canterbury,Wellington,2,1,51,61,39,6,2,130.76,caught,1,DNB,-,-,-,-
+379140,Devon Conway,12 Jan 2020,v Auckland,Wellington,1,1,69,84,52,4,2,132.69,caught,2,DNB,-,-,-,-
+379140,Devon Conway,19 Jan 2020,v Auckland,Wellington,1,1,49,61,37,5,0,132.43,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Nov 2020,v West Indies,Auckland,2,3,41,67,29,5,1,141.37,caught,1,DNB,-,-,-,-
+379140,Devon Conway,29 Nov 2020,v West Indies,Mount Maunganui,1,3,65*,80,37,4,4,175.67,not out,2,DNB,-,-,-,-
+379140,Devon Conway,30 Nov 2020,v West Indies,Mount Maunganui,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,18 Dec 2020,v Pakistan,Auckland,2,3,5,9,4,1,0,125,caught,1,DNB,-,-,-,-
+379140,Devon Conway,20 Dec 2020,v Pakistan,Hamilton,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,22 Dec 2020,v Pakistan,Napier,1,4,63,75,45,7,1,140,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Dec 2020,v Central D,Napier,1,1,67,75,51,5,2,131.37,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Jan 2021,v Northern Dis,Mount Maunganui,2,1,13,21,15,1,0,86.66,caught,1,DNB,-,-,-,-
+379140,Devon Conway,9 Jan 2021,v Northern Dis,Wellington,1,2,45,61,35,5,0,128.57,stumped,2,DNB,-,-,-,-
+379140,Devon Conway,14 Jan 2021,v Otago,Dunedin,2,2,18,-,15,3,1,120,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,16 Jan 2021,v Canterbury,Christchurch,1,2,0,3,3,0,0,0,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,24 Jan 2021,v Otago,Wellington,2,2,9,13,5,2,0,180,caught,1,DNB,-,-,-,-
+379140,Devon Conway,25 Jan 2021,v Canterbury,Wellington,2,2,50,50,40,7,0,125,caught,1,DNB,-,-,-,-
+379140,Devon Conway,31 Jan 2021,v Central D,Wellington,2,2,69*,75,50,11,1,138,not out,1,DNB,-,-,-,-
+379140,Devon Conway,7 Feb 2021,v Auckland,Auckland,1,2,91*,103,58,7,4,156.89,not out,2,DNB,-,-,-,-
+379140,Devon Conway,13 Feb 2021,v Canterbury,Wellington,2,2,93*,99,63,11,1,147.61,not out,1,DNB,-,-,-,-
+379140,Devon Conway,22 Feb 2021,v Australia,Christchurch,1,4,99*,79,59,10,3,167.79,not out,2,DNB,-,-,-,-
+379140,Devon Conway,25 Feb 2021,v Australia,Dunedin,1,6,2,7,3,0,0,66.66,caught,2,DNB,-,-,-,-
+379140,Devon Conway,3 Mar 2021,v Australia,Wellington,2,4,38,38,27,5,1,140.74,caught,1,DNB,-,-,-,-
+379140,Devon Conway,5 Mar 2021,v Australia,Wellington,2,4,17,39,20,1,0,85,caught,1,DNB,-,-,-,-
+379140,Devon Conway,7 Mar 2021,v Australia,Wellington,2,1,36,53,28,3,1,128.57,caught,1,DNB,-,-,-,-
+379140,Devon Conway,28 Mar 2021,v Bangladesh,Hamilton,1,3,92*,91,52,11,3,176.92,not out,2,DNB,-,-,-,-
+379140,Devon Conway,30 Mar 2021,v Bangladesh,Napier,1,3,15,13,9,2,0,166.66,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Apr 2021,v Bangladesh,Auckland,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+379140,Devon Conway,25 Jun 2021,v Hampshire,Taunton,1,3,5,4,4,1,0,125,caught,2,DNB,-,-,-,-
+379140,Devon Conway,28 Jun 2021,v Kent,Canterbury,2,2,51*,66,44,6,0,115.9,not out,1,DNB,-,-,-,-
+379140,Devon Conway,29 Jun 2021,v Essex,Chelmsford,1,2,53,76,47,6,0,112.76,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Jul 2021,v Gloucs,Bristol,2,1,81*,75,65,12,0,124.61,not out,1,DNB,-,-,-,-
+379140,Devon Conway,2 Jul 2021,v Middlesex,Taunton,1,1,45,40,26,6,1,173.07,run out,2,DNB,-,-,-,-
+379140,Devon Conway,9 Jul 2021,v Hampshire,Southampton,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+379140,Devon Conway,16 Jul 2021,v Glamorgan,Cardiff,1,1,70*,82,52,9,1,134.61,not out,2,DNB,-,-,-,-
+379140,Devon Conway,18 Jul 2021,v Gloucs,Taunton,1,1,4,4,6,1,0,66.66,caught,2,DNB,-,-,-,-
+379140,Devon Conway,24 Jul 2021,v Rockets,Nottingham,1,2,18,-,21,2,0,85.71,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Jul 2021,v Fire,Cardiff,2,3,23,25,20,3,0,115,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,30 Jul 2021,v Phoenix,Southampton,2,3,34,44,27,2,1,125.92,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,1 Aug 2021,v Spirit,Lord's,1,4,22,21,18,3,0,122.22,caught,2,DNB,-,-,-,-
+379140,Devon Conway,26 Oct 2021,v Pakistan,Sharjah,1,5,27,40,24,3,0,112.5,caught,2,DNB,-,-,-,-
+379140,Devon Conway,31 Oct 2021,v India,Dubai (DICS),2,4,2*,10,4,0,0,50,not out,1,DNB,-,-,-,-
+379140,Devon Conway,3 Nov 2021,v Scotland,Dubai (DICS),1,4,1,11,3,0,0,33.33,caught,2,DNB,-,-,-,-
+379140,Devon Conway,5 Nov 2021,v Namibia,Sharjah,1,4,17,36,18,1,0,94.44,run out,2,DNB,-,-,-,-
+379140,Devon Conway,7 Nov 2021,v Afghanistan,Abu Dhabi,2,4,36*,42,32,4,0,112.5,not out,1,DNB,-,-,-,-
+379140,Devon Conway,10 Nov 2021,v England,Abu Dhabi,2,4,46,53,38,5,1,121.05,stumped,1,DNB,-,-,-,-
+379140,Devon Conway,20 Jan 2022,v Auckland,Auckland,2,2,7,6,5,1,0,140,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,24 Jan 2022,v Northern Dis,Wellington,1,2,0,8,3,0,0,0,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Jan 2022,v Canterbury,Dunedin,1,2,74*,88,52,5,2,142.3,not out,2,DNB,-,-,-,-
+379140,Devon Conway,26 Mar 2022,v KKR,Wankhede,1,2,3,25,8,0,0,37.5,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 May 2022,v SRH,Pune,1,2,85*,97,55,8,4,154.54,not out,2,DNB,-,-,-,-
+379140,Devon Conway,4 May 2022,v RCB,Pune,2,2,56,63,37,6,2,151.35,caught,1,DNB,-,-,-,-
+379140,Devon Conway,8 May 2022,v DC,DY Patil,1,2,87,87,49,7,5,177.55,caught,2,DNB,-,-,-,-
+379140,Devon Conway,12 May 2022,v MI,Wankhede,1,2,0,4,1,0,0,0,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,15 May 2022,v GT,Wankhede,1,2,5,14,9,0,0,55.55,caught,2,DNB,-,-,-,-
+379140,Devon Conway,20 May 2022,v RR,Brabourne,1,2,16,39,14,1,1,114.28,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,10 Aug 2022,v West Indies,Kingston,1,2,43,36,29,4,2,148.27,caught,2,DNB,-,-,-,-
+379140,Devon Conway,12 Aug 2022,v West Indies,Kingston,1,2,42,58,34,2,3,123.52,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,14 Aug 2022,v West Indies,Kingston,1,2,21,39,17,1,1,123.52,caught,2,DNB,-,-,-,-
+379140,Devon Conway,8 Oct 2022,v Pakistan,Christchurch,1,2,36,55,35,2,2,102.85,caught,2,DNB,-,-,-,-
+379140,Devon Conway,9 Oct 2022,v Bangladesh,Christchurch,2,2,70*,88,51,7,1,137.25,not out,1,DNB,-,-,-,-
+379140,Devon Conway,11 Oct 2022,v Pakistan,Christchurch,2,2,49*,72,46,5,0,106.52,not out,1,DNB,-,-,-,-
+379140,Devon Conway,12 Oct 2022,v Bangladesh,Christchurch,1,2,64,77,40,5,3,160,caught,2,DNB,-,-,-,-
+379140,Devon Conway,14 Oct 2022,v Pakistan,Christchurch,1,2,14,25,17,2,0,82.35,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,22 Oct 2022,v Australia,Sydney,1,2,92*,106,58,7,2,158.62,not out,2,DNB,-,-,-,-
+379140,Devon Conway,29 Oct 2022,v Sri Lanka,Sydney,1,2,1,14,4,0,0,25,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,1 Nov 2022,v England,Brisbane,2,2,3,12,9,0,0,33.33,caught,1,DNB,-,-,-,-
+379140,Devon Conway,4 Nov 2022,v Ireland,Adelaide,1,2,28,55,33,2,0,84.84,caught,2,DNB,-,-,-,-
+379140,Devon Conway,9 Nov 2022,v Pakistan,Sydney,1,2,21,35,20,3,0,105,run out,2,DNB,-,-,-,-
+379140,Devon Conway,20 Nov 2022,v India,Mount Maunganui,2,2,25,43,22,3,0,113.63,caught,1,DNB,-,-,-,-
+379140,Devon Conway,22 Nov 2022,v India,Napier,1,2,59,82,49,5,2,120.4,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Jan 2023,v India,Ranchi,1,2,52,81,35,7,1,148.57,caught,2,DNB,-,-,-,-
+379140,Devon Conway,29 Jan 2023,v India,Lucknow,1,2,11,26,14,1,0,78.57,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Feb 2023,v India,Ahmedabad,2,2,1,8,2,0,0,50,caught,1,DNB,-,-,-,-
+379140,Devon Conway,31 Mar 2023,v GT,Ahmedabad,1,1,1,-,6,0,0,16.66,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,3 Apr 2023,v LSG,Chennai,1,2,47,62,29,5,2,162.06,caught,2,DNB,-,-,-,-
+379140,Devon Conway,8 Apr 2023,v MI,Wankhede,2,1,0,4,4,0,0,0,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,12 Apr 2023,v RR,Chennai,2,2,50,82,38,6,0,131.57,caught,1,DNB,-,-,-,-
+379140,Devon Conway,17 Apr 2023,v RCB,Bengaluru,1,2,83,73,45,6,6,184.44,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,21 Apr 2023,v SRH,Chennai,2,2,77*,84,57,12,1,135.08,not out,1,DNB,-,-,-,-
+379140,Devon Conway,23 Apr 2023,v KKR,Eden Gardens,1,2,56,56,40,4,3,140,caught,2,DNB,-,-,-,-
+379140,Devon Conway,27 Apr 2023,v RR,Jaipur,2,2,8,28,16,1,0,50,caught,1,DNB,-,-,-,-
+379140,Devon Conway,30 Apr 2023,v Punjab Kings,Chennai,1,2,92*,103,52,16,1,176.92,not out,2,DNB,-,-,-,-
+379140,Devon Conway,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,6 May 2023,v MI,Chennai,2,2,44,83,42,4,0,104.76,lbw,1,DNB,-,-,-,-
+379140,Devon Conway,10 May 2023,v DC,Chennai,1,2,10,28,13,1,0,76.92,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,14 May 2023,v KKR,Chennai,1,2,30,51,28,3,0,107.14,caught,2,DNB,-,-,-,-
+379140,Devon Conway,20 May 2023,v DC,Delhi,1,2,87,90,52,11,3,167.3,caught,2,DNB,-,-,-,-
+379140,Devon Conway,23 May 2023,v GT,Chennai,1,2,40,74,34,4,0,117.64,caught,2,DNB,-,-,-,-
+379140,Devon Conway,28 May 2023,v GT,Ahmedabad,2,2,47,34,25,4,2,188,caught,1,DNB,-,-,-,-
+379140,Devon Conway,1 Aug 2023,v Rockets,Nottingham,2,2,16,27,15,2,0,106.66,caught,1,DNB,-,-,-,-
+379140,Devon Conway,4 Aug 2023,v Fire,Southampton,1,2,4,8,4,0,0,100,caught,2,DNB,-,-,-,-
+379140,Devon Conway,6 Aug 2023,v N S-Chargers,Southampton,2,1,15,25,16,2,0,93.75,caught,1,DNB,-,-,-,-
+379140,Devon Conway,8 Aug 2023,v Spirit,Lord's,1,2,0,4,3,0,0,0,caught,-,TDNB,-,-,-,-
+379140,Devon Conway,12 Aug 2023,v Fire,Cardiff,2,2,35*,41,25,5,0,140,not out,1,DNB,-,-,-,-
+379140,Devon Conway,16 Aug 2023,v Phoenix,Southampton,2,2,24,40,25,2,0,96,run out,1,DNB,-,-,-,-
+379140,Devon Conway,19 Aug 2023,v Invincibles,Southampton,2,2,16,15,11,2,1,145.45,caught,1,DNB,-,-,-,-
+379140,Devon Conway,23 Aug 2023,v Originals,Manchester,2,2,54*,70,40,5,1,135,not out,1,DNB,-,-,-,-
+379140,Devon Conway,26 Aug 2023,v Originals,The Oval,1,2,51*,78,38,4,1,134.21,not out,2,DNB,-,-,-,-
+379140,Devon Conway,30 Aug 2023,v England,Chester-le-Street,1,2,3,16,8,0,0,37.5,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Sep 2023,v England,Manchester,2,2,2,7,5,0,0,40,caught,1,DNB,-,-,-,-
+379140,Devon Conway,3 Sep 2023,v England,Birmingham,1,2,9,18,7,1,0,128.57,run out,2,DNB,-,-,-,-
+379140,Devon Conway,8 Jan 2024,v Central D,Napier,2,2,2,15,5,0,0,40,caught,1,DNB,-,-,-,-
+379140,Devon Conway,12 Jan 2024,v Pakistan,Auckland,1,2,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+379140,Devon Conway,14 Jan 2024,v Pakistan,Hamilton,1,2,20,26,15,3,0,133.33,caught,2,DNB,-,-,-,-
+379140,Devon Conway,17 Jan 2024,v Pakistan,Dunedin,1,2,7,17,8,1,0,87.5,caught,2,DNB,-,-,-,-
+379140,Devon Conway,26 Jan 2024,v Canterbury,Hamilton,1,1,23,41,23,2,0,100,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,21 Feb 2024,v Australia,Wellington,1,2,63,74,46,5,2,136.95,caught,2,DNB,-,-,-,-
+379140,Devon Conway,23 Feb 2024,v Australia,Auckland,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,7 Jun 2024,v Afghanistan,Providence,2,2,8,16,10,1,0,80,caught,1,DNB,-,-,-,-
+379140,Devon Conway,12 Jun 2024,v West Indies,Tarouba,2,1,5,13,8,0,0,62.5,caught,1,DNB,-,-,-,-
+379140,Devon Conway,14 Jun 2024,v Uganda,Tarouba,2,2,22*,31,15,4,0,146.66,not out,1,DNB,-,-,-,-
+379140,Devon Conway,17 Jun 2024,v P.N.G.,Tarouba,2,2,35,45,32,2,3,109.37,lbw,1,DNB,-,-,-,-
+379140,Devon Conway,5 Jul 2024,v Los Angeles,Dallas,2,1,53,-,39,4,2,135.89,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,8 Jul 2024,v Washington,Morrisville,1,1,39,-,26,3,1,150,caught,2,DNB,-,-,-,-
+379140,Devon Conway,10 Jul 2024,v SF,Morrisville,2,1,32*,-,19,5,0,168.42,retired notout,1,DNB,-,-,-,-
+379140,Devon Conway,14 Jul 2024,v MI New York,Dallas,1,1,40,-,28,3,1,142.85,caught,2,DNB,-,-,-,-
+379140,Devon Conway,19 Jul 2024,v Washington,Dallas,2,1,16,-,10,3,0,160,lbw,1,DNB,-,-,-,-
+379140,Devon Conway,23 Jul 2024,v Seattle,Dallas,1,1,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,24 Jul 2024,v MI New York,Dallas,2,1,51*,-,43,3,1,118.6,not out,1,DNB,-,-,-,-
+379140,Devon Conway,26 Jul 2024,v SF,Dallas,2,1,62*,-,38,4,2,163.15,not out,1,DNB,-,-,-,-
+379140,Devon Conway,11 Jan 2025,v MI Cape Town,Johannesburg,2,1,9,12,8,1,0,112.5,caught,1,DNB,-,-,-,-
+379140,Devon Conway,14 Jan 2025,v Super Giants,Durban,1,2,22,30,19,2,1,115.78,caught,2,DNB,-,-,-,-
+379140,Devon Conway,16 Jan 2025,v Capitals,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,18 Jan 2025,v MI Cape Town,Cape Town,1,1,35,50,31,4,0,112.9,stumped,2,DNB,-,-,-,-
+379140,Devon Conway,20 Jan 2025,v Paarl Royals,Paarl,1,1,7,10,6,1,0,116.66,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,24 Jan 2025,v Sunrisers,Gqeberha,2,1,43,59,40,5,0,107.5,caught,1,DNB,-,-,-,-
+379140,Devon Conway,26 Jan 2025,v Sunrisers,Johannesburg,2,1,76*,63,56,11,3,135.71,not out,1,DNB,-,-,-,-
+379140,Devon Conway,28 Jan 2025,v Capitals,Centurion,1,2,9,49,10,2,0,90,caught,2,DNB,-,-,-,-
+379140,Devon Conway,30 Jan 2025,v Paarl Royals,Johannesburg,2,1,20,36,25,3,0,80,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,1 Feb 2025,v Super Giants,Johannesburg,2,3,21,46,24,2,0,87.5,caught,1,DNB,-,-,-,-
+379140,Devon Conway,5 Feb 2025,v Sunrisers,Centurion,2,1,30,23,20,6,0,150,caught,1,DNB,-,-,-,-
+379140,Devon Conway,5 Apr 2025,v DC,Chennai,2,2,13,32,14,1,0,92.85,caught,1,DNB,-,-,-,-
+379140,Devon Conway,8 Apr 2025,v Punjab Kings,New Chandigarh,2,2,69,88,49,6,2,140.81,retired out,1,DNB,-,-,-,-
+379140,Devon Conway,11 Apr 2025,v KKR,Chennai,1,2,12,16,11,2,0,109.09,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,7 May 2025,v KKR,Eden Gardens,2,2,0,10,2,0,0,0,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,20 May 2025,v RR,Delhi,1,2,10,7,8,2,0,125,caught,2,DNB,-,-,-,-
+379140,Devon Conway,25 May 2025,v GT,Ahmedabad,1,2,52,66,35,6,2,148.57,bowled,2,sub,-,-,-,-
+379140,Devon Conway,13 Jun 2025,v MI New York,Oakland,1,1,65,-,44,2,5,147.72,run out,2,DNB,-,-,-,-
+379140,Devon Conway,15 Jun 2025,v Los Angeles,Oakland,1,1,34,-,22,4,1,154.54,caught,2,DNB,-,-,-,-
+379140,Devon Conway,16 Jun 2025,v Seattle,Oakland,1,1,13,-,17,2,0,76.47,lbw,2,DNB,-,-,-,-
+379140,Devon Conway,20 Jun 2025,v SF,Dallas,1,1,23,-,23,1,0,100,caught,2,DNB,-,-,-,-
+379140,Devon Conway,16 Jul 2025,v South Africa,Harare,1,2,9,21,7,2,0,128.57,caught,2,DNB,-,-,-,-
+379140,Devon Conway,18 Jul 2025,v Zimbabwe,Harare,2,2,59*,67,40,4,2,147.5,not out,1,DNB,-,-,-,-
+379140,Devon Conway,22 Jul 2025,v South Africa,Harare,2,1,19,24,18,3,0,105.55,caught,1,DNB,-,-,-,-
+379140,Devon Conway,26 Jul 2025,v South Africa,Harare,1,2,47,51,31,6,1,151.61,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Oct 2025,v Australia,Mount Maunganui,1,2,1,8,2,0,0,50,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,3 Oct 2025,v Australia,Mount Maunganui,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,4 Oct 2025,v Australia,Mount Maunganui,1,2,0,5,2,0,0,0,caught,2,DNB,-,-,-,-
+379140,Devon Conway,5 Nov 2025,v West Indies,Auckland,2,2,13,15,12,2,0,108.33,bowled,1,DNB,-,-,-,-
+379140,Devon Conway,6 Nov 2025,v West Indies,Auckland,1,2,16,35,24,0,1,66.66,bowled,2,DNB,-,-,-,-
+379140,Devon Conway,9 Nov 2025,v West Indies,Nelson,1,1,56,60,34,6,2,164.7,run out,2,DNB,-,-,-,-
+379140,Devon Conway,10 Nov 2025,v West Indies,Nelson,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+379140,Devon Conway,13 Nov 2025,v West Indies,Dunedin,2,2,47*,77,42,4,1,111.9,not out,1,DNB,-,-,-,-
+379140,Devon Conway,26 Dec 2025,v MI Cape Town,Cape Town,1,1,64,57,33,7,2,193.93,caught,2,DNB,-,-,-,-
+379140,Devon Conway,28 Dec 2025,v MI Cape Town,Durban,1,1,24*,-,13,1,2,184.61,not out,-,TDNB,-,-,-,-
+379140,Devon Conway,30 Dec 2025,v Super Kings,Durban,1,2,4,3,4,1,0,100,caught,2,DNB,-,-,-,-
+379140,Devon Conway,1 Jan 2026,v Super Kings,Johannesburg,2,1,19,-,14,2,1,135.71,caught,1,DNB,-,-,-,-
+379140,Devon Conway,3 Jan 2026,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+379140,Devon Conway,21 Jan 2026,v India,Nagpur,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+379140,Devon Conway,23 Jan 2026,v India,Raipur,1,1,19,17,9,3,1,211.11,caught,2,DNB,-,-,-,-
+379140,Devon Conway,25 Jan 2026,v India,Guwahati,1,1,1,2,2,0,0,50,caught,2,DNB,-,-,-,-
+379140,Devon Conway,28 Jan 2026,v India,Visakhapatnam,1,1,44,39,23,4,3,191.3,caught,2,DNB,-,-,-,-
+379140,Devon Conway,15 Mar 2026,v South Africa,Mount Maunganui,1,1,1,5,5,0,0,20,caught,2,DNB,-,-,-,-
+379140,Devon Conway,17 Mar 2026,v South Africa,Hamilton,1,1,60,75,49,5,2,122.44,caught,2,DNB,-,-,-,-

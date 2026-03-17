@@ -1,0 +1,54 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1176959,Akash Deep,9 Mar 2019,v Maharashtra,Indore,1,8,13,18,11,0,1,118.18,caught,2,4.0,0,21,2,5.25
+1176959,Akash Deep,10 Mar 2019,v Jharkhand,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+1176959,Akash Deep,12 Mar 2019,v Gujarat,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+1176959,Akash Deep,9 Nov 2019,v Mizoram,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,2,2.25
+1176959,Akash Deep,11 Nov 2019,v Meghalaya,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,0,6.66
+1176959,Akash Deep,12 Nov 2019,v Haryana,Mumbai,1,9,1*,-,3,0,0,33.33,not out,2,2.0,0,21,2,10.5
+1176959,Akash Deep,14 Nov 2019,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+1176959,Akash Deep,15 Nov 2019,v M. Pradesh,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+1176959,Akash Deep,17 Nov 2019,v Puducherry,Mumbai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+1176959,Akash Deep,18 Nov 2019,v Assam,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+1176959,Akash Deep,10 Jan 2021,v Odisha,Jadavpur Uni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+1176959,Akash Deep,12 Jan 2021,v Jharkhand,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,15,1,5
+1176959,Akash Deep,14 Jan 2021,v Hyderabad,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,4,8.75
+1176959,Akash Deep,16 Jan 2021,v Assam,Eden Gardens,2,8,0,-,1,0,0,0,caught,1,4.0,0,37,0,9.25
+1176959,Akash Deep,18 Jan 2021,v Tamil Nadu,Eden Gardens,1,9,5,-,3,1,0,166.66,run out,2,3.0,0,28,0,9.33
+1176959,Akash Deep,4 Nov 2021,v Chhattisgarh,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+1176959,Akash Deep,5 Nov 2021,v Baroda,Guwahati,1,9,12*,-,6,0,1,200,not out,2,3.0,0,29,1,9.66
+1176959,Akash Deep,6 Nov 2021,v Mumbai,Guwahati,2,8,5*,-,7,0,0,71.42,not out,1,3.0,0,23,0,7.66
+1176959,Akash Deep,8 Nov 2021,v Services,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,1,2.5
+1176959,Akash Deep,9 Nov 2021,v Karnataka,Guwahati,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1176959,Akash Deep,18 Nov 2021,v Karnataka,Delhi,2,9,6,-,3,1,0,200,run out,1,4.0,0,23,1,5.75
+1176959,Akash Deep,27 Mar 2022,v Punjab Kings,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.0,0,38,1,12.66
+1176959,Akash Deep,30 Mar 2022,v KKR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,3.5,0,45,3,11.73
+1176959,Akash Deep,5 Apr 2022,v RR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+1176959,Akash Deep,9 Apr 2022,v MI,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,1,5
+1176959,Akash Deep,12 Apr 2022,v CSK,DY Patil,2,9,0,2,2,0,0,0,caught,1,4.0,0,58,0,14.5
+1176959,Akash Deep,14 Oct 2022,v Odisha,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,1,3.33
+1176959,Akash Deep,16 Oct 2022,v Tamil Nadu,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1176959,Akash Deep,18 Oct 2022,v Sikkim,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,1,5.33
+1176959,Akash Deep,20 Oct 2022,v Chhattisgarh,Lucknow,1,-,DNB,-,-,-,-,-,-,2,3.5,0,18,2,4.69
+1176959,Akash Deep,22 Oct 2022,v Chandigarh,Lucknow,1,10,1*,-,1,0,0,100,not out,2,3.0,0,14,1,4.66
+1176959,Akash Deep,1 Nov 2022,v Himachal,Kolkata,1,-,DNB,-,-,-,-,-,-,2,3.0,0,44,1,14.66
+1176959,Akash Deep,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+1176959,Akash Deep,6 Apr 2023,v KKR,Eden Gardens,2,11,17,14,8,2,1,212.5,caught,1,2.0,0,30,0,15
+1176959,Akash Deep,16 Oct 2023,v Maharashtra,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1176959,Akash Deep,17 Oct 2023,v Rajasthan,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+1176959,Akash Deep,19 Oct 2023,v Puducherry,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+1176959,Akash Deep,21 Oct 2023,v Vidarbha,Mohali,1,9,8,-,3,2,0,266.66,caught,2,3.0,0,43,1,14.33
+1176959,Akash Deep,23 Oct 2023,v Uttarakhand,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+1176959,Akash Deep,25 Oct 2023,v Jharkhand,New Chandigarh,1,10,1*,-,1,0,0,100,not out,2,4.0,0,23,1,5.75
+1176959,Akash Deep,31 Oct 2023,v Assam,Mohali,1,10,7*,-,3,0,1,233.33,not out,2,3.5,0,32,0,8.34
+1176959,Akash Deep,11 Apr 2024,v MI,Wankhede,1,10,2*,10,2,0,0,100,not out,2,3.3,0,55,1,15.71
+1176959,Akash Deep,4 Apr 2025,v MI,Lucknow,1,9,0,1,1,0,0,0,caught,2,4.0,0,46,1,11.5
+1176959,Akash Deep,8 Apr 2025,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,55,2,13.75
+1176959,Akash Deep,12 Apr 2025,v GT,Lucknow,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+1176959,Akash Deep,14 Apr 2025,v CSK,Lucknow,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+1176959,Akash Deep,19 May 2025,v SRH,Lucknow,1,9,6*,2,1,0,1,600,not out,2,3.0,0,33,0,11
+1176959,Akash Deep,22 May 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,0,12.25
+1176959,Akash Deep,30 Nov 2025,v Punjab,Hyderabad,2,10,31,-,7,0,5,442.85,caught,1,4.0,0,55,2,13.75
+1176959,Akash Deep,2 Dec 2025,v Himachal,Hyderabad,2,7,17*,-,5,4,0,340,not out,1,2.0,0,35,0,17.5
+1176959,Akash Deep,4 Dec 2025,v Services,Hyderabad,2,5,14*,-,5,0,2,280,not out,1,4.0,0,27,3,6.75
+1176959,Akash Deep,6 Dec 2025,v Puducherry,Hyderabad,2,9,0,-,1,0,0,0,bowled,1,4.0,0,20,0,5
+1176959,Akash Deep,8 Dec 2025,v Haryana,Hyderabad,2,9,5,-,7,0,0,71.42,run out,1,4.0,0,32,2,8

@@ -1,0 +1,165 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+43906,Hashim Amla,7 Apr 2004,v WP Boland,Cape Town,1,5,1,5,5,0,0,20,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,11 Apr 2004,v Eagles,Durban,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+43906,Hashim Amla,16 Apr 2004,v Lions,Johannesburg,2,2,2,12,8,0,0,25,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,21 Apr 2004,v Eastern Cape,Durban,2,1,32,33,33,6,0,96.96,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,23 Apr 2004,v Titans,Durban,2,1,35,48,36,5,0,97.22,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,30 Mar 2005,v Eagles,Bloemfontein,2,4,13,37,15,1,0,86.66,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,6 Apr 2005,v Lions,Durban,1,1,56,40,39,8,0,143.58,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,10 Apr 2005,v Titans,Benoni,1,1,4,22,13,0,0,30.76,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,13 Apr 2005,v Warriors,Gqeberha,1,1,0,2,4,0,0,0,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,15 Apr 2005,v WP Boland,Durban,2,1,13,11,12,2,0,108.33,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,18 Jan 2006,v Titans,Durban,2,1,19,15,15,4,0,126.66,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,20 Jan 2006,v Cape Cobras,Cape Town,2,2,19,32,23,2,0,82.6,stumped,1,DNB,-,-,-,-
+43906,Hashim Amla,3 Feb 2006,v Eagles,Durban,1,3,26,46,18,4,0,144.44,stumped,2,DNB,-,-,-,-
+43906,Hashim Amla,5 Feb 2006,v Lions,Potchefstroom,2,5,9,6,6,0,1,150,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,28 Feb 2007,v Lions,Durban,1,3,36,29,30,4,0,120,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,9 Mar 2007,v Cape Cobras,Durban,1,3,57,39,38,4,1,150,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,11 Mar 2007,v Eagles,Bloemfontein,2,4,17,37,19,2,0,89.47,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,14 Mar 2007,v Titans,Benoni,2,3,38,32,22,6,1,172.72,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,18 Apr 2008,v Eagles,Durban,2,3,34,33,23,3,1,147.82,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,25 Apr 2008,v Titans,Durban,2,3,4,2,3,1,0,133.33,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Jan 2009,v Australia,Brisbane,1,1,26,28,26,1,1,100,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,8 Feb 2009,v Lions,Durban,2,1,28,43,32,3,0,87.5,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Feb 2009,v Cape Cobras,Cape Town,1,3,2,5,4,0,0,50,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,15 Feb 2009,v Cape Cobras,Durban,2,3,23,22,18,3,1,127.77,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,18 Feb 2009,v Cape Cobras,Durban,2,3,35,49,30,4,0,116.66,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,27 Mar 2009,v Australia,Johannesburg,2,1,26,38,24,3,0,108.33,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,9 Jan 2011,v India,Durban,2,2,1,5,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Oct 2011,v Australia,Cape Town,1,2,4,13,6,0,0,66.66,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,16 Oct 2011,v Australia,Johannesburg,2,1,4,5,6,1,0,66.66,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,15 Feb 2012,v Canterbury,Christchurch,1,2,35,53,33,4,0,106.06,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,17 Feb 2012,v New Zealand,Wellington,1,2,19,12,15,2,1,126.66,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,19 Feb 2012,v New Zealand,Hamilton,2,2,2,8,3,0,0,66.66,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,22 Feb 2012,v New Zealand,Auckland,1,2,33,32,22,4,1,150,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,19 Jun 2012,v Bdesh XI,Harare,1,2,88*,93,53,9,3,166.03,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,20 Jun 2012,v Zimbabwe XI,Harare,2,2,11,12,7,2,0,157.14,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,22 Jun 2012,v Bdesh XI,Harare,1,1,20,25,19,2,0,105.26,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,23 Jun 2012,v Zimbabwe XI,Harare,2,2,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,24 Jun 2012,v Zimbabwe XI,Harare,1,2,3,7,3,0,0,100,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,10 Sep 2012,v England,Manchester,1,2,47*,45,30,7,0,156.66,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,12 Sep 2012,v England,Birmingham,2,2,36,33,27,6,0,133.33,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,20 Sep 2012,v Zimbabwe,Hambantota,2,2,32*,55,33,3,0,96.96,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,22 Sep 2012,v Sri Lanka,Hambantota,1,2,16,14,9,3,0,177.77,stumped,2,DNB,-,-,-,-
+43906,Hashim Amla,28 Sep 2012,v Pakistan,Colombo (RPS),1,2,6,6,6,1,0,100,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,30 Sep 2012,v Australia,Colombo (RPS),1,2,17,26,15,1,1,113.33,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,2 Oct 2012,v India,Colombo (RPS),2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Nov 2013,v Pakistan,Dubai (DICS),2,1,13,10,9,2,0,144.44,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,15 Nov 2013,v Pakistan,Dubai (DICS),1,2,48,60,41,3,2,117.07,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,20 Nov 2013,v Pakistan,Johannesburg,1,2,31,37,20,6,0,155,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,22 Nov 2013,v Pakistan,Cape Town,2,1,48,67,40,5,0,120,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,5 Jan 2014,v Knights,Cape Town,1,2,59*,84,43,4,2,137.2,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,9 Jan 2014,v Titans,Centurion,1,1,48,36,29,7,1,165.51,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,11 Jan 2014,v Warriors,Gqeberha,1,2,1,9,4,0,0,25,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,15 Jan 2014,v Lions,Paarl,1,2,84,75,51,9,3,164.7,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,17 Jan 2014,v Knights,Bloemfontein,1,2,65,78,42,9,0,154.76,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,19 Jan 2014,v Dolphins,Durban,1,2,1,8,2,0,0,50,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,22 Jan 2014,v Titans,Cape Town,1,1,33,45,24,3,1,137.5,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,24 Jan 2014,v Dolphins,Paarl,2,2,26,47,26,2,0,100,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,12 Mar 2014,v Australia,Durban,1,1,4,8,9,1,0,44.44,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,14 Mar 2014,v Australia,Centurion,1,2,2,13,3,0,0,66.66,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,22 Mar 2014,v Sri Lanka,Chattogram,2,2,23,41,26,2,0,88.46,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,24 Mar 2014,v New Zealand,Chattogram,1,2,41,56,40,2,0,102.5,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,27 Mar 2014,v Netherlands,Chattogram,1,1,43,20,22,7,1,195.45,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,29 Mar 2014,v England,Chattogram,1,1,56,45,37,6,2,151.35,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,4 Apr 2014,v India,Mirpur,1,2,22,24,16,4,0,137.5,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,30 May 2014,v Middlesex,The Oval,2,1,39,50,37,3,1,105.4,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,6 Jun 2014,v Essex,The Oval,1,2,9,19,12,1,0,75,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,13 Jun 2014,v Sussex,The Oval,2,1,61*,58,50,8,0,122,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,20 Jun 2014,v Glamorgan,Cardiff,1,2,55,54,46,6,0,119.56,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,19 Sep 2014,v Northern Dis,Raipur,2,2,20,24,14,3,0,142.85,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,21 Sep 2014,v Hurricanes,Hyderabad,1,2,8,8,6,2,0,133.33,bowled,2,0.1,0,1,0,6
+43906,Hashim Amla,26 Sep 2014,v Tridents,Mohali,2,2,59,62,42,7,1,140.47,stumped,1,DNB,-,-,-,-
+43906,Hashim Amla,28 Sep 2014,v Kings XI,Mohali,1,2,40,27,22,7,1,181.81,caught,2,0.1,0,4,0,24
+43906,Hashim Amla,3 Dec 2014,v Warriors,Paarl,2,2,56*,76,51,5,0,109.8,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,12 Dec 2014,v Knights,Cape Town,1,2,26,34,27,2,0,96.29,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,15 May 2015,v Yorkshire,Leeds,1,1,29,33,22,5,0,131.81,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,22 May 2015,v Leics,Leicester,1,1,8,16,12,1,0,66.66,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,29 May 2015,v Lancashire,Derby,2,1,51,36,37,5,2,137.83,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,14 Aug 2015,v New Zealand,Durban,2,2,48,72,41,4,1,117.07,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,16 Aug 2015,v New Zealand,Centurion,2,1,14,16,13,2,0,107.69,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,2 Oct 2015,v India,Dharamsala,2,1,36,33,24,5,0,150,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,5 Oct 2015,v India,Cuttack,2,2,2,8,3,0,0,66.66,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,19 Feb 2016,v England,Cape Town,2,1,22,24,21,3,0,104.76,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,21 Feb 2016,v England,Johannesburg,2,2,69*,62,38,8,3,181.57,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,9 Mar 2016,v Australia,Cape Town,1,2,97*,81,62,8,4,156.45,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,18 Mar 2016,v England,Wankhede,1,1,58,49,31,7,3,187.09,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,20 Mar 2016,v Afghanistan,Wankhede,1,2,5,11,5,1,0,100,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,25 Mar 2016,v West Indies,Nagpur,1,1,1,2,1,0,0,100,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,28 Mar 2016,v Sri Lanka,Delhi,2,1,56*,69,52,5,1,107.69,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,7 May 2016,v Daredevils,Mohali,1,3,1,10,5,0,0,20,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,9 May 2016,v RCB,Mohali,2,1,21,24,20,2,0,105,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,13 May 2016,v MI,Visakhapatnam,2,2,0,3,5,0,0,0,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,15 May 2016,v SRH,Mohali,1,1,96,89,56,14,2,171.42,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,18 May 2016,v RCB,Bengaluru,2,2,9,-,6,0,1,150,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,21 May 2016,v Supergiants,Visakhapatnam,1,1,30,33,27,4,1,111.11,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,29 Jun 2016,v Zouks,Port of Spain,1,2,26,-,21,2,1,123.8,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,1 Jul 2016,v Tridents,Port of Spain,1,2,81,-,54,5,4,150,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,2 Jul 2016,v Amazon,Port of Spain,1,2,6,-,10,0,0,60,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,4 Jul 2016,v Tallawahs,Port of Spain,1,1,74,-,52,6,3,142.3,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,10 Jul 2016,v Amazon,Providence,1,1,64,-,54,6,0,118.51,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,16 Jul 2016,v Tridents,Bridgetown,2,1,31,-,34,1,0,91.17,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,18 Jul 2016,v Tallawahs,Kingston,2,1,42,-,36,2,2,116.66,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,29 Jul 2016,v Patriots,Lauderhill,2,1,33,-,26,4,0,126.92,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,31 Jul 2016,v Patriots,Lauderhill,2,1,6,-,4,1,0,150,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,4 Aug 2016,v Zouks,Basseterre,2,1,10,-,5,2,0,200,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,5 Aug 2016,v Tallawahs,Basseterre,2,1,37,-,28,2,1,132.14,stumped,1,DNB,-,-,-,-
+43906,Hashim Amla,11 Dec 2016,v Lions,Paarl,2,2,15,18,14,2,0,107.14,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,17 Feb 2017,v New Zealand,Auckland,1,1,62,57,43,9,1,144.18,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,8 Apr 2017,v Supergiant,Indore,2,1,28,-,27,2,1,103.7,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,10 Apr 2017,v RCB,Indore,2,2,58*,64,38,4,3,152.63,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Apr 2017,v KKR,Eden Gardens,1,1,25,53,27,4,0,92.59,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,15 Apr 2017,v Daredevils,Delhi,2,2,19,22,12,4,0,158.33,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,17 Apr 2017,v SRH,Hyderabad,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,20 Apr 2017,v MI,Indore,1,1,104*,95,60,8,6,173.33,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,23 Apr 2017,v Guj Lions,Rajkot,1,2,65,56,40,9,2,162.5,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,30 Apr 2017,v Daredevils,Mohali,2,2,16*,32,20,1,0,80,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,5 May 2017,v RCB,Bengaluru,1,1,1,3,3,0,0,33.33,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,7 May 2017,v Guj Lions,Mohali,1,2,104,90,60,8,5,173.33,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,12 Sep 2017,v Pakistan,Lahore,2,2,26,-,17,4,1,152.94,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,13 Sep 2017,v Pakistan,Lahore,2,2,72*,-,55,5,2,130.9,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,15 Sep 2017,v Pakistan,Lahore,2,2,21,-,12,4,0,175,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,26 Oct 2017,v Bangladesh,Bloemfontein,1,2,3,7,4,0,0,75,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,29 Oct 2017,v Bangladesh,Potchefstroom,1,1,85,70,51,11,1,166.66,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,12 Nov 2017,v Dolphins,Centurion,2,2,52*,44,27,3,4,192.59,not out,1,DNB,-,-,-,-
+43906,Hashim Amla,17 Nov 2017,v Lions,Johannesburg,1,2,36,39,28,3,1,128.57,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,19 Nov 2017,v Titans,Centurion,1,1,12,14,10,0,1,120,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,24 Nov 2017,v Lions,Paarl,1,2,42,65,35,2,0,120,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,26 Nov 2017,v Knights,Cape Town,2,2,29,38,24,4,0,120.83,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,29 Nov 2017,v Warriors,Paarl,1,1,52,46,36,3,1,144.44,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,1 Dec 2017,v Dolphins,Durban,1,2,40,47,28,4,1,142.85,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,6 Dec 2017,v Knights,Kimberley,1,2,18,15,10,2,1,180,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,8 Dec 2017,v Titans,Cape Town,2,2,12,25,15,2,0,80,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,10 Dec 2017,v Warriors,East London,2,2,39,46,31,3,1,125.8,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,14 Aug 2018,v Sri Lanka,Colombo (RPS),1,2,0,-,4,0,0,0,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,17 Aug 2018,v Stars,Gros Islet,2,3,14,-,14,1,0,100,stumped,1,DNB,-,-,-,-
+43906,Hashim Amla,22 Aug 2018,v Tallawahs,Lauderhill,1,2,15,-,17,1,1,88.23,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,29 Aug 2018,v Tallawahs,Bridgetown,1,1,3,-,6,0,0,50,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,31 Aug 2018,v Amazon,Bridgetown,1,3,2,-,6,0,0,33.33,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,2 Sep 2018,v Stars,Bridgetown,1,3,35,-,34,4,0,102.94,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,4 Sep 2018,v Patriots,Basseterre,1,4,3,-,5,0,0,60,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,18 Nov 2018,v Blitz,Durban,1,2,15,33,24,2,0,62.5,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,21 Nov 2018,v Spartans,Durban,2,1,24,46,25,1,0,96,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,23 Nov 2018,v Giants,Gqeberha,1,2,12,30,16,1,0,75,lbw,2,DNB,-,-,-,-
+43906,Hashim Amla,28 Nov 2018,v Paarl Rocks,Durban,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,30 Nov 2018,v Jozi Stars,Johannesburg,2,1,4,1,3,1,0,133.33,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,9 Dec 2018,v Blitz,Cape Town,2,3,16,22,15,2,0,106.66,bowled,1,DNB,-,-,-,-
+43906,Hashim Amla,12 Dec 2018,v Spartans,Centurion,2,3,0,4,3,0,0,0,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,7 Apr 2019,v Lions,Johannesburg,1,2,16,22,12,1,1,133.33,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,10 Apr 2019,v Titans,Benoni,1,2,2,8,6,0,0,33.33,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,12 Apr 2019,v Warriors,Paarl,2,1,7,28,12,0,0,58.33,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,14 Apr 2019,v Dolphins,Cape Town,1,2,32,40,32,4,0,100,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,16 Apr 2019,v Knights,Cape Town,1,1,4,14,11,0,0,36.36,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,20 Apr 2019,v Warriors,Gqeberha,2,1,18,16,14,1,1,128.57,run out,1,DNB,-,-,-,-
+43906,Hashim Amla,24 Apr 2019,v Titans,Paarl,2,1,3,10,7,0,0,42.85,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,26 Apr 2019,v Lions,Cape Town,1,1,10,34,16,0,0,62.5,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,4 Jan 2020,v Chattogram,Sylhet,1,2,8,-,6,2,0,133.33,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,1 Sep 2020,v Kent,Canterbury,1,2,75,78,56,5,2,133.92,run out,2,DNB,-,-,-,-
+43906,Hashim Amla,3 Sep 2020,v Hampshire,The Oval,2,1,29,35,27,3,0,107.4,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,5 Sep 2020,v Middlesex,The Oval,2,2,11,23,11,1,0,100,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,11 Sep 2020,v Essex,Chelmsford,2,1,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+43906,Hashim Amla,14 Sep 2020,v Middlesex,Lord's,1,2,67,57,49,7,2,136.73,bowled,2,DNB,-,-,-,-
+43906,Hashim Amla,16 Sep 2020,v Sussex,The Oval,2,1,13,14,10,2,0,130,caught,1,DNB,-,-,-,-
+43906,Hashim Amla,1 Oct 2020,v Kent,The Oval,1,2,73*,77,53,9,1,137.73,not out,2,DNB,-,-,-,-
+43906,Hashim Amla,4 Oct 2020,v Notts,Birmingham,1,2,3,12,10,0,0,30,caught,2,DNB,-,-,-,-
+43906,Hashim Amla,21 Jun 2021,v Essex,The Oval,1,1,0,3,1,0,0,0,caught,2,DNB,-,-,-,-

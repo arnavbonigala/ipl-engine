@@ -1,0 +1,122 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1151278,Yashasvi Jaiswal,22 Sep 2020,v CSK,Sharjah,1,1,6,-,6,1,0,100,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,6 Oct 2020,v MI,Abu Dhabi,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,9 Oct 2020,v DC,Sharjah,2,1,34,-,36,1,2,94.44,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,11 Jan 2021,v Delhi,Wankhede,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,13 Jan 2021,v Kerala,Wankhede,1,1,40,-,32,4,2,125,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,15 Jan 2021,v Haryana,Mumbai,1,1,35,-,21,6,1,166.66,caught,2,1.0,0,7,0,7
+1151278,Yashasvi Jaiswal,17 Jan 2021,v Puducherry,Wankhede,1,1,15,-,12,1,1,125,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 Jan 2021,v Andhra,Wankhede,2,1,13,-,13,2,0,100,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,24 Apr 2021,v KKR,Wankhede,2,2,22,30,17,5,0,129.41,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,29 Apr 2021,v MI,Delhi,1,2,32,45,20,2,2,160,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 May 2021,v SRH,Delhi,1,2,12,17,13,2,0,92.3,lbw,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,2,49,74,36,6,2,136.11,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,25 Sep 2021,v DC,Abu Dhabi,2,2,5,8,4,0,0,125,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 Sep 2021,v SRH,Dubai (DICS),1,2,36,39,23,5,1,156.52,bowled,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,29 Sep 2021,v RCB,Dubai (DICS),1,2,31,44,22,3,2,140.9,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 Oct 2021,v CSK,Abu Dhabi,2,2,50,33,21,6,3,238.09,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 Oct 2021,v MI,Sharjah,1,2,12,25,9,3,0,133.33,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,7 Oct 2021,v KKR,Sharjah,2,1,0,3,3,0,0,0,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,4 Nov 2021,v Karnataka,Guwahati,2,3,13,-,12,2,0,108.33,stumped,1,1.0,0,17,0,17
+1151278,Yashasvi Jaiswal,5 Nov 2021,v Services,Guwahati,1,3,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,6 Nov 2021,v Bengal,Guwahati,1,3,19,-,16,1,1,118.75,run out,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,8 Nov 2021,v Chhattisgarh,Guwahati,2,3,4,-,6,1,0,66.66,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,9 Nov 2021,v Baroda,Guwahati,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,29 Mar 2022,v SRH,Pune,1,2,20,33,16,2,1,125,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 Apr 2022,v MI,DY Patil,1,2,1,13,2,0,0,50,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 Apr 2022,v RCB,Wankhede,1,2,4,10,6,0,0,66.66,bowled,2,0.1,0,6,0,36
+1151278,Yashasvi Jaiswal,7 May 2022,v Punjab Kings,Wankhede,2,1,68,73,41,9,2,165.85,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,11 May 2022,v DC,DY Patil,1,1,19,41,19,1,1,100,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,15 May 2022,v LSG,Brabourne,1,1,41,61,29,6,1,141.37,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,20 May 2022,v CSK,Brabourne,2,1,59,66,44,8,1,134.09,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,24 May 2022,v GT,Eden Gardens,1,1,3,11,8,0,0,37.5,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 May 2022,v RCB,Ahmedabad,2,1,21,25,13,1,2,161.53,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,29 May 2022,v GT,Ahmedabad,1,1,22,22,16,1,2,137.5,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,11 Oct 2022,v Mizoram,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 Oct 2022,v M. Pradesh,Rajkot,2,3,66*,-,44,5,4,150,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 Oct 2022,v Assam,Rajkot,1,3,42,-,30,5,1,140,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Oct 2022,v Vidarbha,Saurashtra,1,3,8,-,4,0,1,200,stumped,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,18 Oct 2022,v Rajasthan,Saurashtra,1,3,46,-,27,7,2,170.37,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,20 Oct 2022,v Railways,Rajkot,1,3,7,-,10,1,0,70,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,22 Oct 2022,v Uttarakhand,Saurashtra,1,3,45,-,27,5,1,166.66,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,1 Nov 2022,v Saurashtra,Eden Gardens,2,3,13,17,10,2,0,130,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,3 Nov 2022,v Vidarbha,Eden Gardens,2,3,12,-,8,1,1,150,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 Nov 2022,v Himachal,Eden Gardens,2,3,27,43,28,3,1,96.42,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 Apr 2023,v SRH,Hyderabad,1,1,54,63,37,9,0,145.94,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 Apr 2023,v Punjab Kings,Guwahati,2,1,11,12,8,1,1,137.5,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,8 Apr 2023,v DC,Guwahati,1,1,60,47,31,11,1,193.54,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 Apr 2023,v CSK,Chennai,1,1,10,9,8,2,0,125,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Apr 2023,v GT,Ahmedabad,2,1,1,9,7,0,0,14.28,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 Apr 2023,v LSG,Jaipur,2,1,44,60,35,4,2,125.71,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,23 Apr 2023,v RCB,Bengaluru,2,1,47,63,37,5,2,127.02,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 Apr 2023,v CSK,Jaipur,1,1,77,67,43,8,4,179.06,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,30 Apr 2023,v MI,Wankhede,1,1,124,112,62,16,8,200,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 May 2023,v GT,Jaipur,1,1,14,31,11,1,1,127.27,run out,2,sub,-,-,-,-
+1151278,Yashasvi Jaiswal,7 May 2023,v SRH,Jaipur,1,1,35,27,18,5,2,194.44,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,11 May 2023,v KKR,Eden Gardens,2,1,98*,62,47,12,5,208.51,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 May 2023,v RCB,Jaipur,2,1,0,4,2,0,0,0,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 May 2023,v Punjab Kings,Dharamsala,2,1,50,72,36,8,0,138.88,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,8 Aug 2023,v West Indies,Providence,2,1,1,3,2,0,0,50,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 Aug 2023,v West Indies,Lauderhill,2,1,84*,85,51,11,3,164.7,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,13 Aug 2023,v West Indies,Lauderhill,1,1,5,3,4,1,0,125,caught,2,1.0,0,11,0,11
+1151278,Yashasvi Jaiswal,18 Aug 2023,v Ireland,Dublin (Malahide),2,1,24,30,23,3,1,104.34,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,20 Aug 2023,v Ireland,Dublin (Malahide),1,1,18,15,11,2,1,163.63,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,3 Oct 2023,v Nepal,Hangzhou,1,1,100,-,49,8,7,204.08,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,6 Oct 2023,v Bangladesh,Hangzhou,2,1,0,-,4,0,0,0,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,7 Oct 2023,v Afghanistan,Hangzhou,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Oct 2023,v Haryana,Jaipur,2,1,12,-,8,3,0,150,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,17 Oct 2023,v Meghalaya,Jaipur,2,1,21,-,14,4,0,150,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 Oct 2023,v Baroda,Jaipur,1,1,38,-,33,5,0,115.15,caught,2,sub,-,-,-,-
+1151278,Yashasvi Jaiswal,21 Oct 2023,v J & K,Jaipur,1,1,50,-,36,8,1,138.88,stumped,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,23 Oct 2023,v Chhattisgarh,Jaipur,2,1,51,-,35,5,3,145.71,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,25 Oct 2023,v Hyderabad,Jaipur,2,1,16,-,4,1,2,400,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 Oct 2023,v Mizoram,Jaipur,2,1,46*,-,22,7,2,209.09,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 Nov 2023,v Baroda,New Chandigarh,1,1,8,-,14,0,1,57.14,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,23 Nov 2023,v Australia,Visakhapatnam,2,1,21,12,8,2,2,262.5,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,26 Nov 2023,v Australia,Thiruvananthapuram,1,1,53,30,25,9,2,212,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,28 Nov 2023,v Australia,Guwahati,1,1,6,8,6,1,0,100,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,1 Dec 2023,v Australia,Raipur,1,1,37,27,28,6,1,132.14,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,3 Dec 2023,v Australia,Bengaluru,1,1,21,17,15,1,2,140,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 Dec 2023,v South Africa,Gqeberha,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 Dec 2023,v South Africa,Johannesburg,1,1,60,65,41,6,3,146.34,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 Jan 2024,v Afghanistan,Indore,2,1,68,56,34,5,6,200,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,17 Jan 2024,v Afghanistan,Bengaluru,1,1,4,12,6,0,0,66.66,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,24 Mar 2024,v LSG,Jaipur,1,1,24,34,12,3,1,200,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,28 Mar 2024,v DC,Jaipur,1,1,5,11,7,1,0,71.42,bowled,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,1 Apr 2024,v MI,Wankhede,2,1,10,4,6,2,0,166.66,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,6 Apr 2024,v RCB,Jaipur,2,1,0,1,2,0,0,0,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,10 Apr 2024,v GT,Jaipur,1,1,24,19,19,5,0,126.31,caught,2,sub,-,-,-,-
+1151278,Yashasvi Jaiswal,13 Apr 2024,v Punjab Kings,New Chandigarh,2,1,39,52,28,4,0,139.28,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Apr 2024,v KKR,Eden Gardens,2,1,19,9,9,3,1,211.11,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,22 Apr 2024,v MI,Jaipur,2,1,104*,88,60,9,7,173.33,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 Apr 2024,v LSG,Lucknow,2,1,24,31,18,3,1,133.33,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,2 May 2024,v SRH,Hyderabad,2,1,67,-,40,7,2,167.5,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,7 May 2024,v DC,Delhi,2,1,4,-,2,1,0,200,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 May 2024,v CSK,Chennai,1,1,24,29,21,3,1,114.28,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,15 May 2024,v Punjab Kings,Guwahati,1,1,4,3,4,1,0,100,bowled,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 May 2024,v KKR,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1151278,Yashasvi Jaiswal,22 May 2024,v RCB,Ahmedabad,2,1,45,45,30,8,0,150,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,24 May 2024,v SRH,Chennai,2,1,42,39,21,4,3,200,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,10 Jul 2024,v Zimbabwe,Harare,1,1,36,37,27,4,2,133.33,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,13 Jul 2024,v Zimbabwe,Harare,2,1,93*,66,53,13,2,175.47,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 Jul 2024,v Zimbabwe,Harare,1,1,12,2,5,0,2,240,bowled,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,27 Jul 2024,v Sri Lanka,Pallekele,1,1,40,30,21,5,2,190.47,stumped,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,28 Jul 2024,v Sri Lanka,Pallekele,2,1,30,28,15,3,2,200,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,30 Jul 2024,v Sri Lanka,Pallekele,1,1,10,9,9,2,0,111.11,lbw,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,23 Mar 2025,v SRH,Hyderabad,2,1,1,6,5,0,0,20,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,26 Mar 2025,v KKR,Guwahati,1,1,29,42,24,2,2,120.83,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,30 Mar 2025,v CSK,Guwahati,1,1,4,2,3,1,0,133.33,caught,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,5 Apr 2025,v Punjab Kings,New Chandigarh,1,1,67,57,45,3,5,148.88,bowled,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,9 Apr 2025,v GT,Ahmedabad,2,1,6,8,7,1,0,85.71,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,13 Apr 2025,v RCB,Jaipur,1,1,75,71,47,10,2,159.57,lbw,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Apr 2025,v DC,Delhi,2,1,51,62,37,3,4,137.83,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,19 Apr 2025,v LSG,Jaipur,2,1,74,78,52,5,4,142.3,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,24 Apr 2025,v RCB,Bengaluru,2,1,49,28,19,7,3,257.89,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,28 Apr 2025,v GT,Jaipur,2,1,70*,77,40,9,2,175,not out,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,1 May 2025,v MI,Jaipur,2,1,13,9,6,0,2,216.66,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,4 May 2025,v KKR,Eden Gardens,2,1,34,36,21,5,1,161.9,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,18 May 2025,v Punjab Kings,Jaipur,2,1,50,41,25,9,1,200,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,20 May 2025,v CSK,Delhi,2,1,36,17,19,5,2,189.47,bowled,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,12 Dec 2025,v Hyderabad,Pune,1,1,29,-,20,6,0,145,lbw,2,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,14 Dec 2025,v Haryana,Ambi,2,1,101,-,50,16,1,202,caught,1,DNB,-,-,-,-
+1151278,Yashasvi Jaiswal,16 Dec 2025,v Rajasthan,Pune,2,1,15,-,16,3,0,93.75,caught,1,DNB,-,-,-,-

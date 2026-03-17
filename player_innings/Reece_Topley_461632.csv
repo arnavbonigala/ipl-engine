@@ -1,0 +1,208 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+461632,Reece Topley,20 Jun 2012,v Kent,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+461632,Reece Topley,21 Jun 2012,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+461632,Reece Topley,22 Jun 2012,v Surrey,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+461632,Reece Topley,24 Jun 2012,v Sussex,Hove,2,11,1*,1,1,0,0,100,not out,1,4.0,0,43,3,10.75
+461632,Reece Topley,28 Jun 2012,v Sussex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,2,7.75
+461632,Reece Topley,29 Jun 2012,v Hampshire,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+461632,Reece Topley,5 Jul 2012,v Middlesex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+461632,Reece Topley,6 Jul 2012,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+461632,Reece Topley,24 Jul 2012,v Somerset,Taunton,2,11,0*,3,1,0,0,0,not out,1,4.0,0,27,3,6.75
+461632,Reece Topley,28 Jun 2013,v Hampshire,Chelmsford,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+461632,Reece Topley,4 Jul 2013,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+461632,Reece Topley,5 Jul 2013,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+461632,Reece Topley,8 Jul 2013,v Kent,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,4,6.5
+461632,Reece Topley,12 Jul 2013,v Middlesex,Chelmsford,1,11,1,6,5,0,0,20,bowled,2,1.0,0,7,0,7
+461632,Reece Topley,14 Jul 2013,v Sussex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+461632,Reece Topley,15 Jul 2013,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+461632,Reece Topley,21 Jul 2013,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,4,6.5
+461632,Reece Topley,26 Jul 2013,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,3,10
+461632,Reece Topley,31 Jul 2013,v Surrey,Chelmsford,2,11,4*,12,6,1,0,66.66,not out,1,4.0,0,40,3,10
+461632,Reece Topley,8 Aug 2013,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,12,0,4
+461632,Reece Topley,17 Aug 2013,v Northants,Birmingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+461632,Reece Topley,17 May 2014,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+461632,Reece Topley,23 May 2014,v Glamorgan,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+461632,Reece Topley,30 May 2014,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,1,30,0,10
+461632,Reece Topley,6 Jun 2014,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+461632,Reece Topley,11 Jun 2014,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+461632,Reece Topley,13 Jun 2014,v Gloucs,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+461632,Reece Topley,20 Jun 2014,v Middlesex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+461632,Reece Topley,27 Jun 2014,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+461632,Reece Topley,4 Jul 2014,v Surrey,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,0,9.75
+461632,Reece Topley,25 Jul 2014,v Sussex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,0,12.25
+461632,Reece Topley,2 Aug 2014,v Warwickshire,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,1,35,0,8.75
+461632,Reece Topley,16 May 2015,v Surrey,Chelmsford,2,11,1,1,2,0,0,50,caught,1,4.0,0,52,1,13
+461632,Reece Topley,22 May 2015,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,1,11
+461632,Reece Topley,24 May 2015,v Gloucs,Bristol,2,10,1*,3,3,0,0,33.33,not out,1,4.0,0,28,2,7
+461632,Reece Topley,29 May 2015,v Somerset,Chelmsford,1,11,0,1,1,0,0,0,caught,2,4.0,0,46,1,11.5
+461632,Reece Topley,12 Jun 2015,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+461632,Reece Topley,18 Jun 2015,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+461632,Reece Topley,19 Jun 2015,v Glamorgan,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,3.4,0,23,2,6.27
+461632,Reece Topley,26 Jun 2015,v Hampshire,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+461632,Reece Topley,10 Jul 2015,v Middlesex,Richmond,1,10,5*,6,3,1,0,166.66,not out,2,3.0,0,36,0,12
+461632,Reece Topley,17 Jul 2015,v Middlesex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+461632,Reece Topley,13 Aug 2015,v Warwickshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+461632,Reece Topley,31 Aug 2015,v Australia,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+461632,Reece Topley,26 Nov 2015,v Pakistan,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+461632,Reece Topley,7 Dec 2015,v Pakistan A,ICCA Dubai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+461632,Reece Topley,10 Dec 2015,v Pakistan A,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+461632,Reece Topley,11 Dec 2015,v Pakistan A,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,27,1,7.36
+461632,Reece Topley,13 Dec 2015,v Pakistan A,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+461632,Reece Topley,16 Dec 2015,v Pakistan A,ICCA Dubai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+461632,Reece Topley,17 Feb 2016,v SA A,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+461632,Reece Topley,19 Feb 2016,v South Africa,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,9
+461632,Reece Topley,21 Feb 2016,v South Africa,Johannesburg,1,11,1*,5,2,0,0,50,not out,2,2.0,0,32,0,16
+461632,Reece Topley,16 Mar 2016,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.1,0,22,1,10.15
+461632,Reece Topley,18 Mar 2016,v South Africa,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,33,0,16.5
+461632,Reece Topley,7 Jul 2017,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+461632,Reece Topley,12 Jul 2017,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+461632,Reece Topley,14 Jul 2017,v Middlesex,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+461632,Reece Topley,20 Jul 2017,v Sussex,Southampton,1,10,0,4,2,0,0,0,bowled,2,3.0,0,25,1,8.33
+461632,Reece Topley,21 Jul 2017,v Essex,Chelmsford,1,11,1*,6,2,0,0,50,not out,2,3.0,0,18,0,6
+461632,Reece Topley,26 Jul 2017,v Somerset,Taunton,2,10,0,3,2,0,0,0,bowled,1,4.0,0,32,1,8
+461632,Reece Topley,28 Jul 2017,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+461632,Reece Topley,19 Jul 2019,v Hampshire,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+461632,Reece Topley,24 Jul 2019,v Hampshire,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,4,8.25
+461632,Reece Topley,26 Jul 2019,v Surrey,Hove,1,10,3*,8,4,0,0,75,not out,2,4.0,0,34,2,8.5
+461632,Reece Topley,28 Jul 2019,v Somerset,Taunton,1,10,2*,1,1,0,0,200,not out,2,3.0,0,26,1,8.66
+461632,Reece Topley,4 Aug 2019,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,1,8.66
+461632,Reece Topley,6 Aug 2019,v Glamorgan,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+461632,Reece Topley,15 Aug 2019,v Surrey,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+461632,Reece Topley,22 Aug 2019,v Essex,Hove,2,11,2*,5,4,0,0,50,not out,1,4.0,0,32,2,8
+461632,Reece Topley,24 Aug 2019,v Middlesex,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+461632,Reece Topley,30 Aug 2019,v Gloucs,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,1,11.5
+461632,Reece Topley,6 Sep 2019,v Worcs,Hove,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+461632,Reece Topley,1 Sep 2020,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,0,8.25
+461632,Reece Topley,3 Sep 2020,v Hampshire,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,0,5
+461632,Reece Topley,5 Sep 2020,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+461632,Reece Topley,11 Sep 2020,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+461632,Reece Topley,14 Sep 2020,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+461632,Reece Topley,16 Sep 2020,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+461632,Reece Topley,18 Sep 2020,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+461632,Reece Topley,20 Sep 2020,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+461632,Reece Topley,1 Oct 2020,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+461632,Reece Topley,3 Oct 2020,v Gloucs,Birmingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+461632,Reece Topley,4 Oct 2020,v Notts,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+461632,Reece Topley,22 Jul 2021,v Originals,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,10
+461632,Reece Topley,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+461632,Reece Topley,31 Jul 2021,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,10
+461632,Reece Topley,2 Aug 2021,v Fire,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,1,5.6
+461632,Reece Topley,4 Aug 2021,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.4,0,31,0,9.78
+461632,Reece Topley,8 Aug 2021,v Rockets,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,12.6
+461632,Reece Topley,14 Aug 2021,v Spirit,The Oval,2,10,0*,1,0,0,0,-,not out,1,3.0,0,17,1,6.8
+461632,Reece Topley,16 Aug 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,11.7
+461632,Reece Topley,7 Dec 2021,v Strikers,Melbourne (Docklands),1,10,2*,4,2,0,0,100,not out,2,4.0,0,43,1,10.75
+461632,Reece Topley,9 Dec 2021,v Strikers,Adelaide,2,10,9*,17,12,1,0,75,not out,1,4.0,0,32,3,8
+461632,Reece Topley,13 Dec 2021,v Heat,Carrara,1,-,DNB,-,-,-,-,-,-,2,2.5,0,26,0,9.17
+461632,Reece Topley,22 Dec 2021,v Scorchers,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,4.0,0,44,0,11
+461632,Reece Topley,26 Dec 2021,v Scorchers,Melbourne (Docklands),1,10,8*,7,3,0,1,266.66,not out,2,4.0,0,36,0,9
+461632,Reece Topley,29 Dec 2021,v Hurricanes,Melbourne (Docklands),2,10,14*,14,11,1,1,127.27,not out,1,4.0,0,17,2,4.25
+461632,Reece Topley,1 Jan 2022,v Sixers,Coffs Harbour,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+461632,Reece Topley,3 Jan 2022,v Stars,Melbourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+461632,Reece Topley,23 Jan 2022,v West Indies,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+461632,Reece Topley,26 Jan 2022,v West Indies,Bridgetown,2,11,2*,2,2,0,0,100,not out,1,4.0,0,30,1,7.5
+461632,Reece Topley,29 Jan 2022,v West Indies,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+461632,Reece Topley,30 Jan 2022,v West Indies,Bridgetown,2,11,0*,2,0,0,0,-,not out,1,4.0,0,43,0,10.75
+461632,Reece Topley,25 May 2022,v SLC Dev XI,The Oval,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,3,4.33
+461632,Reece Topley,27 May 2022,v Glamorgan,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+461632,Reece Topley,31 May 2022,v Gloucs,The Oval,1,11,1,3,2,0,0,50,caught,2,3.0,0,6,2,2
+461632,Reece Topley,2 Jun 2022,v Hampshire,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.5,0,40,2,10.43
+461632,Reece Topley,3 Jun 2022,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,3,6
+461632,Reece Topley,5 Jun 2022,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,1.0,0,3,0,3
+461632,Reece Topley,8 Jun 2022,v Sussex,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,1,9
+461632,Reece Topley,9 Jun 2022,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,0,10.25
+461632,Reece Topley,24 Jun 2022,v Essex,Chelmsford,2,11,2*,3,2,0,0,100,not out,1,4.0,0,37,4,9.25
+461632,Reece Topley,1 Jul 2022,v Kent,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+461632,Reece Topley,3 Jul 2022,v Somerset,Taunton,2,10,0*,2,0,0,0,-,not out,1,4.0,0,26,2,6.5
+461632,Reece Topley,7 Jul 2022,v India,Southampton,2,10,9,11,8,1,0,112.5,caught,1,4.0,0,34,1,8.5
+461632,Reece Topley,10 Jul 2022,v India,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+461632,Reece Topley,27 Jul 2022,v South Africa,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+461632,Reece Topley,28 Jul 2022,v South Africa,Cardiff,2,11,1*,3,1,0,0,100,not out,1,4.0,0,30,0,7.5
+461632,Reece Topley,31 Jul 2022,v South Africa,Southampton,2,11,0*,2,0,0,0,-,not out,1,4.0,0,45,0,11.25
+461632,Reece Topley,4 Aug 2022,v Spirit,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,7.8
+461632,Reece Topley,11 Aug 2022,v N S-Chargers,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,11.4
+461632,Reece Topley,14 Aug 2022,v Brave,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,7.2
+461632,Reece Topley,17 Aug 2022,v Rockets,Nottingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,10.8
+461632,Reece Topley,23 Sep 2022,v Pakistan,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+461632,Reece Topley,25 Sep 2022,v Pakistan,Karachi,2,11,0,7,3,0,0,0,run out,1,4.0,0,37,2,9.25
+461632,Reece Topley,30 Sep 2022,v Pakistan,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+461632,Reece Topley,2 Oct 2022,v Pakistan,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+461632,Reece Topley,9 Oct 2022,v Australia,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+461632,Reece Topley,12 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+461632,Reece Topley,14 Oct 2022,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,2,1.0,0,9,0,9
+461632,Reece Topley,13 Jan 2023,v MI Cape Town,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,2,9
+461632,Reece Topley,15 Jan 2023,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+461632,Reece Topley,17 Jan 2023,v Paarl Royals,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+461632,Reece Topley,20 Jan 2023,v Capitals,Durban,1,11,5*,6,3,1,0,166.66,not out,2,1.0,0,13,0,13
+461632,Reece Topley,24 Jan 2023,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,1,4.75
+461632,Reece Topley,2 Feb 2023,v MI Cape Town,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+461632,Reece Topley,3 Feb 2023,v Sunrisers,Durban,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,20,2,10
+461632,Reece Topley,5 Feb 2023,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+461632,Reece Topley,2 Apr 2023,v MI,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+461632,Reece Topley,3 Aug 2023,v Phoenix,Leeds,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,7,1,4.2
+461632,Reece Topley,6 Aug 2023,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,3,9
+461632,Reece Topley,9 Aug 2023,v Rockets,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,2,6
+461632,Reece Topley,11 Aug 2023,v Invincibles,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,12.3
+461632,Reece Topley,13 Aug 2023,v Originals,Leeds,2,11,12*,1,3,3,0,400,not out,1,4.0,0,29,3,8.7
+461632,Reece Topley,18 Aug 2023,v Spirit,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,1,20,2,6
+461632,Reece Topley,20 Aug 2023,v Originals,Manchester,2,11,11*,10,8,2,0,137.5,not out,1,4.0,0,29,1,8.7
+461632,Reece Topley,22 Aug 2023,v Fire,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,32,0,12.8
+461632,Reece Topley,16 Dec 2023,v West Indies,St George's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+461632,Reece Topley,19 Dec 2023,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,3.3,0,37,3,10.57
+461632,Reece Topley,21 Dec 2023,v West Indies,Tarouba,1,11,0*,1,0,0,0,-,not out,2,4.0,0,17,2,4.25
+461632,Reece Topley,11 Jan 2024,v MI Cape Town,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,0,13.25
+461632,Reece Topley,13 Jan 2024,v Sunrisers,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,1,30,1,7.5
+461632,Reece Topley,15 Jan 2024,v Super Kings,Durban,1,10,0*,1,1,0,0,0,not out,2,4.0,0,19,3,4.75
+461632,Reece Topley,18 Jan 2024,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,1,34,3,8.5
+461632,Reece Topley,20 Jan 2024,v Sunrisers,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+461632,Reece Topley,23 Jan 2024,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+461632,Reece Topley,26 Jan 2024,v Paarl Royals,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,2,9
+461632,Reece Topley,28 Jan 2024,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,1,7.5
+461632,Reece Topley,3 Feb 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,0,14.5
+461632,Reece Topley,6 Feb 2024,v Sunrisers,Cape Town,2,11,0*,3,1,0,0,0,not out,1,3.0,0,14,0,4.66
+461632,Reece Topley,8 Feb 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+461632,Reece Topley,10 Feb 2024,v Sunrisers,Cape Town,2,11,0,1,2,0,0,0,bowled,1,3.0,0,32,1,10.66
+461632,Reece Topley,2 Apr 2024,v LSG,Bengaluru,2,10,3*,12,6,0,0,50,not out,1,4.0,0,39,1,9.75
+461632,Reece Topley,6 Apr 2024,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+461632,Reece Topley,11 Apr 2024,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+461632,Reece Topley,15 Apr 2024,v SRH,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,68,1,17
+461632,Reece Topley,25 May 2024,v Pakistan,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.2,0,41,3,12.3
+461632,Reece Topley,13 Jun 2024,v Oman,North Sound,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,0,4
+461632,Reece Topley,15 Jun 2024,v Namibia,North Sound,1,-,DNB,-,-,-,-,-,-,2,2.0,0,6,0,3
+461632,Reece Topley,19 Jun 2024,v West Indies,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,3.0,0,26,0,8.66
+461632,Reece Topley,21 Jun 2024,v South Africa,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+461632,Reece Topley,23 Jun 2024,v U.S.A.,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+461632,Reece Topley,27 Jun 2024,v India,Providence,2,11,3*,6,3,0,0,100,not out,1,3.0,0,25,1,8.33
+461632,Reece Topley,7 Jul 2024,v Kent,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,2,13.5
+461632,Reece Topley,4 Aug 2024,v Originals,Leeds,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,0,14
+461632,Reece Topley,6 Aug 2024,v Phoenix,Birmingham,1,11,1*,1,1,0,0,100,not out,2,2.0,0,27,0,16.2
+461632,Reece Topley,8 Aug 2024,v Fire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+461632,Reece Topley,13 Aug 2024,v Spirit,Leeds,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,2,10
+461632,Reece Topley,3 Sep 2024,v Durham,The Oval,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+461632,Reece Topley,11 Sep 2024,v Australia,Southampton,2,11,1*,4,1,0,0,100,not out,1,1.0,0,15,0,15
+461632,Reece Topley,13 Sep 2024,v Australia,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,0,13.33
+461632,Reece Topley,9 Nov 2024,v West Indies,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,2.4,0,26,0,9.75
+461632,Reece Topley,31 Dec 2024,v Rangpur,Mirpur,2,10,5*,13,6,0,0,83.33,not out,1,4.0,0,33,1,8.25
+461632,Reece Topley,6 Jan 2025,v Rangpur,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+461632,Reece Topley,7 Jan 2025,v Barishal,Sylhet,1,10,5*,24,5,1,0,100,not out,2,2.0,0,25,0,12.5
+461632,Reece Topley,10 Jan 2025,v Dhaka,Sylhet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+461632,Reece Topley,12 Jan 2025,v Khulna,Sylhet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+461632,Reece Topley,17 Jan 2025,v Rajshahi,Chattogram,2,11,0,4,3,0,0,0,bowled,1,4.0,0,39,0,9.75
+461632,Reece Topley,23 Jan 2025,v Khulna,Chattogram,1,11,1*,1,1,0,0,100,not out,2,3.5,0,42,0,10.95
+461632,Reece Topley,1 Jun 2025,v Punjab Kings,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+461632,Reece Topley,17 Jun 2025,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+461632,Reece Topley,18 Jun 2025,v Sussex,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+461632,Reece Topley,20 Jun 2025,v Middlesex,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+461632,Reece Topley,6 Jul 2025,v Essex,The Oval,1,-,DNB,-,-,-,-,-,-,2,1.0,0,17,0,17
+461632,Reece Topley,13 Jul 2025,v Somerset,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+461632,Reece Topley,16 Jul 2025,v Middlesex,Lord's,1,11,1*,2,1,0,0,100,not out,2,3.0,0,31,0,10.33
+461632,Reece Topley,18 Jul 2025,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+461632,Reece Topley,6 Aug 2025,v Originals,Manchester,2,11,4*,1,1,1,0,400,not out,1,2.0,0,21,0,12.6
+461632,Reece Topley,20 Aug 2025,v Fire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,8.4
+461632,Reece Topley,23 Aug 2025,v Spirit,Lord's,2,-,absent,-,-,-,-,-,-,1,2.0,0,16,0,9.6
+461632,Reece Topley,16 Dec 2025,v Hurricanes,Hobart,1,-,DNB,-,-,-,-,-,-,2,2.0,0,30,0,15
+461632,Reece Topley,20 Dec 2025,v Sixers,Sydney,2,11,5,6,5,1,0,100,caught,1,4.0,0,41,3,10.25
+461632,Reece Topley,22 Dec 2025,v Heat,Canberra,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,0,10.5
+461632,Reece Topley,28 Dec 2025,v Stars,Canberra,1,10,5*,7,5,0,0,100,not out,2,1.0,0,7,0,7
+461632,Reece Topley,30 Dec 2025,v Scorchers,Sydney,2,11,5,6,6,0,0,83.33,caught,1,4.0,0,34,2,8.5
+461632,Reece Topley,3 Jan 2026,v Sunrisers,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-

@@ -1,0 +1,406 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+28081,MS Dhoni,1 Dec 2006,v South Africa,Johannesburg,2,4,0,8,2,0,0,0,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,3 Apr 2007,v Orissa,Eden Gardens,2,4,1,5,5,0,0,20,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,4 Apr 2007,v Bengal,Eden Gardens,2,3,12,15,7,2,0,171.42,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,5 Apr 2007,v Assam,Eden Gardens,2,4,37*,20,21,5,1,176.19,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,7 Apr 2007,v Tripura,Eden Gardens,1,4,73*,42,33,3,7,221.21,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,13 Sep 2007,v Scotland,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+28081,MS Dhoni,14 Sep 2007,v Pakistan,Durban,1,6,33,46,31,3,1,106.45,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,16 Sep 2007,v New Zealand,Johannesburg,2,4,24,31,20,2,0,120,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Sep 2007,v England,Durban,1,4,10*,22,8,0,0,125,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,20 Sep 2007,v South Africa,Durban,1,6,45,39,33,4,1,136.36,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Sep 2007,v Australia,Durban,1,5,36,21,18,4,1,200,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Sep 2007,v Pakistan,Johannesburg,1,5,6,9,10,0,0,60,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,20 Oct 2007,v Australia,Brabourne,2,5,9*,11,5,0,1,180,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,1 Feb 2008,v Australia,Melbourne,1,6,9,30,27,0,0,33.33,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,19 Apr 2008,v Kings XI,Mohali,1,4,2,-,3,0,0,66.66,lbw,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2008,v MI,Chennai,1,5,30,31,16,4,1,187.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Apr 2008,v KKR,Chennai,2,3,43*,38,27,3,2,159.25,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2008,v RCB,Bengaluru,1,5,65,-,30,9,3,216.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2008,v Daredevils,Chennai,1,4,32,-,27,2,1,118.51,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2008,v RR,Jaipur,1,6,1,-,7,0,0,14.28,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,6 May 2008,v Chargers,Chennai,1,6,23,-,31,2,0,74.19,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,8 May 2008,v Daredevils,Delhi,2,3,33,-,33,3,0,100,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2008,v Kings XI,Chennai,1,5,60*,-,43,2,4,139.53,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2008,v MI,Wankhede,1,6,43*,-,35,6,1,122.85,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2008,v KKR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,21 May 2008,v RCB,Chennai,2,3,4,-,8,0,0,50,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,24 May 2008,v RR,Chennai,2,5,12,-,8,2,0,150,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,27 May 2008,v Chargers,Hyderabad,2,4,37,-,25,4,1,148,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,31 May 2008,v Kings XI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,1 Jun 2008,v RR,DY Patil,1,5,29*,-,17,1,2,170.58,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,10 Feb 2009,v Sri Lanka,Colombo (RPS),2,5,13,17,17,1,0,76.47,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Feb 2009,v New Zealand,Christchurch,1,6,2,5,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Feb 2009,v New Zealand,Wellington,1,5,28*,57,30,2,0,93.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 Apr 2009,v MI,Cape Town,2,5,36,-,26,1,2,138.46,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,20 Apr 2009,v RCB,Gqeberha,1,4,16,17,14,0,1,114.28,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2009,v Daredevils,Durban,2,4,5,-,7,0,0,71.42,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,27 Apr 2009,v Chargers,Durban,1,4,22,-,22,1,1,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2009,v RR,Centurion,1,6,22*,-,19,0,1,115.78,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2009,v Daredevils,Johannesburg,1,6,6,-,7,0,0,85.71,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2009,v Chargers,East London,1,3,58*,-,37,6,1,156.75,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2009,v Kings XI,Centurion,1,4,56*,-,27,7,2,207.4,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,9 May 2009,v RR,Kimberley,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2009,v RCB,Durban,1,4,18,-,20,1,0,90,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,16 May 2009,v MI,Gqeberha,2,5,23*,-,22,2,0,104.54,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2009,v KKR,Centurion,1,4,40*,-,28,4,1,142.85,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2009,v Kings XI,Durban,1,5,2,-,2,0,0,100,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,23 May 2009,v RCB,Johannesburg,1,3,28,-,30,0,0,93.33,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,6 Jun 2009,v Bangladesh,Nottingham,1,3,26,26,21,0,1,123.8,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,10 Jun 2009,v Ireland,Nottingham,2,3,14,9,13,1,0,107.69,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,12 Jun 2009,v West Indies,Lord's,1,5,11,24,23,0,0,47.82,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,14 Jun 2009,v England,Lord's,2,6,30*,33,20,3,0,150,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,16 Jun 2009,v South Africa,Nottingham,2,5,5,11,12,0,0,41.66,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Dec 2009,v Sri Lanka,Nagpur,2,3,9,-,12,0,0,75,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,12 Dec 2009,v Sri Lanka,Mohali,2,3,46,55,28,3,2,164.28,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Mar 2010,v Chargers,Chennai,2,6,42,-,29,3,2,144.82,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,16 Mar 2010,v KKR,Eden Gardens,1,5,66*,-,33,6,3,200,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Mar 2010,v MI,Brabourne,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Mar 2010,v RR,Ahmedabad,2,4,21,-,19,2,0,110.52,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2010,v RCB,Chennai,2,4,14,-,19,1,0,73.68,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,3 Apr 2010,v RR,Chennai,1,5,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,6 Apr 2010,v MI,Chennai,1,4,31,-,18,4,0,172.22,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,10 Apr 2010,v Chargers,Nagpur,1,4,7,-,13,0,0,53.84,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,13 Apr 2010,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,15 Apr 2010,v Daredevils,Chennai,1,3,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,18 Apr 2010,v Kings XI,Dharamsala,2,5,54*,-,29,5,2,186.2,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2010,v Chargers,DY Patil,1,5,30,-,32,3,0,93.75,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2010,v MI,DY Patil,1,5,22,-,15,2,1,146.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2010,v Afghanistan,Gros Islet,2,5,15*,2,6,0,2,250,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2010,v South Africa,Gros Islet,1,6,16*,6,6,1,1,266.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2010,v Australia,Bridgetown,2,6,2,10,8,0,0,25,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,9 May 2010,v West Indies,Bridgetown,2,6,29,30,18,2,2,161.11,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,11 May 2010,v Sri Lanka,Gros Islet,1,4,23*,43,19,0,1,121.05,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,11 Sep 2010,v Central D,Durban,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,15 Sep 2010,v Wayamba,Centurion,1,5,10*,10,9,1,0,111.11,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 Sep 2010,v Victoria,Gqeberha,1,4,22,27,18,2,0,122.22,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Sep 2010,v Warriors,Gqeberha,1,4,31*,35,21,2,1,147.61,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Sep 2010,v RCB,Durban,1,4,11,11,10,2,0,110,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Sep 2010,v Warriors,Johannesburg,2,4,17*,16,12,2,1,141.66,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Jan 2011,v South Africa,Durban,1,7,10*,19,11,0,0,90.9,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,8 Apr 2011,v KKR,Chennai,1,4,29,-,21,1,1,138.09,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,13 Apr 2011,v Kings XI,Mohali,1,5,43,-,20,4,2,215,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,16 Apr 2011,v RCB,Chennai,1,4,22,-,16,1,1,137.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,18 Apr 2011,v Kochi,Kochi,1,5,14*,-,13,1,1,107.69,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2011,v MI,Wankhede,2,5,3,-,6,0,0,50,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2011,v Warriors,Chennai,1,4,26,-,21,2,1,123.8,stumped,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Apr 2011,v Warriors,DY Patil,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2011,v Chargers,Chennai,1,4,21,-,22,1,1,95.45,stumped,2,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2011,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2011,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,9 May 2011,v RR,Jaipur,1,4,41*,-,19,3,3,215.78,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2011,v Daredevils,Chennai,1,5,63*,-,31,5,4,203.22,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2011,v Kochi,Chennai,1,6,9,-,6,1,0,150,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,22 May 2011,v RCB,Bengaluru,1,6,70*,63,40,3,6,175,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,24 May 2011,v RCB,Wankhede,2,5,29,-,19,3,1,152.63,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,28 May 2011,v RCB,Chennai,1,3,22,-,13,0,2,169.23,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Aug 2011,v Kent,Canterbury,1,6,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,31 Aug 2011,v England,Manchester,1,7,8,15,8,1,0,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Sep 2011,v MI,Chennai,1,5,22*,22,13,3,0,169.23,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Sep 2011,v Cape Cobras,Chennai,2,6,15,30,17,0,0,88.23,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2011,v Trinidad & T,Chennai,2,6,7,25,22,0,0,31.81,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,4 Oct 2011,v NSW,Chennai,2,4,2,-,4,0,0,50,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,29 Oct 2011,v England,Eden Gardens,1,6,21,44,26,0,1,80.76,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,1 Feb 2012,v Australia,Sydney,2,6,48*,55,43,1,3,111.62,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,3 Feb 2012,v Australia,Melbourne,2,4,21*,26,18,2,0,116.66,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Mar 2012,v South Africa,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,4 Apr 2012,v MI,Chennai,1,7,4,9,6,0,0,66.66,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,7 Apr 2012,v Chargers,Visakhapatnam,1,6,7,10,9,0,0,77.77,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,10 Apr 2012,v Daredevils,Delhi,1,7,11,23,18,0,0,61.11,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,12 Apr 2012,v RCB,Chennai,2,4,41,41,24,1,2,170.83,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2012,v Warriors,Pune,1,4,26,52,28,1,0,92.85,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,19 Apr 2012,v Warriors,Chennai,1,4,28*,24,12,3,1,233.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2012,v RR,Chennai,2,4,15*,20,12,1,0,125,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2012,v RCB,Bengaluru,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2012,v Kings XI,Chennai,2,6,1,3,4,0,0,25,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2012,v KKR,Chennai,1,5,34*,46,30,2,0,113.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2012,v Chargers,Chennai,1,4,34,51,28,2,0,121.42,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,6 May 2012,v MI,Wankhede,1,5,25,22,15,2,1,166.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2012,v RR,Jaipur,2,5,10,23,16,1,0,62.5,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2012,v Daredevils,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2012,v KKR,Eden Gardens,2,5,28,31,21,3,1,133.33,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,17 May 2012,v Kings XI,Dharamsala,1,4,6,28,16,1,0,37.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,23 May 2012,v MI,Bengaluru,1,5,51*,-,20,6,2,255,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,25 May 2012,v Daredevils,Chennai,1,4,23,-,10,1,2,230,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,27 May 2012,v KKR,Chennai,1,4,14*,-,9,2,0,155.55,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,7 Aug 2012,v Sri Lanka,Pallekele,1,5,16*,13,14,2,0,114.28,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,11 Sep 2012,v New Zealand,Chennai,2,5,22*,31,23,2,0,95.65,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Sep 2012,v Afghanistan,Colombo (RPS),1,6,18*,21,9,2,1,200,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Sep 2012,v England,Colombo (RPS),1,5,9,23,8,1,0,112.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Sep 2012,v Australia,Colombo (RPS),1,7,15,21,21,2,0,71.42,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Sep 2012,v Pakistan,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2012,v South Africa,Colombo (RPS),1,7,23*,20,13,3,0,176.92,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,14 Oct 2012,v Sixers,Johannesburg,2,6,8,12,8,1,0,100,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,16 Oct 2012,v Lions,Cape Town,1,4,34,43,26,2,2,130.76,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,20 Oct 2012,v MI,Johannesburg,1,4,35,33,19,3,2,184.21,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Oct 2012,v Yorkshire,Durban,2,5,31,32,23,2,2,134.78,bowled,1,2.0,0,25,0,12.5
+28081,MS Dhoni,20 Dec 2012,v England,Pune,2,6,24*,29,21,2,0,114.28,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Dec 2012,v England,Wankhede,1,7,38,23,18,3,2,211.11,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Dec 2012,v Pakistan,Bengaluru,1,5,1,7,2,0,0,50,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Dec 2012,v Pakistan,Ahmedabad,1,5,33,39,23,4,0,143.47,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,6 Apr 2013,v MI,Chennai,2,6,51,55,26,5,3,196.15,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Apr 2013,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,13 Apr 2013,v RCB,Chennai,2,5,33,45,23,1,2,143.47,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,15 Apr 2013,v Warriors,Chennai,2,6,10,24,13,0,0,76.92,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,18 Apr 2013,v Daredevils,Delhi,1,4,44,35,23,5,1,191.3,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,20 Apr 2013,v KKR,Eden Gardens,2,5,9,13,7,0,0,128.57,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2013,v RR,Chennai,2,4,21,37,16,1,0,131.25,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2013,v SRH,Chennai,2,4,67*,57,37,7,4,181.08,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2013,v KKR,Chennai,1,4,18*,22,12,1,1,150,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2013,v Warriors,Pune,1,5,45*,21,16,4,3,281.25,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2013,v Kings XI,Chennai,1,4,2,5,2,0,0,100,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2013,v MI,Wankhede,2,7,10,23,12,1,0,83.33,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,8 May 2013,v SRH,Hyderabad,1,4,4,3,3,0,0,133.33,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2013,v RR,Jaipur,1,4,2,2,3,0,0,66.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2013,v Daredevils,Chennai,1,4,58*,52,35,2,4,165.71,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2013,v RCB,Bengaluru,2,5,24,-,10,2,2,240,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,21 May 2013,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,26 May 2013,v MI,Eden Gardens,2,7,63*,73,45,3,5,140,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Sep 2013,v Titans,Ranchi,2,6,7,9,8,0,1,87.5,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,26 Sep 2013,v SRH,Ranchi,1,5,63*,36,19,1,8,331.57,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Sep 2013,v Heat,Ranchi,2,4,13*,9,5,1,1,260,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2013,v Trinidad & T,Delhi,1,4,25,36,25,2,0,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,4 Oct 2013,v RR,Jaipur,2,5,3,4,7,0,0,42.85,lbw,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Oct 2013,v Australia,Rajkot,2,6,24*,44,21,2,0,114.28,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,21 Mar 2014,v Pakistan,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,23 Mar 2014,v West Indies,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Mar 2014,v Bangladesh,Mirpur,2,4,22*,16,12,1,2,183.33,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Mar 2014,v Australia,Mirpur,1,6,24,36,20,1,1,120,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,4 Apr 2014,v South Africa,Mirpur,2,6,0*,3,1,0,0,0,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,6 Apr 2014,v Sri Lanka,Mirpur,1,5,4*,10,7,0,0,57.14,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,18 Apr 2014,v Kings XI,Abu Dhabi,1,4,26,-,11,3,1,236.36,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2014,v Daredevils,Abu Dhabi,1,5,32,21,15,2,2,213.33,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2014,v RR,Dubai (DICS),1,5,5,12,8,0,0,62.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2014,v MI,Dubai (DICS),2,5,14*,19,11,1,1,127.27,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,27 Apr 2014,v SRH,Sharjah,2,4,13*,33,14,1,0,92.85,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2014,v KKR,Ranchi,1,4,22*,-,17,1,1,129.41,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2014,v Daredevils,Delhi,2,4,12*,8,5,1,1,240,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2014,v Kings XI,Cuttack,2,6,23,29,20,0,1,115,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2014,v MI,Wankhede,2,5,22*,29,12,1,1,183.33,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,13 May 2014,v RR,Ranchi,2,6,26*,28,16,1,1,162.5,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2014,v RCB,Ranchi,1,5,7,8,6,1,0,116.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2014,v KKR,Eden Gardens,1,5,21*,18,15,1,1,140,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 May 2014,v SRH,Ranchi,1,5,57*,53,41,2,4,139.02,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,24 May 2014,v RCB,Bengaluru,2,4,49*,32,28,4,3,175,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,28 May 2014,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,30 May 2014,v Kings XI,Wankhede,2,7,42*,-,31,3,3,135.48,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,7 Sep 2014,v England,Birmingham,2,5,27*,35,18,2,1,150,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,17 Sep 2014,v KKR,Hyderabad,1,5,35*,41,20,3,2,175,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Sep 2014,v Dolphins,Bengaluru,1,5,0,4,1,0,0,0,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Sep 2014,v Scorchers,Bengaluru,1,7,35,23,16,0,4,218.75,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2014,v Kings XI,Hyderabad,1,7,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,4 Oct 2014,v KKR,Bengaluru,2,4,23*,24,14,1,2,164.28,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Apr 2015,v Daredevils,Chennai,1,6,30,35,27,1,2,111.11,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,11 Apr 2015,v SRH,Chennai,1,4,53,27,29,4,4,182.75,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,17 Apr 2015,v MI,Wankhede,2,5,3,14,6,0,0,50,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Apr 2015,v RR,Ahmedabad,1,6,31*,52,37,4,0,83.78,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2015,v RCB,Bengaluru,1,4,13,25,13,2,0,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2015,v Kings XI,Chennai,1,4,41*,38,27,2,2,151.85,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2015,v KKR,Chennai,1,5,3,10,6,0,0,50,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2015,v KKR,Eden Gardens,1,6,1,-,4,0,0,25,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,2 May 2015,v SRH,Hyderabad,2,5,20,26,16,2,0,125,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2015,v RCB,Chennai,1,5,29,22,18,2,2,161.11,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,8 May 2015,v MI,Chennai,1,5,39*,43,32,2,2,121.87,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2015,v RR,Chennai,1,6,13*,14,7,1,1,185.71,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2015,v Daredevils,Raipur,1,5,27,41,24,3,1,112.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,16 May 2015,v Kings XI,Mohali,2,5,25*,18,16,2,2,156.25,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,19 May 2015,v MI,Wankhede,2,5,0,1,1,0,0,0,lbw,1,DNB,-,-,-,-
+28081,MS Dhoni,22 May 2015,v RCB,Ranchi,2,5,26,55,29,1,0,89.65,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,24 May 2015,v MI,Eden Gardens,2,4,18,25,13,1,1,138.46,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2015,v South Africa,Dharamsala,1,5,20*,22,12,2,1,166.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 Oct 2015,v South Africa,Cuttack,1,6,5,20,8,0,0,62.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Jan 2016,v Australia,Adelaide,1,5,11*,3,3,1,1,366.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,29 Jan 2016,v Australia,Melbourne,1,4,14,18,9,2,0,155.55,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,31 Jan 2016,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Feb 2016,v Sri Lanka,Pune,1,6,2,2,2,0,0,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,12 Feb 2016,v Sri Lanka,Ranchi,1,6,9*,-,5,1,0,180,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,14 Feb 2016,v Sri Lanka,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,24 Feb 2016,v Bangladesh,Mirpur,1,7,8*,4,2,0,1,400,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Feb 2016,v Pakistan,Mirpur,2,7,7*,6,3,1,0,233.33,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,1 Mar 2016,v Sri Lanka,Mirpur,2,7,7*,7,4,0,1,175,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,3 Mar 2016,v U.A.E.,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,6 Mar 2016,v Bangladesh,Mirpur,2,4,20*,7,6,1,2,333.33,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,15 Mar 2016,v New Zealand,Nagpur,2,6,30,-,30,1,1,100,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Mar 2016,v Pakistan,Eden Gardens,2,6,13*,15,9,0,1,144.44,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,23 Mar 2016,v Bangladesh,Bengaluru,1,6,13*,29,12,1,0,108.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Mar 2016,v Australia,Mohali,2,6,18*,29,10,3,0,180,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2016,v West Indies,Wankhede,1,4,15*,24,9,1,0,166.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,9 Apr 2016,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2016,v Guj Lions,Rajkot,1,5,22*,19,10,2,1,220,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,17 Apr 2016,v Kings XI,Mohali,1,6,1,11,2,0,0,50,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2016,v RCB,Pune,2,5,41,70,38,3,0,107.89,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,24 Apr 2016,v KKR,Pune,1,6,23*,13,12,2,1,191.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Apr 2016,v SRH,Hyderabad,2,4,5,8,4,1,0,125,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,29 Apr 2016,v Guj Lions,Pune,1,4,30*,28,18,2,2,166.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2016,v MI,Pune,1,5,24,38,24,2,0,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2016,v Daredevils,Delhi,2,4,27,22,20,1,2,135,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2016,v RCB,Bengaluru,1,4,9,6,8,0,1,112.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2016,v SRH,Visakhapatnam,2,6,30,36,20,1,2,150,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2016,v KKR,Eden Gardens,1,6,8*,-,22,0,0,36.36,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,17 May 2016,v Daredevils,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,21 May 2016,v Kings XI,Visakhapatnam,2,5,64*,49,32,4,5,200,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,18 Jun 2016,v Zimbabwe,Harare,2,6,19*,-,17,1,0,111.76,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,20 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Jun 2016,v Zimbabwe,Harare,1,6,9,19,13,1,0,69.23,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Aug 2016,v West Indies,Lauderhill,2,5,43,53,25,2,2,172,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Aug 2016,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,26 Jan 2017,v England,Kanpur,1,5,36*,47,27,3,0,133.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,29 Jan 2017,v England,Nagpur,1,6,5,16,7,0,0,71.42,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,1 Feb 2017,v England,Bengaluru,1,4,56,56,36,5,2,155.55,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,6 Apr 2017,v MI,Pune,2,5,12*,24,12,1,0,100,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,8 Apr 2017,v Kings XI,Indore,1,5,5,-,11,0,0,45.45,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,11 Apr 2017,v Daredevils,Pune,2,6,11,23,14,0,1,78.57,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2017,v Guj Lions,Rajkot,1,6,5,10,8,0,0,62.5,lbw,2,DNB,-,-,-,-
+28081,MS Dhoni,16 Apr 2017,v RCB,Bengaluru,1,4,28,37,25,3,1,112,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2017,v SRH,Pune,2,4,61*,56,34,5,3,179.41,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,24 Apr 2017,v MI,Wankhede,1,4,7,32,11,0,0,63.63,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Apr 2017,v KKR,Pune,1,4,23,16,11,1,2,209.09,stumped,2,DNB,-,-,-,-
+28081,MS Dhoni,29 Apr 2017,v RCB,Pune,1,5,21*,29,17,1,1,123.52,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2017,v Guj Lions,Pune,2,6,26,45,33,1,1,78.78,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,3 May 2017,v KKR,Eden Gardens,2,6,5,10,9,0,0,55.55,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,6 May 2017,v SRH,Hyderabad,1,5,31,29,21,2,2,147.61,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2017,v Daredevils,Delhi,2,6,5,10,5,0,0,100,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2017,v Kings XI,Pune,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,16 May 2017,v MI,Wankhede,1,5,40*,42,26,0,5,153.84,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,21 May 2017,v MI,Hyderabad,2,4,10,26,13,1,0,76.92,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Jul 2017,v West Indies,Kingston,1,5,2,-,3,0,0,66.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,6 Sep 2017,v Sri Lanka,Colombo (RPS),2,5,1*,-,1,0,0,100,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,7 Oct 2017,v Australia,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Oct 2017,v Australia,Guwahati,1,6,13,24,16,1,0,81.25,stumped,2,DNB,-,-,-,-
+28081,MS Dhoni,1 Nov 2017,v New Zealand,Delhi,1,5,7*,4,2,0,1,350,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,4 Nov 2017,v New Zealand,Rajkot,2,6,49,44,37,2,3,132.43,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,7 Nov 2017,v New Zealand,Thiruvananthapuram,1,7,0*,3,0,0,0,-,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,20 Dec 2017,v Sri Lanka,Cuttack,1,4,39*,40,22,4,1,177.27,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Dec 2017,v Sri Lanka,Indore,1,3,28,41,21,2,2,133.33,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Dec 2017,v Sri Lanka,Wankhede,2,7,16*,20,10,2,0,160,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,18 Feb 2018,v South Africa,Johannesburg,1,6,16,17,11,2,0,145.45,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Feb 2018,v South Africa,Centurion,1,6,52*,43,28,4,3,185.71,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Feb 2018,v South Africa,Cape Town,1,6,12,14,11,1,0,109.09,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,7 Apr 2018,v MI,Wankhede,2,5,5,-,5,0,0,100,lbw,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Apr 2018,v KKR,Chennai,2,4,25,-,28,1,1,89.28,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,15 Apr 2018,v Kings XI,Mohali,2,5,79*,-,44,6,5,179.54,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,20 Apr 2018,v RR,Pune,1,4,5,-,3,1,0,166.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,22 Apr 2018,v SRH,Hyderabad,1,5,25*,-,12,3,1,208.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2018,v RCB,Bengaluru,2,6,70*,-,34,1,7,205.88,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2018,v MI,Pune,1,4,26,-,21,3,1,123.8,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2018,v Daredevils,Pune,1,5,51*,-,22,2,5,231.81,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,3 May 2018,v KKR,Eden Gardens,1,5,43*,-,25,1,4,172,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2018,v RCB,Pune,2,5,31*,-,23,1,3,134.78,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,11 May 2018,v RR,Jaipur,1,4,33*,-,23,1,1,143.47,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,13 May 2018,v SRH,Pune,2,4,20*,-,14,1,1,142.85,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2018,v Daredevils,Delhi,2,4,17,-,23,1,0,73.91,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2018,v Kings XI,Pune,2,7,16*,-,7,1,1,228.57,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 May 2018,v SRH,Wankhede,2,5,9,-,18,1,0,50,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,27 May 2018,v SRH,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,27 Jun 2018,v Ireland,Dublin (Malahide),1,4,11,8,5,1,1,220,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,3 Jul 2018,v England,Manchester,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,6 Jul 2018,v England,Cardiff,1,6,32*,-,24,5,0,133.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,8 Jul 2018,v England,Bristol,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,6 Feb 2019,v New Zealand,Wellington,2,5,39,47,31,5,1,125.8,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,8 Feb 2019,v New Zealand,Auckland,2,5,20*,23,17,1,0,117.64,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Feb 2019,v New Zealand,Hamilton,2,6,2,9,4,0,0,50,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,24 Feb 2019,v Australia,Visakhapatnam,1,5,29*,48,37,0,1,78.37,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Feb 2019,v Australia,Bengaluru,1,5,40,39,23,3,3,173.91,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Mar 2019,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,26 Mar 2019,v DC,Delhi,2,5,32*,45,35,2,1,91.42,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2019,v RR,Chennai,1,5,75*,-,46,4,4,163.04,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,3 Apr 2019,v MI,Wankhede,2,5,12,48,21,0,0,57.14,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,6 Apr 2019,v Kings XI,Chennai,1,4,37*,39,23,4,1,160.86,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,9 Apr 2019,v KKR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,11 Apr 2019,v RR,Jaipur,2,6,58,76,43,2,3,134.88,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2019,v KKR,Eden Gardens,2,6,16,25,13,0,1,123.07,lbw,1,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2019,v RCB,Bengaluru,2,6,84*,82,48,5,7,175,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2019,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2019,v DC,Chennai,1,4,44*,39,22,4,3,200,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2019,v Kings XI,Mohali,1,4,10*,20,12,0,0,83.33,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2019,v MI,Chennai,1,6,37*,46,29,0,3,127.58,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2019,v DC,Visakhapatnam,2,5,9,14,9,1,0,100,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2019,v MI,Hyderabad,2,5,2,-,8,0,0,25,run out,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Sep 2020,v MI,Abu Dhabi,2,7,0*,-,2,0,0,0,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Sep 2020,v RR,Sharjah,2,7,29*,-,17,0,3,170.58,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Sep 2020,v DC,Dubai (DICS),2,6,15,-,12,2,0,125,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2020,v SRH,Dubai (DICS),2,5,47*,-,36,4,1,130.55,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,7 Oct 2020,v KKR,Abu Dhabi,2,4,11,-,12,1,0,91.66,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Oct 2020,v RCB,Dubai (DICS),2,5,10,-,6,0,1,166.66,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,13 Oct 2020,v SRH,Dubai (DICS),1,5,21,-,13,2,1,161.53,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,17 Oct 2020,v DC,Sharjah,1,5,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,19 Oct 2020,v RR,Abu Dhabi,1,5,28,-,28,2,0,100,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Oct 2020,v MI,Sharjah,1,5,16,-,16,2,1,100,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Oct 2020,v RCB,Dubai (DICS),2,4,19*,-,21,3,0,90.47,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,29 Oct 2020,v KKR,Dubai (DICS),2,4,1,-,4,0,0,25,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,1 Nov 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,10 Apr 2021,v DC,Wankhede,1,7,0,3,2,0,0,0,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,16 Apr 2021,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,19 Apr 2021,v RR,Wankhede,1,7,18,19,17,2,0,105.88,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2021,v KKR,Wankhede,1,4,17,18,8,2,1,212.5,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2021,v RCB,Wankhede,1,6,2*,17,3,0,0,66.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2021,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2021,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,19 Sep 2021,v MI,Dubai (DICS),1,6,3,18,5,0,0,60,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,24 Sep 2021,v RCB,Sharjah,2,6,11*,14,9,2,0,122.22,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,26 Sep 2021,v KKR,Abu Dhabi,2,6,1,8,4,0,0,25,bowled,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Sep 2021,v SRH,Sharjah,2,6,14*,21,11,1,1,127.27,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,2 Oct 2021,v RR,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,4 Oct 2021,v DC,Dubai (DICS),1,6,18,46,27,0,0,66.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,7 Oct 2021,v Punjab Kings,Dubai (DICS),1,6,12,15,15,2,0,80,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,10 Oct 2021,v DC,Dubai (DICS),2,7,18*,11,6,3,1,300,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,15 Oct 2021,v KKR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,26 Mar 2022,v KKR,Wankhede,1,7,50*,47,38,7,1,131.57,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2022,v LSG,Brabourne,1,7,16*,12,6,2,1,266.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,3 Apr 2022,v Punjab Kings,Brabourne,2,7,23,51,28,1,1,82.14,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,9 Apr 2022,v SRH,DY Patil,1,7,3,12,6,0,0,50,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,12 Apr 2022,v RCB,DY Patil,1,6,0*,8,0,0,0,-,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,17 Apr 2022,v GT,Pune,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2022,v MI,DY Patil,2,7,28*,34,13,3,1,215.38,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2022,v Punjab Kings,Wankhede,2,7,12,14,8,1,1,150,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2022,v SRH,Pune,1,3,8,9,7,1,0,114.28,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,4 May 2022,v RCB,Pune,2,7,2,15,3,0,0,66.66,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,8 May 2022,v DC,DY Patil,1,5,21*,20,8,1,2,262.5,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2022,v MI,Wankhede,1,6,36*,65,33,4,2,109.09,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,15 May 2022,v GT,Wankhede,1,6,7,18,10,0,0,70,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2022,v RR,Brabourne,1,6,26,44,28,1,1,92.85,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2023,v GT,Ahmedabad,1,8,14*,-,7,1,1,200,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,3 Apr 2023,v LSG,Chennai,1,8,12,6,3,0,2,400,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,8 Apr 2023,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,12 Apr 2023,v RR,Chennai,2,8,32*,30,17,1,3,188.23,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,17 Apr 2023,v RCB,Bengaluru,1,8,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,21 Apr 2023,v SRH,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2023,v KKR,Eden Gardens,1,6,2*,4,3,0,0,66.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,27 Apr 2023,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2023,v Punjab Kings,Chennai,1,6,13*,8,4,0,2,325,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,3 May 2023,v LSG,Lucknow,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,6 May 2023,v MI,Chennai,2,6,2*,7,3,0,0,66.66,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2023,v DC,Chennai,1,8,20,22,9,1,2,222.22,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,14 May 2023,v KKR,Chennai,1,8,2*,4,3,0,0,66.66,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2023,v DC,Delhi,1,4,5*,14,4,0,0,125,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,23 May 2023,v GT,Chennai,1,7,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,28 May 2023,v GT,Ahmedabad,2,6,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,22 Mar 2024,v RCB,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,26 Mar 2024,v GT,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+28081,MS Dhoni,31 Mar 2024,v DC,Visakhapatnam,2,8,37*,22,16,4,3,231.25,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,5 Apr 2024,v SRH,Hyderabad,1,7,1*,2,2,0,0,50,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,8 Apr 2024,v KKR,Chennai,2,5,1*,3,3,0,0,33.33,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2024,v MI,Wankhede,1,6,20*,4,4,0,3,500,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,19 Apr 2024,v LSG,Lucknow,1,8,28*,15,9,3,2,311.11,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,23 Apr 2024,v LSG,Chennai,1,6,4*,1,1,1,0,400,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,28 Apr 2024,v SRH,Chennai,1,5,5*,3,2,1,0,250,not out,2,DNB,-,-,-,-
+28081,MS Dhoni,1 May 2024,v Punjab Kings,Chennai,1,7,14,15,11,1,1,127.27,run out,2,DNB,-,-,-,-
+28081,MS Dhoni,5 May 2024,v Punjab Kings,Dharamsala,1,9,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+28081,MS Dhoni,10 May 2024,v GT,Ahmedabad,2,8,26*,20,11,1,3,236.36,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,12 May 2024,v RR,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+28081,MS Dhoni,18 May 2024,v RCB,Bengaluru,2,8,25,25,13,3,1,192.3,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,23 Mar 2025,v MI,Chennai,2,8,0*,2,2,0,0,0,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,28 Mar 2025,v RCB,Chennai,2,9,30*,22,16,3,2,187.5,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,30 Mar 2025,v RR,Guwahati,2,7,16,19,11,1,1,145.45,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,5 Apr 2025,v DC,Chennai,2,7,30*,43,26,1,1,115.38,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,8 Apr 2025,v Punjab Kings,New Chandigarh,2,5,27,22,12,1,3,225,caught,1,DNB,-,-,-,-
+28081,MS Dhoni,11 Apr 2025,v KKR,Chennai,1,9,1,7,4,0,0,25,lbw,2,DNB,-,-,-,-
+28081,MS Dhoni,14 Apr 2025,v LSG,Lucknow,2,7,26*,31,11,4,1,236.36,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,20 Apr 2025,v MI,Wankhede,1,6,4,12,6,0,0,66.66,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 Apr 2025,v SRH,Chennai,1,8,6,10,10,1,0,60,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,30 Apr 2025,v Punjab Kings,Chennai,1,7,11,5,4,1,1,275,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,3 May 2025,v RCB,Bengaluru,2,6,12,17,8,0,1,150,lbw,1,DNB,-,-,-,-
+28081,MS Dhoni,7 May 2025,v KKR,Eden Gardens,2,8,17*,42,18,0,1,94.44,not out,1,DNB,-,-,-,-
+28081,MS Dhoni,20 May 2025,v RR,Delhi,1,8,16,28,17,0,1,94.11,caught,2,DNB,-,-,-,-
+28081,MS Dhoni,25 May 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-

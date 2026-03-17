@@ -1,0 +1,76 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1213979,Mitchell Owen,12 Jan 2021,v Scorchers,Perth,1,7,11*,-,7,2,0,157.14,not out,2,1.0,0,18,0,18
+1213979,Mitchell Owen,18 Jan 2021,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1213979,Mitchell Owen,5 Jan 2022,v Strikers,Adelaide,1,8,16,17,10,3,0,160,bowled,2,1.1,0,13,0,11.14
+1213979,Mitchell Owen,8 Jan 2022,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+1213979,Mitchell Owen,10 Jan 2022,v Thunder,Melbourne,1,8,3*,4,1,0,0,300,not out,2,3.0,0,25,0,8.33
+1213979,Mitchell Owen,13 Jan 2022,v Thunder,Melbourne (Docklands),1,8,7*,19,7,1,0,100,not out,2,1.0,0,6,0,6
+1213979,Mitchell Owen,19 Jan 2022,v Stars,Melbourne,2,8,0*,2,0,0,0,-,not out,1,3.0,0,32,0,10.66
+1213979,Mitchell Owen,2 Jan 2023,v Strikers,Hobart,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,1,8.5
+1213979,Mitchell Owen,5 Jan 2023,v Strikers,Adelaide,1,5,10,-,7,0,1,142.85,caught,2,2.0,0,33,0,16.5
+1213979,Mitchell Owen,9 Jan 2023,v Stars,Hobart,2,7,0,5,2,0,0,0,bowled,1,1.0,0,6,0,6
+1213979,Mitchell Owen,20 Jan 2023,v Heat,Brisbane,2,7,3,17,8,0,0,37.5,caught,1,1.0,0,7,0,7
+1213979,Mitchell Owen,20 Dec 2023,v Scorchers,Perth,1,7,28,33,22,3,0,127.27,caught,2,1.0,0,12,0,12
+1213979,Mitchell Owen,15 Jan 2024,v Stars,Melbourne,1,8,1,2,2,0,0,50,caught,2,1.0,0,8,0,8
+1213979,Mitchell Owen,19 Dec 2024,v Renegades,Geelong,1,2,10,17,7,2,0,142.85,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,21 Dec 2024,v Scorchers,Hobart,2,1,101*,82,64,9,5,157.81,not out,1,DNB,-,-,-,-
+1213979,Mitchell Owen,27 Dec 2024,v Strikers,Adelaide,1,1,8,-,4,2,0,200,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,1 Jan 2025,v Sixers,Hobart,1,2,33,20,17,4,2,194.11,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,5 Jan 2025,v Strikers,Hobart,2,1,37,22,16,2,3,231.25,stumped,1,DNB,-,-,-,-
+1213979,Mitchell Owen,10 Jan 2025,v Thunder,Hobart,2,1,13,12,6,1,1,216.66,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,14 Jan 2025,v Renegades,Hobart,2,1,24,18,14,2,2,171.42,run out,1,2.0,0,13,1,6.5
+1213979,Mitchell Owen,16 Jan 2025,v Heat,Brisbane,2,2,44,36,20,1,6,220,caught,1,3.0,0,20,1,6.66
+1213979,Mitchell Owen,19 Jan 2025,v Stars,Melbourne,2,2,38,27,17,3,3,223.52,caught,1,4.0,0,46,1,11.5
+1213979,Mitchell Owen,21 Jan 2025,v Sixers,Hobart,1,1,36,20,15,3,3,240,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,27 Jan 2025,v Thunder,Hobart,2,1,108,45,42,6,11,257.14,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,1 Feb 2025,v Sunrisers,Gqeberha,2,2,7,8,5,1,0,140,caught,1,3.0,0,36,2,12
+1213979,Mitchell Owen,4 Feb 2025,v MI Cape Town,Gqeberha,2,2,7,11,3,0,1,233.33,caught,1,1.5,0,29,0,15.81
+1213979,Mitchell Owen,6 Feb 2025,v Sunrisers,Centurion,1,2,0,7,3,0,0,0,caught,2,1.0,0,8,0,8
+1213979,Mitchell Owen,12 Apr 2025,v Gladiators,Rawalpindi,2,7,31,-,13,1,4,238.46,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,14 Apr 2025,v United,Rawalpindi,2,3,10,7,7,1,1,142.85,lbw,1,DNB,-,-,-,-
+1213979,Mitchell Owen,19 Apr 2025,v Sultans,Rawalpindi,1,6,34,29,15,1,4,226.66,caught,2,0.5,0,2,2,2.4
+1213979,Mitchell Owen,21 Apr 2025,v Kings,Karachi,1,6,5,7,6,1,0,83.33,lbw,2,DNB,-,-,-,-
+1213979,Mitchell Owen,24 Apr 2025,v Qalandars,Lahore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+1213979,Mitchell Owen,27 Apr 2025,v Gladiators,Lahore,2,7,15,17,8,1,1,187.5,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,2 May 2025,v United,Lahore,2,1,6,-,2,0,1,300,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,5 May 2025,v Sultans,Multan,2,1,1,-,2,0,0,50,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,18 May 2025,v RR,Jaipur,1,3,0,7,2,0,0,0,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,12 Jun 2025,v SF,Oakland,2,1,39,-,20,4,3,195,run out,1,3.0,0,33,1,11
+1213979,Mitchell Owen,14 Jun 2025,v Seattle,Oakland,2,1,25,-,11,1,2,227.27,caught,1,4.0,0,24,1,6
+1213979,Mitchell Owen,17 Jun 2025,v Los Angeles,Oakland,1,1,32,-,11,4,2,290.9,caught,2,3.0,0,18,3,6
+1213979,Mitchell Owen,21 Jun 2025,v MI New York,Dallas,2,1,60,-,26,5,5,230.76,caught,1,4.0,0,29,1,7.25
+1213979,Mitchell Owen,22 Jun 2025,v Texas,Dallas,2,1,89,-,52,8,5,171.15,caught,1,3.0,0,33,3,11
+1213979,Mitchell Owen,26 Jun 2025,v Los Angeles,Dallas,2,1,43,-,16,3,4,268.75,bowled,1,4.0,0,47,0,11.75
+1213979,Mitchell Owen,28 Jun 2025,v SF,Dallas,1,1,0,-,1,0,0,0,caught,2,3.0,0,17,5,5.66
+1213979,Mitchell Owen,2 Jul 2025,v Texas,Lauderhill,2,1,7,-,6,0,1,116.66,caught,1,2.0,0,39,0,19.5
+1213979,Mitchell Owen,4 Jul 2025,v Seattle,Lauderhill,2,1,6,-,8,1,0,75,bowled,1,DNB,-,-,-,-
+1213979,Mitchell Owen,6 Jul 2025,v MI New York,Lauderhill,2,1,12,-,9,2,0,133.33,bowled,1,2.0,0,11,0,5.5
+1213979,Mitchell Owen,8 Jul 2025,v Texas,Dallas,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1213979,Mitchell Owen,13 Jul 2025,v MI New York,Dallas,2,1,0,-,1,0,0,0,caught,1,2.0,0,27,0,13.5
+1213979,Mitchell Owen,20 Jul 2025,v West Indies,Kingston,2,6,50,44,27,0,6,185.18,caught,1,1.0,0,14,1,14
+1213979,Mitchell Owen,22 Jul 2025,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,1.0,0,9,0,9
+1213979,Mitchell Owen,25 Jul 2025,v West Indies,Basseterre,2,6,36*,-,16,2,3,225,not out,1,2.0,0,23,1,11.5
+1213979,Mitchell Owen,26 Jul 2025,v West Indies,Basseterre,2,5,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,28 Jul 2025,v West Indies,Basseterre,2,6,37,-,17,3,3,217.64,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,10 Aug 2025,v South Africa,Darwin,1,6,2,4,4,0,0,50,bowled,2,DNB,-,-,-,-
+1213979,Mitchell Owen,12 Aug 2025,v South Africa,Darwin,2,6,8,32,13,0,0,61.53,bowled,1,DNB,-,-,-,-
+1213979,Mitchell Owen,1 Oct 2025,v New Zealand,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1213979,Mitchell Owen,3 Oct 2025,v New Zealand,Mount Maunganui,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1213979,Mitchell Owen,4 Oct 2025,v New Zealand,Mount Maunganui,2,7,14,13,10,0,1,140,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,29 Oct 2025,v India,Canberra,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1213979,Mitchell Owen,31 Oct 2025,v India,Melbourne,2,5,14,23,10,0,1,140,caught,1,1.0,0,13,0,13
+1213979,Mitchell Owen,2 Nov 2025,v India,Hobart,1,5,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+1213979,Mitchell Owen,16 Dec 2025,v Thunder,Hobart,2,1,32,22,14,6,1,228.57,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,18 Dec 2025,v Stars,Melbourne,1,1,8,2,4,0,1,200,caught,2,DNB,-,-,-,-
+1213979,Mitchell Owen,21 Dec 2025,v Renegades,Geelong,2,1,0,1,1,0,0,0,caught,1,1.0,0,7,0,7
+1213979,Mitchell Owen,26 Dec 2025,v Scorchers,Perth,2,1,6,2,2,0,1,300,caught,1,2.0,0,16,1,8
+1213979,Mitchell Owen,29 Dec 2025,v Renegades,Hobart,2,1,10,20,13,1,0,76.92,caught,1,1.0,0,12,1,12
+1213979,Mitchell Owen,1 Jan 2026,v Scorchers,Hobart,2,2,4,8,6,1,0,66.66,caught,1,2.0,0,26,1,13
+1213979,Mitchell Owen,3 Jan 2026,v Thunder,Sydney,2,2,45,38,18,2,5,250,caught,1,1.0,0,14,0,14
+1213979,Mitchell Owen,9 Jan 2026,v Strikers,Hobart,1,2,33,12,9,2,4,366.66,caught,2,1.0,0,15,0,15
+1213979,Mitchell Owen,11 Jan 2026,v Sixers,Sydney,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1213979,Mitchell Owen,14 Jan 2026,v Heat,Hobart,2,2,8,15,6,0,0,133.33,caught,1,1.0,0,5,0,5
+1213979,Mitchell Owen,21 Jan 2026,v Stars,Hobart,1,1,7,-,4,0,1,175,stumped,2,1.0,0,22,1,22
+1213979,Mitchell Owen,23 Jan 2026,v Sixers,Sydney,2,1,13,-,8,3,0,162.5,caught,1,DNB,-,-,-,-
+1213979,Mitchell Owen,29 Jan 2026,v Pakistan,Lahore,2,6,8,9,8,1,0,100,run out,1,DNB,-,-,-,-
+1213979,Mitchell Owen,1 Feb 2026,v Pakistan,Lahore,2,7,8,20,10,1,0,80,lbw,1,DNB,-,-,-,-

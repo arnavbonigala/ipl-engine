@@ -1,0 +1,48 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1287032,Naman Dhir,16 Oct 2023,v Saurashtra,Ranchi,2,3,9,-,5,1,0,180,caught,1,DNB,-,-,-,-
+1287032,Naman Dhir,17 Oct 2023,v Andhra,Ranchi,1,3,17,-,8,0,2,212.5,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,19 Oct 2023,v Railways,Ranchi,1,3,12,-,13,0,1,92.3,bowled,2,DNB,-,-,-,-
+1287032,Naman Dhir,27 Oct 2023,v Arunachal,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1287032,Naman Dhir,4 Nov 2023,v Delhi,Mohali,2,3,1,-,2,0,0,50,caught,1,sub,-,-,-,-
+1287032,Naman Dhir,24 Mar 2024,v GT,Ahmedabad,2,3,20,13,10,3,1,200,lbw,1,1.0,0,13,0,13
+1287032,Naman Dhir,27 Mar 2024,v SRH,Hyderabad,2,3,30,35,14,2,2,214.28,caught,1,DNB,-,-,-,-
+1287032,Naman Dhir,1 Apr 2024,v RR,Wankhede,1,3,0,2,1,0,0,0,lbw,2,sub,-,-,-,-
+1287032,Naman Dhir,3 May 2024,v KKR,Wankhede,2,3,11,12,11,2,0,100,bowled,1,3.0,0,25,0,8.33
+1287032,Naman Dhir,6 May 2024,v SRH,Wankhede,2,3,0,12,9,0,0,0,caught,1,DNB,-,-,-,-
+1287032,Naman Dhir,11 May 2024,v KKR,Eden Gardens,2,8,17,6,6,1,2,283.33,caught,1,DNB,-,-,-,-
+1287032,Naman Dhir,17 May 2024,v LSG,Wankhede,2,7,62*,31,28,4,5,221.42,not out,1,0.4,0,17,0,25.5
+1287032,Naman Dhir,23 Nov 2024,v Bengal,Rajkot,1,4,12,-,5,1,1,240,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,25 Nov 2024,v Bihar,Rajkot,2,4,13,-,11,2,0,118.18,caught,1,2.0,0,7,0,3.5
+1287032,Naman Dhir,27 Nov 2024,v M. Pradesh,Rajkot,2,3,39,-,27,4,1,144.44,caught,1,1.0,0,5,0,5
+1287032,Naman Dhir,29 Nov 2024,v Mizoram,Rajkot,2,3,41,-,24,4,2,170.83,caught,1,2.0,0,21,0,10.5
+1287032,Naman Dhir,1 Dec 2024,v Hyderabad,Saurashtra,1,5,9,-,11,1,0,81.81,caught,2,4.0,0,19,5,4.75
+1287032,Naman Dhir,3 Dec 2024,v Rajasthan,Saurashtra,2,5,18,-,15,1,0,120,caught,1,2.0,0,16,0,8
+1287032,Naman Dhir,5 Dec 2024,v Meghalaya,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1287032,Naman Dhir,23 Mar 2025,v CSK,Chennai,1,7,17,18,12,1,0,141.66,bowled,2,3.0,0,12,0,4
+1287032,Naman Dhir,29 Mar 2025,v GT,Ahmedabad,2,7,18*,20,11,3,0,163.63,not out,1,DNB,-,-,-,-
+1287032,Naman Dhir,31 Mar 2025,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1287032,Naman Dhir,4 Apr 2025,v LSG,Lucknow,2,3,46,34,24,4,3,191.66,bowled,1,DNB,-,-,-,-
+1287032,Naman Dhir,7 Apr 2025,v RCB,Wankhede,2,7,11,15,6,1,1,183.33,caught,1,DNB,-,-,-,-
+1287032,Naman Dhir,13 Apr 2025,v DC,Delhi,1,6,38*,33,17,3,2,223.52,not out,2,DNB,-,-,-,-
+1287032,Naman Dhir,17 Apr 2025,v SRH,Wankhede,2,7,0,5,3,0,0,0,lbw,1,DNB,-,-,-,-
+1287032,Naman Dhir,20 Apr 2025,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1287032,Naman Dhir,23 Apr 2025,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1287032,Naman Dhir,27 Apr 2025,v LSG,Wankhede,1,7,25*,28,11,2,2,227.27,not out,2,DNB,-,-,-,-
+1287032,Naman Dhir,1 May 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1287032,Naman Dhir,6 May 2025,v GT,Wankhede,1,7,7,17,10,1,0,70,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,21 May 2025,v DC,Wankhede,1,7,24*,23,8,2,2,300,not out,2,DNB,-,-,-,-
+1287032,Naman Dhir,26 May 2025,v Punjab Kings,Jaipur,1,7,20,15,12,0,2,166.66,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,30 May 2025,v GT,New Chandigarh,1,6,9,10,6,0,1,150,caught,2,1.0,0,9,0,9
+1287032,Naman Dhir,1 Jun 2025,v Punjab Kings,Ahmedabad,1,6,37,27,18,7,0,205.55,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,14 Nov 2025,v U.A.E.,Doha,1,3,34,-,23,3,2,147.82,caught,2,1.0,0,9,0,9
+1287032,Naman Dhir,16 Nov 2025,v Shaheens,Doha,1,3,35,-,20,6,1,175,caught,2,1.2,0,27,0,20.25
+1287032,Naman Dhir,18 Nov 2025,v Oman,Doha,2,3,30,-,19,2,2,157.89,caught,1,2.0,0,5,1,2.5
+1287032,Naman Dhir,21 Nov 2025,v Bangladesh A,Doha,2,3,7,-,12,1,0,58.33,caught,1,2.0,0,33,1,16.5
+1287032,Naman Dhir,30 Nov 2025,v Bengal,Hyderabad,1,6,7*,-,2,0,1,350,not out,2,1.0,0,13,0,13
+1287032,Naman Dhir,2 Dec 2025,v Baroda,Hyderabad,1,4,39,-,28,2,2,139.28,bowled,2,DNB,-,-,-,-
+1287032,Naman Dhir,4 Dec 2025,v Puducherry,Hyderabad,1,4,37,-,32,3,1,115.62,caught,2,2.0,0,26,0,13
+1287032,Naman Dhir,6 Dec 2025,v Services,Hyderabad,1,4,54,-,22,2,6,245.45,caught,2,2.0,0,25,1,12.5
+1287032,Naman Dhir,8 Dec 2025,v Gujarat,Hyderabad,1,4,61,-,36,4,3,169.44,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,12 Dec 2025,v Jharkhand,Ambi,1,4,27,-,22,3,0,122.72,caught,2,DNB,-,-,-,-
+1287032,Naman Dhir,14 Dec 2025,v Andhra,Pune,1,4,3,-,6,0,0,50,caught,2,1.0,0,19,0,19
+1287032,Naman Dhir,16 Dec 2025,v M. Pradesh,Ambi,2,4,7,-,6,1,0,116.66,run out,1,DNB,-,-,-,-

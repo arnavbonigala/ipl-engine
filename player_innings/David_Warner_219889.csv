@@ -1,0 +1,433 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+219889,David Warner,5 Jan 2007,v Queensland,Brisbane,2,6,20,13,11,3,1,181.81,bowled,1,DNB,-,-,-,-
+219889,David Warner,7 Jan 2007,v South Aust,Newcastle,2,6,26,28,20,3,0,130,caught,1,DNB,-,-,-,-
+219889,David Warner,10 Jan 2007,v Tasmania,Sydney,2,3,9,11,8,0,1,112.5,caught,1,DNB,-,-,-,-
+219889,David Warner,4 Jan 2008,v Tasmania,Hobart,1,7,31,23,22,1,1,140.9,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Jan 2008,v Victoria,Melbourne,2,8,24,21,19,1,1,126.31,caught,1,DNB,-,-,-,-
+219889,David Warner,8 Jan 2008,v Queensland,Sydney,1,7,1,2,2,0,0,50,caught,2,DNB,-,-,-,-
+219889,David Warner,10 Jan 2008,v West Aust,Sydney,1,7,17*,14,16,1,0,106.25,not out,2,DNB,-,-,-,-
+219889,David Warner,26 Dec 2008,v Queensland,Brisbane,2,1,8,-,5,0,1,160,caught,1,DNB,-,-,-,-
+219889,David Warner,30 Dec 2008,v West Aust,Sydney,1,1,28,25,22,3,1,127.27,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Jan 2009,v South Aust,Adelaide,2,1,65,34,35,7,4,185.71,caught,1,DNB,-,-,-,-
+219889,David Warner,11 Jan 2009,v South Africa,Melbourne,1,2,89,64,43,7,6,206.97,caught,2,DNB,-,-,-,-
+219889,David Warner,13 Jan 2009,v South Africa,Brisbane,2,2,7,16,12,0,0,58.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,15 Feb 2009,v New Zealand,Sydney,1,1,23,19,15,4,0,153.33,caught,2,DNB,-,-,-,-
+219889,David Warner,27 Mar 2009,v South Africa,Johannesburg,1,1,38,37,29,4,1,131.03,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Mar 2009,v South Africa,Centurion,2,2,20,21,15,2,1,133.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,2 May 2009,v CSK,Johannesburg,2,2,51,-,40,5,1,127.5,stumped,1,DNB,-,-,-,-
+219889,David Warner,5 May 2009,v KKR,Durban,2,2,36,-,23,5,1,156.52,caught,1,DNB,-,-,-,-
+219889,David Warner,8 May 2009,v MI,East London,2,2,21,-,30,0,1,70,stumped,1,DNB,-,-,-,-
+219889,David Warner,10 May 2009,v KKR,Johannesburg,2,2,36,-,23,5,1,156.52,caught,1,DNB,-,-,-,-
+219889,David Warner,13 May 2009,v Chargers,Durban,1,2,4,-,6,0,0,66.66,caught,2,DNB,-,-,-,-
+219889,David Warner,21 May 2009,v MI,Centurion,2,2,15,-,9,1,1,166.66,caught,1,DNB,-,-,-,-
+219889,David Warner,22 May 2009,v Chargers,Centurion,1,2,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Jun 2009,v West Indies,The Oval,1,2,63,71,53,6,1,118.86,caught,2,DNB,-,-,-,-
+219889,David Warner,8 Jun 2009,v Sri Lanka,Nottingham,1,2,0,1,3,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,23 Jun 2009,v Derbyshire,Derby,2,1,50,35,30,8,1,166.66,caught,1,DNB,-,-,-,-
+219889,David Warner,24 Jun 2009,v Yorkshire,Chester-le-Street,1,2,19,17,17,3,0,111.76,caught,2,DNB,-,-,-,-
+219889,David Warner,28 Jun 2009,v Leics,Leicester,2,1,44,26,18,5,3,244.44,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Jul 2009,v Pakistan A,Brisbane,2,1,20,26,12,4,0,166.66,bowled,1,DNB,-,-,-,-
+219889,David Warner,27 Jul 2009,v Kent,Canterbury,2,2,0,8,4,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,30 Aug 2009,v England,Manchester,1,2,33,-,26,3,0,126.92,lbw,2,DNB,-,-,-,-
+219889,David Warner,9 Oct 2009,v Eagles,Delhi,1,2,23,-,31,4,0,74.19,bowled,2,DNB,-,-,-,-
+219889,David Warner,11 Oct 2009,v Sussex,Delhi,1,1,14,-,18,2,0,77.77,run out,2,DNB,-,-,-,-
+219889,David Warner,16 Oct 2009,v Trinidad & T,Hyderabad,1,2,63,-,41,5,3,153.65,caught,2,DNB,-,-,-,-
+219889,David Warner,18 Oct 2009,v Somerset,Hyderabad,2,1,40,-,16,6,2,250,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Oct 2009,v Victoria,Delhi,1,2,48,-,25,7,2,192,run out,2,DNB,-,-,-,-
+219889,David Warner,23 Oct 2009,v Trinidad & T,Hyderabad,1,1,19,-,16,4,0,118.75,caught,2,DNB,-,-,-,-
+219889,David Warner,30 Dec 2009,v Tasmania,Hobart,1,2,67,26,24,6,5,279.16,run out,2,DNB,-,-,-,-
+219889,David Warner,2 Jan 2010,v Victoria,Melbourne,1,2,40,23,20,5,2,200,caught,2,DNB,-,-,-,-
+219889,David Warner,5 Jan 2010,v West Aust,W.A.C.A,2,2,0,7,3,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,13 Jan 2010,v Queensland,Sydney,2,1,9,3,5,0,1,180,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Jan 2010,v South Aust,Sydney,2,2,54,27,21,3,6,257.14,caught,1,DNB,-,-,-,-
+219889,David Warner,5 Feb 2010,v Pakistan,Melbourne,1,2,24,29,14,1,1,171.42,caught,2,DNB,-,-,-,-
+219889,David Warner,21 Feb 2010,v West Indies,Hobart,1,2,49,33,32,6,2,153.12,caught,2,DNB,-,-,-,-
+219889,David Warner,23 Feb 2010,v West Indies,Sydney,2,2,67,33,29,5,7,231.03,caught,1,DNB,-,-,-,-
+219889,David Warner,26 Feb 2010,v New Zealand,Wellington,2,1,19,11,10,2,1,190,bowled,1,DNB,-,-,-,-
+219889,David Warner,28 Feb 2010,v New Zealand,Christchurch,2,1,20,10,10,3,1,200,caught,1,DNB,-,-,-,-
+219889,David Warner,19 Mar 2010,v CSK,Delhi,1,1,6,-,8,1,0,75,caught,2,DNB,-,-,-,-
+219889,David Warner,21 Mar 2010,v Chargers,Cuttack,2,1,57,-,33,4,4,172.72,run out,1,DNB,-,-,-,-
+219889,David Warner,25 Mar 2010,v RCB,Bengaluru,1,1,33,-,14,3,2,235.71,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Mar 2010,v KKR,Delhi,1,1,107*,-,69,9,5,155.07,not out,2,DNB,-,-,-,-
+219889,David Warner,31 Mar 2010,v RR,Delhi,1,1,4,-,8,0,0,50,bowled,2,DNB,-,-,-,-
+219889,David Warner,4 Apr 2010,v RCB,Delhi,1,1,33,-,22,3,2,150,caught,2,DNB,-,-,-,-
+219889,David Warner,7 Apr 2010,v KKR,Eden Gardens,2,1,0,-,5,0,0,0,bowled,1,DNB,-,-,-,-
+219889,David Warner,11 Apr 2010,v Kings XI,Delhi,1,1,6,-,11,1,0,54.54,run out,2,DNB,-,-,-,-
+219889,David Warner,13 Apr 2010,v MI,Brabourne,2,1,31,-,15,5,1,206.66,caught,1,DNB,-,-,-,-
+219889,David Warner,15 Apr 2010,v CSK,Chennai,2,2,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Apr 2010,v Chargers,Delhi,2,1,5,-,4,1,0,125,caught,1,DNB,-,-,-,-
+219889,David Warner,2 May 2010,v Pakistan,Gros Islet,1,1,26,21,18,4,1,144.44,caught,2,DNB,-,-,-,-
+219889,David Warner,5 May 2010,v Bangladesh,Bridgetown,1,1,16,17,11,2,1,145.45,caught,2,DNB,-,-,-,-
+219889,David Warner,7 May 2010,v India,Bridgetown,1,2,72,54,42,2,7,171.42,caught,2,DNB,-,-,-,-
+219889,David Warner,9 May 2010,v Sri Lanka,Bridgetown,1,2,9,24,12,1,0,75,caught,2,DNB,-,-,-,-
+219889,David Warner,11 May 2010,v West Indies,Gros Islet,2,1,25,14,12,4,1,208.33,caught,1,DNB,-,-,-,-
+219889,David Warner,14 May 2010,v Pakistan,Gros Islet,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,16 May 2010,v England,Bridgetown,1,2,2,11,4,0,0,50,run out,2,DNB,-,-,-,-
+219889,David Warner,11 Jun 2010,v Kent,Canterbury,2,1,17,13,14,2,0,121.42,caught,1,DNB,-,-,-,-
+219889,David Warner,13 Jun 2010,v Essex,Lord's,1,1,25,20,15,2,2,166.66,caught,2,DNB,-,-,-,-
+219889,David Warner,15 Jun 2010,v Glamorgan,Richmond,1,1,13,20,15,1,0,86.66,bowled,2,DNB,-,-,-,-
+219889,David Warner,17 Jun 2010,v Surrey,Lord's,1,1,15,7,12,2,1,125,caught,2,DNB,-,-,-,-
+219889,David Warner,24 Jun 2010,v Kent,Lord's,1,1,29,25,18,5,0,161.11,caught,2,DNB,-,-,-,-
+219889,David Warner,26 Jun 2010,v Glamorgan,Cardiff,1,1,24,33,28,4,0,85.71,caught,2,DNB,-,-,-,-
+219889,David Warner,27 Jun 2010,v Gloucs,Bristol,2,1,17,11,12,2,0,141.66,caught,1,DNB,-,-,-,-
+219889,David Warner,2 Jul 2010,v Sussex,Hove,2,1,28,31,23,3,1,121.73,bowled,1,DNB,-,-,-,-
+219889,David Warner,5 Jul 2010,v Pakistan,Birmingham,2,1,41,50,31,6,0,132.25,bowled,1,DNB,-,-,-,-
+219889,David Warner,6 Jul 2010,v Pakistan,Birmingham,2,1,1,8,3,0,0,33.33,lbw,1,DNB,-,-,-,-
+219889,David Warner,8 Jul 2010,v Surrey,The Oval,2,1,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+219889,David Warner,10 Jul 2010,v Hampshire,Uxbridge,1,1,18,34,17,2,0,105.88,caught,2,DNB,-,-,-,-
+219889,David Warner,11 Jul 2010,v Gloucs,Uxbridge,1,1,1,5,5,0,0,20,caught,2,DNB,-,-,-,-
+219889,David Warner,16 Jul 2010,v Hampshire,Southampton,2,1,43,32,30,7,0,143.33,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Jul 2010,v Essex,Chelmsford,1,1,37,39,20,6,1,185,stumped,2,DNB,-,-,-,-
+219889,David Warner,31 Oct 2010,v Sri Lanka,W.A.C.A,1,1,2,-,8,0,0,25,caught,2,DNB,-,-,-,-
+219889,David Warner,8 Dec 2010,v Otago,Oamaru,2,2,4,8,6,0,0,66.66,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Dec 2010,v Canterbury,Hamilton,2,2,52*,61,35,3,3,148.57,not out,1,DNB,-,-,-,-
+219889,David Warner,4 Jan 2011,v South Aust,Adelaide,1,1,73*,81,58,7,1,125.86,not out,2,DNB,-,-,-,-
+219889,David Warner,9 Jan 2011,v West Aust,Sydney,2,1,51,42,33,3,3,154.54,run out,1,DNB,-,-,-,-
+219889,David Warner,12 Jan 2011,v England,Adelaide,1,1,30,45,28,5,0,107.14,caught,2,DNB,-,-,-,-
+219889,David Warner,14 Jan 2011,v England,Melbourne,1,1,30,41,26,3,0,115.38,caught,2,DNB,-,-,-,-
+219889,David Warner,19 Jan 2011,v Tasmania,Sydney,2,1,38,-,31,4,2,122.58,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Jan 2011,v Victoria,Melbourne,1,1,14,-,10,2,0,140,caught,2,DNB,-,-,-,-
+219889,David Warner,24 Jan 2011,v Queensland,Brisbane,1,1,27,-,29,2,0,93.1,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Jan 2011,v Queensland,Sydney,1,2,4,-,7,0,0,57.14,caught,2,DNB,-,-,-,-
+219889,David Warner,1 Feb 2011,v Tasmania,Hobart,2,1,70*,-,49,8,3,142.85,not out,1,DNB,-,-,-,-
+219889,David Warner,5 Feb 2011,v South Aust,Adelaide,1,1,21,-,16,3,1,131.25,bowled,2,DNB,-,-,-,-
+219889,David Warner,10 Apr 2011,v MI,Delhi,1,1,1,-,3,0,0,33.33,bowled,2,DNB,-,-,-,-
+219889,David Warner,12 Apr 2011,v RR,Jaipur,1,1,54,-,44,6,1,122.72,caught,2,DNB,-,-,-,-
+219889,David Warner,17 Apr 2011,v Warriors,DY Patil,2,1,46,-,28,6,2,164.28,run out,1,DNB,-,-,-,-
+219889,David Warner,19 Apr 2011,v Chargers,Delhi,2,1,51,-,48,5,1,106.25,caught,1,DNB,-,-,-,-
+219889,David Warner,23 Apr 2011,v Kings XI,Delhi,1,1,77,-,48,7,4,160.41,caught,2,DNB,-,-,-,-
+219889,David Warner,26 Apr 2011,v RCB,Delhi,1,1,7,-,11,1,0,63.63,bowled,2,DNB,-,-,-,-
+219889,David Warner,28 Apr 2011,v KKR,Delhi,2,1,2,-,6,0,0,33.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,30 Apr 2011,v Kochi,Kochi,1,1,3,-,7,0,0,42.85,bowled,2,DNB,-,-,-,-
+219889,David Warner,2 May 2011,v Kochi,Delhi,1,1,13,-,15,2,0,86.66,caught,2,DNB,-,-,-,-
+219889,David Warner,7 May 2011,v MI,Wankhede,2,2,1,-,2,0,0,50,lbw,1,DNB,-,-,-,-
+219889,David Warner,12 May 2011,v CSK,Chennai,2,2,21,-,25,2,0,84,caught,1,DNB,-,-,-,-
+219889,David Warner,15 May 2011,v Kings XI,Dharamsala,2,2,29,-,29,4,1,100,caught,1,DNB,-,-,-,-
+219889,David Warner,21 May 2011,v Warriors,Delhi,1,2,19,-,10,1,2,190,bowled,-,TDNB,-,-,-,-
+219889,David Warner,6 Aug 2011,v Sri Lanka,Pallekele,2,2,53,62,31,6,2,170.96,caught,1,DNB,-,-,-,-
+219889,David Warner,8 Aug 2011,v Sri Lanka,Pallekele,2,2,16,29,18,2,0,88.88,caught,1,DNB,-,-,-,-
+219889,David Warner,24 Sep 2011,v Cape Cobras,Chennai,1,1,20,24,13,1,1,153.84,caught,2,DNB,-,-,-,-
+219889,David Warner,28 Sep 2011,v Trinidad & T,Chennai,2,1,38,35,36,6,0,105.55,bowled,1,DNB,-,-,-,-
+219889,David Warner,2 Oct 2011,v MI,Chennai,2,2,12,9,4,3,0,300,caught,1,DNB,-,-,-,-
+219889,David Warner,4 Oct 2011,v CSK,Chennai,1,1,135*,-,69,11,8,195.65,not out,2,DNB,-,-,-,-
+219889,David Warner,7 Oct 2011,v RCB,Bengaluru,1,2,123*,-,68,6,11,180.88,not out,2,1.0,0,13,0,13
+219889,David Warner,13 Oct 2011,v South Africa,Cape Town,2,2,0,2,1,0,0,0,run out,1,DNB,-,-,-,-
+219889,David Warner,16 Oct 2011,v South Africa,Johannesburg,1,1,0,8,9,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,17 Dec 2011,v Stars,Melbourne,2,1,102*,82,51,6,6,200,not out,1,DNB,-,-,-,-
+219889,David Warner,1 Feb 2012,v India,Sydney,1,1,25,16,14,1,2,178.57,caught,2,DNB,-,-,-,-
+219889,David Warner,3 Feb 2012,v India,Melbourne,1,1,8,10,8,1,0,100,caught,2,DNB,-,-,-,-
+219889,David Warner,27 Mar 2012,v West Indies,Gros Islet,2,1,0,-,5,0,0,0,bowled,1,DNB,-,-,-,-
+219889,David Warner,30 Mar 2012,v West Indies,Bridgetown,2,1,58,58,43,5,3,134.88,run out,1,DNB,-,-,-,-
+219889,David Warner,7 May 2012,v KKR,Delhi,1,1,21,27,19,2,1,110.52,caught,2,DNB,-,-,-,-
+219889,David Warner,10 May 2012,v Chargers,Hyderabad,2,2,109*,79,54,10,7,201.85,not out,1,DNB,-,-,-,-
+219889,David Warner,12 May 2012,v CSK,Chennai,1,1,8,10,9,1,0,88.88,caught,2,DNB,-,-,-,-
+219889,David Warner,15 May 2012,v Kings XI,Delhi,2,1,14,10,8,3,0,175,caught,1,DNB,-,-,-,-
+219889,David Warner,17 May 2012,v RCB,Delhi,2,2,15,7,9,2,1,166.66,caught,1,DNB,-,-,-,-
+219889,David Warner,19 May 2012,v Kings XI,Dharamsala,2,2,79,62,44,10,4,179.54,caught,1,DNB,-,-,-,-
+219889,David Warner,22 May 2012,v KKR,Pune,2,1,7,-,6,0,1,116.66,caught,1,DNB,-,-,-,-
+219889,David Warner,25 May 2012,v CSK,Chennai,2,2,3,-,7,0,0,42.85,caught,1,DNB,-,-,-,-
+219889,David Warner,5 Sep 2012,v Pakistan,Dubai (DICS),1,2,22,40,25,2,0,88,caught,2,DNB,-,-,-,-
+219889,David Warner,7 Sep 2012,v Pakistan,Dubai (DICS),2,1,31,22,19,3,2,163.15,bowled,1,DNB,-,-,-,-
+219889,David Warner,10 Sep 2012,v Pakistan,Dubai (DICS),1,1,59,53,34,1,6,173.52,caught,2,DNB,-,-,-,-
+219889,David Warner,19 Sep 2012,v Ireland,Colombo (RPS),2,1,26,33,23,4,0,113.04,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Sep 2012,v West Indies,Colombo (RPS),2,1,28,10,14,3,2,200,caught,1,DNB,-,-,-,-
+219889,David Warner,28 Sep 2012,v India,Colombo (RPS),2,2,63*,60,41,7,3,153.65,not out,1,DNB,-,-,-,-
+219889,David Warner,30 Sep 2012,v South Africa,Colombo (RPS),2,1,5,15,9,0,0,55.55,bowled,1,DNB,-,-,-,-
+219889,David Warner,2 Oct 2012,v Pakistan,Colombo (RPS),2,2,8,20,13,1,0,61.53,lbw,1,DNB,-,-,-,-
+219889,David Warner,5 Oct 2012,v West Indies,Colombo (RPS),2,1,1,4,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,23 Oct 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+219889,David Warner,25 Oct 2012,v Lions,Durban,2,1,21,24,18,4,0,116.66,caught,1,DNB,-,-,-,-
+219889,David Warner,8 Dec 2012,v Thunder,Sydney,2,2,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,26 Jan 2013,v Sri Lanka,Sydney,1,1,90*,91,62,5,3,145.16,not out,2,DNB,-,-,-,-
+219889,David Warner,28 Jan 2013,v Sri Lanka,Melbourne,2,2,7,5,6,1,0,116.66,caught,1,DNB,-,-,-,-
+219889,David Warner,3 Apr 2013,v KKR,Eden Gardens,1,2,21,30,19,4,0,110.52,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Apr 2013,v RR,Delhi,2,1,77,97,56,9,1,137.5,run out,1,DNB,-,-,-,-
+219889,David Warner,9 Apr 2013,v MI,Wankhede,2,2,61,55,37,5,4,164.86,caught,1,DNB,-,-,-,-
+219889,David Warner,12 Apr 2013,v SRH,Delhi,1,1,0,2,4,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,16 Apr 2013,v RCB,Bengaluru,1,1,15,27,13,3,0,115.38,caught,2,DNB,-,-,-,-
+219889,David Warner,18 Apr 2013,v CSK,Delhi,2,1,1,7,4,0,0,25,bowled,1,DNB,-,-,-,-
+219889,David Warner,21 Apr 2013,v MI,Delhi,2,3,7*,9,5,1,0,140,not out,1,DNB,-,-,-,-
+219889,David Warner,23 Apr 2013,v Kings XI,Delhi,1,4,40,61,36,4,1,111.11,bowled,2,DNB,-,-,-,-
+219889,David Warner,28 Apr 2013,v Warriors,Raipur,1,4,51*,47,25,4,4,204,not out,2,DNB,-,-,-,-
+219889,David Warner,1 May 2013,v KKR,Raipur,2,4,66*,67,42,6,3,157.14,not out,1,DNB,-,-,-,-
+219889,David Warner,4 May 2013,v SRH,Hyderabad,1,4,8,21,15,0,0,53.33,stumped,2,DNB,-,-,-,-
+219889,David Warner,7 May 2013,v RR,Jaipur,1,4,13,20,18,2,0,72.22,caught,2,DNB,-,-,-,-
+219889,David Warner,10 May 2013,v RCB,Delhi,2,4,4,8,6,1,0,66.66,bowled,1,DNB,-,-,-,-
+219889,David Warner,14 May 2013,v CSK,Chennai,2,4,44,60,37,2,1,118.91,caught,1,DNB,-,-,-,-
+219889,David Warner,16 May 2013,v Kings XI,Dharamsala,2,4,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,19 May 2013,v Warriors,Pune,2,2,2,10,5,0,0,40,caught,1,DNB,-,-,-,-
+219889,David Warner,29 Aug 2013,v England,Southampton,1,1,1,6,5,0,0,20,caught,2,DNB,-,-,-,-
+219889,David Warner,31 Aug 2013,v England,Chester-le-Street,2,1,53,56,42,5,3,126.19,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Dec 2013,v Sixers,Sydney,1,2,50,-,31,6,1,161.29,caught,2,DNB,-,-,-,-
+219889,David Warner,12 Mar 2014,v South Africa,Durban,2,2,40,22,16,5,2,250,lbw,1,DNB,-,-,-,-
+219889,David Warner,23 Mar 2014,v Pakistan,Mirpur,2,1,4,1,2,1,0,200,bowled,1,DNB,-,-,-,-
+219889,David Warner,28 Mar 2014,v West Indies,Mirpur,1,2,20,21,14,4,0,142.85,bowled,2,DNB,-,-,-,-
+219889,David Warner,30 Mar 2014,v India,Mirpur,2,2,19,33,21,1,1,90.47,caught,1,DNB,-,-,-,-
+219889,David Warner,1 Apr 2014,v Bangladesh,Mirpur,2,2,48,43,35,5,3,137.14,bowled,1,DNB,-,-,-,-
+219889,David Warner,18 Apr 2014,v RR,Abu Dhabi,1,3,32,-,35,1,0,91.42,caught,2,DNB,-,-,-,-
+219889,David Warner,22 Apr 2014,v Kings XI,Sharjah,2,3,8,19,12,1,0,66.66,caught,1,DNB,-,-,-,-
+219889,David Warner,25 Apr 2014,v Daredevils,Dubai (DICS),1,3,58*,58,45,3,3,128.88,not out,2,DNB,-,-,-,-
+219889,David Warner,27 Apr 2014,v CSK,Sharjah,1,3,0,1,2,0,0,0,lbw,2,DNB,-,-,-,-
+219889,David Warner,30 Apr 2014,v MI,Dubai (DICS),1,4,65,66,51,1,4,127.45,caught,2,DNB,-,-,-,-
+219889,David Warner,4 May 2014,v RCB,Bengaluru,1,4,61,82,49,4,3,124.48,bowled,2,DNB,-,-,-,-
+219889,David Warner,8 May 2014,v RR,Ahmedabad,1,5,6,9,7,0,0,85.71,stumped,2,DNB,-,-,-,-
+219889,David Warner,10 May 2014,v Daredevils,Delhi,2,3,12*,17,9,1,0,133.33,not out,1,DNB,-,-,-,-
+219889,David Warner,12 May 2014,v MI,Hyderabad,1,4,55*,47,31,6,2,177.41,not out,2,DNB,-,-,-,-
+219889,David Warner,14 May 2014,v Kings XI,Hyderabad,1,4,44,31,23,3,3,191.3,run out,2,DNB,-,-,-,-
+219889,David Warner,18 May 2014,v KKR,Hyderabad,1,4,34,33,18,3,2,188.88,caught,2,DNB,-,-,-,-
+219889,David Warner,20 May 2014,v RCB,Hyderabad,2,2,59,75,46,3,4,128.26,caught,1,DNB,-,-,-,-
+219889,David Warner,22 May 2014,v CSK,Ranchi,2,1,90,48,45,12,3,200,bowled,1,DNB,-,-,-,-
+219889,David Warner,24 May 2014,v KKR,Eden Gardens,1,1,4,2,2,1,0,200,bowled,2,DNB,-,-,-,-
+219889,David Warner,5 Oct 2014,v Pakistan,Dubai (DICS),2,1,53*,58,39,4,3,135.89,not out,1,DNB,-,-,-,-
+219889,David Warner,11 Apr 2015,v CSK,Chennai,2,1,53,72,42,1,3,126.19,caught,1,DNB,-,-,-,-
+219889,David Warner,13 Apr 2015,v RCB,Bengaluru,2,1,57,40,27,6,4,211.11,lbw,1,DNB,-,-,-,-
+219889,David Warner,16 Apr 2015,v RR,Visakhapatnam,1,1,21,25,14,3,1,150,run out,2,DNB,-,-,-,-
+219889,David Warner,18 Apr 2015,v Daredevils,Visakhapatnam,2,1,28,35,20,4,0,140,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Apr 2015,v KKR,Visakhapatnam,1,2,91,-,55,9,4,165.45,caught,2,DNB,-,-,-,-
+219889,David Warner,25 Apr 2015,v MI,Wankhede,2,2,9,22,7,2,0,128.57,caught,1,DNB,-,-,-,-
+219889,David Warner,27 Apr 2015,v Kings XI,Mohali,1,1,58,42,41,10,1,141.46,caught,2,DNB,-,-,-,-
+219889,David Warner,2 May 2015,v CSK,Hyderabad,1,1,61,41,28,11,1,217.85,caught,2,DNB,-,-,-,-
+219889,David Warner,4 May 2015,v KKR,Eden Gardens,2,1,4,2,3,1,0,133.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,7 May 2015,v RR,Brabourne,1,2,24,22,18,5,0,133.33,caught,2,DNB,-,-,-,-
+219889,David Warner,9 May 2015,v Daredevils,Raipur,1,2,17,20,15,1,1,113.33,caught,2,DNB,-,-,-,-
+219889,David Warner,11 May 2015,v Kings XI,Hyderabad,1,1,81,80,52,6,5,155.76,caught,2,DNB,-,-,-,-
+219889,David Warner,15 May 2015,v RCB,Hyderabad,1,1,52*,-,32,5,1,162.5,not out,2,DNB,-,-,-,-
+219889,David Warner,17 May 2015,v MI,Hyderabad,1,1,6,7,5,1,0,120,caught,2,DNB,-,-,-,-
+219889,David Warner,31 Aug 2015,v England,Cardiff,2,1,4,5,6,0,0,66.66,caught,1,DNB,-,-,-,-
+219889,David Warner,26 Jan 2016,v India,Adelaide,2,2,17,23,9,2,1,188.88,caught,1,DNB,-,-,-,-
+219889,David Warner,4 Mar 2016,v South Africa,Durban,1,3,20,15,11,3,1,181.81,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Mar 2016,v South Africa,Johannesburg,2,4,77,67,40,6,5,192.5,bowled,1,DNB,-,-,-,-
+219889,David Warner,9 Mar 2016,v South Africa,Cape Town,2,4,33,40,27,3,0,122.22,run out,1,DNB,-,-,-,-
+219889,David Warner,18 Mar 2016,v New Zealand,Dharamsala,2,4,6,13,11,0,0,54.54,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Mar 2016,v Bangladesh,Bengaluru,2,4,17,14,9,1,1,188.88,caught,1,DNB,-,-,-,-
+219889,David Warner,25 Mar 2016,v Pakistan,Mohali,1,3,9,8,6,2,0,150,bowled,2,DNB,-,-,-,-
+219889,David Warner,27 Mar 2016,v India,Mohali,1,3,6,15,9,0,0,66.66,stumped,2,DNB,-,-,-,-
+219889,David Warner,12 Apr 2016,v RCB,Bengaluru,2,1,58,43,25,4,5,232,caught,1,DNB,-,-,-,-
+219889,David Warner,16 Apr 2016,v KKR,Hyderabad,1,1,13,21,12,2,0,108.33,caught,2,DNB,-,-,-,-
+219889,David Warner,18 Apr 2016,v MI,Hyderabad,2,1,90*,84,59,7,4,152.54,not out,1,DNB,-,-,-,-
+219889,David Warner,21 Apr 2016,v Guj Lions,Rajkot,2,1,74*,61,48,9,0,154.16,not out,1,DNB,-,-,-,-
+219889,David Warner,23 Apr 2016,v Kings XI,Hyderabad,2,1,59,50,31,7,3,190.32,caught,1,DNB,-,-,-,-
+219889,David Warner,26 Apr 2016,v Supergiants,Hyderabad,1,1,0,2,4,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,30 Apr 2016,v RCB,Hyderabad,1,1,92,76,50,9,5,184,caught,2,DNB,-,-,-,-
+219889,David Warner,6 May 2016,v Guj Lions,Hyderabad,2,1,24,16,17,1,2,141.17,caught,1,DNB,-,-,-,-
+219889,David Warner,8 May 2016,v MI,Visakhapatnam,1,1,48,51,33,7,1,145.45,caught,2,DNB,-,-,-,-
+219889,David Warner,10 May 2016,v Supergiants,Visakhapatnam,1,1,11,16,14,0,1,78.57,caught,2,DNB,-,-,-,-
+219889,David Warner,12 May 2016,v Daredevils,Hyderabad,1,1,46,39,30,6,1,153.33,bowled,2,DNB,-,-,-,-
+219889,David Warner,15 May 2016,v Kings XI,Mohali,2,1,52,59,41,5,1,126.82,hit wicket,1,DNB,-,-,-,-
+219889,David Warner,20 May 2016,v Daredevils,Raipur,1,1,73,80,56,8,1,130.35,caught,2,DNB,-,-,-,-
+219889,David Warner,22 May 2016,v KKR,Eden Gardens,2,2,18,12,16,1,1,112.5,bowled,1,DNB,-,-,-,-
+219889,David Warner,25 May 2016,v KKR,Delhi,1,1,28,44,28,3,0,100,bowled,2,DNB,-,-,-,-
+219889,David Warner,27 May 2016,v Guj Lions,Delhi,2,1,93*,96,58,11,3,160.34,not out,1,DNB,-,-,-,-
+219889,David Warner,29 May 2016,v RCB,Bengaluru,1,1,69,58,38,8,3,181.57,caught,2,DNB,-,-,-,-
+219889,David Warner,6 Sep 2016,v Sri Lanka,Pallekele,1,2,28,-,16,5,0,175,bowled,2,DNB,-,-,-,-
+219889,David Warner,9 Sep 2016,v Sri Lanka,Colombo (RPS),2,1,25,48,24,3,0,104.16,caught,1,DNB,-,-,-,-
+219889,David Warner,5 Apr 2017,v RCB,Hyderabad,1,1,14,10,8,2,1,175,caught,2,DNB,-,-,-,-
+219889,David Warner,9 Apr 2017,v Guj Lions,Hyderabad,2,1,76*,70,45,6,4,168.88,not out,1,DNB,-,-,-,-
+219889,David Warner,12 Apr 2017,v MI,Wankhede,1,2,49,53,34,7,2,144.11,caught,2,DNB,-,-,-,-
+219889,David Warner,15 Apr 2017,v KKR,Eden Gardens,2,1,26,42,30,4,0,86.66,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Apr 2017,v Kings XI,Hyderabad,1,1,70*,98,54,7,2,129.62,not out,2,DNB,-,-,-,-
+219889,David Warner,19 Apr 2017,v Daredevils,Hyderabad,1,1,4,9,7,0,0,57.14,caught,2,DNB,-,-,-,-
+219889,David Warner,22 Apr 2017,v Supergiant,Pune,1,1,43,75,40,3,1,107.5,bowled,2,DNB,-,-,-,-
+219889,David Warner,28 Apr 2017,v Kings XI,Mohali,1,1,51,44,27,4,4,188.88,bowled,2,DNB,-,-,-,-
+219889,David Warner,30 Apr 2017,v KKR,Hyderabad,1,1,126,80,59,10,8,213.55,caught,2,DNB,-,-,-,-
+219889,David Warner,2 May 2017,v Daredevils,Delhi,1,1,30,21,21,4,1,142.85,bowled,2,DNB,-,-,-,-
+219889,David Warner,6 May 2017,v Supergiant,Hyderabad,2,1,40,58,34,4,1,117.64,caught,1,DNB,-,-,-,-
+219889,David Warner,8 May 2017,v MI,Hyderabad,2,1,6,4,6,1,0,100,lbw,1,DNB,-,-,-,-
+219889,David Warner,13 May 2017,v Guj Lions,Kanpur,2,1,69*,84,52,9,0,132.69,not out,1,DNB,-,-,-,-
+219889,David Warner,17 May 2017,v KKR,Bengaluru,1,1,37,-,35,2,2,105.71,bowled,2,DNB,-,-,-,-
+219889,David Warner,7 Oct 2017,v India,Ranchi,1,1,8,2,5,2,0,160,bowled,2,DNB,-,-,-,-
+219889,David Warner,10 Oct 2017,v India,Guwahati,2,2,2,8,5,0,0,40,caught,1,DNB,-,-,-,-
+219889,David Warner,3 Feb 2018,v New Zealand,Sydney,2,1,6,11,8,1,0,75,caught,1,DNB,-,-,-,-
+219889,David Warner,7 Feb 2018,v England,Hobart,2,1,4,2,2,1,0,200,caught,1,DNB,-,-,-,-
+219889,David Warner,10 Feb 2018,v England,Melbourne,2,1,2,3,4,0,0,50,caught,1,DNB,-,-,-,-
+219889,David Warner,16 Feb 2018,v New Zealand,Auckland,2,1,59,43,24,4,5,245.83,bowled,1,DNB,-,-,-,-
+219889,David Warner,21 Feb 2018,v New Zealand,Auckland,2,1,25,36,23,2,0,108.69,bowled,1,DNB,-,-,-,-
+219889,David Warner,8 Aug 2018,v Trinbago,Port of Spain,2,2,9,-,9,1,0,100,bowled,1,DNB,-,-,-,-
+219889,David Warner,11 Aug 2018,v Amazon,Providence,2,2,11,-,21,1,0,52.38,lbw,1,DNB,-,-,-,-
+219889,David Warner,14 Aug 2018,v Tallawahs,Kingston,1,2,7,-,6,1,0,116.66,bowled,2,DNB,-,-,-,-
+219889,David Warner,16 Aug 2018,v Trinbago,Gros Islet,1,2,72*,-,55,4,3,130.9,not out,2,DNB,-,-,-,-
+219889,David Warner,17 Aug 2018,v Tridents,Gros Islet,1,2,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,21 Aug 2018,v Patriots,Gros Islet,1,2,14,-,17,1,0,82.35,caught,2,DNB,-,-,-,-
+219889,David Warner,24 Aug 2018,v Amazon,Gros Islet,2,4,23,-,16,2,0,143.75,caught,1,DNB,-,-,-,-
+219889,David Warner,25 Aug 2018,v Tallawahs,Gros Islet,2,4,42,-,26,5,1,161.53,caught,1,DNB,-,-,-,-
+219889,David Warner,2 Sep 2018,v Tridents,Bridgetown,2,4,42*,-,45,4,0,93.33,not out,1,DNB,-,-,-,-
+219889,David Warner,6 Jan 2019,v Victorians,Mirpur,1,2,14,-,13,3,0,107.69,run out,2,DNB,-,-,-,-
+219889,David Warner,9 Jan 2019,v Chattogram,Mirpur,1,2,59,-,47,2,1,125.53,caught,2,DNB,-,-,-,-
+219889,David Warner,12 Jan 2019,v Dynamites,Mirpur,2,1,7,-,3,0,1,233.33,caught,1,DNB,-,-,-,-
+219889,David Warner,15 Jan 2019,v Victorians,Sylhet,1,1,0,-,7,0,0,0,bowled,2,DNB,-,-,-,-
+219889,David Warner,16 Jan 2019,v Rangpur,Sylhet,1,3,61*,-,36,6,2,169.44,not out,2,DNB,-,-,-,-
+219889,David Warner,18 Jan 2019,v Dynamites,Sylhet,1,4,63,-,43,8,1,146.51,caught,2,DNB,-,-,-,-
+219889,David Warner,19 Jan 2019,v Rangpur,Sylhet,1,4,19,-,21,0,0,90.47,caught,2,DNB,-,-,-,-
+219889,David Warner,24 Mar 2019,v KKR,Eden Gardens,1,1,85,-,53,9,3,160.37,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Mar 2019,v RR,Hyderabad,2,1,69,43,37,9,2,186.48,caught,1,DNB,-,-,-,-
+219889,David Warner,31 Mar 2019,v RCB,Hyderabad,1,2,100*,98,55,5,5,181.81,not out,2,DNB,-,-,-,-
+219889,David Warner,4 Apr 2019,v DC,Delhi,2,1,10,36,18,0,0,55.55,caught,1,DNB,-,-,-,-
+219889,David Warner,6 Apr 2019,v MI,Hyderabad,2,1,15,22,13,2,0,115.38,bowled,1,DNB,-,-,-,-
+219889,David Warner,8 Apr 2019,v Kings XI,Mohali,1,1,70*,103,62,6,1,112.9,not out,2,DNB,-,-,-,-
+219889,David Warner,14 Apr 2019,v DC,Hyderabad,2,1,51,86,47,3,1,108.51,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Apr 2019,v CSK,Hyderabad,2,1,50,29,25,10,0,200,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Apr 2019,v KKR,Hyderabad,2,1,67,63,38,3,5,176.31,bowled,1,DNB,-,-,-,-
+219889,David Warner,23 Apr 2019,v CSK,Chennai,1,1,57,63,45,3,2,126.66,stumped,2,DNB,-,-,-,-
+219889,David Warner,27 Apr 2019,v RR,Jaipur,1,1,37,58,32,0,0,115.62,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Apr 2019,v Kings XI,Hyderabad,1,1,81,78,56,7,2,144.64,caught,2,DNB,-,-,-,-
+219889,David Warner,27 Oct 2019,v Sri Lanka,Adelaide,1,2,100*,-,56,10,4,178.57,not out,2,DNB,-,-,-,-
+219889,David Warner,30 Oct 2019,v Sri Lanka,Brisbane,2,1,60*,-,41,9,0,146.34,not out,1,DNB,-,-,-,-
+219889,David Warner,1 Nov 2019,v Sri Lanka,Melbourne,2,2,57*,-,50,4,1,114,not out,1,DNB,-,-,-,-
+219889,David Warner,3 Nov 2019,v Pakistan,Sydney,2,1,2*,-,4,0,0,50,not out,1,DNB,-,-,-,-
+219889,David Warner,5 Nov 2019,v Pakistan,Canberra,2,1,20,-,11,4,0,181.81,bowled,1,DNB,-,-,-,-
+219889,David Warner,8 Nov 2019,v Pakistan,Perth,2,1,48*,-,35,4,2,137.14,not out,1,DNB,-,-,-,-
+219889,David Warner,21 Feb 2020,v South Africa,Johannesburg,1,1,4,1,2,1,0,200,caught,2,DNB,-,-,-,-
+219889,David Warner,23 Feb 2020,v South Africa,Gqeberha,2,1,67*,94,56,5,1,119.64,not out,1,DNB,-,-,-,-
+219889,David Warner,26 Feb 2020,v South Africa,Cape Town,1,1,57,53,37,5,2,154.05,caught,2,DNB,-,-,-,-
+219889,David Warner,4 Sep 2020,v England,Southampton,2,1,58,77,47,4,0,123.4,bowled,1,DNB,-,-,-,-
+219889,David Warner,6 Sep 2020,v England,Southampton,1,1,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,21 Sep 2020,v RCB,Dubai (DICS),2,1,6,-,6,1,0,100,run out,1,DNB,-,-,-,-
+219889,David Warner,26 Sep 2020,v KKR,Abu Dhabi,1,1,36,-,30,2,1,120,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Sep 2020,v DC,Abu Dhabi,1,1,45,-,33,3,2,136.36,caught,2,DNB,-,-,-,-
+219889,David Warner,2 Oct 2020,v CSK,Dubai (DICS),1,1,28,-,29,3,0,96.55,caught,2,DNB,-,-,-,-
+219889,David Warner,4 Oct 2020,v MI,Sharjah,2,1,60,-,44,5,2,136.36,caught,1,DNB,-,-,-,-
+219889,David Warner,8 Oct 2020,v Kings XI,Dubai (DICS),1,1,52,-,40,5,1,130,caught,2,DNB,-,-,-,-
+219889,David Warner,11 Oct 2020,v RR,Dubai (DICS),1,1,48,-,38,3,2,126.31,bowled,2,DNB,-,-,-,-
+219889,David Warner,13 Oct 2020,v CSK,Dubai (DICS),2,1,9,-,13,0,0,69.23,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Oct 2020,v KKR,Abu Dhabi,2,4,47*,-,33,5,0,142.42,not out,1,DNB,-,-,-,-
+219889,David Warner,22 Oct 2020,v RR,Dubai (DICS),2,1,4,-,4,1,0,100,caught,1,DNB,-,-,-,-
+219889,David Warner,24 Oct 2020,v Kings XI,Dubai (DICS),2,1,35,-,20,3,2,175,caught,1,DNB,-,-,-,-
+219889,David Warner,27 Oct 2020,v DC,Dubai (DICS),1,1,66,-,34,8,2,194.11,caught,2,0.1,0,2,0,12
+219889,David Warner,31 Oct 2020,v RCB,Sharjah,2,1,8,-,5,0,1,160,caught,1,DNB,-,-,-,-
+219889,David Warner,3 Nov 2020,v MI,Sharjah,2,1,85*,-,58,10,1,146.55,not out,1,DNB,-,-,-,-
+219889,David Warner,6 Nov 2020,v RCB,Abu Dhabi,2,1,17,-,17,3,0,100,caught,1,DNB,-,-,-,-
+219889,David Warner,8 Nov 2020,v DC,Abu Dhabi,2,2,2,-,3,0,0,66.66,bowled,1,DNB,-,-,-,-
+219889,David Warner,11 Apr 2021,v KKR,Chennai,2,2,3,9,4,0,0,75,caught,1,DNB,-,-,-,-
+219889,David Warner,14 Apr 2021,v RCB,Chennai,2,2,54,66,37,7,1,145.94,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Apr 2021,v MI,Chennai,2,1,36,59,34,2,2,105.88,run out,1,DNB,-,-,-,-
+219889,David Warner,21 Apr 2021,v Punjab Kings,Chennai,2,1,37,45,37,3,1,100,caught,1,DNB,-,-,-,-
+219889,David Warner,25 Apr 2021,v DC,Chennai,2,1,6,19,8,0,0,75,run out,1,DNB,-,-,-,-
+219889,David Warner,28 Apr 2021,v CSK,Delhi,1,1,57,83,55,3,2,103.63,caught,2,DNB,-,-,-,-
+219889,David Warner,22 Sep 2021,v DC,Dubai (DICS),1,1,0,5,3,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,25 Sep 2021,v Punjab Kings,Sharjah,2,1,2,4,3,0,0,66.66,caught,1,DNB,-,-,-,-
+219889,David Warner,23 Oct 2021,v South Africa,Abu Dhabi,2,1,14,9,15,3,0,93.33,caught,1,DNB,-,-,-,-
+219889,David Warner,28 Oct 2021,v Sri Lanka,Dubai (DICS),2,1,65,69,42,10,0,154.76,caught,1,DNB,-,-,-,-
+219889,David Warner,30 Oct 2021,v England,Dubai (DICS),1,1,1,7,2,0,0,50,caught,2,DNB,-,-,-,-
+219889,David Warner,4 Nov 2021,v Bangladesh,Dubai (DICS),2,1,18,33,14,3,0,128.57,bowled,1,DNB,-,-,-,-
+219889,David Warner,6 Nov 2021,v West Indies,Abu Dhabi,2,1,89*,89,56,9,4,158.92,not out,1,DNB,-,-,-,-
+219889,David Warner,11 Nov 2021,v Pakistan,Dubai (DICS),2,1,49,57,30,3,3,163.33,caught,1,DNB,-,-,-,-
+219889,David Warner,14 Nov 2021,v New Zealand,Dubai (DICS),2,1,53,57,38,4,3,139.47,bowled,1,DNB,-,-,-,-
+219889,David Warner,7 Apr 2022,v LSG,DY Patil,1,2,4,42,12,0,0,33.33,caught,2,DNB,-,-,-,-
+219889,David Warner,10 Apr 2022,v KKR,Brabourne,1,2,61,90,45,6,2,135.55,caught,2,DNB,-,-,-,-
+219889,David Warner,16 Apr 2022,v RCB,Wankhede,2,2,66,57,38,4,5,173.68,lbw,1,DNB,-,-,-,-
+219889,David Warner,20 Apr 2022,v Punjab Kings,Brabourne,2,2,60*,52,30,10,1,200,not out,1,DNB,-,-,-,-
+219889,David Warner,22 Apr 2022,v RR,Wankhede,2,2,28,23,14,5,1,200,caught,1,DNB,-,-,-,-
+219889,David Warner,28 Apr 2022,v KKR,Wankhede,2,2,42,50,26,8,0,161.53,caught,1,DNB,-,-,-,-
+219889,David Warner,1 May 2022,v LSG,Wankhede,2,2,3,19,4,0,0,75,caught,1,DNB,-,-,-,-
+219889,David Warner,5 May 2022,v SRH,Brabourne,1,2,92*,106,58,12,3,158.62,not out,2,DNB,-,-,-,-
+219889,David Warner,8 May 2022,v CSK,DY Patil,2,1,19,25,12,1,2,158.33,lbw,1,DNB,-,-,-,-
+219889,David Warner,11 May 2022,v RR,DY Patil,2,2,52*,92,41,5,1,126.82,not out,1,DNB,-,-,-,-
+219889,David Warner,16 May 2022,v Punjab Kings,DY Patil,1,1,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,21 May 2022,v MI,Wankhede,1,2,5,15,6,1,0,83.33,caught,2,DNB,-,-,-,-
+219889,David Warner,7 Jun 2022,v Sri Lanka,Colombo (RPS),2,2,70*,76,44,9,0,159.09,not out,1,DNB,-,-,-,-
+219889,David Warner,8 Jun 2022,v Sri Lanka,Colombo (RPS),2,2,21,44,10,3,1,210,run out,1,DNB,-,-,-,-
+219889,David Warner,11 Jun 2022,v Sri Lanka,Pallekele,1,1,39,49,33,6,0,118.18,lbw,2,DNB,-,-,-,-
+219889,David Warner,5 Oct 2022,v West Indies,Carrara,2,1,14,8,6,3,0,233.33,caught,1,DNB,-,-,-,-
+219889,David Warner,7 Oct 2022,v West Indies,Brisbane,1,1,75,59,41,10,3,182.92,caught,2,DNB,-,-,-,-
+219889,David Warner,9 Oct 2022,v England,Perth,2,1,73,96,44,8,2,165.9,caught,1,DNB,-,-,-,-
+219889,David Warner,12 Oct 2022,v England,Canberra,2,1,4,22,11,0,0,36.36,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Oct 2022,v New Zealand,Sydney,2,1,5,7,6,1,0,83.33,bowled,1,DNB,-,-,-,-
+219889,David Warner,25 Oct 2022,v Sri Lanka,Perth,2,1,11,26,10,0,0,110,caught,1,DNB,-,-,-,-
+219889,David Warner,31 Oct 2022,v Ireland,Brisbane,1,1,3,13,7,0,0,42.85,caught,2,DNB,-,-,-,-
+219889,David Warner,4 Nov 2022,v Afghanistan,Adelaide,1,1,25,28,18,5,0,138.88,bowled,2,DNB,-,-,-,-
+219889,David Warner,13 Jan 2023,v Scorchers,Sydney,1,2,19,40,20,2,0,95,caught,2,DNB,-,-,-,-
+219889,David Warner,15 Jan 2023,v Hurricanes,Hobart,1,2,0,4,2,0,0,0,bowled,2,DNB,-,-,-,-
+219889,David Warner,19 Jan 2023,v Renegades,Canberra,2,2,26,33,23,1,1,113.04,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Jan 2023,v Sixers,Sydney,2,2,16,42,23,1,0,69.56,caught,1,DNB,-,-,-,-
+219889,David Warner,25 Jan 2023,v Stars,Melbourne,2,2,2,-,3,0,0,66.66,caught,1,DNB,-,-,-,-
+219889,David Warner,27 Jan 2023,v Heat,Sydney,2,1,36*,32,20,5,0,180,not out,1,DNB,-,-,-,-
+219889,David Warner,1 Apr 2023,v LSG,Lucknow,2,2,56,87,48,7,0,116.66,caught,1,DNB,-,-,-,-
+219889,David Warner,4 Apr 2023,v GT,Delhi,1,1,37,48,32,7,0,115.62,bowled,2,DNB,-,-,-,-
+219889,David Warner,8 Apr 2023,v RR,Guwahati,2,2,65,102,55,7,0,118.18,lbw,1,DNB,-,-,-,-
+219889,David Warner,11 Apr 2023,v MI,Delhi,1,1,51,94,47,6,0,108.51,caught,2,DNB,-,-,-,-
+219889,David Warner,15 Apr 2023,v RCB,Bengaluru,2,1,19,33,13,4,0,146.15,caught,1,DNB,-,-,-,-
+219889,David Warner,20 Apr 2023,v KKR,Delhi,2,1,57,58,41,11,0,139.02,lbw,1,DNB,-,-,-,-
+219889,David Warner,24 Apr 2023,v SRH,Hyderabad,1,1,21,39,20,2,1,105,caught,2,DNB,-,-,-,-
+219889,David Warner,29 Apr 2023,v SRH,Delhi,2,1,0,2,2,0,0,0,bowled,1,DNB,-,-,-,-
+219889,David Warner,2 May 2023,v GT,Ahmedabad,1,2,2,10,2,0,0,100,run out,2,DNB,-,-,-,-
+219889,David Warner,6 May 2023,v RCB,Delhi,2,1,22,26,14,3,1,157.14,caught,1,DNB,-,-,-,-
+219889,David Warner,10 May 2023,v CSK,Chennai,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,13 May 2023,v Punjab Kings,Delhi,2,1,54,49,27,10,1,200,lbw,1,DNB,-,-,-,-
+219889,David Warner,17 May 2023,v Punjab Kings,Dharamsala,1,1,46,53,31,5,2,148.38,caught,2,DNB,-,-,-,-
+219889,David Warner,20 May 2023,v CSK,Delhi,2,2,86,92,58,7,5,148.27,caught,1,DNB,-,-,-,-
+219889,David Warner,12 Jan 2024,v Sixers,Sydney,2,1,37,76,39,1,2,94.87,caught,1,DNB,-,-,-,-
+219889,David Warner,14 Jan 2024,v Strikers,Canberra,1,2,13,17,10,2,0,130,caught,2,DNB,-,-,-,-
+219889,David Warner,20 Jan 2024,v MI Emirates,Dubai (DICS),2,1,1,12,7,0,0,14.28,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Jan 2024,v Warriors,Dubai (DICS),1,2,20,-,27,2,0,74.07,caught,2,DNB,-,-,-,-
+219889,David Warner,25 Jan 2024,v KnightRiders,Dubai (DICS),2,1,0,3,2,0,0,0,lbw,1,DNB,-,-,-,-
+219889,David Warner,27 Jan 2024,v Gulf Giants,Sharjah,1,2,21,-,19,1,0,110.52,bowled,2,DNB,-,-,-,-
+219889,David Warner,29 Jan 2024,v Warriors,Sharjah,1,2,16,-,18,1,0,88.88,caught,2,DNB,-,-,-,-
+219889,David Warner,1 Feb 2024,v Vipers,Dubai (DICS),2,2,4,19,10,0,0,40,caught,1,DNB,-,-,-,-
+219889,David Warner,3 Feb 2024,v KnightRiders,Abu Dhabi,2,2,42,-,27,3,2,155.55,caught,1,DNB,-,-,-,-
+219889,David Warner,6 Feb 2024,v Gulf Giants,Dubai (DICS),2,2,11,11,7,0,1,157.14,caught,1,DNB,-,-,-,-
+219889,David Warner,9 Feb 2024,v West Indies,Hobart,1,1,70,58,36,12,1,194.44,caught,2,DNB,-,-,-,-
+219889,David Warner,11 Feb 2024,v West Indies,Adelaide,1,1,22,33,19,3,1,115.78,caught,2,DNB,-,-,-,-
+219889,David Warner,13 Feb 2024,v West Indies,Perth,2,2,81,60,49,9,3,165.3,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Feb 2024,v New Zealand,Wellington,2,2,32,33,20,1,3,160,caught,1,DNB,-,-,-,-
+219889,David Warner,23 Mar 2024,v Punjab Kings,New Chandigarh,1,1,29,35,21,3,2,138.09,caught,2,DNB,-,-,-,-
+219889,David Warner,28 Mar 2024,v RR,Jaipur,2,1,49,55,34,5,3,144.11,caught,1,DNB,-,-,-,-
+219889,David Warner,31 Mar 2024,v CSK,Visakhapatnam,1,2,52,47,35,5,3,148.57,caught,2,DNB,-,-,-,-
+219889,David Warner,3 Apr 2024,v KKR,Visakhapatnam,2,1,18,27,13,2,1,138.46,bowled,1,DNB,-,-,-,-
+219889,David Warner,7 Apr 2024,v MI,Wankhede,2,2,10,15,8,1,1,125,caught,1,DNB,-,-,-,-
+219889,David Warner,12 Apr 2024,v LSG,Lucknow,2,2,8,19,9,1,0,88.88,bowled,1,DNB,-,-,-,-
+219889,David Warner,20 Apr 2024,v SRH,Delhi,2,2,1,10,3,0,0,33.33,caught,1,DNB,-,-,-,-
+219889,David Warner,12 May 2024,v RCB,Bengaluru,2,1,1,3,2,0,0,50,caught,1,DNB,-,-,-,-
+219889,David Warner,5 Jun 2024,v Oman,Bridgetown,1,1,56,91,51,6,1,109.8,caught,2,DNB,-,-,-,-
+219889,David Warner,8 Jun 2024,v England,Bridgetown,1,2,39,22,16,2,4,243.75,bowled,2,DNB,-,-,-,-
+219889,David Warner,11 Jun 2024,v Namibia,North Sound,2,1,20,7,8,3,1,250,caught,1,DNB,-,-,-,-
+219889,David Warner,15 Jun 2024,v Scotland,Gros Islet,2,2,1,4,4,0,0,25,caught,1,DNB,-,-,-,-
+219889,David Warner,20 Jun 2024,v Bangladesh,North Sound,2,1,53*,52,35,5,3,151.42,not out,1,DNB,-,-,-,-
+219889,David Warner,22 Jun 2024,v Afghanistan,Kingstown,2,2,3,27,8,0,0,37.5,caught,1,DNB,-,-,-,-
+219889,David Warner,24 Jun 2024,v India,Gros Islet,2,1,6,5,6,1,0,100,caught,1,DNB,-,-,-,-
+219889,David Warner,17 Dec 2024,v Strikers,Canberra,2,2,7,6,5,1,0,140,caught,1,DNB,-,-,-,-
+219889,David Warner,21 Dec 2024,v Sixers,Sydney,1,1,17,14,10,2,1,170,caught,2,DNB,-,-,-,-
+219889,David Warner,28 Dec 2024,v Stars,Canberra,1,2,19,22,15,2,1,126.66,bowled,2,DNB,-,-,-,-
+219889,David Warner,30 Dec 2024,v Renegades,Sydney,1,2,86*,93,57,10,2,150.87,not out,2,DNB,-,-,-,-
+219889,David Warner,3 Jan 2025,v Scorchers,Perth,2,2,49,62,33,5,1,148.48,caught,1,DNB,-,-,-,-
+219889,David Warner,6 Jan 2025,v Heat,Brisbane,1,2,50,64,36,7,0,138.88,bowled,2,DNB,-,-,-,-
+219889,David Warner,10 Jan 2025,v Hurricanes,Hobart,1,2,88*,95,66,7,0,133.33,not out,2,DNB,-,-,-,-
+219889,David Warner,13 Jan 2025,v Scorchers,Sydney,1,2,8,15,7,1,0,114.28,caught,2,DNB,-,-,-,-
+219889,David Warner,17 Jan 2025,v Sixers,Sydney,1,2,22*,24,14,3,1,157.14,not out,-,TDNB,-,-,-,-
+219889,David Warner,22 Jan 2025,v Stars,Sydney,1,1,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,24 Jan 2025,v Sixers,Sydney,2,2,11,11,9,1,1,122.22,caught,1,DNB,-,-,-,-
+219889,David Warner,27 Jan 2025,v Hurricanes,Hobart,1,2,48,43,32,5,1,150,caught,2,DNB,-,-,-,-
+219889,David Warner,2 Feb 2025,v KnightRiders,Dubai (DICS),1,2,93*,-,57,12,1,163.15,not out,2,DNB,-,-,-,-
+219889,David Warner,9 Feb 2025,v Vipers,Dubai (DICS),2,2,4,8,5,1,0,80,bowled,1,DNB,-,-,-,-
+219889,David Warner,12 Apr 2025,v Sultans,Karachi,2,2,12,17,6,3,0,200,lbw,1,DNB,-,-,-,-
+219889,David Warner,15 Apr 2025,v Qalandars,Karachi,2,1,0,3,2,0,0,0,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Apr 2025,v Gladiators,Karachi,1,2,31,25,20,5,0,155,caught,2,DNB,-,-,-,-
+219889,David Warner,20 Apr 2025,v United,Karachi,1,2,3,7,4,0,0,75,bowled,2,DNB,-,-,-,-
+219889,David Warner,21 Apr 2025,v Zalmi,Karachi,2,2,60,83,47,8,0,127.65,bowled,1,DNB,-,-,-,-
+219889,David Warner,25 Apr 2025,v Gladiators,Lahore,2,1,4,-,4,1,0,100,caught,1,DNB,-,-,-,-
+219889,David Warner,1 May 2025,v Sultans,Lahore,1,2,30,-,13,4,2,230.76,caught,2,DNB,-,-,-,-
+219889,David Warner,4 May 2025,v Qalandars,Lahore,2,1,24,-,13,2,2,184.61,bowled,1,DNB,-,-,-,-
+219889,David Warner,17 May 2025,v Zalmi,Rawalpindi,1,2,86,-,50,11,2,172,caught,2,DNB,-,-,-,-
+219889,David Warner,19 May 2025,v United,Rawalpindi,2,2,43,-,28,4,2,153.57,bowled,1,DNB,-,-,-,-
+219889,David Warner,22 May 2025,v Qalandars,Lahore,1,1,75,-,52,8,3,144.23,caught,2,DNB,-,-,-,-
+219889,David Warner,14 Jun 2025,v Washington,Oakland,1,2,31,-,17,4,1,182.35,caught,2,DNB,-,-,-,-
+219889,David Warner,16 Jun 2025,v Texas,Oakland,2,1,9,-,9,2,0,100,caught,1,DNB,-,-,-,-
+219889,David Warner,18 Jun 2025,v MI New York,Oakland,1,2,4,-,7,1,0,57.14,lbw,2,DNB,-,-,-,-
+219889,David Warner,22 Jun 2025,v Los Angeles,Dallas,1,2,38,-,28,5,0,135.71,bowled,2,DNB,-,-,-,-
+219889,David Warner,25 Jun 2025,v SF,Dallas,2,2,23,-,20,2,0,115,lbw,1,DNB,-,-,-,-
+219889,David Warner,5 Jul 2025,v Texas,Lauderhill,2,2,9,-,10,1,0,90,bowled,1,DNB,-,-,-,-
+219889,David Warner,5 Aug 2025,v Invincibles,Lord's,1,2,9,23,10,1,0,90,caught,2,DNB,-,-,-,-
+219889,David Warner,9 Aug 2025,v Fire,Cardiff,1,2,70*,81,45,8,2,155.55,not out,2,DNB,-,-,-,-
+219889,David Warner,11 Aug 2025,v Originals,Manchester,2,1,71,67,51,12,1,139.21,caught,1,DNB,-,-,-,-
+219889,David Warner,14 Aug 2025,v Rockets,Lord's,1,2,6,14,5,1,0,120,caught,2,DNB,-,-,-,-
+219889,David Warner,17 Aug 2025,v Phoenix,Birmingham,1,1,9,23,12,0,0,75,caught,2,DNB,-,-,-,-
+219889,David Warner,20 Aug 2025,v N S-Chargers,Lord's,1,2,0,6,4,0,0,0,caught,2,DNB,-,-,-,-
+219889,David Warner,23 Aug 2025,v Brave,Lord's,1,1,25,24,20,3,1,125,caught,2,DNB,-,-,-,-
+219889,David Warner,25 Aug 2025,v Invincibles,The Oval,1,2,10,16,8,2,0,125,caught,2,DNB,-,-,-,-
+219889,David Warner,20 Dec 2025,v Sixers,Sydney,2,3,2,11,7,0,0,28.57,caught,1,DNB,-,-,-,-
+219889,David Warner,22 Dec 2025,v Heat,Canberra,1,4,7,5,4,1,0,175,caught,2,DNB,-,-,-,-
+219889,David Warner,28 Dec 2025,v Stars,Canberra,1,3,10,19,12,0,1,83.33,caught,2,DNB,-,-,-,-
+219889,David Warner,30 Dec 2025,v Scorchers,Sydney,2,1,25,28,21,0,2,119.04,caught,1,DNB,-,-,-,-
+219889,David Warner,3 Jan 2026,v Hurricanes,Sydney,1,2,130*,102,65,11,9,200,not out,2,DNB,-,-,-,-
+219889,David Warner,6 Jan 2026,v Strikers,Adelaide,2,2,67*,93,51,7,1,131.37,not out,1,DNB,-,-,-,-
+219889,David Warner,10 Jan 2026,v Heat,Brisbane,1,2,82,73,56,8,3,146.42,run out,2,DNB,-,-,-,-
+219889,David Warner,16 Jan 2026,v Sixers,Sydney,1,2,110*,98,65,11,4,169.23,not out,2,DNB,-,-,-,-

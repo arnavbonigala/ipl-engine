@@ -1,0 +1,164 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+290716,Kedar Jadhav,3 Apr 2007,v Gujarat,Wankhede,2,9,1*,2,1,0,0,100,not out,1,4.0,0,41,2,10.25
+290716,Kedar Jadhav,4 Apr 2007,v Saurashtra,Brabourne,1,6,0,1,0,0,0,-,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,6 Apr 2007,v Mumbai,Brabourne,1,5,19,14,17,2,0,111.76,caught,2,4.0,0,23,2,5.75
+290716,Kedar Jadhav,7 Apr 2007,v Baroda,Wankhede,2,5,12,26,15,1,0,80,caught,1,1.0,0,14,0,14
+290716,Kedar Jadhav,20 Oct 2009,v Gujarat,Pune,2,5,12,24,12,0,0,100,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Oct 2009,v Saurashtra,Pune,2,4,3,3,2,0,0,150,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Oct 2009,v Mumbai,Pune,1,4,8,6,6,1,0,133.33,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Oct 2009,v Baroda,Pune,2,4,60*,35,31,5,2,193.54,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Mar 2010,v RCB,Bengaluru,1,5,50*,-,29,5,2,172.41,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,29 Mar 2010,v KKR,Delhi,1,6,4*,-,1,1,0,400,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,31 Mar 2010,v RR,Delhi,1,5,10,-,9,1,0,111.11,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,4 Apr 2010,v RCB,Delhi,1,6,7,-,9,0,0,77.77,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,7 Apr 2010,v KKR,Eden Gardens,2,6,5,-,8,0,0,62.5,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,20 Oct 2010,v Gujarat,Vadodara,1,5,6,9,6,1,0,100,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Oct 2010,v Saurashtra,Vadodara,1,5,5,8,7,0,0,71.42,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Oct 2010,v Mumbai,Vadodara,2,4,47,43,30,2,3,156.66,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Oct 2010,v Baroda,Vadodara,1,3,2,12,3,0,0,66.66,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,15 Apr 2011,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Apr 2011,v CSK,Kochi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,20 Apr 2011,v KKR,Eden Gardens,1,6,12,-,11,1,0,109.09,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Apr 2011,v RR,Jaipur,1,8,5,-,9,0,0,55.55,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,27 Apr 2011,v Chargers,Kochi,2,6,0,-,2,0,0,0,lbw,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 May 2011,v CSK,Chennai,2,7,1*,-,1,0,0,100,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Mar 2013,v Gujarat,Ahmedabad,1,3,19,35,18,2,0,105.55,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Mar 2013,v Saurashtra,Ahmedabad,2,4,6,16,9,0,0,66.66,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Mar 2013,v Mumbai,Ahmedabad,1,3,53,32,22,6,3,240.9,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,22 Mar 2013,v Baroda,Ahmedabad,1,3,57,34,28,6,3,203.57,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Apr 2013,v MI,Wankhede,2,7,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Apr 2013,v SRH,Delhi,1,7,30*,35,20,1,2,150,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Apr 2013,v RCB,Bengaluru,1,6,29*,27,16,2,1,181.25,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Apr 2013,v CSK,Delhi,2,6,31,46,28,3,0,110.71,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Apr 2013,v MI,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Apr 2013,v Kings XI,Delhi,1,6,0,2,2,0,0,0,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,28 Apr 2013,v Warriors,Raipur,1,6,25,27,19,0,2,131.57,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,1 May 2013,v KKR,Raipur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,4 May 2013,v SRH,Hyderabad,1,6,3,5,4,0,0,75,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,7 May 2013,v RR,Jaipur,1,6,23*,39,21,2,0,109.52,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,10 May 2013,v RCB,Delhi,2,6,8,13,8,0,0,100,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,14 May 2013,v CSK,Chennai,2,5,2,6,4,0,0,50,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Sep 2013,v W. Indies A,Bengaluru,1,5,42,28,21,4,2,200,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,30 Mar 2014,v Gujarat,Mumbai,2,3,22,15,14,2,2,157.14,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,31 Mar 2014,v Saurashtra,Wankhede,2,4,40,44,31,4,1,129.03,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,3 Apr 2014,v Mumbai,Wankhede,1,3,27*,23,17,2,1,158.82,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,4 Apr 2014,v Baroda,Mumbai,1,5,4,3,3,1,0,133.33,stumped,2,DNB,-,-,-,-
+290716,Kedar Jadhav,27 Apr 2014,v MI,Sharjah,2,6,14*,15,10,2,0,140,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,3 May 2014,v RR,Delhi,1,6,28*,24,14,2,2,200,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,5 May 2014,v CSK,Delhi,1,7,29*,23,18,2,2,161.11,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,7 May 2014,v KKR,Delhi,1,7,26*,18,15,3,1,173.33,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,10 May 2014,v SRH,Delhi,1,7,5,14,11,0,0,45.45,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,13 May 2014,v RCB,Bengaluru,2,7,37,34,20,3,2,185,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,15 May 2014,v RR,Ahmedabad,2,7,3,5,3,0,0,100,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,19 May 2014,v Kings XI,Delhi,1,5,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,23 May 2014,v MI,Wankhede,2,6,7*,6,5,1,0,140,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,25 May 2014,v Kings XI,Mohali,1,4,0,3,4,0,0,0,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Mar 2015,v Gujarat,Pune,1,4,2,4,3,0,0,66.66,lbw,2,1.0,0,10,0,10
+290716,Kedar Jadhav,25 Mar 2015,v Saurashtra,Pune,1,5,10,14,11,0,0,90.9,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Apr 2015,v CSK,Chennai,2,5,20,38,20,2,0,100,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Apr 2015,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,15 Apr 2015,v Kings XI,Pune,2,6,3,6,5,0,0,60,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Apr 2015,v SRH,Visakhapatnam,1,6,19*,18,12,1,1,158.33,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,20 Apr 2015,v KKR,Delhi,1,7,12,15,9,1,1,133.33,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Apr 2015,v MI,Delhi,1,6,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,26 Apr 2015,v RCB,Delhi,1,6,33,55,29,4,0,113.79,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,1 May 2015,v Kings XI,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,3 May 2015,v RR,Brabourne,2,6,11,10,7,0,1,157.14,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,5 May 2015,v MI,Wankhede,1,4,16,26,15,0,1,106.66,stumped,2,DNB,-,-,-,-
+290716,Kedar Jadhav,7 May 2015,v KKR,Eden Gardens,2,4,10,12,6,0,1,166.66,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,9 May 2015,v SRH,Raipur,2,5,63*,50,34,8,2,185.29,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,12 May 2015,v CSK,Raipur,2,6,1*,5,1,0,0,100,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,17 May 2015,v RCB,Bengaluru,1,5,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Jul 2015,v Zimbabwe,Harare,1,5,9,10,7,1,0,128.57,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,19 Jul 2015,v Zimbabwe,Harare,2,5,5,-,6,0,0,83.33,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,2 Jan 2016,v UP,Cuttack,1,3,52*,50,29,5,3,179.31,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,3 Jan 2016,v Services,Cuttack,1,3,36,43,30,3,1,120,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,4 Jan 2016,v Odisha,Cuttack,2,3,20,14,10,4,0,200,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,7 Jan 2016,v Karnataka,Cuttack,1,3,14,17,10,2,0,140,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,8 Jan 2016,v Mumbai,Cuttack,1,3,29,33,27,5,0,107.4,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Apr 2016,v SRH,Bengaluru,1,6,8*,13,6,1,0,133.33,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Apr 2016,v Daredevils,Bengaluru,1,6,9*,19,11,1,0,81.81,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Apr 2016,v Guj Lions,Rajkot,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,30 Apr 2016,v SRH,Hyderabad,2,6,25*,30,15,0,2,166.66,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Jun 2016,v Zimbabwe,Harare,2,5,19,-,13,1,1,146.15,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,20 Jun 2016,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,22 Jun 2016,v Zimbabwe,Harare,1,5,58,70,42,7,1,138.09,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Feb 2017,v Central Zone,Wankhede,1,4,8,7,10,1,0,80,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,13 Feb 2017,v North Zone,Wankhede,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Feb 2017,v South Zone,Wankhede,1,4,9,19,15,0,0,60,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,5 Apr 2017,v SRH,Hyderabad,2,4,31,38,16,4,1,193.75,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,8 Apr 2017,v Daredevils,Bengaluru,1,4,69,53,37,5,5,186.48,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,10 Apr 2017,v Kings XI,Indore,1,4,1,9,4,0,0,25,lbw,2,DNB,-,-,-,-
+290716,Kedar Jadhav,14 Apr 2017,v MI,Bengaluru,1,4,9,14,8,0,0,112.5,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Apr 2017,v Supergiant,Bengaluru,2,4,18,45,22,0,0,81.81,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Apr 2017,v Guj Lions,Rajkot,1,4,38*,20,16,5,2,237.5,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Apr 2017,v KKR,Eden Gardens,2,5,9,9,7,2,0,128.57,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,27 Apr 2017,v Guj Lions,Bengaluru,1,5,31,18,18,4,1,172.22,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,29 Apr 2017,v Supergiant,Pune,2,4,7,15,12,1,0,58.33,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,1 May 2017,v MI,Wankhede,1,5,28,49,22,2,0,127.27,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,5 May 2017,v Kings XI,Bengaluru,2,5,6,17,6,1,0,100,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,7 May 2017,v KKR,Bengaluru,1,6,8,14,9,1,0,88.88,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,14 May 2017,v Daredevils,Delhi,1,5,12,18,9,0,1,133.33,run out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Jul 2017,v West Indies,Kingston,1,6,4,-,4,0,0,100,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,6 Sep 2017,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,7 Oct 2017,v Australia,Ranchi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,10 Oct 2017,v Australia,Guwahati,1,5,27,47,27,3,1,100,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,7 Apr 2018,v MI,Wankhede,2,4,24*,-,22,1,2,109.09,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Mar 2019,v RCB,Chennai,2,4,13*,-,19,1,0,68.42,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,26 Mar 2019,v DC,Delhi,2,4,27,60,34,2,0,79.41,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,31 Mar 2019,v RR,Chennai,1,4,8,-,3,2,0,266.66,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,3 Apr 2019,v MI,Wankhede,2,4,58,87,54,8,1,107.4,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,6 Apr 2019,v Kings XI,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Apr 2019,v KKR,Chennai,2,5,8*,16,8,1,0,100,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,11 Apr 2019,v RR,Jaipur,2,5,1,9,6,0,0,16.66,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,14 Apr 2019,v KKR,Eden Gardens,2,5,20,9,12,3,1,166.66,lbw,1,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Apr 2019,v SRH,Hyderabad,1,5,1,5,2,0,0,50,lbw,2,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Apr 2019,v RCB,Bengaluru,2,5,9,10,9,2,0,100,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Apr 2019,v SRH,Chennai,2,5,11*,14,10,0,1,110,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,26 Apr 2019,v MI,Chennai,2,5,6,13,11,0,0,54.54,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,1 May 2019,v DC,Chennai,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,5 May 2019,v Kings XI,Mohali,1,6,0,4,1,0,0,0,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,8 Nov 2019,v Railways,Chandigarh,1,3,27,-,26,2,1,103.84,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Nov 2019,v Chandigarh,Chandigarh,1,3,13,-,15,1,0,86.66,stumped,2,DNB,-,-,-,-
+290716,Kedar Jadhav,11 Nov 2019,v Arunachal,Chandigarh,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Nov 2019,v Chhattisgarh,Chandigarh,2,7,7,-,12,0,0,58.33,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,14 Nov 2019,v Hyderabad,Chandigarh,2,3,68,-,40,10,1,170,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,15 Nov 2019,v Himachal,Chandigarh,2,3,31,-,22,5,0,140.9,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Nov 2019,v Punjab,Chandigarh,1,3,11,-,10,1,1,110,lbw,2,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Nov 2019,v Delhi,Surat,2,3,8,-,6,1,0,133.33,run out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,24 Nov 2019,v Baroda,Surat,1,3,47*,-,42,2,2,111.9,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Nov 2019,v Rajasthan,Surat,1,3,10,-,8,2,0,125,lbw,2,DNB,-,-,-,-
+290716,Kedar Jadhav,27 Nov 2019,v Haryana,Surat,1,3,0,-,3,0,0,0,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,19 Sep 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,22 Sep 2020,v RR,Sharjah,2,6,22,-,16,3,0,137.5,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Sep 2020,v DC,Dubai (DICS),2,5,26,-,21,3,0,123.8,lbw,1,DNB,-,-,-,-
+290716,Kedar Jadhav,2 Oct 2020,v SRH,Dubai (DICS),2,4,3,-,10,0,0,30,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,4 Oct 2020,v Kings XI,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,7 Oct 2020,v KKR,Abu Dhabi,2,6,7*,-,12,1,0,58.33,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Oct 2020,v DC,Sharjah,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,19 Oct 2020,v RR,Abu Dhabi,1,7,4*,-,7,0,0,57.14,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,10 Jan 2021,v Gujarat,Vadodara,2,3,7,10,6,0,1,116.66,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,12 Jan 2021,v Chhattisgarh,Vadodara,2,3,84*,78,45,5,5,186.66,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,14 Jan 2021,v Uttarakhand,Vadodara,1,3,61,-,47,4,4,129.78,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Jan 2021,v Baroda,Vadodara,2,3,25,-,25,2,1,100,stumped,1,DNB,-,-,-,-
+290716,Kedar Jadhav,18 Jan 2021,v Himachal,Vadodara,1,3,16,-,22,2,0,72.72,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,21 Apr 2021,v Punjab Kings,Chennai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Apr 2021,v DC,Chennai,2,5,9,17,9,1,0,100,stumped,1,DNB,-,-,-,-
+290716,Kedar Jadhav,28 Apr 2021,v CSK,Delhi,1,5,12*,11,4,1,1,300,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,2 May 2021,v RR,Delhi,2,5,19,35,19,0,1,100,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,22 Sep 2021,v DC,Dubai (DICS),1,5,3,16,8,0,0,37.5,lbw,2,DNB,-,-,-,-
+290716,Kedar Jadhav,25 Sep 2021,v Punjab Kings,Sharjah,2,5,12,21,12,0,0,100,bowled,1,DNB,-,-,-,-
+290716,Kedar Jadhav,4 Nov 2021,v Tamil Nadu,Lucknow,2,3,13,-,16,0,0,81.25,caught,1,DNB,-,-,-,-
+290716,Kedar Jadhav,5 Nov 2021,v Punjab,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,6 Nov 2021,v Odisha,Lucknow,1,3,55,56,35,7,0,157.14,caught,2,DNB,-,-,-,-
+290716,Kedar Jadhav,8 Nov 2021,v Puducherry,Lucknow,1,4,52*,58,39,6,2,133.33,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 Nov 2021,v Goa,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Nov 2021,v Vidarbha,Delhi,1,4,6,-,8,0,0,75,bowled,2,DNB,-,-,-,-
+290716,Kedar Jadhav,6 May 2023,v DC,Delhi,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+290716,Kedar Jadhav,9 May 2023,v MI,Wankhede,1,7,12*,33,10,1,0,120,not out,2,DNB,-,-,-,-
+290716,Kedar Jadhav,16 Oct 2023,v Bengal,Mohali,2,3,40*,-,26,2,2,153.84,not out,1,DNB,-,-,-,-
+290716,Kedar Jadhav,17 Oct 2023,v Uttarakhand,New Chandigarh,2,3,4,-,3,1,0,133.33,caught,1,1.0,0,7,0,7
+290716,Kedar Jadhav,21 Oct 2023,v Puducherry,Mohali,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+290716,Kedar Jadhav,23 Oct 2023,v Jharkhand,Mohali,2,5,10,-,9,0,0,111.11,caught,1,2.0,0,11,1,5.5
+290716,Kedar Jadhav,25 Oct 2023,v Vidarbha,Mohali,2,2,42,-,17,7,2,247.05,caught,1,2.0,0,14,1,7
+290716,Kedar Jadhav,27 Oct 2023,v Rajasthan,New Chandigarh,2,2,0,-,1,0,0,0,caught,1,1.0,0,5,0,5

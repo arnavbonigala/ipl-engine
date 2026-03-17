@@ -1,0 +1,56 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1294342,Kwena Maphaka,30 Sep 2022,v Easterns,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+1294342,Kwena Maphaka,1 Oct 2022,v KZN-Inland,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,1.0,0,7,0,7
+1294342,Kwena Maphaka,2 Oct 2022,v Mpumalanga,Pietermaritzburg,1,11,1*,8,2,0,0,50,not out,2,4.0,0,18,4,4.5
+1294342,Kwena Maphaka,8 Oct 2022,v Border,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+1294342,Kwena Maphaka,9 Oct 2022,v Northern Cpe,East London,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+1294342,Kwena Maphaka,8 Mar 2024,v Boland,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+1294342,Kwena Maphaka,10 Mar 2024,v North West,Potchefstroom (Uni),2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,2,3.66
+1294342,Kwena Maphaka,15 Mar 2024,v Titans,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+1294342,Kwena Maphaka,17 Mar 2024,v W Province,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,1,27,1,6.75
+1294342,Kwena Maphaka,27 Mar 2024,v SRH,Hyderabad,2,-,sub,-,-,-,-,-,-,1,4.0,0,66,0,16.5
+1294342,Kwena Maphaka,1 Apr 2024,v RR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+1294342,Kwena Maphaka,23 Aug 2024,v West Indies,Tarouba,1,9,1*,1,1,0,0,100,not out,2,3.5,0,25,1,6.52
+1294342,Kwena Maphaka,25 Aug 2024,v West Indies,Tarouba,2,10,3*,11,7,0,0,42.85,not out,1,4.0,0,29,0,7.25
+1294342,Kwena Maphaka,27 Aug 2024,v West Indies,Tarouba,1,-,DNB,-,-,-,-,-,-,2,2.0,0,34,0,17
+1294342,Kwena Maphaka,27 Sep 2024,v Titans,Johannesburg,2,10,1*,4,3,0,0,33.33,not out,1,4.0,0,31,2,7.75
+1294342,Kwena Maphaka,4 Oct 2024,v Warriors,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+1294342,Kwena Maphaka,6 Oct 2024,v Dolphins,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+1294342,Kwena Maphaka,16 Oct 2024,v W Province,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.3,0,28,1,8
+1294342,Kwena Maphaka,19 Oct 2024,v North West,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+1294342,Kwena Maphaka,22 Oct 2024,v Titans,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,1,11,3,2.75
+1294342,Kwena Maphaka,27 Oct 2024,v Titans,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,2,3.75
+1294342,Kwena Maphaka,10 Dec 2024,v Pakistan,Durban,1,10,12*,20,11,2,0,109.09,not out,2,4.0,0,39,2,9.75
+1294342,Kwena Maphaka,13 Dec 2024,v Pakistan,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,41,0,13.66
+1294342,Kwena Maphaka,11 Jan 2025,v Sunrisers,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+1294342,Kwena Maphaka,13 Jan 2025,v MI Cape Town,Cape Town,2,10,22*,31,19,1,2,115.78,not out,1,4.0,0,40,1,10
+1294342,Kwena Maphaka,15 Jan 2025,v MI Cape Town,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,35,0,11.66
+1294342,Kwena Maphaka,18 Jan 2025,v Capitals,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,0,10.25
+1294342,Kwena Maphaka,20 Jan 2025,v Super Kings,Paarl,2,-,DNB,-,-,-,-,-,-,1,2.0,0,29,0,14.5
+1294342,Kwena Maphaka,27 Jan 2025,v Super Giants,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+1294342,Kwena Maphaka,30 Jan 2025,v Super Kings,Johannesburg,1,10,2*,8,5,0,0,40,not out,2,3.0,0,18,0,6
+1294342,Kwena Maphaka,4 Feb 2025,v MI Cape Town,Gqeberha,2,11,0*,5,4,0,0,0,not out,1,4.0,0,49,0,12.25
+1294342,Kwena Maphaka,6 Feb 2025,v Sunrisers,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.2,0,29,1,8.7
+1294342,Kwena Maphaka,18 May 2025,v Punjab Kings,Jaipur,2,9,8*,2,2,2,0,400,not out,1,3.0,0,32,1,10.66
+1294342,Kwena Maphaka,20 May 2025,v CSK,Delhi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+1294342,Kwena Maphaka,16 Jul 2025,v New Zealand,Harare,2,10,0,2,1,0,0,0,caught,1,4.0,0,38,2,9.5
+1294342,Kwena Maphaka,22 Jul 2025,v New Zealand,Harare,1,-,DNB,-,-,-,-,-,-,2,2.5,0,19,0,6.7
+1294342,Kwena Maphaka,26 Jul 2025,v New Zealand,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1294342,Kwena Maphaka,10 Aug 2025,v Australia,Darwin,2,10,3*,2,3,0,0,100,not out,1,4.0,0,20,4,5
+1294342,Kwena Maphaka,12 Aug 2025,v Australia,Darwin,1,-,DNB,-,-,-,-,-,-,2,4.0,0,57,3,14.25
+1294342,Kwena Maphaka,16 Aug 2025,v Australia,Cairns,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,2,12
+1294342,Kwena Maphaka,10 Sep 2025,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+1294342,Kwena Maphaka,12 Sep 2025,v England,Manchester,2,10,0,1,1,0,0,0,caught,1,4.0,0,41,0,10.25
+1294342,Kwena Maphaka,26 Dec 2025,v MI Cape Town,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+1294342,Kwena Maphaka,28 Dec 2025,v MI Cape Town,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1294342,Kwena Maphaka,30 Dec 2025,v Super Kings,Durban,1,10,1*,10,4,0,0,25,not out,2,1.0,0,11,0,11
+1294342,Kwena Maphaka,1 Jan 2026,v Super Kings,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,50,0,12.5
+1294342,Kwena Maphaka,3 Jan 2026,v Capitals,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1294342,Kwena Maphaka,7 Jan 2026,v Capitals,Durban,2,10,0,12,3,0,0,0,run out,1,4.0,0,45,1,11.25
+1294342,Kwena Maphaka,11 Jan 2026,v Sunrisers,Gqeberha,2,10,1*,6,2,0,0,50,not out,1,4.0,0,44,1,11
+1294342,Kwena Maphaka,17 Jan 2026,v Paarl Royals,Durban,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+1294342,Kwena Maphaka,27 Jan 2026,v West Indies,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1294342,Kwena Maphaka,29 Jan 2026,v West Indies,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,0,13
+1294342,Kwena Maphaka,31 Jan 2026,v West Indies,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,1,12
+1294342,Kwena Maphaka,18 Feb 2026,v U.A.E.,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+1294342,Kwena Maphaka,1 Mar 2026,v Zimbabwe,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25

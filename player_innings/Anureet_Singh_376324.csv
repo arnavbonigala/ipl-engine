@@ -1,0 +1,72 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+376324,Anureet Singh,23 Apr 2009,v RR,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+376324,Anureet Singh,27 Apr 2009,v MI,Gqeberha,2,-,absent,-,-,-,-,-,-,1,DNB,-,-,-,-
+376324,Anureet Singh,18 May 2009,v CSK,Centurion,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+376324,Anureet Singh,12 Mar 2010,v Assam,Indore,1,-,DNB,-,-,-,-,-,-,2,1.1,0,9,0,7.71
+376324,Anureet Singh,22 Oct 2011,v UP,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,2,4
+376324,Anureet Singh,24 Oct 2011,v Vidarbha,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+376324,Anureet Singh,25 Oct 2011,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,0,4
+376324,Anureet Singh,24 Mar 2012,v Delhi,Brabourne,2,10,0*,-,0,0,0,-,not out,1,4.0,0,41,2,10.25
+376324,Anureet Singh,17 Mar 2013,v UP,Nagpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+376324,Anureet Singh,18 Mar 2013,v Rajasthan,Nagpur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,0,8.33
+376324,Anureet Singh,1 Apr 2014,v M. Pradesh,Nagpur,1,10,6*,19,12,0,0,50,not out,2,2.0,0,17,2,8.5
+376324,Anureet Singh,2 Apr 2014,v Vidarbha,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,2,6.25
+376324,Anureet Singh,4 Apr 2014,v Rajasthan,Nagpur,2,10,9,2,4,2,0,225,caught,1,4.0,0,40,1,10
+376324,Anureet Singh,5 Apr 2014,v UP,Nagpur,2,10,0,5,2,0,0,0,caught,1,3.0,0,19,1,6.33
+376324,Anureet Singh,18 Sep 2014,v Hurricanes,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+376324,Anureet Singh,20 Sep 2014,v Tridents,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,1,8
+376324,Anureet Singh,26 Sep 2014,v Northern Dis,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,1,12.5
+376324,Anureet Singh,28 Sep 2014,v Cape Cobras,Mohali,2,-,DNB,-,-,-,-,-,-,1,2.3,0,12,3,4.8
+376324,Anureet Singh,2 Oct 2014,v CSK,Hyderabad,2,11,16,9,10,0,2,160,caught,1,4.0,0,44,0,11
+376324,Anureet Singh,25 Mar 2015,v M. Pradesh,Indore,2,9,0*,1,0,0,0,-,not out,1,4.0,0,40,2,10
+376324,Anureet Singh,27 Mar 2015,v Vidarbha,Indore,2,9,1*,4,1,0,0,100,not out,1,4.0,1,22,0,5.5
+376324,Anureet Singh,28 Mar 2015,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+376324,Anureet Singh,10 Apr 2015,v RR,Pune,2,9,0*,8,3,0,0,0,not out,1,4.0,0,23,3,5.75
+376324,Anureet Singh,12 Apr 2015,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,2,10.25
+376324,Anureet Singh,15 Apr 2015,v Daredevils,Pune,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+376324,Anureet Singh,18 Apr 2015,v KKR,Pune,1,10,0*,1,1,0,0,0,not out,2,4.0,0,37,0,9.25
+376324,Anureet Singh,21 Apr 2015,v RR,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+376324,Anureet Singh,25 Apr 2015,v CSK,Chennai,2,9,10,30,20,0,0,50,caught,1,4.0,0,40,1,10
+376324,Anureet Singh,27 Apr 2015,v SRH,Mohali,2,10,0,3,2,0,0,0,caught,1,4.0,0,27,1,6.75
+376324,Anureet Singh,1 May 2015,v Daredevils,Delhi,1,10,8*,3,3,0,1,266.66,not out,2,3.0,0,24,0,8
+376324,Anureet Singh,3 May 2015,v MI,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+376324,Anureet Singh,6 May 2015,v RCB,Bengaluru,2,9,0,1,2,0,0,0,bowled,1,4.0,0,25,0,6.25
+376324,Anureet Singh,9 May 2015,v KKR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.5,0,56,2,14.6
+376324,Anureet Singh,11 May 2015,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+376324,Anureet Singh,13 May 2015,v RCB,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.0,0,21,2,10.5
+376324,Anureet Singh,16 May 2015,v CSK,Mohali,1,-,DNB,-,-,-,-,-,-,2,2.5,0,30,0,10.58
+376324,Anureet Singh,2 Jan 2016,v Delhi,Vadodara,1,-,DNB,-,-,-,-,-,-,2,3.2,0,41,1,12.3
+376324,Anureet Singh,3 Jan 2016,v Baroda,Vadodara,2,8,6*,5,6,1,0,100,not out,1,4.0,0,33,1,8.25
+376324,Anureet Singh,4 Jan 2016,v Andhra,Vadodara,1,8,4,10,7,0,0,57.14,bowled,2,3.4,0,16,2,4.36
+376324,Anureet Singh,6 Jan 2016,v M. Pradesh,Vadodara,1,9,8*,16,10,1,0,80,not out,2,3.0,0,18,0,6
+376324,Anureet Singh,7 Jan 2016,v Goa,Vadodara,1,9,2,2,2,0,0,100,caught,2,4.0,0,27,0,6.75
+376324,Anureet Singh,9 Jan 2016,v Assam,Vadodara,1,10,0*,1,1,0,0,0,not out,2,4.0,0,30,2,7.5
+376324,Anureet Singh,9 May 2016,v RCB,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,0,5
+376324,Anureet Singh,15 May 2016,v SRH,Mohali,1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,0,9.33
+376324,Anureet Singh,29 Jan 2017,v M. Pradesh,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.5,0,39,0,10.17
+376324,Anureet Singh,31 Jan 2017,v Vidarbha,Jaipur,2,9,32*,17,17,2,2,188.23,not out,1,4.0,0,39,0,9.75
+376324,Anureet Singh,2 Feb 2017,v UP,Jaipur,1,8,12,10,7,2,0,171.42,caught,2,2.0,1,4,1,2
+376324,Anureet Singh,3 Feb 2017,v Chhattisgarh,Jaipur,2,8,3,9,6,0,0,50,caught,1,4.0,0,27,1,6.75
+376324,Anureet Singh,5 Feb 2017,v Rajasthan,Jaipur,2,6,1,8,3,0,0,33.33,bowled,1,4.0,0,45,2,11.25
+376324,Anureet Singh,28 Apr 2017,v SRH,Mohali,2,8,15,23,12,2,0,125,caught,1,2.0,0,26,0,13
+376324,Anureet Singh,9 Jan 2018,v Vidarbha,Raipur,2,8,16*,17,11,1,1,145.45,not out,1,4.0,0,45,1,11.25
+376324,Anureet Singh,10 Jan 2018,v Chhattisgarh,Raipur,2,8,14,20,10,0,1,140,caught,1,4.0,0,34,0,8.5
+376324,Anureet Singh,15 Jan 2018,v M. Pradesh,Raipur,2,7,6*,10,7,0,0,85.71,not out,1,4.0,0,18,2,4.5
+376324,Anureet Singh,16 Jan 2018,v Rajasthan,Raipur,2,6,0,1,2,0,0,0,run out,1,4.0,0,28,1,7
+376324,Anureet Singh,6 May 2018,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+376324,Anureet Singh,8 May 2018,v Kings XI,Jaipur,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+376324,Anureet Singh,15 May 2018,v KKR,Eden Gardens,1,11,3*,-,4,0,0,75,not out,2,1.0,0,10,0,10
+376324,Anureet Singh,21 Feb 2019,v Saurashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+376324,Anureet Singh,24 Feb 2019,v Goa,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,0,7.66
+376324,Anureet Singh,25 Feb 2019,v M. Pradesh,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+376324,Anureet Singh,27 Feb 2019,v Mumbai,Indore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+376324,Anureet Singh,28 Feb 2019,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+376324,Anureet Singh,2 Mar 2019,v Punjab,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,3,13
+376324,Anureet Singh,8 Mar 2019,v Bengal,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,24,0,12
+376324,Anureet Singh,9 Mar 2019,v Jharkhand,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+376324,Anureet Singh,11 Mar 2019,v Gujarat,Indore,1,7,12,14,17,2,0,70.58,caught,2,2.0,0,18,1,9
+376324,Anureet Singh,11 Jan 2021,v Mizoram,Chennai,2,1,28*,-,12,2,2,233.33,not out,1,2.0,0,9,1,4.5
+376324,Anureet Singh,13 Jan 2021,v Bihar,Chennai,1,5,18,-,18,0,2,100,lbw,2,4.0,0,20,1,5
+376324,Anureet Singh,15 Jan 2021,v Nagaland,Chennai,2,7,41,-,26,3,4,157.69,run out,1,4.0,0,22,1,5.5
+376324,Anureet Singh,17 Jan 2021,v Chandigarh,Chennai,2,6,6*,-,11,1,0,54.54,not out,1,4.0,0,43,0,10.75
+376324,Anureet Singh,19 Jan 2021,v Meghalaya,Chennai,1,4,5,-,10,1,0,50,caught,2,4.0,0,24,0,6

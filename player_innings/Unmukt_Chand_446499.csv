@@ -1,0 +1,104 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+446499,Unmukt Chand,14 Mar 2010,v Assam,Indore,1,1,5,15,9,1,0,55.55,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,15 Mar 2010,v Hyderabad,Indore,1,1,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+446499,Unmukt Chand,10 Apr 2011,v MI,Delhi,1,3,0,-,2,0,0,0,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,12 Apr 2011,v RR,Jaipur,1,4,2,-,10,0,0,20,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,20 Oct 2011,v Himachal,Rohtak,1,2,8,9,6,2,0,133.33,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,21 Oct 2011,v J & K,Rohtak,2,1,19,31,24,3,0,79.16,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,22 Oct 2011,v Punjab,Rohtak,1,3,0,4,5,0,0,0,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,17 May 2012,v RCB,Delhi,2,1,18,19,10,2,1,180,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,19 May 2012,v Kings XI,Dharamsala,2,1,18,46,24,0,2,75,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,13 Oct 2012,v KKR,Centurion,1,4,40,44,27,4,2,148.14,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,21 Oct 2012,v Scorchers,Cape Town,2,3,3,10,6,0,0,50,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,23 Oct 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+446499,Unmukt Chand,25 Oct 2012,v Lions,Durban,2,4,9,20,20,0,0,45,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,18 Mar 2013,v Punjab,Gurgaon,2,3,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,19 Mar 2013,v Himachal,Rohtak,2,1,4,4,4,1,0,100,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,20 Mar 2013,v J & K,Gurgaon,1,1,23,38,25,4,0,92,lbw,2,DNB,-,-,-,-
+446499,Unmukt Chand,21 Mar 2013,v Haryana,Rohtak,1,2,4,6,7,1,0,57.14,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,22 Mar 2013,v Services,Rohtak,1,1,56,-,51,5,1,109.8,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,26 Mar 2013,v Kerala,Indore,1,1,105,-,67,12,4,156.71,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,27 Mar 2013,v Gujarat,Indore,1,1,125,-,63,10,10,198.41,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,28 Mar 2013,v Odisha,Indore,1,1,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,30 Mar 2013,v Vidarbha,Indore,1,1,4,-,9,0,0,44.44,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,3 Apr 2013,v KKR,Eden Gardens,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,6 Apr 2013,v RR,Delhi,2,2,23,22,19,2,1,121.05,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,9 Apr 2013,v MI,Wankhede,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,28 Apr 2013,v Warriors,Raipur,1,3,17,31,19,2,0,89.47,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,1 May 2013,v KKR,Raipur,2,3,37,64,39,4,0,94.87,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,4 May 2013,v SRH,Hyderabad,1,3,17,37,24,3,0,70.83,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,10 May 2013,v RCB,Delhi,2,3,41,62,35,4,1,117.14,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,14 May 2013,v CSK,Chennai,2,2,16,22,12,2,1,133.33,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,16 May 2013,v Kings XI,Dharamsala,2,2,7,10,8,0,1,87.5,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,21 Sep 2013,v W. Indies A,Bengaluru,1,2,47,45,29,4,2,162.06,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,1 Apr 2014,v Himachal,Mohali,2,3,7,18,10,1,0,70,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,2 Apr 2014,v J & K,Chandigarh,2,3,39,43,41,4,0,95.12,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,3 Apr 2014,v Punjab,Mohali,2,5,14*,12,11,1,1,127.27,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,4 Apr 2014,v Haryana,Chandigarh,2,3,7*,7,2,0,1,350,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,5 Apr 2014,v Services,Chandigarh,2,2,14,16,9,3,0,155.55,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,19 May 2014,v MI,Ahmedabad,2,2,2,12,9,0,0,22.22,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,24 Mar 2015,v J & K,Delhi,1,1,5,9,5,1,0,100,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,25 Mar 2015,v Punjab,Delhi,2,1,20,24,17,2,1,117.64,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,26 Mar 2015,v Himachal,Delhi,2,1,11,16,10,1,0,110,lbw,1,DNB,-,-,-,-
+446499,Unmukt Chand,27 Mar 2015,v Haryana,Delhi,2,1,38,68,41,4,1,92.68,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,28 Mar 2015,v Services,Delhi,2,2,5,11,6,1,0,83.33,lbw,1,DNB,-,-,-,-
+446499,Unmukt Chand,14 Apr 2015,v RR,Ahmedabad,1,3,12,-,17,1,0,70.58,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,19 Apr 2015,v RCB,Bengaluru,1,3,58,50,37,8,2,156.75,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,23 Apr 2015,v Daredevils,Delhi,2,3,14,20,11,2,0,127.27,stumped,1,DNB,-,-,-,-
+446499,Unmukt Chand,25 Apr 2015,v SRH,Wankhede,1,3,5,6,4,1,0,125,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,1 May 2015,v RR,Wankhede,1,3,13,31,14,1,0,92.85,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,3 May 2015,v Kings XI,Mohali,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+446499,Unmukt Chand,2 Jan 2016,v Railways,Vadodara,2,1,38,29,19,4,3,200,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,3 Jan 2016,v Andhra,Vadodara,1,1,0,2,3,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,4 Jan 2016,v M. Pradesh,Vadodara,2,1,2,13,7,0,0,28.57,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,6 Jan 2016,v Assam,Vadodara,2,1,29*,36,28,1,2,103.57,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,9 Jan 2016,v Goa,Vadodara,1,1,15,17,11,0,2,136.36,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,10 Jan 2016,v Baroda,Vadodara,2,1,38,39,29,3,2,131.03,stumped,1,DNB,-,-,-,-
+446499,Unmukt Chand,15 Jan 2016,v Gujarat,Mumbai,1,1,103,80,58,8,5,177.58,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,16 Jan 2016,v Jharkhand,Mumbai,2,1,3,9,3,0,0,100,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,18 Jan 2016,v UP,Mumbai,1,1,48,47,35,3,3,137.14,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,13 May 2016,v Kings XI,Visakhapatnam,1,2,0,10,4,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,29 Jan 2017,v J & K,Dharamsala,2,3,49*,64,38,2,4,128.94,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,30 Jan 2017,v Punjab,Dharamsala,1,3,9,29,21,2,0,42.85,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,31 Jan 2017,v Himachal,Nadaun,2,4,2,15,7,0,0,28.57,run out,1,DNB,-,-,-,-
+446499,Unmukt Chand,1 Feb 2017,v Haryana,Dharamsala,2,3,0,7,6,0,0,0,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,2 Feb 2017,v Services,Dharamsala,2,4,4,6,4,0,0,100,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,16 Feb 2017,v East Zone,Wankhede,1,3,20,33,24,1,0,83.33,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,25 Jan 2018,v UP,Kolkata,1,4,0,2,4,0,0,0,lbw,2,DNB,-,-,-,-
+446499,Unmukt Chand,26 Jan 2018,v Rajasthan,Eden Gardens,1,4,53,67,49,4,2,108.16,lbw,2,DNB,-,-,-,-
+446499,Unmukt Chand,21 Feb 2019,v Jharkhand,Mulapadu,2,1,33,59,35,1,0,94.28,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,22 Feb 2019,v Manipur,Mulapadu,2,1,53*,46,32,8,1,165.62,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,24 Feb 2019,v J & K,Mulapadu,2,1,8,16,5,0,1,160,run out,1,DNB,-,-,-,-
+446499,Unmukt Chand,25 Feb 2019,v Kerala,Mulapadu,2,1,33,68,32,0,2,103.12,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,27 Feb 2019,v Andhra,Mulapadu,1,1,70,56,35,4,6,200,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,2 Mar 2019,v Nagaland,Mulapadu,2,1,5,13,9,0,0,55.55,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,8 Mar 2019,v Vidarbha,Indore,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,9 Mar 2019,v Mumbai,Indore,1,1,22,38,24,2,1,91.66,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,10 Mar 2019,v Karnataka,Indore,1,2,12,29,17,0,1,70.58,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,11 Mar 2019,v UP,Indore,2,3,4,3,4,1,0,100,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,18 Jan 2022,v Hurricanes,Melbourne (Docklands),2,4,6,13,8,0,0,75,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,19 Jan 2022,v Thunder,Melbourne,2,4,29,34,22,1,2,131.81,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,6 Jan 2023,v Strikers,Mirpur,1,7,5,12,10,0,0,50,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,9 Jan 2023,v Khulna,Mirpur,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+446499,Unmukt Chand,13 Jan 2023,v Barishal,Chattogram,2,3,16,26,21,1,0,76.19,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,27 Jan 2023,v Barishal,Sylhet,1,3,16,14,13,3,0,123.07,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,7 Feb 2023,v Dominators,Mirpur,1,3,0,-,3,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,5 Jul 2024,v Texas,Dallas,1,3,68,-,45,6,3,151.11,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,7 Jul 2024,v SF,Dallas,1,3,0,-,5,0,0,0,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,9 Jul 2024,v Seattle,Dallas,1,3,18,-,21,2,0,85.71,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,14 Jul 2024,v Washington,Morrisville,1,3,1,-,4,0,0,25,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,17 Jul 2024,v Seattle,Morrisville,2,3,62,-,47,3,3,131.91,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,21 Jul 2024,v MI New York,Dallas,1,3,9,-,10,2,0,90,lbw,2,DNB,-,-,-,-
+446499,Unmukt Chand,14 Jun 2025,v SF,Oakland,2,3,53,-,32,4,4,165.62,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,15 Jun 2025,v Texas,Oakland,2,3,22,-,23,2,1,95.65,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,17 Jun 2025,v Washington,Oakland,2,3,0,-,7,0,0,0,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,22 Jun 2025,v Seattle,Dallas,2,1,86*,-,58,10,4,148.27,not out,1,DNB,-,-,-,-
+446499,Unmukt Chand,24 Jun 2025,v Texas,Dallas,2,1,30,-,30,5,0,100,bowled,1,DNB,-,-,-,-
+446499,Unmukt Chand,26 Jun 2025,v Washington,Dallas,1,1,41,-,30,3,1,136.66,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,28 Jun 2025,v Seattle,Dallas,1,1,11,-,13,1,0,84.61,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,3 Jul 2025,v MI New York,Lauderhill,1,1,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+446499,Unmukt Chand,5 Jul 2025,v MI New York,Lauderhill,2,3,59,-,48,5,0,122.91,retired out,1,DNB,-,-,-,-
+446499,Unmukt Chand,5 Dec 2025,v Vipers,Sharjah,1,7,18,-,13,1,1,138.46,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,7 Dec 2025,v DC,Dubai (DICS),2,4,0,4,1,0,0,0,caught,1,DNB,-,-,-,-
+446499,Unmukt Chand,22 Dec 2025,v Warriorz,Abu Dhabi,1,7,24,-,22,2,0,109.09,caught,2,DNB,-,-,-,-
+446499,Unmukt Chand,2 Jan 2026,v MI Emirates,Sharjah,1,9,2,5,4,0,0,50,caught,2,DNB,-,-,-,-

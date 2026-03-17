@@ -1,0 +1,299 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+12454,Joe Denly,2 Jul 2004,v Middlesex,Maidstone,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+12454,Joe Denly,5 Jul 2004,v Essex,Maidstone,1,6,4,12,11,0,0,36.36,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,13 Jul 2004,v Sussex,Canterbury,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+12454,Joe Denly,6 Jul 2006,v Sussex,Hove,1,7,2,6,3,0,0,66.66,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,22 Jun 2007,v Hampshire,Southampton,1,1,18,9,12,3,0,150,caught,2,DNB,-,-,-,-
+12454,Joe Denly,23 Jun 2007,v Essex,Canterbury,1,1,17,13,13,3,0,130.76,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jun 2007,v Sussex,Canterbury,1,1,34,32,25,7,0,136,run out,2,DNB,-,-,-,-
+12454,Joe Denly,27 Jun 2007,v Middlesex,Uxbridge,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+12454,Joe Denly,29 Jun 2007,v Essex,Chelmsford,1,1,27,25,20,4,0,135,lbw,2,DNB,-,-,-,-
+12454,Joe Denly,2 Jul 2007,v Surrey,Beckenham,1,1,9,13,14,1,0,64.28,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,4 Jul 2007,v Middlesex,Beckenham,1,1,40,42,33,0,3,121.21,caught,2,DNB,-,-,-,-
+12454,Joe Denly,6 Jul 2007,v Surrey,The Oval,2,1,12,14,11,1,0,109.09,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,17 Jul 2007,v Notts,Nottingham,2,1,63*,70,61,6,0,103.27,not out,1,DNB,-,-,-,-
+12454,Joe Denly,4 Aug 2007,v Sussex,Birmingham,2,1,31,25,20,5,1,155,caught,1,DNB,-,-,-,-
+12454,Joe Denly,4 Aug 2007,v Gloucs,Birmingham,2,1,28,34,26,5,0,107.69,caught,1,DNB,-,-,-,-
+12454,Joe Denly,11 Jun 2008,v Sussex,Canterbury,2,1,50,72,57,2,1,87.71,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,13 Jun 2008,v Surrey,The Oval,1,1,52,28,33,6,2,157.57,caught,2,DNB,-,-,-,-
+12454,Joe Denly,14 Jun 2008,v Hampshire,Southampton,2,1,63,52,51,4,3,123.52,caught,1,DNB,-,-,-,-
+12454,Joe Denly,16 Jun 2008,v Hampshire,Canterbury,2,1,50,54,46,4,1,108.69,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,18 Jun 2008,v Essex,Chelmsford,2,1,24,46,29,3,0,82.75,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,20 Jun 2008,v Middlesex,Beckenham,1,1,6,2,4,0,1,150,caught,2,DNB,-,-,-,-
+12454,Joe Denly,22 Jun 2008,v Essex,Beckenham,1,1,91,57,57,9,5,159.64,caught,2,DNB,-,-,-,-
+12454,Joe Denly,24 Jun 2008,v Middlesex,Uxbridge,2,1,14,20,13,3,0,107.69,stumped,1,DNB,-,-,-,-
+12454,Joe Denly,25 Jun 2008,v Surrey,Canterbury,2,1,7,15,9,0,1,77.77,caught,1,DNB,-,-,-,-
+12454,Joe Denly,27 Jun 2008,v Sussex,Hove,1,1,0,0,2,0,0,0,caught,2,DNB,-,-,-,-
+12454,Joe Denly,9 Jul 2008,v Warwickshire,Birmingham,1,1,27,23,26,3,1,103.84,caught,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jul 2008,v Essex,Southampton,1,1,36,38,27,5,1,133.33,stumped,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jul 2008,v Middlesex,Southampton,2,1,31,36,25,5,0,124,caught,1,DNB,-,-,-,-
+12454,Joe Denly,19 Mar 2009,v NZ A,New Plymouth,2,1,7,6,6,1,0,116.66,run out,1,DNB,-,-,-,-
+12454,Joe Denly,25 May 2009,v Essex,Canterbury,2,1,9*,10,10,2,0,90,not out,1,DNB,-,-,-,-
+12454,Joe Denly,27 May 2009,v Middlesex,Lord's,1,1,17,28,21,2,0,80.95,caught,2,DNB,-,-,-,-
+12454,Joe Denly,29 May 2009,v Middlesex,Canterbury,2,1,0,5,6,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,31 May 2009,v Sussex,Canterbury,2,1,2,5,4,0,0,50,caught,1,DNB,-,-,-,-
+12454,Joe Denly,1 Jun 2009,v Essex,Chelmsford,2,1,32,21,24,7,0,133.33,caught,1,DNB,-,-,-,-
+12454,Joe Denly,4 Jun 2009,v Sussex,Hove,2,1,32*,32,32,5,0,100,not out,1,DNB,-,-,-,-
+12454,Joe Denly,22 Jun 2009,v Hampshire,Tunbridge Wells,1,1,26,14,17,3,1,152.94,caught,2,DNB,-,-,-,-
+12454,Joe Denly,24 Jun 2009,v Surrey,The Oval,1,1,8,8,8,1,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jun 2009,v Hampshire,Southampton,2,1,9,12,10,1,0,90,lbw,1,DNB,-,-,-,-
+12454,Joe Denly,28 Jun 2009,v Surrey,Beckenham,1,1,19,13,17,2,0,111.76,caught,2,DNB,-,-,-,-
+12454,Joe Denly,27 Jul 2009,v Durham,Canterbury,1,1,31,31,30,4,0,103.33,caught,2,DNB,-,-,-,-
+12454,Joe Denly,15 Aug 2009,v Somerset,Birmingham,1,1,0,2,3,0,0,0,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,30 Aug 2009,v Australia,Manchester,2,2,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,10 Nov 2009,v SA A,Bloemfontein,1,1,7,15,9,1,0,77.77,caught,2,1.0,0,15,0,15
+12454,Joe Denly,13 Nov 2009,v South Africa,Johannesburg,1,1,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+12454,Joe Denly,15 Nov 2009,v South Africa,Centurion,2,1,14,12,14,2,0,100,bowled,1,1.0,0,9,1,9
+12454,Joe Denly,17 Feb 2010,v Eng Lions,Abu Dhabi,1,2,4,3,3,1,0,133.33,caught,2,1.0,0,8,0,8
+12454,Joe Denly,19 Feb 2010,v Pakistan,Dubai (DICS),2,2,1,8,3,0,0,33.33,caught,1,DNB,-,-,-,-
+12454,Joe Denly,20 Feb 2010,v Pakistan,Dubai (DICS),1,2,5,15,10,0,0,50,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,2 Jun 2010,v Essex,Chelmsford,2,1,16,16,16,2,0,100,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,3 Jun 2010,v Hampshire,Southampton,1,1,15,32,22,2,0,68.18,caught,2,DNB,-,-,-,-
+12454,Joe Denly,9 Jun 2010,v Sussex,Tunbridge Wells,1,1,5,7,11,1,0,45.45,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,11 Jun 2010,v Middlesex,Canterbury,1,1,44,36,33,7,0,133.33,stumped,2,DNB,-,-,-,-
+12454,Joe Denly,13 Jun 2010,v Gloucs,Gloucester,1,1,48,39,31,7,1,154.83,stumped,2,DNB,-,-,-,-
+12454,Joe Denly,27 Jun 2010,v Sussex,Hove,1,1,38,37,34,5,0,111.76,run out,2,DNB,-,-,-,-
+12454,Joe Denly,2 Jul 2010,v Hampshire,Canterbury,2,1,6,7,4,1,0,150,caught,1,DNB,-,-,-,-
+12454,Joe Denly,4 Jul 2010,v Gloucs,Canterbury,1,1,44,36,31,4,1,141.93,caught,2,DNB,-,-,-,-
+12454,Joe Denly,9 Jul 2010,v Essex,The Oval,1,1,35,46,35,4,0,100,run out,2,DNB,-,-,-,-
+12454,Joe Denly,11 Jul 2010,v Glamorgan,Canterbury,2,1,36,43,38,4,0,94.73,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,16 Jul 2010,v Glamorgan,Cardiff,1,1,30,21,19,3,1,157.89,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,18 Jul 2010,v Somerset,Taunton,1,1,65,74,56,9,0,116.07,run out,2,DNB,-,-,-,-
+12454,Joe Denly,3 Jun 2011,v Somerset,Tunbridge Wells,1,1,7,9,9,1,0,77.77,caught,2,DNB,-,-,-,-
+12454,Joe Denly,5 Jun 2011,v Hampshire,Tunbridge Wells,2,1,2,6,6,0,0,33.33,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,11 Jun 2011,v Glamorgan,Cardiff,2,1,24,32,31,2,0,77.41,run out,1,1.0,0,7,0,7
+12454,Joe Denly,15 Jun 2011,v Gloucs,Beckenham,2,1,50,60,44,6,0,113.63,caught,1,1.0,0,9,0,9
+12454,Joe Denly,18 Jun 2011,v Middlesex,Canterbury,1,1,0,2,5,0,0,0,caught,2,DNB,-,-,-,-
+12454,Joe Denly,24 Jun 2011,v Middlesex,Uxbridge,1,1,84*,69,64,8,2,131.25,not out,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jun 2011,v Surrey,Beckenham,2,1,5,10,9,1,0,55.55,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,30 Jun 2011,v Hampshire,Southampton,2,1,0,1,3,0,0,0,caught,1,2.0,0,20,0,10
+12454,Joe Denly,1 Jul 2011,v Essex,Canterbury,2,1,20,26,19,2,0,105.26,caught,1,DNB,-,-,-,-
+12454,Joe Denly,3 Jul 2011,v Glamorgan,Canterbury,2,1,7,12,13,1,0,53.84,hit wicket,1,DNB,-,-,-,-
+12454,Joe Denly,6 Jul 2011,v Gloucs,Bristol,2,1,23,29,20,1,1,115,caught,1,DNB,-,-,-,-
+12454,Joe Denly,8 Jul 2011,v Sussex,Canterbury,2,1,1,5,3,0,0,33.33,lbw,1,1.0,0,8,0,8
+12454,Joe Denly,14 Jul 2011,v Surrey,The Oval,1,1,22,30,16,2,0,137.5,caught,2,DNB,-,-,-,-
+12454,Joe Denly,15 Jul 2011,v Essex,Chelmsford,1,1,69,69,54,5,3,127.77,caught,2,DNB,-,-,-,-
+12454,Joe Denly,6 Aug 2011,v Leics,Leicester,1,1,6,8,5,1,0,120,caught,2,DNB,-,-,-,-
+12454,Joe Denly,26 Aug 2011,v Indians,Canterbury,2,1,100,77,68,8,3,147.05,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,14 Jun 2012,v Surrey,Lord's,2,1,2,5,3,0,0,66.66,caught,1,DNB,-,-,-,-
+12454,Joe Denly,17 Jun 2012,v Sussex,Lord's,2,1,7,18,13,0,0,53.84,caught,1,DNB,-,-,-,-
+12454,Joe Denly,18 Jun 2012,v Hampshire,Southampton,2,1,2,8,7,0,0,28.57,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,21 Jun 2012,v Essex,Lord's,2,1,1,2,2,0,0,50,caught,1,DNB,-,-,-,-
+12454,Joe Denly,22 Jun 2012,v Sussex,Hove,2,1,36,33,34,5,0,105.88,caught,1,DNB,-,-,-,-
+12454,Joe Denly,26 Jun 2012,v Kent,Canterbury,1,1,90*,76,66,11,1,136.36,not out,2,DNB,-,-,-,-
+12454,Joe Denly,27 Jun 2012,v Hampshire,Richmond,1,1,8,14,16,0,0,50,caught,2,DNB,-,-,-,-
+12454,Joe Denly,5 Jul 2012,v Essex,Chelmsford,1,2,53,72,56,2,1,94.64,caught,2,DNB,-,-,-,-
+12454,Joe Denly,20 Jan 2013,v Khulna,Mirpur,2,3,30*,43,28,4,0,107.14,not out,1,DNB,-,-,-,-
+12454,Joe Denly,23 Jan 2013,v Rangpur,Khulna,2,3,6,13,11,0,0,54.54,caught,1,DNB,-,-,-,-
+12454,Joe Denly,24 Jan 2013,v Chittagong,Khulna,2,3,4,5,6,1,0,66.66,caught,1,DNB,-,-,-,-
+12454,Joe Denly,28 Jan 2013,v Rajshahi,Chattogram,2,4,31,29,21,1,3,147.61,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,31 Jan 2013,v Chittagong,Chattogram,1,1,5,6,5,1,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,2 Feb 2013,v Rajshahi,Chattogram,1,1,23,36,23,2,1,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,4 Feb 2013,v Khulna,Mirpur,2,1,10,18,15,1,0,66.66,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,12 Feb 2013,v Dhaka,Mirpur,2,1,13,10,10,2,0,130,caught,1,DNB,-,-,-,-
+12454,Joe Denly,13 Feb 2013,v Royals,Mirpur,1,1,1,4,5,0,0,20,caught,2,DNB,-,-,-,-
+12454,Joe Denly,28 Jun 2013,v Kent,Canterbury,2,3,1,11,7,0,0,14.28,caught,1,DNB,-,-,-,-
+12454,Joe Denly,30 Jun 2013,v Sussex,Lord's,2,3,14,20,14,1,0,100,caught,1,DNB,-,-,-,-
+12454,Joe Denly,4 Jul 2013,v Essex,Lord's,2,3,52*,60,35,5,2,148.57,not out,1,DNB,-,-,-,-
+12454,Joe Denly,5 Jul 2013,v Surrey,The Oval,2,3,1,3,5,0,0,20,lbw,1,DNB,-,-,-,-
+12454,Joe Denly,7 Jul 2013,v Kent,Uxbridge,2,3,33*,15,20,4,1,165,not out,1,DNB,-,-,-,-
+12454,Joe Denly,12 Jul 2013,v Essex,Chelmsford,2,3,34*,34,27,6,0,125.92,not out,1,DNB,-,-,-,-
+12454,Joe Denly,14 Jul 2013,v Hampshire,Richmond,1,3,5,5,7,1,0,71.42,caught,2,DNB,-,-,-,-
+12454,Joe Denly,16 Jul 2013,v Sussex,Hove,2,3,53,43,46,2,4,115.21,stumped,1,DNB,-,-,-,-
+12454,Joe Denly,25 Jul 2013,v Surrey,Lord's,2,3,1,5,3,0,0,33.33,caught,1,DNB,-,-,-,-
+12454,Joe Denly,31 Jul 2013,v Hampshire,Southampton,2,4,67,55,44,3,3,152.27,caught,1,DNB,-,-,-,-
+12454,Joe Denly,17 May 2014,v Essex,Lord's,1,4,6,9,8,0,0,75,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,17 May 2014,v Sussex,Lord's,2,4,2,6,4,0,0,50,lbw,1,DNB,-,-,-,-
+12454,Joe Denly,23 May 2014,v Gloucs,Bristol,1,3,9,8,7,2,0,128.57,caught,2,DNB,-,-,-,-
+12454,Joe Denly,25 May 2014,v Hampshire,Northwood,2,3,33,34,27,3,1,122.22,caught,1,DNB,-,-,-,-
+12454,Joe Denly,30 May 2014,v Surrey,The Oval,1,4,14,16,11,1,1,127.27,caught,2,DNB,-,-,-,-
+12454,Joe Denly,6 Jun 2014,v Kent,Canterbury,2,4,9,19,10,1,0,90,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,18 Jun 2014,v Somerset,The Oval,2,1,98*,65,60,10,4,163.33,not out,1,DNB,-,-,-,-
+12454,Joe Denly,20 Jun 2014,v Essex,Chelmsford,1,1,5,6,3,1,0,166.66,caught,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jun 2014,v Gloucs,Lord's,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+12454,Joe Denly,27 Jun 2014,v Sussex,Hove,1,1,8,7,8,1,0,100,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,3 Jul 2014,v Glamorgan,Richmond,1,1,5,4,5,1,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,24 Jul 2014,v Surrey,Lord's,1,1,16,18,17,3,0,94.11,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,25 Jul 2014,v Somerset,Taunton,2,1,4,13,9,0,0,44.44,caught,1,DNB,-,-,-,-
+12454,Joe Denly,15 May 2015,v Sussex,Canterbury,1,2,37,28,24,6,1,154.16,lbw,2,DNB,-,-,-,-
+12454,Joe Denly,22 May 2015,v Hampshire,Southampton,2,2,26,16,17,4,1,152.94,caught,1,DNB,-,-,-,-
+12454,Joe Denly,28 May 2015,v Middlesex,Lord's,2,2,6,12,6,1,0,100,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,29 May 2015,v Surrey,Beckenham,1,2,20,18,11,3,1,181.81,caught,2,DNB,-,-,-,-
+12454,Joe Denly,31 May 2015,v Somerset,Taunton,1,2,2,6,2,0,0,100,run out,2,DNB,-,-,-,-
+12454,Joe Denly,12 Jun 2015,v Hampshire,Canterbury,1,2,6,5,6,1,0,100,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,18 Jun 2015,v Essex,Canterbury,2,2,1,4,2,0,0,50,caught,1,DNB,-,-,-,-
+12454,Joe Denly,19 Jun 2015,v Surrey,The Oval,1,2,6,3,5,1,0,120,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,10 Jul 2015,v Somerset,Canterbury,1,2,61,45,47,6,2,129.78,caught,2,DNB,-,-,-,-
+12454,Joe Denly,12 Jul 2015,v Gloucs,Cheltenham,2,2,31,20,18,2,2,172.22,lbw,1,DNB,-,-,-,-
+12454,Joe Denly,17 Jul 2015,v Glamorgan,Tunbridge Wells,2,2,70,33,37,9,2,189.18,caught,1,DNB,-,-,-,-
+12454,Joe Denly,15 Aug 2015,v Lancashire,Canterbury,1,2,15,15,15,2,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,20 May 2016,v Somerset,Canterbury,2,2,75,46,38,5,6,197.36,caught,1,DNB,-,-,-,-
+12454,Joe Denly,2 Jun 2016,v Hampshire,Southampton,2,2,31,37,27,3,0,114.81,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,3 Jun 2016,v Gloucs,Beckenham,1,2,2,9,4,0,0,50,caught,2,DNB,-,-,-,-
+12454,Joe Denly,8 Jun 2016,v Hampshire,Canterbury,1,2,59,38,38,4,3,155.26,caught,2,DNB,-,-,-,-
+12454,Joe Denly,10 Jun 2016,v Sussex,Hove,1,2,11,19,17,2,0,64.7,caught,2,DNB,-,-,-,-
+12454,Joe Denly,17 Jun 2016,v Glamorgan,Cardiff,2,2,23,31,17,1,1,135.29,caught,1,DNB,-,-,-,-
+12454,Joe Denly,24 Jun 2016,v Middlesex,Canterbury,2,2,6,8,8,1,0,75,caught,1,DNB,-,-,-,-
+12454,Joe Denly,30 Jun 2016,v Sussex,Canterbury,1,2,44,43,40,4,1,110,caught,2,DNB,-,-,-,-
+12454,Joe Denly,1 Jul 2016,v Essex,Chelmsford,2,2,0,3,1,0,0,0,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,7 Jul 2016,v Somerset,Taunton,1,2,35,35,29,5,1,120.68,caught,2,DNB,-,-,-,-
+12454,Joe Denly,8 Jul 2016,v Gloucs,Bristol,1,2,51,39,35,2,4,145.71,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,15 Jul 2016,v Surrey,Tunbridge Wells,2,2,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,22 Jul 2016,v Essex,Canterbury,2,2,21,21,20,3,0,105,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,29 Jul 2016,v Surrey,The Oval,2,2,20,28,16,2,0,125,run out,1,DNB,-,-,-,-
+12454,Joe Denly,9 Jul 2017,v Essex,Beckenham,2,2,32,22,16,3,3,200,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,13 Jul 2017,v Gloucs,Cheltenham,1,2,39,24,24,5,1,162.5,caught,2,DNB,-,-,-,-
+12454,Joe Denly,14 Jul 2017,v Surrey,The Oval,2,2,116*,84,63,10,6,184.12,not out,1,2.0,0,15,1,7.5
+12454,Joe Denly,18 Jul 2017,v Gloucs,Canterbury,2,2,18,25,17,0,2,105.88,caught,1,DNB,-,-,-,-
+12454,Joe Denly,20 Jul 2017,v Middlesex,Richmond,2,2,1,5,5,0,0,20,caught,1,DNB,-,-,-,-
+12454,Joe Denly,23 Jul 2017,v Sussex,Hove,1,2,16,11,10,2,1,160,caught,2,DNB,-,-,-,-
+12454,Joe Denly,27 Jul 2017,v Somerset,Canterbury,2,1,46,31,24,8,0,191.66,bowled,1,2.0,0,16,1,8
+12454,Joe Denly,30 Jul 2017,v Glamorgan,Canterbury,2,1,68,71,50,4,4,136,caught,1,DNB,-,-,-,-
+12454,Joe Denly,1 Aug 2017,v Hampshire,Southampton,1,1,31,28,28,3,0,110.71,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,4 Aug 2017,v Sussex,Canterbury,1,1,0,2,1,0,0,0,bowled,2,1.0,0,12,0,12
+12454,Joe Denly,11 Aug 2017,v Hampshire,Canterbury,1,1,0,3,3,0,0,0,caught,2,DNB,-,-,-,-
+12454,Joe Denly,12 Aug 2017,v Somerset,Taunton,2,1,33,37,31,2,1,106.45,caught,1,DNB,-,-,-,-
+12454,Joe Denly,17 Aug 2017,v Essex,Chelmsford,1,1,127,72,66,11,7,192.42,caught,2,DNB,-,-,-,-
+12454,Joe Denly,18 Aug 2017,v Surrey,Canterbury,2,1,40,52,38,5,0,105.26,caught,1,DNB,-,-,-,-
+12454,Joe Denly,27 Nov 2017,v Chattogram,Chattogram,2,3,44,-,39,4,1,112.82,caught,1,DNB,-,-,-,-
+12454,Joe Denly,29 Nov 2017,v Victorians,Chattogram,2,2,49,-,39,6,2,125.64,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,2 Dec 2017,v Kings,Mirpur,1,1,53,-,54,4,2,98.14,caught,2,DNB,-,-,-,-
+12454,Joe Denly,6 Dec 2017,v Rangpur,Mirpur,1,3,9,-,15,1,0,60,caught,2,DNB,-,-,-,-
+12454,Joe Denly,8 Dec 2017,v Victorians,Mirpur,1,3,32,-,25,2,1,128,run out,2,DNB,-,-,-,-
+12454,Joe Denly,12 Dec 2017,v Rangpur,Mirpur,2,3,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,13 Jan 2018,v Thunder,Sydney,2,1,43,-,29,4,3,148.27,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,16 Jan 2018,v Stars,Melbourne,2,1,12,-,13,1,0,92.3,caught,1,1.0,0,4,0,4
+12454,Joe Denly,18 Jan 2018,v Heat,Sydney,2,1,19*,-,24,2,1,79.16,not out,1,DNB,-,-,-,-
+12454,Joe Denly,23 Jan 2018,v Stars,Sydney,2,1,72*,-,45,6,3,160,not out,1,3.0,0,19,1,6.33
+12454,Joe Denly,23 Feb 2018,v Gladiators,Dubai (DICS),1,2,14,-,14,1,0,100,run out,2,DNB,-,-,-,-
+12454,Joe Denly,25 Feb 2018,v Zalmi,Dubai (DICS),2,2,29,-,39,4,0,74.35,caught,1,DNB,-,-,-,-
+12454,Joe Denly,26 Feb 2018,v Qalandars,Dubai (DICS),1,2,28,-,14,5,1,200,caught,2,DNB,-,-,-,-
+12454,Joe Denly,2 Mar 2018,v Sultans,Sharjah,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+12454,Joe Denly,4 Mar 2018,v United,Sharjah,1,2,4,-,3,1,0,133.33,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,8 Mar 2018,v Gladiators,Dubai (DICS),2,1,1,-,3,0,0,33.33,stumped,1,DNB,-,-,-,-
+12454,Joe Denly,10 Mar 2018,v Sultans,Dubai (DICS),1,2,78,-,55,10,2,141.81,caught,2,2.0,0,15,0,7.5
+12454,Joe Denly,11 Mar 2018,v Qalandars,Dubai (DICS),1,2,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+12454,Joe Denly,15 Mar 2018,v Zalmi,Sharjah,2,2,0,-,5,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,16 Mar 2018,v United,Sharjah,2,2,36,-,28,6,1,128.57,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,18 Mar 2018,v United,Dubai (DICS),1,2,51,-,46,4,1,110.86,hit wicket,2,DNB,-,-,-,-
+12454,Joe Denly,21 Mar 2018,v Zalmi,Lahore,2,2,79*,-,46,9,4,171.73,not out,1,DNB,-,-,-,-
+12454,Joe Denly,6 Jul 2018,v Surrey,The Oval,1,1,102,81,63,12,2,161.9,caught,2,4.0,0,31,3,7.75
+12454,Joe Denly,8 Jul 2018,v Somerset,Taunton,2,1,9,13,11,1,0,81.81,caught,1,2.0,0,14,1,7
+12454,Joe Denly,11 Jul 2018,v Gloucs,Bristol,2,1,5,7,4,1,0,125,bowled,1,4.0,0,40,2,10
+12454,Joe Denly,13 Jul 2018,v Hampshire,Beckenham,1,1,18,16,17,3,0,105.88,caught,2,4.0,0,37,3,9.25
+12454,Joe Denly,20 Jul 2018,v Surrey,Canterbury,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,22,0,11
+12454,Joe Denly,27 Jul 2018,v Sussex,Canterbury,1,1,52,40,36,7,1,144.44,stumped,-,TDNB,-,-,-,-
+12454,Joe Denly,2 Aug 2018,v Essex,Canterbury,1,1,22,32,19,2,1,115.78,caught,2,4.0,0,24,2,6
+12454,Joe Denly,3 Aug 2018,v Hampshire,Southampton,1,1,14,17,13,1,0,107.69,caught,2,3.1,0,17,2,5.36
+12454,Joe Denly,5 Aug 2018,v Gloucs,Canterbury,1,1,99*,77,63,7,5,157.14,not out,2,4.0,0,31,0,7.75
+12454,Joe Denly,12 Aug 2018,v Middlesex,Beckenham,2,1,4,4,4,1,0,100,caught,1,4.0,0,25,3,6.25
+12454,Joe Denly,16 Aug 2018,v Somerset,Canterbury,1,1,26,25,17,3,1,152.94,caught,2,4.0,0,31,1,7.75
+12454,Joe Denly,17 Aug 2018,v Essex,Chelmsford,2,1,45,31,23,8,1,195.65,caught,1,4.0,0,33,2,8.25
+12454,Joe Denly,23 Aug 2018,v Lancashire,Canterbury,1,1,13,16,12,2,0,108.33,caught,2,4.0,0,30,1,7.5
+12454,Joe Denly,27 Oct 2018,v Sri Lanka,Colombo (RPS),1,7,20,-,17,3,0,117.64,caught,2,4.0,0,19,4,4.75
+12454,Joe Denly,22 Dec 2018,v Scorchers,Sydney,1,2,13,-,13,1,0,100,caught,2,1.0,0,8,0,8
+12454,Joe Denly,24 Dec 2018,v Thunder,Sydney,2,2,1,-,4,0,0,25,bowled,1,2.0,0,18,0,9
+12454,Joe Denly,27 Dec 2018,v Stars,Sydney,1,2,14,-,15,2,0,93.33,caught,2,2.0,0,19,0,9.5
+12454,Joe Denly,29 Dec 2018,v Renegades,Melbourne (Docklands),1,2,12,-,12,0,1,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,1 Jan 2019,v Heat,Carrara,2,1,11,-,19,1,0,57.89,caught,1,2.0,0,8,1,4
+12454,Joe Denly,4 Jan 2019,v Hurricanes,Hobart,1,1,10,-,10,2,0,100,bowled,2,1.0,0,16,0,16
+12454,Joe Denly,6 Jan 2019,v Strikers,Adelaide,2,1,76*,-,60,8,1,126.66,not out,1,DNB,-,-,-,-
+12454,Joe Denly,5 Mar 2019,v West Indies,Gros Islet,2,5,30,-,29,4,0,103.44,caught,1,3.0,0,28,1,9.33
+12454,Joe Denly,8 Mar 2019,v West Indies,Basseterre,1,5,2,-,6,0,0,33.33,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,10 Mar 2019,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+12454,Joe Denly,12 Apr 2019,v DC,Eden Gardens,1,1,0,1,1,0,0,0,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,5 May 2019,v Pakistan,Cardiff,2,5,20*,-,12,2,1,166.66,not out,1,1.0,0,15,0,15
+12454,Joe Denly,12 Feb 2020,v South Africa,East London,2,5,3,6,4,0,0,75,caught,1,DNB,-,-,-,-
+12454,Joe Denly,14 Feb 2020,v South Africa,Durban,1,6,1,3,2,0,0,50,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,8 Sep 2020,v Australia,Southampton,1,6,29*,31,19,4,0,152.63,not out,2,1.0,0,8,0,8
+12454,Joe Denly,12 Sep 2020,v Sussex,Canterbury,1,3,32,29,17,4,1,188.23,caught,2,3.0,0,19,1,6.33
+12454,Joe Denly,14 Sep 2020,v Hampshire,Southampton,2,3,38,43,29,2,0,131.03,caught,1,4.0,0,30,1,7.5
+12454,Joe Denly,16 Sep 2020,v Middlesex,Canterbury,2,3,14,12,9,1,1,155.55,caught,1,3.0,0,35,0,11.66
+12454,Joe Denly,18 Sep 2020,v Essex,Canterbury,2,3,23,16,14,3,1,164.28,caught,1,3.0,0,26,0,8.66
+12454,Joe Denly,20 Sep 2020,v Surrey,The Oval,1,3,29,33,21,1,2,138.09,caught,2,4.0,0,32,1,8
+12454,Joe Denly,1 Oct 2020,v Surrey,The Oval,2,3,16,22,17,0,1,94.11,caught,1,4.0,0,24,0,6
+12454,Joe Denly,2 Jan 2021,v Sixers,Brisbane,2,3,19,-,17,2,0,111.76,caught,1,DNB,-,-,-,-
+12454,Joe Denly,4 Jan 2021,v Thunder,Brisbane,2,3,50,-,36,4,2,138.88,stumped,1,DNB,-,-,-,-
+12454,Joe Denly,7 Jan 2021,v Stars,Carrara,1,3,0,-,1,0,0,0,lbw,2,DNB,-,-,-,-
+12454,Joe Denly,10 Jan 2021,v Sixers,Carrara,1,3,7,-,7,1,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,14 Jan 2021,v Renegades,Canberra,2,3,31,-,25,3,1,124,caught,1,1.0,0,8,0,8
+12454,Joe Denly,19 Jan 2021,v Scorchers,Melbourne (Docklands),2,3,26,-,31,1,0,83.87,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,21 Jan 2021,v Strikers,Adelaide,2,3,15,-,16,1,0,93.75,caught,1,DNB,-,-,-,-
+12454,Joe Denly,23 Jan 2021,v Renegades,Melbourne (Docklands),1,4,9,-,11,0,0,81.81,stumped,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jan 2021,v Scorchers,Adelaide,1,4,11,-,11,2,0,100,caught,2,2.0,0,15,0,7.5
+12454,Joe Denly,29 Jan 2021,v Strikers,Brisbane,2,2,41,-,40,2,1,102.5,caught,1,DNB,-,-,-,-
+12454,Joe Denly,31 Jan 2021,v Thunder,Canberra,2,1,0,-,5,0,0,0,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,4 Feb 2021,v Scorchers,Canberra,2,2,14,-,7,1,1,200,caught,1,DNB,-,-,-,-
+12454,Joe Denly,26 Feb 2021,v Sultans,Karachi,1,3,31,48,29,2,2,106.89,caught,2,DNB,-,-,-,-
+12454,Joe Denly,28 Feb 2021,v Kings,Karachi,2,3,0,3,1,0,0,0,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,9 Jun 2021,v Hampshire,Canterbury,1,1,44,33,23,6,2,191.3,stumped,2,2.0,0,11,0,5.5
+12454,Joe Denly,11 Jun 2021,v Middlesex,Canterbury,1,1,10,16,10,1,0,100,caught,2,1.0,0,4,1,4
+12454,Joe Denly,13 Jun 2021,v Gloucs,Canterbury,1,1,4,4,4,1,0,100,bowled,2,3.0,0,20,2,6.66
+12454,Joe Denly,15 Jun 2021,v Somerset,Taunton,2,3,2,6,4,0,0,50,caught,1,2.0,0,12,1,6
+12454,Joe Denly,16 Jun 2021,v Glamorgan,Cardiff,1,3,15,11,10,2,0,150,caught,2,3.0,0,10,1,3.33
+12454,Joe Denly,20 Jun 2021,v Essex,Canterbury,1,3,8,22,12,0,0,66.66,caught,2,1.0,0,10,1,10
+12454,Joe Denly,22 Jun 2021,v Gloucs,Bristol,1,3,5,14,10,0,0,50,caught,2,2.4,0,28,0,10.5
+12454,Joe Denly,25 Jun 2021,v Essex,Chelmsford,1,3,8,6,6,0,1,133.33,caught,2,1.0,0,6,1,6
+12454,Joe Denly,28 Jun 2021,v Somerset,Canterbury,1,3,36,34,25,4,1,144,caught,2,2.0,0,27,0,13.5
+12454,Joe Denly,2 Jul 2021,v Surrey,Canterbury,1,3,36,37,30,1,2,120,caught,2,3.0,0,26,0,8.66
+12454,Joe Denly,9 Jul 2021,v Surrey,The Oval,2,1,31,31,26,3,1,119.23,caught,1,3.0,0,18,0,6
+12454,Joe Denly,23 Jul 2021,v Phoenix,Birmingham,1,5,25,13,14,1,2,178.57,caught,2,DNB,-,-,-,-
+12454,Joe Denly,25 Jul 2021,v Invincibles,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+12454,Joe Denly,29 Jul 2021,v Rockets,Lord's,2,4,3,12,7,0,0,42.85,lbw,1,DNB,-,-,-,-
+12454,Joe Denly,1 Aug 2021,v Brave,Lord's,2,3,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,3 Aug 2021,v N S-Chargers,Lord's,2,6,3,11,11,0,0,27.27,caught,1,1.0,0,5,0,6
+12454,Joe Denly,14 Aug 2021,v Invincibles,The Oval,1,2,35,62,35,3,0,100,bowled,2,1.0,0,7,0,8.4
+12454,Joe Denly,27 Aug 2021,v Bears,Canterbury,1,3,11,18,11,1,0,100,caught,2,3.0,0,20,1,6.66
+12454,Joe Denly,18 Sep 2021,v Sussex,Birmingham,1,3,3,14,8,0,0,37.5,caught,2,2.0,0,16,0,8
+12454,Joe Denly,18 Sep 2021,v Somerset,Birmingham,1,3,0,2,1,0,0,0,caught,2,4.0,0,31,3,7.75
+12454,Joe Denly,25 May 2022,v Somerset,Canterbury,1,3,5,27,16,0,0,31.25,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,27 May 2022,v Essex,Canterbury,1,3,35,27,24,2,1,145.83,caught,2,1.0,0,16,0,16
+12454,Joe Denly,29 May 2022,v Sussex,Hove,2,3,33,41,33,2,0,100,caught,1,DNB,-,-,-,-
+12454,Joe Denly,1 Jun 2022,v Gloucs,Bristol,1,1,0,5,6,0,0,0,caught,2,DNB,-,-,-,-
+12454,Joe Denly,3 Jun 2022,v Surrey,Canterbury,2,1,44,74,46,3,0,95.65,caught,1,DNB,-,-,-,-
+12454,Joe Denly,5 Jun 2022,v Middlesex,Canterbury,1,1,110,62,58,9,6,189.65,caught,2,DNB,-,-,-,-
+12454,Joe Denly,10 Jun 2022,v Somerset,Taunton,1,2,41,46,36,2,2,113.88,caught,2,DNB,-,-,-,-
+12454,Joe Denly,17 Jun 2022,v Hampshire,Southampton,2,1,49,54,37,1,3,132.43,caught,1,DNB,-,-,-,-
+12454,Joe Denly,19 Jun 2022,v Middlesex,Lord's,1,1,10,14,10,2,0,100,caught,2,DNB,-,-,-,-
+12454,Joe Denly,21 Jun 2022,v Gloucs,Canterbury,2,1,31,38,30,3,0,103.33,caught,1,2.1,0,16,1,7.38
+12454,Joe Denly,24 Jun 2022,v Sussex,Canterbury,2,1,58,43,39,7,2,148.71,caught,1,DNB,-,-,-,-
+12454,Joe Denly,1 Jul 2022,v Surrey,The Oval,1,1,5,7,6,1,0,83.33,caught,2,1.0,0,10,0,10
+12454,Joe Denly,3 Jul 2022,v Glamorgan,Canterbury,2,1,2,5,2,0,0,100,run out,1,1.0,0,6,0,6
+12454,Joe Denly,24 May 2023,v Gloucs,Canterbury,2,3,35*,42,31,4,0,112.9,not out,1,DNB,-,-,-,-
+12454,Joe Denly,26 May 2023,v Surrey,The Oval,2,3,22,13,15,3,0,146.66,caught,1,2.0,0,21,0,10.5
+12454,Joe Denly,30 May 2023,v Somerset,Canterbury,2,3,1,4,3,0,0,33.33,bowled,1,2.0,0,29,0,14.5
+12454,Joe Denly,2 Jun 2023,v Glamorgan,Cardiff,1,3,10,11,6,0,1,166.66,caught,2,2.0,0,18,0,9
+12454,Joe Denly,4 Jun 2023,v Surrey,Canterbury,1,3,27,15,15,3,1,180,bowled,2,4.0,0,23,1,5.75
+12454,Joe Denly,7 Jun 2023,v Essex,Canterbury,1,3,39,57,39,4,0,100,bowled,2,0.2,0,6,0,18
+12454,Joe Denly,9 Jun 2023,v Hampshire,Canterbury,2,3,41,35,29,2,1,141.37,stumped,1,1.0,0,10,0,10
+12454,Joe Denly,16 Jun 2023,v Middlesex,Lord's,1,3,73*,48,37,4,5,197.29,not out,2,0.3,0,13,0,26
+12454,Joe Denly,17 Jun 2023,v Gloucs,Bristol,2,3,11,19,14,1,0,78.57,caught,1,DNB,-,-,-,-
+12454,Joe Denly,20 Jun 2023,v Sussex,Hove,2,3,0,3,3,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,22 Jun 2023,v Essex,Chelmsford,2,3,76,31,32,6,6,237.5,caught,1,1.0,0,12,0,12
+12454,Joe Denly,23 Jun 2023,v Middlesex,Canterbury,1,3,30,31,20,2,1,150,caught,2,DNB,-,-,-,-
+12454,Joe Denly,26 Jan 2024,v MI Emirates,Sharjah,2,5,6,16,9,1,0,66.66,caught,1,DNB,-,-,-,-
+12454,Joe Denly,28 Jan 2024,v Vipers,Sharjah,1,5,22*,43,24,0,1,91.66,not out,2,DNB,-,-,-,-
+12454,Joe Denly,29 Jan 2024,v DC,Sharjah,2,3,23*,-,16,3,1,143.75,not out,1,DNB,-,-,-,-
+12454,Joe Denly,4 Feb 2024,v Gulf Giants,Dubai (DICS),2,3,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+12454,Joe Denly,5 Feb 2024,v KnightRiders,Sharjah,1,6,3,17,9,0,0,33.33,caught,2,DNB,-,-,-,-
+12454,Joe Denly,7 Feb 2024,v KnightRiders,Abu Dhabi,2,5,18*,50,16,0,1,112.5,not out,1,1.0,1,0,2,0
+12454,Joe Denly,11 Feb 2024,v Vipers,Sharjah,1,5,2,7,5,0,0,40,caught,2,DNB,-,-,-,-
+12454,Joe Denly,31 May 2024,v Middlesex,Chelmsford,1,5,56,49,33,7,2,169.69,caught,2,DNB,-,-,-,-
+12454,Joe Denly,2 Jun 2024,v Hampshire,Southampton,1,5,18,31,21,1,0,85.71,caught,2,DNB,-,-,-,-
+12454,Joe Denly,7 Jun 2024,v Somerset,Canterbury,2,6,32,38,23,0,1,139.13,caught,1,1.0,0,13,0,13
+12454,Joe Denly,9 Jun 2024,v Middlesex,Canterbury,1,6,28,29,22,4,0,127.27,caught,2,3.0,0,21,1,7
+12454,Joe Denly,14 Jun 2024,v Somerset,Taunton,2,5,15*,17,7,3,0,214.28,not out,1,DNB,-,-,-,-
+12454,Joe Denly,16 Jun 2024,v Gloucs,Canterbury,1,3,13,9,9,0,1,144.44,caught,2,DNB,-,-,-,-
+12454,Joe Denly,30 May 2025,v Gloucs,Bristol,1,4,48*,-,24,3,4,200,not out,2,2.0,0,20,1,10
+12454,Joe Denly,5 Jun 2025,v Middlesex,Lord's,1,4,2,8,3,0,0,66.66,stumped,-,TDNB,-,-,-,-
+12454,Joe Denly,6 Jun 2025,v Surrey,Canterbury,2,4,28,25,22,4,0,127.27,caught,1,1.0,0,13,0,13
+12454,Joe Denly,8 Jun 2025,v Hampshire,Canterbury,2,4,21*,17,16,1,1,131.25,not out,1,1.0,0,5,1,5
+12454,Joe Denly,12 Jun 2025,v Surrey,The Oval,1,4,40,33,22,3,3,181.81,caught,2,DNB,-,-,-,-
+12454,Joe Denly,20 Jun 2025,v Essex,Chelmsford,1,3,39,23,18,3,3,216.66,caught,2,DNB,-,-,-,-
+12454,Joe Denly,4 Jul 2025,v Sussex,Canterbury,2,4,3,6,4,0,0,75,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,6 Jul 2025,v Glamorgan,Cardiff,1,4,17,23,19,1,0,89.47,bowled,2,DNB,-,-,-,-
+12454,Joe Denly,9 Jul 2025,v Sussex,Hove,2,4,0,6,4,0,0,0,run out,1,3.0,0,27,0,9
+12454,Joe Denly,11 Jul 2025,v Somerset,Canterbury,1,3,40,61,35,4,1,114.28,caught,2,4.0,0,29,0,7.25
+12454,Joe Denly,13 Jul 2025,v Middlesex,Canterbury,2,3,46,47,31,5,2,148.38,bowled,1,DNB,-,-,-,-
+12454,Joe Denly,18 Jul 2025,v Essex,Canterbury,2,4,0*,8,3,0,0,0,not out,1,2.0,0,25,1,12.5
+12454,Joe Denly,6 Sep 2025,v Lancashire,Manchester,1,4,28,24,20,4,1,140,caught,2,2.0,0,25,0,12.5

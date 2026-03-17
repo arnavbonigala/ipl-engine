@@ -1,0 +1,40 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1163695,Kuldeep Sen,24 Feb 2019,v Mumbai,Indore,1,11,0*,3,3,0,0,0,not out,2,3.0,0,22,1,7.33
+1163695,Kuldeep Sen,25 Feb 2019,v Railways,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+1163695,Kuldeep Sen,27 Feb 2019,v Goa,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,0,11.25
+1163695,Kuldeep Sen,2 Mar 2019,v Sikkim,Indore,1,10,1*,-,1,0,0,100,not out,2,3.0,0,32,0,10.66
+1163695,Kuldeep Sen,9 Nov 2019,v Assam,Mumbai,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1163695,Kuldeep Sen,11 Nov 2019,v Mumbai,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+1163695,Kuldeep Sen,12 Nov 2019,v Mizoram,Mumbai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+1163695,Kuldeep Sen,18 Nov 2019,v Puducherry,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+1163695,Kuldeep Sen,11 Jan 2021,v Goa,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+1163695,Kuldeep Sen,13 Jan 2021,v Rajasthan,Indore,2,-,DNB,-,-,-,-,-,-,1,3.2,0,21,3,6.3
+1163695,Kuldeep Sen,15 Jan 2021,v Vidarbha,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,0,5.25
+1163695,Kuldeep Sen,17 Jan 2021,v Saurashtra,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,1,23,1,5.75
+1163695,Kuldeep Sen,19 Jan 2021,v Services,Indore,1,6,0,-,3,0,0,0,caught,2,4.0,0,40,0,10
+1163695,Kuldeep Sen,4 Nov 2021,v Assam,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+1163695,Kuldeep Sen,5 Nov 2021,v Railways,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,0,7.33
+1163695,Kuldeep Sen,6 Nov 2021,v Gujarat,Delhi,2,11,1,-,2,0,0,50,caught,1,3.0,0,26,1,8.66
+1163695,Kuldeep Sen,8 Nov 2021,v Bihar,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+1163695,Kuldeep Sen,9 Nov 2021,v Kerala,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,45,0,15
+1163695,Kuldeep Sen,10 Apr 2022,v LSG,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+1163695,Kuldeep Sen,14 Apr 2022,v GT,DY Patil,2,11,0*,3,3,0,0,0,not out,1,4.0,0,51,1,12.75
+1163695,Kuldeep Sen,26 Apr 2022,v RCB,Pune,1,-,DNB,-,-,-,-,-,-,2,3.3,0,20,4,5.71
+1163695,Kuldeep Sen,30 Apr 2022,v MI,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.2,0,29,1,8.7
+1163695,Kuldeep Sen,2 May 2022,v KKR,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.1,0,28,1,8.84
+1163695,Kuldeep Sen,7 May 2022,v Punjab Kings,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+1163695,Kuldeep Sen,11 May 2022,v DC,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.1,0,32,0,10.1
+1163695,Kuldeep Sen,11 Oct 2022,v Rajasthan,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+1163695,Kuldeep Sen,12 Oct 2022,v Mumbai,Rajkot,1,-,DNB,-,-,-,-,-,-,2,1.0,0,19,0,19
+1163695,Kuldeep Sen,14 Oct 2022,v Uttarakhand,Saurashtra,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+1163695,Kuldeep Sen,20 Oct 2022,v Vidarbha,Saurashtra,2,-,sub,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1163695,Kuldeep Sen,22 Oct 2022,v Assam,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+1163695,Kuldeep Sen,12 Apr 2023,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,0,4
+1163695,Kuldeep Sen,30 Apr 2023,v MI,Wankhede,1,-,sub,-,-,-,-,-,-,2,1.0,0,20,0,20
+1163695,Kuldeep Sen,17 Oct 2023,v UP,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,1,7
+1163695,Kuldeep Sen,19 Oct 2023,v Tripura,Dehradun,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+1163695,Kuldeep Sen,23 Oct 2023,v Delhi,Dehradun,2,11,0*,-,1,0,0,0,not out,1,1.0,0,21,0,21
+1163695,Kuldeep Sen,27 Oct 2023,v Nagaland,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+1163695,Kuldeep Sen,10 Apr 2024,v GT,Jaipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,41,3,10.25
+1163695,Kuldeep Sen,13 Apr 2024,v Punjab Kings,New Chandigarh,2,-,sub,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1163695,Kuldeep Sen,16 Apr 2024,v KKR,Eden Gardens,2,-,sub,-,-,-,-,-,-,1,4.0,0,46,2,11.5

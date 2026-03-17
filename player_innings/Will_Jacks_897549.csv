@@ -1,0 +1,252 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+897549,Will Jacks,5 Jul 2018,v Middlesex,Lord's,1,2,3,6,4,0,0,75,caught,2,DNB,-,-,-,-
+897549,Will Jacks,6 Jul 2018,v Kent,The Oval,2,1,12,8,9,1,1,133.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,12 Jul 2018,v Essex,The Oval,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+897549,Will Jacks,3 Aug 2018,v Middlesex,The Oval,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+897549,Will Jacks,5 Aug 2018,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,9 Aug 2018,v Sussex,The Oval,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,10 Aug 2018,v Somerset,Taunton,1,4,53,37,31,1,6,170.96,caught,2,DNB,-,-,-,-
+897549,Will Jacks,12 Aug 2018,v Gloucs,Bristol,2,3,25,15,15,1,2,166.66,caught,1,DNB,-,-,-,-
+897549,Will Jacks,15 Aug 2018,v Hampshire,The Oval,2,3,7,12,11,1,0,63.63,caught,1,DNB,-,-,-,-
+897549,Will Jacks,17 Aug 2018,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,1.0,0,12,0,12
+897549,Will Jacks,19 Jul 2019,v Essex,Chelmsford,2,1,29,8,8,4,2,362.5,caught,1,DNB,-,-,-,-
+897549,Will Jacks,23 Jul 2019,v Middlesex,The Oval,2,1,1,2,4,0,0,25,caught,1,DNB,-,-,-,-
+897549,Will Jacks,25 Jul 2019,v Glamorgan,The Oval,1,3,40,27,26,4,2,153.84,caught,2,DNB,-,-,-,-
+897549,Will Jacks,26 Jul 2019,v Sussex,Hove,2,3,35,23,19,5,2,184.21,bowled,1,1.0,0,14,0,14
+897549,Will Jacks,30 Jul 2019,v Kent,The Oval,1,1,5,6,7,1,0,71.42,caught,2,DNB,-,-,-,-
+897549,Will Jacks,2 Aug 2019,v Somerset,Taunton,1,1,9,8,8,1,0,112.5,caught,2,DNB,-,-,-,-
+897549,Will Jacks,8 Aug 2019,v Middlesex,Lord's,2,1,14,12,11,1,1,127.27,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,9 Aug 2019,v Gloucs,The Oval,2,1,15,26,19,1,0,78.94,caught,1,DNB,-,-,-,-
+897549,Will Jacks,11 Aug 2019,v Glamorgan,Cardiff,2,3,32,42,31,4,0,103.22,caught,1,DNB,-,-,-,-
+897549,Will Jacks,15 Aug 2019,v Sussex,The Oval,1,6,1,4,2,0,0,50,caught,2,DNB,-,-,-,-
+897549,Will Jacks,23 Aug 2019,v Kent,Canterbury,1,6,63,34,27,0,8,233.33,caught,2,DNB,-,-,-,-
+897549,Will Jacks,27 Aug 2019,v Somerset,The Oval,2,5,9,7,5,2,0,180,caught,1,DNB,-,-,-,-
+897549,Will Jacks,29 Aug 2019,v Essex,The Oval,2,6,19,14,12,0,2,158.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,28 Aug 2020,v Sussex,Hove,-,-,TDNB,-,-,-,-,-,-,1,1.2,0,8,0,6
+897549,Will Jacks,30 Aug 2020,v Essex,The Oval,2,1,6,7,6,1,0,100,caught,1,DNB,-,-,-,-
+897549,Will Jacks,1 Sep 2020,v Kent,Canterbury,1,1,3,8,5,0,0,60,caught,2,DNB,-,-,-,-
+897549,Will Jacks,3 Sep 2020,v Hampshire,The Oval,2,2,45*,44,31,5,0,145.16,not out,1,1.0,0,10,1,10
+897549,Will Jacks,5 Sep 2020,v Middlesex,The Oval,2,1,4,11,8,0,0,50,caught,1,4.0,0,16,2,4
+897549,Will Jacks,11 Sep 2020,v Essex,Chelmsford,2,2,29,19,15,6,0,193.33,bowled,1,3.0,0,25,0,8.33
+897549,Will Jacks,14 Sep 2020,v Middlesex,Lord's,1,1,55,41,30,3,5,183.33,caught,2,4.0,0,23,0,5.75
+897549,Will Jacks,16 Sep 2020,v Sussex,The Oval,2,2,65,41,39,6,3,166.66,bowled,1,3.0,0,29,2,9.66
+897549,Will Jacks,18 Sep 2020,v Hampshire,Southampton,2,2,56*,56,35,6,1,160,not out,1,4.0,0,22,1,5.5
+897549,Will Jacks,20 Sep 2020,v Kent,The Oval,2,2,4,8,5,0,0,80,caught,1,3.0,0,24,0,8
+897549,Will Jacks,1 Oct 2020,v Kent,The Oval,1,4,23*,20,18,3,0,127.77,not out,2,4.0,0,15,4,3.75
+897549,Will Jacks,3 Oct 2020,v Gloucs,Birmingham,2,2,16,14,11,3,0,145.45,bowled,1,2.0,0,5,1,2.5
+897549,Will Jacks,4 Oct 2020,v Notts,Birmingham,1,3,3,7,4,0,0,75,caught,2,3.0,0,32,2,10.66
+897549,Will Jacks,10 Dec 2020,v Sixers,Hobart,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+897549,Will Jacks,13 Dec 2020,v Strikers,Hobart,1,2,34,-,25,2,2,136,caught,2,DNB,-,-,-,-
+897549,Will Jacks,15 Dec 2020,v Strikers,Launceston,1,2,0,-,2,0,0,0,caught,2,1.0,0,13,0,13
+897549,Will Jacks,19 Dec 2020,v Renegades,Hobart,2,2,10,-,7,1,0,142.85,run out,1,2.0,0,13,0,6.5
+897549,Will Jacks,18 Jan 2021,v Thunder,Canberra,2,1,0,-,1,0,0,0,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,22 Jan 2021,v Scorchers,Melbourne (Docklands),2,6,21,-,15,0,3,140,caught,1,1.0,0,9,1,9
+897549,Will Jacks,24 Jan 2021,v Sixers,Melbourne,1,5,1,-,3,0,0,33.33,caught,2,DNB,-,-,-,-
+897549,Will Jacks,26 Jan 2021,v Renegades,Melbourne,2,5,13,-,14,0,0,92.85,caught,1,DNB,-,-,-,-
+897549,Will Jacks,10 Jun 2021,v Middlesex,Lord's,1,2,70,38,24,9,5,291.66,run out,2,1.0,0,9,0,9
+897549,Will Jacks,11 Jun 2021,v Somerset,Taunton,2,2,8,10,8,1,0,100,caught,1,DNB,-,-,-,-
+897549,Will Jacks,14 Jun 2021,v Glamorgan,The Oval,2,2,10,25,8,2,0,125,caught,1,2.0,0,16,0,8
+897549,Will Jacks,17 Jun 2021,v Sussex,The Oval,1,2,38*,26,18,4,3,211.11,not out,-,TDNB,-,-,-,-
+897549,Will Jacks,21 Jun 2021,v Essex,The Oval,1,2,3,7,3,0,0,100,caught,2,3.0,0,22,0,7.33
+897549,Will Jacks,23 Jun 2021,v Somerset,The Oval,1,1,65,52,43,6,3,151.16,caught,2,3.0,1,14,0,4.66
+897549,Will Jacks,25 Jun 2021,v Middlesex,The Oval,2,1,47,33,26,5,3,180.76,caught,1,2.0,1,7,2,3.5
+897549,Will Jacks,27 Jun 2021,v Sussex,Hove,1,1,13,16,11,2,0,118.18,caught,2,1.0,0,10,0,10
+897549,Will Jacks,29 Jun 2021,v Glamorgan,Cardiff,2,1,0,2,1,0,0,0,caught,1,4.0,0,21,1,5.25
+897549,Will Jacks,30 Jun 2021,v Hampshire,Southampton,1,1,28,20,21,4,0,133.33,caught,2,1.0,0,7,0,7
+897549,Will Jacks,2 Jul 2021,v Kent,Canterbury,2,1,87,54,54,15,1,161.11,lbw,1,2.0,0,12,1,6
+897549,Will Jacks,16 Jul 2021,v Gloucs,Cheltenham,2,1,24,20,14,2,2,171.42,caught,1,2.0,0,23,0,11.5
+897549,Will Jacks,22 Jul 2021,v Originals,The Oval,1,4,15,-,9,1,1,166.66,caught,2,1.0,0,8,0,9.6
+897549,Will Jacks,25 Jul 2021,v Spirit,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+897549,Will Jacks,31 Jul 2021,v N S-Chargers,Leeds,1,2,2,10,5,0,0,40,caught,2,DNB,-,-,-,-
+897549,Will Jacks,2 Aug 2021,v Fire,The Oval,2,2,20,21,9,3,1,222.22,caught,1,1.0,0,7,0,8.4
+897549,Will Jacks,4 Aug 2021,v Phoenix,Birmingham,1,2,13,16,12,2,0,108.33,caught,2,DNB,-,-,-,-
+897549,Will Jacks,8 Aug 2021,v Rockets,The Oval,1,2,13,15,9,1,1,144.44,caught,2,DNB,-,-,-,-
+897549,Will Jacks,14 Aug 2021,v Spirit,The Oval,2,2,44,55,26,4,2,169.23,caught,1,1.0,0,11,0,13.2
+897549,Will Jacks,16 Aug 2021,v Brave,Southampton,1,2,39,14,13,5,3,300,caught,2,DNB,-,-,-,-
+897549,Will Jacks,21 Jan 2022,v Barishal,Mirpur,1,2,16,32,20,0,1,80,lbw,2,1.0,0,7,0,7
+897549,Will Jacks,22 Jan 2022,v Dhaka,Mirpur,1,2,41,34,24,6,2,170.83,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,24 Jan 2022,v Khulna,Mirpur,1,2,17,6,7,1,2,242.85,caught,2,DNB,-,-,-,-
+897549,Will Jacks,28 Jan 2022,v Khulna,Chattogram,1,2,28,39,23,4,0,121.73,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,29 Jan 2022,v Sunrisers,Chattogram,1,2,52,24,19,7,3,273.68,caught,2,DNB,-,-,-,-
+897549,Will Jacks,31 Jan 2022,v Victorians,Chattogram,2,2,69,80,42,7,3,164.28,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,1 Feb 2022,v Barishal,Chattogram,2,1,0,3,5,0,0,0,lbw,1,4.0,0,32,1,8
+897549,Will Jacks,3 Feb 2022,v Victorians,Mirpur,1,2,57,62,37,5,3,154.05,caught,2,DNB,-,-,-,-
+897549,Will Jacks,8 Feb 2022,v Dhaka,Sylhet,1,2,26,37,24,3,0,108.33,stumped,2,1.0,0,9,0,9
+897549,Will Jacks,12 Feb 2022,v Sunrisers,Mirpur,2,1,92*,109,57,8,4,161.4,not out,1,DNB,-,-,-,-
+897549,Will Jacks,16 Feb 2022,v Victorians,Mirpur,1,1,16,19,9,2,1,177.77,caught,2,DNB,-,-,-,-
+897549,Will Jacks,24 Feb 2022,v Zalmi,Lahore,2,1,11,-,8,0,1,137.5,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,25 Feb 2022,v Qalandars,Lahore,2,3,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+897549,Will Jacks,25 May 2022,v SLC Dev XI,The Oval,2,2,58*,43,31,7,3,187.09,not out,1,1.0,0,8,0,8
+897549,Will Jacks,27 May 2022,v Glamorgan,The Oval,2,2,6,13,6,1,0,100,caught,1,DNB,-,-,-,-
+897549,Will Jacks,31 May 2022,v Gloucs,The Oval,1,2,51,52,33,4,3,154.54,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,2 Jun 2022,v Hampshire,The Oval,1,2,64,44,36,4,5,177.77,caught,2,DNB,-,-,-,-
+897549,Will Jacks,3 Jun 2022,v Kent,Canterbury,1,2,2,9,7,0,0,28.57,caught,2,DNB,-,-,-,-
+897549,Will Jacks,5 Jun 2022,v Glamorgan,Cardiff,1,2,17,20,12,2,1,141.66,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,8 Jun 2022,v Sussex,The Oval,2,2,57,55,37,6,2,154.05,caught,1,2.0,0,18,1,9
+897549,Will Jacks,9 Jun 2022,v Middlesex,Lord's,1,2,9,23,10,1,0,90,caught,2,DNB,-,-,-,-
+897549,Will Jacks,17 Jun 2022,v Middlesex,The Oval,2,1,43,31,20,3,3,215,caught,1,2.0,0,14,1,7
+897549,Will Jacks,19 Jun 2022,v Hampshire,Southampton,2,1,5,4,7,1,0,71.42,caught,1,DNB,-,-,-,-
+897549,Will Jacks,21 Jun 2022,v Somerset,The Oval,2,1,66*,85,58,5,2,113.79,not out,1,DNB,-,-,-,-
+897549,Will Jacks,23 Jun 2022,v Sussex,Hove,2,1,76,63,48,11,1,158.33,caught,1,2.0,0,19,0,9.5
+897549,Will Jacks,24 Jun 2022,v Essex,Chelmsford,2,2,26,17,14,4,1,185.71,caught,1,DNB,-,-,-,-
+897549,Will Jacks,1 Jul 2022,v Kent,The Oval,2,2,26,32,22,2,1,118.18,stumped,1,DNB,-,-,-,-
+897549,Will Jacks,3 Jul 2022,v Somerset,Taunton,2,1,0,2,2,0,0,0,caught,1,DNB,-,-,-,-
+897549,Will Jacks,6 Jul 2022,v Yorkshire,The Oval,2,1,1,8,4,0,0,25,caught,1,4.0,0,20,1,5
+897549,Will Jacks,4 Aug 2022,v Spirit,The Oval,2,2,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+897549,Will Jacks,7 Aug 2022,v Fire,Cardiff,1,2,81,-,45,7,4,180,caught,2,DNB,-,-,-,-
+897549,Will Jacks,14 Aug 2022,v Brave,The Oval,2,2,108*,-,48,10,8,225,not out,1,DNB,-,-,-,-
+897549,Will Jacks,17 Aug 2022,v Rockets,Nottingham,2,2,11,-,9,2,0,122.22,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,23 Aug 2022,v Phoenix,The Oval,2,2,4,4,3,1,0,133.33,lbw,1,DNB,-,-,-,-
+897549,Will Jacks,27 Aug 2022,v Spirit,Lord's,2,1,54,48,38,5,2,142.1,caught,1,2.0,0,8,1,4.8
+897549,Will Jacks,31 Aug 2022,v Originals,Manchester,1,2,2,16,4,0,0,50,caught,2,DNB,-,-,-,-
+897549,Will Jacks,23 Sep 2022,v Pakistan,Karachi,1,2,40,44,22,8,0,181.81,caught,2,DNB,-,-,-,-
+897549,Will Jacks,25 Sep 2022,v Pakistan,Karachi,2,3,0,9,3,0,0,0,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,12 Jan 2023,v Sunrisers,Gqeberha,1,2,6,6,4,1,0,150,caught,2,DNB,-,-,-,-
+897549,Will Jacks,14 Jan 2023,v Sunrisers,Centurion,1,2,92,-,46,7,8,200,caught,2,DNB,-,-,-,-
+897549,Will Jacks,17 Jan 2023,v Super Kings,Johannesburg,2,2,16,19,13,3,0,123.07,bowled,1,1.0,0,11,0,11
+897549,Will Jacks,18 Jan 2023,v Super Kings,Centurion,2,2,34,19,16,4,2,212.5,caught,1,DNB,-,-,-,-
+897549,Will Jacks,20 Jan 2023,v Super Giants,Durban,2,2,56,34,25,5,4,224,caught,1,DNB,-,-,-,-
+897549,Will Jacks,22 Jan 2023,v Paarl Royals,Paarl,1,2,4,6,3,1,0,133.33,lbw,2,1.0,0,7,2,7
+897549,Will Jacks,23 Jan 2023,v MI Cape Town,Cape Town,1,2,62,39,27,5,5,229.62,caught,2,1.0,0,9,1,9
+897549,Will Jacks,25 May 2023,v Middlesex,Lord's,1,1,43,33,22,6,2,195.45,caught,2,3.0,0,17,3,5.66
+897549,Will Jacks,26 May 2023,v Kent,The Oval,1,1,17,10,11,0,1,154.54,caught,2,1.0,0,7,2,7
+897549,Will Jacks,28 May 2023,v Sussex,The Oval,1,1,13,22,11,2,0,118.18,caught,2,3.0,0,29,0,9.66
+897549,Will Jacks,31 May 2023,v Hampshire,Southampton,2,1,83*,72,57,2,8,145.61,not out,1,DNB,-,-,-,-
+897549,Will Jacks,2 Jun 2023,v Gloucs,Bristol,1,1,6,8,5,1,0,120,caught,2,DNB,-,-,-,-
+897549,Will Jacks,4 Jun 2023,v Kent,Canterbury,2,1,30,31,21,2,2,142.85,caught,1,4.0,0,28,3,7
+897549,Will Jacks,7 Jun 2023,v Glamorgan,Cardiff,1,1,46,40,29,5,1,158.62,lbw,2,DNB,-,-,-,-
+897549,Will Jacks,9 Jun 2023,v Sussex,Hove,1,1,5,5,4,1,0,125,bowled,2,3.0,0,29,2,9.66
+897549,Will Jacks,16 Jun 2023,v Somerset,Taunton,1,1,60,58,43,4,4,139.53,caught,2,DNB,-,-,-,-
+897549,Will Jacks,18 Jun 2023,v Hampshire,The Oval,1,1,0,5,4,0,0,0,caught,2,DNB,-,-,-,-
+897549,Will Jacks,20 Jun 2023,v Glamorgan,The Oval,1,1,69,53,40,8,2,172.5,caught,2,DNB,-,-,-,-
+897549,Will Jacks,22 Jun 2023,v Middlesex,The Oval,1,1,96,61,45,8,7,213.33,caught,2,3.0,0,30,0,10
+897549,Will Jacks,30 Jun 2023,v Somerset,The Oval,2,1,50,37,26,4,3,192.3,caught,1,DNB,-,-,-,-
+897549,Will Jacks,2 Jul 2023,v Essex,The Oval,1,1,23,23,13,3,1,176.92,bowled,2,1.0,0,9,0,9
+897549,Will Jacks,7 Jul 2023,v Lancashire,Manchester,1,1,8,17,11,1,0,72.72,caught,2,1.0,0,13,0,13
+897549,Will Jacks,15 Jul 2023,v Somerset,Birmingham,2,1,9,21,13,1,0,69.23,caught,1,DNB,-,-,-,-
+897549,Will Jacks,2 Aug 2023,v Spirit,Lord's,2,2,11,14,6,2,0,183.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,6 Aug 2023,v Fire,The Oval,2,2,16,28,12,2,0,133.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,9 Aug 2023,v Originals,The Oval,1,2,32,23,13,3,2,246.15,caught,2,DNB,-,-,-,-
+897549,Will Jacks,11 Aug 2023,v N S-Chargers,Leeds,1,2,40,27,25,5,2,160,caught,2,DNB,-,-,-,-
+897549,Will Jacks,13 Aug 2023,v Phoenix,Birmingham,2,2,2,4,4,0,0,50,caught,1,2.0,0,8,0,4.8
+897549,Will Jacks,15 Aug 2023,v Spirit,The Oval,1,2,68,54,42,5,4,161.9,caught,2,3.0,0,22,2,8.8
+897549,Will Jacks,19 Aug 2023,v Brave,Southampton,1,2,13,12,9,1,1,144.44,lbw,2,1.0,0,1,1,1.2
+897549,Will Jacks,21 Aug 2023,v Rockets,The Oval,2,2,31,40,22,1,3,140.9,bowled,1,1.0,0,8,0,9.6
+897549,Will Jacks,27 Aug 2023,v Originals,Lord's,1,2,14,30,14,2,0,100,caught,2,3.0,0,11,2,4.4
+897549,Will Jacks,30 Aug 2023,v New Zealand,Chester-le-Street,2,2,22,33,12,2,1,183.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,1 Sep 2023,v New Zealand,Manchester,1,2,19,24,11,3,1,172.72,caught,2,1.0,0,5,1,5
+897549,Will Jacks,3 Sep 2023,v New Zealand,Birmingham,2,2,11,12,8,2,0,137.5,caught,1,DNB,-,-,-,-
+897549,Will Jacks,5 Sep 2023,v New Zealand,Nottingham,1,2,16,28,15,2,0,106.66,caught,2,DNB,-,-,-,-
+897549,Will Jacks,12 Dec 2023,v West Indies,Bridgetown,1,3,17,11,9,0,2,188.88,caught,2,1.0,0,14,0,14
+897549,Will Jacks,14 Dec 2023,v West Indies,St George's,2,3,24,33,21,4,0,114.28,caught,1,DNB,-,-,-,-
+897549,Will Jacks,16 Dec 2023,v West Indies,St George's,2,3,1,4,6,0,0,16.66,caught,1,DNB,-,-,-,-
+897549,Will Jacks,19 Dec 2023,v West Indies,Tarouba,1,3,24,18,9,2,2,266.66,lbw,2,DNB,-,-,-,-
+897549,Will Jacks,21 Dec 2023,v West Indies,Tarouba,1,3,7,6,5,0,1,140,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,12 Jan 2024,v Paarl Royals,Paarl,2,2,5,5,4,1,0,125,caught,1,3.0,0,19,1,6.33
+897549,Will Jacks,14 Jan 2024,v Paarl Royals,Centurion,2,2,58,68,34,6,3,170.58,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,18 Jan 2024,v Super Giants,Centurion,1,2,101,60,42,8,9,240.47,caught,2,3.0,0,18,2,6
+897549,Will Jacks,20 Jan 2024,v Super Kings,Johannesburg,1,2,1,5,4,0,0,25,caught,2,4.0,0,26,2,6.5
+897549,Will Jacks,22 Jan 2024,v Sunrisers,Gqeberha,1,2,12,15,12,1,1,100,caught,2,DNB,-,-,-,-
+897549,Will Jacks,25 Jan 2024,v Sunrisers,Centurion,1,2,0,6,2,0,0,0,caught,2,4.0,0,23,0,5.75
+897549,Will Jacks,27 Jan 2024,v Super Kings,Centurion,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,30 Jan 2024,v Super Giants,Durban,2,2,41,43,26,5,2,157.69,bowled,1,2.0,0,20,1,10
+897549,Will Jacks,1 Feb 2024,v MI Cape Town,Centurion,2,2,26,14,9,2,3,288.88,bowled,1,4.0,0,24,0,6
+897549,Will Jacks,3 Feb 2024,v MI Cape Town,Cape Town,2,2,1,14,3,0,0,33.33,caught,1,3.0,0,18,0,6
+897549,Will Jacks,7 Feb 2024,v Khulna,Mirpur,1,3,22,31,27,2,0,81.48,caught,2,4.0,0,14,1,3.5
+897549,Will Jacks,9 Feb 2024,v Dhaka,Mirpur,2,1,9,14,5,2,0,180,run out,1,4.0,0,24,0,6
+897549,Will Jacks,13 Feb 2024,v Chattogram,Chattogram,1,2,108*,97,53,5,10,203.77,not out,2,DNB,-,-,-,-
+897549,Will Jacks,14 Feb 2024,v Khulna,Chattogram,2,2,18,21,10,1,2,180,caught,1,DNB,-,-,-,-
+897549,Will Jacks,11 Apr 2024,v MI,Wankhede,1,3,8,5,6,2,0,133.33,caught,2,2.0,0,24,1,12
+897549,Will Jacks,15 Apr 2024,v SRH,Bengaluru,2,3,7,7,4,1,0,175,run out,1,3.0,0,32,0,10.66
+897549,Will Jacks,21 Apr 2024,v KKR,Eden Gardens,2,3,55,39,32,4,5,171.87,caught,1,DNB,-,-,-,-
+897549,Will Jacks,25 Apr 2024,v SRH,Hyderabad,1,3,6,11,9,0,0,66.66,bowled,2,2.0,0,23,1,11.5
+897549,Will Jacks,28 Apr 2024,v GT,Ahmedabad,2,3,100*,50,41,5,10,243.9,not out,1,DNB,-,-,-,-
+897549,Will Jacks,4 May 2024,v GT,Bengaluru,2,3,1,4,3,0,0,33.33,caught,1,DNB,-,-,-,-
+897549,Will Jacks,9 May 2024,v Punjab Kings,Dharamsala,1,3,12,11,7,1,1,171.42,caught,2,1.0,0,5,0,5
+897549,Will Jacks,12 May 2024,v DC,Bengaluru,1,3,41,50,29,3,2,141.37,caught,2,1.0,0,16,0,16
+897549,Will Jacks,25 May 2024,v Pakistan,Birmingham,1,3,37,25,23,4,2,160.86,caught,2,DNB,-,-,-,-
+897549,Will Jacks,30 May 2024,v Pakistan,The Oval,2,3,20,17,18,1,1,111.11,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,4 Jun 2024,v Scotland,Bridgetown,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,8 Jun 2024,v Australia,Bridgetown,2,3,10,15,10,1,0,100,caught,1,1.0,0,22,0,22
+897549,Will Jacks,13 Jun 2024,v Oman,North Sound,2,3,5,7,7,1,0,71.42,caught,1,DNB,-,-,-,-
+897549,Will Jacks,12 Jul 2024,v Somerset,Taunton,1,1,9,8,8,2,0,112.5,caught,2,2.0,0,19,1,9.5
+897549,Will Jacks,14 Jul 2024,v Essex,Chelmsford,1,1,86,61,46,6,5,186.95,caught,2,DNB,-,-,-,-
+897549,Will Jacks,18 Jul 2024,v Hampshire,The Oval,2,1,6,2,2,0,1,300,caught,1,2.0,0,16,0,8
+897549,Will Jacks,19 Jul 2024,v Kent,Canterbury,2,1,20,13,11,3,0,181.81,bowled,1,3.0,0,24,0,8
+897549,Will Jacks,23 Jul 2024,v Phoenix,The Oval,2,1,6,5,7,1,0,85.71,caught,1,2.0,0,8,2,4.8
+897549,Will Jacks,28 Jul 2024,v Fire,Cardiff,1,1,25,19,15,4,1,166.66,caught,2,1.0,0,4,0,4.8
+897549,Will Jacks,2 Aug 2024,v N S-Chargers,The Oval,2,1,7,13,10,1,0,70,caught,1,1.0,0,7,0,8.4
+897549,Will Jacks,4 Aug 2024,v Spirit,Lord's,1,1,2,8,5,0,0,40,bowled,2,4.0,0,25,1,7.5
+897549,Will Jacks,6 Aug 2024,v Originals,Manchester,1,1,41,29,20,4,3,205,caught,2,2.0,0,10,1,6
+897549,Will Jacks,8 Aug 2024,v Brave,The Oval,2,1,6,1,3,0,1,200,caught,1,1.0,0,1,1,1.2
+897549,Will Jacks,11 Aug 2024,v Spirit,The Oval,2,1,2,13,6,0,0,33.33,caught,1,3.0,0,12,1,4.8
+897549,Will Jacks,14 Aug 2024,v Rockets,Nottingham,1,1,30,22,17,3,2,176.47,lbw,2,3.0,0,20,1,8
+897549,Will Jacks,18 Aug 2024,v Brave,Lord's,1,1,37,30,22,2,3,168.18,bowled,2,2.0,0,14,1,8.4
+897549,Will Jacks,3 Sep 2024,v Durham,The Oval,2,1,8,12,10,1,0,80,caught,1,DNB,-,-,-,-
+897549,Will Jacks,11 Sep 2024,v Australia,Southampton,2,2,6,8,7,0,0,85.71,caught,1,DNB,-,-,-,-
+897549,Will Jacks,13 Sep 2024,v Australia,Cardiff,2,2,12,15,10,1,0,120,caught,1,DNB,-,-,-,-
+897549,Will Jacks,9 Nov 2024,v West Indies,Bridgetown,2,2,17,-,10,0,2,170,bowled,1,DNB,-,-,-,-
+897549,Will Jacks,10 Nov 2024,v West Indies,Bridgetown,2,2,38,57,29,5,1,131.03,caught,1,DNB,-,-,-,-
+897549,Will Jacks,14 Nov 2024,v West Indies,Gros Islet,2,2,32,56,33,3,0,96.96,caught,1,DNB,-,-,-,-
+897549,Will Jacks,16 Nov 2024,v West Indies,Gros Islet,1,2,25,26,12,1,2,208.33,caught,2,DNB,-,-,-,-
+897549,Will Jacks,17 Nov 2024,v West Indies,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,10 Jan 2025,v Super Giants,Durban,2,1,64,72,35,3,5,182.85,bowled,1,2.0,0,14,0,7
+897549,Will Jacks,12 Jan 2025,v Super Giants,Centurion,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+897549,Will Jacks,14 Jan 2025,v Sunrisers,Centurion,2,1,27,36,23,3,1,117.39,caught,1,DNB,-,-,-,-
+897549,Will Jacks,16 Jan 2025,v Super Kings,Johannesburg,1,1,15,25,13,1,1,115.38,lbw,-,TDNB,-,-,-,-
+897549,Will Jacks,18 Jan 2025,v Paarl Royals,Centurion,1,1,9,10,8,2,0,112.5,caught,2,4.0,0,33,1,8.25
+897549,Will Jacks,22 Jan 2025,v Sunrisers,Gqeberha,2,1,0,1,2,0,0,0,caught,1,3.0,0,18,2,6
+897549,Will Jacks,25 Jan 2025,v Paarl Royals,Paarl,2,1,56,83,53,2,2,105.66,caught,1,4.0,0,29,1,7.25
+897549,Will Jacks,28 Jan 2025,v Super Kings,Centurion,2,1,15,8,9,0,2,166.66,caught,1,2.0,1,2,0,1
+897549,Will Jacks,31 Jan 2025,v MI Cape Town,Centurion,2,1,39,40,22,5,1,177.27,caught,1,4.0,0,22,0,5.5
+897549,Will Jacks,2 Feb 2025,v MI Cape Town,Cape Town,2,1,0,1,1,0,0,0,caught,1,4.0,0,31,0,7.75
+897549,Will Jacks,6 Feb 2025,v Warriorz,Abu Dhabi,1,2,18,26,17,3,0,105.88,bowled,2,DNB,-,-,-,-
+897549,Will Jacks,23 Mar 2025,v CSK,Chennai,1,3,11,19,7,2,0,157.14,caught,2,4.0,0,32,1,8
+897549,Will Jacks,31 Mar 2025,v KKR,Wankhede,2,3,16,22,17,0,1,94.11,caught,1,DNB,-,-,-,-
+897549,Will Jacks,4 Apr 2025,v LSG,Lucknow,2,1,5,8,7,0,0,71.42,caught,1,DNB,-,-,-,-
+897549,Will Jacks,7 Apr 2025,v RCB,Wankhede,2,3,22,38,18,2,1,122.22,caught,1,1.0,0,10,0,10
+897549,Will Jacks,13 Apr 2025,v DC,Delhi,1,7,1*,2,1,0,0,100,not out,2,DNB,-,-,-,-
+897549,Will Jacks,17 Apr 2025,v SRH,Wankhede,2,3,36,59,26,3,2,138.46,caught,1,3.0,0,14,2,4.66
+897549,Will Jacks,20 Apr 2025,v CSK,Wankhede,2,-,DNB,-,-,-,-,-,-,1,1.0,0,4,0,4
+897549,Will Jacks,23 Apr 2025,v SRH,Hyderabad,2,3,22,35,19,2,1,115.78,caught,1,DNB,-,-,-,-
+897549,Will Jacks,27 Apr 2025,v LSG,Wankhede,1,3,29,41,21,3,1,138.09,bowled,2,2.0,0,18,2,9
+897549,Will Jacks,1 May 2025,v RR,Jaipur,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+897549,Will Jacks,6 May 2025,v GT,Wankhede,1,3,53,58,35,5,3,151.42,caught,2,1.0,0,15,0,15
+897549,Will Jacks,21 May 2025,v DC,Wankhede,1,3,21,15,13,3,1,161.53,caught,2,1.0,0,16,1,16
+897549,Will Jacks,26 May 2025,v Punjab Kings,Jaipur,1,5,17,9,8,2,1,212.5,caught,2,1.0,0,11,0,11
+897549,Will Jacks,6 Jun 2025,v West Indies,Chester-le-Street,1,7,9,6,6,1,0,150,run out,2,2.0,0,19,0,9.5
+897549,Will Jacks,8 Jun 2025,v West Indies,Bristol,2,7,7,9,7,0,0,100,caught,1,1.0,0,2,0,2
+897549,Will Jacks,10 Jun 2025,v West Indies,Southampton,1,-,DNB,-,-,-,-,-,-,2,1.0,0,15,0,15
+897549,Will Jacks,12 Jun 2025,v Kent,The Oval,2,1,6,14,5,1,0,120,bowled,1,2.0,0,25,0,12.5
+897549,Will Jacks,17 Jun 2025,v Hampshire,Southampton,1,1,41,30,24,7,0,170.83,caught,2,2.0,0,7,1,3.5
+897549,Will Jacks,18 Jun 2025,v Sussex,The Oval,1,1,43,20,20,4,4,215,caught,2,3.0,0,23,0,7.66
+897549,Will Jacks,20 Jun 2025,v Middlesex,The Oval,1,1,97,74,56,10,5,173.21,caught,2,0.4,0,1,1,1.5
+897549,Will Jacks,6 Jul 2025,v Essex,The Oval,1,1,20,17,13,3,0,153.84,caught,2,1.0,0,21,0,21
+897549,Will Jacks,9 Jul 2025,v Gloucs,Bristol,1,1,57,47,35,1,5,162.85,caught,2,3.0,0,17,2,5.66
+897549,Will Jacks,11 Jul 2025,v Glamorgan,The Oval,2,1,31,40,21,2,1,147.61,run out,1,1.0,0,8,0,8
+897549,Will Jacks,13 Jul 2025,v Somerset,The Oval,1,1,57,51,37,6,3,154.05,lbw,2,DNB,-,-,-,-
+897549,Will Jacks,16 Jul 2025,v Middlesex,Lord's,1,1,52,46,36,5,2,144.44,stumped,2,3.0,0,29,1,9.66
+897549,Will Jacks,18 Jul 2025,v Sussex,Hove,1,1,100,79,59,12,3,169.49,caught,2,4.0,0,27,2,6.75
+897549,Will Jacks,5 Aug 2025,v Spirit,Lord's,2,1,24,38,24,2,0,100,caught,1,1.0,0,4,0,4.8
+897549,Will Jacks,9 Aug 2025,v Originals,The Oval,2,1,61,32,26,10,2,234.61,caught,1,1.0,0,9,0,10.8
+897549,Will Jacks,12 Aug 2025,v Phoenix,Birmingham,1,1,0,1,2,0,0,0,caught,2,DNB,-,-,-,-
+897549,Will Jacks,16 Aug 2025,v Fire,The Oval,1,1,38,34,28,6,1,135.71,caught,2,DNB,-,-,-,-
+897549,Will Jacks,18 Aug 2025,v Brave,Southampton,2,1,1,3,4,0,0,25,caught,1,DNB,-,-,-,-
+897549,Will Jacks,21 Aug 2025,v Rockets,The Oval,2,1,9,24,15,1,0,60,caught,1,DNB,-,-,-,-
+897549,Will Jacks,23 Aug 2025,v N S-Chargers,Leeds,2,1,25,15,11,3,1,227.27,caught,1,3.0,0,25,1,10
+897549,Will Jacks,25 Aug 2025,v Spirit,The Oval,2,1,45,30,27,4,3,166.66,caught,1,DNB,-,-,-,-
+897549,Will Jacks,31 Aug 2025,v Rockets,Lord's,1,1,72,66,41,7,2,175.6,caught,2,DNB,-,-,-,-
+897549,Will Jacks,10 Sep 2025,v South Africa,Cardiff,2,6,1*,7,2,0,0,50,not out,1,DNB,-,-,-,-
+897549,Will Jacks,12 Sep 2025,v South Africa,Manchester,1,-,DNB,-,-,-,-,-,-,2,1.0,0,2,2,2
+897549,Will Jacks,17 Sep 2025,v Ireland,Dublin (Malahide),2,7,1*,8,1,0,0,100,not out,1,DNB,-,-,-,-
+897549,Will Jacks,30 Jan 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+897549,Will Jacks,1 Feb 2026,v Sri Lanka,Pallekele,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+897549,Will Jacks,3 Feb 2026,v Sri Lanka,Pallekele,1,7,3,14,4,0,0,75,caught,2,4.0,0,14,3,3.5
+897549,Will Jacks,8 Feb 2026,v Nepal,Wankhede,1,7,39*,21,18,1,4,216.66,not out,2,2.0,0,17,1,8.5
+897549,Will Jacks,11 Feb 2026,v West Indies,Wankhede,2,7,2,5,3,0,0,66.66,lbw,1,2.0,0,32,0,16
+897549,Will Jacks,14 Feb 2026,v Scotland,Eden Gardens,2,7,16*,9,10,1,1,160,not out,1,DNB,-,-,-,-
+897549,Will Jacks,16 Feb 2026,v Italy,Eden Gardens,1,7,53*,37,22,3,4,240.9,not out,2,2.0,0,34,1,17
+897549,Will Jacks,22 Feb 2026,v Sri Lanka,Pallekele,1,7,21,27,14,4,0,150,caught,2,4.0,0,22,3,5.5
+897549,Will Jacks,24 Feb 2026,v Pakistan,Pallekele,2,7,28,34,23,1,2,121.73,bowled,1,2.0,0,27,0,13.5
+897549,Will Jacks,27 Feb 2026,v New Zealand,Colombo (RPS),2,7,32*,26,18,4,1,177.77,not out,1,4.0,0,23,2,5.75
+897549,Will Jacks,5 Mar 2026,v India,Wankhede,2,6,35,32,20,4,2,175,caught,1,4.0,0,40,2,10

@@ -1,0 +1,156 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+605661,Ryan Rickelton,1 Sep 2017,v E. Province,Potchefstroom,1,2,15,12,8,3,0,187.5,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,2 Sep 2017,v Northerns,Potchefstroom,2,2,60*,67,46,5,2,130.43,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,3 Sep 2017,v North West,Potchefstroom,2,2,3,7,5,0,0,60,lbw,1,4.0,0,14,1,3.5
+605661,Ryan Rickelton,24 Sep 2017,v KZN-Inland,Kimberley,1,1,3,4,4,0,0,75,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Nov 2017,v Warriors,Cape Town,1,3,41,34,23,2,3,178.26,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,1 Dec 2017,v Knights,Bloemfontein,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+605661,Ryan Rickelton,8 Dec 2017,v Warriors,Potchefstroom,2,3,18,11,7,3,1,257.14,lbw,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Dec 2017,v Knights,Johannesburg,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+605661,Ryan Rickelton,17 Nov 2018,v Giants,Johannesburg,1,2,2,13,4,0,0,50,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,20 Nov 2018,v Paarl Rocks,Paarl,1,1,91,71,59,7,3,154.23,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,24 Nov 2018,v Blitz,Johannesburg,2,1,14,18,12,1,1,116.66,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,28 Nov 2018,v Spartans,Centurion,1,1,14,25,19,2,0,73.68,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,30 Nov 2018,v Durban Heat,Johannesburg,1,1,45,40,33,3,2,136.36,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,2 Dec 2018,v Giants,Gqeberha,1,1,21,29,23,2,1,91.3,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,7 Dec 2018,v Durban Heat,Durban,2,3,13,16,10,3,0,130,lbw,1,DNB,-,-,-,-
+605661,Ryan Rickelton,11 Dec 2018,v Spartans,Johannesburg,1,1,45,45,30,1,3,150,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Dec 2018,v Paarl Rocks,Johannesburg,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+605661,Ryan Rickelton,16 Dec 2018,v Blitz,Cape Town,2,1,6,10,8,1,0,75,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,7 Apr 2019,v Cape Cobras,Johannesburg,2,1,69,64,43,3,4,160.46,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Apr 2019,v Dolphins,Durban,1,1,13,11,10,2,0,130,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,12 Apr 2019,v Knights,Potchefstroom,1,1,51,60,41,7,0,124.39,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Apr 2019,v Warriors,East London,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+605661,Ryan Rickelton,18 Apr 2019,v Titans,Johannesburg,1,1,9,16,11,1,0,81.81,lbw,2,DNB,-,-,-,-
+605661,Ryan Rickelton,24 Apr 2019,v Warriors,Johannesburg,1,1,1,7,7,0,0,14.28,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Apr 2019,v Cape Cobras,Cape Town,2,1,26,23,20,2,1,130,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,28 Apr 2019,v Titans,Centurion,2,1,74,55,47,6,3,157.44,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,1 May 2019,v Dolphins,Johannesburg,2,1,35,24,19,7,0,184.21,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,5 May 2019,v Warriors,Johannesburg,1,1,19,21,15,2,1,126.66,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Sep 2019,v KZ-Natal,Benoni (A),2,1,7,28,13,1,0,53.84,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Sep 2019,v Northerns,Benoni,1,1,12,7,7,2,0,171.42,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Sep 2019,v Easterns,Benoni,1,1,37,26,28,6,0,132.14,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Sep 2019,v Free State,Benoni (A),1,1,13,16,14,2,0,92.85,run out,2,DNB,-,-,-,-
+605661,Ryan Rickelton,8 Nov 2019,v Blitz,Johannesburg,2,6,1,5,2,0,0,50,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Nov 2019,v Giants,Gqeberha,2,6,2*,10,3,0,0,66.66,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Nov 2019,v Blitz,Cape Town,2,5,10,16,11,0,0,90.9,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,22 Nov 2019,v Paarl Rocks,Paarl,1,1,30,42,34,2,0,88.23,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,1 Dec 2019,v Paarl Rocks,Johannesburg,1,1,6,9,9,1,0,66.66,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,20 Feb 2021,v Warriors,Durban,2,1,5,7,5,1,0,100,run out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,22 Feb 2021,v Titans,Durban,1,2,8,-,14,1,0,57.14,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Feb 2021,v Knights,Durban,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,24 Feb 2021,v Dolphins,Durban,2,1,1,-,5,0,0,20,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Feb 2021,v Cape Cobras,Durban,2,2,9,-,12,1,0,75,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Feb 2021,v Warriors,Durban,2,2,23,-,29,3,0,79.31,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,28 Feb 2021,v Dolphins,Durban,2,1,3,-,6,0,0,50,lbw,1,DNB,-,-,-,-
+605661,Ryan Rickelton,24 Sep 2021,v W Province,Kimberley,2,2,53,46,31,3,4,170.96,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,25 Sep 2021,v Northern Cpe,Kimberley,2,2,3,7,4,0,0,75,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Sep 2021,v S West D,Kimberley,2,2,17,26,14,2,1,121.42,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,7 May 2022,v Zimbabwe XI,Harare,1,3,47,58,35,3,2,134.28,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,8 May 2022,v Zimbabwe XI,Harare,2,3,5,5,8,1,0,62.5,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 May 2022,v Zimbabwe XI,Harare,1,3,47,41,29,4,3,162.06,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,3 Jul 2022,v India,Northampton,2,6,3,7,4,0,0,75,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,17 Oct 2022,v North West,Potchefstroom,1,1,22,17,13,1,2,169.23,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,19 Oct 2022,v Titans,Potchefstroom,2,1,2,5,7,0,0,28.57,run out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,21 Oct 2022,v Warriors,Potchefstroom,2,1,19,25,11,2,1,172.72,lbw,1,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Oct 2022,v Knights,Potchefstroom,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Oct 2022,v Dolphins,Potchefstroom,1,1,29,37,23,1,1,126.08,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Oct 2022,v W Province,Potchefstroom,1,1,4,2,4,1,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Jan 2023,v Paarl Royals,Cape Town,2,2,42,44,33,5,1,127.27,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Jan 2023,v Super Giants,Cape Town,1,2,14,22,14,1,1,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Jan 2023,v Super Kings,Cape Town,2,2,21,40,24,2,0,87.5,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,16 Jan 2023,v Sunrisers,Gqeberha,1,2,7,-,7,1,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,18 Jan 2023,v Sunrisers,Cape Town,1,2,46,59,36,4,1,127.77,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,21 Jan 2023,v Paarl Royals,Paarl,1,1,5,4,4,1,0,125,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Jan 2023,v Capitals,Cape Town,2,2,11,-,11,2,0,100,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,11 Jan 2024,v Super Giants,Durban,1,2,87,78,51,6,6,170.58,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Jan 2024,v Super Kings,Johannesburg,1,2,98,96,49,6,8,200,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,16 Jan 2024,v Sunrisers,Cape Town,2,2,58,40,33,2,5,175.75,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,19 Jan 2024,v Paarl Royals,Cape Town,2,2,94*,81,52,7,6,180.76,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,21 Jan 2024,v Paarl Royals,Paarl,2,1,5,15,6,0,0,83.33,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Jan 2024,v Super Giants,Cape Town,2,2,13,10,9,2,0,144.44,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Jan 2024,v Sunrisers,Gqeberha,2,2,27,25,20,4,1,135,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,29 Jan 2024,v Super Kings,Cape Town,1,2,23,35,16,1,1,143.75,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,1 Feb 2024,v Capitals,Centurion,1,2,90,66,45,10,5,200,lbw,2,DNB,-,-,-,-
+605661,Ryan Rickelton,3 Feb 2024,v Capitals,Cape Town,1,2,35,30,24,3,2,145.83,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,8 Mar 2024,v Boland,Johannesburg,1,2,75,52,39,6,5,192.3,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Mar 2024,v North West,Potchefstroom (Uni),2,1,34,34,26,3,0,130.76,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Mar 2024,v Dolphins,Durban,1,2,10,13,10,1,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,15 Mar 2024,v Titans,Johannesburg,1,2,24,32,18,2,1,133.33,run out,2,DNB,-,-,-,-
+605661,Ryan Rickelton,17 Mar 2024,v W Province,Johannesburg,2,2,22*,39,19,2,0,115.78,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Mar 2024,v Warriors,Johannesburg,2,2,12,12,12,2,0,100,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Mar 2024,v Boland,Paarl,2,1,23,33,30,2,0,76.66,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,3 Apr 2024,v W Province,Cape Town,1,1,73,57,46,5,4,158.69,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,5 Apr 2024,v Dolphins,Johannesburg,2,1,53*,54,23,4,4,230.43,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Apr 2024,v North West,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+605661,Ryan Rickelton,17 Apr 2024,v Warriors,Gqeberha,1,1,52,60,38,4,2,136.84,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,19 Apr 2024,v Titans,Centurion,1,1,7,11,6,1,0,116.66,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,24 Apr 2024,v Titans,Johannesburg,2,1,38,48,26,0,3,146.15,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,28 Apr 2024,v Dolphins,Johannesburg,2,2,18,19,13,0,2,138.46,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,23 May 2024,v West Indies,Kingston,2,3,6,6,7,0,0,85.71,stumped,1,DNB,-,-,-,-
+605661,Ryan Rickelton,25 May 2024,v West Indies,Kingston,2,3,19,29,17,2,0,111.76,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,26 May 2024,v West Indies,Kingston,1,3,18,18,14,3,0,128.57,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,9 Jul 2024,v Los Angeles,Dallas,2,1,103*,-,66,9,5,156.06,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,11 Jul 2024,v Washington,Dallas,1,1,4,-,11,0,0,36.36,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,15 Jul 2024,v SF,Morrisville,2,1,29,-,21,3,1,138.09,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,17 Jul 2024,v Los Angeles,Morrisville,1,1,89,-,52,7,6,171.15,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,20 Jul 2024,v SF,Dallas,1,1,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Jul 2024,v Texas,Dallas,2,1,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Aug 2024,v West Indies,Tarouba,1,1,4,5,5,0,0,80,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,25 Aug 2024,v West Indies,Tarouba,2,1,20,21,13,0,2,153.84,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Aug 2024,v West Indies,Tarouba,1,1,27,43,24,2,2,112.5,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Sep 2024,v Ireland,Abu Dhabi,2,1,76,69,48,3,6,158.33,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,29 Sep 2024,v Ireland,Abu Dhabi,2,1,36,27,22,1,4,163.63,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,8 Nov 2024,v India,Durban,2,2,21,31,11,3,1,190.9,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Nov 2024,v India,Gqeberha,2,1,13,13,11,2,0,118.18,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Nov 2024,v India,Centurion,2,1,20,16,15,2,1,133.33,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,15 Nov 2024,v India,Johannesburg,2,1,1,9,6,0,0,16.66,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Dec 2024,v Pakistan,Centurion,2,2,2,6,2,0,0,100,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Jan 2025,v Paarl Royals,Cape Town,1,1,8,10,8,1,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,18 Jan 2025,v Super Kings,Cape Town,2,2,89,66,39,8,6,228.2,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,21 Jan 2025,v Super Giants,Durban,1,2,18,17,9,4,0,200,bowled,-,TDNB,-,-,-,-
+605661,Ryan Rickelton,25 Jan 2025,v Super Giants,Cape Town,2,1,63,44,41,3,6,153.65,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,29 Jan 2025,v Sunrisers,Cape Town,2,2,59*,46,36,8,1,163.88,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Jan 2025,v Capitals,Centurion,1,2,22,20,13,4,1,169.23,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,4 Feb 2025,v Paarl Royals,Gqeberha,1,1,44,43,27,4,2,162.96,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,8 Feb 2025,v Sunrisers,Johannesburg,1,2,33,21,15,1,4,220,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Mar 2025,v CSK,Chennai,1,2,13,11,7,3,0,185.71,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,29 Mar 2025,v GT,Ahmedabad,2,2,6,23,9,1,0,66.66,bowled,1,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Mar 2025,v KKR,Wankhede,2,2,62*,60,41,4,5,151.21,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,4 Apr 2025,v LSG,Lucknow,2,2,10,13,5,2,0,200,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,7 Apr 2025,v RCB,Wankhede,2,2,17,18,10,4,0,170,lbw,1,DNB,-,-,-,-
+605661,Ryan Rickelton,13 Apr 2025,v DC,Delhi,1,2,41,38,25,5,2,164,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,17 Apr 2025,v SRH,Wankhede,2,1,31,45,23,5,0,134.78,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,20 Apr 2025,v CSK,Wankhede,2,1,24,30,19,3,1,126.31,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,23 Apr 2025,v SRH,Hyderabad,2,1,11,8,8,2,0,137.5,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Apr 2025,v LSG,Wankhede,1,1,58,41,32,6,4,181.25,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,1 May 2025,v RR,Jaipur,1,1,61,58,38,7,3,160.52,bowled,2,DNB,-,-,-,-
+605661,Ryan Rickelton,6 May 2025,v GT,Wankhede,1,1,2,2,2,0,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,21 May 2025,v DC,Wankhede,1,1,25,35,18,0,2,138.88,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,26 May 2025,v Punjab Kings,Jaipur,1,1,27,25,20,5,0,135,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Aug 2025,v Australia,Darwin,2,2,71,101,55,7,1,129.09,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,12 Aug 2025,v Australia,Darwin,1,2,14,16,10,1,1,140,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,16 Aug 2025,v Australia,Cairns,1,2,13,34,13,2,0,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Sep 2025,v England,Cardiff,1,2,0,2,1,0,0,0,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,12 Sep 2025,v England,Manchester,2,2,20,15,10,2,2,200,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Dec 2025,v Super Giants,Cape Town,2,2,113,89,63,5,11,179.36,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,28 Dec 2025,v Super Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Dec 2025,v Capitals,Cape Town,2,2,33,30,17,4,2,194.11,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,2 Jan 2026,v Paarl Royals,Paarl,2,1,36,32,20,5,1,180,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,4 Jan 2026,v Paarl Royals,Cape Town,1,1,17,24,18,1,1,94.44,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,6 Jan 2026,v Super Kings,Cape Town,2,2,5,7,6,1,0,83.33,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,10 Jan 2026,v Super Kings,Johannesburg,1,2,113*,107,60,8,9,188.33,not out,2,DNB,-,-,-,-
+605661,Ryan Rickelton,12 Jan 2026,v Capitals,Centurion,2,2,7,23,10,1,0,70,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,16 Jan 2026,v Sunrisers,Cape Town,2,2,11,20,12,2,0,91.66,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,18 Jan 2026,v Sunrisers,Gqeberha,1,2,2,20,10,0,0,20,lbw,2,DNB,-,-,-,-
+605661,Ryan Rickelton,27 Jan 2026,v West Indies,Paarl,2,3,40*,46,32,1,2,125,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,29 Jan 2026,v West Indies,Centurion,2,3,77*,72,36,9,3,213.88,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,31 Jan 2026,v West Indies,Johannesburg,2,4,15,8,7,0,2,214.28,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,9 Feb 2026,v Canada,Ahmedabad,1,3,33,29,21,3,1,157.14,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,11 Feb 2026,v Afghanistan,Ahmedabad,1,3,61,42,28,5,4,217.85,lbw,2,DNB,-,-,-,-
+605661,Ryan Rickelton,14 Feb 2026,v New Zealand,Ahmedabad,2,3,21,18,11,2,1,190.9,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,18 Feb 2026,v U.A.E.,Delhi,2,3,30,36,16,3,2,187.5,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,22 Feb 2026,v India,Ahmedabad,1,3,7,11,7,0,1,100,caught,2,DNB,-,-,-,-
+605661,Ryan Rickelton,26 Feb 2026,v West Indies,Ahmedabad,2,3,45*,41,28,4,2,160.71,not out,1,DNB,-,-,-,-
+605661,Ryan Rickelton,1 Mar 2026,v Zimbabwe,Delhi,2,3,31,27,22,0,4,140.9,caught,1,DNB,-,-,-,-
+605661,Ryan Rickelton,4 Mar 2026,v New Zealand,Eden Gardens,1,3,0,1,1,0,0,0,caught,2,DNB,-,-,-,-

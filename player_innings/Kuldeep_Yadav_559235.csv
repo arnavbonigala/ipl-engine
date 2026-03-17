@@ -1,0 +1,190 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+559235,Kuldeep Yadav,31 Mar 2014,v Vidarbha,Nagpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+559235,Kuldeep Yadav,1 Apr 2014,v Rajasthan,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+559235,Kuldeep Yadav,2 Apr 2014,v M. Pradesh,Nagpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,1,2.75
+559235,Kuldeep Yadav,5 Apr 2014,v Railways,Nagpur,1,11,1*,2,1,0,0,100,not out,2,4.0,1,16,2,4
+559235,Kuldeep Yadav,21 Sep 2014,v Lahore Lions,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+559235,Kuldeep Yadav,24 Sep 2014,v Scorchers,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+559235,Kuldeep Yadav,29 Sep 2014,v Dolphins,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+559235,Kuldeep Yadav,2 Oct 2014,v Hurricanes,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+559235,Kuldeep Yadav,4 Oct 2014,v CSK,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,4.0,0,44,0,11
+559235,Kuldeep Yadav,24 Mar 2015,v Vidarbha,Indore,1,-,DNB,-,-,-,-,-,-,2,3.4,0,17,5,4.63
+559235,Kuldeep Yadav,25 Mar 2015,v Rajasthan,Indore,2,10,1,6,3,0,0,33.33,caught,1,4.0,0,47,1,11.75
+559235,Kuldeep Yadav,27 Mar 2015,v M. Pradesh,Indore,2,10,3*,7,6,0,0,50,not out,1,1.0,0,14,0,14
+559235,Kuldeep Yadav,29 Mar 2015,v Railways,Indore,1,9,17*,8,8,3,0,212.5,not out,2,4.0,0,30,2,7.5
+559235,Kuldeep Yadav,2 Jan 2016,v Maharashtra,Cuttack,2,-,DNB,-,-,-,-,-,-,1,1.0,0,15,0,15
+559235,Kuldeep Yadav,3 Jan 2016,v Odisha,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+559235,Kuldeep Yadav,4 Jan 2016,v Karnataka,Cuttack,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+559235,Kuldeep Yadav,7 Jan 2016,v Mumbai,Cuttack,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+559235,Kuldeep Yadav,8 Jan 2016,v Services,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+559235,Kuldeep Yadav,16 Jan 2016,v Gujarat,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+559235,Kuldeep Yadav,18 Jan 2016,v Delhi,Mumbai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+559235,Kuldeep Yadav,20 Jan 2016,v Baroda,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,12,2,3
+559235,Kuldeep Yadav,13 Apr 2016,v MI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+559235,Kuldeep Yadav,22 May 2016,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+559235,Kuldeep Yadav,25 May 2016,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,3,8.75
+559235,Kuldeep Yadav,29 Jan 2017,v Chhattisgarh,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,0,8
+559235,Kuldeep Yadav,31 Jan 2017,v Rajasthan,Jaipur,2,8,1,6,2,0,0,50,bowled,1,4.0,0,27,0,6.75
+559235,Kuldeep Yadav,2 Feb 2017,v Railways,Jaipur,2,9,1*,7,1,0,0,100,not out,1,4.0,0,18,0,4.5
+559235,Kuldeep Yadav,7 Apr 2017,v Guj Lions,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+559235,Kuldeep Yadav,9 Apr 2017,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+559235,Kuldeep Yadav,15 Apr 2017,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+559235,Kuldeep Yadav,17 Apr 2017,v Daredevils,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+559235,Kuldeep Yadav,21 Apr 2017,v Guj Lions,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+559235,Kuldeep Yadav,23 Apr 2017,v RCB,Eden Gardens,1,11,4,9,7,0,0,57.14,bowled,2,DNB,-,-,-,-
+559235,Kuldeep Yadav,26 Apr 2017,v Supergiant,Pune,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+559235,Kuldeep Yadav,28 Apr 2017,v Daredevils,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+559235,Kuldeep Yadav,30 Apr 2017,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+559235,Kuldeep Yadav,3 May 2017,v Supergiant,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+559235,Kuldeep Yadav,9 May 2017,v Kings XI,Mohali,2,-,DNB,-,-,-,-,-,-,1,3.0,0,34,2,11.33
+559235,Kuldeep Yadav,13 May 2017,v MI,Eden Gardens,2,8,16,24,15,2,0,106.66,caught,1,3.0,0,25,1,8.33
+559235,Kuldeep Yadav,9 Jul 2017,v West Indies,Kingston,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+559235,Kuldeep Yadav,6 Sep 2017,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+559235,Kuldeep Yadav,7 Oct 2017,v Australia,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,2,4
+559235,Kuldeep Yadav,10 Oct 2017,v Australia,Guwahati,1,9,16,39,19,1,0,84.21,caught,2,4.0,0,46,0,11.5
+559235,Kuldeep Yadav,7 Nov 2017,v New Zealand,Thiruvananthapuram,1,-,DNB,-,-,-,-,-,-,2,1.0,0,10,1,10
+559235,Kuldeep Yadav,20 Dec 2017,v Sri Lanka,Cuttack,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,2,4.5
+559235,Kuldeep Yadav,22 Dec 2017,v Sri Lanka,Indore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,3,13
+559235,Kuldeep Yadav,24 Dec 2017,v Sri Lanka,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+559235,Kuldeep Yadav,9 Jan 2018,v Rajasthan,Raipur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+559235,Kuldeep Yadav,10 Jan 2018,v M. Pradesh,Raipur,1,8,7*,21,9,0,0,77.77,not out,2,4.0,0,34,1,8.5
+559235,Kuldeep Yadav,13 Jan 2018,v Railways,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+559235,Kuldeep Yadav,15 Jan 2018,v Vidarbha,Raipur,1,9,11*,12,7,1,0,157.14,not out,2,4.0,0,24,1,6
+559235,Kuldeep Yadav,16 Jan 2018,v Chhattisgarh,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+559235,Kuldeep Yadav,22 Jan 2018,v Bengal,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,4,6.5
+559235,Kuldeep Yadav,23 Jan 2018,v Tamil Nadu,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+559235,Kuldeep Yadav,8 Apr 2018,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+559235,Kuldeep Yadav,10 Apr 2018,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,1,9
+559235,Kuldeep Yadav,14 Apr 2018,v SRH,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+559235,Kuldeep Yadav,16 Apr 2018,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.2,0,32,3,9.6
+559235,Kuldeep Yadav,18 Apr 2018,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+559235,Kuldeep Yadav,21 Apr 2018,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,1.0,0,13,0,13
+559235,Kuldeep Yadav,27 Apr 2018,v Daredevils,Delhi,2,11,7*,-,6,1,0,116.66,not out,1,2.0,0,22,0,11
+559235,Kuldeep Yadav,29 Apr 2018,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+559235,Kuldeep Yadav,3 May 2018,v CSK,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+559235,Kuldeep Yadav,6 May 2018,v MI,Wankhede,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+559235,Kuldeep Yadav,9 May 2018,v MI,Eden Gardens,2,10,5,-,15,0,0,33.33,lbw,1,3.0,0,43,0,14.33
+559235,Kuldeep Yadav,12 May 2018,v Kings XI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,29,1,14.5
+559235,Kuldeep Yadav,15 May 2018,v RR,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,4,5
+559235,Kuldeep Yadav,19 May 2018,v SRH,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+559235,Kuldeep Yadav,23 May 2018,v RR,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+559235,Kuldeep Yadav,25 May 2018,v SRH,Eden Gardens,2,10,0*,-,3,0,0,0,not out,1,4.0,0,29,2,7.25
+559235,Kuldeep Yadav,27 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,4,5.25
+559235,Kuldeep Yadav,29 Jun 2018,v Ireland,Dublin (Malahide),1,-,DNB,-,-,-,-,-,-,2,2.3,0,16,3,6.4
+559235,Kuldeep Yadav,3 Jul 2018,v England,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,5,6
+559235,Kuldeep Yadav,6 Jul 2018,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,8.5
+559235,Kuldeep Yadav,4 Nov 2018,v West Indies,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,3,3.25
+559235,Kuldeep Yadav,6 Nov 2018,v West Indies,Lucknow,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+559235,Kuldeep Yadav,21 Nov 2018,v Australia,Brisbane,2,9,4*,-,1,1,0,400,not out,1,4.0,0,24,2,6
+559235,Kuldeep Yadav,23 Nov 2018,v Australia,Melbourne,-,-,TDNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+559235,Kuldeep Yadav,25 Nov 2018,v Australia,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+559235,Kuldeep Yadav,10 Feb 2019,v New Zealand,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+559235,Kuldeep Yadav,24 Mar 2019,v SRH,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+559235,Kuldeep Yadav,27 Mar 2019,v Kings XI,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+559235,Kuldeep Yadav,30 Mar 2019,v DC,Delhi,1,9,10*,5,5,1,0,200,not out,2,4.0,0,41,2,10.25
+559235,Kuldeep Yadav,5 Apr 2019,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+559235,Kuldeep Yadav,7 Apr 2019,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+559235,Kuldeep Yadav,9 Apr 2019,v CSK,Chennai,1,9,0,2,1,0,0,0,run out,2,4.0,0,16,0,4
+559235,Kuldeep Yadav,12 Apr 2019,v DC,Eden Gardens,1,9,2*,3,2,0,0,100,not out,2,4.0,0,28,0,7
+559235,Kuldeep Yadav,14 Apr 2019,v CSK,Eden Gardens,1,9,0,1,0,0,0,-,run out,2,3.0,0,28,0,9.33
+559235,Kuldeep Yadav,19 Apr 2019,v RCB,Eden Gardens,2,-,DNB,-,-,-,-,-,-,1,4.0,0,59,1,14.75
+559235,Kuldeep Yadav,9 Nov 2019,v Vidarbha,Thiruvananthapuram,1,8,6,-,6,1,0,100,bowled,2,2.0,0,10,1,5
+559235,Kuldeep Yadav,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,2,9.25
+559235,Kuldeep Yadav,11 Dec 2019,v West Indies,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,2,11.25
+559235,Kuldeep Yadav,5 Jan 2020,v Sri Lanka,Guwahati,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+559235,Kuldeep Yadav,7 Jan 2020,v Sri Lanka,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+559235,Kuldeep Yadav,23 Sep 2020,v MI,Abu Dhabi,2,10,1*,-,2,0,0,50,not out,1,4.0,0,39,0,9.75
+559235,Kuldeep Yadav,26 Sep 2020,v SRH,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,0,7.5
+559235,Kuldeep Yadav,30 Sep 2020,v RR,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,20,1,6.66
+559235,Kuldeep Yadav,18 Oct 2020,v SRH,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,0,6
+559235,Kuldeep Yadav,21 Oct 2020,v RCB,Abu Dhabi,1,8,12,-,19,1,0,63.15,run out,2,DNB,-,-,-,-
+559235,Kuldeep Yadav,28 Jul 2021,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+559235,Kuldeep Yadav,29 Jul 2021,v Sri Lanka,Colombo (RPS),1,7,23*,47,28,0,0,82.14,not out,2,2.0,0,16,0,8
+559235,Kuldeep Yadav,27 Feb 2022,v Sri Lanka,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+559235,Kuldeep Yadav,27 Mar 2022,v MI,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+559235,Kuldeep Yadav,2 Apr 2022,v GT,Pune,2,9,14*,20,14,0,1,100,not out,1,4.0,0,32,1,8
+559235,Kuldeep Yadav,7 Apr 2022,v LSG,DY Patil,1,-,DNB,-,-,-,-,-,-,2,3.4,0,31,2,8.45
+559235,Kuldeep Yadav,10 Apr 2022,v KKR,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,4,8.75
+559235,Kuldeep Yadav,16 Apr 2022,v RCB,Wankhede,2,9,10*,9,7,2,0,142.85,not out,1,4.0,0,46,1,11.5
+559235,Kuldeep Yadav,20 Apr 2022,v Punjab Kings,Brabourne,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+559235,Kuldeep Yadav,22 Apr 2022,v RR,Wankhede,2,9,0*,12,3,0,0,0,not out,1,3.0,0,40,0,13.33
+559235,Kuldeep Yadav,28 Apr 2022,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,4,4.66
+559235,Kuldeep Yadav,1 May 2022,v LSG,Wankhede,2,9,16*,23,8,1,1,200,not out,1,3.0,0,29,0,9.66
+559235,Kuldeep Yadav,5 May 2022,v SRH,Brabourne,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,1,10
+559235,Kuldeep Yadav,8 May 2022,v CSK,DY Patil,2,9,5,17,17,0,0,29.41,caught,1,3.0,0,43,0,14.33
+559235,Kuldeep Yadav,11 May 2022,v RR,DY Patil,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+559235,Kuldeep Yadav,16 May 2022,v Punjab Kings,DY Patil,1,9,2*,4,2,0,0,100,not out,2,3.0,0,14,2,4.66
+559235,Kuldeep Yadav,21 May 2022,v MI,Wankhede,1,9,1*,5,1,0,0,100,not out,2,4.0,0,33,1,8.25
+559235,Kuldeep Yadav,7 Aug 2022,v West Indies,Lauderhill,1,8,0*,5,0,0,0,-,not out,2,4.0,1,12,3,3
+559235,Kuldeep Yadav,14 Oct 2022,v Delhi,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+559235,Kuldeep Yadav,18 Oct 2022,v Goa,Jaipur,2,10,2*,-,5,0,0,40,not out,1,4.0,0,18,2,4.5
+559235,Kuldeep Yadav,20 Oct 2022,v Hyderabad,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+559235,Kuldeep Yadav,22 Oct 2022,v Punjab,Jaipur,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+559235,Kuldeep Yadav,27 Jan 2023,v New Zealand,Ranchi,2,9,0,6,1,0,0,0,caught,1,4.0,0,20,1,5
+559235,Kuldeep Yadav,29 Jan 2023,v New Zealand,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+559235,Kuldeep Yadav,1 Feb 2023,v New Zealand,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+559235,Kuldeep Yadav,1 Apr 2023,v LSG,Lucknow,2,9,6*,22,10,0,0,60,not out,1,4.0,0,35,1,8.75
+559235,Kuldeep Yadav,4 Apr 2023,v GT,Delhi,1,9,1*,7,1,0,0,100,not out,2,3.0,0,18,0,6
+559235,Kuldeep Yadav,8 Apr 2023,v RR,Guwahati,2,9,3*,9,7,0,0,42.85,not out,1,4.0,0,31,1,7.75
+559235,Kuldeep Yadav,11 Apr 2023,v MI,Delhi,1,9,0,2,1,0,0,0,run out,2,2.0,0,23,0,11.5
+559235,Kuldeep Yadav,15 Apr 2023,v RCB,Bengaluru,2,11,7*,10,6,1,0,116.66,not out,1,4.0,1,23,2,5.75
+559235,Kuldeep Yadav,20 Apr 2023,v KKR,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,2,5
+559235,Kuldeep Yadav,24 Apr 2023,v SRH,Hyderabad,1,10,4*,5,3,1,0,133.33,not out,2,4.0,0,22,1,5.5
+559235,Kuldeep Yadav,29 Apr 2023,v SRH,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,27,0,9
+559235,Kuldeep Yadav,2 May 2023,v GT,Ahmedabad,1,10,0*,1,1,0,0,0,not out,2,4.0,0,15,1,3.75
+559235,Kuldeep Yadav,6 May 2023,v RCB,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+559235,Kuldeep Yadav,10 May 2023,v CSK,Chennai,2,10,0*,1,1,0,0,0,not out,1,4.0,0,28,1,7
+559235,Kuldeep Yadav,13 May 2023,v Punjab Kings,Delhi,2,9,10*,21,17,0,0,58.82,not out,1,4.0,0,32,1,8
+559235,Kuldeep Yadav,17 May 2023,v Punjab Kings,Dharamsala,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,0,7
+559235,Kuldeep Yadav,20 May 2023,v CSK,Delhi,2,10,0,2,1,0,0,0,lbw,1,3.0,0,34,0,11.33
+559235,Kuldeep Yadav,3 Aug 2023,v West Indies,Tarouba,2,8,3,21,9,0,0,33.33,bowled,1,4.0,0,20,1,5
+559235,Kuldeep Yadav,8 Aug 2023,v West Indies,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+559235,Kuldeep Yadav,12 Aug 2023,v West Indies,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+559235,Kuldeep Yadav,13 Aug 2023,v West Indies,Lauderhill,1,9,0,1,1,0,0,0,lbw,2,4.0,0,18,0,4.5
+559235,Kuldeep Yadav,12 Dec 2023,v South Africa,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,1,8.66
+559235,Kuldeep Yadav,14 Dec 2023,v South Africa,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.5,0,17,5,6
+559235,Kuldeep Yadav,17 Jan 2024,v Afghanistan,Bengaluru,1,-,DNB,-,-,-,-,-,-,2,3.0,0,31,1,10.33
+559235,Kuldeep Yadav,23 Mar 2024,v Punjab Kings,New Chandigarh,1,10,1,1,2,0,0,50,run out,2,4.0,0,20,2,5
+559235,Kuldeep Yadav,28 Mar 2024,v RR,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,1,10.25
+559235,Kuldeep Yadav,12 Apr 2024,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+559235,Kuldeep Yadav,17 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+559235,Kuldeep Yadav,20 Apr 2024,v SRH,Delhi,2,10,0,2,1,0,0,0,lbw,1,4.0,0,55,4,13.75
+559235,Kuldeep Yadav,24 Apr 2024,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+559235,Kuldeep Yadav,27 Apr 2024,v MI,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,47,0,15.66
+559235,Kuldeep Yadav,29 Apr 2024,v KKR,Eden Gardens,1,9,35*,36,26,5,1,134.61,not out,2,4.0,0,34,0,8.5
+559235,Kuldeep Yadav,7 May 2024,v RR,Delhi,1,9,5*,4,2,1,0,250,not out,2,4.0,0,25,2,6.25
+559235,Kuldeep Yadav,12 May 2024,v RCB,Bengaluru,2,9,6,21,10,0,0,60,bowled,1,4.0,0,52,1,13
+559235,Kuldeep Yadav,14 May 2024,v LSG,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+559235,Kuldeep Yadav,20 Jun 2024,v Afghanistan,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,2,8
+559235,Kuldeep Yadav,22 Jun 2024,v Bangladesh,North Sound,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+559235,Kuldeep Yadav,24 Jun 2024,v Australia,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+559235,Kuldeep Yadav,27 Jun 2024,v England,Providence,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,3,4.75
+559235,Kuldeep Yadav,29 Jun 2024,v South Africa,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+559235,Kuldeep Yadav,24 Mar 2025,v LSG,Visakhapatnam,2,10,5,7,5,1,0,100,run out,1,4.0,0,20,2,5
+559235,Kuldeep Yadav,30 Mar 2025,v SRH,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,3,5.5
+559235,Kuldeep Yadav,5 Apr 2025,v CSK,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+559235,Kuldeep Yadav,10 Apr 2025,v RCB,Bengaluru,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,4.25
+559235,Kuldeep Yadav,13 Apr 2025,v MI,Delhi,2,10,1,1,1,0,0,100,run out,1,4.0,0,23,2,5.75
+559235,Kuldeep Yadav,16 Apr 2025,v RR,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+559235,Kuldeep Yadav,19 Apr 2025,v GT,Ahmedabad,1,10,4*,1,1,1,0,400,not out,2,4.0,0,30,1,7.5
+559235,Kuldeep Yadav,22 Apr 2025,v LSG,Lucknow,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+559235,Kuldeep Yadav,27 Apr 2025,v RCB,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,0,7
+559235,Kuldeep Yadav,29 Apr 2025,v KKR,Delhi,2,11,1*,1,1,0,0,100,not out,1,3.0,0,27,0,9
+559235,Kuldeep Yadav,5 May 2025,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+559235,Kuldeep Yadav,18 May 2025,v GT,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+559235,Kuldeep Yadav,21 May 2025,v MI,Wankhede,2,10,7,10,8,0,0,87.5,caught,1,4.0,0,22,1,5.5
+559235,Kuldeep Yadav,24 May 2025,v Punjab Kings,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,2,9.75
+559235,Kuldeep Yadav,10 Sep 2025,v U.A.E.,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.1,0,7,4,3.23
+559235,Kuldeep Yadav,14 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+559235,Kuldeep Yadav,19 Sep 2025,v Oman,Abu Dhabi,1,10,1*,5,3,0,0,33.33,not out,2,3.0,0,23,1,7.66
+559235,Kuldeep Yadav,21 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+559235,Kuldeep Yadav,24 Sep 2025,v Bangladesh,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+559235,Kuldeep Yadav,26 Sep 2025,v Sri Lanka,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+559235,Kuldeep Yadav,28 Sep 2025,v Pakistan,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,4,7.5
+559235,Kuldeep Yadav,29 Oct 2025,v Australia,Canberra,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+559235,Kuldeep Yadav,31 Oct 2025,v Australia,Melbourne,1,9,0,5,6,0,0,0,caught,2,3.2,0,45,2,13.5
+559235,Kuldeep Yadav,14 Dec 2025,v South Africa,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,2.0,0,12,2,6
+559235,Kuldeep Yadav,23 Jan 2026,v New Zealand,Raipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+559235,Kuldeep Yadav,25 Jan 2026,v New Zealand,Guwahati,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+559235,Kuldeep Yadav,28 Jan 2026,v New Zealand,Visakhapatnam,2,11,1,4,3,0,0,33.33,caught,1,4.0,0,39,2,9.75
+559235,Kuldeep Yadav,15 Feb 2026,v Pakistan,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,1,4.66

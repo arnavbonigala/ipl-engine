@@ -1,0 +1,156 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+393279,Marchant de Lange,30 Oct 2011,v Free State,Bloemfontein,1,6,4*,3,3,0,0,133.33,not out,2,4.0,0,38,2,9.5
+393279,Marchant de Lange,19 Feb 2012,v New Zealand,Hamilton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+393279,Marchant de Lange,22 Feb 2012,v New Zealand,Auckland,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+393279,Marchant de Lange,5 Apr 2012,v Daredevils,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,36,0,12
+393279,Marchant de Lange,5 May 2012,v Warriors,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,3,8.5
+393279,Marchant de Lange,14 May 2012,v CSK,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,3.0,0,37,0,12.33
+393279,Marchant de Lange,19 Jun 2012,v Bdesh XI,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+393279,Marchant de Lange,20 Jun 2012,v Zimbabwe XI,Harare,2,10,3,5,4,0,0,75,bowled,1,3.0,0,23,1,7.66
+393279,Marchant de Lange,22 Jun 2012,v Bdesh XI,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,3,8.33
+393279,Marchant de Lange,20 Jan 2013,v Boland,Benoni,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+393279,Marchant de Lange,20 Feb 2013,v Lions,Johannesburg,1,9,5*,3,2,1,0,250,not out,2,3.0,0,28,0,9.33
+393279,Marchant de Lange,22 Feb 2013,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+393279,Marchant de Lange,28 Feb 2013,v Cape Cobras,Benoni,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,0,6.33
+393279,Marchant de Lange,6 Mar 2013,v Knights,Centurion,2,10,9*,6,4,0,1,225,not out,1,3.0,0,26,0,8.66
+393279,Marchant de Lange,8 Mar 2013,v Warriors,Benoni,2,8,5*,5,3,1,0,166.66,not out,1,4.0,0,29,2,7.25
+393279,Marchant de Lange,12 Mar 2013,v Cape Cobras,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+393279,Marchant de Lange,7 Apr 2013,v Lions,Johannesburg,2,11,0*,4,2,0,0,0,not out,1,4.0,0,31,1,7.75
+393279,Marchant de Lange,22 Sep 2013,v CSK,Ranchi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+393279,Marchant de Lange,24 Sep 2013,v Heat,Mohali,1,10,0*,3,0,0,0,-,not out,2,4.0,0,13,3,3.25
+393279,Marchant de Lange,28 Sep 2013,v SRH,Ranchi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+393279,Marchant de Lange,30 Sep 2013,v Trinidad & T,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,3,9.5
+393279,Marchant de Lange,2 Feb 2014,v Northerns,Centurion,1,7,9*,6,5,1,0,180,not out,2,3.0,0,29,0,9.66
+393279,Marchant de Lange,23 Feb 2014,v Griq West,Benoni,2,8,2,6,3,0,0,66.66,bowled,1,4.0,1,15,0,3.75
+393279,Marchant de Lange,1 Mar 2014,v Namibia,Benoni,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+393279,Marchant de Lange,16 Mar 2014,v Gauteng,Johannesburg,1,8,9,8,7,1,0,128.57,caught,2,4.0,0,46,1,11.5
+393279,Marchant de Lange,23 May 2014,v Daredevils,Wankhede,1,9,1,4,2,0,0,50,caught,2,4.0,0,32,2,8
+393279,Marchant de Lange,9 Nov 2014,v Australia,Sydney,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+393279,Marchant de Lange,30 Nov 2014,v Warriors,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,4,7.75
+393279,Marchant de Lange,11 Jan 2015,v West Indies,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,3.2,0,42,1,12.6
+393279,Marchant de Lange,14 Jan 2015,v West Indies,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+393279,Marchant de Lange,8 May 2015,v CSK,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,1,30,0,7.5
+393279,Marchant de Lange,20 Jun 2015,v Tridents,Bridgetown,2,10,9,3,6,0,1,150,caught,1,4.0,1,29,0,7.25
+393279,Marchant de Lange,26 Jun 2015,v Zouks,Gros Islet,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+393279,Marchant de Lange,3 Jul 2015,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+393279,Marchant de Lange,4 Jul 2015,v Red Steel,Basseterre,1,9,2,-,6,0,0,33.33,bowled,2,3.0,0,20,0,6.66
+393279,Marchant de Lange,8 Jul 2015,v Patriots,Basseterre,2,-,DNB,-,-,-,-,-,-,1,3.0,0,44,2,14.66
+393279,Marchant de Lange,12 Jul 2015,v Tallawahs,Kingston,1,-,DNB,-,-,-,-,-,-,2,3.0,0,17,2,5.66
+393279,Marchant de Lange,17 Jul 2015,v Zouks,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,1,9.33
+393279,Marchant de Lange,18 Jul 2015,v Tridents,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+393279,Marchant de Lange,21 Jul 2015,v Red Steel,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,4,5.75
+393279,Marchant de Lange,25 Jul 2015,v Red Steel,Port of Spain,1,10,2*,-,2,0,0,100,not out,2,4.0,0,16,1,4
+393279,Marchant de Lange,2 Oct 2015,v India,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+393279,Marchant de Lange,1 Nov 2015,v Dolphins,Centurion,2,9,3*,16,4,0,0,75,not out,1,3.0,0,48,0,16
+393279,Marchant de Lange,15 Nov 2015,v KZ-Natal,Benoni,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,3,10.33
+393279,Marchant de Lange,23 Jul 2016,v Zouks,Gros Islet,1,-,DNB,-,-,-,-,-,-,2,2.0,0,34,0,17
+393279,Marchant de Lange,28 Jul 2016,v Amazon,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,2.0,0,18,0,9
+393279,Marchant de Lange,30 Jul 2016,v Amazon,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,1.0,0,20,0,20
+393279,Marchant de Lange,12 Nov 2016,v Cape Cobras,Johannesburg,1,7,22,11,10,3,1,220,bowled,2,3.2,0,17,3,5.1
+393279,Marchant de Lange,18 Nov 2016,v Titans,Benoni,1,7,1,6,4,0,0,25,caught,2,4.0,0,34,2,8.5
+393279,Marchant de Lange,20 Nov 2016,v Warriors,Bloemfontein,2,8,14,18,9,1,0,155.55,bowled,1,4.0,0,33,1,8.25
+393279,Marchant de Lange,25 Nov 2016,v Dolphins,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,3.3,0,33,0,9.42
+393279,Marchant de Lange,27 Nov 2016,v Titans,Kimberley,2,7,3,4,4,0,0,75,caught,1,4.0,0,32,2,8
+393279,Marchant de Lange,30 Nov 2016,v Warriors,Gqeberha,1,7,1,3,4,0,0,25,bowled,2,3.0,0,27,0,9
+393279,Marchant de Lange,2 Dec 2016,v Lions,Kimberley,2,5,3,8,7,0,0,42.85,caught,1,4.0,0,32,1,8
+393279,Marchant de Lange,7 Jul 2017,v Hampshire,Cardiff,2,9,4,4,2,1,0,200,bowled,1,4.0,0,45,1,11.25
+393279,Marchant de Lange,9 Jul 2017,v Sussex,Arundel,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+393279,Marchant de Lange,15 Jul 2017,v Somerset,Cardiff,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+393279,Marchant de Lange,16 Jul 2017,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,3.0,0,36,1,12
+393279,Marchant de Lange,21 Jul 2017,v Sussex,Cardiff,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,25,2,12.5
+393279,Marchant de Lange,25 Jul 2017,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+393279,Marchant de Lange,30 Jul 2017,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+393279,Marchant de Lange,3 Aug 2017,v Gloucs,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+393279,Marchant de Lange,4 Aug 2017,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+393279,Marchant de Lange,10 Aug 2017,v Hampshire,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+393279,Marchant de Lange,13 Aug 2017,v Somerset,Taunton,1,8,0*,1,0,0,0,-,not out,2,4.0,0,32,1,8
+393279,Marchant de Lange,18 Aug 2017,v Middlesex,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,19,3,6.33
+393279,Marchant de Lange,23 Aug 2017,v Leics,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+393279,Marchant de Lange,2 Sep 2017,v Warwickshire,Birmingham,2,10,16,10,10,1,1,160,bowled,1,4.0,0,36,2,9
+393279,Marchant de Lange,10 Nov 2017,v Warriors,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+393279,Marchant de Lange,15 Nov 2017,v Titans,Kimberley,2,8,27*,14,12,3,1,225,not out,1,4.0,0,39,1,9.75
+393279,Marchant de Lange,17 Nov 2017,v Dolphins,Durban,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+393279,Marchant de Lange,24 Nov 2017,v Warriors,Bloemfontein,2,8,4*,2,1,1,0,400,not out,1,3.0,0,28,1,9.33
+393279,Marchant de Lange,26 Nov 2017,v Cape Cobras,Cape Town,1,7,1*,4,3,0,0,33.33,not out,2,4.0,0,31,1,7.75
+393279,Marchant de Lange,8 Dec 2017,v Dolphins,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,1,7.5
+393279,Marchant de Lange,10 Dec 2017,v Lions,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+393279,Marchant de Lange,18 Nov 2018,v Blitz,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+393279,Marchant de Lange,21 Nov 2018,v Spartans,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,1,4
+393279,Marchant de Lange,23 Nov 2018,v Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+393279,Marchant de Lange,28 Nov 2018,v Paarl Rocks,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,38,1,19
+393279,Marchant de Lange,5 Dec 2018,v Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,25,1,12.5
+393279,Marchant de Lange,7 Dec 2018,v Jozi Stars,Durban,1,10,1*,5,1,0,0,100,not out,2,2.4,0,38,1,14.25
+393279,Marchant de Lange,9 Dec 2018,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+393279,Marchant de Lange,18 Jul 2019,v Somerset,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.0,0,40,0,13.33
+393279,Marchant de Lange,19 Jul 2019,v Gloucs,Cheltenham,1,10,0*,4,1,0,0,0,not out,-,TDNB,-,-,-,-
+393279,Marchant de Lange,25 Jul 2019,v Surrey,The Oval,2,10,0,2,1,0,0,0,caught,1,2.5,0,26,4,9.17
+393279,Marchant de Lange,26 Jul 2019,v Middlesex,Cardiff,1,9,0,4,1,0,0,0,caught,2,3.2,0,16,1,4.8
+393279,Marchant de Lange,1 Aug 2019,v Gloucs,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,1,11.25
+393279,Marchant de Lange,2 Aug 2019,v Hampshire,Southampton,2,8,12,10,8,2,0,150,caught,1,4.0,0,24,2,6
+393279,Marchant de Lange,6 Aug 2019,v Sussex,Hove,1,8,12,10,6,1,1,200,bowled,2,2.0,0,17,0,8.5
+393279,Marchant de Lange,9 Aug 2019,v Essex,Cardiff,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,5,0,5
+393279,Marchant de Lange,11 Aug 2019,v Surrey,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,0,9.5
+393279,Marchant de Lange,24 Aug 2019,v Somerset,Taunton,2,10,11,18,11,1,0,100,caught,1,4.0,0,36,3,9
+393279,Marchant de Lange,26 Aug 2019,v Sussex,Cardiff,1,-,DNB,-,-,-,-,-,-,2,2.0,0,33,0,16.5
+393279,Marchant de Lange,30 Aug 2019,v Hampshire,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,2,8
+393279,Marchant de Lange,29 Aug 2020,v Gloucs,Bristol,1,5,6,5,4,1,0,150,bowled,2,2.0,0,23,1,11.5
+393279,Marchant de Lange,30 Aug 2020,v Bears,Cardiff,1,6,9,14,9,0,1,100,caught,2,3.0,0,19,1,6.33
+393279,Marchant de Lange,1 Sep 2020,v Somerset,Taunton,1,9,28*,19,18,3,1,155.55,not out,2,2.0,0,18,0,9
+393279,Marchant de Lange,3 Sep 2020,v Northants,Birmingham,1,8,7*,11,6,0,0,116.66,not out,2,3.2,0,23,2,6.9
+393279,Marchant de Lange,11 Sep 2020,v Bears,Birmingham,2,5,1,3,3,0,0,33.33,caught,1,4.0,0,23,0,5.75
+393279,Marchant de Lange,13 Sep 2020,v Northants,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.2,0,14,1,4.2
+393279,Marchant de Lange,16 Sep 2020,v Somerset,Cardiff,2,9,17,21,13,3,0,130.76,caught,1,4.0,0,48,0,12
+393279,Marchant de Lange,9 Jun 2021,v Essex,Taunton,1,8,18,12,7,2,1,257.14,lbw,2,4.0,0,35,3,8.75
+393279,Marchant de Lange,11 Jun 2021,v Surrey,Taunton,1,8,9*,10,9,1,0,100,not out,2,4.0,0,43,1,10.75
+393279,Marchant de Lange,15 Jun 2021,v Kent,Taunton,1,9,1*,2,1,0,0,100,not out,2,3.0,0,18,3,6
+393279,Marchant de Lange,25 Jun 2021,v Hampshire,Taunton,1,9,0,9,2,0,0,0,caught,2,4.0,0,13,0,3.25
+393279,Marchant de Lange,28 Jun 2021,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+393279,Marchant de Lange,29 Jun 2021,v Essex,Chelmsford,1,9,0,2,1,0,0,0,caught,2,4.0,0,22,1,5.5
+393279,Marchant de Lange,1 Jul 2021,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+393279,Marchant de Lange,2 Jul 2021,v Middlesex,Taunton,1,9,20,14,11,0,3,181.81,caught,2,2.0,0,17,1,8.5
+393279,Marchant de Lange,9 Jul 2021,v Hampshire,Southampton,2,9,7,9,7,1,0,100,caught,1,4.0,0,33,2,8.25
+393279,Marchant de Lange,16 Jul 2021,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+393279,Marchant de Lange,18 Jul 2021,v Gloucs,Taunton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+393279,Marchant de Lange,24 Jul 2021,v Brave,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,5,6
+393279,Marchant de Lange,26 Jul 2021,v N S-Chargers,Nottingham,2,-,DNB,-,-,-,-,-,-,1,2.4,0,22,3,9.42
+393279,Marchant de Lange,29 Jul 2021,v Spirit,Lord's,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,0,10.2
+393279,Marchant de Lange,1 Aug 2021,v Phoenix,Birmingham,1,-,DNB,-,-,-,-,-,-,2,1.0,0,6,0,7.2
+393279,Marchant de Lange,13 Aug 2021,v Phoenix,Nottingham,2,10,7*,10,3,1,0,233.33,not out,1,4.0,0,35,1,10.5
+393279,Marchant de Lange,15 Aug 2021,v Originals,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,7.2
+393279,Marchant de Lange,20 Aug 2021,v Brave,The Oval,1,10,7,8,6,0,1,116.66,caught,2,4.0,1,16,2,4.8
+393279,Marchant de Lange,26 Aug 2021,v Lancashire,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,3,10.25
+393279,Marchant de Lange,18 Sep 2021,v Hampshire,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+393279,Marchant de Lange,18 Sep 2021,v Kent,Birmingham,2,11,8*,9,6,0,1,133.33,not out,1,2.0,0,23,0,11.5
+393279,Marchant de Lange,7 Dec 2021,v Jaffna Kings,Colombo (RPS),1,9,13,-,8,0,1,162.5,bowled,2,2.3,0,21,0,8.4
+393279,Marchant de Lange,16 Dec 2021,v Warriors,Colombo (RPS),1,9,1,-,2,0,0,50,caught,2,3.2,0,38,0,11.4
+393279,Marchant de Lange,21 Dec 2021,v Jaffna Kings,Hambantota,2,9,9,-,11,0,1,81.81,caught,1,4.0,0,47,1,11.75
+393279,Marchant de Lange,30 Jan 2022,v Zalmi,Karachi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+393279,Marchant de Lange,1 Feb 2022,v Sultans,Karachi,2,11,0*,7,2,0,0,0,not out,1,4.0,0,48,1,12
+393279,Marchant de Lange,17 Feb 2022,v Zalmi,Lahore,2,8,7*,13,6,0,0,116.66,not out,1,3.0,0,32,1,10.66
+393279,Marchant de Lange,19 Feb 2022,v Qalandars,Lahore,2,9,2,11,4,0,0,50,caught,1,2.0,0,21,0,10.5
+393279,Marchant de Lange,20 Feb 2022,v Sultans,Lahore,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+393279,Marchant de Lange,25 May 2022,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.0,0,39,0,13
+393279,Marchant de Lange,27 May 2022,v SLC Dev XI,Taunton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+393279,Marchant de Lange,29 May 2022,v Essex,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,1,9,4,3
+393279,Marchant de Lange,30 May 2022,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+393279,Marchant de Lange,1 Jun 2022,v Sussex,Taunton,2,9,0,1,1,0,0,0,caught,1,4.0,0,56,2,14
+393279,Marchant de Lange,3 Jun 2022,v Glamorgan,Taunton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+393279,Marchant de Lange,29 May 2023,v Middlesex,Northwood,1,8,9,5,4,0,1,225,caught,2,4.0,0,28,1,7
+393279,Marchant de Lange,30 May 2023,v Essex,Chelmsford,1,9,17*,11,7,1,2,242.85,not out,2,0.3,0,7,1,14
+393279,Marchant de Lange,27 Jan 2024,v Vipers,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,1,11.5
+393279,Marchant de Lange,28 Jan 2024,v MI Emirates,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+393279,Marchant de Lange,31 Jan 2024,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,1.0,0,17,0,17
+393279,Marchant de Lange,30 May 2024,v Essex,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+393279,Marchant de Lange,31 May 2024,v Sussex,Hove,1,6,0,3,1,0,0,0,caught,2,4.0,0,39,1,9.75
+393279,Marchant de Lange,7 Jun 2024,v Hampshire,Bristol,1,8,1,5,3,0,0,33.33,caught,2,4.0,0,33,1,8.25
+393279,Marchant de Lange,14 Jun 2024,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,1,9
+393279,Marchant de Lange,16 Jun 2024,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+393279,Marchant de Lange,20 Jun 2024,v Glamorgan,Cardiff,2,9,7*,18,6,1,0,116.66,not out,1,4.0,0,27,1,6.75
+393279,Marchant de Lange,21 Jun 2024,v Somerset,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+393279,Marchant de Lange,7 Jul 2024,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+393279,Marchant de Lange,11 Jul 2024,v Middlesex,Cheltenham,2,10,13*,11,7,2,0,185.71,not out,1,4.0,0,47,1,11.75
+393279,Marchant de Lange,12 Jul 2024,v Hampshire,Southampton,1,9,1,6,2,0,0,50,caught,2,4.0,0,36,1,9
+393279,Marchant de Lange,4 Jul 2025,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,56,1,14
+393279,Marchant de Lange,11 Jul 2025,v Middlesex,Northwood,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+393279,Marchant de Lange,13 Jul 2025,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,4,5
+393279,Marchant de Lange,17 Jul 2025,v Sussex,Cheltenham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,39,1,9.75

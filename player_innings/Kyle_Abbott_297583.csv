@@ -1,0 +1,157 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+297583,Kyle Abbott,2 Feb 2011,v Knights,Bloemfontein,1,8,1*,3,1,0,0,100,not out,2,2.0,0,9,1,4.5
+297583,Kyle Abbott,4 Feb 2011,v Warriors,East London,1,-,DNB,-,-,-,-,-,-,2,4.0,0,19,0,4.75
+297583,Kyle Abbott,11 Feb 2011,v Cape Cobras,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+297583,Kyle Abbott,13 Feb 2011,v Titans,Centurion,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+297583,Kyle Abbott,20 Feb 2011,v Lions,Durban,2,9,0*,0,2,0,0,0,not out,1,4.0,0,17,2,4.25
+297583,Kyle Abbott,25 Feb 2011,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+297583,Kyle Abbott,4 Mar 2011,v Warriors,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+297583,Kyle Abbott,19 Feb 2012,v Impi,Pietermaritzburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+297583,Kyle Abbott,22 Feb 2012,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,0,9.25
+297583,Kyle Abbott,24 Feb 2012,v Titans,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+297583,Kyle Abbott,26 Feb 2012,v Cape Cobras,Paarl,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,1,12
+297583,Kyle Abbott,2 Mar 2012,v Warriors,Durban,1,9,1,4,3,0,0,33.33,caught,2,2.3,0,19,0,7.6
+297583,Kyle Abbott,7 Mar 2012,v Impi,Benoni,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297583,Kyle Abbott,9 Mar 2012,v Titans,Centurion,-,-,TDNB,-,-,-,-,-,-,1,2.0,0,13,3,6.5
+297583,Kyle Abbott,14 Mar 2012,v Knights,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+297583,Kyle Abbott,16 Mar 2012,v Lions,Johannesburg,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+297583,Kyle Abbott,21 Mar 2012,v Cape Cobras,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+297583,Kyle Abbott,3 Mar 2013,v Pakistan,Centurion,2,10,2,5,2,0,0,100,caught,1,4.0,0,41,1,10.25
+297583,Kyle Abbott,22 Mar 2013,v Titans,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,1,7.66
+297583,Kyle Abbott,28 Mar 2013,v Lions,Johannesburg,2,8,2,16,8,0,0,25,run out,1,4.0,0,19,2,4.75
+297583,Kyle Abbott,5 Jan 2014,v Titans,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,1,21,2,5.25
+297583,Kyle Abbott,10 Jan 2014,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+297583,Kyle Abbott,17 Jan 2014,v Warriors,Gqeberha,2,9,5*,5,3,1,0,166.66,not out,1,4.0,0,34,1,8.5
+297583,Kyle Abbott,19 Jan 2014,v Cape Cobras,Durban,2,9,3*,8,5,0,0,60,not out,1,4.0,1,30,1,7.5
+297583,Kyle Abbott,22 Jan 2014,v Lions,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,2,10.5
+297583,Kyle Abbott,24 Jan 2014,v Cape Cobras,Paarl,1,9,7*,7,5,0,0,140,not out,2,4.0,0,27,0,6.75
+297583,Kyle Abbott,26 Jan 2014,v Warriors,Durban,2,9,1*,6,1,0,0,100,not out,1,4.0,1,21,3,5.25
+297583,Kyle Abbott,29 Jan 2014,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,1,4
+297583,Kyle Abbott,31 Jan 2014,v Knights,Durban,1,-,DNB,-,-,-,-,-,-,2,2.2,0,6,2,2.57
+297583,Kyle Abbott,2 Feb 2014,v Lions,Johannesburg,2,9,15*,15,7,1,1,214.28,not out,1,4.0,0,34,0,8.5
+297583,Kyle Abbott,6 Feb 2014,v Titans,Durban,1,-,DNB,-,-,-,-,-,-,2,3.2,0,24,1,7.2
+297583,Kyle Abbott,9 Feb 2014,v Cape Cobras,Cape Town,1,9,1*,3,1,0,0,100,not out,2,4.0,0,17,2,4.25
+297583,Kyle Abbott,12 Mar 2014,v Australia,Durban,1,-,DNB,-,-,-,-,-,-,2,1.0,0,5,1,5
+297583,Kyle Abbott,16 May 2014,v Glamorgan,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,0,10.75
+297583,Kyle Abbott,23 May 2014,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+297583,Kyle Abbott,25 May 2014,v Middlesex,Northwood,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+297583,Kyle Abbott,30 May 2014,v Essex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+297583,Kyle Abbott,5 Jun 2014,v Kent,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+297583,Kyle Abbott,13 Jun 2014,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+297583,Kyle Abbott,20 Jun 2014,v Gloucs,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,46,0,11.5
+297583,Kyle Abbott,25 Jun 2014,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,0,6.75
+297583,Kyle Abbott,27 Jun 2014,v Surrey,The Oval,1,10,11*,3,3,1,1,366.66,not out,2,3.0,0,22,0,7.33
+297583,Kyle Abbott,4 Jul 2014,v Kent,Canterbury,1,8,0,1,1,0,0,0,bowled,2,3.0,1,14,2,4.66
+297583,Kyle Abbott,6 Jul 2014,v Somerset,Southampton,2,9,16,14,11,0,0,145.45,caught,1,4.0,0,38,1,9.5
+297583,Kyle Abbott,3 Aug 2014,v Notts,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75
+297583,Kyle Abbott,20 Sep 2014,v Scorchers,Mohali,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,1,6.25
+297583,Kyle Abbott,22 Sep 2014,v CSK,Bengaluru,2,10,5,8,4,1,0,125,bowled,1,4.0,0,37,1,9.25
+297583,Kyle Abbott,27 Sep 2014,v Lahore Lions,Bengaluru,2,10,2,6,6,0,0,33.33,run out,1,4.0,0,34,1,8.5
+297583,Kyle Abbott,29 Sep 2014,v KKR,Hyderabad,2,9,5*,13,9,0,0,55.55,not out,1,4.0,0,39,0,9.75
+297583,Kyle Abbott,2 Nov 2014,v CA XI,North Sydney,2,10,2*,-,5,0,0,40,not out,1,4.0,0,22,2,5.5
+297583,Kyle Abbott,5 Nov 2014,v Australia,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+297583,Kyle Abbott,7 Nov 2014,v Australia,Melbourne,1,9,2*,-,2,0,0,100,not out,2,2.0,0,17,0,8.5
+297583,Kyle Abbott,9 Nov 2014,v Australia,Sydney,1,-,DNB,-,-,-,-,-,-,2,3.5,0,20,1,5.21
+297583,Kyle Abbott,9 Jan 2015,v West Indies,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+297583,Kyle Abbott,11 Jan 2015,v West Indies,Johannesburg,1,8,2,2,2,0,0,100,run out,2,4.0,0,68,1,17
+297583,Kyle Abbott,14 Jan 2015,v West Indies,Durban,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,0,4.66
+297583,Kyle Abbott,28 May 2015,v Kent,Lord's,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+297583,Kyle Abbott,29 May 2015,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,1,14,5,3.5
+297583,Kyle Abbott,5 Jun 2015,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+297583,Kyle Abbott,14 Jun 2015,v Gloucs,Richmond,2,8,1,6,7,0,0,14.28,caught,1,4.0,0,36,0,9
+297583,Kyle Abbott,18 Jun 2015,v Hampshire,Lord's,2,9,16*,14,10,1,1,160,not out,1,4.0,0,50,2,12.5
+297583,Kyle Abbott,26 Jun 2015,v Somerset,Uxbridge,1,9,0*,4,0,0,0,-,not out,2,3.0,0,40,0,13.33
+297583,Kyle Abbott,5 Jul 2015,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,10,1,5
+297583,Kyle Abbott,7 Jul 2015,v Bangladesh,Mirpur,1,-,DNB,-,-,-,-,-,-,2,3.2,0,20,3,6
+297583,Kyle Abbott,14 Aug 2015,v New Zealand,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+297583,Kyle Abbott,16 Aug 2015,v New Zealand,Centurion,2,10,9*,13,8,1,0,112.5,not out,1,4.0,0,44,0,11
+297583,Kyle Abbott,11 Sep 2015,v North West,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,3.0,0,13,1,4.33
+297583,Kyle Abbott,12 Sep 2015,v Boland,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+297583,Kyle Abbott,13 Sep 2015,v Border,Potchefstroom,1,-,DNB,-,-,-,-,-,-,2,2.0,0,2,0,1
+297583,Kyle Abbott,2 Oct 2015,v India,Dharamsala,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+297583,Kyle Abbott,5 Oct 2015,v India,Cuttack,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,0,7
+297583,Kyle Abbott,1 Nov 2015,v Titans,Centurion,1,-,DNB,-,-,-,-,-,-,2,4.0,0,45,0,11.25
+297583,Kyle Abbott,4 Nov 2015,v Lions,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+297583,Kyle Abbott,6 Nov 2015,v Knights,Kimberley,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+297583,Kyle Abbott,8 Nov 2015,v Warriors,Durban,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,0,8
+297583,Kyle Abbott,12 Dec 2015,v Titans,Centurion,1,-,DNB,-,-,-,-,-,-,2,3.5,0,39,2,10.17
+297583,Kyle Abbott,19 Feb 2016,v England,Cape Town,2,9,2*,8,2,0,0,100,not out,1,4.0,0,31,2,7.75
+297583,Kyle Abbott,21 Feb 2016,v England,Johannesburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+297583,Kyle Abbott,4 Mar 2016,v Australia,Durban,2,9,6*,14,4,1,0,150,not out,1,4.0,0,32,1,8
+297583,Kyle Abbott,9 Mar 2016,v Australia,Cape Town,1,-,DNB,-,-,-,-,-,-,2,3.2,0,32,0,9.6
+297583,Kyle Abbott,18 Mar 2016,v England,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.4,0,41,3,11.18
+297583,Kyle Abbott,20 Mar 2016,v Afghanistan,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,2,9
+297583,Kyle Abbott,28 Mar 2016,v Sri Lanka,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.3,0,14,2,4
+297583,Kyle Abbott,17 Apr 2016,v Supergiants,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,1,9.5
+297583,Kyle Abbott,19 Apr 2016,v KKR,Mohali,1,10,12*,7,6,0,1,200,not out,2,3.0,0,32,0,10.66
+297583,Kyle Abbott,23 Apr 2016,v SRH,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+297583,Kyle Abbott,18 May 2016,v RCB,Bengaluru,2,8,0,-,1,0,0,0,caught,1,3.0,0,48,1,16
+297583,Kyle Abbott,21 May 2016,v Supergiants,Visakhapatnam,1,9,1*,2,1,0,0,100,not out,2,3.0,0,25,0,8.33
+297583,Kyle Abbott,30 Jun 2016,v Durham,Chester-le-Street,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297583,Kyle Abbott,1 Jul 2016,v Derbyshire,Worcester,1,-,DNB,-,-,-,-,-,-,2,3.5,0,57,0,14.86
+297583,Kyle Abbott,8 Jul 2016,v Lancashire,Worcester,1,11,0*,1,0,0,0,-,not out,2,4.0,0,52,1,13
+297583,Kyle Abbott,11 Dec 2016,v Titans,East London,2,-,DNB,-,-,-,-,-,-,1,1.0,0,18,0,18
+297583,Kyle Abbott,13 Dec 2016,v Lions,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+297583,Kyle Abbott,16 Dec 2016,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+297583,Kyle Abbott,7 Jul 2017,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,48,0,12
+297583,Kyle Abbott,12 Jul 2017,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+297583,Kyle Abbott,14 Jul 2017,v Middlesex,Southampton,1,9,0*,1,0,0,0,-,not out,2,4.0,0,35,1,8.75
+297583,Kyle Abbott,20 Jul 2017,v Sussex,Southampton,1,8,14,18,13,2,0,107.69,bowled,2,3.0,0,28,0,9.33
+297583,Kyle Abbott,21 Jul 2017,v Essex,Chelmsford,1,9,2,4,5,0,0,40,bowled,2,3.0,0,27,1,9
+297583,Kyle Abbott,26 Jul 2017,v Somerset,Taunton,2,9,9,6,4,0,1,225,caught,1,4.0,0,41,2,10.25
+297583,Kyle Abbott,28 Jul 2017,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,45,0,15
+297583,Kyle Abbott,1 Aug 2017,v Kent,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+297583,Kyle Abbott,3 Aug 2017,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,3,6.5
+297583,Kyle Abbott,4 Aug 2017,v Essex,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,0,9.27
+297583,Kyle Abbott,10 Aug 2017,v Glamorgan,Southampton,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+297583,Kyle Abbott,11 Aug 2017,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+297583,Kyle Abbott,18 Aug 2017,v Somerset,Southampton,2,9,0,1,2,0,0,0,lbw,1,4.0,0,42,0,10.5
+297583,Kyle Abbott,22 Aug 2017,v Derbyshire,Derby,1,9,0,2,0,0,0,-,run out,2,3.5,0,25,3,6.52
+297583,Kyle Abbott,2 Sep 2017,v Notts,Birmingham,2,9,0,5,1,0,0,0,caught,1,3.0,0,41,1,13.66
+297583,Kyle Abbott,17 Nov 2017,v Chattogram,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+297583,Kyle Abbott,27 Nov 2017,v Kings,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+297583,Kyle Abbott,28 Nov 2017,v Victorians,Chattogram,1,9,16,-,21,1,0,76.19,caught,2,3.0,0,27,1,9
+297583,Kyle Abbott,16 Mar 2018,v Zalmi,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,8.33
+297583,Kyle Abbott,6 Jul 2018,v Glamorgan,Southampton,2,9,29,25,20,3,1,145,bowled,1,4.0,0,54,1,13.5
+297583,Kyle Abbott,12 Jul 2018,v Sussex,Southampton,1,9,0*,2,0,0,0,-,not out,2,3.2,0,41,0,12.3
+297583,Kyle Abbott,3 Aug 2018,v Kent,Southampton,2,8,19,15,16,2,0,118.75,caught,1,3.0,0,24,2,8
+297583,Kyle Abbott,4 Oct 2018,v Auckland,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+297583,Kyle Abbott,5 Oct 2018,v Titans,Abu Dhabi,2,8,12*,-,10,0,1,120,not out,1,4.0,0,49,1,12.25
+297583,Kyle Abbott,18 Nov 2018,v Blitz,Durban,1,-,DNB,-,-,-,-,-,-,2,3.1,0,26,1,8.21
+297583,Kyle Abbott,21 Nov 2018,v Spartans,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,4,6.75
+297583,Kyle Abbott,23 Nov 2018,v Giants,Gqeberha,1,9,2*,-,2,0,0,100,not out,2,4.0,0,29,0,7.25
+297583,Kyle Abbott,28 Nov 2018,v Paarl Rocks,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,20,1,10
+297583,Kyle Abbott,30 Nov 2018,v Jozi Stars,Johannesburg,2,9,30,21,13,4,1,230.76,caught,1,4.0,0,51,1,12.75
+297583,Kyle Abbott,2 Dec 2018,v Paarl Rocks,Paarl,1,-,DNB,-,-,-,-,-,-,2,3.1,0,30,0,9.47
+297583,Kyle Abbott,5 Dec 2018,v Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,2.3,0,27,0,10.8
+297583,Kyle Abbott,7 Dec 2018,v Jozi Stars,Durban,1,9,7,8,6,1,0,116.66,caught,2,4.0,0,17,2,4.25
+297583,Kyle Abbott,9 Dec 2018,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+297583,Kyle Abbott,12 Dec 2018,v Spartans,Centurion,2,10,6*,24,7,0,0,85.71,not out,1,4.0,0,45,0,11.25
+297583,Kyle Abbott,12 Jan 2019,v Wellington,Wellington,1,8,14*,17,10,0,1,140,not out,2,4.0,1,19,2,4.75
+297583,Kyle Abbott,16 Jan 2019,v Canterbury,Hamilton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+297583,Kyle Abbott,25 Jan 2019,v Central D,Napier,1,-,DNB,-,-,-,-,-,-,2,3.0,0,16,0,5.33
+297583,Kyle Abbott,2 Feb 2019,v Auckland,Auckland,1,10,0*,3,0,0,0,-,not out,2,3.2,0,43,1,12.9
+297583,Kyle Abbott,9 Feb 2019,v Otago,Mount Maunganui,1,8,9,11,8,2,0,112.5,caught,2,4.0,0,23,1,5.75
+297583,Kyle Abbott,17 Feb 2019,v Central D,Hamilton,2,10,0,4,1,0,0,0,caught,1,4.0,0,29,2,7.25
+297583,Kyle Abbott,19 Jul 2019,v Sussex,Southampton,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+297583,Kyle Abbott,21 Jul 2019,v Kent,Southampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,3,5.5
+297583,Kyle Abbott,24 Jul 2019,v Sussex,Hove,2,10,15,21,9,0,1,166.66,caught,1,4.0,0,51,1,12.75
+297583,Kyle Abbott,26 Jul 2019,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+297583,Kyle Abbott,1 Aug 2019,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,2.4,0,27,1,10.12
+297583,Kyle Abbott,2 Aug 2019,v Glamorgan,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,1,8
+297583,Kyle Abbott,4 Aug 2019,v Kent,Beckenham,1,11,4*,3,1,1,0,400,not out,2,3.5,0,31,3,8.08
+297583,Kyle Abbott,9 Aug 2019,v Somerset,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+297583,Kyle Abbott,13 Aug 2019,v Gloucs,Bristol,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+297583,Kyle Abbott,22 Aug 2019,v Middlesex,Lord's,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+297583,Kyle Abbott,25 Aug 2019,v Essex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+297583,Kyle Abbott,29 Aug 2019,v Middlesex,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+297583,Kyle Abbott,30 Aug 2019,v Glamorgan,Cardiff,2,9,2*,5,2,0,0,100,not out,1,4.0,0,32,0,8
+297583,Kyle Abbott,17 Nov 2019,v Blitz,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+297583,Kyle Abbott,21 Nov 2019,v Spartans,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,1,11
+297583,Kyle Abbott,23 Nov 2019,v Giants,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+297583,Kyle Abbott,28 Nov 2019,v Blitz,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+297583,Kyle Abbott,30 Nov 2019,v Giants,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,0,10.5
+297583,Kyle Abbott,4 Dec 2019,v Paarl Rocks,Paarl,2,-,DNB,-,-,-,-,-,-,1,3.0,0,40,1,13.33
+297583,Kyle Abbott,27 Nov 2020,v Galle,Hambantota,2,-,DNB,-,-,-,-,-,-,1,4.0,0,46,0,11.5
+297583,Kyle Abbott,4 Dec 2020,v Kings,Hambantota,1,10,4*,-,4,0,0,100,not out,2,1.0,0,15,0,15
+297583,Kyle Abbott,15 Jun 2021,v Middlesex,Radlett,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75

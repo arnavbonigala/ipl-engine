@@ -1,0 +1,125 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1070168,Prithvi Shaw,23 Apr 2018,v Kings XI,Delhi,2,1,22,-,10,4,0,220,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Apr 2018,v KKR,Delhi,1,1,62,-,44,7,2,140.9,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,30 Apr 2018,v CSK,Pune,2,1,9,-,5,2,0,180,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 May 2018,v RR,Delhi,1,1,47,-,25,4,4,188,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 May 2018,v SRH,Hyderabad,1,1,65,-,36,6,3,180.55,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,10 May 2018,v SRH,Delhi,1,1,9,-,11,1,0,81.81,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,12 May 2018,v RCB,Delhi,1,1,2,-,4,0,0,50,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,18 May 2018,v CSK,Delhi,1,1,17,-,17,1,1,100,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 May 2018,v MI,Delhi,1,1,12,-,8,2,0,150,run out,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,21 Feb 2019,v Sikkim,Indore,1,2,10,10,4,1,1,250,stumped,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Feb 2019,v Punjab,Indore,1,1,8,3,4,2,0,200,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,24 Feb 2019,v M. Pradesh,Indore,2,1,0,1,1,0,0,0,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Feb 2019,v Goa,Indore,2,1,71,-,47,5,7,151.06,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Feb 2019,v Railways,Indore,2,1,6,2,3,0,1,200,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,28 Feb 2019,v Saurashtra,Indore,1,1,36,-,17,4,3,211.76,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 Mar 2019,v Karnataka,Indore,1,1,0,-,2,0,0,0,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,9 Mar 2019,v Delhi,Indore,2,1,3,13,9,0,0,33.33,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,24 Mar 2019,v MI,Wankhede,1,1,7,-,6,1,0,116.66,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,26 Mar 2019,v CSK,Delhi,1,1,24,21,16,5,0,150,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,30 Mar 2019,v KKR,Delhi,2,1,99,92,55,12,3,180,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 Apr 2019,v Kings XI,Mohali,2,1,0,1,1,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 Apr 2019,v SRH,Delhi,1,1,11,9,11,2,0,100,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,7 Apr 2019,v RCB,Bengaluru,2,1,28,40,22,5,0,127.27,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,12 Apr 2019,v KKR,Eden Gardens,2,1,14,17,7,0,2,200,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,14 Apr 2019,v SRH,Hyderabad,1,1,4,9,5,0,0,80,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,18 Apr 2019,v MI,Delhi,2,1,20,37,24,2,0,83.33,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Apr 2019,v Kings XI,Delhi,2,1,13,18,11,1,1,118.18,run out,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Apr 2019,v RR,Jaipur,2,1,42,83,39,4,1,107.69,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,28 Apr 2019,v RCB,Delhi,1,1,18,18,10,4,0,180,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 May 2019,v CSK,Chennai,2,1,4,4,5,1,0,80,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 May 2019,v RR,Delhi,2,1,8,19,8,1,0,100,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 May 2019,v SRH,Visakhapatnam,2,1,56,53,38,6,2,147.36,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,10 May 2019,v CSK,Visakhapatnam,1,1,5,16,6,1,0,83.33,lbw,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,17 Nov 2019,v Assam,Wankhede,1,1,63,-,39,6,3,161.53,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Nov 2019,v Tamil Nadu,Surat,1,1,30,-,19,4,1,157.89,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,24 Nov 2019,v Jharkhand,Surat,2,1,64,-,39,4,5,164.1,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Nov 2019,v Karnataka,Surat,2,1,30,-,17,3,2,176.47,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Nov 2019,v Punjab,Surat,1,1,53,-,27,4,4,196.29,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Sep 2020,v Kings XI,Dubai (DICS),1,1,5,-,9,1,0,55.55,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Sep 2020,v CSK,Dubai (DICS),1,1,64,-,43,9,1,148.83,stumped,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,29 Sep 2020,v SRH,Abu Dhabi,2,1,2,-,5,0,0,40,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,3 Oct 2020,v KKR,Sharjah,1,1,66,-,41,4,4,160.97,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 Oct 2020,v RCB,Dubai (DICS),1,1,42,-,23,5,2,182.6,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,9 Oct 2020,v RR,Sharjah,1,1,19,-,10,2,1,190,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,11 Oct 2020,v MI,Abu Dhabi,1,1,4,-,3,1,0,133.33,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,14 Oct 2020,v RR,Dubai (DICS),1,1,0,-,1,0,0,0,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,17 Oct 2020,v CSK,Sharjah,2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Oct 2020,v Kings XI,Dubai (DICS),1,1,7,-,11,1,0,63.63,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,31 Oct 2020,v MI,Dubai (DICS),1,1,10,-,11,2,0,90.9,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 Nov 2020,v RCB,Abu Dhabi,2,1,9,-,6,2,0,150,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 Nov 2020,v MI,Dubai (DICS),2,1,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,10 Apr 2021,v CSK,Wankhede,2,1,72,68,38,9,3,189.47,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,15 Apr 2021,v RR,Wankhede,1,1,2,12,5,0,0,40,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,18 Apr 2021,v Punjab Kings,Wankhede,2,1,32,28,17,3,2,188.23,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Apr 2021,v MI,Chennai,2,1,7,12,5,1,0,140,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Apr 2021,v SRH,Chennai,1,1,53,51,39,7,1,135.89,run out,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Apr 2021,v RCB,Ahmedabad,2,1,21,33,18,3,0,116.66,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,29 Apr 2021,v KKR,Ahmedabad,2,1,82,73,41,11,3,200,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 May 2021,v Punjab Kings,Ahmedabad,2,1,39,25,22,3,3,177.27,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Jul 2021,v Sri Lanka,Colombo (RPS),1,1,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Sep 2021,v SRH,Dubai (DICS),2,1,11,17,8,2,0,137.5,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,25 Sep 2021,v RR,Abu Dhabi,1,1,10,24,12,0,0,83.33,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 Oct 2021,v MI,Sharjah,2,1,6,15,7,1,0,85.71,lbw,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 Oct 2021,v CSK,Dubai (DICS),2,1,18,14,12,3,0,150,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 Oct 2021,v RCB,Dubai (DICS),1,1,48,55,31,4,2,154.83,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,10 Oct 2021,v CSK,Dubai (DICS),1,1,60,49,34,7,3,176.47,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,13 Oct 2021,v KKR,Sharjah,1,1,18,17,12,2,1,150,lbw,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 Nov 2021,v Karnataka,Guwahati,2,1,4,-,3,1,0,133.33,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 Nov 2021,v Services,Guwahati,1,1,14,-,16,1,1,87.5,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,6 Nov 2021,v Bengal,Guwahati,1,1,6,-,9,1,0,66.66,stumped,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 Nov 2021,v Chhattisgarh,Guwahati,2,1,0,-,3,0,0,0,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,9 Nov 2021,v Baroda,Guwahati,1,1,83,-,63,6,4,131.74,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Mar 2022,v MI,Brabourne,2,1,38,53,24,4,2,158.33,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 Apr 2022,v GT,Pune,2,1,10,25,7,1,0,142.85,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,7 Apr 2022,v LSG,DY Patil,1,1,61,37,34,9,2,179.41,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,10 Apr 2022,v KKR,Brabourne,1,1,51,44,29,7,2,175.86,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,16 Apr 2022,v RCB,Wankhede,2,1,16,24,13,1,1,123.07,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Apr 2022,v Punjab Kings,Brabourne,2,1,41,35,20,7,1,205,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Apr 2022,v RR,Wankhede,2,1,37,51,27,5,1,137.03,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,28 Apr 2022,v KKR,Wankhede,2,1,0,2,1,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 May 2022,v LSG,Wankhede,2,1,5,7,7,1,0,71.42,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,21 May 2022,v MI,Wankhede,1,1,24,29,23,2,1,104.34,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,11 Oct 2022,v Mizoram,Saurashtra,2,1,55*,-,34,9,1,161.76,not out,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,12 Oct 2022,v M. Pradesh,Rajkot,2,1,29,-,12,5,1,241.66,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,14 Oct 2022,v Assam,Rajkot,1,1,134,-,61,13,9,219.67,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,16 Oct 2022,v Vidarbha,Saurashtra,1,1,19,-,13,3,1,146.15,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,18 Oct 2022,v Rajasthan,Saurashtra,1,1,32,-,17,3,2,188.23,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Oct 2022,v Railways,Rajkot,1,1,10,-,5,0,1,200,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,22 Oct 2022,v Uttarakhand,Saurashtra,1,1,6,-,7,0,0,85.71,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 Nov 2022,v Saurashtra,Eden Gardens,2,1,2,10,5,0,0,40,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,3 Nov 2022,v Vidarbha,Eden Gardens,2,1,34,-,21,2,3,161.9,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 Nov 2022,v Himachal,Eden Gardens,2,1,11,10,8,2,0,137.5,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 Apr 2023,v LSG,Lucknow,2,1,12,24,9,2,0,133.33,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 Apr 2023,v GT,Delhi,1,2,7,17,5,1,0,140,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 Apr 2023,v RR,Guwahati,2,1,0,4,3,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,11 Apr 2023,v MI,Delhi,1,2,15,17,10,3,0,150,caught,2,sub,-,-,-,-
+1070168,Prithvi Shaw,15 Apr 2023,v RCB,Bengaluru,2,2,0,4,2,0,0,0,run out,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Apr 2023,v KKR,Delhi,2,2,13,22,11,2,0,118.18,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,17 May 2023,v Punjab Kings,Dharamsala,1,2,54,74,38,7,1,142.1,caught,2,sub,-,-,-,-
+1070168,Prithvi Shaw,20 May 2023,v CSK,Delhi,2,1,5,8,7,1,0,71.42,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,31 Mar 2024,v CSK,Visakhapatnam,1,1,43,53,27,4,2,159.25,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,3 Apr 2024,v KKR,Visakhapatnam,2,2,10,12,7,2,0,142.85,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,7 Apr 2024,v MI,Wankhede,2,1,66,53,40,8,3,165,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,12 Apr 2024,v LSG,Lucknow,2,1,32,33,22,6,0,145.45,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,17 Apr 2024,v GT,Ahmedabad,2,1,7,16,6,1,0,116.66,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,20 Apr 2024,v SRH,Delhi,2,1,16,3,5,4,0,320,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,24 Apr 2024,v GT,Delhi,1,1,11,21,7,2,0,157.14,caught,2,sub,-,-,-,-
+1070168,Prithvi Shaw,29 Apr 2024,v KKR,Eden Gardens,1,1,13,10,7,3,0,185.71,caught,2,sub,-,-,-,-
+1070168,Prithvi Shaw,23 Nov 2024,v Goa,Hyderabad,1,1,33,-,22,5,1,150,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,27 Nov 2024,v Maharashtra,Hyderabad,2,1,0,-,3,0,0,0,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,29 Nov 2024,v Kerala,Hyderabad,2,1,23,-,13,2,2,176.92,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,1 Dec 2024,v Nagaland,Hyderabad,2,1,40,-,29,3,3,137.93,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,3 Dec 2024,v Services,Hyderabad,1,1,0,-,3,0,0,0,bowled,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,5 Dec 2024,v Andhra,Hyderabad,2,1,34,-,15,4,2,226.66,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,11 Dec 2024,v Vidarbha,Alur,2,1,49,-,26,5,4,188.46,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,13 Dec 2024,v Baroda,Bengaluru,2,1,8,-,9,2,0,88.88,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,15 Dec 2024,v M. Pradesh,Bengaluru,2,1,10,-,6,0,1,166.66,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,26 Nov 2025,v J & K,Eden Gardens,1,1,5,-,5,1,0,100,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,28 Nov 2025,v Hyderabad,Jadavpur Uni,2,1,66,-,36,9,3,183.33,bowled,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,30 Nov 2025,v Chandigarh,Jadavpur Uni,1,1,9,-,6,2,0,150,caught,2,DNB,-,-,-,-
+1070168,Prithvi Shaw,2 Dec 2025,v Bihar,Eden Gardens,2,1,66,-,30,11,1,220,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,4 Dec 2025,v M. Pradesh,Eden Gardens,2,1,5,-,4,1,0,125,caught,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,6 Dec 2025,v UP,Eden Gardens,2,1,28,-,28,3,0,100,run out,1,DNB,-,-,-,-
+1070168,Prithvi Shaw,8 Dec 2025,v Goa,Jadavpur Uni,1,1,4,-,5,1,0,80,bowled,2,DNB,-,-,-,-

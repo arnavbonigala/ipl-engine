@@ -1,0 +1,97 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+232292,Swapnil Singh,6 Apr 2007,v Saurashtra,Brabourne,1,11,5*,7,5,1,0,100,not out,2,DNB,-,-,-,-
+232292,Swapnil Singh,7 Apr 2007,v Maharashtra,Wankhede,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+232292,Swapnil Singh,20 Oct 2010,v Mumbai,Vadodara,1,6,3*,11,5,0,0,60,not out,2,4.0,0,21,3,5.25
+232292,Swapnil Singh,22 Oct 2010,v Gujarat,Vadodara,2,6,1,4,7,0,0,14.28,caught,1,4.0,0,26,2,6.5
+232292,Swapnil Singh,24 Oct 2010,v Saurashtra,Vadodara,2,6,4,14,8,0,0,50,run out,1,4.0,0,36,2,9
+232292,Swapnil Singh,25 Oct 2010,v Maharashtra,Vadodara,2,5,1,2,2,0,0,50,caught,1,4.0,0,30,0,7.5
+232292,Swapnil Singh,20 Oct 2011,v Mumbai,Rajkot,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,1,6.5
+232292,Swapnil Singh,22 Oct 2011,v Gujarat,Rajkot,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+232292,Swapnil Singh,24 Oct 2011,v Saurashtra,Rajkot,2,9,14*,12,10,0,1,140,not out,1,1.0,0,15,0,15
+232292,Swapnil Singh,25 Oct 2011,v Maharashtra,Rajkot,1,7,8,6,5,0,1,160,run out,2,4.0,0,18,1,4.5
+232292,Swapnil Singh,23 Mar 2012,v Karnataka,Brabourne,2,8,9,-,6,0,1,150,bowled,1,4.0,0,29,0,7.25
+232292,Swapnil Singh,25 Mar 2012,v Bengal,Mumbai,2,8,0*,-,1,0,0,0,not out,1,1.0,0,8,1,8
+232292,Swapnil Singh,27 Mar 2012,v Punjab,Brabourne,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+232292,Swapnil Singh,26 Mar 2015,v Gujarat,Pune,1,7,14*,15,10,0,1,140,not out,2,4.0,0,23,0,5.75
+232292,Swapnil Singh,27 Mar 2015,v Saurashtra,Pune,1,7,5*,4,3,0,0,166.66,not out,2,4.0,0,19,6,4.75
+232292,Swapnil Singh,2 Jan 2016,v Assam,Vadodara,1,8,22,13,10,2,2,220,caught,2,3.0,0,15,2,5
+232292,Swapnil Singh,3 Jan 2016,v Railways,Vadodara,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+232292,Swapnil Singh,6 Jan 2016,v Goa,Vadodara,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+232292,Swapnil Singh,7 Jan 2016,v M. Pradesh,Vadodara,1,7,7*,8,2,0,1,350,not out,2,DNB,-,-,-,-
+232292,Swapnil Singh,9 Jan 2016,v Andhra,Vadodara,2,8,13,19,19,2,0,68.42,run out,1,4.0,0,9,1,2.25
+232292,Swapnil Singh,10 Jan 2016,v Delhi,Vadodara,1,8,28*,9,22,3,1,127.27,not out,2,4.0,0,32,2,8
+232292,Swapnil Singh,15 Jan 2016,v Vidarbha,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+232292,Swapnil Singh,16 Jan 2016,v Kerala,Wankhede,1,7,0,2,1,0,0,0,caught,2,2.0,0,20,0,10
+232292,Swapnil Singh,4 May 2016,v KKR,Eden Gardens,2,9,0,3,1,0,0,0,lbw,1,3.0,0,29,0,9.66
+232292,Swapnil Singh,29 Jan 2017,v Mumbai,Vadodara,2,7,35,25,22,5,0,159.09,bowled,1,4.0,0,37,0,9.25
+232292,Swapnil Singh,1 Feb 2017,v Gujarat,Vadodara,1,7,4,7,3,0,0,133.33,run out,2,4.0,0,33,2,8.25
+232292,Swapnil Singh,2 Feb 2017,v Saurashtra,Vadodara,2,8,23,19,13,1,2,176.92,caught,1,4.0,0,25,0,6.25
+232292,Swapnil Singh,4 Feb 2017,v Maharashtra,Vadodara,1,7,15*,10,7,0,2,214.28,not out,2,4.0,0,25,1,6.25
+232292,Swapnil Singh,8 Apr 2017,v Supergiant,Indore,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,1,7
+232292,Swapnil Singh,20 Apr 2017,v MI,Indore,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+232292,Swapnil Singh,9 May 2017,v KKR,Mohali,1,7,2,3,2,0,0,100,bowled,2,2.0,0,19,0,9.5
+232292,Swapnil Singh,14 May 2017,v Supergiant,Pune,1,8,10,18,17,0,0,58.82,caught,2,1.0,0,6,0,6
+232292,Swapnil Singh,7 Jan 2018,v Mumbai,Rajkot,1,5,4*,7,4,0,0,100,not out,2,3.0,0,38,0,12.66
+232292,Swapnil Singh,10 Jan 2018,v Gujarat,Rajkot,1,6,44,43,28,3,2,157.14,lbw,2,3.0,0,27,0,9
+232292,Swapnil Singh,11 Jan 2018,v Saurashtra,Rajkot,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+232292,Swapnil Singh,13 Jan 2018,v Maharashtra,Rajkot,2,5,36*,42,26,2,1,138.46,retired notout,1,4.0,0,27,1,6.75
+232292,Swapnil Singh,24 Jan 2018,v UP,Kolkata,1,5,7*,4,4,0,1,175,not out,2,2.0,0,21,0,10.5
+232292,Swapnil Singh,25 Jan 2018,v Tamil Nadu,Kolkata,2,3,29,32,25,2,1,116,caught,1,3.0,0,22,1,7.33
+232292,Swapnil Singh,21 Feb 2019,v Tripura,Delhi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,8,2,2.66
+232292,Swapnil Singh,22 Feb 2019,v Uttarakhand,Delhi,1,5,0,5,0,0,0,-,run out,2,4.0,0,29,1,7.25
+232292,Swapnil Singh,24 Feb 2019,v Hyderabad,Delhi,2,6,36*,45,29,4,1,124.13,not out,1,4.0,0,24,0,6
+232292,Swapnil Singh,25 Feb 2019,v Services,Delhi,1,6,17,39,22,2,0,77.27,caught,2,4.0,0,16,2,4
+232292,Swapnil Singh,27 Feb 2019,v Puducherry,Delhi,2,6,14,26,12,1,0,116.66,bowled,1,4.0,0,26,1,6.5
+232292,Swapnil Singh,28 Feb 2019,v Maharashtra,Delhi,1,6,4,19,5,0,0,80,caught,2,3.0,0,27,0,9
+232292,Swapnil Singh,2 Mar 2019,v UP,Delhi,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+232292,Swapnil Singh,8 Nov 2019,v Goa,Visakhapatnam,1,4,50,-,44,2,2,113.63,caught,2,3.4,0,26,1,7.09
+232292,Swapnil Singh,9 Nov 2019,v Karnataka,Visakhapatnam,1,4,36,-,21,1,4,171.42,caught,2,1.0,0,12,0,12
+232292,Swapnil Singh,11 Nov 2019,v Uttarakhand,Vizianagaram,1,4,47,-,25,3,4,188,caught,2,4.0,0,25,3,6.25
+232292,Swapnil Singh,12 Nov 2019,v Andhra,Visakhapatnam,2,4,18,-,16,1,1,112.5,caught,1,4.0,0,37,1,9.25
+232292,Swapnil Singh,14 Nov 2019,v Bihar,Visakhapatnam,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,2,8
+232292,Swapnil Singh,15 Nov 2019,v Services,Vizianagaram,1,5,10,-,6,0,1,166.66,bowled,2,4.0,0,25,1,6.25
+232292,Swapnil Singh,21 Nov 2019,v Rajasthan,Surat,1,6,5*,-,2,1,0,250,not out,2,2.0,0,15,0,7.5
+232292,Swapnil Singh,22 Nov 2019,v Delhi,Surat,1,6,17,-,13,1,1,130.76,caught,2,DNB,-,-,-,-
+232292,Swapnil Singh,24 Nov 2019,v Maharashtra,Surat,2,6,8,-,11,0,0,72.72,caught,1,4.0,0,19,1,4.75
+232292,Swapnil Singh,25 Nov 2019,v Haryana,Surat,1,7,25*,-,17,1,1,147.05,not out,2,4.0,0,28,1,7
+232292,Swapnil Singh,4 Nov 2021,v Delhi,Rohtak,2,7,12,18,12,1,0,100,caught,1,4.0,0,14,0,3.5
+232292,Swapnil Singh,5 Nov 2021,v Hyderabad,Sultanpur,2,6,12,23,19,1,0,63.15,caught,1,4.0,0,30,2,7.5
+232292,Swapnil Singh,6 Nov 2021,v Saurashtra,Sultanpur,2,7,16*,9,6,2,1,266.66,not out,1,4.0,0,38,1,9.5
+232292,Swapnil Singh,8 Nov 2021,v UP,Sultanpur,1,6,4,14,8,0,0,50,caught,2,3.0,0,27,0,9
+232292,Swapnil Singh,9 Nov 2021,v Chandigarh,Sultanpur,1,5,9,-,11,0,0,81.81,caught,2,4.0,0,38,0,9.5
+232292,Swapnil Singh,11 Oct 2022,v Railways,Rajkot,2,5,14*,-,7,2,0,200,not out,1,3.0,0,19,0,6.33
+232292,Swapnil Singh,12 Oct 2022,v Assam,Saurashtra,1,6,52,-,40,3,3,130,caught,2,4.0,0,21,0,5.25
+232292,Swapnil Singh,14 Oct 2022,v M. Pradesh,Saurashtra,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+232292,Swapnil Singh,16 Oct 2022,v Rajasthan,Rajkot,2,6,16,-,16,1,1,100,lbw,1,4.0,0,23,2,5.75
+232292,Swapnil Singh,18 Oct 2022,v Vidarbha,Rajkot,2,6,1,-,2,0,0,50,caught,1,4.0,0,26,1,6.5
+232292,Swapnil Singh,20 Oct 2022,v Mizoram,Rajkot,1,5,4,-,7,0,0,57.14,bowled,2,4.0,2,2,1,0.5
+232292,Swapnil Singh,22 Oct 2022,v Mumbai,Saurashtra,2,6,0,-,0,0,0,-,run out,1,3.0,0,21,0,7
+232292,Swapnil Singh,7 May 2023,v GT,Ahmedabad,2,7,2*,14,4,0,0,50,not out,1,1.0,0,7,0,7
+232292,Swapnil Singh,16 May 2023,v MI,Lucknow,1,-,DNB,-,-,-,-,-,-,2,1.0,0,11,0,11
+232292,Swapnil Singh,16 Oct 2023,v Vidarbha,New Chandigarh,1,4,26*,-,9,0,4,288.88,not out,2,2.0,0,24,1,12
+232292,Swapnil Singh,17 Oct 2023,v Maharashtra,New Chandigarh,1,3,8*,-,4,0,1,200,not out,2,2.0,0,12,2,6
+232292,Swapnil Singh,19 Oct 2023,v Jharkhand,Mohali,2,4,19*,-,10,3,0,190,not out,1,2.0,0,15,0,7.5
+232292,Swapnil Singh,23 Oct 2023,v Bengal,Mohali,1,4,15,-,17,0,0,88.23,bowled,2,4.0,0,29,1,7.25
+232292,Swapnil Singh,25 Oct 2023,v Rajasthan,Mohali,1,5,9,-,12,0,0,75,lbw,2,2.0,0,23,0,11.5
+232292,Swapnil Singh,27 Oct 2023,v Puducherry,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+232292,Swapnil Singh,25 Apr 2024,v SRH,Hyderabad,1,8,12,7,6,1,1,200,caught,2,3.0,0,40,2,13.33
+232292,Swapnil Singh,28 Apr 2024,v GT,Ahmedabad,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+232292,Swapnil Singh,4 May 2024,v GT,Bengaluru,2,8,15*,15,9,2,1,166.66,not out,1,1.0,0,1,0,1
+232292,Swapnil Singh,9 May 2024,v Punjab Kings,Dharamsala,1,8,1*,2,1,0,0,100,not out,2,3.0,0,28,2,9.33
+232292,Swapnil Singh,12 May 2024,v DC,Bengaluru,1,8,0,3,1,0,0,0,caught,2,1.0,0,9,1,9
+232292,Swapnil Singh,18 May 2024,v CSK,Bengaluru,1,-,sub,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+232292,Swapnil Singh,22 May 2024,v RR,Ahmedabad,1,8,9*,9,4,0,1,225,not out,2,2.0,0,19,0,9.5
+232292,Swapnil Singh,23 Nov 2024,v Karnataka,Indore,1,5,4,-,6,0,0,66.66,caught,2,3.0,0,28,1,9.33
+232292,Swapnil Singh,25 Nov 2024,v Baroda,Indore,1,6,15,-,15,2,0,100,caught,2,1.0,0,12,1,12
+232292,Swapnil Singh,27 Nov 2024,v Sikkim,Indore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,1,3.75
+232292,Swapnil Singh,29 Nov 2024,v Saurashtra,Indore,2,7,44*,-,24,4,1,183.33,not out,1,4.0,0,33,1,8.25
+232292,Swapnil Singh,1 Dec 2024,v Tripura,Indore,1,8,18*,-,9,3,0,200,not out,2,2.0,0,18,0,9
+232292,Swapnil Singh,3 Dec 2024,v Gujarat,Indore,1,7,8,-,7,0,1,114.28,caught,2,2.0,0,32,0,16
+232292,Swapnil Singh,5 Dec 2024,v Tamil Nadu,Indore,2,6,13,-,10,1,1,130,caught,1,3.0,0,38,0,12.66
+232292,Swapnil Singh,26 Nov 2025,v Saurashtra,Ahmedabad,1,8,0,-,1,0,0,0,caught,2,3.0,0,12,2,4
+232292,Swapnil Singh,28 Nov 2025,v Rajasthan,Ahmedabad,1,7,16*,-,12,1,1,133.33,not out,2,4.0,0,42,3,10.5
+232292,Swapnil Singh,30 Nov 2025,v Jharkhand,Ahmedabad,1,6,7,-,11,0,0,63.63,caught,2,1.0,0,14,0,14
+232292,Swapnil Singh,2 Dec 2025,v Delhi,Ahmedabad,1,5,21,-,20,1,0,105,bowled,2,4.0,0,29,1,7.25
+232292,Swapnil Singh,4 Dec 2025,v Tamil Nadu,Ahmedabad,2,6,23,-,21,0,1,109.52,bowled,1,2.0,0,25,0,12.5
+232292,Swapnil Singh,6 Dec 2025,v Uttarakhand,Ahmedabad,1,6,20*,-,9,0,3,222.22,not out,2,4.0,0,21,3,5.25
+232292,Swapnil Singh,8 Dec 2025,v Karnataka,Ahmedabad,2,5,5,-,7,0,0,71.42,stumped,1,4.0,0,29,1,7.25

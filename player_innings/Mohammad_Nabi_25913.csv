@@ -1,0 +1,486 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+25913,Mohammad Nabi,1 Feb 2010,v Ireland,Colombo (PSS),1,7,2,6,5,0,0,40,caught,2,4.0,1,19,1,4.75
+25913,Mohammad Nabi,3 Feb 2010,v Sri Lanka A,Colombo (SSC),2,5,3,9,7,0,0,42.85,caught,1,4.0,0,27,1,6.75
+25913,Mohammad Nabi,4 Feb 2010,v Canada,Colombo (SSC),2,6,23,15,12,3,0,191.66,caught,1,3.0,0,25,1,8.33
+25913,Mohammad Nabi,9 Feb 2010,v Ireland,Dubai (DICS),1,6,43*,31,25,3,2,172,not out,2,4.0,0,25,2,6.25
+25913,Mohammad Nabi,10 Feb 2010,v Scotland,Abu Dhabi,1,6,0,3,1,0,0,0,caught,2,3.0,0,27,2,9
+25913,Mohammad Nabi,11 Feb 2010,v U.S.A.,Dubai (DICS),1,5,25*,26,18,2,1,138.88,not out,2,3.0,0,22,2,7.33
+25913,Mohammad Nabi,12 Feb 2010,v Netherlands,Dubai (DICS),1,4,1,4,3,0,0,33.33,caught,2,4.0,0,23,3,5.75
+25913,Mohammad Nabi,13 Feb 2010,v U.A.E.,Dubai (DICS),2,6,1,6,2,0,0,50,bowled,1,4.0,0,17,3,4.25
+25913,Mohammad Nabi,13 Feb 2010,v Ireland,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+25913,Mohammad Nabi,1 May 2010,v India,Gros Islet,1,6,0,2,3,0,0,0,caught,2,3.0,0,33,0,11
+25913,Mohammad Nabi,5 May 2010,v South Africa,Bridgetown,2,7,0,6,5,0,0,0,caught,1,4.0,0,33,1,8.25
+25913,Mohammad Nabi,11 Aug 2011,v Trinidad & T,King City (NW),1,5,3,9,9,0,0,33.33,caught,2,3.0,0,22,2,7.33
+25913,Mohammad Nabi,12 Aug 2011,v Canada,King City (NW),1,5,29,43,31,4,0,93.54,caught,2,4.0,2,11,3,2.75
+25913,Mohammad Nabi,28 Sep 2011,v R Rams,Karachi,1,6,16*,10,8,3,0,200,not out,2,4.0,0,36,1,9
+25913,Mohammad Nabi,29 Sep 2011,v Wolves,Karachi,2,7,4,13,7,0,0,57.14,bowled,1,4.0,0,24,2,6
+25913,Mohammad Nabi,30 Sep 2011,v Tigers,Karachi,1,6,34,31,29,2,0,117.24,caught,2,4.0,0,32,2,8
+25913,Mohammad Nabi,13 Mar 2012,v P.N.G.,Dubai (DICS),2,6,52*,-,49,3,0,106.12,not out,1,4.0,0,24,1,6
+25913,Mohammad Nabi,14 Mar 2012,v Netherlands,Dubai (DICS),2,5,22,-,13,3,0,169.23,caught,1,2.0,0,15,0,7.5
+25913,Mohammad Nabi,15 Mar 2012,v Denmark,Sharjah,1,5,15,-,8,1,1,187.5,bowled,2,4.0,0,18,0,4.5
+25913,Mohammad Nabi,16 Mar 2012,v Nepal,Sharjah,1,5,16*,-,8,0,1,200,not out,2,4.0,0,27,2,6.75
+25913,Mohammad Nabi,18 Mar 2012,v Canada,ICCA Dubai,1,6,12,-,6,0,1,200,bowled,2,3.0,0,24,0,8
+25913,Mohammad Nabi,19 Mar 2012,v Hong Kong,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+25913,Mohammad Nabi,20 Mar 2012,v Bermuda,ICCA Dubai,1,5,22,9,13,2,1,169.23,bowled,2,4.0,0,21,0,5.25
+25913,Mohammad Nabi,22 Mar 2012,v Namibia,Dubai (DICS),1,7,18,-,13,1,0,138.46,caught,2,2.0,0,13,0,6.5
+25913,Mohammad Nabi,24 Mar 2012,v Ireland,Dubai (DICS),1,7,1,-,2,0,0,50,caught,2,3.0,0,25,0,8.33
+25913,Mohammad Nabi,6 Sep 2012,v Trinidad & T,Port of Spain,2,5,57,70,36,6,2,158.33,caught,1,4.0,0,36,2,9
+25913,Mohammad Nabi,7 Sep 2012,v BCB XI,Port of Spain,1,5,26*,37,20,2,0,130,not out,2,3.0,0,11,2,3.66
+25913,Mohammad Nabi,8 Sep 2012,v Barbados,Port of Spain,2,4,40,38,27,0,4,148.14,caught,1,4.0,0,23,3,5.75
+25913,Mohammad Nabi,19 Sep 2012,v India,Colombo (RPS),2,5,31,23,17,2,2,182.35,caught,1,4.0,0,35,1,8.75
+25913,Mohammad Nabi,21 Sep 2012,v England,Colombo (RPS),2,6,1,10,6,0,0,16.66,bowled,1,4.0,0,46,0,11.5
+25913,Mohammad Nabi,18 Jan 2013,v Barisal,Mirpur,1,5,2,7,4,0,0,50,caught,2,4.0,0,15,2,3.75
+25913,Mohammad Nabi,20 Jan 2013,v Rajshahi,Mirpur,2,5,3,8,10,0,0,30,stumped,1,4.0,0,18,1,4.5
+25913,Mohammad Nabi,23 Jan 2013,v Khulna,Khulna,2,5,11,12,12,2,0,91.66,caught,1,3.0,0,21,1,7
+25913,Mohammad Nabi,25 Jan 2013,v Dhaka,Khulna,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+25913,Mohammad Nabi,28 Jan 2013,v Chittagong,Chattogram,2,5,43,35,26,4,2,165.38,caught,1,4.0,0,24,0,6
+25913,Mohammad Nabi,29 Jan 2013,v Dhaka,Chattogram,2,5,2,8,5,0,0,40,run out,1,4.0,0,43,1,10.75
+25913,Mohammad Nabi,31 Jan 2013,v Rangpur,Chattogram,2,5,6,19,12,0,0,50,bowled,1,2.0,0,14,1,7
+25913,Mohammad Nabi,5 Feb 2013,v Rajshahi,Mirpur,1,7,17,20,17,2,0,100,caught,2,3.0,0,25,0,8.33
+25913,Mohammad Nabi,7 Feb 2013,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,16,0,16
+25913,Mohammad Nabi,8 Feb 2013,v Chittagong,Mirpur,2,3,35,59,33,5,0,106.06,caught,1,4.0,0,27,3,6.75
+25913,Mohammad Nabi,12 Feb 2013,v Khulna,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,3,7
+25913,Mohammad Nabi,13 Feb 2013,v Barisal,Mirpur,2,8,16*,19,8,3,0,200,not out,1,2.0,0,17,0,8.5
+25913,Mohammad Nabi,15 Feb 2013,v Dhaka,Mirpur,2,7,0*,3,0,0,0,-,not out,1,4.0,0,17,2,4.25
+25913,Mohammad Nabi,18 Feb 2013,v Chittagong,Mirpur,1,5,10,18,15,0,0,66.66,caught,2,4.0,0,42,2,10.5
+25913,Mohammad Nabi,3 Mar 2013,v Scotland,Sharjah,1,6,7,-,7,1,0,100,caught,2,4.0,0,12,2,3
+25913,Mohammad Nabi,4 Mar 2013,v Scotland,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,1,6
+25913,Mohammad Nabi,30 Sep 2013,v Kenya,Sharjah,1,5,26,-,24,1,2,108.33,caught,2,4.0,2,12,0,3
+25913,Mohammad Nabi,11 Oct 2013,v Kenya,Sharjah,2,6,10,-,9,0,1,111.11,lbw,1,4.0,0,14,0,3.5
+25913,Mohammad Nabi,15 Nov 2013,v Netherlands,Sharjah,1,6,6,16,7,1,0,85.71,caught,2,2.0,0,18,2,9
+25913,Mohammad Nabi,16 Nov 2013,v Scotland,Sharjah,1,4,46,40,29,3,4,158.62,caught,2,3.0,0,36,0,12
+25913,Mohammad Nabi,17 Nov 2013,v P.N.G.,Sharjah,2,3,36*,34,22,1,2,163.63,not out,1,4.0,0,32,0,8
+25913,Mohammad Nabi,20 Nov 2013,v Bermuda,ICCA Dubai,2,3,33,18,16,2,3,206.25,caught,1,4.0,0,27,2,6.75
+25913,Mohammad Nabi,21 Nov 2013,v Denmark,ICCA 2 Dubai,2,5,25,13,11,3,2,227.27,lbw,1,4.0,0,31,1,7.75
+25913,Mohammad Nabi,22 Nov 2013,v Nepal,Sharjah,2,3,8*,10,5,0,1,160,not out,1,1.0,0,19,0,19
+25913,Mohammad Nabi,24 Nov 2013,v Kenya,Sharjah,1,5,6,9,9,0,0,66.66,caught,2,4.0,0,22,0,5.5
+25913,Mohammad Nabi,29 Nov 2013,v Nepal,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,0,3.25
+25913,Mohammad Nabi,30 Nov 2013,v Ireland,Abu Dhabi,2,4,6,6,6,1,0,100,caught,1,3.0,0,32,0,10.66
+25913,Mohammad Nabi,8 Dec 2013,v Pakistan,Sharjah,1,5,15,-,10,2,0,150,bowled,2,4.0,0,21,1,5.25
+25913,Mohammad Nabi,16 Mar 2014,v Bangladesh,Mirpur,1,5,3,16,9,0,0,33.33,lbw,2,3.0,0,11,0,3.66
+25913,Mohammad Nabi,18 Mar 2014,v Hong Kong,Chattogram,2,5,6*,12,5,0,0,120,not out,1,4.0,0,27,2,6.75
+25913,Mohammad Nabi,20 Mar 2014,v Nepal,Chattogram,2,6,1,3,2,0,0,50,lbw,1,4.0,0,25,1,6.25
+25913,Mohammad Nabi,9 Jul 2015,v Netherlands,Edinburgh,1,5,33,35,29,1,2,113.79,caught,2,4.0,0,26,2,6.5
+25913,Mohammad Nabi,10 Jul 2015,v U.A.E.,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+25913,Mohammad Nabi,12 Jul 2015,v Scotland,Edinburgh,1,6,33*,24,18,0,3,183.33,not out,2,4.0,0,25,3,6.25
+25913,Mohammad Nabi,15 Jul 2015,v Oman,Edinburgh (Golden),2,5,9,12,10,1,0,90,lbw,1,4.0,0,28,3,7
+25913,Mohammad Nabi,21 Jul 2015,v Hong Kong,Dublin (Malahide),1,6,13,15,8,1,1,162.5,caught,2,4.0,0,42,1,10.5
+25913,Mohammad Nabi,23 Jul 2015,v P.N.G.,Dublin (Malahide),2,5,11,11,9,1,0,122.22,caught,1,4.0,0,12,1,3
+25913,Mohammad Nabi,25 Jul 2015,v Oman,Dublin,2,5,27,31,22,4,0,122.72,caught,1,4.0,0,21,0,5.25
+25913,Mohammad Nabi,26 Oct 2015,v Zimbabwe,Bulawayo,2,5,33*,29,25,0,2,132,not out,1,4.0,0,40,1,10
+25913,Mohammad Nabi,28 Oct 2015,v Zimbabwe,Bulawayo,2,4,15,16,11,1,0,136.36,run out,1,4.0,0,29,0,7.25
+25913,Mohammad Nabi,1 Dec 2015,v Chattogram,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+25913,Mohammad Nabi,3 Dec 2015,v Bulls,Chattogram,1,7,5,10,5,1,0,100,caught,2,1.3,0,15,0,10
+25913,Mohammad Nabi,6 Dec 2015,v Dynamites,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,0,9
+25913,Mohammad Nabi,7 Dec 2015,v Super Stars,Mirpur,2,-,DNB,-,-,-,-,-,-,1,2.5,0,15,3,5.29
+25913,Mohammad Nabi,8 Dec 2015,v Victorians,Mirpur,1,7,12,7,7,0,1,171.42,caught,2,3.0,0,13,2,4.33
+25913,Mohammad Nabi,12 Dec 2015,v Victorians,Mirpur,2,6,12,-,11,1,1,109.09,caught,1,4.0,0,39,1,9.75
+25913,Mohammad Nabi,13 Dec 2015,v Bulls,Mirpur,1,7,8,11,6,1,0,133.33,caught,2,3.0,0,24,0,8
+25913,Mohammad Nabi,8 Jan 2016,v Zimbabwe,Sharjah,1,5,26,-,11,1,3,236.36,caught,2,3.0,0,31,1,10.33
+25913,Mohammad Nabi,10 Jan 2016,v Zimbabwe,Sharjah,1,6,22,-,12,1,2,183.33,bowled,2,2.0,1,10,1,5
+25913,Mohammad Nabi,4 Feb 2016,v United,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+25913,Mohammad Nabi,6 Feb 2016,v Kings,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+25913,Mohammad Nabi,7 Feb 2016,v Zalmi,Dubai (DICS),2,7,9,-,9,1,0,100,caught,1,4.0,0,29,0,7.25
+25913,Mohammad Nabi,8 Feb 2016,v Qalandars,Dubai (DICS),2,6,6,-,6,0,0,100,caught,1,4.0,0,37,0,9.25
+25913,Mohammad Nabi,11 Feb 2016,v United,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,10,1,5
+25913,Mohammad Nabi,13 Feb 2016,v Kings,Sharjah,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,1,5.66
+25913,Mohammad Nabi,14 Feb 2016,v Zalmi,Sharjah,1,8,2,-,10,0,0,20,caught,2,3.0,0,29,0,9.66
+25913,Mohammad Nabi,16 Feb 2016,v Qalandars,Dubai (DICS),2,9,30*,-,12,3,2,250,not out,1,3.0,0,34,0,11.33
+25913,Mohammad Nabi,19 Feb 2016,v U.A.E.,Fatullah,2,5,23,24,18,0,2,127.77,caught,1,4.0,0,36,0,9
+25913,Mohammad Nabi,20 Feb 2016,v Oman,Fatullah,2,5,11,16,12,1,0,91.66,caught,1,4.0,0,30,0,7.5
+25913,Mohammad Nabi,22 Feb 2016,v Hong Kong,Mirpur,1,6,1,5,3,0,0,33.33,caught,2,4.0,0,17,4,4.25
+25913,Mohammad Nabi,8 Mar 2016,v Scotland,Nagpur,1,5,1,6,1,0,0,100,run out,2,4.0,0,27,1,6.75
+25913,Mohammad Nabi,10 Mar 2016,v Hong Kong,Nagpur,2,3,17,16,11,2,0,154.54,bowled,1,4.0,0,20,4,5
+25913,Mohammad Nabi,12 Mar 2016,v Zimbabwe,Nagpur,1,6,52,54,32,4,2,162.5,run out,2,3.0,0,14,1,4.66
+25913,Mohammad Nabi,17 Mar 2016,v Sri Lanka,Eden Gardens,1,5,3,4,4,0,0,75,lbw,2,4.0,1,25,1,6.25
+25913,Mohammad Nabi,20 Mar 2016,v South Africa,Wankhede,2,5,11,21,14,1,0,78.57,caught,1,4.0,0,35,1,8.75
+25913,Mohammad Nabi,23 Mar 2016,v England,Delhi,2,6,12,20,10,0,1,120,caught,1,4.0,0,17,2,4.25
+25913,Mohammad Nabi,27 Mar 2016,v West Indies,Nagpur,1,7,9,21,8,1,0,112.5,caught,2,4.0,0,26,2,6.5
+25913,Mohammad Nabi,8 Nov 2016,v Victorians,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,4,6
+25913,Mohammad Nabi,9 Nov 2016,v Rangpur,Mirpur,1,6,5,8,11,0,0,45.45,caught,2,2.0,0,10,0,5
+25913,Mohammad Nabi,12 Nov 2016,v Khulna,Mirpur,2,7,39,48,23,2,2,169.56,caught,1,4.0,0,22,3,5.5
+25913,Mohammad Nabi,14 Nov 2016,v Bulls,Mirpur,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,0,4.25
+25913,Mohammad Nabi,17 Nov 2016,v Dynamites,Chattogram,2,5,15,16,10,2,0,150,caught,1,3.0,0,18,3,6
+25913,Mohammad Nabi,18 Nov 2016,v Kings,Chattogram,1,6,87*,48,37,6,6,235.13,not out,2,4.0,0,24,1,6
+25913,Mohammad Nabi,21 Nov 2016,v Victorians,Chattogram,2,5,46*,47,24,5,2,191.66,not out,1,3.0,0,35,0,11.66
+25913,Mohammad Nabi,22 Nov 2016,v Bulls,Chattogram,1,5,4,10,4,0,0,100,caught,2,3.0,0,16,3,5.33
+25913,Mohammad Nabi,27 Nov 2016,v Rangpur,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,2,7.75
+25913,Mohammad Nabi,29 Nov 2016,v Khulna,Mirpur,2,7,17*,14,8,2,1,212.5,not out,1,4.0,0,26,1,6.5
+25913,Mohammad Nabi,2 Dec 2016,v Dynamites,Mirpur,1,6,0,6,2,0,0,0,caught,2,2.0,0,2,1,1
+25913,Mohammad Nabi,3 Dec 2016,v Kings,Mirpur,1,7,12,20,7,0,1,171.42,stumped,2,4.0,0,30,0,7.5
+25913,Mohammad Nabi,6 Dec 2016,v Kings,Mirpur,1,6,5,12,6,0,0,83.33,run out,2,3.0,0,30,1,10
+25913,Mohammad Nabi,14 Dec 2016,v U.A.E.,ICCA Dubai,1,5,26,-,23,2,0,113.04,caught,2,2.0,0,18,0,9
+25913,Mohammad Nabi,16 Dec 2016,v U.A.E.,Dubai (DICS),2,6,13*,-,13,0,0,100,not out,1,4.0,0,44,0,11
+25913,Mohammad Nabi,18 Dec 2016,v U.A.E.,ICCA Dubai,1,7,7*,-,6,0,0,116.66,not out,2,4.0,0,30,3,7.5
+25913,Mohammad Nabi,14 Jan 2017,v Ireland,Abu Dhabi,2,5,26*,-,17,1,2,152.94,not out,1,4.0,0,27,2,6.75
+25913,Mohammad Nabi,16 Jan 2017,v U.A.E.,Abu Dhabi,2,5,11,-,8,1,0,137.5,stumped,1,4.0,0,22,0,5.5
+25913,Mohammad Nabi,19 Jan 2017,v Namibia,Dubai (DICS),1,6,13,-,7,0,1,185.71,caught,2,2.0,0,6,1,3
+25913,Mohammad Nabi,20 Jan 2017,v Oman,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+25913,Mohammad Nabi,20 Jan 2017,v Ireland,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,2.2,0,10,4,4.28
+25913,Mohammad Nabi,8 Mar 2017,v Ireland,Greater Noida,2,5,1,6,2,0,0,50,caught,1,4.0,0,48,0,12
+25913,Mohammad Nabi,10 Mar 2017,v Ireland,Greater Noida,1,7,34,20,15,4,2,226.66,caught,2,2.0,0,14,0,7
+25913,Mohammad Nabi,12 Mar 2017,v Ireland,Greater Noida,1,7,89,31,30,6,9,296.66,run out,2,3.2,0,43,1,12.9
+25913,Mohammad Nabi,17 Apr 2017,v Kings XI,Hyderabad,1,7,2,3,3,0,0,66.66,caught,2,4.0,0,28,1,7
+25913,Mohammad Nabi,8 May 2017,v MI,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,1,3.25
+25913,Mohammad Nabi,13 May 2017,v Guj Lions,Kanpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,17,0,5.66
+25913,Mohammad Nabi,30 May 2017,v WICB Pres XI,Basseterre,1,5,14,-,15,1,0,93.33,caught,2,4.0,0,20,2,5
+25913,Mohammad Nabi,2 Jun 2017,v West Indies,Basseterre,1,6,2,-,6,0,0,33.33,caught,2,3.0,0,23,0,7.66
+25913,Mohammad Nabi,3 Jun 2017,v West Indies,Basseterre,2,5,8,-,11,1,0,72.72,run out,1,2.0,0,21,1,10.5
+25913,Mohammad Nabi,5 Jun 2017,v West Indies,Basseterre,1,4,38,-,30,2,2,126.66,caught,2,4.0,0,33,1,8.25
+25913,Mohammad Nabi,5 Aug 2017,v Amazon,Lauderhill,2,8,5*,-,6,0,0,83.33,not out,1,4.0,0,17,0,4.25
+25913,Mohammad Nabi,6 Aug 2017,v Amazon,Lauderhill,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+25913,Mohammad Nabi,12 Aug 2017,v Stars,Gros Islet,1,7,24*,-,9,4,1,266.66,not out,2,4.0,0,15,3,3.75
+25913,Mohammad Nabi,14 Aug 2017,v Trinbago,Port of Spain,1,7,17,-,8,2,1,212.5,caught,2,3.0,1,12,2,4
+25913,Mohammad Nabi,18 Aug 2017,v Tridents,Basseterre,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,0,5.75
+25913,Mohammad Nabi,19 Aug 2017,v Stars,Basseterre,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+25913,Mohammad Nabi,21 Aug 2017,v Tallawahs,Basseterre,1,4,29,-,12,1,3,241.66,caught,2,4.0,0,31,1,7.75
+25913,Mohammad Nabi,23 Aug 2017,v Trinbago,Basseterre,1,-,DNB,-,-,-,-,-,-,2,1.0,0,23,0,23
+25913,Mohammad Nabi,30 Aug 2017,v Tallawahs,Kingston,2,7,4,-,7,0,0,57.14,caught,1,4.0,0,24,1,6
+25913,Mohammad Nabi,3 Sep 2017,v Tridents,Bridgetown,2,-,DNB,-,-,-,-,-,-,1,3.0,0,23,1,7.66
+25913,Mohammad Nabi,5 Sep 2017,v Trinbago,Tarouba,1,6,1,-,3,0,0,33.33,bowled,2,2.0,0,18,0,9
+25913,Mohammad Nabi,9 Sep 2017,v Trinbago,Tarouba,1,8,18*,-,5,1,2,360,not out,2,1.0,0,19,0,19
+25913,Mohammad Nabi,12 Sep 2017,v BEAD,Kabul,1,5,7,7,5,1,0,140,caught,2,4.0,0,30,1,7.5
+25913,Mohammad Nabi,13 Sep 2017,v BDD,Kabul,2,5,25,14,10,0,3,250,caught,1,4.0,0,37,2,9.25
+25913,Mohammad Nabi,14 Sep 2017,v Amo Sharks,Kabul,2,4,12*,13,8,0,1,150,not out,1,4.0,0,24,2,6
+25913,Mohammad Nabi,16 Sep 2017,v Kabul Eagles,Kabul,2,7,4,7,6,0,0,66.66,caught,1,4.0,0,30,0,7.5
+25913,Mohammad Nabi,17 Sep 2017,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+25913,Mohammad Nabi,20 Sep 2017,v BEAD,Kabul,1,5,4,10,5,0,0,80,caught,2,4.0,0,23,2,5.75
+25913,Mohammad Nabi,22 Sep 2017,v BEAD,Kabul,2,7,27,20,12,2,2,225,caught,1,4.0,0,19,2,4.75
+25913,Mohammad Nabi,5 Nov 2017,v Sylhet,Sylhet,1,6,5,-,9,0,0,55.55,caught,2,4.0,0,22,1,5.5
+25913,Mohammad Nabi,7 Nov 2017,v Chattogram,Sylhet,2,-,DNB,-,-,-,-,-,-,1,2.0,0,18,1,9
+25913,Mohammad Nabi,12 Nov 2017,v Kings,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,3,3.75
+25913,Mohammad Nabi,14 Nov 2017,v Chattogram,Mirpur,2,6,0*,-,4,0,0,0,not out,1,3.0,0,19,1,6.33
+25913,Mohammad Nabi,21 Dec 2017,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+25913,Mohammad Nabi,23 Dec 2017,v Heat,Melbourne (Docklands),2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+25913,Mohammad Nabi,29 Dec 2017,v Scorchers,Melbourne (Docklands),1,8,13,-,16,0,0,81.25,caught,2,4.0,0,16,1,4
+25913,Mohammad Nabi,3 Jan 2018,v Sixers,Geelong,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,2,5.5
+25913,Mohammad Nabi,6 Jan 2018,v Stars,Melbourne,2,4,52,-,30,2,2,173.33,caught,1,4.0,0,27,1,6.75
+25913,Mohammad Nabi,8 Jan 2018,v Scorchers,W.A.C.A,1,-,DNB,-,-,-,-,-,-,2,3.5,0,30,1,7.82
+25913,Mohammad Nabi,12 Jan 2018,v Stars,Melbourne (Docklands),2,6,23,-,17,3,0,135.29,caught,1,4.0,0,15,2,3.75
+25913,Mohammad Nabi,5 Feb 2018,v Zimbabwe,Sharjah,2,4,40*,-,27,4,3,148.14,not out,1,1.0,0,2,1,2
+25913,Mohammad Nabi,6 Feb 2018,v Zimbabwe,Sharjah,1,4,45,-,26,2,4,173.07,caught,2,3.0,0,24,1,8
+25913,Mohammad Nabi,24 Apr 2018,v MI,Wankhede,1,7,14,-,10,2,0,140,bowled,2,3.0,0,23,1,7.66
+25913,Mohammad Nabi,26 Apr 2018,v Kings XI,Hyderabad,1,7,4,-,2,1,0,200,caught,2,2.0,0,24,0,12
+25913,Mohammad Nabi,3 Jun 2018,v Bangladesh,Dehradun,1,5,0,1,2,0,0,0,bowled,2,4.0,0,21,2,5.25
+25913,Mohammad Nabi,5 Jun 2018,v Bangladesh,Dehradun,2,5,31*,-,15,3,2,206.66,not out,1,4.0,0,19,2,4.75
+25913,Mohammad Nabi,7 Jun 2018,v Bangladesh,Dehradun,1,5,3,-,5,0,0,60,caught,2,4.0,0,20,0,5
+25913,Mohammad Nabi,4 Jul 2018,v Northants,Northampton,2,5,19,26,13,3,0,146.15,caught,1,4.0,0,44,0,11
+25913,Mohammad Nabi,6 Jul 2018,v Durham,Leicester,2,6,7,12,10,0,0,70,caught,1,4.0,0,24,1,6
+25913,Mohammad Nabi,8 Jul 2018,v Notts,Leicester,2,6,32,26,18,4,1,177.77,bowled,1,4.0,0,24,2,6
+25913,Mohammad Nabi,13 Jul 2018,v Bears,Birmingham,1,6,11*,13,10,0,0,110,not out,2,2.2,0,13,2,5.57
+25913,Mohammad Nabi,18 Jul 2018,v Lancashire,Leicester,1,6,3,6,6,0,0,50,caught,2,4.0,0,32,0,8
+25913,Mohammad Nabi,20 Jul 2018,v Notts,Nottingham,1,6,4,5,4,0,0,100,caught,2,4.0,0,27,1,6.75
+25913,Mohammad Nabi,27 Jul 2018,v Derbyshire,Leicester,1,6,18,13,10,1,2,180,bowled,2,3.0,0,23,0,7.66
+25913,Mohammad Nabi,31 Jul 2018,v Yorkshire,Leeds,2,6,18,29,22,2,0,81.81,caught,1,4.0,0,39,1,9.75
+25913,Mohammad Nabi,2 Aug 2018,v Bears,Leicester,1,7,19,21,14,2,1,135.71,caught,2,3.0,0,18,1,6
+25913,Mohammad Nabi,3 Aug 2018,v Lancashire,Manchester,2,7,86*,33,32,4,8,268.75,not out,1,4.0,0,31,0,7.75
+25913,Mohammad Nabi,8 Aug 2018,v Durham,Chester-le-Street,2,6,3,12,9,0,0,33.33,caught,1,4.0,0,27,1,6.75
+25913,Mohammad Nabi,10 Aug 2018,v Worcs,Leicester,1,6,26,26,23,2,1,113.04,run out,2,4.0,0,21,0,5.25
+25913,Mohammad Nabi,11 Aug 2018,v Derbyshire,Derby,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+25913,Mohammad Nabi,20 Aug 2018,v Ireland,Bready,1,5,7,9,5,0,1,140,caught,2,3.0,0,33,1,11
+25913,Mohammad Nabi,22 Aug 2018,v Ireland,Bready,1,6,12,13,5,1,1,240,caught,2,3.0,0,19,1,6.33
+25913,Mohammad Nabi,6 Oct 2018,v Kabul Zwanan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+25913,Mohammad Nabi,7 Oct 2018,v Knights,Sharjah,1,5,18,-,13,0,1,138.46,stumped,2,3.0,0,19,1,6.33
+25913,Mohammad Nabi,10 Oct 2018,v Panthers,Sharjah,2,6,40,-,15,2,4,266.66,caught,1,4.0,0,37,0,9.25
+25913,Mohammad Nabi,11 Oct 2018,v KingsLeopard,Sharjah,1,7,20,-,18,1,1,111.11,caught,2,4.0,0,31,0,7.75
+25913,Mohammad Nabi,13 Oct 2018,v Panthers,Sharjah,1,6,8*,-,3,0,1,266.66,not out,2,2.0,0,29,0,14.5
+25913,Mohammad Nabi,14 Oct 2018,v Kabul Zwanan,Sharjah,1,5,37,-,15,3,3,246.66,lbw,2,4.0,0,27,1,6.75
+25913,Mohammad Nabi,17 Oct 2018,v KingsLeopard,Sharjah,1,6,1,-,3,0,0,33.33,bowled,2,3.0,0,42,0,14
+25913,Mohammad Nabi,18 Oct 2018,v Knights,Sharjah,2,-,DNB,-,-,-,-,-,-,1,2.0,0,7,0,3.5
+25913,Mohammad Nabi,19 Oct 2018,v KingsLeopard,Sharjah,1,4,47,-,16,2,5,293.75,caught,2,3.1,0,12,4,3.78
+25913,Mohammad Nabi,21 Oct 2018,v Kabul Zwanan,Sharjah,2,7,6,-,5,1,0,120,caught,1,4.0,0,30,1,7.5
+25913,Mohammad Nabi,20 Dec 2018,v Scorchers,Melbourne (Docklands),2,6,35,-,27,4,2,129.62,caught,1,1.0,0,12,0,12
+25913,Mohammad Nabi,23 Dec 2018,v Strikers,Adelaide,2,6,48*,-,30,4,2,160,not out,1,3.0,0,21,1,7
+25913,Mohammad Nabi,29 Dec 2018,v Sixers,Melbourne (Docklands),2,5,8,-,13,0,0,61.53,caught,1,2.0,0,17,1,8.5
+25913,Mohammad Nabi,1 Jan 2019,v Stars,Melbourne,1,4,6,-,8,0,0,75,caught,2,2.0,0,22,0,11
+25913,Mohammad Nabi,3 Jan 2019,v Strikers,Geelong,2,6,2,-,4,0,0,50,bowled,1,3.0,0,22,0,7.33
+25913,Mohammad Nabi,7 Jan 2019,v Hurricanes,Melbourne (Docklands),2,5,26*,-,22,2,1,118.18,not out,1,2.0,0,13,0,6.5
+25913,Mohammad Nabi,10 Jan 2019,v Heat,Brisbane,2,-,DNB,-,-,-,-,-,-,1,2.0,0,14,0,7
+25913,Mohammad Nabi,13 Jan 2019,v Heat,Geelong,2,6,9,-,8,0,1,112.5,caught,1,3.0,0,28,0,9.33
+25913,Mohammad Nabi,16 Jan 2019,v Sixers,Sydney,2,5,6*,-,1,0,1,600,not out,1,4.0,0,25,4,6.25
+25913,Mohammad Nabi,19 Jan 2019,v Stars,Melbourne (Docklands),1,6,28,-,33,2,0,84.84,caught,2,2.0,0,9,1,4.5
+25913,Mohammad Nabi,22 Jan 2019,v Thunder,Sydney,1,7,4,-,4,1,0,100,caught,2,2.0,0,12,0,6
+25913,Mohammad Nabi,28 Jan 2019,v Scorchers,Perth,1,4,17,-,13,1,1,130.76,caught,2,1.0,0,12,0,12
+25913,Mohammad Nabi,30 Jan 2019,v Thunder,Melbourne (Docklands),1,5,36,-,34,2,1,105.88,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,7 Feb 2019,v Hurricanes,Hobart,2,5,3,-,4,0,0,75,caught,1,4.0,0,22,1,5.5
+25913,Mohammad Nabi,21 Feb 2019,v Ireland,Dehradun,2,5,49*,-,40,5,1,122.5,not out,1,4.0,0,16,2,4
+25913,Mohammad Nabi,23 Feb 2019,v Ireland,Dehradun,1,4,17,-,5,1,2,340,bowled,2,3.0,0,36,0,12
+25913,Mohammad Nabi,24 Feb 2019,v Ireland,Dehradun,1,5,81,-,36,6,7,225,caught,2,4.0,0,28,0,7
+25913,Mohammad Nabi,31 Mar 2019,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,11,4,2.75
+25913,Mohammad Nabi,4 Apr 2019,v DC,Delhi,2,7,17*,12,9,2,1,188.88,not out,1,4.0,0,21,2,5.25
+25913,Mohammad Nabi,6 Apr 2019,v MI,Hyderabad,2,7,11,28,14,0,1,78.57,caught,1,4.0,0,13,1,3.25
+25913,Mohammad Nabi,8 Apr 2019,v Kings XI,Mohali,1,4,12,13,7,0,0,171.42,run out,2,3.5,0,42,0,10.95
+25913,Mohammad Nabi,29 Apr 2019,v Kings XI,Hyderabad,1,4,20,21,10,0,2,200,bowled,2,3.0,0,28,0,9.33
+25913,Mohammad Nabi,2 May 2019,v MI,Wankhede,2,7,31,33,20,2,2,155,caught,1,4.0,0,24,1,6
+25913,Mohammad Nabi,4 May 2019,v RCB,Bengaluru,1,7,4,6,3,1,0,133.33,caught,2,2.2,0,26,0,11.14
+25913,Mohammad Nabi,8 May 2019,v DC,Visakhapatnam,1,6,20,22,13,3,1,153.84,caught,2,4.0,0,29,0,7.25
+25913,Mohammad Nabi,20 Jul 2019,v Somerset,Canterbury,1,4,34,29,20,1,4,170,caught,2,4.0,0,29,0,7.25
+25913,Mohammad Nabi,21 Jul 2019,v Hampshire,Southampton,2,4,4,3,4,1,0,100,caught,1,4.0,0,21,1,5.25
+25913,Mohammad Nabi,26 Jul 2019,v Essex,Canterbury,1,5,0,4,1,0,0,0,stumped,2,4.0,0,24,1,6
+25913,Mohammad Nabi,30 Jul 2019,v Surrey,The Oval,2,3,43*,12,12,2,5,358.33,not out,1,1.0,0,12,1,12
+25913,Mohammad Nabi,1 Aug 2019,v Middlesex,Lord's,1,5,7,12,9,0,0,77.77,bowled,2,4.0,0,32,2,8
+25913,Mohammad Nabi,2 Aug 2019,v Sussex,Hove,1,5,43,36,29,4,2,148.27,caught,2,2.0,0,17,0,8.5
+25913,Mohammad Nabi,4 Aug 2019,v Hampshire,Beckenham,2,5,13,20,15,0,0,86.66,caught,1,4.0,0,17,1,4.25
+25913,Mohammad Nabi,7 Aug 2019,v Gloucs,Bristol,1,5,3,9,5,0,0,60,caught,2,4.0,0,26,1,6.5
+25913,Mohammad Nabi,10 Aug 2019,v Somerset,Taunton,2,5,0,5,1,0,0,0,caught,1,4.0,0,46,1,11.5
+25913,Mohammad Nabi,14 Sep 2019,v Zimbabwe,Mirpur,1,6,38,-,18,0,4,211.11,caught,2,2.0,0,9,0,4.5
+25913,Mohammad Nabi,15 Sep 2019,v Bangladesh,Mirpur,1,6,84*,-,54,3,7,155.55,not out,2,2.0,0,11,0,5.5
+25913,Mohammad Nabi,20 Sep 2019,v Zimbabwe,Chattogram,1,5,4,-,2,1,0,200,caught,2,4.0,0,40,0,10
+25913,Mohammad Nabi,21 Sep 2019,v Bangladesh,Chattogram,1,5,4,-,6,0,0,66.66,lbw,2,3.0,0,24,0,8
+25913,Mohammad Nabi,8 Oct 2019,v BDD,Kabul,1,5,8,16,10,0,0,80,caught,2,4.0,0,35,3,8.75
+25913,Mohammad Nabi,9 Oct 2019,v BEAD,Kabul,1,4,2,4,4,0,0,50,caught,2,3.0,0,34,1,11.33
+25913,Mohammad Nabi,11 Oct 2019,v SGT,Kabul,2,6,52,44,29,4,3,179.31,caught,1,3.0,0,26,0,8.66
+25913,Mohammad Nabi,13 Oct 2019,v Kabul Eagles,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,10,0,2.5
+25913,Mohammad Nabi,14 Oct 2019,v Amo Sharks,Kabul,1,4,48,48,35,3,2,137.14,caught,2,4.0,0,18,0,4.5
+25913,Mohammad Nabi,16 Oct 2019,v BEAD,Kabul,2,5,0*,1,0,0,0,-,not out,1,4.0,0,35,1,8.75
+25913,Mohammad Nabi,18 Oct 2019,v BEAD,Kabul,2,4,30,29,21,3,1,142.85,caught,1,4.0,0,34,1,8.5
+25913,Mohammad Nabi,14 Nov 2019,v West Indies,Lucknow,2,6,7,-,9,0,0,77.77,caught,1,3.0,0,19,0,6.33
+25913,Mohammad Nabi,16 Nov 2019,v West Indies,Lucknow,1,7,3,-,6,0,0,50,caught,2,3.0,0,18,0,6
+25913,Mohammad Nabi,17 Nov 2019,v West Indies,Lucknow,1,7,15,-,7,1,1,214.28,caught,2,1.0,0,13,0,13
+25913,Mohammad Nabi,11 Dec 2019,v Warriors,Mirpur,2,6,11,-,10,1,0,110,caught,1,3.0,0,14,1,4.66
+25913,Mohammad Nabi,14 Dec 2019,v Chattogram,Mirpur,1,5,21,-,12,1,1,175,caught,2,4.0,0,30,1,7.5
+25913,Mohammad Nabi,18 Dec 2019,v Warriors,Chattogram,1,5,26,-,20,3,0,130,bowled,2,4.0,0,25,1,6.25
+25913,Mohammad Nabi,20 Dec 2019,v Khulna,Chattogram,1,6,4,-,7,0,0,57.14,caught,2,2.0,0,21,0,10.5
+25913,Mohammad Nabi,21 Dec 2019,v Chattogram,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+25913,Mohammad Nabi,27 Dec 2019,v Khulna,Mirpur,2,6,7,-,14,0,0,50,caught,1,4.0,0,16,1,4
+25913,Mohammad Nabi,30 Dec 2019,v Thunder,Mirpur,2,5,18*,-,12,2,1,150,not out,1,4.0,0,31,1,7.75
+25913,Mohammad Nabi,31 Dec 2019,v Royals,Mirpur,1,5,16,-,12,1,1,133.33,caught,2,4.0,0,29,1,7.25
+25913,Mohammad Nabi,2 Jan 2020,v Royals,Sylhet,2,6,5,-,7,0,0,71.42,caught,1,4.0,0,26,1,6.5
+25913,Mohammad Nabi,3 Jan 2020,v Thunder,Sylhet,1,5,23,-,17,0,2,135.29,caught,2,4.0,0,27,1,6.75
+25913,Mohammad Nabi,8 Jan 2020,v Platoon,Mirpur,2,7,12,-,14,0,1,85.71,caught,1,4.0,0,21,2,5.25
+25913,Mohammad Nabi,12 Jan 2020,v Strikers,Adelaide,2,5,6,-,11,0,0,54.54,caught,1,4.0,0,33,1,8.25
+25913,Mohammad Nabi,15 Jan 2020,v Thunder,Canberra,1,6,11*,-,3,1,1,366.66,not out,2,3.0,0,35,1,11.66
+25913,Mohammad Nabi,19 Jan 2020,v Heat,Brisbane,1,6,22*,-,15,1,1,146.66,not out,2,1.0,0,24,0,24
+25913,Mohammad Nabi,21 Jan 2020,v Hurricanes,Melbourne (Docklands),2,5,63,-,30,4,4,210,caught,1,4.0,0,24,1,6
+25913,Mohammad Nabi,25 Jan 2020,v Sixers,Sydney,1,5,20,-,13,2,0,153.84,caught,2,3.0,0,27,1,9
+25913,Mohammad Nabi,27 Jan 2020,v Heat,Melbourne (Docklands),2,5,38*,-,28,3,1,135.71,not out,1,4.0,0,23,1,5.75
+25913,Mohammad Nabi,6 Mar 2020,v Ireland,Greater Noida,2,-,DNB,-,-,-,-,-,-,1,1.0,0,14,0,14
+25913,Mohammad Nabi,8 Mar 2020,v Ireland,Greater Noida,1,4,27,-,17,2,1,158.82,caught,2,3.0,0,18,0,6
+25913,Mohammad Nabi,10 Mar 2020,v Ireland,Greater Noida,2,5,4,-,8,0,0,50,caught,1,DNB,-,-,-,-
+25913,Mohammad Nabi,19 Aug 2020,v Tallawahs,Tarouba,1,6,13,-,9,1,1,144.44,caught,2,2.0,0,13,0,6.5
+25913,Mohammad Nabi,20 Aug 2020,v Tridents,Tarouba,2,4,15,-,6,1,1,250,caught,1,4.0,0,19,1,4.75
+25913,Mohammad Nabi,22 Aug 2020,v Patriots,Tarouba,1,6,35*,-,22,1,3,159.09,not out,2,4.0,0,17,1,4.25
+25913,Mohammad Nabi,23 Aug 2020,v Amazon,Tarouba,1,6,27,-,24,2,1,112.5,caught,2,4.0,0,17,1,4.25
+25913,Mohammad Nabi,26 Aug 2020,v Trinbago,Port of Spain,1,6,30*,-,22,2,1,136.36,not out,2,2.0,0,15,1,7.5
+25913,Mohammad Nabi,27 Aug 2020,v Patriots,Port of Spain,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,5,3.75
+25913,Mohammad Nabi,30 Aug 2020,v Tridents,Port of Spain,1,6,2,-,6,0,0,33.33,caught,2,4.0,0,18,1,4.5
+25913,Mohammad Nabi,2 Sep 2020,v Amazon,Tarouba,1,6,13,-,14,2,0,92.85,caught,2,4.0,0,23,1,5.75
+25913,Mohammad Nabi,5 Sep 2020,v Trinbago,Tarouba,2,4,17,-,13,0,2,130.76,caught,1,3.0,0,16,0,5.33
+25913,Mohammad Nabi,6 Sep 2020,v Tallawahs,Tarouba,1,5,2,-,6,0,0,33.33,caught,2,3.0,0,29,0,9.66
+25913,Mohammad Nabi,8 Sep 2020,v Amazon,Tarouba,2,-,DNB,-,-,-,-,-,-,1,3.0,1,6,1,2
+25913,Mohammad Nabi,10 Sep 2020,v Trinbago,Tarouba,1,6,2,-,3,0,0,66.66,caught,2,3.0,0,16,0,5.33
+25913,Mohammad Nabi,26 Sep 2020,v KKR,Abu Dhabi,1,5,11*,-,8,2,0,137.5,not out,2,4.0,0,23,0,5.75
+25913,Mohammad Nabi,19 Dec 2020,v Hurricanes,Hobart,1,5,14,-,12,2,0,116.66,lbw,2,3.0,0,26,0,8.66
+25913,Mohammad Nabi,26 Dec 2020,v Thunder,Canberra,2,6,1,-,5,0,0,20,caught,1,2.0,0,35,1,17.5
+25913,Mohammad Nabi,29 Dec 2020,v Sixers,Carrara,1,5,18,-,11,0,2,163.63,caught,2,2.0,0,11,2,5.5
+25913,Mohammad Nabi,1 Jan 2021,v Thunder,Carrara,1,5,33,-,24,1,3,137.5,caught,2,1.0,0,10,0,10
+25913,Mohammad Nabi,3 Jan 2021,v Scorchers,Perth,2,5,5,-,9,0,0,55.55,caught,1,2.0,0,17,0,8.5
+25913,Mohammad Nabi,5 Jan 2021,v Strikers,Adelaide,2,4,7,-,16,0,0,43.75,bowled,1,4.0,0,32,1,8
+25913,Mohammad Nabi,8 Jan 2021,v Strikers,Adelaide,2,4,71*,-,41,9,2,173.17,not out,1,1.0,0,9,0,9
+25913,Mohammad Nabi,20 Feb 2021,v Gladiators,Karachi,2,5,30*,15,14,2,3,214.28,not out,1,DNB,-,-,-,-
+25913,Mohammad Nabi,24 Feb 2021,v United,Karachi,1,4,7,9,5,0,1,140,caught,2,4.0,0,26,1,6.5
+25913,Mohammad Nabi,27 Feb 2021,v Sultans,Karachi,2,5,13*,17,8,2,0,162.5,not out,1,1.0,0,15,0,15
+25913,Mohammad Nabi,28 Feb 2021,v Qalandars,Karachi,1,5,57,59,35,4,3,162.85,caught,2,4.0,0,31,0,7.75
+25913,Mohammad Nabi,3 Mar 2021,v Zalmi,Karachi,2,5,67,59,35,8,4,191.42,caught,1,2.0,0,12,0,6
+25913,Mohammad Nabi,17 Mar 2021,v Zimbabwe,Abu Dhabi,1,4,7,19,11,0,0,63.63,caught,2,2.0,0,24,0,12
+25913,Mohammad Nabi,19 Mar 2021,v Zimbabwe,Abu Dhabi,1,5,40,25,15,2,4,266.66,caught,2,3.0,0,20,2,6.66
+25913,Mohammad Nabi,20 Mar 2021,v Zimbabwe,Abu Dhabi,1,5,2,-,5,0,0,40,caught,2,4.0,0,29,1,7.25
+25913,Mohammad Nabi,11 Apr 2021,v KKR,Chennai,2,5,14,17,11,2,0,127.27,caught,1,4.0,0,32,2,8
+25913,Mohammad Nabi,2 May 2021,v RR,Delhi,2,6,17,8,5,1,2,340,caught,1,1.0,0,21,0,21
+25913,Mohammad Nabi,17 Jun 2021,v Derbyshire,Derby,1,7,20,17,15,0,2,133.33,caught,2,4.0,0,33,0,8.25
+25913,Mohammad Nabi,20 Jun 2021,v Leics,Northampton,2,5,32,31,26,2,2,123.07,lbw,1,4.0,0,26,0,6.5
+25913,Mohammad Nabi,23 Jun 2021,v Durham,Chester-le-Street,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,2,6
+25913,Mohammad Nabi,25 Jun 2021,v Lancashire,Northampton,2,4,27*,34,19,3,0,142.1,not out,1,4.0,0,18,0,4.5
+25913,Mohammad Nabi,26 Jun 2021,v Yorkshire,Leeds,2,4,4,8,6,0,0,66.66,caught,1,4.0,0,23,1,5.75
+25913,Mohammad Nabi,29 Jun 2021,v Leics,Leicester,2,5,8,8,6,0,1,133.33,caught,1,4.0,0,18,1,4.5
+25913,Mohammad Nabi,30 Jun 2021,v Durham,Northampton,1,4,5,12,6,0,0,83.33,bowled,2,4.0,0,25,2,6.25
+25913,Mohammad Nabi,9 Jul 2021,v Lancashire,Manchester,1,5,27,32,26,0,1,103.84,lbw,2,4.0,0,26,1,6.5
+25913,Mohammad Nabi,18 Jul 2021,v Bears,Birmingham,2,5,8,9,7,1,0,114.28,caught,1,4.0,0,23,2,5.75
+25913,Mohammad Nabi,23 Jul 2021,v Phoenix,Birmingham,1,7,6*,8,4,1,0,150,not out,2,4.0,0,20,1,6
+25913,Mohammad Nabi,25 Jul 2021,v Invincibles,Lord's,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+25913,Mohammad Nabi,29 Jul 2021,v Rockets,Lord's,2,3,10,4,8,0,1,125,caught,1,4.0,0,20,2,6
+25913,Mohammad Nabi,1 Aug 2021,v Brave,Lord's,2,6,9,26,12,0,0,75,caught,1,4.0,0,29,0,8.7
+25913,Mohammad Nabi,3 Aug 2021,v N S-Chargers,Lord's,2,5,2,7,4,0,0,50,caught,1,3.0,0,19,1,7.6
+25913,Mohammad Nabi,10 Aug 2021,v Originals,Manchester,1,7,6,7,4,1,0,150,bowled,2,4.0,0,19,2,5.7
+25913,Mohammad Nabi,8 Oct 2021,v MI,Abu Dhabi,2,4,3,7,4,0,0,75,caught,1,3.0,0,33,0,11
+25913,Mohammad Nabi,25 Oct 2021,v Scotland,Sharjah,1,5,11*,10,4,2,0,275,not out,2,1.0,0,11,0,11
+25913,Mohammad Nabi,29 Oct 2021,v Pakistan,Dubai (DICS),1,7,35*,54,32,5,0,109.37,not out,2,4.0,0,36,1,9
+25913,Mohammad Nabi,31 Oct 2021,v Namibia,Abu Dhabi,1,6,32*,24,17,5,1,188.23,not out,2,2.0,0,17,0,8.5
+25913,Mohammad Nabi,3 Nov 2021,v India,Abu Dhabi,2,6,35,42,32,2,1,109.37,caught,1,1.0,0,7,0,7
+25913,Mohammad Nabi,7 Nov 2021,v New Zealand,Abu Dhabi,1,6,14,35,20,0,0,70,caught,2,4.0,0,26,0,6.5
+25913,Mohammad Nabi,7 Dec 2021,v Strikers,Melbourne (Docklands),1,5,12,20,9,1,0,133.33,caught,2,2.0,0,19,0,9.5
+25913,Mohammad Nabi,9 Dec 2021,v Strikers,Adelaide,2,4,12,27,14,0,0,85.71,caught,1,3.0,0,16,0,5.33
+25913,Mohammad Nabi,13 Dec 2021,v Heat,Carrara,1,4,3,8,6,0,0,50,caught,2,3.0,0,19,1,6.33
+25913,Mohammad Nabi,22 Dec 2021,v Scorchers,Melbourne (Docklands),2,5,0,4,1,0,0,0,lbw,1,1.0,0,8,0,8
+25913,Mohammad Nabi,26 Dec 2021,v Scorchers,Melbourne (Docklands),1,6,7,16,13,0,0,53.84,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,29 Dec 2021,v Hurricanes,Melbourne (Docklands),2,6,2,4,3,0,0,66.66,caught,1,1.0,0,6,0,6
+25913,Mohammad Nabi,1 Jan 2022,v Sixers,Coffs Harbour,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+25913,Mohammad Nabi,3 Jan 2022,v Stars,Melbourne,2,6,0,2,1,0,0,0,bowled,1,2.0,0,20,0,10
+25913,Mohammad Nabi,6 Jan 2022,v Heat,Geelong,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+25913,Mohammad Nabi,27 Jan 2022,v Sultans,Karachi,1,4,10,24,17,0,0,58.82,caught,2,3.2,0,17,2,5.1
+25913,Mohammad Nabi,29 Jan 2022,v Gladiators,Karachi,1,5,0,-,1,0,0,0,caught,2,4.0,0,15,0,3.75
+25913,Mohammad Nabi,30 Jan 2022,v Qalandars,Karachi,1,3,15,-,14,2,0,107.14,caught,2,4.0,0,27,1,6.75
+25913,Mohammad Nabi,4 Feb 2022,v Zalmi,Karachi,2,5,10,15,10,1,0,100,caught,1,3.0,0,15,0,5
+25913,Mohammad Nabi,6 Feb 2022,v United,Karachi,2,7,47*,41,28,5,2,167.85,not out,1,3.0,0,33,1,11
+25913,Mohammad Nabi,13 Feb 2022,v Zalmi,Lahore,2,4,15,21,11,2,0,136.36,caught,1,4.0,0,33,1,8.25
+25913,Mohammad Nabi,14 Feb 2022,v United,Lahore,2,6,3,-,3,0,0,100,bowled,1,2.0,0,15,0,7.5
+25913,Mohammad Nabi,16 Feb 2022,v Sultans,Lahore,1,6,21,-,15,1,1,140,caught,2,4.0,0,28,0,7
+25913,Mohammad Nabi,18 Feb 2022,v Qalandars,Lahore,1,6,8,24,12,0,0,66.66,bowled,2,4.0,0,30,0,7.5
+25913,Mohammad Nabi,3 Mar 2022,v Bangladesh,Mirpur,2,6,16,28,19,2,0,84.21,caught,1,2.0,0,19,0,9.5
+25913,Mohammad Nabi,5 Mar 2022,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+25913,Mohammad Nabi,11 Jun 2022,v Zimbabwe,Harare,2,6,15*,12,8,3,0,187.5,not out,1,3.0,0,30,1,10
+25913,Mohammad Nabi,12 Jun 2022,v Zimbabwe,Harare,1,7,43*,39,22,1,4,195.45,not out,2,2.0,0,18,1,9
+25913,Mohammad Nabi,14 Jun 2022,v Zimbabwe,Harare,1,6,31,44,30,2,0,103.33,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,28 Jul 2022,v Pamir Zalmi,Kabul,2,4,15,25,15,1,0,100,caught,1,4.0,0,18,0,4.5
+25913,Mohammad Nabi,30 Jul 2022,v Stars,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+25913,Mohammad Nabi,1 Aug 2022,v BDD,Kabul,1,6,5,14,10,0,0,50,bowled,2,2.0,0,20,2,10
+25913,Mohammad Nabi,2 Aug 2022,v MAK,Kabul,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,2,9.5
+25913,Mohammad Nabi,3 Aug 2022,v SGT,Kabul,2,7,4,11,8,0,0,50,bowled,1,4.0,0,37,0,9.25
+25913,Mohammad Nabi,9 Aug 2022,v Ireland,Belfast,1,5,5,9,6,0,0,83.33,caught,2,3.0,0,27,1,9
+25913,Mohammad Nabi,11 Aug 2022,v Ireland,Belfast,1,6,9,16,9,1,0,100,caught,2,2.0,0,15,2,7.5
+25913,Mohammad Nabi,12 Aug 2022,v Ireland,Belfast,1,5,6,-,5,0,0,120,run out,2,4.0,0,38,1,9.5
+25913,Mohammad Nabi,15 Aug 2022,v Ireland,Belfast,1,5,5,9,5,1,0,100,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,17 Aug 2022,v Ireland,Belfast,1,6,0,-,1,0,0,0,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,27 Aug 2022,v Sri Lanka,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+25913,Mohammad Nabi,30 Aug 2022,v Bangladesh,Sharjah,2,4,8,17,9,1,0,88.88,lbw,1,3.0,0,23,0,7.66
+25913,Mohammad Nabi,3 Sep 2022,v Sri Lanka,Sharjah,1,5,1,5,4,0,0,25,caught,2,4.0,0,34,1,8.5
+25913,Mohammad Nabi,7 Sep 2022,v Pakistan,Sharjah,1,6,0,1,1,0,0,0,bowled,2,3.0,0,22,0,7.33
+25913,Mohammad Nabi,8 Sep 2022,v India,Dubai (DICS),2,6,7,14,7,1,0,100,lbw,1,3.0,0,34,0,11.33
+25913,Mohammad Nabi,21 Sep 2022,v Amazon,Providence,2,7,5,5,5,1,0,100,caught,1,2.0,0,12,3,6
+25913,Mohammad Nabi,25 Sep 2022,v Kings,Providence,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+25913,Mohammad Nabi,27 Sep 2022,v Kings,Providence,1,7,31*,-,15,0,4,206.66,not out,2,4.0,0,10,3,2.5
+25913,Mohammad Nabi,28 Sep 2022,v Amazon,Providence,1,-,DNB,-,-,-,-,-,-,2,2.0,0,22,0,11
+25913,Mohammad Nabi,30 Sep 2022,v Royals,Providence,2,-,DNB,-,-,-,-,-,-,1,3.0,0,28,0,9.33
+25913,Mohammad Nabi,22 Oct 2022,v England,Perth,1,6,3,7,5,0,0,60,caught,2,3.0,0,16,1,5.33
+25913,Mohammad Nabi,1 Nov 2022,v Sri Lanka,Brisbane,1,6,13,15,8,1,0,162.5,caught,2,2.0,0,16,0,8
+25913,Mohammad Nabi,4 Nov 2022,v Australia,Adelaide,2,5,1,10,2,0,0,50,caught,1,1.0,0,14,0,14
+25913,Mohammad Nabi,19 Dec 2022,v Jaffna Kings,Colombo (RPS),1,7,0,-,6,0,0,0,run out,2,2.0,0,8,0,4
+25913,Mohammad Nabi,21 Dec 2022,v Galle,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+25913,Mohammad Nabi,22 Dec 2022,v Kandy,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+25913,Mohammad Nabi,23 Dec 2022,v Jaffna Kings,Colombo (RPS),1,6,15,-,9,0,1,166.66,caught,2,4.0,0,42,1,10.5
+25913,Mohammad Nabi,6 Jan 2023,v Rangpur,Mirpur,2,6,5,11,4,1,0,125,caught,1,2.0,0,30,0,15
+25913,Mohammad Nabi,9 Jan 2023,v Strikers,Mirpur,1,7,8,11,7,1,0,114.28,bowled,2,4.0,0,28,2,7
+25913,Mohammad Nabi,24 Mar 2023,v Pakistan,Sharjah,2,4,38*,57,38,3,1,100,not out,1,3.0,0,12,2,4
+25913,Mohammad Nabi,26 Mar 2023,v Pakistan,Sharjah,2,5,14*,15,9,0,1,155.55,not out,1,DNB,-,-,-,-
+25913,Mohammad Nabi,27 Mar 2023,v Pakistan,Sharjah,2,5,17,20,10,1,1,170,run out,1,3.0,0,32,1,10.66
+25913,Mohammad Nabi,14 Jul 2023,v Bangladesh,Sylhet,1,5,54*,79,40,6,1,135,not out,2,1.0,0,8,0,8
+25913,Mohammad Nabi,16 Jul 2023,v Bangladesh,Sylhet,1,4,16,28,22,1,0,72.72,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,29 Dec 2023,v U.A.E.,Sharjah,1,5,4*,-,1,1,0,400,not out,2,2.0,0,9,0,4.5
+25913,Mohammad Nabi,31 Dec 2023,v U.A.E.,Sharjah,2,5,47,-,27,5,2,174.07,caught,1,2.0,0,14,1,7
+25913,Mohammad Nabi,2 Jan 2024,v U.A.E.,Sharjah,2,7,1,-,2,0,0,50,caught,1,2.0,0,13,0,6.5
+25913,Mohammad Nabi,11 Jan 2024,v India,Mohali,1,5,42,36,27,2,3,155.55,caught,2,2.0,0,24,0,12
+25913,Mohammad Nabi,14 Jan 2024,v India,Indore,1,5,14,28,18,1,0,77.77,caught,2,2.0,0,30,0,15
+25913,Mohammad Nabi,17 Jan 2024,v India,Bengaluru,2,5,34,16,16,2,3,212.5,caught,1,DNB,-,-,-,-
+25913,Mohammad Nabi,20 Jan 2024,v Barishal,Mirpur,1,7,10,15,12,0,0,83.33,caught,2,3.0,0,25,1,8.33
+25913,Mohammad Nabi,23 Jan 2024,v Strikers,Mirpur,2,6,0,3,2,0,0,0,lbw,1,4.0,0,17,1,4.25
+25913,Mohammad Nabi,26 Jan 2024,v Khulna,Sylhet,2,5,50,51,30,4,3,166.66,caught,1,1.0,0,7,0,7
+25913,Mohammad Nabi,27 Jan 2024,v Dhaka,Sylhet,1,5,1,2,2,0,0,50,caught,2,2.0,0,10,1,5
+25913,Mohammad Nabi,30 Jan 2024,v Victorians,Sylhet,1,6,13,11,7,1,1,185.71,bowled,2,4.0,0,19,1,4.75
+25913,Mohammad Nabi,3 Feb 2024,v Strikers,Sylhet,1,7,7,25,9,0,0,77.77,caught,2,2.5,0,17,3,6
+25913,Mohammad Nabi,6 Feb 2024,v Dhaka,Mirpur,1,6,29*,19,16,0,3,181.25,not out,2,3.0,0,18,0,6
+25913,Mohammad Nabi,17 Feb 2024,v Sri Lanka,Dambulla,2,5,9,9,8,0,0,112.5,caught,1,DNB,-,-,-,-
+25913,Mohammad Nabi,19 Feb 2024,v Sri Lanka,Dambulla,2,6,27,22,17,1,2,158.82,caught,1,4.0,0,25,2,6.25
+25913,Mohammad Nabi,21 Feb 2024,v Sri Lanka,Dambulla,1,5,16*,31,14,1,0,114.28,not out,2,4.0,0,35,2,8.75
+25913,Mohammad Nabi,26 Feb 2024,v Victorians,Mirpur,1,8,0*,7,0,0,0,-,not out,2,2.0,0,21,0,10.5
+25913,Mohammad Nabi,28 Feb 2024,v Barishal,Mirpur,1,6,12,26,15,1,0,80,caught,2,3.0,0,20,1,6.66
+25913,Mohammad Nabi,15 Mar 2024,v Ireland,Sharjah,2,6,25,37,21,1,1,119.04,caught,1,2.0,0,9,0,4.5
+25913,Mohammad Nabi,17 Mar 2024,v Ireland,Sharjah,1,6,59,52,38,6,3,155.26,caught,2,3.0,0,14,1,4.66
+25913,Mohammad Nabi,18 Mar 2024,v Ireland,Sharjah,1,6,6,13,8,0,0,75,caught,2,1.0,0,16,0,16
+25913,Mohammad Nabi,7 Apr 2024,v DC,Wankhede,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,0,8.5
+25913,Mohammad Nabi,11 Apr 2024,v RCB,Wankhede,2,-,DNB,-,-,-,-,-,-,1,1.0,0,7,0,7
+25913,Mohammad Nabi,14 Apr 2024,v CSK,Wankhede,2,8,4*,13,7,0,0,57.14,not out,1,3.0,0,19,0,6.33
+25913,Mohammad Nabi,18 Apr 2024,v Punjab Kings,New Chandigarh,1,8,0,1,1,0,0,0,run out,2,DNB,-,-,-,-
+25913,Mohammad Nabi,22 Apr 2024,v RR,Jaipur,1,5,23,20,17,2,1,135.29,caught,2,3.0,0,30,0,10
+25913,Mohammad Nabi,27 Apr 2024,v DC,Delhi,2,8,7,5,4,0,1,175,caught,1,2.0,0,20,1,10
+25913,Mohammad Nabi,30 Apr 2024,v LSG,Lucknow,1,8,1,5,2,0,0,50,bowled,2,1.2,0,16,1,12
+25913,Mohammad Nabi,3 Jun 2024,v Uganda,Providence,1,4,14*,23,16,0,0,87.5,not out,2,1.0,0,8,0,8
+25913,Mohammad Nabi,7 Jun 2024,v New Zealand,Providence,1,4,0,3,1,0,0,0,caught,2,4.0,0,16,2,4
+25913,Mohammad Nabi,13 Jun 2024,v P.N.G.,Tarouba,2,5,16*,27,23,1,0,69.56,not out,1,1.0,0,9,0,9
+25913,Mohammad Nabi,17 Jun 2024,v West Indies,Gros Islet,2,6,1,4,4,0,0,25,bowled,1,1.0,0,15,0,15
+25913,Mohammad Nabi,20 Jun 2024,v India,Bridgetown,2,7,14,24,14,0,1,100,caught,1,3.0,0,24,0,8
+25913,Mohammad Nabi,22 Jun 2024,v Australia,Kingstown,1,6,10*,10,4,2,0,250,not out,2,1.0,0,1,1,1
+25913,Mohammad Nabi,24 Jun 2024,v Bangladesh,Kingstown,1,5,1,6,5,0,0,20,caught,2,2.0,0,15,0,7.5
+25913,Mohammad Nabi,26 Jun 2024,v South Africa,Tarouba,1,5,0,1,3,0,0,0,bowled,2,DNB,-,-,-,-
+25913,Mohammad Nabi,1 Jul 2024,v Kandy,Pallekele,1,-,DNB,-,-,-,-,-,-,2,1.0,0,12,0,12
+25913,Mohammad Nabi,3 Jul 2024,v Jaffna Kings,Pallekele,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,1,5
+25913,Mohammad Nabi,6 Jul 2024,v Jaffna Kings,Dambulla,2,6,7,-,10,0,0,70,stumped,1,3.0,0,37,0,12.33
+25913,Mohammad Nabi,7 Jul 2024,v Colombo,Dambulla,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+25913,Mohammad Nabi,9 Jul 2024,v Galle,Dambulla,1,7,1,-,2,0,0,50,stumped,2,3.0,1,11,0,3.66
+25913,Mohammad Nabi,14 Jul 2024,v Galle,Colombo (RPS),2,7,25,-,17,1,2,147.05,run out,1,4.0,0,14,2,3.5
+25913,Mohammad Nabi,15 Jul 2024,v Kandy,Colombo (RPS),2,6,3,-,7,0,0,42.85,caught,1,3.0,0,42,0,14
+25913,Mohammad Nabi,16 Jul 2024,v Colombo,Colombo (RPS),1,6,40,-,33,4,2,121.21,caught,2,4.0,0,11,1,2.75
+25913,Mohammad Nabi,14 Aug 2024,v SGT,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,1,4.33
+25913,Mohammad Nabi,16 Aug 2024,v BEAD,Kabul,1,5,1,4,5,0,0,20,bowled,2,4.0,0,16,0,4
+25913,Mohammad Nabi,17 Aug 2024,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+25913,Mohammad Nabi,19 Aug 2024,v Amo Sharks,Kabul,2,5,15,22,15,1,1,100,caught,1,4.0,0,37,1,9.25
+25913,Mohammad Nabi,20 Aug 2024,v BEAD,Kabul,2,7,18,26,22,2,0,81.81,bowled,1,4.0,0,14,0,3.5
+25913,Mohammad Nabi,21 Aug 2024,v BDD,Kabul,2,6,19,26,14,0,2,135.71,bowled,1,DNB,-,-,-,-
+25913,Mohammad Nabi,22 Aug 2024,v SGT,Kabul,1,4,0,10,4,0,0,0,bowled,2,DNB,-,-,-,-
+25913,Mohammad Nabi,11 Dec 2024,v Zimbabwe,Harare,1,7,44,38,27,5,1,162.96,caught,2,2.0,0,13,1,6.5
+25913,Mohammad Nabi,13 Dec 2024,v Zimbabwe,Harare,1,6,4,9,7,0,0,57.14,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,14 Dec 2024,v Zimbabwe,Harare,2,7,24*,27,18,3,0,133.33,not out,1,3.0,0,13,0,4.33
+25913,Mohammad Nabi,30 Dec 2024,v Rajshahi,Mirpur,2,-,DNB,-,-,-,-,-,-,1,1.0,0,3,0,3
+25913,Mohammad Nabi,2 Jan 2025,v Rangpur,Mirpur,1,8,21,36,19,2,1,110.52,run out,2,2.0,0,16,0,8
+25913,Mohammad Nabi,16 Jan 2025,v Dhaka,Chattogram,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+25913,Mohammad Nabi,19 Jan 2025,v Chittagong,Chattogram,2,6,26*,37,21,3,0,123.8,not out,1,2.0,0,6,0,3
+25913,Mohammad Nabi,22 Jan 2025,v Khulna,Chattogram,1,6,1,2,2,0,0,50,caught,2,4.0,0,19,1,4.75
+25913,Mohammad Nabi,26 Jan 2025,v Strikers,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+25913,Mohammad Nabi,27 Jan 2025,v Khulna,Mirpur,2,7,15*,14,10,0,1,150,not out,1,4.0,0,22,1,5.5
+25913,Mohammad Nabi,29 Jan 2025,v Dhaka,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,3,2.25
+25913,Mohammad Nabi,1 Feb 2025,v Chittagong,Mirpur,2,6,0,2,2,0,0,0,caught,1,3.0,0,22,1,7.33
+25913,Mohammad Nabi,3 Feb 2025,v Chittagong,Mirpur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+25913,Mohammad Nabi,7 Feb 2025,v Chittagong,Mirpur,2,7,4,9,4,0,0,100,caught,1,4.0,0,34,0,8.5
+25913,Mohammad Nabi,18 Apr 2025,v Gladiators,Karachi,1,7,18,22,12,0,2,150,caught,2,4.0,1,7,2,1.75
+25913,Mohammad Nabi,20 Apr 2025,v United,Karachi,1,7,7*,24,10,0,0,70,not out,2,2.1,0,12,1,5.53
+25913,Mohammad Nabi,21 Apr 2025,v Zalmi,Karachi,2,6,14,8,11,1,1,127.27,caught,1,3.0,0,28,0,9.33
+25913,Mohammad Nabi,25 Apr 2025,v Gladiators,Lahore,2,7,4,-,5,0,0,80,caught,1,4.0,0,21,1,5.25
+25913,Mohammad Nabi,1 May 2025,v Sultans,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,3,3.5
+25913,Mohammad Nabi,4 May 2025,v Qalandars,Lahore,2,7,15,-,8,1,1,187.5,caught,1,3.0,0,37,0,12.33
+25913,Mohammad Nabi,17 May 2025,v Zalmi,Rawalpindi,1,6,26*,-,10,1,3,260,not out,2,4.0,0,36,0,9
+25913,Mohammad Nabi,19 May 2025,v United,Rawalpindi,2,7,5,-,4,1,0,125,caught,1,DNB,-,-,-,-
+25913,Mohammad Nabi,22 May 2025,v Qalandars,Lahore,1,7,16,-,10,1,1,160,bowled,2,4.0,0,37,0,9.25
+25913,Mohammad Nabi,11 Jul 2025,v DC,Providence,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+25913,Mohammad Nabi,13 Jul 2025,v Rangpur,Providence,2,6,44,-,36,1,3,122.22,caught,1,4.0,0,26,0,6.5
+25913,Mohammad Nabi,15 Jul 2025,v Central D,Providence,2,6,43,-,25,3,4,172,caught,1,4.0,0,36,1,9
+25913,Mohammad Nabi,16 Jul 2025,v Amazon,Providence,1,6,21,-,22,2,0,95.45,caught,2,4.0,0,16,1,4
+25913,Mohammad Nabi,22 Jul 2025,v Amo Sharks,Kabul,2,7,6*,2,3,0,1,200,not out,1,1.0,0,12,0,12
+25913,Mohammad Nabi,25 Jul 2025,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,3.0,0,21,1,7
+25913,Mohammad Nabi,26 Jul 2025,v BDD,Kabul,1,6,14,22,14,1,0,100,bowled,2,DNB,-,-,-,-
+25913,Mohammad Nabi,28 Jul 2025,v SGT,Kabul,2,6,23,16,16,2,1,143.75,caught,1,2.0,0,22,1,11
+25913,Mohammad Nabi,29 Jul 2025,v BEAD,Kabul,1,-,DNB,-,-,-,-,-,-,2,2.0,0,15,0,7.5
+25913,Mohammad Nabi,31 Jul 2025,v Amo Sharks,Kabul,1,7,5,14,7,0,0,71.42,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,29 Aug 2025,v Pakistan,Sharjah,2,7,3,8,6,0,0,50,caught,1,3.0,0,18,1,6
+25913,Mohammad Nabi,1 Sep 2025,v U.A.E.,Sharjah,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+25913,Mohammad Nabi,2 Sep 2025,v Pakistan,Sharjah,1,6,6,9,5,1,0,120,caught,2,4.0,0,20,2,5
+25913,Mohammad Nabi,7 Sep 2025,v Pakistan,Sharjah,2,6,3,20,10,0,0,30,caught,1,4.0,0,28,0,7
+25913,Mohammad Nabi,9 Sep 2025,v Hong Kong,Abu Dhabi,1,4,33,33,26,3,1,126.92,caught,2,DNB,-,-,-,-
+25913,Mohammad Nabi,16 Sep 2025,v Bangladesh,Abu Dhabi,2,5,15,20,15,0,1,100,bowled,1,2.0,0,17,0,8.5
+25913,Mohammad Nabi,18 Sep 2025,v Sri Lanka,Abu Dhabi,1,7,60,44,22,3,6,272.72,run out,2,3.0,0,20,1,6.66
+25913,Mohammad Nabi,2 Oct 2025,v Bangladesh,Sharjah,1,7,38,32,25,1,4,152,caught,2,3.0,0,27,0,9
+25913,Mohammad Nabi,3 Oct 2025,v Bangladesh,Sharjah,1,7,20*,18,12,2,1,166.66,not out,2,3.0,0,32,0,10.66
+25913,Mohammad Nabi,5 Oct 2025,v Bangladesh,Sharjah,1,7,1,4,4,0,0,25,bowled,2,DNB,-,-,-,-
+25913,Mohammad Nabi,29 Oct 2025,v Zimbabwe,Harare,1,6,0,2,2,0,0,0,lbw,2,DNB,-,-,-,-
+25913,Mohammad Nabi,31 Oct 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,1,6.66
+25913,Mohammad Nabi,2 Nov 2025,v Zimbabwe,Harare,1,5,1*,-,1,0,0,100,not out,2,2.0,0,28,1,14
+25913,Mohammad Nabi,2 Dec 2025,v Vipers,Dubai (DICS),1,7,29,32,23,2,2,126.08,bowled,2,3.0,0,21,1,7
+25913,Mohammad Nabi,7 Dec 2025,v KnightRiders,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,12,2,3
+25913,Mohammad Nabi,13 Dec 2025,v KnightRiders,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,3.0,0,15,1,5
+25913,Mohammad Nabi,14 Dec 2025,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+25913,Mohammad Nabi,17 Dec 2025,v MI Emirates,Dubai (DICS),2,7,12,-,13,1,0,92.3,caught,1,2.0,0,30,0,15
+25913,Mohammad Nabi,19 Dec 2025,v Warriorz,Dubai (DICS),1,6,38*,-,19,3,3,200,not out,2,4.0,0,23,3,5.75
+25913,Mohammad Nabi,21 Dec 2025,v Gulf Giants,Abu Dhabi,2,6,25*,27,14,2,1,178.57,not out,1,4.0,0,26,1,6.5
+25913,Mohammad Nabi,24 Dec 2025,v Warriorz,Dubai (DICS),2,4,4,2,4,1,0,100,caught,1,4.0,1,25,1,6.25
+25913,Mohammad Nabi,27 Dec 2025,v MI Emirates,Abu Dhabi,1,6,22*,57,30,0,1,73.33,not out,2,4.0,1,15,0,3.75
+25913,Mohammad Nabi,1 Jan 2026,v KnightRiders,Dubai (DICS),2,8,27,29,21,1,2,128.57,caught,1,4.0,0,25,3,6.25
+25913,Mohammad Nabi,5 Jan 2026,v Sylhet,Sylhet,1,4,1,14,10,0,0,10,caught,2,1.0,0,3,0,3
+25913,Mohammad Nabi,7 Jan 2026,v Dhaka,Sylhet,1,6,42*,63,33,2,2,127.27,not out,2,3.0,0,31,0,10.33
+25913,Mohammad Nabi,8 Jan 2026,v Rajshahi,Sylhet,1,4,35,35,26,1,3,134.61,caught,2,4.0,0,26,1,6.5
+25913,Mohammad Nabi,9 Jan 2026,v Rangpur,Sylhet,1,5,0,1,1,0,0,0,bowled,2,4.0,0,16,1,4
+25913,Mohammad Nabi,11 Jan 2026,v Dhaka,Sylhet,1,5,17,23,13,2,0,130.76,caught,2,4.0,0,23,2,5.75
+25913,Mohammad Nabi,19 Jan 2026,v West Indies,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,1.0,0,2,0,2
+25913,Mohammad Nabi,21 Jan 2026,v West Indies,Dubai (DICS),1,6,7*,9,5,1,0,140,not out,2,1.0,0,14,0,14
+25913,Mohammad Nabi,22 Jan 2026,v West Indies,Dubai (DICS),2,5,6,4,4,0,1,150,caught,1,2.0,0,18,0,9
+25913,Mohammad Nabi,8 Feb 2026,v New Zealand,Chennai,1,7,10*,8,7,0,1,142.85,not out,2,1.0,0,18,1,18
+25913,Mohammad Nabi,11 Feb 2026,v South Africa,Ahmedabad,2,7,5,16,6,0,0,83.33,caught,1,2.0,0,20,0,10
+25913,Mohammad Nabi,16 Feb 2026,v U.A.E.,Delhi,2,7,3*,10,3,0,0,100,not out,1,DNB,-,-,-,-
+25913,Mohammad Nabi,19 Feb 2026,v Canada,Chennai,1,-,DNB,-,-,-,-,-,-,2,4.0,0,7,4,1.75

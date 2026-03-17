@@ -1,0 +1,37 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1122918,Kartik Tyagi,6 Oct 2020,v MI,Abu Dhabi,2,11,0*,-,0,0,0,-,not out,1,4.0,0,36,1,9
+1122918,Kartik Tyagi,9 Oct 2020,v DC,Sharjah,2,10,2*,-,3,0,0,66.66,not out,1,4.0,0,35,1,8.75
+1122918,Kartik Tyagi,11 Oct 2020,v SRH,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,1,9.66
+1122918,Kartik Tyagi,14 Oct 2020,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,1,7.5
+1122918,Kartik Tyagi,17 Oct 2020,v RCB,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1122918,Kartik Tyagi,19 Oct 2020,v CSK,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+1122918,Kartik Tyagi,22 Oct 2020,v SRH,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.1,0,42,0,13.26
+1122918,Kartik Tyagi,25 Oct 2020,v MI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,45,1,11.25
+1122918,Kartik Tyagi,30 Oct 2020,v Kings XI,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+1122918,Kartik Tyagi,1 Nov 2020,v KKR,Dubai (DICS),2,10,2,-,3,0,0,66.66,caught,1,4.0,0,36,2,9
+1122918,Kartik Tyagi,2 May 2021,v SRH,Delhi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+1122918,Kartik Tyagi,21 Sep 2021,v Punjab Kings,Dubai (DICS),1,10,1,9,3,0,0,33.33,bowled,2,4.0,0,29,2,7.25
+1122918,Kartik Tyagi,25 Sep 2021,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+1122918,Kartik Tyagi,29 Sep 2021,v RCB,Dubai (DICS),1,10,1*,5,1,0,0,100,not out,2,2.0,0,23,0,11.5
+1122918,Kartik Tyagi,5 May 2022,v DC,Brabourne,2,9,7,9,5,1,0,140,bowled,1,4.0,0,37,0,9.25
+1122918,Kartik Tyagi,8 May 2022,v RCB,Wankhede,2,8,0,1,1,0,0,0,caught,1,4.0,0,42,1,10.5
+1122918,Kartik Tyagi,11 Oct 2022,v Puducherry,Jaipur,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,1,8.33
+1122918,Kartik Tyagi,12 Oct 2022,v Tripura,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+1122918,Kartik Tyagi,14 Oct 2022,v Delhi,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,14,1,3.5
+1122918,Kartik Tyagi,16 Oct 2022,v Manipur,Jaipur,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,0,5
+1122918,Kartik Tyagi,18 Oct 2022,v Goa,Jaipur,2,-,sub,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+1122918,Kartik Tyagi,20 Oct 2022,v Hyderabad,Jaipur,2,-,sub,-,-,-,-,-,-,1,3.0,0,28,2,9.33
+1122918,Kartik Tyagi,22 Oct 2022,v Punjab,Jaipur,1,-,DNB,-,-,-,-,-,-,2,2.0,0,41,0,20.5
+1122918,Kartik Tyagi,4 May 2023,v KKR,Hyderabad,2,-,DNB,-,-,-,-,-,-,1,2.0,0,30,1,15
+1122918,Kartik Tyagi,18 May 2023,v RCB,Hyderabad,1,-,DNB,-,-,-,-,-,-,2,1.2,0,21,0,15.75
+1122918,Kartik Tyagi,21 May 2023,v MI,Wankhede,1,-,sub,-,-,-,-,-,-,2,2.5,0,41,0,14.47
+1122918,Kartik Tyagi,17 Oct 2023,v Tamil Nadu,Dehradun,2,-,sub,-,-,-,-,-,-,1,3.0,0,23,2,7.66
+1122918,Kartik Tyagi,21 Oct 2023,v Nagaland,Dehradun,1,-,DNB,-,-,-,-,-,-,2,3.0,0,8,0,2.66
+1122918,Kartik Tyagi,23 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,2.1,0,20,1,9.23
+1122918,Kartik Tyagi,25 Oct 2023,v Karnataka,Dehradun,1,-,DNB,-,-,-,-,-,-,2,2.0,0,26,0,13
+1122918,Kartik Tyagi,31 Oct 2023,v Gujarat,Mohali,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1122918,Kartik Tyagi,2 Nov 2023,v Punjab,Mohali,1,-,sub,-,-,-,-,-,-,2,1.0,0,15,0,15
+1122918,Kartik Tyagi,10 May 2024,v CSK,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,4.0,0,51,0,12.75
+1122918,Kartik Tyagi,4 Dec 2025,v Chandigarh,Eden Gardens,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,8.25
+1122918,Kartik Tyagi,6 Dec 2025,v Maharashtra,Eden Gardens,1,11,1*,-,1,0,0,100,not out,2,4.0,0,34,3,8.5
+1122918,Kartik Tyagi,8 Dec 2025,v Bihar,Jadavpur Uni,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
