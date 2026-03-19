@@ -1,0 +1,372 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+308251,25 May 2009,v Warwickshire,Northampton,2,0,0,0,0,0
+308251,29 May 2009,v Glamorgan,Northampton,2,0,0,0,0,0
+308251,30 May 2009,v Worcs,Worcester,1,0,0,0,0,0
+308251,1 Jun 2009,v Warwickshire,Birmingham,2,2,2,0,0,2
+308251,3 Jun 2009,v Gloucs,Bristol,2,0,0,0,0,0
+308251,4 Jun 2009,v Somerset,Northampton,1,0,0,0,0,0
+308251,23 Jun 2009,v Gloucs,Northampton,2,1,1,0,0,1
+308251,25 Jun 2009,v Somerset,Taunton,-,TDNF,-,-,-,-
+308251,26 Jun 2009,v Glamorgan,Cardiff,2,0,0,0,0,0
+308251,28 Jun 2009,v Worcs,Northampton,1,0,0,0,0,0
+308251,29 Jul 2009,v Hampshire,Northampton,2,0,0,0,0,0
+308251,15 Aug 2009,v Sussex,Birmingham,2,0,0,0,0,0
+308251,8 Jun 2010,v Leics,Northampton,1,0,0,0,0,0
+308251,9 Jun 2010,v Lancashire,Manchester,1,0,0,0,0,0
+308251,11 Jun 2010,v Worcs,Northampton,2,0,0,0,0,0
+308251,13 Jun 2010,v Yorkshire,Leeds,2,1,1,0,0,1
+308251,18 Jun 2010,v Leics,Leicester,2,0,0,0,0,0
+308251,20 Jun 2010,v Derbyshire,Northampton,1,0,0,0,0,0
+308251,22 Jun 2010,v Notts,Nottingham,2,1,1,0,0,1
+308251,25 Jun 2010,v Worcs,Worcester,2,1,1,0,0,1
+308251,26 Jun 2010,v Durham,Northampton,2,1,1,0,0,1
+308251,2 Jul 2010,v Yorkshire,Northampton,1,1,1,0,0,1
+308251,3 Jul 2010,v Pakistanis,Northampton,2,0,0,0,0,0
+308251,9 Jul 2010,v Warwickshire,Northampton,2,0,0,0,0,0
+308251,11 Jul 2010,v Notts,Northampton,1,1,1,0,0,1
+308251,15 Jul 2010,v Lancashire,Northampton,2,0,0,0,0,0
+308251,16 Jul 2010,v Derbyshire,Derby,2,1,1,0,0,1
+308251,18 Jul 2010,v Durham,Chester-le-Street,1,0,0,0,0,0
+308251,27 Jul 2010,v Somerset,Taunton,2,0,0,0,0,0
+308251,3 Jun 2011,v Leics,Northampton,2,0,0,0,0,0
+308251,5 Jun 2011,v Warwickshire,Birmingham,2,1,1,0,0,1
+308251,9 Jun 2011,v Durham,Northampton,2,0,0,0,0,0
+308251,10 Jun 2011,v Worcs,Worcester,2,0,0,0,0,0
+308251,15 Jun 2011,v Warwickshire,Northampton,2,0,0,0,0,0
+308251,18 Jun 2011,v Notts,Nottingham,1,0,0,0,0,0
+308251,9 Jul 2011,v Derbyshire,Derby,1,0,0,0,0,0
+308251,12 Jul 2011,v Lancashire,Northampton,1,2,2,0,0,2
+308251,14 Jul 2011,v Durham,Chester-le-Street,1,1,1,0,0,1
+308251,15 Jul 2011,v Lancashire,Manchester,1,0,0,0,0,0
+308251,14 Jun 2012,v Glamorgan,Northampton,-,TDNF,-,-,-,-
+308251,17 Jun 2012,v Somerset,Taunton,2,0,0,0,0,0
+308251,19 Jun 2012,v Warwickshire,Birmingham,2,0,0,0,0,0
+308251,22 Jun 2012,v Gloucs,Bristol,1,1,1,0,0,1
+308251,23 Jun 2012,v Worcs,Northampton,1,0,0,0,0,0
+308251,26 Jun 2012,v Somerset,Northampton,2,0,0,0,0,0
+308251,29 Jun 2012,v Warwickshire,Northampton,2,0,0,0,0,0
+308251,30 Jun 2012,v Glamorgan,Cardiff,1,0,0,0,0,0
+308251,8 Jul 2012,v Gloucs,Northampton,2,0,0,0,0,0
+308251,28 Jun 2013,v Gloucs,Northampton,2,1,1,0,0,1
+308251,5 Jul 2013,v Warwickshire,Northampton,2,1,1,0,0,1
+308251,7 Jul 2013,v Somerset,Taunton,2,0,0,0,0,0
+308251,14 Jul 2013,v Glamorgan,Northampton,1,1,1,0,0,1
+308251,16 Jul 2013,v Gloucs,Cheltenham,2,0,0,0,0,0
+308251,17 Jul 2013,v Somerset,Northampton,2,0,0,0,0,0
+308251,20 Jul 2013,v Warwickshire,Birmingham,2,0,0,0,0,0
+308251,21 Jul 2013,v Worcs,Worcester,2,0,0,0,0,0
+308251,26 Jul 2013,v Glamorgan,Cardiff,1,1,1,0,0,1
+308251,6 Aug 2013,v Durham,Northampton,2,0,0,0,0,0
+308251,17 Aug 2013,v Essex,Birmingham,1,0,0,0,0,0
+308251,17 Aug 2013,v Surrey,Birmingham,2,1,1,0,0,1
+308251,16 May 2014,v Yorkshire,Leeds,1,1,1,0,0,1
+308251,23 May 2014,v Leics,Northampton,1,1,1,0,0,1
+308251,30 May 2014,v Worcs,Worcester,2,0,0,0,0,0
+308251,13 Jun 2014,v Yorkshire,Northampton,1,0,0,0,0,0
+308251,19 Jun 2014,v Warwickshire,Birmingham,2,0,0,0,0,0
+308251,20 Jun 2014,v Lancashire,Manchester,1,0,0,0,0,0
+308251,27 Jun 2014,v Durham,Northampton,1,1,1,0,0,1
+308251,3 Jul 2014,v Warwickshire,Northampton,2,1,1,0,0,1
+308251,4 Jul 2014,v Leics,Leicester,-,TDNF,-,-,-,-
+308251,11 Jul 2014,v Derbyshire,Northampton,1,0,0,0,0,0
+308251,18 Jul 2014,v Worcs,Northampton,1,1,1,0,0,1
+308251,23 Jul 2014,v Notts,Northampton,1,1,1,0,0,1
+308251,25 Jul 2014,v Durham,Chester-le-Street,2,1,1,0,0,1
+308251,15 May 2015,v Durham,Chester-le-Street,1,1,1,0,0,1
+308251,29 May 2015,v Warwickshire,Northampton,2,1,1,0,0,1
+308251,5 Jun 2015,v Worcs,Northampton,1,0,0,0,0,0
+308251,11 Jun 2015,v Derbyshire,Northampton,1,0,0,0,0,0
+308251,23 Jun 2015,v New Zealand,Manchester,2,1,1,0,0,1
+308251,26 Jun 2015,v Worcs,Worcester,2,0,0,0,0,0
+308251,17 Jul 2015,v Yorkshire,Northampton,1,1,1,0,0,1
+308251,22 Jul 2015,v Warwickshire,Birmingham,1,0,0,0,0,0
+308251,12 Aug 2015,v Sussex,Hove,1,0,0,0,0,0
+308251,29 Aug 2015,v Warwickshire,Birmingham,1,0,0,0,0,0
+308251,29 Aug 2015,v Lancashire,Birmingham,1,0,0,0,0,0
+308251,31 Aug 2015,v Australia,Cardiff,2,0,0,0,0,0
+308251,27 Nov 2015,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+308251,30 Nov 2015,v Pakistan,Sharjah,2,0,0,0,0,0
+308251,21 Dec 2015,v Strikers,W.A.C.A,2,1,1,0,0,1
+308251,26 Dec 2015,v Heat,W.A.C.A,1,0,0,0,0,0
+308251,30 Dec 2015,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+308251,2 Jan 2016,v Sixers,W.A.C.A,1,0,0,0,0,0
+308251,5 Jan 2016,v Strikers,Adelaide,1,0,0,0,0,0
+308251,7 Jan 2016,v Thunder,Sydney,2,1,1,0,0,1
+308251,10 Jan 2016,v Hurricanes,Hobart,2,1,1,0,0,1
+308251,16 Jan 2016,v Stars,W.A.C.A,1,0,0,0,0,0
+308251,22 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+308251,17 Feb 2016,v SA A,Paarl,2,2,2,0,0,2
+308251,19 Feb 2016,v South Africa,Cape Town,2,1,1,0,0,1
+308251,16 Mar 2016,v West Indies,Wankhede,2,1,1,0,0,1
+308251,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+308251,23 Mar 2016,v Afghanistan,Delhi,2,0,0,0,0,0
+308251,26 Mar 2016,v Sri Lanka,Delhi,2,1,1,0,0,1
+308251,30 Mar 2016,v New Zealand,Delhi,1,1,1,0,0,1
+308251,3 Apr 2016,v West Indies,Eden Gardens,2,0,0,0,0,0
+308251,2 Jun 2016,v Worcs,Worcester,2,0,0,0,0,0
+308251,3 Jun 2016,v Lancashire,Manchester,1,0,0,0,0,0
+308251,10 Jun 2016,v Warwickshire,Birmingham,-,TDNF,-,-,-,-
+308251,19 Jun 2016,v Derbyshire,Leeds,1,0,0,0,0,0
+308251,8 Jul 2016,v Warwickshire,Leeds,2,0,0,0,0,0
+308251,10 Jul 2016,v Derbyshire,Derby,2,1,1,0,0,1
+308251,20 Jul 2016,v Durham,Leeds,2,1,1,0,0,1
+308251,22 Jul 2016,v Northants,Leeds,2,2,2,0,0,2
+308251,29 Jul 2016,v Northants,Northampton,2,1,1,0,0,1
+308251,11 Aug 2016,v Glamorgan,Cardiff,2,0,0,0,0,0
+308251,20 Aug 2016,v Durham,Birmingham,1,0,0,0,0,0
+308251,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+308251,23 Dec 2016,v Strikers,W.A.C.A,2,0,0,0,0,0
+308251,27 Dec 2016,v Sixers,Sydney,2,0,0,0,0,0
+308251,29 Dec 2016,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+308251,1 Jan 2017,v Thunder,W.A.C.A,2,1,1,0,0,1
+308251,5 Jan 2017,v Heat,W.A.C.A,2,0,0,0,0,0
+308251,21 Jun 2017,v South Africa,Southampton,1,1,1,0,0,1
+308251,23 Jun 2017,v South Africa,Taunton,1,0,0,0,0,0
+308251,25 Jun 2017,v South Africa,Cardiff,2,0,0,0,0,0
+308251,7 Jul 2017,v Notts,Leeds,2,2,2,0,0,2
+308251,8 Jul 2017,v Derbyshire,Chesterfield,1,1,1,0,0,1
+308251,14 Jul 2017,v Lancashire,Manchester,1,0,0,0,0,0
+308251,21 Jul 2017,v Warwickshire,Leeds,2,0,0,0,0,0
+308251,23 Jul 2017,v Worcs,Leeds,2,0,0,0,0,0
+308251,26 Jul 2017,v Durham,Leeds,2,0,0,0,0,0
+308251,30 Jul 2017,v Notts,Nottingham,2,0,0,0,0,0
+308251,3 Aug 2017,v Derbyshire,Leeds,2,0,0,0,0,0
+308251,4 Aug 2017,v Durham,Chester-le-Street,1,0,0,0,0,0
+308251,11 Aug 2017,v Lancashire,Leeds,2,1,1,0,0,1
+308251,12 Aug 2017,v Leics,Leicester,2,1,1,0,0,1
+308251,17 Aug 2017,v Northants,Leeds,2,1,1,0,0,1
+308251,16 Sep 2017,v West Indies,Chester-le-Street,1,1,1,0,0,1
+308251,23 Dec 2017,v Sixers,Sydney,1,0,0,0,0,0
+308251,26 Dec 2017,v Stars,W.A.C.A,2,0,0,0,0,0
+308251,29 Dec 2017,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+308251,1 Jan 2018,v Sixers,W.A.C.A,1,1,1,0,0,1
+308251,5 Jan 2018,v Heat,Brisbane,1,0,0,0,0,0
+308251,8 Jan 2018,v Renegades,W.A.C.A,1,0,0,0,0,0
+308251,7 Feb 2018,v Australia,Hobart,2,0,0,0,0,0
+308251,10 Feb 2018,v Australia,Melbourne,2,0,0,0,0,0
+308251,13 Feb 2018,v New Zealand,Wellington,1,0,0,0,0,0
+308251,18 Feb 2018,v New Zealand,Hamilton,2,1,1,0,0,1
+308251,5 May 2018,v RCB,Pune,1,1,1,0,0,1
+308251,11 May 2018,v RR,Jaipur,2,0,0,0,0,0
+308251,13 May 2018,v SRH,Pune,1,1,1,0,0,1
+308251,27 Jun 2018,v Australia,Birmingham,2,0,0,0,0,0
+308251,3 Jul 2018,v India,Manchester,2,0,0,0,0,0
+308251,6 Jul 2018,v India,Cardiff,1,0,0,0,0,0
+308251,8 Jul 2018,v India,Bristol,2,0,0,0,0,0
+308251,20 Jul 2018,v Lancashire,Manchester,1,0,0,0,0,0
+308251,27 Jul 2018,v Bears,Leeds,2,0,0,0,0,0
+308251,28 Jul 2018,v Derbyshire,Chesterfield,2,1,1,0,0,1
+308251,30 Jul 2018,v Derbyshire,Leeds,1,1,1,0,0,1
+308251,31 Jul 2018,v Leics,Leeds,2,0,0,0,0,0
+308251,3 Aug 2018,v Northants,Leeds,1,0,0,0,0,0
+308251,9 Aug 2018,v Lancashire,Leeds,2,1,1,0,0,1
+308251,10 Aug 2018,v Notts,Nottingham,1,0,0,0,0,0
+308251,16 Aug 2018,v Northants,Northampton,1,0,0,0,0,0
+308251,17 Aug 2018,v Notts,Leeds,2,0,0,0,0,0
+308251,20 Dec 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+308251,22 Dec 2018,v Sixers,Sydney,1,1,1,0,0,1
+308251,26 Dec 2018,v Strikers,Perth,1,0,0,0,0,0
+308251,30 Dec 2018,v Hurricanes,Launceston,2,0,0,0,0,0
+308251,2 Jan 2019,v Thunder,Sydney,1,0,0,0,0,0
+308251,9 Jan 2019,v Stars,Melbourne,1,1,1,0,0,1
+308251,13 Jan 2019,v Sixers,Perth,1,0,0,0,0,0
+308251,5 Mar 2019,v West Indies,Gros Islet,1,0,0,0,0,0
+308251,8 Mar 2019,v West Indies,Basseterre,2,2,2,0,0,2
+308251,10 Mar 2019,v West Indies,Basseterre,1,0,0,0,0,0
+308251,5 May 2019,v Pakistan,Cardiff,1,1,1,0,0,1
+308251,20 Jul 2019,v Derbyshire,Chesterfield,2,0,0,0,0,0
+308251,23 Jul 2019,v Leics,Leicester,2,0,0,0,0,0
+308251,25 Jul 2019,v Lancashire,Leeds,1,1,1,0,0,1
+308251,2 Aug 2019,v Worcs,Leeds,2,0,0,0,0,0
+308251,4 Aug 2019,v Bears,Leeds,1,0,0,0,0,0
+308251,11 Aug 2019,v Derbyshire,Leeds,1,1,1,0,0,1
+308251,23 Aug 2019,v Durham,Chester-le-Street,2,1,1,0,0,1
+308251,25 Aug 2019,v Notts,Nottingham,1,0,0,0,0,0
+308251,29 Aug 2019,v Northants,Leeds,2,0,0,0,0,0
+308251,30 Aug 2019,v Bears,Birmingham,2,0,0,0,0,0
+308251,4 Sep 2020,v Durham,Chester-le-Street,2,1,1,0,0,1
+308251,11 Sep 2020,v Leics,Leicester,2,1,1,0,0,1
+308251,10 Jun 2021,v Bears,Leeds,1,0,0,0,0,0
+308251,11 Jun 2021,v Durham,Chester-le-Street,1,2,2,0,0,2
+308251,15 Jun 2021,v Leics,Leeds,2,1,1,0,0,1
+308251,16 Jun 2021,v Worcs,Worcester,2,2,2,0,0,2
+308251,24 Jun 2021,v Sri Lanka,Cardiff,1,1,1,0,0,1
+308251,26 Jun 2021,v Sri Lanka,Southampton,2,1,1,0,0,1
+308251,16 Jul 2021,v Pakistan,Nottingham,1,1,1,0,0,1
+308251,20 Jul 2021,v Pakistan,Manchester,1,0,0,0,0,0
+308251,24 Jul 2021,v Fire,Leeds,1,1,1,0,0,1
+308251,26 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+308251,31 Jul 2021,v Invincibles,Leeds,1,0,0,0,0,0
+308251,3 Aug 2021,v Spirit,Lord's,2,0,0,0,0,0
+308251,7 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+308251,12 Aug 2021,v Originals,Leeds,2,0,0,0,0,0
+308251,17 Aug 2021,v Phoenix,Leeds,2,0,0,0,0,0
+308251,24 Aug 2021,v Sussex,Chester-le-Street,2,0,0,0,0,0
+308251,27 Jan 2022,v Kings,Karachi,1,1,1,0,0,1
+308251,29 Jan 2022,v Qalandars,Karachi,1,0,0,0,0,0
+308251,31 Jan 2022,v Gladiators,Karachi,2,0,0,0,0,0
+308251,1 Feb 2022,v United,Karachi,2,1,1,0,0,1
+308251,18 Feb 2022,v Gladiators,Lahore,2,1,1,0,0,1
+308251,20 Feb 2022,v United,Lahore,1,1,1,0,0,1
+308251,23 Feb 2022,v Qalandars,Lahore,2,0,0,0,0,0
+308251,27 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+308251,27 Mar 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+308251,30 Mar 2022,v KKR,DY Patil,1,1,1,0,0,1
+308251,5 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+308251,9 Apr 2022,v MI,Pune,1,0,0,0,0,0
+308251,31 May 2022,v Derbyshire,Leeds,2,0,0,0,0,0
+308251,3 Jun 2022,v Durham,Leeds,1,0,0,0,0,0
+308251,6 Jun 2022,v Notts,Leeds,2,0,0,0,0,0
+308251,8 Jun 2022,v Lancashire,Leeds,1,1,1,0,0,1
+308251,10 Jun 2022,v Bears,Birmingham,1,0,0,0,0,0
+308251,24 Jun 2022,v Northants,Northampton,2,1,1,0,0,1
+308251,1 Jul 2022,v Bears,Leeds,1,0,0,0,0,0
+308251,3 Jul 2022,v Leics,Leicester,1,2,2,0,0,2
+308251,6 Jul 2022,v Surrey,The Oval,2,0,0,0,0,0
+308251,9 Jul 2022,v India,Birmingham,1,1,1,0,0,1
+308251,10 Jul 2022,v India,Nottingham,2,0,0,0,0,0
+308251,31 Jul 2022,v South Africa,Southampton,1,0,0,0,0,0
+308251,5 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+308251,14 Aug 2022,v Spirit,Leeds,2,0,0,0,0,0
+308251,19 Aug 2022,v Phoenix,Birmingham,2,1,1,0,0,1
+308251,21 Aug 2022,v Originals,Leeds,1,0,0,0,0,0
+308251,26 Aug 2022,v Fire,Cardiff,1,0,0,0,0,0
+308251,31 Aug 2022,v Brave,Leeds,2,2,2,0,0,2
+308251,20 Sep 2022,v Pakistan,Karachi,1,1,1,0,0,1
+308251,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+308251,25 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+308251,28 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+308251,30 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+308251,2 Oct 2022,v Pakistan,Lahore,2,0,0,0,0,0
+308251,12 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+308251,14 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+308251,2 Feb 2023,v MI Cape Town,Durban,1,0,0,0,0,0
+308251,3 Feb 2023,v Sunrisers,Durban,1,0,0,0,0,0
+308251,5 Feb 2023,v Capitals,Centurion,2,2,2,0,0,2
+308251,6 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+308251,10 Apr 2023,v LSG,Bengaluru,2,0,0,0,0,0
+308251,23 Apr 2023,v RR,Bengaluru,2,0,0,0,0,0
+308251,26 Apr 2023,v KKR,Bengaluru,1,1,1,0,0,1
+308251,24 May 2023,v Worcs,Northampton,1,1,1,0,0,1
+308251,26 May 2023,v Durham,Northampton,2,0,0,0,0,0
+308251,29 May 2023,v Derbyshire,Derby,1,1,1,0,0,1
+308251,31 May 2023,v Bears,Northampton,1,0,0,0,0,0
+308251,2 Jun 2023,v Leics,Northampton,1,1,1,0,0,1
+308251,4 Jun 2023,v Worcs,Worcester,1,1,1,0,0,1
+308251,6 Jun 2023,v Durham,Chester-le-Street,2,0,0,0,0,0
+308251,9 Jun 2023,v Bears,Birmingham,1,2,2,0,0,2
+308251,16 Jun 2023,v Lancashire,Northampton,1,1,1,0,0,1
+308251,18 Jun 2023,v Notts,Northampton,2,1,1,0,0,1
+308251,20 Jun 2023,v Yorkshire,Leeds,2,0,0,0,0,0
+308251,21 Jun 2023,v Derbyshire,Northampton,2,0,0,0,0,0
+308251,23 Jun 2023,v Leics,Leicester,2,2,2,0,0,2
+308251,2 Jul 2023,v Lancashire,Manchester,2,0,0,0,0,0
+308251,2 Aug 2023,v Originals,Cardiff,2,0,0,0,0,0
+308251,4 Aug 2023,v Brave,Southampton,1,1,1,0,0,1
+308251,6 Aug 2023,v Invincibles,The Oval,2,0,0,0,0,0
+308251,10 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+308251,12 Aug 2023,v Brave,Cardiff,2,1,1,0,0,1
+308251,14 Aug 2023,v Rockets,Cardiff,1,0,0,0,0,0
+308251,20 Aug 2023,v Spirit,Cardiff,1,1,1,0,0,1
+308251,22 Aug 2023,v N S-Chargers,Leeds,1,2,2,0,0,2
+308251,21 Jan 2024,v Vipers,Dubai (DICS),1,1,1,0,0,1
+308251,23 Jan 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+308251,25 Jan 2024,v DC,Dubai (DICS),2,1,1,0,0,1
+308251,27 Jan 2024,v Vipers,Abu Dhabi,1,1,1,0,0,1
+308251,28 Jan 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+308251,31 Jan 2024,v Gulf Giants,Abu Dhabi,1,0,0,0,0,0
+308251,3 Feb 2024,v DC,Abu Dhabi,2,1,1,0,0,1
+308251,5 Feb 2024,v Warriors,Sharjah,1,0,0,0,0,0
+308251,7 Feb 2024,v Warriors,Abu Dhabi,2,0,0,0,0,0
+308251,10 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+308251,13 Feb 2024,v DC,Abu Dhabi,1,0,0,0,0,0
+308251,18 Feb 2024,v Kings,Multan,2,1,1,0,0,1
+308251,20 Feb 2024,v United,Multan,1,1,1,0,0,1
+308251,21 Feb 2024,v Qalandars,Multan,1,0,0,0,0,0
+308251,23 Feb 2024,v Zalmi,Multan,1,0,0,0,0,0
+308251,25 Feb 2024,v Gladiators,Multan,2,1,1,0,0,1
+308251,3 Mar 2024,v Kings,Karachi,2,0,0,0,0,0
+308251,5 Mar 2024,v Zalmi,Rawalpindi,1,0,0,0,0,0
+308251,10 Mar 2024,v United,Rawalpindi,2,2,2,0,0,2
+308251,12 Mar 2024,v Gladiators,Karachi,2,0,0,0,0,0
+308251,14 Mar 2024,v Zalmi,Karachi,1,1,1,0,0,1
+308251,18 Mar 2024,v United,Karachi,2,0,0,0,0,0
+308251,30 May 2024,v Derbyshire,Northampton,1,0,0,0,0,0
+308251,31 May 2024,v Notts,Nottingham,1,1,1,0,0,1
+308251,2 Jun 2024,v Yorkshire,Northampton,1,1,1,0,0,1
+308251,7 Jun 2024,v Worcs,Northampton,2,1,1,0,0,1
+308251,14 Jun 2024,v Derbyshire,Derby,2,0,0,0,0,0
+308251,16 Jun 2024,v Worcs,Worcester,2,0,0,0,0,0
+308251,20 Jun 2024,v Bears,Birmingham,1,1,1,0,0,1
+308251,21 Jun 2024,v Leics,Northampton,2,0,0,0,0,0
+308251,7 Jul 2024,v Durham,Northampton,1,1,1,0,0,1
+308251,12 Jul 2024,v Leics,Leicester,2,1,1,0,0,1
+308251,14 Jul 2024,v Durham,Chester-le-Street,1,1,1,0,0,1
+308251,18 Jul 2024,v Bears,Northampton,2,0,0,0,0,0
+308251,19 Jul 2024,v Lancashire,Manchester,1,1,1,0,0,1
+308251,25 Jul 2024,v Originals,Manchester,1,0,0,0,0,0
+308251,28 Jul 2024,v Invincibles,Cardiff,1,0,0,0,0,0
+308251,1 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+308251,3 Aug 2024,v Rockets,Nottingham,2,1,1,0,0,1
+308251,5 Aug 2024,v Brave,Cardiff,1,1,1,0,0,1
+308251,8 Aug 2024,v N S-Chargers,Cardiff,1,1,1,0,0,1
+308251,10 Aug 2024,v Phoenix,Cardiff,2,0,0,0,0,0
+308251,14 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+308251,5 Sep 2024,v Somerset,Northampton,1,0,0,0,0,0
+308251,12 Jan 2025,v Vipers,Abu Dhabi,2,0,0,0,0,0
+308251,15 Jan 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+308251,18 Jan 2025,v Vipers,Dubai (DICS),1,0,0,0,0,0
+308251,19 Jan 2025,v Gulf Giants,Dubai (DICS),2,1,1,0,0,1
+308251,21 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+308251,24 Jan 2025,v MI Emirates,Abu Dhabi,2,2,2,0,0,2
+308251,26 Jan 2025,v DC,Abu Dhabi,2,1,1,0,0,1
+308251,30 Jan 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+308251,1 Feb 2025,v Gulf Giants,Abu Dhabi,2,1,1,0,0,1
+308251,2 Feb 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+308251,12 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+308251,16 Apr 2025,v United,Rawalpindi,1,1,1,0,0,1
+308251,19 Apr 2025,v Zalmi,Rawalpindi,1,1,1,0,0,1
+308251,22 Apr 2025,v Qalandars,Multan,2,1,1,0,0,1
+308251,29 Apr 2025,v Gladiators,Lahore,2,0,0,0,0,0
+308251,1 May 2025,v Kings,Lahore,1,1,1,0,0,1
+308251,5 May 2025,v Zalmi,Multan,2,0,0,0,0,0
+308251,30 May 2025,v Yorkshire,Leeds,2,0,0,0,0,0
+308251,1 Jun 2025,v Leics,Northampton,1,2,2,0,0,2
+308251,4 Jun 2025,v Derbyshire,Derby,2,1,1,0,0,1
+308251,6 Jun 2025,v Worcs,Worcester,2,4,4,0,0,4
+308251,8 Jun 2025,v Lancashire,Manchester,2,1,1,0,0,1
+308251,11 Jun 2025,v Bears,Northampton,2,1,1,0,0,1
+308251,13 Jun 2025,v Durham,Northampton,1,1,1,0,0,1
+308251,20 Jun 2025,v Notts,Northampton,1,3,3,0,0,3
+308251,4 Jul 2025,v Lancashire,Northampton,2,0,0,0,0,0
+308251,6 Jul 2025,v Worcs,Northampton,2,0,0,0,0,0
+308251,10 Jul 2025,v Leics,Leicester,2,2,2,0,0,2
+308251,11 Jul 2025,v Derbyshire,Northampton,2,1,1,0,0,1
+308251,13 Jul 2025,v Bears,Birmingham,2,0,0,0,0,0
+308251,18 Jul 2025,v Durham,Chester-le-Street,2,0,0,0,0,0
+308251,8 Aug 2025,v Phoenix,Birmingham,1,0,0,0,0,0
+308251,10 Aug 2025,v N S-Chargers,Nottingham,1,0,0,0,0,0
+308251,14 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+308251,16 Aug 2025,v Brave,Nottingham,1,0,0,0,0,0
+308251,19 Aug 2025,v Originals,Nottingham,1,0,0,0,0,0
+308251,21 Aug 2025,v Invincibles,The Oval,2,1,1,0,0,1
+308251,24 Aug 2025,v Fire,Cardiff,1,0,0,0,0,0
+308251,27 Aug 2025,v Phoenix,Nottingham,1,1,1,0,0,1
+308251,30 Aug 2025,v N S-Chargers,The Oval,1,1,1,0,0,1
+308251,31 Aug 2025,v Invincibles,Lord's,1,0,0,0,0,0
+308251,3 Sep 2025,v Surrey,The Oval,2,0,0,0,0,0
+308251,13 Sep 2025,v Hampshire,Birmingham,2,1,1,0,0,1
+308251,2 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+308251,6 Dec 2025,v Gulf Giants,Dubai (DICS),2,1,1,0,0,1
+308251,7 Dec 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+308251,13 Dec 2025,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+308251,14 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+308251,17 Dec 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+308251,19 Dec 2025,v Warriorz,Dubai (DICS),2,1,1,0,0,1
+308251,21 Dec 2025,v Gulf Giants,Abu Dhabi,1,0,0,0,0,0
+308251,24 Dec 2025,v Warriorz,Dubai (DICS),1,2,2,0,0,2
+308251,27 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+308251,1 Jan 2026,v KnightRiders,Dubai (DICS),1,1,1,0,0,1
+308251,6 Jan 2026,v Strikers,Adelaide,1,1,1,0,0,1
+308251,10 Jan 2026,v Heat,Brisbane,2,2,2,0,0,2
+308251,12 Jan 2026,v Renegades,Sydney,1,1,1,0,0,1

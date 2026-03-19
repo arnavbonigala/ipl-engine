@@ -1,0 +1,214 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+390484,4 Apr 2010,v Kings XI,Eden Gardens,2,0,0,0,0,0
+390484,17 Apr 2010,v RR,Eden Gardens,1,1,1,0,0,1
+390484,19 Apr 2010,v MI,Eden Gardens,1,0,0,0,0,0
+390484,21 Oct 2010,v Maharashtra,Vadodara,1,0,0,0,0,0
+390484,22 Oct 2010,v Mumbai,Vadodara,1,0,0,0,0,0
+390484,24 Oct 2010,v Baroda,Vadodara,2,0,0,0,0,0
+390484,25 Oct 2010,v Gujarat,Vadodara,2,0,0,0,0,0
+390484,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+390484,22 Apr 2011,v RCB,Eden Gardens,2,0,0,0,0,0
+390484,28 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+390484,3 May 2011,v Chargers,Hyderabad,2,0,0,0,0,0
+390484,5 May 2011,v Kochi,Kochi,1,0,0,0,0,0
+390484,7 May 2011,v CSK,Eden Gardens,1,0,0,0,0,0
+390484,14 May 2011,v RCB,Bengaluru,2,2,2,0,0,2
+390484,19 Sep 2011,v Auckland,Hyderabad,2,0,0,0,0,0
+390484,21 Sep 2011,v Somerset,Hyderabad,1,0,0,0,0,0
+390484,29 Sep 2011,v RCB,Bengaluru,1,0,0,0,0,0
+390484,21 Oct 2011,v Maharashtra,Rajkot,2,0,0,0,0,0
+390484,22 Oct 2011,v Mumbai,Rajkot,2,1,1,0,0,1
+390484,24 Oct 2011,v Baroda,Rajkot,2,1,1,0,0,1
+390484,25 Oct 2011,v Gujarat,Rajkot,2,0,0,0,0,0
+390484,15 Apr 2012,v Kings XI,Eden Gardens,1,0,0,0,0,0
+390484,18 Mar 2013,v Maharashtra,Ahmedabad,2,0,0,0,0,0
+390484,19 Mar 2013,v Mumbai,Ahmedabad,2,0,0,0,0,0
+390484,21 Mar 2013,v Baroda,Ahmedabad,2,0,0,0,0,0
+390484,22 Mar 2013,v Gujarat,Ahmedabad,1,1,1,0,0,1
+390484,4 Apr 2013,v MI,Bengaluru,2,0,0,0,0,0
+390484,7 Apr 2013,v SRH,Hyderabad,2,0,0,0,0,0
+390484,9 Apr 2013,v SRH,Bengaluru,1,0,0,0,0,0
+390484,11 Apr 2013,v KKR,Bengaluru,1,0,0,0,0,0
+390484,16 Apr 2013,v Daredevils,Bengaluru,1,0,0,0,0,0
+390484,20 Apr 2013,v RR,Bengaluru,1,0,0,0,0,0
+390484,23 Apr 2013,v Warriors,Bengaluru,2,0,0,0,0,0
+390484,27 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+390484,29 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+390484,10 May 2013,v Daredevils,Delhi,2,0,0,0,0,0
+390484,12 May 2013,v KKR,Ranchi,2,0,0,0,0,0
+390484,14 May 2013,v Kings XI,Bengaluru,2,0,0,0,0,0
+390484,18 May 2013,v CSK,Bengaluru,2,1,1,0,0,1
+390484,21 Sep 2013,v W. Indies A,Bengaluru,2,1,1,0,0,1
+390484,31 Mar 2014,v Maharashtra,Wankhede,2,0,0,0,0,0
+390484,2 Apr 2014,v Mumbai,Mumbai,1,0,0,0,0,0
+390484,3 Apr 2014,v Baroda,Mumbai,1,1,1,0,0,1
+390484,4 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+390484,19 Apr 2014,v KKR,Dubai (DICS),1,0,0,0,0,0
+390484,21 Apr 2014,v CSK,Abu Dhabi,1,0,0,0,0,0
+390484,25 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+390484,27 Apr 2014,v MI,Sharjah,1,0,0,0,0,0
+390484,3 May 2014,v RR,Delhi,2,0,0,0,0,0
+390484,5 May 2014,v CSK,Delhi,2,0,0,0,0,0
+390484,19 May 2014,v Kings XI,Delhi,2,0,0,0,0,0
+390484,23 May 2014,v MI,Wankhede,1,0,0,0,0,0
+390484,25 May 2014,v Kings XI,Mohali,2,0,0,0,0,0
+390484,25 Mar 2015,v Maharashtra,Pune,1,0,0,0,0,0
+390484,26 Mar 2015,v Mumbai,Pune,2,2,2,0,0,2
+390484,27 Mar 2015,v Baroda,Pune,1,0,0,0,0,0
+390484,28 Mar 2015,v Gujarat,Pune,1,1,1,0,0,1
+390484,12 Apr 2015,v RR,Delhi,2,0,0,0,0,0
+390484,2 Jan 2016,v Tripura,Kochi,2,1,1,0,0,1
+390484,4 Jan 2016,v J & K,Kochi,2,0,0,0,0,0
+390484,6 Jan 2016,v Kerala,Kochi,1,0,0,0,0,0
+390484,7 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+390484,9 Jan 2016,v Jharkhand,Kochi,2,0,0,0,0,0
+390484,10 Jan 2016,v Punjab,Kochi,2,1,1,0,0,1
+390484,28 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+390484,18 Jun 2016,v Zimbabwe,Harare,1,0,0,0,0,0
+390484,30 Jan 2017,v Maharashtra,Vadodara,1,0,0,0,0,0
+390484,1 Feb 2017,v Mumbai,Vadodara,2,1,1,0,0,1
+390484,2 Feb 2017,v Baroda,Vadodara,2,0,0,0,0,0
+390484,4 Feb 2017,v Gujarat,Vadodara,2,0,0,0,0,0
+390484,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+390484,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+390484,24 Apr 2017,v MI,Wankhede,2,2,2,0,0,2
+390484,26 Apr 2017,v KKR,Pune,2,0,0,0,0,0
+390484,29 Apr 2017,v RCB,Pune,2,0,0,0,0,0
+390484,1 May 2017,v Guj Lions,Pune,1,1,1,0,0,1
+390484,3 May 2017,v KKR,Eden Gardens,1,1,1,0,0,1
+390484,6 May 2017,v SRH,Hyderabad,2,1,1,0,0,1
+390484,12 May 2017,v Daredevils,Delhi,1,1,1,0,0,1
+390484,14 May 2017,v Kings XI,Pune,1,1,1,0,0,1
+390484,16 May 2017,v MI,Wankhede,2,1,1,0,0,1
+390484,21 May 2017,v MI,Hyderabad,1,1,1,0,0,1
+390484,20 Dec 2017,v Sri Lanka,Cuttack,2,1,1,0,0,1
+390484,22 Dec 2017,v Sri Lanka,Indore,2,0,0,0,0,0
+390484,24 Dec 2017,v Sri Lanka,Wankhede,1,0,0,0,0,0
+390484,8 Jan 2018,v Maharashtra,Rajkot,2,0,0,0,0,0
+390484,10 Jan 2018,v Mumbai,Rajkot,1,1,1,0,0,1
+390484,11 Jan 2018,v Baroda,Rajkot,2,0,0,0,0,0
+390484,13 Jan 2018,v Gujarat,Rajkot,2,0,0,0,0,0
+390484,18 Feb 2018,v South Africa,Johannesburg,2,0,0,0,0,0
+390484,21 Feb 2018,v South Africa,Centurion,2,0,0,0,0,0
+390484,6 Mar 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+390484,8 Mar 2018,v Bangladesh,Colombo (RPS),1,1,1,0,0,1
+390484,12 Mar 2018,v Sri Lanka,Colombo (RPS),1,1,1,0,0,1
+390484,18 Mar 2018,v Bangladesh,Colombo (RPS),1,0,0,0,0,0
+390484,9 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+390484,11 Apr 2018,v Daredevils,Jaipur,2,0,0,0,0,0
+390484,15 Apr 2018,v RCB,Bengaluru,2,2,2,0,0,2
+390484,18 Apr 2018,v KKR,Jaipur,2,0,0,0,0,0
+390484,20 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+390484,22 Apr 2018,v MI,Jaipur,1,0,0,0,0,0
+390484,29 Apr 2018,v SRH,Jaipur,1,0,0,0,0,0
+390484,2 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+390484,6 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+390484,8 May 2018,v Kings XI,Jaipur,2,1,1,0,0,1
+390484,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+390484,13 May 2018,v MI,Wankhede,1,2,2,0,0,2
+390484,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+390484,19 May 2018,v RCB,Jaipur,2,0,0,0,0,0
+390484,23 May 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+390484,21 Feb 2019,v Railways,Indore,2,1,1,0,0,1
+390484,22 Feb 2019,v M. Pradesh,Indore,1,0,0,0,0,0
+390484,24 Feb 2019,v Punjab,Indore,1,0,0,0,0,0
+390484,25 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+390484,28 Feb 2019,v Mumbai,Indore,1,2,2,0,0,2
+390484,2 Mar 2019,v Goa,Indore,1,0,0,0,0,0
+390484,25 Mar 2019,v Kings XI,Jaipur,1,0,0,0,0,0
+390484,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+390484,31 Mar 2019,v CSK,Chennai,1,0,0,0,0,0
+390484,11 Apr 2019,v CSK,Jaipur,2,0,0,0,0,0
+390484,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+390484,16 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+390484,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+390484,22 Apr 2019,v DC,Jaipur,2,0,0,0,0,0
+390484,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+390484,27 Apr 2019,v SRH,Jaipur,1,3,3,0,0,3
+390484,30 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+390484,8 Nov 2019,v Nagaland,Surat,1,0,0,0,0,0
+390484,9 Nov 2019,v Jharkhand,Surat,2,0,0,0,0,0
+390484,11 Nov 2019,v Gujarat,Surat,2,0,0,0,0,0
+390484,12 Nov 2019,v Delhi,Surat,2,1,1,0,0,1
+390484,14 Nov 2019,v Odisha,Surat,1,0,0,0,0,0
+390484,15 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+390484,17 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+390484,22 Sep 2020,v CSK,Sharjah,2,0,0,0,0,0
+390484,27 Sep 2020,v Kings XI,Sharjah,1,0,0,0,0,0
+390484,30 Sep 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+390484,3 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+390484,11 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+390484,14 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+390484,17 Oct 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+390484,11 Jan 2021,v Services,Indore,1,0,0,0,0,0
+390484,13 Jan 2021,v Vidarbha,Indore,2,0,0,0,0,0
+390484,15 Jan 2021,v Goa,Indore,2,0,0,0,0,0
+390484,17 Jan 2021,v M. Pradesh,Indore,2,0,0,0,0,0
+390484,19 Jan 2021,v Rajasthan,Indore,1,0,0,0,0,0
+390484,15 Apr 2021,v DC,Wankhede,1,1,1,0,0,1
+390484,19 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+390484,24 Apr 2021,v KKR,Wankhede,1,0,0,0,0,0
+390484,29 Apr 2021,v MI,Delhi,2,0,0,0,0,0
+390484,27 Sep 2021,v SRH,Dubai (DICS),2,0,0,0,0,0
+390484,7 Oct 2021,v KKR,Sharjah,1,0,0,0,0,0
+390484,4 Nov 2021,v Hyderabad,Sultanpur,2,0,0,0,0,0
+390484,5 Nov 2021,v UP,Sultanpur,2,1,1,0,0,1
+390484,6 Nov 2021,v Uttarakhand,Sultanpur,2,0,0,0,0,0
+390484,8 Nov 2021,v Chandigarh,Rohtak,2,0,0,0,0,0
+390484,9 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+390484,16 Nov 2021,v Karnataka,Delhi,2,0,0,0,0,0
+390484,9 Apr 2022,v RCB,Pune,2,0,0,0,0,0
+390484,13 Apr 2022,v Punjab Kings,Pune,1,0,0,0,0,0
+390484,16 Apr 2022,v LSG,Brabourne,1,0,0,0,0,0
+390484,21 Apr 2022,v CSK,DY Patil,2,1,1,0,0,1
+390484,24 Apr 2022,v LSG,Wankhede,1,0,0,0,0,0
+390484,12 Oct 2022,v Baroda,Indore,1,0,0,0,0,0
+390484,14 Oct 2022,v Nagaland,Indore,2,1,1,0,0,1
+390484,16 Oct 2022,v Gujarat,Indore,1,0,0,0,0,0
+390484,18 Oct 2022,v Himachal,Indore,1,2,2,0,0,2
+390484,20 Oct 2022,v Bihar,Indore,1,0,0,0,0,0
+390484,30 Oct 2022,v Kerala,Eden Gardens,2,0,0,0,0,0
+390484,1 Nov 2022,v Mumbai,Eden Gardens,2,0,0,0,0,0
+390484,1 Apr 2023,v DC,Lucknow,2,0,0,0,0,0
+390484,7 Apr 2023,v SRH,Lucknow,1,0,0,0,0,0
+390484,10 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+390484,16 Oct 2023,v Punjab,Ranchi,2,1,1,0,0,1
+390484,17 Oct 2023,v Gujarat,Ranchi,2,0,0,0,0,0
+390484,19 Oct 2023,v Manipur,Ranchi,2,0,0,0,0,0
+390484,21 Oct 2023,v Railways,Ranchi,2,0,0,0,0,0
+390484,23 Oct 2023,v Arunachal,Ranchi,1,0,0,0,0,0
+390484,25 Oct 2023,v Andhra,Ranchi,1,1,1,0,0,1
+390484,27 Oct 2023,v Goa,Ranchi,1,0,0,0,0,0
+390484,27 Mar 2024,v MI,Hyderabad,2,0,0,0,0,0
+390484,31 Mar 2024,v GT,Ahmedabad,2,0,0,0,0,0
+390484,5 Apr 2024,v CSK,Hyderabad,1,0,0,0,0,0
+390484,9 Apr 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+390484,15 Apr 2024,v RCB,Bengaluru,2,0,0,0,0,0
+390484,25 Apr 2024,v RCB,Hyderabad,1,0,0,0,0,0
+390484,28 Apr 2024,v CSK,Chennai,1,0,0,0,0,0
+390484,2 May 2024,v RR,Hyderabad,2,0,0,0,0,0
+390484,8 May 2024,v LSG,Hyderabad,1,0,0,0,0,0
+390484,24 May 2024,v RR,Chennai,2,0,0,0,0,0
+390484,26 May 2024,v KKR,Chennai,2,0,0,0,0,0
+390484,23 Nov 2024,v Sikkim,Indore,2,1,1,0,0,1
+390484,25 Nov 2024,v Gujarat,Indore,2,1,1,0,0,1
+390484,27 Nov 2024,v Karnataka,Indore,1,0,0,0,0,0
+390484,29 Nov 2024,v Uttarakhand,Indore,2,1,1,0,0,1
+390484,1 Dec 2024,v Baroda,Indore,2,2,2,0,0,2
+390484,3 Dec 2024,v Tamil Nadu,Indore,2,3,3,0,0,3
+390484,5 Dec 2024,v Tripura,Indore,1,1,1,0,0,1
+390484,11 Dec 2024,v M. Pradesh,Alur,2,0,0,0,0,0
+390484,6 Apr 2025,v GT,Hyderabad,2,0,0,0,0,0
+390484,23 Apr 2025,v MI,Hyderabad,2,1,1,0,0,1
+390484,25 Apr 2025,v CSK,Chennai,1,0,0,0,0,0
+390484,2 May 2025,v GT,Ahmedabad,1,1,1,0,0,1
+390484,5 May 2025,v DC,Hyderabad,1,0,0,0,0,0
+390484,23 May 2025,v RCB,Lucknow,2,0,0,0,0,0
+390484,25 May 2025,v KKR,Delhi,2,0,0,0,0,0
+390484,26 Nov 2025,v Tripura,Ahmedabad,1,0,0,0,0,0
+390484,28 Nov 2025,v Uttarakhand,Ahmedabad,2,0,0,0,0,0
+390484,30 Nov 2025,v Delhi,Ahmedabad,1,0,0,0,0,0
+390484,2 Dec 2025,v Jharkhand,Ahmedabad,1,1,1,0,0,1
+390484,4 Dec 2025,v Rajasthan,Ahmedabad,2,2,2,0,0,2
+390484,6 Dec 2025,v Karnataka,Ahmedabad,2,0,0,0,0,0
+390484,8 Dec 2025,v Tamil Nadu,Ahmedabad,2,0,0,0,0,0

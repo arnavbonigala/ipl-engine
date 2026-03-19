@@ -1,0 +1,113 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+6033,6 Jan 2006,v Tasmania,Brisbane,2,0,0,0,0,0
+6033,9 Jul 2006,v NZ A,Darwin,2,0,0,0,0,0
+6033,5 Jan 2007,v NSW,Brisbane,2,0,0,0,0,0
+6033,12 Sep 2007,v Zimbabwe,Cape Town,2,0,0,0,0,0
+6033,14 Sep 2007,v England,Cape Town,1,0,0,0,0,0
+6033,16 Sep 2007,v Bangladesh,Cape Town,1,0,0,0,0,0
+6033,18 Sep 2007,v Pakistan,Johannesburg,2,1,1,0,0,1
+6033,20 Sep 2007,v Sri Lanka,Cape Town,1,0,0,0,0,0
+6033,22 Sep 2007,v India,Durban,1,0,0,0,0,0
+6033,11 Dec 2007,v New Zealand,W.A.C.A,2,1,1,0,0,1
+6033,20 Jun 2008,v West Indies,Bridgetown,2,1,1,0,0,1
+6033,27 Mar 2009,v South Africa,Johannesburg,2,0,0,0,0,0
+6033,6 Jun 2009,v West Indies,The Oval,2,0,0,0,0,0
+6033,8 Jun 2009,v Sri Lanka,Nottingham,2,0,0,0,0,0
+6033,30 Aug 2009,v England,Manchester,2,0,0,0,0,0
+6033,5 Feb 2010,v Pakistan,Melbourne,2,0,0,0,0,0
+6033,21 Feb 2010,v West Indies,Hobart,2,0,0,0,0,0
+6033,23 Feb 2010,v West Indies,Sydney,1,0,0,0,0,0
+6033,26 Feb 2010,v New Zealand,Wellington,1,0,0,0,0,0
+6033,2 May 2010,v Pakistan,Gros Islet,2,0,0,0,0,0
+6033,7 May 2010,v India,Bridgetown,2,0,0,0,0,0
+6033,9 May 2010,v Sri Lanka,Bridgetown,2,0,0,0,0,0
+6033,11 May 2010,v West Indies,Gros Islet,1,1,1,0,0,1
+6033,14 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+6033,16 May 2010,v England,Bridgetown,2,0,0,0,0,0
+6033,5 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+6033,6 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+6033,12 Jan 2011,v England,Adelaide,2,0,0,0,0,0
+6033,14 Jan 2011,v England,Melbourne,2,0,0,0,0,0
+6033,6 Aug 2011,v Sri Lanka,Pallekele,1,0,0,0,0,0
+6033,8 Aug 2011,v Sri Lanka,Pallekele,1,0,0,0,0,0
+6033,14 Oct 2012,v Lions,Johannesburg,2,0,0,0,0,0
+6033,18 Oct 2012,v Yorkshire,Cape Town,-,TDNF,-,-,-,-
+6033,20 Oct 2012,v CSK,Johannesburg,1,1,1,0,0,1
+6033,4 Apr 2013,v RCB,Bengaluru,1,1,1,0,0,1
+6033,6 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+6033,9 Apr 2013,v Daredevils,Wankhede,2,1,1,0,0,1
+6033,13 Apr 2013,v Warriors,Wankhede,2,0,0,0,0,0
+6033,17 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+6033,24 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+6033,27 Apr 2013,v RCB,Wankhede,2,2,2,0,0,2
+6033,29 Apr 2013,v Kings XI,Wankhede,2,1,1,0,0,1
+6033,1 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+6033,5 May 2013,v CSK,Wankhede,2,0,0,0,0,0
+6033,7 May 2013,v KKR,Wankhede,2,0,0,0,0,0
+6033,11 May 2013,v Warriors,Pune,1,0,0,0,0,0
+6033,13 May 2013,v SRH,Wankhede,1,1,1,0,0,1
+6033,15 May 2013,v RR,Wankhede,2,0,0,0,0,0
+6033,21 May 2013,v CSK,Delhi,1,0,0,0,0,0
+6033,24 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+6033,26 May 2013,v CSK,Eden Gardens,2,1,1,0,0,1
+6033,29 Aug 2013,v England,Southampton,2,0,0,0,0,0
+6033,31 Aug 2013,v England,Chester-le-Street,1,1,1,0,0,1
+6033,21 Sep 2013,v RR,Jaipur,2,0,0,0,0,0
+6033,27 Sep 2013,v Lions,Jaipur,1,0,0,0,0,0
+6033,5 Oct 2013,v Trinidad & T,Delhi,1,0,0,0,0,0
+6033,18 Apr 2014,v CSK,Abu Dhabi,1,0,0,0,0,0
+6033,20 Apr 2014,v RR,Sharjah,1,0,0,0,0,0
+6033,22 Apr 2014,v SRH,Sharjah,2,1,1,0,0,1
+6033,26 Apr 2014,v KKR,Abu Dhabi,2,1,1,0,0,1
+6033,28 Apr 2014,v RCB,Dubai (DICS),1,0,0,0,0,0
+6033,3 May 2014,v MI,Wankhede,2,0,0,0,0,0
+6033,7 May 2014,v CSK,Cuttack,2,1,1,0,0,1
+6033,9 May 2014,v RCB,Bengaluru,2,0,0,0,0,0
+6033,11 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+6033,14 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+6033,25 May 2014,v Daredevils,Mohali,1,0,0,0,0,0
+6033,27 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+6033,30 May 2014,v CSK,Wankhede,2,1,1,0,0,1
+6033,1 Jun 2014,v KKR,Bengaluru,2,0,0,0,0,0
+6033,10 Apr 2015,v RR,Pune,1,0,0,0,0,0
+6033,12 Apr 2015,v MI,Wankhede,2,0,0,0,0,0
+6033,15 Apr 2015,v Daredevils,Pune,2,0,0,0,0,0
+6033,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+6033,21 Apr 2015,v RR,Ahmedabad,1,0,0,0,0,0
+6033,25 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+6033,27 Apr 2015,v SRH,Mohali,1,0,0,0,0,0
+6033,3 May 2015,v MI,Mohali,1,0,0,0,0,0
+6033,6 May 2015,v RCB,Bengaluru,1,0,0,0,0,0
+6033,11 Apr 2016,v Guj Lions,Mohali,2,1,1,0,0,1
+6033,15 Apr 2016,v Daredevils,Delhi,2,0,0,0,0,0
+6033,25 Apr 2016,v MI,Mohali,1,0,0,0,0,0
+6033,23 Dec 2016,v Strikers,W.A.C.A,2,0,0,0,0,0
+6033,29 Dec 2016,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+6033,1 Jan 2017,v Thunder,W.A.C.A,2,0,0,0,0,0
+6033,5 Jan 2017,v Heat,W.A.C.A,2,0,0,0,0,0
+6033,11 Jan 2017,v Heat,Brisbane,2,0,0,0,0,0
+6033,14 Jan 2017,v Stars,W.A.C.A,2,0,0,0,0,0
+6033,21 Jan 2017,v Hurricanes,Hobart,1,0,0,0,0,0
+6033,24 Jan 2017,v Stars,W.A.C.A,1,0,0,0,0,0
+6033,28 Jan 2017,v Sixers,W.A.C.A,1,1,1,0,0,1
+6033,22 Apr 2017,v Daredevils,Wankhede,2,0,0,0,0,0
+6033,24 Apr 2017,v Supergiant,Wankhede,1,0,0,0,0,0
+6033,13 May 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+6033,19 May 2017,v KKR,Bengaluru,1,1,1,0,0,1
+6033,21 May 2017,v Supergiant,Hyderabad,2,0,0,0,0,0
+6033,23 Dec 2017,v Sixers,Sydney,1,1,1,0,0,1
+6033,26 Dec 2017,v Stars,W.A.C.A,2,0,0,0,0,0
+6033,29 Dec 2017,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+6033,1 Jan 2018,v Sixers,W.A.C.A,1,0,0,0,0,0
+6033,8 Jan 2018,v Renegades,W.A.C.A,1,1,1,0,0,1
+6033,11 Jan 2018,v Thunder,Sydney,1,0,0,0,0,0
+6033,13 Jan 2018,v Strikers,Alice Springs,1,1,1,0,0,1
+6033,20 Jan 2018,v Hurricanes,W.A.C.A,1,0,0,0,0,0
+6033,25 Jan 2018,v Strikers,W.A.C.A,1,2,2,0,0,2
+6033,1 Feb 2018,v Hurricanes,Perth,1,1,1,0,0,1
+6033,8 Apr 2018,v RCB,Eden Gardens,1,1,1,0,0,1
+6033,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+6033,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+6033,29 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+6033,3 May 2018,v CSK,Eden Gardens,1,1,1,0,0,1
+6033,6 May 2018,v MI,Wankhede,1,0,0,0,0,0

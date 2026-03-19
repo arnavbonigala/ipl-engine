@@ -1,0 +1,159 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+311592,30 Dec 2009,v Tasmania,Hobart,2,0,0,0,0,0
+311592,2 Jan 2010,v Victoria,Melbourne,2,0,0,0,0,0
+311592,5 Jan 2010,v West Aust,W.A.C.A,1,0,0,0,0,0
+311592,13 Jan 2010,v Queensland,Sydney,1,0,0,0,0,0
+311592,17 Jan 2010,v South Aust,Sydney,1,0,0,0,0,0
+311592,24 Sep 2011,v Cape Cobras,Chennai,2,0,0,0,0,0
+311592,28 Sep 2011,v Trinidad & T,Chennai,1,0,0,0,0,0
+311592,2 Oct 2011,v MI,Chennai,1,0,0,0,0,0
+311592,4 Oct 2011,v CSK,Chennai,2,1,1,0,0,1
+311592,7 Oct 2011,v RCB,Bengaluru,2,0,0,0,0,0
+311592,16 Dec 2011,v Heat,Sydney,1,1,1,0,0,1
+311592,21 Dec 2011,v Hurricanes,Hobart,1,0,0,0,0,0
+311592,27 Dec 2011,v Stars,Sydney,2,0,0,0,0,0
+311592,8 Jan 2012,v Thunder,Sydney,2,0,0,0,0,0
+311592,18 Jan 2012,v Scorchers,Sydney,2,0,0,0,0,0
+311592,28 Jan 2012,v Scorchers,W.A.C.A,1,0,0,0,0,0
+311592,15 Jun 2012,v Durham,Leeds,1,1,1,0,0,1
+311592,17 Jun 2012,v Leics,Leeds,2,0,0,0,0,0
+311592,18 Jun 2012,v Derbyshire,Derby,2,0,0,0,0,0
+311592,22 Jun 2012,v Durham,Chester-le-Street,2,0,0,0,0,0
+311592,24 Jun 2012,v Notts,Scarborough,1,0,0,0,0,0
+311592,27 Jun 2012,v Leics,Leicester,2,0,0,0,0,0
+311592,29 Jun 2012,v Lancashire,Leeds,2,0,0,0,0,0
+311592,5 Jul 2012,v Notts,Nottingham,1,0,0,0,0,0
+311592,8 Jul 2012,v Derbyshire,Leeds,2,0,0,0,0,0
+311592,25 Jul 2012,v Worcs,Leeds,2,0,0,0,0,0
+311592,7 Sep 2012,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+311592,10 Sep 2012,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+311592,19 Sep 2012,v Ireland,Colombo (RPS),1,1,1,0,0,1
+311592,22 Sep 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+311592,28 Sep 2012,v India,Colombo (RPS),1,0,0,0,0,0
+311592,30 Sep 2012,v South Africa,Colombo (RPS),1,0,0,0,0,0
+311592,2 Oct 2012,v Pakistan,Colombo (RPS),1,0,0,0,0,0
+311592,5 Oct 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+311592,14 Oct 2012,v CSK,Johannesburg,2,1,1,0,0,1
+311592,16 Oct 2012,v Yorkshire,Cape Town,1,0,0,0,0,0
+311592,18 Oct 2012,v Lions,Cape Town,1,1,1,0,0,1
+311592,22 Oct 2012,v MI,Durban,2,0,0,0,0,0
+311592,26 Oct 2012,v Titans,Centurion,1,0,0,0,0,0
+311592,28 Oct 2012,v Lions,Johannesburg,1,0,0,0,0,0
+311592,8 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+311592,26 Jan 2013,v Sri Lanka,Sydney,2,0,0,0,0,0
+311592,28 Jan 2013,v Sri Lanka,Melbourne,1,0,0,0,0,0
+311592,31 Jan 2014,v England,Melbourne,1,1,1,0,0,1
+311592,2 Feb 2014,v England,Sydney,2,1,1,0,0,1
+311592,5 Feb 2014,v Scorchers,Sydney,1,0,0,0,0,0
+311592,12 Mar 2014,v South Africa,Durban,1,0,0,0,0,0
+311592,14 Mar 2014,v South Africa,Centurion,1,0,0,0,0,0
+311592,23 Mar 2014,v Pakistan,Mirpur,1,0,0,0,0,0
+311592,28 Mar 2014,v West Indies,Mirpur,2,0,0,0,0,0
+311592,30 Mar 2014,v India,Mirpur,1,0,0,0,0,0
+311592,1 Apr 2014,v Bangladesh,Mirpur,1,0,0,0,0,0
+311592,17 Apr 2014,v Daredevils,Sharjah,1,0,0,0,0,0
+311592,19 Apr 2014,v MI,Dubai (DICS),1,0,0,0,0,0
+311592,24 Apr 2014,v KKR,Sharjah,1,1,1,0,0,1
+311592,26 Apr 2014,v RR,Abu Dhabi,2,0,0,0,0,0
+311592,28 Apr 2014,v Kings XI,Dubai (DICS),2,2,2,0,0,2
+311592,4 May 2014,v SRH,Bengaluru,1,2,2,0,0,2
+311592,6 May 2014,v MI,Wankhede,1,0,0,0,0,0
+311592,9 May 2014,v Kings XI,Bengaluru,1,1,1,0,0,1
+311592,11 May 2014,v RR,Bengaluru,2,0,0,0,0,0
+311592,13 May 2014,v Daredevils,Bengaluru,2,0,0,0,0,0
+311592,18 May 2014,v CSK,Ranchi,1,2,2,0,0,2
+311592,20 May 2014,v SRH,Hyderabad,2,0,0,0,0,0
+311592,22 May 2014,v KKR,Eden Gardens,1,1,1,0,0,1
+311592,24 May 2014,v CSK,Bengaluru,2,0,0,0,0,0
+311592,5 Oct 2014,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+311592,27 Dec 2014,v Thunder,Sydney,2,0,0,0,0,0
+311592,29 Dec 2014,v Scorchers,Sydney,1,1,1,0,0,1
+311592,22 Apr 2015,v CSK,Bengaluru,1,0,0,0,0,0
+311592,24 Apr 2015,v RR,Ahmedabad,1,1,1,0,0,1
+311592,26 Apr 2015,v Daredevils,Delhi,1,1,1,0,0,1
+311592,29 Apr 2015,v RR,Bengaluru,-,TDNF,-,-,-,-
+311592,2 May 2015,v KKR,Bengaluru,1,0,0,0,0,0
+311592,4 May 2015,v CSK,Chennai,1,1,1,0,0,1
+311592,6 May 2015,v Kings XI,Bengaluru,2,0,0,0,0,0
+311592,10 May 2015,v MI,Wankhede,2,1,1,0,0,1
+311592,13 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+311592,15 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+311592,17 May 2015,v Daredevils,Bengaluru,1,1,1,0,0,1
+311592,20 May 2015,v RR,Pune,2,1,1,0,0,1
+311592,22 May 2015,v CSK,Ranchi,2,1,1,0,0,1
+311592,31 Aug 2015,v England,Cardiff,1,0,0,0,0,0
+311592,6 Sep 2016,v Sri Lanka,Pallekele,2,2,2,0,0,2
+311592,9 Sep 2016,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+311592,25 Nov 2018,v India,Sydney,2,0,0,0,0,0
+311592,27 Oct 2019,v Sri Lanka,Adelaide,2,0,0,0,0,0
+311592,1 Nov 2019,v Sri Lanka,Melbourne,1,0,0,0,0,0
+311592,3 Nov 2019,v Pakistan,Sydney,1,0,0,0,0,0
+311592,5 Nov 2019,v Pakistan,Canberra,1,0,0,0,0,0
+311592,8 Nov 2019,v Pakistan,Perth,1,2,2,0,0,2
+311592,21 Feb 2020,v South Africa,Johannesburg,2,1,1,0,0,1
+311592,23 Feb 2020,v South Africa,Gqeberha,1,1,1,0,0,1
+311592,26 Feb 2020,v South Africa,Cape Town,2,0,0,0,0,0
+311592,4 Sep 2020,v England,Southampton,1,1,1,0,0,1
+311592,6 Sep 2020,v England,Southampton,2,0,0,0,0,0
+311592,8 Sep 2020,v England,Southampton,1,0,0,0,0,0
+311592,4 Dec 2020,v India,Canberra,1,0,0,0,0,0
+311592,9 Jul 2021,v West Indies,Gros Islet,1,1,1,0,0,1
+311592,10 Jul 2021,v West Indies,Gros Islet,1,0,0,0,0,0
+311592,12 Jul 2021,v West Indies,Gros Islet,2,1,1,0,0,1
+311592,14 Jul 2021,v West Indies,Gros Islet,2,0,0,0,0,0
+311592,3 Aug 2021,v Bangladesh,Mirpur,1,0,0,0,0,0
+311592,4 Aug 2021,v Bangladesh,Mirpur,2,0,0,0,0,0
+311592,23 Oct 2021,v South Africa,Abu Dhabi,1,0,0,0,0,0
+311592,28 Oct 2021,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+311592,30 Oct 2021,v England,Dubai (DICS),2,0,0,0,0,0
+311592,4 Nov 2021,v Bangladesh,Dubai (DICS),1,0,0,0,0,0
+311592,6 Nov 2021,v West Indies,Abu Dhabi,1,0,0,0,0,0
+311592,11 Nov 2021,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+311592,14 Nov 2021,v New Zealand,Dubai (DICS),1,0,0,0,0,0
+311592,11 Feb 2022,v Sri Lanka,Sydney,2,1,1,0,0,1
+311592,15 Feb 2022,v Sri Lanka,Canberra,1,0,0,0,0,0
+311592,7 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+311592,5 Oct 2022,v West Indies,Carrara,1,0,0,0,0,0
+311592,7 Oct 2022,v West Indies,Brisbane,2,1,1,0,0,1
+311592,12 Oct 2022,v England,Canberra,1,0,0,0,0,0
+311592,14 Oct 2022,v England,Canberra,1,0,0,0,0,0
+311592,22 Oct 2022,v New Zealand,Sydney,1,0,0,0,0,0
+311592,25 Oct 2022,v Sri Lanka,Perth,1,0,0,0,0,0
+311592,31 Oct 2022,v Ireland,Brisbane,2,0,0,0,0,0
+311592,21 Feb 2024,v New Zealand,Wellington,1,2,2,0,0,2
+311592,25 Feb 2024,v New Zealand,Auckland,2,1,1,0,0,1
+311592,23 Mar 2024,v SRH,Eden Gardens,2,0,0,0,0,0
+311592,29 Mar 2024,v RCB,Bengaluru,1,1,1,0,0,1
+311592,3 Apr 2024,v DC,Visakhapatnam,2,1,1,0,0,1
+311592,8 Apr 2024,v CSK,Chennai,2,0,0,0,0,0
+311592,14 Apr 2024,v LSG,Eden Gardens,1,0,0,0,0,0
+311592,16 Apr 2024,v RR,Eden Gardens,2,0,0,0,0,0
+311592,21 Apr 2024,v RCB,Eden Gardens,2,1,1,0,0,1
+311592,29 Apr 2024,v DC,Eden Gardens,1,0,0,0,0,0
+311592,3 May 2024,v MI,Wankhede,2,0,0,0,0,0
+311592,5 May 2024,v LSG,Lucknow,2,1,1,0,0,1
+311592,11 May 2024,v MI,Eden Gardens,2,0,0,0,0,0
+311592,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+311592,21 May 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+311592,26 May 2024,v SRH,Chennai,1,2,2,0,0,2
+311592,5 Jun 2024,v Oman,Bridgetown,2,0,0,0,0,0
+311592,8 Jun 2024,v England,Bridgetown,2,2,2,0,0,2
+311592,15 Jun 2024,v Scotland,Gros Islet,1,2,2,0,0,2
+311592,20 Jun 2024,v Bangladesh,North Sound,1,0,0,0,0,0
+311592,24 Jun 2024,v India,Gros Islet,1,0,0,0,0,0
+311592,24 Mar 2025,v LSG,Visakhapatnam,1,1,1,0,0,1
+311592,30 Mar 2025,v SRH,Visakhapatnam,1,0,0,0,0,0
+311592,5 Apr 2025,v CSK,Chennai,2,0,0,0,0,0
+311592,10 Apr 2025,v RCB,Bengaluru,1,1,1,0,0,1
+311592,13 Apr 2025,v MI,Delhi,1,1,1,0,0,1
+311592,16 Apr 2025,v RR,Delhi,2,1,1,0,0,1
+311592,19 Apr 2025,v GT,Ahmedabad,2,1,1,0,0,1
+311592,22 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+311592,27 Apr 2025,v RCB,Delhi,2,1,1,0,0,1
+311592,29 Apr 2025,v KKR,Delhi,1,1,1,0,0,1
+311592,5 May 2025,v SRH,Hyderabad,-,TDNF,-,-,-,-
+311592,16 Jan 2026,v Thunder,Sydney,1,0,0,0,0,0
+311592,18 Jan 2026,v Heat,Brisbane,1,0,0,0,0,0
+311592,20 Jan 2026,v Scorchers,Perth,1,0,0,0,0,0
+311592,23 Jan 2026,v Hurricanes,Sydney,2,0,0,0,0,0
+311592,25 Jan 2026,v Scorchers,Perth,2,1,1,0,0,1

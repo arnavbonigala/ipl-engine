@@ -1,0 +1,160 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+477021,17 Mar 2013,v Andhra,Bhadravati,1,0,0,0,0,0
+477021,18 Mar 2013,v Goa,Shimoga,1,0,0,0,0,0
+477021,19 Mar 2013,v Karnataka,Shimoga,1,0,0,0,0,0
+477021,21 Mar 2013,v Kerala,Shimoga,2,3,3,0,0,3
+477021,22 Mar 2013,v Hyderabad,Shimoga,1,1,1,0,0,1
+477021,1 Apr 2014,v Goa,Visakhapatnam,2,0,0,0,0,0
+477021,2 Apr 2014,v Andhra,Vizianagaram,2,1,1,0,0,1
+477021,3 Apr 2014,v Hyderabad,Visakhapatnam,2,0,0,0,0,0
+477021,4 Apr 2014,v Kerala,Visakhapatnam,2,1,1,0,0,1
+477021,5 Apr 2014,v Karnataka,Visakhapatnam,1,0,0,0,0,0
+477021,13 May 2014,v RR,Ranchi,1,0,0,0,0,0
+477021,25 Mar 2015,v Hyderabad,Kochi,2,0,0,0,0,0
+477021,26 Mar 2015,v Kerala,Kochi,1,2,2,0,0,2
+477021,27 Mar 2015,v Karnataka,Kochi,2,0,0,0,0,0
+477021,28 Mar 2015,v Goa,Kochi,1,1,1,0,0,1
+477021,29 Mar 2015,v Andhra,Kochi,1,1,1,0,0,1
+477021,2 Jan 2016,v Haryana,Nagpur,1,2,2,0,0,2
+477021,3 Jan 2016,v Bengal,Nagpur,2,1,1,0,0,1
+477021,6 Jan 2016,v Vidarbha,Nagpur,2,0,0,0,0,0
+477021,7 Jan 2016,v Gujarat,Nagpur,1,2,2,0,0,2
+477021,9 Jan 2016,v Himachal,Nagpur,2,1,1,0,0,1
+477021,29 Jan 2017,v Karnataka,Chennai,1,1,1,0,0,1
+477021,30 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+477021,31 Jan 2017,v Goa,Chennai,1,1,1,0,0,1
+477021,2 Feb 2017,v Andhra,Chennai,2,0,0,0,0,0
+477021,3 Feb 2017,v Kerala,Chennai,1,1,1,0,0,1
+477021,12 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+477021,15 Feb 2017,v East Zone,Wankhede,2,1,1,0,0,1
+477021,16 Feb 2017,v West Zone,Wankhede,1,1,1,0,0,1
+477021,18 Feb 2017,v Central Zone,Wankhede,2,1,1,0,0,1
+477021,12 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+477021,8 May 2017,v MI,Hyderabad,1,1,1,0,0,1
+477021,13 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+477021,17 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+477021,11 Jan 2018,v Goa,Vizianagaram,2,1,1,0,0,1
+477021,12 Jan 2018,v Karnataka,Vizianagaram,1,1,1,0,0,1
+477021,14 Jan 2018,v Hyderabad,Visakhapatnam,2,1,1,0,0,1
+477021,21 Jan 2018,v Delhi,Eden Gardens,2,0,0,0,0,0
+477021,23 Jan 2018,v UP,Eden Gardens,1,0,0,0,0,0
+477021,24 Jan 2018,v Bengal,Kolkata,2,0,0,0,0,0
+477021,25 Jan 2018,v Baroda,Kolkata,2,1,1,0,0,1
+477021,6 Mar 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+477021,8 Mar 2018,v Bangladesh,Colombo (RPS),1,0,0,0,0,0
+477021,12 Mar 2018,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+477021,14 Mar 2018,v Bangladesh,Colombo (RPS),2,0,0,0,0,0
+477021,18 Mar 2018,v Bangladesh,Colombo (RPS),1,1,1,0,0,1
+477021,8 Apr 2018,v Kings XI,Mohali,2,1,1,0,0,1
+477021,11 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+477021,14 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+477021,16 Apr 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+477021,21 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+477021,27 Apr 2018,v KKR,Delhi,2,0,0,0,0,0
+477021,30 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+477021,2 May 2018,v RR,Delhi,2,1,1,0,0,1
+477021,5 May 2018,v SRH,Hyderabad,2,0,0,0,0,0
+477021,10 May 2018,v SRH,Delhi,2,0,0,0,0,0
+477021,12 May 2018,v RCB,Delhi,2,0,0,0,0,0
+477021,18 May 2018,v CSK,Delhi,2,2,2,0,0,2
+477021,20 May 2018,v MI,Delhi,2,2,2,0,0,2
+477021,6 Feb 2019,v New Zealand,Wellington,1,1,1,0,0,1
+477021,8 Feb 2019,v New Zealand,Auckland,1,0,0,0,0,0
+477021,10 Feb 2019,v New Zealand,Hamilton,1,0,0,0,0,0
+477021,27 Feb 2019,v Australia,Bengaluru,2,0,0,0,0,0
+477021,24 Mar 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+477021,29 Mar 2019,v RR,Hyderabad,1,0,0,0,0,0
+477021,31 Mar 2019,v RCB,Hyderabad,2,0,0,0,0,0
+477021,4 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+477021,6 Apr 2019,v MI,Hyderabad,1,1,1,0,0,1
+477021,8 Apr 2019,v Kings XI,Mohali,2,1,1,0,0,1
+477021,14 Apr 2019,v DC,Hyderabad,1,0,0,0,0,0
+477021,17 Apr 2019,v CSK,Hyderabad,1,1,1,0,0,1
+477021,21 Apr 2019,v KKR,Hyderabad,1,1,1,0,0,1
+477021,23 Apr 2019,v CSK,Chennai,2,1,1,0,0,1
+477021,27 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+477021,29 Apr 2019,v Kings XI,Hyderabad,2,2,2,0,0,2
+477021,2 May 2019,v MI,Wankhede,1,1,1,0,0,1
+477021,4 May 2019,v RCB,Bengaluru,2,1,1,0,0,1
+477021,8 May 2019,v DC,Visakhapatnam,2,1,1,0,0,1
+477021,8 Nov 2019,v Kerala,Thumba,2,2,2,0,0,2
+477021,9 Nov 2019,v Rajasthan,Thumba,2,0,0,0,0,0
+477021,11 Nov 2019,v UP,Thiruvananthapuram,2,1,1,0,0,1
+477021,14 Nov 2019,v Manipur,Thiruvananthapuram,1,1,1,0,0,1
+477021,15 Nov 2019,v Tripura,Thiruvananthapuram,1,0,0,0,0,0
+477021,17 Nov 2019,v Vidarbha,Thiruvananthapuram,2,1,1,0,0,1
+477021,21 Nov 2019,v Karnataka,Surat,2,0,0,0,0,0
+477021,22 Nov 2019,v Mumbai,Surat,1,0,0,0,0,0
+477021,25 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+477021,27 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+477021,29 Nov 2019,v Rajasthan,Surat,1,0,0,0,0,0
+477021,1 Dec 2019,v Karnataka,Surat,1,0,0,0,0,0
+477021,21 Sep 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+477021,11 Oct 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+477021,13 Oct 2020,v CSK,Dubai (DICS),1,0,0,0,0,0
+477021,18 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+477021,22 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+477021,24 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+477021,27 Oct 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+477021,10 Jan 2021,v Jharkhand,Eden Gardens,2,0,0,0,0,0
+477021,11 Apr 2021,v KKR,Chennai,1,1,1,0,0,1
+477021,14 Apr 2021,v RCB,Chennai,1,1,1,0,0,1
+477021,17 Apr 2021,v MI,Chennai,1,1,1,0,0,1
+477021,21 Apr 2021,v Punjab Kings,Chennai,1,0,0,0,0,0
+477021,25 Apr 2021,v DC,Chennai,1,0,0,0,0,0
+477021,28 Apr 2021,v CSK,Delhi,2,0,0,0,0,0
+477021,2 May 2021,v RR,Delhi,1,0,0,0,0,0
+477021,4 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+477021,8 Nov 2021,v Goa,Lucknow,2,0,0,0,0,0
+477021,9 Nov 2021,v Punjab,Lucknow,1,0,0,0,0,0
+477021,18 Nov 2021,v Kerala,Delhi,1,0,0,0,0,0
+477021,20 Nov 2021,v Hyderabad,Delhi,1,2,2,0,0,2
+477021,22 Nov 2021,v Karnataka,Delhi,1,0,0,0,0,0
+477021,28 Mar 2022,v LSG,Wankhede,1,0,0,0,0,0
+477021,2 Apr 2022,v DC,Pune,2,1,1,0,0,1
+477021,14 Apr 2022,v RR,DY Patil,2,1,1,0,0,1
+477021,17 Apr 2022,v CSK,Pune,1,1,1,0,0,1
+477021,31 Mar 2023,v CSK,Ahmedabad,1,1,1,0,0,1
+477021,4 Apr 2023,v DC,Delhi,1,0,0,0,0,0
+477021,9 Apr 2023,v KKR,Ahmedabad,2,0,0,0,0,0
+477021,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+477021,25 Apr 2023,v MI,Ahmedabad,2,0,0,0,0,0
+477021,29 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+477021,2 May 2023,v DC,Ahmedabad,1,0,0,0,0,0
+477021,5 May 2023,v RR,Jaipur,1,0,0,0,0,0
+477021,7 May 2023,v LSG,Ahmedabad,2,0,0,0,0,0
+477021,12 May 2023,v MI,Wankhede,1,0,0,0,0,0
+477021,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+477021,23 May 2023,v CSK,Chennai,1,0,0,0,0,0
+477021,26 May 2023,v MI,Ahmedabad,2,0,0,0,0,0
+477021,28 May 2023,v CSK,Ahmedabad,2,1,1,0,0,1
+477021,17 Oct 2023,v UP,Dehradun,2,0,0,0,0,0
+477021,19 Oct 2023,v Tripura,Dehradun,1,1,1,0,0,1
+477021,23 Oct 2023,v Delhi,Dehradun,1,0,0,0,0,0
+477021,25 Oct 2023,v M. Pradesh,Dehradun,2,0,0,0,0,0
+477021,27 Oct 2023,v Nagaland,Dehradun,2,0,0,0,0,0
+477021,24 Mar 2024,v MI,Ahmedabad,2,0,0,0,0,0
+477021,26 Mar 2024,v CSK,Chennai,1,1,1,0,0,1
+477021,31 Mar 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+477021,4 Apr 2024,v Punjab Kings,Ahmedabad,2,0,0,0,0,0
+477021,7 Apr 2024,v LSG,Lucknow,1,1,1,0,0,1
+477021,10 Apr 2024,v RR,Jaipur,1,1,1,0,0,1
+477021,4 May 2024,v RCB,Bengaluru,2,0,0,0,0,0
+477021,23 Nov 2024,v Tripura,Indore,2,0,0,0,0,0
+477021,25 Nov 2024,v Sikkim,Indore,2,1,1,0,0,1
+477021,27 Nov 2024,v Baroda,Indore,2,0,0,0,0,0
+477021,29 Nov 2024,v Gujarat,Indore,1,0,0,0,0,0
+477021,1 Dec 2024,v Karnataka,Indore,2,0,0,0,0,0
+477021,30 Mar 2025,v RR,Guwahati,1,1,1,0,0,1
+477021,5 Apr 2025,v DC,Chennai,1,0,0,0,0,0
+477021,8 Apr 2025,v Punjab Kings,New Chandigarh,1,1,1,0,0,1
+477021,11 Apr 2025,v KKR,Chennai,2,0,0,0,0,0
+477021,14 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+477021,20 Apr 2025,v MI,Wankhede,2,0,0,0,0,0
+477021,26 Nov 2025,v Saurashtra,Ahmedabad,2,1,1,0,0,1
+477021,28 Nov 2025,v Rajasthan,Ahmedabad,2,2,2,0,0,2
+477021,30 Nov 2025,v Jharkhand,Ahmedabad,2,0,0,0,0,0
+477021,2 Dec 2025,v Delhi,Ahmedabad,2,0,0,0,0,0
+477021,4 Dec 2025,v Tamil Nadu,Ahmedabad,1,0,0,0,0,0
+477021,6 Dec 2025,v Uttarakhand,Ahmedabad,2,0,0,0,0,0
+477021,8 Dec 2025,v Karnataka,Ahmedabad,1,0,0,0,0,0

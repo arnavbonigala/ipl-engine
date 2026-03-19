@@ -1,0 +1,62 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+422342,17 Mar 2013,v Baroda,Ahmedabad,1,1,1,0,0,1
+422342,18 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+422342,19 Mar 2013,v Saurashtra,Ahmedabad,1,0,0,0,0,0
+422342,21 Mar 2013,v Maharashtra,Ahmedabad,1,0,0,0,0,0
+422342,24 Mar 2015,v Baroda,Pune,1,1,1,0,0,1
+422342,25 Mar 2015,v Gujarat,Pune,2,1,1,0,0,1
+422342,26 Mar 2015,v Saurashtra,Pune,1,0,0,0,0,0
+422342,27 Mar 2015,v Maharashtra,Pune,2,0,0,0,0,0
+422342,2 Jan 2016,v Odisha,Cuttack,1,1,1,0,0,1
+422342,3 Jan 2016,v Karnataka,Cuttack,1,1,1,0,0,1
+422342,4 Jan 2016,v Services,Cuttack,1,1,1,0,0,1
+422342,7 Jan 2016,v UP,Cuttack,2,0,0,0,0,0
+422342,8 Jan 2016,v Maharashtra,Cuttack,1,2,2,0,0,2
+422342,15 Jan 2016,v Kerala,Wankhede,1,0,0,0,0,0
+422342,16 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+422342,18 Jan 2016,v Baroda,Wankhede,2,0,0,0,0,0
+422342,7 Jan 2018,v Baroda,Rajkot,1,0,0,0,0,0
+422342,8 Jan 2018,v Gujarat,Rajkot,1,0,0,0,0,0
+422342,10 Jan 2018,v Saurashtra,Rajkot,2,0,0,0,0,0
+422342,11 Jan 2018,v Maharashtra,Rajkot,1,0,0,0,0,0
+422342,21 Jan 2018,v Jharkhand,Kolkata,2,0,0,0,0,0
+422342,22 Jan 2018,v Punjab,Kolkata,2,0,0,0,0,0
+422342,24 Jan 2018,v Rajasthan,Eden Gardens,1,0,0,0,0,0
+422342,25 Jan 2018,v Karnataka,Eden Gardens,2,0,0,0,0,0
+422342,21 Feb 2019,v Sikkim,Indore,2,0,0,0,0,0
+422342,22 Feb 2019,v Punjab,Indore,2,1,1,0,0,1
+422342,24 Feb 2019,v M. Pradesh,Indore,1,0,0,0,0,0
+422342,25 Feb 2019,v Goa,Indore,1,2,2,0,0,2
+422342,27 Feb 2019,v Railways,Indore,1,0,0,0,0,0
+422342,8 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+422342,11 Mar 2019,v Vidarbha,Indore,1,1,1,0,0,1
+422342,12 Mar 2019,v UP,Indore,2,0,0,0,0,0
+422342,10 Apr 2019,v Kings XI,Wankhede,1,0,0,0,0,0
+422342,8 Nov 2019,v Mizoram,Wankhede,1,0,0,0,0,0
+422342,9 Nov 2019,v Haryana,Wankhede,1,1,1,0,0,1
+422342,11 Nov 2019,v M. Pradesh,Wankhede,1,0,0,0,0,0
+422342,12 Nov 2019,v Puducherry,Wankhede,2,0,0,0,0,0
+422342,14 Nov 2019,v Bengal,Wankhede,1,2,2,0,0,2
+422342,15 Nov 2019,v Meghalaya,Wankhede,2,1,1,0,0,1
+422342,17 Nov 2019,v Assam,Wankhede,2,1,1,0,0,1
+422342,22 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+422342,24 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+422342,25 Nov 2019,v Karnataka,Surat,1,0,0,0,0,0
+422342,27 Nov 2019,v Punjab,Surat,2,0,0,0,0,0
+422342,11 Jan 2021,v Delhi,Wankhede,1,2,2,0,0,2
+422342,13 Jan 2021,v Kerala,Wankhede,2,0,0,0,0,0
+422342,15 Jan 2021,v Haryana,Mumbai,2,0,0,0,0,0
+422342,17 Jan 2021,v Puducherry,Wankhede,2,0,0,0,0,0
+422342,4 Nov 2021,v Karnataka,Guwahati,1,0,0,0,0,0
+422342,5 Nov 2021,v Services,Guwahati,2,2,2,0,0,2
+422342,6 Nov 2021,v Bengal,Guwahati,2,0,0,0,0,0
+422342,8 Nov 2021,v Chhattisgarh,Guwahati,1,0,0,0,0,0
+422342,9 Nov 2021,v Baroda,Guwahati,2,2,2,0,0,2
+422342,11 Oct 2022,v Tripura,Jaipur,1,2,2,0,0,2
+422342,12 Oct 2022,v Manipur,Jaipur,1,0,0,0,0,0
+422342,14 Oct 2022,v Hyderabad,Jaipur,1,1,1,0,0,1
+422342,16 Oct 2022,v Punjab,Jaipur,2,0,0,0,0,0
+422342,18 Oct 2022,v UP,Jaipur,2,2,2,0,0,2
+422342,20 Oct 2022,v Delhi,Jaipur,2,0,0,0,0,0
+422342,22 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+422342,6 Dec 2025,v Chhattisgarh,Lucknow,1,0,0,0,0,0

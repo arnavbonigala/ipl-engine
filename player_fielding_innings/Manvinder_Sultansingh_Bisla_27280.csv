@@ -1,0 +1,66 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+27280,3 Apr 2007,v Delhi,Delhi,1,3,3,0,3,0
+27280,4 Apr 2007,v Punjab,Delhi,2,2,2,0,2,0
+27280,6 Apr 2007,v Services,Delhi,1,3,3,0,3,0
+27280,7 Apr 2007,v J & K,Delhi,1,0,0,0,0,0
+27280,8 Apr 2007,v Haryana,Delhi,2,0,0,0,0,0
+27280,20 Oct 2009,v Delhi,Delhi,1,0,0,0,0,0
+27280,21 Oct 2009,v Services,Delhi,1,1,1,0,1,0
+27280,22 Oct 2009,v Punjab,Delhi,1,1,0,1,0,0
+27280,24 Oct 2009,v Himachal,Delhi,2,0,0,0,0,0
+27280,25 Oct 2009,v Haryana,Delhi,1,2,2,0,2,0
+27280,13 Mar 2010,v Daredevils,Mohali,2,1,1,0,0,1
+27280,16 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+27280,19 Mar 2010,v Chargers,Cuttack,1,0,0,0,0,0
+27280,21 Mar 2010,v CSK,Chennai,2,0,0,0,0,0
+27280,24 Mar 2010,v RR,Mohali,1,0,0,0,0,0
+27280,27 Mar 2010,v KKR,Mohali,1,1,1,0,0,1
+27280,30 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+27280,2 Apr 2010,v RCB,Mohali,2,2,2,0,0,2
+27280,4 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+27280,7 Apr 2010,v RR,Jaipur,2,0,0,0,0,0
+27280,20 Oct 2010,v Delhi,Delhi,1,3,2,1,2,0
+27280,21 Oct 2010,v Punjab,Delhi,2,1,0,1,0,0
+27280,22 Oct 2010,v Services,Delhi,2,0,0,0,0,0
+27280,24 Oct 2010,v J & K,Delhi,2,2,1,1,1,0
+27280,25 Oct 2010,v Haryana,Delhi,1,2,1,1,1,0
+27280,8 Apr 2011,v CSK,Chennai,1,1,1,0,1,0
+27280,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+27280,15 Apr 2011,v RR,Jaipur,1,0,0,0,0,0
+27280,17 Apr 2011,v RR,Eden Gardens,1,2,0,2,0,0
+27280,20 Apr 2011,v Kochi,Eden Gardens,1,0,0,0,0,0
+27280,19 Sep 2011,v Auckland,Hyderabad,2,0,0,0,0,0
+27280,21 Sep 2011,v Somerset,Hyderabad,1,1,1,0,1,0
+27280,25 Sep 2011,v Somerset,Hyderabad,2,1,1,0,1,0
+27280,27 Sep 2011,v South Aust,Hyderabad,1,0,0,0,0,0
+27280,1 Oct 2011,v Warriors,Bengaluru,1,0,0,0,0,0
+27280,10 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+27280,13 Apr 2012,v RR,Eden Gardens,1,2,1,1,1,0
+27280,15 Apr 2012,v Kings XI,Eden Gardens,1,3,3,0,3,0
+27280,18 Apr 2012,v Kings XI,Mohali,1,2,2,0,2,0
+27280,22 Apr 2012,v Chargers,Cuttack,1,0,0,0,0,0
+27280,12 May 2012,v MI,Eden Gardens,1,1,0,1,0,0
+27280,27 May 2012,v CSK,Chennai,1,0,0,0,0,0
+27280,13 Oct 2012,v Daredevils,Centurion,1,1,1,0,1,0
+27280,15 Oct 2012,v Auckland,Cape Town,2,0,0,0,0,0
+27280,17 Oct 2012,v Scorchers,Durban,1,0,0,0,0,0
+27280,21 Oct 2012,v Titans,Cape Town,2,3,1,2,1,0
+27280,3 Apr 2013,v Daredevils,Eden Gardens,1,0,0,0,0,0
+27280,8 Apr 2013,v RR,Jaipur,1,2,1,1,1,0
+27280,11 Apr 2013,v RCB,Bengaluru,2,1,1,0,1,0
+27280,14 Apr 2013,v SRH,Eden Gardens,2,0,0,0,0,0
+27280,16 Apr 2013,v Kings XI,Mohali,1,2,2,0,2,0
+27280,26 Apr 2013,v Kings XI,Eden Gardens,1,0,0,0,0,0
+27280,28 Apr 2013,v CSK,Chennai,1,0,0,0,0,0
+27280,1 May 2013,v Daredevils,Raipur,2,0,0,0,0,0
+27280,3 May 2013,v RR,Eden Gardens,1,1,0,1,0,0
+27280,7 May 2013,v MI,Wankhede,1,0,0,0,0,0
+27280,9 May 2013,v Warriors,Pune,2,2,2,0,2,0
+27280,12 May 2013,v RCB,Ranchi,1,2,1,1,1,0
+27280,15 May 2013,v Warriors,Ranchi,1,0,0,0,0,0
+27280,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+27280,29 Apr 2014,v RR,Abu Dhabi,1,1,1,0,1,0
+27280,17 Sep 2014,v CSK,Hyderabad,1,2,1,1,1,0
+27280,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+27280,19 Apr 2015,v MI,Bengaluru,1,0,0,0,0,0
+27280,22 Apr 2015,v CSK,Bengaluru,1,1,1,0,0,1

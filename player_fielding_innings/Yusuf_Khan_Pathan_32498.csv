@@ -1,0 +1,275 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+32498,3 Apr 2007,v Mumbai,Wankhede,2,0,0,0,0,0
+32498,5 Apr 2007,v Gujarat,Wankhede,2,1,1,0,0,1
+32498,6 Apr 2007,v Saurashtra,Brabourne,2,2,2,0,0,2
+32498,7 Apr 2007,v Maharashtra,Wankhede,2,1,1,0,0,1
+32498,24 Sep 2007,v Pakistan,Johannesburg,2,1,1,0,0,1
+32498,19 Apr 2008,v Daredevils,Delhi,2,0,0,0,0,0
+32498,21 Apr 2008,v Kings XI,Jaipur,1,0,0,0,0,0
+32498,24 Apr 2008,v Chargers,Hyderabad,1,0,0,0,0,0
+32498,26 Apr 2008,v RCB,Bengaluru,1,0,0,0,0,0
+32498,1 May 2008,v KKR,Jaipur,2,0,0,0,0,0
+32498,4 May 2008,v CSK,Jaipur,1,0,0,0,0,0
+32498,7 May 2008,v MI,DY Patil,2,1,1,0,0,1
+32498,9 May 2008,v Chargers,Jaipur,1,0,0,0,0,0
+32498,11 May 2008,v Daredevils,Jaipur,1,0,0,0,0,0
+32498,17 May 2008,v RCB,Jaipur,2,1,1,0,0,1
+32498,20 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+32498,24 May 2008,v CSK,Chennai,2,0,0,0,0,0
+32498,26 May 2008,v MI,Jaipur,1,0,0,0,0,0
+32498,28 May 2008,v Kings XI,Mohali,1,0,0,0,0,0
+32498,30 May 2008,v Daredevils,Wankhede,2,1,1,0,0,1
+32498,1 Jun 2008,v CSK,DY Patil,1,0,0,0,0,0
+32498,10 Feb 2009,v Sri Lanka,Colombo (RPS),1,1,1,0,0,1
+32498,25 Feb 2009,v New Zealand,Christchurch,2,0,0,0,0,0
+32498,27 Feb 2009,v New Zealand,Wellington,2,0,0,0,0,0
+32498,18 Apr 2009,v RCB,Cape Town,1,0,0,0,0,0
+32498,23 Apr 2009,v KKR,Cape Town,2,0,0,0,0,0
+32498,26 Apr 2009,v Kings XI,Cape Town,1,0,0,0,0,0
+32498,28 Apr 2009,v Daredevils,Centurion,1,0,0,0,0,0
+32498,30 Apr 2009,v CSK,Centurion,1,0,0,0,0,0
+32498,2 May 2009,v Chargers,Gqeberha,1,1,1,0,0,1
+32498,5 May 2009,v Kings XI,Durban,2,0,0,0,0,0
+32498,7 May 2009,v RCB,Centurion,1,0,0,0,0,0
+32498,9 May 2009,v CSK,Kimberley,2,0,0,0,0,0
+32498,11 May 2009,v Chargers,Kimberley,1,0,0,0,0,0
+32498,14 May 2009,v MI,Durban,2,1,1,0,0,1
+32498,17 May 2009,v Daredevils,Bloemfontein,1,0,0,0,0,0
+32498,20 May 2009,v KKR,Durban,2,0,0,0,0,0
+32498,6 Jun 2009,v Bangladesh,Nottingham,2,0,0,0,0,0
+32498,10 Jun 2009,v Ireland,Nottingham,1,2,2,0,0,2
+32498,12 Jun 2009,v West Indies,Lord's,2,0,0,0,0,0
+32498,14 Jun 2009,v England,Lord's,1,1,1,0,0,1
+32498,16 Jun 2009,v South Africa,Nottingham,1,0,0,0,0,0
+32498,20 Oct 2009,v Mumbai,Pune,1,0,0,0,0,0
+32498,22 Oct 2009,v Gujarat,Pune,1,0,0,0,0,0
+32498,24 Oct 2009,v Saurashtra,Pune,1,0,0,0,0,0
+32498,25 Oct 2009,v Maharashtra,Pune,2,0,0,0,0,0
+32498,9 Dec 2009,v Sri Lanka,Nagpur,1,0,0,0,0,0
+32498,12 Dec 2009,v Sri Lanka,Mohali,1,0,0,0,0,0
+32498,13 Mar 2010,v MI,Brabourne,1,0,0,0,0,0
+32498,15 Mar 2010,v Daredevils,Ahmedabad,2,0,0,0,0,0
+32498,18 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+32498,20 Mar 2010,v KKR,Ahmedabad,2,0,0,0,0,0
+32498,24 Mar 2010,v Kings XI,Mohali,2,0,0,0,0,0
+32498,26 Mar 2010,v Chargers,Ahmedabad,1,2,2,0,0,2
+32498,28 Mar 2010,v CSK,Ahmedabad,2,2,2,0,0,2
+32498,31 Mar 2010,v Daredevils,Delhi,1,2,2,0,0,2
+32498,3 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+32498,5 Apr 2010,v Chargers,Nagpur,2,1,1,0,0,1
+32498,7 Apr 2010,v Kings XI,Jaipur,1,1,1,0,0,1
+32498,11 Apr 2010,v MI,Jaipur,1,0,0,0,0,0
+32498,14 Apr 2010,v RCB,Jaipur,2,1,1,0,0,1
+32498,17 Apr 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+32498,1 May 2010,v Afghanistan,Gros Islet,1,0,0,0,0,0
+32498,2 May 2010,v South Africa,Gros Islet,2,0,0,0,0,0
+32498,7 May 2010,v Australia,Bridgetown,1,0,0,0,0,0
+32498,9 May 2010,v West Indies,Bridgetown,1,1,1,0,0,1
+32498,11 May 2010,v Sri Lanka,Gros Islet,2,1,1,0,0,1
+32498,12 Jun 2010,v Zimbabwe,Harare,1,0,0,0,0,0
+32498,13 Jun 2010,v Zimbabwe,Harare,1,1,1,0,0,1
+32498,20 Oct 2010,v Mumbai,Vadodara,2,0,0,0,0,0
+32498,22 Oct 2010,v Gujarat,Vadodara,1,0,0,0,0,0
+32498,24 Oct 2010,v Saurashtra,Vadodara,1,0,0,0,0,0
+32498,25 Oct 2010,v Maharashtra,Vadodara,1,2,2,0,0,2
+32498,9 Jan 2011,v South Africa,Durban,2,1,1,0,0,1
+32498,8 Apr 2011,v CSK,Chennai,1,0,0,0,0,0
+32498,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+32498,15 Apr 2011,v RR,Jaipur,1,1,1,0,0,1
+32498,17 Apr 2011,v RR,Eden Gardens,1,0,0,0,0,0
+32498,20 Apr 2011,v Kochi,Eden Gardens,1,1,1,0,0,1
+32498,22 Apr 2011,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,28 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+32498,30 Apr 2011,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32498,3 May 2011,v Chargers,Hyderabad,2,0,0,0,0,0
+32498,5 May 2011,v Kochi,Kochi,1,1,1,0,0,1
+32498,7 May 2011,v CSK,Eden Gardens,1,0,0,0,0,0
+32498,14 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+32498,19 May 2011,v Warriors,DY Patil,1,1,1,0,0,1
+32498,22 May 2011,v MI,Eden Gardens,2,1,1,0,0,1
+32498,25 May 2011,v MI,Wankhede,2,0,0,0,0,0
+32498,4 Jun 2011,v West Indies,Port of Spain,2,0,0,0,0,0
+32498,19 Sep 2011,v Auckland,Hyderabad,2,2,2,0,0,2
+32498,21 Sep 2011,v Somerset,Hyderabad,1,0,0,0,0,0
+32498,25 Sep 2011,v Somerset,Hyderabad,2,0,0,0,0,0
+32498,27 Sep 2011,v South Aust,Hyderabad,1,0,0,0,0,0
+32498,29 Sep 2011,v RCB,Bengaluru,1,3,3,0,0,3
+32498,1 Oct 2011,v Warriors,Bengaluru,1,0,0,0,0,0
+32498,20 Oct 2011,v Mumbai,Rajkot,2,0,0,0,0,0
+32498,22 Oct 2011,v Gujarat,Rajkot,2,0,0,0,0,0
+32498,24 Oct 2011,v Saurashtra,Rajkot,1,2,2,0,0,2
+32498,25 Oct 2011,v Maharashtra,Rajkot,2,1,1,0,0,1
+32498,29 Oct 2011,v England,Eden Gardens,2,0,0,0,0,0
+32498,23 Mar 2012,v Karnataka,Brabourne,1,0,0,0,0,0
+32498,26 Mar 2012,v Delhi,Mumbai,1,0,0,0,0,0
+32498,27 Mar 2012,v Punjab,Brabourne,2,0,0,0,0,0
+32498,30 Mar 2012,v South Africa,Johannesburg,1,0,0,0,0,0
+32498,5 Apr 2012,v Daredevils,Eden Gardens,2,0,0,0,0,0
+32498,8 Apr 2012,v RR,Jaipur,1,0,0,0,0,0
+32498,10 Apr 2012,v RCB,Bengaluru,2,1,1,0,0,1
+32498,13 Apr 2012,v RR,Eden Gardens,1,0,0,0,0,0
+32498,15 Apr 2012,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32498,18 Apr 2012,v Kings XI,Mohali,1,0,0,0,0,0
+32498,22 Apr 2012,v Chargers,Cuttack,1,0,0,0,0,0
+32498,28 Apr 2012,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,30 Apr 2012,v CSK,Chennai,1,1,1,0,0,1
+32498,5 May 2012,v Warriors,Eden Gardens,2,0,0,0,0,0
+32498,7 May 2012,v Daredevils,Delhi,1,0,0,0,0,0
+32498,12 May 2012,v MI,Eden Gardens,1,0,0,0,0,0
+32498,14 May 2012,v CSK,Eden Gardens,2,0,0,0,0,0
+32498,16 May 2012,v MI,Wankhede,2,1,1,0,0,1
+32498,19 May 2012,v Warriors,Pune,2,0,0,0,0,0
+32498,22 May 2012,v Daredevils,Pune,2,0,0,0,0,0
+32498,27 May 2012,v CSK,Chennai,1,0,0,0,0,0
+32498,13 Oct 2012,v Daredevils,Centurion,1,1,1,0,0,1
+32498,15 Oct 2012,v Auckland,Cape Town,2,0,0,0,0,0
+32498,17 Oct 2012,v Scorchers,Durban,1,0,0,0,0,0
+32498,21 Oct 2012,v Titans,Cape Town,2,0,0,0,0,0
+32498,17 Mar 2013,v Mumbai,Ahmedabad,2,2,2,0,0,2
+32498,19 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+32498,21 Mar 2013,v Saurashtra,Ahmedabad,1,1,1,0,0,1
+32498,22 Mar 2013,v Maharashtra,Ahmedabad,1,0,0,0,0,0
+32498,3 Apr 2013,v Daredevils,Eden Gardens,1,0,0,0,0,0
+32498,8 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+32498,11 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+32498,14 Apr 2013,v SRH,Eden Gardens,2,1,1,0,0,1
+32498,16 Apr 2013,v Kings XI,Mohali,1,1,1,0,0,1
+32498,20 Apr 2013,v CSK,Eden Gardens,2,1,1,0,0,1
+32498,24 Apr 2013,v MI,Eden Gardens,2,0,0,0,0,0
+32498,26 Apr 2013,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32498,28 Apr 2013,v CSK,Chennai,1,0,0,0,0,0
+32498,1 May 2013,v Daredevils,Raipur,2,1,1,0,0,1
+32498,3 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+32498,7 May 2013,v MI,Wankhede,1,0,0,0,0,0
+32498,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+32498,12 May 2013,v RCB,Ranchi,1,0,0,0,0,0
+32498,15 May 2013,v Warriors,Ranchi,1,0,0,0,0,0
+32498,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+32498,21 Sep 2013,v W. Indies A,Bengaluru,2,1,1,0,0,1
+32498,30 Mar 2014,v Mumbai,Wankhede,2,0,0,0,0,0
+32498,2 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+32498,3 Apr 2014,v Saurashtra,Mumbai,2,0,0,0,0,0
+32498,4 Apr 2014,v Maharashtra,Mumbai,1,0,0,0,0,0
+32498,16 Apr 2014,v MI,Abu Dhabi,2,0,0,0,0,0
+32498,19 Apr 2014,v Daredevils,Dubai (DICS),2,1,1,0,0,1
+32498,24 Apr 2014,v RCB,Sharjah,2,1,1,0,0,1
+32498,26 Apr 2014,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+32498,2 May 2014,v CSK,Ranchi,1,1,1,0,0,1
+32498,5 May 2014,v RR,Ahmedabad,1,0,0,0,0,0
+32498,7 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+32498,11 May 2014,v Kings XI,Cuttack,1,0,0,0,0,0
+32498,14 May 2014,v MI,Cuttack,1,0,0,0,0,0
+32498,18 May 2014,v SRH,Hyderabad,1,2,2,0,0,2
+32498,20 May 2014,v CSK,Eden Gardens,1,0,0,0,0,0
+32498,22 May 2014,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,24 May 2014,v SRH,Eden Gardens,1,0,0,0,0,0
+32498,27 May 2014,v Kings XI,Eden Gardens,2,0,0,0,0,0
+32498,1 Jun 2014,v Kings XI,Bengaluru,1,0,0,0,0,0
+32498,17 Sep 2014,v CSK,Hyderabad,1,0,0,0,0,0
+32498,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+32498,24 Sep 2014,v Scorchers,Hyderabad,1,0,0,0,0,0
+32498,29 Sep 2014,v Dolphins,Hyderabad,2,0,0,0,0,0
+32498,2 Oct 2014,v Hurricanes,Hyderabad,1,0,0,0,0,0
+32498,4 Oct 2014,v CSK,Bengaluru,2,0,0,0,0,0
+32498,24 Mar 2015,v Mumbai,Pune,2,0,0,0,0,0
+32498,26 Mar 2015,v Gujarat,Pune,2,0,0,0,0,0
+32498,27 Mar 2015,v Saurashtra,Pune,2,0,0,0,0,0
+32498,8 Apr 2015,v MI,Eden Gardens,1,1,1,0,0,1
+32498,11 Apr 2015,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,18 Apr 2015,v Kings XI,Pune,1,1,1,0,0,1
+32498,20 Apr 2015,v Daredevils,Delhi,1,1,1,0,0,1
+32498,22 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+32498,28 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+32498,30 Apr 2015,v CSK,Eden Gardens,1,0,0,0,0,0
+32498,2 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+32498,4 May 2015,v SRH,Eden Gardens,2,0,0,0,0,0
+32498,7 May 2015,v Daredevils,Eden Gardens,2,0,0,0,0,0
+32498,9 May 2015,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32498,14 May 2015,v MI,Wankhede,1,0,0,0,0,0
+32498,16 May 2015,v RR,Brabourne,1,0,0,0,0,0
+32498,2 Jan 2016,v Assam,Vadodara,2,1,1,0,0,1
+32498,3 Jan 2016,v Railways,Vadodara,2,2,2,0,0,2
+32498,6 Jan 2016,v Goa,Vadodara,2,1,1,0,0,1
+32498,7 Jan 2016,v M. Pradesh,Vadodara,2,0,0,0,0,0
+32498,9 Jan 2016,v Andhra,Vadodara,1,0,0,0,0,0
+32498,10 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+32498,15 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+32498,16 Jan 2016,v Kerala,Wankhede,2,0,0,0,0,0
+32498,18 Jan 2016,v Mumbai,Wankhede,1,0,0,0,0,0
+32498,20 Jan 2016,v UP,Wankhede,1,0,0,0,0,0
+32498,10 Apr 2016,v Daredevils,Eden Gardens,1,1,1,0,0,1
+32498,13 Apr 2016,v MI,Eden Gardens,2,0,0,0,0,0
+32498,16 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+32498,19 Apr 2016,v Kings XI,Mohali,1,0,0,0,0,0
+32498,24 Apr 2016,v Supergiants,Pune,1,0,0,0,0,0
+32498,28 Apr 2016,v MI,Wankhede,2,1,1,0,0,1
+32498,30 Apr 2016,v Daredevils,Delhi,1,0,0,0,0,0
+32498,2 May 2016,v RCB,Bengaluru,1,1,1,0,0,1
+32498,4 May 2016,v Kings XI,Eden Gardens,2,0,0,0,0,0
+32498,8 May 2016,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+32498,14 May 2016,v Supergiants,Eden Gardens,1,0,0,0,0,0
+32498,16 May 2016,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,19 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+32498,22 May 2016,v SRH,Eden Gardens,2,0,0,0,0,0
+32498,25 May 2016,v SRH,Delhi,1,0,0,0,0,0
+32498,29 Jan 2017,v Mumbai,Vadodara,1,0,0,0,0,0
+32498,1 Feb 2017,v Gujarat,Vadodara,2,0,0,0,0,0
+32498,2 Feb 2017,v Saurashtra,Vadodara,1,0,0,0,0,0
+32498,4 Feb 2017,v Maharashtra,Vadodara,2,0,0,0,0,0
+32498,7 Apr 2017,v Guj Lions,Rajkot,1,1,1,0,0,1
+32498,9 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+32498,13 Apr 2017,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32498,15 Apr 2017,v SRH,Eden Gardens,2,0,0,0,0,0
+32498,17 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+32498,21 Apr 2017,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+32498,23 Apr 2017,v RCB,Eden Gardens,2,0,0,0,0,0
+32498,26 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+32498,28 Apr 2017,v Daredevils,Eden Gardens,1,0,0,0,0,0
+32498,30 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+32498,3 May 2017,v Supergiant,Eden Gardens,2,0,0,0,0,0
+32498,7 May 2017,v RCB,Bengaluru,1,0,0,0,0,0
+32498,9 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+32498,13 May 2017,v MI,Eden Gardens,1,1,1,0,0,1
+32498,17 May 2017,v SRH,Bengaluru,1,0,0,0,0,0
+32498,9 Apr 2018,v RR,Hyderabad,1,1,1,0,0,1
+32498,12 Apr 2018,v MI,Hyderabad,1,1,1,0,0,1
+32498,14 Apr 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+32498,19 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+32498,22 Apr 2018,v CSK,Hyderabad,1,0,0,0,0,0
+32498,24 Apr 2018,v MI,Wankhede,2,0,0,0,0,0
+32498,26 Apr 2018,v Kings XI,Hyderabad,2,0,0,0,0,0
+32498,29 Apr 2018,v RR,Jaipur,2,0,0,0,0,0
+32498,5 May 2018,v Daredevils,Hyderabad,1,0,0,0,0,0
+32498,7 May 2018,v RCB,Hyderabad,2,1,1,0,0,1
+32498,10 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+32498,19 May 2018,v KKR,Hyderabad,2,0,0,0,0,0
+32498,22 May 2018,v CSK,Wankhede,2,0,0,0,0,0
+32498,25 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+32498,27 May 2018,v CSK,Wankhede,2,0,0,0,0,0
+32498,21 Feb 2019,v Tripura,Delhi,1,1,1,0,0,1
+32498,22 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+32498,24 Feb 2019,v Hyderabad,Delhi,1,1,1,0,0,1
+32498,25 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+32498,27 Feb 2019,v Puducherry,Delhi,1,1,1,0,0,1
+32498,28 Feb 2019,v Maharashtra,Delhi,2,0,0,0,0,0
+32498,2 Mar 2019,v UP,Delhi,-,TDNF,-,-,-,-
+32498,24 Mar 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+32498,29 Mar 2019,v RR,Hyderabad,1,0,0,0,0,0
+32498,31 Mar 2019,v RCB,Hyderabad,2,0,0,0,0,0
+32498,4 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+32498,6 Apr 2019,v MI,Hyderabad,1,0,0,0,0,0
+32498,8 Apr 2019,v Kings XI,Mohali,2,0,0,0,0,0
+32498,17 Apr 2019,v CSK,Hyderabad,1,0,0,0,0,0
+32498,21 Apr 2019,v KKR,Hyderabad,1,0,0,0,0,0
+32498,23 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+32498,4 May 2019,v RCB,Bengaluru,2,1,1,0,0,1
+32498,8 Nov 2019,v Goa,Visakhapatnam,2,1,1,0,0,1
+32498,9 Nov 2019,v Karnataka,Visakhapatnam,2,1,1,0,0,1
+32498,11 Nov 2019,v Uttarakhand,Vizianagaram,2,1,1,0,0,1
+32498,12 Nov 2019,v Andhra,Visakhapatnam,1,0,0,0,0,0
+32498,14 Nov 2019,v Bihar,Visakhapatnam,1,1,1,0,0,1
+32498,15 Nov 2019,v Services,Vizianagaram,2,1,1,0,0,1
+32498,21 Nov 2019,v Rajasthan,Surat,2,2,2,0,0,2
+32498,22 Nov 2019,v Delhi,Surat,2,1,1,0,0,1
+32498,24 Nov 2019,v Maharashtra,Surat,1,0,0,0,0,0
+32498,25 Nov 2019,v Haryana,Surat,2,0,0,0,0,0

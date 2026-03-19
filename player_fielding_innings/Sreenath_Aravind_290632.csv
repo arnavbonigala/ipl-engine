@@ -1,0 +1,85 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+290632,3 Apr 2007,v Kerala,Visakhapatnam,2,1,1,0,0,1
+290632,4 Apr 2007,v Andhra,Visakhapatnam,2,1,1,0,0,1
+290632,5 Apr 2007,v Goa,Visakhapatnam,1,0,0,0,0,0
+290632,6 Apr 2007,v Tamil Nadu,Visakhapatnam,2,1,1,0,0,1
+290632,7 Apr 2007,v Hyderabad,Visakhapatnam,1,1,1,0,0,1
+290632,16 Apr 2007,v Punjab,Wankhede,2,0,0,0,0,0
+290632,17 Apr 2007,v Gujarat,Brabourne,1,1,1,0,0,1
+290632,18 Apr 2007,v Orissa,Wankhede,2,0,0,0,0,0
+290632,19 Apr 2007,v Railways,Brabourne,2,0,0,0,0,0
+290632,26 Sep 2009,v Andhra,Visakhapatnam,1,1,1,0,0,1
+290632,14 Oct 2010,v Goa,Hyderabad,1,0,0,0,0,0
+290632,15 Oct 2010,v Andhra,Hyderabad,1,0,0,0,0,0
+290632,16 Oct 2010,v Kerala,Hyderabad,2,0,0,0,0,0
+290632,18 Oct 2010,v Tamil Nadu,Hyderabad,1,0,0,0,0,0
+290632,14 Apr 2011,v Chargers,Hyderabad,1,0,0,0,0,0
+290632,22 Apr 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+290632,26 Apr 2011,v Daredevils,Delhi,1,0,0,0,0,0
+290632,29 Apr 2011,v Warriors,Bengaluru,2,0,0,0,0,0
+290632,6 May 2011,v Kings XI,Bengaluru,2,1,1,0,0,1
+290632,8 May 2011,v Kochi,Bengaluru,1,0,0,0,0,0
+290632,11 May 2011,v RR,Jaipur,1,1,1,0,0,1
+290632,14 May 2011,v KKR,Bengaluru,1,0,0,0,0,0
+290632,17 May 2011,v Kings XI,Dharamsala,1,0,0,0,0,0
+290632,22 May 2011,v CSK,Bengaluru,1,0,0,0,0,0
+290632,24 May 2011,v CSK,Wankhede,2,1,1,0,0,1
+290632,27 May 2011,v MI,Chennai,2,0,0,0,0,0
+290632,28 May 2011,v CSK,Chennai,1,0,0,0,0,0
+290632,23 Sep 2011,v Warriors,Bengaluru,2,1,1,0,0,1
+290632,29 Sep 2011,v KKR,Bengaluru,2,0,0,0,0,0
+290632,3 Oct 2011,v Somerset,Bengaluru,2,0,0,0,0,0
+290632,5 Oct 2011,v South Aust,Bengaluru,1,0,0,0,0,0
+290632,7 Oct 2011,v NSW,Bengaluru,1,0,0,0,0,0
+290632,9 Oct 2011,v MI,Chennai,1,1,1,0,0,1
+290632,15 Apr 2012,v RR,Bengaluru,1,0,0,0,0,0
+290632,3 Apr 2014,v Kerala,Visakhapatnam,1,0,0,0,0,0
+290632,4 Apr 2014,v Goa,Visakhapatnam,1,1,1,0,0,1
+290632,5 Apr 2014,v Tamil Nadu,Visakhapatnam,2,0,0,0,0,0
+290632,25 Mar 2015,v Andhra,Kochi,2,1,1,0,0,1
+290632,26 Mar 2015,v Goa,Kochi,1,2,2,0,0,2
+290632,29 Mar 2015,v Kerala,Kochi,1,0,0,0,0,0
+290632,6 May 2015,v Kings XI,Bengaluru,2,0,0,0,0,0
+290632,10 May 2015,v MI,Wankhede,2,0,0,0,0,0
+290632,13 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+290632,20 May 2015,v RR,Pune,2,1,1,0,0,1
+290632,22 May 2015,v CSK,Ranchi,2,0,0,0,0,0
+290632,2 Oct 2015,v South Africa,Dharamsala,2,0,0,0,0,0
+290632,2 Jan 2016,v Services,Cuttack,2,0,0,0,0,0
+290632,3 Jan 2016,v Mumbai,Cuttack,2,0,0,0,0,0
+290632,7 Jan 2016,v Maharashtra,Cuttack,1,1,1,0,0,1
+290632,8 Jan 2016,v Odisha,Cuttack,1,0,0,0,0,0
+290632,17 Apr 2016,v Daredevils,Bengaluru,2,0,0,0,0,0
+290632,2 May 2016,v KKR,Bengaluru,2,0,0,0,0,0
+290632,11 May 2016,v MI,Bengaluru,2,0,0,0,0,0
+290632,14 May 2016,v Guj Lions,Bengaluru,2,2,2,0,0,2
+290632,16 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+290632,18 May 2016,v Kings XI,Bengaluru,2,0,0,0,0,0
+290632,22 May 2016,v Daredevils,Raipur,1,0,0,0,0,0
+290632,24 May 2016,v Guj Lions,Bengaluru,1,1,1,0,0,1
+290632,29 May 2016,v SRH,Bengaluru,1,0,0,0,0,0
+290632,29 Jan 2017,v Tamil Nadu,Chennai,2,0,0,0,0,0
+290632,30 Jan 2017,v Kerala,Chennai,2,0,0,0,0,0
+290632,31 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+290632,2 Feb 2017,v Hyderabad,Chennai,2,0,0,0,0,0
+290632,3 Feb 2017,v Goa,Chennai,1,1,1,0,0,1
+290632,12 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+290632,15 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+290632,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+290632,14 Apr 2017,v MI,Bengaluru,2,1,1,0,0,1
+290632,16 Apr 2017,v Supergiant,Bengaluru,1,0,0,0,0,0
+290632,18 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+290632,23 Apr 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+290632,27 Apr 2017,v Guj Lions,Bengaluru,2,0,0,0,0,0
+290632,29 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+290632,1 May 2017,v MI,Wankhede,2,0,0,0,0,0
+290632,5 May 2017,v Kings XI,Bengaluru,1,0,0,0,0,0
+290632,7 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+290632,8 Jan 2018,v Goa,Visakhapatnam,2,0,0,0,0,0
+290632,9 Jan 2018,v Andhra,Vizianagaram,2,0,0,0,0,0
+290632,11 Jan 2018,v Hyderabad,Visakhapatnam,2,0,0,0,0,0
+290632,12 Jan 2018,v Tamil Nadu,Vizianagaram,2,0,0,0,0,0
+290632,14 Jan 2018,v Kerala,Vizianagaram,2,0,0,0,0,0
+290632,21 Jan 2018,v Punjab,Kolkata,2,1,1,0,0,1
+290632,23 Jan 2018,v Rajasthan,Kolkata,1,0,0,0,0,0
+290632,24 Jan 2018,v Jharkhand,Eden Gardens,2,1,1,0,0,1

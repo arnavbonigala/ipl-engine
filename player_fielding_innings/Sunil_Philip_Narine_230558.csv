@@ -1,0 +1,584 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+230558,19 Jan 2011,v Hampshire,Bridgetown,-,TDNF,-,-,-,-
+230558,21 Jan 2011,v Barbados,Bridgetown,2,1,1,0,0,1
+230558,22 Jan 2011,v Jamaica,Bridgetown,1,1,1,0,0,1
+230558,23 Jan 2011,v Hampshire,Bridgetown,2,0,0,0,0,0
+230558,19 Sep 2011,v Ruhuna,Hyderabad,1,0,0,0,0,0
+230558,20 Sep 2011,v Leics,Hyderabad,2,0,0,0,0,0
+230558,26 Sep 2011,v MI,Bengaluru,2,0,0,0,0,0
+230558,28 Sep 2011,v NSW,Chennai,2,0,0,0,0,0
+230558,2 Oct 2011,v CSK,Chennai,2,2,2,0,0,2
+230558,4 Oct 2011,v Cape Cobras,Chennai,1,0,0,0,0,0
+230558,9 Jan 2012,v Windward Is,North Sound,1,1,1,0,0,1
+230558,11 Jan 2012,v Leeward Is,North Sound,2,0,0,0,0,0
+230558,13 Jan 2012,v Guyana,North Sound,1,0,0,0,0,0
+230558,19 Jan 2012,v Canada,Bridgetown,1,0,0,0,0,0
+230558,21 Jan 2012,v Barbados,Bridgetown,1,1,1,0,0,1
+230558,22 Jan 2012,v Jamaica,Bridgetown,2,0,0,0,0,0
+230558,27 Mar 2012,v Australia,Gros Islet,2,0,0,0,0,0
+230558,30 Mar 2012,v Australia,Bridgetown,2,0,0,0,0,0
+230558,8 Apr 2012,v RR,Jaipur,1,0,0,0,0,0
+230558,13 Apr 2012,v RR,Eden Gardens,1,0,0,0,0,0
+230558,15 Apr 2012,v Kings XI,Eden Gardens,1,0,0,0,0,0
+230558,18 Apr 2012,v Kings XI,Mohali,1,0,0,0,0,0
+230558,22 Apr 2012,v Chargers,Cuttack,1,0,0,0,0,0
+230558,28 Apr 2012,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,30 Apr 2012,v CSK,Chennai,1,0,0,0,0,0
+230558,5 May 2012,v Warriors,Eden Gardens,2,0,0,0,0,0
+230558,7 May 2012,v Daredevils,Delhi,1,0,0,0,0,0
+230558,12 May 2012,v MI,Eden Gardens,1,0,0,0,0,0
+230558,14 May 2012,v CSK,Eden Gardens,2,0,0,0,0,0
+230558,16 May 2012,v MI,Wankhede,2,0,0,0,0,0
+230558,19 May 2012,v Warriors,Pune,2,1,1,0,0,1
+230558,22 May 2012,v Daredevils,Pune,2,0,0,0,0,0
+230558,27 May 2012,v CSK,Chennai,1,0,0,0,0,0
+230558,24 Jun 2012,v England,Nottingham,2,0,0,0,0,0
+230558,30 Jun 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+230558,1 Jul 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+230558,22 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+230558,24 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+230558,27 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+230558,29 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+230558,1 Oct 2012,v New Zealand,Pallekele,2,0,0,0,0,0
+230558,5 Oct 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+230558,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+230558,13 Oct 2012,v Daredevils,Centurion,1,2,2,0,0,2
+230558,15 Oct 2012,v Auckland,Cape Town,2,1,1,0,0,1
+230558,17 Oct 2012,v Scorchers,Durban,1,0,0,0,0,0
+230558,21 Oct 2012,v Titans,Cape Town,2,1,1,0,0,1
+230558,10 Dec 2012,v Bangladesh,Mirpur,2,0,0,0,0,0
+230558,16 Dec 2012,v Scorchers,Sydney,2,0,0,0,0,0
+230558,21 Dec 2012,v Stars,Melbourne,1,1,1,0,0,1
+230558,23 Dec 2012,v Strikers,Adelaide,2,0,0,0,0,0
+230558,26 Dec 2012,v Hurricanes,Sydney,2,0,0,0,0,0
+230558,30 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+230558,6 Jan 2013,v Jamaica,Port of Spain,2,0,0,0,0,0
+230558,8 Jan 2013,v Comb C&C,Port of Spain,1,0,0,0,0,0
+230558,9 Jan 2013,v Leeward Is,Port of Spain,2,0,0,0,0,0
+230558,12 Jan 2013,v Guyana,Port of Spain,2,0,0,0,0,0
+230558,15 Jan 2013,v Windward Is,Gros Islet,1,1,1,0,0,1
+230558,16 Jan 2013,v Barbados,Gros Islet,1,0,0,0,0,0
+230558,20 Jan 2013,v Guyana,Gros Islet,1,0,0,0,0,0
+230558,13 Feb 2013,v Australia,Brisbane,2,0,0,0,0,0
+230558,2 Mar 2013,v Zimbabwe,North Sound,1,0,0,0,0,0
+230558,3 Mar 2013,v Zimbabwe,North Sound,2,0,0,0,0,0
+230558,3 Apr 2013,v Daredevils,Eden Gardens,1,2,2,0,0,2
+230558,8 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+230558,11 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+230558,14 Apr 2013,v SRH,Eden Gardens,2,0,0,0,0,0
+230558,16 Apr 2013,v Kings XI,Mohali,1,1,1,0,0,1
+230558,20 Apr 2013,v CSK,Eden Gardens,2,1,1,0,0,1
+230558,24 Apr 2013,v MI,Eden Gardens,2,1,1,0,0,1
+230558,26 Apr 2013,v Kings XI,Eden Gardens,1,0,0,0,0,0
+230558,28 Apr 2013,v CSK,Chennai,1,0,0,0,0,0
+230558,1 May 2013,v Daredevils,Raipur,2,0,0,0,0,0
+230558,3 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+230558,7 May 2013,v MI,Wankhede,1,1,1,0,0,1
+230558,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+230558,12 May 2013,v RCB,Ranchi,1,0,0,0,0,0
+230558,15 May 2013,v Warriors,Ranchi,1,0,0,0,0,0
+230558,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+230558,27 Jul 2013,v Pakistan,Kingstown,2,0,0,0,0,0
+230558,28 Jul 2013,v Pakistan,Kingstown,1,0,0,0,0,0
+230558,31 Jul 2013,v Red Steel,Providence,2,0,0,0,0,0
+230558,2 Aug 2013,v Tallawahs,Providence,1,0,0,0,0,0
+230558,4 Aug 2013,v Zouks,Providence,2,0,0,0,0,0
+230558,9 Aug 2013,v Red Steel,Port of Spain,1,0,0,0,0,0
+230558,11 Aug 2013,v Tridents,Port of Spain,2,0,0,0,0,0
+230558,15 Aug 2013,v Tallawahs,Kingston,2,1,1,0,0,1
+230558,17 Aug 2013,v Hawksbills,North Sound,1,0,0,0,0,0
+230558,22 Aug 2013,v Red Steel,Port of Spain,1,0,0,0,0,0
+230558,24 Aug 2013,v Tallawahs,Port of Spain,2,0,0,0,0,0
+230558,22 Sep 2013,v Heat,Ranchi,2,0,0,0,0,0
+230558,24 Sep 2013,v SRH,Mohali,2,1,1,0,0,1
+230558,30 Sep 2013,v Titans,Ahmedabad,2,0,0,0,0,0
+230558,2 Oct 2013,v CSK,Delhi,1,0,0,0,0,0
+230558,5 Oct 2013,v MI,Delhi,2,0,0,0,0,0
+230558,11 Jan 2014,v New Zealand,Auckland,1,0,0,0,0,0
+230558,15 Jan 2014,v New Zealand,Wellington,2,0,0,0,0,0
+230558,17 Jan 2014,v Knights,Bloemfontein,2,1,1,0,0,1
+230558,19 Jan 2014,v Dolphins,Durban,2,1,1,0,0,1
+230558,22 Jan 2014,v Titans,Cape Town,2,0,0,0,0,0
+230558,24 Jan 2014,v Dolphins,Paarl,1,0,0,0,0,0
+230558,31 Jan 2014,v Lions,Johannesburg,1,0,0,0,0,0
+230558,2 Feb 2014,v Warriors,Cape Town,1,0,0,0,0,0
+230558,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+230558,21 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+230558,9 Mar 2014,v England,Bridgetown,2,0,0,0,0,0
+230558,13 Mar 2014,v England,Bridgetown,1,0,0,0,0,0
+230558,23 Mar 2014,v India,Mirpur,2,0,0,0,0,0
+230558,25 Mar 2014,v Bangladesh,Mirpur,2,0,0,0,0,0
+230558,28 Mar 2014,v Australia,Mirpur,1,0,0,0,0,0
+230558,1 Apr 2014,v Pakistan,Mirpur,2,0,0,0,0,0
+230558,3 Apr 2014,v Sri Lanka,Mirpur,1,0,0,0,0,0
+230558,16 Apr 2014,v MI,Abu Dhabi,2,0,0,0,0,0
+230558,19 Apr 2014,v Daredevils,Dubai (DICS),2,1,1,0,0,1
+230558,24 Apr 2014,v RCB,Sharjah,2,0,0,0,0,0
+230558,26 Apr 2014,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+230558,29 Apr 2014,v RR,Abu Dhabi,1,0,0,0,0,0
+230558,2 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+230558,5 May 2014,v RR,Ahmedabad,1,0,0,0,0,0
+230558,7 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+230558,11 May 2014,v Kings XI,Cuttack,1,0,0,0,0,0
+230558,14 May 2014,v MI,Cuttack,1,0,0,0,0,0
+230558,18 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+230558,20 May 2014,v CSK,Eden Gardens,1,0,0,0,0,0
+230558,22 May 2014,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,24 May 2014,v SRH,Eden Gardens,1,0,0,0,0,0
+230558,27 May 2014,v Kings XI,Eden Gardens,2,0,0,0,0,0
+230558,1 Jun 2014,v Kings XI,Bengaluru,1,0,0,0,0,0
+230558,5 Jul 2014,v New Zealand,Roseau,2,1,1,0,0,1
+230558,6 Jul 2014,v New Zealand,Roseau,2,0,0,0,0,0
+230558,11 Jul 2014,v Hawksbills,St George's,1,0,0,0,0,0
+230558,17 Jul 2014,v Red Steel,Providence,1,0,0,0,0,0
+230558,19 Jul 2014,v Zouks,Providence,1,0,0,0,0,0
+230558,20 Jul 2014,v Tallawahs,Providence,1,0,0,0,0,0
+230558,7 Aug 2014,v Hawksbills,Basseterre,2,0,0,0,0,0
+230558,10 Aug 2014,v Zouks,Basseterre,1,0,0,0,0,0
+230558,14 Aug 2014,v Tallawahs,Basseterre,1,0,0,0,0,0
+230558,16 Aug 2014,v Tridents,Basseterre,1,1,1,0,0,1
+230558,27 Aug 2014,v Bangladesh,Basseterre,1,0,0,0,0,0
+230558,17 Sep 2014,v CSK,Hyderabad,1,0,0,0,0,0
+230558,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+230558,24 Sep 2014,v Scorchers,Hyderabad,1,0,0,0,0,0
+230558,29 Sep 2014,v Dolphins,Hyderabad,2,1,1,0,0,1
+230558,2 Oct 2014,v Hurricanes,Hyderabad,1,0,0,0,0,0
+230558,8 Apr 2015,v MI,Eden Gardens,1,0,0,0,0,0
+230558,11 Apr 2015,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,18 Apr 2015,v Kings XI,Pune,1,0,0,0,0,0
+230558,20 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+230558,22 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+230558,7 May 2015,v Daredevils,Eden Gardens,2,0,0,0,0,0
+230558,9 May 2015,v Kings XI,Eden Gardens,1,1,1,0,0,1
+230558,14 May 2015,v MI,Wankhede,1,0,0,0,0,0
+230558,20 Jun 2015,v Tridents,Bridgetown,1,0,0,0,0,0
+230558,26 Jun 2015,v Zouks,Gros Islet,1,0,0,0,0,0
+230558,3 Jul 2015,v Patriots,Basseterre,1,0,0,0,0,0
+230558,4 Jul 2015,v Red Steel,Basseterre,2,0,0,0,0,0
+230558,8 Jul 2015,v Patriots,Basseterre,1,0,0,0,0,0
+230558,12 Jul 2015,v Tallawahs,Kingston,2,0,0,0,0,0
+230558,17 Jul 2015,v Zouks,Providence,1,0,0,0,0,0
+230558,18 Jul 2015,v Tridents,Providence,1,1,1,0,0,1
+230558,21 Jul 2015,v Red Steel,Providence,1,0,0,0,0,0
+230558,25 Jul 2015,v Red Steel,Port of Spain,2,0,0,0,0,0
+230558,9 Nov 2015,v Sri Lanka,Pallekele,1,1,1,0,0,1
+230558,11 Nov 2015,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+230558,22 Nov 2015,v Dynamites,Mirpur,2,1,1,0,0,1
+230558,24 Nov 2015,v Chattogram,Mirpur,1,0,0,0,0,0
+230558,25 Nov 2015,v Bulls,Mirpur,1,0,0,0,0,0
+230558,27 Nov 2015,v Rangpur,Mirpur,1,0,0,0,0,0
+230558,16 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+230558,19 Apr 2016,v Kings XI,Mohali,1,0,0,0,0,0
+230558,24 Apr 2016,v Supergiants,Pune,1,1,1,0,0,1
+230558,28 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+230558,30 Apr 2016,v Daredevils,Delhi,1,1,1,0,0,1
+230558,2 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+230558,14 May 2016,v Supergiants,Eden Gardens,1,0,0,0,0,0
+230558,16 May 2016,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,19 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+230558,22 May 2016,v SRH,Eden Gardens,2,0,0,0,0,0
+230558,25 May 2016,v SRH,Delhi,1,0,0,0,0,0
+230558,29 Jun 2016,v Zouks,Port of Spain,2,1,1,0,0,1
+230558,1 Jul 2016,v Tridents,Port of Spain,2,0,0,0,0,0
+230558,2 Jul 2016,v Amazon,Port of Spain,2,0,0,0,0,0
+230558,4 Jul 2016,v Tallawahs,Port of Spain,2,0,0,0,0,0
+230558,10 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+230558,16 Jul 2016,v Tridents,Bridgetown,1,0,0,0,0,0
+230558,18 Jul 2016,v Tallawahs,Kingston,1,0,0,0,0,0
+230558,26 Jul 2016,v Zouks,Gros Islet,1,0,0,0,0,0
+230558,29 Jul 2016,v Patriots,Lauderhill,1,0,0,0,0,0
+230558,31 Jul 2016,v Patriots,Lauderhill,1,0,0,0,0,0
+230558,4 Aug 2016,v Zouks,Basseterre,1,0,0,0,0,0
+230558,5 Aug 2016,v Tallawahs,Basseterre,1,1,1,0,0,1
+230558,27 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+230558,28 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+230558,23 Sep 2016,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+230558,24 Sep 2016,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+230558,27 Sep 2016,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+230558,22 Dec 2016,v Thunder,Melbourne (Docklands),2,0,0,0,0,0
+230558,29 Dec 2016,v Scorchers,Melbourne (Docklands),2,1,1,0,0,1
+230558,1 Jan 2017,v Stars,Melbourne,2,0,0,0,0,0
+230558,7 Jan 2017,v Stars,Melbourne (Docklands),1,1,1,0,0,1
+230558,9 Jan 2017,v Sixers,Sydney,2,1,1,0,0,1
+230558,12 Jan 2017,v Hurricanes,Melbourne (Docklands),2,0,0,0,0,0
+230558,16 Jan 2017,v Strikers,Adelaide,2,0,0,0,0,0
+230558,20 Jan 2017,v Heat,Brisbane,2,0,0,0,0,0
+230558,10 Feb 2017,v Gladiators,Dubai (DICS),1,0,0,0,0,0
+230558,11 Feb 2017,v United,Dubai (DICS),1,0,0,0,0,0
+230558,12 Feb 2017,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+230558,16 Feb 2017,v Kings,Sharjah,2,0,0,0,0,0
+230558,18 Feb 2017,v Gladiators,Sharjah,2,0,0,0,0,0
+230558,20 Feb 2017,v United,Sharjah,1,0,0,0,0,0
+230558,24 Feb 2017,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+230558,25 Feb 2017,v Kings,Dubai (DICS),2,0,0,0,0,0
+230558,26 Mar 2017,v Pakistan,Bridgetown,2,0,0,0,0,0
+230558,30 Mar 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+230558,1 Apr 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+230558,2 Apr 2017,v Pakistan,Port of Spain,2,0,0,0,0,0
+230558,7 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+230558,9 Apr 2017,v MI,Wankhede,2,1,1,0,0,1
+230558,13 Apr 2017,v Kings XI,Eden Gardens,1,1,1,0,0,1
+230558,15 Apr 2017,v SRH,Eden Gardens,2,0,0,0,0,0
+230558,17 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+230558,21 Apr 2017,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+230558,23 Apr 2017,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,26 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+230558,28 Apr 2017,v Daredevils,Eden Gardens,1,0,0,0,0,0
+230558,30 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+230558,3 May 2017,v Supergiant,Eden Gardens,2,1,1,0,0,1
+230558,7 May 2017,v RCB,Bengaluru,1,0,0,0,0,0
+230558,9 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+230558,13 May 2017,v MI,Eden Gardens,1,1,1,0,0,1
+230558,17 May 2017,v SRH,Bengaluru,1,0,0,0,0,0
+230558,19 May 2017,v MI,Bengaluru,2,0,0,0,0,0
+230558,2 Jun 2017,v Afghanistan,Basseterre,1,2,2,0,0,2
+230558,3 Jun 2017,v Afghanistan,Basseterre,2,0,0,0,0,0
+230558,5 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+230558,9 Jul 2017,v India,Kingston,1,2,2,0,0,2
+230558,4 Aug 2017,v Stars,Gros Islet,1,0,0,0,0,0
+230558,7 Aug 2017,v Stars,Port of Spain,1,0,0,0,0,0
+230558,9 Aug 2017,v Tallawahs,Port of Spain,2,0,0,0,0,0
+230558,11 Aug 2017,v Amazon,Port of Spain,1,0,0,0,0,0
+230558,12 Aug 2017,v Tridents,Port of Spain,1,1,1,0,0,1
+230558,14 Aug 2017,v Patriots,Port of Spain,1,0,0,0,0,0
+230558,19 Aug 2017,v Amazon,Providence,1,0,0,0,0,0
+230558,23 Aug 2017,v Patriots,Basseterre,1,0,0,0,0,0
+230558,26 Aug 2017,v Tallawahs,Kingston,2,0,0,0,0,0
+230558,2 Sep 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+230558,5 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+230558,7 Sep 2017,v Amazon,Tarouba,1,0,0,0,0,0
+230558,9 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+230558,16 Sep 2017,v England,Chester-le-Street,2,0,0,0,0,0
+230558,5 Nov 2017,v Khulna,Sylhet,2,0,0,0,0,0
+230558,11 Nov 2017,v Sylhet,Mirpur,1,0,0,0,0,0
+230558,14 Nov 2017,v Khulna,Mirpur,1,0,0,0,0,0
+230558,18 Nov 2017,v Kings,Mirpur,2,0,0,0,0,0
+230558,20 Nov 2017,v Victorians,Mirpur,2,0,0,0,0,0
+230558,21 Nov 2017,v Rangpur,Mirpur,1,1,1,0,0,1
+230558,27 Nov 2017,v Chattogram,Chattogram,1,0,0,0,0,0
+230558,29 Nov 2017,v Victorians,Chattogram,1,0,0,0,0,0
+230558,2 Dec 2017,v Kings,Mirpur,2,0,0,0,0,0
+230558,6 Dec 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+230558,8 Dec 2017,v Victorians,Mirpur,2,0,0,0,0,0
+230558,12 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+230558,23 Feb 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+230558,24 Feb 2018,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+230558,26 Feb 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+230558,2 Mar 2018,v United,Sharjah,1,3,3,0,0,3
+230558,3 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+230558,8 Mar 2018,v United,Dubai (DICS),2,0,0,0,0,0
+230558,9 Mar 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+230558,11 Mar 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+230558,14 Mar 2018,v Gladiators,Sharjah,2,0,0,0,0,0
+230558,8 Apr 2018,v RCB,Eden Gardens,1,0,0,0,0,0
+230558,10 Apr 2018,v CSK,Chennai,2,0,0,0,0,0
+230558,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+230558,16 Apr 2018,v Daredevils,Eden Gardens,2,0,0,0,0,0
+230558,18 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+230558,21 Apr 2018,v Kings XI,Eden Gardens,2,0,0,0,0,0
+230558,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+230558,29 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+230558,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+230558,6 May 2018,v MI,Wankhede,1,0,0,0,0,0
+230558,9 May 2018,v MI,Eden Gardens,1,0,0,0,0,0
+230558,12 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+230558,15 May 2018,v RR,Eden Gardens,1,0,0,0,0,0
+230558,19 May 2018,v SRH,Hyderabad,1,1,1,0,0,1
+230558,23 May 2018,v RR,Eden Gardens,2,0,0,0,0,0
+230558,25 May 2018,v SRH,Eden Gardens,1,0,0,0,0,0
+230558,8 Aug 2018,v Stars,Port of Spain,2,1,1,0,0,1
+230558,10 Aug 2018,v Tallawahs,Port of Spain,2,0,0,0,0,0
+230558,11 Aug 2018,v Patriots,Port of Spain,1,2,2,0,0,2
+230558,16 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+230558,19 Aug 2018,v Tallawahs,Lauderhill,1,0,0,0,0,0
+230558,26 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+230558,1 Sep 2018,v Patriots,Basseterre,2,1,1,0,0,1
+230558,5 Sep 2018,v Amazon,Port of Spain,2,2,2,0,0,2
+230558,7 Sep 2018,v Tridents,Port of Spain,2,0,0,0,0,0
+230558,11 Sep 2018,v Amazon,Providence,2,1,1,0,0,1
+230558,14 Sep 2018,v Patriots,Tarouba,2,1,1,0,0,1
+230558,16 Sep 2018,v Amazon,Tarouba,1,1,1,0,0,1
+230558,5 Jan 2019,v Kings,Mirpur,2,0,0,0,0,0
+230558,8 Jan 2019,v Khulna,Mirpur,2,0,0,0,0,0
+230558,11 Jan 2019,v Rangpur,Mirpur,2,1,1,0,0,1
+230558,12 Jan 2019,v Sylhet,Mirpur,2,0,0,0,0,0
+230558,16 Jan 2019,v Kings,Sylhet,1,0,0,0,0,0
+230558,18 Jan 2019,v Sylhet,Sylhet,1,0,0,0,0,0
+230558,21 Jan 2019,v Chattogram,Mirpur,2,1,1,0,0,1
+230558,22 Jan 2019,v Victorians,Mirpur,1,0,0,0,0,0
+230558,28 Jan 2019,v Rangpur,Chattogram,2,1,1,0,0,1
+230558,30 Jan 2019,v Chattogram,Chattogram,1,0,0,0,0,0
+230558,1 Feb 2019,v Victorians,Mirpur,1,0,0,0,0,0
+230558,2 Feb 2019,v Khulna,Mirpur,1,0,0,0,0,0
+230558,4 Feb 2019,v Chattogram,Mirpur,1,0,0,0,0,0
+230558,6 Feb 2019,v Rangpur,Mirpur,1,0,0,0,0,0
+230558,8 Feb 2019,v Victorians,Mirpur,1,0,0,0,0,0
+230558,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+230558,27 Mar 2019,v Kings XI,Eden Gardens,2,0,0,0,0,0
+230558,5 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+230558,7 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+230558,9 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+230558,14 Apr 2019,v CSK,Eden Gardens,2,0,0,0,0,0
+230558,19 Apr 2019,v RCB,Eden Gardens,1,0,0,0,0,0
+230558,21 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+230558,25 Apr 2019,v RR,Eden Gardens,2,0,0,0,0,0
+230558,28 Apr 2019,v MI,Eden Gardens,2,0,0,0,0,0
+230558,3 May 2019,v Kings XI,Mohali,1,0,0,0,0,0
+230558,5 May 2019,v MI,Wankhede,2,0,0,0,0,0
+230558,3 Aug 2019,v India,Lauderhill,2,0,0,0,0,0
+230558,4 Aug 2019,v India,Lauderhill,1,0,0,0,0,0
+230558,6 Aug 2019,v India,Providence,2,0,0,0,0,0
+230558,4 Sep 2019,v Patriots,Port of Spain,2,1,1,0,0,1
+230558,6 Sep 2019,v Tallawahs,Port of Spain,2,0,0,0,0,0
+230558,8 Sep 2019,v Zouks,Port of Spain,1,0,0,0,0,0
+230558,13 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+230558,26 Sep 2019,v Tridents,Bridgetown,1,1,1,0,0,1
+230558,6 Oct 2019,v Patriots,Providence,1,1,1,0,0,1
+230558,10 Oct 2019,v Tridents,Tarouba,1,0,0,0,0,0
+230558,18 Aug 2020,v Amazon,Tarouba,1,1,1,0,0,1
+230558,20 Aug 2020,v Tallawahs,Tarouba,1,0,0,0,0,0
+230558,23 Aug 2020,v Tridents,Tarouba,2,0,0,0,0,0
+230558,1 Sep 2020,v Tallawahs,Tarouba,2,2,2,0,0,2
+230558,8 Sep 2020,v Tallawahs,Tarouba,1,0,0,0,0,0
+230558,23 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+230558,26 Sep 2020,v SRH,Abu Dhabi,1,0,0,0,0,0
+230558,30 Sep 2020,v RR,Dubai (DICS),2,1,1,0,0,1
+230558,3 Oct 2020,v DC,Sharjah,1,0,0,0,0,0
+230558,7 Oct 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+230558,10 Oct 2020,v Kings XI,Abu Dhabi,2,0,0,0,0,0
+230558,24 Oct 2020,v DC,Abu Dhabi,2,0,0,0,0,0
+230558,26 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+230558,29 Oct 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+230558,1 Nov 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+230558,21 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+230558,24 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+230558,26 Apr 2021,v Punjab Kings,Ahmedabad,1,1,1,0,0,1
+230558,29 Apr 2021,v DC,Ahmedabad,2,0,0,0,0,0
+230558,22 Jul 2021,v Originals,The Oval,2,0,0,0,0,0
+230558,25 Jul 2021,v Spirit,Lord's,-,TDNF,-,-,-,-
+230558,31 Jul 2021,v N S-Chargers,Leeds,2,0,0,0,0,0
+230558,2 Aug 2021,v Fire,The Oval,1,0,0,0,0,0
+230558,4 Aug 2021,v Phoenix,Birmingham,2,1,1,0,0,1
+230558,8 Aug 2021,v Rockets,The Oval,2,0,0,0,0,0
+230558,14 Aug 2021,v Spirit,The Oval,1,0,0,0,0,0
+230558,16 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+230558,26 Aug 2021,v Amazon,Basseterre,1,0,0,0,0,0
+230558,27 Aug 2021,v Royals,Basseterre,1,0,0,0,0,0
+230558,29 Aug 2021,v Kings,Basseterre,1,0,0,0,0,0
+230558,31 Aug 2021,v Kings,Basseterre,2,0,0,0,0,0
+230558,1 Sep 2021,v Amazon,Basseterre,2,0,0,0,0,0
+230558,5 Sep 2021,v Tallawahs,Basseterre,1,0,0,0,0,0
+230558,7 Sep 2021,v Tallawahs,Basseterre,2,1,1,0,0,1
+230558,9 Sep 2021,v Royals,Basseterre,1,0,0,0,0,0
+230558,11 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+230558,14 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+230558,20 Sep 2021,v RCB,Abu Dhabi,1,0,0,0,0,0
+230558,23 Sep 2021,v MI,Abu Dhabi,1,1,1,0,0,1
+230558,26 Sep 2021,v CSK,Abu Dhabi,2,0,0,0,0,0
+230558,28 Sep 2021,v DC,Sharjah,1,0,0,0,0,0
+230558,1 Oct 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+230558,3 Oct 2021,v SRH,Dubai (DICS),1,0,0,0,0,0
+230558,7 Oct 2021,v RR,Sharjah,2,0,0,0,0,0
+230558,11 Oct 2021,v RCB,Sharjah,1,0,0,0,0,0
+230558,13 Oct 2021,v DC,Sharjah,1,0,0,0,0,0
+230558,15 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+230558,3 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+230558,7 Feb 2022,v Barishal,Sylhet,1,0,0,0,0,0
+230558,9 Feb 2022,v Sunrisers,Sylhet,1,1,1,0,0,1
+230558,11 Feb 2022,v Khulna,Mirpur,2,1,1,0,0,1
+230558,12 Feb 2022,v Khulna,Mirpur,2,0,0,0,0,0
+230558,14 Feb 2022,v Barishal,Mirpur,1,1,1,0,0,1
+230558,16 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+230558,18 Feb 2022,v Barishal,Mirpur,2,0,0,0,0,0
+230558,26 Mar 2022,v CSK,Wankhede,1,1,1,0,0,1
+230558,30 Mar 2022,v RCB,DY Patil,2,0,0,0,0,0
+230558,1 Apr 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+230558,6 Apr 2022,v MI,Pune,1,0,0,0,0,0
+230558,10 Apr 2022,v DC,Brabourne,1,0,0,0,0,0
+230558,15 Apr 2022,v SRH,Brabourne,2,0,0,0,0,0
+230558,18 Apr 2022,v RR,Brabourne,1,0,0,0,0,0
+230558,23 Apr 2022,v GT,DY Patil,1,0,0,0,0,0
+230558,28 Apr 2022,v DC,Wankhede,2,1,1,0,0,1
+230558,2 May 2022,v RR,Wankhede,1,0,0,0,0,0
+230558,7 May 2022,v LSG,Pune,1,0,0,0,0,0
+230558,9 May 2022,v MI,DY Patil,2,0,0,0,0,0
+230558,14 May 2022,v SRH,Pune,2,1,1,0,0,1
+230558,18 May 2022,v LSG,DY Patil,1,0,0,0,0,0
+230558,27 May 2022,v Glamorgan,The Oval,1,0,0,0,0,0
+230558,31 May 2022,v Gloucs,The Oval,2,0,0,0,0,0
+230558,2 Jun 2022,v Hampshire,The Oval,2,0,0,0,0,0
+230558,3 Jun 2022,v Kent,Canterbury,2,1,1,0,0,1
+230558,5 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+230558,8 Jun 2022,v Sussex,The Oval,1,0,0,0,0,0
+230558,9 Jun 2022,v Middlesex,Lord's,2,0,0,0,0,0
+230558,17 Jun 2022,v Middlesex,The Oval,1,0,0,0,0,0
+230558,19 Jun 2022,v Hampshire,Southampton,1,0,0,0,0,0
+230558,21 Jun 2022,v Somerset,The Oval,1,0,0,0,0,0
+230558,23 Jun 2022,v Sussex,Hove,1,1,1,0,0,1
+230558,24 Jun 2022,v Essex,Chelmsford,1,0,0,0,0,0
+230558,1 Jul 2022,v Kent,The Oval,1,0,0,0,0,0
+230558,6 Jul 2022,v Yorkshire,The Oval,1,0,0,0,0,0
+230558,4 Aug 2022,v Spirit,The Oval,1,0,0,0,0,0
+230558,7 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+230558,11 Aug 2022,v N S-Chargers,The Oval,1,0,0,0,0,0
+230558,14 Aug 2022,v Brave,The Oval,1,0,0,0,0,0
+230558,17 Aug 2022,v Rockets,Nottingham,1,0,0,0,0,0
+230558,23 Aug 2022,v Phoenix,The Oval,1,1,1,0,0,1
+230558,1 Sep 2022,v Kings,Basseterre,1,1,1,0,0,1
+230558,3 Sep 2022,v Patriots,Basseterre,-,TDNF,-,-,-,-
+230558,7 Sep 2022,v Royals,Gros Islet,1,0,0,0,0,0
+230558,10 Sep 2022,v Tallawahs,Gros Islet,1,1,1,0,0,1
+230558,13 Sep 2022,v Royals,Port of Spain,2,0,0,0,0,0
+230558,14 Sep 2022,v Amazon,Port of Spain,2,0,0,0,0,0
+230558,17 Sep 2022,v Tallawahs,Tarouba,1,1,1,0,0,1
+230558,18 Sep 2022,v Kings,Tarouba,1,0,0,0,0,0
+230558,22 Sep 2022,v Patriots,Providence,1,0,0,0,0,0
+230558,24 Sep 2022,v Amazon,Providence,1,0,0,0,0,0
+230558,7 Feb 2023,v Barishal,Mirpur,1,1,1,0,0,1
+230558,10 Feb 2023,v Rangpur,Mirpur,2,0,0,0,0,0
+230558,12 Feb 2023,v Strikers,Mirpur,1,1,1,0,0,1
+230558,16 Feb 2023,v Strikers,Mirpur,1,0,0,0,0,0
+230558,1 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+230558,6 Apr 2023,v RCB,Eden Gardens,2,1,1,0,0,1
+230558,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+230558,14 Apr 2023,v SRH,Eden Gardens,1,0,0,0,0,0
+230558,16 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+230558,20 Apr 2023,v DC,Delhi,2,0,0,0,0,0
+230558,23 Apr 2023,v CSK,Eden Gardens,1,0,0,0,0,0
+230558,26 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+230558,29 Apr 2023,v GT,Eden Gardens,2,0,0,0,0,0
+230558,4 May 2023,v SRH,Hyderabad,2,0,0,0,0,0
+230558,8 May 2023,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+230558,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+230558,14 May 2023,v CSK,Chennai,1,0,0,0,0,0
+230558,20 May 2023,v LSG,Eden Gardens,1,0,0,0,0,0
+230558,25 May 2023,v Middlesex,Lord's,2,0,0,0,0,0
+230558,26 May 2023,v Kent,The Oval,2,0,0,0,0,0
+230558,28 May 2023,v Sussex,The Oval,2,0,0,0,0,0
+230558,31 May 2023,v Hampshire,Southampton,1,1,1,0,0,1
+230558,2 Jun 2023,v Gloucs,Bristol,2,0,0,0,0,0
+230558,4 Jun 2023,v Kent,Canterbury,1,0,0,0,0,0
+230558,7 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+230558,9 Jun 2023,v Sussex,Hove,2,1,1,0,0,1
+230558,16 Jun 2023,v Somerset,Taunton,2,1,1,0,0,1
+230558,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+230558,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+230558,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+230558,30 Jun 2023,v Somerset,The Oval,1,0,0,0,0,0
+230558,2 Jul 2023,v Essex,The Oval,2,0,0,0,0,0
+230558,7 Jul 2023,v Lancashire,Manchester,2,0,0,0,0,0
+230558,2 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+230558,6 Aug 2023,v Fire,The Oval,1,0,0,0,0,0
+230558,9 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+230558,11 Aug 2023,v N S-Chargers,Leeds,2,0,0,0,0,0
+230558,13 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+230558,19 Aug 2023,v Patriots,Gros Islet,-,TDNF,-,-,-,-
+230558,26 Aug 2023,v Kings,Basseterre,1,0,0,0,0,0
+230558,27 Aug 2023,v Patriots,Basseterre,1,0,0,0,0,0
+230558,30 Aug 2023,v Royals,Bridgetown,2,0,0,0,0,0
+230558,3 Sep 2023,v Tallawahs,Bridgetown,2,0,0,0,0,0
+230558,5 Sep 2023,v Amazon,Port of Spain,2,0,0,0,0,0
+230558,6 Sep 2023,v Royals,Port of Spain,2,1,1,0,0,1
+230558,9 Sep 2023,v Tallawahs,Tarouba,1,0,0,0,0,0
+230558,10 Sep 2023,v Kings,Tarouba,1,0,0,0,0,0
+230558,24 Sep 2023,v Amazon,Providence,2,0,0,0,0,0
+230558,21 Jan 2024,v Vipers,Dubai (DICS),1,1,1,0,0,1
+230558,23 Jan 2024,v MI Emirates,Abu Dhabi,2,1,1,0,0,1
+230558,25 Jan 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+230558,27 Jan 2024,v Vipers,Abu Dhabi,1,0,0,0,0,0
+230558,28 Jan 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+230558,31 Jan 2024,v Gulf Giants,Abu Dhabi,1,0,0,0,0,0
+230558,3 Feb 2024,v DC,Abu Dhabi,2,0,0,0,0,0
+230558,7 Feb 2024,v Warriors,Abu Dhabi,2,0,0,0,0,0
+230558,10 Feb 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+230558,13 Feb 2024,v DC,Abu Dhabi,1,0,0,0,0,0
+230558,19 Feb 2024,v Strikers,Chattogram,1,1,1,0,0,1
+230558,20 Feb 2024,v Rangpur,Chattogram,1,2,2,0,0,2
+230558,23 Feb 2024,v Barishal,Mirpur,2,0,0,0,0,0
+230558,26 Feb 2024,v Rangpur,Mirpur,1,0,0,0,0,0
+230558,1 Mar 2024,v Barishal,Mirpur,2,0,0,0,0,0
+230558,23 Mar 2024,v SRH,Eden Gardens,2,0,0,0,0,0
+230558,29 Mar 2024,v RCB,Bengaluru,1,0,0,0,0,0
+230558,3 Apr 2024,v DC,Visakhapatnam,2,1,1,0,0,1
+230558,8 Apr 2024,v CSK,Chennai,2,0,0,0,0,0
+230558,14 Apr 2024,v LSG,Eden Gardens,1,1,1,0,0,1
+230558,16 Apr 2024,v RR,Eden Gardens,2,1,1,0,0,1
+230558,21 Apr 2024,v RCB,Eden Gardens,2,1,1,0,0,1
+230558,26 Apr 2024,v Punjab Kings,Eden Gardens,2,0,0,0,0,0
+230558,29 Apr 2024,v DC,Eden Gardens,1,0,0,0,0,0
+230558,3 May 2024,v MI,Wankhede,2,2,2,0,0,2
+230558,5 May 2024,v LSG,Lucknow,2,0,0,0,0,0
+230558,11 May 2024,v MI,Eden Gardens,2,1,1,0,0,1
+230558,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+230558,21 May 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+230558,26 May 2024,v SRH,Chennai,1,1,1,0,0,1
+230558,5 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+230558,7 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+230558,9 Jul 2024,v Seattle,Dallas,2,0,0,0,0,0
+230558,14 Jul 2024,v Washington,Morrisville,2,0,0,0,0,0
+230558,17 Jul 2024,v Seattle,Morrisville,1,0,0,0,0,0
+230558,21 Jul 2024,v MI New York,Dallas,2,1,1,0,0,1
+230558,31 Aug 2024,v Patriots,Basseterre,2,0,0,0,0,0
+230558,5 Sep 2024,v Falcons,North Sound,1,1,1,0,0,1
+230558,10 Sep 2024,v Kings,Gros Islet,1,0,0,0,0,0
+230558,13 Sep 2024,v Royals,Bridgetown,1,0,0,0,0,0
+230558,18 Sep 2024,v Amazon,Port of Spain,1,0,0,0,0,0
+230558,19 Sep 2024,v Falcons,Port of Spain,2,0,0,0,0,0
+230558,1 Oct 2024,v Royals,Providence,2,0,0,0,0,0
+230558,12 Jan 2025,v Vipers,Abu Dhabi,2,0,0,0,0,0
+230558,15 Jan 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+230558,18 Jan 2025,v Vipers,Dubai (DICS),1,0,0,0,0,0
+230558,19 Jan 2025,v Gulf Giants,Dubai (DICS),2,1,1,0,0,1
+230558,21 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+230558,24 Jan 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+230558,26 Jan 2025,v DC,Abu Dhabi,2,0,0,0,0,0
+230558,30 Jan 2025,v Warriorz,Sharjah,2,1,1,0,0,1
+230558,1 Feb 2025,v Gulf Giants,Abu Dhabi,2,0,0,0,0,0
+230558,2 Feb 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+230558,22 Mar 2025,v RCB,Eden Gardens,2,0,0,0,0,0
+230558,31 Mar 2025,v MI,Wankhede,2,0,0,0,0,0
+230558,3 Apr 2025,v SRH,Eden Gardens,2,1,1,0,0,1
+230558,8 Apr 2025,v LSG,Eden Gardens,1,0,0,0,0,0
+230558,11 Apr 2025,v CSK,Chennai,1,0,0,0,0,0
+230558,15 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+230558,21 Apr 2025,v GT,Eden Gardens,1,0,0,0,0,0
+230558,26 Apr 2025,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+230558,29 Apr 2025,v DC,Delhi,2,1,1,0,0,1
+230558,4 May 2025,v RR,Eden Gardens,2,1,1,0,0,1
+230558,7 May 2025,v CSK,Eden Gardens,2,0,0,0,0,0
+230558,25 May 2025,v SRH,Delhi,1,0,0,0,0,0
+230558,14 Jun 2025,v SF,Oakland,1,1,1,0,0,1
+230558,15 Jun 2025,v Texas,Oakland,1,0,0,0,0,0
+230558,17 Jun 2025,v Washington,Oakland,1,2,2,0,0,2
+230558,24 Jun 2025,v Texas,Dallas,1,0,0,0,0,0
+230558,3 Jul 2025,v MI New York,Lauderhill,2,0,0,0,0,0
+230558,5 Jul 2025,v MI New York,Lauderhill,1,0,0,0,0,0
+230558,17 Aug 2025,v Patriots,Basseterre,2,0,0,0,0,0
+230558,20 Aug 2025,v Falcons,North Sound,1,1,1,0,0,1
+230558,23 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+230558,27 Aug 2025,v Falcons,Tarouba,1,1,1,0,0,1
+230558,29 Aug 2025,v Royals,Tarouba,1,0,0,0,0,0
+230558,30 Aug 2025,v Amazon,Tarouba,1,0,0,0,0,0
+230558,1 Sep 2025,v Patriots,Tarouba,2,1,1,0,0,1
+230558,3 Sep 2025,v Kings,Tarouba,2,0,0,0,0,0
+230558,6 Sep 2025,v Amazon,Providence,2,0,0,0,0,0
+230558,12 Sep 2025,v Royals,Bridgetown,2,0,0,0,0,0
+230558,16 Sep 2025,v Falcons,Providence,1,0,0,0,0,0
+230558,19 Sep 2025,v Kings,Providence,2,2,2,0,0,2
+230558,21 Sep 2025,v Amazon,Providence,1,0,0,0,0,0
+230558,3 Dec 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+230558,5 Dec 2025,v Vipers,Sharjah,2,0,0,0,0,0
+230558,7 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+230558,11 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+230558,13 Dec 2025,v DC,Abu Dhabi,1,0,0,0,0,0
+230558,16 Dec 2025,v Vipers,Abu Dhabi,2,0,0,0,0,0
+230558,18 Dec 2025,v Gulf Giants,Abu Dhabi,1,1,1,0,0,1
+230558,20 Dec 2025,v MI Emirates,Abu Dhabi,1,1,1,0,0,1
+230558,22 Dec 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+230558,28 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+230558,1 Jan 2026,v DC,Dubai (DICS),2,0,0,0,0,0
+230558,2 Jan 2026,v MI Emirates,Sharjah,2,0,0,0,0,0
+230558,7 Jan 2026,v Capitals,Durban,1,0,0,0,0,0
+230558,11 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+230558,13 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+230558,17 Jan 2026,v Paarl Royals,Durban,2,0,0,0,0,0

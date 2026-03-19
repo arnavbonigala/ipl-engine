@@ -1,0 +1,163 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+670013,19 Aug 2017,v Stars,Basseterre,1,0,0,0,0,0
+670013,2 Sep 2018,v Tallawahs,Basseterre,1,0,0,0,0,0
+670013,4 Sep 2018,v Tridents,Basseterre,1,0,0,0,0,0
+670013,12 Sep 2018,v Tallawahs,Providence,1,0,0,0,0,0
+670013,14 Sep 2018,v Trinbago,Tarouba,1,0,0,0,0,0
+670013,4 Nov 2018,v India,Eden Gardens,2,0,0,0,0,0
+670013,6 Nov 2018,v India,Lucknow,1,0,0,0,0,0
+670013,11 Nov 2018,v India,Chennai,2,0,0,0,0,0
+670013,17 Dec 2018,v Bangladesh,Sylhet,1,0,0,0,0,0
+670013,20 Dec 2018,v Bangladesh,Mirpur,1,1,1,0,0,1
+670013,22 Dec 2018,v Bangladesh,Mirpur,2,2,2,0,0,2
+670013,5 Mar 2019,v England,Gros Islet,2,0,0,0,0,0
+670013,8 Mar 2019,v England,Basseterre,1,0,0,0,0,0
+670013,10 Mar 2019,v England,Basseterre,2,0,0,0,0,0
+670013,6 Aug 2019,v India,Providence,2,0,0,0,0,0
+670013,4 Sep 2019,v Trinbago,Port of Spain,1,2,2,0,0,2
+670013,7 Sep 2019,v Amazon,Providence,2,1,1,0,0,1
+670013,10 Sep 2019,v Tallawahs,Basseterre,1,0,0,0,0,0
+670013,11 Sep 2019,v Tridents,Basseterre,1,0,0,0,0,0
+670013,14 Sep 2019,v Amazon,Basseterre,2,0,0,0,0,0
+670013,15 Sep 2019,v Zouks,Basseterre,1,1,1,0,0,1
+670013,17 Sep 2019,v Trinbago,Basseterre,1,0,0,0,0,0
+670013,19 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+670013,24 Sep 2019,v Zouks,Gros Islet,1,1,1,0,0,1
+670013,28 Sep 2019,v Tridents,Bridgetown,2,0,0,0,0,0
+670013,6 Oct 2019,v Trinbago,Providence,2,0,0,0,0,0
+670013,14 Nov 2019,v Afghanistan,Lucknow,2,1,1,0,0,1
+670013,4 Mar 2020,v Sri Lanka,Pallekele,2,0,0,0,0,0
+670013,6 Mar 2020,v Sri Lanka,Pallekele,1,0,0,0,0,0
+670013,27 Nov 2020,v New Zealand,Auckland,2,0,0,0,0,0
+670013,29 Nov 2020,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+670013,30 Nov 2020,v New Zealand,Mount Maunganui,-,TDNF,-,-,-,-
+670013,3 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+670013,5 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+670013,7 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+670013,21 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+670013,23 Apr 2021,v MI,Chennai,1,1,1,0,0,1
+670013,10 Jun 2021,v Qalandars,Abu Dhabi,1,0,0,0,0,0
+670013,12 Jun 2021,v Gladiators,Abu Dhabi,2,1,1,0,0,1
+670013,13 Jun 2021,v Sultans,Abu Dhabi,2,0,0,0,0,0
+670013,26 Jun 2021,v South Africa,St George's,1,1,1,0,0,1
+670013,27 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+670013,29 Jun 2021,v South Africa,St George's,1,2,2,0,0,2
+670013,1 Jul 2021,v South Africa,St George's,2,0,0,0,0,0
+670013,9 Jul 2021,v Australia,Gros Islet,2,1,1,0,0,1
+670013,10 Jul 2021,v Australia,Gros Islet,2,1,1,0,0,1
+670013,12 Jul 2021,v Australia,Gros Islet,1,2,2,0,0,2
+670013,14 Jul 2021,v Australia,Gros Islet,1,1,1,0,0,1
+670013,16 Jul 2021,v Australia,Gros Islet,2,2,2,0,0,2
+670013,26 Aug 2021,v Royals,Basseterre,2,1,1,0,0,1
+670013,28 Aug 2021,v Amazon,Basseterre,1,0,0,0,0,0
+670013,29 Aug 2021,v Amazon,Basseterre,1,1,1,0,0,1
+670013,1 Sep 2021,v Tallawahs,Basseterre,1,0,0,0,0,0
+670013,2 Sep 2021,v Royals,Basseterre,1,1,1,0,0,1
+670013,4 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+670013,5 Sep 2021,v Kings,Basseterre,2,0,0,0,0,0
+670013,8 Sep 2021,v Tallawahs,Basseterre,1,0,0,0,0,0
+670013,11 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+670013,12 Sep 2021,v Trinbago,Basseterre,2,1,1,0,0,1
+670013,14 Sep 2021,v Amazon,Basseterre,1,1,1,0,0,1
+670013,15 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+670013,21 Sep 2021,v RR,Dubai (DICS),1,1,1,0,0,1
+670013,1 Oct 2021,v KKR,Dubai (DICS),1,0,0,0,0,0
+670013,22 Jan 2022,v England,Bridgetown,1,2,2,0,0,2
+670013,23 Jan 2022,v England,Bridgetown,1,2,2,0,0,2
+670013,26 Jan 2022,v England,Bridgetown,2,0,0,0,0,0
+670013,30 Jan 2022,v England,Bridgetown,2,1,1,0,0,1
+670013,16 Feb 2022,v India,Eden Gardens,2,1,1,0,0,1
+670013,20 Feb 2022,v India,Eden Gardens,1,0,0,0,0,0
+670013,16 Apr 2022,v LSG,Brabourne,1,0,0,0,0,0
+670013,31 Aug 2022,v Patriots,Basseterre,2,1,1,0,0,1
+670013,3 Sep 2022,v Amazon,Basseterre,1,1,1,0,0,1
+670013,7 Sep 2022,v Kings,Gros Islet,2,1,1,0,0,1
+670013,10 Sep 2022,v Trinbago,Gros Islet,2,0,0,0,0,0
+670013,11 Sep 2022,v Royals,Gros Islet,2,0,0,0,0,0
+670013,14 Sep 2022,v Patriots,Port of Spain,2,0,0,0,0,0
+670013,15 Sep 2022,v Royals,Port of Spain,1,0,0,0,0,0
+670013,17 Sep 2022,v Trinbago,Tarouba,2,0,0,0,0,0
+670013,21 Sep 2022,v Amazon,Providence,1,0,0,0,0,0
+670013,25 Sep 2022,v Kings,Providence,-,TDNF,-,-,-,-
+670013,27 Sep 2022,v Kings,Providence,2,0,0,0,0,0
+670013,28 Sep 2022,v Amazon,Providence,2,1,1,0,0,1
+670013,30 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+670013,6 Dec 2022,v Stars,Hambantota,2,1,1,0,0,1
+670013,7 Dec 2022,v Galle,Hambantota,1,0,0,0,0,0
+670013,10 Dec 2022,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+670013,13 Dec 2022,v Aura,Pallekele,2,1,1,0,0,1
+670013,14 Dec 2022,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+670013,17 Dec 2022,v Stars,Colombo (RPS),1,0,0,0,0,0
+670013,18 Dec 2022,v Aura,Colombo (RPS),2,0,0,0,0,0
+670013,21 Dec 2022,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+670013,22 Dec 2022,v Stars,Colombo (RPS),2,1,1,0,0,1
+670013,16 Aug 2023,v Kings,Gros Islet,2,1,1,0,0,1
+670013,23 Aug 2023,v Patriots,Basseterre,1,2,2,0,0,2
+670013,27 Aug 2023,v Amazon,Basseterre,1,1,1,0,0,1
+670013,31 Aug 2023,v Royals,Bridgetown,2,0,0,0,0,0
+670013,3 Sep 2023,v Trinbago,Bridgetown,1,0,0,0,0,0
+670013,9 Sep 2023,v Trinbago,Tarouba,2,1,1,0,0,1
+670013,13 Sep 2023,v Amazon,Providence,2,0,0,0,0,0
+670013,16 Sep 2023,v Patriots,Providence,2,0,0,0,0,0
+670013,17 Sep 2023,v Kings,Providence,2,0,0,0,0,0
+670013,19 Sep 2023,v Kings,Providence,1,0,0,0,0,0
+670013,22 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+670013,12 Jan 2024,v Capitals,Paarl,2,1,1,0,0,1
+670013,14 Jan 2024,v Capitals,Centurion,2,1,1,0,0,1
+670013,17 Jan 2024,v Super Kings,Paarl,1,0,0,0,0,0
+670013,19 Jan 2024,v MI Cape Town,Cape Town,2,1,1,0,0,1
+670013,21 Jan 2024,v MI Cape Town,Paarl,2,1,1,0,0,1
+670013,24 Jan 2024,v Super Kings,Johannesburg,1,0,0,0,0,0
+670013,26 Jan 2024,v Super Giants,Paarl,1,0,0,0,0,0
+670013,28 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+670013,10 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+670013,13 Feb 2024,v DC,Abu Dhabi,1,0,0,0,0,0
+670013,1 May 2024,v Nepal,Kirtipur,2,0,0,0,0,0
+670013,2 May 2024,v Nepal,Kirtipur,2,0,0,0,0,0
+670013,4 May 2024,v Nepal,Kirtipur,2,1,1,0,0,1
+670013,23 May 2024,v South Africa,Kingston,2,1,1,0,0,1
+670013,25 May 2024,v South Africa,Kingston,2,0,0,0,0,0
+670013,26 May 2024,v South Africa,Kingston,1,0,0,0,0,0
+670013,2 Jul 2024,v Galle,Pallekele,2,0,0,0,0,0
+670013,3 Jul 2024,v Sixers,Pallekele,1,0,0,0,0,0
+670013,5 Jul 2024,v Galle,Dambulla,1,0,0,0,0,0
+670013,6 Jul 2024,v Sixers,Dambulla,2,0,0,0,0,0
+670013,9 Jul 2024,v Kandy,Dambulla,2,0,0,0,0,0
+670013,10 Jul 2024,v Colombo,Dambulla,1,1,1,0,0,1
+670013,13 Jul 2024,v Kandy,Colombo (RPS),1,1,1,0,0,1
+670013,14 Jul 2024,v Colombo,Colombo (RPS),2,0,0,0,0,0
+670013,18 Jul 2024,v Galle,Colombo (RPS),2,0,0,0,0,0
+670013,20 Jul 2024,v Kandy,Colombo (RPS),2,2,2,0,0,2
+670013,21 Jul 2024,v Galle,Colombo (RPS),1,1,1,0,0,1
+670013,27 Aug 2024,v South Africa,Tarouba,1,2,2,0,0,2
+670013,29 Aug 2024,v Patriots,North Sound,2,0,0,0,0,0
+670013,30 Aug 2024,v Amazon,North Sound,2,0,0,0,0,0
+670013,1 Sep 2024,v Royals,North Sound,2,1,1,0,0,1
+670013,3 Sep 2024,v Kings,North Sound,2,0,0,0,0,0
+670013,5 Sep 2024,v Trinbago,North Sound,2,2,2,0,0,2
+670013,8 Sep 2024,v Patriots,Basseterre,1,0,0,0,0,0
+670013,11 Sep 2024,v Royals,Bridgetown,2,0,0,0,0,0
+670013,15 Sep 2024,v Kings,Gros Islet,1,1,1,0,0,1
+670013,19 Sep 2024,v Trinbago,Port of Spain,1,0,0,0,0,0
+670013,21 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+670013,17 Oct 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+670013,17 Dec 2024,v Thunder,Canberra,2,0,0,0,0,0
+670013,6 Jul 2025,v Washington,Lauderhill,2,0,0,0,0,0
+670013,11 Jul 2025,v DC,Providence,1,1,1,0,0,1
+670013,13 Jul 2025,v Rangpur,Providence,1,1,1,0,0,1
+670013,15 Jul 2025,v Central D,Providence,1,0,0,0,0,0
+670013,16 Jul 2025,v Amazon,Providence,2,0,0,0,0,0
+670013,14 Aug 2025,v Patriots,Basseterre,2,0,0,0,0,0
+670013,16 Aug 2025,v Royals,North Sound,1,1,1,0,0,1
+670013,17 Aug 2025,v Kings,North Sound,-,TDNF,-,-,-,-
+670013,20 Aug 2025,v Trinbago,North Sound,2,1,1,0,0,1
+670013,22 Aug 2025,v Amazon,North Sound,1,0,0,0,0,0
+670013,24 Aug 2025,v Patriots,North Sound,1,0,0,0,0,0
+670013,27 Aug 2025,v Trinbago,Tarouba,2,0,0,0,0,0
+670013,31 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+670013,5 Sep 2025,v Royals,Bridgetown,1,0,0,0,0,0
+670013,10 Sep 2025,v Amazon,Providence,1,0,0,0,0,0
+670013,16 Sep 2025,v Trinbago,Providence,2,0,0,0,0,0
+670013,27 Sep 2025,v Nepal,Sharjah,1,0,0,0,0,0
+670013,29 Sep 2025,v Nepal,Sharjah,1,0,0,0,0,0
+670013,30 Sep 2025,v Nepal,Sharjah,1,1,1,0,0,1

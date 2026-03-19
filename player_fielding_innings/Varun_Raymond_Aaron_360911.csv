@@ -1,0 +1,96 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+360911,20 Oct 2009,v Tripura,Dhanbad,1,0,0,0,0,0
+360911,22 Oct 2009,v Bengal,Dhanbad,1,0,0,0,0,0
+360911,23 Oct 2009,v Assam,Dhanbad,1,0,0,0,0,0
+360911,24 Oct 2009,v Orissa,Dhanbad,1,0,0,0,0,0
+360911,21 Oct 2010,v Tripura,Cuttack,2,0,0,0,0,0
+360911,22 Oct 2010,v Bengal,Cuttack,1,0,0,0,0,0
+360911,23 Oct 2010,v Orissa,Cuttack,2,0,0,0,0,0
+360911,23 Apr 2011,v Kings XI,Delhi,2,0,0,0,0,0
+360911,12 May 2011,v CSK,Chennai,1,0,0,0,0,0
+360911,15 May 2011,v Kings XI,Dharamsala,1,0,0,0,0,0
+360911,21 May 2011,v Warriors,Delhi,-,TDNF,-,-,-,-
+360911,29 Aug 2011,v Leics,Leicester,2,0,0,0,0,0
+360911,7 May 2012,v KKR,Delhi,2,0,0,0,0,0
+360911,10 May 2012,v Chargers,Hyderabad,1,0,0,0,0,0
+360911,12 May 2012,v CSK,Chennai,2,0,0,0,0,0
+360911,15 May 2012,v Kings XI,Delhi,1,0,0,0,0,0
+360911,17 May 2012,v RCB,Delhi,1,0,0,0,0,0
+360911,19 May 2012,v Kings XI,Dharamsala,1,1,1,0,0,1
+360911,22 May 2012,v KKR,Pune,1,0,0,0,0,0
+360911,25 May 2012,v CSK,Chennai,1,0,0,0,0,0
+360911,17 Apr 2014,v Daredevils,Sharjah,1,0,0,0,0,0
+360911,19 Apr 2014,v MI,Dubai (DICS),1,0,0,0,0,0
+360911,24 Apr 2014,v KKR,Sharjah,1,0,0,0,0,0
+360911,28 Apr 2014,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+360911,4 May 2014,v SRH,Bengaluru,1,0,0,0,0,0
+360911,6 May 2014,v MI,Wankhede,1,0,0,0,0,0
+360911,9 May 2014,v Kings XI,Bengaluru,1,0,0,0,0,0
+360911,11 May 2014,v RR,Bengaluru,2,0,0,0,0,0
+360911,18 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+360911,20 May 2014,v SRH,Hyderabad,2,0,0,0,0,0
+360911,27 Mar 2015,v Bengal,Cuttack,1,0,0,0,0,0
+360911,28 Mar 2015,v Odisha,Cuttack,1,0,0,0,0,0
+360911,11 Apr 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+360911,13 Apr 2015,v SRH,Bengaluru,2,0,0,0,0,0
+360911,19 Apr 2015,v MI,Bengaluru,1,1,1,0,0,1
+360911,26 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+360911,29 Apr 2015,v RR,Bengaluru,-,TDNF,-,-,-,-
+360911,2 May 2015,v KKR,Bengaluru,1,0,0,0,0,0
+360911,16 Jan 2016,v Delhi,Mumbai,2,0,0,0,0,0
+360911,20 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+360911,30 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+360911,2 May 2016,v KKR,Bengaluru,2,0,0,0,0,0
+360911,7 May 2016,v Supergiants,Bengaluru,1,0,0,0,0,0
+360911,9 May 2016,v Kings XI,Mohali,2,0,0,0,0,0
+360911,11 May 2016,v MI,Bengaluru,2,0,0,0,0,0
+360911,14 May 2016,v Guj Lions,Bengaluru,2,0,0,0,0,0
+360911,18 May 2016,v Kings XI,Bengaluru,2,0,0,0,0,0
+360911,29 Jan 2017,v Assam,Eden Gardens,2,1,1,0,0,1
+360911,31 Jan 2017,v Odisha,Eden Gardens,2,0,0,0,0,0
+360911,1 Feb 2017,v Tripura,Eden Gardens,1,0,0,0,0,0
+360911,5 Feb 2017,v Bengal,Eden Gardens,2,0,0,0,0,0
+360911,10 Apr 2017,v RCB,Indore,1,0,0,0,0,0
+360911,13 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+360911,15 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+360911,30 Apr 2017,v Daredevils,Mohali,1,0,0,0,0,0
+360911,5 May 2017,v RCB,Bengaluru,2,0,0,0,0,0
+360911,7 May 2017,v Guj Lions,Mohali,2,0,0,0,0,0
+360911,10 Jan 2018,v Tripura,Ranchi,2,0,0,0,0,0
+360911,12 Jan 2018,v Bengal,Ranchi,2,0,0,0,0,0
+360911,14 Jan 2018,v Assam,Ranchi,1,0,0,0,0,0
+360911,16 Jan 2018,v Odisha,Ranchi,1,2,2,0,0,2
+360911,21 Jan 2018,v Mumbai,Kolkata,1,1,1,0,0,1
+360911,22 Jan 2018,v Rajasthan,Kolkata,2,0,0,0,0,0
+360911,23 Jan 2018,v Punjab,Eden Gardens,1,1,1,0,0,1
+360911,24 Jan 2018,v Karnataka,Eden Gardens,1,2,2,0,0,2
+360911,27 Feb 2019,v Nagaland,Mulapadu,2,0,0,0,0,0
+360911,28 Feb 2019,v Andhra,Mulapadu,1,1,1,0,0,1
+360911,2 Mar 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+360911,10 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+360911,11 Mar 2019,v Maharashtra,Indore,1,0,0,0,0,0
+360911,2 Apr 2019,v RCB,Jaipur,1,0,0,0,0,0
+360911,25 Apr 2019,v KKR,Eden Gardens,1,1,1,0,0,1
+360911,27 Apr 2019,v SRH,Jaipur,1,0,0,0,0,0
+360911,30 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+360911,4 May 2019,v DC,Delhi,2,0,0,0,0,0
+360911,9 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+360911,11 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+360911,14 Nov 2019,v Nagaland,Surat,1,1,1,0,0,1
+360911,15 Nov 2019,v Delhi,Surat,1,0,0,0,0,0
+360911,17 Nov 2019,v Gujarat,Surat,1,0,0,0,0,0
+360911,21 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+360911,22 Nov 2019,v Karnataka,Surat,1,0,0,0,0,0
+360911,24 Nov 2019,v Mumbai,Surat,2,0,0,0,0,0
+360911,9 Oct 2020,v DC,Sharjah,1,0,0,0,0,0
+360911,30 Oct 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+360911,1 Nov 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+360911,10 Jan 2021,v Tamil Nadu,Eden Gardens,1,1,1,0,0,1
+360911,28 Mar 2022,v LSG,Wankhede,1,0,0,0,0,0
+360911,2 Apr 2022,v DC,Pune,2,0,0,0,0,0
+360911,11 Oct 2022,v Nagaland,Indore,1,0,0,0,0,0
+360911,12 Oct 2022,v Saurashtra,Indore,2,0,0,0,0,0
+360911,14 Oct 2022,v Gujarat,Indore,2,0,0,0,0,0
+360911,16 Oct 2022,v Bihar,Indore,2,0,0,0,0,0
+360911,20 Oct 2022,v Himachal,Indore,2,1,1,0,0,1
+360911,22 Oct 2022,v Andhra,Indore,2,1,1,0,0,1

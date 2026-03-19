@@ -1,0 +1,321 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+53115,12 Jul 2006,v BVI,Coolidge,1,0,0,0,0,0
+53115,24 Jun 2007,v Derbyshire,Derby,1,0,0,0,0,0
+53115,28 Jun 2007,v England,The Oval,2,0,0,0,0,0
+53115,29 Jun 2007,v England,The Oval,2,1,1,0,0,1
+53115,16 Dec 2007,v South Africa,Gqeberha,1,0,0,0,0,0
+53115,18 Jan 2008,v South Africa,Johannesburg,2,0,0,0,0,0
+53115,20 Jun 2008,v Australia,Bridgetown,1,0,0,0,0,0
+53115,25 Oct 2008,v Trinidad & T,Coolidge,2,2,2,0,0,2
+53115,30 Oct 2008,v Middlesex,Coolidge,2,2,2,0,0,2
+53115,1 Nov 2008,v England,Coolidge,1,1,1,0,0,1
+53115,15 Mar 2009,v England,Port of Spain,1,0,0,0,0,0
+53115,15 Jun 2009,v England,The Oval,1,0,0,0,0,0
+53115,19 Jun 2009,v Sri Lanka,The Oval,1,1,1,0,0,1
+53115,2 Aug 2009,v Bangladesh,Basseterre,1,0,0,0,0,0
+53115,21 Feb 2010,v Australia,Hobart,1,1,1,0,0,1
+53115,23 Feb 2010,v Australia,Sydney,2,0,0,0,0,0
+53115,28 Feb 2010,v Zimbabwe,Port of Spain,1,0,0,0,0,0
+53115,10 Apr 2010,v Canada,Florence Hall,2,2,2,0,0,2
+53115,11 Apr 2010,v Ireland,Florence Hall,2,0,0,0,0,0
+53115,17 Apr 2010,v Ireland,Kingston,2,0,0,0,0,0
+53115,18 Apr 2010,v Ireland,Kingston,2,1,1,0,0,1
+53115,30 Apr 2010,v Ireland,Providence,2,4,4,0,0,4
+53115,3 May 2010,v England,Providence,1,0,0,0,0,0
+53115,7 May 2010,v Sri Lanka,Bridgetown,1,0,0,0,0,0
+53115,9 May 2010,v India,Bridgetown,2,1,1,0,0,1
+53115,11 May 2010,v Australia,Gros Islet,2,1,1,0,0,1
+53115,19 May 2010,v South Africa,North Sound,1,0,0,0,0,0
+53115,20 May 2010,v South Africa,North Sound,1,0,0,0,0,0
+53115,23 Jul 2010,v Guyana,Bridgetown,2,1,1,0,0,1
+53115,25 Jul 2010,v Barbados,Bridgetown,1,0,0,0,0,0
+53115,10 Jan 2011,v Comb C&C,North Sound,2,0,0,0,0,0
+53115,14 Jan 2011,v Somerset,North Sound,1,0,0,0,0,0
+53115,18 Jan 2011,v Guyana,Bridgetown,2,1,1,0,0,1
+53115,20 Jan 2011,v Jamaica,Bridgetown,2,1,1,0,0,1
+53115,22 Jan 2011,v Hampshire,Bridgetown,1,0,0,0,0,0
+53115,23 Jan 2011,v Jamaica,Bridgetown,1,0,0,0,0,0
+53115,21 Apr 2011,v Pakistan,Gros Islet,2,2,2,0,0,2
+53115,4 Jun 2011,v India,Port of Spain,1,0,0,0,0,0
+53115,23 Sep 2011,v England,The Oval,2,0,0,0,0,0
+53115,25 Sep 2011,v England,The Oval,2,0,0,0,0,0
+53115,9 Oct 2011,v BCB XI,Fatullah,2,1,1,0,0,1
+53115,11 Oct 2011,v Bangladesh,Mirpur,2,0,0,0,0,0
+53115,9 Jan 2012,v Trinidad & T,North Sound,2,1,1,0,0,1
+53115,11 Jan 2012,v Canada,North Sound,1,0,0,0,0,0
+53115,17 Jan 2012,v Leeward Is,Bridgetown,2,0,0,0,0,0
+53115,19 Jan 2012,v Guyana,Bridgetown,1,0,0,0,0,0
+53115,21 Jan 2012,v Jamaica,Bridgetown,2,0,0,0,0,0
+53115,22 Jan 2012,v Barbados,Bridgetown,1,0,0,0,0,0
+53115,27 Mar 2012,v Australia,Gros Islet,2,0,0,0,0,0
+53115,30 Mar 2012,v Australia,Bridgetown,2,2,2,0,0,2
+53115,24 Jun 2012,v England,Nottingham,2,0,0,0,0,0
+53115,30 Jun 2012,v New Zealand,Lauderhill,2,1,1,0,0,1
+53115,1 Jul 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+53115,22 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+53115,24 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+53115,27 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+53115,29 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+53115,1 Oct 2012,v New Zealand,Pallekele,2,0,0,0,0,0
+53115,5 Oct 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+53115,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+53115,10 Dec 2012,v Bangladesh,Mirpur,2,1,1,0,0,1
+53115,9 Jan 2013,v Jamaica,Port of Spain,1,0,0,0,0,0
+53115,10 Jan 2013,v Comb C&C,Port of Spain,2,0,0,0,0,0
+53115,12 Jan 2013,v Leeward Is,Port of Spain,2,1,1,0,0,1
+53115,15 Jan 2013,v Trinidad & T,Gros Islet,2,0,0,0,0,0
+53115,17 Jan 2013,v Barbados,Gros Islet,1,1,1,0,0,1
+53115,18 Jan 2013,v Guyana,Gros Islet,2,1,1,0,0,1
+53115,13 Feb 2013,v Australia,Brisbane,2,1,1,0,0,1
+53115,2 Mar 2013,v Zimbabwe,North Sound,1,0,0,0,0,0
+53115,3 Mar 2013,v Zimbabwe,North Sound,2,1,1,0,0,1
+53115,25 Apr 2013,v CSK,Chennai,2,1,1,0,0,1
+53115,27 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+53115,1 May 2013,v MI,Hyderabad,1,0,0,0,0,0
+53115,4 May 2013,v Daredevils,Hyderabad,1,0,0,0,0,0
+53115,8 May 2013,v CSK,Hyderabad,1,0,0,0,0,0
+53115,11 May 2013,v Kings XI,Mohali,2,0,0,0,0,0
+53115,13 May 2013,v MI,Wankhede,2,0,0,0,0,0
+53115,17 May 2013,v RR,Hyderabad,2,1,1,0,0,1
+53115,19 May 2013,v KKR,Hyderabad,1,0,0,0,0,0
+53115,22 May 2013,v RR,Delhi,2,1,1,0,0,1
+53115,27 Jul 2013,v Pakistan,Kingstown,2,0,0,0,0,0
+53115,28 Jul 2013,v Pakistan,Kingstown,1,1,1,0,0,1
+53115,30 Jul 2013,v Tridents,Bridgetown,1,1,1,0,0,1
+53115,4 Aug 2013,v Amazon,Providence,1,0,0,0,0,0
+53115,6 Aug 2013,v Hawksbills,Gros Islet,1,0,0,0,0,0
+53115,8 Aug 2013,v Tridents,Gros Islet,1,0,0,0,0,0
+53115,10 Aug 2013,v Tallawahs,Gros Islet,2,1,1,0,0,1
+53115,15 Aug 2013,v Hawksbills,North Sound,2,0,0,0,0,0
+53115,17 Aug 2013,v Red Steel,Kingston,2,1,1,0,0,1
+53115,17 Sep 2013,v Kandurata Ma,Mohali,1,0,0,0,0,0
+53115,18 Sep 2013,v Wolves,Mohali,1,0,0,0,0,0
+53115,20 Sep 2013,v Otago,Mohali,2,0,0,0,0,0
+53115,24 Sep 2013,v Trinidad & T,Mohali,1,0,0,0,0,0
+53115,26 Sep 2013,v CSK,Ranchi,1,0,0,0,0,0
+53115,28 Sep 2013,v Titans,Ranchi,2,1,1,0,0,1
+53115,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+53115,21 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+53115,9 Mar 2014,v England,Bridgetown,2,0,0,0,0,0
+53115,11 Mar 2014,v England,Bridgetown,1,1,1,0,0,1
+53115,13 Mar 2014,v England,Bridgetown,1,1,1,0,0,1
+53115,23 Mar 2014,v India,Mirpur,2,0,0,0,0,0
+53115,25 Mar 2014,v Bangladesh,Mirpur,2,1,1,0,0,1
+53115,28 Mar 2014,v Australia,Mirpur,1,1,1,0,0,1
+53115,1 Apr 2014,v Pakistan,Mirpur,2,1,1,0,0,1
+53115,3 Apr 2014,v Sri Lanka,Mirpur,1,0,0,0,0,0
+53115,18 Apr 2014,v RR,Abu Dhabi,2,1,1,0,0,1
+53115,22 Apr 2014,v Kings XI,Sharjah,1,2,2,0,0,2
+53115,25 Apr 2014,v Daredevils,Dubai (DICS),2,1,1,0,0,1
+53115,27 Apr 2014,v CSK,Sharjah,2,0,0,0,0,0
+53115,30 Apr 2014,v MI,Dubai (DICS),2,0,0,0,0,0
+53115,4 May 2014,v RCB,Bengaluru,2,1,1,0,0,1
+53115,18 May 2014,v KKR,Hyderabad,2,0,0,0,0,0
+53115,20 May 2014,v RCB,Hyderabad,1,0,0,0,0,0
+53115,22 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+53115,24 May 2014,v KKR,Eden Gardens,2,0,0,0,0,0
+53115,30 May 2014,v Sussex,Cardiff,1,0,0,0,0,0
+53115,6 Jun 2014,v Somerset,Taunton,2,0,0,0,0,0
+53115,8 Jun 2014,v Gloucs,Bristol,1,1,1,0,0,1
+53115,13 Jun 2014,v Kent,Cardiff,2,0,0,0,0,0
+53115,20 Jun 2014,v Surrey,Cardiff,1,0,0,0,0,0
+53115,25 Jun 2014,v Hampshire,Cardiff,1,0,0,0,0,0
+53115,5 Jul 2014,v New Zealand,Roseau,2,1,1,0,0,1
+53115,6 Jul 2014,v New Zealand,Roseau,2,1,1,0,0,1
+53115,12 Jul 2014,v Tallawahs,St George's,2,0,0,0,0,0
+53115,19 Jul 2014,v Amazon,Providence,2,0,0,0,0,0
+53115,23 Jul 2014,v Tridents,Bridgetown,1,0,0,0,0,0
+53115,27 Jul 2014,v Red Steel,Port of Spain,2,0,0,0,0,0
+53115,31 Jul 2014,v Tridents,Gros Islet,2,0,0,0,0,0
+53115,2 Aug 2014,v Red Steel,Gros Islet,2,1,1,0,0,1
+53115,3 Aug 2014,v Hawksbills,Gros Islet,1,0,0,0,0,0
+53115,9 Aug 2014,v Tallawahs,Basseterre,1,1,1,0,0,1
+53115,10 Aug 2014,v Amazon,Basseterre,2,0,0,0,0,0
+53115,27 Aug 2014,v Bangladesh,Basseterre,1,0,0,0,0,0
+53115,2 Nov 2014,v Cape Cobras,Johannesburg,1,0,0,0,0,0
+53115,7 Nov 2014,v Knights,Centurion,1,0,0,0,0,0
+53115,9 Nov 2014,v Dolphins,Durban,1,0,0,0,0,0
+53115,14 Nov 2014,v Knights,Bloemfontein,2,1,1,0,0,1
+53115,16 Nov 2014,v Cape Cobras,Durban,1,0,0,0,0,0
+53115,21 Nov 2014,v Lions,Benoni,2,1,1,0,0,1
+53115,23 Nov 2014,v Warriors,Centurion,2,1,1,0,0,1
+53115,26 Nov 2014,v Dolphins,Benoni,2,0,0,0,0,0
+53115,28 Nov 2014,v Lions,Potchefstroom,1,0,0,0,0,0
+53115,30 Nov 2014,v Warriors,Bloemfontein,1,0,0,0,0,0
+53115,20 Dec 2014,v Stars,Melbourne,2,2,2,0,0,2
+53115,23 Dec 2014,v Sixers,Hobart,2,0,0,0,0,0
+53115,31 Dec 2014,v Strikers,Adelaide,2,0,0,0,0,0
+53115,2 Jan 2015,v Heat,Hobart,1,1,1,0,0,1
+53115,9 Jan 2015,v South Africa,Cape Town,1,1,1,0,0,1
+53115,11 Jan 2015,v South Africa,Johannesburg,1,0,0,0,0,0
+53115,14 Jan 2015,v South Africa,Durban,1,0,0,0,0,0
+53115,11 Apr 2015,v KKR,Eden Gardens,1,1,1,0,0,1
+53115,13 Apr 2015,v SRH,Bengaluru,2,0,0,0,0,0
+53115,31 May 2015,v Durham,Nottingham,2,0,0,0,0,0
+53115,5 Jun 2015,v Leics,Nottingham,2,0,0,0,0,0
+53115,7 Jun 2015,v Worcs,Worcester,2,0,0,0,0,0
+53115,12 Jun 2015,v Warwickshire,Birmingham,2,0,0,0,0,0
+53115,21 Jun 2015,v Red Steel,Gros Islet,2,0,0,0,0,0
+53115,24 Jun 2015,v Patriots,Gros Islet,1,0,0,0,0,0
+53115,26 Jun 2015,v Amazon,Gros Islet,2,1,1,0,0,1
+53115,28 Jun 2015,v Tallawahs,Gros Islet,2,0,0,0,0,0
+53115,1 Jul 2015,v Tridents,Basseterre,1,1,1,0,0,1
+53115,3 Jul 2015,v Tridents,Basseterre,2,2,2,0,0,2
+53115,7 Jul 2015,v Tallawahs,Kingston,2,0,0,0,0,0
+53115,9 Nov 2015,v Sri Lanka,Pallekele,1,1,1,0,0,1
+53115,11 Nov 2015,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+53115,22 Nov 2015,v Chattogram,Mirpur,1,1,1,0,0,1
+53115,23 Nov 2015,v Bulls,Mirpur,1,0,0,0,0,0
+53115,25 Nov 2015,v Dynamites,Mirpur,2,0,0,0,0,0
+53115,26 Nov 2015,v Super Stars,Mirpur,2,0,0,0,0,0
+53115,1 Dec 2015,v Chattogram,Chattogram,1,2,2,0,0,2
+53115,6 Dec 2015,v Dynamites,Mirpur,1,0,0,0,0,0
+53115,7 Dec 2015,v Super Stars,Mirpur,1,0,0,0,0,0
+53115,8 Dec 2015,v Victorians,Mirpur,2,0,0,0,0,0
+53115,12 Dec 2015,v Victorians,Mirpur,1,0,0,0,0,0
+53115,13 Dec 2015,v Bulls,Mirpur,2,1,1,0,0,1
+53115,20 Dec 2015,v Sixers,Sydney,1,0,0,0,0,0
+53115,22 Dec 2015,v Heat,Hobart,2,0,0,0,0,0
+53115,29 Dec 2015,v Heat,Brisbane,2,0,0,0,0,0
+53115,1 Jan 2016,v Thunder,Hobart,2,0,0,0,0,0
+53115,4 Jan 2016,v Renegades,Hobart,2,0,0,0,0,0
+53115,6 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+53115,10 Jan 2016,v Scorchers,Hobart,1,0,0,0,0,0
+53115,5 Feb 2016,v United,Dubai (DICS),2,0,0,0,0,0
+53115,6 Feb 2016,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+53115,7 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+53115,11 Feb 2016,v Kings,Sharjah,2,1,1,0,0,1
+53115,12 Feb 2016,v United,Sharjah,1,1,1,0,0,1
+53115,13 Feb 2016,v Qalandars,Sharjah,1,0,0,0,0,0
+53115,14 Feb 2016,v Gladiators,Sharjah,1,1,1,0,0,1
+53115,17 Feb 2016,v Kings,Dubai (DICS),1,0,0,0,0,0
+53115,19 Feb 2016,v Gladiators,Dubai (DICS),1,1,1,0,0,1
+53115,21 Feb 2016,v United,Dubai (DICS),1,0,0,0,0,0
+53115,16 Mar 2016,v England,Wankhede,1,0,0,0,0,0
+53115,20 Mar 2016,v Sri Lanka,Bengaluru,1,0,0,0,0,0
+53115,25 Mar 2016,v South Africa,Nagpur,1,1,1,0,0,1
+53115,27 Mar 2016,v Afghanistan,Nagpur,1,1,1,0,0,1
+53115,31 Mar 2016,v India,Wankhede,1,0,0,0,0,0
+53115,3 Apr 2016,v England,Eden Gardens,1,0,0,0,0,0
+53115,2 Jun 2016,v Kent,Southampton,2,1,1,0,0,1
+53115,3 Jun 2016,v Glamorgan,Cardiff,2,0,0,0,0,0
+53115,8 Jun 2016,v Kent,Canterbury,1,0,0,0,0,0
+53115,9 Jun 2016,v Surrey,The Oval,1,0,0,0,0,0
+53115,19 Jun 2016,v Somerset,Taunton,2,0,0,0,0,0
+53115,24 Jun 2016,v Essex,Chelmsford,2,0,0,0,0,0
+53115,25 Jun 2016,v Gloucs,Southampton,-,TDNF,-,-,-,-
+53115,29 Jun 2016,v Trinbago,Port of Spain,1,2,2,0,0,2
+53115,3 Jul 2016,v Patriots,Basseterre,1,2,2,0,0,2
+53115,12 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+53115,17 Jul 2016,v Tridents,Bridgetown,1,1,1,0,0,1
+53115,21 Jul 2016,v Patriots,Gros Islet,2,0,0,0,0,0
+53115,23 Jul 2016,v Tridents,Gros Islet,1,0,0,0,0,0
+53115,24 Jul 2016,v Amazon,Gros Islet,1,0,0,0,0,0
+53115,26 Jul 2016,v Trinbago,Gros Islet,2,0,0,0,0,0
+53115,30 Jul 2016,v Tallawahs,Lauderhill,2,2,2,0,0,2
+53115,31 Jul 2016,v Tallawahs,Lauderhill,2,1,1,0,0,1
+53115,4 Aug 2016,v Trinbago,Basseterre,2,1,1,0,0,1
+53115,9 Nov 2016,v Khulna,Mirpur,1,0,0,0,0,0
+53115,11 Nov 2016,v Dynamites,Mirpur,1,0,0,0,0,0
+53115,13 Nov 2016,v Bulls,Mirpur,1,0,0,0,0,0
+53115,18 Nov 2016,v Chattogram,Chattogram,1,0,0,0,0,0
+53115,19 Nov 2016,v Victorians,Chattogram,1,0,0,0,0,0
+53115,21 Nov 2016,v Dynamites,Chattogram,1,0,0,0,0,0
+53115,25 Nov 2016,v Rangpur,Mirpur,2,0,0,0,0,0
+53115,26 Nov 2016,v Khulna,Mirpur,2,1,1,0,0,1
+53115,28 Nov 2016,v Rangpur,Mirpur,2,1,1,0,0,1
+53115,30 Nov 2016,v Victorians,Mirpur,2,0,0,0,0,0
+53115,1 Dec 2016,v Bulls,Mirpur,1,0,0,0,0,0
+53115,3 Dec 2016,v Chattogram,Mirpur,1,0,0,0,0,0
+53115,6 Dec 2016,v Chattogram,Mirpur,1,1,1,0,0,1
+53115,7 Dec 2016,v Khulna,Mirpur,1,1,1,0,0,1
+53115,9 Dec 2016,v Dynamites,Mirpur,1,1,1,0,0,1
+53115,9 Feb 2017,v United,Dubai (DICS),2,0,0,0,0,0
+53115,10 Feb 2017,v Kings,Dubai (DICS),1,2,2,0,0,2
+53115,12 Feb 2017,v Qalandars,Dubai (DICS),1,1,1,0,0,1
+53115,17 Feb 2017,v Gladiators,Sharjah,-,TDNF,-,-,-,-
+53115,18 Feb 2017,v United,Sharjah,2,0,0,0,0,0
+53115,19 Feb 2017,v Kings,Sharjah,1,0,0,0,0,0
+53115,24 Feb 2017,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+53115,25 Feb 2017,v Gladiators,Dubai (DICS),1,0,0,0,0,0
+53115,28 Feb 2017,v Gladiators,Sharjah,1,0,0,0,0,0
+53115,3 Mar 2017,v Kings,Dubai (DICS),2,0,0,0,0,0
+53115,5 Mar 2017,v Gladiators,Lahore,2,1,1,0,0,1
+53115,4 Aug 2017,v Trinbago,Gros Islet,2,0,0,0,0,0
+53115,7 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+53115,10 Aug 2017,v Tridents,Gros Islet,1,0,0,0,0,0
+53115,12 Aug 2017,v Patriots,Gros Islet,1,0,0,0,0,0
+53115,13 Aug 2017,v Amazon,Gros Islet,2,1,1,0,0,1
+53115,15 Aug 2017,v Tallawahs,Gros Islet,2,1,1,0,0,1
+53115,19 Aug 2017,v Patriots,Basseterre,-,TDNF,-,-,-,-
+53115,22 Aug 2017,v Amazon,Providence,2,0,0,0,0,0
+53115,25 Aug 2017,v Tallawahs,Kingston,2,0,0,0,0,0
+53115,31 Aug 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+53115,12 Sep 2017,v Pakistan,Lahore,1,1,1,0,0,1
+53115,15 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+53115,4 Nov 2017,v Rangpur,Sylhet,2,0,0,0,0,0
+53115,7 Nov 2017,v Sylhet,Sylhet,1,1,1,0,0,1
+53115,17 Nov 2017,v Sylhet,Mirpur,1,0,0,0,0,0
+53115,18 Nov 2017,v Dynamites,Mirpur,1,0,0,0,0,0
+53115,21 Nov 2017,v Khulna,Mirpur,2,1,1,0,0,1
+53115,25 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+53115,27 Nov 2017,v Khulna,Chattogram,1,1,1,0,0,1
+53115,29 Nov 2017,v Chattogram,Chattogram,2,0,0,0,0,0
+53115,22 Feb 2018,v Sultans,Dubai (DICS),2,0,0,0,0,0
+53115,24 Feb 2018,v United,Dubai (DICS),2,1,1,0,0,1
+53115,25 Feb 2018,v Kings,Dubai (DICS),2,1,1,0,0,1
+53115,1 Mar 2018,v Gladiators,Sharjah,1,0,0,0,0,0
+53115,9 Mar 2018,v United,Dubai (DICS),1,0,0,0,0,0
+53115,10 Mar 2018,v Gladiators,Dubai (DICS),2,1,1,0,0,1
+53115,15 Mar 2018,v Kings,Sharjah,2,0,0,0,0,0
+53115,16 Mar 2018,v Qalandars,Sharjah,1,0,0,0,0,0
+53115,20 Mar 2018,v Gladiators,Lahore,2,1,1,0,0,1
+53115,21 Mar 2018,v Kings,Lahore,2,1,1,0,0,1
+53115,25 Mar 2018,v United,Karachi,2,0,0,0,0,0
+53115,8 Aug 2018,v Trinbago,Port of Spain,1,0,0,0,0,0
+53115,14 Aug 2018,v Tallawahs,Kingston,2,0,0,0,0,0
+53115,16 Aug 2018,v Trinbago,Gros Islet,2,0,0,0,0,0
+53115,17 Aug 2018,v Tridents,Gros Islet,2,0,0,0,0,0
+53115,21 Aug 2018,v Patriots,Gros Islet,2,0,0,0,0,0
+53115,24 Aug 2018,v Amazon,Gros Islet,1,0,0,0,0,0
+53115,25 Aug 2018,v Tallawahs,Gros Islet,1,1,1,0,0,1
+53115,2 Sep 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+53115,15 Feb 2019,v Gladiators,Dubai (DICS),2,1,1,0,0,1
+53115,17 Feb 2019,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+53115,21 Feb 2019,v Kings,Sharjah,2,0,0,0,0,0
+53115,22 Feb 2019,v United,Sharjah,1,0,0,0,0,0
+53115,24 Feb 2019,v Sultans,Sharjah,1,0,0,0,0,0
+53115,28 Feb 2019,v Sultans,Dubai (DICS),1,0,0,0,0,0
+53115,1 Mar 2019,v United,Dubai (DICS),1,0,0,0,0,0
+53115,4 Mar 2019,v Gladiators,Abu Dhabi,2,0,0,0,0,0
+53115,5 Mar 2019,v Qalandars,Abu Dhabi,1,0,0,0,0,0
+53115,11 Mar 2019,v Kings,Karachi,2,0,0,0,0,0
+53115,13 Mar 2019,v Gladiators,Karachi,1,0,0,0,0,0
+53115,15 Mar 2019,v United,Karachi,2,2,2,0,0,2
+53115,17 Mar 2019,v Gladiators,Karachi,2,1,1,0,0,1
+53115,5 Sep 2019,v Amazon,Providence,1,0,0,0,0,0
+53115,8 Sep 2019,v Trinbago,Port of Spain,2,0,0,0,0,0
+53115,12 Sep 2019,v Tallawahs,Kingston,1,0,0,0,0,0
+53115,15 Sep 2019,v Patriots,Basseterre,2,1,1,0,0,1
+53115,20 Sep 2019,v Tridents,Gros Islet,1,0,0,0,0,0
+53115,21 Sep 2019,v Trinbago,Gros Islet,-,TDNF,-,-,-,-
+53115,24 Sep 2019,v Patriots,Gros Islet,2,0,0,0,0,0
+53115,25 Sep 2019,v Amazon,Gros Islet,2,0,0,0,0,0
+53115,27 Sep 2019,v Tallawahs,Gros Islet,1,0,0,0,0,0
+53115,29 Sep 2019,v Tridents,Bridgetown,1,1,1,0,0,1
+53115,21 Feb 2020,v Kings,Karachi,1,0,0,0,0,0
+53115,22 Feb 2020,v Gladiators,Karachi,1,0,0,0,0,0
+53115,26 Feb 2020,v Sultans,Multan,2,0,0,0,0,0
+53115,28 Feb 2020,v Qalandars,Rawalpindi,2,0,0,0,0,0
+53115,19 Aug 2020,v Tallawahs,Tarouba,2,1,1,0,0,1
+53115,20 Aug 2020,v Tridents,Tarouba,1,2,2,0,0,2
+53115,22 Aug 2020,v Patriots,Tarouba,2,1,1,0,0,1
+53115,23 Aug 2020,v Amazon,Tarouba,2,0,0,0,0,0
+53115,26 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+53115,27 Aug 2020,v Patriots,Port of Spain,1,0,0,0,0,0
+53115,30 Aug 2020,v Tridents,Port of Spain,2,0,0,0,0,0
+53115,2 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+53115,5 Sep 2020,v Trinbago,Tarouba,1,0,0,0,0,0
+53115,6 Sep 2020,v Tallawahs,Tarouba,2,2,2,0,0,2
+53115,8 Sep 2020,v Amazon,Tarouba,1,0,0,0,0,0
+53115,10 Sep 2020,v Trinbago,Tarouba,2,0,0,0,0,0

@@ -1,0 +1,146 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+851403,25 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+851403,27 Mar 2015,v UP,Indore,2,1,1,0,0,1
+851403,28 Mar 2015,v Vidarbha,Indore,1,0,0,0,0,0
+851403,2 Apr 2015,v Jharkhand,Bhubaneswar,2,1,1,0,0,1
+851403,3 Apr 2015,v Andhra,Bhubaneswar,1,0,0,0,0,0
+851403,4 Apr 2015,v Gujarat,Bhubaneswar,2,0,0,0,0,0
+851403,5 Apr 2015,v Himachal,Bhubaneswar,1,0,0,0,0,0
+851403,2 Jan 2016,v Andhra,Vadodara,1,0,0,0,0,0
+851403,3 Jan 2016,v Goa,Vadodara,1,0,0,0,0,0
+851403,4 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+851403,6 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+851403,7 Jan 2016,v Baroda,Vadodara,1,1,1,0,0,1
+851403,10 Jan 2016,v Assam,Vadodara,1,1,1,0,0,1
+851403,29 Jan 2017,v Railways,Jaipur,1,1,1,0,0,1
+851403,30 Jan 2017,v Rajasthan,Jaipur,2,0,0,0,0,0
+851403,3 Feb 2017,v UP,Jaipur,2,1,1,0,0,1
+851403,4 Feb 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+851403,6 Feb 2017,v Vidarbha,Jaipur,2,3,3,0,0,3
+851403,8 Jan 2018,v Rajasthan,Raipur,1,0,0,0,0,0
+851403,10 Jan 2018,v UP,Raipur,1,0,0,0,0,0
+851403,21 Feb 2019,v Punjab,Indore,2,0,0,0,0,0
+851403,22 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+851403,24 Feb 2019,v Mumbai,Indore,2,0,0,0,0,0
+851403,25 Feb 2019,v Railways,Indore,2,0,0,0,0,0
+851403,27 Feb 2019,v Goa,Indore,1,0,0,0,0,0
+851403,2 Mar 2019,v Sikkim,Indore,2,2,2,0,0,2
+851403,9 Nov 2019,v Assam,Mumbai,1,1,1,0,0,1
+851403,11 Nov 2019,v Mumbai,Wankhede,2,0,0,0,0,0
+851403,12 Nov 2019,v Mizoram,Mumbai,2,0,0,0,0,0
+851403,14 Nov 2019,v Meghalaya,Wankhede,2,1,1,0,0,1
+851403,15 Nov 2019,v Bengal,Mumbai,2,0,0,0,0,0
+851403,17 Nov 2019,v Haryana,Mumbai,2,2,2,0,0,2
+851403,18 Nov 2019,v Puducherry,Wankhede,2,0,0,0,0,0
+851403,11 Jan 2021,v Goa,Indore,2,1,1,0,0,1
+851403,13 Jan 2021,v Rajasthan,Indore,1,0,0,0,0,0
+851403,15 Jan 2021,v Vidarbha,Indore,2,1,1,0,0,1
+851403,17 Jan 2021,v Saurashtra,Indore,1,0,0,0,0,0
+851403,19 Jan 2021,v Services,Indore,2,0,0,0,0,0
+851403,20 Sep 2021,v RCB,Abu Dhabi,1,0,0,0,0,0
+851403,23 Sep 2021,v MI,Abu Dhabi,1,1,1,0,0,1
+851403,26 Sep 2021,v CSK,Abu Dhabi,2,1,1,0,0,1
+851403,28 Sep 2021,v DC,Sharjah,1,1,1,0,0,1
+851403,1 Oct 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+851403,3 Oct 2021,v SRH,Dubai (DICS),1,2,2,0,0,2
+851403,7 Oct 2021,v RR,Sharjah,2,0,0,0,0,0
+851403,11 Oct 2021,v RCB,Sharjah,1,1,1,0,0,1
+851403,13 Oct 2021,v DC,Sharjah,1,0,0,0,0,0
+851403,15 Oct 2021,v CSK,Dubai (DICS),1,1,1,0,0,1
+851403,4 Nov 2021,v Assam,Delhi,1,0,0,0,0,0
+851403,5 Nov 2021,v Railways,Delhi,1,0,0,0,0,0
+851403,6 Nov 2021,v Gujarat,Delhi,1,0,0,0,0,0
+851403,8 Nov 2021,v Bihar,Delhi,1,1,1,0,0,1
+851403,9 Nov 2021,v Kerala,Delhi,2,0,0,0,0,0
+851403,17 Nov 2021,v New Zealand,Jaipur,1,0,0,0,0,0
+851403,19 Nov 2021,v New Zealand,Ranchi,1,0,0,0,0,0
+851403,21 Nov 2021,v New Zealand,Eden Gardens,2,0,0,0,0,0
+851403,16 Feb 2022,v West Indies,Eden Gardens,1,1,1,0,0,1
+851403,18 Feb 2022,v West Indies,Eden Gardens,2,0,0,0,0,0
+851403,20 Feb 2022,v West Indies,Eden Gardens,2,0,0,0,0,0
+851403,24 Feb 2022,v Sri Lanka,Lucknow,2,0,0,0,0,0
+851403,26 Feb 2022,v Sri Lanka,Dharamsala,1,1,1,0,0,1
+851403,27 Feb 2022,v Sri Lanka,Dharamsala,1,2,2,0,0,2
+851403,26 Mar 2022,v CSK,Wankhede,1,0,0,0,0,0
+851403,30 Mar 2022,v RCB,DY Patil,2,0,0,0,0,0
+851403,1 Apr 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+851403,6 Apr 2022,v MI,Pune,1,0,0,0,0,0
+851403,10 Apr 2022,v DC,Brabourne,1,0,0,0,0,0
+851403,15 Apr 2022,v SRH,Brabourne,2,1,1,0,0,1
+851403,18 Apr 2022,v RR,Brabourne,1,0,0,0,0,0
+851403,23 Apr 2022,v GT,DY Patil,1,1,1,0,0,1
+851403,28 Apr 2022,v DC,Wankhede,2,1,1,0,0,1
+851403,9 May 2022,v MI,DY Patil,2,0,0,0,0,0
+851403,14 May 2022,v SRH,Pune,2,1,1,0,0,1
+851403,18 May 2022,v LSG,DY Patil,1,0,0,0,0,0
+851403,1 Jul 2022,v Derbyshire,Derby,1,0,0,0,0,0
+851403,3 Jul 2022,v Northants,Northampton,2,3,3,0,0,3
+851403,11 Oct 2022,v Rajasthan,Rajkot,2,1,1,0,0,1
+851403,12 Oct 2022,v Mumbai,Rajkot,2,1,1,0,0,1
+851403,14 Oct 2022,v Uttarakhand,Saurashtra,1,0,0,0,0,0
+851403,16 Oct 2022,v Railways,Saurashtra,2,0,0,0,0,0
+851403,1 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+851403,6 Apr 2023,v RCB,Eden Gardens,2,0,0,0,0,0
+851403,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+851403,14 Apr 2023,v SRH,Eden Gardens,1,0,0,0,0,0
+851403,16 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+851403,20 Apr 2023,v DC,Delhi,2,0,0,0,0,0
+851403,23 Apr 2023,v CSK,Eden Gardens,1,0,0,0,0,0
+851403,26 Apr 2023,v RCB,Bengaluru,2,1,1,0,0,1
+851403,29 Apr 2023,v GT,Eden Gardens,2,0,0,0,0,0
+851403,4 May 2023,v SRH,Hyderabad,2,0,0,0,0,0
+851403,8 May 2023,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+851403,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+851403,14 May 2023,v CSK,Chennai,1,0,0,0,0,0
+851403,20 May 2023,v LSG,Eden Gardens,1,2,2,0,0,2
+851403,17 Oct 2023,v Delhi,Dehradun,2,0,0,0,0,0
+851403,19 Oct 2023,v Karnataka,Dehradun,2,0,0,0,0,0
+851403,21 Oct 2023,v Tripura,Dehradun,2,1,1,0,0,1
+851403,25 Oct 2023,v Tamil Nadu,Dehradun,1,0,0,0,0,0
+851403,27 Oct 2023,v UP,Dehradun,1,0,0,0,0,0
+851403,23 Mar 2024,v SRH,Eden Gardens,2,1,1,0,0,1
+851403,29 Mar 2024,v RCB,Bengaluru,1,0,0,0,0,0
+851403,3 Apr 2024,v DC,Visakhapatnam,2,0,0,0,0,0
+851403,8 Apr 2024,v CSK,Chennai,2,0,0,0,0,0
+851403,14 Apr 2024,v LSG,Eden Gardens,1,0,0,0,0,0
+851403,16 Apr 2024,v RR,Eden Gardens,2,1,1,0,0,1
+851403,21 Apr 2024,v RCB,Eden Gardens,2,1,1,0,0,1
+851403,26 Apr 2024,v Punjab Kings,Eden Gardens,2,0,0,0,0,0
+851403,29 Apr 2024,v DC,Eden Gardens,1,1,1,0,0,1
+851403,3 May 2024,v MI,Wankhede,2,0,0,0,0,0
+851403,5 May 2024,v LSG,Lucknow,2,0,0,0,0,0
+851403,11 May 2024,v MI,Eden Gardens,2,0,0,0,0,0
+851403,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+851403,21 May 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+851403,26 May 2024,v SRH,Chennai,1,0,0,0,0,0
+851403,23 Nov 2024,v Mizoram,Rajkot,2,0,0,0,0,0
+851403,25 Nov 2024,v Meghalaya,Saurashtra,2,0,0,0,0,0
+851403,27 Nov 2024,v Punjab,Rajkot,2,1,1,0,0,1
+851403,29 Nov 2024,v Bengal,Saurashtra,1,0,0,0,0,0
+851403,1 Dec 2024,v Rajasthan,Saurashtra,2,0,0,0,0,0
+851403,3 Dec 2024,v Hyderabad,Rajkot,2,0,0,0,0,0
+851403,5 Dec 2024,v Bihar,Rajkot,1,0,0,0,0,0
+851403,11 Dec 2024,v Saurashtra,Alur,1,1,1,0,0,1
+851403,13 Dec 2024,v Delhi,Bengaluru,1,0,0,0,0,0
+851403,15 Dec 2024,v Mumbai,Bengaluru,2,0,0,0,0,0
+851403,22 Mar 2025,v RCB,Eden Gardens,2,0,0,0,0,0
+851403,26 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+851403,31 Mar 2025,v MI,Wankhede,2,0,0,0,0,0
+851403,3 Apr 2025,v SRH,Eden Gardens,2,2,2,0,0,2
+851403,8 Apr 2025,v LSG,Eden Gardens,1,0,0,0,0,0
+851403,11 Apr 2025,v CSK,Chennai,1,0,0,0,0,0
+851403,15 Apr 2025,v Punjab Kings,New Chandigarh,1,1,1,0,0,1
+851403,21 Apr 2025,v GT,Eden Gardens,1,0,0,0,0,0
+851403,26 Apr 2025,v Punjab Kings,Eden Gardens,1,1,1,0,0,1
+851403,29 Apr 2025,v DC,Delhi,2,0,0,0,0,0
+851403,4 May 2025,v RR,Eden Gardens,2,0,0,0,0,0
+851403,26 Nov 2025,v Hyderabad,Jadavpur Uni,2,0,0,0,0,0
+851403,28 Nov 2025,v Bihar,Eden Gardens,2,0,0,0,0,0
+851403,30 Nov 2025,v UP,Jadavpur Uni,2,0,0,0,0,0
+851403,2 Dec 2025,v Goa,Jadavpur Uni,2,0,0,0,0,0
+851403,4 Dec 2025,v Maharashtra,Eden Gardens,2,0,0,0,0,0
+851403,6 Dec 2025,v Chandigarh,Jadavpur Uni,1,0,0,0,0,0
+851403,8 Dec 2025,v J & K,Eden Gardens,1,2,2,0,0,2
+851403,12 Dec 2025,v Andhra,Ambi,1,1,1,0,0,1
+851403,14 Dec 2025,v Jharkhand,Pune,1,0,0,0,0,0
+851403,16 Dec 2025,v Punjab,Ambi,2,0,0,0,0,0

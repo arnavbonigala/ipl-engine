@@ -1,0 +1,375 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+24598,27 Jun 2006,v Surrey,Lord's,1,0,0,0,0,0
+24598,29 Jun 2006,v Hampshire,Southampton,1,1,1,0,0,1
+24598,30 Jun 2006,v Kent,Lord's,1,0,0,0,0,0
+24598,2 Jul 2006,v Sussex,Richmond,2,0,0,0,0,0
+24598,4 Jul 2006,v Kent,Beckenham,1,1,1,0,0,1
+24598,6 Jul 2006,v Essex,Chelmsford,2,0,0,0,0,0
+24598,7 Jul 2006,v Surrey,The Oval,2,1,1,0,0,1
+24598,11 Jul 2006,v Hampshire,Southgate,1,1,1,0,0,1
+24598,22 Jun 2007,v Surrey,The Oval,2,1,1,0,0,1
+24598,25 Jun 2007,v Hampshire,Southgate,2,0,0,0,0,0
+24598,27 Jun 2007,v Kent,Uxbridge,-,TDNF,-,-,-,-
+24598,3 Jul 2007,v Surrey,Lord's,1,0,0,0,0,0
+24598,4 Jul 2007,v Kent,Beckenham,1,0,0,0,0,0
+24598,6 Jul 2007,v Essex,Lord's,2,0,0,0,0,0
+24598,11 Jun 2008,v Hampshire,Southampton,2,0,0,0,0,0
+24598,12 Jun 2008,v Essex,Lord's,1,0,0,0,0,0
+24598,15 Jun 2008,v Essex,Chelmsford,1,1,1,0,0,1
+24598,16 Jun 2008,v Surrey,Lord's,1,3,3,0,0,3
+24598,19 Jun 2008,v Sussex,Lord's,2,1,1,0,0,1
+24598,20 Jun 2008,v Kent,Beckenham,1,0,0,0,0,0
+24598,22 Jun 2008,v Hampshire,Richmond,1,1,1,0,0,1
+24598,24 Jun 2008,v Kent,Uxbridge,2,1,1,0,0,1
+24598,25 Jun 2008,v Sussex,Hove,1,0,0,0,0,0
+24598,27 Jun 2008,v Surrey,The Oval,1,0,0,0,0,0
+24598,8 Jul 2008,v Lancashire,The Oval,2,0,0,0,0,0
+24598,26 Jul 2008,v Durham,Southampton,1,0,0,0,0,0
+24598,26 Jul 2008,v Kent,Southampton,2,0,0,0,0,0
+24598,26 Oct 2008,v England,Coolidge,1,1,1,0,0,1
+24598,27 Oct 2008,v Trinidad & T,Coolidge,2,0,0,0,0,0
+24598,30 Oct 2008,v Superstars,Coolidge,1,1,1,0,0,1
+24598,19 Mar 2009,v NZ A,New Plymouth,1,0,0,0,0,0
+24598,27 May 2009,v Kent,Lord's,1,1,1,0,0,1
+24598,29 May 2009,v Kent,Canterbury,2,0,0,0,0,0
+24598,5 Jun 2009,v Netherlands,Lord's,2,0,0,0,0,0
+24598,22 Jun 2009,v Essex,Chelmsford,2,0,0,0,0,0
+24598,23 Jun 2009,v Hampshire,Southampton,1,0,0,0,0,0
+24598,26 Jun 2009,v Essex,Lord's,2,0,0,0,0,0
+24598,28 Jun 2009,v Sussex,Lord's,2,1,1,0,0,1
+24598,6 Jul 2009,v RR,Lord's,1,0,0,0,0,0
+24598,10 Nov 2009,v SA A,Bloemfontein,2,0,0,0,0,0
+24598,13 Nov 2009,v South Africa,Johannesburg,2,1,1,0,0,1
+24598,15 Nov 2009,v South Africa,Centurion,1,0,0,0,0,0
+24598,17 Feb 2010,v Eng Lions,Abu Dhabi,2,0,0,0,0,0
+24598,19 Feb 2010,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+24598,20 Feb 2010,v Pakistan,Dubai (DICS),2,3,3,0,0,3
+24598,14 Mar 2010,v KKR,Eden Gardens,2,1,1,0,0,1
+24598,16 Mar 2010,v Kings XI,Bengaluru,1,2,2,0,0,2
+24598,18 Mar 2010,v RR,Bengaluru,1,0,0,0,0,0
+24598,20 Mar 2010,v MI,Brabourne,1,0,0,0,0,0
+24598,23 Mar 2010,v CSK,Bengaluru,2,1,1,0,0,1
+24598,25 Mar 2010,v Daredevils,Bengaluru,1,0,0,0,0,0
+24598,3 May 2010,v West Indies,Providence,2,0,0,0,0,0
+24598,4 May 2010,v Ireland,Providence,2,0,0,0,0,0
+24598,6 May 2010,v Pakistan,Bridgetown,1,0,0,0,0,0
+24598,8 May 2010,v South Africa,Bridgetown,2,2,2,0,0,2
+24598,10 May 2010,v New Zealand,Gros Islet,1,0,0,0,0,0
+24598,13 May 2010,v Sri Lanka,Gros Islet,1,0,0,0,0,0
+24598,16 May 2010,v Australia,Bridgetown,1,0,0,0,0,0
+24598,9 Jun 2010,v Somerset,Lord's,2,0,0,0,0,0
+24598,11 Jun 2010,v Kent,Canterbury,1,0,0,0,0,0
+24598,13 Jun 2010,v Essex,Lord's,2,1,1,0,0,1
+24598,15 Jun 2010,v Glamorgan,Richmond,2,0,0,0,0,0
+24598,5 Sep 2010,v Pakistan,Cardiff,1,1,1,0,0,1
+24598,7 Sep 2010,v Pakistan,Cardiff,1,1,1,0,0,1
+24598,12 Jan 2011,v Australia,Adelaide,1,0,0,0,0,0
+24598,14 Jan 2011,v Australia,Melbourne,1,1,1,0,0,1
+24598,8 Apr 2011,v CSK,Chennai,1,0,0,0,0,0
+24598,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+24598,15 Apr 2011,v RR,Jaipur,1,0,0,0,0,0
+24598,17 Apr 2011,v RR,Eden Gardens,1,0,0,0,0,0
+24598,20 Apr 2011,v Kochi,Eden Gardens,1,1,1,0,0,1
+24598,22 Apr 2011,v RCB,Eden Gardens,2,0,0,0,0,0
+24598,28 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+24598,30 Apr 2011,v Kings XI,Eden Gardens,1,0,0,0,0,0
+24598,3 May 2011,v Chargers,Hyderabad,2,1,1,0,0,1
+24598,5 May 2011,v Kochi,Kochi,1,0,0,0,0,0
+24598,7 May 2011,v CSK,Eden Gardens,1,1,1,0,0,1
+24598,14 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+24598,25 Jun 2011,v Sri Lanka,Bristol,2,0,0,0,0,0
+24598,31 Aug 2011,v India,Manchester,1,1,1,0,0,1
+24598,23 Feb 2012,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+24598,25 Feb 2012,v Pakistan,Dubai (DICS),2,2,2,0,0,2
+24598,27 Feb 2012,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+24598,24 Jun 2012,v West Indies,Nottingham,1,0,0,0,0,0
+24598,26 Jun 2012,v Kent,Canterbury,2,2,2,0,0,2
+24598,8 Sep 2012,v South Africa,Chester-le-Street,2,0,0,0,0,0
+24598,10 Sep 2012,v South Africa,Manchester,1,0,0,0,0,0
+24598,12 Sep 2012,v South Africa,Birmingham,2,2,2,0,0,2
+24598,21 Sep 2012,v Afghanistan,Colombo (RPS),2,1,1,0,0,1
+24598,23 Sep 2012,v India,Colombo (RPS),1,0,0,0,0,0
+24598,27 Sep 2012,v West Indies,Pallekele,1,1,1,0,0,1
+24598,29 Sep 2012,v New Zealand,Pallekele,1,0,0,0,0,0
+24598,1 Oct 2012,v Sri Lanka,Pallekele,1,1,1,0,0,1
+24598,20 Dec 2012,v India,Pune,2,0,0,0,0,0
+24598,22 Dec 2012,v India,Wankhede,1,0,0,0,0,0
+24598,4 Feb 2013,v NZ XI,Whangarei,1,0,0,0,0,0
+24598,5 Feb 2013,v NZ XI,Whangarei,2,1,1,0,0,1
+24598,6 Feb 2013,v NZ XI,Whangarei,2,0,0,0,0,0
+24598,9 Feb 2013,v New Zealand,Auckland,2,1,1,0,0,1
+24598,12 Feb 2013,v New Zealand,Hamilton,1,0,0,0,0,0
+24598,15 Feb 2013,v New Zealand,Wellington,1,0,0,0,0,0
+24598,3 Apr 2013,v Daredevils,Eden Gardens,1,0,0,0,0,0
+24598,8 Apr 2013,v RR,Jaipur,1,1,1,0,0,1
+24598,11 Apr 2013,v RCB,Bengaluru,2,1,1,0,0,1
+24598,14 Apr 2013,v SRH,Eden Gardens,2,0,0,0,0,0
+24598,16 Apr 2013,v Kings XI,Mohali,1,0,0,0,0,0
+24598,20 Apr 2013,v CSK,Eden Gardens,2,0,0,0,0,0
+24598,24 Apr 2013,v MI,Eden Gardens,2,0,0,0,0,0
+24598,26 Apr 2013,v Kings XI,Eden Gardens,1,2,2,0,0,2
+24598,28 Apr 2013,v CSK,Chennai,1,1,1,0,0,1
+24598,1 May 2013,v Daredevils,Raipur,2,0,0,0,0,0
+24598,3 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+24598,7 May 2013,v MI,Wankhede,1,1,1,0,0,1
+24598,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+24598,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+24598,25 Jun 2013,v New Zealand,The Oval,1,0,0,0,0,0
+24598,25 Jul 2013,v Surrey,Lord's,1,0,0,0,0,0
+24598,31 Jul 2013,v Hampshire,Southampton,1,0,0,0,0,0
+24598,29 Aug 2013,v Australia,Southampton,1,0,0,0,0,0
+24598,31 Aug 2013,v Australia,Chester-le-Street,2,1,1,0,0,1
+24598,21 Dec 2013,v Sixers,Sydney,2,0,0,0,0,0
+24598,27 Dec 2013,v Strikers,Sydney,1,1,1,0,0,1
+24598,1 Jan 2014,v Stars,Sydney,2,2,2,0,0,2
+24598,3 Jan 2014,v Scorchers,W.A.C.A,2,1,1,0,0,1
+24598,29 Jan 2014,v Australia,Hobart,1,0,0,0,0,0
+24598,31 Jan 2014,v Australia,Melbourne,2,0,0,0,0,0
+24598,2 Feb 2014,v Australia,Sydney,1,0,0,0,0,0
+24598,9 Mar 2014,v West Indies,Bridgetown,1,0,0,0,0,0
+24598,11 Mar 2014,v West Indies,Bridgetown,2,0,0,0,0,0
+24598,13 Mar 2014,v West Indies,Bridgetown,2,1,1,0,0,1
+24598,22 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+24598,27 Mar 2014,v Sri Lanka,Chattogram,1,0,0,0,0,0
+24598,29 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+24598,31 Mar 2014,v Netherlands,Chattogram,1,0,0,0,0,0
+24598,17 May 2014,v Essex,Lord's,2,1,1,0,0,1
+24598,17 May 2014,v Sussex,Lord's,1,0,0,0,0,0
+24598,20 May 2014,v Sri Lanka,The Oval,1,0,0,0,0,0
+24598,6 Jun 2014,v Kent,Canterbury,1,0,0,0,0,0
+24598,18 Jun 2014,v Somerset,The Oval,1,0,0,0,0,0
+24598,20 Jun 2014,v Essex,Chelmsford,2,1,1,0,0,1
+24598,26 Jun 2014,v Gloucs,Lord's,1,0,0,0,0,0
+24598,27 Jun 2014,v Sussex,Hove,2,0,0,0,0,0
+24598,3 Jul 2014,v Glamorgan,Richmond,2,1,1,0,0,1
+24598,11 Jul 2014,v Hampshire,Southampton,2,1,1,0,0,1
+24598,24 Jul 2014,v Surrey,Lord's,2,1,1,0,0,1
+24598,25 Jul 2014,v Somerset,Taunton,1,0,0,0,0,0
+24598,7 Sep 2014,v India,Birmingham,2,0,0,0,0,0
+24598,21 Dec 2014,v Heat,Sydney,2,0,0,0,0,0
+24598,27 Dec 2014,v Sixers,Sydney,1,0,0,0,0,0
+24598,30 Dec 2014,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+24598,1 Jan 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+24598,16 Apr 2015,v RR,Visakhapatnam,2,0,0,0,0,0
+24598,18 Apr 2015,v Daredevils,Visakhapatnam,1,0,0,0,0,0
+24598,2 May 2015,v CSK,Hyderabad,2,1,1,0,0,1
+24598,4 May 2015,v KKR,Eden Gardens,1,2,2,0,0,2
+24598,7 May 2015,v RR,Brabourne,2,0,0,0,0,0
+24598,9 May 2015,v Daredevils,Raipur,2,0,0,0,0,0
+24598,11 May 2015,v Kings XI,Hyderabad,2,1,1,0,0,1
+24598,15 May 2015,v RCB,Hyderabad,2,1,1,0,0,1
+24598,17 May 2015,v MI,Hyderabad,2,0,0,0,0,0
+24598,28 May 2015,v Kent,Lord's,2,0,0,0,0,0
+24598,29 May 2015,v Sussex,Hove,2,4,4,0,0,4
+24598,4 Jun 2015,v Hampshire,Southampton,1,0,0,0,0,0
+24598,5 Jun 2015,v Glamorgan,Cardiff,1,2,2,0,0,2
+24598,23 Jun 2015,v New Zealand,Manchester,2,1,1,0,0,1
+24598,26 Jun 2015,v Somerset,Uxbridge,2,0,0,0,0,0
+24598,2 Jul 2015,v Sussex,Lord's,2,1,1,0,0,1
+24598,3 Jul 2015,v Surrey,The Oval,2,0,0,0,0,0
+24598,10 Jul 2015,v Essex,Richmond,1,0,0,0,0,0
+24598,17 Jul 2015,v Essex,Chelmsford,2,1,1,0,0,1
+24598,23 Jul 2015,v Surrey,Lord's,2,1,1,0,0,1
+24598,31 Aug 2015,v Australia,Cardiff,2,0,0,0,0,0
+24598,26 Nov 2015,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+24598,30 Nov 2015,v Pakistan,Sharjah,2,0,0,0,0,0
+24598,17 Feb 2016,v SA A,Paarl,2,1,1,0,0,1
+24598,19 Feb 2016,v South Africa,Cape Town,2,0,0,0,0,0
+24598,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+24598,16 Mar 2016,v West Indies,Wankhede,2,0,0,0,0,0
+24598,18 Mar 2016,v South Africa,Wankhede,1,1,1,0,0,1
+24598,23 Mar 2016,v Afghanistan,Delhi,2,1,1,0,0,1
+24598,26 Mar 2016,v Sri Lanka,Delhi,2,1,1,0,0,1
+24598,30 Mar 2016,v New Zealand,Delhi,1,1,1,0,0,1
+24598,3 Apr 2016,v West Indies,Eden Gardens,2,0,0,0,0,0
+24598,12 Apr 2016,v RCB,Bengaluru,1,1,1,0,0,1
+24598,16 Apr 2016,v KKR,Hyderabad,2,0,0,0,0,0
+24598,18 Apr 2016,v MI,Hyderabad,1,0,0,0,0,0
+24598,21 Apr 2016,v Guj Lions,Rajkot,1,1,1,0,0,1
+24598,23 Apr 2016,v Kings XI,Hyderabad,1,0,0,0,0,0
+24598,26 Apr 2016,v Supergiants,Hyderabad,2,1,1,0,0,1
+24598,20 May 2016,v Daredevils,Raipur,2,0,0,0,0,0
+24598,2 Jun 2016,v Gloucs,Northwood,2,1,1,0,0,1
+24598,10 Jun 2016,v Essex,Chelmsford,2,0,0,0,0,0
+24598,16 Jun 2016,v Sussex,Lord's,-,TDNF,-,-,-,-
+24598,17 Jun 2016,v Surrey,The Oval,1,1,1,0,0,1
+24598,5 Jul 2016,v Sri Lanka,Southampton,1,1,1,0,0,1
+24598,8 Jul 2016,v Glamorgan,Richmond,2,0,0,0,0,0
+24598,15 Jul 2016,v Somerset,Taunton,1,2,2,0,0,2
+24598,21 Jul 2016,v Surrey,Lord's,1,0,0,0,0,0
+24598,22 Jul 2016,v Hampshire,Southampton,2,2,2,0,0,2
+24598,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+24598,20 Dec 2016,v Sixers,Sydney,2,0,0,0,0,0
+24598,22 Dec 2016,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+24598,28 Dec 2016,v Heat,Sydney,2,0,0,0,0,0
+24598,1 Jan 2017,v Scorchers,W.A.C.A,1,1,1,0,0,1
+24598,4 Jan 2017,v Stars,Sydney,1,0,0,0,0,0
+24598,26 Jan 2017,v India,Kanpur,1,1,1,0,0,1
+24598,29 Jan 2017,v India,Nagpur,1,0,0,0,0,0
+24598,1 Feb 2017,v India,Bengaluru,1,1,1,0,0,1
+24598,9 Feb 2017,v United,Dubai (DICS),2,0,0,0,0,0
+24598,10 Feb 2017,v Kings,Dubai (DICS),1,0,0,0,0,0
+24598,12 Feb 2017,v Qalandars,Dubai (DICS),1,1,1,0,0,1
+24598,17 Feb 2017,v Gladiators,Sharjah,-,TDNF,-,-,-,-
+24598,18 Feb 2017,v United,Sharjah,2,0,0,0,0,0
+24598,19 Feb 2017,v Kings,Sharjah,1,1,1,0,0,1
+24598,15 Apr 2017,v Daredevils,Delhi,1,3,3,0,0,3
+24598,17 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+24598,28 Apr 2017,v SRH,Mohali,1,0,0,0,0,0
+24598,14 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+24598,21 Jun 2017,v South Africa,Southampton,1,0,0,0,0,0
+24598,23 Jun 2017,v South Africa,Taunton,1,1,1,0,0,1
+24598,7 Jul 2017,v Gloucs,Cheltenham,1,1,1,0,0,1
+24598,13 Jul 2017,v Surrey,Lord's,1,0,0,0,0,0
+24598,14 Jul 2017,v Hampshire,Southampton,1,0,0,0,0,0
+24598,16 Jul 2017,v Somerset,Uxbridge,1,0,0,0,0,0
+24598,20 Jul 2017,v Kent,Richmond,2,1,1,0,0,1
+24598,21 Jul 2017,v Surrey,The Oval,1,1,1,0,0,1
+24598,23 Jul 2017,v Somerset,Taunton,2,0,0,0,0,0
+24598,27 Jul 2017,v Essex,Lord's,2,4,4,0,0,4
+24598,28 Jul 2017,v Sussex,Hove,-,TDNF,-,-,-,-
+24598,3 Aug 2017,v Hampshire,Lord's,2,0,0,0,0,0
+24598,10 Aug 2017,v Sussex,Lord's,2,1,1,0,0,1
+24598,11 Aug 2017,v Essex,Chelmsford,1,0,0,0,0,0
+24598,15 Aug 2017,v Gloucs,Uxbridge,2,0,0,0,0,0
+24598,18 Aug 2017,v Glamorgan,Cardiff,2,1,1,0,0,1
+24598,29 Aug 2017,v Amazon,Bridgetown,1,1,1,0,0,1
+24598,31 Aug 2017,v Stars,Bridgetown,2,1,1,0,0,1
+24598,2 Sep 2017,v Trinbago,Bridgetown,2,1,1,0,0,1
+24598,3 Sep 2017,v Patriots,Bridgetown,2,0,0,0,0,0
+24598,16 Sep 2017,v West Indies,Chester-le-Street,1,0,0,0,0,0
+24598,7 Feb 2018,v Australia,Hobart,2,0,0,0,0,0
+24598,18 Feb 2018,v New Zealand,Hamilton,2,1,1,0,0,1
+24598,15 Mar 2018,v Zalmi,Sharjah,1,0,0,0,0,0
+24598,16 Mar 2018,v United,Sharjah,1,0,0,0,0,0
+24598,18 Mar 2018,v United,Dubai (DICS),2,0,0,0,0,0
+24598,27 Jun 2018,v Australia,Birmingham,2,1,1,0,0,1
+24598,3 Jul 2018,v India,Manchester,2,1,1,0,0,1
+24598,6 Jul 2018,v India,Cardiff,1,0,0,0,0,0
+24598,8 Jul 2018,v India,Bristol,2,0,0,0,0,0
+24598,19 Jul 2018,v Somerset,Lord's,2,0,0,0,0,0
+24598,20 Jul 2018,v Hampshire,Southampton,1,2,2,0,0,2
+24598,26 Jul 2018,v Hampshire,Lord's,2,1,1,0,0,1
+24598,29 Jul 2018,v Somerset,Taunton,1,0,0,0,0,0
+24598,2 Aug 2018,v Sussex,Lord's,1,0,0,0,0,0
+24598,3 Aug 2018,v Surrey,The Oval,2,0,0,0,0,0
+24598,5 Aug 2018,v Glamorgan,Richmond,2,0,0,0,0,0
+24598,9 Aug 2018,v Gloucs,Bristol,1,0,0,0,0,0
+24598,12 Aug 2018,v Kent,Beckenham,2,2,2,0,0,2
+24598,16 Aug 2018,v Essex,Lord's,2,0,0,0,0,0
+24598,17 Aug 2018,v Sussex,Hove,1,2,2,0,0,2
+24598,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+24598,5 Dec 2018,v Paarl Rocks,Centurion,1,0,0,0,0,0
+24598,8 Dec 2018,v Giants,Gqeberha,2,0,0,0,0,0
+24598,11 Dec 2018,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+24598,12 Dec 2018,v Durban Heat,Centurion,2,0,0,0,0,0
+24598,5 Mar 2019,v West Indies,Gros Islet,1,0,0,0,0,0
+24598,8 Mar 2019,v West Indies,Basseterre,2,1,1,0,0,1
+24598,10 Mar 2019,v West Indies,Basseterre,1,0,0,0,0,0
+24598,5 May 2019,v Pakistan,Cardiff,1,1,1,0,0,1
+24598,1 Aug 2019,v Kent,Lord's,1,0,0,0,0,0
+24598,4 Aug 2019,v Somerset,Richmond,2,0,0,0,0,0
+24598,8 Aug 2019,v Surrey,Lord's,2,0,0,0,0,0
+24598,11 Aug 2019,v Gloucs,Radlett,1,1,1,0,0,1
+24598,22 Aug 2019,v Hampshire,Lord's,2,0,0,0,0,0
+24598,24 Aug 2019,v Sussex,Uxbridge,2,0,0,0,0,0
+24598,29 Aug 2019,v Hampshire,Southampton,2,0,0,0,0,0
+24598,30 Aug 2019,v Somerset,Taunton,1,0,0,0,0,0
+24598,5 Sep 2019,v Notts,Nottingham,2,0,0,0,0,0
+24598,1 Nov 2019,v New Zealand,Christchurch,1,1,1,0,0,1
+24598,3 Nov 2019,v New Zealand,Wellington,1,0,0,0,0,0
+24598,5 Nov 2019,v New Zealand,Nelson,1,0,0,0,0,0
+24598,8 Nov 2019,v New Zealand,Napier,2,0,0,0,0,0
+24598,10 Nov 2019,v New Zealand,Auckland,1,0,0,0,0,0
+24598,12 Feb 2020,v South Africa,East London,1,0,0,0,0,0
+24598,14 Feb 2020,v South Africa,Durban,2,0,0,0,0,0
+24598,16 Feb 2020,v South Africa,Centurion,1,0,0,0,0,0
+24598,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+24598,30 Aug 2020,v Pakistan,Manchester,1,2,2,0,0,2
+24598,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+24598,4 Sep 2020,v Australia,Southampton,2,1,1,0,0,1
+24598,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+24598,23 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+24598,26 Sep 2020,v SRH,Abu Dhabi,1,0,0,0,0,0
+24598,30 Sep 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+24598,3 Oct 2020,v DC,Sharjah,1,1,1,0,0,1
+24598,7 Oct 2020,v CSK,Abu Dhabi,2,1,1,0,0,1
+24598,10 Oct 2020,v Kings XI,Abu Dhabi,2,0,0,0,0,0
+24598,12 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+24598,16 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+24598,18 Oct 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+24598,21 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+24598,24 Oct 2020,v DC,Abu Dhabi,2,1,1,0,0,1
+24598,26 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+24598,29 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+24598,1 Nov 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+24598,27 Nov 2020,v South Africa,Cape Town,1,1,1,0,0,1
+24598,29 Nov 2020,v South Africa,Paarl,1,0,0,0,0,0
+24598,1 Dec 2020,v South Africa,Cape Town,1,0,0,0,0,0
+24598,12 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+24598,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+24598,16 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+24598,18 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+24598,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+24598,11 Apr 2021,v SRH,Chennai,2,2,2,0,0,2
+24598,13 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+24598,18 Apr 2021,v RCB,Chennai,1,0,0,0,0,0
+24598,21 Apr 2021,v CSK,Wankhede,1,1,1,0,0,1
+24598,24 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+24598,26 Apr 2021,v Punjab Kings,Ahmedabad,1,3,3,0,0,3
+24598,29 Apr 2021,v DC,Ahmedabad,2,0,0,0,0,0
+24598,10 Jun 2021,v Surrey,Lord's,1,1,1,0,0,1
+24598,11 Jun 2021,v Kent,Canterbury,1,2,2,0,0,2
+24598,15 Jun 2021,v Hampshire,Radlett,1,0,0,0,0,0
+24598,17 Jun 2021,v Gloucs,Radlett,2,1,1,0,0,1
+24598,18 Jun 2021,v Glamorgan,Cardiff,1,0,0,0,0,0
+24598,23 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+24598,24 Jun 2021,v Sri Lanka,Cardiff,1,2,2,0,0,2
+24598,26 Jun 2021,v Sri Lanka,Southampton,2,0,0,0,0,0
+24598,16 Jul 2021,v Pakistan,Nottingham,1,0,0,0,0,0
+24598,20 Jul 2021,v Pakistan,Manchester,1,0,0,0,0,0
+24598,23 Jul 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+24598,25 Jul 2021,v Invincibles,Lord's,-,TDNF,-,-,-,-
+24598,29 Jul 2021,v Rockets,Lord's,1,1,1,0,0,1
+24598,1 Aug 2021,v Brave,Lord's,1,0,0,0,0,0
+24598,3 Aug 2021,v N S-Chargers,Lord's,1,0,0,0,0,0
+24598,10 Aug 2021,v Originals,Manchester,2,0,0,0,0,0
+24598,14 Aug 2021,v Invincibles,The Oval,2,0,0,0,0,0
+24598,18 Aug 2021,v Fire,Cardiff,2,0,0,0,0,0
+24598,20 Sep 2021,v RCB,Abu Dhabi,1,0,0,0,0,0
+24598,23 Sep 2021,v MI,Abu Dhabi,1,0,0,0,0,0
+24598,26 Sep 2021,v CSK,Abu Dhabi,2,1,1,0,0,1
+24598,28 Sep 2021,v DC,Sharjah,1,0,0,0,0,0
+24598,1 Oct 2021,v Punjab Kings,Dubai (DICS),2,1,1,0,0,1
+24598,3 Oct 2021,v SRH,Dubai (DICS),1,0,0,0,0,0
+24598,7 Oct 2021,v RR,Sharjah,2,1,1,0,0,1
+24598,11 Oct 2021,v RCB,Sharjah,1,0,0,0,0,0
+24598,13 Oct 2021,v DC,Sharjah,1,0,0,0,0,0
+24598,15 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+24598,23 Oct 2021,v West Indies,Dubai (DICS),1,1,1,0,0,1
+24598,27 Oct 2021,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+24598,30 Oct 2021,v Australia,Dubai (DICS),1,0,0,0,0,0
+24598,1 Nov 2021,v Sri Lanka,Sharjah,2,1,1,0,0,1
+24598,6 Nov 2021,v South Africa,Sharjah,1,0,0,0,0,0
+24598,10 Nov 2021,v New Zealand,Abu Dhabi,2,1,1,0,0,1
+24598,22 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+24598,23 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+24598,26 May 2022,v Gloucs,Radlett,2,0,0,0,0,0
+24598,29 May 2022,v Glamorgan,Radlett,1,0,0,0,0,0
+24598,9 Jun 2022,v Surrey,Lord's,1,0,0,0,0,0
+24598,4 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+24598,8 Aug 2022,v Originals,Lord's,2,0,0,0,0,0
+24598,12 Aug 2022,v Brave,Southampton,2,1,1,0,0,1
+24598,14 Aug 2022,v N S-Chargers,Leeds,1,0,0,0,0,0
+24598,20 Aug 2022,v Rockets,Nottingham,2,0,0,0,0,0
+24598,24 Aug 2022,v Fire,Lord's,2,0,0,0,0,0
+24598,27 Aug 2022,v Invincibles,Lord's,2,0,0,0,0,0
+24598,30 Aug 2022,v Phoenix,Lord's,2,1,1,0,0,1
+24598,2 Sep 2022,v Originals,Southampton,2,1,1,0,0,1
+24598,10 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+24598,13 Jan 2023,v Super Kings,Paarl,1,0,0,0,0,0
+24598,15 Jan 2023,v Super Giants,Durban,1,0,0,0,0,0
+24598,17 Jan 2023,v Super Giants,Paarl,2,0,0,0,0,0
+24598,19 Jan 2023,v Sunrisers,Paarl,2,0,0,0,0,0
+24598,7 Feb 2023,v Capitals,Centurion,1,1,1,0,0,1
+24598,8 Feb 2023,v Capitals,Johannesburg,1,1,1,0,0,1

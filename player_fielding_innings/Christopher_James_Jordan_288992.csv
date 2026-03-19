@@ -1,0 +1,432 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+288992,11 Jun 2008,v Essex,The Oval,2,0,0,0,0,0
+288992,13 Jun 2008,v Kent,The Oval,1,0,0,0,0,0
+288992,15 Jun 2008,v Sussex,The Oval,1,0,0,0,0,0
+288992,16 Jun 2008,v Middlesex,Lord's,2,0,0,0,0,0
+288992,18 Jun 2008,v Hampshire,The Oval,2,1,1,0,0,1
+288992,20 Jun 2008,v Essex,Chelmsford,1,1,1,0,0,1
+288992,22 Jun 2008,v Sussex,Hove,2,1,1,0,0,1
+288992,22 Jun 2009,v Sussex,Hove,2,0,0,0,0,0
+288992,25 Jun 2009,v Essex,The Oval,1,0,0,0,0,0
+288992,27 Jun 2009,v Middlesex,The Oval,2,0,0,0,0,0
+288992,28 Jun 2009,v Kent,Beckenham,1,1,1,0,0,1
+288992,8 Jul 2012,v Sussex,Hove,1,0,0,0,0,0
+288992,28 Jun 2013,v Surrey,Hove,1,0,0,0,0,0
+288992,30 Jun 2013,v Middlesex,Lord's,2,1,1,0,0,1
+288992,3 Jul 2013,v Surrey,The Oval,1,2,2,0,0,2
+288992,5 Jul 2013,v Hampshire,Hove,2,0,0,0,0,0
+288992,12 Jul 2013,v Hampshire,Southampton,2,1,1,0,0,1
+288992,14 Jul 2013,v Essex,Chelmsford,2,1,1,0,0,1
+288992,21 Jul 2013,v Essex,Hove,2,0,0,0,0,0
+288992,2 Feb 2014,v Australia,Sydney,1,0,0,0,0,0
+288992,13 Mar 2014,v West Indies,Bridgetown,2,2,2,0,0,2
+288992,22 Mar 2014,v New Zealand,Chattogram,2,1,1,0,0,1
+288992,27 Mar 2014,v Sri Lanka,Chattogram,1,1,1,0,0,1
+288992,29 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+288992,31 Mar 2014,v Netherlands,Chattogram,1,1,1,0,0,1
+288992,16 May 2014,v Surrey,Hove,1,2,2,0,0,2
+288992,17 May 2014,v Middlesex,Lord's,2,0,0,0,0,0
+288992,20 May 2014,v Sri Lanka,The Oval,1,0,0,0,0,0
+288992,11 Jul 2014,v Kent,Hove,1,1,1,0,0,1
+288992,22 May 2015,v Somerset,Taunton,2,1,1,0,0,1
+288992,29 May 2015,v Middlesex,Hove,1,1,1,0,0,1
+288992,12 Aug 2015,v Northants,Hove,2,0,0,0,0,0
+288992,26 Nov 2015,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+288992,30 Nov 2015,v Pakistan,Sharjah,2,1,1,0,0,1
+288992,17 Feb 2016,v SA A,Paarl,2,1,1,0,0,1
+288992,19 Feb 2016,v South Africa,Cape Town,2,0,0,0,0,0
+288992,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+288992,16 Mar 2016,v West Indies,Wankhede,2,0,0,0,0,0
+288992,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+288992,23 Mar 2016,v Afghanistan,Delhi,2,1,1,0,0,1
+288992,26 Mar 2016,v Sri Lanka,Delhi,2,0,0,0,0,0
+288992,30 Mar 2016,v New Zealand,Delhi,1,2,2,0,0,2
+288992,3 Apr 2016,v West Indies,Eden Gardens,2,0,0,0,0,0
+288992,7 May 2016,v Supergiants,Bengaluru,1,0,0,0,0,0
+288992,9 May 2016,v Kings XI,Mohali,2,0,0,0,0,0
+288992,11 May 2016,v MI,Bengaluru,2,0,0,0,0,0
+288992,14 May 2016,v Guj Lions,Bengaluru,2,1,1,0,0,1
+288992,16 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+288992,18 May 2016,v Kings XI,Bengaluru,2,1,1,0,0,1
+288992,22 May 2016,v Daredevils,Raipur,1,1,1,0,0,1
+288992,24 May 2016,v Guj Lions,Bengaluru,1,0,0,0,0,0
+288992,29 May 2016,v SRH,Bengaluru,1,1,1,0,0,1
+288992,1 Jun 2016,v Somerset,Hove,2,2,2,0,0,2
+288992,3 Jun 2016,v Surrey,Hove,1,0,0,0,0,0
+288992,10 Jun 2016,v Kent,Hove,1,0,0,0,0,0
+288992,16 Jun 2016,v Middlesex,Lord's,-,TDNF,-,-,-,-
+288992,30 Jun 2016,v Kent,Canterbury,1,1,1,0,0,1
+288992,5 Jul 2016,v Sri Lanka,Southampton,1,1,1,0,0,1
+288992,7 Jul 2016,v Glamorgan,Cardiff,1,0,0,0,0,0
+288992,15 Jul 2016,v Hampshire,Hove,1,2,2,0,0,2
+288992,21 Jul 2016,v Essex,Chelmsford,2,0,0,0,0,0
+288992,22 Jul 2016,v Surrey,The Oval,2,0,0,0,0,0
+288992,28 Jul 2016,v Glamorgan,Hove,1,0,0,0,0,0
+288992,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+288992,21 Dec 2016,v Heat,Adelaide,1,2,2,0,0,2
+288992,23 Dec 2016,v Scorchers,W.A.C.A,1,1,1,0,0,1
+288992,31 Dec 2016,v Sixers,Adelaide,2,3,3,0,0,3
+288992,2 Jan 2017,v Hurricanes,Hobart,2,0,0,0,0,0
+288992,6 Jan 2017,v Hurricanes,Adelaide,1,0,0,0,0,0
+288992,26 Jan 2017,v India,Kanpur,1,0,0,0,0,0
+288992,29 Jan 2017,v India,Nagpur,1,1,1,0,0,1
+288992,1 Feb 2017,v India,Bengaluru,1,0,0,0,0,0
+288992,9 Feb 2017,v United,Dubai (DICS),2,1,1,0,0,1
+288992,10 Feb 2017,v Kings,Dubai (DICS),1,2,2,0,0,2
+288992,12 Feb 2017,v Qalandars,Dubai (DICS),1,2,2,0,0,2
+288992,28 Feb 2017,v Gladiators,Sharjah,1,0,0,0,0,0
+288992,3 Mar 2017,v Kings,Dubai (DICS),2,0,0,0,0,0
+288992,5 Mar 2017,v Gladiators,Lahore,2,1,1,0,0,1
+288992,17 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+288992,21 Jun 2017,v South Africa,Southampton,1,0,0,0,0,0
+288992,23 Jun 2017,v South Africa,Taunton,1,0,0,0,0,0
+288992,25 Jun 2017,v South Africa,Cardiff,2,0,0,0,0,0
+288992,9 Jul 2017,v Glamorgan,Arundel,1,0,0,0,0,0
+288992,12 Jul 2017,v Hampshire,Hove,1,1,1,0,0,1
+288992,16 Jul 2017,v Gloucs,Cheltenham,-,TDNF,-,-,-,-
+288992,20 Jul 2017,v Hampshire,Southampton,1,0,0,0,0,0
+288992,21 Jul 2017,v Glamorgan,Cardiff,-,TDNF,-,-,-,-
+288992,23 Jul 2017,v Kent,Hove,1,0,0,0,0,0
+288992,28 Jul 2017,v Middlesex,Hove,1,0,0,0,0,0
+288992,30 Jul 2017,v Somerset,Taunton,1,0,0,0,0,0
+288992,3 Aug 2017,v Surrey,Hove,1,0,0,0,0,0
+288992,4 Aug 2017,v Kent,Canterbury,1,1,1,0,0,1
+288992,10 Aug 2017,v Middlesex,Lord's,1,1,1,0,0,1
+288992,11 Aug 2017,v Gloucs,Hove,1,0,0,0,0,0
+288992,13 Aug 2017,v Surrey,The Oval,1,1,1,0,0,1
+288992,18 Aug 2017,v Essex,Hove,2,1,1,0,0,1
+288992,16 Sep 2017,v West Indies,Chester-le-Street,1,1,1,0,0,1
+288992,14 Nov 2017,v Victorians,Mirpur,2,0,0,0,0,0
+288992,17 Nov 2017,v Khulna,Mirpur,2,1,1,0,0,1
+288992,23 Dec 2017,v Otago,Hamilton,2,3,3,0,0,3
+288992,27 Dec 2017,v Central D,Mount Maunganui,1,1,1,0,0,1
+288992,30 Dec 2017,v Central D,New Plymouth,1,0,0,0,0,0
+288992,2 Jan 2018,v Otago,Dunedin,1,1,1,0,0,1
+288992,7 Jan 2018,v Auckland,Auckland,1,0,0,0,0,0
+288992,14 Jan 2018,v Canterbury,Hamilton,1,0,0,0,0,0
+288992,20 Jan 2018,v Central D,Hamilton,1,2,2,0,0,2
+288992,7 Feb 2018,v Australia,Hobart,2,0,0,0,0,0
+288992,10 Feb 2018,v Australia,Melbourne,2,0,0,0,0,0
+288992,13 Feb 2018,v New Zealand,Wellington,1,1,1,0,0,1
+288992,18 Feb 2018,v New Zealand,Hamilton,2,0,0,0,0,0
+288992,22 Feb 2018,v Sultans,Dubai (DICS),2,1,1,0,0,1
+288992,24 Feb 2018,v United,Dubai (DICS),2,0,0,0,0,0
+288992,25 Feb 2018,v Kings,Dubai (DICS),2,2,2,0,0,2
+288992,21 Mar 2018,v Kings,Lahore,2,0,0,0,0,0
+288992,25 Mar 2018,v United,Karachi,2,2,2,0,0,2
+288992,19 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+288992,27 Jun 2018,v Australia,Birmingham,2,1,1,0,0,1
+288992,3 Jul 2018,v India,Manchester,2,0,0,0,0,0
+288992,6 Jul 2018,v India,Cardiff,1,0,0,0,0,0
+288992,8 Jul 2018,v India,Bristol,2,2,2,0,0,2
+288992,12 Jul 2018,v Hampshire,Southampton,1,0,0,0,0,0
+288992,13 Jul 2018,v Surrey,Hove,1,0,0,0,0,0
+288992,27 Jul 2018,v Kent,Canterbury,1,0,0,0,0,0
+288992,1 Aug 2018,v Gloucs,Hove,2,0,0,0,0,0
+288992,2 Aug 2018,v Middlesex,Lord's,2,1,1,0,0,1
+288992,5 Aug 2018,v Somerset,Hove,2,1,1,0,0,1
+288992,9 Aug 2018,v Surrey,The Oval,-,TDNF,-,-,-,-
+288992,14 Aug 2018,v Glamorgan,Hove,2,0,0,0,0,0
+288992,16 Aug 2018,v Gloucs,Bristol,1,1,1,0,0,1
+288992,17 Aug 2018,v Middlesex,Hove,2,0,0,0,0,0
+288992,24 Aug 2018,v Durham,Chester-le-Street,1,0,0,0,0,0
+288992,15 Sep 2018,v Somerset,Birmingham,2,0,0,0,0,0
+288992,15 Sep 2018,v Worcs,Birmingham,2,1,1,0,0,1
+288992,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+288992,6 Jan 2019,v Auckland,Hamilton,2,0,0,0,0,0
+288992,9 Jan 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+288992,13 Jan 2019,v Strikers,Sydney,2,1,1,0,0,1
+288992,17 Jan 2019,v Heat,Brisbane,2,1,1,0,0,1
+288992,22 Jan 2019,v Renegades,Sydney,1,1,1,0,0,1
+288992,24 Jan 2019,v Scorchers,Perth,1,1,1,0,0,1
+288992,30 Jan 2019,v Renegades,Melbourne (Docklands),1,2,2,0,0,2
+288992,2 Feb 2019,v Sixers,Sydney,2,0,0,0,0,0
+288992,9 Feb 2019,v Hurricanes,Canberra,1,0,0,0,0,0
+288992,5 Mar 2019,v West Indies,Gros Islet,1,2,2,0,0,2
+288992,8 Mar 2019,v West Indies,Basseterre,2,0,0,0,0,0
+288992,10 Mar 2019,v West Indies,Basseterre,1,3,3,0,0,3
+288992,15 Mar 2019,v United,Karachi,2,1,1,0,0,1
+288992,17 Mar 2019,v Gladiators,Karachi,2,0,0,0,0,0
+288992,5 May 2019,v Pakistan,Cardiff,1,0,0,0,0,0
+288992,2 Aug 2019,v Kent,Hove,1,0,0,0,0,0
+288992,4 Aug 2019,v Gloucs,Bristol,1,0,0,0,0,0
+288992,9 Aug 2019,v Middlesex,Hove,1,0,0,0,0,0
+288992,15 Aug 2019,v Surrey,The Oval,1,0,0,0,0,0
+288992,22 Aug 2019,v Essex,Hove,1,1,1,0,0,1
+288992,24 Aug 2019,v Middlesex,Uxbridge,1,1,1,0,0,1
+288992,26 Aug 2019,v Glamorgan,Cardiff,1,0,0,0,0,0
+288992,30 Aug 2019,v Gloucs,Hove,2,1,1,0,0,1
+288992,6 Sep 2019,v Worcs,Hove,2,0,0,0,0,0
+288992,30 Sep 2019,v Amazon,Port of Spain,1,1,1,0,0,1
+288992,2 Oct 2019,v Tridents,Port of Spain,2,0,0,0,0,0
+288992,4 Oct 2019,v Amazon,Providence,2,1,1,0,0,1
+288992,6 Oct 2019,v Patriots,Providence,1,0,0,0,0,0
+288992,10 Oct 2019,v Tridents,Tarouba,1,2,2,0,0,2
+288992,1 Nov 2019,v New Zealand,Christchurch,1,0,0,0,0,0
+288992,3 Nov 2019,v New Zealand,Wellington,1,1,1,0,0,1
+288992,8 Nov 2019,v New Zealand,Napier,2,1,1,0,0,1
+288992,10 Nov 2019,v New Zealand,Auckland,1,0,0,0,0,0
+288992,18 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+288992,21 Dec 2019,v Renegades,Perth,2,3,3,0,0,3
+288992,23 Dec 2019,v Strikers,Adelaide,1,1,1,0,0,1
+288992,26 Dec 2019,v Sixers,Perth,1,0,0,0,0,0
+288992,1 Jan 2020,v Heat,Carrara,2,2,2,0,0,2
+288992,5 Jan 2020,v Hurricanes,Perth,1,1,1,0,0,1
+288992,7 Jan 2020,v Renegades,Geelong,1,1,1,0,0,1
+288992,11 Jan 2020,v Heat,Perth,2,0,0,0,0,0
+288992,13 Jan 2020,v Hurricanes,Hobart,2,1,1,0,0,1
+288992,15 Jan 2020,v Stars,Perth,2,0,0,0,0,0
+288992,18 Jan 2020,v Stars,Melbourne,1,0,0,0,0,0
+288992,20 Jan 2020,v Thunder,Perth,1,0,0,0,0,0
+288992,24 Jan 2020,v Strikers,Perth,1,0,0,0,0,0
+288992,12 Feb 2020,v South Africa,East London,1,1,1,0,0,1
+288992,14 Feb 2020,v South Africa,Durban,2,1,1,0,0,1
+288992,16 Feb 2020,v South Africa,Centurion,1,0,0,0,0,0
+288992,21 Feb 2020,v Zalmi,Karachi,2,0,0,0,0,0
+288992,23 Feb 2020,v Gladiators,Karachi,2,1,1,0,0,1
+288992,28 Feb 2020,v Sultans,Multan,1,0,0,0,0,0
+288992,1 Mar 2020,v United,Rawalpindi,1,1,1,0,0,1
+288992,2 Mar 2020,v Zalmi,Rawalpindi,1,0,0,0,0,0
+288992,6 Mar 2020,v Sultans,Lahore,1,3,3,0,0,3
+288992,8 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+288992,12 Mar 2020,v Qalandars,Karachi,1,0,0,0,0,0
+288992,14 Mar 2020,v United,Karachi,1,1,1,0,0,1
+288992,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+288992,30 Aug 2020,v Pakistan,Manchester,1,0,0,0,0,0
+288992,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+288992,4 Sep 2020,v Australia,Southampton,2,1,1,0,0,1
+288992,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+288992,8 Sep 2020,v Australia,Southampton,2,1,1,0,0,1
+288992,10 Sep 2020,v Hampshire,Southampton,2,0,0,0,0,0
+288992,12 Sep 2020,v Kent,Canterbury,1,0,0,0,0,0
+288992,20 Sep 2020,v DC,Dubai (DICS),1,2,2,0,0,2
+288992,4 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+288992,10 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+288992,15 Oct 2020,v RCB,Sharjah,1,1,1,0,0,1
+288992,18 Oct 2020,v MI,Dubai (DICS),1,0,0,0,0,0
+288992,24 Oct 2020,v SRH,Dubai (DICS),2,2,2,0,0,2
+288992,26 Oct 2020,v KKR,Sharjah,1,0,0,0,0,0
+288992,30 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+288992,1 Nov 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+288992,27 Nov 2020,v South Africa,Cape Town,1,1,1,0,0,1
+288992,29 Nov 2020,v South Africa,Paarl,1,0,0,0,0,0
+288992,1 Dec 2020,v South Africa,Cape Town,1,1,1,0,0,1
+288992,12 Mar 2021,v India,Ahmedabad,1,2,2,0,0,2
+288992,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+288992,16 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+288992,18 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+288992,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+288992,26 Apr 2021,v KKR,Ahmedabad,2,0,0,0,0,0
+288992,30 Apr 2021,v RCB,Ahmedabad,2,0,0,0,0,0
+288992,2 May 2021,v DC,Ahmedabad,2,0,0,0,0,0
+288992,11 Jun 2021,v Gloucs,Bristol,1,1,1,0,0,1
+288992,12 Jun 2021,v Hampshire,Hove,1,0,0,0,0,0
+288992,15 Jun 2021,v Essex,Chelmsford,1,1,1,0,0,1
+288992,17 Jun 2021,v Surrey,The Oval,1,0,0,0,0,0
+288992,23 Jun 2021,v Sri Lanka,Cardiff,1,3,3,0,0,3
+288992,24 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+288992,26 Jun 2021,v Sri Lanka,Southampton,2,1,1,0,0,1
+288992,27 Jun 2021,v Surrey,Hove,1,0,0,0,0,0
+288992,9 Jul 2021,v Essex,Hove,1,0,0,0,0,0
+288992,18 Jul 2021,v Pakistan,Leeds,2,1,1,0,0,1
+288992,20 Jul 2021,v Pakistan,Manchester,1,0,0,0,0,0
+288992,24 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+288992,27 Jul 2021,v Fire,Cardiff,1,1,1,0,0,1
+288992,30 Jul 2021,v Phoenix,Southampton,1,0,0,0,0,0
+288992,1 Aug 2021,v Spirit,Lord's,2,0,0,0,0,0
+288992,5 Aug 2021,v Originals,Manchester,1,1,1,0,0,1
+288992,7 Aug 2021,v N S-Chargers,Southampton,1,1,1,0,0,1
+288992,11 Aug 2021,v Fire,Southampton,1,0,0,0,0,0
+288992,16 Aug 2021,v Invincibles,Southampton,1,0,0,0,0,0
+288992,20 Aug 2021,v Rockets,The Oval,1,0,0,0,0,0
+288992,21 Aug 2021,v Phoenix,Lord's,2,0,0,0,0,0
+288992,24 Aug 2021,v Yorkshire,Chester-le-Street,1,2,2,0,0,2
+288992,18 Sep 2021,v Kent,Birmingham,1,1,1,0,0,1
+288992,7 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+288992,23 Oct 2021,v West Indies,Dubai (DICS),1,0,0,0,0,0
+288992,27 Oct 2021,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+288992,30 Oct 2021,v Australia,Dubai (DICS),1,0,0,0,0,0
+288992,1 Nov 2021,v Sri Lanka,Sharjah,2,1,1,0,0,1
+288992,6 Nov 2021,v South Africa,Sharjah,1,0,0,0,0,0
+288992,10 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+288992,5 Dec 2021,v Stars,Sydney,2,0,0,0,0,0
+288992,8 Dec 2021,v Hurricanes,Launceston,2,0,0,0,0,0
+288992,11 Dec 2021,v Hurricanes,Sydney,1,0,0,0,0,0
+288992,15 Dec 2021,v Stars,Melbourne,1,0,0,0,0,0
+288992,21 Dec 2021,v Strikers,Sydney,1,0,0,0,0,0
+288992,22 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+288992,23 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+288992,29 Jan 2022,v West Indies,Bridgetown,2,2,2,0,0,2
+288992,30 Jan 2022,v West Indies,Bridgetown,1,1,1,0,0,1
+288992,6 Feb 2022,v United,Karachi,1,0,0,0,0,0
+288992,13 Feb 2022,v Zalmi,Lahore,1,0,0,0,0,0
+288992,14 Feb 2022,v United,Lahore,1,0,0,0,0,0
+288992,16 Feb 2022,v Sultans,Lahore,2,0,0,0,0,0
+288992,18 Feb 2022,v Qalandars,Lahore,2,1,1,0,0,1
+288992,3 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+288992,9 Apr 2022,v SRH,DY Patil,2,1,1,0,0,1
+288992,12 Apr 2022,v RCB,DY Patil,2,2,2,0,0,2
+288992,17 Apr 2022,v GT,Pune,2,1,1,0,0,1
+288992,25 May 2022,v SLC Dev XI,The Oval,1,1,1,0,0,1
+288992,27 May 2022,v Glamorgan,The Oval,1,0,0,0,0,0
+288992,31 May 2022,v Gloucs,The Oval,2,1,1,0,0,1
+288992,2 Jun 2022,v Hampshire,The Oval,2,1,1,0,0,1
+288992,3 Jun 2022,v Kent,Canterbury,2,2,2,0,0,2
+288992,5 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+288992,8 Jun 2022,v Sussex,The Oval,1,0,0,0,0,0
+288992,9 Jun 2022,v Middlesex,Lord's,2,0,0,0,0,0
+288992,17 Jun 2022,v Middlesex,The Oval,1,1,1,0,0,1
+288992,19 Jun 2022,v Hampshire,Southampton,1,2,2,0,0,2
+288992,21 Jun 2022,v Somerset,The Oval,1,0,0,0,0,0
+288992,23 Jun 2022,v Sussex,Hove,1,0,0,0,0,0
+288992,24 Jun 2022,v Essex,Chelmsford,1,0,0,0,0,0
+288992,1 Jul 2022,v Kent,The Oval,1,0,0,0,0,0
+288992,3 Jul 2022,v Somerset,Taunton,1,0,0,0,0,0
+288992,7 Jul 2022,v India,Southampton,1,0,0,0,0,0
+288992,9 Jul 2022,v India,Birmingham,1,0,0,0,0,0
+288992,10 Jul 2022,v India,Nottingham,2,0,0,0,0,0
+288992,27 Jul 2022,v South Africa,Bristol,2,2,2,0,0,2
+288992,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+288992,31 Jul 2022,v South Africa,Southampton,1,0,0,0,0,0
+288992,3 Aug 2022,v Fire,Southampton,1,0,0,0,0,0
+288992,10 Aug 2022,v Phoenix,Birmingham,1,0,0,0,0,0
+288992,12 Aug 2022,v Spirit,Southampton,1,0,0,0,0,0
+288992,12 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+288992,10 Nov 2022,v India,Adelaide,1,0,0,0,0,0
+288992,13 Nov 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+288992,30 Dec 2022,v Renegades,Geelong,1,1,1,0,0,1
+288992,4 Jan 2023,v Heat,North Sydney,1,1,1,0,0,1
+288992,6 Jan 2023,v Stars,Melbourne,1,1,1,0,0,1
+288992,8 Jan 2023,v Thunder,Sydney,1,0,0,0,0,0
+288992,9 Mar 2023,v Bangladesh,Chattogram,2,0,0,0,0,0
+288992,12 Mar 2023,v Bangladesh,Mirpur,2,1,1,0,0,1
+288992,14 Mar 2023,v Bangladesh,Mirpur,1,0,0,0,0,0
+288992,9 May 2023,v RCB,Wankhede,1,0,0,0,0,0
+288992,12 May 2023,v GT,Wankhede,2,0,0,0,0,0
+288992,16 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+288992,21 May 2023,v SRH,Wankhede,1,0,0,0,0,0
+288992,24 May 2023,v LSG,Chennai,2,1,1,0,0,1
+288992,26 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+288992,31 May 2023,v Hampshire,Southampton,1,0,0,0,0,0
+288992,2 Jun 2023,v Gloucs,Bristol,2,2,2,0,0,2
+288992,4 Jun 2023,v Kent,Canterbury,1,0,0,0,0,0
+288992,7 Jun 2023,v Glamorgan,Cardiff,2,1,1,0,0,1
+288992,9 Jun 2023,v Sussex,Hove,2,1,1,0,0,1
+288992,16 Jun 2023,v Somerset,Taunton,2,0,0,0,0,0
+288992,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+288992,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+288992,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+288992,30 Jun 2023,v Somerset,The Oval,1,0,0,0,0,0
+288992,2 Jul 2023,v Essex,The Oval,2,0,0,0,0,0
+288992,7 Jul 2023,v Lancashire,Manchester,2,1,1,0,0,1
+288992,15 Jul 2023,v Somerset,Birmingham,1,0,0,0,0,0
+288992,1 Aug 2023,v Rockets,Nottingham,1,1,1,0,0,1
+288992,4 Aug 2023,v Fire,Southampton,2,0,0,0,0,0
+288992,16 Aug 2023,v Phoenix,Southampton,1,0,0,0,0,0
+288992,19 Aug 2023,v Invincibles,Southampton,1,0,0,0,0,0
+288992,23 Aug 2023,v Originals,Manchester,1,0,0,0,0,0
+288992,26 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+288992,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+288992,11 Dec 2023,v Sixers,Launceston,2,0,0,0,0,0
+288992,20 Dec 2023,v Scorchers,Perth,2,0,0,0,0,0
+288992,23 Dec 2023,v Renegades,Hobart,1,0,0,0,0,0
+288992,28 Dec 2023,v Stars,Hobart,2,0,0,0,0,0
+288992,1 Jan 2024,v Thunder,Hobart,1,0,0,0,0,0
+288992,4 Jan 2024,v Renegades,Melbourne (Docklands),1,2,2,0,0,2
+288992,7 Jan 2024,v Heat,Brisbane,1,0,0,0,0,0
+288992,9 Jan 2024,v Strikers,Adelaide,2,0,0,0,0,0
+288992,11 Jan 2024,v Strikers,Hobart,2,0,0,0,0,0
+288992,15 Jan 2024,v Stars,Melbourne,2,0,0,0,0,0
+288992,19 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+288992,21 Jan 2024,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+288992,24 Jan 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+288992,27 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+288992,3 Feb 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+288992,4 Feb 2024,v Warriors,Dubai (DICS),2,2,2,0,0,2
+288992,6 Feb 2024,v DC,Dubai (DICS),2,2,2,0,0,2
+288992,8 Feb 2024,v MI Emirates,Dubai (DICS),2,1,1,0,0,1
+288992,10 Feb 2024,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+288992,14 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+288992,15 Feb 2024,v DC,Sharjah,2,0,0,0,0,0
+288992,3 Mar 2024,v Kings,Karachi,2,1,1,0,0,1
+288992,5 Mar 2024,v Zalmi,Rawalpindi,1,0,0,0,0,0
+288992,10 Mar 2024,v United,Rawalpindi,2,0,0,0,0,0
+288992,12 Mar 2024,v Gladiators,Karachi,2,2,2,0,0,2
+288992,14 Mar 2024,v Zalmi,Karachi,1,0,0,0,0,0
+288992,18 Mar 2024,v United,Karachi,2,0,0,0,0,0
+288992,25 May 2024,v Pakistan,Birmingham,2,2,2,0,0,2
+288992,30 May 2024,v Pakistan,The Oval,1,1,1,0,0,1
+288992,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+288992,8 Jun 2024,v Australia,Bridgetown,1,0,0,0,0,0
+288992,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+288992,23 Jun 2024,v U.S.A.,Bridgetown,1,1,1,0,0,1
+288992,27 Jun 2024,v India,Providence,1,1,1,0,0,1
+288992,7 Jul 2024,v Kent,The Oval,2,0,0,0,0,0
+288992,12 Jul 2024,v Somerset,Taunton,2,0,0,0,0,0
+288992,14 Jul 2024,v Essex,Chelmsford,2,1,1,0,0,1
+288992,18 Jul 2024,v Hampshire,The Oval,1,1,1,0,0,1
+288992,19 Jul 2024,v Kent,Canterbury,1,0,0,0,0,0
+288992,24 Jul 2024,v Spirit,Southampton,1,0,0,0,0,0
+288992,30 Jul 2024,v N S-Chargers,Leeds,2,0,0,0,0,0
+288992,1 Aug 2024,v Originals,Southampton,1,1,1,0,0,1
+288992,3 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+288992,5 Aug 2024,v Fire,Cardiff,2,0,0,0,0,0
+288992,8 Aug 2024,v Invincibles,The Oval,2,0,0,0,0,0
+288992,10 Aug 2024,v Rockets,Southampton,1,1,1,0,0,1
+288992,14 Aug 2024,v Fire,Southampton,1,3,3,0,0,3
+288992,17 Aug 2024,v Phoenix,The Oval,2,0,0,0,0,0
+288992,18 Aug 2024,v Invincibles,Lord's,1,1,1,0,0,1
+288992,3 Sep 2024,v Durham,The Oval,1,1,1,0,0,1
+288992,14 Sep 2024,v Somerset,Birmingham,2,0,0,0,0,0
+288992,19 Sep 2024,v Falcons,Port of Spain,2,0,0,0,0,0
+288992,22 Sep 2024,v Patriots,Tarouba,1,1,1,0,0,1
+288992,24 Sep 2024,v Kings,Tarouba,1,2,2,0,0,2
+288992,27 Sep 2024,v Royals,Tarouba,2,0,0,0,0,0
+288992,1 Oct 2024,v Royals,Providence,2,0,0,0,0,0
+288992,19 Dec 2024,v Renegades,Geelong,2,0,0,0,0,0
+288992,21 Dec 2024,v Scorchers,Hobart,1,0,0,0,0,0
+288992,27 Dec 2024,v Strikers,Adelaide,2,0,0,0,0,0
+288992,1 Jan 2025,v Sixers,Hobart,2,1,1,0,0,1
+288992,5 Jan 2025,v Strikers,Hobart,1,0,0,0,0,0
+288992,10 Jan 2025,v Thunder,Hobart,1,0,0,0,0,0
+288992,19 Jan 2025,v Stars,Melbourne,1,1,1,0,0,1
+288992,21 Jan 2025,v Sixers,Hobart,2,1,1,0,0,1
+288992,27 Jan 2025,v Thunder,Hobart,1,0,0,0,0,0
+288992,29 Jan 2025,v Vipers,Dubai (DICS),2,1,1,0,0,1
+288992,31 Jan 2025,v MI Emirates,Dubai (DICS),2,0,0,0,0,0
+288992,1 Feb 2025,v KnightRiders,Abu Dhabi,1,2,2,0,0,2
+288992,12 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+288992,16 Apr 2025,v United,Rawalpindi,1,0,0,0,0,0
+288992,23 Apr 2025,v United,Multan,2,0,0,0,0,0
+288992,1 May 2025,v Kings,Lahore,1,2,2,0,0,2
+288992,30 May 2025,v Somerset,Taunton,2,1,1,0,0,1
+288992,3 Jun 2025,v Glamorgan,Cardiff,2,2,2,0,0,2
+288992,5 Jun 2025,v Hampshire,The Oval,2,0,0,0,0,0
+288992,6 Jun 2025,v Kent,Canterbury,2,2,2,0,0,2
+288992,12 Jun 2025,v Kent,The Oval,1,0,0,0,0,0
+288992,17 Jun 2025,v Hampshire,Southampton,2,2,2,0,0,2
+288992,18 Jun 2025,v Sussex,The Oval,2,0,0,0,0,0
+288992,20 Jun 2025,v Middlesex,The Oval,2,0,0,0,0,0
+288992,6 Jul 2025,v Essex,The Oval,2,1,1,0,0,1
+288992,9 Jul 2025,v Gloucs,Bristol,2,0,0,0,0,0
+288992,11 Jul 2025,v Glamorgan,The Oval,1,0,0,0,0,0
+288992,13 Jul 2025,v Somerset,The Oval,2,0,0,0,0,0
+288992,16 Jul 2025,v Middlesex,Lord's,2,0,0,0,0,0
+288992,18 Jul 2025,v Sussex,Hove,2,0,0,0,0,0
+288992,6 Aug 2025,v Originals,Manchester,1,1,1,0,0,1
+288992,10 Aug 2025,v Phoenix,Southampton,1,0,0,0,0,0
+288992,13 Aug 2025,v N S-Chargers,Southampton,2,2,2,0,0,2
+288992,20 Aug 2025,v Fire,Cardiff,2,1,1,0,0,1
+288992,3 Sep 2025,v Northants,The Oval,1,1,1,0,0,1
+288992,16 Dec 2025,v Thunder,Hobart,1,1,1,0,0,1
+288992,18 Dec 2025,v Stars,Melbourne,2,0,0,0,0,0
+288992,21 Dec 2025,v Renegades,Geelong,1,0,0,0,0,0
+288992,26 Dec 2025,v Scorchers,Perth,1,2,2,0,0,2
+288992,29 Dec 2025,v Renegades,Hobart,1,0,0,0,0,0
+288992,1 Jan 2026,v Scorchers,Hobart,1,0,0,0,0,0
+288992,3 Jan 2026,v Thunder,Sydney,1,0,0,0,0,0
+288992,9 Jan 2026,v Strikers,Hobart,2,0,0,0,0,0
+288992,11 Jan 2026,v Sixers,Sydney,1,0,0,0,0,0
+288992,14 Jan 2026,v Heat,Hobart,1,0,0,0,0,0
+288992,21 Jan 2026,v Stars,Hobart,2,0,0,0,0,0
+288992,23 Jan 2026,v Sixers,Sydney,1,1,1,0,0,1

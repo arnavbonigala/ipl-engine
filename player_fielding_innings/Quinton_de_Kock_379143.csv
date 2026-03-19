@@ -1,0 +1,440 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+379143,2 Oct 2011,v Griq West,Kimberley,1,1,1,0,1,0
+379143,23 Oct 2011,v Namibia,Windhoek,1,0,0,0,0,0
+379143,30 Oct 2011,v North West,Johannesburg,1,1,1,0,1,0
+379143,17 Dec 2011,v Free State,Johannesburg,1,0,0,0,0,0
+379143,29 Dec 2011,v Easterns,Johannesburg,1,2,2,0,2,0
+379143,17 Feb 2012,v Impi,Potchefstroom,2,1,1,0,0,1
+379143,22 Feb 2012,v Warriors,Gqeberha,1,0,0,0,0,0
+379143,24 Feb 2012,v Cape Cobras,Johannesburg,1,1,1,0,0,1
+379143,26 Feb 2012,v Knights,Bloemfontein,2,1,1,0,0,1
+379143,2 Mar 2012,v Titans,Centurion,1,2,2,0,0,2
+379143,7 Mar 2012,v Knights,Potchefstroom,1,1,1,0,0,1
+379143,9 Mar 2012,v Cape Cobras,Cape Town,1,1,1,0,0,1
+379143,11 Mar 2012,v Titans,Johannesburg,2,0,0,0,0,0
+379143,14 Mar 2012,v Warriors,Johannesburg,2,0,0,0,0,0
+379143,16 Mar 2012,v Dolphins,Johannesburg,-,TDNF,-,-,-,-
+379143,21 Mar 2012,v Impi,Benoni,1,0,0,0,0,0
+379143,1 Apr 2012,v Titans,Johannesburg,1,0,0,0,0,0
+379143,14 Oct 2012,v MI,Johannesburg,1,0,0,0,0,0
+379143,16 Oct 2012,v CSK,Cape Town,1,0,0,0,0,0
+379143,18 Oct 2012,v Sixers,Cape Town,2,1,1,0,0,1
+379143,20 Oct 2012,v Yorkshire,Johannesburg,1,0,0,0,0,0
+379143,25 Oct 2012,v Daredevils,Durban,2,1,1,0,0,1
+379143,28 Oct 2012,v Sixers,Johannesburg,2,0,0,0,0,0
+379143,21 Dec 2012,v New Zealand,Durban,1,2,2,0,2,0
+379143,23 Dec 2012,v New Zealand,East London,2,0,0,0,0,0
+379143,26 Dec 2012,v New Zealand,Gqeberha,2,1,1,0,1,0
+379143,17 Feb 2013,v Cape Cobras,Potchefstroom,1,1,0,1,0,0
+379143,20 Feb 2013,v Titans,Johannesburg,1,1,1,0,1,0
+379143,22 Feb 2013,v Dolphins,Durban,2,1,1,0,1,0
+379143,24 Feb 2013,v Warriors,Potchefstroom,2,0,0,0,0,0
+379143,2 Mar 2013,v Knights,Johannesburg,1,0,0,0,0,0
+379143,8 Mar 2013,v Cape Cobras,Cape Town,1,0,0,0,0,0
+379143,12 Mar 2013,v Knights,Kimberley,1,2,1,1,1,0
+379143,19 Mar 2013,v Titans,Centurion,1,1,1,0,1,0
+379143,22 Mar 2013,v Warriors,East London,1,0,0,0,0,0
+379143,28 Mar 2013,v Dolphins,Johannesburg,2,2,1,1,1,0
+379143,7 Apr 2013,v Titans,Johannesburg,2,1,1,0,1,0
+379143,17 Apr 2013,v Warriors,Pune,2,1,1,0,0,1
+379143,19 Apr 2013,v Kings XI,Hyderabad,1,1,1,0,1,0
+379143,25 Apr 2013,v CSK,Chennai,2,2,1,1,1,0
+379143,2 Aug 2013,v Sri Lanka,Colombo (RPS),2,2,2,0,2,0
+379143,4 Aug 2013,v Sri Lanka,Hambantota,2,3,3,0,3,0
+379143,6 Aug 2013,v Sri Lanka,Hambantota,2,1,0,1,0,0
+379143,23 Sep 2013,v Scorchers,Ahmedabad,-,TDNF,-,-,-,-
+379143,25 Sep 2013,v RR,Jaipur,1,0,0,0,0,0
+379143,27 Sep 2013,v MI,Jaipur,2,0,0,0,0,0
+379143,29 Sep 2013,v Otago,Jaipur,2,1,1,0,1,0
+379143,13 Nov 2013,v Pakistan,Dubai (DICS),1,4,2,2,2,0
+379143,15 Nov 2013,v Pakistan,Dubai (DICS),2,1,1,0,1,0
+379143,20 Nov 2013,v Pakistan,Johannesburg,2,0,0,0,0,0
+379143,22 Nov 2013,v Pakistan,Cape Town,1,1,0,1,0,0
+379143,5 Jan 2014,v Warriors,Cape Town,1,0,0,0,0,0
+379143,12 Jan 2014,v Knights,Bloemfontein,2,0,0,0,0,0
+379143,15 Jan 2014,v Cape Cobras,Paarl,1,0,0,0,0,0
+379143,17 Jan 2014,v Titans,Potchefstroom,1,0,0,0,0,0
+379143,19 Jan 2014,v Warriors,East London,1,0,0,0,0,0
+379143,22 Jan 2014,v Dolphins,Durban,1,0,0,0,0,0
+379143,24 Jan 2014,v Knights,Potchefstroom,-,TDNF,-,-,-,-
+379143,26 Jan 2014,v Titans,Benoni,2,1,0,1,0,0
+379143,31 Jan 2014,v Cape Cobras,Johannesburg,2,1,0,1,0,0
+379143,2 Feb 2014,v Dolphins,Johannesburg,2,1,1,0,1,0
+379143,12 Mar 2014,v Australia,Durban,2,0,0,0,0,0
+379143,14 Mar 2014,v Australia,Centurion,2,0,0,0,0,0
+379143,22 Mar 2014,v Sri Lanka,Chattogram,1,1,0,1,0,0
+379143,24 Mar 2014,v New Zealand,Chattogram,2,3,2,1,2,0
+379143,27 Mar 2014,v Netherlands,Chattogram,2,2,2,0,2,0
+379143,29 Mar 2014,v England,Chattogram,2,2,2,0,2,0
+379143,4 Apr 2014,v India,Mirpur,2,0,0,0,0,0
+379143,25 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+379143,27 Apr 2014,v MI,Sharjah,1,2,2,0,0,2
+379143,3 May 2014,v RR,Delhi,2,0,0,0,0,0
+379143,5 May 2014,v CSK,Delhi,2,0,0,0,0,0
+379143,7 May 2014,v KKR,Delhi,2,0,0,0,0,0
+379143,10 May 2014,v SRH,Delhi,2,0,0,0,0,0
+379143,13 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+379143,2 Nov 2014,v CA XI,North Sydney,1,0,0,0,0,0
+379143,5 Nov 2014,v Australia,Adelaide,1,1,1,0,1,0
+379143,7 Nov 2014,v Australia,Melbourne,2,0,0,0,0,0
+379143,9 Nov 2014,v Australia,Sydney,2,0,0,0,0,0
+379143,30 Nov 2014,v Dolphins,Bloemfontein,2,0,0,0,0,0
+379143,3 Dec 2014,v Knights,Kimberley,1,3,2,1,2,0
+379143,7 Dec 2014,v Knights,Johannesburg,2,0,0,0,0,0
+379143,9 May 2015,v SRH,Raipur,1,0,0,0,0,0
+379143,12 May 2015,v CSK,Raipur,1,0,0,0,0,0
+379143,17 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+379143,5 Jul 2015,v Bangladesh,Mirpur,2,2,2,0,2,0
+379143,7 Jul 2015,v Bangladesh,Mirpur,2,1,0,1,0,0
+379143,4 Sep 2015,v W Province,Benoni,1,1,0,1,0,0
+379143,6 Sep 2015,v Northerns,Benoni,2,1,1,0,1,0
+379143,1 Nov 2015,v Dolphins,Centurion,1,0,0,0,0,0
+379143,6 Nov 2015,v Lions,Potchefstroom,1,2,2,0,2,0
+379143,8 Nov 2015,v Cape Cobras,Centurion,2,0,0,0,0,0
+379143,13 Nov 2015,v Knights,Bloemfontein,2,0,0,0,0,0
+379143,15 Nov 2015,v Warriors,Centurion,1,3,2,1,2,0
+379143,18 Nov 2015,v Dolphins,Durban,2,2,2,0,2,0
+379143,20 Nov 2015,v Cape Cobras,Cape Town,2,0,0,0,0,0
+379143,28 Nov 2015,v Warriors,Gqeberha,2,1,1,0,1,0
+379143,4 Dec 2015,v Lions,Benoni,2,3,3,0,3,0
+379143,6 Dec 2015,v Knights,Benoni,2,1,1,0,1,0
+379143,12 Dec 2015,v Dolphins,Centurion,1,0,0,0,0,0
+379143,4 Mar 2016,v Australia,Durban,1,1,1,0,1,0
+379143,6 Mar 2016,v Australia,Johannesburg,2,0,0,0,0,0
+379143,9 Mar 2016,v Australia,Cape Town,2,1,1,0,1,0
+379143,18 Mar 2016,v England,Wankhede,2,2,1,1,1,0
+379143,20 Mar 2016,v Afghanistan,Wankhede,2,4,3,1,3,0
+379143,25 Mar 2016,v West Indies,Nagpur,2,0,0,0,0,0
+379143,28 Mar 2016,v Sri Lanka,Delhi,1,1,1,0,1,0
+379143,10 Apr 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+379143,15 Apr 2016,v Kings XI,Delhi,1,1,0,1,0,0
+379143,17 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+379143,23 Apr 2016,v MI,Delhi,2,0,0,0,0,0
+379143,27 Apr 2016,v Guj Lions,Delhi,1,1,1,0,1,0
+379143,30 Apr 2016,v KKR,Delhi,2,0,0,0,0,0
+379143,3 May 2016,v Guj Lions,Rajkot,1,1,0,1,0,0
+379143,7 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+379143,12 May 2016,v SRH,Hyderabad,1,0,0,0,0,0
+379143,15 May 2016,v MI,Visakhapatnam,1,1,1,0,1,0
+379143,17 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+379143,20 May 2016,v SRH,Raipur,1,0,0,0,0,0
+379143,22 May 2016,v RCB,Raipur,2,0,0,0,0,0
+379143,17 Feb 2017,v New Zealand,Auckland,2,3,3,0,3,0
+379143,26 Oct 2017,v Bangladesh,Bloemfontein,2,0,0,0,0,0
+379143,12 Nov 2017,v Lions,Centurion,1,1,1,0,1,0
+379143,15 Nov 2017,v Knights,Kimberley,2,1,1,0,1,0
+379143,17 Nov 2017,v Warriors,East London,2,0,0,0,0,0
+379143,19 Nov 2017,v Cape Cobras,Centurion,1,0,0,0,0,0
+379143,3 Dec 2017,v Knights,Gqeberha,1,2,2,0,2,0
+379143,8 Dec 2017,v Cape Cobras,Cape Town,2,3,2,1,2,0
+379143,13 Dec 2017,v Warriors,Centurion,1,0,0,0,0,0
+379143,16 Dec 2017,v Dolphins,Centurion,1,1,1,0,1,0
+379143,8 Apr 2018,v KKR,Eden Gardens,2,1,1,0,1,0
+379143,13 Apr 2018,v Kings XI,Bengaluru,1,3,1,2,1,0
+379143,15 Apr 2018,v RR,Bengaluru,1,1,1,0,1,0
+379143,17 Apr 2018,v MI,Wankhede,1,1,1,0,1,0
+379143,21 Apr 2018,v Daredevils,Bengaluru,1,0,0,0,0,0
+379143,25 Apr 2018,v CSK,Bengaluru,2,1,0,1,0,0
+379143,29 Apr 2018,v KKR,Bengaluru,2,1,1,0,1,0
+379143,1 May 2018,v MI,Bengaluru,2,2,2,0,2,0
+379143,14 Aug 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+379143,9 Oct 2018,v Zimbabwe,East London,2,2,2,0,2,0
+379143,12 Oct 2018,v Zimbabwe,Potchefstroom,1,2,2,0,2,0
+379143,17 Nov 2018,v Australia,Carrara,2,1,1,0,1,0
+379143,21 Nov 2018,v Giants,Cape Town,2,1,1,0,1,0
+379143,24 Nov 2018,v Jozi Stars,Johannesburg,2,2,0,2,0,0
+379143,25 Nov 2018,v Paarl Rocks,Paarl,2,0,0,0,0,0
+379143,1 Dec 2018,v Spartans,Centurion,2,0,0,0,0,0
+379143,4 Dec 2018,v Jozi Stars,Cape Town,1,1,1,0,0,1
+379143,7 Dec 2018,v Paarl Rocks,Cape Town,1,1,1,0,1,0
+379143,9 Dec 2018,v Durban Heat,Cape Town,2,0,0,0,0,0
+379143,16 Dec 2018,v Jozi Stars,Cape Town,2,0,0,0,0,0
+379143,19 Mar 2019,v Sri Lanka,Cape Town,1,0,0,0,0,0
+379143,24 Mar 2019,v DC,Wankhede,1,2,2,0,2,0
+379143,28 Mar 2019,v RCB,Bengaluru,2,0,0,0,0,0
+379143,30 Mar 2019,v Kings XI,Mohali,2,0,0,0,0,0
+379143,3 Apr 2019,v CSK,Wankhede,2,4,4,0,4,0
+379143,6 Apr 2019,v SRH,Hyderabad,2,1,1,0,1,0
+379143,10 Apr 2019,v Kings XI,Wankhede,1,2,2,0,2,0
+379143,13 Apr 2019,v RR,Wankhede,2,0,0,0,0,0
+379143,15 Apr 2019,v RCB,Wankhede,1,3,3,0,3,0
+379143,18 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+379143,20 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+379143,26 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+379143,28 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+379143,2 May 2019,v SRH,Wankhede,2,1,1,0,1,0
+379143,5 May 2019,v KKR,Wankhede,1,2,2,0,2,0
+379143,7 May 2019,v CSK,Chennai,1,1,0,1,0,0
+379143,12 May 2019,v CSK,Hyderabad,2,3,2,1,2,0
+379143,18 Sep 2019,v India,Mohali,2,0,0,0,0,0
+379143,22 Sep 2019,v India,Bengaluru,1,2,1,1,1,0
+379143,8 Nov 2019,v Jozi Stars,Johannesburg,2,1,1,0,1,0
+379143,10 Nov 2019,v Paarl Rocks,Paarl,1,1,0,1,0,0
+379143,14 Nov 2019,v Jozi Stars,Cape Town,2,2,2,0,2,0
+379143,17 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+379143,20 Nov 2019,v Giants,Gqeberha,2,0,0,0,0,0
+379143,24 Nov 2019,v Paarl Rocks,Cape Town,1,2,2,0,2,0
+379143,28 Nov 2019,v Durban Heat,Cape Town,2,0,0,0,0,0
+379143,1 Dec 2019,v Spartans,Cape Town,2,1,1,0,1,0
+379143,6 Dec 2019,v Giants,Cape Town,1,0,0,0,0,0
+379143,12 Feb 2020,v England,East London,2,0,0,0,0,0
+379143,14 Feb 2020,v England,Durban,1,1,1,0,1,0
+379143,16 Feb 2020,v England,Centurion,2,1,1,0,1,0
+379143,21 Feb 2020,v Australia,Johannesburg,1,1,0,1,0,0
+379143,23 Feb 2020,v Australia,Gqeberha,2,0,0,0,0,0
+379143,26 Feb 2020,v Australia,Cape Town,1,1,1,0,1,0
+379143,19 Sep 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+379143,23 Sep 2020,v KKR,Abu Dhabi,2,3,2,1,2,0
+379143,28 Sep 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+379143,1 Oct 2020,v Kings XI,Abu Dhabi,2,1,1,0,1,0
+379143,4 Oct 2020,v SRH,Sharjah,2,1,1,0,1,0
+379143,6 Oct 2020,v RR,Abu Dhabi,2,3,3,0,3,0
+379143,11 Oct 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+379143,16 Oct 2020,v KKR,Abu Dhabi,1,2,2,0,2,0
+379143,18 Oct 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+379143,23 Oct 2020,v CSK,Sharjah,1,4,3,1,3,0
+379143,25 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+379143,28 Oct 2020,v RCB,Abu Dhabi,1,1,0,1,0,0
+379143,31 Oct 2020,v DC,Dubai (DICS),1,3,2,1,2,0
+379143,3 Nov 2020,v SRH,Sharjah,2,0,0,0,0,0
+379143,5 Nov 2020,v DC,Dubai (DICS),2,2,2,0,2,0
+379143,10 Nov 2020,v DC,Dubai (DICS),1,2,2,0,2,0
+379143,27 Nov 2020,v England,Cape Town,2,1,1,0,1,0
+379143,29 Nov 2020,v England,Paarl,2,1,1,0,1,0
+379143,1 Dec 2020,v England,Cape Town,2,0,0,0,0,0
+379143,13 Apr 2021,v KKR,Chennai,2,2,1,1,1,0
+379143,17 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+379143,20 Apr 2021,v DC,Chennai,2,0,0,0,0,0
+379143,23 Apr 2021,v Punjab Kings,Chennai,2,0,0,0,0,0
+379143,29 Apr 2021,v RR,Delhi,1,1,0,1,0,0
+379143,1 May 2021,v CSK,Delhi,1,1,1,0,1,0
+379143,26 Jun 2021,v West Indies,St George's,2,0,0,0,0,0
+379143,27 Jun 2021,v West Indies,St George's,2,0,0,0,0,0
+379143,29 Jun 2021,v West Indies,St George's,2,1,1,0,1,0
+379143,1 Jul 2021,v West Indies,St George's,1,2,2,0,2,0
+379143,3 Jul 2021,v West Indies,St George's,2,2,2,0,2,0
+379143,19 Jul 2021,v Ireland,Dublin (Malahide),2,3,2,1,2,0
+379143,22 Jul 2021,v Ireland,Belfast,2,2,1,1,1,0
+379143,27 Jul 2021,v Fire,Cardiff,1,0,0,0,0,0
+379143,30 Jul 2021,v Phoenix,Southampton,1,1,0,1,0,0
+379143,1 Aug 2021,v Spirit,Lord's,2,3,3,0,3,0
+379143,5 Aug 2021,v Originals,Manchester,1,1,1,0,1,0
+379143,7 Aug 2021,v N S-Chargers,Southampton,1,1,1,0,1,0
+379143,11 Aug 2021,v Fire,Southampton,1,0,0,0,0,0
+379143,16 Aug 2021,v Invincibles,Southampton,1,2,2,0,2,0
+379143,20 Aug 2021,v Rockets,The Oval,1,4,4,0,4,0
+379143,21 Aug 2021,v Phoenix,Lord's,2,0,0,0,0,0
+379143,10 Sep 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+379143,12 Sep 2021,v Sri Lanka,Colombo (RPS),1,1,0,1,0,0
+379143,14 Sep 2021,v Sri Lanka,Colombo (RPS),1,1,0,1,0,0
+379143,19 Sep 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+379143,23 Sep 2021,v KKR,Abu Dhabi,2,0,0,0,0,0
+379143,26 Sep 2021,v RCB,Dubai (DICS),1,2,2,0,2,0
+379143,28 Sep 2021,v Punjab Kings,Abu Dhabi,1,0,0,0,0,0
+379143,2 Oct 2021,v DC,Sharjah,2,0,0,0,0,0
+379143,23 Oct 2021,v Australia,Abu Dhabi,2,0,0,0,0,0
+379143,30 Oct 2021,v Sri Lanka,Sharjah,1,0,0,0,0,0
+379143,2 Nov 2021,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+379143,6 Nov 2021,v England,Sharjah,2,0,0,0,0,0
+379143,7 Feb 2022,v Warriors,Gqeberha,1,2,2,0,2,0
+379143,9 Feb 2022,v Boland,Gqeberha,2,0,0,0,0,0
+379143,12 Feb 2022,v Knights,Gqeberha,2,1,0,1,0,0
+379143,14 Feb 2022,v Dolphins,Gqeberha,1,1,1,0,1,0
+379143,17 Feb 2022,v Lions,Gqeberha,1,1,1,0,1,0
+379143,19 Feb 2022,v W Province,Gqeberha,1,0,0,0,0,0
+379143,22 Feb 2022,v North West,Gqeberha,2,2,1,1,1,0
+379143,25 Feb 2022,v Dolphins,Gqeberha,1,1,1,0,1,0
+379143,27 Feb 2022,v Boland,Gqeberha,1,1,1,0,1,0
+379143,28 Mar 2022,v GT,Wankhede,2,0,0,0,0,0
+379143,31 Mar 2022,v CSK,Brabourne,1,0,0,0,0,0
+379143,4 Apr 2022,v SRH,DY Patil,2,2,2,0,2,0
+379143,7 Apr 2022,v DC,DY Patil,1,1,1,0,1,0
+379143,10 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+379143,16 Apr 2022,v MI,Brabourne,2,1,1,0,1,0
+379143,19 Apr 2022,v RCB,DY Patil,1,0,0,0,0,0
+379143,24 Apr 2022,v MI,Wankhede,2,0,0,0,0,0
+379143,29 Apr 2022,v Punjab Kings,Pune,2,1,1,0,1,0
+379143,1 May 2022,v DC,Wankhede,2,1,1,0,1,0
+379143,7 May 2022,v KKR,Pune,2,2,2,0,2,0
+379143,10 May 2022,v GT,Pune,1,2,2,0,2,0
+379143,15 May 2022,v RR,Brabourne,1,0,0,0,0,0
+379143,18 May 2022,v KKR,DY Patil,2,2,1,1,1,0
+379143,25 May 2022,v RCB,Eden Gardens,1,1,1,0,1,0
+379143,9 Jun 2022,v India,Delhi,1,0,0,0,0,0
+379143,17 Jun 2022,v India,Rajkot,1,2,2,0,2,0
+379143,19 Jun 2022,v India,Bengaluru,1,0,0,0,0,0
+379143,27 Jul 2022,v England,Bristol,1,3,3,0,3,0
+379143,28 Jul 2022,v England,Cardiff,2,4,4,0,4,0
+379143,31 Jul 2022,v England,Southampton,2,1,1,0,1,0
+379143,3 Aug 2022,v Ireland,Bristol,2,1,1,0,1,0
+379143,5 Aug 2022,v Ireland,Bristol,2,2,2,0,2,0
+379143,10 Aug 2022,v Phoenix,Birmingham,1,1,1,0,1,0
+379143,12 Aug 2022,v Spirit,Southampton,1,0,0,0,0,0
+379143,14 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+379143,18 Aug 2022,v Originals,Southampton,1,0,0,0,0,0
+379143,22 Aug 2022,v Fire,Cardiff,1,2,2,0,2,0
+379143,25 Aug 2022,v Rockets,Southampton,1,0,0,0,0,0
+379143,31 Aug 2022,v N S-Chargers,Leeds,1,0,0,0,0,0
+379143,4 Sep 2022,v Kings,Basseterre,2,0,0,0,0,0
+379143,7 Sep 2022,v Trinbago,Gros Islet,2,3,3,0,3,0
+379143,8 Sep 2022,v Kings,Gros Islet,1,0,0,0,0,0
+379143,11 Sep 2022,v Tallawahs,Gros Islet,1,0,0,0,0,0
+379143,13 Sep 2022,v Trinbago,Port of Spain,1,1,1,0,1,0
+379143,15 Sep 2022,v Tallawahs,Port of Spain,2,0,0,0,0,0
+379143,18 Sep 2022,v Amazon,Tarouba,2,0,0,0,0,0
+379143,28 Sep 2022,v India,Thiruvananthapuram,2,2,2,0,2,0
+379143,2 Oct 2022,v India,Guwahati,1,0,0,0,0,0
+379143,4 Oct 2022,v India,Indore,2,1,1,0,1,0
+379143,24 Oct 2022,v Zimbabwe,Hobart,1,3,3,0,3,0
+379143,27 Oct 2022,v Bangladesh,Sydney,2,2,1,1,1,0
+379143,30 Oct 2022,v India,Perth,1,1,1,0,1,0
+379143,3 Nov 2022,v Pakistan,Sydney,1,0,0,0,0,0
+379143,6 Nov 2022,v Netherlands,Adelaide,1,1,1,0,1,0
+379143,11 Jan 2023,v Super Kings,Durban,1,0,0,0,0,0
+379143,13 Jan 2023,v MI Cape Town,Cape Town,1,1,1,0,1,0
+379143,15 Jan 2023,v Paarl Royals,Durban,2,0,0,0,0,0
+379143,17 Jan 2023,v Paarl Royals,Paarl,1,2,1,1,1,0
+379143,20 Jan 2023,v Capitals,Durban,2,0,0,0,0,0
+379143,22 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+379143,24 Jan 2023,v Super Kings,Johannesburg,2,1,1,0,1,0
+379143,2 Feb 2023,v MI Cape Town,Durban,1,1,1,0,0,1
+379143,3 Feb 2023,v Sunrisers,Durban,1,0,0,0,0,0
+379143,5 Feb 2023,v Capitals,Centurion,2,1,1,0,0,1
+379143,25 Mar 2023,v West Indies,Centurion,2,3,3,0,3,0
+379143,26 Mar 2023,v West Indies,Centurion,1,1,1,0,1,0
+379143,28 Mar 2023,v West Indies,Johannesburg,1,1,1,0,1,0
+379143,7 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+379143,13 May 2023,v SRH,Hyderabad,1,3,2,1,2,0
+379143,16 May 2023,v MI,Lucknow,2,0,0,0,0,0
+379143,20 May 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+379143,10 Dec 2023,v Scorchers,Geelong,1,1,1,0,1,0
+379143,21 Dec 2023,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+379143,23 Dec 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+379143,26 Dec 2023,v Scorchers,Perth,1,0,0,0,0,0
+379143,29 Dec 2023,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+379143,2 Jan 2024,v Stars,Melbourne,2,0,0,0,0,0
+379143,4 Jan 2024,v Hurricanes,Melbourne (Docklands),2,0,0,0,0,0
+379143,11 Jan 2024,v MI Cape Town,Durban,1,1,1,0,1,0
+379143,13 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+379143,15 Jan 2024,v Super Kings,Durban,2,0,0,0,0,0
+379143,18 Jan 2024,v Capitals,Centurion,1,0,0,0,0,0
+379143,20 Jan 2024,v Sunrisers,Durban,2,1,1,0,1,0
+379143,23 Jan 2024,v MI Cape Town,Cape Town,2,2,2,0,2,0
+379143,26 Jan 2024,v Paarl Royals,Paarl,2,1,1,0,1,0
+379143,28 Jan 2024,v Paarl Royals,Durban,2,3,2,1,2,0
+379143,30 Jan 2024,v Capitals,Durban,2,0,0,0,0,0
+379143,6 Feb 2024,v Sunrisers,Cape Town,1,1,1,0,0,1
+379143,8 Feb 2024,v Super Kings,Johannesburg,2,2,2,0,2,0
+379143,10 Feb 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+379143,24 Mar 2024,v RR,Jaipur,1,0,0,0,0,0
+379143,30 Mar 2024,v Punjab Kings,Lucknow,2,1,1,0,1,0
+379143,2 Apr 2024,v RCB,Bengaluru,2,0,0,0,0,0
+379143,7 Apr 2024,v GT,Lucknow,2,2,2,0,0,2
+379143,12 Apr 2024,v DC,Lucknow,2,0,0,0,0,0
+379143,14 Apr 2024,v KKR,Eden Gardens,2,0,0,0,0,0
+379143,19 Apr 2024,v CSK,Lucknow,1,0,0,0,0,0
+379143,23 Apr 2024,v CSK,Chennai,1,0,0,0,0,0
+379143,27 Apr 2024,v RR,Lucknow,2,0,0,0,0,0
+379143,8 May 2024,v SRH,Hyderabad,2,0,0,0,0,0
+379143,14 May 2024,v DC,Delhi,1,0,0,0,0,0
+379143,23 May 2024,v West Indies,Kingston,1,0,0,0,0,0
+379143,25 May 2024,v West Indies,Kingston,1,1,1,0,1,0
+379143,26 May 2024,v West Indies,Kingston,2,1,1,0,1,0
+379143,3 Jun 2024,v Sri Lanka,New York,1,1,0,1,0,0
+379143,8 Jun 2024,v Netherlands,New York,1,1,1,0,1,0
+379143,10 Jun 2024,v Bangladesh,New York,2,1,1,0,1,0
+379143,14 Jun 2024,v Nepal,Kingstown,2,1,1,0,1,0
+379143,19 Jun 2024,v U.S.A.,North Sound,2,1,1,0,1,0
+379143,21 Jun 2024,v England,Gros Islet,2,0,0,0,0,0
+379143,23 Jun 2024,v West Indies,North Sound,1,1,0,1,0,0
+379143,26 Jun 2024,v Afghanistan,Tarouba,1,1,1,0,1,0
+379143,29 Jun 2024,v India,Bridgetown,1,1,1,0,1,0
+379143,5 Jul 2024,v MI New York,Morrisville,2,2,2,0,2,0
+379143,9 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+379143,11 Jul 2024,v Washington,Dallas,2,0,0,0,0,0
+379143,15 Jul 2024,v SF,Morrisville,1,0,0,0,0,0
+379143,17 Jul 2024,v Los Angeles,Morrisville,2,1,1,0,1,0
+379143,20 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+379143,23 Jul 2024,v Texas,Dallas,1,1,1,0,1,0
+379143,1 Sep 2024,v Falcons,North Sound,1,2,1,1,1,0
+379143,6 Sep 2024,v Patriots,Basseterre,1,0,0,0,0,0
+379143,11 Sep 2024,v Falcons,Bridgetown,1,3,2,1,2,0
+379143,13 Sep 2024,v Trinbago,Bridgetown,2,0,0,0,0,0
+379143,14 Sep 2024,v Amazon,Bridgetown,2,0,0,0,0,0
+379143,17 Sep 2024,v Patriots,Bridgetown,1,2,1,1,1,0
+379143,21 Sep 2024,v Kings,Providence,2,1,0,1,0,0
+379143,22 Sep 2024,v Kings,Providence,1,2,0,2,0,0
+379143,25 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+379143,27 Sep 2024,v Trinbago,Tarouba,1,3,3,0,3,0
+379143,1 Oct 2024,v Trinbago,Providence,1,0,0,0,0,0
+379143,4 Oct 2024,v Amazon,Providence,2,0,0,0,0,0
+379143,10 Jan 2025,v Capitals,Durban,2,0,0,0,0,0
+379143,12 Jan 2025,v Capitals,Centurion,-,TDNF,-,-,-,-
+379143,14 Jan 2025,v Super Kings,Durban,1,1,1,0,1,0
+379143,17 Jan 2025,v Sunrisers,Durban,1,1,1,0,1,0
+379143,19 Jan 2025,v Sunrisers,Gqeberha,2,1,1,0,1,0
+379143,21 Jan 2025,v MI Cape Town,Durban,1,0,0,0,0,0
+379143,23 Jan 2025,v Paarl Royals,Durban,2,0,0,0,0,0
+379143,25 Jan 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+379143,27 Jan 2025,v Paarl Royals,Paarl,2,1,1,0,1,0
+379143,1 Feb 2025,v Super Kings,Johannesburg,2,3,3,0,3,0
+379143,22 Mar 2025,v RCB,Eden Gardens,2,0,0,0,0,0
+379143,26 Mar 2025,v RR,Guwahati,1,1,1,0,1,0
+379143,31 Mar 2025,v MI,Wankhede,2,0,0,0,0,0
+379143,3 Apr 2025,v SRH,Eden Gardens,2,0,0,0,0,0
+379143,8 Apr 2025,v LSG,Eden Gardens,1,0,0,0,0,0
+379143,11 Apr 2025,v CSK,Chennai,1,1,1,0,1,0
+379143,15 Apr 2025,v Punjab Kings,New Chandigarh,1,1,1,0,1,0
+379143,25 May 2025,v SRH,Delhi,1,0,0,0,0,0
+379143,13 Jun 2025,v Texas,Oakland,1,1,1,0,1,0
+379143,15 Jun 2025,v SF,Oakland,2,4,4,0,4,0
+379143,18 Jun 2025,v Seattle,Oakland,1,1,1,0,1,0
+379143,21 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+379143,23 Jun 2025,v SF,Dallas,1,0,0,0,0,0
+379143,27 Jun 2025,v Seattle,Dallas,2,1,1,0,1,0
+379143,29 Jun 2025,v Texas,Dallas,1,0,0,0,0,0
+379143,3 Jul 2025,v Los Angeles,Lauderhill,1,0,0,0,0,0
+379143,5 Jul 2025,v Los Angeles,Lauderhill,2,0,0,0,0,0
+379143,9 Jul 2025,v SF,Dallas,1,3,3,0,3,0
+379143,11 Jul 2025,v Texas,Dallas,1,1,1,0,1,0
+379143,13 Jul 2025,v Washington,Dallas,2,0,0,0,0,0
+379143,16 Aug 2025,v Falcons,North Sound,2,1,1,0,1,0
+379143,21 Aug 2025,v Patriots,Basseterre,1,1,1,0,1,0
+379143,24 Aug 2025,v Kings,Gros Islet,-,TDNF,-,-,-,-
+379143,29 Aug 2025,v Trinbago,Tarouba,2,0,0,0,0,0
+379143,4 Sep 2025,v Amazon,Bridgetown,2,2,2,0,2,0
+379143,5 Sep 2025,v Falcons,Bridgetown,2,0,0,0,0,0
+379143,7 Sep 2025,v Kings,Bridgetown,2,1,1,0,1,0
+379143,11 Sep 2025,v Patriots,Bridgetown,1,0,0,0,0,0
+379143,12 Sep 2025,v Trinbago,Bridgetown,1,1,1,0,1,0
+379143,14 Sep 2025,v Amazon,Providence,1,2,2,0,2,0
+379143,11 Oct 2025,v Namibia,Windhoek,2,0,0,0,0,0
+379143,28 Oct 2025,v Pakistan,Rawalpindi,2,2,1,1,1,0
+379143,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+379143,1 Nov 2025,v Pakistan,Lahore,2,0,0,0,0,0
+379143,9 Dec 2025,v India,Cuttack,1,0,0,0,0,0
+379143,11 Dec 2025,v India,New Chandigarh,2,2,2,0,2,0
+379143,14 Dec 2025,v India,Dharamsala,2,0,0,0,0,0
+379143,19 Dec 2025,v India,Ahmedabad,1,1,1,0,1,0
+379143,27 Dec 2025,v Paarl Royals,Paarl,2,4,4,0,4,0
+379143,29 Dec 2025,v Capitals,Gqeberha,2,1,1,0,1,0
+379143,31 Dec 2025,v Paarl Royals,Gqeberha,2,2,2,0,2,0
+379143,3 Jan 2026,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+379143,5 Jan 2026,v Capitals,Centurion,1,2,2,0,2,0
+379143,11 Jan 2026,v Super Giants,Gqeberha,2,2,2,0,2,0
+379143,14 Jan 2026,v Super Kings,Gqeberha,2,3,2,1,2,0
+379143,16 Jan 2026,v MI Cape Town,Cape Town,2,0,0,0,0,0
+379143,18 Jan 2026,v MI Cape Town,Gqeberha,1,0,0,0,0,0
+379143,21 Jan 2026,v Capitals,Durban,2,1,1,0,1,0
+379143,23 Jan 2026,v Paarl Royals,Johannesburg,1,2,0,2,0,0
+379143,25 Jan 2026,v Capitals,Cape Town,1,1,1,0,1,0
+379143,29 Jan 2026,v West Indies,Centurion,1,1,1,0,1,0
+379143,31 Jan 2026,v West Indies,Johannesburg,1,0,0,0,0,0
+379143,9 Feb 2026,v Canada,Ahmedabad,2,2,2,0,2,0
+379143,11 Feb 2026,v Afghanistan,Ahmedabad,2,0,0,0,0,0
+379143,14 Feb 2026,v New Zealand,Ahmedabad,1,1,1,0,1,0
+379143,18 Feb 2026,v U.A.E.,Delhi,1,1,1,0,1,0
+379143,22 Feb 2026,v India,Ahmedabad,2,2,2,0,2,0
+379143,26 Feb 2026,v West Indies,Ahmedabad,1,3,3,0,3,0
+379143,1 Mar 2026,v Zimbabwe,Delhi,1,0,0,0,0,0
+379143,4 Mar 2026,v New Zealand,Eden Gardens,2,0,0,0,0,0

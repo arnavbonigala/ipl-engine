@@ -1,0 +1,260 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+31107,3 Apr 2007,v Punjab,Delhi,1,1,1,0,0,1
+31107,4 Apr 2007,v Services,Delhi,2,0,0,0,0,0
+31107,6 Apr 2007,v J & K,Delhi,1,1,1,0,0,1
+31107,7 Apr 2007,v Delhi,Delhi,1,0,0,0,0,0
+31107,8 Apr 2007,v Himachal,Delhi,1,1,1,0,0,1
+31107,15 Apr 2007,v M. Pradesh,Ahmedabad,2,0,0,0,0,0
+31107,16 Apr 2007,v Bengal,Ahmedabad,1,0,0,0,0,0
+31107,17 Apr 2007,v Mumbai,Ahmedabad,2,1,1,0,0,1
+31107,18 Apr 2007,v Tamil Nadu,Ahmedabad,1,0,0,0,0,0
+31107,11 May 2008,v RR,Jaipur,2,0,0,0,0,0
+31107,13 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+31107,15 May 2008,v Chargers,Delhi,2,0,0,0,0,0
+31107,17 May 2008,v Kings XI,Delhi,2,0,0,0,0,0
+31107,24 May 2008,v MI,Delhi,1,0,0,0,0,0
+31107,30 May 2008,v RR,Wankhede,1,0,0,0,0,0
+31107,26 Apr 2009,v RCB,Gqeberha,1,1,1,0,0,1
+31107,28 Apr 2009,v RR,Centurion,2,0,0,0,0,0
+31107,30 Apr 2009,v Chargers,Centurion,1,0,0,0,0,0
+31107,2 May 2009,v CSK,Johannesburg,1,0,0,0,0,0
+31107,5 May 2009,v KKR,Durban,1,0,0,0,0,0
+31107,8 May 2009,v MI,East London,1,1,1,0,0,1
+31107,10 May 2009,v KKR,Johannesburg,1,0,0,0,0,0
+31107,13 May 2009,v Chargers,Durban,2,0,0,0,0,0
+31107,17 May 2009,v RR,Bloemfontein,2,0,0,0,0,0
+31107,21 May 2009,v MI,Centurion,1,0,0,0,0,0
+31107,22 May 2009,v Chargers,Centurion,2,0,0,0,0,0
+31107,9 Oct 2009,v Victoria,Delhi,2,0,0,0,0,0
+31107,11 Oct 2009,v Wayamba,Delhi,2,0,0,0,0,0
+31107,17 Oct 2009,v RCB,Bengaluru,2,1,1,0,0,1
+31107,19 Oct 2009,v Cape Cobras,Delhi,2,0,0,0,0,0
+31107,13 Mar 2010,v Kings XI,Mohali,1,0,0,0,0,0
+31107,15 Mar 2010,v RR,Ahmedabad,1,0,0,0,0,0
+31107,17 Mar 2010,v MI,Delhi,1,0,0,0,0,0
+31107,19 Mar 2010,v CSK,Delhi,2,2,2,0,0,2
+31107,21 Mar 2010,v Chargers,Cuttack,1,0,0,0,0,0
+31107,25 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+31107,29 Mar 2010,v KKR,Delhi,2,1,1,0,0,1
+31107,31 Mar 2010,v RR,Delhi,2,0,0,0,0,0
+31107,4 Apr 2010,v RCB,Delhi,2,0,0,0,0,0
+31107,7 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+31107,11 Apr 2010,v Kings XI,Delhi,2,0,0,0,0,0
+31107,13 Apr 2010,v MI,Brabourne,1,1,1,0,0,1
+31107,15 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+31107,18 Apr 2010,v Chargers,Delhi,1,0,0,0,0,0
+31107,13 Jun 2010,v Zimbabwe,Harare,1,0,0,0,0,0
+31107,20 Oct 2010,v Punjab,Delhi,2,0,0,0,0,0
+31107,21 Oct 2010,v Services,Delhi,1,1,1,0,0,1
+31107,22 Oct 2010,v J & K,Delhi,1,1,1,0,0,1
+31107,24 Oct 2010,v Delhi,Delhi,2,1,1,0,0,1
+31107,25 Oct 2010,v Himachal,Delhi,2,0,0,0,0,0
+31107,12 Mar 2011,v Mumbai,Hyderabad,1,0,0,0,0,0
+31107,14 Mar 2011,v Kerala,Hyderabad,2,0,0,0,0,0
+31107,15 Mar 2011,v M. Pradesh,Hyderabad,2,0,0,0,0,0
+31107,9 Apr 2011,v RR,Hyderabad,2,0,0,0,0,0
+31107,11 Apr 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+31107,14 Apr 2011,v RCB,Hyderabad,2,1,1,0,0,1
+31107,16 Apr 2011,v Kings XI,Hyderabad,2,0,0,0,0,0
+31107,19 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+31107,24 Apr 2011,v MI,Hyderabad,1,0,0,0,0,0
+31107,27 Apr 2011,v Kochi,Kochi,2,0,0,0,0,0
+31107,1 May 2011,v CSK,Chennai,1,0,0,0,0,0
+31107,3 May 2011,v KKR,Hyderabad,1,0,0,0,0,0
+31107,5 May 2011,v Daredevils,Hyderabad,2,0,0,0,0,0
+31107,10 May 2011,v Warriors,Hyderabad,2,0,0,0,0,0
+31107,14 May 2011,v MI,Wankhede,2,0,0,0,0,0
+31107,16 May 2011,v Warriors,DY Patil,1,1,1,0,0,1
+31107,21 May 2011,v Kings XI,Dharamsala,2,0,0,0,0,0
+31107,26 Aug 2011,v Kent,Canterbury,2,0,0,0,0,0
+31107,29 Aug 2011,v Leics,Leicester,2,0,0,0,0,0
+31107,20 Oct 2011,v Punjab,Rohtak,1,0,0,0,0,0
+31107,21 Oct 2011,v Services,Rohtak,1,1,1,0,0,1
+31107,22 Oct 2011,v J & K,Rohtak,1,0,0,0,0,0
+31107,24 Oct 2011,v Delhi,Rohtak,2,0,0,0,0,0
+31107,25 Oct 2011,v Himachal,Rohtak,1,0,0,0,0,0
+31107,9 Apr 2012,v MI,Visakhapatnam,2,0,0,0,0,0
+31107,17 Apr 2012,v RR,Jaipur,2,0,0,0,0,0
+31107,19 Apr 2012,v Daredevils,Delhi,2,0,0,0,0,0
+31107,22 Apr 2012,v KKR,Cuttack,2,0,0,0,0,0
+31107,26 Apr 2012,v Warriors,Pune,2,0,0,0,0,0
+31107,29 Apr 2012,v MI,Wankhede,2,0,0,0,0,0
+31107,1 May 2012,v Warriors,Cuttack,2,0,0,0,0,0
+31107,4 May 2012,v CSK,Chennai,1,1,1,0,0,1
+31107,6 May 2012,v RCB,Bengaluru,2,0,0,0,0,0
+31107,8 May 2012,v Kings XI,Hyderabad,1,0,0,0,0,0
+31107,10 May 2012,v Daredevils,Hyderabad,2,0,0,0,0,0
+31107,13 May 2012,v Kings XI,Mohali,2,0,0,0,0,0
+31107,18 May 2012,v RR,Hyderabad,1,0,0,0,0,0
+31107,20 May 2012,v RCB,Hyderabad,2,0,0,0,0,0
+31107,17 Mar 2013,v Punjab,Rohtak,2,1,1,0,0,1
+31107,18 Mar 2013,v Himachal,Rohtak,2,0,0,0,0,0
+31107,19 Mar 2013,v Services,Rohtak,2,0,0,0,0,0
+31107,21 Mar 2013,v Delhi,Rohtak,1,0,0,0,0,0
+31107,22 Mar 2013,v J & K,Rohtak,1,1,1,0,0,1
+31107,5 Apr 2013,v Warriors,Hyderabad,2,0,0,0,0,0
+31107,7 Apr 2013,v RCB,Hyderabad,1,0,0,0,0,0
+31107,9 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+31107,12 Apr 2013,v Daredevils,Delhi,1,0,0,0,0,0
+31107,14 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+31107,17 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+31107,19 Apr 2013,v Kings XI,Hyderabad,1,0,0,0,0,0
+31107,25 Apr 2013,v CSK,Chennai,2,1,1,0,0,1
+31107,27 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+31107,1 May 2013,v MI,Hyderabad,1,0,0,0,0,0
+31107,4 May 2013,v Daredevils,Hyderabad,1,0,0,0,0,0
+31107,8 May 2013,v CSK,Hyderabad,1,0,0,0,0,0
+31107,11 May 2013,v Kings XI,Mohali,2,0,0,0,0,0
+31107,13 May 2013,v MI,Wankhede,2,0,0,0,0,0
+31107,17 May 2013,v RR,Hyderabad,2,0,0,0,0,0
+31107,19 May 2013,v KKR,Hyderabad,1,0,0,0,0,0
+31107,22 May 2013,v RR,Delhi,2,1,1,0,0,1
+31107,17 Sep 2013,v Kandurata Ma,Mohali,1,0,0,0,0,0
+31107,18 Sep 2013,v Wolves,Mohali,1,1,1,0,0,1
+31107,20 Sep 2013,v Otago,Mohali,2,0,0,0,0,0
+31107,24 Sep 2013,v Trinidad & T,Mohali,1,0,0,0,0,0
+31107,26 Sep 2013,v CSK,Ranchi,1,0,0,0,0,0
+31107,28 Sep 2013,v Titans,Ranchi,2,0,0,0,0,0
+31107,21 Mar 2014,v Pakistan,Mirpur,1,0,0,0,0,0
+31107,23 Mar 2014,v West Indies,Mirpur,1,0,0,0,0,0
+31107,28 Mar 2014,v Bangladesh,Mirpur,1,0,0,0,0,0
+31107,30 Mar 2014,v Australia,Mirpur,2,0,0,0,0,0
+31107,4 Apr 2014,v South Africa,Mirpur,1,0,0,0,0,0
+31107,6 Apr 2014,v Sri Lanka,Mirpur,2,0,0,0,0,0
+31107,18 Apr 2014,v RR,Abu Dhabi,2,0,0,0,0,0
+31107,22 Apr 2014,v Kings XI,Sharjah,1,0,0,0,0,0
+31107,25 Apr 2014,v Daredevils,Dubai (DICS),2,0,0,0,0,0
+31107,27 Apr 2014,v CSK,Sharjah,2,0,0,0,0,0
+31107,30 Apr 2014,v MI,Dubai (DICS),2,0,0,0,0,0
+31107,8 May 2014,v RR,Ahmedabad,2,0,0,0,0,0
+31107,10 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+31107,12 May 2014,v MI,Hyderabad,2,0,0,0,0,0
+31107,14 May 2014,v Kings XI,Hyderabad,2,0,0,0,0,0
+31107,18 May 2014,v KKR,Hyderabad,2,0,0,0,0,0
+31107,24 Mar 2015,v Punjab,Delhi,2,0,0,0,0,0
+31107,25 Mar 2015,v Himachal,Delhi,1,0,0,0,0,0
+31107,26 Mar 2015,v Services,Delhi,1,1,1,0,0,1
+31107,27 Mar 2015,v Delhi,Delhi,2,0,0,0,0,0
+31107,28 Mar 2015,v J & K,Delhi,2,0,0,0,0,0
+31107,9 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+31107,12 Apr 2015,v RR,Delhi,2,0,0,0,0,0
+31107,15 Apr 2015,v Kings XI,Pune,1,0,0,0,0,0
+31107,18 Apr 2015,v SRH,Visakhapatnam,2,0,0,0,0,0
+31107,20 Apr 2015,v KKR,Delhi,2,0,0,0,0,0
+31107,23 Apr 2015,v MI,Delhi,2,0,0,0,0,0
+31107,26 Apr 2015,v RCB,Delhi,2,0,0,0,0,0
+31107,1 May 2015,v Kings XI,Delhi,1,0,0,0,0,0
+31107,3 May 2015,v RR,Brabourne,1,1,1,0,0,1
+31107,5 May 2015,v MI,Wankhede,2,1,1,0,0,1
+31107,7 May 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+31107,9 May 2015,v SRH,Raipur,1,0,0,0,0,0
+31107,6 Jan 2016,v Hyderabad,Nagpur,1,0,0,0,0,0
+31107,7 Jan 2016,v Himachal,Nagpur,2,0,0,0,0,0
+31107,9 Jan 2016,v Bengal,Nagpur,2,0,0,0,0,0
+31107,10 Jan 2016,v Gujarat,Nagpur,2,0,0,0,0,0
+31107,10 Apr 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+31107,15 Apr 2016,v Kings XI,Delhi,1,0,0,0,0,0
+31107,17 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+31107,23 Apr 2016,v MI,Delhi,2,0,0,0,0,0
+31107,27 Apr 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+31107,30 Apr 2016,v KKR,Delhi,2,2,2,0,0,2
+31107,3 May 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+31107,5 May 2016,v Supergiants,Delhi,2,0,0,0,0,0
+31107,7 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+31107,12 May 2016,v SRH,Hyderabad,1,0,0,0,0,0
+31107,15 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+31107,17 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+31107,20 May 2016,v SRH,Raipur,1,1,1,0,0,1
+31107,22 May 2016,v RCB,Raipur,2,0,0,0,0,0
+31107,28 Aug 2016,v West Indies,Lauderhill,1,1,1,0,0,1
+31107,29 Jan 2017,v England,Nagpur,2,0,0,0,0,0
+31107,1 Feb 2017,v England,Bengaluru,2,0,0,0,0,0
+31107,8 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+31107,11 Apr 2017,v Supergiant,Pune,2,1,1,0,0,1
+31107,15 Apr 2017,v Kings XI,Delhi,2,0,0,0,0,0
+31107,17 Apr 2017,v KKR,Delhi,2,0,0,0,0,0
+31107,19 Apr 2017,v SRH,Hyderabad,1,1,1,0,0,1
+31107,22 Apr 2017,v MI,Wankhede,1,0,0,0,0,0
+31107,28 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+31107,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+31107,2 May 2017,v SRH,Delhi,1,0,0,0,0,0
+31107,4 May 2017,v Guj Lions,Delhi,1,0,0,0,0,0
+31107,6 May 2017,v MI,Delhi,1,1,1,0,0,1
+31107,10 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+31107,12 May 2017,v Supergiant,Delhi,2,0,0,0,0,0
+31107,14 May 2017,v RCB,Delhi,1,0,0,0,0,0
+31107,8 Jan 2018,v Himachal,Delhi,1,0,0,0,0,0
+31107,10 Jan 2018,v Delhi,Delhi,2,0,0,0,0,0
+31107,12 Jan 2018,v Punjab,Delhi,1,0,0,0,0,0
+31107,13 Jan 2018,v J & K,Delhi,2,1,1,0,0,1
+31107,15 Jan 2018,v Services,Delhi,1,1,1,0,0,1
+31107,8 Apr 2018,v Kings XI,Mohali,2,0,0,0,0,0
+31107,23 Apr 2018,v Kings XI,Delhi,1,0,0,0,0,0
+31107,27 Apr 2018,v KKR,Delhi,2,0,0,0,0,0
+31107,30 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+31107,2 May 2018,v RR,Delhi,2,0,0,0,0,0
+31107,5 May 2018,v SRH,Hyderabad,2,0,0,0,0,0
+31107,10 May 2018,v SRH,Delhi,2,0,0,0,0,0
+31107,12 May 2018,v RCB,Delhi,2,0,0,0,0,0
+31107,18 May 2018,v CSK,Delhi,2,0,0,0,0,0
+31107,20 May 2018,v MI,Delhi,2,0,0,0,0,0
+31107,21 Feb 2019,v Arunachal,Cuttack,1,0,0,0,0,0
+31107,22 Feb 2019,v Odisha,Cuttack,2,0,0,0,0,0
+31107,24 Feb 2019,v Bengal,Cuttack,2,0,0,0,0,0
+31107,25 Feb 2019,v Chhattisgarh,Cuttack,2,0,0,0,0,0
+31107,27 Feb 2019,v Mizoram,Cuttack,2,0,0,0,0,0
+31107,28 Feb 2019,v Assam,Cuttack,1,1,1,0,0,1
+31107,2 Mar 2019,v Karnataka,Cuttack,1,0,0,0,0,0
+31107,26 Mar 2019,v CSK,Delhi,2,0,0,0,0,0
+31107,30 Mar 2019,v KKR,Delhi,1,0,0,0,0,0
+31107,14 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+31107,18 Apr 2019,v MI,Delhi,1,0,0,0,0,0
+31107,20 Apr 2019,v Kings XI,Delhi,1,0,0,0,0,0
+31107,22 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+31107,28 Apr 2019,v RCB,Delhi,2,0,0,0,0,0
+31107,1 May 2019,v CSK,Chennai,1,0,0,0,0,0
+31107,4 May 2019,v RR,Delhi,1,1,1,0,0,1
+31107,8 May 2019,v SRH,Visakhapatnam,1,0,0,0,0,0
+31107,10 May 2019,v CSK,Visakhapatnam,2,0,0,0,0,0
+31107,9 Nov 2019,v Mumbai,Wankhede,2,0,0,0,0,0
+31107,11 Nov 2019,v Assam,Mumbai,1,0,0,0,0,0
+31107,12 Nov 2019,v Bengal,Mumbai,1,0,0,0,0,0
+31107,14 Nov 2019,v Puducherry,Mumbai,1,0,0,0,0,0
+31107,15 Nov 2019,v Mizoram,Wankhede,1,0,0,0,0,0
+31107,17 Nov 2019,v M. Pradesh,Mumbai,1,0,0,0,0,0
+31107,18 Nov 2019,v Meghalaya,Mumbai,2,1,1,0,0,1
+31107,22 Nov 2019,v Rajasthan,Surat,1,0,0,0,0,0
+31107,24 Nov 2019,v Delhi,Surat,2,1,1,0,0,1
+31107,25 Nov 2019,v Baroda,Surat,1,0,0,0,0,0
+31107,27 Nov 2019,v Maharashtra,Surat,1,0,0,0,0,0
+31107,29 Nov 2019,v Karnataka,Surat,2,0,0,0,0,0
+31107,25 Sep 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+31107,29 Sep 2020,v SRH,Abu Dhabi,1,0,0,0,0,0
+31107,3 Oct 2020,v KKR,Sharjah,2,0,0,0,0,0
+31107,10 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+31107,20 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+31107,25 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+31107,27 Apr 2021,v RCB,Ahmedabad,1,0,0,0,0,0
+31107,11 Oct 2022,v Services,New Chandigarh,2,0,0,0,0,0
+31107,12 Oct 2022,v Meghalaya,New Chandigarh,2,1,1,0,0,1
+31107,14 Oct 2022,v Kerala,Mohali,2,0,0,0,0,0
+31107,16 Oct 2022,v Arunachal,Mohali,2,1,1,0,0,1
+31107,18 Oct 2022,v J & K,New Chandigarh,1,0,0,0,0,0
+31107,20 Oct 2022,v Maharashtra,New Chandigarh,1,0,0,0,0,0
+31107,22 Oct 2022,v Karnataka,Mohali,2,0,0,0,0,0
+31107,30 Oct 2022,v Punjab,Eden Gardens,1,0,0,0,0,0
+31107,7 Apr 2023,v SRH,Lucknow,1,1,1,0,0,1
+31107,10 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+31107,19 Apr 2023,v RR,Jaipur,2,0,0,0,0,0
+31107,22 Apr 2023,v GT,Lucknow,1,0,0,0,0,0
+31107,28 Apr 2023,v Punjab Kings,Mohali,2,0,0,0,0,0
+31107,1 May 2023,v RCB,Lucknow,1,0,0,0,0,0
+31107,13 May 2023,v SRH,Hyderabad,1,1,1,0,0,1
+31107,16 Oct 2023,v Mumbai,Jaipur,2,0,0,0,0,0
+31107,17 Oct 2023,v Chhattisgarh,Jaipur,2,0,0,0,0,0
+31107,19 Oct 2023,v J & K,Jaipur,2,0,0,0,0,0
+31107,21 Oct 2023,v Baroda,Jaipur,2,0,0,0,0,0
+31107,23 Oct 2023,v Mizoram,Jaipur,2,0,0,0,0,0
+31107,25 Oct 2023,v Meghalaya,Jaipur,1,0,0,0,0,0
+31107,27 Oct 2023,v Hyderabad,Jaipur,2,0,0,0,0,0
+31107,27 Apr 2024,v RR,Lucknow,2,0,0,0,0,0

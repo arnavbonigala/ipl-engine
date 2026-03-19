@@ -1,0 +1,296 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+49758,17 Aug 2004,v Tamil Union,Colombo (Moors),2,0,0,0,0,0
+49758,2 Sep 2004,v Colts CC,Colombo (RPS),2,0,0,0,0,0
+49758,16 Oct 2005,v Air Force SC,Colombo (Bloomfield),2,0,0,0,0,0
+49758,23 Oct 2005,v Panadura,Colombo (Colts),-,TDNF,-,-,-,-
+49758,29 Oct 2005,v Saracens,Colombo (CCC),2,0,0,0,0,0
+49758,15 Jun 2006,v England,Southampton,2,1,1,0,0,1
+49758,26 Dec 2006,v New Zealand,Auckland,2,0,0,0,0,0
+49758,4 Aug 2007,v Sussex,Birmingham,1,0,0,0,0,0
+49758,4 Aug 2007,v Gloucs,Birmingham,1,0,0,0,0,0
+49758,14 Sep 2007,v Kenya,Johannesburg,2,1,1,0,0,1
+49758,15 Sep 2007,v New Zealand,Johannesburg,1,2,2,0,0,2
+49758,17 Sep 2007,v Pakistan,Johannesburg,1,0,0,0,0,0
+49758,18 Sep 2007,v Bangladesh,Johannesburg,2,1,1,0,0,1
+49758,20 Sep 2007,v Australia,Cape Town,2,0,0,0,0,0
+49758,10 Feb 2009,v India,Colombo (RPS),2,0,0,0,0,0
+49758,25 Mar 2009,v Schls Inv XI,Colombo (Moors),1,0,0,0,0,0
+49758,26 Mar 2009,v Basnahira N,Colombo (Moors),2,0,0,0,0,0
+49758,28 Mar 2009,v Wayamba,Colombo (SSC),2,1,1,0,0,1
+49758,29 Mar 2009,v Kandurata,Colombo (Colts),1,2,2,0,0,2
+49758,4 Apr 2009,v Wayamba,Colombo (SSC),-,TDNF,-,-,-,-
+49758,18 Apr 2009,v CSK,Cape Town,2,0,0,0,0,0
+49758,25 Apr 2009,v Chargers,Durban,1,0,0,0,0,0
+49758,27 Apr 2009,v KKR,Gqeberha,2,0,0,0,0,0
+49758,29 Apr 2009,v Kings XI,Durban,1,0,0,0,0,0
+49758,1 May 2009,v KKR,East London,2,1,1,0,0,1
+49758,3 May 2009,v RCB,Johannesburg,2,0,0,0,0,0
+49758,6 May 2009,v Chargers,Centurion,1,0,0,0,0,0
+49758,8 May 2009,v Daredevils,East London,2,0,0,0,0,0
+49758,10 May 2009,v RCB,Gqeberha,2,0,0,0,0,0
+49758,12 May 2009,v Kings XI,Centurion,1,0,0,0,0,0
+49758,14 May 2009,v RR,Durban,1,1,1,0,0,1
+49758,16 May 2009,v CSK,Gqeberha,2,0,0,0,0,0
+49758,21 May 2009,v Daredevils,Centurion,2,0,0,0,0,0
+49758,8 Jun 2009,v Australia,Nottingham,1,0,0,0,0,0
+49758,10 Jun 2009,v West Indies,Nottingham,2,0,0,0,0,0
+49758,12 Jun 2009,v Pakistan,Lord's,2,1,1,0,0,1
+49758,14 Jun 2009,v Ireland,Lord's,2,0,0,0,0,0
+49758,16 Jun 2009,v New Zealand,Nottingham,2,1,1,0,0,1
+49758,19 Jun 2009,v West Indies,The Oval,2,0,0,0,0,0
+49758,21 Jun 2009,v Pakistan,Lord's,2,0,0,0,0,0
+49758,12 Aug 2009,v Pakistan,Colombo (RPS),1,1,1,0,0,1
+49758,2 Sep 2009,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+49758,4 Sep 2009,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+49758,9 Dec 2009,v India,Nagpur,2,1,1,0,0,1
+49758,12 Dec 2009,v India,Mohali,2,0,0,0,0,0
+49758,13 Mar 2010,v RR,Brabourne,2,0,0,0,0,0
+49758,17 Mar 2010,v Daredevils,Delhi,2,0,0,0,0,0
+49758,20 Mar 2010,v RCB,Brabourne,2,1,1,0,0,1
+49758,22 Mar 2010,v KKR,Brabourne,1,0,0,0,0,0
+49758,25 Mar 2010,v CSK,Brabourne,1,0,0,0,0,0
+49758,28 Mar 2010,v Chargers,DY Patil,2,0,0,0,0,0
+49758,30 Mar 2010,v Kings XI,Brabourne,1,0,0,0,0,0
+49758,3 Apr 2010,v Chargers,Brabourne,2,0,0,0,0,0
+49758,6 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+49758,9 Apr 2010,v Kings XI,Mohali,2,0,0,0,0,0
+49758,11 Apr 2010,v RR,Jaipur,2,0,0,0,0,0
+49758,21 Apr 2010,v RCB,DY Patil,2,0,0,0,0,0
+49758,25 Apr 2010,v CSK,DY Patil,1,1,1,0,0,1
+49758,30 Apr 2010,v New Zealand,Providence,2,1,1,0,0,1
+49758,3 May 2010,v Zimbabwe,Providence,2,0,0,0,0,0
+49758,7 May 2010,v West Indies,Bridgetown,2,0,0,0,0,0
+49758,9 May 2010,v Australia,Bridgetown,1,0,0,0,0,0
+49758,11 May 2010,v India,Gros Islet,1,1,1,0,0,1
+49758,13 May 2010,v England,Gros Islet,2,0,0,0,0,0
+49758,22 May 2010,v New Zealand,Lauderhill,1,1,1,0,0,1
+49758,23 May 2010,v New Zealand,Lauderhill,1,0,0,0,0,0
+49758,10 Sep 2010,v Lions,Johannesburg,1,0,0,0,0,0
+49758,14 Sep 2010,v South Aust,Durban,2,0,0,0,0,0
+49758,16 Sep 2010,v Guyana,Durban,2,1,1,0,0,1
+49758,19 Sep 2010,v RCB,Durban,2,0,0,0,0,0
+49758,31 Oct 2010,v Australia,W.A.C.A,1,0,0,0,0,0
+49758,10 Apr 2011,v Daredevils,Delhi,1,1,1,0,0,1
+49758,12 Apr 2011,v RCB,Bengaluru,1,0,0,0,0,0
+49758,15 Apr 2011,v Kochi,Wankhede,2,0,0,0,0,0
+49758,20 Apr 2011,v Warriors,Wankhede,1,0,0,0,0,0
+49758,22 Apr 2011,v CSK,Wankhede,2,0,0,0,0,0
+49758,24 Apr 2011,v Chargers,Hyderabad,2,1,1,0,0,1
+49758,29 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+49758,2 May 2011,v Kings XI,Wankhede,2,0,0,0,0,0
+49758,4 May 2011,v Warriors,DY Patil,2,1,1,0,0,1
+49758,7 May 2011,v Daredevils,Wankhede,2,0,0,0,0,0
+49758,10 May 2011,v Kings XI,Mohali,1,0,0,0,0,0
+49758,14 May 2011,v Chargers,Wankhede,1,0,0,0,0,0
+49758,20 May 2011,v RR,Wankhede,2,0,0,0,0,0
+49758,22 May 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+49758,25 May 2011,v KKR,Wankhede,1,0,0,0,0,0
+49758,27 May 2011,v RCB,Chennai,1,1,1,0,0,1
+49758,25 Jun 2011,v England,Bristol,1,1,1,0,0,1
+49758,24 Sep 2011,v CSK,Chennai,1,0,0,0,0,0
+49758,26 Sep 2011,v Trinidad & T,Bengaluru,1,0,0,0,0,0
+49758,30 Sep 2011,v Cape Cobras,Bengaluru,-,TDNF,-,-,-,-
+49758,2 Oct 2011,v NSW,Chennai,2,0,0,0,0,0
+49758,8 Oct 2011,v Somerset,Chennai,2,0,0,0,0,0
+49758,9 Oct 2011,v RCB,Chennai,2,0,0,0,0,0
+49758,25 Nov 2011,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+49758,29 Mar 2012,v Tamil Union,Colombo (Colts),2,0,0,0,0,0
+49758,30 Mar 2012,v Saracens,Colombo (Colts),2,0,0,0,0,0
+49758,4 Apr 2012,v CSK,Chennai,1,1,1,0,0,1
+49758,6 Apr 2012,v Warriors,Wankhede,1,0,0,0,0,0
+49758,9 Apr 2012,v Chargers,Visakhapatnam,1,1,1,0,0,1
+49758,11 Apr 2012,v RR,Wankhede,2,0,0,0,0,0
+49758,27 Apr 2012,v Daredevils,Delhi,1,0,0,0,0,0
+49758,29 Apr 2012,v Chargers,Wankhede,1,1,1,0,0,1
+49758,3 May 2012,v Warriors,Pune,2,0,0,0,0,0
+49758,6 May 2012,v CSK,Wankhede,1,0,0,0,0,0
+49758,9 May 2012,v RCB,Wankhede,2,0,0,0,0,0
+49758,12 May 2012,v KKR,Eden Gardens,2,0,0,0,0,0
+49758,14 May 2012,v RCB,Bengaluru,1,1,1,0,0,1
+49758,16 May 2012,v KKR,Wankhede,1,1,1,0,0,1
+49758,20 May 2012,v RR,Jaipur,1,1,1,0,0,1
+49758,23 May 2012,v CSK,Bengaluru,1,0,0,0,0,0
+49758,1 Jun 2012,v Pakistan,Hambantota,2,0,0,0,0,0
+49758,7 Aug 2012,v India,Pallekele,1,0,0,0,0,0
+49758,11 Aug 2012,v Nagenahira,Colombo (RPS),2,0,0,0,0,0
+49758,14 Aug 2012,v Uthura,Colombo (RPS),2,0,0,0,0,0
+49758,20 Aug 2012,v K Warriors,Pallekele,1,0,0,0,0,0
+49758,21 Aug 2012,v Uva Next,Pallekele,1,0,0,0,0,0
+49758,25 Aug 2012,v Basnahira CD,Colombo (RPS),1,0,0,0,0,0
+49758,26 Aug 2012,v Wayamba U,Colombo (RPS),1,0,0,0,0,0
+49758,18 Sep 2012,v Zimbabwe,Hambantota,2,0,0,0,0,0
+49758,22 Sep 2012,v South Africa,Hambantota,1,0,0,0,0,0
+49758,27 Sep 2012,v New Zealand,Pallekele,1,0,0,0,0,0
+49758,29 Sep 2012,v West Indies,Pallekele,1,0,0,0,0,0
+49758,1 Oct 2012,v England,Pallekele,2,0,0,0,0,0
+49758,4 Oct 2012,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+49758,7 Oct 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+49758,14 Oct 2012,v Lions,Johannesburg,2,0,0,0,0,0
+49758,18 Oct 2012,v Yorkshire,Cape Town,-,TDNF,-,-,-,-
+49758,20 Oct 2012,v CSK,Johannesburg,1,0,0,0,0,0
+49758,22 Oct 2012,v Sixers,Durban,1,0,0,0,0,0
+49758,7 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+49758,12 Dec 2012,v Scorchers,W.A.C.A,1,0,0,0,0,0
+49758,15 Dec 2012,v Hurricanes,Melbourne,1,0,0,0,0,0
+49758,21 Dec 2012,v Sixers,Melbourne,2,0,0,0,0,0
+49758,27 Dec 2012,v Strikers,Adelaide,2,0,0,0,0,0
+49758,3 Jan 2013,v Heat,Brisbane,1,0,0,0,0,0
+49758,6 Jan 2013,v Renegades,Melbourne,2,0,0,0,0,0
+49758,26 Jan 2013,v Australia,Sydney,1,0,0,0,0,0
+49758,28 Jan 2013,v Australia,Melbourne,2,0,0,0,0,0
+49758,31 Mar 2013,v Bangladesh,Pallekele,2,0,0,0,0,0
+49758,9 Apr 2013,v Daredevils,Wankhede,2,1,1,0,0,1
+49758,13 Apr 2013,v Warriors,Wankhede,2,0,0,0,0,0
+49758,17 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+49758,21 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+49758,24 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+49758,27 Apr 2013,v RCB,Wankhede,2,0,0,0,0,0
+49758,29 Apr 2013,v Kings XI,Wankhede,2,0,0,0,0,0
+49758,1 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+49758,5 May 2013,v CSK,Wankhede,2,0,0,0,0,0
+49758,7 May 2013,v KKR,Wankhede,2,1,1,0,0,1
+49758,11 May 2013,v Warriors,Pune,1,0,0,0,0,0
+49758,13 May 2013,v SRH,Wankhede,1,0,0,0,0,0
+49758,15 May 2013,v RR,Wankhede,2,1,1,0,0,1
+49758,18 May 2013,v Kings XI,Dharamsala,1,0,0,0,0,0
+49758,21 May 2013,v CSK,Delhi,1,0,0,0,0,0
+49758,24 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+49758,26 May 2013,v CSK,Eden Gardens,2,0,0,0,0,0
+49758,2 Aug 2013,v South Africa,Colombo (RPS),1,0,0,0,0,0
+49758,4 Aug 2013,v South Africa,Hambantota,1,0,0,0,0,0
+49758,10 Aug 2013,v Kandurata Ma,Colombo (RPS),1,0,0,0,0,0
+49758,12 Aug 2013,v Uth Yellows,Colombo (RPS),2,1,1,0,0,1
+49758,14 Aug 2013,v Bas Greens,Colombo (RPS),1,0,0,0,0,0
+49758,22 Aug 2013,v Red Steel,Port of Spain,1,0,0,0,0,0
+49758,24 Aug 2013,v Tallawahs,Port of Spain,2,1,1,0,0,1
+49758,21 Nov 2013,v New Zealand,Pallekele,1,0,0,0,0,0
+49758,11 Dec 2013,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+49758,13 Dec 2013,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+49758,29 Dec 2013,v Sixers,Sydney,2,0,0,0,0,0
+49758,1 Jan 2014,v Thunder,Sydney,1,0,0,0,0,0
+49758,4 Jan 2014,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+49758,9 Jan 2014,v Strikers,Melbourne,1,0,0,0,0,0
+49758,11 Jan 2014,v Heat,Brisbane,1,0,0,0,0,0
+49758,4 Feb 2014,v Hurricanes,Melbourne,2,0,0,0,0,0
+49758,12 Feb 2014,v Bangladesh,Chattogram,2,0,0,0,0,0
+49758,14 Feb 2014,v Bangladesh,Chattogram,1,0,0,0,0,0
+49758,22 Mar 2014,v South Africa,Chattogram,2,0,0,0,0,0
+49758,24 Mar 2014,v Netherlands,Chattogram,1,1,1,0,0,1
+49758,27 Mar 2014,v England,Chattogram,2,0,0,0,0,0
+49758,31 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+49758,3 Apr 2014,v West Indies,Mirpur,2,0,0,0,0,0
+49758,6 Apr 2014,v India,Mirpur,1,0,0,0,0,0
+49758,16 Apr 2014,v KKR,Abu Dhabi,1,0,0,0,0,0
+49758,19 Apr 2014,v RCB,Dubai (DICS),2,0,0,0,0,0
+49758,25 Apr 2014,v CSK,Dubai (DICS),2,0,0,0,0,0
+49758,27 Apr 2014,v Daredevils,Sharjah,2,0,0,0,0,0
+49758,30 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+49758,3 May 2014,v Kings XI,Wankhede,1,0,0,0,0,0
+49758,6 May 2014,v RCB,Wankhede,2,0,0,0,0,0
+49758,10 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+49758,12 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+49758,14 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+49758,18 May 2014,v Sussex,Hove,1,0,0,0,0,0
+49758,20 May 2014,v England,The Oval,2,0,0,0,0,0
+49758,27 Jun 2014,v Rulers,Colombo (SSC),2,0,0,0,0,0
+49758,28 Jun 2014,v Yaal Blazers,Colombo (SSC),2,0,0,0,0,0
+49758,30 Jun 2014,v Troopers,Colombo (SSC),-,TDNF,-,-,-,-
+49758,1 Jul 2014,v Troopers,Colombo (SSC),1,1,1,0,0,1
+49758,2 Jul 2014,v Rulers,Colombo (SSC),2,0,0,0,0,0
+49758,13 Sep 2014,v Lahore Lions,Raipur,2,0,0,0,0,0
+49758,14 Sep 2014,v Express,Raipur,1,0,0,0,0,0
+49758,16 Sep 2014,v Northern Dis,Raipur,2,0,0,0,0,0
+49758,8 Apr 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+49758,12 Apr 2015,v Kings XI,Wankhede,1,0,0,0,0,0
+49758,14 Apr 2015,v RR,Ahmedabad,2,0,0,0,0,0
+49758,17 Apr 2015,v CSK,Wankhede,2,0,0,0,0,0
+49758,19 Apr 2015,v RCB,Bengaluru,2,0,0,0,0,0
+49758,23 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+49758,25 Apr 2015,v SRH,Wankhede,2,1,1,0,0,1
+49758,1 May 2015,v RR,Wankhede,2,0,0,0,0,0
+49758,3 May 2015,v Kings XI,Mohali,2,0,0,0,0,0
+49758,5 May 2015,v Daredevils,Wankhede,1,0,0,0,0,0
+49758,10 May 2015,v RCB,Wankhede,1,0,0,0,0,0
+49758,14 May 2015,v KKR,Wankhede,2,1,1,0,0,1
+49758,17 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+49758,19 May 2015,v CSK,Wankhede,2,0,0,0,0,0
+49758,24 May 2015,v CSK,Eden Gardens,2,0,0,0,0,0
+49758,30 Jul 2015,v Pakistan,Colombo (RPS),1,1,1,0,0,1
+49758,1 Aug 2015,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+49758,9 Nov 2015,v West Indies,Pallekele,2,0,0,0,0,0
+49758,11 Nov 2015,v West Indies,Colombo (RPS),1,0,0,0,0,0
+49758,25 Feb 2016,v U.A.E.,Mirpur,2,1,1,0,0,1
+49758,15 Feb 2017,v PM's XI,Canberra,1,0,0,0,0,0
+49758,17 Feb 2017,v Australia,Melbourne,1,2,2,0,0,2
+49758,19 Feb 2017,v Australia,Geelong,1,0,0,0,0,0
+49758,22 Feb 2017,v Australia,Adelaide,1,0,0,0,0,0
+49758,4 Apr 2017,v Bangladesh,Colombo (RPS),1,0,0,0,0,0
+49758,6 Apr 2017,v Bangladesh,Colombo (RPS),1,0,0,0,0,0
+49758,9 Apr 2017,v KKR,Wankhede,1,0,0,0,0,0
+49758,12 Apr 2017,v SRH,Wankhede,1,0,0,0,0,0
+49758,16 Apr 2017,v Guj Lions,Wankhede,1,0,0,0,0,0
+49758,20 Apr 2017,v Kings XI,Indore,1,0,0,0,0,0
+49758,29 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+49758,1 May 2017,v RCB,Wankhede,1,0,0,0,0,0
+49758,6 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+49758,8 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+49758,11 May 2017,v Kings XI,Wankhede,1,0,0,0,0,0
+49758,16 May 2017,v Supergiant,Wankhede,1,0,0,0,0,0
+49758,19 May 2017,v KKR,Bengaluru,1,1,1,0,0,1
+49758,21 May 2017,v Supergiant,Hyderabad,2,0,0,0,0,0
+49758,6 Sep 2017,v India,Colombo (RPS),2,0,0,0,0,0
+49758,4 Nov 2017,v Kings,Sylhet,1,0,0,0,0,0
+49758,8 Nov 2017,v Chattogram,Sylhet,1,0,0,0,0,0
+49758,11 Nov 2017,v Kings,Mirpur,2,0,0,0,0,0
+49758,21 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+49758,24 Nov 2017,v Khulna,Chattogram,1,0,0,0,0,0
+49758,25 Nov 2017,v Chattogram,Chattogram,1,1,1,0,0,1
+49758,28 Nov 2017,v Sylhet,Chattogram,1,0,0,0,0,0
+49758,8 Dec 2017,v Khulna,Mirpur,1,0,0,0,0,0
+49758,24 Feb 2018,v KTC,Colombo (Burgher),2,0,0,0,0,0
+49758,25 Feb 2018,v Police SC,Colombo (Bloomfield),2,0,0,0,0,0
+49758,27 Feb 2018,v Burgher,Colombo (Colts),1,0,0,0,0,0
+49758,1 Mar 2018,v Ragama CC,Colombo (Bloomfield),1,0,0,0,0,0
+49758,2 Mar 2018,v Chilaw MCC,Colombo (CCC),2,1,1,0,0,1
+49758,4 Mar 2018,v Colts CC,Katunayake,2,0,0,0,0,0
+49758,7 Mar 2018,v SL Army,Colombo (PSS),1,0,0,0,0,0
+49758,8 Mar 2018,v Colombo CC,Colombo (PSS),2,1,1,0,0,1
+49758,21 Aug 2018,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+49758,22 Aug 2018,v Colombo,Colombo (RPS),1,0,0,0,0,0
+49758,25 Aug 2018,v Galle,Dambulla,1,0,0,0,0,0
+49758,26 Aug 2018,v Dambulla,Dambulla,1,0,0,0,0,0
+49758,29 Aug 2018,v Colombo,Pallekele,1,1,1,0,0,1
+49758,30 Aug 2018,v Galle,Pallekele,1,0,0,0,0,0
+49758,27 Oct 2018,v England,Colombo (RPS),1,0,0,0,0,0
+49758,11 Jan 2019,v New Zealand,Auckland,1,0,0,0,0,0
+49758,18 Jan 2019,v Victorians,Sylhet,2,1,1,0,0,1
+49758,19 Jan 2019,v Chattogram,Sylhet,1,0,0,0,0,0
+49758,15 Feb 2019,v Panadura,Colombo (CCC),2,0,0,0,0,0
+49758,16 Feb 2019,v Bloomfield,Colombo (Burgher),2,0,0,0,0,0
+49758,19 Mar 2019,v South Africa,Cape Town,2,0,0,0,0,0
+49758,22 Mar 2019,v South Africa,Centurion,1,1,1,0,0,1
+49758,24 Mar 2019,v South Africa,Johannesburg,1,1,1,0,0,1
+49758,28 Mar 2019,v RCB,Bengaluru,2,0,0,0,0,0
+49758,30 Mar 2019,v Kings XI,Mohali,2,0,0,0,0,0
+49758,3 Apr 2019,v CSK,Wankhede,2,0,0,0,0,0
+49758,15 Apr 2019,v RCB,Wankhede,1,0,0,0,0,0
+49758,18 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+49758,20 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+49758,26 Apr 2019,v CSK,Chennai,2,1,1,0,0,1
+49758,28 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+49758,2 May 2019,v SRH,Wankhede,2,0,0,0,0,0
+49758,5 May 2019,v KKR,Wankhede,1,0,0,0,0,0
+49758,7 May 2019,v CSK,Chennai,1,0,0,0,0,0
+49758,12 May 2019,v CSK,Hyderabad,2,0,0,0,0,0
+49758,1 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+49758,3 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+49758,6 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+49758,27 Oct 2019,v Australia,Adelaide,1,0,0,0,0,0
+49758,30 Oct 2019,v Australia,Brisbane,2,0,0,0,0,0
+49758,1 Nov 2019,v Australia,Melbourne,2,0,0,0,0,0
+49758,5 Jan 2020,v India,Guwahati,-,TDNF,-,-,-,-
+49758,7 Jan 2020,v India,Indore,2,0,0,0,0,0
+49758,10 Jan 2020,v India,Pune,1,0,0,0,0,0
+49758,17 Jan 2020,v SL Army,Colombo (PSS),1,0,0,0,0,0
+49758,4 Mar 2020,v West Indies,Pallekele,1,0,0,0,0,0
+49758,6 Mar 2020,v West Indies,Pallekele,2,1,1,0,0,1

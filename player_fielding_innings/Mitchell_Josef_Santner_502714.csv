@@ -1,0 +1,268 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+502714,19 Sep 2014,v Cape Cobras,Raipur,2,0,0,0,0,0
+502714,30 Sep 2014,v Tridents,Bengaluru,2,0,0,0,0,0
+502714,9 Nov 2014,v Central D,Hamilton,2,0,0,0,0,0
+502714,16 Nov 2014,v Auckland,Auckland,2,1,1,0,0,1
+502714,23 Nov 2014,v Otago,Wellington,2,1,1,0,0,1
+502714,29 Nov 2014,v Central D,Napier,2,0,0,0,0,0
+502714,30 Nov 2014,v Auckland,Napier,1,0,0,0,0,0
+502714,5 Dec 2014,v Wellington,Hamilton,2,0,0,0,0,0
+502714,6 Dec 2014,v Auckland,Hamilton,2,0,0,0,0,0
+502714,23 Jun 2015,v England,Manchester,1,1,1,0,0,1
+502714,10 Jan 2016,v Sri Lanka,Auckland,1,0,0,0,0,0
+502714,15 Jan 2016,v Pakistan,Auckland,1,0,0,0,0,0
+502714,17 Jan 2016,v Pakistan,Hamilton,1,1,1,0,0,1
+502714,22 Jan 2016,v Pakistan,Wellington,2,1,1,0,0,1
+502714,15 Mar 2016,v India,Nagpur,2,0,0,0,0,0
+502714,18 Mar 2016,v Australia,Dharamsala,2,0,0,0,0,0
+502714,22 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+502714,26 Mar 2016,v Bangladesh,Eden Gardens,2,1,1,0,0,1
+502714,30 Mar 2016,v England,Delhi,2,0,0,0,0,0
+502714,20 May 2016,v Durham,Worcester,2,0,0,0,0,0
+502714,14 Dec 2016,v Otago,Dunedin,1,0,0,0,0,0
+502714,17 Dec 2016,v Auckland,Hamilton,1,0,0,0,0,0
+502714,18 Dec 2016,v Otago,Mount Maunganui,2,0,0,0,0,0
+502714,23 Dec 2016,v Central D,Hamilton,2,1,1,0,0,1
+502714,3 Jan 2017,v Bangladesh,Napier,1,1,1,0,0,1
+502714,6 Jan 2017,v Bangladesh,Mount Maunganui,2,1,1,0,0,1
+502714,8 Jan 2017,v Bangladesh,Mount Maunganui,2,0,0,0,0,0
+502714,17 Feb 2017,v South Africa,Auckland,1,1,1,0,0,1
+502714,7 Jul 2017,v Warwickshire,Worcester,2,0,0,0,0,0
+502714,14 Jul 2017,v Leics,Worcester,2,1,1,0,0,1
+502714,19 Jul 2017,v Derbyshire,Worcester,2,0,0,0,0,0
+502714,23 Jul 2017,v Yorkshire,Leeds,1,1,1,0,0,1
+502714,26 Jul 2017,v Notts,Nottingham,2,1,1,0,0,1
+502714,27 Jul 2017,v Northants,Northampton,2,2,2,0,0,2
+502714,30 Jul 2017,v Durham,Worcester,1,0,0,0,0,0
+502714,4 Aug 2017,v Warwickshire,Birmingham,2,1,1,0,0,1
+502714,5 Aug 2017,v Northants,Worcester,1,0,0,0,0,0
+502714,11 Aug 2017,v Durham,Chester-le-Street,1,0,0,0,0,0
+502714,13 Aug 2017,v Notts,Worcester,1,1,1,0,0,1
+502714,16 Aug 2017,v Lancashire,Manchester,2,1,1,0,0,1
+502714,18 Aug 2017,v Derbyshire,Derby,1,1,1,0,0,1
+502714,1 Nov 2017,v India,Delhi,1,0,0,0,0,0
+502714,4 Nov 2017,v India,Rajkot,2,1,1,0,0,1
+502714,7 Nov 2017,v India,Thiruvananthapuram,1,2,2,0,0,2
+502714,29 Dec 2017,v West Indies,Nelson,2,0,0,0,0,0
+502714,1 Jan 2018,v West Indies,Mount Maunganui,-,TDNF,-,-,-,-
+502714,3 Jan 2018,v West Indies,Mount Maunganui,2,1,1,0,0,1
+502714,22 Jan 2018,v Pakistan,Wellington,1,0,0,0,0,0
+502714,25 Jan 2018,v Pakistan,Auckland,1,1,1,0,0,1
+502714,28 Jan 2018,v Pakistan,Mount Maunganui,1,0,0,0,0,0
+502714,3 Feb 2018,v Australia,Sydney,2,0,0,0,0,0
+502714,13 Feb 2018,v England,Wellington,2,0,0,0,0,0
+502714,18 Feb 2018,v England,Hamilton,1,0,0,0,0,0
+502714,21 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+502714,22 Dec 2018,v Wellington,Hamilton,2,2,2,0,0,2
+502714,27 Dec 2018,v Central D,Mount Maunganui,2,0,0,0,0,0
+502714,30 Dec 2018,v Otago,Alexandra,1,0,0,0,0,0
+502714,6 Jan 2019,v Auckland,Hamilton,2,1,1,0,0,1
+502714,9 Jan 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+502714,11 Jan 2019,v Sri Lanka,Auckland,2,0,0,0,0,0
+502714,16 Jan 2019,v Canterbury,Hamilton,2,0,0,0,0,0
+502714,6 Feb 2019,v India,Wellington,2,0,0,0,0,0
+502714,8 Feb 2019,v India,Auckland,2,0,0,0,0,0
+502714,10 Feb 2019,v India,Hamilton,2,0,0,0,0,0
+502714,17 Feb 2019,v Central D,Hamilton,1,0,0,0,0,0
+502714,31 Mar 2019,v RR,Chennai,2,0,0,0,0,0
+502714,11 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+502714,14 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+502714,26 Apr 2019,v MI,Chennai,1,1,1,0,0,1
+502714,1 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+502714,3 Sep 2019,v Sri Lanka,Pallekele,1,1,1,0,0,1
+502714,6 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+502714,1 Nov 2019,v England,Christchurch,2,0,0,0,0,0
+502714,3 Nov 2019,v England,Wellington,2,1,1,0,0,1
+502714,5 Nov 2019,v England,Nelson,2,0,0,0,0,0
+502714,8 Nov 2019,v England,Napier,1,0,0,0,0,0
+502714,10 Nov 2019,v England,Auckland,2,0,0,0,0,0
+502714,24 Jan 2020,v India,Auckland,2,0,0,0,0,0
+502714,26 Jan 2020,v India,Auckland,2,0,0,0,0,0
+502714,29 Jan 2020,v India,Hamilton,1,0,0,0,0,0
+502714,31 Jan 2020,v India,Wellington,1,3,3,0,0,3
+502714,2 Feb 2020,v India,Mount Maunganui,1,2,2,0,0,2
+502714,18 Aug 2020,v Patriots,Tarouba,2,0,0,0,0,0
+502714,20 Aug 2020,v Zouks,Tarouba,2,0,0,0,0,0
+502714,23 Aug 2020,v Trinbago,Tarouba,1,0,0,0,0,0
+502714,25 Aug 2020,v Patriots,Port of Spain,2,0,0,0,0,0
+502714,26 Aug 2020,v Tallawahs,Port of Spain,2,0,0,0,0,0
+502714,29 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+502714,1 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+502714,3 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+502714,5 Sep 2020,v Tallawahs,Tarouba,1,0,0,0,0,0
+502714,25 Oct 2020,v RCB,Dubai (DICS),1,1,1,0,0,1
+502714,29 Oct 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+502714,27 Nov 2020,v West Indies,Auckland,1,0,0,0,0,0
+502714,29 Nov 2020,v West Indies,Mount Maunganui,2,2,2,0,0,2
+502714,30 Nov 2020,v West Indies,Mount Maunganui,1,0,0,0,0,0
+502714,18 Dec 2020,v Pakistan,Auckland,1,1,1,0,0,1
+502714,9 Jan 2021,v Wellington,Wellington,1,0,0,0,0,0
+502714,15 Jan 2021,v Canterbury,Christchurch,2,0,0,0,0,0
+502714,17 Jan 2021,v Auckland,Auckland,1,0,0,0,0,0
+502714,29 Jan 2021,v Auckland,Hamilton,1,0,0,0,0,0
+502714,6 Feb 2021,v Otago,Dunedin,2,0,0,0,0,0
+502714,22 Feb 2021,v Australia,Christchurch,2,1,1,0,0,1
+502714,25 Feb 2021,v Australia,Dunedin,2,0,0,0,0,0
+502714,5 Mar 2021,v Australia,Wellington,1,0,0,0,0,0
+502714,7 Mar 2021,v Australia,Wellington,1,1,1,0,0,1
+502714,26 Oct 2021,v Pakistan,Sharjah,2,0,0,0,0,0
+502714,31 Oct 2021,v India,Dubai (DICS),1,0,0,0,0,0
+502714,3 Nov 2021,v Scotland,Dubai (DICS),2,0,0,0,0,0
+502714,5 Nov 2021,v Namibia,Sharjah,2,0,0,0,0,0
+502714,7 Nov 2021,v Afghanistan,Abu Dhabi,1,1,1,0,0,1
+502714,10 Nov 2021,v England,Abu Dhabi,1,1,1,0,0,1
+502714,14 Nov 2021,v Australia,Dubai (DICS),2,0,0,0,0,0
+502714,17 Nov 2021,v India,Jaipur,2,0,0,0,0,0
+502714,19 Nov 2021,v India,Ranchi,2,0,0,0,0,0
+502714,21 Nov 2021,v India,Eden Gardens,1,0,0,0,0,0
+502714,14 Jan 2022,v Central D,Mount Maunganui,2,0,0,0,0,0
+502714,16 Jan 2022,v Wellington,Whangarei,1,0,0,0,0,0
+502714,21 Jan 2022,v Canterbury,Christchurch,1,0,0,0,0,0
+502714,24 Jan 2022,v Wellington,Wellington,1,0,0,0,0,0
+502714,29 Jan 2022,v Canterbury,Hamilton,2,1,1,0,0,1
+502714,26 Mar 2022,v KKR,Wankhede,2,0,0,0,0,0
+502714,21 Apr 2022,v MI,DY Patil,1,1,1,0,0,1
+502714,25 Apr 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+502714,1 May 2022,v SRH,Pune,2,0,0,0,0,0
+502714,15 May 2022,v GT,Wankhede,2,0,0,0,0,0
+502714,20 May 2022,v RR,Brabourne,2,1,1,0,0,1
+502714,18 Jul 2022,v Ireland,Belfast,2,1,1,0,0,1
+502714,20 Jul 2022,v Ireland,Belfast,2,1,1,0,0,1
+502714,22 Jul 2022,v Ireland,Belfast,1,0,0,0,0,0
+502714,27 Jul 2022,v Scotland,Edinburgh,2,1,1,0,0,1
+502714,29 Jul 2022,v Scotland,Edinburgh,2,0,0,0,0,0
+502714,4 Aug 2022,v Netherlands,The Hague,2,1,1,0,0,1
+502714,5 Aug 2022,v Netherlands,The Hague,1,1,1,0,0,1
+502714,10 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+502714,12 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+502714,14 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+502714,11 Oct 2022,v Pakistan,Christchurch,1,0,0,0,0,0
+502714,22 Oct 2022,v Australia,Sydney,2,0,0,0,0,0
+502714,29 Oct 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+502714,1 Nov 2022,v England,Brisbane,1,0,0,0,0,0
+502714,4 Nov 2022,v Ireland,Adelaide,2,0,0,0,0,0
+502714,9 Nov 2022,v Pakistan,Sydney,2,0,0,0,0,0
+502714,20 Nov 2022,v India,Mount Maunganui,1,0,0,0,0,0
+502714,22 Nov 2022,v India,Napier,2,0,0,0,0,0
+502714,23 Dec 2022,v Canterbury,Mount Maunganui,2,0,0,0,0,0
+502714,28 Dec 2022,v Otago,Queenstown,1,0,0,0,0,0
+502714,31 Dec 2022,v Central D,New Plymouth,2,0,0,0,0,0
+502714,27 Jan 2023,v India,Ranchi,2,0,0,0,0,0
+502714,29 Jan 2023,v India,Lucknow,2,0,0,0,0,0
+502714,1 Feb 2023,v India,Ahmedabad,1,0,0,0,0,0
+502714,9 Feb 2023,v Otago,Dunedin,2,1,1,0,0,1
+502714,11 Feb 2023,v Canterbury,Christchurch,1,0,0,0,0,0
+502714,31 Mar 2023,v GT,Ahmedabad,2,1,1,0,0,1
+502714,3 Apr 2023,v LSG,Chennai,2,0,0,0,0,0
+502714,8 Apr 2023,v MI,Wankhede,1,0,0,0,0,0
+502714,2 Jun 2023,v Notts,Nottingham,2,0,0,0,0,0
+502714,4 Jun 2023,v Northants,Worcester,2,0,0,0,0,0
+502714,7 Jun 2023,v Lancashire,Blackpool,2,1,1,0,0,1
+502714,9 Jun 2023,v Yorkshire,Leeds,1,0,0,0,0,0
+502714,16 Jun 2023,v Bears,Worcester,1,1,1,0,0,1
+502714,18 Jun 2023,v Leics,Leicester,1,0,0,0,0,0
+502714,20 Jun 2023,v Lancashire,Worcester,1,1,1,0,0,1
+502714,22 Jun 2023,v Notts,Worcester,1,1,1,0,0,1
+502714,23 Jun 2023,v Bears,Birmingham,1,0,0,0,0,0
+502714,30 Jun 2023,v Durham,Worcester,1,0,0,0,0,0
+502714,2 Jul 2023,v Derbyshire,Derby,2,0,0,0,0,0
+502714,7 Jul 2023,v Hampshire,Southampton,2,1,1,0,0,1
+502714,17 Aug 2023,v U.A.E.,Dubai (DICS),2,2,2,0,0,2
+502714,19 Aug 2023,v U.A.E.,Dubai (DICS),2,0,0,0,0,0
+502714,20 Aug 2023,v U.A.E.,Dubai (DICS),2,1,1,0,0,1
+502714,23 Aug 2023,v Originals,Manchester,1,1,1,0,0,1
+502714,26 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+502714,30 Aug 2023,v England,Chester-le-Street,2,0,0,0,0,0
+502714,1 Sep 2023,v England,Manchester,1,0,0,0,0,0
+502714,3 Sep 2023,v England,Birmingham,2,2,2,0,0,2
+502714,5 Sep 2023,v England,Nottingham,1,0,0,0,0,0
+502714,22 Dec 2023,v Central D,Hamilton,2,0,0,0,0,0
+502714,27 Dec 2023,v Bangladesh,Napier,2,1,1,0,0,1
+502714,29 Dec 2023,v Bangladesh,Mount Maunganui,-,TDNF,-,-,-,-
+502714,31 Dec 2023,v Bangladesh,Mount Maunganui,1,0,0,0,0,0
+502714,6 Jan 2024,v Otago,Hamilton,2,0,0,0,0,0
+502714,14 Jan 2024,v Pakistan,Hamilton,2,0,0,0,0,0
+502714,17 Jan 2024,v Pakistan,Dunedin,2,1,1,0,0,1
+502714,19 Jan 2024,v Pakistan,Christchurch,1,0,0,0,0,0
+502714,21 Jan 2024,v Pakistan,Christchurch,1,0,0,0,0,0
+502714,21 Feb 2024,v Australia,Wellington,2,0,0,0,0,0
+502714,23 Feb 2024,v Australia,Auckland,1,3,3,0,0,3
+502714,25 Feb 2024,v Australia,Auckland,1,0,0,0,0,0
+502714,5 May 2024,v Punjab Kings,Dharamsala,2,1,1,0,0,1
+502714,10 May 2024,v GT,Ahmedabad,1,0,0,0,0,0
+502714,18 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+502714,7 Jun 2024,v Afghanistan,Providence,1,0,0,0,0,0
+502714,12 Jun 2024,v West Indies,Tarouba,1,0,0,0,0,0
+502714,14 Jun 2024,v Uganda,Tarouba,1,0,0,0,0,0
+502714,17 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+502714,10 Jul 2024,v SF,Morrisville,1,0,0,0,0,0
+502714,23 Jul 2024,v Seattle,Dallas,2,0,0,0,0,0
+502714,30 Jul 2024,v Brave,Leeds,1,1,1,0,0,1
+502714,2 Aug 2024,v Invincibles,The Oval,2,2,2,0,0,2
+502714,4 Aug 2024,v Originals,Leeds,2,0,0,0,0,0
+502714,6 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+502714,8 Aug 2024,v Fire,Cardiff,2,0,0,0,0,0
+502714,11 Aug 2024,v Originals,Manchester,1,1,1,0,0,1
+502714,13 Aug 2024,v Spirit,Leeds,1,1,1,0,0,1
+502714,9 Nov 2024,v Sri Lanka,Dambulla,2,1,1,0,0,1
+502714,10 Nov 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+502714,28 Dec 2024,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+502714,30 Dec 2024,v Sri Lanka,Mount Maunganui,2,1,1,0,0,1
+502714,2 Jan 2025,v Sri Lanka,Nelson,1,0,0,0,0,0
+502714,19 Jan 2025,v Canterbury,Hamilton,1,1,1,0,0,1
+502714,25 Jan 2025,v Otago,Mount Maunganui,1,2,2,0,0,2
+502714,28 Jan 2025,v Canterbury,Christchurch,1,1,1,0,0,1
+502714,23 Mar 2025,v CSK,Chennai,2,0,0,0,0,0
+502714,29 Mar 2025,v GT,Ahmedabad,1,1,1,0,0,1
+502714,31 Mar 2025,v KKR,Wankhede,1,0,0,0,0,0
+502714,4 Apr 2025,v LSG,Lucknow,1,1,1,0,0,1
+502714,7 Apr 2025,v RCB,Wankhede,1,0,0,0,0,0
+502714,13 Apr 2025,v DC,Delhi,2,0,0,0,0,0
+502714,17 Apr 2025,v SRH,Wankhede,1,1,1,0,0,1
+502714,20 Apr 2025,v CSK,Wankhede,1,1,1,0,0,1
+502714,23 Apr 2025,v SRH,Hyderabad,1,1,1,0,0,1
+502714,21 May 2025,v DC,Wankhede,2,2,2,0,0,2
+502714,26 May 2025,v Punjab Kings,Jaipur,2,0,0,0,0,0
+502714,30 May 2025,v GT,New Chandigarh,2,0,0,0,0,0
+502714,1 Jun 2025,v Punjab Kings,Ahmedabad,2,1,1,0,0,1
+502714,5 Jun 2025,v Hampshire,The Oval,2,0,0,0,0,0
+502714,6 Jun 2025,v Kent,Canterbury,2,0,0,0,0,0
+502714,12 Jun 2025,v Kent,The Oval,1,1,1,0,0,1
+502714,17 Jun 2025,v Hampshire,Southampton,2,0,0,0,0,0
+502714,18 Jun 2025,v Sussex,The Oval,2,0,0,0,0,0
+502714,20 Jun 2025,v Middlesex,The Oval,2,0,0,0,0,0
+502714,6 Jul 2025,v Essex,The Oval,2,0,0,0,0,0
+502714,16 Jul 2025,v South Africa,Harare,2,1,1,0,0,1
+502714,18 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+502714,22 Jul 2025,v South Africa,Harare,1,0,0,0,0,0
+502714,24 Jul 2025,v Zimbabwe,Harare,2,0,0,0,0,0
+502714,26 Jul 2025,v South Africa,Harare,2,0,0,0,0,0
+502714,13 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+502714,15 Aug 2025,v Phoenix,Leeds,2,1,1,0,0,1
+502714,17 Aug 2025,v Originals,Manchester,1,0,0,0,0,0
+502714,20 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+502714,18 Oct 2025,v England,Christchurch,1,0,0,0,0,0
+502714,20 Oct 2025,v England,Christchurch,1,1,1,0,0,1
+502714,23 Oct 2025,v England,Auckland,-,TDNF,-,-,-,-
+502714,5 Nov 2025,v West Indies,Auckland,1,0,0,0,0,0
+502714,6 Nov 2025,v West Indies,Auckland,2,0,0,0,0,0
+502714,9 Nov 2025,v West Indies,Nelson,2,0,0,0,0,0
+502714,10 Nov 2025,v West Indies,Nelson,1,0,0,0,0,0
+502714,13 Nov 2025,v West Indies,Dunedin,1,0,0,0,0,0
+502714,11 Jan 2026,v Wellington,Wellington,1,0,0,0,0,0
+502714,13 Jan 2026,v Central D,Napier,1,1,1,0,0,1
+502714,21 Jan 2026,v India,Nagpur,1,0,0,0,0,0
+502714,23 Jan 2026,v India,Raipur,2,0,0,0,0,0
+502714,25 Jan 2026,v India,Guwahati,2,0,0,0,0,0
+502714,28 Jan 2026,v India,Visakhapatnam,2,1,1,0,0,1
+502714,31 Jan 2026,v India,Thiruvananthapuram,1,0,0,0,0,0
+502714,8 Feb 2026,v Afghanistan,Chennai,1,0,0,0,0,0
+502714,10 Feb 2026,v U.A.E.,Chennai,1,1,1,0,0,1
+502714,14 Feb 2026,v South Africa,Ahmedabad,2,0,0,0,0,0
+502714,21 Feb 2026,v Pakistan,Colombo (RPS),-,TDNF,-,-,-,-
+502714,25 Feb 2026,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+502714,27 Feb 2026,v England,Colombo (RPS),2,0,0,0,0,0
+502714,4 Mar 2026,v South Africa,Eden Gardens,1,1,1,0,0,1
+502714,8 Mar 2026,v India,Ahmedabad,1,1,1,0,0,1
+502714,15 Mar 2026,v South Africa,Mount Maunganui,2,0,0,0,0,0
+502714,17 Mar 2026,v South Africa,Hamilton,2,0,0,0,0,0

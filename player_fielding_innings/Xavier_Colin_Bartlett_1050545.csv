@@ -1,0 +1,104 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1050545,11 Dec 2020,v Stars,Canberra,2,0,0,0,0,0
+1050545,23 Dec 2020,v Strikers,Brisbane,1,0,0,0,0,0
+1050545,27 Dec 2020,v Hurricanes,Brisbane,1,0,0,0,0,0
+1050545,30 Dec 2020,v Hurricanes,Brisbane,1,1,1,0,0,1
+1050545,2 Jan 2021,v Sixers,Brisbane,1,0,0,0,0,0
+1050545,4 Jan 2021,v Thunder,Brisbane,1,0,0,0,0,0
+1050545,7 Jan 2021,v Stars,Carrara,2,2,2,0,0,2
+1050545,10 Jan 2021,v Sixers,Carrara,2,0,0,0,0,0
+1050545,14 Jan 2021,v Renegades,Canberra,1,0,0,0,0,0
+1050545,19 Jan 2021,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+1050545,21 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+1050545,23 Jan 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+1050545,26 Jan 2021,v Scorchers,Adelaide,2,0,0,0,0,0
+1050545,29 Jan 2021,v Strikers,Brisbane,1,1,1,0,0,1
+1050545,31 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+1050545,4 Feb 2021,v Scorchers,Canberra,1,0,0,0,0,0
+1050545,6 Dec 2021,v Thunder,Canberra,2,0,0,0,0,0
+1050545,8 Dec 2021,v Scorchers,Perth,1,0,0,0,0,0
+1050545,13 Dec 2021,v Renegades,Carrara,1,1,1,0,0,1
+1050545,19 Dec 2021,v Thunder,Brisbane,1,0,0,0,0,0
+1050545,29 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+1050545,1 Jan 2022,v Hurricanes,Hobart,2,1,1,0,0,1
+1050545,12 Jan 2022,v Strikers,Brisbane,1,0,0,0,0,0
+1050545,15 Dec 2022,v Renegades,Cairns,1,0,0,0,0,0
+1050545,27 Dec 2022,v Thunder,Sydney,2,0,0,0,0,0
+1050545,11 Jan 2023,v Scorchers,Brisbane,2,0,0,0,0,0
+1050545,29 Jan 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+1050545,2 Feb 2023,v Sixers,Sydney,1,0,0,0,0,0
+1050545,4 Feb 2023,v Scorchers,Perth,2,0,0,0,0,0
+1050545,7 Dec 2023,v Stars,Brisbane,2,0,0,0,0,0
+1050545,12 Dec 2023,v Thunder,Canberra,2,0,0,0,0,0
+1050545,21 Dec 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+1050545,27 Dec 2023,v Thunder,Brisbane,2,2,2,0,0,2
+1050545,3 Jan 2024,v Sixers,Coffs Harbour,1,1,1,0,0,1
+1050545,7 Jan 2024,v Hurricanes,Brisbane,2,0,0,0,0,0
+1050545,10 Jan 2024,v Scorchers,Brisbane,2,1,1,0,0,1
+1050545,13 Jan 2024,v Scorchers,Perth,1,1,1,0,0,1
+1050545,19 Jan 2024,v Sixers,Carrara,1,0,0,0,0,0
+1050545,22 Jan 2024,v Strikers,Carrara,2,0,0,0,0,0
+1050545,24 Jan 2024,v Sixers,Sydney,2,0,0,0,0,0
+1050545,13 Feb 2024,v West Indies,Perth,1,0,0,0,0,0
+1050545,31 May 2024,v Middlesex,Chelmsford,2,3,3,0,0,3
+1050545,2 Jun 2024,v Hampshire,Southampton,2,0,0,0,0,0
+1050545,7 Jun 2024,v Somerset,Canterbury,1,0,0,0,0,0
+1050545,9 Jun 2024,v Middlesex,Canterbury,2,0,0,0,0,0
+1050545,14 Jun 2024,v Somerset,Taunton,1,1,1,0,0,1
+1050545,16 Jun 2024,v Gloucs,Canterbury,2,0,0,0,0,0
+1050545,20 Jun 2024,v Sussex,Hove,1,0,0,0,0,0
+1050545,21 Jun 2024,v Essex,Canterbury,2,1,1,0,0,1
+1050545,4 Sep 2024,v Scotland,Edinburgh,1,2,2,0,0,2
+1050545,6 Sep 2024,v Scotland,Edinburgh,2,1,1,0,0,1
+1050545,11 Sep 2024,v England,Southampton,2,0,0,0,0,0
+1050545,14 Nov 2024,v Pakistan,Brisbane,2,1,1,0,0,1
+1050545,16 Nov 2024,v Pakistan,Sydney,2,2,2,0,0,2
+1050545,18 Nov 2024,v Pakistan,Hobart,1,1,1,0,0,1
+1050545,18 Dec 2024,v Stars,Melbourne,1,0,0,0,0,0
+1050545,22 Dec 2024,v Strikers,Brisbane,1,2,2,0,0,2
+1050545,26 Dec 2024,v Scorchers,Perth,1,0,0,0,0,0
+1050545,29 Dec 2024,v Sixers,Brisbane,2,0,0,0,0,0
+1050545,1 Jan 2025,v Stars,Brisbane,2,0,0,0,0,0
+1050545,6 Jan 2025,v Thunder,Brisbane,1,0,0,0,0,0
+1050545,11 Jan 2025,v Strikers,Adelaide,1,1,1,0,0,1
+1050545,16 Jan 2025,v Hurricanes,Brisbane,2,0,0,0,0,0
+1050545,18 Jan 2025,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+1050545,15 Apr 2025,v KKR,New Chandigarh,2,1,1,0,0,1
+1050545,18 Apr 2025,v RCB,Bengaluru,1,2,2,0,0,2
+1050545,20 Apr 2025,v RCB,New Chandigarh,2,0,0,0,0,0
+1050545,18 May 2025,v RR,Jaipur,2,2,2,0,0,2
+1050545,12 Jun 2025,v Washington,Oakland,2,1,1,0,0,1
+1050545,14 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+1050545,15 Jun 2025,v MI New York,Oakland,1,1,1,0,0,1
+1050545,20 Jun 2025,v Texas,Dallas,1,0,0,0,0,0
+1050545,23 Jun 2025,v MI New York,Dallas,2,0,0,0,0,0
+1050545,25 Jun 2025,v Seattle,Dallas,2,0,0,0,0,0
+1050545,28 Jun 2025,v Washington,Dallas,1,0,0,0,0,0
+1050545,1 Jul 2025,v Seattle,Lauderhill,2,0,0,0,0,0
+1050545,4 Jul 2025,v Texas,Lauderhill,2,2,2,0,0,2
+1050545,6 Jul 2025,v Los Angeles,Lauderhill,1,0,0,0,0,0
+1050545,9 Jul 2025,v MI New York,Dallas,2,1,1,0,0,1
+1050545,26 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+1050545,1 Oct 2025,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+1050545,3 Oct 2025,v New Zealand,Mount Maunganui,-,TDNF,-,-,-,-
+1050545,4 Oct 2025,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+1050545,29 Oct 2025,v India,Canberra,1,0,0,0,0,0
+1050545,31 Oct 2025,v India,Melbourne,1,0,0,0,0,0
+1050545,2 Nov 2025,v India,Hobart,2,1,1,0,0,1
+1050545,6 Nov 2025,v India,Carrara,1,0,0,0,0,0
+1050545,8 Nov 2025,v India,Brisbane,1,0,0,0,0,0
+1050545,15 Dec 2025,v Renegades,Geelong,1,0,0,0,0,0
+1050545,19 Dec 2025,v Scorchers,Brisbane,1,2,2,0,0,2
+1050545,22 Dec 2025,v Thunder,Canberra,1,0,0,0,0,0
+1050545,27 Dec 2025,v Strikers,Brisbane,2,2,2,0,0,2
+1050545,31 Dec 2025,v Strikers,Adelaide,2,0,0,0,0,0
+1050545,2 Jan 2026,v Stars,Brisbane,1,0,0,0,0,0
+1050545,5 Jan 2026,v Sixers,Coffs Harbour,2,0,0,0,0,0
+1050545,10 Jan 2026,v Thunder,Brisbane,1,1,1,0,0,1
+1050545,14 Jan 2026,v Hurricanes,Hobart,2,1,1,0,0,1
+1050545,18 Jan 2026,v Sixers,Brisbane,2,0,0,0,0,0
+1050545,29 Jan 2026,v Pakistan,Lahore,1,2,2,0,0,2
+1050545,31 Jan 2026,v Pakistan,Lahore,1,0,0,0,0,0
+1050545,11 Feb 2026,v Ireland,Colombo (RPS),2,0,0,0,0,0
+1050545,16 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+1050545,20 Feb 2026,v Oman,Pallekele,1,1,1,0,0,1

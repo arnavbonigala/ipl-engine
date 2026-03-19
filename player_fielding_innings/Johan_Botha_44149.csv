@@ -1,0 +1,223 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+44149,13 Apr 2004,v WP Boland,Gqeberha,2,1,1,0,0,1
+44149,18 Apr 2004,v Eagles,East London,1,0,0,0,0,0
+44149,21 Apr 2004,v Dolphins,Durban,2,0,0,0,0,0
+44149,23 Apr 2004,v Lions,Potchefstroom,1,0,0,0,0,0
+44149,25 Apr 2004,v Titans,Centurion,2,0,0,0,0,0
+44149,27 Apr 2004,v WP Boland,Cape Town,1,0,0,0,0,0
+44149,1 May 2004,v Eagles,East London,1,0,0,0,0,0
+44149,1 Apr 2005,v Titans,Gqeberha,-,TDNF,-,-,-,-
+44149,3 Apr 2005,v WP Boland,Cape Town,2,0,0,0,0,0
+44149,8 Apr 2005,v Lions,East London,1,0,0,0,0,0
+44149,13 Apr 2005,v Dolphins,Gqeberha,1,1,1,0,0,1
+44149,17 Apr 2005,v Eagles,Bloemfontein,1,0,0,0,0,0
+44149,22 Apr 2005,v Eagles,Gqeberha,2,0,0,0,0,0
+44149,27 Apr 2005,v Titans,Centurion,2,0,0,0,0,0
+44149,9 Jan 2006,v Australia,Brisbane,1,0,0,0,0,0
+44149,21 Feb 2007,v Eagles,Bloemfontein,1,1,1,0,0,1
+44149,25 Feb 2007,v Cape Cobras,Cape Town,2,0,0,0,0,0
+44149,2 Mar 2007,v Titans,Gqeberha,1,0,0,0,0,0
+44149,14 Mar 2007,v Lions,East London,1,1,1,0,0,1
+44149,16 Mar 2007,v Cape Cobras,Cape Town,2,1,1,0,0,1
+44149,23 Nov 2007,v New Zealand,Johannesburg,1,0,0,0,0,0
+44149,16 Dec 2007,v West Indies,Gqeberha,2,0,0,0,0,0
+44149,18 Jan 2008,v West Indies,Johannesburg,1,2,2,0,0,2
+44149,25 Mar 2008,v Zimbabwe,Gqeberha,2,1,1,0,0,1
+44149,28 Mar 2008,v Titans,Benoni,1,0,0,0,0,0
+44149,30 Mar 2008,v Lions,Potchefstroom,2,0,0,0,0,0
+44149,4 Apr 2008,v Cape Cobras,East London,1,1,1,0,0,1
+44149,6 Apr 2008,v Dolphins,Durban,2,1,1,0,0,1
+44149,13 Apr 2008,v Eagles,Gqeberha,1,0,0,0,0,0
+44149,5 Nov 2008,v Bangladesh,Johannesburg,2,0,0,0,0,0
+44149,11 Jan 2009,v Australia,Melbourne,1,1,1,0,0,1
+44149,13 Jan 2009,v Australia,Brisbane,2,1,1,0,0,1
+44149,6 Feb 2009,v Lions,Gqeberha,1,1,1,0,0,1
+44149,8 Feb 2009,v Eagles,Bloemfontein,2,0,0,0,0,0
+44149,11 Feb 2009,v Eagles,Bloemfontein,2,0,0,0,0,0
+44149,15 Feb 2009,v Eagles,Gqeberha,2,0,0,0,0,0
+44149,16 Feb 2009,v Eagles,Gqeberha,1,1,1,0,0,1
+44149,18 Feb 2009,v Eagles,Gqeberha,2,2,2,0,0,2
+44149,27 Mar 2009,v Australia,Johannesburg,1,1,1,0,0,1
+44149,29 Mar 2009,v Australia,Centurion,2,0,0,0,0,0
+44149,14 May 2009,v MI,Durban,2,0,0,0,0,0
+44149,17 May 2009,v Daredevils,Bloemfontein,1,0,0,0,0,0
+44149,20 May 2009,v KKR,Durban,2,0,0,0,0,0
+44149,7 Jun 2009,v Scotland,The Oval,2,0,0,0,0,0
+44149,9 Jun 2009,v New Zealand,Lord's,2,0,0,0,0,0
+44149,11 Jun 2009,v England,Nottingham,1,0,0,0,0,0
+44149,13 Jun 2009,v West Indies,The Oval,2,2,2,0,0,2
+44149,16 Jun 2009,v India,Nottingham,2,0,0,0,0,0
+44149,18 Jun 2009,v Pakistan,Nottingham,1,1,1,0,0,1
+44149,13 Nov 2009,v England,Johannesburg,1,1,1,0,0,1
+44149,3 Mar 2010,v Cape Cobras,Cape Town,2,0,0,0,0,0
+44149,12 Mar 2010,v Lions,Gqeberha,2,0,0,0,0,0
+44149,6 May 2010,v New Zealand,Bridgetown,2,0,0,0,0,0
+44149,8 May 2010,v England,Bridgetown,1,0,0,0,0,0
+44149,10 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+44149,19 May 2010,v West Indies,North Sound,2,0,0,0,0,0
+44149,20 May 2010,v West Indies,North Sound,2,1,1,0,0,1
+44149,11 Sep 2010,v Wayamba,Gqeberha,1,2,2,0,0,2
+44149,13 Sep 2010,v Victoria,Gqeberha,2,0,0,0,0,0
+44149,18 Sep 2010,v Central D,Gqeberha,1,0,0,0,0,0
+44149,22 Sep 2010,v CSK,Gqeberha,1,0,0,0,0,0
+44149,25 Sep 2010,v South Aust,Centurion,2,1,1,0,0,1
+44149,26 Sep 2010,v CSK,Johannesburg,2,1,1,0,0,1
+44149,8 Oct 2010,v Zimbabwe,Bloemfontein,1,1,1,0,0,1
+44149,10 Oct 2010,v Zimbabwe,Kimberley,2,2,2,0,0,2
+44149,26 Oct 2010,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+44149,27 Oct 2010,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+44149,9 Jan 2011,v India,Durban,1,0,0,0,0,0
+44149,9 Apr 2011,v Chargers,Hyderabad,1,3,3,0,0,3
+44149,12 Apr 2011,v Daredevils,Jaipur,1,1,1,0,0,1
+44149,15 Apr 2011,v KKR,Jaipur,2,0,0,0,0,0
+44149,24 Apr 2011,v Kochi,Jaipur,1,0,0,0,0,0
+44149,29 Apr 2011,v MI,Jaipur,1,1,1,0,0,1
+44149,1 May 2011,v Warriors,Jaipur,1,0,0,0,0,0
+44149,4 May 2011,v CSK,Chennai,2,1,1,0,0,1
+44149,9 May 2011,v CSK,Jaipur,1,0,0,0,0,0
+44149,11 May 2011,v RCB,Jaipur,2,0,0,0,0,0
+44149,20 May 2011,v MI,Wankhede,1,0,0,0,0,0
+44149,3 Jun 2011,v Leics,Northampton,2,0,0,0,0,0
+44149,5 Jun 2011,v Warwickshire,Birmingham,2,0,0,0,0,0
+44149,9 Jun 2011,v Durham,Northampton,2,0,0,0,0,0
+44149,10 Jun 2011,v Worcs,Worcester,2,0,0,0,0,0
+44149,15 Jun 2011,v Warwickshire,Northampton,2,0,0,0,0,0
+44149,18 Jun 2011,v Notts,Nottingham,1,0,0,0,0,0
+44149,29 Jun 2011,v Worcs,Milton Keynes,2,0,0,0,0,0
+44149,1 Jul 2011,v Yorkshire,Northampton,1,0,0,0,0,0
+44149,3 Jul 2011,v Leics,Leicester,2,0,0,0,0,0
+44149,9 Jul 2011,v Derbyshire,Derby,1,0,0,0,0,0
+44149,12 Jul 2011,v Lancashire,Northampton,1,0,0,0,0,0
+44149,14 Jul 2011,v Durham,Chester-le-Street,1,0,0,0,0,0
+44149,15 Jul 2011,v Lancashire,Manchester,1,1,1,0,0,1
+44149,23 Sep 2011,v RCB,Bengaluru,1,1,1,0,0,1
+44149,25 Sep 2011,v South Aust,Hyderabad,2,0,0,0,0,0
+44149,1 Oct 2011,v KKR,Bengaluru,2,0,0,0,0,0
+44149,5 Oct 2011,v Somerset,Bengaluru,1,0,0,0,0,0
+44149,13 Oct 2011,v Australia,Cape Town,2,0,0,0,0,0
+44149,16 Oct 2011,v Australia,Johannesburg,1,0,0,0,0,0
+44149,18 Dec 2011,v Renegades,Adelaide,2,0,0,0,0,0
+44149,23 Dec 2011,v Thunder,Sydney,2,0,0,0,0,0
+44149,28 Dec 2011,v Hurricanes,Adelaide,1,0,0,0,0,0
+44149,3 Jan 2012,v Heat,Brisbane,2,1,1,0,0,1
+44149,15 Feb 2012,v Canterbury,Christchurch,2,0,0,0,0,0
+44149,17 Feb 2012,v New Zealand,Wellington,2,0,0,0,0,0
+44149,19 Feb 2012,v New Zealand,Hamilton,1,0,0,0,0,0
+44149,22 Feb 2012,v New Zealand,Auckland,2,0,0,0,0,0
+44149,9 Mar 2012,v Knights,Gqeberha,1,0,0,0,0,0
+44149,14 Mar 2012,v Lions,Johannesburg,1,1,1,0,0,1
+44149,16 Mar 2012,v Cape Cobras,Cape Town,2,0,0,0,0,0
+44149,18 Mar 2012,v Knights,Kimberley,2,1,1,0,0,1
+44149,21 Mar 2012,v Titans,Centurion,2,0,0,0,0,0
+44149,30 Mar 2012,v India,Johannesburg,2,0,0,0,0,0
+44149,6 Apr 2012,v Kings XI,Jaipur,2,0,0,0,0,0
+44149,8 Apr 2012,v KKR,Jaipur,2,0,0,0,0,0
+44149,11 Apr 2012,v MI,Wankhede,1,0,0,0,0,0
+44149,13 Apr 2012,v KKR,Eden Gardens,2,0,0,0,0,0
+44149,15 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+44149,17 Apr 2012,v Chargers,Jaipur,1,0,0,0,0,0
+44149,5 May 2012,v Kings XI,Mohali,2,2,2,0,0,2
+44149,8 May 2012,v Warriors,Pune,1,0,0,0,0,0
+44149,10 May 2012,v CSK,Jaipur,2,1,1,0,0,1
+44149,13 May 2012,v Warriors,Jaipur,2,0,0,0,0,0
+44149,18 May 2012,v Chargers,Hyderabad,2,0,0,0,0,0
+44149,8 Sep 2012,v England,Chester-le-Street,1,2,2,0,0,2
+44149,10 Sep 2012,v England,Manchester,2,0,0,0,0,0
+44149,12 Sep 2012,v England,Birmingham,1,0,0,0,0,0
+44149,20 Sep 2012,v Zimbabwe,Hambantota,1,0,0,0,0,0
+44149,22 Sep 2012,v Sri Lanka,Hambantota,2,0,0,0,0,0
+44149,28 Sep 2012,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+44149,30 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+44149,2 Oct 2012,v India,Colombo (RPS),1,0,0,0,0,0
+44149,9 Dec 2012,v Scorchers,W.A.C.A,1,0,0,0,0,0
+44149,13 Dec 2012,v Heat,Adelaide,2,0,0,0,0,0
+44149,20 Dec 2012,v Thunder,Sydney,2,3,3,0,0,3
+44149,23 Dec 2012,v Sixers,Adelaide,1,0,0,0,0,0
+44149,27 Dec 2012,v Stars,Adelaide,1,0,0,0,0,0
+44149,2 Jan 2013,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+44149,5 Jan 2013,v Hurricanes,Hobart,2,1,1,0,0,1
+44149,10 Jan 2013,v Scorchers,Adelaide,1,0,0,0,0,0
+44149,3 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+44149,6 Apr 2013,v RR,Delhi,1,0,0,0,0,0
+44149,12 Apr 2013,v SRH,Delhi,2,2,2,0,0,2
+44149,23 Apr 2013,v Kings XI,Delhi,2,3,3,0,0,3
+44149,4 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+44149,14 May 2013,v CSK,Chennai,1,0,0,0,0,0
+44149,22 Dec 2013,v Hurricanes,Hobart,-,TDNF,-,-,-,-
+44149,27 Dec 2013,v Thunder,Sydney,2,1,1,0,0,1
+44149,31 Dec 2013,v Scorchers,Adelaide,1,1,1,0,0,1
+44149,16 Jan 2014,v Scorchers,W.A.C.A,1,1,1,0,0,1
+44149,18 Jan 2014,v Heat,Adelaide,1,1,1,0,0,1
+44149,22 Jan 2014,v Renegades,Adelaide,1,0,0,0,0,0
+44149,18 Dec 2014,v Stars,Adelaide,1,1,1,0,0,1
+44149,22 Dec 2014,v Scorchers,W.A.C.A,1,0,0,0,0,0
+44149,31 Dec 2014,v Hurricanes,Adelaide,1,0,0,0,0,0
+44149,4 Jan 2015,v Heat,Brisbane,1,0,0,0,0,0
+44149,6 Jan 2015,v Scorchers,Adelaide,1,1,1,0,0,1
+44149,12 Jan 2015,v Thunder,Adelaide,2,0,0,0,0,0
+44149,14 Jan 2015,v Sixers,Sydney,2,0,0,0,0,0
+44149,19 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+44149,24 Jan 2015,v Sixers,Adelaide,1,0,0,0,0,0
+44149,22 Apr 2015,v SRH,Visakhapatnam,1,2,2,0,0,2
+44149,4 May 2015,v SRH,Eden Gardens,2,0,0,0,0,0
+44149,7 May 2015,v Daredevils,Eden Gardens,2,1,1,0,0,1
+44149,9 May 2015,v Kings XI,Eden Gardens,1,1,1,0,0,1
+44149,21 Jun 2015,v Zouks,Gros Islet,1,2,2,0,0,2
+44149,25 Jun 2015,v Tridents,Bridgetown,2,1,1,0,0,1
+44149,4 Jul 2015,v Amazon,Basseterre,1,0,0,0,0,0
+44149,9 Jul 2015,v Tallawahs,Kingston,1,0,0,0,0,0
+44149,11 Jul 2015,v Patriots,Basseterre,1,1,1,0,0,1
+44149,14 Jul 2015,v Zouks,Port of Spain,2,1,1,0,0,1
+44149,16 Jul 2015,v Tridents,Port of Spain,2,3,3,0,0,3
+44149,18 Jul 2015,v Patriots,Port of Spain,2,1,1,0,0,1
+44149,19 Jul 2015,v Tallawahs,Port of Spain,2,1,1,0,0,1
+44149,21 Jul 2015,v Amazon,Providence,2,0,0,0,0,0
+44149,23 Jul 2015,v Tallawahs,Port of Spain,2,1,1,0,0,1
+44149,25 Jul 2015,v Amazon,Port of Spain,1,1,1,0,0,1
+44149,26 Jul 2015,v Tridents,Port of Spain,2,0,0,0,0,0
+44149,17 Dec 2015,v Thunder,Sydney,1,0,0,0,0,0
+44149,20 Dec 2015,v Hurricanes,Sydney,2,0,0,0,0,0
+44149,23 Dec 2015,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+44149,27 Dec 2015,v Stars,Sydney,2,1,1,0,0,1
+44149,31 Dec 2015,v Strikers,Adelaide,2,0,0,0,0,0
+44149,2 Jan 2016,v Scorchers,W.A.C.A,2,0,0,0,0,0
+44149,10 Jan 2016,v Heat,Sydney,1,0,0,0,0,0
+44149,16 Jan 2016,v Thunder,Sydney,1,0,0,0,0,0
+44149,20 Dec 2016,v Thunder,Sydney,1,0,0,0,0,0
+44149,23 Dec 2016,v Hurricanes,Sydney,1,0,0,0,0,0
+44149,27 Dec 2016,v Scorchers,Sydney,1,2,2,0,0,2
+44149,31 Dec 2016,v Strikers,Adelaide,1,1,1,0,0,1
+44149,3 Jan 2017,v Heat,Brisbane,1,1,1,0,0,1
+44149,9 Jan 2017,v Renegades,Sydney,1,0,0,0,0,0
+44149,14 Jan 2017,v Thunder,Sydney,2,1,1,0,0,1
+44149,21 Jan 2017,v Stars,Melbourne,1,0,0,0,0,0
+44149,25 Jan 2017,v Heat,Brisbane,1,0,0,0,0,0
+44149,28 Jan 2017,v Scorchers,W.A.C.A,2,0,0,0,0,0
+44149,19 Dec 2017,v Thunder,Sydney,2,0,0,0,0,0
+44149,23 Dec 2017,v Scorchers,Sydney,2,0,0,0,0,0
+44149,28 Dec 2017,v Strikers,Sydney,1,0,0,0,0,0
+44149,1 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+44149,3 Jan 2018,v Renegades,Geelong,2,0,0,0,0,0
+44149,8 Jan 2018,v Hurricanes,Hobart,1,2,2,0,0,2
+44149,13 Jan 2018,v Thunder,Sydney,1,0,0,0,0,0
+44149,16 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+44149,18 Jan 2018,v Heat,Sydney,1,0,0,0,0,0
+44149,23 Jan 2018,v Stars,Sydney,1,0,0,0,0,0
+44149,5 Oct 2018,v Qalandars,Abu Dhabi,1,0,0,0,0,0
+44149,6 Oct 2018,v Yorkshire,Abu Dhabi,2,0,0,0,0,0
+44149,22 Dec 2018,v Heat,Carrara,2,0,0,0,0,0
+44149,24 Dec 2018,v Stars,Hobart,1,0,0,0,0,0
+44149,28 Dec 2018,v Thunder,Hobart,1,1,1,0,0,1
+44149,30 Dec 2018,v Scorchers,Launceston,1,1,1,0,0,1
+44149,4 Jan 2019,v Sixers,Hobart,1,0,0,0,0,0
+44149,7 Jan 2019,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+44149,14 Jan 2019,v Stars,Melbourne,2,2,2,0,0,2
+44149,18 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+44149,21 Jan 2019,v Strikers,Adelaide,1,1,1,0,0,1
+44149,23 Jan 2019,v Sixers,Sydney,2,1,1,0,0,1
+44149,10 Dec 2020,v Sixers,Hobart,2,0,0,0,0,0
+44149,13 Dec 2020,v Strikers,Hobart,2,0,0,0,0,0
+44149,15 Dec 2020,v Strikers,Launceston,2,0,0,0,0,0
+44149,2 Jan 2021,v Stars,Hobart,2,0,0,0,0,0
+44149,4 Jan 2021,v Stars,Hobart,1,0,0,0,0,0
+44149,7 Jan 2021,v Thunder,Perth,1,1,1,0,0,1

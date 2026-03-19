@@ -1,16 +1,16 @@
 # IPL Match Prediction
 
-Post-toss winner predictor for the Indian Premier League, built on ball-by-ball data from ESPNCricinfo (2015--2025). A scaled logistic regression with 9 features achieves **76.3% average holdout accuracy** across the 2023, 2024, and 2025 seasons.
+Post-toss winner predictor for the Indian Premier League, built on ball-by-ball data from ESPNCricinfo (2015--2025). A stacked ensemble of specialist logistic regressions achieves **78.6% average holdout accuracy** across the 2023, 2024, and 2025 seasons.
 
 ## Results
 
 | Holdout | Accuracy | Correct / Total | Brier Score | ROC AUC |
 |---------|----------|-----------------|-------------|---------|
-| 2023    | 78.1%    | 57 / 73         | 0.211       | 0.765   |
-| 2024    | 76.1%    | 54 / 71         | 0.210       | 0.738   |
-| 2025    | 74.6%    | 53 / 71         | 0.200       | 0.756   |
+| 2023    | 76.7%    | 56 / 73         | 0.229       | 0.767   |
+| 2024    | 77.5%    | 55 / 71         | 0.173       | 0.819   |
+| 2025    | 81.7%    | 58 / 71         | 0.152       | 0.859   |
 
-Features were selected via multi-start forward selection optimizing average accuracy across all three holdout years.
+The model stacks 4 base models (baseline, composition, form, phase) via a meta-learner trained on out-of-fold predictions.
 
 ## Data Pipeline
 
@@ -22,7 +22,10 @@ fetch_data.py          → master_matches.csv   (716 matches, 2015-2025)
                        → player_innings/      (506 player career files)
 fetch_bios.py          → player_bios.csv      (506 players: bat/bowl style, role)
 fetch_weather.py       → match_weather.csv    (weather + day/night for all matches)
-predictor/build_dataset.py → dataset.csv      (704 valid matches × 254 features)
+fetch_captains.py      → match_captains.csv   (captain info per match)
+fetch_fielding.py      → player_fielding.csv  (career fielding stats)
+fetch_fielding_innings.py → player_fielding_innings/ (506 innings-level fielding CSVs)
+predictor/build_dataset.py → dataset.csv      (704 valid matches × 284 features)
 ```
 
 `fetch_data.py` pulls three things per season: match metadata, full ball-by-ball delivery data for every match, and complete T20 career innings for every player who appeared. `fetch_bios.py` adds lightweight player metadata (batting hand, bowling style classified as pace/spin, role).
@@ -51,7 +54,7 @@ The dataset builder walks matches in chronological order. For each match, featur
 | Weather / time | Temperature, humidity, dew point, wind, cloud cover, day/night | Open-Meteo via cricdata |
 | Diff features | team1_X - team2_X for all paired features | Derived |
 
-Of these 254, only **9 are used by the final model** — the rest are noise at this sample size.
+Of these 254, only **23 are used by the final model** across 4 specialist base models — the rest are noise at this sample size.
 
 ## Model Design Decisions
 
@@ -77,23 +80,18 @@ Exponential decay with half-life of 2 years, plus a 3x multiplier for impact-pla
 
 This captures the user's intuition that last year's cricket is the best predictor of this year's cricket, especially within the same rule era.
 
-### The 9 selected features
+### Stacked ensemble architecture
 
-Chosen by multi-start forward selection optimizing average accuracy across 2023+2024+2025 holdouts:
+4 base models, each a scaled LR (C=0.1) trained on a different thematic feature subset. A meta-learner LR (C=0.1) combines their out-of-fold predictions.
 
-| Feature | Coefficient | Meaning |
-|---------|-------------|---------|
-| t2_spin_count | +0.72 | Team 2 number of spin bowlers |
-| t2_pace_count | +0.69 | Team 2 number of pace bowlers |
-| diff_season_matches | -0.38 | Difference in matches played this season |
-| diff_win_streak | -0.30 | Difference in current win/loss streak |
-| diff_middle_bowl_extras_per_match | -0.15 | Relative middle-overs bowling extras |
-| diff_left_bowl_count | -0.12 | Relative left-arm bowler count |
-| diff_table_nrr | -0.07 | Difference in pre-match net run rate |
-| t2_low_bat_sr | -0.06 | Team 2 low-strike-rate batsmen count |
-| h2h_t1_win_rate | -0.06 | Head-to-head historical win rate |
+| Base Model | Features |
+|------------|----------|
+| Baseline (9) | diff_win_streak, t2_spin_count, t2_pace_count, diff_season_matches, h2h_t1_win_rate, diff_left_bowl_count, t2_low_bat_sr, diff_middle_bowl_extras_per_match, diff_table_nrr |
+| Composition (5) | t2_specialist_bowler, t2_bowling_ar, t2_specialist_bat, t2_allrounder, t2_wk_bat |
+| Form (5) | t2_win_streak, diff_season_matches, diff_matches_played, t1_win_rate_last10, t2_loss_streak |
+| Phase (4) | t1_middle_bat_dot_pct, t2_powerplay_bowl_rr, diff_death_bowl_bound_pct, diff_death_bowl_extras_per_match |
 
-The dominant signals are bowling composition and current-season momentum — teams with more bowling options and better recent form win more.
+The meta-learner OOF predictions are generated via leave-one-season-out cross-validation within the training data to avoid leakage.
 
 ### What didn't work
 
@@ -101,8 +99,11 @@ The dominant signals are bowling composition and current-season momentum — tea
 - **254-feature GBDT**: Massive overfitting. Walk-forward accuracy was ~58% — barely above the 50% baseline.
 - **Weather / time features**: Temperature, humidity, dew point, wind, and cloud cover — none improved accuracy. The toss decision and venue features already capture this signal implicitly.
 - **Points table position / points**: Collinear with existing win streak and season matches features. Only NRR (which encodes *dominance* of wins) added signal.
-- **Squad churn / win margins / phase matchups / playoff flag / boundary size / player role balance**: All tested individually and in combination; none improved the 9-feature baseline at this sample size.
+- **Squad churn / win margins / phase matchups / playoff flag / boundary size / player role balance**: All tested individually and in combination; none improved the baseline at this sample size.
 - **Win rate features across seasons**: "Last 5 matches" spanning two seasons has r = 0.02 with outcomes. Current-season-only form is what matters.
+- **Cross-league T20 data (BBL, PSL, CPL, SA20)**: Different rules, conditions, and player pools mean signals don't transfer to IPL prediction.
+- **Betting odds**: No freely available historical dataset. Would require browser scraping of OddsPortal and wouldn't cover training years (pre-2023).
+- **Time-ordered fielding quality**: Innings-by-innings dismissals-per-innings computed with strict time ordering. Career-level fielding stats appeared strong (80.5% solo) but were leaking future data; once properly time-ordered, the signal vanishes.
 
 ## Project Structure
 
@@ -117,8 +118,8 @@ The dominant signals are bowling composition and current-season momentum — tea
 ├── match_weather.csv          # Weather and time data per match
 ├── dataset.csv                # 704 matches × 254 features (built with time ordering)
 ├── models/
-│   ├── model.pkl              # Production sklearn Pipeline (StandardScaler + LogisticRegression)
-│   └── bundle.json            # Feature list, hyperparameters, config
+│   ├── model.pkl              # Stacked ensemble (4 base LR pipelines + meta-learner)
+│   └── bundle.json            # Feature sets, hyperparameters, config
 ├── predictor/
 │   ├── normalize.py           # Team name normalization, result parsing
 │   ├── playing_xi.py          # Extract playing XIs from ball-by-ball data

@@ -1,0 +1,142 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+698315,14 Sep 2018,v Free State,Oudtshoorn,2,0,0,0,0,0
+698315,15 Sep 2018,v Zim Select,Oudtshoorn,2,0,0,0,0,0
+698315,15 Sep 2018,v S West D,Oudtshoorn,1,0,0,0,0,0
+698315,16 Sep 2018,v Gauteng,Oudtshoorn,2,0,0,0,0,0
+698315,17 Nov 2019,v Paarl Rocks,Paarl,1,1,1,0,0,1
+698315,28 Sep 2021,v Knights,Bloemfontein,2,0,0,0,0,0
+698315,29 Sep 2021,v Mpumalanga,Bloemfontein,2,0,0,0,0,0
+698315,30 Sep 2021,v KZN-Inland,Bloemfontein,2,1,1,0,0,1
+698315,19 Oct 2021,v S West D,Kimberley,2,0,0,0,0,0
+698315,21 Oct 2021,v Dolphins,Kimberley,2,1,1,0,0,1
+698315,7 Feb 2022,v Warriors,Gqeberha,1,0,0,0,0,0
+698315,9 Feb 2022,v Boland,Gqeberha,2,1,1,0,0,1
+698315,12 Feb 2022,v Knights,Gqeberha,2,0,0,0,0,0
+698315,14 Feb 2022,v Dolphins,Gqeberha,1,0,0,0,0,0
+698315,17 Feb 2022,v Lions,Gqeberha,1,0,0,0,0,0
+698315,19 Feb 2022,v W Province,Gqeberha,1,0,0,0,0,0
+698315,22 Feb 2022,v North West,Gqeberha,2,0,0,0,0,0
+698315,25 Feb 2022,v Dolphins,Gqeberha,1,1,1,0,0,1
+698315,27 Feb 2022,v Boland,Gqeberha,1,0,0,0,0,0
+698315,17 Oct 2022,v Dolphins,Potchefstroom,2,0,0,0,0,0
+698315,19 Oct 2022,v Lions,Potchefstroom,2,1,1,0,1,0
+698315,21 Oct 2022,v W Province,Potchefstroom,2,0,0,0,0,0
+698315,22 Oct 2022,v North West,Potchefstroom,1,1,1,0,0,1
+698315,31 Oct 2022,v Knights,Potchefstroom,2,1,1,0,1,0
+698315,2 Nov 2022,v Knights,Potchefstroom,2,1,1,0,1,0
+698315,5 Nov 2022,v Dolphins,Potchefstroom,1,2,2,0,2,0
+698315,11 Jan 2023,v Super Giants,Durban,2,1,1,0,0,1
+698315,13 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+698315,14 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+698315,17 Jan 2023,v Capitals,Johannesburg,2,0,0,0,0,0
+698315,18 Jan 2023,v Capitals,Centurion,2,0,0,0,0,0
+698315,21 Jan 2023,v Sunrisers,Gqeberha,1,5,4,1,4,0
+698315,24 Jan 2023,v Super Giants,Johannesburg,1,0,0,0,0,0
+698315,3 Feb 2023,v Paarl Royals,Johannesburg,1,1,1,0,0,1
+698315,5 Feb 2023,v Sunrisers,Johannesburg,2,1,1,0,0,1
+698315,6 Feb 2023,v MI Cape Town,Johannesburg,2,1,1,0,0,1
+698315,9 Feb 2023,v Sunrisers,Centurion,1,1,1,0,0,1
+698315,17 Aug 2023,v Kings,Gros Islet,1,1,0,1,0,0
+698315,3 Sep 2023,v Australia,Durban,2,1,1,0,0,1
+698315,14 Dec 2023,v India,Johannesburg,1,0,0,0,0,0
+698315,13 Jan 2024,v MI Cape Town,Johannesburg,1,1,1,0,0,1
+698315,15 Jan 2024,v Super Giants,Durban,1,1,1,0,1,0
+698315,17 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+698315,20 Jan 2024,v Capitals,Johannesburg,1,2,1,1,1,0
+698315,24 Jan 2024,v Paarl Royals,Johannesburg,2,0,0,0,0,0
+698315,27 Jan 2024,v Capitals,Centurion,-,TDNF,-,-,-,-
+698315,29 Jan 2024,v MI Cape Town,Cape Town,1,0,0,0,0,0
+698315,31 Jan 2024,v Sunrisers,Johannesburg,2,1,1,0,1,0
+698315,3 Feb 2024,v Super Giants,Johannesburg,1,0,0,0,0,0
+698315,7 Feb 2024,v Paarl Royals,Johannesburg,1,3,3,0,3,0
+698315,8 Feb 2024,v Super Giants,Johannesburg,1,1,1,0,1,0
+698315,8 Mar 2024,v North West,Centurion,2,0,0,0,0,0
+698315,10 Mar 2024,v Boland,Paarl,1,0,0,0,0,0
+698315,7 May 2024,v DC,Delhi,1,1,1,0,0,1
+698315,15 May 2024,v Punjab Kings,Guwahati,2,0,0,0,0,0
+698315,30 May 2024,v Worcs,Leeds,1,2,1,1,1,0
+698315,31 May 2024,v Leics,Leicester,2,0,0,0,0,0
+698315,2 Jun 2024,v Northants,Northampton,2,0,0,0,0,0
+698315,14 Jun 2024,v Bears,Birmingham,2,0,0,0,0,0
+698315,16 Jun 2024,v Leics,Leeds,1,2,2,0,2,0
+698315,20 Jun 2024,v Lancashire,Leeds,2,0,0,0,0,0
+698315,21 Jun 2024,v Durham,Chester-le-Street,1,2,1,1,1,0
+698315,5 Jul 2024,v Bears,Leeds,1,1,1,0,1,0
+698315,7 Jul 2024,v Derbyshire,Chesterfield,2,0,0,0,0,0
+698315,11 Jul 2024,v Durham,Leeds,1,3,1,2,1,0
+698315,14 Jul 2024,v Worcs,Worcester,1,1,0,1,0,0
+698315,19 Jul 2024,v Notts,Leeds,1,0,0,0,0,0
+698315,23 Jul 2024,v Phoenix,The Oval,1,0,0,0,0,0
+698315,28 Jul 2024,v Fire,Cardiff,2,0,0,0,0,0
+698315,2 Aug 2024,v N S-Chargers,The Oval,1,2,2,0,0,2
+698315,4 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+698315,6 Aug 2024,v Originals,Manchester,2,0,0,0,0,0
+698315,8 Aug 2024,v Brave,The Oval,1,0,0,0,0,0
+698315,11 Aug 2024,v Spirit,The Oval,1,4,4,0,0,4
+698315,14 Aug 2024,v Rockets,Nottingham,2,1,1,0,0,1
+698315,18 Aug 2024,v Brave,Lord's,2,0,0,0,0,0
+698315,23 Aug 2024,v West Indies,Tarouba,2,0,0,0,0,0
+698315,25 Aug 2024,v West Indies,Tarouba,1,1,1,0,0,1
+698315,27 Sep 2024,v Lions,Johannesburg,2,0,0,0,0,0
+698315,4 Oct 2024,v Dolphins,Durban,2,2,2,0,0,2
+698315,6 Oct 2024,v W Province,Centurion,2,0,0,0,0,0
+698315,9 Oct 2024,v Boland,Centurion,2,1,1,0,0,1
+698315,13 Oct 2024,v Knights,Centurion,1,1,1,0,0,1
+698315,15 Oct 2024,v North West,Centurion,-,TDNF,-,-,-,-
+698315,19 Oct 2024,v Warriors,Gqeberha,1,0,0,0,0,0
+698315,22 Oct 2024,v Lions,Johannesburg,2,0,0,0,0,0
+698315,25 Oct 2024,v W Province,Centurion,2,1,1,0,0,1
+698315,27 Oct 2024,v Lions,Johannesburg,2,0,0,0,0,0
+698315,10 Dec 2024,v Pakistan,Durban,2,1,1,0,0,1
+698315,13 Dec 2024,v Pakistan,Centurion,1,1,1,0,0,1
+698315,11 Jan 2025,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+698315,14 Jan 2025,v Super Giants,Durban,2,1,1,0,0,1
+698315,16 Jan 2025,v Capitals,Johannesburg,1,1,1,0,0,1
+698315,18 Jan 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+698315,20 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+698315,24 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+698315,26 Jan 2025,v Sunrisers,Johannesburg,1,2,2,0,0,2
+698315,28 Jan 2025,v Capitals,Centurion,2,1,1,0,0,1
+698315,30 Jan 2025,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+698315,1 Feb 2025,v Super Giants,Johannesburg,1,1,1,0,0,1
+698315,19 Apr 2025,v GT,Ahmedabad,2,0,0,0,0,0
+698315,13 Jun 2025,v MI New York,Oakland,2,0,0,0,0,0
+698315,15 Jun 2025,v Los Angeles,Oakland,2,1,1,0,0,1
+698315,22 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+698315,24 Jun 2025,v Los Angeles,Dallas,2,0,0,0,0,0
+698315,29 Jun 2025,v MI New York,Dallas,2,3,3,0,0,3
+698315,2 Jul 2025,v Washington,Lauderhill,2,0,0,0,0,0
+698315,4 Jul 2025,v SF,Lauderhill,1,1,1,0,0,1
+698315,5 Jul 2025,v Seattle,Lauderhill,2,3,3,0,0,3
+698315,8 Jul 2025,v Washington,Dallas,-,TDNF,-,-,-,-
+698315,11 Jul 2025,v MI New York,Dallas,2,0,0,0,0,0
+698315,5 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+698315,9 Aug 2025,v Originals,The Oval,1,2,2,0,0,2
+698315,12 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+698315,16 Aug 2025,v Fire,The Oval,2,0,0,0,0,0
+698315,18 Aug 2025,v Brave,Southampton,1,1,1,0,0,1
+698315,21 Aug 2025,v Rockets,The Oval,1,1,1,0,0,1
+698315,23 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+698315,25 Aug 2025,v Spirit,The Oval,1,1,1,0,0,1
+698315,31 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+698315,10 Sep 2025,v England,Cardiff,2,1,1,0,0,1
+698315,12 Sep 2025,v England,Manchester,1,0,0,0,0,0
+698315,11 Oct 2025,v Namibia,Windhoek,2,0,0,0,0,0
+698315,28 Oct 2025,v Pakistan,Rawalpindi,2,1,1,0,0,1
+698315,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+698315,1 Nov 2025,v Pakistan,Lahore,2,1,1,0,0,1
+698315,14 Nov 2025,v North West,Potchefstroom,2,1,1,0,0,1
+698315,21 Nov 2025,v Dolphins,Centurion,2,0,0,0,0,0
+698315,9 Dec 2025,v India,Cuttack,1,1,1,0,0,1
+698315,11 Dec 2025,v India,New Chandigarh,2,0,0,0,0,0
+698315,14 Dec 2025,v India,Dharamsala,2,0,0,0,0,0
+698315,19 Dec 2025,v India,Ahmedabad,1,0,0,0,0,0
+698315,27 Dec 2025,v Capitals,Centurion,2,1,1,0,1,0
+698315,30 Dec 2025,v Super Giants,Durban,1,1,1,0,1,0
+698315,1 Jan 2026,v Super Giants,Johannesburg,2,0,0,0,0,0
+698315,3 Jan 2026,v Sunrisers,Johannesburg,-,TDNF,-,-,-,-
+698315,6 Jan 2026,v MI Cape Town,Cape Town,2,1,1,0,1,0
+698315,8 Jan 2026,v Paarl Royals,Johannesburg,-,TDNF,-,-,-,-
+698315,10 Jan 2026,v MI Cape Town,Johannesburg,1,1,1,0,0,1
+698315,14 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+698315,17 Jan 2026,v Capitals,Johannesburg,1,1,1,0,0,1

@@ -1,0 +1,365 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+244497,12 Jun 2008,v Derbyshire,Leeds,1,0,0,0,0,0
+244497,13 Jun 2008,v Notts,Leeds,2,1,1,0,0,1
+244497,17 Jun 2008,v Leics,Leicester,1,0,0,0,0,0
+244497,18 Jun 2008,v Lancashire,Leeds,1,0,0,0,0,0
+244497,20 Jun 2008,v Lancashire,Manchester,2,0,0,0,0,0
+244497,22 Jun 2008,v Durham,Leeds,2,0,0,0,0,0
+244497,24 Jun 2008,v Durham,Chester-le-Street,1,1,1,0,0,1
+244497,27 Jun 2008,v Notts,Nottingham,1,1,1,0,0,1
+244497,29 May 2009,v Lancashire,Leeds,2,0,0,0,0,0
+244497,5 Jun 2009,v Netherlands,Lord's,2,0,0,0,0,0
+244497,7 Jun 2009,v Pakistan,The Oval,2,0,0,0,0,0
+244497,11 Jun 2009,v South Africa,Nottingham,2,0,0,0,0,0
+244497,15 Jun 2009,v West Indies,The Oval,2,0,0,0,0,0
+244497,22 Jun 2009,v Notts,Nottingham,1,0,0,0,0,0
+244497,24 Jun 2009,v Durham,Chester-le-Street,1,2,2,0,0,2
+244497,10 Nov 2009,v SA A,Bloemfontein,2,0,0,0,0,0
+244497,15 Nov 2009,v South Africa,Centurion,1,0,0,0,0,0
+244497,12 Feb 2010,v Pakistan A,Sharjah,1,0,0,0,0,0
+244497,14 Feb 2010,v Pakistan A,Sharjah,1,0,0,0,0,0
+244497,16 Feb 2010,v Pakistan A,Abu Dhabi,2,2,2,0,0,2
+244497,17 Feb 2010,v England,Abu Dhabi,1,0,0,0,0,0
+244497,3 Jun 2010,v Derbyshire,Leeds,1,0,0,0,0,0
+244497,4 Jun 2010,v Worcs,Worcester,1,0,0,0,0,0
+244497,10 Jun 2010,v Durham,Leeds,1,0,0,0,0,0
+244497,13 Jun 2010,v Northants,Leeds,1,0,0,0,0,0
+244497,17 Jun 2010,v Lancashire,Leeds,2,1,1,0,0,1
+244497,18 Jun 2010,v Durham,Chester-le-Street,2,0,0,0,0,0
+244497,20 Jun 2010,v Leics,Leicester,1,1,1,0,0,1
+244497,22 Jun 2010,v Worcs,Leeds,2,0,0,0,0,0
+244497,24 Jun 2010,v Notts,Leeds,1,0,0,0,0,0
+244497,27 Jun 2010,v Leics,Leeds,1,0,0,0,0,0
+244497,2 Jul 2010,v Northants,Northampton,2,1,1,0,0,1
+244497,4 Jul 2010,v Warwickshire,Leeds,1,0,0,0,0,0
+244497,9 Jul 2010,v Lancashire,Manchester,2,1,1,0,0,1
+244497,14 Jul 2010,v Warwickshire,Birmingham,1,0,0,0,0,0
+244497,17 Jul 2010,v Notts,Nottingham,2,0,0,0,0,0
+244497,18 Jul 2010,v Derbyshire,Derby,1,0,0,0,0,0
+244497,4 Jan 2011,v NSW,Adelaide,1,0,0,0,0,0
+244497,8 Jan 2011,v Victoria,Adelaide,2,0,0,0,0,0
+244497,13 Jan 2011,v West Aust,W.A.C.A,2,0,0,0,0,0
+244497,20 Jan 2011,v Queensland,Adelaide,2,0,0,0,0,0
+244497,24 Jan 2011,v Tasmania,Hobart,1,0,0,0,0,0
+244497,28 Jan 2011,v Victoria,Melbourne,1,0,0,0,0,0
+244497,5 Feb 2011,v NSW,Adelaide,1,0,0,0,0,0
+244497,3 Jun 2011,v Warwickshire,Leeds,2,0,0,0,0,0
+244497,5 Jun 2011,v Notts,Nottingham,1,0,0,0,0,0
+244497,9 Jun 2011,v Worcs,Leeds,2,1,1,0,0,1
+244497,10 Jun 2011,v Lancashire,Manchester,1,1,1,0,0,1
+244497,17 Jun 2011,v Lancashire,Leeds,2,1,1,0,0,1
+244497,22 Jun 2011,v Derbyshire,Leeds,1,0,0,0,0,0
+244497,24 Jun 2011,v Warwickshire,Birmingham,1,0,0,0,0,0
+244497,26 Jun 2011,v Worcs,Worcester,1,1,1,0,0,1
+244497,29 Jun 2011,v Leics,Leicester,2,0,0,0,0,0
+244497,1 Jul 2011,v Northants,Northampton,2,0,0,0,0,0
+244497,3 Jul 2011,v Notts,Leeds,2,0,0,0,0,0
+244497,6 Jul 2011,v Leics,Leeds,1,0,0,0,0,0
+244497,8 Jul 2011,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+244497,10 Jul 2011,v Durham,Scarborough,1,1,1,0,0,1
+244497,25 Sep 2011,v Warriors,Hyderabad,1,0,0,0,0,0
+244497,27 Jun 2012,v Leics,Leicester,2,1,1,0,0,1
+244497,29 Jun 2012,v Lancashire,Leeds,2,0,0,0,0,0
+244497,8 Jul 2012,v Derbyshire,Leeds,2,0,0,0,0,0
+244497,25 Jul 2012,v Worcs,Leeds,2,0,0,0,0,0
+244497,9 Oct 2012,v Uva Next,Johannesburg,1,0,0,0,0,0
+244497,10 Oct 2012,v Trinidad & T,Centurion,1,0,0,0,0,0
+244497,16 Oct 2012,v Sixers,Cape Town,2,0,0,0,0,0
+244497,18 Oct 2012,v MI,Cape Town,1,0,0,0,0,0
+244497,20 Oct 2012,v Lions,Johannesburg,2,0,0,0,0,0
+244497,22 Oct 2012,v CSK,Durban,2,0,0,0,0,0
+244497,28 Jun 2013,v Derbyshire,Leeds,2,0,0,0,0,0
+244497,30 Jun 2013,v Durham,Scarborough,2,1,1,0,0,1
+244497,5 Jul 2013,v Lancashire,Leeds,2,0,0,0,0,0
+244497,9 Jul 2013,v Leics,Leeds,1,0,0,0,0,0
+244497,12 Jul 2013,v Durham,Chester-le-Street,1,0,0,0,0,0
+244497,14 Jul 2013,v Derbyshire,Chesterfield,2,0,0,0,0,0
+244497,21 Jul 2013,v Notts,Leeds,1,1,1,0,0,1
+244497,24 Jul 2013,v Lancashire,Manchester,2,0,0,0,0,0
+244497,16 May 2014,v Northants,Leeds,2,0,0,0,0,0
+244497,30 May 2014,v Derbyshire,Leeds,1,0,0,0,0,0
+244497,6 Jun 2014,v Lancashire,Manchester,1,1,1,0,0,1
+244497,13 Jun 2014,v Northants,Northampton,2,0,0,0,0,0
+244497,28 Jun 2014,v Notts,Nottingham,1,0,0,0,0,0
+244497,1 Jul 2014,v Leics,Leeds,2,1,1,0,0,1
+244497,2 Jul 2014,v Durham,Leeds,1,0,0,0,0,0
+244497,11 Jul 2014,v Durham,Chester-le-Street,2,0,0,0,0,0
+244497,13 Jul 2014,v Derbyshire,Chesterfield,2,1,1,0,0,1
+244497,18 Jul 2014,v Warwickshire,Leeds,2,0,0,0,0,0
+244497,25 Jul 2014,v Notts,Leeds,2,0,0,0,0,0
+244497,15 May 2015,v Derbyshire,Leeds,1,1,1,0,0,1
+244497,22 May 2015,v Notts,Nottingham,1,0,0,0,0,0
+244497,29 May 2015,v Durham,Chester-le-Street,1,1,1,0,0,1
+244497,5 Jun 2015,v Lancashire,Leeds,2,1,1,0,0,1
+244497,23 Jun 2015,v New Zealand,Manchester,2,0,0,0,0,0
+244497,26 Jun 2015,v Leics,Leicester,1,1,1,0,0,1
+244497,10 Jul 2015,v Durham,Leeds,1,1,1,0,0,1
+244497,12 Jul 2015,v Derbyshire,Chesterfield,2,0,0,0,0,0
+244497,31 Aug 2015,v Australia,Cardiff,2,1,1,0,0,1
+244497,26 Nov 2015,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+244497,27 Nov 2015,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+244497,30 Nov 2015,v Pakistan,Sharjah,2,1,1,0,0,1
+244497,18 Dec 2015,v Stars,Adelaide,2,0,0,0,0,0
+244497,21 Dec 2015,v Scorchers,W.A.C.A,1,0,0,0,0,0
+244497,28 Dec 2015,v Thunder,Sydney,2,0,0,0,0,0
+244497,31 Dec 2015,v Sixers,Adelaide,1,0,0,0,0,0
+244497,5 Jan 2016,v Scorchers,Adelaide,2,1,1,0,0,1
+244497,8 Jan 2016,v Heat,Brisbane,1,0,0,0,0,0
+244497,13 Jan 2016,v Hurricanes,Adelaide,1,0,0,0,0,0
+244497,18 Jan 2016,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+244497,21 Jan 2016,v Thunder,Adelaide,2,0,0,0,0,0
+244497,17 Feb 2016,v SA A,Paarl,2,0,0,0,0,0
+244497,19 Feb 2016,v South Africa,Cape Town,2,1,1,0,0,1
+244497,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+244497,16 Mar 2016,v West Indies,Wankhede,2,1,1,0,0,1
+244497,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+244497,23 Mar 2016,v Afghanistan,Delhi,2,1,1,0,0,1
+244497,26 Mar 2016,v Sri Lanka,Delhi,2,0,0,0,0,0
+244497,30 Mar 2016,v New Zealand,Delhi,1,0,0,0,0,0
+244497,3 Apr 2016,v West Indies,Eden Gardens,2,0,0,0,0,0
+244497,27 May 2016,v Leics,Leeds,1,1,1,0,0,1
+244497,2 Jun 2016,v Worcs,Worcester,2,0,0,0,0,0
+244497,3 Jun 2016,v Lancashire,Manchester,1,0,0,0,0,0
+244497,10 Jun 2016,v Warwickshire,Birmingham,-,TDNF,-,-,-,-
+244497,5 Jul 2016,v Sri Lanka,Southampton,1,0,0,0,0,0
+244497,8 Jul 2016,v Warwickshire,Leeds,2,0,0,0,0,0
+244497,10 Jul 2016,v Derbyshire,Derby,2,0,0,0,0,0
+244497,15 Jul 2016,v Notts,Nottingham,2,1,1,0,0,1
+244497,22 Jul 2016,v Northants,Leeds,2,0,0,0,0,0
+244497,29 Jul 2016,v Northants,Northampton,2,1,1,0,0,1
+244497,11 Aug 2016,v Glamorgan,Cardiff,2,0,0,0,0,0
+244497,20 Aug 2016,v Durham,Birmingham,1,0,0,0,0,0
+244497,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+244497,26 Jan 2017,v India,Kanpur,1,2,2,0,0,2
+244497,29 Jan 2017,v India,Nagpur,1,0,0,0,0,0
+244497,1 Feb 2017,v India,Bengaluru,1,1,1,0,0,1
+244497,7 Jul 2017,v Notts,Leeds,2,2,2,0,0,2
+244497,8 Jul 2017,v Derbyshire,Chesterfield,1,1,1,0,0,1
+244497,14 Jul 2017,v Lancashire,Manchester,1,0,0,0,0,0
+244497,21 Jul 2017,v Warwickshire,Leeds,2,1,1,0,0,1
+244497,23 Jul 2017,v Worcs,Leeds,2,0,0,0,0,0
+244497,26 Jul 2017,v Durham,Leeds,2,0,0,0,0,0
+244497,30 Jul 2017,v Notts,Nottingham,2,0,0,0,0,0
+244497,3 Aug 2017,v Derbyshire,Leeds,2,1,1,0,0,1
+244497,4 Aug 2017,v Durham,Chester-le-Street,1,0,0,0,0,0
+244497,11 Aug 2017,v Lancashire,Leeds,2,0,0,0,0,0
+244497,12 Aug 2017,v Leics,Leicester,2,0,0,0,0,0
+244497,17 Aug 2017,v Northants,Leeds,2,1,1,0,0,1
+244497,16 Sep 2017,v West Indies,Chester-le-Street,1,0,0,0,0,0
+244497,4 Nov 2017,v Sylhet,Sylhet,2,0,0,0,0,0
+244497,7 Feb 2018,v Australia,Hobart,2,1,1,0,0,1
+244497,10 Feb 2018,v Australia,Melbourne,2,0,0,0,0,0
+244497,13 Feb 2018,v New Zealand,Wellington,1,0,0,0,0,0
+244497,18 Feb 2018,v New Zealand,Hamilton,2,0,0,0,0,0
+244497,27 Jun 2018,v Australia,Birmingham,2,0,0,0,0,0
+244497,3 Jul 2018,v India,Manchester,2,0,0,0,0,0
+244497,6 Jul 2018,v India,Cardiff,1,0,0,0,0,0
+244497,8 Jul 2018,v India,Bristol,2,0,0,0,0,0
+244497,20 Jul 2018,v Lancashire,Manchester,1,0,0,0,0,0
+244497,27 Jul 2018,v Bears,Leeds,2,0,0,0,0,0
+244497,28 Jul 2018,v Derbyshire,Chesterfield,2,0,0,0,0,0
+244497,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+244497,5 Mar 2019,v West Indies,Gros Islet,1,1,1,0,0,1
+244497,8 Mar 2019,v West Indies,Basseterre,2,0,0,0,0,0
+244497,10 Mar 2019,v West Indies,Basseterre,1,0,0,0,0,0
+244497,5 May 2019,v Pakistan,Cardiff,1,0,0,0,0,0
+244497,1 Nov 2019,v New Zealand,Christchurch,1,0,0,0,0,0
+244497,3 Nov 2019,v New Zealand,Wellington,1,0,0,0,0,0
+244497,10 Nov 2019,v New Zealand,Auckland,1,0,0,0,0,0
+244497,12 Feb 2020,v South Africa,East London,1,0,0,0,0,0
+244497,14 Feb 2020,v South Africa,Durban,2,1,1,0,0,1
+244497,16 Feb 2020,v South Africa,Centurion,1,0,0,0,0,0
+244497,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+244497,30 Aug 2020,v Pakistan,Manchester,1,0,0,0,0,0
+244497,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+244497,4 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+244497,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+244497,8 Sep 2020,v Australia,Southampton,2,1,1,0,0,1
+244497,27 Nov 2020,v South Africa,Cape Town,1,0,0,0,0,0
+244497,29 Nov 2020,v South Africa,Paarl,1,0,0,0,0,0
+244497,1 Dec 2020,v South Africa,Cape Town,1,0,0,0,0,0
+244497,12 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+244497,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+244497,16 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+244497,18 Mar 2021,v India,Ahmedabad,1,1,1,0,0,1
+244497,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+244497,10 Jun 2021,v Bears,Leeds,1,0,0,0,0,0
+244497,11 Jun 2021,v Durham,Chester-le-Street,1,0,0,0,0,0
+244497,15 Jun 2021,v Leics,Leeds,2,0,0,0,0,0
+244497,16 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+244497,23 Jun 2021,v Sri Lanka,Cardiff,1,1,1,0,0,1
+244497,24 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+244497,26 Jun 2021,v Sri Lanka,Southampton,2,0,0,0,0,0
+244497,18 Jul 2021,v Pakistan,Leeds,2,1,1,0,0,1
+244497,20 Jul 2021,v Pakistan,Manchester,1,0,0,0,0,0
+244497,24 Jul 2021,v Fire,Leeds,1,0,0,0,0,0
+244497,26 Jul 2021,v Rockets,Nottingham,2,1,1,0,0,1
+244497,31 Jul 2021,v Invincibles,Leeds,1,0,0,0,0,0
+244497,3 Aug 2021,v Spirit,Lord's,2,1,1,0,0,1
+244497,7 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+244497,12 Aug 2021,v Originals,Leeds,2,1,1,0,0,1
+244497,17 Aug 2021,v Phoenix,Leeds,2,0,0,0,0,0
+244497,24 Aug 2021,v Sussex,Chester-le-Street,2,0,0,0,0,0
+244497,21 Sep 2021,v RR,Dubai (DICS),1,0,0,0,0,0
+244497,23 Oct 2021,v West Indies,Dubai (DICS),1,0,0,0,0,0
+244497,27 Oct 2021,v Bangladesh,Abu Dhabi,1,1,1,0,0,1
+244497,30 Oct 2021,v Australia,Dubai (DICS),1,0,0,0,0,0
+244497,1 Nov 2021,v Sri Lanka,Sharjah,2,0,0,0,0,0
+244497,6 Nov 2021,v South Africa,Sharjah,1,0,0,0,0,0
+244497,10 Nov 2021,v New Zealand,Abu Dhabi,2,1,1,0,0,1
+244497,22 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+244497,23 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+244497,26 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+244497,29 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+244497,30 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+244497,25 May 2022,v Worcs,Leeds,1,0,0,0,0,0
+244497,27 May 2022,v Lancashire,Manchester,1,0,0,0,0,0
+244497,29 May 2022,v Leics,Leeds,1,1,1,0,0,1
+244497,31 May 2022,v Derbyshire,Leeds,2,0,0,0,0,0
+244497,3 Jun 2022,v Durham,Leeds,1,0,0,0,0,0
+244497,6 Jun 2022,v Notts,Leeds,2,0,0,0,0,0
+244497,8 Jun 2022,v Lancashire,Leeds,1,0,0,0,0,0
+244497,10 Jun 2022,v Bears,Birmingham,1,1,1,0,0,1
+244497,27 Jul 2022,v South Africa,Bristol,2,1,1,0,0,1
+244497,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+244497,31 Jul 2022,v South Africa,Southampton,1,0,0,0,0,0
+244497,5 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+244497,9 Aug 2022,v Rockets,Leeds,2,1,1,0,0,1
+244497,11 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+244497,14 Aug 2022,v Spirit,Leeds,2,0,0,0,0,0
+244497,19 Aug 2022,v Phoenix,Birmingham,2,0,0,0,0,0
+244497,21 Aug 2022,v Originals,Leeds,1,0,0,0,0,0
+244497,26 Aug 2022,v Fire,Cardiff,1,0,0,0,0,0
+244497,31 Aug 2022,v Brave,Leeds,2,0,0,0,0,0
+244497,20 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+244497,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+244497,23 Sep 2022,v Pakistan,Karachi,2,1,1,0,0,1
+244497,25 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+244497,28 Sep 2022,v Pakistan,Lahore,1,1,1,0,0,1
+244497,30 Sep 2022,v Pakistan,Lahore,1,1,1,0,0,1
+244497,2 Oct 2022,v Pakistan,Lahore,2,1,1,0,0,1
+244497,9 Oct 2022,v Australia,Perth,2,0,0,0,0,0
+244497,12 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+244497,14 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+244497,22 Oct 2022,v Afghanistan,Perth,1,1,1,0,0,1
+244497,26 Oct 2022,v Ireland,Melbourne,1,0,0,0,0,0
+244497,1 Nov 2022,v New Zealand,Brisbane,2,1,1,0,0,1
+244497,5 Nov 2022,v Sri Lanka,Sydney,1,0,0,0,0,0
+244497,10 Nov 2022,v India,Adelaide,1,1,1,0,0,1
+244497,13 Nov 2022,v Pakistan,Melbourne,1,1,1,0,0,1
+244497,12 Jan 2023,v Sunrisers,Gqeberha,2,0,0,0,0,0
+244497,14 Jan 2023,v Sunrisers,Centurion,2,0,0,0,0,0
+244497,17 Jan 2023,v Super Kings,Johannesburg,1,0,0,0,0,0
+244497,18 Jan 2023,v Super Kings,Centurion,1,0,0,0,0,0
+244497,20 Jan 2023,v Super Giants,Durban,1,1,1,0,0,1
+244497,22 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+244497,23 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+244497,7 Feb 2023,v Paarl Royals,Centurion,2,1,1,0,0,1
+244497,8 Feb 2023,v Paarl Royals,Johannesburg,2,0,0,0,0,0
+244497,11 Feb 2023,v Sunrisers,Johannesburg,2,0,0,0,0,0
+244497,9 Mar 2023,v Bangladesh,Chattogram,2,0,0,0,0,0
+244497,12 Mar 2023,v Bangladesh,Mirpur,2,1,1,0,0,1
+244497,14 Mar 2023,v Bangladesh,Mirpur,1,1,1,0,0,1
+244497,2 Apr 2023,v RR,Hyderabad,1,0,0,0,0,0
+244497,7 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+244497,3 Aug 2023,v Phoenix,Leeds,1,0,0,0,0,0
+244497,6 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+244497,9 Aug 2023,v Rockets,Nottingham,2,1,1,0,0,1
+244497,11 Aug 2023,v Invincibles,Leeds,1,1,1,0,0,1
+244497,13 Aug 2023,v Originals,Leeds,1,0,0,0,0,0
+244497,18 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+244497,20 Aug 2023,v Originals,Manchester,1,0,0,0,0,0
+244497,22 Aug 2023,v Fire,Leeds,2,0,0,0,0,0
+244497,30 Aug 2023,v New Zealand,Chester-le-Street,1,0,0,0,0,0
+244497,1 Sep 2023,v New Zealand,Manchester,2,0,0,0,0,0
+244497,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+244497,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+244497,12 Dec 2023,v West Indies,Bridgetown,2,0,0,0,0,0
+244497,14 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+244497,16 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+244497,19 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+244497,21 Dec 2023,v West Indies,Tarouba,2,1,1,0,0,1
+244497,12 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+244497,14 Jan 2024,v Paarl Royals,Centurion,1,0,0,0,0,0
+244497,18 Jan 2024,v Super Giants,Centurion,2,0,0,0,0,0
+244497,20 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+244497,22 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+244497,25 Jan 2024,v Sunrisers,Centurion,2,0,0,0,0,0
+244497,27 Jan 2024,v Super Kings,Centurion,1,0,0,0,0,0
+244497,30 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+244497,1 Feb 2024,v MI Cape Town,Centurion,1,0,0,0,0,0
+244497,3 Feb 2024,v MI Cape Town,Cape Town,1,0,0,0,0,0
+244497,5 Feb 2024,v KnightRiders,Sharjah,2,0,0,0,0,0
+244497,7 Feb 2024,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+244497,11 Feb 2024,v Vipers,Sharjah,2,0,0,0,0,0
+244497,25 May 2024,v Pakistan,Birmingham,2,0,0,0,0,0
+244497,30 May 2024,v Pakistan,The Oval,1,2,2,0,0,2
+244497,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+244497,8 Jun 2024,v Australia,Bridgetown,1,0,0,0,0,0
+244497,13 Jun 2024,v Oman,North Sound,1,0,0,0,0,0
+244497,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+244497,19 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+244497,21 Jun 2024,v South Africa,Gros Islet,1,0,0,0,0,0
+244497,23 Jun 2024,v U.S.A.,Bridgetown,1,0,0,0,0,0
+244497,27 Jun 2024,v India,Providence,1,0,0,0,0,0
+244497,26 Jul 2024,v Rockets,Leeds,1,0,0,0,0,0
+244497,30 Jul 2024,v Brave,Leeds,1,0,0,0,0,0
+244497,2 Aug 2024,v Invincibles,The Oval,2,0,0,0,0,0
+244497,4 Aug 2024,v Originals,Leeds,2,0,0,0,0,0
+244497,6 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+244497,8 Aug 2024,v Fire,Cardiff,2,0,0,0,0,0
+244497,11 Aug 2024,v Originals,Manchester,1,0,0,0,0,0
+244497,13 Aug 2024,v Spirit,Leeds,1,0,0,0,0,0
+244497,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+244497,13 Sep 2024,v Australia,Cardiff,1,1,1,0,0,1
+244497,9 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+244497,10 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+244497,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+244497,12 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+244497,15 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+244497,17 Jan 2025,v DC,Sharjah,1,1,1,0,0,1
+244497,22 Jan 2025,v India,Eden Gardens,2,0,0,0,0,0
+244497,25 Jan 2025,v India,Chennai,2,0,0,0,0,0
+244497,28 Jan 2025,v India,Rajkot,2,2,2,0,0,2
+244497,31 Jan 2025,v India,Pune,1,1,1,0,0,1
+244497,2 Feb 2025,v India,Wankhede,1,1,1,0,0,1
+244497,6 Jun 2025,v West Indies,Chester-le-Street,2,0,0,0,0,0
+244497,8 Jun 2025,v West Indies,Bristol,1,0,0,0,0,0
+244497,10 Jun 2025,v West Indies,Southampton,2,0,0,0,0,0
+244497,7 Aug 2025,v Fire,Leeds,1,0,0,0,0,0
+244497,10 Aug 2025,v Rockets,Nottingham,2,0,0,0,0,0
+244497,13 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+244497,15 Aug 2025,v Phoenix,Leeds,2,1,1,0,0,1
+244497,17 Aug 2025,v Originals,Manchester,1,0,0,0,0,0
+244497,20 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+244497,23 Aug 2025,v Invincibles,Leeds,2,0,0,0,0,0
+244497,26 Aug 2025,v Originals,Leeds,2,0,0,0,0,0
+244497,30 Aug 2025,v Rockets,The Oval,2,0,0,0,0,0
+244497,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+244497,12 Sep 2025,v South Africa,Manchester,2,0,0,0,0,0
+244497,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+244497,21 Sep 2025,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+244497,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+244497,20 Oct 2025,v New Zealand,Christchurch,2,0,0,0,0,0
+244497,23 Oct 2025,v New Zealand,Auckland,1,0,0,0,0,0
+244497,3 Dec 2025,v KnightRiders,Sharjah,1,0,0,0,0,0
+244497,7 Dec 2025,v MI Emirates,Sharjah,1,0,0,0,0,0
+244497,10 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+244497,14 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+244497,15 Dec 2025,v Gulf Giants,Sharjah,2,0,0,0,0,0
+244497,19 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+244497,20 Dec 2025,v Vipers,Dubai (DICS),2,1,1,0,0,1
+244497,22 Dec 2025,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+244497,24 Dec 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+244497,26 Dec 2025,v Vipers,Sharjah,2,0,0,0,0,0
+244497,30 Jan 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+244497,1 Feb 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+244497,3 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+244497,8 Feb 2026,v Nepal,Wankhede,2,0,0,0,0,0
+244497,11 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+244497,14 Feb 2026,v Scotland,Eden Gardens,1,0,0,0,0,0
+244497,16 Feb 2026,v Italy,Eden Gardens,2,0,0,0,0,0
+244497,22 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+244497,24 Feb 2026,v Pakistan,Pallekele,1,0,0,0,0,0
+244497,27 Feb 2026,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+244497,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

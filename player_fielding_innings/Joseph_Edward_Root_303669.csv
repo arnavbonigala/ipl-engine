@@ -1,0 +1,130 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+303669,3 Jun 2011,v Warwickshire,Leeds,2,0,0,0,0,0
+303669,5 Jun 2011,v Notts,Nottingham,1,2,2,0,0,2
+303669,17 Jun 2011,v Lancashire,Leeds,2,0,0,0,0,0
+303669,22 Jun 2011,v Derbyshire,Leeds,1,0,0,0,0,0
+303669,24 Jun 2011,v Warwickshire,Birmingham,1,0,0,0,0,0
+303669,26 Jun 2011,v Worcs,Worcester,1,0,0,0,0,0
+303669,29 Jun 2011,v Leics,Leicester,2,0,0,0,0,0
+303669,1 Jul 2011,v Northants,Northampton,2,0,0,0,0,0
+303669,15 Jul 2011,v Derbyshire,Derby,1,0,0,0,0,0
+303669,15 Jun 2012,v Durham,Leeds,1,0,0,0,0,0
+303669,17 Jun 2012,v Leics,Leeds,2,1,1,0,0,1
+303669,18 Jun 2012,v Derbyshire,Derby,2,1,1,0,0,1
+303669,22 Jun 2012,v Durham,Chester-le-Street,2,1,1,0,0,1
+303669,24 Jun 2012,v Notts,Scarborough,1,1,1,0,0,1
+303669,27 Jun 2012,v Leics,Leicester,2,0,0,0,0,0
+303669,29 Jun 2012,v Lancashire,Leeds,2,1,1,0,0,1
+303669,5 Jul 2012,v Notts,Nottingham,1,0,0,0,0,0
+303669,8 Jul 2012,v Derbyshire,Leeds,2,0,0,0,0,0
+303669,25 Jul 2012,v Worcs,Leeds,2,0,0,0,0,0
+303669,25 Aug 2012,v Sussex,Cardiff,2,0,0,0,0,0
+303669,25 Aug 2012,v Hampshire,Cardiff,1,1,1,0,0,1
+303669,9 Oct 2012,v Uva Next,Johannesburg,1,0,0,0,0,0
+303669,10 Oct 2012,v Trinidad & T,Centurion,1,0,0,0,0,0
+303669,16 Oct 2012,v Sixers,Cape Town,2,1,1,0,0,1
+303669,18 Oct 2012,v MI,Cape Town,1,0,0,0,0,0
+303669,20 Oct 2012,v Lions,Johannesburg,2,0,0,0,0,0
+303669,22 Oct 2012,v CSK,Durban,2,0,0,0,0,0
+303669,22 Dec 2012,v India,Wankhede,1,2,2,0,0,2
+303669,15 Feb 2013,v New Zealand,Wellington,1,1,1,0,0,1
+303669,29 Aug 2013,v Australia,Southampton,1,0,0,0,0,0
+303669,31 Aug 2013,v Australia,Chester-le-Street,2,0,0,0,0,0
+303669,29 Jan 2014,v Australia,Hobart,1,0,0,0,0,0
+303669,31 Jan 2014,v Australia,Melbourne,2,0,0,0,0,0
+303669,2 Feb 2014,v Australia,Sydney,1,1,1,0,0,1
+303669,16 May 2014,v Northants,Leeds,2,0,0,0,0,0
+303669,20 May 2014,v Sri Lanka,The Oval,1,1,1,0,0,1
+303669,7 Sep 2014,v India,Birmingham,2,0,0,0,0,0
+303669,5 Jun 2015,v Lancashire,Leeds,2,0,0,0,0,0
+303669,23 Jun 2015,v New Zealand,Manchester,2,0,0,0,0,0
+303669,27 Nov 2015,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+303669,30 Nov 2015,v Pakistan,Sharjah,2,0,0,0,0,0
+303669,19 Feb 2016,v South Africa,Cape Town,2,2,2,0,0,2
+303669,21 Feb 2016,v South Africa,Johannesburg,2,1,1,0,0,1
+303669,16 Mar 2016,v West Indies,Wankhede,2,0,0,0,0,0
+303669,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+303669,23 Mar 2016,v Afghanistan,Delhi,2,2,2,0,0,2
+303669,26 Mar 2016,v Sri Lanka,Delhi,2,1,1,0,0,1
+303669,30 Mar 2016,v New Zealand,Delhi,1,0,0,0,0,0
+303669,3 Apr 2016,v West Indies,Eden Gardens,2,1,1,0,0,1
+303669,3 Jun 2016,v Lancashire,Manchester,1,1,1,0,0,1
+303669,19 Jun 2016,v Derbyshire,Leeds,1,0,0,0,0,0
+303669,20 Aug 2016,v Durham,Birmingham,1,0,0,0,0,0
+303669,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+303669,26 Jan 2017,v India,Kanpur,1,0,0,0,0,0
+303669,29 Jan 2017,v India,Nagpur,1,0,0,0,0,0
+303669,1 Feb 2017,v India,Bengaluru,1,0,0,0,0,0
+303669,16 Sep 2017,v West Indies,Chester-le-Street,1,2,2,0,0,2
+303669,27 Jun 2018,v Australia,Birmingham,2,0,0,0,0,0
+303669,3 Jul 2018,v India,Manchester,2,0,0,0,0,0
+303669,6 Jul 2018,v India,Cardiff,1,1,1,0,0,1
+303669,20 Jul 2018,v Lancashire,Manchester,1,1,1,0,0,1
+303669,21 Dec 2018,v Stars,Canberra,2,0,0,0,0,0
+303669,24 Dec 2018,v Sixers,Sydney,2,0,0,0,0,0
+303669,28 Dec 2018,v Hurricanes,Hobart,2,1,1,0,0,1
+303669,31 Dec 2018,v Strikers,Adelaide,1,1,1,0,0,1
+303669,2 Jan 2019,v Scorchers,Sydney,2,0,0,0,0,0
+303669,5 Jan 2019,v Stars,Carrara,2,1,1,0,0,1
+303669,8 Jan 2019,v Heat,Sydney,1,0,0,0,0,0
+303669,5 Mar 2019,v West Indies,Gros Islet,1,1,1,0,0,1
+303669,8 Mar 2019,v West Indies,Basseterre,2,2,2,0,0,2
+303669,10 Mar 2019,v West Indies,Basseterre,1,0,0,0,0,0
+303669,5 May 2019,v Pakistan,Cardiff,1,0,0,0,0,0
+303669,30 Aug 2020,v Derbyshire,Leeds,2,0,0,0,0,0
+303669,31 Aug 2020,v Notts,Nottingham,2,0,0,0,0,0
+303669,4 Sep 2020,v Durham,Chester-le-Street,2,1,1,0,0,1
+303669,17 Sep 2020,v Lancashire,Manchester,1,0,0,0,0,0
+303669,20 Sep 2020,v Derbyshire,Leeds,1,1,1,0,0,1
+303669,20 Jun 2021,v Derbyshire,Leeds,2,0,0,0,0,0
+303669,23 Jun 2021,v Worcs,Leeds,2,0,0,0,0,0
+303669,25 Jun 2021,v Leics,Leicester,1,1,1,0,0,1
+303669,17 Jul 2021,v Lancashire,Manchester,2,1,1,0,0,1
+303669,24 Jul 2021,v Brave,Nottingham,1,0,0,0,0,0
+303669,26 Jul 2021,v N S-Chargers,Nottingham,1,0,0,0,0,0
+303669,25 May 2022,v Worcs,Leeds,1,0,0,0,0,0
+303669,27 May 2022,v Lancashire,Manchester,1,0,0,0,0,0
+303669,29 May 2022,v Leics,Leeds,1,1,1,0,0,1
+303669,6 Aug 2022,v Phoenix,Nottingham,1,2,2,0,0,2
+303669,9 Aug 2022,v N S-Chargers,Leeds,1,2,2,0,0,2
+303669,7 May 2023,v SRH,Jaipur,2,0,0,0,0,0
+303669,11 May 2023,v KKR,Eden Gardens,1,2,2,0,0,2
+303669,14 May 2023,v RCB,Jaipur,1,0,0,0,0,0
+303669,9 Aug 2023,v N S-Chargers,Nottingham,1,0,0,0,0,0
+303669,12 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+303669,14 Aug 2023,v Fire,Cardiff,2,1,1,0,0,1
+303669,17 Aug 2023,v Originals,Nottingham,1,0,0,0,0,0
+303669,19 Aug 2023,v Phoenix,Nottingham,2,2,2,0,0,2
+303669,21 Aug 2023,v Invincibles,The Oval,2,1,1,0,0,1
+303669,30 May 2024,v Worcs,Leeds,1,1,1,0,0,1
+303669,31 May 2024,v Leics,Leicester,2,0,0,0,0,0
+303669,2 Jun 2024,v Northants,Northampton,2,2,2,0,0,2
+303669,9 Jun 2024,v Derbyshire,Leeds,1,0,0,0,0,0
+303669,14 Jun 2024,v Bears,Birmingham,2,0,0,0,0,0
+303669,16 Jun 2024,v Leics,Leeds,1,1,1,0,0,1
+303669,20 Jun 2024,v Lancashire,Leeds,2,0,0,0,0,0
+303669,21 Jun 2024,v Durham,Chester-le-Street,1,0,0,0,0,0
+303669,31 Jul 2024,v Phoenix,Nottingham,1,0,0,0,0,0
+303669,3 Aug 2024,v Fire,Nottingham,1,0,0,0,0,0
+303669,7 Aug 2024,v Spirit,Nottingham,2,0,0,0,0,0
+303669,10 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+303669,12 Aug 2024,v Phoenix,Birmingham,2,2,2,0,0,2
+303669,14 Aug 2024,v Invincibles,Nottingham,1,0,0,0,0,0
+303669,11 Jan 2025,v Sunrisers,Paarl,1,1,1,0,0,1
+303669,13 Jan 2025,v MI Cape Town,Cape Town,1,0,0,0,0,0
+303669,15 Jan 2025,v MI Cape Town,Paarl,1,0,0,0,0,0
+303669,18 Jan 2025,v Capitals,Centurion,1,0,0,0,0,0
+303669,20 Jan 2025,v Super Kings,Paarl,1,0,0,0,0,0
+303669,23 Jan 2025,v Super Giants,Durban,1,0,0,0,0,0
+303669,25 Jan 2025,v Capitals,Paarl,2,0,0,0,0,0
+303669,27 Jan 2025,v Super Giants,Paarl,1,0,0,0,0,0
+303669,8 Aug 2025,v Phoenix,Birmingham,1,0,0,0,0,0
+303669,10 Aug 2025,v N S-Chargers,Nottingham,1,1,1,0,0,1
+303669,14 Aug 2025,v Spirit,Lord's,1,1,1,0,0,1
+303669,16 Aug 2025,v Brave,Nottingham,1,0,0,0,0,0
+303669,19 Aug 2025,v Originals,Nottingham,1,1,1,0,0,1
+303669,21 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+303669,24 Aug 2025,v Fire,Cardiff,1,0,0,0,0,0
+303669,27 Aug 2025,v Phoenix,Nottingham,1,0,0,0,0,0
+303669,30 Aug 2025,v N S-Chargers,The Oval,1,1,1,0,0,1
+303669,31 Aug 2025,v Invincibles,Lord's,1,0,0,0,0,0

@@ -1,0 +1,81 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+228430,3 Apr 2007,v Bengal,Eden Gardens,1,0,0,0,0,0
+228430,4 Apr 2007,v Tripura,Eden Gardens,2,0,0,0,0,0
+228430,5 Apr 2007,v Jharkhand,Eden Gardens,2,0,0,0,0,0
+228430,8 Apr 2007,v Orissa,Eden Gardens,1,0,0,0,0,0
+228430,20 Oct 2009,v Orissa,Dhanbad,1,0,0,0,0,0
+228430,21 Oct 2009,v Bengal,Dhanbad,2,0,0,0,0,0
+228430,22 Oct 2009,v Tripura,Dhanbad,2,0,0,0,0,0
+228430,23 Oct 2009,v Jharkhand,Dhanbad,2,0,0,0,0,0
+228430,6 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+228430,19 Sep 2010,v RCB,Durban,2,0,0,0,0,0
+228430,20 Apr 2011,v Warriors,Wankhede,1,0,0,0,0,0
+228430,22 Apr 2011,v CSK,Wankhede,2,0,0,0,0,0
+228430,24 Apr 2011,v Chargers,Hyderabad,2,0,0,0,0,0
+228430,2 May 2011,v Kings XI,Wankhede,2,0,0,0,0,0
+228430,22 May 2011,v KKR,Eden Gardens,1,1,1,0,0,1
+228430,27 May 2011,v RCB,Chennai,1,0,0,0,0,0
+228430,24 Sep 2011,v CSK,Chennai,1,0,0,0,0,0
+228430,26 Sep 2011,v Trinidad & T,Bengaluru,1,0,0,0,0,0
+228430,30 Sep 2011,v Cape Cobras,Bengaluru,-,TDNF,-,-,-,-
+228430,2 Oct 2011,v NSW,Chennai,2,0,0,0,0,0
+228430,8 Oct 2011,v Somerset,Chennai,2,0,0,0,0,0
+228430,9 Oct 2011,v RCB,Chennai,2,0,0,0,0,0
+228430,20 Oct 2011,v Bengal,Jamshedpur,1,0,0,0,0,0
+228430,22 Oct 2011,v Tripura,Jamshedpur,2,0,0,0,0,0
+228430,24 Oct 2011,v Jharkhand,Jamshedpur,2,0,0,0,0,0
+228430,23 Mar 2012,v Punjab,Brabourne,2,0,0,0,0,0
+228430,4 Apr 2012,v CSK,Chennai,1,0,0,0,0,0
+228430,17 Mar 2013,v Bengal,Agartala,1,0,0,0,0,0
+228430,18 Mar 2013,v Odisha,Agartala,1,0,0,0,0,0
+228430,19 Mar 2013,v Tripura,Agartala,1,0,0,0,0,0
+228430,21 Mar 2013,v Jharkhand,Agartala,1,0,0,0,0,0
+228430,7 May 2013,v KKR,Wankhede,2,1,1,0,0,1
+228430,11 May 2013,v Warriors,Pune,1,0,0,0,0,0
+228430,1 Apr 2014,v Bengal,Eden Gardens,1,0,0,0,0,0
+228430,2 Apr 2014,v Odisha,Jadavpur Uni,2,0,0,0,0,0
+228430,3 Apr 2014,v Tripura,Jadavpur Uni,2,0,0,0,0,0
+228430,5 Apr 2014,v Jharkhand,Jadavpur Uni,2,0,0,0,0,0
+228430,13 May 2014,v Daredevils,Bengaluru,2,0,0,0,0,0
+228430,18 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+228430,20 May 2014,v SRH,Hyderabad,2,0,0,0,0,0
+228430,22 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+228430,25 Mar 2015,v Bengal,Cuttack,2,0,0,0,0,0
+228430,26 Mar 2015,v Odisha,Cuttack,1,0,0,0,0,0
+228430,27 Mar 2015,v Tripura,Cuttack,2,0,0,0,0,0
+228430,29 Mar 2015,v Jharkhand,Cuttack,2,0,0,0,0,0
+228430,11 Apr 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+228430,13 Apr 2015,v SRH,Bengaluru,2,0,0,0,0,0
+228430,19 Apr 2015,v MI,Bengaluru,1,0,0,0,0,0
+228430,2 Jan 2016,v Baroda,Vadodara,1,1,1,0,0,1
+228430,4 Jan 2016,v Goa,Vadodara,1,0,0,0,0,0
+228430,6 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+228430,7 Jan 2016,v Andhra,Vadodara,1,1,1,0,0,1
+228430,9 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+228430,29 Jan 2017,v Jharkhand,Eden Gardens,1,0,0,0,0,0
+228430,1 Feb 2017,v Bengal,Eden Gardens,2,0,0,0,0,0
+228430,3 Feb 2017,v Tripura,Eden Gardens,1,0,0,0,0,0
+228430,5 Feb 2017,v Odisha,Eden Gardens,1,0,0,0,0,0
+228430,8 Jan 2018,v Tripura,Ranchi,1,1,1,0,0,1
+228430,10 Jan 2018,v Odisha,Ranchi,1,0,0,0,0,0
+228430,14 Jan 2018,v Jharkhand,Ranchi,2,0,0,0,0,0
+228430,16 Jan 2018,v Bengal,Ranchi,2,1,1,0,0,1
+228430,21 Feb 2019,v Karnataka,Cuttack,1,0,0,0,0,0
+228430,22 Feb 2019,v Mizoram,Cuttack,2,0,0,0,0,0
+228430,24 Feb 2019,v Chhattisgarh,Cuttack,1,0,0,0,0,0
+228430,25 Feb 2019,v Bengal,Cuttack,2,1,1,0,0,1
+228430,27 Feb 2019,v Odisha,Cuttack,2,0,0,0,0,0
+228430,28 Feb 2019,v Haryana,Cuttack,2,0,0,0,0,0
+228430,2 Mar 2019,v Arunachal,Cuttack,1,0,0,0,0,0
+228430,9 Nov 2019,v M. Pradesh,Mumbai,2,0,0,0,0,0
+228430,11 Nov 2019,v Haryana,Mumbai,2,1,1,0,0,1
+228430,12 Nov 2019,v Meghalaya,Wankhede,2,0,0,0,0,0
+228430,14 Nov 2019,v Mizoram,Mumbai,1,0,0,0,0,0
+228430,15 Nov 2019,v Puducherry,Mumbai,2,1,1,0,0,1
+228430,17 Nov 2019,v Mumbai,Wankhede,1,0,0,0,0,0
+228430,18 Nov 2019,v Bengal,Wankhede,2,0,0,0,0,0
+228430,4 Nov 2021,v Manipur,Mangalagiri,2,0,0,0,0,0
+228430,5 Nov 2021,v Vidarbha,Mulapadu,2,0,0,0,0,0
+228430,6 Nov 2021,v Mizoram,Mangalagiri,2,0,0,0,0,0
+228430,8 Nov 2021,v Arunachal,Mulapadu,2,0,0,0,0,0
+228430,9 Nov 2021,v Tripura,Mulapadu,2,1,1,0,0,1

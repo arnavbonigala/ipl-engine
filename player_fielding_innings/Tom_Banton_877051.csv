@@ -1,0 +1,219 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+877051,16 Jul 2017,v Middlesex,Uxbridge,2,1,0,1,0,0
+877051,23 Jul 2017,v Middlesex,Taunton,1,0,0,0,0,0
+877051,3 Aug 2018,v Essex,Taunton,1,0,0,0,0,0
+877051,5 Aug 2018,v Sussex,Hove,1,1,0,1,0,0
+877051,18 Jul 2019,v Glamorgan,Cardiff,1,1,1,0,1,0
+877051,20 Jul 2019,v Kent,Canterbury,1,2,1,1,1,0
+877051,26 Jul 2019,v Hampshire,Taunton,2,1,1,0,1,0
+877051,28 Jul 2019,v Sussex,Taunton,1,0,0,0,0,0
+877051,2 Aug 2019,v Surrey,Taunton,1,0,0,0,0,0
+877051,4 Aug 2019,v Middlesex,Richmond,1,0,0,0,0,0
+877051,7 Aug 2019,v Essex,Chelmsford,2,1,1,0,1,0
+877051,9 Aug 2019,v Hampshire,Southampton,2,1,1,0,1,0
+877051,10 Aug 2019,v Kent,Taunton,2,0,0,0,0,0
+877051,23 Aug 2019,v Gloucs,Bristol,1,0,0,0,0,0
+877051,24 Aug 2019,v Glamorgan,Taunton,2,0,0,0,0,0
+877051,27 Aug 2019,v Surrey,The Oval,2,1,1,0,1,0
+877051,30 Aug 2019,v Middlesex,Taunton,2,0,0,0,0,0
+877051,5 Nov 2019,v New Zealand,Nelson,1,1,1,0,0,1
+877051,8 Nov 2019,v New Zealand,Napier,2,2,2,0,0,2
+877051,10 Nov 2019,v New Zealand,Auckland,1,1,1,0,0,1
+877051,17 Dec 2019,v Thunder,Brisbane,1,0,0,0,0,0
+877051,20 Dec 2019,v Stars,Carrara,1,0,0,0,0,0
+877051,1 Jan 2020,v Scorchers,Carrara,1,0,0,0,0,0
+877051,3 Jan 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+877051,6 Jan 2020,v Thunder,Sydney,2,0,0,0,0,0
+877051,9 Jan 2020,v Hurricanes,Brisbane,1,1,1,0,0,1
+877051,11 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+877051,21 Feb 2020,v Kings,Karachi,1,0,0,0,0,0
+877051,22 Feb 2020,v Gladiators,Karachi,1,2,2,0,0,2
+877051,26 Feb 2020,v Sultans,Multan,2,1,1,0,0,1
+877051,28 Feb 2020,v Qalandars,Rawalpindi,2,2,2,0,0,2
+877051,2 Mar 2020,v Kings,Rawalpindi,2,1,1,0,0,1
+877051,7 Mar 2020,v United,Rawalpindi,1,0,0,0,0,0
+877051,10 Mar 2020,v Qalandars,Lahore,2,1,1,0,0,1
+877051,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+877051,30 Aug 2020,v Pakistan,Manchester,1,1,1,0,0,1
+877051,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+877051,4 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+877051,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+877051,8 Sep 2020,v Australia,Southampton,2,1,1,0,0,1
+877051,12 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+877051,21 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+877051,20 Feb 2021,v Kings,Karachi,2,0,0,0,0,0
+877051,22 Feb 2021,v Qalandars,Karachi,2,0,0,0,0,0
+877051,9 Jun 2021,v Essex,Taunton,2,2,2,0,2,0
+877051,11 Jun 2021,v Surrey,Taunton,2,1,1,0,1,0
+877051,15 Jun 2021,v Kent,Taunton,2,2,1,1,1,0
+877051,23 Jun 2021,v Surrey,The Oval,1,1,1,0,1,0
+877051,25 Jun 2021,v Hampshire,Taunton,2,0,0,0,0,0
+877051,28 Jun 2021,v Kent,Canterbury,1,0,0,0,0,0
+877051,29 Jun 2021,v Essex,Chelmsford,2,0,0,0,0,0
+877051,24 Jul 2021,v N S-Chargers,Leeds,2,1,1,0,0,1
+877051,27 Jul 2021,v Brave,Cardiff,2,1,1,0,0,1
+877051,31 Jul 2021,v Originals,Cardiff,2,0,0,0,0,0
+877051,2 Aug 2021,v Invincibles,The Oval,2,0,0,0,0,0
+877051,6 Aug 2021,v Rockets,Cardiff,2,1,1,0,1,0
+877051,9 Aug 2021,v Phoenix,Birmingham,1,0,0,0,0,0
+877051,11 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+877051,18 Aug 2021,v Spirit,Cardiff,1,1,1,0,1,0
+877051,26 Aug 2021,v Lancashire,Taunton,1,2,0,2,0,0
+877051,18 Sep 2021,v Hampshire,Birmingham,1,3,3,0,3,0
+877051,18 Sep 2021,v Kent,Birmingham,1,0,0,0,0,0
+877051,6 Dec 2021,v Galle,Colombo (RPS),1,2,2,0,0,2
+877051,8 Dec 2021,v Dambulla,Colombo (RPS),1,1,1,0,0,1
+877051,10 Dec 2021,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+877051,11 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+877051,12 Dec 2021,v Galle,Colombo (RPS),2,0,0,0,0,0
+877051,16 Dec 2021,v Jaffna Kings,Colombo (RPS),1,1,1,0,0,1
+877051,17 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+877051,19 Dec 2021,v Dambulla,Hambantota,2,0,0,0,0,0
+877051,22 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+877051,23 Jan 2022,v West Indies,Bridgetown,2,1,1,0,0,1
+877051,26 Jan 2022,v West Indies,Bridgetown,1,2,2,0,2,0
+877051,29 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+877051,30 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+877051,25 May 2022,v Kent,Canterbury,1,1,1,0,1,0
+877051,27 May 2022,v SLC Dev XI,Taunton,2,1,1,0,1,0
+877051,29 May 2022,v Essex,Taunton,1,1,1,0,1,0
+877051,30 May 2022,v Hampshire,Southampton,1,0,0,0,0,0
+877051,1 Jun 2022,v Sussex,Taunton,1,0,0,0,0,0
+877051,3 Jun 2022,v Glamorgan,Taunton,1,0,0,0,0,0
+877051,9 Jun 2022,v Gloucs,Bristol,1,1,1,0,1,0
+877051,10 Jun 2022,v Kent,Taunton,1,0,0,0,0,0
+877051,17 Jun 2022,v Gloucs,Taunton,2,1,1,0,1,0
+877051,19 Jun 2022,v Essex,Chelmsford,1,2,2,0,2,0
+877051,21 Jun 2022,v Surrey,The Oval,2,1,1,0,1,0
+877051,23 Jun 2022,v Hampshire,Taunton,1,3,3,0,3,0
+877051,24 Jun 2022,v Glamorgan,Cardiff,2,2,2,0,2,0
+877051,1 Jul 2022,v Middlesex,Lord's,1,0,0,0,0,0
+877051,3 Jul 2022,v Surrey,Taunton,2,2,2,0,2,0
+877051,9 Jul 2022,v Derbyshire,Taunton,2,3,3,0,3,0
+877051,16 Jul 2022,v Hampshire,Birmingham,1,0,0,0,0,0
+877051,3 Aug 2022,v Brave,Southampton,2,0,0,0,0,0
+877051,7 Aug 2022,v Invincibles,Cardiff,1,0,0,0,0,0
+877051,13 Aug 2022,v Phoenix,Cardiff,1,0,0,0,0,0
+877051,16 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+877051,26 Aug 2022,v N S-Chargers,Cardiff,2,0,0,0,0,0
+877051,29 Aug 2022,v Rockets,Nottingham,1,1,1,0,0,1
+877051,24 May 2023,v Hampshire,Taunton,1,2,2,0,2,0
+877051,26 May 2023,v Sussex,Hove,1,0,0,0,0,0
+877051,28 May 2023,v Glamorgan,Taunton,1,0,0,0,0,0
+877051,30 May 2023,v Kent,Canterbury,2,0,0,0,0,0
+877051,2 Jun 2023,v Middlesex,Taunton,1,0,0,0,0,0
+877051,7 Jun 2023,v Hampshire,Southampton,1,0,0,0,0,0
+877051,9 Jun 2023,v Gloucs,Bristol,2,0,0,0,0,0
+877051,16 Jun 2023,v Surrey,Taunton,1,0,0,0,0,0
+877051,19 Jun 2023,v Essex,Chelmsford,1,1,1,0,1,0
+877051,21 Jun 2023,v Glamorgan,Cardiff,1,0,0,0,0,0
+877051,23 Jun 2023,v Gloucs,Taunton,1,2,2,0,2,0
+877051,30 Jun 2023,v Surrey,The Oval,2,1,1,0,1,0
+877051,2 Jul 2023,v Kent,Taunton,2,0,0,0,0,0
+877051,7 Jul 2023,v Notts,Taunton,1,0,0,0,0,0
+877051,15 Jul 2023,v Surrey,Birmingham,2,1,1,0,1,0
+877051,15 Jul 2023,v Essex,Birmingham,2,1,1,0,1,0
+877051,3 Aug 2023,v Phoenix,Leeds,1,0,0,0,0,0
+877051,6 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+877051,9 Aug 2023,v Rockets,Nottingham,2,0,0,0,0,0
+877051,11 Aug 2023,v Invincibles,Leeds,1,0,0,0,0,0
+877051,13 Aug 2023,v Originals,Leeds,1,2,1,1,1,0
+877051,18 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+877051,20 Aug 2023,v Originals,Manchester,1,1,0,1,0,0
+877051,22 Aug 2023,v Fire,Leeds,2,0,0,0,0,0
+877051,9 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+877051,10 Feb 2024,v MI Emirates,Abu Dhabi,2,1,1,0,0,1
+877051,13 Feb 2024,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+877051,15 Feb 2024,v Gulf Giants,Sharjah,1,0,0,0,0,0
+877051,17 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+877051,19 Feb 2024,v Rangpur,Chattogram,2,0,0,0,0,0
+877051,31 May 2024,v Essex,Taunton,1,0,0,0,0,0
+877051,2 Jun 2024,v Surrey,The Oval,1,1,1,0,1,0
+877051,7 Jun 2024,v Kent,Canterbury,2,0,0,0,0,0
+877051,9 Jun 2024,v Hampshire,Taunton,2,0,0,0,0,0
+877051,11 Jun 2024,v Middlesex,Lord's,1,1,1,0,1,0
+877051,14 Jun 2024,v Kent,Taunton,2,0,0,0,0,0
+877051,16 Jun 2024,v Glamorgan,Taunton,2,2,1,1,1,0
+877051,21 Jun 2024,v Gloucs,Bristol,2,1,1,0,1,0
+877051,7 Jul 2024,v Gloucs,Taunton,2,1,1,0,1,0
+877051,12 Jul 2024,v Surrey,Taunton,1,0,0,0,0,0
+877051,14 Jul 2024,v Hampshire,Southampton,1,0,0,0,0,0
+877051,18 Jul 2024,v Sussex,Taunton,1,0,0,0,0,0
+877051,19 Jul 2024,v Glamorgan,Cardiff,1,0,0,0,0,0
+877051,26 Jul 2024,v N S-Chargers,Leeds,2,0,0,0,0,0
+877051,29 Jul 2024,v Originals,Manchester,2,1,0,1,0,0
+877051,31 Jul 2024,v Phoenix,Nottingham,1,0,0,0,0,0
+877051,3 Aug 2024,v Fire,Nottingham,1,1,1,0,1,0
+877051,7 Aug 2024,v Spirit,Nottingham,2,1,1,0,1,0
+877051,10 Aug 2024,v Brave,Southampton,2,2,2,0,2,0
+877051,12 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+877051,14 Aug 2024,v Invincibles,Nottingham,1,0,0,0,0,0
+877051,5 Sep 2024,v Northants,Northampton,2,0,0,0,0,0
+877051,26 Dec 2024,v Scorchers,Perth,1,0,0,0,0,0
+877051,29 Dec 2024,v Sixers,Brisbane,2,0,0,0,0,0
+877051,1 Jan 2025,v Stars,Brisbane,2,2,2,0,2,0
+877051,11 Jan 2025,v DC,Dubai (DICS),1,2,2,0,0,2
+877051,13 Jan 2025,v DC,Abu Dhabi,2,1,1,0,0,1
+877051,16 Jan 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+877051,19 Jan 2025,v Warriorz,Sharjah,1,2,2,0,0,2
+877051,21 Jan 2025,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+877051,24 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+877051,25 Jan 2025,v Gulf Giants,Abu Dhabi,2,0,0,0,0,0
+877051,27 Jan 2025,v Vipers,Abu Dhabi,2,3,3,0,0,3
+877051,31 Jan 2025,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+877051,2 Feb 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+877051,6 Feb 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+877051,30 May 2025,v Surrey,Taunton,1,0,0,0,0,0
+877051,6 Jun 2025,v West Indies,Chester-le-Street,2,1,1,0,0,1
+877051,8 Jun 2025,v West Indies,Bristol,1,1,1,0,0,1
+877051,10 Jun 2025,v West Indies,Southampton,2,0,0,0,0,0
+877051,12 Jun 2025,v Middlesex,Taunton,1,1,1,0,1,0
+877051,13 Jun 2025,v Gloucs,Bristol,1,1,1,0,1,0
+877051,15 Jun 2025,v Kent,Taunton,1,1,1,0,1,0
+877051,19 Jun 2025,v Hampshire,Taunton,2,0,0,0,0,0
+877051,20 Jun 2025,v Glamorgan,Cardiff,1,1,1,0,1,0
+877051,4 Jul 2025,v Glamorgan,Taunton,1,1,1,0,1,0
+877051,6 Jul 2025,v Hampshire,Southampton,1,0,0,0,0,0
+877051,8 Jul 2025,v Essex,Taunton,2,0,0,0,0,0
+877051,11 Jul 2025,v Kent,Canterbury,1,0,0,0,0,0
+877051,8 Aug 2025,v Phoenix,Birmingham,1,0,0,0,0,0
+877051,10 Aug 2025,v N S-Chargers,Nottingham,1,1,1,0,1,0
+877051,14 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+877051,16 Aug 2025,v Brave,Nottingham,1,0,0,0,0,0
+877051,19 Aug 2025,v Originals,Nottingham,1,0,0,0,0,0
+877051,21 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+877051,24 Aug 2025,v Fire,Cardiff,1,0,0,0,0,0
+877051,27 Aug 2025,v Phoenix,Nottingham,1,1,1,0,0,1
+877051,30 Aug 2025,v N S-Chargers,The Oval,1,0,0,0,0,0
+877051,31 Aug 2025,v Invincibles,Lord's,1,1,1,0,0,1
+877051,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+877051,12 Sep 2025,v South Africa,Manchester,2,0,0,0,0,0
+877051,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+877051,21 Sep 2025,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+877051,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+877051,20 Oct 2025,v New Zealand,Christchurch,2,2,2,0,0,2
+877051,23 Oct 2025,v New Zealand,Auckland,1,0,0,0,0,0
+877051,4 Dec 2025,v Gulf Giants,Dubai (DICS),2,1,1,0,0,1
+877051,7 Dec 2025,v Warriorz,Sharjah,2,2,2,0,0,2
+877051,9 Dec 2025,v Vipers,Abu Dhabi,1,3,3,0,0,3
+877051,11 Dec 2025,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+877051,14 Dec 2025,v Warriorz,Abu Dhabi,1,2,2,0,0,2
+877051,17 Dec 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+877051,20 Dec 2025,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+877051,21 Dec 2025,v Vipers,Dubai (DICS),1,2,2,0,0,2
+877051,23 Dec 2025,v Gulf Giants,Abu Dhabi,1,2,2,0,0,2
+877051,27 Dec 2025,v DC,Abu Dhabi,1,1,1,0,1,0
+877051,30 Dec 2025,v Vipers,Abu Dhabi,1,0,0,0,0,0
+877051,2 Jan 2026,v KnightRiders,Sharjah,1,1,1,0,1,0
+877051,4 Jan 2026,v Vipers,Dubai (DICS),1,0,0,0,0,0
+877051,30 Jan 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+877051,1 Feb 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+877051,3 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+877051,8 Feb 2026,v Nepal,Wankhede,2,1,1,0,0,1
+877051,11 Feb 2026,v West Indies,Wankhede,1,2,2,0,0,2
+877051,14 Feb 2026,v Scotland,Eden Gardens,1,2,2,0,0,2
+877051,16 Feb 2026,v Italy,Eden Gardens,2,3,3,0,0,3
+877051,22 Feb 2026,v Sri Lanka,Pallekele,2,2,2,0,0,2
+877051,24 Feb 2026,v Pakistan,Pallekele,1,0,0,0,0,0
+877051,27 Feb 2026,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+877051,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

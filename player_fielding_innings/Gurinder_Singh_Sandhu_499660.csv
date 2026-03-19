@@ -1,0 +1,88 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+499660,8 Dec 2012,v Sixers,Sydney,2,0,0,0,0,0
+499660,4 Jan 2013,v Scorchers,W.A.C.A,2,0,0,0,0,0
+499660,8 Jan 2013,v Stars,Melbourne,1,0,0,0,0,0
+499660,21 Dec 2013,v Sixers,Sydney,2,0,0,0,0,0
+499660,27 Dec 2013,v Strikers,Sydney,1,0,0,0,0,0
+499660,1 Jan 2014,v Stars,Sydney,2,0,0,0,0,0
+499660,3 Jan 2014,v Scorchers,W.A.C.A,2,0,0,0,0,0
+499660,8 Jan 2014,v Heat,Sydney,1,0,0,0,0,0
+499660,11 Jan 2014,v Hurricanes,Hobart,1,1,1,0,0,1
+499660,14 Jan 2014,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+499660,25 Jan 2014,v Sixers,Sydney,2,0,0,0,0,0
+499660,21 Dec 2014,v Heat,Sydney,2,1,1,0,0,1
+499660,27 Dec 2014,v Sixers,Sydney,1,2,2,0,0,2
+499660,30 Dec 2014,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+499660,1 Jan 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+499660,9 Jan 2015,v Hurricanes,Sydney,2,0,0,0,0,0
+499660,12 Jan 2015,v Strikers,Adelaide,1,0,0,0,0,0
+499660,3 May 2015,v RR,Brabourne,1,0,0,0,0,0
+499660,12 May 2015,v CSK,Raipur,1,0,0,0,0,0
+499660,17 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+499660,17 Dec 2015,v Sixers,Sydney,2,0,0,0,0,0
+499660,20 Dec 2015,v Stars,Melbourne,2,1,1,0,0,1
+499660,28 Dec 2015,v Strikers,Sydney,1,1,1,0,0,1
+499660,1 Jan 2016,v Hurricanes,Hobart,1,0,0,0,0,0
+499660,3 Jan 2016,v Heat,Brisbane,2,0,0,0,0,0
+499660,11 Jan 2016,v Renegades,Sydney,2,0,0,0,0,0
+499660,20 Dec 2016,v Sixers,Sydney,2,0,0,0,0,0
+499660,4 Jan 2017,v Stars,Sydney,1,0,0,0,0,0
+499660,30 Dec 2017,v Hurricanes,Launceston,2,0,0,0,0,0
+499660,1 Jan 2018,v Hurricanes,Sydney,1,0,0,0,0,0
+499660,7 Jan 2018,v Strikers,Sydney,1,0,0,0,0,0
+499660,11 Jan 2018,v Scorchers,Sydney,2,1,1,0,0,1
+499660,13 Jan 2018,v Sixers,Sydney,2,0,0,0,0,0
+499660,20 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+499660,24 Jan 2018,v Renegades,Canberra,1,0,0,0,0,0
+499660,21 Dec 2018,v Stars,Canberra,2,0,0,0,0,0
+499660,2 Jan 2019,v Scorchers,Sydney,2,0,0,0,0,0
+499660,5 Jan 2019,v Stars,Carrara,2,1,1,0,0,1
+499660,8 Jan 2019,v Heat,Sydney,1,1,1,0,0,1
+499660,13 Jan 2019,v Strikers,Sydney,2,1,1,0,0,1
+499660,17 Jan 2019,v Heat,Brisbane,2,0,0,0,0,0
+499660,22 Jan 2019,v Renegades,Sydney,1,0,0,0,0,0
+499660,24 Jan 2019,v Scorchers,Perth,1,1,1,0,0,1
+499660,30 Jan 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+499660,2 Feb 2019,v Sixers,Sydney,2,0,0,0,0,0
+499660,9 Feb 2019,v Hurricanes,Canberra,1,0,0,0,0,0
+499660,18 Jan 2020,v Sixers,Sydney,1,0,0,0,0,0
+499660,20 Jan 2020,v Scorchers,Perth,2,0,0,0,0,0
+499660,24 Jan 2020,v Hurricanes,Hobart,1,0,0,0,0,0
+499660,26 Jan 2020,v Scorchers,Sydney,1,0,0,0,0,0
+499660,10 Dec 2020,v Hurricanes,Hobart,1,1,1,0,0,1
+499660,13 Dec 2020,v Renegades,Hobart,2,1,1,0,0,1
+499660,26 Dec 2020,v Stars,Carrara,1,0,0,0,0,0
+499660,6 Dec 2021,v Heat,Canberra,1,0,0,0,0,0
+499660,10 Dec 2021,v Stars,Melbourne,1,0,0,0,0,0
+499660,12 Dec 2021,v Stars,Sydney,2,0,0,0,0,0
+499660,2 Jan 2022,v Strikers,Sydney,2,0,0,0,0,0
+499660,6 Jan 2022,v Scorchers,Carrara,1,0,0,0,0,0
+499660,8 Jan 2022,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+499660,10 Jan 2022,v Hurricanes,Melbourne,1,1,1,0,0,1
+499660,13 Jan 2022,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+499660,15 Jan 2022,v Sixers,Sydney,1,1,1,0,0,1
+499660,19 Jan 2022,v Renegades,Melbourne,2,0,0,0,0,0
+499660,23 Jan 2022,v Strikers,Melbourne,1,0,0,0,0,0
+499660,13 Dec 2022,v Stars,Canberra,1,0,0,0,0,0
+499660,16 Dec 2022,v Strikers,Sydney,1,2,2,0,0,2
+499660,18 Dec 2022,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+499660,20 Dec 2022,v Strikers,Adelaide,2,0,0,0,0,0
+499660,27 Dec 2022,v Heat,Sydney,1,0,0,0,0,0
+499660,29 Dec 2022,v Heat,Carrara,2,0,0,0,0,0
+499660,21 Jan 2023,v Sixers,Sydney,1,0,0,0,0,0
+499660,25 Jan 2023,v Stars,Melbourne,1,0,0,0,0,0
+499660,27 Dec 2023,v Heat,Brisbane,1,0,0,0,0,0
+499660,30 Dec 2023,v Sixers,Sydney,2,0,0,0,0,0
+499660,1 Jan 2024,v Hurricanes,Hobart,2,0,0,0,0,0
+499660,8 Jan 2024,v Scorchers,Sydney,2,0,0,0,0,0
+499660,4 Jan 2025,v Stars,Melbourne,2,0,0,0,0,0
+499660,7 Jan 2025,v Scorchers,Perth,1,1,1,0,0,1
+499660,15 Dec 2025,v Heat,Geelong,2,0,0,0,0,0
+499660,21 Dec 2025,v Hurricanes,Geelong,2,0,0,0,0,0
+499660,29 Dec 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+499660,1 Jan 2026,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+499660,4 Jan 2026,v Stars,Melbourne,1,1,1,0,0,1
+499660,7 Jan 2026,v Scorchers,Perth,1,0,0,0,0,0
+499660,10 Jan 2026,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+499660,12 Jan 2026,v Thunder,Sydney,2,0,0,0,0,0
+499660,15 Jan 2026,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1

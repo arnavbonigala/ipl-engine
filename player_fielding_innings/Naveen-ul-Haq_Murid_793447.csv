@@ -1,0 +1,224 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+793447,19 Jan 2017,v Namibia,Dubai (DICS),2,0,0,0,0,0
+793447,12 Sep 2017,v BEAD,Kabul,2,0,0,0,0,0
+793447,13 Sep 2017,v BDD,Kabul,1,0,0,0,0,0
+793447,14 Sep 2017,v Amo Sharks,Kabul,1,1,1,0,0,1
+793447,16 Sep 2017,v Kabul Eagles,Kabul,1,0,0,0,0,0
+793447,17 Sep 2017,v SGT,Kabul,1,0,0,0,0,0
+793447,20 Sep 2017,v BEAD,Kabul,2,0,0,0,0,0
+793447,22 Sep 2017,v BEAD,Kabul,1,1,1,0,0,1
+793447,6 Oct 2018,v Knights,Sharjah,1,3,3,0,0,3
+793447,7 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+793447,9 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+793447,11 Oct 2018,v Legends,Sharjah,1,1,1,0,0,1
+793447,12 Oct 2018,v Kabul Zwanan,Sharjah,2,2,2,0,0,2
+793447,13 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+793447,14 Oct 2018,v Panthers,Sharjah,2,2,2,0,0,2
+793447,17 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+793447,19 Oct 2018,v Legends,Sharjah,1,1,1,0,0,1
+793447,21 Sep 2019,v Bangladesh,Chattogram,2,0,0,0,0,0
+793447,8 Oct 2019,v BDD,Kabul,2,0,0,0,0,0
+793447,9 Oct 2019,v BEAD,Kabul,2,0,0,0,0,0
+793447,11 Oct 2019,v SGT,Kabul,1,2,2,0,0,2
+793447,13 Oct 2019,v Kabul Eagles,Kabul,1,0,0,0,0,0
+793447,14 Oct 2019,v Amo Sharks,Kabul,2,0,0,0,0,0
+793447,16 Oct 2019,v BEAD,Kabul,1,0,0,0,0,0
+793447,18 Oct 2019,v BEAD,Kabul,1,0,0,0,0,0
+793447,14 Nov 2019,v West Indies,Lucknow,1,0,0,0,0,0
+793447,16 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+793447,17 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+793447,11 Dec 2019,v Chattogram,Mirpur,2,1,1,0,0,1
+793447,13 Dec 2019,v Royals,Mirpur,2,0,0,0,0,0
+793447,21 Dec 2019,v Khulna,Chattogram,2,1,1,0,0,1
+793447,30 Dec 2019,v Rangers,Mirpur,2,0,0,0,0,0
+793447,2 Jan 2020,v Warriors,Sylhet,1,0,0,0,0,0
+793447,4 Jan 2020,v Royals,Sylhet,2,0,0,0,0,0
+793447,10 Mar 2020,v Ireland,Greater Noida,1,0,0,0,0,0
+793447,18 Aug 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+793447,19 Aug 2020,v Patriots,Tarouba,1,0,0,0,0,0
+793447,22 Aug 2020,v Tallawahs,Tarouba,2,0,0,0,0,0
+793447,25 Aug 2020,v Tallawahs,Port of Spain,2,0,0,0,0,0
+793447,27 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+793447,30 Aug 2020,v Patriots,Port of Spain,1,0,0,0,0,0
+793447,1 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+793447,2 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+793447,3 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+793447,8 Sep 2020,v Zouks,Tarouba,2,0,0,0,0,0
+793447,26 Nov 2020,v Kings,Hambantota,2,0,0,0,0,0
+793447,28 Nov 2020,v Viiking,Hambantota,1,0,0,0,0,0
+793447,30 Nov 2020,v Galle,Hambantota,2,0,0,0,0,0
+793447,1 Dec 2020,v Stallions,Hambantota,1,0,0,0,0,0
+793447,3 Dec 2020,v Viiking,Hambantota,2,0,0,0,0,0
+793447,17 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+793447,19 Mar 2021,v Zimbabwe,Abu Dhabi,2,1,1,0,0,1
+793447,20 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+793447,10 Jun 2021,v Lancashire,Manchester,1,1,1,0,0,1
+793447,11 Jun 2021,v Derbyshire,Leicester,1,0,0,0,0,0
+793447,13 Jun 2021,v Durham,Leicester,2,1,1,0,0,1
+793447,15 Jun 2021,v Yorkshire,Leeds,1,0,0,0,0,0
+793447,16 Jun 2021,v Bears,Leicester,1,0,0,0,0,0
+793447,20 Jun 2021,v Northants,Northampton,2,0,0,0,0,0
+793447,22 Jun 2021,v Derbyshire,Derby,2,0,0,0,0,0
+793447,25 Jun 2021,v Yorkshire,Leicester,2,0,0,0,0,0
+793447,27 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+793447,29 Jun 2021,v Northants,Leicester,2,0,0,0,0,0
+793447,1 Jul 2021,v Notts,Nottingham,2,0,0,0,0,0
+793447,2 Jul 2021,v Durham,Chester-le-Street,1,0,0,0,0,0
+793447,16 Jul 2021,v Notts,Leicester,1,1,1,0,0,1
+793447,18 Jul 2021,v Worcs,Leicester,1,0,0,0,0,0
+793447,26 Aug 2021,v Trinbago,Basseterre,2,1,1,0,0,1
+793447,28 Aug 2021,v Patriots,Basseterre,2,1,1,0,0,1
+793447,29 Aug 2021,v Patriots,Basseterre,2,0,0,0,0,0
+793447,1 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+793447,2 Sep 2021,v Kings,Basseterre,1,1,1,0,0,1
+793447,8 Sep 2021,v Kings,Basseterre,2,0,0,0,0,0
+793447,11 Sep 2021,v Tallawahs,Basseterre,2,0,0,0,0,0
+793447,12 Sep 2021,v Tallawahs,Basseterre,2,2,2,0,0,2
+793447,14 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+793447,25 Oct 2021,v Scotland,Sharjah,2,0,0,0,0,0
+793447,29 Oct 2021,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+793447,31 Oct 2021,v Namibia,Abu Dhabi,2,0,0,0,0,0
+793447,3 Nov 2021,v India,Abu Dhabi,1,0,0,0,0,0
+793447,7 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+793447,6 Dec 2021,v Galle,Colombo (RPS),1,0,0,0,0,0
+793447,8 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+793447,10 Dec 2021,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+793447,11 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+793447,12 Dec 2021,v Galle,Colombo (RPS),2,1,1,0,0,1
+793447,14 Dec 2021,v Warriors,Colombo (RPS),1,1,1,0,0,1
+793447,16 Dec 2021,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+793447,17 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+793447,19 Dec 2021,v Dambulla,Hambantota,2,1,1,0,0,1
+793447,21 Jan 2022,v Dhaka,Mirpur,1,2,2,0,0,2
+793447,24 Jan 2022,v Chattogram,Mirpur,1,1,1,0,0,1
+793447,12 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0
+793447,26 May 2022,v Durham,Leicester,1,0,0,0,0,0
+793447,28 May 2022,v Derbyshire,Leicester,1,0,0,0,0,0
+793447,29 May 2022,v Yorkshire,Leeds,2,2,2,0,0,2
+793447,1 Jun 2022,v Northants,Northampton,1,0,0,0,0,0
+793447,2 Jun 2022,v Bears,Birmingham,2,0,0,0,0,0
+793447,5 Jun 2022,v Worcs,Worcester,2,0,0,0,0,0
+793447,7 Jun 2022,v Lancashire,Leicester,2,0,0,0,0,0
+793447,9 Jun 2022,v Derbyshire,Derby,2,0,0,0,0,0
+793447,10 Jun 2022,v Notts,Leicester,2,0,0,0,0,0
+793447,17 Jun 2022,v Worcs,Leicester,1,0,0,0,0,0
+793447,19 Jun 2022,v Durham,Chester-le-Street,2,0,0,0,0,0
+793447,21 Jun 2022,v Notts,Nottingham,2,0,0,0,0,0
+793447,1 Jul 2022,v Northants,Leicester,2,0,0,0,0,0
+793447,3 Jul 2022,v Yorkshire,Leicester,2,0,0,0,0,0
+793447,9 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+793447,11 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+793447,12 Aug 2022,v Ireland,Belfast,2,1,1,0,0,1
+793447,15 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+793447,17 Aug 2022,v Ireland,Belfast,2,1,1,0,0,1
+793447,27 Aug 2022,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+793447,30 Aug 2022,v Bangladesh,Sharjah,1,0,0,0,0,0
+793447,3 Sep 2022,v Sri Lanka,Sharjah,2,0,0,0,0,0
+793447,4 Nov 2022,v Australia,Adelaide,1,0,0,0,0,0
+793447,8 Dec 2022,v Aura,Hambantota,2,0,0,0,0,0
+793447,11 Dec 2022,v Galle,Pallekele,1,0,0,0,0,0
+793447,12 Dec 2022,v Jaffna Kings,Pallekele,1,1,1,0,0,1
+793447,13 Dec 2022,v Galle,Pallekele,1,0,0,0,0,0
+793447,17 Dec 2022,v Scorchers,Perth,1,0,0,0,0,0
+793447,22 Dec 2022,v Hurricanes,Sydney,2,0,0,0,0,0
+793447,10 Feb 2023,v Victorians,Mirpur,1,0,0,0,0,0
+793447,16 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+793447,18 Feb 2023,v U.A.E.,Abu Dhabi,2,0,0,0,0,0
+793447,19 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+793447,2 Mar 2023,v Qalandars,Lahore,1,0,0,0,0,0
+793447,5 Mar 2023,v United,Rawalpindi,2,0,0,0,0,0
+793447,6 Mar 2023,v Kings,Rawalpindi,1,1,1,0,0,1
+793447,11 Mar 2023,v Sultans,Rawalpindi,1,0,0,0,0,0
+793447,24 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+793447,26 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+793447,19 Apr 2023,v RR,Jaipur,2,0,0,0,0,0
+793447,22 Apr 2023,v GT,Lucknow,1,1,1,0,0,1
+793447,28 Apr 2023,v Punjab Kings,Mohali,2,0,0,0,0,0
+793447,1 May 2023,v RCB,Lucknow,1,0,0,0,0,0
+793447,3 May 2023,v CSK,Lucknow,-,TDNF,-,-,-,-
+793447,16 May 2023,v MI,Lucknow,2,1,1,0,0,1
+793447,20 May 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+793447,24 May 2023,v MI,Chennai,1,0,0,0,0,0
+793447,1 Jun 2023,v Derbyshire,Leicester,1,0,0,0,0,0
+793447,2 Jun 2023,v Northants,Northampton,2,0,0,0,0,0
+793447,4 Jun 2023,v Durham,Chester-le-Street,1,0,0,0,0,0
+793447,6 Jun 2023,v Yorkshire,Leicester,1,0,0,0,0,0
+793447,16 Jun 2023,v Yorkshire,Leeds,2,0,0,0,0,0
+793447,29 Dec 2023,v U.A.E.,Sharjah,2,0,0,0,0,0
+793447,31 Dec 2023,v U.A.E.,Sharjah,1,0,0,0,0,0
+793447,2 Jan 2024,v U.A.E.,Sharjah,1,0,0,0,0,0
+793447,11 Jan 2024,v India,Mohali,2,0,0,0,0,0
+793447,14 Jan 2024,v India,Indore,2,0,0,0,0,0
+793447,20 Jan 2024,v Sunrisers,Durban,2,0,0,0,0,0
+793447,23 Jan 2024,v MI Cape Town,Cape Town,2,1,1,0,0,1
+793447,26 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+793447,28 Jan 2024,v Paarl Royals,Durban,2,1,1,0,0,1
+793447,30 Jan 2024,v Capitals,Durban,2,0,0,0,0,0
+793447,3 Feb 2024,v Super Kings,Johannesburg,2,1,1,0,0,1
+793447,6 Feb 2024,v Sunrisers,Cape Town,1,1,1,0,0,1
+793447,8 Feb 2024,v Super Kings,Johannesburg,2,2,2,0,0,2
+793447,10 Feb 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+793447,17 Feb 2024,v Sri Lanka,Dambulla,1,0,0,0,0,0
+793447,19 Feb 2024,v Sri Lanka,Dambulla,1,1,1,0,0,1
+793447,23 Feb 2024,v Sultans,Multan,2,0,0,0,0,0
+793447,25 Feb 2024,v Qalandars,Lahore,2,0,0,0,0,0
+793447,26 Feb 2024,v United,Lahore,2,0,0,0,0,0
+793447,5 Mar 2024,v Sultans,Rawalpindi,2,0,0,0,0,0
+793447,8 Mar 2024,v Gladiators,Rawalpindi,2,0,0,0,0,0
+793447,11 Mar 2024,v Kings,Karachi,2,0,0,0,0,0
+793447,15 Mar 2024,v Ireland,Sharjah,1,0,0,0,0,0
+793447,17 Mar 2024,v Ireland,Sharjah,2,0,0,0,0,0
+793447,18 Mar 2024,v Ireland,Sharjah,2,2,2,0,0,2
+793447,24 Mar 2024,v RR,Jaipur,1,0,0,0,0,0
+793447,30 Mar 2024,v Punjab Kings,Lucknow,2,2,2,0,0,2
+793447,2 Apr 2024,v RCB,Bengaluru,2,0,0,0,0,0
+793447,7 Apr 2024,v GT,Lucknow,2,0,0,0,0,0
+793447,12 Apr 2024,v DC,Lucknow,2,0,0,0,0,0
+793447,30 Apr 2024,v MI,Lucknow,1,0,0,0,0,0
+793447,5 May 2024,v KKR,Lucknow,1,0,0,0,0,0
+793447,8 May 2024,v SRH,Hyderabad,2,0,0,0,0,0
+793447,14 May 2024,v DC,Delhi,1,1,1,0,0,1
+793447,17 May 2024,v MI,Wankhede,2,1,1,0,0,1
+793447,3 Jun 2024,v Uganda,Providence,2,0,0,0,0,0
+793447,7 Jun 2024,v New Zealand,Providence,2,0,0,0,0,0
+793447,13 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+793447,17 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+793447,20 Jun 2024,v India,Bridgetown,1,0,0,0,0,0
+793447,22 Jun 2024,v Australia,Kingstown,2,0,0,0,0,0
+793447,24 Jun 2024,v Bangladesh,Kingstown,2,1,1,0,0,1
+793447,26 Jun 2024,v South Africa,Tarouba,2,0,0,0,0,0
+793447,5 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+793447,8 Jul 2024,v Washington,Morrisville,2,0,0,0,0,0
+793447,10 Jul 2024,v SF,Morrisville,1,1,1,0,0,1
+793447,14 Jul 2024,v MI New York,Dallas,2,0,0,0,0,0
+793447,21 Aug 2024,v Amo Sharks,Kabul,1,0,0,0,0,0
+793447,22 Aug 2024,v BDD,Kabul,2,1,1,0,0,1
+793447,24 Aug 2024,v Amo Sharks,Kabul,2,0,0,0,0,0
+793447,1 Sep 2024,v Falcons,North Sound,1,1,1,0,0,1
+793447,6 Sep 2024,v Patriots,Basseterre,1,0,0,0,0,0
+793447,11 Sep 2024,v Falcons,Bridgetown,1,0,0,0,0,0
+793447,13 Sep 2024,v Trinbago,Bridgetown,2,0,0,0,0,0
+793447,14 Sep 2024,v Amazon,Bridgetown,2,0,0,0,0,0
+793447,17 Sep 2024,v Patriots,Bridgetown,1,0,0,0,0,0
+793447,25 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+793447,27 Sep 2024,v Trinbago,Tarouba,1,0,0,0,0,0
+793447,1 Oct 2024,v Trinbago,Providence,1,0,0,0,0,0
+793447,4 Oct 2024,v Amazon,Providence,2,1,1,0,0,1
+793447,11 Dec 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+793447,13 Dec 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+793447,14 Dec 2024,v Zimbabwe,Harare,1,1,1,0,0,1
+793447,10 Jan 2025,v Capitals,Durban,2,0,0,0,0,0
+793447,12 Jan 2025,v Capitals,Centurion,-,TDNF,-,-,-,-
+793447,14 Jan 2025,v Super Kings,Durban,1,0,0,0,0,0
+793447,17 Jan 2025,v Sunrisers,Durban,1,0,0,0,0,0
+793447,19 Jan 2025,v Sunrisers,Gqeberha,2,0,0,0,0,0
+793447,21 Jan 2025,v MI Cape Town,Durban,1,0,0,0,0,0
+793447,23 Jan 2025,v Paarl Royals,Durban,2,0,0,0,0,0
+793447,1 Feb 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+793447,13 Jun 2025,v Texas,Oakland,1,0,0,0,0,0
+793447,15 Jun 2025,v SF,Oakland,2,0,0,0,0,0
+793447,18 Jun 2025,v Seattle,Oakland,1,0,0,0,0,0
+793447,21 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+793447,23 Jun 2025,v SF,Dallas,1,0,0,0,0,0
+793447,7 Dec 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+793447,17 Dec 2025,v DC,Dubai (DICS),2,1,1,0,0,1

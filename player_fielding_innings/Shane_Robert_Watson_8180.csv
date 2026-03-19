@@ -1,0 +1,344 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+8180,2 Jul 2004,v Essex,Chelmsford,1,0,0,0,0,0
+8180,3 Jul 2004,v Surrey,The Oval,1,0,0,0,0,0
+8180,9 Jul 2004,v Sussex,Hove,1,1,1,0,0,1
+8180,13 Jul 2004,v Middlesex,Southampton,2,1,1,0,0,1
+8180,15 Jul 2004,v Kent,Southampton,2,1,1,0,0,1
+8180,24 Feb 2006,v South Africa,Johannesburg,1,0,0,0,0,0
+8180,9 Jul 2006,v NZ A,Darwin,2,0,0,0,0,0
+8180,23 Jul 2006,v Pakistan A,Cairns,2,1,1,0,0,1
+8180,20 Sep 2007,v Sri Lanka,Cape Town,1,0,0,0,0,0
+8180,31 Dec 2007,v Victoria,Townsville,1,0,0,0,0,0
+8180,4 Jan 2008,v South Aust,Brisbane,-,TDNF,-,-,-,-
+8180,6 Jan 2008,v West Aust,W.A.C.A,2,1,1,0,0,1
+8180,8 Jan 2008,v NSW,Sydney,1,0,0,0,0,0
+8180,10 Jan 2008,v Tasmania,Brisbane,1,1,1,0,0,1
+8180,19 Apr 2008,v Daredevils,Delhi,2,0,0,0,0,0
+8180,21 Apr 2008,v Kings XI,Jaipur,1,0,0,0,0,0
+8180,24 Apr 2008,v Chargers,Hyderabad,1,0,0,0,0,0
+8180,26 Apr 2008,v RCB,Bengaluru,1,0,0,0,0,0
+8180,1 May 2008,v KKR,Jaipur,2,1,1,0,0,1
+8180,4 May 2008,v CSK,Jaipur,1,1,1,0,0,1
+8180,7 May 2008,v MI,DY Patil,2,0,0,0,0,0
+8180,9 May 2008,v Chargers,Jaipur,1,0,0,0,0,0
+8180,11 May 2008,v Daredevils,Jaipur,1,0,0,0,0,0
+8180,17 May 2008,v RCB,Jaipur,2,0,0,0,0,0
+8180,20 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+8180,26 May 2008,v MI,Jaipur,1,0,0,0,0,0
+8180,28 May 2008,v Kings XI,Mohali,1,0,0,0,0,0
+8180,30 May 2008,v Daredevils,Wankhede,2,0,0,0,0,0
+8180,1 Jun 2008,v CSK,DY Patil,1,0,0,0,0,0
+8180,20 Jun 2008,v West Indies,Bridgetown,2,0,0,0,0,0
+8180,7 May 2009,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+8180,6 Jun 2009,v West Indies,The Oval,2,1,1,0,0,1
+8180,8 Jun 2009,v Sri Lanka,Nottingham,2,0,0,0,0,0
+8180,30 Aug 2009,v England,Manchester,2,1,1,0,0,1
+8180,5 Feb 2010,v Pakistan,Melbourne,2,1,1,0,0,1
+8180,21 Feb 2010,v West Indies,Hobart,2,2,2,0,0,2
+8180,23 Feb 2010,v West Indies,Sydney,1,0,0,0,0,0
+8180,26 Feb 2010,v New Zealand,Wellington,1,2,2,0,0,2
+8180,3 Apr 2010,v CSK,Chennai,1,1,1,0,0,1
+8180,5 Apr 2010,v Chargers,Nagpur,2,0,0,0,0,0
+8180,7 Apr 2010,v Kings XI,Jaipur,1,0,0,0,0,0
+8180,11 Apr 2010,v MI,Jaipur,1,0,0,0,0,0
+8180,14 Apr 2010,v RCB,Jaipur,2,1,1,0,0,1
+8180,17 Apr 2010,v KKR,Eden Gardens,2,1,1,0,0,1
+8180,2 May 2010,v Pakistan,Gros Islet,2,0,0,0,0,0
+8180,5 May 2010,v Bangladesh,Bridgetown,2,0,0,0,0,0
+8180,7 May 2010,v India,Bridgetown,2,0,0,0,0,0
+8180,9 May 2010,v Sri Lanka,Bridgetown,2,0,0,0,0,0
+8180,11 May 2010,v West Indies,Gros Islet,1,0,0,0,0,0
+8180,14 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+8180,16 May 2010,v England,Bridgetown,2,0,0,0,0,0
+8180,5 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+8180,31 Oct 2010,v Sri Lanka,W.A.C.A,2,0,0,0,0,0
+8180,12 Jan 2011,v England,Adelaide,2,0,0,0,0,0
+8180,14 Jan 2011,v England,Melbourne,2,0,0,0,0,0
+8180,15 Apr 2011,v KKR,Jaipur,2,0,0,0,0,0
+8180,17 Apr 2011,v KKR,Eden Gardens,2,0,0,0,0,0
+8180,21 Apr 2011,v Kings XI,Mohali,1,1,1,0,0,1
+8180,24 Apr 2011,v Kochi,Jaipur,1,2,2,0,0,2
+8180,29 Apr 2011,v MI,Jaipur,1,0,0,0,0,0
+8180,1 May 2011,v Warriors,Jaipur,1,0,0,0,0,0
+8180,4 May 2011,v CSK,Chennai,2,0,0,0,0,0
+8180,9 May 2011,v CSK,Jaipur,1,0,0,0,0,0
+8180,11 May 2011,v RCB,Jaipur,2,0,0,0,0,0
+8180,15 May 2011,v Kochi,Indore,2,0,0,0,0,0
+8180,20 May 2011,v MI,Wankhede,1,1,1,0,0,1
+8180,6 Aug 2011,v Sri Lanka,Pallekele,1,0,0,0,0,0
+8180,8 Aug 2011,v Sri Lanka,Pallekele,1,1,1,0,0,1
+8180,24 Sep 2011,v Cape Cobras,Chennai,2,0,0,0,0,0
+8180,28 Sep 2011,v Trinidad & T,Chennai,1,0,0,0,0,0
+8180,2 Oct 2011,v MI,Chennai,1,1,1,0,0,1
+8180,4 Oct 2011,v CSK,Chennai,2,0,0,0,0,0
+8180,7 Oct 2011,v RCB,Bengaluru,2,0,0,0,0,0
+8180,13 Oct 2011,v South Africa,Cape Town,1,1,1,0,0,1
+8180,27 Mar 2012,v West Indies,Gros Islet,1,0,0,0,0,0
+8180,30 Mar 2012,v West Indies,Bridgetown,1,0,0,0,0,0
+8180,1 May 2012,v Daredevils,Jaipur,2,0,0,0,0,0
+8180,5 May 2012,v Kings XI,Mohali,2,0,0,0,0,0
+8180,8 May 2012,v Warriors,Pune,1,0,0,0,0,0
+8180,10 May 2012,v CSK,Jaipur,2,0,0,0,0,0
+8180,13 May 2012,v Warriors,Jaipur,2,1,1,0,0,1
+8180,18 May 2012,v Chargers,Hyderabad,2,1,1,0,0,1
+8180,20 May 2012,v MI,Jaipur,2,0,0,0,0,0
+8180,5 Sep 2012,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+8180,7 Sep 2012,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+8180,10 Sep 2012,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+8180,19 Sep 2012,v Ireland,Colombo (RPS),1,1,1,0,0,1
+8180,22 Sep 2012,v West Indies,Colombo (RPS),1,1,1,0,0,1
+8180,28 Sep 2012,v India,Colombo (RPS),1,0,0,0,0,0
+8180,30 Sep 2012,v South Africa,Colombo (RPS),1,0,0,0,0,0
+8180,2 Oct 2012,v Pakistan,Colombo (RPS),1,1,1,0,0,1
+8180,5 Oct 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+8180,14 Oct 2012,v CSK,Johannesburg,2,0,0,0,0,0
+8180,16 Oct 2012,v Yorkshire,Cape Town,1,0,0,0,0,0
+8180,18 Oct 2012,v Lions,Cape Town,1,0,0,0,0,0
+8180,9 Dec 2012,v Hurricanes,Brisbane,2,0,0,0,0,0
+8180,8 Apr 2013,v KKR,Jaipur,2,0,0,0,0,0
+8180,14 Apr 2013,v Kings XI,Jaipur,1,0,0,0,0,0
+8180,17 Apr 2013,v MI,Jaipur,2,1,1,0,0,1
+8180,20 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+8180,22 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+8180,27 Apr 2013,v SRH,Jaipur,1,2,2,0,0,2
+8180,29 Apr 2013,v RCB,Jaipur,1,0,0,0,0,0
+8180,3 May 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+8180,5 May 2013,v Warriors,Jaipur,1,0,0,0,0,0
+8180,7 May 2013,v Daredevils,Jaipur,1,0,0,0,0,0
+8180,9 May 2013,v Kings XI,Mohali,1,0,0,0,0,0
+8180,12 May 2013,v CSK,Jaipur,1,1,1,0,0,1
+8180,15 May 2013,v MI,Wankhede,1,2,2,0,0,2
+8180,17 May 2013,v SRH,Hyderabad,1,0,0,0,0,0
+8180,22 May 2013,v SRH,Delhi,1,0,0,0,0,0
+8180,24 May 2013,v MI,Eden Gardens,2,0,0,0,0,0
+8180,29 Aug 2013,v England,Southampton,2,0,0,0,0,0
+8180,31 Aug 2013,v England,Chester-le-Street,1,0,0,0,0,0
+8180,21 Sep 2013,v MI,Jaipur,1,0,0,0,0,0
+8180,25 Sep 2013,v Lions,Jaipur,2,0,0,0,0,0
+8180,29 Sep 2013,v Scorchers,Jaipur,1,0,0,0,0,0
+8180,1 Oct 2013,v Otago,Jaipur,1,1,1,0,0,1
+8180,4 Oct 2013,v CSK,Jaipur,2,0,0,0,0,0
+8180,6 Oct 2013,v MI,Delhi,1,0,0,0,0,0
+8180,10 Oct 2013,v India,Rajkot,2,1,1,0,0,1
+8180,12 Mar 2014,v South Africa,Durban,1,0,0,0,0,0
+8180,14 Mar 2014,v South Africa,Centurion,1,0,0,0,0,0
+8180,23 Mar 2014,v Pakistan,Mirpur,1,0,0,0,0,0
+8180,28 Mar 2014,v West Indies,Mirpur,2,0,0,0,0,0
+8180,30 Mar 2014,v India,Mirpur,1,0,0,0,0,0
+8180,1 Apr 2014,v Bangladesh,Mirpur,1,1,1,0,0,1
+8180,18 Apr 2014,v SRH,Abu Dhabi,1,0,0,0,0,0
+8180,20 Apr 2014,v Kings XI,Sharjah,2,0,0,0,0,0
+8180,23 Apr 2014,v CSK,Dubai (DICS),1,1,1,0,0,1
+8180,26 Apr 2014,v RCB,Abu Dhabi,1,0,0,0,0,0
+8180,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+8180,3 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+8180,5 May 2014,v KKR,Ahmedabad,2,0,0,0,0,0
+8180,8 May 2014,v SRH,Ahmedabad,1,0,0,0,0,0
+8180,11 May 2014,v RCB,Bengaluru,1,1,1,0,0,1
+8180,13 May 2014,v CSK,Ranchi,2,0,0,0,0,0
+8180,19 May 2014,v MI,Ahmedabad,1,0,0,0,0,0
+8180,23 May 2014,v Kings XI,Mohali,1,0,0,0,0,0
+8180,25 May 2014,v MI,Wankhede,2,0,0,0,0,0
+8180,5 Nov 2014,v South Africa,Adelaide,2,0,0,0,0,0
+8180,7 Nov 2014,v South Africa,Melbourne,1,0,0,0,0,0
+8180,9 Nov 2014,v South Africa,Sydney,1,0,0,0,0,0
+8180,19 Apr 2015,v CSK,Ahmedabad,1,0,0,0,0,0
+8180,21 Apr 2015,v Kings XI,Ahmedabad,2,0,0,0,0,0
+8180,24 Apr 2015,v RCB,Ahmedabad,2,0,0,0,0,0
+8180,29 Apr 2015,v RCB,Bengaluru,1,0,0,0,0,0
+8180,1 May 2015,v MI,Wankhede,1,0,0,0,0,0
+8180,3 May 2015,v Daredevils,Brabourne,2,1,1,0,0,1
+8180,7 May 2015,v SRH,Brabourne,1,0,0,0,0,0
+8180,10 May 2015,v CSK,Chennai,1,0,0,0,0,0
+8180,16 May 2015,v KKR,Brabourne,2,0,0,0,0,0
+8180,20 May 2015,v RCB,Pune,1,0,0,0,0,0
+8180,31 Aug 2015,v England,Cardiff,1,1,1,0,0,1
+8180,6 Dec 2015,v Central D,Christchurch,2,0,0,0,0,0
+8180,17 Dec 2015,v Sixers,Sydney,2,1,1,0,0,1
+8180,20 Dec 2015,v Stars,Melbourne,2,0,0,0,0,0
+8180,28 Dec 2015,v Strikers,Sydney,1,0,0,0,0,0
+8180,1 Jan 2016,v Hurricanes,Hobart,1,0,0,0,0,0
+8180,3 Jan 2016,v Heat,Brisbane,2,0,0,0,0,0
+8180,7 Jan 2016,v Scorchers,Sydney,1,0,0,0,0,0
+8180,11 Jan 2016,v Renegades,Sydney,2,0,0,0,0,0
+8180,16 Jan 2016,v Sixers,Sydney,2,1,1,0,0,1
+8180,21 Jan 2016,v Strikers,Adelaide,1,0,0,0,0,0
+8180,24 Jan 2016,v Stars,Melbourne,1,0,0,0,0,0
+8180,26 Jan 2016,v India,Adelaide,1,0,0,0,0,0
+8180,29 Jan 2016,v India,Melbourne,1,1,1,0,0,1
+8180,31 Jan 2016,v India,Sydney,2,1,1,0,0,1
+8180,4 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+8180,5 Feb 2016,v Zalmi,Dubai (DICS),1,2,2,0,0,2
+8180,7 Feb 2016,v Kings,Dubai (DICS),2,0,0,0,0,0
+8180,10 Feb 2016,v Qalandars,Sharjah,1,0,0,0,0,0
+8180,11 Feb 2016,v Gladiators,Sharjah,2,0,0,0,0,0
+8180,12 Feb 2016,v Zalmi,Sharjah,2,0,0,0,0,0
+8180,6 Mar 2016,v South Africa,Johannesburg,1,0,0,0,0,0
+8180,9 Mar 2016,v South Africa,Cape Town,1,0,0,0,0,0
+8180,18 Mar 2016,v New Zealand,Dharamsala,1,0,0,0,0,0
+8180,21 Mar 2016,v Bangladesh,Bengaluru,1,1,1,0,0,1
+8180,25 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+8180,27 Mar 2016,v India,Mohali,2,1,1,0,0,1
+8180,12 Apr 2016,v SRH,Bengaluru,2,0,0,0,0,0
+8180,17 Apr 2016,v Daredevils,Bengaluru,2,0,0,0,0,0
+8180,20 Apr 2016,v MI,Wankhede,2,1,1,0,0,1
+8180,22 Apr 2016,v Supergiants,Pune,2,1,1,0,0,1
+8180,24 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+8180,30 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+8180,2 May 2016,v KKR,Bengaluru,2,0,0,0,0,0
+8180,7 May 2016,v Supergiants,Bengaluru,1,1,1,0,0,1
+8180,9 May 2016,v Kings XI,Mohali,2,0,0,0,0,0
+8180,11 May 2016,v MI,Bengaluru,2,1,1,0,0,1
+8180,14 May 2016,v Guj Lions,Bengaluru,2,0,0,0,0,0
+8180,16 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+8180,18 May 2016,v Kings XI,Bengaluru,2,0,0,0,0,0
+8180,22 May 2016,v Daredevils,Raipur,1,1,1,0,0,1
+8180,24 May 2016,v Guj Lions,Bengaluru,1,0,0,0,0,0
+8180,29 May 2016,v SRH,Bengaluru,1,1,1,0,0,1
+8180,29 Jun 2016,v Trinbago,Port of Spain,1,1,1,0,0,1
+8180,3 Jul 2016,v Patriots,Basseterre,1,1,1,0,0,1
+8180,12 Jul 2016,v Amazon,Providence,2,1,1,0,0,1
+8180,17 Jul 2016,v Tridents,Bridgetown,1,0,0,0,0,0
+8180,21 Jul 2016,v Patriots,Gros Islet,2,1,1,0,0,1
+8180,23 Jul 2016,v Tridents,Gros Islet,1,0,0,0,0,0
+8180,24 Jul 2016,v Amazon,Gros Islet,1,0,0,0,0,0
+8180,26 Jul 2016,v Trinbago,Gros Islet,2,1,1,0,0,1
+8180,30 Jul 2016,v Tallawahs,Lauderhill,2,0,0,0,0,0
+8180,31 Jul 2016,v Tallawahs,Lauderhill,2,1,1,0,0,1
+8180,4 Aug 2016,v Trinbago,Basseterre,2,0,0,0,0,0
+8180,28 Dec 2016,v Heat,Sydney,2,1,1,0,0,1
+8180,1 Jan 2017,v Scorchers,W.A.C.A,1,0,0,0,0,0
+8180,4 Jan 2017,v Stars,Sydney,1,1,1,0,0,1
+8180,8 Jan 2017,v Hurricanes,Hobart,1,0,0,0,0,0
+8180,14 Jan 2017,v Sixers,Sydney,1,0,0,0,0,0
+8180,18 Jan 2017,v Strikers,Sydney,1,0,0,0,0,0
+8180,9 Feb 2017,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+8180,11 Feb 2017,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+8180,15 Feb 2017,v Gladiators,Sharjah,1,0,0,0,0,0
+8180,17 Feb 2017,v Kings,Sharjah,2,0,0,0,0,0
+8180,18 Feb 2017,v Zalmi,Sharjah,1,0,0,0,0,0
+8180,20 Feb 2017,v Qalandars,Sharjah,2,0,0,0,0,0
+8180,24 Feb 2017,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+8180,26 Feb 2017,v Kings,Dubai (DICS),2,0,0,0,0,0
+8180,1 Mar 2017,v Kings,Sharjah,1,0,0,0,0,0
+8180,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+8180,8 Apr 2017,v Daredevils,Bengaluru,2,0,0,0,0,0
+8180,10 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+8180,16 Apr 2017,v Supergiant,Bengaluru,1,0,0,0,0,0
+8180,18 Apr 2017,v Guj Lions,Rajkot,2,1,1,0,0,1
+8180,1 May 2017,v MI,Wankhede,2,0,0,0,0,0
+8180,5 May 2017,v Kings XI,Bengaluru,1,0,0,0,0,0
+8180,14 May 2017,v Daredevils,Delhi,2,1,1,0,0,1
+8180,10 Aug 2017,v Tridents,Gros Islet,1,0,0,0,0,0
+8180,12 Aug 2017,v Patriots,Gros Islet,1,0,0,0,0,0
+8180,13 Aug 2017,v Amazon,Gros Islet,2,0,0,0,0,0
+8180,15 Aug 2017,v Tallawahs,Gros Islet,2,0,0,0,0,0
+8180,19 Aug 2017,v Patriots,Basseterre,-,TDNF,-,-,-,-
+8180,22 Aug 2017,v Amazon,Providence,2,0,0,0,0,0
+8180,25 Aug 2017,v Tallawahs,Kingston,2,0,0,0,0,0
+8180,31 Aug 2017,v Tridents,Bridgetown,1,1,1,0,0,1
+8180,19 Dec 2017,v Sixers,Sydney,1,1,1,0,0,1
+8180,22 Dec 2017,v Strikers,Adelaide,1,0,0,0,0,0
+8180,27 Dec 2017,v Heat,Brisbane,2,1,1,0,0,1
+8180,30 Dec 2017,v Hurricanes,Launceston,2,0,0,0,0,0
+8180,1 Jan 2018,v Hurricanes,Sydney,1,0,0,0,0,0
+8180,7 Jan 2018,v Strikers,Sydney,1,0,0,0,0,0
+8180,11 Jan 2018,v Scorchers,Sydney,2,0,0,0,0,0
+8180,13 Jan 2018,v Sixers,Sydney,2,0,0,0,0,0
+8180,20 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+8180,24 Jan 2018,v Renegades,Canberra,1,0,0,0,0,0
+8180,23 Feb 2018,v Kings,Dubai (DICS),1,0,0,0,0,0
+8180,24 Feb 2018,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+8180,28 Feb 2018,v United,Sharjah,1,0,0,0,0,0
+8180,1 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+8180,3 Mar 2018,v Sultans,Sharjah,2,0,0,0,0,0
+8180,7 Mar 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+8180,8 Mar 2018,v Kings,Dubai (DICS),2,0,0,0,0,0
+8180,10 Mar 2018,v Zalmi,Dubai (DICS),1,1,1,0,0,1
+8180,14 Mar 2018,v Qalandars,Sharjah,1,0,0,0,0,0
+8180,15 Mar 2018,v United,Sharjah,2,1,1,0,0,1
+8180,7 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+8180,10 Apr 2018,v KKR,Chennai,1,0,0,0,0,0
+8180,15 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+8180,20 Apr 2018,v RR,Pune,2,0,0,0,0,0
+8180,22 Apr 2018,v SRH,Hyderabad,2,1,1,0,0,1
+8180,25 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+8180,28 Apr 2018,v MI,Pune,2,0,0,0,0,0
+8180,30 Apr 2018,v Daredevils,Pune,2,0,0,0,0,0
+8180,3 May 2018,v KKR,Eden Gardens,2,1,1,0,0,1
+8180,5 May 2018,v RCB,Pune,1,0,0,0,0,0
+8180,11 May 2018,v RR,Jaipur,2,1,1,0,0,1
+8180,13 May 2018,v SRH,Pune,1,0,0,0,0,0
+8180,18 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+8180,22 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+8180,27 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+8180,21 Dec 2018,v Stars,Canberra,2,0,0,0,0,0
+8180,24 Dec 2018,v Sixers,Sydney,2,0,0,0,0,0
+8180,28 Dec 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+8180,31 Dec 2018,v Strikers,Adelaide,1,1,1,0,0,1
+8180,2 Jan 2019,v Scorchers,Sydney,2,1,1,0,0,1
+8180,5 Jan 2019,v Stars,Carrara,2,0,0,0,0,0
+8180,8 Jan 2019,v Heat,Sydney,1,0,0,0,0,0
+8180,13 Jan 2019,v Strikers,Sydney,2,0,0,0,0,0
+8180,17 Jan 2019,v Heat,Brisbane,2,0,0,0,0,0
+8180,22 Jan 2019,v Renegades,Sydney,1,1,1,0,0,1
+8180,24 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+8180,30 Jan 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+8180,2 Feb 2019,v Sixers,Sydney,2,0,0,0,0,0
+8180,9 Feb 2019,v Hurricanes,Canberra,1,1,1,0,0,1
+8180,15 Feb 2019,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+8180,17 Feb 2019,v United,Dubai (DICS),1,0,0,0,0,0
+8180,20 Feb 2019,v Sultans,Sharjah,1,0,0,0,0,0
+8180,23 Feb 2019,v Qalandars,Sharjah,1,0,0,0,0,0
+8180,24 Feb 2019,v Kings,Sharjah,2,1,1,0,0,1
+8180,27 Feb 2019,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+8180,1 Mar 2019,v Sultans,Dubai (DICS),1,1,1,0,0,1
+8180,4 Mar 2019,v Zalmi,Abu Dhabi,1,0,0,0,0,0
+8180,5 Mar 2019,v United,Abu Dhabi,2,1,1,0,0,1
+8180,10 Mar 2019,v Kings,Karachi,1,0,0,0,0,0
+8180,13 Mar 2019,v Zalmi,Karachi,2,0,0,0,0,0
+8180,17 Mar 2019,v Zalmi,Karachi,1,0,0,0,0,0
+8180,23 Mar 2019,v RCB,Chennai,1,2,2,0,0,2
+8180,26 Mar 2019,v DC,Delhi,1,1,1,0,0,1
+8180,31 Mar 2019,v RR,Chennai,2,0,0,0,0,0
+8180,3 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+8180,6 Apr 2019,v Kings XI,Chennai,2,0,0,0,0,0
+8180,9 Apr 2019,v KKR,Chennai,1,0,0,0,0,0
+8180,11 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+8180,14 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+8180,17 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+8180,21 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+8180,23 Apr 2019,v SRH,Chennai,1,0,0,0,0,0
+8180,26 Apr 2019,v MI,Chennai,1,0,0,0,0,0
+8180,1 May 2019,v DC,Chennai,2,1,1,0,0,1
+8180,5 May 2019,v Kings XI,Mohali,2,0,0,0,0,0
+8180,7 May 2019,v MI,Chennai,2,0,0,0,0,0
+8180,10 May 2019,v DC,Visakhapatnam,1,1,1,0,0,1
+8180,12 May 2019,v MI,Hyderabad,1,0,0,0,0,0
+8180,27 Dec 2019,v Khulna,Mirpur,1,1,1,0,0,1
+8180,30 Dec 2019,v Thunder,Mirpur,1,1,1,0,0,1
+8180,31 Dec 2019,v Royals,Mirpur,2,0,0,0,0,0
+8180,2 Jan 2020,v Royals,Sylhet,1,0,0,0,0,0
+8180,3 Jan 2020,v Thunder,Sylhet,2,1,1,0,0,1
+8180,8 Jan 2020,v Platoon,Mirpur,1,1,1,0,0,1
+8180,10 Jan 2020,v Platoon,Mirpur,2,2,2,0,0,2
+8180,20 Feb 2020,v United,Karachi,1,0,0,0,0,0
+8180,22 Feb 2020,v Zalmi,Karachi,2,0,0,0,0,0
+8180,23 Feb 2020,v Kings,Karachi,1,0,0,0,0,0
+8180,27 Feb 2020,v United,Rawalpindi,1,0,0,0,0,0
+8180,29 Feb 2020,v Sultans,Multan,1,0,0,0,0,0
+8180,3 Mar 2020,v Qalandars,Lahore,1,1,1,0,0,1
+8180,5 Mar 2020,v Zalmi,Rawalpindi,1,1,1,0,0,1
+8180,7 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+8180,15 Mar 2020,v Kings,Karachi,1,1,1,0,0,1
+8180,19 Sep 2020,v MI,Abu Dhabi,1,1,1,0,0,1
+8180,22 Sep 2020,v RR,Sharjah,1,0,0,0,0,0
+8180,25 Sep 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+8180,2 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+8180,4 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+8180,7 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+8180,10 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+8180,13 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+8180,17 Oct 2020,v DC,Sharjah,2,0,0,0,0,0
+8180,19 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+8180,29 Oct 2020,v KKR,Dubai (DICS),1,0,0,0,0,0

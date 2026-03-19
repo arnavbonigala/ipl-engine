@@ -1,0 +1,280 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+787073,22 Jan 2015,v Sixers,Sydney,2,0,0,0,0,0
+787073,17 Dec 2015,v Sixers,Sydney,2,2,2,0,0,2
+787073,28 Dec 2015,v Strikers,Sydney,1,1,1,0,0,1
+787073,1 Jan 2016,v Hurricanes,Hobart,1,1,1,0,0,1
+787073,3 Jan 2016,v Heat,Brisbane,2,1,1,0,0,1
+787073,7 Jan 2016,v Scorchers,Sydney,1,0,0,0,0,0
+787073,16 Jan 2016,v Sixers,Sydney,2,0,0,0,0,0
+787073,21 Jan 2016,v Strikers,Adelaide,1,1,1,0,0,1
+787073,24 Jan 2016,v Stars,Melbourne,1,2,2,0,0,2
+787073,20 Dec 2016,v Sixers,Sydney,2,0,0,0,0,0
+787073,22 Dec 2016,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+787073,28 Dec 2016,v Heat,Sydney,2,0,0,0,0,0
+787073,1 Jan 2017,v Scorchers,W.A.C.A,1,0,0,0,0,0
+787073,4 Jan 2017,v Stars,Sydney,1,0,0,0,0,0
+787073,8 Jan 2017,v Hurricanes,Hobart,1,0,0,0,0,0
+787073,14 Jan 2017,v Sixers,Sydney,1,1,1,0,0,1
+787073,18 Jan 2017,v Strikers,Sydney,1,0,0,0,0,0
+787073,19 Dec 2017,v Sixers,Sydney,1,1,1,0,0,1
+787073,22 Dec 2017,v Strikers,Adelaide,1,0,0,0,0,0
+787073,27 Dec 2017,v Heat,Brisbane,2,2,2,0,0,2
+787073,30 Dec 2017,v Hurricanes,Launceston,2,2,2,0,0,2
+787073,1 Jan 2018,v Hurricanes,Sydney,1,1,1,0,0,1
+787073,7 Jan 2018,v Strikers,Sydney,1,0,0,0,0,0
+787073,11 Jan 2018,v Scorchers,Sydney,2,0,0,0,0,0
+787073,13 Jan 2018,v Sixers,Sydney,2,0,0,0,0,0
+787073,20 Jan 2018,v Stars,Melbourne,1,1,1,0,0,1
+787073,24 Jan 2018,v Renegades,Canberra,1,1,1,0,0,1
+787073,9 Aug 2018,v Patriots,Providence,1,0,0,0,0,0
+787073,11 Aug 2018,v Stars,Providence,2,0,0,0,0,0
+787073,12 Aug 2018,v Tridents,Providence,1,0,0,0,0,0
+787073,18 Aug 2018,v Tallawahs,Lauderhill,2,1,1,0,0,1
+787073,28 Aug 2018,v Patriots,Basseterre,1,0,0,0,0,0
+787073,31 Aug 2018,v Tridents,Bridgetown,1,3,3,0,0,3
+787073,5 Sep 2018,v Trinbago,Port of Spain,1,1,1,0,0,1
+787073,8 Sep 2018,v Tallawahs,Providence,2,0,0,0,0,0
+787073,9 Sep 2018,v Trinbago,Providence,1,0,0,0,0,0
+787073,11 Sep 2018,v Trinbago,Providence,1,0,0,0,0,0
+787073,16 Sep 2018,v Trinbago,Tarouba,2,0,0,0,0,0
+787073,21 Dec 2018,v Stars,Canberra,2,0,0,0,0,0
+787073,24 Dec 2018,v Sixers,Sydney,2,1,1,0,0,1
+787073,28 Dec 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+787073,31 Dec 2018,v Strikers,Adelaide,1,0,0,0,0,0
+787073,2 Jan 2019,v Scorchers,Sydney,2,0,0,0,0,0
+787073,5 Jan 2019,v Stars,Carrara,2,0,0,0,0,0
+787073,8 Jan 2019,v Heat,Sydney,1,1,1,0,0,1
+787073,13 Jan 2019,v Strikers,Sydney,2,1,1,0,0,1
+787073,17 Jan 2019,v Heat,Brisbane,2,0,0,0,0,0
+787073,22 Jan 2019,v Renegades,Sydney,1,1,1,0,0,1
+787073,24 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+787073,30 Jan 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+787073,2 Feb 2019,v Sixers,Sydney,2,0,0,0,0,0
+787073,9 Feb 2019,v Hurricanes,Canberra,1,0,0,0,0,0
+787073,15 Feb 2019,v Kings,Dubai (DICS),1,0,0,0,0,0
+787073,16 Feb 2019,v United,Dubai (DICS),1,0,0,0,0,0
+787073,24 Feb 2019,v Zalmi,Sharjah,2,0,0,0,0,0
+787073,4 Mar 2019,v Kings,Abu Dhabi,2,0,0,0,0,0
+787073,11 Mar 2019,v Qalandars,Karachi,1,0,0,0,0,0
+787073,9 Aug 2019,v Notts,Birmingham,2,0,0,0,0,0
+787073,11 Aug 2019,v Lancashire,Birmingham,2,3,3,0,0,3
+787073,23 Aug 2019,v Worcs,Birmingham,2,0,0,0,0,0
+787073,25 Aug 2019,v Northants,Birmingham,2,0,0,0,0,0
+787073,27 Aug 2019,v Durham,Chester-le-Street,1,1,1,0,0,1
+787073,30 Aug 2019,v Yorkshire,Birmingham,1,0,0,0,0,0
+787073,5 Sep 2019,v Zouks,Providence,2,0,0,0,0,0
+787073,7 Sep 2019,v Patriots,Providence,1,0,0,0,0,0
+787073,8 Sep 2019,v Tridents,Providence,2,0,0,0,0,0
+787073,14 Sep 2019,v Patriots,Basseterre,1,1,1,0,0,1
+787073,18 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+787073,22 Sep 2019,v Tridents,Bridgetown,1,2,2,0,0,2
+787073,25 Sep 2019,v Zouks,Gros Islet,1,1,1,0,0,1
+787073,30 Sep 2019,v Trinbago,Port of Spain,2,0,0,0,0,0
+787073,3 Oct 2019,v Tallawahs,Providence,2,2,2,0,0,2
+787073,4 Oct 2019,v Trinbago,Providence,1,0,0,0,0,0
+787073,6 Oct 2019,v Tridents,Providence,2,0,0,0,0,0
+787073,12 Oct 2019,v Tridents,Tarouba,1,0,0,0,0,0
+787073,17 Dec 2019,v Heat,Brisbane,2,2,2,0,0,2
+787073,19 Dec 2019,v Renegades,Geelong,1,0,0,0,0,0
+787073,21 Dec 2019,v Strikers,Canberra,1,1,1,0,0,1
+787073,28 Dec 2019,v Sixers,Sydney,2,1,1,0,0,1
+787073,31 Dec 2019,v Strikers,Adelaide,2,1,1,0,0,1
+787073,2 Jan 2020,v Stars,Sydney,2,1,1,0,0,1
+787073,6 Jan 2020,v Heat,Sydney,1,0,0,0,0,0
+787073,18 Aug 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+787073,19 Aug 2020,v Patriots,Tarouba,1,1,1,0,0,1
+787073,22 Aug 2020,v Tallawahs,Tarouba,2,1,1,0,0,1
+787073,23 Aug 2020,v Zouks,Tarouba,1,1,1,0,0,1
+787073,25 Aug 2020,v Tallawahs,Port of Spain,2,2,2,0,0,2
+787073,27 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+787073,30 Aug 2020,v Patriots,Port of Spain,1,0,0,0,0,0
+787073,1 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+787073,2 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+787073,3 Sep 2020,v Tridents,Tarouba,1,1,1,0,0,1
+787073,8 Sep 2020,v Zouks,Tarouba,2,0,0,0,0,0
+787073,16 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+787073,12 Dec 2020,v Stars,Canberra,1,1,1,0,0,1
+787073,14 Dec 2020,v Heat,Canberra,1,0,0,0,0,0
+787073,22 Dec 2020,v Scorchers,Canberra,1,0,0,0,0,0
+787073,26 Dec 2020,v Renegades,Canberra,2,0,0,0,0,0
+787073,29 Dec 2020,v Stars,Canberra,2,2,2,0,0,2
+787073,1 Jan 2021,v Renegades,Carrara,1,3,3,0,0,3
+787073,4 Jan 2021,v Heat,Brisbane,2,1,1,0,0,1
+787073,7 Jan 2021,v Hurricanes,Perth,2,0,0,0,0,0
+787073,9 Jan 2021,v Scorchers,Perth,1,1,1,0,0,1
+787073,18 Jan 2021,v Hurricanes,Canberra,2,0,0,0,0,0
+787073,22 Jan 2021,v Sixers,Adelaide,2,0,0,0,0,0
+787073,24 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+787073,25 Jan 2021,v Strikers,Adelaide,1,1,1,0,0,1
+787073,31 Jan 2021,v Heat,Canberra,2,0,0,0,0,0
+787073,10 Jun 2021,v Surrey,Lord's,1,0,0,0,0,0
+787073,11 Jun 2021,v Kent,Canterbury,1,0,0,0,0,0
+787073,15 Jun 2021,v Hampshire,Radlett,1,0,0,0,0,0
+787073,17 Jun 2021,v Gloucs,Radlett,2,0,0,0,0,0
+787073,18 Jun 2021,v Glamorgan,Cardiff,1,0,0,0,0,0
+787073,24 Jun 2021,v Essex,Lord's,2,2,2,0,0,2
+787073,25 Jun 2021,v Surrey,The Oval,2,1,1,0,0,1
+787073,27 Aug 2021,v Kings,Basseterre,2,0,0,0,0,0
+787073,28 Aug 2021,v Royals,Basseterre,1,2,2,0,0,2
+787073,31 Aug 2021,v Royals,Basseterre,1,1,1,0,0,1
+787073,1 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+787073,5 Sep 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+787073,7 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+787073,8 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+787073,9 Sep 2021,v Kings,Basseterre,2,1,1,0,0,1
+787073,11 Sep 2021,v Amazon,Basseterre,1,1,1,0,0,1
+787073,12 Sep 2021,v Amazon,Basseterre,1,1,1,0,0,1
+787073,6 Dec 2021,v Heat,Canberra,1,1,1,0,0,1
+787073,10 Dec 2021,v Stars,Melbourne,1,0,0,0,0,0
+787073,12 Dec 2021,v Stars,Sydney,2,0,0,0,0,0
+787073,19 Dec 2021,v Heat,Brisbane,2,0,0,0,0,0
+787073,26 Dec 2021,v Sixers,Sydney,1,1,1,0,0,1
+787073,28 Dec 2021,v Scorchers,Canberra,2,1,1,0,0,1
+787073,31 Dec 2021,v Strikers,Adelaide,2,2,2,0,0,2
+787073,2 Jan 2022,v Strikers,Sydney,2,2,2,0,0,2
+787073,6 Jan 2022,v Scorchers,Carrara,1,0,0,0,0,0
+787073,15 Jan 2022,v Sixers,Sydney,1,1,1,0,0,1
+787073,19 Jan 2022,v Renegades,Melbourne,2,1,1,0,0,1
+787073,23 Jan 2022,v Strikers,Melbourne,1,1,1,0,0,1
+787073,26 May 2022,v Gloucs,Radlett,2,0,0,0,0,0
+787073,27 May 2022,v Hampshire,Southampton,2,2,2,0,0,2
+787073,29 May 2022,v Glamorgan,Radlett,1,2,2,0,0,2
+787073,3 Jun 2022,v Sussex,Hove,2,2,2,0,0,2
+787073,5 Jun 2022,v Kent,Canterbury,1,2,2,0,0,2
+787073,7 Jun 2022,v Hampshire,Radlett,2,0,0,0,0,0
+787073,9 Jun 2022,v Surrey,Lord's,1,0,0,0,0,0
+787073,10 Jun 2022,v Essex,Chelmsford,1,1,1,0,0,1
+787073,17 Jun 2022,v Surrey,The Oval,2,0,0,0,0,0
+787073,19 Jun 2022,v Kent,Lord's,1,0,0,0,0,0
+787073,21 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+787073,23 Jun 2022,v Essex,Lord's,1,0,0,0,0,0
+787073,1 Jul 2022,v Somerset,Lord's,2,1,1,0,0,1
+787073,3 Jul 2022,v Gloucs,Bristol,2,1,1,0,0,1
+787073,31 Aug 2022,v Patriots,Basseterre,2,1,1,0,0,1
+787073,3 Sep 2022,v Amazon,Basseterre,1,0,0,0,0,0
+787073,7 Sep 2022,v Kings,Gros Islet,2,0,0,0,0,0
+787073,10 Sep 2022,v Trinbago,Gros Islet,2,1,1,0,0,1
+787073,11 Sep 2022,v Royals,Gros Islet,2,0,0,0,0,0
+787073,14 Sep 2022,v Patriots,Port of Spain,2,2,2,0,0,2
+787073,15 Sep 2022,v Royals,Port of Spain,1,0,0,0,0,0
+787073,17 Sep 2022,v Trinbago,Tarouba,2,0,0,0,0,0
+787073,21 Sep 2022,v Amazon,Providence,1,0,0,0,0,0
+787073,25 Sep 2022,v Kings,Providence,-,TDNF,-,-,-,-
+787073,27 Sep 2022,v Kings,Providence,2,0,0,0,0,0
+787073,28 Sep 2022,v Amazon,Providence,2,0,0,0,0,0
+787073,30 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+787073,13 Dec 2022,v Stars,Canberra,1,2,2,0,0,2
+787073,16 Dec 2022,v Strikers,Sydney,1,0,0,0,0,0
+787073,18 Dec 2022,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+787073,20 Dec 2022,v Strikers,Adelaide,2,0,0,0,0,0
+787073,27 Dec 2022,v Heat,Sydney,1,1,1,0,0,1
+787073,29 Dec 2022,v Heat,Carrara,2,1,1,0,0,1
+787073,31 Dec 2022,v Hurricanes,Albury,2,1,1,0,0,1
+787073,4 Jan 2023,v Scorchers,Perth,1,0,0,0,0,0
+787073,8 Jan 2023,v Sixers,Sydney,2,0,0,0,0,0
+787073,13 Jan 2023,v Scorchers,Sydney,2,0,0,0,0,0
+787073,15 Jan 2023,v Hurricanes,Hobart,2,1,1,0,0,1
+787073,19 Jan 2023,v Renegades,Canberra,1,1,1,0,0,1
+787073,21 Jan 2023,v Sixers,Sydney,1,0,0,0,0,0
+787073,25 Jan 2023,v Stars,Melbourne,1,2,2,0,0,2
+787073,27 Jan 2023,v Heat,Sydney,1,1,1,0,0,1
+787073,16 Aug 2023,v Kings,Gros Islet,2,1,1,0,0,1
+787073,23 Aug 2023,v Patriots,Basseterre,1,1,1,0,0,1
+787073,27 Aug 2023,v Amazon,Basseterre,1,0,0,0,0,0
+787073,31 Aug 2023,v Royals,Bridgetown,2,0,0,0,0,0
+787073,3 Sep 2023,v Trinbago,Bridgetown,1,1,1,0,0,1
+787073,9 Sep 2023,v Trinbago,Tarouba,2,0,0,0,0,0
+787073,13 Sep 2023,v Amazon,Providence,2,0,0,0,0,0
+787073,16 Sep 2023,v Patriots,Providence,2,1,1,0,0,1
+787073,17 Sep 2023,v Kings,Providence,2,2,2,0,0,2
+787073,19 Sep 2023,v Kings,Providence,1,1,1,0,0,1
+787073,22 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+787073,1 Dec 2023,v India,Raipur,1,2,2,0,0,2
+787073,12 Dec 2023,v Heat,Canberra,1,0,0,0,0,0
+787073,19 Dec 2023,v Strikers,Adelaide,2,0,0,0,0,0
+787073,23 Dec 2023,v Stars,Albury,1,1,1,0,0,1
+787073,27 Dec 2023,v Heat,Brisbane,1,0,0,0,0,0
+787073,30 Dec 2023,v Sixers,Sydney,2,1,1,0,0,1
+787073,1 Jan 2024,v Hurricanes,Hobart,2,1,1,0,0,1
+787073,8 Jan 2024,v Scorchers,Sydney,2,0,0,0,0,0
+787073,12 Jan 2024,v Sixers,Sydney,1,0,0,0,0,0
+787073,14 Jan 2024,v Strikers,Canberra,2,0,0,0,0,0
+787073,30 May 2024,v Durham,Manchester,1,2,2,0,0,2
+787073,31 May 2024,v Worcs,Worcester,2,0,0,0,0,0
+787073,2 Jun 2024,v Derbyshire,Manchester,2,1,1,0,0,1
+787073,7 Jun 2024,v Bears,Manchester,2,0,0,0,0,0
+787073,9 Jun 2024,v Notts,Nottingham,1,0,0,0,0,0
+787073,14 Jun 2024,v Leics,Leicester,2,2,2,0,0,2
+787073,16 Jun 2024,v Durham,Chester-le-Street,1,1,1,0,0,1
+787073,20 Jun 2024,v Yorkshire,Leeds,1,0,0,0,0,0
+787073,7 Jul 2024,v Worcs,Manchester,1,0,0,0,0,0
+787073,17 Jul 2024,v Notts,Manchester,1,0,0,0,0,0
+787073,19 Jul 2024,v Northants,Manchester,2,1,1,0,0,1
+787073,26 Jul 2024,v N S-Chargers,Leeds,2,1,1,0,0,1
+787073,12 Aug 2024,v Phoenix,Birmingham,2,1,1,0,0,1
+787073,14 Aug 2024,v Invincibles,Nottingham,1,0,0,0,0,0
+787073,29 Aug 2024,v Patriots,North Sound,2,1,1,0,0,1
+787073,30 Aug 2024,v Amazon,North Sound,2,1,1,0,0,1
+787073,1 Sep 2024,v Royals,North Sound,2,0,0,0,0,0
+787073,3 Sep 2024,v Kings,North Sound,2,0,0,0,0,0
+787073,5 Sep 2024,v Trinbago,North Sound,2,0,0,0,0,0
+787073,8 Sep 2024,v Patriots,Basseterre,1,1,1,0,0,1
+787073,11 Sep 2024,v Royals,Bridgetown,2,0,0,0,0,0
+787073,15 Sep 2024,v Kings,Gros Islet,1,1,1,0,0,1
+787073,19 Sep 2024,v Trinbago,Port of Spain,1,1,1,0,0,1
+787073,21 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+787073,17 Dec 2024,v Strikers,Canberra,1,1,1,0,0,1
+787073,21 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+787073,28 Dec 2024,v Stars,Canberra,2,0,0,0,0,0
+787073,30 Dec 2024,v Renegades,Sydney,2,2,2,0,0,2
+787073,3 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+787073,6 Jan 2025,v Heat,Brisbane,2,0,0,0,0,0
+787073,10 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+787073,13 Jan 2025,v Scorchers,Sydney,2,0,0,0,0,0
+787073,17 Jan 2025,v Sixers,Sydney,-,TDNF,-,-,-,-
+787073,22 Jan 2025,v Stars,Sydney,2,0,0,0,0,0
+787073,24 Jan 2025,v Sixers,Sydney,1,1,1,0,0,1
+787073,27 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+787073,29 May 2025,v Worcs,Manchester,2,1,1,0,0,1
+787073,31 May 2025,v Notts,Manchester,2,1,1,0,0,1
+787073,1 Jun 2025,v Durham,Chester-le-Street,1,1,1,0,0,1
+787073,4 Jun 2025,v Leics,Manchester,2,0,0,0,0,0
+787073,8 Jun 2025,v Northants,Manchester,1,1,1,0,0,1
+787073,13 Jun 2025,v Worcs,Worcester,1,2,2,0,0,2
+787073,20 Jun 2025,v Derbyshire,Derby,2,0,0,0,0,0
+787073,4 Jul 2025,v Northants,Northampton,1,0,0,0,0,0
+787073,5 Jul 2025,v Derbyshire,Manchester,2,0,0,0,0,0
+787073,9 Jul 2025,v Bears,Birmingham,1,1,1,0,0,1
+787073,11 Jul 2025,v Yorkshire,Manchester,1,1,1,0,0,1
+787073,13 Jul 2025,v Durham,Manchester,1,1,1,0,0,1
+787073,17 Jul 2025,v Yorkshire,Leeds,2,2,2,0,0,2
+787073,18 Jul 2025,v Notts,Nottingham,2,0,0,0,0,0
+787073,7 Aug 2025,v N S-Chargers,Leeds,2,0,0,0,0,0
+787073,9 Aug 2025,v Spirit,Cardiff,1,0,0,0,0,0
+787073,13 Aug 2025,v Originals,Cardiff,2,2,2,0,0,2
+787073,16 Aug 2025,v Invincibles,The Oval,1,1,1,0,0,1
+787073,20 Aug 2025,v Brave,Cardiff,1,0,0,0,0,0
+787073,22 Aug 2025,v Phoenix,Birmingham,1,1,1,0,0,1
+787073,24 Aug 2025,v Rockets,Cardiff,2,0,0,0,0,0
+787073,28 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+787073,29 Aug 2025,v Trinbago,Tarouba,2,0,0,0,0,0
+787073,4 Sep 2025,v Amazon,Bridgetown,2,1,1,0,0,1
+787073,5 Sep 2025,v Falcons,Bridgetown,2,0,0,0,0,0
+787073,7 Sep 2025,v Kings,Bridgetown,2,1,1,0,0,1
+787073,11 Sep 2025,v Patriots,Bridgetown,1,0,0,0,0,0
+787073,12 Sep 2025,v Trinbago,Bridgetown,1,1,1,0,0,1
+787073,14 Sep 2025,v Amazon,Providence,1,0,0,0,0,0
+787073,16 Dec 2025,v Hurricanes,Hobart,2,1,1,0,0,1
+787073,20 Dec 2025,v Sixers,Sydney,1,0,0,0,0,0
+787073,22 Dec 2025,v Heat,Canberra,2,1,1,0,0,1
+787073,28 Dec 2025,v Stars,Canberra,2,0,0,0,0,0
+787073,30 Dec 2025,v Scorchers,Sydney,1,1,1,0,0,1
+787073,3 Jan 2026,v Hurricanes,Sydney,2,1,1,0,0,1
+787073,6 Jan 2026,v Strikers,Adelaide,1,0,0,0,0,0
+787073,10 Jan 2026,v Heat,Brisbane,2,0,0,0,0,0
+787073,12 Jan 2026,v Renegades,Sydney,1,0,0,0,0,0
+787073,16 Jan 2026,v Sixers,Sydney,2,0,0,0,0,0
+787073,18 Jan 2026,v MI Cape Town,Gqeberha,1,0,0,0,0,0
+787073,21 Jan 2026,v Capitals,Durban,2,0,0,0,0,0
+787073,23 Jan 2026,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+787073,25 Jan 2026,v Capitals,Cape Town,1,0,0,0,0,0

@@ -1,0 +1,320 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+46248,8 Apr 2004,v Lions,Centurion,1,0,0,0,0,0
+46248,13 Apr 2004,v Eagles,Bloemfontein,2,0,0,0,0,0
+46248,23 Apr 2004,v Dolphins,Durban,2,0,0,0,0,0
+46248,25 Apr 2004,v Eastern Cape,Centurion,1,0,0,0,0,0
+46248,1 Apr 2005,v Warriors,Gqeberha,-,TDNF,-,-,-,-
+46248,5 Apr 2005,v Eagles,Centurion,1,0,0,0,0,0
+46248,10 Apr 2005,v Dolphins,Benoni,1,0,0,0,0,0
+46248,15 Apr 2005,v Lions,Johannesburg,1,0,0,0,0,0
+46248,17 Apr 2005,v WP Boland,Cape Town,1,0,0,0,0,0
+46248,16 Sep 2005,v Chilaw MCC,Leicester,1,0,0,0,0,0
+46248,21 Oct 2005,v New Zealand,Johannesburg,2,1,1,0,0,1
+46248,18 Jan 2006,v Dolphins,Durban,2,0,0,0,0,0
+46248,22 Jan 2006,v Warriors,Benoni,1,0,0,0,0,0
+46248,27 Jan 2006,v Cape Cobras,Centurion,2,0,0,0,0,0
+46248,29 Jan 2006,v Eagles,Bloemfontein,2,0,0,0,0,0
+46248,1 Feb 2006,v Lions,Centurion,1,0,0,0,0,0
+46248,10 Feb 2006,v Cape Cobras,Centurion,-,TDNF,-,-,-,-
+46248,11 Feb 2006,v Cape Cobras,Centurion,1,0,0,0,0,0
+46248,1 Dec 2006,v India,Johannesburg,2,0,0,0,0,0
+46248,2 Feb 2007,v Pakistan,Johannesburg,1,0,0,0,0,0
+46248,25 Feb 2007,v Eagles,Centurion,1,0,0,0,0,0
+46248,2 Mar 2007,v Warriors,Gqeberha,2,0,0,0,0,0
+46248,7 Mar 2007,v Cape Cobras,Cape Town,1,0,0,0,0,0
+46248,9 Mar 2007,v Lions,Johannesburg,2,0,0,0,0,0
+46248,14 Mar 2007,v Dolphins,Benoni,2,0,0,0,0,0
+46248,18 Mar 2007,v Lions,Johannesburg,1,0,0,0,0,0
+46248,11 Sep 2007,v West Indies,Johannesburg,1,0,0,0,0,0
+46248,15 Sep 2007,v Bangladesh,Cape Town,1,0,0,0,0,0
+46248,16 Sep 2007,v England,Cape Town,2,0,0,0,0,0
+46248,19 Sep 2007,v New Zealand,Durban,1,1,1,0,0,1
+46248,20 Sep 2007,v India,Durban,1,1,1,0,0,1
+46248,23 Nov 2007,v New Zealand,Johannesburg,1,1,1,0,0,1
+46248,16 Dec 2007,v West Indies,Gqeberha,2,0,0,0,0,0
+46248,18 Jan 2008,v West Indies,Johannesburg,1,0,0,0,0,0
+46248,28 Mar 2008,v Warriors,Benoni,2,0,0,0,0,0
+46248,30 Mar 2008,v Eagles,Kimberley,2,0,0,0,0,0
+46248,2 Apr 2008,v Cape Cobras,Centurion,1,1,1,0,0,1
+46248,9 Apr 2008,v Dolphins,Durban,1,0,0,0,0,0
+46248,11 Apr 2008,v Zimbabwe,Centurion,1,0,0,0,0,0
+46248,13 Apr 2008,v Lions,Centurion,2,0,0,0,0,0
+46248,20 Apr 2008,v Cape Cobras,Cape Town,2,0,0,0,0,0
+46248,25 Apr 2008,v Dolphins,Durban,2,1,1,0,0,1
+46248,28 Apr 2008,v RCB,Bengaluru,2,0,0,0,0,0
+46248,2 May 2008,v Daredevils,Chennai,2,0,0,0,0,0
+46248,4 May 2008,v RR,Jaipur,2,0,0,0,0,0
+46248,6 May 2008,v Chargers,Chennai,2,0,0,0,0,0
+46248,8 May 2008,v Daredevils,Delhi,1,0,0,0,0,0
+46248,10 May 2008,v Kings XI,Chennai,2,1,1,0,0,1
+46248,14 May 2008,v MI,Wankhede,2,0,0,0,0,0
+46248,18 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+46248,21 May 2008,v RCB,Chennai,1,1,1,0,0,1
+46248,24 May 2008,v RR,Chennai,1,0,0,0,0,0
+46248,27 May 2008,v Chargers,Hyderabad,1,1,1,0,0,1
+46248,31 May 2008,v Kings XI,Wankhede,1,0,0,0,0,0
+46248,1 Jun 2008,v RR,DY Patil,2,0,0,0,0,0
+46248,11 Jun 2008,v Derbyshire,Chester-le-Street,1,1,1,0,0,1
+46248,13 Jun 2008,v Leics,Leicester,1,0,0,0,0,0
+46248,14 Jun 2008,v Notts,Nottingham,1,0,0,0,0,0
+46248,17 Jun 2008,v Lancashire,Manchester,1,0,0,0,0,0
+46248,20 Jun 2008,v Leics,Chester-le-Street,1,0,0,0,0,0
+46248,22 Jun 2008,v Yorkshire,Leeds,1,0,0,0,0,0
+46248,24 Jun 2008,v Yorkshire,Chester-le-Street,2,0,0,0,0,0
+46248,25 Jun 2008,v Derbyshire,Derby,1,0,0,0,0,0
+46248,27 Jun 2008,v Lancashire,Chester-le-Street,2,0,0,0,0,0
+46248,5 Nov 2008,v Bangladesh,Johannesburg,2,0,0,0,0,0
+46248,11 Jan 2009,v Australia,Melbourne,1,1,1,0,0,1
+46248,13 Jan 2009,v Australia,Brisbane,2,0,0,0,0,0
+46248,6 Feb 2009,v Eagles,Centurion,1,0,0,0,0,0
+46248,27 Mar 2009,v Australia,Johannesburg,1,1,1,0,0,1
+46248,29 Mar 2009,v Australia,Centurion,2,1,1,0,0,1
+46248,20 Apr 2009,v RCB,Gqeberha,2,0,0,0,0,0
+46248,23 Apr 2009,v Daredevils,Durban,1,1,1,0,0,1
+46248,27 Apr 2009,v Chargers,Durban,2,0,0,0,0,0
+46248,30 Apr 2009,v RR,Centurion,2,0,0,0,0,0
+46248,2 May 2009,v Daredevils,Johannesburg,2,0,0,0,0,0
+46248,4 May 2009,v Chargers,East London,2,0,0,0,0,0
+46248,7 May 2009,v Kings XI,Centurion,2,0,0,0,0,0
+46248,9 May 2009,v RR,Kimberley,1,0,0,0,0,0
+46248,14 May 2009,v RCB,Durban,2,0,0,0,0,0
+46248,16 May 2009,v MI,Gqeberha,1,0,0,0,0,0
+46248,18 May 2009,v KKR,Centurion,2,0,0,0,0,0
+46248,23 May 2009,v RCB,Johannesburg,2,0,0,0,0,0
+46248,7 Jun 2009,v Scotland,The Oval,2,0,0,0,0,0
+46248,9 Jun 2009,v New Zealand,Lord's,2,0,0,0,0,0
+46248,11 Jun 2009,v England,Nottingham,1,2,2,0,0,2
+46248,13 Jun 2009,v West Indies,The Oval,2,0,0,0,0,0
+46248,16 Jun 2009,v India,Nottingham,2,0,0,0,0,0
+46248,18 Jun 2009,v Pakistan,Nottingham,1,1,1,0,0,1
+46248,13 Nov 2009,v England,Johannesburg,1,1,1,0,0,1
+46248,15 Nov 2009,v England,Centurion,2,0,0,0,0,0
+46248,3 Feb 2010,v Dolphins,Durban,1,0,0,0,0,0
+46248,7 Feb 2010,v Cape Cobras,Centurion,2,1,1,0,0,1
+46248,10 Feb 2010,v Lions,Centurion,2,0,0,0,0,0
+46248,14 Mar 2010,v Chargers,Chennai,1,0,0,0,0,0
+46248,16 Mar 2010,v KKR,Eden Gardens,2,2,2,0,0,2
+46248,19 Mar 2010,v Daredevils,Delhi,1,0,0,0,0,0
+46248,21 Mar 2010,v Kings XI,Chennai,1,1,1,0,0,1
+46248,23 Mar 2010,v RCB,Bengaluru,1,0,0,0,0,0
+46248,25 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+46248,28 Mar 2010,v RR,Ahmedabad,1,0,0,0,0,0
+46248,31 Mar 2010,v RCB,Chennai,1,0,0,0,0,0
+46248,3 Apr 2010,v RR,Chennai,2,0,0,0,0,0
+46248,13 Apr 2010,v KKR,Chennai,1,0,0,0,0,0
+46248,15 Apr 2010,v Daredevils,Chennai,2,0,0,0,0,0
+46248,18 Apr 2010,v Kings XI,Dharamsala,1,0,0,0,0,0
+46248,22 Apr 2010,v Chargers,DY Patil,2,0,0,0,0,0
+46248,25 Apr 2010,v MI,DY Patil,2,0,0,0,0,0
+46248,2 May 2010,v India,Gros Islet,1,0,0,0,0,0
+46248,5 May 2010,v Afghanistan,Bridgetown,2,0,0,0,0,0
+46248,6 May 2010,v New Zealand,Bridgetown,2,1,1,0,0,1
+46248,8 May 2010,v England,Bridgetown,1,0,0,0,0,0
+46248,10 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+46248,4 Jun 2010,v Lancashire,Chester-le-Street,1,0,0,0,0,0
+46248,6 Jun 2010,v Worcs,Chester-le-Street,-,TDNF,-,-,-,-
+46248,10 Jun 2010,v Yorkshire,Leeds,2,0,0,0,0,0
+46248,11 Jun 2010,v Warwickshire,Birmingham,2,0,0,0,0,0
+46248,13 Jun 2010,v Derbyshire,Derby,1,0,0,0,0,0
+46248,14 Jun 2010,v Leics,Chester-le-Street,2,1,1,0,0,1
+46248,18 Jun 2010,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+46248,20 Jun 2010,v Notts,Chester-le-Street,1,0,0,0,0,0
+46248,22 Jun 2010,v Lancashire,Manchester,1,0,0,0,0,0
+46248,25 Jun 2010,v Notts,Nottingham,2,0,0,0,0,0
+46248,26 Jun 2010,v Northants,Northampton,1,0,0,0,0,0
+46248,2 Jul 2010,v Warwickshire,Chester-le-Street,2,0,0,0,0,0
+46248,9 Jul 2010,v Worcs,Worcester,2,0,0,0,0,0
+46248,14 Jul 2010,v Derbyshire,Chester-le-Street,-,TDNF,-,-,-,-
+46248,18 Jul 2010,v Northants,Chester-le-Street,2,0,0,0,0,0
+46248,11 Sep 2010,v Central D,Durban,2,0,0,0,0,0
+46248,15 Sep 2010,v Wayamba,Centurion,2,0,0,0,0,0
+46248,24 Sep 2010,v RCB,Durban,2,2,2,0,0,2
+46248,26 Sep 2010,v Warriors,Johannesburg,1,0,0,0,0,0
+46248,26 Oct 2010,v Pakistan,Abu Dhabi,1,0,0,0,0,0
+46248,27 Oct 2010,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+46248,28 Jan 2011,v Cape Cobras,Cape Town,2,0,0,0,0,0
+46248,4 Feb 2011,v Lions,Johannesburg,1,0,0,0,0,0
+46248,13 Feb 2011,v Dolphins,Centurion,1,0,0,0,0,0
+46248,18 Feb 2011,v Knights,Centurion,1,1,1,0,0,1
+46248,27 Feb 2011,v Cape Cobras,Cape Town,2,0,0,0,0,0
+46248,9 Mar 2011,v Cape Cobras,Centurion,2,0,0,0,0,0
+46248,8 Apr 2011,v KKR,Chennai,2,0,0,0,0,0
+46248,13 Apr 2011,v Kings XI,Mohali,2,0,0,0,0,0
+46248,16 Apr 2011,v RCB,Chennai,2,1,1,0,0,1
+46248,18 Apr 2011,v Kochi,Kochi,2,1,1,0,0,1
+46248,22 Apr 2011,v MI,Wankhede,1,0,0,0,0,0
+46248,25 Apr 2011,v Warriors,Chennai,2,0,0,0,0,0
+46248,1 May 2011,v Chargers,Chennai,2,0,0,0,0,0
+46248,4 May 2011,v RR,Chennai,1,1,1,0,0,1
+46248,7 May 2011,v KKR,Eden Gardens,2,0,0,0,0,0
+46248,9 May 2011,v RR,Jaipur,2,0,0,0,0,0
+46248,12 May 2011,v Daredevils,Chennai,2,0,0,0,0,0
+46248,18 May 2011,v Kochi,Chennai,2,1,1,0,0,1
+46248,22 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+46248,24 May 2011,v RCB,Wankhede,1,0,0,0,0,0
+46248,28 May 2011,v RCB,Chennai,2,0,0,0,0,0
+46248,24 Sep 2011,v MI,Chennai,2,1,1,0,0,1
+46248,28 Sep 2011,v Cape Cobras,Chennai,1,0,0,0,0,0
+46248,2 Oct 2011,v Trinidad & T,Chennai,1,0,0,0,0,0
+46248,15 Feb 2012,v Canterbury,Christchurch,2,0,0,0,0,0
+46248,17 Feb 2012,v New Zealand,Wellington,2,0,0,0,0,0
+46248,19 Feb 2012,v New Zealand,Hamilton,1,1,1,0,0,1
+46248,22 Feb 2012,v New Zealand,Auckland,2,1,1,0,0,1
+46248,9 Mar 2012,v Dolphins,Centurion,-,TDNF,-,-,-,-
+46248,11 Mar 2012,v Lions,Johannesburg,1,0,0,0,0,0
+46248,14 Mar 2012,v Impi,Centurion,1,0,0,0,0,0
+46248,18 Mar 2012,v Cape Cobras,Centurion,1,0,0,0,0,0
+46248,21 Mar 2012,v Warriors,Centurion,1,1,1,0,0,1
+46248,25 Mar 2012,v Knights,Centurion,1,2,2,0,0,2
+46248,30 Mar 2012,v India,Johannesburg,2,0,0,0,0,0
+46248,1 Apr 2012,v Lions,Johannesburg,2,0,0,0,0,0
+46248,4 Apr 2012,v MI,Chennai,2,0,0,0,0,0
+46248,7 Apr 2012,v Chargers,Visakhapatnam,2,1,1,0,0,1
+46248,10 Apr 2012,v Daredevils,Delhi,2,0,0,0,0,0
+46248,12 Apr 2012,v RCB,Chennai,1,0,0,0,0,0
+46248,14 Apr 2012,v Warriors,Pune,2,0,0,0,0,0
+46248,25 Apr 2012,v RCB,Bengaluru,-,TDNF,-,-,-,-
+46248,28 Apr 2012,v Kings XI,Chennai,1,0,0,0,0,0
+46248,30 Apr 2012,v KKR,Chennai,2,0,0,0,0,0
+46248,4 May 2012,v Chargers,Chennai,2,0,0,0,0,0
+46248,6 May 2012,v MI,Wankhede,2,0,0,0,0,0
+46248,10 May 2012,v RR,Jaipur,1,0,0,0,0,0
+46248,12 May 2012,v Daredevils,Chennai,1,1,1,0,0,1
+46248,17 May 2012,v Kings XI,Dharamsala,2,0,0,0,0,0
+46248,23 May 2012,v MI,Bengaluru,2,0,0,0,0,0
+46248,25 May 2012,v Daredevils,Chennai,2,0,0,0,0,0
+46248,27 May 2012,v KKR,Chennai,2,0,0,0,0,0
+46248,13 Jun 2012,v Warwickshire,Taunton,2,0,0,0,0,0
+46248,19 Jun 2012,v Bdesh XI,Harare,2,1,1,0,0,1
+46248,20 Jun 2012,v Zimbabwe XI,Harare,1,0,0,0,0,0
+46248,22 Jun 2012,v Bdesh XI,Harare,2,1,1,0,0,1
+46248,23 Jun 2012,v Zimbabwe XI,Harare,1,0,0,0,0,0
+46248,24 Jun 2012,v Zimbabwe XI,Harare,2,0,0,0,0,0
+46248,29 Jun 2012,v Gloucs,Taunton,2,0,0,0,0,0
+46248,1 Jul 2012,v Worcs,Taunton,1,0,0,0,0,0
+46248,8 Jul 2012,v Worcs,Worcester,1,0,0,0,0,0
+46248,24 Jul 2012,v Essex,Taunton,2,1,1,0,0,1
+46248,8 Sep 2012,v England,Chester-le-Street,1,0,0,0,0,0
+46248,10 Sep 2012,v England,Manchester,2,0,0,0,0,0
+46248,12 Sep 2012,v England,Birmingham,1,0,0,0,0,0
+46248,20 Sep 2012,v Zimbabwe,Hambantota,1,0,0,0,0,0
+46248,22 Sep 2012,v Sri Lanka,Hambantota,2,0,0,0,0,0
+46248,28 Sep 2012,v Pakistan,Colombo (RPS),2,1,1,0,0,1
+46248,2 Oct 2012,v India,Colombo (RPS),1,0,0,0,0,0
+46248,16 Oct 2012,v Lions,Cape Town,2,0,0,0,0,0
+46248,20 Oct 2012,v MI,Johannesburg,2,0,0,0,0,0
+46248,22 Oct 2012,v Yorkshire,Durban,1,0,0,0,0,0
+46248,3 Feb 2013,v KZ-Natal,Pretoria,1,0,0,0,0,0
+46248,20 Feb 2013,v Lions,Johannesburg,2,0,0,0,0,0
+46248,22 Feb 2013,v Warriors,Gqeberha,1,2,2,0,0,2
+46248,28 Feb 2013,v Cape Cobras,Benoni,1,0,0,0,0,0
+46248,6 Mar 2013,v Knights,Centurion,1,0,0,0,0,0
+46248,8 Mar 2013,v Warriors,Benoni,1,0,0,0,0,0
+46248,12 Mar 2013,v Cape Cobras,Paarl,2,0,0,0,0,0
+46248,19 Mar 2013,v Lions,Centurion,2,0,0,0,0,0
+46248,22 Mar 2013,v Dolphins,Centurion,1,0,0,0,0,0
+46248,26 Mar 2013,v Knights,Bloemfontein,1,1,1,0,0,1
+46248,3 Apr 2013,v Warriors,East London,1,0,0,0,0,0
+46248,7 Apr 2013,v Lions,Johannesburg,1,0,0,0,0,0
+46248,15 Apr 2013,v Warriors,Chennai,1,1,1,0,0,1
+46248,18 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+46248,20 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+46248,30 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+46248,2 May 2013,v Kings XI,Chennai,2,0,0,0,0,0
+46248,14 May 2013,v Daredevils,Chennai,2,0,0,0,0,0
+46248,21 May 2013,v MI,Delhi,2,0,0,0,0,0
+46248,26 May 2013,v MI,Eden Gardens,1,1,1,0,0,1
+46248,28 Jun 2013,v Yorkshire,Leeds,1,0,0,0,0,0
+46248,29 Jun 2013,v Leics,Leicester,2,0,0,0,0,0
+46248,2 Jul 2013,v Lancashire,Derby,1,1,1,0,0,1
+46248,5 Jul 2013,v Notts,Derby,2,0,0,0,0,0
+46248,12 Jul 2013,v Lancashire,Manchester,1,0,0,0,0,0
+46248,14 Jul 2013,v Yorkshire,Chesterfield,1,0,0,0,0,0
+46248,21 Jul 2013,v Durham,Chesterfield,2,0,0,0,0,0
+46248,30 Jul 2013,v Tridents,Bridgetown,1,0,0,0,0,0
+46248,4 Aug 2013,v Amazon,Providence,1,0,0,0,0,0
+46248,6 Aug 2013,v Hawksbills,Gros Islet,1,0,0,0,0,0
+46248,8 Aug 2013,v Tridents,Gros Islet,1,0,0,0,0,0
+46248,10 Aug 2013,v Tallawahs,Gros Islet,2,0,0,0,0,0
+46248,15 Aug 2013,v Hawksbills,North Sound,2,0,0,0,0,0
+46248,17 Aug 2013,v Red Steel,Kingston,2,0,0,0,0,0
+46248,22 Sep 2013,v Titans,Ranchi,1,0,0,0,0,0
+46248,26 Sep 2013,v SRH,Ranchi,2,0,0,0,0,0
+46248,28 Sep 2013,v Heat,Ranchi,1,0,0,0,0,0
+46248,2 Oct 2013,v Trinidad & T,Delhi,2,0,0,0,0,0
+46248,5 Jan 2014,v Dolphins,Cape Town,1,0,0,0,0,0
+46248,9 Jan 2014,v Cape Cobras,Centurion,1,0,0,0,0,0
+46248,15 Jan 2014,v Warriors,Benoni,1,0,0,0,0,0
+46248,17 Jan 2014,v Lions,Potchefstroom,2,0,0,0,0,0
+46248,19 Jan 2014,v Knights,Centurion,2,0,0,0,0,0
+46248,22 Jan 2014,v Cape Cobras,Cape Town,1,0,0,0,0,0
+46248,24 Jan 2014,v Warriors,East London,1,0,0,0,0,0
+46248,26 Jan 2014,v Lions,Benoni,1,0,0,0,0,0
+46248,29 Jan 2014,v Dolphins,Centurion,2,0,0,0,0,0
+46248,6 Feb 2014,v Dolphins,Durban,1,0,0,0,0,0
+46248,12 Mar 2014,v Australia,Durban,2,0,0,0,0,0
+46248,14 Mar 2014,v Australia,Centurion,2,0,0,0,0,0
+46248,22 Mar 2014,v Sri Lanka,Chattogram,1,0,0,0,0,0
+46248,24 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+46248,27 Mar 2014,v Netherlands,Chattogram,2,0,0,0,0,0
+46248,29 Mar 2014,v England,Chattogram,2,1,1,0,0,1
+46248,4 Apr 2014,v India,Mirpur,2,0,0,0,0,0
+46248,17 Apr 2014,v Daredevils,Sharjah,1,0,0,0,0,0
+46248,19 Apr 2014,v MI,Dubai (DICS),1,0,0,0,0,0
+46248,24 Apr 2014,v KKR,Sharjah,1,1,1,0,0,1
+46248,26 Apr 2014,v RR,Abu Dhabi,2,0,0,0,0,0
+46248,28 Apr 2014,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+46248,9 May 2014,v Kings XI,Bengaluru,1,1,1,0,0,1
+46248,11 May 2014,v RR,Bengaluru,2,0,0,0,0,0
+46248,9 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+46248,7 May 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+46248,9 May 2015,v SRH,Raipur,1,1,1,0,0,1
+46248,12 May 2015,v CSK,Raipur,1,0,0,0,0,0
+46248,5 Sep 2015,v Zim Pres XI,Benoni,1,1,1,0,0,1
+46248,6 Sep 2015,v Easterns,Benoni,1,0,0,0,0,0
+46248,5 Oct 2015,v India,Cuttack,1,0,0,0,0,0
+46248,1 Nov 2015,v Dolphins,Centurion,1,0,0,0,0,0
+46248,6 Nov 2015,v Lions,Potchefstroom,1,0,0,0,0,0
+46248,8 Nov 2015,v Cape Cobras,Centurion,2,1,1,0,0,1
+46248,13 Nov 2015,v Knights,Bloemfontein,2,1,1,0,0,1
+46248,15 Nov 2015,v Warriors,Centurion,1,1,1,0,0,1
+46248,18 Nov 2015,v Dolphins,Durban,2,1,1,0,0,1
+46248,20 Nov 2015,v Cape Cobras,Cape Town,2,1,1,0,0,1
+46248,28 Nov 2015,v Warriors,Gqeberha,2,0,0,0,0,0
+46248,4 Dec 2015,v Lions,Benoni,2,0,0,0,0,0
+46248,6 Dec 2015,v Knights,Benoni,2,1,1,0,0,1
+46248,12 Dec 2015,v Dolphins,Centurion,1,0,0,0,0,0
+46248,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+46248,29 Apr 2016,v Guj Lions,Pune,2,1,1,0,0,1
+46248,12 Nov 2016,v Lions,Johannesburg,2,0,0,0,0,0
+46248,16 Nov 2016,v Cape Cobras,Paarl,1,0,0,0,0,0
+46248,18 Nov 2016,v Knights,Benoni,1,0,0,0,0,0
+46248,20 Nov 2016,v Dolphins,Bloemfontein,2,1,1,0,0,1
+46248,25 Nov 2016,v Cape Cobras,Centurion,1,0,0,0,0,0
+46248,27 Nov 2016,v Knights,Kimberley,2,0,0,0,0,0
+46248,30 Nov 2016,v Dolphins,Durban,2,0,0,0,0,0
+46248,2 Dec 2016,v Warriors,Centurion,2,0,0,0,0,0
+46248,7 Dec 2016,v Lions,Centurion,2,1,1,0,0,1
+46248,11 Dec 2016,v Warriors,East London,2,0,0,0,0,0
+46248,16 Dec 2016,v Warriors,Centurion,2,0,0,0,0,0
+46248,12 Nov 2017,v Lions,Centurion,1,0,0,0,0,0
+46248,15 Nov 2017,v Knights,Kimberley,2,1,1,0,0,1
+46248,17 Nov 2017,v Warriors,East London,2,0,0,0,0,0
+46248,19 Nov 2017,v Cape Cobras,Centurion,1,2,2,0,0,2
+46248,24 Nov 2017,v Dolphins,Benoni,-,TDNF,-,-,-,-
+46248,3 Dec 2017,v Knights,Gqeberha,1,0,0,0,0,0
+46248,8 Dec 2017,v Cape Cobras,Cape Town,2,0,0,0,0,0
+46248,13 Dec 2017,v Warriors,Centurion,1,3,3,0,0,3
+46248,16 Dec 2017,v Dolphins,Centurion,1,0,0,0,0,0
+46248,5 Oct 2018,v BDD,Abu Dhabi,2,1,1,0,0,1
+46248,6 Oct 2018,v Auckland,Abu Dhabi,1,0,0,0,0,0
+46248,6 Oct 2018,v Qalandars,Abu Dhabi,1,0,0,0,0,0
+46248,18 Nov 2018,v Blitz,Durban,2,0,0,0,0,0
+46248,21 Nov 2018,v Spartans,Durban,1,0,0,0,0,0
+46248,23 Nov 2018,v Giants,Gqeberha,2,0,0,0,0,0
+46248,28 Nov 2018,v Paarl Rocks,Durban,1,0,0,0,0,0
+46248,30 Nov 2018,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+46248,2 Dec 2018,v Paarl Rocks,Paarl,2,0,0,0,0,0
+46248,5 Dec 2018,v Giants,Durban,1,0,0,0,0,0
+46248,7 Dec 2018,v Jozi Stars,Durban,2,0,0,0,0,0
+46248,12 Dec 2018,v Spartans,Centurion,1,0,0,0,0,0

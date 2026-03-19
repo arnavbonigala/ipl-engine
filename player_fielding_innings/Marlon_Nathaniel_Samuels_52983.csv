@@ -1,0 +1,188 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+52983,21 Jul 2006,v Bermuda,Coolidge,1,0,0,0,0,0
+52983,29 Jul 2006,v Guyana,Coolidge,2,0,0,0,0,0
+52983,24 Jun 2007,v Derbyshire,Derby,1,0,0,0,0,0
+52983,28 Jun 2007,v England,The Oval,2,0,0,0,0,0
+52983,29 Jun 2007,v England,The Oval,2,0,0,0,0,0
+52983,11 Sep 2007,v South Africa,Johannesburg,2,0,0,0,0,0
+52983,13 Sep 2007,v Bangladesh,Johannesburg,2,0,0,0,0,0
+52983,16 Dec 2007,v South Africa,Gqeberha,1,0,0,0,0,0
+52983,18 Jan 2008,v South Africa,Johannesburg,2,0,0,0,0,0
+52983,16 Feb 2008,v Nevis,Coolidge,1,0,0,0,0,0
+52983,23 Feb 2008,v Guyana,Coolidge,2,0,0,0,0,0
+52983,24 Feb 2008,v Trinidad & T,Coolidge,2,0,0,0,0,0
+52983,22 Jul 2010,v Leeward Is,Bridgetown,1,0,0,0,0,0
+52983,24 Jul 2010,v Canada,Bridgetown,1,1,1,0,0,1
+52983,28 Jul 2010,v Trinidad & T,Port of Spain,1,0,0,0,0,0
+52983,30 Jul 2010,v Barbados,Port of Spain,2,0,0,0,0,0
+52983,31 Jul 2010,v Trinidad & T,Port of Spain,2,0,0,0,0,0
+52983,10 Jan 2011,v Guyana,North Sound,2,0,0,0,0,0
+52983,12 Jan 2011,v Comb C&C,North Sound,2,0,0,0,0,0
+52983,18 Jan 2011,v Somerset,Bridgetown,2,2,2,0,0,2
+52983,20 Jan 2011,v Windward Is,Bridgetown,1,0,0,0,0,0
+52983,22 Jan 2011,v Trinidad & T,Bridgetown,2,0,0,0,0,0
+52983,23 Jan 2011,v Windward Is,Bridgetown,2,0,0,0,0,0
+52983,21 Apr 2011,v Pakistan,Gros Islet,2,1,1,0,0,1
+52983,4 Jun 2011,v India,Port of Spain,1,1,1,0,0,1
+52983,23 Sep 2011,v England,The Oval,2,0,0,0,0,0
+52983,25 Sep 2011,v England,The Oval,2,0,0,0,0,0
+52983,9 Oct 2011,v BCB XI,Fatullah,2,0,0,0,0,0
+52983,11 Oct 2011,v Bangladesh,Mirpur,2,0,0,0,0,0
+52983,10 Jan 2012,v Comb C&C,North Sound,1,0,0,0,0,0
+52983,12 Jan 2012,v Sussex,North Sound,2,2,2,0,0,2
+52983,14 Jan 2012,v Barbados,North Sound,1,0,0,0,0,0
+52983,20 Jan 2012,v Netherlands,Bridgetown,1,1,1,0,0,1
+52983,21 Jan 2012,v Windward Is,Bridgetown,1,0,0,0,0,0
+52983,22 Jan 2012,v Trinidad & T,Bridgetown,1,0,0,0,0,0
+52983,10 Feb 2012,v Chittagong,Mirpur,1,1,1,0,0,1
+52983,11 Feb 2012,v Barisal,Mirpur,1,0,0,0,0,0
+52983,14 Feb 2012,v Royals,Mirpur,2,0,0,0,0,0
+52983,15 Feb 2012,v Khulna,Mirpur,1,1,1,0,0,1
+52983,16 Feb 2012,v Dhaka,Mirpur,2,0,0,0,0,0
+52983,18 Feb 2012,v Chittagong,Chattogram,2,0,0,0,0,0
+52983,20 Feb 2012,v Barisal,Chattogram,1,1,1,0,0,1
+52983,24 Feb 2012,v Royals,Mirpur,2,0,0,0,0,0
+52983,26 Feb 2012,v Khulna,Mirpur,1,0,0,0,0,0
+52983,27 Feb 2012,v Dhaka,Mirpur,1,0,0,0,0,0
+52983,28 Feb 2012,v Barisal,Mirpur,2,1,1,0,0,1
+52983,30 Mar 2012,v Australia,Bridgetown,2,2,2,0,0,2
+52983,6 Apr 2012,v MI,Wankhede,2,0,0,0,0,0
+52983,8 Apr 2012,v Kings XI,Pune,2,0,0,0,0,0
+52983,12 Apr 2012,v Kings XI,Mohali,2,0,0,0,0,0
+52983,14 Apr 2012,v CSK,Pune,1,0,0,0,0,0
+52983,17 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+52983,19 Apr 2012,v CSK,Chennai,1,0,0,0,0,0
+52983,26 Apr 2012,v Chargers,Pune,1,0,0,0,0,0
+52983,1 May 2012,v Chargers,Cuttack,1,0,0,0,0,0
+52983,24 Jun 2012,v England,Nottingham,2,0,0,0,0,0
+52983,30 Jun 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+52983,1 Jul 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+52983,22 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+52983,24 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+52983,27 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+52983,29 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+52983,1 Oct 2012,v New Zealand,Pallekele,2,1,1,0,0,1
+52983,5 Oct 2012,v Australia,Colombo (RPS),2,1,1,0,0,1
+52983,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+52983,10 Dec 2012,v Bangladesh,Mirpur,2,0,0,0,0,0
+52983,14 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+52983,19 Dec 2012,v Hurricanes,Melbourne (Docklands),1,1,1,0,0,1
+52983,22 Dec 2012,v Heat,Melbourne (Docklands),1,0,0,0,0,0
+52983,29 Dec 2012,v Scorchers,W.A.C.A,1,1,1,0,0,1
+52983,2 Jan 2013,v Strikers,Melbourne (Docklands),2,0,0,0,0,0
+52983,6 Jan 2013,v Stars,Melbourne,1,1,1,0,0,1
+52983,5 Apr 2013,v SRH,Hyderabad,1,0,0,0,0,0
+52983,7 Apr 2013,v Kings XI,Pune,2,1,1,0,0,1
+52983,27 Jul 2013,v Pakistan,Kingstown,2,0,0,0,0,0
+52983,28 Jul 2013,v Pakistan,Kingstown,1,1,1,0,0,1
+52983,1 Aug 2013,v Tridents,Bridgetown,1,1,1,0,0,1
+52983,4 Aug 2013,v Tallawahs,Providence,2,0,0,0,0,0
+52983,6 Aug 2013,v Zouks,Gros Islet,2,1,1,0,0,1
+52983,11 Aug 2013,v Red Steel,Port of Spain,1,0,0,0,0,0
+52983,13 Aug 2013,v Tridents,North Sound,1,0,0,0,0,0
+52983,15 Aug 2013,v Zouks,North Sound,1,0,0,0,0,0
+52983,17 Aug 2013,v Amazon,North Sound,2,0,0,0,0,0
+52983,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+52983,21 Feb 2014,v Ireland,Kingston,2,1,1,0,0,1
+52983,9 Mar 2014,v England,Bridgetown,2,0,0,0,0,0
+52983,11 Mar 2014,v England,Bridgetown,1,0,0,0,0,0
+52983,13 Mar 2014,v England,Bridgetown,1,0,0,0,0,0
+52983,23 Mar 2014,v India,Mirpur,2,0,0,0,0,0
+52983,25 Mar 2014,v Bangladesh,Mirpur,2,0,0,0,0,0
+52983,28 Mar 2014,v Australia,Mirpur,1,0,0,0,0,0
+52983,1 Apr 2014,v Pakistan,Mirpur,2,0,0,0,0,0
+52983,3 Apr 2014,v Sri Lanka,Mirpur,1,0,0,0,0,0
+52983,11 Jul 2014,v Amazon,St George's,2,0,0,0,0,0
+52983,17 Jul 2014,v Tallawahs,North Sound,2,1,1,0,0,1
+52983,19 Jul 2014,v Tridents,North Sound,2,0,0,0,0,0
+52983,20 Jul 2014,v Red Steel,North Sound,2,0,0,0,0,0
+52983,25 Jul 2014,v Tridents,Bridgetown,2,1,1,0,0,1
+52983,31 Jul 2014,v Tallawahs,Kingston,2,0,0,0,0,0
+52983,3 Aug 2014,v Zouks,Gros Islet,2,0,0,0,0,0
+52983,7 Aug 2014,v Amazon,Basseterre,1,1,1,0,0,1
+52983,9 Aug 2014,v Red Steel,Basseterre,1,1,1,0,0,1
+52983,9 Jan 2015,v South Africa,Cape Town,1,0,0,0,0,0
+52983,11 Jan 2015,v South Africa,Johannesburg,1,0,0,0,0,0
+52983,14 Jan 2015,v South Africa,Durban,1,0,0,0,0,0
+52983,24 Jun 2015,v Zouks,Gros Islet,2,0,0,0,0,0
+52983,27 Jun 2015,v Tridents,Bridgetown,2,0,0,0,0,0
+52983,30 Jun 2015,v Tallawahs,Basseterre,2,1,1,0,0,1
+52983,3 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+52983,4 Jul 2015,v Tallawahs,Basseterre,2,0,0,0,0,0
+52983,6 Jul 2015,v Tridents,Basseterre,1,0,0,0,0,0
+52983,8 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+52983,10 Jul 2015,v Zouks,Basseterre,2,2,2,0,0,2
+52983,11 Jul 2015,v Red Steel,Basseterre,2,0,0,0,0,0
+52983,18 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+52983,9 Nov 2015,v Sri Lanka,Pallekele,1,0,0,0,0,0
+52983,11 Nov 2015,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+52983,22 Nov 2015,v Dynamites,Mirpur,2,1,1,0,0,1
+52983,24 Nov 2015,v Chattogram,Mirpur,1,0,0,0,0,0
+52983,25 Nov 2015,v Bulls,Mirpur,1,0,0,0,0,0
+52983,27 Nov 2015,v Rangpur,Mirpur,1,1,1,0,0,1
+52983,16 Mar 2016,v England,Wankhede,1,0,0,0,0,0
+52983,20 Mar 2016,v Sri Lanka,Bengaluru,1,0,0,0,0,0
+52983,25 Mar 2016,v South Africa,Nagpur,1,0,0,0,0,0
+52983,27 Mar 2016,v Afghanistan,Nagpur,1,1,1,0,0,1
+52983,31 Mar 2016,v India,Wankhede,1,0,0,0,0,0
+52983,3 Apr 2016,v England,Eden Gardens,1,0,0,0,0,0
+52983,27 Aug 2016,v India,Lauderhill,2,1,1,0,0,1
+52983,28 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+52983,23 Sep 2016,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+52983,24 Sep 2016,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+52983,27 Sep 2016,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+52983,8 Nov 2016,v Chattogram,Mirpur,1,0,0,0,0,0
+52983,11 Nov 2016,v Bulls,Mirpur,2,1,1,0,0,1
+52983,13 Nov 2016,v Khulna,Mirpur,1,0,0,0,0,0
+52983,18 Nov 2016,v Rangpur,Chattogram,2,0,0,0,0,0
+52983,29 Nov 2016,v Bulls,Mirpur,1,0,0,0,0,0
+52983,30 Nov 2016,v Kings,Mirpur,1,0,0,0,0,0
+52983,2 Dec 2016,v Khulna,Mirpur,1,0,0,0,0,0
+52983,4 Dec 2016,v Rangpur,Mirpur,2,0,0,0,0,0
+52983,24 Feb 2017,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+52983,25 Feb 2017,v Gladiators,Dubai (DICS),1,0,0,0,0,0
+52983,28 Feb 2017,v Gladiators,Sharjah,1,0,0,0,0,0
+52983,3 Mar 2017,v Kings,Dubai (DICS),2,1,1,0,0,1
+52983,5 Mar 2017,v Gladiators,Lahore,2,0,0,0,0,0
+52983,26 Mar 2017,v Pakistan,Bridgetown,2,0,0,0,0,0
+52983,30 Mar 2017,v Pakistan,Port of Spain,1,1,1,0,0,1
+52983,1 Apr 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+52983,2 Apr 2017,v Pakistan,Port of Spain,2,0,0,0,0,0
+52983,4 May 2017,v Guj Lions,Delhi,1,0,0,0,0,0
+52983,6 May 2017,v MI,Delhi,1,1,1,0,0,1
+52983,10 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+52983,12 May 2017,v Supergiant,Delhi,2,0,0,0,0,0
+52983,14 May 2017,v RCB,Delhi,1,0,0,0,0,0
+52983,2 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+52983,3 Jun 2017,v Afghanistan,Basseterre,2,0,0,0,0,0
+52983,5 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+52983,9 Jul 2017,v India,Kingston,1,1,1,0,0,1
+52983,4 Aug 2017,v Trinbago,Gros Islet,2,0,0,0,0,0
+52983,7 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+52983,10 Aug 2017,v Tridents,Gros Islet,1,1,1,0,0,1
+52983,12 Aug 2017,v Patriots,Gros Islet,1,0,0,0,0,0
+52983,13 Aug 2017,v Amazon,Gros Islet,2,1,1,0,0,1
+52983,15 Aug 2017,v Tallawahs,Gros Islet,2,0,0,0,0,0
+52983,19 Aug 2017,v Patriots,Basseterre,-,TDNF,-,-,-,-
+52983,25 Aug 2017,v Tallawahs,Kingston,2,1,1,0,0,1
+52983,31 Aug 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+52983,16 Sep 2017,v England,Chester-le-Street,2,0,0,0,0,0
+52983,5 Nov 2017,v Sylhet,Sylhet,2,0,0,0,0,0
+52983,7 Nov 2017,v Chattogram,Sylhet,1,1,1,0,0,1
+52983,12 Nov 2017,v Kings,Mirpur,1,1,1,0,0,1
+52983,14 Nov 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+52983,18 Nov 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+52983,28 Nov 2017,v Khulna,Chattogram,1,0,0,0,0,0
+52983,29 Nov 2017,v Dynamites,Chattogram,2,0,0,0,0,0
+52983,2 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+52983,5 Dec 2017,v Khulna,Mirpur,1,0,0,0,0,0
+52983,6 Dec 2017,v Sylhet,Mirpur,2,0,0,0,0,0
+52983,8 Dec 2017,v Dynamites,Mirpur,1,0,0,0,0,0
+52983,10 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+52983,1 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+52983,2 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+52983,3 Apr 2018,v Pakistan,Karachi,2,0,0,0,0,0
+52983,31 May 2018,v ICC World XI,Lord's,2,0,0,0,0,0
+52983,31 Jul 2018,v Bangladesh,Basseterre,1,0,0,0,0,0
+52983,4 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0
+52983,5 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0

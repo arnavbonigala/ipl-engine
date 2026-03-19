@@ -1,0 +1,583 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+51439,16 Feb 2006,v New Zealand,Auckland,2,0,0,0,0,0
+51439,24 Jul 2006,v Leics,Leicester,2,0,0,0,0,0
+51439,24 Jun 2007,v Derbyshire,Derby,1,0,0,0,0,0
+51439,28 Jun 2007,v England,The Oval,2,1,1,0,0,1
+51439,29 Jun 2007,v England,The Oval,2,0,0,0,0,0
+51439,11 Sep 2007,v South Africa,Johannesburg,2,0,0,0,0,0
+51439,13 Sep 2007,v Bangladesh,Johannesburg,2,0,0,0,0,0
+51439,16 Dec 2007,v South Africa,Gqeberha,1,0,0,0,0,0
+51439,18 Jan 2008,v South Africa,Johannesburg,2,1,1,0,0,1
+51439,13 Feb 2008,v St Vi & Gren,Coolidge,2,0,0,0,0,0
+51439,22 Feb 2008,v Barbados,Coolidge,2,0,0,0,0,0
+51439,24 Feb 2008,v Jamaica,Coolidge,1,1,1,0,0,1
+51439,23 Apr 2008,v CSK,Chennai,1,2,2,0,0,2
+51439,25 Apr 2008,v Kings XI,Mohali,1,1,1,0,0,1
+51439,27 Apr 2008,v Chargers,DY Patil,2,0,0,0,0,0
+51439,29 Apr 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+51439,4 May 2008,v Daredevils,DY Patil,2,0,0,0,0,0
+51439,7 May 2008,v RR,DY Patil,1,0,0,0,0,0
+51439,14 May 2008,v CSK,Wankhede,1,1,1,0,0,1
+51439,16 May 2008,v KKR,Wankhede,1,0,0,0,0,0
+51439,18 May 2008,v Chargers,Hyderabad,2,0,0,0,0,0
+51439,20 Jun 2008,v Australia,Bridgetown,1,0,0,0,0,0
+51439,15 Mar 2009,v England,Port of Spain,1,0,0,0,0,0
+51439,18 Apr 2009,v CSK,Cape Town,2,1,1,0,0,1
+51439,25 Apr 2009,v Chargers,Durban,1,0,0,0,0,0
+51439,27 Apr 2009,v KKR,Gqeberha,2,1,1,0,0,1
+51439,29 Apr 2009,v Kings XI,Durban,1,1,1,0,0,1
+51439,3 May 2009,v RCB,Johannesburg,2,0,0,0,0,0
+51439,6 May 2009,v Chargers,Centurion,1,1,1,0,0,1
+51439,8 May 2009,v Daredevils,East London,2,0,0,0,0,0
+51439,10 May 2009,v RCB,Gqeberha,2,0,0,0,0,0
+51439,12 May 2009,v Kings XI,Centurion,1,1,1,0,0,1
+51439,14 May 2009,v RR,Durban,1,1,1,0,0,1
+51439,16 May 2009,v CSK,Gqeberha,2,1,1,0,0,1
+51439,6 Jun 2009,v Australia,The Oval,1,1,1,0,0,1
+51439,10 Jun 2009,v Sri Lanka,Nottingham,1,0,0,0,0,0
+51439,12 Jun 2009,v India,Lord's,1,0,0,0,0,0
+51439,13 Jun 2009,v South Africa,The Oval,1,0,0,0,0,0
+51439,15 Jun 2009,v England,The Oval,1,0,0,0,0,0
+51439,19 Jun 2009,v Sri Lanka,The Oval,1,0,0,0,0,0
+51439,12 Oct 2009,v Somerset,Bengaluru,2,0,0,0,0,0
+51439,14 Oct 2009,v Chargers,Hyderabad,2,1,1,0,0,1
+51439,16 Oct 2009,v NSW,Hyderabad,1,1,1,0,0,1
+51439,18 Oct 2009,v Eagles,Hyderabad,2,0,0,0,0,0
+51439,22 Oct 2009,v Cape Cobras,Hyderabad,1,0,0,0,0,0
+51439,23 Oct 2009,v NSW,Hyderabad,1,0,0,0,0,0
+51439,28 Dec 2009,v Queensland,Brisbane,2,2,2,0,0,2
+51439,2 Jan 2010,v NSW,Melbourne,1,0,0,0,0,0
+51439,7 Jan 2010,v South Aust,Adelaide,1,1,1,0,0,1
+51439,10 Jan 2010,v West Aust,W.A.C.A,1,0,0,0,0,0
+51439,15 Jan 2010,v Tasmania,Melbourne,1,0,0,0,0,0
+51439,17 Mar 2010,v Daredevils,Delhi,2,0,0,0,0,0
+51439,20 Mar 2010,v RCB,Brabourne,2,0,0,0,0,0
+51439,22 Mar 2010,v KKR,Brabourne,1,0,0,0,0,0
+51439,25 Mar 2010,v CSK,Brabourne,1,0,0,0,0,0
+51439,28 Mar 2010,v Chargers,DY Patil,2,1,1,0,0,1
+51439,30 Mar 2010,v Kings XI,Brabourne,1,0,0,0,0,0
+51439,3 Apr 2010,v Chargers,Brabourne,2,2,2,0,0,2
+51439,6 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+51439,13 Apr 2010,v Daredevils,Brabourne,2,0,0,0,0,0
+51439,19 Apr 2010,v KKR,Eden Gardens,2,1,1,0,0,1
+51439,30 Apr 2010,v Ireland,Providence,2,0,0,0,0,0
+51439,3 May 2010,v England,Providence,1,0,0,0,0,0
+51439,7 May 2010,v Sri Lanka,Bridgetown,1,0,0,0,0,0
+51439,9 May 2010,v India,Bridgetown,2,1,1,0,0,1
+51439,11 May 2010,v Australia,Gros Islet,2,0,0,0,0,0
+51439,19 May 2010,v South Africa,North Sound,1,0,0,0,0,0
+51439,20 May 2010,v South Africa,North Sound,1,1,1,0,0,1
+51439,22 Jul 2010,v Canada,Bridgetown,1,4,4,0,0,4
+51439,24 Jul 2010,v Leeward Is,Bridgetown,1,0,0,0,0,0
+51439,28 Jul 2010,v Jamaica,Port of Spain,2,1,1,0,0,1
+51439,30 Jul 2010,v Guyana,Port of Spain,1,0,0,0,0,0
+51439,31 Jul 2010,v Jamaica,Port of Spain,1,1,1,0,0,1
+51439,14 Aug 2010,v Hampshire,Southampton,2,0,0,0,0,0
+51439,14 Sep 2010,v South Aust,Durban,2,1,1,0,0,1
+51439,16 Sep 2010,v Guyana,Durban,2,0,0,0,0,0
+51439,19 Sep 2010,v RCB,Durban,2,0,0,0,0,0
+51439,2 Jan 2011,v Queensland,Melbourne,2,1,1,0,0,1
+51439,8 Jan 2011,v South Aust,Adelaide,1,0,0,0,0,0
+51439,11 Jan 2011,v Tasmania,Hobart,2,0,0,0,0,0
+51439,18 Jan 2011,v West Aust,W.A.C.A,2,2,2,0,0,2
+51439,9 May 2011,v RR,Jaipur,2,1,1,0,0,1
+51439,12 May 2011,v Daredevils,Chennai,2,1,1,0,0,1
+51439,18 May 2011,v Kochi,Chennai,2,1,1,0,0,1
+51439,22 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+51439,24 May 2011,v RCB,Wankhede,1,0,0,0,0,0
+51439,28 May 2011,v RCB,Chennai,2,0,0,0,0,0
+51439,24 Sep 2011,v MI,Chennai,2,0,0,0,0,0
+51439,28 Sep 2011,v Cape Cobras,Chennai,1,0,0,0,0,0
+51439,2 Oct 2011,v Trinidad & T,Chennai,1,1,1,0,0,1
+51439,4 Oct 2011,v NSW,Chennai,1,0,0,0,0,0
+51439,16 Dec 2011,v Heat,Sydney,1,0,0,0,0,0
+51439,21 Dec 2011,v Hurricanes,Hobart,1,0,0,0,0,0
+51439,27 Dec 2011,v Stars,Sydney,2,0,0,0,0,0
+51439,2 Jan 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+51439,9 Jan 2012,v Windward Is,North Sound,1,0,0,0,0,0
+51439,11 Jan 2012,v Leeward Is,North Sound,2,1,1,0,0,1
+51439,13 Jan 2012,v Guyana,North Sound,1,1,1,0,0,1
+51439,19 Jan 2012,v Canada,Bridgetown,1,1,1,0,0,1
+51439,21 Jan 2012,v Barbados,Bridgetown,1,0,0,0,0,0
+51439,22 Jan 2012,v Jamaica,Bridgetown,2,0,0,0,0,0
+51439,10 Feb 2012,v Rajshahi,Mirpur,2,0,0,0,0,0
+51439,12 Feb 2012,v Khulna,Mirpur,1,0,0,0,0,0
+51439,13 Feb 2012,v Dhaka,Mirpur,2,0,0,0,0,0
+51439,15 Feb 2012,v Royals,Mirpur,1,0,0,0,0,0
+51439,16 Feb 2012,v Barisal,Mirpur,1,1,1,0,0,1
+51439,18 Feb 2012,v Rajshahi,Chattogram,1,1,1,0,0,1
+51439,20 Feb 2012,v Khulna,Chattogram,1,0,0,0,0,0
+51439,24 Feb 2012,v Dhaka,Mirpur,2,2,2,0,0,2
+51439,25 Feb 2012,v Royals,Mirpur,1,0,0,0,0,0
+51439,26 Feb 2012,v Barisal,Mirpur,2,1,1,0,0,1
+51439,27 Mar 2012,v Australia,Gros Islet,2,0,0,0,0,0
+51439,30 Mar 2012,v Australia,Bridgetown,2,0,0,0,0,0
+51439,4 Apr 2012,v MI,Chennai,2,0,0,0,0,0
+51439,7 Apr 2012,v Chargers,Visakhapatnam,2,2,2,0,0,2
+51439,10 Apr 2012,v Daredevils,Delhi,2,0,0,0,0,0
+51439,12 Apr 2012,v RCB,Chennai,1,2,2,0,0,2
+51439,14 Apr 2012,v Warriors,Pune,2,0,0,0,0,0
+51439,19 Apr 2012,v Warriors,Chennai,2,1,1,0,0,1
+51439,21 Apr 2012,v RR,Chennai,1,0,0,0,0,0
+51439,25 Apr 2012,v RCB,Bengaluru,-,TDNF,-,-,-,-
+51439,28 Apr 2012,v Kings XI,Chennai,1,1,1,0,0,1
+51439,30 Apr 2012,v KKR,Chennai,2,0,0,0,0,0
+51439,4 May 2012,v Chargers,Chennai,2,0,0,0,0,0
+51439,6 May 2012,v MI,Wankhede,2,0,0,0,0,0
+51439,10 May 2012,v RR,Jaipur,1,0,0,0,0,0
+51439,12 May 2012,v Daredevils,Chennai,1,0,0,0,0,0
+51439,14 May 2012,v KKR,Eden Gardens,1,2,2,0,0,2
+51439,17 May 2012,v Kings XI,Dharamsala,2,0,0,0,0,0
+51439,23 May 2012,v MI,Bengaluru,2,0,0,0,0,0
+51439,25 May 2012,v Daredevils,Chennai,2,1,1,0,0,1
+51439,27 May 2012,v KKR,Chennai,2,0,0,0,0,0
+51439,24 Jun 2012,v England,Nottingham,2,0,0,0,0,0
+51439,30 Jun 2012,v New Zealand,Lauderhill,2,1,1,0,0,1
+51439,1 Jul 2012,v New Zealand,Lauderhill,2,2,2,0,0,2
+51439,22 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+51439,27 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+51439,29 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+51439,5 Oct 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+51439,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,2,2,0,0,2
+51439,6 Jan 2013,v Jamaica,Port of Spain,2,0,0,0,0,0
+51439,8 Jan 2013,v Comb C&C,Port of Spain,1,1,1,0,0,1
+51439,9 Jan 2013,v Leeward Is,Port of Spain,2,1,1,0,0,1
+51439,12 Jan 2013,v Guyana,Port of Spain,2,0,0,0,0,0
+51439,15 Jan 2013,v Windward Is,Gros Islet,1,0,0,0,0,0
+51439,16 Jan 2013,v Barbados,Gros Islet,1,0,0,0,0,0
+51439,20 Jan 2013,v Guyana,Gros Islet,1,0,0,0,0,0
+51439,13 Feb 2013,v Australia,Brisbane,2,0,0,0,0,0
+51439,2 Mar 2013,v Zimbabwe,North Sound,1,0,0,0,0,0
+51439,3 Mar 2013,v Zimbabwe,North Sound,2,3,3,0,0,3
+51439,6 Apr 2013,v MI,Chennai,1,1,1,0,0,1
+51439,10 Apr 2013,v Kings XI,Mohali,1,3,3,0,0,3
+51439,13 Apr 2013,v RCB,Chennai,1,1,1,0,0,1
+51439,15 Apr 2013,v Warriors,Chennai,1,0,0,0,0,0
+51439,18 Apr 2013,v Daredevils,Delhi,2,3,3,0,0,3
+51439,20 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+51439,22 Apr 2013,v RR,Chennai,1,0,0,0,0,0
+51439,25 Apr 2013,v SRH,Chennai,1,2,2,0,0,2
+51439,28 Apr 2013,v KKR,Chennai,2,0,0,0,0,0
+51439,30 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+51439,2 May 2013,v Kings XI,Chennai,2,1,1,0,0,1
+51439,5 May 2013,v MI,Wankhede,1,1,1,0,0,1
+51439,8 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+51439,12 May 2013,v RR,Jaipur,2,0,0,0,0,0
+51439,14 May 2013,v Daredevils,Chennai,2,0,0,0,0,0
+51439,18 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+51439,21 May 2013,v MI,Delhi,2,2,2,0,0,2
+51439,26 May 2013,v MI,Eden Gardens,1,0,0,0,0,0
+51439,27 Jul 2013,v Pakistan,Kingstown,2,1,1,0,0,1
+51439,28 Jul 2013,v Pakistan,Kingstown,1,1,1,0,0,1
+51439,31 Jul 2013,v Amazon,Providence,1,0,0,0,0,0
+51439,3 Aug 2013,v Tridents,Bridgetown,2,0,0,0,0,0
+51439,7 Aug 2013,v Tallawahs,Port of Spain,1,0,0,0,0,0
+51439,9 Aug 2013,v Amazon,Port of Spain,2,0,0,0,0,0
+51439,11 Aug 2013,v Hawksbills,Port of Spain,2,1,1,0,0,1
+51439,17 Aug 2013,v Zouks,Kingston,1,0,0,0,0,0
+51439,18 Aug 2013,v Tallawahs,Kingston,2,0,0,0,0,0
+51439,22 Aug 2013,v Amazon,Port of Spain,2,0,0,0,0,0
+51439,22 Sep 2013,v Titans,Ranchi,1,1,1,0,0,1
+51439,26 Sep 2013,v SRH,Ranchi,2,0,0,0,0,0
+51439,28 Sep 2013,v Heat,Ranchi,1,0,0,0,0,0
+51439,2 Oct 2013,v Trinidad & T,Delhi,2,0,0,0,0,0
+51439,4 Oct 2013,v RR,Jaipur,1,0,0,0,0,0
+51439,11 Jan 2014,v New Zealand,Auckland,1,1,1,0,0,1
+51439,15 Jan 2014,v New Zealand,Wellington,2,0,0,0,0,0
+51439,18 Jan 2014,v Sixers,Melbourne (Docklands),1,0,0,0,0,0
+51439,22 Jan 2014,v Strikers,Adelaide,2,1,1,0,0,1
+51439,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+51439,21 Feb 2014,v Ireland,Kingston,2,1,1,0,0,1
+51439,9 Mar 2014,v England,Bridgetown,2,1,1,0,0,1
+51439,11 Mar 2014,v England,Bridgetown,1,1,1,0,0,1
+51439,13 Mar 2014,v England,Bridgetown,1,1,1,0,0,1
+51439,23 Mar 2014,v India,Mirpur,2,0,0,0,0,0
+51439,25 Mar 2014,v Bangladesh,Mirpur,2,3,3,0,0,3
+51439,28 Mar 2014,v Australia,Mirpur,1,2,2,0,0,2
+51439,1 Apr 2014,v Pakistan,Mirpur,2,1,1,0,0,1
+51439,3 Apr 2014,v Sri Lanka,Mirpur,1,1,1,0,0,1
+51439,18 Apr 2014,v Kings XI,Abu Dhabi,2,0,0,0,0,0
+51439,12 Jul 2014,v Tridents,St George's,1,2,2,0,0,2
+51439,17 Jul 2014,v Amazon,Providence,2,1,1,0,0,1
+51439,20 Jul 2014,v Hawksbills,North Sound,1,1,1,0,0,1
+51439,24 Jul 2014,v Amazon,Port of Spain,1,1,1,0,0,1
+51439,26 Jul 2014,v Tallawahs,Port of Spain,2,1,1,0,0,1
+51439,27 Jul 2014,v Zouks,Port of Spain,1,0,0,0,0,0
+51439,2 Aug 2014,v Zouks,Gros Islet,1,0,0,0,0,0
+51439,7 Aug 2014,v Tridents,Basseterre,1,1,1,0,0,1
+51439,9 Aug 2014,v Hawksbills,Basseterre,2,0,0,0,0,0
+51439,13 Aug 2014,v Tallawahs,Basseterre,2,0,0,0,0,0
+51439,27 Aug 2014,v Bangladesh,Basseterre,1,0,0,0,0,0
+51439,17 Sep 2014,v KKR,Hyderabad,2,1,1,0,0,1
+51439,22 Sep 2014,v Dolphins,Bengaluru,2,0,0,0,0,0
+51439,27 Sep 2014,v Scorchers,Bengaluru,2,1,1,0,0,1
+51439,2 Oct 2014,v Kings XI,Hyderabad,2,1,1,0,0,1
+51439,4 Oct 2014,v KKR,Bengaluru,1,0,0,0,0,0
+51439,5 Nov 2014,v Warriors,Durban,2,1,1,0,0,1
+51439,7 Nov 2014,v Cape Cobras,Cape Town,2,0,0,0,0,0
+51439,9 Nov 2014,v Titans,Durban,2,2,2,0,0,2
+51439,14 Nov 2014,v Warriors,Gqeberha,2,0,0,0,0,0
+51439,21 Nov 2014,v Cape Cobras,Durban,2,0,0,0,0,0
+51439,26 Nov 2014,v Titans,Benoni,1,0,0,0,0,0
+51439,28 Nov 2014,v Knights,Kimberley,1,0,0,0,0,0
+51439,30 Nov 2014,v Lions,Bloemfontein,1,1,1,0,0,1
+51439,19 Dec 2014,v Sixers,Sydney,2,1,1,0,0,1
+51439,26 Dec 2014,v Scorchers,W.A.C.A,1,1,1,0,0,1
+51439,30 Dec 2014,v Thunder,Melbourne (Docklands),1,0,0,0,0,0
+51439,3 Jan 2015,v Stars,Melbourne (Docklands),1,0,0,0,0,0
+51439,9 Jan 2015,v South Africa,Cape Town,1,1,1,0,0,1
+51439,11 Jan 2015,v South Africa,Johannesburg,1,1,1,0,0,1
+51439,14 Jan 2015,v South Africa,Durban,1,0,0,0,0,0
+51439,9 Apr 2015,v Daredevils,Chennai,2,1,1,0,0,1
+51439,11 Apr 2015,v SRH,Chennai,2,0,0,0,0,0
+51439,17 Apr 2015,v MI,Wankhede,1,1,1,0,0,1
+51439,19 Apr 2015,v RR,Ahmedabad,2,1,1,0,0,1
+51439,22 Apr 2015,v RCB,Bengaluru,2,2,2,0,0,2
+51439,25 Apr 2015,v Kings XI,Chennai,2,1,1,0,0,1
+51439,28 Apr 2015,v KKR,Chennai,2,2,2,0,0,2
+51439,30 Apr 2015,v KKR,Eden Gardens,2,1,1,0,0,1
+51439,2 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+51439,4 May 2015,v RCB,Chennai,2,0,0,0,0,0
+51439,8 May 2015,v MI,Chennai,2,0,0,0,0,0
+51439,10 May 2015,v RR,Chennai,2,3,3,0,0,3
+51439,12 May 2015,v Daredevils,Raipur,2,0,0,0,0,0
+51439,16 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+51439,19 May 2015,v MI,Wankhede,1,0,0,0,0,0
+51439,22 May 2015,v RCB,Ranchi,1,1,1,0,0,1
+51439,24 May 2015,v MI,Eden Gardens,1,0,0,0,0,0
+51439,21 Jun 2015,v Zouks,Gros Islet,1,0,0,0,0,0
+51439,25 Jun 2015,v Tridents,Bridgetown,2,0,0,0,0,0
+51439,4 Jul 2015,v Amazon,Basseterre,1,1,1,0,0,1
+51439,9 Jul 2015,v Tallawahs,Kingston,1,1,1,0,0,1
+51439,11 Jul 2015,v Patriots,Basseterre,1,1,1,0,0,1
+51439,14 Jul 2015,v Zouks,Port of Spain,2,1,1,0,0,1
+51439,16 Jul 2015,v Tridents,Port of Spain,2,0,0,0,0,0
+51439,18 Jul 2015,v Patriots,Port of Spain,2,0,0,0,0,0
+51439,19 Jul 2015,v Tallawahs,Port of Spain,2,1,1,0,0,1
+51439,21 Jul 2015,v Amazon,Providence,2,0,0,0,0,0
+51439,23 Jul 2015,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51439,25 Jul 2015,v Amazon,Port of Spain,1,1,1,0,0,1
+51439,26 Jul 2015,v Tridents,Port of Spain,2,0,0,0,0,0
+51439,9 Nov 2015,v Sri Lanka,Pallekele,1,0,0,0,0,0
+51439,11 Nov 2015,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+51439,15 Nov 2015,v Cape Cobras,Centurion,2,0,0,0,0,0
+51439,18 Nov 2015,v Titans,Durban,1,1,1,0,0,1
+51439,20 Nov 2015,v Warriors,East London,-,TDNF,-,-,-,-
+51439,22 Nov 2015,v Lions,Johannesburg,1,1,1,0,0,1
+51439,28 Nov 2015,v Knights,Gqeberha,2,1,1,0,0,1
+51439,4 Dec 2015,v Cape Cobras,Durban,1,0,0,0,0,0
+51439,9 Dec 2015,v Cape Cobras,Durban,2,2,2,0,0,2
+51439,12 Dec 2015,v Titans,Centurion,2,0,0,0,0,0
+51439,19 Dec 2015,v Heat,Brisbane,1,0,0,0,0,0
+51439,23 Dec 2015,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+51439,30 Dec 2015,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+51439,2 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+51439,4 Jan 2016,v Hurricanes,Hobart,1,0,0,0,0,0
+51439,9 Jan 2016,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+51439,11 Jan 2016,v Thunder,Sydney,1,0,0,0,0,0
+51439,18 Jan 2016,v Strikers,Melbourne (Docklands),1,2,2,0,0,2
+51439,5 Feb 2016,v Kings,Dubai (DICS),2,0,0,0,0,0
+51439,6 Feb 2016,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+51439,8 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51439,10 Feb 2016,v United,Sharjah,2,0,0,0,0,0
+51439,12 Feb 2016,v Kings,Sharjah,1,2,2,0,0,2
+51439,13 Feb 2016,v Zalmi,Sharjah,2,0,0,0,0,0
+51439,16 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51439,17 Feb 2016,v United,Dubai (DICS),2,0,0,0,0,0
+51439,16 Mar 2016,v England,Wankhede,1,0,0,0,0,0
+51439,20 Mar 2016,v Sri Lanka,Bengaluru,1,0,0,0,0,0
+51439,25 Mar 2016,v South Africa,Nagpur,1,0,0,0,0,0
+51439,27 Mar 2016,v Afghanistan,Nagpur,1,2,2,0,0,2
+51439,31 Mar 2016,v India,Wankhede,1,1,1,0,0,1
+51439,3 Apr 2016,v England,Eden Gardens,1,1,1,0,0,1
+51439,11 Apr 2016,v Kings XI,Mohali,1,0,0,0,0,0
+51439,14 Apr 2016,v Supergiants,Rajkot,1,0,0,0,0,0
+51439,16 Apr 2016,v MI,Wankhede,1,1,1,0,0,1
+51439,21 Apr 2016,v SRH,Rajkot,2,0,0,0,0,0
+51439,24 Apr 2016,v RCB,Rajkot,1,0,0,0,0,0
+51439,27 Apr 2016,v Daredevils,Delhi,2,1,1,0,0,1
+51439,29 Apr 2016,v Supergiants,Pune,1,0,0,0,0,0
+51439,1 May 2016,v Kings XI,Rajkot,1,1,1,0,0,1
+51439,6 May 2016,v SRH,Hyderabad,2,0,0,0,0,0
+51439,8 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+51439,14 May 2016,v RCB,Bengaluru,1,1,1,0,0,1
+51439,19 May 2016,v KKR,Kanpur,1,0,0,0,0,0
+51439,21 May 2016,v MI,Kanpur,1,2,2,0,0,2
+51439,24 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+51439,27 May 2016,v SRH,Delhi,2,0,0,0,0,0
+51439,3 Jun 2016,v Sussex,Hove,2,0,0,0,0,0
+51439,9 Jun 2016,v Hampshire,The Oval,2,3,3,0,0,3
+51439,10 Jun 2016,v Somerset,Taunton,2,1,1,0,0,1
+51439,17 Jun 2016,v Middlesex,The Oval,2,1,1,0,0,1
+51439,24 Jun 2016,v Glamorgan,Cardiff,2,0,0,0,0,0
+51439,25 Jun 2016,v Essex,The Oval,2,0,0,0,0,0
+51439,29 Jun 2016,v Zouks,Port of Spain,2,0,0,0,0,0
+51439,1 Jul 2016,v Tridents,Port of Spain,2,1,1,0,0,1
+51439,2 Jul 2016,v Amazon,Port of Spain,2,0,0,0,0,0
+51439,4 Jul 2016,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51439,10 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+51439,16 Jul 2016,v Tridents,Bridgetown,1,0,0,0,0,0
+51439,18 Jul 2016,v Tallawahs,Kingston,1,1,1,0,0,1
+51439,26 Jul 2016,v Zouks,Gros Islet,1,1,1,0,0,1
+51439,29 Jul 2016,v Patriots,Lauderhill,1,1,1,0,0,1
+51439,31 Jul 2016,v Patriots,Lauderhill,1,1,1,0,0,1
+51439,4 Aug 2016,v Zouks,Basseterre,1,3,3,0,0,3
+51439,5 Aug 2016,v Tallawahs,Basseterre,1,0,0,0,0,0
+51439,27 Aug 2016,v India,Lauderhill,2,1,1,0,0,1
+51439,28 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+51439,23 Sep 2016,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+51439,24 Sep 2016,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+51439,27 Sep 2016,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+51439,8 Nov 2016,v Bulls,Mirpur,1,1,1,0,0,1
+51439,11 Nov 2016,v Kings,Mirpur,2,0,0,0,0,0
+51439,12 Nov 2016,v Rangpur,Mirpur,2,0,0,0,0,0
+51439,14 Nov 2016,v Victorians,Mirpur,2,0,0,0,0,0
+51439,17 Nov 2016,v Chattogram,Chattogram,2,0,0,0,0,0
+51439,19 Nov 2016,v Khulna,Chattogram,1,1,1,0,0,1
+51439,21 Nov 2016,v Kings,Chattogram,2,2,2,0,0,2
+51439,26 Nov 2016,v Victorians,Mirpur,2,0,0,0,0,0
+51439,27 Nov 2016,v Bulls,Mirpur,1,0,0,0,0,0
+51439,30 Nov 2016,v Rangpur,Mirpur,2,0,0,0,0,0
+51439,2 Dec 2016,v Chattogram,Mirpur,1,0,0,0,0,0
+51439,6 Dec 2016,v Khulna,Mirpur,2,1,1,0,0,1
+51439,9 Dec 2016,v Kings,Mirpur,2,1,1,0,0,1
+51439,22 Dec 2016,v Thunder,Melbourne (Docklands),2,0,0,0,0,0
+51439,29 Dec 2016,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+51439,4 Aug 2017,v Stars,Gros Islet,1,0,0,0,0,0
+51439,7 Aug 2017,v Stars,Port of Spain,1,0,0,0,0,0
+51439,9 Aug 2017,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51439,11 Aug 2017,v Amazon,Port of Spain,1,0,0,0,0,0
+51439,12 Aug 2017,v Tridents,Port of Spain,1,1,1,0,0,1
+51439,14 Aug 2017,v Patriots,Port of Spain,1,2,2,0,0,2
+51439,19 Aug 2017,v Amazon,Providence,1,0,0,0,0,0
+51439,23 Aug 2017,v Patriots,Basseterre,1,0,0,0,0,0
+51439,26 Aug 2017,v Tallawahs,Kingston,2,0,0,0,0,0
+51439,2 Sep 2017,v Tridents,Bridgetown,1,1,1,0,0,1
+51439,5 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+51439,7 Sep 2017,v Amazon,Tarouba,1,0,0,0,0,0
+51439,9 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+51439,5 Nov 2017,v Sylhet,Sylhet,2,0,0,0,0,0
+51439,7 Nov 2017,v Chattogram,Sylhet,1,1,1,0,0,1
+51439,12 Nov 2017,v Kings,Mirpur,1,0,0,0,0,0
+51439,14 Nov 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+51439,28 Nov 2017,v Khulna,Chattogram,1,1,1,0,0,1
+51439,29 Nov 2017,v Dynamites,Chattogram,2,1,1,0,0,1
+51439,8 Dec 2017,v Dynamites,Mirpur,1,0,0,0,0,0
+51439,21 Dec 2017,v Hurricanes,Hobart,1,0,0,0,0,0
+51439,23 Dec 2017,v Heat,Melbourne (Docklands),1,0,0,0,0,0
+51439,29 Dec 2017,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+51439,3 Jan 2018,v Sixers,Geelong,1,1,1,0,0,1
+51439,6 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+51439,8 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+51439,12 Jan 2018,v Stars,Melbourne (Docklands),1,0,0,0,0,0
+51439,22 Jan 2018,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+51439,24 Jan 2018,v Thunder,Canberra,2,0,0,0,0,0
+51439,27 Jan 2018,v Heat,Brisbane,2,2,2,0,0,2
+51439,2 Feb 2018,v Strikers,Adelaide,1,0,0,0,0,0
+51439,7 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+51439,10 Apr 2018,v KKR,Chennai,1,1,1,0,0,1
+51439,15 Apr 2018,v Kings XI,Mohali,1,1,1,0,0,1
+51439,20 Apr 2018,v RR,Pune,2,0,0,0,0,0
+51439,22 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+51439,25 Apr 2018,v RCB,Bengaluru,1,1,1,0,0,1
+51439,28 Apr 2018,v MI,Pune,2,0,0,0,0,0
+51439,30 Apr 2018,v Daredevils,Pune,2,0,0,0,0,0
+51439,3 May 2018,v KKR,Eden Gardens,2,2,2,0,0,2
+51439,5 May 2018,v RCB,Pune,1,0,0,0,0,0
+51439,11 May 2018,v RR,Jaipur,2,1,1,0,0,1
+51439,13 May 2018,v SRH,Pune,1,1,1,0,0,1
+51439,18 May 2018,v Daredevils,Delhi,1,1,1,0,0,1
+51439,20 May 2018,v Kings XI,Pune,1,0,0,0,0,0
+51439,22 May 2018,v SRH,Wankhede,1,1,1,0,0,1
+51439,27 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+51439,5 Jul 2018,v Surrey,Lord's,1,0,0,0,0,0
+51439,6 Jul 2018,v Essex,Chelmsford,2,0,0,0,0,0
+51439,8 Jul 2018,v Gloucs,Uxbridge,2,0,0,0,0,0
+51439,19 Jul 2018,v Somerset,Lord's,2,0,0,0,0,0
+51439,20 Jul 2018,v Hampshire,Southampton,1,1,1,0,0,1
+51439,26 Jul 2018,v Hampshire,Lord's,2,0,0,0,0,0
+51439,8 Aug 2018,v Stars,Port of Spain,2,0,0,0,0,0
+51439,10 Aug 2018,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51439,11 Aug 2018,v Patriots,Port of Spain,1,1,1,0,0,1
+51439,16 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+51439,19 Aug 2018,v Tallawahs,Lauderhill,1,3,3,0,0,3
+51439,26 Aug 2018,v Tridents,Bridgetown,1,2,2,0,0,2
+51439,1 Sep 2018,v Patriots,Basseterre,2,0,0,0,0,0
+51439,5 Sep 2018,v Amazon,Port of Spain,2,0,0,0,0,0
+51439,7 Sep 2018,v Tridents,Port of Spain,2,0,0,0,0,0
+51439,9 Sep 2018,v Amazon,Providence,2,1,1,0,0,1
+51439,11 Sep 2018,v Amazon,Providence,2,2,2,0,0,2
+51439,14 Sep 2018,v Patriots,Tarouba,2,0,0,0,0,0
+51439,16 Sep 2018,v Amazon,Tarouba,1,1,1,0,0,1
+51439,18 Nov 2018,v Spartans,Paarl,1,0,0,0,0,0
+51439,5 Dec 2018,v Spartans,Centurion,2,0,0,0,0,0
+51439,7 Dec 2018,v Blitz,Cape Town,2,0,0,0,0,0
+51439,9 Dec 2018,v Jozi Stars,Johannesburg,1,2,2,0,0,2
+51439,12 Dec 2018,v Giants,Paarl,1,1,1,0,0,1
+51439,14 Dec 2018,v Jozi Stars,Johannesburg,-,TDNF,-,-,-,-
+51439,21 Dec 2018,v Thunder,Canberra,1,0,0,0,0,0
+51439,24 Dec 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+51439,27 Dec 2018,v Sixers,Sydney,1,1,1,0,0,1
+51439,1 Jan 2019,v Renegades,Melbourne,1,0,0,0,0,0
+51439,5 Jan 2019,v Thunder,Carrara,1,0,0,0,0,0
+51439,9 Jan 2019,v Scorchers,Melbourne,2,0,0,0,0,0
+51439,11 Jan 2019,v Strikers,Adelaide,1,0,0,0,0,0
+51439,14 Jan 2019,v Hurricanes,Melbourne,1,0,0,0,0,0
+51439,19 Jan 2019,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+51439,23 Jan 2019,v Strikers,Moe,2,1,1,0,0,1
+51439,27 Jan 2019,v Heat,Melbourne,2,1,1,0,0,1
+51439,3 Feb 2019,v Scorchers,Perth,1,0,0,0,0,0
+51439,8 Feb 2019,v Heat,Brisbane,2,0,0,0,0,0
+51439,10 Feb 2019,v Sixers,Melbourne,2,2,2,0,0,2
+51439,14 Feb 2019,v Hurricanes,Hobart,1,0,0,0,0,0
+51439,17 Feb 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+51439,1 Mar 2019,v Sultans,Dubai (DICS),1,1,1,0,0,1
+51439,4 Mar 2019,v Zalmi,Abu Dhabi,1,0,0,0,0,0
+51439,5 Mar 2019,v United,Abu Dhabi,2,1,1,0,0,1
+51439,10 Mar 2019,v Kings,Karachi,1,0,0,0,0,0
+51439,13 Mar 2019,v Zalmi,Karachi,2,0,0,0,0,0
+51439,17 Mar 2019,v Zalmi,Karachi,1,0,0,0,0,0
+51439,23 Mar 2019,v RCB,Chennai,1,0,0,0,0,0
+51439,26 Mar 2019,v DC,Delhi,1,0,0,0,0,0
+51439,31 Mar 2019,v RR,Chennai,2,1,1,0,0,1
+51439,3 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+51439,21 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+51439,23 Apr 2019,v SRH,Chennai,1,0,0,0,0,0
+51439,26 Apr 2019,v MI,Chennai,1,1,1,0,0,1
+51439,1 May 2019,v DC,Chennai,2,1,1,0,0,1
+51439,5 May 2019,v Kings XI,Mohali,2,0,0,0,0,0
+51439,7 May 2019,v MI,Chennai,2,0,0,0,0,0
+51439,10 May 2019,v DC,Visakhapatnam,1,2,2,0,0,2
+51439,12 May 2019,v MI,Hyderabad,1,0,0,0,0,0
+51439,15 Jan 2020,v Ireland,St George's,1,1,1,0,0,1
+51439,18 Jan 2020,v Ireland,Basseterre,1,0,0,0,0,0
+51439,19 Jan 2020,v Ireland,Basseterre,1,0,0,0,0,0
+51439,4 Mar 2020,v Sri Lanka,Pallekele,2,0,0,0,0,0
+51439,6 Mar 2020,v Sri Lanka,Pallekele,1,0,0,0,0,0
+51439,18 Aug 2020,v Amazon,Tarouba,1,1,1,0,0,1
+51439,20 Aug 2020,v Tallawahs,Tarouba,1,2,2,0,0,2
+51439,23 Aug 2020,v Tridents,Tarouba,2,0,0,0,0,0
+51439,26 Aug 2020,v Zouks,Port of Spain,1,0,0,0,0,0
+51439,27 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+51439,1 Sep 2020,v Tallawahs,Tarouba,2,0,0,0,0,0
+51439,2 Sep 2020,v Patriots,Tarouba,2,0,0,0,0,0
+51439,5 Sep 2020,v Zouks,Tarouba,2,1,1,0,0,1
+51439,8 Sep 2020,v Tallawahs,Tarouba,1,2,2,0,0,2
+51439,10 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+51439,2 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+51439,4 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+51439,7 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+51439,10 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+51439,13 Oct 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+51439,17 Oct 2020,v DC,Sharjah,2,0,0,0,0,0
+51439,3 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+51439,5 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+51439,7 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+51439,10 Apr 2021,v DC,Wankhede,2,0,0,0,0,0
+51439,16 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+51439,19 Apr 2021,v RR,Wankhede,2,1,1,0,0,1
+51439,25 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+51439,26 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+51439,27 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+51439,29 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+51439,1 Jul 2021,v South Africa,St George's,2,0,0,0,0,0
+51439,3 Jul 2021,v South Africa,St George's,1,1,1,0,0,1
+51439,9 Jul 2021,v Australia,Gros Islet,2,3,3,0,0,3
+51439,10 Jul 2021,v Australia,Gros Islet,2,2,2,0,0,2
+51439,12 Jul 2021,v Australia,Gros Islet,1,0,0,0,0,0
+51439,28 Jul 2021,v Pakistan,Bridgetown,-,TDNF,-,-,-,-
+51439,31 Jul 2021,v Pakistan,Providence,1,1,1,0,0,1
+51439,1 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+51439,3 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+51439,26 Aug 2021,v Royals,Basseterre,2,1,1,0,0,1
+51439,28 Aug 2021,v Amazon,Basseterre,1,0,0,0,0,0
+51439,29 Aug 2021,v Amazon,Basseterre,1,0,0,0,0,0
+51439,1 Sep 2021,v Tallawahs,Basseterre,1,3,3,0,0,3
+51439,2 Sep 2021,v Royals,Basseterre,1,0,0,0,0,0
+51439,4 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+51439,11 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+51439,12 Sep 2021,v Trinbago,Basseterre,2,1,1,0,0,1
+51439,14 Sep 2021,v Amazon,Basseterre,1,0,0,0,0,0
+51439,15 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+51439,19 Sep 2021,v MI,Dubai (DICS),2,0,0,0,0,0
+51439,24 Sep 2021,v RCB,Sharjah,1,0,0,0,0,0
+51439,30 Sep 2021,v SRH,Sharjah,1,0,0,0,0,0
+51439,4 Oct 2021,v DC,Dubai (DICS),2,0,0,0,0,0
+51439,7 Oct 2021,v Punjab Kings,Dubai (DICS),2,1,1,0,0,1
+51439,10 Oct 2021,v DC,Dubai (DICS),1,0,0,0,0,0
+51439,15 Oct 2021,v KKR,Dubai (DICS),2,0,0,0,0,0
+51439,23 Oct 2021,v England,Dubai (DICS),2,0,0,0,0,0
+51439,26 Oct 2021,v South Africa,Dubai (DICS),2,0,0,0,0,0
+51439,29 Oct 2021,v Bangladesh,Sharjah,2,0,0,0,0,0
+51439,4 Nov 2021,v Sri Lanka,Abu Dhabi,1,0,0,0,0,0
+51439,6 Nov 2021,v Australia,Abu Dhabi,2,0,0,0,0,0
+51439,21 Jan 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+51439,24 Jan 2022,v Dhaka,Mirpur,2,1,1,0,0,1
+51439,25 Jan 2022,v Victorians,Mirpur,1,0,0,0,0,0
+51439,31 Jan 2022,v Khulna,Chattogram,2,0,0,0,0,0
+51439,1 Feb 2022,v Chattogram,Chattogram,2,0,0,0,0,0
+51439,7 Feb 2022,v Victorians,Sylhet,2,2,2,0,0,2
+51439,8 Feb 2022,v Sunrisers,Sylhet,2,1,1,0,0,1
+51439,11 Feb 2022,v Dhaka,Mirpur,1,0,0,0,0,0
+51439,14 Feb 2022,v Victorians,Mirpur,2,0,0,0,0,0
+51439,18 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0
+51439,26 Mar 2022,v KKR,Wankhede,2,0,0,0,0,0
+51439,31 Mar 2022,v LSG,Brabourne,2,1,1,0,0,1
+51439,3 Apr 2022,v Punjab Kings,Brabourne,1,2,2,0,0,2
+51439,9 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+51439,12 Apr 2022,v RCB,DY Patil,2,0,0,0,0,0
+51439,17 Apr 2022,v GT,Pune,2,0,0,0,0,0
+51439,21 Apr 2022,v MI,DY Patil,1,0,0,0,0,0
+51439,25 Apr 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+51439,8 May 2022,v DC,DY Patil,2,0,0,0,0,0
+51439,12 May 2022,v MI,Wankhede,2,0,0,0,0,0
+51439,3 Jun 2022,v Bears,Worcester,2,0,0,0,0,0
+51439,5 Jun 2022,v Leics,Worcester,1,0,0,0,0,0
+51439,9 Jun 2022,v Northants,Northampton,1,0,0,0,0,0
+51439,10 Jun 2022,v Derbyshire,Worcester,1,1,1,0,0,1
+51439,17 Jun 2022,v Leics,Leicester,2,0,0,0,0,0
+51439,18 Jun 2022,v Northants,Worcester,-,TDNF,-,-,-,-
+51439,23 Jun 2022,v Yorkshire,Worcester,2,1,1,0,0,1
+51439,24 Jun 2022,v Bears,Birmingham,1,0,0,0,0,0
+51439,1 Jul 2022,v Lancashire,Worcester,2,1,1,0,0,1
+51439,3 Jul 2022,v Notts,Worcester,2,0,0,0,0,0
+51439,5 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+51439,9 Aug 2022,v Rockets,Leeds,2,0,0,0,0,0
+51439,11 Aug 2022,v Invincibles,The Oval,2,1,1,0,0,1
+51439,14 Aug 2022,v Spirit,Leeds,2,0,0,0,0,0
+51439,19 Aug 2022,v Phoenix,Birmingham,2,0,0,0,0,0
+51439,21 Aug 2022,v Originals,Leeds,1,0,0,0,0,0
+51439,31 Aug 2022,v Tallawahs,Basseterre,1,0,0,0,0,0
+51439,1 Sep 2022,v Royals,Basseterre,2,1,1,0,0,1
+51439,3 Sep 2022,v Trinbago,Basseterre,-,TDNF,-,-,-,-
+51439,8 Sep 2022,v Amazon,Gros Islet,1,1,1,0,0,1
+51439,14 Sep 2022,v Tallawahs,Port of Spain,1,0,0,0,0,0
+51439,17 Sep 2022,v Kings,Tarouba,1,0,0,0,0,0
+51439,21 Sep 2022,v Royals,Providence,1,1,1,0,0,1
+51439,22 Sep 2022,v Trinbago,Providence,2,1,1,0,0,1
+51439,12 Feb 2023,v Barishal,Mirpur,1,0,0,0,0,0
+51439,14 Feb 2023,v Strikers,Mirpur,1,1,1,0,0,1
+51439,19 Aug 2023,v Patriots,Gros Islet,-,TDNF,-,-,-,-
+51439,26 Aug 2023,v Kings,Basseterre,1,0,0,0,0,0
+51439,27 Aug 2023,v Patriots,Basseterre,1,2,2,0,0,2
+51439,30 Aug 2023,v Royals,Bridgetown,2,2,2,0,0,2
+51439,20 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+51439,24 Sep 2023,v Amazon,Providence,2,0,0,0,0,0
+51439,20 Jan 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+51439,21 Jan 2024,v Gulf Giants,Abu Dhabi,2,2,2,0,0,2
+51439,23 Jan 2024,v KnightRiders,Abu Dhabi,1,2,2,0,0,2
+51439,26 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+51439,28 Jan 2024,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+51439,30 Jan 2024,v Vipers,Dubai (DICS),2,1,1,0,0,1
+51439,10 Feb 2024,v DC,Abu Dhabi,1,1,1,0,0,1
+51439,14 Feb 2024,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+51439,17 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+51439,8 Jul 2024,v Washington,Morrisville,2,0,0,0,0,0
+51439,10 Jul 2024,v SF,Morrisville,1,0,0,0,0,0
+51439,14 Jul 2024,v MI New York,Dallas,2,1,1,0,0,1
+51439,19 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+51439,24 Jul 2024,v MI New York,Dallas,1,0,0,0,0,0
+51439,31 Aug 2024,v Patriots,Basseterre,2,1,1,0,0,1
+51439,18 Sep 2024,v Amazon,Port of Spain,1,1,1,0,0,1
+51439,22 Sep 2024,v Patriots,Tarouba,1,1,1,0,0,1
+51439,24 Sep 2024,v Kings,Tarouba,1,0,0,0,0,0

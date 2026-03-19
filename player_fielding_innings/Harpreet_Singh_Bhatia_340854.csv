@@ -1,0 +1,110 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+340854,22 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+340854,20 Oct 2010,v UP,Jaipur,1,0,0,0,0,0
+340854,22 Oct 2010,v Vidarbha,Jaipur,1,1,1,0,0,1
+340854,24 Oct 2010,v Rajasthan,Jaipur,2,0,0,0,0,0
+340854,25 Oct 2010,v Railways,Jaipur,2,1,1,0,0,1
+340854,13 Mar 2011,v Orissa,Hyderabad,1,1,1,0,0,1
+340854,15 Mar 2011,v Haryana,Hyderabad,1,0,0,0,0,0
+340854,16 Mar 2011,v Bengal,Hyderabad,1,0,0,0,0,0
+340854,29 Apr 2011,v RCB,Bengaluru,1,2,2,0,0,2
+340854,1 May 2011,v RR,Jaipur,2,0,0,0,0,0
+340854,20 Oct 2011,v Railways,Indore,2,0,0,0,0,0
+340854,21 Oct 2011,v Rajasthan,Indore,1,2,2,0,0,2
+340854,22 Oct 2011,v Vidarbha,Indore,2,0,0,0,0,0
+340854,25 Oct 2011,v UP,Indore,2,0,0,0,0,0
+340854,25 Mar 2012,v Punjab,Mumbai,2,0,0,0,0,0
+340854,19 May 2012,v KKR,Pune,1,0,0,0,0,0
+340854,18 Mar 2013,v Vidarbha,Nagpur,1,0,0,0,0,0
+340854,19 Mar 2013,v UP,Nagpur,1,0,0,0,0,0
+340854,21 Mar 2013,v Railways,Nagpur,1,1,1,0,0,1
+340854,22 Mar 2013,v Rajasthan,Nagpur,1,0,0,0,0,0
+340854,31 Mar 2014,v Rajasthan,Nagpur,1,1,1,0,0,1
+340854,1 Apr 2014,v Railways,Nagpur,1,2,2,0,0,2
+340854,2 Apr 2014,v UP,Nagpur,2,0,0,0,0,0
+340854,4 Apr 2014,v Vidarbha,Nagpur,2,1,1,0,0,1
+340854,24 Mar 2015,v Rajasthan,Indore,1,2,2,0,0,2
+340854,25 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+340854,27 Mar 2015,v UP,Indore,2,1,1,0,0,1
+340854,28 Mar 2015,v Vidarbha,Indore,1,0,0,0,0,0
+340854,2 Apr 2015,v Jharkhand,Bhubaneswar,2,0,0,0,0,0
+340854,3 Apr 2015,v Andhra,Bhubaneswar,1,1,1,0,0,1
+340854,4 Apr 2015,v Gujarat,Bhubaneswar,2,0,0,0,0,0
+340854,5 Apr 2015,v Himachal,Bhubaneswar,1,1,1,0,0,1
+340854,2 Jan 2016,v Andhra,Vadodara,1,1,1,0,0,1
+340854,3 Jan 2016,v Goa,Vadodara,1,1,1,0,0,1
+340854,4 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+340854,6 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+340854,7 Jan 2016,v Baroda,Vadodara,1,1,1,0,0,1
+340854,10 Jan 2016,v Assam,Vadodara,1,0,0,0,0,0
+340854,29 Jan 2017,v Railways,Jaipur,1,0,0,0,0,0
+340854,30 Jan 2017,v Rajasthan,Jaipur,2,0,0,0,0,0
+340854,3 Feb 2017,v UP,Jaipur,2,2,2,0,0,2
+340854,4 Feb 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+340854,6 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+340854,12 Feb 2017,v West Zone,Wankhede,1,2,2,0,0,2
+340854,13 Feb 2017,v East Zone,Wankhede,2,1,1,0,0,1
+340854,15 Feb 2017,v North Zone,Wankhede,2,1,1,0,0,1
+340854,18 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+340854,8 Jan 2018,v Rajasthan,Raipur,1,0,0,0,0,0
+340854,10 Jan 2018,v UP,Raipur,1,0,0,0,0,0
+340854,12 Jan 2018,v Vidarbha,Raipur,1,0,0,0,0,0
+340854,14 Jan 2018,v Chhattisgarh,Raipur,1,1,1,0,0,1
+340854,15 Jan 2018,v Railways,Raipur,2,0,0,0,0,0
+340854,21 Feb 2019,v Odisha,Cuttack,1,0,0,0,0,0
+340854,22 Feb 2019,v Arunachal,Cuttack,2,3,3,0,0,3
+340854,24 Feb 2019,v Assam,Cuttack,2,0,0,0,0,0
+340854,25 Feb 2019,v Haryana,Cuttack,1,1,1,0,0,1
+340854,27 Feb 2019,v Karnataka,Cuttack,2,1,1,0,0,1
+340854,28 Feb 2019,v Bengal,Cuttack,1,0,0,0,0,0
+340854,2 Mar 2019,v Mizoram,Cuttack,2,0,0,0,0,0
+340854,8 Nov 2019,v Arunachal,Chandigarh,1,0,0,0,0,0
+340854,9 Nov 2019,v Himachal,Chandigarh,1,1,1,0,0,1
+340854,11 Nov 2019,v Railways,Chandigarh,2,2,2,0,0,2
+340854,12 Nov 2019,v Maharashtra,Chandigarh,2,0,0,0,0,0
+340854,14 Nov 2019,v Chandigarh,Chandigarh,2,0,0,0,0,0
+340854,15 Nov 2019,v Punjab,Chandigarh,1,0,0,0,0,0
+340854,17 Nov 2019,v Hyderabad,Chandigarh,1,1,1,0,0,1
+340854,10 Jan 2021,v Himachal,Vadodara,1,1,1,0,0,1
+340854,12 Jan 2021,v Maharashtra,Vadodara,2,0,0,0,0,0
+340854,14 Jan 2021,v Baroda,Vadodara,2,0,0,0,0,0
+340854,16 Jan 2021,v Gujarat,Vadodara,2,1,1,0,0,1
+340854,18 Jan 2021,v Uttarakhand,Vadodara,1,0,0,0,0,0
+340854,11 Oct 2022,v Tamil Nadu,Lucknow,2,3,3,0,0,3
+340854,16 Oct 2022,v Sikkim,Lucknow,1,0,0,0,0,0
+340854,18 Oct 2022,v Chandigarh,Lucknow,1,0,0,0,0,0
+340854,20 Oct 2022,v Bengal,Lucknow,1,1,1,0,0,1
+340854,22 Oct 2022,v Odisha,Lucknow,2,0,0,0,0,0
+340854,30 Oct 2022,v Vidarbha,Kolkata,2,0,0,0,0,0
+340854,15 Apr 2023,v LSG,Lucknow,1,1,1,0,0,1
+340854,20 Apr 2023,v RCB,Mohali,1,0,0,0,0,0
+340854,22 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+340854,16 Oct 2023,v Mizoram,Jaipur,2,0,0,0,0,0
+340854,17 Oct 2023,v Haryana,Jaipur,1,1,1,0,0,1
+340854,19 Oct 2023,v Hyderabad,Jaipur,2,0,0,0,0,0
+340854,21 Oct 2023,v Meghalaya,Jaipur,2,0,0,0,0,0
+340854,23 Oct 2023,v Mumbai,Jaipur,2,1,1,0,0,1
+340854,25 Oct 2023,v Baroda,Jaipur,2,0,0,0,0,0
+340854,27 Oct 2023,v J & K,Jaipur,1,1,1,0,0,1
+340854,18 Apr 2024,v MI,New Chandigarh,1,0,0,0,0,0
+340854,21 Apr 2024,v GT,New Chandigarh,2,0,0,0,0,0
+340854,23 Nov 2024,v Mizoram,Rajkot,2,1,1,0,0,1
+340854,25 Nov 2024,v Meghalaya,Saurashtra,2,2,2,0,0,2
+340854,27 Nov 2024,v Punjab,Rajkot,2,0,0,0,0,0
+340854,29 Nov 2024,v Bengal,Saurashtra,1,1,1,0,0,1
+340854,1 Dec 2024,v Rajasthan,Saurashtra,2,0,0,0,0,0
+340854,3 Dec 2024,v Hyderabad,Rajkot,2,0,0,0,0,0
+340854,5 Dec 2024,v Bihar,Rajkot,1,1,1,0,0,1
+340854,11 Dec 2024,v Saurashtra,Alur,1,0,0,0,0,0
+340854,13 Dec 2024,v Delhi,Bengaluru,1,0,0,0,0,0
+340854,15 Dec 2024,v Mumbai,Bengaluru,2,0,0,0,0,0
+340854,26 Nov 2025,v Hyderabad,Jadavpur Uni,2,0,0,0,0,0
+340854,28 Nov 2025,v Bihar,Eden Gardens,2,4,4,0,0,4
+340854,30 Nov 2025,v UP,Jadavpur Uni,2,1,1,0,0,1
+340854,2 Dec 2025,v Goa,Jadavpur Uni,2,1,1,0,0,1
+340854,4 Dec 2025,v Maharashtra,Eden Gardens,2,0,0,0,0,0
+340854,6 Dec 2025,v Chandigarh,Jadavpur Uni,1,0,0,0,0,0
+340854,8 Dec 2025,v J & K,Eden Gardens,1,0,0,0,0,0
+340854,12 Dec 2025,v Andhra,Ambi,1,0,0,0,0,0
+340854,14 Dec 2025,v Jharkhand,Pune,1,1,1,0,0,1
+340854,16 Dec 2025,v Punjab,Ambi,2,1,1,0,0,1

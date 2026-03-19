@@ -1,0 +1,157 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+297583,2 Feb 2011,v Knights,Bloemfontein,2,0,0,0,0,0
+297583,4 Feb 2011,v Warriors,East London,2,0,0,0,0,0
+297583,11 Feb 2011,v Cape Cobras,Durban,2,1,1,0,0,1
+297583,13 Feb 2011,v Titans,Centurion,2,0,0,0,0,0
+297583,20 Feb 2011,v Lions,Durban,1,0,0,0,0,0
+297583,25 Feb 2011,v Warriors,Gqeberha,2,0,0,0,0,0
+297583,4 Mar 2011,v Warriors,Durban,2,1,1,0,0,1
+297583,19 Feb 2012,v Impi,Pietermaritzburg,2,0,0,0,0,0
+297583,22 Feb 2012,v Knights,Bloemfontein,2,0,0,0,0,0
+297583,24 Feb 2012,v Titans,Durban,2,0,0,0,0,0
+297583,26 Feb 2012,v Cape Cobras,Paarl,2,0,0,0,0,0
+297583,2 Mar 2012,v Warriors,Durban,2,0,0,0,0,0
+297583,7 Mar 2012,v Impi,Benoni,-,TDNF,-,-,-,-
+297583,9 Mar 2012,v Titans,Centurion,1,0,0,0,0,0
+297583,14 Mar 2012,v Knights,Durban,1,1,1,0,0,1
+297583,16 Mar 2012,v Lions,Johannesburg,1,0,0,0,0,0
+297583,21 Mar 2012,v Cape Cobras,Durban,1,0,0,0,0,0
+297583,3 Mar 2013,v Pakistan,Centurion,1,0,0,0,0,0
+297583,22 Mar 2013,v Titans,Centurion,2,1,1,0,0,1
+297583,28 Mar 2013,v Lions,Johannesburg,1,0,0,0,0,0
+297583,5 Jan 2014,v Titans,Cape Town,2,0,0,0,0,0
+297583,10 Jan 2014,v Knights,Kimberley,1,0,0,0,0,0
+297583,17 Jan 2014,v Warriors,Gqeberha,1,0,0,0,0,0
+297583,19 Jan 2014,v Cape Cobras,Durban,1,0,0,0,0,0
+297583,22 Jan 2014,v Lions,Durban,2,0,0,0,0,0
+297583,24 Jan 2014,v Cape Cobras,Paarl,2,1,1,0,0,1
+297583,26 Jan 2014,v Warriors,Durban,1,0,0,0,0,0
+297583,29 Jan 2014,v Titans,Centurion,1,1,1,0,0,1
+297583,31 Jan 2014,v Knights,Durban,2,0,0,0,0,0
+297583,2 Feb 2014,v Lions,Johannesburg,1,0,0,0,0,0
+297583,6 Feb 2014,v Titans,Durban,2,1,1,0,0,1
+297583,9 Feb 2014,v Cape Cobras,Cape Town,2,0,0,0,0,0
+297583,12 Mar 2014,v Australia,Durban,2,1,1,0,0,1
+297583,16 May 2014,v Glamorgan,Southampton,1,1,1,0,0,1
+297583,23 May 2014,v Sussex,Hove,2,0,0,0,0,0
+297583,25 May 2014,v Middlesex,Northwood,2,0,0,0,0,0
+297583,30 May 2014,v Essex,Southampton,1,0,0,0,0,0
+297583,5 Jun 2014,v Kent,Southampton,2,0,0,0,0,0
+297583,13 Jun 2014,v Somerset,Taunton,1,1,1,0,0,1
+297583,20 Jun 2014,v Gloucs,Southampton,2,0,0,0,0,0
+297583,25 Jun 2014,v Glamorgan,Cardiff,2,0,0,0,0,0
+297583,27 Jun 2014,v Surrey,The Oval,2,0,0,0,0,0
+297583,4 Jul 2014,v Kent,Canterbury,2,0,0,0,0,0
+297583,6 Jul 2014,v Somerset,Southampton,1,0,0,0,0,0
+297583,3 Aug 2014,v Notts,Nottingham,1,0,0,0,0,0
+297583,20 Sep 2014,v Scorchers,Mohali,2,0,0,0,0,0
+297583,22 Sep 2014,v CSK,Bengaluru,1,0,0,0,0,0
+297583,27 Sep 2014,v Lahore Lions,Bengaluru,1,0,0,0,0,0
+297583,29 Sep 2014,v KKR,Hyderabad,1,0,0,0,0,0
+297583,2 Nov 2014,v CA XI,North Sydney,1,2,2,0,0,2
+297583,5 Nov 2014,v Australia,Adelaide,1,0,0,0,0,0
+297583,7 Nov 2014,v Australia,Melbourne,2,2,2,0,0,2
+297583,9 Nov 2014,v Australia,Sydney,2,0,0,0,0,0
+297583,9 Jan 2015,v West Indies,Cape Town,2,2,2,0,0,2
+297583,11 Jan 2015,v West Indies,Johannesburg,2,0,0,0,0,0
+297583,14 Jan 2015,v West Indies,Durban,2,1,1,0,0,1
+297583,28 May 2015,v Kent,Lord's,2,2,2,0,0,2
+297583,29 May 2015,v Sussex,Hove,2,0,0,0,0,0
+297583,5 Jun 2015,v Glamorgan,Cardiff,1,1,1,0,0,1
+297583,14 Jun 2015,v Gloucs,Richmond,1,0,0,0,0,0
+297583,18 Jun 2015,v Hampshire,Lord's,1,0,0,0,0,0
+297583,26 Jun 2015,v Somerset,Uxbridge,2,0,0,0,0,0
+297583,5 Jul 2015,v Bangladesh,Mirpur,2,0,0,0,0,0
+297583,7 Jul 2015,v Bangladesh,Mirpur,2,0,0,0,0,0
+297583,14 Aug 2015,v New Zealand,Durban,1,0,0,0,0,0
+297583,16 Aug 2015,v New Zealand,Centurion,1,1,1,0,0,1
+297583,11 Sep 2015,v North West,Potchefstroom,2,1,1,0,0,1
+297583,12 Sep 2015,v Boland,Potchefstroom,2,0,0,0,0,0
+297583,13 Sep 2015,v Border,Potchefstroom,2,1,1,0,0,1
+297583,2 Oct 2015,v India,Dharamsala,1,0,0,0,0,0
+297583,5 Oct 2015,v India,Cuttack,1,0,0,0,0,0
+297583,1 Nov 2015,v Titans,Centurion,2,0,0,0,0,0
+297583,4 Nov 2015,v Lions,Durban,2,0,0,0,0,0
+297583,6 Nov 2015,v Knights,Kimberley,1,0,0,0,0,0
+297583,8 Nov 2015,v Warriors,Durban,2,0,0,0,0,0
+297583,12 Dec 2015,v Titans,Centurion,2,1,1,0,0,1
+297583,19 Feb 2016,v England,Cape Town,1,0,0,0,0,0
+297583,21 Feb 2016,v England,Johannesburg,1,0,0,0,0,0
+297583,4 Mar 2016,v Australia,Durban,1,0,0,0,0,0
+297583,9 Mar 2016,v Australia,Cape Town,2,0,0,0,0,0
+297583,18 Mar 2016,v England,Wankhede,2,0,0,0,0,0
+297583,20 Mar 2016,v Afghanistan,Wankhede,2,0,0,0,0,0
+297583,28 Mar 2016,v Sri Lanka,Delhi,1,0,0,0,0,0
+297583,17 Apr 2016,v Supergiants,Mohali,1,0,0,0,0,0
+297583,19 Apr 2016,v KKR,Mohali,2,0,0,0,0,0
+297583,23 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+297583,18 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+297583,21 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+297583,30 Jun 2016,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+297583,1 Jul 2016,v Derbyshire,Worcester,2,1,1,0,0,1
+297583,8 Jul 2016,v Lancashire,Worcester,2,0,0,0,0,0
+297583,11 Dec 2016,v Titans,East London,1,0,0,0,0,0
+297583,13 Dec 2016,v Lions,Gqeberha,1,0,0,0,0,0
+297583,16 Dec 2016,v Titans,Centurion,1,0,0,0,0,0
+297583,7 Jul 2017,v Glamorgan,Cardiff,2,0,0,0,0,0
+297583,12 Jul 2017,v Sussex,Hove,2,0,0,0,0,0
+297583,14 Jul 2017,v Middlesex,Southampton,2,0,0,0,0,0
+297583,20 Jul 2017,v Sussex,Southampton,2,0,0,0,0,0
+297583,21 Jul 2017,v Essex,Chelmsford,2,0,0,0,0,0
+297583,26 Jul 2017,v Somerset,Taunton,1,0,0,0,0,0
+297583,28 Jul 2017,v Gloucs,Bristol,1,1,1,0,0,1
+297583,1 Aug 2017,v Kent,Southampton,1,1,1,0,0,1
+297583,3 Aug 2017,v Middlesex,Lord's,1,0,0,0,0,0
+297583,4 Aug 2017,v Essex,Southampton,2,0,0,0,0,0
+297583,10 Aug 2017,v Glamorgan,Southampton,1,0,0,0,0,0
+297583,11 Aug 2017,v Kent,Canterbury,1,1,1,0,0,1
+297583,18 Aug 2017,v Somerset,Southampton,1,0,0,0,0,0
+297583,22 Aug 2017,v Derbyshire,Derby,2,0,0,0,0,0
+297583,2 Sep 2017,v Notts,Birmingham,1,1,1,0,0,1
+297583,17 Nov 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+297583,27 Nov 2017,v Kings,Chattogram,2,0,0,0,0,0
+297583,28 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+297583,16 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+297583,6 Jul 2018,v Glamorgan,Southampton,1,0,0,0,0,0
+297583,12 Jul 2018,v Sussex,Southampton,2,0,0,0,0,0
+297583,3 Aug 2018,v Kent,Southampton,1,0,0,0,0,0
+297583,4 Oct 2018,v Auckland,Abu Dhabi,2,0,0,0,0,0
+297583,5 Oct 2018,v Titans,Abu Dhabi,1,0,0,0,0,0
+297583,18 Nov 2018,v Blitz,Durban,2,0,0,0,0,0
+297583,21 Nov 2018,v Spartans,Durban,1,0,0,0,0,0
+297583,23 Nov 2018,v Giants,Gqeberha,2,0,0,0,0,0
+297583,28 Nov 2018,v Paarl Rocks,Durban,1,0,0,0,0,0
+297583,30 Nov 2018,v Jozi Stars,Johannesburg,1,1,1,0,0,1
+297583,2 Dec 2018,v Paarl Rocks,Paarl,2,0,0,0,0,0
+297583,5 Dec 2018,v Giants,Durban,1,0,0,0,0,0
+297583,7 Dec 2018,v Jozi Stars,Durban,2,0,0,0,0,0
+297583,9 Dec 2018,v Blitz,Cape Town,1,0,0,0,0,0
+297583,12 Dec 2018,v Spartans,Centurion,1,1,1,0,0,1
+297583,12 Jan 2019,v Wellington,Wellington,2,0,0,0,0,0
+297583,16 Jan 2019,v Canterbury,Hamilton,2,0,0,0,0,0
+297583,25 Jan 2019,v Central D,Napier,2,0,0,0,0,0
+297583,2 Feb 2019,v Auckland,Auckland,2,0,0,0,0,0
+297583,9 Feb 2019,v Otago,Mount Maunganui,2,0,0,0,0,0
+297583,17 Feb 2019,v Central D,Hamilton,1,0,0,0,0,0
+297583,19 Jul 2019,v Sussex,Southampton,-,TDNF,-,-,-,-
+297583,21 Jul 2019,v Kent,Southampton,2,0,0,0,0,0
+297583,24 Jul 2019,v Sussex,Hove,1,0,0,0,0,0
+297583,26 Jul 2019,v Somerset,Taunton,1,0,0,0,0,0
+297583,1 Aug 2019,v Essex,Chelmsford,1,0,0,0,0,0
+297583,2 Aug 2019,v Glamorgan,Southampton,2,0,0,0,0,0
+297583,4 Aug 2019,v Kent,Beckenham,2,0,0,0,0,0
+297583,9 Aug 2019,v Somerset,Southampton,1,0,0,0,0,0
+297583,13 Aug 2019,v Gloucs,Bristol,2,0,0,0,0,0
+297583,22 Aug 2019,v Middlesex,Lord's,1,0,0,0,0,0
+297583,25 Aug 2019,v Essex,Southampton,1,0,0,0,0,0
+297583,29 Aug 2019,v Middlesex,Southampton,1,0,0,0,0,0
+297583,30 Aug 2019,v Glamorgan,Cardiff,1,0,0,0,0,0
+297583,17 Nov 2019,v Blitz,Durban,1,1,1,0,0,1
+297583,21 Nov 2019,v Spartans,Centurion,1,1,1,0,0,1
+297583,23 Nov 2019,v Giants,Gqeberha,2,0,0,0,0,0
+297583,28 Nov 2019,v Blitz,Cape Town,1,0,0,0,0,0
+297583,30 Nov 2019,v Giants,Durban,1,0,0,0,0,0
+297583,4 Dec 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+297583,27 Nov 2020,v Galle,Hambantota,1,0,0,0,0,0
+297583,4 Dec 2020,v Kings,Hambantota,2,0,0,0,0,0
+297583,15 Jun 2021,v Middlesex,Radlett,2,0,0,0,0,0

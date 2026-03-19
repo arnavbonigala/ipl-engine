@@ -1,0 +1,99 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1168049,12 Dec 2020,v Scorchers,Hobart,1,0,0,0,0,0
+1168049,13 Dec 2020,v Sixers,Hobart,1,0,0,0,0,0
+1168049,19 Dec 2020,v Hurricanes,Hobart,2,1,1,0,0,1
+1168049,5 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+1168049,8 Jan 2021,v Strikers,Adelaide,1,2,2,0,0,2
+1168049,14 Jan 2021,v Heat,Canberra,2,0,0,0,0,0
+1168049,17 Jan 2021,v Stars,Melbourne,2,1,1,0,0,1
+1168049,20 Jan 2021,v Stars,Melbourne (Docklands),1,2,2,0,0,2
+1168049,23 Jan 2021,v Heat,Melbourne (Docklands),1,1,1,0,0,1
+1168049,26 Jan 2021,v Hurricanes,Melbourne,2,0,0,0,0,0
+1168049,7 Dec 2021,v Strikers,Melbourne (Docklands),2,1,1,0,0,1
+1168049,9 Dec 2021,v Strikers,Adelaide,1,0,0,0,0,0
+1168049,13 Dec 2021,v Heat,Carrara,2,0,0,0,0,0
+1168049,22 Dec 2021,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+1168049,26 Dec 2021,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+1168049,29 Dec 2021,v Hurricanes,Melbourne (Docklands),1,1,1,0,0,1
+1168049,1 Jan 2022,v Sixers,Coffs Harbour,-,TDNF,-,-,-,-
+1168049,11 Jan 2022,v Sixers,Geelong,1,2,2,0,0,2
+1168049,13 Jan 2022,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+1168049,15 Dec 2022,v Heat,Cairns,2,2,2,0,0,2
+1168049,18 Dec 2022,v Thunder,Melbourne (Docklands),1,1,1,0,0,1
+1168049,21 Dec 2022,v Heat,Geelong,1,0,0,0,0,0
+1168049,24 Dec 2022,v Hurricanes,Hobart,1,1,1,0,0,1
+1168049,14 Jan 2023,v Stars,Melbourne (Docklands),2,2,2,0,0,2
+1168049,19 Jan 2023,v Thunder,Canberra,2,0,0,0,0,0
+1168049,8 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+1168049,10 Dec 2023,v Scorchers,Geelong,1,0,0,0,0,0
+1168049,21 Dec 2023,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+1168049,23 Dec 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+1168049,26 Dec 2023,v Scorchers,Perth,1,0,0,0,0,0
+1168049,29 Dec 2023,v Strikers,Melbourne (Docklands),1,1,1,0,0,1
+1168049,2 Jan 2024,v Stars,Melbourne,2,0,0,0,0,0
+1168049,4 Jan 2024,v Hurricanes,Melbourne (Docklands),2,0,0,0,0,0
+1168049,13 Jan 2024,v Stars,Melbourne (Docklands),1,2,2,0,0,2
+1168049,20 Jan 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+1168049,22 Jan 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+1168049,25 Jan 2024,v KnightRiders,Dubai (DICS),1,0,0,0,0,0
+1168049,12 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+1168049,17 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+1168049,20 Apr 2024,v SRH,Delhi,1,0,0,0,0,0
+1168049,24 Apr 2024,v GT,Delhi,2,1,1,0,0,1
+1168049,27 Apr 2024,v MI,Delhi,2,0,0,0,0,0
+1168049,29 Apr 2024,v KKR,Eden Gardens,2,1,1,0,0,1
+1168049,7 May 2024,v RR,Delhi,2,0,0,0,0,0
+1168049,12 May 2024,v RCB,Bengaluru,1,1,1,0,0,1
+1168049,14 May 2024,v LSG,Delhi,2,0,0,0,0,0
+1168049,7 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+1168049,10 Jul 2024,v Texas,Morrisville,2,0,0,0,0,0
+1168049,15 Jul 2024,v Seattle,Morrisville,2,0,0,0,0,0
+1168049,22 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+1168049,25 Jul 2024,v Washington,Dallas,2,0,0,0,0,0
+1168049,26 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+1168049,28 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+1168049,4 Sep 2024,v Scotland,Edinburgh,1,1,1,0,0,1
+1168049,6 Sep 2024,v Scotland,Edinburgh,2,1,1,0,0,1
+1168049,7 Sep 2024,v Scotland,Edinburgh,1,1,1,0,0,1
+1168049,13 Sep 2024,v England,Cardiff,2,1,1,0,0,1
+1168049,14 Nov 2024,v Pakistan,Brisbane,2,3,3,0,0,3
+1168049,16 Nov 2024,v Pakistan,Sydney,2,0,0,0,0,0
+1168049,18 Nov 2024,v Pakistan,Hobart,1,0,0,0,0,0
+1168049,16 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+1168049,19 Dec 2024,v Hurricanes,Geelong,1,0,0,0,0,0
+1168049,23 Dec 2024,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+1168049,30 Dec 2024,v Thunder,Sydney,1,0,0,0,0,0
+1168049,2 Jan 2025,v Strikers,Melbourne (Docklands),2,0,0,0,0,0
+1168049,4 Jan 2025,v Stars,Melbourne,2,0,0,0,0,0
+1168049,7 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+1168049,12 Jan 2025,v Stars,Melbourne (Docklands),1,0,0,0,0,0
+1168049,14 Jan 2025,v Hurricanes,Hobart,2,1,1,0,0,1
+1168049,18 Jan 2025,v Heat,Melbourne (Docklands),1,1,1,0,0,1
+1168049,24 Mar 2025,v LSG,Visakhapatnam,1,0,0,0,0,0
+1168049,30 Mar 2025,v SRH,Visakhapatnam,1,2,2,0,0,2
+1168049,5 Apr 2025,v CSK,Chennai,2,1,1,0,0,1
+1168049,10 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+1168049,13 Apr 2025,v MI,Delhi,1,0,0,0,0,0
+1168049,16 Apr 2025,v RR,Delhi,2,0,0,0,0,0
+1168049,12 Jun 2025,v Washington,Oakland,2,2,2,0,0,2
+1168049,14 Jun 2025,v Los Angeles,Oakland,2,1,1,0,0,1
+1168049,15 Jun 2025,v MI New York,Oakland,1,1,1,0,0,1
+1168049,20 Jun 2025,v Texas,Dallas,1,2,2,0,0,2
+1168049,23 Jun 2025,v MI New York,Dallas,2,0,0,0,0,0
+1168049,25 Jun 2025,v Seattle,Dallas,2,0,0,0,0,0
+1168049,28 Jun 2025,v Washington,Dallas,1,2,2,0,0,2
+1168049,1 Jul 2025,v Seattle,Lauderhill,2,0,0,0,0,0
+1168049,4 Jul 2025,v Texas,Lauderhill,2,0,0,0,0,0
+1168049,6 Jul 2025,v Los Angeles,Lauderhill,1,2,2,0,0,2
+1168049,9 Jul 2025,v MI New York,Dallas,2,1,1,0,0,1
+1168049,20 Jul 2025,v West Indies,Kingston,1,1,1,0,0,1
+1168049,15 Dec 2025,v Heat,Geelong,2,1,1,0,0,1
+1168049,21 Dec 2025,v Hurricanes,Geelong,2,1,1,0,0,1
+1168049,29 Dec 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+1168049,1 Jan 2026,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+1168049,4 Jan 2026,v Stars,Melbourne,1,2,2,0,0,2
+1168049,7 Jan 2026,v Scorchers,Perth,1,1,1,0,0,1
+1168049,10 Jan 2026,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+1168049,12 Jan 2026,v Thunder,Sydney,2,3,3,0,0,3
+1168049,15 Jan 2026,v Scorchers,Melbourne (Docklands),1,2,2,0,0,2
+1168049,17 Jan 2026,v Strikers,Adelaide,2,2,2,0,0,2

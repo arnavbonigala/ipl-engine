@@ -1,0 +1,71 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1076713,13 Jan 2019,v Sixers,Perth,1,1,1,0,0,1
+1076713,18 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+1076713,21 Dec 2019,v Renegades,Perth,2,0,0,0,0,0
+1076713,23 Dec 2019,v Strikers,Adelaide,1,0,0,0,0,0
+1076713,26 Dec 2019,v Sixers,Perth,1,0,0,0,0,0
+1076713,1 Jan 2020,v Heat,Carrara,2,0,0,0,0,0
+1076713,5 Jan 2020,v Hurricanes,Perth,1,0,0,0,0,0
+1076713,7 Jan 2020,v Renegades,Geelong,1,1,1,0,0,1
+1076713,11 Jan 2020,v Heat,Perth,2,1,1,0,0,1
+1076713,13 Jan 2020,v Hurricanes,Hobart,2,1,1,0,0,1
+1076713,15 Jan 2020,v Stars,Perth,2,0,0,0,0,0
+1076713,18 Jan 2020,v Stars,Melbourne,1,0,0,0,0,0
+1076713,20 Jan 2020,v Thunder,Perth,1,0,0,0,0,0
+1076713,5 Apr 2022,v Pakistan,Lahore,1,0,0,0,0,0
+1076713,20 Sep 2022,v India,Mohali,1,2,2,0,0,2
+1076713,23 Sep 2022,v India,Nagpur,2,0,0,0,0,0
+1076713,25 Sep 2022,v India,Hyderabad,2,0,0,0,0,0
+1076713,5 Oct 2022,v West Indies,Carrara,1,0,0,0,0,0
+1076713,7 Oct 2022,v West Indies,Brisbane,2,1,1,0,0,1
+1076713,9 Oct 2022,v England,Perth,1,0,0,0,0,0
+1076713,4 Nov 2022,v Afghanistan,Adelaide,2,0,0,0,0,0
+1076713,2 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+1076713,8 Apr 2023,v CSK,Wankhede,2,0,0,0,0,0
+1076713,11 Apr 2023,v DC,Delhi,1,2,2,0,0,2
+1076713,16 Apr 2023,v KKR,Wankhede,1,0,0,0,0,0
+1076713,18 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+1076713,22 Apr 2023,v Punjab Kings,Wankhede,1,0,0,0,0,0
+1076713,25 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+1076713,30 Apr 2023,v RR,Wankhede,1,0,0,0,0,0
+1076713,3 May 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+1076713,6 May 2023,v CSK,Chennai,2,0,0,0,0,0
+1076713,9 May 2023,v RCB,Wankhede,1,1,1,0,0,1
+1076713,12 May 2023,v GT,Wankhede,2,1,1,0,0,1
+1076713,16 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+1076713,21 May 2023,v SRH,Wankhede,1,0,0,0,0,0
+1076713,24 May 2023,v LSG,Chennai,2,1,1,0,0,1
+1076713,26 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+1076713,22 Mar 2024,v CSK,Chennai,2,1,1,0,0,1
+1076713,25 Mar 2024,v Punjab Kings,Bengaluru,1,0,0,0,0,0
+1076713,29 Mar 2024,v KKR,Bengaluru,2,1,1,0,0,1
+1076713,2 Apr 2024,v LSG,Bengaluru,1,0,0,0,0,0
+1076713,6 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+1076713,21 Apr 2024,v KKR,Eden Gardens,1,1,1,0,0,1
+1076713,25 Apr 2024,v SRH,Hyderabad,2,1,1,0,0,1
+1076713,28 Apr 2024,v GT,Ahmedabad,1,1,1,0,0,1
+1076713,4 May 2024,v GT,Bengaluru,1,0,0,0,0,0
+1076713,9 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+1076713,12 May 2024,v DC,Bengaluru,2,0,0,0,0,0
+1076713,18 May 2024,v CSK,Bengaluru,2,0,0,0,0,0
+1076713,22 May 2024,v RR,Ahmedabad,2,0,0,0,0,0
+1076713,4 Sep 2024,v Scotland,Edinburgh,1,1,1,0,0,1
+1076713,6 Sep 2024,v Scotland,Edinburgh,2,1,1,0,0,1
+1076713,7 Sep 2024,v Scotland,Edinburgh,1,0,0,0,0,0
+1076713,11 Sep 2024,v England,Southampton,2,1,1,0,0,1
+1076713,13 Sep 2024,v England,Cardiff,2,0,0,0,0,0
+1076713,20 Jul 2025,v West Indies,Kingston,1,2,2,0,0,2
+1076713,22 Jul 2025,v West Indies,Kingston,1,3,3,0,0,3
+1076713,25 Jul 2025,v West Indies,Basseterre,1,1,1,0,0,1
+1076713,26 Jul 2025,v West Indies,Basseterre,1,2,2,0,0,2
+1076713,28 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+1076713,10 Aug 2025,v South Africa,Darwin,2,1,1,0,0,1
+1076713,12 Aug 2025,v South Africa,Darwin,1,0,0,0,0,0
+1076713,16 Aug 2025,v South Africa,Cairns,1,1,1,0,0,1
+1076713,29 Jan 2026,v Pakistan,Lahore,1,3,3,0,0,3
+1076713,31 Jan 2026,v Pakistan,Lahore,1,0,0,0,0,0
+1076713,1 Feb 2026,v Pakistan,Lahore,1,2,2,0,0,2
+1076713,11 Feb 2026,v Ireland,Colombo (RPS),2,3,3,0,0,3
+1076713,13 Feb 2026,v Zimbabwe,Colombo (RPS),1,0,0,0,0,0
+1076713,16 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+1076713,20 Feb 2026,v Oman,Pallekele,1,1,1,0,0,1

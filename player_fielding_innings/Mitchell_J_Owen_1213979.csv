@@ -1,0 +1,76 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1213979,12 Jan 2021,v Scorchers,Perth,2,0,0,0,0,0
+1213979,18 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+1213979,5 Jan 2022,v Strikers,Adelaide,2,1,1,0,0,1
+1213979,8 Jan 2022,v Heat,Brisbane,1,0,0,0,0,0
+1213979,10 Jan 2022,v Thunder,Melbourne,2,0,0,0,0,0
+1213979,13 Jan 2022,v Thunder,Melbourne (Docklands),2,0,0,0,0,0
+1213979,19 Jan 2022,v Stars,Melbourne,1,0,0,0,0,0
+1213979,2 Jan 2023,v Strikers,Hobart,1,0,0,0,0,0
+1213979,5 Jan 2023,v Strikers,Adelaide,2,0,0,0,0,0
+1213979,9 Jan 2023,v Stars,Hobart,1,0,0,0,0,0
+1213979,20 Jan 2023,v Heat,Brisbane,1,0,0,0,0,0
+1213979,20 Dec 2023,v Scorchers,Perth,2,0,0,0,0,0
+1213979,15 Jan 2024,v Stars,Melbourne,2,0,0,0,0,0
+1213979,19 Dec 2024,v Renegades,Geelong,2,1,1,0,0,1
+1213979,21 Dec 2024,v Scorchers,Hobart,1,1,1,0,0,1
+1213979,27 Dec 2024,v Strikers,Adelaide,2,2,2,0,0,2
+1213979,1 Jan 2025,v Sixers,Hobart,2,1,1,0,0,1
+1213979,5 Jan 2025,v Strikers,Hobart,1,1,1,0,0,1
+1213979,10 Jan 2025,v Thunder,Hobart,1,0,0,0,0,0
+1213979,14 Jan 2025,v Renegades,Hobart,1,2,2,0,0,2
+1213979,16 Jan 2025,v Heat,Brisbane,1,0,0,0,0,0
+1213979,19 Jan 2025,v Stars,Melbourne,1,0,0,0,0,0
+1213979,21 Jan 2025,v Sixers,Hobart,2,1,1,0,0,1
+1213979,27 Jan 2025,v Thunder,Hobart,1,0,0,0,0,0
+1213979,1 Feb 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+1213979,4 Feb 2025,v MI Cape Town,Gqeberha,1,1,1,0,0,1
+1213979,6 Feb 2025,v Sunrisers,Centurion,2,0,0,0,0,0
+1213979,12 Apr 2025,v Gladiators,Rawalpindi,1,1,1,0,0,1
+1213979,14 Apr 2025,v United,Rawalpindi,1,0,0,0,0,0
+1213979,19 Apr 2025,v Sultans,Rawalpindi,2,1,1,0,0,1
+1213979,21 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+1213979,24 Apr 2025,v Qalandars,Lahore,1,1,1,0,0,1
+1213979,27 Apr 2025,v Gladiators,Lahore,1,1,1,0,0,1
+1213979,2 May 2025,v United,Lahore,1,0,0,0,0,0
+1213979,5 May 2025,v Sultans,Multan,1,1,1,0,0,1
+1213979,18 May 2025,v RR,Jaipur,2,2,2,0,0,2
+1213979,12 Jun 2025,v SF,Oakland,1,0,0,0,0,0
+1213979,14 Jun 2025,v Seattle,Oakland,1,0,0,0,0,0
+1213979,17 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+1213979,21 Jun 2025,v MI New York,Dallas,1,2,2,0,0,2
+1213979,22 Jun 2025,v Texas,Dallas,1,0,0,0,0,0
+1213979,26 Jun 2025,v Los Angeles,Dallas,1,0,0,0,0,0
+1213979,28 Jun 2025,v SF,Dallas,2,0,0,0,0,0
+1213979,2 Jul 2025,v Texas,Lauderhill,1,0,0,0,0,0
+1213979,4 Jul 2025,v Seattle,Lauderhill,1,1,1,0,0,1
+1213979,6 Jul 2025,v MI New York,Lauderhill,1,1,1,0,0,1
+1213979,8 Jul 2025,v Texas,Dallas,-,TDNF,-,-,-,-
+1213979,13 Jul 2025,v MI New York,Dallas,1,0,0,0,0,0
+1213979,20 Jul 2025,v West Indies,Kingston,1,0,0,0,0,0
+1213979,22 Jul 2025,v West Indies,Kingston,1,0,0,0,0,0
+1213979,25 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+1213979,26 Jul 2025,v West Indies,Basseterre,1,1,1,0,0,1
+1213979,28 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+1213979,10 Aug 2025,v South Africa,Darwin,2,1,1,0,0,1
+1213979,12 Aug 2025,v South Africa,Darwin,1,1,1,0,0,1
+1213979,1 Oct 2025,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+1213979,3 Oct 2025,v New Zealand,Mount Maunganui,-,TDNF,-,-,-,-
+1213979,4 Oct 2025,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+1213979,29 Oct 2025,v India,Canberra,1,0,0,0,0,0
+1213979,31 Oct 2025,v India,Melbourne,1,0,0,0,0,0
+1213979,2 Nov 2025,v India,Hobart,2,0,0,0,0,0
+1213979,16 Dec 2025,v Thunder,Hobart,1,0,0,0,0,0
+1213979,18 Dec 2025,v Stars,Melbourne,2,0,0,0,0,0
+1213979,21 Dec 2025,v Renegades,Geelong,1,0,0,0,0,0
+1213979,26 Dec 2025,v Scorchers,Perth,1,1,1,0,0,1
+1213979,29 Dec 2025,v Renegades,Hobart,1,0,0,0,0,0
+1213979,1 Jan 2026,v Scorchers,Hobart,1,1,1,0,0,1
+1213979,3 Jan 2026,v Thunder,Sydney,1,0,0,0,0,0
+1213979,9 Jan 2026,v Strikers,Hobart,2,0,0,0,0,0
+1213979,11 Jan 2026,v Sixers,Sydney,1,0,0,0,0,0
+1213979,14 Jan 2026,v Heat,Hobart,1,2,2,0,0,2
+1213979,21 Jan 2026,v Stars,Hobart,2,1,1,0,0,1
+1213979,23 Jan 2026,v Sixers,Sydney,1,1,1,0,0,1
+1213979,29 Jan 2026,v Pakistan,Lahore,1,1,1,0,0,1
+1213979,1 Feb 2026,v Pakistan,Lahore,1,0,0,0,0,0

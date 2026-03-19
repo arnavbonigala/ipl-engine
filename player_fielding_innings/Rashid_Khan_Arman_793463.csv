@@ -1,0 +1,520 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+793463,26 Oct 2015,v Zimbabwe,Bulawayo,1,1,1,0,0,1
+793463,28 Oct 2015,v Zimbabwe,Bulawayo,1,0,0,0,0,0
+793463,8 Jan 2016,v Zimbabwe,Sharjah,2,1,1,0,0,1
+793463,10 Jan 2016,v Zimbabwe,Sharjah,2,0,0,0,0,0
+793463,19 Feb 2016,v U.A.E.,Fatullah,1,0,0,0,0,0
+793463,20 Feb 2016,v Oman,Fatullah,1,1,1,0,0,1
+793463,22 Feb 2016,v Hong Kong,Mirpur,2,0,0,0,0,0
+793463,8 Mar 2016,v Scotland,Nagpur,2,0,0,0,0,0
+793463,10 Mar 2016,v Hong Kong,Nagpur,1,0,0,0,0,0
+793463,12 Mar 2016,v Zimbabwe,Nagpur,2,0,0,0,0,0
+793463,17 Mar 2016,v Sri Lanka,Eden Gardens,2,0,0,0,0,0
+793463,20 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+793463,23 Mar 2016,v England,Delhi,1,1,1,0,0,1
+793463,27 Mar 2016,v West Indies,Nagpur,2,1,1,0,0,1
+793463,13 Nov 2016,v Khulna,Mirpur,1,0,0,0,0,0
+793463,14 Nov 2016,v Dynamites,Mirpur,1,0,0,0,0,0
+793463,18 Nov 2016,v Rangpur,Chattogram,2,1,1,0,0,1
+793463,26 Nov 2016,v Dynamites,Mirpur,1,0,0,0,0,0
+793463,29 Nov 2016,v Bulls,Mirpur,1,0,0,0,0,0
+793463,30 Nov 2016,v Kings,Mirpur,1,2,2,0,0,2
+793463,2 Dec 2016,v Khulna,Mirpur,1,1,1,0,0,1
+793463,4 Dec 2016,v Rangpur,Mirpur,2,0,0,0,0,0
+793463,14 Dec 2016,v U.A.E.,ICCA Dubai,2,0,0,0,0,0
+793463,16 Dec 2016,v U.A.E.,Dubai (DICS),1,1,1,0,0,1
+793463,18 Dec 2016,v U.A.E.,ICCA Dubai,2,0,0,0,0,0
+793463,14 Jan 2017,v Ireland,Abu Dhabi,1,0,0,0,0,0
+793463,16 Jan 2017,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+793463,19 Jan 2017,v Namibia,Dubai (DICS),2,0,0,0,0,0
+793463,20 Jan 2017,v Oman,Dubai (DICS),1,0,0,0,0,0
+793463,20 Jan 2017,v Ireland,Dubai (DICS),1,1,1,0,0,1
+793463,8 Mar 2017,v Ireland,Greater Noida,1,0,0,0,0,0
+793463,10 Mar 2017,v Ireland,Greater Noida,2,1,1,0,0,1
+793463,12 Mar 2017,v Ireland,Greater Noida,2,0,0,0,0,0
+793463,5 Apr 2017,v RCB,Hyderabad,2,0,0,0,0,0
+793463,9 Apr 2017,v Guj Lions,Hyderabad,1,0,0,0,0,0
+793463,12 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+793463,15 Apr 2017,v KKR,Eden Gardens,1,1,1,0,0,1
+793463,17 Apr 2017,v Kings XI,Hyderabad,2,0,0,0,0,0
+793463,19 Apr 2017,v Daredevils,Hyderabad,2,0,0,0,0,0
+793463,22 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+793463,28 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+793463,30 Apr 2017,v KKR,Hyderabad,2,3,3,0,0,3
+793463,2 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+793463,6 May 2017,v Supergiant,Hyderabad,1,1,1,0,0,1
+793463,8 May 2017,v MI,Hyderabad,1,0,0,0,0,0
+793463,13 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+793463,17 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+793463,30 May 2017,v WICB Pres XI,Basseterre,2,0,0,0,0,0
+793463,2 Jun 2017,v West Indies,Basseterre,2,0,0,0,0,0
+793463,3 Jun 2017,v West Indies,Basseterre,1,0,0,0,0,0
+793463,5 Jun 2017,v West Indies,Basseterre,2,0,0,0,0,0
+793463,5 Aug 2017,v Patriots,Lauderhill,2,0,0,0,0,0
+793463,6 Aug 2017,v Patriots,Lauderhill,1,0,0,0,0,0
+793463,11 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+793463,13 Aug 2017,v Stars,Gros Islet,1,1,1,0,0,1
+793463,17 Aug 2017,v Tallawahs,Providence,1,1,1,0,0,1
+793463,19 Aug 2017,v Trinbago,Providence,2,0,0,0,0,0
+793463,20 Aug 2017,v Tridents,Providence,1,1,1,0,0,1
+793463,22 Aug 2017,v Stars,Providence,1,1,1,0,0,1
+793463,29 Aug 2017,v Tridents,Bridgetown,2,0,0,0,0,0
+793463,1 Sep 2017,v Tallawahs,Kingston,1,0,0,0,0,0
+793463,6 Sep 2017,v Tallawahs,Tarouba,1,0,0,0,0,0
+793463,7 Sep 2017,v Trinbago,Tarouba,2,0,0,0,0,0
+793463,12 Sep 2017,v MAK,Kabul,1,0,0,0,0,0
+793463,14 Sep 2017,v SGT,Kabul,2,1,1,0,0,1
+793463,15 Sep 2017,v BDD,Kabul,2,1,1,0,0,1
+793463,17 Sep 2017,v Amo Sharks,Kabul,1,0,0,0,0,0
+793463,18 Sep 2017,v Kabul Eagles,Kabul,1,0,0,0,0,0
+793463,20 Sep 2017,v MAK,Kabul,1,0,0,0,0,0
+793463,21 Sep 2017,v Kabul Eagles,Kabul,2,0,0,0,0,0
+793463,22 Sep 2017,v MAK,Kabul,2,0,0,0,0,0
+793463,5 Nov 2017,v Sylhet,Sylhet,2,1,1,0,0,1
+793463,7 Nov 2017,v Chattogram,Sylhet,1,1,1,0,0,1
+793463,12 Nov 2017,v Kings,Mirpur,1,0,0,0,0,0
+793463,14 Nov 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+793463,18 Nov 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+793463,20 Nov 2017,v Dynamites,Mirpur,1,0,0,0,0,0
+793463,25 Nov 2017,v Kings,Chattogram,1,0,0,0,0,0
+793463,22 Dec 2017,v Thunder,Adelaide,2,0,0,0,0,0
+793463,28 Dec 2017,v Sixers,Sydney,2,0,0,0,0,0
+793463,31 Dec 2017,v Heat,Adelaide,2,1,1,0,0,1
+793463,4 Jan 2018,v Hurricanes,Hobart,1,0,0,0,0,0
+793463,7 Jan 2018,v Thunder,Sydney,2,1,1,0,0,1
+793463,9 Jan 2018,v Stars,Adelaide,1,0,0,0,0,0
+793463,13 Jan 2018,v Scorchers,Alice Springs,2,0,0,0,0,0
+793463,17 Jan 2018,v Hurricanes,Adelaide,2,0,0,0,0,0
+793463,22 Jan 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+793463,25 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+793463,2 Feb 2018,v Renegades,Adelaide,2,0,0,0,0,0
+793463,5 Feb 2018,v Zimbabwe,Sharjah,1,0,0,0,0,0
+793463,6 Feb 2018,v Zimbabwe,Sharjah,2,0,0,0,0,0
+793463,9 Apr 2018,v RR,Hyderabad,1,2,2,0,0,2
+793463,12 Apr 2018,v MI,Hyderabad,1,0,0,0,0,0
+793463,14 Apr 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+793463,19 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+793463,22 Apr 2018,v CSK,Hyderabad,1,0,0,0,0,0
+793463,24 Apr 2018,v MI,Wankhede,2,1,1,0,0,1
+793463,26 Apr 2018,v Kings XI,Hyderabad,2,0,0,0,0,0
+793463,29 Apr 2018,v RR,Jaipur,2,0,0,0,0,0
+793463,5 May 2018,v Daredevils,Hyderabad,1,0,0,0,0,0
+793463,7 May 2018,v RCB,Hyderabad,2,0,0,0,0,0
+793463,10 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+793463,13 May 2018,v CSK,Pune,2,0,0,0,0,0
+793463,17 May 2018,v RCB,Bengaluru,1,1,1,0,0,1
+793463,19 May 2018,v KKR,Hyderabad,2,0,0,0,0,0
+793463,22 May 2018,v CSK,Wankhede,2,0,0,0,0,0
+793463,25 May 2018,v KKR,Eden Gardens,2,2,2,0,0,2
+793463,27 May 2018,v CSK,Wankhede,2,0,0,0,0,0
+793463,31 May 2018,v West Indies,Lord's,1,0,0,0,0,0
+793463,3 Jun 2018,v Bangladesh,Dehradun,2,1,1,0,0,1
+793463,5 Jun 2018,v Bangladesh,Dehradun,1,1,1,0,0,1
+793463,7 Jun 2018,v Bangladesh,Dehradun,2,0,0,0,0,0
+793463,4 Jul 2018,v Essex,Chelmsford,2,0,0,0,0,0
+793463,8 Jul 2018,v Glamorgan,Cardiff,1,0,0,0,0,0
+793463,12 Jul 2018,v Hampshire,Southampton,1,0,0,0,0,0
+793463,13 Jul 2018,v Surrey,Hove,1,0,0,0,0,0
+793463,27 Jul 2018,v Kent,Canterbury,1,1,1,0,0,1
+793463,1 Aug 2018,v Gloucs,Hove,2,0,0,0,0,0
+793463,2 Aug 2018,v Middlesex,Lord's,2,0,0,0,0,0
+793463,5 Aug 2018,v Somerset,Hove,2,0,0,0,0,0
+793463,9 Aug 2018,v Surrey,The Oval,-,TDNF,-,-,-,-
+793463,14 Aug 2018,v Glamorgan,Hove,2,0,0,0,0,0
+793463,16 Aug 2018,v Gloucs,Bristol,1,0,0,0,0,0
+793463,20 Aug 2018,v Ireland,Bready,2,0,0,0,0,0
+793463,22 Aug 2018,v Ireland,Bready,2,1,1,0,0,1
+793463,5 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+793463,6 Oct 2018,v Legends,Sharjah,2,0,0,0,0,0
+793463,9 Oct 2018,v KingsLeopard,Sharjah,1,0,0,0,0,0
+793463,11 Oct 2018,v Knights,Sharjah,2,1,1,0,0,1
+793463,12 Oct 2018,v KingsLeopard,Sharjah,1,0,0,0,0,0
+793463,14 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+793463,16 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+793463,20 Oct 2018,v Panthers,Sharjah,2,1,1,0,0,1
+793463,21 Oct 2018,v Legends,Sharjah,2,0,0,0,0,0
+793463,5 Dec 2018,v Giants,Durban,1,0,0,0,0,0
+793463,7 Dec 2018,v Jozi Stars,Durban,2,1,1,0,0,1
+793463,9 Dec 2018,v Blitz,Cape Town,1,1,1,0,0,1
+793463,12 Dec 2018,v Spartans,Centurion,1,0,0,0,0,0
+793463,19 Dec 2018,v Heat,Brisbane,1,1,1,0,0,1
+793463,23 Dec 2018,v Renegades,Adelaide,2,0,0,0,0,0
+793463,26 Dec 2018,v Scorchers,Perth,2,0,0,0,0,0
+793463,31 Dec 2018,v Thunder,Adelaide,2,0,0,0,0,0
+793463,3 Jan 2019,v Renegades,Geelong,2,1,1,0,0,1
+793463,6 Jan 2019,v Sixers,Adelaide,2,0,0,0,0,0
+793463,11 Jan 2019,v Stars,Adelaide,2,0,0,0,0,0
+793463,13 Jan 2019,v Thunder,Sydney,1,0,0,0,0,0
+793463,21 Jan 2019,v Hurricanes,Adelaide,2,0,0,0,0,0
+793463,23 Jan 2019,v Stars,Moe,1,0,0,0,0,0
+793463,29 Jan 2019,v Sixers,Sydney,2,0,0,0,0,0
+793463,31 Jan 2019,v Hurricanes,Launceston,1,0,0,0,0,0
+793463,3 Feb 2019,v Heat,Adelaide,2,1,1,0,0,1
+793463,9 Feb 2019,v Scorchers,Adelaide,1,0,0,0,0,0
+793463,21 Feb 2019,v Ireland,Dehradun,1,0,0,0,0,0
+793463,23 Feb 2019,v Ireland,Dehradun,2,0,0,0,0,0
+793463,24 Feb 2019,v Ireland,Dehradun,2,0,0,0,0,0
+793463,24 Mar 2019,v KKR,Eden Gardens,2,1,1,0,0,1
+793463,29 Mar 2019,v RR,Hyderabad,1,0,0,0,0,0
+793463,31 Mar 2019,v RCB,Hyderabad,2,0,0,0,0,0
+793463,4 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+793463,6 Apr 2019,v MI,Hyderabad,1,0,0,0,0,0
+793463,8 Apr 2019,v Kings XI,Mohali,2,0,0,0,0,0
+793463,14 Apr 2019,v DC,Hyderabad,1,0,0,0,0,0
+793463,17 Apr 2019,v CSK,Hyderabad,1,0,0,0,0,0
+793463,21 Apr 2019,v KKR,Hyderabad,1,2,2,0,0,2
+793463,23 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+793463,27 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+793463,29 Apr 2019,v Kings XI,Hyderabad,2,0,0,0,0,0
+793463,2 May 2019,v MI,Wankhede,1,1,1,0,0,1
+793463,4 May 2019,v RCB,Bengaluru,2,0,0,0,0,0
+793463,8 May 2019,v DC,Visakhapatnam,2,0,0,0,0,0
+793463,19 Jul 2019,v Hampshire,Southampton,-,TDNF,-,-,-,-
+793463,24 Jul 2019,v Hampshire,Hove,2,2,2,0,0,2
+793463,26 Jul 2019,v Surrey,Hove,2,0,0,0,0,0
+793463,28 Jul 2019,v Somerset,Taunton,2,0,0,0,0,0
+793463,2 Aug 2019,v Kent,Hove,1,1,1,0,0,1
+793463,4 Aug 2019,v Gloucs,Bristol,1,0,0,0,0,0
+793463,6 Aug 2019,v Glamorgan,Hove,1,1,1,0,0,1
+793463,9 Aug 2019,v Middlesex,Hove,1,0,0,0,0,0
+793463,15 Aug 2019,v Surrey,The Oval,1,0,0,0,0,0
+793463,14 Sep 2019,v Zimbabwe,Mirpur,2,0,0,0,0,0
+793463,15 Sep 2019,v Bangladesh,Mirpur,2,2,2,0,0,2
+793463,20 Sep 2019,v Zimbabwe,Chattogram,2,1,1,0,0,1
+793463,21 Sep 2019,v Bangladesh,Chattogram,2,1,1,0,0,1
+793463,7 Oct 2019,v Kabul Eagles,Kabul,1,0,0,0,0,0
+793463,9 Oct 2019,v MAK,Kabul,1,0,0,0,0,0
+793463,12 Oct 2019,v SGT,Kabul,2,0,0,0,0,0
+793463,14 Oct 2019,v BDD,Kabul,2,0,0,0,0,0
+793463,16 Oct 2019,v MAK,Kabul,2,0,0,0,0,0
+793463,17 Oct 2019,v Kabul Eagles,Kabul,2,1,1,0,0,1
+793463,18 Oct 2019,v MAK,Kabul,2,1,1,0,0,1
+793463,14 Nov 2019,v West Indies,Lucknow,1,0,0,0,0,0
+793463,16 Nov 2019,v West Indies,Lucknow,2,1,1,0,0,1
+793463,17 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+793463,21 Dec 2019,v Thunder,Canberra,2,0,0,0,0,0
+793463,23 Dec 2019,v Scorchers,Adelaide,2,0,0,0,0,0
+793463,27 Dec 2019,v Stars,Carrara,2,0,0,0,0,0
+793463,29 Dec 2019,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+793463,31 Dec 2019,v Thunder,Adelaide,1,0,0,0,0,0
+793463,5 Jan 2020,v Sixers,Coffs Harbour,2,1,1,0,0,1
+793463,8 Jan 2020,v Sixers,Adelaide,2,0,0,0,0,0
+793463,12 Jan 2020,v Renegades,Adelaide,2,0,0,0,0,0
+793463,14 Jan 2020,v Heat,Brisbane,2,0,0,0,0,0
+793463,17 Jan 2020,v Heat,Adelaide,1,2,2,0,0,2
+793463,19 Jan 2020,v Hurricanes,Launceston,2,0,0,0,0,0
+793463,22 Jan 2020,v Stars,Adelaide,2,1,1,0,0,1
+793463,24 Jan 2020,v Scorchers,Perth,2,0,0,0,0,0
+793463,26 Jan 2020,v Hurricanes,Adelaide,1,0,0,0,0,0
+793463,1 Feb 2020,v Thunder,Adelaide,1,0,0,0,0,0
+793463,6 Mar 2020,v Ireland,Greater Noida,1,1,1,0,0,1
+793463,8 Mar 2020,v Ireland,Greater Noida,2,1,1,0,0,1
+793463,10 Mar 2020,v Ireland,Greater Noida,1,2,2,0,0,2
+793463,18 Aug 2020,v Patriots,Tarouba,2,0,0,0,0,0
+793463,20 Aug 2020,v Zouks,Tarouba,2,0,0,0,0,0
+793463,23 Aug 2020,v Trinbago,Tarouba,1,1,1,0,0,1
+793463,25 Aug 2020,v Patriots,Port of Spain,2,1,1,0,0,1
+793463,26 Aug 2020,v Tallawahs,Port of Spain,2,0,0,0,0,0
+793463,29 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+793463,30 Aug 2020,v Zouks,Port of Spain,1,0,0,0,0,0
+793463,1 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+793463,3 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+793463,5 Sep 2020,v Tallawahs,Tarouba,1,0,0,0,0,0
+793463,21 Sep 2020,v RCB,Dubai (DICS),1,1,1,0,0,1
+793463,26 Sep 2020,v KKR,Abu Dhabi,2,0,0,0,0,0
+793463,29 Sep 2020,v DC,Abu Dhabi,2,0,0,0,0,0
+793463,2 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+793463,4 Oct 2020,v MI,Sharjah,1,1,1,0,0,1
+793463,8 Oct 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+793463,11 Oct 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+793463,13 Oct 2020,v CSK,Dubai (DICS),1,0,0,0,0,0
+793463,18 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+793463,22 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+793463,24 Oct 2020,v Kings XI,Dubai (DICS),1,1,1,0,0,1
+793463,27 Oct 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+793463,31 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+793463,3 Nov 2020,v MI,Sharjah,1,0,0,0,0,0
+793463,6 Nov 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+793463,8 Nov 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+793463,13 Dec 2020,v Hurricanes,Hobart,1,1,1,0,0,1
+793463,15 Dec 2020,v Hurricanes,Launceston,1,0,0,0,0,0
+793463,20 Dec 2020,v Sixers,Hobart,1,0,0,0,0,0
+793463,23 Dec 2020,v Heat,Brisbane,2,0,0,0,0,0
+793463,28 Dec 2020,v Scorchers,Adelaide,2,1,1,0,0,1
+793463,31 Dec 2020,v Scorchers,Adelaide,2,1,1,0,0,1
+793463,3 Jan 2021,v Sixers,Carrara,2,0,0,0,0,0
+793463,5 Jan 2021,v Renegades,Adelaide,2,0,0,0,0,0
+793463,8 Jan 2021,v Renegades,Adelaide,2,0,0,0,0,0
+793463,11 Jan 2021,v Stars,Adelaide,1,1,1,0,0,1
+793463,21 Feb 2021,v Zalmi,Karachi,1,1,1,0,0,1
+793463,22 Feb 2021,v Gladiators,Karachi,1,0,0,0,0,0
+793463,17 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+793463,19 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+793463,20 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+793463,11 Apr 2021,v KKR,Chennai,1,0,0,0,0,0
+793463,14 Apr 2021,v RCB,Chennai,1,1,1,0,0,1
+793463,17 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+793463,21 Apr 2021,v Punjab Kings,Chennai,1,1,1,0,0,1
+793463,25 Apr 2021,v DC,Chennai,1,0,0,0,0,0
+793463,28 Apr 2021,v CSK,Delhi,2,0,0,0,0,0
+793463,2 May 2021,v RR,Delhi,1,0,0,0,0,0
+793463,9 Jun 2021,v United,Abu Dhabi,1,0,0,0,0,0
+793463,10 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+793463,13 Jun 2021,v United,Abu Dhabi,1,1,1,0,0,1
+793463,15 Jun 2021,v Gladiators,Abu Dhabi,1,0,0,0,0,0
+793463,17 Jun 2021,v Kings,Abu Dhabi,1,0,0,0,0,0
+793463,18 Jun 2021,v Sultans,Abu Dhabi,1,0,0,0,0,0
+793463,16 Jul 2021,v Hampshire,Southampton,2,0,0,0,0,0
+793463,18 Jul 2021,v Kent,Canterbury,1,0,0,0,0,0
+793463,24 Jul 2021,v Brave,Nottingham,1,0,0,0,0,0
+793463,26 Jul 2021,v N S-Chargers,Nottingham,1,1,1,0,0,1
+793463,29 Jul 2021,v Spirit,Lord's,2,1,1,0,0,1
+793463,1 Aug 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+793463,6 Aug 2021,v Fire,Cardiff,1,1,1,0,0,1
+793463,8 Aug 2021,v Invincibles,The Oval,1,0,0,0,0,0
+793463,13 Aug 2021,v Phoenix,Nottingham,1,0,0,0,0,0
+793463,15 Aug 2021,v Originals,Nottingham,1,2,2,0,0,2
+793463,20 Aug 2021,v Brave,The Oval,2,0,0,0,0,0
+793463,24 Aug 2021,v Yorkshire,Chester-le-Street,1,2,2,0,0,2
+793463,22 Sep 2021,v DC,Dubai (DICS),2,0,0,0,0,0
+793463,25 Sep 2021,v Punjab Kings,Sharjah,1,0,0,0,0,0
+793463,27 Sep 2021,v RR,Dubai (DICS),1,0,0,0,0,0
+793463,30 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+793463,3 Oct 2021,v KKR,Dubai (DICS),2,0,0,0,0,0
+793463,6 Oct 2021,v RCB,Abu Dhabi,2,0,0,0,0,0
+793463,8 Oct 2021,v MI,Abu Dhabi,1,0,0,0,0,0
+793463,25 Oct 2021,v Scotland,Sharjah,2,0,0,0,0,0
+793463,29 Oct 2021,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+793463,31 Oct 2021,v Namibia,Abu Dhabi,2,0,0,0,0,0
+793463,3 Nov 2021,v India,Abu Dhabi,1,0,0,0,0,0
+793463,7 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+793463,7 Dec 2021,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+793463,9 Dec 2021,v Renegades,Adelaide,2,0,0,0,0,0
+793463,11 Dec 2021,v Scorchers,Sydney,1,0,0,0,0,0
+793463,21 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+793463,23 Dec 2021,v Heat,Adelaide,1,0,0,0,0,0
+793463,27 Dec 2021,v Hurricanes,Hobart,2,0,0,0,0,0
+793463,31 Dec 2021,v Thunder,Adelaide,1,0,0,0,0,0
+793463,2 Jan 2022,v Thunder,Sydney,1,0,0,0,0,0
+793463,5 Jan 2022,v Hurricanes,Adelaide,1,1,1,0,0,1
+793463,10 Jan 2022,v Stars,Melbourne,2,0,0,0,0,0
+793463,12 Jan 2022,v Heat,Brisbane,2,0,0,0,0,0
+793463,29 Jan 2022,v Sultans,Karachi,2,0,0,0,0,0
+793463,30 Jan 2022,v Kings,Karachi,1,1,1,0,0,1
+793463,2 Feb 2022,v Zalmi,Karachi,2,0,0,0,0,0
+793463,5 Feb 2022,v United,Karachi,2,0,0,0,0,0
+793463,7 Feb 2022,v Gladiators,Karachi,2,0,0,0,0,0
+793463,11 Feb 2022,v Sultans,Lahore,2,0,0,0,0,0
+793463,13 Feb 2022,v Gladiators,Lahore,1,0,0,0,0,0
+793463,18 Feb 2022,v Kings,Lahore,1,0,0,0,0,0
+793463,19 Feb 2022,v United,Lahore,2,0,0,0,0,0
+793463,3 Mar 2022,v Bangladesh,Mirpur,1,0,0,0,0,0
+793463,5 Mar 2022,v Bangladesh,Mirpur,1,0,0,0,0,0
+793463,28 Mar 2022,v LSG,Wankhede,1,0,0,0,0,0
+793463,2 Apr 2022,v DC,Pune,2,0,0,0,0,0
+793463,8 Apr 2022,v Punjab Kings,Brabourne,1,1,1,0,0,1
+793463,11 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+793463,14 Apr 2022,v RR,DY Patil,2,0,0,0,0,0
+793463,17 Apr 2022,v CSK,Pune,1,0,0,0,0,0
+793463,23 Apr 2022,v KKR,DY Patil,2,0,0,0,0,0
+793463,27 Apr 2022,v SRH,Wankhede,1,0,0,0,0,0
+793463,30 Apr 2022,v RCB,Brabourne,1,1,1,0,0,1
+793463,3 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+793463,6 May 2022,v MI,Brabourne,1,3,3,0,0,3
+793463,10 May 2022,v LSG,Pune,2,1,1,0,0,1
+793463,15 May 2022,v CSK,Wankhede,1,1,1,0,0,1
+793463,19 May 2022,v RCB,Wankhede,2,0,0,0,0,0
+793463,24 May 2022,v RR,Eden Gardens,1,0,0,0,0,0
+793463,29 May 2022,v RR,Ahmedabad,1,0,0,0,0,0
+793463,11 Jun 2022,v Zimbabwe,Harare,1,0,0,0,0,0
+793463,12 Jun 2022,v Zimbabwe,Harare,2,0,0,0,0,0
+793463,14 Jun 2022,v Zimbabwe,Harare,2,0,0,0,0,0
+793463,17 Jun 2022,v Essex,Chelmsford,1,0,0,0,0,0
+793463,19 Jun 2022,v Glamorgan,Cardiff,2,2,2,0,0,2
+793463,23 Jun 2022,v Surrey,Hove,2,1,1,0,0,1
+793463,24 Jun 2022,v Kent,Canterbury,2,0,0,0,0,0
+793463,1 Jul 2022,v Essex,Hove,1,0,0,0,0,0
+793463,3 Jul 2022,v Hampshire,Hove,2,1,1,0,0,1
+793463,6 Aug 2022,v Phoenix,Nottingham,1,1,1,0,0,1
+793463,9 Aug 2022,v Ireland,Belfast,2,1,1,0,0,1
+793463,11 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+793463,12 Aug 2022,v Ireland,Belfast,2,2,2,0,0,2
+793463,15 Aug 2022,v Ireland,Belfast,2,1,1,0,0,1
+793463,17 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+793463,20 Aug 2022,v Spirit,Nottingham,1,0,0,0,0,0
+793463,27 Aug 2022,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+793463,30 Aug 2022,v Bangladesh,Sharjah,1,0,0,0,0,0
+793463,3 Sep 2022,v Sri Lanka,Sharjah,2,0,0,0,0,0
+793463,7 Sep 2022,v Pakistan,Sharjah,2,0,0,0,0,0
+793463,8 Sep 2022,v India,Dubai (DICS),1,0,0,0,0,0
+793463,11 Sep 2022,v Kings,Gros Islet,1,2,2,0,0,2
+793463,14 Sep 2022,v Tallawahs,Port of Spain,1,1,1,0,0,1
+793463,17 Sep 2022,v Kings,Tarouba,1,0,0,0,0,0
+793463,21 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+793463,22 Sep 2022,v Trinbago,Providence,2,0,0,0,0,0
+793463,22 Oct 2022,v England,Perth,2,0,0,0,0,0
+793463,1 Nov 2022,v Sri Lanka,Brisbane,2,0,0,0,0,0
+793463,4 Nov 2022,v Australia,Adelaide,1,1,1,0,0,1
+793463,14 Dec 2022,v Sixers,Adelaide,2,0,0,0,0,0
+793463,16 Dec 2022,v Thunder,Sydney,2,0,0,0,0,0
+793463,20 Dec 2022,v Thunder,Adelaide,1,1,1,0,0,1
+793463,23 Dec 2022,v Heat,Brisbane,1,0,0,0,0,0
+793463,26 Dec 2022,v Scorchers,Perth,2,0,0,0,0,0
+793463,31 Dec 2022,v Stars,Adelaide,1,0,0,0,0,0
+793463,2 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+793463,5 Jan 2023,v Hurricanes,Adelaide,1,0,0,0,0,0
+793463,10 Jan 2023,v Paarl Royals,Cape Town,1,1,1,0,0,1
+793463,13 Jan 2023,v Super Giants,Cape Town,2,0,0,0,0,0
+793463,14 Jan 2023,v Super Kings,Cape Town,1,1,1,0,0,1
+793463,16 Jan 2023,v Sunrisers,Gqeberha,2,0,0,0,0,0
+793463,18 Jan 2023,v Sunrisers,Cape Town,2,0,0,0,0,0
+793463,21 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+793463,23 Jan 2023,v Capitals,Cape Town,1,0,0,0,0,0
+793463,2 Feb 2023,v Super Giants,Durban,2,0,0,0,0,0
+793463,4 Feb 2023,v Capitals,Centurion,2,2,2,0,0,2
+793463,6 Feb 2023,v Super Kings,Johannesburg,1,1,1,0,0,1
+793463,16 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+793463,18 Feb 2023,v U.A.E.,Abu Dhabi,2,1,1,0,0,1
+793463,19 Feb 2023,v U.A.E.,Abu Dhabi,1,1,1,0,0,1
+793463,21 Feb 2023,v Gladiators,Karachi,2,1,1,0,0,1
+793463,26 Feb 2023,v Zalmi,Lahore,2,0,0,0,0,0
+793463,27 Feb 2023,v United,Lahore,2,0,0,0,0,0
+793463,2 Mar 2023,v Gladiators,Lahore,2,0,0,0,0,0
+793463,4 Mar 2023,v Sultans,Lahore,2,1,1,0,0,1
+793463,7 Mar 2023,v Zalmi,Rawalpindi,1,1,1,0,0,1
+793463,9 Mar 2023,v United,Rawalpindi,2,0,0,0,0,0
+793463,12 Mar 2023,v Kings,Lahore,1,0,0,0,0,0
+793463,15 Mar 2023,v Sultans,Lahore,1,0,0,0,0,0
+793463,17 Mar 2023,v Zalmi,Lahore,1,1,1,0,0,1
+793463,18 Mar 2023,v Sultans,Lahore,2,0,0,0,0,0
+793463,24 Mar 2023,v Pakistan,Sharjah,1,2,2,0,0,2
+793463,26 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+793463,27 Mar 2023,v Pakistan,Sharjah,1,1,1,0,0,1
+793463,31 Mar 2023,v CSK,Ahmedabad,1,1,1,0,0,1
+793463,4 Apr 2023,v DC,Delhi,1,0,0,0,0,0
+793463,9 Apr 2023,v KKR,Ahmedabad,2,0,0,0,0,0
+793463,13 Apr 2023,v Punjab Kings,Mohali,1,1,1,0,0,1
+793463,16 Apr 2023,v RR,Ahmedabad,2,0,0,0,0,0
+793463,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+793463,25 Apr 2023,v MI,Ahmedabad,2,0,0,0,0,0
+793463,29 Apr 2023,v KKR,Eden Gardens,1,1,1,0,0,1
+793463,2 May 2023,v DC,Ahmedabad,1,1,1,0,0,1
+793463,5 May 2023,v RR,Jaipur,1,0,0,0,0,0
+793463,7 May 2023,v LSG,Ahmedabad,2,1,1,0,0,1
+793463,12 May 2023,v MI,Wankhede,1,1,1,0,0,1
+793463,15 May 2023,v SRH,Ahmedabad,2,2,2,0,0,2
+793463,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+793463,23 May 2023,v CSK,Chennai,1,1,1,0,0,1
+793463,26 May 2023,v MI,Ahmedabad,2,0,0,0,0,0
+793463,28 May 2023,v CSK,Ahmedabad,2,1,1,0,0,1
+793463,14 Jul 2023,v Bangladesh,Sylhet,2,1,1,0,0,1
+793463,16 Jul 2023,v Bangladesh,Sylhet,2,1,1,0,0,1
+793463,15 Mar 2024,v Ireland,Sharjah,1,0,0,0,0,0
+793463,17 Mar 2024,v Ireland,Sharjah,2,0,0,0,0,0
+793463,18 Mar 2024,v Ireland,Sharjah,2,0,0,0,0,0
+793463,24 Mar 2024,v MI,Ahmedabad,2,1,1,0,0,1
+793463,26 Mar 2024,v CSK,Chennai,1,0,0,0,0,0
+793463,31 Mar 2024,v SRH,Ahmedabad,1,2,2,0,0,2
+793463,4 Apr 2024,v Punjab Kings,Ahmedabad,2,1,1,0,0,1
+793463,7 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+793463,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+793463,17 Apr 2024,v DC,Ahmedabad,2,0,0,0,0,0
+793463,21 Apr 2024,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+793463,24 Apr 2024,v DC,Delhi,1,1,1,0,0,1
+793463,28 Apr 2024,v RCB,Ahmedabad,2,0,0,0,0,0
+793463,4 May 2024,v RCB,Bengaluru,2,0,0,0,0,0
+793463,10 May 2024,v CSK,Ahmedabad,2,1,1,0,0,1
+793463,3 Jun 2024,v Uganda,Providence,2,0,0,0,0,0
+793463,7 Jun 2024,v New Zealand,Providence,2,2,2,0,0,2
+793463,13 Jun 2024,v P.N.G.,Tarouba,1,1,1,0,0,1
+793463,17 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+793463,20 Jun 2024,v India,Bridgetown,1,1,1,0,0,1
+793463,22 Jun 2024,v Australia,Kingstown,2,0,0,0,0,0
+793463,24 Jun 2024,v Bangladesh,Kingstown,2,0,0,0,0,0
+793463,26 Jun 2024,v South Africa,Tarouba,2,0,0,0,0,0
+793463,5 Jul 2024,v Seattle,Morrisville,1,1,1,0,0,1
+793463,6 Jul 2024,v Washington,Morrisville,2,0,0,0,0,0
+793463,14 Jul 2024,v Texas,Dallas,1,1,1,0,0,1
+793463,16 Jul 2024,v Washington,Dallas,1,1,1,0,0,1
+793463,18 Jul 2024,v SF,Dallas,1,0,0,0,0,0
+793463,21 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+793463,24 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+793463,29 Jul 2024,v Originals,Manchester,2,0,0,0,0,0
+793463,31 Jul 2024,v Phoenix,Nottingham,1,1,1,0,0,1
+793463,3 Aug 2024,v Fire,Nottingham,1,0,0,0,0,0
+793463,7 Aug 2024,v Spirit,Nottingham,2,1,1,0,0,1
+793463,10 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+793463,18 Aug 2024,v BEAD,Kabul,1,0,0,0,0,0
+793463,19 Aug 2024,v BDD,Kabul,2,0,0,0,0,0
+793463,20 Aug 2024,v Amo Sharks,Kabul,1,0,0,0,0,0
+793463,11 Dec 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+793463,13 Dec 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+793463,14 Dec 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+793463,9 Jan 2025,v Sunrisers,Gqeberha,2,0,0,0,0,0
+793463,11 Jan 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+793463,13 Jan 2025,v Paarl Royals,Cape Town,2,0,0,0,0,0
+793463,15 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+793463,18 Jan 2025,v Super Kings,Cape Town,1,2,2,0,0,2
+793463,21 Jan 2025,v Super Giants,Durban,-,TDNF,-,-,-,-
+793463,25 Jan 2025,v Super Giants,Cape Town,1,0,0,0,0,0
+793463,29 Jan 2025,v Sunrisers,Cape Town,1,1,1,0,0,1
+793463,31 Jan 2025,v Capitals,Centurion,2,1,1,0,0,1
+793463,4 Feb 2025,v Paarl Royals,Gqeberha,2,1,1,0,0,1
+793463,8 Feb 2025,v Sunrisers,Johannesburg,2,3,3,0,0,3
+793463,25 Mar 2025,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+793463,29 Mar 2025,v MI,Ahmedabad,2,0,0,0,0,0
+793463,2 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+793463,6 Apr 2025,v SRH,Hyderabad,1,1,1,0,0,1
+793463,9 Apr 2025,v RR,Ahmedabad,2,2,2,0,0,2
+793463,12 Apr 2025,v LSG,Lucknow,2,0,0,0,0,0
+793463,19 Apr 2025,v DC,Ahmedabad,1,0,0,0,0,0
+793463,21 Apr 2025,v KKR,Eden Gardens,2,0,0,0,0,0
+793463,28 Apr 2025,v RR,Jaipur,2,0,0,0,0,0
+793463,2 May 2025,v SRH,Ahmedabad,2,1,1,0,0,1
+793463,6 May 2025,v MI,Wankhede,1,0,0,0,0,0
+793463,18 May 2025,v DC,Delhi,1,0,0,0,0,0
+793463,22 May 2025,v LSG,Ahmedabad,1,0,0,0,0,0
+793463,25 May 2025,v CSK,Ahmedabad,1,0,0,0,0,0
+793463,30 May 2025,v MI,New Chandigarh,1,2,2,0,0,2
+793463,25 Jul 2025,v BEAD,Kabul,1,0,0,0,0,0
+793463,26 Jul 2025,v Amo Sharks,Kabul,2,0,0,0,0,0
+793463,28 Jul 2025,v MAK,Kabul,2,0,0,0,0,0
+793463,30 Jul 2025,v BDD,Kabul,1,1,1,0,0,1
+793463,5 Aug 2025,v Spirit,Lord's,1,3,3,0,0,3
+793463,9 Aug 2025,v Originals,The Oval,1,0,0,0,0,0
+793463,12 Aug 2025,v Phoenix,Birmingham,2,1,1,0,0,1
+793463,16 Aug 2025,v Fire,The Oval,2,0,0,0,0,0
+793463,18 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+793463,21 Aug 2025,v Rockets,The Oval,1,0,0,0,0,0
+793463,29 Aug 2025,v Pakistan,Sharjah,1,0,0,0,0,0
+793463,1 Sep 2025,v U.A.E.,Sharjah,2,0,0,0,0,0
+793463,2 Sep 2025,v Pakistan,Sharjah,2,0,0,0,0,0
+793463,7 Sep 2025,v Pakistan,Sharjah,1,1,1,0,0,1
+793463,9 Sep 2025,v Hong Kong,Abu Dhabi,2,0,0,0,0,0
+793463,16 Sep 2025,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+793463,18 Sep 2025,v Sri Lanka,Abu Dhabi,2,1,1,0,0,1
+793463,2 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+793463,3 Oct 2025,v Bangladesh,Sharjah,2,1,1,0,0,1
+793463,5 Oct 2025,v Bangladesh,Sharjah,2,1,1,0,0,1
+793463,29 Oct 2025,v Zimbabwe,Harare,2,1,1,0,0,1
+793463,31 Oct 2025,v Zimbabwe,Harare,1,1,1,0,0,1
+793463,4 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+793463,9 Dec 2025,v Vipers,Abu Dhabi,1,0,0,0,0,0
+793463,11 Dec 2025,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+793463,14 Dec 2025,v Warriorz,Abu Dhabi,1,0,0,0,0,0
+793463,17 Dec 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+793463,26 Dec 2025,v Super Giants,Cape Town,1,1,1,0,0,1
+793463,28 Dec 2025,v Super Giants,Durban,1,0,0,0,0,0
+793463,31 Dec 2025,v Capitals,Cape Town,1,1,1,0,0,1
+793463,2 Jan 2026,v Paarl Royals,Paarl,1,0,0,0,0,0
+793463,4 Jan 2026,v Paarl Royals,Cape Town,2,0,0,0,0,0
+793463,6 Jan 2026,v Super Kings,Cape Town,1,1,1,0,0,1
+793463,10 Jan 2026,v Super Kings,Johannesburg,2,0,0,0,0,0
+793463,12 Jan 2026,v Capitals,Centurion,1,0,0,0,0,0
+793463,19 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+793463,21 Jan 2026,v West Indies,Dubai (DICS),2,1,1,0,0,1
+793463,22 Jan 2026,v West Indies,Dubai (DICS),1,0,0,0,0,0
+793463,8 Feb 2026,v New Zealand,Chennai,2,1,1,0,0,1
+793463,11 Feb 2026,v South Africa,Ahmedabad,1,0,0,0,0,0
+793463,16 Feb 2026,v U.A.E.,Delhi,1,0,0,0,0,0
+793463,19 Feb 2026,v Canada,Chennai,2,0,0,0,0,0

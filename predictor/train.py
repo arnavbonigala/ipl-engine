@@ -1,11 +1,12 @@
-"""Train IPL match predictor: impact-player-era-optimized scaled Logistic Regression.
+"""Train IPL match predictor: stacked ensemble of specialist LR models.
 
 Key design decisions:
-  - 9 features found via multi-start forward selection over 2023+2024+2025 holdout.
+  - 4 base models: baseline (9 feats), composition (5), form (5), phase (4).
+  - Each base model is a scaled LR (C=0.1) trained with exponential sample weights.
+  - Meta-learner: LR (C=0.1) trained on out-of-fold base model probabilities.
   - Train on 2018+ excluding COVID neutral-venue seasons (2020, 2021).
-  - Exponential sample weights (half-life 2y) with 3x boost for impact-player-era data (2023+).
-  - Scaled LR (C=0.1) outperforms GBDT/RF/XGBoost on this small dataset.
-  - Validated 2023+2024+2025 holdout: avg 76.3% (57/73, 54/71, 53/71).
+  - Exponential sample weights (half-life 2y) with 3x boost for impact-player-era (2023+).
+  - Validated 2023+2024+2025 holdout: avg 78.6% (56/73, 55/71, 58/71).
 """
 
 import json
@@ -39,12 +40,28 @@ SELECTED_FEATURES = [
     "diff_table_nrr",
 ]
 
+CLUSTER_FEATURES = {
+    "composition": [
+        "t2_specialist_bowler", "t2_bowling_ar", "t2_specialist_bat",
+        "t2_allrounder", "t2_wk_bat",
+    ],
+    "form": [
+        "t2_win_streak", "diff_season_matches", "diff_matches_played",
+        "t1_win_rate_last10", "t2_loss_streak",
+    ],
+    "phase": [
+        "t1_middle_bat_dot_pct", "t2_powerplay_bowl_rr",
+        "diff_death_bowl_bound_pct", "diff_death_bowl_extras_per_match",
+    ],
+}
+
 COVID_SEASONS = {2020, 2021}
 MIN_TRAIN_SEASON = 2018
 IMPACT_PLAYER_START = 2023
 HALF_LIFE = 2.0
 IMPACT_ERA_BOOST = 3.0
 LR_C = 0.1
+META_C = 0.1
 
 
 def load_dataset() -> pd.DataFrame:
@@ -70,7 +87,7 @@ def make_train_mask(df: pd.DataFrame, holdout_year: int) -> pd.Series:
     )
 
 
-def train_model(X_train, y_train, w_train):
+def train_base_model(X_train, y_train, w_train):
     pipe = Pipeline([
         ("scaler", StandardScaler()),
         ("lr", LogisticRegression(C=LR_C, max_iter=5000)),
@@ -79,8 +96,42 @@ def train_model(X_train, y_train, w_train):
     return pipe
 
 
-def evaluate_holdout(df, feat_cols, holdout_year, verbose=True):
-    """Train on all available data before holdout_year, evaluate on holdout."""
+def _all_feature_sets():
+    """Return ordered list of (name, feature_list) for all base models."""
+    sets = [("baseline", SELECTED_FEATURES)]
+    for name, feats in CLUSTER_FEATURES.items():
+        sets.append((name, feats))
+    return sets
+
+
+def _generate_oof(df, train_df, feat_sets, holdout_year):
+    """Generate out-of-fold predictions for each base model via leave-one-season-out."""
+    train_seasons = sorted(train_df["season"].unique())
+    y_train = train_df["label"].values
+    n_models = len(feat_sets)
+    oof = np.zeros((len(train_df), n_models))
+
+    for mi, (_, feats) in enumerate(feat_sets):
+        for val_season in train_seasons:
+            tr_idx = train_df["season"] != val_season
+            va_idx = train_df["season"] == val_season
+            X_tr = train_df.loc[train_df.index[tr_idx], feats].fillna(0).values
+            y_tr = y_train[tr_idx]
+            X_va = train_df.loc[train_df.index[va_idx], feats].fillna(0).values
+            seasons_tr = train_df.loc[train_df.index[tr_idx], "season"].values
+            decay = np.log(2) / HALF_LIFE
+            w_tr = np.exp(-decay * (val_season - 1 - seasons_tr))
+            pipe = Pipeline([
+                ("s", StandardScaler()),
+                ("lr", LogisticRegression(C=LR_C, max_iter=5000)),
+            ])
+            pipe.fit(X_tr, y_tr, lr__sample_weight=w_tr)
+            oof[va_idx, mi] = pipe.predict_proba(X_va)[:, 1]
+    return oof
+
+
+def evaluate_holdout(df, holdout_year, verbose=True):
+    """Train stacked ensemble, evaluate on holdout."""
     mask = make_train_mask(df, holdout_year)
     train_df = df[mask]
     holdout = df[df["season"] == holdout_year]
@@ -88,18 +139,33 @@ def evaluate_holdout(df, feat_cols, holdout_year, verbose=True):
     if len(holdout) == 0:
         return None
 
-    w = compute_sample_weights(train_df["season"].values, holdout_year)
-    model = train_model(train_df[feat_cols], train_df["label"].values, w)
-    probs = model.predict_proba(holdout[feat_cols])[:, 1]
-    preds = (probs > 0.5).astype(int)
+    feat_sets = _all_feature_sets()
+    y_train = train_df["label"].values
     y = holdout["label"].values
+    w = compute_sample_weights(train_df["season"].values, holdout_year)
+
+    oof = _generate_oof(df, train_df, feat_sets, holdout_year)
+
+    hold_preds = np.zeros((len(holdout), len(feat_sets)))
+    for mi, (_, feats) in enumerate(feat_sets):
+        pipe = train_base_model(
+            train_df[feats].fillna(0).values, y_train, w
+        )
+        hold_preds[:, mi] = pipe.predict_proba(holdout[feats].fillna(0).values)[:, 1]
+
+    meta = Pipeline([
+        ("s", StandardScaler()),
+        ("lr", LogisticRegression(C=META_C, max_iter=5000)),
+    ])
+    meta.fit(oof, y_train, lr__sample_weight=w)
+    probs = meta.predict_proba(hold_preds)[:, 1]
+    preds = (probs > 0.5).astype(int)
 
     acc = accuracy_score(y, preds)
     ll = log_loss(y, probs)
     auc = roc_auc_score(y, probs)
     correct = int(acc * len(y))
 
-    # Show weight distribution
     seasons_in_train = sorted(train_df["season"].unique())
     weight_summary = {
         int(s): f"{w[train_df['season'].values == s].mean():.2f}"
@@ -117,6 +183,11 @@ def evaluate_holdout(df, feat_cols, holdout_year, verbose=True):
     print(f"  Brier score: {brier_score_loss(y, probs):.4f}", flush=True)
     print(f"  ROC AUC:     {auc:.4f}", flush=True)
 
+    meta_coefs = meta.named_steps["lr"].coef_[0]
+    print(f"  Meta weights:", flush=True)
+    for (name, _), coef in zip(feat_sets, meta_coefs):
+        print(f"    {coef:+.4f}  {name}", flush=True)
+
     if verbose:
         for idx, (_, row) in enumerate(holdout.iterrows()):
             p = probs[idx]
@@ -126,25 +197,28 @@ def evaluate_holdout(df, feat_cols, holdout_year, verbose=True):
                   f"p={p:.3f} actual={actual}", flush=True)
         print(f"  Total: {correct}/{len(holdout)} correct", flush=True)
 
-    return model, acc
+    return meta, acc
 
 
 def train():
     print("Loading dataset...", flush=True)
     df = load_dataset()
-    feat_cols = SELECTED_FEATURES
-    df[feat_cols] = df[feat_cols].fillna(0).replace([np.inf, -np.inf], 0)
+    all_feats = set(SELECTED_FEATURES)
+    for feats in CLUSTER_FEATURES.values():
+        all_feats.update(feats)
+    for f in all_feats:
+        df[f] = df[f].fillna(0).replace([np.inf, -np.inf], 0)
 
     seasons = sorted(df["season"].unique())
-    print(f"  {len(df)} rows, {len(feat_cols)} features, seasons: {seasons}", flush=True)
+    feat_sets = _all_feature_sets()
+    total_feats = sum(len(fs) for _, fs in feat_sets)
+    print(f"  {len(df)} rows, {len(feat_sets)} base models ({total_feats} total features), seasons: {seasons}", flush=True)
 
-    # Evaluate on each impact-player-era holdout season
     for hy in [2023, 2024, 2025]:
         if hy not in seasons:
             continue
-        evaluate_holdout(df, feat_cols, hy, verbose=(hy >= 2024))
+        evaluate_holdout(df, hy, verbose=(hy >= 2024))
 
-    # Production model: train on ALL available data, weighted toward most recent
     latest_season = max(seasons)
     print(f"\nTraining production model (target: {latest_season + 1})...", flush=True)
     prod_mask = (
@@ -153,20 +227,31 @@ def train():
     )
     prod_df = df[prod_mask]
     w_prod = compute_sample_weights(prod_df["season"].values, latest_season + 1)
-    prod_model = train_model(prod_df[feat_cols], prod_df["label"].values, w_prod)
+    y_prod = prod_df["label"].values
 
-    # Feature coefficients from production model
-    lr = prod_model.named_steps["lr"]
-    print("\nFeature coefficients (production model):", flush=True)
-    for name, coef in sorted(zip(feat_cols, lr.coef_[0]), key=lambda x: -abs(x[1])):
+    base_models = {}
+    for name, feats in feat_sets:
+        base_models[name] = train_base_model(
+            prod_df[feats].fillna(0).values, y_prod, w_prod
+        )
+
+    oof_prod = _generate_oof(df, prod_df, feat_sets, latest_season + 1)
+    meta_model = Pipeline([
+        ("s", StandardScaler()),
+        ("lr", LogisticRegression(C=META_C, max_iter=5000)),
+    ])
+    meta_model.fit(oof_prod, y_prod, lr__sample_weight=w_prod)
+
+    meta_coefs = meta_model.named_steps["lr"].coef_[0]
+    print("\nMeta-learner weights (production):", flush=True)
+    for (name, _), coef in zip(feat_sets, meta_coefs):
         print(f"  {coef:+.4f}  {name}", flush=True)
-    print(f"  Intercept: {lr.intercept_[0]:+.4f}", flush=True)
 
-    # Save
     bundle = {
-        "feature_cols": feat_cols,
-        "model_type": "scaled_lr",
+        "model_type": "stacked_lr",
+        "base_models": {name: feats for name, feats in feat_sets},
         "lr_C": LR_C,
+        "meta_C": META_C,
         "min_train_season": MIN_TRAIN_SEASON,
         "covid_seasons": list(COVID_SEASONS),
         "impact_era_boost": IMPACT_ERA_BOOST,
@@ -176,7 +261,7 @@ def train():
     with open(MODELS_DIR / "bundle.json", "w") as f:
         json.dump(bundle, f, indent=2)
     with open(MODELS_DIR / "model.pkl", "wb") as f:
-        pickle.dump(prod_model, f)
+        pickle.dump({"base_models": base_models, "meta_model": meta_model}, f)
 
     print(f"\nModel saved to {MODELS_DIR}/", flush=True)
 

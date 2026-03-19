@@ -1,0 +1,504 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+325026,2 Jan 2010,v NSW,Melbourne,1,2,2,0,0,2
+325026,7 Jan 2010,v South Aust,Adelaide,1,1,1,0,0,1
+325026,13 Sep 2010,v Warriors,Gqeberha,1,1,1,0,0,1
+325026,11 Jan 2011,v Tasmania,Hobart,2,0,0,0,0,0
+325026,18 Jan 2011,v West Aust,W.A.C.A,2,0,0,0,0,0
+325026,18 Dec 2011,v Strikers,Adelaide,1,2,2,0,0,2
+325026,22 Dec 2011,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+325026,30 Dec 2011,v Thunder,Sydney,2,0,0,0,0,0
+325026,2 Jan 2012,v Sixers,Melbourne (Docklands),1,0,0,0,0,0
+325026,7 Jan 2012,v Stars,Melbourne,1,0,0,0,0,0
+325026,12 Jan 2012,v Heat,Melbourne (Docklands),1,1,1,0,0,1
+325026,5 Apr 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+325026,7 Apr 2012,v RCB,Bengaluru,1,0,0,0,0,0
+325026,18 Jun 2012,v Middlesex,Southampton,2,0,0,0,0,0
+325026,22 Jun 2012,v Kent,Southampton,1,0,0,0,0,0
+325026,24 Jun 2012,v Kent,Canterbury,1,1,1,0,0,1
+325026,27 Jun 2012,v Middlesex,Richmond,1,0,0,0,0,0
+325026,29 Jun 2012,v Essex,Chelmsford,1,0,0,0,0,0
+325026,30 Jun 2012,v Surrey,Southampton,1,0,0,0,0,0
+325026,2 Jul 2012,v Surrey,The Oval,1,0,0,0,0,0
+325026,6 Jul 2012,v Sussex,Southampton,1,0,0,0,0,0
+325026,25 Jul 2012,v Notts,Nottingham,1,1,1,0,0,1
+325026,5 Sep 2012,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+325026,10 Sep 2012,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+325026,19 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+325026,22 Sep 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+325026,28 Sep 2012,v India,Colombo (RPS),1,2,2,0,0,2
+325026,30 Sep 2012,v South Africa,Colombo (RPS),1,0,0,0,0,0
+325026,2 Oct 2012,v Pakistan,Colombo (RPS),1,0,0,0,0,0
+325026,10 Oct 2012,v Auckland,Centurion,2,0,0,0,0,0
+325026,11 Oct 2012,v S Stallions,Johannesburg,2,1,1,0,0,1
+325026,12 Dec 2012,v Scorchers,W.A.C.A,1,1,1,0,0,1
+325026,15 Dec 2012,v Hurricanes,Melbourne,1,1,1,0,0,1
+325026,21 Dec 2012,v Sixers,Melbourne,2,0,0,0,0,0
+325026,27 Dec 2012,v Strikers,Adelaide,2,1,1,0,0,1
+325026,3 Jan 2013,v Heat,Brisbane,1,0,0,0,0,0
+325026,6 Jan 2013,v Renegades,Melbourne,2,0,0,0,0,0
+325026,8 Jan 2013,v Thunder,Melbourne,2,1,1,0,0,1
+325026,26 Jan 2013,v Sri Lanka,Sydney,2,0,0,0,0,0
+325026,28 Jan 2013,v Sri Lanka,Melbourne,1,0,0,0,0,0
+325026,11 May 2013,v Warriors,Pune,1,0,0,0,0,0
+325026,15 May 2013,v RR,Wankhede,2,1,1,0,0,1
+325026,18 May 2013,v Kings XI,Dharamsala,1,0,0,0,0,0
+325026,26 Jun 2013,v Hampshire,Southampton,2,0,0,0,0,0
+325026,28 Jun 2013,v Sussex,Hove,2,0,0,0,0,0
+325026,30 Jun 2013,v Kent,Canterbury,2,1,1,0,0,1
+325026,3 Jul 2013,v Sussex,The Oval,2,0,0,0,0,0
+325026,5 Jul 2013,v Middlesex,The Oval,2,0,0,0,0,0
+325026,15 Jul 2013,v Essex,The Oval,2,1,1,0,0,1
+325026,17 Aug 2013,v Hampshire,Birmingham,1,1,1,0,0,1
+325026,17 Aug 2013,v Northants,Birmingham,1,0,0,0,0,0
+325026,29 Aug 2013,v England,Southampton,2,1,1,0,0,1
+325026,31 Aug 2013,v England,Chester-le-Street,1,0,0,0,0,0
+325026,2 Oct 2013,v Scorchers,Delhi,1,0,0,0,0,0
+325026,6 Oct 2013,v RR,Delhi,2,0,0,0,0,0
+325026,10 Oct 2013,v India,Rajkot,2,0,0,0,0,0
+325026,20 Dec 2013,v Renegades,Melbourne,2,2,2,0,0,2
+325026,29 Dec 2013,v Sixers,Sydney,2,1,1,0,0,1
+325026,1 Jan 2014,v Thunder,Sydney,1,2,2,0,0,2
+325026,4 Jan 2014,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+325026,9 Jan 2014,v Strikers,Melbourne,1,1,1,0,0,1
+325026,29 Jan 2014,v England,Hobart,2,0,0,0,0,0
+325026,31 Jan 2014,v England,Melbourne,1,1,1,0,0,1
+325026,2 Feb 2014,v England,Sydney,2,1,1,0,0,1
+325026,4 Feb 2014,v Hurricanes,Melbourne,2,0,0,0,0,0
+325026,12 Mar 2014,v South Africa,Durban,1,0,0,0,0,0
+325026,14 Mar 2014,v South Africa,Centurion,1,0,0,0,0,0
+325026,23 Mar 2014,v Pakistan,Mirpur,1,1,1,0,0,1
+325026,28 Mar 2014,v West Indies,Mirpur,2,2,2,0,0,2
+325026,30 Mar 2014,v India,Mirpur,1,1,1,0,0,1
+325026,1 Apr 2014,v Bangladesh,Mirpur,1,2,2,0,0,2
+325026,18 Apr 2014,v CSK,Abu Dhabi,1,1,1,0,0,1
+325026,20 Apr 2014,v RR,Sharjah,1,0,0,0,0,0
+325026,22 Apr 2014,v SRH,Sharjah,2,1,1,0,0,1
+325026,26 Apr 2014,v KKR,Abu Dhabi,2,1,1,0,0,1
+325026,28 Apr 2014,v RCB,Dubai (DICS),1,1,1,0,0,1
+325026,3 May 2014,v MI,Wankhede,2,0,0,0,0,0
+325026,7 May 2014,v CSK,Cuttack,2,0,0,0,0,0
+325026,9 May 2014,v RCB,Bengaluru,2,0,0,0,0,0
+325026,11 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+325026,14 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+325026,19 May 2014,v Daredevils,Delhi,1,3,3,0,0,3
+325026,21 May 2014,v MI,Mohali,2,0,0,0,0,0
+325026,25 May 2014,v Daredevils,Mohali,1,1,1,0,0,1
+325026,27 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+325026,30 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+325026,1 Jun 2014,v KKR,Bengaluru,2,1,1,0,0,1
+325026,5 Jun 2014,v Kent,Southampton,2,0,0,0,0,0
+325026,13 Jun 2014,v Somerset,Taunton,1,0,0,0,0,0
+325026,20 Jun 2014,v Gloucs,Southampton,2,0,0,0,0,0
+325026,25 Jun 2014,v Glamorgan,Cardiff,2,0,0,0,0,0
+325026,27 Jun 2014,v Surrey,The Oval,2,0,0,0,0,0
+325026,4 Jul 2014,v Kent,Canterbury,2,3,3,0,0,3
+325026,6 Jul 2014,v Somerset,Southampton,1,0,0,0,0,0
+325026,11 Jul 2014,v Middlesex,Southampton,1,1,1,0,0,1
+325026,18 Jul 2014,v Sussex,Southampton,2,1,1,0,0,1
+325026,22 Jul 2014,v Essex,Chelmsford,1,1,1,0,0,1
+325026,3 Aug 2014,v Notts,Nottingham,1,0,0,0,0,0
+325026,18 Sep 2014,v Hurricanes,Mohali,1,1,1,0,0,1
+325026,20 Sep 2014,v Tridents,Mohali,1,0,0,0,0,0
+325026,26 Sep 2014,v Northern Dis,Mohali,2,0,0,0,0,0
+325026,28 Sep 2014,v Cape Cobras,Mohali,1,1,1,0,0,1
+325026,2 Oct 2014,v CSK,Hyderabad,1,1,1,0,0,1
+325026,5 Oct 2014,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+325026,7 Nov 2014,v South Africa,Melbourne,1,0,0,0,0,0
+325026,9 Nov 2014,v South Africa,Sydney,1,1,1,0,0,1
+325026,18 Dec 2014,v Strikers,Adelaide,2,0,0,0,0,0
+325026,20 Dec 2014,v Hurricanes,Melbourne,1,2,2,0,0,2
+325026,28 Dec 2014,v Heat,Brisbane,1,0,0,0,0,0
+325026,3 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+325026,5 Jan 2015,v Sixers,Melbourne,1,2,2,0,0,2
+325026,10 Jan 2015,v Renegades,Melbourne,1,0,0,0,0,0
+325026,10 Apr 2015,v RR,Pune,1,0,0,0,0,0
+325026,12 Apr 2015,v MI,Wankhede,2,0,0,0,0,0
+325026,15 Apr 2015,v Daredevils,Pune,2,0,0,0,0,0
+325026,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+325026,21 Apr 2015,v RR,Ahmedabad,1,2,2,0,0,2
+325026,3 May 2015,v MI,Mohali,1,0,0,0,0,0
+325026,6 May 2015,v RCB,Bengaluru,1,0,0,0,0,0
+325026,9 May 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+325026,11 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+325026,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+325026,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+325026,22 May 2015,v Notts,Nottingham,1,0,0,0,0,0
+325026,29 May 2015,v Durham,Chester-le-Street,1,0,0,0,0,0
+325026,5 Jun 2015,v Lancashire,Leeds,2,1,1,0,0,1
+325026,14 Jun 2015,v Northants,Leeds,2,0,0,0,0,0
+325026,19 Jun 2015,v Notts,Leeds,2,2,2,0,0,2
+325026,21 Jun 2015,v Warwickshire,Birmingham,2,0,0,0,0,0
+325026,26 Jun 2015,v Leics,Leicester,1,1,1,0,0,1
+325026,3 Jul 2015,v Lancashire,Manchester,1,1,1,0,0,1
+325026,10 Jul 2015,v Durham,Leeds,1,0,0,0,0,0
+325026,12 Jul 2015,v Derbyshire,Chesterfield,2,0,0,0,0,0
+325026,14 Jul 2015,v Worcs,Leeds,1,0,0,0,0,0
+325026,17 Jul 2015,v Northants,Northampton,2,1,1,0,0,1
+325026,31 Aug 2015,v England,Cardiff,1,0,0,0,0,0
+325026,18 Dec 2015,v Strikers,Adelaide,1,0,0,0,0,0
+325026,20 Dec 2015,v Thunder,Melbourne,1,1,1,0,0,1
+325026,27 Dec 2015,v Sixers,Sydney,1,0,0,0,0,0
+325026,2 Jan 2016,v Renegades,Melbourne,1,0,0,0,0,0
+325026,6 Jan 2016,v Hurricanes,Melbourne,1,0,0,0,0,0
+325026,29 Jan 2016,v India,Melbourne,1,0,0,0,0,0
+325026,31 Jan 2016,v India,Sydney,2,0,0,0,0,0
+325026,4 Mar 2016,v South Africa,Durban,2,0,0,0,0,0
+325026,6 Mar 2016,v South Africa,Johannesburg,1,2,2,0,0,2
+325026,9 Mar 2016,v South Africa,Cape Town,1,0,0,0,0,0
+325026,18 Mar 2016,v New Zealand,Dharamsala,1,2,2,0,0,2
+325026,21 Mar 2016,v Bangladesh,Bengaluru,1,1,1,0,0,1
+325026,25 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+325026,27 Mar 2016,v India,Mohali,2,0,0,0,0,0
+325026,11 Apr 2016,v Guj Lions,Mohali,2,0,0,0,0,0
+325026,15 Apr 2016,v Daredevils,Delhi,2,0,0,0,0,0
+325026,17 Apr 2016,v Supergiants,Mohali,1,1,1,0,0,1
+325026,19 Apr 2016,v KKR,Mohali,2,1,1,0,0,1
+325026,23 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+325026,25 Apr 2016,v MI,Mohali,1,0,0,0,0,0
+325026,1 May 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+325026,4 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+325026,7 May 2016,v Daredevils,Mohali,2,1,1,0,0,1
+325026,13 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+325026,15 May 2016,v SRH,Mohali,2,0,0,0,0,0
+325026,6 Sep 2016,v Sri Lanka,Pallekele,2,1,1,0,0,1
+325026,9 Sep 2016,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+325026,26 Dec 2016,v Hurricanes,Hobart,1,1,1,0,0,1
+325026,1 Jan 2017,v Renegades,Melbourne,1,0,0,0,0,0
+325026,4 Jan 2017,v Thunder,Sydney,2,0,0,0,0,0
+325026,7 Jan 2017,v Renegades,Melbourne (Docklands),2,3,3,0,0,3
+325026,8 Apr 2017,v Supergiant,Indore,1,1,1,0,0,1
+325026,10 Apr 2017,v RCB,Indore,1,1,1,0,0,1
+325026,13 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+325026,15 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+325026,17 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+325026,20 Apr 2017,v MI,Indore,2,2,2,0,0,2
+325026,23 Apr 2017,v Guj Lions,Rajkot,2,1,1,0,0,1
+325026,28 Apr 2017,v SRH,Mohali,1,1,1,0,0,1
+325026,30 Apr 2017,v Daredevils,Mohali,1,0,0,0,0,0
+325026,5 May 2017,v RCB,Bengaluru,2,0,0,0,0,0
+325026,7 May 2017,v Guj Lions,Mohali,2,0,0,0,0,0
+325026,9 May 2017,v KKR,Mohali,2,1,1,0,0,1
+325026,11 May 2017,v MI,Wankhede,2,0,0,0,0,0
+325026,14 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+325026,7 Oct 2017,v India,Ranchi,2,0,0,0,0,0
+325026,10 Oct 2017,v India,Guwahati,1,0,0,0,0,0
+325026,20 Dec 2017,v Heat,Brisbane,1,1,1,0,0,1
+325026,26 Dec 2017,v Scorchers,W.A.C.A,1,0,0,0,0,0
+325026,2 Jan 2018,v Heat,Melbourne,2,0,0,0,0,0
+325026,6 Jan 2018,v Renegades,Melbourne,2,0,0,0,0,0
+325026,9 Jan 2018,v Strikers,Adelaide,2,0,0,0,0,0
+325026,12 Jan 2018,v Renegades,Melbourne (Docklands),2,4,4,0,0,4
+325026,16 Jan 2018,v Sixers,Melbourne,2,1,1,0,0,1
+325026,20 Jan 2018,v Thunder,Melbourne,2,0,0,0,0,0
+325026,23 Jan 2018,v Sixers,Sydney,2,1,1,0,0,1
+325026,3 Feb 2018,v New Zealand,Sydney,1,0,0,0,0,0
+325026,7 Feb 2018,v England,Hobart,1,1,1,0,0,1
+325026,10 Feb 2018,v England,Melbourne,1,0,0,0,0,0
+325026,16 Feb 2018,v New Zealand,Auckland,1,2,2,0,0,2
+325026,21 Feb 2018,v New Zealand,Auckland,1,2,2,0,0,2
+325026,11 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+325026,14 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+325026,16 Apr 2018,v KKR,Eden Gardens,1,2,2,0,0,2
+325026,21 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+325026,23 Apr 2018,v Kings XI,Delhi,1,0,0,0,0,0
+325026,27 Apr 2018,v KKR,Delhi,2,0,0,0,0,0
+325026,30 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+325026,2 May 2018,v RR,Delhi,2,0,0,0,0,0
+325026,5 May 2018,v SRH,Hyderabad,2,0,0,0,0,0
+325026,10 May 2018,v SRH,Delhi,2,0,0,0,0,0
+325026,18 May 2018,v CSK,Delhi,2,1,1,0,0,1
+325026,20 May 2018,v MI,Delhi,2,1,1,0,0,1
+325026,27 Jun 2018,v England,Birmingham,1,0,0,0,0,0
+325026,2 Jul 2018,v Pakistan,Harare,1,0,0,0,0,0
+325026,3 Jul 2018,v Zimbabwe,Harare,2,0,0,0,0,0
+325026,5 Jul 2018,v Pakistan,Harare,1,2,2,0,0,2
+325026,6 Jul 2018,v Zimbabwe,Harare,1,0,0,0,0,0
+325026,8 Jul 2018,v Pakistan,Harare,2,0,0,0,0,0
+325026,22 Oct 2018,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+325026,24 Oct 2018,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+325026,26 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+325026,28 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+325026,17 Nov 2018,v South Africa,Carrara,1,2,2,0,0,2
+325026,21 Nov 2018,v India,Brisbane,2,1,1,0,0,1
+325026,23 Nov 2018,v India,Melbourne,-,TDNF,-,-,-,-
+325026,25 Nov 2018,v India,Sydney,2,0,0,0,0,0
+325026,21 Dec 2018,v Thunder,Canberra,1,0,0,0,0,0
+325026,24 Dec 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+325026,27 Dec 2018,v Sixers,Sydney,1,2,2,0,0,2
+325026,1 Jan 2019,v Renegades,Melbourne,1,3,3,0,0,3
+325026,5 Jan 2019,v Thunder,Carrara,1,1,1,0,0,1
+325026,19 Jan 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+325026,23 Jan 2019,v Strikers,Moe,2,2,2,0,0,2
+325026,27 Jan 2019,v Heat,Melbourne,2,2,2,0,0,2
+325026,3 Feb 2019,v Scorchers,Perth,1,2,2,0,0,2
+325026,8 Feb 2019,v Heat,Brisbane,2,0,0,0,0,0
+325026,10 Feb 2019,v Sixers,Melbourne,2,2,2,0,0,2
+325026,14 Feb 2019,v Hurricanes,Hobart,1,2,2,0,0,2
+325026,17 Feb 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+325026,24 Feb 2019,v India,Visakhapatnam,1,1,1,0,0,1
+325026,27 Feb 2019,v India,Bengaluru,1,0,0,0,0,0
+325026,19 Jul 2019,v Leics,Leicester,-,TDNF,-,-,-,-
+325026,21 Jul 2019,v Durham,Manchester,2,0,0,0,0,0
+325026,25 Jul 2019,v Yorkshire,Leeds,2,0,0,0,0,0
+325026,26 Jul 2019,v Worcs,Manchester,1,1,1,0,0,1
+325026,2 Aug 2019,v Durham,Chester-le-Street,1,1,1,0,0,1
+325026,3 Aug 2019,v Notts,Manchester,2,4,4,0,0,4
+325026,11 Aug 2019,v Bears,Birmingham,1,0,0,0,0,0
+325026,25 Aug 2019,v Worcs,Worcester,2,1,1,0,0,1
+325026,26 Aug 2019,v Derbyshire,Manchester,1,0,0,0,0,0
+325026,30 Aug 2019,v Leics,Manchester,1,1,1,0,0,1
+325026,4 Sep 2019,v Essex,Chester-le-Street,2,0,0,0,0,0
+325026,27 Oct 2019,v Sri Lanka,Adelaide,2,0,0,0,0,0
+325026,30 Oct 2019,v Sri Lanka,Brisbane,1,0,0,0,0,0
+325026,20 Dec 2019,v Heat,Carrara,2,0,0,0,0,0
+325026,22 Dec 2019,v Hurricanes,Moe,2,0,0,0,0,0
+325026,27 Dec 2019,v Strikers,Carrara,1,1,1,0,0,1
+325026,30 Dec 2019,v Hurricanes,Launceston,1,1,1,0,0,1
+325026,2 Jan 2020,v Thunder,Sydney,1,0,0,0,0,0
+325026,4 Jan 2020,v Renegades,Melbourne,1,0,0,0,0,0
+325026,8 Jan 2020,v Thunder,Melbourne,1,0,0,0,0,0
+325026,10 Jan 2020,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+325026,12 Jan 2020,v Sixers,Melbourne,2,1,1,0,0,1
+325026,15 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+325026,18 Jan 2020,v Scorchers,Melbourne,2,1,1,0,0,1
+325026,20 Jan 2020,v Sixers,Sydney,1,0,0,0,0,0
+325026,22 Jan 2020,v Strikers,Adelaide,1,0,0,0,0,0
+325026,25 Jan 2020,v Heat,Melbourne,1,0,0,0,0,0
+325026,31 Jan 2020,v Sixers,Melbourne,1,0,0,0,0,0
+325026,6 Feb 2020,v Thunder,Melbourne,2,0,0,0,0,0
+325026,8 Feb 2020,v Sixers,Sydney,1,0,0,0,0,0
+325026,4 Sep 2020,v England,Southampton,1,0,0,0,0,0
+325026,6 Sep 2020,v England,Southampton,2,1,1,0,0,1
+325026,8 Sep 2020,v England,Southampton,1,0,0,0,0,0
+325026,20 Sep 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+325026,24 Sep 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+325026,27 Sep 2020,v RR,Sharjah,2,0,0,0,0,0
+325026,1 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+325026,4 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+325026,8 Oct 2020,v SRH,Dubai (DICS),1,2,2,0,0,2
+325026,10 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+325026,15 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+325026,18 Oct 2020,v MI,Dubai (DICS),1,0,0,0,0,0
+325026,20 Oct 2020,v DC,Dubai (DICS),1,1,1,0,0,1
+325026,24 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+325026,26 Oct 2020,v KKR,Sharjah,1,0,0,0,0,0
+325026,30 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+325026,4 Dec 2020,v India,Canberra,1,0,0,0,0,0
+325026,6 Dec 2020,v India,Sydney,2,0,0,0,0,0
+325026,8 Dec 2020,v India,Sydney,2,0,0,0,0,0
+325026,11 Dec 2020,v Heat,Canberra,1,1,1,0,0,1
+325026,12 Dec 2020,v Thunder,Canberra,2,0,0,0,0,0
+325026,16 Dec 2020,v Scorchers,Launceston,1,0,0,0,0,0
+325026,26 Dec 2020,v Sixers,Carrara,2,2,2,0,0,2
+325026,29 Dec 2020,v Thunder,Canberra,1,0,0,0,0,0
+325026,2 Jan 2021,v Hurricanes,Hobart,1,2,2,0,0,2
+325026,4 Jan 2021,v Hurricanes,Hobart,2,0,0,0,0,0
+325026,7 Jan 2021,v Heat,Carrara,1,0,0,0,0,0
+325026,11 Jan 2021,v Strikers,Adelaide,2,0,0,0,0,0
+325026,15 Jan 2021,v Strikers,Melbourne,2,0,0,0,0,0
+325026,17 Jan 2021,v Renegades,Melbourne,1,1,1,0,0,1
+325026,20 Jan 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+325026,23 Jan 2021,v Scorchers,Melbourne,1,2,2,0,0,2
+325026,26 Jan 2021,v Sixers,Melbourne,2,1,1,0,0,1
+325026,22 Feb 2021,v New Zealand,Christchurch,1,0,0,0,0,0
+325026,25 Feb 2021,v New Zealand,Dunedin,1,1,1,0,0,1
+325026,3 Mar 2021,v New Zealand,Wellington,2,1,1,0,0,1
+325026,5 Mar 2021,v New Zealand,Wellington,2,2,2,0,0,2
+325026,7 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+325026,9 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+325026,14 Apr 2021,v SRH,Chennai,2,1,1,0,0,1
+325026,18 Apr 2021,v KKR,Chennai,2,0,0,0,0,0
+325026,22 Apr 2021,v RR,Wankhede,1,2,2,0,0,2
+325026,25 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+325026,27 Apr 2021,v DC,Ahmedabad,2,0,0,0,0,0
+325026,30 Apr 2021,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+325026,20 Sep 2021,v KKR,Abu Dhabi,2,0,0,0,0,0
+325026,24 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+325026,26 Sep 2021,v MI,Dubai (DICS),2,1,1,0,0,1
+325026,29 Sep 2021,v RR,Dubai (DICS),1,0,0,0,0,0
+325026,3 Oct 2021,v Punjab Kings,Sharjah,2,0,0,0,0,0
+325026,6 Oct 2021,v SRH,Abu Dhabi,1,1,1,0,0,1
+325026,8 Oct 2021,v DC,Dubai (DICS),1,0,0,0,0,0
+325026,11 Oct 2021,v KKR,Sharjah,2,0,0,0,0,0
+325026,23 Oct 2021,v South Africa,Abu Dhabi,1,1,1,0,0,1
+325026,28 Oct 2021,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+325026,30 Oct 2021,v England,Dubai (DICS),2,0,0,0,0,0
+325026,4 Nov 2021,v Bangladesh,Dubai (DICS),1,0,0,0,0,0
+325026,6 Nov 2021,v West Indies,Abu Dhabi,1,1,1,0,0,1
+325026,11 Nov 2021,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+325026,14 Nov 2021,v New Zealand,Dubai (DICS),1,1,1,0,0,1
+325026,5 Dec 2021,v Sixers,Sydney,1,0,0,0,0,0
+325026,10 Dec 2021,v Thunder,Melbourne,2,1,1,0,0,1
+325026,12 Dec 2021,v Thunder,Sydney,1,0,0,0,0,0
+325026,15 Dec 2021,v Sixers,Melbourne,2,0,0,0,0,0
+325026,24 Dec 2021,v Hurricanes,Hobart,1,0,0,0,0,0
+325026,27 Dec 2021,v Heat,Brisbane,2,2,2,0,0,2
+325026,2 Jan 2022,v Scorchers,Melbourne,1,0,0,0,0,0
+325026,3 Jan 2022,v Renegades,Melbourne,2,0,0,0,0,0
+325026,11 Jan 2022,v Scorchers,Geelong,1,0,0,0,0,0
+325026,13 Jan 2022,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+325026,15 Jan 2022,v Strikers,Adelaide,1,0,0,0,0,0
+325026,16 Jan 2022,v Heat,Melbourne,1,1,1,0,0,1
+325026,19 Jan 2022,v Hurricanes,Melbourne,2,2,2,0,0,2
+325026,11 Feb 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+325026,13 Feb 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+325026,15 Feb 2022,v Sri Lanka,Canberra,1,0,0,0,0,0
+325026,18 Feb 2022,v Sri Lanka,Melbourne,1,0,0,0,0,0
+325026,20 Feb 2022,v Sri Lanka,Melbourne,2,1,1,0,0,1
+325026,9 Apr 2022,v MI,Pune,1,0,0,0,0,0
+325026,12 Apr 2022,v CSK,DY Patil,1,0,0,0,0,0
+325026,16 Apr 2022,v DC,Wankhede,2,0,0,0,0,0
+325026,19 Apr 2022,v LSG,DY Patil,2,1,1,0,0,1
+325026,23 Apr 2022,v SRH,Brabourne,2,0,0,0,0,0
+325026,26 Apr 2022,v RR,Pune,1,1,1,0,0,1
+325026,30 Apr 2022,v GT,Brabourne,2,0,0,0,0,0
+325026,4 May 2022,v CSK,Pune,2,0,0,0,0,0
+325026,8 May 2022,v SRH,Wankhede,2,1,1,0,0,1
+325026,13 May 2022,v Punjab Kings,Brabourne,1,1,1,0,0,1
+325026,19 May 2022,v GT,Wankhede,1,1,1,0,0,1
+325026,25 May 2022,v LSG,Eden Gardens,2,0,0,0,0,0
+325026,27 May 2022,v RR,Ahmedabad,2,0,0,0,0,0
+325026,7 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+325026,8 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+325026,11 Jun 2022,v Sri Lanka,Pallekele,2,0,0,0,0,0
+325026,4 Aug 2022,v Invincibles,The Oval,2,2,2,0,0,2
+325026,8 Aug 2022,v Originals,Lord's,2,1,1,0,0,1
+325026,12 Aug 2022,v Brave,Southampton,2,0,0,0,0,0
+325026,14 Aug 2022,v N S-Chargers,Leeds,1,1,1,0,0,1
+325026,20 Sep 2022,v India,Mohali,1,0,0,0,0,0
+325026,23 Sep 2022,v India,Nagpur,2,0,0,0,0,0
+325026,25 Sep 2022,v India,Hyderabad,2,0,0,0,0,0
+325026,5 Oct 2022,v West Indies,Carrara,1,0,0,0,0,0
+325026,7 Oct 2022,v West Indies,Brisbane,2,0,0,0,0,0
+325026,12 Oct 2022,v England,Canberra,1,0,0,0,0,0
+325026,14 Oct 2022,v England,Canberra,1,0,0,0,0,0
+325026,22 Oct 2022,v New Zealand,Sydney,1,0,0,0,0,0
+325026,25 Oct 2022,v Sri Lanka,Perth,1,0,0,0,0,0
+325026,31 Oct 2022,v Ireland,Brisbane,2,1,1,0,0,1
+325026,4 Nov 2022,v Afghanistan,Adelaide,2,1,1,0,0,1
+325026,2 Apr 2023,v MI,Bengaluru,1,0,0,0,0,0
+325026,6 Apr 2023,v KKR,Eden Gardens,1,1,1,0,0,1
+325026,10 Apr 2023,v LSG,Bengaluru,2,0,0,0,0,0
+325026,15 Apr 2023,v DC,Bengaluru,2,1,1,0,0,1
+325026,17 Apr 2023,v CSK,Bengaluru,1,0,0,0,0,0
+325026,20 Apr 2023,v Punjab Kings,Mohali,2,0,0,0,0,0
+325026,23 Apr 2023,v RR,Bengaluru,2,0,0,0,0,0
+325026,26 Apr 2023,v KKR,Bengaluru,1,1,1,0,0,1
+325026,1 May 2023,v LSG,Lucknow,2,0,0,0,0,0
+325026,6 May 2023,v DC,Delhi,2,0,0,0,0,0
+325026,9 May 2023,v MI,Wankhede,2,1,1,0,0,1
+325026,14 May 2023,v RR,Jaipur,2,0,0,0,0,0
+325026,18 May 2023,v SRH,Hyderabad,1,0,0,0,0,0
+325026,21 May 2023,v GT,Bengaluru,2,0,0,0,0,0
+325026,26 May 2023,v Leics,Leicester,1,0,0,0,0,0
+325026,29 May 2023,v Lancashire,Birmingham,1,0,0,0,0,0
+325026,31 May 2023,v Northants,Northampton,2,1,1,0,0,1
+325026,2 Jun 2023,v Derbyshire,Derby,1,0,0,0,0,0
+325026,3 Jun 2023,v Notts,Birmingham,1,0,0,0,0,0
+325026,7 Jun 2023,v Derbyshire,Birmingham,2,1,1,0,0,1
+325026,9 Jun 2023,v Northants,Birmingham,2,0,0,0,0,0
+325026,16 Jun 2023,v Worcs,Worcester,2,1,1,0,0,1
+325026,20 Jun 2023,v Durham,Chester-le-Street,1,1,1,0,0,1
+325026,22 Jun 2023,v Yorkshire,Leeds,2,0,0,0,0,0
+325026,23 Jun 2023,v Worcs,Birmingham,2,0,0,0,0,0
+325026,30 Jun 2023,v Notts,Nottingham,1,0,0,0,0,0
+325026,2 Jul 2023,v Durham,Birmingham,2,2,2,0,0,2
+325026,6 Jul 2023,v Essex,Birmingham,2,0,0,0,0,0
+325026,26 Nov 2023,v India,Thiruvananthapuram,1,0,0,0,0,0
+325026,28 Nov 2023,v India,Guwahati,1,0,0,0,0,0
+325026,7 Dec 2023,v Heat,Brisbane,1,0,0,0,0,0
+325026,23 Dec 2023,v Thunder,Albury,2,0,0,0,0,0
+325026,26 Dec 2023,v Sixers,Sydney,1,1,1,0,0,1
+325026,28 Dec 2023,v Hurricanes,Hobart,1,1,1,0,0,1
+325026,31 Dec 2023,v Strikers,Adelaide,1,1,1,0,0,1
+325026,2 Jan 2024,v Renegades,Melbourne,1,2,2,0,0,2
+325026,6 Jan 2024,v Sixers,Melbourne,2,0,0,0,0,0
+325026,13 Jan 2024,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+325026,15 Jan 2024,v Hurricanes,Melbourne,1,3,3,0,0,3
+325026,9 Feb 2024,v West Indies,Hobart,2,0,0,0,0,0
+325026,11 Feb 2024,v West Indies,Adelaide,2,2,2,0,0,2
+325026,13 Feb 2024,v West Indies,Perth,1,2,2,0,0,2
+325026,21 Feb 2024,v New Zealand,Wellington,1,0,0,0,0,0
+325026,23 Feb 2024,v New Zealand,Auckland,2,0,0,0,0,0
+325026,25 Feb 2024,v New Zealand,Auckland,2,0,0,0,0,0
+325026,22 Mar 2024,v CSK,Chennai,2,1,1,0,0,1
+325026,25 Mar 2024,v Punjab Kings,Bengaluru,1,0,0,0,0,0
+325026,29 Mar 2024,v KKR,Bengaluru,2,0,0,0,0,0
+325026,2 Apr 2024,v LSG,Bengaluru,1,0,0,0,0,0
+325026,6 Apr 2024,v RR,Jaipur,2,1,1,0,0,1
+325026,11 Apr 2024,v MI,Wankhede,2,0,0,0,0,0
+325026,28 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+325026,4 May 2024,v GT,Bengaluru,1,1,1,0,0,1
+325026,18 May 2024,v CSK,Bengaluru,2,0,0,0,0,0
+325026,22 May 2024,v RR,Ahmedabad,2,0,0,0,0,0
+325026,5 Jun 2024,v Oman,Bridgetown,2,1,1,0,0,1
+325026,8 Jun 2024,v England,Bridgetown,2,1,1,0,0,1
+325026,11 Jun 2024,v Namibia,North Sound,1,4,4,0,0,4
+325026,15 Jun 2024,v Scotland,Gros Islet,1,0,0,0,0,0
+325026,20 Jun 2024,v Bangladesh,North Sound,1,0,0,0,0,0
+325026,22 Jun 2024,v Afghanistan,Kingstown,1,1,1,0,0,1
+325026,24 Jun 2024,v India,Gros Islet,1,0,0,0,0,0
+325026,6 Jul 2024,v MI New York,Morrisville,1,1,1,0,0,1
+325026,8 Jul 2024,v Texas,Morrisville,1,0,0,0,0,0
+325026,11 Jul 2024,v Seattle,Dallas,1,0,0,0,0,0
+325026,14 Jul 2024,v Los Angeles,Morrisville,1,1,1,0,0,1
+325026,16 Jul 2024,v MI New York,Dallas,2,0,0,0,0,0
+325026,19 Jul 2024,v Texas,Dallas,2,1,1,0,0,1
+325026,25 Jul 2024,v SF,Dallas,1,1,1,0,0,1
+325026,28 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+325026,14 Nov 2024,v Pakistan,Brisbane,2,0,0,0,0,0
+325026,16 Nov 2024,v Pakistan,Sydney,2,0,0,0,0,0
+325026,18 Nov 2024,v Pakistan,Hobart,1,0,0,0,0,0
+325026,20 Dec 2024,v Strikers,Adelaide,1,0,0,0,0,0
+325026,26 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+325026,28 Dec 2024,v Thunder,Canberra,1,1,1,0,0,1
+325026,1 Jan 2025,v Heat,Brisbane,1,4,4,0,0,4
+325026,4 Jan 2025,v Renegades,Melbourne,1,2,2,0,0,2
+325026,9 Jan 2025,v Sixers,Melbourne,2,2,2,0,0,2
+325026,12 Jan 2025,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+325026,19 Jan 2025,v Hurricanes,Melbourne,2,3,3,0,0,3
+325026,22 Jan 2025,v Thunder,Sydney,1,1,1,0,0,1
+325026,25 Mar 2025,v GT,Ahmedabad,2,0,0,0,0,0
+325026,1 Apr 2025,v LSG,Lucknow,1,2,2,0,0,2
+325026,5 Apr 2025,v RR,New Chandigarh,1,2,2,0,0,2
+325026,8 Apr 2025,v CSK,New Chandigarh,2,0,0,0,0,0
+325026,12 Apr 2025,v SRH,Hyderabad,2,1,1,0,0,1
+325026,15 Apr 2025,v KKR,New Chandigarh,2,0,0,0,0,0
+325026,26 Apr 2025,v KKR,Eden Gardens,2,0,0,0,0,0
+325026,12 Jun 2025,v SF,Oakland,1,2,2,0,0,2
+325026,14 Jun 2025,v Seattle,Oakland,1,1,1,0,0,1
+325026,17 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+325026,21 Jun 2025,v MI New York,Dallas,1,0,0,0,0,0
+325026,22 Jun 2025,v Texas,Dallas,1,1,1,0,0,1
+325026,26 Jun 2025,v Los Angeles,Dallas,1,1,1,0,0,1
+325026,28 Jun 2025,v SF,Dallas,2,2,2,0,0,2
+325026,2 Jul 2025,v Texas,Lauderhill,1,0,0,0,0,0
+325026,4 Jul 2025,v Seattle,Lauderhill,1,1,1,0,0,1
+325026,6 Jul 2025,v MI New York,Lauderhill,1,1,1,0,0,1
+325026,8 Jul 2025,v Texas,Dallas,-,TDNF,-,-,-,-
+325026,13 Jul 2025,v MI New York,Dallas,1,1,1,0,0,1
+325026,20 Jul 2025,v West Indies,Kingston,1,3,3,0,0,3
+325026,22 Jul 2025,v West Indies,Kingston,1,1,1,0,0,1
+325026,25 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+325026,26 Jul 2025,v West Indies,Basseterre,1,2,2,0,0,2
+325026,28 Jul 2025,v West Indies,Basseterre,1,1,1,0,0,1
+325026,10 Aug 2025,v South Africa,Darwin,2,2,2,0,0,2
+325026,12 Aug 2025,v South Africa,Darwin,1,0,0,0,0,0
+325026,16 Aug 2025,v South Africa,Cairns,1,1,1,0,0,1
+325026,6 Nov 2025,v India,Carrara,1,0,0,0,0,0
+325026,8 Nov 2025,v India,Brisbane,1,0,0,0,0,0
+325026,18 Dec 2025,v Hurricanes,Melbourne,1,1,1,0,0,1
+325026,23 Dec 2025,v Strikers,Adelaide,1,0,0,0,0,0
+325026,26 Dec 2025,v Sixers,Sydney,1,3,3,0,0,3
+325026,28 Dec 2025,v Thunder,Canberra,1,1,1,0,0,1
+325026,2 Jan 2026,v Heat,Brisbane,2,0,0,0,0,0
+325026,4 Jan 2026,v Renegades,Melbourne,2,0,0,0,0,0
+325026,8 Jan 2026,v Sixers,Melbourne,2,0,0,0,0,0
+325026,10 Jan 2026,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+325026,13 Jan 2026,v Strikers,Melbourne,1,1,1,0,0,1
+325026,17 Jan 2026,v Scorchers,Perth,2,2,2,0,0,2
+325026,21 Jan 2026,v Hurricanes,Hobart,1,1,1,0,0,1
+325026,11 Feb 2026,v Ireland,Colombo (RPS),2,0,0,0,0,0
+325026,13 Feb 2026,v Zimbabwe,Colombo (RPS),1,0,0,0,0,0
+325026,16 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+325026,20 Feb 2026,v Oman,Pallekele,1,0,0,0,0,0

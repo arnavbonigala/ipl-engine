@@ -1,0 +1,163 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+311158,4 Jun 2010,v Lancashire,Chester-le-Street,1,0,0,0,0,0
+311158,6 Jun 2010,v Worcs,Chester-le-Street,-,TDNF,-,-,-,-
+311158,10 Jun 2010,v Yorkshire,Leeds,2,0,0,0,0,0
+311158,11 Jun 2010,v Warwickshire,Birmingham,2,1,1,0,0,1
+311158,13 Jun 2010,v Derbyshire,Derby,1,1,1,0,0,1
+311158,14 Jun 2010,v Leics,Chester-le-Street,2,0,0,0,0,0
+311158,18 Jun 2010,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+311158,20 Jun 2010,v Notts,Chester-le-Street,1,1,1,0,0,1
+311158,22 Jun 2010,v Lancashire,Manchester,1,0,0,0,0,0
+311158,25 Jun 2010,v Notts,Nottingham,2,1,1,0,0,1
+311158,26 Jun 2010,v Northants,Northampton,1,0,0,0,0,0
+311158,2 Jul 2010,v Warwickshire,Chester-le-Street,2,0,0,0,0,0
+311158,9 Jul 2010,v Worcs,Worcester,2,0,0,0,0,0
+311158,14 Jul 2010,v Derbyshire,Chester-le-Street,-,TDNF,-,-,-,-
+311158,18 Jul 2010,v Northants,Chester-le-Street,2,0,0,0,0,0
+311158,7 Aug 2011,v Hampshire,Southampton,1,0,0,0,0,0
+311158,23 Sep 2011,v West Indies,The Oval,1,0,0,0,0,0
+311158,25 Sep 2011,v West Indies,The Oval,1,0,0,0,0,0
+311158,15 Jun 2012,v Yorkshire,Leeds,2,0,0,0,0,0
+311158,17 Jun 2012,v Notts,Chester-le-Street,2,0,0,0,0,0
+311158,20 Jun 2012,v Derbyshire,Derby,1,0,0,0,0,0
+311158,22 Jun 2012,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+311158,25 Jun 2012,v Lancashire,Manchester,2,0,0,0,0,0
+311158,27 Jun 2012,v Derbyshire,Chester-le-Street,1,1,1,0,0,1
+311158,29 Jun 2012,v Notts,Nottingham,1,2,2,0,0,2
+311158,1 Jul 2012,v Leics,Chester-le-Street,1,1,1,0,0,1
+311158,8 Jul 2012,v Lancashire,Chester-le-Street,1,2,2,0,0,2
+311158,25 Jun 2013,v New Zealand,The Oval,1,0,0,0,0,0
+311158,27 Jun 2013,v New Zealand,The Oval,-,TDNF,-,-,-,-
+311158,28 Jun 2013,v Lancashire,Chester-le-Street,1,0,0,0,0,0
+311158,30 Jun 2013,v Yorkshire,Scarborough,1,0,0,0,0,0
+311158,5 Jul 2013,v Leics,Leicester,1,0,0,0,0,0
+311158,6 Jul 2013,v Notts,Chester-le-Street,2,0,0,0,0,0
+311158,12 Jul 2013,v Yorkshire,Chester-le-Street,2,0,0,0,0,0
+311158,14 Jul 2013,v Lancashire,Manchester,1,1,1,0,0,1
+311158,19 Jul 2013,v Notts,Nottingham,1,0,0,0,0,0
+311158,21 Jul 2013,v Derbyshire,Chesterfield,1,0,0,0,0,0
+311158,25 Jul 2013,v Leics,Chester-le-Street,1,0,0,0,0,0
+311158,28 Jul 2013,v Derbyshire,Chester-le-Street,2,1,1,0,0,1
+311158,6 Aug 2013,v Northants,Northampton,1,0,0,0,0,0
+311158,2 Feb 2014,v Australia,Sydney,1,0,0,0,0,0
+311158,9 Mar 2014,v West Indies,Bridgetown,1,0,0,0,0,0
+311158,13 Mar 2014,v West Indies,Bridgetown,2,0,0,0,0,0
+311158,29 May 2014,v Lancashire,Chester-le-Street,1,0,0,0,0,0
+311158,30 May 2014,v Notts,Nottingham,2,1,1,0,0,1
+311158,6 Jun 2014,v Warwickshire,Birmingham,2,0,0,0,0,0
+311158,7 Jun 2014,v Worcs,Worcester,2,3,3,0,0,3
+311158,20 Jun 2014,v Leics,Chester-le-Street,2,1,1,0,0,1
+311158,27 Jun 2014,v Northants,Northampton,-,TDNF,-,-,-,-
+311158,29 Jun 2014,v Derbyshire,Chester-le-Street,1,1,1,0,0,1
+311158,7 Jan 2015,v Hurricanes,Hobart,2,0,0,0,0,0
+311158,10 Jan 2015,v Stars,Melbourne,2,1,1,0,0,1
+311158,13 Jan 2015,v Heat,Melbourne (Docklands),1,0,0,0,0,0
+311158,19 Jan 2015,v Strikers,Melbourne (Docklands),1,1,1,0,0,1
+311158,5 Jun 2015,v Derbyshire,Derby,2,1,1,0,0,1
+311158,6 Jun 2015,v Warwickshire,Chester-le-Street,2,0,0,0,0,0
+311158,23 Jun 2015,v New Zealand,Manchester,2,0,0,0,0,0
+311158,31 Aug 2015,v Australia,Cardiff,2,1,1,0,0,1
+311158,19 Feb 2016,v South Africa,Cape Town,2,1,1,0,0,1
+311158,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+311158,16 Mar 2016,v West Indies,Wankhede,2,0,0,0,0,0
+311158,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+311158,23 Mar 2016,v Afghanistan,Delhi,2,1,1,0,0,1
+311158,26 Mar 2016,v Sri Lanka,Delhi,2,1,1,0,0,1
+311158,30 Mar 2016,v New Zealand,Delhi,1,0,0,0,0,0
+311158,3 Apr 2016,v West Indies,Eden Gardens,2,3,3,0,0,3
+311158,24 Jun 2016,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+311158,30 Jun 2016,v Worcs,Chester-le-Street,1,0,0,0,0,0
+311158,1 Jul 2016,v Notts,Nottingham,-,TDNF,-,-,-,-
+311158,10 Jul 2016,v Leics,Chester-le-Street,1,1,1,0,0,1
+311158,15 Jul 2016,v Northants,Chester-le-Street,1,0,0,0,0,0
+311158,20 Aug 2016,v Yorkshire,Birmingham,2,1,1,0,0,1
+311158,20 Aug 2016,v Northants,Birmingham,2,0,0,0,0,0
+311158,7 Sep 2016,v Pakistan,Manchester,2,0,0,0,0,0
+311158,26 Jan 2017,v India,Kanpur,1,0,0,0,0,0
+311158,29 Jan 2017,v India,Nagpur,1,1,1,0,0,1
+311158,1 Feb 2017,v India,Bengaluru,1,0,0,0,0,0
+311158,6 Apr 2017,v MI,Pune,1,0,0,0,0,0
+311158,8 Apr 2017,v Kings XI,Indore,2,1,1,0,0,1
+311158,11 Apr 2017,v Daredevils,Pune,1,0,0,0,0,0
+311158,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+311158,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+311158,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+311158,24 Apr 2017,v MI,Wankhede,2,1,1,0,0,1
+311158,1 May 2017,v Guj Lions,Pune,1,0,0,0,0,0
+311158,3 May 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+311158,6 May 2017,v SRH,Hyderabad,2,2,2,0,0,2
+311158,12 May 2017,v Daredevils,Delhi,1,1,1,0,0,1
+311158,14 May 2017,v Kings XI,Pune,1,0,0,0,0,0
+311158,14 Dec 2017,v Otago,Christchurch,2,1,1,0,0,1
+311158,17 Dec 2017,v Central D,Nelson,1,0,0,0,0,0
+311158,22 Dec 2017,v Central D,Rangiora,2,0,0,0,0,0
+311158,9 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+311158,11 Apr 2018,v Daredevils,Jaipur,2,1,1,0,0,1
+311158,15 Apr 2018,v RCB,Bengaluru,2,1,1,0,0,1
+311158,18 Apr 2018,v KKR,Jaipur,2,1,1,0,0,1
+311158,20 Apr 2018,v CSK,Pune,1,1,1,0,0,1
+311158,22 Apr 2018,v MI,Jaipur,1,0,0,0,0,0
+311158,29 Apr 2018,v SRH,Jaipur,1,1,1,0,0,1
+311158,2 May 2018,v Daredevils,Delhi,1,1,1,0,0,1
+311158,6 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+311158,8 May 2018,v Kings XI,Jaipur,2,0,0,0,0,0
+311158,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+311158,13 May 2018,v MI,Wankhede,1,0,0,0,0,0
+311158,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+311158,5 Jul 2018,v Yorkshire,Leeds,1,0,0,0,0,0
+311158,8 Jul 2018,v India,Bristol,2,0,0,0,0,0
+311158,20 Jul 2018,v Worcs,Chester-le-Street,1,0,0,0,0,0
+311158,28 Jul 2018,v Notts,Chester-le-Street,1,0,0,0,0,0
+311158,24 Aug 2018,v Sussex,Chester-le-Street,2,1,1,0,0,1
+311158,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+311158,25 Mar 2019,v Kings XI,Jaipur,1,0,0,0,0,0
+311158,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+311158,31 Mar 2019,v CSK,Chennai,1,0,0,0,0,0
+311158,2 Apr 2019,v RCB,Jaipur,1,0,0,0,0,0
+311158,7 Apr 2019,v KKR,Jaipur,2,0,0,0,0,0
+311158,11 Apr 2019,v CSK,Jaipur,2,1,1,0,0,1
+311158,20 Apr 2019,v MI,Jaipur,1,1,1,0,0,1
+311158,22 Apr 2019,v DC,Jaipur,2,1,1,0,0,1
+311158,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+311158,12 Feb 2020,v South Africa,East London,1,1,1,0,0,1
+311158,14 Feb 2020,v South Africa,Durban,2,1,1,0,0,1
+311158,16 Feb 2020,v South Africa,Centurion,1,2,2,0,0,2
+311158,11 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+311158,14 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+311158,17 Oct 2020,v RCB,Dubai (DICS),2,1,1,0,0,1
+311158,19 Oct 2020,v CSK,Abu Dhabi,1,0,0,0,0,0
+311158,22 Oct 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+311158,25 Oct 2020,v MI,Abu Dhabi,1,2,2,0,0,2
+311158,30 Oct 2020,v Kings XI,Abu Dhabi,1,1,1,0,0,1
+311158,1 Nov 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+311158,27 Nov 2020,v South Africa,Cape Town,1,0,0,0,0,0
+311158,29 Nov 2020,v South Africa,Paarl,1,1,1,0,0,1
+311158,1 Dec 2020,v South Africa,Cape Town,1,0,0,0,0,0
+311158,12 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+311158,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+311158,16 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+311158,18 Mar 2021,v India,Ahmedabad,1,1,1,0,0,1
+311158,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+311158,12 Apr 2021,v Punjab Kings,Wankhede,1,1,1,0,0,1
+311158,20 Jun 2021,v Bears,Chester-le-Street,2,2,2,0,0,2
+311158,23 Jun 2021,v Northants,Chester-le-Street,2,0,0,0,0,0
+311158,25 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+311158,26 Jun 2021,v Bears,Birmingham,2,1,1,0,0,1
+311158,30 Jun 2021,v Northants,Northampton,1,0,0,0,0,0
+311158,2 Jul 2021,v Leics,Chester-le-Street,2,1,1,0,0,1
+311158,24 Jul 2021,v Fire,Leeds,1,0,0,0,0,0
+311158,26 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+311158,9 Oct 2022,v Australia,Perth,2,1,1,0,0,1
+311158,12 Oct 2022,v Australia,Canberra,2,1,1,0,0,1
+311158,14 Oct 2022,v Australia,Canberra,2,1,1,0,0,1
+311158,22 Oct 2022,v Afghanistan,Perth,1,1,1,0,0,1
+311158,26 Oct 2022,v Ireland,Melbourne,1,0,0,0,0,0
+311158,1 Nov 2022,v New Zealand,Brisbane,2,1,1,0,0,1
+311158,5 Nov 2022,v Sri Lanka,Sydney,1,1,1,0,0,1
+311158,10 Nov 2022,v India,Adelaide,1,0,0,0,0,0
+311158,13 Nov 2022,v Pakistan,Melbourne,1,1,1,0,0,1
+311158,31 Mar 2023,v GT,Ahmedabad,2,0,0,0,0,0
+311158,3 Apr 2023,v LSG,Chennai,2,2,2,0,0,2
+311158,6 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+311158,8 Aug 2024,v Fire,Cardiff,2,0,0,0,0,0
+311158,11 Aug 2024,v Originals,Manchester,1,0,0,0,0,0

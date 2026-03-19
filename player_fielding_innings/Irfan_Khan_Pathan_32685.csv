@@ -1,0 +1,182 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+32685,22 Jun 2005,v Hampshire,Southampton,2,0,0,0,0,0
+32685,23 Jun 2005,v Surrey,Lord's,1,0,0,0,0,0
+32685,25 Jun 2005,v Kent,Beckenham,2,0,0,0,0,0
+32685,28 Jun 2005,v Surrey,The Oval,1,0,0,0,0,0
+32685,29 Jun 2005,v Kent,Uxbridge,1,0,0,0,0,0
+32685,1 Jul 2005,v Essex,Southgate,2,0,0,0,0,0
+32685,4 Jul 2005,v Sussex,Hove,-,TDNF,-,-,-,-
+32685,1 Dec 2006,v South Africa,Johannesburg,1,0,0,0,0,0
+32685,3 Apr 2007,v Mumbai,Wankhede,2,0,0,0,0,0
+32685,5 Apr 2007,v Gujarat,Wankhede,2,1,1,0,0,1
+32685,6 Apr 2007,v Saurashtra,Brabourne,2,0,0,0,0,0
+32685,7 Apr 2007,v Maharashtra,Wankhede,2,1,1,0,0,1
+32685,13 Sep 2007,v Scotland,Durban,-,TDNF,-,-,-,-
+32685,14 Sep 2007,v Pakistan,Durban,2,0,0,0,0,0
+32685,16 Sep 2007,v New Zealand,Johannesburg,1,0,0,0,0,0
+32685,19 Sep 2007,v England,Durban,2,0,0,0,0,0
+32685,20 Sep 2007,v South Africa,Durban,2,0,0,0,0,0
+32685,22 Sep 2007,v Australia,Durban,2,0,0,0,0,0
+32685,24 Sep 2007,v Pakistan,Johannesburg,2,0,0,0,0,0
+32685,20 Oct 2007,v Australia,Brabourne,1,0,0,0,0,0
+32685,1 Feb 2008,v Australia,Melbourne,2,0,0,0,0,0
+32685,19 Apr 2008,v CSK,Mohali,1,1,1,0,0,1
+32685,21 Apr 2008,v RR,Jaipur,2,0,0,0,0,0
+32685,25 Apr 2008,v MI,Mohali,2,0,0,0,0,0
+32685,27 Apr 2008,v Daredevils,Mohali,1,0,0,0,0,0
+32685,1 May 2008,v Chargers,Hyderabad,1,0,0,0,0,0
+32685,3 May 2008,v KKR,Mohali,2,1,1,0,0,1
+32685,5 May 2008,v RCB,Bengaluru,1,0,0,0,0,0
+32685,10 May 2008,v CSK,Chennai,1,0,0,0,0,0
+32685,12 May 2008,v RCB,Mohali,1,0,0,0,0,0
+32685,17 May 2008,v Daredevils,Delhi,1,0,0,0,0,0
+32685,21 May 2008,v MI,Wankhede,2,0,0,0,0,0
+32685,25 May 2008,v KKR,Eden Gardens,2,1,1,0,0,1
+32685,28 May 2008,v RR,Mohali,2,1,1,0,0,1
+32685,31 May 2008,v CSK,Wankhede,2,0,0,0,0,0
+32685,10 Feb 2009,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+32685,25 Feb 2009,v New Zealand,Christchurch,2,0,0,0,0,0
+32685,27 Feb 2009,v New Zealand,Wellington,2,1,1,0,0,1
+32685,19 Apr 2009,v Daredevils,Cape Town,2,0,0,0,0,0
+32685,21 Apr 2009,v KKR,Durban,2,0,0,0,0,0
+32685,24 Apr 2009,v RCB,Durban,1,0,0,0,0,0
+32685,26 Apr 2009,v RR,Cape Town,2,0,0,0,0,0
+32685,29 Apr 2009,v MI,Durban,2,0,0,0,0,0
+32685,1 May 2009,v RCB,Durban,1,1,1,0,0,1
+32685,3 May 2009,v KKR,Gqeberha,1,0,0,0,0,0
+32685,5 May 2009,v RR,Durban,1,0,0,0,0,0
+32685,7 May 2009,v CSK,Centurion,1,0,0,0,0,0
+32685,9 May 2009,v Chargers,Kimberley,1,0,0,0,0,0
+32685,12 May 2009,v MI,Centurion,2,0,0,0,0,0
+32685,15 May 2009,v Daredevils,Bloemfontein,1,0,0,0,0,0
+32685,17 May 2009,v Chargers,Johannesburg,2,1,1,0,0,1
+32685,20 May 2009,v CSK,Durban,1,2,2,0,0,2
+32685,6 Jun 2009,v Bangladesh,Nottingham,2,0,0,0,0,0
+32685,10 Jun 2009,v Ireland,Nottingham,1,0,0,0,0,0
+32685,12 Jun 2009,v West Indies,Lord's,2,1,1,0,0,1
+32685,13 Mar 2010,v Daredevils,Mohali,2,1,1,0,0,1
+32685,16 Mar 2010,v RCB,Bengaluru,2,1,1,0,0,1
+32685,19 Mar 2010,v Chargers,Cuttack,1,0,0,0,0,0
+32685,21 Mar 2010,v CSK,Chennai,2,0,0,0,0,0
+32685,24 Mar 2010,v RR,Mohali,1,0,0,0,0,0
+32685,27 Mar 2010,v KKR,Mohali,1,0,0,0,0,0
+32685,30 Mar 2010,v MI,Brabourne,2,1,1,0,0,1
+32685,2 Apr 2010,v RCB,Mohali,2,1,1,0,0,1
+32685,4 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+32685,7 Apr 2010,v RR,Jaipur,2,0,0,0,0,0
+32685,9 Apr 2010,v MI,Mohali,1,0,0,0,0,0
+32685,11 Apr 2010,v Daredevils,Delhi,1,0,0,0,0,0
+32685,16 Apr 2010,v Chargers,Dharamsala,2,0,0,0,0,0
+32685,18 Apr 2010,v CSK,Dharamsala,2,0,0,0,0,0
+32685,10 Apr 2011,v MI,Delhi,2,0,0,0,0,0
+32685,12 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+32685,17 Apr 2011,v Warriors,DY Patil,1,1,1,0,0,1
+32685,19 Apr 2011,v Chargers,Delhi,1,0,0,0,0,0
+32685,23 Apr 2011,v Kings XI,Delhi,2,0,0,0,0,0
+32685,26 Apr 2011,v RCB,Delhi,2,0,0,0,0,0
+32685,28 Apr 2011,v KKR,Delhi,1,2,2,0,0,2
+32685,30 Apr 2011,v Kochi,Kochi,2,0,0,0,0,0
+32685,2 May 2011,v Kochi,Delhi,2,0,0,0,0,0
+32685,5 May 2011,v Chargers,Hyderabad,1,0,0,0,0,0
+32685,7 May 2011,v MI,Wankhede,1,0,0,0,0,0
+32685,12 May 2011,v CSK,Chennai,1,1,1,0,0,1
+32685,15 May 2011,v Kings XI,Dharamsala,1,0,0,0,0,0
+32685,21 May 2011,v Warriors,Delhi,-,TDNF,-,-,-,-
+32685,20 Oct 2011,v Mumbai,Rajkot,2,1,1,0,0,1
+32685,22 Oct 2011,v Gujarat,Rajkot,2,1,1,0,0,1
+32685,24 Oct 2011,v Saurashtra,Rajkot,1,0,0,0,0,0
+32685,25 Oct 2011,v Maharashtra,Rajkot,2,0,0,0,0,0
+32685,27 Mar 2012,v Punjab,Brabourne,2,0,0,0,0,0
+32685,30 Mar 2012,v South Africa,Johannesburg,1,0,0,0,0,0
+32685,5 Apr 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+32685,7 Apr 2012,v RCB,Bengaluru,1,1,1,0,0,1
+32685,10 Apr 2012,v CSK,Delhi,1,0,0,0,0,0
+32685,16 Apr 2012,v MI,Wankhede,1,0,0,0,0,0
+32685,19 Apr 2012,v Chargers,Delhi,1,0,0,0,0,0
+32685,21 Apr 2012,v Warriors,Delhi,1,0,0,0,0,0
+32685,24 Apr 2012,v Warriors,Pune,1,0,0,0,0,0
+32685,27 Apr 2012,v MI,Delhi,2,1,1,0,0,1
+32685,29 Apr 2012,v RR,Delhi,2,0,0,0,0,0
+32685,1 May 2012,v RR,Jaipur,1,0,0,0,0,0
+32685,7 May 2012,v KKR,Delhi,2,1,1,0,0,1
+32685,10 May 2012,v Chargers,Hyderabad,1,0,0,0,0,0
+32685,12 May 2012,v CSK,Chennai,2,0,0,0,0,0
+32685,15 May 2012,v Kings XI,Delhi,1,1,1,0,0,1
+32685,17 May 2012,v RCB,Delhi,1,1,1,0,0,1
+32685,19 May 2012,v Kings XI,Dharamsala,1,3,3,0,0,3
+32685,22 May 2012,v KKR,Pune,1,0,0,0,0,0
+32685,7 Aug 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+32685,11 Sep 2012,v New Zealand,Chennai,1,0,0,0,0,0
+32685,19 Sep 2012,v Afghanistan,Colombo (RPS),2,0,0,0,0,0
+32685,23 Sep 2012,v England,Colombo (RPS),2,0,0,0,0,0
+32685,28 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+32685,30 Sep 2012,v Pakistan,Colombo (RPS),1,0,0,0,0,0
+32685,2 Oct 2012,v South Africa,Colombo (RPS),2,0,0,0,0,0
+32685,13 Oct 2012,v KKR,Centurion,2,0,0,0,0,0
+32685,21 Oct 2012,v Scorchers,Cape Town,1,0,0,0,0,0
+32685,23 Oct 2012,v Titans,Centurion,-,TDNF,-,-,-,-
+32685,25 Oct 2012,v Lions,Durban,1,0,0,0,0,0
+32685,17 Mar 2013,v Mumbai,Ahmedabad,2,0,0,0,0,0
+32685,19 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+32685,21 Mar 2013,v Saurashtra,Ahmedabad,1,1,1,0,0,1
+32685,3 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+32685,6 Apr 2013,v RR,Delhi,1,1,1,0,0,1
+32685,9 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+32685,12 Apr 2013,v SRH,Delhi,2,0,0,0,0,0
+32685,16 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+32685,18 Apr 2013,v CSK,Delhi,1,0,0,0,0,0
+32685,21 Apr 2013,v MI,Delhi,1,0,0,0,0,0
+32685,23 Apr 2013,v Kings XI,Delhi,2,0,0,0,0,0
+32685,28 Apr 2013,v Warriors,Raipur,2,0,0,0,0,0
+32685,1 May 2013,v KKR,Raipur,1,1,1,0,0,1
+32685,4 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+32685,10 May 2013,v RCB,Delhi,1,0,0,0,0,0
+32685,14 May 2013,v CSK,Chennai,1,0,0,0,0,0
+32685,16 May 2013,v Kings XI,Dharamsala,1,2,2,0,0,2
+32685,19 May 2013,v Warriors,Pune,1,0,0,0,0,0
+32685,30 Mar 2014,v Mumbai,Wankhede,2,1,1,0,0,1
+32685,2 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+32685,3 Apr 2014,v Saurashtra,Mumbai,2,0,0,0,0,0
+32685,4 Apr 2014,v Maharashtra,Mumbai,1,0,0,0,0,0
+32685,22 Apr 2014,v Kings XI,Sharjah,1,0,0,0,0,0
+32685,30 Apr 2014,v MI,Dubai (DICS),2,0,0,0,0,0
+32685,4 May 2014,v RCB,Bengaluru,2,0,0,0,0,0
+32685,8 May 2014,v RR,Ahmedabad,2,1,1,0,0,1
+32685,10 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+32685,12 May 2014,v MI,Hyderabad,2,0,0,0,0,0
+32685,14 May 2014,v Kings XI,Hyderabad,2,0,0,0,0,0
+32685,18 May 2014,v KKR,Hyderabad,2,0,0,0,0,0
+32685,20 May 2014,v RCB,Hyderabad,1,0,0,0,0,0
+32685,22 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+32685,2 Jan 2016,v Assam,Vadodara,2,1,1,0,0,1
+32685,3 Jan 2016,v Railways,Vadodara,2,0,0,0,0,0
+32685,6 Jan 2016,v Goa,Vadodara,2,0,0,0,0,0
+32685,7 Jan 2016,v M. Pradesh,Vadodara,2,0,0,0,0,0
+32685,9 Jan 2016,v Andhra,Vadodara,1,0,0,0,0,0
+32685,10 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+32685,15 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+32685,16 Jan 2016,v Kerala,Wankhede,2,0,0,0,0,0
+32685,18 Jan 2016,v Mumbai,Wankhede,1,0,0,0,0,0
+32685,20 Jan 2016,v UP,Wankhede,1,0,0,0,0,0
+32685,17 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+32685,14 May 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+32685,17 May 2016,v Daredevils,Visakhapatnam,1,1,1,0,0,1
+32685,21 May 2016,v Kings XI,Visakhapatnam,1,0,0,0,0,0
+32685,29 Jan 2017,v Mumbai,Vadodara,1,0,0,0,0,0
+32685,1 Feb 2017,v Gujarat,Vadodara,2,0,0,0,0,0
+32685,2 Feb 2017,v Saurashtra,Vadodara,1,0,0,0,0,0
+32685,4 Feb 2017,v Maharashtra,Vadodara,2,1,1,0,0,1
+32685,12 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+32685,13 Feb 2017,v North Zone,Wankhede,1,2,2,0,0,2
+32685,16 Feb 2017,v South Zone,Wankhede,2,0,0,0,0,0
+32685,18 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+32685,29 Apr 2017,v MI,Rajkot,2,0,0,0,0,0
+32685,21 Feb 2019,v Nagaland,Mulapadu,1,0,0,0,0,0
+32685,22 Feb 2019,v Jharkhand,Mulapadu,2,0,0,0,0,0
+32685,24 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+32685,25 Feb 2019,v Andhra,Mulapadu,1,1,1,0,0,1
+32685,27 Feb 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+32685,26 Nov 2020,v Kings,Hambantota,2,0,0,0,0,0
+32685,5 Dec 2020,v Kings,Hambantota,2,0,0,0,0,0
+32685,9 Dec 2020,v Stallions,Hambantota,1,0,0,0,0,0
+32685,10 Dec 2020,v Galle,Hambantota,2,0,0,0,0,0

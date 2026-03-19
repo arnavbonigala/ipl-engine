@@ -1,0 +1,235 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+439952,20 Feb 2011,v Dolphins,Durban,2,0,0,0,0,0
+439952,16 Oct 2011,v Free State,Bloemfontein,1,0,0,0,0,0
+439952,30 Oct 2011,v Gauteng,Johannesburg,2,1,1,0,0,1
+439952,17 Feb 2012,v Impi,Potchefstroom,2,1,1,0,0,1
+439952,22 Feb 2012,v Warriors,Gqeberha,1,0,0,0,0,0
+439952,24 Feb 2012,v Cape Cobras,Johannesburg,1,0,0,0,0,0
+439952,26 Feb 2012,v Knights,Bloemfontein,2,0,0,0,0,0
+439952,2 Mar 2012,v Titans,Centurion,1,1,1,0,0,1
+439952,7 Mar 2012,v Knights,Potchefstroom,1,0,0,0,0,0
+439952,9 Mar 2012,v Cape Cobras,Cape Town,1,1,1,0,0,1
+439952,11 Mar 2012,v Titans,Johannesburg,2,2,2,0,0,2
+439952,14 Mar 2012,v Warriors,Johannesburg,2,0,0,0,0,0
+439952,16 Mar 2012,v Dolphins,Johannesburg,-,TDNF,-,-,-,-
+439952,21 Mar 2012,v Impi,Benoni,1,0,0,0,0,0
+439952,1 Apr 2012,v Titans,Johannesburg,1,2,2,0,0,2
+439952,22 Jun 2012,v Bdesh XI,Harare,2,2,2,0,0,2
+439952,23 Jun 2012,v Zimbabwe XI,Harare,1,0,0,0,0,0
+439952,24 Jun 2012,v Zimbabwe XI,Harare,2,0,0,0,0,0
+439952,14 Oct 2012,v MI,Johannesburg,1,0,0,0,0,0
+439952,16 Oct 2012,v CSK,Cape Town,1,0,0,0,0,0
+439952,18 Oct 2012,v Sixers,Cape Town,2,0,0,0,0,0
+439952,20 Oct 2012,v Yorkshire,Johannesburg,1,0,0,0,0,0
+439952,25 Oct 2012,v Daredevils,Durban,2,1,1,0,0,1
+439952,28 Oct 2012,v Sixers,Johannesburg,2,0,0,0,0,0
+439952,21 Dec 2012,v New Zealand,Durban,1,2,2,0,0,2
+439952,17 Feb 2013,v Cape Cobras,Potchefstroom,1,0,0,0,0,0
+439952,20 Feb 2013,v Titans,Johannesburg,1,0,0,0,0,0
+439952,22 Feb 2013,v Dolphins,Durban,2,0,0,0,0,0
+439952,24 Feb 2013,v Warriors,Potchefstroom,2,0,0,0,0,0
+439952,3 Mar 2013,v Pakistan,Centurion,1,0,0,0,0,0
+439952,8 Mar 2013,v Cape Cobras,Cape Town,1,0,0,0,0,0
+439952,12 Mar 2013,v Knights,Kimberley,1,0,0,0,0,0
+439952,19 Mar 2013,v Titans,Centurion,1,0,0,0,0,0
+439952,22 Mar 2013,v Warriors,East London,1,2,2,0,0,2
+439952,28 Mar 2013,v Dolphins,Johannesburg,2,1,1,0,0,1
+439952,7 Apr 2013,v Titans,Johannesburg,2,2,2,0,0,2
+439952,10 Apr 2013,v Kings XI,Mohali,1,1,1,0,0,1
+439952,13 Apr 2013,v RCB,Chennai,1,0,0,0,0,0
+439952,15 Apr 2013,v Warriors,Chennai,1,0,0,0,0,0
+439952,18 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+439952,20 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+439952,22 Apr 2013,v RR,Chennai,1,0,0,0,0,0
+439952,25 Apr 2013,v SRH,Chennai,1,1,1,0,0,1
+439952,28 Apr 2013,v KKR,Chennai,2,0,0,0,0,0
+439952,30 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+439952,2 May 2013,v Kings XI,Chennai,2,0,0,0,0,0
+439952,5 May 2013,v MI,Wankhede,1,0,0,0,0,0
+439952,8 May 2013,v SRH,Hyderabad,2,2,2,0,0,2
+439952,12 May 2013,v RR,Jaipur,2,0,0,0,0,0
+439952,18 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+439952,21 May 2013,v MI,Delhi,2,1,1,0,0,1
+439952,26 May 2013,v MI,Eden Gardens,1,0,0,0,0,0
+439952,4 Oct 2013,v RR,Jaipur,1,0,0,0,0,0
+439952,5 Jan 2014,v Warriors,Cape Town,1,0,0,0,0,0
+439952,12 Jan 2014,v Knights,Bloemfontein,2,0,0,0,0,0
+439952,15 Jan 2014,v Cape Cobras,Paarl,1,0,0,0,0,0
+439952,17 Jan 2014,v Titans,Potchefstroom,1,0,0,0,0,0
+439952,19 Jan 2014,v Warriors,East London,1,0,0,0,0,0
+439952,22 Jan 2014,v Dolphins,Durban,1,0,0,0,0,0
+439952,24 Jan 2014,v Knights,Potchefstroom,-,TDNF,-,-,-,-
+439952,26 Jan 2014,v Titans,Benoni,2,0,0,0,0,0
+439952,31 Jan 2014,v Cape Cobras,Johannesburg,2,0,0,0,0,0
+439952,2 Feb 2014,v Dolphins,Johannesburg,2,0,0,0,0,0
+439952,2 Nov 2014,v Dolphins,Johannesburg,1,3,3,0,0,3
+439952,7 Nov 2014,v Warriors,East London,1,0,0,0,0,0
+439952,9 Nov 2014,v Knights,Potchefstroom,2,0,0,0,0,0
+439952,14 Nov 2014,v Cape Cobras,Johannesburg,2,1,1,0,0,1
+439952,16 Nov 2014,v Warriors,Durban,1,0,0,0,0,0
+439952,21 Nov 2014,v Titans,Benoni,1,1,1,0,0,1
+439952,23 Nov 2014,v Cape Cobras,Cape Town,1,0,0,0,0,0
+439952,28 Nov 2014,v Titans,Potchefstroom,2,0,0,0,0,0
+439952,30 Nov 2014,v Dolphins,Bloemfontein,2,0,0,0,0,0
+439952,3 Dec 2014,v Knights,Kimberley,1,0,0,0,0,0
+439952,7 Dec 2014,v Knights,Johannesburg,2,0,0,0,0,0
+439952,10 Apr 2015,v Kings XI,Pune,2,0,0,0,0,0
+439952,12 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+439952,14 Apr 2015,v MI,Ahmedabad,1,1,1,0,0,1
+439952,16 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+439952,19 Apr 2015,v CSK,Ahmedabad,1,1,1,0,0,1
+439952,21 Apr 2015,v Kings XI,Ahmedabad,2,0,0,0,0,0
+439952,24 Apr 2015,v RCB,Ahmedabad,2,0,0,0,0,0
+439952,7 May 2015,v SRH,Brabourne,1,0,0,0,0,0
+439952,10 May 2015,v CSK,Chennai,1,0,0,0,0,0
+439952,16 May 2015,v KKR,Brabourne,2,1,1,0,0,1
+439952,20 May 2015,v RCB,Pune,1,0,0,0,0,0
+439952,2 Oct 2015,v India,Dharamsala,1,1,1,0,0,1
+439952,5 Oct 2015,v India,Cuttack,1,0,0,0,0,0
+439952,1 Nov 2015,v Dolphins,Centurion,1,0,0,0,0,0
+439952,6 Nov 2015,v Lions,Potchefstroom,1,1,1,0,0,1
+439952,8 Nov 2015,v Cape Cobras,Centurion,2,0,0,0,0,0
+439952,13 Nov 2015,v Knights,Bloemfontein,2,0,0,0,0,0
+439952,15 Nov 2015,v Warriors,Centurion,1,0,0,0,0,0
+439952,18 Nov 2015,v Dolphins,Durban,2,0,0,0,0,0
+439952,20 Nov 2015,v Cape Cobras,Cape Town,2,0,0,0,0,0
+439952,28 Nov 2015,v Warriors,Gqeberha,2,1,1,0,0,1
+439952,4 Dec 2015,v Lions,Benoni,2,1,1,0,0,1
+439952,6 Dec 2015,v Knights,Benoni,2,0,0,0,0,0
+439952,12 Dec 2015,v Dolphins,Centurion,1,1,1,0,0,1
+439952,19 Feb 2016,v England,Cape Town,1,0,0,0,0,0
+439952,21 Feb 2016,v England,Johannesburg,1,1,1,0,0,1
+439952,4 Mar 2016,v Australia,Durban,1,0,0,0,0,0
+439952,6 Mar 2016,v Australia,Johannesburg,2,0,0,0,0,0
+439952,18 Mar 2016,v England,Wankhede,2,1,1,0,0,1
+439952,20 Mar 2016,v Afghanistan,Wankhede,2,0,0,0,0,0
+439952,25 Mar 2016,v West Indies,Nagpur,2,0,0,0,0,0
+439952,10 Apr 2016,v KKR,Eden Gardens,2,1,1,0,0,1
+439952,15 Apr 2016,v Kings XI,Delhi,1,1,1,0,0,1
+439952,17 Apr 2016,v RCB,Bengaluru,1,1,1,0,0,1
+439952,23 Apr 2016,v MI,Delhi,2,1,1,0,0,1
+439952,27 Apr 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+439952,30 Apr 2016,v KKR,Delhi,2,2,2,0,0,2
+439952,3 May 2016,v Guj Lions,Rajkot,1,1,1,0,0,1
+439952,7 May 2016,v Kings XI,Mohali,1,1,1,0,0,1
+439952,12 May 2016,v SRH,Hyderabad,1,0,0,0,0,0
+439952,15 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+439952,17 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+439952,22 May 2016,v RCB,Raipur,2,0,0,0,0,0
+439952,6 Jul 2016,v Gloucs,Bristol,2,0,0,0,0,0
+439952,8 Jul 2016,v Somerset,The Oval,2,0,0,0,0,0
+439952,15 Jul 2016,v Kent,Tunbridge Wells,2,0,0,0,0,0
+439952,21 Jul 2016,v Middlesex,Lord's,2,1,1,0,0,1
+439952,22 Jul 2016,v Sussex,The Oval,1,0,0,0,0,0
+439952,29 Jul 2016,v Kent,The Oval,2,1,1,0,0,1
+439952,17 Feb 2017,v New Zealand,Auckland,2,0,0,0,0,0
+439952,8 Apr 2017,v RCB,Bengaluru,1,1,1,0,0,1
+439952,11 Apr 2017,v Supergiant,Pune,2,2,2,0,0,2
+439952,15 Apr 2017,v Kings XI,Delhi,2,0,0,0,0,0
+439952,17 Apr 2017,v KKR,Delhi,2,1,1,0,0,1
+439952,19 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+439952,22 Apr 2017,v MI,Wankhede,1,0,0,0,0,0
+439952,28 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+439952,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+439952,2 May 2017,v SRH,Delhi,1,1,1,0,0,1
+439952,23 Jun 2017,v England,Taunton,2,0,0,0,0,0
+439952,25 Jun 2017,v England,Cardiff,1,0,0,0,0,0
+439952,1 Dec 2017,v Warriors,Benoni,2,0,0,0,0,0
+439952,3 Dec 2017,v Knights,Gqeberha,1,0,0,0,0,0
+439952,8 Dec 2017,v Cape Cobras,Cape Town,2,0,0,0,0,0
+439952,13 Dec 2017,v Warriors,Centurion,1,0,0,0,0,0
+439952,16 Dec 2017,v Dolphins,Centurion,1,0,0,0,0,0
+439952,18 Feb 2018,v India,Johannesburg,1,0,0,0,0,0
+439952,21 Feb 2018,v India,Centurion,1,0,0,0,0,0
+439952,24 Feb 2018,v India,Cape Town,1,0,0,0,0,0
+439952,8 Apr 2018,v Kings XI,Mohali,2,0,0,0,0,0
+439952,11 Apr 2018,v RR,Jaipur,1,1,1,0,0,1
+439952,16 Apr 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+439952,21 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+439952,5 Oct 2018,v BDD,Abu Dhabi,2,2,2,0,0,2
+439952,6 Oct 2018,v Auckland,Abu Dhabi,1,1,1,0,0,1
+439952,6 Oct 2018,v Qalandars,Abu Dhabi,1,2,2,0,0,2
+439952,17 Nov 2018,v Australia,Carrara,2,0,0,0,0,0
+439952,21 Nov 2018,v Blitz,Cape Town,1,0,0,0,0,0
+439952,23 Nov 2018,v Durban Heat,Gqeberha,1,0,0,0,0,0
+439952,25 Nov 2018,v Spartans,Centurion,2,0,0,0,0,0
+439952,30 Nov 2018,v Paarl Rocks,Gqeberha,2,1,1,0,0,1
+439952,2 Dec 2018,v Jozi Stars,Gqeberha,1,0,0,0,0,0
+439952,8 Dec 2018,v Spartans,Gqeberha,1,1,1,0,0,1
+439952,12 Dec 2018,v Paarl Rocks,Paarl,2,1,1,0,0,1
+439952,1 Feb 2019,v Pakistan,Cape Town,2,0,0,0,0,0
+439952,3 Feb 2019,v Pakistan,Johannesburg,2,0,0,0,0,0
+439952,6 Feb 2019,v Pakistan,Centurion,1,0,0,0,0,0
+439952,22 Mar 2019,v Sri Lanka,Centurion,2,0,0,0,0,0
+439952,24 Mar 2019,v Sri Lanka,Johannesburg,2,1,1,0,0,1
+439952,30 Mar 2019,v KKR,Delhi,1,0,0,0,0,0
+439952,1 Apr 2019,v Kings XI,Mohali,1,1,1,0,0,1
+439952,4 Apr 2019,v SRH,Delhi,2,1,1,0,0,1
+439952,7 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+439952,12 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+439952,14 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+439952,18 Apr 2019,v MI,Delhi,1,0,0,0,0,0
+439952,22 Apr 2019,v RR,Jaipur,1,1,1,0,0,1
+439952,1 May 2019,v CSK,Chennai,1,1,1,0,0,1
+439952,19 Jul 2019,v Sussex,Southampton,-,TDNF,-,-,-,-
+439952,21 Jul 2019,v Kent,Southampton,2,1,1,0,0,1
+439952,24 Jul 2019,v Sussex,Hove,1,1,1,0,0,1
+439952,26 Jul 2019,v Somerset,Taunton,1,0,0,0,0,0
+439952,1 Aug 2019,v Essex,Chelmsford,1,1,1,0,0,1
+439952,2 Aug 2019,v Glamorgan,Southampton,2,1,1,0,0,1
+439952,4 Aug 2019,v Kent,Beckenham,2,1,1,0,0,1
+439952,9 Aug 2019,v Somerset,Southampton,1,1,1,0,0,1
+439952,13 Aug 2019,v Gloucs,Bristol,2,1,1,0,0,1
+439952,22 Aug 2019,v Middlesex,Lord's,1,0,0,0,0,0
+439952,25 Aug 2019,v Essex,Southampton,1,1,1,0,0,1
+439952,10 Nov 2019,v Jozi Stars,Gqeberha,2,0,0,0,0,0
+439952,13 Nov 2019,v Spartans,Centurion,1,1,1,0,0,1
+439952,16 Nov 2019,v Jozi Stars,Johannesburg,1,1,1,0,0,1
+439952,20 Nov 2019,v Blitz,Gqeberha,1,0,0,0,0,0
+439952,23 Nov 2019,v Durban Heat,Gqeberha,1,1,1,0,0,1
+439952,27 Nov 2019,v Paarl Rocks,Gqeberha,1,1,1,0,0,1
+439952,30 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+439952,3 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+439952,6 Dec 2019,v Blitz,Cape Town,2,0,0,0,0,0
+439952,8 Dec 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+439952,13 Dec 2019,v Spartans,Gqeberha,1,2,2,0,0,2
+439952,21 Dec 2019,v Strikers,Canberra,1,0,0,0,0,0
+439952,28 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+439952,31 Dec 2019,v Strikers,Adelaide,2,0,0,0,0,0
+439952,2 Jan 2020,v Stars,Sydney,2,1,1,0,0,1
+439952,6 Jan 2020,v Heat,Sydney,1,2,2,0,0,2
+439952,8 Jan 2020,v Stars,Melbourne,2,1,1,0,0,1
+439952,11 Jan 2020,v Hurricanes,Sydney,1,0,0,0,0,0
+439952,15 Jan 2020,v Renegades,Canberra,1,1,1,0,0,1
+439952,18 Jan 2020,v Sixers,Sydney,1,1,1,0,0,1
+439952,20 Jan 2020,v Scorchers,Perth,2,0,0,0,0,0
+439952,24 Jan 2020,v Hurricanes,Hobart,1,1,1,0,0,1
+439952,26 Jan 2020,v Scorchers,Sydney,1,0,0,0,0,0
+439952,30 Jan 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+439952,1 Feb 2020,v Strikers,Adelaide,2,0,0,0,0,0
+439952,6 Feb 2020,v Stars,Melbourne,1,0,0,0,0,0
+439952,10 Oct 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+439952,12 Oct 2020,v KKR,Sharjah,2,1,1,0,0,1
+439952,15 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+439952,17 Oct 2020,v RR,Dubai (DICS),1,1,1,0,0,1
+439952,21 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+439952,25 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+439952,28 Oct 2020,v MI,Abu Dhabi,2,2,2,0,0,2
+439952,31 Oct 2020,v SRH,Sharjah,2,1,1,0,0,1
+439952,2 Nov 2020,v DC,Abu Dhabi,2,0,0,0,0,0
+439952,19 Feb 2021,v Knights,Durban,1,1,1,0,0,1
+439952,21 Feb 2021,v Cape Cobras,Durban,2,0,0,0,0,0
+439952,22 Feb 2021,v Lions,Durban,1,1,1,0,0,1
+439952,24 Feb 2021,v Warriors,Durban,1,2,2,0,0,2
+439952,26 Feb 2021,v Dolphins,Durban,1,0,0,0,0,0
+439952,12 Apr 2021,v Punjab Kings,Wankhede,1,1,1,0,0,1
+439952,15 Apr 2021,v DC,Wankhede,1,0,0,0,0,0
+439952,19 Apr 2021,v CSK,Wankhede,1,1,1,0,0,1
+439952,22 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+439952,24 Apr 2021,v KKR,Wankhede,1,0,0,0,0,0
+439952,29 Apr 2021,v MI,Delhi,2,0,0,0,0,0
+439952,2 May 2021,v SRH,Delhi,2,2,2,0,0,2
+439952,21 Sep 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+439952,27 Sep 2021,v SRH,Dubai (DICS),2,0,0,0,0,0
+439952,29 Sep 2021,v RCB,Dubai (DICS),2,0,0,0,0,0
+439952,7 Oct 2021,v KKR,Sharjah,1,0,0,0,0,0

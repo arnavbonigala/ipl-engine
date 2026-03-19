@@ -1,0 +1,89 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+732291,1 Apr 2014,v Hyderabad,Visakhapatnam,1,0,0,0,0,0
+732291,5 Apr 2014,v Andhra,Vizianagaram,1,0,0,0,0,0
+732291,8 Apr 2014,v Delhi,Wankhede,2,0,0,0,0,0
+732291,10 Apr 2014,v Rajasthan,Mumbai,2,1,1,0,0,1
+732291,11 Apr 2014,v Bengal,Mumbai,2,0,0,0,0,0
+732291,12 Apr 2014,v Baroda,Wankhede,2,0,0,0,0,0
+732291,26 Mar 2015,v Tamil Nadu,Kochi,2,0,0,0,0,0
+732291,28 Mar 2015,v Andhra,Kochi,2,0,0,0,0,0
+732291,29 Mar 2015,v Karnataka,Kochi,2,1,1,0,0,1
+732291,2 Jan 2016,v J & K,Kochi,1,1,1,0,0,1
+732291,3 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+732291,4 Jan 2016,v Tripura,Kochi,1,0,0,0,0,0
+732291,6 Jan 2016,v Saurashtra,Kochi,2,0,0,0,0,0
+732291,9 Jan 2016,v Punjab,Kochi,1,0,0,0,0,0
+732291,15 Jan 2016,v Mumbai,Wankhede,2,1,1,0,0,1
+732291,16 Jan 2016,v Baroda,Wankhede,1,0,0,0,0,0
+732291,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+732291,30 Jan 2017,v Karnataka,Chennai,1,0,0,0,0,0
+732291,31 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+732291,2 Feb 2017,v Goa,Chennai,1,0,0,0,0,0
+732291,3 Feb 2017,v Tamil Nadu,Chennai,2,1,1,0,0,1
+732291,12 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+732291,15 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+732291,9 Apr 2017,v SRH,Hyderabad,2,0,0,0,0,0
+732291,14 Apr 2017,v Supergiant,Rajkot,1,0,0,0,0,0
+732291,16 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+732291,18 Apr 2017,v RCB,Rajkot,1,0,0,0,0,0
+732291,21 Apr 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+732291,23 Apr 2017,v Kings XI,Rajkot,1,0,0,0,0,0
+732291,27 Apr 2017,v RCB,Bengaluru,1,1,1,0,0,1
+732291,29 Apr 2017,v MI,Rajkot,2,0,0,0,0,0
+732291,1 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+732291,4 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+732291,7 May 2017,v Kings XI,Mohali,1,1,1,0,0,1
+732291,10 May 2017,v Daredevils,Kanpur,2,0,0,0,0,0
+732291,8 Jan 2018,v Hyderabad,Vizianagaram,1,0,0,0,0,0
+732291,9 Jan 2018,v Tamil Nadu,Visakhapatnam,1,1,1,0,0,1
+732291,11 Jan 2018,v Andhra,Visakhapatnam,2,0,0,0,0,0
+732291,12 Jan 2018,v Goa,Visakhapatnam,1,1,1,0,0,1
+732291,24 Apr 2018,v MI,Wankhede,2,1,1,0,0,1
+732291,26 Apr 2018,v Kings XI,Hyderabad,2,1,1,0,0,1
+732291,29 Apr 2018,v RR,Jaipur,2,0,0,0,0,0
+732291,17 May 2018,v RCB,Bengaluru,1,0,0,0,0,0
+732291,21 Feb 2019,v Manipur,Mulapadu,2,0,0,0,0,0
+732291,24 Feb 2019,v Andhra,Mulapadu,2,0,0,0,0,0
+732291,25 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+732291,27 Feb 2019,v J & K,Mulapadu,2,0,0,0,0,0
+732291,28 Feb 2019,v Nagaland,Mulapadu,1,0,0,0,0,0
+732291,2 Mar 2019,v Jharkhand,Mulapadu,2,0,0,0,0,0
+732291,2 May 2019,v MI,Wankhede,1,0,0,0,0,0
+732291,4 May 2019,v RCB,Bengaluru,2,0,0,0,0,0
+732291,8 May 2019,v DC,Visakhapatnam,2,0,0,0,0,0
+732291,8 Nov 2019,v Tamil Nadu,Thumba,1,0,0,0,0,0
+732291,11 Nov 2019,v Tripura,Thiruvananthapuram,2,0,0,0,0,0
+732291,12 Nov 2019,v Manipur,Thiruvananthapuram,2,0,0,0,0,0
+732291,14 Nov 2019,v Vidarbha,Thumba,2,1,1,0,0,1
+732291,15 Nov 2019,v Rajasthan,Thiruvananthapuram,2,1,1,0,0,1
+732291,18 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+732291,11 Jan 2021,v Puducherry,Wankhede,1,0,0,0,0,0
+732291,13 Jan 2021,v Mumbai,Wankhede,1,0,0,0,0,0
+732291,15 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+732291,17 Jan 2021,v Andhra,Mumbai,2,0,0,0,0,0
+732291,4 Nov 2021,v Gujarat,Delhi,2,0,0,0,0,0
+732291,5 Nov 2021,v Bihar,Delhi,1,0,0,0,0,0
+732291,6 Nov 2021,v Railways,Delhi,1,0,0,0,0,0
+732291,8 Nov 2021,v Assam,Delhi,1,0,0,0,0,0
+732291,9 Nov 2021,v M. Pradesh,Delhi,1,1,1,0,0,1
+732291,16 Nov 2021,v Himachal,Delhi,1,1,1,0,0,1
+732291,27 Mar 2022,v DC,Brabourne,2,0,0,0,0,0
+732291,2 Apr 2022,v RR,DY Patil,1,0,0,0,0,0
+732291,6 Apr 2022,v KKR,Pune,2,1,1,0,0,1
+732291,9 Apr 2022,v RCB,Pune,2,0,0,0,0,0
+732291,13 Apr 2022,v Punjab Kings,Pune,1,0,0,0,0,0
+732291,11 Oct 2022,v Arunachal,New Chandigarh,1,0,0,0,0,0
+732291,12 Oct 2022,v Karnataka,Mohali,2,0,0,0,0,0
+732291,14 Oct 2022,v Haryana,Mohali,1,0,0,0,0,0
+732291,16 Oct 2022,v Services,New Chandigarh,1,0,0,0,0,0
+732291,20 Oct 2022,v J & K,Mohali,2,0,0,0,0,0
+732291,22 Oct 2022,v Meghalaya,New Chandigarh,1,0,0,0,0,0
+732291,30 Oct 2022,v Saurashtra,Eden Gardens,1,1,1,0,0,1
+732291,16 Oct 2023,v Himachal,Mumbai,2,0,0,0,0,0
+732291,17 Oct 2023,v Services,Mumbai,2,0,0,0,0,0
+732291,19 Oct 2023,v Bihar,DY Patil,1,0,0,0,0,0
+732291,21 Oct 2023,v Chandigarh,DY Patil,2,0,0,0,0,0
+732291,25 Oct 2023,v Odisha,DY Patil,2,0,0,0,0,0
+732291,27 Oct 2023,v Assam,Mumbai,2,0,0,0,0,0
+732291,27 Nov 2024,v Nagaland,Hyderabad,1,1,1,0,0,1
+732291,1 Dec 2024,v Goa,Hyderabad,2,0,0,0,0,0

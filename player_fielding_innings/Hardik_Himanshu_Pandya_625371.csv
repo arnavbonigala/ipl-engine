@@ -1,0 +1,329 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+625371,17 Mar 2013,v Mumbai,Ahmedabad,2,0,0,0,0,0
+625371,21 Mar 2013,v Saurashtra,Ahmedabad,1,2,2,0,0,2
+625371,22 Mar 2013,v Maharashtra,Ahmedabad,1,0,0,0,0,0
+625371,26 Mar 2013,v Bengal,Indore,1,0,0,0,0,0
+625371,27 Mar 2013,v Punjab,Indore,2,0,0,0,0,0
+625371,29 Mar 2013,v UP,Indore,2,1,1,0,0,1
+625371,30 Mar 2013,v Karnataka,Indore,1,0,0,0,0,0
+625371,30 Mar 2014,v Mumbai,Wankhede,2,0,0,0,0,0
+625371,2 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+625371,3 Apr 2014,v Saurashtra,Mumbai,2,0,0,0,0,0
+625371,4 Apr 2014,v Maharashtra,Mumbai,1,0,0,0,0,0
+625371,8 Apr 2014,v Bengal,Mumbai,1,0,0,0,0,0
+625371,9 Apr 2014,v Delhi,Mumbai,2,0,0,0,0,0
+625371,11 Apr 2014,v Rajasthan,Wankhede,1,0,0,0,0,0
+625371,12 Apr 2014,v Kerala,Wankhede,1,1,1,0,0,1
+625371,14 Apr 2014,v UP,Wankhede,2,0,0,0,0,0
+625371,24 Mar 2015,v Mumbai,Pune,2,0,0,0,0,0
+625371,26 Mar 2015,v Gujarat,Pune,2,0,0,0,0,0
+625371,27 Mar 2015,v Saurashtra,Pune,2,1,1,0,0,1
+625371,19 Apr 2015,v RCB,Bengaluru,2,0,0,0,0,0
+625371,23 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+625371,5 May 2015,v Daredevils,Wankhede,1,0,0,0,0,0
+625371,8 May 2015,v CSK,Chennai,1,3,3,0,0,3
+625371,10 May 2015,v RCB,Wankhede,1,0,0,0,0,0
+625371,14 May 2015,v KKR,Wankhede,2,1,1,0,0,1
+625371,17 May 2015,v SRH,Hyderabad,1,1,1,0,0,1
+625371,19 May 2015,v CSK,Wankhede,2,0,0,0,0,0
+625371,24 May 2015,v CSK,Eden Gardens,2,1,1,0,0,1
+625371,2 Jan 2016,v Assam,Vadodara,2,1,1,0,0,1
+625371,3 Jan 2016,v Railways,Vadodara,2,0,0,0,0,0
+625371,6 Jan 2016,v Goa,Vadodara,2,0,0,0,0,0
+625371,7 Jan 2016,v M. Pradesh,Vadodara,2,0,0,0,0,0
+625371,9 Jan 2016,v Andhra,Vadodara,1,1,1,0,0,1
+625371,10 Jan 2016,v Delhi,Vadodara,2,1,1,0,0,1
+625371,15 Jan 2016,v Vidarbha,Wankhede,1,1,1,0,0,1
+625371,16 Jan 2016,v Kerala,Wankhede,2,0,0,0,0,0
+625371,18 Jan 2016,v Mumbai,Wankhede,1,1,1,0,0,1
+625371,20 Jan 2016,v UP,Wankhede,1,0,0,0,0,0
+625371,26 Jan 2016,v Australia,Adelaide,2,1,1,0,0,1
+625371,29 Jan 2016,v Australia,Melbourne,2,1,1,0,0,1
+625371,31 Jan 2016,v Australia,Sydney,1,0,0,0,0,0
+625371,9 Feb 2016,v Sri Lanka,Pune,2,0,0,0,0,0
+625371,12 Feb 2016,v Sri Lanka,Ranchi,2,1,1,0,0,1
+625371,14 Feb 2016,v Sri Lanka,Visakhapatnam,1,1,1,0,0,1
+625371,24 Feb 2016,v Bangladesh,Mirpur,2,0,0,0,0,0
+625371,27 Feb 2016,v Pakistan,Mirpur,1,0,0,0,0,0
+625371,1 Mar 2016,v Sri Lanka,Mirpur,1,1,1,0,0,1
+625371,3 Mar 2016,v U.A.E.,Mirpur,1,1,1,0,0,1
+625371,6 Mar 2016,v Bangladesh,Mirpur,1,1,1,0,0,1
+625371,15 Mar 2016,v New Zealand,Nagpur,1,1,1,0,0,1
+625371,19 Mar 2016,v Pakistan,Eden Gardens,1,1,1,0,0,1
+625371,23 Mar 2016,v Bangladesh,Bengaluru,2,1,1,0,0,1
+625371,27 Mar 2016,v Australia,Mohali,1,0,0,0,0,0
+625371,31 Mar 2016,v West Indies,Wankhede,2,0,0,0,0,0
+625371,9 Apr 2016,v Supergiants,Wankhede,2,0,0,0,0,0
+625371,13 Apr 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+625371,16 Apr 2016,v Guj Lions,Wankhede,2,2,2,0,0,2
+625371,18 Apr 2016,v SRH,Hyderabad,2,1,1,0,0,1
+625371,20 Apr 2016,v RCB,Wankhede,1,1,1,0,0,1
+625371,23 Apr 2016,v Daredevils,Delhi,1,1,1,0,0,1
+625371,25 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+625371,28 Apr 2016,v KKR,Wankhede,1,0,0,0,0,0
+625371,1 May 2016,v Supergiants,Pune,1,1,1,0,0,1
+625371,8 May 2016,v SRH,Visakhapatnam,1,0,0,0,0,0
+625371,21 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+625371,26 Jan 2017,v England,Kanpur,2,0,0,0,0,0
+625371,29 Jan 2017,v England,Nagpur,2,1,1,0,0,1
+625371,1 Feb 2017,v England,Bengaluru,2,0,0,0,0,0
+625371,6 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+625371,9 Apr 2017,v KKR,Wankhede,1,2,2,0,0,2
+625371,12 Apr 2017,v SRH,Wankhede,1,0,0,0,0,0
+625371,14 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+625371,16 Apr 2017,v Guj Lions,Wankhede,1,0,0,0,0,0
+625371,20 Apr 2017,v Kings XI,Indore,1,0,0,0,0,0
+625371,22 Apr 2017,v Daredevils,Wankhede,2,0,0,0,0,0
+625371,24 Apr 2017,v Supergiant,Wankhede,1,0,0,0,0,0
+625371,29 Apr 2017,v Guj Lions,Rajkot,1,1,1,0,0,1
+625371,1 May 2017,v RCB,Wankhede,1,2,2,0,0,2
+625371,6 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+625371,8 May 2017,v SRH,Hyderabad,2,1,1,0,0,1
+625371,11 May 2017,v Kings XI,Wankhede,1,1,1,0,0,1
+625371,13 May 2017,v KKR,Eden Gardens,2,2,2,0,0,2
+625371,16 May 2017,v Supergiant,Wankhede,1,1,1,0,0,1
+625371,19 May 2017,v KKR,Bengaluru,1,2,2,0,0,2
+625371,21 May 2017,v Supergiant,Hyderabad,2,0,0,0,0,0
+625371,7 Oct 2017,v Australia,Ranchi,1,0,0,0,0,0
+625371,10 Oct 2017,v Australia,Guwahati,2,0,0,0,0,0
+625371,1 Nov 2017,v New Zealand,Delhi,2,1,1,0,0,1
+625371,4 Nov 2017,v New Zealand,Rajkot,1,1,1,0,0,1
+625371,7 Nov 2017,v New Zealand,Thiruvananthapuram,2,0,0,0,0,0
+625371,20 Dec 2017,v Sri Lanka,Cuttack,2,2,2,0,0,2
+625371,22 Dec 2017,v Sri Lanka,Indore,2,2,2,0,0,2
+625371,24 Dec 2017,v Sri Lanka,Wankhede,1,2,2,0,0,2
+625371,18 Feb 2018,v South Africa,Johannesburg,2,0,0,0,0,0
+625371,21 Feb 2018,v South Africa,Centurion,2,1,1,0,0,1
+625371,24 Feb 2018,v South Africa,Cape Town,2,0,0,0,0,0
+625371,7 Apr 2018,v CSK,Wankhede,2,0,0,0,0,0
+625371,14 Apr 2018,v Daredevils,Wankhede,2,1,1,0,0,1
+625371,17 Apr 2018,v RCB,Wankhede,2,1,1,0,0,1
+625371,22 Apr 2018,v RR,Jaipur,2,2,2,0,0,2
+625371,24 Apr 2018,v SRH,Wankhede,1,1,1,0,0,1
+625371,28 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+625371,1 May 2018,v RCB,Bengaluru,1,0,0,0,0,0
+625371,4 May 2018,v Kings XI,Indore,1,2,2,0,0,2
+625371,6 May 2018,v KKR,Wankhede,2,0,0,0,0,0
+625371,9 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+625371,13 May 2018,v RR,Wankhede,2,0,0,0,0,0
+625371,16 May 2018,v Kings XI,Wankhede,2,1,1,0,0,1
+625371,20 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+625371,27 Jun 2018,v Ireland,Dublin (Malahide),2,1,1,0,0,1
+625371,29 Jun 2018,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+625371,3 Jul 2018,v England,Manchester,1,0,0,0,0,0
+625371,6 Jul 2018,v England,Cardiff,2,0,0,0,0,0
+625371,8 Jul 2018,v England,Bristol,1,0,0,0,0,0
+625371,6 Feb 2019,v New Zealand,Wellington,1,1,1,0,0,1
+625371,8 Feb 2019,v New Zealand,Auckland,1,0,0,0,0,0
+625371,10 Feb 2019,v New Zealand,Hamilton,1,1,1,0,0,1
+625371,24 Mar 2019,v DC,Wankhede,1,1,1,0,0,1
+625371,28 Mar 2019,v RCB,Bengaluru,2,2,2,0,0,2
+625371,30 Mar 2019,v Kings XI,Mohali,2,1,1,0,0,1
+625371,3 Apr 2019,v CSK,Wankhede,2,0,0,0,0,0
+625371,6 Apr 2019,v SRH,Hyderabad,2,1,1,0,0,1
+625371,10 Apr 2019,v Kings XI,Wankhede,1,0,0,0,0,0
+625371,13 Apr 2019,v RR,Wankhede,2,1,1,0,0,1
+625371,15 Apr 2019,v RCB,Wankhede,1,1,1,0,0,1
+625371,18 Apr 2019,v DC,Delhi,2,2,2,0,0,2
+625371,20 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+625371,26 Apr 2019,v CSK,Chennai,2,1,1,0,0,1
+625371,28 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+625371,2 May 2019,v SRH,Wankhede,2,0,0,0,0,0
+625371,5 May 2019,v KKR,Wankhede,1,1,1,0,0,1
+625371,7 May 2019,v CSK,Chennai,1,0,0,0,0,0
+625371,12 May 2019,v CSK,Hyderabad,2,0,0,0,0,0
+625371,18 Sep 2019,v South Africa,Mohali,1,0,0,0,0,0
+625371,22 Sep 2019,v South Africa,Bengaluru,2,0,0,0,0,0
+625371,19 Sep 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+625371,23 Sep 2020,v KKR,Abu Dhabi,2,3,3,0,0,3
+625371,28 Sep 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+625371,1 Oct 2020,v Kings XI,Abu Dhabi,2,0,0,0,0,0
+625371,4 Oct 2020,v SRH,Sharjah,2,1,1,0,0,1
+625371,6 Oct 2020,v RR,Abu Dhabi,2,1,1,0,0,1
+625371,11 Oct 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+625371,16 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+625371,18 Oct 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+625371,23 Oct 2020,v CSK,Sharjah,1,0,0,0,0,0
+625371,25 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+625371,28 Oct 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+625371,5 Nov 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+625371,10 Nov 2020,v DC,Dubai (DICS),1,1,1,0,0,1
+625371,4 Dec 2020,v Australia,Canberra,2,2,2,0,0,2
+625371,6 Dec 2020,v Australia,Sydney,1,1,1,0,0,1
+625371,8 Dec 2020,v Australia,Sydney,1,1,1,0,0,1
+625371,12 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+625371,14 Mar 2021,v England,Ahmedabad,1,1,1,0,0,1
+625371,16 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+625371,18 Mar 2021,v England,Ahmedabad,2,1,1,0,0,1
+625371,20 Mar 2021,v England,Ahmedabad,2,1,1,0,0,1
+625371,9 Apr 2021,v RCB,Chennai,2,0,0,0,0,0
+625371,13 Apr 2021,v KKR,Chennai,2,0,0,0,0,0
+625371,17 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+625371,20 Apr 2021,v DC,Chennai,2,0,0,0,0,0
+625371,23 Apr 2021,v Punjab Kings,Chennai,2,0,0,0,0,0
+625371,29 Apr 2021,v RR,Delhi,1,0,0,0,0,0
+625371,1 May 2021,v CSK,Delhi,1,1,1,0,0,1
+625371,25 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+625371,26 Sep 2021,v RCB,Dubai (DICS),1,0,0,0,0,0
+625371,28 Sep 2021,v Punjab Kings,Abu Dhabi,1,1,1,0,0,1
+625371,2 Oct 2021,v DC,Sharjah,2,1,1,0,0,1
+625371,5 Oct 2021,v RR,Sharjah,1,0,0,0,0,0
+625371,8 Oct 2021,v SRH,Abu Dhabi,2,1,1,0,0,1
+625371,24 Oct 2021,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+625371,31 Oct 2021,v New Zealand,Dubai (DICS),2,0,0,0,0,0
+625371,3 Nov 2021,v Afghanistan,Abu Dhabi,2,2,2,0,0,2
+625371,5 Nov 2021,v Scotland,Dubai (DICS),1,2,2,0,0,2
+625371,8 Nov 2021,v Namibia,Dubai (DICS),1,0,0,0,0,0
+625371,28 Mar 2022,v LSG,Wankhede,1,1,1,0,0,1
+625371,2 Apr 2022,v DC,Pune,2,0,0,0,0,0
+625371,8 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+625371,11 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+625371,14 Apr 2022,v RR,DY Patil,2,1,1,0,0,1
+625371,23 Apr 2022,v KKR,DY Patil,2,0,0,0,0,0
+625371,27 Apr 2022,v SRH,Wankhede,1,0,0,0,0,0
+625371,30 Apr 2022,v RCB,Brabourne,1,0,0,0,0,0
+625371,3 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+625371,6 May 2022,v MI,Brabourne,1,0,0,0,0,0
+625371,10 May 2022,v LSG,Pune,2,0,0,0,0,0
+625371,15 May 2022,v CSK,Wankhede,1,0,0,0,0,0
+625371,19 May 2022,v RCB,Wankhede,2,1,1,0,0,1
+625371,24 May 2022,v RR,Eden Gardens,1,0,0,0,0,0
+625371,29 May 2022,v RR,Ahmedabad,1,1,1,0,0,1
+625371,9 Jun 2022,v South Africa,Delhi,2,0,0,0,0,0
+625371,12 Jun 2022,v South Africa,Cuttack,2,0,0,0,0,0
+625371,14 Jun 2022,v South Africa,Visakhapatnam,2,0,0,0,0,0
+625371,17 Jun 2022,v South Africa,Rajkot,2,0,0,0,0,0
+625371,19 Jun 2022,v South Africa,Bengaluru,-,TDNF,-,-,-,-
+625371,26 Jun 2022,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+625371,28 Jun 2022,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+625371,7 Jul 2022,v England,Southampton,2,0,0,0,0,0
+625371,9 Jul 2022,v England,Birmingham,2,1,1,0,0,1
+625371,29 Jul 2022,v West Indies,Tarouba,2,0,0,0,0,0
+625371,1 Aug 2022,v West Indies,Basseterre,2,0,0,0,0,0
+625371,2 Aug 2022,v West Indies,Basseterre,1,0,0,0,0,0
+625371,7 Aug 2022,v West Indies,Lauderhill,2,1,1,0,0,1
+625371,28 Aug 2022,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+625371,4 Sep 2022,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+625371,6 Sep 2022,v Sri Lanka,Dubai (DICS),2,0,0,0,0,0
+625371,20 Sep 2022,v Australia,Mohali,2,1,1,0,0,1
+625371,23 Sep 2022,v Australia,Nagpur,1,0,0,0,0,0
+625371,25 Sep 2022,v Australia,Hyderabad,1,1,1,0,0,1
+625371,23 Oct 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+625371,27 Oct 2022,v Netherlands,Sydney,2,1,1,0,0,1
+625371,30 Oct 2022,v South Africa,Perth,2,0,0,0,0,0
+625371,2 Nov 2022,v Bangladesh,Adelaide,2,0,0,0,0,0
+625371,6 Nov 2022,v Zimbabwe,Melbourne,2,1,1,0,0,1
+625371,10 Nov 2022,v England,Adelaide,2,0,0,0,0,0
+625371,20 Nov 2022,v New Zealand,Mount Maunganui,2,0,0,0,0,0
+625371,22 Nov 2022,v New Zealand,Napier,1,0,0,0,0,0
+625371,3 Jan 2023,v Sri Lanka,Wankhede,2,2,2,0,0,2
+625371,5 Jan 2023,v Sri Lanka,Pune,1,0,0,0,0,0
+625371,7 Jan 2023,v Sri Lanka,Rajkot,2,0,0,0,0,0
+625371,27 Jan 2023,v New Zealand,Ranchi,1,0,0,0,0,0
+625371,29 Jan 2023,v New Zealand,Lucknow,1,1,1,0,0,1
+625371,1 Feb 2023,v New Zealand,Ahmedabad,2,1,1,0,0,1
+625371,31 Mar 2023,v CSK,Ahmedabad,1,0,0,0,0,0
+625371,4 Apr 2023,v DC,Delhi,1,1,1,0,0,1
+625371,13 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+625371,16 Apr 2023,v RR,Ahmedabad,2,0,0,0,0,0
+625371,22 Apr 2023,v LSG,Lucknow,2,1,1,0,0,1
+625371,25 Apr 2023,v MI,Ahmedabad,2,1,1,0,0,1
+625371,29 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+625371,2 May 2023,v DC,Ahmedabad,1,1,1,0,0,1
+625371,5 May 2023,v RR,Jaipur,1,1,1,0,0,1
+625371,7 May 2023,v LSG,Ahmedabad,2,0,0,0,0,0
+625371,12 May 2023,v MI,Wankhede,1,0,0,0,0,0
+625371,15 May 2023,v SRH,Ahmedabad,2,1,1,0,0,1
+625371,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+625371,23 May 2023,v CSK,Chennai,1,1,1,0,0,1
+625371,26 May 2023,v MI,Ahmedabad,2,1,1,0,0,1
+625371,28 May 2023,v CSK,Ahmedabad,2,0,0,0,0,0
+625371,3 Aug 2023,v West Indies,Tarouba,1,0,0,0,0,0
+625371,6 Aug 2023,v West Indies,Providence,2,0,0,0,0,0
+625371,8 Aug 2023,v West Indies,Providence,1,0,0,0,0,0
+625371,12 Aug 2023,v West Indies,Lauderhill,1,0,0,0,0,0
+625371,13 Aug 2023,v West Indies,Lauderhill,2,1,1,0,0,1
+625371,24 Mar 2024,v GT,Ahmedabad,1,1,1,0,0,1
+625371,27 Mar 2024,v SRH,Hyderabad,1,0,0,0,0,0
+625371,1 Apr 2024,v RR,Wankhede,2,0,0,0,0,0
+625371,7 Apr 2024,v DC,Wankhede,2,2,2,0,0,2
+625371,11 Apr 2024,v RCB,Wankhede,1,0,0,0,0,0
+625371,14 Apr 2024,v CSK,Wankhede,1,1,1,0,0,1
+625371,18 Apr 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+625371,22 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+625371,27 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+625371,30 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+625371,3 May 2024,v KKR,Wankhede,1,0,0,0,0,0
+625371,6 May 2024,v SRH,Wankhede,1,0,0,0,0,0
+625371,11 May 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+625371,17 May 2024,v LSG,Wankhede,1,0,0,0,0,0
+625371,5 Jun 2024,v Ireland,New York,1,0,0,0,0,0
+625371,9 Jun 2024,v Pakistan,New York,2,0,0,0,0,0
+625371,12 Jun 2024,v U.S.A.,New York,1,1,1,0,0,1
+625371,20 Jun 2024,v Afghanistan,Bridgetown,2,0,0,0,0,0
+625371,22 Jun 2024,v Bangladesh,North Sound,2,0,0,0,0,0
+625371,24 Jun 2024,v Australia,Gros Islet,2,1,1,0,0,1
+625371,27 Jun 2024,v England,Providence,2,0,0,0,0,0
+625371,29 Jun 2024,v South Africa,Bridgetown,2,0,0,0,0,0
+625371,27 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+625371,28 Jul 2024,v Sri Lanka,Pallekele,1,0,0,0,0,0
+625371,6 Oct 2024,v Bangladesh,Gwalior,1,2,2,0,0,2
+625371,9 Oct 2024,v Bangladesh,Delhi,2,3,3,0,0,3
+625371,12 Oct 2024,v Bangladesh,Hyderabad,2,0,0,0,0,0
+625371,8 Nov 2024,v South Africa,Durban,2,2,2,0,0,2
+625371,10 Nov 2024,v South Africa,Gqeberha,2,0,0,0,0,0
+625371,13 Nov 2024,v South Africa,Centurion,2,0,0,0,0,0
+625371,15 Nov 2024,v South Africa,Johannesburg,2,0,0,0,0,0
+625371,23 Nov 2024,v Gujarat,Indore,1,1,1,0,0,1
+625371,25 Nov 2024,v Uttarakhand,Indore,1,1,1,0,0,1
+625371,27 Nov 2024,v Tamil Nadu,Indore,1,0,0,0,0,0
+625371,29 Nov 2024,v Tripura,Indore,1,0,0,0,0,0
+625371,3 Dec 2024,v Karnataka,Indore,1,0,0,0,0,0
+625371,11 Dec 2024,v Bengal,Bengaluru,2,3,3,0,0,3
+625371,13 Dec 2024,v Mumbai,Bengaluru,2,0,0,0,0,0
+625371,22 Jan 2025,v England,Eden Gardens,1,0,0,0,0,0
+625371,25 Jan 2025,v England,Chennai,1,0,0,0,0,0
+625371,28 Jan 2025,v England,Rajkot,1,0,0,0,0,0
+625371,31 Jan 2025,v England,Pune,2,0,0,0,0,0
+625371,2 Feb 2025,v England,Wankhede,2,0,0,0,0,0
+625371,29 Mar 2025,v GT,Ahmedabad,1,1,1,0,0,1
+625371,31 Mar 2025,v KKR,Wankhede,1,1,1,0,0,1
+625371,4 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+625371,7 Apr 2025,v RCB,Wankhede,1,0,0,0,0,0
+625371,13 Apr 2025,v DC,Delhi,2,0,0,0,0,0
+625371,17 Apr 2025,v SRH,Wankhede,1,0,0,0,0,0
+625371,20 Apr 2025,v CSK,Wankhede,1,0,0,0,0,0
+625371,23 Apr 2025,v SRH,Hyderabad,1,0,0,0,0,0
+625371,27 Apr 2025,v LSG,Wankhede,2,0,0,0,0,0
+625371,1 May 2025,v RR,Jaipur,2,0,0,0,0,0
+625371,6 May 2025,v GT,Wankhede,2,0,0,0,0,0
+625371,21 May 2025,v DC,Wankhede,2,0,0,0,0,0
+625371,26 May 2025,v Punjab Kings,Jaipur,2,0,0,0,0,0
+625371,30 May 2025,v GT,New Chandigarh,2,0,0,0,0,0
+625371,1 Jun 2025,v Punjab Kings,Ahmedabad,2,1,1,0,0,1
+625371,10 Sep 2025,v U.A.E.,Dubai (DICS),1,0,0,0,0,0
+625371,14 Sep 2025,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+625371,19 Sep 2025,v Oman,Abu Dhabi,2,1,1,0,0,1
+625371,21 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+625371,24 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+625371,26 Sep 2025,v Sri Lanka,Dubai (DICS),2,0,0,0,0,0
+625371,2 Dec 2025,v Punjab,Hyderabad,1,0,0,0,0,0
+625371,4 Dec 2025,v Gujarat,Hyderabad,1,1,1,0,0,1
+625371,9 Dec 2025,v South Africa,Cuttack,2,0,0,0,0,0
+625371,11 Dec 2025,v South Africa,New Chandigarh,1,0,0,0,0,0
+625371,14 Dec 2025,v South Africa,Dharamsala,1,0,0,0,0,0
+625371,19 Dec 2025,v South Africa,Ahmedabad,2,0,0,0,0,0
+625371,21 Jan 2026,v New Zealand,Nagpur,2,0,0,0,0,0
+625371,23 Jan 2026,v New Zealand,Raipur,1,3,3,0,0,3
+625371,25 Jan 2026,v New Zealand,Guwahati,1,1,1,0,0,1
+625371,28 Jan 2026,v New Zealand,Visakhapatnam,1,0,0,0,0,0
+625371,31 Jan 2026,v New Zealand,Thiruvananthapuram,2,1,1,0,0,1
+625371,7 Feb 2026,v U.S.A.,Wankhede,2,0,0,0,0,0
+625371,12 Feb 2026,v Namibia,Delhi,2,0,0,0,0,0
+625371,15 Feb 2026,v Pakistan,Colombo (RPS),2,1,1,0,0,1
+625371,18 Feb 2026,v Netherlands,Ahmedabad,2,0,0,0,0,0
+625371,22 Feb 2026,v South Africa,Ahmedabad,1,1,1,0,0,1
+625371,26 Feb 2026,v Zimbabwe,Chennai,2,0,0,0,0,0
+625371,1 Mar 2026,v West Indies,Eden Gardens,1,0,0,0,0,0
+625371,5 Mar 2026,v England,Wankhede,2,0,0,0,0,0
+625371,8 Mar 2026,v New Zealand,Ahmedabad,2,0,0,0,0,0

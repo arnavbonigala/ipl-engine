@@ -1,0 +1,72 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+376324,23 Apr 2009,v RR,Cape Town,1,0,0,0,0,0
+376324,27 Apr 2009,v MI,Gqeberha,1,0,0,0,0,0
+376324,18 May 2009,v CSK,Centurion,1,0,0,0,0,0
+376324,12 Mar 2010,v Assam,Indore,2,0,0,0,0,0
+376324,22 Oct 2011,v UP,Indore,1,1,1,0,0,1
+376324,24 Oct 2011,v Vidarbha,Indore,1,1,1,0,0,1
+376324,25 Oct 2011,v Rajasthan,Indore,1,1,1,0,0,1
+376324,24 Mar 2012,v Delhi,Brabourne,1,0,0,0,0,0
+376324,17 Mar 2013,v UP,Nagpur,2,0,0,0,0,0
+376324,18 Mar 2013,v Rajasthan,Nagpur,2,0,0,0,0,0
+376324,1 Apr 2014,v M. Pradesh,Nagpur,2,0,0,0,0,0
+376324,2 Apr 2014,v Vidarbha,Nagpur,1,0,0,0,0,0
+376324,4 Apr 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+376324,5 Apr 2014,v UP,Nagpur,1,0,0,0,0,0
+376324,18 Sep 2014,v Hurricanes,Mohali,1,0,0,0,0,0
+376324,20 Sep 2014,v Tridents,Mohali,1,1,1,0,0,1
+376324,26 Sep 2014,v Northern Dis,Mohali,2,1,1,0,0,1
+376324,28 Sep 2014,v Cape Cobras,Mohali,1,0,0,0,0,0
+376324,2 Oct 2014,v CSK,Hyderabad,1,0,0,0,0,0
+376324,25 Mar 2015,v M. Pradesh,Indore,1,0,0,0,0,0
+376324,27 Mar 2015,v Vidarbha,Indore,1,1,1,0,0,1
+376324,28 Mar 2015,v Rajasthan,Indore,1,0,0,0,0,0
+376324,10 Apr 2015,v RR,Pune,1,0,0,0,0,0
+376324,12 Apr 2015,v MI,Wankhede,2,0,0,0,0,0
+376324,15 Apr 2015,v Daredevils,Pune,2,2,2,0,0,2
+376324,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+376324,21 Apr 2015,v RR,Ahmedabad,1,0,0,0,0,0
+376324,25 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+376324,27 Apr 2015,v SRH,Mohali,1,0,0,0,0,0
+376324,1 May 2015,v Daredevils,Delhi,2,0,0,0,0,0
+376324,3 May 2015,v MI,Mohali,1,1,1,0,0,1
+376324,6 May 2015,v RCB,Bengaluru,1,0,0,0,0,0
+376324,9 May 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+376324,11 May 2015,v SRH,Hyderabad,1,1,1,0,0,1
+376324,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+376324,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+376324,2 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+376324,3 Jan 2016,v Baroda,Vadodara,1,0,0,0,0,0
+376324,4 Jan 2016,v Andhra,Vadodara,2,1,1,0,0,1
+376324,6 Jan 2016,v M. Pradesh,Vadodara,2,0,0,0,0,0
+376324,7 Jan 2016,v Goa,Vadodara,2,0,0,0,0,0
+376324,9 Jan 2016,v Assam,Vadodara,2,0,0,0,0,0
+376324,9 May 2016,v RCB,Mohali,1,0,0,0,0,0
+376324,15 May 2016,v SRH,Mohali,2,0,0,0,0,0
+376324,29 Jan 2017,v M. Pradesh,Jaipur,2,2,2,0,0,2
+376324,31 Jan 2017,v Vidarbha,Jaipur,1,0,0,0,0,0
+376324,2 Feb 2017,v UP,Jaipur,2,0,0,0,0,0
+376324,3 Feb 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+376324,5 Feb 2017,v Rajasthan,Jaipur,1,0,0,0,0,0
+376324,28 Apr 2017,v SRH,Mohali,1,0,0,0,0,0
+376324,9 Jan 2018,v Vidarbha,Raipur,1,0,0,0,0,0
+376324,10 Jan 2018,v Chhattisgarh,Raipur,1,0,0,0,0,0
+376324,15 Jan 2018,v M. Pradesh,Raipur,1,0,0,0,0,0
+376324,16 Jan 2018,v Rajasthan,Raipur,1,0,0,0,0,0
+376324,6 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+376324,8 May 2018,v Kings XI,Jaipur,2,0,0,0,0,0
+376324,15 May 2018,v KKR,Eden Gardens,2,1,1,0,0,1
+376324,21 Feb 2019,v Saurashtra,Indore,1,0,0,0,0,0
+376324,24 Feb 2019,v Goa,Indore,1,1,1,0,0,1
+376324,25 Feb 2019,v M. Pradesh,Indore,1,0,0,0,0,0
+376324,27 Feb 2019,v Mumbai,Indore,2,2,2,0,0,2
+376324,28 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+376324,2 Mar 2019,v Punjab,Indore,2,0,0,0,0,0
+376324,8 Mar 2019,v Bengal,Indore,2,1,1,0,0,1
+376324,9 Mar 2019,v Jharkhand,Indore,2,0,0,0,0,0
+376324,11 Mar 2019,v Gujarat,Indore,2,0,0,0,0,0
+376324,11 Jan 2021,v Mizoram,Chennai,1,1,1,0,0,1
+376324,13 Jan 2021,v Bihar,Chennai,2,1,1,0,0,1
+376324,15 Jan 2021,v Nagaland,Chennai,1,0,0,0,0,0
+376324,17 Jan 2021,v Chandigarh,Chennai,1,2,2,0,0,2
+376324,19 Jan 2021,v Meghalaya,Chennai,2,1,1,0,0,1

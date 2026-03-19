@@ -1,0 +1,84 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+527299,17 Mar 2013,v Vidarbha,Nagpur,1,0,0,0,0,0
+527299,18 Mar 2013,v Railways,Nagpur,1,0,0,0,0,0
+527299,21 Mar 2013,v UP,Nagpur,2,0,0,0,0,0
+527299,31 Mar 2014,v M. Pradesh,Nagpur,2,0,0,0,0,0
+527299,1 Apr 2014,v UP,Nagpur,2,0,0,0,0,0
+527299,4 Apr 2014,v Railways,Nagpur,2,0,0,0,0,0
+527299,5 Apr 2014,v Vidarbha,Nagpur,1,0,0,0,0,0
+527299,9 Apr 2014,v Bengal,Mumbai,2,0,0,0,0,0
+527299,10 Apr 2014,v Kerala,Mumbai,1,0,0,0,0,0
+527299,11 Apr 2014,v Baroda,Wankhede,2,0,0,0,0,0
+527299,12 Apr 2014,v Delhi,Mumbai,1,0,0,0,0,0
+527299,24 Mar 2015,v M. Pradesh,Indore,2,0,0,0,0,0
+527299,25 Mar 2015,v UP,Indore,2,0,0,0,0,0
+527299,28 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+527299,29 Mar 2015,v Vidarbha,Indore,2,0,0,0,0,0
+527299,2 Apr 2015,v Odisha,Cuttack,1,0,0,0,0,0
+527299,3 Apr 2015,v Hyderabad,Cuttack,2,0,0,0,0,0
+527299,4 Apr 2015,v Mumbai,Cuttack,1,0,0,0,0,0
+527299,5 Apr 2015,v Punjab,Cuttack,2,1,1,0,0,1
+527299,30 Jan 2017,v M. Pradesh,Jaipur,1,0,0,0,0,0
+527299,31 Jan 2017,v UP,Jaipur,2,0,0,0,0,0
+527299,2 Feb 2017,v Chhattisgarh,Jaipur,2,0,0,0,0,0
+527299,12 Feb 2017,v West Zone,Wankhede,1,0,0,0,0,0
+527299,13 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+527299,15 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+527299,18 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+527299,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+527299,27 Apr 2017,v Guj Lions,Bengaluru,2,0,0,0,0,0
+527299,1 May 2017,v MI,Wankhede,2,0,0,0,0,0
+527299,5 May 2017,v Kings XI,Bengaluru,1,0,0,0,0,0
+527299,7 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+527299,8 Jan 2018,v M. Pradesh,Raipur,2,0,0,0,0,0
+527299,9 Jan 2018,v UP,Raipur,1,0,0,0,0,0
+527299,12 Jan 2018,v Chhattisgarh,Raipur,1,1,1,0,0,1
+527299,13 Jan 2018,v Vidarbha,Raipur,1,0,0,0,0,0
+527299,16 Jan 2018,v Railways,Raipur,2,0,0,0,0,0
+527299,24 Jan 2018,v Mumbai,Eden Gardens,2,1,1,0,0,1
+527299,25 Jan 2018,v Punjab,Eden Gardens,1,0,0,0,0,0
+527299,26 Jan 2018,v Delhi,Eden Gardens,1,0,0,0,0,0
+527299,21 Feb 2019,v Tamil Nadu,Surat,2,1,1,0,0,1
+527299,22 Feb 2019,v Gujarat,Surat,2,0,0,0,0,0
+527299,24 Feb 2019,v Meghalaya,Surat,2,0,0,0,0,0
+527299,28 Feb 2019,v Himachal,Surat,1,0,0,0,0,0
+527299,2 Mar 2019,v Bihar,Surat,2,0,0,0,0,0
+527299,8 Nov 2019,v Manipur,Thiruvananthapuram,2,0,0,0,0,0
+527299,9 Nov 2019,v Tamil Nadu,Thumba,1,1,1,0,0,1
+527299,12 Nov 2019,v Vidarbha,Thiruvananthapuram,1,0,0,0,0,0
+527299,14 Nov 2019,v UP,Thiruvananthapuram,1,1,1,0,0,1
+527299,17 Nov 2019,v Tripura,Thumba,1,0,0,0,0,0
+527299,21 Nov 2019,v Baroda,Surat,1,2,2,0,0,2
+527299,22 Nov 2019,v Haryana,Surat,2,0,0,0,0,0
+527299,25 Nov 2019,v Maharashtra,Surat,1,0,0,0,0,0
+527299,27 Nov 2019,v Delhi,Surat,2,0,0,0,0,0
+527299,29 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+527299,11 Jan 2021,v Vidarbha,Indore,1,0,0,0,0,0
+527299,13 Jan 2021,v M. Pradesh,Indore,2,0,0,0,0,0
+527299,15 Jan 2021,v Services,Indore,1,0,0,0,0,0
+527299,17 Jan 2021,v Goa,Indore,1,1,1,0,0,1
+527299,19 Jan 2021,v Saurashtra,Indore,2,0,0,0,0,0
+527299,27 Jan 2021,v Bihar,Ahmedabad,2,0,0,0,0,0
+527299,29 Jan 2021,v Tamil Nadu,Ahmedabad,2,0,0,0,0,0
+527299,4 Nov 2021,v Jharkhand,Vadodara,1,0,0,0,0,0
+527299,5 Nov 2021,v J & K,Vadodara,1,0,0,0,0,0
+527299,6 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+527299,18 Nov 2021,v Vidarbha,Delhi,2,0,0,0,0,0
+527299,11 Oct 2022,v M. Pradesh,Rajkot,1,0,0,0,0,0
+527299,12 Oct 2022,v Vidarbha,Rajkot,1,0,0,0,0,0
+527299,14 Oct 2022,v Railways,Rajkot,2,0,0,0,0,0
+527299,16 Oct 2022,v Uttarakhand,Rajkot,2,0,0,0,0,0
+527299,18 Oct 2022,v Mumbai,Saurashtra,1,1,1,0,0,1
+527299,20 Oct 2022,v Assam,Saurashtra,2,1,1,0,0,1
+527299,22 Oct 2022,v Mizoram,Saurashtra,2,0,0,0,0,0
+527299,17 Oct 2023,v Bengal,Mohali,1,1,1,0,0,1
+527299,19 Oct 2023,v Vidarbha,Mohali,2,0,0,0,0,0
+527299,21 Oct 2023,v Jharkhand,New Chandigarh,2,0,0,0,0,0
+527299,25 Oct 2023,v Uttarakhand,Mohali,1,0,0,0,0,0
+527299,27 Oct 2023,v Maharashtra,New Chandigarh,2,0,0,0,0,0
+527299,23 Nov 2024,v Bihar,Saurashtra,2,0,0,0,0,0
+527299,27 Nov 2024,v Hyderabad,Rajkot,2,0,0,0,0,0
+527299,29 Nov 2024,v Meghalaya,Rajkot,1,0,0,0,0,0
+527299,1 Dec 2024,v M. Pradesh,Saurashtra,1,0,0,0,0,0
+527299,3 Dec 2024,v Punjab,Saurashtra,2,0,0,0,0,0
+527299,5 Dec 2024,v Bengal,Rajkot,2,0,0,0,0,0

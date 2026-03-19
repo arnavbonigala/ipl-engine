@@ -1,0 +1,295 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+277916,3 Apr 2007,v Baroda,Wankhede,1,1,1,0,0,1
+277916,4 Apr 2007,v Gujarat,Brabourne,1,0,0,0,0,0
+277916,5 Apr 2007,v Saurashtra,Wankhede,2,0,0,0,0,0
+277916,6 Apr 2007,v Maharashtra,Brabourne,1,0,0,0,0,0
+277916,17 Apr 2007,v Haryana,Ahmedabad,1,0,0,0,0,0
+277916,18 Apr 2007,v M. Pradesh,Ahmedabad,2,1,1,0,0,1
+277916,19 Apr 2007,v Bengal,Ahmedabad,2,1,1,0,0,1
+277916,27 Apr 2008,v Chargers,DY Patil,2,0,0,0,0,0
+277916,29 Apr 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+277916,1 May 2009,v KKR,East London,2,0,0,0,0,0
+277916,3 May 2009,v RCB,Johannesburg,2,0,0,0,0,0
+277916,8 May 2009,v Daredevils,East London,2,0,0,0,0,0
+277916,10 May 2009,v RCB,Gqeberha,2,0,0,0,0,0
+277916,12 May 2009,v Kings XI,Centurion,1,0,0,0,0,0
+277916,14 May 2009,v RR,Durban,1,1,1,0,0,1
+277916,16 May 2009,v CSK,Gqeberha,2,0,0,0,0,0
+277916,21 May 2009,v Daredevils,Centurion,2,0,0,0,0,0
+277916,20 Oct 2009,v Baroda,Pune,2,0,0,0,0,0
+277916,21 Oct 2009,v Gujarat,Pune,1,0,0,0,0,0
+277916,22 Oct 2009,v Saurashtra,Pune,2,1,1,0,0,1
+277916,24 Oct 2009,v Maharashtra,Pune,1,0,0,0,0,0
+277916,13 Mar 2010,v Hyderabad,Indore,2,0,0,0,0,0
+277916,20 Oct 2010,v Baroda,Vadodara,1,1,1,0,0,1
+277916,21 Oct 2010,v Gujarat,Vadodara,1,0,0,0,0,0
+277916,22 Oct 2010,v Saurashtra,Vadodara,2,0,0,0,0,0
+277916,24 Oct 2010,v Maharashtra,Vadodara,2,0,0,0,0,0
+277916,12 Mar 2011,v Haryana,Hyderabad,2,1,1,0,0,1
+277916,12 Apr 2011,v Daredevils,Jaipur,1,0,0,0,0,0
+277916,17 Apr 2011,v KKR,Eden Gardens,2,0,0,0,0,0
+277916,24 Apr 2011,v Kochi,Jaipur,1,0,0,0,0,0
+277916,29 Apr 2011,v MI,Jaipur,1,0,0,0,0,0
+277916,1 May 2011,v Warriors,Jaipur,1,1,1,0,0,1
+277916,4 May 2011,v CSK,Chennai,2,0,0,0,0,0
+277916,9 May 2011,v CSK,Jaipur,1,0,0,0,0,0
+277916,11 May 2011,v RCB,Jaipur,2,0,0,0,0,0
+277916,15 May 2011,v Kochi,Indore,2,0,0,0,0,0
+277916,20 May 2011,v MI,Wankhede,1,0,0,0,0,0
+277916,29 Aug 2011,v Leics,Leicester,2,0,0,0,0,0
+277916,31 Aug 2011,v England,Manchester,2,0,0,0,0,0
+277916,29 Oct 2011,v England,Eden Gardens,2,1,1,0,0,1
+277916,24 Mar 2012,v Tamil Nadu,Brabourne,2,1,1,0,0,1
+277916,26 Mar 2012,v Punjab,Mumbai,2,0,0,0,0,0
+277916,6 Apr 2012,v Kings XI,Jaipur,2,1,1,0,0,1
+277916,8 Apr 2012,v KKR,Jaipur,2,0,0,0,0,0
+277916,11 Apr 2012,v MI,Wankhede,1,2,2,0,0,2
+277916,13 Apr 2012,v KKR,Eden Gardens,2,1,1,0,0,1
+277916,15 Apr 2012,v RCB,Bengaluru,2,2,2,0,0,2
+277916,17 Apr 2012,v Chargers,Jaipur,1,0,0,0,0,0
+277916,21 Apr 2012,v CSK,Chennai,2,1,1,0,0,1
+277916,23 Apr 2012,v RCB,Jaipur,1,0,0,0,0,0
+277916,29 Apr 2012,v Daredevils,Delhi,1,0,0,0,0,0
+277916,1 May 2012,v Daredevils,Jaipur,2,0,0,0,0,0
+277916,5 May 2012,v Kings XI,Mohali,2,0,0,0,0,0
+277916,8 May 2012,v Warriors,Pune,1,0,0,0,0,0
+277916,10 May 2012,v CSK,Jaipur,2,2,2,0,0,2
+277916,13 May 2012,v Warriors,Jaipur,2,2,2,0,0,2
+277916,18 May 2012,v Chargers,Hyderabad,2,0,0,0,0,0
+277916,20 May 2012,v MI,Jaipur,2,0,0,0,0,0
+277916,23 Jun 2012,v W. Indies A,Port of Spain,2,0,0,0,0,0
+277916,24 Jun 2012,v W. Indies A,Port of Spain,2,0,0,0,0,0
+277916,7 Aug 2012,v Sri Lanka,Pallekele,2,1,1,0,0,1
+277916,20 Dec 2012,v England,Pune,1,3,3,0,0,3
+277916,22 Dec 2012,v England,Wankhede,2,0,0,0,0,0
+277916,25 Dec 2012,v Pakistan,Bengaluru,2,0,0,0,0,0
+277916,28 Dec 2012,v Pakistan,Ahmedabad,2,1,1,0,0,1
+277916,6 Apr 2013,v Daredevils,Delhi,2,1,1,0,0,1
+277916,8 Apr 2013,v KKR,Jaipur,2,1,1,0,0,1
+277916,11 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+277916,14 Apr 2013,v Kings XI,Jaipur,1,1,1,0,0,1
+277916,17 Apr 2013,v MI,Jaipur,2,0,0,0,0,0
+277916,20 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+277916,22 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+277916,27 Apr 2013,v SRH,Jaipur,1,2,2,0,0,2
+277916,29 Apr 2013,v RCB,Jaipur,1,0,0,0,0,0
+277916,3 May 2013,v KKR,Eden Gardens,2,1,1,0,0,1
+277916,5 May 2013,v Warriors,Jaipur,1,1,1,0,0,1
+277916,7 May 2013,v Daredevils,Jaipur,1,0,0,0,0,0
+277916,9 May 2013,v Kings XI,Mohali,1,1,1,0,0,1
+277916,12 May 2013,v CSK,Jaipur,1,0,0,0,0,0
+277916,15 May 2013,v MI,Wankhede,1,0,0,0,0,0
+277916,17 May 2013,v SRH,Hyderabad,1,1,1,0,0,1
+277916,22 May 2013,v SRH,Delhi,1,0,0,0,0,0
+277916,24 May 2013,v MI,Eden Gardens,2,1,1,0,0,1
+277916,21 Sep 2013,v MI,Jaipur,1,0,0,0,0,0
+277916,25 Sep 2013,v Lions,Jaipur,2,0,0,0,0,0
+277916,29 Sep 2013,v Scorchers,Jaipur,1,0,0,0,0,0
+277916,1 Oct 2013,v Otago,Jaipur,1,0,0,0,0,0
+277916,4 Oct 2013,v CSK,Jaipur,2,0,0,0,0,0
+277916,6 Oct 2013,v MI,Delhi,1,0,0,0,0,0
+277916,30 Mar 2014,v Australia,Mirpur,2,1,1,0,0,1
+277916,4 Apr 2014,v South Africa,Mirpur,1,0,0,0,0,0
+277916,6 Apr 2014,v Sri Lanka,Mirpur,2,0,0,0,0,0
+277916,18 Apr 2014,v SRH,Abu Dhabi,1,1,1,0,0,1
+277916,20 Apr 2014,v Kings XI,Sharjah,2,0,0,0,0,0
+277916,23 Apr 2014,v CSK,Dubai (DICS),1,0,0,0,0,0
+277916,26 Apr 2014,v RCB,Abu Dhabi,1,0,0,0,0,0
+277916,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+277916,3 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+277916,5 May 2014,v KKR,Ahmedabad,2,0,0,0,0,0
+277916,8 May 2014,v SRH,Ahmedabad,1,2,2,0,0,2
+277916,11 May 2014,v RCB,Bengaluru,1,1,1,0,0,1
+277916,13 May 2014,v CSK,Ranchi,2,0,0,0,0,0
+277916,15 May 2014,v Daredevils,Ahmedabad,2,0,0,0,0,0
+277916,23 May 2014,v Kings XI,Mohali,1,2,2,0,0,2
+277916,25 May 2014,v MI,Wankhede,2,0,0,0,0,0
+277916,7 Sep 2014,v England,Birmingham,1,4,4,0,0,4
+277916,10 Apr 2015,v Kings XI,Pune,2,0,0,0,0,0
+277916,12 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+277916,14 Apr 2015,v MI,Ahmedabad,1,0,0,0,0,0
+277916,16 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+277916,19 Apr 2015,v CSK,Ahmedabad,1,0,0,0,0,0
+277916,21 Apr 2015,v Kings XI,Ahmedabad,2,1,1,0,0,1
+277916,24 Apr 2015,v RCB,Ahmedabad,2,0,0,0,0,0
+277916,29 Apr 2015,v RCB,Bengaluru,1,0,0,0,0,0
+277916,1 May 2015,v MI,Wankhede,1,0,0,0,0,0
+277916,3 May 2015,v Daredevils,Brabourne,2,0,0,0,0,0
+277916,7 May 2015,v SRH,Brabourne,1,0,0,0,0,0
+277916,10 May 2015,v CSK,Chennai,1,0,0,0,0,0
+277916,16 May 2015,v KKR,Brabourne,2,1,1,0,0,1
+277916,20 May 2015,v RCB,Pune,1,1,1,0,0,1
+277916,17 Jul 2015,v Zimbabwe,Harare,2,1,1,0,0,1
+277916,19 Jul 2015,v Zimbabwe,Harare,1,0,0,0,0,0
+277916,9 Feb 2016,v Sri Lanka,Pune,2,0,0,0,0,0
+277916,12 Feb 2016,v Sri Lanka,Ranchi,2,1,1,0,0,1
+277916,14 Feb 2016,v Sri Lanka,Visakhapatnam,1,0,0,0,0,0
+277916,27 Feb 2016,v Pakistan,Mirpur,1,1,1,0,0,1
+277916,31 Mar 2016,v West Indies,Wankhede,2,1,1,0,0,1
+277916,9 Apr 2016,v MI,Wankhede,1,1,1,0,0,1
+277916,14 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+277916,17 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+277916,22 Apr 2016,v RCB,Pune,1,1,1,0,0,1
+277916,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+277916,26 Apr 2016,v SRH,Hyderabad,1,1,1,0,0,1
+277916,29 Apr 2016,v Guj Lions,Pune,2,1,1,0,0,1
+277916,1 May 2016,v MI,Pune,2,1,1,0,0,1
+277916,5 May 2016,v Daredevils,Delhi,1,1,1,0,0,1
+277916,7 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+277916,10 May 2016,v SRH,Visakhapatnam,1,0,0,0,0,0
+277916,14 May 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+277916,17 May 2016,v Daredevils,Visakhapatnam,1,0,0,0,0,0
+277916,21 May 2016,v Kings XI,Visakhapatnam,1,1,1,0,0,1
+277916,27 Aug 2016,v West Indies,Lauderhill,1,0,0,0,0,0
+277916,28 Aug 2016,v West Indies,Lauderhill,1,1,1,0,0,1
+277916,29 Jan 2017,v Baroda,Vadodara,2,2,2,0,0,2
+277916,30 Jan 2017,v Gujarat,Vadodara,1,0,0,0,0,0
+277916,6 Apr 2017,v MI,Pune,1,0,0,0,0,0
+277916,8 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+277916,11 Apr 2017,v Daredevils,Pune,1,0,0,0,0,0
+277916,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+277916,16 Apr 2017,v RCB,Bengaluru,2,1,1,0,0,1
+277916,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+277916,24 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+277916,26 Apr 2017,v KKR,Pune,2,0,0,0,0,0
+277916,29 Apr 2017,v RCB,Pune,2,0,0,0,0,0
+277916,1 May 2017,v Guj Lions,Pune,1,1,1,0,0,1
+277916,3 May 2017,v KKR,Eden Gardens,1,2,2,0,0,2
+277916,6 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+277916,12 May 2017,v Daredevils,Delhi,1,0,0,0,0,0
+277916,14 May 2017,v Kings XI,Pune,1,1,1,0,0,1
+277916,16 May 2017,v MI,Wankhede,2,0,0,0,0,0
+277916,21 May 2017,v MI,Hyderabad,1,1,1,0,0,1
+277916,9 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+277916,11 Apr 2018,v Daredevils,Jaipur,2,0,0,0,0,0
+277916,15 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+277916,18 Apr 2018,v KKR,Jaipur,2,0,0,0,0,0
+277916,20 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+277916,22 Apr 2018,v MI,Jaipur,1,0,0,0,0,0
+277916,29 Apr 2018,v SRH,Jaipur,1,1,1,0,0,1
+277916,2 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+277916,6 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+277916,8 May 2018,v Kings XI,Jaipur,2,1,1,0,0,1
+277916,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+277916,13 May 2018,v MI,Wankhede,1,0,0,0,0,0
+277916,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+277916,19 May 2018,v RCB,Jaipur,2,1,1,0,0,1
+277916,23 May 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+277916,21 Feb 2019,v Sikkim,Indore,2,0,0,0,0,0
+277916,22 Feb 2019,v Punjab,Indore,2,1,1,0,0,1
+277916,24 Feb 2019,v M. Pradesh,Indore,1,1,1,0,0,1
+277916,25 Feb 2019,v Goa,Indore,1,1,1,0,0,1
+277916,27 Feb 2019,v Railways,Indore,1,0,0,0,0,0
+277916,28 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+277916,25 Mar 2019,v Kings XI,Jaipur,1,1,1,0,0,1
+277916,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+277916,31 Mar 2019,v CSK,Chennai,1,0,0,0,0,0
+277916,2 Apr 2019,v RCB,Jaipur,1,1,1,0,0,1
+277916,7 Apr 2019,v KKR,Jaipur,2,0,0,0,0,0
+277916,11 Apr 2019,v CSK,Jaipur,2,0,0,0,0,0
+277916,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+277916,16 Apr 2019,v Kings XI,Mohali,1,1,1,0,0,1
+277916,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+277916,22 Apr 2019,v DC,Jaipur,2,0,0,0,0,0
+277916,25 Apr 2019,v KKR,Eden Gardens,1,1,1,0,0,1
+277916,27 Apr 2019,v SRH,Jaipur,1,0,0,0,0,0
+277916,30 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+277916,4 May 2019,v DC,Delhi,2,1,1,0,0,1
+277916,11 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+277916,14 Oct 2020,v RR,Dubai (DICS),2,1,1,0,0,1
+277916,17 Oct 2020,v CSK,Sharjah,1,0,0,0,0,0
+277916,24 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+277916,27 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+277916,2 Nov 2020,v RCB,Abu Dhabi,1,1,1,0,0,1
+277916,5 Nov 2020,v MI,Dubai (DICS),1,0,0,0,0,0
+277916,8 Nov 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+277916,10 Nov 2020,v MI,Dubai (DICS),2,1,1,0,0,1
+277916,10 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+277916,15 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+277916,4 Nov 2021,v Karnataka,Guwahati,1,0,0,0,0,0
+277916,5 Nov 2021,v Services,Guwahati,2,0,0,0,0,0
+277916,6 Nov 2021,v Bengal,Guwahati,2,1,1,0,0,1
+277916,8 Nov 2021,v Chhattisgarh,Guwahati,1,0,0,0,0,0
+277916,9 Nov 2021,v Baroda,Guwahati,2,0,0,0,0,0
+277916,26 Mar 2022,v CSK,Wankhede,1,0,0,0,0,0
+277916,30 Mar 2022,v RCB,DY Patil,2,1,1,0,0,1
+277916,1 Apr 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+277916,6 Apr 2022,v MI,Pune,1,0,0,0,0,0
+277916,10 Apr 2022,v DC,Brabourne,1,1,1,0,0,1
+277916,9 May 2022,v MI,DY Patil,2,1,1,0,0,1
+277916,14 May 2022,v SRH,Pune,2,0,0,0,0,0
+277916,11 Oct 2022,v Mizoram,Saurashtra,1,1,1,0,0,1
+277916,12 Oct 2022,v M. Pradesh,Rajkot,1,1,1,0,0,1
+277916,18 Oct 2022,v Rajasthan,Saurashtra,2,1,1,0,0,1
+277916,20 Oct 2022,v Railways,Rajkot,2,0,0,0,0,0
+277916,22 Oct 2022,v Uttarakhand,Saurashtra,2,0,0,0,0,0
+277916,1 Nov 2022,v Saurashtra,Eden Gardens,1,1,1,0,0,1
+277916,3 Nov 2022,v Vidarbha,Eden Gardens,1,2,2,0,0,2
+277916,5 Nov 2022,v Himachal,Eden Gardens,1,1,1,0,0,1
+277916,8 Apr 2023,v MI,Wankhede,1,1,1,0,0,1
+277916,12 Apr 2023,v RR,Chennai,1,0,0,0,0,0
+277916,17 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+277916,21 Apr 2023,v SRH,Chennai,1,1,1,0,0,1
+277916,23 Apr 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+277916,27 Apr 2023,v RR,Jaipur,1,1,1,0,0,1
+277916,30 Apr 2023,v Punjab Kings,Chennai,2,0,0,0,0,0
+277916,3 May 2023,v LSG,Lucknow,1,2,2,0,0,2
+277916,6 May 2023,v MI,Chennai,1,0,0,0,0,0
+277916,10 May 2023,v DC,Chennai,2,2,2,0,0,2
+277916,14 May 2023,v KKR,Chennai,2,0,0,0,0,0
+277916,20 May 2023,v DC,Delhi,2,1,1,0,0,1
+277916,23 May 2023,v GT,Chennai,2,0,0,0,0,0
+277916,28 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+277916,16 Oct 2023,v Haryana,Jaipur,1,1,1,0,0,1
+277916,17 Oct 2023,v Meghalaya,Jaipur,1,0,0,0,0,0
+277916,19 Oct 2023,v Baroda,Jaipur,2,1,1,0,0,1
+277916,21 Oct 2023,v J & K,Jaipur,2,0,0,0,0,0
+277916,23 Oct 2023,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+277916,25 Oct 2023,v Hyderabad,Jaipur,1,1,1,0,0,1
+277916,27 Oct 2023,v Mizoram,Jaipur,1,0,0,0,0,0
+277916,2 Nov 2023,v Baroda,New Chandigarh,2,0,0,0,0,0
+277916,22 Mar 2024,v RCB,Chennai,1,0,0,0,0,0
+277916,26 Mar 2024,v GT,Chennai,2,1,1,0,0,1
+277916,31 Mar 2024,v DC,Visakhapatnam,1,0,0,0,0,0
+277916,5 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+277916,8 Apr 2024,v KKR,Chennai,1,0,0,0,0,0
+277916,14 Apr 2024,v MI,Wankhede,2,0,0,0,0,0
+277916,19 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+277916,23 Apr 2024,v LSG,Chennai,2,0,0,0,0,0
+277916,28 Apr 2024,v SRH,Chennai,2,0,0,0,0,0
+277916,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+277916,5 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+277916,10 May 2024,v GT,Ahmedabad,1,0,0,0,0,0
+277916,18 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+277916,23 Nov 2024,v Goa,Hyderabad,2,0,0,0,0,0
+277916,27 Nov 2024,v Maharashtra,Hyderabad,1,0,0,0,0,0
+277916,29 Nov 2024,v Kerala,Hyderabad,1,1,1,0,0,1
+277916,1 Dec 2024,v Nagaland,Hyderabad,1,1,1,0,0,1
+277916,3 Dec 2024,v Services,Hyderabad,2,2,2,0,0,2
+277916,5 Dec 2024,v Andhra,Hyderabad,1,0,0,0,0,0
+277916,11 Dec 2024,v Vidarbha,Alur,1,0,0,0,0,0
+277916,13 Dec 2024,v Baroda,Bengaluru,1,1,1,0,0,1
+277916,15 Dec 2024,v M. Pradesh,Bengaluru,1,1,1,0,0,1
+277916,22 Mar 2025,v RCB,Eden Gardens,2,0,0,0,0,0
+277916,26 Mar 2025,v RR,Guwahati,1,1,1,0,0,1
+277916,31 Mar 2025,v MI,Wankhede,2,1,1,0,0,1
+277916,3 Apr 2025,v SRH,Eden Gardens,2,1,1,0,0,1
+277916,8 Apr 2025,v LSG,Eden Gardens,1,0,0,0,0,0
+277916,11 Apr 2025,v CSK,Chennai,1,1,1,0,0,1
+277916,15 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+277916,21 Apr 2025,v GT,Eden Gardens,1,0,0,0,0,0
+277916,26 Apr 2025,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+277916,29 Apr 2025,v DC,Delhi,2,0,0,0,0,0
+277916,4 May 2025,v RR,Eden Gardens,2,1,1,0,0,1
+277916,7 May 2025,v CSK,Eden Gardens,2,0,0,0,0,0
+277916,25 May 2025,v SRH,Delhi,1,0,0,0,0,0
+277916,26 Nov 2025,v Railways,Lucknow,1,0,0,0,0,0
+277916,28 Nov 2025,v Vidarbha,Lucknow,1,2,2,0,0,2
+277916,30 Nov 2025,v Andhra,Lucknow,1,1,1,0,0,1
+277916,2 Dec 2025,v Assam,Lucknow,2,0,0,0,0,0
+277916,4 Dec 2025,v Kerala,Lucknow,1,1,1,0,0,1
+277916,6 Dec 2025,v Chhattisgarh,Lucknow,1,0,0,0,0,0
+277916,8 Dec 2025,v Odisha,Lucknow,1,1,1,0,0,1
+277916,12 Dec 2025,v Hyderabad,Pune,2,0,0,0,0,0
+277916,14 Dec 2025,v Haryana,Ambi,1,0,0,0,0,0
+277916,16 Dec 2025,v Rajasthan,Pune,1,0,0,0,0,0

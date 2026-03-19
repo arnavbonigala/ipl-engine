@@ -1,0 +1,89 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+971349,14 Feb 2016,v S West D,Oudtshoorn,1,0,0,0,0,0
+971349,25 Sep 2016,v Boland,Paarl,1,0,0,0,0,0
+971349,1 Sep 2017,v E. Province,Potchefstroom,2,0,0,0,0,0
+971349,2 Sep 2017,v Northerns,Potchefstroom,1,0,0,0,0,0
+971349,3 Sep 2017,v North West,Potchefstroom,1,0,0,0,0,0
+971349,24 Sep 2017,v KZN-Inland,Kimberley,2,0,0,0,0,0
+971349,14 Sep 2018,v Zim Select,Oudtshoorn,1,0,0,0,0,0
+971349,14 Sep 2018,v S West D,Oudtshoorn,2,0,0,0,0,0
+971349,15 Sep 2018,v Free State,Oudtshoorn,2,0,0,0,0,0
+971349,16 Sep 2018,v Northerns,Oudtshoorn,1,0,0,0,0,0
+971349,23 Sep 2018,v North West,East London,2,1,1,0,0,1
+971349,24 Sep 2018,v Border,East London,1,0,0,0,0,0
+971349,1 Dec 2018,v Spartans,Centurion,2,2,2,0,0,2
+971349,4 Dec 2018,v Jozi Stars,Cape Town,1,0,0,0,0,0
+971349,7 Dec 2018,v Paarl Rocks,Cape Town,1,1,1,0,0,1
+971349,9 Dec 2018,v Durban Heat,Cape Town,2,0,0,0,0,0
+971349,16 Dec 2018,v Jozi Stars,Cape Town,2,0,0,0,0,0
+971349,13 Sep 2019,v KZN-Inland,Kimberley,2,0,0,0,0,0
+971349,14 Sep 2019,v E. Province,Kimberley,1,0,0,0,0,0
+971349,14 Sep 2019,v Northern Cpe,Kimberley,1,0,0,0,0,0
+971349,15 Sep 2019,v Boland,Kimberley,2,1,1,0,0,1
+971349,10 Nov 2019,v Jozi Stars,Gqeberha,2,0,0,0,0,0
+971349,13 Nov 2019,v Spartans,Centurion,1,0,0,0,0,0
+971349,16 Nov 2019,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+971349,20 Nov 2019,v Blitz,Gqeberha,1,2,2,0,0,2
+971349,23 Nov 2019,v Durban Heat,Gqeberha,1,0,0,0,0,0
+971349,6 Dec 2019,v Blitz,Cape Town,2,0,0,0,0,0
+971349,8 Dec 2019,v Paarl Rocks,Paarl,1,1,1,0,0,1
+971349,13 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+971349,24 Sep 2021,v Lions,Kimberley,2,0,0,0,0,0
+971349,25 Sep 2021,v S West D,Kimberley,2,0,0,0,0,0
+971349,19 Oct 2021,v Knights,Kimberley,1,0,0,0,0,0
+971349,21 Oct 2022,v Titans,Potchefstroom,1,1,1,0,0,1
+971349,27 Oct 2022,v North West,Potchefstroom,2,3,3,0,0,3
+971349,29 Oct 2022,v Dolphins,Potchefstroom,2,0,0,0,0,0
+971349,31 Oct 2022,v Lions,Potchefstroom,1,1,1,0,0,1
+971349,18 Jan 2023,v Capitals,Centurion,2,0,0,0,0,0
+971349,24 Jan 2023,v Super Giants,Johannesburg,1,0,0,0,0,0
+971349,3 Feb 2023,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+971349,5 Feb 2023,v Sunrisers,Johannesburg,2,1,1,0,0,1
+971349,9 Feb 2023,v Sunrisers,Centurion,1,0,0,0,0,0
+971349,4 Aug 2023,v Galle Titans,Pallekele,1,0,0,0,0,0
+971349,5 Aug 2023,v B-Love Kandy,Pallekele,2,0,0,0,0,0
+971349,14 Dec 2023,v India,Johannesburg,1,0,0,0,0,0
+971349,13 Jan 2024,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+971349,15 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+971349,17 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+971349,20 Jan 2024,v Capitals,Johannesburg,1,1,1,0,0,1
+971349,24 Jan 2024,v Paarl Royals,Johannesburg,2,0,0,0,0,0
+971349,27 Jan 2024,v Capitals,Centurion,-,TDNF,-,-,-,-
+971349,29 Jan 2024,v MI Cape Town,Cape Town,1,1,1,0,0,1
+971349,31 Jan 2024,v Sunrisers,Johannesburg,2,0,0,0,0,0
+971349,3 Feb 2024,v Super Giants,Johannesburg,1,1,1,0,0,1
+971349,7 Feb 2024,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+971349,8 Feb 2024,v Super Giants,Johannesburg,1,1,1,0,0,1
+971349,8 Mar 2024,v Dolphins,Durban,2,0,0,0,0,0
+971349,10 Mar 2024,v KZN-Inland,Cape Town,1,0,0,0,0,0
+971349,24 Mar 2024,v LSG,Jaipur,2,1,1,0,0,1
+971349,28 Mar 2024,v DC,Jaipur,2,0,0,0,0,0
+971349,1 Apr 2024,v MI,Wankhede,1,1,1,0,0,1
+971349,6 Apr 2024,v RCB,Jaipur,1,0,0,0,0,0
+971349,12 May 2024,v CSK,Chennai,2,0,0,0,0,0
+971349,19 May 2024,v KKR,Guwahati,-,TDNF,-,-,-,-
+971349,5 Jul 2024,v MI New York,Morrisville,2,0,0,0,0,0
+971349,9 Jul 2024,v Los Angeles,Dallas,1,1,1,0,0,1
+971349,11 Jul 2024,v Washington,Dallas,2,0,0,0,0,0
+971349,15 Jul 2024,v SF,Morrisville,1,0,0,0,0,0
+971349,23 Jul 2024,v Texas,Dallas,1,0,0,0,0,0
+971349,23 Aug 2024,v West Indies,Tarouba,2,0,0,0,0,0
+971349,16 Jun 2025,v Seattle,Oakland,2,0,0,0,0,0
+971349,22 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+971349,24 Jun 2025,v Los Angeles,Dallas,2,0,0,0,0,0
+971349,29 Jun 2025,v MI New York,Dallas,2,0,0,0,0,0
+971349,2 Jul 2025,v Washington,Lauderhill,2,0,0,0,0,0
+971349,4 Jul 2025,v SF,Lauderhill,1,0,0,0,0,0
+971349,14 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+971349,20 Jul 2025,v Zimbabwe,Harare,1,1,1,0,0,1
+971349,26 Jul 2025,v New Zealand,Harare,1,1,1,0,0,1
+971349,11 Oct 2025,v Namibia,Windhoek,2,0,0,0,0,0
+971349,28 Oct 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+971349,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+971349,6 Jan 2026,v MI Cape Town,Cape Town,2,0,0,0,0,0
+971349,8 Jan 2026,v Paarl Royals,Johannesburg,-,TDNF,-,-,-,-
+971349,10 Jan 2026,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+971349,14 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+971349,17 Jan 2026,v Capitals,Johannesburg,1,0,0,0,0,0
+971349,19 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+971349,22 Jan 2026,v Paarl Royals,Centurion,1,0,0,0,0,0

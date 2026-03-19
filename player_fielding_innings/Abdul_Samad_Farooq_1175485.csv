@@ -1,0 +1,111 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1175485,21 Feb 2019,v Nagaland,Mulapadu,1,2,2,0,0,2
+1175485,22 Feb 2019,v Jharkhand,Mulapadu,2,0,0,0,0,0
+1175485,24 Feb 2019,v Delhi,Mulapadu,2,1,1,0,0,1
+1175485,25 Feb 2019,v Andhra,Mulapadu,1,0,0,0,0,0
+1175485,27 Feb 2019,v Kerala,Mulapadu,1,1,1,0,0,1
+1175485,11 Nov 2019,v Jharkhand,Surat,1,1,1,0,0,1
+1175485,12 Nov 2019,v Odisha,Surat,2,0,0,0,0,0
+1175485,14 Nov 2019,v Delhi,Surat,1,2,2,0,0,2
+1175485,15 Nov 2019,v Nagaland,Surat,1,1,1,0,0,1
+1175485,17 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+1175485,18 Nov 2019,v Gujarat,Surat,2,0,0,0,0,0
+1175485,29 Sep 2020,v DC,Abu Dhabi,2,1,1,0,0,1
+1175485,2 Oct 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+1175485,4 Oct 2020,v MI,Sharjah,1,0,0,0,0,0
+1175485,8 Oct 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+1175485,18 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+1175485,22 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+1175485,24 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+1175485,27 Oct 2020,v DC,Dubai (DICS),2,1,1,0,0,1
+1175485,31 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+1175485,3 Nov 2020,v MI,Sharjah,1,0,0,0,0,0
+1175485,6 Nov 2020,v RCB,Abu Dhabi,1,2,2,0,0,2
+1175485,8 Nov 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+1175485,10 Jan 2021,v Karnataka,Alur,1,0,0,0,0,0
+1175485,12 Jan 2021,v Tripura,Alur (2),1,0,0,0,0,0
+1175485,14 Jan 2021,v UP,Alur,1,0,0,0,0,0
+1175485,16 Jan 2021,v Punjab,Alur (3),2,0,0,0,0,0
+1175485,18 Jan 2021,v Railways,Alur,1,0,0,0,0,0
+1175485,11 Apr 2021,v KKR,Chennai,1,2,2,0,0,2
+1175485,14 Apr 2021,v RCB,Chennai,1,0,0,0,0,0
+1175485,17 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+1175485,2 May 2021,v RR,Delhi,1,1,1,0,0,1
+1175485,22 Sep 2021,v DC,Dubai (DICS),2,1,1,0,0,1
+1175485,25 Sep 2021,v Punjab Kings,Sharjah,1,0,0,0,0,0
+1175485,27 Sep 2021,v RR,Dubai (DICS),1,2,2,0,0,2
+1175485,30 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+1175485,3 Oct 2021,v KKR,Dubai (DICS),2,0,0,0,0,0
+1175485,6 Oct 2021,v RCB,Abu Dhabi,2,1,1,0,0,1
+1175485,8 Oct 2021,v MI,Abu Dhabi,1,1,1,0,0,1
+1175485,4 Nov 2021,v Andhra,Vadodara,1,1,1,0,0,1
+1175485,5 Nov 2021,v Rajasthan,Vadodara,2,0,0,0,0,0
+1175485,6 Nov 2021,v Haryana,Vadodara,1,3,3,0,0,3
+1175485,8 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+1175485,9 Nov 2021,v Jharkhand,Vadodara,2,0,0,0,0,0
+1175485,29 Mar 2022,v RR,Pune,1,1,1,0,0,1
+1175485,4 Apr 2022,v LSG,DY Patil,1,0,0,0,0,0
+1175485,11 Oct 2022,v Meghalaya,Mohali,2,0,0,0,0,0
+1175485,12 Oct 2022,v Arunachal,New Chandigarh,2,0,0,0,0,0
+1175485,14 Oct 2022,v Maharashtra,Mohali,2,1,1,0,0,1
+1175485,16 Oct 2022,v Karnataka,New Chandigarh,1,1,1,0,0,1
+1175485,18 Oct 2022,v Haryana,New Chandigarh,2,1,1,0,0,1
+1175485,20 Oct 2022,v Kerala,Mohali,1,0,0,0,0,0
+1175485,22 Oct 2022,v Services,Mohali,2,2,2,0,0,2
+1175485,2 Apr 2023,v RR,Hyderabad,1,0,0,0,0,0
+1175485,7 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+1175485,18 Apr 2023,v MI,Hyderabad,1,0,0,0,0,0
+1175485,29 Apr 2023,v DC,Delhi,2,0,0,0,0,0
+1175485,4 May 2023,v KKR,Hyderabad,1,2,2,0,0,2
+1175485,7 May 2023,v RR,Jaipur,1,0,0,0,0,0
+1175485,13 May 2023,v LSG,Hyderabad,2,1,1,0,0,1
+1175485,15 May 2023,v GT,Ahmedabad,1,1,1,0,0,1
+1175485,18 May 2023,v RCB,Hyderabad,2,0,0,0,0,0
+1175485,16 Oct 2023,v Baroda,Jaipur,1,0,0,0,0,0
+1175485,17 Oct 2023,v Hyderabad,Jaipur,2,0,0,0,0,0
+1175485,19 Oct 2023,v Haryana,Jaipur,1,0,0,0,0,0
+1175485,21 Oct 2023,v Mumbai,Jaipur,1,2,2,0,0,2
+1175485,27 Oct 2023,v Chhattisgarh,Jaipur,2,0,0,0,0,0
+1175485,23 Mar 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+1175485,27 Mar 2024,v MI,Hyderabad,2,0,0,0,0,0
+1175485,31 Mar 2024,v GT,Ahmedabad,2,1,1,0,0,1
+1175485,5 Apr 2024,v CSK,Hyderabad,1,2,2,0,0,2
+1175485,9 Apr 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+1175485,15 Apr 2024,v RCB,Bengaluru,2,0,0,0,0,0
+1175485,20 Apr 2024,v DC,Delhi,2,1,1,0,0,1
+1175485,25 Apr 2024,v RCB,Hyderabad,1,3,3,0,0,3
+1175485,28 Apr 2024,v CSK,Chennai,1,0,0,0,0,0
+1175485,2 May 2024,v RR,Hyderabad,2,0,0,0,0,0
+1175485,6 May 2024,v MI,Wankhede,2,0,0,0,0,0
+1175485,8 May 2024,v LSG,Hyderabad,1,0,0,0,0,0
+1175485,19 May 2024,v Punjab Kings,Hyderabad,1,1,1,0,0,1
+1175485,21 May 2024,v KKR,Ahmedabad,2,0,0,0,0,0
+1175485,24 May 2024,v RR,Chennai,2,1,1,0,0,1
+1175485,26 May 2024,v KKR,Chennai,2,0,0,0,0,0
+1175485,23 Nov 2024,v Jharkhand,Mumbai,2,1,1,0,0,1
+1175485,25 Nov 2024,v Delhi,Wankhede,1,0,0,0,0,0
+1175485,27 Nov 2024,v Arunachal,Mumbai,1,1,1,0,0,1
+1175485,29 Nov 2024,v Himachal,Mumbai,2,0,0,0,0,0
+1175485,1 Dec 2024,v Manipur,Wankhede,1,0,0,0,0,0
+1175485,3 Dec 2024,v UP,Mumbai,1,1,1,0,0,1
+1175485,5 Dec 2024,v Haryana,Wankhede,1,0,0,0,0,0
+1175485,27 Mar 2025,v SRH,Hyderabad,1,1,1,0,0,1
+1175485,1 Apr 2025,v Punjab Kings,Lucknow,2,0,0,0,0,0
+1175485,4 Apr 2025,v MI,Lucknow,2,1,1,0,0,1
+1175485,8 Apr 2025,v KKR,Eden Gardens,2,0,0,0,0,0
+1175485,12 Apr 2025,v GT,Lucknow,1,0,0,0,0,0
+1175485,14 Apr 2025,v CSK,Lucknow,2,0,0,0,0,0
+1175485,19 Apr 2025,v RR,Jaipur,2,0,0,0,0,0
+1175485,22 Apr 2025,v DC,Lucknow,2,0,0,0,0,0
+1175485,27 Apr 2025,v MI,Wankhede,1,0,0,0,0,0
+1175485,4 May 2025,v Punjab Kings,Dharamsala,1,0,0,0,0,0
+1175485,19 May 2025,v SRH,Lucknow,2,0,0,0,0,0
+1175485,22 May 2025,v GT,Ahmedabad,2,1,1,0,0,1
+1175485,27 May 2025,v RCB,Lucknow,2,1,1,0,0,1
+1175485,26 Nov 2025,v Maharashtra,Eden Gardens,1,2,2,0,0,2
+1175485,28 Nov 2025,v UP,Jadavpur Uni,1,1,1,0,0,1
+1175485,30 Nov 2025,v Bihar,Eden Gardens,2,0,0,0,0,0
+1175485,2 Dec 2025,v Chandigarh,Jadavpur Uni,2,0,0,0,0,0
+1175485,4 Dec 2025,v Hyderabad,Jadavpur Uni,2,0,0,0,0,0
+1175485,6 Dec 2025,v Goa,Eden Gardens,2,1,1,0,1,0
+1175485,8 Dec 2025,v M. Pradesh,Eden Gardens,2,0,0,0,0,0

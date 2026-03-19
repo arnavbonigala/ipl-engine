@@ -1,0 +1,98 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1194959,20 Jun 2021,v Durham,Chester-le-Street,1,0,0,0,0,0
+1194959,26 Jun 2021,v Durham,Birmingham,1,1,1,0,0,1
+1194959,9 Jul 2021,v Worcs,Worcester,1,0,0,0,0,0
+1194959,26 May 2022,v Northants,Birmingham,2,1,1,0,0,1
+1194959,27 May 2022,v Derbyshire,Derby,2,2,2,0,0,2
+1194959,29 May 2022,v Durham,Birmingham,1,1,1,0,0,1
+1194959,2 Jun 2022,v Leics,Birmingham,1,0,0,0,0,0
+1194959,3 Jun 2022,v Worcs,Worcester,1,0,0,0,0,0
+1194959,5 Jun 2022,v Notts,Birmingham,2,0,0,0,0,0
+1194959,8 Jun 2022,v Durham,Chester-le-Street,1,1,1,0,0,1
+1194959,10 Jun 2022,v Yorkshire,Birmingham,2,0,0,0,0,0
+1194959,22 Aug 2022,v Brave,Cardiff,2,0,0,0,0,0
+1194959,24 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+1194959,16 Jun 2023,v Worcs,Worcester,2,0,0,0,0,0
+1194959,20 Jun 2023,v Durham,Chester-le-Street,1,0,0,0,0,0
+1194959,22 Jun 2023,v Yorkshire,Leeds,2,2,2,0,0,2
+1194959,23 Jun 2023,v Worcs,Birmingham,2,0,0,0,0,0
+1194959,30 Jun 2023,v Notts,Nottingham,1,0,0,0,0,0
+1194959,2 Jul 2023,v Durham,Birmingham,2,0,0,0,0,0
+1194959,6 Jul 2023,v Essex,Birmingham,2,1,1,0,0,1
+1194959,3 Aug 2023,v N S-Chargers,Leeds,-,TDNF,-,-,-,-
+1194959,31 May 2024,v Durham,Chester-le-Street,1,2,2,0,0,2
+1194959,1 Jun 2024,v Notts,Birmingham,2,1,1,0,0,1
+1194959,7 Jun 2024,v Lancashire,Manchester,1,2,2,0,0,2
+1194959,8 Jun 2024,v Durham,Birmingham,1,1,1,0,0,1
+1194959,14 Jun 2024,v Yorkshire,Birmingham,1,0,0,0,0,0
+1194959,16 Jun 2024,v Derbyshire,Derby,1,0,0,0,0,0
+1194959,20 Jun 2024,v Northants,Birmingham,2,0,0,0,0,0
+1194959,21 Jun 2024,v Worcs,Worcester,1,2,2,0,0,2
+1194959,5 Jul 2024,v Yorkshire,Leeds,2,1,1,0,0,1
+1194959,7 Jul 2024,v Notts,Nottingham,1,0,0,0,0,0
+1194959,12 Jul 2024,v Worcs,Birmingham,1,0,0,0,0,0
+1194959,14 Jul 2024,v Derbyshire,Birmingham,2,0,0,0,0,0
+1194959,18 Jul 2024,v Northants,Northampton,1,0,0,0,0,0
+1194959,19 Jul 2024,v Leics,Birmingham,2,0,0,0,0,0
+1194959,23 Jul 2024,v Invincibles,The Oval,2,0,0,0,0,0
+1194959,27 Jul 2024,v Spirit,Lord's,1,0,0,0,0,0
+1194959,31 Jul 2024,v Rockets,Nottingham,2,1,1,0,0,1
+1194959,3 Aug 2024,v Brave,Birmingham,1,2,2,0,0,2
+1194959,6 Aug 2024,v N S-Chargers,Birmingham,1,1,1,0,0,1
+1194959,10 Aug 2024,v Fire,Cardiff,1,0,0,0,0,0
+1194959,12 Aug 2024,v Rockets,Birmingham,1,1,1,0,0,1
+1194959,15 Aug 2024,v Originals,Birmingham,1,1,1,0,0,1
+1194959,17 Aug 2024,v Brave,The Oval,1,1,1,0,0,1
+1194959,6 Sep 2024,v Gloucs,Birmingham,1,1,1,0,0,1
+1194959,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+1194959,13 Sep 2024,v Australia,Cardiff,1,0,0,0,0,0
+1194959,9 Nov 2024,v West Indies,Bridgetown,1,1,1,0,0,1
+1194959,10 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+1194959,14 Nov 2024,v West Indies,Gros Islet,1,1,1,0,0,1
+1194959,16 Nov 2024,v West Indies,Gros Islet,2,0,0,0,0,0
+1194959,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+1194959,19 Dec 2024,v Hurricanes,Geelong,1,0,0,0,0,0
+1194959,23 Dec 2024,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+1194959,30 Dec 2024,v Thunder,Sydney,1,0,0,0,0,0
+1194959,2 Jan 2025,v Strikers,Melbourne (Docklands),2,1,1,0,0,1
+1194959,4 Jan 2025,v Stars,Melbourne,2,2,2,0,0,2
+1194959,7 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+1194959,12 Jan 2025,v Stars,Melbourne (Docklands),1,0,0,0,0,0
+1194959,14 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+1194959,22 Jan 2025,v India,Eden Gardens,2,0,0,0,0,0
+1194959,31 Jan 2025,v India,Pune,1,2,2,0,0,2
+1194959,2 Feb 2025,v India,Wankhede,1,0,0,0,0,0
+1194959,27 Apr 2025,v DC,Delhi,1,1,1,0,0,1
+1194959,3 May 2025,v CSK,Bengaluru,2,0,0,0,0,0
+1194959,6 Jun 2025,v West Indies,Chester-le-Street,2,0,0,0,0,0
+1194959,8 Jun 2025,v West Indies,Bristol,1,0,0,0,0,0
+1194959,10 Jun 2025,v West Indies,Southampton,2,0,0,0,0,0
+1194959,11 Jul 2025,v Worcs,Worcester,2,0,0,0,0,0
+1194959,13 Jul 2025,v Northants,Birmingham,1,2,2,0,0,2
+1194959,18 Jul 2025,v Derbyshire,Derby,2,1,1,0,0,1
+1194959,8 Aug 2025,v Rockets,Birmingham,2,0,0,0,0,0
+1194959,10 Aug 2025,v Brave,Southampton,2,0,0,0,0,0
+1194959,12 Aug 2025,v Invincibles,Birmingham,1,3,3,0,0,3
+1194959,15 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+1194959,17 Aug 2025,v Spirit,Birmingham,1,0,0,0,0,0
+1194959,22 Aug 2025,v Fire,Birmingham,2,0,0,0,0,0
+1194959,24 Aug 2025,v Originals,Manchester,1,1,1,0,0,1
+1194959,27 Aug 2025,v Rockets,Nottingham,2,0,0,0,0,0
+1194959,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+1194959,12 Sep 2025,v South Africa,Manchester,2,1,1,0,0,1
+1194959,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+1194959,21 Sep 2025,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+1194959,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+1194959,20 Oct 2025,v New Zealand,Christchurch,2,1,1,0,0,1
+1194959,23 Oct 2025,v New Zealand,Auckland,1,1,1,0,0,1
+1194959,30 Jan 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+1194959,1 Feb 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+1194959,3 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+1194959,8 Feb 2026,v Nepal,Wankhede,2,0,0,0,0,0
+1194959,11 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+1194959,14 Feb 2026,v Scotland,Eden Gardens,1,1,1,0,0,1
+1194959,16 Feb 2026,v Italy,Eden Gardens,2,0,0,0,0,0
+1194959,22 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+1194959,24 Feb 2026,v Pakistan,Pallekele,1,1,1,0,0,1
+1194959,27 Feb 2026,v New Zealand,Colombo (RPS),1,2,2,0,0,2
+1194959,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

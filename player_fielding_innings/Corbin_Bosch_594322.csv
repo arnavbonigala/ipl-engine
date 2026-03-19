@@ -1,0 +1,121 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+594322,7 Nov 2014,v Knights,Centurion,1,1,1,0,0,1
+594322,9 Nov 2014,v Dolphins,Durban,1,0,0,0,0,0
+594322,14 Nov 2014,v Knights,Bloemfontein,2,0,0,0,0,0
+594322,16 Nov 2014,v Cape Cobras,Durban,1,2,2,0,0,2
+594322,3 Oct 2015,v KZ-Natal,Bloemfontein,2,0,0,0,0,0
+594322,4 Oct 2015,v KZN-Inland,Bloemfontein,1,0,0,0,0,0
+594322,8 Nov 2015,v Gauteng,Johannesburg,1,0,0,0,0,0
+594322,15 Nov 2015,v KZN-Inland,Pretoria,2,0,0,0,0,0
+594322,29 Nov 2015,v Boland,Paarl,2,1,1,0,0,1
+594322,1 Sep 2017,v North West,Potchefstroom,2,0,0,0,0,0
+594322,2 Sep 2017,v Gauteng,Potchefstroom,2,0,0,0,0,0
+594322,3 Sep 2017,v E. Province,Potchefstroom,2,0,0,0,0,0
+594322,25 Nov 2018,v Giants,Centurion,1,0,0,0,0,0
+594322,28 Nov 2018,v Jozi Stars,Centurion,1,0,0,0,0,0
+594322,1 Dec 2018,v Blitz,Centurion,1,0,0,0,0,0
+594322,11 Dec 2018,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+594322,13 Nov 2019,v Giants,Centurion,-,TDNF,-,-,-,-
+594322,3 Dec 2019,v Giants,Gqeberha,2,0,0,0,0,0
+594322,13 Dec 2019,v Giants,Gqeberha,2,0,0,0,0,0
+594322,16 Dec 2019,v Paarl Rocks,Paarl,2,1,1,0,0,1
+594322,19 Feb 2021,v Dolphins,Durban,1,0,0,0,0,0
+594322,21 Feb 2021,v Titans,Durban,1,0,0,0,0,0
+594322,22 Feb 2021,v Knights,Durban,2,0,0,0,0,0
+594322,26 Feb 2021,v Lions,Durban,2,0,0,0,0,0
+594322,28 Sep 2021,v Knights,Bloemfontein,2,0,0,0,0,0
+594322,29 Sep 2021,v Mpumalanga,Bloemfontein,2,0,0,0,0,0
+594322,30 Sep 2021,v KZN-Inland,Bloemfontein,2,0,0,0,0,0
+594322,19 Oct 2021,v S West D,Kimberley,2,1,1,0,0,1
+594322,21 Oct 2021,v Dolphins,Kimberley,2,0,0,0,0,0
+594322,7 Feb 2022,v Warriors,Gqeberha,1,0,0,0,0,0
+594322,1 Sep 2022,v Patriots,Basseterre,1,5,5,0,0,5
+594322,4 Sep 2022,v Kings,Basseterre,2,0,0,0,0,0
+594322,7 Sep 2022,v Trinbago,Gros Islet,2,0,0,0,0,0
+594322,8 Sep 2022,v Kings,Gros Islet,1,1,1,0,0,1
+594322,11 Sep 2022,v Tallawahs,Gros Islet,1,0,0,0,0,0
+594322,13 Sep 2022,v Trinbago,Port of Spain,1,0,0,0,0,0
+594322,15 Sep 2022,v Tallawahs,Port of Spain,2,1,1,0,0,1
+594322,18 Sep 2022,v Amazon,Tarouba,2,1,1,0,0,1
+594322,21 Sep 2022,v Patriots,Providence,2,1,1,0,0,1
+594322,30 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+594322,17 Oct 2022,v Dolphins,Potchefstroom,2,0,0,0,0,0
+594322,19 Oct 2022,v Lions,Potchefstroom,2,1,1,0,0,1
+594322,25 Oct 2022,v Boland,Potchefstroom,1,0,0,0,0,0
+594322,19 Jan 2023,v Sunrisers,Paarl,2,0,0,0,0,0
+594322,19 Aug 2023,v Trinbago,Gros Islet,1,0,0,0,0,0
+594322,23 Aug 2023,v Tallawahs,Basseterre,2,0,0,0,0,0
+594322,24 Aug 2023,v Amazon,Basseterre,1,0,0,0,0,0
+594322,26 Aug 2023,v Royals,Basseterre,2,1,1,0,0,1
+594322,27 Aug 2023,v Trinbago,Basseterre,2,0,0,0,0,0
+594322,2 Sep 2023,v Amazon,Bridgetown,1,0,0,0,0,0
+594322,3 Sep 2023,v Royals,Bridgetown,2,0,0,0,0,0
+594322,9 Sep 2023,v Kings,Tarouba,1,2,2,0,0,2
+594322,16 Sep 2023,v Tallawahs,Providence,1,2,2,0,0,2
+594322,12 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+594322,14 Jan 2024,v Paarl Royals,Centurion,1,0,0,0,0,0
+594322,18 Jan 2024,v Super Giants,Centurion,2,2,2,0,0,2
+594322,20 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+594322,27 Jan 2024,v Super Kings,Centurion,1,0,0,0,0,0
+594322,8 Mar 2024,v North West,Centurion,2,1,1,0,0,1
+594322,10 Mar 2024,v Boland,Paarl,1,1,1,0,0,1
+594322,13 Mar 2024,v Warriors,Centurion,1,1,1,0,0,1
+594322,15 Mar 2024,v Lions,Johannesburg,1,1,1,0,0,1
+594322,1 Apr 2024,v North West,Potchefstroom (Uni),-,TDNF,-,-,-,-
+594322,5 Apr 2024,v Warriors,Gqeberha,2,0,0,0,0,0
+594322,7 Apr 2024,v KZN-Inland,Pietermaritzburg,2,0,0,0,0,0
+594322,10 Apr 2024,v Dolphins,Durban,1,0,0,0,0,0
+594322,12 Apr 2024,v Boland,Centurion,1,0,0,0,0,0
+594322,14 Apr 2024,v KZN-Inland,Centurion,1,0,0,0,0,0
+594322,19 Apr 2024,v Lions,Centurion,1,1,1,0,0,1
+594322,21 Apr 2024,v W Province,Cape Town,1,0,0,0,0,0
+594322,24 Apr 2024,v Lions,Johannesburg,2,1,1,0,0,1
+594322,27 Sep 2024,v Lions,Johannesburg,2,0,0,0,0,0
+594322,4 Oct 2024,v Dolphins,Durban,2,1,1,0,0,1
+594322,6 Oct 2024,v W Province,Centurion,2,1,1,0,0,1
+594322,9 Oct 2024,v Boland,Centurion,2,1,1,0,0,1
+594322,13 Oct 2024,v Knights,Centurion,1,1,1,0,0,1
+594322,19 Oct 2024,v Warriors,Gqeberha,1,1,1,0,0,1
+594322,25 Oct 2024,v W Province,Centurion,2,0,0,0,0,0
+594322,9 Jan 2025,v Sunrisers,Gqeberha,2,2,2,0,0,2
+594322,18 Jan 2025,v Super Kings,Cape Town,1,0,0,0,0,0
+594322,21 Jan 2025,v Super Giants,Durban,-,TDNF,-,-,-,-
+594322,25 Jan 2025,v Super Giants,Cape Town,1,0,0,0,0,0
+594322,29 Jan 2025,v Sunrisers,Cape Town,1,1,1,0,0,1
+594322,31 Jan 2025,v Capitals,Centurion,2,0,0,0,0,0
+594322,4 Feb 2025,v Paarl Royals,Gqeberha,2,0,0,0,0,0
+594322,8 Feb 2025,v Sunrisers,Johannesburg,2,0,0,0,0,0
+594322,27 Apr 2025,v LSG,Wankhede,2,1,1,0,0,1
+594322,1 May 2025,v RR,Jaipur,2,0,0,0,0,0
+594322,6 May 2025,v GT,Wankhede,2,0,0,0,0,0
+594322,14 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+594322,16 Jul 2025,v New Zealand,Harare,1,1,1,0,0,1
+594322,20 Jul 2025,v Zimbabwe,Harare,1,1,1,0,0,1
+594322,26 Jul 2025,v New Zealand,Harare,1,0,0,0,0,0
+594322,10 Aug 2025,v Australia,Darwin,1,0,0,0,0,0
+594322,12 Aug 2025,v Australia,Darwin,2,0,0,0,0,0
+594322,16 Aug 2025,v Australia,Cairns,2,1,1,0,0,1
+594322,10 Sep 2025,v England,Cardiff,2,0,0,0,0,0
+594322,28 Oct 2025,v Pakistan,Rawalpindi,2,2,2,0,0,2
+594322,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+594322,1 Nov 2025,v Pakistan,Lahore,2,0,0,0,0,0
+594322,14 Dec 2025,v India,Dharamsala,2,0,0,0,0,0
+594322,19 Dec 2025,v India,Ahmedabad,1,0,0,0,0,0
+594322,26 Dec 2025,v Super Giants,Cape Town,1,1,1,0,0,1
+594322,28 Dec 2025,v Super Giants,Durban,1,0,0,0,0,0
+594322,31 Dec 2025,v Capitals,Cape Town,1,0,0,0,0,0
+594322,4 Jan 2026,v Paarl Royals,Cape Town,2,0,0,0,0,0
+594322,6 Jan 2026,v Super Kings,Cape Town,1,0,0,0,0,0
+594322,10 Jan 2026,v Super Kings,Johannesburg,2,0,0,0,0,0
+594322,12 Jan 2026,v Capitals,Centurion,1,0,0,0,0,0
+594322,16 Jan 2026,v Sunrisers,Cape Town,1,0,0,0,0,0
+594322,18 Jan 2026,v Sunrisers,Gqeberha,2,0,0,0,0,0
+594322,27 Jan 2026,v West Indies,Paarl,1,1,1,0,0,1
+594322,31 Jan 2026,v West Indies,Johannesburg,1,1,1,0,0,1
+594322,9 Feb 2026,v Canada,Ahmedabad,2,1,1,0,0,1
+594322,14 Feb 2026,v New Zealand,Ahmedabad,1,0,0,0,0,0
+594322,18 Feb 2026,v U.A.E.,Delhi,1,0,0,0,0,0
+594322,22 Feb 2026,v India,Ahmedabad,2,1,1,0,0,1
+594322,26 Feb 2026,v West Indies,Ahmedabad,1,0,0,0,0,0
+594322,1 Mar 2026,v Zimbabwe,Delhi,1,0,0,0,0,0
+594322,4 Mar 2026,v New Zealand,Eden Gardens,2,0,0,0,0,0

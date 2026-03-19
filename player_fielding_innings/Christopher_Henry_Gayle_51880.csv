@@ -1,0 +1,464 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+51880,15 Sep 2005,v Chilaw MCC,Leicester,1,0,0,0,0,0
+51880,17 Sep 2005,v Wolves,Leicester,2,2,2,0,0,2
+51880,16 Feb 2006,v New Zealand,Auckland,2,0,0,0,0,0
+51880,21 Jul 2006,v Bermuda,Coolidge,1,0,0,0,0,0
+51880,29 Jul 2006,v Guyana,Coolidge,2,0,0,0,0,0
+51880,24 Jun 2007,v Derbyshire,Derby,1,1,1,0,0,1
+51880,28 Jun 2007,v England,The Oval,2,0,0,0,0,0
+51880,29 Jun 2007,v England,The Oval,2,0,0,0,0,0
+51880,11 Sep 2007,v South Africa,Johannesburg,2,1,1,0,0,1
+51880,13 Sep 2007,v Bangladesh,Johannesburg,2,1,1,0,0,1
+51880,16 Feb 2008,v Nevis,Coolidge,1,1,1,0,0,1
+51880,23 Feb 2008,v Guyana,Coolidge,2,0,0,0,0,0
+51880,24 Feb 2008,v Trinidad & T,Coolidge,2,0,0,0,0,0
+51880,30 Oct 2008,v Middlesex,Coolidge,2,0,0,0,0,0
+51880,1 Nov 2008,v England,Coolidge,1,0,0,0,0,0
+51880,26 Dec 2008,v New Zealand,Auckland,1,1,1,0,0,1
+51880,28 Dec 2008,v New Zealand,Hamilton,1,0,0,0,0,0
+51880,19 Apr 2009,v Chargers,Cape Town,2,0,0,0,0,0
+51880,21 Apr 2009,v Kings XI,Durban,1,1,1,0,0,1
+51880,23 Apr 2009,v RR,Cape Town,1,2,2,0,0,2
+51880,27 Apr 2009,v MI,Gqeberha,1,1,1,0,0,1
+51880,29 Apr 2009,v RCB,Durban,2,0,0,0,0,0
+51880,1 May 2009,v MI,East London,1,1,1,0,0,1
+51880,3 May 2009,v Kings XI,Gqeberha,2,0,0,0,0,0
+51880,6 Jun 2009,v Australia,The Oval,1,0,0,0,0,0
+51880,12 Jun 2009,v India,Lord's,1,0,0,0,0,0
+51880,13 Jun 2009,v South Africa,The Oval,1,1,1,0,0,1
+51880,15 Jun 2009,v England,The Oval,1,0,0,0,0,0
+51880,19 Jun 2009,v Sri Lanka,The Oval,1,0,0,0,0,0
+51880,29 Dec 2009,v South Aust,W.A.C.A,1,1,1,0,0,1
+51880,16 Jan 2010,v Queensland,Brisbane,1,0,0,0,0,0
+51880,21 Feb 2010,v Australia,Hobart,1,0,0,0,0,0
+51880,23 Feb 2010,v Australia,Sydney,2,0,0,0,0,0
+51880,22 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+51880,27 Mar 2010,v Kings XI,Mohali,2,0,0,0,0,0
+51880,29 Mar 2010,v Daredevils,Delhi,1,0,0,0,0,0
+51880,1 Apr 2010,v Chargers,Eden Gardens,2,0,0,0,0,0
+51880,4 Apr 2010,v Kings XI,Eden Gardens,2,0,0,0,0,0
+51880,7 Apr 2010,v Daredevils,Eden Gardens,2,0,0,0,0,0
+51880,10 Apr 2010,v RCB,Bengaluru,2,1,1,0,0,1
+51880,13 Apr 2010,v CSK,Chennai,2,0,0,0,0,0
+51880,17 Apr 2010,v RR,Eden Gardens,1,1,1,0,0,1
+51880,3 May 2010,v England,Providence,1,0,0,0,0,0
+51880,7 May 2010,v Sri Lanka,Bridgetown,1,0,0,0,0,0
+51880,9 May 2010,v India,Bridgetown,2,0,0,0,0,0
+51880,11 May 2010,v Australia,Gros Islet,2,1,1,0,0,1
+51880,19 May 2010,v South Africa,North Sound,1,0,0,0,0,0
+51880,20 May 2010,v South Africa,North Sound,1,0,0,0,0,0
+51880,22 Jul 2010,v Leeward Is,Bridgetown,1,0,0,0,0,0
+51880,30 Jul 2010,v Barbados,Port of Spain,2,0,0,0,0,0
+51880,31 Jul 2010,v Trinidad & T,Port of Spain,2,0,0,0,0,0
+51880,30 Dec 2010,v Tasmania,W.A.C.A,1,0,0,0,0,0
+51880,9 Jan 2011,v NSW,Sydney,2,0,0,0,0,0
+51880,13 Jan 2011,v South Aust,W.A.C.A,1,1,1,0,0,1
+51880,18 Jan 2011,v Victoria,W.A.C.A,1,0,0,0,0,0
+51880,25 Jan 2011,v Queensland,Brisbane,2,1,1,0,0,1
+51880,22 Apr 2011,v KKR,Eden Gardens,1,1,1,0,0,1
+51880,26 Apr 2011,v Daredevils,Delhi,1,0,0,0,0,0
+51880,29 Apr 2011,v Warriors,Bengaluru,2,0,0,0,0,0
+51880,6 May 2011,v Kings XI,Bengaluru,2,0,0,0,0,0
+51880,8 May 2011,v Kochi,Bengaluru,1,0,0,0,0,0
+51880,11 May 2011,v RR,Jaipur,1,0,0,0,0,0
+51880,14 May 2011,v KKR,Bengaluru,1,0,0,0,0,0
+51880,17 May 2011,v Kings XI,Dharamsala,1,1,1,0,0,1
+51880,22 May 2011,v CSK,Bengaluru,1,0,0,0,0,0
+51880,24 May 2011,v CSK,Wankhede,2,0,0,0,0,0
+51880,27 May 2011,v MI,Chennai,2,0,0,0,0,0
+51880,28 May 2011,v CSK,Chennai,1,0,0,0,0,0
+51880,23 Sep 2011,v Warriors,Bengaluru,2,0,0,0,0,0
+51880,29 Sep 2011,v KKR,Bengaluru,2,0,0,0,0,0
+51880,3 Oct 2011,v Somerset,Bengaluru,2,0,0,0,0,0
+51880,5 Oct 2011,v South Aust,Bengaluru,1,0,0,0,0,0
+51880,7 Oct 2011,v NSW,Bengaluru,1,0,0,0,0,0
+51880,9 Oct 2011,v MI,Chennai,1,2,2,0,0,2
+51880,25 Nov 2011,v Eagles,Harare,1,0,0,0,0,0
+51880,26 Nov 2011,v Mountaineers,Harare,2,0,0,0,0,0
+51880,27 Nov 2011,v Rocks,Harare,1,1,1,0,0,1
+51880,29 Nov 2011,v Rhinos,Harare,2,0,0,0,0,0
+51880,2 Dec 2011,v Mountaineers,Harare,2,0,0,0,0,0
+51880,3 Dec 2011,v Eagles,Harare,1,0,0,0,0,0
+51880,17 Dec 2011,v Stars,Melbourne,1,0,0,0,0,0
+51880,23 Dec 2011,v Strikers,Sydney,1,0,0,0,0,0
+51880,30 Dec 2011,v Renegades,Sydney,1,0,0,0,0,0
+51880,1 Jan 2012,v Hurricanes,Hobart,2,1,1,0,0,1
+51880,8 Jan 2012,v Sixers,Sydney,1,0,0,0,0,0
+51880,11 Jan 2012,v Scorchers,Sydney,2,0,0,0,0,0
+51880,17 Jan 2012,v Heat,Brisbane,1,0,0,0,0,0
+51880,10 Feb 2012,v Royals,Mirpur,1,0,0,0,0,0
+51880,11 Feb 2012,v Rajshahi,Mirpur,2,0,0,0,0,0
+51880,13 Feb 2012,v Khulna,Mirpur,2,0,0,0,0,0
+51880,14 Feb 2012,v Dhaka,Mirpur,1,0,0,0,0,0
+51880,16 Feb 2012,v Chittagong,Mirpur,2,0,0,0,0,0
+51880,10 Apr 2012,v KKR,Bengaluru,1,1,1,0,0,1
+51880,12 Apr 2012,v CSK,Chennai,2,0,0,0,0,0
+51880,15 Apr 2012,v RR,Bengaluru,1,0,0,0,0,0
+51880,17 Apr 2012,v Warriors,Bengaluru,1,0,0,0,0,0
+51880,20 Apr 2012,v Kings XI,Mohali,1,0,0,0,0,0
+51880,23 Apr 2012,v RR,Jaipur,2,0,0,0,0,0
+51880,25 Apr 2012,v CSK,Bengaluru,-,TDNF,-,-,-,-
+51880,28 Apr 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,2 May 2012,v Kings XI,Bengaluru,2,0,0,0,0,0
+51880,6 May 2012,v Chargers,Bengaluru,1,0,0,0,0,0
+51880,9 May 2012,v MI,Wankhede,1,0,0,0,0,0
+51880,11 May 2012,v Warriors,Pune,2,0,0,0,0,0
+51880,14 May 2012,v MI,Bengaluru,2,0,0,0,0,0
+51880,17 May 2012,v Daredevils,Delhi,2,0,0,0,0,0
+51880,20 May 2012,v Chargers,Hyderabad,1,1,1,0,0,1
+51880,24 Jun 2012,v England,Nottingham,2,0,0,0,0,0
+51880,30 Jun 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+51880,1 Jul 2012,v New Zealand,Lauderhill,2,1,1,0,0,1
+51880,22 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+51880,24 Sep 2012,v Ireland,Colombo (RPS),1,1,1,0,0,1
+51880,27 Sep 2012,v England,Pallekele,2,1,1,0,0,1
+51880,29 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+51880,1 Oct 2012,v New Zealand,Pallekele,2,1,1,0,0,1
+51880,5 Oct 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+51880,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+51880,10 Dec 2012,v Bangladesh,Mirpur,2,0,0,0,0,0
+51880,14 Dec 2012,v Renegades,Sydney,2,0,0,0,0,0
+51880,20 Dec 2012,v Strikers,Sydney,1,2,2,0,0,2
+51880,23 Dec 2012,v Hurricanes,Hobart,1,0,0,0,0,0
+51880,28 Dec 2012,v Heat,Sydney,2,0,0,0,0,0
+51880,30 Dec 2012,v Sixers,Sydney,2,1,1,0,0,1
+51880,4 Jan 2013,v Scorchers,W.A.C.A,2,0,0,0,0,0
+51880,8 Jan 2013,v Stars,Melbourne,1,0,0,0,0,0
+51880,18 Jan 2013,v Comb C&C,Gros Islet,1,0,0,0,0,0
+51880,19 Jan 2013,v Guyana,Gros Islet,2,0,0,0,0,0
+51880,13 Feb 2013,v Australia,Brisbane,2,0,0,0,0,0
+51880,15 Feb 2013,v Royals,Mirpur,2,0,0,0,0,0
+51880,4 Apr 2013,v MI,Bengaluru,2,0,0,0,0,0
+51880,7 Apr 2013,v SRH,Hyderabad,2,0,0,0,0,0
+51880,9 Apr 2013,v SRH,Bengaluru,1,0,0,0,0,0
+51880,11 Apr 2013,v KKR,Bengaluru,1,0,0,0,0,0
+51880,13 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+51880,16 Apr 2013,v Daredevils,Bengaluru,1,0,0,0,0,0
+51880,20 Apr 2013,v RR,Bengaluru,1,0,0,0,0,0
+51880,23 Apr 2013,v Warriors,Bengaluru,2,0,0,0,0,0
+51880,27 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+51880,29 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+51880,2 May 2013,v Warriors,Pune,2,1,1,0,0,1
+51880,6 May 2013,v Kings XI,Mohali,2,0,0,0,0,0
+51880,10 May 2013,v Daredevils,Delhi,2,0,0,0,0,0
+51880,12 May 2013,v KKR,Ranchi,2,1,1,0,0,1
+51880,14 May 2013,v Kings XI,Bengaluru,2,0,0,0,0,0
+51880,18 May 2013,v CSK,Bengaluru,2,1,1,0,0,1
+51880,27 Jul 2013,v Pakistan,Kingstown,2,0,0,0,0,0
+51880,28 Jul 2013,v Pakistan,Kingstown,1,0,0,0,0,0
+51880,2 Aug 2013,v Amazon,Providence,2,0,0,0,0,0
+51880,4 Aug 2013,v Hawksbills,Providence,1,1,1,0,0,1
+51880,7 Aug 2013,v Red Steel,Port of Spain,2,0,0,0,0,0
+51880,10 Aug 2013,v Zouks,Gros Islet,1,1,1,0,0,1
+51880,15 Aug 2013,v Amazon,Kingston,1,1,1,0,0,1
+51880,17 Aug 2013,v Tridents,Kingston,1,1,1,0,0,1
+51880,18 Aug 2013,v Red Steel,Kingston,1,0,0,0,0,0
+51880,23 Aug 2013,v Tridents,Port of Spain,1,1,1,0,0,1
+51880,24 Aug 2013,v Amazon,Port of Spain,1,0,0,0,0,0
+51880,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+51880,9 Mar 2014,v England,Bridgetown,2,0,0,0,0,0
+51880,11 Mar 2014,v England,Bridgetown,1,0,0,0,0,0
+51880,23 Mar 2014,v India,Mirpur,2,1,1,0,0,1
+51880,25 Mar 2014,v Bangladesh,Mirpur,2,0,0,0,0,0
+51880,28 Mar 2014,v Australia,Mirpur,1,0,0,0,0,0
+51880,1 Apr 2014,v Pakistan,Mirpur,2,1,1,0,0,1
+51880,3 Apr 2014,v Sri Lanka,Mirpur,1,0,0,0,0,0
+51880,28 Apr 2014,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+51880,4 May 2014,v SRH,Bengaluru,1,1,1,0,0,1
+51880,6 May 2014,v MI,Wankhede,1,0,0,0,0,0
+51880,9 May 2014,v Kings XI,Bengaluru,1,0,0,0,0,0
+51880,11 May 2014,v RR,Bengaluru,2,0,0,0,0,0
+51880,13 May 2014,v Daredevils,Bengaluru,2,0,0,0,0,0
+51880,18 May 2014,v CSK,Ranchi,1,1,1,0,0,1
+51880,20 May 2014,v SRH,Hyderabad,2,0,0,0,0,0
+51880,22 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,12 Jul 2014,v Zouks,St George's,1,0,0,0,0,0
+51880,17 Jul 2014,v Hawksbills,North Sound,1,0,0,0,0,0
+51880,20 Jul 2014,v Amazon,Providence,2,0,0,0,0,0
+51880,26 Jul 2014,v Red Steel,Port of Spain,1,0,0,0,0,0
+51880,31 Jul 2014,v Hawksbills,Kingston,1,1,1,0,0,1
+51880,2 Aug 2014,v Amazon,Kingston,1,0,0,0,0,0
+51880,3 Aug 2014,v Tridents,Kingston,2,0,0,0,0,0
+51880,9 Aug 2014,v Zouks,Basseterre,2,0,0,0,0,0
+51880,10 Aug 2014,v Tridents,Basseterre,1,0,0,0,0,0
+51880,13 Aug 2014,v Red Steel,Basseterre,1,1,1,0,0,1
+51880,14 Aug 2014,v Amazon,Basseterre,2,0,0,0,0,0
+51880,27 Aug 2014,v Bangladesh,Basseterre,1,0,0,0,0,0
+51880,2 Nov 2014,v Dolphins,Johannesburg,1,0,0,0,0,0
+51880,7 Nov 2014,v Warriors,East London,1,0,0,0,0,0
+51880,9 Nov 2014,v Knights,Potchefstroom,2,0,0,0,0,0
+51880,21 Nov 2014,v Titans,Benoni,1,0,0,0,0,0
+51880,23 Nov 2014,v Cape Cobras,Cape Town,1,0,0,0,0,0
+51880,28 Nov 2014,v Titans,Potchefstroom,2,0,0,0,0,0
+51880,30 Nov 2014,v Dolphins,Bloemfontein,2,1,1,0,0,1
+51880,7 Dec 2014,v Knights,Johannesburg,2,1,1,0,0,1
+51880,9 Jan 2015,v South Africa,Cape Town,1,1,1,0,0,1
+51880,11 Jan 2015,v South Africa,Johannesburg,1,0,0,0,0,0
+51880,11 Apr 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,13 Apr 2015,v SRH,Bengaluru,2,0,0,0,0,0
+51880,19 Apr 2015,v MI,Bengaluru,1,0,0,0,0,0
+51880,24 Apr 2015,v RR,Ahmedabad,1,0,0,0,0,0
+51880,26 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+51880,29 Apr 2015,v RR,Bengaluru,-,TDNF,-,-,-,-
+51880,2 May 2015,v KKR,Bengaluru,1,0,0,0,0,0
+51880,6 May 2015,v Kings XI,Bengaluru,2,0,0,0,0,0
+51880,10 May 2015,v MI,Wankhede,2,0,0,0,0,0
+51880,13 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+51880,15 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+51880,17 May 2015,v Daredevils,Bengaluru,1,1,1,0,0,1
+51880,20 May 2015,v RR,Pune,2,0,0,0,0,0
+51880,22 May 2015,v CSK,Ranchi,2,0,0,0,0,0
+51880,29 May 2015,v Essex,Chelmsford,1,1,1,0,0,1
+51880,31 May 2015,v Kent,Taunton,1,0,0,0,0,0
+51880,5 Jun 2015,v Hampshire,Taunton,1,0,0,0,0,0
+51880,23 Jun 2015,v Tridents,Bridgetown,1,0,0,0,0,0
+51880,28 Jun 2015,v Zouks,Gros Islet,1,1,1,0,0,1
+51880,30 Jun 2015,v Patriots,Basseterre,1,0,0,0,0,0
+51880,4 Jul 2015,v Patriots,Basseterre,1,0,0,0,0,0
+51880,7 Jul 2015,v Zouks,Kingston,1,0,0,0,0,0
+51880,9 Jul 2015,v Red Steel,Kingston,2,2,2,0,0,2
+51880,11 Jul 2015,v Tridents,Kingston,1,0,0,0,0,0
+51880,12 Jul 2015,v Amazon,Kingston,1,0,0,0,0,0
+51880,19 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+51880,23 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+51880,6 Dec 2015,v Super Stars,Mirpur,2,0,0,0,0,0
+51880,7 Dec 2015,v Victorians,Mirpur,2,0,0,0,0,0
+51880,9 Dec 2015,v Chattogram,Mirpur,1,0,0,0,0,0
+51880,12 Dec 2015,v Dynamites,Mirpur,2,1,1,0,0,1
+51880,19 Dec 2015,v Heat,Brisbane,1,0,0,0,0,0
+51880,23 Dec 2015,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+51880,30 Dec 2015,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+51880,2 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+51880,4 Jan 2016,v Hurricanes,Hobart,1,0,0,0,0,0
+51880,9 Jan 2016,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+51880,11 Jan 2016,v Thunder,Sydney,1,0,0,0,0,0
+51880,18 Jan 2016,v Strikers,Melbourne (Docklands),1,1,1,0,0,1
+51880,5 Feb 2016,v Kings,Dubai (DICS),2,0,0,0,0,0
+51880,6 Feb 2016,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+51880,12 Feb 2016,v Kings,Sharjah,1,0,0,0,0,0
+51880,13 Feb 2016,v Zalmi,Sharjah,2,0,0,0,0,0
+51880,16 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51880,16 Mar 2016,v England,Wankhede,1,0,0,0,0,0
+51880,20 Mar 2016,v Sri Lanka,Bengaluru,1,1,1,0,0,1
+51880,25 Mar 2016,v South Africa,Nagpur,1,0,0,0,0,0
+51880,31 Mar 2016,v India,Wankhede,1,0,0,0,0,0
+51880,3 Apr 2016,v England,Eden Gardens,1,1,1,0,0,1
+51880,12 Apr 2016,v SRH,Bengaluru,2,0,0,0,0,0
+51880,17 Apr 2016,v Daredevils,Bengaluru,2,0,0,0,0,0
+51880,2 May 2016,v KKR,Bengaluru,2,0,0,0,0,0
+51880,11 May 2016,v MI,Bengaluru,2,0,0,0,0,0
+51880,14 May 2016,v Guj Lions,Bengaluru,2,0,0,0,0,0
+51880,16 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,18 May 2016,v Kings XI,Bengaluru,2,1,1,0,0,1
+51880,22 May 2016,v Daredevils,Raipur,1,1,1,0,0,1
+51880,24 May 2016,v Guj Lions,Bengaluru,1,2,2,0,0,2
+51880,29 May 2016,v SRH,Bengaluru,1,0,0,0,0,0
+51880,1 Jun 2016,v Sussex,Hove,1,0,0,0,0,0
+51880,3 Jun 2016,v Essex,Taunton,1,0,0,0,0,0
+51880,10 Jun 2016,v Surrey,Taunton,1,1,1,0,0,1
+51880,17 Jun 2016,v Gloucs,Bristol,2,0,0,0,0,0
+51880,19 Jun 2016,v Hampshire,Taunton,1,1,1,0,0,1
+51880,2 Jul 2016,v Patriots,Basseterre,2,0,0,0,0,0
+51880,4 Jul 2016,v Trinbago,Port of Spain,1,0,0,0,0,0
+51880,7 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+51880,11 Jul 2016,v Tridents,Bridgetown,-,TDNF,-,-,-,-
+51880,15 Jul 2016,v Amazon,Kingston,1,0,0,0,0,0
+51880,16 Jul 2016,v Patriots,Kingston,2,0,0,0,0,0
+51880,18 Jul 2016,v Trinbago,Kingston,2,0,0,0,0,0
+51880,20 Jul 2016,v Tridents,Kingston,2,1,1,0,0,1
+51880,30 Jul 2016,v Zouks,Lauderhill,1,0,0,0,0,0
+51880,31 Jul 2016,v Zouks,Lauderhill,1,0,0,0,0,0
+51880,3 Aug 2016,v Amazon,Basseterre,2,0,0,0,0,0
+51880,5 Aug 2016,v Trinbago,Basseterre,2,0,0,0,0,0
+51880,7 Aug 2016,v Amazon,Basseterre,1,1,1,0,0,1
+51880,27 Nov 2016,v Rangpur,Mirpur,1,0,0,0,0,0
+51880,29 Nov 2016,v Khulna,Mirpur,1,1,1,0,0,1
+51880,2 Dec 2016,v Dynamites,Mirpur,2,0,0,0,0,0
+51880,3 Dec 2016,v Kings,Mirpur,2,0,0,0,0,0
+51880,6 Dec 2016,v Kings,Mirpur,2,0,0,0,0,0
+51880,10 Feb 2017,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+51880,11 Feb 2017,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51880,16 Feb 2017,v Qalandars,Sharjah,1,0,0,0,0,0
+51880,17 Feb 2017,v United,Sharjah,1,0,0,0,0,0
+51880,19 Feb 2017,v Zalmi,Sharjah,2,2,2,0,0,2
+51880,23 Feb 2017,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51880,26 Feb 2017,v United,Dubai (DICS),1,1,1,0,0,1
+51880,1 Mar 2017,v United,Sharjah,2,0,0,0,0,0
+51880,3 Mar 2017,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+51880,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+51880,8 Apr 2017,v Daredevils,Bengaluru,2,0,0,0,0,0
+51880,14 Apr 2017,v MI,Bengaluru,2,2,2,0,0,2
+51880,18 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+51880,23 Apr 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,27 Apr 2017,v Guj Lions,Bengaluru,2,0,0,0,0,0
+51880,5 May 2017,v Kings XI,Bengaluru,1,0,0,0,0,0
+51880,7 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+51880,14 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+51880,9 Jul 2017,v India,Kingston,1,0,0,0,0,0
+51880,5 Aug 2017,v Amazon,Lauderhill,1,0,0,0,0,0
+51880,6 Aug 2017,v Amazon,Lauderhill,2,0,0,0,0,0
+51880,12 Aug 2017,v Stars,Gros Islet,2,0,0,0,0,0
+51880,14 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+51880,18 Aug 2017,v Tridents,Basseterre,1,0,0,0,0,0
+51880,19 Aug 2017,v Stars,Basseterre,1,0,0,0,0,0
+51880,21 Aug 2017,v Tallawahs,Basseterre,2,0,0,0,0,0
+51880,23 Aug 2017,v Trinbago,Basseterre,2,0,0,0,0,0
+51880,30 Aug 2017,v Tallawahs,Kingston,1,0,0,0,0,0
+51880,3 Sep 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+51880,5 Sep 2017,v Trinbago,Tarouba,2,2,2,0,0,2
+51880,9 Sep 2017,v Trinbago,Tarouba,2,0,0,0,0,0
+51880,16 Sep 2017,v England,Chester-le-Street,2,0,0,0,0,0
+51880,18 Nov 2017,v Victorians,Mirpur,1,0,0,0,0,0
+51880,20 Nov 2017,v Sylhet,Mirpur,2,0,0,0,0,0
+51880,21 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+51880,24 Nov 2017,v Khulna,Chattogram,1,0,0,0,0,0
+51880,25 Nov 2017,v Chattogram,Chattogram,1,0,0,0,0,0
+51880,28 Nov 2017,v Sylhet,Chattogram,1,0,0,0,0,0
+51880,2 Dec 2017,v Victorians,Mirpur,2,1,1,0,0,1
+51880,3 Dec 2017,v Khulna,Mirpur,2,0,0,0,0,0
+51880,8 Dec 2017,v Khulna,Mirpur,1,0,0,0,0,0
+51880,10 Dec 2017,v Victorians,Mirpur,2,0,0,0,0,0
+51880,12 Dec 2017,v Dynamites,Mirpur,2,1,1,0,0,1
+51880,29 Dec 2017,v New Zealand,Nelson,1,0,0,0,0,0
+51880,1 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+51880,3 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+51880,15 Apr 2018,v CSK,Mohali,2,0,0,0,0,0
+51880,19 Apr 2018,v SRH,Mohali,2,0,0,0,0,0
+51880,21 Apr 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,26 Apr 2018,v SRH,Hyderabad,1,0,0,0,0,0
+51880,4 May 2018,v MI,Indore,2,0,0,0,0,0
+51880,6 May 2018,v RR,Indore,1,1,1,0,0,1
+51880,8 May 2018,v RR,Jaipur,1,0,0,0,0,0
+51880,12 May 2018,v KKR,Indore,1,0,0,0,0,0
+51880,14 May 2018,v RCB,Indore,2,0,0,0,0,0
+51880,16 May 2018,v MI,Wankhede,1,0,0,0,0,0
+51880,20 May 2018,v CSK,Pune,2,1,1,0,0,1
+51880,31 May 2018,v ICC World XI,Lord's,2,0,0,0,0,0
+51880,9 Aug 2018,v Amazon,Providence,2,0,0,0,0,0
+51880,11 Aug 2018,v Trinbago,Port of Spain,2,1,1,0,0,1
+51880,15 Aug 2018,v Tallawahs,Kingston,1,0,0,0,0,0
+51880,21 Aug 2018,v Stars,Gros Islet,1,1,1,0,0,1
+51880,25 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+51880,28 Aug 2018,v Amazon,Basseterre,2,0,0,0,0,0
+51880,1 Sep 2018,v Trinbago,Basseterre,1,0,0,0,0,0
+51880,2 Sep 2018,v Tallawahs,Basseterre,1,0,0,0,0,0
+51880,4 Sep 2018,v Tridents,Basseterre,1,0,0,0,0,0
+51880,12 Sep 2018,v Tallawahs,Providence,1,0,0,0,0,0
+51880,14 Sep 2018,v Trinbago,Tarouba,1,1,1,0,0,1
+51880,10 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+51880,11 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+51880,13 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+51880,14 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+51880,18 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+51880,19 Oct 2018,v KingsLeopard,Sharjah,2,1,1,0,0,1
+51880,21 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+51880,17 Nov 2018,v Giants,Johannesburg,2,0,0,0,0,0
+51880,4 Dec 2018,v Blitz,Cape Town,2,0,0,0,0,0
+51880,7 Dec 2018,v Durban Heat,Durban,1,1,1,0,0,1
+51880,9 Dec 2018,v Paarl Rocks,Johannesburg,2,0,0,0,0,0
+51880,8 Jan 2019,v Victorians,Mirpur,1,1,1,0,0,1
+51880,11 Jan 2019,v Dynamites,Mirpur,1,0,0,0,0,0
+51880,13 Jan 2019,v Kings,Mirpur,1,0,0,0,0,0
+51880,16 Jan 2019,v Sylhet,Sylhet,1,0,0,0,0,0
+51880,19 Jan 2019,v Sylhet,Sylhet,1,0,0,0,0,0
+51880,22 Jan 2019,v Khulna,Mirpur,1,0,0,0,0,0
+51880,25 Jan 2019,v Chattogram,Chattogram,2,0,0,0,0,0
+51880,28 Jan 2019,v Dynamites,Chattogram,1,0,0,0,0,0
+51880,29 Jan 2019,v Kings,Chattogram,1,0,0,0,0,0
+51880,2 Feb 2019,v Victorians,Mirpur,1,0,0,0,0,0
+51880,4 Feb 2019,v Victorians,Mirpur,2,0,0,0,0,0
+51880,6 Feb 2019,v Dynamites,Mirpur,2,0,0,0,0,0
+51880,5 Mar 2019,v England,Gros Islet,2,1,1,0,0,1
+51880,8 Mar 2019,v England,Basseterre,1,0,0,0,0,0
+51880,25 Mar 2019,v RR,Jaipur,2,0,0,0,0,0
+51880,27 Mar 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+51880,30 Mar 2019,v MI,Mohali,1,0,0,0,0,0
+51880,6 Apr 2019,v CSK,Chennai,1,0,0,0,0,0
+51880,8 Apr 2019,v SRH,Mohali,1,0,0,0,0,0
+51880,10 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+51880,13 Apr 2019,v RCB,Mohali,2,0,0,0,0,0
+51880,16 Apr 2019,v RR,Mohali,2,0,0,0,0,0
+51880,20 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+51880,24 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+51880,29 Apr 2019,v SRH,Hyderabad,1,0,0,0,0,0
+51880,3 May 2019,v KKR,Mohali,2,0,0,0,0,0
+51880,5 May 2019,v CSK,Mohali,1,0,0,0,0,0
+51880,6 Sep 2019,v Trinbago,Port of Spain,1,0,0,0,0,0
+51880,10 Sep 2019,v Patriots,Basseterre,2,0,0,0,0,0
+51880,12 Sep 2019,v Zouks,Kingston,2,0,0,0,0,0
+51880,13 Sep 2019,v Trinbago,Kingston,1,0,0,0,0,0
+51880,15 Sep 2019,v Tridents,Kingston,1,2,2,0,0,2
+51880,18 Sep 2019,v Amazon,Kingston,1,0,0,0,0,0
+51880,19 Sep 2019,v Patriots,Kingston,1,1,1,0,0,1
+51880,23 Sep 2019,v Tridents,Bridgetown,2,0,0,0,0,0
+51880,27 Sep 2019,v Zouks,Gros Islet,2,1,1,0,0,1
+51880,3 Oct 2019,v Amazon,Providence,1,0,0,0,0,0
+51880,8 Nov 2019,v Blitz,Johannesburg,1,0,0,0,0,0
+51880,10 Nov 2019,v Giants,Gqeberha,1,0,0,0,0,0
+51880,14 Nov 2019,v Blitz,Cape Town,1,0,0,0,0,0
+51880,16 Nov 2019,v Giants,Johannesburg,2,0,0,0,0,0
+51880,22 Nov 2019,v Paarl Rocks,Paarl,2,0,0,0,0,0
+51880,24 Nov 2019,v Spartans,Johannesburg,1,0,0,0,0,0
+51880,7 Jan 2020,v Royals,Mirpur,1,0,0,0,0,0
+51880,11 Jan 2020,v Royals,Mirpur,2,0,0,0,0,0
+51880,13 Jan 2020,v Platoon,Mirpur,1,0,0,0,0,0
+51880,15 Jan 2020,v Royals,Mirpur,2,0,0,0,0,0
+51880,15 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+51880,18 Oct 2020,v MI,Dubai (DICS),1,0,0,0,0,0
+51880,20 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+51880,24 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+51880,26 Oct 2020,v KKR,Sharjah,1,1,1,0,0,1
+51880,30 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+51880,1 Nov 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+51880,20 Feb 2021,v Kings,Karachi,2,0,0,0,0,0
+51880,22 Feb 2021,v Qalandars,Karachi,2,0,0,0,0,0
+51880,3 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+51880,5 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+51880,7 Mar 2021,v Sri Lanka,Coolidge,1,0,0,0,0,0
+51880,12 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+51880,16 Apr 2021,v CSK,Wankhede,2,0,0,0,0,0
+51880,18 Apr 2021,v DC,Wankhede,2,1,1,0,0,1
+51880,21 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+51880,23 Apr 2021,v MI,Chennai,1,1,1,0,0,1
+51880,26 Apr 2021,v KKR,Ahmedabad,2,0,0,0,0,0
+51880,30 Apr 2021,v RCB,Ahmedabad,2,0,0,0,0,0
+51880,2 May 2021,v DC,Ahmedabad,2,0,0,0,0,0
+51880,26 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+51880,27 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+51880,1 Jul 2021,v South Africa,St George's,2,2,2,0,0,2
+51880,3 Jul 2021,v South Africa,St George's,1,1,1,0,0,1
+51880,9 Jul 2021,v Australia,Gros Islet,2,0,0,0,0,0
+51880,10 Jul 2021,v Australia,Gros Islet,2,0,0,0,0,0
+51880,12 Jul 2021,v Australia,Gros Islet,1,0,0,0,0,0
+51880,14 Jul 2021,v Australia,Gros Islet,1,0,0,0,0,0
+51880,16 Jul 2021,v Australia,Gros Islet,2,0,0,0,0,0
+51880,28 Jul 2021,v Pakistan,Bridgetown,-,TDNF,-,-,-,-
+51880,31 Jul 2021,v Pakistan,Providence,1,0,0,0,0,0
+51880,1 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+51880,3 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+51880,26 Aug 2021,v Royals,Basseterre,2,0,0,0,0,0
+51880,2 Sep 2021,v Royals,Basseterre,1,1,1,0,0,1
+51880,4 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+51880,5 Sep 2021,v Kings,Basseterre,2,0,0,0,0,0
+51880,8 Sep 2021,v Tallawahs,Basseterre,1,0,0,0,0,0
+51880,11 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+51880,12 Sep 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+51880,14 Sep 2021,v Amazon,Basseterre,1,0,0,0,0,0
+51880,15 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+51880,25 Sep 2021,v SRH,Sharjah,2,1,1,0,0,1
+51880,28 Sep 2021,v MI,Abu Dhabi,2,0,0,0,0,0
+51880,23 Oct 2021,v England,Dubai (DICS),2,1,1,0,0,1
+51880,26 Oct 2021,v South Africa,Dubai (DICS),2,0,0,0,0,0
+51880,29 Oct 2021,v Bangladesh,Sharjah,2,1,1,0,0,1
+51880,4 Nov 2021,v Sri Lanka,Abu Dhabi,1,0,0,0,0,0
+51880,6 Nov 2021,v Australia,Abu Dhabi,2,0,0,0,0,0
+51880,24 Jan 2022,v Dhaka,Mirpur,2,0,0,0,0,0
+51880,25 Jan 2022,v Victorians,Mirpur,1,1,1,0,0,1
+51880,29 Jan 2022,v Khulna,Chattogram,2,0,0,0,0,0
+51880,31 Jan 2022,v Khulna,Chattogram,2,0,0,0,0,0
+51880,1 Feb 2022,v Chattogram,Chattogram,2,0,0,0,0,0
+51880,7 Feb 2022,v Victorians,Sylhet,2,1,1,0,0,1
+51880,8 Feb 2022,v Sunrisers,Sylhet,2,0,0,0,0,0
+51880,11 Feb 2022,v Dhaka,Mirpur,1,0,0,0,0,0
+51880,14 Feb 2022,v Victorians,Mirpur,2,1,1,0,0,1
+51880,18 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0

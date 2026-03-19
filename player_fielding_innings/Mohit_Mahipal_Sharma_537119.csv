@@ -1,0 +1,173 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+537119,13 Apr 2013,v RCB,Chennai,1,0,0,0,0,0
+537119,18 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+537119,20 Apr 2013,v KKR,Eden Gardens,1,2,2,0,0,2
+537119,22 Apr 2013,v RR,Chennai,1,0,0,0,0,0
+537119,25 Apr 2013,v SRH,Chennai,1,0,0,0,0,0
+537119,28 Apr 2013,v KKR,Chennai,2,0,0,0,0,0
+537119,30 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+537119,2 May 2013,v Kings XI,Chennai,2,0,0,0,0,0
+537119,5 May 2013,v MI,Wankhede,1,0,0,0,0,0
+537119,8 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+537119,12 May 2013,v RR,Jaipur,2,0,0,0,0,0
+537119,14 May 2013,v Daredevils,Chennai,2,0,0,0,0,0
+537119,18 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+537119,21 May 2013,v MI,Delhi,2,0,0,0,0,0
+537119,26 May 2013,v MI,Eden Gardens,1,0,0,0,0,0
+537119,22 Sep 2013,v Titans,Ranchi,1,0,0,0,0,0
+537119,26 Sep 2013,v SRH,Ranchi,2,0,0,0,0,0
+537119,28 Sep 2013,v Heat,Ranchi,1,0,0,0,0,0
+537119,2 Oct 2013,v Trinidad & T,Delhi,2,1,1,0,0,1
+537119,4 Oct 2013,v RR,Jaipur,1,1,1,0,0,1
+537119,30 Mar 2014,v Australia,Mirpur,2,0,0,0,0,0
+537119,4 Apr 2014,v South Africa,Mirpur,1,0,0,0,0,0
+537119,6 Apr 2014,v Sri Lanka,Mirpur,2,0,0,0,0,0
+537119,18 Apr 2014,v Kings XI,Abu Dhabi,2,0,0,0,0,0
+537119,21 Apr 2014,v Daredevils,Abu Dhabi,2,0,0,0,0,0
+537119,23 Apr 2014,v RR,Dubai (DICS),2,0,0,0,0,0
+537119,25 Apr 2014,v MI,Dubai (DICS),1,0,0,0,0,0
+537119,27 Apr 2014,v SRH,Sharjah,1,0,0,0,0,0
+537119,2 May 2014,v KKR,Ranchi,2,1,1,0,0,1
+537119,5 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+537119,7 May 2014,v Kings XI,Cuttack,1,0,0,0,0,0
+537119,10 May 2014,v MI,Wankhede,1,0,0,0,0,0
+537119,13 May 2014,v RR,Ranchi,1,0,0,0,0,0
+537119,18 May 2014,v RCB,Ranchi,2,0,0,0,0,0
+537119,20 May 2014,v KKR,Eden Gardens,2,0,0,0,0,0
+537119,22 May 2014,v SRH,Ranchi,2,0,0,0,0,0
+537119,24 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+537119,28 May 2014,v MI,Brabourne,1,1,1,0,0,1
+537119,30 May 2014,v Kings XI,Wankhede,1,0,0,0,0,0
+537119,7 Sep 2014,v England,Birmingham,1,0,0,0,0,0
+537119,17 Sep 2014,v KKR,Hyderabad,2,1,1,0,0,1
+537119,22 Sep 2014,v Dolphins,Bengaluru,2,1,1,0,0,1
+537119,27 Sep 2014,v Scorchers,Bengaluru,2,0,0,0,0,0
+537119,2 Oct 2014,v Kings XI,Hyderabad,2,0,0,0,0,0
+537119,4 Oct 2014,v KKR,Bengaluru,1,0,0,0,0,0
+537119,9 Apr 2015,v Daredevils,Chennai,2,0,0,0,0,0
+537119,11 Apr 2015,v SRH,Chennai,2,1,1,0,0,1
+537119,17 Apr 2015,v MI,Wankhede,1,0,0,0,0,0
+537119,19 Apr 2015,v RR,Ahmedabad,2,0,0,0,0,0
+537119,22 Apr 2015,v RCB,Bengaluru,2,1,1,0,0,1
+537119,25 Apr 2015,v Kings XI,Chennai,2,0,0,0,0,0
+537119,28 Apr 2015,v KKR,Chennai,2,0,0,0,0,0
+537119,30 Apr 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+537119,2 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+537119,4 May 2015,v RCB,Chennai,2,0,0,0,0,0
+537119,8 May 2015,v MI,Chennai,2,0,0,0,0,0
+537119,10 May 2015,v RR,Chennai,2,0,0,0,0,0
+537119,12 May 2015,v Daredevils,Raipur,2,1,1,0,0,1
+537119,19 May 2015,v MI,Wankhede,1,0,0,0,0,0
+537119,22 May 2015,v RCB,Ranchi,1,2,2,0,0,2
+537119,24 May 2015,v MI,Eden Gardens,1,0,0,0,0,0
+537119,17 Jul 2015,v Zimbabwe,Harare,2,0,0,0,0,0
+537119,19 Jul 2015,v Zimbabwe,Harare,1,0,0,0,0,0
+537119,2 Oct 2015,v South Africa,Dharamsala,2,0,0,0,0,0
+537119,5 Oct 2015,v South Africa,Cuttack,2,1,1,0,0,1
+537119,11 Apr 2016,v Guj Lions,Mohali,2,1,1,0,0,1
+537119,15 Apr 2016,v Daredevils,Delhi,2,0,0,0,0,0
+537119,17 Apr 2016,v Supergiants,Mohali,1,2,2,0,0,2
+537119,19 Apr 2016,v KKR,Mohali,2,0,0,0,0,0
+537119,23 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+537119,25 Apr 2016,v MI,Mohali,1,0,0,0,0,0
+537119,1 May 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+537119,4 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+537119,7 May 2016,v Daredevils,Mohali,2,0,0,0,0,0
+537119,9 May 2016,v RCB,Mohali,1,0,0,0,0,0
+537119,13 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+537119,15 May 2016,v SRH,Mohali,2,0,0,0,0,0
+537119,18 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+537119,21 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+537119,29 Jan 2017,v Punjab,Nadaun,2,0,0,0,0,0
+537119,30 Jan 2017,v Himachal,Dharamsala,2,0,0,0,0,0
+537119,31 Jan 2017,v Services,Dharamsala,2,0,0,0,0,0
+537119,12 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+537119,13 Feb 2017,v West Zone,Wankhede,2,0,0,0,0,0
+537119,15 Feb 2017,v Central Zone,Wankhede,1,1,1,0,0,1
+537119,16 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+537119,8 Apr 2017,v Supergiant,Indore,1,0,0,0,0,0
+537119,10 Apr 2017,v RCB,Indore,1,0,0,0,0,0
+537119,13 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+537119,15 Apr 2017,v Daredevils,Delhi,1,1,1,0,0,1
+537119,17 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+537119,20 Apr 2017,v MI,Indore,2,0,0,0,0,0
+537119,23 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+537119,28 Apr 2017,v SRH,Mohali,1,0,0,0,0,0
+537119,30 Apr 2017,v Daredevils,Mohali,1,2,2,0,0,2
+537119,5 May 2017,v RCB,Bengaluru,2,0,0,0,0,0
+537119,7 May 2017,v Guj Lions,Mohali,2,0,0,0,0,0
+537119,9 May 2017,v KKR,Mohali,2,0,0,0,0,0
+537119,11 May 2017,v MI,Wankhede,2,0,0,0,0,0
+537119,14 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+537119,13 Jan 2018,v J & K,Delhi,2,0,0,0,0,0
+537119,8 Apr 2018,v Daredevils,Mohali,1,0,0,0,0,0
+537119,13 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+537119,15 Apr 2018,v CSK,Mohali,2,0,0,0,0,0
+537119,19 Apr 2018,v SRH,Mohali,2,0,0,0,0,0
+537119,8 May 2018,v RR,Jaipur,1,0,0,0,0,0
+537119,12 May 2018,v KKR,Indore,1,1,1,0,0,1
+537119,14 May 2018,v RCB,Indore,2,0,0,0,0,0
+537119,16 May 2018,v MI,Wankhede,1,0,0,0,0,0
+537119,20 May 2018,v CSK,Pune,2,1,1,0,0,1
+537119,3 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+537119,20 Sep 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+537119,11 Jan 2021,v Andhra,Mumbai,1,0,0,0,0,0
+537119,13 Jan 2021,v Puducherry,Mumbai,1,1,1,0,0,1
+537119,15 Jan 2021,v Mumbai,Mumbai,1,0,0,0,0,0
+537119,17 Jan 2021,v Delhi,Wankhede,1,1,1,0,0,1
+537119,19 Jan 2021,v Kerala,Wankhede,2,0,0,0,0,0
+537119,27 Jan 2021,v Baroda,Ahmedabad,2,0,0,0,0,0
+537119,4 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+537119,5 Nov 2021,v Andhra,Vadodara,1,0,0,0,0,0
+537119,6 Nov 2021,v J & K,Vadodara,2,0,0,0,0,0
+537119,8 Nov 2021,v Jharkhand,Vadodara,1,0,0,0,0,0
+537119,9 Nov 2021,v Rajasthan,Vadodara,1,0,0,0,0,0
+537119,11 Oct 2022,v Services,New Chandigarh,2,0,0,0,0,0
+537119,12 Oct 2022,v Meghalaya,New Chandigarh,2,0,0,0,0,0
+537119,14 Oct 2022,v Kerala,Mohali,2,0,0,0,0,0
+537119,16 Oct 2022,v Arunachal,Mohali,2,1,1,0,0,1
+537119,18 Oct 2022,v J & K,New Chandigarh,1,0,0,0,0,0
+537119,20 Oct 2022,v Maharashtra,New Chandigarh,1,0,0,0,0,0
+537119,22 Oct 2022,v Karnataka,Mohali,2,0,0,0,0,0
+537119,30 Oct 2022,v Punjab,Eden Gardens,1,0,0,0,0,0
+537119,13 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+537119,16 Apr 2023,v RR,Ahmedabad,2,2,2,0,0,2
+537119,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+537119,25 Apr 2023,v MI,Ahmedabad,2,0,0,0,0,0
+537119,29 Apr 2023,v KKR,Eden Gardens,1,1,1,0,0,1
+537119,2 May 2023,v DC,Ahmedabad,1,0,0,0,0,0
+537119,5 May 2023,v RR,Jaipur,1,1,1,0,0,1
+537119,7 May 2023,v LSG,Ahmedabad,2,0,0,0,0,0
+537119,12 May 2023,v MI,Wankhede,1,0,0,0,0,0
+537119,15 May 2023,v SRH,Ahmedabad,2,0,0,0,0,0
+537119,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+537119,23 May 2023,v CSK,Chennai,1,0,0,0,0,0
+537119,26 May 2023,v MI,Ahmedabad,2,0,0,0,0,0
+537119,28 May 2023,v CSK,Ahmedabad,2,2,2,0,0,2
+537119,16 Oct 2023,v Mumbai,Jaipur,2,0,0,0,0,0
+537119,17 Oct 2023,v Chhattisgarh,Jaipur,2,0,0,0,0,0
+537119,19 Oct 2023,v J & K,Jaipur,2,0,0,0,0,0
+537119,24 Mar 2024,v MI,Ahmedabad,2,1,1,0,0,1
+537119,26 Mar 2024,v CSK,Chennai,1,0,0,0,0,0
+537119,31 Mar 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+537119,4 Apr 2024,v Punjab Kings,Ahmedabad,2,1,1,0,0,1
+537119,7 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+537119,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+537119,17 Apr 2024,v DC,Ahmedabad,2,1,1,0,0,1
+537119,21 Apr 2024,v Punjab Kings,New Chandigarh,1,1,1,0,0,1
+537119,24 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+537119,28 Apr 2024,v RCB,Ahmedabad,2,0,0,0,0,0
+537119,4 May 2024,v RCB,Bengaluru,2,0,0,0,0,0
+537119,10 May 2024,v CSK,Ahmedabad,2,0,0,0,0,0
+537119,23 Nov 2024,v Manipur,Wankhede,1,0,0,0,0,0
+537119,25 Nov 2024,v Arunachal,Mumbai,2,0,0,0,0,0
+537119,27 Nov 2024,v Delhi,Wankhede,2,0,0,0,0,0
+537119,29 Nov 2024,v UP,Mumbai,2,1,1,0,0,1
+537119,24 Mar 2025,v LSG,Visakhapatnam,1,0,0,0,0,0
+537119,30 Mar 2025,v SRH,Visakhapatnam,1,0,0,0,0,0
+537119,5 Apr 2025,v CSK,Chennai,2,0,0,0,0,0
+537119,10 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+537119,13 Apr 2025,v MI,Delhi,1,0,0,0,0,0
+537119,16 Apr 2025,v RR,Delhi,2,0,0,0,0,0
+537119,19 Apr 2025,v GT,Ahmedabad,2,0,0,0,0,0
+537119,24 May 2025,v Punjab Kings,Jaipur,1,1,1,0,0,1

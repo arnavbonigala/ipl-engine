@@ -1,0 +1,134 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+959767,27 Jan 2019,v Otago,Dunedin,2,0,0,0,0,0
+959767,1 Feb 2019,v Central D,Wellington,1,0,0,0,0,0
+959767,9 Feb 2019,v Canterbury,Christchurch,2,0,0,0,0,0
+959767,15 Dec 2019,v Canterbury,Christchurch,1,1,1,0,0,1
+959767,18 Dec 2019,v Central D,Wellington,1,1,1,0,0,1
+959767,21 Dec 2019,v Otago,Wellington,2,0,0,0,0,0
+959767,27 Dec 2019,v Central D,New Plymouth,2,0,0,0,0,0
+959767,30 Dec 2019,v Auckland,Auckland,1,0,0,0,0,0
+959767,1 Jan 2020,v Northern Dis,Mount Maunganui,2,0,0,0,0,0
+959767,3 Jan 2020,v Northern Dis,Wellington,2,0,0,0,0,0
+959767,6 Jan 2020,v Otago,Dunedin,1,0,0,0,0,0
+959767,9 Jan 2020,v Canterbury,Wellington,1,2,2,0,0,2
+959767,12 Jan 2020,v Auckland,Wellington,2,0,0,0,0,0
+959767,19 Jan 2020,v Auckland,Wellington,2,0,0,0,0,0
+959767,24 Dec 2020,v Auckland,Wellington,1,0,0,0,0,0
+959767,27 Dec 2020,v Central D,Napier,2,0,0,0,0,0
+959767,1 Jan 2021,v Northern Dis,Mount Maunganui,1,1,1,0,0,1
+959767,9 Jan 2021,v Northern Dis,Wellington,2,0,0,0,0,0
+959767,14 Jan 2021,v Otago,Dunedin,1,0,0,0,0,0
+959767,16 Jan 2021,v Canterbury,Christchurch,2,0,0,0,0,0
+959767,24 Jan 2021,v Otago,Wellington,1,0,0,0,0,0
+959767,25 Jan 2021,v Canterbury,Wellington,1,1,1,0,0,1
+959767,1 Sep 2021,v Bangladesh,Mirpur,2,0,0,0,0,0
+959767,3 Sep 2021,v Bangladesh,Mirpur,1,0,0,0,0,0
+959767,5 Sep 2021,v Bangladesh,Mirpur,2,0,0,0,0,0
+959767,8 Sep 2021,v Bangladesh,Mirpur,2,0,0,0,0,0
+959767,10 Sep 2021,v Bangladesh,Mirpur,2,1,1,0,0,1
+959767,17 Nov 2021,v India,Jaipur,2,2,2,0,0,2
+959767,16 Jan 2022,v Northern Dis,Whangarei,2,1,1,0,0,1
+959767,20 Jan 2022,v Auckland,Auckland,1,2,2,0,0,2
+959767,24 Jan 2022,v Northern Dis,Wellington,2,1,1,0,0,1
+959767,27 Jan 2022,v Canterbury,Dunedin,2,0,0,0,0,0
+959767,24 Dec 2022,v Otago,Wellington,2,0,0,0,0,0
+959767,27 Dec 2022,v Central D,Palmerston North,2,1,1,0,0,1
+959767,1 Jan 2023,v Canterbury,Christchurch,1,0,0,0,0,0
+959767,4 Jan 2023,v Northern Dis,Wellington,2,1,1,0,0,1
+959767,15 Jan 2023,v Otago,Dunedin,2,0,0,0,0,0
+959767,20 Jan 2023,v Auckland,Auckland,2,1,1,0,0,1
+959767,23 Jan 2023,v Canterbury,Wellington,2,1,1,0,0,1
+959767,5 Feb 2023,v Auckland,Wellington,1,0,0,0,0,0
+959767,2 Apr 2023,v Sri Lanka,Auckland,1,1,1,0,0,1
+959767,5 Apr 2023,v Sri Lanka,Dunedin,1,0,0,0,0,0
+959767,8 Apr 2023,v Sri Lanka,Queenstown,1,0,0,0,0,0
+959767,14 Apr 2023,v Pakistan,Lahore,1,0,0,0,0,0
+959767,15 Apr 2023,v Pakistan,Lahore,1,0,0,0,0,0
+959767,17 Apr 2023,v Pakistan,Lahore,2,1,1,0,0,1
+959767,20 Apr 2023,v Pakistan,Rawalpindi,-,TDNF,-,-,-,-
+959767,24 Apr 2023,v Pakistan,Rawalpindi,1,1,1,0,0,1
+959767,17 Aug 2023,v U.A.E.,Dubai (DICS),2,0,0,0,0,0
+959767,19 Aug 2023,v U.A.E.,Dubai (DICS),2,0,0,0,0,0
+959767,20 Aug 2023,v U.A.E.,Dubai (DICS),2,1,1,0,0,1
+959767,5 Sep 2023,v England,Nottingham,1,0,0,0,0,0
+959767,15 Jan 2024,v Northern Dis,Wellington,2,0,0,0,0,0
+959767,21 Jan 2024,v Pakistan,Christchurch,1,2,2,0,0,2
+959767,26 Jan 2024,v Canterbury,Hamilton,2,0,0,0,0,0
+959767,21 Feb 2024,v Australia,Wellington,2,1,1,0,0,1
+959767,22 Mar 2024,v RCB,Chennai,1,2,2,0,0,2
+959767,26 Mar 2024,v GT,Chennai,2,3,3,0,0,3
+959767,31 Mar 2024,v DC,Visakhapatnam,1,0,0,0,0,0
+959767,5 Apr 2024,v SRH,Hyderabad,2,1,1,0,0,1
+959767,8 Apr 2024,v KKR,Chennai,1,1,1,0,0,1
+959767,14 Apr 2024,v MI,Wankhede,2,1,1,0,0,1
+959767,19 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+959767,10 May 2024,v GT,Ahmedabad,1,0,0,0,0,0
+959767,12 May 2024,v RR,Chennai,1,0,0,0,0,0
+959767,18 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+959767,12 Jun 2024,v West Indies,Tarouba,1,1,1,0,0,1
+959767,14 Jun 2024,v Uganda,Tarouba,1,0,0,0,0,0
+959767,17 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+959767,11 Jul 2024,v Seattle,Dallas,1,1,1,0,0,1
+959767,14 Jul 2024,v Los Angeles,Morrisville,1,1,1,0,0,1
+959767,16 Jul 2024,v MI New York,Dallas,2,1,1,0,0,1
+959767,19 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+959767,22 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+959767,25 Jul 2024,v SF,Dallas,1,0,0,0,0,0
+959767,28 Jul 2024,v SF,Dallas,2,1,1,0,0,1
+959767,28 Dec 2024,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+959767,30 Dec 2024,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+959767,2 Jan 2025,v Sri Lanka,Nelson,1,1,1,0,0,1
+959767,27 Jan 2025,v Auckland,Auckland,1,2,2,0,0,2
+959767,23 Mar 2025,v MI,Chennai,1,0,0,0,0,0
+959767,28 Mar 2025,v RCB,Chennai,1,1,1,0,0,1
+959767,30 Mar 2025,v RR,Guwahati,1,1,1,0,0,1
+959767,5 Apr 2025,v DC,Chennai,1,0,0,0,0,0
+959767,8 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+959767,11 Apr 2025,v KKR,Chennai,2,0,0,0,0,0
+959767,14 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+959767,20 Apr 2025,v MI,Wankhede,2,0,0,0,0,0
+959767,12 Jun 2025,v SF,Oakland,1,0,0,0,0,0
+959767,14 Jun 2025,v Seattle,Oakland,1,1,1,0,0,1
+959767,17 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+959767,21 Jun 2025,v MI New York,Dallas,1,0,0,0,0,0
+959767,22 Jun 2025,v Texas,Dallas,1,1,1,0,0,1
+959767,26 Jun 2025,v Los Angeles,Dallas,1,0,0,0,0,0
+959767,28 Jun 2025,v SF,Dallas,2,0,0,0,0,0
+959767,2 Jul 2025,v Texas,Lauderhill,1,0,0,0,0,0
+959767,4 Jul 2025,v Seattle,Lauderhill,1,1,1,0,0,1
+959767,6 Jul 2025,v MI New York,Lauderhill,1,2,2,0,0,2
+959767,8 Jul 2025,v Texas,Dallas,-,TDNF,-,-,-,-
+959767,13 Jul 2025,v MI New York,Dallas,1,1,1,0,0,1
+959767,18 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+959767,22 Jul 2025,v South Africa,Harare,1,1,1,0,0,1
+959767,24 Jul 2025,v Zimbabwe,Harare,2,0,0,0,0,0
+959767,26 Jul 2025,v South Africa,Harare,2,0,0,0,0,0
+959767,17 Aug 2025,v N S-Chargers,Manchester,2,0,0,0,0,0
+959767,19 Aug 2025,v Rockets,Nottingham,2,0,0,0,0,0
+959767,24 Aug 2025,v Phoenix,Manchester,2,0,0,0,0,0
+959767,26 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+959767,18 Oct 2025,v England,Christchurch,1,0,0,0,0,0
+959767,20 Oct 2025,v England,Christchurch,1,0,0,0,0,0
+959767,23 Oct 2025,v England,Auckland,-,TDNF,-,-,-,-
+959767,5 Nov 2025,v West Indies,Auckland,1,1,1,0,0,1
+959767,6 Nov 2025,v West Indies,Auckland,2,0,0,0,0,0
+959767,9 Nov 2025,v West Indies,Nelson,2,0,0,0,0,0
+959767,10 Nov 2025,v West Indies,Nelson,1,0,0,0,0,0
+959767,13 Nov 2025,v West Indies,Dunedin,1,0,0,0,0,0
+959767,7 Jan 2026,v Central D,Wellington,1,0,0,0,0,0
+959767,9 Jan 2026,v Otago,Wellington,2,0,0,0,0,0
+959767,11 Jan 2026,v Northern Dis,Wellington,2,0,0,0,0,0
+959767,21 Jan 2026,v India,Nagpur,1,1,1,0,0,1
+959767,23 Jan 2026,v India,Raipur,2,1,1,0,0,1
+959767,25 Jan 2026,v India,Guwahati,2,0,0,0,0,0
+959767,28 Jan 2026,v India,Visakhapatnam,2,1,1,0,0,1
+959767,31 Jan 2026,v India,Thiruvananthapuram,1,0,0,0,0,0
+959767,8 Feb 2026,v Afghanistan,Chennai,1,0,0,0,0,0
+959767,10 Feb 2026,v U.A.E.,Chennai,1,0,0,0,0,0
+959767,14 Feb 2026,v South Africa,Ahmedabad,2,0,0,0,0,0
+959767,17 Feb 2026,v Canada,Chennai,1,0,0,0,0,0
+959767,21 Feb 2026,v Pakistan,Colombo (RPS),-,TDNF,-,-,-,-
+959767,25 Feb 2026,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+959767,27 Feb 2026,v England,Colombo (RPS),2,0,0,0,0,0
+959767,4 Mar 2026,v South Africa,Eden Gardens,1,0,0,0,0,0
+959767,8 Mar 2026,v India,Ahmedabad,1,1,1,0,0,1

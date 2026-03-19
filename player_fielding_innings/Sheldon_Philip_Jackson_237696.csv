@@ -1,0 +1,85 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+237696,21 Oct 2009,v Maharashtra,Pune,2,1,1,0,1,0
+237696,22 Oct 2009,v Mumbai,Pune,1,2,2,0,2,0
+237696,24 Oct 2009,v Baroda,Pune,2,0,0,0,0,0
+237696,24 Oct 2010,v Baroda,Vadodara,2,0,0,0,0,0
+237696,25 Oct 2010,v Gujarat,Vadodara,2,0,0,0,0,0
+237696,21 Oct 2011,v Maharashtra,Rajkot,2,0,0,0,0,0
+237696,22 Oct 2011,v Mumbai,Rajkot,2,0,0,0,0,0
+237696,24 Oct 2011,v Baroda,Rajkot,2,0,0,0,0,0
+237696,25 Oct 2011,v Gujarat,Rajkot,2,2,2,0,0,2
+237696,18 Mar 2013,v Maharashtra,Ahmedabad,2,2,1,1,1,0
+237696,19 Mar 2013,v Mumbai,Ahmedabad,2,1,1,0,1,0
+237696,21 Mar 2013,v Baroda,Ahmedabad,2,3,3,0,3,0
+237696,22 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+237696,31 Mar 2014,v Maharashtra,Wankhede,2,0,0,0,0,0
+237696,2 Apr 2014,v Mumbai,Mumbai,1,0,0,0,0,0
+237696,3 Apr 2014,v Baroda,Mumbai,1,1,0,1,0,0
+237696,4 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+237696,25 Mar 2015,v Maharashtra,Pune,1,0,0,0,0,0
+237696,26 Mar 2015,v Mumbai,Pune,2,0,0,0,0,0
+237696,27 Mar 2015,v Baroda,Pune,1,0,0,0,0,0
+237696,28 Mar 2015,v Gujarat,Pune,1,1,1,0,1,0
+237696,2 Jan 2016,v Tripura,Kochi,2,1,1,0,1,0
+237696,4 Jan 2016,v J & K,Kochi,2,1,1,0,1,0
+237696,6 Jan 2016,v Kerala,Kochi,1,0,0,0,0,0
+237696,7 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+237696,9 Jan 2016,v Jharkhand,Kochi,2,0,0,0,0,0
+237696,10 Jan 2016,v Punjab,Kochi,2,2,1,1,1,0
+237696,30 Jan 2017,v Maharashtra,Vadodara,1,1,1,0,1,0
+237696,1 Feb 2017,v Mumbai,Vadodara,2,1,1,0,1,0
+237696,2 Feb 2017,v Baroda,Vadodara,2,2,2,0,2,0
+237696,4 Feb 2017,v Gujarat,Vadodara,2,1,1,0,1,0
+237696,16 Feb 2017,v South Zone,Wankhede,2,0,0,0,0,0
+237696,18 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+237696,28 Apr 2017,v Daredevils,Eden Gardens,1,0,0,0,0,0
+237696,30 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+237696,3 May 2017,v Supergiant,Eden Gardens,2,2,2,0,2,0
+237696,7 May 2017,v RCB,Bengaluru,1,0,0,0,0,0
+237696,8 Jan 2018,v Maharashtra,Rajkot,2,0,0,0,0,0
+237696,10 Jan 2018,v Mumbai,Rajkot,1,0,0,0,0,0
+237696,11 Jan 2018,v Baroda,Rajkot,2,0,0,0,0,0
+237696,13 Jan 2018,v Gujarat,Rajkot,2,0,0,0,0,0
+237696,21 Feb 2019,v Railways,Indore,2,0,0,0,0,0
+237696,22 Feb 2019,v M. Pradesh,Indore,1,1,1,0,0,1
+237696,24 Feb 2019,v Punjab,Indore,1,1,1,0,0,1
+237696,25 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+237696,28 Feb 2019,v Mumbai,Indore,1,0,0,0,0,0
+237696,2 Mar 2019,v Goa,Indore,1,3,3,0,0,3
+237696,8 Nov 2019,v Nagaland,Surat,1,0,0,0,0,0
+237696,9 Nov 2019,v Jharkhand,Surat,2,1,1,0,0,1
+237696,11 Nov 2019,v Gujarat,Surat,2,0,0,0,0,0
+237696,12 Nov 2019,v Delhi,Surat,2,1,1,0,0,1
+237696,14 Nov 2019,v Odisha,Surat,1,1,1,0,0,1
+237696,15 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+237696,17 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+237696,11 Jan 2021,v Kerala,Wankhede,2,1,1,0,1,0
+237696,13 Jan 2021,v Haryana,Mumbai,2,1,0,1,0,0
+237696,15 Jan 2021,v Andhra,Wankhede,1,0,0,0,0,0
+237696,17 Jan 2021,v Mumbai,Wankhede,1,3,3,0,3,0
+237696,19 Jan 2021,v Delhi,Mumbai,1,2,2,0,2,0
+237696,4 Nov 2021,v Hyderabad,Sultanpur,2,3,3,0,3,0
+237696,5 Nov 2021,v UP,Sultanpur,2,1,0,1,0,0
+237696,6 Nov 2021,v Uttarakhand,Sultanpur,2,2,1,1,1,0
+237696,8 Nov 2021,v Chandigarh,Rohtak,2,2,2,0,2,0
+237696,9 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+237696,16 Nov 2021,v Karnataka,Delhi,2,1,1,0,1,0
+237696,26 Mar 2022,v CSK,Wankhede,1,1,0,1,0,0
+237696,30 Mar 2022,v RCB,DY Patil,2,4,3,1,3,0
+237696,15 Apr 2022,v SRH,Brabourne,2,0,0,0,0,0
+237696,18 Apr 2022,v RR,Brabourne,1,0,0,0,0,0
+237696,9 May 2022,v MI,DY Patil,2,2,2,0,2,0
+237696,12 Oct 2022,v Baroda,Indore,1,0,0,0,0,0
+237696,14 Oct 2022,v Nagaland,Indore,2,0,0,0,0,0
+237696,16 Oct 2022,v Gujarat,Indore,1,2,2,0,2,0
+237696,18 Oct 2022,v Himachal,Indore,1,0,0,0,0,0
+237696,20 Oct 2022,v Bihar,Indore,1,1,1,0,1,0
+237696,30 Oct 2022,v Kerala,Eden Gardens,2,1,1,0,1,0
+237696,1 Nov 2022,v Mumbai,Eden Gardens,2,1,1,0,1,0
+237696,16 Oct 2023,v Punjab,Ranchi,2,0,0,0,0,0
+237696,17 Oct 2023,v Gujarat,Ranchi,2,1,1,0,0,1
+237696,19 Oct 2023,v Manipur,Ranchi,2,1,1,0,0,1
+237696,21 Oct 2023,v Railways,Ranchi,2,1,1,0,0,1
+237696,23 Oct 2023,v Arunachal,Ranchi,1,0,0,0,0,0
+237696,25 Oct 2023,v Andhra,Ranchi,1,0,0,0,0,0
+237696,27 Oct 2023,v Goa,Ranchi,1,1,1,0,0,1

@@ -1,0 +1,137 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+473191,10 Jun 2016,v Worcs,Worcester,2,0,0,0,0,0
+473191,17 Jun 2016,v Durham,Northampton,2,0,0,0,0,0
+473191,26 Jun 2016,v Leics,Northampton,1,0,0,0,0,0
+473191,1 Jul 2016,v Warwickshire,Birmingham,1,0,0,0,0,0
+473191,8 Jul 2016,v Notts,Northampton,2,0,0,0,0,0
+473191,15 Jul 2016,v Durham,Chester-le-Street,2,0,0,0,0,0
+473191,19 Jul 2016,v Warwickshire,Northampton,2,1,1,0,0,1
+473191,22 Jul 2016,v Yorkshire,Leeds,1,0,0,0,0,0
+473191,29 Jul 2016,v Yorkshire,Northampton,1,0,0,0,0,0
+473191,9 Aug 2016,v Middlesex,Northampton,1,0,0,0,0,0
+473191,9 Nov 2016,v Chattogram,Mirpur,1,1,1,0,0,1
+473191,10 Nov 2016,v Khulna,Mirpur,1,0,0,0,0,0
+473191,12 Nov 2016,v Dynamites,Mirpur,1,0,0,0,0,0
+473191,7 Jul 2017,v Derbyshire,Northampton,2,0,0,0,0,0
+473191,9 Jul 2017,v Durham,Chester-le-Street,1,0,0,0,0,0
+473191,14 Jul 2017,v Warwickshire,Birmingham,1,0,0,0,0,0
+473191,21 Jul 2017,v Leics,Leicester,2,0,0,0,0,0
+473191,22 Jul 2017,v Notts,Nottingham,2,0,0,0,0,0
+473191,27 Jul 2017,v Worcs,Northampton,1,1,1,0,0,1
+473191,1 Aug 2017,v Warwickshire,Northampton,1,1,1,0,0,1
+473191,3 Aug 2017,v Lancashire,Northampton,2,0,0,0,0,0
+473191,5 Aug 2017,v Worcs,Worcester,2,0,0,0,0,0
+473191,11 Aug 2017,v Leics,Northampton,1,0,0,0,0,0
+473191,17 Aug 2017,v Yorkshire,Leeds,1,0,0,0,0,0
+473191,18 Aug 2017,v Durham,Northampton,1,0,0,0,0,0
+473191,27 Jul 2018,v Worcs,Northampton,2,0,0,0,0,0
+473191,2 Aug 2018,v Durham,Chester-le-Street,1,2,2,0,0,2
+473191,3 Aug 2018,v Yorkshire,Leeds,2,0,0,0,0,0
+473191,5 Aug 2018,v Bears,Northampton,1,0,0,0,0,0
+473191,16 Aug 2018,v Yorkshire,Northampton,2,0,0,0,0,0
+473191,17 Aug 2018,v Leics,Leicester,1,0,0,0,0,0
+473191,19 Jul 2019,v Leics,Leicester,-,TDNF,-,-,-,-
+473191,21 Jul 2019,v Durham,Manchester,2,1,1,0,0,1
+473191,25 Jul 2019,v Yorkshire,Leeds,2,0,0,0,0,0
+473191,26 Jul 2019,v Worcs,Manchester,1,0,0,0,0,0
+473191,2 Aug 2019,v Durham,Chester-le-Street,1,1,1,0,0,1
+473191,3 Aug 2019,v Notts,Manchester,2,0,0,0,0,0
+473191,11 Aug 2019,v Bears,Birmingham,1,1,1,0,0,1
+473191,14 Aug 2019,v Northants,Northampton,1,1,1,0,0,1
+473191,25 Aug 2019,v Worcs,Worcester,2,0,0,0,0,0
+473191,30 Aug 2019,v Leics,Manchester,1,0,0,0,0,0
+473191,4 Sep 2019,v Essex,Chester-le-Street,2,0,0,0,0,0
+473191,19 Dec 2019,v Thunder,Geelong,2,0,0,0,0,0
+473191,21 Dec 2019,v Scorchers,Perth,1,0,0,0,0,0
+473191,24 Dec 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+473191,29 Dec 2019,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+473191,2 Jan 2020,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+473191,4 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+473191,7 Jan 2020,v Scorchers,Geelong,2,0,0,0,0,0
+473191,10 Jan 2020,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+473191,9 Jun 2021,v Derbyshire,Manchester,1,1,1,0,0,1
+473191,26 Aug 2021,v Somerset,Taunton,2,0,0,0,0,0
+473191,27 May 2022,v Yorkshire,Manchester,2,0,0,0,0,0
+473191,29 May 2022,v Worcs,Manchester,2,0,0,0,0,0
+473191,31 May 2022,v Notts,Nottingham,2,0,0,0,0,0
+473191,1 Jun 2022,v Derbyshire,Manchester,2,0,0,0,0,0
+473191,3 Jun 2022,v Northants,Manchester,1,0,0,0,0,0
+473191,7 Jun 2022,v Leics,Leicester,1,0,0,0,0,0
+473191,8 Jun 2022,v Yorkshire,Leeds,2,1,1,0,0,1
+473191,10 Jun 2022,v Durham,Chester-le-Street,2,0,0,0,0,0
+473191,17 Jun 2022,v Northants,Northampton,2,0,0,0,0,0
+473191,19 Jun 2022,v Notts,Blackpool,1,0,0,0,0,0
+473191,23 Jun 2022,v Durham,Blackpool,-,TDNF,-,-,-,-
+473191,24 Jun 2022,v Derbyshire,Derby,1,0,0,0,0,0
+473191,1 Jul 2022,v Worcs,Worcester,1,0,0,0,0,0
+473191,3 Jul 2022,v Bears,Manchester,1,1,1,0,0,1
+473191,9 Jul 2022,v India,Birmingham,1,1,1,0,0,1
+473191,10 Jul 2022,v India,Nottingham,2,1,1,0,0,1
+473191,16 Jul 2022,v Yorkshire,Birmingham,1,0,0,0,0,0
+473191,16 Jul 2022,v Hampshire,Birmingham,1,0,0,0,0,0
+473191,27 Jul 2022,v South Africa,Bristol,2,1,1,0,0,1
+473191,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+473191,31 Aug 2022,v Invincibles,Manchester,1,0,0,0,0,0
+473191,2 Sep 2022,v Spirit,Southampton,1,0,0,0,0,0
+473191,3 Sep 2022,v Rockets,Lord's,2,0,0,0,0,0
+473191,20 Sep 2022,v Pakistan,Karachi,1,1,1,0,0,1
+473191,30 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+473191,5 Aug 2023,v Spirit,Manchester,-,TDNF,-,-,-,-
+473191,7 Aug 2023,v Phoenix,Manchester,2,0,0,0,0,0
+473191,9 Aug 2023,v Invincibles,The Oval,1,0,0,0,0,0
+473191,26 Aug 2023,v Brave,The Oval,1,0,0,0,0,0
+473191,27 Aug 2023,v Invincibles,Lord's,1,0,0,0,0,0
+473191,11 Jan 2024,v MI Cape Town,Durban,1,0,0,0,0,0
+473191,13 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+473191,15 Jan 2024,v Super Kings,Durban,2,1,1,0,0,1
+473191,19 Jan 2024,v Warriors,Sharjah,2,1,1,0,0,1
+473191,21 Jan 2024,v MI Emirates,Abu Dhabi,1,1,1,0,0,1
+473191,24 Jan 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+473191,27 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+473191,31 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+473191,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+473191,5 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+473191,31 May 2024,v Durham,Chester-le-Street,1,0,0,0,0,0
+473191,1 Jun 2024,v Notts,Birmingham,2,0,0,0,0,0
+473191,7 Jun 2024,v Lancashire,Manchester,1,0,0,0,0,0
+473191,14 Jun 2024,v Yorkshire,Birmingham,1,0,0,0,0,0
+473191,16 Jun 2024,v Derbyshire,Derby,1,0,0,0,0,0
+473191,20 Jun 2024,v Northants,Birmingham,2,0,0,0,0,0
+473191,7 Aug 2024,v Rockets,Nottingham,1,0,0,0,0,0
+473191,9 Aug 2024,v Originals,Lord's,1,0,0,0,0,0
+473191,13 Aug 2024,v N S-Chargers,Leeds,2,0,0,0,0,0
+473191,6 Sep 2024,v Gloucs,Birmingham,1,1,1,0,0,1
+473191,9 Jan 2025,v MI Cape Town,Gqeberha,1,0,0,0,0,0
+473191,11 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+473191,14 Jan 2025,v Capitals,Centurion,2,0,0,0,0,0
+473191,17 Jan 2025,v Super Giants,Durban,2,0,0,0,0,0
+473191,19 Jan 2025,v Super Giants,Gqeberha,1,0,0,0,0,0
+473191,22 Jan 2025,v Capitals,Gqeberha,2,0,0,0,0,0
+473191,24 Jan 2025,v Super Kings,Gqeberha,2,0,0,0,0,0
+473191,26 Jan 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+473191,29 Jan 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+473191,1 Feb 2025,v Paarl Royals,Gqeberha,2,0,0,0,0,0
+473191,5 Feb 2025,v Super Kings,Centurion,2,0,0,0,0,0
+473191,6 Feb 2025,v Paarl Royals,Centurion,1,0,0,0,0,0
+473191,8 Feb 2025,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+473191,30 May 2025,v GT,New Chandigarh,2,0,0,0,0,0
+473191,4 Jul 2025,v Leics,Leicester,1,0,0,0,0,0
+473191,9 Jul 2025,v Lancashire,Birmingham,2,0,0,0,0,0
+473191,11 Jul 2025,v Worcs,Worcester,2,2,2,0,0,2
+473191,13 Jul 2025,v Northants,Birmingham,1,1,1,0,0,1
+473191,18 Jul 2025,v Derbyshire,Derby,2,0,0,0,0,0
+473191,5 Aug 2025,v Invincibles,Lord's,2,0,0,0,0,0
+473191,9 Aug 2025,v Fire,Cardiff,2,0,0,0,0,0
+473191,11 Aug 2025,v Originals,Manchester,1,0,0,0,0,0
+473191,14 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+473191,17 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+473191,20 Aug 2025,v N S-Chargers,Lord's,2,0,0,0,0,0
+473191,23 Aug 2025,v Brave,Lord's,2,0,0,0,0,0
+473191,25 Aug 2025,v Invincibles,The Oval,2,1,1,0,0,1
+473191,6 Sep 2025,v Somerset,Taunton,2,0,0,0,0,0
+473191,27 Dec 2025,v Capitals,Centurion,2,0,0,0,0,0
+473191,30 Dec 2025,v Super Giants,Durban,1,1,1,0,0,1
+473191,1 Jan 2026,v Super Giants,Johannesburg,2,0,0,0,0,0
+473191,3 Jan 2026,v Sunrisers,Johannesburg,-,TDNF,-,-,-,-
+473191,6 Jan 2026,v MI Cape Town,Cape Town,2,0,0,0,0,0
+473191,14 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0

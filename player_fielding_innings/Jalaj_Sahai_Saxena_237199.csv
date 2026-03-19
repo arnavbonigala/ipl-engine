@@ -1,0 +1,80 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+237199,21 Oct 2009,v Vidarbha,Indore,1,0,0,0,0,0
+237199,23 Oct 2009,v UP,Indore,1,0,0,0,0,0
+237199,25 Oct 2009,v Railways,Indore,1,0,0,0,0,0
+237199,13 Mar 2010,v Maharashtra,Indore,2,0,0,0,0,0
+237199,20 Oct 2010,v UP,Jaipur,1,0,0,0,0,0
+237199,22 Oct 2010,v Vidarbha,Jaipur,1,0,0,0,0,0
+237199,24 Oct 2010,v Rajasthan,Jaipur,2,1,1,0,0,1
+237199,25 Oct 2010,v Railways,Jaipur,2,1,1,0,0,1
+237199,13 Mar 2011,v Orissa,Hyderabad,1,1,1,0,0,1
+237199,15 Mar 2011,v Haryana,Hyderabad,1,0,0,0,0,0
+237199,16 Mar 2011,v Bengal,Hyderabad,1,0,0,0,0,0
+237199,20 Oct 2011,v Railways,Indore,2,0,0,0,0,0
+237199,21 Oct 2011,v Rajasthan,Indore,1,0,0,0,0,0
+237199,22 Oct 2011,v Vidarbha,Indore,2,1,1,0,0,1
+237199,25 Oct 2011,v UP,Indore,2,1,1,0,0,1
+237199,25 Mar 2012,v Punjab,Mumbai,2,0,0,0,0,0
+237199,23 Jun 2012,v W. Indies A,Port of Spain,2,0,0,0,0,0
+237199,24 Jun 2012,v W. Indies A,Port of Spain,2,1,1,0,0,1
+237199,18 Mar 2013,v Vidarbha,Nagpur,1,0,0,0,0,0
+237199,19 Mar 2013,v UP,Nagpur,1,0,0,0,0,0
+237199,21 Mar 2013,v Railways,Nagpur,1,0,0,0,0,0
+237199,22 Mar 2013,v Rajasthan,Nagpur,1,0,0,0,0,0
+237199,31 Mar 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+237199,1 Apr 2014,v Railways,Nagpur,1,0,0,0,0,0
+237199,2 Apr 2014,v UP,Nagpur,2,0,0,0,0,0
+237199,4 Apr 2014,v Vidarbha,Nagpur,2,0,0,0,0,0
+237199,13 Sep 2014,v Lahore Lions,Raipur,2,1,1,0,0,1
+237199,14 Sep 2014,v Express,Raipur,1,0,0,0,0,0
+237199,16 Sep 2014,v Northern Dis,Raipur,2,0,0,0,0,0
+237199,24 Mar 2015,v Rajasthan,Indore,1,1,1,0,0,1
+237199,25 Mar 2015,v Railways,Indore,2,1,1,0,0,1
+237199,27 Mar 2015,v UP,Indore,2,0,0,0,0,0
+237199,28 Mar 2015,v Vidarbha,Indore,1,0,0,0,0,0
+237199,2 Apr 2015,v Jharkhand,Bhubaneswar,2,0,0,0,0,0
+237199,3 Apr 2015,v Andhra,Bhubaneswar,1,0,0,0,0,0
+237199,4 Apr 2015,v Gujarat,Bhubaneswar,2,0,0,0,0,0
+237199,5 Apr 2015,v Himachal,Bhubaneswar,1,0,0,0,0,0
+237199,2 Jan 2016,v Andhra,Vadodara,1,0,0,0,0,0
+237199,3 Jan 2016,v Goa,Vadodara,1,0,0,0,0,0
+237199,4 Jan 2016,v Delhi,Vadodara,2,1,1,0,0,1
+237199,6 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+237199,7 Jan 2016,v Baroda,Vadodara,1,0,0,0,0,0
+237199,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+237199,30 Jan 2017,v Karnataka,Chennai,1,0,0,0,0,0
+237199,31 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+237199,2 Feb 2017,v Goa,Chennai,1,2,2,0,0,2
+237199,3 Feb 2017,v Tamil Nadu,Chennai,2,0,0,0,0,0
+237199,8 Jan 2018,v Hyderabad,Vizianagaram,1,1,1,0,0,1
+237199,8 Nov 2019,v Tamil Nadu,Thumba,1,0,0,0,0,0
+237199,11 Nov 2019,v Tripura,Thiruvananthapuram,2,0,0,0,0,0
+237199,12 Nov 2019,v Manipur,Thiruvananthapuram,2,0,0,0,0,0
+237199,14 Nov 2019,v Vidarbha,Thumba,2,0,0,0,0,0
+237199,15 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+237199,17 Nov 2019,v UP,Thiruvananthapuram,2,0,0,0,0,0
+237199,11 Jan 2021,v Puducherry,Wankhede,1,0,0,0,0,0
+237199,13 Jan 2021,v Mumbai,Wankhede,1,0,0,0,0,0
+237199,15 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+237199,17 Jan 2021,v Andhra,Mumbai,2,0,0,0,0,0
+237199,19 Jan 2021,v Haryana,Wankhede,1,0,0,0,0,0
+237199,18 Apr 2021,v DC,Wankhede,2,0,0,0,0,0
+237199,4 Nov 2021,v Gujarat,Delhi,2,0,0,0,0,0
+237199,6 Nov 2021,v Railways,Delhi,1,0,0,0,0,0
+237199,8 Nov 2021,v Assam,Delhi,1,1,1,0,0,1
+237199,9 Nov 2021,v M. Pradesh,Delhi,1,0,0,0,0,0
+237199,16 Nov 2021,v Himachal,Delhi,1,0,0,0,0,0
+237199,18 Nov 2021,v Tamil Nadu,Delhi,2,0,0,0,0,0
+237199,21 Oct 2023,v Chandigarh,DY Patil,2,0,0,0,0,0
+237199,25 Oct 2023,v Odisha,DY Patil,2,0,0,0,0,0
+237199,27 Oct 2023,v Assam,Mumbai,2,0,0,0,0,0
+237199,2 Nov 2023,v Assam,Mohali,2,0,0,0,0,0
+237199,27 Nov 2024,v Nagaland,Hyderabad,1,0,0,0,0,0
+237199,1 Dec 2024,v Goa,Hyderabad,2,2,2,0,0,2
+237199,3 Dec 2024,v Andhra,Hyderabad,2,1,1,0,0,1
+237199,28 Nov 2025,v Hyderabad,Jadavpur Uni,1,0,0,0,0,0
+237199,30 Nov 2025,v Chandigarh,Jadavpur Uni,2,0,0,0,0,0
+237199,2 Dec 2025,v Bihar,Eden Gardens,1,0,0,0,0,0
+237199,4 Dec 2025,v M. Pradesh,Eden Gardens,1,0,0,0,0,0
+237199,6 Dec 2025,v UP,Eden Gardens,1,2,2,0,0,2
+237199,8 Dec 2025,v Goa,Jadavpur Uni,2,0,0,0,0,0

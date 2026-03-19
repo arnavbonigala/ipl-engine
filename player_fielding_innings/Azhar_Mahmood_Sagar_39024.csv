@@ -1,0 +1,231 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+39024,13 Jun 2003,v Middlesex,The Oval,1,0,0,0,0,0
+39024,14 Jun 2003,v Essex,East Molesey,2,1,1,0,0,1
+39024,23 Jun 2003,v Kent,Canterbury,2,0,0,0,0,0
+39024,19 Jul 2003,v Gloucs,Nottingham,2,0,0,0,0,0
+39024,19 Jul 2003,v Warwickshire,Nottingham,1,0,0,0,0,0
+39024,15 Jul 2004,v Middlesex,Lord's,2,0,0,0,0,0
+39024,7 Aug 2004,v Lancashire,Birmingham,2,1,1,0,0,1
+39024,7 Aug 2004,v Leics,Birmingham,2,1,1,0,0,1
+39024,13 Jan 2005,v Australia A,Adelaide,1,1,1,0,0,1
+39024,28 Jun 2005,v Middlesex,The Oval,2,0,0,0,0,0
+39024,29 Jun 2005,v Sussex,Hove,1,0,0,0,0,0
+39024,1 Jul 2005,v Kent,The Oval,2,0,0,0,0,0
+39024,5 Jul 2005,v Essex,Chelmsford,1,0,0,0,0,0
+39024,6 Jul 2005,v Sussex,The Oval,2,0,0,0,0,0
+39024,18 Jul 2005,v Warwickshire,The Oval,2,0,0,0,0,0
+39024,30 Jul 2005,v Lancashire,The Oval,1,0,0,0,0,0
+39024,27 Jun 2006,v Middlesex,Lord's,2,0,0,0,0,0
+39024,28 Jun 2006,v Kent,The Oval,2,0,0,0,0,0
+39024,30 Jun 2006,v Sussex,Hove,2,0,0,0,0,0
+39024,1 Jul 2006,v Essex,The Oval,2,1,1,0,0,1
+39024,4 Jul 2006,v Sussex,The Oval,2,0,0,0,0,0
+39024,6 Jul 2006,v Hampshire,Southampton,2,0,0,0,0,0
+39024,7 Jul 2006,v Middlesex,The Oval,1,2,2,0,0,2
+39024,11 Jul 2006,v Kent,Canterbury,2,1,1,0,0,1
+39024,24 Jul 2006,v Gloucs,Bristol,2,0,0,0,0,0
+39024,12 Aug 2006,v Notts,Nottingham,1,0,0,0,0,0
+39024,22 Dec 2006,v Tigers,Karachi,1,0,0,0,0,0
+39024,23 Dec 2006,v P Panthers,Karachi,1,0,0,0,0,0
+39024,22 Jun 2007,v Middlesex,The Oval,1,0,0,0,0,0
+39024,24 Jun 2007,v Hampshire,The Oval,1,0,0,0,0,0
+39024,28 Jun 2007,v Essex,Chelmsford,2,0,0,0,0,0
+39024,2 Jul 2007,v Kent,Beckenham,1,0,0,0,0,0
+39024,3 Jul 2007,v Middlesex,Lord's,2,0,0,0,0,0
+39024,5 Jul 2007,v Sussex,The Oval,1,0,0,0,0,0
+39024,6 Jul 2007,v Kent,The Oval,2,0,0,0,0,0
+39024,11 Jun 2008,v Sussex,Canterbury,1,0,0,0,0,0
+39024,13 Jun 2008,v Surrey,The Oval,2,0,0,0,0,0
+39024,14 Jun 2008,v Hampshire,Southampton,1,0,0,0,0,0
+39024,16 Jun 2008,v Hampshire,Canterbury,1,0,0,0,0,0
+39024,18 Jun 2008,v Essex,Chelmsford,1,0,0,0,0,0
+39024,20 Jun 2008,v Middlesex,Beckenham,2,0,0,0,0,0
+39024,22 Jun 2008,v Essex,Beckenham,2,0,0,0,0,0
+39024,24 Jun 2008,v Middlesex,Uxbridge,1,0,0,0,0,0
+39024,25 Jun 2008,v Surrey,Canterbury,1,0,0,0,0,0
+39024,27 Jun 2008,v Sussex,Hove,2,0,0,0,0,0
+39024,9 Jul 2008,v Warwickshire,Birmingham,2,0,0,0,0,0
+39024,26 Jul 2008,v Essex,Southampton,2,0,0,0,0,0
+39024,26 Jul 2008,v Middlesex,Southampton,1,0,0,0,0,0
+39024,25 May 2009,v Essex,Canterbury,1,1,1,0,0,1
+39024,27 May 2009,v Middlesex,Lord's,2,0,0,0,0,0
+39024,29 May 2009,v Middlesex,Canterbury,1,0,0,0,0,0
+39024,31 May 2009,v Sussex,Canterbury,1,0,0,0,0,0
+39024,1 Jun 2009,v Essex,Chelmsford,1,0,0,0,0,0
+39024,4 Jun 2009,v Sussex,Hove,1,0,0,0,0,0
+39024,22 Jun 2009,v Hampshire,Tunbridge Wells,2,0,0,0,0,0
+39024,24 Jun 2009,v Surrey,The Oval,2,0,0,0,0,0
+39024,26 Jun 2009,v Hampshire,Southampton,1,0,0,0,0,0
+39024,28 Jun 2009,v Surrey,Beckenham,2,0,0,0,0,0
+39024,27 Jul 2009,v Durham,Canterbury,2,0,0,0,0,0
+39024,15 Aug 2009,v Somerset,Birmingham,2,1,1,0,0,1
+39024,3 Mar 2010,v Rhinos,Karachi,1,0,0,0,0,0
+39024,5 Mar 2010,v Wolves,Karachi,2,0,0,0,0,0
+39024,2 Jun 2010,v Essex,Chelmsford,1,0,0,0,0,0
+39024,3 Jun 2010,v Hampshire,Southampton,2,1,1,0,0,1
+39024,9 Jun 2010,v Sussex,Tunbridge Wells,2,0,0,0,0,0
+39024,11 Jun 2010,v Middlesex,Canterbury,2,0,0,0,0,0
+39024,13 Jun 2010,v Gloucs,Gloucester,2,0,0,0,0,0
+39024,18 Jun 2010,v Surrey,The Oval,1,0,0,0,0,0
+39024,20 Jun 2010,v Somerset,Beckenham,1,0,0,0,0,0
+39024,23 Jun 2010,v Surrey,Beckenham,1,0,0,0,0,0
+39024,24 Jun 2010,v Middlesex,Lord's,1,0,0,0,0,0
+39024,27 Jun 2010,v Sussex,Hove,2,0,0,0,0,0
+39024,2 Jul 2010,v Hampshire,Canterbury,1,0,0,0,0,0
+39024,4 Jul 2010,v Gloucs,Canterbury,2,0,0,0,0,0
+39024,9 Jul 2010,v Essex,The Oval,2,1,1,0,0,1
+39024,11 Jul 2010,v Glamorgan,Canterbury,1,0,0,0,0,0
+39024,16 Jul 2010,v Glamorgan,Cardiff,2,0,0,0,0,0
+39024,18 Jul 2010,v Somerset,Taunton,2,0,0,0,0,0
+39024,13 Oct 2010,v Quetta Bears,Lahore,2,0,0,0,0,0
+39024,14 Oct 2010,v Wolves,Lahore,1,0,0,0,0,0
+39024,15 Oct 2010,v Lahore Lions,Lahore,2,0,0,0,0,0
+39024,3 Jun 2011,v Somerset,Tunbridge Wells,2,0,0,0,0,0
+39024,5 Jun 2011,v Hampshire,Tunbridge Wells,1,0,0,0,0,0
+39024,11 Jun 2011,v Glamorgan,Cardiff,1,0,0,0,0,0
+39024,15 Jun 2011,v Gloucs,Beckenham,1,0,0,0,0,0
+39024,18 Jun 2011,v Middlesex,Canterbury,2,1,1,0,0,1
+39024,24 Jun 2011,v Middlesex,Uxbridge,2,0,0,0,0,0
+39024,26 Jun 2011,v Surrey,Beckenham,1,0,0,0,0,0
+39024,30 Jun 2011,v Hampshire,Southampton,1,0,0,0,0,0
+39024,1 Jul 2011,v Essex,Canterbury,1,0,0,0,0,0
+39024,3 Jul 2011,v Glamorgan,Canterbury,1,0,0,0,0,0
+39024,6 Jul 2011,v Gloucs,Bristol,1,0,0,0,0,0
+39024,8 Jul 2011,v Sussex,Canterbury,1,0,0,0,0,0
+39024,14 Jul 2011,v Surrey,The Oval,2,1,1,0,0,1
+39024,15 Jul 2011,v Essex,Chelmsford,2,0,0,0,0,0
+39024,6 Aug 2011,v Leics,Leicester,2,0,0,0,0,0
+39024,18 Dec 2011,v Wellington,Auckland,2,1,1,0,0,1
+39024,26 Dec 2011,v Northern Dis,Auckland,1,0,0,0,0,0
+39024,28 Dec 2011,v Wellington,Wellington,2,0,0,0,0,0
+39024,3 Jan 2012,v Canterbury,Rangiora,1,1,1,0,0,1
+39024,6 Jan 2012,v Otago,Auckland,2,0,0,0,0,0
+39024,8 Jan 2012,v Northern Dis,Mount Maunganui,1,0,0,0,0,0
+39024,12 Jan 2012,v Central D,Auckland,1,0,0,0,0,0
+39024,15 Jan 2012,v Otago,Dunedin,1,0,0,0,0,0
+39024,17 Jan 2012,v Canterbury,Auckland,2,0,0,0,0,0
+39024,22 Jan 2012,v Canterbury,Auckland,2,2,2,0,0,2
+39024,11 Feb 2012,v Khulna,Mirpur,1,1,1,0,0,1
+39024,12 Feb 2012,v Royals,Mirpur,1,2,2,0,0,2
+39024,13 Feb 2012,v Chittagong,Mirpur,1,0,0,0,0,0
+39024,14 Feb 2012,v Barisal,Mirpur,2,0,0,0,0,0
+39024,19 Feb 2012,v Khulna,Chattogram,2,0,0,0,0,0
+39024,22 Feb 2012,v Royals,Chattogram,1,1,1,0,0,1
+39024,24 Feb 2012,v Chittagong,Mirpur,1,0,0,0,0,0
+39024,25 Feb 2012,v Barisal,Mirpur,1,0,0,0,0,0
+39024,27 Feb 2012,v Rajshahi,Mirpur,2,0,0,0,0,0
+39024,28 Feb 2012,v Khulna,Mirpur,2,1,1,0,0,1
+39024,29 Feb 2012,v Barisal,Mirpur,1,0,0,0,0,0
+39024,20 Apr 2012,v RCB,Mohali,2,0,0,0,0,0
+39024,22 Apr 2012,v MI,Wankhede,1,0,0,0,0,0
+39024,25 Apr 2012,v MI,Mohali,2,2,2,0,0,2
+39024,28 Apr 2012,v CSK,Chennai,2,1,1,0,0,1
+39024,2 May 2012,v RCB,Bengaluru,1,0,0,0,0,0
+39024,5 May 2012,v RR,Mohali,1,0,0,0,0,0
+39024,8 May 2012,v Chargers,Hyderabad,2,1,1,0,0,1
+39024,13 May 2012,v Chargers,Mohali,1,1,1,0,0,1
+39024,15 May 2012,v Daredevils,Delhi,2,1,1,0,0,1
+39024,17 May 2012,v CSK,Dharamsala,1,0,0,0,0,0
+39024,19 May 2012,v Daredevils,Dharamsala,2,1,1,0,0,1
+39024,17 Jun 2012,v Surrey,Beckenham,1,1,1,0,0,1
+39024,20 Jun 2012,v Essex,Chelmsford,1,0,0,0,0,0
+39024,22 Jun 2012,v Hampshire,Southampton,2,0,0,0,0,0
+39024,24 Jun 2012,v Hampshire,Canterbury,2,0,0,0,0,0
+39024,26 Jun 2012,v Middlesex,Canterbury,1,0,0,0,0,0
+39024,5 Jul 2012,v Surrey,The Oval,2,0,0,0,0,0
+39024,6 Jul 2012,v Essex,Canterbury,1,0,0,0,0,0
+39024,8 Jul 2012,v Middlesex,Uxbridge,1,0,0,0,0,0
+39024,19 Aug 2012,v Basnahira CD,Pallekele,2,0,0,0,0,0
+39024,20 Aug 2012,v Nagenahira,Pallekele,2,0,0,0,0,0
+39024,28 Aug 2012,v Uva Next,Colombo (RPS),1,0,0,0,0,0
+39024,9 Oct 2012,v S Stallions,Johannesburg,1,1,1,0,0,1
+39024,10 Oct 2012,v Hampshire,Centurion,1,0,0,0,0,0
+39024,15 Oct 2012,v KKR,Cape Town,1,1,1,0,0,1
+39024,17 Oct 2012,v Titans,Durban,1,0,0,0,0,0
+39024,23 Oct 2012,v Scorchers,Centurion,1,0,0,0,0,0
+39024,14 Dec 2012,v Renegades,Sydney,2,0,0,0,0,0
+39024,20 Dec 2012,v Strikers,Sydney,1,0,0,0,0,0
+39024,23 Dec 2012,v Hurricanes,Hobart,1,0,0,0,0,0
+39024,18 Jan 2013,v Royals,Mirpur,1,0,0,0,0,0
+39024,20 Jan 2013,v Khulna,Mirpur,1,0,0,0,0,0
+39024,23 Jan 2013,v Rangpur,Khulna,1,0,0,0,0,0
+39024,24 Jan 2013,v Chittagong,Khulna,1,1,1,0,0,1
+39024,28 Jan 2013,v Rajshahi,Chattogram,1,0,0,0,0,0
+39024,31 Jan 2013,v Chittagong,Chattogram,2,0,0,0,0,0
+39024,2 Feb 2013,v Rajshahi,Chattogram,2,0,0,0,0,0
+39024,4 Feb 2013,v Khulna,Mirpur,1,0,0,0,0,0
+39024,9 Feb 2013,v Dhaka,Mirpur,2,0,0,0,0,0
+39024,12 Feb 2013,v Dhaka,Mirpur,1,0,0,0,0,0
+39024,13 Feb 2013,v Royals,Mirpur,2,0,0,0,0,0
+39024,14 Feb 2013,v Rangpur,Mirpur,2,1,1,0,0,1
+39024,22 Feb 2013,v Knights,Paarl,2,0,0,0,0,0
+39024,24 Feb 2013,v Dolphins,Cape Town,1,0,0,0,0,0
+39024,28 Feb 2013,v Titans,Benoni,2,0,0,0,0,0
+39024,6 Mar 2013,v Warriors,Gqeberha,2,0,0,0,0,0
+39024,8 Mar 2013,v Lions,Cape Town,2,0,0,0,0,0
+39024,12 Mar 2013,v Titans,Paarl,1,0,0,0,0,0
+39024,14 Mar 2013,v Dolphins,Durban,1,0,0,0,0,0
+39024,7 Apr 2013,v Warriors,Pune,1,0,0,0,0,0
+39024,10 Apr 2013,v CSK,Mohali,2,0,0,0,0,0
+39024,14 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+39024,16 Apr 2013,v KKR,Mohali,2,0,0,0,0,0
+39024,19 Apr 2013,v SRH,Hyderabad,2,1,1,0,0,1
+39024,21 Apr 2013,v Warriors,Mohali,1,0,0,0,0,0
+39024,26 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+39024,29 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+39024,14 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+39024,16 May 2013,v Daredevils,Dharamsala,2,0,0,0,0,0
+39024,18 May 2013,v MI,Dharamsala,2,0,0,0,0,0
+39024,26 Jun 2013,v Hampshire,Southampton,2,0,0,0,0,0
+39024,28 Jun 2013,v Sussex,Hove,2,0,0,0,0,0
+39024,30 Jun 2013,v Kent,Canterbury,2,0,0,0,0,0
+39024,3 Jul 2013,v Sussex,The Oval,2,0,0,0,0,0
+39024,5 Jul 2013,v Middlesex,The Oval,2,0,0,0,0,0
+39024,15 Jul 2013,v Essex,The Oval,2,0,0,0,0,0
+39024,19 Jul 2013,v Hampshire,The Oval,2,0,0,0,0,0
+39024,25 Jul 2013,v Middlesex,Lord's,2,0,0,0,0,0
+39024,26 Jul 2013,v Kent,The Oval,1,0,0,0,0,0
+39024,31 Jul 2013,v Essex,Chelmsford,2,1,1,0,0,1
+39024,6 Aug 2013,v Somerset,The Oval,1,0,0,0,0,0
+39024,17 Aug 2013,v Hampshire,Birmingham,1,0,0,0,0,0
+39024,17 Aug 2013,v Northants,Birmingham,1,0,0,0,0,0
+39024,23 Aug 2013,v Tallawahs,Port of Spain,2,0,0,0,0,0
+39024,5 Jan 2014,v Warriors,Cape Town,1,0,0,0,0,0
+39024,12 Jan 2014,v Knights,Bloemfontein,2,0,0,0,0,0
+39024,15 Jan 2014,v Cape Cobras,Paarl,1,0,0,0,0,0
+39024,17 Jan 2014,v Titans,Potchefstroom,1,0,0,0,0,0
+39024,19 Jan 2014,v Warriors,East London,1,0,0,0,0,0
+39024,22 Jan 2014,v Dolphins,Durban,1,0,0,0,0,0
+39024,16 May 2014,v Sussex,Hove,2,0,0,0,0,0
+39024,18 May 2014,v Somerset,Taunton,2,0,0,0,0,0
+39024,30 May 2014,v Middlesex,The Oval,1,0,0,0,0,0
+39024,6 Jun 2014,v Essex,The Oval,2,0,0,0,0,0
+39024,13 Jun 2014,v Sussex,The Oval,1,0,0,0,0,0
+39024,20 Jun 2014,v Glamorgan,Cardiff,2,1,1,0,0,1
+39024,27 Jun 2014,v Hampshire,The Oval,1,0,0,0,0,0
+39024,2 Jul 2014,v Kent,The Oval,1,0,0,0,0,0
+39024,4 Jul 2014,v Essex,Chelmsford,2,0,0,0,0,0
+39024,11 Jul 2014,v Glamorgan,The Oval,1,0,0,0,0,0
+39024,16 Jul 2014,v Somerset,The Oval,1,0,0,0,0,0
+39024,18 Jul 2014,v Gloucs,Cheltenham,2,2,2,0,0,2
+39024,24 Jul 2014,v Middlesex,Lord's,1,0,0,0,0,0
+39024,25 Jul 2014,v Kent,Canterbury,1,0,0,0,0,0
+39024,2 Aug 2014,v Worcs,The Oval,1,0,0,0,0,0
+39024,23 Aug 2014,v Warwickshire,Birmingham,1,0,0,0,0,0
+39024,16 May 2015,v RR,Brabourne,1,0,0,0,0,0
+39024,29 May 2015,v Kent,Beckenham,1,0,0,0,0,0
+39024,5 Jun 2015,v Essex,The Oval,2,0,0,0,0,0
+39024,14 Jun 2015,v Sussex,Arundel,1,0,0,0,0,0
+39024,26 Jun 2015,v Glamorgan,Cardiff,2,0,0,0,0,0
+39024,1 Jul 2015,v Gloucs,The Oval,1,0,0,0,0,0
+39024,3 Jul 2015,v Middlesex,The Oval,1,0,0,0,0,0
+39024,10 Jul 2015,v Hampshire,Southampton,1,0,0,0,0,0
+39024,17 Jul 2015,v Somerset,The Oval,2,1,1,0,0,1
+39024,23 Jul 2015,v Middlesex,Lord's,1,0,0,0,0,0
+39024,14 Feb 2016,v Kings,Sharjah,1,0,0,0,0,0
+39024,17 Feb 2016,v Qalandars,Dubai (DICS),1,2,2,0,0,2
+39024,20 May 2016,v Essex,Chelmsford,2,2,2,0,0,2
+39024,26 May 2016,v Glamorgan,The Oval,2,0,0,0,0,0
+39024,21 Jul 2016,v Middlesex,Lord's,2,0,0,0,0,0
+39024,22 Jul 2016,v Sussex,The Oval,1,0,0,0,0,0
+39024,29 Jul 2016,v Kent,The Oval,2,0,0,0,0,0

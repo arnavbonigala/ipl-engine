@@ -1,0 +1,204 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+319439,6 Feb 2009,v Auckland,New Plymouth,2,1,1,0,0,1
+319439,11 Feb 2009,v Northern Dis,Hamilton,2,0,0,0,0,0
+319439,15 Feb 2009,v Canterbury,Christchurch,1,1,1,0,0,1
+319439,11 Sep 2010,v CSK,Durban,1,0,0,0,0,0
+319439,22 Sep 2010,v Wayamba,Gqeberha,1,0,0,0,0,0
+319439,27 Dec 2010,v Wellington,Wellington,2,0,0,0,0,0
+319439,29 Dec 2010,v Auckland,New Plymouth,1,0,0,0,0,0
+319439,16 Nov 2012,v Wellington,Wellington,1,0,0,0,0,0
+319439,21 Dec 2012,v South Africa,Durban,2,0,0,0,0,0
+319439,23 Dec 2012,v South Africa,East London,1,0,0,0,0,0
+319439,26 Dec 2012,v South Africa,Gqeberha,1,1,1,0,0,1
+319439,9 Feb 2013,v England,Auckland,1,0,0,0,0,0
+319439,12 Feb 2013,v England,Hamilton,2,1,1,0,0,1
+319439,15 Feb 2013,v England,Wellington,2,0,0,0,0,0
+319439,25 Jun 2013,v England,The Oval,2,0,0,0,0,0
+319439,27 Jun 2013,v England,The Oval,1,0,0,0,0,0
+319439,28 Jun 2013,v Durham,Chester-le-Street,2,0,0,0,0,0
+319439,1 Jul 2013,v Notts,Manchester,2,0,0,0,0,0
+319439,2 Jul 2013,v Derbyshire,Derby,2,0,0,0,0,0
+319439,5 Jul 2013,v Yorkshire,Leeds,1,0,0,0,0,0
+319439,7 Jul 2013,v Leics,Manchester,2,0,0,0,0,0
+319439,12 Jul 2013,v Derbyshire,Manchester,2,0,0,0,0,0
+319439,14 Jul 2013,v Durham,Manchester,2,0,0,0,0,0
+319439,23 Jul 2013,v Leics,Leicester,1,0,0,0,0,0
+319439,24 Jul 2013,v Yorkshire,Manchester,1,0,0,0,0,0
+319439,28 Jul 2013,v Notts,Nottingham,1,0,0,0,0,0
+319439,7 Aug 2013,v Hampshire,Southampton,1,1,1,0,0,1
+319439,6 Nov 2013,v Bangladesh,Mirpur,2,1,1,0,0,1
+319439,21 Nov 2013,v Sri Lanka,Pallekele,2,0,0,0,0,0
+319439,29 Nov 2013,v Wellington,Auckland,2,0,0,0,0,0
+319439,30 Nov 2013,v Canterbury,Auckland,1,0,0,0,0,0
+319439,15 Jan 2014,v West Indies,Wellington,1,0,0,0,0,0
+319439,22 Mar 2014,v England,Chattogram,1,1,1,0,0,1
+319439,24 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+319439,29 Mar 2014,v Netherlands,Chattogram,1,0,0,0,0,0
+319439,31 Mar 2014,v Sri Lanka,Chattogram,1,0,0,0,0,0
+319439,18 Jul 2014,v Northants,Northampton,2,0,0,0,0,0
+319439,25 Jul 2014,v Derbyshire,Worcester,2,1,1,0,0,1
+319439,2 Aug 2014,v Surrey,The Oval,2,0,0,0,0,0
+319439,31 Oct 2014,v South Island,Hamilton,1,0,0,0,0,0
+319439,1 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+319439,8 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+319439,14 Nov 2014,v Wellington,Auckland,2,0,0,0,0,0
+319439,15 Nov 2014,v Central D,Auckland,-,TDNF,-,-,-,-
+319439,16 Nov 2014,v Northern Dis,Auckland,1,1,1,0,0,1
+319439,4 Dec 2014,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+319439,19 Apr 2015,v RCB,Bengaluru,2,0,0,0,0,0
+319439,23 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+319439,25 Apr 2015,v SRH,Wankhede,2,0,0,0,0,0
+319439,1 May 2015,v RR,Wankhede,2,0,0,0,0,0
+319439,3 May 2015,v Kings XI,Mohali,2,0,0,0,0,0
+319439,5 May 2015,v Daredevils,Wankhede,1,0,0,0,0,0
+319439,8 May 2015,v CSK,Chennai,1,0,0,0,0,0
+319439,10 May 2015,v RCB,Wankhede,1,0,0,0,0,0
+319439,14 May 2015,v KKR,Wankhede,2,0,0,0,0,0
+319439,17 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+319439,19 May 2015,v CSK,Wankhede,2,0,0,0,0,0
+319439,24 May 2015,v CSK,Eden Gardens,2,0,0,0,0,0
+319439,23 Jun 2015,v England,Manchester,1,0,0,0,0,0
+319439,2 Jul 2015,v Sussex,Lord's,2,0,0,0,0,0
+319439,10 Jul 2015,v Essex,Richmond,1,0,0,0,0,0
+319439,17 Jul 2015,v Essex,Chelmsford,2,0,0,0,0,0
+319439,23 Jul 2015,v Surrey,Lord's,2,2,2,0,0,2
+319439,9 Aug 2015,v Zimbabwe,Harare,2,0,0,0,0,0
+319439,14 Aug 2015,v South Africa,Durban,2,0,0,0,0,0
+319439,16 Aug 2015,v South Africa,Centurion,2,0,0,0,0,0
+319439,18 Nov 2015,v Canterbury,Auckland,2,1,1,0,0,1
+319439,22 Nov 2015,v Otago,Auckland,2,1,1,0,0,1
+319439,26 Nov 2015,v Canterbury,Christchurch,2,0,0,0,0,0
+319439,29 Nov 2015,v Wellington,Wellington,1,1,1,0,0,1
+319439,5 Dec 2015,v Northern Dis,Hamilton,2,0,0,0,0,0
+319439,6 Dec 2015,v Wellington,Auckland,2,0,0,0,0,0
+319439,11 Dec 2015,v Otago,New Plymouth,1,0,0,0,0,0
+319439,12 Dec 2015,v Canterbury,New Plymouth,1,0,0,0,0,0
+319439,13 Dec 2015,v Otago,New Plymouth,2,1,1,0,0,1
+319439,7 Jan 2016,v Sri Lanka,Mount Maunganui,2,1,1,0,0,1
+319439,10 Jan 2016,v Sri Lanka,Auckland,1,1,1,0,0,1
+319439,17 Jan 2016,v Pakistan,Hamilton,1,0,0,0,0,0
+319439,22 Jan 2016,v Pakistan,Wellington,2,1,1,0,0,1
+319439,28 Feb 2016,v South Island,Wellington,1,0,0,0,0,0
+319439,18 Mar 2016,v Australia,Dharamsala,2,0,0,0,0,0
+319439,22 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+319439,26 Mar 2016,v Bangladesh,Eden Gardens,2,0,0,0,0,0
+319439,30 Mar 2016,v England,Delhi,2,0,0,0,0,0
+319439,9 Apr 2016,v Supergiants,Wankhede,2,0,0,0,0,0
+319439,13 Apr 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+319439,16 Apr 2016,v Guj Lions,Wankhede,2,0,0,0,0,0
+319439,18 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+319439,20 Apr 2016,v RCB,Wankhede,1,0,0,0,0,0
+319439,23 Apr 2016,v Daredevils,Delhi,1,0,0,0,0,0
+319439,25 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+319439,28 Apr 2016,v KKR,Wankhede,1,0,0,0,0,0
+319439,1 May 2016,v Supergiants,Pune,1,0,0,0,0,0
+319439,8 May 2016,v SRH,Visakhapatnam,1,0,0,0,0,0
+319439,11 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+319439,13 May 2016,v Kings XI,Visakhapatnam,2,0,0,0,0,0
+319439,15 May 2016,v Daredevils,Visakhapatnam,2,0,0,0,0,0
+319439,21 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+319439,10 Jun 2016,v Essex,Chelmsford,2,1,1,0,0,1
+319439,16 Jun 2016,v Sussex,Lord's,-,TDNF,-,-,-,-
+319439,17 Jun 2016,v Surrey,The Oval,1,0,0,0,0,0
+319439,4 Dec 2016,v Otago,Auckland,2,1,1,0,0,1
+319439,11 Dec 2016,v Canterbury,Christchurch,1,0,0,0,0,0
+319439,17 Dec 2016,v Northern Dis,Hamilton,2,0,0,0,0,0
+319439,6 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+319439,9 Apr 2017,v KKR,Wankhede,1,1,1,0,0,1
+319439,12 Apr 2017,v SRH,Wankhede,1,0,0,0,0,0
+319439,14 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+319439,16 Apr 2017,v Guj Lions,Wankhede,1,0,0,0,0,0
+319439,20 Apr 2017,v Kings XI,Indore,1,0,0,0,0,0
+319439,22 Apr 2017,v Daredevils,Wankhede,2,0,0,0,0,0
+319439,24 Apr 2017,v Supergiant,Wankhede,1,0,0,0,0,0
+319439,29 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+319439,1 May 2017,v RCB,Wankhede,1,0,0,0,0,0
+319439,6 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+319439,8 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+319439,11 May 2017,v Kings XI,Wankhede,1,0,0,0,0,0
+319439,16 May 2017,v Supergiant,Wankhede,1,0,0,0,0,0
+319439,4 Aug 2017,v Trinbago,Gros Islet,2,0,0,0,0,0
+319439,7 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+319439,10 Aug 2017,v Tridents,Gros Islet,1,0,0,0,0,0
+319439,12 Aug 2017,v Patriots,Gros Islet,1,0,0,0,0,0
+319439,13 Aug 2017,v Amazon,Gros Islet,2,0,0,0,0,0
+319439,15 Aug 2017,v Tallawahs,Gros Islet,2,1,1,0,0,1
+319439,19 Aug 2017,v Patriots,Basseterre,-,TDNF,-,-,-,-
+319439,22 Aug 2017,v Amazon,Providence,2,0,0,0,0,0
+319439,19 Dec 2017,v Sixers,Sydney,1,0,0,0,0,0
+319439,22 Dec 2017,v Strikers,Adelaide,1,0,0,0,0,0
+319439,27 Dec 2017,v Heat,Brisbane,2,0,0,0,0,0
+319439,30 Dec 2017,v Hurricanes,Launceston,2,0,0,0,0,0
+319439,1 Jan 2018,v Hurricanes,Sydney,1,1,1,0,0,1
+319439,7 Jan 2018,v Strikers,Sydney,1,0,0,0,0,0
+319439,11 Jan 2018,v Scorchers,Sydney,2,0,0,0,0,0
+319439,13 Jan 2018,v Sixers,Sydney,2,0,0,0,0,0
+319439,20 Jan 2018,v Stars,Melbourne,1,1,1,0,0,1
+319439,24 Jan 2018,v Renegades,Canberra,1,1,1,0,0,1
+319439,9 Mar 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+319439,11 Mar 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+319439,14 Mar 2018,v Gladiators,Sharjah,2,0,0,0,0,0
+319439,16 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+319439,7 Apr 2018,v CSK,Wankhede,2,0,0,0,0,0
+319439,17 Apr 2018,v RCB,Wankhede,2,0,0,0,0,0
+319439,22 Apr 2018,v RR,Jaipur,2,0,0,0,0,0
+319439,24 Apr 2018,v SRH,Wankhede,1,0,0,0,0,0
+319439,28 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+319439,1 May 2018,v RCB,Bengaluru,1,0,0,0,0,0
+319439,4 May 2018,v Kings XI,Indore,1,0,0,0,0,0
+319439,6 May 2018,v KKR,Wankhede,2,0,0,0,0,0
+319439,9 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+319439,13 May 2018,v RR,Wankhede,2,0,0,0,0,0
+319439,16 May 2018,v Kings XI,Wankhede,2,0,0,0,0,0
+319439,31 May 2018,v West Indies,Lord's,1,0,0,0,0,0
+319439,8 Aug 2018,v Trinbago,Port of Spain,1,0,0,0,0,0
+319439,11 Aug 2018,v Amazon,Providence,1,0,0,0,0,0
+319439,14 Aug 2018,v Tallawahs,Kingston,2,0,0,0,0,0
+319439,16 Aug 2018,v Trinbago,Gros Islet,2,0,0,0,0,0
+319439,17 Aug 2018,v Tridents,Gros Islet,2,0,0,0,0,0
+319439,21 Aug 2018,v Patriots,Gros Islet,2,0,0,0,0,0
+319439,24 Aug 2018,v Amazon,Gros Islet,1,0,0,0,0,0
+319439,25 Aug 2018,v Tallawahs,Gros Islet,1,0,0,0,0,0
+319439,4 Oct 2018,v Yorkshire,Abu Dhabi,1,0,0,0,0,0
+319439,6 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+319439,7 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+319439,9 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+319439,11 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+319439,12 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+319439,1 Jan 2019,v Canterbury,Auckland,2,1,1,0,0,1
+319439,6 Jan 2019,v Northern Dis,Hamilton,1,1,1,0,0,1
+319439,13 Jan 2019,v Otago,Dunedin,-,TDNF,-,-,-,-
+319439,18 Jan 2019,v Wellington,Wellington,1,0,0,0,0,0
+319439,20 Jan 2019,v Otago,Auckland,2,0,0,0,0,0
+319439,26 Jan 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+319439,2 Feb 2019,v Northern Dis,Auckland,1,0,0,0,0,0
+319439,9 Feb 2019,v Central D,Auckland,1,1,1,0,0,1
+319439,15 Feb 2019,v Central D,Auckland,1,0,0,0,0,0
+319439,24 Mar 2019,v DC,Wankhede,1,0,0,0,0,0
+319439,28 Mar 2019,v RCB,Bengaluru,2,0,0,0,0,0
+319439,30 Mar 2019,v Kings XI,Mohali,2,0,0,0,0,0
+319439,5 May 2019,v KKR,Wankhede,1,0,0,0,0,0
+319439,12 May 2019,v CSK,Hyderabad,2,0,0,0,0,0
+319439,14 Dec 2019,v Otago,Auckland,1,0,0,0,0,0
+319439,17 Dec 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+319439,19 Dec 2019,v Otago,Dunedin,1,0,0,0,0,0
+319439,22 Dec 2019,v Northern Dis,Hamilton,1,0,0,0,0,0
+319439,28 Dec 2019,v Central D,New Plymouth,2,0,0,0,0,0
+319439,30 Dec 2019,v Wellington,Auckland,2,0,0,0,0,0
+319439,1 Jan 2020,v Canterbury,Auckland,1,0,0,0,0,0
+319439,4 Jan 2020,v Central D,Auckland,1,0,0,0,0,0
+319439,10 Jan 2020,v Northern Dis,Auckland,2,1,1,0,0,1
+319439,12 Jan 2020,v Wellington,Wellington,1,0,0,0,0,0
+319439,17 Jan 2020,v Otago,Dunedin,1,0,0,0,0,0
+319439,19 Jan 2020,v Wellington,Wellington,1,0,0,0,0,0
+319439,6 Mar 2020,v Sultans,Lahore,1,0,0,0,0,0
+319439,28 Dec 2020,v Auckland,Alexandra,2,0,0,0,0,0
+319439,29 Dec 2020,v Canterbury,Alexandra,1,0,0,0,0,0
+319439,2 Jan 2021,v Northern Dis,Mount Maunganui,1,2,2,0,0,2
+319439,8 Jan 2021,v Central D,Dunedin,1,1,1,0,0,1
+319439,14 Jan 2021,v Wellington,Dunedin,2,0,0,0,0,0
+319439,18 Jan 2021,v Central D,New Plymouth,2,0,0,0,0,0
+319439,24 Jan 2021,v Wellington,Wellington,2,0,0,0,0,0
+319439,30 Jan 2021,v Canterbury,Christchurch,2,1,1,0,0,1
+319439,1 Feb 2021,v Auckland,Auckland,1,0,0,0,0,0
+319439,6 Feb 2021,v Northern Dis,Dunedin,1,0,0,0,0,0

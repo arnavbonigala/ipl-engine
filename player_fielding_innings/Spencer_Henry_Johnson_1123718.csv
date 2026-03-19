@@ -1,0 +1,72 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1123718,11 Jan 2023,v Scorchers,Brisbane,2,0,0,0,0,0
+1123718,14 Jan 2023,v Strikers,Adelaide,2,1,1,0,0,1
+1123718,16 Jan 2023,v Stars,Melbourne,1,1,1,0,0,1
+1123718,20 Jan 2023,v Hurricanes,Brisbane,2,0,0,0,0,0
+1123718,22 Jan 2023,v Stars,Brisbane,2,0,0,0,0,0
+1123718,25 Jan 2023,v Hurricanes,Launceston,1,0,0,0,0,0
+1123718,27 Jan 2023,v Thunder,Sydney,2,0,0,0,0,0
+1123718,29 Jan 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+1123718,2 Feb 2023,v Sixers,Sydney,1,1,1,0,0,1
+1123718,4 Feb 2023,v Scorchers,Perth,2,0,0,0,0,0
+1123718,9 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+1123718,11 Aug 2023,v N S-Chargers,Leeds,2,0,0,0,0,0
+1123718,13 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+1123718,15 Aug 2023,v Spirit,The Oval,2,0,0,0,0,0
+1123718,19 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+1123718,21 Aug 2023,v Rockets,The Oval,1,0,0,0,0,0
+1123718,30 Aug 2023,v South Africa,Durban,2,0,0,0,0,0
+1123718,3 Sep 2023,v South Africa,Durban,1,0,0,0,0,0
+1123718,7 Dec 2023,v Stars,Brisbane,2,0,0,0,0,0
+1123718,12 Dec 2023,v Thunder,Canberra,2,0,0,0,0,0
+1123718,21 Dec 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+1123718,27 Dec 2023,v Thunder,Brisbane,2,0,0,0,0,0
+1123718,3 Jan 2024,v Sixers,Coffs Harbour,1,0,0,0,0,0
+1123718,7 Jan 2024,v Hurricanes,Brisbane,2,1,1,0,0,1
+1123718,10 Jan 2024,v Scorchers,Brisbane,2,1,1,0,0,1
+1123718,13 Jan 2024,v Scorchers,Perth,1,0,0,0,0,0
+1123718,19 Jan 2024,v Sixers,Carrara,1,1,1,0,0,1
+1123718,22 Jan 2024,v Strikers,Carrara,2,0,0,0,0,0
+1123718,24 Jan 2024,v Sixers,Sydney,2,1,1,0,0,1
+1123718,11 Feb 2024,v West Indies,Adelaide,2,0,0,0,0,0
+1123718,13 Feb 2024,v West Indies,Perth,1,0,0,0,0,0
+1123718,25 Feb 2024,v New Zealand,Auckland,2,0,0,0,0,0
+1123718,24 Mar 2024,v MI,Ahmedabad,2,1,1,0,0,1
+1123718,26 Mar 2024,v CSK,Chennai,1,0,0,0,0,0
+1123718,7 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+1123718,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+1123718,17 Apr 2024,v DC,Ahmedabad,2,1,1,0,0,1
+1123718,30 May 2024,v Hampshire,Southampton,1,0,0,0,0,0
+1123718,31 May 2024,v Glamorgan,Cardiff,2,2,2,0,0,2
+1123718,2 Jun 2024,v Somerset,The Oval,2,2,2,0,0,2
+1123718,7 Jun 2024,v Sussex,The Oval,1,1,1,0,0,1
+1123718,14 Jun 2024,v Gloucs,The Oval,1,0,0,0,0,0
+1123718,15 Jun 2024,v Sussex,Hove,2,0,0,0,0,0
+1123718,20 Jun 2024,v Middlesex,Lord's,2,0,0,0,0,0
+1123718,21 Jun 2024,v Glamorgan,The Oval,1,0,0,0,0,0
+1123718,5 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+1123718,7 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+1123718,9 Jul 2024,v Seattle,Dallas,2,0,0,0,0,0
+1123718,14 Jul 2024,v Washington,Morrisville,2,0,0,0,0,0
+1123718,17 Jul 2024,v Seattle,Morrisville,1,0,0,0,0,0
+1123718,21 Jul 2024,v MI New York,Dallas,2,0,0,0,0,0
+1123718,28 Jul 2024,v Fire,Cardiff,2,0,0,0,0,0
+1123718,2 Aug 2024,v N S-Chargers,The Oval,1,1,1,0,0,1
+1123718,4 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+1123718,6 Aug 2024,v Originals,Manchester,2,0,0,0,0,0
+1123718,8 Aug 2024,v Brave,The Oval,1,2,2,0,0,2
+1123718,11 Aug 2024,v Spirit,The Oval,1,0,0,0,0,0
+1123718,14 Nov 2024,v Pakistan,Brisbane,2,0,0,0,0,0
+1123718,16 Nov 2024,v Pakistan,Sydney,2,0,0,0,0,0
+1123718,18 Nov 2024,v Pakistan,Hobart,1,0,0,0,0,0
+1123718,26 Dec 2024,v Scorchers,Perth,1,0,0,0,0,0
+1123718,29 Dec 2024,v Sixers,Brisbane,2,0,0,0,0,0
+1123718,1 Jan 2025,v Stars,Brisbane,2,1,1,0,0,1
+1123718,6 Jan 2025,v Thunder,Brisbane,1,0,0,0,0,0
+1123718,11 Jan 2025,v Strikers,Adelaide,1,0,0,0,0,0
+1123718,16 Jan 2025,v Hurricanes,Brisbane,2,0,0,0,0,0
+1123718,18 Jan 2025,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+1123718,22 Mar 2025,v RCB,Eden Gardens,2,1,1,0,0,1
+1123718,26 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+1123718,31 Mar 2025,v MI,Wankhede,2,0,0,0,0,0
+1123718,8 Apr 2025,v LSG,Eden Gardens,1,0,0,0,0,0

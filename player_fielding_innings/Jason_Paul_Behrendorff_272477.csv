@@ -1,0 +1,186 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+272477,29 Dec 2012,v Renegades,W.A.C.A,2,0,0,0,0,0
+272477,1 Jan 2013,v Hurricanes,Hobart,2,0,0,0,0,0
+272477,4 Jan 2013,v Thunder,W.A.C.A,1,0,0,0,0,0
+272477,10 Jan 2013,v Strikers,Adelaide,2,0,0,0,0,0
+272477,16 Jan 2013,v Stars,W.A.C.A,1,0,0,0,0,0
+272477,19 Jan 2013,v Heat,W.A.C.A,1,0,0,0,0,0
+272477,23 Sep 2013,v Lions,Ahmedabad,-,TDNF,-,-,-,-
+272477,25 Sep 2013,v Otago,Jaipur,1,0,0,0,0,0
+272477,29 Sep 2013,v RR,Jaipur,2,0,0,0,0,0
+272477,2 Oct 2013,v MI,Delhi,2,1,1,0,0,1
+272477,22 Dec 2013,v Heat,Brisbane,2,0,0,0,0,0
+272477,26 Dec 2013,v Renegades,W.A.C.A,2,0,0,0,0,0
+272477,3 Jan 2014,v Thunder,W.A.C.A,1,0,0,0,0,0
+272477,7 Jan 2014,v Hurricanes,W.A.C.A,2,1,1,0,0,1
+272477,10 Jan 2014,v Sixers,Sydney,2,0,0,0,0,0
+272477,16 Jan 2014,v Strikers,W.A.C.A,2,0,0,0,0,0
+272477,27 Jan 2014,v Stars,Melbourne,1,0,0,0,0,0
+272477,5 Feb 2014,v Sixers,Sydney,2,0,0,0,0,0
+272477,7 Feb 2014,v Hurricanes,W.A.C.A,2,0,0,0,0,0
+272477,20 Sep 2014,v Dolphins,Mohali,1,0,0,0,0,0
+272477,24 Sep 2014,v KKR,Hyderabad,2,1,1,0,0,1
+272477,22 Dec 2014,v Strikers,W.A.C.A,2,1,1,0,0,1
+272477,26 Dec 2014,v Renegades,W.A.C.A,2,1,1,0,0,1
+272477,29 Dec 2014,v Sixers,Sydney,2,0,0,0,0,0
+272477,1 Jan 2015,v Thunder,W.A.C.A,1,1,1,0,0,1
+272477,6 Jan 2015,v Strikers,Adelaide,2,2,2,0,0,2
+272477,8 Jan 2015,v Heat,W.A.C.A,1,0,0,0,0,0
+272477,11 Jan 2015,v Hurricanes,Hobart,2,1,1,0,0,1
+272477,21 Jan 2015,v Stars,Melbourne,2,0,0,0,0,0
+272477,25 Jan 2015,v Stars,W.A.C.A,2,0,0,0,0,0
+272477,28 Jan 2015,v Sixers,Canberra,1,0,0,0,0,0
+272477,26 Dec 2015,v Heat,W.A.C.A,1,1,1,0,0,1
+272477,30 Dec 2015,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+272477,2 Jan 2016,v Sixers,W.A.C.A,1,0,0,0,0,0
+272477,5 Jan 2016,v Strikers,Adelaide,1,0,0,0,0,0
+272477,7 Jan 2016,v Thunder,Sydney,2,0,0,0,0,0
+272477,10 Jan 2016,v Hurricanes,Hobart,2,0,0,0,0,0
+272477,22 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+272477,7 Oct 2017,v India,Ranchi,2,0,0,0,0,0
+272477,10 Oct 2017,v India,Guwahati,1,1,1,0,0,1
+272477,17 Nov 2018,v South Africa,Carrara,1,0,0,0,0,0
+272477,21 Nov 2018,v India,Brisbane,2,3,3,0,0,3
+272477,23 Nov 2018,v India,Melbourne,-,TDNF,-,-,-,-
+272477,20 Dec 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+272477,22 Dec 2018,v Sixers,Sydney,1,0,0,0,0,0
+272477,26 Dec 2018,v Strikers,Perth,1,1,1,0,0,1
+272477,30 Dec 2018,v Hurricanes,Launceston,2,0,0,0,0,0
+272477,2 Jan 2019,v Thunder,Sydney,1,1,1,0,0,1
+272477,5 Jan 2019,v Heat,Perth,2,0,0,0,0,0
+272477,24 Jan 2019,v Thunder,Perth,2,0,0,0,0,0
+272477,28 Jan 2019,v Renegades,Perth,1,1,1,0,0,1
+272477,1 Feb 2019,v Heat,Brisbane,2,1,1,0,0,1
+272477,3 Feb 2019,v Stars,Perth,2,0,0,0,0,0
+272477,9 Feb 2019,v Strikers,Adelaide,2,1,1,0,0,1
+272477,24 Feb 2019,v India,Visakhapatnam,1,0,0,0,0,0
+272477,27 Feb 2019,v India,Bengaluru,1,0,0,0,0,0
+272477,3 Apr 2019,v CSK,Wankhede,2,0,0,0,0,0
+272477,6 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+272477,10 Apr 2019,v Kings XI,Wankhede,1,0,0,0,0,0
+272477,13 Apr 2019,v RR,Wankhede,2,0,0,0,0,0
+272477,15 Apr 2019,v RCB,Wankhede,1,0,0,0,0,0
+272477,22 Aug 2019,v Essex,Hove,1,1,1,0,0,1
+272477,26 Aug 2019,v Glamorgan,Cardiff,1,1,1,0,0,1
+272477,12 Dec 2020,v Renegades,Hobart,2,0,0,0,0,0
+272477,22 Dec 2020,v Thunder,Canberra,2,1,1,0,0,1
+272477,28 Dec 2020,v Strikers,Adelaide,1,0,0,0,0,0
+272477,31 Dec 2020,v Strikers,Adelaide,1,1,1,0,0,1
+272477,3 Jan 2021,v Renegades,Perth,2,1,1,0,0,1
+272477,6 Jan 2021,v Sixers,Perth,2,0,0,0,0,0
+272477,9 Jan 2021,v Thunder,Perth,2,0,0,0,0,0
+272477,12 Jan 2021,v Hurricanes,Perth,1,0,0,0,0,0
+272477,16 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+272477,19 Jan 2021,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+272477,22 Jan 2021,v Hurricanes,Melbourne (Docklands),2,0,0,0,0,0
+272477,23 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+272477,26 Jan 2021,v Heat,Adelaide,1,0,0,0,0,0
+272477,30 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+272477,4 Feb 2021,v Heat,Canberra,2,1,1,0,0,1
+272477,6 Feb 2021,v Sixers,Sydney,1,1,1,0,0,1
+272477,14 Jul 2021,v West Indies,Gros Islet,2,1,1,0,0,1
+272477,16 Jul 2021,v West Indies,Gros Islet,1,1,1,0,0,1
+272477,8 Dec 2021,v Heat,Perth,2,1,1,0,0,1
+272477,11 Dec 2021,v Strikers,Sydney,2,0,0,0,0,0
+272477,14 Dec 2021,v Hurricanes,Hobart,2,1,1,0,0,1
+272477,20 Dec 2021,v Hurricanes,Hobart,2,0,0,0,0,0
+272477,22 Dec 2021,v Renegades,Melbourne (Docklands),2,2,2,0,0,2
+272477,26 Dec 2021,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+272477,28 Dec 2021,v Thunder,Canberra,1,0,0,0,0,0
+272477,2 Jan 2022,v Stars,Melbourne,2,0,0,0,0,0
+272477,11 Jan 2022,v Stars,Geelong,2,0,0,0,0,0
+272477,14 Jan 2022,v Strikers,Adelaide,2,0,0,0,0,0
+272477,17 Jan 2022,v Heat,Melbourne (Docklands),1,0,0,0,0,0
+272477,22 Jan 2022,v Sixers,Melbourne (Docklands),2,1,1,0,0,1
+272477,28 Jan 2022,v Sixers,Melbourne (Docklands),2,1,1,0,0,1
+272477,3 Jun 2022,v Sussex,Hove,2,0,0,0,0,0
+272477,5 Jun 2022,v Kent,Canterbury,1,0,0,0,0,0
+272477,7 Jun 2022,v Hampshire,Radlett,2,0,0,0,0,0
+272477,9 Jun 2022,v Surrey,Lord's,1,1,1,0,0,1
+272477,10 Jun 2022,v Essex,Chelmsford,1,0,0,0,0,0
+272477,17 Jun 2022,v Surrey,The Oval,2,1,1,0,0,1
+272477,19 Jun 2022,v Kent,Lord's,1,2,2,0,0,2
+272477,21 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+272477,23 Jun 2022,v Essex,Lord's,1,0,0,0,0,0
+272477,1 Jul 2022,v Somerset,Lord's,2,1,1,0,0,1
+272477,3 Jul 2022,v Gloucs,Bristol,2,0,0,0,0,0
+272477,17 Dec 2022,v Sixers,Perth,2,0,0,0,0,0
+272477,19 Dec 2022,v Hurricanes,Launceston,1,1,1,0,0,1
+272477,23 Dec 2022,v Stars,Melbourne,2,0,0,0,0,0
+272477,26 Dec 2022,v Strikers,Perth,1,0,0,0,0,0
+272477,29 Dec 2022,v Stars,Perth,1,0,0,0,0,0
+272477,1 Jan 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+272477,4 Jan 2023,v Thunder,Perth,2,0,0,0,0,0
+272477,7 Jan 2023,v Heat,Perth,1,1,1,0,0,1
+272477,11 Jan 2023,v Heat,Brisbane,1,0,0,0,0,0
+272477,15 Jan 2023,v Sixers,Sydney,1,0,0,0,0,0
+272477,18 Jan 2023,v Hurricanes,Perth,1,1,1,0,0,1
+272477,22 Jan 2023,v Renegades,Perth,2,0,0,0,0,0
+272477,28 Jan 2023,v Sixers,Perth,1,0,0,0,0,0
+272477,4 Feb 2023,v Heat,Perth,1,0,0,0,0,0
+272477,2 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+272477,8 Apr 2023,v CSK,Wankhede,2,0,0,0,0,0
+272477,11 Apr 2023,v DC,Delhi,1,1,1,0,0,1
+272477,18 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+272477,22 Apr 2023,v Punjab Kings,Wankhede,1,0,0,0,0,0
+272477,25 Apr 2023,v GT,Ahmedabad,1,1,1,0,0,1
+272477,9 May 2023,v RCB,Wankhede,1,0,0,0,0,0
+272477,12 May 2023,v GT,Wankhede,2,0,0,0,0,0
+272477,16 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+272477,21 May 2023,v SRH,Wankhede,1,0,0,0,0,0
+272477,24 May 2023,v LSG,Chennai,2,0,0,0,0,0
+272477,26 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+272477,1 Sep 2023,v South Africa,Durban,1,0,0,0,0,0
+272477,23 Nov 2023,v India,Visakhapatnam,2,0,0,0,0,0
+272477,28 Nov 2023,v India,Guwahati,1,0,0,0,0,0
+272477,1 Dec 2023,v India,Raipur,1,0,0,0,0,0
+272477,3 Dec 2023,v India,Bengaluru,1,1,1,0,0,1
+272477,10 Dec 2023,v Renegades,Geelong,-,TDNF,-,-,-,-
+272477,13 Dec 2023,v Stars,Melbourne,1,0,0,0,0,0
+272477,20 Dec 2023,v Hurricanes,Perth,1,0,0,0,0,0
+272477,26 Dec 2023,v Renegades,Perth,2,0,0,0,0,0
+272477,3 Jan 2024,v Strikers,Perth,2,1,1,0,0,1
+272477,5 Jan 2024,v Strikers,Adelaide,2,0,0,0,0,0
+272477,10 Jan 2024,v Heat,Brisbane,1,0,0,0,0,0
+272477,13 Jan 2024,v Heat,Perth,2,0,0,0,0,0
+272477,16 Jan 2024,v Sixers,Perth,2,0,0,0,0,0
+272477,20 Jan 2024,v Strikers,Perth,1,1,1,0,0,1
+272477,9 Feb 2024,v West Indies,Hobart,2,0,0,0,0,0
+272477,11 Feb 2024,v West Indies,Adelaide,2,0,0,0,0,0
+272477,13 Feb 2024,v West Indies,Perth,1,0,0,0,0,0
+272477,2 Jul 2024,v Galle,Pallekele,2,0,0,0,0,0
+272477,3 Jul 2024,v Sixers,Pallekele,1,0,0,0,0,0
+272477,13 Jul 2024,v Kandy,Colombo (RPS),1,0,0,0,0,0
+272477,14 Jul 2024,v Colombo,Colombo (RPS),2,0,0,0,0,0
+272477,20 Jul 2024,v Kandy,Colombo (RPS),2,0,0,0,0,0
+272477,21 Jul 2024,v Galle,Colombo (RPS),1,0,0,0,0,0
+272477,15 Dec 2024,v Stars,Perth,1,1,1,0,0,1
+272477,21 Dec 2024,v Hurricanes,Hobart,2,0,0,0,0,0
+272477,23 Dec 2024,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+272477,26 Dec 2024,v Heat,Perth,2,0,0,0,0,0
+272477,31 Dec 2024,v Strikers,Adelaide,1,1,1,0,0,1
+272477,3 Jan 2025,v Thunder,Perth,2,1,1,0,0,1
+272477,7 Jan 2025,v Renegades,Perth,2,1,1,0,0,1
+272477,11 Jan 2025,v Sixers,Sydney,1,0,0,0,0,0
+272477,13 Jan 2025,v Thunder,Sydney,1,1,1,0,0,1
+272477,18 Jan 2025,v Strikers,Perth,1,0,0,0,0,0
+272477,22 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+272477,25 Jan 2025,v Paarl Royals,Paarl,1,0,0,0,0,0
+272477,2 Feb 2025,v MI Cape Town,Cape Town,1,1,1,0,0,1
+272477,5 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+272477,9 Aug 2025,v Originals,The Oval,1,1,1,0,0,1
+272477,12 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+272477,16 Aug 2025,v Fire,The Oval,2,0,0,0,0,0
+272477,18 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+272477,21 Aug 2025,v Rockets,The Oval,1,0,0,0,0,0
+272477,23 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+272477,25 Aug 2025,v Spirit,The Oval,1,0,0,0,0,0
+272477,31 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+272477,15 Dec 2025,v Heat,Geelong,2,1,1,0,0,1
+272477,21 Dec 2025,v Hurricanes,Geelong,2,0,0,0,0,0
+272477,29 Dec 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+272477,1 Jan 2026,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+272477,4 Jan 2026,v Stars,Melbourne,1,0,0,0,0,0
+272477,7 Jan 2026,v Scorchers,Perth,1,0,0,0,0,0
+272477,10 Jan 2026,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+272477,12 Jan 2026,v Thunder,Sydney,2,0,0,0,0,0

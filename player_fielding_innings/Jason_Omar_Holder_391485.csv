@@ -1,0 +1,343 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+391485,22 Apr 2010,v Zimbabwe,St George's,1,0,0,0,0,0
+391485,24 Apr 2010,v Zimbabwe,St Andrew's,1,0,0,0,0,0
+391485,5 Nov 2010,v Pakistan A,North Sound,1,1,1,0,0,1
+391485,10 Jan 2012,v Jamaica,North Sound,2,2,2,0,0,2
+391485,14 Jan 2012,v Sussex,North Sound,2,0,0,0,0,0
+391485,18 Jan 2012,v Netherlands,Bridgetown,1,0,0,0,0,0
+391485,23 Jun 2012,v India A,Port of Spain,1,1,1,0,0,1
+391485,24 Jun 2012,v India A,Port of Spain,1,0,0,0,0,0
+391485,6 Sep 2012,v BCB XI,Port of Spain,2,0,0,0,0,0
+391485,7 Sep 2012,v Trinidad & T,Port of Spain,2,1,1,0,0,1
+391485,8 Sep 2012,v Afghanistan,Port of Spain,2,1,1,0,0,1
+391485,7 Jan 2013,v Guyana,Port of Spain,2,1,1,0,0,1
+391485,8 Jan 2013,v Trinidad & T,Port of Spain,2,0,0,0,0,0
+391485,10 Jan 2013,v Windward Is,Port of Spain,1,0,0,0,0,0
+391485,11 Jan 2013,v Barbados,Port of Spain,2,0,0,0,0,0
+391485,16 Jan 2013,v Leeward Is,Gros Islet,1,1,1,0,0,1
+391485,18 Jan 2013,v Jamaica,Gros Islet,2,1,1,0,0,1
+391485,22 Apr 2013,v RR,Chennai,1,0,0,0,0,0
+391485,25 Apr 2013,v SRH,Chennai,1,0,0,0,0,0
+391485,8 May 2013,v SRH,Hyderabad,2,1,1,0,0,1
+391485,12 May 2013,v RR,Jaipur,2,0,0,0,0,0
+391485,14 May 2013,v Daredevils,Chennai,2,2,2,0,0,2
+391485,18 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+391485,30 Jul 2013,v Zouks,Bridgetown,2,1,1,0,0,1
+391485,1 Aug 2013,v Hawksbills,Bridgetown,2,0,0,0,0,0
+391485,3 Aug 2013,v Red Steel,Bridgetown,1,0,0,0,0,0
+391485,8 Aug 2013,v Zouks,Gros Islet,2,1,1,0,0,1
+391485,11 Aug 2013,v Amazon,Port of Spain,1,0,0,0,0,0
+391485,17 Aug 2013,v Tallawahs,Kingston,2,0,0,0,0,0
+391485,23 Aug 2013,v Tallawahs,Port of Spain,2,0,0,0,0,0
+391485,22 Sep 2013,v Titans,Ranchi,1,1,1,0,0,1
+391485,26 Sep 2013,v SRH,Ranchi,2,0,0,0,0,0
+391485,28 Sep 2013,v Heat,Ranchi,1,2,2,0,0,2
+391485,2 Oct 2013,v Trinidad & T,Delhi,2,0,0,0,0,0
+391485,4 Oct 2013,v RR,Jaipur,1,2,2,0,0,2
+391485,15 Jan 2014,v New Zealand,Wellington,2,0,0,0,0,0
+391485,18 Jan 2014,v Northern Dis,Hamilton,2,0,0,0,0,0
+391485,24 May 2014,v KKR,Eden Gardens,2,2,2,0,0,2
+391485,12 Jul 2014,v Red Steel,St George's,2,0,0,0,0,0
+391485,19 Jul 2014,v Hawksbills,North Sound,1,1,1,0,0,1
+391485,23 Jul 2014,v Zouks,Bridgetown,2,0,0,0,0,0
+391485,25 Jul 2014,v Hawksbills,Bridgetown,1,0,0,0,0,0
+391485,26 Jul 2014,v Amazon,Bridgetown,1,1,1,0,0,1
+391485,31 Jul 2014,v Zouks,Gros Islet,1,1,1,0,0,1
+391485,3 Aug 2014,v Tallawahs,Kingston,1,0,0,0,0,0
+391485,7 Aug 2014,v Red Steel,Basseterre,2,1,1,0,0,1
+391485,10 Aug 2014,v Tallawahs,Basseterre,2,0,0,0,0,0
+391485,16 Aug 2014,v Amazon,Basseterre,2,0,0,0,0,0
+391485,20 Sep 2014,v Kings XI,Mohali,2,0,0,0,0,0
+391485,26 Sep 2014,v Cape Cobras,Mohali,2,1,1,0,0,1
+391485,28 Sep 2014,v Hurricanes,Mohali,2,0,0,0,0,0
+391485,30 Sep 2014,v Northern Dis,Bengaluru,1,1,1,0,0,1
+391485,9 Jan 2015,v South Africa,Cape Town,1,0,0,0,0,0
+391485,11 Jan 2015,v South Africa,Johannesburg,1,1,1,0,0,1
+391485,20 Jun 2015,v Amazon,Bridgetown,2,2,2,0,0,2
+391485,23 Jun 2015,v Tallawahs,Bridgetown,2,2,2,0,0,2
+391485,25 Jun 2015,v Red Steel,Bridgetown,1,1,1,0,0,1
+391485,27 Jun 2015,v Patriots,Bridgetown,1,1,1,0,0,1
+391485,1 Jul 2015,v Zouks,Basseterre,2,0,0,0,0,0
+391485,3 Jul 2015,v Zouks,Basseterre,1,0,0,0,0,0
+391485,6 Jul 2015,v Patriots,Basseterre,2,0,0,0,0,0
+391485,11 Jul 2015,v Tallawahs,Kingston,2,0,0,0,0,0
+391485,16 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+391485,18 Jul 2015,v Amazon,Providence,2,0,0,0,0,0
+391485,26 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+391485,9 Nov 2015,v Sri Lanka,Pallekele,1,0,0,0,0,0
+391485,30 Apr 2016,v Daredevils,Delhi,1,0,0,0,0,0
+391485,19 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+391485,22 May 2016,v SRH,Eden Gardens,2,0,0,0,0,0
+391485,25 May 2016,v SRH,Delhi,1,0,0,0,0,0
+391485,26 Mar 2017,v Pakistan,Bridgetown,2,0,0,0,0,0
+391485,30 Mar 2017,v Pakistan,Port of Spain,1,2,2,0,0,2
+391485,1 Apr 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+391485,2 Apr 2017,v Pakistan,Port of Spain,2,0,0,0,0,0
+391485,12 Aug 2018,v Amazon,Providence,2,1,1,0,0,1
+391485,17 Aug 2018,v Stars,Gros Islet,1,1,1,0,0,1
+391485,22 Aug 2018,v Tallawahs,Lauderhill,2,0,0,0,0,0
+391485,25 Aug 2018,v Patriots,Bridgetown,2,0,0,0,0,0
+391485,26 Aug 2018,v Trinbago,Bridgetown,2,1,1,0,0,1
+391485,29 Aug 2018,v Tallawahs,Bridgetown,2,0,0,0,0,0
+391485,31 Aug 2018,v Amazon,Bridgetown,2,0,0,0,0,0
+391485,2 Sep 2018,v Stars,Bridgetown,2,1,1,0,0,1
+391485,4 Sep 2018,v Patriots,Basseterre,2,0,0,0,0,0
+391485,7 Sep 2018,v Trinbago,Port of Spain,1,0,0,0,0,0
+391485,5 Mar 2019,v England,Gros Islet,2,0,0,0,0,0
+391485,8 Mar 2019,v England,Basseterre,1,0,0,0,0,0
+391485,10 Mar 2019,v England,Basseterre,2,0,0,0,0,0
+391485,8 Sep 2019,v Amazon,Providence,1,0,0,0,0,0
+391485,11 Sep 2019,v Patriots,Basseterre,2,1,1,0,0,1
+391485,15 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+391485,20 Sep 2019,v Zouks,Gros Islet,2,1,1,0,0,1
+391485,22 Sep 2019,v Amazon,Bridgetown,2,0,0,0,0,0
+391485,23 Sep 2019,v Tallawahs,Bridgetown,1,0,0,0,0,0
+391485,26 Sep 2019,v Trinbago,Bridgetown,2,2,2,0,0,2
+391485,28 Sep 2019,v Patriots,Bridgetown,1,1,1,0,0,1
+391485,29 Sep 2019,v Zouks,Bridgetown,2,3,3,0,0,3
+391485,2 Oct 2019,v Trinbago,Port of Spain,1,1,1,0,0,1
+391485,6 Oct 2019,v Amazon,Providence,1,0,0,0,0,0
+391485,10 Oct 2019,v Trinbago,Tarouba,2,2,2,0,0,2
+391485,12 Oct 2019,v Amazon,Tarouba,2,2,2,0,0,2
+391485,14 Nov 2019,v Afghanistan,Lucknow,2,1,1,0,0,1
+391485,16 Nov 2019,v Afghanistan,Lucknow,1,0,0,0,0,0
+391485,17 Nov 2019,v Afghanistan,Lucknow,1,1,1,0,0,1
+391485,6 Dec 2019,v India,Hyderabad,2,1,1,0,0,1
+391485,8 Dec 2019,v India,Thiruvananthapuram,1,0,0,0,0,0
+391485,11 Dec 2019,v India,Wankhede,1,1,1,0,0,1
+391485,18 Aug 2020,v Patriots,Tarouba,2,0,0,0,0,0
+391485,20 Aug 2020,v Zouks,Tarouba,2,0,0,0,0,0
+391485,23 Aug 2020,v Trinbago,Tarouba,1,0,0,0,0,0
+391485,25 Aug 2020,v Patriots,Port of Spain,2,0,0,0,0,0
+391485,26 Aug 2020,v Tallawahs,Port of Spain,2,1,1,0,0,1
+391485,29 Aug 2020,v Trinbago,Port of Spain,2,1,1,0,0,1
+391485,30 Aug 2020,v Zouks,Port of Spain,1,0,0,0,0,0
+391485,1 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+391485,3 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+391485,5 Sep 2020,v Tallawahs,Tarouba,1,0,0,0,0,0
+391485,22 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+391485,24 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+391485,27 Oct 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+391485,31 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+391485,3 Nov 2020,v MI,Sharjah,1,0,0,0,0,0
+391485,6 Nov 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+391485,8 Nov 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+391485,20 Dec 2020,v Strikers,Hobart,2,1,1,0,0,1
+391485,26 Dec 2020,v Stars,Carrara,1,1,1,0,0,1
+391485,29 Dec 2020,v Renegades,Carrara,1,0,0,0,0,0
+391485,3 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+391485,5 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+391485,7 Mar 2021,v Sri Lanka,Coolidge,1,1,1,0,0,1
+391485,14 Apr 2021,v RCB,Chennai,1,0,0,0,0,0
+391485,26 Jun 2021,v South Africa,St George's,1,1,1,0,0,1
+391485,27 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+391485,29 Jun 2021,v South Africa,St George's,1,0,0,0,0,0
+391485,28 Jul 2021,v Pakistan,Bridgetown,-,TDNF,-,-,-,-
+391485,31 Jul 2021,v Pakistan,Providence,1,0,0,0,0,0
+391485,1 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+391485,3 Aug 2021,v Pakistan,Providence,-,TDNF,-,-,-,-
+391485,26 Aug 2021,v Patriots,Basseterre,1,1,1,0,0,1
+391485,27 Aug 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+391485,28 Aug 2021,v Tallawahs,Basseterre,2,0,0,0,0,0
+391485,31 Aug 2021,v Tallawahs,Basseterre,2,1,1,0,0,1
+391485,2 Sep 2021,v Patriots,Basseterre,2,3,3,0,0,3
+391485,4 Sep 2021,v Amazon,Basseterre,2,0,0,0,0,0
+391485,7 Sep 2021,v Amazon,Basseterre,2,3,3,0,0,3
+391485,9 Sep 2021,v Trinbago,Basseterre,2,1,1,0,0,1
+391485,11 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+391485,12 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+391485,22 Sep 2021,v DC,Dubai (DICS),2,0,0,0,0,0
+391485,25 Sep 2021,v Punjab Kings,Sharjah,1,0,0,0,0,0
+391485,27 Sep 2021,v RR,Dubai (DICS),1,1,1,0,0,1
+391485,30 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+391485,3 Oct 2021,v KKR,Dubai (DICS),2,1,1,0,0,1
+391485,6 Oct 2021,v RCB,Abu Dhabi,2,0,0,0,0,0
+391485,8 Oct 2021,v MI,Abu Dhabi,1,0,0,0,0,0
+391485,29 Oct 2021,v Bangladesh,Sharjah,2,2,2,0,0,2
+391485,4 Nov 2021,v Sri Lanka,Abu Dhabi,1,0,0,0,0,0
+391485,6 Nov 2021,v Australia,Abu Dhabi,2,1,1,0,0,1
+391485,22 Jan 2022,v England,Bridgetown,1,0,0,0,0,0
+391485,23 Jan 2022,v England,Bridgetown,1,1,1,0,0,1
+391485,26 Jan 2022,v England,Bridgetown,2,2,2,0,0,2
+391485,29 Jan 2022,v England,Bridgetown,1,0,0,0,0,0
+391485,30 Jan 2022,v England,Bridgetown,2,1,1,0,0,1
+391485,18 Feb 2022,v India,Eden Gardens,1,0,0,0,0,0
+391485,20 Feb 2022,v India,Eden Gardens,1,1,1,0,0,1
+391485,4 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+391485,7 Apr 2022,v DC,DY Patil,1,0,0,0,0,0
+391485,10 Apr 2022,v RR,Wankhede,1,1,1,0,0,1
+391485,16 Apr 2022,v MI,Brabourne,2,0,0,0,0,0
+391485,19 Apr 2022,v RCB,DY Patil,1,1,1,0,0,1
+391485,24 Apr 2022,v MI,Wankhede,2,1,1,0,0,1
+391485,29 Apr 2022,v Punjab Kings,Pune,2,0,0,0,0,0
+391485,1 May 2022,v DC,Wankhede,2,0,0,0,0,0
+391485,7 May 2022,v KKR,Pune,2,1,1,0,0,1
+391485,10 May 2022,v GT,Pune,1,0,0,0,0,0
+391485,15 May 2022,v RR,Brabourne,1,0,0,0,0,0
+391485,18 May 2022,v KKR,DY Patil,2,0,0,0,0,0
+391485,29 Jul 2022,v India,Tarouba,1,1,1,0,0,1
+391485,1 Aug 2022,v India,Basseterre,1,0,0,0,0,0
+391485,2 Aug 2022,v India,Basseterre,2,0,0,0,0,0
+391485,6 Aug 2022,v India,Lauderhill,1,0,0,0,0,0
+391485,7 Aug 2022,v India,Lauderhill,1,1,1,0,0,1
+391485,10 Aug 2022,v New Zealand,Kingston,1,0,0,0,0,0
+391485,12 Aug 2022,v New Zealand,Kingston,1,0,0,0,0,0
+391485,1 Sep 2022,v Patriots,Basseterre,1,1,1,0,0,1
+391485,4 Sep 2022,v Kings,Basseterre,2,0,0,0,0,0
+391485,7 Sep 2022,v Trinbago,Gros Islet,2,0,0,0,0,0
+391485,8 Sep 2022,v Kings,Gros Islet,1,1,1,0,0,1
+391485,11 Sep 2022,v Tallawahs,Gros Islet,1,2,2,0,0,2
+391485,13 Sep 2022,v Trinbago,Port of Spain,1,1,1,0,0,1
+391485,15 Sep 2022,v Tallawahs,Port of Spain,2,1,1,0,0,1
+391485,18 Sep 2022,v Amazon,Tarouba,2,2,2,0,0,2
+391485,21 Sep 2022,v Patriots,Providence,2,1,1,0,0,1
+391485,25 Sep 2022,v Amazon,Providence,2,0,0,0,0,0
+391485,27 Sep 2022,v Amazon,Providence,2,2,2,0,0,2
+391485,30 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+391485,5 Oct 2022,v Australia,Carrara,2,1,1,0,0,1
+391485,7 Oct 2022,v Australia,Brisbane,1,1,1,0,0,1
+391485,17 Oct 2022,v Scotland,Hobart,1,0,0,0,0,0
+391485,19 Oct 2022,v Zimbabwe,Hobart,2,0,0,0,0,0
+391485,21 Oct 2022,v Ireland,Hobart,2,0,0,0,0,0
+391485,11 Jan 2023,v Super Kings,Durban,1,0,0,0,0,0
+391485,13 Jan 2023,v MI Cape Town,Cape Town,1,0,0,0,0,0
+391485,15 Jan 2023,v Paarl Royals,Durban,2,2,2,0,0,2
+391485,17 Jan 2023,v Paarl Royals,Paarl,1,0,0,0,0,0
+391485,20 Jan 2023,v Capitals,Durban,2,0,0,0,0,0
+391485,22 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+391485,24 Jan 2023,v Super Kings,Johannesburg,2,0,0,0,0,0
+391485,26 Mar 2023,v South Africa,Centurion,2,0,0,0,0,0
+391485,28 Mar 2023,v South Africa,Johannesburg,2,0,0,0,0,0
+391485,2 Apr 2023,v SRH,Hyderabad,2,1,1,0,0,1
+391485,5 Apr 2023,v Punjab Kings,Guwahati,1,0,0,0,0,0
+391485,8 Apr 2023,v DC,Guwahati,2,0,0,0,0,0
+391485,12 Apr 2023,v CSK,Chennai,2,0,0,0,0,0
+391485,19 Apr 2023,v LSG,Jaipur,1,0,0,0,0,0
+391485,23 Apr 2023,v RCB,Bengaluru,1,1,1,0,0,1
+391485,27 Apr 2023,v CSK,Jaipur,2,1,1,0,0,1
+391485,30 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+391485,3 Aug 2023,v India,Tarouba,2,0,0,0,0,0
+391485,6 Aug 2023,v India,Providence,1,0,0,0,0,0
+391485,12 Aug 2023,v India,Lauderhill,2,0,0,0,0,0
+391485,13 Aug 2023,v India,Lauderhill,1,1,1,0,0,1
+391485,17 Aug 2023,v Kings,Gros Islet,1,0,0,0,0,0
+391485,26 Aug 2023,v Patriots,Basseterre,1,0,0,0,0,0
+391485,30 Aug 2023,v Trinbago,Bridgetown,1,1,1,0,0,1
+391485,31 Aug 2023,v Tallawahs,Bridgetown,1,0,0,0,0,0
+391485,2 Sep 2023,v Kings,Bridgetown,1,0,0,0,0,0
+391485,3 Sep 2023,v Patriots,Bridgetown,1,0,0,0,0,0
+391485,6 Sep 2023,v Trinbago,Port of Spain,1,0,0,0,0,0
+391485,10 Sep 2023,v Amazon,Tarouba,1,0,0,0,0,0
+391485,17 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+391485,12 Dec 2023,v England,Bridgetown,1,0,0,0,0,0
+391485,14 Dec 2023,v England,St George's,2,1,1,0,0,1
+391485,16 Dec 2023,v England,St George's,2,0,0,0,0,0
+391485,19 Dec 2023,v England,Tarouba,1,0,0,0,0,0
+391485,21 Dec 2023,v England,Tarouba,1,0,0,0,0,0
+391485,20 Jan 2024,v MI Emirates,Dubai (DICS),1,2,2,0,0,2
+391485,22 Jan 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+391485,25 Jan 2024,v KnightRiders,Dubai (DICS),1,0,0,0,0,0
+391485,27 Jan 2024,v Gulf Giants,Sharjah,2,1,1,0,0,1
+391485,29 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+391485,1 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+391485,3 Feb 2024,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+391485,9 Feb 2024,v Australia,Hobart,1,0,0,0,0,0
+391485,11 Feb 2024,v Australia,Adelaide,1,1,1,0,0,1
+391485,13 Feb 2024,v Australia,Perth,2,1,1,0,0,1
+391485,15 Feb 2024,v Gulf Giants,Sharjah,1,0,0,0,0,0
+391485,17 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+391485,20 Feb 2024,v Chattogram,Chattogram,1,0,0,0,0,0
+391485,23 Feb 2024,v Strikers,Mirpur,2,0,0,0,0,0
+391485,1 Sep 2024,v Falcons,North Sound,1,0,0,0,0,0
+391485,6 Sep 2024,v Patriots,Basseterre,1,1,1,0,0,1
+391485,11 Sep 2024,v Falcons,Bridgetown,1,1,1,0,0,1
+391485,13 Sep 2024,v Trinbago,Bridgetown,2,1,1,0,0,1
+391485,14 Sep 2024,v Amazon,Bridgetown,2,1,1,0,0,1
+391485,17 Sep 2024,v Patriots,Bridgetown,1,0,0,0,0,0
+391485,21 Sep 2024,v Kings,Providence,2,1,1,0,0,1
+391485,22 Sep 2024,v Kings,Providence,1,0,0,0,0,0
+391485,25 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+391485,27 Sep 2024,v Trinbago,Tarouba,1,0,0,0,0,0
+391485,1 Oct 2024,v Trinbago,Providence,1,0,0,0,0,0
+391485,4 Oct 2024,v Amazon,Providence,2,0,0,0,0,0
+391485,12 Jan 2025,v Vipers,Abu Dhabi,2,1,1,0,0,1
+391485,15 Jan 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+391485,18 Jan 2025,v Vipers,Dubai (DICS),1,2,2,0,0,2
+391485,19 Jan 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+391485,21 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+391485,24 Jan 2025,v MI Emirates,Abu Dhabi,2,1,1,0,0,1
+391485,26 Jan 2025,v DC,Abu Dhabi,2,0,0,0,0,0
+391485,30 Jan 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+391485,1 Feb 2025,v Gulf Giants,Abu Dhabi,2,0,0,0,0,0
+391485,2 Feb 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+391485,3 Feb 2025,v Rangpur,Mirpur,1,0,0,0,0,0
+391485,5 Feb 2025,v Chittagong,Mirpur,2,1,1,0,0,1
+391485,11 Apr 2025,v Qalandars,Rawalpindi,1,0,0,0,0,0
+391485,14 Apr 2025,v Zalmi,Rawalpindi,2,1,1,0,0,1
+391485,16 Apr 2025,v Sultans,Rawalpindi,2,2,2,0,0,2
+391485,20 Apr 2025,v Kings,Karachi,1,0,0,0,0,0
+391485,23 Apr 2025,v Sultans,Multan,1,0,0,0,0,0
+391485,30 Apr 2025,v Qalandars,Lahore,1,0,0,0,0,0
+391485,3 May 2025,v Gladiators,Lahore,2,2,2,0,0,2
+391485,7 May 2025,v Gladiators,Rawalpindi,1,1,1,0,0,1
+391485,6 Jun 2025,v England,Chester-le-Street,1,0,0,0,0,0
+391485,8 Jun 2025,v England,Bristol,2,0,0,0,0,0
+391485,10 Jun 2025,v England,Southampton,1,0,0,0,0,0
+391485,15 Jun 2025,v Ireland,Bready,2,2,2,0,0,2
+391485,17 Jun 2025,v Washington,Oakland,1,0,0,0,0,0
+391485,22 Jun 2025,v Seattle,Dallas,1,0,0,0,0,0
+391485,24 Jun 2025,v Texas,Dallas,1,0,0,0,0,0
+391485,26 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+391485,28 Jun 2025,v Seattle,Dallas,2,1,1,0,0,1
+391485,3 Jul 2025,v MI New York,Lauderhill,2,1,1,0,0,1
+391485,5 Jul 2025,v MI New York,Lauderhill,1,2,2,0,0,2
+391485,6 Jul 2025,v SF,Lauderhill,2,0,0,0,0,0
+391485,20 Jul 2025,v Australia,Kingston,2,2,2,0,0,2
+391485,22 Jul 2025,v Australia,Kingston,2,0,0,0,0,0
+391485,25 Jul 2025,v Australia,Basseterre,2,0,0,0,0,0
+391485,26 Jul 2025,v Australia,Basseterre,2,2,2,0,0,2
+391485,28 Jul 2025,v Australia,Basseterre,2,0,0,0,0,0
+391485,31 Jul 2025,v Pakistan,Lauderhill,1,1,1,0,0,1
+391485,2 Aug 2025,v Pakistan,Lauderhill,1,2,2,0,0,2
+391485,3 Aug 2025,v Pakistan,Lauderhill,1,0,0,0,0,0
+391485,14 Aug 2025,v Falcons,Basseterre,1,3,3,0,0,3
+391485,15 Aug 2025,v Amazon,Basseterre,2,1,1,0,0,1
+391485,17 Aug 2025,v Trinbago,Basseterre,1,1,1,0,0,1
+391485,19 Aug 2025,v Kings,Basseterre,1,0,0,0,0,0
+391485,21 Aug 2025,v Royals,Basseterre,2,0,0,0,0,0
+391485,24 Aug 2025,v Falcons,North Sound,2,0,0,0,0,0
+391485,28 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+391485,1 Sep 2025,v Trinbago,Tarouba,1,1,1,0,0,1
+391485,7 Sep 2025,v Amazon,Providence,2,1,1,0,0,1
+391485,11 Sep 2025,v Royals,Bridgetown,2,0,0,0,0,0
+391485,27 Sep 2025,v Nepal,Sharjah,1,1,1,0,0,1
+391485,29 Sep 2025,v Nepal,Sharjah,1,0,0,0,0,0
+391485,30 Sep 2025,v Nepal,Sharjah,1,1,1,0,0,1
+391485,27 Oct 2025,v Bangladesh,Chattogram,2,1,1,0,0,1
+391485,29 Oct 2025,v Bangladesh,Chattogram,2,0,0,0,0,0
+391485,31 Oct 2025,v Bangladesh,Chattogram,1,1,1,0,0,1
+391485,5 Nov 2025,v New Zealand,Auckland,2,2,2,0,0,2
+391485,6 Nov 2025,v New Zealand,Auckland,1,1,1,0,0,1
+391485,9 Nov 2025,v New Zealand,Nelson,1,0,0,0,0,0
+391485,10 Nov 2025,v New Zealand,Nelson,-,TDNF,-,-,-,-
+391485,13 Nov 2025,v New Zealand,Dunedin,2,0,0,0,0,0
+391485,7 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+391485,11 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+391485,13 Dec 2025,v DC,Abu Dhabi,1,0,0,0,0,0
+391485,16 Dec 2025,v Vipers,Abu Dhabi,2,0,0,0,0,0
+391485,18 Dec 2025,v Gulf Giants,Abu Dhabi,1,1,1,0,0,1
+391485,20 Dec 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+391485,22 Dec 2025,v Warriorz,Abu Dhabi,2,0,0,0,0,0
+391485,28 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+391485,1 Jan 2026,v DC,Dubai (DICS),2,0,0,0,0,0
+391485,2 Jan 2026,v MI Emirates,Sharjah,2,0,0,0,0,0
+391485,27 Jan 2026,v South Africa,Paarl,2,0,0,0,0,0
+391485,29 Jan 2026,v South Africa,Centurion,2,1,1,0,0,1
+391485,31 Jan 2026,v South Africa,Johannesburg,2,2,2,0,0,2
+391485,7 Feb 2026,v Scotland,Eden Gardens,2,1,1,0,0,1
+391485,11 Feb 2026,v England,Wankhede,2,0,0,0,0,0
+391485,15 Feb 2026,v Nepal,Wankhede,1,0,0,0,0,0
+391485,19 Feb 2026,v Italy,Eden Gardens,2,1,1,0,0,1
+391485,23 Feb 2026,v Zimbabwe,Wankhede,2,1,1,0,0,1
+391485,26 Feb 2026,v South Africa,Ahmedabad,2,1,1,0,0,1
+391485,1 Mar 2026,v India,Eden Gardens,2,1,1,0,0,1

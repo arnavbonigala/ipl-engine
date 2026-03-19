@@ -1,0 +1,74 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+500135,1 Apr 2014,v Delhi,Mohali,2,1,1,0,1,0
+500135,2 Apr 2014,v Punjab,Mohali,2,2,2,0,0,2
+500135,3 Apr 2014,v Services,Mohali,2,1,1,0,0,1
+500135,4 Apr 2014,v J & K,Mohali,2,0,0,0,0,0
+500135,5 Apr 2014,v Haryana,Mohali,2,0,0,0,0,0
+500135,24 Mar 2015,v Services,Delhi,1,0,0,0,0,0
+500135,25 Mar 2015,v Haryana,Delhi,2,1,1,0,0,1
+500135,26 Mar 2015,v Delhi,Delhi,2,0,0,0,0,0
+500135,27 Mar 2015,v J & K,Delhi,2,1,1,0,0,1
+500135,1 Apr 2015,v Andhra,Bhubaneswar,2,0,0,0,0,0
+500135,2 Apr 2015,v Gujarat,Bhubaneswar,2,1,1,0,0,1
+500135,3 Apr 2015,v Jharkhand,Bhubaneswar,2,1,1,0,0,1
+500135,5 Apr 2015,v M. Pradesh,Bhubaneswar,2,1,0,1,0,0
+500135,2 Jan 2016,v Gujarat,Nagpur,1,1,1,0,0,1
+500135,3 Jan 2016,v Hyderabad,Nagpur,1,1,1,0,0,1
+500135,4 Jan 2016,v Bengal,Nagpur,1,1,1,0,0,1
+500135,7 Jan 2016,v Haryana,Nagpur,1,0,0,0,0,0
+500135,9 Jan 2016,v Tamil Nadu,Nagpur,1,0,0,0,0,0
+500135,10 Jan 2016,v Vidarbha,Nagpur,1,0,0,0,0,0
+500135,29 Jan 2017,v Services,Dharamsala,2,1,1,0,0,1
+500135,30 Jan 2017,v Haryana,Dharamsala,1,1,1,0,0,1
+500135,31 Jan 2017,v Delhi,Nadaun,2,0,0,0,0,0
+500135,1 Feb 2017,v J & K,Nadaun,1,2,2,0,0,2
+500135,8 Jan 2018,v Haryana,Delhi,2,0,0,0,0,0
+500135,9 Jan 2018,v J & K,Delhi,2,1,1,0,0,1
+500135,13 Jan 2018,v Services,Delhi,2,0,0,0,0,0
+500135,14 Jan 2018,v Delhi,Delhi,2,0,0,0,0,0
+500135,15 Jan 2018,v Punjab,Delhi,1,1,1,0,0,1
+500135,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+500135,21 Feb 2019,v Vidarbha,Surat,2,1,1,0,0,1
+500135,22 Feb 2019,v Meghalaya,Surat,2,0,0,0,0,0
+500135,24 Feb 2019,v Gujarat,Surat,1,0,0,0,0,0
+500135,25 Feb 2019,v Bihar,Surat,1,2,2,0,0,2
+500135,27 Feb 2019,v Tamil Nadu,Surat,1,1,1,0,0,1
+500135,28 Feb 2019,v Rajasthan,Surat,2,0,0,0,0,0
+500135,7 Apr 2019,v KKR,Jaipur,2,0,0,0,0,0
+500135,8 Nov 2019,v Chandigarh,Chandigarh,1,0,0,0,0,0
+500135,9 Nov 2019,v Chhattisgarh,Chandigarh,2,0,0,0,0,0
+500135,11 Nov 2019,v Hyderabad,Chandigarh,2,1,1,0,0,1
+500135,12 Nov 2019,v Punjab,Chandigarh,2,0,0,0,0,0
+500135,14 Nov 2019,v Arunachal,Chandigarh,1,1,1,0,0,1
+500135,15 Nov 2019,v Maharashtra,Chandigarh,2,0,0,0,0,0
+500135,18 Nov 2019,v Railways,Chandigarh,2,0,0,0,0,0
+500135,10 Jan 2021,v Chhattisgarh,Vadodara,2,0,0,0,0,0
+500135,12 Jan 2021,v Baroda,Vadodara,2,2,2,0,2,0
+500135,14 Jan 2021,v Gujarat,Vadodara,2,2,2,0,2,0
+500135,16 Jan 2021,v Uttarakhand,Vadodara,1,2,2,0,2,0
+500135,26 Jan 2021,v Tamil Nadu,Ahmedabad,2,1,1,0,1,0
+500135,4 Nov 2021,v Haryana,Vadodara,2,0,0,0,0,0
+500135,5 Nov 2021,v Jharkhand,Vadodara,2,0,0,0,0,0
+500135,6 Nov 2021,v Rajasthan,Vadodara,2,0,0,0,0,0
+500135,9 Nov 2021,v Andhra,Vadodara,2,2,2,0,0,2
+500135,16 Nov 2021,v Kerala,Delhi,2,1,1,0,0,1
+500135,14 Oct 2022,v Bihar,Indore,2,0,0,0,0,0
+500135,18 Oct 2022,v Saurashtra,Indore,2,0,0,0,0,0
+500135,20 Oct 2022,v Baroda,Indore,1,0,0,0,0,0
+500135,22 Oct 2022,v Nagaland,Indore,1,1,1,0,0,1
+500135,1 Nov 2022,v Bengal,Kolkata,1,0,0,0,0,0
+500135,3 Nov 2022,v Punjab,Eden Gardens,2,0,0,0,0,0
+500135,5 Nov 2022,v Mumbai,Eden Gardens,2,0,0,0,0,0
+500135,16 Oct 2023,v Kerala,Mumbai,1,1,0,1,0,0
+500135,17 Oct 2023,v Odisha,Mumbai,1,0,0,0,0,0
+500135,19 Oct 2023,v Chandigarh,Mumbai,1,0,0,0,0,0
+500135,21 Oct 2023,v Bihar,Mumbai,1,1,1,0,1,0
+500135,23 Oct 2023,v Services,DY Patil,2,1,1,0,1,0
+500135,25 Oct 2023,v Assam,DY Patil,1,1,1,0,0,1
+500135,27 Oct 2023,v Sikkim,DY Patil,2,0,0,0,0,0
+500135,23 Nov 2024,v Arunachal,Mumbai,1,1,1,0,0,1
+500135,25 Nov 2024,v UP,Wankhede,2,0,0,0,0,0
+500135,29 Nov 2024,v J & K,Mumbai,1,1,1,0,0,1
+500135,26 Nov 2025,v Karnataka,Ahmedabad,2,1,1,0,1,0
+500135,2 Dec 2025,v Rajasthan,Ahmedabad,1,0,0,0,0,0
+500135,8 Dec 2025,v Delhi,Ahmedabad,1,0,0,0,0,0

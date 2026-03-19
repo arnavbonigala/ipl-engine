@@ -1,0 +1,199 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+510530,22 May 2015,v Sussex,Taunton,1,0,0,0,0,0
+510530,29 May 2015,v Essex,Chelmsford,1,0,0,0,0,0
+510530,31 May 2015,v Kent,Taunton,1,0,0,0,0,0
+510530,5 Jun 2015,v Hampshire,Taunton,1,1,1,0,0,1
+510530,13 Jun 2015,v Glamorgan,Cardiff,2,0,0,0,0,0
+510530,26 Jun 2015,v Middlesex,Uxbridge,1,0,0,0,0,0
+510530,28 Jun 2015,v Glamorgan,Taunton,1,0,0,0,0,0
+510530,3 Jul 2015,v Gloucs,Taunton,2,0,0,0,0,0
+510530,10 Jul 2015,v Kent,Canterbury,1,1,1,0,0,1
+510530,17 Jul 2015,v Surrey,The Oval,1,0,0,0,0,0
+510530,23 Jul 2015,v Hampshire,Southampton,1,0,0,0,0,0
+510530,10 Dec 2015,v Pakistan A,Dubai (DICS),2,2,2,0,0,2
+510530,11 Dec 2015,v Pakistan A,Dubai (DICS),2,0,0,0,0,0
+510530,13 Dec 2015,v Pakistan A,Dubai (DICS),1,3,3,0,0,3
+510530,16 Dec 2015,v Pakistan A,ICCA Dubai,1,0,0,0,0,0
+510530,20 May 2016,v Kent,Canterbury,2,0,0,0,0,0
+510530,1 Jun 2016,v Sussex,Hove,1,0,0,0,0,0
+510530,3 Jun 2016,v Essex,Taunton,1,0,0,0,0,0
+510530,10 Jun 2016,v Surrey,Taunton,1,0,0,0,0,0
+510530,17 Jun 2016,v Gloucs,Bristol,2,1,1,0,0,1
+510530,19 Jun 2016,v Hampshire,Taunton,1,0,0,0,0,0
+510530,23 Jun 2016,v Middlesex,Lord's,1,1,1,0,0,1
+510530,1 Jul 2016,v Gloucs,Taunton,2,0,0,0,0,0
+510530,7 Jul 2016,v Kent,Taunton,1,0,0,0,0,0
+510530,8 Jul 2016,v Surrey,The Oval,1,2,2,0,0,2
+510530,6 Jul 2018,v Gloucs,Taunton,1,1,1,0,0,1
+510530,8 Jul 2018,v Kent,Taunton,2,0,0,0,0,0
+510530,13 Jul 2018,v Gloucs,Bristol,2,1,1,0,0,1
+510530,19 Jul 2018,v Middlesex,Lord's,1,0,0,0,0,0
+510530,20 Jul 2018,v Glamorgan,Cardiff,2,0,0,0,0,0
+510530,27 Jul 2018,v Surrey,The Oval,2,0,0,0,0,0
+510530,29 Jul 2018,v Middlesex,Taunton,2,2,2,0,0,2
+510530,1 Aug 2018,v Hampshire,Taunton,2,1,1,0,0,1
+510530,3 Aug 2018,v Essex,Taunton,1,1,1,0,0,1
+510530,5 Aug 2018,v Sussex,Hove,1,0,0,0,0,0
+510530,8 Aug 2018,v Hampshire,Southampton,1,1,1,0,0,1
+510530,10 Aug 2018,v Surrey,Taunton,1,0,0,0,0,0
+510530,12 Aug 2018,v Glamorgan,Taunton,2,2,2,0,0,2
+510530,16 Aug 2018,v Kent,Canterbury,1,1,1,0,0,1
+510530,26 Aug 2018,v Notts,Taunton,2,0,0,0,0,0
+510530,15 Sep 2018,v Sussex,Birmingham,1,0,0,0,0,0
+510530,7 Dec 2018,v Pakistan A,Tolerance Oval,1,1,1,0,0,1
+510530,8 Dec 2018,v Pakistan A,Tolerance Oval,1,1,1,0,0,1
+510530,18 Jul 2019,v Glamorgan,Cardiff,1,0,0,0,0,0
+510530,20 Jul 2019,v Kent,Canterbury,1,1,1,0,0,1
+510530,2 Aug 2019,v Surrey,Taunton,1,0,0,0,0,0
+510530,4 Aug 2019,v Middlesex,Richmond,1,0,0,0,0,0
+510530,30 Aug 2020,v Northants,Northampton,1,0,0,0,0,0
+510530,3 Sep 2020,v Hampshire,The Oval,1,0,0,0,0,0
+510530,5 Sep 2020,v Middlesex,The Oval,1,2,2,0,0,2
+510530,11 Sep 2020,v Essex,Chelmsford,1,2,2,0,0,2
+510530,14 Sep 2020,v Middlesex,Lord's,2,1,1,0,0,1
+510530,16 Sep 2020,v Sussex,The Oval,1,0,0,0,0,0
+510530,18 Sep 2020,v Hampshire,Southampton,1,0,0,0,0,0
+510530,20 Sep 2020,v Kent,The Oval,1,0,0,0,0,0
+510530,1 Oct 2020,v Kent,The Oval,2,3,3,0,0,3
+510530,3 Oct 2020,v Gloucs,Birmingham,1,1,1,0,0,1
+510530,4 Oct 2020,v Notts,Birmingham,2,1,1,0,0,1
+510530,10 Jun 2021,v Middlesex,Lord's,2,1,1,0,0,1
+510530,11 Jun 2021,v Somerset,Taunton,1,0,0,0,0,0
+510530,14 Jun 2021,v Glamorgan,The Oval,1,2,2,0,0,2
+510530,17 Jun 2021,v Sussex,The Oval,-,TDNF,-,-,-,-
+510530,21 Jun 2021,v Essex,The Oval,2,0,0,0,0,0
+510530,23 Jun 2021,v Somerset,The Oval,2,0,0,0,0,0
+510530,25 Jun 2021,v Middlesex,The Oval,1,0,0,0,0,0
+510530,27 Jun 2021,v Sussex,Hove,2,0,0,0,0,0
+510530,29 Jun 2021,v Glamorgan,Cardiff,1,0,0,0,0,0
+510530,30 Jun 2021,v Hampshire,Southampton,2,2,2,0,0,2
+510530,2 Jul 2021,v Kent,Canterbury,1,0,0,0,0,0
+510530,9 Jul 2021,v Kent,The Oval,2,0,0,0,0,0
+510530,25 May 2022,v SLC Dev XI,The Oval,1,0,0,0,0,0
+510530,27 May 2022,v Glamorgan,The Oval,1,1,1,0,0,1
+510530,31 May 2022,v Gloucs,The Oval,2,1,1,0,0,1
+510530,2 Jun 2022,v Hampshire,The Oval,2,0,0,0,0,0
+510530,3 Jun 2022,v Kent,Canterbury,2,0,0,0,0,0
+510530,5 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+510530,8 Jun 2022,v Sussex,The Oval,1,0,0,0,0,0
+510530,9 Jun 2022,v Middlesex,Lord's,2,1,1,0,0,1
+510530,17 Jun 2022,v Middlesex,The Oval,1,1,1,0,0,1
+510530,19 Jun 2022,v Hampshire,Southampton,1,0,0,0,0,0
+510530,1 Jul 2022,v Kent,The Oval,1,0,0,0,0,0
+510530,3 Jul 2022,v Somerset,Taunton,1,0,0,0,0,0
+510530,6 Jul 2022,v Yorkshire,The Oval,1,3,3,0,0,3
+510530,25 May 2023,v Middlesex,Lord's,2,2,2,0,0,2
+510530,26 May 2023,v Kent,The Oval,2,1,1,0,0,1
+510530,28 May 2023,v Sussex,The Oval,2,0,0,0,0,0
+510530,31 May 2023,v Hampshire,Southampton,1,0,0,0,0,0
+510530,2 Jun 2023,v Gloucs,Bristol,2,0,0,0,0,0
+510530,4 Jun 2023,v Kent,Canterbury,1,1,1,0,0,1
+510530,7 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+510530,9 Jun 2023,v Sussex,Hove,2,0,0,0,0,0
+510530,16 Jun 2023,v Somerset,Taunton,2,1,1,0,0,1
+510530,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+510530,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+510530,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+510530,30 Jun 2023,v Somerset,The Oval,1,0,0,0,0,0
+510530,2 Jul 2023,v Essex,The Oval,2,1,1,0,0,1
+510530,7 Jul 2023,v Lancashire,Manchester,2,1,1,0,0,1
+510530,15 Jul 2023,v Somerset,Birmingham,1,0,0,0,0,0
+510530,2 Aug 2023,v Fire,Cardiff,1,1,1,0,0,1
+510530,5 Aug 2023,v Spirit,Manchester,-,TDNF,-,-,-,-
+510530,7 Aug 2023,v Phoenix,Manchester,2,1,1,0,0,1
+510530,9 Aug 2023,v Invincibles,The Oval,1,1,1,0,0,1
+510530,13 Aug 2023,v N S-Chargers,Leeds,2,2,2,0,0,2
+510530,17 Aug 2023,v Rockets,Nottingham,2,0,0,0,0,0
+510530,20 Aug 2023,v N S-Chargers,Manchester,2,0,0,0,0,0
+510530,23 Aug 2023,v Brave,Manchester,2,1,1,0,0,1
+510530,26 Aug 2023,v Brave,The Oval,1,0,0,0,0,0
+510530,27 Aug 2023,v Invincibles,Lord's,1,0,0,0,0,0
+510530,19 Dec 2023,v Thunder,Adelaide,1,2,2,0,0,2
+510530,22 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+510530,29 Dec 2023,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+510530,31 Dec 2023,v Stars,Adelaide,2,0,0,0,0,0
+510530,3 Jan 2024,v Scorchers,Perth,1,0,0,0,0,0
+510530,5 Jan 2024,v Scorchers,Adelaide,1,2,2,0,0,2
+510530,9 Jan 2024,v Hurricanes,Adelaide,1,2,2,0,0,2
+510530,11 Jan 2024,v Hurricanes,Hobart,1,0,0,0,0,0
+510530,14 Jan 2024,v Thunder,Canberra,1,0,0,0,0,0
+510530,19 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+510530,21 Jan 2024,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+510530,31 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+510530,3 Feb 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+510530,4 Feb 2024,v Warriors,Dubai (DICS),2,1,1,0,0,1
+510530,6 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+510530,8 Feb 2024,v MI Emirates,Dubai (DICS),2,0,0,0,0,0
+510530,10 Feb 2024,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+510530,14 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+510530,15 Feb 2024,v DC,Sharjah,2,1,1,0,0,1
+510530,12 Jul 2024,v Somerset,Taunton,2,0,0,0,0,0
+510530,14 Jul 2024,v Essex,Chelmsford,2,3,3,0,0,3
+510530,18 Jul 2024,v Hampshire,The Oval,1,1,1,0,0,1
+510530,19 Jul 2024,v Kent,Canterbury,1,1,1,0,0,1
+510530,25 Jul 2024,v Fire,Manchester,2,0,0,0,0,0
+510530,29 Jul 2024,v Rockets,Manchester,1,1,1,0,0,1
+510530,1 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+510530,4 Aug 2024,v N S-Chargers,Leeds,1,0,0,0,0,0
+510530,6 Aug 2024,v Invincibles,Manchester,1,0,0,0,0,0
+510530,9 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+510530,11 Aug 2024,v N S-Chargers,Manchester,2,2,2,0,0,2
+510530,15 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+510530,3 Sep 2024,v Durham,The Oval,1,0,0,0,0,0
+510530,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+510530,13 Sep 2024,v Australia,Cardiff,1,2,2,0,0,2
+510530,9 Nov 2024,v West Indies,Bridgetown,1,2,2,0,0,2
+510530,10 Nov 2024,v West Indies,Bridgetown,1,1,1,0,0,1
+510530,14 Nov 2024,v West Indies,Gros Islet,1,1,1,0,0,1
+510530,16 Nov 2024,v West Indies,Gros Islet,2,0,0,0,0,0
+510530,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+510530,17 Dec 2024,v Thunder,Canberra,2,0,0,0,0,0
+510530,20 Dec 2024,v Stars,Adelaide,2,1,1,0,0,1
+510530,22 Dec 2024,v Heat,Brisbane,2,0,0,0,0,0
+510530,27 Dec 2024,v Hurricanes,Adelaide,1,2,2,0,0,2
+510530,31 Dec 2024,v Scorchers,Adelaide,2,0,0,0,0,0
+510530,2 Jan 2025,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+510530,5 Jan 2025,v Hurricanes,Hobart,2,1,1,0,0,1
+510530,11 Jan 2025,v Heat,Adelaide,2,1,1,0,0,1
+510530,15 Jan 2025,v Sixers,Adelaide,2,0,0,0,0,0
+510530,22 Jan 2025,v India,Eden Gardens,2,0,0,0,0,0
+510530,25 Jan 2025,v India,Chennai,2,0,0,0,0,0
+510530,28 Jan 2025,v India,Rajkot,2,0,0,0,0,0
+510530,31 Jan 2025,v India,Pune,1,0,0,0,0,0
+510530,2 Feb 2025,v India,Wankhede,1,0,0,0,0,0
+510530,30 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+510530,14 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+510530,20 Apr 2025,v MI,Wankhede,2,0,0,0,0,0
+510530,6 Jul 2025,v Essex,The Oval,2,0,0,0,0,0
+510530,11 Jul 2025,v Glamorgan,The Oval,1,1,1,0,0,1
+510530,13 Jul 2025,v Somerset,The Oval,2,2,2,0,0,2
+510530,16 Jul 2025,v Middlesex,Lord's,2,1,1,0,0,1
+510530,18 Jul 2025,v Sussex,Hove,2,0,0,0,0,0
+510530,9 Aug 2025,v Fire,Cardiff,2,0,0,0,0,0
+510530,11 Aug 2025,v Originals,Manchester,1,2,2,0,0,2
+510530,14 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+510530,20 Aug 2025,v N S-Chargers,Lord's,2,0,0,0,0,0
+510530,23 Aug 2025,v Brave,Lord's,2,2,2,0,0,2
+510530,25 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+510530,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+510530,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+510530,21 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+510530,17 Dec 2025,v Sixers,Sydney,1,2,2,0,0,2
+510530,23 Dec 2025,v Stars,Adelaide,2,0,0,0,0,0
+510530,27 Dec 2025,v Heat,Brisbane,1,1,1,0,0,1
+510530,31 Dec 2025,v Heat,Adelaide,1,2,2,0,0,2
+510530,4 Jan 2026,v Scorchers,Perth,1,1,1,0,0,1
+510530,6 Jan 2026,v Thunder,Adelaide,2,1,1,0,0,1
+510530,9 Jan 2026,v Hurricanes,Hobart,1,0,0,0,0,0
+510530,11 Jan 2026,v Scorchers,Adelaide,1,1,1,0,0,1
+510530,13 Jan 2026,v Stars,Melbourne,2,1,1,0,0,1
+510530,17 Jan 2026,v Renegades,Adelaide,1,0,0,0,0,0
+510530,30 Jan 2026,v Sri Lanka,Pallekele,1,2,2,0,0,2
+510530,1 Feb 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+510530,3 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+510530,11 Feb 2026,v West Indies,Wankhede,1,1,1,0,0,1
+510530,14 Feb 2026,v Scotland,Eden Gardens,1,0,0,0,0,0
+510530,16 Feb 2026,v Italy,Eden Gardens,2,1,1,0,0,1
+510530,22 Feb 2026,v Sri Lanka,Pallekele,2,2,2,0,0,2
+510530,24 Feb 2026,v Pakistan,Pallekele,1,2,2,0,0,2
+510530,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

@@ -1,0 +1,118 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+528067,2 Jan 2016,v Haryana,Nagpur,1,1,1,0,0,1
+528067,3 Jan 2016,v Bengal,Nagpur,2,0,0,0,0,0
+528067,6 Jan 2016,v Vidarbha,Nagpur,2,0,0,0,0,0
+528067,7 Jan 2016,v Gujarat,Nagpur,1,0,0,0,0,0
+528067,9 Jan 2016,v Himachal,Nagpur,2,0,0,0,0,0
+528067,10 Jan 2016,v Hyderabad,Nagpur,1,0,0,0,0,0
+528067,9 Apr 2016,v MI,Wankhede,1,0,0,0,0,0
+528067,14 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+528067,17 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+528067,22 Apr 2016,v RCB,Pune,1,0,0,0,0,0
+528067,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+528067,26 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+528067,29 Apr 2016,v Guj Lions,Pune,2,0,0,0,0,0
+528067,1 May 2016,v MI,Pune,2,0,0,0,0,0
+528067,5 May 2016,v Daredevils,Delhi,1,0,0,0,0,0
+528067,14 May 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+528067,29 Jan 2017,v Karnataka,Chennai,1,0,0,0,0,0
+528067,30 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+528067,31 Jan 2017,v Goa,Chennai,1,0,0,0,0,0
+528067,2 Feb 2017,v Andhra,Chennai,2,1,1,0,0,1
+528067,3 Feb 2017,v Kerala,Chennai,1,0,0,0,0,0
+528067,12 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+528067,15 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+528067,16 Feb 2017,v West Zone,Wankhede,1,2,2,0,0,2
+528067,18 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+528067,11 Jan 2018,v Goa,Vizianagaram,2,0,0,0,0,0
+528067,12 Jan 2018,v Karnataka,Vizianagaram,1,0,0,0,0,0
+528067,14 Jan 2018,v Hyderabad,Visakhapatnam,2,1,1,0,0,1
+528067,23 Jan 2018,v UP,Eden Gardens,1,1,1,0,0,1
+528067,24 Jan 2018,v Bengal,Kolkata,2,0,0,0,0,0
+528067,29 Apr 2018,v KKR,Bengaluru,2,0,0,0,0,0
+528067,5 May 2018,v CSK,Pune,2,0,0,0,0,0
+528067,21 Feb 2019,v Rajasthan,Surat,1,1,1,0,0,1
+528067,24 Feb 2019,v Bihar,Surat,1,2,2,0,0,2
+528067,2 Mar 2019,v Meghalaya,Surat,2,0,0,0,0,0
+528067,30 Mar 2019,v MI,Mohali,1,1,1,0,0,1
+528067,1 Apr 2019,v DC,Mohali,2,0,0,0,0,0
+528067,6 Apr 2019,v CSK,Chennai,1,0,0,0,0,0
+528067,13 Apr 2019,v RCB,Mohali,2,1,1,0,0,1
+528067,16 Apr 2019,v RR,Mohali,2,0,0,0,0,0
+528067,20 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+528067,24 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+528067,29 Apr 2019,v SRH,Hyderabad,1,1,1,0,0,1
+528067,3 May 2019,v KKR,Mohali,2,0,0,0,0,0
+528067,5 May 2019,v CSK,Mohali,1,0,0,0,0,0
+528067,8 Nov 2019,v Kerala,Thumba,2,0,0,0,0,0
+528067,9 Nov 2019,v Rajasthan,Thumba,2,0,0,0,0,0
+528067,11 Nov 2019,v UP,Thiruvananthapuram,2,0,0,0,0,0
+528067,14 Nov 2019,v Manipur,Thiruvananthapuram,1,0,0,0,0,0
+528067,15 Nov 2019,v Tripura,Thiruvananthapuram,1,2,2,0,0,2
+528067,17 Nov 2019,v Vidarbha,Thiruvananthapuram,2,1,1,0,0,1
+528067,21 Nov 2019,v Karnataka,Surat,2,0,0,0,0,0
+528067,22 Nov 2019,v Mumbai,Surat,1,0,0,0,0,0
+528067,25 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+528067,27 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+528067,29 Nov 2019,v Rajasthan,Surat,1,1,1,0,0,1
+528067,1 Dec 2019,v Karnataka,Surat,1,1,1,0,0,1
+528067,24 Sep 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+528067,27 Sep 2020,v RR,Sharjah,2,0,0,0,0,0
+528067,15 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+528067,18 Oct 2020,v MI,Dubai (DICS),1,2,2,0,0,2
+528067,20 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+528067,24 Oct 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+528067,26 Oct 2020,v KKR,Sharjah,1,1,1,0,0,1
+528067,30 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+528067,1 Nov 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+528067,10 Jan 2021,v Jharkhand,Eden Gardens,2,1,1,0,0,1
+528067,12 Jan 2021,v Assam,Eden Gardens,1,0,0,0,0,0
+528067,14 Jan 2021,v Odisha,Eden Gardens,1,1,1,0,0,1
+528067,16 Jan 2021,v Hyderabad,Jadavpur Uni,1,0,0,0,0,0
+528067,18 Jan 2021,v Bengal,Eden Gardens,1,1,1,0,0,1
+528067,26 Jan 2021,v Himachal,Ahmedabad,1,0,0,0,0,0
+528067,29 Jan 2021,v Rajasthan,Ahmedabad,1,1,1,0,0,1
+528067,31 Jan 2021,v Baroda,Ahmedabad,1,0,0,0,0,0
+528067,12 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+528067,16 Apr 2021,v CSK,Wankhede,2,0,0,0,0,0
+528067,21 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+528067,4 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+528067,5 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+528067,6 Nov 2021,v Puducherry,Lucknow,1,0,0,0,0,0
+528067,8 Nov 2021,v Goa,Lucknow,2,0,0,0,0,0
+528067,9 Nov 2021,v Punjab,Lucknow,1,1,1,0,0,1
+528067,18 Nov 2021,v Kerala,Delhi,1,1,1,0,0,1
+528067,20 Nov 2021,v Hyderabad,Delhi,1,1,1,0,0,1
+528067,22 Nov 2021,v Karnataka,Delhi,1,0,0,0,0,0
+528067,27 Mar 2022,v DC,Brabourne,2,0,0,0,0,0
+528067,2 Apr 2022,v RR,DY Patil,1,0,0,0,0,0
+528067,6 Apr 2022,v KKR,Pune,2,0,0,0,0,0
+528067,9 Apr 2022,v RCB,Pune,2,0,0,0,0,0
+528067,13 Apr 2022,v Punjab Kings,Pune,1,0,0,0,0,0
+528067,16 Apr 2022,v LSG,Brabourne,1,0,0,0,0,0
+528067,6 May 2022,v GT,Brabourne,2,0,0,0,0,0
+528067,9 May 2022,v KKR,DY Patil,1,0,0,0,0,0
+528067,11 Oct 2022,v Chhattisgarh,Lucknow,1,0,0,0,0,0
+528067,18 Oct 2022,v Jharkhand,Lucknow,2,0,0,0,0,0
+528067,20 Oct 2022,v Chandigarh,Lucknow,2,1,1,0,0,1
+528067,8 Apr 2023,v DC,Guwahati,2,0,0,0,0,0
+528067,7 May 2023,v SRH,Jaipur,2,0,0,0,0,0
+528067,16 Oct 2023,v Bihar,Mumbai,1,0,0,0,0,0
+528067,17 Oct 2023,v Sikkim,DY Patil,1,1,1,0,0,1
+528067,19 Oct 2023,v Himachal,Mumbai,2,0,0,0,0,0
+528067,21 Oct 2023,v Kerala,DY Patil,1,0,0,0,0,0
+528067,23 Oct 2023,v Assam,DY Patil,1,0,0,0,0,0
+528067,25 Oct 2023,v Services,Mumbai,2,2,2,0,0,2
+528067,27 Oct 2023,v Odisha,Mumbai,1,0,0,0,0,0
+528067,23 Nov 2024,v Jharkhand,Mumbai,2,0,0,0,0,0
+528067,25 Nov 2024,v Delhi,Wankhede,1,0,0,0,0,0
+528067,29 Nov 2024,v Himachal,Mumbai,2,0,0,0,0,0
+528067,3 Dec 2024,v UP,Mumbai,1,0,0,0,0,0
+528067,5 Dec 2024,v Haryana,Wankhede,1,0,0,0,0,0
+528067,26 Nov 2025,v Maharashtra,Eden Gardens,1,0,0,0,0,0
+528067,28 Nov 2025,v UP,Jadavpur Uni,1,0,0,0,0,0
+528067,30 Nov 2025,v Bihar,Eden Gardens,2,1,1,0,0,1
+528067,2 Dec 2025,v Chandigarh,Jadavpur Uni,2,0,0,0,0,0
+528067,4 Dec 2025,v Hyderabad,Jadavpur Uni,2,1,1,0,0,1
+528067,6 Dec 2025,v Goa,Eden Gardens,2,0,0,0,0,0
+528067,8 Dec 2025,v M. Pradesh,Eden Gardens,2,0,0,0,0,0

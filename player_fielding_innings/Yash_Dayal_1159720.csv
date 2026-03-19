@@ -1,0 +1,72 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1159720,21 Feb 2019,v Maharashtra,Delhi,1,0,0,0,0,0
+1159720,22 Feb 2019,v Hyderabad,Delhi,1,0,0,0,0,0
+1159720,24 Feb 2019,v Tripura,Delhi,2,0,0,0,0,0
+1159720,25 Feb 2019,v Puducherry,Delhi,2,0,0,0,0,0
+1159720,27 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+1159720,28 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+1159720,9 Mar 2019,v Karnataka,Indore,1,0,0,0,0,0
+1159720,10 Mar 2019,v Vidarbha,Indore,1,0,0,0,0,0
+1159720,11 Mar 2019,v Delhi,Indore,2,0,0,0,0,0
+1159720,9 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+1159720,12 Nov 2019,v Tripura,Thumba,1,0,0,0,0,0
+1159720,14 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+1159720,6 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+1159720,8 Nov 2021,v Uttarakhand,Sultanpur,1,0,0,0,0,0
+1159720,9 Nov 2021,v Hyderabad,Sultanpur,1,0,0,0,0,0
+1159720,14 Apr 2022,v RR,DY Patil,2,0,0,0,0,0
+1159720,17 Apr 2022,v CSK,Pune,1,0,0,0,0,0
+1159720,23 Apr 2022,v KKR,DY Patil,2,0,0,0,0,0
+1159720,27 Apr 2022,v SRH,Wankhede,1,0,0,0,0,0
+1159720,10 May 2022,v LSG,Pune,2,0,0,0,0,0
+1159720,15 May 2022,v CSK,Wankhede,1,1,1,0,0,1
+1159720,19 May 2022,v RCB,Wankhede,2,0,0,0,0,0
+1159720,24 May 2022,v RR,Eden Gardens,1,0,0,0,0,0
+1159720,29 May 2022,v RR,Ahmedabad,1,0,0,0,0,0
+1159720,11 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+1159720,12 Oct 2022,v Tripura,Jaipur,2,1,1,0,0,1
+1159720,14 Oct 2022,v Delhi,Jaipur,1,0,0,0,0,0
+1159720,18 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+1159720,20 Oct 2022,v Hyderabad,Jaipur,1,0,0,0,0,0
+1159720,22 Oct 2022,v Punjab,Jaipur,2,0,0,0,0,0
+1159720,31 Mar 2023,v CSK,Ahmedabad,1,0,0,0,0,0
+1159720,4 Apr 2023,v DC,Delhi,1,0,0,0,0,0
+1159720,9 Apr 2023,v KKR,Ahmedabad,2,1,1,0,0,1
+1159720,15 May 2023,v SRH,Ahmedabad,2,0,0,0,0,0
+1159720,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+1159720,17 Oct 2023,v Tamil Nadu,Dehradun,1,0,0,0,0,0
+1159720,21 Oct 2023,v Nagaland,Dehradun,2,0,0,0,0,0
+1159720,23 Oct 2023,v Tripura,Dehradun,2,0,0,0,0,0
+1159720,25 Oct 2023,v Karnataka,Dehradun,2,0,0,0,0,0
+1159720,27 Oct 2023,v M. Pradesh,Dehradun,2,0,0,0,0,0
+1159720,31 Oct 2023,v Gujarat,Mohali,1,0,0,0,0,0
+1159720,2 Nov 2023,v Punjab,Mohali,2,0,0,0,0,0
+1159720,22 Mar 2024,v CSK,Chennai,2,0,0,0,0,0
+1159720,25 Mar 2024,v Punjab Kings,Bengaluru,1,0,0,0,0,0
+1159720,29 Mar 2024,v KKR,Bengaluru,2,0,0,0,0,0
+1159720,2 Apr 2024,v LSG,Bengaluru,1,0,0,0,0,0
+1159720,6 Apr 2024,v RR,Jaipur,2,1,1,0,0,1
+1159720,15 Apr 2024,v SRH,Bengaluru,1,0,0,0,0,0
+1159720,21 Apr 2024,v KKR,Eden Gardens,1,1,1,0,0,1
+1159720,25 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+1159720,28 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+1159720,4 May 2024,v GT,Bengaluru,1,0,0,0,0,0
+1159720,9 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+1159720,12 May 2024,v DC,Bengaluru,2,0,0,0,0,0
+1159720,18 May 2024,v CSK,Bengaluru,2,1,1,0,0,1
+1159720,22 May 2024,v RR,Ahmedabad,2,0,0,0,0,0
+1159720,22 Mar 2025,v KKR,Eden Gardens,1,0,0,0,0,0
+1159720,28 Mar 2025,v CSK,Chennai,2,0,0,0,0,0
+1159720,2 Apr 2025,v GT,Bengaluru,2,0,0,0,0,0
+1159720,7 Apr 2025,v MI,Wankhede,2,1,1,0,0,1
+1159720,10 Apr 2025,v DC,Bengaluru,2,0,0,0,0,0
+1159720,13 Apr 2025,v RR,Jaipur,1,0,0,0,0,0
+1159720,18 Apr 2025,v Punjab Kings,Bengaluru,2,0,0,0,0,0
+1159720,20 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+1159720,24 Apr 2025,v RR,Bengaluru,2,0,0,0,0,0
+1159720,27 Apr 2025,v DC,Delhi,1,0,0,0,0,0
+1159720,3 May 2025,v CSK,Bengaluru,2,0,0,0,0,0
+1159720,23 May 2025,v SRH,Lucknow,1,0,0,0,0,0
+1159720,27 May 2025,v LSG,Lucknow,1,1,1,0,0,1
+1159720,29 May 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+1159720,3 Jun 2025,v Punjab Kings,Ahmedabad,2,1,1,0,0,1

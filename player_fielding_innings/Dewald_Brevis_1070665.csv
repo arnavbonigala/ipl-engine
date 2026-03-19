@@ -1,0 +1,136 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1070665,8 Oct 2021,v Easterns,Bloemfontein,2,1,1,0,0,1
+1070665,9 Oct 2021,v North West,Bloemfontein,1,1,1,0,0,1
+1070665,12 Feb 2022,v Knights,Gqeberha,2,1,1,0,0,1
+1070665,14 Feb 2022,v Dolphins,Gqeberha,1,0,0,0,0,0
+1070665,17 Feb 2022,v Lions,Gqeberha,1,0,0,0,0,0
+1070665,19 Feb 2022,v W Province,Gqeberha,1,0,0,0,0,0
+1070665,22 Feb 2022,v North West,Gqeberha,2,0,0,0,0,0
+1070665,25 Feb 2022,v Dolphins,Gqeberha,1,0,0,0,0,0
+1070665,27 Feb 2022,v Boland,Gqeberha,1,0,0,0,0,0
+1070665,6 Apr 2022,v KKR,Pune,2,1,1,0,0,1
+1070665,9 Apr 2022,v RCB,Pune,2,0,0,0,0,0
+1070665,13 Apr 2022,v Punjab Kings,Pune,1,0,0,0,0,0
+1070665,16 Apr 2022,v LSG,Brabourne,1,0,0,0,0,0
+1070665,21 Apr 2022,v CSK,DY Patil,2,1,1,0,0,1
+1070665,24 Apr 2022,v LSG,Wankhede,1,1,1,0,0,1
+1070665,21 May 2022,v DC,Wankhede,1,0,0,0,0,0
+1070665,31 Aug 2022,v Tallawahs,Basseterre,1,0,0,0,0,0
+1070665,1 Sep 2022,v Royals,Basseterre,2,0,0,0,0,0
+1070665,3 Sep 2022,v Trinbago,Basseterre,-,TDNF,-,-,-,-
+1070665,8 Sep 2022,v Amazon,Gros Islet,1,0,0,0,0,0
+1070665,11 Sep 2022,v Kings,Gros Islet,1,0,0,0,0,0
+1070665,14 Sep 2022,v Tallawahs,Port of Spain,1,0,0,0,0,0
+1070665,17 Sep 2022,v Kings,Tarouba,1,3,3,0,0,3
+1070665,21 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+1070665,22 Sep 2022,v Trinbago,Providence,2,0,0,0,0,0
+1070665,17 Oct 2022,v Dolphins,Potchefstroom,2,1,1,0,0,1
+1070665,19 Oct 2022,v Lions,Potchefstroom,2,1,1,0,0,1
+1070665,21 Oct 2022,v W Province,Potchefstroom,2,0,0,0,0,0
+1070665,22 Oct 2022,v North West,Potchefstroom,1,1,1,0,0,1
+1070665,25 Oct 2022,v Boland,Potchefstroom,1,1,1,0,0,1
+1070665,28 Oct 2022,v Warriors,Potchefstroom,1,0,0,0,0,0
+1070665,31 Oct 2022,v Knights,Potchefstroom,2,2,2,0,0,2
+1070665,2 Nov 2022,v Knights,Potchefstroom,2,0,0,0,0,0
+1070665,5 Nov 2022,v Dolphins,Potchefstroom,1,0,0,0,0,0
+1070665,10 Jan 2023,v Paarl Royals,Cape Town,1,0,0,0,0,0
+1070665,13 Jan 2023,v Super Giants,Cape Town,2,0,0,0,0,0
+1070665,14 Jan 2023,v Super Kings,Cape Town,1,1,1,0,0,1
+1070665,16 Jan 2023,v Sunrisers,Gqeberha,2,0,0,0,0,0
+1070665,18 Jan 2023,v Sunrisers,Cape Town,2,0,0,0,0,0
+1070665,21 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+1070665,23 Jan 2023,v Capitals,Cape Town,1,1,1,0,0,1
+1070665,2 Feb 2023,v Super Giants,Durban,2,1,1,0,0,1
+1070665,4 Feb 2023,v Capitals,Centurion,2,2,2,0,0,2
+1070665,6 Feb 2023,v Super Kings,Johannesburg,1,0,0,0,0,0
+1070665,30 Aug 2023,v Australia,Durban,1,1,1,0,0,1
+1070665,1 Sep 2023,v Australia,Durban,2,0,0,0,0,0
+1070665,11 Jan 2024,v Super Giants,Durban,2,1,1,0,0,1
+1070665,13 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+1070665,16 Jan 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+1070665,19 Jan 2024,v Paarl Royals,Cape Town,1,1,1,0,0,1
+1070665,21 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+1070665,23 Jan 2024,v Super Giants,Cape Town,1,1,1,0,0,1
+1070665,27 Jan 2024,v Sunrisers,Gqeberha,1,1,1,0,0,1
+1070665,29 Jan 2024,v Super Kings,Cape Town,2,0,0,0,0,0
+1070665,1 Feb 2024,v Capitals,Centurion,2,0,0,0,0,0
+1070665,3 Feb 2024,v Capitals,Cape Town,2,0,0,0,0,0
+1070665,8 Mar 2024,v North West,Centurion,2,1,1,0,0,1
+1070665,10 Mar 2024,v Boland,Paarl,1,0,0,0,0,0
+1070665,13 Mar 2024,v Warriors,Centurion,1,1,1,0,0,1
+1070665,24 Mar 2024,v GT,Ahmedabad,1,0,0,0,0,0
+1070665,1 Apr 2024,v RR,Wankhede,2,0,0,0,0,0
+1070665,17 May 2024,v LSG,Wankhede,1,0,0,0,0,0
+1070665,16 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+1070665,18 Jul 2024,v SF,Dallas,1,1,1,0,0,1
+1070665,21 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+1070665,24 Jul 2024,v Texas,Dallas,2,0,0,0,0,0
+1070665,27 Sep 2024,v Lions,Johannesburg,2,1,1,0,0,1
+1070665,4 Oct 2024,v Dolphins,Durban,2,1,1,0,0,1
+1070665,6 Oct 2024,v W Province,Centurion,2,0,0,0,0,0
+1070665,9 Jan 2025,v Sunrisers,Gqeberha,2,0,0,0,0,0
+1070665,11 Jan 2025,v Super Kings,Johannesburg,2,1,1,0,0,1
+1070665,13 Jan 2025,v Paarl Royals,Cape Town,2,1,1,0,0,1
+1070665,15 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+1070665,18 Jan 2025,v Super Kings,Cape Town,1,1,1,0,0,1
+1070665,21 Jan 2025,v Super Giants,Durban,-,TDNF,-,-,-,-
+1070665,25 Jan 2025,v Super Giants,Cape Town,1,0,0,0,0,0
+1070665,29 Jan 2025,v Sunrisers,Cape Town,1,1,1,0,0,1
+1070665,31 Jan 2025,v Capitals,Centurion,2,0,0,0,0,0
+1070665,2 Feb 2025,v Capitals,Cape Town,2,0,0,0,0,0
+1070665,4 Feb 2025,v Paarl Royals,Gqeberha,2,2,2,0,0,2
+1070665,8 Feb 2025,v Sunrisers,Johannesburg,2,0,0,0,0,0
+1070665,25 Apr 2025,v SRH,Chennai,2,0,0,0,0,0
+1070665,30 Apr 2025,v Punjab Kings,Chennai,2,2,2,0,0,2
+1070665,3 May 2025,v RCB,Bengaluru,1,2,2,0,0,2
+1070665,7 May 2025,v KKR,Eden Gardens,1,1,1,0,0,1
+1070665,20 May 2025,v RR,Delhi,2,1,1,0,0,1
+1070665,25 May 2025,v GT,Ahmedabad,2,0,0,0,0,0
+1070665,30 May 2025,v Essex,Southampton,2,2,2,0,0,2
+1070665,5 Jun 2025,v Surrey,The Oval,1,0,0,0,0,0
+1070665,6 Jun 2025,v Gloucs,Southampton,1,1,1,0,0,1
+1070665,8 Jun 2025,v Kent,Canterbury,2,0,0,0,0,0
+1070665,13 Jun 2025,v Middlesex,Southampton,2,0,0,0,0,0
+1070665,17 Jun 2025,v Surrey,Southampton,1,1,1,0,0,1
+1070665,19 Jun 2025,v Somerset,Taunton,1,0,0,0,0,0
+1070665,20 Jun 2025,v Gloucs,Bristol,2,1,1,0,0,1
+1070665,14 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+1070665,16 Jul 2025,v New Zealand,Harare,1,0,0,0,0,0
+1070665,20 Jul 2025,v Zimbabwe,Harare,1,1,1,0,0,1
+1070665,22 Jul 2025,v New Zealand,Harare,2,0,0,0,0,0
+1070665,26 Jul 2025,v New Zealand,Harare,1,1,1,0,0,1
+1070665,10 Aug 2025,v Australia,Darwin,1,1,1,0,0,1
+1070665,12 Aug 2025,v Australia,Darwin,2,2,2,0,0,2
+1070665,16 Aug 2025,v Australia,Cairns,2,1,1,0,0,1
+1070665,10 Sep 2025,v England,Cardiff,2,0,0,0,0,0
+1070665,12 Sep 2025,v England,Manchester,1,0,0,0,0,0
+1070665,28 Oct 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+1070665,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+1070665,1 Nov 2025,v Pakistan,Lahore,2,0,0,0,0,0
+1070665,9 Dec 2025,v India,Cuttack,1,0,0,0,0,0
+1070665,11 Dec 2025,v India,New Chandigarh,2,1,1,0,0,1
+1070665,14 Dec 2025,v India,Dharamsala,2,0,0,0,0,0
+1070665,19 Dec 2025,v India,Ahmedabad,1,0,0,0,0,0
+1070665,27 Dec 2025,v Super Kings,Centurion,1,1,1,0,0,1
+1070665,29 Dec 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+1070665,31 Dec 2025,v MI Cape Town,Cape Town,2,1,1,0,0,1
+1070665,3 Jan 2026,v Super Giants,Centurion,-,TDNF,-,-,-,-
+1070665,5 Jan 2026,v Sunrisers,Centurion,2,0,0,0,0,0
+1070665,7 Jan 2026,v Super Giants,Durban,2,3,3,0,0,3
+1070665,10 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+1070665,12 Jan 2026,v MI Cape Town,Centurion,2,2,2,0,0,2
+1070665,15 Jan 2026,v Paarl Royals,Centurion,2,1,1,0,0,1
+1070665,17 Jan 2026,v Super Kings,Johannesburg,2,0,0,0,0,0
+1070665,21 Jan 2026,v Sunrisers,Durban,1,0,0,0,0,0
+1070665,25 Jan 2026,v Sunrisers,Cape Town,2,0,0,0,0,0
+1070665,27 Jan 2026,v West Indies,Paarl,1,1,1,0,0,1
+1070665,29 Jan 2026,v West Indies,Centurion,1,1,1,0,0,1
+1070665,31 Jan 2026,v West Indies,Johannesburg,1,1,1,0,0,1
+1070665,9 Feb 2026,v Canada,Ahmedabad,2,0,0,0,0,0
+1070665,11 Feb 2026,v Afghanistan,Ahmedabad,2,0,0,0,0,0
+1070665,14 Feb 2026,v New Zealand,Ahmedabad,1,0,0,0,0,0
+1070665,18 Feb 2026,v U.A.E.,Delhi,1,0,0,0,0,0
+1070665,22 Feb 2026,v India,Ahmedabad,2,1,1,0,0,1
+1070665,26 Feb 2026,v West Indies,Ahmedabad,1,1,1,0,0,1
+1070665,1 Mar 2026,v Zimbabwe,Delhi,1,1,1,0,0,1
+1070665,4 Mar 2026,v New Zealand,Eden Gardens,2,0,0,0,0,0

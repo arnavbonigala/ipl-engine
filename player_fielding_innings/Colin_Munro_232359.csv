@@ -1,0 +1,464 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+232359,3 Dec 2010,v Central D,Auckland,2,1,1,0,0,1
+232359,5 Dec 2010,v Northern Dis,Auckland,2,1,1,0,0,1
+232359,10 Dec 2010,v Otago,Invercargill,2,1,1,0,0,1
+232359,12 Dec 2010,v Canterbury,Christchurch,2,0,0,0,0,0
+232359,14 Dec 2010,v Wellington,Wellington,2,0,0,0,0,0
+232359,18 Dec 2010,v Otago,Auckland,-,TDNF,-,-,-,-
+232359,21 Dec 2010,v Canterbury,Auckland,2,1,1,0,0,1
+232359,27 Dec 2010,v Northern Dis,Mount Maunganui,1,1,1,0,0,1
+232359,29 Dec 2010,v Central D,New Plymouth,2,0,0,0,0,0
+232359,2 Jan 2011,v Central D,Auckland,2,2,2,0,0,2
+232359,19 Sep 2011,v KKR,Hyderabad,1,0,0,0,0,0
+232359,20 Sep 2011,v Somerset,Hyderabad,2,0,0,0,0,0
+232359,18 Dec 2011,v Wellington,Auckland,2,0,0,0,0,0
+232359,26 Dec 2011,v Northern Dis,Auckland,1,0,0,0,0,0
+232359,28 Dec 2011,v Wellington,Wellington,2,0,0,0,0,0
+232359,3 Jan 2012,v Canterbury,Rangiora,1,1,1,0,0,1
+232359,6 Jan 2012,v Otago,Auckland,2,0,0,0,0,0
+232359,8 Jan 2012,v Northern Dis,Mount Maunganui,1,0,0,0,0,0
+232359,12 Jan 2012,v Central D,Auckland,1,0,0,0,0,0
+232359,15 Jan 2012,v Otago,Dunedin,1,0,0,0,0,0
+232359,17 Jan 2012,v Canterbury,Auckland,2,0,0,0,0,0
+232359,22 Jan 2012,v Canterbury,Auckland,2,0,0,0,0,0
+232359,9 Oct 2012,v S Stallions,Johannesburg,1,0,0,0,0,0
+232359,10 Oct 2012,v Hampshire,Centurion,1,1,1,0,0,1
+232359,15 Oct 2012,v KKR,Cape Town,1,0,0,0,0,0
+232359,17 Oct 2012,v Titans,Durban,1,0,0,0,0,0
+232359,23 Oct 2012,v Scorchers,Centurion,1,1,1,0,0,1
+232359,16 Nov 2012,v Wellington,Wellington,1,1,1,0,0,1
+232359,21 Dec 2012,v South Africa,Durban,2,0,0,0,0,0
+232359,23 Dec 2012,v South Africa,East London,1,0,0,0,0,0
+232359,26 Dec 2012,v South Africa,Gqeberha,1,0,0,0,0,0
+232359,4 Feb 2013,v England XI,Whangarei,-,TDNF,-,-,-,-
+232359,5 Feb 2013,v England XI,Whangarei,1,0,0,0,0,0
+232359,6 Feb 2013,v England XI,Whangarei,1,0,0,0,0,0
+232359,9 Feb 2013,v England,Auckland,1,0,0,0,0,0
+232359,12 Feb 2013,v England,Hamilton,2,1,1,0,0,1
+232359,15 Feb 2013,v England,Wellington,2,0,0,0,0,0
+232359,22 Jun 2013,v Kent,Canterbury,2,0,0,0,0,0
+232359,25 Jun 2013,v England,The Oval,2,0,0,0,0,0
+232359,27 Jun 2013,v England,The Oval,1,0,0,0,0,0
+232359,6 Nov 2013,v Bangladesh,Mirpur,2,0,0,0,0,0
+232359,21 Nov 2013,v Sri Lanka,Pallekele,2,0,0,0,0,0
+232359,29 Nov 2013,v Wellington,Auckland,2,0,0,0,0,0
+232359,5 Jan 2014,v Canterbury,Christchurch,1,1,1,0,0,1
+232359,8 Jan 2014,v Northern Dis,Auckland,1,1,1,0,0,1
+232359,11 Jan 2014,v West Indies,Auckland,2,1,1,0,0,1
+232359,15 Jan 2014,v West Indies,Wellington,1,0,0,0,0,0
+232359,22 Mar 2014,v England,Chattogram,1,0,0,0,0,0
+232359,24 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+232359,16 May 2014,v Durham,Chester-le-Street,1,0,0,0,0,0
+232359,17 May 2014,v Lancashire,Manchester,1,0,0,0,0,0
+232359,23 May 2014,v Notts,Nottingham,2,0,0,0,0,0
+232359,30 May 2014,v Northants,Worcester,1,0,0,0,0,0
+232359,6 Jun 2014,v Leics,Leicester,1,0,0,0,0,0
+232359,7 Jun 2014,v Durham,Worcester,1,0,0,0,0,0
+232359,13 Jun 2014,v Derbyshire,Derby,2,2,2,0,0,2
+232359,20 Jun 2014,v Warwickshire,Worcester,1,0,0,0,0,0
+232359,6 Jul 2014,v Lancashire,Worcester,1,0,0,0,0,0
+232359,11 Jul 2014,v Warwickshire,Birmingham,2,0,0,0,0,0
+232359,18 Jul 2014,v Northants,Northampton,2,1,1,0,0,1
+232359,25 Jul 2014,v Derbyshire,Worcester,2,0,0,0,0,0
+232359,2 Aug 2014,v Surrey,The Oval,2,0,0,0,0,0
+232359,31 Oct 2014,v South Island,Hamilton,1,0,0,0,0,0
+232359,1 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+232359,8 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+232359,14 Nov 2014,v Wellington,Auckland,2,0,0,0,0,0
+232359,15 Nov 2014,v Central D,Auckland,-,TDNF,-,-,-,-
+232359,16 Nov 2014,v Northern Dis,Auckland,1,1,1,0,0,1
+232359,6 Dec 2014,v Northern Dis,Hamilton,1,0,0,0,0,0
+232359,7 Dec 2014,v Wellington,Hamilton,1,1,1,0,0,1
+232359,29 May 2015,v Leics,Worcester,1,0,0,0,0,0
+232359,5 Jun 2015,v Northants,Northampton,2,0,0,0,0,0
+232359,7 Jun 2015,v Notts,Worcester,1,1,1,0,0,1
+232359,12 Jun 2015,v Durham,Chester-le-Street,2,0,0,0,0,0
+232359,18 Jun 2015,v Lancashire,Manchester,1,1,1,0,0,1
+232359,19 Jun 2015,v Derbyshire,Worcester,1,0,0,0,0,0
+232359,23 Jun 2015,v England,Manchester,1,0,0,0,0,0
+232359,26 Jun 2015,v Northants,Worcester,1,0,0,0,0,0
+232359,3 Jul 2015,v Notts,Nottingham,2,0,0,0,0,0
+232359,5 Jul 2015,v Durham,Worcester,1,0,0,0,0,0
+232359,10 Jul 2015,v Warwickshire,Worcester,2,0,0,0,0,0
+232359,14 Jul 2015,v Yorkshire,Leeds,2,0,0,0,0,0
+232359,17 Jul 2015,v Derbyshire,Derby,1,0,0,0,0,0
+232359,9 Aug 2015,v Zimbabwe,Harare,2,2,2,0,0,2
+232359,14 Aug 2015,v South Africa,Durban,2,0,0,0,0,0
+232359,16 Aug 2015,v South Africa,Centurion,2,2,2,0,0,2
+232359,11 Nov 2015,v Central D,New Plymouth,2,2,2,0,0,2
+232359,15 Nov 2015,v Central D,Auckland,2,0,0,0,0,0
+232359,18 Nov 2015,v Canterbury,Auckland,2,0,0,0,0,0
+232359,22 Nov 2015,v Otago,Auckland,2,0,0,0,0,0
+232359,26 Nov 2015,v Canterbury,Christchurch,2,0,0,0,0,0
+232359,29 Nov 2015,v Wellington,Wellington,1,0,0,0,0,0
+232359,5 Dec 2015,v Northern Dis,Hamilton,2,0,0,0,0,0
+232359,6 Dec 2015,v Wellington,Auckland,2,0,0,0,0,0
+232359,11 Dec 2015,v Otago,New Plymouth,1,0,0,0,0,0
+232359,12 Dec 2015,v Canterbury,New Plymouth,1,0,0,0,0,0
+232359,13 Dec 2015,v Otago,New Plymouth,2,0,0,0,0,0
+232359,7 Jan 2016,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+232359,10 Jan 2016,v Sri Lanka,Auckland,1,0,0,0,0,0
+232359,15 Jan 2016,v Pakistan,Auckland,1,1,1,0,0,1
+232359,17 Jan 2016,v Pakistan,Hamilton,1,0,0,0,0,0
+232359,22 Jan 2016,v Pakistan,Wellington,2,0,0,0,0,0
+232359,28 Feb 2016,v South Island,Wellington,1,0,0,0,0,0
+232359,15 Mar 2016,v India,Nagpur,2,0,0,0,0,0
+232359,18 Mar 2016,v Australia,Dharamsala,2,0,0,0,0,0
+232359,22 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+232359,26 Mar 2016,v Bangladesh,Eden Gardens,2,0,0,0,0,0
+232359,30 Mar 2016,v England,Delhi,2,1,1,0,0,1
+232359,10 Apr 2016,v Daredevils,Eden Gardens,1,0,0,0,0,0
+232359,13 Apr 2016,v MI,Eden Gardens,2,1,1,0,0,1
+232359,22 May 2016,v SRH,Eden Gardens,2,1,1,0,0,1
+232359,25 May 2016,v SRH,Delhi,1,0,0,0,0,0
+232359,29 Jun 2016,v Zouks,Port of Spain,2,0,0,0,0,0
+232359,1 Jul 2016,v Tridents,Port of Spain,2,0,0,0,0,0
+232359,2 Jul 2016,v Amazon,Port of Spain,2,0,0,0,0,0
+232359,4 Jul 2016,v Tallawahs,Port of Spain,2,0,0,0,0,0
+232359,10 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+232359,16 Jul 2016,v Tridents,Bridgetown,1,0,0,0,0,0
+232359,18 Jul 2016,v Tallawahs,Kingston,1,0,0,0,0,0
+232359,26 Jul 2016,v Zouks,Gros Islet,1,0,0,0,0,0
+232359,29 Jul 2016,v Patriots,Lauderhill,1,0,0,0,0,0
+232359,4 Aug 2016,v Zouks,Basseterre,1,0,0,0,0,0
+232359,5 Aug 2016,v Tallawahs,Basseterre,1,1,1,0,0,1
+232359,17 Dec 2016,v Northern Dis,Hamilton,2,0,0,0,0,0
+232359,18 Dec 2016,v Canterbury,Auckland,1,0,0,0,0,0
+232359,22 Dec 2016,v Wellington,Wellington,1,0,0,0,0,0
+232359,3 Jan 2017,v Bangladesh,Napier,1,0,0,0,0,0
+232359,6 Jan 2017,v Bangladesh,Mount Maunganui,2,1,1,0,0,1
+232359,8 Jan 2017,v Bangladesh,Mount Maunganui,2,0,0,0,0,0
+232359,14 Jan 2017,v Thunder,Sydney,2,0,0,0,0,0
+232359,21 Jan 2017,v Stars,Melbourne,1,0,0,0,0,0
+232359,25 Jan 2017,v Heat,Brisbane,1,0,0,0,0,0
+232359,17 Feb 2017,v South Africa,Auckland,1,0,0,0,0,0
+232359,4 Aug 2017,v Stars,Gros Islet,1,1,1,0,0,1
+232359,7 Aug 2017,v Stars,Port of Spain,1,0,0,0,0,0
+232359,9 Aug 2017,v Tallawahs,Port of Spain,2,0,0,0,0,0
+232359,11 Aug 2017,v Amazon,Port of Spain,1,0,0,0,0,0
+232359,12 Aug 2017,v Tridents,Port of Spain,1,0,0,0,0,0
+232359,14 Aug 2017,v Patriots,Port of Spain,1,0,0,0,0,0
+232359,19 Aug 2017,v Amazon,Providence,1,0,0,0,0,0
+232359,23 Aug 2017,v Patriots,Basseterre,1,0,0,0,0,0
+232359,26 Aug 2017,v Tallawahs,Kingston,2,1,1,0,0,1
+232359,2 Sep 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+232359,5 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+232359,7 Sep 2017,v Amazon,Tarouba,1,0,0,0,0,0
+232359,9 Sep 2017,v Patriots,Tarouba,1,0,0,0,0,0
+232359,1 Nov 2017,v India,Delhi,1,0,0,0,0,0
+232359,4 Nov 2017,v India,Rajkot,2,1,1,0,0,1
+232359,7 Nov 2017,v India,Thiruvananthapuram,1,0,0,0,0,0
+232359,13 Dec 2017,v Central D,Auckland,1,0,0,0,0,0
+232359,16 Dec 2017,v Northern Dis,Mount Maunganui,1,1,1,0,0,1
+232359,29 Dec 2017,v West Indies,Nelson,2,1,1,0,0,1
+232359,1 Jan 2018,v West Indies,Mount Maunganui,-,TDNF,-,-,-,-
+232359,3 Jan 2018,v West Indies,Mount Maunganui,2,1,1,0,0,1
+232359,22 Jan 2018,v Pakistan,Wellington,1,1,1,0,0,1
+232359,25 Jan 2018,v Pakistan,Auckland,1,1,1,0,0,1
+232359,3 Feb 2018,v Australia,Sydney,2,0,0,0,0,0
+232359,13 Feb 2018,v England,Wellington,2,0,0,0,0,0
+232359,16 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+232359,18 Feb 2018,v England,Hamilton,1,0,0,0,0,0
+232359,21 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+232359,8 Apr 2018,v Kings XI,Mohali,2,0,0,0,0,0
+232359,11 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+232359,27 Apr 2018,v KKR,Delhi,2,1,1,0,0,1
+232359,30 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+232359,2 May 2018,v RR,Delhi,2,1,1,0,0,1
+232359,6 Jul 2018,v Glamorgan,Southampton,1,0,0,0,0,0
+232359,12 Jul 2018,v Sussex,Southampton,2,0,0,0,0,0
+232359,13 Jul 2018,v Kent,Beckenham,1,0,0,0,0,0
+232359,20 Jul 2018,v Middlesex,Southampton,2,1,1,0,0,1
+232359,21 Jul 2018,v Essex,Chelmsford,2,1,1,0,0,1
+232359,26 Jul 2018,v Middlesex,Lord's,1,0,0,0,0,0
+232359,1 Aug 2018,v Somerset,Taunton,1,1,1,0,0,1
+232359,3 Aug 2018,v Kent,Southampton,1,0,0,0,0,0
+232359,8 Aug 2018,v Stars,Port of Spain,2,0,0,0,0,0
+232359,10 Aug 2018,v Tallawahs,Port of Spain,2,0,0,0,0,0
+232359,11 Aug 2018,v Patriots,Port of Spain,1,0,0,0,0,0
+232359,16 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+232359,19 Aug 2018,v Tallawahs,Lauderhill,1,0,0,0,0,0
+232359,26 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+232359,1 Sep 2018,v Patriots,Basseterre,2,0,0,0,0,0
+232359,5 Sep 2018,v Amazon,Port of Spain,2,1,1,0,0,1
+232359,7 Sep 2018,v Tridents,Port of Spain,2,0,0,0,0,0
+232359,9 Sep 2018,v Amazon,Providence,2,0,0,0,0,0
+232359,11 Sep 2018,v Amazon,Providence,2,0,0,0,0,0
+232359,14 Sep 2018,v Patriots,Tarouba,2,1,1,0,0,1
+232359,16 Sep 2018,v Amazon,Tarouba,1,0,0,0,0,0
+232359,6 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+232359,7 Oct 2018,v Knights,Sharjah,2,0,0,0,0,0
+232359,10 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+232359,11 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+232359,13 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+232359,17 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+232359,18 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+232359,19 Oct 2018,v KingsLeopard,Sharjah,2,2,2,0,0,2
+232359,21 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+232359,31 Oct 2018,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+232359,2 Nov 2018,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+232359,4 Nov 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+232359,29 Dec 2018,v Central D,New Plymouth,1,0,0,0,0,0
+232359,11 Jan 2019,v Sri Lanka,Auckland,2,0,0,0,0,0
+232359,13 Jan 2019,v Otago,Dunedin,-,TDNF,-,-,-,-
+232359,18 Jan 2019,v Wellington,Wellington,1,1,1,0,0,1
+232359,2 Feb 2019,v Northern Dis,Auckland,1,0,0,0,0,0
+232359,6 Feb 2019,v India,Wellington,2,0,0,0,0,0
+232359,8 Feb 2019,v India,Auckland,2,0,0,0,0,0
+232359,10 Feb 2019,v India,Hamilton,2,0,0,0,0,0
+232359,15 Feb 2019,v Central D,Auckland,1,0,0,0,0,0
+232359,23 Feb 2019,v United,Sharjah,2,0,0,0,0,0
+232359,24 Feb 2019,v Gladiators,Sharjah,1,0,0,0,0,0
+232359,27 Feb 2019,v United,Dubai (DICS),2,0,0,0,0,0
+232359,28 Feb 2019,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+232359,4 Mar 2019,v Sultans,Abu Dhabi,1,0,0,0,0,0
+232359,10 Mar 2019,v Gladiators,Karachi,2,0,0,0,0,0
+232359,11 Mar 2019,v Zalmi,Karachi,1,0,0,0,0,0
+232359,14 Mar 2019,v United,Karachi,2,0,0,0,0,0
+232359,14 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+232359,18 Apr 2019,v MI,Delhi,1,0,0,0,0,0
+232359,8 May 2019,v SRH,Visakhapatnam,1,0,0,0,0,0
+232359,10 May 2019,v CSK,Visakhapatnam,2,0,0,0,0,0
+232359,1 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+232359,3 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+232359,6 Sep 2019,v Sri Lanka,Pallekele,1,1,1,0,0,1
+232359,13 Sep 2019,v Tallawahs,Kingston,2,1,1,0,0,1
+232359,17 Sep 2019,v Patriots,Basseterre,2,0,0,0,0,0
+232359,21 Sep 2019,v Zouks,Gros Islet,1,0,0,0,0,0
+232359,26 Sep 2019,v Tridents,Bridgetown,1,2,2,0,0,2
+232359,30 Sep 2019,v Amazon,Port of Spain,1,0,0,0,0,0
+232359,2 Oct 2019,v Tridents,Port of Spain,2,0,0,0,0,0
+232359,4 Oct 2019,v Amazon,Providence,2,0,0,0,0,0
+232359,6 Oct 2019,v Patriots,Providence,1,2,2,0,0,2
+232359,10 Oct 2019,v Tridents,Tarouba,1,1,1,0,0,1
+232359,1 Nov 2019,v England,Christchurch,2,0,0,0,0,0
+232359,3 Nov 2019,v England,Wellington,2,0,0,0,0,0
+232359,5 Nov 2019,v England,Nelson,2,2,2,0,0,2
+232359,8 Nov 2019,v England,Napier,1,0,0,0,0,0
+232359,10 Nov 2019,v England,Auckland,2,0,0,0,0,0
+232359,14 Dec 2019,v Otago,Auckland,1,0,0,0,0,0
+232359,17 Dec 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+232359,19 Dec 2019,v Otago,Dunedin,1,0,0,0,0,0
+232359,22 Dec 2019,v Northern Dis,Hamilton,1,0,0,0,0,0
+232359,28 Dec 2019,v Central D,New Plymouth,2,0,0,0,0,0
+232359,30 Dec 2019,v Wellington,Auckland,2,1,1,0,0,1
+232359,1 Jan 2020,v Canterbury,Auckland,1,0,0,0,0,0
+232359,4 Jan 2020,v Central D,Auckland,1,0,0,0,0,0
+232359,10 Jan 2020,v Northern Dis,Auckland,2,1,1,0,0,1
+232359,12 Jan 2020,v Wellington,Wellington,1,0,0,0,0,0
+232359,17 Jan 2020,v Otago,Dunedin,1,1,1,0,0,1
+232359,19 Jan 2020,v Wellington,Wellington,1,0,0,0,0,0
+232359,24 Jan 2020,v India,Auckland,2,0,0,0,0,0
+232359,26 Jan 2020,v India,Auckland,2,0,0,0,0,0
+232359,29 Jan 2020,v India,Hamilton,1,1,1,0,0,1
+232359,31 Jan 2020,v India,Wellington,1,0,0,0,0,0
+232359,2 Feb 2020,v India,Mount Maunganui,1,0,0,0,0,0
+232359,20 Feb 2020,v Gladiators,Karachi,2,0,0,0,0,0
+232359,22 Feb 2020,v Sultans,Lahore,1,0,0,0,0,0
+232359,23 Feb 2020,v Qalandars,Lahore,1,0,0,0,0,0
+232359,27 Feb 2020,v Gladiators,Rawalpindi,2,0,0,0,0,0
+232359,1 Mar 2020,v Kings,Rawalpindi,2,0,0,0,0,0
+232359,4 Mar 2020,v Qalandars,Lahore,2,1,1,0,0,1
+232359,7 Mar 2020,v Zalmi,Rawalpindi,2,0,0,0,0,0
+232359,8 Mar 2020,v Sultans,Rawalpindi,2,0,0,0,0,0
+232359,18 Aug 2020,v Amazon,Tarouba,1,1,1,0,0,1
+232359,20 Aug 2020,v Tallawahs,Tarouba,1,1,1,0,0,1
+232359,23 Aug 2020,v Tridents,Tarouba,2,0,0,0,0,0
+232359,26 Aug 2020,v Zouks,Port of Spain,1,1,1,0,0,1
+232359,27 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+232359,29 Aug 2020,v Tridents,Port of Spain,1,0,0,0,0,0
+232359,1 Sep 2020,v Tallawahs,Tarouba,2,0,0,0,0,0
+232359,2 Sep 2020,v Patriots,Tarouba,2,0,0,0,0,0
+232359,12 Dec 2020,v Renegades,Hobart,2,0,0,0,0,0
+232359,16 Dec 2020,v Stars,Launceston,2,0,0,0,0,0
+232359,22 Dec 2020,v Thunder,Canberra,2,0,0,0,0,0
+232359,28 Dec 2020,v Strikers,Adelaide,1,0,0,0,0,0
+232359,31 Dec 2020,v Strikers,Adelaide,1,0,0,0,0,0
+232359,3 Jan 2021,v Renegades,Perth,2,0,0,0,0,0
+232359,6 Jan 2021,v Sixers,Perth,2,0,0,0,0,0
+232359,9 Jan 2021,v Thunder,Perth,2,0,0,0,0,0
+232359,16 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+232359,19 Jan 2021,v Heat,Melbourne (Docklands),2,1,1,0,0,1
+232359,22 Jan 2021,v Hurricanes,Melbourne (Docklands),2,2,2,0,0,2
+232359,23 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+232359,26 Jan 2021,v Heat,Adelaide,1,1,1,0,0,1
+232359,30 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+232359,4 Feb 2021,v Heat,Canberra,2,1,1,0,0,1
+232359,6 Feb 2021,v Sixers,Sydney,1,2,2,0,0,2
+232359,9 Jun 2021,v Qalandars,Abu Dhabi,2,0,0,0,0,0
+232359,11 Jun 2021,v Gladiators,Abu Dhabi,1,0,0,0,0,0
+232359,13 Jun 2021,v Qalandars,Abu Dhabi,2,0,0,0,0,0
+232359,14 Jun 2021,v Kings,Abu Dhabi,1,0,0,0,0,0
+232359,17 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+232359,21 Jun 2021,v Sultans,Abu Dhabi,1,0,0,0,0,0
+232359,22 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+232359,22 Jul 2021,v Invincibles,The Oval,1,0,0,0,0,0
+232359,25 Jul 2021,v Phoenix,Manchester,1,1,1,0,0,1
+232359,31 Jul 2021,v Fire,Cardiff,1,0,0,0,0,0
+232359,5 Aug 2021,v Brave,Manchester,-,TDNF,-,-,-,-
+232359,10 Aug 2021,v Spirit,Manchester,1,0,0,0,0,0
+232359,12 Aug 2021,v N S-Chargers,Leeds,1,0,0,0,0,0
+232359,15 Aug 2021,v Rockets,Nottingham,2,0,0,0,0,0
+232359,26 Aug 2021,v Amazon,Basseterre,1,1,1,0,0,1
+232359,27 Aug 2021,v Royals,Basseterre,1,0,0,0,0,0
+232359,29 Aug 2021,v Kings,Basseterre,1,0,0,0,0,0
+232359,31 Aug 2021,v Kings,Basseterre,2,0,0,0,0,0
+232359,1 Sep 2021,v Amazon,Basseterre,2,0,0,0,0,0
+232359,5 Sep 2021,v Tallawahs,Basseterre,1,1,1,0,0,1
+232359,7 Sep 2021,v Tallawahs,Basseterre,2,1,1,0,0,1
+232359,9 Sep 2021,v Royals,Basseterre,1,0,0,0,0,0
+232359,11 Sep 2021,v Patriots,Basseterre,2,1,1,0,0,1
+232359,12 Sep 2021,v Patriots,Basseterre,1,1,1,0,0,1
+232359,14 Sep 2021,v Kings,Basseterre,1,1,1,0,0,1
+232359,8 Dec 2021,v Heat,Perth,2,0,0,0,0,0
+232359,11 Dec 2021,v Strikers,Sydney,2,0,0,0,0,0
+232359,14 Dec 2021,v Hurricanes,Hobart,2,1,1,0,0,1
+232359,20 Dec 2021,v Hurricanes,Hobart,2,1,1,0,0,1
+232359,22 Dec 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+232359,26 Dec 2021,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+232359,28 Dec 2021,v Thunder,Canberra,1,0,0,0,0,0
+232359,2 Jan 2022,v Stars,Melbourne,2,1,1,0,0,1
+232359,4 Jan 2022,v Sixers,Carrara,2,3,3,0,0,3
+232359,6 Jan 2022,v Thunder,Carrara,2,1,1,0,0,1
+232359,17 Jan 2022,v Heat,Melbourne (Docklands),1,0,0,0,0,0
+232359,22 Jan 2022,v Sixers,Melbourne (Docklands),2,1,1,0,0,1
+232359,28 Jan 2022,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+232359,3 Feb 2022,v Gladiators,Karachi,2,0,0,0,0,0
+232359,5 Feb 2022,v Qalandars,Karachi,1,1,1,0,0,1
+232359,6 Feb 2022,v Kings,Karachi,2,1,1,0,0,1
+232359,27 May 2022,v Notts,Nottingham,2,1,1,0,0,1
+232359,29 May 2022,v Lancashire,Manchester,1,0,0,0,0,0
+232359,1 Jun 2022,v Durham,Chester-le-Street,1,0,0,0,0,0
+232359,3 Jun 2022,v Bears,Worcester,2,0,0,0,0,0
+232359,5 Jun 2022,v Leics,Worcester,1,0,0,0,0,0
+232359,9 Jun 2022,v Northants,Northampton,1,0,0,0,0,0
+232359,10 Jun 2022,v Derbyshire,Worcester,1,0,0,0,0,0
+232359,17 Jun 2022,v Leics,Leicester,2,0,0,0,0,0
+232359,18 Jun 2022,v Northants,Worcester,-,TDNF,-,-,-,-
+232359,23 Jun 2022,v Yorkshire,Worcester,2,1,1,0,0,1
+232359,24 Jun 2022,v Bears,Birmingham,1,2,2,0,0,2
+232359,1 Jul 2022,v Lancashire,Worcester,2,1,1,0,0,1
+232359,3 Jul 2022,v Notts,Worcester,2,1,1,0,0,1
+232359,6 Aug 2022,v Phoenix,Nottingham,1,0,0,0,0,0
+232359,9 Aug 2022,v N S-Chargers,Leeds,1,0,0,0,0,0
+232359,13 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+232359,15 Aug 2022,v Phoenix,Birmingham,2,0,0,0,0,0
+232359,17 Aug 2022,v Invincibles,Nottingham,2,0,0,0,0,0
+232359,20 Aug 2022,v Spirit,Nottingham,1,2,2,0,0,2
+232359,25 Aug 2022,v Brave,Southampton,2,0,0,0,0,0
+232359,29 Aug 2022,v Fire,Nottingham,2,2,2,0,0,2
+232359,3 Sep 2022,v Originals,Lord's,1,0,0,0,0,0
+232359,7 Sep 2022,v Royals,Gros Islet,1,1,1,0,0,1
+232359,10 Sep 2022,v Tallawahs,Gros Islet,1,1,1,0,0,1
+232359,13 Sep 2022,v Royals,Port of Spain,2,0,0,0,0,0
+232359,14 Sep 2022,v Amazon,Port of Spain,2,0,0,0,0,0
+232359,17 Sep 2022,v Tallawahs,Tarouba,1,0,0,0,0,0
+232359,18 Sep 2022,v Kings,Tarouba,1,0,0,0,0,0
+232359,22 Sep 2022,v Patriots,Providence,1,1,1,0,0,1
+232359,24 Sep 2022,v Amazon,Providence,1,0,0,0,0,0
+232359,15 Dec 2022,v Renegades,Cairns,1,1,1,0,0,1
+232359,21 Dec 2022,v Renegades,Geelong,2,1,1,0,0,1
+232359,23 Dec 2022,v Strikers,Brisbane,2,1,1,0,0,1
+232359,27 Dec 2022,v Thunder,Sydney,2,0,0,0,0,0
+232359,29 Dec 2022,v Thunder,Carrara,1,1,1,0,0,1
+232359,1 Jan 2023,v Sixers,Brisbane,2,0,0,0,0,0
+232359,4 Jan 2023,v Sixers,North Sydney,-,TDNF,-,-,-,-
+232359,7 Jan 2023,v Scorchers,Perth,2,0,0,0,0,0
+232359,16 Feb 2023,v Kings,Karachi,1,1,1,0,0,1
+232359,19 Feb 2023,v Sultans,Multan,1,0,0,0,0,0
+232359,23 Feb 2023,v Zalmi,Karachi,1,0,0,0,0,0
+232359,24 Feb 2023,v Gladiators,Karachi,2,0,0,0,0,0
+232359,27 Feb 2023,v Qalandars,Lahore,1,0,0,0,0,0
+232359,3 Mar 2023,v Kings,Rawalpindi,1,0,0,0,0,0
+232359,5 Mar 2023,v Gladiators,Rawalpindi,1,0,0,0,0,0
+232359,7 Mar 2023,v Sultans,Rawalpindi,1,1,1,0,0,1
+232359,9 Mar 2023,v Qalandars,Rawalpindi,1,0,0,0,0,0
+232359,12 Mar 2023,v Zalmi,Rawalpindi,1,1,1,0,0,1
+232359,16 Mar 2023,v Zalmi,Lahore,1,0,0,0,0,0
+232359,26 May 2023,v Derbyshire,Nottingham,1,0,0,0,0,0
+232359,27 May 2023,v Lancashire,Manchester,1,0,0,0,0,0
+232359,29 May 2023,v Durham,Chester-le-Street,1,0,0,0,0,0
+232359,30 May 2023,v Yorkshire,Nottingham,1,1,1,0,0,1
+232359,2 Jun 2023,v Worcs,Nottingham,1,1,1,0,0,1
+232359,3 Jun 2023,v Bears,Birmingham,2,1,1,0,0,1
+232359,4 Jun 2023,v Lancashire,Nottingham,1,0,0,0,0,0
+232359,8 Jun 2023,v Durham,Nottingham,2,0,0,0,0,0
+232359,9 Jun 2023,v Derbyshire,Derby,1,0,0,0,0,0
+232359,18 Jun 2023,v Northants,Northampton,1,1,1,0,0,1
+232359,20 Jun 2023,v Leics,Leicester,2,0,0,0,0,0
+232359,7 Jul 2023,v Somerset,Taunton,2,0,0,0,0,0
+232359,1 Aug 2023,v Brave,Nottingham,2,0,0,0,0,0
+232359,9 Aug 2023,v N S-Chargers,Nottingham,1,0,0,0,0,0
+232359,12 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+232359,14 Aug 2023,v Fire,Cardiff,2,0,0,0,0,0
+232359,17 Aug 2023,v Originals,Nottingham,1,0,0,0,0,0
+232359,19 Aug 2023,v Phoenix,Nottingham,2,0,0,0,0,0
+232359,21 Aug 2023,v Invincibles,The Oval,2,0,0,0,0,0
+232359,2 Sep 2023,v Royals,Bridgetown,2,2,2,0,0,2
+232359,9 Sep 2023,v Patriots,Tarouba,2,0,0,0,0,0
+232359,10 Sep 2023,v Trinbago,Tarouba,2,0,0,0,0,0
+232359,14 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+232359,17 Sep 2023,v Tallawahs,Providence,1,0,0,0,0,0
+232359,19 Sep 2023,v Tallawahs,Providence,2,0,0,0,0,0
+232359,7 Dec 2023,v Stars,Brisbane,2,0,0,0,0,0
+232359,12 Dec 2023,v Thunder,Canberra,2,0,0,0,0,0
+232359,21 Dec 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+232359,27 Dec 2023,v Thunder,Brisbane,2,1,1,0,0,1
+232359,3 Jan 2024,v Sixers,Coffs Harbour,1,0,0,0,0,0
+232359,7 Jan 2024,v Hurricanes,Brisbane,2,0,0,0,0,0
+232359,10 Jan 2024,v Scorchers,Brisbane,2,0,0,0,0,0
+232359,21 Jan 2024,v KnightRiders,Dubai (DICS),2,1,1,0,0,1
+232359,24 Jan 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+232359,27 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+232359,28 Jan 2024,v Warriors,Sharjah,1,0,0,0,0,0
+232359,30 Jan 2024,v MI Emirates,Dubai (DICS),1,1,1,0,0,1
+232359,1 Feb 2024,v DC,Dubai (DICS),2,1,1,0,0,1
+232359,3 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+232359,4 Feb 2024,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+232359,9 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+232359,11 Feb 2024,v Warriors,Sharjah,1,0,0,0,0,0
+232359,17 Feb 2024,v Qalandars,Lahore,1,0,0,0,0,0
+232359,20 Feb 2024,v Sultans,Multan,2,0,0,0,0,0
+232359,22 Feb 2024,v Gladiators,Lahore,2,0,0,0,0,0
+232359,26 Feb 2024,v Zalmi,Lahore,1,0,0,0,0,0
+232359,28 Feb 2024,v Kings,Karachi,1,0,0,0,0,0
+232359,4 Mar 2024,v Zalmi,Rawalpindi,2,0,0,0,0,0
+232359,6 Mar 2024,v Qalandars,Rawalpindi,1,2,2,0,0,2
+232359,7 Mar 2024,v Kings,Rawalpindi,1,2,2,0,0,2
+232359,10 Mar 2024,v Sultans,Rawalpindi,1,0,0,0,0,0
+232359,18 Mar 2024,v Sultans,Karachi,1,0,0,0,0,0
+232359,22 Dec 2024,v Strikers,Brisbane,1,0,0,0,0,0
+232359,26 Dec 2024,v Scorchers,Perth,1,0,0,0,0,0
+232359,29 Dec 2024,v Sixers,Brisbane,2,0,0,0,0,0
+232359,1 Jan 2025,v Stars,Brisbane,2,0,0,0,0,0
+232359,6 Jan 2025,v Thunder,Brisbane,1,0,0,0,0,0
+232359,11 Jan 2025,v Strikers,Adelaide,1,0,0,0,0,0
+232359,11 Apr 2025,v Qalandars,Rawalpindi,1,1,1,0,0,1
+232359,14 Apr 2025,v Zalmi,Rawalpindi,2,0,0,0,0,0
+232359,16 Apr 2025,v Sultans,Rawalpindi,2,1,1,0,0,1
+232359,20 Apr 2025,v Kings,Karachi,1,0,0,0,0,0
+232359,23 Apr 2025,v Sultans,Multan,1,0,0,0,0,0
+232359,2 May 2025,v Zalmi,Lahore,2,0,0,0,0,0
+232359,3 May 2025,v Gladiators,Lahore,2,0,0,0,0,0
+232359,17 Aug 2025,v Patriots,Basseterre,2,0,0,0,0,0
+232359,20 Aug 2025,v Falcons,North Sound,1,1,1,0,0,1
+232359,23 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+232359,27 Aug 2025,v Falcons,Tarouba,1,0,0,0,0,0
+232359,29 Aug 2025,v Royals,Tarouba,1,1,1,0,0,1
+232359,30 Aug 2025,v Amazon,Tarouba,1,0,0,0,0,0
+232359,1 Sep 2025,v Patriots,Tarouba,2,0,0,0,0,0
+232359,3 Sep 2025,v Kings,Tarouba,2,1,1,0,0,1
+232359,6 Sep 2025,v Amazon,Providence,2,0,0,0,0,0
+232359,12 Sep 2025,v Royals,Bridgetown,2,0,0,0,0,0
+232359,16 Sep 2025,v Falcons,Providence,1,0,0,0,0,0
+232359,19 Sep 2025,v Kings,Providence,2,0,0,0,0,0
+232359,21 Sep 2025,v Amazon,Providence,1,1,1,0,0,1
+232359,15 Dec 2025,v Renegades,Geelong,1,0,0,0,0,0
+232359,19 Dec 2025,v Scorchers,Brisbane,1,1,1,0,0,1
+232359,22 Dec 2025,v Thunder,Canberra,1,1,1,0,0,1
+232359,27 Dec 2025,v Strikers,Brisbane,2,0,0,0,0,0
+232359,31 Dec 2025,v Strikers,Adelaide,2,0,0,0,0,0
+232359,2 Jan 2026,v Stars,Brisbane,1,1,1,0,0,1
+232359,22 Jan 2026,v Northern Dis,Auckland,1,0,0,0,0,0
+232359,26 Jan 2026,v Central D,Auckland,2,0,0,0,0,0
+232359,30 Jan 2026,v Canterbury,Christchurch,2,0,0,0,0,0

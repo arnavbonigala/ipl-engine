@@ -1,0 +1,244 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+784379,11 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+784379,24 Feb 2018,v Saracens,Colombo (Bloomfield),1,3,3,0,0,3
+784379,25 Feb 2018,v Bloomfield,Colombo (Colts),2,0,0,0,0,0
+784379,27 Feb 2018,v SL Army,Colombo (NCC),2,0,0,0,0,0
+784379,1 Mar 2018,v Panadura,Katunayake,1,1,1,0,0,1
+784379,2 Mar 2018,v Negambo CC,Colombo (Burgher),1,1,1,0,0,1
+784379,4 Mar 2018,v Badureliya,Katunayake,1,0,0,0,0,0
+784379,7 Mar 2018,v Tamil Union,Colombo (PSS),2,1,1,0,0,1
+784379,8 Mar 2018,v Nondescripts,Colombo (PSS),1,2,2,0,0,2
+784379,21 Aug 2018,v Kandy,Colombo (RPS),2,1,1,0,0,1
+784379,22 Aug 2018,v Galle,Colombo (RPS),2,0,0,0,0,0
+784379,25 Aug 2018,v Colombo,Dambulla,2,0,0,0,0,0
+784379,26 Aug 2018,v Kandy,Dambulla,2,1,1,0,0,1
+784379,29 Aug 2018,v Galle,Pallekele,1,0,0,0,0,0
+784379,30 Aug 2018,v Colombo,Pallekele,2,0,0,0,0,0
+784379,2 Sep 2018,v Colombo,Colombo (RPS),2,1,1,0,0,1
+784379,15 Feb 2019,v KTC,Colombo (Bloomfield),1,1,1,0,0,1
+784379,16 Feb 2019,v Police SC,Panagoda,1,1,1,0,0,1
+784379,18 Feb 2019,v Negombo,Colombo (Moors),2,0,0,0,0,0
+784379,19 Feb 2019,v Chilaw MCC,Colombo (Thurstan),1,0,0,0,0,0
+784379,21 Feb 2019,v Colts CC,Panagoda,2,1,1,0,0,1
+784379,23 Feb 2019,v Ragama CC,Colombo (NCC),2,0,0,0,0,0
+784379,25 Feb 2019,v Nondescripts,Colombo (PSS),1,0,0,0,0,0
+784379,1 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+784379,3 Sep 2019,v New Zealand,Pallekele,2,1,1,0,0,1
+784379,6 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+784379,5 Oct 2019,v Pakistan,Lahore,2,1,1,0,0,1
+784379,7 Oct 2019,v Pakistan,Lahore,2,1,1,0,0,1
+784379,9 Oct 2019,v Pakistan,Lahore,2,1,1,0,0,1
+784379,27 Oct 2019,v Australia,Adelaide,1,0,0,0,0,0
+784379,30 Oct 2019,v Australia,Brisbane,2,0,0,0,0,0
+784379,5 Jan 2020,v India,Guwahati,-,TDNF,-,-,-,-
+784379,7 Jan 2020,v India,Indore,2,0,0,0,0,0
+784379,10 Jan 2020,v India,Pune,1,0,0,0,0,0
+784379,12 Jan 2020,v Lankan CC,Colombo (SSC),1,0,0,0,0,0
+784379,15 Jan 2020,v Ragama CC,Colombo (PSS),1,2,2,0,0,2
+784379,17 Jan 2020,v Badureliya,Katunayake,1,0,0,0,0,0
+784379,19 Jan 2020,v Nondescripts,Katunayake,2,0,0,0,0,0
+784379,21 Jan 2020,v Chilaw MCC,Colombo (SSC),1,1,1,0,0,1
+784379,4 Mar 2020,v West Indies,Pallekele,1,1,1,0,0,1
+784379,6 Mar 2020,v West Indies,Pallekele,2,0,0,0,0,0
+784379,27 Nov 2020,v Galle,Hambantota,1,1,1,0,0,1
+784379,30 Nov 2020,v Viiking,Hambantota,2,0,0,0,0,0
+784379,1 Dec 2020,v Tuskers,Hambantota,2,0,0,0,0,0
+784379,3 Dec 2020,v Galle,Hambantota,1,2,2,0,0,2
+784379,4 Dec 2020,v Kings,Hambantota,2,0,0,0,0,0
+784379,7 Dec 2020,v Viiking,Hambantota,1,0,0,0,0,0
+784379,9 Dec 2020,v Tuskers,Hambantota,2,1,1,0,0,1
+784379,10 Dec 2020,v Kings,Hambantota,1,0,0,0,0,0
+784379,14 Dec 2020,v Viiking,Hambantota,2,0,0,0,0,0
+784379,16 Dec 2020,v Galle,Hambantota,2,1,1,0,0,1
+784379,3 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+784379,5 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+784379,7 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+784379,23 Jun 2021,v England,Cardiff,2,0,0,0,0,0
+784379,24 Jun 2021,v England,Cardiff,2,1,1,0,0,1
+784379,26 Jun 2021,v England,Southampton,1,1,1,0,0,1
+784379,25 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+784379,28 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+784379,29 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+784379,10 Sep 2021,v South Africa,Colombo (RPS),1,0,0,0,0,0
+784379,12 Sep 2021,v South Africa,Colombo (RPS),2,0,0,0,0,0
+784379,14 Sep 2021,v South Africa,Colombo (RPS),2,0,0,0,0,0
+784379,20 Sep 2021,v KKR,Abu Dhabi,2,0,0,0,0,0
+784379,24 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+784379,18 Oct 2021,v Namibia,Abu Dhabi,1,2,2,0,0,2
+784379,20 Oct 2021,v Ireland,Abu Dhabi,2,0,0,0,0,0
+784379,22 Oct 2021,v Netherlands,Sharjah,1,0,0,0,0,0
+784379,24 Oct 2021,v Bangladesh,Sharjah,1,0,0,0,0,0
+784379,28 Oct 2021,v Australia,Dubai (DICS),2,0,0,0,0,0
+784379,30 Oct 2021,v South Africa,Sharjah,2,0,0,0,0,0
+784379,1 Nov 2021,v England,Sharjah,1,0,0,0,0,0
+784379,4 Nov 2021,v West Indies,Abu Dhabi,2,1,1,0,0,1
+784379,5 Dec 2021,v Galle,Colombo (RPS),1,2,2,0,0,2
+784379,7 Dec 2021,v Dambulla,Colombo (RPS),1,2,2,0,0,2
+784379,8 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+784379,10 Dec 2021,v Stars,Colombo (RPS),2,1,1,0,0,1
+784379,12 Dec 2021,v Warriors,Colombo (RPS),1,0,0,0,0,0
+784379,13 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+784379,16 Dec 2021,v Stars,Colombo (RPS),2,0,0,0,0,0
+784379,19 Dec 2021,v Galle,Hambantota,1,1,1,0,0,1
+784379,21 Dec 2021,v Dambulla,Hambantota,2,1,1,0,0,1
+784379,23 Dec 2021,v Galle,Hambantota,2,2,2,0,0,2
+784379,11 Feb 2022,v Australia,Sydney,1,0,0,0,0,0
+784379,13 Feb 2022,v Australia,Sydney,1,1,1,0,0,1
+784379,27 Mar 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+784379,30 Mar 2022,v KKR,DY Patil,1,0,0,0,0,0
+784379,5 Apr 2022,v RR,Wankhede,1,1,1,0,0,1
+784379,9 Apr 2022,v MI,Pune,1,0,0,0,0,0
+784379,12 Apr 2022,v CSK,DY Patil,1,0,0,0,0,0
+784379,16 Apr 2022,v DC,Wankhede,2,0,0,0,0,0
+784379,19 Apr 2022,v LSG,DY Patil,2,0,0,0,0,0
+784379,23 Apr 2022,v SRH,Brabourne,2,0,0,0,0,0
+784379,26 Apr 2022,v RR,Pune,1,0,0,0,0,0
+784379,30 Apr 2022,v GT,Brabourne,2,0,0,0,0,0
+784379,4 May 2022,v CSK,Pune,2,0,0,0,0,0
+784379,8 May 2022,v SRH,Wankhede,2,0,0,0,0,0
+784379,13 May 2022,v Punjab Kings,Brabourne,1,1,1,0,0,1
+784379,19 May 2022,v GT,Wankhede,1,1,1,0,0,1
+784379,25 May 2022,v LSG,Eden Gardens,2,0,0,0,0,0
+784379,27 May 2022,v RR,Ahmedabad,2,0,0,0,0,0
+784379,30 May 2022,v Sinhalese,Colombo (PSS),1,0,0,0,0,0
+784379,7 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+784379,8 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+784379,11 Jun 2022,v Australia,Pallekele,1,0,0,0,0,0
+784379,8 Aug 2022,v SLC Greys,Colombo (RPS),1,2,2,0,0,2
+784379,10 Aug 2022,v SLC Greens,Colombo (RPS),1,0,0,0,0,0
+784379,13 Aug 2022,v SLC Blues,Colombo (RPS),2,0,0,0,0,0
+784379,15 Aug 2022,v SLC Blues,Colombo (RPS),1,0,0,0,0,0
+784379,27 Aug 2022,v Afghanistan,Dubai (DICS),2,0,0,0,0,0
+784379,1 Sep 2022,v Bangladesh,Dubai (DICS),1,1,1,0,0,1
+784379,3 Sep 2022,v Afghanistan,Sharjah,1,1,1,0,0,1
+784379,6 Sep 2022,v India,Dubai (DICS),1,0,0,0,0,0
+784379,9 Sep 2022,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+784379,11 Sep 2022,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+784379,16 Oct 2022,v Namibia,Geelong,1,0,0,0,0,0
+784379,18 Oct 2022,v U.A.E.,Geelong,2,0,0,0,0,0
+784379,20 Oct 2022,v Netherlands,Geelong,2,1,1,0,0,1
+784379,23 Oct 2022,v Ireland,Hobart,1,0,0,0,0,0
+784379,25 Oct 2022,v Australia,Perth,2,0,0,0,0,0
+784379,29 Oct 2022,v New Zealand,Sydney,1,0,0,0,0,0
+784379,1 Nov 2022,v Afghanistan,Brisbane,1,1,1,0,0,1
+784379,5 Nov 2022,v England,Sydney,2,1,1,0,0,1
+784379,6 Dec 2022,v Stars,Hambantota,2,1,1,0,0,1
+784379,7 Dec 2022,v Galle,Hambantota,1,1,1,0,0,1
+784379,10 Dec 2022,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+784379,12 Dec 2022,v Galle,Pallekele,1,0,0,0,0,0
+784379,13 Dec 2022,v Aura,Pallekele,2,1,1,0,0,1
+784379,14 Dec 2022,v Jaffna Kings,Pallekele,2,1,1,0,0,1
+784379,17 Dec 2022,v Stars,Colombo (RPS),1,1,1,0,0,1
+784379,18 Dec 2022,v Aura,Colombo (RPS),2,1,1,0,0,1
+784379,21 Dec 2022,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+784379,22 Dec 2022,v Stars,Colombo (RPS),2,0,0,0,0,0
+784379,3 Jan 2023,v India,Wankhede,1,0,0,0,0,0
+784379,5 Jan 2023,v India,Pune,2,1,1,0,0,1
+784379,7 Jan 2023,v India,Rajkot,1,1,1,0,0,1
+784379,2 Apr 2023,v New Zealand,Auckland,2,1,1,0,0,1
+784379,5 Apr 2023,v New Zealand,Dunedin,2,1,1,0,0,1
+784379,8 Apr 2023,v New Zealand,Queenstown,2,0,0,0,0,0
+784379,15 Apr 2023,v DC,Bengaluru,2,0,0,0,0,0
+784379,17 Apr 2023,v CSK,Bengaluru,1,0,0,0,0,0
+784379,20 Apr 2023,v Punjab Kings,Mohali,2,0,0,0,0,0
+784379,23 Apr 2023,v RR,Bengaluru,2,0,0,0,0,0
+784379,26 Apr 2023,v KKR,Bengaluru,1,0,0,0,0,0
+784379,1 May 2023,v LSG,Lucknow,2,0,0,0,0,0
+784379,6 May 2023,v DC,Delhi,2,0,0,0,0,0
+784379,9 May 2023,v MI,Wankhede,2,0,0,0,0,0
+784379,31 Jul 2023,v Colombo,Colombo (RPS),1,0,0,0,0,0
+784379,1 Aug 2023,v Galle Titans,Colombo (RPS),1,1,1,0,0,1
+784379,4 Aug 2023,v Aura,Pallekele,1,0,0,0,0,0
+784379,5 Aug 2023,v Jaffna Kings,Pallekele,1,2,2,0,0,2
+784379,8 Aug 2023,v Galle Titans,Pallekele,2,0,0,0,0,0
+784379,12 Aug 2023,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+784379,13 Aug 2023,v Colombo,Colombo (RPS),1,1,1,0,0,1
+784379,14 Aug 2023,v Aura,Colombo (RPS),1,2,2,0,0,2
+784379,17 Aug 2023,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+784379,19 Aug 2023,v Galle Titans,Colombo (RPS),2,0,0,0,0,0
+784379,14 Jan 2024,v Zimbabwe,Colombo (RPS),1,0,0,0,0,0
+784379,16 Jan 2024,v Zimbabwe,Colombo (RPS),2,1,1,0,0,1
+784379,18 Jan 2024,v Zimbabwe,Colombo (RPS),1,1,1,0,0,1
+784379,21 Jan 2024,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+784379,24 Jan 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+784379,27 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+784379,28 Jan 2024,v Warriors,Sharjah,1,0,0,0,0,0
+784379,30 Jan 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+784379,1 Feb 2024,v DC,Dubai (DICS),2,2,2,0,0,2
+784379,3 Feb 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+784379,4 Feb 2024,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+784379,17 Feb 2024,v Afghanistan,Dambulla,2,1,1,0,0,1
+784379,19 Feb 2024,v Afghanistan,Dambulla,2,1,1,0,0,1
+784379,21 Feb 2024,v Afghanistan,Dambulla,1,1,1,0,0,1
+784379,9 Mar 2024,v Bangladesh,Sylhet,2,0,0,0,0,0
+784379,6 May 2024,v SLC Greens,Colombo (RPS),1,0,0,0,0,0
+784379,8 May 2024,v SLC Reds,Colombo (RPS),1,1,1,0,0,1
+784379,11 May 2024,v SLC Greens,Colombo (RPS),1,0,0,0,0,0
+784379,3 Jun 2024,v South Africa,New York,2,1,1,0,0,1
+784379,7 Jun 2024,v Bangladesh,Dallas,2,1,1,0,0,1
+784379,16 Jun 2024,v Netherlands,Gros Islet,2,0,0,0,0,0
+784379,1 Jul 2024,v Sixers,Pallekele,1,1,1,0,0,1
+784379,2 Jul 2024,v Colombo,Pallekele,1,0,0,0,0,0
+784379,6 Jul 2024,v Colombo,Dambulla,1,1,1,0,0,1
+784379,7 Jul 2024,v Galle,Dambulla,2,0,0,0,0,0
+784379,9 Jul 2024,v Jaffna Kings,Dambulla,1,0,0,0,0,0
+784379,10 Jul 2024,v Galle,Dambulla,2,1,1,0,0,1
+784379,13 Jul 2024,v Jaffna Kings,Colombo (RPS),2,1,1,0,0,1
+784379,15 Jul 2024,v Sixers,Colombo (RPS),2,3,3,0,0,3
+784379,18 Jul 2024,v Colombo,Colombo (RPS),1,1,1,0,0,1
+784379,20 Jul 2024,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+784379,27 Jul 2024,v India,Pallekele,1,0,0,0,0,0
+784379,28 Jul 2024,v India,Pallekele,2,0,0,0,0,0
+784379,30 Jul 2024,v India,Pallekele,1,2,2,0,0,2
+784379,6 Sep 2024,v Royals,Basseterre,2,0,0,0,0,0
+784379,8 Sep 2024,v Falcons,Basseterre,2,2,2,0,0,2
+784379,12 Sep 2024,v Kings,Gros Islet,2,1,1,0,0,1
+784379,17 Sep 2024,v Royals,Bridgetown,2,0,0,0,0,0
+784379,13 Oct 2024,v West Indies,Dambulla,2,2,2,0,0,2
+784379,15 Oct 2024,v West Indies,Dambulla,2,0,0,0,0,0
+784379,17 Oct 2024,v West Indies,Dambulla,1,0,0,0,0,0
+784379,9 Nov 2024,v New Zealand,Dambulla,1,1,1,0,0,1
+784379,10 Nov 2024,v New Zealand,Dambulla,1,0,0,0,0,0
+784379,28 Dec 2024,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+784379,30 Dec 2024,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+784379,2 Jan 2025,v New Zealand,Nelson,2,0,0,0,0,0
+784379,14 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+784379,16 Jan 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+784379,18 Jan 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+784379,20 Jan 2025,v DC,Dubai (DICS),2,1,1,0,0,1
+784379,22 Jan 2025,v Warriorz,Dubai (DICS),1,1,1,0,0,1
+784379,25 Jan 2025,v Warriorz,Sharjah,1,0,0,0,0,0
+784379,29 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+784379,3 Feb 2025,v DC,Sharjah,2,0,0,0,0,0
+784379,5 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+784379,26 Mar 2025,v KKR,Guwahati,2,0,0,0,0,0
+784379,30 Mar 2025,v CSK,Guwahati,2,0,0,0,0,0
+784379,5 Apr 2025,v Punjab Kings,New Chandigarh,2,2,2,0,0,2
+784379,13 Apr 2025,v RCB,Jaipur,2,0,0,0,0,0
+784379,16 Apr 2025,v DC,Delhi,1,0,0,0,0,0
+784379,19 Apr 2025,v LSG,Jaipur,1,0,0,0,0,0
+784379,24 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+784379,28 Apr 2025,v GT,Jaipur,1,0,0,0,0,0
+784379,4 May 2025,v KKR,Eden Gardens,1,0,0,0,0,0
+784379,18 May 2025,v Punjab Kings,Jaipur,1,0,0,0,0,0
+784379,20 May 2025,v CSK,Delhi,1,0,0,0,0,0
+784379,8 Jun 2025,v Panadura,Colombo (PSS),1,0,0,0,0,0
+784379,11 Jun 2025,v Burgher,Colombo (PSS),2,0,0,0,0,0
+784379,13 Jun 2025,v Moors,Colombo (CCC),1,0,0,0,0,0
+784379,15 Jun 2025,v Panadura,Colombo (CCC),1,0,0,0,0,0
+784379,13 Sep 2025,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+784379,15 Sep 2025,v Hong Kong,Dubai (DICS),1,0,0,0,0,0
+784379,18 Sep 2025,v Afghanistan,Abu Dhabi,1,0,0,0,0,0
+784379,20 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+784379,23 Sep 2025,v Pakistan,Abu Dhabi,2,1,1,0,0,1
+784379,26 Sep 2025,v India,Dubai (DICS),1,0,0,0,0,0
+784379,20 Nov 2025,v Zimbabwe,Rawalpindi,1,0,0,0,0,0
+784379,22 Nov 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+784379,25 Nov 2025,v Zimbabwe,Rawalpindi,1,0,0,0,0,0
+784379,27 Nov 2025,v Pakistan,Rawalpindi,2,1,1,0,0,1
+784379,29 Nov 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+784379,7 Jan 2026,v Pakistan,Dambulla,2,0,0,0,0,0
+784379,11 Jan 2026,v Pakistan,Dambulla,2,0,0,0,0,0
+784379,30 Jan 2026,v England,Pallekele,2,0,0,0,0,0
+784379,1 Feb 2026,v England,Pallekele,2,1,1,0,0,1
+784379,8 Feb 2026,v Ireland,Colombo (RPS),2,0,0,0,0,0

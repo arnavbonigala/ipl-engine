@@ -1,0 +1,151 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+27223,25 Sep 2009,v Goa,Visakhapatnam,1,0,0,0,0,0
+27223,26 Sep 2009,v Andhra,Visakhapatnam,1,0,0,0,0,0
+27223,19 Apr 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+27223,14 Oct 2010,v Goa,Hyderabad,1,0,0,0,0,0
+27223,15 Oct 2010,v Andhra,Hyderabad,1,0,0,0,0,0
+27223,16 Oct 2010,v Kerala,Hyderabad,2,0,0,0,0,0
+27223,18 Oct 2010,v Tamil Nadu,Hyderabad,1,1,1,0,0,1
+27223,9 Apr 2011,v Chargers,Hyderabad,1,0,0,0,0,0
+27223,21 Apr 2011,v Kings XI,Mohali,1,0,0,0,0,0
+27223,24 Apr 2011,v Kochi,Jaipur,1,1,1,0,0,1
+27223,29 Apr 2011,v MI,Jaipur,1,0,0,0,0,0
+27223,1 May 2011,v Warriors,Jaipur,1,1,1,0,0,1
+27223,4 May 2011,v CSK,Chennai,2,0,0,0,0,0
+27223,16 Oct 2011,v Goa,Chennai,2,0,0,0,0,0
+27223,17 Oct 2011,v Kerala,Chennai,2,0,0,0,0,0
+27223,18 Oct 2011,v Tamil Nadu,Chennai,1,0,0,0,0,0
+27223,20 Oct 2011,v Hyderabad,Chennai,2,1,1,0,0,1
+27223,21 Oct 2011,v Andhra,Chennai,1,0,0,0,0,0
+27223,23 Mar 2012,v Baroda,Brabourne,2,0,0,0,0,0
+27223,21 Apr 2012,v CSK,Chennai,2,0,0,0,0,0
+27223,23 Apr 2012,v RCB,Jaipur,1,0,0,0,0,0
+27223,5 May 2012,v Kings XI,Mohali,2,0,0,0,0,0
+27223,8 May 2012,v Warriors,Pune,1,0,0,0,0,0
+27223,10 May 2012,v CSK,Jaipur,2,1,1,0,0,1
+27223,13 May 2012,v Warriors,Jaipur,2,0,0,0,0,0
+27223,18 May 2012,v Chargers,Hyderabad,2,0,0,0,0,0
+27223,20 May 2012,v MI,Jaipur,2,0,0,0,0,0
+27223,17 Mar 2013,v Goa,Shimoga,1,0,0,0,0,0
+27223,18 Mar 2013,v Kerala,Bhadravati,2,0,0,0,0,0
+27223,19 Mar 2013,v Tamil Nadu,Shimoga,2,0,0,0,0,0
+27223,21 Mar 2013,v Hyderabad,Bhadravati,2,1,1,0,0,1
+27223,22 Mar 2013,v Andhra,Shimoga,1,1,1,0,0,1
+27223,26 Mar 2013,v Punjab,Indore,1,0,0,0,0,0
+27223,28 Mar 2013,v UP,Indore,1,0,0,0,0,0
+27223,29 Mar 2013,v Bengal,Indore,1,2,2,0,0,2
+27223,30 Mar 2013,v Baroda,Indore,2,0,0,0,0,0
+27223,6 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+27223,8 Apr 2013,v KKR,Jaipur,2,1,1,0,0,1
+27223,11 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+27223,14 Apr 2013,v Kings XI,Jaipur,1,1,1,0,0,1
+27223,17 Apr 2013,v MI,Jaipur,2,0,0,0,0,0
+27223,20 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+27223,22 Apr 2013,v CSK,Chennai,2,1,1,0,0,1
+27223,27 Apr 2013,v SRH,Jaipur,1,0,0,0,0,0
+27223,29 Apr 2013,v RCB,Jaipur,1,0,0,0,0,0
+27223,3 May 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+27223,5 May 2013,v Warriors,Jaipur,1,0,0,0,0,0
+27223,7 May 2013,v Daredevils,Jaipur,1,0,0,0,0,0
+27223,12 May 2013,v CSK,Jaipur,1,0,0,0,0,0
+27223,15 May 2013,v MI,Wankhede,1,0,0,0,0,0
+27223,17 May 2013,v SRH,Hyderabad,1,0,0,0,0,0
+27223,22 May 2013,v SRH,Delhi,1,0,0,0,0,0
+27223,24 May 2013,v MI,Eden Gardens,2,0,0,0,0,0
+27223,21 Sep 2013,v MI,Jaipur,1,0,0,0,0,0
+27223,25 Sep 2013,v Lions,Jaipur,2,1,1,0,0,1
+27223,29 Sep 2013,v Scorchers,Jaipur,1,1,1,0,0,1
+27223,1 Oct 2013,v Otago,Jaipur,1,0,0,0,0,0
+27223,4 Oct 2013,v CSK,Jaipur,2,1,1,0,0,1
+27223,6 Oct 2013,v MI,Delhi,1,0,0,0,0,0
+27223,18 Apr 2014,v SRH,Abu Dhabi,1,0,0,0,0,0
+27223,20 Apr 2014,v Kings XI,Sharjah,2,1,1,0,0,1
+27223,23 Apr 2014,v CSK,Dubai (DICS),1,0,0,0,0,0
+27223,26 Apr 2014,v RCB,Abu Dhabi,1,1,1,0,0,1
+27223,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+27223,3 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+27223,5 May 2014,v KKR,Ahmedabad,2,0,0,0,0,0
+27223,8 May 2014,v SRH,Ahmedabad,1,0,0,0,0,0
+27223,11 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+27223,13 May 2014,v CSK,Ranchi,2,0,0,0,0,0
+27223,15 May 2014,v Daredevils,Ahmedabad,2,0,0,0,0,0
+27223,19 May 2014,v MI,Ahmedabad,1,0,0,0,0,0
+27223,23 May 2014,v Kings XI,Mohali,1,0,0,0,0,0
+27223,10 Apr 2015,v Kings XI,Pune,2,0,0,0,0,0
+27223,12 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+27223,14 Apr 2015,v MI,Ahmedabad,1,0,0,0,0,0
+27223,16 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+27223,19 Apr 2015,v CSK,Ahmedabad,1,0,0,0,0,0
+27223,21 Apr 2015,v Kings XI,Ahmedabad,2,1,1,0,0,1
+27223,24 Apr 2015,v RCB,Ahmedabad,2,0,0,0,0,0
+27223,29 Apr 2015,v RCB,Bengaluru,1,0,0,0,0,0
+27223,1 May 2015,v MI,Wankhede,1,1,1,0,0,1
+27223,3 May 2015,v Daredevils,Brabourne,2,1,1,0,0,1
+27223,7 May 2015,v SRH,Brabourne,1,0,0,0,0,0
+27223,16 May 2015,v KKR,Brabourne,2,2,2,0,0,2
+27223,20 May 2015,v RCB,Pune,1,0,0,0,0,0
+27223,17 Jul 2015,v Zimbabwe,Harare,2,0,0,0,0,0
+27223,19 Jul 2015,v Zimbabwe,Harare,1,0,0,0,0,0
+27223,2 Jan 2016,v Services,Cuttack,2,0,0,0,0,0
+27223,3 Jan 2016,v Mumbai,Cuttack,2,0,0,0,0,0
+27223,4 Jan 2016,v UP,Cuttack,2,0,0,0,0,0
+27223,7 Jan 2016,v Maharashtra,Cuttack,1,1,1,0,0,1
+27223,8 Jan 2016,v Odisha,Cuttack,1,0,0,0,0,0
+27223,12 Apr 2016,v SRH,Bengaluru,2,0,0,0,0,0
+27223,20 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+27223,22 Apr 2016,v Supergiants,Pune,2,0,0,0,0,0
+27223,24 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+27223,2 May 2016,v KKR,Bengaluru,2,1,1,0,0,1
+27223,7 May 2016,v Supergiants,Bengaluru,1,0,0,0,0,0
+27223,9 May 2016,v Kings XI,Mohali,2,1,1,0,0,1
+27223,11 May 2016,v MI,Bengaluru,2,1,1,0,0,1
+27223,14 May 2016,v Guj Lions,Bengaluru,2,0,0,0,0,0
+27223,16 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+27223,18 May 2016,v Kings XI,Bengaluru,2,0,0,0,0,0
+27223,22 May 2016,v Daredevils,Raipur,1,0,0,0,0,0
+27223,24 May 2016,v Guj Lions,Bengaluru,1,0,0,0,0,0
+27223,29 May 2016,v SRH,Bengaluru,1,0,0,0,0,0
+27223,27 Aug 2016,v West Indies,Lauderhill,1,0,0,0,0,0
+27223,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+27223,8 Apr 2017,v Daredevils,Bengaluru,2,1,1,0,0,1
+27223,10 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+27223,14 Apr 2017,v MI,Bengaluru,2,0,0,0,0,0
+27223,16 Apr 2017,v Supergiant,Bengaluru,1,0,0,0,0,0
+27223,18 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+27223,23 Apr 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+27223,29 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+27223,8 Jan 2018,v Goa,Visakhapatnam,2,0,0,0,0,0
+27223,9 Jan 2018,v Andhra,Vizianagaram,2,0,0,0,0,0
+27223,11 Jan 2018,v Hyderabad,Visakhapatnam,2,1,1,0,0,1
+27223,12 Jan 2018,v Tamil Nadu,Vizianagaram,2,2,2,0,0,2
+27223,14 Jan 2018,v Kerala,Vizianagaram,2,0,0,0,0,0
+27223,21 Jan 2018,v Punjab,Kolkata,2,1,1,0,0,1
+27223,23 Jan 2018,v Rajasthan,Kolkata,1,0,0,0,0,0
+27223,24 Jan 2018,v Jharkhand,Eden Gardens,2,0,0,0,0,0
+27223,25 Jan 2018,v Mumbai,Eden Gardens,1,0,0,0,0,0
+27223,20 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+27223,8 May 2018,v Kings XI,Jaipur,2,0,0,0,0,0
+27223,11 May 2018,v CSK,Jaipur,1,1,1,0,0,1
+27223,13 May 2018,v MI,Wankhede,1,0,0,0,0,0
+27223,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+27223,19 May 2018,v RCB,Jaipur,2,0,0,0,0,0
+27223,23 May 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+27223,2 Apr 2019,v RCB,Jaipur,1,0,0,0,0,0
+27223,16 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+27223,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+27223,22 Apr 2019,v DC,Jaipur,2,0,0,0,0,0
+27223,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+27223,27 Apr 2019,v SRH,Jaipur,1,0,0,0,0,0
+27223,30 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+27223,4 May 2019,v DC,Delhi,2,0,0,0,0,0
+27223,8 Nov 2019,v Saurashtra,Surat,2,0,0,0,0,0
+27223,9 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+27223,11 Nov 2019,v Delhi,Surat,2,0,0,0,0,0
+27223,12 Nov 2019,v Gujarat,Surat,1,2,2,0,0,2
+27223,14 Nov 2019,v Jharkhand,Surat,2,1,1,0,0,1
+27223,15 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+27223,17 Nov 2019,v Odisha,Surat,1,0,0,0,0,0
+27223,13 Jan 2021,v Arunachal,Chennai,1,0,0,0,0,0
+27223,15 Jan 2021,v Sikkim,Chennai,2,0,0,0,0,0
+27223,17 Jan 2021,v Mizoram,Chennai,2,1,1,0,0,1
+27223,19 Jan 2021,v Manipur,Chennai,1,1,1,0,0,1

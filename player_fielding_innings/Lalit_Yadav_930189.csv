@@ -1,0 +1,90 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+930189,9 Jan 2018,v Punjab,Delhi,1,0,0,0,0,0
+930189,10 Jan 2018,v Haryana,Delhi,1,0,0,0,0,0
+930189,12 Jan 2018,v J & K,Delhi,1,1,1,0,0,1
+930189,14 Jan 2018,v Himachal,Delhi,1,0,0,0,0,0
+930189,16 Jan 2018,v Services,Delhi,2,1,1,0,0,1
+930189,21 Jan 2018,v Tamil Nadu,Eden Gardens,1,0,0,0,0,0
+930189,22 Jan 2018,v Baroda,Eden Gardens,1,0,0,0,0,0
+930189,23 Jan 2018,v Bengal,Kolkata,1,1,1,0,0,1
+930189,25 Jan 2018,v UP,Kolkata,2,0,0,0,0,0
+930189,26 Jan 2018,v Rajasthan,Eden Gardens,2,1,1,0,0,1
+930189,21 Feb 2019,v Jharkhand,Mulapadu,1,1,1,0,0,1
+930189,22 Feb 2019,v Manipur,Mulapadu,1,0,0,0,0,0
+930189,24 Feb 2019,v J & K,Mulapadu,1,0,0,0,0,0
+930189,25 Feb 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+930189,27 Feb 2019,v Andhra,Mulapadu,2,1,1,0,0,1
+930189,2 Mar 2019,v Nagaland,Mulapadu,1,0,0,0,0,0
+930189,8 Mar 2019,v Vidarbha,Indore,2,0,0,0,0,0
+930189,9 Mar 2019,v Mumbai,Indore,2,1,1,0,0,1
+930189,10 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+930189,11 Mar 2019,v UP,Indore,1,1,1,0,0,1
+930189,11 Nov 2019,v Nagaland,Surat,1,1,1,0,0,1
+930189,12 Nov 2019,v Saurashtra,Surat,1,1,1,0,0,1
+930189,14 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+930189,15 Nov 2019,v Jharkhand,Surat,2,1,1,0,0,1
+930189,17 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+930189,18 Nov 2019,v Odisha,Surat,2,0,0,0,0,0
+930189,21 Nov 2019,v Maharashtra,Surat,2,3,3,0,0,3
+930189,22 Nov 2019,v Baroda,Surat,1,1,1,0,0,1
+930189,24 Nov 2019,v Haryana,Surat,1,0,0,0,0,0
+930189,27 Nov 2019,v Rajasthan,Surat,1,1,1,0,0,1
+930189,11 Jan 2021,v Mumbai,Wankhede,2,2,2,0,0,2
+930189,13 Jan 2021,v Andhra,Wankhede,1,1,1,0,0,1
+930189,15 Jan 2021,v Kerala,Wankhede,2,1,1,0,0,1
+930189,17 Jan 2021,v Haryana,Wankhede,2,0,0,0,0,0
+930189,19 Jan 2021,v Puducherry,Mumbai,2,1,1,0,0,1
+930189,15 Apr 2021,v RR,Wankhede,2,2,2,0,0,2
+930189,18 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+930189,20 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+930189,29 Apr 2021,v KKR,Ahmedabad,1,1,1,0,0,1
+930189,2 May 2021,v Punjab Kings,Ahmedabad,1,1,1,0,0,1
+930189,25 Sep 2021,v RR,Abu Dhabi,2,0,0,0,0,0
+930189,28 Sep 2021,v KKR,Sharjah,2,1,1,0,0,1
+930189,4 Nov 2021,v Uttarakhand,Rohtak,2,1,1,0,0,1
+930189,5 Nov 2021,v Chandigarh,Rohtak,1,1,1,0,0,1
+930189,6 Nov 2021,v UP,Rohtak,1,0,0,0,0,0
+930189,8 Nov 2021,v Hyderabad,Sultanpur,2,0,0,0,0,0
+930189,9 Nov 2021,v Saurashtra,Rohtak,1,0,0,0,0,0
+930189,27 Mar 2022,v MI,Brabourne,1,1,1,0,0,1
+930189,2 Apr 2022,v GT,Pune,1,0,0,0,0,0
+930189,7 Apr 2022,v LSG,DY Patil,2,0,0,0,0,0
+930189,10 Apr 2022,v KKR,Brabourne,2,1,1,0,0,1
+930189,16 Apr 2022,v RCB,Wankhede,1,1,1,0,0,1
+930189,20 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+930189,22 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+930189,28 Apr 2022,v KKR,Wankhede,1,0,0,0,0,0
+930189,1 May 2022,v LSG,Wankhede,1,2,2,0,0,2
+930189,5 May 2022,v SRH,Brabourne,2,0,0,0,0,0
+930189,11 May 2022,v RR,DY Patil,1,1,1,0,0,1
+930189,16 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+930189,11 Oct 2022,v Manipur,Jaipur,2,0,0,0,0,0
+930189,12 Oct 2022,v Punjab,Jaipur,2,2,2,0,0,2
+930189,14 Oct 2022,v UP,Jaipur,2,0,0,0,0,0
+930189,16 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+930189,18 Oct 2022,v Hyderabad,Jaipur,2,1,1,0,0,1
+930189,20 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+930189,22 Oct 2022,v Tripura,Jaipur,1,2,2,0,0,2
+930189,1 Nov 2022,v Vidarbha,Kolkata,1,1,1,0,0,1
+930189,8 Apr 2023,v RR,Guwahati,1,0,0,0,0,0
+930189,11 Apr 2023,v MI,Delhi,2,0,0,0,0,0
+930189,15 Apr 2023,v RCB,Bengaluru,1,1,1,0,0,1
+930189,20 Apr 2023,v KKR,Delhi,1,2,2,0,0,2
+930189,10 May 2023,v CSK,Chennai,1,1,1,0,0,1
+930189,20 May 2023,v CSK,Delhi,1,1,1,0,0,1
+930189,17 Oct 2023,v M. Pradesh,Dehradun,1,0,0,0,0,0
+930189,19 Oct 2023,v Nagaland,Dehradun,1,0,0,0,0,0
+930189,21 Oct 2023,v Karnataka,Dehradun,1,0,0,0,0,0
+930189,23 Oct 2023,v Tamil Nadu,Dehradun,2,1,1,0,0,1
+930189,25 Oct 2023,v Tripura,Dehradun,2,0,0,0,0,0
+930189,2 Nov 2023,v Vidarbha,New Chandigarh,2,1,1,0,0,1
+930189,4 Nov 2023,v Punjab,Mohali,2,0,0,0,0,0
+930189,7 Apr 2024,v MI,Wankhede,1,0,0,0,0,0
+930189,20 Apr 2024,v SRH,Delhi,1,0,0,0,0,0
+930189,26 Nov 2025,v UP,Jadavpur Uni,2,0,0,0,0,0
+930189,28 Nov 2025,v Chandigarh,Eden Gardens,2,0,0,0,0,0
+930189,30 Nov 2025,v Hyderabad,Eden Gardens,2,0,0,0,0,0
+930189,2 Dec 2025,v M. Pradesh,Jadavpur Uni,1,0,0,0,0,0
+930189,4 Dec 2025,v Bihar,Jadavpur Uni,1,1,1,0,0,1
+930189,6 Dec 2025,v J & K,Eden Gardens,1,1,1,0,0,1
+930189,8 Dec 2025,v Maharashtra,Jadavpur Uni,1,0,0,0,0,0

@@ -1,0 +1,88 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+700167,2 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+700167,4 Jan 2016,v M. Pradesh,Vadodara,1,0,0,0,0,0
+700167,15 Jan 2016,v Gujarat,Mumbai,2,0,0,0,0,0
+700167,16 Jan 2016,v Jharkhand,Mumbai,1,0,0,0,0,0
+700167,18 Jan 2016,v UP,Mumbai,2,0,0,0,0,0
+700167,29 Jan 2017,v J & K,Dharamsala,1,0,0,0,0,0
+700167,30 Jan 2017,v Punjab,Dharamsala,2,1,1,0,0,1
+700167,31 Jan 2017,v Himachal,Nadaun,1,0,0,0,0,0
+700167,1 Feb 2017,v Haryana,Dharamsala,1,0,0,0,0,0
+700167,2 Feb 2017,v Services,Dharamsala,1,0,0,0,0,0
+700167,9 Jan 2018,v Punjab,Delhi,1,2,2,0,0,2
+700167,10 Jan 2018,v Haryana,Delhi,1,0,0,0,0,0
+700167,12 Jan 2018,v J & K,Delhi,1,0,0,0,0,0
+700167,14 Jan 2018,v Himachal,Delhi,1,0,0,0,0,0
+700167,24 Feb 2019,v J & K,Mulapadu,1,1,1,0,0,1
+700167,25 Feb 2019,v Kerala,Mulapadu,1,1,1,0,0,1
+700167,27 Feb 2019,v Andhra,Mulapadu,2,0,0,0,0,0
+700167,8 Mar 2019,v Vidarbha,Indore,2,0,0,0,0,0
+700167,9 Mar 2019,v Mumbai,Indore,2,0,0,0,0,0
+700167,10 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+700167,11 Mar 2019,v UP,Indore,1,0,0,0,0,0
+700167,23 Mar 2019,v CSK,Chennai,2,0,0,0,0,0
+700167,28 Mar 2019,v MI,Bengaluru,1,1,1,0,0,1
+700167,2 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+700167,5 Apr 2019,v KKR,Bengaluru,2,0,0,0,0,0
+700167,7 Apr 2019,v DC,Bengaluru,2,1,1,0,0,1
+700167,13 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+700167,15 Apr 2019,v MI,Wankhede,2,1,1,0,0,1
+700167,19 Apr 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+700167,21 Apr 2019,v CSK,Bengaluru,2,0,0,0,0,0
+700167,24 Apr 2019,v Kings XI,Bengaluru,2,0,0,0,0,0
+700167,28 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+700167,30 Apr 2019,v RR,Bengaluru,2,0,0,0,0,0
+700167,4 May 2019,v SRH,Bengaluru,1,0,0,0,0,0
+700167,3 Aug 2019,v West Indies,Lauderhill,1,0,0,0,0,0
+700167,4 Aug 2019,v West Indies,Lauderhill,2,0,0,0,0,0
+700167,6 Aug 2019,v West Indies,Providence,1,1,1,0,0,1
+700167,18 Sep 2019,v South Africa,Mohali,1,0,0,0,0,0
+700167,22 Sep 2019,v South Africa,Bengaluru,2,0,0,0,0,0
+700167,24 Nov 2019,v Haryana,Surat,1,1,1,0,0,1
+700167,5 Jan 2020,v Sri Lanka,Guwahati,-,TDNF,-,-,-,-
+700167,7 Jan 2020,v Sri Lanka,Indore,1,2,2,0,0,2
+700167,10 Jan 2020,v Sri Lanka,Pune,2,0,0,0,0,0
+700167,31 Jan 2020,v New Zealand,Wellington,2,0,0,0,0,0
+700167,2 Feb 2020,v New Zealand,Mount Maunganui,2,0,0,0,0,0
+700167,21 Sep 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+700167,24 Sep 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+700167,28 Sep 2020,v MI,Dubai (DICS),2,0,0,0,0,0
+700167,3 Oct 2020,v RR,Abu Dhabi,1,0,0,0,0,0
+700167,5 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+700167,10 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+700167,12 Oct 2020,v KKR,Sharjah,2,0,0,0,0,0
+700167,15 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+700167,17 Oct 2020,v RR,Dubai (DICS),1,1,1,0,0,1
+700167,21 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+700167,25 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+700167,31 Oct 2020,v SRH,Sharjah,2,0,0,0,0,0
+700167,6 Nov 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+700167,25 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+700167,28 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+700167,24 Sep 2021,v CSK,Sharjah,2,1,1,0,0,1
+700167,4 Nov 2021,v Uttarakhand,Rohtak,2,0,0,0,0,0
+700167,5 Nov 2021,v Chandigarh,Rohtak,1,0,0,0,0,0
+700167,6 Nov 2021,v UP,Rohtak,1,1,1,0,0,1
+700167,8 Nov 2021,v Hyderabad,Sultanpur,2,0,0,0,0,0
+700167,9 Nov 2021,v Saurashtra,Rohtak,1,0,0,0,0,0
+700167,2 Apr 2022,v MI,DY Patil,2,1,1,0,0,1
+700167,5 Apr 2022,v RCB,Wankhede,2,1,1,0,0,1
+700167,11 Oct 2022,v Manipur,Jaipur,2,0,0,0,0,0
+700167,12 Oct 2022,v Punjab,Jaipur,2,0,0,0,0,0
+700167,14 Oct 2022,v UP,Jaipur,2,1,1,0,0,1
+700167,16 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+700167,18 Oct 2022,v Hyderabad,Jaipur,2,1,1,0,0,1
+700167,20 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+700167,22 Oct 2022,v Tripura,Jaipur,1,0,0,0,0,0
+700167,1 Nov 2022,v Vidarbha,Kolkata,1,1,1,0,0,1
+700167,2 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+700167,19 May 2023,v Punjab Kings,Dharamsala,1,0,0,0,0,0
+700167,17 Oct 2023,v M. Pradesh,Dehradun,1,0,0,0,0,0
+700167,19 Oct 2023,v Nagaland,Dehradun,1,0,0,0,0,0
+700167,21 Oct 2023,v Karnataka,Dehradun,1,0,0,0,0,0
+700167,23 Oct 2023,v Tamil Nadu,Dehradun,2,1,1,0,0,1
+700167,25 Oct 2023,v Tripura,Dehradun,2,0,0,0,0,0
+700167,2 Nov 2023,v Vidarbha,New Chandigarh,2,0,0,0,0,0
+700167,4 Nov 2023,v Punjab,Mohali,2,1,1,0,0,1
+700167,6 Dec 2025,v Rajasthan,Ahmedabad,2,2,2,0,0,2
+700167,8 Dec 2025,v Uttarakhand,Ahmedabad,2,0,0,0,0,0

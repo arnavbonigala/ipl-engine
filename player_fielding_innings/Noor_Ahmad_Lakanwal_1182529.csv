@@ -1,0 +1,197 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1182529,8 Oct 2019,v BDD,Kabul,2,1,1,0,0,1
+1182529,9 Oct 2019,v BEAD,Kabul,2,0,0,0,0,0
+1182529,11 Oct 2019,v SGT,Kabul,1,0,0,0,0,0
+1182529,13 Oct 2019,v Kabul Eagles,Kabul,1,0,0,0,0,0
+1182529,14 Oct 2019,v Amo Sharks,Kabul,2,1,1,0,0,1
+1182529,16 Oct 2019,v BEAD,Kabul,1,0,0,0,0,0
+1182529,18 Oct 2019,v BEAD,Kabul,1,0,0,0,0,0
+1182529,6 Sep 2020,v BEAD,Kabul,2,0,0,0,0,0
+1182529,8 Sep 2020,v Kabul Eagles,Kabul,2,0,0,0,0,0
+1182529,9 Sep 2020,v SGT,Kabul,2,1,1,0,0,1
+1182529,11 Sep 2020,v BDD,Kabul,2,0,0,0,0,0
+1182529,12 Sep 2020,v Amo Sharks,Kabul,2,1,1,0,0,1
+1182529,14 Sep 2020,v Kabul Eagles,Kabul,2,0,0,0,0,0
+1182529,15 Sep 2020,v BEAD,Kabul,1,1,1,0,0,1
+1182529,16 Sep 2020,v Kabul Eagles,Kabul,1,0,0,0,0,0
+1182529,19 Dec 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+1182529,3 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+1182529,5 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+1182529,8 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+1182529,14 Jan 2021,v Heat,Canberra,2,0,0,0,0,0
+1182529,17 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+1182529,15 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+1182529,17 Jun 2021,v Qalandars,Abu Dhabi,2,0,0,0,0,0
+1182529,19 Jun 2021,v Gladiators,Abu Dhabi,2,0,0,0,0,0
+1182529,21 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+1182529,5 Dec 2021,v Jaffna Kings,Colombo (RPS),2,2,2,0,0,2
+1182529,6 Dec 2021,v Stars,Colombo (RPS),2,2,2,0,0,2
+1182529,7 Dec 2021,v Warriors,Colombo (RPS),1,0,0,0,0,0
+1182529,10 Dec 2021,v Dambulla,Colombo (RPS),1,1,1,0,0,1
+1182529,11 Dec 2021,v Warriors,Colombo (RPS),2,1,1,0,0,1
+1182529,12 Dec 2021,v Stars,Colombo (RPS),1,0,0,0,0,0
+1182529,14 Dec 2021,v Dambulla,Colombo (RPS),2,0,0,0,0,0
+1182529,17 Dec 2021,v Jaffna Kings,Colombo (RPS),2,2,2,0,0,2
+1182529,12 Feb 2022,v United,Lahore,1,1,1,0,0,1
+1182529,13 Feb 2022,v Qalandars,Lahore,2,0,0,0,0,0
+1182529,15 Feb 2022,v Zalmi,Lahore,1,0,0,0,0,0
+1182529,18 Feb 2022,v Sultans,Lahore,1,0,0,0,0,0
+1182529,14 Jun 2022,v Zimbabwe,Harare,2,1,1,0,0,1
+1182529,18 Jul 2022,v Kabul Eagles,Kabul,2,0,0,0,0,0
+1182529,20 Jul 2022,v MAK,Kabul,2,0,0,0,0,0
+1182529,23 Jul 2022,v Amo Sharks,Kabul,2,0,0,0,0,0
+1182529,24 Jul 2022,v Stars,Kabul,1,0,0,0,0,0
+1182529,3 Aug 2022,v Brave,Southampton,2,0,0,0,0,0
+1182529,7 Dec 2022,v Jaffna Kings,Hambantota,2,0,0,0,0,0
+1182529,8 Dec 2022,v Stars,Hambantota,1,0,0,0,0,0
+1182529,13 Dec 2022,v Kandy,Pallekele,1,0,0,0,0,0
+1182529,14 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+1182529,17 Dec 2022,v Galle,Colombo (RPS),2,0,0,0,0,0
+1182529,18 Dec 2022,v Kandy,Colombo (RPS),1,0,0,0,0,0
+1182529,19 Dec 2022,v Galle,Colombo (RPS),1,0,0,0,0,0
+1182529,16 Apr 2023,v RR,Ahmedabad,2,0,0,0,0,0
+1182529,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+1182529,25 Apr 2023,v MI,Ahmedabad,2,1,1,0,0,1
+1182529,29 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+1182529,2 May 2023,v DC,Ahmedabad,1,0,0,0,0,0
+1182529,5 May 2023,v RR,Jaipur,1,0,0,0,0,0
+1182529,7 May 2023,v LSG,Ahmedabad,2,1,1,0,0,1
+1182529,12 May 2023,v MI,Wankhede,1,0,0,0,0,0
+1182529,15 May 2023,v SRH,Ahmedabad,2,0,0,0,0,0
+1182529,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+1182529,23 May 2023,v CSK,Chennai,1,0,0,0,0,0
+1182529,26 May 2023,v MI,Ahmedabad,2,0,0,0,0,0
+1182529,28 May 2023,v CSK,Ahmedabad,2,0,0,0,0,0
+1182529,1 Aug 2023,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+1182529,4 Aug 2023,v B-Love Kandy,Pallekele,2,0,0,0,0,0
+1182529,5 Aug 2023,v Colombo,Pallekele,2,0,0,0,0,0
+1182529,7 Aug 2023,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+1182529,11 Aug 2023,v Galle Titans,Colombo (RPS),1,0,0,0,0,0
+1182529,12 Aug 2023,v Colombo,Colombo (RPS),2,1,1,0,0,1
+1182529,17 Aug 2023,v Galle Titans,Colombo (RPS),1,0,0,0,0,0
+1182529,20 Aug 2023,v B-Love Kandy,Colombo (RPS),2,0,0,0,0,0
+1182529,29 Dec 2023,v U.A.E.,Sharjah,2,0,0,0,0,0
+1182529,31 Dec 2023,v U.A.E.,Sharjah,1,0,0,0,0,0
+1182529,14 Jan 2024,v India,Indore,2,0,0,0,0,0
+1182529,20 Jan 2024,v Sunrisers,Durban,2,0,0,0,0,0
+1182529,23 Jan 2024,v MI Cape Town,Cape Town,2,0,0,0,0,0
+1182529,26 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+1182529,28 Jan 2024,v Paarl Royals,Durban,2,1,1,0,0,1
+1182529,30 Jan 2024,v Capitals,Durban,2,0,0,0,0,0
+1182529,3 Feb 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+1182529,17 Feb 2024,v Sri Lanka,Dambulla,1,1,1,0,0,1
+1182529,19 Feb 2024,v Sri Lanka,Dambulla,1,1,1,0,0,1
+1182529,21 Feb 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+1182529,31 Mar 2024,v SRH,Ahmedabad,1,0,0,0,0,0
+1182529,4 Apr 2024,v Punjab Kings,Ahmedabad,2,0,0,0,0,0
+1182529,7 Apr 2024,v LSG,Lucknow,1,1,1,0,0,1
+1182529,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+1182529,17 Apr 2024,v DC,Ahmedabad,2,0,0,0,0,0
+1182529,21 Apr 2024,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+1182529,24 Apr 2024,v DC,Delhi,1,2,2,0,0,2
+1182529,28 Apr 2024,v RCB,Ahmedabad,2,0,0,0,0,0
+1182529,4 May 2024,v RCB,Bengaluru,2,0,0,0,0,0
+1182529,10 May 2024,v CSK,Ahmedabad,2,2,2,0,0,2
+1182529,7 Jun 2024,v New Zealand,Providence,2,0,0,0,0,0
+1182529,13 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+1182529,17 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+1182529,20 Jun 2024,v India,Bridgetown,1,0,0,0,0,0
+1182529,22 Jun 2024,v Australia,Kingstown,2,2,2,0,0,2
+1182529,24 Jun 2024,v Bangladesh,Kingstown,2,0,0,0,0,0
+1182529,26 Jun 2024,v South Africa,Tarouba,2,0,0,0,0,0
+1182529,19 Jul 2024,v Washington,Dallas,1,1,1,0,0,1
+1182529,23 Jul 2024,v Seattle,Dallas,2,0,0,0,0,0
+1182529,24 Jul 2024,v MI New York,Dallas,1,0,0,0,0,0
+1182529,26 Jul 2024,v SF,Dallas,1,1,1,0,0,1
+1182529,13 Aug 2024,v SGT,Kabul,1,0,0,0,0,0
+1182529,14 Aug 2024,v BEAD,Kabul,2,0,0,0,0,0
+1182529,16 Aug 2024,v Amo Sharks,Kabul,2,0,0,0,0,0
+1182529,19 Aug 2024,v SGT,Kabul,1,1,1,0,0,1
+1182529,21 Aug 2024,v MAK,Kabul,2,0,0,0,0,0
+1182529,22 Aug 2024,v BEAD,Kabul,1,0,0,0,0,0
+1182529,1 Sep 2024,v Patriots,Basseterre,1,0,0,0,0,0
+1182529,3 Sep 2024,v Falcons,North Sound,1,0,0,0,0,0
+1182529,7 Sep 2024,v Amazon,Gros Islet,2,0,0,0,0,0
+1182529,10 Sep 2024,v Trinbago,Gros Islet,2,0,0,0,0,0
+1182529,12 Sep 2024,v Patriots,Gros Islet,1,0,0,0,0,0
+1182529,15 Sep 2024,v Falcons,Gros Islet,2,0,0,0,0,0
+1182529,21 Sep 2024,v Royals,Providence,1,0,0,0,0,0
+1182529,22 Sep 2024,v Royals,Providence,2,0,0,0,0,0
+1182529,24 Sep 2024,v Trinbago,Tarouba,2,1,1,0,0,1
+1182529,28 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+1182529,2 Oct 2024,v Amazon,Providence,2,1,1,0,0,1
+1182529,6 Oct 2024,v Amazon,Providence,1,0,0,0,0,0
+1182529,10 Jan 2025,v Capitals,Durban,2,0,0,0,0,0
+1182529,12 Jan 2025,v Capitals,Centurion,-,TDNF,-,-,-,-
+1182529,14 Jan 2025,v Super Kings,Durban,1,0,0,0,0,0
+1182529,17 Jan 2025,v Sunrisers,Durban,1,1,1,0,0,1
+1182529,19 Jan 2025,v Sunrisers,Gqeberha,2,0,0,0,0,0
+1182529,21 Jan 2025,v MI Cape Town,Durban,1,0,0,0,0,0
+1182529,23 Jan 2025,v Paarl Royals,Durban,2,0,0,0,0,0
+1182529,25 Jan 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+1182529,27 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+1182529,1 Feb 2025,v Super Kings,Johannesburg,2,1,1,0,0,1
+1182529,23 Mar 2025,v MI,Chennai,1,0,0,0,0,0
+1182529,28 Mar 2025,v RCB,Chennai,1,0,0,0,0,0
+1182529,30 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+1182529,5 Apr 2025,v DC,Chennai,1,0,0,0,0,0
+1182529,8 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+1182529,11 Apr 2025,v KKR,Chennai,2,0,0,0,0,0
+1182529,14 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+1182529,20 Apr 2025,v MI,Wankhede,2,0,0,0,0,0
+1182529,25 Apr 2025,v SRH,Chennai,2,0,0,0,0,0
+1182529,30 Apr 2025,v Punjab Kings,Chennai,2,1,1,0,0,1
+1182529,3 May 2025,v RCB,Bengaluru,1,0,0,0,0,0
+1182529,7 May 2025,v KKR,Eden Gardens,1,1,1,0,0,1
+1182529,20 May 2025,v RR,Delhi,2,0,0,0,0,0
+1182529,25 May 2025,v GT,Ahmedabad,2,0,0,0,0,0
+1182529,13 Jun 2025,v MI New York,Oakland,2,0,0,0,0,0
+1182529,15 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+1182529,16 Jun 2025,v Seattle,Oakland,2,1,1,0,0,1
+1182529,20 Jun 2025,v SF,Dallas,2,0,0,0,0,0
+1182529,22 Jun 2025,v Washington,Dallas,2,0,0,0,0,0
+1182529,24 Jun 2025,v Los Angeles,Dallas,2,0,0,0,0,0
+1182529,29 Jun 2025,v MI New York,Dallas,2,0,0,0,0,0
+1182529,2 Jul 2025,v Washington,Lauderhill,2,0,0,0,0,0
+1182529,4 Jul 2025,v SF,Lauderhill,1,0,0,0,0,0
+1182529,5 Jul 2025,v Seattle,Lauderhill,2,0,0,0,0,0
+1182529,8 Jul 2025,v Washington,Dallas,-,TDNF,-,-,-,-
+1182529,11 Jul 2025,v MI New York,Dallas,2,0,0,0,0,0
+1182529,19 Jul 2025,v Amo Sharks,Kabul,2,0,0,0,0,0
+1182529,20 Jul 2025,v SGT,Kabul,2,0,0,0,0,0
+1182529,21 Jul 2025,v MAK,Kabul,1,0,0,0,0,0
+1182529,24 Jul 2025,v BEAD,Kabul,2,1,1,0,0,1
+1182529,6 Aug 2025,v Brave,Manchester,2,0,0,0,0,0
+1182529,9 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+1182529,11 Aug 2025,v Spirit,Manchester,2,0,0,0,0,0
+1182529,13 Aug 2025,v Fire,Cardiff,1,1,1,0,0,1
+1182529,17 Aug 2025,v N S-Chargers,Manchester,2,0,0,0,0,0
+1182529,19 Aug 2025,v Rockets,Nottingham,2,0,0,0,0,0
+1182529,2 Sep 2025,v Pakistan,Sharjah,2,0,0,0,0,0
+1182529,5 Sep 2025,v U.A.E.,Sharjah,2,0,0,0,0,0
+1182529,7 Sep 2025,v Pakistan,Sharjah,1,0,0,0,0,0
+1182529,9 Sep 2025,v Hong Kong,Abu Dhabi,2,0,0,0,0,0
+1182529,16 Sep 2025,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+1182529,18 Sep 2025,v Sri Lanka,Abu Dhabi,2,0,0,0,0,0
+1182529,2 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+1182529,3 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+1182529,2 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+1182529,5 Dec 2025,v KnightRiders,Sharjah,1,1,1,0,0,1
+1182529,8 Dec 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+1182529,9 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+1182529,12 Dec 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+1182529,14 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+1182529,16 Dec 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+1182529,20 Dec 2025,v Warriorz,Dubai (DICS),1,1,1,0,0,1
+1182529,26 Dec 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+1182529,28 Dec 2025,v MI Cape Town,Durban,-,TDNF,-,-,-,-
+1182529,30 Dec 2025,v Super Kings,Durban,2,0,0,0,0,0
+1182529,1 Jan 2026,v Super Kings,Johannesburg,1,0,0,0,0,0
+1182529,3 Jan 2026,v Capitals,Centurion,-,TDNF,-,-,-,-
+1182529,7 Jan 2026,v Capitals,Durban,1,0,0,0,0,0
+1182529,11 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+1182529,13 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+1182529,19 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+1182529,21 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+1182529,11 Feb 2026,v South Africa,Ahmedabad,1,0,0,0,0,0
+1182529,16 Feb 2026,v U.A.E.,Delhi,1,0,0,0,0,0

@@ -1,0 +1,187 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+506612,18 Dec 2011,v Northern Dis,Rangiora,1,0,0,0,0,0
+506612,27 Dec 2011,v Otago,Timaru,2,0,0,0,0,0
+506612,31 Dec 2011,v Northern Dis,Mt Maunganui,2,0,0,0,0,0
+506612,3 Jan 2012,v Auckland,Rangiora,2,0,0,0,0,0
+506612,6 Jan 2012,v Wellington,Wellington,2,0,0,0,0,0
+506612,8 Jan 2012,v Central D,Rangiora,1,0,0,0,0,0
+506612,13 Jan 2012,v Otago,Dunedin,1,1,1,0,0,1
+506612,15 Jan 2012,v Wellington,Christchurch,2,2,2,0,0,2
+506612,17 Jan 2012,v Auckland,Auckland,1,0,0,0,0,0
+506612,22 Jan 2012,v Auckland,Auckland,1,1,1,0,0,1
+506612,15 Feb 2012,v Sth Africans,Christchurch,1,1,1,0,0,1
+506612,27 Dec 2012,v Otago,Timaru,1,0,0,0,0,0
+506612,6 Jan 2013,v Wellington,Rangiora,1,1,1,0,0,1
+506612,11 Jan 2013,v Northern Dis,Hamilton,2,0,0,0,0,0
+506612,13 Jan 2013,v Auckland,Rangiora,2,1,1,0,0,1
+506612,15 Jan 2013,v Otago,Dunedin,2,0,0,0,0,0
+506612,4 Feb 2013,v England XI,Whangarei,-,TDNF,-,-,-,-
+506612,5 Feb 2013,v England XI,Whangarei,1,0,0,0,0,0
+506612,6 Feb 2013,v England XI,Whangarei,1,0,0,0,0,0
+506612,1 Nov 2013,v Central D,Christchurch,-,TDNF,-,-,-,-
+506612,2 Nov 2013,v Otago,Christchurch,1,1,1,0,0,1
+506612,30 Nov 2013,v Auckland,Auckland,2,0,0,0,0,0
+506612,2 Jan 2014,v Northern Dis,Mount Maunganui,2,0,0,0,0,0
+506612,5 Jan 2014,v Auckland,Christchurch,2,1,1,0,0,1
+506612,10 Jan 2014,v Wellington,Christchurch,1,0,0,0,0,0
+506612,12 Jan 2014,v Northern Dis,Christchurch,1,1,1,0,0,1
+506612,17 Jan 2014,v Northern Dis,Hamilton,1,0,0,0,0,0
+506612,31 Oct 2014,v North Island,Hamilton,2,0,0,0,0,0
+506612,2 Nov 2014,v Central D,Hamilton,1,0,0,0,0,0
+506612,7 Nov 2014,v Northern Dis,Hamilton,1,1,1,0,0,1
+506612,8 Nov 2014,v Wellington,Hamilton,1,0,0,0,0,0
+506612,13 Nov 2014,v Northern Dis,Christchurch,1,0,0,0,0,0
+506612,16 Nov 2014,v Otago,Christchurch,1,1,1,0,0,1
+506612,4 Dec 2014,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+506612,5 Dec 2014,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+506612,23 Jun 2015,v England,Manchester,1,0,0,0,0,0
+506612,2 Dec 2015,v Wellington,Wellington,2,0,0,0,0,0
+506612,6 Dec 2015,v Central D,Christchurch,2,1,1,0,0,1
+506612,12 Dec 2015,v Auckland,New Plymouth,2,0,0,0,0,0
+506612,7 Jan 2016,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+506612,15 Jan 2016,v Pakistan,Auckland,1,0,0,0,0,0
+506612,28 Feb 2016,v North Island,Wellington,2,0,0,0,0,0
+506612,20 May 2016,v Durham,Worcester,2,1,1,0,0,1
+506612,27 May 2016,v Warwickshire,Birmingham,1,0,0,0,0,0
+506612,2 Jun 2016,v Yorkshire,Worcester,1,0,0,0,0,0
+506612,3 Jun 2016,v Northants,Northampton,2,0,0,0,0,0
+506612,18 Jun 2016,v Notts,Worcester,2,1,1,0,0,1
+506612,24 Jun 2016,v Lancashire,Manchester,1,1,1,0,0,1
+506612,30 Jun 2016,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+506612,1 Jul 2016,v Derbyshire,Worcester,2,0,0,0,0,0
+506612,8 Jul 2016,v Lancashire,Worcester,2,0,0,0,0,0
+506612,9 Jul 2016,v Notts,Nottingham,2,0,0,0,0,0
+506612,15 Jul 2016,v Warwickshire,Worcester,1,1,1,0,0,1
+506612,15 Dec 2016,v Wellington,Christchurch,2,0,0,0,0,0
+506612,16 Dec 2016,v Wellington,Wellington,2,1,1,0,0,1
+506612,18 Dec 2016,v Auckland,Auckland,2,0,0,0,0,0
+506612,23 Dec 2016,v Otago,Christchurch,2,2,2,0,0,2
+506612,3 Jan 2017,v Bangladesh,Napier,1,1,1,0,0,1
+506612,5 Jan 2017,v Wellington,Wellington,2,0,0,0,0,0
+506612,9 May 2017,v KKR,Mohali,2,0,0,0,0,0
+506612,11 May 2017,v MI,Wankhede,2,0,0,0,0,0
+506612,7 Jul 2017,v Northants,Northampton,1,0,0,0,0,0
+506612,8 Jul 2017,v Yorkshire,Chesterfield,2,1,1,0,0,1
+506612,16 Jul 2017,v Lancashire,Manchester,2,0,0,0,0,0
+506612,19 Jul 2017,v Worcs,Worcester,1,0,0,0,0,0
+506612,21 Jul 2017,v Notts,Nottingham,1,0,0,0,0,0
+506612,23 Jul 2017,v Warwickshire,Birmingham,1,2,2,0,0,2
+506612,25 Jul 2017,v Lancashire,Derby,2,0,0,0,0,0
+506612,30 Jul 2017,v Leics,Derby,1,0,0,0,0,0
+506612,3 Aug 2017,v Yorkshire,Leeds,1,1,1,0,0,1
+506612,4 Aug 2017,v Notts,Derby,1,0,0,0,0,0
+506612,15 Aug 2017,v Durham,Derby,1,0,0,0,0,0
+506612,17 Aug 2017,v Leics,Leicester,2,0,0,0,0,0
+506612,18 Aug 2017,v Worcs,Derby,2,1,1,0,0,1
+506612,22 Aug 2017,v Hampshire,Derby,1,1,1,0,0,1
+506612,14 Dec 2017,v Otago,Christchurch,2,0,0,0,0,0
+506612,13 Jan 2019,v Central D,Christchurch,2,0,0,0,0,0
+506612,16 Jan 2019,v Northern Dis,Hamilton,1,0,0,0,0,0
+506612,19 Jan 2019,v Central D,Napier,1,0,0,0,0,0
+506612,29 Dec 2020,v Otago,Alexandra,2,0,0,0,0,0
+506612,10 Jan 2021,v Central D,Christchurch,1,2,2,0,0,2
+506612,11 Jan 2021,v Auckland,Christchurch,2,0,0,0,0,0
+506612,15 Jan 2021,v Northern Dis,Christchurch,1,0,0,0,0,0
+506612,16 Jan 2021,v Wellington,Christchurch,1,0,0,0,0,0
+506612,21 Jan 2021,v Northern Dis,Hamilton,2,0,0,0,0,0
+506612,25 Jan 2021,v Wellington,Wellington,2,2,2,0,0,2
+506612,30 Jan 2021,v Otago,Christchurch,1,0,0,0,0,0
+506612,5 Feb 2021,v Central D,Napier,1,0,0,0,0,0
+506612,11 Feb 2021,v Central D,Auckland,1,0,0,0,0,0
+506612,13 Feb 2021,v Wellington,Wellington,2,0,0,0,0,0
+506612,26 Nov 2021,v Wellington,Christchurch,1,1,1,0,0,1
+506612,10 Dec 2021,v Central D,Christchurch,2,0,0,0,0,0
+506612,19 Dec 2021,v Wellington,Wellington,1,1,1,0,0,1
+506612,23 Dec 2021,v Northern Dis,Mount Maunganui,2,1,1,0,0,1
+506612,26 Dec 2021,v Otago,Christchurch,2,0,0,0,0,0
+506612,18 Jan 2022,v Auckland,Christchurch,2,1,1,0,0,1
+506612,21 Jan 2022,v Northern Dis,Christchurch,2,1,1,0,0,1
+506612,23 Jan 2022,v Otago,Dunedin,1,0,0,0,0,0
+506612,27 Jan 2022,v Wellington,Dunedin,1,0,0,0,0,0
+506612,29 Jan 2022,v Northern Dis,Hamilton,1,0,0,0,0,0
+506612,8 Apr 2023,v Sri Lanka,Queenstown,1,0,0,0,0,0
+506612,14 Apr 2023,v Pakistan,Lahore,1,1,1,0,0,1
+506612,15 Apr 2023,v Pakistan,Lahore,1,0,0,0,0,0
+506612,17 Apr 2023,v Pakistan,Lahore,2,0,0,0,0,0
+506612,20 Apr 2023,v Pakistan,Rawalpindi,-,TDNF,-,-,-,-
+506612,24 May 2023,v Hampshire,Taunton,1,0,0,0,0,0
+506612,26 May 2023,v Sussex,Hove,1,0,0,0,0,0
+506612,28 May 2023,v Glamorgan,Taunton,1,1,1,0,0,1
+506612,30 May 2023,v Kent,Canterbury,2,2,2,0,0,2
+506612,4 Jun 2023,v Essex,Taunton,2,1,1,0,0,1
+506612,7 Jun 2023,v Hampshire,Southampton,1,2,2,0,0,2
+506612,16 Jun 2023,v Surrey,Taunton,1,2,2,0,0,2
+506612,19 Jun 2023,v Essex,Chelmsford,1,0,0,0,0,0
+506612,23 Jun 2023,v Gloucs,Taunton,1,0,0,0,0,0
+506612,30 Jun 2023,v Surrey,The Oval,2,0,0,0,0,0
+506612,2 Jul 2023,v Kent,Taunton,2,0,0,0,0,0
+506612,7 Jul 2023,v Notts,Taunton,1,1,1,0,0,1
+506612,15 Jul 2023,v Surrey,Birmingham,2,1,1,0,0,1
+506612,15 Jul 2023,v Essex,Birmingham,2,1,1,0,0,1
+506612,20 Aug 2023,v Spirit,Cardiff,1,0,0,0,0,0
+506612,22 Aug 2023,v N S-Chargers,Leeds,1,1,1,0,0,1
+506612,3 Sep 2023,v England,Birmingham,2,0,0,0,0,0
+506612,5 Sep 2023,v England,Nottingham,1,0,0,0,0,0
+506612,5 Jan 2024,v Central D,Christchurch,1,1,1,0,0,1
+506612,7 Jan 2024,v Auckland,Christchurch,2,1,1,0,0,1
+506612,12 Jan 2024,v Pakistan,Auckland,2,1,1,0,0,1
+506612,17 Jan 2024,v Pakistan,Dunedin,2,0,0,0,0,0
+506612,19 Jan 2024,v Pakistan,Christchurch,1,0,0,0,0,0
+506612,21 Jan 2024,v Pakistan,Christchurch,1,0,0,0,0,0
+506612,26 Jan 2024,v Wellington,Hamilton,1,2,2,0,0,2
+506612,28 Jan 2024,v Auckland,Auckland,-,TDNF,-,-,-,-
+506612,19 Apr 2024,v CSK,Lucknow,1,0,0,0,0,0
+506612,23 Apr 2024,v CSK,Chennai,1,0,0,0,0,0
+506612,27 Apr 2024,v RR,Lucknow,2,0,0,0,0,0
+506612,17 May 2024,v MI,Wankhede,2,0,0,0,0,0
+506612,7 Jun 2024,v Afghanistan,Providence,1,0,0,0,0,0
+506612,22 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+506612,1 Aug 2024,v Spirit,Lord's,2,1,1,0,0,1
+506612,3 Aug 2024,v Rockets,Nottingham,2,0,0,0,0,0
+506612,5 Aug 2024,v Brave,Cardiff,1,1,1,0,0,1
+506612,8 Aug 2024,v N S-Chargers,Cardiff,1,0,0,0,0,0
+506612,10 Aug 2024,v Phoenix,Cardiff,2,1,1,0,0,1
+506612,14 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+506612,28 Dec 2024,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+506612,30 Dec 2024,v Sri Lanka,Mount Maunganui,2,1,1,0,0,1
+506612,2 Jan 2025,v Sri Lanka,Nelson,1,0,0,0,0,0
+506612,22 Jan 2025,v Wellington,Wellington,2,2,2,0,0,2
+506612,24 Jan 2025,v Wellington,Christchurch,1,1,1,0,0,1
+506612,26 Jan 2025,v Central D,Christchurch,1,0,0,0,0,0
+506612,28 Jan 2025,v Northern Dis,Christchurch,2,0,0,0,0,0
+506612,1 Feb 2025,v Northern Dis,Wellington,1,1,1,0,0,1
+506612,2 Feb 2025,v Central D,Wellington,2,0,0,0,0,0
+506612,30 May 2025,v Surrey,Taunton,1,0,0,0,0,0
+506612,1 Jun 2025,v Essex,Chelmsford,1,0,0,0,0,0
+506612,6 Jun 2025,v Sussex,Hove,1,0,0,0,0,0
+506612,12 Jun 2025,v Middlesex,Taunton,1,1,1,0,0,1
+506612,13 Jun 2025,v Gloucs,Bristol,1,1,1,0,0,1
+506612,15 Jun 2025,v Kent,Taunton,1,0,0,0,0,0
+506612,20 Jun 2025,v Glamorgan,Cardiff,1,1,1,0,0,1
+506612,4 Jul 2025,v Glamorgan,Taunton,1,0,0,0,0,0
+506612,6 Jul 2025,v Hampshire,Southampton,1,0,0,0,0,0
+506612,8 Jul 2025,v Essex,Taunton,2,1,1,0,0,1
+506612,16 Jul 2025,v South Africa,Harare,2,1,1,0,0,1
+506612,18 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+506612,24 Jul 2025,v Zimbabwe,Harare,2,1,1,0,0,1
+506612,26 Jul 2025,v South Africa,Harare,2,0,0,0,0,0
+506612,16 Aug 2025,v Invincibles,The Oval,1,0,0,0,0,0
+506612,20 Aug 2025,v Brave,Cardiff,1,0,0,0,0,0
+506612,1 Oct 2025,v Australia,Mount Maunganui,2,0,0,0,0,0
+506612,3 Oct 2025,v Australia,Mount Maunganui,1,0,0,0,0,0
+506612,4 Oct 2025,v Australia,Mount Maunganui,2,1,1,0,0,1
+506612,18 Oct 2025,v England,Christchurch,1,2,2,0,0,2
+506612,20 Oct 2025,v England,Christchurch,1,0,0,0,0,0
+506612,23 Oct 2025,v England,Auckland,-,TDNF,-,-,-,-
+506612,23 Jan 2026,v India,Raipur,2,1,1,0,0,1
+506612,25 Jan 2026,v India,Guwahati,2,0,0,0,0,0
+506612,28 Jan 2026,v India,Visakhapatnam,2,0,0,0,0,0
+506612,8 Feb 2026,v Afghanistan,Chennai,1,0,0,0,0,0
+506612,10 Feb 2026,v U.A.E.,Chennai,1,0,0,0,0,0
+506612,14 Feb 2026,v South Africa,Ahmedabad,2,0,0,0,0,0
+506612,17 Feb 2026,v Canada,Chennai,1,0,0,0,0,0
+506612,21 Feb 2026,v Pakistan,Colombo (RPS),-,TDNF,-,-,-,-
+506612,25 Feb 2026,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+506612,27 Feb 2026,v England,Colombo (RPS),2,0,0,0,0,0
+506612,4 Mar 2026,v South Africa,Eden Gardens,1,0,0,0,0,0
+506612,8 Mar 2026,v India,Ahmedabad,1,0,0,0,0,0

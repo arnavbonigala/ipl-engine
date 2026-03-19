@@ -1,0 +1,383 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+47660,14 Jun 2003,v Surrey,East Molesey,1,1,1,0,0,1
+47660,18 Jun 2003,v Hampshire,Southampton,2,0,0,0,0,0
+47660,20 Jun 2003,v Kent,Chelmsford,2,0,0,0,0,0
+47660,21 Jun 2003,v Sussex,Hove,1,0,0,0,0,0
+47660,24 Jun 2003,v Middlesex,Chelmsford,2,0,0,0,0,0
+47660,22 Jun 2005,v Sussex,Hove,2,0,0,0,0,0
+47660,24 Jun 2005,v Kent,Chelmsford,2,0,0,0,0,0
+47660,26 Jun 2005,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,29 Jun 2005,v Hampshire,Chelmsford,1,0,0,0,0,0
+47660,5 Jul 2005,v Surrey,Chelmsford,2,1,1,0,0,1
+47660,6 Jul 2005,v Kent,Canterbury,1,0,0,0,0,0
+47660,27 Jun 2006,v Kent,Beckenham,1,0,0,0,0,0
+47660,28 Jun 2006,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,30 Jun 2006,v Hampshire,Chelmsford,1,1,1,0,0,1
+47660,1 Jul 2006,v Surrey,The Oval,1,1,1,0,0,1
+47660,3 Jul 2006,v Hampshire,Southampton,1,0,0,0,0,0
+47660,6 Jul 2006,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,7 Jul 2006,v Kent,Chelmsford,1,2,2,0,0,2
+47660,11 Jul 2006,v Sussex,Hove,1,0,0,0,0,0
+47660,24 Jul 2006,v Yorkshire,Chelmsford,1,1,1,0,0,1
+47660,12 Aug 2006,v Leics,Nottingham,1,0,0,0,0,0
+47660,22 Jun 2007,v Sussex,Chelmsford,1,0,0,0,0,0
+47660,23 Jun 2007,v Kent,Canterbury,1,0,0,0,0,0
+47660,28 Jun 2007,v Surrey,Chelmsford,1,1,1,0,0,1
+47660,29 Jun 2007,v Kent,Chelmsford,1,0,0,0,0,0
+47660,1 Jul 2007,v Hampshire,Southampton,2,0,0,0,0,0
+47660,3 Jul 2007,v Sussex,Hove,1,1,1,0,0,1
+47660,5 Jul 2007,v Hampshire,Chelmsford,1,1,1,0,0,1
+47660,6 Jul 2007,v Middlesex,Lord's,1,2,2,0,0,2
+47660,11 Jun 2008,v Surrey,The Oval,1,0,0,0,0,0
+47660,12 Jun 2008,v Middlesex,Lord's,2,0,0,0,0,0
+47660,15 Jun 2008,v Middlesex,Chelmsford,2,0,0,0,0,0
+47660,17 Jun 2008,v Sussex,Hove,1,0,0,0,0,0
+47660,18 Jun 2008,v Kent,Chelmsford,2,1,1,0,0,1
+47660,20 Jun 2008,v Surrey,Chelmsford,2,0,0,0,0,0
+47660,22 Jun 2008,v Kent,Beckenham,1,0,0,0,0,0
+47660,24 Jun 2008,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,25 Jun 2008,v Hampshire,Southampton,1,0,0,0,0,0
+47660,27 Jun 2008,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,7 Jul 2008,v Northants,Chelmsford,2,0,0,0,0,0
+47660,26 Jul 2008,v Kent,Southampton,1,0,0,0,0,0
+47660,2 Aug 2008,v Kenya,Belfast,2,1,1,0,0,1
+47660,2 Aug 2008,v Canada,Belfast,2,0,0,0,0,0
+47660,4 Aug 2008,v Scotland,Belfast,1,0,0,0,0,0
+47660,25 May 2009,v Kent,Canterbury,2,0,0,0,0,0
+47660,28 May 2009,v Sussex,Hove,2,0,0,0,0,0
+47660,29 May 2009,v Surrey,Chelmsford,1,2,2,0,0,2
+47660,5 Jun 2009,v England,Lord's,1,0,0,0,0,0
+47660,9 Jun 2009,v Pakistan,Lord's,1,0,0,0,0,0
+47660,22 Jun 2009,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,25 Jun 2009,v Surrey,The Oval,2,0,0,0,0,0
+47660,26 Jun 2009,v Middlesex,Lord's,1,0,0,0,0,0
+47660,28 Jun 2009,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,9 Feb 2010,v Canada,Dubai (DICS),1,0,0,0,0,0
+47660,10 Feb 2010,v U.A.E.,Dubai (DICS),2,0,0,0,0,0
+47660,11 Feb 2010,v Kenya,Abu Dhabi,1,1,1,0,0,1
+47660,12 Feb 2010,v Afghanistan,Dubai (DICS),1,1,1,0,0,1
+47660,13 Feb 2010,v Ireland,Dubai (DICS),1,0,0,0,0,0
+47660,2 Jun 2010,v Kent,Chelmsford,2,0,0,0,0,0
+47660,10 Jun 2010,v Surrey,The Oval,2,1,1,0,0,1
+47660,11 Jun 2010,v Glamorgan,Chelmsford,2,0,0,0,0,0
+47660,13 Jun 2010,v Middlesex,Lord's,1,1,1,0,0,1
+47660,16 Jun 2010,v Somerset,Taunton,2,0,0,0,0,0
+47660,14 Aug 2010,v Hampshire,Southampton,2,0,0,0,0,0
+47660,13 Nov 2010,v Rocks,Harare,2,0,0,0,0,0
+47660,14 Nov 2010,v Tuskers,Harare,1,0,0,0,0,0
+47660,16 Nov 2010,v Mountaineers,Harare,2,1,1,0,0,1
+47660,17 Nov 2010,v Rhinos,Harare,1,0,0,0,0,0
+47660,20 Nov 2010,v Tuskers,Harare,1,2,2,0,0,2
+47660,21 Nov 2010,v Rhinos,Harare,2,0,0,0,0,0
+47660,5 Dec 2010,v Wellington,Wellington,1,0,0,0,0,0
+47660,10 Dec 2010,v Central D,Nelson,2,0,0,0,0,0
+47660,12 Dec 2010,v Auckland,Christchurch,1,1,1,0,0,1
+47660,15 Dec 2010,v Otago,Christchurch,1,0,0,0,0,0
+47660,17 Dec 2010,v Northern Dis,Hamilton,2,0,0,0,0,0
+47660,19 Dec 2010,v Central D,Christchurch,1,0,0,0,0,0
+47660,21 Dec 2010,v Auckland,Auckland,1,0,0,0,0,0
+47660,23 Dec 2010,v Wellington,Timaru,2,1,1,0,0,1
+47660,29 Dec 2010,v Northern Dis,Christchurch,2,0,0,0,0,0
+47660,30 Dec 2010,v West Aust,W.A.C.A,2,0,0,0,0,0
+47660,7 Jan 2011,v Queensland,Brisbane,2,0,0,0,0,0
+47660,11 Jan 2011,v Victoria,Hobart,1,0,0,0,0,0
+47660,19 Jan 2011,v NSW,Sydney,2,0,0,0,0,0
+47660,24 Jan 2011,v South Aust,Hobart,2,0,0,0,0,0
+47660,27 Jan 2011,v West Aust,Hobart,2,1,1,0,0,1
+47660,1 Feb 2011,v NSW,Hobart,2,0,0,0,0,0
+47660,11 Apr 2011,v Chargers,Eden Gardens,2,1,1,0,0,1
+47660,28 Apr 2011,v Daredevils,Delhi,2,1,1,0,0,1
+47660,30 Apr 2011,v Kings XI,Eden Gardens,1,0,0,0,0,0
+47660,19 May 2011,v Warriors,DY Patil,1,0,0,0,0,0
+47660,22 May 2011,v MI,Eden Gardens,2,0,0,0,0,0
+47660,25 May 2011,v MI,Wankhede,2,0,0,0,0,0
+47660,2 Jun 2011,v Sussex,Hove,1,0,0,0,0,0
+47660,3 Jun 2011,v Gloucs,Chelmsford,2,0,0,0,0,0
+47660,8 Jun 2011,v Sussex,Chelmsford,1,1,1,0,0,1
+47660,9 Jun 2011,v Middlesex,Lord's,1,1,1,0,0,1
+47660,13 Jun 2011,v Surrey,The Oval,1,0,0,0,0,0
+47660,15 Jun 2011,v Somerset,Chelmsford,1,0,0,0,0,0
+47660,21 Jun 2011,v Glamorgan,Cardiff,1,2,2,0,0,2
+47660,23 Jun 2011,v Hampshire,Chelmsford,2,3,3,0,0,3
+47660,24 Jun 2011,v Surrey,Chelmsford,-,TDNF,-,-,-,-
+47660,1 Jul 2011,v Kent,Canterbury,2,0,0,0,0,0
+47660,2 Jul 2011,v Middlesex,Chelmsford,2,0,0,0,0,0
+47660,4 Jul 2011,v Somerset,Bath,2,1,1,0,0,1
+47660,6 Jul 2011,v Hampshire,Southampton,1,0,0,0,0,0
+47660,8 Jul 2011,v Glamorgan,Chelmsford,1,0,0,0,0,0
+47660,15 Jul 2011,v Kent,Chelmsford,1,0,0,0,0,0
+47660,19 Sep 2011,v Auckland,Hyderabad,2,0,0,0,0,0
+47660,21 Sep 2011,v Somerset,Hyderabad,1,0,0,0,0,0
+47660,25 Sep 2011,v Somerset,Hyderabad,2,0,0,0,0,0
+47660,27 Sep 2011,v South Aust,Hyderabad,1,0,0,0,0,0
+47660,29 Sep 2011,v RCB,Bengaluru,1,1,1,0,0,1
+47660,1 Oct 2011,v Warriors,Bengaluru,1,0,0,0,0,0
+47660,25 Nov 2011,v Tuskers,Harare,2,0,0,0,0,0
+47660,27 Nov 2011,v Mountaineers,Harare,1,0,0,0,0,0
+47660,30 Nov 2011,v Rhinos,Harare,1,0,0,0,0,0
+47660,1 Dec 2011,v Rocks,Harare,2,0,0,0,0,0
+47660,2 Dec 2011,v Rhinos,Harare,2,1,1,0,0,1
+47660,3 Dec 2011,v Tuskers,Harare,2,0,0,0,0,0
+47660,4 Dec 2011,v Mountaineers,Harare,1,1,1,0,0,1
+47660,17 Feb 2012,v Lions,Potchefstroom,1,1,1,0,0,1
+47660,19 Feb 2012,v Dolphins,Pietermaritzburg,1,0,0,0,0,0
+47660,22 Feb 2012,v Cape Cobras,Paarl,1,1,1,0,0,1
+47660,24 Feb 2012,v Knights,Benoni,1,1,1,0,0,1
+47660,26 Feb 2012,v Titans,Benoni,2,0,0,0,0,0
+47660,29 Feb 2012,v Warriors,Benoni,1,0,0,0,0,0
+47660,2 Mar 2012,v Cape Cobras,Benoni,1,0,0,0,0,0
+47660,4 Mar 2012,v Warriors,East London,1,0,0,0,0,0
+47660,7 Mar 2012,v Dolphins,Benoni,-,TDNF,-,-,-,-
+47660,14 Mar 2012,v Titans,Centurion,2,0,0,0,0,0
+47660,16 Mar 2012,v Knights,Kimberley,2,1,1,0,0,1
+47660,21 Mar 2012,v Lions,Benoni,-,TDNF,-,-,-,-
+47660,10 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+47660,13 Apr 2012,v RR,Eden Gardens,1,0,0,0,0,0
+47660,15 Apr 2012,v Kings XI,Eden Gardens,1,1,1,0,0,1
+47660,13 Jun 2012,v Surrey,The Oval,1,0,0,0,0,0
+47660,20 Jun 2012,v Kent,Chelmsford,2,0,0,0,0,0
+47660,21 Jun 2012,v Middlesex,Lord's,2,1,1,0,0,1
+47660,22 Jun 2012,v Surrey,Chelmsford,1,1,1,0,0,1
+47660,24 Jun 2012,v Sussex,Hove,1,2,2,0,0,2
+47660,28 Jun 2012,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,29 Jun 2012,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,5 Jul 2012,v Middlesex,Chelmsford,1,2,2,0,0,2
+47660,6 Jul 2012,v Kent,Canterbury,2,0,0,0,0,0
+47660,24 Jul 2012,v Somerset,Taunton,1,0,0,0,0,0
+47660,14 Dec 2012,v Northern Dis,Hamilton,2,1,1,0,0,1
+47660,23 Dec 2012,v Wellington,Dunedin,2,1,1,0,0,1
+47660,27 Dec 2012,v Canterbury,Timaru,2,1,1,0,0,1
+47660,31 Dec 2012,v Auckland,Queenstown,2,0,0,0,0,0
+47660,4 Jan 2013,v Auckland,Auckland,1,0,0,0,0,0
+47660,6 Jan 2013,v Central D,Dunedin,2,0,0,0,0,0
+47660,11 Jan 2013,v Wellington,Wellington,2,2,2,0,0,2
+47660,13 Jan 2013,v Central D,New Plymouth,1,0,0,0,0,0
+47660,15 Jan 2013,v Canterbury,Dunedin,1,0,0,0,0,0
+47660,20 Jan 2013,v Wellington,Dunedin,1,0,0,0,0,0
+47660,24 Jan 2013,v Barisal,Khulna,2,0,0,0,0,0
+47660,28 Jan 2013,v Royals,Chattogram,2,1,1,0,0,1
+47660,31 Jan 2013,v Barisal,Chattogram,1,0,0,0,0,0
+47660,1 Feb 2013,v Khulna,Chattogram,1,1,1,0,0,1
+47660,2 Feb 2013,v Dhaka,Chattogram,2,0,0,0,0,0
+47660,7 Feb 2013,v Khulna,Mirpur,2,0,0,0,0,0
+47660,8 Feb 2013,v Royals,Mirpur,2,0,0,0,0,0
+47660,9 Feb 2013,v Rangpur,Mirpur,2,1,1,0,0,1
+47660,13 Feb 2013,v Rajshahi,Mirpur,2,0,0,0,0,0
+47660,14 Feb 2013,v Dhaka,Mirpur,1,0,0,0,0,0
+47660,16 Feb 2013,v Rajshahi,Mirpur,1,1,1,0,0,1
+47660,18 Feb 2013,v Royals,Mirpur,1,1,1,0,0,1
+47660,19 Feb 2013,v Dhaka,Mirpur,1,1,1,0,0,1
+47660,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+47660,12 May 2013,v RCB,Ranchi,1,0,0,0,0,0
+47660,15 May 2013,v Warriors,Ranchi,1,1,1,0,0,1
+47660,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+47660,28 Jun 2013,v Hampshire,Chelmsford,-,TDNF,-,-,-,-
+47660,4 Jul 2013,v Middlesex,Lord's,2,1,1,0,0,1
+47660,5 Jul 2013,v Kent,Canterbury,2,0,0,0,0,0
+47660,8 Jul 2013,v Kent,Chelmsford,2,1,1,0,0,1
+47660,12 Jul 2013,v Middlesex,Chelmsford,2,0,0,0,0,0
+47660,14 Jul 2013,v Sussex,Chelmsford,1,0,0,0,0,0
+47660,15 Jul 2013,v Surrey,The Oval,1,0,0,0,0,0
+47660,21 Jul 2013,v Sussex,Hove,1,0,0,0,0,0
+47660,26 Jul 2013,v Hampshire,Southampton,2,0,0,0,0,0
+47660,31 Jul 2013,v Surrey,Chelmsford,1,2,2,0,0,2
+47660,8 Aug 2013,v Notts,Nottingham,2,1,1,0,0,1
+47660,17 Aug 2013,v Northants,Birmingham,2,0,0,0,0,0
+47660,18 Sep 2013,v Kandurata Ma,Mohali,1,1,1,0,0,1
+47660,20 Sep 2013,v SRH,Mohali,1,1,1,0,0,1
+47660,25 Sep 2013,v Scorchers,Jaipur,2,0,0,0,0,0
+47660,29 Sep 2013,v Lions,Jaipur,1,0,0,0,0,0
+47660,1 Oct 2013,v RR,Jaipur,2,0,0,0,0,0
+47660,2 Nov 2013,v Canterbury,Christchurch,2,0,0,0,0,0
+47660,9 Nov 2013,v Northern Dis,Dunedin,1,0,0,0,0,0
+47660,15 Nov 2013,v Northern Dis,Hamilton,1,0,0,0,0,0
+47660,27 Dec 2013,v Auckland,Alexandra,1,1,1,0,0,1
+47660,3 Jan 2014,v Auckland,Auckland,1,0,0,0,0,0
+47660,5 Jan 2014,v Central D,New Plymouth,1,1,1,0,0,1
+47660,8 Jan 2014,v Wellington,Dunedin,2,0,0,0,0,0
+47660,18 Jan 2014,v Northern Dis,Hamilton,2,0,0,0,0,0
+47660,5 May 2014,v RR,Ahmedabad,1,1,1,0,0,1
+47660,7 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+47660,11 May 2014,v Kings XI,Cuttack,1,0,0,0,0,0
+47660,14 May 2014,v MI,Cuttack,1,0,0,0,0,0
+47660,18 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+47660,20 May 2014,v CSK,Eden Gardens,1,1,1,0,0,1
+47660,22 May 2014,v RCB,Eden Gardens,2,0,0,0,0,0
+47660,24 May 2014,v SRH,Eden Gardens,1,1,1,0,0,1
+47660,27 May 2014,v Kings XI,Eden Gardens,2,0,0,0,0,0
+47660,1 Jun 2014,v Kings XI,Bengaluru,1,0,0,0,0,0
+47660,6 Jun 2014,v Surrey,The Oval,1,2,2,0,0,2
+47660,11 Jun 2014,v Kent,Canterbury,1,1,1,0,0,1
+47660,13 Jun 2014,v Gloucs,Chelmsford,1,0,0,0,0,0
+47660,20 Jun 2014,v Middlesex,Chelmsford,1,1,1,0,0,1
+47660,27 Jun 2014,v Somerset,Taunton,1,1,1,0,0,1
+47660,4 Jul 2014,v Surrey,Chelmsford,1,1,1,0,0,1
+47660,12 Jul 2014,v Kent,Colchester,2,2,2,0,0,2
+47660,18 Jul 2014,v Glamorgan,Cardiff,1,0,0,0,0,0
+47660,20 Jul 2014,v Gloucs,Cheltenham,2,0,0,0,0,0
+47660,22 Jul 2014,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,25 Jul 2014,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,2 Aug 2014,v Warwickshire,Chelmsford,1,0,0,0,0,0
+47660,17 Sep 2014,v CSK,Hyderabad,1,0,0,0,0,0
+47660,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+47660,24 Sep 2014,v Scorchers,Hyderabad,1,0,0,0,0,0
+47660,29 Sep 2014,v Dolphins,Hyderabad,2,0,0,0,0,0
+47660,2 Oct 2014,v Hurricanes,Hyderabad,1,1,1,0,0,1
+47660,4 Oct 2014,v CSK,Bengaluru,2,1,1,0,0,1
+47660,1 Nov 2014,v Auckland,Hamilton,1,0,0,0,0,0
+47660,2 Nov 2014,v Northern Dis,Hamilton,1,1,1,0,0,1
+47660,8 Nov 2014,v Auckland,Hamilton,1,0,0,0,0,0
+47660,9 Nov 2014,v Wellington,Hamilton,2,1,1,0,0,1
+47660,13 Nov 2014,v Central D,Dunedin,2,1,1,0,0,1
+47660,16 Nov 2014,v Canterbury,Christchurch,2,0,0,0,0,0
+47660,20 Nov 2014,v Canterbury,Dunedin,1,0,0,0,0,0
+47660,23 Nov 2014,v Northern Dis,Wellington,1,0,0,0,0,0
+47660,28 Nov 2014,v Central D,Napier,2,0,0,0,0,0
+47660,30 Nov 2014,v Wellington,Dunedin,-,TDNF,-,-,-,-
+47660,6 Jan 2015,v Scorchers,Adelaide,1,0,0,0,0,0
+47660,12 Jan 2015,v Thunder,Adelaide,2,0,0,0,0,0
+47660,14 Jan 2015,v Sixers,Sydney,2,1,1,0,0,1
+47660,19 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+47660,24 Jan 2015,v Sixers,Adelaide,1,0,0,0,0,0
+47660,18 Apr 2015,v Kings XI,Pune,1,0,0,0,0,0
+47660,20 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+47660,28 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+47660,30 Apr 2015,v CSK,Eden Gardens,1,1,1,0,0,1
+47660,2 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+47660,4 May 2015,v SRH,Eden Gardens,2,0,0,0,0,0
+47660,15 May 2015,v Hampshire,Southampton,1,0,0,0,0,0
+47660,16 May 2015,v Surrey,Chelmsford,1,1,1,0,0,1
+47660,22 May 2015,v Glamorgan,Cardiff,1,3,3,0,0,3
+47660,24 May 2015,v Gloucs,Bristol,1,0,0,0,0,0
+47660,29 May 2015,v Somerset,Chelmsford,2,0,0,0,0,0
+47660,5 Jun 2015,v Surrey,The Oval,1,2,2,0,0,2
+47660,11 Jun 2015,v Gloucs,Chelmsford,2,1,1,0,0,1
+47660,12 Jun 2015,v Sussex,Hove,1,1,1,0,0,1
+47660,18 Jun 2015,v Kent,Canterbury,2,1,1,0,0,1
+47660,19 Jun 2015,v Glamorgan,Chelmsford,2,0,0,0,0,0
+47660,26 Jun 2015,v Hampshire,Chelmsford,2,2,2,0,0,2
+47660,10 Jul 2015,v Middlesex,Richmond,2,0,0,0,0,0
+47660,17 Jul 2015,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,13 Aug 2015,v Warwickshire,Birmingham,1,1,1,0,0,1
+47660,22 Nov 2015,v Victorians,Mirpur,1,0,0,0,0,0
+47660,25 Nov 2015,v Rangpur,Mirpur,1,0,0,0,0,0
+47660,1 Dec 2015,v Bulls,Chattogram,2,0,0,0,0,0
+47660,2 Dec 2015,v Victorians,Chattogram,1,1,1,0,0,1
+47660,6 Dec 2015,v Rangpur,Mirpur,2,0,0,0,0,0
+47660,10 Dec 2015,v Bulls,Mirpur,2,1,1,0,0,1
+47660,20 Feb 2016,v United,Dubai (DICS),2,0,0,0,0,0
+47660,20 May 2016,v Surrey,Chelmsford,1,3,3,0,0,3
+47660,1 Jun 2016,v Glamorgan,Cardiff,1,0,0,0,0,0
+47660,3 Jun 2016,v Somerset,Taunton,2,0,0,0,0,0
+47660,10 Jun 2016,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,16 Jun 2016,v Gloucs,Chelmsford,2,0,0,0,0,0
+47660,24 Jun 2016,v Hampshire,Chelmsford,1,1,1,0,0,1
+47660,25 Jun 2016,v Surrey,The Oval,1,1,1,0,0,1
+47660,1 Jul 2016,v Kent,Chelmsford,2,1,1,0,0,1
+47660,8 Jul 2016,v Hampshire,Southampton,2,0,0,0,0,0
+47660,17 Jul 2016,v Gloucs,Cheltenham,1,0,0,0,0,0
+47660,21 Jul 2016,v Sussex,Chelmsford,1,0,0,0,0,0
+47660,22 Jul 2016,v Kent,Canterbury,2,0,0,0,0,0
+47660,28 Jul 2016,v Middlesex,Lord's,1,0,0,0,0,0
+47660,29 Jul 2016,v Glamorgan,Chelmsford,1,0,0,0,0,0
+47660,8 Aug 2016,v Notts,Nottingham,1,1,1,0,0,1
+47660,14 Nov 2016,v Dynamites,Mirpur,1,1,1,0,0,1
+47660,19 Nov 2016,v Kings,Chattogram,2,0,0,0,0,0
+47660,21 Nov 2016,v Chattogram,Chattogram,2,0,0,0,0,0
+47660,7 Jul 2017,v Surrey,Chelmsford,1,0,0,0,0,0
+47660,9 Jul 2017,v Kent,Beckenham,2,0,0,0,0,0
+47660,13 Jul 2017,v Somerset,Chelmsford,2,2,2,0,0,2
+47660,16 Jul 2017,v Glamorgan,Chelmsford,2,0,0,0,0,0
+47660,19 Jul 2017,v Surrey,The Oval,1,0,0,0,0,0
+47660,21 Jul 2017,v Hampshire,Chelmsford,1,1,1,0,0,1
+47660,27 Jul 2017,v Middlesex,Lord's,1,0,0,0,0,0
+47660,29 Jul 2017,v Gloucs,Chelmsford,-,TDNF,-,-,-,-
+47660,4 Aug 2017,v Hampshire,Southampton,1,0,0,0,0,0
+47660,11 Aug 2017,v Middlesex,Chelmsford,2,0,0,0,0,0
+47660,13 Aug 2017,v Gloucs,Bristol,1,0,0,0,0,0
+47660,17 Aug 2017,v Kent,Chelmsford,1,0,0,0,0,0
+47660,18 Aug 2017,v Sussex,Hove,1,1,1,0,0,1
+47660,4 Jul 2018,v Sussex,Chelmsford,1,0,0,0,0,0
+47660,6 Jul 2018,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,12 Jul 2018,v Surrey,The Oval,1,0,0,0,0,0
+47660,13 Jul 2018,v Glamorgan,Chelmsford,2,0,0,0,0,0
+47660,20 Jul 2018,v Gloucs,Cheltenham,-,TDNF,-,-,-,-
+47660,21 Jul 2018,v Hampshire,Chelmsford,1,0,0,0,0,0
+47660,29 Jul 2018,v Nepal,Lord's,-,TDNF,-,-,-,-
+47660,2 Aug 2018,v Kent,Canterbury,1,0,0,0,0,0
+47660,3 Aug 2018,v Somerset,Taunton,2,0,0,0,0,0
+47660,5 Aug 2018,v Surrey,Chelmsford,2,0,0,0,0,0
+47660,7 Aug 2018,v Glamorgan,Cardiff,1,0,0,0,0,0
+47660,12 Aug 2018,v Hampshire,Southampton,-,TDNF,-,-,-,-
+47660,16 Aug 2018,v Middlesex,Lord's,1,0,0,0,0,0
+47660,6 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+47660,7 Oct 2018,v Knights,Sharjah,2,0,0,0,0,0
+47660,10 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+47660,11 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+47660,13 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+47660,17 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+47660,18 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+47660,19 Oct 2018,v KingsLeopard,Sharjah,2,3,3,0,0,3
+47660,21 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+47660,13 Jan 2019,v Rangpur,Mirpur,2,0,0,0,0,0
+47660,15 Jan 2019,v Khulna,Sylhet,1,0,0,0,0,0
+47660,16 Jan 2019,v Dynamites,Sylhet,2,2,2,0,0,2
+47660,21 Jan 2019,v Victorians,Mirpur,2,0,0,0,0,0
+47660,23 Jan 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+47660,25 Jan 2019,v Sylhet,Chattogram,1,0,0,0,0,0
+47660,26 Jan 2019,v Chattogram,Chattogram,2,1,1,0,0,1
+47660,30 Jan 2019,v Sylhet,Chattogram,1,1,1,0,0,1
+47660,13 Feb 2019,v Scotland,Al Amerat,1,0,0,0,0,0
+47660,15 Feb 2019,v Oman,Al Amerat,1,1,1,0,0,1
+47660,17 Feb 2019,v Ireland,Al Amerat,2,0,0,0,0,0
+47660,5 Mar 2019,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+47660,18 Jul 2019,v Middlesex,Lord's,2,1,1,0,0,1
+47660,19 Jul 2019,v Surrey,Chelmsford,2,1,1,0,0,1
+47660,26 Jul 2019,v Kent,Canterbury,1,0,0,0,0,0
+47660,1 Aug 2019,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,2 Aug 2019,v Gloucs,Bristol,2,0,0,0,0,0
+47660,7 Aug 2019,v Somerset,Chelmsford,1,0,0,0,0,0
+47660,9 Aug 2019,v Glamorgan,Cardiff,-,TDNF,-,-,-,-
+47660,22 Aug 2019,v Sussex,Hove,2,0,0,0,0,0
+47660,25 Aug 2019,v Hampshire,Southampton,2,0,0,0,0,0
+47660,29 Aug 2019,v Surrey,The Oval,2,1,1,0,0,1
+47660,30 Aug 2019,v Kent,Chelmsford,2,0,0,0,0,0
+47660,4 Sep 2019,v Lancashire,Chester-le-Street,1,0,0,0,0,0
+47660,21 Sep 2019,v Derbyshire,Birmingham,2,0,0,0,0,0
+47660,21 Sep 2019,v Worcs,Birmingham,1,0,0,0,0,0
+47660,18 Oct 2019,v Kenya,ICCA Dubai,2,0,0,0,0,0
+47660,19 Oct 2019,v Namibia,ICCA Dubai,2,0,0,0,0,0
+47660,22 Oct 2019,v Singapore,ICCA Dubai,1,0,0,0,0,0
+47660,24 Oct 2019,v P.N.G.,ICCA Dubai,2,0,0,0,0,0
+47660,26 Oct 2019,v Bermuda,Dubai (DICS),2,0,0,0,0,0
+47660,27 Oct 2019,v Scotland,Dubai (DICS),1,0,0,0,0,0
+47660,29 Oct 2019,v U.A.E.,Dubai (DICS),1,0,0,0,0,0
+47660,1 Nov 2019,v Ireland,Dubai (DICS),2,0,0,0,0,0
+47660,2 Nov 2019,v P.N.G.,Dubai (DICS),1,0,0,0,0,0
+47660,30 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+47660,3 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+47660,6 Dec 2019,v Blitz,Cape Town,2,1,1,0,0,1
+47660,8 Dec 2019,v Paarl Rocks,Paarl,1,1,1,0,0,1
+47660,13 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+47660,27 Aug 2020,v Middlesex,Chelmsford,1,0,0,0,0,0
+47660,30 Aug 2020,v Surrey,The Oval,2,1,1,0,0,1
+47660,1 Sep 2020,v Hampshire,Chelmsford,2,0,0,0,0,0
+47660,3 Sep 2020,v Middlesex,Lord's,1,1,1,0,0,1
+47660,5 Sep 2020,v Kent,The Oval,1,0,0,0,0,0
+47660,11 Sep 2020,v Surrey,Chelmsford,2,0,0,0,0,0
+47660,14 Sep 2020,v Sussex,Hove,2,0,0,0,0,0
+47660,16 Sep 2020,v Hampshire,Southampton,2,0,0,0,0,0
+47660,18 Sep 2020,v Kent,Canterbury,2,1,1,0,0,1
+47660,9 Jun 2021,v Somerset,Taunton,1,0,0,0,0,0
+47660,11 Jun 2021,v Hampshire,Chelmsford,1,0,0,0,0,0
+47660,15 Jun 2021,v Sussex,Chelmsford,2,0,0,0,0,0
+47660,20 Jun 2021,v Kent,Canterbury,1,0,0,0,0,0
+47660,21 Jun 2021,v Surrey,The Oval,1,2,2,0,0,2
+47660,24 Jun 2021,v Middlesex,Lord's,1,0,0,0,0,0
+47660,25 Jun 2021,v Kent,Chelmsford,1,0,0,0,0,0
+47660,29 Jun 2021,v Somerset,Chelmsford,1,0,0,0,0,0
+47660,1 Jul 2021,v Glamorgan,Chelmsford,1,0,0,0,0,0
+47660,9 Jul 2021,v Sussex,Hove,2,0,0,0,0,0
+47660,16 Jul 2021,v Hampshire,Southampton,1,1,1,0,0,1
+47660,18 Oct 2021,v Ireland,Abu Dhabi,2,0,0,0,0,0
+47660,20 Oct 2021,v Namibia,Abu Dhabi,2,0,0,0,0,0

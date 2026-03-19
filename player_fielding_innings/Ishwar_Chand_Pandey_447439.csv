@@ -1,0 +1,72 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+447439,18 Mar 2013,v Vidarbha,Nagpur,1,0,0,0,0,0
+447439,19 Mar 2013,v UP,Nagpur,1,0,0,0,0,0
+447439,21 Mar 2013,v Railways,Nagpur,1,0,0,0,0,0
+447439,22 Mar 2013,v Rajasthan,Nagpur,1,0,0,0,0,0
+447439,23 Apr 2013,v RCB,Bengaluru,1,0,0,0,0,0
+447439,15 May 2013,v KKR,Ranchi,2,0,0,0,0,0
+447439,31 Mar 2014,v Rajasthan,Nagpur,1,1,1,0,0,1
+447439,1 Apr 2014,v Railways,Nagpur,1,1,1,0,0,1
+447439,2 Apr 2014,v UP,Nagpur,2,0,0,0,0,0
+447439,4 Apr 2014,v Vidarbha,Nagpur,2,0,0,0,0,0
+447439,21 Apr 2014,v Daredevils,Abu Dhabi,2,0,0,0,0,0
+447439,23 Apr 2014,v RR,Dubai (DICS),2,0,0,0,0,0
+447439,25 Apr 2014,v MI,Dubai (DICS),1,0,0,0,0,0
+447439,27 Apr 2014,v SRH,Sharjah,1,1,1,0,0,1
+447439,2 May 2014,v KKR,Ranchi,2,0,0,0,0,0
+447439,5 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+447439,7 May 2014,v Kings XI,Cuttack,1,1,1,0,0,1
+447439,10 May 2014,v MI,Wankhede,1,0,0,0,0,0
+447439,13 May 2014,v RR,Ranchi,1,0,0,0,0,0
+447439,18 May 2014,v RCB,Ranchi,2,0,0,0,0,0
+447439,20 May 2014,v KKR,Eden Gardens,2,0,0,0,0,0
+447439,28 May 2014,v MI,Brabourne,1,1,1,0,0,1
+447439,30 May 2014,v Kings XI,Wankhede,1,0,0,0,0,0
+447439,17 Sep 2014,v KKR,Hyderabad,2,0,0,0,0,0
+447439,22 Sep 2014,v Dolphins,Bengaluru,2,0,0,0,0,0
+447439,24 Mar 2015,v Rajasthan,Indore,1,0,0,0,0,0
+447439,25 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+447439,27 Mar 2015,v UP,Indore,2,0,0,0,0,0
+447439,28 Mar 2015,v Vidarbha,Indore,1,0,0,0,0,0
+447439,9 Apr 2015,v Daredevils,Chennai,2,1,1,0,0,1
+447439,11 Apr 2015,v SRH,Chennai,2,0,0,0,0,0
+447439,17 Apr 2015,v MI,Wankhede,1,0,0,0,0,0
+447439,19 Apr 2015,v RR,Ahmedabad,2,0,0,0,0,0
+447439,22 Apr 2015,v RCB,Bengaluru,2,0,0,0,0,0
+447439,25 Apr 2015,v Kings XI,Chennai,2,0,0,0,0,0
+447439,28 Apr 2015,v KKR,Chennai,2,0,0,0,0,0
+447439,4 May 2015,v RCB,Chennai,2,0,0,0,0,0
+447439,12 May 2015,v Daredevils,Raipur,2,1,1,0,0,1
+447439,16 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+447439,2 Jan 2016,v Andhra,Vadodara,1,1,1,0,0,1
+447439,3 Jan 2016,v Goa,Vadodara,1,0,0,0,0,0
+447439,4 Jan 2016,v Delhi,Vadodara,2,0,0,0,0,0
+447439,6 Jan 2016,v Railways,Vadodara,1,0,0,0,0,0
+447439,7 Jan 2016,v Baroda,Vadodara,1,0,0,0,0,0
+447439,10 Jan 2016,v Assam,Vadodara,1,0,0,0,0,0
+447439,29 Jan 2017,v Railways,Jaipur,1,0,0,0,0,0
+447439,30 Jan 2017,v Rajasthan,Jaipur,2,0,0,0,0,0
+447439,3 Feb 2017,v UP,Jaipur,2,0,0,0,0,0
+447439,4 Feb 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+447439,6 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+447439,8 Jan 2018,v Rajasthan,Raipur,1,0,0,0,0,0
+447439,10 Jan 2018,v UP,Raipur,1,1,1,0,0,1
+447439,12 Jan 2018,v Vidarbha,Raipur,1,1,1,0,0,1
+447439,14 Jan 2018,v Chhattisgarh,Raipur,1,0,0,0,0,0
+447439,15 Jan 2018,v Railways,Raipur,2,0,0,0,0,0
+447439,21 Feb 2019,v Punjab,Indore,2,0,0,0,0,0
+447439,22 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+447439,24 Feb 2019,v Mumbai,Indore,2,0,0,0,0,0
+447439,25 Feb 2019,v Railways,Indore,2,1,1,0,0,1
+447439,27 Feb 2019,v Goa,Indore,1,0,0,0,0,0
+447439,2 Mar 2019,v Sikkim,Indore,2,1,1,0,0,1
+447439,9 Nov 2019,v Assam,Mumbai,1,1,1,0,0,1
+447439,11 Nov 2019,v Mumbai,Wankhede,2,0,0,0,0,0
+447439,12 Nov 2019,v Mizoram,Mumbai,2,0,0,0,0,0
+447439,14 Nov 2019,v Meghalaya,Wankhede,2,0,0,0,0,0
+447439,15 Nov 2019,v Bengal,Mumbai,2,0,0,0,0,0
+447439,17 Nov 2019,v Haryana,Mumbai,2,0,0,0,0,0
+447439,13 Jan 2021,v Rajasthan,Indore,1,1,1,0,0,1
+447439,15 Jan 2021,v Vidarbha,Indore,2,2,2,0,0,2
+447439,17 Jan 2021,v Saurashtra,Indore,1,0,0,0,0,0
+447439,19 Jan 2021,v Services,Indore,2,0,0,0,0,0

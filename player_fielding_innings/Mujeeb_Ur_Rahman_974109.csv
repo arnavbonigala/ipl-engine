@@ -1,0 +1,291 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+974109,11 Sep 2017,v Kabul Eagles,Kabul,2,0,0,0,0,0
+974109,12 Sep 2017,v SGT,Kabul,1,1,1,0,0,1
+974109,13 Sep 2017,v MAK,Kabul,2,1,1,0,0,1
+974109,15 Sep 2017,v BEAD,Kabul,1,0,0,0,0,0
+974109,16 Sep 2017,v Amo Sharks,Kabul,2,0,0,0,0,0
+974109,20 Sep 2017,v Kabul Eagles,Kabul,2,1,1,0,0,1
+974109,2 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+974109,5 Feb 2018,v Zimbabwe,Sharjah,1,0,0,0,0,0
+974109,6 Feb 2018,v Zimbabwe,Sharjah,2,1,1,0,0,1
+974109,8 Apr 2018,v Daredevils,Mohali,1,0,0,0,0,0
+974109,13 Apr 2018,v RCB,Bengaluru,2,1,1,0,0,1
+974109,15 Apr 2018,v CSK,Mohali,2,0,0,0,0,0
+974109,19 Apr 2018,v SRH,Mohali,2,0,0,0,0,0
+974109,21 Apr 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+974109,23 Apr 2018,v Daredevils,Delhi,2,0,0,0,0,0
+974109,26 Apr 2018,v SRH,Hyderabad,1,0,0,0,0,0
+974109,4 May 2018,v MI,Indore,2,0,0,0,0,0
+974109,6 May 2018,v RR,Indore,1,0,0,0,0,0
+974109,8 May 2018,v RR,Jaipur,1,0,0,0,0,0
+974109,12 May 2018,v KKR,Indore,1,0,0,0,0,0
+974109,3 Jun 2018,v Bangladesh,Dehradun,2,0,0,0,0,0
+974109,5 Jun 2018,v Bangladesh,Dehradun,1,0,0,0,0,0
+974109,7 Jun 2018,v Bangladesh,Dehradun,2,0,0,0,0,0
+974109,6 Jul 2018,v Glamorgan,Southampton,1,1,1,0,0,1
+974109,12 Jul 2018,v Sussex,Southampton,2,0,0,0,0,0
+974109,13 Jul 2018,v Kent,Beckenham,1,0,0,0,0,0
+974109,20 Jul 2018,v Middlesex,Southampton,2,0,0,0,0,0
+974109,21 Jul 2018,v Essex,Chelmsford,2,0,0,0,0,0
+974109,26 Jul 2018,v Middlesex,Lord's,1,0,0,0,0,0
+974109,1 Aug 2018,v Somerset,Taunton,1,0,0,0,0,0
+974109,3 Aug 2018,v Kent,Southampton,1,0,0,0,0,0
+974109,8 Aug 2018,v Somerset,Southampton,2,0,0,0,0,0
+974109,10 Aug 2018,v Glamorgan,Cardiff,2,0,0,0,0,0
+974109,12 Aug 2018,v Essex,Southampton,1,0,0,0,0,0
+974109,15 Aug 2018,v Surrey,The Oval,2,0,0,0,0,0
+974109,20 Aug 2018,v Ireland,Bready,2,1,1,0,0,1
+974109,22 Aug 2018,v Ireland,Bready,2,1,1,0,0,1
+974109,6 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+974109,7 Oct 2018,v Panthers,Sharjah,1,0,0,0,0,0
+974109,9 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+974109,11 Oct 2018,v Legends,Sharjah,1,1,1,0,0,1
+974109,12 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+974109,13 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+974109,14 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+974109,17 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+974109,19 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+974109,19 Dec 2018,v Strikers,Brisbane,2,0,0,0,0,0
+974109,22 Dec 2018,v Hurricanes,Carrara,1,0,0,0,0,0
+974109,1 Jan 2019,v Sixers,Carrara,2,0,0,0,0,0
+974109,5 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+974109,8 Jan 2019,v Thunder,Sydney,2,0,0,0,0,0
+974109,10 Jan 2019,v Renegades,Brisbane,2,0,0,0,0,0
+974109,13 Jan 2019,v Renegades,Geelong,2,0,0,0,0,0
+974109,17 Jan 2019,v Thunder,Brisbane,1,0,0,0,0,0
+974109,20 Jan 2019,v Sixers,Sydney,1,0,0,0,0,0
+974109,27 Jan 2019,v Stars,Melbourne,1,1,1,0,0,1
+974109,29 Jan 2019,v Hurricanes,Hobart,2,1,1,0,0,1
+974109,1 Feb 2019,v Scorchers,Brisbane,1,0,0,0,0,0
+974109,21 Feb 2019,v Ireland,Dehradun,1,0,0,0,0,0
+974109,23 Feb 2019,v Ireland,Dehradun,2,0,0,0,0,0
+974109,25 Mar 2019,v RR,Jaipur,2,0,0,0,0,0
+974109,1 Apr 2019,v DC,Mohali,2,0,0,0,0,0
+974109,8 Apr 2019,v SRH,Mohali,1,0,0,0,0,0
+974109,16 Apr 2019,v RR,Mohali,2,0,0,0,0,0
+974109,29 Apr 2019,v SRH,Hyderabad,1,1,1,0,0,1
+974109,18 Jul 2019,v Essex,Lord's,1,1,1,0,0,1
+974109,23 Jul 2019,v Surrey,The Oval,2,0,0,0,0,0
+974109,25 Jul 2019,v Gloucs,Cheltenham,2,0,0,0,0,0
+974109,26 Jul 2019,v Glamorgan,Cardiff,1,1,1,0,0,1
+974109,1 Aug 2019,v Kent,Lord's,1,0,0,0,0,0
+974109,4 Aug 2019,v Somerset,Richmond,2,1,1,0,0,1
+974109,8 Aug 2019,v Surrey,Lord's,2,0,0,0,0,0
+974109,9 Aug 2019,v Sussex,Hove,2,0,0,0,0,0
+974109,11 Aug 2019,v Gloucs,Radlett,1,0,0,0,0,0
+974109,5 Sep 2019,v Notts,Nottingham,2,0,0,0,0,0
+974109,14 Sep 2019,v Zimbabwe,Mirpur,2,0,0,0,0,0
+974109,15 Sep 2019,v Bangladesh,Mirpur,2,0,0,0,0,0
+974109,20 Sep 2019,v Zimbabwe,Chattogram,2,0,0,0,0,0
+974109,21 Sep 2019,v Bangladesh,Chattogram,2,0,0,0,0,0
+974109,7 Oct 2019,v Kabul Eagles,Kabul,1,0,0,0,0,0
+974109,9 Oct 2019,v MAK,Kabul,1,0,0,0,0,0
+974109,10 Oct 2019,v Amo Sharks,Kabul,1,0,0,0,0,0
+974109,12 Oct 2019,v SGT,Kabul,2,0,0,0,0,0
+974109,14 Oct 2019,v BDD,Kabul,2,0,0,0,0,0
+974109,16 Oct 2019,v MAK,Kabul,2,0,0,0,0,0
+974109,17 Oct 2019,v Kabul Eagles,Kabul,2,0,0,0,0,0
+974109,18 Oct 2019,v MAK,Kabul,2,1,1,0,0,1
+974109,14 Nov 2019,v West Indies,Lucknow,1,0,0,0,0,0
+974109,16 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+974109,17 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+974109,11 Dec 2019,v Rangers,Mirpur,2,0,0,0,0,0
+974109,13 Dec 2019,v Platoon,Mirpur,1,0,0,0,0,0
+974109,18 Dec 2019,v Rangers,Chattogram,1,0,0,0,0,0
+974109,20 Dec 2019,v Chattogram,Chattogram,1,1,1,0,0,1
+974109,23 Dec 2019,v Platoon,Chattogram,2,0,0,0,0,0
+974109,24 Dec 2019,v Royals,Chattogram,2,0,0,0,0,0
+974109,28 Dec 2019,v Royals,Mirpur,1,0,0,0,0,0
+974109,31 Dec 2019,v Chattogram,Mirpur,1,0,0,0,0,0
+974109,2 Jan 2020,v Thunder,Sylhet,2,0,0,0,0,0
+974109,7 Jan 2020,v Thunder,Mirpur,1,0,0,0,0,0
+974109,8 Jan 2020,v Khulna,Mirpur,1,0,0,0,0,0
+974109,10 Jan 2020,v Khulna,Mirpur,1,0,0,0,0,0
+974109,14 Jan 2020,v Strikers,Brisbane,1,0,0,0,0,0
+974109,17 Jan 2020,v Strikers,Adelaide,2,0,0,0,0,0
+974109,19 Jan 2020,v Renegades,Brisbane,1,0,0,0,0,0
+974109,23 Jan 2020,v Sixers,Brisbane,2,0,0,0,0,0
+974109,25 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+974109,27 Jan 2020,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+974109,6 Mar 2020,v Ireland,Greater Noida,1,1,1,0,0,1
+974109,8 Mar 2020,v Ireland,Greater Noida,2,0,0,0,0,0
+974109,10 Mar 2020,v Ireland,Greater Noida,1,0,0,0,0,0
+974109,19 Aug 2020,v Zouks,Tarouba,1,1,1,0,0,1
+974109,20 Aug 2020,v Trinbago,Tarouba,2,1,1,0,0,1
+974109,22 Aug 2020,v Amazon,Tarouba,1,2,2,0,0,2
+974109,25 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+974109,26 Aug 2020,v Tridents,Port of Spain,1,1,1,0,0,1
+974109,29 Aug 2020,v Patriots,Port of Spain,2,1,1,0,0,1
+974109,1 Sep 2020,v Trinbago,Tarouba,1,1,1,0,0,1
+974109,3 Sep 2020,v Patriots,Tarouba,1,0,0,0,0,0
+974109,5 Sep 2020,v Tridents,Tarouba,2,0,0,0,0,0
+974109,6 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+974109,8 Sep 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+974109,8 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+974109,10 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+974109,14 Dec 2020,v Thunder,Canberra,2,0,0,0,0,0
+974109,23 Dec 2020,v Strikers,Brisbane,1,0,0,0,0,0
+974109,27 Dec 2020,v Hurricanes,Brisbane,1,0,0,0,0,0
+974109,30 Dec 2020,v Hurricanes,Brisbane,1,1,1,0,0,1
+974109,2 Jan 2021,v Sixers,Brisbane,1,0,0,0,0,0
+974109,4 Jan 2021,v Thunder,Brisbane,1,2,2,0,0,2
+974109,7 Jan 2021,v Stars,Carrara,2,0,0,0,0,0
+974109,10 Jan 2021,v Sixers,Carrara,2,0,0,0,0,0
+974109,21 Feb 2021,v Qalandars,Karachi,2,0,0,0,0,0
+974109,23 Feb 2021,v Sultans,Karachi,1,0,0,0,0,0
+974109,26 Feb 2021,v Gladiators,Karachi,1,1,1,0,0,1
+974109,27 Feb 2021,v United,Karachi,1,0,0,0,0,0
+974109,17 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+974109,27 Jun 2021,v Glamorgan,Radlett,1,0,0,0,0,0
+974109,1 Jul 2021,v Sussex,Lord's,2,0,0,0,0,0
+974109,2 Jul 2021,v Somerset,Taunton,1,0,0,0,0,0
+974109,9 Jul 2021,v Gloucs,Cheltenham,1,0,0,0,0,0
+974109,16 Jul 2021,v Kent,Lord's,1,0,0,0,0,0
+974109,18 Jul 2021,v Essex,Chelmsford,2,0,0,0,0,0
+974109,24 Jul 2021,v Fire,Leeds,1,0,0,0,0,0
+974109,26 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+974109,31 Jul 2021,v Invincibles,Leeds,1,0,0,0,0,0
+974109,3 Aug 2021,v Spirit,Lord's,2,1,1,0,0,1
+974109,7 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+974109,12 Aug 2021,v Originals,Leeds,2,1,1,0,0,1
+974109,17 Aug 2021,v Phoenix,Leeds,2,0,0,0,0,0
+974109,25 Oct 2021,v Scotland,Sharjah,2,0,0,0,0,0
+974109,29 Oct 2021,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+974109,7 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+974109,6 Dec 2021,v Thunder,Canberra,2,0,0,0,0,0
+974109,8 Dec 2021,v Scorchers,Perth,1,0,0,0,0,0
+974109,13 Dec 2021,v Renegades,Carrara,1,1,1,0,0,1
+974109,19 Dec 2021,v Thunder,Brisbane,1,0,0,0,0,0
+974109,23 Dec 2021,v Strikers,Adelaide,2,0,0,0,0,0
+974109,27 Dec 2021,v Stars,Brisbane,1,0,0,0,0,0
+974109,29 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+974109,1 Jan 2022,v Hurricanes,Hobart,2,0,0,0,0,0
+974109,6 Jan 2022,v Renegades,Geelong,2,1,1,0,0,1
+974109,8 Jan 2022,v Hurricanes,Brisbane,2,0,0,0,0,0
+974109,12 Jan 2022,v Strikers,Brisbane,1,0,0,0,0,0
+974109,29 Jan 2022,v Khulna,Chattogram,2,0,0,0,0,0
+974109,31 Jan 2022,v Khulna,Chattogram,2,0,0,0,0,0
+974109,1 Feb 2022,v Chattogram,Chattogram,2,0,0,0,0,0
+974109,7 Feb 2022,v Victorians,Sylhet,2,0,0,0,0,0
+974109,8 Feb 2022,v Sunrisers,Sylhet,2,0,0,0,0,0
+974109,11 Feb 2022,v Dhaka,Mirpur,1,0,0,0,0,0
+974109,14 Feb 2022,v Victorians,Mirpur,2,0,0,0,0,0
+974109,18 Feb 2022,v Victorians,Mirpur,1,1,1,0,0,1
+974109,3 Mar 2022,v Bangladesh,Mirpur,1,1,1,0,0,1
+974109,9 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974109,11 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974109,12 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974109,15 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974109,17 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974109,27 Aug 2022,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+974109,30 Aug 2022,v Bangladesh,Sharjah,1,0,0,0,0,0
+974109,3 Sep 2022,v Sri Lanka,Sharjah,2,0,0,0,0,0
+974109,7 Sep 2022,v Pakistan,Sharjah,2,0,0,0,0,0
+974109,8 Sep 2022,v India,Dubai (DICS),1,0,0,0,0,0
+974109,13 Sep 2022,v Trinbago,Port of Spain,1,0,0,0,0,0
+974109,15 Sep 2022,v Tallawahs,Port of Spain,2,0,0,0,0,0
+974109,18 Sep 2022,v Amazon,Tarouba,2,0,0,0,0,0
+974109,21 Sep 2022,v Patriots,Providence,2,0,0,0,0,0
+974109,25 Sep 2022,v Amazon,Providence,2,1,1,0,0,1
+974109,27 Sep 2022,v Amazon,Providence,2,0,0,0,0,0
+974109,30 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+974109,22 Oct 2022,v England,Perth,2,1,1,0,0,1
+974109,1 Nov 2022,v Sri Lanka,Brisbane,2,0,0,0,0,0
+974109,4 Nov 2022,v Australia,Adelaide,1,0,0,0,0,0
+974109,15 Dec 2022,v Heat,Cairns,2,0,0,0,0,0
+974109,18 Dec 2022,v Thunder,Melbourne (Docklands),1,0,0,0,0,0
+974109,21 Dec 2022,v Heat,Geelong,1,0,0,0,0,0
+974109,24 Dec 2022,v Hurricanes,Hobart,1,1,1,0,0,1
+974109,28 Dec 2022,v Sixers,Sydney,1,0,0,0,0,0
+974109,30 Dec 2022,v Sixers,Geelong,2,0,0,0,0,0
+974109,1 Jan 2023,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+974109,3 Jan 2023,v Stars,Melbourne,2,1,1,0,0,1
+974109,7 Jan 2023,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+974109,12 Feb 2023,v Barishal,Mirpur,1,0,0,0,0,0
+974109,16 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+974109,18 Feb 2023,v U.A.E.,Abu Dhabi,2,0,0,0,0,0
+974109,1 Mar 2023,v Kings,Rawalpindi,2,0,0,0,0,0
+974109,7 Mar 2023,v Qalandars,Rawalpindi,2,0,0,0,0,0
+974109,8 Mar 2023,v Gladiators,Rawalpindi,2,0,0,0,0,0
+974109,10 Mar 2023,v Sultans,Rawalpindi,2,0,0,0,0,0
+974109,12 Mar 2023,v United,Rawalpindi,2,1,1,0,0,1
+974109,16 Mar 2023,v United,Lahore,2,1,1,0,0,1
+974109,17 Mar 2023,v Qalandars,Lahore,2,0,0,0,0,0
+974109,24 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+974109,26 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+974109,27 Mar 2023,v Pakistan,Sharjah,1,1,1,0,0,1
+974109,14 Jul 2023,v Bangladesh,Sylhet,2,0,0,0,0,0
+974109,16 Jul 2023,v Bangladesh,Sylhet,2,0,0,0,0,0
+974109,31 Jul 2023,v Colombo,Colombo (RPS),1,0,0,0,0,0
+974109,1 Aug 2023,v Galle Titans,Colombo (RPS),1,0,0,0,0,0
+974109,4 Aug 2023,v Aura,Pallekele,1,1,1,0,0,1
+974109,5 Aug 2023,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+974109,8 Aug 2023,v Galle Titans,Pallekele,2,0,0,0,0,0
+974109,12 Aug 2023,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+974109,14 Aug 2023,v Aura,Colombo (RPS),1,0,0,0,0,0
+974109,17 Aug 2023,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+974109,19 Aug 2023,v Galle Titans,Colombo (RPS),2,1,1,0,0,1
+974109,20 Aug 2023,v Aura,Colombo (RPS),1,0,0,0,0,0
+974109,8 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+974109,10 Dec 2023,v Scorchers,Geelong,1,0,0,0,0,0
+974109,21 Dec 2023,v Heat,Melbourne (Docklands),2,1,1,0,0,1
+974109,23 Dec 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+974109,26 Dec 2023,v Scorchers,Perth,1,0,0,0,0,0
+974109,29 Dec 2023,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+974109,11 Jan 2024,v India,Mohali,2,0,0,0,0,0
+974109,14 Jan 2024,v India,Indore,2,0,0,0,0,0
+974109,19 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+974109,21 Jan 2024,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+974109,24 Jan 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+974109,27 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+974109,31 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+974109,3 Jun 2024,v Uganda,Providence,2,0,0,0,0,0
+974109,11 Dec 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+974109,13 Dec 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+974109,14 Dec 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+974109,11 Jan 2025,v Sunrisers,Paarl,1,0,0,0,0,0
+974109,13 Jan 2025,v MI Cape Town,Cape Town,1,0,0,0,0,0
+974109,15 Jan 2025,v MI Cape Town,Paarl,1,0,0,0,0,0
+974109,18 Jan 2025,v Capitals,Centurion,1,0,0,0,0,0
+974109,20 Jan 2025,v Super Kings,Paarl,1,1,1,0,0,1
+974109,23 Jan 2025,v Super Giants,Durban,1,0,0,0,0,0
+974109,25 Jan 2025,v Capitals,Paarl,2,0,0,0,0,0
+974109,27 Jan 2025,v Super Giants,Paarl,1,0,0,0,0,0
+974109,30 Jan 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+974109,1 Feb 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+974109,4 Feb 2025,v MI Cape Town,Gqeberha,1,0,0,0,0,0
+974109,6 Feb 2025,v Sunrisers,Centurion,2,0,0,0,0,0
+974109,29 Mar 2025,v GT,Ahmedabad,1,0,0,0,0,0
+974109,19 Jul 2025,v SGT,Kabul,1,0,0,0,0,0
+974109,20 Jul 2025,v BEAD,Kabul,2,0,0,0,0,0
+974109,21 Jul 2025,v BDD,Kabul,2,0,0,0,0,0
+974109,22 Jul 2025,v Amo Sharks,Kabul,1,0,0,0,0,0
+974109,25 Jul 2025,v Amo Sharks,Kabul,1,0,0,0,0,0
+974109,26 Jul 2025,v BDD,Kabul,2,0,0,0,0,0
+974109,28 Jul 2025,v SGT,Kabul,1,0,0,0,0,0
+974109,29 Jul 2025,v BEAD,Kabul,2,0,0,0,0,0
+974109,31 Jul 2025,v Amo Sharks,Kabul,2,0,0,0,0,0
+974109,16 Aug 2025,v Falcons,North Sound,2,0,0,0,0,0
+974109,29 Aug 2025,v Pakistan,Sharjah,1,1,1,0,0,1
+974109,1 Sep 2025,v U.A.E.,Sharjah,2,1,1,0,0,1
+974109,5 Sep 2025,v U.A.E.,Sharjah,2,0,0,0,0,0
+974109,18 Sep 2025,v Sri Lanka,Abu Dhabi,2,1,1,0,0,1
+974109,3 Oct 2025,v Bangladesh,Sharjah,2,1,1,0,0,1
+974109,5 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+974109,29 Oct 2025,v Zimbabwe,Harare,2,1,1,0,0,1
+974109,31 Oct 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+974109,2 Nov 2025,v Zimbabwe,Harare,2,2,2,0,0,2
+974109,27 Dec 2025,v Sunrisers,Paarl,1,0,0,0,0,0
+974109,31 Dec 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+974109,2 Jan 2026,v MI Cape Town,Paarl,2,0,0,0,0,0
+974109,4 Jan 2026,v MI Cape Town,Cape Town,1,0,0,0,0,0
+974109,8 Jan 2026,v Super Kings,Johannesburg,1,0,0,0,0,0
+974109,10 Jan 2026,v Capitals,Paarl,1,0,0,0,0,0
+974109,13 Jan 2026,v Super Giants,Paarl,1,0,0,0,0,0
+974109,19 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+974109,21 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+974109,22 Jan 2026,v West Indies,Dubai (DICS),1,0,0,0,0,0
+974109,8 Feb 2026,v New Zealand,Chennai,2,0,0,0,0,0
+974109,11 Feb 2026,v South Africa,Ahmedabad,1,1,1,0,0,1
+974109,16 Feb 2026,v U.A.E.,Delhi,1,1,1,0,0,1
+974109,19 Feb 2026,v Canada,Chennai,2,1,1,0,0,1

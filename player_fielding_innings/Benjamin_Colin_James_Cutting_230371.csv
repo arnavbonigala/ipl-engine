@@ -1,0 +1,213 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+230371,26 Dec 2008,v NSW,Brisbane,2,0,0,0,0,0
+230371,1 Jan 2009,v Tasmania,Hobart,1,0,0,0,0,0
+230371,9 Jan 2009,v South Aust,Brisbane,1,0,0,0,0,0
+230371,15 Jan 2009,v West Aust,W.A.C.A,2,0,0,0,0,0
+230371,28 Dec 2009,v Victoria,Brisbane,1,0,0,0,0,0
+230371,3 Jan 2010,v South Aust,Adelaide,2,0,0,0,0,0
+230371,8 Jan 2010,v Tasmania,Brisbane,2,0,0,0,0,0
+230371,16 Jan 2010,v West Aust,Brisbane,2,0,0,0,0,0
+230371,19 Jan 2010,v Victoria,Brisbane,2,1,1,0,0,1
+230371,2 Jan 2011,v Victoria,Melbourne,1,1,1,0,0,1
+230371,7 Jan 2011,v Tasmania,Brisbane,1,1,1,0,0,1
+230371,20 Jan 2011,v South Aust,Adelaide,1,1,1,0,0,1
+230371,24 Jan 2011,v NSW,Brisbane,1,0,0,0,0,0
+230371,25 Jan 2011,v West Aust,Brisbane,1,0,0,0,0,0
+230371,9 Dec 2012,v Hurricanes,Brisbane,2,0,0,0,0,0
+230371,13 Dec 2012,v Strikers,Adelaide,1,0,0,0,0,0
+230371,18 Dec 2012,v Scorchers,Brisbane,2,0,0,0,0,0
+230371,22 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,28 Dec 2012,v Thunder,Sydney,1,1,1,0,0,1
+230371,3 Jan 2013,v Stars,Brisbane,2,0,0,0,0,0
+230371,7 Jan 2013,v Sixers,Brisbane,2,1,1,0,0,1
+230371,15 Jan 2013,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,19 Jan 2013,v Scorchers,W.A.C.A,2,0,0,0,0,0
+230371,26 Jan 2013,v Sri Lanka,Sydney,2,1,1,0,0,1
+230371,13 Feb 2013,v West Indies,Brisbane,1,0,0,0,0,0
+230371,22 Sep 2013,v Trinidad & T,Ranchi,1,1,1,0,0,1
+230371,24 Sep 2013,v Titans,Mohali,1,1,1,0,0,1
+230371,28 Sep 2013,v CSK,Ranchi,2,0,0,0,0,0
+230371,22 Dec 2013,v Scorchers,Brisbane,1,0,0,0,0,0
+230371,28 Dec 2013,v Hurricanes,Brisbane,2,0,0,0,0,0
+230371,30 Dec 2013,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+230371,2 Jan 2014,v Sixers,Brisbane,1,1,1,0,0,1
+230371,8 Jan 2014,v Thunder,Sydney,2,0,0,0,0,0
+230371,11 Jan 2014,v Stars,Brisbane,2,2,2,0,0,2
+230371,18 Jan 2014,v Strikers,Adelaide,2,0,0,0,0,0
+230371,23 Jan 2014,v Hurricanes,Hobart,1,0,0,0,0,0
+230371,2 Feb 2014,v England,Sydney,2,3,3,0,0,3
+230371,15 May 2014,v Daredevils,Ahmedabad,2,1,1,0,0,1
+230371,5 Nov 2014,v South Africa,Adelaide,2,1,1,0,0,1
+230371,28 Dec 2014,v Stars,Brisbane,2,0,0,0,0,0
+230371,2 Jan 2015,v Hurricanes,Hobart,2,1,1,0,0,1
+230371,4 Jan 2015,v Strikers,Brisbane,2,0,0,0,0,0
+230371,8 Jan 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+230371,11 Jan 2015,v Sixers,Brisbane,2,1,1,0,0,1
+230371,13 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,15 Jan 2015,v Hurricanes,Brisbane,2,0,0,0,0,0
+230371,19 Dec 2015,v Renegades,Brisbane,2,1,1,0,0,1
+230371,22 Dec 2015,v Hurricanes,Hobart,1,0,0,0,0,0
+230371,26 Dec 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+230371,29 Dec 2015,v Hurricanes,Brisbane,1,0,0,0,0,0
+230371,3 Jan 2016,v Thunder,Brisbane,1,0,0,0,0,0
+230371,8 Jan 2016,v Strikers,Brisbane,2,0,0,0,0,0
+230371,10 Jan 2016,v Sixers,Sydney,2,0,0,0,0,0
+230371,14 Jan 2016,v Stars,Melbourne,2,2,2,0,0,2
+230371,15 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+230371,25 May 2016,v KKR,Delhi,2,1,1,0,0,1
+230371,27 May 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+230371,29 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+230371,21 Dec 2016,v Strikers,Adelaide,2,0,0,0,0,0
+230371,28 Dec 2016,v Thunder,Sydney,1,0,0,0,0,0
+230371,30 Dec 2016,v Hurricanes,Brisbane,1,0,0,0,0,0
+230371,3 Jan 2017,v Sixers,Brisbane,2,2,2,0,0,2
+230371,5 Jan 2017,v Scorchers,W.A.C.A,1,1,1,0,0,1
+230371,11 Jan 2017,v Scorchers,Brisbane,1,0,0,0,0,0
+230371,17 Jan 2017,v Stars,Melbourne,1,0,0,0,0,0
+230371,20 Jan 2017,v Renegades,Brisbane,1,0,0,0,0,0
+230371,25 Jan 2017,v Sixers,Brisbane,2,0,0,0,0,0
+230371,5 Apr 2017,v RCB,Hyderabad,2,0,0,0,0,0
+230371,9 Apr 2017,v Guj Lions,Hyderabad,1,0,0,0,0,0
+230371,12 Apr 2017,v MI,Wankhede,2,1,1,0,0,1
+230371,15 Apr 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+230371,12 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+230371,13 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+230371,15 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+230371,20 Dec 2017,v Stars,Brisbane,2,0,0,0,0,0
+230371,23 Dec 2017,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,27 Dec 2017,v Thunder,Brisbane,1,1,1,0,0,1
+230371,31 Dec 2017,v Strikers,Adelaide,1,0,0,0,0,0
+230371,2 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+230371,5 Jan 2018,v Scorchers,Brisbane,2,1,1,0,0,1
+230371,10 Jan 2018,v Hurricanes,Brisbane,1,0,0,0,0,0
+230371,15 Jan 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+230371,18 Jan 2018,v Sixers,Sydney,2,0,0,0,0,0
+230371,27 Jan 2018,v Renegades,Brisbane,1,0,0,0,0,0
+230371,12 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+230371,28 Apr 2018,v CSK,Pune,1,2,2,0,0,2
+230371,1 May 2018,v RCB,Bengaluru,1,1,1,0,0,1
+230371,4 May 2018,v Kings XI,Indore,1,0,0,0,0,0
+230371,6 May 2018,v KKR,Wankhede,2,1,1,0,0,1
+230371,9 May 2018,v KKR,Eden Gardens,2,1,1,0,0,1
+230371,13 May 2018,v RR,Wankhede,2,0,0,0,0,0
+230371,16 May 2018,v Kings XI,Wankhede,2,2,2,0,0,2
+230371,20 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+230371,9 Aug 2018,v Amazon,Providence,2,1,1,0,0,1
+230371,11 Aug 2018,v Trinbago,Port of Spain,2,1,1,0,0,1
+230371,15 Aug 2018,v Tallawahs,Kingston,1,0,0,0,0,0
+230371,21 Aug 2018,v Stars,Gros Islet,1,1,1,0,0,1
+230371,25 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+230371,28 Aug 2018,v Amazon,Basseterre,2,2,2,0,0,2
+230371,1 Sep 2018,v Trinbago,Basseterre,1,0,0,0,0,0
+230371,2 Sep 2018,v Tallawahs,Basseterre,1,0,0,0,0,0
+230371,4 Sep 2018,v Tridents,Basseterre,1,0,0,0,0,0
+230371,12 Sep 2018,v Tallawahs,Providence,1,1,1,0,0,1
+230371,14 Sep 2018,v Trinbago,Tarouba,1,0,0,0,0,0
+230371,6 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+230371,7 Oct 2018,v Panthers,Sharjah,1,1,1,0,0,1
+230371,9 Oct 2018,v Kabul Zwanan,Sharjah,2,1,1,0,0,1
+230371,11 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+230371,12 Oct 2018,v Kabul Zwanan,Sharjah,2,1,1,0,0,1
+230371,13 Oct 2018,v Knights,Sharjah,1,0,0,0,0,0
+230371,14 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+230371,17 Oct 2018,v Legends,Sharjah,1,2,2,0,0,2
+230371,19 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+230371,19 Dec 2018,v Strikers,Brisbane,2,0,0,0,0,0
+230371,22 Dec 2018,v Hurricanes,Carrara,1,3,3,0,0,3
+230371,1 Jan 2019,v Sixers,Carrara,2,0,0,0,0,0
+230371,5 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+230371,8 Jan 2019,v Thunder,Sydney,2,0,0,0,0,0
+230371,10 Jan 2019,v Renegades,Brisbane,2,0,0,0,0,0
+230371,13 Jan 2019,v Renegades,Geelong,2,0,0,0,0,0
+230371,17 Jan 2019,v Thunder,Brisbane,1,0,0,0,0,0
+230371,20 Jan 2019,v Sixers,Sydney,1,1,1,0,0,1
+230371,27 Jan 2019,v Stars,Melbourne,1,2,2,0,0,2
+230371,29 Jan 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+230371,1 Feb 2019,v Scorchers,Brisbane,1,1,1,0,0,1
+230371,3 Feb 2019,v Strikers,Adelaide,1,0,0,0,0,0
+230371,8 Feb 2019,v Stars,Brisbane,1,1,1,0,0,1
+230371,24 Mar 2019,v DC,Wankhede,1,0,0,0,0,0
+230371,18 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+230371,20 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+230371,17 Dec 2019,v Thunder,Brisbane,1,1,1,0,0,1
+230371,20 Dec 2019,v Stars,Carrara,1,0,0,0,0,0
+230371,22 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+230371,1 Jan 2020,v Scorchers,Carrara,1,1,1,0,0,1
+230371,3 Jan 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+230371,6 Jan 2020,v Thunder,Sydney,2,0,0,0,0,0
+230371,9 Jan 2020,v Hurricanes,Brisbane,1,3,3,0,0,3
+230371,11 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+230371,14 Jan 2020,v Strikers,Brisbane,1,1,1,0,0,1
+230371,17 Jan 2020,v Strikers,Adelaide,2,0,0,0,0,0
+230371,19 Jan 2020,v Renegades,Brisbane,1,1,1,0,0,1
+230371,23 Jan 2020,v Sixers,Brisbane,2,0,0,0,0,0
+230371,25 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+230371,27 Jan 2020,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,20 Feb 2020,v United,Karachi,1,0,0,0,0,0
+230371,27 Feb 2020,v United,Rawalpindi,1,0,0,0,0,0
+230371,29 Feb 2020,v Sultans,Multan,1,0,0,0,0,0
+230371,3 Mar 2020,v Qalandars,Lahore,1,0,0,0,0,0
+230371,5 Mar 2020,v Zalmi,Rawalpindi,1,0,0,0,0,0
+230371,7 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+230371,15 Mar 2020,v Kings,Karachi,1,0,0,0,0,0
+230371,12 Dec 2020,v Stars,Canberra,1,0,0,0,0,0
+230371,14 Dec 2020,v Heat,Canberra,1,0,0,0,0,0
+230371,22 Dec 2020,v Scorchers,Canberra,1,0,0,0,0,0
+230371,26 Dec 2020,v Renegades,Canberra,2,2,2,0,0,2
+230371,29 Dec 2020,v Stars,Canberra,2,1,1,0,0,1
+230371,1 Jan 2021,v Renegades,Carrara,1,0,0,0,0,0
+230371,4 Jan 2021,v Heat,Brisbane,2,0,0,0,0,0
+230371,7 Jan 2021,v Hurricanes,Perth,2,0,0,0,0,0
+230371,9 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+230371,13 Jan 2021,v Sixers,Canberra,2,1,1,0,0,1
+230371,18 Jan 2021,v Hurricanes,Canberra,2,0,0,0,0,0
+230371,22 Jan 2021,v Sixers,Adelaide,2,1,1,0,0,1
+230371,24 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+230371,25 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+230371,31 Jan 2021,v Heat,Canberra,2,0,0,0,0,0
+230371,20 Feb 2021,v Kings,Karachi,2,0,0,0,0,0
+230371,22 Feb 2021,v Qalandars,Karachi,2,0,0,0,0,0
+230371,26 Feb 2021,v Zalmi,Karachi,2,1,1,0,0,1
+230371,1 Mar 2021,v United,Karachi,2,0,0,0,0,0
+230371,3 Mar 2021,v Sultans,Karachi,2,2,2,0,0,2
+230371,6 Dec 2021,v Heat,Canberra,1,1,1,0,0,1
+230371,10 Dec 2021,v Stars,Melbourne,1,1,1,0,0,1
+230371,12 Dec 2021,v Stars,Sydney,2,1,1,0,0,1
+230371,19 Dec 2021,v Heat,Brisbane,2,1,1,0,0,1
+230371,26 Dec 2021,v Sixers,Sydney,1,1,1,0,0,1
+230371,28 Dec 2021,v Scorchers,Canberra,2,0,0,0,0,0
+230371,31 Dec 2021,v Strikers,Adelaide,2,0,0,0,0,0
+230371,2 Jan 2022,v Strikers,Sydney,2,2,2,0,0,2
+230371,6 Jan 2022,v Scorchers,Carrara,1,2,2,0,0,2
+230371,8 Jan 2022,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+230371,10 Jan 2022,v Hurricanes,Melbourne,1,1,1,0,0,1
+230371,13 Jan 2022,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+230371,19 Jan 2022,v Renegades,Melbourne,2,0,0,0,0,0
+230371,23 Jan 2022,v Strikers,Melbourne,1,1,1,0,0,1
+230371,28 Jan 2022,v Gladiators,Karachi,1,0,0,0,0,0
+230371,30 Jan 2022,v United,Karachi,2,0,0,0,0,0
+230371,2 Feb 2022,v Qalandars,Karachi,1,1,1,0,0,1
+230371,4 Feb 2022,v Kings,Karachi,2,1,1,0,0,1
+230371,5 Feb 2022,v Sultans,Karachi,1,0,0,0,0,0
+230371,10 Feb 2022,v Sultans,Lahore,1,1,1,0,0,1
+230371,13 Feb 2022,v Kings,Lahore,2,2,2,0,0,2
+230371,15 Feb 2022,v Gladiators,Lahore,2,0,0,0,0,0
+230371,17 Feb 2022,v United,Lahore,2,3,3,0,0,3
+230371,31 Dec 2022,v Hurricanes,Albury,2,0,0,0,0,0
+230371,4 Jan 2023,v Scorchers,Perth,1,2,2,0,0,2
+230371,8 Jan 2023,v Sixers,Sydney,2,1,1,0,0,1
+230371,13 Jan 2023,v Scorchers,Sydney,2,0,0,0,0,0
+230371,15 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+230371,19 Jan 2023,v Renegades,Canberra,1,0,0,0,0,0
+230371,21 Jan 2023,v Sixers,Sydney,1,0,0,0,0,0
+230371,25 Jan 2023,v Stars,Melbourne,1,0,0,0,0,0
+230371,27 Jan 2023,v Heat,Sydney,1,0,0,0,0,0
+230371,14 Feb 2023,v Zalmi,Karachi,1,1,1,0,0,1
+230371,19 Feb 2023,v Qalandars,Karachi,2,0,0,0,0,0
+230371,22 Feb 2023,v Sultans,Multan,1,0,0,0,0,0
+230371,26 Feb 2023,v Sultans,Karachi,2,2,2,0,0,2
+230371,1 Mar 2023,v Zalmi,Rawalpindi,1,1,1,0,0,1
+230371,12 Mar 2023,v Qalandars,Lahore,2,2,2,0,0,2
+230371,19 Jan 2024,v Chattogram,Mirpur,2,0,0,0,0,0
+230371,23 Jan 2024,v Rangpur,Mirpur,2,1,1,0,0,1
+230371,26 Jan 2024,v Victorians,Sylhet,1,0,0,0,0,0

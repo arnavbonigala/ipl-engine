@@ -1,0 +1,350 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+299572,13 Feb 2010,v Vipers,Harare,1,0,0,0,0,0
+299572,14 Feb 2010,v Tuskers,Harare,2,1,1,0,0,1
+299572,15 Feb 2010,v Mountaineers,Harare,1,0,0,0,0,0
+299572,16 Feb 2010,v Eagles,Harare,2,0,0,0,0,0
+299572,17 Feb 2010,v Rhinos,Harare,2,0,0,0,0,0
+299572,13 Nov 2010,v Eagles,Harare,1,1,1,0,0,1
+299572,14 Nov 2010,v Rhinos,Harare,1,0,0,0,0,0
+299572,17 Nov 2010,v Tuskers,Harare,2,0,0,0,0,0
+299572,19 Nov 2010,v Mountaineers,Harare,2,0,0,0,0,0
+299572,20 Nov 2010,v Rhinos,Harare,2,0,0,0,0,0
+299572,21 Nov 2010,v Tuskers,Harare,2,0,0,0,0,0
+299572,7 Oct 2012,v Rocks,Harare,1,1,1,0,0,1
+299572,14 Oct 2012,v Rhinos,Kwekwe,1,0,0,0,0,0
+299572,18 Oct 2012,v Tuskers,Harare,2,0,0,0,0,0
+299572,25 Oct 2012,v Mountaineers,Mutare,1,2,2,0,0,2
+299572,13 Dec 2012,v Mountaineers,Harare,2,0,0,0,0,0
+299572,6 Jan 2013,v Rhinos,Harare,2,0,0,0,0,0
+299572,10 Jan 2013,v Tuskers,Bulawayo,2,1,1,0,0,1
+299572,10 Feb 2013,v Mountaineers,Harare,2,0,0,0,0,0
+299572,11 May 2013,v Bangladesh,Bulawayo,2,0,0,0,0,0
+299572,12 May 2013,v Bangladesh,Bulawayo,1,2,2,0,0,2
+299572,17 Mar 2014,v Ireland,Sylhet,2,1,1,0,0,1
+299572,19 Mar 2014,v Netherlands,Sylhet,1,0,0,0,0,0
+299572,21 Mar 2014,v U.A.E.,Sylhet,1,0,0,0,0,0
+299572,22 May 2015,v Pakistan,Lahore,2,0,0,0,0,0
+299572,24 May 2015,v Pakistan,Lahore,2,2,2,0,0,2
+299572,17 Jul 2015,v India,Harare,1,1,1,0,0,1
+299572,19 Jul 2015,v India,Harare,2,0,0,0,0,0
+299572,9 Aug 2015,v New Zealand,Harare,1,1,1,0,0,1
+299572,27 Sep 2015,v Pakistan,Harare,1,0,0,0,0,0
+299572,29 Sep 2015,v Pakistan,Harare,1,1,1,0,0,1
+299572,26 Oct 2015,v Afghanistan,Bulawayo,2,0,0,0,0,0
+299572,28 Oct 2015,v Afghanistan,Bulawayo,2,0,0,0,0,0
+299572,13 Nov 2015,v Bangladesh,Mirpur,2,1,1,0,0,1
+299572,15 Nov 2015,v Bangladesh,Mirpur,1,0,0,0,0,0
+299572,8 Jan 2016,v Afghanistan,Sharjah,1,2,2,0,0,2
+299572,10 Jan 2016,v Afghanistan,Sharjah,1,0,0,0,0,0
+299572,15 Jan 2016,v Bangladesh,Khulna,2,1,1,0,0,1
+299572,20 Jan 2016,v Bangladesh,Khulna,2,0,0,0,0,0
+299572,22 Jan 2016,v Bangladesh,Khulna,2,0,0,0,0,0
+299572,9 Feb 2016,v Tuskers,Bulawayo,1,0,0,0,0,0
+299572,9 Feb 2016,v Mountaineers,Bulawayo,2,0,0,0,0,0
+299572,10 Feb 2016,v Tuskers,Bulawayo,2,0,0,0,0,0
+299572,10 Feb 2016,v Rhinos,Bulawayo,1,0,0,0,0,0
+299572,11 Feb 2016,v Mountaineers,Bulawayo,1,0,0,0,0,0
+299572,12 Feb 2016,v Rhinos,Bulawayo,1,0,0,0,0,0
+299572,13 Feb 2016,v Mountaineers,Bulawayo,1,1,1,0,0,1
+299572,8 Mar 2016,v Hong Kong,Nagpur,2,0,0,0,0,0
+299572,10 Mar 2016,v Scotland,Nagpur,2,2,2,0,0,2
+299572,12 Mar 2016,v Afghanistan,Nagpur,1,2,2,0,0,2
+299572,18 Jun 2016,v India,Harare,2,0,0,0,0,0
+299572,20 Jun 2016,v India,Harare,2,0,0,0,0,0
+299572,5 Sep 2016,v Rawalpindi,Multan,2,0,0,0,0,0
+299572,6 Sep 2016,v Karachi B,Multan,2,1,1,0,0,1
+299572,9 Sep 2016,v FATA,Multan,1,2,2,0,0,2
+299572,10 Sep 2016,v Peshawar,Multan,2,2,2,0,0,2
+299572,12 Sep 2017,v BEAD,Kabul,2,1,1,0,0,1
+299572,13 Sep 2017,v BDD,Kabul,1,2,2,0,0,2
+299572,14 Sep 2017,v Amo Sharks,Kabul,1,0,0,0,0,0
+299572,16 Sep 2017,v Kabul Eagles,Kabul,1,1,1,0,0,1
+299572,17 Sep 2017,v SGT,Kabul,1,1,1,0,0,1
+299572,20 Sep 2017,v BEAD,Kabul,2,0,0,0,0,0
+299572,22 Sep 2017,v BEAD,Kabul,1,0,0,0,0,0
+299572,7 Nov 2017,v Victorians,Sylhet,2,0,0,0,0,0
+299572,8 Nov 2017,v Rangpur,Sylhet,2,0,0,0,0,0
+299572,12 Nov 2017,v Khulna,Mirpur,1,0,0,0,0,0
+299572,14 Nov 2017,v Victorians,Mirpur,2,0,0,0,0,0
+299572,17 Nov 2017,v Khulna,Mirpur,2,0,0,0,0,0
+299572,24 Nov 2017,v Sylhet,Chattogram,2,2,2,0,0,2
+299572,25 Nov 2017,v Rangpur,Chattogram,2,0,0,0,0,0
+299572,27 Nov 2017,v Dynamites,Chattogram,2,1,1,0,0,1
+299572,29 Nov 2017,v Kings,Chattogram,1,1,1,0,0,1
+299572,3 Dec 2017,v Sylhet,Mirpur,2,0,0,0,0,0
+299572,5 Dec 2017,v Kings,Mirpur,2,0,0,0,0,0
+299572,5 Feb 2018,v Afghanistan,Sharjah,2,0,0,0,0,0
+299572,6 Feb 2018,v Afghanistan,Sharjah,1,1,1,0,0,1
+299572,5 Oct 2018,v Kabul Zwanan,Sharjah,2,0,0,0,0,0
+299572,7 Oct 2018,v KingsLeopard,Sharjah,2,0,0,0,0,0
+299572,10 Oct 2018,v Legends,Sharjah,2,1,1,0,0,1
+299572,12 Oct 2018,v Knights,Sharjah,2,0,0,0,0,0
+299572,13 Oct 2018,v Legends,Sharjah,1,2,2,0,0,2
+299572,14 Oct 2018,v KingsLeopard,Sharjah,1,0,0,0,0,0
+299572,21 Nov 2018,v Durban Heat,Durban,2,0,0,0,0,0
+299572,12 Dec 2018,v Durban Heat,Centurion,2,0,0,0,0,0
+299572,5 Jan 2019,v Rangpur,Mirpur,1,0,0,0,0,0
+299572,9 Jan 2019,v Sylhet,Mirpur,1,0,0,0,0,0
+299572,12 Jan 2019,v Khulna,Mirpur,1,3,3,0,0,3
+299572,25 Jan 2019,v Rangpur,Chattogram,1,0,0,0,0,0
+299572,26 Jan 2019,v Kings,Chattogram,1,0,0,0,0,0
+299572,29 Jan 2019,v Victorians,Chattogram,2,1,1,0,0,1
+299572,30 Jan 2019,v Dynamites,Chattogram,2,0,0,0,0,0
+299572,1 Feb 2019,v Sylhet,Mirpur,1,1,1,0,0,1
+299572,15 Feb 2019,v Sultans,Dubai (DICS),2,1,1,0,0,1
+299572,16 Feb 2019,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+299572,21 Feb 2019,v Zalmi,Sharjah,1,1,1,0,0,1
+299572,17 Mar 2019,v Mountaineers,Harare,-,TDNF,-,-,-,-
+299572,23 Jun 2019,v Netherlands,Rotterdam,1,0,0,0,0,0
+299572,25 Jun 2019,v Netherlands,Rotterdam,1,0,0,0,0,0
+299572,12 Jul 2019,v Ireland,Bready,2,0,0,0,0,0
+299572,14 Jul 2019,v Ireland,Bready,1,0,0,0,0,0
+299572,9 Mar 2020,v Bangladesh,Mirpur,1,0,0,0,0,0
+299572,11 Mar 2020,v Bangladesh,Mirpur,2,0,0,0,0,0
+299572,18 Aug 2020,v Amazon,Tarouba,1,0,0,0,0,0
+299572,27 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+299572,29 Aug 2020,v Tridents,Port of Spain,1,1,1,0,0,1
+299572,2 Sep 2020,v Patriots,Tarouba,2,2,2,0,0,2
+299572,5 Sep 2020,v Zouks,Tarouba,2,0,0,0,0,0
+299572,6 Sep 2020,v Patriots,Tarouba,1,0,0,0,0,0
+299572,10 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+299572,7 Nov 2020,v Pakistan,Rawalpindi,2,0,0,0,0,0
+299572,8 Nov 2020,v Pakistan,Rawalpindi,2,0,0,0,0,0
+299572,17 Mar 2021,v Afghanistan,Abu Dhabi,1,1,1,0,0,1
+299572,19 Mar 2021,v Afghanistan,Abu Dhabi,1,0,0,0,0,0
+299572,20 Mar 2021,v Afghanistan,Abu Dhabi,1,0,0,0,0,0
+299572,22 Jul 2021,v Bangladesh,Harare,2,0,0,0,0,0
+299572,23 Jul 2021,v Bangladesh,Harare,2,3,3,0,0,3
+299572,25 Jul 2021,v Bangladesh,Harare,2,0,0,0,0,0
+299572,24 Jan 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+299572,7 Feb 2022,v Sunrisers,Sylhet,2,1,1,0,0,1
+299572,9 Feb 2022,v Dhaka,Sylhet,2,0,0,0,0,0
+299572,11 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0
+299572,14 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+299572,2 May 2022,v SA A,Harare,2,0,0,0,0,0
+299572,4 May 2022,v SA A,Harare,1,0,0,0,0,0
+299572,7 May 2022,v SA A,Harare,1,0,0,0,0,0
+299572,8 May 2022,v SA A,Harare,2,0,0,0,0,0
+299572,10 May 2022,v SA A,Harare,1,0,0,0,0,0
+299572,17 May 2022,v Namibia,Bulawayo,2,0,0,0,0,0
+299572,19 May 2022,v Namibia,Bulawayo,2,0,0,0,0,0
+299572,21 May 2022,v Namibia,Bulawayo,1,0,0,0,0,0
+299572,22 May 2022,v Namibia,Bulawayo,2,0,0,0,0,0
+299572,24 May 2022,v Namibia,Bulawayo,1,0,0,0,0,0
+299572,11 Jun 2022,v Afghanistan,Harare,2,1,1,0,0,1
+299572,12 Jun 2022,v Afghanistan,Harare,1,0,0,0,0,0
+299572,14 Jun 2022,v Afghanistan,Harare,1,1,1,0,0,1
+299572,11 Jul 2022,v Singapore,Bulawayo,2,0,0,0,0,0
+299572,12 Jul 2022,v Jersey,Bulawayo,2,0,0,0,0,0
+299572,14 Jul 2022,v U.S.A.,Bulawayo,2,0,0,0,0,0
+299572,15 Jul 2022,v P.N.G.,Bulawayo,2,0,0,0,0,0
+299572,17 Jul 2022,v Netherlands,Bulawayo,2,0,0,0,0,0
+299572,30 Jul 2022,v Bangladesh,Harare,2,0,0,0,0,0
+299572,31 Jul 2022,v Bangladesh,Harare,2,0,0,0,0,0
+299572,2 Aug 2022,v Bangladesh,Harare,2,2,2,0,0,2
+299572,17 Oct 2022,v Ireland,Hobart,2,1,1,0,0,1
+299572,19 Oct 2022,v West Indies,Hobart,1,1,1,0,0,1
+299572,21 Oct 2022,v Scotland,Hobart,1,1,1,0,0,1
+299572,24 Oct 2022,v South Africa,Hobart,2,0,0,0,0,0
+299572,27 Oct 2022,v Pakistan,Perth,2,0,0,0,0,0
+299572,30 Oct 2022,v Bangladesh,Brisbane,1,0,0,0,0,0
+299572,2 Nov 2022,v Netherlands,Adelaide,2,0,0,0,0,0
+299572,6 Nov 2022,v India,Melbourne,1,0,0,0,0,0
+299572,7 Dec 2022,v Jaffna Kings,Hambantota,2,0,0,0,0,0
+299572,8 Dec 2022,v Stars,Hambantota,1,1,1,0,0,1
+299572,11 Dec 2022,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+299572,13 Dec 2022,v Kandy,Pallekele,1,1,1,0,0,1
+299572,17 Dec 2022,v Galle,Colombo (RPS),2,0,0,0,0,0
+299572,18 Dec 2022,v Kandy,Colombo (RPS),1,0,0,0,0,0
+299572,19 Dec 2022,v Galle,Colombo (RPS),1,2,2,0,0,2
+299572,6 Jan 2023,v Victorians,Mirpur,2,1,1,0,0,1
+299572,10 Jan 2023,v Barishal,Mirpur,2,0,0,0,0,0
+299572,13 Feb 2023,v Sultans,Multan,2,0,0,0,0,0
+299572,19 Feb 2023,v Kings,Karachi,1,0,0,0,0,0
+299572,21 Feb 2023,v Gladiators,Karachi,2,0,0,0,0,0
+299572,26 Feb 2023,v Zalmi,Lahore,2,0,0,0,0,0
+299572,27 Feb 2023,v United,Lahore,2,0,0,0,0,0
+299572,2 Mar 2023,v Gladiators,Lahore,2,0,0,0,0,0
+299572,4 Mar 2023,v Sultans,Lahore,2,0,0,0,0,0
+299572,7 Mar 2023,v Zalmi,Rawalpindi,1,2,2,0,0,2
+299572,9 Mar 2023,v United,Rawalpindi,2,0,0,0,0,0
+299572,15 Mar 2023,v Sultans,Lahore,1,0,0,0,0,0
+299572,17 Mar 2023,v Zalmi,Lahore,1,0,0,0,0,0
+299572,18 Mar 2023,v Sultans,Lahore,2,0,0,0,0,0
+299572,1 Apr 2023,v KKR,Mohali,2,3,3,0,0,3
+299572,5 Apr 2023,v RR,Guwahati,2,0,0,0,0,0
+299572,9 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+299572,15 Apr 2023,v LSG,Lucknow,1,1,1,0,0,1
+299572,28 Apr 2023,v LSG,Mohali,1,0,0,0,0,0
+299572,30 Apr 2023,v CSK,Chennai,1,0,0,0,0,0
+299572,13 May 2023,v DC,Delhi,2,1,1,0,0,1
+299572,16 Aug 2023,v Tallawahs,Gros Islet,1,0,0,0,0,0
+299572,17 Aug 2023,v Royals,Gros Islet,2,1,1,0,0,1
+299572,19 Aug 2023,v Amazon,Gros Islet,1,0,0,0,0,0
+299572,26 Aug 2023,v Trinbago,Basseterre,2,0,0,0,0,0
+299572,2 Sep 2023,v Royals,Bridgetown,2,0,0,0,0,0
+299572,9 Sep 2023,v Patriots,Tarouba,2,0,0,0,0,0
+299572,10 Sep 2023,v Trinbago,Tarouba,2,0,0,0,0,0
+299572,14 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+299572,17 Sep 2023,v Tallawahs,Providence,1,0,0,0,0,0
+299572,19 Sep 2023,v Tallawahs,Providence,2,0,0,0,0,0
+299572,24 Oct 2023,v Namibia,Windhoek,2,0,0,0,0,0
+299572,25 Oct 2023,v Namibia,Windhoek,1,0,0,0,0,0
+299572,27 Oct 2023,v Namibia,Windhoek,1,1,1,0,0,1
+299572,29 Oct 2023,v Namibia,Windhoek,2,0,0,0,0,0
+299572,30 Oct 2023,v Namibia,Windhoek,1,2,2,0,0,2
+299572,22 Nov 2023,v Namibia,Windhoek,2,0,0,0,0,0
+299572,23 Nov 2023,v Tanzania,Windhoek,1,2,2,0,0,2
+299572,26 Nov 2023,v Uganda,Windhoek,2,0,0,0,0,0
+299572,27 Nov 2023,v Rwanda,Windhoek,2,1,1,0,0,1
+299572,29 Nov 2023,v Nigeria,Windhoek,1,1,1,0,0,1
+299572,30 Nov 2023,v Kenya,Windhoek,2,1,1,0,0,1
+299572,7 Dec 2023,v Ireland,Harare,1,0,0,0,0,0
+299572,14 Jan 2024,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+299572,16 Jan 2024,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+299572,18 Jan 2024,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+299572,20 Jan 2024,v MI Emirates,Dubai (DICS),1,1,1,0,0,1
+299572,22 Jan 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+299572,25 Jan 2024,v KnightRiders,Dubai (DICS),1,1,1,0,0,1
+299572,27 Jan 2024,v Gulf Giants,Sharjah,2,1,1,0,0,1
+299572,29 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+299572,1 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+299572,3 Feb 2024,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+299572,6 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+299572,9 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+299572,10 Feb 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+299572,13 Feb 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+299572,15 Feb 2024,v Gulf Giants,Sharjah,1,1,1,0,0,1
+299572,17 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+299572,19 Feb 2024,v Gladiators,Lahore,2,0,0,0,0,0
+299572,21 Feb 2024,v Sultans,Multan,2,0,0,0,0,0
+299572,24 Feb 2024,v Kings,Lahore,2,0,0,0,0,0
+299572,25 Feb 2024,v Zalmi,Lahore,1,1,1,0,0,1
+299572,27 Feb 2024,v Sultans,Lahore,1,0,0,0,0,0
+299572,6 Mar 2024,v United,Rawalpindi,2,1,1,0,0,1
+299572,9 Mar 2024,v Kings,Karachi,2,0,0,0,0,0
+299572,10 Mar 2024,v Gladiators,Karachi,2,0,0,0,0,0
+299572,4 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+299572,9 Apr 2024,v SRH,New Chandigarh,1,0,0,0,0,0
+299572,3 May 2024,v Bangladesh,Chattogram,2,0,0,0,0,0
+299572,5 May 2024,v Bangladesh,Chattogram,2,0,0,0,0,0
+299572,7 May 2024,v Bangladesh,Chattogram,1,0,0,0,0,0
+299572,10 May 2024,v Bangladesh,Mirpur,1,0,0,0,0,0
+299572,12 May 2024,v Bangladesh,Mirpur,1,1,1,0,0,1
+299572,30 May 2024,v Derbyshire,Northampton,1,2,2,0,0,2
+299572,31 May 2024,v Notts,Nottingham,1,1,1,0,0,1
+299572,2 Jun 2024,v Yorkshire,Northampton,1,0,0,0,0,0
+299572,7 Jun 2024,v Worcs,Northampton,2,1,1,0,0,1
+299572,14 Jun 2024,v Derbyshire,Derby,2,0,0,0,0,0
+299572,16 Jun 2024,v Worcs,Worcester,2,3,3,0,0,3
+299572,20 Jun 2024,v Bears,Birmingham,1,2,2,0,0,2
+299572,21 Jun 2024,v Leics,Northampton,2,0,0,0,0,0
+299572,6 Jul 2024,v India,Harare,2,1,1,0,0,1
+299572,7 Jul 2024,v India,Harare,1,0,0,0,0,0
+299572,10 Jul 2024,v India,Harare,1,1,1,0,0,1
+299572,13 Jul 2024,v India,Harare,2,0,0,0,0,0
+299572,14 Jul 2024,v India,Harare,1,1,1,0,0,1
+299572,25 Jul 2024,v Fire,Manchester,2,0,0,0,0,0
+299572,29 Jul 2024,v Rockets,Manchester,1,0,0,0,0,0
+299572,1 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+299572,4 Aug 2024,v N S-Chargers,Leeds,1,0,0,0,0,0
+299572,6 Aug 2024,v Invincibles,Manchester,1,1,1,0,0,1
+299572,9 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+299572,11 Aug 2024,v N S-Chargers,Manchester,2,0,0,0,0,0
+299572,15 Aug 2024,v Phoenix,Birmingham,2,1,1,0,0,1
+299572,19 Oct 2024,v Seychelles,Nairobi (Gym),2,0,0,0,0,0
+299572,20 Oct 2024,v Mozambique,Nairobi (Gym),1,0,0,0,0,0
+299572,22 Oct 2024,v Rwanda,Nairobi (Ruaraka),2,0,0,0,0,0
+299572,23 Oct 2024,v Gambia,Nairobi (Ruaraka),2,0,0,0,0,0
+299572,24 Oct 2024,v Kenya,Nairobi (Gym),2,2,2,0,0,2
+299572,1 Dec 2024,v Pakistan,Bulawayo,1,0,0,0,0,0
+299572,3 Dec 2024,v Pakistan,Bulawayo,2,0,0,0,0,0
+299572,5 Dec 2024,v Pakistan,Bulawayo,1,0,0,0,0,0
+299572,11 Dec 2024,v Afghanistan,Harare,1,0,0,0,0,0
+299572,13 Dec 2024,v Afghanistan,Harare,1,1,1,0,0,1
+299572,14 Dec 2024,v Afghanistan,Harare,2,1,1,0,0,1
+299572,11 Jan 2025,v MI Emirates,Dubai (DICS),2,0,0,0,0,0
+299572,13 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+299572,17 Jan 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+299572,18 Jan 2025,v Gulf Giants,Sharjah,2,0,0,0,0,0
+299572,20 Jan 2025,v Vipers,Dubai (DICS),1,0,0,0,0,0
+299572,23 Jan 2025,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+299572,26 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+299572,28 Jan 2025,v Warriorz,Dubai (DICS),2,0,0,0,0,0
+299572,2 Feb 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+299572,3 Feb 2025,v Vipers,Sharjah,1,1,1,0,0,1
+299572,5 Feb 2025,v Vipers,Dubai (DICS),1,0,0,0,0,0
+299572,9 Feb 2025,v Vipers,Dubai (DICS),1,1,1,0,0,1
+299572,22 Feb 2025,v Ireland,Harare,-,TDNF,-,-,-,-
+299572,23 Feb 2025,v Ireland,Harare,1,0,0,0,0,0
+299572,25 Feb 2025,v Ireland,Harare,-,TDNF,-,-,-,-
+299572,25 Mar 2025,v Eagles,Harare,2,0,0,0,0,0
+299572,26 Mar 2025,v Mountaineers,Harare,2,1,1,0,0,1
+299572,11 Apr 2025,v United,Rawalpindi,2,1,1,0,0,1
+299572,13 Apr 2025,v Gladiators,Rawalpindi,2,1,1,0,0,1
+299572,15 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+299572,22 Apr 2025,v Sultans,Multan,1,0,0,0,0,0
+299572,24 Apr 2025,v Zalmi,Lahore,2,1,1,0,0,1
+299572,26 Apr 2025,v Sultans,Lahore,1,2,2,0,0,2
+299572,30 Apr 2025,v United,Lahore,2,1,1,0,0,1
+299572,1 May 2025,v Gladiators,Lahore,-,TDNF,-,-,-,-
+299572,4 May 2025,v Kings,Lahore,2,1,1,0,0,1
+299572,18 May 2025,v Zalmi,Rawalpindi,2,0,0,0,0,0
+299572,25 May 2025,v Gladiators,Lahore,1,1,1,0,0,1
+299572,14 Jun 2025,v Washington,Oakland,2,1,1,0,0,1
+299572,16 Jun 2025,v Texas,Oakland,1,1,1,0,0,1
+299572,18 Jun 2025,v MI New York,Oakland,2,0,0,0,0,0
+299572,22 Jun 2025,v Los Angeles,Dallas,2,0,0,0,0,0
+299572,27 Jun 2025,v MI New York,Dallas,1,1,1,0,0,1
+299572,28 Jun 2025,v Los Angeles,Dallas,1,0,0,0,0,0
+299572,1 Jul 2025,v SF,Lauderhill,1,1,1,0,0,1
+299572,4 Jul 2025,v Washington,Lauderhill,2,1,1,0,0,1
+299572,5 Jul 2025,v Texas,Lauderhill,1,0,0,0,0,0
+299572,14 Jul 2025,v South Africa,Harare,2,0,0,0,0,0
+299572,18 Jul 2025,v New Zealand,Harare,2,0,0,0,0,0
+299572,20 Jul 2025,v South Africa,Harare,2,1,1,0,0,1
+299572,24 Jul 2025,v New Zealand,Harare,1,1,1,0,0,1
+299572,3 Sep 2025,v Sri Lanka,Harare,2,1,1,0,0,1
+299572,6 Sep 2025,v Sri Lanka,Harare,1,2,2,0,0,2
+299572,7 Sep 2025,v Sri Lanka,Harare,2,1,1,0,0,1
+299572,15 Sep 2025,v Namibia,Bulawayo,2,0,0,0,0,0
+299572,16 Sep 2025,v Namibia,Bulawayo,1,0,0,0,0,0
+299572,18 Sep 2025,v Namibia,Bulawayo,1,0,0,0,0,0
+299572,26 Sep 2025,v Uganda,Harare,1,0,0,0,0,0
+299572,28 Sep 2025,v Botswana,Harare,2,1,1,0,0,1
+299572,30 Sep 2025,v Tanzania,Harare,2,0,0,0,0,0
+299572,2 Oct 2025,v Kenya,Harare,1,0,0,0,0,0
+299572,4 Oct 2025,v Namibia,Harare,1,0,0,0,0,0
+299572,29 Oct 2025,v Afghanistan,Harare,1,1,1,0,0,1
+299572,31 Oct 2025,v Afghanistan,Harare,2,0,0,0,0,0
+299572,2 Nov 2025,v Afghanistan,Harare,1,1,1,0,0,1
+299572,18 Nov 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+299572,20 Nov 2025,v Sri Lanka,Rawalpindi,2,0,0,0,0,0
+299572,23 Nov 2025,v Pakistan,Rawalpindi,1,0,0,0,0,0
+299572,25 Nov 2025,v Sri Lanka,Rawalpindi,2,0,0,0,0,0
+299572,3 Dec 2025,v KnightRiders,Sharjah,1,1,1,0,0,1
+299572,7 Dec 2025,v MI Emirates,Sharjah,1,0,0,0,0,0
+299572,10 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+299572,14 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+299572,15 Dec 2025,v Gulf Giants,Sharjah,2,2,2,0,0,2
+299572,19 Dec 2025,v DC,Dubai (DICS),1,2,2,0,0,2
+299572,20 Dec 2025,v Vipers,Dubai (DICS),2,1,1,0,0,1
+299572,22 Dec 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+299572,24 Dec 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+299572,26 Dec 2025,v Vipers,Sharjah,2,0,0,0,0,0
+299572,2 Jan 2026,v MI Cape Town,Paarl,2,1,1,0,0,1
+299572,4 Jan 2026,v MI Cape Town,Cape Town,1,3,3,0,0,3
+299572,8 Jan 2026,v Super Kings,Johannesburg,1,0,0,0,0,0
+299572,10 Jan 2026,v Capitals,Paarl,1,1,1,0,0,1
+299572,13 Jan 2026,v Super Giants,Paarl,1,0,0,0,0,0
+299572,15 Jan 2026,v Capitals,Centurion,1,2,2,0,0,2
+299572,17 Jan 2026,v Super Giants,Durban,1,0,0,0,0,0
+299572,19 Jan 2026,v Super Kings,Paarl,1,0,0,0,0,0
+299572,22 Jan 2026,v Super Kings,Centurion,2,1,1,0,0,1
+299572,23 Jan 2026,v Sunrisers,Johannesburg,2,0,0,0,0,0
+299572,9 Feb 2026,v Oman,Colombo (SSC),1,0,0,0,0,0
+299572,13 Feb 2026,v Australia,Colombo (RPS),2,0,0,0,0,0
+299572,19 Feb 2026,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+299572,23 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+299572,26 Feb 2026,v India,Chennai,1,1,1,0,0,1
+299572,1 Mar 2026,v South Africa,Delhi,2,0,0,0,0,0

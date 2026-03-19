@@ -1,0 +1,331 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+662973,19 Jun 2015,v Kent,The Oval,1,1,1,0,0,1
+662973,26 Jun 2015,v Glamorgan,Cardiff,2,1,1,0,0,1
+662973,1 Jul 2015,v Gloucs,The Oval,1,1,1,0,0,1
+662973,3 Jul 2015,v Middlesex,The Oval,1,0,0,0,0,0
+662973,10 Jul 2015,v Hampshire,Southampton,1,1,1,0,0,1
+662973,17 Jul 2015,v Somerset,The Oval,2,0,0,0,0,0
+662973,23 Jul 2015,v Middlesex,Lord's,1,0,0,0,0,0
+662973,20 May 2016,v Essex,Chelmsford,2,0,0,0,0,0
+662973,26 May 2016,v Glamorgan,The Oval,2,0,0,0,0,0
+662973,3 Jun 2016,v Sussex,Hove,2,2,2,0,0,2
+662973,9 Jun 2016,v Hampshire,The Oval,2,0,0,0,0,0
+662973,10 Jun 2016,v Somerset,Taunton,2,0,0,0,0,0
+662973,17 Jun 2016,v Middlesex,The Oval,2,0,0,0,0,0
+662973,24 Jun 2016,v Glamorgan,Cardiff,2,0,0,0,0,0
+662973,25 Jun 2016,v Essex,The Oval,2,0,0,0,0,0
+662973,6 Jul 2016,v Gloucs,Bristol,2,0,0,0,0,0
+662973,8 Jul 2016,v Somerset,The Oval,2,0,0,0,0,0
+662973,15 Jul 2016,v Kent,Tunbridge Wells,2,0,0,0,0,0
+662973,21 Jul 2016,v Middlesex,Lord's,2,0,0,0,0,0
+662973,22 Jul 2016,v Sussex,The Oval,1,1,1,0,0,1
+662973,29 Jul 2016,v Kent,The Oval,2,0,0,0,0,0
+662973,7 Jul 2017,v Essex,Chelmsford,2,0,0,0,0,0
+662973,9 Jul 2017,v Somerset,The Oval,2,0,0,0,0,0
+662973,13 Jul 2017,v Middlesex,Lord's,2,0,0,0,0,0
+662973,14 Jul 2017,v Kent,The Oval,2,0,0,0,0,0
+662973,19 Jul 2017,v Essex,The Oval,2,0,0,0,0,0
+662973,21 Jul 2017,v Middlesex,The Oval,2,0,0,0,0,0
+662973,3 Aug 2017,v Sussex,Hove,2,0,0,0,0,0
+662973,4 Aug 2017,v Glamorgan,The Oval,1,1,1,0,0,1
+662973,6 Aug 2017,v Somerset,Taunton,2,0,0,0,0,0
+662973,13 Aug 2017,v Sussex,The Oval,2,0,0,0,0,0
+662973,17 Aug 2017,v Gloucs,The Oval,1,0,0,0,0,0
+662973,18 Aug 2017,v Kent,Canterbury,2,1,1,0,0,1
+662973,25 Aug 2017,v Warwickshire,The Oval,2,0,0,0,0,0
+662973,13 Dec 2017,v Central D,Auckland,1,0,0,0,0,0
+662973,16 Dec 2017,v Northern Dis,Mount Maunganui,1,0,0,0,0,0
+662973,24 Dec 2017,v Wellington,Auckland,1,0,0,0,0,0
+662973,28 Dec 2017,v Otago,Alexandra,1,0,0,0,0,0
+662973,1 Jan 2018,v Canterbury,Christchurch,2,1,1,0,0,1
+662973,7 Jan 2018,v Northern Dis,Auckland,2,0,0,0,0,0
+662973,10 Jan 2018,v Canterbury,Auckland,1,0,0,0,0,0
+662973,14 Jan 2018,v Otago,Auckland,2,1,1,0,0,1
+662973,17 Jan 2018,v Central D,Auckland,1,0,0,0,0,0
+662973,5 Jul 2018,v Middlesex,Lord's,2,0,0,0,0,0
+662973,13 Jul 2018,v Sussex,Hove,2,0,0,0,0,0
+662973,20 Jul 2018,v Kent,Canterbury,-,TDNF,-,-,-,-
+662973,27 Jul 2018,v Somerset,The Oval,1,0,0,0,0,0
+662973,25 Mar 2019,v RR,Jaipur,2,0,0,0,0,0
+662973,1 Apr 2019,v DC,Mohali,2,0,0,0,0,0
+662973,6 Apr 2019,v CSK,Chennai,1,1,1,0,0,1
+662973,8 Apr 2019,v SRH,Mohali,1,0,0,0,0,0
+662973,10 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+662973,13 Apr 2019,v RCB,Mohali,2,0,0,0,0,0
+662973,20 Apr 2019,v DC,Delhi,2,1,1,0,0,1
+662973,3 May 2019,v KKR,Mohali,2,0,0,0,0,0
+662973,5 May 2019,v CSK,Mohali,1,0,0,0,0,0
+662973,19 Jul 2019,v Essex,Chelmsford,1,0,0,0,0,0
+662973,2 Aug 2019,v Somerset,Taunton,2,0,0,0,0,0
+662973,8 Aug 2019,v Middlesex,Lord's,1,0,0,0,0,0
+662973,9 Aug 2019,v Gloucs,The Oval,1,1,1,0,0,1
+662973,15 Aug 2019,v Sussex,The Oval,2,2,2,0,0,2
+662973,23 Aug 2019,v Kent,Canterbury,2,0,0,0,0,0
+662973,27 Aug 2019,v Somerset,The Oval,1,2,2,0,0,2
+662973,29 Aug 2019,v Essex,The Oval,1,0,0,0,0,0
+662973,1 Nov 2019,v New Zealand,Christchurch,1,0,0,0,0,0
+662973,3 Nov 2019,v New Zealand,Wellington,1,0,0,0,0,0
+662973,5 Nov 2019,v New Zealand,Nelson,1,0,0,0,0,0
+662973,8 Nov 2019,v New Zealand,Napier,2,0,0,0,0,0
+662973,10 Nov 2019,v New Zealand,Auckland,1,0,0,0,0,0
+662973,19 Sep 2020,v MI,Abu Dhabi,1,2,2,0,0,2
+662973,22 Sep 2020,v RR,Sharjah,1,0,0,0,0,0
+662973,25 Sep 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+662973,2 Oct 2020,v SRH,Dubai (DICS),1,1,1,0,0,1
+662973,4 Oct 2020,v Kings XI,Dubai (DICS),1,1,1,0,0,1
+662973,7 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+662973,10 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+662973,13 Oct 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+662973,17 Oct 2020,v DC,Sharjah,2,1,1,0,0,1
+662973,19 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+662973,23 Oct 2020,v MI,Sharjah,2,0,0,0,0,0
+662973,25 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+662973,29 Oct 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+662973,1 Nov 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+662973,27 Nov 2020,v South Africa,Cape Town,1,0,0,0,0,0
+662973,29 Nov 2020,v South Africa,Paarl,1,0,0,0,0,0
+662973,1 Dec 2020,v South Africa,Cape Town,1,0,0,0,0,0
+662973,12 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+662973,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+662973,16 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+662973,18 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+662973,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+662973,10 Apr 2021,v DC,Wankhede,2,1,1,0,0,1
+662973,16 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+662973,19 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+662973,21 Apr 2021,v KKR,Wankhede,2,0,0,0,0,0
+662973,25 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+662973,28 Apr 2021,v SRH,Delhi,1,0,0,0,0,0
+662973,1 May 2021,v MI,Delhi,2,0,0,0,0,0
+662973,10 Jun 2021,v Middlesex,Lord's,2,0,0,0,0,0
+662973,11 Jun 2021,v Somerset,Taunton,1,0,0,0,0,0
+662973,14 Jun 2021,v Glamorgan,The Oval,1,1,1,0,0,1
+662973,17 Jun 2021,v Sussex,The Oval,-,TDNF,-,-,-,-
+662973,23 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+662973,24 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+662973,26 Jun 2021,v Sri Lanka,Southampton,2,0,0,0,0,0
+662973,22 Jul 2021,v Originals,The Oval,2,1,1,0,0,1
+662973,25 Jul 2021,v Spirit,Lord's,-,TDNF,-,-,-,-
+662973,26 Sep 2021,v KKR,Abu Dhabi,1,0,0,0,0,0
+662973,2 Oct 2021,v RR,Abu Dhabi,2,0,0,0,0,0
+662973,25 May 2022,v SLC Dev XI,The Oval,1,0,0,0,0,0
+662973,27 May 2022,v Glamorgan,The Oval,1,0,0,0,0,0
+662973,31 May 2022,v Gloucs,The Oval,2,1,1,0,0,1
+662973,2 Jun 2022,v Hampshire,The Oval,2,0,0,0,0,0
+662973,3 Jun 2022,v Kent,Canterbury,2,0,0,0,0,0
+662973,5 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+662973,8 Jun 2022,v Sussex,The Oval,1,0,0,0,0,0
+662973,9 Jun 2022,v Middlesex,Lord's,2,3,3,0,0,3
+662973,1 Jul 2022,v Kent,The Oval,1,1,1,0,0,1
+662973,7 Jul 2022,v India,Southampton,1,1,1,0,0,1
+662973,9 Jul 2022,v India,Birmingham,1,1,1,0,0,1
+662973,27 Jul 2022,v South Africa,Bristol,2,1,1,0,0,1
+662973,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+662973,31 Jul 2022,v South Africa,Southampton,1,0,0,0,0,0
+662973,4 Aug 2022,v Spirit,The Oval,1,0,0,0,0,0
+662973,7 Aug 2022,v Fire,Cardiff,2,1,1,0,0,1
+662973,11 Aug 2022,v N S-Chargers,The Oval,1,1,1,0,0,1
+662973,14 Aug 2022,v Brave,The Oval,1,0,0,0,0,0
+662973,17 Aug 2022,v Rockets,Nottingham,1,0,0,0,0,0
+662973,23 Aug 2022,v Phoenix,The Oval,1,1,1,0,0,1
+662973,27 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+662973,31 Aug 2022,v Originals,Manchester,2,1,1,0,0,1
+662973,20 Sep 2022,v Pakistan,Karachi,1,1,1,0,0,1
+662973,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+662973,23 Sep 2022,v Pakistan,Karachi,2,1,1,0,0,1
+662973,28 Sep 2022,v Pakistan,Lahore,1,1,1,0,0,1
+662973,30 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+662973,2 Oct 2022,v Pakistan,Lahore,2,0,0,0,0,0
+662973,9 Oct 2022,v Australia,Perth,2,0,0,0,0,0
+662973,12 Oct 2022,v Australia,Canberra,2,1,1,0,0,1
+662973,22 Oct 2022,v Afghanistan,Perth,1,0,0,0,0,0
+662973,26 Oct 2022,v Ireland,Melbourne,1,2,2,0,0,2
+662973,1 Nov 2022,v New Zealand,Brisbane,2,1,1,0,0,1
+662973,5 Nov 2022,v Sri Lanka,Sydney,1,1,1,0,0,1
+662973,10 Nov 2022,v India,Adelaide,1,1,1,0,0,1
+662973,13 Nov 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+662973,10 Jan 2023,v Paarl Royals,Cape Town,1,0,0,0,0,0
+662973,13 Jan 2023,v Super Giants,Cape Town,2,0,0,0,0,0
+662973,14 Jan 2023,v Super Kings,Cape Town,1,0,0,0,0,0
+662973,16 Jan 2023,v Sunrisers,Gqeberha,2,0,0,0,0,0
+662973,18 Jan 2023,v Sunrisers,Cape Town,2,0,0,0,0,0
+662973,21 Jan 2023,v Paarl Royals,Paarl,2,1,1,0,0,1
+662973,23 Jan 2023,v Capitals,Cape Town,1,0,0,0,0,0
+662973,4 Feb 2023,v Capitals,Centurion,2,0,0,0,0,0
+662973,6 Feb 2023,v Super Kings,Johannesburg,1,0,0,0,0,0
+662973,9 Mar 2023,v Bangladesh,Chattogram,2,1,1,0,0,1
+662973,12 Mar 2023,v Bangladesh,Mirpur,2,0,0,0,0,0
+662973,14 Mar 2023,v Bangladesh,Mirpur,1,0,0,0,0,0
+662973,1 Apr 2023,v KKR,Mohali,2,1,1,0,0,1
+662973,5 Apr 2023,v RR,Guwahati,2,0,0,0,0,0
+662973,9 Apr 2023,v SRH,Hyderabad,2,1,1,0,0,1
+662973,13 Apr 2023,v GT,Mohali,2,1,1,0,0,1
+662973,15 Apr 2023,v LSG,Lucknow,1,0,0,0,0,0
+662973,20 Apr 2023,v RCB,Mohali,1,1,1,0,0,1
+662973,22 Apr 2023,v MI,Wankhede,2,1,1,0,0,1
+662973,28 Apr 2023,v LSG,Mohali,1,0,0,0,0,0
+662973,30 Apr 2023,v CSK,Chennai,1,0,0,0,0,0
+662973,3 May 2023,v MI,Mohali,2,0,0,0,0,0
+662973,8 May 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+662973,13 May 2023,v DC,Delhi,2,0,0,0,0,0
+662973,17 May 2023,v DC,Dharamsala,1,0,0,0,0,0
+662973,19 May 2023,v RR,Dharamsala,2,0,0,0,0,0
+662973,25 May 2023,v Middlesex,Lord's,2,0,0,0,0,0
+662973,26 May 2023,v Kent,The Oval,2,1,1,0,0,1
+662973,28 May 2023,v Sussex,The Oval,2,0,0,0,0,0
+662973,31 May 2023,v Hampshire,Southampton,1,0,0,0,0,0
+662973,2 Jun 2023,v Gloucs,Bristol,2,1,1,0,0,1
+662973,4 Jun 2023,v Kent,Canterbury,1,0,0,0,0,0
+662973,7 Jun 2023,v Glamorgan,Cardiff,2,1,1,0,0,1
+662973,9 Jun 2023,v Sussex,Hove,2,2,2,0,0,2
+662973,16 Jun 2023,v Somerset,Taunton,2,0,0,0,0,0
+662973,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+662973,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+662973,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+662973,30 Jun 2023,v Somerset,The Oval,1,1,1,0,0,1
+662973,2 Jul 2023,v Essex,The Oval,2,1,1,0,0,1
+662973,7 Jul 2023,v Lancashire,Manchester,2,1,1,0,0,1
+662973,15 Jul 2023,v Somerset,Birmingham,1,0,0,0,0,0
+662973,2 Aug 2023,v Spirit,Lord's,1,1,1,0,0,1
+662973,6 Aug 2023,v Fire,The Oval,1,1,1,0,0,1
+662973,9 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+662973,11 Aug 2023,v N S-Chargers,Leeds,2,2,2,0,0,2
+662973,13 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+662973,15 Aug 2023,v Spirit,The Oval,2,0,0,0,0,0
+662973,19 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+662973,21 Aug 2023,v Rockets,The Oval,1,1,1,0,0,1
+662973,27 Aug 2023,v Originals,Lord's,2,1,1,0,0,1
+662973,30 Aug 2023,v New Zealand,Chester-le-Street,1,2,2,0,0,2
+662973,1 Sep 2023,v New Zealand,Manchester,2,0,0,0,0,0
+662973,5 Sep 2023,v New Zealand,Nottingham,2,1,1,0,0,1
+662973,12 Dec 2023,v West Indies,Bridgetown,2,1,1,0,0,1
+662973,14 Dec 2023,v West Indies,St George's,1,1,1,0,0,1
+662973,16 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+662973,19 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+662973,21 Dec 2023,v West Indies,Tarouba,2,1,1,0,0,1
+662973,11 Jan 2024,v Super Giants,Durban,2,2,2,0,0,2
+662973,13 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+662973,16 Jan 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+662973,19 Jan 2024,v Paarl Royals,Cape Town,1,1,1,0,0,1
+662973,21 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+662973,23 Jan 2024,v Super Giants,Cape Town,1,0,0,0,0,0
+662973,27 Jan 2024,v Sunrisers,Gqeberha,1,1,1,0,0,1
+662973,29 Jan 2024,v Super Kings,Cape Town,2,0,0,0,0,0
+662973,1 Feb 2024,v Capitals,Centurion,2,0,0,0,0,0
+662973,3 Feb 2024,v Capitals,Cape Town,2,1,1,0,0,1
+662973,9 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+662973,11 Feb 2024,v Warriors,Sharjah,1,1,1,0,0,1
+662973,23 Mar 2024,v DC,New Chandigarh,1,0,0,0,0,0
+662973,25 Mar 2024,v RCB,Bengaluru,2,1,1,0,0,1
+662973,30 Mar 2024,v LSG,Lucknow,1,0,0,0,0,0
+662973,4 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+662973,9 Apr 2024,v SRH,New Chandigarh,1,1,1,0,0,1
+662973,13 Apr 2024,v RR,New Chandigarh,2,0,0,0,0,0
+662973,18 Apr 2024,v MI,New Chandigarh,1,1,1,0,0,1
+662973,21 Apr 2024,v GT,New Chandigarh,2,0,0,0,0,0
+662973,26 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+662973,1 May 2024,v CSK,Chennai,1,0,0,0,0,0
+662973,5 May 2024,v CSK,Dharamsala,1,2,2,0,0,2
+662973,9 May 2024,v RCB,Dharamsala,1,2,2,0,0,2
+662973,15 May 2024,v RR,Guwahati,1,0,0,0,0,0
+662973,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+662973,19 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+662973,21 Jun 2024,v South Africa,Gros Islet,1,1,1,0,0,1
+662973,23 Jun 2024,v U.S.A.,Bridgetown,1,0,0,0,0,0
+662973,27 Jun 2024,v India,Providence,1,1,1,0,0,1
+662973,12 Jul 2024,v Somerset,Taunton,2,1,1,0,0,1
+662973,14 Jul 2024,v Essex,Chelmsford,2,0,0,0,0,0
+662973,18 Jul 2024,v Hampshire,The Oval,1,0,0,0,0,0
+662973,19 Jul 2024,v Kent,Canterbury,1,0,0,0,0,0
+662973,23 Jul 2024,v Phoenix,The Oval,1,1,1,0,0,1
+662973,28 Jul 2024,v Fire,Cardiff,2,0,0,0,0,0
+662973,2 Aug 2024,v N S-Chargers,The Oval,1,0,0,0,0,0
+662973,4 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+662973,6 Aug 2024,v Originals,Manchester,2,1,1,0,0,1
+662973,8 Aug 2024,v Brave,The Oval,1,0,0,0,0,0
+662973,11 Aug 2024,v Spirit,The Oval,1,0,0,0,0,0
+662973,14 Aug 2024,v Rockets,Nottingham,2,1,1,0,0,1
+662973,18 Aug 2024,v Brave,Lord's,2,0,0,0,0,0
+662973,3 Sep 2024,v Durham,The Oval,1,0,0,0,0,0
+662973,11 Sep 2024,v Australia,Southampton,1,1,1,0,0,1
+662973,13 Sep 2024,v Australia,Cardiff,1,0,0,0,0,0
+662973,9 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+662973,10 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+662973,14 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+662973,16 Nov 2024,v West Indies,Gros Islet,2,0,0,0,0,0
+662973,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+662973,12 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+662973,14 Jan 2025,v Gulf Giants,Dubai (DICS),1,2,2,0,0,2
+662973,16 Jan 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+662973,18 Jan 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+662973,20 Jan 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+662973,22 Jan 2025,v Warriorz,Dubai (DICS),1,2,2,0,0,2
+662973,25 Jan 2025,v Warriorz,Sharjah,1,0,0,0,0,0
+662973,27 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+662973,29 Jan 2025,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+662973,3 Feb 2025,v DC,Sharjah,2,0,0,0,0,0
+662973,5 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+662973,7 Feb 2025,v Warriorz,Sharjah,1,1,1,0,0,1
+662973,9 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+662973,23 Mar 2025,v MI,Chennai,1,0,0,0,0,0
+662973,28 Mar 2025,v RCB,Chennai,1,1,1,0,0,1
+662973,25 Apr 2025,v SRH,Chennai,2,1,1,0,0,1
+662973,30 Apr 2025,v Punjab Kings,Chennai,2,0,0,0,0,0
+662973,3 May 2025,v RCB,Bengaluru,1,1,1,0,0,1
+662973,30 May 2025,v Somerset,Taunton,2,0,0,0,0,0
+662973,3 Jun 2025,v Glamorgan,Cardiff,2,0,0,0,0,0
+662973,5 Jun 2025,v Hampshire,The Oval,2,0,0,0,0,0
+662973,6 Jun 2025,v Kent,Canterbury,2,1,1,0,0,1
+662973,12 Jun 2025,v Kent,The Oval,1,2,2,0,0,2
+662973,17 Jun 2025,v Hampshire,Southampton,2,1,1,0,0,1
+662973,18 Jun 2025,v Sussex,The Oval,2,0,0,0,0,0
+662973,20 Jun 2025,v Middlesex,The Oval,2,2,2,0,0,2
+662973,6 Jul 2025,v Essex,The Oval,2,0,0,0,0,0
+662973,9 Jul 2025,v Gloucs,Bristol,2,0,0,0,0,0
+662973,11 Jul 2025,v Glamorgan,The Oval,1,0,0,0,0,0
+662973,13 Jul 2025,v Somerset,The Oval,2,0,0,0,0,0
+662973,16 Jul 2025,v Middlesex,Lord's,2,1,1,0,0,1
+662973,18 Jul 2025,v Sussex,Hove,2,2,2,0,0,2
+662973,5 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+662973,9 Aug 2025,v Originals,The Oval,1,0,0,0,0,0
+662973,12 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+662973,16 Aug 2025,v Fire,The Oval,2,3,3,0,0,3
+662973,18 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+662973,21 Aug 2025,v Rockets,The Oval,1,0,0,0,0,0
+662973,23 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+662973,25 Aug 2025,v Spirit,The Oval,1,0,0,0,0,0
+662973,31 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+662973,3 Sep 2025,v Northants,The Oval,1,0,0,0,0,0
+662973,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+662973,12 Sep 2025,v South Africa,Manchester,2,0,0,0,0,0
+662973,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+662973,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+662973,20 Oct 2025,v New Zealand,Christchurch,2,1,1,0,0,1
+662973,23 Oct 2025,v New Zealand,Auckland,1,0,0,0,0,0
+662973,2 Dec 2025,v DC,Dubai (DICS),1,1,1,0,0,1
+662973,5 Dec 2025,v KnightRiders,Sharjah,1,0,0,0,0,0
+662973,8 Dec 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+662973,9 Dec 2025,v MI Emirates,Abu Dhabi,2,1,1,0,0,1
+662973,12 Dec 2025,v Gulf Giants,Dubai (DICS),1,2,2,0,0,2
+662973,14 Dec 2025,v DC,Dubai (DICS),1,1,1,0,0,1
+662973,16 Dec 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+662973,20 Dec 2025,v Warriorz,Dubai (DICS),1,1,1,0,0,1
+662973,21 Dec 2025,v MI Emirates,Dubai (DICS),2,1,1,0,0,1
+662973,26 Dec 2025,v Warriorz,Sharjah,1,0,0,0,0,0
+662973,30 Dec 2025,v MI Emirates,Abu Dhabi,2,2,2,0,0,2
+662973,4 Jan 2026,v MI Emirates,Dubai (DICS),2,1,1,0,0,1
+662973,8 Jan 2026,v Stars,Melbourne,1,2,2,0,0,2
+662973,11 Jan 2026,v Hurricanes,Sydney,-,TDNF,-,-,-,-
+662973,16 Jan 2026,v Thunder,Sydney,1,1,1,0,0,1
+662973,18 Jan 2026,v Heat,Brisbane,1,1,1,0,0,1
+662973,30 Jan 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+662973,1 Feb 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+662973,3 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+662973,8 Feb 2026,v Nepal,Wankhede,2,0,0,0,0,0
+662973,11 Feb 2026,v West Indies,Wankhede,1,1,1,0,0,1
+662973,14 Feb 2026,v Scotland,Eden Gardens,1,2,2,0,0,2
+662973,16 Feb 2026,v Italy,Eden Gardens,2,0,0,0,0,0
+662973,22 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+662973,24 Feb 2026,v Pakistan,Pallekele,1,1,1,0,0,1
+662973,27 Feb 2026,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+662973,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

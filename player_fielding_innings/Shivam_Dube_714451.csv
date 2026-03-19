@@ -1,0 +1,203 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+714451,18 Jan 2016,v Baroda,Wankhede,2,1,1,0,0,1
+714451,29 Jan 2017,v Baroda,Vadodara,2,0,0,0,0,0
+714451,30 Jan 2017,v Gujarat,Vadodara,1,1,1,0,0,1
+714451,1 Feb 2017,v Saurashtra,Vadodara,1,0,0,0,0,0
+714451,2 Feb 2017,v Maharashtra,Vadodara,1,1,1,0,0,1
+714451,7 Jan 2018,v Baroda,Rajkot,1,0,0,0,0,0
+714451,8 Jan 2018,v Gujarat,Rajkot,1,0,0,0,0,0
+714451,10 Jan 2018,v Saurashtra,Rajkot,2,0,0,0,0,0
+714451,11 Jan 2018,v Maharashtra,Rajkot,1,0,0,0,0,0
+714451,21 Jan 2018,v Jharkhand,Kolkata,2,0,0,0,0,0
+714451,22 Jan 2018,v Punjab,Kolkata,2,0,0,0,0,0
+714451,24 Jan 2018,v Rajasthan,Eden Gardens,1,0,0,0,0,0
+714451,25 Jan 2018,v Karnataka,Eden Gardens,2,1,1,0,0,1
+714451,11 Mar 2019,v Vidarbha,Indore,1,0,0,0,0,0
+714451,12 Mar 2019,v UP,Indore,2,0,0,0,0,0
+714451,23 Mar 2019,v CSK,Chennai,2,1,1,0,0,1
+714451,28 Mar 2019,v MI,Bengaluru,1,0,0,0,0,0
+714451,31 Mar 2019,v SRH,Hyderabad,1,0,0,0,0,0
+714451,28 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+714451,3 Nov 2019,v Bangladesh,Delhi,2,0,0,0,0,0
+714451,7 Nov 2019,v Bangladesh,Rajkot,1,1,1,0,0,1
+714451,10 Nov 2019,v Bangladesh,Nagpur,2,2,2,0,0,2
+714451,12 Nov 2019,v Puducherry,Wankhede,2,0,0,0,0,0
+714451,14 Nov 2019,v Bengal,Wankhede,1,0,0,0,0,0
+714451,17 Nov 2019,v Assam,Wankhede,2,0,0,0,0,0
+714451,22 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+714451,24 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+714451,25 Nov 2019,v Karnataka,Surat,1,0,0,0,0,0
+714451,27 Nov 2019,v Punjab,Surat,2,1,1,0,0,1
+714451,6 Dec 2019,v West Indies,Hyderabad,1,0,0,0,0,0
+714451,8 Dec 2019,v West Indies,Thiruvananthapuram,2,0,0,0,0,0
+714451,11 Dec 2019,v West Indies,Wankhede,2,1,1,0,0,1
+714451,5 Jan 2020,v Sri Lanka,Guwahati,-,TDNF,-,-,-,-
+714451,7 Jan 2020,v Sri Lanka,Indore,1,1,1,0,0,1
+714451,24 Jan 2020,v New Zealand,Auckland,1,1,1,0,0,1
+714451,26 Jan 2020,v New Zealand,Auckland,1,0,0,0,0,0
+714451,29 Jan 2020,v New Zealand,Hamilton,2,1,1,0,0,1
+714451,31 Jan 2020,v New Zealand,Wellington,2,1,1,0,0,1
+714451,2 Feb 2020,v New Zealand,Mount Maunganui,2,0,0,0,0,0
+714451,21 Sep 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+714451,24 Sep 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+714451,28 Sep 2020,v MI,Dubai (DICS),2,0,0,0,0,0
+714451,3 Oct 2020,v RR,Abu Dhabi,1,0,0,0,0,0
+714451,5 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+714451,10 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+714451,12 Oct 2020,v KKR,Sharjah,2,0,0,0,0,0
+714451,15 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+714451,28 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+714451,2 Nov 2020,v DC,Abu Dhabi,2,2,2,0,0,2
+714451,6 Nov 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+714451,11 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+714451,13 Jan 2021,v Kerala,Wankhede,2,0,0,0,0,0
+714451,15 Jan 2021,v Haryana,Mumbai,2,0,0,0,0,0
+714451,17 Jan 2021,v Puducherry,Wankhede,2,0,0,0,0,0
+714451,19 Jan 2021,v Andhra,Wankhede,1,2,2,0,0,2
+714451,12 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+714451,15 Apr 2021,v DC,Wankhede,1,0,0,0,0,0
+714451,19 Apr 2021,v CSK,Wankhede,1,1,1,0,0,1
+714451,22 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+714451,24 Apr 2021,v KKR,Wankhede,1,0,0,0,0,0
+714451,29 Apr 2021,v MI,Delhi,2,0,0,0,0,0
+714451,2 Oct 2021,v CSK,Abu Dhabi,1,1,1,0,0,1
+714451,5 Oct 2021,v MI,Sharjah,2,0,0,0,0,0
+714451,7 Oct 2021,v KKR,Sharjah,1,0,0,0,0,0
+714451,4 Nov 2021,v Karnataka,Guwahati,1,1,1,0,0,1
+714451,5 Nov 2021,v Services,Guwahati,2,0,0,0,0,0
+714451,6 Nov 2021,v Bengal,Guwahati,2,0,0,0,0,0
+714451,8 Nov 2021,v Chhattisgarh,Guwahati,1,0,0,0,0,0
+714451,9 Nov 2021,v Baroda,Guwahati,2,0,0,0,0,0
+714451,26 Mar 2022,v KKR,Wankhede,2,0,0,0,0,0
+714451,31 Mar 2022,v LSG,Brabourne,2,0,0,0,0,0
+714451,3 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+714451,9 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+714451,12 Apr 2022,v RCB,DY Patil,2,1,1,0,0,1
+714451,17 Apr 2022,v GT,Pune,2,0,0,0,0,0
+714451,21 Apr 2022,v MI,DY Patil,1,1,1,0,0,1
+714451,25 Apr 2022,v Punjab Kings,Wankhede,1,2,2,0,0,2
+714451,8 May 2022,v DC,DY Patil,2,0,0,0,0,0
+714451,12 May 2022,v MI,Wankhede,2,0,0,0,0,0
+714451,15 May 2022,v GT,Wankhede,2,2,2,0,0,2
+714451,11 Oct 2022,v Mizoram,Saurashtra,1,0,0,0,0,0
+714451,12 Oct 2022,v M. Pradesh,Rajkot,1,0,0,0,0,0
+714451,14 Oct 2022,v Assam,Rajkot,2,2,2,0,0,2
+714451,16 Oct 2022,v Vidarbha,Saurashtra,2,1,1,0,0,1
+714451,18 Oct 2022,v Rajasthan,Saurashtra,2,1,1,0,0,1
+714451,20 Oct 2022,v Railways,Rajkot,2,0,0,0,0,0
+714451,22 Oct 2022,v Uttarakhand,Saurashtra,2,0,0,0,0,0
+714451,1 Nov 2022,v Saurashtra,Eden Gardens,1,0,0,0,0,0
+714451,3 Nov 2022,v Vidarbha,Eden Gardens,1,0,0,0,0,0
+714451,5 Nov 2022,v Himachal,Eden Gardens,1,0,0,0,0,0
+714451,31 Mar 2023,v GT,Ahmedabad,2,1,1,0,0,1
+714451,3 Apr 2023,v LSG,Chennai,2,0,0,0,0,0
+714451,8 Apr 2023,v MI,Wankhede,1,0,0,0,0,0
+714451,12 Apr 2023,v RR,Chennai,1,2,2,0,0,2
+714451,17 Apr 2023,v RCB,Bengaluru,2,1,1,0,0,1
+714451,21 Apr 2023,v SRH,Chennai,1,0,0,0,0,0
+714451,23 Apr 2023,v KKR,Eden Gardens,2,1,1,0,0,1
+714451,27 Apr 2023,v RR,Jaipur,1,1,1,0,0,1
+714451,30 Apr 2023,v Punjab Kings,Chennai,2,0,0,0,0,0
+714451,3 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+714451,6 May 2023,v MI,Chennai,1,0,0,0,0,0
+714451,10 May 2023,v DC,Chennai,2,0,0,0,0,0
+714451,14 May 2023,v KKR,Chennai,2,0,0,0,0,0
+714451,20 May 2023,v DC,Delhi,2,0,0,0,0,0
+714451,23 May 2023,v GT,Chennai,2,0,0,0,0,0
+714451,28 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+714451,18 Aug 2023,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+714451,20 Aug 2023,v Ireland,Dublin (Malahide),2,1,1,0,0,1
+714451,3 Oct 2023,v Nepal,Hangzhou,2,0,0,0,0,0
+714451,6 Oct 2023,v Bangladesh,Hangzhou,1,1,1,0,0,1
+714451,7 Oct 2023,v Afghanistan,Hangzhou,1,0,0,0,0,0
+714451,16 Oct 2023,v Haryana,Jaipur,1,0,0,0,0,0
+714451,17 Oct 2023,v Meghalaya,Jaipur,1,0,0,0,0,0
+714451,19 Oct 2023,v Baroda,Jaipur,2,0,0,0,0,0
+714451,21 Oct 2023,v J & K,Jaipur,2,2,2,0,0,2
+714451,23 Oct 2023,v Chhattisgarh,Jaipur,1,1,1,0,0,1
+714451,25 Oct 2023,v Hyderabad,Jaipur,1,0,0,0,0,0
+714451,27 Oct 2023,v Mizoram,Jaipur,1,0,0,0,0,0
+714451,2 Nov 2023,v Baroda,New Chandigarh,2,1,1,0,0,1
+714451,11 Jan 2024,v Afghanistan,Mohali,1,0,0,0,0,0
+714451,14 Jan 2024,v Afghanistan,Indore,1,1,1,0,0,1
+714451,17 Jan 2024,v Afghanistan,Bengaluru,2,0,0,0,0,0
+714451,22 Mar 2024,v RCB,Chennai,1,0,0,0,0,0
+714451,26 Mar 2024,v GT,Chennai,2,0,0,0,0,0
+714451,31 Mar 2024,v DC,Visakhapatnam,1,0,0,0,0,0
+714451,5 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+714451,8 Apr 2024,v KKR,Chennai,1,0,0,0,0,0
+714451,14 Apr 2024,v MI,Wankhede,2,0,0,0,0,0
+714451,19 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+714451,23 Apr 2024,v LSG,Chennai,2,0,0,0,0,0
+714451,28 Apr 2024,v SRH,Chennai,2,0,0,0,0,0
+714451,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+714451,5 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+714451,10 May 2024,v GT,Ahmedabad,1,1,1,0,0,1
+714451,12 May 2024,v RR,Chennai,1,1,1,0,0,1
+714451,18 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+714451,5 Jun 2024,v Ireland,New York,1,1,1,0,0,1
+714451,9 Jun 2024,v Pakistan,New York,2,0,0,0,0,0
+714451,12 Jun 2024,v U.S.A.,New York,1,0,0,0,0,0
+714451,20 Jun 2024,v Afghanistan,Bridgetown,2,0,0,0,0,0
+714451,22 Jun 2024,v Bangladesh,North Sound,2,0,0,0,0,0
+714451,24 Jun 2024,v Australia,Gros Islet,2,0,0,0,0,0
+714451,27 Jun 2024,v England,Providence,2,0,0,0,0,0
+714451,29 Jun 2024,v South Africa,Bridgetown,2,0,0,0,0,0
+714451,10 Jul 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+714451,13 Jul 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+714451,14 Jul 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+714451,30 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+714451,3 Dec 2024,v Services,Hyderabad,2,0,0,0,0,0
+714451,5 Dec 2024,v Andhra,Hyderabad,1,0,0,0,0,0
+714451,11 Dec 2024,v Vidarbha,Alur,1,0,0,0,0,0
+714451,13 Dec 2024,v Baroda,Bengaluru,1,1,1,0,0,1
+714451,15 Dec 2024,v M. Pradesh,Bengaluru,1,0,0,0,0,0
+714451,31 Jan 2025,v England,Pune,2,0,0,0,0,0
+714451,2 Feb 2025,v England,Wankhede,2,0,0,0,0,0
+714451,23 Mar 2025,v MI,Chennai,1,2,2,0,0,2
+714451,28 Mar 2025,v RCB,Chennai,1,0,0,0,0,0
+714451,30 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+714451,5 Apr 2025,v DC,Chennai,1,0,0,0,0,0
+714451,8 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+714451,11 Apr 2025,v KKR,Chennai,2,0,0,0,0,0
+714451,14 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+714451,20 Apr 2025,v MI,Wankhede,2,0,0,0,0,0
+714451,25 Apr 2025,v SRH,Chennai,2,0,0,0,0,0
+714451,30 Apr 2025,v Punjab Kings,Chennai,2,0,0,0,0,0
+714451,3 May 2025,v RCB,Bengaluru,1,0,0,0,0,0
+714451,7 May 2025,v KKR,Eden Gardens,1,0,0,0,0,0
+714451,20 May 2025,v RR,Delhi,2,0,0,0,0,0
+714451,25 May 2025,v GT,Ahmedabad,2,2,2,0,0,2
+714451,10 Sep 2025,v U.A.E.,Dubai (DICS),1,0,0,0,0,0
+714451,14 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+714451,19 Sep 2025,v Oman,Abu Dhabi,2,0,0,0,0,0
+714451,21 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+714451,24 Sep 2025,v Bangladesh,Dubai (DICS),2,1,1,0,0,1
+714451,28 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+714451,29 Oct 2025,v Australia,Canberra,-,TDNF,-,-,-,-
+714451,31 Oct 2025,v Australia,Melbourne,2,0,0,0,0,0
+714451,2 Nov 2025,v Australia,Hobart,1,0,0,0,0,0
+714451,6 Nov 2025,v Australia,Carrara,2,0,0,0,0,0
+714451,8 Nov 2025,v Australia,Brisbane,-,TDNF,-,-,-,-
+714451,26 Nov 2025,v Railways,Lucknow,1,0,0,0,0,0
+714451,28 Nov 2025,v Vidarbha,Lucknow,1,0,0,0,0,0
+714451,30 Nov 2025,v Andhra,Lucknow,1,0,0,0,0,0
+714451,4 Dec 2025,v Kerala,Lucknow,1,0,0,0,0,0
+714451,9 Dec 2025,v South Africa,Cuttack,2,0,0,0,0,0
+714451,11 Dec 2025,v South Africa,New Chandigarh,1,0,0,0,0,0
+714451,14 Dec 2025,v South Africa,Dharamsala,1,0,0,0,0,0
+714451,19 Dec 2025,v South Africa,Ahmedabad,2,1,1,0,0,1
+714451,21 Jan 2026,v New Zealand,Nagpur,2,2,2,0,0,2
+714451,23 Jan 2026,v New Zealand,Raipur,1,0,0,0,0,0
+714451,25 Jan 2026,v New Zealand,Guwahati,1,0,0,0,0,0
+714451,28 Jan 2026,v New Zealand,Visakhapatnam,1,0,0,0,0,0
+714451,31 Jan 2026,v New Zealand,Thiruvananthapuram,2,0,0,0,0,0
+714451,7 Feb 2026,v U.S.A.,Wankhede,2,1,1,0,0,1
+714451,12 Feb 2026,v Namibia,Delhi,2,1,1,0,0,1
+714451,15 Feb 2026,v Pakistan,Colombo (RPS),2,2,2,0,0,2
+714451,18 Feb 2026,v Netherlands,Ahmedabad,2,0,0,0,0,0
+714451,22 Feb 2026,v South Africa,Ahmedabad,1,1,1,0,0,1
+714451,26 Feb 2026,v Zimbabwe,Chennai,2,0,0,0,0,0
+714451,1 Mar 2026,v West Indies,Eden Gardens,1,0,0,0,0,0
+714451,5 Mar 2026,v England,Wankhede,2,1,1,0,0,1
+714451,8 Mar 2026,v New Zealand,Ahmedabad,2,0,0,0,0,0

@@ -1,0 +1,104 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+802575,29 Jan 2017,v Karnataka,Chennai,1,0,0,0,0,0
+802575,30 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+802575,31 Jan 2017,v Goa,Chennai,1,1,1,0,0,1
+802575,2 Feb 2017,v Andhra,Chennai,2,0,0,0,0,0
+802575,3 Feb 2017,v Kerala,Chennai,1,1,1,0,0,1
+802575,8 Apr 2017,v Supergiant,Indore,1,0,0,0,0,0
+802575,10 Apr 2017,v RCB,Indore,1,0,0,0,0,0
+802575,23 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+802575,30 Apr 2017,v Daredevils,Mohali,1,0,0,0,0,0
+802575,5 May 2017,v RCB,Bengaluru,2,0,0,0,0,0
+802575,7 May 2017,v Guj Lions,Mohali,2,0,0,0,0,0
+802575,8 Nov 2019,v Kerala,Thumba,2,3,3,0,0,3
+802575,9 Nov 2019,v Rajasthan,Thumba,2,1,1,0,0,1
+802575,11 Nov 2019,v UP,Thiruvananthapuram,2,1,1,0,0,1
+802575,14 Nov 2019,v Manipur,Thiruvananthapuram,1,0,0,0,0,0
+802575,15 Nov 2019,v Tripura,Thiruvananthapuram,1,0,0,0,0,0
+802575,17 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+802575,21 Nov 2019,v Karnataka,Surat,2,1,1,0,0,1
+802575,25 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+802575,27 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+802575,29 Nov 2019,v Rajasthan,Surat,1,0,0,0,0,0
+802575,1 Dec 2019,v Karnataka,Surat,1,2,2,0,0,2
+802575,21 Sep 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+802575,26 Sep 2020,v KKR,Abu Dhabi,2,0,0,0,0,0
+802575,29 Sep 2020,v DC,Abu Dhabi,2,0,0,0,0,0
+802575,2 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+802575,4 Oct 2020,v MI,Sharjah,1,1,1,0,0,1
+802575,8 Oct 2020,v Kings XI,Dubai (DICS),2,1,1,0,0,1
+802575,11 Oct 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+802575,13 Oct 2020,v CSK,Dubai (DICS),1,0,0,0,0,0
+802575,18 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+802575,22 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+802575,24 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+802575,27 Oct 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+802575,31 Oct 2020,v RCB,Sharjah,1,1,1,0,0,1
+802575,3 Nov 2020,v MI,Sharjah,1,0,0,0,0,0
+802575,6 Nov 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+802575,8 Nov 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+802575,4 Dec 2020,v Australia,Canberra,2,0,0,0,0,0
+802575,6 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+802575,8 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+802575,20 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+802575,11 Apr 2021,v KKR,Chennai,1,0,0,0,0,0
+802575,14 Apr 2021,v RCB,Chennai,1,0,0,0,0,0
+802575,4 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+802575,5 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+802575,6 Nov 2021,v Puducherry,Lucknow,1,2,2,0,0,2
+802575,9 Nov 2021,v Punjab,Lucknow,1,0,0,0,0,0
+802575,22 Nov 2021,v Karnataka,Delhi,1,0,0,0,0,0
+802575,29 Mar 2022,v RR,Pune,1,0,0,0,0,0
+802575,4 Apr 2022,v LSG,DY Patil,1,0,0,0,0,0
+802575,9 Apr 2022,v CSK,DY Patil,1,0,0,0,0,0
+802575,11 Apr 2022,v GT,DY Patil,1,0,0,0,0,0
+802575,15 Apr 2022,v KKR,Brabourne,1,1,1,0,0,1
+802575,17 Apr 2022,v Punjab Kings,DY Patil,1,0,0,0,0,0
+802575,23 Apr 2022,v RCB,Brabourne,1,0,0,0,0,0
+802575,27 Apr 2022,v GT,Wankhede,2,0,0,0,0,0
+802575,1 May 2022,v CSK,Pune,1,0,0,0,0,0
+802575,14 May 2022,v KKR,Pune,1,0,0,0,0,0
+802575,17 May 2022,v MI,Wankhede,2,0,0,0,0,0
+802575,11 Oct 2022,v Chhattisgarh,Lucknow,1,3,3,0,0,3
+802575,12 Oct 2022,v Odisha,Lucknow,1,0,0,0,0,0
+802575,16 Oct 2022,v Bengal,Lucknow,1,0,0,0,0,0
+802575,18 Oct 2022,v Jharkhand,Lucknow,2,0,0,0,0,0
+802575,20 Oct 2022,v Chandigarh,Lucknow,2,0,0,0,0,0
+802575,2 Apr 2023,v RR,Hyderabad,1,0,0,0,0,0
+802575,7 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+802575,9 Apr 2023,v Punjab Kings,Hyderabad,1,0,0,0,0,0
+802575,14 Apr 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+802575,18 Apr 2023,v MI,Hyderabad,1,0,0,0,0,0
+802575,24 Apr 2023,v DC,Hyderabad,1,0,0,0,0,0
+802575,29 Apr 2023,v DC,Delhi,2,0,0,0,0,0
+802575,4 May 2023,v KKR,Hyderabad,1,1,1,0,0,1
+802575,7 May 2023,v RR,Jaipur,1,1,1,0,0,1
+802575,13 May 2023,v LSG,Hyderabad,2,0,0,0,0,0
+802575,15 May 2023,v GT,Ahmedabad,1,1,1,0,0,1
+802575,18 May 2023,v RCB,Hyderabad,2,0,0,0,0,0
+802575,17 Oct 2023,v UP,Dehradun,2,0,0,0,0,0
+802575,19 Oct 2023,v Tripura,Dehradun,1,1,1,0,0,1
+802575,23 Oct 2023,v Delhi,Dehradun,1,1,1,0,0,1
+802575,25 Oct 2023,v M. Pradesh,Dehradun,2,0,0,0,0,0
+802575,23 Mar 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+802575,5 Apr 2024,v CSK,Hyderabad,1,0,0,0,0,0
+802575,9 Apr 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+802575,15 Apr 2024,v RCB,Bengaluru,2,0,0,0,0,0
+802575,20 Apr 2024,v DC,Delhi,2,1,1,0,0,1
+802575,25 Apr 2024,v RCB,Hyderabad,1,0,0,0,0,0
+802575,28 Apr 2024,v CSK,Chennai,1,0,0,0,0,0
+802575,2 May 2024,v RR,Hyderabad,2,0,0,0,0,0
+802575,6 May 2024,v MI,Wankhede,2,0,0,0,0,0
+802575,8 May 2024,v LSG,Hyderabad,1,1,1,0,0,1
+802575,19 May 2024,v Punjab Kings,Hyderabad,1,0,0,0,0,0
+802575,21 May 2024,v KKR,Ahmedabad,2,0,0,0,0,0
+802575,24 May 2024,v RR,Chennai,2,0,0,0,0,0
+802575,26 May 2024,v KKR,Chennai,2,0,0,0,0,0
+802575,5 May 2025,v SRH,Hyderabad,-,TDNF,-,-,-,-
+802575,18 May 2025,v GT,Delhi,2,0,0,0,0,0
+802575,26 Nov 2025,v Rajasthan,Ahmedabad,2,0,0,0,0,0
+802575,28 Nov 2025,v Delhi,Ahmedabad,2,0,0,0,0,0
+802575,30 Nov 2025,v Uttarakhand,Ahmedabad,1,0,0,0,0,0
+802575,2 Dec 2025,v Karnataka,Ahmedabad,1,0,0,0,0,0
+802575,4 Dec 2025,v Tripura,Ahmedabad,2,0,0,0,0,0
+802575,6 Dec 2025,v Jharkhand,Ahmedabad,1,0,0,0,0,0

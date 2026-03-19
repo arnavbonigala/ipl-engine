@@ -1,0 +1,226 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+342619,25 Mar 2009,v Ruhuna,Colombo (Moors),2,0,0,0,0,0
+342619,28 Mar 2009,v Kandurata,Colombo (Police),2,0,0,0,0,0
+342619,29 Mar 2009,v Basnahira S,Colombo (Moors),1,1,1,0,0,1
+342619,31 Mar 2009,v Basnahira N,Colombo (PSS),2,0,0,0,0,0
+342619,24 Feb 2010,v Ruhuna,Kandy,2,0,0,0,0,0
+342619,25 Feb 2010,v Wayamba,Kandy,2,0,0,0,0,0
+342619,28 Feb 2010,v Basnahira S,Pallekele,2,1,1,0,0,1
+342619,4 Mar 2010,v Basnahira N,Colombo (Colts),2,0,0,0,0,0
+342619,13 Apr 2010,v Rajshahi DIV,Mirpur,1,0,0,0,0,0
+342619,15 Apr 2010,v Chittagong,Savar (2),2,0,0,0,0,0
+342619,16 Apr 2010,v Sylhet DIV,Mirpur,2,0,0,0,0,0
+342619,26 Mar 2012,v Burgher,Colombo (Bloomfield),2,1,1,0,0,1
+342619,28 Mar 2012,v SLPACC,Colombo (RPS),1,0,0,0,0,0
+342619,29 Mar 2012,v Moors,Colombo (RPS),1,1,1,0,0,1
+342619,30 Mar 2012,v Police SC,Colombo,1,0,0,0,0,0
+342619,12 Aug 2012,v Basnahira CD,Colombo (RPS),1,0,0,0,0,0
+342619,17 Aug 2012,v Wayamba U,Pallekele,1,0,0,0,0,0
+342619,19 Aug 2012,v Uthura,Pallekele,1,0,0,0,0,0
+342619,28 Aug 2012,v Wayamba U,Colombo (RPS),2,1,1,0,0,1
+342619,31 Aug 2012,v Nagenahira,Colombo (RPS),1,0,0,0,0,0
+342619,9 Oct 2012,v Yorkshire,Johannesburg,2,0,0,0,0,0
+342619,11 Oct 2012,v Trinidad & T,Johannesburg,1,0,0,0,0,0
+342619,27 Jun 2014,v Yaal Blazers,Colombo (SSC),2,0,0,0,0,0
+342619,28 Jun 2014,v Rulers,Colombo (SSC),1,1,1,0,0,1
+342619,30 Jun 2014,v Express,Colombo (SSC),-,TDNF,-,-,-,-
+342619,1 Jul 2014,v Express,Colombo (SSC),2,0,0,0,0,0
+342619,1 Apr 2015,v Moors,Colombo (CCC),1,0,0,0,0,0
+342619,2 Apr 2015,v Air Force SC,Colombo (Colts),2,0,0,0,0,0
+342619,4 Apr 2015,v Bloomfield,Panagoda,1,1,1,0,0,1
+342619,5 Apr 2015,v Chilaw MCC,Colombo (SSC),1,1,1,0,0,1
+342619,7 Apr 2015,v Nondescripts,Colombo (NCC),1,0,0,0,0,0
+342619,8 Apr 2015,v SLPACC,Colombo (Bloomfield),1,0,0,0,0,0
+342619,9 Apr 2015,v Sinhalese,Colombo (SSC),2,0,0,0,0,0
+342619,24 Feb 2018,v KTC,Colombo (Burgher),2,0,0,0,0,0
+342619,25 Feb 2018,v Police SC,Colombo (Bloomfield),2,0,0,0,0,0
+342619,27 Feb 2018,v Burgher,Colombo (Colts),1,0,0,0,0,0
+342619,1 Mar 2018,v Ragama CC,Colombo (Bloomfield),1,0,0,0,0,0
+342619,2 Mar 2018,v Chilaw MCC,Colombo (CCC),2,0,0,0,0,0
+342619,4 Mar 2018,v Colts CC,Katunayake,2,0,0,0,0,0
+342619,7 Mar 2018,v SL Army,Colombo (PSS),1,0,0,0,0,0
+342619,8 Mar 2018,v Colombo CC,Colombo (PSS),2,0,0,0,0,0
+342619,21 Aug 2018,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+342619,22 Aug 2018,v Colombo,Colombo (RPS),1,1,1,0,0,1
+342619,25 Aug 2018,v Galle,Dambulla,1,0,0,0,0,0
+342619,26 Aug 2018,v Dambulla,Dambulla,1,1,1,0,1,0
+342619,29 Aug 2018,v Colombo,Pallekele,1,0,0,0,0,0
+342619,30 Aug 2018,v Galle,Pallekele,1,1,1,0,1,0
+342619,15 Feb 2019,v Galle CC,Panagoda,2,0,0,0,0,0
+342619,16 Feb 2019,v Kandy CCC,Colombo (CCC),1,0,0,0,0,0
+342619,18 Feb 2019,v Badureliya,SLAOCIC Stadium,1,0,0,0,0,0
+342619,19 Feb 2019,v Tamil Union,SLAOCIC Stadium,2,1,1,0,0,1
+342619,21 Feb 2019,v Lankan CC,Colombo (Bloomfield),1,1,1,0,0,1
+342619,5 Oct 2019,v Pakistan,Lahore,2,0,0,0,0,0
+342619,7 Oct 2019,v Pakistan,Lahore,2,0,0,0,0,0
+342619,9 Oct 2019,v Pakistan,Lahore,2,0,0,0,0,0
+342619,27 Oct 2019,v Australia,Adelaide,1,0,0,0,0,0
+342619,1 Nov 2019,v Australia,Melbourne,2,0,0,0,0,0
+342619,11 Dec 2019,v Rangers,Mirpur,2,0,0,0,0,0
+342619,13 Dec 2019,v Platoon,Mirpur,1,0,0,0,0,0
+342619,18 Dec 2019,v Rangers,Chattogram,1,0,0,0,0,0
+342619,20 Dec 2019,v Chattogram,Chattogram,1,0,0,0,0,0
+342619,23 Dec 2019,v Platoon,Chattogram,2,0,0,0,0,0
+342619,24 Dec 2019,v Royals,Chattogram,2,1,1,0,0,1
+342619,5 Jan 2020,v India,Guwahati,-,TDNF,-,-,-,-
+342619,7 Jan 2020,v India,Indore,2,0,0,0,0,0
+342619,12 Jan 2020,v SLPACC,Moratuwa,1,0,0,0,0,0
+342619,14 Jan 2020,v Nugegoda SWC,Colombo (PSS),2,0,0,0,0,0
+342619,15 Jan 2020,v Kandy CCC,Colombo (PSS),1,1,1,0,0,1
+342619,27 Nov 2020,v Stallions,Hambantota,2,0,0,0,0,0
+342619,28 Nov 2020,v Kings,Hambantota,1,0,0,0,0,0
+342619,30 Nov 2020,v Tuskers,Hambantota,1,1,1,0,0,1
+342619,3 Dec 2020,v Stallions,Hambantota,2,0,0,0,0,0
+342619,5 Dec 2020,v Viiking,Hambantota,1,0,0,0,0,0
+342619,7 Dec 2020,v Kings,Hambantota,1,1,1,0,0,1
+342619,9 Dec 2020,v Viiking,Hambantota,2,0,0,0,0,0
+342619,10 Dec 2020,v Tuskers,Hambantota,1,0,0,0,0,0
+342619,13 Dec 2020,v Kings,Hambantota,1,2,2,0,0,2
+342619,16 Dec 2020,v Stallions,Hambantota,1,0,0,0,0,0
+342619,5 Mar 2021,v Negombo,Katunayake,1,0,0,0,0,0
+342619,6 Mar 2021,v Galle CC,Colombo (SSC),2,0,0,0,0,0
+342619,9 Mar 2021,v Kandy CCC,Colombo (SSC),2,3,3,0,0,3
+342619,10 Mar 2021,v Nugegoda SWC,Colombo (SSC),1,1,1,0,0,1
+342619,11 Mar 2021,v Badureliya,Colombo (PSS),2,1,1,0,0,1
+342619,14 Mar 2021,v Colombo CC,Katunayake,2,1,1,0,0,1
+342619,10 Sep 2021,v South Africa,Colombo (RPS),1,0,0,0,0,0
+342619,12 Sep 2021,v South Africa,Colombo (RPS),2,0,0,0,0,0
+342619,14 Sep 2021,v South Africa,Colombo (RPS),2,0,0,0,0,0
+342619,18 Oct 2021,v Namibia,Abu Dhabi,1,0,0,0,0,0
+342619,20 Oct 2021,v Ireland,Abu Dhabi,2,0,0,0,0,0
+342619,22 Oct 2021,v Netherlands,Sharjah,1,0,0,0,0,0
+342619,24 Oct 2021,v Bangladesh,Sharjah,1,0,0,0,0,0
+342619,28 Oct 2021,v Australia,Dubai (DICS),2,1,1,0,0,1
+342619,30 Oct 2021,v South Africa,Sharjah,2,1,1,0,0,1
+342619,1 Nov 2021,v England,Sharjah,1,0,0,0,0,0
+342619,4 Nov 2021,v West Indies,Abu Dhabi,2,1,1,0,0,1
+342619,5 Dec 2021,v Jaffna Kings,Colombo (RPS),2,2,2,0,0,2
+342619,6 Dec 2021,v Stars,Colombo (RPS),2,1,1,0,0,1
+342619,7 Dec 2021,v Warriors,Colombo (RPS),1,0,0,0,0,0
+342619,10 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+342619,11 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+342619,12 Dec 2021,v Stars,Colombo (RPS),1,0,0,0,0,0
+342619,14 Dec 2021,v Dambulla,Colombo (RPS),2,0,0,0,0,0
+342619,17 Dec 2021,v Jaffna Kings,Colombo (RPS),2,2,2,0,0,2
+342619,19 Dec 2021,v Jaffna Kings,Hambantota,2,1,1,0,0,1
+342619,23 Dec 2021,v Jaffna Kings,Hambantota,1,0,0,0,0,0
+342619,27 Mar 2022,v RCB,DY Patil,1,0,0,0,0,0
+342619,1 Apr 2022,v KKR,Wankhede,2,0,0,0,0,0
+342619,3 Apr 2022,v CSK,Brabourne,2,0,0,0,0,0
+342619,25 Apr 2022,v CSK,Wankhede,2,0,0,0,0,0
+342619,29 Apr 2022,v LSG,Pune,1,0,0,0,0,0
+342619,3 May 2022,v GT,DY Patil,1,0,0,0,0,0
+342619,7 May 2022,v RR,Wankhede,2,1,1,0,0,1
+342619,13 May 2022,v RCB,Brabourne,2,2,2,0,0,2
+342619,16 May 2022,v DC,DY Patil,1,1,1,0,0,1
+342619,23 May 2022,v Panadura,Maggona,2,0,0,0,0,0
+342619,25 May 2022,v Nugegoda SWC,Maggona,2,0,0,0,0,0
+342619,27 May 2022,v Ragama CC,Colombo (Colts),-,TDNF,-,-,-,-
+342619,7 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+342619,8 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+342619,11 Jun 2022,v Australia,Pallekele,1,0,0,0,0,0
+342619,8 Aug 2022,v SLC Greys,Colombo (RPS),1,1,1,0,0,1
+342619,10 Aug 2022,v SLC Greens,Colombo (RPS),1,0,0,0,0,0
+342619,13 Aug 2022,v SLC Blues,Colombo (RPS),2,1,0,1,0,0
+342619,15 Aug 2022,v SLC Blues,Colombo (RPS),1,0,0,0,0,0
+342619,27 Aug 2022,v Afghanistan,Dubai (DICS),2,0,0,0,0,0
+342619,1 Sep 2022,v Bangladesh,Dubai (DICS),1,0,0,0,0,0
+342619,3 Sep 2022,v Afghanistan,Sharjah,1,0,0,0,0,0
+342619,6 Sep 2022,v India,Dubai (DICS),1,0,0,0,0,0
+342619,9 Sep 2022,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+342619,11 Sep 2022,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+342619,16 Oct 2022,v Namibia,Geelong,1,0,0,0,0,0
+342619,18 Oct 2022,v U.A.E.,Geelong,2,1,1,0,0,1
+342619,20 Oct 2022,v Netherlands,Geelong,2,0,0,0,0,0
+342619,23 Oct 2022,v Ireland,Hobart,1,1,1,0,0,1
+342619,25 Oct 2022,v Australia,Perth,2,1,1,0,0,1
+342619,29 Oct 2022,v New Zealand,Sydney,1,0,0,0,0,0
+342619,1 Nov 2022,v Afghanistan,Brisbane,1,1,1,0,0,1
+342619,5 Nov 2022,v England,Sydney,2,0,0,0,0,0
+342619,7 Dec 2022,v Jaffna Kings,Hambantota,2,0,0,0,0,0
+342619,8 Dec 2022,v Stars,Hambantota,1,0,0,0,0,0
+342619,11 Dec 2022,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+342619,13 Dec 2022,v Kandy,Pallekele,1,0,0,0,0,0
+342619,14 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+342619,17 Dec 2022,v Galle,Colombo (RPS),2,0,0,0,0,0
+342619,18 Dec 2022,v Kandy,Colombo (RPS),1,0,0,0,0,0
+342619,3 Jan 2023,v India,Wankhede,1,1,1,0,0,1
+342619,5 Jan 2023,v India,Pune,2,0,0,0,0,0
+342619,12 Feb 2023,v Rangpur,Mirpur,2,0,0,0,0,0
+342619,14 Feb 2023,v Kings,Karachi,2,0,0,0,0,0
+342619,17 Feb 2023,v Sultans,Multan,1,0,0,0,0,0
+342619,26 Feb 2023,v Qalandars,Lahore,1,1,1,0,0,1
+342619,12 Mar 2023,v United,Rawalpindi,2,1,1,0,0,1
+342619,17 Mar 2023,v Qalandars,Lahore,2,0,0,0,0,0
+342619,1 Apr 2023,v KKR,Mohali,2,0,0,0,0,0
+342619,5 Apr 2023,v RR,Guwahati,2,0,0,0,0,0
+342619,13 Apr 2023,v GT,Mohali,2,0,0,0,0,0
+342619,8 May 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+342619,28 May 2023,v Negombo,Panagoda,2,0,0,0,0,0
+342619,29 May 2023,v Kandy CCC,Panagoda,1,1,1,0,0,1
+342619,31 May 2023,v Colombo CC,Colombo (SSC),2,0,0,0,0,0
+342619,2 Jun 2023,v Galle CC,Colombo (CCC),2,0,0,0,0,0
+342619,31 Jul 2023,v Aura,Colombo (RPS),2,0,0,0,0,0
+342619,1 Aug 2023,v B-Love Kandy,Colombo (RPS),2,0,0,0,0,0
+342619,4 Aug 2023,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+342619,7 Aug 2023,v Colombo,Pallekele,2,0,0,0,0,0
+342619,8 Aug 2023,v B-Love Kandy,Pallekele,1,0,0,0,0,0
+342619,13 Aug 2023,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+342619,15 Aug 2023,v Colombo,Colombo (RPS),1,0,0,0,0,0
+342619,17 Aug 2023,v Aura,Colombo (RPS),2,0,0,0,0,0
+342619,26 Aug 2023,v Trinbago,Basseterre,2,1,1,0,1,0
+342619,14 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+342619,17 Sep 2023,v Tallawahs,Providence,1,0,0,0,0,0
+342619,19 Sep 2023,v Tallawahs,Providence,2,0,0,0,0,0
+342619,8 Feb 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+342619,10 Feb 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+342619,17 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+342619,4 May 2024,v SLC Reds,Colombo (RPS),2,0,0,0,0,0
+342619,5 May 2024,v SLC Yellow,Colombo (RPS),-,TDNF,-,-,-,-
+342619,6 May 2024,v SLC Yellow,Colombo (RPS),2,0,0,0,0,0
+342619,10 May 2024,v SLC Reds,Colombo (RPS),1,0,0,0,0,0
+342619,11 May 2024,v SLC Yellow,Colombo (RPS),2,0,0,0,0,0
+342619,24 Jun 2024,v Tamil Union,Colombo (SSC),2,0,0,0,0,0
+342619,26 Jun 2024,v Nondescripts,Colombo (PSS),-,TDNF,-,-,-,-
+342619,2 Jul 2024,v Jaffna Kings,Pallekele,1,1,1,0,0,1
+342619,3 Jul 2024,v Colombo,Pallekele,2,0,0,0,0,0
+342619,5 Jul 2024,v Jaffna Kings,Dambulla,2,0,0,0,0,0
+342619,7 Jul 2024,v Kandy,Dambulla,1,2,2,0,0,2
+342619,9 Jul 2024,v Sixers,Dambulla,1,0,0,0,0,0
+342619,10 Jul 2024,v Kandy,Dambulla,1,0,0,0,0,0
+342619,14 Jul 2024,v Sixers,Colombo (RPS),2,0,0,0,0,0
+342619,15 Jul 2024,v Colombo,Colombo (RPS),2,0,0,0,0,0
+342619,18 Jul 2024,v Jaffna Kings,Colombo (RPS),1,2,2,0,0,2
+342619,21 Jul 2024,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+342619,1 Sep 2024,v Patriots,Basseterre,1,0,0,0,0,0
+342619,3 Sep 2024,v Falcons,North Sound,1,1,1,0,0,1
+342619,7 Sep 2024,v Amazon,Gros Islet,2,0,0,0,0,0
+342619,10 Sep 2024,v Trinbago,Gros Islet,2,0,0,0,0,0
+342619,12 Sep 2024,v Patriots,Gros Islet,1,0,0,0,0,0
+342619,15 Sep 2024,v Falcons,Gros Islet,2,0,0,0,0,0
+342619,13 Oct 2024,v West Indies,Dambulla,2,0,0,0,0,0
+342619,15 Oct 2024,v West Indies,Dambulla,2,0,0,0,0,0
+342619,17 Oct 2024,v West Indies,Dambulla,1,1,1,0,0,1
+342619,9 Nov 2024,v New Zealand,Dambulla,1,0,0,0,0,0
+342619,10 Nov 2024,v New Zealand,Dambulla,1,1,1,0,0,1
+342619,28 Dec 2024,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+342619,2 Jan 2025,v New Zealand,Nelson,2,0,0,0,0,0
+342619,12 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+342619,15 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+342619,16 May 2025,v Colts CC,Colombo (CCC),2,1,1,0,0,1
+342619,22 May 2025,v Kings,Lahore,1,2,2,0,0,2
+342619,23 May 2025,v United,Lahore,2,0,0,0,0,0
+342619,25 May 2025,v Gladiators,Lahore,1,0,0,0,0,0
+342619,5 Jun 2025,v Nugegoda SWC,Colombo (Colts),2,0,0,0,0,0
+342619,6 Jun 2025,v Chilaw MCC,Colombo (SSC),2,0,0,0,0,0
+342619,8 Jun 2025,v Bloomfield,Colombo (CCC),1,0,0,0,0,0
+342619,11 Jun 2025,v Nondescripts,Colombo (CCC),2,0,0,0,0,0
+342619,11 Jul 2025,v DC,Providence,1,0,0,0,0,0
+342619,13 Jul 2025,v Rangpur,Providence,1,0,0,0,0,0
+342619,15 Jul 2025,v Central D,Providence,1,0,0,0,0,0
+342619,16 Jul 2025,v Amazon,Providence,2,1,1,0,0,1
+342619,7 Aug 2025,v SLC Blues,Colombo (SSC),1,1,1,0,0,1
+342619,10 Aug 2025,v SLC Greys,Colombo (SSC),1,0,0,0,0,0
+342619,11 Aug 2025,v SLC Blues,Colombo (SSC),2,0,0,0,0,0
+342619,16 Aug 2025,v SLC Greys,Colombo (SSC),2,1,1,0,0,1
+342619,20 Nov 2025,v Zimbabwe,Rawalpindi,1,0,0,0,0,0

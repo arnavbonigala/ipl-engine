@@ -1,0 +1,191 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+277662,4 Feb 2009,v Otago,Dunedin,1,0,0,0,0,0
+277662,6 Feb 2009,v Northern Dis,Christchurch,1,0,0,0,0,0
+277662,8 Feb 2009,v Auckland,Auckland,1,1,1,0,0,1
+277662,13 Feb 2009,v Wellington,Christchurch,2,0,0,0,0,0
+277662,15 Feb 2009,v Central D,Christchurch,2,0,0,0,0,0
+277662,18 Feb 2009,v Northern Dis,Hamilton,2,0,0,0,0,0
+277662,22 Feb 2009,v Central D,Palmerston North,1,1,1,0,0,1
+277662,15 Dec 2010,v Otago,Christchurch,1,0,0,0,0,0
+277662,17 Dec 2010,v Northern Dis,Hamilton,2,0,0,0,0,0
+277662,19 Dec 2010,v Central D,Christchurch,1,1,1,0,0,1
+277662,21 Dec 2010,v Auckland,Auckland,1,0,0,0,0,0
+277662,18 Dec 2011,v Canterbury,Rangiora,2,1,1,0,0,1
+277662,26 Dec 2011,v Auckland,Auckland,2,0,0,0,0,0
+277662,29 Dec 2011,v Otago,Dunedin,1,0,0,0,0,0
+277662,31 Dec 2011,v Canterbury,Mt Maunganui,1,1,1,0,0,1
+277662,4 Jan 2012,v Wellington,Mt Maunganui,2,0,0,0,0,0
+277662,5 Jan 2012,v Central D,Mt Maunganui,1,0,0,0,0,0
+277662,8 Jan 2012,v Auckland,Mount Maunganui,2,0,0,0,0,0
+277662,11 Jan 2012,v Wellington,Wellington,2,1,1,0,0,1
+277662,2 Nov 2012,v Otago,Hamilton,2,1,1,0,0,1
+277662,23 Nov 2012,v Central D,Hamilton,1,2,2,0,0,2
+277662,30 Nov 2012,v Canterbury,Hamilton,2,1,1,0,0,1
+277662,21 Dec 2012,v South Africa,Durban,2,0,0,0,0,0
+277662,23 Dec 2012,v South Africa,East London,1,1,1,0,0,1
+277662,26 Dec 2012,v South Africa,Gqeberha,1,4,4,0,0,4
+277662,1 Jan 2013,v Wellington,Mount Maunganui,1,1,1,0,0,1
+277662,6 Jan 2013,v Auckland,Mount Maunganui,1,2,2,0,0,2
+277662,22 Jun 2013,v Kent,Canterbury,2,1,1,0,0,1
+277662,25 Jun 2013,v England,The Oval,2,0,0,0,0,0
+277662,27 Jun 2013,v England,The Oval,1,0,0,0,0,0
+277662,6 Nov 2013,v Bangladesh,Mirpur,2,0,0,0,0,0
+277662,11 Jan 2014,v West Indies,Auckland,2,0,0,0,0,0
+277662,15 Jan 2014,v West Indies,Wellington,1,0,0,0,0,0
+277662,22 Mar 2014,v England,Chattogram,1,2,2,0,0,2
+277662,24 Mar 2014,v South Africa,Chattogram,1,2,2,0,0,2
+277662,29 Mar 2014,v Netherlands,Chattogram,1,0,0,0,0,0
+277662,31 Mar 2014,v Sri Lanka,Chattogram,1,1,1,0,0,1
+277662,16 Apr 2014,v KKR,Abu Dhabi,1,1,1,0,0,1
+277662,19 Apr 2014,v RCB,Dubai (DICS),2,0,0,0,0,0
+277662,25 Apr 2014,v CSK,Dubai (DICS),2,1,1,0,0,1
+277662,27 Apr 2014,v Daredevils,Sharjah,2,0,0,0,0,0
+277662,30 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+277662,3 May 2014,v Kings XI,Wankhede,1,1,1,0,0,1
+277662,6 May 2014,v RCB,Wankhede,2,1,1,0,0,1
+277662,10 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+277662,12 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+277662,14 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+277662,25 May 2014,v RR,Wankhede,1,1,1,0,0,1
+277662,28 May 2014,v CSK,Brabourne,2,0,0,0,0,0
+277662,5 Jul 2014,v West Indies,Roseau,1,1,1,0,0,1
+277662,6 Jul 2014,v West Indies,Roseau,1,2,2,0,0,2
+277662,4 Dec 2014,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+277662,8 Apr 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+277662,12 Apr 2015,v Kings XI,Wankhede,1,0,0,0,0,0
+277662,14 Apr 2015,v RR,Ahmedabad,2,1,1,0,0,1
+277662,17 Apr 2015,v CSK,Wankhede,2,0,0,0,0,0
+277662,12 Nov 2015,v Wellington,Hamilton,2,0,0,0,0,0
+277662,15 Nov 2015,v Canterbury,Whangarei,2,0,0,0,0,0
+277662,26 Nov 2015,v Central D,Hamilton,1,1,1,0,0,1
+277662,29 Nov 2015,v Central D,New Plymouth,2,0,0,0,0,0
+277662,5 Dec 2015,v Auckland,Hamilton,1,0,0,0,0,0
+277662,6 Dec 2015,v Otago,Mount Maunganui,1,0,0,0,0,0
+277662,7 Jan 2016,v Sri Lanka,Mount Maunganui,2,0,0,0,0,0
+277662,10 Jan 2016,v Sri Lanka,Auckland,1,0,0,0,0,0
+277662,15 Jan 2016,v Pakistan,Auckland,1,0,0,0,0,0
+277662,17 Jan 2016,v Pakistan,Hamilton,1,0,0,0,0,0
+277662,22 Jan 2016,v Pakistan,Wellington,2,0,0,0,0,0
+277662,15 Mar 2016,v India,Nagpur,2,0,0,0,0,0
+277662,18 Mar 2016,v Australia,Dharamsala,2,0,0,0,0,0
+277662,22 Mar 2016,v Pakistan,Mohali,2,1,1,0,0,1
+277662,26 Mar 2016,v Bangladesh,Eden Gardens,2,0,0,0,0,0
+277662,30 Mar 2016,v England,Delhi,2,0,0,0,0,0
+277662,4 Dec 2016,v Wellington,Hamilton,2,0,0,0,0,0
+277662,10 Dec 2016,v Central D,New Plymouth,-,TDNF,-,-,-,-
+277662,14 Dec 2016,v Otago,Dunedin,1,1,1,0,0,1
+277662,17 Dec 2016,v Auckland,Hamilton,1,0,0,0,0,0
+277662,18 Dec 2016,v Otago,Mount Maunganui,2,0,0,0,0,0
+277662,23 Dec 2016,v Central D,Hamilton,2,1,1,0,0,1
+277662,27 Dec 2016,v Auckland,Mount Maunganui,1,0,0,0,0,0
+277662,29 Dec 2016,v Canterbury,Mount Maunganui,1,0,0,0,0,0
+277662,30 Dec 2016,v Wellington,Hamilton,2,1,1,0,0,1
+277662,3 Jan 2017,v Bangladesh,Napier,1,2,2,0,0,2
+277662,6 Jan 2017,v Bangladesh,Mount Maunganui,2,0,0,0,0,0
+277662,8 Jan 2017,v Bangladesh,Mount Maunganui,2,1,1,0,0,1
+277662,17 Feb 2017,v South Africa,Auckland,1,1,1,0,0,1
+277662,11 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+277662,15 Apr 2017,v Kings XI,Delhi,2,0,0,0,0,0
+277662,22 Apr 2017,v MI,Wankhede,1,1,1,0,0,1
+277662,28 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+277662,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+277662,2 May 2017,v SRH,Delhi,1,0,0,0,0,0
+277662,4 May 2017,v Guj Lions,Delhi,1,1,1,0,0,1
+277662,6 May 2017,v MI,Delhi,1,0,0,0,0,0
+277662,10 May 2017,v Guj Lions,Kanpur,1,1,1,0,0,1
+277662,12 May 2017,v Supergiant,Delhi,2,1,1,0,0,1
+277662,14 May 2017,v RCB,Delhi,1,1,1,0,0,1
+277662,9 Jul 2017,v Surrey,The Oval,1,0,0,0,0,0
+277662,23 Jul 2017,v Middlesex,Taunton,1,0,0,0,0,0
+277662,26 Jul 2017,v Hampshire,Taunton,2,0,0,0,0,0
+277662,30 Jul 2017,v Sussex,Taunton,2,0,0,0,0,0
+277662,17 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+277662,21 Apr 2018,v Daredevils,Bengaluru,1,0,0,0,0,0
+277662,25 Apr 2018,v CSK,Bengaluru,2,0,0,0,0,0
+277662,6 Jul 2018,v Gloucs,Taunton,1,0,0,0,0,0
+277662,8 Jul 2018,v Kent,Taunton,2,0,0,0,0,0
+277662,13 Jul 2018,v Gloucs,Bristol,2,2,2,0,0,2
+277662,19 Jul 2018,v Middlesex,Lord's,1,0,0,0,0,0
+277662,20 Jul 2018,v Glamorgan,Cardiff,2,0,0,0,0,0
+277662,27 Jul 2018,v Surrey,The Oval,2,0,0,0,0,0
+277662,29 Jul 2018,v Middlesex,Taunton,2,0,0,0,0,0
+277662,1 Aug 2018,v Hampshire,Taunton,2,0,0,0,0,0
+277662,3 Aug 2018,v Essex,Taunton,1,0,0,0,0,0
+277662,5 Aug 2018,v Sussex,Hove,1,0,0,0,0,0
+277662,8 Aug 2018,v Hampshire,Southampton,1,0,0,0,0,0
+277662,10 Aug 2018,v Surrey,Taunton,1,0,0,0,0,0
+277662,12 Aug 2018,v Glamorgan,Taunton,2,0,0,0,0,0
+277662,16 Aug 2018,v Kent,Canterbury,1,1,1,0,0,1
+277662,26 Aug 2018,v Notts,Taunton,2,0,0,0,0,0
+277662,15 Sep 2018,v Sussex,Birmingham,1,0,0,0,0,0
+277662,12 Oct 2018,v Pakistan A,ICCA Dubai,2,0,0,0,0,0
+277662,15 Oct 2018,v Pakistan A,ICCA Dubai,1,0,0,0,0,0
+277662,17 Oct 2018,v Pakistan A,ICCA Dubai,1,0,0,0,0,0
+277662,31 Oct 2018,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+277662,2 Nov 2018,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+277662,30 Dec 2018,v Otago,Alexandra,1,0,0,0,0,0
+277662,6 Jan 2019,v Auckland,Hamilton,2,0,0,0,0,0
+277662,9 Jan 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+277662,12 Jan 2019,v Wellington,Wellington,2,0,0,0,0,0
+277662,16 Jan 2019,v Canterbury,Hamilton,2,0,0,0,0,0
+277662,25 Jan 2019,v Central D,Napier,2,0,0,0,0,0
+277662,2 Feb 2019,v Auckland,Auckland,2,0,0,0,0,0
+277662,9 Feb 2019,v Otago,Mount Maunganui,2,0,0,0,0,0
+277662,17 Feb 2019,v Central D,Hamilton,1,0,0,0,0,0
+277662,23 Feb 2019,v Gladiators,Sharjah,2,0,0,0,0,0
+277662,27 Feb 2019,v Gladiators,Dubai (DICS),1,0,0,0,0,0
+277662,28 Feb 2019,v Kings,Dubai (DICS),2,0,0,0,0,0
+277662,14 Dec 2019,v Otago,Auckland,1,0,0,0,0,0
+277662,17 Dec 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+277662,19 Dec 2019,v Otago,Dunedin,1,0,0,0,0,0
+277662,22 Dec 2019,v Northern Dis,Hamilton,1,0,0,0,0,0
+277662,28 Dec 2019,v Central D,New Plymouth,2,0,0,0,0,0
+277662,30 Dec 2019,v Wellington,Auckland,2,0,0,0,0,0
+277662,1 Jan 2020,v Canterbury,Auckland,1,0,0,0,0,0
+277662,4 Jan 2020,v Central D,Auckland,1,0,0,0,0,0
+277662,10 Jan 2020,v Northern Dis,Auckland,2,0,0,0,0,0
+277662,18 Aug 2020,v Patriots,Tarouba,2,0,0,0,0,0
+277662,20 Aug 2020,v Zouks,Tarouba,2,0,0,0,0,0
+277662,23 Aug 2020,v Trinbago,Tarouba,1,0,0,0,0,0
+277662,25 Aug 2020,v Patriots,Port of Spain,2,0,0,0,0,0
+277662,26 Aug 2020,v Tallawahs,Port of Spain,2,1,1,0,0,1
+277662,29 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+277662,30 Aug 2020,v Zouks,Port of Spain,1,0,0,0,0,0
+277662,11 Dec 2023,v Sixers,Launceston,2,0,0,0,0,0
+277662,20 Dec 2023,v Scorchers,Perth,2,0,0,0,0,0
+277662,23 Dec 2023,v Renegades,Hobart,1,0,0,0,0,0
+277662,28 Dec 2023,v Stars,Hobart,2,1,1,0,0,1
+277662,1 Jan 2024,v Thunder,Hobart,1,1,1,0,0,1
+277662,4 Jan 2024,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+277662,7 Jan 2024,v Heat,Brisbane,1,0,0,0,0,0
+277662,9 Jan 2024,v Strikers,Adelaide,2,0,0,0,0,0
+277662,11 Jan 2024,v Strikers,Hobart,2,0,0,0,0,0
+277662,20 Jan 2024,v DC,Dubai (DICS),2,1,1,0,0,1
+277662,12 Apr 2024,v Canada,Prairie View,2,0,0,0,0,0
+277662,13 Apr 2024,v Canada,Prairie View,1,0,0,0,0,0
+277662,21 May 2024,v Bangladesh,Prairie View,1,0,0,0,0,0
+277662,23 May 2024,v Bangladesh,Prairie View,2,0,0,0,0,0
+277662,25 May 2024,v Bangladesh,Prairie View,2,0,0,0,0,0
+277662,1 Jun 2024,v Canada,Dallas,1,1,1,0,0,1
+277662,6 Jun 2024,v Pakistan,Dallas,1,0,0,0,0,0
+277662,12 Jun 2024,v India,New York,2,0,0,0,0,0
+277662,19 Jun 2024,v South Africa,North Sound,1,1,1,0,0,1
+277662,21 Jun 2024,v West Indies,Bridgetown,2,0,0,0,0,0
+277662,23 Jun 2024,v England,Bridgetown,2,0,0,0,0,0
+277662,7 Jul 2024,v Los Angeles,Dallas,1,0,0,0,0,0
+277662,10 Jul 2024,v Texas,Morrisville,2,0,0,0,0,0
+277662,15 Jul 2024,v Seattle,Morrisville,2,0,0,0,0,0
+277662,18 Jul 2024,v MI New York,Dallas,2,0,0,0,0,0
+277662,20 Jul 2024,v Seattle,Dallas,1,1,1,0,0,1
+277662,22 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+277662,25 Jul 2024,v Washington,Dallas,2,0,0,0,0,0
+277662,26 Jul 2024,v Texas,Dallas,2,1,1,0,0,1
+277662,28 Jul 2024,v Washington,Dallas,1,0,0,0,0,0
+277662,29 Nov 2024,v Amazon,Providence,1,0,0,0,0,0
+277662,1 Dec 2024,v Rangpur,Providence,2,0,0,0,0,0
+277662,3 Dec 2024,v Qalandars,Providence,1,2,2,0,0,2
+277662,5 Dec 2024,v Hampshire,Providence,2,1,1,0,0,1
+277662,6 Dec 2024,v Rangpur,Providence,1,0,0,0,0,0
+277662,12 Jun 2025,v Washington,Oakland,2,0,0,0,0,0
+277662,14 Jun 2025,v Los Angeles,Oakland,2,0,0,0,0,0
+277662,15 Jun 2025,v MI New York,Oakland,1,0,0,0,0,0

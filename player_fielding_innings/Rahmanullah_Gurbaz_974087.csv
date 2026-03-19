@@ -1,0 +1,263 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+974087,12 Sep 2017,v BEAD,Kabul,2,1,1,0,1,0
+974087,13 Sep 2017,v BDD,Kabul,1,0,0,0,0,0
+974087,10 Oct 2018,v Legends,Sharjah,2,1,1,0,0,1
+974087,12 Oct 2018,v Knights,Sharjah,2,1,1,0,0,1
+974087,13 Oct 2018,v Legends,Sharjah,1,0,0,0,0,0
+974087,14 Oct 2018,v KingsLeopard,Sharjah,1,0,0,0,0,0
+974087,20 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+974087,14 Sep 2019,v Zimbabwe,Mirpur,2,1,1,0,1,0
+974087,15 Sep 2019,v Bangladesh,Mirpur,2,0,0,0,0,0
+974087,20 Sep 2019,v Zimbabwe,Chattogram,2,0,0,0,0,0
+974087,21 Sep 2019,v Bangladesh,Chattogram,2,1,1,0,1,0
+974087,8 Oct 2019,v BDD,Kabul,2,0,0,0,0,0
+974087,9 Oct 2019,v BEAD,Kabul,2,1,0,1,0,0
+974087,11 Oct 2019,v SGT,Kabul,1,0,0,0,0,0
+974087,13 Oct 2019,v Kabul Eagles,Kabul,1,1,1,0,1,0
+974087,14 Oct 2019,v Amo Sharks,Kabul,2,1,1,0,1,0
+974087,16 Oct 2019,v BEAD,Kabul,1,0,0,0,0,0
+974087,18 Oct 2019,v BEAD,Kabul,1,1,1,0,1,0
+974087,14 Nov 2019,v West Indies,Lucknow,1,1,1,0,1,0
+974087,16 Nov 2019,v West Indies,Lucknow,2,2,1,1,1,0
+974087,17 Nov 2019,v West Indies,Lucknow,2,0,0,0,0,0
+974087,12 Dec 2019,v Chattogram,Mirpur,1,0,0,0,0,0
+974087,17 Dec 2019,v Royals,Chattogram,1,0,0,0,0,0
+974087,20 Dec 2019,v Rangers,Chattogram,1,1,1,0,0,1
+974087,21 Dec 2019,v Thunder,Chattogram,1,1,1,0,0,1
+974087,23 Dec 2019,v Royals,Chattogram,2,0,0,0,0,0
+974087,6 Mar 2020,v Ireland,Greater Noida,1,0,0,0,0,0
+974087,8 Mar 2020,v Ireland,Greater Noida,2,0,0,0,0,0
+974087,10 Mar 2020,v Ireland,Greater Noida,1,0,0,0,0,0
+974087,7 Sep 2020,v BDD,Kabul,1,1,1,0,1,0
+974087,8 Sep 2020,v MAK,Kabul,1,0,0,0,0,0
+974087,10 Sep 2020,v Amo Sharks,Kabul,2,3,2,1,2,0
+974087,12 Sep 2020,v BEAD,Kabul,1,0,0,0,0,0
+974087,13 Sep 2020,v SGT,Kabul,1,1,0,1,0,0
+974087,14 Sep 2020,v MAK,Kabul,1,0,0,0,0,0
+974087,16 Sep 2020,v MAK,Kabul,2,1,1,0,1,0
+974087,26 Nov 2020,v Kings,Hambantota,2,1,1,0,0,1
+974087,28 Nov 2020,v Viiking,Hambantota,1,1,1,0,0,1
+974087,30 Nov 2020,v Galle,Hambantota,2,1,1,0,0,1
+974087,1 Dec 2020,v Stallions,Hambantota,1,0,0,0,0,0
+974087,3 Dec 2020,v Viiking,Hambantota,2,1,1,0,0,1
+974087,5 Dec 2020,v Kings,Hambantota,2,0,0,0,0,0
+974087,9 Dec 2020,v Stallions,Hambantota,1,1,1,0,0,1
+974087,10 Dec 2020,v Galle,Hambantota,2,0,0,0,0,0
+974087,17 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+974087,19 Mar 2021,v Zimbabwe,Abu Dhabi,2,0,0,0,0,0
+974087,20 Mar 2021,v Zimbabwe,Abu Dhabi,2,2,2,0,2,0
+974087,10 Jun 2021,v Kings,Abu Dhabi,2,1,1,0,0,1
+974087,25 Oct 2021,v Scotland,Sharjah,2,0,0,0,0,0
+974087,29 Oct 2021,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+974087,31 Oct 2021,v Namibia,Abu Dhabi,2,0,0,0,0,0
+974087,3 Nov 2021,v India,Abu Dhabi,1,0,0,0,0,0
+974087,7 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+974087,5 Dec 2021,v Galle,Colombo (RPS),1,2,2,0,2,0
+974087,7 Dec 2021,v Dambulla,Colombo (RPS),1,2,2,0,2,0
+974087,8 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+974087,10 Dec 2021,v Stars,Colombo (RPS),2,4,3,1,3,0
+974087,17 Dec 2021,v Galle,Colombo (RPS),1,0,0,0,0,0
+974087,19 Dec 2021,v Galle,Hambantota,1,1,1,0,1,0
+974087,21 Dec 2021,v Dambulla,Hambantota,2,0,0,0,0,0
+974087,23 Dec 2021,v Galle,Hambantota,2,0,0,0,0,0
+974087,30 Jan 2022,v Zalmi,Karachi,1,0,0,0,0,0
+974087,1 Feb 2022,v Sultans,Karachi,1,0,0,0,0,0
+974087,12 Feb 2022,v Gladiators,Lahore,2,0,0,0,0,0
+974087,14 Feb 2022,v Kings,Lahore,2,1,1,0,0,1
+974087,17 Feb 2022,v Zalmi,Lahore,1,2,2,0,0,2
+974087,19 Feb 2022,v Qalandars,Lahore,1,1,1,0,0,1
+974087,3 Mar 2022,v Bangladesh,Mirpur,1,0,0,0,0,0
+974087,5 Mar 2022,v Bangladesh,Mirpur,1,1,1,0,1,0
+974087,11 Jun 2022,v Zimbabwe,Harare,1,1,0,1,0,0
+974087,12 Jun 2022,v Zimbabwe,Harare,2,1,1,0,1,0
+974087,18 Jul 2022,v BEAD,Kabul,1,0,0,0,0,0
+974087,20 Jul 2022,v SGT,Kabul,2,1,1,0,0,1
+974087,22 Jul 2022,v MAK,Kabul,1,1,1,0,0,1
+974087,25 Jul 2022,v Amo Sharks,Kabul,1,0,0,0,0,0
+974087,28 Jul 2022,v Pamir Zalmi,Kabul,1,0,0,0,0,0
+974087,30 Jul 2022,v Stars,Kabul,1,2,2,0,0,2
+974087,1 Aug 2022,v BDD,Kabul,2,1,1,0,0,1
+974087,2 Aug 2022,v MAK,Kabul,1,1,0,1,0,0
+974087,3 Aug 2022,v SGT,Kabul,1,0,0,0,0,0
+974087,9 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974087,11 Aug 2022,v Ireland,Belfast,2,2,2,0,2,0
+974087,12 Aug 2022,v Ireland,Belfast,2,1,1,0,1,0
+974087,15 Aug 2022,v Ireland,Belfast,2,1,1,0,1,0
+974087,17 Aug 2022,v Ireland,Belfast,2,0,0,0,0,0
+974087,27 Aug 2022,v Sri Lanka,Dubai (DICS),1,2,2,0,2,0
+974087,30 Aug 2022,v Bangladesh,Sharjah,1,0,0,0,0,0
+974087,3 Sep 2022,v Sri Lanka,Sharjah,2,1,1,0,1,0
+974087,7 Sep 2022,v Pakistan,Sharjah,2,0,0,0,0,0
+974087,8 Sep 2022,v India,Dubai (DICS),1,0,0,0,0,0
+974087,21 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+974087,22 Sep 2022,v Kings,Providence,1,1,0,1,0,0
+974087,24 Sep 2022,v Trinbago,Providence,2,3,2,1,2,0
+974087,25 Sep 2022,v Royals,Providence,1,1,1,0,1,0
+974087,27 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+974087,28 Sep 2022,v Tallawahs,Providence,1,1,1,0,1,0
+974087,22 Oct 2022,v England,Perth,2,0,0,0,0,0
+974087,1 Nov 2022,v Sri Lanka,Brisbane,2,2,2,0,2,0
+974087,4 Nov 2022,v Australia,Adelaide,1,1,1,0,1,0
+974087,6 Dec 2022,v Galle,Hambantota,2,0,0,0,0,0
+974087,10 Dec 2022,v Kandy,Pallekele,2,0,0,0,0,0
+974087,11 Dec 2022,v Aura,Pallekele,2,1,1,0,0,1
+974087,12 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+974087,14 Dec 2022,v Kandy,Pallekele,1,1,1,0,0,1
+974087,18 Dec 2022,v Galle,Colombo (RPS),2,0,0,0,0,0
+974087,19 Dec 2022,v Stars,Colombo (RPS),1,0,0,0,0,0
+974087,21 Dec 2022,v Kandy,Colombo (RPS),1,1,1,0,0,1
+974087,23 Dec 2022,v Stars,Colombo (RPS),1,0,0,0,0,0
+974087,8 Feb 2023,v Chattogram,Mirpur,1,1,1,0,0,1
+974087,10 Feb 2023,v Victorians,Mirpur,1,0,0,0,0,0
+974087,16 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+974087,18 Feb 2023,v U.A.E.,Abu Dhabi,2,0,0,0,0,0
+974087,19 Feb 2023,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+974087,23 Feb 2023,v Zalmi,Karachi,1,0,0,0,0,0
+974087,24 Feb 2023,v Gladiators,Karachi,2,0,0,0,0,0
+974087,27 Feb 2023,v Qalandars,Lahore,1,1,1,0,0,1
+974087,5 Mar 2023,v Gladiators,Rawalpindi,1,0,0,0,0,0
+974087,7 Mar 2023,v Sultans,Rawalpindi,1,1,1,0,0,1
+974087,9 Mar 2023,v Qalandars,Rawalpindi,1,0,0,0,0,0
+974087,12 Mar 2023,v Zalmi,Rawalpindi,1,0,0,0,0,0
+974087,16 Mar 2023,v Zalmi,Lahore,1,0,0,0,0,0
+974087,24 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+974087,26 Mar 2023,v Pakistan,Sharjah,1,2,2,0,2,0
+974087,27 Mar 2023,v Pakistan,Sharjah,1,0,0,0,0,0
+974087,1 Apr 2023,v Punjab Kings,Mohali,1,1,1,0,1,0
+974087,6 Apr 2023,v RCB,Eden Gardens,2,0,0,0,0,0
+974087,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+974087,14 Apr 2023,v SRH,Eden Gardens,1,1,1,0,1,0
+974087,16 Apr 2023,v MI,Wankhede,2,2,2,0,2,0
+974087,29 Apr 2023,v GT,Eden Gardens,2,0,0,0,0,0
+974087,4 May 2023,v SRH,Hyderabad,2,2,2,0,2,0
+974087,8 May 2023,v Punjab Kings,Eden Gardens,1,4,4,0,4,0
+974087,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+974087,14 May 2023,v CSK,Chennai,1,0,0,0,0,0
+974087,20 May 2023,v LSG,Eden Gardens,1,0,0,0,0,0
+974087,14 Jul 2023,v Bangladesh,Sylhet,2,2,2,0,2,0
+974087,16 Jul 2023,v Bangladesh,Sylhet,2,0,0,0,0,0
+974087,30 Jul 2023,v Colombo,Colombo (RPS),2,0,0,0,0,0
+974087,1 Aug 2023,v Aura,Colombo (RPS),2,0,0,0,0,0
+974087,4 Aug 2023,v Galle Titans,Pallekele,1,1,0,1,0,0
+974087,5 Aug 2023,v B-Love Kandy,Pallekele,2,0,0,0,0,0
+974087,7 Aug 2023,v Aura,Pallekele,1,0,0,0,0,0
+974087,8 Aug 2023,v Colombo,Pallekele,1,0,0,0,0,0
+974087,12 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+974087,13 Aug 2023,v Galle Titans,Colombo (RPS),2,0,0,0,0,0
+974087,17 Aug 2023,v B-Love Kandy,Colombo (RPS),1,1,0,1,0,0
+974087,29 Dec 2023,v U.A.E.,Sharjah,2,0,0,0,0,0
+974087,31 Dec 2023,v U.A.E.,Sharjah,1,0,0,0,0,0
+974087,2 Jan 2024,v U.A.E.,Sharjah,1,2,1,1,1,0
+974087,11 Jan 2024,v India,Mohali,2,1,0,1,0,0
+974087,14 Jan 2024,v India,Indore,2,1,1,0,1,0
+974087,17 Jan 2024,v India,Bengaluru,1,1,1,0,1,0
+974087,20 Jan 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+974087,22 Jan 2024,v Warriors,Dubai (DICS),2,2,2,0,2,0
+974087,25 Jan 2024,v KnightRiders,Dubai (DICS),1,1,1,0,1,0
+974087,27 Jan 2024,v Gulf Giants,Sharjah,2,0,0,0,0,0
+974087,29 Jan 2024,v Warriors,Sharjah,2,0,0,0,0,0
+974087,1 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+974087,3 Feb 2024,v KnightRiders,Abu Dhabi,1,3,3,0,3,0
+974087,6 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+974087,17 Feb 2024,v Sri Lanka,Dambulla,1,2,2,0,2,0
+974087,19 Feb 2024,v Sri Lanka,Dambulla,1,0,0,0,0,0
+974087,21 Feb 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+974087,15 Mar 2024,v Ireland,Sharjah,1,1,1,0,0,1
+974087,17 Mar 2024,v Ireland,Sharjah,2,0,0,0,0,0
+974087,18 Mar 2024,v Ireland,Sharjah,2,1,1,0,0,1
+974087,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+974087,21 May 2024,v SRH,Ahmedabad,1,2,2,0,2,0
+974087,26 May 2024,v SRH,Chennai,1,3,3,0,3,0
+974087,3 Jun 2024,v Uganda,Providence,2,2,2,0,2,0
+974087,7 Jun 2024,v New Zealand,Providence,2,1,1,0,1,0
+974087,13 Jun 2024,v P.N.G.,Tarouba,1,2,2,0,2,0
+974087,17 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+974087,20 Jun 2024,v India,Bridgetown,1,0,0,0,0,0
+974087,22 Jun 2024,v Australia,Kingstown,2,1,1,0,1,0
+974087,24 Jun 2024,v Bangladesh,Kingstown,2,0,0,0,0,0
+974087,26 Jun 2024,v South Africa,Tarouba,2,0,0,0,0,0
+974087,2 Jul 2024,v Kandy,Pallekele,2,0,0,0,0,0
+974087,3 Jul 2024,v Galle,Pallekele,1,2,2,0,0,2
+974087,6 Jul 2024,v Kandy,Dambulla,2,0,0,0,0,0
+974087,7 Jul 2024,v Sixers,Dambulla,2,0,0,0,0,0
+974087,10 Jul 2024,v Jaffna Kings,Dambulla,2,1,0,1,0,0
+974087,14 Jul 2024,v Jaffna Kings,Colombo (RPS),1,3,2,1,2,0
+974087,15 Jul 2024,v Galle,Colombo (RPS),1,0,0,0,0,0
+974087,16 Jul 2024,v Sixers,Colombo (RPS),1,2,2,0,2,0
+974087,18 Jul 2024,v Kandy,Colombo (RPS),2,1,1,0,1,0
+974087,14 Aug 2024,v MAK,Kabul,2,0,0,0,0,0
+974087,17 Aug 2024,v Amo Sharks,Kabul,1,0,0,0,0,0
+974087,18 Aug 2024,v BEAD,Kabul,1,1,1,0,0,1
+974087,30 Aug 2024,v Falcons,North Sound,1,0,0,0,0,0
+974087,4 Sep 2024,v Patriots,Basseterre,2,1,1,0,0,1
+974087,7 Sep 2024,v Kings,Gros Islet,1,0,0,0,0,0
+974087,25 Sep 2024,v Royals,Providence,2,0,0,0,0,0
+974087,28 Sep 2024,v Kings,Providence,2,0,0,0,0,0
+974087,29 Sep 2024,v Trinbago,Providence,1,0,0,0,0,0
+974087,2 Oct 2024,v Kings,Providence,1,2,2,0,0,2
+974087,4 Oct 2024,v Royals,Providence,1,0,0,0,0,0
+974087,6 Oct 2024,v Kings,Providence,2,0,0,0,0,0
+974087,11 Dec 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+974087,13 Dec 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+974087,14 Dec 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+974087,10 Jan 2025,v Super Giants,Durban,1,0,0,0,0,0
+974087,12 Jan 2025,v Super Giants,Centurion,-,TDNF,-,-,-,-
+974087,14 Jan 2025,v Sunrisers,Centurion,1,1,1,0,0,1
+974087,16 Jan 2025,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+974087,18 Jan 2025,v Paarl Royals,Centurion,2,0,0,0,0,0
+974087,22 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+974087,25 Jan 2025,v Paarl Royals,Paarl,1,0,0,0,0,0
+974087,5 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+974087,7 Feb 2025,v Warriorz,Sharjah,1,1,1,0,0,1
+974087,9 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+974087,21 Apr 2025,v GT,Eden Gardens,1,1,1,0,1,0
+974087,26 Apr 2025,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+974087,29 Apr 2025,v DC,Delhi,2,1,1,0,1,0
+974087,4 May 2025,v RR,Eden Gardens,2,0,0,0,0,0
+974087,7 May 2025,v CSK,Eden Gardens,2,0,0,0,0,0
+974087,10 Jul 2025,v Rangpur,Providence,1,0,0,0,0,0
+974087,11 Jul 2025,v Central D,Providence,2,0,0,0,0,0
+974087,13 Jul 2025,v DC,Providence,2,2,1,1,1,0
+974087,16 Jul 2025,v Hurricanes,Providence,1,1,0,1,0,0
+974087,18 Jul 2025,v Rangpur,Providence,2,0,0,0,0,0
+974087,22 Jul 2025,v Amo Sharks,Kabul,1,0,0,0,0,0
+974087,25 Jul 2025,v Amo Sharks,Kabul,1,0,0,0,0,0
+974087,26 Jul 2025,v BDD,Kabul,2,0,0,0,0,0
+974087,28 Jul 2025,v SGT,Kabul,1,1,1,0,0,1
+974087,29 Jul 2025,v BEAD,Kabul,2,0,0,0,0,0
+974087,31 Jul 2025,v Amo Sharks,Kabul,2,0,0,0,0,0
+974087,29 Aug 2025,v Pakistan,Sharjah,1,0,0,0,0,0
+974087,1 Sep 2025,v U.A.E.,Sharjah,2,0,0,0,0,0
+974087,2 Sep 2025,v Pakistan,Sharjah,2,1,1,0,1,0
+974087,5 Sep 2025,v U.A.E.,Sharjah,2,3,3,0,0,3
+974087,7 Sep 2025,v Pakistan,Sharjah,1,1,1,0,1,0
+974087,9 Sep 2025,v Hong Kong,Abu Dhabi,2,1,1,0,1,0
+974087,16 Sep 2025,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+974087,18 Sep 2025,v Sri Lanka,Abu Dhabi,2,1,1,0,1,0
+974087,2 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+974087,3 Oct 2025,v Bangladesh,Sharjah,2,1,1,0,1,0
+974087,5 Oct 2025,v Bangladesh,Sharjah,2,0,0,0,0,0
+974087,29 Oct 2025,v Zimbabwe,Harare,2,3,3,0,3,0
+974087,31 Oct 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+974087,2 Nov 2025,v Zimbabwe,Harare,2,1,1,0,1,0
+974087,4 Dec 2025,v MI Emirates,Dubai (DICS),1,2,1,1,0,1
+974087,6 Dec 2025,v DC,Dubai (DICS),1,1,1,0,0,1
+974087,8 Dec 2025,v Vipers,Dubai (DICS),2,1,1,0,0,1
+974087,10 Dec 2025,v Warriorz,Dubai (DICS),1,0,0,0,0,0
+974087,12 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+974087,15 Dec 2025,v Warriorz,Sharjah,1,0,0,0,0,0
+974087,18 Dec 2025,v KnightRiders,Abu Dhabi,2,2,1,1,1,0
+974087,21 Dec 2025,v DC,Abu Dhabi,2,0,0,0,0,0
+974087,23 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+974087,28 Dec 2025,v KnightRiders,Dubai (DICS),1,0,0,0,0,0
+974087,4 Jan 2026,v Rangpur,Sylhet,1,0,0,0,0,0
+974087,7 Jan 2026,v Noakhali,Sylhet,1,0,0,0,0,0
+974087,8 Jan 2026,v Sylhet,Sylhet,1,0,0,0,0,0
+974087,11 Jan 2026,v Noakhali,Sylhet,1,0,0,0,0,0
+974087,19 Jan 2026,v West Indies,Dubai (DICS),2,1,1,0,1,0
+974087,21 Jan 2026,v West Indies,Dubai (DICS),2,0,0,0,0,0
+974087,22 Jan 2026,v West Indies,Dubai (DICS),1,0,0,0,0,0
+974087,8 Feb 2026,v New Zealand,Chennai,2,0,0,0,0,0
+974087,11 Feb 2026,v South Africa,Ahmedabad,1,0,0,0,0,0
+974087,16 Feb 2026,v U.A.E.,Delhi,1,2,2,0,2,0
+974087,19 Feb 2026,v Canada,Chennai,2,0,0,0,0,0

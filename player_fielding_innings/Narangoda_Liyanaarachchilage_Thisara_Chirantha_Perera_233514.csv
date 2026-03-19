@@ -1,0 +1,386 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+233514,17 Apr 2008,v Basnahira N,Colombo (Colts),1,0,0,0,0,0
+233514,18 Apr 2008,v Ruhuna,Colombo (Colts),2,0,0,0,0,0
+233514,21 Apr 2008,v Kandurata,Colombo (Colts),2,0,0,0,0,0
+233514,23 Apr 2008,v Basnahira S,Colombo (Colts),1,2,2,0,0,2
+233514,24 Apr 2008,v Schls Inv XI,Colombo (Colts),1,0,0,0,0,0
+233514,30 Apr 2008,v Kandurata,Kurunegala,2,0,0,0,0,0
+233514,1 May 2008,v Ruhuna,Kurunegala,2,0,0,0,0,0
+233514,25 Mar 2009,v Basnahira S,Colombo (SSC),1,1,1,0,0,1
+233514,26 Mar 2009,v Schls Inv XI,Colombo (Moors),1,0,0,0,0,0
+233514,28 Mar 2009,v Ruhuna,Colombo (SSC),1,1,1,0,0,1
+233514,29 Mar 2009,v Basnahira N,Colombo (Colts),2,1,1,0,0,1
+233514,31 Mar 2009,v Kandurata,Colombo (SSC),1,1,1,0,0,1
+233514,4 Apr 2009,v Ruhuna,Colombo (SSC),1,0,0,0,0,0
+233514,5 Apr 2009,v Basnahira S,Colombo (SSC),1,1,1,0,0,1
+233514,13 Oct 2009,v Victoria,Delhi,2,1,1,0,0,1
+233514,24 Feb 2010,v Basnahira S,Pallekele,1,0,0,0,0,0
+233514,25 Feb 2010,v SLC Comb XI,Kandy,1,0,0,0,0,0
+233514,27 Feb 2010,v Ruhuna,Kurunegala,1,0,0,0,0,0
+233514,28 Feb 2010,v Basnahira N,Kurunegala,1,0,0,0,0,0
+233514,4 Mar 2010,v Kandurata,Galle,2,2,2,0,0,2
+233514,6 Mar 2010,v Basnahira S,Moratuwa,1,0,0,0,0,0
+233514,7 Mar 2010,v Ruhuna,Moratuwa,2,0,0,0,0,0
+233514,25 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+233514,3 May 2010,v Zimbabwe,Providence,2,0,0,0,0,0
+233514,7 May 2010,v West Indies,Bridgetown,2,0,0,0,0,0
+233514,11 May 2010,v India,Gros Islet,1,0,0,0,0,0
+233514,13 May 2010,v England,Gros Islet,2,0,0,0,0,0
+233514,22 May 2010,v New Zealand,Lauderhill,1,0,0,0,0,0
+233514,23 May 2010,v New Zealand,Lauderhill,1,0,0,0,0,0
+233514,2 Jul 2010,v Australia A,Townsville,1,1,1,0,0,1
+233514,11 Sep 2010,v Warriors,Gqeberha,2,0,0,0,0,0
+233514,15 Sep 2010,v CSK,Centurion,1,1,1,0,0,1
+233514,20 Sep 2010,v Victoria,Centurion,2,0,0,0,0,0
+233514,22 Sep 2010,v Central D,Gqeberha,2,0,0,0,0,0
+233514,31 Oct 2010,v Australia,W.A.C.A,1,1,1,0,0,1
+233514,15 Apr 2011,v MI,Wankhede,1,0,0,0,0,0
+233514,18 Apr 2011,v CSK,Kochi,1,0,0,0,0,0
+233514,24 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+233514,27 Apr 2011,v Chargers,Kochi,1,0,0,0,0,0
+233514,25 Jun 2011,v England,Bristol,1,1,1,0,0,1
+233514,23 Jul 2011,v Ruhuna,Colombo (RPS),1,1,1,0,0,1
+233514,24 Jul 2011,v Kandurata,Colombo (RPS),1,0,0,0,0,0
+233514,27 Jul 2011,v Comb Prov,Colombo (RPS),2,1,1,0,0,1
+233514,31 Jul 2011,v Ruhuna,Colombo (RPS),1,0,0,0,0,0
+233514,8 Aug 2011,v Australia,Pallekele,2,1,1,0,0,1
+233514,25 Nov 2011,v Pakistan,Abu Dhabi,2,1,1,0,0,1
+233514,22 Apr 2012,v Kings XI,Wankhede,2,1,1,0,0,1
+233514,3 May 2012,v Warriors,Pune,2,1,1,0,0,1
+233514,1 Jun 2012,v Pakistan,Hambantota,2,1,1,0,0,1
+233514,3 Jun 2012,v Pakistan,Hambantota,1,0,0,0,0,0
+233514,7 Aug 2012,v India,Pallekele,1,0,0,0,0,0
+233514,11 Aug 2012,v Basnahira CD,Colombo (RPS),1,0,0,0,0,0
+233514,13 Aug 2012,v Nagenahira,Colombo (RPS),2,0,0,0,0,0
+233514,18 Aug 2012,v Uthura,Pallekele,2,0,0,0,0,0
+233514,20 Aug 2012,v Ruhuna Ryls,Pallekele,2,1,1,0,0,1
+233514,24 Aug 2012,v Wayamba U,Colombo (RPS),2,1,1,0,0,1
+233514,18 Sep 2012,v Zimbabwe,Hambantota,2,0,0,0,0,0
+233514,22 Sep 2012,v South Africa,Hambantota,1,0,0,0,0,0
+233514,27 Sep 2012,v New Zealand,Pallekele,1,2,2,0,0,2
+233514,29 Sep 2012,v West Indies,Pallekele,1,0,0,0,0,0
+233514,1 Oct 2012,v England,Pallekele,2,0,0,0,0,0
+233514,4 Oct 2012,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+233514,7 Oct 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+233514,22 Oct 2012,v Sixers,Durban,1,1,1,0,0,1
+233514,30 Oct 2012,v New Zealand,Pallekele,1,1,1,0,0,1
+233514,9 Dec 2012,v Hurricanes,Brisbane,2,0,0,0,0,0
+233514,13 Dec 2012,v Strikers,Adelaide,1,0,0,0,0,0
+233514,18 Dec 2012,v Scorchers,Brisbane,2,0,0,0,0,0
+233514,22 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+233514,28 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+233514,3 Jan 2013,v Stars,Brisbane,2,0,0,0,0,0
+233514,26 Jan 2013,v Australia,Sydney,1,0,0,0,0,0
+233514,28 Jan 2013,v Australia,Melbourne,2,1,1,0,0,1
+233514,31 Mar 2013,v Bangladesh,Pallekele,2,0,0,0,0,0
+233514,5 Apr 2013,v Warriors,Hyderabad,2,0,0,0,0,0
+233514,7 Apr 2013,v RCB,Hyderabad,1,0,0,0,0,0
+233514,9 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+233514,12 Apr 2013,v Daredevils,Delhi,1,0,0,0,0,0
+233514,14 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+233514,17 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+233514,19 Apr 2013,v Kings XI,Hyderabad,1,1,1,0,0,1
+233514,27 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+233514,1 May 2013,v MI,Hyderabad,1,0,0,0,0,0
+233514,4 May 2013,v Daredevils,Hyderabad,1,0,0,0,0,0
+233514,8 May 2013,v CSK,Hyderabad,1,0,0,0,0,0
+233514,11 May 2013,v Kings XI,Mohali,2,1,1,0,0,1
+233514,13 May 2013,v MI,Wankhede,2,0,0,0,0,0
+233514,17 May 2013,v RR,Hyderabad,2,1,1,0,0,1
+233514,19 May 2013,v KKR,Hyderabad,1,2,2,0,0,2
+233514,22 May 2013,v RR,Delhi,2,0,0,0,0,0
+233514,2 Aug 2013,v South Africa,Colombo (RPS),1,0,0,0,0,0
+233514,4 Aug 2013,v South Africa,Hambantota,1,0,0,0,0,0
+233514,6 Aug 2013,v South Africa,Hambantota,1,0,0,0,0,0
+233514,10 Aug 2013,v Bas Greens,Colombo (RPS),1,2,2,0,0,2
+233514,12 Aug 2013,v Ruhuna Reds,Colombo (RPS),1,0,0,0,0,0
+233514,14 Aug 2013,v Kandurata Ma,Colombo (RPS),2,0,0,0,0,0
+233514,17 Sep 2013,v Kandurata Ma,Mohali,1,0,0,0,0,0
+233514,18 Sep 2013,v Wolves,Mohali,1,1,1,0,0,1
+233514,24 Sep 2013,v Trinidad & T,Mohali,1,0,0,0,0,0
+233514,26 Sep 2013,v CSK,Ranchi,1,1,1,0,0,1
+233514,28 Sep 2013,v Titans,Ranchi,2,1,1,0,0,1
+233514,21 Nov 2013,v New Zealand,Pallekele,1,0,0,0,0,0
+233514,11 Dec 2013,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+233514,13 Dec 2013,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+233514,12 Feb 2014,v Bangladesh,Chattogram,2,2,2,0,0,2
+233514,14 Feb 2014,v Bangladesh,Chattogram,1,0,0,0,0,0
+233514,22 Mar 2014,v South Africa,Chattogram,2,0,0,0,0,0
+233514,24 Mar 2014,v Netherlands,Chattogram,1,0,0,0,0,0
+233514,27 Mar 2014,v England,Chattogram,2,0,0,0,0,0
+233514,31 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+233514,6 Apr 2014,v India,Mirpur,1,1,1,0,0,1
+233514,18 May 2014,v Sussex,Hove,1,0,0,0,0,0
+233514,20 May 2014,v England,The Oval,2,0,0,0,0,0
+233514,27 Jun 2014,v Troopers,Colombo (SSC),1,0,0,0,0,0
+233514,28 Jun 2014,v Express,Colombo (SSC),1,0,0,0,0,0
+233514,18 Sep 2014,v Hurricanes,Mohali,1,0,0,0,0,0
+233514,20 Sep 2014,v Tridents,Mohali,1,0,0,0,0,0
+233514,26 Sep 2014,v Northern Dis,Mohali,2,0,0,0,0,0
+233514,28 Sep 2014,v Cape Cobras,Mohali,1,1,1,0,0,1
+233514,2 Oct 2014,v CSK,Hyderabad,1,0,0,0,0,0
+233514,1 Apr 2015,v Saracens,Panagoda,1,0,0,0,0,0
+233514,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+233514,1 May 2015,v Daredevils,Delhi,2,0,0,0,0,0
+233514,30 Jul 2015,v Pakistan,Colombo (RPS),1,0,0,0,0,0
+233514,1 Aug 2015,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+233514,22 Nov 2015,v Chattogram,Mirpur,1,0,0,0,0,0
+233514,23 Nov 2015,v Bulls,Mirpur,1,2,2,0,0,2
+233514,25 Nov 2015,v Dynamites,Mirpur,2,0,0,0,0,0
+233514,26 Nov 2015,v Super Stars,Mirpur,2,1,1,0,0,1
+233514,27 Nov 2015,v Victorians,Mirpur,2,0,0,0,0,0
+233514,1 Dec 2015,v Chattogram,Chattogram,1,1,1,0,0,1
+233514,3 Dec 2015,v Bulls,Chattogram,2,0,0,0,0,0
+233514,6 Dec 2015,v Dynamites,Mirpur,1,1,1,0,0,1
+233514,7 Dec 2015,v Super Stars,Mirpur,1,0,0,0,0,0
+233514,8 Dec 2015,v Victorians,Mirpur,2,2,2,0,0,2
+233514,12 Dec 2015,v Victorians,Mirpur,1,1,1,0,0,1
+233514,13 Dec 2015,v Bulls,Mirpur,2,2,2,0,0,2
+233514,7 Jan 2016,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+233514,10 Jan 2016,v New Zealand,Auckland,2,0,0,0,0,0
+233514,12 Jan 2016,v Saracens,Colombo (Colts),2,2,2,0,0,2
+233514,13 Jan 2016,v Ragama CC,Colombo (RPS),1,1,1,0,0,1
+233514,20 Jan 2016,v Nondescripts,Colombo (PSS),1,0,0,0,0,0
+233514,23 Jan 2016,v SL Army,Colombo (RPS),2,1,1,0,0,1
+233514,26 Jan 2016,v Troopers,Colombo (RPS),2,0,0,0,0,0
+233514,29 Jan 2016,v Commandos,Colombo (RPS),1,1,1,0,0,1
+233514,30 Jan 2016,v Guardians,Colombo (RPS),2,0,0,0,0,0
+233514,1 Feb 2016,v Kurunegala W,Colombo (RPS),1,1,1,0,0,1
+233514,9 Feb 2016,v India,Pune,1,0,0,0,0,0
+233514,12 Feb 2016,v India,Ranchi,1,0,0,0,0,0
+233514,14 Feb 2016,v India,Visakhapatnam,2,0,0,0,0,0
+233514,28 Feb 2016,v Bangladesh,Mirpur,1,0,0,0,0,0
+233514,1 Mar 2016,v India,Mirpur,2,0,0,0,0,0
+233514,4 Mar 2016,v Pakistan,Mirpur,2,1,1,0,0,1
+233514,17 Mar 2016,v Afghanistan,Eden Gardens,1,1,1,0,0,1
+233514,20 Mar 2016,v West Indies,Bengaluru,2,0,0,0,0,0
+233514,26 Mar 2016,v England,Delhi,1,0,0,0,0,0
+233514,28 Mar 2016,v South Africa,Delhi,2,0,0,0,0,0
+233514,17 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+233514,22 Apr 2016,v RCB,Pune,1,0,0,0,0,0
+233514,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+233514,26 Apr 2016,v SRH,Hyderabad,1,1,1,0,0,1
+233514,29 Apr 2016,v Guj Lions,Pune,2,0,0,0,0,0
+233514,1 May 2016,v MI,Pune,2,0,0,0,0,0
+233514,5 May 2016,v Daredevils,Delhi,1,2,2,0,0,2
+233514,7 May 2016,v RCB,Bengaluru,2,1,1,0,0,1
+233514,10 May 2016,v SRH,Visakhapatnam,1,0,0,0,0,0
+233514,14 May 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+233514,17 May 2016,v Daredevils,Visakhapatnam,1,1,1,0,0,1
+233514,21 May 2016,v Kings XI,Visakhapatnam,1,0,0,0,0,0
+233514,30 Jun 2016,v Amazon,Basseterre,2,0,0,0,0,0
+233514,2 Jul 2016,v Tallawahs,Basseterre,1,0,0,0,0,0
+233514,3 Jul 2016,v Zouks,Basseterre,2,1,1,0,0,1
+233514,5 Jul 2016,v Tridents,Basseterre,2,0,0,0,0,0
+233514,9 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+233514,29 Jul 2016,v Trinbago,Lauderhill,2,0,0,0,0,0
+233514,31 Jul 2016,v Trinbago,Lauderhill,2,0,0,0,0,0
+233514,6 Sep 2016,v Australia,Pallekele,1,1,1,0,0,1
+233514,9 Sep 2016,v Australia,Colombo (RPS),2,1,1,0,0,1
+233514,8 Nov 2016,v Dynamites,Mirpur,2,0,0,0,0,0
+233514,11 Nov 2016,v Victorians,Mirpur,1,0,0,0,0,0
+233514,13 Nov 2016,v Kings,Mirpur,2,1,1,0,0,1
+233514,14 Nov 2016,v Chattogram,Mirpur,1,1,1,0,0,1
+233514,17 Nov 2016,v Rangpur,Chattogram,1,0,0,0,0,0
+233514,20 Nov 2016,v Khulna,Chattogram,1,0,0,0,0,0
+233514,22 Nov 2016,v Chattogram,Chattogram,1,0,0,0,0,0
+233514,25 Nov 2016,v Khulna,Mirpur,2,0,0,0,0,0
+233514,27 Nov 2016,v Dynamites,Mirpur,2,1,1,0,0,1
+233514,1 Dec 2016,v Kings,Mirpur,2,1,1,0,0,1
+233514,3 Dec 2016,v Rangpur,Mirpur,1,0,0,0,0,0
+233514,9 Jan 2017,v Sixers,Sydney,2,1,1,0,0,1
+233514,12 Jan 2017,v Hurricanes,Melbourne (Docklands),2,1,1,0,0,1
+233514,16 Jan 2017,v Strikers,Adelaide,2,0,0,0,0,0
+233514,20 Jan 2017,v Heat,Brisbane,2,2,2,0,0,2
+233514,10 Feb 2017,v Qalandars,Dubai (DICS),2,2,2,0,0,2
+233514,11 Feb 2017,v Kings,Dubai (DICS),1,1,1,0,0,1
+233514,15 Feb 2017,v United,Sharjah,2,0,0,0,0,0
+233514,17 Feb 2017,v Zalmi,Sharjah,1,0,0,0,0,0
+233514,18 Feb 2017,v Qalandars,Sharjah,1,0,0,0,0,0
+233514,24 Feb 2017,v United,Dubai (DICS),1,1,1,0,0,1
+233514,4 Apr 2017,v Bangladesh,Colombo (RPS),1,1,1,0,0,1
+233514,6 Apr 2017,v Bangladesh,Colombo (RPS),1,0,0,0,0,0
+233514,16 Jul 2017,v Sussex,Cheltenham,1,0,0,0,0,0
+233514,18 Jul 2017,v Kent,Canterbury,2,0,0,0,0,0
+233514,25 Jul 2017,v Glamorgan,Bristol,1,2,2,0,0,2
+233514,28 Jul 2017,v Hampshire,Bristol,2,0,0,0,0,0
+233514,29 Jul 2017,v Essex,Chelmsford,-,TDNF,-,-,-,-
+233514,3 Aug 2017,v Glamorgan,Cardiff,2,0,0,0,0,0
+233514,4 Aug 2017,v Somerset,Bristol,1,0,0,0,0,0
+233514,6 Sep 2017,v India,Colombo (RPS),2,1,1,0,0,1
+233514,12 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+233514,13 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+233514,15 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+233514,26 Oct 2017,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+233514,27 Oct 2017,v Pakistan,Abu Dhabi,2,1,1,0,0,1
+233514,29 Oct 2017,v Pakistan,Lahore,1,1,1,0,0,1
+233514,4 Nov 2017,v Kings,Sylhet,1,1,1,0,0,1
+233514,8 Nov 2017,v Chattogram,Sylhet,1,0,0,0,0,0
+233514,11 Nov 2017,v Kings,Mirpur,2,0,0,0,0,0
+233514,18 Nov 2017,v Victorians,Mirpur,1,0,0,0,0,0
+233514,20 Nov 2017,v Sylhet,Mirpur,2,0,0,0,0,0
+233514,21 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+233514,24 Nov 2017,v Khulna,Chattogram,1,0,0,0,0,0
+233514,25 Nov 2017,v Chattogram,Chattogram,1,1,1,0,0,1
+233514,20 Dec 2017,v India,Cuttack,1,0,0,0,0,0
+233514,22 Dec 2017,v India,Indore,1,0,0,0,0,0
+233514,24 Dec 2017,v India,Wankhede,2,0,0,0,0,0
+233514,15 Feb 2018,v Bangladesh,Mirpur,1,0,0,0,0,0
+233514,18 Feb 2018,v Bangladesh,Sylhet,2,1,1,0,0,1
+233514,24 Feb 2018,v Moors,Colombo (Colts),2,0,0,0,0,0
+233514,25 Feb 2018,v Badureliya,Colombo (Burgher),1,1,1,0,0,1
+233514,27 Feb 2018,v SL Navy,Colombo (Burgher),2,1,1,0,0,1
+233514,6 Mar 2018,v India,Colombo (RPS),1,1,1,0,0,1
+233514,10 Mar 2018,v Bangladesh,Colombo (RPS),2,1,1,0,0,1
+233514,12 Mar 2018,v India,Colombo (RPS),2,2,2,0,0,2
+233514,16 Mar 2018,v Bangladesh,Colombo (RPS),2,2,2,0,0,2
+233514,20 Mar 2018,v Zalmi,Lahore,1,2,2,0,0,2
+233514,31 May 2018,v West Indies,Lord's,1,1,1,0,0,1
+233514,6 Jul 2018,v Somerset,Taunton,2,0,0,0,0,0
+233514,8 Jul 2018,v Middlesex,Uxbridge,1,0,0,0,0,0
+233514,14 Aug 2018,v South Africa,Colombo (RPS),1,0,0,0,0,0
+233514,2 Sep 2018,v Colombo,Colombo (RPS),2,0,0,0,0,0
+233514,27 Oct 2018,v England,Colombo (RPS),1,0,0,0,0,0
+233514,11 Jan 2019,v New Zealand,Auckland,1,1,1,0,0,1
+233514,13 Jan 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+233514,15 Jan 2019,v Sylhet,Sylhet,1,0,0,0,0,0
+233514,18 Jan 2019,v Khulna,Sylhet,1,0,0,0,0,0
+233514,21 Jan 2019,v Kings,Mirpur,1,0,0,0,0,0
+233514,22 Jan 2019,v Dynamites,Mirpur,2,2,2,0,0,2
+233514,28 Jan 2019,v Khulna,Chattogram,2,0,0,0,0,0
+233514,29 Jan 2019,v Chattogram,Chattogram,1,0,0,0,0,0
+233514,1 Feb 2019,v Dynamites,Mirpur,2,0,0,0,0,0
+233514,2 Feb 2019,v Rangpur,Mirpur,2,0,0,0,0,0
+233514,4 Feb 2019,v Rangpur,Mirpur,1,1,1,0,0,1
+233514,8 Feb 2019,v Dynamites,Mirpur,2,1,1,0,0,1
+233514,15 Feb 2019,v Saracens,Colombo (Bloomfield),2,1,1,0,0,1
+233514,16 Feb 2019,v Moors,Colombo (Burgher),2,0,0,0,0,0
+233514,18 Feb 2019,v Nondescripts,Katunayake,1,0,0,0,0,0
+233514,19 Mar 2019,v South Africa,Cape Town,2,0,0,0,0,0
+233514,22 Mar 2019,v South Africa,Centurion,1,0,0,0,0,0
+233514,24 Mar 2019,v South Africa,Johannesburg,1,0,0,0,0,0
+233514,5 Sep 2019,v Amazon,Providence,1,2,2,0,0,2
+233514,8 Sep 2019,v Trinbago,Port of Spain,2,1,1,0,0,1
+233514,12 Sep 2019,v Tallawahs,Kingston,1,0,0,0,0,0
+233514,15 Sep 2019,v Patriots,Basseterre,2,0,0,0,0,0
+233514,12 Dec 2019,v Royals,Mirpur,2,0,0,0,0,0
+233514,13 Dec 2019,v Warriors,Mirpur,2,0,0,0,0,0
+233514,14 Dec 2019,v Thunder,Mirpur,2,0,0,0,0,0
+233514,18 Dec 2019,v Chattogram,Chattogram,1,0,0,0,0,0
+233514,27 Dec 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+233514,3 Jan 2020,v Khulna,Sylhet,2,0,0,0,0,0
+233514,8 Jan 2020,v Rangers,Mirpur,2,1,1,0,0,1
+233514,10 Jan 2020,v Rangers,Mirpur,1,0,0,0,0,0
+233514,11 Jan 2020,v Khulna,Mirpur,2,0,0,0,0,0
+233514,13 Jan 2020,v Chattogram,Mirpur,2,1,1,0,0,1
+233514,17 Jan 2020,v Nondescripts,Colombo (PSS),2,0,0,0,0,0
+233514,4 Mar 2020,v West Indies,Pallekele,1,0,0,0,0,0
+233514,6 Mar 2020,v West Indies,Pallekele,2,0,0,0,0,0
+233514,27 Nov 2020,v Galle,Hambantota,1,0,0,0,0,0
+233514,30 Nov 2020,v Viiking,Hambantota,2,0,0,0,0,0
+233514,1 Dec 2020,v Tuskers,Hambantota,2,3,3,0,0,3
+233514,3 Dec 2020,v Galle,Hambantota,1,1,1,0,0,1
+233514,4 Dec 2020,v Kings,Hambantota,2,0,0,0,0,0
+233514,7 Dec 2020,v Viiking,Hambantota,1,0,0,0,0,0
+233514,9 Dec 2020,v Tuskers,Hambantota,2,0,0,0,0,0
+233514,10 Dec 2020,v Kings,Hambantota,1,1,1,0,0,1
+233514,14 Dec 2020,v Viiking,Hambantota,2,2,2,0,0,2
+233514,16 Dec 2020,v Galle,Hambantota,2,0,0,0,0,0
+233514,3 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+233514,5 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+233514,7 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+233514,10 Jun 2021,v Sultans,Abu Dhabi,1,0,0,0,0,0
+233514,14 Jun 2021,v United,Abu Dhabi,2,0,0,0,0,0
+233514,21 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+233514,26 Aug 2021,v Patriots,Basseterre,1,0,0,0,0,0
+233514,27 Aug 2021,v Trinbago,Basseterre,2,1,1,0,0,1
+233514,28 Aug 2021,v Tallawahs,Basseterre,2,1,1,0,0,1
+233514,11 Sep 2021,v Kings,Basseterre,1,1,1,0,0,1
+233514,5 Dec 2021,v Galle,Colombo (RPS),1,2,2,0,0,2
+233514,7 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+233514,8 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+233514,10 Dec 2021,v Stars,Colombo (RPS),2,2,2,0,0,2
+233514,12 Dec 2021,v Warriors,Colombo (RPS),1,0,0,0,0,0
+233514,13 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+233514,16 Dec 2021,v Stars,Colombo (RPS),2,1,1,0,0,1
+233514,17 Dec 2021,v Galle,Colombo (RPS),1,0,0,0,0,0
+233514,19 Dec 2021,v Galle,Hambantota,1,0,0,0,0,0
+233514,21 Dec 2021,v Dambulla,Hambantota,2,0,0,0,0,0
+233514,23 Dec 2021,v Galle,Hambantota,2,1,1,0,0,1
+233514,21 Jan 2022,v Dhaka,Mirpur,1,0,0,0,0,0
+233514,24 Jan 2022,v Chattogram,Mirpur,1,1,1,0,0,1
+233514,28 Jan 2022,v Chattogram,Chattogram,1,1,1,0,0,1
+233514,29 Jan 2022,v Barishal,Chattogram,1,0,0,0,0,0
+233514,31 Jan 2022,v Barishal,Chattogram,1,0,0,0,0,0
+233514,3 Feb 2022,v Sunrisers,Mirpur,1,0,0,0,0,0
+233514,7 Feb 2022,v Sunrisers,Sylhet,2,0,0,0,0,0
+233514,9 Feb 2022,v Dhaka,Sylhet,2,0,0,0,0,0
+233514,11 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0
+233514,12 Feb 2022,v Victorians,Mirpur,1,0,0,0,0,0
+233514,14 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+233514,22 May 2022,v SL Navy,Colombo (SSC),1,0,0,0,0,0
+233514,24 May 2022,v Bloomfield,Colombo (SSC),2,2,2,0,0,2
+233514,26 May 2022,v Galle CC,Colombo (CCC),1,1,1,0,0,1
+233514,30 May 2022,v Kurunegala,Colombo (SSC),1,0,0,0,0,0
+233514,2 Jun 2022,v Moors,Colombo (PSS),1,1,1,0,0,1
+233514,12 Jun 2022,v KTC,Maggona,2,0,0,0,0,0
+233514,15 Jun 2022,v Saracens,Colombo (PSS),2,0,0,0,0,0
+233514,17 Jun 2022,v Colts CC,Colombo (PSS),2,0,0,0,0,0
+233514,6 Dec 2022,v Galle,Hambantota,2,1,1,0,0,1
+233514,7 Dec 2022,v Aura,Hambantota,1,1,1,0,0,1
+233514,10 Dec 2022,v Kandy,Pallekele,2,1,1,0,0,1
+233514,11 Dec 2022,v Aura,Pallekele,2,0,0,0,0,0
+233514,12 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+233514,14 Dec 2022,v Kandy,Pallekele,1,0,0,0,0,0
+233514,18 Dec 2022,v Galle,Colombo (RPS),2,1,1,0,0,1
+233514,19 Dec 2022,v Stars,Colombo (RPS),1,1,1,0,0,1
+233514,21 Dec 2022,v Kandy,Colombo (RPS),1,2,2,0,0,2
+233514,23 Dec 2022,v Stars,Colombo (RPS),1,0,0,0,0,0
+233514,6 Jan 2023,v Chattogram,Mirpur,1,0,0,0,0,0
+233514,7 Jan 2023,v Barishal,Mirpur,1,0,0,0,0,0
+233514,9 Jan 2023,v Victorians,Mirpur,1,0,0,0,0,0
+233514,10 Jan 2023,v Dominators,Mirpur,2,1,1,0,0,1
+233514,16 Jan 2023,v Dominators,Chattogram,1,0,0,0,0,0
+233514,17 Jan 2023,v Victorians,Chattogram,2,2,2,0,0,2
+233514,24 Jan 2023,v Barishal,Mirpur,2,0,0,0,0,0
+233514,27 Jan 2023,v Rangpur,Sylhet,2,1,1,0,0,1
+233514,28 Jan 2023,v Chattogram,Sylhet,1,0,0,0,0,0
+233514,30 Jan 2023,v Khulna,Sylhet,2,0,0,0,0,0
+233514,4 Feb 2023,v Rangpur,Mirpur,2,0,0,0,0,0
+233514,14 Feb 2023,v Rangpur,Mirpur,2,2,2,0,0,2
+233514,16 Feb 2023,v Victorians,Mirpur,2,1,1,0,0,1
+233514,27 May 2023,v Chilaw MCC,Colombo (PSS),2,0,0,0,0,0
+233514,29 May 2023,v Nondescripts,Colombo (CCC),2,1,1,0,0,1
+233514,31 May 2023,v Police SC,Maggona,1,0,0,0,0,0
+233514,2 Jun 2023,v Air Force SC,Colombo (NCC),1,1,1,0,0,1
+233514,4 Jun 2023,v Panadura,Maggona,1,1,1,0,0,1
+233514,30 Jul 2023,v Colombo,Colombo (RPS),2,0,0,0,0,0
+233514,1 Aug 2023,v Aura,Colombo (RPS),2,1,1,0,0,1
+233514,4 Aug 2023,v Galle Titans,Pallekele,1,0,0,0,0,0
+233514,5 Aug 2023,v B-Love Kandy,Pallekele,2,0,0,0,0,0
+233514,7 Aug 2023,v Aura,Pallekele,1,0,0,0,0,0
+233514,8 Aug 2023,v Colombo,Pallekele,1,0,0,0,0,0
+233514,12 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+233514,13 Aug 2023,v Galle Titans,Colombo (RPS),2,1,1,0,0,1
+233514,17 Aug 2023,v B-Love Kandy,Colombo (RPS),1,1,1,0,0,1
+233514,2 Jul 2024,v Kandy,Pallekele,2,0,0,0,0,0
+233514,3 Jul 2024,v Galle,Pallekele,1,0,0,0,0,0
+233514,6 Jul 2024,v Kandy,Dambulla,2,0,0,0,0,0
+233514,7 Jul 2024,v Sixers,Dambulla,2,0,0,0,0,0
+233514,10 Jul 2024,v Jaffna Kings,Dambulla,2,0,0,0,0,0
+233514,14 Jul 2024,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+233514,15 Jul 2024,v Galle,Colombo (RPS),1,1,1,0,0,1
+233514,16 Jul 2024,v Sixers,Colombo (RPS),1,0,0,0,0,0
+233514,18 Jul 2024,v Kandy,Colombo (RPS),2,0,0,0,0,0
+233514,30 Dec 2024,v Rangpur,Mirpur,1,0,0,0,0,0
+233514,2 Jan 2025,v Rajshahi,Mirpur,2,1,1,0,0,1
+233514,3 Jan 2025,v Khulna,Mirpur,1,1,1,0,0,1
+233514,7 Jan 2025,v Rangpur,Sylhet,2,0,0,0,0,0
+233514,9 Jan 2025,v Chittagong,Sylhet,2,0,0,0,0,0
+233514,10 Jan 2025,v Strikers,Sylhet,2,1,1,0,0,1
+233514,12 Jan 2025,v Rajshahi,Sylhet,2,0,0,0,0,0
+233514,16 Jan 2025,v Barishal,Chattogram,2,0,0,0,0,0
+233514,20 Jan 2025,v Strikers,Chattogram,2,2,2,0,0,2
+233514,22 Jan 2025,v Chittagong,Chattogram,1,0,0,0,0,0
+233514,29 Jan 2025,v Barishal,Mirpur,2,0,0,0,0,0
+233514,1 Feb 2025,v Khulna,Mirpur,2,0,0,0,0,0

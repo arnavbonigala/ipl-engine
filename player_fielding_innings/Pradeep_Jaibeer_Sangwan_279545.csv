@@ -1,0 +1,103 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+279545,3 Apr 2007,v Himachal,Delhi,2,0,0,0,0,0
+279545,4 Apr 2007,v J & K,Delhi,2,1,1,0,0,1
+279545,6 Apr 2007,v Punjab,Delhi,1,2,2,0,0,2
+279545,7 Apr 2007,v Haryana,Delhi,2,0,0,0,0,0
+279545,8 Apr 2007,v Services,Delhi,1,0,0,0,0,0
+279545,2 May 2008,v CSK,Chennai,1,0,0,0,0,0
+279545,4 May 2008,v MI,DY Patil,1,1,1,0,0,1
+279545,8 May 2008,v CSK,Delhi,2,0,0,0,0,0
+279545,11 May 2008,v RR,Jaipur,2,0,0,0,0,0
+279545,13 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+279545,17 May 2008,v Kings XI,Delhi,2,0,0,0,0,0
+279545,19 May 2008,v RCB,Bengaluru,1,0,0,0,0,0
+279545,19 Apr 2009,v Kings XI,Cape Town,1,0,0,0,0,0
+279545,23 Apr 2009,v CSK,Durban,2,0,0,0,0,0
+279545,26 Apr 2009,v RCB,Gqeberha,1,1,1,0,0,1
+279545,28 Apr 2009,v RR,Centurion,2,1,1,0,0,1
+279545,30 Apr 2009,v Chargers,Centurion,1,0,0,0,0,0
+279545,2 May 2009,v CSK,Johannesburg,1,0,0,0,0,0
+279545,5 May 2009,v KKR,Durban,1,0,0,0,0,0
+279545,8 May 2009,v MI,East London,1,1,1,0,0,1
+279545,10 May 2009,v KKR,Johannesburg,1,0,0,0,0,0
+279545,13 May 2009,v Chargers,Durban,2,0,0,0,0,0
+279545,15 May 2009,v Kings XI,Bloemfontein,2,0,0,0,0,0
+279545,21 May 2009,v MI,Centurion,1,0,0,0,0,0
+279545,22 May 2009,v Chargers,Centurion,2,0,0,0,0,0
+279545,9 Oct 2009,v Victoria,Delhi,2,0,0,0,0,0
+279545,19 Oct 2009,v Cape Cobras,Delhi,2,0,0,0,0,0
+279545,20 Oct 2009,v J & K,Delhi,2,2,2,0,0,2
+279545,21 Oct 2009,v Punjab,Delhi,1,0,0,0,0,0
+279545,22 Oct 2009,v Himachal,Delhi,1,0,0,0,0,0
+279545,24 Oct 2009,v Haryana,Delhi,1,0,0,0,0,0
+279545,25 Oct 2009,v Services,Delhi,2,1,1,0,0,1
+279545,13 Mar 2010,v Kings XI,Mohali,1,1,1,0,0,1
+279545,15 Mar 2010,v RR,Ahmedabad,1,0,0,0,0,0
+279545,17 Mar 2010,v MI,Delhi,1,0,0,0,0,0
+279545,19 Mar 2010,v CSK,Delhi,2,0,0,0,0,0
+279545,25 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+279545,4 Apr 2010,v RCB,Delhi,2,0,0,0,0,0
+279545,7 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+279545,13 Apr 2010,v MI,Brabourne,1,0,0,0,0,0
+279545,20 Oct 2010,v Himachal,Delhi,2,1,1,0,0,1
+279545,21 Oct 2010,v J & K,Delhi,2,0,0,0,0,0
+279545,22 Oct 2010,v Punjab,Delhi,1,0,0,0,0,0
+279545,24 Oct 2010,v Haryana,Delhi,1,1,1,0,0,1
+279545,25 Oct 2010,v Services,Delhi,1,0,0,0,0,0
+279545,13 Mar 2011,v Tamil Nadu,Hyderabad,2,0,0,0,0,0
+279545,20 Oct 2011,v Himachal,Rohtak,2,0,0,0,0,0
+279545,21 Oct 2011,v J & K,Rohtak,1,0,0,0,0,0
+279545,22 Oct 2011,v Punjab,Rohtak,2,1,1,0,0,1
+279545,24 Oct 2011,v Haryana,Rohtak,1,1,1,0,0,1
+279545,25 Oct 2011,v Services,Rohtak,2,0,0,0,0,0
+279545,24 Mar 2012,v Railways,Brabourne,2,1,1,0,0,1
+279545,26 Mar 2012,v Baroda,Mumbai,2,0,0,0,0,0
+279545,7 May 2012,v Daredevils,Delhi,1,0,0,0,0,0
+279545,13 Oct 2012,v Daredevils,Centurion,1,0,0,0,0,0
+279545,15 Oct 2012,v Auckland,Cape Town,2,0,0,0,0,0
+279545,11 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+279545,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+279545,3 Jan 2016,v Andhra,Vadodara,2,1,1,0,0,1
+279545,4 Jan 2016,v M. Pradesh,Vadodara,1,1,1,0,0,1
+279545,6 Jan 2016,v Assam,Vadodara,1,0,0,0,0,0
+279545,9 Jan 2016,v Goa,Vadodara,2,0,0,0,0,0
+279545,11 Apr 2016,v Kings XI,Mohali,1,0,0,0,0,0
+279545,6 May 2016,v SRH,Hyderabad,2,1,1,0,0,1
+279545,29 Jan 2017,v J & K,Dharamsala,1,0,0,0,0,0
+279545,30 Jan 2017,v Punjab,Dharamsala,2,1,1,0,0,1
+279545,31 Jan 2017,v Himachal,Nadaun,1,1,1,0,0,1
+279545,1 Feb 2017,v Haryana,Dharamsala,1,0,0,0,0,0
+279545,2 Feb 2017,v Services,Dharamsala,1,0,0,0,0,0
+279545,12 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+279545,13 Feb 2017,v West Zone,Wankhede,2,0,0,0,0,0
+279545,16 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+279545,1 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+279545,4 May 2017,v Daredevils,Delhi,2,0,0,0,0,0
+279545,7 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+279545,10 May 2017,v Daredevils,Kanpur,2,0,0,0,0,0
+279545,13 May 2017,v SRH,Kanpur,2,0,0,0,0,0
+279545,9 Jan 2018,v Punjab,Delhi,1,0,0,0,0,0
+279545,10 Jan 2018,v Haryana,Delhi,1,0,0,0,0,0
+279545,12 Jan 2018,v J & K,Delhi,1,1,1,0,0,1
+279545,14 Jan 2018,v Himachal,Delhi,1,0,0,0,0,0
+279545,16 Jan 2018,v Services,Delhi,2,0,0,0,0,0
+279545,21 Jan 2018,v Tamil Nadu,Eden Gardens,1,1,1,0,0,1
+279545,22 Jan 2018,v Baroda,Eden Gardens,1,1,1,0,0,1
+279545,23 Jan 2018,v Bengal,Kolkata,1,0,0,0,0,0
+279545,25 Jan 2018,v UP,Kolkata,2,0,0,0,0,0
+279545,26 Jan 2018,v Rajasthan,Eden Gardens,2,2,2,0,0,2
+279545,12 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+279545,11 Jan 2021,v Mumbai,Wankhede,2,0,0,0,0,0
+279545,13 Jan 2021,v Andhra,Wankhede,1,0,0,0,0,0
+279545,15 Jan 2021,v Kerala,Wankhede,2,1,1,0,0,1
+279545,17 Jan 2021,v Haryana,Wankhede,2,0,0,0,0,0
+279545,4 Nov 2021,v Uttarakhand,Rohtak,2,0,0,0,0,0
+279545,5 Nov 2021,v Chandigarh,Rohtak,1,1,1,0,0,1
+279545,6 Nov 2021,v UP,Rohtak,1,1,1,0,0,1
+279545,8 Nov 2021,v Hyderabad,Sultanpur,2,0,0,0,0,0
+279545,9 Nov 2021,v Saurashtra,Rohtak,1,1,1,0,0,1
+279545,30 Apr 2022,v RCB,Brabourne,1,0,0,0,0,0
+279545,3 May 2022,v Punjab Kings,DY Patil,2,1,1,0,0,1
+279545,6 May 2022,v MI,Brabourne,1,0,0,0,0,0
+279545,2 Nov 2023,v Vidarbha,New Chandigarh,2,1,1,0,0,1
+279545,4 Nov 2023,v Punjab,Mohali,2,2,2,0,0,2

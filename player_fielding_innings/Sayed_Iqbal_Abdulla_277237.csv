@@ -1,0 +1,105 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+277237,3 Apr 2007,v Baroda,Wankhede,1,0,0,0,0,0
+277237,4 Apr 2007,v Gujarat,Brabourne,1,0,0,0,0,0
+277237,5 Apr 2007,v Saurashtra,Wankhede,2,0,0,0,0,0
+277237,6 Apr 2007,v Maharashtra,Brabourne,1,0,0,0,0,0
+277237,17 Apr 2007,v Haryana,Ahmedabad,1,0,0,0,0,0
+277237,18 Apr 2007,v M. Pradesh,Ahmedabad,2,1,1,0,0,1
+277237,19 Apr 2007,v Bengal,Ahmedabad,2,0,0,0,0,0
+277237,13 May 2008,v Daredevils,Eden Gardens,2,0,0,0,0,0
+277237,20 Oct 2009,v Baroda,Pune,2,2,2,0,0,2
+277237,21 Oct 2009,v Gujarat,Pune,1,1,1,0,0,1
+277237,22 Oct 2009,v Saurashtra,Pune,2,0,0,0,0,0
+277237,24 Oct 2009,v Maharashtra,Pune,1,0,0,0,0,0
+277237,27 Mar 2010,v Kings XI,Mohali,2,0,0,0,0,0
+277237,7 Apr 2010,v Daredevils,Eden Gardens,2,0,0,0,0,0
+277237,13 Apr 2010,v CSK,Chennai,2,0,0,0,0,0
+277237,20 Oct 2010,v Baroda,Vadodara,1,1,1,0,0,1
+277237,21 Oct 2010,v Gujarat,Vadodara,1,0,0,0,0,0
+277237,22 Oct 2010,v Saurashtra,Vadodara,2,0,0,0,0,0
+277237,24 Oct 2010,v Maharashtra,Vadodara,2,1,1,0,0,1
+277237,12 Mar 2011,v Haryana,Hyderabad,2,0,0,0,0,0
+277237,8 Apr 2011,v CSK,Chennai,1,0,0,0,0,0
+277237,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+277237,15 Apr 2011,v RR,Jaipur,1,0,0,0,0,0
+277237,17 Apr 2011,v RR,Eden Gardens,1,0,0,0,0,0
+277237,20 Apr 2011,v Kochi,Eden Gardens,1,0,0,0,0,0
+277237,22 Apr 2011,v RCB,Eden Gardens,2,0,0,0,0,0
+277237,28 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+277237,30 Apr 2011,v Kings XI,Eden Gardens,1,0,0,0,0,0
+277237,3 May 2011,v Chargers,Hyderabad,2,0,0,0,0,0
+277237,5 May 2011,v Kochi,Kochi,1,1,1,0,0,1
+277237,7 May 2011,v CSK,Eden Gardens,1,1,1,0,0,1
+277237,14 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+277237,19 May 2011,v Warriors,DY Patil,1,0,0,0,0,0
+277237,22 May 2011,v MI,Eden Gardens,2,0,0,0,0,0
+277237,25 May 2011,v MI,Wankhede,2,1,1,0,0,1
+277237,19 Sep 2011,v Auckland,Hyderabad,2,0,0,0,0,0
+277237,21 Sep 2011,v Somerset,Hyderabad,1,0,0,0,0,0
+277237,25 Sep 2011,v Somerset,Hyderabad,2,0,0,0,0,0
+277237,27 Sep 2011,v South Aust,Hyderabad,1,1,1,0,0,1
+277237,29 Sep 2011,v RCB,Bengaluru,1,0,0,0,0,0
+277237,1 Oct 2011,v Warriors,Bengaluru,1,2,2,0,0,2
+277237,20 Oct 2011,v Baroda,Rajkot,1,1,1,0,0,1
+277237,21 Oct 2011,v Gujarat,Rajkot,2,1,1,0,0,1
+277237,22 Oct 2011,v Saurashtra,Rajkot,1,0,0,0,0,0
+277237,24 Oct 2011,v Maharashtra,Rajkot,2,3,3,0,0,3
+277237,24 Mar 2012,v Tamil Nadu,Brabourne,2,0,0,0,0,0
+277237,26 Mar 2012,v Punjab,Mumbai,2,0,0,0,0,0
+277237,5 Apr 2012,v Daredevils,Eden Gardens,2,1,1,0,0,1
+277237,8 Apr 2012,v RR,Jaipur,1,0,0,0,0,0
+277237,28 Apr 2012,v RCB,Eden Gardens,2,0,0,0,0,0
+277237,30 Apr 2012,v CSK,Chennai,1,1,1,0,0,1
+277237,5 May 2012,v Warriors,Eden Gardens,2,2,2,0,0,2
+277237,16 May 2012,v MI,Wankhede,2,1,1,0,0,1
+277237,19 May 2012,v Warriors,Pune,2,0,0,0,0,0
+277237,22 May 2012,v Daredevils,Pune,2,0,0,0,0,0
+277237,27 May 2012,v CSK,Chennai,1,0,0,0,0,0
+277237,17 Oct 2012,v Scorchers,Durban,1,1,1,0,0,1
+277237,21 Oct 2012,v Titans,Cape Town,2,0,0,0,0,0
+277237,17 Mar 2013,v Baroda,Ahmedabad,1,0,0,0,0,0
+277237,18 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+277237,19 Mar 2013,v Saurashtra,Ahmedabad,1,0,0,0,0,0
+277237,21 Mar 2013,v Maharashtra,Ahmedabad,1,1,1,0,0,1
+277237,24 Apr 2013,v MI,Eden Gardens,2,0,0,0,0,0
+277237,3 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+277237,7 May 2013,v MI,Wankhede,1,0,0,0,0,0
+277237,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+277237,19 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+277237,29 Apr 2014,v KKR,Abu Dhabi,2,1,1,0,0,1
+277237,19 Apr 2015,v MI,Bengaluru,1,0,0,0,0,0
+277237,22 Apr 2015,v CSK,Bengaluru,1,0,0,0,0,0
+277237,24 Apr 2015,v RR,Ahmedabad,1,0,0,0,0,0
+277237,26 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+277237,4 May 2015,v CSK,Chennai,1,1,1,0,0,1
+277237,20 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+277237,22 Apr 2016,v Supergiants,Pune,2,0,0,0,0,0
+277237,24 Apr 2016,v Guj Lions,Rajkot,2,1,1,0,0,1
+277237,9 May 2016,v Kings XI,Mohali,2,0,0,0,0,0
+277237,16 May 2016,v KKR,Eden Gardens,1,2,2,0,0,2
+277237,22 May 2016,v Daredevils,Raipur,1,0,0,0,0,0
+277237,24 May 2016,v Guj Lions,Bengaluru,1,0,0,0,0,0
+277237,29 May 2016,v SRH,Bengaluru,1,1,1,0,0,1
+277237,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+277237,30 Jan 2017,v Karnataka,Chennai,1,1,1,0,0,1
+277237,31 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+277237,2 Feb 2017,v Goa,Chennai,1,1,1,0,0,1
+277237,3 Feb 2017,v Tamil Nadu,Chennai,2,0,0,0,0,0
+277237,8 Apr 2017,v Daredevils,Bengaluru,2,0,0,0,0,0
+277237,10 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+277237,9 Nov 2019,v Nagaland,Surat,2,0,0,0,0,0
+277237,11 Nov 2019,v Odisha,Surat,2,0,0,0,0,0
+277237,12 Nov 2019,v Jharkhand,Surat,2,0,0,0,0,0
+277237,14 Nov 2019,v Gujarat,Surat,2,0,0,0,0,0
+277237,15 Nov 2019,v Saurashtra,Surat,2,0,0,0,0,0
+277237,17 Nov 2019,v Delhi,Surat,2,0,0,0,0,0
+277237,10 Jan 2021,v Baroda,Vadodara,1,1,1,0,0,1
+277237,12 Jan 2021,v Gujarat,Vadodara,1,0,0,0,0,0
+277237,14 Jan 2021,v Maharashtra,Vadodara,1,0,0,0,0,0
+277237,16 Jan 2021,v Himachal,Vadodara,2,0,0,0,0,0
+277237,18 Jan 2021,v Chhattisgarh,Vadodara,2,0,0,0,0,0
+277237,4 Nov 2021,v Meghalaya,Mangalagiri,2,0,0,0,0,0
+277237,5 Nov 2021,v Tripura,Mangalagiri,1,0,0,0,0,0
+277237,6 Nov 2021,v Nagaland,Mangalagiri,1,0,0,0,0,0
+277237,8 Nov 2021,v Sikkim,Mulapadu,2,0,0,0,0,0
+277237,9 Nov 2021,v Manipur,Mulapadu,1,0,0,0,0,0

@@ -1,0 +1,165 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+315623,26 Dec 2008,v NSW,Brisbane,2,0,0,0,0,0
+315623,1 Jan 2009,v Tasmania,Hobart,1,0,0,0,0,0
+315623,4 Jan 2009,v Victoria,Geelong,1,1,1,0,0,1
+315623,9 Jan 2009,v South Aust,Brisbane,1,0,0,0,0,0
+315623,15 Jan 2009,v West Aust,W.A.C.A,2,0,0,0,0,0
+315623,21 Jan 2009,v Victoria,Brisbane,2,0,0,0,0,0
+315623,29 Mar 2009,v South Africa,Centurion,1,0,0,0,0,0
+315623,2 Jan 2011,v Victoria,Melbourne,1,1,1,0,0,1
+315623,29 Jan 2011,v NSW,Sydney,1,0,0,0,0,0
+315623,18 Dec 2011,v Scorchers,W.A.C.A,2,2,2,0,0,2
+315623,21 Dec 2011,v Sixers,Hobart,2,1,1,0,0,1
+315623,28 Dec 2011,v Strikers,Adelaide,2,0,0,0,0,0
+315623,1 Jan 2012,v Thunder,Hobart,1,0,0,0,0,0
+315623,6 Jan 2012,v Heat,Brisbane,1,0,0,0,0,0
+315623,9 Jan 2012,v Stars,Hobart,1,0,0,0,0,0
+315623,18 Jan 2012,v Renegades,Hobart,1,0,0,0,0,0
+315623,22 Jan 2012,v Sixers,Hobart,1,0,0,0,0,0
+315623,11 Aug 2012,v Ruhuna Ryls,Colombo (RPS),1,2,2,0,0,2
+315623,13 Aug 2012,v K Warriors,Colombo (RPS),1,0,0,0,0,0
+315623,20 Aug 2012,v Wayamba U,Pallekele,1,0,0,0,0,0
+315623,9 Nov 2012,v Wellington,Wellington,2,0,0,0,0,0
+315623,9 Dec 2012,v Heat,Brisbane,1,0,0,0,0,0
+315623,15 Dec 2012,v Stars,Melbourne,2,0,0,0,0,0
+315623,19 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+315623,23 Dec 2012,v Thunder,Hobart,2,1,1,0,0,1
+315623,26 Dec 2012,v Sixers,Sydney,1,0,0,0,0,0
+315623,1 Jan 2013,v Scorchers,Hobart,1,0,0,0,0,0
+315623,5 Jan 2013,v Strikers,Hobart,1,2,2,0,0,2
+315623,12 Jan 2013,v Heat,Hobart,2,0,0,0,0,0
+315623,26 Jan 2013,v Sri Lanka,Sydney,2,1,1,0,0,1
+315623,28 Jan 2013,v Sri Lanka,Melbourne,1,0,0,0,0,0
+315623,6 Apr 2013,v MI,Chennai,1,0,0,0,0,0
+315623,5 May 2013,v MI,Wankhede,1,0,0,0,0,0
+315623,9 Nov 2013,v Otago,Dunedin,2,0,0,0,0,0
+315623,15 Nov 2013,v Otago,Hamilton,2,0,0,0,0,0
+315623,16 Nov 2013,v Central D,Hamilton,2,2,2,0,0,2
+315623,19 Nov 2013,v Wellington,Wellington,1,1,1,0,0,1
+315623,22 Dec 2013,v Strikers,Hobart,1,0,0,0,0,0
+315623,28 Dec 2013,v Heat,Brisbane,1,1,1,0,0,1
+315623,1 Jan 2014,v Renegades,Hobart,1,0,0,0,0,0
+315623,7 Jan 2014,v Scorchers,W.A.C.A,1,1,1,0,0,1
+315623,11 Jan 2014,v Thunder,Hobart,2,0,0,0,0,0
+315623,15 Jan 2014,v Sixers,Sydney,1,0,0,0,0,0
+315623,21 Jan 2014,v Stars,Melbourne,2,0,0,0,0,0
+315623,23 Jan 2014,v Heat,Hobart,2,0,0,0,0,0
+315623,4 Feb 2014,v Stars,Melbourne,1,1,1,0,0,1
+315623,11 Jul 2014,v Amazon,St George's,2,0,0,0,0,0
+315623,17 Jul 2014,v Tallawahs,North Sound,2,0,0,0,0,0
+315623,19 Jul 2014,v Tridents,North Sound,2,0,0,0,0,0
+315623,20 Jul 2014,v Red Steel,North Sound,2,1,1,0,0,1
+315623,25 Jul 2014,v Tridents,Bridgetown,2,0,0,0,0,0
+315623,31 Jul 2014,v Tallawahs,Kingston,2,0,0,0,0,0
+315623,3 Aug 2014,v Zouks,Gros Islet,2,0,0,0,0,0
+315623,9 Aug 2014,v Red Steel,Basseterre,1,0,0,0,0,0
+315623,18 Sep 2014,v Kings XI,Mohali,2,0,0,0,0,0
+315623,21 Sep 2014,v Cape Cobras,Hyderabad,1,0,0,0,0,0
+315623,23 Sep 2014,v Northern Dis,Raipur,2,1,1,0,0,1
+315623,28 Sep 2014,v Tridents,Mohali,1,1,1,0,0,1
+315623,2 Oct 2014,v KKR,Hyderabad,2,0,0,0,0,0
+315623,1 Nov 2014,v Wellington,Hamilton,2,0,0,0,0,0
+315623,2 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+315623,7 Nov 2014,v Canterbury,Hamilton,2,0,0,0,0,0
+315623,9 Nov 2014,v Central D,Hamilton,2,0,0,0,0,0
+315623,13 Nov 2014,v Canterbury,Christchurch,2,1,1,0,0,1
+315623,16 Nov 2014,v Auckland,Auckland,2,0,0,0,0,0
+315623,29 Nov 2014,v Central D,Napier,2,0,0,0,0,0
+315623,18 Dec 2014,v Stars,Adelaide,1,0,0,0,0,0
+315623,22 Dec 2014,v Scorchers,W.A.C.A,1,0,0,0,0,0
+315623,31 Dec 2014,v Hurricanes,Adelaide,1,0,0,0,0,0
+315623,4 Jan 2015,v Heat,Brisbane,1,0,0,0,0,0
+315623,6 Jan 2015,v Scorchers,Adelaide,1,0,0,0,0,0
+315623,12 Jan 2015,v Thunder,Adelaide,2,0,0,0,0,0
+315623,14 Jan 2015,v Sixers,Sydney,2,1,1,0,0,1
+315623,19 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+315623,24 Jan 2015,v Sixers,Adelaide,1,0,0,0,0,0
+315623,6 Nov 2015,v Canterbury,Hamilton,2,0,0,0,0,0
+315623,12 Nov 2015,v Wellington,Hamilton,2,1,1,0,0,1
+315623,15 Nov 2015,v Canterbury,Whangarei,2,0,0,0,0,0
+315623,17 Nov 2015,v Otago,Dunedin,2,0,0,0,0,0
+315623,18 Dec 2015,v Stars,Adelaide,2,1,1,0,0,1
+315623,21 Dec 2015,v Scorchers,W.A.C.A,1,0,0,0,0,0
+315623,28 Dec 2015,v Thunder,Sydney,2,0,0,0,0,0
+315623,31 Dec 2015,v Sixers,Adelaide,1,0,0,0,0,0
+315623,5 Jan 2016,v Scorchers,Adelaide,2,0,0,0,0,0
+315623,8 Jan 2016,v Heat,Brisbane,1,1,1,0,0,1
+315623,13 Jan 2016,v Hurricanes,Adelaide,1,0,0,0,0,0
+315623,18 Jan 2016,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+315623,21 Jan 2016,v Thunder,Adelaide,2,0,0,0,0,0
+315623,4 Dec 2016,v Wellington,Hamilton,2,2,2,0,0,2
+315623,10 Dec 2016,v Central D,New Plymouth,-,TDNF,-,-,-,-
+315623,21 Dec 2016,v Heat,Adelaide,1,0,0,0,0,0
+315623,31 Dec 2016,v Sixers,Adelaide,2,0,0,0,0,0
+315623,2 Jan 2017,v Hurricanes,Hobart,2,0,0,0,0,0
+315623,6 Jan 2017,v Hurricanes,Adelaide,1,0,0,0,0,0
+315623,10 Jan 2017,v Stars,Melbourne,2,0,0,0,0,0
+315623,16 Jan 2017,v Renegades,Adelaide,1,2,2,0,0,2
+315623,18 Jan 2017,v Thunder,Sydney,2,1,1,0,0,1
+315623,15 Dec 2017,v Wellington,Hamilton,1,0,0,0,0,0
+315623,16 Dec 2017,v Auckland,Mount Maunganui,2,0,0,0,0,0
+315623,22 Dec 2017,v Thunder,Adelaide,2,0,0,0,0,0
+315623,28 Dec 2017,v Sixers,Sydney,2,0,0,0,0,0
+315623,31 Dec 2017,v Heat,Adelaide,2,0,0,0,0,0
+315623,4 Jan 2018,v Hurricanes,Hobart,1,0,0,0,0,0
+315623,7 Jan 2018,v Thunder,Sydney,2,1,1,0,0,1
+315623,9 Jan 2018,v Stars,Adelaide,1,2,2,0,0,2
+315623,13 Jan 2018,v Scorchers,Alice Springs,2,1,1,0,0,1
+315623,17 Jan 2018,v Hurricanes,Adelaide,2,0,0,0,0,0
+315623,22 Jan 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+315623,25 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+315623,2 Feb 2018,v Renegades,Adelaide,2,0,0,0,0,0
+315623,4 Feb 2018,v Hurricanes,Adelaide,2,0,0,0,0,0
+315623,7 Mar 2018,v Sultans,Dubai (DICS),1,1,1,0,0,1
+315623,8 Mar 2018,v Kings,Dubai (DICS),2,2,2,0,0,2
+315623,10 Mar 2018,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+315623,9 Apr 2018,v SRH,Hyderabad,2,1,1,0,0,1
+315623,11 Apr 2018,v Daredevils,Jaipur,2,0,0,0,0,0
+315623,15 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+315623,18 Apr 2018,v KKR,Jaipur,2,0,0,0,0,0
+315623,20 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+315623,19 May 2018,v RCB,Jaipur,2,0,0,0,0,0
+315623,23 May 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+315623,6 Oct 2018,v Kabul Zwanan,Sharjah,1,0,0,0,0,0
+315623,7 Oct 2018,v Knights,Sharjah,2,1,1,0,0,1
+315623,14 Oct 2018,v Kabul Zwanan,Sharjah,2,1,1,0,0,1
+315623,19 Dec 2018,v Heat,Brisbane,1,0,0,0,0,0
+315623,23 Dec 2018,v Renegades,Adelaide,2,1,1,0,0,1
+315623,26 Dec 2018,v Scorchers,Perth,2,0,0,0,0,0
+315623,31 Dec 2018,v Thunder,Adelaide,2,0,0,0,0,0
+315623,3 Jan 2019,v Renegades,Geelong,2,0,0,0,0,0
+315623,11 Jan 2019,v Stars,Adelaide,2,0,0,0,0,0
+315623,13 Jan 2019,v Thunder,Sydney,1,1,1,0,0,1
+315623,21 Jan 2019,v Hurricanes,Adelaide,2,0,0,0,0,0
+315623,23 Jan 2019,v Stars,Moe,1,0,0,0,0,0
+315623,29 Jan 2019,v Sixers,Sydney,2,0,0,0,0,0
+315623,31 Jan 2019,v Hurricanes,Launceston,1,1,1,0,0,1
+315623,3 Feb 2019,v Heat,Adelaide,2,0,0,0,0,0
+315623,9 Feb 2019,v Scorchers,Adelaide,1,0,0,0,0,0
+315623,5 Sep 2019,v Zouks,Providence,2,1,1,0,0,1
+315623,7 Sep 2019,v Patriots,Providence,1,0,0,0,0,0
+315623,25 Sep 2019,v Zouks,Gros Islet,1,1,1,0,0,1
+315623,30 Sep 2019,v Trinbago,Port of Spain,2,0,0,0,0,0
+315623,4 Oct 2019,v Trinbago,Providence,1,0,0,0,0,0
+315623,12 Oct 2019,v Tridents,Tarouba,1,0,0,0,0,0
+315623,17 Dec 2019,v Thunder,Brisbane,1,0,0,0,0,0
+315623,20 Dec 2019,v Stars,Carrara,1,1,1,0,0,1
+315623,22 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+315623,1 Jan 2020,v Scorchers,Carrara,1,0,0,0,0,0
+315623,3 Jan 2020,v Hurricanes,Hobart,2,1,1,0,0,1
+315623,6 Jan 2020,v Thunder,Sydney,2,1,1,0,0,1
+315623,9 Jan 2020,v Hurricanes,Brisbane,1,1,1,0,0,1
+315623,11 Jan 2020,v Scorchers,Perth,1,1,1,0,0,1
+315623,17 Jan 2020,v Strikers,Adelaide,2,0,0,0,0,0
+315623,19 Jan 2020,v Renegades,Brisbane,1,1,1,0,0,1
+315623,23 Jan 2020,v Sixers,Brisbane,2,0,0,0,0,0
+315623,25 Jan 2020,v Stars,Melbourne,2,3,3,0,0,3
+315623,27 Jan 2020,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+315623,11 Dec 2020,v Stars,Canberra,2,1,1,0,0,1
+315623,14 Dec 2020,v Thunder,Canberra,2,1,1,0,0,1
+315623,23 Dec 2020,v Strikers,Brisbane,1,1,1,0,0,1
+315623,23 Jan 2021,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+315623,26 Jan 2021,v Scorchers,Adelaide,2,0,0,0,0,0
+315623,29 Jan 2021,v Strikers,Brisbane,1,1,1,0,0,1
+315623,31 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+315623,4 Feb 2021,v Scorchers,Canberra,1,0,0,0,0,0

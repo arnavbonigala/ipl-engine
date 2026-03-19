@@ -1,0 +1,208 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+493773,14 Jan 2014,v Central D,Auckland,2,0,0,0,0,0
+493773,21 Nov 2014,v Wellington,Wellington,1,0,0,0,0,0
+493773,22 Nov 2014,v Central D,Wellington,1,0,0,0,0,0
+493773,27 Nov 2014,v Canterbury,Christchurch,1,0,0,0,0,0
+493773,29 Nov 2014,v Canterbury,Napier,1,0,0,0,0,0
+493773,30 Nov 2014,v Northern Dis,Napier,2,0,0,0,0,0
+493773,6 Dec 2014,v Northern Dis,Hamilton,1,0,0,0,0,0
+493773,7 Dec 2014,v Wellington,Hamilton,1,0,0,0,0,0
+493773,11 Nov 2015,v Central D,New Plymouth,2,0,0,0,0,0
+493773,15 Nov 2015,v Central D,Auckland,2,0,0,0,0,0
+493773,29 Nov 2015,v Wellington,Wellington,1,0,0,0,0,0
+493773,5 Dec 2015,v Northern Dis,Hamilton,2,1,1,0,0,1
+493773,6 Dec 2015,v Wellington,Auckland,2,0,0,0,0,0
+493773,11 Dec 2015,v Otago,New Plymouth,1,0,0,0,0,0
+493773,17 Dec 2016,v Northern Dis,Hamilton,2,0,0,0,0,0
+493773,18 Dec 2016,v Canterbury,Auckland,1,2,2,0,0,2
+493773,22 Dec 2016,v Wellington,Wellington,1,0,0,0,0,0
+493773,3 Jan 2017,v Bangladesh,Napier,1,0,0,0,0,0
+493773,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+493773,29 Apr 2017,v RCB,Pune,2,0,0,0,0,0
+493773,16 May 2017,v MI,Wankhede,2,0,0,0,0,0
+493773,21 May 2017,v MI,Hyderabad,1,0,0,0,0,0
+493773,13 Dec 2017,v Central D,Auckland,1,0,0,0,0,0
+493773,16 Dec 2017,v Northern Dis,Mount Maunganui,1,0,0,0,0,0
+493773,6 Jul 2018,v Lancashire,Derby,2,0,0,0,0,0
+493773,8 Jul 2018,v Worcs,Derby,2,1,1,0,0,1
+493773,13 Jul 2018,v Notts,Derby,1,1,1,0,0,1
+493773,14 Jul 2018,v Lancashire,Manchester,1,0,0,0,0,0
+493773,19 Jul 2018,v Northants,Northampton,2,1,1,0,0,1
+493773,27 Jul 2018,v Leics,Leicester,1,0,0,0,0,0
+493773,28 Jul 2018,v Yorkshire,Chesterfield,1,0,0,0,0,0
+493773,30 Jul 2018,v Yorkshire,Leeds,2,0,0,0,0,0
+493773,2 Aug 2018,v Notts,Nottingham,1,0,0,0,0,0
+493773,3 Aug 2018,v Bears,Derby,2,1,1,0,0,1
+493773,8 Aug 2018,v Northants,Derby,2,0,0,0,0,0
+493773,9 Aug 2018,v Worcs,Worcester,1,1,1,0,0,1
+493773,11 Aug 2018,v Leics,Derby,1,0,0,0,0,0
+493773,17 Oct 2018,v Pakistan A,ICCA Dubai,1,0,0,0,0,0
+493773,4 Nov 2018,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+493773,29 Dec 2018,v Central D,New Plymouth,1,0,0,0,0,0
+493773,11 Jan 2019,v Sri Lanka,Auckland,2,0,0,0,0,0
+493773,6 Feb 2019,v India,Wellington,2,2,2,0,0,2
+493773,8 Feb 2019,v India,Auckland,2,0,0,0,0,0
+493773,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+493773,27 Mar 2019,v Kings XI,Eden Gardens,2,0,0,0,0,0
+493773,30 Mar 2019,v DC,Delhi,2,0,0,0,0,0
+493773,5 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+493773,12 Apr 2019,v DC,Eden Gardens,2,0,0,0,0,0
+493773,1 Nov 2019,v England,Christchurch,2,0,0,0,0,0
+493773,3 Nov 2019,v England,Wellington,2,0,0,0,0,0
+493773,5 Nov 2019,v England,Nelson,2,0,0,0,0,0
+493773,18 Oct 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+493773,21 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+493773,24 Oct 2020,v DC,Abu Dhabi,2,0,0,0,0,0
+493773,26 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+493773,29 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+493773,27 Nov 2020,v West Indies,Auckland,1,1,1,0,0,1
+493773,29 Nov 2020,v West Indies,Mount Maunganui,2,0,0,0,0,0
+493773,30 Nov 2020,v West Indies,Mount Maunganui,1,0,0,0,0,0
+493773,28 Mar 2021,v Bangladesh,Hamilton,2,0,0,0,0,0
+493773,1 Apr 2021,v Bangladesh,Auckland,2,0,0,0,0,0
+493773,10 Jun 2021,v Bears,Leeds,1,1,1,0,0,1
+493773,11 Jun 2021,v Durham,Chester-le-Street,1,0,0,0,0,0
+493773,15 Jun 2021,v Leics,Leeds,2,1,1,0,0,1
+493773,16 Jun 2021,v Worcs,Worcester,2,1,1,0,0,1
+493773,20 Jun 2021,v Derbyshire,Leeds,2,0,0,0,0,0
+493773,23 Jun 2021,v Worcs,Leeds,2,0,0,0,0,0
+493773,25 Jun 2021,v Leics,Leicester,1,0,0,0,0,0
+493773,26 Jun 2021,v Northants,Leeds,2,1,1,0,0,1
+493773,30 Jun 2021,v Bears,Birmingham,2,0,0,0,0,0
+493773,2 Jul 2021,v Lancashire,Leeds,2,0,0,0,0,0
+493773,31 Jul 2021,v Fire,Cardiff,1,0,0,0,0,0
+493773,5 Aug 2021,v Brave,Manchester,-,TDNF,-,-,-,-
+493773,10 Aug 2021,v Spirit,Manchester,1,0,0,0,0,0
+493773,12 Aug 2021,v N S-Chargers,Leeds,1,0,0,0,0,0
+493773,15 Aug 2021,v Rockets,Nottingham,2,0,0,0,0,0
+493773,20 Sep 2021,v RCB,Abu Dhabi,1,0,0,0,0,0
+493773,23 Sep 2021,v MI,Abu Dhabi,1,0,0,0,0,0
+493773,26 Sep 2021,v CSK,Abu Dhabi,2,1,1,0,0,1
+493773,28 Sep 2021,v DC,Sharjah,1,1,1,0,0,1
+493773,7 Oct 2021,v RR,Sharjah,2,0,0,0,0,0
+493773,11 Oct 2021,v RCB,Sharjah,1,1,1,0,0,1
+493773,13 Oct 2021,v DC,Sharjah,1,0,0,0,0,0
+493773,15 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+493773,17 Nov 2021,v India,Jaipur,2,0,0,0,0,0
+493773,21 Nov 2021,v India,Eden Gardens,1,0,0,0,0,0
+493773,17 Dec 2021,v Northern Dis,Hamilton,2,0,0,0,0,0
+493773,20 Dec 2021,v Northern Dis,Auckland,2,1,1,0,0,1
+493773,24 Dec 2021,v Wellington,Wellington,2,0,0,0,0,0
+493773,27 Dec 2021,v Central D,Palmerston North,1,1,1,0,0,1
+493773,29 Dec 2021,v Otago,Queenstown,1,0,0,0,0,0
+493773,7 Jan 2022,v Canterbury,Auckland,2,0,0,0,0,0
+493773,15 Jan 2022,v Otago,Auckland,1,0,0,0,0,0
+493773,18 Jan 2022,v Canterbury,Christchurch,1,1,1,0,0,1
+493773,20 Jan 2022,v Wellington,Auckland,2,0,0,0,0,0
+493773,22 Jan 2022,v Central D,Auckland,1,0,0,0,0,0
+493773,28 Mar 2022,v LSG,Wankhede,1,0,0,0,0,0
+493773,2 Apr 2022,v DC,Pune,2,0,0,0,0,0
+493773,8 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+493773,11 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+493773,14 Apr 2022,v RR,DY Patil,2,0,0,0,0,0
+493773,17 Apr 2022,v CSK,Pune,1,0,0,0,0,0
+493773,23 Apr 2022,v KKR,DY Patil,2,2,2,0,0,2
+493773,27 Apr 2022,v SRH,Wankhede,1,0,0,0,0,0
+493773,30 Apr 2022,v RCB,Brabourne,1,0,0,0,0,0
+493773,3 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+493773,6 May 2022,v MI,Brabourne,1,0,0,0,0,0
+493773,19 May 2022,v RCB,Wankhede,2,0,0,0,0,0
+493773,29 May 2022,v RR,Ahmedabad,1,0,0,0,0,0
+493773,18 Jul 2022,v Ireland,Belfast,2,1,1,0,0,1
+493773,20 Jul 2022,v Ireland,Belfast,2,0,0,0,0,0
+493773,27 Jul 2022,v Scotland,Edinburgh,2,0,0,0,0,0
+493773,4 Aug 2022,v Netherlands,The Hague,2,0,0,0,0,0
+493773,10 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+493773,14 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+493773,22 Oct 2022,v Australia,Sydney,2,0,0,0,0,0
+493773,29 Oct 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+493773,1 Nov 2022,v England,Brisbane,1,0,0,0,0,0
+493773,4 Nov 2022,v Ireland,Adelaide,2,1,1,0,0,1
+493773,9 Nov 2022,v Pakistan,Sydney,2,0,0,0,0,0
+493773,20 Nov 2022,v India,Mount Maunganui,1,1,1,0,0,1
+493773,22 Nov 2022,v India,Napier,2,0,0,0,0,0
+493773,26 Dec 2022,v Canterbury,Christchurch,1,0,0,0,0,0
+493773,29 Dec 2022,v Otago,Queenstown,1,2,2,0,0,2
+493773,2 Jan 2023,v Otago,Auckland,1,0,0,0,0,0
+493773,27 Jan 2023,v India,Ranchi,2,0,0,0,0,0
+493773,29 Jan 2023,v India,Lucknow,2,0,0,0,0,0
+493773,1 Feb 2023,v India,Ahmedabad,1,1,1,0,0,1
+493773,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+493773,14 Apr 2023,v SRH,Eden Gardens,1,0,0,0,0,0
+493773,16 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+493773,20 Aug 2023,v Spirit,Cardiff,1,0,0,0,0,0
+493773,22 Aug 2023,v N S-Chargers,Leeds,1,0,0,0,0,0
+493773,30 Aug 2023,v England,Chester-le-Street,2,0,0,0,0,0
+493773,1 Sep 2023,v England,Manchester,1,0,0,0,0,0
+493773,4 Jan 2024,v Wellington,Auckland,2,0,0,0,0,0
+493773,7 Jan 2024,v Canterbury,Christchurch,1,0,0,0,0,0
+493773,12 Jan 2024,v Northern Dis,Mount Maunganui,1,1,1,0,0,1
+493773,17 Jan 2024,v Pakistan,Dunedin,2,1,1,0,0,1
+493773,19 Jan 2024,v Pakistan,Christchurch,1,0,0,0,0,0
+493773,21 Jan 2024,v Pakistan,Christchurch,1,1,1,0,0,1
+493773,21 Feb 2024,v Australia,Wellington,2,0,0,0,0,0
+493773,23 Feb 2024,v Australia,Auckland,1,1,1,0,0,1
+493773,15 Apr 2024,v SRH,Bengaluru,1,1,1,0,0,1
+493773,21 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+493773,25 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+493773,9 May 2024,v Punjab Kings,Dharamsala,2,1,1,0,0,1
+493773,12 May 2024,v DC,Bengaluru,2,1,1,0,0,1
+493773,18 May 2024,v CSK,Bengaluru,2,1,1,0,0,1
+493773,22 May 2024,v RR,Ahmedabad,2,0,0,0,0,0
+493773,7 Jun 2024,v Afghanistan,Providence,1,1,1,0,0,1
+493773,12 Jun 2024,v West Indies,Tarouba,1,1,1,0,0,1
+493773,14 Jun 2024,v Uganda,Tarouba,1,0,0,0,0,0
+493773,17 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+493773,6 Jul 2024,v MI New York,Morrisville,1,0,0,0,0,0
+493773,8 Jul 2024,v Texas,Morrisville,1,0,0,0,0,0
+493773,11 Jul 2024,v Seattle,Dallas,1,1,1,0,0,1
+493773,14 Jul 2024,v Los Angeles,Morrisville,1,1,1,0,0,1
+493773,16 Jul 2024,v MI New York,Dallas,2,3,3,0,0,3
+493773,19 Jul 2024,v Texas,Dallas,2,1,1,0,0,1
+493773,25 Jul 2024,v SF,Dallas,1,0,0,0,0,0
+493773,10 Nov 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+493773,17 Dec 2024,v Strikers,Canberra,1,0,0,0,0,0
+493773,21 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+493773,28 Dec 2024,v Stars,Canberra,2,1,1,0,0,1
+493773,30 Dec 2024,v Renegades,Sydney,2,0,0,0,0,0
+493773,3 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+493773,6 Jan 2025,v Heat,Brisbane,2,1,1,0,0,1
+493773,12 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+493773,14 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+493773,16 Jan 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+493773,20 Jan 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+493773,22 Jan 2025,v Warriorz,Dubai (DICS),1,0,0,0,0,0
+493773,29 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+493773,3 Feb 2025,v DC,Sharjah,2,0,0,0,0,0
+493773,5 Feb 2025,v DC,Dubai (DICS),2,0,0,0,0,0
+493773,1 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+493773,5 Apr 2025,v RR,New Chandigarh,1,0,0,0,0,0
+493773,8 Apr 2025,v CSK,New Chandigarh,2,0,0,0,0,0
+493773,12 Apr 2025,v SRH,Hyderabad,2,0,0,0,0,0
+493773,2 Jul 2025,v Texas,Lauderhill,1,0,0,0,0,0
+493773,4 Jul 2025,v Seattle,Lauderhill,1,0,0,0,0,0
+493773,8 Jul 2025,v Texas,Dallas,-,TDNF,-,-,-,-
+493773,13 Jul 2025,v MI New York,Dallas,1,0,0,0,0,0
+493773,8 Aug 2025,v Phoenix,Birmingham,1,1,1,0,0,1
+493773,10 Aug 2025,v N S-Chargers,Nottingham,1,0,0,0,0,0
+493773,14 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+493773,16 Aug 2025,v Brave,Nottingham,1,1,1,0,0,1
+493773,19 Aug 2025,v Originals,Nottingham,1,0,0,0,0,0
+493773,24 Aug 2025,v Fire,Cardiff,1,1,1,0,0,1
+493773,27 Aug 2025,v Phoenix,Nottingham,1,0,0,0,0,0
+493773,30 Aug 2025,v N S-Chargers,The Oval,1,1,1,0,0,1
+493773,9 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+493773,12 Dec 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+493773,14 Dec 2025,v DC,Dubai (DICS),1,1,1,0,0,1
+493773,16 Dec 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+493773,21 Dec 2025,v MI Emirates,Dubai (DICS),2,0,0,0,0,0
+493773,31 Jan 2026,v India,Thiruvananthapuram,1,0,0,0,0,0
+493773,8 Feb 2026,v Afghanistan,Chennai,1,0,0,0,0,0
+493773,10 Feb 2026,v U.A.E.,Chennai,1,0,0,0,0,0
+493773,14 Feb 2026,v South Africa,Ahmedabad,2,0,0,0,0,0
+493773,21 Feb 2026,v Pakistan,Colombo (RPS),-,TDNF,-,-,-,-
+493773,25 Feb 2026,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+493773,27 Feb 2026,v England,Colombo (RPS),2,0,0,0,0,0
+493773,4 Mar 2026,v South Africa,Eden Gardens,1,1,1,0,0,1
+493773,8 Mar 2026,v India,Ahmedabad,1,0,0,0,0,0
+493773,17 Mar 2026,v South Africa,Hamilton,2,2,2,0,0,2

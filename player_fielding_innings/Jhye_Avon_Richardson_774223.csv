@@ -1,0 +1,105 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+774223,16 Jan 2016,v Stars,W.A.C.A,1,2,2,0,0,2
+774223,23 Dec 2016,v Strikers,W.A.C.A,2,1,1,0,0,1
+774223,27 Dec 2016,v Sixers,Sydney,2,2,2,0,0,2
+774223,1 Jan 2017,v Thunder,W.A.C.A,2,0,0,0,0,0
+774223,5 Jan 2017,v Heat,W.A.C.A,2,0,0,0,0,0
+774223,11 Jan 2017,v Heat,Brisbane,2,0,0,0,0,0
+774223,14 Jan 2017,v Stars,W.A.C.A,2,0,0,0,0,0
+774223,24 Jan 2017,v Stars,W.A.C.A,1,1,1,0,0,1
+774223,28 Jan 2017,v Sixers,W.A.C.A,1,1,1,0,0,1
+774223,19 Feb 2017,v Sri Lanka,Geelong,2,1,1,0,0,1
+774223,22 Feb 2017,v Sri Lanka,Adelaide,2,2,2,0,0,2
+774223,23 Dec 2017,v Sixers,Sydney,1,1,1,0,0,1
+774223,26 Dec 2017,v Stars,W.A.C.A,2,0,0,0,0,0
+774223,29 Dec 2017,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+774223,1 Jan 2018,v Sixers,W.A.C.A,1,0,0,0,0,0
+774223,5 Jan 2018,v Heat,Brisbane,1,1,1,0,0,1
+774223,8 Jan 2018,v Renegades,W.A.C.A,1,0,0,0,0,0
+774223,25 Jan 2018,v Strikers,W.A.C.A,1,0,0,0,0,0
+774223,1 Feb 2018,v Hurricanes,Perth,1,0,0,0,0,0
+774223,2 Jul 2018,v Pakistan,Harare,1,0,0,0,0,0
+774223,3 Jul 2018,v Zimbabwe,Harare,2,1,1,0,0,1
+774223,5 Jul 2018,v Pakistan,Harare,1,0,0,0,0,0
+774223,6 Jul 2018,v Zimbabwe,Harare,1,2,2,0,0,2
+774223,8 Jul 2018,v Pakistan,Harare,2,1,1,0,0,1
+774223,22 Dec 2018,v Sixers,Sydney,1,0,0,0,0,0
+774223,26 Dec 2018,v Strikers,Perth,1,0,0,0,0,0
+774223,30 Dec 2018,v Hurricanes,Launceston,2,0,0,0,0,0
+774223,2 Jan 2019,v Thunder,Sydney,1,0,0,0,0,0
+774223,5 Jan 2019,v Heat,Perth,2,0,0,0,0,0
+774223,24 Feb 2019,v India,Visakhapatnam,1,0,0,0,0,0
+774223,27 Feb 2019,v India,Bengaluru,1,2,2,0,0,2
+774223,18 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+774223,21 Dec 2019,v Renegades,Perth,2,0,0,0,0,0
+774223,23 Dec 2019,v Strikers,Adelaide,1,0,0,0,0,0
+774223,26 Dec 2019,v Sixers,Perth,1,0,0,0,0,0
+774223,1 Jan 2020,v Heat,Carrara,2,0,0,0,0,0
+774223,5 Jan 2020,v Hurricanes,Perth,1,0,0,0,0,0
+774223,7 Jan 2020,v Renegades,Geelong,1,0,0,0,0,0
+774223,11 Jan 2020,v Heat,Perth,2,0,0,0,0,0
+774223,13 Jan 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+774223,15 Jan 2020,v Stars,Perth,2,0,0,0,0,0
+774223,18 Jan 2020,v Stars,Melbourne,1,0,0,0,0,0
+774223,20 Jan 2020,v Thunder,Perth,1,0,0,0,0,0
+774223,24 Jan 2020,v Strikers,Perth,1,0,0,0,0,0
+774223,26 Jan 2020,v Thunder,Sydney,2,0,0,0,0,0
+774223,12 Dec 2020,v Renegades,Hobart,2,0,0,0,0,0
+774223,16 Dec 2020,v Stars,Launceston,2,0,0,0,0,0
+774223,22 Dec 2020,v Thunder,Canberra,2,0,0,0,0,0
+774223,28 Dec 2020,v Strikers,Adelaide,1,0,0,0,0,0
+774223,31 Dec 2020,v Strikers,Adelaide,1,1,1,0,0,1
+774223,3 Jan 2021,v Renegades,Perth,2,0,0,0,0,0
+774223,6 Jan 2021,v Sixers,Perth,2,1,1,0,0,1
+774223,9 Jan 2021,v Thunder,Perth,2,0,0,0,0,0
+774223,12 Jan 2021,v Hurricanes,Perth,1,0,0,0,0,0
+774223,16 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+774223,19 Jan 2021,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+774223,22 Jan 2021,v Hurricanes,Melbourne (Docklands),2,2,2,0,0,2
+774223,23 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+774223,26 Jan 2021,v Heat,Adelaide,1,0,0,0,0,0
+774223,30 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+774223,4 Feb 2021,v Heat,Canberra,2,0,0,0,0,0
+774223,6 Feb 2021,v Sixers,Sydney,1,0,0,0,0,0
+774223,22 Feb 2021,v New Zealand,Christchurch,1,0,0,0,0,0
+774223,25 Feb 2021,v New Zealand,Dunedin,1,0,0,0,0,0
+774223,3 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+774223,5 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+774223,7 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+774223,12 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+774223,16 Apr 2021,v CSK,Wankhede,2,0,0,0,0,0
+774223,18 Apr 2021,v DC,Wankhede,2,1,1,0,0,1
+774223,22 Jan 2022,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+774223,28 Jan 2022,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+774223,18 Feb 2022,v Sri Lanka,Melbourne,1,0,0,0,0,0
+774223,20 Feb 2022,v Sri Lanka,Melbourne,2,0,0,0,0,0
+774223,8 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+774223,11 Jun 2022,v Sri Lanka,Pallekele,2,1,1,0,0,1
+774223,17 Dec 2022,v Sixers,Perth,2,0,0,0,0,0
+774223,19 Dec 2022,v Hurricanes,Launceston,1,0,0,0,0,0
+774223,23 Dec 2022,v Stars,Melbourne,2,1,1,0,0,1
+774223,26 Dec 2022,v Strikers,Perth,1,1,1,0,0,1
+774223,29 Dec 2022,v Stars,Perth,1,0,0,0,0,0
+774223,1 Jan 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+774223,4 Jan 2023,v Thunder,Perth,2,0,0,0,0,0
+774223,10 Dec 2023,v Renegades,Geelong,-,TDNF,-,-,-,-
+774223,13 Dec 2023,v Stars,Melbourne,1,0,0,0,0,0
+774223,20 Dec 2023,v Hurricanes,Perth,1,1,1,0,0,1
+774223,26 Dec 2023,v Renegades,Perth,2,0,0,0,0,0
+774223,3 Jan 2024,v Strikers,Perth,2,1,1,0,0,1
+774223,5 Jan 2024,v Strikers,Adelaide,2,0,0,0,0,0
+774223,8 Jan 2024,v Thunder,Sydney,1,0,0,0,0,0
+774223,10 Jan 2024,v Heat,Brisbane,1,1,1,0,0,1
+774223,7 Apr 2024,v MI,Wankhede,1,0,0,0,0,0
+774223,15 Dec 2024,v Stars,Perth,1,0,0,0,0,0
+774223,21 Dec 2024,v Hurricanes,Hobart,2,0,0,0,0,0
+774223,31 Dec 2024,v Strikers,Adelaide,1,0,0,0,0,0
+774223,7 Jan 2025,v Renegades,Perth,2,0,0,0,0,0
+774223,11 Jan 2025,v Sixers,Sydney,1,0,0,0,0,0
+774223,19 Dec 2025,v Heat,Brisbane,2,0,0,0,0,0
+774223,7 Jan 2026,v Renegades,Perth,2,0,0,0,0,0
+774223,11 Jan 2026,v Strikers,Adelaide,2,0,0,0,0,0
+774223,15 Jan 2026,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+774223,17 Jan 2026,v Stars,Perth,1,3,3,0,0,3
+774223,20 Jan 2026,v Sixers,Perth,2,0,0,0,0,0
+774223,25 Jan 2026,v Sixers,Perth,1,1,1,0,0,1

@@ -1,0 +1,176 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1070173,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+1070173,16 Apr 2018,v Daredevils,Eden Gardens,2,0,0,0,0,0
+1070173,18 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+1070173,21 Apr 2018,v Kings XI,Eden Gardens,2,0,0,0,0,0
+1070173,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+1070173,29 Apr 2018,v RCB,Bengaluru,1,1,1,0,0,1
+1070173,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+1070173,6 May 2018,v MI,Wankhede,1,1,1,0,0,1
+1070173,12 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+1070173,15 May 2018,v RR,Eden Gardens,1,1,1,0,0,1
+1070173,19 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+1070173,23 May 2018,v RR,Eden Gardens,2,0,0,0,0,0
+1070173,25 May 2018,v SRH,Eden Gardens,1,0,0,0,0,0
+1070173,22 Feb 2019,v Mumbai,Indore,1,1,1,0,0,1
+1070173,24 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+1070173,27 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+1070173,28 Feb 2019,v Goa,Indore,2,0,0,0,0,0
+1070173,2 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+1070173,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+1070173,27 Mar 2019,v Kings XI,Eden Gardens,2,0,0,0,0,0
+1070173,30 Mar 2019,v DC,Delhi,2,2,2,0,0,2
+1070173,5 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+1070173,7 Apr 2019,v RR,Jaipur,1,1,1,0,0,1
+1070173,9 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+1070173,12 Apr 2019,v DC,Eden Gardens,2,0,0,0,0,0
+1070173,14 Apr 2019,v CSK,Eden Gardens,2,0,0,0,0,0
+1070173,19 Apr 2019,v RCB,Eden Gardens,1,1,1,0,0,1
+1070173,21 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+1070173,25 Apr 2019,v RR,Eden Gardens,2,1,1,0,0,1
+1070173,28 Apr 2019,v MI,Eden Gardens,2,0,0,0,0,0
+1070173,3 May 2019,v Kings XI,Mohali,1,1,1,0,0,1
+1070173,5 May 2019,v MI,Wankhede,2,0,0,0,0,0
+1070173,8 Nov 2019,v Hyderabad,Chandigarh,1,1,1,0,0,1
+1070173,9 Nov 2019,v Arunachal,Chandigarh,1,1,1,0,0,1
+1070173,24 Nov 2019,v Karnataka,Surat,2,0,0,0,0,0
+1070173,25 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+1070173,27 Nov 2019,v Mumbai,Surat,1,1,1,0,0,1
+1070173,23 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+1070173,26 Sep 2020,v SRH,Abu Dhabi,1,0,0,0,0,0
+1070173,30 Sep 2020,v RR,Dubai (DICS),2,1,1,0,0,1
+1070173,3 Oct 2020,v DC,Sharjah,1,1,1,0,0,1
+1070173,7 Oct 2020,v CSK,Abu Dhabi,2,1,1,0,0,1
+1070173,10 Oct 2020,v Kings XI,Abu Dhabi,2,1,1,0,0,1
+1070173,12 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+1070173,16 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+1070173,18 Oct 2020,v SRH,Abu Dhabi,2,2,2,0,0,2
+1070173,21 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+1070173,24 Oct 2020,v DC,Abu Dhabi,2,1,1,0,0,1
+1070173,26 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+1070173,29 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+1070173,1 Nov 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+1070173,11 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+1070173,13 Apr 2021,v MI,Chennai,1,2,2,0,0,2
+1070173,18 Apr 2021,v RCB,Chennai,1,0,0,0,0,0
+1070173,21 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+1070173,24 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+1070173,26 Apr 2021,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+1070173,29 Apr 2021,v DC,Ahmedabad,2,0,0,0,0,0
+1070173,20 Sep 2021,v RCB,Abu Dhabi,1,1,1,0,0,1
+1070173,23 Sep 2021,v MI,Abu Dhabi,1,1,1,0,0,1
+1070173,26 Sep 2021,v CSK,Abu Dhabi,2,0,0,0,0,0
+1070173,28 Sep 2021,v DC,Sharjah,1,0,0,0,0,0
+1070173,1 Oct 2021,v Punjab Kings,Dubai (DICS),2,1,1,0,0,1
+1070173,3 Oct 2021,v SRH,Dubai (DICS),1,1,1,0,0,1
+1070173,7 Oct 2021,v RR,Sharjah,2,0,0,0,0,0
+1070173,11 Oct 2021,v RCB,Sharjah,1,0,0,0,0,0
+1070173,13 Oct 2021,v DC,Sharjah,1,0,0,0,0,0
+1070173,15 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+1070173,4 Nov 2021,v Puducherry,Lucknow,1,0,0,0,0,0
+1070173,5 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+1070173,6 Nov 2021,v Goa,Lucknow,2,0,0,0,0,0
+1070173,8 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+1070173,9 Nov 2021,v Tamil Nadu,Lucknow,2,1,1,0,0,1
+1070173,28 Mar 2022,v LSG,Wankhede,1,1,1,0,0,1
+1070173,2 Apr 2022,v DC,Pune,2,0,0,0,0,0
+1070173,8 Apr 2022,v Punjab Kings,Brabourne,1,2,2,0,0,2
+1070173,11 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+1070173,14 Apr 2022,v RR,DY Patil,2,2,2,0,0,2
+1070173,17 Apr 2022,v CSK,Pune,1,0,0,0,0,0
+1070173,23 Apr 2022,v KKR,DY Patil,2,0,0,0,0,0
+1070173,27 Apr 2022,v SRH,Wankhede,1,1,1,0,0,1
+1070173,30 Apr 2022,v RCB,Brabourne,1,1,1,0,0,1
+1070173,3 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+1070173,6 May 2022,v MI,Brabourne,1,0,0,0,0,0
+1070173,10 May 2022,v LSG,Pune,2,0,0,0,0,0
+1070173,15 May 2022,v CSK,Wankhede,1,0,0,0,0,0
+1070173,19 May 2022,v RCB,Wankhede,2,0,0,0,0,0
+1070173,24 May 2022,v RR,Eden Gardens,1,0,0,0,0,0
+1070173,29 May 2022,v RR,Ahmedabad,1,0,0,0,0,0
+1070173,18 Oct 2022,v Manipur,Jaipur,1,0,0,0,0,0
+1070173,20 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+1070173,22 Oct 2022,v UP,Jaipur,1,0,0,0,0,0
+1070173,30 Oct 2022,v Haryana,Eden Gardens,2,0,0,0,0,0
+1070173,1 Nov 2022,v Karnataka,Eden Gardens,2,0,0,0,0,0
+1070173,3 Nov 2022,v Himachal,Eden Gardens,1,0,0,0,0,0
+1070173,3 Jan 2023,v Sri Lanka,Wankhede,2,0,0,0,0,0
+1070173,5 Jan 2023,v Sri Lanka,Pune,1,1,1,0,0,1
+1070173,7 Jan 2023,v Sri Lanka,Rajkot,2,1,1,0,0,1
+1070173,27 Jan 2023,v New Zealand,Ranchi,1,0,0,0,0,0
+1070173,29 Jan 2023,v New Zealand,Lucknow,1,0,0,0,0,0
+1070173,1 Feb 2023,v New Zealand,Ahmedabad,2,0,0,0,0,0
+1070173,31 Mar 2023,v CSK,Ahmedabad,1,1,1,0,0,1
+1070173,4 Apr 2023,v DC,Delhi,1,0,0,0,0,0
+1070173,9 Apr 2023,v KKR,Ahmedabad,2,1,1,0,0,1
+1070173,13 Apr 2023,v Punjab Kings,Mohali,1,2,2,0,0,2
+1070173,16 Apr 2023,v RR,Ahmedabad,2,1,1,0,0,1
+1070173,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+1070173,25 Apr 2023,v MI,Ahmedabad,2,0,0,0,0,0
+1070173,29 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+1070173,2 May 2023,v DC,Ahmedabad,1,0,0,0,0,0
+1070173,5 May 2023,v RR,Jaipur,1,0,0,0,0,0
+1070173,7 May 2023,v LSG,Ahmedabad,2,0,0,0,0,0
+1070173,12 May 2023,v MI,Wankhede,1,0,0,0,0,0
+1070173,15 May 2023,v SRH,Ahmedabad,2,0,0,0,0,0
+1070173,21 May 2023,v RCB,Bengaluru,1,0,0,0,0,0
+1070173,23 May 2023,v CSK,Chennai,1,1,1,0,0,1
+1070173,26 May 2023,v MI,Ahmedabad,2,0,0,0,0,0
+1070173,28 May 2023,v CSK,Ahmedabad,2,0,0,0,0,0
+1070173,3 Aug 2023,v West Indies,Tarouba,1,0,0,0,0,0
+1070173,6 Aug 2023,v West Indies,Providence,2,0,0,0,0,0
+1070173,8 Aug 2023,v West Indies,Providence,1,0,0,0,0,0
+1070173,12 Aug 2023,v West Indies,Lauderhill,1,1,1,0,0,1
+1070173,13 Aug 2023,v West Indies,Lauderhill,2,0,0,0,0,0
+1070173,12 Dec 2023,v South Africa,Gqeberha,2,0,0,0,0,0
+1070173,14 Dec 2023,v South Africa,Johannesburg,2,0,0,0,0,0
+1070173,11 Jan 2024,v Afghanistan,Mohali,1,0,0,0,0,0
+1070173,24 Mar 2024,v MI,Ahmedabad,2,0,0,0,0,0
+1070173,26 Mar 2024,v CSK,Chennai,1,0,0,0,0,0
+1070173,31 Mar 2024,v SRH,Ahmedabad,1,1,1,0,0,1
+1070173,4 Apr 2024,v Punjab Kings,Ahmedabad,2,0,0,0,0,0
+1070173,7 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+1070173,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+1070173,17 Apr 2024,v DC,Ahmedabad,2,0,0,0,0,0
+1070173,21 Apr 2024,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+1070173,24 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+1070173,28 Apr 2024,v RCB,Ahmedabad,2,0,0,0,0,0
+1070173,4 May 2024,v RCB,Bengaluru,2,0,0,0,0,0
+1070173,10 May 2024,v CSK,Ahmedabad,2,0,0,0,0,0
+1070173,6 Jul 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+1070173,7 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+1070173,10 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+1070173,13 Jul 2024,v Zimbabwe,Harare,1,1,1,0,0,1
+1070173,14 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+1070173,27 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+1070173,30 Jul 2024,v Sri Lanka,Pallekele,2,1,1,0,0,1
+1070173,25 Mar 2025,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+1070173,29 Mar 2025,v MI,Ahmedabad,2,1,1,0,0,1
+1070173,2 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+1070173,6 Apr 2025,v SRH,Hyderabad,1,0,0,0,0,0
+1070173,9 Apr 2025,v RR,Ahmedabad,2,1,1,0,0,1
+1070173,12 Apr 2025,v LSG,Lucknow,2,1,1,0,0,1
+1070173,19 Apr 2025,v DC,Ahmedabad,1,0,0,0,0,0
+1070173,21 Apr 2025,v KKR,Eden Gardens,2,1,1,0,0,1
+1070173,28 Apr 2025,v RR,Jaipur,2,0,0,0,0,0
+1070173,2 May 2025,v SRH,Ahmedabad,2,0,0,0,0,0
+1070173,6 May 2025,v MI,Wankhede,1,3,3,0,0,3
+1070173,18 May 2025,v DC,Delhi,1,0,0,0,0,0
+1070173,22 May 2025,v LSG,Ahmedabad,1,0,0,0,0,0
+1070173,25 May 2025,v CSK,Ahmedabad,1,1,1,0,0,1
+1070173,30 May 2025,v MI,New Chandigarh,1,0,0,0,0,0
+1070173,10 Sep 2025,v U.A.E.,Dubai (DICS),1,1,1,0,0,1
+1070173,14 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+1070173,19 Sep 2025,v Oman,Abu Dhabi,2,0,0,0,0,0
+1070173,21 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+1070173,24 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+1070173,26 Sep 2025,v Sri Lanka,Dubai (DICS),2,2,2,0,0,2
+1070173,28 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+1070173,29 Oct 2025,v Australia,Canberra,-,TDNF,-,-,-,-
+1070173,31 Oct 2025,v Australia,Melbourne,2,0,0,0,0,0
+1070173,2 Nov 2025,v Australia,Hobart,1,0,0,0,0,0
+1070173,6 Nov 2025,v Australia,Carrara,2,1,1,0,0,1
+1070173,8 Nov 2025,v Australia,Brisbane,-,TDNF,-,-,-,-
+1070173,9 Dec 2025,v South Africa,Cuttack,2,0,0,0,0,0
+1070173,11 Dec 2025,v South Africa,New Chandigarh,1,0,0,0,0,0
+1070173,14 Dec 2025,v South Africa,Dharamsala,1,0,0,0,0,0

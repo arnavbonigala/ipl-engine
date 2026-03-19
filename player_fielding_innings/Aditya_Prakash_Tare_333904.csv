@@ -1,0 +1,131 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+333904,20 Oct 2009,v Baroda,Pune,2,1,1,0,1,0
+333904,21 Oct 2009,v Gujarat,Pune,1,1,0,1,0,0
+333904,22 Oct 2009,v Saurashtra,Pune,2,1,1,0,1,0
+333904,24 Oct 2009,v Maharashtra,Pune,1,1,0,1,0,0
+333904,13 Mar 2010,v RR,Brabourne,2,0,0,0,0,0
+333904,17 Mar 2010,v Daredevils,Delhi,2,2,0,2,0,0
+333904,20 Mar 2010,v RCB,Brabourne,2,0,0,0,0,0
+333904,22 Mar 2010,v KKR,Brabourne,1,0,0,0,0,0
+333904,25 Mar 2010,v CSK,Brabourne,1,0,0,0,0,0
+333904,17 Apr 2010,v RCB,Bengaluru,2,1,1,0,1,0
+333904,19 Apr 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+333904,20 Oct 2010,v Baroda,Vadodara,1,1,1,0,1,0
+333904,21 Oct 2010,v Gujarat,Vadodara,1,1,1,0,1,0
+333904,22 Oct 2010,v Saurashtra,Vadodara,2,0,0,0,0,0
+333904,24 Oct 2010,v Maharashtra,Vadodara,2,2,2,0,2,0
+333904,24 Mar 2012,v Tamil Nadu,Brabourne,2,2,1,1,1,0
+333904,26 Mar 2012,v Punjab,Mumbai,2,1,0,1,0,0
+333904,17 Mar 2013,v Baroda,Ahmedabad,1,0,0,0,0,0
+333904,18 Mar 2013,v Gujarat,Ahmedabad,1,1,0,1,0,0
+333904,19 Mar 2013,v Saurashtra,Ahmedabad,1,0,0,0,0,0
+333904,21 Mar 2013,v Maharashtra,Ahmedabad,1,0,0,0,0,0
+333904,15 May 2013,v RR,Wankhede,2,0,0,0,0,0
+333904,18 May 2013,v Kings XI,Dharamsala,1,0,0,0,0,0
+333904,21 May 2013,v CSK,Delhi,1,0,0,0,0,0
+333904,24 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+333904,26 May 2013,v CSK,Eden Gardens,2,0,0,0,0,0
+333904,30 Mar 2014,v Baroda,Wankhede,1,1,1,0,1,0
+333904,31 Mar 2014,v Gujarat,Mumbai,1,0,0,0,0,0
+333904,2 Apr 2014,v Saurashtra,Mumbai,2,1,1,0,1,0
+333904,3 Apr 2014,v Maharashtra,Wankhede,1,0,0,0,0,0
+333904,16 Apr 2014,v KKR,Abu Dhabi,1,0,0,0,0,0
+333904,19 Apr 2014,v RCB,Dubai (DICS),2,0,0,0,0,0
+333904,25 Apr 2014,v CSK,Dubai (DICS),2,0,0,0,0,0
+333904,27 Apr 2014,v Daredevils,Sharjah,2,0,0,0,0,0
+333904,30 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+333904,3 May 2014,v Kings XI,Wankhede,1,0,0,0,0,0
+333904,6 May 2014,v RCB,Wankhede,2,0,0,0,0,0
+333904,10 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+333904,12 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+333904,14 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+333904,19 May 2014,v RR,Ahmedabad,2,1,0,1,0,0
+333904,21 May 2014,v Kings XI,Mohali,1,0,0,0,0,0
+333904,23 May 2014,v Daredevils,Wankhede,2,1,0,1,0,0
+333904,25 May 2014,v RR,Wankhede,1,0,0,0,0,0
+333904,28 May 2014,v CSK,Brabourne,2,1,0,1,0,0
+333904,13 Sep 2014,v Lahore Lions,Raipur,2,1,0,1,0,0
+333904,14 Sep 2014,v Express,Raipur,1,0,0,0,0,0
+333904,16 Sep 2014,v Northern Dis,Raipur,2,0,0,0,0,0
+333904,24 Mar 2015,v Baroda,Pune,1,1,0,1,0,0
+333904,25 Mar 2015,v Gujarat,Pune,2,2,1,1,1,0
+333904,26 Mar 2015,v Saurashtra,Pune,1,1,1,0,1,0
+333904,27 Mar 2015,v Maharashtra,Pune,2,2,1,1,1,0
+333904,8 Apr 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+333904,12 Apr 2015,v Kings XI,Wankhede,1,1,1,0,1,0
+333904,2 Jan 2016,v Odisha,Cuttack,1,0,0,0,0,0
+333904,3 Jan 2016,v Karnataka,Cuttack,1,0,0,0,0,0
+333904,4 Jan 2016,v Services,Cuttack,1,1,0,1,0,0
+333904,7 Jan 2016,v UP,Cuttack,2,1,1,0,1,0
+333904,8 Jan 2016,v Maharashtra,Cuttack,1,1,1,0,1,0
+333904,15 Jan 2016,v Kerala,Wankhede,1,0,0,0,0,0
+333904,16 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+333904,18 Jan 2016,v Baroda,Wankhede,2,0,0,0,0,0
+333904,21 Apr 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+333904,23 Apr 2016,v Kings XI,Hyderabad,1,0,0,0,0,0
+333904,26 Apr 2016,v Supergiants,Hyderabad,2,1,1,0,0,1
+333904,29 Jan 2017,v Baroda,Vadodara,2,0,0,0,0,0
+333904,30 Jan 2017,v Gujarat,Vadodara,1,1,1,0,1,0
+333904,1 Feb 2017,v Saurashtra,Vadodara,1,1,1,0,1,0
+333904,2 Feb 2017,v Maharashtra,Vadodara,1,1,1,0,1,0
+333904,12 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+333904,13 Feb 2017,v North Zone,Wankhede,1,0,0,0,0,0
+333904,16 Feb 2017,v South Zone,Wankhede,2,0,0,0,0,0
+333904,18 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+333904,8 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+333904,11 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+333904,22 Apr 2017,v MI,Wankhede,1,0,0,0,0,0
+333904,7 Jan 2018,v Baroda,Rajkot,1,0,0,0,0,0
+333904,8 Jan 2018,v Gujarat,Rajkot,1,3,3,0,3,0
+333904,10 Jan 2018,v Saurashtra,Rajkot,2,0,0,0,0,0
+333904,11 Jan 2018,v Maharashtra,Rajkot,1,2,2,0,2,0
+333904,21 Jan 2018,v Jharkhand,Kolkata,2,0,0,0,0,0
+333904,22 Jan 2018,v Punjab,Kolkata,2,1,1,0,1,0
+333904,24 Jan 2018,v Rajasthan,Eden Gardens,1,1,1,0,1,0
+333904,25 Jan 2018,v Karnataka,Eden Gardens,2,1,1,0,1,0
+333904,21 Feb 2019,v Sikkim,Indore,2,1,1,0,1,0
+333904,22 Feb 2019,v Punjab,Indore,2,3,2,1,2,0
+333904,24 Feb 2019,v M. Pradesh,Indore,1,6,6,0,6,0
+333904,25 Feb 2019,v Goa,Indore,1,0,0,0,0,0
+333904,27 Feb 2019,v Railways,Indore,1,0,0,0,0,0
+333904,28 Feb 2019,v Saurashtra,Indore,2,3,3,0,3,0
+333904,8 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+333904,8 Nov 2019,v Mizoram,Wankhede,1,1,1,0,1,0
+333904,9 Nov 2019,v Haryana,Wankhede,1,0,0,0,0,0
+333904,11 Nov 2019,v M. Pradesh,Wankhede,1,0,0,0,0,0
+333904,12 Nov 2019,v Puducherry,Wankhede,2,0,0,0,0,0
+333904,14 Nov 2019,v Bengal,Wankhede,1,0,0,0,0,0
+333904,15 Nov 2019,v Meghalaya,Wankhede,2,0,0,0,0,0
+333904,17 Nov 2019,v Assam,Wankhede,2,0,0,0,0,0
+333904,22 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+333904,24 Nov 2019,v Jharkhand,Surat,1,1,1,0,1,0
+333904,25 Nov 2019,v Karnataka,Surat,1,1,0,1,0,0
+333904,27 Nov 2019,v Punjab,Surat,2,1,1,0,1,0
+333904,11 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+333904,13 Jan 2021,v Kerala,Wankhede,2,1,1,0,1,0
+333904,15 Jan 2021,v Haryana,Mumbai,2,2,2,0,2,0
+333904,17 Jan 2021,v Puducherry,Wankhede,2,2,2,0,2,0
+333904,4 Nov 2021,v Karnataka,Guwahati,1,1,1,0,1,0
+333904,5 Nov 2021,v Services,Guwahati,2,2,2,0,2,0
+333904,6 Nov 2021,v Bengal,Guwahati,2,1,1,0,1,0
+333904,8 Nov 2021,v Chhattisgarh,Guwahati,1,1,1,0,1,0
+333904,11 Oct 2022,v Railways,Rajkot,1,1,1,0,1,0
+333904,12 Oct 2022,v Assam,Saurashtra,2,1,1,0,1,0
+333904,14 Oct 2022,v M. Pradesh,Saurashtra,2,1,1,0,1,0
+333904,16 Oct 2022,v Rajasthan,Rajkot,1,0,0,0,0,0
+333904,18 Oct 2022,v Vidarbha,Rajkot,1,0,0,0,0,0
+333904,20 Oct 2022,v Mizoram,Rajkot,2,3,1,2,1,0
+333904,22 Oct 2022,v Mumbai,Saurashtra,1,3,3,0,3,0
+333904,16 Oct 2023,v Vidarbha,New Chandigarh,2,2,2,0,2,0
+333904,17 Oct 2023,v Maharashtra,New Chandigarh,2,2,2,0,2,0
+333904,19 Oct 2023,v Jharkhand,Mohali,1,0,0,0,0,0
+333904,23 Oct 2023,v Bengal,Mohali,2,0,0,0,0,0
+333904,25 Oct 2023,v Rajasthan,Mohali,2,3,2,1,2,0
+333904,27 Oct 2023,v Puducherry,Mohali,1,2,2,0,2,0
+333904,23 Nov 2024,v Karnataka,Indore,2,1,1,0,1,0
+333904,25 Nov 2024,v Baroda,Indore,2,1,1,0,1,0
+333904,27 Nov 2024,v Sikkim,Indore,1,0,0,0,0,0
+333904,29 Nov 2024,v Saurashtra,Indore,1,1,1,0,1,0
+333904,1 Dec 2024,v Tripura,Indore,2,0,0,0,0,0
+333904,3 Dec 2024,v Gujarat,Indore,2,0,0,0,0,0
+333904,5 Dec 2024,v Tamil Nadu,Indore,1,0,0,0,0,0

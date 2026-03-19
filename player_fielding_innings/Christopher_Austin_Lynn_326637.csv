@@ -1,0 +1,307 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+326637,13 Jan 2010,v NSW,Sydney,2,0,0,0,0,0
+326637,16 Jan 2010,v West Aust,Brisbane,2,0,0,0,0,0
+326637,2 Jan 2011,v Victoria,Melbourne,1,0,0,0,0,0
+326637,7 Jan 2011,v Tasmania,Brisbane,1,0,0,0,0,0
+326637,24 Jan 2011,v NSW,Brisbane,1,0,0,0,0,0
+326637,16 Dec 2011,v Sixers,Sydney,2,0,0,0,0,0
+326637,20 Dec 2011,v Stars,Brisbane,1,0,0,0,0,0
+326637,29 Dec 2011,v Scorchers,W.A.C.A,1,0,0,0,0,0
+326637,3 Jan 2012,v Strikers,Brisbane,1,0,0,0,0,0
+326637,12 Jan 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,17 Jan 2012,v Thunder,Brisbane,2,0,0,0,0,0
+326637,18 May 2012,v RR,Hyderabad,1,1,1,0,0,1
+326637,24 Aug 2012,v Wayamba U,Colombo (RPS),2,0,0,0,0,0
+326637,13 Dec 2012,v Strikers,Adelaide,1,0,0,0,0,0
+326637,18 Dec 2012,v Scorchers,Brisbane,2,0,0,0,0,0
+326637,22 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,28 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+326637,3 Jan 2013,v Stars,Brisbane,2,1,1,0,0,1
+326637,7 Jan 2013,v Sixers,Brisbane,2,0,0,0,0,0
+326637,12 Jan 2013,v Hurricanes,Hobart,1,0,0,0,0,0
+326637,15 Jan 2013,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,19 Jan 2013,v Scorchers,W.A.C.A,2,0,0,0,0,0
+326637,22 Sep 2013,v Trinidad & T,Ranchi,1,1,1,0,0,1
+326637,24 Sep 2013,v Titans,Mohali,1,0,0,0,0,0
+326637,28 Sep 2013,v CSK,Ranchi,2,0,0,0,0,0
+326637,22 Dec 2013,v Scorchers,Brisbane,1,0,0,0,0,0
+326637,28 Dec 2013,v Hurricanes,Brisbane,2,1,1,0,0,1
+326637,30 Dec 2013,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+326637,2 Jan 2014,v Sixers,Brisbane,1,3,3,0,0,3
+326637,8 Jan 2014,v Thunder,Sydney,2,0,0,0,0,0
+326637,11 Jan 2014,v Stars,Brisbane,2,1,1,0,0,1
+326637,18 Jan 2014,v Strikers,Adelaide,2,0,0,0,0,0
+326637,23 Jan 2014,v Hurricanes,Hobart,1,2,2,0,0,2
+326637,29 Jan 2014,v England,Hobart,2,1,1,0,0,1
+326637,31 Jan 2014,v England,Melbourne,1,0,0,0,0,0
+326637,24 Apr 2014,v RCB,Sharjah,2,2,2,0,0,2
+326637,26 Apr 2014,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+326637,21 Dec 2014,v Thunder,Sydney,1,0,0,0,0,0
+326637,28 Dec 2014,v Stars,Brisbane,2,1,1,0,0,1
+326637,2 Jan 2015,v Hurricanes,Hobart,2,0,0,0,0,0
+326637,4 Jan 2015,v Strikers,Brisbane,2,1,1,0,0,1
+326637,8 Jan 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+326637,11 Jan 2015,v Sixers,Brisbane,2,0,0,0,0,0
+326637,13 Jan 2015,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,15 Jan 2015,v Hurricanes,Brisbane,2,0,0,0,0,0
+326637,23 Jun 2015,v Tridents,Bridgetown,1,0,0,0,0,0
+326637,28 Jun 2015,v Zouks,Gros Islet,1,1,1,0,0,1
+326637,30 Jun 2015,v Patriots,Basseterre,1,0,0,0,0,0
+326637,4 Jul 2015,v Patriots,Basseterre,1,1,1,0,0,1
+326637,7 Jul 2015,v Zouks,Kingston,1,1,1,0,0,1
+326637,9 Jul 2015,v Red Steel,Kingston,2,0,0,0,0,0
+326637,11 Jul 2015,v Tridents,Kingston,1,2,2,0,0,2
+326637,12 Jul 2015,v Amazon,Kingston,1,0,0,0,0,0
+326637,19 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+326637,23 Jul 2015,v Red Steel,Port of Spain,1,1,1,0,0,1
+326637,19 Dec 2015,v Renegades,Brisbane,2,0,0,0,0,0
+326637,22 Dec 2015,v Hurricanes,Hobart,1,0,0,0,0,0
+326637,26 Dec 2015,v Scorchers,W.A.C.A,2,1,1,0,0,1
+326637,29 Dec 2015,v Hurricanes,Brisbane,1,0,0,0,0,0
+326637,3 Jan 2016,v Thunder,Brisbane,1,0,0,0,0,0
+326637,8 Jan 2016,v Strikers,Brisbane,2,0,0,0,0,0
+326637,10 Jan 2016,v Sixers,Sydney,2,0,0,0,0,0
+326637,14 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+326637,26 Jan 2016,v India,Adelaide,1,0,0,0,0,0
+326637,29 Jan 2016,v India,Melbourne,1,1,1,0,0,1
+326637,31 Jan 2016,v India,Sydney,2,0,0,0,0,0
+326637,28 Apr 2016,v MI,Wankhede,2,1,1,0,0,1
+326637,2 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+326637,30 Jun 2016,v Patriots,Basseterre,1,1,1,0,0,1
+326637,2 Jul 2016,v Trinbago,Port of Spain,1,1,1,0,0,1
+326637,7 Jul 2016,v Tallawahs,Providence,1,0,0,0,0,0
+326637,9 Jul 2016,v Patriots,Providence,1,0,0,0,0,0
+326637,10 Jul 2016,v Trinbago,Providence,1,0,0,0,0,0
+326637,12 Jul 2016,v Zouks,Providence,1,2,2,0,0,2
+326637,15 Jul 2016,v Tallawahs,Kingston,2,0,0,0,0,0
+326637,24 Jul 2016,v Zouks,Gros Islet,2,0,0,0,0,0
+326637,28 Jul 2016,v Tridents,Lauderhill,1,1,1,0,0,1
+326637,30 Jul 2016,v Tridents,Lauderhill,1,3,3,0,0,3
+326637,3 Aug 2016,v Tallawahs,Basseterre,1,0,0,0,0,0
+326637,7 Aug 2016,v Tallawahs,Basseterre,2,0,0,0,0,0
+326637,21 Dec 2016,v Strikers,Adelaide,2,0,0,0,0,0
+326637,28 Dec 2016,v Thunder,Sydney,1,0,0,0,0,0
+326637,30 Dec 2016,v Hurricanes,Brisbane,1,2,2,0,0,2
+326637,3 Jan 2017,v Sixers,Brisbane,2,0,0,0,0,0
+326637,5 Jan 2017,v Scorchers,W.A.C.A,1,0,0,0,0,0
+326637,7 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+326637,9 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+326637,7 May 2017,v RCB,Bengaluru,1,1,1,0,0,1
+326637,9 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+326637,13 May 2017,v MI,Eden Gardens,1,0,0,0,0,0
+326637,17 May 2017,v SRH,Bengaluru,1,1,1,0,0,1
+326637,19 May 2017,v MI,Bengaluru,2,0,0,0,0,0
+326637,27 Dec 2017,v Thunder,Brisbane,1,1,1,0,0,1
+326637,31 Dec 2017,v Strikers,Adelaide,1,1,1,0,0,1
+326637,2 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+326637,5 Jan 2018,v Scorchers,Brisbane,2,0,0,0,0,0
+326637,27 Jan 2018,v Renegades,Brisbane,1,0,0,0,0,0
+326637,3 Feb 2018,v New Zealand,Sydney,1,0,0,0,0,0
+326637,7 Feb 2018,v England,Hobart,1,0,0,0,0,0
+326637,10 Feb 2018,v England,Melbourne,1,0,0,0,0,0
+326637,16 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+326637,21 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+326637,8 Apr 2018,v RCB,Eden Gardens,1,0,0,0,0,0
+326637,10 Apr 2018,v CSK,Chennai,2,0,0,0,0,0
+326637,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+326637,16 Apr 2018,v Daredevils,Eden Gardens,2,0,0,0,0,0
+326637,18 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+326637,21 Apr 2018,v Kings XI,Eden Gardens,2,0,0,0,0,0
+326637,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+326637,29 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+326637,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+326637,6 May 2018,v MI,Wankhede,1,1,1,0,0,1
+326637,9 May 2018,v MI,Eden Gardens,1,1,1,0,0,1
+326637,12 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+326637,15 May 2018,v RR,Eden Gardens,1,0,0,0,0,0
+326637,19 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+326637,23 May 2018,v RR,Eden Gardens,2,1,1,0,0,1
+326637,25 May 2018,v SRH,Eden Gardens,1,0,0,0,0,0
+326637,8 Aug 2018,v Stars,Port of Spain,2,0,0,0,0,0
+326637,10 Aug 2018,v Tallawahs,Port of Spain,2,1,1,0,0,1
+326637,11 Aug 2018,v Patriots,Port of Spain,1,0,0,0,0,0
+326637,16 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+326637,19 Aug 2018,v Tallawahs,Lauderhill,1,0,0,0,0,0
+326637,26 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+326637,1 Sep 2018,v Patriots,Basseterre,2,0,0,0,0,0
+326637,5 Sep 2018,v Amazon,Port of Spain,2,0,0,0,0,0
+326637,7 Sep 2018,v Tridents,Port of Spain,2,0,0,0,0,0
+326637,22 Oct 2018,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+326637,24 Oct 2018,v Pakistan,Abu Dhabi,1,0,0,0,0,0
+326637,26 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+326637,28 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+326637,17 Nov 2018,v South Africa,Carrara,1,0,0,0,0,0
+326637,21 Nov 2018,v India,Brisbane,2,1,1,0,0,1
+326637,23 Nov 2018,v India,Melbourne,-,TDNF,-,-,-,-
+326637,25 Nov 2018,v India,Sydney,2,0,0,0,0,0
+326637,19 Dec 2018,v Strikers,Brisbane,2,0,0,0,0,0
+326637,22 Dec 2018,v Hurricanes,Carrara,1,0,0,0,0,0
+326637,1 Jan 2019,v Sixers,Carrara,2,0,0,0,0,0
+326637,5 Jan 2019,v Scorchers,Perth,1,1,1,0,0,1
+326637,8 Jan 2019,v Thunder,Sydney,2,0,0,0,0,0
+326637,10 Jan 2019,v Renegades,Brisbane,2,0,0,0,0,0
+326637,13 Jan 2019,v Renegades,Geelong,2,0,0,0,0,0
+326637,17 Jan 2019,v Thunder,Brisbane,1,0,0,0,0,0
+326637,20 Jan 2019,v Sixers,Sydney,1,1,1,0,0,1
+326637,27 Jan 2019,v Stars,Melbourne,1,0,0,0,0,0
+326637,29 Jan 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+326637,1 Feb 2019,v Scorchers,Brisbane,1,2,2,0,0,2
+326637,3 Feb 2019,v Strikers,Adelaide,1,1,1,0,0,1
+326637,8 Feb 2019,v Stars,Brisbane,1,0,0,0,0,0
+326637,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+326637,27 Mar 2019,v Kings XI,Eden Gardens,2,0,0,0,0,0
+326637,30 Mar 2019,v DC,Delhi,2,0,0,0,0,0
+326637,5 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+326637,7 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+326637,9 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+326637,14 Apr 2019,v CSK,Eden Gardens,2,0,0,0,0,0
+326637,19 Apr 2019,v RCB,Eden Gardens,1,0,0,0,0,0
+326637,21 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+326637,25 Apr 2019,v RR,Eden Gardens,2,0,0,0,0,0
+326637,28 Apr 2019,v MI,Eden Gardens,2,0,0,0,0,0
+326637,3 May 2019,v Kings XI,Mohali,1,1,1,0,0,1
+326637,5 May 2019,v MI,Wankhede,2,0,0,0,0,0
+326637,17 Dec 2019,v Thunder,Brisbane,1,1,1,0,0,1
+326637,20 Dec 2019,v Stars,Carrara,1,0,0,0,0,0
+326637,22 Dec 2019,v Sixers,Sydney,2,1,1,0,0,1
+326637,1 Jan 2020,v Scorchers,Carrara,1,0,0,0,0,0
+326637,3 Jan 2020,v Hurricanes,Hobart,2,1,1,0,0,1
+326637,6 Jan 2020,v Thunder,Sydney,2,0,0,0,0,0
+326637,9 Jan 2020,v Hurricanes,Brisbane,1,0,0,0,0,0
+326637,11 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+326637,14 Jan 2020,v Strikers,Brisbane,1,0,0,0,0,0
+326637,17 Jan 2020,v Strikers,Adelaide,2,0,0,0,0,0
+326637,19 Jan 2020,v Renegades,Brisbane,1,0,0,0,0,0
+326637,23 Jan 2020,v Sixers,Brisbane,2,0,0,0,0,0
+326637,25 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+326637,27 Jan 2020,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,21 Feb 2020,v Sultans,Lahore,2,1,1,0,0,1
+326637,23 Feb 2020,v United,Lahore,2,0,0,0,0,0
+326637,28 Feb 2020,v Zalmi,Rawalpindi,1,0,0,0,0,0
+326637,3 Mar 2020,v Gladiators,Lahore,2,1,1,0,0,1
+326637,4 Mar 2020,v United,Lahore,1,0,0,0,0,0
+326637,10 Mar 2020,v Zalmi,Lahore,1,0,0,0,0,0
+326637,12 Mar 2020,v Kings,Karachi,2,0,0,0,0,0
+326637,15 Mar 2020,v Sultans,Lahore,1,0,0,0,0,0
+326637,18 Aug 2020,v Tridents,Tarouba,1,1,1,0,0,1
+326637,19 Aug 2020,v Amazon,Tarouba,2,0,0,0,0,0
+326637,22 Aug 2020,v Zouks,Tarouba,1,0,0,0,0,0
+326637,25 Aug 2020,v Tridents,Port of Spain,1,0,0,0,0,0
+326637,27 Aug 2020,v Zouks,Port of Spain,2,0,0,0,0,0
+326637,29 Aug 2020,v Tallawahs,Port of Spain,1,0,0,0,0,0
+326637,2 Sep 2020,v Trinbago,Tarouba,1,1,1,0,0,1
+326637,3 Sep 2020,v Tallawahs,Tarouba,-,TDNF,-,-,-,-
+326637,6 Sep 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+326637,11 Dec 2020,v Stars,Canberra,2,0,0,0,0,0
+326637,14 Dec 2020,v Thunder,Canberra,2,0,0,0,0,0
+326637,4 Jan 2021,v Thunder,Brisbane,1,0,0,0,0,0
+326637,7 Jan 2021,v Stars,Carrara,2,0,0,0,0,0
+326637,10 Jan 2021,v Sixers,Carrara,2,0,0,0,0,0
+326637,14 Jan 2021,v Renegades,Canberra,1,1,1,0,0,1
+326637,19 Jan 2021,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+326637,21 Jan 2021,v Strikers,Adelaide,1,2,2,0,0,2
+326637,23 Jan 2021,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+326637,26 Jan 2021,v Scorchers,Adelaide,2,0,0,0,0,0
+326637,29 Jan 2021,v Strikers,Brisbane,1,0,0,0,0,0
+326637,31 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+326637,4 Feb 2021,v Scorchers,Canberra,1,0,0,0,0,0
+326637,21 Feb 2021,v United,Karachi,2,0,0,0,0,0
+326637,23 Feb 2021,v Zalmi,Karachi,2,0,0,0,0,0
+326637,26 Feb 2021,v Qalandars,Karachi,1,0,0,0,0,0
+326637,27 Feb 2021,v Kings,Karachi,2,1,1,0,0,1
+326637,9 Apr 2021,v RCB,Chennai,2,2,2,0,0,2
+326637,24 Jul 2021,v Fire,Leeds,1,0,0,0,0,0
+326637,26 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+326637,31 Jul 2021,v Invincibles,Leeds,1,0,0,0,0,0
+326637,3 Aug 2021,v Spirit,Lord's,2,0,0,0,0,0
+326637,7 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+326637,12 Aug 2021,v Originals,Leeds,2,0,0,0,0,0
+326637,17 Aug 2021,v Phoenix,Leeds,2,0,0,0,0,0
+326637,6 Dec 2021,v Thunder,Canberra,2,0,0,0,0,0
+326637,8 Dec 2021,v Scorchers,Perth,1,0,0,0,0,0
+326637,13 Dec 2021,v Renegades,Carrara,1,0,0,0,0,0
+326637,19 Dec 2021,v Thunder,Brisbane,1,0,0,0,0,0
+326637,23 Dec 2021,v Strikers,Adelaide,2,0,0,0,0,0
+326637,27 Dec 2021,v Stars,Brisbane,1,0,0,0,0,0
+326637,29 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+326637,1 Jan 2022,v Hurricanes,Hobart,2,0,0,0,0,0
+326637,12 Jan 2022,v Strikers,Brisbane,1,0,0,0,0,0
+326637,16 Jan 2022,v Stars,Melbourne,2,1,1,0,0,1
+326637,17 Jan 2022,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+326637,19 Jan 2022,v Sixers,Brisbane,1,1,1,0,0,1
+326637,26 May 2022,v Bears,Birmingham,1,0,0,0,0,0
+326637,27 May 2022,v Durham,Northampton,2,0,0,0,0,0
+326637,30 May 2022,v Notts,Nottingham,1,0,0,0,0,0
+326637,1 Jun 2022,v Leics,Northampton,2,0,0,0,0,0
+326637,5 Jun 2022,v Durham,Chester-le-Street,1,0,0,0,0,0
+326637,7 Jun 2022,v Derbyshire,Northampton,1,0,0,0,0,0
+326637,9 Jun 2022,v Worcs,Northampton,2,0,0,0,0,0
+326637,21 Jun 2022,v Derbyshire,Derby,2,0,0,0,0,0
+326637,22 Jun 2022,v Bears,Northampton,2,0,0,0,0,0
+326637,24 Jun 2022,v Yorkshire,Northampton,1,0,0,0,0,0
+326637,1 Jul 2022,v Leics,Leicester,1,0,0,0,0,0
+326637,14 Dec 2022,v Sixers,Adelaide,2,0,0,0,0,0
+326637,16 Dec 2022,v Thunder,Sydney,2,0,0,0,0,0
+326637,20 Dec 2022,v Thunder,Adelaide,1,0,0,0,0,0
+326637,23 Dec 2022,v Heat,Brisbane,1,2,2,0,0,2
+326637,26 Dec 2022,v Scorchers,Perth,2,1,1,0,0,1
+326637,31 Dec 2022,v Stars,Adelaide,1,0,0,0,0,0
+326637,2 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+326637,5 Jan 2023,v Hurricanes,Adelaide,1,1,1,0,0,1
+326637,10 Jan 2023,v Renegades,Adelaide,2,0,0,0,0,0
+326637,12 Jan 2023,v Stars,Melbourne,2,0,0,0,0,0
+326637,14 Jan 2023,v Heat,Adelaide,1,0,0,0,0,0
+326637,24 May 2023,v Worcs,Northampton,1,0,0,0,0,0
+326637,26 May 2023,v Durham,Northampton,2,0,0,0,0,0
+326637,29 May 2023,v Derbyshire,Derby,1,0,0,0,0,0
+326637,31 May 2023,v Bears,Northampton,1,0,0,0,0,0
+326637,2 Jun 2023,v Leics,Northampton,1,0,0,0,0,0
+326637,4 Jun 2023,v Worcs,Worcester,1,0,0,0,0,0
+326637,6 Jun 2023,v Durham,Chester-le-Street,2,1,1,0,0,1
+326637,9 Jun 2023,v Bears,Birmingham,1,0,0,0,0,0
+326637,16 Jun 2023,v Lancashire,Northampton,1,1,1,0,0,1
+326637,20 Jun 2023,v Yorkshire,Leeds,2,0,0,0,0,0
+326637,21 Jun 2023,v Derbyshire,Northampton,2,0,0,0,0,0
+326637,23 Jun 2023,v Leics,Leicester,2,0,0,0,0,0
+326637,2 Jul 2023,v Lancashire,Manchester,2,0,0,0,0,0
+326637,12 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+326637,13 Aug 2023,v Galle Titans,Colombo (RPS),2,0,0,0,0,0
+326637,17 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+326637,19 Dec 2023,v Thunder,Adelaide,1,0,0,0,0,0
+326637,22 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+326637,29 Dec 2023,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+326637,31 Dec 2023,v Stars,Adelaide,2,0,0,0,0,0
+326637,3 Jan 2024,v Scorchers,Perth,1,0,0,0,0,0
+326637,5 Jan 2024,v Scorchers,Adelaide,1,0,0,0,0,0
+326637,9 Jan 2024,v Hurricanes,Adelaide,1,0,0,0,0,0
+326637,24 Jan 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+326637,27 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+326637,31 Jan 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+326637,3 Feb 2024,v Vipers,Dubai (DICS),2,0,0,0,0,0
+326637,4 Feb 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+326637,6 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+326637,8 Feb 2024,v MI Emirates,Dubai (DICS),2,0,0,0,0,0
+326637,10 Feb 2024,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+326637,14 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+326637,15 Feb 2024,v DC,Sharjah,2,0,0,0,0,0
+326637,17 Dec 2024,v Thunder,Canberra,2,0,0,0,0,0
+326637,22 Dec 2024,v Heat,Brisbane,2,0,0,0,0,0
+326637,27 Dec 2024,v Hurricanes,Adelaide,1,0,0,0,0,0
+326637,31 Dec 2024,v Scorchers,Adelaide,2,0,0,0,0,0
+326637,2 Jan 2025,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+326637,5 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+326637,11 Jan 2025,v Heat,Adelaide,2,0,0,0,0,0
+326637,5 Jul 2025,v Sussex,Hove,2,0,0,0,0,0
+326637,5 Sep 2025,v Durham,Chester-le-Street,2,0,0,0,0,0
+326637,13 Sep 2025,v Northants,Birmingham,1,0,0,0,0,0
+326637,13 Sep 2025,v Somerset,Birmingham,2,0,0,0,0,0
+326637,17 Dec 2025,v Sixers,Sydney,1,0,0,0,0,0
+326637,23 Dec 2025,v Stars,Adelaide,2,0,0,0,0,0
+326637,27 Dec 2025,v Heat,Brisbane,1,0,0,0,0,0
+326637,31 Dec 2025,v Heat,Adelaide,1,0,0,0,0,0
+326637,4 Jan 2026,v Scorchers,Perth,1,0,0,0,0,0
+326637,6 Jan 2026,v Thunder,Adelaide,2,0,0,0,0,0
+326637,9 Jan 2026,v Hurricanes,Hobart,1,1,1,0,0,1
+326637,11 Jan 2026,v Scorchers,Adelaide,1,0,0,0,0,0
+326637,13 Jan 2026,v Stars,Melbourne,2,0,0,0,0,0
+326637,17 Jan 2026,v Renegades,Adelaide,1,0,0,0,0,0

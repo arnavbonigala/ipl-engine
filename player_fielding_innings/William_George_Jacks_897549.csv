@@ -1,0 +1,252 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+897549,5 Jul 2018,v Middlesex,Lord's,2,1,1,0,0,1
+897549,6 Jul 2018,v Kent,The Oval,1,1,1,0,0,1
+897549,12 Jul 2018,v Essex,The Oval,2,1,1,0,0,1
+897549,3 Aug 2018,v Middlesex,The Oval,1,0,0,0,0,0
+897549,5 Aug 2018,v Essex,Chelmsford,1,0,0,0,0,0
+897549,9 Aug 2018,v Sussex,The Oval,1,0,0,0,0,0
+897549,10 Aug 2018,v Somerset,Taunton,2,1,1,0,0,1
+897549,12 Aug 2018,v Gloucs,Bristol,1,0,0,0,0,0
+897549,15 Aug 2018,v Hampshire,The Oval,1,1,1,0,0,1
+897549,17 Aug 2018,v Glamorgan,Cardiff,1,1,1,0,0,1
+897549,19 Jul 2019,v Essex,Chelmsford,1,1,1,0,0,1
+897549,23 Jul 2019,v Middlesex,The Oval,1,0,0,0,0,0
+897549,25 Jul 2019,v Glamorgan,The Oval,2,0,0,0,0,0
+897549,26 Jul 2019,v Sussex,Hove,1,1,1,0,0,1
+897549,30 Jul 2019,v Kent,The Oval,2,0,0,0,0,0
+897549,2 Aug 2019,v Somerset,Taunton,2,0,0,0,0,0
+897549,8 Aug 2019,v Middlesex,Lord's,1,0,0,0,0,0
+897549,9 Aug 2019,v Gloucs,The Oval,1,1,1,0,0,1
+897549,11 Aug 2019,v Glamorgan,Cardiff,1,0,0,0,0,0
+897549,15 Aug 2019,v Sussex,The Oval,2,0,0,0,0,0
+897549,23 Aug 2019,v Kent,Canterbury,2,0,0,0,0,0
+897549,27 Aug 2019,v Somerset,The Oval,1,0,0,0,0,0
+897549,29 Aug 2019,v Essex,The Oval,1,1,1,0,0,1
+897549,28 Aug 2020,v Sussex,Hove,1,0,0,0,0,0
+897549,30 Aug 2020,v Essex,The Oval,1,1,1,0,0,1
+897549,1 Sep 2020,v Kent,Canterbury,2,1,1,0,0,1
+897549,3 Sep 2020,v Hampshire,The Oval,1,1,1,0,0,1
+897549,5 Sep 2020,v Middlesex,The Oval,1,0,0,0,0,0
+897549,11 Sep 2020,v Essex,Chelmsford,1,1,1,0,0,1
+897549,14 Sep 2020,v Middlesex,Lord's,2,0,0,0,0,0
+897549,16 Sep 2020,v Sussex,The Oval,1,1,1,0,0,1
+897549,18 Sep 2020,v Hampshire,Southampton,1,0,0,0,0,0
+897549,20 Sep 2020,v Kent,The Oval,1,0,0,0,0,0
+897549,1 Oct 2020,v Kent,The Oval,2,0,0,0,0,0
+897549,3 Oct 2020,v Gloucs,Birmingham,1,2,2,0,0,2
+897549,4 Oct 2020,v Notts,Birmingham,2,0,0,0,0,0
+897549,10 Dec 2020,v Sixers,Hobart,2,1,1,0,0,1
+897549,13 Dec 2020,v Strikers,Hobart,2,0,0,0,0,0
+897549,15 Dec 2020,v Strikers,Launceston,2,1,1,0,0,1
+897549,19 Dec 2020,v Renegades,Hobart,1,0,0,0,0,0
+897549,18 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+897549,22 Jan 2021,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+897549,24 Jan 2021,v Sixers,Melbourne,2,0,0,0,0,0
+897549,26 Jan 2021,v Renegades,Melbourne,1,0,0,0,0,0
+897549,10 Jun 2021,v Middlesex,Lord's,2,1,1,0,0,1
+897549,11 Jun 2021,v Somerset,Taunton,1,0,0,0,0,0
+897549,14 Jun 2021,v Glamorgan,The Oval,1,0,0,0,0,0
+897549,17 Jun 2021,v Sussex,The Oval,-,TDNF,-,-,-,-
+897549,21 Jun 2021,v Essex,The Oval,2,0,0,0,0,0
+897549,23 Jun 2021,v Somerset,The Oval,2,0,0,0,0,0
+897549,25 Jun 2021,v Middlesex,The Oval,1,0,0,0,0,0
+897549,27 Jun 2021,v Sussex,Hove,2,0,0,0,0,0
+897549,29 Jun 2021,v Glamorgan,Cardiff,1,0,0,0,0,0
+897549,30 Jun 2021,v Hampshire,Southampton,2,1,1,0,0,1
+897549,2 Jul 2021,v Kent,Canterbury,1,0,0,0,0,0
+897549,16 Jul 2021,v Gloucs,Cheltenham,1,0,0,0,0,0
+897549,22 Jul 2021,v Originals,The Oval,2,0,0,0,0,0
+897549,25 Jul 2021,v Spirit,Lord's,-,TDNF,-,-,-,-
+897549,31 Jul 2021,v N S-Chargers,Leeds,2,0,0,0,0,0
+897549,2 Aug 2021,v Fire,The Oval,1,0,0,0,0,0
+897549,4 Aug 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+897549,8 Aug 2021,v Rockets,The Oval,2,0,0,0,0,0
+897549,14 Aug 2021,v Spirit,The Oval,1,0,0,0,0,0
+897549,16 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+897549,21 Jan 2022,v Barishal,Mirpur,2,1,1,0,0,1
+897549,22 Jan 2022,v Dhaka,Mirpur,2,1,1,0,0,1
+897549,24 Jan 2022,v Khulna,Mirpur,2,1,1,0,0,1
+897549,28 Jan 2022,v Khulna,Chattogram,2,2,2,0,0,2
+897549,29 Jan 2022,v Sunrisers,Chattogram,2,0,0,0,0,0
+897549,31 Jan 2022,v Victorians,Chattogram,1,0,0,0,0,0
+897549,1 Feb 2022,v Barishal,Chattogram,1,0,0,0,0,0
+897549,3 Feb 2022,v Victorians,Mirpur,2,0,0,0,0,0
+897549,8 Feb 2022,v Dhaka,Sylhet,2,0,0,0,0,0
+897549,12 Feb 2022,v Sunrisers,Mirpur,1,0,0,0,0,0
+897549,16 Feb 2022,v Victorians,Mirpur,2,0,0,0,0,0
+897549,24 Feb 2022,v Zalmi,Lahore,1,1,1,0,0,1
+897549,25 Feb 2022,v Qalandars,Lahore,1,2,2,0,0,2
+897549,25 May 2022,v SLC Dev XI,The Oval,1,1,1,0,0,1
+897549,27 May 2022,v Glamorgan,The Oval,1,0,0,0,0,0
+897549,31 May 2022,v Gloucs,The Oval,2,1,1,0,0,1
+897549,2 Jun 2022,v Hampshire,The Oval,2,1,1,0,0,1
+897549,3 Jun 2022,v Kent,Canterbury,2,1,1,0,0,1
+897549,5 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+897549,8 Jun 2022,v Sussex,The Oval,1,2,2,0,0,2
+897549,9 Jun 2022,v Middlesex,Lord's,2,0,0,0,0,0
+897549,17 Jun 2022,v Middlesex,The Oval,1,1,1,0,0,1
+897549,19 Jun 2022,v Hampshire,Southampton,1,0,0,0,0,0
+897549,21 Jun 2022,v Somerset,The Oval,1,1,1,0,0,1
+897549,23 Jun 2022,v Sussex,Hove,1,0,0,0,0,0
+897549,24 Jun 2022,v Essex,Chelmsford,1,1,1,0,0,1
+897549,1 Jul 2022,v Kent,The Oval,1,0,0,0,0,0
+897549,3 Jul 2022,v Somerset,Taunton,1,0,0,0,0,0
+897549,6 Jul 2022,v Yorkshire,The Oval,1,0,0,0,0,0
+897549,4 Aug 2022,v Spirit,The Oval,1,0,0,0,0,0
+897549,7 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+897549,14 Aug 2022,v Brave,The Oval,1,2,2,0,0,2
+897549,17 Aug 2022,v Rockets,Nottingham,1,0,0,0,0,0
+897549,23 Aug 2022,v Phoenix,The Oval,1,1,1,0,0,1
+897549,27 Aug 2022,v Spirit,Lord's,1,1,1,0,0,1
+897549,31 Aug 2022,v Originals,Manchester,2,0,0,0,0,0
+897549,23 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+897549,25 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+897549,12 Jan 2023,v Sunrisers,Gqeberha,2,1,1,0,0,1
+897549,14 Jan 2023,v Sunrisers,Centurion,2,2,2,0,0,2
+897549,17 Jan 2023,v Super Kings,Johannesburg,1,2,2,0,0,2
+897549,18 Jan 2023,v Super Kings,Centurion,1,1,1,0,0,1
+897549,20 Jan 2023,v Super Giants,Durban,1,1,1,0,0,1
+897549,22 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+897549,23 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+897549,25 May 2023,v Middlesex,Lord's,2,1,1,0,0,1
+897549,26 May 2023,v Kent,The Oval,2,2,2,0,0,2
+897549,28 May 2023,v Sussex,The Oval,2,1,1,0,0,1
+897549,31 May 2023,v Hampshire,Southampton,1,0,0,0,0,0
+897549,2 Jun 2023,v Gloucs,Bristol,2,0,0,0,0,0
+897549,4 Jun 2023,v Kent,Canterbury,1,0,0,0,0,0
+897549,7 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+897549,9 Jun 2023,v Sussex,Hove,2,1,1,0,0,1
+897549,16 Jun 2023,v Somerset,Taunton,2,1,1,0,0,1
+897549,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+897549,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+897549,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+897549,30 Jun 2023,v Somerset,The Oval,1,1,1,0,0,1
+897549,2 Jul 2023,v Essex,The Oval,2,0,0,0,0,0
+897549,7 Jul 2023,v Lancashire,Manchester,2,0,0,0,0,0
+897549,15 Jul 2023,v Somerset,Birmingham,1,0,0,0,0,0
+897549,2 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+897549,6 Aug 2023,v Fire,The Oval,1,0,0,0,0,0
+897549,9 Aug 2023,v Originals,The Oval,2,3,3,0,0,3
+897549,11 Aug 2023,v N S-Chargers,Leeds,2,1,1,0,0,1
+897549,13 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+897549,15 Aug 2023,v Spirit,The Oval,2,0,0,0,0,0
+897549,19 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+897549,21 Aug 2023,v Rockets,The Oval,1,1,1,0,0,1
+897549,27 Aug 2023,v Originals,Lord's,2,0,0,0,0,0
+897549,30 Aug 2023,v New Zealand,Chester-le-Street,1,0,0,0,0,0
+897549,1 Sep 2023,v New Zealand,Manchester,2,1,1,0,0,1
+897549,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+897549,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+897549,12 Dec 2023,v West Indies,Bridgetown,2,0,0,0,0,0
+897549,14 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+897549,16 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+897549,19 Dec 2023,v West Indies,Tarouba,2,1,1,0,0,1
+897549,21 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+897549,12 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+897549,14 Jan 2024,v Paarl Royals,Centurion,1,3,3,0,0,3
+897549,18 Jan 2024,v Super Giants,Centurion,2,1,1,0,0,1
+897549,20 Jan 2024,v Super Kings,Johannesburg,2,1,1,0,0,1
+897549,22 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+897549,25 Jan 2024,v Sunrisers,Centurion,2,1,1,0,0,1
+897549,27 Jan 2024,v Super Kings,Centurion,1,0,0,0,0,0
+897549,30 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+897549,1 Feb 2024,v MI Cape Town,Centurion,1,0,0,0,0,0
+897549,3 Feb 2024,v MI Cape Town,Cape Town,1,1,1,0,0,1
+897549,7 Feb 2024,v Khulna,Mirpur,2,0,0,0,0,0
+897549,9 Feb 2024,v Dhaka,Mirpur,1,0,0,0,0,0
+897549,13 Feb 2024,v Chattogram,Chattogram,2,5,5,0,0,5
+897549,14 Feb 2024,v Khulna,Chattogram,1,0,0,0,0,0
+897549,11 Apr 2024,v MI,Wankhede,2,0,0,0,0,0
+897549,15 Apr 2024,v SRH,Bengaluru,1,0,0,0,0,0
+897549,21 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+897549,25 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+897549,28 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+897549,4 May 2024,v GT,Bengaluru,1,0,0,0,0,0
+897549,9 May 2024,v Punjab Kings,Dharamsala,2,1,1,0,0,1
+897549,12 May 2024,v DC,Bengaluru,2,2,2,0,0,2
+897549,25 May 2024,v Pakistan,Birmingham,2,0,0,0,0,0
+897549,30 May 2024,v Pakistan,The Oval,1,0,0,0,0,0
+897549,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+897549,8 Jun 2024,v Australia,Bridgetown,1,0,0,0,0,0
+897549,13 Jun 2024,v Oman,North Sound,1,1,1,0,0,1
+897549,12 Jul 2024,v Somerset,Taunton,2,0,0,0,0,0
+897549,14 Jul 2024,v Essex,Chelmsford,2,1,1,0,0,1
+897549,18 Jul 2024,v Hampshire,The Oval,1,0,0,0,0,0
+897549,19 Jul 2024,v Kent,Canterbury,1,0,0,0,0,0
+897549,23 Jul 2024,v Phoenix,The Oval,1,0,0,0,0,0
+897549,28 Jul 2024,v Fire,Cardiff,2,0,0,0,0,0
+897549,2 Aug 2024,v N S-Chargers,The Oval,1,0,0,0,0,0
+897549,4 Aug 2024,v Spirit,Lord's,2,0,0,0,0,0
+897549,6 Aug 2024,v Originals,Manchester,2,0,0,0,0,0
+897549,8 Aug 2024,v Brave,The Oval,1,0,0,0,0,0
+897549,11 Aug 2024,v Spirit,The Oval,1,1,1,0,0,1
+897549,14 Aug 2024,v Rockets,Nottingham,2,0,0,0,0,0
+897549,18 Aug 2024,v Brave,Lord's,2,1,1,0,0,1
+897549,3 Sep 2024,v Durham,The Oval,1,0,0,0,0,0
+897549,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+897549,13 Sep 2024,v Australia,Cardiff,1,0,0,0,0,0
+897549,9 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+897549,10 Nov 2024,v West Indies,Bridgetown,1,1,1,0,0,1
+897549,14 Nov 2024,v West Indies,Gros Islet,1,1,1,0,0,1
+897549,16 Nov 2024,v West Indies,Gros Islet,2,0,0,0,0,0
+897549,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+897549,10 Jan 2025,v Super Giants,Durban,1,0,0,0,0,0
+897549,12 Jan 2025,v Super Giants,Centurion,-,TDNF,-,-,-,-
+897549,14 Jan 2025,v Sunrisers,Centurion,1,0,0,0,0,0
+897549,16 Jan 2025,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+897549,18 Jan 2025,v Paarl Royals,Centurion,2,1,1,0,0,1
+897549,22 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+897549,25 Jan 2025,v Paarl Royals,Paarl,1,0,0,0,0,0
+897549,28 Jan 2025,v Super Kings,Centurion,1,0,0,0,0,0
+897549,31 Jan 2025,v MI Cape Town,Centurion,1,0,0,0,0,0
+897549,2 Feb 2025,v MI Cape Town,Cape Town,1,0,0,0,0,0
+897549,6 Feb 2025,v Warriorz,Abu Dhabi,2,1,1,0,0,1
+897549,23 Mar 2025,v CSK,Chennai,2,1,1,0,0,1
+897549,31 Mar 2025,v KKR,Wankhede,1,0,0,0,0,0
+897549,4 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+897549,7 Apr 2025,v RCB,Wankhede,1,1,1,0,0,1
+897549,13 Apr 2025,v DC,Delhi,2,1,1,0,0,1
+897549,17 Apr 2025,v SRH,Wankhede,1,0,0,0,0,0
+897549,20 Apr 2025,v CSK,Wankhede,1,1,1,0,0,1
+897549,23 Apr 2025,v SRH,Hyderabad,1,0,0,0,0,0
+897549,27 Apr 2025,v LSG,Wankhede,2,1,1,0,0,1
+897549,1 May 2025,v RR,Jaipur,2,1,1,0,0,1
+897549,6 May 2025,v GT,Wankhede,2,0,0,0,0,0
+897549,21 May 2025,v DC,Wankhede,2,0,0,0,0,0
+897549,26 May 2025,v Punjab Kings,Jaipur,2,0,0,0,0,0
+897549,6 Jun 2025,v West Indies,Chester-le-Street,2,1,1,0,0,1
+897549,8 Jun 2025,v West Indies,Bristol,1,0,0,0,0,0
+897549,10 Jun 2025,v West Indies,Southampton,2,1,1,0,0,1
+897549,12 Jun 2025,v Kent,The Oval,1,2,2,0,0,2
+897549,17 Jun 2025,v Hampshire,Southampton,2,1,1,0,0,1
+897549,18 Jun 2025,v Sussex,The Oval,2,2,2,0,0,2
+897549,20 Jun 2025,v Middlesex,The Oval,2,2,2,0,0,2
+897549,6 Jul 2025,v Essex,The Oval,2,0,0,0,0,0
+897549,9 Jul 2025,v Gloucs,Bristol,2,0,0,0,0,0
+897549,11 Jul 2025,v Glamorgan,The Oval,1,0,0,0,0,0
+897549,13 Jul 2025,v Somerset,The Oval,2,2,2,0,0,2
+897549,16 Jul 2025,v Middlesex,Lord's,2,1,1,0,0,1
+897549,18 Jul 2025,v Sussex,Hove,2,0,0,0,0,0
+897549,5 Aug 2025,v Spirit,Lord's,1,1,1,0,0,1
+897549,9 Aug 2025,v Originals,The Oval,1,1,1,0,0,1
+897549,12 Aug 2025,v Phoenix,Birmingham,2,1,1,0,0,1
+897549,16 Aug 2025,v Fire,The Oval,2,0,0,0,0,0
+897549,18 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+897549,21 Aug 2025,v Rockets,The Oval,1,1,1,0,0,1
+897549,23 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+897549,25 Aug 2025,v Spirit,The Oval,1,1,1,0,0,1
+897549,31 Aug 2025,v Rockets,Lord's,2,1,1,0,0,1
+897549,10 Sep 2025,v South Africa,Cardiff,1,0,0,0,0,0
+897549,12 Sep 2025,v South Africa,Manchester,2,1,1,0,0,1
+897549,17 Sep 2025,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+897549,30 Jan 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+897549,1 Feb 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+897549,3 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+897549,8 Feb 2026,v Nepal,Wankhede,2,1,1,0,0,1
+897549,11 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+897549,14 Feb 2026,v Scotland,Eden Gardens,1,1,1,0,0,1
+897549,16 Feb 2026,v Italy,Eden Gardens,2,1,1,0,0,1
+897549,22 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+897549,24 Feb 2026,v Pakistan,Pallekele,1,0,0,0,0,0
+897549,27 Feb 2026,v New Zealand,Colombo (RPS),1,1,1,0,0,1
+897549,5 Mar 2026,v India,Wankhede,1,1,1,0,0,1

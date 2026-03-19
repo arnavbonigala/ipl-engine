@@ -1,0 +1,141 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+574178,12 Aug 2012,v Uthura,Colombo (RPS),1,0,0,0,0,0
+574178,17 Aug 2012,v Uva Next,Pallekele,2,0,0,0,0,0
+574178,19 Aug 2012,v Basnahira CD,Pallekele,2,0,0,0,0,0
+574178,20 Aug 2012,v Nagenahira,Pallekele,2,0,0,0,0,0
+574178,26 Aug 2012,v Ruhuna Ryls,Colombo (RPS),2,0,0,0,0,0
+574178,28 Aug 2012,v Uva Next,Colombo (RPS),1,0,0,0,0,0
+574178,27 Sep 2012,v New Zealand,Pallekele,1,0,0,0,0,0
+574178,1 Oct 2012,v England,Pallekele,2,0,0,0,0,0
+574178,7 Oct 2012,v West Indies,Colombo (RPS),1,1,1,0,0,1
+574178,30 Oct 2012,v New Zealand,Pallekele,1,0,0,0,0,0
+574178,28 Jan 2013,v Australia,Melbourne,2,0,0,0,0,0
+574178,10 Aug 2013,v Bas Greens,Colombo (RPS),1,0,0,0,0,0
+574178,12 Aug 2013,v Ruhuna Reds,Colombo (RPS),1,0,0,0,0,0
+574178,31 Oct 2013,v Kenya,Colombo (CCC),2,0,0,0,0,0
+574178,2 Nov 2013,v Kenya,Colombo (CCC),1,1,1,0,0,1
+574178,2 Nov 2013,v Kenya,Colombo (CCC),-,TDNF,-,-,-,-
+574178,25 Feb 2014,v Hong Kong,Colombo (Colts),1,0,0,0,0,0
+574178,28 Jun 2014,v Express,Colombo (SSC),1,0,0,0,0,0
+574178,1 Apr 2015,v Moors,Colombo (CCC),1,0,0,0,0,0
+574178,2 Apr 2015,v Air Force SC,Colombo (Colts),2,3,3,0,0,3
+574178,4 Apr 2015,v Bloomfield,Panagoda,1,0,0,0,0,0
+574178,5 Apr 2015,v Chilaw MCC,Colombo (SSC),1,2,2,0,0,2
+574178,7 Apr 2015,v Nondescripts,Colombo (NCC),1,0,0,0,0,0
+574178,8 Apr 2015,v SLPACC,Colombo (Bloomfield),1,0,0,0,0,0
+574178,9 Apr 2015,v Sinhalese,Colombo (SSC),2,0,0,0,0,0
+574178,22 Dec 2015,v SLPACC,Colombo (PSS),2,0,0,0,0,0
+574178,5 Jan 2016,v Chilaw MCC,Colombo (RPS),1,0,0,0,0,0
+574178,6 Jan 2016,v Tamil Union,Colombo (NCC),1,1,1,0,0,1
+574178,12 Jan 2016,v SL Army,Colombo (NCC),1,0,0,0,0,0
+574178,20 Jan 2016,v Badureliya,Colombo (NCC),2,0,0,0,0,0
+574178,21 Jan 2016,v Colombo CC,Colombo (NCC),2,0,0,0,0,0
+574178,1 Feb 2016,v Kurunegala W,Colombo (RPS),1,0,0,0,0,0
+574178,6 Sep 2017,v India,Colombo (RPS),2,0,0,0,0,0
+574178,5 Nov 2017,v Dynamites,Sylhet,1,0,0,0,0,0
+574178,14 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+574178,20 Dec 2017,v India,Cuttack,1,0,0,0,0,0
+574178,22 Dec 2017,v India,Indore,1,1,1,0,0,1
+574178,24 Dec 2017,v India,Wankhede,2,0,0,0,0,0
+574178,15 Feb 2018,v Bangladesh,Mirpur,1,1,1,0,0,1
+574178,18 Feb 2018,v Bangladesh,Sylhet,2,1,1,0,0,1
+574178,24 Feb 2018,v Air Force SC,Panagoda,2,0,0,0,0,0
+574178,25 Feb 2018,v Galle CC,Colombo (Police),2,0,0,0,0,0
+574178,27 Feb 2018,v SLPACC,Colombo (CCC),1,0,0,0,0,0
+574178,6 Mar 2018,v India,Colombo (RPS),1,0,0,0,0,0
+574178,10 Mar 2018,v Bangladesh,Colombo (RPS),2,0,0,0,0,0
+574178,12 Mar 2018,v India,Colombo (RPS),2,0,0,0,0,0
+574178,16 Mar 2018,v Bangladesh,Colombo (RPS),2,1,1,0,0,1
+574178,14 Apr 2018,v Daredevils,Wankhede,2,0,0,0,0,0
+574178,14 Aug 2018,v South Africa,Colombo (RPS),1,0,0,0,0,0
+574178,21 Aug 2018,v Galle,Colombo (RPS),2,1,1,0,0,1
+574178,22 Aug 2018,v Kandy,Colombo (RPS),2,1,1,0,0,1
+574178,25 Aug 2018,v Dambulla,Dambulla,1,0,0,0,0,0
+574178,26 Aug 2018,v Galle,Dambulla,1,0,0,0,0,0
+574178,29 Aug 2018,v Kandy,Pallekele,2,1,1,0,0,1
+574178,2 Sep 2018,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+574178,15 Feb 2019,v Police SC,Colombo (Moors),2,1,1,0,0,1
+574178,16 Feb 2019,v Negombo,Colombo (Police),2,1,1,0,0,1
+574178,18 Feb 2019,v Chilaw MCC,Colombo (Bloomfield),1,1,1,0,0,1
+574178,19 Mar 2019,v South Africa,Cape Town,2,0,0,0,0,0
+574178,22 Mar 2019,v South Africa,Centurion,1,0,0,0,0,0
+574178,24 Mar 2019,v South Africa,Johannesburg,1,0,0,0,0,0
+574178,1 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+574178,3 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+574178,6 Sep 2019,v New Zealand,Pallekele,2,0,0,0,0,0
+574178,4 Jan 2020,v Panadura,Colombo (NCC),2,0,0,0,0,0
+574178,6 Jan 2020,v Badureliya,Moratuwa,2,1,1,0,0,1
+574178,8 Jan 2020,v Unichela SC,Colombo (PSS),1,0,0,0,0,0
+574178,10 Jan 2020,v Bloomfield,Katunayake,2,0,0,0,0,0
+574178,12 Jan 2020,v Moors,Colombo (CCC),1,0,0,0,0,0
+574178,15 Jan 2020,v Galle CC,Colombo (Burgher),2,0,0,0,0,0
+574178,17 Jan 2020,v Ragama CC,Katunayake,2,1,1,0,0,1
+574178,27 Nov 2020,v Stallions,Hambantota,2,0,0,0,0,0
+574178,30 Nov 2020,v Tuskers,Hambantota,1,0,0,0,0,0
+574178,3 Dec 2020,v Stallions,Hambantota,2,0,0,0,0,0
+574178,3 Mar 2021,v West Indies,Coolidge,2,0,0,0,0,0
+574178,5 Mar 2021,v West Indies,Coolidge,2,1,1,0,0,1
+574178,7 Mar 2021,v West Indies,Coolidge,2,1,1,0,0,1
+574178,23 Jun 2021,v England,Cardiff,2,0,0,0,0,0
+574178,24 Jun 2021,v England,Cardiff,2,0,0,0,0,0
+574178,25 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+574178,28 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+574178,29 Jul 2021,v India,Colombo (RPS),1,0,0,0,0,0
+574178,12 Aug 2021,v SLC Blues,Pallekele,1,0,0,0,0,0
+574178,14 Aug 2021,v SLC Greys,Pallekele,1,0,0,0,0,0
+574178,16 Aug 2021,v SLC Greens,Pallekele,1,1,1,0,0,1
+574178,18 Aug 2021,v SLC Blues,Pallekele,1,0,0,0,0,0
+574178,22 Aug 2021,v SLC Greens,Pallekele,1,0,0,0,0,0
+574178,24 Aug 2021,v SLC Greys,Pallekele,1,0,0,0,0,0
+574178,10 Sep 2021,v South Africa,Colombo (RPS),1,0,0,0,0,0
+574178,6 Dec 2021,v Galle,Colombo (RPS),1,0,0,0,0,0
+574178,8 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+574178,23 May 2022,v Police SC,Maggona,-,TDNF,-,-,-,-
+574178,25 May 2022,v Sebast CAC,Maggona,2,1,1,0,0,1
+574178,6 Jun 2022,v Police SC,Colombo (CCC),1,0,0,0,0,0
+574178,8 Jun 2022,v Negombo,Colombo (NCC),1,1,1,0,0,1
+574178,10 Jun 2022,v Kandy CCC,Colombo (Burgher),1,0,0,0,0,0
+574178,13 Jun 2022,v Tamil Union,Colombo (Burgher),2,1,1,0,0,1
+574178,15 Jun 2022,v Burgher,Colombo (PSS),2,0,0,0,0,0
+574178,17 Jun 2022,v SL Army,Colombo (PSS),1,1,1,0,0,1
+574178,8 Aug 2022,v SLC Reds,Colombo (RPS),2,0,0,0,0,0
+574178,10 Aug 2022,v SLC Blues,Colombo (RPS),2,0,0,0,0,0
+574178,31 Aug 2022,v Tallawahs,Basseterre,1,0,0,0,0,0
+574178,1 Sep 2022,v Royals,Basseterre,2,0,0,0,0,0
+574178,3 Sep 2022,v Trinbago,Basseterre,-,TDNF,-,-,-,-
+574178,8 Sep 2022,v Amazon,Gros Islet,1,0,0,0,0,0
+574178,11 Sep 2022,v Kings,Gros Islet,1,0,0,0,0,0
+574178,14 Sep 2022,v Tallawahs,Port of Spain,1,0,0,0,0,0
+574178,17 Sep 2022,v Kings,Tarouba,1,1,1,0,0,1
+574178,21 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+574178,22 Sep 2022,v Trinbago,Providence,2,0,0,0,0,0
+574178,11 Jan 2023,v Super Kings,Durban,1,0,0,0,0,0
+574178,22 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+574178,30 May 2023,v Bloomfield,Colombo (CCC),1,1,1,0,0,1
+574178,1 Jun 2023,v Nugegoda SWC,Colombo (SSC),1,0,0,0,0,0
+574178,6 Jun 2023,v Ragama CC,Colombo (CCC),1,0,0,0,0,0
+574178,7 Jun 2023,v Sebast CAC,Colombo (NCC),1,4,4,0,0,4
+574178,9 Jun 2023,v Ace Capital,Colombo (PSS),1,0,0,0,0,0
+574178,11 Jun 2023,v Nondescripts,Colombo (SSC),-,TDNF,-,-,-,-
+574178,1 Aug 2023,v B-Love Kandy,Colombo (RPS),2,2,2,0,0,2
+574178,4 Aug 2023,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+574178,7 Aug 2023,v Colombo,Pallekele,2,0,0,0,0,0
+574178,21 Feb 2024,v Afghanistan,Dambulla,1,0,0,0,0,0
+574178,4 Mar 2024,v Bangladesh,Sylhet,2,0,0,0,0,0
+574178,2 May 2024,v SLC Yellow,Colombo (RPS),1,0,0,0,0,0
+574178,4 May 2024,v SLC Greens,Colombo (RPS),1,1,1,0,0,1
+574178,8 May 2024,v SLC Yellow,Colombo (RPS),2,4,4,0,0,4
+574178,14 May 2024,v Kandy CCC,Colombo (Bloomfield),1,1,1,0,0,1
+574178,16 May 2024,v Kurunegala,Colombo (NCC),1,0,0,0,0,0
+574178,18 May 2024,v Panadura,Colombo (NCC),1,0,0,0,0,0
+574178,24 Jun 2024,v Nondescripts,Colombo (SSC),2,0,0,0,0,0
+574178,1 Jul 2024,v Kandy,Pallekele,2,0,0,0,0,0
+574178,3 Jul 2024,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+574178,16 Jul 2024,v Colombo,Colombo (RPS),2,1,1,0,0,1
+574178,16 May 2025,v Tamil Union,Colombo (CCC),1,0,0,0,0,0
+574178,25 May 2025,v Burgher,Colombo (SSC),1,0,0,0,0,0
+574178,26 May 2025,v Chilaw MCC,Colombo (CCC),-,TDNF,-,-,-,-
+574178,7 Aug 2025,v SLC Greens,Colombo (SSC),2,0,0,0,0,0
+574178,8 Aug 2025,v SLC Greys,Colombo (SSC),1,0,0,0,0,0
+574178,11 Aug 2025,v SLC Greens,Colombo (SSC),1,2,2,0,0,2
+574178,13 Aug 2025,v SLC Greys,Colombo (SSC),2,1,1,0,0,1

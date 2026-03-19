@@ -1,0 +1,78 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+389605,25 Sep 2009,v Andhra,Visakhapatnam,2,0,0,0,0,0
+389605,14 Oct 2010,v Andhra,Hyderabad,2,0,0,0,0,0
+389605,15 Oct 2010,v Kerala,Hyderabad,2,0,0,0,0,0
+389605,16 Oct 2010,v Tamil Nadu,Hyderabad,2,0,0,0,0,0
+389605,18 Oct 2010,v Goa,Hyderabad,2,0,0,0,0,0
+389605,19 Oct 2010,v Karnataka,Hyderabad,2,2,2,0,0,2
+389605,16 Oct 2011,v Kerala,Chennai,2,0,0,0,0,0
+389605,17 Oct 2011,v Andhra,Chennai,2,0,0,0,0,0
+389605,18 Oct 2011,v Goa,Chennai,1,1,1,0,0,1
+389605,20 Oct 2011,v Karnataka,Chennai,1,0,0,0,0,0
+389605,21 Oct 2011,v Tamil Nadu,Chennai,1,0,0,0,0,0
+389605,26 Apr 2012,v Warriors,Pune,2,0,0,0,0,0
+389605,29 Apr 2012,v MI,Wankhede,2,0,0,0,0,0
+389605,1 May 2012,v Warriors,Cuttack,2,0,0,0,0,0
+389605,4 May 2012,v CSK,Chennai,1,0,0,0,0,0
+389605,6 May 2012,v RCB,Bengaluru,2,0,0,0,0,0
+389605,8 May 2012,v Kings XI,Hyderabad,1,0,0,0,0,0
+389605,10 May 2012,v Daredevils,Hyderabad,2,0,0,0,0,0
+389605,18 May 2012,v RR,Hyderabad,1,0,0,0,0,0
+389605,20 May 2012,v RCB,Hyderabad,2,0,0,0,0,0
+389605,17 Mar 2013,v Kerala,Shimoga,2,0,0,0,0,0
+389605,18 Mar 2013,v Andhra,Shimoga,2,0,0,0,0,0
+389605,19 Mar 2013,v Goa,Bhadravati,1,0,0,0,0,0
+389605,21 Mar 2013,v Karnataka,Bhadravati,1,0,0,0,0,0
+389605,22 Mar 2013,v Tamil Nadu,Shimoga,2,0,0,0,0,0
+389605,5 Apr 2013,v Warriors,Hyderabad,2,0,0,0,0,0
+389605,7 Apr 2013,v RCB,Hyderabad,1,2,2,0,0,2
+389605,9 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+389605,12 Apr 2013,v Daredevils,Delhi,1,1,1,0,0,1
+389605,14 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+389605,17 Apr 2013,v Warriors,Pune,2,2,2,0,0,2
+389605,19 Apr 2013,v Kings XI,Hyderabad,1,1,1,0,0,1
+389605,25 Apr 2013,v CSK,Chennai,2,1,1,0,0,1
+389605,27 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+389605,1 May 2013,v MI,Hyderabad,1,0,0,0,0,0
+389605,4 May 2013,v Daredevils,Hyderabad,1,0,0,0,0,0
+389605,8 May 2013,v CSK,Hyderabad,1,0,0,0,0,0
+389605,17 Sep 2013,v Kandurata Ma,Mohali,1,0,0,0,0,0
+389605,18 Sep 2013,v Wolves,Mohali,1,1,1,0,0,1
+389605,20 Sep 2013,v Otago,Mohali,2,0,0,0,0,0
+389605,24 Sep 2013,v Trinidad & T,Mohali,1,0,0,0,0,0
+389605,26 Sep 2013,v CSK,Ranchi,1,0,0,0,0,0
+389605,1 Apr 2014,v Kerala,Visakhapatnam,2,0,0,0,0,0
+389605,2 Apr 2014,v Karnataka,Visakhapatnam,1,0,0,0,0,0
+389605,3 Apr 2014,v Tamil Nadu,Visakhapatnam,1,0,0,0,0,0
+389605,4 Apr 2014,v Andhra,Vizianagaram,2,1,1,0,0,1
+389605,5 Apr 2014,v Goa,Visakhapatnam,2,1,1,0,0,1
+389605,25 Mar 2015,v Tamil Nadu,Kochi,1,0,0,0,0,0
+389605,26 Mar 2015,v Andhra,Kochi,2,0,0,0,0,0
+389605,27 Mar 2015,v Kerala,Kochi,1,0,0,0,0,0
+389605,28 Mar 2015,v Karnataka,Kochi,2,1,1,0,0,1
+389605,29 Mar 2015,v Goa,Kochi,1,1,1,0,0,1
+389605,1 Apr 2015,v Punjab,Cuttack,2,1,1,0,0,1
+389605,3 Apr 2015,v Rajasthan,Cuttack,1,0,0,0,0,0
+389605,13 Apr 2015,v RCB,Bengaluru,1,1,1,0,0,1
+389605,16 Apr 2015,v RR,Visakhapatnam,2,0,0,0,0,0
+389605,18 Apr 2015,v Daredevils,Visakhapatnam,1,0,0,0,0,0
+389605,27 Apr 2015,v Kings XI,Mohali,2,0,0,0,0,0
+389605,2 May 2015,v CSK,Hyderabad,2,0,0,0,0,0
+389605,17 May 2015,v MI,Hyderabad,2,0,0,0,0,0
+389605,2 Jan 2016,v Bengal,Nagpur,1,0,0,0,0,0
+389605,3 Jan 2016,v Himachal,Nagpur,2,0,0,0,0,0
+389605,4 Jan 2016,v Gujarat,Nagpur,2,0,0,0,0,0
+389605,6 Jan 2016,v Haryana,Nagpur,2,0,0,0,0,0
+389605,9 Jan 2016,v Vidarbha,Nagpur,2,0,0,0,0,0
+389605,12 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+389605,16 Apr 2016,v KKR,Hyderabad,2,0,0,0,0,0
+389605,18 Apr 2016,v MI,Hyderabad,1,0,0,0,0,0
+389605,30 Apr 2016,v RCB,Hyderabad,2,1,1,0,0,1
+389605,8 Jan 2018,v Kerala,Vizianagaram,2,1,1,0,0,1
+389605,9 Jan 2018,v Goa,Visakhapatnam,2,2,2,0,0,2
+389605,11 Jan 2018,v Karnataka,Visakhapatnam,1,0,0,0,0,0
+389605,12 Jan 2018,v Andhra,Visakhapatnam,2,1,1,0,0,1
+389605,14 Jan 2018,v Tamil Nadu,Visakhapatnam,1,0,0,0,0,0
+389605,21 Feb 2019,v Puducherry,Delhi,1,0,0,0,0,0
+389605,22 Feb 2019,v UP,Delhi,2,0,0,0,0,0
+389605,25 Feb 2019,v Maharashtra,Delhi,2,0,0,0,0,0

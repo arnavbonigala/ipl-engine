@@ -1,0 +1,60 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1131607,11 Jan 2018,v Maharashtra,Rajkot,1,0,0,0,0,0
+1131607,21 Feb 2019,v Sikkim,Indore,2,0,0,0,0,0
+1131607,22 Feb 2019,v Punjab,Indore,2,1,1,0,0,1
+1131607,24 Feb 2019,v M. Pradesh,Indore,1,0,0,0,0,0
+1131607,25 Feb 2019,v Goa,Indore,1,0,0,0,0,0
+1131607,27 Feb 2019,v Railways,Indore,1,0,0,0,0,0
+1131607,28 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+1131607,8 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+1131607,9 Mar 2019,v Delhi,Indore,1,0,0,0,0,0
+1131607,11 Mar 2019,v Vidarbha,Indore,1,0,0,0,0,0
+1131607,12 Mar 2019,v UP,Indore,2,1,1,0,0,1
+1131607,8 Nov 2019,v Mizoram,Wankhede,1,0,0,0,0,0
+1131607,9 Nov 2019,v Haryana,Wankhede,1,0,0,0,0,0
+1131607,11 Nov 2019,v M. Pradesh,Wankhede,1,0,0,0,0,0
+1131607,12 Nov 2019,v Puducherry,Wankhede,2,1,1,0,0,1
+1131607,14 Nov 2019,v Bengal,Wankhede,1,0,0,0,0,0
+1131607,15 Nov 2019,v Meghalaya,Wankhede,2,0,0,0,0,0
+1131607,17 Nov 2019,v Assam,Wankhede,2,1,1,0,0,1
+1131607,22 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+1131607,24 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+1131607,25 Nov 2019,v Karnataka,Surat,1,0,0,0,0,0
+1131607,27 Nov 2019,v Punjab,Surat,2,0,0,0,0,0
+1131607,11 Jan 2021,v Delhi,Wankhede,1,1,1,0,0,1
+1131607,13 Jan 2021,v Kerala,Wankhede,2,0,0,0,0,0
+1131607,15 Jan 2021,v Haryana,Mumbai,2,0,0,0,0,0
+1131607,11 Oct 2022,v Mizoram,Saurashtra,1,1,1,0,0,1
+1131607,12 Oct 2022,v M. Pradesh,Rajkot,1,2,2,0,0,2
+1131607,14 Oct 2022,v Assam,Rajkot,2,2,2,0,0,2
+1131607,16 Oct 2022,v Vidarbha,Saurashtra,2,0,0,0,0,0
+1131607,18 Oct 2022,v Rajasthan,Saurashtra,2,1,1,0,0,1
+1131607,20 Oct 2022,v Railways,Rajkot,2,0,0,0,0,0
+1131607,22 Oct 2022,v Uttarakhand,Saurashtra,2,3,3,0,0,3
+1131607,1 Nov 2022,v Saurashtra,Eden Gardens,1,0,0,0,0,0
+1131607,3 Nov 2022,v Vidarbha,Eden Gardens,1,0,0,0,0,0
+1131607,5 Nov 2022,v Himachal,Eden Gardens,1,0,0,0,0,0
+1131607,16 Oct 2023,v Haryana,Jaipur,1,0,0,0,0,0
+1131607,17 Oct 2023,v Meghalaya,Jaipur,1,0,0,0,0,0
+1131607,19 Oct 2023,v Baroda,Jaipur,2,1,1,0,0,1
+1131607,21 Oct 2023,v J & K,Jaipur,2,1,1,0,0,1
+1131607,23 Oct 2023,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+1131607,25 Oct 2023,v Hyderabad,Jaipur,1,0,0,0,0,0
+1131607,27 Oct 2023,v Mizoram,Jaipur,1,0,0,0,0,0
+1131607,2 Nov 2023,v Baroda,New Chandigarh,2,0,0,0,0,0
+1131607,24 Mar 2024,v GT,Ahmedabad,1,0,0,0,0,0
+1131607,27 Mar 2024,v SRH,Hyderabad,1,0,0,0,0,0
+1131607,23 Nov 2024,v Goa,Hyderabad,2,0,0,0,0,0
+1131607,27 Nov 2024,v Maharashtra,Hyderabad,1,0,0,0,0,0
+1131607,29 Nov 2024,v Kerala,Hyderabad,1,1,1,0,0,1
+1131607,1 Dec 2024,v Nagaland,Hyderabad,1,1,1,0,0,1
+1131607,3 Dec 2024,v Services,Hyderabad,2,0,0,0,0,0
+1131607,5 Dec 2024,v Andhra,Hyderabad,1,0,0,0,0,0
+1131607,26 Nov 2025,v Railways,Lucknow,1,0,0,0,0,0
+1131607,30 Nov 2025,v Andhra,Lucknow,1,0,0,0,0,0
+1131607,2 Dec 2025,v Assam,Lucknow,2,1,1,0,0,1
+1131607,4 Dec 2025,v Kerala,Lucknow,1,1,1,0,0,1
+1131607,6 Dec 2025,v Chhattisgarh,Lucknow,1,3,3,0,0,3
+1131607,8 Dec 2025,v Odisha,Lucknow,1,0,0,0,0,0
+1131607,14 Dec 2025,v Haryana,Ambi,1,0,0,0,0,0
+1131607,16 Dec 2025,v Rajasthan,Pune,1,0,0,0,0,0

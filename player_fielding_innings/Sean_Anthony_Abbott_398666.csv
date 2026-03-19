@@ -1,0 +1,209 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+398666,22 Jan 2011,v Victoria,Melbourne,2,1,1,0,0,1
+398666,24 Jan 2011,v Queensland,Brisbane,2,1,1,0,0,1
+398666,29 Jan 2011,v Queensland,Sydney,2,0,0,0,0,0
+398666,1 Feb 2011,v Tasmania,Hobart,1,0,0,0,0,0
+398666,5 Feb 2011,v South Aust,Adelaide,2,0,0,0,0,0
+398666,17 Dec 2011,v Stars,Melbourne,1,1,1,0,0,1
+398666,23 Dec 2011,v Strikers,Sydney,1,2,2,0,0,2
+398666,30 Dec 2011,v Renegades,Sydney,1,0,0,0,0,0
+398666,1 Jan 2012,v Hurricanes,Hobart,2,1,1,0,0,1
+398666,8 Jan 2012,v Sixers,Sydney,1,0,0,0,0,0
+398666,11 Jan 2012,v Scorchers,Sydney,2,0,0,0,0,0
+398666,17 Jan 2012,v Heat,Brisbane,1,2,2,0,0,2
+398666,8 Dec 2012,v Sixers,Sydney,2,0,0,0,0,0
+398666,14 Dec 2012,v Renegades,Sydney,2,0,0,0,0,0
+398666,20 Dec 2012,v Strikers,Sydney,1,0,0,0,0,0
+398666,23 Dec 2012,v Hurricanes,Hobart,1,1,1,0,0,1
+398666,28 Dec 2012,v Heat,Sydney,2,0,0,0,0,0
+398666,30 Dec 2012,v Sixers,Sydney,2,1,1,0,0,1
+398666,8 Jan 2013,v Stars,Melbourne,1,1,1,0,0,1
+398666,25 Jan 2014,v Thunder,Sydney,1,1,1,0,0,1
+398666,5 Feb 2014,v Scorchers,Sydney,1,1,1,0,0,1
+398666,5 Oct 2014,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+398666,7 Nov 2014,v South Africa,Melbourne,1,0,0,0,0,0
+398666,9 Nov 2014,v South Africa,Sydney,1,2,2,0,0,2
+398666,19 Dec 2014,v Renegades,Sydney,1,0,0,0,0,0
+398666,23 Dec 2014,v Hurricanes,Hobart,1,0,0,0,0,0
+398666,27 Dec 2014,v Thunder,Sydney,2,0,0,0,0,0
+398666,29 Dec 2014,v Scorchers,Sydney,1,0,0,0,0,0
+398666,5 Jan 2015,v Stars,Melbourne,2,0,0,0,0,0
+398666,11 Jan 2015,v Heat,Brisbane,1,0,0,0,0,0
+398666,14 Jan 2015,v Strikers,Sydney,1,0,0,0,0,0
+398666,22 Jan 2015,v Thunder,Sydney,1,0,0,0,0,0
+398666,24 Jan 2015,v Strikers,Adelaide,2,1,1,0,0,1
+398666,28 Jan 2015,v Scorchers,Canberra,2,3,3,0,0,3
+398666,11 Apr 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+398666,13 Apr 2015,v SRH,Bengaluru,2,0,0,0,0,0
+398666,17 Dec 2015,v Thunder,Sydney,1,0,0,0,0,0
+398666,20 Dec 2015,v Hurricanes,Sydney,2,1,1,0,0,1
+398666,23 Dec 2015,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+398666,27 Dec 2015,v Stars,Sydney,2,0,0,0,0,0
+398666,31 Dec 2015,v Strikers,Adelaide,2,1,1,0,0,1
+398666,2 Jan 2016,v Scorchers,W.A.C.A,2,0,0,0,0,0
+398666,10 Jan 2016,v Heat,Sydney,1,0,0,0,0,0
+398666,16 Jan 2016,v Thunder,Sydney,1,0,0,0,0,0
+398666,20 Dec 2016,v Thunder,Sydney,1,0,0,0,0,0
+398666,23 Dec 2016,v Hurricanes,Sydney,1,0,0,0,0,0
+398666,27 Dec 2016,v Scorchers,Sydney,1,2,2,0,0,2
+398666,31 Dec 2016,v Strikers,Adelaide,1,0,0,0,0,0
+398666,3 Jan 2017,v Heat,Brisbane,1,1,1,0,0,1
+398666,9 Jan 2017,v Renegades,Sydney,1,0,0,0,0,0
+398666,14 Jan 2017,v Thunder,Sydney,2,0,0,0,0,0
+398666,21 Jan 2017,v Stars,Melbourne,1,2,2,0,0,2
+398666,25 Jan 2017,v Heat,Brisbane,1,2,2,0,0,2
+398666,28 Jan 2017,v Scorchers,W.A.C.A,2,0,0,0,0,0
+398666,19 Dec 2017,v Thunder,Sydney,2,0,0,0,0,0
+398666,23 Dec 2017,v Scorchers,Sydney,2,0,0,0,0,0
+398666,28 Dec 2017,v Strikers,Sydney,1,0,0,0,0,0
+398666,1 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+398666,3 Jan 2018,v Renegades,Geelong,2,0,0,0,0,0
+398666,8 Jan 2018,v Hurricanes,Hobart,1,0,0,0,0,0
+398666,13 Jan 2018,v Thunder,Sydney,1,0,0,0,0,0
+398666,16 Jan 2018,v Stars,Melbourne,1,2,2,0,0,2
+398666,18 Jan 2018,v Heat,Sydney,1,0,0,0,0,0
+398666,23 Jan 2018,v Stars,Sydney,1,1,1,0,0,1
+398666,22 Dec 2018,v Scorchers,Sydney,2,0,0,0,0,0
+398666,24 Dec 2018,v Thunder,Sydney,1,3,3,0,0,3
+398666,27 Dec 2018,v Stars,Sydney,2,0,0,0,0,0
+398666,29 Dec 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+398666,1 Jan 2019,v Heat,Carrara,1,1,1,0,0,1
+398666,4 Jan 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+398666,6 Jan 2019,v Strikers,Adelaide,1,0,0,0,0,0
+398666,13 Jan 2019,v Scorchers,Perth,2,1,1,0,0,1
+398666,16 Jan 2019,v Renegades,Sydney,2,0,0,0,0,0
+398666,20 Jan 2019,v Heat,Sydney,2,1,1,0,0,1
+398666,23 Jan 2019,v Hurricanes,Sydney,1,1,1,0,0,1
+398666,29 Jan 2019,v Strikers,Sydney,1,1,1,0,0,1
+398666,2 Feb 2019,v Thunder,Sydney,1,1,1,0,0,1
+398666,10 Feb 2019,v Stars,Melbourne,1,1,1,0,0,1
+398666,15 Feb 2019,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+398666,8 Nov 2019,v Pakistan,Perth,1,0,0,0,0,0
+398666,18 Dec 2019,v Scorchers,Sydney,1,2,2,0,0,2
+398666,20 Dec 2019,v Hurricanes,Alice Springs,1,0,0,0,0,0
+398666,22 Dec 2019,v Heat,Sydney,1,1,1,0,0,1
+398666,26 Dec 2019,v Scorchers,Perth,2,0,0,0,0,0
+398666,28 Dec 2019,v Thunder,Sydney,1,1,1,0,0,1
+398666,31 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+398666,8 Feb 2020,v Stars,Sydney,2,2,2,0,0,2
+398666,4 Dec 2020,v India,Canberra,1,2,2,0,0,2
+398666,6 Dec 2020,v India,Sydney,2,0,0,0,0,0
+398666,8 Dec 2020,v India,Sydney,2,0,0,0,0,0
+398666,24 Jan 2021,v Hurricanes,Melbourne,1,1,1,0,0,1
+398666,26 Jan 2021,v Stars,Melbourne,1,0,0,0,0,0
+398666,30 Jan 2021,v Scorchers,Canberra,1,1,1,0,0,1
+398666,6 Feb 2021,v Scorchers,Sydney,2,1,1,0,0,1
+398666,5 Dec 2021,v Stars,Sydney,2,1,1,0,0,1
+398666,11 Dec 2021,v Hurricanes,Sydney,1,0,0,0,0,0
+398666,21 Dec 2021,v Strikers,Sydney,1,1,1,0,0,1
+398666,26 Dec 2021,v Thunder,Sydney,2,1,1,0,0,1
+398666,29 Dec 2021,v Heat,Sydney,1,2,2,0,0,2
+398666,1 Jan 2022,v Renegades,Coffs Harbour,-,TDNF,-,-,-,-
+398666,4 Jan 2022,v Scorchers,Carrara,1,2,2,0,0,2
+398666,11 Jan 2022,v Renegades,Geelong,2,1,1,0,0,1
+398666,15 Jan 2022,v Thunder,Sydney,2,2,2,0,0,2
+398666,17 Jan 2022,v Strikers,Adelaide,2,0,0,0,0,0
+398666,19 Jan 2022,v Heat,Brisbane,2,1,1,0,0,1
+398666,22 Jan 2022,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+398666,26 Jan 2022,v Strikers,Sydney,1,0,0,0,0,0
+398666,28 Jan 2022,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+398666,5 Apr 2022,v Pakistan,Lahore,1,0,0,0,0,0
+398666,5 May 2022,v DC,Brabourne,1,1,1,0,0,1
+398666,5 Aug 2022,v N S-Chargers,Manchester,2,2,2,0,0,2
+398666,8 Aug 2022,v Spirit,Lord's,1,1,1,0,0,1
+398666,13 Aug 2022,v Rockets,Manchester,2,0,0,0,0,0
+398666,16 Aug 2022,v Fire,Manchester,2,3,3,0,0,3
+398666,18 Aug 2022,v Brave,Southampton,2,2,2,0,0,2
+398666,23 Sep 2022,v India,Nagpur,2,0,0,0,0,0
+398666,14 Dec 2022,v Strikers,Adelaide,1,1,1,0,0,1
+398666,17 Dec 2022,v Scorchers,Perth,1,0,0,0,0,0
+398666,22 Dec 2022,v Hurricanes,Sydney,2,0,0,0,0,0
+398666,26 Dec 2022,v Stars,Sydney,1,1,1,0,0,1
+398666,28 Dec 2022,v Renegades,Sydney,2,1,1,0,0,1
+398666,1 Jan 2023,v Heat,Brisbane,1,0,0,0,0,0
+398666,4 Jan 2023,v Heat,North Sydney,1,0,0,0,0,0
+398666,6 Jan 2023,v Stars,Melbourne,1,0,0,0,0,0
+398666,8 Jan 2023,v Thunder,Sydney,1,0,0,0,0,0
+398666,15 Jan 2023,v Scorchers,Sydney,2,0,0,0,0,0
+398666,17 Jan 2023,v Strikers,Coffs Harbour,2,1,1,0,0,1
+398666,21 Jan 2023,v Thunder,Sydney,2,0,0,0,0,0
+398666,23 Jan 2023,v Hurricanes,Hobart,2,1,1,0,0,1
+398666,28 Jan 2023,v Scorchers,Perth,2,0,0,0,0,0
+398666,2 Feb 2023,v Heat,Sydney,2,0,0,0,0,0
+398666,25 May 2023,v Middlesex,Lord's,2,0,0,0,0,0
+398666,26 May 2023,v Kent,The Oval,2,1,1,0,0,1
+398666,31 May 2023,v Hampshire,Southampton,1,0,0,0,0,0
+398666,4 Jun 2023,v Kent,Canterbury,1,1,1,0,0,1
+398666,7 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+398666,9 Jun 2023,v Sussex,Hove,2,0,0,0,0,0
+398666,16 Jun 2023,v Somerset,Taunton,2,0,0,0,0,0
+398666,18 Jun 2023,v Hampshire,The Oval,2,0,0,0,0,0
+398666,20 Jun 2023,v Glamorgan,The Oval,2,0,0,0,0,0
+398666,22 Jun 2023,v Middlesex,The Oval,2,0,0,0,0,0
+398666,30 Jun 2023,v Somerset,The Oval,1,0,0,0,0,0
+398666,2 Jul 2023,v Essex,The Oval,2,0,0,0,0,0
+398666,7 Jul 2023,v Lancashire,Manchester,2,0,0,0,0,0
+398666,15 Jul 2023,v Somerset,Birmingham,1,1,1,0,0,1
+398666,30 Aug 2023,v South Africa,Durban,2,1,1,0,0,1
+398666,1 Sep 2023,v South Africa,Durban,1,0,0,0,0,0
+398666,3 Sep 2023,v South Africa,Durban,1,0,0,0,0,0
+398666,23 Nov 2023,v India,Visakhapatnam,2,1,1,0,0,1
+398666,26 Nov 2023,v India,Thiruvananthapuram,1,0,0,0,0,0
+398666,8 Dec 2023,v Renegades,Sydney,2,0,0,0,0,0
+398666,26 Dec 2023,v Stars,Sydney,2,0,0,0,0,0
+398666,30 Dec 2023,v Thunder,Sydney,1,1,1,0,0,1
+398666,3 Jan 2024,v Heat,Coffs Harbour,2,0,0,0,0,0
+398666,6 Jan 2024,v Stars,Melbourne,1,1,1,0,0,1
+398666,12 Jan 2024,v Thunder,Sydney,2,0,0,0,0,0
+398666,16 Jan 2024,v Scorchers,Perth,1,0,0,0,0,0
+398666,19 Jan 2024,v Heat,Carrara,2,0,0,0,0,0
+398666,24 Jan 2024,v Heat,Sydney,1,0,0,0,0,0
+398666,9 Feb 2024,v West Indies,Hobart,2,4,4,0,0,4
+398666,30 May 2024,v Hampshire,Southampton,1,1,1,0,0,1
+398666,31 May 2024,v Glamorgan,Cardiff,2,0,0,0,0,0
+398666,2 Jun 2024,v Somerset,The Oval,2,0,0,0,0,0
+398666,7 Jun 2024,v Sussex,The Oval,1,0,0,0,0,0
+398666,14 Jun 2024,v Gloucs,The Oval,1,0,0,0,0,0
+398666,15 Jun 2024,v Sussex,Hove,2,1,1,0,0,1
+398666,20 Jun 2024,v Middlesex,Lord's,2,0,0,0,0,0
+398666,21 Jun 2024,v Glamorgan,The Oval,1,1,1,0,0,1
+398666,23 Jul 2024,v Invincibles,The Oval,2,0,0,0,0,0
+398666,27 Jul 2024,v Spirit,Lord's,1,0,0,0,0,0
+398666,31 Jul 2024,v Rockets,Nottingham,2,0,0,0,0,0
+398666,3 Aug 2024,v Brave,Birmingham,1,0,0,0,0,0
+398666,6 Aug 2024,v N S-Chargers,Birmingham,1,0,0,0,0,0
+398666,10 Aug 2024,v Fire,Cardiff,1,0,0,0,0,0
+398666,12 Aug 2024,v Rockets,Birmingham,1,2,2,0,0,2
+398666,15 Aug 2024,v Originals,Birmingham,1,0,0,0,0,0
+398666,17 Aug 2024,v Brave,The Oval,1,1,1,0,0,1
+398666,4 Sep 2024,v Scotland,Edinburgh,1,0,0,0,0,0
+398666,6 Sep 2024,v Scotland,Edinburgh,2,0,0,0,0,0
+398666,7 Sep 2024,v Scotland,Edinburgh,1,0,0,0,0,0
+398666,11 Sep 2024,v England,Southampton,2,0,0,0,0,0
+398666,13 Sep 2024,v England,Cardiff,2,1,1,0,0,1
+398666,16 Dec 2024,v Renegades,Sydney,1,1,1,0,0,1
+398666,21 Dec 2024,v Thunder,Sydney,1,1,1,0,0,1
+398666,9 Jan 2025,v Stars,Melbourne,1,1,1,0,0,1
+398666,11 Jan 2025,v Scorchers,Sydney,2,0,0,0,0,0
+398666,15 Jan 2025,v Strikers,Adelaide,1,0,0,0,0,0
+398666,17 Jan 2025,v Thunder,Sydney,1,0,0,0,0,0
+398666,18 Apr 2025,v Kings,Karachi,1,0,0,0,0,0
+398666,20 Jul 2025,v West Indies,Kingston,1,1,1,0,0,1
+398666,25 Jul 2025,v West Indies,Basseterre,1,1,1,0,0,1
+398666,26 Jul 2025,v West Indies,Basseterre,1,0,0,0,0,0
+398666,28 Jul 2025,v West Indies,Basseterre,1,1,1,0,0,1
+398666,12 Aug 2025,v South Africa,Darwin,1,1,1,0,0,1
+398666,3 Oct 2025,v New Zealand,Mount Maunganui,-,TDNF,-,-,-,-
+398666,4 Oct 2025,v New Zealand,Mount Maunganui,1,1,1,0,0,1
+398666,2 Nov 2025,v India,Hobart,2,0,0,0,0,0
+398666,26 Dec 2025,v Stars,Sydney,2,1,1,0,0,1
+398666,1 Jan 2026,v Renegades,Melbourne (Docklands),1,2,2,0,0,2
+398666,5 Jan 2026,v Heat,Coffs Harbour,1,0,0,0,0,0
+398666,8 Jan 2026,v Stars,Melbourne,1,0,0,0,0,0
+398666,11 Jan 2026,v Hurricanes,Sydney,-,TDNF,-,-,-,-
+398666,16 Jan 2026,v Thunder,Sydney,1,0,0,0,0,0
+398666,18 Jan 2026,v Heat,Brisbane,1,1,1,0,0,1
+398666,20 Jan 2026,v Scorchers,Perth,1,0,0,0,0,0
+398666,23 Jan 2026,v Hurricanes,Sydney,2,2,2,0,0,2
+398666,25 Jan 2026,v Scorchers,Perth,2,0,0,0,0,0
+398666,31 Jan 2026,v Pakistan,Lahore,1,0,0,0,0,0

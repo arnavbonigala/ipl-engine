@@ -1,0 +1,392 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+318845,11 Apr 2008,v Cape Cobras,Cape Town,2,0,0,0,0,0
+318845,13 Apr 2008,v Warriors,Gqeberha,2,0,0,0,0,0
+318845,18 Apr 2008,v Dolphins,Durban,2,0,0,0,0,0
+318845,23 Jan 2009,v Dolphins,Bloemfontein,1,0,0,0,0,0
+318845,25 Jan 2009,v Lions,Johannesburg,2,0,0,0,0,0
+318845,18 Feb 2009,v Warriors,Gqeberha,1,0,0,0,0,0
+318845,21 Feb 2009,v Cape Cobras,Cape Town,1,0,0,0,0,0
+318845,9 Oct 2009,v NSW,Delhi,1,1,1,0,0,1
+318845,13 Oct 2009,v Sussex,Delhi,1,0,0,0,0,0
+318845,16 Oct 2009,v Somerset,Hyderabad,1,1,1,0,0,1
+318845,18 Oct 2009,v Trinidad & T,Hyderabad,1,0,0,0,0,0
+318845,10 Nov 2009,v England XI,Bloemfontein,1,1,1,0,0,1
+318845,5 Feb 2010,v Warriors,East London,1,1,1,0,0,1
+318845,10 Feb 2010,v Dolphins,Durban,2,2,2,0,0,2
+318845,14 Feb 2010,v Titans,Kimberley,2,0,0,0,0,0
+318845,2 Feb 2011,v Dolphins,Bloemfontein,1,0,0,0,0,0
+318845,6 Feb 2011,v Cape Cobras,Bloemfontein,1,0,0,0,0,0
+318845,9 Feb 2011,v Lions,Potchefstroom,2,0,0,0,0,0
+318845,11 Feb 2011,v Warriors,Kimberley,1,0,0,0,0,0
+318845,18 Feb 2011,v Titans,Centurion,2,2,2,0,0,2
+318845,30 Oct 2011,v Easterns,Bloemfontein,1,1,1,0,0,1
+318845,17 Feb 2012,v Cape Cobras,Kimberley,1,0,0,0,0,0
+318845,19 Feb 2012,v Titans,Centurion,1,0,0,0,0,0
+318845,22 Feb 2012,v Dolphins,Bloemfontein,1,0,0,0,0,0
+318845,24 Feb 2012,v Impi,Benoni,2,1,1,0,0,1
+318845,26 Feb 2012,v Lions,Bloemfontein,1,0,0,0,0,0
+318845,7 Mar 2012,v Lions,Potchefstroom,2,0,0,0,0,0
+318845,9 Mar 2012,v Warriors,Gqeberha,2,0,0,0,0,0
+318845,11 Mar 2012,v Cape Cobras,Paarl,2,0,0,0,0,0
+318845,14 Mar 2012,v Dolphins,Durban,2,1,1,0,0,1
+318845,16 Mar 2012,v Impi,Kimberley,1,0,0,0,0,0
+318845,18 Mar 2012,v Warriors,Kimberley,1,0,0,0,0,0
+318845,25 Mar 2012,v Titans,Centurion,2,2,2,0,0,2
+318845,19 Aug 2012,v Wayamba U,Pallekele,1,0,0,0,0,0
+318845,21 Aug 2012,v Uthura,Pallekele,2,0,0,0,0,0
+318845,25 Aug 2012,v Ruhuna Ryls,Colombo (RPS),2,0,0,0,0,0
+318845,17 Feb 2013,v Warriors,Kimberley,2,0,0,0,0,0
+318845,22 Feb 2013,v Cape Cobras,Paarl,1,0,0,0,0,0
+318845,27 Feb 2013,v Dolphins,Bloemfontein,1,0,0,0,0,0
+318845,2 Mar 2013,v Lions,Johannesburg,2,0,0,0,0,0
+318845,6 Mar 2013,v Titans,Centurion,2,1,1,0,0,1
+318845,8 Mar 2013,v Dolphins,Durban,1,0,0,0,0,0
+318845,12 Mar 2013,v Lions,Kimberley,2,1,1,0,0,1
+318845,22 Mar 2013,v Cape Cobras,Bloemfontein,1,0,0,0,0,0
+318845,26 Mar 2013,v Titans,Bloemfontein,2,0,0,0,0,0
+318845,5 Jan 2014,v Cape Cobras,Cape Town,1,1,1,0,0,1
+318845,8 Jan 2014,v Warriors,East London,2,1,1,0,0,1
+318845,10 Jan 2014,v Dolphins,Kimberley,2,0,0,0,0,0
+318845,12 Jan 2014,v Lions,Bloemfontein,1,0,0,0,0,0
+318845,17 Jan 2014,v Cape Cobras,Bloemfontein,1,0,0,0,0,0
+318845,19 Jan 2014,v Titans,Centurion,1,0,0,0,0,0
+318845,22 Jan 2014,v Warriors,Kimberley,2,0,0,0,0,0
+318845,24 Jan 2014,v Lions,Potchefstroom,-,TDNF,-,-,-,-
+318845,31 Jan 2014,v Dolphins,Durban,1,1,1,0,0,1
+318845,2 Feb 2014,v Titans,Kimberley,2,1,1,0,0,1
+318845,4 May 2014,v SRH,Bengaluru,1,0,0,0,0,0
+318845,6 May 2014,v MI,Wankhede,1,0,0,0,0,0
+318845,24 May 2014,v CSK,Bengaluru,2,0,0,0,0,0
+318845,2 Nov 2014,v CA XI,North Sydney,1,0,0,0,0,0
+318845,5 Nov 2014,v Australia,Adelaide,1,1,1,0,0,1
+318845,7 Nov 2014,v Australia,Melbourne,2,1,1,0,0,1
+318845,9 Nov 2014,v Australia,Sydney,2,0,0,0,0,0
+318845,30 Nov 2014,v Cape Cobras,Bloemfontein,1,0,0,0,0,0
+318845,3 Dec 2014,v Lions,Kimberley,2,0,0,0,0,0
+318845,7 Dec 2014,v Lions,Johannesburg,1,1,1,0,0,1
+318845,12 Dec 2014,v Cape Cobras,Cape Town,1,1,1,0,0,1
+318845,9 Jan 2015,v West Indies,Cape Town,2,1,1,0,0,1
+318845,11 Jan 2015,v West Indies,Johannesburg,2,0,0,0,0,0
+318845,14 Jan 2015,v West Indies,Durban,2,0,0,0,0,0
+318845,19 Apr 2015,v MI,Bengaluru,1,0,0,0,0,0
+318845,22 Apr 2015,v CSK,Bengaluru,1,2,2,0,0,2
+318845,5 Jul 2015,v Bangladesh,Mirpur,2,1,1,0,0,1
+318845,7 Jul 2015,v Bangladesh,Mirpur,2,3,3,0,0,3
+318845,14 Aug 2015,v New Zealand,Durban,1,1,1,0,0,1
+318845,16 Aug 2015,v New Zealand,Centurion,1,0,0,0,0,0
+318845,15 Nov 2015,v Lions,Bloemfontein,1,0,0,0,0,0
+318845,22 Nov 2015,v Cape Cobras,Paarl,2,0,0,0,0,0
+318845,25 Nov 2015,v Lions,Potchefstroom,2,1,1,0,0,1
+318845,28 Nov 2015,v Dolphins,Gqeberha,1,0,0,0,0,0
+318845,4 Dec 2015,v Warriors,Bloemfontein,2,1,1,0,0,1
+318845,6 Dec 2015,v Titans,Benoni,1,1,1,0,0,1
+318845,19 Feb 2016,v England,Cape Town,1,1,1,0,0,1
+318845,21 Feb 2016,v England,Johannesburg,1,0,0,0,0,0
+318845,4 Mar 2016,v Australia,Durban,1,0,0,0,0,0
+318845,9 Mar 2016,v Australia,Cape Town,2,0,0,0,0,0
+318845,25 Mar 2016,v West Indies,Nagpur,2,0,0,0,0,0
+318845,10 Feb 2017,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+318845,11 Feb 2017,v Kings,Dubai (DICS),1,0,0,0,0,0
+318845,15 Feb 2017,v United,Sharjah,2,0,0,0,0,0
+318845,17 Feb 2017,v Zalmi,Sharjah,1,0,0,0,0,0
+318845,18 Feb 2017,v Qalandars,Sharjah,1,0,0,0,0,0
+318845,23 Feb 2017,v Kings,Dubai (DICS),1,1,1,0,0,1
+318845,24 Feb 2017,v United,Dubai (DICS),1,0,0,0,0,0
+318845,25 Feb 2017,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+318845,28 Feb 2017,v Zalmi,Sharjah,2,0,0,0,0,0
+318845,7 Jul 2017,v Glamorgan,Cardiff,2,1,1,0,0,1
+318845,12 Jul 2017,v Sussex,Hove,2,2,2,0,0,2
+318845,14 Jul 2017,v Middlesex,Southampton,2,1,1,0,0,1
+318845,20 Jul 2017,v Sussex,Southampton,2,0,0,0,0,0
+318845,21 Jul 2017,v Essex,Chelmsford,2,1,1,0,0,1
+318845,26 Jul 2017,v Somerset,Taunton,1,0,0,0,0,0
+318845,28 Jul 2017,v Gloucs,Bristol,1,2,2,0,0,2
+318845,1 Aug 2017,v Kent,Southampton,1,0,0,0,0,0
+318845,3 Aug 2017,v Middlesex,Lord's,1,0,0,0,0,0
+318845,4 Aug 2017,v Essex,Southampton,2,0,0,0,0,0
+318845,5 Nov 2017,v Dynamites,Sylhet,1,0,0,0,0,0
+318845,8 Nov 2017,v Sylhet,Sylhet,1,1,1,0,0,1
+318845,12 Nov 2017,v Chattogram,Mirpur,2,1,1,0,0,1
+318845,14 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+318845,17 Nov 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+318845,21 Nov 2017,v Kings,Mirpur,1,0,0,0,0,0
+318845,24 Nov 2017,v Rangpur,Chattogram,2,0,0,0,0,0
+318845,27 Nov 2017,v Kings,Chattogram,2,1,1,0,0,1
+318845,28 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+318845,23 Feb 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+318845,24 Feb 2018,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+318845,1 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+318845,3 Mar 2018,v Sultans,Sharjah,2,0,0,0,0,0
+318845,7 Mar 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+318845,8 Mar 2018,v Kings,Dubai (DICS),2,0,0,0,0,0
+318845,10 Mar 2018,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+318845,14 Mar 2018,v Qalandars,Sharjah,1,0,0,0,0,0
+318845,15 Mar 2018,v United,Sharjah,2,0,0,0,0,0
+318845,20 Mar 2018,v Zalmi,Lahore,1,0,0,0,0,0
+318845,6 Jul 2018,v Glamorgan,Southampton,1,1,1,0,0,1
+318845,12 Jul 2018,v Sussex,Southampton,2,0,0,0,0,0
+318845,13 Jul 2018,v Kent,Beckenham,1,0,0,0,0,0
+318845,20 Jul 2018,v Middlesex,Southampton,2,1,1,0,0,1
+318845,21 Jul 2018,v Essex,Chelmsford,2,0,0,0,0,0
+318845,26 Jul 2018,v Middlesex,Lord's,1,0,0,0,0,0
+318845,1 Aug 2018,v Somerset,Taunton,1,3,3,0,0,3
+318845,3 Aug 2018,v Kent,Southampton,1,1,1,0,0,1
+318845,8 Aug 2018,v Somerset,Southampton,2,0,0,0,0,0
+318845,10 Aug 2018,v Glamorgan,Cardiff,2,0,0,0,0,0
+318845,12 Aug 2018,v Essex,Southampton,1,1,1,0,0,1
+318845,15 Aug 2018,v Surrey,The Oval,2,0,0,0,0,0
+318845,17 Aug 2018,v Gloucs,Southampton,1,2,2,0,0,2
+318845,16 Nov 2018,v Blitz,Cape Town,1,0,0,0,0,0
+318845,18 Nov 2018,v Paarl Rocks,Paarl,2,0,0,0,0,0
+318845,5 Jan 2019,v Chattogram,Mirpur,2,1,1,0,0,1
+318845,6 Jan 2019,v Khulna,Mirpur,2,0,0,0,0,0
+318845,8 Jan 2019,v Victorians,Mirpur,1,0,0,0,0,0
+318845,11 Jan 2019,v Dynamites,Mirpur,1,0,0,0,0,0
+318845,13 Jan 2019,v Kings,Mirpur,1,0,0,0,0,0
+318845,16 Jan 2019,v Sylhet,Sylhet,1,0,0,0,0,0
+318845,19 Jan 2019,v Sylhet,Sylhet,1,1,1,0,0,1
+318845,22 Jan 2019,v Khulna,Mirpur,1,1,1,0,0,1
+318845,25 Jan 2019,v Chattogram,Chattogram,2,0,0,0,0,0
+318845,28 Jan 2019,v Dynamites,Chattogram,1,0,0,0,0,0
+318845,29 Jan 2019,v Kings,Chattogram,1,1,1,0,0,1
+318845,2 Feb 2019,v Victorians,Mirpur,1,1,1,0,0,1
+318845,4 Feb 2019,v Victorians,Mirpur,2,0,0,0,0,0
+318845,6 Feb 2019,v Dynamites,Mirpur,2,1,1,0,0,1
+318845,15 Feb 2019,v Zalmi,Dubai (DICS),1,1,1,0,0,1
+318845,17 Feb 2019,v United,Dubai (DICS),1,0,0,0,0,0
+318845,20 Feb 2019,v Sultans,Sharjah,1,1,1,0,0,1
+318845,23 Feb 2019,v Qalandars,Sharjah,1,0,0,0,0,0
+318845,24 Feb 2019,v Kings,Sharjah,2,0,0,0,0,0
+318845,27 Feb 2019,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+318845,1 Mar 2019,v Sultans,Dubai (DICS),1,1,1,0,0,1
+318845,4 Mar 2019,v Zalmi,Abu Dhabi,1,1,1,0,0,1
+318845,5 Mar 2019,v United,Abu Dhabi,2,0,0,0,0,0
+318845,10 Mar 2019,v Kings,Karachi,1,0,0,0,0,0
+318845,13 Mar 2019,v Zalmi,Karachi,2,1,1,0,0,1
+318845,17 Mar 2019,v Zalmi,Karachi,1,1,1,0,0,1
+318845,19 Jul 2019,v Sussex,Southampton,-,TDNF,-,-,-,-
+318845,21 Jul 2019,v Kent,Southampton,2,1,1,0,0,1
+318845,24 Jul 2019,v Sussex,Hove,1,1,1,0,0,1
+318845,26 Jul 2019,v Somerset,Taunton,1,0,0,0,0,0
+318845,1 Aug 2019,v Essex,Chelmsford,1,0,0,0,0,0
+318845,2 Aug 2019,v Glamorgan,Southampton,2,0,0,0,0,0
+318845,4 Aug 2019,v Kent,Beckenham,2,1,1,0,0,1
+318845,9 Aug 2019,v Somerset,Southampton,1,0,0,0,0,0
+318845,22 Aug 2019,v Middlesex,Lord's,1,1,1,0,0,1
+318845,25 Aug 2019,v Essex,Southampton,1,0,0,0,0,0
+318845,29 Aug 2019,v Middlesex,Southampton,1,0,0,0,0,0
+318845,30 Aug 2019,v Glamorgan,Cardiff,1,0,0,0,0,0
+318845,12 Dec 2019,v Chattogram,Mirpur,1,1,1,0,0,1
+318845,17 Dec 2019,v Royals,Chattogram,1,1,1,0,0,1
+318845,20 Dec 2019,v Rangers,Chattogram,1,1,1,0,0,1
+318845,21 Dec 2019,v Thunder,Chattogram,1,1,1,0,0,1
+318845,23 Dec 2019,v Royals,Chattogram,2,0,0,0,0,0
+318845,27 Dec 2019,v Rangers,Mirpur,2,1,1,0,0,1
+318845,28 Dec 2019,v Thunder,Mirpur,1,0,0,0,0,0
+318845,3 Jan 2020,v Platoon,Sylhet,1,0,0,0,0,0
+318845,4 Jan 2020,v Chattogram,Sylhet,2,0,0,0,0,0
+318845,8 Jan 2020,v Warriors,Mirpur,2,2,2,0,0,2
+318845,10 Jan 2020,v Warriors,Mirpur,2,1,1,0,0,1
+318845,11 Jan 2020,v Platoon,Mirpur,1,1,1,0,0,1
+318845,13 Jan 2020,v Royals,Mirpur,2,2,2,0,0,2
+318845,17 Jan 2020,v Royals,Mirpur,1,0,0,0,0,0
+318845,19 Feb 2020,v M.C.C.,Lahore,1,1,1,0,0,1
+318845,21 Feb 2020,v Qalandars,Lahore,1,0,0,0,0,0
+318845,22 Feb 2020,v United,Lahore,2,0,0,0,0,0
+318845,26 Feb 2020,v Zalmi,Multan,1,1,1,0,0,1
+318845,28 Feb 2020,v Kings,Multan,2,0,0,0,0,0
+318845,29 Feb 2020,v Gladiators,Multan,2,0,0,0,0,0
+318845,6 Mar 2020,v Kings,Lahore,-,TDNF,-,-,-,-
+318845,8 Mar 2020,v United,Rawalpindi,1,1,1,0,0,1
+318845,14 Nov 2020,v Kings,Karachi,2,0,0,0,0,0
+318845,15 Nov 2020,v Qalandars,Karachi,1,1,1,0,0,1
+318845,12 Dec 2020,v Scorchers,Hobart,1,0,0,0,0,0
+318845,13 Dec 2020,v Sixers,Hobart,1,0,0,0,0,0
+318845,19 Dec 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+318845,26 Dec 2020,v Thunder,Canberra,1,0,0,0,0,0
+318845,29 Dec 2020,v Sixers,Carrara,2,2,2,0,0,2
+318845,1 Jan 2021,v Thunder,Carrara,2,0,0,0,0,0
+318845,3 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+318845,21 Feb 2021,v United,Karachi,2,1,1,0,0,1
+318845,23 Feb 2021,v Zalmi,Karachi,2,0,0,0,0,0
+318845,26 Feb 2021,v Qalandars,Karachi,1,0,0,0,0,0
+318845,27 Feb 2021,v Kings,Karachi,2,0,0,0,0,0
+318845,3 Mar 2021,v Gladiators,Karachi,1,0,0,0,0,0
+318845,10 Jun 2021,v Kings,Abu Dhabi,2,0,0,0,0,0
+318845,13 Jun 2021,v Zalmi,Abu Dhabi,1,0,0,0,0,0
+318845,16 Jun 2021,v Gladiators,Abu Dhabi,2,1,1,0,0,1
+318845,18 Jun 2021,v Qalandars,Abu Dhabi,2,1,1,0,0,1
+318845,19 Jun 2021,v United,Abu Dhabi,2,0,0,0,0,0
+318845,21 Jun 2021,v United,Abu Dhabi,2,1,1,0,0,1
+318845,24 Jun 2021,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+318845,28 Sep 2021,v Titans,Bloemfontein,1,1,1,0,0,1
+318845,29 Sep 2021,v KZN-Inland,Bloemfontein,2,0,0,0,0,0
+318845,19 Oct 2021,v W Province,Kimberley,2,0,0,0,0,0
+318845,21 Oct 2021,v North West,Kimberley,2,0,0,0,0,0
+318845,22 Oct 2021,v Dolphins,Kimberley,2,0,0,0,0,0
+318845,27 Jan 2022,v Kings,Karachi,1,1,1,0,0,1
+318845,29 Jan 2022,v Qalandars,Karachi,1,0,0,0,0,0
+318845,31 Jan 2022,v Gladiators,Karachi,2,1,1,0,0,1
+318845,1 Feb 2022,v United,Karachi,2,0,0,0,0,0
+318845,10 Feb 2022,v Zalmi,Lahore,2,0,0,0,0,0
+318845,11 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+318845,16 Feb 2022,v Kings,Lahore,1,0,0,0,0,0
+318845,18 Feb 2022,v Gladiators,Lahore,2,1,1,0,0,1
+318845,20 Feb 2022,v United,Lahore,1,1,1,0,0,1
+318845,23 Feb 2022,v Qalandars,Lahore,2,0,0,0,0,0
+318845,27 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+318845,25 May 2022,v Kent,Canterbury,1,0,0,0,0,0
+318845,29 May 2022,v Essex,Taunton,1,0,0,0,0,0
+318845,30 May 2022,v Hampshire,Southampton,1,0,0,0,0,0
+318845,1 Jun 2022,v Sussex,Taunton,1,1,1,0,0,1
+318845,3 Jun 2022,v Glamorgan,Taunton,1,0,0,0,0,0
+318845,9 Jun 2022,v Gloucs,Bristol,1,3,3,0,0,3
+318845,10 Jun 2022,v Kent,Taunton,1,0,0,0,0,0
+318845,17 Jun 2022,v Gloucs,Taunton,2,3,3,0,0,3
+318845,19 Jun 2022,v Essex,Chelmsford,1,0,0,0,0,0
+318845,21 Jun 2022,v Surrey,The Oval,2,0,0,0,0,0
+318845,23 Jun 2022,v Hampshire,Taunton,1,1,1,0,0,1
+318845,24 Jun 2022,v Glamorgan,Cardiff,2,0,0,0,0,0
+318845,1 Jul 2022,v Middlesex,Lord's,1,0,0,0,0,0
+318845,3 Jul 2022,v Surrey,Taunton,2,0,0,0,0,0
+318845,9 Jul 2022,v Derbyshire,Taunton,2,1,1,0,0,1
+318845,16 Jul 2022,v Hampshire,Birmingham,1,2,2,0,0,2
+318845,27 Jul 2022,v England,Bristol,1,1,1,0,0,1
+318845,28 Jul 2022,v England,Cardiff,2,0,0,0,0,0
+318845,31 Jul 2022,v England,Southampton,2,0,0,0,0,0
+318845,7 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+318845,11 Aug 2022,v N S-Chargers,The Oval,1,1,1,0,0,1
+318845,14 Aug 2022,v Brave,The Oval,1,1,1,0,0,1
+318845,23 Aug 2022,v Phoenix,The Oval,1,1,1,0,0,1
+318845,27 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+318845,31 Aug 2022,v Originals,Manchester,2,0,0,0,0,0
+318845,28 Sep 2022,v India,Thiruvananthapuram,2,0,0,0,0,0
+318845,2 Oct 2022,v India,Guwahati,1,0,0,0,0,0
+318845,4 Oct 2022,v India,Indore,2,0,0,0,0,0
+318845,24 Oct 2022,v Zimbabwe,Hobart,1,0,0,0,0,0
+318845,27 Oct 2022,v Bangladesh,Sydney,2,0,0,0,0,0
+318845,30 Oct 2022,v India,Perth,1,1,1,0,0,1
+318845,3 Nov 2022,v Pakistan,Sydney,1,1,1,0,0,1
+318845,6 Nov 2022,v Netherlands,Adelaide,1,1,1,0,0,1
+318845,13 Dec 2022,v Stars,Canberra,1,1,1,0,0,1
+318845,16 Dec 2022,v Strikers,Sydney,1,0,0,0,0,0
+318845,18 Dec 2022,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+318845,20 Dec 2022,v Strikers,Adelaide,2,0,0,0,0,0
+318845,27 Dec 2022,v Heat,Sydney,1,0,0,0,0,0
+318845,29 Dec 2022,v Heat,Carrara,2,0,0,0,0,0
+318845,31 Dec 2022,v Hurricanes,Albury,2,1,1,0,0,1
+318845,4 Jan 2023,v Scorchers,Perth,1,0,0,0,0,0
+318845,12 Jan 2023,v Sunrisers,Gqeberha,2,0,0,0,0,0
+318845,14 Jan 2023,v Sunrisers,Centurion,2,0,0,0,0,0
+318845,17 Jan 2023,v Super Kings,Johannesburg,1,0,0,0,0,0
+318845,18 Jan 2023,v Super Kings,Centurion,1,0,0,0,0,0
+318845,20 Jan 2023,v Super Giants,Durban,1,0,0,0,0,0
+318845,22 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+318845,23 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+318845,4 Feb 2023,v MI Cape Town,Centurion,1,0,0,0,0,0
+318845,5 Feb 2023,v Super Giants,Centurion,1,0,0,0,0,0
+318845,7 Feb 2023,v Paarl Royals,Centurion,2,1,1,0,0,1
+318845,8 Feb 2023,v Paarl Royals,Johannesburg,2,1,1,0,0,1
+318845,11 Feb 2023,v Sunrisers,Johannesburg,2,1,1,0,0,1
+318845,15 Feb 2023,v Gladiators,Multan,1,0,0,0,0,0
+318845,17 Feb 2023,v Zalmi,Multan,2,1,1,0,0,1
+318845,19 Feb 2023,v United,Multan,2,0,0,0,0,0
+318845,22 Feb 2023,v Kings,Multan,2,0,0,0,0,0
+318845,26 Feb 2023,v Kings,Karachi,1,0,0,0,0,0
+318845,4 Mar 2023,v Qalandars,Lahore,1,0,0,0,0,0
+318845,7 Mar 2023,v United,Rawalpindi,2,0,0,0,0,0
+318845,10 Mar 2023,v Zalmi,Rawalpindi,1,0,0,0,0,0
+318845,11 Mar 2023,v Gladiators,Rawalpindi,2,1,1,0,0,1
+318845,15 Mar 2023,v Qalandars,Lahore,2,0,0,0,0,0
+318845,18 Mar 2023,v Qalandars,Lahore,1,1,1,0,0,1
+318845,25 Mar 2023,v West Indies,Centurion,2,0,0,0,0,0
+318845,26 Mar 2023,v West Indies,Centurion,1,0,0,0,0,0
+318845,28 Mar 2023,v West Indies,Johannesburg,1,0,0,0,0,0
+318845,1 Apr 2023,v LSG,Lucknow,1,0,0,0,0,0
+318845,4 Apr 2023,v GT,Delhi,2,0,0,0,0,0
+318845,8 Apr 2023,v RR,Guwahati,1,0,0,0,0,0
+318845,2 May 2023,v GT,Ahmedabad,2,1,1,0,0,1
+318845,6 May 2023,v RCB,Delhi,1,0,0,0,0,0
+318845,10 May 2023,v CSK,Chennai,1,0,0,0,0,0
+318845,13 May 2023,v Punjab Kings,Delhi,1,1,1,0,0,1
+318845,17 May 2023,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+318845,20 May 2023,v CSK,Delhi,1,1,1,0,0,1
+318845,12 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+318845,14 Jan 2024,v Paarl Royals,Centurion,1,0,0,0,0,0
+318845,18 Jan 2024,v Super Giants,Centurion,2,1,1,0,0,1
+318845,20 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+318845,22 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+318845,25 Jan 2024,v Sunrisers,Centurion,2,0,0,0,0,0
+318845,27 Jan 2024,v Super Kings,Centurion,1,0,0,0,0,0
+318845,30 Jan 2024,v Super Giants,Durban,1,2,2,0,0,2
+318845,1 Feb 2024,v MI Cape Town,Centurion,1,0,0,0,0,0
+318845,3 Feb 2024,v MI Cape Town,Cape Town,1,1,1,0,0,1
+318845,18 Feb 2024,v Zalmi,Lahore,2,0,0,0,0,0
+318845,19 Feb 2024,v Qalandars,Lahore,1,0,0,0,0,0
+318845,22 Feb 2024,v United,Lahore,1,2,2,0,0,2
+318845,25 Feb 2024,v Sultans,Multan,1,0,0,0,0,0
+318845,29 Feb 2024,v Kings,Karachi,1,0,0,0,0,0
+318845,6 Mar 2024,v Kings,Rawalpindi,2,0,0,0,0,0
+318845,8 Mar 2024,v Zalmi,Rawalpindi,1,1,1,0,0,1
+318845,10 Mar 2024,v Qalandars,Karachi,1,0,0,0,0,0
+318845,12 Mar 2024,v Sultans,Karachi,1,1,1,0,0,1
+318845,15 Mar 2024,v United,Karachi,1,0,0,0,0,0
+318845,18 Apr 2024,v MI,New Chandigarh,1,0,0,0,0,0
+318845,21 Apr 2024,v GT,New Chandigarh,2,1,1,0,0,1
+318845,26 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+318845,1 May 2024,v CSK,Chennai,1,1,1,0,0,1
+318845,5 May 2024,v CSK,Dharamsala,1,0,0,0,0,0
+318845,9 May 2024,v RCB,Dharamsala,1,1,1,0,0,1
+318845,15 May 2024,v RR,Guwahati,1,1,1,0,0,1
+318845,19 May 2024,v SRH,Hyderabad,2,0,0,0,0,0
+318845,2 Jul 2024,v Galle,Pallekele,2,0,0,0,0,0
+318845,3 Jul 2024,v Sixers,Pallekele,1,0,0,0,0,0
+318845,5 Jul 2024,v Galle,Dambulla,1,0,0,0,0,0
+318845,6 Jul 2024,v Sixers,Dambulla,2,1,1,0,0,1
+318845,9 Jul 2024,v Kandy,Dambulla,2,0,0,0,0,0
+318845,10 Jul 2024,v Colombo,Dambulla,1,0,0,0,0,0
+318845,13 Jul 2024,v Kandy,Colombo (RPS),1,0,0,0,0,0
+318845,14 Jul 2024,v Colombo,Colombo (RPS),2,0,0,0,0,0
+318845,18 Jul 2024,v Galle,Colombo (RPS),2,0,0,0,0,0
+318845,20 Jul 2024,v Kandy,Colombo (RPS),2,0,0,0,0,0
+318845,21 Jul 2024,v Galle,Colombo (RPS),1,0,0,0,0,0
+318845,29 Aug 2024,v Falcons,North Sound,1,0,0,0,0,0
+318845,8 Sep 2024,v Falcons,Basseterre,2,1,1,0,0,1
+318845,12 Sep 2024,v Kings,Gros Islet,2,0,0,0,0,0
+318845,17 Sep 2024,v Royals,Bridgetown,2,0,0,0,0,0
+318845,20 Sep 2024,v Amazon,Providence,1,0,0,0,0,0
+318845,22 Sep 2024,v Trinbago,Tarouba,2,0,0,0,0,0
+318845,9 Oct 2024,v Lions,Bloemfontein,1,2,2,0,0,2
+318845,13 Oct 2024,v Titans,Centurion,2,0,0,0,0,0
+318845,16 Oct 2024,v Dolphins,Bloemfontein,2,0,0,0,0,0
+318845,10 Jan 2025,v Super Giants,Durban,1,1,1,0,0,1
+318845,12 Jan 2025,v Super Giants,Centurion,-,TDNF,-,-,-,-
+318845,14 Jan 2025,v Sunrisers,Centurion,1,2,2,0,0,2
+318845,16 Jan 2025,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+318845,18 Jan 2025,v Paarl Royals,Centurion,2,0,0,0,0,0
+318845,22 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+318845,25 Jan 2025,v Paarl Royals,Paarl,1,0,0,0,0,0
+318845,12 Apr 2025,v Zalmi,Rawalpindi,2,1,1,0,0,1
+318845,13 Apr 2025,v Qalandars,Rawalpindi,1,0,0,0,0,0
+318845,18 Apr 2025,v Kings,Karachi,1,0,0,0,0,0
+318845,25 Apr 2025,v Kings,Lahore,2,3,3,0,0,3
+318845,27 Apr 2025,v Zalmi,Lahore,2,4,4,0,0,4
+318845,29 Apr 2025,v Sultans,Lahore,1,1,1,0,0,1
+318845,1 May 2025,v Qalandars,Lahore,1,1,1,0,0,1
+318845,3 May 2025,v United,Lahore,1,1,1,0,0,1
+318845,7 May 2025,v United,Rawalpindi,2,0,0,0,0,0
+318845,21 May 2025,v United,Lahore,2,0,0,0,0,0
+318845,25 May 2025,v Qalandars,Lahore,2,0,0,0,0,0
+318845,14 Aug 2025,v Falcons,Basseterre,1,0,0,0,0,0
+318845,15 Aug 2025,v Amazon,Basseterre,2,0,0,0,0,0
+318845,17 Aug 2025,v Trinbago,Basseterre,1,1,1,0,0,1
+318845,19 Aug 2025,v Kings,Basseterre,1,1,1,0,0,1
+318845,21 Aug 2025,v Royals,Basseterre,2,0,0,0,0,0
+318845,24 Aug 2025,v Falcons,North Sound,2,0,0,0,0,0
+318845,7 Sep 2025,v Amazon,Providence,2,0,0,0,0,0
+318845,24 Oct 2025,v Northern Cpe,Kimberley,2,2,2,0,0,2
+318845,29 Oct 2025,v Limpopo,Bloemfontein,2,0,0,0,0,0
+318845,9 Nov 2025,v Easterns,Bloemfontein,2,0,0,0,0,0
+318845,27 Dec 2025,v Capitals,Centurion,2,0,0,0,0,0
+318845,30 Dec 2025,v Super Giants,Durban,1,0,0,0,0,0
+318845,1 Jan 2026,v Super Giants,Johannesburg,2,0,0,0,0,0

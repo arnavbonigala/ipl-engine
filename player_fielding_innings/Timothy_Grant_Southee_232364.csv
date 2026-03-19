@@ -1,0 +1,296 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+232364,13 Jan 2007,v Central D,Hamilton,2,1,1,0,0,1
+232364,17 Jan 2008,v Wellington,Hamilton,1,0,0,0,0,0
+232364,20 Jan 2008,v Auckland,Auckland,1,0,0,0,0,0
+232364,25 Jan 2008,v Otago,Hamilton,1,0,0,0,0,0
+232364,25 Jan 2008,v Central D,Hamilton,1,0,0,0,0,0
+232364,27 Jan 2008,v Canterbury,Christchurch,1,0,0,0,0,0
+232364,3 Feb 2008,v Central D,New Plymouth,2,0,0,0,0,0
+232364,5 Feb 2008,v England,Auckland,1,0,0,0,0,0
+232364,7 Feb 2008,v England,Christchurch,1,0,0,0,0,0
+232364,26 Dec 2008,v West Indies,Auckland,2,0,0,0,0,0
+232364,28 Dec 2008,v West Indies,Hamilton,2,1,1,0,0,1
+232364,15 Feb 2009,v Australia,Sydney,1,1,1,0,0,1
+232364,25 Feb 2009,v India,Christchurch,1,0,0,0,0,0
+232364,27 Feb 2009,v India,Wellington,1,1,1,0,0,1
+232364,12 Nov 2009,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+232364,13 Nov 2009,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+232364,2 Jan 2010,v Auckland,Mt Maunganui,2,0,0,0,0,0
+232364,3 Jan 2010,v Otago,Mt Maunganui,2,0,0,0,0,0
+232364,8 Jan 2010,v Central D,New Plymouth,1,0,0,0,0,0
+232364,10 Jan 2010,v Canterbury,Christchurch,1,1,1,0,0,1
+232364,12 Jan 2010,v Otago,Invercargill,1,0,0,0,0,0
+232364,15 Jan 2010,v Wellington,Mt Maunganui,1,1,1,0,0,1
+232364,17 Jan 2010,v Canterbury,Hamilton,2,0,0,0,0,0
+232364,22 Jan 2010,v Auckland,Auckland,1,2,2,0,0,2
+232364,24 Jan 2010,v Wellington,Wellington,2,1,1,0,0,1
+232364,26 Jan 2010,v Central D,Hamilton,2,0,0,0,0,0
+232364,3 Feb 2010,v Bangladesh,Hamilton,1,0,0,0,0,0
+232364,28 Feb 2010,v Australia,Christchurch,2,1,1,0,0,1
+232364,30 Apr 2010,v Sri Lanka,Providence,1,0,0,0,0,0
+232364,4 May 2010,v Zimbabwe,Providence,1,0,0,0,0,0
+232364,6 May 2010,v South Africa,Bridgetown,1,1,1,0,0,1
+232364,22 May 2010,v Sri Lanka,Lauderhill,2,0,0,0,0,0
+232364,23 May 2010,v Sri Lanka,Lauderhill,2,0,0,0,0,0
+232364,17 Dec 2010,v Canterbury,Hamilton,1,0,0,0,0,0
+232364,21 Dec 2010,v Wellington,Hamilton,1,1,1,0,0,1
+232364,23 Dec 2010,v Central D,New Plymouth,2,1,1,0,0,1
+232364,26 Dec 2010,v Pakistan,Auckland,1,1,1,0,0,1
+232364,28 Dec 2010,v Pakistan,Hamilton,2,0,0,0,0,0
+232364,30 Dec 2010,v Pakistan,Christchurch,1,0,0,0,0,0
+232364,8 Apr 2011,v KKR,Chennai,2,0,0,0,0,0
+232364,13 Apr 2011,v Kings XI,Mohali,2,0,0,0,0,0
+232364,16 Apr 2011,v RCB,Chennai,2,0,0,0,0,0
+232364,18 Apr 2011,v Kochi,Kochi,2,0,0,0,0,0
+232364,27 Apr 2011,v Warriors,DY Patil,1,0,0,0,0,0
+232364,2 Jun 2011,v Sussex,Hove,1,0,0,0,0,0
+232364,3 Jun 2011,v Gloucs,Chelmsford,2,0,0,0,0,0
+232364,8 Jun 2011,v Sussex,Chelmsford,1,0,0,0,0,0
+232364,9 Jun 2011,v Middlesex,Lord's,1,0,0,0,0,0
+232364,13 Jun 2011,v Surrey,The Oval,1,1,1,0,0,1
+232364,15 Jun 2011,v Somerset,Chelmsford,1,1,1,0,0,1
+232364,21 Jun 2011,v Glamorgan,Cardiff,1,1,1,0,0,1
+232364,23 Jun 2011,v Hampshire,Chelmsford,2,2,2,0,0,2
+232364,24 Jun 2011,v Surrey,Chelmsford,-,TDNF,-,-,-,-
+232364,1 Jul 2011,v Kent,Canterbury,2,0,0,0,0,0
+232364,2 Jul 2011,v Middlesex,Chelmsford,2,0,0,0,0,0
+232364,4 Jul 2011,v Somerset,Bath,2,1,1,0,0,1
+232364,6 Jul 2011,v Hampshire,Southampton,1,0,0,0,0,0
+232364,8 Jul 2011,v Glamorgan,Chelmsford,1,0,0,0,0,0
+232364,15 Jul 2011,v Kent,Chelmsford,1,0,0,0,0,0
+232364,18 Dec 2011,v Canterbury,Rangiora,2,0,0,0,0,0
+232364,26 Dec 2011,v Auckland,Auckland,2,1,1,0,0,1
+232364,29 Dec 2011,v Otago,Dunedin,1,1,1,0,0,1
+232364,31 Dec 2011,v Canterbury,Mt Maunganui,1,1,1,0,0,1
+232364,4 Jan 2012,v Wellington,Mt Maunganui,2,0,0,0,0,0
+232364,5 Jan 2012,v Central D,Mt Maunganui,1,0,0,0,0,0
+232364,8 Jan 2012,v Auckland,Mount Maunganui,2,0,0,0,0,0
+232364,11 Jan 2012,v Wellington,Wellington,2,0,0,0,0,0
+232364,14 Jan 2012,v Central D,Napier,2,1,1,0,0,1
+232364,19 Jan 2012,v Otago,Hamilton,2,0,0,0,0,0
+232364,14 Feb 2012,v Zimbabwe,Hamilton,1,1,1,0,0,1
+232364,17 Feb 2012,v South Africa,Wellington,1,1,1,0,0,1
+232364,19 Feb 2012,v South Africa,Hamilton,2,0,0,0,0,0
+232364,22 Feb 2012,v South Africa,Auckland,1,0,0,0,0,0
+232364,30 Jun 2012,v West Indies,Lauderhill,1,0,0,0,0,0
+232364,1 Jul 2012,v West Indies,Lauderhill,1,2,2,0,0,2
+232364,21 Sep 2012,v Bangladesh,Pallekele,2,0,0,0,0,0
+232364,23 Sep 2012,v Pakistan,Pallekele,1,1,1,0,0,1
+232364,27 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+232364,29 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+232364,1 Oct 2012,v West Indies,Pallekele,1,1,1,0,0,1
+232364,30 Oct 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+232364,14 Dec 2012,v Otago,Hamilton,1,0,0,0,0,0
+232364,6 Nov 2013,v Bangladesh,Mirpur,2,1,1,0,0,1
+232364,15 Nov 2013,v Otago,Hamilton,2,1,1,0,0,1
+232364,16 Nov 2013,v Central D,Hamilton,2,0,0,0,0,0
+232364,19 Nov 2013,v Wellington,Wellington,1,0,0,0,0,0
+232364,11 Jan 2014,v West Indies,Auckland,2,0,0,0,0,0
+232364,22 Mar 2014,v England,Chattogram,1,1,1,0,0,1
+232364,24 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+232364,23 Apr 2014,v CSK,Dubai (DICS),1,0,0,0,0,0
+232364,26 Apr 2014,v RCB,Abu Dhabi,1,2,2,0,0,2
+232364,5 May 2014,v KKR,Ahmedabad,2,0,0,0,0,0
+232364,5 Jul 2014,v West Indies,Roseau,1,1,1,0,0,1
+232364,6 Jul 2014,v West Indies,Roseau,1,0,0,0,0,0
+232364,13 Sep 2014,v Express,Raipur,1,0,0,0,0,0
+232364,14 Sep 2014,v Lahore Lions,Raipur,2,0,0,0,0,0
+232364,16 Sep 2014,v MI,Raipur,1,0,0,0,0,0
+232364,19 Sep 2014,v Cape Cobras,Raipur,2,0,0,0,0,0
+232364,23 Sep 2014,v Hurricanes,Raipur,1,1,1,0,0,1
+232364,26 Sep 2014,v Kings XI,Mohali,1,1,1,0,0,1
+232364,30 Sep 2014,v Tridents,Bengaluru,2,1,1,0,0,1
+232364,10 Apr 2015,v Kings XI,Pune,2,2,2,0,0,2
+232364,12 Apr 2015,v Daredevils,Delhi,1,1,1,0,0,1
+232364,14 Apr 2015,v MI,Ahmedabad,1,0,0,0,0,0
+232364,16 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+232364,29 Apr 2015,v RCB,Bengaluru,1,1,1,0,0,1
+232364,1 May 2015,v MI,Wankhede,1,0,0,0,0,0
+232364,3 May 2015,v Daredevils,Brabourne,2,0,0,0,0,0
+232364,23 Jun 2015,v England,Manchester,1,0,0,0,0,0
+232364,13 Apr 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+232364,16 Apr 2016,v Guj Lions,Wankhede,2,0,0,0,0,0
+232364,18 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+232364,20 Apr 2016,v RCB,Wankhede,1,1,1,0,0,1
+232364,23 Apr 2016,v Daredevils,Delhi,1,2,2,0,0,2
+232364,25 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+232364,28 Apr 2016,v KKR,Wankhede,1,1,1,0,0,1
+232364,1 May 2016,v Supergiants,Pune,1,0,0,0,0,0
+232364,8 May 2016,v SRH,Visakhapatnam,1,0,0,0,0,0
+232364,11 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+232364,13 May 2016,v Kings XI,Visakhapatnam,2,0,0,0,0,0
+232364,17 Dec 2016,v Auckland,Hamilton,1,0,0,0,0,0
+232364,18 Dec 2016,v Otago,Mount Maunganui,2,0,0,0,0,0
+232364,23 Dec 2016,v Central D,Hamilton,2,0,0,0,0,0
+232364,17 Feb 2017,v South Africa,Auckland,1,0,0,0,0,0
+232364,6 Apr 2017,v Supergiant,Pune,2,1,1,0,0,1
+232364,14 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+232364,13 May 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+232364,7 Jul 2017,v Gloucs,Cheltenham,1,1,1,0,0,1
+232364,13 Jul 2017,v Surrey,Lord's,1,0,0,0,0,0
+232364,14 Jul 2017,v Hampshire,Southampton,1,2,2,0,0,2
+232364,16 Jul 2017,v Somerset,Uxbridge,1,0,0,0,0,0
+232364,20 Jul 2017,v Kent,Richmond,2,1,1,0,0,1
+232364,21 Jul 2017,v Surrey,The Oval,1,0,0,0,0,0
+232364,23 Jul 2017,v Somerset,Taunton,2,0,0,0,0,0
+232364,27 Jul 2017,v Essex,Lord's,2,0,0,0,0,0
+232364,28 Jul 2017,v Sussex,Hove,-,TDNF,-,-,-,-
+232364,10 Aug 2017,v Sussex,Lord's,2,0,0,0,0,0
+232364,11 Aug 2017,v Essex,Chelmsford,1,2,2,0,0,2
+232364,15 Aug 2017,v Gloucs,Uxbridge,2,1,1,0,0,1
+232364,18 Aug 2017,v Glamorgan,Cardiff,2,0,0,0,0,0
+232364,1 Nov 2017,v India,Delhi,1,0,0,0,0,0
+232364,7 Nov 2017,v India,Thiruvananthapuram,1,0,0,0,0,0
+232364,16 Dec 2017,v Auckland,Mount Maunganui,2,0,0,0,0,0
+232364,29 Dec 2017,v West Indies,Nelson,2,0,0,0,0,0
+232364,1 Jan 2018,v West Indies,Mount Maunganui,-,TDNF,-,-,-,-
+232364,3 Jan 2018,v West Indies,Mount Maunganui,2,0,0,0,0,0
+232364,22 Jan 2018,v Pakistan,Wellington,1,2,2,0,0,2
+232364,28 Jan 2018,v Pakistan,Mount Maunganui,1,0,0,0,0,0
+232364,3 Feb 2018,v Australia,Sydney,2,0,0,0,0,0
+232364,13 Feb 2018,v England,Wellington,2,1,1,0,0,1
+232364,16 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+232364,18 Feb 2018,v England,Hamilton,1,0,0,0,0,0
+232364,21 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+232364,29 Apr 2018,v KKR,Bengaluru,2,1,1,0,0,1
+232364,1 May 2018,v MI,Bengaluru,2,0,0,0,0,0
+232364,5 May 2018,v CSK,Pune,2,1,1,0,0,1
+232364,7 May 2018,v SRH,Hyderabad,1,1,1,0,0,1
+232364,12 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+232364,14 May 2018,v Kings XI,Indore,1,0,0,0,0,0
+232364,17 May 2018,v SRH,Bengaluru,2,0,0,0,0,0
+232364,19 May 2018,v RR,Jaipur,1,0,0,0,0,0
+232364,31 Oct 2018,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+232364,2 Nov 2018,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+232364,4 Nov 2018,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+232364,11 Jan 2019,v Sri Lanka,Auckland,2,0,0,0,0,0
+232364,6 Feb 2019,v India,Wellington,2,1,1,0,0,1
+232364,8 Feb 2019,v India,Auckland,2,2,2,0,0,2
+232364,10 Feb 2019,v India,Hamilton,2,1,1,0,0,1
+232364,17 Feb 2019,v Central D,Hamilton,1,1,1,0,0,1
+232364,5 Apr 2019,v KKR,Bengaluru,2,1,1,0,0,1
+232364,7 Apr 2019,v DC,Bengaluru,2,1,1,0,0,1
+232364,24 Apr 2019,v Kings XI,Bengaluru,2,1,1,0,0,1
+232364,1 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+232364,3 Sep 2019,v Sri Lanka,Pallekele,1,1,1,0,0,1
+232364,6 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+232364,1 Nov 2019,v England,Christchurch,2,0,0,0,0,0
+232364,3 Nov 2019,v England,Wellington,2,1,1,0,0,1
+232364,5 Nov 2019,v England,Nelson,2,1,1,0,0,1
+232364,8 Nov 2019,v England,Napier,1,0,0,0,0,0
+232364,10 Nov 2019,v England,Auckland,2,1,1,0,0,1
+232364,24 Jan 2020,v India,Auckland,2,2,2,0,0,2
+232364,26 Jan 2020,v India,Auckland,2,1,1,0,0,1
+232364,29 Jan 2020,v India,Hamilton,1,2,2,0,0,2
+232364,31 Jan 2020,v India,Wellington,1,1,1,0,0,1
+232364,2 Feb 2020,v India,Mount Maunganui,1,0,0,0,0,0
+232364,27 Nov 2020,v West Indies,Auckland,1,0,0,0,0,0
+232364,29 Nov 2020,v West Indies,Mount Maunganui,2,1,1,0,0,1
+232364,20 Dec 2020,v Pakistan,Hamilton,1,2,2,0,0,2
+232364,22 Dec 2020,v Pakistan,Napier,2,0,0,0,0,0
+232364,17 Jan 2021,v Auckland,Auckland,1,1,1,0,0,1
+232364,21 Jan 2021,v Canterbury,Hamilton,1,1,1,0,0,1
+232364,29 Jan 2021,v Auckland,Hamilton,1,0,0,0,0,0
+232364,6 Feb 2021,v Otago,Dunedin,2,1,1,0,0,1
+232364,22 Feb 2021,v Australia,Christchurch,2,0,0,0,0,0
+232364,25 Feb 2021,v Australia,Dunedin,2,1,1,0,0,1
+232364,3 Mar 2021,v Australia,Wellington,1,0,0,0,0,0
+232364,5 Mar 2021,v Australia,Wellington,1,2,2,0,0,2
+232364,7 Mar 2021,v Australia,Wellington,1,0,0,0,0,0
+232364,28 Mar 2021,v Bangladesh,Hamilton,2,0,0,0,0,0
+232364,30 Mar 2021,v Bangladesh,Napier,2,1,1,0,0,1
+232364,1 Apr 2021,v Bangladesh,Auckland,2,2,2,0,0,2
+232364,28 Sep 2021,v DC,Sharjah,1,1,1,0,0,1
+232364,1 Oct 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+232364,3 Oct 2021,v SRH,Dubai (DICS),1,1,1,0,0,1
+232364,26 Oct 2021,v Pakistan,Sharjah,2,0,0,0,0,0
+232364,31 Oct 2021,v India,Dubai (DICS),1,0,0,0,0,0
+232364,3 Nov 2021,v Scotland,Dubai (DICS),2,2,2,0,0,2
+232364,5 Nov 2021,v Namibia,Sharjah,2,0,0,0,0,0
+232364,7 Nov 2021,v Afghanistan,Abu Dhabi,1,1,1,0,0,1
+232364,10 Nov 2021,v England,Abu Dhabi,1,0,0,0,0,0
+232364,14 Nov 2021,v Australia,Dubai (DICS),2,0,0,0,0,0
+232364,17 Nov 2021,v India,Jaipur,2,0,0,0,0,0
+232364,19 Nov 2021,v India,Ranchi,2,0,0,0,0,0
+232364,21 Jan 2022,v Canterbury,Christchurch,1,1,1,0,0,1
+232364,24 Jan 2022,v Wellington,Wellington,1,0,0,0,0,0
+232364,29 Jan 2022,v Canterbury,Hamilton,2,0,0,0,0,0
+232364,30 Mar 2022,v RCB,DY Patil,2,0,0,0,0,0
+232364,1 Apr 2022,v Punjab Kings,Wankhede,1,3,3,0,0,3
+232364,23 Apr 2022,v GT,DY Patil,1,0,0,0,0,0
+232364,28 Apr 2022,v DC,Wankhede,2,0,0,0,0,0
+232364,2 May 2022,v RR,Wankhede,1,0,0,0,0,0
+232364,7 May 2022,v LSG,Pune,1,0,0,0,0,0
+232364,9 May 2022,v MI,DY Patil,2,0,0,0,0,0
+232364,14 May 2022,v SRH,Pune,2,1,1,0,0,1
+232364,18 May 2022,v LSG,DY Patil,1,0,0,0,0,0
+232364,10 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+232364,12 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+232364,14 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+232364,8 Oct 2022,v Pakistan,Christchurch,2,1,1,0,0,1
+232364,9 Oct 2022,v Bangladesh,Christchurch,1,0,0,0,0,0
+232364,11 Oct 2022,v Pakistan,Christchurch,1,2,2,0,0,2
+232364,12 Oct 2022,v Bangladesh,Christchurch,2,0,0,0,0,0
+232364,14 Oct 2022,v Pakistan,Christchurch,2,0,0,0,0,0
+232364,22 Oct 2022,v Australia,Sydney,2,0,0,0,0,0
+232364,29 Oct 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+232364,1 Nov 2022,v England,Brisbane,1,0,0,0,0,0
+232364,4 Nov 2022,v Ireland,Adelaide,2,1,1,0,0,1
+232364,9 Nov 2022,v Pakistan,Sydney,2,0,0,0,0,0
+232364,20 Nov 2022,v India,Mount Maunganui,1,2,2,0,0,2
+232364,22 Nov 2022,v India,Napier,2,0,0,0,0,0
+232364,1 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+232364,6 Apr 2023,v RCB,Eden Gardens,2,0,0,0,0,0
+232364,17 Aug 2023,v U.A.E.,Dubai (DICS),2,1,1,0,0,1
+232364,19 Aug 2023,v U.A.E.,Dubai (DICS),2,1,1,0,0,1
+232364,20 Aug 2023,v U.A.E.,Dubai (DICS),2,1,1,0,0,1
+232364,24 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+232364,30 Aug 2023,v England,Chester-le-Street,2,0,0,0,0,0
+232364,1 Sep 2023,v England,Manchester,1,0,0,0,0,0
+232364,3 Sep 2023,v England,Birmingham,2,0,0,0,0,0
+232364,5 Sep 2023,v England,Nottingham,1,1,1,0,0,1
+232364,22 Dec 2023,v Central D,Hamilton,2,0,0,0,0,0
+232364,27 Dec 2023,v Bangladesh,Napier,2,2,2,0,0,2
+232364,29 Dec 2023,v Bangladesh,Mount Maunganui,-,TDNF,-,-,-,-
+232364,31 Dec 2023,v Bangladesh,Mount Maunganui,1,1,1,0,0,1
+232364,6 Jan 2024,v Otago,Hamilton,2,1,1,0,0,1
+232364,12 Jan 2024,v Pakistan,Auckland,2,0,0,0,0,0
+232364,14 Jan 2024,v Pakistan,Hamilton,2,2,2,0,0,2
+232364,17 Jan 2024,v Pakistan,Dunedin,2,0,0,0,0,0
+232364,19 Jan 2024,v Pakistan,Christchurch,1,1,1,0,0,1
+232364,21 Jan 2024,v Pakistan,Christchurch,1,1,1,0,0,1
+232364,21 Feb 2024,v Australia,Wellington,2,1,1,0,0,1
+232364,12 Jun 2024,v West Indies,Tarouba,1,0,0,0,0,0
+232364,14 Jun 2024,v Uganda,Tarouba,1,0,0,0,0,0
+232364,17 Jun 2024,v P.N.G.,Tarouba,1,0,0,0,0,0
+232364,23 Jul 2024,v Invincibles,The Oval,2,0,0,0,0,0
+232364,27 Jul 2024,v Spirit,Lord's,1,0,0,0,0,0
+232364,31 Jul 2024,v Rockets,Nottingham,2,2,2,0,0,2
+232364,3 Aug 2024,v Brave,Birmingham,1,0,0,0,0,0
+232364,6 Aug 2024,v N S-Chargers,Birmingham,1,1,1,0,0,1
+232364,10 Aug 2024,v Fire,Cardiff,1,1,1,0,0,1
+232364,12 Aug 2024,v Rockets,Birmingham,1,1,1,0,0,1
+232364,15 Aug 2024,v Originals,Birmingham,1,0,0,0,0,0
+232364,17 Aug 2024,v Brave,The Oval,1,0,0,0,0,0
+232364,12 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+232364,15 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+232364,17 Jan 2025,v DC,Sharjah,1,0,0,0,0,0
+232364,19 Jan 2025,v MI Emirates,Sharjah,2,0,0,0,0,0
+232364,22 Jan 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+232364,25 Jan 2025,v Vipers,Sharjah,2,0,0,0,0,0
+232364,26 Jan 2025,v Gulf Giants,Sharjah,2,0,0,0,0,0
+232364,28 Jan 2025,v DC,Dubai (DICS),1,2,2,0,0,2
+232364,30 Jan 2025,v KnightRiders,Sharjah,1,0,0,0,0,0
+232364,2 Feb 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+232364,6 Feb 2025,v MI Emirates,Abu Dhabi,1,1,1,0,0,1
+232364,7 Feb 2025,v Vipers,Sharjah,2,0,0,0,0,0
+232364,8 Aug 2025,v Rockets,Birmingham,2,0,0,0,0,0
+232364,10 Aug 2025,v Brave,Southampton,2,0,0,0,0,0
+232364,12 Aug 2025,v Invincibles,Birmingham,1,0,0,0,0,0
+232364,15 Aug 2025,v N S-Chargers,Leeds,1,1,1,0,0,1
+232364,17 Aug 2025,v Spirit,Birmingham,1,0,0,0,0,0
+232364,22 Aug 2025,v Fire,Birmingham,2,0,0,0,0,0
+232364,3 Dec 2025,v KnightRiders,Sharjah,1,0,0,0,0,0
+232364,7 Dec 2025,v MI Emirates,Sharjah,1,1,1,0,0,1
+232364,10 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+232364,24 Dec 2025,v DC,Dubai (DICS),2,0,0,0,0,0

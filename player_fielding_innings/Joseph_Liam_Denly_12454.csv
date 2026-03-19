@@ -1,0 +1,299 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+12454,2 Jul 2004,v Middlesex,Maidstone,1,0,0,0,0,0
+12454,5 Jul 2004,v Essex,Maidstone,2,1,1,0,0,1
+12454,13 Jul 2004,v Sussex,Canterbury,2,1,1,0,0,1
+12454,6 Jul 2006,v Sussex,Hove,2,0,0,0,0,0
+12454,22 Jun 2007,v Hampshire,Southampton,2,0,0,0,0,0
+12454,23 Jun 2007,v Essex,Canterbury,2,0,0,0,0,0
+12454,26 Jun 2007,v Sussex,Canterbury,2,0,0,0,0,0
+12454,27 Jun 2007,v Middlesex,Uxbridge,1,1,1,0,0,1
+12454,29 Jun 2007,v Essex,Chelmsford,2,1,1,0,0,1
+12454,2 Jul 2007,v Surrey,Beckenham,2,1,1,0,0,1
+12454,4 Jul 2007,v Middlesex,Beckenham,2,0,0,0,0,0
+12454,6 Jul 2007,v Surrey,The Oval,1,1,1,0,0,1
+12454,17 Jul 2007,v Notts,Nottingham,1,1,1,0,0,1
+12454,4 Aug 2007,v Sussex,Birmingham,1,1,1,0,0,1
+12454,4 Aug 2007,v Gloucs,Birmingham,1,0,0,0,0,0
+12454,11 Jun 2008,v Sussex,Canterbury,1,0,0,0,0,0
+12454,13 Jun 2008,v Surrey,The Oval,2,0,0,0,0,0
+12454,14 Jun 2008,v Hampshire,Southampton,1,0,0,0,0,0
+12454,16 Jun 2008,v Hampshire,Canterbury,1,0,0,0,0,0
+12454,18 Jun 2008,v Essex,Chelmsford,1,0,0,0,0,0
+12454,20 Jun 2008,v Middlesex,Beckenham,2,0,0,0,0,0
+12454,22 Jun 2008,v Essex,Beckenham,2,0,0,0,0,0
+12454,24 Jun 2008,v Middlesex,Uxbridge,1,0,0,0,0,0
+12454,25 Jun 2008,v Surrey,Canterbury,1,1,1,0,0,1
+12454,27 Jun 2008,v Sussex,Hove,2,0,0,0,0,0
+12454,9 Jul 2008,v Warwickshire,Birmingham,2,2,2,0,0,2
+12454,26 Jul 2008,v Essex,Southampton,2,0,0,0,0,0
+12454,26 Jul 2008,v Middlesex,Southampton,1,0,0,0,0,0
+12454,19 Mar 2009,v NZ A,New Plymouth,1,0,0,0,0,0
+12454,25 May 2009,v Essex,Canterbury,1,0,0,0,0,0
+12454,27 May 2009,v Middlesex,Lord's,2,1,1,0,0,1
+12454,29 May 2009,v Middlesex,Canterbury,1,0,0,0,0,0
+12454,31 May 2009,v Sussex,Canterbury,1,0,0,0,0,0
+12454,1 Jun 2009,v Essex,Chelmsford,1,0,0,0,0,0
+12454,4 Jun 2009,v Sussex,Hove,1,0,0,0,0,0
+12454,22 Jun 2009,v Hampshire,Tunbridge Wells,2,0,0,0,0,0
+12454,24 Jun 2009,v Surrey,The Oval,2,0,0,0,0,0
+12454,26 Jun 2009,v Hampshire,Southampton,1,0,0,0,0,0
+12454,28 Jun 2009,v Surrey,Beckenham,2,0,0,0,0,0
+12454,27 Jul 2009,v Durham,Canterbury,2,1,1,0,0,1
+12454,15 Aug 2009,v Somerset,Birmingham,2,0,0,0,0,0
+12454,30 Aug 2009,v Australia,Manchester,1,0,0,0,0,0
+12454,10 Nov 2009,v SA A,Bloemfontein,2,2,2,0,0,2
+12454,13 Nov 2009,v South Africa,Johannesburg,2,0,0,0,0,0
+12454,15 Nov 2009,v South Africa,Centurion,1,0,0,0,0,0
+12454,17 Feb 2010,v Eng Lions,Abu Dhabi,2,1,1,0,0,1
+12454,19 Feb 2010,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+12454,20 Feb 2010,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+12454,2 Jun 2010,v Essex,Chelmsford,1,1,1,0,0,1
+12454,3 Jun 2010,v Hampshire,Southampton,2,0,0,0,0,0
+12454,9 Jun 2010,v Sussex,Tunbridge Wells,2,2,2,0,0,2
+12454,11 Jun 2010,v Middlesex,Canterbury,2,0,0,0,0,0
+12454,13 Jun 2010,v Gloucs,Gloucester,2,0,0,0,0,0
+12454,27 Jun 2010,v Sussex,Hove,2,0,0,0,0,0
+12454,2 Jul 2010,v Hampshire,Canterbury,1,0,0,0,0,0
+12454,4 Jul 2010,v Gloucs,Canterbury,2,1,1,0,0,1
+12454,9 Jul 2010,v Essex,The Oval,2,0,0,0,0,0
+12454,11 Jul 2010,v Glamorgan,Canterbury,1,2,2,0,0,2
+12454,16 Jul 2010,v Glamorgan,Cardiff,2,0,0,0,0,0
+12454,18 Jul 2010,v Somerset,Taunton,2,0,0,0,0,0
+12454,3 Jun 2011,v Somerset,Tunbridge Wells,2,0,0,0,0,0
+12454,5 Jun 2011,v Hampshire,Tunbridge Wells,1,0,0,0,0,0
+12454,11 Jun 2011,v Glamorgan,Cardiff,1,0,0,0,0,0
+12454,15 Jun 2011,v Gloucs,Beckenham,1,2,2,0,0,2
+12454,18 Jun 2011,v Middlesex,Canterbury,2,0,0,0,0,0
+12454,24 Jun 2011,v Middlesex,Uxbridge,2,0,0,0,0,0
+12454,26 Jun 2011,v Surrey,Beckenham,1,0,0,0,0,0
+12454,30 Jun 2011,v Hampshire,Southampton,1,0,0,0,0,0
+12454,1 Jul 2011,v Essex,Canterbury,1,0,0,0,0,0
+12454,3 Jul 2011,v Glamorgan,Canterbury,1,1,1,0,0,1
+12454,6 Jul 2011,v Gloucs,Bristol,1,0,0,0,0,0
+12454,8 Jul 2011,v Sussex,Canterbury,1,1,1,0,0,1
+12454,14 Jul 2011,v Surrey,The Oval,2,2,2,0,0,2
+12454,15 Jul 2011,v Essex,Chelmsford,2,0,0,0,0,0
+12454,6 Aug 2011,v Leics,Leicester,2,0,0,0,0,0
+12454,26 Aug 2011,v Indians,Canterbury,1,0,0,0,0,0
+12454,14 Jun 2012,v Surrey,Lord's,1,0,0,0,0,0
+12454,17 Jun 2012,v Sussex,Lord's,1,0,0,0,0,0
+12454,18 Jun 2012,v Hampshire,Southampton,1,1,1,0,0,1
+12454,21 Jun 2012,v Essex,Lord's,1,0,0,0,0,0
+12454,22 Jun 2012,v Sussex,Hove,1,0,0,0,0,0
+12454,26 Jun 2012,v Kent,Canterbury,2,0,0,0,0,0
+12454,27 Jun 2012,v Hampshire,Richmond,2,3,3,0,0,3
+12454,5 Jul 2012,v Essex,Chelmsford,2,0,0,0,0,0
+12454,20 Jan 2013,v Khulna,Mirpur,1,0,0,0,0,0
+12454,23 Jan 2013,v Rangpur,Khulna,1,0,0,0,0,0
+12454,24 Jan 2013,v Chittagong,Khulna,1,0,0,0,0,0
+12454,28 Jan 2013,v Rajshahi,Chattogram,1,2,2,0,0,2
+12454,31 Jan 2013,v Chittagong,Chattogram,2,0,0,0,0,0
+12454,2 Feb 2013,v Rajshahi,Chattogram,2,0,0,0,0,0
+12454,4 Feb 2013,v Khulna,Mirpur,1,0,0,0,0,0
+12454,12 Feb 2013,v Dhaka,Mirpur,1,0,0,0,0,0
+12454,13 Feb 2013,v Royals,Mirpur,2,0,0,0,0,0
+12454,28 Jun 2013,v Kent,Canterbury,1,0,0,0,0,0
+12454,30 Jun 2013,v Sussex,Lord's,1,0,0,0,0,0
+12454,4 Jul 2013,v Essex,Lord's,1,0,0,0,0,0
+12454,5 Jul 2013,v Surrey,The Oval,1,0,0,0,0,0
+12454,7 Jul 2013,v Kent,Uxbridge,1,0,0,0,0,0
+12454,12 Jul 2013,v Essex,Chelmsford,1,1,1,0,0,1
+12454,14 Jul 2013,v Hampshire,Richmond,2,0,0,0,0,0
+12454,16 Jul 2013,v Sussex,Hove,1,0,0,0,0,0
+12454,25 Jul 2013,v Surrey,Lord's,1,1,1,0,0,1
+12454,31 Jul 2013,v Hampshire,Southampton,1,0,0,0,0,0
+12454,17 May 2014,v Essex,Lord's,2,0,0,0,0,0
+12454,17 May 2014,v Sussex,Lord's,1,1,1,0,0,1
+12454,23 May 2014,v Gloucs,Bristol,2,1,1,0,0,1
+12454,25 May 2014,v Hampshire,Northwood,1,0,0,0,0,0
+12454,30 May 2014,v Surrey,The Oval,2,0,0,0,0,0
+12454,6 Jun 2014,v Kent,Canterbury,1,0,0,0,0,0
+12454,18 Jun 2014,v Somerset,The Oval,1,0,0,0,0,0
+12454,20 Jun 2014,v Essex,Chelmsford,2,0,0,0,0,0
+12454,26 Jun 2014,v Gloucs,Lord's,1,1,1,0,0,1
+12454,27 Jun 2014,v Sussex,Hove,2,1,1,0,0,1
+12454,3 Jul 2014,v Glamorgan,Richmond,2,1,1,0,0,1
+12454,24 Jul 2014,v Surrey,Lord's,2,1,1,0,0,1
+12454,25 Jul 2014,v Somerset,Taunton,1,1,1,0,0,1
+12454,15 May 2015,v Sussex,Canterbury,2,1,1,0,0,1
+12454,22 May 2015,v Hampshire,Southampton,1,3,3,0,0,3
+12454,28 May 2015,v Middlesex,Lord's,1,0,0,0,0,0
+12454,29 May 2015,v Surrey,Beckenham,2,0,0,0,0,0
+12454,31 May 2015,v Somerset,Taunton,2,1,1,0,0,1
+12454,12 Jun 2015,v Hampshire,Canterbury,2,0,0,0,0,0
+12454,18 Jun 2015,v Essex,Canterbury,1,0,0,0,0,0
+12454,19 Jun 2015,v Surrey,The Oval,2,0,0,0,0,0
+12454,10 Jul 2015,v Somerset,Canterbury,2,0,0,0,0,0
+12454,12 Jul 2015,v Gloucs,Cheltenham,1,0,0,0,0,0
+12454,17 Jul 2015,v Glamorgan,Tunbridge Wells,1,0,0,0,0,0
+12454,15 Aug 2015,v Lancashire,Canterbury,2,1,1,0,0,1
+12454,20 May 2016,v Somerset,Canterbury,1,2,2,0,0,2
+12454,2 Jun 2016,v Hampshire,Southampton,1,1,1,0,0,1
+12454,3 Jun 2016,v Gloucs,Beckenham,2,0,0,0,0,0
+12454,8 Jun 2016,v Hampshire,Canterbury,2,0,0,0,0,0
+12454,10 Jun 2016,v Sussex,Hove,2,1,1,0,0,1
+12454,17 Jun 2016,v Glamorgan,Cardiff,1,0,0,0,0,0
+12454,24 Jun 2016,v Middlesex,Canterbury,1,0,0,0,0,0
+12454,30 Jun 2016,v Sussex,Canterbury,2,1,1,0,0,1
+12454,1 Jul 2016,v Essex,Chelmsford,1,0,0,0,0,0
+12454,7 Jul 2016,v Somerset,Taunton,2,0,0,0,0,0
+12454,8 Jul 2016,v Gloucs,Bristol,2,0,0,0,0,0
+12454,15 Jul 2016,v Surrey,Tunbridge Wells,1,0,0,0,0,0
+12454,22 Jul 2016,v Essex,Canterbury,1,0,0,0,0,0
+12454,29 Jul 2016,v Surrey,The Oval,1,1,1,0,0,1
+12454,9 Jul 2017,v Essex,Beckenham,1,2,2,0,0,2
+12454,13 Jul 2017,v Gloucs,Cheltenham,2,0,0,0,0,0
+12454,14 Jul 2017,v Surrey,The Oval,1,0,0,0,0,0
+12454,18 Jul 2017,v Gloucs,Canterbury,1,0,0,0,0,0
+12454,20 Jul 2017,v Middlesex,Richmond,1,0,0,0,0,0
+12454,23 Jul 2017,v Sussex,Hove,2,0,0,0,0,0
+12454,27 Jul 2017,v Somerset,Canterbury,1,0,0,0,0,0
+12454,30 Jul 2017,v Glamorgan,Canterbury,1,0,0,0,0,0
+12454,1 Aug 2017,v Hampshire,Southampton,2,0,0,0,0,0
+12454,4 Aug 2017,v Sussex,Canterbury,2,0,0,0,0,0
+12454,11 Aug 2017,v Hampshire,Canterbury,2,0,0,0,0,0
+12454,12 Aug 2017,v Somerset,Taunton,1,0,0,0,0,0
+12454,17 Aug 2017,v Essex,Chelmsford,2,0,0,0,0,0
+12454,18 Aug 2017,v Surrey,Canterbury,1,0,0,0,0,0
+12454,27 Nov 2017,v Chattogram,Chattogram,1,0,0,0,0,0
+12454,29 Nov 2017,v Victorians,Chattogram,1,1,1,0,0,1
+12454,2 Dec 2017,v Kings,Mirpur,2,0,0,0,0,0
+12454,6 Dec 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+12454,8 Dec 2017,v Victorians,Mirpur,2,0,0,0,0,0
+12454,12 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+12454,13 Jan 2018,v Thunder,Sydney,1,1,1,0,0,1
+12454,16 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+12454,18 Jan 2018,v Heat,Sydney,1,1,1,0,0,1
+12454,23 Jan 2018,v Stars,Sydney,1,0,0,0,0,0
+12454,23 Feb 2018,v Gladiators,Dubai (DICS),2,1,1,0,0,1
+12454,25 Feb 2018,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+12454,26 Feb 2018,v Qalandars,Dubai (DICS),2,2,2,0,0,2
+12454,2 Mar 2018,v Sultans,Sharjah,-,TDNF,-,-,-,-
+12454,4 Mar 2018,v United,Sharjah,2,0,0,0,0,0
+12454,8 Mar 2018,v Gladiators,Dubai (DICS),1,1,1,0,0,1
+12454,10 Mar 2018,v Sultans,Dubai (DICS),2,1,1,0,0,1
+12454,11 Mar 2018,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+12454,15 Mar 2018,v Zalmi,Sharjah,1,0,0,0,0,0
+12454,16 Mar 2018,v United,Sharjah,1,0,0,0,0,0
+12454,18 Mar 2018,v United,Dubai (DICS),2,0,0,0,0,0
+12454,21 Mar 2018,v Zalmi,Lahore,1,3,3,0,0,3
+12454,6 Jul 2018,v Surrey,The Oval,2,0,0,0,0,0
+12454,8 Jul 2018,v Somerset,Taunton,1,0,0,0,0,0
+12454,11 Jul 2018,v Gloucs,Bristol,1,1,1,0,0,1
+12454,13 Jul 2018,v Hampshire,Beckenham,2,0,0,0,0,0
+12454,20 Jul 2018,v Surrey,Canterbury,1,0,0,0,0,0
+12454,27 Jul 2018,v Sussex,Canterbury,-,TDNF,-,-,-,-
+12454,2 Aug 2018,v Essex,Canterbury,2,0,0,0,0,0
+12454,3 Aug 2018,v Hampshire,Southampton,2,3,3,0,0,3
+12454,5 Aug 2018,v Gloucs,Canterbury,2,1,1,0,0,1
+12454,12 Aug 2018,v Middlesex,Beckenham,1,1,1,0,0,1
+12454,16 Aug 2018,v Somerset,Canterbury,2,1,1,0,0,1
+12454,17 Aug 2018,v Essex,Chelmsford,1,0,0,0,0,0
+12454,23 Aug 2018,v Lancashire,Canterbury,2,0,0,0,0,0
+12454,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+12454,22 Dec 2018,v Scorchers,Sydney,2,1,1,0,0,1
+12454,24 Dec 2018,v Thunder,Sydney,1,0,0,0,0,0
+12454,27 Dec 2018,v Stars,Sydney,2,0,0,0,0,0
+12454,29 Dec 2018,v Renegades,Melbourne (Docklands),2,2,2,0,0,2
+12454,1 Jan 2019,v Heat,Carrara,1,0,0,0,0,0
+12454,4 Jan 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+12454,6 Jan 2019,v Strikers,Adelaide,1,0,0,0,0,0
+12454,5 Mar 2019,v West Indies,Gros Islet,1,0,0,0,0,0
+12454,8 Mar 2019,v West Indies,Basseterre,2,0,0,0,0,0
+12454,10 Mar 2019,v West Indies,Basseterre,1,1,1,0,0,1
+12454,12 Apr 2019,v DC,Eden Gardens,2,0,0,0,0,0
+12454,5 May 2019,v Pakistan,Cardiff,1,1,1,0,0,1
+12454,12 Feb 2020,v South Africa,East London,1,1,1,0,0,1
+12454,14 Feb 2020,v South Africa,Durban,2,0,0,0,0,0
+12454,8 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+12454,12 Sep 2020,v Sussex,Canterbury,2,1,1,0,0,1
+12454,14 Sep 2020,v Hampshire,Southampton,1,0,0,0,0,0
+12454,16 Sep 2020,v Middlesex,Canterbury,1,0,0,0,0,0
+12454,18 Sep 2020,v Essex,Canterbury,1,0,0,0,0,0
+12454,20 Sep 2020,v Surrey,The Oval,2,0,0,0,0,0
+12454,1 Oct 2020,v Surrey,The Oval,1,0,0,0,0,0
+12454,2 Jan 2021,v Sixers,Brisbane,1,0,0,0,0,0
+12454,4 Jan 2021,v Thunder,Brisbane,1,0,0,0,0,0
+12454,7 Jan 2021,v Stars,Carrara,2,0,0,0,0,0
+12454,10 Jan 2021,v Sixers,Carrara,2,0,0,0,0,0
+12454,14 Jan 2021,v Renegades,Canberra,1,0,0,0,0,0
+12454,19 Jan 2021,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+12454,21 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+12454,23 Jan 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+12454,26 Jan 2021,v Scorchers,Adelaide,2,0,0,0,0,0
+12454,29 Jan 2021,v Strikers,Brisbane,1,0,0,0,0,0
+12454,31 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+12454,4 Feb 2021,v Scorchers,Canberra,1,0,0,0,0,0
+12454,26 Feb 2021,v Sultans,Karachi,2,0,0,0,0,0
+12454,28 Feb 2021,v Kings,Karachi,1,1,1,0,0,1
+12454,9 Jun 2021,v Hampshire,Canterbury,2,0,0,0,0,0
+12454,11 Jun 2021,v Middlesex,Canterbury,2,0,0,0,0,0
+12454,13 Jun 2021,v Gloucs,Canterbury,2,1,1,0,0,1
+12454,15 Jun 2021,v Somerset,Taunton,1,1,1,0,0,1
+12454,16 Jun 2021,v Glamorgan,Cardiff,2,2,2,0,0,2
+12454,20 Jun 2021,v Essex,Canterbury,2,0,0,0,0,0
+12454,22 Jun 2021,v Gloucs,Bristol,2,0,0,0,0,0
+12454,25 Jun 2021,v Essex,Chelmsford,2,1,1,0,0,1
+12454,28 Jun 2021,v Somerset,Canterbury,2,0,0,0,0,0
+12454,2 Jul 2021,v Surrey,Canterbury,2,0,0,0,0,0
+12454,9 Jul 2021,v Surrey,The Oval,1,2,2,0,0,2
+12454,23 Jul 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+12454,25 Jul 2021,v Invincibles,Lord's,-,TDNF,-,-,-,-
+12454,29 Jul 2021,v Rockets,Lord's,1,0,0,0,0,0
+12454,1 Aug 2021,v Brave,Lord's,1,1,1,0,0,1
+12454,3 Aug 2021,v N S-Chargers,Lord's,1,0,0,0,0,0
+12454,14 Aug 2021,v Invincibles,The Oval,2,1,1,0,0,1
+12454,27 Aug 2021,v Bears,Canterbury,2,0,0,0,0,0
+12454,18 Sep 2021,v Sussex,Birmingham,2,0,0,0,0,0
+12454,18 Sep 2021,v Somerset,Birmingham,2,1,1,0,0,1
+12454,25 May 2022,v Somerset,Canterbury,2,0,0,0,0,0
+12454,27 May 2022,v Essex,Canterbury,2,0,0,0,0,0
+12454,29 May 2022,v Sussex,Hove,1,2,2,0,0,2
+12454,1 Jun 2022,v Gloucs,Bristol,2,0,0,0,0,0
+12454,3 Jun 2022,v Surrey,Canterbury,1,2,2,0,0,2
+12454,5 Jun 2022,v Middlesex,Canterbury,2,1,1,0,0,1
+12454,10 Jun 2022,v Somerset,Taunton,2,0,0,0,0,0
+12454,17 Jun 2022,v Hampshire,Southampton,1,0,0,0,0,0
+12454,19 Jun 2022,v Middlesex,Lord's,2,0,0,0,0,0
+12454,21 Jun 2022,v Gloucs,Canterbury,1,0,0,0,0,0
+12454,24 Jun 2022,v Sussex,Canterbury,1,0,0,0,0,0
+12454,1 Jul 2022,v Surrey,The Oval,2,0,0,0,0,0
+12454,3 Jul 2022,v Glamorgan,Canterbury,1,0,0,0,0,0
+12454,24 May 2023,v Gloucs,Canterbury,1,0,0,0,0,0
+12454,26 May 2023,v Surrey,The Oval,1,0,0,0,0,0
+12454,30 May 2023,v Somerset,Canterbury,1,0,0,0,0,0
+12454,2 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+12454,4 Jun 2023,v Surrey,Canterbury,2,0,0,0,0,0
+12454,7 Jun 2023,v Essex,Canterbury,2,0,0,0,0,0
+12454,9 Jun 2023,v Hampshire,Canterbury,1,0,0,0,0,0
+12454,16 Jun 2023,v Middlesex,Lord's,2,0,0,0,0,0
+12454,17 Jun 2023,v Gloucs,Bristol,1,0,0,0,0,0
+12454,20 Jun 2023,v Sussex,Hove,1,0,0,0,0,0
+12454,22 Jun 2023,v Essex,Chelmsford,1,1,1,0,0,1
+12454,23 Jun 2023,v Middlesex,Canterbury,2,0,0,0,0,0
+12454,26 Jan 2024,v MI Emirates,Sharjah,1,2,2,0,0,2
+12454,28 Jan 2024,v Vipers,Sharjah,2,0,0,0,0,0
+12454,29 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+12454,4 Feb 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+12454,5 Feb 2024,v KnightRiders,Sharjah,2,2,2,0,0,2
+12454,7 Feb 2024,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+12454,11 Feb 2024,v Vipers,Sharjah,2,0,0,0,0,0
+12454,31 May 2024,v Middlesex,Chelmsford,2,0,0,0,0,0
+12454,2 Jun 2024,v Hampshire,Southampton,2,0,0,0,0,0
+12454,7 Jun 2024,v Somerset,Canterbury,1,0,0,0,0,0
+12454,9 Jun 2024,v Middlesex,Canterbury,2,0,0,0,0,0
+12454,14 Jun 2024,v Somerset,Taunton,1,1,1,0,0,1
+12454,16 Jun 2024,v Gloucs,Canterbury,2,0,0,0,0,0
+12454,30 May 2025,v Gloucs,Bristol,2,0,0,0,0,0
+12454,5 Jun 2025,v Middlesex,Lord's,-,TDNF,-,-,-,-
+12454,6 Jun 2025,v Surrey,Canterbury,1,2,2,0,0,2
+12454,8 Jun 2025,v Hampshire,Canterbury,1,0,0,0,0,0
+12454,12 Jun 2025,v Surrey,The Oval,2,0,0,0,0,0
+12454,20 Jun 2025,v Essex,Chelmsford,2,0,0,0,0,0
+12454,4 Jul 2025,v Sussex,Canterbury,1,0,0,0,0,0
+12454,6 Jul 2025,v Glamorgan,Cardiff,2,0,0,0,0,0
+12454,9 Jul 2025,v Sussex,Hove,1,1,1,0,0,1
+12454,11 Jul 2025,v Somerset,Canterbury,2,0,0,0,0,0
+12454,13 Jul 2025,v Middlesex,Canterbury,1,0,0,0,0,0
+12454,18 Jul 2025,v Essex,Canterbury,1,0,0,0,0,0
+12454,6 Sep 2025,v Lancashire,Manchester,2,0,0,0,0,0

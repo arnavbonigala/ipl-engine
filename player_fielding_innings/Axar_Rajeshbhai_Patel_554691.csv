@@ -1,0 +1,310 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+554691,17 Mar 2013,v Maharashtra,Ahmedabad,1,1,1,0,0,1
+554691,18 Mar 2013,v Mumbai,Ahmedabad,2,0,0,0,0,0
+554691,19 Mar 2013,v Baroda,Ahmedabad,2,0,0,0,0,0
+554691,22 Mar 2013,v Saurashtra,Ahmedabad,2,0,0,0,0,0
+554691,26 Mar 2013,v Odisha,Indore,1,1,1,0,0,1
+554691,27 Mar 2013,v Delhi,Indore,1,0,0,0,0,0
+554691,29 Mar 2013,v Vidarbha,Indore,1,0,0,0,0,0
+554691,30 Mar 2013,v Kerala,Indore,2,0,0,0,0,0
+554691,31 Mar 2013,v Punjab,Indore,1,0,0,0,0,0
+554691,30 Mar 2014,v Maharashtra,Mumbai,2,0,0,0,0,0
+554691,31 Mar 2014,v Mumbai,Mumbai,2,0,0,0,0,0
+554691,2 Apr 2014,v Baroda,Wankhede,2,0,0,0,0,0
+554691,4 Apr 2014,v Saurashtra,Wankhede,2,1,1,0,0,1
+554691,18 Apr 2014,v CSK,Abu Dhabi,1,0,0,0,0,0
+554691,20 Apr 2014,v RR,Sharjah,1,0,0,0,0,0
+554691,22 Apr 2014,v SRH,Sharjah,2,1,1,0,0,1
+554691,26 Apr 2014,v KKR,Abu Dhabi,2,1,1,0,0,1
+554691,28 Apr 2014,v RCB,Dubai (DICS),1,0,0,0,0,0
+554691,3 May 2014,v MI,Wankhede,2,0,0,0,0,0
+554691,7 May 2014,v CSK,Cuttack,2,0,0,0,0,0
+554691,9 May 2014,v RCB,Bengaluru,2,1,1,0,0,1
+554691,11 May 2014,v KKR,Cuttack,2,1,1,0,0,1
+554691,14 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+554691,19 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+554691,21 May 2014,v MI,Mohali,2,0,0,0,0,0
+554691,23 May 2014,v RR,Mohali,2,0,0,0,0,0
+554691,25 May 2014,v Daredevils,Mohali,1,2,2,0,0,2
+554691,27 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+554691,30 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+554691,1 Jun 2014,v KKR,Bengaluru,2,1,1,0,0,1
+554691,18 Sep 2014,v Hurricanes,Mohali,1,0,0,0,0,0
+554691,20 Sep 2014,v Tridents,Mohali,1,0,0,0,0,0
+554691,26 Sep 2014,v Northern Dis,Mohali,2,0,0,0,0,0
+554691,28 Sep 2014,v Cape Cobras,Mohali,1,0,0,0,0,0
+554691,2 Oct 2014,v CSK,Hyderabad,1,0,0,0,0,0
+554691,10 Apr 2015,v RR,Pune,1,1,1,0,0,1
+554691,12 Apr 2015,v MI,Wankhede,2,0,0,0,0,0
+554691,15 Apr 2015,v Daredevils,Pune,2,0,0,0,0,0
+554691,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+554691,21 Apr 2015,v RR,Ahmedabad,1,1,1,0,0,1
+554691,25 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+554691,27 Apr 2015,v SRH,Mohali,1,0,0,0,0,0
+554691,1 May 2015,v Daredevils,Delhi,2,1,1,0,0,1
+554691,3 May 2015,v MI,Mohali,1,1,1,0,0,1
+554691,6 May 2015,v RCB,Bengaluru,1,1,1,0,0,1
+554691,9 May 2015,v KKR,Eden Gardens,2,2,2,0,0,2
+554691,11 May 2015,v SRH,Hyderabad,1,0,0,0,0,0
+554691,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+554691,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+554691,17 Jul 2015,v Zimbabwe,Harare,2,0,0,0,0,0
+554691,19 Jul 2015,v Zimbabwe,Harare,1,2,2,0,0,2
+554691,2 Oct 2015,v South Africa,Dharamsala,2,0,0,0,0,0
+554691,5 Oct 2015,v South Africa,Cuttack,2,0,0,0,0,0
+554691,11 Apr 2016,v Guj Lions,Mohali,2,0,0,0,0,0
+554691,15 Apr 2016,v Daredevils,Delhi,2,0,0,0,0,0
+554691,17 Apr 2016,v Supergiants,Mohali,1,0,0,0,0,0
+554691,19 Apr 2016,v KKR,Mohali,2,0,0,0,0,0
+554691,23 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+554691,25 Apr 2016,v MI,Mohali,1,0,0,0,0,0
+554691,1 May 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+554691,4 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+554691,7 May 2016,v Daredevils,Mohali,2,1,1,0,0,1
+554691,9 May 2016,v RCB,Mohali,1,0,0,0,0,0
+554691,13 May 2016,v MI,Visakhapatnam,1,1,1,0,0,1
+554691,15 May 2016,v SRH,Mohali,2,0,0,0,0,0
+554691,18 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+554691,21 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+554691,18 Jun 2016,v Zimbabwe,Harare,1,0,0,0,0,0
+554691,20 Jun 2016,v Zimbabwe,Harare,1,2,2,0,0,2
+554691,22 Jun 2016,v Zimbabwe,Harare,2,0,0,0,0,0
+554691,8 Apr 2017,v Supergiant,Indore,1,1,1,0,0,1
+554691,10 Apr 2017,v RCB,Indore,1,0,0,0,0,0
+554691,13 Apr 2017,v KKR,Eden Gardens,2,1,1,0,0,1
+554691,15 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+554691,17 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+554691,20 Apr 2017,v MI,Indore,2,0,0,0,0,0
+554691,23 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+554691,28 Apr 2017,v SRH,Mohali,1,1,1,0,0,1
+554691,30 Apr 2017,v Daredevils,Mohali,1,1,1,0,0,1
+554691,5 May 2017,v RCB,Bengaluru,2,1,1,0,0,1
+554691,7 May 2017,v Guj Lions,Mohali,2,0,0,0,0,0
+554691,9 May 2017,v KKR,Mohali,2,2,2,0,0,2
+554691,11 May 2017,v MI,Wankhede,2,0,0,0,0,0
+554691,14 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+554691,6 Sep 2017,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+554691,1 Nov 2017,v New Zealand,Delhi,2,0,0,0,0,0
+554691,4 Nov 2017,v New Zealand,Rajkot,1,0,0,0,0,0
+554691,7 Jan 2018,v Maharashtra,Rajkot,2,2,2,0,0,2
+554691,8 Jan 2018,v Mumbai,Rajkot,2,1,1,0,0,1
+554691,10 Jan 2018,v Baroda,Rajkot,1,1,1,0,0,1
+554691,13 Jan 2018,v Saurashtra,Rajkot,1,0,0,0,0,0
+554691,24 Feb 2018,v South Africa,Cape Town,2,1,1,0,0,1
+554691,8 Apr 2018,v Daredevils,Mohali,1,1,1,0,0,1
+554691,13 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+554691,4 May 2018,v MI,Indore,2,0,0,0,0,0
+554691,6 May 2018,v RR,Indore,1,0,0,0,0,0
+554691,8 May 2018,v RR,Jaipur,1,0,0,0,0,0
+554691,12 May 2018,v KKR,Indore,1,0,0,0,0,0
+554691,14 May 2018,v RCB,Indore,2,0,0,0,0,0
+554691,16 May 2018,v MI,Wankhede,1,1,1,0,0,1
+554691,20 May 2018,v CSK,Pune,2,0,0,0,0,0
+554691,21 Feb 2019,v Meghalaya,Surat,2,1,1,0,0,1
+554691,22 Feb 2019,v Rajasthan,Surat,1,0,0,0,0,0
+554691,24 Feb 2019,v Himachal,Surat,2,0,0,0,0,0
+554691,25 Feb 2019,v Tamil Nadu,Surat,1,0,0,0,0,0
+554691,27 Feb 2019,v Bihar,Surat,2,0,0,0,0,0
+554691,2 Mar 2019,v Vidarbha,Surat,2,0,0,0,0,0
+554691,8 Mar 2019,v Jharkhand,Indore,1,1,1,0,0,1
+554691,10 Mar 2019,v Maharashtra,Indore,2,0,0,0,0,0
+554691,11 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+554691,12 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+554691,24 Mar 2019,v MI,Wankhede,2,1,1,0,0,1
+554691,26 Mar 2019,v CSK,Delhi,2,0,0,0,0,0
+554691,4 Apr 2019,v SRH,Delhi,2,0,0,0,0,0
+554691,7 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+554691,12 Apr 2019,v KKR,Eden Gardens,1,1,1,0,0,1
+554691,14 Apr 2019,v SRH,Hyderabad,2,1,1,0,0,1
+554691,18 Apr 2019,v MI,Delhi,1,0,0,0,0,0
+554691,20 Apr 2019,v Kings XI,Delhi,1,1,1,0,0,1
+554691,22 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+554691,28 Apr 2019,v RCB,Delhi,2,2,2,0,0,2
+554691,1 May 2019,v CSK,Chennai,1,1,1,0,0,1
+554691,4 May 2019,v RR,Delhi,1,0,0,0,0,0
+554691,8 May 2019,v SRH,Visakhapatnam,1,2,2,0,0,2
+554691,10 May 2019,v CSK,Visakhapatnam,2,0,0,0,0,0
+554691,11 Nov 2019,v Saurashtra,Surat,1,2,2,0,0,2
+554691,12 Nov 2019,v Nagaland,Surat,2,0,0,0,0,0
+554691,14 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+554691,15 Nov 2019,v Odisha,Surat,1,1,1,0,0,1
+554691,17 Nov 2019,v Jharkhand,Surat,2,0,0,0,0,0
+554691,18 Nov 2019,v J & K,Surat,1,1,1,0,0,1
+554691,20 Sep 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+554691,25 Sep 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+554691,29 Sep 2020,v SRH,Abu Dhabi,1,1,1,0,0,1
+554691,5 Oct 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+554691,9 Oct 2020,v RR,Sharjah,2,1,1,0,0,1
+554691,11 Oct 2020,v MI,Abu Dhabi,2,1,1,0,0,1
+554691,14 Oct 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+554691,17 Oct 2020,v CSK,Sharjah,1,0,0,0,0,0
+554691,20 Oct 2020,v Kings XI,Dubai (DICS),2,0,0,0,0,0
+554691,24 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+554691,27 Oct 2020,v SRH,Dubai (DICS),1,1,1,0,0,1
+554691,2 Nov 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+554691,5 Nov 2020,v MI,Dubai (DICS),1,0,0,0,0,0
+554691,8 Nov 2020,v SRH,Abu Dhabi,2,1,1,0,0,1
+554691,10 Nov 2020,v MI,Dubai (DICS),2,0,0,0,0,0
+554691,10 Jan 2021,v Maharashtra,Vadodara,2,0,0,0,0,0
+554691,12 Jan 2021,v Uttarakhand,Vadodara,2,0,0,0,0,0
+554691,14 Jan 2021,v Himachal,Vadodara,1,1,1,0,0,1
+554691,16 Jan 2021,v Chhattisgarh,Vadodara,1,0,0,0,0,0
+554691,18 Jan 2021,v Baroda,Vadodara,1,1,1,0,0,1
+554691,12 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+554691,25 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+554691,27 Apr 2021,v RCB,Ahmedabad,1,0,0,0,0,0
+554691,29 Apr 2021,v KKR,Ahmedabad,1,0,0,0,0,0
+554691,2 May 2021,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+554691,22 Sep 2021,v SRH,Dubai (DICS),1,1,1,0,0,1
+554691,25 Sep 2021,v RR,Abu Dhabi,2,0,0,0,0,0
+554691,28 Sep 2021,v KKR,Sharjah,2,1,1,0,0,1
+554691,2 Oct 2021,v MI,Sharjah,1,0,0,0,0,0
+554691,4 Oct 2021,v CSK,Dubai (DICS),1,0,0,0,0,0
+554691,8 Oct 2021,v RCB,Dubai (DICS),2,0,0,0,0,0
+554691,10 Oct 2021,v CSK,Dubai (DICS),2,1,1,0,0,1
+554691,13 Oct 2021,v KKR,Sharjah,2,1,1,0,0,1
+554691,17 Nov 2021,v New Zealand,Jaipur,1,0,0,0,0,0
+554691,19 Nov 2021,v New Zealand,Ranchi,1,0,0,0,0,0
+554691,21 Nov 2021,v New Zealand,Eden Gardens,2,0,0,0,0,0
+554691,27 Mar 2022,v MI,Brabourne,1,0,0,0,0,0
+554691,2 Apr 2022,v GT,Pune,1,2,2,0,0,2
+554691,7 Apr 2022,v LSG,DY Patil,2,1,1,0,0,1
+554691,10 Apr 2022,v KKR,Brabourne,2,1,1,0,0,1
+554691,16 Apr 2022,v RCB,Wankhede,1,1,1,0,0,1
+554691,20 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+554691,22 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+554691,28 Apr 2022,v KKR,Wankhede,1,0,0,0,0,0
+554691,1 May 2022,v LSG,Wankhede,1,0,0,0,0,0
+554691,8 May 2022,v CSK,DY Patil,1,2,2,0,0,2
+554691,11 May 2022,v RR,DY Patil,1,0,0,0,0,0
+554691,16 May 2022,v Punjab Kings,DY Patil,2,1,1,0,0,1
+554691,21 May 2022,v MI,Wankhede,2,0,0,0,0,0
+554691,9 Jun 2022,v South Africa,Delhi,2,0,0,0,0,0
+554691,12 Jun 2022,v South Africa,Cuttack,2,0,0,0,0,0
+554691,14 Jun 2022,v South Africa,Visakhapatnam,2,1,1,0,0,1
+554691,17 Jun 2022,v South Africa,Rajkot,2,0,0,0,0,0
+554691,19 Jun 2022,v South Africa,Bengaluru,-,TDNF,-,-,-,-
+554691,26 Jun 2022,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+554691,28 Jun 2022,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+554691,1 Jul 2022,v Derbyshire,Derby,1,0,0,0,0,0
+554691,7 Jul 2022,v England,Southampton,2,0,0,0,0,0
+554691,6 Aug 2022,v West Indies,Lauderhill,2,0,0,0,0,0
+554691,7 Aug 2022,v West Indies,Lauderhill,2,0,0,0,0,0
+554691,8 Sep 2022,v Afghanistan,Dubai (DICS),2,1,1,0,0,1
+554691,20 Sep 2022,v Australia,Mohali,2,0,0,0,0,0
+554691,23 Sep 2022,v Australia,Nagpur,1,0,0,0,0,0
+554691,25 Sep 2022,v Australia,Hyderabad,1,1,1,0,0,1
+554691,28 Sep 2022,v South Africa,Thiruvananthapuram,1,0,0,0,0,0
+554691,2 Oct 2022,v South Africa,Guwahati,2,0,0,0,0,0
+554691,4 Oct 2022,v South Africa,Indore,1,0,0,0,0,0
+554691,23 Oct 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+554691,27 Oct 2022,v Netherlands,Sydney,2,1,1,0,0,1
+554691,2 Nov 2022,v Bangladesh,Adelaide,2,0,0,0,0,0
+554691,6 Nov 2022,v Zimbabwe,Melbourne,2,1,1,0,0,1
+554691,10 Nov 2022,v England,Adelaide,2,0,0,0,0,0
+554691,3 Jan 2023,v Sri Lanka,Wankhede,2,0,0,0,0,0
+554691,5 Jan 2023,v Sri Lanka,Pune,1,0,0,0,0,0
+554691,7 Jan 2023,v Sri Lanka,Rajkot,2,1,1,0,0,1
+554691,1 Apr 2023,v LSG,Lucknow,1,1,1,0,0,1
+554691,4 Apr 2023,v GT,Delhi,2,0,0,0,0,0
+554691,8 Apr 2023,v RR,Guwahati,1,0,0,0,0,0
+554691,11 Apr 2023,v MI,Delhi,2,0,0,0,0,0
+554691,15 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+554691,20 Apr 2023,v KKR,Delhi,1,0,0,0,0,0
+554691,24 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+554691,29 Apr 2023,v SRH,Delhi,1,2,2,0,0,2
+554691,2 May 2023,v GT,Ahmedabad,2,0,0,0,0,0
+554691,6 May 2023,v RCB,Delhi,1,1,1,0,0,1
+554691,10 May 2023,v CSK,Chennai,1,1,1,0,0,1
+554691,13 May 2023,v Punjab Kings,Delhi,1,0,0,0,0,0
+554691,17 May 2023,v Punjab Kings,Dharamsala,2,2,2,0,0,2
+554691,20 May 2023,v CSK,Delhi,1,0,0,0,0,0
+554691,3 Aug 2023,v West Indies,Tarouba,1,1,1,0,0,1
+554691,6 Aug 2023,v West Indies,Providence,2,0,0,0,0,0
+554691,8 Aug 2023,v West Indies,Providence,1,0,0,0,0,0
+554691,12 Aug 2023,v West Indies,Lauderhill,1,1,1,0,0,1
+554691,13 Aug 2023,v West Indies,Lauderhill,2,0,0,0,0,0
+554691,23 Oct 2023,v Punjab,Ranchi,1,1,1,0,0,1
+554691,25 Oct 2023,v Railways,Ranchi,1,2,2,0,0,2
+554691,23 Nov 2023,v Australia,Visakhapatnam,1,0,0,0,0,0
+554691,26 Nov 2023,v Australia,Thiruvananthapuram,2,1,1,0,0,1
+554691,28 Nov 2023,v Australia,Guwahati,2,0,0,0,0,0
+554691,1 Dec 2023,v Australia,Raipur,2,0,0,0,0,0
+554691,3 Dec 2023,v Australia,Bengaluru,2,0,0,0,0,0
+554691,11 Jan 2024,v Afghanistan,Mohali,1,0,0,0,0,0
+554691,14 Jan 2024,v Afghanistan,Indore,1,1,1,0,0,1
+554691,23 Mar 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+554691,28 Mar 2024,v RR,Jaipur,1,0,0,0,0,0
+554691,31 Mar 2024,v CSK,Visakhapatnam,2,1,1,0,0,1
+554691,3 Apr 2024,v KKR,Visakhapatnam,1,0,0,0,0,0
+554691,7 Apr 2024,v MI,Wankhede,1,2,2,0,0,2
+554691,12 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+554691,17 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+554691,20 Apr 2024,v SRH,Delhi,1,2,2,0,0,2
+554691,24 Apr 2024,v GT,Delhi,2,3,3,0,0,3
+554691,27 Apr 2024,v MI,Delhi,2,1,1,0,0,1
+554691,29 Apr 2024,v KKR,Eden Gardens,2,0,0,0,0,0
+554691,7 May 2024,v RR,Delhi,2,1,1,0,0,1
+554691,12 May 2024,v RCB,Bengaluru,1,2,2,0,0,2
+554691,14 May 2024,v LSG,Delhi,2,1,1,0,0,1
+554691,5 Jun 2024,v Ireland,New York,1,1,1,0,0,1
+554691,9 Jun 2024,v Pakistan,New York,2,0,0,0,0,0
+554691,12 Jun 2024,v U.S.A.,New York,1,0,0,0,0,0
+554691,20 Jun 2024,v Afghanistan,Bridgetown,2,1,1,0,0,1
+554691,22 Jun 2024,v Bangladesh,North Sound,2,1,1,0,0,1
+554691,24 Jun 2024,v Australia,Gros Islet,2,1,1,0,0,1
+554691,27 Jun 2024,v England,Providence,2,0,0,0,0,0
+554691,29 Jun 2024,v South Africa,Bridgetown,2,0,0,0,0,0
+554691,27 Jul 2024,v Sri Lanka,Pallekele,2,1,1,0,0,1
+554691,28 Jul 2024,v Sri Lanka,Pallekele,1,0,0,0,0,0
+554691,8 Nov 2024,v South Africa,Durban,2,1,1,0,0,1
+554691,10 Nov 2024,v South Africa,Gqeberha,2,0,0,0,0,0
+554691,13 Nov 2024,v South Africa,Centurion,2,1,1,0,0,1
+554691,15 Nov 2024,v South Africa,Johannesburg,2,1,1,0,0,1
+554691,23 Nov 2024,v Baroda,Indore,2,1,1,0,0,1
+554691,25 Nov 2024,v Saurashtra,Indore,1,0,0,0,0,0
+554691,27 Nov 2024,v Tripura,Indore,1,0,0,0,0,0
+554691,29 Nov 2024,v Tamil Nadu,Indore,2,0,0,0,0,0
+554691,1 Dec 2024,v Sikkim,Indore,1,0,0,0,0,0
+554691,3 Dec 2024,v Uttarakhand,Indore,1,1,1,0,0,1
+554691,5 Dec 2024,v Karnataka,Indore,2,2,2,0,0,2
+554691,22 Jan 2025,v England,Eden Gardens,1,0,0,0,0,0
+554691,25 Jan 2025,v England,Chennai,1,0,0,0,0,0
+554691,28 Jan 2025,v England,Rajkot,1,0,0,0,0,0
+554691,31 Jan 2025,v England,Pune,2,1,1,0,0,1
+554691,2 Feb 2025,v England,Wankhede,2,0,0,0,0,0
+554691,24 Mar 2025,v LSG,Visakhapatnam,1,0,0,0,0,0
+554691,30 Mar 2025,v SRH,Visakhapatnam,1,2,2,0,0,2
+554691,5 Apr 2025,v CSK,Chennai,2,1,1,0,0,1
+554691,10 Apr 2025,v RCB,Bengaluru,1,1,1,0,0,1
+554691,13 Apr 2025,v MI,Delhi,1,0,0,0,0,0
+554691,16 Apr 2025,v RR,Delhi,2,0,0,0,0,0
+554691,19 Apr 2025,v GT,Ahmedabad,2,0,0,0,0,0
+554691,22 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+554691,27 Apr 2025,v RCB,Delhi,2,0,0,0,0,0
+554691,29 Apr 2025,v KKR,Delhi,1,0,0,0,0,0
+554691,5 May 2025,v SRH,Hyderabad,-,TDNF,-,-,-,-
+554691,18 May 2025,v GT,Delhi,2,0,0,0,0,0
+554691,10 Sep 2025,v U.A.E.,Dubai (DICS),1,0,0,0,0,0
+554691,14 Sep 2025,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+554691,19 Sep 2025,v Oman,Abu Dhabi,2,0,0,0,0,0
+554691,21 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+554691,24 Sep 2025,v Bangladesh,Dubai (DICS),2,2,2,0,0,2
+554691,26 Sep 2025,v Sri Lanka,Dubai (DICS),2,1,1,0,0,1
+554691,28 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+554691,29 Oct 2025,v Australia,Canberra,-,TDNF,-,-,-,-
+554691,31 Oct 2025,v Australia,Melbourne,2,0,0,0,0,0
+554691,2 Nov 2025,v Australia,Hobart,1,1,1,0,0,1
+554691,6 Nov 2025,v Australia,Carrara,2,0,0,0,0,0
+554691,8 Nov 2025,v Australia,Brisbane,-,TDNF,-,-,-,-
+554691,9 Dec 2025,v South Africa,Cuttack,2,0,0,0,0,0
+554691,11 Dec 2025,v South Africa,New Chandigarh,1,1,1,0,0,1
+554691,21 Jan 2026,v New Zealand,Nagpur,2,0,0,0,0,0
+554691,31 Jan 2026,v New Zealand,Thiruvananthapuram,2,1,1,0,0,1
+554691,7 Feb 2026,v U.S.A.,Wankhede,2,0,0,0,0,0
+554691,12 Feb 2026,v Namibia,Delhi,2,2,2,0,0,2
+554691,15 Feb 2026,v Pakistan,Colombo (RPS),2,0,0,0,0,0
+554691,26 Feb 2026,v Zimbabwe,Chennai,2,0,0,0,0,0
+554691,1 Mar 2026,v West Indies,Eden Gardens,1,0,0,0,0,0
+554691,5 Mar 2026,v England,Wankhede,2,2,2,0,0,2
+554691,8 Mar 2026,v New Zealand,Ahmedabad,2,0,0,0,0,0

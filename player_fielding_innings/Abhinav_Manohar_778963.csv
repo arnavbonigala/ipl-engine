@@ -1,0 +1,55 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+778963,16 Nov 2021,v Saurashtra,Delhi,1,0,0,0,0,0
+778963,18 Nov 2021,v Bengal,Delhi,2,0,0,0,0,0
+778963,20 Nov 2021,v Vidarbha,Delhi,2,1,1,0,0,1
+778963,22 Nov 2021,v Tamil Nadu,Delhi,2,1,1,0,0,1
+778963,28 Mar 2022,v LSG,Wankhede,1,0,0,0,0,0
+778963,2 Apr 2022,v DC,Pune,2,2,2,0,0,2
+778963,8 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+778963,11 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+778963,14 Apr 2022,v RR,DY Patil,2,0,0,0,0,0
+778963,17 Apr 2022,v CSK,Pune,1,1,1,0,0,1
+778963,23 Apr 2022,v KKR,DY Patil,2,1,1,0,0,1
+778963,27 Apr 2022,v SRH,Wankhede,1,0,0,0,0,0
+778963,11 Oct 2022,v Maharashtra,Mohali,2,2,2,0,0,2
+778963,12 Oct 2022,v Kerala,Mohali,1,1,1,0,0,1
+778963,14 Oct 2022,v Meghalaya,New Chandigarh,1,0,0,0,0,0
+778963,16 Oct 2022,v J & K,New Chandigarh,2,0,0,0,0,0
+778963,18 Oct 2022,v Arunachal,Mohali,1,0,0,0,0,0
+778963,20 Oct 2022,v Services,New Chandigarh,1,2,2,0,0,2
+778963,22 Oct 2022,v Haryana,Mohali,1,1,1,0,0,1
+778963,1 Nov 2022,v Punjab,Eden Gardens,1,0,0,0,0,0
+778963,9 Apr 2023,v KKR,Ahmedabad,2,1,1,0,0,1
+778963,16 Apr 2023,v RR,Ahmedabad,2,0,0,0,0,0
+778963,22 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+778963,25 Apr 2023,v MI,Ahmedabad,2,1,1,0,0,1
+778963,29 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+778963,2 May 2023,v DC,Ahmedabad,1,1,1,0,0,1
+778963,5 May 2023,v RR,Jaipur,1,0,0,0,0,0
+778963,7 May 2023,v LSG,Ahmedabad,2,0,0,0,0,0
+778963,12 May 2023,v MI,Wankhede,1,1,1,0,0,1
+778963,19 Oct 2023,v M. Pradesh,Dehradun,1,0,0,0,0,0
+778963,21 Oct 2023,v Delhi,Dehradun,2,0,0,0,0,0
+778963,23 Oct 2023,v Nagaland,Dehradun,1,0,0,0,0,0
+778963,25 Oct 2023,v UP,Dehradun,1,0,0,0,0,0
+778963,27 Oct 2023,v Tripura,Dehradun,2,0,0,0,0,0
+778963,10 Apr 2024,v RR,Jaipur,1,0,0,0,0,0
+778963,17 Apr 2024,v DC,Ahmedabad,2,1,1,0,0,1
+778963,23 Nov 2024,v Uttarakhand,Indore,1,1,1,0,0,1
+778963,25 Nov 2024,v Tripura,Indore,1,0,0,0,0,0
+778963,27 Nov 2024,v Saurashtra,Indore,2,0,0,0,0,0
+778963,29 Nov 2024,v Sikkim,Indore,1,1,1,0,0,1
+778963,1 Dec 2024,v Tamil Nadu,Indore,1,1,1,0,0,1
+778963,3 Dec 2024,v Baroda,Indore,2,1,1,0,0,1
+778963,23 Mar 2025,v RR,Hyderabad,2,2,2,0,0,2
+778963,27 Mar 2025,v LSG,Hyderabad,2,0,0,0,0,0
+778963,30 Mar 2025,v DC,Visakhapatnam,2,0,0,0,0,0
+778963,12 Apr 2025,v Punjab Kings,Hyderabad,1,0,0,0,0,0
+778963,23 Apr 2025,v MI,Hyderabad,2,1,1,0,0,1
+778963,5 May 2025,v DC,Hyderabad,1,1,1,0,0,1
+778963,23 May 2025,v RCB,Lucknow,2,1,1,0,0,1
+778963,25 May 2025,v KKR,Delhi,2,2,2,0,0,2
+778963,26 Nov 2025,v Uttarakhand,Ahmedabad,1,1,1,0,0,1
+778963,28 Nov 2025,v Jharkhand,Ahmedabad,2,0,0,0,0,0
+778963,30 Nov 2025,v Rajasthan,Ahmedabad,1,0,0,0,0,0
+778963,8 Dec 2025,v Tripura,Ahmedabad,2,0,0,0,0,0

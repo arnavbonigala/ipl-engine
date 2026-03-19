@@ -1,0 +1,181 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+308798,23 Dec 2016,v Sixers,Sydney,2,1,1,0,0,1
+308798,26 Dec 2016,v Stars,Hobart,2,0,0,0,0,0
+308798,30 Dec 2016,v Heat,Brisbane,2,0,0,0,0,0
+308798,2 Jan 2017,v Strikers,Hobart,1,1,1,0,0,1
+308798,6 Jan 2017,v Strikers,Adelaide,2,0,0,0,0,0
+308798,8 Jan 2017,v Thunder,Hobart,2,1,1,0,0,1
+308798,12 Jan 2017,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+308798,21 Jan 2017,v Scorchers,Hobart,2,0,0,0,0,0
+308798,15 Feb 2017,v Sri Lanka,Canberra,2,1,1,0,0,1
+308798,21 Dec 2017,v Renegades,Hobart,2,0,0,0,0,0
+308798,30 Dec 2017,v Thunder,Launceston,1,0,0,0,0,0
+308798,1 Jan 2018,v Thunder,Sydney,2,0,0,0,0,0
+308798,4 Jan 2018,v Strikers,Hobart,2,1,1,0,0,1
+308798,8 Jan 2018,v Sixers,Hobart,2,0,0,0,0,0
+308798,10 Jan 2018,v Heat,Brisbane,2,0,0,0,0,0
+308798,15 Jan 2018,v Heat,Hobart,1,1,1,0,0,1
+308798,17 Jan 2018,v Strikers,Adelaide,1,0,0,0,0,0
+308798,20 Jan 2018,v Scorchers,W.A.C.A,2,1,1,0,0,1
+308798,27 Jan 2018,v Stars,Melbourne,2,0,0,0,0,0
+308798,3 Feb 2018,v New Zealand,Sydney,1,0,0,0,0,0
+308798,4 Feb 2018,v Strikers,Adelaide,1,0,0,0,0,0
+308798,7 Feb 2018,v England,Hobart,1,0,0,0,0,0
+308798,10 Feb 2018,v England,Melbourne,1,0,0,0,0,0
+308798,16 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+308798,21 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+308798,9 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+308798,11 Apr 2018,v Daredevils,Jaipur,2,0,0,0,0,0
+308798,15 Apr 2018,v RCB,Bengaluru,2,1,1,0,0,1
+308798,18 Apr 2018,v KKR,Jaipur,2,0,0,0,0,0
+308798,2 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+308798,6 May 2018,v Kings XI,Indore,2,1,1,0,0,1
+308798,13 May 2018,v MI,Wankhede,1,0,0,0,0,0
+308798,27 Jun 2018,v England,Birmingham,1,1,1,0,0,1
+308798,2 Jul 2018,v Pakistan,Harare,1,0,0,0,0,0
+308798,3 Jul 2018,v Zimbabwe,Harare,2,2,2,0,0,2
+308798,5 Jul 2018,v Pakistan,Harare,1,1,1,0,0,1
+308798,8 Jul 2018,v Pakistan,Harare,2,0,0,0,0,0
+308798,22 Oct 2018,v U.A.E.,Abu Dhabi,1,1,1,0,0,1
+308798,24 Oct 2018,v Pakistan,Abu Dhabi,1,0,0,0,0,0
+308798,26 Oct 2018,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+308798,28 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+308798,17 Nov 2018,v South Africa,Carrara,1,1,1,0,0,1
+308798,21 Nov 2018,v India,Brisbane,2,0,0,0,0,0
+308798,23 Nov 2018,v India,Melbourne,-,TDNF,-,-,-,-
+308798,25 Nov 2018,v India,Sydney,2,0,0,0,0,0
+308798,22 Dec 2018,v Heat,Carrara,2,0,0,0,0,0
+308798,24 Dec 2018,v Stars,Hobart,1,0,0,0,0,0
+308798,28 Dec 2018,v Thunder,Hobart,1,0,0,0,0,0
+308798,30 Dec 2018,v Scorchers,Launceston,1,0,0,0,0,0
+308798,4 Jan 2019,v Sixers,Hobart,1,0,0,0,0,0
+308798,7 Jan 2019,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+308798,14 Jan 2019,v Stars,Melbourne,2,0,0,0,0,0
+308798,18 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+308798,21 Jan 2019,v Strikers,Adelaide,1,1,1,0,0,1
+308798,23 Jan 2019,v Sixers,Sydney,2,0,0,0,0,0
+308798,29 Jan 2019,v Heat,Hobart,1,0,0,0,0,0
+308798,31 Jan 2019,v Strikers,Launceston,2,1,1,0,0,1
+308798,7 Feb 2019,v Renegades,Hobart,2,1,1,0,0,1
+308798,9 Feb 2019,v Thunder,Canberra,2,0,0,0,0,0
+308798,14 Feb 2019,v Stars,Hobart,2,0,0,0,0,0
+308798,24 Feb 2019,v India,Visakhapatnam,1,0,0,0,0,0
+308798,27 Feb 2019,v India,Bengaluru,1,0,0,0,0,0
+308798,19 Jul 2019,v Northants,Chester-le-Street,2,1,1,0,0,1
+308798,21 Jul 2019,v Lancashire,Manchester,1,0,0,0,0,0
+308798,26 Jul 2019,v Leics,Leicester,1,0,0,0,0,0
+308798,28 Jul 2019,v Worcs,Worcester,2,0,0,0,0,0
+308798,31 Jul 2019,v Leics,Chester-le-Street,1,0,0,0,0,0
+308798,2 Aug 2019,v Lancashire,Chester-le-Street,2,0,0,0,0,0
+308798,7 Aug 2019,v Northants,Northampton,1,1,1,0,0,1
+308798,9 Aug 2019,v Derbyshire,Derby,2,1,1,0,0,1
+308798,15 Aug 2019,v Worcs,Chester-le-Street,1,1,1,0,0,1
+308798,23 Aug 2019,v Yorkshire,Chester-le-Street,1,1,1,0,0,1
+308798,27 Aug 2019,v Bears,Chester-le-Street,2,0,0,0,0,0
+308798,30 Aug 2019,v Notts,Nottingham,2,0,0,0,0,0
+308798,20 Dec 2019,v Sixers,Alice Springs,2,3,3,0,0,3
+308798,22 Dec 2019,v Stars,Moe,1,0,0,0,0,0
+308798,24 Dec 2019,v Renegades,Hobart,1,0,0,0,0,0
+308798,30 Dec 2019,v Stars,Launceston,2,0,0,0,0,0
+308798,3 Jan 2020,v Heat,Hobart,1,0,0,0,0,0
+308798,5 Jan 2020,v Scorchers,Perth,2,2,2,0,0,2
+308798,24 Jan 2020,v Thunder,Hobart,2,0,0,0,0,0
+308798,26 Jan 2020,v Strikers,Adelaide,2,1,1,0,0,1
+308798,30 Jan 2020,v Thunder,Hobart,1,1,1,0,0,1
+308798,4 Dec 2020,v India,Canberra,1,0,0,0,0,0
+308798,6 Dec 2020,v India,Sydney,2,0,0,0,0,0
+308798,8 Dec 2020,v India,Sydney,2,0,0,0,0,0
+308798,10 Dec 2020,v Sixers,Hobart,2,0,0,0,0,0
+308798,13 Dec 2020,v Strikers,Hobart,2,0,0,0,0,0
+308798,15 Dec 2020,v Strikers,Launceston,2,1,1,0,0,1
+308798,19 Dec 2020,v Renegades,Hobart,1,0,0,0,0,0
+308798,27 Dec 2020,v Heat,Brisbane,2,1,1,0,0,1
+308798,30 Dec 2020,v Heat,Brisbane,2,1,1,0,0,1
+308798,2 Jan 2021,v Stars,Hobart,2,1,1,0,0,1
+308798,4 Jan 2021,v Stars,Hobart,1,0,0,0,0,0
+308798,7 Jan 2021,v Thunder,Perth,1,1,1,0,0,1
+308798,12 Jan 2021,v Scorchers,Perth,2,0,0,0,0,0
+308798,18 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+308798,22 Jan 2021,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+308798,24 Jan 2021,v Sixers,Melbourne,2,1,1,0,0,1
+308798,26 Jan 2021,v Renegades,Melbourne,1,1,1,0,0,1
+308798,9 Jun 2021,v Kent,Canterbury,1,0,0,0,0,0
+308798,11 Jun 2021,v Essex,Chelmsford,2,0,0,0,0,0
+308798,12 Jun 2021,v Sussex,Hove,2,0,0,0,0,0
+308798,15 Jun 2021,v Middlesex,Radlett,2,0,0,0,0,0
+308798,25 Jun 2021,v Somerset,Taunton,1,2,2,0,0,2
+308798,30 Jun 2021,v Surrey,Southampton,1,0,0,0,0,0
+308798,2 Jul 2021,v Gloucs,Southampton,2,0,0,0,0,0
+308798,9 Jul 2021,v Somerset,Southampton,2,1,1,0,0,1
+308798,16 Jul 2021,v Essex,Southampton,2,0,0,0,0,0
+308798,16 Jul 2021,v Sussex,Southampton,1,0,0,0,0,0
+308798,18 Jul 2021,v Glamorgan,Southampton,1,0,0,0,0,0
+308798,24 Jul 2021,v Brave,Nottingham,1,1,1,0,0,1
+308798,26 Jul 2021,v N S-Chargers,Nottingham,1,0,0,0,0,0
+308798,29 Jul 2021,v Spirit,Lord's,2,0,0,0,0,0
+308798,1 Aug 2021,v Phoenix,Birmingham,2,1,1,0,0,1
+308798,6 Aug 2021,v Fire,Cardiff,1,0,0,0,0,0
+308798,8 Aug 2021,v Invincibles,The Oval,1,0,0,0,0,0
+308798,13 Aug 2021,v Phoenix,Nottingham,1,1,1,0,0,1
+308798,15 Aug 2021,v Originals,Nottingham,1,0,0,0,0,0
+308798,20 Aug 2021,v Brave,The Oval,2,0,0,0,0,0
+308798,25 Aug 2021,v Notts,Nottingham,2,2,2,0,0,2
+308798,8 Dec 2021,v Sixers,Launceston,1,0,0,0,0,0
+308798,11 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+308798,14 Dec 2021,v Scorchers,Hobart,1,0,0,0,0,0
+308798,20 Dec 2021,v Scorchers,Hobart,1,0,0,0,0,0
+308798,24 Dec 2021,v Stars,Hobart,2,1,1,0,0,1
+308798,27 Dec 2021,v Strikers,Hobart,1,0,0,0,0,0
+308798,29 Dec 2021,v Renegades,Melbourne (Docklands),2,3,3,0,0,3
+308798,1 Jan 2022,v Heat,Hobart,1,1,1,0,0,1
+308798,5 Jan 2022,v Strikers,Adelaide,2,1,1,0,0,1
+308798,8 Jan 2022,v Heat,Brisbane,1,1,1,0,0,1
+308798,10 Jan 2022,v Thunder,Melbourne,2,0,0,0,0,0
+308798,13 Jan 2022,v Thunder,Melbourne (Docklands),2,1,1,0,0,1
+308798,18 Jan 2022,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+308798,19 Jan 2022,v Stars,Melbourne,1,0,0,0,0,0
+308798,21 Jan 2022,v Strikers,Melbourne,1,1,1,0,0,1
+308798,16 Dec 2022,v Stars,Melbourne,1,0,0,0,0,0
+308798,19 Dec 2022,v Scorchers,Launceston,2,0,0,0,0,0
+308798,22 Dec 2022,v Sixers,Sydney,1,0,0,0,0,0
+308798,24 Dec 2022,v Renegades,Hobart,2,1,1,0,0,1
+308798,31 Dec 2022,v Thunder,Albury,1,0,0,0,0,0
+308798,2 Jan 2023,v Strikers,Hobart,1,1,1,0,0,1
+308798,9 Jan 2023,v Stars,Hobart,1,1,1,0,0,1
+308798,18 Jan 2023,v Scorchers,Perth,2,0,0,0,0,0
+308798,20 Jan 2023,v Heat,Brisbane,1,0,0,0,0,0
+308798,23 Jan 2023,v Sixers,Hobart,1,1,1,0,0,1
+308798,19 Dec 2023,v Thunder,Adelaide,1,0,0,0,0,0
+308798,22 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+308798,29 Dec 2023,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+308798,31 Dec 2023,v Stars,Adelaide,2,0,0,0,0,0
+308798,3 Jan 2024,v Scorchers,Perth,1,0,0,0,0,0
+308798,5 Jan 2024,v Scorchers,Adelaide,1,0,0,0,0,0
+308798,9 Jan 2024,v Hurricanes,Adelaide,1,1,1,0,0,1
+308798,11 Jan 2024,v Hurricanes,Hobart,1,1,1,0,0,1
+308798,14 Jan 2024,v Thunder,Canberra,1,1,1,0,0,1
+308798,20 Jan 2024,v Scorchers,Perth,2,0,0,0,0,0
+308798,22 Jan 2024,v Heat,Carrara,1,0,0,0,0,0
+308798,20 Dec 2024,v Stars,Adelaide,2,0,0,0,0,0
+308798,22 Dec 2024,v Heat,Brisbane,2,0,0,0,0,0
+308798,27 Dec 2024,v Hurricanes,Adelaide,1,0,0,0,0,0
+308798,31 Dec 2024,v Scorchers,Adelaide,2,0,0,0,0,0
+308798,2 Jan 2025,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+308798,5 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+308798,11 Jan 2025,v Heat,Adelaide,2,2,2,0,0,2
+308798,15 Jan 2025,v Sixers,Adelaide,2,1,1,0,0,1
+308798,18 Jan 2025,v Scorchers,Perth,2,0,0,0,0,0
+308798,30 May 2025,v Kent,Bristol,1,0,0,0,0,0
+308798,1 Jun 2025,v Sussex,Hove,1,0,0,0,0,0
+308798,6 Jun 2025,v Hampshire,Southampton,2,0,0,0,0,0
+308798,13 Jun 2025,v Somerset,Bristol,2,0,0,0,0,0
+308798,15 Jun 2025,v Glamorgan,Bristol,1,1,1,0,0,1
+308798,18 Jun 2025,v Kent,Canterbury,1,1,1,0,0,1
+308798,20 Jun 2025,v Hampshire,Bristol,1,1,1,0,0,1
+308798,4 Jul 2025,v Essex,Chelmsford,2,0,0,0,0,0
+308798,6 Jul 2025,v Middlesex,Bristol,2,0,0,0,0,0
+308798,9 Jul 2025,v Surrey,Bristol,1,1,1,0,0,1
+308798,11 Jul 2025,v Middlesex,Northwood,1,0,0,0,0,0
+308798,13 Jul 2025,v Glamorgan,Cardiff,2,0,0,0,0,0
+308798,17 Jul 2025,v Sussex,Cheltenham,2,1,1,0,0,1
+308798,18 Jul 2025,v Somerset,Taunton,1,1,1,0,0,1

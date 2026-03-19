@@ -1,0 +1,142 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+595267,1 Sep 2017,v Gauteng,Potchefstroom,1,0,0,0,0,0
+595267,2 Sep 2017,v North West,Potchefstroom,1,0,0,0,0,0
+595267,3 Sep 2017,v Northerns,Potchefstroom,1,0,0,0,0,0
+595267,14 Sep 2018,v Namibia,East London,2,0,0,0,0,0
+595267,14 Sep 2018,v Mpumalanga,East London,2,0,0,0,0,0
+595267,15 Sep 2018,v Kenya,East London,2,3,2,1,2,0
+595267,16 Sep 2018,v Border,East London,2,1,1,0,1,0
+595267,5 Apr 2019,v Titans,Centurion,1,0,0,0,0,0
+595267,12 Apr 2019,v Cape Cobras,Paarl,2,0,0,0,0,0
+595267,14 Apr 2019,v Lions,East London,-,TDNF,-,-,-,-
+595267,17 Apr 2019,v Dolphins,Durban,-,TDNF,-,-,-,-
+595267,20 Apr 2019,v Cape Cobras,Gqeberha,2,0,0,0,0,0
+595267,24 Apr 2019,v Lions,Johannesburg,1,0,0,0,0,0
+595267,26 Apr 2019,v Dolphins,Gqeberha,2,0,0,0,0,0
+595267,28 Apr 2019,v Knights,East London,1,0,0,0,0,0
+595267,1 May 2019,v Cape Cobras,East London,2,0,0,0,0,0
+595267,5 May 2019,v Lions,Johannesburg,1,1,1,0,0,1
+595267,10 Nov 2019,v Jozi Stars,Gqeberha,2,0,0,0,0,0
+595267,13 Nov 2019,v Spartans,Centurion,1,0,0,0,0,0
+595267,20 Nov 2019,v Blitz,Gqeberha,1,0,0,0,0,0
+595267,23 Nov 2019,v Durban Heat,Gqeberha,1,0,0,0,0,0
+595267,27 Nov 2019,v Paarl Rocks,Gqeberha,1,1,1,0,0,1
+595267,3 Dec 2019,v Spartans,Gqeberha,1,1,1,0,0,1
+595267,6 Dec 2019,v Blitz,Cape Town,2,0,0,0,0,0
+595267,8 Dec 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+595267,13 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+595267,4 Oct 2021,v Boland,Kimberley,1,0,0,0,0,0
+595267,5 Oct 2021,v Limpopo,Kimberley,2,1,1,0,0,1
+595267,6 Oct 2021,v Border,Kimberley,2,0,0,0,0,0
+595267,20 Oct 2021,v Dolphins,Kimberley,2,0,0,0,0,0
+595267,7 Feb 2022,v Titans,Gqeberha,2,0,0,0,0,0
+595267,9 Feb 2022,v W Province,Gqeberha,2,0,0,0,0,0
+595267,12 Feb 2022,v Dolphins,Gqeberha,1,0,0,0,0,0
+595267,14 Feb 2022,v Knights,Gqeberha,2,0,0,0,0,0
+595267,17 Feb 2022,v Boland,Gqeberha,2,1,1,0,0,1
+595267,19 Feb 2022,v Lions,Gqeberha,1,0,0,0,0,0
+595267,23 Feb 2022,v North West,Gqeberha,1,0,0,0,0,0
+595267,18 Oct 2022,v Knights,Potchefstroom,2,0,0,0,0,0
+595267,20 Oct 2022,v Boland,Potchefstroom,2,0,0,0,0,0
+595267,21 Oct 2022,v Lions,Potchefstroom,2,0,0,0,0,0
+595267,25 Oct 2022,v Dolphins,Potchefstroom,1,0,0,0,0,0
+595267,28 Oct 2022,v Titans,Potchefstroom,2,0,0,0,0,0
+595267,30 Oct 2022,v North West,Potchefstroom,2,0,0,0,0,0
+595267,11 Jan 2023,v Super Kings,Durban,1,0,0,0,0,0
+595267,22 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+595267,24 Jan 2023,v Super Kings,Johannesburg,2,0,0,0,0,0
+595267,2 Feb 2023,v MI Cape Town,Durban,1,0,0,0,0,0
+595267,3 Feb 2023,v Sunrisers,Durban,1,0,0,0,0,0
+595267,5 Feb 2023,v Capitals,Centurion,2,0,0,0,0,0
+595267,3 Sep 2023,v Australia,Durban,2,0,0,0,0,0
+595267,12 Dec 2023,v India,Gqeberha,1,0,0,0,0,0
+595267,14 Dec 2023,v India,Johannesburg,1,1,1,0,0,1
+595267,11 Jan 2024,v MI Cape Town,Durban,1,1,1,0,0,1
+595267,13 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+595267,15 Jan 2024,v Super Kings,Durban,2,0,0,0,0,0
+595267,18 Jan 2024,v Capitals,Centurion,1,1,1,0,0,1
+595267,20 Jan 2024,v Sunrisers,Durban,2,0,0,0,0,0
+595267,23 Jan 2024,v MI Cape Town,Cape Town,2,0,0,0,0,0
+595267,26 Jan 2024,v Paarl Royals,Paarl,2,2,2,0,0,2
+595267,28 Jan 2024,v Paarl Royals,Durban,2,1,1,0,0,1
+595267,30 Jan 2024,v Capitals,Durban,2,0,0,0,0,0
+595267,3 Feb 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+595267,6 Feb 2024,v Sunrisers,Cape Town,1,2,2,0,0,2
+595267,8 Feb 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+595267,10 Feb 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+595267,8 Mar 2024,v KZN-Inland,Gqeberha,2,0,0,0,0,0
+595267,10 Mar 2024,v Dolphins,Durban,1,1,1,0,0,1
+595267,13 Mar 2024,v Titans,Centurion,2,1,1,0,0,1
+595267,17 Mar 2024,v Boland,Gqeberha,2,0,0,0,0,0
+595267,21 Mar 2024,v W Province,Gqeberha,1,0,0,0,0,0
+595267,24 Mar 2024,v North West,Gqeberha,2,1,1,0,0,1
+595267,27 Mar 2024,v Lions,Johannesburg,2,1,1,0,0,1
+595267,31 Mar 2024,v W Province,Paarl,1,0,0,0,0,0
+595267,5 Apr 2024,v Titans,Gqeberha,1,1,1,0,0,1
+595267,12 Apr 2024,v KZN-Inland,Pietermaritzburg,2,2,2,0,0,2
+595267,14 Apr 2024,v Boland,Paarl,2,0,0,0,0,0
+595267,17 Apr 2024,v Lions,Gqeberha,1,1,1,0,0,1
+595267,19 Apr 2024,v North West,Potchefstroom,2,0,0,0,0,0
+595267,21 Apr 2024,v Dolphins,Gqeberha,2,0,0,0,0,0
+595267,25 Apr 2024,v Dolphins,Durban,2,1,1,0,0,1
+595267,23 May 2024,v West Indies,Kingston,1,0,0,0,0,0
+595267,25 May 2024,v West Indies,Kingston,1,1,1,0,0,1
+595267,26 May 2024,v West Indies,Kingston,2,1,1,0,0,1
+595267,30 May 2024,v Derbyshire,Northampton,1,0,0,0,0,0
+595267,31 May 2024,v Notts,Nottingham,1,0,0,0,0,0
+595267,2 Jun 2024,v Yorkshire,Northampton,1,1,1,0,0,1
+595267,7 Jun 2024,v Worcs,Northampton,2,0,0,0,0,0
+595267,14 Jun 2024,v Derbyshire,Derby,2,0,0,0,0,0
+595267,16 Jun 2024,v Worcs,Worcester,2,0,0,0,0,0
+595267,20 Jun 2024,v Bears,Birmingham,1,0,0,0,0,0
+595267,21 Jun 2024,v Leics,Northampton,2,2,2,0,0,2
+595267,7 Jul 2024,v Durham,Northampton,1,0,0,0,0,0
+595267,12 Jul 2024,v Leics,Leicester,2,1,1,0,0,1
+595267,14 Jul 2024,v Durham,Chester-le-Street,1,0,0,0,0,0
+595267,18 Jul 2024,v Bears,Northampton,2,0,0,0,0,0
+595267,19 Jul 2024,v Lancashire,Manchester,1,1,1,0,0,1
+595267,27 Sep 2024,v Ireland,Abu Dhabi,1,0,0,0,0,0
+595267,29 Sep 2024,v Ireland,Abu Dhabi,1,1,1,0,0,1
+595267,4 Oct 2024,v Lions,Johannesburg,1,1,1,0,0,1
+595267,6 Oct 2024,v Knights,Gqeberha,1,0,0,0,0,0
+595267,9 Oct 2024,v W Province,Cape Town,1,1,1,0,0,1
+595267,10 Dec 2024,v Pakistan,Durban,2,2,2,0,0,2
+595267,13 Dec 2024,v Pakistan,Centurion,1,0,0,0,0,0
+595267,10 Jan 2025,v Capitals,Durban,2,1,1,0,0,1
+595267,12 Jan 2025,v Capitals,Centurion,-,TDNF,-,-,-,-
+595267,14 Jan 2025,v Super Kings,Durban,1,0,0,0,0,0
+595267,17 Jan 2025,v Sunrisers,Durban,1,0,0,0,0,0
+595267,19 Jan 2025,v Sunrisers,Gqeberha,2,1,1,0,0,1
+595267,21 Jan 2025,v MI Cape Town,Durban,1,0,0,0,0,0
+595267,23 Jan 2025,v Paarl Royals,Durban,2,0,0,0,0,0
+595267,25 Jan 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+595267,1 Feb 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+595267,27 May 2025,v RCB,Lucknow,2,0,0,0,0,0
+595267,30 May 2025,v Yorkshire,Leeds,2,2,2,0,0,2
+595267,1 Jun 2025,v Leics,Northampton,1,0,0,0,0,0
+595267,4 Jun 2025,v Derbyshire,Derby,2,0,0,0,0,0
+595267,6 Jun 2025,v Worcs,Worcester,2,0,0,0,0,0
+595267,8 Jun 2025,v Lancashire,Manchester,2,3,3,0,0,3
+595267,11 Jun 2025,v Bears,Northampton,2,0,0,0,0,0
+595267,13 Jun 2025,v Durham,Northampton,1,0,0,0,0,0
+595267,20 Jun 2025,v Notts,Northampton,1,0,0,0,0,0
+595267,11 Jul 2025,v Derbyshire,Northampton,2,0,0,0,0,0
+595267,13 Jul 2025,v Bears,Birmingham,2,1,1,0,0,1
+595267,18 Jul 2025,v Durham,Chester-le-Street,2,0,0,0,0,0
+595267,28 Oct 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+595267,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+595267,1 Nov 2025,v Pakistan,Lahore,2,1,1,0,0,1
+595267,15 Nov 2025,v KZN-Inland,Pietermaritzburg,2,0,0,0,0,0
+595267,19 Nov 2025,v Boland,Gqeberha,2,1,1,0,1,0
+595267,27 Dec 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+595267,29 Dec 2025,v Capitals,Gqeberha,2,1,1,0,0,1
+595267,31 Dec 2025,v Paarl Royals,Gqeberha,2,0,0,0,0,0
+595267,3 Jan 2026,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+595267,5 Jan 2026,v Capitals,Centurion,1,1,1,0,0,1
+595267,11 Jan 2026,v Super Giants,Gqeberha,2,1,1,0,0,1
+595267,14 Jan 2026,v Super Kings,Gqeberha,2,1,1,0,0,1
+595267,16 Jan 2026,v MI Cape Town,Cape Town,2,1,1,0,0,1
+595267,18 Jan 2026,v MI Cape Town,Gqeberha,1,0,0,0,0,0
+595267,21 Jan 2026,v Capitals,Durban,2,0,0,0,0,0
+595267,23 Jan 2026,v Paarl Royals,Johannesburg,1,1,1,0,0,1
+595267,25 Jan 2026,v Capitals,Cape Town,1,0,0,0,0,0

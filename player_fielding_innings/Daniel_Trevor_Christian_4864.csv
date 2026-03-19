@@ -1,0 +1,413 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+4864,8 Jan 2006,v Queensland,North Sydney,1,0,0,0,0,0
+4864,10 Jan 2006,v Tasmania,Hobart,2,0,0,0,0,0
+4864,21 Jan 2006,v Victoria,North Sydney,1,1,1,0,0,1
+4864,1 Jan 2007,v West Aust,W.A.C.A,1,0,0,0,0,0
+4864,5 Jan 2007,v Queensland,Brisbane,1,1,1,0,0,1
+4864,7 Jan 2007,v South Aust,Newcastle,1,0,0,0,0,0
+4864,10 Jan 2007,v Tasmania,Sydney,1,0,0,0,0,0
+4864,1 Jan 2008,v NSW,Adelaide,2,0,0,0,0,0
+4864,4 Jan 2008,v Queensland,Brisbane,-,TDNF,-,-,-,-
+4864,6 Jan 2008,v Tasmania,Hobart,2,0,0,0,0,0
+4864,8 Jan 2008,v West Aust,Adelaide,2,0,0,0,0,0
+4864,10 Jan 2008,v Victoria,Adelaide,1,0,0,0,0,0
+4864,28 Dec 2008,v West Aust,Adelaide,2,0,0,0,0,0
+4864,2 Jan 2009,v Victoria,Melbourne,2,0,0,0,0,0
+4864,6 Jan 2009,v NSW,Adelaide,2,0,0,0,0,0
+4864,9 Jan 2009,v Queensland,Brisbane,2,0,0,0,0,0
+4864,15 Jan 2009,v Tasmania,Launceston,2,1,1,0,0,1
+4864,29 Dec 2009,v West Aust,W.A.C.A,2,1,1,0,0,1
+4864,3 Jan 2010,v Queensland,Adelaide,1,0,0,0,0,0
+4864,7 Jan 2010,v Victoria,Adelaide,2,1,1,0,0,1
+4864,12 Jan 2010,v Tasmania,Adelaide,2,1,1,0,0,1
+4864,17 Jan 2010,v NSW,Sydney,2,0,0,0,0,0
+4864,23 Jan 2010,v Victoria,Adelaide,1,2,2,0,0,2
+4864,23 Feb 2010,v West Indies,Sydney,1,0,0,0,0,0
+4864,26 Feb 2010,v New Zealand,Wellington,1,0,0,0,0,0
+4864,28 Feb 2010,v New Zealand,Christchurch,1,0,0,0,0,0
+4864,8 Jun 2010,v Glamorgan,Cardiff,2,1,1,0,0,1
+4864,11 Jun 2010,v Somerset,Southampton,1,0,0,0,0,0
+4864,13 Jun 2010,v Surrey,Southampton,2,3,3,0,0,3
+4864,18 Jun 2010,v Sussex,Hove,2,0,0,0,0,0
+4864,19 Jun 2010,v Gloucs,Bristol,1,0,0,0,0,0
+4864,9 Jul 2010,v Somerset,Taunton,2,0,0,0,0,0
+4864,10 Jul 2010,v Middlesex,Uxbridge,1,0,0,0,0,0
+4864,16 Jul 2010,v Middlesex,Southampton,2,0,0,0,0,0
+4864,18 Jul 2010,v Sussex,Southampton,2,0,0,0,0,0
+4864,26 Jul 2010,v Warwickshire,Birmingham,1,0,0,0,0,0
+4864,14 Aug 2010,v Essex,Southampton,1,1,1,0,0,1
+4864,14 Aug 2010,v Somerset,Southampton,1,2,2,0,0,2
+4864,12 Sep 2010,v Lions,Centurion,2,0,0,0,0,0
+4864,14 Sep 2010,v MI,Durban,1,0,0,0,0,0
+4864,17 Sep 2010,v RCB,Durban,1,0,0,0,0,0
+4864,21 Sep 2010,v Guyana,Johannesburg,2,0,0,0,0,0
+4864,25 Sep 2010,v Warriors,Centurion,1,2,2,0,0,2
+4864,4 Jan 2011,v NSW,Adelaide,1,1,1,0,0,1
+4864,8 Jan 2011,v Victoria,Adelaide,2,2,2,0,0,2
+4864,13 Jan 2011,v West Aust,W.A.C.A,2,0,0,0,0,0
+4864,20 Jan 2011,v Queensland,Adelaide,2,0,0,0,0,0
+4864,24 Jan 2011,v Tasmania,Hobart,1,0,0,0,0,0
+4864,28 Jan 2011,v Victoria,Melbourne,1,0,0,0,0,0
+4864,5 Feb 2011,v NSW,Adelaide,1,0,0,0,0,0
+4864,9 Apr 2011,v RR,Hyderabad,2,0,0,0,0,0
+4864,11 Apr 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+4864,14 Apr 2011,v RCB,Hyderabad,2,1,1,0,0,1
+4864,16 Apr 2011,v Kings XI,Hyderabad,2,0,0,0,0,0
+4864,19 Apr 2011,v Daredevils,Delhi,2,2,2,0,0,2
+4864,24 Apr 2011,v MI,Hyderabad,1,0,0,0,0,0
+4864,27 Apr 2011,v Kochi,Kochi,2,1,1,0,0,1
+4864,1 May 2011,v CSK,Chennai,1,0,0,0,0,0
+4864,3 May 2011,v KKR,Hyderabad,1,0,0,0,0,0
+4864,5 May 2011,v Daredevils,Hyderabad,2,1,1,0,0,1
+4864,10 May 2011,v Warriors,Hyderabad,2,0,0,0,0,0
+4864,14 May 2011,v MI,Wankhede,2,0,0,0,0,0
+4864,16 May 2011,v Warriors,DY Patil,1,0,0,0,0,0
+4864,21 May 2011,v Kings XI,Dharamsala,2,2,2,0,0,2
+4864,25 Sep 2011,v Warriors,Hyderabad,1,0,0,0,0,0
+4864,27 Sep 2011,v KKR,Hyderabad,2,1,1,0,0,1
+4864,1 Oct 2011,v Somerset,Bengaluru,-,TDNF,-,-,-,-
+4864,5 Oct 2011,v RCB,Bengaluru,2,0,0,0,0,0
+4864,16 Dec 2011,v Sixers,Sydney,2,0,0,0,0,0
+4864,20 Dec 2011,v Stars,Brisbane,1,1,1,0,0,1
+4864,29 Dec 2011,v Scorchers,W.A.C.A,1,0,0,0,0,0
+4864,3 Jan 2012,v Strikers,Brisbane,1,0,0,0,0,0
+4864,6 Jan 2012,v Hurricanes,Brisbane,2,1,1,0,0,1
+4864,12 Jan 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+4864,17 Jan 2012,v Thunder,Brisbane,2,0,0,0,0,0
+4864,1 Feb 2012,v India,Sydney,2,0,0,0,0,0
+4864,27 Mar 2012,v West Indies,Gros Islet,1,0,0,0,0,0
+4864,30 Mar 2012,v West Indies,Bridgetown,1,2,2,0,0,2
+4864,7 Apr 2012,v CSK,Visakhapatnam,1,2,2,0,0,2
+4864,9 Apr 2012,v MI,Visakhapatnam,2,0,0,0,0,0
+4864,17 Apr 2012,v RR,Jaipur,2,1,1,0,0,1
+4864,19 Apr 2012,v Daredevils,Delhi,2,1,1,0,0,1
+4864,29 Apr 2012,v MI,Wankhede,2,1,1,0,0,1
+4864,4 May 2012,v CSK,Chennai,1,0,0,0,0,0
+4864,13 May 2012,v Kings XI,Mohali,2,1,1,0,0,1
+4864,7 Sep 2012,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+4864,10 Sep 2012,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+4864,19 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+4864,22 Sep 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+4864,28 Sep 2012,v India,Colombo (RPS),1,1,1,0,0,1
+4864,9 Dec 2012,v Hurricanes,Brisbane,2,0,0,0,0,0
+4864,13 Dec 2012,v Strikers,Adelaide,1,0,0,0,0,0
+4864,18 Dec 2012,v Scorchers,Brisbane,2,0,0,0,0,0
+4864,22 Dec 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+4864,28 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+4864,3 Jan 2013,v Stars,Brisbane,2,1,1,0,0,1
+4864,7 Jan 2013,v Sixers,Brisbane,2,0,0,0,0,0
+4864,12 Jan 2013,v Hurricanes,Hobart,1,0,0,0,0,0
+4864,15 Jan 2013,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+4864,19 Jan 2013,v Scorchers,W.A.C.A,2,2,2,0,0,2
+4864,4 Apr 2013,v MI,Bengaluru,2,0,0,0,0,0
+4864,13 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+4864,28 Jun 2013,v Northants,Northampton,1,0,0,0,0,0
+4864,30 Jun 2013,v Worcs,Bristol,2,0,0,0,0,0
+4864,5 Jul 2013,v Somerset,Taunton,2,0,0,0,0,0
+4864,7 Jul 2013,v Worcs,Worcester,2,0,0,0,0,0
+4864,14 Jul 2013,v Warwickshire,Cheltenham,2,0,0,0,0,0
+4864,16 Jul 2013,v Northants,Cheltenham,1,1,1,0,0,1
+4864,21 Jul 2013,v Glamorgan,Cheltenham,1,2,2,0,0,2
+4864,24 Jul 2013,v Warwickshire,Birmingham,2,0,0,0,0,0
+4864,26 Jul 2013,v Somerset,Bristol,2,0,0,0,0,0
+4864,30 Jul 2013,v Glamorgan,Cardiff,1,0,0,0,0,0
+4864,22 Sep 2013,v Trinidad & T,Ranchi,1,0,0,0,0,0
+4864,24 Sep 2013,v Titans,Mohali,1,1,1,0,0,1
+4864,28 Sep 2013,v CSK,Ranchi,2,0,0,0,0,0
+4864,22 Dec 2013,v Scorchers,Brisbane,1,1,1,0,0,1
+4864,28 Dec 2013,v Hurricanes,Brisbane,2,1,1,0,0,1
+4864,30 Dec 2013,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+4864,2 Jan 2014,v Sixers,Brisbane,1,0,0,0,0,0
+4864,8 Jan 2014,v Thunder,Sydney,2,1,1,0,0,1
+4864,11 Jan 2014,v Stars,Brisbane,2,0,0,0,0,0
+4864,29 Jan 2014,v England,Hobart,2,0,0,0,0,0
+4864,2 Feb 2014,v England,Sydney,2,0,0,0,0,0
+4864,12 Mar 2014,v South Africa,Durban,1,0,0,0,0,0
+4864,1 Apr 2014,v Bangladesh,Mirpur,1,0,0,0,0,0
+4864,17 May 2014,v Essex,Lord's,2,0,0,0,0,0
+4864,17 May 2014,v Sussex,Lord's,1,1,1,0,0,1
+4864,23 May 2014,v Gloucs,Bristol,2,0,0,0,0,0
+4864,25 May 2014,v Hampshire,Northwood,1,0,0,0,0,0
+4864,30 May 2014,v Surrey,The Oval,2,0,0,0,0,0
+4864,6 Jun 2014,v Kent,Canterbury,1,0,0,0,0,0
+4864,18 Jun 2014,v Somerset,The Oval,1,0,0,0,0,0
+4864,20 Jun 2014,v Essex,Chelmsford,2,0,0,0,0,0
+4864,26 Jun 2014,v Gloucs,Lord's,1,1,1,0,0,1
+4864,27 Jun 2014,v Sussex,Hove,2,1,1,0,0,1
+4864,3 Jul 2014,v Glamorgan,Richmond,2,0,0,0,0,0
+4864,11 Jul 2014,v Hampshire,Southampton,2,0,0,0,0,0
+4864,24 Jul 2014,v Surrey,Lord's,2,0,0,0,0,0
+4864,25 Jul 2014,v Somerset,Taunton,1,0,0,0,0,0
+4864,21 Dec 2014,v Thunder,Sydney,1,0,0,0,0,0
+4864,28 Dec 2014,v Stars,Brisbane,2,0,0,0,0,0
+4864,2 Jan 2015,v Hurricanes,Hobart,2,2,2,0,0,2
+4864,4 Jan 2015,v Strikers,Brisbane,2,1,1,0,0,1
+4864,11 Jan 2015,v Sixers,Brisbane,2,0,0,0,0,0
+4864,13 Jan 2015,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+4864,15 Jan 2015,v Hurricanes,Brisbane,2,1,1,0,0,1
+4864,19 Jun 2015,v Yorkshire,Leeds,1,0,0,0,0,0
+4864,26 Jun 2015,v Derbyshire,Derby,1,0,0,0,0,0
+4864,27 Jun 2015,v Northants,Nottingham,1,0,0,0,0,0
+4864,3 Jul 2015,v Worcs,Nottingham,1,0,0,0,0,0
+4864,10 Jul 2015,v Derbyshire,Nottingham,2,0,0,0,0,0
+4864,15 Jul 2015,v Lancashire,Manchester,1,0,0,0,0,0
+4864,17 Jul 2015,v Durham,Chester-le-Street,2,1,1,0,0,1
+4864,20 Dec 2015,v Sixers,Sydney,1,1,1,0,0,1
+4864,22 Dec 2015,v Heat,Hobart,2,4,4,0,0,4
+4864,29 Dec 2015,v Heat,Brisbane,2,1,1,0,0,1
+4864,1 Jan 2016,v Thunder,Hobart,2,1,1,0,0,1
+4864,4 Jan 2016,v Renegades,Hobart,2,0,0,0,0,0
+4864,6 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+4864,10 Jan 2016,v Scorchers,Hobart,1,0,0,0,0,0
+4864,13 Jan 2016,v Strikers,Adelaide,2,0,0,0,0,0
+4864,20 May 2016,v Warwickshire,Nottingham,2,0,0,0,0,0
+4864,1 Jun 2016,v Durham,Chester-le-Street,1,1,1,0,0,1
+4864,4 Jun 2016,v Lancashire,Nottingham,1,0,0,0,0,0
+4864,18 Jun 2016,v Worcs,Worcester,1,0,0,0,0,0
+4864,24 Jun 2016,v Derbyshire,Derby,1,0,0,0,0,0
+4864,1 Jul 2016,v Durham,Nottingham,-,TDNF,-,-,-,-
+4864,8 Jul 2016,v Northants,Northampton,1,1,1,0,0,1
+4864,9 Jul 2016,v Worcs,Nottingham,1,0,0,0,0,0
+4864,15 Jul 2016,v Yorkshire,Nottingham,1,0,0,0,0,0
+4864,22 Jul 2016,v Warwickshire,Birmingham,1,0,0,0,0,0
+4864,29 Jul 2016,v Leics,Nottingham,1,1,1,0,0,1
+4864,8 Aug 2016,v Essex,Nottingham,2,0,0,0,0,0
+4864,20 Aug 2016,v Northants,Birmingham,1,0,0,0,0,0
+4864,23 Dec 2016,v Sixers,Sydney,2,0,0,0,0,0
+4864,26 Dec 2016,v Stars,Hobart,2,0,0,0,0,0
+4864,30 Dec 2016,v Heat,Brisbane,2,1,1,0,0,1
+4864,2 Jan 2017,v Strikers,Hobart,1,0,0,0,0,0
+4864,6 Jan 2017,v Strikers,Adelaide,2,0,0,0,0,0
+4864,8 Jan 2017,v Thunder,Hobart,2,0,0,0,0,0
+4864,12 Jan 2017,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+4864,21 Jan 2017,v Scorchers,Hobart,2,0,0,0,0,0
+4864,8 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+4864,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+4864,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+4864,24 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+4864,26 Apr 2017,v KKR,Pune,2,0,0,0,0,0
+4864,29 Apr 2017,v RCB,Pune,2,1,1,0,0,1
+4864,1 May 2017,v Guj Lions,Pune,1,0,0,0,0,0
+4864,3 May 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+4864,6 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+4864,12 May 2017,v Daredevils,Delhi,1,1,1,0,0,1
+4864,14 May 2017,v Kings XI,Pune,1,1,1,0,0,1
+4864,16 May 2017,v MI,Wankhede,2,3,3,0,0,3
+4864,21 May 2017,v MI,Hyderabad,1,0,0,0,0,0
+4864,7 Jul 2017,v Yorkshire,Leeds,1,0,0,0,0,0
+4864,8 Jul 2017,v Warwickshire,Birmingham,2,1,1,0,0,1
+4864,21 Jul 2017,v Derbyshire,Nottingham,2,0,0,0,0,0
+4864,22 Jul 2017,v Northants,Nottingham,1,0,0,0,0,0
+4864,25 Jul 2017,v Durham,Chester-le-Street,1,2,2,0,0,2
+4864,26 Jul 2017,v Worcs,Nottingham,1,1,1,0,0,1
+4864,30 Jul 2017,v Yorkshire,Nottingham,1,0,0,0,0,0
+4864,2 Aug 2017,v Leics,Leicester,-,TDNF,-,-,-,-
+4864,4 Aug 2017,v Derbyshire,Derby,2,0,0,0,0,0
+4864,5 Aug 2017,v Durham,Nottingham,1,1,1,0,0,1
+4864,11 Aug 2017,v Warwickshire,Nottingham,1,0,0,0,0,0
+4864,13 Aug 2017,v Worcs,Worcester,2,1,1,0,0,1
+4864,18 Aug 2017,v Leics,Nottingham,1,0,0,0,0,0
+4864,24 Aug 2017,v Somerset,Nottingham,1,0,0,0,0,0
+4864,2 Sep 2017,v Hampshire,Birmingham,2,2,2,0,0,2
+4864,2 Sep 2017,v Warwickshire,Birmingham,2,1,1,0,0,1
+4864,5 Sep 2017,v Patriots,Tarouba,1,1,1,0,0,1
+4864,7 Sep 2017,v Amazon,Tarouba,1,0,0,0,0,0
+4864,9 Sep 2017,v Patriots,Tarouba,1,1,1,0,0,1
+4864,7 Oct 2017,v India,Ranchi,2,0,0,0,0,0
+4864,21 Dec 2017,v Renegades,Hobart,2,0,0,0,0,0
+4864,30 Dec 2017,v Thunder,Launceston,1,0,0,0,0,0
+4864,1 Jan 2018,v Thunder,Sydney,2,0,0,0,0,0
+4864,4 Jan 2018,v Strikers,Hobart,2,0,0,0,0,0
+4864,8 Jan 2018,v Sixers,Hobart,2,0,0,0,0,0
+4864,10 Jan 2018,v Heat,Brisbane,2,0,0,0,0,0
+4864,15 Jan 2018,v Heat,Hobart,1,0,0,0,0,0
+4864,17 Jan 2018,v Strikers,Adelaide,1,0,0,0,0,0
+4864,20 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+4864,27 Jan 2018,v Stars,Melbourne,2,0,0,0,0,0
+4864,1 Feb 2018,v Scorchers,Perth,2,0,0,0,0,0
+4864,4 Feb 2018,v Strikers,Adelaide,1,0,0,0,0,0
+4864,8 Apr 2018,v Kings XI,Mohali,2,0,0,0,0,0
+4864,14 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+4864,23 Apr 2018,v Kings XI,Delhi,1,0,0,0,0,0
+4864,5 May 2018,v SRH,Hyderabad,2,0,0,0,0,0
+4864,4 Jul 2018,v Bears,Nottingham,2,0,0,0,0,0
+4864,6 Jul 2018,v Northants,Northampton,2,2,2,0,0,2
+4864,8 Jul 2018,v Leics,Leicester,2,1,1,0,0,1
+4864,13 Jul 2018,v Derbyshire,Derby,2,0,0,0,0,0
+4864,17 Jul 2018,v Durham,Nottingham,1,0,0,0,0,0
+4864,20 Jul 2018,v Leics,Nottingham,1,1,1,0,0,1
+4864,27 Jul 2018,v Lancashire,Nottingham,2,2,2,0,0,2
+4864,28 Jul 2018,v Durham,Chester-le-Street,2,0,0,0,0,0
+4864,2 Aug 2018,v Derbyshire,Nottingham,2,1,1,0,0,1
+4864,4 Aug 2018,v Worcs,Nottingham,1,1,1,0,0,1
+4864,9 Aug 2018,v Bears,Birmingham,2,1,1,0,0,1
+4864,10 Aug 2018,v Yorkshire,Nottingham,2,0,0,0,0,0
+4864,12 Aug 2018,v Worcs,Worcester,1,0,0,0,0,0
+4864,17 Aug 2018,v Yorkshire,Leeds,1,0,0,0,0,0
+4864,26 Aug 2018,v Somerset,Taunton,1,1,1,0,0,1
+4864,17 Nov 2018,v Giants,Johannesburg,2,0,0,0,0,0
+4864,20 Nov 2018,v Paarl Rocks,Paarl,2,2,2,0,0,2
+4864,24 Nov 2018,v Blitz,Johannesburg,1,0,0,0,0,0
+4864,28 Nov 2018,v Spartans,Centurion,2,0,0,0,0,0
+4864,30 Nov 2018,v Durban Heat,Johannesburg,2,0,0,0,0,0
+4864,2 Dec 2018,v Giants,Gqeberha,2,0,0,0,0,0
+4864,4 Dec 2018,v Blitz,Cape Town,2,0,0,0,0,0
+4864,7 Dec 2018,v Durban Heat,Durban,1,1,1,0,0,1
+4864,9 Dec 2018,v Paarl Rocks,Johannesburg,2,0,0,0,0,0
+4864,11 Dec 2018,v Spartans,Johannesburg,2,0,0,0,0,0
+4864,14 Dec 2018,v Paarl Rocks,Johannesburg,-,TDNF,-,-,-,-
+4864,16 Dec 2018,v Blitz,Cape Town,1,0,0,0,0,0
+4864,20 Dec 2018,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+4864,23 Dec 2018,v Strikers,Adelaide,1,0,0,0,0,0
+4864,29 Dec 2018,v Sixers,Melbourne (Docklands),1,3,3,0,0,3
+4864,1 Jan 2019,v Stars,Melbourne,2,0,0,0,0,0
+4864,3 Jan 2019,v Strikers,Geelong,1,1,1,0,0,1
+4864,7 Jan 2019,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+4864,10 Jan 2019,v Heat,Brisbane,1,2,2,0,0,2
+4864,13 Jan 2019,v Heat,Geelong,1,0,0,0,0,0
+4864,16 Jan 2019,v Sixers,Sydney,1,0,0,0,0,0
+4864,19 Jan 2019,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+4864,22 Jan 2019,v Thunder,Sydney,2,2,2,0,0,2
+4864,28 Jan 2019,v Scorchers,Perth,2,2,2,0,0,2
+4864,30 Jan 2019,v Thunder,Melbourne (Docklands),2,2,2,0,0,2
+4864,7 Feb 2019,v Hurricanes,Hobart,1,0,0,0,0,0
+4864,15 Feb 2019,v Sixers,Melbourne (Docklands),1,0,0,0,0,0
+4864,17 Feb 2019,v Stars,Melbourne (Docklands),2,2,2,0,0,2
+4864,20 Feb 2019,v Gladiators,Sharjah,2,0,0,0,0,0
+4864,22 Feb 2019,v Qalandars,Sharjah,2,0,0,0,0,0
+4864,24 Feb 2019,v Zalmi,Sharjah,2,1,1,0,0,1
+4864,26 Feb 2019,v United,Dubai (DICS),1,0,0,0,0,0
+4864,28 Feb 2019,v Zalmi,Dubai (DICS),2,1,1,0,0,1
+4864,1 Mar 2019,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+4864,4 Mar 2019,v Kings,Abu Dhabi,2,0,0,0,0,0
+4864,11 Mar 2019,v Qalandars,Karachi,1,2,2,0,0,2
+4864,18 Jul 2019,v Worcs,Nottingham,1,0,0,0,0,0
+4864,24 Jul 2019,v Northants,Nottingham,1,1,1,0,0,1
+4864,26 Jul 2019,v Derbyshire,Derby,2,1,1,0,0,1
+4864,27 Jul 2019,v Leics,Nottingham,1,0,0,0,0,0
+4864,2 Aug 2019,v Bears,Nottingham,2,1,1,0,0,1
+4864,3 Aug 2019,v Lancashire,Manchester,1,0,0,0,0,0
+4864,9 Aug 2019,v Bears,Birmingham,1,0,0,0,0,0
+4864,23 Aug 2019,v Leics,Leicester,1,0,0,0,0,0
+4864,25 Aug 2019,v Yorkshire,Nottingham,2,0,0,0,0,0
+4864,30 Aug 2019,v Durham,Nottingham,1,1,1,0,0,1
+4864,5 Sep 2019,v Middlesex,Nottingham,1,0,0,0,0,0
+4864,21 Sep 2019,v Worcs,Birmingham,1,2,2,0,0,2
+4864,8 Nov 2019,v Blitz,Johannesburg,1,0,0,0,0,0
+4864,10 Nov 2019,v Giants,Gqeberha,1,0,0,0,0,0
+4864,14 Nov 2019,v Blitz,Cape Town,1,1,1,0,0,1
+4864,16 Nov 2019,v Giants,Johannesburg,2,0,0,0,0,0
+4864,22 Nov 2019,v Paarl Rocks,Paarl,2,1,1,0,0,1
+4864,24 Nov 2019,v Spartans,Johannesburg,1,0,0,0,0,0
+4864,1 Dec 2019,v Paarl Rocks,Johannesburg,2,0,0,0,0,0
+4864,19 Dec 2019,v Thunder,Geelong,2,0,0,0,0,0
+4864,21 Dec 2019,v Scorchers,Perth,1,2,2,0,0,2
+4864,24 Dec 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+4864,29 Dec 2019,v Strikers,Melbourne (Docklands),1,1,1,0,0,1
+4864,2 Jan 2020,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+4864,4 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+4864,7 Jan 2020,v Scorchers,Geelong,2,0,0,0,0,0
+4864,10 Jan 2020,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+4864,12 Jan 2020,v Strikers,Adelaide,1,0,0,0,0,0
+4864,15 Jan 2020,v Thunder,Canberra,2,0,0,0,0,0
+4864,19 Jan 2020,v Heat,Brisbane,2,0,0,0,0,0
+4864,21 Jan 2020,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+4864,25 Jan 2020,v Sixers,Sydney,2,0,0,0,0,0
+4864,27 Jan 2020,v Heat,Melbourne (Docklands),1,1,1,0,0,1
+4864,29 Aug 2020,v Durham,Chester-le-Street,1,0,0,0,0,0
+4864,31 Aug 2020,v Yorkshire,Nottingham,1,1,1,0,0,1
+4864,4 Sep 2020,v Leics,Nottingham,1,0,0,0,0,0
+4864,11 Sep 2020,v Lancashire,Nottingham,1,0,0,0,0,0
+4864,13 Sep 2020,v Derbyshire,Nottingham,2,0,0,0,0,0
+4864,17 Sep 2020,v Derbyshire,Nottingham,1,0,0,0,0,0
+4864,18 Sep 2020,v Leics,Leicester,2,0,0,0,0,0
+4864,20 Sep 2020,v Durham,Nottingham,2,0,0,0,0,0
+4864,1 Oct 2020,v Leics,Nottingham,1,0,0,0,0,0
+4864,4 Oct 2020,v Lancashire,Birmingham,1,0,0,0,0,0
+4864,4 Oct 2020,v Surrey,Birmingham,1,2,2,0,0,2
+4864,10 Dec 2020,v Hurricanes,Hobart,1,0,0,0,0,0
+4864,13 Dec 2020,v Renegades,Hobart,2,1,1,0,0,1
+4864,20 Dec 2020,v Strikers,Hobart,2,0,0,0,0,0
+4864,26 Dec 2020,v Stars,Carrara,1,2,2,0,0,2
+4864,29 Dec 2020,v Renegades,Carrara,1,0,0,0,0,0
+4864,2 Jan 2021,v Heat,Brisbane,2,2,2,0,0,2
+4864,3 Jan 2021,v Strikers,Carrara,1,1,1,0,0,1
+4864,6 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+4864,10 Jan 2021,v Heat,Carrara,1,2,2,0,0,2
+4864,13 Jan 2021,v Thunder,Canberra,1,2,2,0,0,2
+4864,16 Jan 2021,v Scorchers,Canberra,1,0,0,0,0,0
+4864,22 Jan 2021,v Thunder,Adelaide,1,1,1,0,0,1
+4864,24 Jan 2021,v Hurricanes,Melbourne,1,1,1,0,0,1
+4864,26 Jan 2021,v Stars,Melbourne,1,0,0,0,0,0
+4864,30 Jan 2021,v Scorchers,Canberra,1,1,1,0,0,1
+4864,6 Feb 2021,v Scorchers,Sydney,2,0,0,0,0,0
+4864,20 Feb 2021,v Gladiators,Karachi,1,1,1,0,0,1
+4864,24 Feb 2021,v United,Karachi,2,1,1,0,0,1
+4864,27 Feb 2021,v Sultans,Karachi,1,0,0,0,0,0
+4864,28 Feb 2021,v Qalandars,Karachi,2,0,0,0,0,0
+4864,3 Mar 2021,v Zalmi,Karachi,1,0,0,0,0,0
+4864,9 Apr 2021,v MI,Chennai,1,1,1,0,0,1
+4864,14 Apr 2021,v SRH,Chennai,2,2,2,0,0,2
+4864,25 Apr 2021,v CSK,Wankhede,1,1,1,0,0,1
+4864,9 Jul 2021,v West Indies,Gros Islet,1,0,0,0,0,0
+4864,10 Jul 2021,v West Indies,Gros Islet,1,0,0,0,0,0
+4864,12 Jul 2021,v West Indies,Gros Islet,2,0,0,0,0,0
+4864,14 Jul 2021,v West Indies,Gros Islet,2,1,1,0,0,1
+4864,6 Aug 2021,v Bangladesh,Mirpur,1,0,0,0,0,0
+4864,7 Aug 2021,v Bangladesh,Mirpur,1,0,0,0,0,0
+4864,9 Aug 2021,v Bangladesh,Mirpur,1,0,0,0,0,0
+4864,26 Sep 2021,v MI,Dubai (DICS),2,0,0,0,0,0
+4864,29 Sep 2021,v RR,Dubai (DICS),1,0,0,0,0,0
+4864,3 Oct 2021,v Punjab Kings,Sharjah,2,1,1,0,0,1
+4864,6 Oct 2021,v SRH,Abu Dhabi,1,2,2,0,0,2
+4864,8 Oct 2021,v DC,Dubai (DICS),1,2,2,0,0,2
+4864,11 Oct 2021,v KKR,Sharjah,2,0,0,0,0,0
+4864,5 Dec 2021,v Stars,Sydney,2,1,1,0,0,1
+4864,8 Dec 2021,v Hurricanes,Launceston,2,1,1,0,0,1
+4864,11 Dec 2021,v Hurricanes,Sydney,1,0,0,0,0,0
+4864,15 Dec 2021,v Stars,Melbourne,1,0,0,0,0,0
+4864,21 Dec 2021,v Strikers,Sydney,1,1,1,0,0,1
+4864,26 Dec 2021,v Thunder,Sydney,2,0,0,0,0,0
+4864,29 Dec 2021,v Heat,Sydney,1,0,0,0,0,0
+4864,1 Jan 2022,v Renegades,Coffs Harbour,-,TDNF,-,-,-,-
+4864,4 Jan 2022,v Scorchers,Carrara,1,2,2,0,0,2
+4864,9 Jan 2022,v Scorchers,Coffs Harbour,2,1,1,0,0,1
+4864,11 Jan 2022,v Renegades,Geelong,2,0,0,0,0,0
+4864,15 Jan 2022,v Thunder,Sydney,2,1,1,0,0,1
+4864,17 Jan 2022,v Strikers,Adelaide,2,0,0,0,0,0
+4864,19 Jan 2022,v Heat,Brisbane,2,0,0,0,0,0
+4864,22 Jan 2022,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+4864,26 Jan 2022,v Strikers,Sydney,1,2,2,0,0,2
+4864,28 Jan 2022,v Scorchers,Melbourne (Docklands),1,1,1,0,0,1
+4864,27 May 2022,v Worcs,Nottingham,1,0,0,0,0,0
+4864,30 May 2022,v Northants,Nottingham,-,TDNF,-,-,-,-
+4864,31 May 2022,v Lancashire,Nottingham,1,2,2,0,0,2
+4864,3 Jun 2022,v Derbyshire,Derby,1,0,0,0,0,0
+4864,5 Jun 2022,v Bears,Birmingham,1,0,0,0,0,0
+4864,6 Jun 2022,v Yorkshire,Leeds,1,0,0,0,0,0
+4864,10 Jun 2022,v Leics,Leicester,1,0,0,0,0,0
+4864,17 Jun 2022,v Bears,Nottingham,1,1,1,0,0,1
+4864,19 Jun 2022,v Lancashire,Blackpool,2,1,1,0,0,1
+4864,21 Jun 2022,v Leics,Nottingham,1,2,2,0,0,2
+4864,23 Jun 2022,v Derbyshire,Nottingham,2,1,1,0,0,1
+4864,24 Jun 2022,v Durham,Chester-le-Street,2,1,1,0,0,1
+4864,1 Jul 2022,v Durham,Nottingham,1,2,2,0,0,2
+4864,14 Dec 2022,v Strikers,Adelaide,1,0,0,0,0,0
+4864,17 Dec 2022,v Scorchers,Perth,1,0,0,0,0,0
+4864,22 Dec 2022,v Hurricanes,Sydney,2,0,0,0,0,0
+4864,26 Dec 2022,v Stars,Sydney,1,0,0,0,0,0
+4864,28 Dec 2022,v Renegades,Sydney,2,1,1,0,0,1
+4864,30 Dec 2022,v Renegades,Geelong,1,0,0,0,0,0
+4864,1 Jan 2023,v Heat,Brisbane,1,1,1,0,0,1
+4864,4 Jan 2023,v Heat,North Sydney,1,0,0,0,0,0
+4864,6 Jan 2023,v Stars,Melbourne,1,1,1,0,0,1
+4864,8 Jan 2023,v Thunder,Sydney,1,0,0,0,0,0
+4864,15 Jan 2023,v Scorchers,Sydney,2,0,0,0,0,0
+4864,17 Jan 2023,v Strikers,Coffs Harbour,2,0,0,0,0,0
+4864,21 Jan 2023,v Thunder,Sydney,2,0,0,0,0,0
+4864,23 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+4864,28 Jan 2023,v Scorchers,Perth,2,1,1,0,0,1
+4864,2 Feb 2023,v Heat,Sydney,2,1,1,0,0,1
+4864,6 Jan 2025,v Heat,Brisbane,2,0,0,0,0,0
+4864,10 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+4864,17 Jan 2025,v Sixers,Sydney,-,TDNF,-,-,-,-

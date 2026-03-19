@@ -1,0 +1,85 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+592735,17 Mar 2013,v Hyderabad,Shimoga,1,0,0,0,0,0
+592735,18 Mar 2013,v Karnataka,Bhadravati,1,0,0,0,0,0
+592735,19 Mar 2013,v Andhra,Shimoga,1,0,0,0,0,0
+592735,21 Mar 2013,v Tamil Nadu,Shimoga,1,0,0,0,0,0
+592735,22 Mar 2013,v Goa,Bhadravati,2,0,0,0,0,0
+592735,26 Mar 2013,v Delhi,Indore,1,0,0,0,0,0
+592735,28 Mar 2013,v Vidarbha,Indore,1,0,0,0,0,0
+592735,29 Mar 2013,v Odisha,Indore,1,0,0,0,0,0
+592735,30 Mar 2013,v Gujarat,Indore,1,0,0,0,0,0
+592735,1 Apr 2014,v Hyderabad,Visakhapatnam,1,0,0,0,0,0
+592735,25 Mar 2015,v Goa,Kochi,2,1,1,0,0,1
+592735,26 Mar 2015,v Tamil Nadu,Kochi,2,0,0,0,0,0
+592735,27 Mar 2015,v Hyderabad,Kochi,2,0,0,0,0,0
+592735,28 Mar 2015,v Andhra,Kochi,2,0,0,0,0,0
+592735,2 Jan 2016,v J & K,Kochi,1,0,0,0,0,0
+592735,3 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+592735,4 Jan 2016,v Tripura,Kochi,1,1,1,0,0,1
+592735,6 Jan 2016,v Saurashtra,Kochi,2,0,0,0,0,0
+592735,9 Jan 2016,v Punjab,Kochi,1,1,1,0,0,1
+592735,10 Jan 2016,v Jharkhand,Kochi,2,0,0,0,0,0
+592735,15 Jan 2016,v Mumbai,Wankhede,2,0,0,0,0,0
+592735,16 Jan 2016,v Baroda,Wankhede,1,0,0,0,0,0
+592735,18 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+592735,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+592735,30 Jan 2017,v Karnataka,Chennai,1,1,1,0,0,1
+592735,31 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+592735,2 Feb 2017,v Goa,Chennai,1,0,0,0,0,0
+592735,3 Feb 2017,v Tamil Nadu,Chennai,2,1,1,0,0,1
+592735,16 Feb 2017,v West Zone,Wankhede,1,0,0,0,0,0
+592735,18 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+592735,8 Jan 2018,v Hyderabad,Vizianagaram,1,0,0,0,0,0
+592735,9 Jan 2018,v Tamil Nadu,Visakhapatnam,1,1,1,0,0,1
+592735,11 Jan 2018,v Andhra,Visakhapatnam,2,0,0,0,0,0
+592735,14 Jan 2018,v Karnataka,Vizianagaram,1,0,0,0,0,0
+592735,21 Feb 2019,v Manipur,Mulapadu,2,0,0,0,0,0
+592735,24 Feb 2019,v Andhra,Mulapadu,2,0,0,0,0,0
+592735,25 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+592735,27 Feb 2019,v J & K,Mulapadu,2,0,0,0,0,0
+592735,28 Feb 2019,v Nagaland,Mulapadu,1,0,0,0,0,0
+592735,2 Mar 2019,v Jharkhand,Mulapadu,2,0,0,0,0,0
+592735,28 Apr 2019,v MI,Eden Gardens,2,0,0,0,0,0
+592735,3 May 2019,v Kings XI,Mohali,1,1,1,0,0,1
+592735,5 May 2019,v MI,Wankhede,2,0,0,0,0,0
+592735,8 Nov 2019,v Tamil Nadu,Thumba,1,0,0,0,0,0
+592735,14 Nov 2019,v Vidarbha,Thumba,2,1,1,0,0,1
+592735,15 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+592735,17 Nov 2019,v UP,Thiruvananthapuram,2,0,0,0,0,0
+592735,23 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+592735,10 Jan 2021,v Jharkhand,Eden Gardens,2,0,0,0,0,0
+592735,12 Jan 2021,v Assam,Eden Gardens,1,0,0,0,0,0
+592735,14 Jan 2021,v Odisha,Eden Gardens,1,1,1,0,0,1
+592735,16 Jan 2021,v Hyderabad,Jadavpur Uni,1,0,0,0,0,0
+592735,18 Jan 2021,v Bengal,Eden Gardens,1,0,0,0,0,0
+592735,26 Jan 2021,v Himachal,Ahmedabad,1,0,0,0,0,0
+592735,29 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+592735,28 Sep 2021,v DC,Sharjah,1,0,0,0,0,0
+592735,4 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+592735,5 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+592735,6 Nov 2021,v Puducherry,Lucknow,1,0,0,0,0,0
+592735,9 Nov 2021,v Punjab,Lucknow,1,0,0,0,0,0
+592735,18 Nov 2021,v Kerala,Delhi,1,1,1,0,0,1
+592735,20 Nov 2021,v Hyderabad,Delhi,1,1,1,0,0,1
+592735,22 Nov 2021,v Karnataka,Delhi,1,0,0,0,0,0
+592735,11 Oct 2022,v Chhattisgarh,Lucknow,1,0,0,0,0,0
+592735,12 Oct 2022,v Odisha,Lucknow,1,0,0,0,0,0
+592735,14 Oct 2022,v Sikkim,Lucknow,1,0,0,0,0,0
+592735,16 Oct 2022,v Bengal,Lucknow,1,0,0,0,0,0
+592735,20 Oct 2022,v Chandigarh,Lucknow,2,1,1,0,0,1
+592735,17 Oct 2023,v UP,Dehradun,2,0,0,0,0,0
+592735,19 Oct 2023,v Tripura,Dehradun,1,0,0,0,0,0
+592735,25 Oct 2023,v M. Pradesh,Dehradun,2,0,0,0,0,0
+592735,27 Oct 2023,v Nagaland,Dehradun,2,0,0,0,0,0
+592735,17 Apr 2024,v DC,Ahmedabad,2,0,0,0,0,0
+592735,21 Apr 2024,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+592735,24 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+592735,28 Apr 2024,v RCB,Ahmedabad,2,0,0,0,0,0
+592735,10 May 2024,v CSK,Ahmedabad,2,0,0,0,0,0
+592735,23 Nov 2024,v Tripura,Indore,2,0,0,0,0,0
+592735,25 Nov 2024,v Sikkim,Indore,2,0,0,0,0,0
+592735,27 Nov 2024,v Baroda,Indore,2,0,0,0,0,0
+592735,29 Nov 2024,v Gujarat,Indore,1,0,0,0,0,0
+592735,1 Dec 2024,v Karnataka,Indore,2,0,0,0,0,0
+592735,3 Dec 2024,v Saurashtra,Indore,1,0,0,0,0,0
+592735,5 Dec 2024,v Uttarakhand,Indore,2,0,0,0,0,0

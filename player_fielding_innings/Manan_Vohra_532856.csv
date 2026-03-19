@@ -1,0 +1,140 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+532856,7 Apr 2013,v Warriors,Pune,1,0,0,0,0,0
+532856,10 Apr 2013,v CSK,Mohali,2,0,0,0,0,0
+532856,14 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+532856,16 Apr 2013,v KKR,Mohali,2,0,0,0,0,0
+532856,19 Apr 2013,v SRH,Hyderabad,2,0,0,0,0,0
+532856,21 Apr 2013,v Warriors,Mohali,1,1,1,0,0,1
+532856,23 Apr 2013,v Daredevils,Delhi,1,0,0,0,0,0
+532856,26 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+532856,29 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+532856,14 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+532856,16 May 2013,v Daredevils,Dharamsala,2,1,1,0,0,1
+532856,18 May 2013,v MI,Dharamsala,2,1,1,0,0,1
+532856,1 Apr 2014,v Haryana,Mohali,1,1,1,0,0,1
+532856,2 Apr 2014,v Himachal,Mohali,1,0,0,0,0,0
+532856,3 Apr 2014,v Delhi,Mohali,2,0,0,0,0,0
+532856,4 Apr 2014,v Services,Mohali,2,0,0,0,0,0
+532856,14 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+532856,19 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+532856,21 May 2014,v MI,Mohali,2,0,0,0,0,0
+532856,23 May 2014,v RR,Mohali,2,0,0,0,0,0
+532856,25 May 2014,v Daredevils,Mohali,1,1,1,0,0,1
+532856,27 May 2014,v KKR,Eden Gardens,1,1,1,0,0,1
+532856,30 May 2014,v CSK,Wankhede,2,0,0,0,0,0
+532856,1 Jun 2014,v KKR,Bengaluru,2,1,1,0,0,1
+532856,18 Sep 2014,v Hurricanes,Mohali,1,0,0,0,0,0
+532856,20 Sep 2014,v Tridents,Mohali,1,1,1,0,0,1
+532856,26 Sep 2014,v Northern Dis,Mohali,2,0,0,0,0,0
+532856,28 Sep 2014,v Cape Cobras,Mohali,1,1,1,0,0,1
+532856,2 Oct 2014,v CSK,Hyderabad,1,0,0,0,0,0
+532856,24 Mar 2015,v Haryana,Delhi,1,1,1,0,0,1
+532856,25 Mar 2015,v Delhi,Delhi,2,0,0,0,0,0
+532856,26 Mar 2015,v J & K,Delhi,2,0,0,0,0,0
+532856,27 Mar 2015,v Services,Delhi,1,1,1,0,0,1
+532856,28 Mar 2015,v Himachal,Delhi,2,2,2,0,0,2
+532856,1 Apr 2015,v Hyderabad,Cuttack,1,0,0,0,0,0
+532856,2 Apr 2015,v Mumbai,Cuttack,2,0,0,0,0,0
+532856,3 Apr 2015,v Odisha,Cuttack,2,0,0,0,0,0
+532856,5 Apr 2015,v Rajasthan,Cuttack,1,0,0,0,0,0
+532856,27 Apr 2015,v SRH,Mohali,1,1,1,0,0,1
+532856,1 May 2015,v Daredevils,Delhi,2,0,0,0,0,0
+532856,6 May 2015,v RCB,Bengaluru,1,0,0,0,0,0
+532856,9 May 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+532856,11 May 2015,v SRH,Hyderabad,1,1,1,0,0,1
+532856,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+532856,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+532856,2 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+532856,3 Jan 2016,v J & K,Kochi,1,2,2,0,0,2
+532856,6 Jan 2016,v Jharkhand,Kochi,1,0,0,0,0,0
+532856,7 Jan 2016,v Tripura,Kochi,1,1,1,0,0,1
+532856,9 Jan 2016,v Kerala,Kochi,2,0,0,0,0,0
+532856,11 Apr 2016,v Guj Lions,Mohali,2,0,0,0,0,0
+532856,15 Apr 2016,v Daredevils,Delhi,2,0,0,0,0,0
+532856,17 Apr 2016,v Supergiants,Mohali,1,1,1,0,0,1
+532856,19 Apr 2016,v KKR,Mohali,2,0,0,0,0,0
+532856,23 Apr 2016,v SRH,Hyderabad,2,1,1,0,0,1
+532856,25 Apr 2016,v MI,Mohali,1,1,1,0,0,1
+532856,4 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+532856,29 Jan 2017,v Haryana,Nadaun,1,0,0,0,0,0
+532856,30 Jan 2017,v Delhi,Dharamsala,1,0,0,0,0,0
+532856,31 Jan 2017,v J & K,Dharamsala,1,0,0,0,0,0
+532856,1 Feb 2017,v Services,Dharamsala,2,1,1,0,0,1
+532856,2 Feb 2017,v Himachal,Dharamsala,2,1,1,0,0,1
+532856,8 Apr 2017,v Supergiant,Indore,1,1,1,0,0,1
+532856,10 Apr 2017,v RCB,Indore,1,0,0,0,0,0
+532856,13 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+532856,15 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+532856,17 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+532856,23 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+532856,28 Apr 2017,v SRH,Mohali,1,0,0,0,0,0
+532856,30 Apr 2017,v Daredevils,Mohali,1,0,0,0,0,0
+532856,5 May 2017,v RCB,Bengaluru,2,0,0,0,0,0
+532856,9 May 2017,v KKR,Mohali,2,0,0,0,0,0
+532856,11 May 2017,v MI,Wankhede,2,1,1,0,0,1
+532856,9 Jan 2018,v Delhi,Delhi,2,0,0,0,0,0
+532856,10 Jan 2018,v Services,Delhi,1,0,0,0,0,0
+532856,12 Jan 2018,v Haryana,Delhi,2,1,1,0,0,1
+532856,14 Jan 2018,v J & K,Delhi,1,0,0,0,0,0
+532856,15 Jan 2018,v Himachal,Delhi,2,0,0,0,0,0
+532856,21 Jan 2018,v Karnataka,Kolkata,1,0,0,0,0,0
+532856,22 Jan 2018,v Mumbai,Kolkata,1,0,0,0,0,0
+532856,23 Jan 2018,v Jharkhand,Eden Gardens,2,1,1,0,0,1
+532856,25 Jan 2018,v Rajasthan,Eden Gardens,2,0,0,0,0,0
+532856,21 Apr 2018,v Daredevils,Bengaluru,1,0,0,0,0,0
+532856,29 Apr 2018,v KKR,Bengaluru,2,0,0,0,0,0
+532856,1 May 2018,v MI,Bengaluru,2,0,0,0,0,0
+532856,7 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+532856,27 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+532856,28 Feb 2019,v Goa,Indore,2,2,2,0,0,2
+532856,2 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+532856,8 Nov 2019,v Himachal,Chandigarh,2,0,0,0,0,0
+532856,9 Nov 2019,v Maharashtra,Chandigarh,1,1,1,0,0,1
+532856,11 Nov 2019,v Punjab,Chandigarh,2,0,0,0,0,0
+532856,12 Nov 2019,v Hyderabad,Chandigarh,2,0,0,0,0,0
+532856,14 Nov 2019,v Chhattisgarh,Chandigarh,1,1,1,0,0,1
+532856,15 Nov 2019,v Railways,Chandigarh,1,0,0,0,0,0
+532856,17 Nov 2019,v Arunachal,Chandigarh,1,0,0,0,0,0
+532856,13 Jan 2021,v Manipur,Chennai,2,0,0,0,0,0
+532856,15 Jan 2021,v Mizoram,Chennai,2,0,0,0,0,0
+532856,17 Jan 2021,v Sikkim,Chennai,2,0,0,0,0,0
+532856,19 Jan 2021,v Arunachal,Chennai,1,1,1,0,0,1
+532856,12 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+532856,15 Apr 2021,v DC,Wankhede,1,0,0,0,0,0
+532856,19 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+532856,22 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+532856,4 Nov 2021,v UP,Sultanpur,1,0,0,0,0,0
+532856,5 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+532856,6 Nov 2021,v Hyderabad,Sultanpur,2,0,0,0,0,0
+532856,8 Nov 2021,v Saurashtra,Rohtak,1,1,1,0,0,1
+532856,9 Nov 2021,v Uttarakhand,Sultanpur,1,0,0,0,0,0
+532856,18 May 2022,v KKR,DY Patil,2,0,0,0,0,0
+532856,25 May 2022,v RCB,Eden Gardens,1,0,0,0,0,0
+532856,12 Oct 2022,v Sikkim,Lucknow,2,1,1,0,0,1
+532856,14 Oct 2022,v Jharkhand,Lucknow,1,0,0,0,0,0
+532856,16 Oct 2022,v Odisha,Lucknow,2,2,2,0,0,2
+532856,18 Oct 2022,v Chhattisgarh,Lucknow,2,0,0,0,0,0
+532856,20 Oct 2022,v Tamil Nadu,Lucknow,1,1,1,0,0,1
+532856,22 Oct 2022,v Bengal,Lucknow,1,0,0,0,0,0
+532856,3 May 2023,v CSK,Lucknow,-,TDNF,-,-,-,-
+532856,16 Oct 2023,v Bihar,Mumbai,1,1,1,0,0,1
+532856,17 Oct 2023,v Sikkim,DY Patil,1,0,0,0,0,0
+532856,19 Oct 2023,v Himachal,Mumbai,2,0,0,0,0,0
+532856,21 Oct 2023,v Kerala,DY Patil,1,0,0,0,0,0
+532856,23 Oct 2023,v Assam,DY Patil,1,0,0,0,0,0
+532856,25 Oct 2023,v Services,Mumbai,2,0,0,0,0,0
+532856,27 Oct 2023,v Odisha,Mumbai,1,1,1,0,0,1
+532856,23 Nov 2024,v Puducherry,Visakhapatnam,1,0,0,0,0,0
+532856,25 Nov 2024,v Vidarbha,Visakhapatnam,2,0,0,0,0,0
+532856,27 Nov 2024,v Assam,Visakhapatnam,1,0,0,0,0,0
+532856,29 Nov 2024,v Chhattisgarh,Vizianagaram,1,0,0,0,0,0
+532856,3 Dec 2024,v Railways,Visakhapatnam,2,1,1,0,0,1
+532856,5 Dec 2024,v Odisha,Vizianagaram,1,0,0,0,0,0
+532856,9 Dec 2024,v Bengal,Bengaluru,1,1,1,0,0,1
+532856,26 Nov 2025,v Bihar,Eden Gardens,1,1,1,0,0,1
+532856,28 Nov 2025,v Goa,Eden Gardens,1,0,0,0,0,0
+532856,30 Nov 2025,v Maharashtra,Jadavpur Uni,1,0,0,0,0,0
+532856,2 Dec 2025,v J & K,Jadavpur Uni,1,0,0,0,0,0
+532856,4 Dec 2025,v UP,Eden Gardens,1,0,0,0,0,0
+532856,6 Dec 2025,v M. Pradesh,Jadavpur Uni,2,0,0,0,0,0
+532856,8 Dec 2025,v Hyderabad,Eden Gardens,1,1,1,0,0,1

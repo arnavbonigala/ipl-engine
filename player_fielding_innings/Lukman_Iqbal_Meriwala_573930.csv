@@ -1,0 +1,73 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+573930,17 Mar 2013,v Mumbai,Ahmedabad,2,2,2,0,0,2
+573930,19 Mar 2013,v Gujarat,Ahmedabad,1,0,0,0,0,0
+573930,30 Mar 2013,v Karnataka,Indore,1,0,0,0,0,0
+573930,30 Mar 2014,v Mumbai,Wankhede,2,0,0,0,0,0
+573930,2 Apr 2014,v Gujarat,Wankhede,1,0,0,0,0,0
+573930,3 Apr 2014,v Saurashtra,Mumbai,2,0,0,0,0,0
+573930,4 Apr 2014,v Maharashtra,Mumbai,1,0,0,0,0,0
+573930,8 Apr 2014,v Bengal,Mumbai,1,0,0,0,0,0
+573930,9 Apr 2014,v Delhi,Mumbai,2,1,1,0,0,1
+573930,11 Apr 2014,v Rajasthan,Wankhede,1,0,0,0,0,0
+573930,12 Apr 2014,v Kerala,Wankhede,1,0,0,0,0,0
+573930,14 Apr 2014,v UP,Wankhede,2,0,0,0,0,0
+573930,24 Mar 2015,v Mumbai,Pune,2,0,0,0,0,0
+573930,26 Mar 2015,v Gujarat,Pune,2,0,0,0,0,0
+573930,27 Mar 2015,v Saurashtra,Pune,2,0,0,0,0,0
+573930,7 Jan 2018,v Mumbai,Rajkot,2,1,1,0,0,1
+573930,10 Jan 2018,v Gujarat,Rajkot,2,0,0,0,0,0
+573930,11 Jan 2018,v Saurashtra,Rajkot,1,0,0,0,0,0
+573930,13 Jan 2018,v Maharashtra,Rajkot,1,2,2,0,0,2
+573930,21 Jan 2018,v Bengal,Eden Gardens,2,1,1,0,0,1
+573930,22 Jan 2018,v Delhi,Eden Gardens,2,0,0,0,0,0
+573930,24 Jan 2018,v UP,Kolkata,2,0,0,0,0,0
+573930,25 Jan 2018,v Tamil Nadu,Kolkata,1,1,1,0,0,1
+573930,21 Feb 2019,v Tripura,Delhi,1,0,0,0,0,0
+573930,22 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+573930,24 Feb 2019,v Hyderabad,Delhi,1,1,1,0,0,1
+573930,25 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+573930,27 Feb 2019,v Puducherry,Delhi,1,0,0,0,0,0
+573930,28 Feb 2019,v Maharashtra,Delhi,2,0,0,0,0,0
+573930,8 Nov 2019,v Goa,Visakhapatnam,2,0,0,0,0,0
+573930,9 Nov 2019,v Karnataka,Visakhapatnam,2,0,0,0,0,0
+573930,11 Nov 2019,v Uttarakhand,Vizianagaram,2,0,0,0,0,0
+573930,12 Nov 2019,v Andhra,Visakhapatnam,1,0,0,0,0,0
+573930,14 Nov 2019,v Bihar,Visakhapatnam,1,0,0,0,0,0
+573930,15 Nov 2019,v Services,Vizianagaram,2,0,0,0,0,0
+573930,21 Nov 2019,v Rajasthan,Surat,2,1,1,0,0,1
+573930,10 Jan 2021,v Uttarakhand,Vadodara,2,1,1,0,0,1
+573930,12 Jan 2021,v Himachal,Vadodara,1,1,1,0,0,1
+573930,14 Jan 2021,v Chhattisgarh,Vadodara,1,0,0,0,0,0
+573930,16 Jan 2021,v Maharashtra,Vadodara,2,0,0,0,0,0
+573930,18 Jan 2021,v Gujarat,Vadodara,2,1,1,0,0,1
+573930,27 Jan 2021,v Haryana,Ahmedabad,1,0,0,0,0,0
+573930,29 Jan 2021,v Punjab,Ahmedabad,2,0,0,0,0,0
+573930,31 Jan 2021,v Tamil Nadu,Ahmedabad,2,0,0,0,0,0
+573930,18 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+573930,5 Nov 2021,v Bengal,Guwahati,1,1,1,0,0,1
+573930,6 Nov 2021,v Chhattisgarh,Guwahati,1,0,0,0,0,0
+573930,8 Nov 2021,v Karnataka,Guwahati,2,0,0,0,0,0
+573930,9 Nov 2021,v Mumbai,Guwahati,1,0,0,0,0,0
+573930,11 Oct 2022,v Nagaland,Indore,1,1,1,0,0,1
+573930,12 Oct 2022,v Saurashtra,Indore,2,0,0,0,0,0
+573930,14 Oct 2022,v Gujarat,Indore,2,0,0,0,0,0
+573930,16 Oct 2022,v Bihar,Indore,2,0,0,0,0,0
+573930,20 Oct 2022,v Himachal,Indore,2,0,0,0,0,0
+573930,16 Oct 2023,v J & K,Jaipur,2,0,0,0,0,0
+573930,17 Oct 2023,v Mizoram,Jaipur,1,0,0,0,0,0
+573930,19 Oct 2023,v Mumbai,Jaipur,1,0,0,0,0,0
+573930,21 Oct 2023,v Haryana,Jaipur,1,0,0,0,0,0
+573930,23 Oct 2023,v Hyderabad,Jaipur,1,1,1,0,0,1
+573930,25 Oct 2023,v Chhattisgarh,Jaipur,1,1,1,0,0,1
+573930,27 Oct 2023,v Meghalaya,Jaipur,1,0,0,0,0,0
+573930,2 Nov 2023,v Mumbai,New Chandigarh,1,0,0,0,0,0
+573930,4 Nov 2023,v Assam,Mohali,1,0,0,0,0,0
+573930,6 Nov 2023,v Punjab,Mohali,1,0,0,0,0,0
+573930,23 Nov 2024,v Gujarat,Indore,1,0,0,0,0,0
+573930,25 Nov 2024,v Uttarakhand,Indore,1,0,0,0,0,0
+573930,27 Nov 2024,v Tamil Nadu,Indore,1,0,0,0,0,0
+573930,29 Nov 2024,v Tripura,Indore,1,0,0,0,0,0
+573930,1 Dec 2024,v Saurashtra,Indore,1,0,0,0,0,0
+573930,3 Dec 2024,v Karnataka,Indore,1,0,0,0,0,0
+573930,11 Dec 2024,v Bengal,Bengaluru,2,2,2,0,0,2
+573930,13 Dec 2024,v Mumbai,Bengaluru,2,0,0,0,0,0

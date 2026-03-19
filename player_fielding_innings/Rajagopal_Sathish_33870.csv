@@ -1,0 +1,68 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+33870,25 Sep 2009,v Kerala,Visakhapatnam,2,2,2,0,0,2
+33870,26 Sep 2009,v Goa,Visakhapatnam,2,1,1,0,0,1
+33870,13 Mar 2010,v RR,Brabourne,2,1,1,0,0,1
+33870,17 Mar 2010,v Daredevils,Delhi,2,1,1,0,0,1
+33870,20 Mar 2010,v RCB,Brabourne,2,0,0,0,0,0
+33870,22 Mar 2010,v KKR,Brabourne,1,0,0,0,0,0
+33870,25 Mar 2010,v CSK,Brabourne,1,0,0,0,0,0
+33870,28 Mar 2010,v Chargers,DY Patil,2,0,0,0,0,0
+33870,30 Mar 2010,v Kings XI,Brabourne,1,0,0,0,0,0
+33870,3 Apr 2010,v Chargers,Brabourne,2,0,0,0,0,0
+33870,6 Apr 2010,v CSK,Chennai,1,1,1,0,0,1
+33870,9 Apr 2010,v Kings XI,Mohali,2,0,0,0,0,0
+33870,11 Apr 2010,v RR,Jaipur,2,0,0,0,0,0
+33870,19 Apr 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+33870,10 Sep 2010,v Lions,Johannesburg,1,0,0,0,0,0
+33870,14 Oct 2010,v Kerala,Hyderabad,1,0,0,0,0,0
+33870,15 Oct 2010,v Goa,Hyderabad,2,2,2,0,0,2
+33870,16 Oct 2010,v Hyderabad,Hyderabad,1,2,2,0,0,2
+33870,18 Oct 2010,v Karnataka,Hyderabad,2,2,2,0,0,2
+33870,19 Oct 2010,v Andhra,Hyderabad,2,0,0,0,0,0
+33870,10 Apr 2011,v Daredevils,Delhi,1,0,0,0,0,0
+33870,12 Apr 2011,v RCB,Bengaluru,1,0,0,0,0,0
+33870,15 Apr 2011,v Kochi,Wankhede,2,0,0,0,0,0
+33870,20 Apr 2011,v Warriors,Wankhede,1,0,0,0,0,0
+33870,22 Apr 2011,v CSK,Wankhede,2,2,2,0,0,2
+33870,24 Apr 2011,v Chargers,Hyderabad,2,1,1,0,0,1
+33870,29 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+33870,22 May 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+33870,27 May 2011,v RCB,Chennai,1,0,0,0,0,0
+33870,24 Sep 2011,v CSK,Chennai,1,1,1,0,0,1
+33870,26 Sep 2011,v Trinidad & T,Bengaluru,1,1,1,0,0,1
+33870,30 Sep 2011,v Cape Cobras,Bengaluru,-,TDNF,-,-,-,-
+33870,2 Oct 2011,v NSW,Chennai,2,0,0,0,0,0
+33870,8 Oct 2011,v Somerset,Chennai,2,0,0,0,0,0
+33870,9 Oct 2011,v RCB,Chennai,2,1,1,0,0,1
+33870,20 Oct 2011,v Bengal,Jamshedpur,1,1,1,0,0,1
+33870,22 Oct 2011,v Tripura,Jamshedpur,2,0,0,0,0,0
+33870,24 Oct 2011,v Jharkhand,Jamshedpur,2,1,1,0,0,1
+33870,7 Apr 2013,v Warriors,Pune,1,0,0,0,0,0
+33870,10 Apr 2013,v CSK,Mohali,2,0,0,0,0,0
+33870,14 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+33870,2 May 2013,v CSK,Chennai,1,0,0,0,0,0
+33870,6 May 2013,v RCB,Mohali,1,0,0,0,0,0
+33870,9 May 2013,v RR,Mohali,2,0,0,0,0,0
+33870,11 May 2013,v SRH,Mohali,1,0,0,0,0,0
+33870,14 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+33870,16 May 2013,v Daredevils,Dharamsala,2,0,0,0,0,0
+33870,25 Mar 2015,v Hyderabad,Kochi,2,0,0,0,0,0
+33870,26 Mar 2015,v Kerala,Kochi,1,0,0,0,0,0
+33870,27 Mar 2015,v Karnataka,Kochi,2,0,0,0,0,0
+33870,28 Mar 2015,v Goa,Kochi,1,1,1,0,0,1
+33870,29 Mar 2015,v Andhra,Kochi,1,0,0,0,0,0
+33870,2 Jan 2016,v Haryana,Nagpur,1,1,1,0,0,1
+33870,3 Jan 2016,v Bengal,Nagpur,2,1,1,0,0,1
+33870,6 Jan 2016,v Vidarbha,Nagpur,2,1,1,0,0,1
+33870,7 Jan 2016,v Gujarat,Nagpur,1,1,1,0,0,1
+33870,9 Jan 2016,v Himachal,Nagpur,2,0,0,0,0,0
+33870,10 Jan 2016,v Hyderabad,Nagpur,1,0,0,0,0,0
+33870,24 Apr 2016,v Supergiants,Pune,1,0,0,0,0,0
+33870,28 Apr 2016,v MI,Wankhede,2,0,0,0,0,0
+33870,30 Apr 2016,v Daredevils,Delhi,1,0,0,0,0,0
+33870,25 May 2016,v SRH,Delhi,1,0,0,0,0,0
+33870,29 Jan 2017,v Karnataka,Chennai,1,2,2,0,0,2
+33870,30 Jan 2017,v Hyderabad,Chennai,1,2,2,0,0,2
+33870,31 Jan 2017,v Goa,Chennai,1,1,1,0,0,1
+33870,2 Feb 2017,v Andhra,Chennai,2,0,0,0,0,0
+33870,3 Feb 2017,v Kerala,Chennai,1,0,0,0,0,0

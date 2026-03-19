@@ -1,0 +1,198 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+51433,25 Jul 2006,v Cayman,Coolidge,1,1,1,0,0,1
+51433,28 Jul 2006,v Barbados,Coolidge,-,TDNF,-,-,-,-
+51433,29 Jul 2006,v Barbados,Coolidge,2,0,0,0,0,0
+51433,11 Aug 2006,v Nevis,Coolidge,2,0,0,0,0,0
+51433,13 Aug 2006,v Guyana,Coolidge,2,0,0,0,0,0
+51433,2 Feb 2008,v St Lucia,Coolidge,1,2,2,0,0,2
+51433,13 Feb 2008,v St Vi & Gren,Coolidge,2,1,1,0,0,1
+51433,22 Feb 2008,v Barbados,Coolidge,2,0,0,0,0,0
+51433,24 Feb 2008,v Jamaica,Coolidge,1,0,0,0,0,0
+51433,25 Oct 2008,v Superstars,Coolidge,1,0,0,0,0,0
+51433,27 Oct 2008,v Middlesex,Coolidge,1,0,0,0,0,0
+51433,28 Oct 2008,v England,Coolidge,1,0,0,0,0,0
+51433,12 Oct 2009,v Somerset,Bengaluru,2,0,0,0,0,0
+51433,14 Oct 2009,v Chargers,Hyderabad,2,0,0,0,0,0
+51433,16 Oct 2009,v NSW,Hyderabad,1,0,0,0,0,0
+51433,22 Jul 2010,v Canada,Bridgetown,1,1,1,0,0,1
+51433,24 Jul 2010,v Leeward Is,Bridgetown,1,0,0,0,0,0
+51433,13 Jan 2011,v Leeward Is,North Sound,2,0,0,0,0,0
+51433,15 Jan 2011,v Canada,North Sound,1,1,1,0,0,1
+51433,19 Jan 2011,v Hampshire,Bridgetown,-,TDNF,-,-,-,-
+51433,21 Jan 2011,v Barbados,Bridgetown,2,0,0,0,0,0
+51433,22 Jan 2011,v Jamaica,Bridgetown,1,0,0,0,0,0
+51433,23 Jan 2011,v Hampshire,Bridgetown,2,0,0,0,0,0
+51433,11 Aug 2011,v Afghanistan,King City (NW),1,0,0,0,0,0
+51433,13 Aug 2011,v Canada,King City (NW),1,1,1,0,0,1
+51433,19 Sep 2011,v Ruhuna,Hyderabad,1,1,1,0,0,1
+51433,20 Sep 2011,v Leics,Hyderabad,2,1,1,0,0,1
+51433,26 Sep 2011,v MI,Bengaluru,2,1,1,0,0,1
+51433,28 Sep 2011,v NSW,Chennai,2,1,1,0,0,1
+51433,2 Oct 2011,v CSK,Chennai,2,0,0,0,0,0
+51433,4 Oct 2011,v Cape Cobras,Chennai,1,0,0,0,0,0
+51433,18 Nov 2011,v Bangladesh A,Gros Islet,2,1,1,0,0,1
+51433,19 Nov 2011,v Bangladesh A,Gros Islet,2,0,0,0,0,0
+51433,9 Jan 2012,v Windward Is,North Sound,1,0,0,0,0,0
+51433,11 Jan 2012,v Leeward Is,North Sound,2,0,0,0,0,0
+51433,13 Jan 2012,v Guyana,North Sound,1,0,0,0,0,0
+51433,19 Jan 2012,v Canada,Bridgetown,1,1,1,0,0,1
+51433,21 Jan 2012,v Barbados,Bridgetown,1,0,0,0,0,0
+51433,22 Jan 2012,v Jamaica,Bridgetown,2,0,0,0,0,0
+51433,23 Jun 2012,v India A,Port of Spain,1,0,0,0,0,0
+51433,24 Jun 2012,v India A,Port of Spain,1,1,1,0,0,1
+51433,30 Jun 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+51433,1 Jul 2012,v New Zealand,Lauderhill,2,0,0,0,0,0
+51433,27 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+51433,1 Oct 2012,v New Zealand,Pallekele,2,0,0,0,0,0
+51433,5 Oct 2012,v Australia,Colombo (RPS),2,1,1,0,0,1
+51433,7 Oct 2012,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+51433,10 Oct 2012,v Yorkshire,Centurion,2,0,0,0,0,0
+51433,6 Jan 2013,v Jamaica,Port of Spain,2,0,0,0,0,0
+51433,8 Jan 2013,v Comb C&C,Port of Spain,1,2,2,0,0,2
+51433,9 Jan 2013,v Leeward Is,Port of Spain,2,0,0,0,0,0
+51433,12 Jan 2013,v Guyana,Port of Spain,2,0,0,0,0,0
+51433,15 Jan 2013,v Windward Is,Gros Islet,1,0,0,0,0,0
+51433,16 Jan 2013,v Barbados,Gros Islet,1,1,1,0,0,1
+51433,20 Jan 2013,v Guyana,Gros Islet,1,0,0,0,0,0
+51433,29 Jan 2013,v Rangpur,Chattogram,1,0,0,0,0,0
+51433,1 Feb 2013,v Chittagong,Chattogram,2,0,0,0,0,0
+51433,4 Feb 2013,v Barisal,Mirpur,2,0,0,0,0,0
+51433,2 Mar 2013,v Zimbabwe,North Sound,1,0,0,0,0,0
+51433,3 Mar 2013,v Zimbabwe,North Sound,2,0,0,0,0,0
+51433,6 Apr 2013,v Daredevils,Delhi,2,0,0,0,0,0
+51433,18 Jun 2013,v Sri Lanka A,Kingstown,1,0,0,0,0,0
+51433,19 Jun 2013,v Sri Lanka A,Kingstown,1,1,1,0,0,1
+51433,27 Jul 2013,v Pakistan,Kingstown,2,0,0,0,0,0
+51433,28 Jul 2013,v Pakistan,Kingstown,1,1,1,0,0,1
+51433,31 Jul 2013,v Amazon,Providence,1,0,0,0,0,0
+51433,3 Aug 2013,v Tridents,Bridgetown,2,0,0,0,0,0
+51433,7 Aug 2013,v Tallawahs,Port of Spain,1,0,0,0,0,0
+51433,11 Aug 2013,v Hawksbills,Port of Spain,2,0,0,0,0,0
+51433,17 Aug 2013,v Zouks,Kingston,1,0,0,0,0,0
+51433,18 Aug 2013,v Tallawahs,Kingston,2,0,0,0,0,0
+51433,22 Aug 2013,v Amazon,Port of Spain,2,1,1,0,0,1
+51433,22 Sep 2013,v Heat,Ranchi,2,0,0,0,0,0
+51433,24 Sep 2013,v SRH,Mohali,2,1,1,0,0,1
+51433,30 Sep 2013,v Titans,Ahmedabad,2,1,1,0,0,1
+51433,2 Oct 2013,v CSK,Delhi,1,0,0,0,0,0
+51433,5 Oct 2013,v MI,Delhi,2,0,0,0,0,0
+51433,11 Jan 2014,v New Zealand,Auckland,1,0,0,0,0,0
+51433,19 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+51433,21 Feb 2014,v Ireland,Kingston,2,0,0,0,0,0
+51433,9 Mar 2014,v England,Bridgetown,2,0,0,0,0,0
+51433,11 Mar 2014,v England,Bridgetown,1,0,0,0,0,0
+51433,23 Mar 2014,v India,Mirpur,2,0,0,0,0,0
+51433,25 Mar 2014,v Bangladesh,Mirpur,2,0,0,0,0,0
+51433,28 Mar 2014,v Australia,Mirpur,1,0,0,0,0,0
+51433,1 Apr 2014,v Pakistan,Mirpur,2,0,0,0,0,0
+51433,3 Apr 2014,v Sri Lanka,Mirpur,1,1,1,0,0,1
+51433,10 May 2014,v MI,Wankhede,1,0,0,0,0,0
+51433,13 May 2014,v RR,Ranchi,1,0,0,0,0,0
+51433,18 May 2014,v RCB,Ranchi,2,0,0,0,0,0
+51433,24 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+51433,5 Jul 2014,v New Zealand,Roseau,2,0,0,0,0,0
+51433,6 Jul 2014,v New Zealand,Roseau,2,0,0,0,0,0
+51433,12 Jul 2014,v Tridents,St George's,1,0,0,0,0,0
+51433,17 Jul 2014,v Amazon,Providence,2,0,0,0,0,0
+51433,20 Jul 2014,v Hawksbills,North Sound,1,1,1,0,0,1
+51433,24 Jul 2014,v Amazon,Port of Spain,1,1,1,0,0,1
+51433,26 Jul 2014,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51433,27 Jul 2014,v Zouks,Port of Spain,1,2,2,0,0,2
+51433,2 Aug 2014,v Zouks,Gros Islet,1,0,0,0,0,0
+51433,7 Aug 2014,v Tridents,Basseterre,1,1,1,0,0,1
+51433,9 Aug 2014,v Hawksbills,Basseterre,2,1,1,0,0,1
+51433,21 Jun 2015,v Zouks,Gros Islet,1,0,0,0,0,0
+51433,25 Jun 2015,v Tridents,Bridgetown,2,0,0,0,0,0
+51433,4 Jul 2015,v Amazon,Basseterre,1,1,1,0,0,1
+51433,9 Jul 2015,v Tallawahs,Kingston,1,0,0,0,0,0
+51433,11 Jul 2015,v Patriots,Basseterre,1,1,1,0,0,1
+51433,14 Jul 2015,v Zouks,Port of Spain,2,0,0,0,0,0
+51433,16 Jul 2015,v Tridents,Port of Spain,2,0,0,0,0,0
+51433,18 Jul 2015,v Patriots,Port of Spain,2,0,0,0,0,0
+51433,19 Jul 2015,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51433,21 Jul 2015,v Amazon,Providence,2,0,0,0,0,0
+51433,23 Jul 2015,v Tallawahs,Port of Spain,2,0,0,0,0,0
+51433,25 Jul 2015,v Amazon,Port of Spain,1,0,0,0,0,0
+51433,26 Jul 2015,v Tridents,Port of Spain,2,0,0,0,0,0
+51433,19 Dec 2015,v Renegades,Brisbane,2,0,0,0,0,0
+51433,22 Dec 2015,v Hurricanes,Hobart,1,0,0,0,0,0
+51433,26 Dec 2015,v Scorchers,W.A.C.A,2,0,0,0,0,0
+51433,29 Dec 2015,v Hurricanes,Brisbane,1,0,0,0,0,0
+51433,3 Jan 2016,v Thunder,Brisbane,1,1,1,0,0,1
+51433,8 Jan 2016,v Strikers,Brisbane,2,0,0,0,0,0
+51433,10 Jan 2016,v Sixers,Sydney,2,0,0,0,0,0
+51433,14 Jan 2016,v Stars,Melbourne,2,0,0,0,0,0
+51433,4 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51433,12 Feb 2016,v Zalmi,Sharjah,2,0,0,0,0,0
+51433,14 Feb 2016,v Kings,Sharjah,1,0,0,0,0,0
+51433,20 Feb 2016,v Kings,Dubai (DICS),1,0,0,0,0,0
+51433,21 Feb 2016,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+51433,23 Feb 2016,v Gladiators,Dubai (DICS),1,1,1,0,0,1
+51433,16 Mar 2016,v England,Wankhede,1,1,1,0,0,1
+51433,20 Mar 2016,v Sri Lanka,Bengaluru,1,0,0,0,0,0
+51433,25 Mar 2016,v South Africa,Nagpur,1,0,0,0,0,0
+51433,27 Mar 2016,v Afghanistan,Nagpur,1,0,0,0,0,0
+51433,31 Mar 2016,v India,Wankhede,1,0,0,0,0,0
+51433,3 Apr 2016,v England,Eden Gardens,1,2,2,0,0,2
+51433,30 Jun 2016,v Amazon,Basseterre,2,0,0,0,0,0
+51433,2 Jul 2016,v Tallawahs,Basseterre,1,2,2,0,0,2
+51433,3 Jul 2016,v Zouks,Basseterre,2,0,0,0,0,0
+51433,5 Jul 2016,v Tridents,Basseterre,2,0,0,0,0,0
+51433,9 Jul 2016,v Amazon,Providence,2,1,1,0,0,1
+51433,13 Jul 2016,v Tridents,Bridgetown,1,0,0,0,0,0
+51433,21 Jul 2016,v Zouks,Gros Islet,1,1,1,0,0,1
+51433,29 Jul 2016,v Trinbago,Lauderhill,2,0,0,0,0,0
+51433,31 Jul 2016,v Trinbago,Lauderhill,2,0,0,0,0,0
+51433,27 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+51433,28 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+51433,23 Sep 2016,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+51433,24 Sep 2016,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+51433,21 Dec 2016,v Strikers,Adelaide,2,1,1,0,0,1
+51433,28 Dec 2016,v Thunder,Sydney,1,0,0,0,0,0
+51433,30 Dec 2016,v Hurricanes,Brisbane,1,0,0,0,0,0
+51433,3 Jan 2017,v Sixers,Brisbane,2,0,0,0,0,0
+51433,25 Jan 2017,v Sixers,Brisbane,2,0,0,0,0,0
+51433,24 Feb 2017,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+51433,26 Mar 2017,v Pakistan,Bridgetown,2,0,0,0,0,0
+51433,30 Mar 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+51433,1 Apr 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+51433,2 Apr 2017,v Pakistan,Port of Spain,2,0,0,0,0,0
+51433,14 Apr 2017,v MI,Bengaluru,2,0,0,0,0,0
+51433,16 Apr 2017,v Supergiant,Bengaluru,1,0,0,0,0,0
+51433,23 Apr 2017,v KKR,Eden Gardens,1,1,1,0,0,1
+51433,27 Apr 2017,v Guj Lions,Bengaluru,2,0,0,0,0,0
+51433,29 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+51433,5 May 2017,v Kings XI,Bengaluru,1,1,1,0,0,1
+51433,7 May 2017,v KKR,Bengaluru,2,0,0,0,0,0
+51433,2 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+51433,3 Jun 2017,v Afghanistan,Basseterre,2,0,0,0,0,0
+51433,5 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+51433,9 Jul 2017,v India,Kingston,1,0,0,0,0,0
+51433,5 Aug 2017,v Amazon,Lauderhill,1,0,0,0,0,0
+51433,6 Aug 2017,v Amazon,Lauderhill,2,0,0,0,0,0
+51433,12 Aug 2017,v Stars,Gros Islet,2,0,0,0,0,0
+51433,14 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+51433,18 Aug 2017,v Tridents,Basseterre,1,0,0,0,0,0
+51433,19 Aug 2017,v Stars,Basseterre,1,0,0,0,0,0
+51433,21 Aug 2017,v Tallawahs,Basseterre,2,0,0,0,0,0
+51433,23 Aug 2017,v Trinbago,Basseterre,2,0,0,0,0,0
+51433,30 Aug 2017,v Tallawahs,Kingston,1,0,0,0,0,0
+51433,13 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+51433,15 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+51433,6 Dec 2017,v Dynamites,Mirpur,1,1,1,0,0,1
+51433,29 Dec 2017,v New Zealand,Nelson,1,0,0,0,0,0
+51433,1 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+51433,3 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+51433,1 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+51433,2 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+51433,3 Apr 2018,v Pakistan,Karachi,2,0,0,0,0,0
+51433,31 May 2018,v ICC World XI,Lord's,2,0,0,0,0,0
+51433,31 Jul 2018,v Bangladesh,Basseterre,1,0,0,0,0,0
+51433,4 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0
+51433,5 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0
+51433,18 Aug 2018,v Amazon,Lauderhill,1,0,0,0,0,0
+51433,22 Aug 2018,v Tridents,Lauderhill,1,0,0,0,0,0
+51433,25 Aug 2018,v Stars,Gros Islet,2,0,0,0,0,0
+51433,29 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+51433,8 Sep 2018,v Amazon,Providence,1,0,0,0,0,0
+51433,12 Sep 2018,v Patriots,Providence,2,0,0,0,0,0

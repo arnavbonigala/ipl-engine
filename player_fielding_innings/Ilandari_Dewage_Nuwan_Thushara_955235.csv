@@ -1,0 +1,138 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+955235,5 Jan 2016,v Galle CC,Colombo (PSS),2,0,0,0,0,0
+955235,6 Jan 2016,v Bloomfield,Colombo (PSS),1,0,0,0,0,0
+955235,24 Feb 2018,v Saracens,Colombo (Bloomfield),1,0,0,0,0,0
+955235,27 Feb 2018,v SL Army,Colombo (NCC),2,0,0,0,0,0
+955235,1 Mar 2018,v Panadura,Katunayake,1,1,1,0,0,1
+955235,2 Mar 2018,v Negambo CC,Colombo (Burgher),1,0,0,0,0,0
+955235,4 Mar 2018,v Badureliya,Katunayake,1,2,2,0,0,2
+955235,7 Mar 2018,v Tamil Union,Colombo (PSS),2,0,0,0,0,0
+955235,8 Mar 2018,v Nondescripts,Colombo (PSS),1,0,0,0,0,0
+955235,15 Feb 2019,v Lankan CC,Panagoda,1,0,0,0,0,0
+955235,16 Feb 2019,v Galle CC,Colombo (CCC),1,0,0,0,0,0
+955235,18 Feb 2019,v Burgher,SLAOCIC Stadium,2,0,0,0,0,0
+955235,19 Feb 2019,v Kandy CCC,Colombo (CCC),2,0,0,0,0,0
+955235,21 Feb 2019,v Tamil Union,Colombo (CCC),1,1,1,0,0,1
+955235,4 Jan 2020,v Kandy CCC,Colombo (Colts),2,0,0,0,0,0
+955235,6 Jan 2020,v Nugegoda SWC,Katunayake,2,0,0,0,0,0
+955235,8 Jan 2020,v SLPACC,Colombo (NCC),2,0,0,0,0,0
+955235,10 Jan 2020,v Burgher,Colombo (SSC),1,0,0,0,0,0
+955235,12 Jan 2020,v Lankan CC,Colombo (SSC),1,0,0,0,0,0
+955235,15 Jan 2020,v Ragama CC,Colombo (PSS),1,0,0,0,0,0
+955235,17 Jan 2020,v Badureliya,Katunayake,1,0,0,0,0,0
+955235,19 Jan 2020,v Nondescripts,Katunayake,2,0,0,0,0,0
+955235,21 Jan 2020,v Chilaw MCC,Colombo (SSC),1,0,0,0,0,0
+955235,7 Dec 2020,v Kings,Hambantota,1,0,0,0,0,0
+955235,9 Dec 2020,v Viiking,Hambantota,2,0,0,0,0,0
+955235,10 Dec 2020,v Tuskers,Hambantota,1,0,0,0,0,0
+955235,13 Dec 2020,v Kings,Hambantota,1,0,0,0,0,0
+955235,16 Dec 2020,v Stallions,Hambantota,1,0,0,0,0,0
+955235,4 Mar 2021,v Galle CC,Colombo (SSC),1,0,0,0,0,0
+955235,6 Mar 2021,v Nugegoda SWC,Colombo (SSC),2,0,0,0,0,0
+955235,7 Mar 2021,v Negombo,Colombo (PSS),1,0,0,0,0,0
+955235,12 Mar 2021,v Badureliya,Colombo (SSC),2,0,0,0,0,0
+955235,14 Mar 2021,v Burgher,Katunayake,1,0,0,0,0,0
+955235,16 Mar 2021,v Ragama CC,Colombo (PSS),2,1,1,0,0,1
+955235,18 Mar 2021,v Sinhalese,Colombo (NCC),1,0,0,0,0,0
+955235,16 Aug 2021,v SLC Reds,Pallekele,2,0,0,0,0,0
+955235,18 Aug 2021,v SLC Greys,Pallekele,1,0,0,0,0,0
+955235,21 Aug 2021,v SLC Blues,Pallekele,1,1,1,0,0,1
+955235,5 Dec 2021,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+955235,6 Dec 2021,v Stars,Colombo (RPS),2,0,0,0,0,0
+955235,7 Dec 2021,v Warriors,Colombo (RPS),1,0,0,0,0,0
+955235,10 Dec 2021,v Dambulla,Colombo (RPS),1,0,0,0,0,0
+955235,11 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+955235,12 Dec 2021,v Stars,Colombo (RPS),1,1,1,0,0,1
+955235,19 Dec 2021,v Jaffna Kings,Hambantota,2,1,1,0,0,1
+955235,23 Dec 2021,v Jaffna Kings,Hambantota,1,0,0,0,0,0
+955235,13 Feb 2022,v Australia,Sydney,1,0,0,0,0,0
+955235,15 Feb 2022,v Australia,Canberra,2,0,0,0,0,0
+955235,22 May 2022,v Lankan CC,Colombo (SSC),1,0,0,0,0,0
+955235,24 May 2022,v Badureliya,Colombo (SSC),1,0,0,0,0,0
+955235,26 May 2022,v Air Force SC,Colombo (SSC),-,TDNF,-,-,-,-
+955235,30 May 2022,v Sinhalese,Colombo (PSS),1,0,0,0,0,0
+955235,7 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+955235,8 Jun 2022,v Australia,Colombo (RPS),2,0,0,0,0,0
+955235,8 Aug 2022,v SLC Blues,Colombo (RPS),1,0,0,0,0,0
+955235,10 Aug 2022,v SLC Reds,Colombo (RPS),2,0,0,0,0,0
+955235,13 Aug 2022,v SLC Greys,Colombo (RPS),1,0,0,0,0,0
+955235,6 Dec 2022,v Jaffna Kings,Hambantota,1,0,0,0,0,0
+955235,7 Dec 2022,v Kandy,Hambantota,2,0,0,0,0,0
+955235,11 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+955235,12 Dec 2022,v Kandy,Pallekele,2,0,0,0,0,0
+955235,13 Dec 2022,v Stars,Pallekele,2,0,0,0,0,0
+955235,17 Dec 2022,v Aura,Colombo (RPS),1,0,0,0,0,0
+955235,18 Dec 2022,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+955235,19 Dec 2022,v Aura,Colombo (RPS),2,1,1,0,0,1
+955235,21 Dec 2022,v Stars,Colombo (RPS),2,0,0,0,0,0
+955235,15 Feb 2023,v Sultans,Multan,2,0,0,0,0,0
+955235,27 May 2023,v Galle CC,Maggona,2,0,0,0,0,0
+955235,29 May 2023,v Negombo,Colombo (NCC),1,0,0,0,0,0
+955235,31 May 2023,v Burgher,Colombo (SSC),1,0,0,0,0,0
+955235,2 Jun 2023,v Moors,Panagoda,1,1,1,0,0,1
+955235,4 Aug 2023,v Galle Titans,Pallekele,1,1,1,0,0,1
+955235,5 Aug 2023,v B-Love Kandy,Pallekele,2,0,0,0,0,0
+955235,7 Aug 2023,v Aura,Pallekele,1,0,0,0,0,0
+955235,8 Aug 2023,v Colombo,Pallekele,1,0,0,0,0,0
+955235,12 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+955235,13 Aug 2023,v Galle Titans,Colombo (RPS),2,0,0,0,0,0
+955235,17 Aug 2023,v B-Love Kandy,Colombo (RPS),1,0,0,0,0,0
+955235,4 Oct 2023,v Afghanistan,Hangzhou,1,0,0,0,0,0
+955235,14 Jan 2024,v Zimbabwe,Colombo (RPS),1,0,0,0,0,0
+955235,21 Jan 2024,v Paarl Royals,Paarl,1,1,1,0,0,1
+955235,27 Jan 2024,v Sunrisers,Gqeberha,1,0,0,0,0,0
+955235,29 Jan 2024,v Super Kings,Cape Town,2,0,0,0,0,0
+955235,1 Feb 2024,v Capitals,Centurion,2,0,0,0,0,0
+955235,3 Feb 2024,v Capitals,Cape Town,2,0,0,0,0,0
+955235,21 Feb 2024,v Afghanistan,Dambulla,1,0,0,0,0,0
+955235,9 Mar 2024,v Bangladesh,Sylhet,2,0,0,0,0,0
+955235,22 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+955235,27 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+955235,30 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+955235,3 May 2024,v KKR,Wankhede,1,0,0,0,0,0
+955235,6 May 2024,v SRH,Wankhede,1,0,0,0,0,0
+955235,11 May 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+955235,17 May 2024,v LSG,Wankhede,1,1,1,0,0,1
+955235,3 Jun 2024,v South Africa,New York,2,0,0,0,0,0
+955235,7 Jun 2024,v Bangladesh,Dallas,2,0,0,0,0,0
+955235,16 Jun 2024,v Netherlands,Gros Islet,2,0,0,0,0,0
+955235,1 Jul 2024,v Kandy,Pallekele,2,0,0,0,0,0
+955235,3 Jul 2024,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+955235,6 Jul 2024,v Jaffna Kings,Dambulla,1,0,0,0,0,0
+955235,9 Jul 2024,v Galle,Dambulla,2,0,0,0,0,0
+955235,14 Jul 2024,v Galle,Colombo (RPS),1,0,0,0,0,0
+955235,15 Jul 2024,v Kandy,Colombo (RPS),1,0,0,0,0,0
+955235,16 Jul 2024,v Colombo,Colombo (RPS),2,0,0,0,0,0
+955235,15 Oct 2024,v West Indies,Dambulla,2,0,0,0,0,0
+955235,17 Oct 2024,v West Indies,Dambulla,1,0,0,0,0,0
+955235,9 Nov 2024,v New Zealand,Dambulla,1,0,0,0,0,0
+955235,10 Nov 2024,v New Zealand,Dambulla,1,0,0,0,0,0
+955235,28 Dec 2024,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+955235,30 Dec 2024,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+955235,2 Jan 2025,v New Zealand,Nelson,2,0,0,0,0,0
+955235,27 May 2025,v LSG,Lucknow,1,0,0,0,0,0
+955235,8 Jun 2025,v Panadura,Colombo (PSS),1,0,0,0,0,0
+955235,11 Jun 2025,v Burgher,Colombo (PSS),2,0,0,0,0,0
+955235,13 Jun 2025,v Moors,Colombo (CCC),1,0,0,0,0,0
+955235,15 Jun 2025,v Panadura,Colombo (CCC),1,0,0,0,0,0
+955235,10 Jul 2025,v Bangladesh,Pallekele,1,0,0,0,0,0
+955235,13 Jul 2025,v Bangladesh,Dambulla,1,2,2,0,0,2
+955235,16 Jul 2025,v Bangladesh,Colombo (RPS),2,0,0,0,0,0
+955235,7 Aug 2025,v SLC Blues,Colombo (SSC),1,0,0,0,0,0
+955235,10 Aug 2025,v SLC Greys,Colombo (SSC),1,0,0,0,0,0
+955235,11 Aug 2025,v SLC Blues,Colombo (SSC),2,0,0,0,0,0
+955235,16 Aug 2025,v SLC Greys,Colombo (SSC),2,0,0,0,0,0
+955235,3 Sep 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+955235,13 Sep 2025,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+955235,15 Sep 2025,v Hong Kong,Dubai (DICS),1,0,0,0,0,0
+955235,18 Sep 2025,v Afghanistan,Abu Dhabi,1,0,0,0,0,0
+955235,20 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+955235,23 Sep 2025,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+955235,26 Sep 2025,v India,Dubai (DICS),1,0,0,0,0,0
+955235,20 Nov 2025,v Zimbabwe,Rawalpindi,1,0,0,0,0,0
+955235,4 Dec 2025,v MI Emirates,Dubai (DICS),1,2,2,0,0,2
+955235,6 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+955235,8 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+955235,10 Dec 2025,v Warriorz,Dubai (DICS),1,0,0,0,0,0
+955235,12 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+955235,7 Jan 2026,v Pakistan,Dambulla,2,0,0,0,0,0

@@ -1,0 +1,156 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+393279,30 Oct 2011,v Free State,Bloemfontein,2,0,0,0,0,0
+393279,19 Feb 2012,v New Zealand,Hamilton,1,0,0,0,0,0
+393279,22 Feb 2012,v New Zealand,Auckland,2,0,0,0,0,0
+393279,5 Apr 2012,v Daredevils,Eden Gardens,2,0,0,0,0,0
+393279,5 May 2012,v Warriors,Eden Gardens,2,0,0,0,0,0
+393279,14 May 2012,v CSK,Eden Gardens,2,0,0,0,0,0
+393279,19 Jun 2012,v Bdesh XI,Harare,2,0,0,0,0,0
+393279,20 Jun 2012,v Zimbabwe XI,Harare,1,0,0,0,0,0
+393279,22 Jun 2012,v Bdesh XI,Harare,2,0,0,0,0,0
+393279,20 Jan 2013,v Boland,Benoni,-,TDNF,-,-,-,-
+393279,20 Feb 2013,v Lions,Johannesburg,2,0,0,0,0,0
+393279,22 Feb 2013,v Warriors,Gqeberha,1,0,0,0,0,0
+393279,28 Feb 2013,v Cape Cobras,Benoni,1,0,0,0,0,0
+393279,6 Mar 2013,v Knights,Centurion,1,0,0,0,0,0
+393279,8 Mar 2013,v Warriors,Benoni,1,0,0,0,0,0
+393279,12 Mar 2013,v Cape Cobras,Paarl,2,0,0,0,0,0
+393279,7 Apr 2013,v Lions,Johannesburg,1,0,0,0,0,0
+393279,22 Sep 2013,v CSK,Ranchi,2,0,0,0,0,0
+393279,24 Sep 2013,v Heat,Mohali,2,1,1,0,0,1
+393279,28 Sep 2013,v SRH,Ranchi,1,0,0,0,0,0
+393279,30 Sep 2013,v Trinidad & T,Ahmedabad,1,0,0,0,0,0
+393279,2 Feb 2014,v Northerns,Centurion,2,0,0,0,0,0
+393279,23 Feb 2014,v Griq West,Benoni,1,0,0,0,0,0
+393279,1 Mar 2014,v Namibia,Benoni,1,0,0,0,0,0
+393279,16 Mar 2014,v Gauteng,Johannesburg,2,0,0,0,0,0
+393279,23 May 2014,v Daredevils,Wankhede,2,0,0,0,0,0
+393279,9 Nov 2014,v Australia,Sydney,2,1,1,0,0,1
+393279,30 Nov 2014,v Warriors,Bloemfontein,1,1,1,0,0,1
+393279,11 Jan 2015,v West Indies,Johannesburg,2,0,0,0,0,0
+393279,14 Jan 2015,v West Indies,Durban,2,0,0,0,0,0
+393279,8 May 2015,v CSK,Chennai,1,0,0,0,0,0
+393279,20 Jun 2015,v Tridents,Bridgetown,1,0,0,0,0,0
+393279,26 Jun 2015,v Zouks,Gros Islet,1,0,0,0,0,0
+393279,3 Jul 2015,v Patriots,Basseterre,1,1,1,0,0,1
+393279,4 Jul 2015,v Red Steel,Basseterre,2,0,0,0,0,0
+393279,8 Jul 2015,v Patriots,Basseterre,1,0,0,0,0,0
+393279,12 Jul 2015,v Tallawahs,Kingston,2,1,1,0,0,1
+393279,17 Jul 2015,v Zouks,Providence,1,1,1,0,0,1
+393279,18 Jul 2015,v Tridents,Providence,1,0,0,0,0,0
+393279,21 Jul 2015,v Red Steel,Providence,1,0,0,0,0,0
+393279,25 Jul 2015,v Red Steel,Port of Spain,2,0,0,0,0,0
+393279,2 Oct 2015,v India,Dharamsala,1,0,0,0,0,0
+393279,1 Nov 2015,v Dolphins,Centurion,1,1,1,0,0,1
+393279,15 Nov 2015,v KZ-Natal,Benoni,1,0,0,0,0,0
+393279,23 Jul 2016,v Zouks,Gros Islet,2,0,0,0,0,0
+393279,28 Jul 2016,v Amazon,Lauderhill,2,0,0,0,0,0
+393279,30 Jul 2016,v Amazon,Lauderhill,2,0,0,0,0,0
+393279,12 Nov 2016,v Cape Cobras,Johannesburg,2,1,1,0,0,1
+393279,18 Nov 2016,v Titans,Benoni,2,0,0,0,0,0
+393279,20 Nov 2016,v Warriors,Bloemfontein,1,0,0,0,0,0
+393279,25 Nov 2016,v Dolphins,Bloemfontein,2,0,0,0,0,0
+393279,27 Nov 2016,v Titans,Kimberley,1,0,0,0,0,0
+393279,30 Nov 2016,v Warriors,Gqeberha,2,0,0,0,0,0
+393279,2 Dec 2016,v Lions,Kimberley,1,0,0,0,0,0
+393279,7 Jul 2017,v Hampshire,Cardiff,1,0,0,0,0,0
+393279,9 Jul 2017,v Sussex,Arundel,2,1,1,0,0,1
+393279,15 Jul 2017,v Somerset,Cardiff,-,TDNF,-,-,-,-
+393279,16 Jul 2017,v Essex,Chelmsford,1,0,0,0,0,0
+393279,21 Jul 2017,v Sussex,Cardiff,1,0,0,0,0,0
+393279,25 Jul 2017,v Gloucs,Bristol,2,1,1,0,0,1
+393279,30 Jul 2017,v Kent,Canterbury,2,0,0,0,0,0
+393279,3 Aug 2017,v Gloucs,Cardiff,1,0,0,0,0,0
+393279,4 Aug 2017,v Surrey,The Oval,2,0,0,0,0,0
+393279,10 Aug 2017,v Hampshire,Southampton,2,1,1,0,0,1
+393279,13 Aug 2017,v Somerset,Taunton,2,2,2,0,0,2
+393279,18 Aug 2017,v Middlesex,Cardiff,1,0,0,0,0,0
+393279,23 Aug 2017,v Leics,Cardiff,1,0,0,0,0,0
+393279,2 Sep 2017,v Warwickshire,Birmingham,1,0,0,0,0,0
+393279,10 Nov 2017,v Warriors,Gqeberha,1,0,0,0,0,0
+393279,15 Nov 2017,v Titans,Kimberley,1,0,0,0,0,0
+393279,17 Nov 2017,v Dolphins,Durban,-,TDNF,-,-,-,-
+393279,24 Nov 2017,v Warriors,Bloemfontein,1,1,1,0,0,1
+393279,26 Nov 2017,v Cape Cobras,Cape Town,2,0,0,0,0,0
+393279,8 Dec 2017,v Dolphins,Bloemfontein,2,0,0,0,0,0
+393279,10 Dec 2017,v Lions,Johannesburg,1,0,0,0,0,0
+393279,18 Nov 2018,v Blitz,Durban,2,0,0,0,0,0
+393279,21 Nov 2018,v Spartans,Durban,1,2,2,0,0,2
+393279,23 Nov 2018,v Giants,Gqeberha,2,0,0,0,0,0
+393279,28 Nov 2018,v Paarl Rocks,Durban,1,1,1,0,0,1
+393279,5 Dec 2018,v Giants,Durban,1,0,0,0,0,0
+393279,7 Dec 2018,v Jozi Stars,Durban,2,1,1,0,0,1
+393279,9 Dec 2018,v Blitz,Cape Town,1,0,0,0,0,0
+393279,18 Jul 2019,v Somerset,Cardiff,2,0,0,0,0,0
+393279,19 Jul 2019,v Gloucs,Cheltenham,-,TDNF,-,-,-,-
+393279,25 Jul 2019,v Surrey,The Oval,1,1,1,0,0,1
+393279,26 Jul 2019,v Middlesex,Cardiff,2,0,0,0,0,0
+393279,1 Aug 2019,v Gloucs,Cardiff,2,0,0,0,0,0
+393279,2 Aug 2019,v Hampshire,Southampton,1,1,1,0,0,1
+393279,6 Aug 2019,v Sussex,Hove,2,0,0,0,0,0
+393279,9 Aug 2019,v Essex,Cardiff,1,0,0,0,0,0
+393279,11 Aug 2019,v Surrey,Cardiff,2,1,1,0,0,1
+393279,24 Aug 2019,v Somerset,Taunton,1,0,0,0,0,0
+393279,26 Aug 2019,v Sussex,Cardiff,2,0,0,0,0,0
+393279,30 Aug 2019,v Hampshire,Cardiff,2,1,1,0,0,1
+393279,29 Aug 2020,v Gloucs,Bristol,2,0,0,0,0,0
+393279,30 Aug 2020,v Bears,Cardiff,2,0,0,0,0,0
+393279,1 Sep 2020,v Somerset,Taunton,2,0,0,0,0,0
+393279,3 Sep 2020,v Northants,Birmingham,2,0,0,0,0,0
+393279,11 Sep 2020,v Bears,Birmingham,1,0,0,0,0,0
+393279,13 Sep 2020,v Northants,Cardiff,1,1,1,0,0,1
+393279,16 Sep 2020,v Somerset,Cardiff,1,1,1,0,0,1
+393279,9 Jun 2021,v Essex,Taunton,2,0,0,0,0,0
+393279,11 Jun 2021,v Surrey,Taunton,2,0,0,0,0,0
+393279,15 Jun 2021,v Kent,Taunton,2,0,0,0,0,0
+393279,25 Jun 2021,v Hampshire,Taunton,2,1,1,0,0,1
+393279,28 Jun 2021,v Kent,Canterbury,1,1,1,0,0,1
+393279,29 Jun 2021,v Essex,Chelmsford,2,0,0,0,0,0
+393279,1 Jul 2021,v Gloucs,Bristol,1,0,0,0,0,0
+393279,2 Jul 2021,v Middlesex,Taunton,2,0,0,0,0,0
+393279,9 Jul 2021,v Hampshire,Southampton,1,0,0,0,0,0
+393279,16 Jul 2021,v Glamorgan,Cardiff,2,0,0,0,0,0
+393279,18 Jul 2021,v Gloucs,Taunton,2,0,0,0,0,0
+393279,24 Jul 2021,v Brave,Nottingham,1,0,0,0,0,0
+393279,26 Jul 2021,v N S-Chargers,Nottingham,1,1,1,0,0,1
+393279,29 Jul 2021,v Spirit,Lord's,2,0,0,0,0,0
+393279,1 Aug 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+393279,13 Aug 2021,v Phoenix,Nottingham,1,0,0,0,0,0
+393279,15 Aug 2021,v Originals,Nottingham,1,0,0,0,0,0
+393279,20 Aug 2021,v Brave,The Oval,2,1,1,0,0,1
+393279,26 Aug 2021,v Lancashire,Taunton,1,0,0,0,0,0
+393279,18 Sep 2021,v Hampshire,Birmingham,1,0,0,0,0,0
+393279,18 Sep 2021,v Kent,Birmingham,1,0,0,0,0,0
+393279,7 Dec 2021,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+393279,16 Dec 2021,v Warriors,Colombo (RPS),2,1,1,0,0,1
+393279,21 Dec 2021,v Jaffna Kings,Hambantota,1,0,0,0,0,0
+393279,30 Jan 2022,v Zalmi,Karachi,1,0,0,0,0,0
+393279,1 Feb 2022,v Sultans,Karachi,1,0,0,0,0,0
+393279,17 Feb 2022,v Zalmi,Lahore,1,2,2,0,0,2
+393279,19 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+393279,20 Feb 2022,v Sultans,Lahore,2,0,0,0,0,0
+393279,25 May 2022,v Kent,Canterbury,1,0,0,0,0,0
+393279,27 May 2022,v SLC Dev XI,Taunton,2,3,3,0,0,3
+393279,29 May 2022,v Essex,Taunton,1,0,0,0,0,0
+393279,30 May 2022,v Hampshire,Southampton,1,1,1,0,0,1
+393279,1 Jun 2022,v Sussex,Taunton,1,0,0,0,0,0
+393279,3 Jun 2022,v Glamorgan,Taunton,1,0,0,0,0,0
+393279,29 May 2023,v Middlesex,Northwood,2,0,0,0,0,0
+393279,30 May 2023,v Essex,Chelmsford,2,0,0,0,0,0
+393279,27 Jan 2024,v Vipers,Abu Dhabi,1,0,0,0,0,0
+393279,28 Jan 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+393279,31 Jan 2024,v Gulf Giants,Abu Dhabi,1,2,2,0,0,2
+393279,30 May 2024,v Essex,Bristol,1,0,0,0,0,0
+393279,31 May 2024,v Sussex,Hove,2,1,1,0,0,1
+393279,7 Jun 2024,v Hampshire,Bristol,2,0,0,0,0,0
+393279,14 Jun 2024,v Surrey,The Oval,2,1,1,0,0,1
+393279,16 Jun 2024,v Kent,Canterbury,1,1,1,0,0,1
+393279,20 Jun 2024,v Glamorgan,Cardiff,1,0,0,0,0,0
+393279,21 Jun 2024,v Somerset,Bristol,1,0,0,0,0,0
+393279,7 Jul 2024,v Somerset,Taunton,1,0,0,0,0,0
+393279,11 Jul 2024,v Middlesex,Cheltenham,1,0,0,0,0,0
+393279,12 Jul 2024,v Hampshire,Southampton,2,0,0,0,0,0
+393279,4 Jul 2025,v Essex,Chelmsford,2,2,2,0,0,2
+393279,11 Jul 2025,v Middlesex,Northwood,1,1,1,0,0,1
+393279,13 Jul 2025,v Glamorgan,Cardiff,2,1,1,0,0,1
+393279,17 Jul 2025,v Sussex,Cheltenham,2,0,0,0,0,0

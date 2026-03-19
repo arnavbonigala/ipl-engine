@@ -1,0 +1,717 @@
+match_id,season,captain1_id,captain1_name,captain1_team,captain2_id,captain2_name,captain2_team
+829705,2015,48405,Rohit Sharma,Mumbai Indians,7773,Gautam Gambhir,Kolkata Knight Riders
+829707,2015,7593,MS Dhoni,Chennai Super Kings,45222,Jean-Paul Duminy,Delhi Daredevils
+829709,2015,50281,Steven Smith,Rajasthan Royals,35384,George Bailey,Kings XI Punjab
+829711,2015,7593,MS Dhoni,Chennai Super Kings,48739,David Warner,Sunrisers Hyderabad
+829713,2015,7773,Gautam Gambhir,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+829715,2015,45222,Jean-Paul Duminy,Delhi Daredevils,50281,Steven Smith,Rajasthan Royals
+829717,2015,35384,George Bailey,Kings XI Punjab,48405,Rohit Sharma,Mumbai Indians
+829719,2015,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+829721,2015,48405,Rohit Sharma,Mumbai Indians,50281,Steven Smith,Rajasthan Royals
+829723,2015,7593,MS Dhoni,Chennai Super Kings,7773,Gautam Gambhir,Kolkata Knight Riders
+829725,2015,35384,George Bailey,Kings XI Punjab,45222,Jean-Paul Duminy,Delhi Daredevils
+829727,2015,48739,David Warner,Sunrisers Hyderabad,50281,Steven Smith,Rajasthan Royals
+829729,2015,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+829731,2015,45222,Jean-Paul Duminy,Delhi Daredevils,48739,David Warner,Sunrisers Hyderabad
+829733,2015,35384,George Bailey,Kings XI Punjab,7773,Gautam Gambhir,Kolkata Knight Riders
+829735,2015,7593,MS Dhoni,Chennai Super Kings,10125,Shane Watson,Rajasthan Royals
+829737,2015,48405,Rohit Sharma,Mumbai Indians,49752,Virat Kohli,Royal Challengers Bangalore
+829739,2015,45222,Jean-Paul Duminy,Delhi Daredevils,7773,Gautam Gambhir,Kolkata Knight Riders
+829741,2015,10125,Shane Watson,Rajasthan Royals,7781,Virender Sehwag,Kings XI Punjab
+829743,2015,48739,David Warner,Sunrisers Hyderabad,7773,Gautam Gambhir,Kolkata Knight Riders
+829745,2015,7593,MS Dhoni,Chennai Super Kings,49752,Virat Kohli,Royal Challengers Bangalore
+829747,2015,45222,Jean-Paul Duminy,Delhi Daredevils,48405,Rohit Sharma,Mumbai Indians
+829749,2015,10125,Shane Watson,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+829751,2015,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+829753,2015,7593,MS Dhoni,Chennai Super Kings,35384,George Bailey,Kings XI Punjab
+829755,2015,7773,Gautam Gambhir,Kolkata Knight Riders,10125,Shane Watson,Rajasthan Royals
+829757,2015,45222,Jean-Paul Duminy,Delhi Daredevils,49752,Virat Kohli,Royal Challengers Bangalore
+829759,2015,48739,David Warner,Sunrisers Hyderabad,35384,George Bailey,Kings XI Punjab
+829761,2015,7773,Gautam Gambhir,Kolkata Knight Riders,45222,Jean-Paul Duminy,Delhi Daredevils
+829763,2015,49752,Virat Kohli,Royal Challengers Bangalore,10125,Shane Watson,Rajasthan Royals
+829765,2015,7593,MS Dhoni,Chennai Super Kings,7773,Gautam Gambhir,Kolkata Knight Riders
+829767,2015,35384,George Bailey,Kings XI Punjab,45222,Jean-Paul Duminy,Delhi Daredevils
+829769,2015,48405,Rohit Sharma,Mumbai Indians,10125,Shane Watson,Rajasthan Royals
+829771,2015,7773,Gautam Gambhir,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+829773,2015,48739,David Warner,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+829775,2015,48405,Rohit Sharma,Mumbai Indians,35384,George Bailey,Kings XI Punjab
+829777,2015,10125,Shane Watson,Rajasthan Royals,45222,Jean-Paul Duminy,Delhi Daredevils
+829779,2015,7593,MS Dhoni,Chennai Super Kings,49752,Virat Kohli,Royal Challengers Bangalore
+829781,2015,7773,Gautam Gambhir,Kolkata Knight Riders,48739,David Warner,Sunrisers Hyderabad
+829783,2015,45222,Jean-Paul Duminy,Delhi Daredevils,48405,Rohit Sharma,Mumbai Indians
+829785,2015,49752,Virat Kohli,Royal Challengers Bangalore,35384,George Bailey,Kings XI Punjab
+829787,2015,48739,David Warner,Sunrisers Hyderabad,10125,Shane Watson,Rajasthan Royals
+829789,2015,7593,MS Dhoni,Chennai Super Kings,48405,Rohit Sharma,Mumbai Indians
+829791,2015,35384,George Bailey,Kings XI Punjab,7773,Gautam Gambhir,Kolkata Knight Riders
+829793,2015,48739,David Warner,Sunrisers Hyderabad,45222,Jean-Paul Duminy,Delhi Daredevils
+829795,2015,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+829797,2015,7593,MS Dhoni,Chennai Super Kings,50281,Steven Smith,Rajasthan Royals
+829799,2015,48739,David Warner,Sunrisers Hyderabad,35384,George Bailey,Kings XI Punjab
+829801,2015,7593,MS Dhoni,Chennai Super Kings,45222,Jean-Paul Duminy,Delhi Daredevils
+829803,2015,35384,George Bailey,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+829805,2015,48405,Rohit Sharma,Mumbai Indians,7773,Gautam Gambhir,Kolkata Knight Riders
+829807,2015,48739,David Warner,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+829809,2015,35384,George Bailey,Kings XI Punjab,7593,MS Dhoni,Chennai Super Kings
+829811,2015,50281,Steven Smith,Rajasthan Royals,7773,Gautam Gambhir,Kolkata Knight Riders
+829813,2015,45222,Jean-Paul Duminy,Delhi Daredevils,49752,Virat Kohli,Royal Challengers Bangalore
+829815,2015,48739,David Warner,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+829817,2015,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+829819,2015,49752,Virat Kohli,Royal Challengers Bangalore,50281,Steven Smith,Rajasthan Royals
+829821,2015,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+829823,2015,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+980901,2016,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Rising Pune Supergiants
+980903,2016,7678,Zaheer Khan,Delhi Daredevils,7773,Gautam Gambhir,Kolkata Knight Riders
+980905,2016,53891,David Miller,Kings XI Punjab,15716,Suresh Raina,Gujarat Lions
+980907,2016,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+980909,2016,7773,Gautam Gambhir,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+980911,2016,7593,MS Dhoni,Rising Pune Supergiants,15716,Suresh Raina,Gujarat Lions
+980913,2016,53891,David Miller,Kings XI Punjab,7678,Zaheer Khan,Delhi Daredevils
+980915,2016,48739,David Warner,Sunrisers Hyderabad,7773,Gautam Gambhir,Kolkata Knight Riders
+980917,2016,48405,Rohit Sharma,Mumbai Indians,15716,Suresh Raina,Gujarat Lions
+980919,2016,7593,MS Dhoni,Rising Pune Supergiants,53891,David Miller,Kings XI Punjab
+980921,2016,49752,Virat Kohli,Royal Challengers Bangalore,7678,Zaheer Khan,Delhi Daredevils
+980923,2016,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+980925,2016,53891,David Miller,Kings XI Punjab,7773,Gautam Gambhir,Kolkata Knight Riders
+980927,2016,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+980929,2016,15716,Suresh Raina,Gujarat Lions,48739,David Warner,Sunrisers Hyderabad
+980931,2016,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Rising Pune Supergiants
+980933,2016,7678,Zaheer Khan,Delhi Daredevils,48405,Rohit Sharma,Mumbai Indians
+980935,2016,53891,David Miller,Kings XI Punjab,48739,David Warner,Sunrisers Hyderabad
+980937,2016,49752,Virat Kohli,Royal Challengers Bangalore,15716,Suresh Raina,Gujarat Lions
+980939,2016,7593,MS Dhoni,Rising Pune Supergiants,7773,Gautam Gambhir,Kolkata Knight Riders
+980941,2016,48405,Rohit Sharma,Mumbai Indians,53891,David Miller,Kings XI Punjab
+980943,2016,48739,David Warner,Sunrisers Hyderabad,7593,MS Dhoni,Rising Pune Supergiants
+980945,2016,15716,Suresh Raina,Gujarat Lions,7678,Zaheer Khan,Delhi Daredevils
+980947,2016,7773,Gautam Gambhir,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+980949,2016,7593,MS Dhoni,Rising Pune Supergiants,15716,Suresh Raina,Gujarat Lions
+980951,2016,7678,Zaheer Khan,Delhi Daredevils,7773,Gautam Gambhir,Kolkata Knight Riders
+980953,2016,48739,David Warner,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+980955,2016,49342,Murali Vijay,Kings XI Punjab,15716,Suresh Raina,Gujarat Lions
+980957,2016,7593,MS Dhoni,Rising Pune Supergiants,48405,Rohit Sharma,Mumbai Indians
+980959,2016,49752,Virat Kohli,Royal Challengers Bangalore,7773,Gautam Gambhir,Kolkata Knight Riders
+980961,2016,15716,Suresh Raina,Gujarat Lions,7678,Zaheer Khan,Delhi Daredevils
+980963,2016,7773,Gautam Gambhir,Kolkata Knight Riders,49342,Murali Vijay,Kings XI Punjab
+980965,2016,45222,Jean-Paul Duminy,Delhi Daredevils,7593,MS Dhoni,Rising Pune Supergiants
+980967,2016,15716,Suresh Raina,Gujarat Lions,48739,David Warner,Sunrisers Hyderabad
+980969,2016,7593,MS Dhoni,Rising Pune Supergiants,49752,Virat Kohli,Royal Challengers Bangalore
+980971,2016,49342,Murali Vijay,Kings XI Punjab,7678,Zaheer Khan,Delhi Daredevils
+980973,2016,48739,David Warner,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+980975,2016,7773,Gautam Gambhir,Kolkata Knight Riders,15716,Suresh Raina,Gujarat Lions
+980977,2016,49752,Virat Kohli,Royal Challengers Bangalore,49342,Murali Vijay,Kings XI Punjab
+980979,2016,48739,David Warner,Sunrisers Hyderabad,7593,MS Dhoni,Rising Pune Supergiants
+980981,2016,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+980983,2016,48739,David Warner,Sunrisers Hyderabad,45222,Jean-Paul Duminy,Delhi Daredevils
+980985,2016,48405,Rohit Sharma,Mumbai Indians,49342,Murali Vijay,Kings XI Punjab
+980987,2016,49752,Virat Kohli,Royal Challengers Bangalore,10384,Brendon McCullum,Gujarat Lions
+980989,2016,7593,MS Dhoni,Rising Pune Supergiants,7773,Gautam Gambhir,Kolkata Knight Riders
+980991,2016,49342,Murali Vijay,Kings XI Punjab,48739,David Warner,Sunrisers Hyderabad
+980993,2016,48405,Rohit Sharma,Mumbai Indians,7678,Zaheer Khan,Delhi Daredevils
+980995,2016,7773,Gautam Gambhir,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+980997,2016,7678,Zaheer Khan,Delhi Daredevils,7593,MS Dhoni,Rising Pune Supergiants
+980999,2016,49752,Virat Kohli,Royal Challengers Bangalore,49342,Murali Vijay,Kings XI Punjab
+981001,2016,7773,Gautam Gambhir,Kolkata Knight Riders,15716,Suresh Raina,Gujarat Lions
+981003,2016,48739,David Warner,Sunrisers Hyderabad,7678,Zaheer Khan,Delhi Daredevils
+981005,2016,49342,Murali Vijay,Kings XI Punjab,7593,MS Dhoni,Rising Pune Supergiants
+981007,2016,48405,Rohit Sharma,Mumbai Indians,15716,Suresh Raina,Gujarat Lions
+981009,2016,7773,Gautam Gambhir,Kolkata Knight Riders,48739,David Warner,Sunrisers Hyderabad
+981011,2016,7678,Zaheer Khan,Delhi Daredevils,49752,Virat Kohli,Royal Challengers Bangalore
+981013,2016,15716,Suresh Raina,Gujarat Lions,49752,Virat Kohli,Royal Challengers Bangalore
+981015,2016,48739,David Warner,Sunrisers Hyderabad,7773,Gautam Gambhir,Kolkata Knight Riders
+981017,2016,15716,Suresh Raina,Gujarat Lions,48739,David Warner,Sunrisers Hyderabad
+981019,2016,48739,David Warner,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+1082591,2017,48739,David Warner,Sunrisers Hyderabad,10125,Shane Watson,Royal Challengers Bangalore
+1082592,2017,48405,Rohit Sharma,Mumbai Indians,50281,Steven Smith,Rising Pune Supergiant
+1082593,2017,15716,Suresh Raina,Gujarat Lions,7773,Gautam Gambhir,Kolkata Knight Riders
+1082594,2017,50281,Steven Smith,Rising Pune Supergiant,54222,Glenn Maxwell,Kings XI Punjab
+1082595,2017,10125,Shane Watson,Royal Challengers Bangalore,7678,Zaheer Khan,Delhi Daredevils
+1082596,2017,15716,Suresh Raina,Gujarat Lions,48739,David Warner,Sunrisers Hyderabad
+1082597,2017,7773,Gautam Gambhir,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1082598,2017,10125,Shane Watson,Royal Challengers Bangalore,54222,Glenn Maxwell,Kings XI Punjab
+1082599,2017,7678,Zaheer Khan,Delhi Daredevils,51096,Ajinkya Rahane,Rising Pune Supergiant
+1082600,2017,48739,David Warner,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+1082601,2017,54222,Glenn Maxwell,Kings XI Punjab,7773,Gautam Gambhir,Kolkata Knight Riders
+1082602,2017,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1082603,2017,50281,Steven Smith,Rising Pune Supergiant,15716,Suresh Raina,Gujarat Lions
+1082604,2017,7773,Gautam Gambhir,Kolkata Knight Riders,48739,David Warner,Sunrisers Hyderabad
+1082605,2017,7678,Zaheer Khan,Delhi Daredevils,54222,Glenn Maxwell,Kings XI Punjab
+1082606,2017,15716,Suresh Raina,Gujarat Lions,48405,Rohit Sharma,Mumbai Indians
+1082607,2017,50281,Steven Smith,Rising Pune Supergiant,49752,Virat Kohli,Royal Challengers Bangalore
+1082608,2017,7678,Zaheer Khan,Delhi Daredevils,7773,Gautam Gambhir,Kolkata Knight Riders
+1082609,2017,48739,David Warner,Sunrisers Hyderabad,54222,Glenn Maxwell,Kings XI Punjab
+1082610,2017,49752,Virat Kohli,Royal Challengers Bangalore,15716,Suresh Raina,Gujarat Lions
+1082611,2017,48739,David Warner,Sunrisers Hyderabad,7678,Zaheer Khan,Delhi Daredevils
+1082612,2017,54222,Glenn Maxwell,Kings XI Punjab,48405,Rohit Sharma,Mumbai Indians
+1082613,2017,7773,Gautam Gambhir,Kolkata Knight Riders,15716,Suresh Raina,Gujarat Lions
+1082614,2017,48405,Rohit Sharma,Mumbai Indians,7678,Zaheer Khan,Delhi Daredevils
+1082615,2017,48739,David Warner,Sunrisers Hyderabad,50281,Steven Smith,Rising Pune Supergiant
+1082616,2017,54222,Glenn Maxwell,Kings XI Punjab,15716,Suresh Raina,Gujarat Lions
+1082617,2017,7773,Gautam Gambhir,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+1082618,2017,50281,Steven Smith,Rising Pune Supergiant,48405,Rohit Sharma,Mumbai Indians
+1082619,2017,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+1082620,2017,50281,Steven Smith,Rising Pune Supergiant,7773,Gautam Gambhir,Kolkata Knight Riders
+1082621,2017,49752,Virat Kohli,Royal Challengers Bangalore,15716,Suresh Raina,Gujarat Lions
+1082622,2017,7678,Zaheer Khan,Delhi Daredevils,7773,Gautam Gambhir,Kolkata Knight Riders
+1082623,2017,48739,David Warner,Sunrisers Hyderabad,54222,Glenn Maxwell,Kings XI Punjab
+1082624,2017,50281,Steven Smith,Rising Pune Supergiant,49752,Virat Kohli,Royal Challengers Bangalore
+1082625,2017,15716,Suresh Raina,Gujarat Lions,48405,Rohit Sharma,Mumbai Indians
+1082626,2017,59600,Karun Nair,Delhi Daredevils,54222,Glenn Maxwell,Kings XI Punjab
+1082627,2017,48739,David Warner,Sunrisers Hyderabad,7773,Gautam Gambhir,Kolkata Knight Riders
+1082628,2017,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1082629,2017,15716,Suresh Raina,Gujarat Lions,50281,Steven Smith,Rising Pune Supergiant
+1082630,2017,48739,David Warner,Sunrisers Hyderabad,59600,Karun Nair,Delhi Daredevils
+1082631,2017,7773,Gautam Gambhir,Kolkata Knight Riders,50281,Steven Smith,Rising Pune Supergiant
+1082632,2017,15716,Suresh Raina,Gujarat Lions,59600,Karun Nair,Delhi Daredevils
+1082633,2017,54222,Glenn Maxwell,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+1082634,2017,50281,Steven Smith,Rising Pune Supergiant,48739,David Warner,Sunrisers Hyderabad
+1082635,2017,48405,Rohit Sharma,Mumbai Indians,7678,Zaheer Khan,Delhi Daredevils
+1082636,2017,49752,Virat Kohli,Royal Challengers Bangalore,7773,Gautam Gambhir,Kolkata Knight Riders
+1082637,2017,54222,Glenn Maxwell,Kings XI Punjab,15716,Suresh Raina,Gujarat Lions
+1082638,2017,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+1082639,2017,54222,Glenn Maxwell,Kings XI Punjab,7773,Gautam Gambhir,Kolkata Knight Riders
+1082640,2017,15716,Suresh Raina,Gujarat Lions,7678,Zaheer Khan,Delhi Daredevils
+1082641,2017,54222,Glenn Maxwell,Kings XI Punjab,48405,Rohit Sharma,Mumbai Indians
+1082642,2017,7678,Zaheer Khan,Delhi Daredevils,50281,Steven Smith,Rising Pune Supergiant
+1082643,2017,15716,Suresh Raina,Gujarat Lions,48739,David Warner,Sunrisers Hyderabad
+1082644,2017,48405,Rohit Sharma,Mumbai Indians,7773,Gautam Gambhir,Kolkata Knight Riders
+1082645,2017,54222,Glenn Maxwell,Kings XI Punjab,50281,Steven Smith,Rising Pune Supergiant
+1082646,2017,49752,Virat Kohli,Royal Challengers Bangalore,7678,Zaheer Khan,Delhi Daredevils
+1082647,2017,50281,Steven Smith,Rising Pune Supergiant,48405,Rohit Sharma,Mumbai Indians
+1082648,2017,48739,David Warner,Sunrisers Hyderabad,7773,Gautam Gambhir,Kolkata Knight Riders
+1082649,2017,7773,Gautam Gambhir,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1082650,2017,48405,Rohit Sharma,Mumbai Indians,50281,Steven Smith,Rising Pune Supergiant
+1136561,2018,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1136562,2018,7773,Gautam Gambhir,Delhi Daredevils,12894,Ravichandran Ashwin,Kings XI Punjab
+1136563,2018,49752,Virat Kohli,Royal Challengers Bangalore,8813,Dinesh Karthik,Kolkata Knight Riders
+1136564,2018,51096,Ajinkya Rahane,Rajasthan Royals,51088,Kane Williamson,Sunrisers Hyderabad
+1136565,2018,8813,Dinesh Karthik,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1136566,2018,51096,Ajinkya Rahane,Rajasthan Royals,7773,Gautam Gambhir,Delhi Daredevils
+1136567,2018,48405,Rohit Sharma,Mumbai Indians,51088,Kane Williamson,Sunrisers Hyderabad
+1136568,2018,12894,Ravichandran Ashwin,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+1136569,2018,48405,Rohit Sharma,Mumbai Indians,7773,Gautam Gambhir,Delhi Daredevils
+1136570,2018,8813,Dinesh Karthik,Kolkata Knight Riders,51088,Kane Williamson,Sunrisers Hyderabad
+1136571,2018,51096,Ajinkya Rahane,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1136572,2018,12894,Ravichandran Ashwin,Kings XI Punjab,7593,MS Dhoni,Chennai Super Kings
+1136573,2018,8813,Dinesh Karthik,Kolkata Knight Riders,7773,Gautam Gambhir,Delhi Daredevils
+1136574,2018,48405,Rohit Sharma,Mumbai Indians,49752,Virat Kohli,Royal Challengers Bangalore
+1136575,2018,51096,Ajinkya Rahane,Rajasthan Royals,8813,Dinesh Karthik,Kolkata Knight Riders
+1136576,2018,12894,Ravichandran Ashwin,Kings XI Punjab,51088,Kane Williamson,Sunrisers Hyderabad
+1136577,2018,7593,MS Dhoni,Chennai Super Kings,51096,Ajinkya Rahane,Rajasthan Royals
+1136578,2018,8813,Dinesh Karthik,Kolkata Knight Riders,12894,Ravichandran Ashwin,Kings XI Punjab
+1136579,2018,7773,Gautam Gambhir,Delhi Daredevils,49752,Virat Kohli,Royal Challengers Bangalore
+1136580,2018,7593,MS Dhoni,Chennai Super Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1136581,2018,48405,Rohit Sharma,Mumbai Indians,51096,Ajinkya Rahane,Rajasthan Royals
+1136582,2018,12894,Ravichandran Ashwin,Kings XI Punjab,7773,Gautam Gambhir,Delhi Daredevils
+1136583,2018,51088,Kane Williamson,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+1136584,2018,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1136585,2018,51088,Kane Williamson,Sunrisers Hyderabad,12894,Ravichandran Ashwin,Kings XI Punjab
+1136586,2018,71331,Shreyas Iyer,Delhi Daredevils,8813,Dinesh Karthik,Kolkata Knight Riders
+1136587,2018,7593,MS Dhoni,Chennai Super Kings,48405,Rohit Sharma,Mumbai Indians
+1136588,2018,51088,Kane Williamson,Sunrisers Hyderabad,51096,Ajinkya Rahane,Rajasthan Royals
+1136589,2018,49752,Virat Kohli,Royal Challengers Bangalore,8813,Dinesh Karthik,Kolkata Knight Riders
+1136590,2018,7593,MS Dhoni,Chennai Super Kings,71331,Shreyas Iyer,Delhi Daredevils
+1136591,2018,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1136592,2018,71331,Shreyas Iyer,Delhi Daredevils,51096,Ajinkya Rahane,Rajasthan Royals
+1136593,2018,7593,MS Dhoni,Chennai Super Kings,8813,Dinesh Karthik,Kolkata Knight Riders
+1136594,2018,12894,Ravichandran Ashwin,Kings XI Punjab,48405,Rohit Sharma,Mumbai Indians
+1136595,2018,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1136596,2018,71331,Shreyas Iyer,Delhi Daredevils,51088,Kane Williamson,Sunrisers Hyderabad
+1136597,2018,48405,Rohit Sharma,Mumbai Indians,8813,Dinesh Karthik,Kolkata Knight Riders
+1136598,2018,51096,Ajinkya Rahane,Rajasthan Royals,12894,Ravichandran Ashwin,Kings XI Punjab
+1136599,2018,51088,Kane Williamson,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+1136600,2018,51096,Ajinkya Rahane,Rajasthan Royals,12894,Ravichandran Ashwin,Kings XI Punjab
+1136601,2018,48405,Rohit Sharma,Mumbai Indians,8813,Dinesh Karthik,Kolkata Knight Riders
+1136602,2018,71331,Shreyas Iyer,Delhi Daredevils,51088,Kane Williamson,Sunrisers Hyderabad
+1136603,2018,7593,MS Dhoni,Chennai Super Kings,51096,Ajinkya Rahane,Rajasthan Royals
+1136604,2018,8813,Dinesh Karthik,Kolkata Knight Riders,12894,Ravichandran Ashwin,Kings XI Punjab
+1136605,2018,71331,Shreyas Iyer,Delhi Daredevils,49752,Virat Kohli,Royal Challengers Bangalore
+1136606,2018,51088,Kane Williamson,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1136607,2018,48405,Rohit Sharma,Mumbai Indians,51096,Ajinkya Rahane,Rajasthan Royals
+1136608,2018,12894,Ravichandran Ashwin,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+1136609,2018,51096,Ajinkya Rahane,Rajasthan Royals,8813,Dinesh Karthik,Kolkata Knight Riders
+1136610,2018,48405,Rohit Sharma,Mumbai Indians,12894,Ravichandran Ashwin,Kings XI Punjab
+1136611,2018,49752,Virat Kohli,Royal Challengers Bangalore,51088,Kane Williamson,Sunrisers Hyderabad
+1136612,2018,71331,Shreyas Iyer,Delhi Daredevils,7593,MS Dhoni,Chennai Super Kings
+1136613,2018,51096,Ajinkya Rahane,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1136614,2018,51088,Kane Williamson,Sunrisers Hyderabad,8813,Dinesh Karthik,Kolkata Knight Riders
+1136615,2018,71331,Shreyas Iyer,Delhi Daredevils,48405,Rohit Sharma,Mumbai Indians
+1136616,2018,12894,Ravichandran Ashwin,Kings XI Punjab,7593,MS Dhoni,Chennai Super Kings
+1136617,2018,51088,Kane Williamson,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1136618,2018,8813,Dinesh Karthik,Kolkata Knight Riders,51096,Ajinkya Rahane,Rajasthan Royals
+1136619,2018,51088,Kane Williamson,Sunrisers Hyderabad,8813,Dinesh Karthik,Kolkata Knight Riders
+1136620,2018,51088,Kane Williamson,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1175356,2019,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1175357,2019,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad,8813,Dinesh Karthik,Kolkata Knight Riders
+1175358,2019,71331,Shreyas Iyer,Delhi Capitals,48405,Rohit Sharma,Mumbai Indians
+1175359,2019,12894,Ravichandran Ashwin,Kings XI Punjab,51096,Ajinkya Rahane,Rajasthan Royals
+1175360,2019,71331,Shreyas Iyer,Delhi Capitals,7593,MS Dhoni,Chennai Super Kings
+1175361,2019,8813,Dinesh Karthik,Kolkata Knight Riders,12894,Ravichandran Ashwin,Kings XI Punjab
+1175362,2019,48405,Rohit Sharma,Mumbai Indians,49752,Virat Kohli,Royal Challengers Bangalore
+1175363,2019,51096,Ajinkya Rahane,Rajasthan Royals,51088,Kane Williamson,Sunrisers Hyderabad
+1175364,2019,48405,Rohit Sharma,Mumbai Indians,12894,Ravichandran Ashwin,Kings XI Punjab
+1175365,2019,8813,Dinesh Karthik,Kolkata Knight Riders,71331,Shreyas Iyer,Delhi Capitals
+1175366,2019,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+1175367,2019,7593,MS Dhoni,Chennai Super Kings,51096,Ajinkya Rahane,Rajasthan Royals
+1175368,2019,12894,Ravichandran Ashwin,Kings XI Punjab,71331,Shreyas Iyer,Delhi Capitals
+1175369,2019,49752,Virat Kohli,Royal Challengers Bangalore,51096,Ajinkya Rahane,Rajasthan Royals
+1175370,2019,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1175371,2019,71331,Shreyas Iyer,Delhi Capitals,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad
+1175372,2019,49752,Virat Kohli,Royal Challengers Bangalore,8813,Dinesh Karthik,Kolkata Knight Riders
+1178393,2019,7593,MS Dhoni,Chennai Super Kings,12894,Ravichandran Ashwin,Kings XI Punjab
+1178394,2019,48405,Rohit Sharma,Mumbai Indians,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad
+1178395,2019,49752,Virat Kohli,Royal Challengers Bangalore,71331,Shreyas Iyer,Delhi Capitals
+1178396,2019,51096,Ajinkya Rahane,Rajasthan Royals,8813,Dinesh Karthik,Kolkata Knight Riders
+1178397,2019,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad,12894,Ravichandran Ashwin,Kings XI Punjab
+1178398,2019,8813,Dinesh Karthik,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1178399,2019,12894,Ravichandran Ashwin,Kings XI Punjab,49040,Kieron Pollard,Mumbai Indians
+1178400,2019,51096,Ajinkya Rahane,Rajasthan Royals,7593,MS Dhoni,Chennai Super Kings
+1178401,2019,8813,Dinesh Karthik,Kolkata Knight Riders,71331,Shreyas Iyer,Delhi Capitals
+1178402,2019,48405,Rohit Sharma,Mumbai Indians,51096,Ajinkya Rahane,Rajasthan Royals
+1178403,2019,12894,Ravichandran Ashwin,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+1178404,2019,8813,Dinesh Karthik,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1178405,2019,71331,Shreyas Iyer,Delhi Capitals,51088,Kane Williamson,Sunrisers Hyderabad
+1178406,2019,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1178407,2019,12894,Ravichandran Ashwin,Kings XI Punjab,51096,Ajinkya Rahane,Rajasthan Royals
+1178408,2019,15716,Suresh Raina,Chennai Super Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1178409,2019,48405,Rohit Sharma,Mumbai Indians,71331,Shreyas Iyer,Delhi Capitals
+1178410,2019,49752,Virat Kohli,Royal Challengers Bangalore,8813,Dinesh Karthik,Kolkata Knight Riders
+1178411,2019,48405,Rohit Sharma,Mumbai Indians,50281,Steven Smith,Rajasthan Royals
+1178412,2019,12894,Ravichandran Ashwin,Kings XI Punjab,71331,Shreyas Iyer,Delhi Capitals
+1178413,2019,8813,Dinesh Karthik,Kolkata Knight Riders,51088,Kane Williamson,Sunrisers Hyderabad
+1178414,2019,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1178415,2019,50281,Steven Smith,Rajasthan Royals,71331,Shreyas Iyer,Delhi Capitals
+1178416,2019,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1178417,2019,49752,Virat Kohli,Royal Challengers Bangalore,12894,Ravichandran Ashwin,Kings XI Punjab
+1178418,2019,8813,Dinesh Karthik,Kolkata Knight Riders,50281,Steven Smith,Rajasthan Royals
+1178419,2019,48405,Rohit Sharma,Mumbai Indians,15716,Suresh Raina,Chennai Super Kings
+1178420,2019,51088,Kane Williamson,Sunrisers Hyderabad,50281,Steven Smith,Rajasthan Royals
+1178421,2019,71331,Shreyas Iyer,Delhi Capitals,49752,Virat Kohli,Royal Challengers Bangalore
+1178422,2019,8813,Dinesh Karthik,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1178423,2019,51088,Kane Williamson,Sunrisers Hyderabad,12894,Ravichandran Ashwin,Kings XI Punjab
+1178424,2019,49752,Virat Kohli,Royal Challengers Bangalore,50281,Steven Smith,Rajasthan Royals
+1178425,2019,7593,MS Dhoni,Chennai Super Kings,71331,Shreyas Iyer,Delhi Capitals
+1178426,2019,48405,Rohit Sharma,Mumbai Indians,51088,Kane Williamson,Sunrisers Hyderabad
+1178427,2019,12894,Ravichandran Ashwin,Kings XI Punjab,8813,Dinesh Karthik,Kolkata Knight Riders
+1178428,2019,51096,Ajinkya Rahane,Rajasthan Royals,71331,Shreyas Iyer,Delhi Capitals
+1178429,2019,51088,Kane Williamson,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+1178430,2019,7593,MS Dhoni,Chennai Super Kings,12894,Ravichandran Ashwin,Kings XI Punjab
+1178431,2019,8813,Dinesh Karthik,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1181764,2019,7593,MS Dhoni,Chennai Super Kings,48405,Rohit Sharma,Mumbai Indians
+1181766,2019,51088,Kane Williamson,Sunrisers Hyderabad,71331,Shreyas Iyer,Delhi Capitals
+1181767,2019,71331,Shreyas Iyer,Delhi Capitals,7593,MS Dhoni,Chennai Super Kings
+1181768,2019,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1216492,2020,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1216493,2020,71331,Shreyas Iyer,Delhi Capitals,60530,KL Rahul,Kings XI Punjab
+1216494,2020,47055,Eoin Morgan,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+1216495,2020,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+1216496,2020,50281,Steven Smith,Rajasthan Royals,7593,MS Dhoni,Chennai Super Kings
+1216497,2020,47055,Eoin Morgan,Kolkata Knight Riders,71331,Shreyas Iyer,Delhi Capitals
+1216498,2020,60530,KL Rahul,Kings XI Punjab,48739,David Warner,Sunrisers Hyderabad
+1216499,2020,49752,Virat Kohli,Royal Challengers Bangalore,49040,Kieron Pollard,Mumbai Indians
+1216500,2020,71331,Shreyas Iyer,Delhi Capitals,50281,Steven Smith,Rajasthan Royals
+1216501,2020,8813,Dinesh Karthik,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1216502,2020,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+1216503,2020,48405,Rohit Sharma,Mumbai Indians,60530,KL Rahul,Kings XI Punjab
+1216504,2020,8813,Dinesh Karthik,Kolkata Knight Riders,50281,Steven Smith,Rajasthan Royals
+1216505,2020,49752,Virat Kohli,Royal Challengers Bangalore,71331,Shreyas Iyer,Delhi Capitals
+1216506,2020,60530,KL Rahul,Kings XI Punjab,7593,MS Dhoni,Chennai Super Kings
+1216507,2020,48739,David Warner,Sunrisers Hyderabad,50281,Steven Smith,Rajasthan Royals
+1216508,2020,48405,Rohit Sharma,Mumbai Indians,8813,Dinesh Karthik,Kolkata Knight Riders
+1216509,2020,7593,MS Dhoni,Chennai Super Kings,71331,Shreyas Iyer,Delhi Capitals
+1216510,2020,60530,KL Rahul,Kings XI Punjab,49752,Virat Kohli,Royal Challengers Bangalore
+1216511,2020,48405,Rohit Sharma,Mumbai Indians,50281,Steven Smith,Rajasthan Royals
+1216512,2020,47055,Eoin Morgan,Kolkata Knight Riders,48739,David Warner,Sunrisers Hyderabad
+1216513,2020,60530,KL Rahul,Kings XI Punjab,7593,MS Dhoni,Chennai Super Kings
+1216514,2020,50281,Steven Smith,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1216515,2020,71331,Shreyas Iyer,Delhi Capitals,8813,Dinesh Karthik,Kolkata Knight Riders
+1216516,2020,48739,David Warner,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1216517,2020,48405,Rohit Sharma,Mumbai Indians,60530,KL Rahul,Kings XI Punjab
+1216518,2020,50281,Steven Smith,Rajasthan Royals,48739,David Warner,Sunrisers Hyderabad
+1216519,2020,71331,Shreyas Iyer,Delhi Capitals,49752,Virat Kohli,Royal Challengers Bangalore
+1216520,2020,47055,Eoin Morgan,Kolkata Knight Riders,60530,KL Rahul,Kings XI Punjab
+1216521,2020,7593,MS Dhoni,Chennai Super Kings,49040,Kieron Pollard,Mumbai Indians
+1216522,2020,50281,Steven Smith,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1216523,2020,8813,Dinesh Karthik,Kolkata Knight Riders,60530,KL Rahul,Kings XI Punjab
+1216524,2020,48739,David Warner,Sunrisers Hyderabad,71331,Shreyas Iyer,Delhi Capitals
+1216525,2020,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1216526,2020,47055,Eoin Morgan,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1216527,2020,60530,KL Rahul,Kings XI Punjab,50281,Steven Smith,Rajasthan Royals
+1216528,2020,7593,MS Dhoni,Chennai Super Kings,48739,David Warner,Sunrisers Hyderabad
+1216529,2020,71331,Shreyas Iyer,Delhi Capitals,48405,Rohit Sharma,Mumbai Indians
+1216530,2020,47055,Eoin Morgan,Kolkata Knight Riders,50281,Steven Smith,Rajasthan Royals
+1216531,2020,49752,Virat Kohli,Royal Challengers Bangalore,60530,KL Rahul,Kings XI Punjab
+1216532,2020,48739,David Warner,Sunrisers Hyderabad,71331,Shreyas Iyer,Delhi Capitals
+1216533,2020,7593,MS Dhoni,Chennai Super Kings,50281,Steven Smith,Rajasthan Royals
+1216534,2020,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+1216535,2020,71331,Shreyas Iyer,Delhi Capitals,49040,Kieron Pollard,Mumbai Indians
+1216536,2020,47055,Eoin Morgan,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1216537,2020,60530,KL Rahul,Kings XI Punjab,50281,Steven Smith,Rajasthan Royals
+1216538,2020,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+1216539,2020,71331,Shreyas Iyer,Delhi Capitals,7593,MS Dhoni,Chennai Super Kings
+1216540,2020,49752,Virat Kohli,Royal Challengers Bangalore,8813,Dinesh Karthik,Kolkata Knight Riders
+1216541,2020,49040,Kieron Pollard,Mumbai Indians,50281,Steven Smith,Rajasthan Royals
+1216542,2020,48739,David Warner,Sunrisers Hyderabad,60530,KL Rahul,Kings XI Punjab
+1216543,2020,71331,Shreyas Iyer,Delhi Capitals,50281,Steven Smith,Rajasthan Royals
+1216544,2020,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1216545,2020,48739,David Warner,Sunrisers Hyderabad,8813,Dinesh Karthik,Kolkata Knight Riders
+1216546,2020,71331,Shreyas Iyer,Delhi Capitals,60530,KL Rahul,Kings XI Punjab
+1216547,2020,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1237177,2020,48405,Rohit Sharma,Mumbai Indians,71331,Shreyas Iyer,Delhi Capitals
+1237178,2020,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+1237180,2020,71331,Shreyas Iyer,Delhi Capitals,48739,David Warner,Sunrisers Hyderabad
+1237181,2020,71331,Shreyas Iyer,Delhi Capitals,48405,Rohit Sharma,Mumbai Indians
+1254058,2021,48405,Rohit Sharma,Mumbai Indians,49752,Virat Kohli,Royal Challengers Bangalore
+1254059,2021,7593,MS Dhoni,Chennai Super Kings,86165,Rishabh Pant,Delhi Capitals
+1254060,2021,47055,Eoin Morgan,Kolkata Knight Riders,48739,David Warner,Sunrisers Hyderabad
+1254061,2021,60530,KL Rahul,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1254062,2021,48405,Rohit Sharma,Mumbai Indians,47055,Eoin Morgan,Kolkata Knight Riders
+1254063,2021,49752,Virat Kohli,Royal Challengers Bangalore,48739,David Warner,Sunrisers Hyderabad
+1254064,2021,86165,Rishabh Pant,Delhi Capitals,60806,Sanju Samson,Rajasthan Royals
+1254065,2021,60530,KL Rahul,Punjab Kings,7593,MS Dhoni,Chennai Super Kings
+1254066,2021,48405,Rohit Sharma,Mumbai Indians,48739,David Warner,Sunrisers Hyderabad
+1254067,2021,49752,Virat Kohli,Royal Challengers Bangalore,47055,Eoin Morgan,Kolkata Knight Riders
+1254068,2021,60530,KL Rahul,Punjab Kings,86165,Rishabh Pant,Delhi Capitals
+1254069,2021,7593,MS Dhoni,Chennai Super Kings,60806,Sanju Samson,Rajasthan Royals
+1254070,2021,48405,Rohit Sharma,Mumbai Indians,86165,Rishabh Pant,Delhi Capitals
+1254071,2021,60530,KL Rahul,Punjab Kings,48739,David Warner,Sunrisers Hyderabad
+1254072,2021,7593,MS Dhoni,Chennai Super Kings,47055,Eoin Morgan,Kolkata Knight Riders
+1254073,2021,60806,Sanju Samson,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1254074,2021,48405,Rohit Sharma,Mumbai Indians,60530,KL Rahul,Punjab Kings
+1254075,2021,47055,Eoin Morgan,Kolkata Knight Riders,60806,Sanju Samson,Rajasthan Royals
+1254076,2021,7593,MS Dhoni,Chennai Super Kings,49752,Virat Kohli,Royal Challengers Bangalore
+1254077,2021,86165,Rishabh Pant,Delhi Capitals,48739,David Warner,Sunrisers Hyderabad
+1254078,2021,60530,KL Rahul,Punjab Kings,47055,Eoin Morgan,Kolkata Knight Riders
+1254079,2021,49752,Virat Kohli,Royal Challengers Bangalore,86165,Rishabh Pant,Delhi Capitals
+1254080,2021,48739,David Warner,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1254081,2021,60806,Sanju Samson,Rajasthan Royals,48405,Rohit Sharma,Mumbai Indians
+1254082,2021,47055,Eoin Morgan,Kolkata Knight Riders,86165,Rishabh Pant,Delhi Capitals
+1254083,2021,60530,KL Rahul,Punjab Kings,49752,Virat Kohli,Royal Challengers Bangalore
+1254084,2021,7593,MS Dhoni,Chennai Super Kings,48405,Rohit Sharma,Mumbai Indians
+1254085,2021,60806,Sanju Samson,Rajasthan Royals,51088,Kane Williamson,Sunrisers Hyderabad
+1254086,2021,59599,Mayank Agarwal,Punjab Kings,86165,Rishabh Pant,Delhi Capitals
+1254087,2021,49752,Virat Kohli,Royal Challengers Bangalore,47055,Eoin Morgan,Kolkata Knight Riders
+1254088,2021,48405,Rohit Sharma,Mumbai Indians,51454,Manish Pandey,Sunrisers Hyderabad
+1254089,2021,7593,MS Dhoni,Chennai Super Kings,60806,Sanju Samson,Rajasthan Royals
+1254090,2021,49752,Virat Kohli,Royal Challengers Bangalore,60530,KL Rahul,Punjab Kings
+1254091,2021,51088,Kane Williamson,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1254092,2021,86165,Rishabh Pant,Delhi Capitals,47055,Eoin Morgan,Kolkata Knight Riders
+1254093,2021,60806,Sanju Samson,Rajasthan Royals,48405,Rohit Sharma,Mumbai Indians
+1254094,2021,7593,MS Dhoni,Chennai Super Kings,60530,KL Rahul,Punjab Kings
+1254095,2021,51088,Kane Williamson,Sunrisers Hyderabad,49752,Virat Kohli,Royal Challengers Bangalore
+1254096,2021,48405,Rohit Sharma,Mumbai Indians,47055,Eoin Morgan,Kolkata Knight Riders
+1254097,2021,86165,Rishabh Pant,Delhi Capitals,60806,Sanju Samson,Rajasthan Royals
+1254098,2021,47055,Eoin Morgan,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1254099,2021,60530,KL Rahul,Punjab Kings,48405,Rohit Sharma,Mumbai Indians
+1254100,2021,60806,Sanju Samson,Rajasthan Royals,51088,Kane Williamson,Sunrisers Hyderabad
+1254101,2021,86165,Rishabh Pant,Delhi Capitals,49752,Virat Kohli,Royal Challengers Bangalore
+1254102,2021,47055,Eoin Morgan,Kolkata Knight Riders,60530,KL Rahul,Punjab Kings
+1254103,2021,60806,Sanju Samson,Rajasthan Royals,49752,Virat Kohli,Royal Challengers Bangalore
+1254104,2021,7593,MS Dhoni,Chennai Super Kings,49040,Kieron Pollard,Mumbai Indians
+1254105,2021,51088,Kane Williamson,Sunrisers Hyderabad,86165,Rishabh Pant,Delhi Capitals
+1254106,2021,47055,Eoin Morgan,Kolkata Knight Riders,60806,Sanju Samson,Rajasthan Royals
+1254107,2021,60530,KL Rahul,Punjab Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1254108,2021,49752,Virat Kohli,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1254109,2021,51088,Kane Williamson,Sunrisers Hyderabad,47055,Eoin Morgan,Kolkata Knight Riders
+1254110,2021,7593,MS Dhoni,Chennai Super Kings,86165,Rishabh Pant,Delhi Capitals
+1254111,2021,60806,Sanju Samson,Rajasthan Royals,60530,KL Rahul,Punjab Kings
+1254112,2021,48405,Rohit Sharma,Mumbai Indians,86165,Rishabh Pant,Delhi Capitals
+1254113,2021,49752,Virat Kohli,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1254114,2021,86165,Rishabh Pant,Delhi Capitals,7593,MS Dhoni,Chennai Super Kings
+1254115,2021,49752,Virat Kohli,Royal Challengers Bangalore,47055,Eoin Morgan,Kolkata Knight Riders
+1254116,2021,86165,Rishabh Pant,Delhi Capitals,47055,Eoin Morgan,Kolkata Knight Riders
+1254117,2021,7593,MS Dhoni,Chennai Super Kings,47055,Eoin Morgan,Kolkata Knight Riders
+1304047,2022,49247,Ravindra Jadeja,Chennai Super Kings,71331,Shreyas Iyer,Kolkata Knight Riders
+1304048,2022,48405,Rohit Sharma,Mumbai Indians,86165,Rishabh Pant,Delhi Capitals
+1304049,2022,46933,Faf du Plessis,Royal Challengers Bangalore,59599,Mayank Agarwal,Punjab Kings
+1304050,2022,60530,KL Rahul,Lucknow Super Giants,70633,Hardik Pandya,Gujarat Titans
+1304051,2022,60806,Sanju Samson,Rajasthan Royals,51088,Kane Williamson,Sunrisers Hyderabad
+1304052,2022,71331,Shreyas Iyer,Kolkata Knight Riders,46933,Faf du Plessis,Royal Challengers Bangalore
+1304053,2022,49247,Ravindra Jadeja,Chennai Super Kings,60530,KL Rahul,Lucknow Super Giants
+1304054,2022,59599,Mayank Agarwal,Punjab Kings,71331,Shreyas Iyer,Kolkata Knight Riders
+1304055,2022,60806,Sanju Samson,Rajasthan Royals,48405,Rohit Sharma,Mumbai Indians
+1304056,2022,70633,Hardik Pandya,Gujarat Titans,86165,Rishabh Pant,Delhi Capitals
+1304057,2022,59599,Mayank Agarwal,Punjab Kings,49247,Ravindra Jadeja,Chennai Super Kings
+1304058,2022,60530,KL Rahul,Lucknow Super Giants,51088,Kane Williamson,Sunrisers Hyderabad
+1304059,2022,60806,Sanju Samson,Rajasthan Royals,46933,Faf du Plessis,Royal Challengers Bangalore
+1304060,2022,48405,Rohit Sharma,Mumbai Indians,71331,Shreyas Iyer,Kolkata Knight Riders
+1304061,2022,86165,Rishabh Pant,Delhi Capitals,60530,KL Rahul,Lucknow Super Giants
+1304062,2022,59599,Mayank Agarwal,Punjab Kings,70633,Hardik Pandya,Gujarat Titans
+1304063,2022,49247,Ravindra Jadeja,Chennai Super Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1304064,2022,48405,Rohit Sharma,Mumbai Indians,46933,Faf du Plessis,Royal Challengers Bangalore
+1304065,2022,86165,Rishabh Pant,Delhi Capitals,71331,Shreyas Iyer,Kolkata Knight Riders
+1304066,2022,60806,Sanju Samson,Rajasthan Royals,60530,KL Rahul,Lucknow Super Giants
+1304067,2022,70633,Hardik Pandya,Gujarat Titans,51088,Kane Williamson,Sunrisers Hyderabad
+1304068,2022,49247,Ravindra Jadeja,Chennai Super Kings,46933,Faf du Plessis,Royal Challengers Bangalore
+1304069,2022,59599,Mayank Agarwal,Punjab Kings,48405,Rohit Sharma,Mumbai Indians
+1304070,2022,70633,Hardik Pandya,Gujarat Titans,60806,Sanju Samson,Rajasthan Royals
+1304071,2022,71331,Shreyas Iyer,Kolkata Knight Riders,51088,Kane Williamson,Sunrisers Hyderabad
+1304072,2022,60530,KL Rahul,Lucknow Super Giants,48405,Rohit Sharma,Mumbai Indians
+1304073,2022,46933,Faf du Plessis,Royal Challengers Bangalore,86165,Rishabh Pant,Delhi Capitals
+1304074,2022,15887,Shikhar Dhawan,Punjab Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1304075,2022,49247,Ravindra Jadeja,Chennai Super Kings,79159,Rashid Khan,Gujarat Titans
+1304076,2022,60806,Sanju Samson,Rajasthan Royals,71331,Shreyas Iyer,Kolkata Knight Riders
+1304077,2022,46933,Faf du Plessis,Royal Challengers Bangalore,60530,KL Rahul,Lucknow Super Giants
+1304078,2022,59599,Mayank Agarwal,Punjab Kings,86165,Rishabh Pant,Delhi Capitals
+1304079,2022,48405,Rohit Sharma,Mumbai Indians,49247,Ravindra Jadeja,Chennai Super Kings
+1304080,2022,60806,Sanju Samson,Rajasthan Royals,86165,Rishabh Pant,Delhi Capitals
+1304081,2022,70633,Hardik Pandya,Gujarat Titans,71331,Shreyas Iyer,Kolkata Knight Riders
+1304082,2022,46933,Faf du Plessis,Royal Challengers Bangalore,51088,Kane Williamson,Sunrisers Hyderabad
+1304083,2022,60530,KL Rahul,Lucknow Super Giants,48405,Rohit Sharma,Mumbai Indians
+1304084,2022,59599,Mayank Agarwal,Punjab Kings,49247,Ravindra Jadeja,Chennai Super Kings
+1304085,2022,60806,Sanju Samson,Rajasthan Royals,46933,Faf du Plessis,Royal Challengers Bangalore
+1304086,2022,51088,Kane Williamson,Sunrisers Hyderabad,70633,Hardik Pandya,Gujarat Titans
+1304087,2022,71331,Shreyas Iyer,Kolkata Knight Riders,86165,Rishabh Pant,Delhi Capitals
+1304088,2022,60530,KL Rahul,Lucknow Super Giants,59599,Mayank Agarwal,Punjab Kings
+1304089,2022,46933,Faf du Plessis,Royal Challengers Bangalore,70633,Hardik Pandya,Gujarat Titans
+1304090,2022,60806,Sanju Samson,Rajasthan Royals,48405,Rohit Sharma,Mumbai Indians
+1304091,2022,60530,KL Rahul,Lucknow Super Giants,86165,Rishabh Pant,Delhi Capitals
+1304092,2022,7593,MS Dhoni,Chennai Super Kings,51088,Kane Williamson,Sunrisers Hyderabad
+1304093,2022,60806,Sanju Samson,Rajasthan Royals,71331,Shreyas Iyer,Kolkata Knight Riders
+1304094,2022,70633,Hardik Pandya,Gujarat Titans,59599,Mayank Agarwal,Punjab Kings
+1304095,2022,46933,Faf du Plessis,Royal Challengers Bangalore,7593,MS Dhoni,Chennai Super Kings
+1304096,2022,86165,Rishabh Pant,Delhi Capitals,51088,Kane Williamson,Sunrisers Hyderabad
+1304097,2022,48405,Rohit Sharma,Mumbai Indians,70633,Hardik Pandya,Gujarat Titans
+1304098,2022,59599,Mayank Agarwal,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1304099,2022,60530,KL Rahul,Lucknow Super Giants,71331,Shreyas Iyer,Kolkata Knight Riders
+1304100,2022,46933,Faf du Plessis,Royal Challengers Bangalore,51088,Kane Williamson,Sunrisers Hyderabad
+1304101,2022,7593,MS Dhoni,Chennai Super Kings,86165,Rishabh Pant,Delhi Capitals
+1304102,2022,71331,Shreyas Iyer,Kolkata Knight Riders,48405,Rohit Sharma,Mumbai Indians
+1304103,2022,70633,Hardik Pandya,Gujarat Titans,60530,KL Rahul,Lucknow Super Giants
+1304104,2022,60806,Sanju Samson,Rajasthan Royals,86165,Rishabh Pant,Delhi Capitals
+1304105,2022,7593,MS Dhoni,Chennai Super Kings,48405,Rohit Sharma,Mumbai Indians
+1304106,2022,59599,Mayank Agarwal,Punjab Kings,46933,Faf du Plessis,Royal Challengers Bangalore
+1304107,2022,71331,Shreyas Iyer,Kolkata Knight Riders,51088,Kane Williamson,Sunrisers Hyderabad
+1304108,2022,7593,MS Dhoni,Chennai Super Kings,70633,Hardik Pandya,Gujarat Titans
+1304109,2022,60806,Sanju Samson,Rajasthan Royals,60530,KL Rahul,Lucknow Super Giants
+1304110,2022,86165,Rishabh Pant,Delhi Capitals,59599,Mayank Agarwal,Punjab Kings
+1304111,2022,51088,Kane Williamson,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+1304112,2022,60530,KL Rahul,Lucknow Super Giants,71331,Shreyas Iyer,Kolkata Knight Riders
+1304113,2022,70633,Hardik Pandya,Gujarat Titans,46933,Faf du Plessis,Royal Challengers Bangalore
+1304114,2022,7593,MS Dhoni,Chennai Super Kings,60806,Sanju Samson,Rajasthan Royals
+1304115,2022,86165,Rishabh Pant,Delhi Capitals,48405,Rohit Sharma,Mumbai Indians
+1304116,2022,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad,59599,Mayank Agarwal,Punjab Kings
+1312197,2022,60806,Sanju Samson,Rajasthan Royals,70633,Hardik Pandya,Gujarat Titans
+1312198,2022,46933,Faf du Plessis,Royal Challengers Bangalore,60530,KL Rahul,Lucknow Super Giants
+1312199,2022,46933,Faf du Plessis,Royal Challengers Bangalore,60806,Sanju Samson,Rajasthan Royals
+1312200,2022,60806,Sanju Samson,Rajasthan Royals,70633,Hardik Pandya,Gujarat Titans
+1359475,2023,7593,MS Dhoni,Chennai Super Kings,70633,Hardik Pandya,Gujarat Titans
+1359476,2023,15887,Shikhar Dhawan,Punjab Kings,70411,Nitish Rana,Kolkata Knight Riders
+1359477,2023,60530,KL Rahul,Lucknow Super Giants,48739,David Warner,Delhi Capitals
+1359478,2023,60806,Sanju Samson,Rajasthan Royals,54282,Bhuvneshwar Kumar,Sunrisers Hyderabad
+1359479,2023,48405,Rohit Sharma,Mumbai Indians,46933,Faf du Plessis,Royal Challengers Bangalore
+1359480,2023,7593,MS Dhoni,Chennai Super Kings,60530,KL Rahul,Lucknow Super Giants
+1359481,2023,48739,David Warner,Delhi Capitals,70633,Hardik Pandya,Gujarat Titans
+1359482,2023,15887,Shikhar Dhawan,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1359483,2023,70411,Nitish Rana,Kolkata Knight Riders,46933,Faf du Plessis,Royal Challengers Bangalore
+1359484,2023,70277,Aiden Markram,Sunrisers Hyderabad,60530,KL Rahul,Lucknow Super Giants
+1359485,2023,60806,Sanju Samson,Rajasthan Royals,48739,David Warner,Delhi Capitals
+1359486,2023,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1359487,2023,79159,Rashid Khan,Gujarat Titans,70411,Nitish Rana,Kolkata Knight Riders
+1359488,2023,15887,Shikhar Dhawan,Punjab Kings,70277,Aiden Markram,Sunrisers Hyderabad
+1359489,2023,46933,Faf du Plessis,Royal Challengers Bangalore,60530,KL Rahul,Lucknow Super Giants
+1359490,2023,48739,David Warner,Delhi Capitals,48405,Rohit Sharma,Mumbai Indians
+1359491,2023,60806,Sanju Samson,Rajasthan Royals,7593,MS Dhoni,Chennai Super Kings
+1359492,2023,15887,Shikhar Dhawan,Punjab Kings,70633,Hardik Pandya,Gujarat Titans
+1359493,2023,70277,Aiden Markram,Sunrisers Hyderabad,70411,Nitish Rana,Kolkata Knight Riders
+1359494,2023,46933,Faf du Plessis,Royal Challengers Bangalore,48739,David Warner,Delhi Capitals
+1359495,2023,60530,KL Rahul,Lucknow Super Giants,72103,Sam Curran,Punjab Kings
+1359496,2023,70411,Nitish Rana,Kolkata Knight Riders,61990,Suryakumar Yadav,Mumbai Indians
+1359497,2023,70633,Hardik Pandya,Gujarat Titans,60806,Sanju Samson,Rajasthan Royals
+1359498,2023,7593,MS Dhoni,Chennai Super Kings,46933,Faf du Plessis,Royal Challengers Bangalore
+1359499,2023,48405,Rohit Sharma,Mumbai Indians,70277,Aiden Markram,Sunrisers Hyderabad
+1359500,2023,60530,KL Rahul,Lucknow Super Giants,60806,Sanju Samson,Rajasthan Royals
+1359501,2023,49752,Virat Kohli,Royal Challengers Bangalore,72103,Sam Curran,Punjab Kings
+1359502,2023,70411,Nitish Rana,Kolkata Knight Riders,48739,David Warner,Delhi Capitals
+1359503,2023,70277,Aiden Markram,Sunrisers Hyderabad,7593,MS Dhoni,Chennai Super Kings
+1359504,2023,70633,Hardik Pandya,Gujarat Titans,60530,KL Rahul,Lucknow Super Giants
+1359505,2023,72103,Sam Curran,Punjab Kings,48405,Rohit Sharma,Mumbai Indians
+1359506,2023,49752,Virat Kohli,Royal Challengers Bangalore,60806,Sanju Samson,Rajasthan Royals
+1359507,2023,7593,MS Dhoni,Chennai Super Kings,70411,Nitish Rana,Kolkata Knight Riders
+1359508,2023,48739,David Warner,Delhi Capitals,70277,Aiden Markram,Sunrisers Hyderabad
+1359509,2023,70633,Hardik Pandya,Gujarat Titans,48405,Rohit Sharma,Mumbai Indians
+1359510,2023,70411,Nitish Rana,Kolkata Knight Riders,49752,Virat Kohli,Royal Challengers Bangalore
+1359511,2023,60806,Sanju Samson,Rajasthan Royals,7593,MS Dhoni,Chennai Super Kings
+1359512,2023,60530,KL Rahul,Lucknow Super Giants,15887,Shikhar Dhawan,Punjab Kings
+1359513,2023,70411,Nitish Rana,Kolkata Knight Riders,70633,Hardik Pandya,Gujarat Titans
+1359514,2023,70277,Aiden Markram,Sunrisers Hyderabad,48739,David Warner,Delhi Capitals
+1359515,2023,7593,MS Dhoni,Chennai Super Kings,15887,Shikhar Dhawan,Punjab Kings
+1359516,2023,60806,Sanju Samson,Rajasthan Royals,48405,Rohit Sharma,Mumbai Indians
+1359517,2023,46933,Faf du Plessis,Royal Challengers Bangalore,60530,KL Rahul,Lucknow Super Giants
+1359518,2023,48739,David Warner,Delhi Capitals,70633,Hardik Pandya,Gujarat Titans
+1359519,2023,63224,Krunal Pandya,Lucknow Super Giants,7593,MS Dhoni,Chennai Super Kings
+1359520,2023,15887,Shikhar Dhawan,Punjab Kings,48405,Rohit Sharma,Mumbai Indians
+1359521,2023,70411,Nitish Rana,Kolkata Knight Riders,70277,Aiden Markram,Sunrisers Hyderabad
+1359522,2023,60806,Sanju Samson,Rajasthan Royals,70633,Hardik Pandya,Gujarat Titans
+1359523,2023,48405,Rohit Sharma,Mumbai Indians,7593,MS Dhoni,Chennai Super Kings
+1359524,2023,46933,Faf du Plessis,Royal Challengers Bangalore,48739,David Warner,Delhi Capitals
+1359525,2023,70633,Hardik Pandya,Gujarat Titans,63224,Krunal Pandya,Lucknow Super Giants
+1359526,2023,60806,Sanju Samson,Rajasthan Royals,70277,Aiden Markram,Sunrisers Hyderabad
+1359527,2023,15887,Shikhar Dhawan,Punjab Kings,70411,Nitish Rana,Kolkata Knight Riders
+1359528,2023,46933,Faf du Plessis,Royal Challengers Bangalore,48405,Rohit Sharma,Mumbai Indians
+1359529,2023,7593,MS Dhoni,Chennai Super Kings,48739,David Warner,Delhi Capitals
+1359530,2023,70411,Nitish Rana,Kolkata Knight Riders,60806,Sanju Samson,Rajasthan Royals
+1359531,2023,48405,Rohit Sharma,Mumbai Indians,70633,Hardik Pandya,Gujarat Titans
+1359532,2023,70277,Aiden Markram,Sunrisers Hyderabad,63224,Krunal Pandya,Lucknow Super Giants
+1359533,2023,15887,Shikhar Dhawan,Punjab Kings,48739,David Warner,Delhi Capitals
+1359534,2023,46933,Faf du Plessis,Royal Challengers Bangalore,60806,Sanju Samson,Rajasthan Royals
+1359535,2023,7593,MS Dhoni,Chennai Super Kings,70411,Nitish Rana,Kolkata Knight Riders
+1359536,2023,70633,Hardik Pandya,Gujarat Titans,70277,Aiden Markram,Sunrisers Hyderabad
+1359537,2023,63224,Krunal Pandya,Lucknow Super Giants,48405,Rohit Sharma,Mumbai Indians
+1359538,2023,48739,David Warner,Delhi Capitals,15887,Shikhar Dhawan,Punjab Kings
+1359539,2023,70277,Aiden Markram,Sunrisers Hyderabad,46933,Faf du Plessis,Royal Challengers Bangalore
+1359540,2023,15887,Shikhar Dhawan,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1359541,2023,7593,MS Dhoni,Chennai Super Kings,48739,David Warner,Delhi Capitals
+1359542,2023,63224,Krunal Pandya,Lucknow Super Giants,70411,Nitish Rana,Kolkata Knight Riders
+1359543,2023,70277,Aiden Markram,Sunrisers Hyderabad,48405,Rohit Sharma,Mumbai Indians
+1359544,2023,46933,Faf du Plessis,Royal Challengers Bangalore,70633,Hardik Pandya,Gujarat Titans
+1370350,2023,7593,MS Dhoni,Chennai Super Kings,70633,Hardik Pandya,Gujarat Titans
+1370351,2023,48405,Rohit Sharma,Mumbai Indians,63224,Krunal Pandya,Lucknow Super Giants
+1370352,2023,70633,Hardik Pandya,Gujarat Titans,48405,Rohit Sharma,Mumbai Indians
+1370353,2023,70633,Hardik Pandya,Gujarat Titans,7593,MS Dhoni,Chennai Super Kings
+1422119,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,95094,Ruturaj Gaikwad,Chennai Super Kings
+1422120,2024,86165,Rishabh Pant,Delhi Capitals,15887,Shikhar Dhawan,Punjab Kings
+1422121,2024,71331,Shreyas Iyer,Kolkata Knight Riders,64244,Pat Cummins,Sunrisers Hyderabad
+1422122,2024,60806,Sanju Samson,Rajasthan Royals,60530,KL Rahul,Lucknow Super Giants
+1422123,2024,95316,Shubman Gill,Gujarat Titans,70633,Hardik Pandya,Mumbai Indians
+1422124,2024,15887,Shikhar Dhawan,Punjab Kings,46933,Faf du Plessis,Royal Challengers Bengaluru
+1422125,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,95316,Shubman Gill,Gujarat Titans
+1422126,2024,64244,Pat Cummins,Sunrisers Hyderabad,70633,Hardik Pandya,Mumbai Indians
+1422127,2024,60806,Sanju Samson,Rajasthan Royals,86165,Rishabh Pant,Delhi Capitals
+1422128,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,71331,Shreyas Iyer,Kolkata Knight Riders
+1422129,2024,70405,Nicholas Pooran,Lucknow Super Giants,15887,Shikhar Dhawan,Punjab Kings
+1422130,2024,64244,Pat Cummins,Sunrisers Hyderabad,95316,Shubman Gill,Gujarat Titans
+1422131,2024,86165,Rishabh Pant,Delhi Capitals,95094,Ruturaj Gaikwad,Chennai Super Kings
+1422132,2024,70633,Hardik Pandya,Mumbai Indians,60806,Sanju Samson,Rajasthan Royals
+1422133,2024,60530,KL Rahul,Lucknow Super Giants,46933,Faf du Plessis,Royal Challengers Bengaluru
+1422134,2024,71331,Shreyas Iyer,Kolkata Knight Riders,86165,Rishabh Pant,Delhi Capitals
+1422135,2024,95316,Shubman Gill,Gujarat Titans,15887,Shikhar Dhawan,Punjab Kings
+1422136,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,64244,Pat Cummins,Sunrisers Hyderabad
+1422137,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,60806,Sanju Samson,Rajasthan Royals
+1422138,2024,70633,Hardik Pandya,Mumbai Indians,86165,Rishabh Pant,Delhi Capitals
+1422139,2024,60530,KL Rahul,Lucknow Super Giants,95316,Shubman Gill,Gujarat Titans
+1426260,2024,71331,Shreyas Iyer,Kolkata Knight Riders,95094,Ruturaj Gaikwad,Chennai Super Kings
+1426261,2024,64244,Pat Cummins,Sunrisers Hyderabad,15887,Shikhar Dhawan,Punjab Kings
+1426262,2024,60806,Sanju Samson,Rajasthan Royals,95316,Shubman Gill,Gujarat Titans
+1426263,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,70633,Hardik Pandya,Mumbai Indians
+1426264,2024,60530,KL Rahul,Lucknow Super Giants,86165,Rishabh Pant,Delhi Capitals
+1426265,2024,72103,Sam Curran,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1426266,2024,60530,KL Rahul,Lucknow Super Giants,71331,Shreyas Iyer,Kolkata Knight Riders
+1426267,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,70633,Hardik Pandya,Mumbai Indians
+1426268,2024,64244,Pat Cummins,Sunrisers Hyderabad,46933,Faf du Plessis,Royal Challengers Bengaluru
+1426269,2024,71331,Shreyas Iyer,Kolkata Knight Riders,60806,Sanju Samson,Rajasthan Royals
+1426270,2024,95316,Shubman Gill,Gujarat Titans,86165,Rishabh Pant,Delhi Capitals
+1426271,2024,70633,Hardik Pandya,Mumbai Indians,72103,Sam Curran,Punjab Kings
+1426272,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,60530,KL Rahul,Lucknow Super Giants
+1426273,2024,64244,Pat Cummins,Sunrisers Hyderabad,86165,Rishabh Pant,Delhi Capitals
+1426274,2024,71331,Shreyas Iyer,Kolkata Knight Riders,46933,Faf du Plessis,Royal Challengers Bengaluru
+1426275,2024,72103,Sam Curran,Punjab Kings,95316,Shubman Gill,Gujarat Titans
+1426276,2024,70633,Hardik Pandya,Mumbai Indians,60806,Sanju Samson,Rajasthan Royals
+1426277,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,60530,KL Rahul,Lucknow Super Giants
+1426278,2024,86165,Rishabh Pant,Delhi Capitals,95316,Shubman Gill,Gujarat Titans
+1426279,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,64244,Pat Cummins,Sunrisers Hyderabad
+1426280,2024,71331,Shreyas Iyer,Kolkata Knight Riders,72103,Sam Curran,Punjab Kings
+1426281,2024,86165,Rishabh Pant,Delhi Capitals,70633,Hardik Pandya,Mumbai Indians
+1426282,2024,60530,KL Rahul,Lucknow Super Giants,60806,Sanju Samson,Rajasthan Royals
+1426283,2024,95316,Shubman Gill,Gujarat Titans,46933,Faf du Plessis,Royal Challengers Bengaluru
+1426284,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,64244,Pat Cummins,Sunrisers Hyderabad
+1426285,2024,86165,Rishabh Pant,Delhi Capitals,71331,Shreyas Iyer,Kolkata Knight Riders
+1426286,2024,70633,Hardik Pandya,Mumbai Indians,60530,KL Rahul,Lucknow Super Giants
+1426287,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,72103,Sam Curran,Punjab Kings
+1426288,2024,64244,Pat Cummins,Sunrisers Hyderabad,60806,Sanju Samson,Rajasthan Royals
+1426289,2024,71331,Shreyas Iyer,Kolkata Knight Riders,70633,Hardik Pandya,Mumbai Indians
+1426290,2024,95316,Shubman Gill,Gujarat Titans,46933,Faf du Plessis,Royal Challengers Bengaluru
+1426291,2024,95094,Ruturaj Gaikwad,Chennai Super Kings,72103,Sam Curran,Punjab Kings
+1426292,2024,71331,Shreyas Iyer,Kolkata Knight Riders,60530,KL Rahul,Lucknow Super Giants
+1426293,2024,64244,Pat Cummins,Sunrisers Hyderabad,70633,Hardik Pandya,Mumbai Indians
+1426294,2024,86165,Rishabh Pant,Delhi Capitals,60806,Sanju Samson,Rajasthan Royals
+1426295,2024,60530,KL Rahul,Lucknow Super Giants,64244,Pat Cummins,Sunrisers Hyderabad
+1426296,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,72103,Sam Curran,Punjab Kings
+1426297,2024,95316,Shubman Gill,Gujarat Titans,95094,Ruturaj Gaikwad,Chennai Super Kings
+1426298,2024,71331,Shreyas Iyer,Kolkata Knight Riders,70633,Hardik Pandya,Mumbai Indians
+1426299,2024,60806,Sanju Samson,Rajasthan Royals,95094,Ruturaj Gaikwad,Chennai Super Kings
+1426300,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,67455,Axar Patel,Delhi Capitals
+1426301,2024,95316,Shubman Gill,Gujarat Titans,71331,Shreyas Iyer,Kolkata Knight Riders
+1426302,2024,86165,Rishabh Pant,Delhi Capitals,60530,KL Rahul,Lucknow Super Giants
+1426303,2024,60806,Sanju Samson,Rajasthan Royals,72103,Sam Curran,Punjab Kings
+1426304,2024,64244,Pat Cummins,Sunrisers Hyderabad,95316,Shubman Gill,Gujarat Titans
+1426305,2024,60530,KL Rahul,Lucknow Super Giants,70633,Hardik Pandya,Mumbai Indians
+1426306,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,95094,Ruturaj Gaikwad,Chennai Super Kings
+1426307,2024,75347,Jitesh Sharma,Punjab Kings,64244,Pat Cummins,Sunrisers Hyderabad
+1426308,2024,60806,Sanju Samson,Rajasthan Royals,71331,Shreyas Iyer,Kolkata Knight Riders
+1426309,2024,64244,Pat Cummins,Sunrisers Hyderabad,71331,Shreyas Iyer,Kolkata Knight Riders
+1426310,2024,46933,Faf du Plessis,Royal Challengers Bengaluru,60806,Sanju Samson,Rajasthan Royals
+1426311,2024,64244,Pat Cummins,Sunrisers Hyderabad,60806,Sanju Samson,Rajasthan Royals
+1426312,2024,64244,Pat Cummins,Sunrisers Hyderabad,71331,Shreyas Iyer,Kolkata Knight Riders
+1473438,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,80645,Rajat Patidar,Royal Challengers Bengaluru
+1473439,2025,64244,Pat Cummins,Sunrisers Hyderabad,96392,Riyan Parag,Rajasthan Royals
+1473440,2025,61990,Suryakumar Yadav,Mumbai Indians,95094,Ruturaj Gaikwad,Chennai Super Kings
+1473441,2025,86165,Rishabh Pant,Lucknow Super Giants,67455,Axar Patel,Delhi Capitals
+1473442,2025,71331,Shreyas Iyer,Punjab Kings,95316,Shubman Gill,Gujarat Titans
+1473443,2025,96392,Riyan Parag,Rajasthan Royals,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473444,2025,64244,Pat Cummins,Sunrisers Hyderabad,86165,Rishabh Pant,Lucknow Super Giants
+1473445,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,95094,Ruturaj Gaikwad,Chennai Super Kings
+1473446,2025,95316,Shubman Gill,Gujarat Titans,70633,Hardik Pandya,Mumbai Indians
+1473447,2025,64244,Pat Cummins,Sunrisers Hyderabad,67455,Axar Patel,Delhi Capitals
+1473448,2025,96392,Riyan Parag,Rajasthan Royals,95094,Ruturaj Gaikwad,Chennai Super Kings
+1473449,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,70633,Hardik Pandya,Mumbai Indians
+1473450,2025,86165,Rishabh Pant,Lucknow Super Giants,71331,Shreyas Iyer,Punjab Kings
+1473451,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,95316,Shubman Gill,Gujarat Titans
+1473452,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,64244,Pat Cummins,Sunrisers Hyderabad
+1473453,2025,86165,Rishabh Pant,Lucknow Super Giants,70633,Hardik Pandya,Mumbai Indians
+1473454,2025,67455,Axar Patel,Delhi Capitals,95094,Ruturaj Gaikwad,Chennai Super Kings
+1473455,2025,60806,Sanju Samson,Rajasthan Royals,71331,Shreyas Iyer,Punjab Kings
+1473456,2025,86165,Rishabh Pant,Lucknow Super Giants,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473457,2025,64244,Pat Cummins,Sunrisers Hyderabad,95316,Shubman Gill,Gujarat Titans
+1473458,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,70633,Hardik Pandya,Mumbai Indians
+1473459,2025,71331,Shreyas Iyer,Punjab Kings,95094,Ruturaj Gaikwad,Chennai Super Kings
+1473460,2025,95316,Shubman Gill,Gujarat Titans,60806,Sanju Samson,Rajasthan Royals
+1473461,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,67455,Axar Patel,Delhi Capitals
+1473462,2025,7593,MS Dhoni,Chennai Super Kings,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473463,2025,95316,Shubman Gill,Gujarat Titans,86165,Rishabh Pant,Lucknow Super Giants
+1473464,2025,71331,Shreyas Iyer,Punjab Kings,64244,Pat Cummins,Sunrisers Hyderabad
+1473465,2025,60806,Sanju Samson,Rajasthan Royals,80645,Rajat Patidar,Royal Challengers Bengaluru
+1473466,2025,70633,Hardik Pandya,Mumbai Indians,67455,Axar Patel,Delhi Capitals
+1473467,2025,86165,Rishabh Pant,Lucknow Super Giants,7593,MS Dhoni,Chennai Super Kings
+1473468,2025,71331,Shreyas Iyer,Punjab Kings,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473469,2025,67455,Axar Patel,Delhi Capitals,60806,Sanju Samson,Rajasthan Royals
+1473470,2025,64244,Pat Cummins,Sunrisers Hyderabad,70633,Hardik Pandya,Mumbai Indians
+1473471,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,71331,Shreyas Iyer,Punjab Kings
+1473472,2025,67455,Axar Patel,Delhi Capitals,95316,Shubman Gill,Gujarat Titans
+1473473,2025,86165,Rishabh Pant,Lucknow Super Giants,96392,Riyan Parag,Rajasthan Royals
+1473474,2025,71331,Shreyas Iyer,Punjab Kings,80645,Rajat Patidar,Royal Challengers Bengaluru
+1473475,2025,7593,MS Dhoni,Chennai Super Kings,70633,Hardik Pandya,Mumbai Indians
+1473476,2025,95316,Shubman Gill,Gujarat Titans,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473477,2025,86165,Rishabh Pant,Lucknow Super Giants,67455,Axar Patel,Delhi Capitals
+1473478,2025,64244,Pat Cummins,Sunrisers Hyderabad,70633,Hardik Pandya,Mumbai Indians
+1473479,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,96392,Riyan Parag,Rajasthan Royals
+1473480,2025,7593,MS Dhoni,Chennai Super Kings,64244,Pat Cummins,Sunrisers Hyderabad
+1473481,2025,71331,Shreyas Iyer,Punjab Kings,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473482,2025,70633,Hardik Pandya,Mumbai Indians,86165,Rishabh Pant,Lucknow Super Giants
+1473483,2025,67455,Axar Patel,Delhi Capitals,80645,Rajat Patidar,Royal Challengers Bengaluru
+1473484,2025,95316,Shubman Gill,Gujarat Titans,96392,Riyan Parag,Rajasthan Royals
+1473485,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,67455,Axar Patel,Delhi Capitals
+1473486,2025,7593,MS Dhoni,Chennai Super Kings,71331,Shreyas Iyer,Punjab Kings
+1473487,2025,70633,Hardik Pandya,Mumbai Indians,96392,Riyan Parag,Rajasthan Royals
+1473488,2025,95316,Shubman Gill,Gujarat Titans,64244,Pat Cummins,Sunrisers Hyderabad
+1473489,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,7593,MS Dhoni,Chennai Super Kings
+1473490,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,96392,Riyan Parag,Rajasthan Royals
+1473491,2025,71331,Shreyas Iyer,Punjab Kings,86165,Rishabh Pant,Lucknow Super Giants
+1473492,2025,67455,Axar Patel,Delhi Capitals,64244,Pat Cummins,Sunrisers Hyderabad
+1473493,2025,70633,Hardik Pandya,Mumbai Indians,95316,Shubman Gill,Gujarat Titans
+1473494,2025,51096,Ajinkya Rahane,Kolkata Knight Riders,7593,MS Dhoni,Chennai Super Kings
+1473496,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473497,2025,71331,Shreyas Iyer,Punjab Kings,60806,Sanju Samson,Rajasthan Royals
+1473498,2025,67455,Axar Patel,Delhi Capitals,95316,Shubman Gill,Gujarat Titans
+1473499,2025,86165,Rishabh Pant,Lucknow Super Giants,64244,Pat Cummins,Sunrisers Hyderabad
+1473500,2025,7593,MS Dhoni,Chennai Super Kings,60806,Sanju Samson,Rajasthan Royals
+1473501,2025,70633,Hardik Pandya,Mumbai Indians,46933,Faf du Plessis,Delhi Capitals
+1473502,2025,86165,Rishabh Pant,Lucknow Super Giants,95316,Shubman Gill,Gujarat Titans
+1473503,2025,64244,Pat Cummins,Sunrisers Hyderabad,75347,Jitesh Sharma,Royal Challengers Bengaluru
+1473504,2025,7593,MS Dhoni,Chennai Super Kings,95316,Shubman Gill,Gujarat Titans
+1473505,2025,64244,Pat Cummins,Sunrisers Hyderabad,51096,Ajinkya Rahane,Kolkata Knight Riders
+1473506,2025,70633,Hardik Pandya,Mumbai Indians,71331,Shreyas Iyer,Punjab Kings
+1473507,2025,86165,Rishabh Pant,Lucknow Super Giants,75347,Jitesh Sharma,Royal Challengers Bengaluru
+1473508,2025,71331,Shreyas Iyer,Punjab Kings,80645,Rajat Patidar,Royal Challengers Bengaluru
+1473509,2025,70633,Hardik Pandya,Mumbai Indians,95316,Shubman Gill,Gujarat Titans
+1473510,2025,70633,Hardik Pandya,Mumbai Indians,71331,Shreyas Iyer,Punjab Kings
+1473511,2025,80645,Rajat Patidar,Royal Challengers Bengaluru,71331,Shreyas Iyer,Punjab Kings
+1485779,2025,71331,Shreyas Iyer,Punjab Kings,46933,Faf du Plessis,Delhi Capitals

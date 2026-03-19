@@ -1,0 +1,216 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+581379,6 Sep 2012,v BCB XI,Port of Spain,2,1,0,1,0,0
+581379,7 Sep 2012,v Trinidad & T,Port of Spain,2,0,0,0,0,0
+581379,1 Jul 2015,v Zouks,Basseterre,2,3,1,2,1,0
+581379,3 Jul 2015,v Zouks,Basseterre,1,0,0,0,0,0
+581379,6 Jul 2015,v Patriots,Basseterre,2,0,0,0,0,0
+581379,16 Jul 2015,v Red Steel,Port of Spain,1,1,0,1,0,0
+581379,29 Dec 2017,v New Zealand,Nelson,1,0,0,0,0,0
+581379,1 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+581379,3 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+581379,12 Aug 2018,v Amazon,Providence,2,0,0,0,0,0
+581379,17 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+581379,22 Aug 2018,v Tallawahs,Lauderhill,2,0,0,0,0,0
+581379,25 Aug 2018,v Patriots,Bridgetown,2,0,0,0,0,0
+581379,26 Aug 2018,v Trinbago,Bridgetown,2,0,0,0,0,0
+581379,29 Aug 2018,v Tallawahs,Bridgetown,2,0,0,0,0,0
+581379,31 Aug 2018,v Amazon,Bridgetown,2,0,0,0,0,0
+581379,2 Sep 2018,v Stars,Bridgetown,2,0,0,0,0,0
+581379,4 Sep 2018,v Patriots,Basseterre,2,0,0,0,0,0
+581379,7 Sep 2018,v Trinbago,Port of Spain,1,0,0,0,0,0
+581379,4 Nov 2018,v India,Eden Gardens,2,0,0,0,0,0
+581379,6 Nov 2018,v India,Lucknow,1,0,0,0,0,0
+581379,11 Nov 2018,v India,Chennai,2,0,0,0,0,0
+581379,17 Dec 2018,v Bangladesh,Sylhet,1,2,2,0,2,0
+581379,20 Dec 2018,v Bangladesh,Mirpur,1,0,0,0,0,0
+581379,22 Dec 2018,v Bangladesh,Mirpur,2,1,1,0,1,0
+581379,5 Mar 2019,v England,Gros Islet,2,0,0,0,0,0
+581379,8 Mar 2019,v England,Basseterre,1,2,2,0,2,0
+581379,10 Mar 2019,v England,Basseterre,2,0,0,0,0,0
+581379,6 Oct 2019,v Amazon,Providence,1,0,0,0,0,0
+581379,10 Oct 2019,v Trinbago,Tarouba,2,2,2,0,2,0
+581379,12 Oct 2019,v Amazon,Tarouba,2,3,2,1,2,0
+581379,17 Nov 2019,v Afghanistan,Lucknow,1,1,1,0,1,0
+581379,18 Aug 2020,v Patriots,Tarouba,2,0,0,0,0,0
+581379,20 Aug 2020,v Zouks,Tarouba,2,1,0,1,0,0
+581379,23 Aug 2020,v Trinbago,Tarouba,1,0,0,0,0,0
+581379,25 Aug 2020,v Patriots,Port of Spain,2,1,1,0,1,0
+581379,26 Aug 2020,v Tallawahs,Port of Spain,2,2,2,0,2,0
+581379,29 Aug 2020,v Trinbago,Port of Spain,2,2,1,1,1,0
+581379,30 Aug 2020,v Zouks,Port of Spain,1,0,0,0,0,0
+581379,1 Sep 2020,v Amazon,Tarouba,2,0,0,0,0,0
+581379,26 Aug 2021,v Patriots,Basseterre,1,0,0,0,0,0
+581379,27 Aug 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+581379,28 Aug 2021,v Tallawahs,Basseterre,2,1,1,0,1,0
+581379,31 Aug 2021,v Tallawahs,Basseterre,2,1,1,0,1,0
+581379,2 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+581379,4 Sep 2021,v Amazon,Basseterre,2,0,0,0,0,0
+581379,11 Sep 2021,v Kings,Basseterre,1,1,1,0,1,0
+581379,12 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+581379,13 Dec 2021,v Pakistan,Karachi,1,2,2,0,2,0
+581379,14 Dec 2021,v Pakistan,Karachi,1,1,1,0,0,1
+581379,22 Jan 2022,v England,Bridgetown,1,1,0,1,0,0
+581379,23 Jan 2022,v England,Bridgetown,1,0,0,0,0,0
+581379,26 Jan 2022,v England,Bridgetown,2,0,0,0,0,0
+581379,20 Feb 2022,v India,Eden Gardens,1,0,0,0,0,0
+581379,3 Sep 2022,v Tallawahs,Basseterre,2,2,2,0,0,2
+581379,8 Sep 2022,v Patriots,Gros Islet,2,1,1,0,0,1
+581379,10 Sep 2022,v Kings,Gros Islet,1,1,1,0,0,1
+581379,21 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+581379,22 Sep 2022,v Kings,Providence,1,1,1,0,0,1
+581379,24 Sep 2022,v Trinbago,Providence,2,0,0,0,0,0
+581379,25 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+581379,27 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+581379,28 Sep 2022,v Tallawahs,Providence,1,0,0,0,0,0
+581379,24 Jan 2023,v Dominators,Mirpur,1,0,0,0,0,0
+581379,28 Jan 2023,v Victorians,Sylhet,1,0,0,0,0,0
+581379,30 Jan 2023,v Strikers,Sylhet,1,1,1,0,0,1
+581379,31 Jan 2023,v Victorians,Sylhet,2,1,1,0,0,1
+581379,3 Feb 2023,v Barishal,Mirpur,1,1,1,0,1,0
+581379,8 Feb 2023,v Strikers,Mirpur,2,2,2,0,2,0
+581379,10 Feb 2023,v Barishal,Mirpur,1,0,0,0,0,0
+581379,13 Feb 2023,v Sultans,Multan,2,0,0,0,0,0
+581379,19 Feb 2023,v Kings,Karachi,1,1,1,0,1,0
+581379,21 Feb 2023,v Gladiators,Karachi,2,0,0,0,0,0
+581379,12 Aug 2023,v India,Lauderhill,2,1,1,0,0,1
+581379,13 Aug 2023,v India,Lauderhill,1,0,0,0,0,0
+581379,19 Aug 2023,v Kings,Gros Islet,-,TDNF,-,-,-,-
+581379,24 Aug 2023,v Patriots,Basseterre,2,1,1,0,0,1
+581379,27 Aug 2023,v Tallawahs,Basseterre,2,0,0,0,0,0
+581379,2 Sep 2023,v Patriots,Bridgetown,2,2,2,0,0,2
+581379,5 Sep 2023,v Trinbago,Port of Spain,1,0,0,0,0,0
+581379,10 Sep 2023,v Royals,Tarouba,2,0,0,0,0,0
+581379,13 Sep 2023,v Tallawahs,Providence,1,0,0,0,0,0
+581379,14 Sep 2023,v Kings,Providence,2,1,1,0,0,1
+581379,16 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+581379,17 Sep 2023,v Royals,Providence,2,0,0,0,0,0
+581379,20 Sep 2023,v Trinbago,Providence,2,0,0,0,0,0
+581379,22 Sep 2023,v Tallawahs,Providence,2,3,3,0,3,0
+581379,24 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+581379,12 Dec 2023,v England,Bridgetown,1,0,0,0,0,0
+581379,14 Dec 2023,v England,St George's,2,0,0,0,0,0
+581379,16 Dec 2023,v England,St George's,2,0,0,0,0,0
+581379,19 Dec 2023,v England,Tarouba,1,0,0,0,0,0
+581379,21 Dec 2023,v England,Tarouba,1,0,0,0,0,0
+581379,20 Jan 2024,v Chattogram,Mirpur,1,1,0,1,0,0
+581379,22 Jan 2024,v Barishal,Mirpur,1,1,1,0,1,0
+581379,9 Feb 2024,v Australia,Hobart,1,0,0,0,0,0
+581379,11 Feb 2024,v Australia,Adelaide,1,0,0,0,0,0
+581379,16 Feb 2024,v Dhaka,Chattogram,1,0,0,0,0,0
+581379,20 Feb 2024,v Chattogram,Chattogram,1,0,0,0,0,0
+581379,24 Feb 2024,v Kings,Lahore,2,1,1,0,1,0
+581379,25 Feb 2024,v Zalmi,Lahore,1,0,0,0,0,0
+581379,6 Mar 2024,v United,Rawalpindi,2,1,1,0,0,1
+581379,9 Mar 2024,v Kings,Karachi,2,2,2,0,2,0
+581379,10 Mar 2024,v Gladiators,Karachi,2,1,1,0,1,0
+581379,23 Mar 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+581379,12 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+581379,17 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+581379,24 Apr 2024,v GT,Delhi,2,0,0,0,0,0
+581379,27 Apr 2024,v MI,Delhi,2,3,3,0,0,3
+581379,29 Apr 2024,v KKR,Eden Gardens,2,0,0,0,0,0
+581379,7 May 2024,v RR,Delhi,2,2,2,0,0,2
+581379,12 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+581379,14 May 2024,v LSG,Delhi,2,1,1,0,0,1
+581379,17 Jun 2024,v Afghanistan,Gros Islet,2,0,0,0,0,0
+581379,21 Jun 2024,v U.S.A.,Bridgetown,1,1,1,0,0,1
+581379,23 Jun 2024,v South Africa,North Sound,2,0,0,0,0,0
+581379,23 Aug 2024,v South Africa,Tarouba,1,0,0,0,0,0
+581379,25 Aug 2024,v South Africa,Tarouba,2,1,1,0,0,1
+581379,27 Aug 2024,v South Africa,Tarouba,1,0,0,0,0,0
+581379,30 Aug 2024,v Falcons,North Sound,1,0,0,0,0,0
+581379,4 Sep 2024,v Patriots,Basseterre,2,2,2,0,0,2
+581379,7 Sep 2024,v Kings,Gros Islet,1,0,0,0,0,0
+581379,14 Sep 2024,v Royals,Bridgetown,1,0,0,0,0,0
+581379,18 Sep 2024,v Trinbago,Port of Spain,2,0,0,0,0,0
+581379,20 Sep 2024,v Patriots,Providence,2,1,1,0,1,0
+581379,21 Sep 2024,v Falcons,Providence,2,0,0,0,0,0
+581379,25 Sep 2024,v Royals,Providence,2,1,0,1,0,0
+581379,28 Sep 2024,v Kings,Providence,2,1,1,0,1,0
+581379,29 Sep 2024,v Trinbago,Providence,1,3,3,0,3,0
+581379,2 Oct 2024,v Kings,Providence,1,1,1,0,1,0
+581379,4 Oct 2024,v Royals,Providence,1,1,1,0,1,0
+581379,6 Oct 2024,v Kings,Providence,2,1,1,0,1,0
+581379,13 Oct 2024,v Sri Lanka,Dambulla,1,1,1,0,1,0
+581379,17 Oct 2024,v Sri Lanka,Dambulla,2,0,0,0,0,0
+581379,14 Nov 2024,v England,Gros Islet,2,1,1,0,0,1
+581379,16 Nov 2024,v England,Gros Islet,1,0,0,0,0,0
+581379,17 Nov 2024,v England,Gros Islet,-,TDNF,-,-,-,-
+581379,26 Nov 2024,v Qalandars,Providence,1,1,1,0,1,0
+581379,29 Nov 2024,v Victoria,Providence,2,0,0,0,0,0
+581379,1 Dec 2024,v Hampshire,Providence,1,1,0,1,0,0
+581379,4 Dec 2024,v Rangpur,Providence,1,3,2,1,2,0
+581379,19 Dec 2024,v Renegades,Geelong,2,0,0,0,0,0
+581379,21 Dec 2024,v Scorchers,Hobart,1,0,0,0,0,0
+581379,27 Dec 2024,v Strikers,Adelaide,2,0,0,0,0,0
+581379,1 Jan 2025,v Sixers,Hobart,2,0,0,0,0,0
+581379,5 Jan 2025,v Strikers,Hobart,1,0,0,0,0,0
+581379,11 Jan 2025,v MI Emirates,Dubai (DICS),2,1,1,0,1,0
+581379,13 Jan 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+581379,17 Jan 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+581379,18 Jan 2025,v Gulf Giants,Sharjah,2,0,0,0,0,0
+581379,20 Jan 2025,v Vipers,Dubai (DICS),1,1,0,1,0,0
+581379,23 Jan 2025,v Gulf Giants,Dubai (DICS),1,1,1,0,1,0
+581379,26 Jan 2025,v KnightRiders,Abu Dhabi,1,2,2,0,2,0
+581379,28 Jan 2025,v Warriorz,Dubai (DICS),2,0,0,0,0,0
+581379,2 Feb 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+581379,3 Feb 2025,v Vipers,Sharjah,1,0,0,0,0,0
+581379,5 Feb 2025,v Vipers,Dubai (DICS),1,1,1,0,1,0
+581379,9 Feb 2025,v Vipers,Dubai (DICS),1,0,0,0,0,0
+581379,12 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+581379,16 Apr 2025,v United,Rawalpindi,1,1,1,0,0,1
+581379,19 Apr 2025,v Zalmi,Rawalpindi,1,0,0,0,0,0
+581379,26 Apr 2025,v Qalandars,Lahore,2,0,0,0,0,0
+581379,5 May 2025,v Zalmi,Multan,2,0,0,0,0,0
+581379,6 Jun 2025,v England,Chester-le-Street,1,1,1,0,1,0
+581379,8 Jun 2025,v England,Bristol,2,0,0,0,0,0
+581379,10 Jun 2025,v England,Southampton,1,0,0,0,0,0
+581379,15 Jun 2025,v Ireland,Bready,2,0,0,0,0,0
+581379,20 Jul 2025,v Australia,Kingston,2,2,2,0,2,0
+581379,22 Jul 2025,v Australia,Kingston,2,2,2,0,2,0
+581379,25 Jul 2025,v Australia,Basseterre,2,2,2,0,2,0
+581379,26 Jul 2025,v Australia,Basseterre,2,0,0,0,0,0
+581379,28 Jul 2025,v Australia,Basseterre,2,0,0,0,0,0
+581379,31 Jul 2025,v Pakistan,Lauderhill,1,0,0,0,0,0
+581379,2 Aug 2025,v Pakistan,Lauderhill,1,0,0,0,0,0
+581379,3 Aug 2025,v Pakistan,Lauderhill,1,1,1,0,0,1
+581379,15 Aug 2025,v Patriots,Basseterre,1,1,1,0,1,0
+581379,22 Aug 2025,v Falcons,North Sound,2,1,0,1,0,0
+581379,26 Aug 2025,v Kings,Gros Islet,2,2,2,0,2,0
+581379,30 Aug 2025,v Trinbago,Tarouba,2,0,0,0,0,0
+581379,4 Sep 2025,v Royals,Bridgetown,1,2,1,1,1,0
+581379,6 Sep 2025,v Trinbago,Providence,1,0,0,0,0,0
+581379,7 Sep 2025,v Patriots,Providence,1,0,0,0,0,0
+581379,10 Sep 2025,v Falcons,Providence,2,0,0,0,0,0
+581379,13 Sep 2025,v Kings,Providence,1,0,0,0,0,0
+581379,14 Sep 2025,v Royals,Providence,2,1,1,0,1,0
+581379,17 Sep 2025,v Kings,Providence,2,0,0,0,0,0
+581379,21 Sep 2025,v Trinbago,Providence,2,1,1,0,1,0
+581379,27 Oct 2025,v Bangladesh,Chattogram,2,0,0,0,0,0
+581379,29 Oct 2025,v Bangladesh,Chattogram,2,0,0,0,0,0
+581379,5 Nov 2025,v New Zealand,Auckland,2,1,1,0,1,0
+581379,6 Nov 2025,v New Zealand,Auckland,1,1,1,0,1,0
+581379,9 Nov 2025,v New Zealand,Nelson,1,0,0,0,0,0
+581379,10 Nov 2025,v New Zealand,Nelson,-,TDNF,-,-,-,-
+581379,13 Nov 2025,v New Zealand,Dunedin,2,0,0,0,0,0
+581379,27 Dec 2025,v Super Kings,Centurion,1,0,0,0,0,0
+581379,29 Dec 2025,v Sunrisers,Gqeberha,1,1,0,1,0,0
+581379,31 Dec 2025,v MI Cape Town,Cape Town,2,1,0,1,0,0
+581379,3 Jan 2026,v Super Giants,Centurion,-,TDNF,-,-,-,-
+581379,5 Jan 2026,v Sunrisers,Centurion,2,0,0,0,0,0
+581379,7 Jan 2026,v Super Giants,Durban,2,1,1,0,1,0
+581379,10 Jan 2026,v Paarl Royals,Paarl,2,1,1,0,1,0
+581379,12 Jan 2026,v MI Cape Town,Centurion,2,0,0,0,0,0
+581379,15 Jan 2026,v Paarl Royals,Centurion,2,0,0,0,0,0
+581379,17 Jan 2026,v Super Kings,Johannesburg,2,0,0,0,0,0
+581379,21 Jan 2026,v Sunrisers,Durban,1,1,0,1,0,0
+581379,25 Jan 2026,v Sunrisers,Cape Town,2,1,1,0,1,0
+581379,29 Jan 2026,v South Africa,Centurion,2,0,0,0,0,0
+581379,31 Jan 2026,v South Africa,Johannesburg,2,0,0,0,0,0
+581379,7 Feb 2026,v Scotland,Eden Gardens,2,0,0,0,0,0
+581379,11 Feb 2026,v England,Wankhede,2,0,0,0,0,0
+581379,15 Feb 2026,v Nepal,Wankhede,1,1,1,0,1,0
+581379,19 Feb 2026,v Italy,Eden Gardens,2,2,2,0,2,0
+581379,23 Feb 2026,v Zimbabwe,Wankhede,2,0,0,0,0,0
+581379,26 Feb 2026,v South Africa,Ahmedabad,2,0,0,0,0,0
+581379,1 Mar 2026,v India,Eden Gardens,2,0,0,0,0,0

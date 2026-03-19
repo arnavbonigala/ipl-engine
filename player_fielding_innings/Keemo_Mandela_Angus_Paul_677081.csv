@@ -1,0 +1,148 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+677081,5 Aug 2017,v Patriots,Lauderhill,2,0,0,0,0,0
+677081,6 Aug 2017,v Patriots,Lauderhill,1,0,0,0,0,0
+677081,11 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+677081,13 Aug 2017,v Stars,Gros Islet,1,0,0,0,0,0
+677081,20 Aug 2017,v Tridents,Providence,1,0,0,0,0,0
+677081,22 Aug 2017,v Stars,Providence,1,0,0,0,0,0
+677081,29 Aug 2017,v Tridents,Bridgetown,2,1,1,0,0,1
+677081,1 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+677081,2 Apr 2018,v Pakistan,Karachi,1,0,0,0,0,0
+677081,3 Apr 2018,v Pakistan,Karachi,2,0,0,0,0,0
+677081,31 May 2018,v ICC World XI,Lord's,2,0,0,0,0,0
+677081,31 Jul 2018,v Bangladesh,Basseterre,1,0,0,0,0,0
+677081,4 Aug 2018,v Bangladesh,Lauderhill,1,1,1,0,0,1
+677081,5 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0
+677081,9 Aug 2018,v Patriots,Providence,1,0,0,0,0,0
+677081,11 Aug 2018,v Stars,Providence,2,0,0,0,0,0
+677081,12 Aug 2018,v Tridents,Providence,1,0,0,0,0,0
+677081,18 Aug 2018,v Tallawahs,Lauderhill,2,0,0,0,0,0
+677081,28 Aug 2018,v Patriots,Basseterre,1,0,0,0,0,0
+677081,8 Sep 2018,v Tallawahs,Providence,2,0,0,0,0,0
+677081,4 Nov 2018,v India,Eden Gardens,2,0,0,0,0,0
+677081,6 Nov 2018,v India,Lucknow,1,0,0,0,0,0
+677081,11 Nov 2018,v India,Chennai,2,0,0,0,0,0
+677081,17 Dec 2018,v Bangladesh,Sylhet,1,0,0,0,0,0
+677081,20 Dec 2018,v Bangladesh,Mirpur,1,0,0,0,0,0
+677081,22 Dec 2018,v Bangladesh,Mirpur,2,0,0,0,0,0
+677081,24 Mar 2019,v MI,Wankhede,2,0,0,0,0,0
+677081,26 Mar 2019,v CSK,Delhi,2,0,0,0,0,0
+677081,12 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+677081,14 Apr 2019,v SRH,Hyderabad,2,2,2,0,0,2
+677081,18 Apr 2019,v MI,Delhi,1,0,0,0,0,0
+677081,4 May 2019,v RR,Delhi,1,0,0,0,0,0
+677081,8 May 2019,v SRH,Visakhapatnam,1,1,1,0,0,1
+677081,10 May 2019,v CSK,Visakhapatnam,2,2,2,0,0,2
+677081,3 Aug 2019,v India,Lauderhill,2,0,0,0,0,0
+677081,4 Aug 2019,v India,Lauderhill,1,0,0,0,0,0
+677081,6 Aug 2019,v India,Providence,2,0,0,0,0,0
+677081,5 Sep 2019,v Zouks,Providence,2,1,1,0,0,1
+677081,7 Sep 2019,v Patriots,Providence,1,1,1,0,0,1
+677081,8 Sep 2019,v Tridents,Providence,2,1,1,0,0,1
+677081,14 Sep 2019,v Patriots,Basseterre,1,2,2,0,0,2
+677081,18 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+677081,22 Sep 2019,v Tridents,Bridgetown,1,0,0,0,0,0
+677081,30 Sep 2019,v Trinbago,Port of Spain,2,1,1,0,0,1
+677081,3 Oct 2019,v Tallawahs,Providence,2,0,0,0,0,0
+677081,4 Oct 2019,v Trinbago,Providence,1,0,0,0,0,0
+677081,6 Oct 2019,v Tridents,Providence,2,0,0,0,0,0
+677081,12 Oct 2019,v Tridents,Tarouba,1,0,0,0,0,0
+677081,16 Nov 2019,v Afghanistan,Lucknow,1,0,0,0,0,0
+677081,17 Nov 2019,v Afghanistan,Lucknow,1,1,1,0,0,1
+677081,18 Aug 2020,v Trinbago,Tarouba,2,1,1,0,0,1
+677081,19 Aug 2020,v Patriots,Tarouba,1,0,0,0,0,0
+677081,22 Aug 2020,v Tallawahs,Tarouba,2,1,1,0,0,1
+677081,23 Aug 2020,v Zouks,Tarouba,1,0,0,0,0,0
+677081,25 Aug 2020,v Tallawahs,Port of Spain,2,1,1,0,0,1
+677081,27 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+677081,30 Aug 2020,v Patriots,Port of Spain,1,0,0,0,0,0
+677081,1 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+677081,2 Sep 2020,v Zouks,Tarouba,1,0,0,0,0,0
+677081,8 Sep 2020,v Zouks,Tarouba,2,0,0,0,0,0
+677081,27 Nov 2020,v New Zealand,Auckland,2,0,0,0,0,0
+677081,29 Nov 2020,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+677081,19 Dec 2020,v Renegades,Hobart,1,0,0,0,0,0
+677081,30 Dec 2020,v Heat,Brisbane,2,0,0,0,0,0
+677081,27 Aug 2021,v Tallawahs,Basseterre,1,1,1,0,0,1
+677081,29 Aug 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+677081,31 Aug 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+677081,4 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+677081,5 Sep 2021,v Patriots,Basseterre,1,0,0,0,0,0
+677081,8 Sep 2021,v Amazon,Basseterre,1,1,1,0,0,1
+677081,11 Sep 2021,v Royals,Basseterre,2,1,1,0,0,1
+677081,12 Sep 2021,v Royals,Basseterre,2,0,0,0,0,0
+677081,14 Sep 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+677081,15 Sep 2021,v Patriots,Basseterre,2,2,2,0,0,2
+677081,8 Dec 2021,v Dambulla,Colombo (RPS),1,1,1,0,0,1
+677081,10 Dec 2021,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+677081,16 Dec 2021,v Jaffna Kings,Colombo (RPS),1,0,0,0,0,0
+677081,17 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+677081,3 Jul 2022,v Bangladesh,Roseau,2,0,0,0,0,0
+677081,29 Jul 2022,v India,Tarouba,1,1,1,0,0,1
+677081,7 Aug 2022,v India,Lauderhill,1,0,0,0,0,0
+677081,3 Sep 2022,v Tallawahs,Basseterre,2,1,1,0,0,1
+677081,8 Sep 2022,v Patriots,Gros Islet,2,0,0,0,0,0
+677081,10 Sep 2022,v Kings,Gros Islet,1,0,0,0,0,0
+677081,14 Sep 2022,v Trinbago,Port of Spain,1,0,0,0,0,0
+677081,18 Sep 2022,v Royals,Tarouba,1,2,2,0,0,2
+677081,21 Sep 2022,v Tallawahs,Providence,2,2,2,0,0,2
+677081,22 Sep 2022,v Kings,Providence,1,0,0,0,0,0
+677081,24 Sep 2022,v Trinbago,Providence,2,1,1,0,0,1
+677081,25 Sep 2022,v Royals,Providence,1,3,3,0,0,3
+677081,27 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+677081,28 Sep 2022,v Tallawahs,Providence,1,0,0,0,0,0
+677081,6 Dec 2022,v Kandy,Hambantota,1,0,0,0,0,0
+677081,11 Jan 2023,v Super Kings,Durban,1,0,0,0,0,0
+677081,13 Jan 2023,v MI Cape Town,Cape Town,1,1,1,0,0,1
+677081,15 Jan 2023,v Paarl Royals,Durban,2,0,0,0,0,0
+677081,22 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+677081,24 Jan 2023,v Super Kings,Johannesburg,2,0,0,0,0,0
+677081,2 Feb 2023,v MI Cape Town,Durban,1,1,1,0,0,1
+677081,3 Feb 2023,v Sunrisers,Durban,1,0,0,0,0,0
+677081,5 Feb 2023,v Capitals,Centurion,2,1,1,0,0,1
+677081,19 Aug 2023,v Kings,Gros Islet,-,TDNF,-,-,-,-
+677081,24 Aug 2023,v Patriots,Basseterre,2,1,1,0,0,1
+677081,27 Aug 2023,v Tallawahs,Basseterre,2,1,1,0,0,1
+677081,2 Sep 2023,v Patriots,Bridgetown,2,0,0,0,0,0
+677081,5 Sep 2023,v Trinbago,Port of Spain,1,1,1,0,0,1
+677081,10 Sep 2023,v Royals,Tarouba,2,2,2,0,0,2
+677081,13 Sep 2023,v Tallawahs,Providence,1,1,1,0,0,1
+677081,14 Sep 2023,v Kings,Providence,2,0,0,0,0,0
+677081,16 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+677081,24 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+677081,11 Jan 2024,v MI Cape Town,Durban,1,1,1,0,0,1
+677081,13 Jan 2024,v Sunrisers,Gqeberha,2,0,0,0,0,0
+677081,15 Jan 2024,v Super Kings,Durban,2,1,1,0,0,1
+677081,18 Jan 2024,v Capitals,Centurion,1,1,1,0,0,1
+677081,30 Jan 2024,v Capitals,Durban,2,0,0,0,0,0
+677081,3 Feb 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+677081,27 Apr 2024,v Nepal,Kirtipur,2,0,0,0,0,0
+677081,28 Apr 2024,v Nepal,Kirtipur,2,0,0,0,0,0
+677081,1 May 2024,v Nepal,Kirtipur,2,1,1,0,0,1
+677081,2 May 2024,v Nepal,Kirtipur,2,0,0,0,0,0
+677081,17 Jul 2024,v Los Angeles,Morrisville,2,0,0,0,0,0
+677081,20 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+677081,23 Jul 2024,v Texas,Dallas,1,0,0,0,0,0
+677081,30 Aug 2024,v Falcons,North Sound,1,0,0,0,0,0
+677081,4 Sep 2024,v Patriots,Basseterre,2,0,0,0,0,0
+677081,7 Sep 2024,v Kings,Gros Islet,1,1,1,0,0,1
+677081,14 Sep 2024,v Royals,Bridgetown,1,0,0,0,0,0
+677081,18 Sep 2024,v Trinbago,Port of Spain,2,1,1,0,0,1
+677081,20 Sep 2024,v Patriots,Providence,2,2,2,0,0,2
+677081,21 Sep 2024,v Falcons,Providence,2,0,0,0,0,0
+677081,25 Sep 2024,v Royals,Providence,2,0,0,0,0,0
+677081,28 Sep 2024,v Kings,Providence,2,0,0,0,0,0
+677081,29 Sep 2024,v Trinbago,Providence,1,0,0,0,0,0
+677081,2 Oct 2024,v Kings,Providence,1,2,2,0,0,2
+677081,4 Oct 2024,v Royals,Providence,1,1,1,0,0,1
+677081,6 Oct 2024,v Kings,Providence,2,0,0,0,0,0
+677081,26 Nov 2024,v Qalandars,Providence,1,1,1,0,0,1
+677081,29 Nov 2024,v Victoria,Providence,2,0,0,0,0,0
+677081,4 Dec 2024,v Rangpur,Providence,1,1,1,0,0,1
+677081,12 Jan 2025,v Gulf Giants,Dubai (DICS),1,2,2,0,0,2
+677081,15 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+677081,17 Jan 2025,v DC,Sharjah,1,1,1,0,0,1
+677081,19 Jan 2025,v MI Emirates,Sharjah,2,0,0,0,0,0
+677081,6 Sep 2025,v Trinbago,Providence,1,1,1,0,0,1
+677081,7 Sep 2025,v Patriots,Providence,1,0,0,0,0,0
+677081,10 Sep 2025,v Falcons,Providence,2,0,0,0,0,0

@@ -1,0 +1,71 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+1079839,21 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+1079839,22 Feb 2019,v J & K,Mulapadu,1,0,0,0,0,0
+1079839,24 Feb 2019,v Manipur,Mulapadu,2,1,1,0,0,1
+1079839,27 Feb 2019,v Nagaland,Mulapadu,2,0,0,0,0,0
+1079839,28 Feb 2019,v Andhra,Mulapadu,1,1,1,0,0,1
+1079839,2 Mar 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+1079839,8 Mar 2019,v Gujarat,Indore,2,2,2,0,0,2
+1079839,9 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+1079839,10 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+1079839,11 Mar 2019,v Maharashtra,Indore,1,0,0,0,0,0
+1079839,26 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+1079839,9 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+1079839,11 Nov 2019,v J & K,Surat,2,1,1,0,0,1
+1079839,12 Nov 2019,v Sikkim,Surat,1,1,1,0,0,1
+1079839,14 Nov 2019,v Nagaland,Surat,1,1,1,0,0,1
+1079839,15 Nov 2019,v Delhi,Surat,1,0,0,0,0,0
+1079839,17 Nov 2019,v Gujarat,Surat,1,1,1,0,0,1
+1079839,21 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+1079839,22 Nov 2019,v Karnataka,Surat,1,1,1,0,0,1
+1079839,24 Nov 2019,v Mumbai,Surat,2,0,0,0,0,0
+1079839,27 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+1079839,10 Jan 2021,v Tamil Nadu,Eden Gardens,1,0,0,0,0,0
+1079839,12 Jan 2021,v Bengal,Eden Gardens,1,1,1,0,0,1
+1079839,14 Jan 2021,v Assam,Jadavpur Uni,2,0,0,0,0,0
+1079839,16 Jan 2021,v Odisha,Eden Gardens,2,1,1,0,0,1
+1079839,18 Jan 2021,v Hyderabad,Eden Gardens,1,0,0,0,0,0
+1079839,4 Nov 2021,v Rajasthan,Vadodara,2,0,0,0,0,0
+1079839,5 Nov 2021,v Himachal,Vadodara,1,2,2,0,0,2
+1079839,6 Nov 2021,v Andhra,Vadodara,1,0,0,0,0,0
+1079839,8 Nov 2021,v Haryana,Vadodara,2,2,2,0,0,2
+1079839,9 Nov 2021,v J & K,Vadodara,1,0,0,0,0,0
+1079839,2 May 2022,v RR,Wankhede,1,1,1,0,0,1
+1079839,7 May 2022,v LSG,Pune,1,0,0,0,0,0
+1079839,14 Oct 2022,v Chandigarh,Lucknow,2,0,0,0,0,0
+1079839,18 Oct 2022,v Tamil Nadu,Lucknow,1,1,1,0,0,1
+1079839,20 Oct 2022,v Odisha,Lucknow,2,1,1,0,0,1
+1079839,22 Oct 2022,v Sikkim,Lucknow,1,0,0,0,0,0
+1079839,1 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+1079839,20 Apr 2023,v DC,Delhi,2,1,1,0,0,1
+1079839,4 May 2023,v SRH,Hyderabad,2,1,1,0,0,1
+1079839,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+1079839,17 Oct 2023,v Puducherry,Mohali,1,1,1,0,0,1
+1079839,19 Oct 2023,v Uttarakhand,Mohali,2,0,0,0,0,0
+1079839,21 Oct 2023,v Rajasthan,New Chandigarh,1,2,2,0,0,2
+1079839,23 Oct 2023,v Maharashtra,Mohali,2,1,1,0,0,1
+1079839,25 Oct 2023,v Bengal,New Chandigarh,1,1,1,0,0,1
+1079839,27 Oct 2023,v Vidarbha,Mohali,2,1,1,0,0,1
+1079839,29 Mar 2024,v RCB,Bengaluru,1,0,0,0,0,0
+1079839,8 Apr 2024,v CSK,Chennai,2,0,0,0,0,0
+1079839,26 Apr 2024,v Punjab Kings,Eden Gardens,2,0,0,0,0,0
+1079839,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+1079839,23 Nov 2024,v J & K,Mumbai,1,0,0,0,0,0
+1079839,25 Nov 2024,v Manipur,Mumbai,2,0,0,0,0,0
+1079839,27 Nov 2024,v Himachal,Wankhede,2,1,1,0,0,1
+1079839,29 Nov 2024,v Arunachal,Wankhede,1,0,0,0,0,0
+1079839,1 Dec 2024,v Haryana,Mumbai,1,1,1,0,0,1
+1079839,3 Dec 2024,v Delhi,Mumbai,1,2,2,0,0,2
+1079839,5 Dec 2024,v UP,Wankhede,1,0,0,0,0,0
+1079839,29 Apr 2025,v DC,Delhi,2,0,0,0,0,0
+1079839,26 Nov 2025,v Delhi,Ahmedabad,1,1,1,0,0,1
+1079839,28 Nov 2025,v Karnataka,Ahmedabad,1,0,0,0,0,0
+1079839,30 Nov 2025,v Tripura,Ahmedabad,1,0,0,0,0,0
+1079839,2 Dec 2025,v Saurashtra,Ahmedabad,2,2,2,0,0,2
+1079839,4 Dec 2025,v Uttarakhand,Ahmedabad,1,0,0,0,0,0
+1079839,6 Dec 2025,v Tamil Nadu,Ahmedabad,2,2,2,0,0,2
+1079839,8 Dec 2025,v Rajasthan,Ahmedabad,2,0,0,0,0,0
+1079839,12 Dec 2025,v Punjab,Ambi,1,2,2,0,0,2
+1079839,14 Dec 2025,v M. Pradesh,Pune,2,0,0,0,0,0
+1079839,16 Dec 2025,v Andhra,Ambi,1,1,1,0,0,1
+1079839,18 Dec 2025,v Haryana,Pune,2,1,1,0,0,1

@@ -1,0 +1,88 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+591650,19 Mar 2013,v M. Pradesh,Nagpur,2,0,0,0,0,0
+591650,30 Mar 2013,v Punjab,Indore,1,0,0,0,0,0
+591650,6 Apr 2013,v MI,Chennai,1,0,0,0,0,0
+591650,10 Apr 2013,v Kings XI,Mohali,1,0,0,0,0,0
+591650,1 Apr 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+591650,2 Apr 2014,v M. Pradesh,Nagpur,1,0,0,0,0,0
+591650,9 Apr 2014,v Jharkhand,Rajkot,1,0,0,0,0,0
+591650,10 Apr 2014,v Goa,Rajkot,2,0,0,0,0,0
+591650,11 Apr 2014,v Gujarat,Rajkot,1,0,0,0,0,0
+591650,29 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+591650,2 Jan 2016,v Maharashtra,Cuttack,1,0,0,0,0,0
+591650,3 Jan 2016,v Odisha,Cuttack,2,0,0,0,0,0
+591650,4 Jan 2016,v Karnataka,Cuttack,1,0,0,0,0,0
+591650,7 Jan 2016,v Mumbai,Cuttack,1,0,0,0,0,0
+591650,8 Jan 2016,v Services,Cuttack,2,1,1,0,0,1
+591650,15 Jan 2016,v Jharkhand,Mumbai,1,0,0,0,0,0
+591650,16 Jan 2016,v Gujarat,Mumbai,1,0,0,0,0,0
+591650,18 Jan 2016,v Delhi,Mumbai,1,0,0,0,0,0
+591650,20 Jan 2016,v Baroda,Wankhede,2,0,0,0,0,0
+591650,14 May 2016,v Supergiants,Eden Gardens,1,0,0,0,0,0
+591650,16 May 2016,v RCB,Eden Gardens,2,0,0,0,0,0
+591650,19 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+591650,22 May 2016,v SRH,Eden Gardens,2,0,0,0,0,0
+591650,29 Jan 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+591650,31 Jan 2017,v Rajasthan,Jaipur,1,1,1,0,0,1
+591650,2 Feb 2017,v Railways,Jaipur,1,0,0,0,0,0
+591650,3 Feb 2017,v M. Pradesh,Jaipur,1,0,0,0,0,0
+591650,5 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+591650,12 Feb 2017,v West Zone,Wankhede,1,0,0,0,0,0
+591650,13 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+591650,15 Feb 2017,v North Zone,Wankhede,2,0,0,0,0,0
+591650,18 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+591650,9 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+591650,7 May 2017,v RCB,Bengaluru,1,0,0,0,0,0
+591650,9 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+591650,13 May 2017,v MI,Eden Gardens,1,0,0,0,0,0
+591650,19 May 2017,v MI,Bengaluru,2,1,1,0,0,1
+591650,9 Jan 2018,v Rajasthan,Raipur,2,1,1,0,0,1
+591650,10 Jan 2018,v M. Pradesh,Raipur,2,0,0,0,0,0
+591650,13 Jan 2018,v Railways,Raipur,1,0,0,0,0,0
+591650,15 Jan 2018,v Vidarbha,Raipur,2,0,0,0,0,0
+591650,16 Jan 2018,v Chhattisgarh,Raipur,1,0,0,0,0,0
+591650,22 Jan 2018,v Bengal,Eden Gardens,2,0,0,0,0,0
+591650,23 Jan 2018,v Tamil Nadu,Eden Gardens,2,0,0,0,0,0
+591650,24 Jan 2018,v Baroda,Kolkata,1,0,0,0,0,0
+591650,25 Jan 2018,v Delhi,Kolkata,1,0,0,0,0,0
+591650,21 Apr 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+591650,23 Apr 2018,v Daredevils,Delhi,2,0,0,0,0,0
+591650,26 Apr 2018,v SRH,Hyderabad,1,0,0,0,0,0
+591650,4 May 2018,v MI,Indore,2,0,0,0,0,0
+591650,6 May 2018,v RR,Indore,1,0,0,0,0,0
+591650,14 May 2018,v RCB,Indore,2,0,0,0,0,0
+591650,16 May 2018,v MI,Wankhede,1,1,1,0,0,1
+591650,20 May 2018,v CSK,Pune,2,0,0,0,0,0
+591650,22 Feb 2019,v Hyderabad,Delhi,1,0,0,0,0,0
+591650,24 Feb 2019,v Tripura,Delhi,2,1,1,0,0,1
+591650,27 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+591650,28 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+591650,2 Mar 2019,v Baroda,Delhi,1,0,0,0,0,0
+591650,9 Mar 2019,v Karnataka,Indore,1,1,1,0,0,1
+591650,10 Mar 2019,v Vidarbha,Indore,1,1,1,0,0,1
+591650,11 Mar 2019,v Delhi,Indore,2,0,0,0,0,0
+591650,12 Mar 2019,v Mumbai,Indore,1,0,0,0,0,0
+591650,25 Mar 2019,v RR,Jaipur,2,1,1,0,0,1
+591650,8 Apr 2019,v SRH,Mohali,1,0,0,0,0,0
+591650,10 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+591650,24 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+591650,9 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+591650,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,1,0,0,0,0,0
+591650,12 Nov 2019,v Tripura,Thumba,1,1,1,0,0,1
+591650,14 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+591650,15 Nov 2019,v Manipur,Thumba,1,0,0,0,0,0
+591650,17 Nov 2019,v Kerala,Thiruvananthapuram,1,1,1,0,0,1
+591650,27 Sep 2020,v Kings XI,Sharjah,1,0,0,0,0,0
+591650,30 Sep 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+591650,6 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+591650,19 Oct 2020,v CSK,Abu Dhabi,1,0,0,0,0,0
+591650,22 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+591650,25 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+591650,10 Jan 2021,v Punjab,Alur (2),1,0,0,0,0,0
+591650,12 Jan 2021,v Railways,Alur (3),2,0,0,0,0,0
+591650,14 Jan 2021,v J & K,Alur,2,0,0,0,0,0
+591650,4 Nov 2021,v Chandigarh,Sultanpur,2,0,0,0,0,0
+591650,5 Nov 2021,v Saurashtra,Sultanpur,1,0,0,0,0,0
+591650,6 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+591650,8 Nov 2021,v Uttarakhand,Sultanpur,1,0,0,0,0,0
+591650,9 Nov 2021,v Hyderabad,Sultanpur,1,0,0,0,0,0

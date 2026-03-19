@@ -1,0 +1,210 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+573170,8 Aug 2016,v Essex,Nottingham,2,0,0,0,0,0
+573170,7 Jul 2017,v Yorkshire,Leeds,1,0,0,0,0,0
+573170,8 Jul 2017,v Warwickshire,Birmingham,2,0,0,0,0,0
+573170,21 Jul 2017,v Derbyshire,Nottingham,2,0,0,0,0,0
+573170,22 Jul 2017,v Northants,Nottingham,1,1,1,0,0,1
+573170,25 Jul 2017,v Durham,Chester-le-Street,1,0,0,0,0,0
+573170,26 Jul 2017,v Worcs,Nottingham,1,1,1,0,0,1
+573170,5 Jul 2018,v Lancashire,Manchester,1,0,0,0,0,0
+573170,6 Jul 2018,v Bears,Worcester,2,0,0,0,0,0
+573170,8 Jul 2018,v Derbyshire,Derby,1,2,2,0,0,2
+573170,13 Jul 2018,v Northants,Worcester,2,0,0,0,0,0
+573170,15 Jul 2018,v Yorkshire,Worcester,1,0,0,0,0,0
+573170,20 Jul 2018,v Durham,Chester-le-Street,2,0,0,0,0,0
+573170,27 Jul 2018,v Northants,Northampton,1,0,0,0,0,0
+573170,3 Aug 2018,v Durham,Worcester,1,0,0,0,0,0
+573170,9 Aug 2018,v Derbyshire,Worcester,2,1,1,0,0,1
+573170,10 Aug 2018,v Leics,Leicester,1,2,2,0,0,2
+573170,17 Aug 2018,v Bears,Birmingham,2,0,0,0,0,0
+573170,25 Aug 2018,v Gloucs,Worcester,1,0,0,0,0,0
+573170,15 Sep 2018,v Lancashire,Birmingham,2,0,0,0,0,0
+573170,15 Sep 2018,v Sussex,Birmingham,1,0,0,0,0,0
+573170,18 Jul 2019,v Worcs,Nottingham,1,1,1,0,0,1
+573170,24 Jul 2019,v Northants,Nottingham,1,1,1,0,0,1
+573170,27 Jul 2019,v Leics,Nottingham,1,0,0,0,0,0
+573170,2 Aug 2019,v Bears,Nottingham,2,1,1,0,0,1
+573170,3 Aug 2019,v Lancashire,Manchester,1,0,0,0,0,0
+573170,9 Aug 2019,v Bears,Birmingham,1,0,0,0,0,0
+573170,25 Aug 2019,v Yorkshire,Nottingham,2,0,0,0,0,0
+573170,5 Sep 2019,v Middlesex,Nottingham,1,0,0,0,0,0
+573170,21 Sep 2019,v Worcs,Birmingham,1,1,1,0,0,1
+573170,4 Sep 2020,v Derbyshire,Liverpool,1,1,1,0,0,1
+573170,11 Sep 2020,v Notts,Nottingham,2,0,0,0,0,0
+573170,14 Sep 2020,v Yorkshire,Leeds,1,0,0,0,0,0
+573170,17 Sep 2020,v Yorkshire,Manchester,2,0,0,0,0,0
+573170,18 Sep 2020,v Durham,Manchester,1,0,0,0,0,0
+573170,20 Sep 2020,v Leics,Manchester,1,0,0,0,0,0
+573170,1 Oct 2020,v Sussex,Hove,2,2,2,0,0,2
+573170,4 Oct 2020,v Notts,Birmingham,2,0,0,0,0,0
+573170,9 Jun 2021,v Derbyshire,Manchester,1,0,0,0,0,0
+573170,10 Jun 2021,v Leics,Manchester,2,1,1,0,0,1
+573170,13 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+573170,15 Jun 2021,v Derbyshire,Derby,1,1,1,0,0,1
+573170,17 Jun 2021,v Durham,Chester-le-Street,2,0,0,0,0,0
+573170,20 Jun 2021,v Notts,Manchester,1,1,1,0,0,1
+573170,25 Jun 2021,v Northants,Northampton,2,0,0,0,0,0
+573170,26 Jun 2021,v Notts,Nottingham,1,1,1,0,0,1
+573170,1 Jul 2021,v Worcs,Manchester,2,0,0,0,0,0
+573170,2 Jul 2021,v Yorkshire,Leeds,1,0,0,0,0,0
+573170,9 Jul 2021,v Northants,Manchester,1,0,0,0,0,0
+573170,16 Jul 2021,v Durham,Manchester,2,0,0,0,0,0
+573170,17 Jul 2021,v Yorkshire,Manchester,1,1,1,0,0,1
+573170,24 Jul 2021,v Brave,Nottingham,1,0,0,0,0,0
+573170,26 Jul 2021,v N S-Chargers,Nottingham,1,0,0,0,0,0
+573170,29 Jul 2021,v Spirit,Lord's,2,2,2,0,0,2
+573170,1 Aug 2021,v Phoenix,Birmingham,2,1,1,0,0,1
+573170,6 Aug 2021,v Fire,Cardiff,1,0,0,0,0,0
+573170,7 Feb 2022,v Qalandars,Karachi,1,0,0,0,0,0
+573170,27 May 2022,v Yorkshire,Manchester,2,1,1,0,0,1
+573170,29 May 2022,v Worcs,Manchester,2,0,0,0,0,0
+573170,31 May 2022,v Notts,Nottingham,2,0,0,0,0,0
+573170,1 Jun 2022,v Derbyshire,Manchester,2,0,0,0,0,0
+573170,3 Jun 2022,v Northants,Manchester,1,0,0,0,0,0
+573170,7 Jun 2022,v Leics,Leicester,1,0,0,0,0,0
+573170,8 Jun 2022,v Yorkshire,Leeds,2,1,1,0,0,1
+573170,23 Jun 2022,v Durham,Blackpool,-,TDNF,-,-,-,-
+573170,24 Jun 2022,v Derbyshire,Derby,1,0,0,0,0,0
+573170,1 Jul 2022,v Worcs,Worcester,1,1,1,0,0,1
+573170,3 Jul 2022,v Bears,Manchester,1,0,0,0,0,0
+573170,8 Jul 2022,v Essex,Manchester,1,0,0,0,0,0
+573170,16 Jul 2022,v Yorkshire,Birmingham,1,0,0,0,0,0
+573170,16 Jul 2022,v Hampshire,Birmingham,1,0,0,0,0,0
+573170,6 Aug 2022,v Phoenix,Nottingham,1,0,0,0,0,0
+573170,9 Aug 2022,v N S-Chargers,Leeds,1,0,0,0,0,0
+573170,13 Aug 2022,v Originals,Manchester,1,0,0,0,0,0
+573170,15 Aug 2022,v Phoenix,Birmingham,2,0,0,0,0,0
+573170,17 Aug 2022,v Invincibles,Nottingham,2,1,1,0,0,1
+573170,20 Aug 2022,v Spirit,Nottingham,1,1,1,0,0,1
+573170,25 Aug 2022,v Brave,Southampton,2,0,0,0,0,0
+573170,29 Aug 2022,v Fire,Nottingham,2,0,0,0,0,0
+573170,3 Sep 2022,v Originals,Lord's,1,0,0,0,0,0
+573170,20 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+573170,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+573170,13 Dec 2022,v Thunder,Canberra,2,0,0,0,0,0
+573170,16 Dec 2022,v Hurricanes,Melbourne,2,0,0,0,0,0
+573170,23 Dec 2022,v Scorchers,Melbourne,1,0,0,0,0,0
+573170,26 Dec 2022,v Sixers,Sydney,2,0,0,0,0,0
+573170,29 Dec 2022,v Scorchers,Perth,2,0,0,0,0,0
+573170,31 Dec 2022,v Strikers,Adelaide,2,0,0,0,0,0
+573170,3 Jan 2023,v Renegades,Melbourne,1,0,0,0,0,0
+573170,6 Jan 2023,v Sixers,Melbourne,2,0,0,0,0,0
+573170,9 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+573170,12 Jan 2023,v Strikers,Melbourne,1,0,0,0,0,0
+573170,14 Jan 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+573170,16 Jan 2023,v Heat,Melbourne,2,1,1,0,0,1
+573170,22 Jan 2023,v Heat,Brisbane,1,0,0,0,0,0
+573170,25 Jan 2023,v Thunder,Melbourne,2,1,1,0,0,1
+573170,14 Feb 2023,v Rangpur,Mirpur,2,0,0,0,0,0
+573170,16 Feb 2023,v Victorians,Mirpur,2,0,0,0,0,0
+573170,20 May 2023,v Derbyshire,Birmingham,1,0,0,0,0,0
+573170,25 May 2023,v Leics,Manchester,1,1,1,0,0,1
+573170,27 May 2023,v Notts,Manchester,2,0,0,0,0,0
+573170,29 May 2023,v Bears,Birmingham,2,0,0,0,0,0
+573170,1 Jun 2023,v Yorkshire,Leeds,1,2,2,0,0,2
+573170,2 Jun 2023,v Durham,Chester-le-Street,2,0,0,0,0,0
+573170,4 Jun 2023,v Notts,Nottingham,2,0,0,0,0,0
+573170,7 Jun 2023,v Worcs,Blackpool,1,2,2,0,0,2
+573170,16 Jun 2023,v Northants,Northampton,2,2,2,0,0,2
+573170,18 Jun 2023,v Durham,Manchester,2,0,0,0,0,0
+573170,20 Jun 2023,v Worcs,Worcester,2,0,0,0,0,0
+573170,23 Jun 2023,v Derbyshire,Manchester,2,1,1,0,0,1
+573170,2 Jul 2023,v Northants,Manchester,1,1,1,0,0,1
+573170,7 Jul 2023,v Surrey,Manchester,1,0,0,0,0,0
+573170,1 Aug 2023,v Brave,Nottingham,2,1,1,0,0,1
+573170,9 Aug 2023,v N S-Chargers,Nottingham,1,0,0,0,0,0
+573170,12 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+573170,14 Aug 2023,v Fire,Cardiff,2,0,0,0,0,0
+573170,17 Aug 2023,v Originals,Nottingham,1,0,0,0,0,0
+573170,19 Aug 2023,v Phoenix,Nottingham,2,0,0,0,0,0
+573170,21 Aug 2023,v Invincibles,The Oval,2,0,0,0,0,0
+573170,30 Aug 2023,v New Zealand,Chester-le-Street,1,1,1,0,0,1
+573170,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+573170,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+573170,28 Jan 2024,v Warriors,Sharjah,1,1,1,0,0,1
+573170,30 Jan 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+573170,1 Feb 2024,v DC,Dubai (DICS),2,0,0,0,0,0
+573170,3 Feb 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+573170,4 Feb 2024,v MI Emirates,Abu Dhabi,1,1,1,0,0,1
+573170,13 Feb 2024,v Rangpur,Chattogram,1,0,0,0,0,0
+573170,14 Feb 2024,v Victorians,Chattogram,2,0,0,0,0,0
+573170,18 Feb 2024,v Gladiators,Lahore,1,1,1,0,0,1
+573170,21 Feb 2024,v Kings,Lahore,2,0,0,0,0,0
+573170,23 Feb 2024,v Sultans,Multan,2,0,0,0,0,0
+573170,25 Feb 2024,v Qalandars,Lahore,2,0,0,0,0,0
+573170,26 Feb 2024,v United,Lahore,2,0,0,0,0,0
+573170,4 Mar 2024,v United,Rawalpindi,1,0,0,0,0,0
+573170,5 Mar 2024,v Sultans,Rawalpindi,2,0,0,0,0,0
+573170,8 Mar 2024,v Gladiators,Rawalpindi,2,0,0,0,0,0
+573170,11 Mar 2024,v Kings,Karachi,2,0,0,0,0,0
+573170,14 Mar 2024,v Sultans,Karachi,2,0,0,0,0,0
+573170,16 Mar 2024,v United,Karachi,2,0,0,0,0,0
+573170,24 Mar 2024,v GT,Ahmedabad,1,0,0,0,0,0
+573170,27 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+573170,30 May 2024,v Durham,Manchester,1,0,0,0,0,0
+573170,31 May 2024,v Worcs,Worcester,2,2,2,0,0,2
+573170,2 Jun 2024,v Derbyshire,Manchester,2,0,0,0,0,0
+573170,7 Jun 2024,v Bears,Manchester,2,0,0,0,0,0
+573170,9 Jun 2024,v Notts,Nottingham,1,0,0,0,0,0
+573170,14 Jun 2024,v Leics,Leicester,2,1,1,0,0,1
+573170,16 Jun 2024,v Durham,Chester-le-Street,1,0,0,0,0,0
+573170,20 Jun 2024,v Yorkshire,Leeds,1,0,0,0,0,0
+573170,7 Jul 2024,v Worcs,Manchester,1,0,0,0,0,0
+573170,17 Jul 2024,v Notts,Manchester,1,0,0,0,0,0
+573170,19 Jul 2024,v Northants,Manchester,2,0,0,0,0,0
+573170,26 Jul 2024,v N S-Chargers,Leeds,2,0,0,0,0,0
+573170,29 Jul 2024,v Originals,Manchester,2,1,1,0,0,1
+573170,31 Jul 2024,v Phoenix,Nottingham,1,1,1,0,0,1
+573170,3 Aug 2024,v Fire,Nottingham,1,1,1,0,0,1
+573170,7 Aug 2024,v Spirit,Nottingham,2,0,0,0,0,0
+573170,10 Aug 2024,v Brave,Southampton,2,0,0,0,0,0
+573170,12 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+573170,4 Sep 2024,v Sussex,Hove,2,0,0,0,0,0
+573170,12 Jan 2025,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+573170,14 Jan 2025,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+573170,16 Jan 2025,v MI Emirates,Dubai (DICS),1,1,1,0,0,1
+573170,18 Jan 2025,v KnightRiders,Dubai (DICS),2,3,3,0,0,3
+573170,19 Apr 2025,v Sultans,Rawalpindi,2,2,2,0,0,2
+573170,21 Apr 2025,v Kings,Karachi,2,0,0,0,0,0
+573170,24 Apr 2025,v Qalandars,Lahore,1,1,1,0,0,1
+573170,27 Apr 2025,v Gladiators,Lahore,1,0,0,0,0,0
+573170,2 May 2025,v United,Lahore,1,0,0,0,0,0
+573170,5 May 2025,v Sultans,Multan,1,0,0,0,0,0
+573170,17 May 2025,v Kings,Rawalpindi,1,0,0,0,0,0
+573170,18 May 2025,v Qalandars,Rawalpindi,1,0,0,0,0,0
+573170,29 May 2025,v Worcs,Manchester,2,0,0,0,0,0
+573170,8 Jun 2025,v West Indies,Bristol,1,1,1,0,0,1
+573170,10 Jun 2025,v West Indies,Southampton,2,1,1,0,0,1
+573170,13 Jun 2025,v Worcs,Worcester,1,1,1,0,0,1
+573170,20 Jun 2025,v Derbyshire,Derby,2,0,0,0,0,0
+573170,4 Jul 2025,v Northants,Northampton,1,0,0,0,0,0
+573170,5 Jul 2025,v Derbyshire,Manchester,2,1,1,0,0,1
+573170,9 Jul 2025,v Bears,Birmingham,1,1,1,0,0,1
+573170,11 Jul 2025,v Yorkshire,Manchester,1,0,0,0,0,0
+573170,13 Jul 2025,v Durham,Manchester,1,1,1,0,0,1
+573170,17 Jul 2025,v Yorkshire,Leeds,2,0,0,0,0,0
+573170,18 Jul 2025,v Notts,Nottingham,2,0,0,0,0,0
+573170,5 Aug 2025,v Invincibles,Lord's,2,0,0,0,0,0
+573170,9 Aug 2025,v Fire,Cardiff,2,0,0,0,0,0
+573170,14 Aug 2025,v Rockets,Lord's,2,0,0,0,0,0
+573170,17 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+573170,20 Aug 2025,v N S-Chargers,Lord's,2,0,0,0,0,0
+573170,23 Aug 2025,v Brave,Lord's,2,1,1,0,0,1
+573170,25 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+573170,6 Sep 2025,v Kent,Manchester,1,1,1,0,0,1
+573170,10 Sep 2025,v South Africa,Cardiff,1,1,1,0,0,1
+573170,12 Sep 2025,v South Africa,Manchester,2,1,1,0,0,1
+573170,17 Sep 2025,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+573170,21 Sep 2025,v Ireland,Dublin (Malahide),1,1,1,0,0,1
+573170,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+573170,20 Oct 2025,v New Zealand,Christchurch,2,0,0,0,0,0
+573170,23 Oct 2025,v New Zealand,Auckland,1,0,0,0,0,0
+573170,17 Dec 2025,v Sixers,Sydney,1,0,0,0,0,0
+573170,27 Dec 2025,v Heat,Brisbane,1,0,0,0,0,0
+573170,31 Dec 2025,v Heat,Adelaide,1,1,1,0,0,1
+573170,4 Jan 2026,v Scorchers,Perth,1,1,1,0,0,1
+573170,6 Jan 2026,v Thunder,Adelaide,2,0,0,0,0,0
+573170,9 Jan 2026,v Hurricanes,Hobart,1,0,0,0,0,0
+573170,11 Jan 2026,v Scorchers,Adelaide,1,0,0,0,0,0
+573170,3 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+573170,8 Feb 2026,v Nepal,Wankhede,2,1,1,0,0,1

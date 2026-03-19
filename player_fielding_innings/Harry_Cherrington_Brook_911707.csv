@@ -1,0 +1,178 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+911707,5 Jul 2018,v Durham,Leeds,2,0,0,0,0,0
+911707,8 Jul 2018,v Bears,Birmingham,2,0,0,0,0,0
+911707,13 Jul 2018,v Durham,Chester-le-Street,2,0,0,0,0,0
+911707,15 Jul 2018,v Worcs,Worcester,2,0,0,0,0,0
+911707,30 Jul 2018,v Derbyshire,Leeds,1,0,0,0,0,0
+911707,31 Jul 2018,v Leics,Leeds,2,0,0,0,0,0
+911707,3 Aug 2018,v Northants,Leeds,1,0,0,0,0,0
+911707,10 Aug 2018,v Notts,Nottingham,1,0,0,0,0,0
+911707,4 Oct 2018,v Qalandars,Abu Dhabi,2,0,0,0,0,0
+911707,6 Oct 2018,v Hurricanes,Abu Dhabi,1,0,0,0,0,0
+911707,20 Jul 2019,v Derbyshire,Chesterfield,2,0,0,0,0,0
+911707,23 Jul 2019,v Leics,Leicester,2,1,1,0,0,1
+911707,25 Jul 2019,v Lancashire,Leeds,1,1,1,0,0,1
+911707,2 Aug 2019,v Worcs,Leeds,2,1,1,0,0,1
+911707,4 Aug 2019,v Bears,Leeds,1,0,0,0,0,0
+911707,29 Aug 2019,v Northants,Leeds,2,4,4,0,0,4
+911707,30 Aug 2019,v Bears,Birmingham,2,0,0,0,0,0
+911707,30 Aug 2020,v Derbyshire,Leeds,2,0,0,0,0,0
+911707,31 Aug 2020,v Notts,Nottingham,2,1,1,0,0,1
+911707,4 Sep 2020,v Durham,Chester-le-Street,2,0,0,0,0,0
+911707,11 Sep 2020,v Leics,Leicester,2,1,1,0,0,1
+911707,14 Sep 2020,v Lancashire,Leeds,2,0,0,0,0,0
+911707,16 Sep 2020,v Durham,Leeds,1,3,3,0,0,3
+911707,17 Sep 2020,v Lancashire,Manchester,1,2,2,0,0,2
+911707,20 Sep 2020,v Derbyshire,Leeds,1,0,0,0,0,0
+911707,10 Jun 2021,v Bears,Leeds,1,0,0,0,0,0
+911707,11 Jun 2021,v Durham,Chester-le-Street,1,1,1,0,0,1
+911707,15 Jun 2021,v Leics,Leeds,2,1,1,0,0,1
+911707,16 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+911707,20 Jun 2021,v Derbyshire,Leeds,2,2,2,0,0,2
+911707,23 Jun 2021,v Worcs,Leeds,2,2,2,0,0,2
+911707,25 Jun 2021,v Leics,Leicester,1,0,0,0,0,0
+911707,26 Jun 2021,v Northants,Leeds,2,1,1,0,0,1
+911707,30 Jun 2021,v Bears,Birmingham,2,0,0,0,0,0
+911707,2 Jul 2021,v Lancashire,Leeds,2,2,2,0,0,2
+911707,9 Jul 2021,v Notts,Nottingham,2,0,0,0,0,0
+911707,17 Jul 2021,v Lancashire,Manchester,2,0,0,0,0,0
+911707,24 Jul 2021,v Fire,Leeds,1,0,0,0,0,0
+911707,26 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+911707,31 Jul 2021,v Invincibles,Leeds,1,1,1,0,0,1
+911707,3 Aug 2021,v Spirit,Lord's,2,2,2,0,0,2
+911707,7 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+911707,24 Aug 2021,v Sussex,Chester-le-Street,2,0,0,0,0,0
+911707,14 Dec 2021,v Scorchers,Hobart,1,1,1,0,0,1
+911707,20 Dec 2021,v Scorchers,Hobart,1,2,2,0,0,2
+911707,24 Dec 2021,v Stars,Hobart,2,2,2,0,0,2
+911707,27 Dec 2021,v Strikers,Hobart,1,0,0,0,0,0
+911707,29 Dec 2021,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+911707,1 Jan 2022,v Heat,Hobart,1,1,1,0,0,1
+911707,10 Jan 2022,v Thunder,Melbourne,2,0,0,0,0,0
+911707,26 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+911707,5 Feb 2022,v United,Karachi,2,0,0,0,0,0
+911707,7 Feb 2022,v Gladiators,Karachi,2,0,0,0,0,0
+911707,11 Feb 2022,v Sultans,Lahore,2,1,1,0,0,1
+911707,13 Feb 2022,v Gladiators,Lahore,1,0,0,0,0,0
+911707,18 Feb 2022,v Kings,Lahore,1,0,0,0,0,0
+911707,19 Feb 2022,v United,Lahore,2,1,1,0,0,1
+911707,21 Feb 2022,v Zalmi,Lahore,1,2,2,0,0,2
+911707,23 Feb 2022,v Sultans,Lahore,1,0,0,0,0,0
+911707,25 Feb 2022,v United,Lahore,2,1,1,0,0,1
+911707,27 Feb 2022,v Sultans,Lahore,2,0,0,0,0,0
+911707,25 May 2022,v Worcs,Leeds,1,2,2,0,0,2
+911707,27 May 2022,v Lancashire,Manchester,1,2,2,0,0,2
+911707,29 May 2022,v Leics,Leeds,1,0,0,0,0,0
+911707,3 Jun 2022,v Durham,Leeds,1,0,0,0,0,0
+911707,6 Jun 2022,v Notts,Leeds,2,0,0,0,0,0
+911707,10 Jun 2022,v Bears,Birmingham,1,0,0,0,0,0
+911707,17 Jun 2022,v Durham,Chester-le-Street,2,2,2,0,0,2
+911707,18 Jun 2022,v Derbyshire,Chesterfield,2,0,0,0,0,0
+911707,23 Jun 2022,v Worcs,Worcester,1,0,0,0,0,0
+911707,24 Jun 2022,v Northants,Northampton,2,1,1,0,0,1
+911707,1 Jul 2022,v Bears,Leeds,1,0,0,0,0,0
+911707,3 Jul 2022,v Leics,Leicester,1,0,0,0,0,0
+911707,7 Jul 2022,v India,Southampton,1,1,1,0,0,1
+911707,9 Jul 2022,v India,Birmingham,1,0,0,0,0,0
+911707,10 Jul 2022,v India,Nottingham,2,0,0,0,0,0
+911707,16 Jul 2022,v Lancashire,Birmingham,2,2,2,0,0,2
+911707,5 Aug 2022,v Originals,Manchester,1,1,1,0,0,1
+911707,14 Aug 2022,v Spirit,Leeds,2,1,1,0,0,1
+911707,19 Aug 2022,v Phoenix,Birmingham,2,2,2,0,0,2
+911707,21 Aug 2022,v Originals,Leeds,1,2,2,0,0,2
+911707,26 Aug 2022,v Fire,Cardiff,1,0,0,0,0,0
+911707,31 Aug 2022,v Brave,Leeds,2,1,1,0,0,1
+911707,20 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+911707,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+911707,23 Sep 2022,v Pakistan,Karachi,2,2,2,0,0,2
+911707,25 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+911707,28 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+911707,30 Sep 2022,v Pakistan,Lahore,1,2,2,0,0,2
+911707,2 Oct 2022,v Pakistan,Lahore,2,1,1,0,0,1
+911707,9 Oct 2022,v Australia,Perth,2,1,1,0,0,1
+911707,12 Oct 2022,v Australia,Canberra,2,2,2,0,0,2
+911707,14 Oct 2022,v Australia,Canberra,2,1,1,0,0,1
+911707,22 Oct 2022,v Afghanistan,Perth,1,0,0,0,0,0
+911707,26 Oct 2022,v Ireland,Melbourne,1,0,0,0,0,0
+911707,1 Nov 2022,v New Zealand,Brisbane,2,0,0,0,0,0
+911707,5 Nov 2022,v Sri Lanka,Sydney,1,0,0,0,0,0
+911707,10 Nov 2022,v India,Adelaide,1,0,0,0,0,0
+911707,13 Nov 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+911707,2 Apr 2023,v RR,Hyderabad,1,0,0,0,0,0
+911707,7 Apr 2023,v LSG,Lucknow,2,0,0,0,0,0
+911707,9 Apr 2023,v Punjab Kings,Hyderabad,1,0,0,0,0,0
+911707,14 Apr 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+911707,18 Apr 2023,v MI,Hyderabad,1,0,0,0,0,0
+911707,21 Apr 2023,v CSK,Chennai,2,0,0,0,0,0
+911707,24 Apr 2023,v DC,Hyderabad,1,1,1,0,0,1
+911707,29 Apr 2023,v DC,Delhi,2,0,0,0,0,0
+911707,4 May 2023,v KKR,Hyderabad,1,1,1,0,0,1
+911707,18 May 2023,v RCB,Hyderabad,2,0,0,0,0,0
+911707,21 May 2023,v MI,Wankhede,2,1,1,0,0,1
+911707,3 Aug 2023,v Phoenix,Leeds,1,0,0,0,0,0
+911707,6 Aug 2023,v Brave,Southampton,2,1,1,0,0,1
+911707,9 Aug 2023,v Rockets,Nottingham,2,1,1,0,0,1
+911707,11 Aug 2023,v Invincibles,Leeds,1,0,0,0,0,0
+911707,13 Aug 2023,v Originals,Leeds,1,0,0,0,0,0
+911707,18 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+911707,20 Aug 2023,v Originals,Manchester,1,1,1,0,0,1
+911707,22 Aug 2023,v Fire,Leeds,2,0,0,0,0,0
+911707,30 Aug 2023,v New Zealand,Chester-le-Street,1,1,1,0,0,1
+911707,1 Sep 2023,v New Zealand,Manchester,2,2,2,0,0,2
+911707,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+911707,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+911707,12 Dec 2023,v West Indies,Bridgetown,2,2,2,0,0,2
+911707,14 Dec 2023,v West Indies,St George's,1,1,1,0,0,1
+911707,16 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+911707,19 Dec 2023,v West Indies,Tarouba,2,2,2,0,0,2
+911707,21 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+911707,25 May 2024,v Pakistan,Birmingham,2,1,1,0,0,1
+911707,30 May 2024,v Pakistan,The Oval,1,1,1,0,0,1
+911707,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+911707,8 Jun 2024,v Australia,Bridgetown,1,1,1,0,0,1
+911707,13 Jun 2024,v Oman,North Sound,1,0,0,0,0,0
+911707,15 Jun 2024,v Namibia,North Sound,2,2,2,0,0,2
+911707,19 Jun 2024,v West Indies,Gros Islet,1,1,1,0,0,1
+911707,21 Jun 2024,v South Africa,Gros Islet,1,2,2,0,0,2
+911707,23 Jun 2024,v U.S.A.,Bridgetown,1,1,1,0,0,1
+911707,27 Jun 2024,v India,Providence,1,0,0,0,0,0
+911707,30 Jul 2024,v Brave,Leeds,1,0,0,0,0,0
+911707,2 Aug 2024,v Invincibles,The Oval,2,0,0,0,0,0
+911707,4 Aug 2024,v Originals,Leeds,2,0,0,0,0,0
+911707,6 Aug 2024,v Phoenix,Birmingham,2,0,0,0,0,0
+911707,8 Aug 2024,v Fire,Cardiff,2,0,0,0,0,0
+911707,11 Aug 2024,v Originals,Manchester,1,1,1,0,0,1
+911707,13 Aug 2024,v Spirit,Leeds,1,0,0,0,0,0
+911707,22 Jan 2025,v India,Eden Gardens,2,1,1,0,0,1
+911707,25 Jan 2025,v India,Chennai,2,0,0,0,0,0
+911707,28 Jan 2025,v India,Rajkot,2,1,1,0,0,1
+911707,31 Jan 2025,v India,Pune,1,0,0,0,0,0
+911707,2 Feb 2025,v India,Wankhede,1,0,0,0,0,0
+911707,6 Jun 2025,v West Indies,Chester-le-Street,2,0,0,0,0,0
+911707,8 Jun 2025,v West Indies,Bristol,1,0,0,0,0,0
+911707,10 Jun 2025,v West Indies,Southampton,2,1,1,0,0,1
+911707,7 Aug 2025,v Fire,Leeds,1,1,1,0,0,1
+911707,10 Aug 2025,v Rockets,Nottingham,2,0,0,0,0,0
+911707,13 Aug 2025,v Brave,Southampton,1,0,0,0,0,0
+911707,15 Aug 2025,v Phoenix,Leeds,2,1,1,0,0,1
+911707,17 Aug 2025,v Originals,Manchester,1,0,0,0,0,0
+911707,20 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+911707,23 Aug 2025,v Invincibles,Leeds,2,0,0,0,0,0
+911707,26 Aug 2025,v Originals,Leeds,2,0,0,0,0,0
+911707,30 Aug 2025,v Rockets,The Oval,2,0,0,0,0,0
+911707,10 Sep 2025,v South Africa,Cardiff,1,1,1,0,0,1
+911707,12 Sep 2025,v South Africa,Manchester,2,0,0,0,0,0
+911707,18 Oct 2025,v New Zealand,Christchurch,-,TDNF,-,-,-,-
+911707,20 Oct 2025,v New Zealand,Christchurch,2,1,1,0,0,1
+911707,23 Oct 2025,v New Zealand,Auckland,1,0,0,0,0,0
+911707,30 Jan 2026,v Sri Lanka,Pallekele,1,1,1,0,0,1
+911707,1 Feb 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+911707,3 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+911707,8 Feb 2026,v Nepal,Wankhede,2,0,0,0,0,0
+911707,11 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+911707,14 Feb 2026,v Scotland,Eden Gardens,1,0,0,0,0,0
+911707,16 Feb 2026,v Italy,Eden Gardens,2,1,1,0,0,1
+911707,22 Feb 2026,v Sri Lanka,Pallekele,2,1,1,0,0,1
+911707,24 Feb 2026,v Pakistan,Pallekele,1,0,0,0,0,0
+911707,27 Feb 2026,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+911707,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

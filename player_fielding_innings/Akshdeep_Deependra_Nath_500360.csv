@@ -1,0 +1,87 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+500360,17 Mar 2013,v Railways,Nagpur,1,0,0,0,0,0
+500360,19 Mar 2013,v M. Pradesh,Nagpur,2,0,0,0,0,0
+500360,21 Mar 2013,v Rajasthan,Nagpur,1,0,0,0,0,0
+500360,22 Mar 2013,v Vidarbha,Nagpur,1,0,0,0,0,0
+500360,27 Mar 2013,v Bengal,Indore,1,0,0,0,0,0
+500360,28 Mar 2013,v Karnataka,Indore,2,0,0,0,0,0
+500360,29 Mar 2013,v Baroda,Indore,1,0,0,0,0,0
+500360,30 Mar 2013,v Punjab,Indore,1,0,0,0,0,0
+500360,31 Mar 2014,v Vidarbha,Nagpur,2,1,1,0,0,1
+500360,1 Apr 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+500360,2 Apr 2014,v M. Pradesh,Nagpur,1,0,0,0,0,0
+500360,5 Apr 2014,v Railways,Nagpur,2,0,0,0,0,0
+500360,9 Apr 2014,v Jharkhand,Rajkot,1,0,0,0,0,0
+500360,10 Apr 2014,v Goa,Rajkot,2,0,0,0,0,0
+500360,11 Apr 2014,v Gujarat,Rajkot,1,0,0,0,0,0
+500360,12 Apr 2014,v Haryana,Rajkot,1,0,0,0,0,0
+500360,14 Apr 2014,v Baroda,Wankhede,1,3,3,0,0,3
+500360,24 Mar 2015,v Vidarbha,Indore,2,1,1,0,0,1
+500360,25 Mar 2015,v Rajasthan,Indore,1,0,0,0,0,0
+500360,27 Mar 2015,v M. Pradesh,Indore,1,1,1,0,0,1
+500360,29 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+500360,2 Jan 2016,v Maharashtra,Cuttack,1,0,0,0,0,0
+500360,3 Jan 2016,v Odisha,Cuttack,2,1,1,0,0,1
+500360,4 Jan 2016,v Karnataka,Cuttack,1,0,0,0,0,0
+500360,7 Jan 2016,v Mumbai,Cuttack,1,0,0,0,0,0
+500360,8 Jan 2016,v Services,Cuttack,2,1,1,0,0,1
+500360,15 Jan 2016,v Jharkhand,Mumbai,1,0,0,0,0,0
+500360,16 Jan 2016,v Gujarat,Mumbai,1,0,0,0,0,0
+500360,18 Jan 2016,v Delhi,Mumbai,1,0,0,0,0,0
+500360,20 Jan 2016,v Baroda,Wankhede,2,1,1,0,0,1
+500360,14 Apr 2016,v Supergiants,Rajkot,1,0,0,0,0,0
+500360,16 Apr 2016,v MI,Wankhede,1,0,0,0,0,0
+500360,21 Apr 2016,v SRH,Rajkot,2,0,0,0,0,0
+500360,14 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+500360,29 Jan 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+500360,31 Jan 2017,v Rajasthan,Jaipur,1,2,2,0,0,2
+500360,2 Feb 2017,v Railways,Jaipur,1,0,0,0,0,0
+500360,3 Feb 2017,v M. Pradesh,Jaipur,1,0,0,0,0,0
+500360,5 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+500360,18 Feb 2017,v South Zone,Wankhede,1,1,1,0,0,1
+500360,23 Apr 2017,v Kings XI,Rajkot,1,0,0,0,0,0
+500360,9 Jan 2018,v Rajasthan,Raipur,2,1,1,0,0,1
+500360,10 Jan 2018,v M. Pradesh,Raipur,2,0,0,0,0,0
+500360,13 Jan 2018,v Railways,Raipur,1,0,0,0,0,0
+500360,15 Jan 2018,v Vidarbha,Raipur,2,1,1,0,1,0
+500360,16 Jan 2018,v Chhattisgarh,Raipur,1,2,2,0,0,2
+500360,22 Jan 2018,v Bengal,Eden Gardens,2,2,2,0,2,0
+500360,23 Jan 2018,v Tamil Nadu,Eden Gardens,2,1,1,0,1,0
+500360,24 Jan 2018,v Baroda,Kolkata,1,1,1,0,1,0
+500360,25 Jan 2018,v Delhi,Kolkata,1,3,3,0,3,0
+500360,8 May 2018,v RR,Jaipur,1,1,1,0,0,1
+500360,21 Feb 2019,v Maharashtra,Delhi,1,0,0,0,0,0
+500360,22 Feb 2019,v Hyderabad,Delhi,1,0,0,0,0,0
+500360,24 Feb 2019,v Tripura,Delhi,2,1,1,0,0,1
+500360,25 Feb 2019,v Puducherry,Delhi,2,0,0,0,0,0
+500360,27 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+500360,28 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+500360,2 Mar 2019,v Baroda,Delhi,1,0,0,0,0,0
+500360,9 Mar 2019,v Karnataka,Indore,1,0,0,0,0,0
+500360,10 Mar 2019,v Vidarbha,Indore,1,0,0,0,0,0
+500360,11 Mar 2019,v Delhi,Indore,2,0,0,0,0,0
+500360,2 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+500360,5 Apr 2019,v KKR,Bengaluru,2,0,0,0,0,0
+500360,7 Apr 2019,v DC,Bengaluru,2,1,1,0,0,1
+500360,13 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+500360,15 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+500360,19 Apr 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+500360,21 Apr 2019,v CSK,Bengaluru,2,0,0,0,0,0
+500360,24 Apr 2019,v Kings XI,Bengaluru,2,0,0,0,0,0
+500360,9 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+500360,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,1,0,0,0,0,0
+500360,12 Nov 2019,v Tripura,Thumba,1,0,0,0,0,0
+500360,14 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+500360,15 Nov 2019,v Manipur,Thumba,1,0,0,0,0,0
+500360,17 Nov 2019,v Kerala,Thiruvananthapuram,1,0,0,0,0,0
+500360,4 Nov 2021,v Chandigarh,Sultanpur,2,0,0,0,0,0
+500360,5 Nov 2021,v Saurashtra,Sultanpur,1,2,1,1,1,0
+500360,6 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+500360,8 Nov 2021,v Uttarakhand,Sultanpur,1,0,0,0,0,0
+500360,9 Nov 2021,v Hyderabad,Sultanpur,1,1,1,0,0,1
+500360,11 Oct 2022,v Puducherry,Jaipur,1,1,1,0,0,1
+500360,12 Oct 2022,v Tripura,Jaipur,2,0,0,0,0,0
+500360,14 Oct 2022,v Delhi,Jaipur,1,0,0,0,0,0
+500360,18 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+500360,20 Oct 2022,v Hyderabad,Jaipur,1,0,0,0,0,0
+500360,22 Oct 2022,v Punjab,Jaipur,2,1,1,0,0,1

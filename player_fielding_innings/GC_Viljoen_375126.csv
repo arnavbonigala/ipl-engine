@@ -1,0 +1,181 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+375126,1 Oct 2011,v North West,Benoni,2,1,1,0,0,1
+375126,9 Oct 2011,v Northerns,Pretoria,1,0,0,0,0,0
+375126,15 Jan 2012,v Namibia,Benoni,1,0,0,0,0,0
+375126,17 Feb 2013,v Cape Cobras,Potchefstroom,1,0,0,0,0,0
+375126,20 Feb 2013,v Titans,Johannesburg,1,0,0,0,0,0
+375126,22 Feb 2013,v Dolphins,Durban,2,1,1,0,0,1
+375126,24 Feb 2013,v Warriors,Potchefstroom,2,0,0,0,0,0
+375126,2 Mar 2013,v Knights,Johannesburg,1,1,1,0,0,1
+375126,8 Mar 2013,v Cape Cobras,Cape Town,1,0,0,0,0,0
+375126,12 Mar 2013,v Knights,Kimberley,1,0,0,0,0,0
+375126,19 Mar 2013,v Titans,Centurion,1,0,0,0,0,0
+375126,22 Mar 2013,v Warriors,East London,1,0,0,0,0,0
+375126,28 Mar 2013,v Dolphins,Johannesburg,2,0,0,0,0,0
+375126,7 Apr 2013,v Titans,Johannesburg,2,1,1,0,0,1
+375126,23 Sep 2013,v Scorchers,Ahmedabad,-,TDNF,-,-,-,-
+375126,25 Sep 2013,v RR,Jaipur,1,1,1,0,0,1
+375126,27 Sep 2013,v MI,Jaipur,2,0,0,0,0,0
+375126,29 Sep 2013,v Otago,Jaipur,2,1,1,0,0,1
+375126,5 Jan 2014,v Warriors,Cape Town,1,1,1,0,0,1
+375126,15 Jan 2014,v Cape Cobras,Paarl,1,1,1,0,0,1
+375126,17 Jan 2014,v Titans,Potchefstroom,1,1,1,0,0,1
+375126,19 Jan 2014,v Warriors,East London,1,0,0,0,0,0
+375126,22 Jan 2014,v Dolphins,Durban,1,0,0,0,0,0
+375126,24 Jan 2014,v Knights,Potchefstroom,-,TDNF,-,-,-,-
+375126,26 Jan 2014,v Titans,Benoni,2,0,0,0,0,0
+375126,31 Jan 2014,v Cape Cobras,Johannesburg,2,0,0,0,0,0
+375126,2 Feb 2014,v Dolphins,Johannesburg,2,1,1,0,0,1
+375126,2 Nov 2014,v Dolphins,Johannesburg,1,0,0,0,0,0
+375126,7 Nov 2014,v Warriors,East London,1,0,0,0,0,0
+375126,9 Nov 2014,v Knights,Potchefstroom,2,0,0,0,0,0
+375126,14 Nov 2014,v Cape Cobras,Johannesburg,2,0,0,0,0,0
+375126,16 Nov 2014,v Warriors,Durban,1,1,1,0,0,1
+375126,21 Nov 2014,v Titans,Benoni,1,1,1,0,0,1
+375126,23 Nov 2014,v Cape Cobras,Cape Town,1,1,1,0,0,1
+375126,1 Nov 2015,v Cape Cobras,Cape Town,1,0,0,0,0,0
+375126,4 Nov 2015,v Dolphins,Durban,1,0,0,0,0,0
+375126,6 Nov 2015,v Titans,Potchefstroom,2,0,0,0,0,0
+375126,13 Nov 2015,v Warriors,Gqeberha,1,0,0,0,0,0
+375126,22 Nov 2015,v Dolphins,Johannesburg,2,0,0,0,0,0
+375126,25 Nov 2015,v Knights,Potchefstroom,1,0,0,0,0,0
+375126,29 Nov 2015,v Cape Cobras,Johannesburg,2,0,0,0,0,0
+375126,4 Dec 2015,v Titans,Benoni,1,0,0,0,0,0
+375126,6 Dec 2015,v Warriors,Johannesburg,2,0,0,0,0,0
+375126,12 Nov 2016,v Titans,Johannesburg,1,0,0,0,0,0
+375126,16 Nov 2016,v Dolphins,Durban,1,1,1,0,0,1
+375126,20 Nov 2016,v Cape Cobras,Potchefstroom,2,0,0,0,0,0
+375126,25 Nov 2016,v Warriors,Gqeberha,2,0,0,0,0,0
+375126,27 Nov 2016,v Dolphins,Johannesburg,2,1,1,0,0,1
+375126,2 Dec 2016,v Knights,Kimberley,2,0,0,0,0,0
+375126,4 Dec 2016,v Warriors,Durban,2,0,0,0,0,0
+375126,7 Dec 2016,v Titans,Centurion,1,0,0,0,0,0
+375126,9 Dec 2016,v Knights,Potchefstroom,2,0,0,0,0,0
+375126,11 Dec 2016,v Cape Cobras,Paarl,2,0,0,0,0,0
+375126,13 Dec 2016,v Warriors,Gqeberha,2,0,0,0,0,0
+375126,7 Jul 2017,v Northants,Northampton,1,0,0,0,0,0
+375126,8 Jul 2017,v Yorkshire,Chesterfield,2,0,0,0,0,0
+375126,16 Jul 2017,v Lancashire,Manchester,2,0,0,0,0,0
+375126,19 Jul 2017,v Worcs,Worcester,1,0,0,0,0,0
+375126,21 Jul 2017,v Notts,Nottingham,1,0,0,0,0,0
+375126,23 Jul 2017,v Warwickshire,Birmingham,1,0,0,0,0,0
+375126,25 Jul 2017,v Lancashire,Derby,2,1,1,0,0,1
+375126,30 Jul 2017,v Leics,Derby,1,0,0,0,0,0
+375126,3 Aug 2017,v Yorkshire,Leeds,1,0,0,0,0,0
+375126,4 Aug 2017,v Notts,Derby,1,0,0,0,0,0
+375126,15 Aug 2017,v Durham,Derby,1,0,0,0,0,0
+375126,17 Aug 2017,v Leics,Leicester,2,0,0,0,0,0
+375126,18 Aug 2017,v Worcs,Derby,2,0,0,0,0,0
+375126,22 Aug 2017,v Hampshire,Derby,1,0,0,0,0,0
+375126,17 Nov 2017,v Cape Cobras,Johannesburg,1,0,0,0,0,0
+375126,19 Nov 2017,v Dolphins,Potchefstroom,1,0,0,0,0,0
+375126,24 Nov 2017,v Cape Cobras,Paarl,1,0,0,0,0,0
+375126,26 Nov 2017,v Warriors,Cape Town,2,0,0,0,0,0
+375126,1 Dec 2017,v Knights,Bloemfontein,1,0,0,0,0,0
+375126,8 Dec 2017,v Warriors,Potchefstroom,1,0,0,0,0,0
+375126,10 Dec 2017,v Knights,Johannesburg,-,TDNF,-,-,-,-
+375126,22 Feb 2018,v Zalmi,Dubai (DICS),1,1,1,0,0,1
+375126,10 Mar 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+375126,6 Jul 2018,v Lancashire,Derby,2,0,0,0,0,0
+375126,19 Jul 2018,v Northants,Northampton,2,0,0,0,0,0
+375126,27 Jul 2018,v Leics,Leicester,1,0,0,0,0,0
+375126,28 Jul 2018,v Yorkshire,Chesterfield,1,0,0,0,0,0
+375126,30 Jul 2018,v Yorkshire,Leeds,2,1,1,0,0,1
+375126,2 Aug 2018,v Notts,Nottingham,1,0,0,0,0,0
+375126,3 Aug 2018,v Bears,Derby,2,0,0,0,0,0
+375126,8 Aug 2018,v Northants,Derby,2,0,0,0,0,0
+375126,9 Aug 2018,v Worcs,Worcester,1,1,1,0,0,1
+375126,11 Aug 2018,v Leics,Derby,1,0,0,0,0,0
+375126,1 Feb 2019,v Sylhet,Mirpur,1,0,0,0,0,0
+375126,4 Feb 2019,v Dynamites,Mirpur,2,0,0,0,0,0
+375126,16 Feb 2019,v Kings,Dubai (DICS),2,1,1,0,0,1
+375126,17 Feb 2019,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+375126,27 Mar 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+375126,30 Mar 2019,v MI,Mohali,1,0,0,0,0,0
+375126,1 Apr 2019,v DC,Mohali,2,0,0,0,0,0
+375126,10 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+375126,20 Apr 2019,v DC,Delhi,2,0,0,0,0,0
+375126,24 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+375126,20 Jul 2019,v Somerset,Canterbury,2,0,0,0,0,0
+375126,21 Jul 2019,v Hampshire,Southampton,1,0,0,0,0,0
+375126,26 Jul 2019,v Essex,Canterbury,2,0,0,0,0,0
+375126,30 Jul 2019,v Surrey,The Oval,1,0,0,0,0,0
+375126,1 Aug 2019,v Middlesex,Lord's,2,0,0,0,0,0
+375126,2 Aug 2019,v Sussex,Hove,2,0,0,0,0,0
+375126,4 Aug 2019,v Hampshire,Beckenham,1,0,0,0,0,0
+375126,7 Aug 2019,v Gloucs,Bristol,2,0,0,0,0,0
+375126,10 Aug 2019,v Somerset,Taunton,1,0,0,0,0,0
+375126,23 Aug 2019,v Surrey,Canterbury,1,0,0,0,0,0
+375126,29 Aug 2019,v Gloucs,Canterbury,1,0,0,0,0,0
+375126,30 Aug 2019,v Essex,Chelmsford,1,0,0,0,0,0
+375126,12 Sep 2019,v Tallawahs,Kingston,1,0,0,0,0,0
+375126,15 Sep 2019,v Patriots,Basseterre,2,0,0,0,0,0
+375126,20 Sep 2019,v Tridents,Gros Islet,1,0,0,0,0,0
+375126,21 Sep 2019,v Trinbago,Gros Islet,-,TDNF,-,-,-,-
+375126,24 Sep 2019,v Patriots,Gros Islet,2,0,0,0,0,0
+375126,25 Sep 2019,v Amazon,Gros Islet,2,0,0,0,0,0
+375126,27 Sep 2019,v Tallawahs,Gros Islet,1,1,1,0,0,1
+375126,29 Sep 2019,v Tridents,Bridgetown,1,0,0,0,0,0
+375126,10 Nov 2019,v Blitz,Paarl,2,0,0,0,0,0
+375126,17 Nov 2019,v Spartans,Paarl,2,0,0,0,0,0
+375126,22 Nov 2019,v Jozi Stars,Paarl,1,0,0,0,0,0
+375126,24 Nov 2019,v Blitz,Cape Town,2,0,0,0,0,0
+375126,27 Nov 2019,v Giants,Gqeberha,2,0,0,0,0,0
+375126,29 Nov 2019,v Spartans,Centurion,2,0,0,0,0,0
+375126,1 Dec 2019,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+375126,4 Dec 2019,v Durban Heat,Paarl,2,1,1,0,0,1
+375126,14 Nov 2020,v Qalandars,Karachi,2,1,1,0,0,1
+375126,20 Oct 2021,v North West,Kimberley,1,1,1,0,0,1
+375126,7 Feb 2022,v W Province,Gqeberha,2,0,0,0,0,0
+375126,9 Feb 2022,v Titans,Gqeberha,1,0,0,0,0,0
+375126,13 Feb 2022,v North West,Gqeberha,2,0,0,0,0,0
+375126,15 Feb 2022,v Lions,Gqeberha,2,0,0,0,0,0
+375126,17 Feb 2022,v Warriors,Gqeberha,1,0,0,0,0,0
+375126,20 Feb 2022,v Dolphins,Gqeberha,2,1,1,0,0,1
+375126,27 Feb 2022,v Titans,Gqeberha,2,1,1,0,0,1
+375126,18 Oct 2022,v W Province,Potchefstroom,1,0,0,0,0,0
+375126,20 Oct 2022,v Warriors,Potchefstroom,1,1,1,0,0,1
+375126,22 Oct 2022,v Dolphins,Potchefstroom,1,0,0,0,0,0
+375126,25 Oct 2022,v Titans,Potchefstroom,2,0,0,0,0,0
+375126,26 Oct 2022,v Knights,Potchefstroom,1,0,0,0,0,0
+375126,29 Oct 2022,v North West,Potchefstroom,1,1,1,0,0,1
+375126,2 Nov 2022,v Dolphins,Potchefstroom,1,0,0,0,0,0
+375126,13 Jan 2023,v MI Cape Town,Cape Town,1,0,0,0,0,0
+375126,17 Jan 2023,v Paarl Royals,Paarl,1,0,0,0,0,0
+375126,20 Jan 2023,v Capitals,Durban,2,0,0,0,0,0
+375126,24 Jan 2023,v Super Kings,Johannesburg,2,0,0,0,0,0
+375126,30 Jul 2023,v Colombo,Colombo (RPS),2,0,0,0,0,0
+375126,1 Aug 2023,v Aura,Colombo (RPS),2,0,0,0,0,0
+375126,14 Jan 2024,v Paarl Royals,Centurion,1,0,0,0,0,0
+375126,18 Jan 2024,v Super Giants,Centurion,2,0,0,0,0,0
+375126,20 Jan 2024,v Super Kings,Johannesburg,2,0,0,0,0,0
+375126,8 Mar 2024,v Lions,Johannesburg,1,0,0,0,0,0
+375126,15 Mar 2024,v Dolphins,Paarl,2,0,0,0,0,0
+375126,17 Mar 2024,v Warriors,Gqeberha,1,0,0,0,0,0
+375126,21 Mar 2024,v North West,Potchefstroom (Uni),2,0,0,0,0,0
+375126,12 Apr 2024,v Titans,Centurion,2,0,0,0,0,0
+375126,21 Sep 2024,v Easterns,Kimberley,1,0,0,0,0,0
+375126,24 Sep 2024,v Mpumalanga,White River,2,0,0,0,0,0
+375126,2 Oct 2024,v Border,Kimberley,2,0,0,0,0,0
+375126,5 Oct 2024,v KZN-Inland,Pietermaritzburg,1,0,0,0,0,0
+375126,9 Oct 2024,v S West D,Oudtshoorn,1,0,0,0,0,0
+375126,12 Oct 2024,v Limpopo,Kimberley,2,0,0,0,0,0
+375126,16 Oct 2024,v Easterns,Benoni,1,0,0,0,0,0
+375126,16 Jan 2025,v Capitals,Johannesburg,1,0,0,0,0,0
+375126,20 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+375126,24 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+375126,26 Jan 2025,v Sunrisers,Johannesburg,1,0,0,0,0,0
+375126,28 Jan 2025,v Capitals,Centurion,2,1,1,0,0,1
+375126,30 Jan 2025,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+375126,1 Feb 2025,v Super Giants,Johannesburg,1,0,0,0,0,0
+375126,5 Feb 2025,v Sunrisers,Centurion,1,0,0,0,0,0
+375126,29 Oct 2025,v Titans,Pietermaritzburg,1,0,0,0,0,0
+375126,11 Nov 2025,v North West,Potchefstroom,1,0,0,0,0,0
+375126,13 Nov 2025,v W Province,Pietermaritzburg,2,0,0,0,0,0
+375126,15 Nov 2025,v Warriors,Pietermaritzburg,1,0,0,0,0,0
+375126,8 Jan 2026,v Super Kings,Johannesburg,1,0,0,0,0,0
+375126,10 Jan 2026,v Capitals,Paarl,1,0,0,0,0,0
+375126,15 Jan 2026,v Capitals,Centurion,1,0,0,0,0,0
+375126,17 Jan 2026,v Super Giants,Durban,1,1,1,0,0,1
+375126,22 Jan 2026,v Super Kings,Centurion,2,0,0,0,0,0
+375126,23 Jan 2026,v Sunrisers,Johannesburg,2,0,0,0,0,0

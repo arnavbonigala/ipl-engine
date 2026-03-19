@@ -1,0 +1,43 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+327123,14 Mar 2011,v Bengal,Hyderabad,1,0,0,0,0,0
+327123,17 Mar 2013,v Gujarat,Ahmedabad,2,0,0,0,0,0
+327123,30 Mar 2014,v Gujarat,Mumbai,1,0,0,0,0,0
+327123,31 Mar 2014,v Saurashtra,Wankhede,1,0,0,0,0,0
+327123,3 Apr 2014,v Mumbai,Wankhede,2,0,0,0,0,0
+327123,4 Apr 2014,v Baroda,Mumbai,2,0,0,0,0,0
+327123,27 Mar 2015,v Mumbai,Pune,1,0,0,0,0,0
+327123,2 Jan 2016,v UP,Cuttack,2,0,0,0,0,0
+327123,3 Jan 2016,v Services,Cuttack,2,0,0,0,0,0
+327123,4 Jan 2016,v Odisha,Cuttack,1,0,0,0,0,0
+327123,7 Jan 2016,v Karnataka,Cuttack,2,3,3,0,0,3
+327123,8 Jan 2016,v Mumbai,Cuttack,2,0,0,0,0,0
+327123,29 Jan 2017,v Gujarat,Vadodara,2,0,0,0,0,0
+327123,30 Jan 2017,v Saurashtra,Vadodara,2,1,1,0,0,1
+327123,2 Feb 2017,v Mumbai,Vadodara,2,0,0,0,0,0
+327123,4 Feb 2017,v Baroda,Vadodara,1,0,0,0,0,0
+327123,13 Feb 2017,v North Zone,Wankhede,1,0,0,0,0,0
+327123,28 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+327123,7 Jan 2018,v Gujarat,Rajkot,1,0,0,0,0,0
+327123,8 Jan 2018,v Saurashtra,Rajkot,1,0,0,0,0,0
+327123,11 Jan 2018,v Mumbai,Rajkot,2,0,0,0,0,0
+327123,13 Jan 2018,v Baroda,Rajkot,2,1,1,0,0,1
+327123,21 Feb 2019,v UP,Delhi,2,0,0,0,0,0
+327123,22 Feb 2019,v Puducherry,Delhi,1,0,0,0,0,0
+327123,24 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+327123,25 Feb 2019,v Hyderabad,Delhi,1,0,0,0,0,0
+327123,27 Feb 2019,v Uttarakhand,Delhi,1,0,0,0,0,0
+327123,28 Feb 2019,v Baroda,Delhi,1,2,2,0,0,2
+327123,2 Mar 2019,v Tripura,Delhi,-,TDNF,-,-,-,-
+327123,9 Mar 2019,v Bengal,Indore,1,0,0,0,0,0
+327123,10 Mar 2019,v Gujarat,Indore,1,0,0,0,0,0
+327123,11 Mar 2019,v Jharkhand,Indore,2,1,1,0,0,1
+327123,12 Mar 2019,v Railways,Indore,2,1,1,0,0,1
+327123,14 Mar 2019,v Karnataka,Indore,2,0,0,0,0,0
+327123,21 Oct 2023,v Puducherry,Mohali,1,2,2,0,0,2
+327123,23 Oct 2023,v Jharkhand,Mohali,1,0,0,0,0,0
+327123,25 Oct 2023,v Vidarbha,Mohali,1,1,1,0,0,1
+327123,27 Oct 2023,v Rajasthan,New Chandigarh,1,0,0,0,0,0
+327123,23 Nov 2024,v Nagaland,Hyderabad,1,0,0,0,0,0
+327123,27 Nov 2024,v Mumbai,Hyderabad,2,1,1,0,0,1
+327123,29 Nov 2024,v Andhra,Hyderabad,1,0,0,0,0,0
+327123,3 Dec 2024,v Goa,Hyderabad,2,0,0,0,0,0

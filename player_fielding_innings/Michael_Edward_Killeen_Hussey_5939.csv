@@ -1,0 +1,162 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+5939,13 Jun 2003,v Worcs,Worcester,2,2,2,0,0,2
+5939,16 Jun 2003,v Glamorgan,Cardiff,2,1,1,0,0,1
+5939,19 Jun 2003,v Gloucs,Bristol,2,0,0,0,0,0
+5939,20 Jun 2003,v Somerset,Northampton,2,2,2,0,0,2
+5939,24 Jun 2003,v Warwickshire,Northampton,1,0,0,0,0,0
+5939,14 Jul 2004,v Glamorgan,Cardiff,1,0,0,0,0,0
+5939,15 Jul 2004,v Warwickshire,Bristol,2,0,0,0,0,0
+5939,13 Jan 2005,v Pakistanis,Adelaide,2,1,1,0,0,1
+5939,17 Feb 2005,v New Zealand,Auckland,2,1,1,0,0,1
+5939,13 Jun 2005,v England,Southampton,1,2,2,0,0,2
+5939,9 Jan 2006,v South Africa,Brisbane,2,1,1,0,0,1
+5939,9 Jan 2007,v England,Sydney,2,1,1,0,0,1
+5939,12 Sep 2007,v Zimbabwe,Cape Town,2,0,0,0,0,0
+5939,14 Sep 2007,v England,Cape Town,1,1,1,0,0,1
+5939,16 Sep 2007,v Bangladesh,Cape Town,1,1,1,0,0,1
+5939,18 Sep 2007,v Pakistan,Johannesburg,2,0,0,0,0,0
+5939,20 Sep 2007,v Sri Lanka,Cape Town,1,0,0,0,0,0
+5939,22 Sep 2007,v India,Durban,1,1,1,0,0,1
+5939,11 Dec 2007,v New Zealand,W.A.C.A,2,0,0,0,0,0
+5939,1 Feb 2008,v India,Melbourne,1,0,0,0,0,0
+5939,19 Apr 2008,v Kings XI,Mohali,2,0,0,0,0,0
+5939,23 Apr 2008,v MI,Chennai,2,0,0,0,0,0
+5939,26 Apr 2008,v KKR,Chennai,1,0,0,0,0,0
+5939,28 Apr 2008,v RCB,Bengaluru,2,2,2,0,0,2
+5939,20 Jun 2008,v West Indies,Bridgetown,2,0,0,0,0,0
+5939,11 Jan 2009,v South Africa,Melbourne,2,1,1,0,0,1
+5939,13 Jan 2009,v South Africa,Brisbane,1,1,1,0,0,1
+5939,27 Mar 2009,v South Africa,Johannesburg,2,0,0,0,0,0
+5939,6 Jun 2009,v West Indies,The Oval,2,0,0,0,0,0
+5939,8 Jun 2009,v Sri Lanka,Nottingham,2,0,0,0,0,0
+5939,6 Apr 2010,v MI,Chennai,2,0,0,0,0,0
+5939,10 Apr 2010,v Chargers,Nagpur,2,0,0,0,0,0
+5939,15 Apr 2010,v Daredevils,Chennai,2,0,0,0,0,0
+5939,2 May 2010,v Pakistan,Gros Islet,2,2,2,0,0,2
+5939,5 May 2010,v Bangladesh,Bridgetown,2,3,3,0,0,3
+5939,7 May 2010,v India,Bridgetown,2,1,1,0,0,1
+5939,9 May 2010,v Sri Lanka,Bridgetown,2,1,1,0,0,1
+5939,11 May 2010,v West Indies,Gros Islet,1,1,1,0,0,1
+5939,14 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+5939,16 May 2010,v England,Bridgetown,2,0,0,0,0,0
+5939,5 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+5939,6 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+5939,18 Sep 2010,v Victoria,Gqeberha,2,0,0,0,0,0
+5939,22 Sep 2010,v Warriors,Gqeberha,2,2,2,0,0,2
+5939,24 Sep 2010,v RCB,Durban,2,0,0,0,0,0
+5939,26 Sep 2010,v Warriors,Johannesburg,1,0,0,0,0,0
+5939,16 Apr 2011,v RCB,Chennai,2,0,0,0,0,0
+5939,18 Apr 2011,v Kochi,Kochi,2,0,0,0,0,0
+5939,22 Apr 2011,v MI,Wankhede,1,2,2,0,0,2
+5939,25 Apr 2011,v Warriors,Chennai,2,0,0,0,0,0
+5939,27 Apr 2011,v Warriors,DY Patil,1,0,0,0,0,0
+5939,1 May 2011,v Chargers,Chennai,2,1,1,0,0,1
+5939,4 May 2011,v RR,Chennai,1,1,1,0,0,1
+5939,7 May 2011,v KKR,Eden Gardens,2,0,0,0,0,0
+5939,9 May 2011,v RR,Jaipur,2,0,0,0,0,0
+5939,12 May 2011,v Daredevils,Chennai,2,1,1,0,0,1
+5939,18 May 2011,v Kochi,Chennai,2,0,0,0,0,0
+5939,22 May 2011,v RCB,Bengaluru,2,0,0,0,0,0
+5939,24 May 2011,v RCB,Wankhede,1,0,0,0,0,0
+5939,28 May 2011,v RCB,Chennai,2,1,1,0,0,1
+5939,24 Sep 2011,v MI,Chennai,2,0,0,0,0,0
+5939,28 Sep 2011,v Cape Cobras,Chennai,1,2,2,0,0,2
+5939,2 Oct 2011,v Trinidad & T,Chennai,1,0,0,0,0,0
+5939,4 Oct 2011,v NSW,Chennai,1,0,0,0,0,0
+5939,18 Dec 2011,v Hurricanes,W.A.C.A,1,2,2,0,0,2
+5939,27 Mar 2012,v West Indies,Gros Islet,1,0,0,0,0,0
+5939,30 Mar 2012,v West Indies,Bridgetown,1,0,0,0,0,0
+5939,30 Apr 2012,v KKR,Chennai,2,0,0,0,0,0
+5939,10 May 2012,v RR,Jaipur,1,1,1,0,0,1
+5939,12 May 2012,v Daredevils,Chennai,1,1,1,0,0,1
+5939,14 May 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+5939,17 May 2012,v Kings XI,Dharamsala,2,0,0,0,0,0
+5939,23 May 2012,v MI,Bengaluru,2,0,0,0,0,0
+5939,25 May 2012,v Daredevils,Chennai,2,1,1,0,0,1
+5939,27 May 2012,v KKR,Chennai,2,1,1,0,0,1
+5939,5 Sep 2012,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+5939,7 Sep 2012,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+5939,10 Sep 2012,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+5939,19 Sep 2012,v Ireland,Colombo (RPS),1,0,0,0,0,0
+5939,22 Sep 2012,v West Indies,Colombo (RPS),1,1,1,0,0,1
+5939,28 Sep 2012,v India,Colombo (RPS),1,0,0,0,0,0
+5939,30 Sep 2012,v South Africa,Colombo (RPS),1,0,0,0,0,0
+5939,2 Oct 2012,v Pakistan,Colombo (RPS),1,0,0,0,0,0
+5939,5 Oct 2012,v West Indies,Colombo (RPS),1,0,0,0,0,0
+5939,14 Oct 2012,v Sixers,Johannesburg,1,0,0,0,0,0
+5939,9 Dec 2012,v Strikers,W.A.C.A,2,1,1,0,0,1
+5939,16 Jan 2013,v Stars,W.A.C.A,1,0,0,0,0,0
+5939,19 Jan 2013,v Heat,W.A.C.A,1,0,0,0,0,0
+5939,6 Apr 2013,v MI,Chennai,1,0,0,0,0,0
+5939,10 Apr 2013,v Kings XI,Mohali,1,2,2,0,0,2
+5939,13 Apr 2013,v RCB,Chennai,1,0,0,0,0,0
+5939,18 Apr 2013,v Daredevils,Delhi,2,1,1,0,0,1
+5939,20 Apr 2013,v KKR,Eden Gardens,1,1,1,0,0,1
+5939,22 Apr 2013,v RR,Chennai,1,1,1,0,0,1
+5939,25 Apr 2013,v SRH,Chennai,1,0,0,0,0,0
+5939,28 Apr 2013,v KKR,Chennai,2,0,0,0,0,0
+5939,30 Apr 2013,v Warriors,Pune,2,0,0,0,0,0
+5939,2 May 2013,v Kings XI,Chennai,2,1,1,0,0,1
+5939,5 May 2013,v MI,Wankhede,1,0,0,0,0,0
+5939,8 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+5939,12 May 2013,v RR,Jaipur,2,0,0,0,0,0
+5939,14 May 2013,v Daredevils,Chennai,2,0,0,0,0,0
+5939,18 May 2013,v RCB,Bengaluru,1,1,1,0,0,1
+5939,21 May 2013,v MI,Delhi,2,2,2,0,0,2
+5939,26 May 2013,v MI,Eden Gardens,1,1,1,0,0,1
+5939,22 Sep 2013,v Titans,Ranchi,1,0,0,0,0,0
+5939,26 Sep 2013,v SRH,Ranchi,2,0,0,0,0,0
+5939,28 Sep 2013,v Heat,Ranchi,1,1,1,0,0,1
+5939,2 Oct 2013,v Trinidad & T,Delhi,2,0,0,0,0,0
+5939,4 Oct 2013,v RR,Jaipur,1,0,0,0,0,0
+5939,21 Dec 2013,v Sixers,Sydney,2,0,0,0,0,0
+5939,27 Dec 2013,v Strikers,Sydney,1,0,0,0,0,0
+5939,1 Jan 2014,v Stars,Sydney,2,0,0,0,0,0
+5939,3 Jan 2014,v Scorchers,W.A.C.A,2,0,0,0,0,0
+5939,8 Jan 2014,v Heat,Sydney,1,1,1,0,0,1
+5939,11 Jan 2014,v Hurricanes,Hobart,1,0,0,0,0,0
+5939,14 Jan 2014,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+5939,25 Jan 2014,v Sixers,Sydney,2,0,0,0,0,0
+5939,16 Apr 2014,v KKR,Abu Dhabi,1,0,0,0,0,0
+5939,19 Apr 2014,v RCB,Dubai (DICS),2,0,0,0,0,0
+5939,25 Apr 2014,v CSK,Dubai (DICS),2,0,0,0,0,0
+5939,27 Apr 2014,v Daredevils,Sharjah,2,1,1,0,0,1
+5939,19 May 2014,v RR,Ahmedabad,2,1,1,0,0,1
+5939,21 May 2014,v Kings XI,Mohali,1,0,0,0,0,0
+5939,23 May 2014,v Daredevils,Wankhede,2,1,1,0,0,1
+5939,25 May 2014,v RR,Wankhede,1,0,0,0,0,0
+5939,28 May 2014,v CSK,Brabourne,2,0,0,0,0,0
+5939,13 Sep 2014,v Lahore Lions,Raipur,2,1,1,0,0,1
+5939,14 Sep 2014,v Express,Raipur,1,0,0,0,0,0
+5939,16 Sep 2014,v Northern Dis,Raipur,2,0,0,0,0,0
+5939,21 Dec 2014,v Heat,Sydney,2,2,2,0,0,2
+5939,27 Dec 2014,v Sixers,Sydney,1,0,0,0,0,0
+5939,30 Dec 2014,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+5939,1 Jan 2015,v Scorchers,W.A.C.A,2,1,1,0,0,1
+5939,9 Jan 2015,v Hurricanes,Sydney,2,0,0,0,0,0
+5939,22 Jan 2015,v Sixers,Sydney,2,0,0,0,0,0
+5939,16 May 2015,v Kings XI,Mohali,1,0,0,0,0,0
+5939,19 May 2015,v MI,Wankhede,1,0,0,0,0,0
+5939,22 May 2015,v RCB,Ranchi,1,1,1,0,0,1
+5939,24 May 2015,v MI,Eden Gardens,1,0,0,0,0,0
+5939,6 Dec 2015,v Central D,Christchurch,2,0,0,0,0,0
+5939,17 Dec 2015,v Sixers,Sydney,2,1,1,0,0,1
+5939,20 Dec 2015,v Stars,Melbourne,2,1,1,0,0,1
+5939,28 Dec 2015,v Strikers,Sydney,1,1,1,0,0,1
+5939,1 Jan 2016,v Hurricanes,Hobart,1,0,0,0,0,0
+5939,3 Jan 2016,v Heat,Brisbane,2,0,0,0,0,0
+5939,11 Jan 2016,v Renegades,Sydney,2,0,0,0,0,0
+5939,16 Jan 2016,v Sixers,Sydney,2,0,0,0,0,0
+5939,21 Jan 2016,v Strikers,Adelaide,1,0,0,0,0,0
+5939,24 Jan 2016,v Stars,Melbourne,1,1,1,0,0,1
+5939,29 Jun 2016,v Trinbago,Port of Spain,1,0,0,0,0,0
+5939,3 Jul 2016,v Patriots,Basseterre,1,0,0,0,0,0
+5939,12 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+5939,17 Jul 2016,v Tridents,Bridgetown,1,1,1,0,0,1
+5939,21 Jul 2016,v Patriots,Gros Islet,2,2,2,0,0,2
+5939,23 Jul 2016,v Tridents,Gros Islet,1,2,2,0,0,2
+5939,24 Jul 2016,v Amazon,Gros Islet,1,1,1,0,0,1
+5939,26 Jul 2016,v Trinbago,Gros Islet,2,0,0,0,0,0
+5939,30 Jul 2016,v Tallawahs,Lauderhill,2,1,1,0,0,1
+5939,31 Jul 2016,v Tallawahs,Lauderhill,2,0,0,0,0,0
+5939,4 Aug 2016,v Trinbago,Basseterre,2,0,0,0,0,0

@@ -1,0 +1,341 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+403902,15 May 2015,v Leics,Manchester,1,0,0,0,0,0
+403902,22 May 2015,v Durham,Manchester,1,0,0,0,0,0
+403902,29 May 2015,v Derbyshire,Derby,2,0,0,0,0,0
+403902,5 Jun 2015,v Yorkshire,Leeds,1,0,0,0,0,0
+403902,12 Jun 2015,v Derbyshire,Manchester,2,0,0,0,0,0
+403902,18 Jun 2015,v Worcs,Manchester,2,0,0,0,0,0
+403902,19 Jun 2015,v Northants,Northampton,1,0,0,0,0,0
+403902,25 Jun 2015,v Durham,Chester-le-Street,1,0,0,0,0,0
+403902,26 Jun 2015,v Warwickshire,Manchester,1,0,0,0,0,0
+403902,3 Jul 2015,v Yorkshire,Manchester,2,0,0,0,0,0
+403902,10 Jul 2015,v Leics,Leicester,2,1,1,0,0,1
+403902,15 Jul 2015,v Notts,Manchester,2,0,0,0,0,0
+403902,17 Jul 2015,v Warwickshire,Birmingham,2,1,1,0,0,1
+403902,15 Aug 2015,v Kent,Canterbury,1,0,0,0,0,0
+403902,29 Aug 2015,v Hampshire,Birmingham,1,0,0,0,0,0
+403902,29 Aug 2015,v Northants,Birmingham,2,1,1,0,0,1
+403902,21 May 2016,v Derbyshire,Manchester,2,0,0,0,0,0
+403902,3 Jun 2016,v Yorkshire,Manchester,2,0,0,0,0,0
+403902,4 Jun 2016,v Notts,Nottingham,2,2,2,0,0,2
+403902,10 Jun 2016,v Leics,Manchester,1,0,0,0,0,0
+403902,19 Jun 2016,v Warwickshire,Birmingham,1,0,0,0,0,0
+403902,24 Jun 2016,v Worcs,Manchester,2,0,0,0,0,0
+403902,1 Jul 2016,v Yorkshire,Leeds,1,1,1,0,0,1
+403902,8 Jul 2016,v Worcs,Worcester,1,0,0,0,0,0
+403902,13 Jul 2016,v Derbyshire,Derby,2,0,0,0,0,0
+403902,15 Jul 2016,v Leics,Leicester,1,0,0,0,0,0
+403902,22 Jul 2016,v Durham,Chester-le-Street,2,0,0,0,0,0
+403902,29 Jul 2016,v Warwickshire,Manchester,2,2,2,0,0,2
+403902,23 Jun 2017,v South Africa,Taunton,1,0,0,0,0,0
+403902,25 Jun 2017,v South Africa,Cardiff,2,0,0,0,0,0
+403902,7 Jul 2017,v Durham,Chester-le-Street,2,1,1,0,0,1
+403902,9 Jul 2017,v Leics,Liverpool,2,0,0,0,0,0
+403902,14 Jul 2017,v Yorkshire,Manchester,2,0,0,0,0,0
+403902,16 Jul 2017,v Derbyshire,Manchester,1,1,1,0,0,1
+403902,23 Jul 2017,v Durham,Manchester,2,1,1,0,0,1
+403902,25 Jul 2017,v Derbyshire,Derby,1,0,0,0,0,0
+403902,30 Jul 2017,v Warwickshire,Birmingham,2,0,0,0,0,0
+403902,3 Aug 2017,v Northants,Northampton,1,0,0,0,0,0
+403902,4 Aug 2017,v Leics,Leicester,2,0,0,0,0,0
+403902,11 Aug 2017,v Yorkshire,Leeds,1,3,3,0,0,3
+403902,16 Aug 2017,v Worcs,Manchester,1,1,1,0,0,1
+403902,18 Aug 2017,v Warwickshire,Manchester,2,2,2,0,0,2
+403902,5 Jul 2018,v Worcs,Manchester,2,0,0,0,0,0
+403902,6 Jul 2018,v Derbyshire,Derby,1,0,0,0,0,0
+403902,8 Jul 2018,v Northants,Manchester,1,1,1,0,0,1
+403902,14 Jul 2018,v Derbyshire,Manchester,2,0,0,0,0,0
+403902,18 Jul 2018,v Leics,Leicester,1,2,2,0,0,2
+403902,20 Jul 2018,v Yorkshire,Manchester,2,1,1,0,0,1
+403902,15 Sep 2018,v Worcs,Birmingham,1,0,0,0,0,0
+403902,7 Dec 2018,v Pakistan A,Tolerance Oval,1,1,1,0,0,1
+403902,8 Dec 2018,v Pakistan A,Tolerance Oval,1,0,0,0,0,0
+403902,15 Feb 2019,v Sultans,Dubai (DICS),2,1,1,0,0,1
+403902,16 Feb 2019,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+403902,21 Feb 2019,v Zalmi,Sharjah,1,0,0,0,0,0
+403902,23 Feb 2019,v United,Sharjah,2,0,0,0,0,0
+403902,24 Feb 2019,v Gladiators,Sharjah,1,2,2,0,0,2
+403902,27 Feb 2019,v United,Dubai (DICS),2,0,0,0,0,0
+403902,28 Feb 2019,v Qalandars,Dubai (DICS),1,0,0,0,0,0
+403902,4 Mar 2019,v Sultans,Abu Dhabi,1,0,0,0,0,0
+403902,10 Mar 2019,v Gladiators,Karachi,2,0,0,0,0,0
+403902,11 Mar 2019,v Zalmi,Karachi,1,1,1,0,0,1
+403902,14 Mar 2019,v United,Karachi,2,0,0,0,0,0
+403902,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+403902,27 Apr 2019,v SRH,Jaipur,1,0,0,0,0,0
+403902,30 Apr 2019,v RCB,Bengaluru,1,2,2,0,0,2
+403902,4 May 2019,v DC,Delhi,2,2,2,0,0,2
+403902,25 Jul 2019,v Yorkshire,Leeds,2,0,0,0,0,0
+403902,26 Jul 2019,v Worcs,Manchester,1,0,0,0,0,0
+403902,2 Aug 2019,v Durham,Chester-le-Street,1,0,0,0,0,0
+403902,3 Aug 2019,v Notts,Manchester,2,0,0,0,0,0
+403902,11 Aug 2019,v Bears,Birmingham,1,0,0,0,0,0
+403902,14 Aug 2019,v Northants,Northampton,1,0,0,0,0,0
+403902,25 Aug 2019,v Worcs,Worcester,2,0,0,0,0,0
+403902,26 Aug 2019,v Derbyshire,Manchester,1,2,2,0,0,2
+403902,30 Aug 2019,v Leics,Manchester,1,0,0,0,0,0
+403902,4 Sep 2019,v Essex,Chester-le-Street,2,0,0,0,0,0
+403902,8 Nov 2019,v Jozi Stars,Johannesburg,2,0,0,0,0,0
+403902,10 Nov 2019,v Paarl Rocks,Paarl,1,1,1,0,0,1
+403902,14 Nov 2019,v Jozi Stars,Cape Town,2,0,0,0,0,0
+403902,17 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+403902,20 Nov 2019,v Giants,Gqeberha,2,0,0,0,0,0
+403902,24 Nov 2019,v Paarl Rocks,Cape Town,1,0,0,0,0,0
+403902,28 Nov 2019,v Durban Heat,Cape Town,2,0,0,0,0,0
+403902,1 Dec 2019,v Spartans,Cape Town,2,1,1,0,0,1
+403902,6 Dec 2019,v Giants,Cape Town,1,1,1,0,0,1
+403902,18 Dec 2019,v Sixers,Sydney,2,0,0,0,0,0
+403902,21 Dec 2019,v Renegades,Perth,2,0,0,0,0,0
+403902,23 Dec 2019,v Strikers,Adelaide,1,1,1,0,0,1
+403902,26 Dec 2019,v Sixers,Perth,1,0,0,0,0,0
+403902,1 Jan 2020,v Heat,Carrara,2,1,1,0,0,1
+403902,5 Jan 2020,v Hurricanes,Perth,1,0,0,0,0,0
+403902,7 Jan 2020,v Renegades,Geelong,1,2,2,0,0,2
+403902,11 Jan 2020,v Heat,Perth,2,1,1,0,0,1
+403902,13 Jan 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+403902,15 Jan 2020,v Stars,Perth,2,0,0,0,0,0
+403902,18 Jan 2020,v Stars,Melbourne,1,0,0,0,0,0
+403902,20 Jan 2020,v Thunder,Perth,1,0,0,0,0,0
+403902,24 Jan 2020,v Strikers,Perth,1,0,0,0,0,0
+403902,26 Jan 2020,v Thunder,Sydney,2,0,0,0,0,0
+403902,21 Feb 2020,v Kings,Karachi,1,0,0,0,0,0
+403902,22 Feb 2020,v Gladiators,Karachi,1,0,0,0,0,0
+403902,26 Feb 2020,v Sultans,Multan,2,0,0,0,0,0
+403902,28 Feb 2020,v Qalandars,Rawalpindi,2,1,1,0,0,1
+403902,2 Mar 2020,v Kings,Rawalpindi,2,0,0,0,0,0
+403902,5 Mar 2020,v Gladiators,Rawalpindi,2,2,2,0,0,2
+403902,7 Mar 2020,v United,Rawalpindi,1,3,3,0,0,3
+403902,10 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+403902,11 Sep 2020,v Notts,Nottingham,2,0,0,0,0,0
+403902,14 Sep 2020,v Yorkshire,Leeds,1,1,1,0,0,1
+403902,17 Sep 2020,v Yorkshire,Manchester,2,0,0,0,0,0
+403902,18 Sep 2020,v Durham,Manchester,1,1,1,0,0,1
+403902,20 Sep 2020,v Leics,Manchester,1,0,0,0,0,0
+403902,1 Oct 2020,v Sussex,Hove,2,0,0,0,0,0
+403902,4 Oct 2020,v Notts,Birmingham,2,0,0,0,0,0
+403902,28 Dec 2020,v Strikers,Adelaide,1,1,1,0,0,1
+403902,31 Dec 2020,v Strikers,Adelaide,1,1,1,0,0,1
+403902,3 Jan 2021,v Renegades,Perth,2,1,1,0,0,1
+403902,6 Jan 2021,v Sixers,Perth,2,0,0,0,0,0
+403902,9 Jan 2021,v Thunder,Perth,2,2,2,0,0,2
+403902,12 Jan 2021,v Hurricanes,Perth,1,0,0,0,0,0
+403902,16 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+403902,19 Jan 2021,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+403902,22 Jan 2021,v Hurricanes,Melbourne (Docklands),2,0,0,0,0,0
+403902,23 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+403902,26 Jan 2021,v Heat,Adelaide,1,0,0,0,0,0
+403902,30 Jan 2021,v Sixers,Canberra,2,0,0,0,0,0
+403902,4 Feb 2021,v Heat,Canberra,2,0,0,0,0,0
+403902,6 Feb 2021,v Sixers,Sydney,1,0,0,0,0,0
+403902,9 Jun 2021,v Derbyshire,Manchester,1,0,0,0,0,0
+403902,10 Jun 2021,v Leics,Manchester,2,0,0,0,0,0
+403902,13 Jun 2021,v Worcs,Worcester,2,0,0,0,0,0
+403902,15 Jun 2021,v Derbyshire,Derby,1,2,2,0,0,2
+403902,17 Jun 2021,v Durham,Chester-le-Street,2,0,0,0,0,0
+403902,23 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+403902,24 Jun 2021,v Sri Lanka,Cardiff,1,1,1,0,0,1
+403902,26 Jun 2021,v Sri Lanka,Southampton,2,1,1,0,0,1
+403902,16 Jul 2021,v Pakistan,Nottingham,1,0,0,0,0,0
+403902,18 Jul 2021,v Pakistan,Leeds,2,0,0,0,0,0
+403902,20 Jul 2021,v Pakistan,Manchester,1,1,1,0,0,1
+403902,23 Jul 2021,v Spirit,Birmingham,1,0,0,0,0,0
+403902,25 Jul 2021,v Originals,Manchester,2,0,0,0,0,0
+403902,30 Jul 2021,v Brave,Southampton,2,0,0,0,0,0
+403902,1 Aug 2021,v Rockets,Birmingham,1,1,1,0,0,1
+403902,4 Aug 2021,v Invincibles,Birmingham,1,0,0,0,0,0
+403902,9 Aug 2021,v Fire,Birmingham,2,0,0,0,0,0
+403902,13 Aug 2021,v Rockets,Nottingham,2,0,0,0,0,0
+403902,17 Aug 2021,v N S-Chargers,Leeds,1,1,1,0,0,1
+403902,21 Aug 2021,v Brave,Lord's,1,0,0,0,0,0
+403902,26 Aug 2021,v Somerset,Taunton,2,0,0,0,0,0
+403902,21 Sep 2021,v Punjab Kings,Dubai (DICS),2,1,1,0,0,1
+403902,25 Sep 2021,v DC,Abu Dhabi,1,1,1,0,0,1
+403902,27 Sep 2021,v SRH,Dubai (DICS),2,0,0,0,0,0
+403902,29 Sep 2021,v RCB,Dubai (DICS),2,0,0,0,0,0
+403902,7 Oct 2021,v KKR,Sharjah,1,1,1,0,0,1
+403902,23 Oct 2021,v West Indies,Dubai (DICS),1,1,1,0,0,1
+403902,27 Oct 2021,v Bangladesh,Abu Dhabi,1,1,1,0,0,1
+403902,30 Oct 2021,v Australia,Dubai (DICS),1,1,1,0,0,1
+403902,1 Nov 2021,v Sri Lanka,Sharjah,2,0,0,0,0,0
+403902,6 Nov 2021,v South Africa,Sharjah,1,0,0,0,0,0
+403902,10 Nov 2021,v New Zealand,Abu Dhabi,2,0,0,0,0,0
+403902,26 Jan 2022,v West Indies,Bridgetown,1,2,2,0,0,2
+403902,29 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+403902,30 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+403902,10 Feb 2022,v Sultans,Lahore,1,0,0,0,0,0
+403902,13 Feb 2022,v Kings,Lahore,2,1,1,0,0,1
+403902,15 Feb 2022,v Gladiators,Lahore,2,1,1,0,0,1
+403902,17 Feb 2022,v United,Lahore,2,1,1,0,0,1
+403902,27 Mar 2022,v RCB,DY Patil,1,0,0,0,0,0
+403902,1 Apr 2022,v KKR,Wankhede,2,0,0,0,0,0
+403902,3 Apr 2022,v CSK,Brabourne,2,2,2,0,0,2
+403902,8 Apr 2022,v GT,Brabourne,2,0,0,0,0,0
+403902,13 Apr 2022,v MI,Pune,2,0,0,0,0,0
+403902,17 Apr 2022,v SRH,DY Patil,2,0,0,0,0,0
+403902,20 Apr 2022,v DC,Brabourne,2,0,0,0,0,0
+403902,25 Apr 2022,v CSK,Wankhede,2,0,0,0,0,0
+403902,29 Apr 2022,v LSG,Pune,1,1,1,0,0,1
+403902,3 May 2022,v GT,DY Patil,1,1,1,0,0,1
+403902,7 May 2022,v RR,Wankhede,2,1,1,0,0,1
+403902,13 May 2022,v RCB,Brabourne,2,0,0,0,0,0
+403902,16 May 2022,v DC,DY Patil,1,0,0,0,0,0
+403902,22 May 2022,v SRH,Wankhede,1,1,1,0,0,1
+403902,27 May 2022,v Yorkshire,Manchester,2,0,0,0,0,0
+403902,29 May 2022,v Worcs,Manchester,2,1,1,0,0,1
+403902,31 May 2022,v Notts,Nottingham,2,0,0,0,0,0
+403902,1 Jun 2022,v Derbyshire,Manchester,2,1,1,0,0,1
+403902,3 Jun 2022,v Northants,Manchester,1,0,0,0,0,0
+403902,7 Jun 2022,v Leics,Leicester,1,0,0,0,0,0
+403902,8 Jun 2022,v Yorkshire,Leeds,2,0,0,0,0,0
+403902,7 Jul 2022,v India,Southampton,1,0,0,0,0,0
+403902,9 Jul 2022,v India,Birmingham,1,0,0,0,0,0
+403902,10 Jul 2022,v India,Nottingham,2,0,0,0,0,0
+403902,27 Jul 2022,v South Africa,Bristol,2,0,0,0,0,0
+403902,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+403902,31 Jul 2022,v South Africa,Southampton,1,1,1,0,0,1
+403902,6 Aug 2022,v Rockets,Nottingham,2,0,0,0,0,0
+403902,10 Aug 2022,v Brave,Birmingham,2,0,0,0,0,0
+403902,13 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+403902,15 Aug 2022,v Rockets,Birmingham,1,0,0,0,0,0
+403902,19 Aug 2022,v N S-Chargers,Birmingham,1,0,0,0,0,0
+403902,23 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+403902,22 Oct 2022,v Afghanistan,Perth,1,2,2,0,0,2
+403902,26 Oct 2022,v Ireland,Melbourne,1,0,0,0,0,0
+403902,1 Nov 2022,v New Zealand,Brisbane,2,0,0,0,0,0
+403902,5 Nov 2022,v Sri Lanka,Sydney,1,1,1,0,0,1
+403902,10 Nov 2022,v India,Adelaide,1,0,0,0,0,0
+403902,13 Nov 2022,v Pakistan,Melbourne,1,3,3,0,0,3
+403902,20 Apr 2023,v RCB,Mohali,1,0,0,0,0,0
+403902,22 Apr 2023,v MI,Wankhede,2,1,1,0,0,1
+403902,28 Apr 2023,v LSG,Mohali,1,0,0,0,0,0
+403902,30 Apr 2023,v CSK,Chennai,1,1,1,0,0,1
+403902,3 May 2023,v MI,Mohali,2,0,0,0,0,0
+403902,8 May 2023,v KKR,Eden Gardens,2,2,2,0,0,2
+403902,13 May 2023,v DC,Delhi,2,0,0,0,0,0
+403902,17 May 2023,v DC,Dharamsala,1,0,0,0,0,0
+403902,19 May 2023,v RR,Dharamsala,2,0,0,0,0,0
+403902,25 May 2023,v Leics,Manchester,1,1,1,0,0,1
+403902,27 May 2023,v Notts,Manchester,2,1,1,0,0,1
+403902,29 May 2023,v Bears,Birmingham,2,0,0,0,0,0
+403902,1 Jun 2023,v Yorkshire,Leeds,1,0,0,0,0,0
+403902,2 Jun 2023,v Durham,Chester-le-Street,2,0,0,0,0,0
+403902,4 Jun 2023,v Notts,Nottingham,2,1,1,0,0,1
+403902,7 Jun 2023,v Worcs,Blackpool,1,1,1,0,0,1
+403902,16 Jun 2023,v Northants,Northampton,2,0,0,0,0,0
+403902,18 Jun 2023,v Durham,Manchester,2,0,0,0,0,0
+403902,20 Jun 2023,v Worcs,Worcester,2,0,0,0,0,0
+403902,23 Jun 2023,v Derbyshire,Manchester,2,1,1,0,0,1
+403902,2 Jul 2023,v Northants,Manchester,1,0,0,0,0,0
+403902,7 Jul 2023,v Surrey,Manchester,1,0,0,0,0,0
+403902,7 Aug 2023,v Originals,Manchester,1,0,0,0,0,0
+403902,10 Aug 2023,v Fire,Birmingham,2,0,0,0,0,0
+403902,13 Aug 2023,v Invincibles,Birmingham,2,1,1,0,0,1
+403902,16 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+403902,19 Aug 2023,v Rockets,Nottingham,1,1,1,0,0,1
+403902,24 Aug 2023,v Spirit,Birmingham,2,0,0,0,0,0
+403902,30 Aug 2023,v New Zealand,Chester-le-Street,1,0,0,0,0,0
+403902,1 Sep 2023,v New Zealand,Manchester,2,1,1,0,0,1
+403902,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+403902,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+403902,12 Dec 2023,v West Indies,Bridgetown,2,0,0,0,0,0
+403902,14 Dec 2023,v West Indies,St George's,1,1,1,0,0,1
+403902,16 Dec 2023,v West Indies,St George's,1,1,1,0,0,1
+403902,19 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+403902,21 Dec 2023,v West Indies,Tarouba,2,1,1,0,0,1
+403902,11 Jan 2024,v Super Giants,Durban,2,0,0,0,0,0
+403902,13 Jan 2024,v Super Kings,Johannesburg,2,1,1,0,0,1
+403902,16 Jan 2024,v Sunrisers,Cape Town,1,0,0,0,0,0
+403902,19 Jan 2024,v Paarl Royals,Cape Town,1,0,0,0,0,0
+403902,21 Jan 2024,v Paarl Royals,Paarl,1,0,0,0,0,0
+403902,23 Jan 2024,v Super Giants,Cape Town,1,0,0,0,0,0
+403902,27 Jan 2024,v Sunrisers,Gqeberha,1,0,0,0,0,0
+403902,29 Jan 2024,v Super Kings,Cape Town,2,0,0,0,0,0
+403902,1 Feb 2024,v Capitals,Centurion,2,0,0,0,0,0
+403902,3 Feb 2024,v Capitals,Cape Town,2,0,0,0,0,0
+403902,5 Feb 2024,v KnightRiders,Sharjah,2,0,0,0,0,0
+403902,7 Feb 2024,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+403902,23 Mar 2024,v DC,New Chandigarh,1,0,0,0,0,0
+403902,25 Mar 2024,v RCB,Bengaluru,2,0,0,0,0,0
+403902,30 Mar 2024,v LSG,Lucknow,1,0,0,0,0,0
+403902,13 Apr 2024,v RR,New Chandigarh,2,1,1,0,0,1
+403902,18 Apr 2024,v MI,New Chandigarh,1,0,0,0,0,0
+403902,21 Apr 2024,v GT,New Chandigarh,2,0,0,0,0,0
+403902,9 May 2024,v RCB,Dharamsala,1,0,0,0,0,0
+403902,25 May 2024,v Pakistan,Birmingham,2,2,2,0,0,2
+403902,30 May 2024,v Pakistan,The Oval,1,0,0,0,0,0
+403902,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+403902,8 Jun 2024,v Australia,Bridgetown,1,1,1,0,0,1
+403902,13 Jun 2024,v Oman,North Sound,1,1,1,0,0,1
+403902,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+403902,19 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+403902,21 Jun 2024,v South Africa,Gros Islet,1,0,0,0,0,0
+403902,23 Jun 2024,v U.S.A.,Bridgetown,1,0,0,0,0,0
+403902,27 Jun 2024,v India,Providence,1,0,0,0,0,0
+403902,17 Jul 2024,v Notts,Manchester,1,3,3,0,0,3
+403902,19 Jul 2024,v Northants,Manchester,2,0,0,0,0,0
+403902,23 Jul 2024,v Invincibles,The Oval,2,0,0,0,0,0
+403902,27 Jul 2024,v Spirit,Lord's,1,1,1,0,0,1
+403902,31 Jul 2024,v Rockets,Nottingham,2,0,0,0,0,0
+403902,3 Aug 2024,v Brave,Birmingham,1,0,0,0,0,0
+403902,6 Aug 2024,v N S-Chargers,Birmingham,1,0,0,0,0,0
+403902,10 Aug 2024,v Fire,Cardiff,1,1,1,0,0,1
+403902,12 Aug 2024,v Rockets,Birmingham,1,0,0,0,0,0
+403902,15 Aug 2024,v Originals,Birmingham,1,3,3,0,0,3
+403902,17 Aug 2024,v Brave,The Oval,1,1,1,0,0,1
+403902,4 Sep 2024,v Sussex,Hove,2,0,0,0,0,0
+403902,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+403902,13 Sep 2024,v Australia,Cardiff,1,0,0,0,0,0
+403902,9 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+403902,10 Nov 2024,v West Indies,Bridgetown,1,1,1,0,0,1
+403902,14 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+403902,16 Nov 2024,v West Indies,Gros Islet,2,1,1,0,0,1
+403902,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+403902,10 Jan 2025,v Super Giants,Durban,1,0,0,0,0,0
+403902,12 Jan 2025,v Super Giants,Centurion,-,TDNF,-,-,-,-
+403902,14 Jan 2025,v Sunrisers,Centurion,1,0,0,0,0,0
+403902,16 Jan 2025,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+403902,22 Jan 2025,v India,Eden Gardens,2,0,0,0,0,0
+403902,25 Jan 2025,v India,Chennai,2,0,0,0,0,0
+403902,28 Jan 2025,v India,Rajkot,2,0,0,0,0,0
+403902,31 Jan 2025,v India,Pune,1,0,0,0,0,0
+403902,2 Feb 2025,v India,Wankhede,1,1,1,0,0,1
+403902,22 Mar 2025,v KKR,Eden Gardens,1,0,0,0,0,0
+403902,28 Mar 2025,v CSK,Chennai,2,0,0,0,0,0
+403902,2 Apr 2025,v GT,Bengaluru,2,1,1,0,0,1
+403902,7 Apr 2025,v MI,Wankhede,2,2,2,0,0,2
+403902,10 Apr 2025,v DC,Bengaluru,2,0,0,0,0,0
+403902,13 Apr 2025,v RR,Jaipur,1,0,0,0,0,0
+403902,18 Apr 2025,v Punjab Kings,Bengaluru,2,0,0,0,0,0
+403902,27 May 2025,v LSG,Lucknow,1,0,0,0,0,0
+403902,29 May 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+403902,3 Jun 2025,v Punjab Kings,Ahmedabad,2,1,1,0,0,1
+403902,8 Jun 2025,v Northants,Manchester,1,0,0,0,0,0
+403902,13 Jun 2025,v Worcs,Worcester,1,0,0,0,0,0
+403902,20 Jun 2025,v Derbyshire,Derby,2,0,0,0,0,0
+403902,4 Jul 2025,v Northants,Northampton,1,0,0,0,0,0
+403902,5 Jul 2025,v Derbyshire,Manchester,2,0,0,0,0,0
+403902,8 Aug 2025,v Rockets,Birmingham,2,0,0,0,0,0
+403902,10 Aug 2025,v Brave,Southampton,2,0,0,0,0,0
+403902,12 Aug 2025,v Invincibles,Birmingham,1,1,1,0,0,1
+403902,15 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+403902,17 Aug 2025,v Spirit,Birmingham,1,0,0,0,0,0
+403902,22 Aug 2025,v Fire,Birmingham,2,0,0,0,0,0
+403902,24 Aug 2025,v Originals,Manchester,1,0,0,0,0,0
+403902,27 Aug 2025,v Rockets,Nottingham,2,1,1,0,0,1
+403902,6 Sep 2025,v Kent,Manchester,1,1,1,0,0,1
+403902,13 Sep 2025,v Somerset,Birmingham,1,0,0,0,0,0
+403902,3 Dec 2025,v Warriorz,Sharjah,2,1,1,0,0,1
+403902,5 Dec 2025,v Vipers,Sharjah,2,0,0,0,0,0
+403902,7 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+403902,11 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+403902,13 Dec 2025,v DC,Abu Dhabi,1,0,0,0,0,0
+403902,16 Dec 2025,v Vipers,Abu Dhabi,2,1,1,0,0,1
+403902,18 Dec 2025,v Gulf Giants,Abu Dhabi,1,0,0,0,0,0
+403902,20 Dec 2025,v MI Emirates,Abu Dhabi,1,1,1,0,0,1
+403902,22 Dec 2025,v Warriorz,Abu Dhabi,2,1,1,0,0,1
+403902,28 Dec 2025,v Gulf Giants,Dubai (DICS),2,0,0,0,0,0
+403902,1 Jan 2026,v DC,Dubai (DICS),2,0,0,0,0,0
+403902,2 Jan 2026,v MI Emirates,Sharjah,2,0,0,0,0,0
+403902,11 Jan 2026,v Sunrisers,Gqeberha,1,1,1,0,0,1
+403902,13 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+403902,17 Jan 2026,v Paarl Royals,Durban,2,0,0,0,0,0

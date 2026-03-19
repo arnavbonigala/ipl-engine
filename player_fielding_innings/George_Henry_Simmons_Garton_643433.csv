@@ -1,0 +1,123 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+643433,26 Jun 2016,v Gloucs,Arundel,1,0,0,0,0,0
+643433,28 Jul 2016,v Glamorgan,Hove,1,1,1,0,0,1
+643433,12 Jul 2017,v Hampshire,Hove,1,0,0,0,0,0
+643433,16 Jul 2017,v Gloucs,Cheltenham,-,TDNF,-,-,-,-
+643433,20 Jul 2017,v Hampshire,Southampton,1,0,0,0,0,0
+643433,21 Jul 2017,v Glamorgan,Cardiff,-,TDNF,-,-,-,-
+643433,23 Jul 2017,v Kent,Hove,1,0,0,0,0,0
+643433,28 Jul 2017,v Middlesex,Hove,1,1,1,0,0,1
+643433,30 Jul 2017,v Somerset,Taunton,1,0,0,0,0,0
+643433,10 Aug 2017,v Middlesex,Lord's,1,0,0,0,0,0
+643433,11 Aug 2017,v Gloucs,Hove,1,0,0,0,0,0
+643433,18 Aug 2017,v Essex,Hove,2,1,1,0,0,1
+643433,28 Aug 2020,v Surrey,Hove,-,TDNF,-,-,-,-
+643433,30 Aug 2020,v Hampshire,Hove,1,0,0,0,0,0
+643433,1 Sep 2020,v Middlesex,Lord's,1,2,2,0,0,2
+643433,3 Sep 2020,v Kent,Hove,1,0,0,0,0,0
+643433,10 Sep 2020,v Hampshire,Southampton,2,0,0,0,0,0
+643433,12 Sep 2020,v Kent,Canterbury,1,1,1,0,0,1
+643433,14 Sep 2020,v Essex,Hove,1,0,0,0,0,0
+643433,16 Sep 2020,v Surrey,The Oval,2,0,0,0,0,0
+643433,18 Sep 2020,v Middlesex,Hove,1,2,2,0,0,2
+643433,20 Sep 2020,v Essex,Chelmsford,1,0,0,0,0,0
+643433,1 Oct 2020,v Lancashire,Hove,1,0,0,0,0,0
+643433,11 Jun 2021,v Gloucs,Bristol,1,0,0,0,0,0
+643433,12 Jun 2021,v Hampshire,Hove,1,2,2,0,0,2
+643433,15 Jun 2021,v Essex,Chelmsford,1,0,0,0,0,0
+643433,17 Jun 2021,v Surrey,The Oval,1,0,0,0,0,0
+643433,25 Jun 2021,v Gloucs,Hove,1,0,0,0,0,0
+643433,24 Jul 2021,v Rockets,Nottingham,2,0,0,0,0,0
+643433,30 Jul 2021,v Phoenix,Southampton,1,0,0,0,0,0
+643433,1 Aug 2021,v Spirit,Lord's,2,0,0,0,0,0
+643433,5 Aug 2021,v Originals,Manchester,1,0,0,0,0,0
+643433,7 Aug 2021,v N S-Chargers,Southampton,1,0,0,0,0,0
+643433,11 Aug 2021,v Fire,Southampton,1,0,0,0,0,0
+643433,16 Aug 2021,v Invincibles,Southampton,1,0,0,0,0,0
+643433,20 Aug 2021,v Rockets,The Oval,1,0,0,0,0,0
+643433,21 Aug 2021,v Phoenix,Lord's,2,1,1,0,0,1
+643433,24 Aug 2021,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+643433,18 Sep 2021,v Kent,Birmingham,1,0,0,0,0,0
+643433,29 Sep 2021,v RR,Dubai (DICS),1,0,0,0,0,0
+643433,3 Oct 2021,v Punjab Kings,Sharjah,2,0,0,0,0,0
+643433,6 Oct 2021,v SRH,Abu Dhabi,1,0,0,0,0,0
+643433,8 Oct 2021,v DC,Dubai (DICS),1,1,1,0,0,1
+643433,11 Oct 2021,v KKR,Sharjah,2,0,0,0,0,0
+643433,7 Dec 2021,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+643433,9 Dec 2021,v Renegades,Adelaide,2,1,1,0,0,1
+643433,21 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+643433,23 Dec 2021,v Heat,Adelaide,1,1,1,0,0,1
+643433,27 Dec 2021,v Hurricanes,Hobart,2,0,0,0,0,0
+643433,31 Dec 2021,v Thunder,Adelaide,1,0,0,0,0,0
+643433,26 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+643433,26 May 2022,v Glamorgan,Hove,2,0,0,0,0,0
+643433,27 May 2022,v Gloucs,Bristol,1,0,0,0,0,0
+643433,29 May 2022,v Kent,Hove,2,1,1,0,0,1
+643433,1 Jun 2022,v Somerset,Taunton,2,0,0,0,0,0
+643433,23 Jun 2022,v Surrey,Hove,2,0,0,0,0,0
+643433,24 Jun 2022,v Kent,Canterbury,2,0,0,0,0,0
+643433,1 Jul 2022,v Essex,Hove,1,0,0,0,0,0
+643433,3 Jul 2022,v Hampshire,Hove,2,0,0,0,0,0
+643433,10 Aug 2022,v Phoenix,Birmingham,1,0,0,0,0,0
+643433,14 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+643433,18 Aug 2022,v Originals,Southampton,1,0,0,0,0,0
+643433,22 Aug 2022,v Fire,Cardiff,1,0,0,0,0,0
+643433,11 Jan 2023,v Super Giants,Durban,2,0,0,0,0,0
+643433,13 Jan 2023,v Paarl Royals,Paarl,2,0,0,0,0,0
+643433,14 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+643433,26 May 2023,v Somerset,Hove,2,0,0,0,0,0
+643433,28 May 2023,v Surrey,The Oval,1,0,0,0,0,0
+643433,1 Jun 2023,v Essex,Hove,1,1,1,0,0,1
+643433,3 Jun 2023,v Hampshire,Southampton,2,0,0,0,0,0
+643433,16 Jun 2023,v Hampshire,Hove,2,0,0,0,0,0
+643433,20 Jun 2023,v Kent,Hove,2,0,0,0,0,0
+643433,22 Jun 2023,v Gloucs,Bristol,1,1,1,0,0,1
+643433,1 Aug 2023,v Rockets,Nottingham,1,0,0,0,0,0
+643433,4 Aug 2023,v Fire,Southampton,2,1,1,0,0,1
+643433,6 Aug 2023,v N S-Chargers,Southampton,1,1,1,0,0,1
+643433,12 Aug 2023,v Fire,Cardiff,1,0,0,0,0,0
+643433,16 Aug 2023,v Phoenix,Southampton,1,0,0,0,0,0
+643433,19 Aug 2023,v Invincibles,Southampton,1,0,0,0,0,0
+643433,23 Aug 2023,v Originals,Manchester,1,0,0,0,0,0
+643433,26 Aug 2023,v Originals,The Oval,2,0,0,0,0,0
+643433,31 May 2024,v Durham,Chester-le-Street,1,0,0,0,0,0
+643433,1 Jun 2024,v Notts,Birmingham,2,0,0,0,0,0
+643433,7 Jun 2024,v Lancashire,Manchester,1,2,2,0,0,2
+643433,8 Jun 2024,v Durham,Birmingham,1,0,0,0,0,0
+643433,16 Jun 2024,v Derbyshire,Derby,1,0,0,0,0,0
+643433,20 Jun 2024,v Northants,Birmingham,2,0,0,0,0,0
+643433,21 Jun 2024,v Worcs,Worcester,1,0,0,0,0,0
+643433,5 Jul 2024,v Yorkshire,Leeds,2,0,0,0,0,0
+643433,7 Jul 2024,v Notts,Nottingham,1,0,0,0,0,0
+643433,12 Jul 2024,v Worcs,Birmingham,1,0,0,0,0,0
+643433,14 Jul 2024,v Derbyshire,Birmingham,2,0,0,0,0,0
+643433,18 Jul 2024,v Northants,Northampton,1,1,1,0,0,1
+643433,19 Jul 2024,v Leics,Birmingham,2,1,1,0,0,1
+643433,6 Sep 2024,v Gloucs,Birmingham,1,0,0,0,0,0
+643433,10 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+643433,13 Jan 2025,v Scorchers,Sydney,2,0,0,0,0,0
+643433,17 Jan 2025,v Sixers,Sydney,-,TDNF,-,-,-,-
+643433,22 Jan 2025,v Stars,Sydney,2,2,2,0,0,2
+643433,24 Jan 2025,v Sixers,Sydney,1,1,1,0,0,1
+643433,27 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+643433,30 May 2025,v Notts,Nottingham,2,0,0,0,0,0
+643433,31 May 2025,v Durham,Birmingham,2,0,0,0,0,0
+643433,6 Jun 2025,v Yorkshire,Birmingham,1,0,0,0,0,0
+643433,8 Jun 2025,v Derbyshire,Birmingham,2,5,5,0,0,5
+643433,11 Jun 2025,v Northants,Northampton,1,0,0,0,0,0
+643433,13 Jun 2025,v Yorkshire,Leeds,2,1,1,0,0,1
+643433,14 Jun 2025,v Notts,Birmingham,2,0,0,0,0,0
+643433,20 Jun 2025,v Worcs,Birmingham,1,1,1,0,0,1
+643433,4 Jul 2025,v Leics,Leicester,1,2,2,0,0,2
+643433,6 Jul 2025,v Durham,Chester-le-Street,1,1,1,0,0,1
+643433,9 Jul 2025,v Lancashire,Birmingham,2,0,0,0,0,0
+643433,11 Jul 2025,v Worcs,Worcester,2,0,0,0,0,0
+643433,13 Jul 2025,v Northants,Birmingham,1,0,0,0,0,0
+643433,18 Jul 2025,v Derbyshire,Derby,2,0,0,0,0,0
+643433,9 Aug 2025,v Invincibles,The Oval,2,0,0,0,0,0
+643433,26 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+643433,6 Sep 2025,v Somerset,Taunton,2,0,0,0,0,0
+643433,3 Dec 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+643433,5 Dec 2025,v Vipers,Sharjah,2,1,1,0,0,1
+643433,11 Dec 2025,v MI Emirates,Abu Dhabi,2,1,1,0,0,1
+643433,13 Dec 2025,v DC,Abu Dhabi,1,1,1,0,0,1

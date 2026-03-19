@@ -1,0 +1,229 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+47492,1 Apr 2005,v Warriors,Gqeberha,-,TDNF,-,-,-,-
+47492,5 Apr 2005,v Eagles,Centurion,1,0,0,0,0,0
+47492,10 Apr 2005,v Dolphins,Benoni,1,1,1,0,0,1
+47492,15 Apr 2005,v Lions,Johannesburg,1,0,0,0,0,0
+47492,17 Apr 2005,v WP Boland,Cape Town,1,0,0,0,0,0
+47492,20 Apr 2005,v Lions,Centurion,1,0,0,0,0,0
+47492,27 Apr 2005,v Warriors,Centurion,1,0,0,0,0,0
+47492,25 Feb 2007,v Eagles,Centurion,1,1,1,0,0,1
+47492,2 Mar 2007,v Warriors,Gqeberha,2,0,0,0,0,0
+47492,7 Mar 2007,v Cape Cobras,Cape Town,1,0,0,0,0,0
+47492,14 Mar 2007,v Dolphins,Benoni,2,0,0,0,0,0
+47492,18 Mar 2007,v Lions,Johannesburg,1,0,0,0,0,0
+47492,23 Nov 2007,v New Zealand,Johannesburg,1,0,0,0,0,0
+47492,16 Dec 2007,v West Indies,Gqeberha,2,0,0,0,0,0
+47492,20 Apr 2008,v Cape Cobras,Cape Town,2,0,0,0,0,0
+47492,25 Apr 2008,v Dolphins,Durban,2,0,0,0,0,0
+47492,28 Apr 2008,v CSK,Bengaluru,1,0,0,0,0,0
+47492,30 Apr 2008,v Daredevils,Delhi,1,0,0,0,0,0
+47492,3 May 2008,v Chargers,Bengaluru,2,1,1,0,0,1
+47492,5 May 2008,v Kings XI,Bengaluru,2,0,0,0,0,0
+47492,8 May 2008,v KKR,Eden Gardens,1,0,0,0,0,0
+47492,12 May 2008,v Kings XI,Mohali,2,1,1,0,0,1
+47492,19 May 2008,v Daredevils,Bengaluru,2,0,0,0,0,0
+47492,21 May 2008,v CSK,Chennai,2,1,1,0,0,1
+47492,25 May 2008,v Chargers,Hyderabad,1,1,1,0,0,1
+47492,28 May 2008,v MI,Bengaluru,2,0,0,0,0,0
+47492,5 Nov 2008,v Bangladesh,Johannesburg,2,0,0,0,0,0
+47492,11 Jan 2009,v Australia,Melbourne,1,1,1,0,0,1
+47492,13 Jan 2009,v Australia,Brisbane,2,0,0,0,0,0
+47492,27 Mar 2009,v Australia,Johannesburg,1,0,0,0,0,0
+47492,18 Apr 2009,v RR,Cape Town,2,1,1,0,0,1
+47492,20 Apr 2009,v CSK,Gqeberha,1,0,0,0,0,0
+47492,22 Apr 2009,v Chargers,Cape Town,1,1,1,0,0,1
+47492,7 Jun 2009,v Scotland,The Oval,2,0,0,0,0,0
+47492,9 Jun 2009,v New Zealand,Lord's,2,0,0,0,0,0
+47492,11 Jun 2009,v England,Nottingham,1,0,0,0,0,0
+47492,13 Jun 2009,v West Indies,The Oval,2,1,1,0,0,1
+47492,16 Jun 2009,v India,Nottingham,2,1,1,0,0,1
+47492,18 Jun 2009,v Pakistan,Nottingham,1,0,0,0,0,0
+47492,15 Oct 2009,v Victoria,Bengaluru,2,0,0,0,0,0
+47492,17 Oct 2009,v Daredevils,Bengaluru,1,0,0,0,0,0
+47492,13 Nov 2009,v England,Johannesburg,1,0,0,0,0,0
+47492,15 Nov 2009,v England,Centurion,2,0,0,0,0,0
+47492,5 Mar 2010,v Lions,Centurion,1,0,0,0,0,0
+47492,14 Mar 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+47492,16 Mar 2010,v Kings XI,Bengaluru,1,0,0,0,0,0
+47492,18 Mar 2010,v RR,Bengaluru,1,0,0,0,0,0
+47492,20 Mar 2010,v MI,Brabourne,1,0,0,0,0,0
+47492,23 Mar 2010,v CSK,Bengaluru,2,0,0,0,0,0
+47492,25 Mar 2010,v Daredevils,Bengaluru,1,0,0,0,0,0
+47492,31 Mar 2010,v CSK,Chennai,2,0,0,0,0,0
+47492,2 Apr 2010,v Kings XI,Mohali,1,0,0,0,0,0
+47492,8 Apr 2010,v Chargers,Bengaluru,2,1,1,0,0,1
+47492,10 Apr 2010,v KKR,Bengaluru,1,0,0,0,0,0
+47492,12 Apr 2010,v Chargers,Nagpur,1,0,0,0,0,0
+47492,14 Apr 2010,v RR,Jaipur,1,0,0,0,0,0
+47492,17 Apr 2010,v MI,Bengaluru,1,0,0,0,0,0
+47492,21 Apr 2010,v MI,DY Patil,1,0,0,0,0,0
+47492,24 Apr 2010,v Chargers,DY Patil,1,0,0,0,0,0
+47492,2 May 2010,v India,Gros Islet,1,0,0,0,0,0
+47492,5 May 2010,v Afghanistan,Bridgetown,2,1,1,0,0,1
+47492,6 May 2010,v New Zealand,Bridgetown,2,1,1,0,0,1
+47492,8 May 2010,v England,Bridgetown,1,1,1,0,0,1
+47492,10 May 2010,v Pakistan,Gros Islet,1,1,1,0,0,1
+47492,19 May 2010,v West Indies,North Sound,2,0,0,0,0,0
+47492,20 May 2010,v West Indies,North Sound,2,1,1,0,0,1
+47492,12 Sep 2010,v Guyana,Centurion,1,2,2,0,0,2
+47492,17 Sep 2010,v South Aust,Durban,2,0,0,0,0,0
+47492,19 Sep 2010,v MI,Durban,1,1,1,0,0,1
+47492,21 Sep 2010,v Lions,Johannesburg,1,0,0,0,0,0
+47492,24 Sep 2010,v CSK,Durban,1,1,1,0,0,1
+47492,9 Apr 2011,v RR,Hyderabad,2,0,0,0,0,0
+47492,11 Apr 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+47492,14 Apr 2011,v RCB,Hyderabad,2,0,0,0,0,0
+47492,16 Apr 2011,v Kings XI,Hyderabad,2,0,0,0,0,0
+47492,19 Apr 2011,v Daredevils,Delhi,2,0,0,0,0,0
+47492,24 Apr 2011,v MI,Hyderabad,1,1,1,0,0,1
+47492,27 Apr 2011,v Kochi,Kochi,2,0,0,0,0,0
+47492,3 May 2011,v KKR,Hyderabad,1,0,0,0,0,0
+47492,5 May 2011,v Daredevils,Hyderabad,2,0,0,0,0,0
+47492,10 May 2011,v Warriors,Hyderabad,2,0,0,0,0,0
+47492,16 May 2011,v Warriors,DY Patil,1,0,0,0,0,0
+47492,21 May 2011,v Kings XI,Dharamsala,2,0,0,0,0,0
+47492,24 Sep 2011,v NSW,Chennai,1,0,0,0,0,0
+47492,28 Sep 2011,v CSK,Chennai,2,0,0,0,0,0
+47492,30 Sep 2011,v MI,Bengaluru,1,0,0,0,0,0
+47492,4 Oct 2011,v Trinidad & T,Chennai,2,0,0,0,0,0
+47492,7 Apr 2012,v CSK,Visakhapatnam,1,0,0,0,0,0
+47492,9 Apr 2012,v MI,Visakhapatnam,2,1,1,0,0,1
+47492,17 Apr 2012,v RR,Jaipur,2,0,0,0,0,0
+47492,19 Apr 2012,v Daredevils,Delhi,2,0,0,0,0,0
+47492,22 Apr 2012,v KKR,Cuttack,2,0,0,0,0,0
+47492,29 Apr 2012,v MI,Wankhede,2,0,0,0,0,0
+47492,1 May 2012,v Warriors,Cuttack,2,0,0,0,0,0
+47492,4 May 2012,v CSK,Chennai,1,0,0,0,0,0
+47492,6 May 2012,v RCB,Bengaluru,2,2,2,0,0,2
+47492,13 May 2012,v Kings XI,Mohali,2,0,0,0,0,0
+47492,18 May 2012,v RR,Hyderabad,1,1,1,0,0,1
+47492,20 May 2012,v RCB,Hyderabad,2,0,0,0,0,0
+47492,8 Sep 2012,v England,Chester-le-Street,1,0,0,0,0,0
+47492,10 Sep 2012,v England,Manchester,2,0,0,0,0,0
+47492,20 Sep 2012,v Zimbabwe,Hambantota,1,0,0,0,0,0
+47492,22 Sep 2012,v Sri Lanka,Hambantota,2,0,0,0,0,0
+47492,28 Sep 2012,v Pakistan,Colombo (RPS),2,1,1,0,0,1
+47492,30 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+47492,2 Oct 2012,v India,Colombo (RPS),1,0,0,0,0,0
+47492,21 Dec 2012,v New Zealand,Durban,1,1,1,0,0,1
+47492,5 Apr 2013,v Warriors,Hyderabad,2,0,0,0,0,0
+47492,7 Apr 2013,v RCB,Hyderabad,1,0,0,0,0,0
+47492,9 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+47492,12 Apr 2013,v Daredevils,Delhi,1,1,1,0,0,1
+47492,14 Apr 2013,v KKR,Eden Gardens,1,0,0,0,0,0
+47492,17 Apr 2013,v Warriors,Pune,2,1,1,0,0,1
+47492,19 Apr 2013,v Kings XI,Hyderabad,1,0,0,0,0,0
+47492,25 Apr 2013,v CSK,Chennai,2,0,0,0,0,0
+47492,27 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+47492,1 May 2013,v MI,Hyderabad,1,0,0,0,0,0
+47492,4 May 2013,v Daredevils,Hyderabad,1,0,0,0,0,0
+47492,8 May 2013,v CSK,Hyderabad,1,0,0,0,0,0
+47492,11 May 2013,v Kings XI,Mohali,2,0,0,0,0,0
+47492,13 May 2013,v MI,Wankhede,2,0,0,0,0,0
+47492,17 May 2013,v RR,Hyderabad,2,1,1,0,0,1
+47492,19 May 2013,v KKR,Hyderabad,1,0,0,0,0,0
+47492,22 May 2013,v RR,Delhi,2,0,0,0,0,0
+47492,17 Sep 2013,v Kandurata Ma,Mohali,1,0,0,0,0,0
+47492,18 Sep 2013,v Wolves,Mohali,1,0,0,0,0,0
+47492,20 Sep 2013,v Otago,Mohali,2,0,0,0,0,0
+47492,24 Sep 2013,v Trinidad & T,Mohali,1,1,1,0,0,1
+47492,26 Sep 2013,v CSK,Ranchi,1,1,1,0,0,1
+47492,28 Sep 2013,v Titans,Ranchi,2,0,0,0,0,0
+47492,13 Nov 2013,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+47492,15 Nov 2013,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+47492,20 Nov 2013,v Pakistan,Johannesburg,2,0,0,0,0,0
+47492,22 Nov 2013,v Pakistan,Cape Town,1,0,0,0,0,0
+47492,22 Mar 2014,v Sri Lanka,Chattogram,1,1,1,0,0,1
+47492,24 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+47492,27 Mar 2014,v Netherlands,Chattogram,2,0,0,0,0,0
+47492,29 Mar 2014,v England,Chattogram,2,0,0,0,0,0
+47492,4 Apr 2014,v India,Mirpur,2,0,0,0,0,0
+47492,18 Apr 2014,v RR,Abu Dhabi,2,0,0,0,0,0
+47492,22 Apr 2014,v Kings XI,Sharjah,1,0,0,0,0,0
+47492,25 Apr 2014,v Daredevils,Dubai (DICS),2,1,1,0,0,1
+47492,27 Apr 2014,v CSK,Sharjah,2,0,0,0,0,0
+47492,30 Apr 2014,v MI,Dubai (DICS),2,0,0,0,0,0
+47492,4 May 2014,v RCB,Bengaluru,2,0,0,0,0,0
+47492,8 May 2014,v RR,Ahmedabad,2,1,1,0,0,1
+47492,10 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+47492,12 May 2014,v MI,Hyderabad,2,0,0,0,0,0
+47492,14 May 2014,v Kings XI,Hyderabad,2,1,1,0,0,1
+47492,18 May 2014,v KKR,Hyderabad,2,0,0,0,0,0
+47492,20 May 2014,v RCB,Hyderabad,1,2,2,0,0,2
+47492,22 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+47492,24 May 2014,v KKR,Eden Gardens,2,1,1,0,0,1
+47492,3 Dec 2014,v Warriors,Paarl,1,0,0,0,0,0
+47492,12 Dec 2014,v Knights,Cape Town,2,0,0,0,0,0
+47492,18 Apr 2015,v Daredevils,Visakhapatnam,1,0,0,0,0,0
+47492,22 Apr 2015,v KKR,Visakhapatnam,2,1,1,0,0,1
+47492,25 Apr 2015,v MI,Wankhede,1,0,0,0,0,0
+47492,4 May 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+47492,15 May 2015,v RCB,Hyderabad,2,1,1,0,0,1
+47492,17 May 2015,v MI,Hyderabad,2,0,0,0,0,0
+47492,6 Mar 2016,v Australia,Johannesburg,2,0,0,0,0,0
+47492,9 Mar 2016,v Australia,Cape Town,2,0,0,0,0,0
+47492,18 Mar 2016,v England,Wankhede,2,0,0,0,0,0
+47492,28 Mar 2016,v Sri Lanka,Delhi,1,0,0,0,0,0
+47492,21 Apr 2016,v SRH,Rajkot,2,0,0,0,0,0
+47492,1 Jun 2016,v Essex,Cardiff,2,0,0,0,0,0
+47492,3 Jun 2016,v Hampshire,Cardiff,1,1,1,0,0,1
+47492,10 Jun 2016,v Gloucs,Bristol,1,1,1,0,0,1
+47492,17 Jun 2016,v Kent,Cardiff,2,0,0,0,0,0
+47492,24 Jun 2016,v Surrey,Cardiff,1,0,0,0,0,0
+47492,2 Jul 2016,v Patriots,Basseterre,2,0,0,0,0,0
+47492,4 Jul 2016,v Trinbago,Port of Spain,1,0,0,0,0,0
+47492,7 Jul 2016,v Amazon,Providence,2,0,0,0,0,0
+47492,11 Jul 2016,v Tridents,Bridgetown,-,TDNF,-,-,-,-
+47492,15 Jul 2016,v Amazon,Kingston,1,0,0,0,0,0
+47492,16 Jul 2016,v Patriots,Kingston,2,0,0,0,0,0
+47492,18 Jul 2016,v Trinbago,Kingston,2,0,0,0,0,0
+47492,20 Jul 2016,v Tridents,Kingston,2,1,1,0,0,1
+47492,15 Nov 2017,v Knights,Kimberley,2,1,1,0,0,1
+47492,17 Nov 2017,v Warriors,East London,2,0,0,0,0,0
+47492,19 Nov 2017,v Cape Cobras,Centurion,1,0,0,0,0,0
+47492,3 Dec 2017,v Knights,Gqeberha,1,0,0,0,0,0
+47492,8 Dec 2017,v Cape Cobras,Cape Town,2,0,0,0,0,0
+47492,8 Aug 2018,v Somerset,Southampton,2,0,0,0,0,0
+47492,10 Aug 2018,v Glamorgan,Cardiff,2,0,0,0,0,0
+47492,15 Aug 2018,v Surrey,The Oval,2,0,0,0,0,0
+47492,17 Aug 2018,v Gloucs,Southampton,1,1,1,0,0,1
+47492,18 Nov 2018,v Durban Heat,Durban,1,0,0,0,0,0
+47492,21 Nov 2018,v Giants,Cape Town,2,1,1,0,0,1
+47492,24 Nov 2018,v Jozi Stars,Johannesburg,2,0,0,0,0,0
+47492,25 Nov 2018,v Paarl Rocks,Paarl,2,0,0,0,0,0
+47492,1 Dec 2018,v Spartans,Centurion,2,1,1,0,0,1
+47492,4 Dec 2018,v Jozi Stars,Cape Town,1,0,0,0,0,0
+47492,7 Dec 2018,v Paarl Rocks,Cape Town,1,0,0,0,0,0
+47492,9 Dec 2018,v Durban Heat,Cape Town,2,1,1,0,0,1
+47492,16 Dec 2018,v Jozi Stars,Cape Town,2,0,0,0,0,0
+47492,19 Mar 2019,v Sri Lanka,Cape Town,1,0,0,0,0,0
+47492,22 Mar 2019,v Sri Lanka,Centurion,2,0,0,0,0,0
+47492,19 Apr 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+47492,21 Apr 2019,v CSK,Bengaluru,2,0,0,0,0,0
+47492,8 Nov 2019,v Jozi Stars,Johannesburg,2,0,0,0,0,0
+47492,10 Nov 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+47492,14 Nov 2019,v Jozi Stars,Cape Town,2,0,0,0,0,0
+47492,17 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+47492,20 Nov 2019,v Giants,Gqeberha,2,0,0,0,0,0
+47492,24 Nov 2019,v Paarl Rocks,Cape Town,1,0,0,0,0,0
+47492,28 Nov 2019,v Durban Heat,Cape Town,2,0,0,0,0,0
+47492,1 Dec 2019,v Spartans,Cape Town,2,1,1,0,0,1
+47492,27 Dec 2019,v Strikers,Carrara,1,0,0,0,0,0
+47492,30 Dec 2019,v Hurricanes,Launceston,1,0,0,0,0,0
+47492,2 Jan 2020,v Thunder,Sydney,1,1,1,0,0,1
+47492,4 Jan 2020,v Renegades,Melbourne,1,0,0,0,0,0
+47492,12 Feb 2020,v England,East London,2,0,0,0,0,0
+47492,16 Feb 2020,v England,Centurion,2,0,0,0,0,0
+47492,21 Feb 2020,v Australia,Johannesburg,1,1,1,0,0,1
+47492,1 Mar 2020,v Kings,Rawalpindi,2,0,0,0,0,0
+47492,4 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+47492,7 Mar 2020,v Zalmi,Rawalpindi,2,0,0,0,0,0
+47492,8 Mar 2020,v Sultans,Rawalpindi,2,0,0,0,0,0
+47492,21 Sep 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+47492,24 Sep 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+47492,28 Oct 2020,v MI,Abu Dhabi,2,0,0,0,0,0
+47492,9 Dec 2020,v Stallions,Hambantota,1,1,1,0,0,1
+47492,10 Dec 2020,v Galle,Hambantota,2,0,0,0,0,0
+47492,26 Feb 2021,v Zalmi,Karachi,2,0,0,0,0,0
+47492,1 Mar 2021,v United,Karachi,2,0,0,0,0,0
+47492,3 Mar 2021,v Sultans,Karachi,2,0,0,0,0,0

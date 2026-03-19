@@ -1,0 +1,360 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+226492,20 Jan 2006,v Northern Dis,Hamilton,1,2,2,0,0,2
+226492,21 Jan 2007,v Canterbury,Christchurch,2,0,0,0,0,0
+226492,28 Jan 2007,v Northern Dis,Hamilton,1,0,0,0,0,0
+226492,29 Jan 2007,v Central D,Auckland,2,0,0,0,0,0
+226492,4 Feb 2007,v Otago,Auckland,2,1,1,0,0,1
+226492,18 Jan 2008,v Otago,Dunedin,1,1,1,0,0,1
+226492,20 Jan 2008,v Northern Dis,Auckland,2,1,1,0,0,1
+226492,23 Jan 2008,v Canterbury,Auckland,2,0,0,0,0,0
+226492,28 Jan 2008,v Wellington,Auckland,1,0,0,0,0,0
+226492,30 Jan 2008,v Central D,New Plymouth,1,2,2,0,0,2
+226492,15 Feb 2009,v Australia,Sydney,1,0,0,0,0,0
+226492,18 Feb 2009,v Wellington,Wellington,1,1,1,0,0,1
+226492,22 Feb 2009,v Otago,Auckland,1,1,1,0,0,1
+226492,25 Feb 2009,v India,Christchurch,1,0,0,0,0,0
+226492,27 Feb 2009,v India,Wellington,1,1,1,0,0,1
+226492,6 Jun 2009,v Scotland,The Oval,1,0,0,0,0,0
+226492,9 Jun 2009,v South Africa,Lord's,1,0,0,0,0,0
+226492,11 Jun 2009,v Ireland,Nottingham,2,0,0,0,0,0
+226492,13 Jun 2009,v Pakistan,The Oval,2,1,1,0,0,1
+226492,16 Jun 2009,v Sri Lanka,Nottingham,1,0,0,0,0,0
+226492,2 Sep 2009,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+226492,4 Sep 2009,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+226492,12 Nov 2009,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+226492,13 Nov 2009,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+226492,2 Jan 2010,v Northern Dis,Mt Maunganui,1,2,2,0,0,2
+226492,13 Jan 2010,v Wellington,Auckland,2,1,1,0,0,1
+226492,15 Jan 2010,v Otago,Dunedin,2,0,0,0,0,0
+226492,17 Jan 2010,v Central D,Nelson,2,0,0,0,0,0
+226492,22 Jan 2010,v Northern Dis,Auckland,2,0,0,0,0,0
+226492,24 Jan 2010,v Canterbury,Christchurch,1,2,2,0,0,2
+226492,26 Jan 2010,v Otago,Auckland,2,2,2,0,0,2
+226492,31 Jan 2010,v Central D,New Plymouth,1,0,0,0,0,0
+226492,3 Feb 2010,v Bangladesh,Hamilton,1,0,0,0,0,0
+226492,26 Feb 2010,v Australia,Wellington,2,1,1,0,0,1
+226492,28 Feb 2010,v Australia,Christchurch,2,0,0,0,0,0
+226492,30 Apr 2010,v Sri Lanka,Providence,1,0,0,0,0,0
+226492,4 May 2010,v Zimbabwe,Providence,1,2,2,0,0,2
+226492,6 May 2010,v South Africa,Bridgetown,1,1,1,0,0,1
+226492,8 May 2010,v Pakistan,Bridgetown,2,1,1,0,0,1
+226492,22 May 2010,v Sri Lanka,Lauderhill,2,0,0,0,0,0
+226492,18 Dec 2010,v Otago,Auckland,-,TDNF,-,-,-,-
+226492,21 Dec 2010,v Canterbury,Auckland,2,1,1,0,0,1
+226492,26 Dec 2010,v Pakistan,Auckland,1,0,0,0,0,0
+226492,28 Dec 2010,v Pakistan,Hamilton,2,1,1,0,0,1
+226492,30 Dec 2010,v Pakistan,Christchurch,1,0,0,0,0,0
+226492,2 Jan 2011,v Central D,Auckland,2,1,1,0,0,1
+226492,2 Jun 2011,v Lancashire,Derby,2,1,1,0,0,1
+226492,3 Jun 2011,v Notts,Nottingham,1,1,1,0,0,1
+226492,10 Jun 2011,v Durham,Derby,2,0,0,0,0,0
+226492,12 Jun 2011,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+226492,15 Jun 2011,v Worcs,Derby,1,0,0,0,0,0
+226492,18 Jun 2011,v Leics,Derby,2,1,1,0,0,1
+226492,22 Jun 2011,v Yorkshire,Leeds,2,2,2,0,0,2
+226492,26 Jun 2011,v Warwickshire,Leek,1,0,0,0,0,0
+226492,1 Jul 2011,v Notts,Derby,2,3,3,0,0,3
+226492,3 Jul 2011,v Lancashire,Manchester,2,0,0,0,0,0
+226492,6 Jul 2011,v Warwickshire,Birmingham,2,0,0,0,0,0
+226492,8 Jul 2011,v Leics,Leicester,2,0,0,0,0,0
+226492,9 Jul 2011,v Northants,Derby,2,1,1,0,0,1
+226492,15 Jul 2011,v Yorkshire,Derby,2,0,0,0,0,0
+226492,19 Sep 2011,v KKR,Hyderabad,1,1,1,0,0,1
+226492,20 Sep 2011,v Somerset,Hyderabad,2,1,1,0,0,1
+226492,15 Oct 2011,v Zimbabwe,Harare,1,0,0,0,0,0
+226492,17 Oct 2011,v Zimbabwe,Harare,2,0,0,0,0,0
+226492,18 Dec 2011,v Wellington,Auckland,2,0,0,0,0,0
+226492,26 Dec 2011,v Northern Dis,Auckland,1,0,0,0,0,0
+226492,28 Dec 2011,v Wellington,Wellington,2,0,0,0,0,0
+226492,3 Jan 2012,v Canterbury,Rangiora,1,2,2,0,0,2
+226492,6 Jan 2012,v Otago,Auckland,2,0,0,0,0,0
+226492,8 Jan 2012,v Northern Dis,Mount Maunganui,1,1,1,0,0,1
+226492,12 Jan 2012,v Central D,Auckland,1,2,2,0,0,2
+226492,15 Jan 2012,v Otago,Dunedin,1,1,1,0,0,1
+226492,17 Jan 2012,v Canterbury,Auckland,2,0,0,0,0,0
+226492,22 Jan 2012,v Canterbury,Auckland,2,0,0,0,0,0
+226492,11 Feb 2012,v Zimbabwe,Auckland,1,3,3,0,0,3
+226492,17 Feb 2012,v South Africa,Wellington,1,1,1,0,0,1
+226492,19 Feb 2012,v South Africa,Hamilton,2,0,0,0,0,0
+226492,22 Feb 2012,v South Africa,Auckland,1,1,1,0,0,1
+226492,30 Jun 2012,v West Indies,Lauderhill,1,0,0,0,0,0
+226492,1 Jul 2012,v West Indies,Lauderhill,1,0,0,0,0,0
+226492,11 Sep 2012,v India,Chennai,2,0,0,0,0,0
+226492,21 Sep 2012,v Bangladesh,Pallekele,2,2,2,0,0,2
+226492,27 Sep 2012,v Sri Lanka,Pallekele,2,0,0,0,0,0
+226492,29 Sep 2012,v England,Pallekele,2,0,0,0,0,0
+226492,1 Oct 2012,v West Indies,Pallekele,1,0,0,0,0,0
+226492,9 Oct 2012,v S Stallions,Johannesburg,1,1,1,0,0,1
+226492,10 Oct 2012,v Hampshire,Centurion,1,0,0,0,0,0
+226492,15 Oct 2012,v KKR,Cape Town,1,1,1,0,0,1
+226492,17 Oct 2012,v Titans,Durban,1,1,1,0,0,1
+226492,23 Oct 2012,v Scorchers,Centurion,1,1,1,0,0,1
+226492,8 Dec 2012,v Sixers,Sydney,2,0,0,0,0,0
+226492,23 Dec 2012,v South Africa,East London,1,0,0,0,0,0
+226492,26 Dec 2012,v South Africa,Gqeberha,1,0,0,0,0,0
+226492,9 Feb 2013,v England,Auckland,1,1,1,0,0,1
+226492,12 Feb 2013,v England,Hamilton,2,2,2,0,0,2
+226492,15 Feb 2013,v England,Wellington,2,0,0,0,0,0
+226492,22 Jun 2013,v Kent,Canterbury,2,2,2,0,0,2
+226492,31 Jul 2013,v Red Steel,Providence,2,0,0,0,0,0
+226492,2 Aug 2013,v Tallawahs,Providence,1,1,1,0,0,1
+226492,4 Aug 2013,v Zouks,Providence,2,1,1,0,0,1
+226492,9 Aug 2013,v Red Steel,Port of Spain,1,0,0,0,0,0
+226492,11 Aug 2013,v Tridents,Port of Spain,2,0,0,0,0,0
+226492,15 Aug 2013,v Tallawahs,Kingston,2,1,1,0,0,1
+226492,17 Aug 2013,v Hawksbills,North Sound,1,0,0,0,0,0
+226492,23 Nov 2013,v Wellington,Wellington,1,1,1,0,0,1
+226492,29 Nov 2013,v Wellington,Auckland,2,0,0,0,0,0
+226492,30 Nov 2013,v Canterbury,Auckland,1,2,2,0,0,2
+226492,11 Jan 2014,v West Indies,Auckland,2,2,2,0,0,2
+226492,15 Jan 2014,v West Indies,Wellington,1,1,1,0,0,1
+226492,22 Mar 2014,v England,Chattogram,1,0,0,0,0,0
+226492,24 Mar 2014,v South Africa,Chattogram,1,0,0,0,0,0
+226492,29 Mar 2014,v Netherlands,Chattogram,1,1,1,0,0,1
+226492,31 Mar 2014,v Sri Lanka,Chattogram,1,1,1,0,0,1
+226492,11 Jul 2014,v Hawksbills,St George's,1,0,0,0,0,0
+226492,17 Jul 2014,v Red Steel,Providence,1,1,1,0,0,1
+226492,19 Jul 2014,v Zouks,Providence,1,2,2,0,0,2
+226492,20 Jul 2014,v Tallawahs,Providence,1,0,0,0,0,0
+226492,24 Jul 2014,v Red Steel,Port of Spain,2,0,0,0,0,0
+226492,26 Jul 2014,v Tridents,Bridgetown,2,0,0,0,0,0
+226492,2 Aug 2014,v Tallawahs,Kingston,2,0,0,0,0,0
+226492,7 Aug 2014,v Hawksbills,Basseterre,2,0,0,0,0,0
+226492,10 Aug 2014,v Zouks,Basseterre,1,2,2,0,0,2
+226492,14 Aug 2014,v Tallawahs,Basseterre,1,1,1,0,0,1
+226492,16 Aug 2014,v Tridents,Basseterre,1,1,1,0,0,1
+226492,31 Oct 2014,v South Island,Hamilton,1,1,1,0,0,1
+226492,1 Nov 2014,v Otago,Hamilton,2,0,0,0,0,0
+226492,8 Nov 2014,v Otago,Hamilton,2,2,2,0,0,2
+226492,14 Nov 2014,v Wellington,Auckland,2,0,0,0,0,0
+226492,15 Nov 2014,v Central D,Auckland,-,TDNF,-,-,-,-
+226492,16 Nov 2014,v Northern Dis,Auckland,1,1,1,0,0,1
+226492,4 Dec 2014,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+226492,23 Jun 2015,v England,Manchester,1,1,1,0,0,1
+226492,24 Jun 2015,v Zouks,Gros Islet,2,0,0,0,0,0
+226492,27 Jun 2015,v Tridents,Bridgetown,2,1,1,0,0,1
+226492,30 Jun 2015,v Tallawahs,Basseterre,2,0,0,0,0,0
+226492,3 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+226492,4 Jul 2015,v Tallawahs,Basseterre,2,0,0,0,0,0
+226492,6 Jul 2015,v Tridents,Basseterre,1,0,0,0,0,0
+226492,8 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+226492,10 Jul 2015,v Zouks,Basseterre,2,0,0,0,0,0
+226492,11 Jul 2015,v Red Steel,Basseterre,2,0,0,0,0,0
+226492,18 Jul 2015,v Red Steel,Port of Spain,1,1,1,0,0,1
+226492,9 Aug 2015,v Zimbabwe,Harare,2,0,0,0,0,0
+226492,14 Aug 2015,v South Africa,Durban,2,0,0,0,0,0
+226492,16 Aug 2015,v South Africa,Centurion,2,1,1,0,0,1
+226492,5 Dec 2015,v Northern Dis,Hamilton,2,2,2,0,0,2
+226492,7 Jan 2016,v Sri Lanka,Mount Maunganui,2,1,1,0,0,1
+226492,10 Jan 2016,v Sri Lanka,Auckland,1,1,1,0,0,1
+226492,15 Jan 2016,v Pakistan,Auckland,1,0,0,0,0,0
+226492,17 Jan 2016,v Pakistan,Hamilton,1,0,0,0,0,0
+226492,22 Jan 2016,v Pakistan,Wellington,2,1,1,0,0,1
+226492,15 Mar 2016,v India,Nagpur,2,1,1,0,0,1
+226492,18 Mar 2016,v Australia,Dharamsala,2,2,2,0,0,2
+226492,22 Mar 2016,v Pakistan,Mohali,2,3,3,0,0,3
+226492,30 Mar 2016,v England,Delhi,2,0,0,0,0,0
+226492,18 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+226492,15 May 2016,v Daredevils,Visakhapatnam,2,0,0,0,0,0
+226492,21 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+226492,27 May 2016,v Durham,Manchester,2,1,1,0,0,1
+226492,3 Jun 2016,v Yorkshire,Manchester,2,0,0,0,0,0
+226492,4 Jun 2016,v Notts,Nottingham,2,0,0,0,0,0
+226492,19 Jun 2016,v Warwickshire,Birmingham,1,2,2,0,0,2
+226492,24 Jun 2016,v Worcs,Manchester,2,2,2,0,0,2
+226492,30 Jun 2016,v Patriots,Basseterre,1,1,1,0,0,1
+226492,2 Jul 2016,v Trinbago,Port of Spain,1,0,0,0,0,0
+226492,7 Jul 2016,v Tallawahs,Providence,1,0,0,0,0,0
+226492,9 Jul 2016,v Patriots,Providence,1,1,1,0,0,1
+226492,10 Jul 2016,v Trinbago,Providence,1,0,0,0,0,0
+226492,12 Jul 2016,v Zouks,Providence,1,1,1,0,0,1
+226492,15 Jul 2016,v Tallawahs,Kingston,2,0,0,0,0,0
+226492,28 Apr 2017,v SRH,Mohali,1,0,0,0,0,0
+226492,30 Apr 2017,v Daredevils,Mohali,1,0,0,0,0,0
+226492,5 May 2017,v RCB,Bengaluru,2,2,2,0,0,2
+226492,7 May 2017,v Guj Lions,Mohali,2,1,1,0,0,1
+226492,9 May 2017,v KKR,Mohali,2,0,0,0,0,0
+226492,11 May 2017,v MI,Wankhede,2,3,3,0,0,3
+226492,14 May 2017,v Supergiant,Pune,2,0,0,0,0,0
+226492,5 Aug 2017,v Patriots,Lauderhill,2,0,0,0,0,0
+226492,11 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+226492,13 Aug 2017,v Stars,Gros Islet,1,2,2,0,0,2
+226492,17 Aug 2017,v Tallawahs,Providence,1,0,0,0,0,0
+226492,19 Aug 2017,v Trinbago,Providence,2,0,0,0,0,0
+226492,20 Aug 2017,v Tridents,Providence,1,0,0,0,0,0
+226492,22 Aug 2017,v Stars,Providence,1,1,1,0,0,1
+226492,1 Nov 2017,v India,Delhi,1,0,0,0,0,0
+226492,4 Nov 2017,v India,Rajkot,2,0,0,0,0,0
+226492,7 Nov 2017,v India,Thiruvananthapuram,1,1,1,0,0,1
+226492,24 Dec 2017,v Wellington,Auckland,1,0,0,0,0,0
+226492,29 Dec 2017,v West Indies,Nelson,2,0,0,0,0,0
+226492,1 Jan 2018,v West Indies,Mount Maunganui,-,TDNF,-,-,-,-
+226492,3 Jan 2018,v West Indies,Mount Maunganui,2,0,0,0,0,0
+226492,22 Jan 2018,v Pakistan,Wellington,1,0,0,0,0,0
+226492,25 Jan 2018,v Pakistan,Auckland,1,0,0,0,0,0
+226492,28 Jan 2018,v Pakistan,Mount Maunganui,1,0,0,0,0,0
+226492,3 Feb 2018,v Australia,Sydney,2,0,0,0,0,0
+226492,13 Feb 2018,v England,Wellington,2,0,0,0,0,0
+226492,16 Feb 2018,v Australia,Auckland,2,1,1,0,0,1
+226492,18 Feb 2018,v England,Hamilton,1,2,2,0,0,2
+226492,21 Feb 2018,v Australia,Auckland,2,0,0,0,0,0
+226492,5 Jul 2018,v Lancashire,Manchester,1,1,1,0,0,1
+226492,6 Jul 2018,v Bears,Worcester,2,1,1,0,0,1
+226492,8 Jul 2018,v Derbyshire,Derby,1,0,0,0,0,0
+226492,13 Jul 2018,v Northants,Worcester,2,0,0,0,0,0
+226492,15 Jul 2018,v Yorkshire,Worcester,1,2,2,0,0,2
+226492,20 Jul 2018,v Durham,Chester-le-Street,2,1,1,0,0,1
+226492,27 Jul 2018,v Northants,Northampton,1,1,1,0,0,1
+226492,12 Aug 2018,v Amazon,Providence,2,1,1,0,0,1
+226492,17 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+226492,22 Aug 2018,v Tallawahs,Lauderhill,2,1,1,0,0,1
+226492,25 Aug 2018,v Patriots,Bridgetown,2,0,0,0,0,0
+226492,29 Aug 2018,v Tallawahs,Bridgetown,2,0,0,0,0,0
+226492,31 Aug 2018,v Amazon,Bridgetown,2,0,0,0,0,0
+226492,2 Sep 2018,v Stars,Bridgetown,2,0,0,0,0,0
+226492,29 Dec 2018,v Central D,New Plymouth,1,2,2,0,0,2
+226492,11 Jan 2019,v Sri Lanka,Auckland,2,1,1,0,0,1
+226492,13 Jan 2019,v Otago,Dunedin,-,TDNF,-,-,-,-
+226492,18 Jan 2019,v Wellington,Wellington,1,1,1,0,0,1
+226492,2 May 2019,v MI,Wankhede,1,0,0,0,0,0
+226492,4 May 2019,v RCB,Bengaluru,2,1,1,0,0,1
+226492,8 May 2019,v DC,Visakhapatnam,2,0,0,0,0,0
+226492,18 Jul 2019,v Notts,Nottingham,2,0,0,0,0,0
+226492,26 Jul 2019,v Lancashire,Manchester,2,0,0,0,0,0
+226492,28 Jul 2019,v Durham,Worcester,1,1,1,0,0,1
+226492,31 Jul 2019,v Derbyshire,Worcester,1,2,2,0,0,2
+226492,2 Aug 2019,v Yorkshire,Leeds,1,0,0,0,0,0
+226492,4 Aug 2019,v Leics,Worcester,1,0,0,0,0,0
+226492,13 Aug 2019,v Derbyshire,Derby,1,0,0,0,0,0
+226492,15 Aug 2019,v Durham,Chester-le-Street,2,0,0,0,0,0
+226492,23 Aug 2019,v Bears,Birmingham,1,0,0,0,0,0
+226492,1 Sep 2019,v Sri Lanka,Pallekele,1,1,1,0,0,1
+226492,3 Sep 2019,v Sri Lanka,Pallekele,1,0,0,0,0,0
+226492,1 Nov 2019,v England,Christchurch,2,2,2,0,0,2
+226492,3 Nov 2019,v England,Wellington,2,2,2,0,0,2
+226492,5 Nov 2019,v England,Nelson,2,1,1,0,0,1
+226492,8 Nov 2019,v England,Napier,1,0,0,0,0,0
+226492,10 Nov 2019,v England,Auckland,2,0,0,0,0,0
+226492,14 Dec 2019,v Otago,Auckland,1,1,1,0,0,1
+226492,17 Dec 2019,v Canterbury,Christchurch,1,0,0,0,0,0
+226492,19 Dec 2019,v Otago,Dunedin,1,0,0,0,0,0
+226492,22 Dec 2019,v Northern Dis,Hamilton,1,0,0,0,0,0
+226492,28 Dec 2019,v Central D,New Plymouth,2,0,0,0,0,0
+226492,30 Dec 2019,v Wellington,Auckland,2,1,1,0,0,1
+226492,1 Jan 2020,v Canterbury,Auckland,1,0,0,0,0,0
+226492,4 Jan 2020,v Central D,Auckland,1,1,1,0,0,1
+226492,10 Jan 2020,v Northern Dis,Auckland,2,0,0,0,0,0
+226492,12 Jan 2020,v Wellington,Wellington,1,1,1,0,0,1
+226492,17 Jan 2020,v Otago,Dunedin,1,1,1,0,0,1
+226492,19 Jan 2020,v Wellington,Wellington,1,2,2,0,0,2
+226492,24 Jan 2020,v India,Auckland,2,1,1,0,0,1
+226492,26 Jan 2020,v India,Auckland,2,0,0,0,0,0
+226492,29 Jan 2020,v India,Hamilton,1,0,0,0,0,0
+226492,31 Jan 2020,v India,Wellington,1,0,0,0,0,0
+226492,2 Feb 2020,v India,Mount Maunganui,1,0,0,0,0,0
+226492,27 Nov 2020,v West Indies,Auckland,1,0,0,0,0,0
+226492,29 Nov 2020,v West Indies,Mount Maunganui,2,0,0,0,0,0
+226492,30 Nov 2020,v West Indies,Mount Maunganui,1,0,0,0,0,0
+226492,18 Dec 2020,v Pakistan,Auckland,1,2,2,0,0,2
+226492,20 Dec 2020,v Pakistan,Hamilton,1,1,1,0,0,1
+226492,22 Dec 2020,v Pakistan,Napier,2,0,0,0,0,0
+226492,11 Jan 2021,v Canterbury,Christchurch,1,0,0,0,0,0
+226492,17 Jan 2021,v Northern Dis,Auckland,2,2,2,0,0,2
+226492,23 Jan 2021,v Central D,Auckland,2,1,1,0,0,1
+226492,29 Jan 2021,v Northern Dis,Hamilton,2,0,0,0,0,0
+226492,22 Feb 2021,v Australia,Christchurch,2,0,0,0,0,0
+226492,25 Feb 2021,v Australia,Dunedin,2,0,0,0,0,0
+226492,3 Mar 2021,v Australia,Wellington,1,2,2,0,0,2
+226492,5 Mar 2021,v Australia,Wellington,1,1,1,0,0,1
+226492,7 Mar 2021,v Australia,Wellington,1,3,3,0,0,3
+226492,28 Mar 2021,v Bangladesh,Hamilton,2,1,1,0,0,1
+226492,30 Mar 2021,v Bangladesh,Napier,2,1,1,0,0,1
+226492,1 Apr 2021,v Bangladesh,Auckland,2,0,0,0,0,0
+226492,10 Jun 2021,v Sultans,Abu Dhabi,1,0,0,0,0,0
+226492,14 Jun 2021,v United,Abu Dhabi,2,0,0,0,0,0
+226492,15 Jun 2021,v Zalmi,Abu Dhabi,2,1,1,0,0,1
+226492,17 Jun 2021,v Qalandars,Abu Dhabi,2,1,1,0,0,1
+226492,19 Jun 2021,v Gladiators,Abu Dhabi,2,0,0,0,0,0
+226492,21 Jun 2021,v Zalmi,Abu Dhabi,2,1,1,0,0,1
+226492,26 Oct 2021,v Pakistan,Sharjah,2,0,0,0,0,0
+226492,31 Oct 2021,v India,Dubai (DICS),1,3,3,0,0,3
+226492,3 Nov 2021,v Scotland,Dubai (DICS),2,0,0,0,0,0
+226492,5 Nov 2021,v Namibia,Sharjah,2,1,1,0,0,1
+226492,7 Nov 2021,v Afghanistan,Abu Dhabi,1,0,0,0,0,0
+226492,10 Nov 2021,v England,Abu Dhabi,1,0,0,0,0,0
+226492,14 Nov 2021,v Australia,Dubai (DICS),2,0,0,0,0,0
+226492,17 Nov 2021,v India,Jaipur,2,0,0,0,0,0
+226492,19 Nov 2021,v India,Ranchi,2,1,1,0,0,1
+226492,21 Nov 2021,v India,Eden Gardens,1,1,1,0,0,1
+226492,17 Dec 2021,v Northern Dis,Hamilton,2,2,2,0,0,2
+226492,20 Dec 2021,v Northern Dis,Auckland,2,0,0,0,0,0
+226492,24 Dec 2021,v Wellington,Wellington,2,1,1,0,0,1
+226492,27 Dec 2021,v Central D,Palmerston North,1,0,0,0,0,0
+226492,29 Dec 2021,v Otago,Queenstown,1,0,0,0,0,0
+226492,22 Jan 2022,v Central D,Auckland,1,0,0,0,0,0
+226492,18 Jul 2022,v Ireland,Belfast,2,0,0,0,0,0
+226492,20 Jul 2022,v Ireland,Belfast,2,0,0,0,0,0
+226492,22 Jul 2022,v Ireland,Belfast,1,0,0,0,0,0
+226492,27 Jul 2022,v Scotland,Edinburgh,2,1,1,0,0,1
+226492,4 Aug 2022,v Netherlands,The Hague,2,0,0,0,0,0
+226492,5 Aug 2022,v Netherlands,The Hague,1,0,0,0,0,0
+226492,10 Aug 2022,v West Indies,Kingston,2,0,0,0,0,0
+226492,12 Aug 2022,v West Indies,Kingston,2,1,1,0,0,1
+226492,14 Aug 2022,v West Indies,Kingston,2,1,1,0,0,1
+226492,12 Oct 2022,v Bangladesh,Christchurch,2,1,1,0,0,1
+226492,28 Dec 2022,v Sixers,Sydney,1,1,1,0,0,1
+226492,30 Dec 2022,v Sixers,Geelong,2,1,1,0,0,1
+226492,1 Jan 2023,v Scorchers,Melbourne (Docklands),2,1,1,0,0,1
+226492,3 Jan 2023,v Stars,Melbourne,2,0,0,0,0,0
+226492,7 Jan 2023,v Hurricanes,Melbourne (Docklands),1,0,0,0,0,0
+226492,10 Jan 2023,v Strikers,Adelaide,1,1,1,0,0,1
+226492,14 Jan 2023,v Stars,Melbourne (Docklands),2,1,1,0,0,1
+226492,19 Jan 2023,v Thunder,Canberra,2,0,0,0,0,0
+226492,22 Jan 2023,v Scorchers,Perth,1,1,1,0,0,1
+226492,24 Jan 2023,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+226492,29 Jan 2023,v Heat,Melbourne (Docklands),2,1,1,0,0,1
+226492,15 Feb 2023,v Sultans,Multan,2,0,0,0,0,0
+226492,18 Feb 2023,v Kings,Karachi,2,0,0,0,0,0
+226492,20 Feb 2023,v Zalmi,Karachi,2,0,0,0,0,0
+226492,21 Feb 2023,v Qalandars,Karachi,1,2,2,0,0,2
+226492,24 Feb 2023,v United,Karachi,1,1,1,0,0,1
+226492,2 Mar 2023,v Qalandars,Lahore,1,0,0,0,0,0
+226492,6 Mar 2023,v Kings,Rawalpindi,1,0,0,0,0,0
+226492,8 Mar 2023,v Zalmi,Rawalpindi,1,0,0,0,0,0
+226492,11 Mar 2023,v Sultans,Rawalpindi,1,0,0,0,0,0
+226492,19 Aug 2023,v Patriots,Gros Islet,-,TDNF,-,-,-,-
+226492,26 Aug 2023,v Kings,Basseterre,1,0,0,0,0,0
+226492,27 Aug 2023,v Patriots,Basseterre,1,0,0,0,0,0
+226492,30 Aug 2023,v Royals,Bridgetown,2,0,0,0,0,0
+226492,3 Sep 2023,v Tallawahs,Bridgetown,2,0,0,0,0,0
+226492,5 Sep 2023,v Amazon,Port of Spain,2,0,0,0,0,0
+226492,6 Sep 2023,v Royals,Port of Spain,2,1,1,0,0,1
+226492,9 Sep 2023,v Tallawahs,Tarouba,1,1,1,0,0,1
+226492,10 Sep 2023,v Kings,Tarouba,1,0,0,0,0,0
+226492,16 Sep 2023,v Amazon,Providence,2,0,0,0,0,0
+226492,19 Dec 2023,v Canterbury,Auckland,2,0,0,0,0,0
+226492,1 Jan 2024,v Otago,Alexandra,2,2,2,0,0,2
+226492,4 Jan 2024,v Wellington,Auckland,2,0,0,0,0,0
+226492,7 Jan 2024,v Canterbury,Christchurch,1,0,0,0,0,0
+226492,19 Jan 2024,v Gulf Giants,Sharjah,1,0,0,0,0,0
+226492,22 Jan 2024,v DC,Dubai (DICS),1,0,0,0,0,0
+226492,26 Jan 2024,v MI Emirates,Sharjah,1,0,0,0,0,0
+226492,28 Jan 2024,v Vipers,Sharjah,2,0,0,0,0,0
+226492,29 Jan 2024,v DC,Sharjah,1,0,0,0,0,0
+226492,7 Feb 2024,v KnightRiders,Abu Dhabi,1,0,0,0,0,0
+226492,11 Feb 2024,v Vipers,Sharjah,2,0,0,0,0,0
+226492,15 Mar 2024,v Gladiators,Karachi,2,0,0,0,0,0
+226492,16 Mar 2024,v Zalmi,Karachi,1,0,0,0,0,0
+226492,18 Mar 2024,v Sultans,Karachi,1,2,2,0,0,2
+226492,29 Dec 2024,v Otago,Alexandra,2,0,0,0,0,0
+226492,3 Jan 2025,v Canterbury,Auckland,2,0,0,0,0,0
+226492,10 Jan 2025,v Canterbury,Christchurch,1,0,0,0,0,0
+226492,20 Jan 2025,v Wellington,Wellington,2,0,0,0,0,0
+226492,26 Dec 2025,v Northern Dis,Hamilton,-,TDNF,-,-,-,-
+226492,29 Dec 2025,v Wellington,Wellington,1,0,0,0,0,0
+226492,2 Jan 2026,v Wellington,Auckland,-,TDNF,-,-,-,-
+226492,6 Jan 2026,v Otago,Auckland,2,1,1,0,0,1
+226492,12 Jan 2026,v Otago,Dunedin,1,0,0,0,0,0
+226492,14 Jan 2026,v Canterbury,Auckland,1,0,0,0,0,0
+226492,16 Jan 2026,v Central D,Napier,1,1,1,0,0,1
+226492,22 Jan 2026,v Northern Dis,Auckland,1,2,2,0,0,2

@@ -1,0 +1,193 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+669855,15 Jul 2016,v Hampshire,Hove,1,0,0,0,0,0
+669855,21 Jul 2016,v Essex,Chelmsford,2,0,0,0,0,0
+669855,22 Jul 2016,v Surrey,The Oval,2,0,0,0,0,0
+669855,28 Jul 2016,v Glamorgan,Hove,1,1,1,0,0,1
+669855,9 Jul 2017,v Glamorgan,Arundel,1,0,0,0,0,0
+669855,12 Jul 2017,v Hampshire,Hove,1,0,0,0,0,0
+669855,16 Jul 2017,v Gloucs,Cheltenham,-,TDNF,-,-,-,-
+669855,20 Jul 2017,v Hampshire,Southampton,1,1,1,0,0,1
+669855,21 Jul 2017,v Glamorgan,Cardiff,-,TDNF,-,-,-,-
+669855,23 Jul 2017,v Kent,Hove,1,0,0,0,0,0
+669855,28 Jul 2017,v Middlesex,Hove,1,0,0,0,0,0
+669855,30 Jul 2017,v Somerset,Taunton,1,0,0,0,0,0
+669855,3 Aug 2017,v Surrey,Hove,1,0,0,0,0,0
+669855,4 Aug 2017,v Kent,Canterbury,1,0,0,0,0,0
+669855,10 Aug 2017,v Middlesex,Lord's,1,2,2,0,0,2
+669855,11 Aug 2017,v Gloucs,Hove,1,1,1,0,0,1
+669855,13 Aug 2017,v Surrey,The Oval,1,0,0,0,0,0
+669855,18 Aug 2017,v Essex,Hove,2,0,0,0,0,0
+669855,5 Nov 2017,v Dynamites,Sylhet,1,0,0,0,0,0
+669855,8 Nov 2017,v Sylhet,Sylhet,1,0,0,0,0,0
+669855,12 Nov 2017,v Chattogram,Mirpur,2,1,1,0,0,1
+669855,14 Nov 2017,v Dynamites,Mirpur,2,0,0,0,0,0
+669855,24 Nov 2017,v Rangpur,Chattogram,2,0,0,0,0,0
+669855,27 Nov 2017,v Kings,Chattogram,2,1,1,0,0,1
+669855,28 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+669855,3 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+669855,8 Dec 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+669855,21 Dec 2017,v Renegades,Hobart,2,0,0,0,0,0
+669855,30 Dec 2017,v Thunder,Launceston,1,0,0,0,0,0
+669855,1 Jan 2018,v Thunder,Sydney,2,1,1,0,0,1
+669855,4 Jan 2018,v Strikers,Hobart,2,0,0,0,0,0
+669855,8 Jan 2018,v Sixers,Hobart,2,0,0,0,0,0
+669855,10 Jan 2018,v Heat,Brisbane,2,3,3,0,0,3
+669855,15 Jan 2018,v Heat,Hobart,1,0,0,0,0,0
+669855,17 Jan 2018,v Strikers,Adelaide,1,0,0,0,0,0
+669855,20 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+669855,27 Jan 2018,v Stars,Melbourne,2,0,0,0,0,0
+669855,1 Feb 2018,v Scorchers,Perth,2,1,1,0,0,1
+669855,4 Feb 2018,v Strikers,Adelaide,1,0,0,0,0,0
+669855,23 Feb 2018,v Kings,Dubai (DICS),1,0,0,0,0,0
+669855,24 Feb 2018,v Qalandars,Dubai (DICS),1,1,1,0,0,1
+669855,22 Apr 2018,v MI,Jaipur,1,0,0,0,0,0
+669855,29 Apr 2018,v SRH,Jaipur,1,0,0,0,0,0
+669855,2 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+669855,6 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+669855,8 May 2018,v Kings XI,Jaipur,2,0,0,0,0,0
+669855,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+669855,13 May 2018,v MI,Wankhede,1,0,0,0,0,0
+669855,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+669855,19 May 2018,v RCB,Jaipur,2,0,0,0,0,0
+669855,23 May 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+669855,4 Jul 2018,v Essex,Chelmsford,2,0,0,0,0,0
+669855,8 Jul 2018,v Glamorgan,Cardiff,1,0,0,0,0,0
+669855,12 Jul 2018,v Hampshire,Southampton,1,1,1,0,0,1
+669855,13 Jul 2018,v Surrey,Hove,1,0,0,0,0,0
+669855,27 Jul 2018,v Kent,Canterbury,1,0,0,0,0,0
+669855,1 Aug 2018,v Gloucs,Hove,2,0,0,0,0,0
+669855,2 Aug 2018,v Middlesex,Lord's,2,0,0,0,0,0
+669855,5 Aug 2018,v Somerset,Hove,2,0,0,0,0,0
+669855,9 Aug 2018,v Surrey,The Oval,-,TDNF,-,-,-,-
+669855,14 Aug 2018,v Glamorgan,Hove,2,0,0,0,0,0
+669855,16 Aug 2018,v Gloucs,Bristol,1,1,1,0,0,1
+669855,17 Aug 2018,v Middlesex,Hove,2,0,0,0,0,0
+669855,24 Aug 2018,v Durham,Chester-le-Street,1,1,1,0,0,1
+669855,15 Sep 2018,v Somerset,Birmingham,2,0,0,0,0,0
+669855,15 Sep 2018,v Worcs,Birmingham,2,0,0,0,0,0
+669855,22 Dec 2018,v Heat,Carrara,2,0,0,0,0,0
+669855,24 Dec 2018,v Stars,Hobart,1,1,1,0,0,1
+669855,28 Dec 2018,v Thunder,Hobart,1,1,1,0,0,1
+669855,30 Dec 2018,v Scorchers,Launceston,1,0,0,0,0,0
+669855,4 Jan 2019,v Sixers,Hobart,1,0,0,0,0,0
+669855,7 Jan 2019,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+669855,14 Jan 2019,v Stars,Melbourne,2,2,2,0,0,2
+669855,18 Jan 2019,v Scorchers,Perth,1,0,0,0,0,0
+669855,21 Jan 2019,v Strikers,Adelaide,1,1,1,0,0,1
+669855,23 Jan 2019,v Sixers,Sydney,2,0,0,0,0,0
+669855,29 Jan 2019,v Heat,Hobart,1,1,1,0,0,1
+669855,31 Jan 2019,v Strikers,Launceston,2,0,0,0,0,0
+669855,7 Feb 2019,v Renegades,Hobart,2,0,0,0,0,0
+669855,9 Feb 2019,v Thunder,Canberra,2,0,0,0,0,0
+669855,14 Feb 2019,v Stars,Hobart,2,0,0,0,0,0
+669855,25 Mar 2019,v Kings XI,Jaipur,1,0,0,0,0,0
+669855,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+669855,31 Mar 2019,v CSK,Chennai,1,1,1,0,0,1
+669855,2 Apr 2019,v RCB,Jaipur,1,0,0,0,0,0
+669855,7 Apr 2019,v KKR,Jaipur,2,0,0,0,0,0
+669855,11 Apr 2019,v CSK,Jaipur,2,0,0,0,0,0
+669855,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+669855,16 Apr 2019,v Kings XI,Mohali,1,2,2,0,0,2
+669855,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+669855,22 Apr 2019,v DC,Jaipur,2,0,0,0,0,0
+669855,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+669855,5 May 2019,v Pakistan,Cardiff,1,0,0,0,0,0
+669855,26 Jul 2019,v Surrey,Hove,2,0,0,0,0,0
+669855,2 Aug 2019,v Kent,Hove,1,0,0,0,0,0
+669855,4 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+669855,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+669855,8 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+669855,22 Sep 2020,v CSK,Sharjah,2,0,0,0,0,0
+669855,27 Sep 2020,v Kings XI,Sharjah,1,0,0,0,0,0
+669855,30 Sep 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+669855,3 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+669855,6 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+669855,9 Oct 2020,v DC,Sharjah,1,1,1,0,0,1
+669855,11 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+669855,14 Oct 2020,v DC,Dubai (DICS),1,2,2,0,0,2
+669855,17 Oct 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+669855,19 Oct 2020,v CSK,Abu Dhabi,1,0,0,0,0,0
+669855,22 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+669855,25 Oct 2020,v MI,Abu Dhabi,1,1,1,0,0,1
+669855,30 Oct 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+669855,1 Nov 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+669855,27 Nov 2020,v South Africa,Cape Town,1,0,0,0,0,0
+669855,29 Nov 2020,v South Africa,Paarl,1,0,0,0,0,0
+669855,1 Dec 2020,v South Africa,Cape Town,1,0,0,0,0,0
+669855,12 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+669855,14 Mar 2021,v India,Ahmedabad,2,0,0,0,0,0
+669855,16 Mar 2021,v India,Ahmedabad,1,2,2,0,0,2
+669855,18 Mar 2021,v India,Ahmedabad,1,2,2,0,0,2
+669855,20 Mar 2021,v India,Ahmedabad,1,0,0,0,0,0
+669855,18 Jul 2021,v Kent,Canterbury,1,0,0,0,0,0
+669855,10 Jan 2023,v Paarl Royals,Cape Town,1,0,0,0,0,0
+669855,13 Jan 2023,v Super Giants,Cape Town,2,0,0,0,0,0
+669855,18 Jan 2023,v Sunrisers,Cape Town,2,1,1,0,0,1
+669855,21 Jan 2023,v Paarl Royals,Paarl,2,1,1,0,0,1
+669855,23 Jan 2023,v Capitals,Cape Town,1,0,0,0,0,0
+669855,6 Feb 2023,v Super Kings,Johannesburg,1,0,0,0,0,0
+669855,9 Mar 2023,v Bangladesh,Chattogram,2,0,0,0,0,0
+669855,12 Mar 2023,v Bangladesh,Mirpur,2,0,0,0,0,0
+669855,14 Mar 2023,v Bangladesh,Mirpur,1,0,0,0,0,0
+669855,2 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+669855,22 Apr 2023,v Punjab Kings,Wankhede,1,1,1,0,0,1
+669855,30 Apr 2023,v RR,Wankhede,1,0,0,0,0,0
+669855,3 May 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+669855,6 May 2023,v CSK,Chennai,2,0,0,0,0,0
+669855,25 May 2024,v Pakistan,Birmingham,2,0,0,0,0,0
+669855,30 May 2024,v Pakistan,The Oval,1,0,0,0,0,0
+669855,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+669855,8 Jun 2024,v Australia,Bridgetown,1,0,0,0,0,0
+669855,13 Jun 2024,v Oman,North Sound,1,0,0,0,0,0
+669855,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+669855,19 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+669855,21 Jun 2024,v South Africa,Gros Islet,1,0,0,0,0,0
+669855,23 Jun 2024,v U.S.A.,Bridgetown,1,0,0,0,0,0
+669855,27 Jun 2024,v India,Providence,1,0,0,0,0,0
+669855,24 Jul 2024,v Spirit,Southampton,1,0,0,0,0,0
+669855,30 Jul 2024,v N S-Chargers,Leeds,2,0,0,0,0,0
+669855,3 Aug 2024,v Phoenix,Birmingham,2,1,1,0,0,1
+669855,8 Aug 2024,v Invincibles,The Oval,2,1,1,0,0,1
+669855,10 Aug 2024,v Rockets,Southampton,1,0,0,0,0,0
+669855,14 Aug 2024,v Fire,Southampton,1,0,0,0,0,0
+669855,17 Aug 2024,v Phoenix,The Oval,2,0,0,0,0,0
+669855,18 Aug 2024,v Invincibles,Lord's,1,1,1,0,0,1
+669855,4 Sep 2024,v Lancashire,Hove,1,1,1,0,0,1
+669855,11 Sep 2024,v Australia,Southampton,1,0,0,0,0,0
+669855,10 Nov 2024,v West Indies,Bridgetown,1,0,0,0,0,0
+669855,14 Nov 2024,v West Indies,Gros Islet,1,1,1,0,0,1
+669855,17 Nov 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+669855,22 Jan 2025,v India,Eden Gardens,2,0,0,0,0,0
+669855,25 Jan 2025,v India,Chennai,2,1,1,0,0,1
+669855,28 Jan 2025,v India,Rajkot,2,1,1,0,0,1
+669855,31 Jan 2025,v India,Pune,1,1,1,0,0,1
+669855,2 Feb 2025,v India,Wankhede,1,2,2,0,0,2
+669855,23 Mar 2025,v SRH,Hyderabad,1,1,1,0,0,1
+669855,26 Mar 2025,v KKR,Guwahati,2,0,0,0,0,0
+669855,30 Mar 2025,v CSK,Guwahati,2,0,0,0,0,0
+669855,5 Apr 2025,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+669855,9 Apr 2025,v GT,Ahmedabad,1,0,0,0,0,0
+669855,13 Apr 2025,v RCB,Jaipur,2,0,0,0,0,0
+669855,16 Apr 2025,v DC,Delhi,1,0,0,0,0,0
+669855,19 Apr 2025,v LSG,Jaipur,1,0,0,0,0,0
+669855,24 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+669855,28 Apr 2025,v GT,Jaipur,1,0,0,0,0,0
+669855,1 May 2025,v MI,Jaipur,1,0,0,0,0,0
+669855,4 May 2025,v KKR,Eden Gardens,1,0,0,0,0,0
+669855,10 Aug 2025,v Phoenix,Southampton,1,0,0,0,0,0
+669855,13 Aug 2025,v N S-Chargers,Southampton,2,1,1,0,0,1
+669855,16 Aug 2025,v Rockets,Nottingham,2,1,1,0,0,1
+669855,18 Aug 2025,v Invincibles,Southampton,2,2,2,0,0,2
+669855,20 Aug 2025,v Fire,Cardiff,2,0,0,0,0,0
+669855,23 Aug 2025,v Spirit,Lord's,1,0,0,0,0,0
+669855,12 Sep 2025,v South Africa,Manchester,2,4,4,0,0,4
+669855,30 Jan 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+669855,1 Feb 2026,v Sri Lanka,Pallekele,1,0,0,0,0,0
+669855,8 Feb 2026,v Nepal,Wankhede,2,0,0,0,0,0
+669855,11 Feb 2026,v West Indies,Wankhede,1,0,0,0,0,0
+669855,14 Feb 2026,v Scotland,Eden Gardens,1,0,0,0,0,0
+669855,16 Feb 2026,v Italy,Eden Gardens,2,0,0,0,0,0
+669855,22 Feb 2026,v Sri Lanka,Pallekele,2,0,0,0,0,0
+669855,24 Feb 2026,v Pakistan,Pallekele,1,0,0,0,0,0
+669855,27 Feb 2026,v New Zealand,Colombo (RPS),1,0,0,0,0,0
+669855,5 Mar 2026,v India,Wankhede,1,0,0,0,0,0

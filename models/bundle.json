@@ -1,17 +1,40 @@
 {
-  "feature_cols": [
-    "diff_win_streak",
-    "t2_spin_count",
-    "t2_pace_count",
-    "diff_season_matches",
-    "h2h_t1_win_rate",
-    "diff_left_bowl_count",
-    "t2_low_bat_sr",
-    "diff_middle_bowl_extras_per_match",
-    "diff_table_nrr"
-  ],
-  "model_type": "scaled_lr",
+  "model_type": "stacked_lr",
+  "base_models": {
+    "baseline": [
+      "diff_win_streak",
+      "t2_spin_count",
+      "t2_pace_count",
+      "diff_season_matches",
+      "h2h_t1_win_rate",
+      "diff_left_bowl_count",
+      "t2_low_bat_sr",
+      "diff_middle_bowl_extras_per_match",
+      "diff_table_nrr"
+    ],
+    "composition": [
+      "t2_specialist_bowler",
+      "t2_bowling_ar",
+      "t2_specialist_bat",
+      "t2_allrounder",
+      "t2_wk_bat"
+    ],
+    "form": [
+      "t2_win_streak",
+      "diff_season_matches",
+      "diff_matches_played",
+      "t1_win_rate_last10",
+      "t2_loss_streak"
+    ],
+    "phase": [
+      "t1_middle_bat_dot_pct",
+      "t2_powerplay_bowl_rr",
+      "diff_death_bowl_bound_pct",
+      "diff_death_bowl_extras_per_match"
+    ]
+  },
   "lr_C": 0.1,
+  "meta_C": 0.1,
   "min_train_season": 2018,
   "covid_seasons": [
     2020,

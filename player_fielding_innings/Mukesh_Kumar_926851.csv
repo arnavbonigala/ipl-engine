@@ -1,0 +1,81 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+926851,6 Jan 2016,v Gujarat,Nagpur,2,0,0,0,0,0
+926851,7 Jan 2016,v Vidarbha,Nagpur,2,0,0,0,0,0
+926851,9 Jan 2016,v Haryana,Nagpur,1,0,0,0,0,0
+926851,16 Jan 2018,v Assam,Ranchi,1,0,0,0,0,0
+926851,21 Jan 2018,v Baroda,Eden Gardens,1,2,2,0,0,2
+926851,22 Jan 2018,v UP,Eden Gardens,1,0,0,0,0,0
+926851,10 Jan 2021,v Odisha,Jadavpur Uni,1,0,0,0,0,0
+926851,12 Jan 2021,v Jharkhand,Eden Gardens,2,2,2,0,0,2
+926851,14 Jan 2021,v Hyderabad,Eden Gardens,1,0,0,0,0,0
+926851,16 Jan 2021,v Assam,Eden Gardens,1,1,1,0,0,1
+926851,18 Jan 2021,v Tamil Nadu,Eden Gardens,2,0,0,0,0,0
+926851,4 Nov 2021,v Chhattisgarh,Guwahati,1,0,0,0,0,0
+926851,5 Nov 2021,v Baroda,Guwahati,2,0,0,0,0,0
+926851,6 Nov 2021,v Mumbai,Guwahati,1,0,0,0,0,0
+926851,8 Nov 2021,v Services,Guwahati,1,0,0,0,0,0
+926851,9 Nov 2021,v Karnataka,Guwahati,1,1,1,0,0,1
+926851,18 Nov 2021,v Karnataka,Delhi,1,0,0,0,0,0
+926851,14 Oct 2022,v Odisha,Lucknow,1,2,2,0,0,2
+926851,16 Oct 2022,v Tamil Nadu,Lucknow,2,1,1,0,0,1
+926851,18 Oct 2022,v Sikkim,Lucknow,2,0,0,0,0,0
+926851,20 Oct 2022,v Chhattisgarh,Lucknow,2,1,1,0,0,1
+926851,22 Oct 2022,v Chandigarh,Lucknow,2,0,0,0,0,0
+926851,1 Nov 2022,v Himachal,Kolkata,2,1,1,0,0,1
+926851,1 Apr 2023,v LSG,Lucknow,1,0,0,0,0,0
+926851,4 Apr 2023,v GT,Delhi,2,0,0,0,0,0
+926851,8 Apr 2023,v RR,Guwahati,1,2,2,0,0,2
+926851,11 Apr 2023,v MI,Delhi,2,0,0,0,0,0
+926851,20 Apr 2023,v KKR,Delhi,1,1,1,0,0,1
+926851,24 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+926851,29 Apr 2023,v SRH,Delhi,1,0,0,0,0,0
+926851,6 May 2023,v RCB,Delhi,1,0,0,0,0,0
+926851,13 May 2023,v Punjab Kings,Delhi,1,0,0,0,0,0
+926851,17 May 2023,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+926851,3 Aug 2023,v West Indies,Tarouba,1,0,0,0,0,0
+926851,6 Aug 2023,v West Indies,Providence,2,1,1,0,0,1
+926851,8 Aug 2023,v West Indies,Providence,1,0,0,0,0,0
+926851,12 Aug 2023,v West Indies,Lauderhill,1,0,0,0,0,0
+926851,13 Aug 2023,v West Indies,Lauderhill,2,0,0,0,0,0
+926851,16 Oct 2023,v Maharashtra,Mohali,2,0,0,0,0,0
+926851,17 Oct 2023,v Rajasthan,Mohali,2,0,0,0,0,0
+926851,19 Oct 2023,v Puducherry,New Chandigarh,2,0,0,0,0,0
+926851,21 Oct 2023,v Vidarbha,Mohali,2,0,0,0,0,0
+926851,31 Oct 2023,v Assam,Mohali,2,0,0,0,0,0
+926851,23 Nov 2023,v Australia,Visakhapatnam,1,0,0,0,0,0
+926851,26 Nov 2023,v Australia,Thiruvananthapuram,2,0,0,0,0,0
+926851,1 Dec 2023,v Australia,Raipur,2,1,1,0,0,1
+926851,3 Dec 2023,v Australia,Bengaluru,2,0,0,0,0,0
+926851,12 Dec 2023,v South Africa,Gqeberha,2,0,0,0,0,0
+926851,14 Dec 2023,v South Africa,Johannesburg,2,0,0,0,0,0
+926851,11 Jan 2024,v Afghanistan,Mohali,1,0,0,0,0,0
+926851,14 Jan 2024,v Afghanistan,Indore,1,0,0,0,0,0
+926851,17 Jan 2024,v Afghanistan,Bengaluru,2,0,0,0,0,0
+926851,28 Mar 2024,v RR,Jaipur,1,0,0,0,0,0
+926851,31 Mar 2024,v CSK,Visakhapatnam,2,0,0,0,0,0
+926851,12 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+926851,17 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+926851,20 Apr 2024,v SRH,Delhi,1,0,0,0,0,0
+926851,24 Apr 2024,v GT,Delhi,2,0,0,0,0,0
+926851,27 Apr 2024,v MI,Delhi,2,1,1,0,0,1
+926851,7 May 2024,v RR,Delhi,2,0,0,0,0,0
+926851,12 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+926851,14 May 2024,v LSG,Delhi,2,2,2,0,0,2
+926851,6 Jul 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+926851,7 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+926851,14 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+926851,24 Mar 2025,v LSG,Visakhapatnam,1,0,0,0,0,0
+926851,30 Mar 2025,v SRH,Visakhapatnam,1,0,0,0,0,0
+926851,5 Apr 2025,v CSK,Chennai,2,1,1,0,0,1
+926851,10 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+926851,13 Apr 2025,v MI,Delhi,1,0,0,0,0,0
+926851,16 Apr 2025,v RR,Delhi,2,0,0,0,0,0
+926851,19 Apr 2025,v GT,Ahmedabad,2,0,0,0,0,0
+926851,22 Apr 2025,v LSG,Lucknow,1,1,1,0,0,1
+926851,27 Apr 2025,v RCB,Delhi,2,0,0,0,0,0
+926851,29 Apr 2025,v KKR,Delhi,1,0,0,0,0,0
+926851,21 May 2025,v MI,Wankhede,1,1,1,0,0,1
+926851,24 May 2025,v Punjab Kings,Jaipur,1,0,0,0,0,0
+926851,2 Dec 2025,v Himachal,Hyderabad,1,0,0,0,0,0
+926851,4 Dec 2025,v Services,Hyderabad,1,1,1,0,0,1
+926851,6 Dec 2025,v Puducherry,Hyderabad,1,0,0,0,0,0

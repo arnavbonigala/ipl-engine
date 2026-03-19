@@ -1,0 +1,189 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+475281,24 Mar 2015,v Baroda,Pune,1,0,0,0,0,0
+475281,25 Mar 2015,v Gujarat,Pune,2,0,0,0,0,0
+475281,26 Mar 2015,v Saurashtra,Pune,1,0,0,0,0,0
+475281,27 Mar 2015,v Maharashtra,Pune,2,0,0,0,0,0
+475281,1 May 2015,v Daredevils,Delhi,2,0,0,0,0,0
+475281,2 Jan 2016,v Odisha,Cuttack,1,1,1,0,0,1
+475281,3 Jan 2016,v Karnataka,Cuttack,1,1,1,0,0,1
+475281,4 Jan 2016,v Services,Cuttack,1,1,1,0,0,1
+475281,7 Jan 2016,v UP,Cuttack,2,0,0,0,0,0
+475281,8 Jan 2016,v Maharashtra,Cuttack,1,0,0,0,0,0
+475281,15 Jan 2016,v Kerala,Wankhede,1,0,0,0,0,0
+475281,16 Jan 2016,v Vidarbha,Wankhede,1,0,0,0,0,0
+475281,18 Jan 2016,v Baroda,Wankhede,2,1,1,0,0,1
+475281,1 Feb 2017,v Saurashtra,Vadodara,1,1,1,0,0,1
+475281,2 Feb 2017,v Maharashtra,Vadodara,1,0,0,0,0,0
+475281,12 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+475281,13 Feb 2017,v North Zone,Wankhede,1,0,0,0,0,0
+475281,18 Feb 2017,v East Zone,Wankhede,2,0,0,0,0,0
+475281,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+475281,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+475281,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+475281,24 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+475281,26 Apr 2017,v KKR,Pune,2,1,1,0,0,1
+475281,1 May 2017,v Guj Lions,Pune,1,0,0,0,0,0
+475281,3 May 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+475281,6 May 2017,v SRH,Hyderabad,2,1,1,0,0,1
+475281,12 May 2017,v Daredevils,Delhi,1,0,0,0,0,0
+475281,14 May 2017,v Kings XI,Pune,1,0,0,0,0,0
+475281,16 May 2017,v MI,Wankhede,2,0,0,0,0,0
+475281,21 May 2017,v MI,Hyderabad,1,2,2,0,0,2
+475281,7 Jan 2018,v Baroda,Rajkot,1,0,0,0,0,0
+475281,8 Jan 2018,v Gujarat,Rajkot,1,0,0,0,0,0
+475281,10 Jan 2018,v Saurashtra,Rajkot,2,0,0,0,0,0
+475281,11 Jan 2018,v Maharashtra,Rajkot,1,1,1,0,0,1
+475281,21 Feb 2018,v South Africa,Centurion,2,1,1,0,0,1
+475281,24 Feb 2018,v South Africa,Cape Town,2,0,0,0,0,0
+475281,6 Mar 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+475281,8 Mar 2018,v Bangladesh,Colombo (RPS),1,1,1,0,0,1
+475281,12 Mar 2018,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+475281,14 Mar 2018,v Bangladesh,Colombo (RPS),2,0,0,0,0,0
+475281,18 Mar 2018,v Bangladesh,Colombo (RPS),1,1,1,0,0,1
+475281,10 Apr 2018,v KKR,Chennai,1,0,0,0,0,0
+475281,15 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+475281,20 Apr 2018,v RR,Pune,2,1,1,0,0,1
+475281,22 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+475281,25 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+475281,28 Apr 2018,v MI,Pune,2,1,1,0,0,1
+475281,5 May 2018,v RCB,Pune,1,1,1,0,0,1
+475281,11 May 2018,v RR,Jaipur,2,0,0,0,0,0
+475281,13 May 2018,v SRH,Pune,1,0,0,0,0,0
+475281,18 May 2018,v Daredevils,Delhi,1,1,1,0,0,1
+475281,20 May 2018,v Kings XI,Pune,1,0,0,0,0,0
+475281,22 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+475281,27 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+475281,21 Feb 2019,v Sikkim,Indore,2,1,1,0,0,1
+475281,22 Feb 2019,v Punjab,Indore,2,0,0,0,0,0
+475281,24 Feb 2019,v M. Pradesh,Indore,1,0,0,0,0,0
+475281,25 Feb 2019,v Goa,Indore,1,0,0,0,0,0
+475281,27 Feb 2019,v Railways,Indore,1,0,0,0,0,0
+475281,28 Feb 2019,v Saurashtra,Indore,2,1,1,0,0,1
+475281,8 Mar 2019,v Karnataka,Indore,2,1,1,0,0,1
+475281,9 Mar 2019,v Delhi,Indore,1,0,0,0,0,0
+475281,11 Mar 2019,v Vidarbha,Indore,1,0,0,0,0,0
+475281,12 Mar 2019,v UP,Indore,2,0,0,0,0,0
+475281,23 Mar 2019,v RCB,Chennai,1,0,0,0,0,0
+475281,26 Mar 2019,v DC,Delhi,1,2,2,0,0,2
+475281,31 Mar 2019,v RR,Chennai,2,0,0,0,0,0
+475281,3 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+475281,11 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+475281,14 Apr 2019,v KKR,Eden Gardens,1,1,1,0,0,1
+475281,17 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+475281,21 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+475281,10 May 2019,v DC,Visakhapatnam,1,0,0,0,0,0
+475281,12 May 2019,v MI,Hyderabad,1,1,1,0,0,1
+475281,12 Nov 2019,v Puducherry,Wankhede,2,1,1,0,0,1
+475281,14 Nov 2019,v Bengal,Wankhede,1,0,0,0,0,0
+475281,15 Nov 2019,v Meghalaya,Wankhede,2,0,0,0,0,0
+475281,17 Nov 2019,v Assam,Wankhede,2,0,0,0,0,0
+475281,22 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+475281,24 Nov 2019,v Jharkhand,Surat,1,0,0,0,0,0
+475281,25 Nov 2019,v Karnataka,Surat,1,1,1,0,0,1
+475281,27 Nov 2019,v Punjab,Surat,2,0,0,0,0,0
+475281,5 Jan 2020,v Sri Lanka,Guwahati,-,TDNF,-,-,-,-
+475281,7 Jan 2020,v Sri Lanka,Indore,1,0,0,0,0,0
+475281,10 Jan 2020,v Sri Lanka,Pune,2,1,1,0,0,1
+475281,24 Jan 2020,v New Zealand,Auckland,1,0,0,0,0,0
+475281,26 Jan 2020,v New Zealand,Auckland,1,0,0,0,0,0
+475281,29 Jan 2020,v New Zealand,Hamilton,2,0,0,0,0,0
+475281,31 Jan 2020,v New Zealand,Wellington,2,0,0,0,0,0
+475281,2 Feb 2020,v New Zealand,Mount Maunganui,2,0,0,0,0,0
+475281,2 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+475281,4 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+475281,7 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+475281,10 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+475281,13 Oct 2020,v SRH,Dubai (DICS),2,1,1,0,0,1
+475281,17 Oct 2020,v DC,Sharjah,2,0,0,0,0,0
+475281,19 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+475281,23 Oct 2020,v MI,Sharjah,2,0,0,0,0,0
+475281,1 Nov 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+475281,6 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+475281,8 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+475281,12 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+475281,14 Mar 2021,v England,Ahmedabad,1,0,0,0,0,0
+475281,16 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+475281,18 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+475281,20 Mar 2021,v England,Ahmedabad,2,0,0,0,0,0
+475281,10 Apr 2021,v DC,Wankhede,2,0,0,0,0,0
+475281,16 Apr 2021,v Punjab Kings,Wankhede,1,1,1,0,0,1
+475281,19 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+475281,21 Apr 2021,v KKR,Wankhede,2,0,0,0,0,0
+475281,25 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+475281,28 Apr 2021,v SRH,Delhi,1,0,0,0,0,0
+475281,1 May 2021,v MI,Delhi,2,1,1,0,0,1
+475281,19 Sep 2021,v MI,Dubai (DICS),2,0,0,0,0,0
+475281,24 Sep 2021,v RCB,Sharjah,1,0,0,0,0,0
+475281,26 Sep 2021,v KKR,Abu Dhabi,1,0,0,0,0,0
+475281,30 Sep 2021,v SRH,Sharjah,1,0,0,0,0,0
+475281,2 Oct 2021,v RR,Abu Dhabi,2,0,0,0,0,0
+475281,4 Oct 2021,v DC,Dubai (DICS),2,0,0,0,0,0
+475281,7 Oct 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+475281,10 Oct 2021,v DC,Dubai (DICS),1,0,0,0,0,0
+475281,15 Oct 2021,v KKR,Dubai (DICS),2,0,0,0,0,0
+475281,31 Oct 2021,v New Zealand,Dubai (DICS),2,1,1,0,0,1
+475281,3 Nov 2021,v Afghanistan,Abu Dhabi,2,1,1,0,0,1
+475281,20 Feb 2022,v West Indies,Eden Gardens,2,1,1,0,0,1
+475281,27 Mar 2022,v MI,Brabourne,1,0,0,0,0,0
+475281,2 Apr 2022,v GT,Pune,1,1,1,0,0,1
+475281,7 Apr 2022,v LSG,DY Patil,2,0,0,0,0,0
+475281,10 Apr 2022,v KKR,Brabourne,2,1,1,0,0,1
+475281,16 Apr 2022,v RCB,Wankhede,1,0,0,0,0,0
+475281,20 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+475281,22 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+475281,28 Apr 2022,v KKR,Wankhede,1,0,0,0,0,0
+475281,1 May 2022,v LSG,Wankhede,1,1,1,0,0,1
+475281,5 May 2022,v SRH,Brabourne,2,1,1,0,0,1
+475281,8 May 2022,v CSK,DY Patil,1,0,0,0,0,0
+475281,11 May 2022,v RR,DY Patil,1,2,2,0,0,2
+475281,16 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+475281,21 May 2022,v MI,Wankhede,2,1,1,0,0,1
+475281,1 Apr 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+475281,6 Apr 2023,v RCB,Eden Gardens,2,1,1,0,0,1
+475281,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+475281,14 Apr 2023,v SRH,Eden Gardens,1,1,1,0,0,1
+475281,16 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+475281,29 Apr 2023,v GT,Eden Gardens,2,0,0,0,0,0
+475281,4 May 2023,v SRH,Hyderabad,2,0,0,0,0,0
+475281,8 May 2023,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+475281,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+475281,14 May 2023,v CSK,Chennai,1,0,0,0,0,0
+475281,20 May 2023,v LSG,Eden Gardens,1,2,2,0,0,2
+475281,8 Apr 2024,v KKR,Chennai,1,0,0,0,0,0
+475281,14 Apr 2024,v MI,Wankhede,2,2,2,0,0,2
+475281,23 Apr 2024,v LSG,Chennai,2,1,1,0,0,1
+475281,28 Apr 2024,v SRH,Chennai,2,0,0,0,0,0
+475281,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+475281,5 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+475281,10 May 2024,v GT,Ahmedabad,1,0,0,0,0,0
+475281,12 May 2024,v RR,Chennai,1,1,1,0,0,1
+475281,18 May 2024,v RCB,Bengaluru,1,0,0,0,0,0
+475281,23 Nov 2024,v Goa,Hyderabad,2,0,0,0,0,0
+475281,27 Nov 2024,v Maharashtra,Hyderabad,1,0,0,0,0,0
+475281,29 Nov 2024,v Kerala,Hyderabad,1,0,0,0,0,0
+475281,1 Dec 2024,v Nagaland,Hyderabad,1,0,0,0,0,0
+475281,3 Dec 2024,v Services,Hyderabad,2,0,0,0,0,0
+475281,5 Dec 2024,v Andhra,Hyderabad,1,0,0,0,0,0
+475281,11 Dec 2024,v Vidarbha,Alur,1,0,0,0,0,0
+475281,13 Dec 2024,v Baroda,Bengaluru,1,0,0,0,0,0
+475281,15 Dec 2024,v M. Pradesh,Bengaluru,1,0,0,0,0,0
+475281,24 Mar 2025,v DC,Visakhapatnam,2,0,0,0,0,0
+475281,27 Mar 2025,v SRH,Hyderabad,1,0,0,0,0,0
+475281,1 Apr 2025,v Punjab Kings,Lucknow,2,1,1,0,0,1
+475281,4 Apr 2025,v MI,Lucknow,2,0,0,0,0,0
+475281,8 Apr 2025,v KKR,Eden Gardens,2,0,0,0,0,0
+475281,12 Apr 2025,v GT,Lucknow,1,1,1,0,0,1
+475281,14 Apr 2025,v CSK,Lucknow,2,0,0,0,0,0
+475281,19 Apr 2025,v RR,Jaipur,2,1,1,0,0,1
+475281,22 Apr 2025,v DC,Lucknow,2,0,0,0,0,0
+475281,19 May 2025,v SRH,Lucknow,2,1,1,0,0,1
+475281,26 Nov 2025,v Railways,Lucknow,1,0,0,0,0,0
+475281,28 Nov 2025,v Vidarbha,Lucknow,1,0,0,0,0,0
+475281,30 Nov 2025,v Andhra,Lucknow,1,0,0,0,0,0
+475281,2 Dec 2025,v Assam,Lucknow,2,2,2,0,0,2
+475281,4 Dec 2025,v Kerala,Lucknow,1,0,0,0,0,0
+475281,6 Dec 2025,v Chhattisgarh,Lucknow,1,0,0,0,0,0
+475281,8 Dec 2025,v Odisha,Lucknow,1,0,0,0,0,0
+475281,12 Dec 2025,v Hyderabad,Pune,2,0,0,0,0,0
+475281,14 Dec 2025,v Haryana,Ambi,1,0,0,0,0,0
+475281,16 Dec 2025,v Rajasthan,Pune,1,0,0,0,0,0

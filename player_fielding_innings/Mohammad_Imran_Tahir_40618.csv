@@ -1,0 +1,449 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+40618,24 Feb 2006,v K Dolphins,Karachi,1,0,0,0,0,0
+40618,25 Feb 2006,v Hawks,Karachi,1,0,0,0,0,0
+40618,26 Feb 2006,v Quetta Bears,Karachi,1,1,1,0,0,1
+40618,27 Feb 2006,v Leopards,Karachi,2,1,1,0,0,1
+40618,28 Feb 2006,v Rhinos,Karachi,2,0,0,0,0,0
+40618,3 Mar 2006,v Wolves,Karachi,2,1,1,0,0,1
+40618,13 Apr 2008,v Lions,Centurion,2,1,1,0,0,1
+40618,25 Jan 2009,v Dolphins,Centurion,1,0,0,0,0,0
+40618,1 Feb 2009,v Cape Cobras,Cape Town,1,0,0,0,0,0
+40618,25 May 2009,v Sussex,Southampton,1,0,0,0,0,0
+40618,27 May 2009,v Surrey,The Oval,1,0,0,0,0,0
+40618,29 May 2009,v Sussex,Hove,2,0,0,0,0,0
+40618,31 May 2009,v Surrey,Southampton,2,1,1,0,0,1
+40618,2 Jun 2009,v Middlesex,Uxbridge,2,0,0,0,0,0
+40618,4 Jun 2009,v Essex,Southampton,2,0,0,0,0,0
+40618,22 Jun 2009,v Kent,Tunbridge Wells,1,0,0,0,0,0
+40618,23 Jun 2009,v Middlesex,Southampton,2,0,0,0,0,0
+40618,26 Jun 2009,v Kent,Southampton,2,0,0,0,0,0
+40618,28 Jun 2009,v Essex,Chelmsford,1,1,1,0,0,1
+40618,29 Jul 2009,v Northants,Northampton,1,1,1,0,0,1
+40618,3 Jun 2010,v Northants,Birmingham,1,0,0,0,0,0
+40618,9 Jun 2010,v Derbyshire,Derby,1,0,0,0,0,0
+40618,11 Jun 2010,v Durham,Birmingham,1,0,0,0,0,0
+40618,13 Jun 2010,v Lancashire,Birmingham,2,0,0,0,0,0
+40618,16 Jun 2010,v Notts,Birmingham,1,0,0,0,0,0
+40618,18 Jun 2010,v Worcs,Worcester,1,0,0,0,0,0
+40618,20 Jun 2010,v Lancashire,Manchester,2,0,0,0,0,0
+40618,23 Jun 2010,v Leics,Birmingham,1,0,0,0,0,0
+40618,25 Jun 2010,v Derbyshire,Birmingham,1,0,0,0,0,0
+40618,27 Jun 2010,v Notts,Nottingham,1,0,0,0,0,0
+40618,2 Jul 2010,v Durham,Chester-le-Street,1,1,1,0,0,1
+40618,4 Jul 2010,v Yorkshire,Leeds,2,0,0,0,0,0
+40618,9 Jul 2010,v Northants,Northampton,1,0,0,0,0,0
+40618,14 Jul 2010,v Yorkshire,Birmingham,2,1,1,0,0,1
+40618,16 Jul 2010,v Worcs,Birmingham,2,0,0,0,0,0
+40618,18 Jul 2010,v Leics,Leicester,2,0,0,0,0,0
+40618,26 Jul 2010,v Hampshire,Birmingham,2,0,0,0,0,0
+40618,1 Jun 2011,v Somerset,Southampton,1,0,0,0,0,0
+40618,3 Jun 2011,v Surrey,Southampton,1,0,0,0,0,0
+40618,5 Jun 2011,v Kent,Tunbridge Wells,2,0,0,0,0,0
+40618,10 Jun 2011,v Gloucs,Gloucester,2,0,0,0,0,0
+40618,17 Jun 2011,v Glamorgan,Cardiff,-,TDNF,-,-,-,-
+40618,23 Jun 2011,v Essex,Chelmsford,1,1,1,0,0,1
+40618,24 Jun 2011,v Gloucs,Southampton,2,1,1,0,0,1
+40618,27 Jun 2011,v Sussex,Southampton,2,1,1,0,0,1
+40618,30 Jun 2011,v Kent,Southampton,2,1,1,0,0,1
+40618,1 Jul 2011,v Middlesex,Uxbridge,1,1,1,0,0,1
+40618,6 Jul 2011,v Essex,Southampton,2,0,0,0,0,0
+40618,8 Jul 2011,v Surrey,The Oval,1,2,2,0,0,2
+40618,10 Jul 2011,v Sussex,Hove,2,0,0,0,0,0
+40618,15 Jul 2011,v Middlesex,Southampton,-,TDNF,-,-,-,-
+40618,7 Aug 2011,v Durham,Southampton,2,0,0,0,0,0
+40618,27 Aug 2011,v Somerset,Birmingham,2,0,0,0,0,0
+40618,19 Feb 2012,v Impi,Pietermaritzburg,2,0,0,0,0,0
+40618,22 Feb 2012,v Knights,Bloemfontein,2,0,0,0,0,0
+40618,24 Feb 2012,v Titans,Durban,2,0,0,0,0,0
+40618,26 Feb 2012,v Cape Cobras,Paarl,2,0,0,0,0,0
+40618,17 Feb 2013,v Cape Cobras,Potchefstroom,1,0,0,0,0,0
+40618,20 Feb 2013,v Titans,Johannesburg,1,2,2,0,0,2
+40618,22 Feb 2013,v Dolphins,Durban,2,0,0,0,0,0
+40618,24 Feb 2013,v Warriors,Potchefstroom,2,0,0,0,0,0
+40618,2 Mar 2013,v Knights,Johannesburg,1,0,0,0,0,0
+40618,8 Mar 2013,v Cape Cobras,Cape Town,1,1,1,0,0,1
+40618,12 Mar 2013,v Knights,Kimberley,1,0,0,0,0,0
+40618,19 Mar 2013,v Titans,Centurion,1,0,0,0,0,0
+40618,22 Mar 2013,v Warriors,East London,1,0,0,0,0,0
+40618,28 Mar 2013,v Dolphins,Johannesburg,2,0,0,0,0,0
+40618,7 Apr 2013,v Titans,Johannesburg,2,1,1,0,0,1
+40618,2 Aug 2013,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+40618,4 Aug 2013,v Sri Lanka,Hambantota,2,0,0,0,0,0
+40618,6 Aug 2013,v Sri Lanka,Hambantota,2,0,0,0,0,0
+40618,23 Sep 2013,v Scorchers,Ahmedabad,-,TDNF,-,-,-,-
+40618,27 Sep 2013,v MI,Jaipur,2,0,0,0,0,0
+40618,29 Sep 2013,v Otago,Jaipur,2,0,0,0,0,0
+40618,13 Nov 2013,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+40618,15 Nov 2013,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+40618,20 Nov 2013,v Pakistan,Johannesburg,2,0,0,0,0,0
+40618,5 Jan 2014,v Warriors,Cape Town,1,0,0,0,0,0
+40618,12 Jan 2014,v Knights,Bloemfontein,2,0,0,0,0,0
+40618,15 Jan 2014,v Cape Cobras,Paarl,1,0,0,0,0,0
+40618,17 Jan 2014,v Titans,Potchefstroom,1,0,0,0,0,0
+40618,19 Jan 2014,v Warriors,East London,1,2,2,0,0,2
+40618,22 Jan 2014,v Dolphins,Durban,1,0,0,0,0,0
+40618,24 Jan 2014,v Knights,Potchefstroom,-,TDNF,-,-,-,-
+40618,26 Jan 2014,v Titans,Benoni,2,0,0,0,0,0
+40618,14 Mar 2014,v Australia,Centurion,2,1,1,0,0,1
+40618,22 Mar 2014,v Sri Lanka,Chattogram,1,0,0,0,0,0
+40618,24 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+40618,27 Mar 2014,v Netherlands,Chattogram,2,0,0,0,0,0
+40618,29 Mar 2014,v England,Chattogram,2,0,0,0,0,0
+40618,4 Apr 2014,v India,Mirpur,2,0,0,0,0,0
+40618,10 May 2014,v SRH,Delhi,2,0,0,0,0,0
+40618,13 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+40618,15 May 2014,v RR,Ahmedabad,1,0,0,0,0,0
+40618,19 May 2014,v Kings XI,Delhi,2,0,0,0,0,0
+40618,23 May 2014,v MI,Wankhede,1,0,0,0,0,0
+40618,25 May 2014,v Kings XI,Mohali,2,0,0,0,0,0
+40618,5 Nov 2014,v Australia,Adelaide,1,0,0,0,0,0
+40618,7 Nov 2014,v Australia,Melbourne,2,0,0,0,0,0
+40618,9 Jan 2015,v West Indies,Cape Town,2,0,0,0,0,0
+40618,11 Jan 2015,v West Indies,Johannesburg,2,0,0,0,0,0
+40618,9 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+40618,12 Apr 2015,v RR,Delhi,2,0,0,0,0,0
+40618,15 Apr 2015,v Kings XI,Pune,1,0,0,0,0,0
+40618,18 Apr 2015,v SRH,Visakhapatnam,2,0,0,0,0,0
+40618,20 Apr 2015,v KKR,Delhi,2,1,1,0,0,1
+40618,23 Apr 2015,v MI,Delhi,2,1,1,0,0,1
+40618,26 Apr 2015,v RCB,Delhi,2,0,0,0,0,0
+40618,1 May 2015,v Kings XI,Delhi,1,0,0,0,0,0
+40618,5 May 2015,v MI,Wankhede,2,1,1,0,0,1
+40618,7 May 2015,v KKR,Eden Gardens,1,0,0,0,0,0
+40618,2 Oct 2015,v India,Dharamsala,1,0,0,0,0,0
+40618,5 Oct 2015,v India,Cuttack,1,0,0,0,0,0
+40618,12 Dec 2015,v Titans,Centurion,2,0,0,0,0,0
+40618,19 Feb 2016,v England,Cape Town,1,0,0,0,0,0
+40618,21 Feb 2016,v England,Johannesburg,1,0,0,0,0,0
+40618,4 Mar 2016,v Australia,Durban,1,0,0,0,0,0
+40618,6 Mar 2016,v Australia,Johannesburg,2,0,0,0,0,0
+40618,9 Mar 2016,v Australia,Cape Town,2,0,0,0,0,0
+40618,18 Mar 2016,v England,Wankhede,2,0,0,0,0,0
+40618,20 Mar 2016,v Afghanistan,Wankhede,2,0,0,0,0,0
+40618,25 Mar 2016,v West Indies,Nagpur,2,0,0,0,0,0
+40618,28 Mar 2016,v Sri Lanka,Delhi,1,0,0,0,0,0
+40618,23 Apr 2016,v MI,Delhi,2,0,0,0,0,0
+40618,27 Apr 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+40618,5 May 2016,v Supergiants,Delhi,2,0,0,0,0,0
+40618,15 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+40618,1 Jul 2016,v Durham,Nottingham,-,TDNF,-,-,-,-
+40618,8 Jul 2016,v Northants,Northampton,1,0,0,0,0,0
+40618,9 Jul 2016,v Worcs,Nottingham,1,0,0,0,0,0
+40618,15 Jul 2016,v Yorkshire,Nottingham,1,2,2,0,0,2
+40618,22 Jul 2016,v Warwickshire,Birmingham,1,0,0,0,0,0
+40618,29 Jul 2016,v Leics,Nottingham,1,0,0,0,0,0
+40618,8 Aug 2016,v Essex,Nottingham,2,1,1,0,0,1
+40618,13 Nov 2016,v Warriors,Durban,2,0,0,0,0,0
+40618,16 Nov 2016,v Lions,Durban,2,1,1,0,0,1
+40618,20 Nov 2016,v Titans,Bloemfontein,1,0,0,0,0,0
+40618,23 Nov 2016,v Cape Cobras,Cape Town,-,TDNF,-,-,-,-
+40618,25 Nov 2016,v Knights,Bloemfontein,1,0,0,0,0,0
+40618,27 Nov 2016,v Lions,Johannesburg,1,1,1,0,0,1
+40618,30 Nov 2016,v Titans,Durban,1,0,0,0,0,0
+40618,4 Dec 2016,v Cape Cobras,Durban,2,0,0,0,0,0
+40618,7 Dec 2016,v Warriors,East London,2,0,0,0,0,0
+40618,11 Dec 2016,v Knights,Durban,2,0,0,0,0,0
+40618,20 Jan 2017,v Sri Lanka,Centurion,2,1,1,0,0,1
+40618,22 Jan 2017,v Sri Lanka,Johannesburg,2,1,1,0,0,1
+40618,25 Jan 2017,v Sri Lanka,Cape Town,2,0,0,0,0,0
+40618,17 Feb 2017,v New Zealand,Auckland,2,0,0,0,0,0
+40618,6 Apr 2017,v MI,Pune,1,0,0,0,0,0
+40618,8 Apr 2017,v Kings XI,Indore,2,1,1,0,0,1
+40618,11 Apr 2017,v Daredevils,Pune,1,0,0,0,0,0
+40618,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+40618,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+40618,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+40618,24 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+40618,26 Apr 2017,v KKR,Pune,2,0,0,0,0,0
+40618,29 Apr 2017,v RCB,Pune,2,0,0,0,0,0
+40618,1 May 2017,v Guj Lions,Pune,1,1,1,0,0,1
+40618,3 May 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+40618,6 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+40618,21 Jun 2017,v England,Southampton,2,0,0,0,0,0
+40618,25 Jun 2017,v England,Cardiff,1,0,0,0,0,0
+40618,7 Jul 2017,v Northants,Northampton,1,0,0,0,0,0
+40618,8 Jul 2017,v Yorkshire,Chesterfield,2,0,0,0,0,0
+40618,16 Jul 2017,v Lancashire,Manchester,2,0,0,0,0,0
+40618,19 Jul 2017,v Worcs,Worcester,1,0,0,0,0,0
+40618,21 Jul 2017,v Notts,Nottingham,1,0,0,0,0,0
+40618,23 Jul 2017,v Warwickshire,Birmingham,1,1,1,0,0,1
+40618,25 Jul 2017,v Lancashire,Derby,2,0,0,0,0,0
+40618,30 Jul 2017,v Leics,Derby,1,0,0,0,0,0
+40618,3 Aug 2017,v Yorkshire,Leeds,1,0,0,0,0,0
+40618,4 Aug 2017,v Notts,Derby,1,0,0,0,0,0
+40618,15 Aug 2017,v Durham,Derby,1,0,0,0,0,0
+40618,17 Aug 2017,v Leics,Leicester,2,0,0,0,0,0
+40618,18 Aug 2017,v Worcs,Derby,2,0,0,0,0,0
+40618,22 Aug 2017,v Hampshire,Derby,1,0,0,0,0,0
+40618,12 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+40618,13 Sep 2017,v Pakistan,Lahore,1,2,2,0,0,2
+40618,15 Sep 2017,v Pakistan,Lahore,1,0,0,0,0,0
+40618,17 Nov 2017,v Knights,Durban,-,TDNF,-,-,-,-
+40618,19 Nov 2017,v Lions,Potchefstroom,2,0,0,0,0,0
+40618,24 Nov 2017,v Titans,Benoni,-,TDNF,-,-,-,-
+40618,1 Dec 2017,v Cape Cobras,Durban,1,0,0,0,0,0
+40618,3 Dec 2017,v Warriors,Gqeberha,1,0,0,0,0,0
+40618,8 Dec 2017,v Knights,Bloemfontein,1,0,0,0,0,0
+40618,10 Dec 2017,v Titans,Durban,2,2,2,0,0,2
+40618,16 Dec 2017,v Titans,Centurion,2,0,0,0,0,0
+40618,22 Feb 2018,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+40618,23 Feb 2018,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+40618,25 Feb 2018,v United,Dubai (DICS),2,0,0,0,0,0
+40618,2 Mar 2018,v Kings,Sharjah,-,TDNF,-,-,-,-
+40618,3 Mar 2018,v Gladiators,Sharjah,1,0,0,0,0,0
+40618,6 Mar 2018,v Zalmi,Dubai (DICS),2,0,0,0,0,0
+40618,7 Mar 2018,v Gladiators,Dubai (DICS),2,2,2,0,0,2
+40618,9 Mar 2018,v Qalandars,Dubai (DICS),2,0,0,0,0,0
+40618,10 Mar 2018,v Kings,Dubai (DICS),1,1,1,0,0,1
+40618,13 Mar 2018,v United,Sharjah,1,0,0,0,0,0
+40618,7 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+40618,10 Apr 2018,v KKR,Chennai,1,0,0,0,0,0
+40618,15 Apr 2018,v Kings XI,Mohali,1,1,1,0,0,1
+40618,20 Apr 2018,v RR,Pune,2,1,1,0,0,1
+40618,25 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+40618,28 Apr 2018,v MI,Pune,2,0,0,0,0,0
+40618,5 Jul 2018,v Yorkshire,Leeds,1,0,0,0,0,0
+40618,6 Jul 2018,v Leics,Leicester,2,1,1,0,0,1
+40618,13 Jul 2018,v Yorkshire,Chester-le-Street,1,0,0,0,0,0
+40618,15 Jul 2018,v Bears,Birmingham,2,0,0,0,0,0
+40618,17 Jul 2018,v Notts,Nottingham,2,0,0,0,0,0
+40618,20 Jul 2018,v Worcs,Chester-le-Street,1,0,0,0,0,0
+40618,28 Jul 2018,v Notts,Chester-le-Street,1,1,1,0,0,1
+40618,2 Aug 2018,v Northants,Chester-le-Street,2,0,0,0,0,0
+40618,9 Aug 2018,v Patriots,Providence,1,0,0,0,0,0
+40618,11 Aug 2018,v Stars,Providence,2,0,0,0,0,0
+40618,12 Aug 2018,v Tridents,Providence,1,0,0,0,0,0
+40618,18 Aug 2018,v Tallawahs,Lauderhill,2,0,0,0,0,0
+40618,24 Aug 2018,v Stars,Gros Islet,2,0,0,0,0,0
+40618,28 Aug 2018,v Patriots,Basseterre,1,0,0,0,0,0
+40618,31 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+40618,5 Sep 2018,v Trinbago,Port of Spain,1,1,1,0,0,1
+40618,8 Sep 2018,v Tallawahs,Providence,2,0,0,0,0,0
+40618,9 Sep 2018,v Trinbago,Providence,1,0,0,0,0,0
+40618,11 Sep 2018,v Trinbago,Providence,1,1,1,0,0,1
+40618,16 Sep 2018,v Trinbago,Tarouba,2,0,0,0,0,0
+40618,9 Oct 2018,v Zimbabwe,East London,2,0,0,0,0,0
+40618,21 Nov 2018,v Blitz,Cape Town,1,0,0,0,0,0
+40618,23 Nov 2018,v Durban Heat,Gqeberha,1,0,0,0,0,0
+40618,25 Nov 2018,v Spartans,Centurion,2,0,0,0,0,0
+40618,30 Nov 2018,v Paarl Rocks,Gqeberha,2,1,1,0,0,1
+40618,2 Dec 2018,v Jozi Stars,Gqeberha,1,0,0,0,0,0
+40618,5 Dec 2018,v Durban Heat,Durban,-,TDNF,-,-,-,-
+40618,8 Dec 2018,v Spartans,Gqeberha,1,0,0,0,0,0
+40618,19 Mar 2019,v Sri Lanka,Cape Town,1,0,0,0,0,0
+40618,23 Mar 2019,v RCB,Chennai,1,0,0,0,0,0
+40618,26 Mar 2019,v DC,Delhi,1,0,0,0,0,0
+40618,31 Mar 2019,v RR,Chennai,2,2,2,0,0,2
+40618,3 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+40618,6 Apr 2019,v Kings XI,Chennai,2,0,0,0,0,0
+40618,9 Apr 2019,v KKR,Chennai,1,0,0,0,0,0
+40618,11 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+40618,14 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+40618,17 Apr 2019,v SRH,Hyderabad,2,1,1,0,0,1
+40618,21 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+40618,23 Apr 2019,v SRH,Chennai,1,0,0,0,0,0
+40618,26 Apr 2019,v MI,Chennai,1,0,0,0,0,0
+40618,1 May 2019,v DC,Chennai,2,0,0,0,0,0
+40618,5 May 2019,v Kings XI,Mohali,2,1,1,0,0,1
+40618,7 May 2019,v MI,Chennai,2,1,1,0,0,1
+40618,10 May 2019,v DC,Visakhapatnam,1,1,1,0,0,1
+40618,12 May 2019,v MI,Hyderabad,1,0,0,0,0,0
+40618,19 Jul 2019,v Essex,Chelmsford,1,0,0,0,0,0
+40618,23 Jul 2019,v Middlesex,The Oval,1,0,0,0,0,0
+40618,25 Jul 2019,v Glamorgan,The Oval,2,0,0,0,0,0
+40618,26 Jul 2019,v Sussex,Hove,1,0,0,0,0,0
+40618,30 Jul 2019,v Kent,The Oval,2,0,0,0,0,0
+40618,2 Aug 2019,v Somerset,Taunton,2,0,0,0,0,0
+40618,8 Aug 2019,v Middlesex,Lord's,1,0,0,0,0,0
+40618,9 Aug 2019,v Gloucs,The Oval,1,0,0,0,0,0
+40618,11 Aug 2019,v Glamorgan,Cardiff,1,2,2,0,0,2
+40618,15 Aug 2019,v Sussex,The Oval,2,1,1,0,0,1
+40618,23 Aug 2019,v Kent,Canterbury,2,0,0,0,0,0
+40618,27 Aug 2019,v Somerset,The Oval,1,2,2,0,0,2
+40618,29 Aug 2019,v Essex,The Oval,1,1,1,0,0,1
+40618,14 Sep 2019,v Patriots,Basseterre,1,0,0,0,0,0
+40618,18 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+40618,22 Sep 2019,v Tridents,Bridgetown,1,1,1,0,0,1
+40618,25 Sep 2019,v Zouks,Gros Islet,1,0,0,0,0,0
+40618,30 Sep 2019,v Trinbago,Port of Spain,2,0,0,0,0,0
+40618,3 Oct 2019,v Tallawahs,Providence,2,0,0,0,0,0
+40618,4 Oct 2019,v Trinbago,Providence,1,0,0,0,0,0
+40618,6 Oct 2019,v Tridents,Providence,2,0,0,0,0,0
+40618,12 Oct 2019,v Tridents,Tarouba,1,0,0,0,0,0
+40618,10 Nov 2019,v Jozi Stars,Gqeberha,2,0,0,0,0,0
+40618,13 Nov 2019,v Spartans,Centurion,1,1,1,0,0,1
+40618,16 Nov 2019,v Jozi Stars,Johannesburg,1,0,0,0,0,0
+40618,20 Nov 2019,v Blitz,Gqeberha,1,0,0,0,0,0
+40618,23 Nov 2019,v Durban Heat,Gqeberha,1,0,0,0,0,0
+40618,27 Nov 2019,v Paarl Rocks,Gqeberha,1,0,0,0,0,0
+40618,30 Nov 2019,v Durban Heat,Durban,2,0,0,0,0,0
+40618,3 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+40618,6 Dec 2019,v Blitz,Cape Town,2,0,0,0,0,0
+40618,8 Dec 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+40618,13 Dec 2019,v Spartans,Gqeberha,1,0,0,0,0,0
+40618,21 Feb 2020,v Qalandars,Lahore,1,0,0,0,0,0
+40618,22 Feb 2020,v United,Lahore,2,0,0,0,0,0
+40618,26 Feb 2020,v Zalmi,Multan,1,0,0,0,0,0
+40618,28 Feb 2020,v Kings,Multan,2,0,0,0,0,0
+40618,29 Feb 2020,v Gladiators,Multan,2,0,0,0,0,0
+40618,6 Mar 2020,v Kings,Lahore,-,TDNF,-,-,-,-
+40618,8 Mar 2020,v United,Rawalpindi,1,0,0,0,0,0
+40618,13 Mar 2020,v Zalmi,Karachi,2,0,0,0,0,0
+40618,18 Aug 2020,v Trinbago,Tarouba,2,1,1,0,0,1
+40618,19 Aug 2020,v Patriots,Tarouba,1,0,0,0,0,0
+40618,22 Aug 2020,v Tallawahs,Tarouba,2,0,0,0,0,0
+40618,23 Aug 2020,v Zouks,Tarouba,1,0,0,0,0,0
+40618,25 Aug 2020,v Tallawahs,Port of Spain,2,0,0,0,0,0
+40618,27 Aug 2020,v Trinbago,Port of Spain,2,0,0,0,0,0
+40618,30 Aug 2020,v Patriots,Port of Spain,1,0,0,0,0,0
+40618,1 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+40618,2 Sep 2020,v Zouks,Tarouba,1,0,0,0,0,0
+40618,3 Sep 2020,v Tridents,Tarouba,1,0,0,0,0,0
+40618,8 Sep 2020,v Zouks,Tarouba,2,0,0,0,0,0
+40618,23 Oct 2020,v MI,Sharjah,2,0,0,0,0,0
+40618,25 Oct 2020,v RCB,Dubai (DICS),1,0,0,0,0,0
+40618,1 Nov 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+40618,14 Nov 2020,v Kings,Karachi,2,1,1,0,0,1
+40618,15 Nov 2020,v Qalandars,Karachi,1,0,0,0,0,0
+40618,3 Mar 2021,v Gladiators,Karachi,1,0,0,0,0,0
+40618,25 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+40618,10 Jun 2021,v Kings,Abu Dhabi,2,0,0,0,0,0
+40618,13 Jun 2021,v Zalmi,Abu Dhabi,1,1,1,0,0,1
+40618,16 Jun 2021,v Gladiators,Abu Dhabi,2,1,1,0,0,1
+40618,18 Jun 2021,v Qalandars,Abu Dhabi,2,2,2,0,0,2
+40618,21 Jun 2021,v United,Abu Dhabi,2,0,0,0,0,0
+40618,24 Jun 2021,v Zalmi,Abu Dhabi,2,1,1,0,0,1
+40618,23 Jul 2021,v Spirit,Birmingham,1,0,0,0,0,0
+40618,25 Jul 2021,v Originals,Manchester,2,0,0,0,0,0
+40618,30 Jul 2021,v Brave,Southampton,2,2,2,0,0,2
+40618,1 Aug 2021,v Rockets,Birmingham,1,1,1,0,0,1
+40618,4 Aug 2021,v Invincibles,Birmingham,1,0,0,0,0,0
+40618,9 Aug 2021,v Fire,Birmingham,2,1,1,0,0,1
+40618,13 Aug 2021,v Rockets,Nottingham,2,0,0,0,0,0
+40618,17 Aug 2021,v N S-Chargers,Leeds,1,0,0,0,0,0
+40618,21 Aug 2021,v Brave,Lord's,1,1,1,0,0,1
+40618,26 Aug 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+40618,28 Aug 2021,v Patriots,Basseterre,2,0,0,0,0,0
+40618,29 Aug 2021,v Patriots,Basseterre,2,0,0,0,0,0
+40618,1 Sep 2021,v Trinbago,Basseterre,1,0,0,0,0,0
+40618,2 Sep 2021,v Kings,Basseterre,1,0,0,0,0,0
+40618,4 Sep 2021,v Royals,Basseterre,1,2,2,0,0,2
+40618,7 Sep 2021,v Royals,Basseterre,1,1,1,0,0,1
+40618,8 Sep 2021,v Kings,Basseterre,2,0,0,0,0,0
+40618,11 Sep 2021,v Tallawahs,Basseterre,2,0,0,0,0,0
+40618,12 Sep 2021,v Tallawahs,Basseterre,2,0,0,0,0,0
+40618,14 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+40618,6 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+40618,7 Dec 2021,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+40618,8 Dec 2021,v Stars,Colombo (RPS),2,0,0,0,0,0
+40618,10 Dec 2021,v Galle,Colombo (RPS),2,0,0,0,0,0
+40618,11 Dec 2021,v Stars,Colombo (RPS),2,1,1,0,0,1
+40618,13 Dec 2021,v Jaffna Kings,Colombo (RPS),2,1,1,0,0,1
+40618,14 Dec 2021,v Galle,Colombo (RPS),1,0,0,0,0,0
+40618,16 Dec 2021,v Warriors,Colombo (RPS),2,0,0,0,0,0
+40618,19 Dec 2021,v Stars,Hambantota,1,0,0,0,0,0
+40618,21 Dec 2021,v Jaffna Kings,Hambantota,1,1,1,0,0,1
+40618,27 Jan 2022,v Kings,Karachi,1,1,1,0,0,1
+40618,29 Jan 2022,v Qalandars,Karachi,1,0,0,0,0,0
+40618,31 Jan 2022,v Gladiators,Karachi,2,1,1,0,0,1
+40618,1 Feb 2022,v United,Karachi,2,0,0,0,0,0
+40618,5 Feb 2022,v Zalmi,Karachi,2,0,0,0,0,0
+40618,10 Feb 2022,v Zalmi,Lahore,2,0,0,0,0,0
+40618,11 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+40618,16 Feb 2022,v Kings,Lahore,1,0,0,0,0,0
+40618,18 Feb 2022,v Gladiators,Lahore,2,0,0,0,0,0
+40618,20 Feb 2022,v United,Lahore,1,0,0,0,0,0
+40618,23 Feb 2022,v Qalandars,Lahore,2,0,0,0,0,0
+40618,27 Feb 2022,v Qalandars,Lahore,1,0,0,0,0,0
+40618,6 Aug 2022,v Rockets,Nottingham,2,0,0,0,0,0
+40618,10 Aug 2022,v Brave,Birmingham,2,0,0,0,0,0
+40618,13 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+40618,15 Aug 2022,v Rockets,Birmingham,1,0,0,0,0,0
+40618,19 Aug 2022,v N S-Chargers,Birmingham,1,1,1,0,0,1
+40618,23 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+40618,3 Sep 2022,v Tallawahs,Basseterre,2,0,0,0,0,0
+40618,8 Sep 2022,v Patriots,Gros Islet,2,0,0,0,0,0
+40618,10 Sep 2022,v Kings,Gros Islet,1,0,0,0,0,0
+40618,14 Sep 2022,v Trinbago,Port of Spain,1,0,0,0,0,0
+40618,18 Sep 2022,v Royals,Tarouba,1,0,0,0,0,0
+40618,21 Sep 2022,v Tallawahs,Providence,2,0,0,0,0,0
+40618,22 Sep 2022,v Kings,Providence,1,0,0,0,0,0
+40618,24 Sep 2022,v Trinbago,Providence,2,0,0,0,0,0
+40618,25 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+40618,27 Sep 2022,v Royals,Providence,1,0,0,0,0,0
+40618,28 Sep 2022,v Tallawahs,Providence,1,0,0,0,0,0
+40618,14 Feb 2023,v Zalmi,Karachi,1,1,1,0,0,1
+40618,18 Feb 2023,v Gladiators,Karachi,1,1,1,0,0,1
+40618,19 Feb 2023,v Qalandars,Karachi,2,1,1,0,0,1
+40618,22 Feb 2023,v Sultans,Multan,1,1,1,0,0,1
+40618,12 Mar 2023,v Qalandars,Lahore,2,0,0,0,0,0
+40618,19 Aug 2023,v Kings,Gros Islet,-,TDNF,-,-,-,-
+40618,24 Aug 2023,v Patriots,Basseterre,2,0,0,0,0,0
+40618,27 Aug 2023,v Tallawahs,Basseterre,2,2,2,0,0,2
+40618,2 Sep 2023,v Patriots,Bridgetown,2,1,1,0,0,1
+40618,5 Sep 2023,v Trinbago,Port of Spain,1,0,0,0,0,0
+40618,10 Sep 2023,v Royals,Tarouba,2,0,0,0,0,0
+40618,13 Sep 2023,v Tallawahs,Providence,1,0,0,0,0,0
+40618,14 Sep 2023,v Kings,Providence,2,0,0,0,0,0
+40618,16 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+40618,17 Sep 2023,v Royals,Providence,2,0,0,0,0,0
+40618,20 Sep 2023,v Trinbago,Providence,2,0,0,0,0,0
+40618,22 Sep 2023,v Tallawahs,Providence,2,0,0,0,0,0
+40618,24 Sep 2023,v Trinbago,Providence,1,0,0,0,0,0
+40618,13 Jan 2024,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+40618,15 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+40618,17 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+40618,20 Jan 2024,v Capitals,Johannesburg,1,1,1,0,0,1
+40618,24 Jan 2024,v Paarl Royals,Johannesburg,2,0,0,0,0,0
+40618,27 Jan 2024,v Capitals,Centurion,-,TDNF,-,-,-,-
+40618,29 Jan 2024,v MI Cape Town,Cape Town,1,0,0,0,0,0
+40618,31 Jan 2024,v Sunrisers,Johannesburg,2,0,0,0,0,0
+40618,3 Feb 2024,v Super Giants,Johannesburg,1,0,0,0,0,0
+40618,7 Feb 2024,v Paarl Royals,Johannesburg,1,2,2,0,0,2
+40618,8 Feb 2024,v Super Giants,Johannesburg,1,0,0,0,0,0
+40618,10 Feb 2024,v Chattogram,Mirpur,2,0,0,0,0,0
+40618,13 Feb 2024,v Khulna,Chattogram,2,0,0,0,0,0
+40618,20 Feb 2024,v Victorians,Chattogram,2,0,0,0,0,0
+40618,30 Aug 2024,v Falcons,North Sound,1,0,0,0,0,0
+40618,4 Sep 2024,v Patriots,Basseterre,2,0,0,0,0,0
+40618,7 Sep 2024,v Kings,Gros Islet,1,0,0,0,0,0
+40618,20 Sep 2024,v Patriots,Providence,2,1,1,0,0,1
+40618,21 Sep 2024,v Falcons,Providence,2,0,0,0,0,0
+40618,25 Sep 2024,v Royals,Providence,2,0,0,0,0,0
+40618,28 Sep 2024,v Kings,Providence,2,2,2,0,0,2
+40618,29 Sep 2024,v Trinbago,Providence,1,0,0,0,0,0
+40618,2 Oct 2024,v Kings,Providence,1,0,0,0,0,0
+40618,4 Oct 2024,v Royals,Providence,1,0,0,0,0,0
+40618,6 Oct 2024,v Kings,Providence,2,0,0,0,0,0
+40618,26 Nov 2024,v Qalandars,Providence,1,0,0,0,0,0
+40618,29 Nov 2024,v Victoria,Providence,2,0,0,0,0,0
+40618,1 Dec 2024,v Hampshire,Providence,1,0,0,0,0,0
+40618,4 Dec 2024,v Rangpur,Providence,1,1,1,0,0,1
+40618,14 Jan 2025,v Super Giants,Durban,2,1,1,0,0,1
+40618,16 Jan 2025,v Capitals,Johannesburg,1,1,1,0,0,1
+40618,18 Jan 2025,v MI Cape Town,Cape Town,2,1,1,0,0,1
+40618,20 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+40618,24 Jan 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+40618,26 Jan 2025,v Sunrisers,Johannesburg,1,0,0,0,0,0
+40618,28 Jan 2025,v Capitals,Centurion,2,0,0,0,0,0
+40618,30 Jan 2025,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+40618,5 Feb 2025,v Sunrisers,Centurion,1,0,0,0,0,0
+40618,10 Jul 2025,v Rangpur,Providence,1,0,0,0,0,0
+40618,11 Jul 2025,v Central D,Providence,2,0,0,0,0,0
+40618,13 Jul 2025,v DC,Providence,2,0,0,0,0,0
+40618,16 Jul 2025,v Hurricanes,Providence,1,0,0,0,0,0
+40618,18 Jul 2025,v Rangpur,Providence,2,1,1,0,0,1
+40618,15 Aug 2025,v Patriots,Basseterre,1,1,1,0,0,1
+40618,22 Aug 2025,v Falcons,North Sound,2,0,0,0,0,0
+40618,26 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+40618,30 Aug 2025,v Trinbago,Tarouba,2,0,0,0,0,0
+40618,4 Sep 2025,v Royals,Bridgetown,1,0,0,0,0,0
+40618,6 Sep 2025,v Trinbago,Providence,1,0,0,0,0,0
+40618,7 Sep 2025,v Patriots,Providence,1,0,0,0,0,0
+40618,10 Sep 2025,v Falcons,Providence,2,0,0,0,0,0
+40618,13 Sep 2025,v Kings,Providence,1,0,0,0,0,0
+40618,14 Sep 2025,v Royals,Providence,2,0,0,0,0,0
+40618,17 Sep 2025,v Kings,Providence,2,1,1,0,0,1
+40618,21 Sep 2025,v Trinbago,Providence,2,0,0,0,0,0
+40618,14 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+40618,19 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0

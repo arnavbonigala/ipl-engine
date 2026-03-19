@@ -1,0 +1,98 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+720465,2 Apr 2014,v Tripura,Eden Gardens,2,0,0,0,0,0
+720465,4 Apr 2014,v Odisha,Eden Gardens,1,1,1,0,0,1
+720465,5 Apr 2014,v Assam,Jadavpur Uni,1,0,0,0,0,0
+720465,8 Apr 2014,v Gujarat,Rajkot,2,0,0,0,0,0
+720465,9 Apr 2014,v UP,Rajkot,2,1,1,0,0,1
+720465,10 Apr 2014,v Haryana,Rajkot,2,0,0,0,0,0
+720465,11 Apr 2014,v Goa,Rajkot,1,0,0,0,0,0
+720465,26 Mar 2015,v Tripura,Cuttack,2,0,0,0,0,0
+720465,27 Mar 2015,v Bengal,Cuttack,1,1,1,0,0,1
+720465,28 Mar 2015,v Odisha,Cuttack,1,0,0,0,0,0
+720465,29 Mar 2015,v Assam,Cuttack,1,0,0,0,0,0
+720465,1 Apr 2015,v Gujarat,Bhubaneswar,2,0,0,0,0,0
+720465,2 Apr 2015,v M. Pradesh,Bhubaneswar,1,0,0,0,0,0
+720465,3 Apr 2015,v Himachal,Bhubaneswar,1,0,0,0,0,0
+720465,3 Jan 2016,v Tripura,Kochi,1,0,0,0,0,0
+720465,4 Jan 2016,v Rajasthan,Kochi,1,0,0,0,0,0
+720465,6 Jan 2016,v Punjab,Kochi,2,0,0,0,0,0
+720465,7 Jan 2016,v J & K,Kochi,2,0,0,0,0,0
+720465,9 Jan 2016,v Saurashtra,Kochi,1,1,1,0,0,1
+720465,15 Jan 2016,v UP,Mumbai,2,0,0,0,0,0
+720465,16 Jan 2016,v Delhi,Mumbai,2,0,0,0,0,0
+720465,18 Jan 2016,v Gujarat,Mumbai,2,1,1,0,0,1
+720465,29 Jan 2017,v Assam,Eden Gardens,2,0,0,0,0,0
+720465,31 Jan 2017,v Odisha,Eden Gardens,2,1,1,0,0,1
+720465,1 Feb 2017,v Tripura,Eden Gardens,1,1,1,0,0,1
+720465,5 Feb 2017,v Bengal,Eden Gardens,2,0,0,0,0,0
+720465,16 Feb 2017,v North Zone,Wankhede,1,0,0,0,0,0
+720465,18 Feb 2017,v West Zone,Wankhede,1,1,1,0,0,1
+720465,10 Jan 2018,v Tripura,Ranchi,2,0,0,0,0,0
+720465,12 Jan 2018,v Bengal,Ranchi,2,0,0,0,0,0
+720465,14 Jan 2018,v Assam,Ranchi,1,0,0,0,0,0
+720465,16 Jan 2018,v Odisha,Ranchi,1,1,1,0,0,1
+720465,21 Jan 2018,v Mumbai,Kolkata,1,0,0,0,0,0
+720465,22 Jan 2018,v Rajasthan,Kolkata,2,0,0,0,0,0
+720465,23 Jan 2018,v Punjab,Eden Gardens,1,1,1,0,0,1
+720465,24 Jan 2018,v Karnataka,Eden Gardens,1,0,0,0,0,0
+720465,21 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+720465,22 Feb 2019,v J & K,Mulapadu,1,1,1,0,0,1
+720465,24 Feb 2019,v Manipur,Mulapadu,2,1,1,0,0,1
+720465,27 Feb 2019,v Nagaland,Mulapadu,2,0,0,0,0,0
+720465,28 Feb 2019,v Andhra,Mulapadu,1,1,1,0,0,1
+720465,2 Mar 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+720465,8 Mar 2019,v Gujarat,Indore,2,0,0,0,0,0
+720465,9 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+720465,10 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+720465,11 Mar 2019,v Maharashtra,Indore,1,0,0,0,0,0
+720465,9 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+720465,11 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+720465,12 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+720465,14 Nov 2019,v Nagaland,Surat,1,0,0,0,0,0
+720465,15 Nov 2019,v Delhi,Surat,1,0,0,0,0,0
+720465,17 Nov 2019,v Gujarat,Surat,1,1,1,0,0,1
+720465,21 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+720465,22 Nov 2019,v Karnataka,Surat,1,1,1,0,0,1
+720465,24 Nov 2019,v Mumbai,Surat,2,0,0,0,0,0
+720465,27 Nov 2019,v Tamil Nadu,Surat,2,2,2,0,0,2
+720465,10 Jan 2021,v Tamil Nadu,Eden Gardens,1,0,0,0,0,0
+720465,12 Jan 2021,v Bengal,Eden Gardens,1,0,0,0,0,0
+720465,14 Jan 2021,v Assam,Jadavpur Uni,2,0,0,0,0,0
+720465,16 Jan 2021,v Odisha,Eden Gardens,2,0,0,0,0,0
+720465,18 Jan 2021,v Hyderabad,Eden Gardens,1,1,1,0,0,1
+720465,17 Apr 2021,v MI,Chennai,1,2,2,0,0,2
+720465,21 Apr 2021,v Punjab Kings,Chennai,1,0,0,0,0,0
+720465,25 Apr 2021,v DC,Chennai,1,0,0,0,0,0
+720465,4 Nov 2021,v Rajasthan,Vadodara,2,1,1,0,0,1
+720465,5 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+720465,6 Nov 2021,v Andhra,Vadodara,1,0,0,0,0,0
+720465,8 Nov 2021,v Haryana,Vadodara,2,2,2,0,0,2
+720465,9 Nov 2021,v J & K,Vadodara,1,0,0,0,0,0
+720465,14 Oct 2022,v Chandigarh,Lucknow,2,0,0,0,0,0
+720465,18 Oct 2022,v Tamil Nadu,Lucknow,1,2,2,0,0,2
+720465,20 Oct 2022,v Odisha,Lucknow,2,1,1,0,0,1
+720465,22 Oct 2022,v Sikkim,Lucknow,1,0,0,0,0,0
+720465,17 Oct 2023,v Puducherry,Mohali,1,1,1,0,0,1
+720465,19 Oct 2023,v Uttarakhand,Mohali,2,0,0,0,0,0
+720465,21 Oct 2023,v Rajasthan,New Chandigarh,1,0,0,0,0,0
+720465,23 Oct 2023,v Maharashtra,Mohali,2,1,1,0,0,1
+720465,25 Oct 2023,v Bengal,New Chandigarh,1,1,1,0,0,1
+720465,27 Oct 2023,v Vidarbha,Mohali,2,3,3,0,0,3
+720465,23 Nov 2024,v J & K,Mumbai,1,0,0,0,0,0
+720465,25 Nov 2024,v Manipur,Mumbai,2,0,0,0,0,0
+720465,27 Nov 2024,v Himachal,Wankhede,2,1,1,0,0,1
+720465,29 Nov 2024,v Arunachal,Wankhede,1,0,0,0,0,0
+720465,1 Dec 2024,v Haryana,Mumbai,1,0,0,0,0,0
+720465,3 Dec 2024,v Delhi,Mumbai,1,0,0,0,0,0
+720465,5 Dec 2024,v UP,Wankhede,1,1,1,0,0,1
+720465,26 Nov 2025,v Delhi,Ahmedabad,1,0,0,0,0,0
+720465,28 Nov 2025,v Karnataka,Ahmedabad,1,1,1,0,0,1
+720465,30 Nov 2025,v Tripura,Ahmedabad,1,0,0,0,0,0
+720465,2 Dec 2025,v Saurashtra,Ahmedabad,2,1,1,0,0,1
+720465,4 Dec 2025,v Uttarakhand,Ahmedabad,1,0,0,0,0,0
+720465,6 Dec 2025,v Tamil Nadu,Ahmedabad,2,0,0,0,0,0
+720465,8 Dec 2025,v Rajasthan,Ahmedabad,2,3,3,0,0,3
+720465,12 Dec 2025,v Punjab,Ambi,1,1,1,0,0,1
+720465,14 Dec 2025,v M. Pradesh,Pune,2,0,0,0,0,0
+720465,16 Dec 2025,v Andhra,Ambi,1,0,0,0,0,0
+720465,18 Dec 2025,v Haryana,Pune,2,0,0,0,0,0

@@ -1,0 +1,186 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+723105,31 Mar 2014,v Vidarbha,Nagpur,2,0,0,0,0,0
+723105,1 Apr 2014,v Rajasthan,Nagpur,1,2,2,0,0,2
+723105,2 Apr 2014,v M. Pradesh,Nagpur,1,0,0,0,0,0
+723105,5 Apr 2014,v Railways,Nagpur,2,0,0,0,0,0
+723105,9 Apr 2014,v Jharkhand,Rajkot,1,2,2,0,0,2
+723105,10 Apr 2014,v Goa,Rajkot,2,0,0,0,0,0
+723105,11 Apr 2014,v Gujarat,Rajkot,1,0,0,0,0,0
+723105,12 Apr 2014,v Haryana,Rajkot,1,1,1,0,0,1
+723105,14 Apr 2014,v Baroda,Wankhede,1,0,0,0,0,0
+723105,24 Mar 2015,v Vidarbha,Indore,2,1,1,0,0,1
+723105,25 Mar 2015,v Rajasthan,Indore,1,0,0,0,0,0
+723105,27 Mar 2015,v M. Pradesh,Indore,1,1,1,0,0,1
+723105,29 Mar 2015,v Railways,Indore,2,1,1,0,0,1
+723105,29 Jan 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+723105,31 Jan 2017,v Rajasthan,Jaipur,1,0,0,0,0,0
+723105,2 Feb 2017,v Railways,Jaipur,1,1,1,0,0,1
+723105,3 Feb 2017,v M. Pradesh,Jaipur,1,0,0,0,0,0
+723105,5 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+723105,9 Jan 2018,v Rajasthan,Raipur,2,1,1,0,0,1
+723105,10 Jan 2018,v M. Pradesh,Raipur,2,0,0,0,0,0
+723105,13 Jan 2018,v Railways,Raipur,1,0,0,0,0,0
+723105,15 Jan 2018,v Vidarbha,Raipur,2,1,1,0,0,1
+723105,16 Jan 2018,v Chhattisgarh,Raipur,1,1,1,0,0,1
+723105,22 Jan 2018,v Bengal,Eden Gardens,2,1,1,0,0,1
+723105,23 Jan 2018,v Tamil Nadu,Eden Gardens,2,0,0,0,0,0
+723105,24 Jan 2018,v Baroda,Kolkata,1,0,0,0,0,0
+723105,25 Jan 2018,v Delhi,Kolkata,1,0,0,0,0,0
+723105,8 Apr 2018,v RCB,Eden Gardens,1,1,1,0,0,1
+723105,10 Apr 2018,v CSK,Chennai,2,1,1,0,0,1
+723105,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+723105,9 May 2018,v MI,Eden Gardens,1,2,2,0,0,2
+723105,21 Feb 2019,v Maharashtra,Delhi,1,0,0,0,0,0
+723105,22 Feb 2019,v Hyderabad,Delhi,1,0,0,0,0,0
+723105,24 Feb 2019,v Tripura,Delhi,2,0,0,0,0,0
+723105,25 Feb 2019,v Puducherry,Delhi,2,0,0,0,0,0
+723105,27 Feb 2019,v Services,Delhi,2,1,1,0,0,1
+723105,28 Feb 2019,v Uttarakhand,Delhi,2,0,0,0,0,0
+723105,2 Mar 2019,v Baroda,Delhi,1,1,1,0,0,1
+723105,9 Mar 2019,v Karnataka,Indore,1,1,1,0,0,1
+723105,10 Mar 2019,v Vidarbha,Indore,1,1,1,0,0,1
+723105,11 Mar 2019,v Delhi,Indore,2,0,0,0,0,0
+723105,12 Mar 2019,v Mumbai,Indore,1,3,3,0,0,3
+723105,21 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+723105,25 Apr 2019,v RR,Eden Gardens,2,1,1,0,0,1
+723105,28 Apr 2019,v MI,Eden Gardens,2,0,0,0,0,0
+723105,3 May 2019,v Kings XI,Mohali,1,0,0,0,0,0
+723105,5 May 2019,v MI,Wankhede,2,0,0,0,0,0
+723105,9 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+723105,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,1,2,2,0,0,2
+723105,12 Nov 2019,v Tripura,Thumba,1,0,0,0,0,0
+723105,14 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+723105,15 Nov 2019,v Manipur,Thumba,1,0,0,0,0,0
+723105,17 Nov 2019,v Kerala,Thiruvananthapuram,1,1,1,0,0,1
+723105,29 Oct 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+723105,10 Jan 2021,v Punjab,Alur (2),1,0,0,0,0,0
+723105,12 Jan 2021,v Railways,Alur (3),2,0,0,0,0,0
+723105,4 Nov 2021,v Chandigarh,Sultanpur,2,1,1,0,0,1
+723105,5 Nov 2021,v Saurashtra,Sultanpur,1,0,0,0,0,0
+723105,6 Nov 2021,v Delhi,Rohtak,2,0,0,0,0,0
+723105,8 Nov 2021,v Uttarakhand,Sultanpur,1,1,1,0,0,1
+723105,9 Nov 2021,v Hyderabad,Sultanpur,1,0,0,0,0,0
+723105,23 Apr 2022,v GT,DY Patil,1,4,4,0,0,4
+723105,28 Apr 2022,v DC,Wankhede,2,0,0,0,0,0
+723105,2 May 2022,v RR,Wankhede,1,2,2,0,0,2
+723105,7 May 2022,v LSG,Pune,1,1,1,0,0,1
+723105,9 May 2022,v MI,DY Patil,2,1,1,0,0,1
+723105,14 May 2022,v SRH,Pune,2,0,0,0,0,0
+723105,18 May 2022,v LSG,DY Patil,1,0,0,0,0,0
+723105,11 Oct 2022,v Puducherry,Jaipur,1,0,0,0,0,0
+723105,12 Oct 2022,v Tripura,Jaipur,2,0,0,0,0,0
+723105,14 Oct 2022,v Delhi,Jaipur,1,0,0,0,0,0
+723105,16 Oct 2022,v Manipur,Jaipur,1,1,1,0,0,1
+723105,18 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+723105,20 Oct 2022,v Hyderabad,Jaipur,1,0,0,0,0,0
+723105,22 Oct 2022,v Punjab,Jaipur,2,0,0,0,0,0
+723105,1 Apr 2023,v Punjab Kings,Mohali,1,1,1,0,0,1
+723105,6 Apr 2023,v RCB,Eden Gardens,2,0,0,0,0,0
+723105,9 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+723105,14 Apr 2023,v SRH,Eden Gardens,1,0,0,0,0,0
+723105,16 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+723105,20 Apr 2023,v DC,Delhi,2,1,1,0,0,1
+723105,23 Apr 2023,v CSK,Eden Gardens,1,1,1,0,0,1
+723105,26 Apr 2023,v RCB,Bengaluru,2,2,2,0,0,2
+723105,29 Apr 2023,v GT,Eden Gardens,2,0,0,0,0,0
+723105,4 May 2023,v SRH,Hyderabad,2,1,1,0,0,1
+723105,8 May 2023,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+723105,11 May 2023,v RR,Eden Gardens,2,0,0,0,0,0
+723105,14 May 2023,v CSK,Chennai,1,1,1,0,0,1
+723105,20 May 2023,v LSG,Eden Gardens,1,1,1,0,0,1
+723105,18 Aug 2023,v Ireland,Dublin (Malahide),1,0,0,0,0,0
+723105,20 Aug 2023,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+723105,3 Oct 2023,v Nepal,Hangzhou,2,1,1,0,0,1
+723105,6 Oct 2023,v Bangladesh,Hangzhou,1,2,2,0,0,2
+723105,7 Oct 2023,v Afghanistan,Hangzhou,1,0,0,0,0,0
+723105,17 Oct 2023,v Tamil Nadu,Dehradun,1,0,0,0,0,0
+723105,21 Oct 2023,v Nagaland,Dehradun,2,0,0,0,0,0
+723105,23 Oct 2023,v Tripura,Dehradun,2,1,1,0,0,1
+723105,25 Oct 2023,v Karnataka,Dehradun,2,2,2,0,0,2
+723105,27 Oct 2023,v M. Pradesh,Dehradun,2,1,1,0,0,1
+723105,31 Oct 2023,v Gujarat,Mohali,1,0,0,0,0,0
+723105,2 Nov 2023,v Punjab,Mohali,2,0,0,0,0,0
+723105,23 Nov 2023,v Australia,Visakhapatnam,1,0,0,0,0,0
+723105,26 Nov 2023,v Australia,Thiruvananthapuram,2,0,0,0,0,0
+723105,28 Nov 2023,v Australia,Guwahati,2,0,0,0,0,0
+723105,1 Dec 2023,v Australia,Raipur,2,0,0,0,0,0
+723105,3 Dec 2023,v Australia,Bengaluru,2,1,1,0,0,1
+723105,12 Dec 2023,v South Africa,Gqeberha,2,0,0,0,0,0
+723105,14 Dec 2023,v South Africa,Johannesburg,2,1,1,0,0,1
+723105,11 Jan 2024,v Afghanistan,Mohali,1,1,1,0,0,1
+723105,14 Jan 2024,v Afghanistan,Indore,1,1,1,0,0,1
+723105,17 Jan 2024,v Afghanistan,Bengaluru,2,0,0,0,0,0
+723105,23 Mar 2024,v SRH,Eden Gardens,2,2,2,0,0,2
+723105,29 Mar 2024,v RCB,Bengaluru,1,2,2,0,0,2
+723105,3 Apr 2024,v DC,Visakhapatnam,2,0,0,0,0,0
+723105,8 Apr 2024,v CSK,Chennai,2,0,0,0,0,0
+723105,14 Apr 2024,v LSG,Eden Gardens,1,0,0,0,0,0
+723105,16 Apr 2024,v RR,Eden Gardens,2,0,0,0,0,0
+723105,21 Apr 2024,v RCB,Eden Gardens,2,0,0,0,0,0
+723105,26 Apr 2024,v Punjab Kings,Eden Gardens,2,0,0,0,0,0
+723105,29 Apr 2024,v DC,Eden Gardens,1,0,0,0,0,0
+723105,3 May 2024,v MI,Wankhede,2,0,0,0,0,0
+723105,5 May 2024,v LSG,Lucknow,2,0,0,0,0,0
+723105,11 May 2024,v MI,Eden Gardens,2,2,2,0,0,2
+723105,19 May 2024,v RR,Guwahati,-,TDNF,-,-,-,-
+723105,21 May 2024,v SRH,Ahmedabad,1,1,1,0,0,1
+723105,26 May 2024,v SRH,Chennai,1,0,0,0,0,0
+723105,6 Jul 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+723105,7 Jul 2024,v Zimbabwe,Harare,2,1,1,0,0,1
+723105,10 Jul 2024,v Zimbabwe,Harare,2,2,2,0,0,2
+723105,13 Jul 2024,v Zimbabwe,Harare,1,3,3,0,0,3
+723105,14 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+723105,27 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+723105,28 Jul 2024,v Sri Lanka,Pallekele,1,2,2,0,0,2
+723105,30 Jul 2024,v Sri Lanka,Pallekele,2,2,2,0,0,2
+723105,6 Oct 2024,v Bangladesh,Gwalior,1,1,1,0,0,1
+723105,9 Oct 2024,v Bangladesh,Delhi,2,0,0,0,0,0
+723105,12 Oct 2024,v Bangladesh,Hyderabad,2,0,0,0,0,0
+723105,8 Nov 2024,v South Africa,Durban,2,0,0,0,0,0
+723105,10 Nov 2024,v South Africa,Gqeberha,2,2,2,0,0,2
+723105,13 Nov 2024,v South Africa,Centurion,2,0,0,0,0,0
+723105,15 Nov 2024,v South Africa,Johannesburg,2,0,0,0,0,0
+723105,23 Nov 2024,v Delhi,Wankhede,1,0,0,0,0,0
+723105,25 Nov 2024,v Himachal,Wankhede,1,1,1,0,0,1
+723105,27 Nov 2024,v Manipur,Mumbai,1,1,1,0,0,1
+723105,29 Nov 2024,v Haryana,Mumbai,1,1,1,0,0,1
+723105,1 Dec 2024,v Arunachal,Wankhede,2,0,0,0,0,0
+723105,3 Dec 2024,v J & K,Mumbai,2,0,0,0,0,0
+723105,5 Dec 2024,v Jharkhand,Wankhede,2,0,0,0,0,0
+723105,9 Dec 2024,v Andhra,Bengaluru,1,0,0,0,0,0
+723105,11 Dec 2024,v Delhi,Bengaluru,1,1,1,0,0,1
+723105,22 Jan 2025,v England,Eden Gardens,1,1,1,0,0,1
+723105,31 Jan 2025,v England,Pune,2,1,1,0,0,1
+723105,2 Feb 2025,v England,Wankhede,2,1,1,0,0,1
+723105,22 Mar 2025,v RCB,Eden Gardens,2,1,1,0,0,1
+723105,26 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+723105,31 Mar 2025,v MI,Wankhede,2,0,0,0,0,0
+723105,3 Apr 2025,v SRH,Eden Gardens,2,0,0,0,0,0
+723105,8 Apr 2025,v LSG,Eden Gardens,1,1,1,0,0,1
+723105,11 Apr 2025,v CSK,Chennai,1,0,0,0,0,0
+723105,15 Apr 2025,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+723105,21 Apr 2025,v GT,Eden Gardens,1,1,1,0,0,1
+723105,26 Apr 2025,v Punjab Kings,Eden Gardens,1,0,0,0,0,0
+723105,29 Apr 2025,v DC,Delhi,2,1,1,0,0,1
+723105,4 May 2025,v RR,Eden Gardens,2,1,1,0,0,1
+723105,7 May 2025,v CSK,Eden Gardens,2,3,3,0,0,3
+723105,25 May 2025,v SRH,Delhi,1,1,1,0,0,1
+723105,28 Sep 2025,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+723105,8 Nov 2025,v Australia,Brisbane,-,TDNF,-,-,-,-
+723105,26 Nov 2025,v Goa,Jadavpur Uni,1,0,0,0,0,0
+723105,28 Nov 2025,v J & K,Jadavpur Uni,2,1,1,0,0,1
+723105,30 Nov 2025,v M. Pradesh,Jadavpur Uni,1,1,1,0,0,1
+723105,2 Dec 2025,v Hyderabad,Eden Gardens,2,0,0,0,0,0
+723105,4 Dec 2025,v Chandigarh,Eden Gardens,2,2,2,0,0,2
+723105,6 Dec 2025,v Maharashtra,Eden Gardens,2,0,0,0,0,0
+723105,8 Dec 2025,v Bihar,Jadavpur Uni,2,0,0,0,0,0
+723105,21 Jan 2026,v New Zealand,Nagpur,2,1,1,0,0,1
+723105,23 Jan 2026,v New Zealand,Raipur,1,0,0,0,0,0
+723105,25 Jan 2026,v New Zealand,Guwahati,1,0,0,0,0,0
+723105,28 Jan 2026,v New Zealand,Visakhapatnam,1,4,4,0,0,4
+723105,31 Jan 2026,v New Zealand,Thiruvananthapuram,2,2,2,0,0,2
+723105,7 Feb 2026,v U.S.A.,Wankhede,2,1,1,0,0,1
+723105,12 Feb 2026,v Namibia,Delhi,2,0,0,0,0,0
+723105,15 Feb 2026,v Pakistan,Colombo (RPS),2,2,2,0,0,2
+723105,18 Feb 2026,v Netherlands,Ahmedabad,2,1,1,0,0,1
+723105,22 Feb 2026,v South Africa,Ahmedabad,1,1,1,0,0,1

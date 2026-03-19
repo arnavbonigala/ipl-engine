@@ -1,0 +1,164 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+290716,3 Apr 2007,v Gujarat,Wankhede,1,0,0,0,0,0
+290716,4 Apr 2007,v Saurashtra,Brabourne,2,1,1,0,0,1
+290716,6 Apr 2007,v Mumbai,Brabourne,2,1,1,0,0,1
+290716,7 Apr 2007,v Baroda,Wankhede,1,0,0,0,0,0
+290716,20 Oct 2009,v Gujarat,Pune,1,1,1,0,0,1
+290716,21 Oct 2009,v Saurashtra,Pune,1,2,2,0,0,2
+290716,24 Oct 2009,v Mumbai,Pune,2,1,1,0,0,1
+290716,25 Oct 2009,v Baroda,Pune,1,0,0,0,0,0
+290716,25 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+290716,29 Mar 2010,v KKR,Delhi,2,0,0,0,0,0
+290716,31 Mar 2010,v RR,Delhi,2,0,0,0,0,0
+290716,4 Apr 2010,v RCB,Delhi,2,0,0,0,0,0
+290716,7 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+290716,20 Oct 2010,v Gujarat,Vadodara,2,0,0,0,0,0
+290716,21 Oct 2010,v Saurashtra,Vadodara,2,0,0,0,0,0
+290716,24 Oct 2010,v Mumbai,Vadodara,1,0,0,0,0,0
+290716,25 Oct 2010,v Baroda,Vadodara,2,1,1,0,0,1
+290716,15 Apr 2011,v MI,Wankhede,1,0,0,0,0,0
+290716,18 Apr 2011,v CSK,Kochi,1,0,0,0,0,0
+290716,20 Apr 2011,v KKR,Eden Gardens,2,2,2,0,0,2
+290716,24 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+290716,27 Apr 2011,v Chargers,Kochi,1,0,0,0,0,0
+290716,18 May 2011,v CSK,Chennai,1,0,0,0,0,0
+290716,17 Mar 2013,v Gujarat,Ahmedabad,2,1,1,0,0,1
+290716,18 Mar 2013,v Saurashtra,Ahmedabad,1,0,0,0,0,0
+290716,21 Mar 2013,v Mumbai,Ahmedabad,2,0,0,0,0,0
+290716,22 Mar 2013,v Baroda,Ahmedabad,2,1,1,0,0,1
+290716,9 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+290716,12 Apr 2013,v SRH,Delhi,2,1,0,1,0,0
+290716,16 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+290716,18 Apr 2013,v CSK,Delhi,1,1,1,0,1,0
+290716,21 Apr 2013,v MI,Delhi,1,0,0,0,0,0
+290716,23 Apr 2013,v Kings XI,Delhi,2,0,0,0,0,0
+290716,28 Apr 2013,v Warriors,Raipur,2,1,1,0,1,0
+290716,1 May 2013,v KKR,Raipur,1,1,1,0,1,0
+290716,4 May 2013,v SRH,Hyderabad,2,2,1,1,1,0
+290716,7 May 2013,v RR,Jaipur,2,0,0,0,0,0
+290716,10 May 2013,v RCB,Delhi,1,0,0,0,0,0
+290716,14 May 2013,v CSK,Chennai,1,0,0,0,0,0
+290716,21 Sep 2013,v W. Indies A,Bengaluru,2,1,1,0,0,1
+290716,30 Mar 2014,v Gujarat,Mumbai,1,0,0,0,0,0
+290716,31 Mar 2014,v Saurashtra,Wankhede,1,0,0,0,0,0
+290716,3 Apr 2014,v Mumbai,Wankhede,2,1,1,0,0,1
+290716,4 Apr 2014,v Baroda,Mumbai,2,0,0,0,0,0
+290716,27 Apr 2014,v MI,Sharjah,1,0,0,0,0,0
+290716,3 May 2014,v RR,Delhi,2,0,0,0,0,0
+290716,5 May 2014,v CSK,Delhi,2,0,0,0,0,0
+290716,7 May 2014,v KKR,Delhi,2,0,0,0,0,0
+290716,10 May 2014,v SRH,Delhi,2,0,0,0,0,0
+290716,13 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+290716,15 May 2014,v RR,Ahmedabad,1,1,1,0,0,1
+290716,19 May 2014,v Kings XI,Delhi,2,1,1,0,0,1
+290716,23 May 2014,v MI,Wankhede,1,1,1,0,0,1
+290716,25 May 2014,v Kings XI,Mohali,2,0,0,0,0,0
+290716,24 Mar 2015,v Gujarat,Pune,2,0,0,0,0,0
+290716,25 Mar 2015,v Saurashtra,Pune,2,0,0,0,0,0
+290716,9 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+290716,12 Apr 2015,v RR,Delhi,2,1,0,1,0,0
+290716,15 Apr 2015,v Kings XI,Pune,1,0,0,0,0,0
+290716,18 Apr 2015,v SRH,Visakhapatnam,2,0,0,0,0,0
+290716,20 Apr 2015,v KKR,Delhi,2,1,1,0,1,0
+290716,23 Apr 2015,v MI,Delhi,2,2,1,1,1,0
+290716,26 Apr 2015,v RCB,Delhi,2,0,0,0,0,0
+290716,1 May 2015,v Kings XI,Delhi,1,2,2,0,2,0
+290716,3 May 2015,v RR,Brabourne,1,1,1,0,1,0
+290716,5 May 2015,v MI,Wankhede,2,0,0,0,0,0
+290716,7 May 2015,v KKR,Eden Gardens,1,1,1,0,1,0
+290716,9 May 2015,v SRH,Raipur,1,0,0,0,0,0
+290716,12 May 2015,v CSK,Raipur,1,0,0,0,0,0
+290716,17 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+290716,17 Jul 2015,v Zimbabwe,Harare,2,1,1,0,0,1
+290716,19 Jul 2015,v Zimbabwe,Harare,1,0,0,0,0,0
+290716,2 Jan 2016,v UP,Cuttack,2,0,0,0,0,0
+290716,3 Jan 2016,v Services,Cuttack,2,2,2,0,0,2
+290716,4 Jan 2016,v Odisha,Cuttack,1,0,0,0,0,0
+290716,7 Jan 2016,v Karnataka,Cuttack,2,0,0,0,0,0
+290716,8 Jan 2016,v Mumbai,Cuttack,2,0,0,0,0,0
+290716,12 Apr 2016,v SRH,Bengaluru,2,0,0,0,0,0
+290716,17 Apr 2016,v Daredevils,Bengaluru,2,1,1,0,1,0
+290716,24 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+290716,30 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+290716,18 Jun 2016,v Zimbabwe,Harare,1,0,0,0,0,0
+290716,20 Jun 2016,v Zimbabwe,Harare,1,0,0,0,0,0
+290716,22 Jun 2016,v Zimbabwe,Harare,2,0,0,0,0,0
+290716,12 Feb 2017,v Central Zone,Wankhede,2,1,1,0,0,1
+290716,13 Feb 2017,v North Zone,Wankhede,1,1,1,0,0,1
+290716,16 Feb 2017,v South Zone,Wankhede,2,0,0,0,0,0
+290716,5 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+290716,8 Apr 2017,v Daredevils,Bengaluru,2,0,0,0,0,0
+290716,10 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+290716,14 Apr 2017,v MI,Bengaluru,2,0,0,0,0,0
+290716,16 Apr 2017,v Supergiant,Bengaluru,1,0,0,0,0,0
+290716,18 Apr 2017,v Guj Lions,Rajkot,2,1,0,1,0,0
+290716,23 Apr 2017,v KKR,Eden Gardens,1,2,1,1,1,0
+290716,27 Apr 2017,v Guj Lions,Bengaluru,2,0,0,0,0,0
+290716,29 Apr 2017,v Supergiant,Pune,1,1,1,0,1,0
+290716,1 May 2017,v MI,Wankhede,2,0,0,0,0,0
+290716,5 May 2017,v Kings XI,Bengaluru,1,2,2,0,2,0
+290716,7 May 2017,v KKR,Bengaluru,2,2,1,1,1,0
+290716,14 May 2017,v Daredevils,Delhi,2,2,2,0,0,2
+290716,9 Jul 2017,v West Indies,Kingston,2,0,0,0,0,0
+290716,6 Sep 2017,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+290716,7 Oct 2017,v Australia,Ranchi,1,0,0,0,0,0
+290716,10 Oct 2017,v Australia,Guwahati,2,0,0,0,0,0
+290716,7 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+290716,23 Mar 2019,v RCB,Chennai,1,1,1,0,0,1
+290716,26 Mar 2019,v DC,Delhi,1,0,0,0,0,0
+290716,31 Mar 2019,v RR,Chennai,2,0,0,0,0,0
+290716,3 Apr 2019,v MI,Wankhede,1,1,1,0,0,1
+290716,6 Apr 2019,v Kings XI,Chennai,2,0,0,0,0,0
+290716,9 Apr 2019,v KKR,Chennai,1,1,1,0,0,1
+290716,11 Apr 2019,v RR,Jaipur,1,1,1,0,0,1
+290716,14 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+290716,17 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+290716,21 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+290716,23 Apr 2019,v SRH,Chennai,1,0,0,0,0,0
+290716,26 Apr 2019,v MI,Chennai,1,0,0,0,0,0
+290716,1 May 2019,v DC,Chennai,2,0,0,0,0,0
+290716,5 May 2019,v Kings XI,Mohali,2,0,0,0,0,0
+290716,8 Nov 2019,v Railways,Chandigarh,2,0,0,0,0,0
+290716,9 Nov 2019,v Chandigarh,Chandigarh,2,0,0,0,0,0
+290716,11 Nov 2019,v Arunachal,Chandigarh,1,1,1,0,0,1
+290716,12 Nov 2019,v Chhattisgarh,Chandigarh,1,0,0,0,0,0
+290716,14 Nov 2019,v Hyderabad,Chandigarh,1,0,0,0,0,0
+290716,15 Nov 2019,v Himachal,Chandigarh,1,0,0,0,0,0
+290716,18 Nov 2019,v Punjab,Chandigarh,2,2,2,0,0,2
+290716,21 Nov 2019,v Delhi,Surat,1,1,1,0,0,1
+290716,24 Nov 2019,v Baroda,Surat,2,1,1,0,0,1
+290716,25 Nov 2019,v Rajasthan,Surat,2,0,0,0,0,0
+290716,27 Nov 2019,v Haryana,Surat,2,0,0,0,0,0
+290716,19 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+290716,22 Sep 2020,v RR,Sharjah,1,1,1,0,0,1
+290716,25 Sep 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+290716,2 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+290716,4 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+290716,7 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+290716,17 Oct 2020,v DC,Sharjah,2,0,0,0,0,0
+290716,19 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+290716,10 Jan 2021,v Gujarat,Vadodara,1,0,0,0,0,0
+290716,12 Jan 2021,v Chhattisgarh,Vadodara,1,0,0,0,0,0
+290716,14 Jan 2021,v Uttarakhand,Vadodara,2,0,0,0,0,0
+290716,16 Jan 2021,v Baroda,Vadodara,1,0,0,0,0,0
+290716,18 Jan 2021,v Himachal,Vadodara,2,1,1,0,0,1
+290716,21 Apr 2021,v Punjab Kings,Chennai,1,1,1,0,0,1
+290716,25 Apr 2021,v DC,Chennai,1,0,0,0,0,0
+290716,28 Apr 2021,v CSK,Delhi,2,1,1,0,0,1
+290716,2 May 2021,v RR,Delhi,1,0,0,0,0,0
+290716,22 Sep 2021,v DC,Dubai (DICS),2,0,0,0,0,0
+290716,25 Sep 2021,v Punjab Kings,Sharjah,1,0,0,0,0,0
+290716,4 Nov 2021,v Tamil Nadu,Lucknow,1,0,0,0,0,0
+290716,5 Nov 2021,v Punjab,Lucknow,1,0,0,0,0,0
+290716,6 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+290716,8 Nov 2021,v Puducherry,Lucknow,2,2,0,2,0,0
+290716,9 Nov 2021,v Goa,Lucknow,2,1,1,0,1,0
+290716,16 Nov 2021,v Vidarbha,Delhi,2,0,0,0,0,0
+290716,6 May 2023,v DC,Delhi,2,0,0,0,0,0
+290716,9 May 2023,v MI,Wankhede,2,1,1,0,0,1
+290716,16 Oct 2023,v Bengal,Mohali,1,0,0,0,0,0
+290716,17 Oct 2023,v Uttarakhand,New Chandigarh,1,0,0,0,0,0
+290716,21 Oct 2023,v Puducherry,Mohali,1,0,0,0,0,0
+290716,23 Oct 2023,v Jharkhand,Mohali,1,0,0,0,0,0
+290716,25 Oct 2023,v Vidarbha,Mohali,1,1,1,0,0,1
+290716,27 Oct 2023,v Rajasthan,New Chandigarh,1,0,0,0,0,0

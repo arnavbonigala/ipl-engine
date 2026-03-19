@@ -1,0 +1,169 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+960361,12 May 2018,v RCB,Delhi,2,0,0,0,0,0
+960361,18 May 2018,v CSK,Delhi,2,0,0,0,0,0
+960361,20 May 2018,v MI,Delhi,2,0,0,0,0,0
+960361,31 May 2018,v West Indies,Lord's,1,0,0,0,0,0
+960361,29 Jul 2018,v M.C.C.,Lord's,1,0,0,0,0,0
+960361,29 Jul 2018,v Netherlands,Lord's,1,0,0,0,0,0
+960361,9 Aug 2018,v Amazon,Providence,2,0,0,0,0,0
+960361,11 Aug 2018,v Trinbago,Port of Spain,2,0,0,0,0,0
+960361,15 Aug 2018,v Tallawahs,Kingston,1,0,0,0,0,0
+960361,21 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+960361,25 Aug 2018,v Tridents,Bridgetown,1,1,1,0,0,1
+960361,14 Oct 2018,v Panthers,Sharjah,2,0,0,0,0,0
+960361,21 Dec 2018,v Thunder,Canberra,1,1,1,0,0,1
+960361,24 Dec 2018,v Hurricanes,Hobart,2,0,0,0,0,0
+960361,27 Dec 2018,v Sixers,Sydney,1,0,0,0,0,0
+960361,1 Jan 2019,v Renegades,Melbourne,1,0,0,0,0,0
+960361,6 Jan 2019,v Victorians,Mirpur,2,0,0,0,0,0
+960361,9 Jan 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+960361,12 Jan 2019,v Dynamites,Mirpur,1,0,0,0,0,0
+960361,16 Jan 2019,v Rangpur,Sylhet,2,0,0,0,0,0
+960361,18 Jan 2019,v Dynamites,Sylhet,2,0,0,0,0,0
+960361,19 Jan 2019,v Rangpur,Sylhet,2,0,0,0,0,0
+960361,31 Jan 2019,v U.A.E.,ICCA Dubai,1,0,0,0,0,0
+960361,1 Feb 2019,v U.A.E.,ICCA Dubai,1,0,0,0,0,0
+960361,3 Feb 2019,v U.A.E.,ICCA Dubai,2,0,0,0,0,0
+960361,8 Feb 2019,v Heat,Brisbane,2,0,0,0,0,0
+960361,10 Feb 2019,v Sixers,Melbourne,2,1,1,0,0,1
+960361,14 Feb 2019,v Hurricanes,Hobart,1,0,0,0,0,0
+960361,17 Feb 2019,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+960361,22 Feb 2019,v Sultans,Sharjah,1,1,1,0,0,1
+960361,23 Feb 2019,v Gladiators,Sharjah,2,0,0,0,0,0
+960361,27 Feb 2019,v Gladiators,Dubai (DICS),1,1,1,0,0,1
+960361,28 Feb 2019,v Kings,Dubai (DICS),2,0,0,0,0,0
+960361,5 Mar 2019,v Zalmi,Abu Dhabi,2,0,0,0,0,0
+960361,9 Mar 2019,v United,Karachi,1,0,0,0,0,0
+960361,11 Mar 2019,v Sultans,Karachi,2,0,0,0,0,0
+960361,30 Mar 2019,v KKR,Delhi,1,0,0,0,0,0
+960361,1 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+960361,4 Apr 2019,v SRH,Delhi,2,0,0,0,0,0
+960361,7 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+960361,20 Apr 2019,v Kings XI,Delhi,1,1,1,0,0,1
+960361,28 Apr 2019,v RCB,Delhi,2,0,0,0,0,0
+960361,13 Jul 2019,v Malaysia,Kuala Lumpur,1,0,0,0,0,0
+960361,14 Jul 2019,v Malaysia,Kuala Lumpur,2,0,0,0,0,0
+960361,23 Jul 2019,v Qatar,Singapore,2,1,1,0,0,1
+960361,24 Jul 2019,v Malaysia,Singapore,1,1,1,0,0,1
+960361,27 Jul 2019,v Kuwait,Singapore,1,0,0,0,0,0
+960361,28 Jul 2019,v Singapore,Singapore,1,0,0,0,0,0
+960361,8 Sep 2019,v Amazon,Providence,1,0,0,0,0,0
+960361,11 Sep 2019,v Patriots,Basseterre,2,0,0,0,0,0
+960361,15 Sep 2019,v Tallawahs,Kingston,2,0,0,0,0,0
+960361,20 Sep 2019,v Zouks,Gros Islet,2,0,0,0,0,0
+960361,22 Sep 2019,v Amazon,Bridgetown,2,1,1,0,0,1
+960361,23 Sep 2019,v Tallawahs,Bridgetown,1,0,0,0,0,0
+960361,27 Sep 2019,v Zimbabwe,Singapore,2,1,1,0,0,1
+960361,28 Sep 2019,v Singapore,Singapore,1,0,0,0,0,0
+960361,1 Oct 2019,v Zimbabwe,Singapore,1,0,0,0,0,0
+960361,6 Oct 2019,v Hong Kong,Al Amerat,1,0,0,0,0,0
+960361,7 Oct 2019,v Netherlands,Al Amerat,1,0,0,0,0,0
+960361,9 Oct 2019,v Ireland,Al Amerat,1,0,0,0,0,0
+960361,10 Oct 2019,v Oman,Al Amerat,2,0,0,0,0,0
+960361,20 Dec 2019,v Heat,Carrara,2,0,0,0,0,0
+960361,22 Dec 2019,v Hurricanes,Moe,2,0,0,0,0,0
+960361,27 Dec 2019,v Strikers,Carrara,1,0,0,0,0,0
+960361,30 Dec 2019,v Hurricanes,Launceston,1,0,0,0,0,0
+960361,4 Jan 2020,v Renegades,Melbourne,1,0,0,0,0,0
+960361,8 Jan 2020,v Thunder,Melbourne,1,1,1,0,0,1
+960361,10 Jan 2020,v Renegades,Melbourne (Docklands),1,1,1,0,0,1
+960361,12 Jan 2020,v Sixers,Melbourne,2,0,0,0,0,0
+960361,15 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+960361,18 Jan 2020,v Scorchers,Melbourne,2,0,0,0,0,0
+960361,20 Jan 2020,v Sixers,Sydney,1,0,0,0,0,0
+960361,22 Jan 2020,v Strikers,Adelaide,1,0,0,0,0,0
+960361,25 Jan 2020,v Heat,Melbourne,1,0,0,0,0,0
+960361,29 Feb 2020,v Malaysia,Bangkok,1,0,0,0,0,0
+960361,1 Mar 2020,v Hong Kong,Bangkok,1,0,0,0,0,0
+960361,4 Mar 2020,v Thailand,Bangkok,1,0,0,0,0,0
+960361,19 Aug 2020,v Zouks,Tarouba,1,0,0,0,0,0
+960361,20 Aug 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+960361,22 Aug 2020,v Amazon,Tarouba,1,0,0,0,0,0
+960361,25 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+960361,26 Aug 2020,v Tridents,Port of Spain,1,0,0,0,0,0
+960361,29 Aug 2020,v Patriots,Port of Spain,2,0,0,0,0,0
+960361,1 Sep 2020,v Trinbago,Tarouba,1,1,1,0,0,1
+960361,3 Sep 2020,v Patriots,Tarouba,1,0,0,0,0,0
+960361,5 Sep 2020,v Tridents,Tarouba,2,0,0,0,0,0
+960361,6 Sep 2020,v Zouks,Tarouba,1,0,0,0,0,0
+960361,8 Sep 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+960361,2 Jan 2021,v Stars,Hobart,2,0,0,0,0,0
+960361,4 Jan 2021,v Stars,Hobart,1,0,0,0,0,0
+960361,7 Jan 2021,v Thunder,Perth,1,0,0,0,0,0
+960361,12 Jan 2021,v Scorchers,Perth,2,0,0,0,0,0
+960361,18 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+960361,22 Jan 2021,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+960361,24 Jan 2021,v Sixers,Melbourne,2,0,0,0,0,0
+960361,26 Jan 2021,v Renegades,Melbourne,1,0,0,0,0,0
+960361,17 Apr 2021,v Netherlands,Kirtipur,1,0,0,0,0,0
+960361,19 Apr 2021,v Malaysia,Kirtipur,1,0,0,0,0,0
+960361,20 Apr 2021,v Netherlands,Kirtipur,2,1,1,0,0,1
+960361,22 Apr 2021,v Malaysia,Kirtipur,2,1,1,0,0,1
+960361,24 Apr 2021,v Netherlands,Kirtipur,2,0,0,0,0,0
+960361,8 Dec 2021,v Sixers,Launceston,1,0,0,0,0,0
+960361,11 Dec 2021,v Sixers,Sydney,2,0,0,0,0,0
+960361,14 Dec 2021,v Scorchers,Hobart,1,0,0,0,0,0
+960361,20 Dec 2021,v Scorchers,Hobart,1,0,0,0,0,0
+960361,24 Dec 2021,v Stars,Hobart,2,0,0,0,0,0
+960361,27 Dec 2021,v Strikers,Hobart,1,0,0,0,0,0
+960361,29 Dec 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+960361,1 Jan 2022,v Heat,Hobart,1,0,0,0,0,0
+960361,5 Jan 2022,v Strikers,Adelaide,2,0,0,0,0,0
+960361,8 Jan 2022,v Heat,Brisbane,1,0,0,0,0,0
+960361,10 Jan 2022,v Thunder,Melbourne,2,0,0,0,0,0
+960361,13 Jan 2022,v Thunder,Melbourne (Docklands),2,0,0,0,0,0
+960361,18 Jan 2022,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+960361,19 Jan 2022,v Stars,Melbourne,1,0,0,0,0,0
+960361,11 Feb 2022,v Oman,Al Amerat,1,0,0,0,0,0
+960361,12 Feb 2022,v U.A.E.,Al Amerat,1,0,0,0,0,0
+960361,14 Feb 2022,v Ireland,Al Amerat,1,0,0,0,0,0
+960361,18 Feb 2022,v Oman,Al Amerat,2,0,0,0,0,0
+960361,19 Feb 2022,v Philippines,Al Amerat,2,1,1,0,0,1
+960361,21 Feb 2022,v Canada,Al Amerat,1,1,1,0,0,1
+960361,22 Feb 2022,v U.A.E.,Al Amerat,1,1,1,0,0,1
+960361,24 Feb 2022,v Oman,Al Amerat,1,2,2,0,0,2
+960361,28 Mar 2022,v P.N.G.,Kirtipur,2,0,0,0,0,0
+960361,30 Mar 2022,v Malaysia,Kirtipur,1,1,1,0,0,1
+960361,31 Mar 2022,v P.N.G.,Kirtipur,2,0,0,0,0,0
+960361,2 Apr 2022,v Malaysia,Kirtipur,2,2,2,0,0,2
+960361,4 Apr 2022,v P.N.G.,Kirtipur,2,1,1,0,0,1
+960361,1 May 2022,v Zimbabwe A,Kirtipur,2,1,1,0,0,1
+960361,2 May 2022,v Zimbabwe A,Kirtipur,1,0,0,0,0,0
+960361,4 May 2022,v Zimbabwe A,Kirtipur,1,0,0,0,0,0
+960361,25 Aug 2022,v Kenya,Nairobi (Gym),1,2,2,0,0,2
+960361,26 Aug 2022,v Kenya,Nairobi (Gym),1,0,0,0,0,0
+960361,28 Aug 2022,v Kenya,Nairobi (Gym),1,1,1,0,0,1
+960361,29 Aug 2022,v Kenya,Nairobi (Gym),1,0,0,0,0,0
+960361,30 Aug 2022,v Kenya,Nairobi (Gym),2,0,0,0,0,0
+960361,27 Sep 2023,v Mongolia,Hangzhou,2,0,0,0,0,0
+960361,1 Oct 2023,v Maldives,Hangzhou,2,0,0,0,0,0
+960361,3 Oct 2023,v India,Hangzhou,1,1,1,0,0,1
+960361,30 Oct 2023,v Singapore,Kirtipur,1,0,0,0,0,0
+960361,31 Oct 2023,v Malaysia,Kirtipur,1,0,0,0,0,0
+960361,2 Nov 2023,v Oman,Kirtipur,1,1,1,0,0,1
+960361,3 Nov 2023,v U.A.E.,Mulpani,1,0,0,0,0,0
+960361,5 Nov 2023,v Oman,Kirtipur,2,0,0,0,0,0
+960361,14 Jun 2024,v South Africa,Kingstown,1,1,1,0,0,1
+960361,16 Jun 2024,v Bangladesh,Kingstown,1,1,1,0,0,1
+960361,28 Sep 2024,v Canada,King City (NW),1,0,0,0,0,0
+960361,29 Sep 2024,v Oman,King City (NW),2,1,1,0,0,1
+960361,1 Oct 2024,v Canada,King City (NW),2,0,0,0,0,0
+960361,2 Oct 2024,v Oman,King City (NW),2,0,0,0,0,0
+960361,16 Jun 2025,v Netherlands,Glasgow,1,0,0,0,0,0
+960361,17 Jun 2025,v Scotland,Glasgow,1,0,0,0,0,0
+960361,19 Jun 2025,v Netherlands,Glasgow,1,0,0,0,0,0
+960361,20 Jun 2025,v Scotland,Glasgow,1,1,1,0,0,1
+960361,8 Oct 2025,v Kuwait,Al Amerat,2,0,0,0,0,0
+960361,10 Oct 2025,v Japan,Al Amerat,1,1,1,0,0,1
+960361,12 Oct 2025,v U.A.E.,Al Amerat,2,0,0,0,0,0
+960361,13 Oct 2025,v Qatar,Al Amerat,2,0,0,0,0,0
+960361,15 Oct 2025,v Oman,Al Amerat,2,0,0,0,0,0
+960361,17 Oct 2025,v Samoa,Al Amerat,2,1,1,0,0,1
+960361,26 Dec 2025,v Sylhet,Sylhet,1,0,0,0,0,0
+960361,27 Dec 2025,v Dhaka,Sylhet,2,0,0,0,0,0
+960361,9 Jan 2026,v Chattogram,Sylhet,2,0,0,0,0,0
+960361,11 Jan 2026,v Rangpur,Sylhet,1,0,0,0,0,0
+960361,8 Feb 2026,v England,Wankhede,1,1,1,0,0,1
+960361,12 Feb 2026,v Italy,Wankhede,2,0,0,0,0,0
+960361,15 Feb 2026,v West Indies,Wankhede,2,0,0,0,0,0
+960361,17 Feb 2026,v Scotland,Wankhede,1,0,0,0,0,0

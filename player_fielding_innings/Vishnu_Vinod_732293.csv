@@ -1,0 +1,73 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+732293,3 Apr 2014,v Karnataka,Visakhapatnam,2,1,1,0,1,0
+732293,4 Apr 2014,v Tamil Nadu,Visakhapatnam,1,1,0,1,0,0
+732293,5 Apr 2014,v Andhra,Vizianagaram,1,1,0,1,0,0
+732293,12 Apr 2014,v Baroda,Wankhede,2,0,0,0,0,0
+732293,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+732293,30 Jan 2017,v Karnataka,Chennai,1,1,1,0,0,1
+732293,31 Jan 2017,v Hyderabad,Chennai,1,0,0,0,0,0
+732293,2 Feb 2017,v Goa,Chennai,1,0,0,0,0,0
+732293,12 Feb 2017,v North Zone,Wankhede,2,1,0,1,0,0
+732293,16 Feb 2017,v West Zone,Wankhede,1,1,1,0,0,1
+732293,18 Feb 2017,v Central Zone,Wankhede,2,0,0,0,0,0
+732293,8 Apr 2017,v Daredevils,Bengaluru,2,0,0,0,0,0
+732293,10 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+732293,14 May 2017,v Daredevils,Delhi,2,2,0,2,0,0
+732293,8 Jan 2018,v Hyderabad,Vizianagaram,1,0,0,0,0,0
+732293,9 Jan 2018,v Tamil Nadu,Visakhapatnam,1,0,0,0,0,0
+732293,12 Jan 2018,v Goa,Visakhapatnam,1,0,0,0,0,0
+732293,14 Jan 2018,v Karnataka,Vizianagaram,1,0,0,0,0,0
+732293,21 Feb 2019,v Manipur,Mulapadu,2,0,0,0,0,0
+732293,24 Feb 2019,v Andhra,Mulapadu,2,0,0,0,0,0
+732293,25 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+732293,27 Feb 2019,v J & K,Mulapadu,2,1,1,0,0,1
+732293,28 Feb 2019,v Nagaland,Mulapadu,1,2,2,0,0,2
+732293,2 Mar 2019,v Jharkhand,Mulapadu,2,0,0,0,0,0
+732293,8 Nov 2019,v Tamil Nadu,Thumba,1,0,0,0,0,0
+732293,11 Nov 2019,v Tripura,Thiruvananthapuram,2,0,0,0,0,0
+732293,12 Nov 2019,v Manipur,Thiruvananthapuram,2,0,0,0,0,0
+732293,14 Nov 2019,v Vidarbha,Thumba,2,0,0,0,0,0
+732293,15 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+732293,17 Nov 2019,v UP,Thiruvananthapuram,2,1,1,0,0,1
+732293,11 Jan 2021,v Puducherry,Wankhede,1,0,0,0,0,0
+732293,13 Jan 2021,v Mumbai,Wankhede,1,1,1,0,0,1
+732293,15 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+732293,17 Jan 2021,v Andhra,Mumbai,2,1,1,0,0,1
+732293,19 Jan 2021,v Haryana,Wankhede,1,1,1,0,0,1
+732293,4 Nov 2021,v Gujarat,Delhi,2,0,0,0,0,0
+732293,5 Nov 2021,v Bihar,Delhi,1,1,1,0,0,1
+732293,6 Nov 2021,v Railways,Delhi,1,1,1,0,0,1
+732293,8 Nov 2021,v Assam,Delhi,1,0,0,0,0,0
+732293,9 Nov 2021,v M. Pradesh,Delhi,1,0,0,0,0,0
+732293,16 Nov 2021,v Himachal,Delhi,1,0,0,0,0,0
+732293,18 Nov 2021,v Tamil Nadu,Delhi,2,0,0,0,0,0
+732293,11 Oct 2022,v Arunachal,New Chandigarh,1,1,1,0,1,0
+732293,12 Oct 2022,v Karnataka,Mohali,2,0,0,0,0,0
+732293,14 Oct 2022,v Haryana,Mohali,1,2,2,0,0,2
+732293,16 Oct 2022,v Services,New Chandigarh,1,0,0,0,0,0
+732293,18 Oct 2022,v Maharashtra,New Chandigarh,1,0,0,0,0,0
+732293,20 Oct 2022,v J & K,Mohali,2,0,0,0,0,0
+732293,22 Oct 2022,v Meghalaya,New Chandigarh,1,2,2,0,0,2
+732293,30 Oct 2022,v Saurashtra,Eden Gardens,1,1,1,0,0,1
+732293,12 May 2023,v GT,Wankhede,2,0,0,0,0,0
+732293,16 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+732293,26 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+732293,16 Oct 2023,v Himachal,Mumbai,2,1,1,0,0,1
+732293,17 Oct 2023,v Services,Mumbai,2,0,0,0,0,0
+732293,19 Oct 2023,v Bihar,DY Patil,1,1,1,0,0,1
+732293,21 Oct 2023,v Chandigarh,DY Patil,2,0,0,0,0,0
+732293,23 Oct 2023,v Sikkim,Mumbai,2,0,0,0,0,0
+732293,25 Oct 2023,v Odisha,DY Patil,2,3,1,2,1,0
+732293,27 Oct 2023,v Assam,Mumbai,2,1,1,0,1,0
+732293,2 Nov 2023,v Assam,Mohali,2,0,0,0,0,0
+732293,23 Nov 2024,v Services,Hyderabad,1,2,2,0,0,2
+732293,25 Nov 2024,v Maharashtra,Hyderabad,2,1,1,0,0,1
+732293,27 Nov 2024,v Nagaland,Hyderabad,1,1,1,0,0,1
+732293,29 Nov 2024,v Mumbai,Hyderabad,2,0,0,0,0,0
+732293,1 Dec 2024,v Goa,Hyderabad,2,0,0,0,0,0
+732293,3 Dec 2024,v Andhra,Hyderabad,2,0,0,0,0,0
+732293,26 Nov 2025,v Odisha,Lucknow,1,2,2,0,0,2
+732293,28 Nov 2025,v Railways,Lucknow,1,1,1,0,0,1
+732293,30 Nov 2025,v Chhattisgarh,Lucknow,1,0,0,0,0,0
+732293,2 Dec 2025,v Vidarbha,Lucknow,2,1,1,0,0,1
+732293,4 Dec 2025,v Mumbai,Lucknow,2,0,0,0,0,0

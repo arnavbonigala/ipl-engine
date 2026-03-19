@@ -1,0 +1,136 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+290727,3 Apr 2007,v Delhi,Delhi,1,1,1,0,0,1
+290727,20 Oct 2009,v Services,Delhi,2,0,0,0,0,0
+290727,21 Oct 2009,v Haryana,Delhi,1,0,0,0,0,0
+290727,22 Oct 2009,v Delhi,Delhi,2,0,0,0,0,0
+290727,24 Oct 2009,v J & K,Delhi,1,0,0,0,0,0
+290727,25 Oct 2009,v Punjab,Delhi,2,0,0,0,0,0
+290727,12 Mar 2010,v Jharkhand,Indore,2,0,0,0,0,0
+290727,14 Mar 2010,v Tamil Nadu,Indore,2,0,0,0,0,0
+290727,20 Oct 2010,v Delhi,Delhi,1,0,0,0,0,0
+290727,21 Oct 2010,v Punjab,Delhi,2,0,0,0,0,0
+290727,22 Oct 2010,v Services,Delhi,2,0,0,0,0,0
+290727,24 Oct 2010,v J & K,Delhi,2,0,0,0,0,0
+290727,25 Oct 2010,v Haryana,Delhi,1,0,0,0,0,0
+290727,20 Oct 2011,v Delhi,Rohtak,1,0,0,0,0,0
+290727,21 Oct 2011,v Punjab,Rohtak,1,0,0,0,0,0
+290727,22 Oct 2011,v Services,Rohtak,2,0,0,0,0,0
+290727,24 Oct 2011,v J & K,Rohtak,2,0,0,0,0,0
+290727,25 Oct 2011,v Haryana,Rohtak,2,0,0,0,0,0
+290727,17 Mar 2013,v Services,Rohtak,2,0,0,0,0,0
+290727,18 Mar 2013,v Haryana,Rohtak,1,0,0,0,0,0
+290727,19 Mar 2013,v Delhi,Rohtak,2,0,0,0,0,0
+290727,21 Mar 2013,v J & K,Gurgaon,1,2,2,0,0,2
+290727,22 Mar 2013,v Punjab,Gurgaon,2,0,0,0,0,0
+290727,9 Apr 2013,v Daredevils,Wankhede,2,1,1,0,0,1
+290727,13 Apr 2013,v Warriors,Wankhede,2,2,2,0,0,2
+290727,17 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+290727,18 May 2013,v Kings XI,Dharamsala,1,0,0,0,0,0
+290727,24 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+290727,26 May 2013,v CSK,Eden Gardens,2,0,0,0,0,0
+290727,21 Sep 2013,v RR,Jaipur,2,0,0,0,0,0
+290727,27 Sep 2013,v Lions,Jaipur,1,1,1,0,0,1
+290727,2 Oct 2013,v Scorchers,Delhi,1,0,0,0,0,0
+290727,5 Oct 2013,v Trinidad & T,Delhi,1,0,0,0,0,0
+290727,6 Oct 2013,v RR,Delhi,2,0,0,0,0,0
+290727,1 Apr 2014,v Delhi,Mohali,2,0,0,0,0,0
+290727,2 Apr 2014,v Punjab,Mohali,2,1,1,0,0,1
+290727,3 Apr 2014,v Services,Mohali,2,1,1,0,0,1
+290727,4 Apr 2014,v J & K,Mohali,2,0,0,0,0,0
+290727,5 Apr 2014,v Haryana,Mohali,2,1,1,0,0,1
+290727,18 Apr 2014,v CSK,Abu Dhabi,1,1,1,0,0,1
+290727,22 Apr 2014,v SRH,Sharjah,2,0,0,0,0,0
+290727,26 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+290727,28 Apr 2014,v RCB,Dubai (DICS),1,0,0,0,0,0
+290727,3 May 2014,v MI,Wankhede,2,0,0,0,0,0
+290727,7 May 2014,v CSK,Cuttack,2,0,0,0,0,0
+290727,11 May 2014,v KKR,Cuttack,2,0,0,0,0,0
+290727,14 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+290727,19 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+290727,21 May 2014,v MI,Mohali,2,0,0,0,0,0
+290727,23 May 2014,v RR,Mohali,2,0,0,0,0,0
+290727,25 May 2014,v Daredevils,Mohali,1,1,1,0,0,1
+290727,27 May 2014,v KKR,Eden Gardens,1,0,0,0,0,0
+290727,24 Mar 2015,v Services,Delhi,1,1,1,0,0,1
+290727,25 Mar 2015,v Haryana,Delhi,2,0,0,0,0,0
+290727,26 Mar 2015,v Delhi,Delhi,2,0,0,0,0,0
+290727,27 Mar 2015,v J & K,Delhi,2,0,0,0,0,0
+290727,28 Mar 2015,v Punjab,Delhi,1,0,0,0,0,0
+290727,1 Apr 2015,v Andhra,Bhubaneswar,2,1,1,0,0,1
+290727,2 Apr 2015,v Gujarat,Bhubaneswar,2,0,0,0,0,0
+290727,3 Apr 2015,v Jharkhand,Bhubaneswar,2,0,0,0,0,0
+290727,12 Apr 2015,v MI,Wankhede,2,0,0,0,0,0
+290727,15 Apr 2015,v Daredevils,Pune,2,0,0,0,0,0
+290727,27 Apr 2015,v SRH,Mohali,1,0,0,0,0,0
+290727,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+290727,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+290727,23 Apr 2016,v SRH,Hyderabad,2,0,0,0,0,0
+290727,21 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+290727,18 Jun 2016,v Zimbabwe,Harare,1,2,2,0,0,2
+290727,29 Jan 2017,v Services,Dharamsala,2,0,0,0,0,0
+290727,30 Jan 2017,v Haryana,Dharamsala,1,0,0,0,0,0
+290727,31 Jan 2017,v Delhi,Nadaun,2,1,1,0,0,1
+290727,1 Feb 2017,v J & K,Nadaun,1,0,0,0,0,0
+290727,2 Feb 2017,v Punjab,Dharamsala,1,1,1,0,0,1
+290727,13 Jan 2018,v Services,Delhi,2,0,0,0,0,0
+290727,14 Jan 2018,v Delhi,Delhi,2,0,0,0,0,0
+290727,15 Jan 2018,v Punjab,Delhi,1,0,0,0,0,0
+290727,21 Feb 2019,v Vidarbha,Surat,2,0,0,0,0,0
+290727,22 Feb 2019,v Meghalaya,Surat,2,0,0,0,0,0
+290727,24 Feb 2019,v Gujarat,Surat,1,0,0,0,0,0
+290727,25 Feb 2019,v Bihar,Surat,1,0,0,0,0,0
+290727,27 Feb 2019,v Tamil Nadu,Surat,1,0,0,0,0,0
+290727,28 Feb 2019,v Rajasthan,Surat,2,0,0,0,0,0
+290727,8 Nov 2019,v Chandigarh,Chandigarh,1,0,0,0,0,0
+290727,9 Nov 2019,v Chhattisgarh,Chandigarh,2,0,0,0,0,0
+290727,11 Nov 2019,v Hyderabad,Chandigarh,2,0,0,0,0,0
+290727,12 Nov 2019,v Punjab,Chandigarh,2,0,0,0,0,0
+290727,14 Nov 2019,v Arunachal,Chandigarh,1,0,0,0,0,0
+290727,15 Nov 2019,v Maharashtra,Chandigarh,2,0,0,0,0,0
+290727,18 Nov 2019,v Railways,Chandigarh,2,0,0,0,0,0
+290727,10 Jan 2021,v Chhattisgarh,Vadodara,2,0,0,0,0,0
+290727,12 Jan 2021,v Baroda,Vadodara,2,0,0,0,0,0
+290727,14 Jan 2021,v Gujarat,Vadodara,2,1,1,0,0,1
+290727,16 Jan 2021,v Uttarakhand,Vadodara,1,1,1,0,0,1
+290727,18 Jan 2021,v Maharashtra,Vadodara,1,1,1,0,0,1
+290727,26 Jan 2021,v Tamil Nadu,Ahmedabad,2,0,0,0,0,0
+290727,4 Nov 2021,v Haryana,Vadodara,2,0,0,0,0,0
+290727,5 Nov 2021,v Jharkhand,Vadodara,2,0,0,0,0,0
+290727,6 Nov 2021,v Rajasthan,Vadodara,2,1,1,0,0,1
+290727,8 Nov 2021,v J & K,Vadodara,2,0,0,0,0,0
+290727,9 Nov 2021,v Andhra,Vadodara,2,0,0,0,0,0
+290727,16 Nov 2021,v Kerala,Delhi,2,0,0,0,0,0
+290727,25 Apr 2022,v CSK,Wankhede,2,1,1,0,0,1
+290727,29 Apr 2022,v LSG,Pune,1,0,0,0,0,0
+290727,3 May 2022,v GT,DY Patil,1,0,0,0,0,0
+290727,7 May 2022,v RR,Wankhede,2,0,0,0,0,0
+290727,13 May 2022,v RCB,Brabourne,2,0,0,0,0,0
+290727,16 May 2022,v DC,DY Patil,1,1,1,0,0,1
+290727,14 Oct 2022,v Bihar,Indore,2,0,0,0,0,0
+290727,18 Oct 2022,v Saurashtra,Indore,2,1,1,0,0,1
+290727,20 Oct 2022,v Baroda,Indore,1,1,1,0,0,1
+290727,22 Oct 2022,v Nagaland,Indore,1,0,0,0,0,0
+290727,1 Nov 2022,v Bengal,Kolkata,1,0,0,0,0,0
+290727,3 Nov 2022,v Punjab,Eden Gardens,2,0,0,0,0,0
+290727,5 Nov 2022,v Mumbai,Eden Gardens,2,0,0,0,0,0
+290727,1 Apr 2023,v KKR,Mohali,2,0,0,0,0,0
+290727,5 Apr 2023,v RR,Guwahati,2,0,0,0,0,0
+290727,13 Apr 2023,v GT,Mohali,2,0,0,0,0,0
+290727,3 May 2023,v MI,Mohali,2,1,1,0,0,1
+290727,8 May 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+290727,13 May 2023,v DC,Delhi,2,0,0,0,0,0
+290727,16 Oct 2023,v Kerala,Mumbai,1,0,0,0,0,0
+290727,17 Oct 2023,v Odisha,Mumbai,1,0,0,0,0,0
+290727,19 Oct 2023,v Chandigarh,Mumbai,1,1,1,0,0,1
+290727,21 Oct 2023,v Bihar,Mumbai,1,1,1,0,0,1
+290727,23 Oct 2023,v Services,DY Patil,2,1,1,0,0,1
+290727,25 Oct 2023,v Assam,DY Patil,1,0,0,0,0,0
+290727,27 Oct 2023,v Sikkim,DY Patil,2,1,1,0,0,1
+290727,19 May 2024,v SRH,Hyderabad,2,0,0,0,0,0
+290727,23 Nov 2024,v Arunachal,Mumbai,1,1,1,0,0,1
+290727,25 Nov 2024,v UP,Wankhede,2,0,0,0,0,0
+290727,27 Nov 2024,v Jharkhand,Wankhede,1,1,1,0,0,1
+290727,29 Nov 2024,v J & K,Mumbai,1,0,0,0,0,0
+290727,1 Dec 2024,v Delhi,Mumbai,2,0,0,0,0,0
+290727,3 Dec 2024,v Haryana,Wankhede,2,0,0,0,0,0
+290727,5 Dec 2024,v Manipur,Mumbai,1,0,0,0,0,0

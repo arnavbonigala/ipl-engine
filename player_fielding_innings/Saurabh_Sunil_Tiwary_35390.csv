@@ -1,0 +1,182 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+35390,3 Apr 2007,v Orissa,Eden Gardens,1,1,1,0,0,1
+35390,4 Apr 2007,v Bengal,Eden Gardens,1,0,0,0,0,0
+35390,5 Apr 2007,v Assam,Eden Gardens,1,0,0,0,0,0
+35390,7 Apr 2007,v Tripura,Eden Gardens,2,0,0,0,0,0
+35390,25 Apr 2008,v Kings XI,Mohali,1,0,0,0,0,0
+35390,4 May 2008,v Daredevils,DY Patil,2,1,1,0,0,1
+35390,7 May 2008,v RR,DY Patil,1,0,0,0,0,0
+35390,27 Apr 2009,v KKR,Gqeberha,2,0,0,0,0,0
+35390,29 Apr 2009,v Kings XI,Durban,1,0,0,0,0,0
+35390,1 May 2009,v KKR,East London,2,0,0,0,0,0
+35390,6 May 2009,v Chargers,Centurion,1,0,0,0,0,0
+35390,20 Oct 2009,v Tripura,Dhanbad,1,1,1,0,0,1
+35390,22 Oct 2009,v Bengal,Dhanbad,1,0,0,0,0,0
+35390,23 Oct 2009,v Assam,Dhanbad,1,1,1,0,0,1
+35390,24 Oct 2009,v Orissa,Dhanbad,1,0,0,0,0,0
+35390,13 Mar 2010,v RR,Brabourne,2,0,0,0,0,0
+35390,17 Mar 2010,v Daredevils,Delhi,2,0,0,0,0,0
+35390,20 Mar 2010,v RCB,Brabourne,2,0,0,0,0,0
+35390,22 Mar 2010,v KKR,Brabourne,1,0,0,0,0,0
+35390,25 Mar 2010,v CSK,Brabourne,1,0,0,0,0,0
+35390,28 Mar 2010,v Chargers,DY Patil,2,0,0,0,0,0
+35390,30 Mar 2010,v Kings XI,Brabourne,1,0,0,0,0,0
+35390,3 Apr 2010,v Chargers,Brabourne,2,0,0,0,0,0
+35390,6 Apr 2010,v CSK,Chennai,1,0,0,0,0,0
+35390,9 Apr 2010,v Kings XI,Mohali,2,1,1,0,0,1
+35390,11 Apr 2010,v RR,Jaipur,2,0,0,0,0,0
+35390,13 Apr 2010,v Daredevils,Brabourne,2,0,0,0,0,0
+35390,17 Apr 2010,v RCB,Bengaluru,2,1,1,0,0,1
+35390,19 Apr 2010,v KKR,Eden Gardens,2,0,0,0,0,0
+35390,21 Apr 2010,v RCB,DY Patil,2,0,0,0,0,0
+35390,25 Apr 2010,v CSK,DY Patil,1,1,1,0,0,1
+35390,14 Sep 2010,v South Aust,Durban,2,2,2,0,0,2
+35390,16 Sep 2010,v Guyana,Durban,2,1,1,0,0,1
+35390,19 Sep 2010,v RCB,Durban,2,0,0,0,0,0
+35390,9 Apr 2011,v Kochi,Kochi,1,1,1,0,0,1
+35390,12 Apr 2011,v MI,Bengaluru,2,0,0,0,0,0
+35390,14 Apr 2011,v Chargers,Hyderabad,1,1,1,0,0,1
+35390,16 Apr 2011,v CSK,Chennai,1,0,0,0,0,0
+35390,22 Apr 2011,v KKR,Eden Gardens,1,0,0,0,0,0
+35390,26 Apr 2011,v Daredevils,Delhi,1,0,0,0,0,0
+35390,29 Apr 2011,v Warriors,Bengaluru,2,1,1,0,0,1
+35390,6 May 2011,v Kings XI,Bengaluru,2,1,1,0,0,1
+35390,8 May 2011,v Kochi,Bengaluru,1,0,0,0,0,0
+35390,11 May 2011,v RR,Jaipur,1,0,0,0,0,0
+35390,14 May 2011,v KKR,Bengaluru,1,0,0,0,0,0
+35390,17 May 2011,v Kings XI,Dharamsala,1,1,1,0,0,1
+35390,22 May 2011,v CSK,Bengaluru,1,0,0,0,0,0
+35390,24 May 2011,v CSK,Wankhede,2,0,0,0,0,0
+35390,27 May 2011,v MI,Chennai,2,0,0,0,0,0
+35390,28 May 2011,v CSK,Chennai,1,0,0,0,0,0
+35390,23 Sep 2011,v Warriors,Bengaluru,2,0,0,0,0,0
+35390,29 Sep 2011,v KKR,Bengaluru,2,0,0,0,0,0
+35390,3 Oct 2011,v Somerset,Bengaluru,2,1,1,0,0,1
+35390,5 Oct 2011,v South Aust,Bengaluru,1,0,0,0,0,0
+35390,7 Oct 2011,v NSW,Bengaluru,1,0,0,0,0,0
+35390,9 Oct 2011,v MI,Chennai,1,0,0,0,0,0
+35390,23 Oct 2011,v Orissa,Jamshedpur,1,0,0,0,0,0
+35390,24 Oct 2011,v Assam,Jamshedpur,1,0,0,0,0,0
+35390,7 Apr 2012,v Daredevils,Bengaluru,2,0,0,0,0,0
+35390,10 Apr 2012,v KKR,Bengaluru,1,0,0,0,0,0
+35390,12 Apr 2012,v CSK,Chennai,2,0,0,0,0,0
+35390,15 Apr 2012,v RR,Bengaluru,1,0,0,0,0,0
+35390,17 Apr 2012,v Warriors,Bengaluru,1,0,0,0,0,0
+35390,20 Apr 2012,v Kings XI,Mohali,1,0,0,0,0,0
+35390,23 Apr 2012,v RR,Jaipur,2,0,0,0,0,0
+35390,25 Apr 2012,v CSK,Bengaluru,-,TDNF,-,-,-,-
+35390,28 Apr 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+35390,2 May 2012,v Kings XI,Bengaluru,2,0,0,0,0,0
+35390,9 May 2012,v MI,Wankhede,1,0,0,0,0,0
+35390,11 May 2012,v Warriors,Pune,2,1,1,0,0,1
+35390,14 May 2012,v MI,Bengaluru,2,0,0,0,0,0
+35390,17 May 2012,v Daredevils,Delhi,2,2,2,0,0,2
+35390,20 May 2012,v Chargers,Hyderabad,1,0,0,0,0,0
+35390,18 Mar 2013,v Tripura,Agartala,1,2,2,0,0,2
+35390,19 Mar 2013,v Bengal,Agartala,1,2,2,0,0,2
+35390,20 Mar 2013,v Odisha,Agartala,1,1,1,0,0,1
+35390,21 Mar 2013,v Assam,Agartala,2,0,0,0,0,0
+35390,20 Apr 2013,v RR,Bengaluru,1,0,0,0,0,0
+35390,23 Apr 2013,v Warriors,Bengaluru,2,0,0,0,0,0
+35390,27 Apr 2013,v MI,Wankhede,1,1,1,0,0,1
+35390,29 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+35390,2 May 2013,v Warriors,Pune,2,0,0,0,0,0
+35390,6 May 2013,v Kings XI,Mohali,2,0,0,0,0,0
+35390,10 May 2013,v Daredevils,Delhi,2,0,0,0,0,0
+35390,12 May 2013,v KKR,Ranchi,2,0,0,0,0,0
+35390,18 May 2013,v CSK,Bengaluru,2,1,1,0,0,1
+35390,2 Apr 2014,v Tripura,Eden Gardens,2,0,0,0,0,0
+35390,3 Apr 2014,v Bengal,Eden Gardens,2,0,0,0,0,0
+35390,4 Apr 2014,v Odisha,Eden Gardens,1,2,2,0,0,2
+35390,5 Apr 2014,v Assam,Jadavpur Uni,1,0,0,0,0,0
+35390,26 Mar 2015,v Tripura,Cuttack,2,0,0,0,0,0
+35390,27 Mar 2015,v Bengal,Cuttack,1,0,0,0,0,0
+35390,28 Mar 2015,v Odisha,Cuttack,1,0,0,0,0,0
+35390,29 Mar 2015,v Assam,Cuttack,1,1,1,0,0,1
+35390,1 May 2015,v Kings XI,Delhi,1,2,2,0,0,2
+35390,3 May 2015,v RR,Brabourne,1,0,0,0,0,0
+35390,5 May 2015,v MI,Wankhede,2,0,0,0,0,0
+35390,7 May 2015,v KKR,Eden Gardens,1,2,2,0,0,2
+35390,9 May 2015,v SRH,Raipur,1,1,1,0,0,1
+35390,12 May 2015,v CSK,Raipur,1,0,0,0,0,0
+35390,17 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+35390,3 Jan 2016,v Tripura,Kochi,1,0,0,0,0,0
+35390,4 Jan 2016,v Rajasthan,Kochi,1,3,3,0,0,3
+35390,7 Jan 2016,v J & K,Kochi,2,2,2,0,0,2
+35390,9 Jan 2016,v Saurashtra,Kochi,1,1,1,0,0,1
+35390,10 Jan 2016,v Kerala,Kochi,1,1,1,0,0,1
+35390,15 Jan 2016,v UP,Mumbai,2,0,0,0,0,0
+35390,16 Jan 2016,v Delhi,Mumbai,2,0,0,0,0,0
+35390,18 Jan 2016,v Gujarat,Mumbai,2,0,0,0,0,0
+35390,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+35390,26 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+35390,29 Apr 2016,v Guj Lions,Pune,2,0,0,0,0,0
+35390,1 May 2016,v MI,Pune,2,0,0,0,0,0
+35390,5 May 2016,v Daredevils,Delhi,1,0,0,0,0,0
+35390,7 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+35390,10 May 2016,v SRH,Visakhapatnam,1,3,3,0,0,3
+35390,14 May 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+35390,17 May 2016,v Daredevils,Visakhapatnam,1,0,0,0,0,0
+35390,21 May 2016,v Kings XI,Visakhapatnam,1,1,1,0,0,1
+35390,29 Jan 2017,v Assam,Eden Gardens,2,1,1,0,0,1
+35390,31 Jan 2017,v Odisha,Eden Gardens,2,0,0,0,0,0
+35390,1 Feb 2017,v Tripura,Eden Gardens,1,0,0,0,0,0
+35390,5 Feb 2017,v Bengal,Eden Gardens,2,0,0,0,0,0
+35390,13 Feb 2017,v Central Zone,Wankhede,1,1,1,0,0,1
+35390,15 Feb 2017,v South Zone,Wankhede,1,3,3,0,0,3
+35390,16 Feb 2017,v North Zone,Wankhede,1,2,2,0,0,2
+35390,18 Feb 2017,v West Zone,Wankhede,1,0,0,0,0,0
+35390,13 May 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+35390,10 Jan 2018,v Tripura,Ranchi,2,2,2,0,0,2
+35390,12 Jan 2018,v Bengal,Ranchi,2,0,0,0,0,0
+35390,14 Jan 2018,v Assam,Ranchi,1,1,1,0,0,1
+35390,16 Jan 2018,v Odisha,Ranchi,1,0,0,0,0,0
+35390,21 Jan 2018,v Mumbai,Kolkata,1,1,1,0,0,1
+35390,22 Jan 2018,v Rajasthan,Kolkata,2,0,0,0,0,0
+35390,23 Jan 2018,v Punjab,Eden Gardens,1,0,0,0,0,0
+35390,24 Jan 2018,v Karnataka,Eden Gardens,1,0,0,0,0,0
+35390,21 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+35390,22 Feb 2019,v J & K,Mulapadu,1,0,0,0,0,0
+35390,24 Feb 2019,v Manipur,Mulapadu,2,0,0,0,0,0
+35390,28 Feb 2019,v Andhra,Mulapadu,1,1,1,0,0,1
+35390,2 Mar 2019,v Kerala,Mulapadu,1,0,0,0,0,0
+35390,8 Mar 2019,v Gujarat,Indore,2,0,0,0,0,0
+35390,9 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+35390,10 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+35390,11 Mar 2019,v Maharashtra,Indore,1,1,1,0,0,1
+35390,9 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+35390,11 Nov 2019,v J & K,Surat,2,1,1,0,0,1
+35390,12 Nov 2019,v Sikkim,Surat,1,1,1,0,0,1
+35390,14 Nov 2019,v Nagaland,Surat,1,0,0,0,0,0
+35390,15 Nov 2019,v Delhi,Surat,1,0,0,0,0,0
+35390,17 Nov 2019,v Gujarat,Surat,1,1,1,0,0,1
+35390,21 Nov 2019,v Punjab,Surat,1,2,2,0,0,2
+35390,22 Nov 2019,v Karnataka,Surat,1,0,0,0,0,0
+35390,24 Nov 2019,v Mumbai,Surat,2,0,0,0,0,0
+35390,27 Nov 2019,v Tamil Nadu,Surat,2,0,0,0,0,0
+35390,19 Sep 2020,v CSK,Abu Dhabi,2,0,0,0,0,0
+35390,23 Sep 2020,v KKR,Abu Dhabi,2,0,0,0,0,0
+35390,23 Oct 2020,v CSK,Sharjah,1,0,0,0,0,0
+35390,25 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+35390,28 Oct 2020,v RCB,Abu Dhabi,1,1,1,0,0,1
+35390,31 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+35390,3 Nov 2020,v SRH,Sharjah,2,0,0,0,0,0
+35390,10 Jan 2021,v Tamil Nadu,Eden Gardens,1,0,0,0,0,0
+35390,14 Jan 2021,v Assam,Jadavpur Uni,2,1,1,0,0,1
+35390,16 Jan 2021,v Odisha,Eden Gardens,2,0,0,0,0,0
+35390,18 Jan 2021,v Hyderabad,Eden Gardens,1,0,0,0,0,0
+35390,19 Sep 2021,v CSK,Dubai (DICS),1,1,1,0,0,1
+35390,23 Sep 2021,v KKR,Abu Dhabi,2,0,0,0,0,0
+35390,28 Sep 2021,v Punjab Kings,Abu Dhabi,1,0,0,0,0,0
+35390,2 Oct 2021,v DC,Sharjah,2,0,0,0,0,0
+35390,5 Oct 2021,v RR,Sharjah,1,0,0,0,0,0
+35390,4 Nov 2021,v Rajasthan,Vadodara,2,0,0,0,0,0
+35390,5 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+35390,6 Nov 2021,v Andhra,Vadodara,1,0,0,0,0,0
+35390,8 Nov 2021,v Haryana,Vadodara,2,1,1,0,0,1
+35390,9 Nov 2021,v J & K,Vadodara,1,0,0,0,0,0
+35390,17 Oct 2023,v Puducherry,Mohali,1,0,0,0,0,0
+35390,19 Oct 2023,v Uttarakhand,Mohali,2,0,0,0,0,0
+35390,21 Oct 2023,v Rajasthan,New Chandigarh,1,0,0,0,0,0
+35390,23 Oct 2023,v Maharashtra,Mohali,2,0,0,0,0,0
+35390,25 Oct 2023,v Bengal,New Chandigarh,1,1,1,0,0,1

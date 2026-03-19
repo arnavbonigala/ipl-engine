@@ -1,0 +1,421 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+8917,22 Jun 2007,v Northants,Northampton,-,TDNF,-,-,-,-
+8917,25 Jun 2007,v Gloucs,Bristol,2,0,0,0,0,0
+8917,29 Jun 2007,v Northants,Kidderminster,2,0,0,0,0,0
+8917,1 Jul 2007,v Gloucs,Kidderminster,1,0,0,0,0,0
+8917,12 Jun 2008,v Gloucs,Worcester,1,0,0,0,0,0
+8917,13 Jun 2008,v Northants,Northampton,1,0,0,0,0,0
+8917,17 Jun 2008,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,22 Jun 2008,v Somerset,Taunton,1,0,0,0,0,0
+8917,24 Jun 2008,v Northants,Worcester,1,0,0,0,0,0
+8917,25 Jun 2008,v Gloucs,Bristol,2,0,0,0,0,0
+8917,27 Jun 2008,v Glamorgan,Worcester,2,0,0,0,0,0
+8917,25 May 2009,v Gloucs,Worcester,2,0,0,0,0,0
+8917,29 May 2009,v Warwickshire,Birmingham,2,0,0,0,0,0
+8917,30 May 2009,v Northants,Worcester,2,0,0,0,0,0
+8917,1 Jun 2009,v Gloucs,Bristol,2,1,1,0,0,1
+8917,3 Jun 2009,v Somerset,Worcester,2,0,0,0,0,0
+8917,4 Jun 2009,v Glamorgan,Cardiff,2,0,0,0,0,0
+8917,23 Jun 2009,v Somerset,Taunton,2,1,1,0,0,1
+8917,24 Jun 2009,v Glamorgan,Worcester,2,0,0,0,0,0
+8917,26 Jun 2009,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,28 Jun 2009,v Northants,Northampton,2,0,0,0,0,0
+8917,4 Jun 2010,v Yorkshire,Worcester,2,0,0,0,0,0
+8917,6 Jun 2010,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+8917,10 Jun 2010,v Notts,Worcester,2,0,0,0,0,0
+8917,11 Jun 2010,v Northants,Northampton,1,0,0,0,0,0
+8917,13 Jun 2010,v Notts,Nottingham,2,0,0,0,0,0
+8917,18 Jun 2010,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,21 Jun 2010,v Derbyshire,Derby,2,0,0,0,0,0
+8917,22 Jun 2010,v Yorkshire,Leeds,1,2,2,0,0,2
+8917,25 Jun 2010,v Northants,Worcester,1,0,0,0,0,0
+8917,27 Jun 2010,v Derbyshire,Worcester,1,1,1,0,0,1
+8917,5 Jul 2010,v Lancashire,Manchester,1,1,1,0,0,1
+8917,7 Jul 2010,v Leics,Leicester,1,0,0,0,0,0
+8917,9 Jul 2010,v Durham,Worcester,1,1,1,0,0,1
+8917,11 Jul 2010,v Leics,Worcester,1,1,1,0,0,1
+8917,16 Jul 2010,v Warwickshire,Birmingham,1,1,1,0,0,1
+8917,18 Jul 2010,v Lancashire,Worcester,1,0,0,0,0,0
+8917,3 Jun 2011,v Lancashire,Manchester,1,0,0,0,0,0
+8917,9 Jun 2011,v Yorkshire,Leeds,1,1,1,0,0,1
+8917,10 Jun 2011,v Northants,Worcester,1,2,2,0,0,2
+8917,15 Jun 2011,v Derbyshire,Derby,2,0,0,0,0,0
+8917,17 Jun 2011,v Warwickshire,Birmingham,1,1,1,0,0,1
+8917,25 Jun 2011,v Leics,Leicester,1,0,0,0,0,0
+8917,26 Jun 2011,v Yorkshire,Worcester,2,0,0,0,0,0
+8917,29 Jun 2011,v Northants,Milton Keynes,1,0,0,0,0,0
+8917,1 Jul 2011,v Leics,Worcester,2,0,0,0,0,0
+8917,3 Jul 2011,v Durham,Chester-le-Street,1,0,0,0,0,0
+8917,5 Jul 2011,v Notts,Worcester,1,0,0,0,0,0
+8917,8 Jul 2011,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,15 Jul 2011,v Notts,Nottingham,1,1,1,0,0,1
+8917,17 Jun 2012,v Gloucs,Worcester,2,0,0,0,0,0
+8917,22 Jun 2012,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,23 Jun 2012,v Northants,Northampton,2,1,1,0,0,1
+8917,29 Jun 2012,v Glamorgan,Worcester,2,0,0,0,0,0
+8917,1 Jul 2012,v Somerset,Taunton,2,1,1,0,0,1
+8917,5 Jul 2012,v Gloucs,Bristol,2,0,0,0,0,0
+8917,8 Jul 2012,v Somerset,Worcester,2,1,1,0,0,1
+8917,25 Jul 2012,v Yorkshire,Leeds,1,1,1,0,0,1
+8917,9 Dec 2012,v Mountaineers,Mutare,1,0,0,0,0,0
+8917,19 Jan 2013,v Chittagong,Mirpur,2,0,0,0,0,0
+8917,20 Jan 2013,v Royals,Mirpur,2,0,0,0,0,0
+8917,22 Jan 2013,v Dhaka,Khulna,1,0,0,0,0,0
+8917,24 Jan 2013,v Khulna,Khulna,1,0,0,0,0,0
+8917,28 Jan 2013,v Barisal,Chattogram,2,1,1,0,0,1
+8917,28 Jun 2013,v Glamorgan,Worcester,1,0,0,0,0,0
+8917,30 Jun 2013,v Gloucs,Bristol,1,0,0,0,0,0
+8917,7 Jul 2013,v Gloucs,Worcester,1,0,0,0,0,0
+8917,12 Jul 2013,v Warwickshire,Worcester,2,0,0,0,0,0
+8917,14 Jul 2013,v Somerset,Taunton,2,1,1,0,0,1
+8917,21 Jul 2013,v Northants,Worcester,1,0,0,0,0,0
+8917,23 Jul 2013,v Glamorgan,Cardiff,2,0,0,0,0,0
+8917,26 Jul 2013,v Warwickshire,Birmingham,2,0,0,0,0,0
+8917,27 Jul 2013,v Somerset,Worcester,1,0,0,0,0,0
+8917,30 Jul 2013,v Northants,Northampton,2,0,0,0,0,0
+8917,11 Mar 2014,v West Indies,Bridgetown,2,0,0,0,0,0
+8917,13 Mar 2014,v West Indies,Bridgetown,2,0,0,0,0,0
+8917,22 Mar 2014,v New Zealand,Chattogram,2,0,0,0,0,0
+8917,27 Mar 2014,v Sri Lanka,Chattogram,1,0,0,0,0,0
+8917,29 Mar 2014,v South Africa,Chattogram,1,1,1,0,0,1
+8917,31 Mar 2014,v Netherlands,Chattogram,1,0,0,0,0,0
+8917,16 May 2014,v Durham,Chester-le-Street,1,1,1,0,0,1
+8917,17 May 2014,v Lancashire,Manchester,1,0,0,0,0,0
+8917,23 May 2014,v Notts,Nottingham,2,1,1,0,0,1
+8917,30 May 2014,v Northants,Worcester,1,0,0,0,0,0
+8917,7 Sep 2014,v India,Birmingham,2,0,0,0,0,0
+8917,5 Jun 2015,v Northants,Northampton,2,2,2,0,0,2
+8917,7 Jun 2015,v Notts,Worcester,1,0,0,0,0,0
+8917,12 Jun 2015,v Durham,Chester-le-Street,2,0,0,0,0,0
+8917,18 Jun 2015,v Lancashire,Manchester,1,0,0,0,0,0
+8917,19 Jun 2015,v Derbyshire,Worcester,1,0,0,0,0,0
+8917,26 Jun 2015,v Northants,Worcester,1,2,2,0,0,2
+8917,14 Aug 2015,v Hampshire,Worcester,1,0,0,0,0,0
+8917,31 Aug 2015,v Australia,Cardiff,2,0,0,0,0,0
+8917,26 Nov 2015,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+8917,30 Nov 2015,v Pakistan,Sharjah,2,0,0,0,0,0
+8917,19 Feb 2016,v South Africa,Cape Town,2,0,0,0,0,0
+8917,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+8917,16 Mar 2016,v West Indies,Wankhede,2,1,1,0,0,1
+8917,18 Mar 2016,v South Africa,Wankhede,1,0,0,0,0,0
+8917,23 Mar 2016,v Afghanistan,Delhi,2,0,0,0,0,0
+8917,26 Mar 2016,v Sri Lanka,Delhi,2,0,0,0,0,0
+8917,30 Mar 2016,v New Zealand,Delhi,1,2,2,0,0,2
+8917,3 Apr 2016,v West Indies,Eden Gardens,2,0,0,0,0,0
+8917,3 Jun 2016,v Northants,Northampton,2,1,1,0,0,1
+8917,18 Jun 2016,v Notts,Worcester,2,0,0,0,0,0
+8917,7 Sep 2016,v Pakistan,Manchester,2,1,1,0,0,1
+8917,26 Jan 2017,v India,Kanpur,1,0,0,0,0,0
+8917,29 Jan 2017,v India,Nagpur,1,0,0,0,0,0
+8917,1 Feb 2017,v India,Bengaluru,1,0,0,0,0,0
+8917,7 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+8917,12 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+8917,14 May 2018,v Kings XI,Indore,1,0,0,0,0,0
+8917,17 May 2018,v SRH,Bengaluru,2,0,0,0,0,0
+8917,19 May 2018,v RR,Jaipur,1,2,2,0,0,2
+8917,27 Jun 2018,v Australia,Birmingham,2,1,1,0,0,1
+8917,3 Jul 2018,v India,Manchester,2,0,0,0,0,0
+8917,20 Jul 2018,v Durham,Chester-le-Street,2,0,0,0,0,0
+8917,27 Jul 2018,v Northants,Northampton,1,0,0,0,0,0
+8917,3 Aug 2018,v Durham,Worcester,1,1,1,0,0,1
+8917,4 Aug 2018,v Notts,Nottingham,2,2,2,0,0,2
+8917,12 Aug 2018,v Notts,Worcester,2,1,1,0,0,1
+8917,17 Aug 2018,v Bears,Birmingham,2,1,1,0,0,1
+8917,25 Aug 2018,v Gloucs,Worcester,1,1,1,0,0,1
+8917,15 Sep 2018,v Lancashire,Birmingham,2,0,0,0,0,0
+8917,15 Sep 2018,v Sussex,Birmingham,1,0,0,0,0,0
+8917,27 Oct 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+8917,23 Mar 2019,v CSK,Chennai,2,0,0,0,0,0
+8917,28 Mar 2019,v MI,Bengaluru,1,1,1,0,0,1
+8917,31 Mar 2019,v SRH,Hyderabad,1,0,0,0,0,0
+8917,2 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+8917,5 Apr 2019,v KKR,Bengaluru,2,0,0,0,0,0
+8917,7 Apr 2019,v DC,Bengaluru,2,0,0,0,0,0
+8917,13 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+8917,15 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+8917,19 Apr 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+8917,21 Apr 2019,v CSK,Bengaluru,2,0,0,0,0,0
+8917,24 Apr 2019,v Kings XI,Bengaluru,2,0,0,0,0,0
+8917,18 Jul 2019,v Notts,Nottingham,2,0,0,0,0,0
+8917,23 Aug 2019,v Bears,Birmingham,1,1,1,0,0,1
+8917,25 Aug 2019,v Lancashire,Worcester,1,0,0,0,0,0
+8917,30 Aug 2019,v Northants,Northampton,2,0,0,0,0,0
+8917,6 Sep 2019,v Sussex,Hove,1,1,1,0,0,1
+8917,21 Sep 2019,v Notts,Birmingham,2,1,1,0,0,1
+8917,21 Sep 2019,v Essex,Birmingham,2,0,0,0,0,0
+8917,8 Nov 2019,v Jozi Stars,Johannesburg,2,0,0,0,0,0
+8917,10 Nov 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+8917,12 Feb 2020,v South Africa,East London,1,1,1,0,0,1
+8917,14 Feb 2020,v South Africa,Durban,2,0,0,0,0,0
+8917,16 Feb 2020,v South Africa,Centurion,1,0,0,0,0,0
+8917,21 Feb 2020,v Qalandars,Lahore,1,0,0,0,0,0
+8917,22 Feb 2020,v United,Lahore,2,0,0,0,0,0
+8917,26 Feb 2020,v Zalmi,Multan,1,0,0,0,0,0
+8917,28 Feb 2020,v Kings,Multan,2,1,1,0,0,1
+8917,29 Feb 2020,v Gladiators,Multan,2,2,2,0,0,2
+8917,6 Mar 2020,v Kings,Lahore,-,TDNF,-,-,-,-
+8917,8 Mar 2020,v United,Rawalpindi,1,1,1,0,0,1
+8917,13 Mar 2020,v Zalmi,Karachi,2,2,2,0,0,2
+8917,15 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+8917,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+8917,30 Aug 2020,v Pakistan,Manchester,1,0,0,0,0,0
+8917,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+8917,4 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+8917,6 Sep 2020,v Australia,Southampton,1,0,0,0,0,0
+8917,8 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+8917,5 Oct 2020,v DC,Dubai (DICS),1,1,1,0,0,1
+8917,25 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+8917,6 Nov 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+8917,10 Apr 2021,v DC,Wankhede,2,1,1,0,0,1
+8917,16 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+8917,19 Apr 2021,v RR,Wankhede,2,0,0,0,0,0
+8917,21 Apr 2021,v KKR,Wankhede,2,0,0,0,0,0
+8917,28 Apr 2021,v SRH,Delhi,1,0,0,0,0,0
+8917,1 May 2021,v MI,Delhi,2,1,1,0,0,1
+8917,9 Jun 2021,v Notts,Worcester,2,1,1,0,0,1
+8917,11 Jun 2021,v Northants,Northampton,2,0,0,0,0,0
+8917,13 Jun 2021,v Lancashire,Worcester,1,0,0,0,0,0
+8917,16 Jun 2021,v Yorkshire,Worcester,1,0,0,0,0,0
+8917,26 Jun 2021,v Sri Lanka,Southampton,2,1,1,0,0,1
+8917,16 Jul 2021,v Pakistan,Nottingham,1,0,0,0,0,0
+8917,18 Jul 2021,v Pakistan,Leeds,2,0,0,0,0,0
+8917,20 Jul 2021,v Pakistan,Manchester,1,0,0,0,0,0
+8917,23 Jul 2021,v Spirit,Birmingham,1,2,2,0,0,2
+8917,25 Jul 2021,v Originals,Manchester,2,0,0,0,0,0
+8917,30 Jul 2021,v Brave,Southampton,2,0,0,0,0,0
+8917,1 Aug 2021,v Rockets,Birmingham,1,0,0,0,0,0
+8917,4 Aug 2021,v Invincibles,Birmingham,1,0,0,0,0,0
+8917,9 Aug 2021,v Fire,Birmingham,2,1,1,0,0,1
+8917,21 Aug 2021,v Brave,Lord's,1,0,0,0,0,0
+8917,19 Sep 2021,v MI,Dubai (DICS),2,0,0,0,0,0
+8917,24 Sep 2021,v RCB,Sharjah,1,0,0,0,0,0
+8917,26 Sep 2021,v KKR,Abu Dhabi,1,0,0,0,0,0
+8917,30 Sep 2021,v SRH,Sharjah,1,1,1,0,0,1
+8917,2 Oct 2021,v RR,Abu Dhabi,2,0,0,0,0,0
+8917,4 Oct 2021,v DC,Dubai (DICS),2,3,3,0,0,3
+8917,7 Oct 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+8917,10 Oct 2021,v DC,Dubai (DICS),1,0,0,0,0,0
+8917,15 Oct 2021,v KKR,Dubai (DICS),2,1,1,0,0,1
+8917,23 Oct 2021,v West Indies,Dubai (DICS),1,1,1,0,0,1
+8917,27 Oct 2021,v Bangladesh,Abu Dhabi,1,0,0,0,0,0
+8917,30 Oct 2021,v Australia,Dubai (DICS),1,0,0,0,0,0
+8917,1 Nov 2021,v Sri Lanka,Sharjah,2,1,1,0,0,1
+8917,6 Nov 2021,v South Africa,Sharjah,1,0,0,0,0,0
+8917,10 Nov 2021,v New Zealand,Abu Dhabi,2,1,1,0,0,1
+8917,22 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+8917,23 Jan 2022,v West Indies,Bridgetown,2,1,1,0,0,1
+8917,26 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+8917,29 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+8917,30 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+8917,3 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+8917,7 Feb 2022,v Barishal,Sylhet,1,0,0,0,0,0
+8917,9 Feb 2022,v Sunrisers,Sylhet,1,0,0,0,0,0
+8917,11 Feb 2022,v Khulna,Mirpur,2,0,0,0,0,0
+8917,12 Feb 2022,v Khulna,Mirpur,2,0,0,0,0,0
+8917,14 Feb 2022,v Barishal,Mirpur,1,0,0,0,0,0
+8917,16 Feb 2022,v Chattogram,Mirpur,1,1,1,0,0,1
+8917,18 Feb 2022,v Barishal,Mirpur,2,0,0,0,0,0
+8917,31 Mar 2022,v LSG,Brabourne,2,0,0,0,0,0
+8917,3 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+8917,9 Apr 2022,v SRH,DY Patil,2,1,1,0,0,1
+8917,12 Apr 2022,v RCB,DY Patil,2,0,0,0,0,0
+8917,17 Apr 2022,v GT,Pune,2,2,2,0,0,2
+8917,4 May 2022,v RCB,Pune,1,0,0,0,0,0
+8917,8 May 2022,v DC,DY Patil,2,1,1,0,0,1
+8917,12 May 2022,v MI,Wankhede,2,0,0,0,0,0
+8917,15 May 2022,v GT,Wankhede,2,0,0,0,0,0
+8917,20 May 2022,v RR,Brabourne,2,1,1,0,0,1
+8917,3 Jun 2022,v Bears,Worcester,2,0,0,0,0,0
+8917,5 Jun 2022,v Leics,Worcester,1,1,1,0,0,1
+8917,9 Jun 2022,v Northants,Northampton,1,1,1,0,0,1
+8917,10 Jun 2022,v Derbyshire,Worcester,1,0,0,0,0,0
+8917,24 Jun 2022,v Bears,Birmingham,1,1,1,0,0,1
+8917,1 Jul 2022,v Lancashire,Worcester,2,0,0,0,0,0
+8917,3 Jul 2022,v Notts,Worcester,2,0,0,0,0,0
+8917,7 Jul 2022,v India,Southampton,1,0,0,0,0,0
+8917,9 Jul 2022,v India,Birmingham,1,0,0,0,0,0
+8917,10 Jul 2022,v India,Nottingham,2,0,0,0,0,0
+8917,27 Jul 2022,v South Africa,Bristol,2,0,0,0,0,0
+8917,28 Jul 2022,v South Africa,Cardiff,1,0,0,0,0,0
+8917,31 Jul 2022,v South Africa,Southampton,1,0,0,0,0,0
+8917,6 Aug 2022,v Rockets,Nottingham,2,0,0,0,0,0
+8917,10 Aug 2022,v Brave,Birmingham,2,0,0,0,0,0
+8917,13 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+8917,15 Aug 2022,v Rockets,Birmingham,1,1,1,0,0,1
+8917,19 Aug 2022,v N S-Chargers,Birmingham,1,0,0,0,0,0
+8917,23 Aug 2022,v Invincibles,The Oval,2,0,0,0,0,0
+8917,28 Aug 2022,v Originals,Birmingham,1,1,1,0,0,1
+8917,30 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+8917,20 Sep 2022,v Pakistan,Karachi,1,0,0,0,0,0
+8917,22 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+8917,23 Sep 2022,v Pakistan,Karachi,2,0,0,0,0,0
+8917,25 Sep 2022,v Pakistan,Karachi,1,1,1,0,0,1
+8917,28 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+8917,30 Sep 2022,v Pakistan,Lahore,1,0,0,0,0,0
+8917,2 Oct 2022,v Pakistan,Lahore,2,0,0,0,0,0
+8917,9 Oct 2022,v Australia,Perth,2,0,0,0,0,0
+8917,12 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+8917,14 Oct 2022,v Australia,Canberra,2,0,0,0,0,0
+8917,22 Oct 2022,v Afghanistan,Perth,1,1,1,0,0,1
+8917,26 Oct 2022,v Ireland,Melbourne,1,0,0,0,0,0
+8917,1 Nov 2022,v New Zealand,Brisbane,2,0,0,0,0,0
+8917,5 Nov 2022,v Sri Lanka,Sydney,1,0,0,0,0,0
+8917,10 Nov 2022,v India,Adelaide,1,0,0,0,0,0
+8917,13 Nov 2022,v Pakistan,Melbourne,1,0,0,0,0,0
+8917,12 Feb 2023,v Strikers,Mirpur,1,0,0,0,0,0
+8917,16 Feb 2023,v Strikers,Mirpur,1,0,0,0,0,0
+8917,9 Mar 2023,v Bangladesh,Chattogram,2,0,0,0,0,0
+8917,12 Mar 2023,v Bangladesh,Mirpur,2,1,1,0,0,1
+8917,14 Mar 2023,v Bangladesh,Mirpur,1,0,0,0,0,0
+8917,31 Mar 2023,v GT,Ahmedabad,2,0,0,0,0,0
+8917,3 Apr 2023,v LSG,Chennai,2,0,0,0,0,0
+8917,12 Apr 2023,v RR,Chennai,1,0,0,0,0,0
+8917,17 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+8917,21 Apr 2023,v SRH,Chennai,1,0,0,0,0,0
+8917,23 Apr 2023,v KKR,Eden Gardens,2,0,0,0,0,0
+8917,27 Apr 2023,v RR,Jaipur,1,0,0,0,0,0
+8917,30 Apr 2023,v Punjab Kings,Chennai,2,0,0,0,0,0
+8917,3 May 2023,v LSG,Lucknow,1,2,2,0,0,2
+8917,6 May 2023,v MI,Chennai,1,0,0,0,0,0
+8917,10 May 2023,v DC,Chennai,2,0,0,0,0,0
+8917,14 May 2023,v KKR,Chennai,2,0,0,0,0,0
+8917,20 May 2023,v DC,Delhi,2,2,2,0,0,2
+8917,23 May 2023,v GT,Chennai,2,0,0,0,0,0
+8917,28 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+8917,2 Jun 2023,v Derbyshire,Derby,1,0,0,0,0,0
+8917,3 Jun 2023,v Notts,Birmingham,1,0,0,0,0,0
+8917,7 Jun 2023,v Derbyshire,Birmingham,2,0,0,0,0,0
+8917,9 Jun 2023,v Northants,Birmingham,2,1,1,0,0,1
+8917,7 Aug 2023,v Originals,Manchester,1,1,1,0,0,1
+8917,10 Aug 2023,v Fire,Birmingham,2,0,0,0,0,0
+8917,13 Aug 2023,v Invincibles,Birmingham,2,1,1,0,0,1
+8917,16 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+8917,19 Aug 2023,v Rockets,Nottingham,1,1,1,0,0,1
+8917,24 Aug 2023,v Spirit,Birmingham,2,1,1,0,0,1
+8917,30 Aug 2023,v New Zealand,Chester-le-Street,1,0,0,0,0,0
+8917,1 Sep 2023,v New Zealand,Manchester,2,1,1,0,0,1
+8917,3 Sep 2023,v New Zealand,Birmingham,1,0,0,0,0,0
+8917,5 Sep 2023,v New Zealand,Nottingham,2,0,0,0,0,0
+8917,14 Dec 2023,v West Indies,St George's,1,1,1,0,0,1
+8917,16 Dec 2023,v West Indies,St George's,1,0,0,0,0,0
+8917,19 Dec 2023,v West Indies,Tarouba,2,1,1,0,0,1
+8917,21 Dec 2023,v West Indies,Tarouba,2,0,0,0,0,0
+8917,13 Jan 2024,v MI Cape Town,Johannesburg,1,0,0,0,0,0
+8917,15 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+8917,17 Jan 2024,v Paarl Royals,Paarl,2,0,0,0,0,0
+8917,20 Jan 2024,v Capitals,Johannesburg,1,0,0,0,0,0
+8917,24 Jan 2024,v Paarl Royals,Johannesburg,2,0,0,0,0,0
+8917,27 Jan 2024,v Capitals,Centurion,-,TDNF,-,-,-,-
+8917,29 Jan 2024,v MI Cape Town,Cape Town,1,0,0,0,0,0
+8917,31 Jan 2024,v Sunrisers,Johannesburg,2,0,0,0,0,0
+8917,3 Feb 2024,v Super Giants,Johannesburg,1,1,1,0,0,1
+8917,7 Feb 2024,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+8917,8 Feb 2024,v Super Giants,Johannesburg,1,0,0,0,0,0
+8917,13 Feb 2024,v Chattogram,Chattogram,2,0,0,0,0,0
+8917,14 Feb 2024,v Khulna,Chattogram,1,0,0,0,0,0
+8917,19 Feb 2024,v Strikers,Chattogram,1,0,0,0,0,0
+8917,20 Feb 2024,v Rangpur,Chattogram,1,0,0,0,0,0
+8917,23 Feb 2024,v Barishal,Mirpur,2,0,0,0,0,0
+8917,26 Feb 2024,v Rangpur,Mirpur,1,1,1,0,0,1
+8917,1 Mar 2024,v Barishal,Mirpur,2,1,1,0,0,1
+8917,5 Apr 2024,v SRH,Hyderabad,2,0,0,0,0,0
+8917,19 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+8917,23 Apr 2024,v LSG,Chennai,2,0,0,0,0,0
+8917,28 Apr 2024,v SRH,Chennai,2,2,2,0,0,2
+8917,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+8917,5 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+8917,10 May 2024,v GT,Ahmedabad,1,0,0,0,0,0
+8917,12 May 2024,v RR,Chennai,1,0,0,0,0,0
+8917,25 May 2024,v Pakistan,Birmingham,2,1,1,0,0,1
+8917,30 May 2024,v Pakistan,The Oval,1,0,0,0,0,0
+8917,4 Jun 2024,v Scotland,Bridgetown,1,0,0,0,0,0
+8917,8 Jun 2024,v Australia,Bridgetown,1,0,0,0,0,0
+8917,13 Jun 2024,v Oman,North Sound,1,1,1,0,0,1
+8917,15 Jun 2024,v Namibia,North Sound,2,0,0,0,0,0
+8917,19 Jun 2024,v West Indies,Gros Islet,1,0,0,0,0,0
+8917,21 Jun 2024,v South Africa,Gros Islet,1,0,0,0,0,0
+8917,23 Jun 2024,v U.S.A.,Bridgetown,1,1,1,0,0,1
+8917,27 Jun 2024,v India,Providence,1,0,0,0,0,0
+8917,7 Jul 2024,v Notts,Nottingham,1,0,0,0,0,0
+8917,12 Jul 2024,v Worcs,Birmingham,1,0,0,0,0,0
+8917,14 Jul 2024,v Derbyshire,Birmingham,2,1,1,0,0,1
+8917,18 Jul 2024,v Northants,Northampton,1,2,2,0,0,2
+8917,19 Jul 2024,v Leics,Birmingham,2,0,0,0,0,0
+8917,23 Jul 2024,v Invincibles,The Oval,2,1,1,0,0,1
+8917,27 Jul 2024,v Spirit,Lord's,1,0,0,0,0,0
+8917,31 Jul 2024,v Rockets,Nottingham,2,0,0,0,0,0
+8917,3 Aug 2024,v Brave,Birmingham,1,0,0,0,0,0
+8917,6 Aug 2024,v N S-Chargers,Birmingham,1,2,2,0,0,2
+8917,10 Aug 2024,v Fire,Cardiff,1,0,0,0,0,0
+8917,12 Aug 2024,v Rockets,Birmingham,1,0,0,0,0,0
+8917,15 Aug 2024,v Originals,Birmingham,1,0,0,0,0,0
+8917,17 Aug 2024,v Brave,The Oval,1,0,0,0,0,0
+8917,6 Sep 2024,v Gloucs,Birmingham,1,0,0,0,0,0
+8917,14 Sep 2024,v Royals,Bridgetown,1,0,0,0,0,0
+8917,18 Sep 2024,v Trinbago,Port of Spain,2,0,0,0,0,0
+8917,20 Sep 2024,v Patriots,Providence,2,0,0,0,0,0
+8917,21 Sep 2024,v Falcons,Providence,2,1,1,0,0,1
+8917,25 Sep 2024,v Royals,Providence,2,0,0,0,0,0
+8917,28 Sep 2024,v Kings,Providence,2,0,0,0,0,0
+8917,29 Sep 2024,v Trinbago,Providence,1,0,0,0,0,0
+8917,2 Oct 2024,v Kings,Providence,1,0,0,0,0,0
+8917,4 Oct 2024,v Royals,Providence,1,0,0,0,0,0
+8917,6 Oct 2024,v Kings,Providence,2,0,0,0,0,0
+8917,26 Nov 2024,v Qalandars,Providence,1,1,1,0,0,1
+8917,29 Nov 2024,v Victoria,Providence,2,0,0,0,0,0
+8917,1 Dec 2024,v Hampshire,Providence,1,0,0,0,0,0
+8917,4 Dec 2024,v Rangpur,Providence,1,0,0,0,0,0
+8917,16 Jan 2025,v Capitals,Johannesburg,1,2,2,0,0,2
+8917,20 Jan 2025,v Paarl Royals,Paarl,2,0,0,0,0,0
+8917,26 Jan 2025,v Sunrisers,Johannesburg,1,0,0,0,0,0
+8917,28 Jan 2025,v Capitals,Centurion,2,0,0,0,0,0
+8917,1 Feb 2025,v Super Giants,Johannesburg,1,0,0,0,0,0
+8917,5 Feb 2025,v Sunrisers,Centurion,1,1,1,0,0,1
+8917,7 Feb 2025,v Vipers,Sharjah,2,0,0,0,0,0
+8917,26 Mar 2025,v RR,Guwahati,1,0,0,0,0,0
+8917,3 Apr 2025,v SRH,Eden Gardens,2,1,1,0,0,1
+8917,11 Apr 2025,v CSK,Chennai,1,1,1,0,0,1
+8917,21 Apr 2025,v GT,Eden Gardens,1,0,0,0,0,0
+8917,4 May 2025,v RR,Eden Gardens,2,0,0,0,0,0
+8917,7 May 2025,v CSK,Eden Gardens,2,0,0,0,0,0
+8917,31 May 2025,v Durham,Birmingham,2,0,0,0,0,0
+8917,6 Jun 2025,v Yorkshire,Birmingham,1,0,0,0,0,0
+8917,8 Jun 2025,v Derbyshire,Birmingham,2,0,0,0,0,0
+8917,11 Jun 2025,v Northants,Northampton,1,0,0,0,0,0
+8917,13 Jun 2025,v Yorkshire,Leeds,2,1,1,0,0,1
+8917,14 Jun 2025,v Notts,Birmingham,2,0,0,0,0,0
+8917,20 Jun 2025,v Worcs,Birmingham,1,0,0,0,0,0
+8917,4 Jul 2025,v Leics,Leicester,1,1,1,0,0,1
+8917,10 Jul 2025,v Rangpur,Providence,1,0,0,0,0,0
+8917,11 Jul 2025,v Central D,Providence,2,0,0,0,0,0
+8917,13 Jul 2025,v DC,Providence,2,0,0,0,0,0
+8917,16 Jul 2025,v Hurricanes,Providence,1,0,0,0,0,0
+8917,18 Jul 2025,v Rangpur,Providence,2,0,0,0,0,0
+8917,15 Aug 2025,v Patriots,Basseterre,1,1,1,0,0,1
+8917,22 Aug 2025,v Falcons,North Sound,2,0,0,0,0,0
+8917,26 Aug 2025,v Kings,Gros Islet,2,0,0,0,0,0
+8917,30 Aug 2025,v Trinbago,Tarouba,2,1,1,0,0,1
+8917,4 Sep 2025,v Royals,Bridgetown,1,1,1,0,0,1
+8917,6 Sep 2025,v Trinbago,Providence,1,1,1,0,0,1
+8917,7 Sep 2025,v Patriots,Providence,1,0,0,0,0,0
+8917,10 Sep 2025,v Falcons,Providence,2,0,0,0,0,0
+8917,13 Sep 2025,v Kings,Providence,1,0,0,0,0,0
+8917,14 Sep 2025,v Royals,Providence,2,0,0,0,0,0
+8917,17 Sep 2025,v Kings,Providence,2,0,0,0,0,0
+8917,21 Sep 2025,v Trinbago,Providence,2,1,1,0,0,1
+8917,4 Dec 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+8917,6 Dec 2025,v DC,Dubai (DICS),1,0,0,0,0,0
+8917,8 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+8917,10 Dec 2025,v Warriorz,Dubai (DICS),1,0,0,0,0,0
+8917,15 Dec 2025,v Warriorz,Sharjah,1,0,0,0,0,0
+8917,18 Dec 2025,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+8917,21 Dec 2025,v DC,Abu Dhabi,2,0,0,0,0,0
+8917,23 Dec 2025,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+8917,28 Dec 2025,v KnightRiders,Dubai (DICS),1,0,0,0,0,0
+8917,5 Jan 2026,v Noakhali,Sylhet,1,1,1,0,0,1
+8917,7 Jan 2026,v Chattogram,Sylhet,1,0,0,0,0,0
+8917,8 Jan 2026,v Dhaka,Sylhet,2,1,1,0,0,1
+8917,12 Jan 2026,v Rangpur,Sylhet,1,2,2,0,0,2
+8917,16 Jan 2026,v Rajshahi,Mirpur,1,0,0,0,0,0
+8917,20 Jan 2026,v Rangpur,Mirpur,1,0,0,0,0,0
+8917,21 Jan 2026,v Rajshahi,Mirpur,1,1,1,0,0,1

@@ -1,0 +1,306 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+32966,3 Apr 2007,v Railways,Jaipur,2,0,0,0,0,0
+32966,4 Apr 2007,v Rajasthan,Jaipur,2,0,0,0,0,0
+32966,5 Apr 2007,v M. Pradesh,Jaipur,2,0,0,0,0,0
+32966,6 Apr 2007,v Vidarbha,Jaipur,1,0,0,0,0,0
+32966,19 Apr 2008,v CSK,Mohali,1,0,0,0,0,0
+32966,21 Apr 2008,v RR,Jaipur,2,1,1,0,0,1
+32966,25 Apr 2008,v MI,Mohali,2,1,1,0,0,1
+32966,27 Apr 2008,v Daredevils,Mohali,1,0,0,0,0,0
+32966,1 May 2008,v Chargers,Hyderabad,1,0,0,0,0,0
+32966,3 May 2008,v KKR,Mohali,2,0,0,0,0,0
+32966,5 May 2008,v RCB,Bengaluru,1,0,0,0,0,0
+32966,10 May 2008,v CSK,Chennai,1,0,0,0,0,0
+32966,12 May 2008,v RCB,Mohali,1,1,1,0,0,1
+32966,17 May 2008,v Daredevils,Delhi,1,1,1,0,0,1
+32966,21 May 2008,v MI,Wankhede,2,1,1,0,0,1
+32966,23 May 2008,v Chargers,Mohali,1,1,1,0,0,1
+32966,25 May 2008,v KKR,Eden Gardens,2,0,0,0,0,0
+32966,28 May 2008,v RR,Mohali,2,0,0,0,0,0
+32966,31 May 2008,v CSK,Wankhede,2,0,0,0,0,0
+32966,19 Apr 2009,v Daredevils,Cape Town,2,0,0,0,0,0
+32966,21 Apr 2009,v KKR,Durban,2,0,0,0,0,0
+32966,24 Apr 2009,v RCB,Durban,1,0,0,0,0,0
+32966,26 Apr 2009,v RR,Cape Town,2,0,0,0,0,0
+32966,29 Apr 2009,v MI,Durban,2,0,0,0,0,0
+32966,1 May 2009,v RCB,Durban,1,3,3,0,0,3
+32966,3 May 2009,v KKR,Gqeberha,1,0,0,0,0,0
+32966,5 May 2009,v RR,Durban,1,1,1,0,0,1
+32966,7 May 2009,v CSK,Centurion,1,0,0,0,0,0
+32966,9 May 2009,v Chargers,Kimberley,1,0,0,0,0,0
+32966,12 May 2009,v MI,Centurion,2,0,0,0,0,0
+32966,15 May 2009,v Daredevils,Bloemfontein,1,1,1,0,0,1
+32966,17 May 2009,v Chargers,Johannesburg,2,1,1,0,0,1
+32966,20 May 2009,v CSK,Durban,1,0,0,0,0,0
+32966,22 Jun 2009,v Surrey,Hove,1,0,0,0,0,0
+32966,11 Oct 2009,v NSW,Delhi,1,0,0,0,0,0
+32966,13 Oct 2009,v Eagles,Delhi,2,0,0,0,0,0
+32966,20 Oct 2009,v Railways,Indore,1,0,0,0,0,0
+32966,23 Oct 2009,v M. Pradesh,Indore,2,0,0,0,0,0
+32966,24 Oct 2009,v Vidarbha,Indore,2,1,1,0,0,1
+32966,13 Mar 2010,v Daredevils,Mohali,2,0,0,0,0,0
+32966,16 Mar 2010,v RCB,Bengaluru,2,0,0,0,0,0
+32966,19 Mar 2010,v Chargers,Cuttack,1,0,0,0,0,0
+32966,21 Mar 2010,v CSK,Chennai,2,0,0,0,0,0
+32966,24 Mar 2010,v RR,Mohali,1,0,0,0,0,0
+32966,27 Mar 2010,v KKR,Mohali,1,1,1,0,0,1
+32966,30 Mar 2010,v MI,Brabourne,2,0,0,0,0,0
+32966,2 Apr 2010,v RCB,Mohali,2,0,0,0,0,0
+32966,4 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+32966,7 Apr 2010,v RR,Jaipur,2,1,1,0,0,1
+32966,9 Apr 2010,v MI,Mohali,1,0,0,0,0,0
+32966,11 Apr 2010,v Daredevils,Delhi,1,1,1,0,0,1
+32966,16 Apr 2010,v Chargers,Dharamsala,2,0,0,0,0,0
+32966,18 Apr 2010,v CSK,Dharamsala,2,0,0,0,0,0
+32966,2 May 2010,v South Africa,Gros Islet,2,2,2,0,0,2
+32966,11 May 2010,v Sri Lanka,Gros Islet,2,0,0,0,0,0
+32966,12 Jun 2010,v Zimbabwe,Harare,1,0,0,0,0,0
+32966,20 Oct 2010,v M. Pradesh,Jaipur,2,0,0,0,0,0
+32966,21 Oct 2010,v Rajasthan,Jaipur,1,0,0,0,0,0
+32966,22 Oct 2010,v Railways,Jaipur,2,0,0,0,0,0
+32966,24 Oct 2010,v Vidarbha,Jaipur,1,0,0,0,0,0
+32966,10 Apr 2011,v Warriors,DY Patil,2,0,0,0,0,0
+32966,13 Apr 2011,v CSK,Mohali,1,0,0,0,0,0
+32966,16 Apr 2011,v Chargers,Hyderabad,1,1,1,0,0,1
+32966,21 Apr 2011,v RR,Mohali,2,2,2,0,0,2
+32966,23 Apr 2011,v Daredevils,Delhi,1,0,0,0,0,0
+32966,30 Apr 2011,v KKR,Eden Gardens,2,0,0,0,0,0
+32966,2 May 2011,v MI,Wankhede,1,0,0,0,0,0
+32966,6 May 2011,v RCB,Bengaluru,1,0,0,0,0,0
+32966,13 May 2011,v Kochi,Indore,1,0,0,0,0,0
+32966,15 May 2011,v Daredevils,Dharamsala,2,0,0,0,0,0
+32966,17 May 2011,v RCB,Dharamsala,2,0,0,0,0,0
+32966,21 May 2011,v Chargers,Dharamsala,1,0,0,0,0,0
+32966,21 Oct 2011,v Vidarbha,Indore,1,1,1,0,0,1
+32966,22 Oct 2011,v Railways,Indore,2,0,0,0,0,0
+32966,24 Oct 2011,v Rajasthan,Indore,2,0,0,0,0,0
+32966,25 Oct 2011,v M. Pradesh,Indore,1,1,1,0,0,1
+32966,6 Apr 2012,v RR,Jaipur,1,0,0,0,0,0
+32966,8 Apr 2012,v Warriors,Pune,1,0,0,0,0,0
+32966,12 Apr 2012,v Warriors,Mohali,1,0,0,0,0,0
+32966,15 Apr 2012,v KKR,Eden Gardens,2,1,1,0,0,1
+32966,18 Apr 2012,v KKR,Mohali,2,0,0,0,0,0
+32966,20 Apr 2012,v RCB,Mohali,2,0,0,0,0,0
+32966,22 Apr 2012,v MI,Wankhede,1,0,0,0,0,0
+32966,25 Apr 2012,v MI,Mohali,2,0,0,0,0,0
+32966,28 Apr 2012,v CSK,Chennai,2,1,1,0,0,1
+32966,2 May 2012,v RCB,Bengaluru,1,1,1,0,0,1
+32966,5 May 2012,v RR,Mohali,1,0,0,0,0,0
+32966,8 May 2012,v Chargers,Hyderabad,2,0,0,0,0,0
+32966,13 May 2012,v Chargers,Mohali,1,0,0,0,0,0
+32966,15 May 2012,v Daredevils,Delhi,2,0,0,0,0,0
+32966,17 May 2012,v CSK,Dharamsala,1,0,0,0,0,0
+32966,19 May 2012,v Daredevils,Dharamsala,2,0,0,0,0,0
+32966,23 Sep 2012,v England,Colombo (RPS),2,0,0,0,0,0
+32966,28 Sep 2012,v Australia,Colombo (RPS),2,0,0,0,0,0
+32966,20 Dec 2012,v England,Pune,1,0,0,0,0,0
+32966,22 Dec 2012,v England,Wankhede,2,0,0,0,0,0
+32966,17 Mar 2013,v Railways,Nagpur,1,1,1,0,0,1
+32966,19 Mar 2013,v M. Pradesh,Nagpur,2,0,0,0,0,0
+32966,21 Mar 2013,v Rajasthan,Nagpur,1,0,0,0,0,0
+32966,22 Mar 2013,v Vidarbha,Nagpur,1,1,1,0,0,1
+32966,27 Mar 2013,v Bengal,Indore,1,0,0,0,0,0
+32966,28 Mar 2013,v Karnataka,Indore,2,0,0,0,0,0
+32966,29 Mar 2013,v Baroda,Indore,1,1,1,0,0,1
+32966,30 Mar 2013,v Punjab,Indore,1,0,0,0,0,0
+32966,7 Apr 2013,v Warriors,Pune,1,0,0,0,0,0
+32966,10 Apr 2013,v CSK,Mohali,2,0,0,0,0,0
+32966,14 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+32966,16 Apr 2013,v KKR,Mohali,2,0,0,0,0,0
+32966,19 Apr 2013,v SRH,Hyderabad,2,0,0,0,0,0
+32966,21 Apr 2013,v Warriors,Mohali,1,0,0,0,0,0
+32966,23 Apr 2013,v Daredevils,Delhi,1,0,0,0,0,0
+32966,26 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+32966,29 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+32966,2 May 2013,v CSK,Chennai,1,0,0,0,0,0
+32966,6 May 2013,v RCB,Mohali,1,0,0,0,0,0
+32966,9 May 2013,v RR,Mohali,2,0,0,0,0,0
+32966,11 May 2013,v SRH,Mohali,1,0,0,0,0,0
+32966,14 May 2013,v RCB,Bengaluru,1,0,0,0,0,0
+32966,16 May 2013,v Daredevils,Dharamsala,2,0,0,0,0,0
+32966,18 May 2013,v MI,Dharamsala,2,1,1,0,0,1
+32966,31 Mar 2014,v Vidarbha,Nagpur,2,0,0,0,0,0
+32966,1 Apr 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+32966,2 Apr 2014,v M. Pradesh,Nagpur,1,1,1,0,0,1
+32966,5 Apr 2014,v Railways,Nagpur,2,1,1,0,0,1
+32966,16 Apr 2014,v MI,Abu Dhabi,2,0,0,0,0,0
+32966,19 Apr 2014,v Daredevils,Dubai (DICS),2,1,1,0,0,1
+32966,26 Apr 2014,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+32966,29 Apr 2014,v RR,Abu Dhabi,1,0,0,0,0,0
+32966,2 May 2014,v CSK,Ranchi,1,0,0,0,0,0
+32966,11 May 2014,v Kings XI,Cuttack,1,0,0,0,0,0
+32966,14 May 2014,v MI,Cuttack,1,1,1,0,0,1
+32966,18 May 2014,v SRH,Hyderabad,1,0,0,0,0,0
+32966,20 May 2014,v CSK,Eden Gardens,1,0,0,0,0,0
+32966,27 May 2014,v Kings XI,Eden Gardens,2,0,0,0,0,0
+32966,1 Jun 2014,v Kings XI,Bengaluru,1,1,1,0,0,1
+32966,17 Sep 2014,v CSK,Hyderabad,1,0,0,0,0,0
+32966,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+32966,24 Sep 2014,v Scorchers,Hyderabad,1,0,0,0,0,0
+32966,29 Sep 2014,v Dolphins,Hyderabad,2,2,2,0,0,2
+32966,2 Oct 2014,v Hurricanes,Hyderabad,1,0,0,0,0,0
+32966,4 Oct 2014,v CSK,Bengaluru,2,0,0,0,0,0
+32966,24 Mar 2015,v Vidarbha,Indore,2,0,0,0,0,0
+32966,25 Mar 2015,v Rajasthan,Indore,1,1,1,0,0,1
+32966,27 Mar 2015,v M. Pradesh,Indore,1,0,0,0,0,0
+32966,29 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+32966,8 Apr 2015,v MI,Eden Gardens,1,0,0,0,0,0
+32966,11 Apr 2015,v RCB,Eden Gardens,2,0,0,0,0,0
+32966,18 Apr 2015,v Kings XI,Pune,1,1,1,0,0,1
+32966,20 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+32966,22 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+32966,28 Apr 2015,v CSK,Chennai,1,0,0,0,0,0
+32966,30 Apr 2015,v CSK,Eden Gardens,1,1,1,0,0,1
+32966,2 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+32966,4 May 2015,v SRH,Eden Gardens,2,0,0,0,0,0
+32966,7 May 2015,v Daredevils,Eden Gardens,2,0,0,0,0,0
+32966,9 May 2015,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32966,14 May 2015,v MI,Wankhede,1,0,0,0,0,0
+32966,16 May 2015,v RR,Brabourne,1,0,0,0,0,0
+32966,2 Jan 2016,v Maharashtra,Cuttack,1,1,1,0,0,1
+32966,3 Jan 2016,v Odisha,Cuttack,2,1,1,0,0,1
+32966,4 Jan 2016,v Karnataka,Cuttack,1,0,0,0,0,0
+32966,7 Jan 2016,v Mumbai,Cuttack,1,0,0,0,0,0
+32966,8 Jan 2016,v Services,Cuttack,2,0,0,0,0,0
+32966,15 Jan 2016,v Jharkhand,Mumbai,1,0,0,0,0,0
+32966,16 Jan 2016,v Gujarat,Mumbai,1,1,1,0,0,1
+32966,18 Jan 2016,v Delhi,Mumbai,1,1,1,0,0,1
+32966,20 Jan 2016,v Baroda,Wankhede,2,0,0,0,0,0
+32966,10 Apr 2016,v Daredevils,Eden Gardens,1,0,0,0,0,0
+32966,13 Apr 2016,v MI,Eden Gardens,2,0,0,0,0,0
+32966,16 Apr 2016,v SRH,Hyderabad,1,1,1,0,0,1
+32966,19 Apr 2016,v Kings XI,Mohali,1,1,1,0,0,1
+32966,24 Apr 2016,v Supergiants,Pune,1,0,0,0,0,0
+32966,30 Apr 2016,v Daredevils,Delhi,1,0,0,0,0,0
+32966,2 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+32966,4 May 2016,v Kings XI,Eden Gardens,2,1,1,0,0,1
+32966,8 May 2016,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+32966,14 May 2016,v Supergiants,Eden Gardens,1,0,0,0,0,0
+32966,16 May 2016,v RCB,Eden Gardens,2,0,0,0,0,0
+32966,19 May 2016,v Guj Lions,Kanpur,2,0,0,0,0,0
+32966,29 Jan 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+32966,2 Feb 2017,v Railways,Jaipur,1,2,2,0,0,2
+32966,3 Feb 2017,v M. Pradesh,Jaipur,1,0,0,0,0,0
+32966,5 Feb 2017,v Vidarbha,Jaipur,2,0,0,0,0,0
+32966,7 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+32966,13 Apr 2017,v Kings XI,Eden Gardens,1,0,0,0,0,0
+32966,26 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+32966,7 May 2017,v RCB,Bengaluru,1,0,0,0,0,0
+32966,17 May 2017,v SRH,Bengaluru,1,1,1,0,0,1
+32966,19 May 2017,v MI,Bengaluru,2,0,0,0,0,0
+32966,7 Jan 2018,v Maharashtra,Rajkot,2,0,0,0,0,0
+32966,8 Jan 2018,v Mumbai,Rajkot,2,0,0,0,0,0
+32966,10 Jan 2018,v Baroda,Rajkot,1,1,1,0,0,1
+32966,13 Jan 2018,v Saurashtra,Rajkot,1,0,0,0,0,0
+32966,8 Apr 2018,v RCB,Eden Gardens,1,0,0,0,0,0
+32966,10 Apr 2018,v CSK,Chennai,2,0,0,0,0,0
+32966,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+32966,16 Apr 2018,v Daredevils,Eden Gardens,2,1,1,0,0,1
+32966,18 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+32966,21 Apr 2018,v Kings XI,Eden Gardens,2,0,0,0,0,0
+32966,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+32966,29 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+32966,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+32966,6 May 2018,v MI,Wankhede,1,0,0,0,0,0
+32966,9 May 2018,v MI,Eden Gardens,1,0,0,0,0,0
+32966,12 May 2018,v Kings XI,Indore,2,0,0,0,0,0
+32966,19 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+32966,23 May 2018,v RR,Eden Gardens,2,1,1,0,0,1
+32966,25 May 2018,v SRH,Eden Gardens,1,2,2,0,0,2
+32966,21 Feb 2019,v Meghalaya,Surat,2,1,1,0,0,1
+32966,22 Feb 2019,v Rajasthan,Surat,1,0,0,0,0,0
+32966,24 Feb 2019,v Himachal,Surat,2,1,1,0,0,1
+32966,25 Feb 2019,v Tamil Nadu,Surat,1,0,0,0,0,0
+32966,27 Feb 2019,v Bihar,Surat,2,0,0,0,0,0
+32966,2 Mar 2019,v Vidarbha,Surat,2,1,1,0,0,1
+32966,8 Mar 2019,v Jharkhand,Indore,1,0,0,0,0,0
+32966,10 Mar 2019,v Maharashtra,Indore,2,0,0,0,0,0
+32966,11 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+32966,12 Mar 2019,v Bengal,Indore,2,0,0,0,0,0
+32966,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+32966,27 Mar 2019,v Kings XI,Eden Gardens,2,0,0,0,0,0
+32966,30 Mar 2019,v DC,Delhi,2,1,1,0,0,1
+32966,5 Apr 2019,v RCB,Bengaluru,1,0,0,0,0,0
+32966,7 Apr 2019,v RR,Jaipur,1,1,1,0,0,1
+32966,9 Apr 2019,v CSK,Chennai,2,2,2,0,0,2
+32966,12 Apr 2019,v DC,Eden Gardens,2,0,0,0,0,0
+32966,14 Apr 2019,v CSK,Eden Gardens,2,0,0,0,0,0
+32966,19 Apr 2019,v RCB,Eden Gardens,1,0,0,0,0,0
+32966,21 Apr 2019,v SRH,Hyderabad,2,0,0,0,0,0
+32966,25 Apr 2019,v RR,Eden Gardens,2,0,0,0,0,0
+32966,28 Apr 2019,v MI,Eden Gardens,2,1,1,0,0,1
+32966,3 May 2019,v Kings XI,Mohali,1,0,0,0,0,0
+32966,11 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+32966,12 Nov 2019,v Nagaland,Surat,2,0,0,0,0,0
+32966,14 Nov 2019,v Sikkim,Surat,1,0,0,0,0,0
+32966,15 Nov 2019,v Odisha,Surat,1,0,0,0,0,0
+32966,17 Nov 2019,v Jharkhand,Surat,2,0,0,0,0,0
+32966,18 Nov 2019,v J & K,Surat,1,1,1,0,0,1
+32966,19 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+32966,22 Sep 2020,v RR,Sharjah,1,0,0,0,0,0
+32966,25 Sep 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+32966,2 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+32966,4 Oct 2020,v Kings XI,Dubai (DICS),1,0,0,0,0,0
+32966,13 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+32966,19 Oct 2020,v RR,Abu Dhabi,2,0,0,0,0,0
+32966,10 Jan 2021,v Maharashtra,Vadodara,2,1,1,0,0,1
+32966,12 Jan 2021,v Uttarakhand,Vadodara,2,0,0,0,0,0
+32966,14 Jan 2021,v Himachal,Vadodara,1,0,0,0,0,0
+32966,16 Jan 2021,v Chhattisgarh,Vadodara,1,1,1,0,0,1
+32966,18 Jan 2021,v Baroda,Vadodara,1,0,0,0,0,0
+32966,8 Oct 2021,v SRH,Abu Dhabi,2,0,0,0,0,0
+32966,4 Nov 2021,v Kerala,Delhi,1,0,0,0,0,0
+32966,5 Nov 2021,v Assam,Delhi,2,0,0,0,0,0
+32966,6 Nov 2021,v M. Pradesh,Delhi,2,1,1,0,0,1
+32966,8 Nov 2021,v Railways,Delhi,1,0,0,0,0,0
+32966,9 Nov 2021,v Bihar,Delhi,1,0,0,0,0,0
+32966,18 Nov 2021,v Hyderabad,Delhi,1,0,0,0,0,0
+32966,14 Oct 2022,v Baroda,Indore,1,0,0,0,0,0
+32966,16 Oct 2022,v Saurashtra,Indore,2,0,0,0,0,0
+32966,18 Oct 2022,v Nagaland,Indore,1,0,0,0,0,0
+32966,20 Oct 2022,v Andhra,Indore,1,1,1,0,0,1
+32966,22 Oct 2022,v Bihar,Indore,1,0,0,0,0,0
+32966,2 Apr 2023,v RCB,Bengaluru,2,0,0,0,0,0
+32966,8 Apr 2023,v CSK,Wankhede,2,0,0,0,0,0
+32966,11 Apr 2023,v DC,Delhi,1,0,0,0,0,0
+32966,16 Apr 2023,v KKR,Wankhede,1,0,0,0,0,0
+32966,18 Apr 2023,v SRH,Hyderabad,2,0,0,0,0,0
+32966,22 Apr 2023,v Punjab Kings,Wankhede,1,1,1,0,0,1
+32966,25 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+32966,30 Apr 2023,v RR,Wankhede,1,0,0,0,0,0
+32966,3 May 2023,v Punjab Kings,Mohali,1,0,0,0,0,0
+32966,6 May 2023,v CSK,Chennai,2,0,0,0,0,0
+32966,9 May 2023,v RCB,Wankhede,1,0,0,0,0,0
+32966,12 May 2023,v GT,Wankhede,2,0,0,0,0,0
+32966,16 May 2023,v LSG,Lucknow,1,0,0,0,0,0
+32966,21 May 2023,v SRH,Wankhede,1,0,0,0,0,0
+32966,24 May 2023,v LSG,Chennai,2,0,0,0,0,0
+32966,26 May 2023,v GT,Ahmedabad,1,0,0,0,0,0
+32966,16 Oct 2023,v Arunachal,Ranchi,1,0,0,0,0,0
+32966,17 Oct 2023,v Saurashtra,Ranchi,1,0,0,0,0,0
+32966,19 Oct 2023,v Goa,Ranchi,2,0,0,0,0,0
+32966,21 Oct 2023,v Andhra,Ranchi,2,1,1,0,0,1
+32966,23 Oct 2023,v Punjab,Ranchi,1,0,0,0,0,0
+32966,25 Oct 2023,v Railways,Ranchi,1,1,1,0,0,1
+32966,31 Oct 2023,v UP,Mohali,2,0,0,0,0,0
+32966,24 Mar 2024,v GT,Ahmedabad,1,0,0,0,0,0
+32966,27 Mar 2024,v SRH,Hyderabad,1,0,0,0,0,0
+32966,1 Apr 2024,v RR,Wankhede,2,1,1,0,0,1
+32966,7 Apr 2024,v DC,Wankhede,2,0,0,0,0,0
+32966,22 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+32966,27 Apr 2024,v DC,Delhi,1,0,0,0,0,0
+32966,30 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+32966,3 May 2024,v KKR,Wankhede,1,1,1,0,0,1
+32966,6 May 2024,v SRH,Wankhede,1,0,0,0,0,0
+32966,11 May 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+32966,17 May 2024,v LSG,Wankhede,1,0,0,0,0,0
+32966,23 Nov 2024,v Delhi,Wankhede,1,0,0,0,0,0
+32966,25 Nov 2024,v Himachal,Wankhede,1,0,0,0,0,0
+32966,3 Dec 2025,v Warriorz,Sharjah,2,0,0,0,0,0
+32966,5 Dec 2025,v Vipers,Sharjah,2,0,0,0,0,0
+32966,7 Dec 2025,v DC,Dubai (DICS),1,2,2,0,0,2
+32966,18 Dec 2025,v Gulf Giants,Abu Dhabi,1,0,0,0,0,0
+32966,20 Dec 2025,v MI Emirates,Abu Dhabi,1,0,0,0,0,0
+32966,28 Dec 2025,v Gulf Giants,Dubai (DICS),2,2,2,0,0,2
+32966,1 Jan 2026,v DC,Dubai (DICS),2,0,0,0,0,0
+32966,2 Jan 2026,v MI Emirates,Sharjah,2,0,0,0,0,0

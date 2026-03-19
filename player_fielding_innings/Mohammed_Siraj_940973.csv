@@ -1,0 +1,162 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+940973,2 Jan 2016,v Bengal,Nagpur,1,0,0,0,0,0
+940973,3 Jan 2016,v Himachal,Nagpur,2,0,0,0,0,0
+940973,4 Jan 2016,v Gujarat,Nagpur,2,0,0,0,0,0
+940973,6 Jan 2016,v Haryana,Nagpur,2,0,0,0,0,0
+940973,9 Jan 2016,v Vidarbha,Nagpur,2,0,0,0,0,0
+940973,29 Jan 2017,v Goa,Chennai,2,0,0,0,0,0
+940973,30 Jan 2017,v Tamil Nadu,Chennai,2,0,0,0,0,0
+940973,31 Jan 2017,v Kerala,Chennai,2,0,0,0,0,0
+940973,2 Feb 2017,v Karnataka,Chennai,1,1,1,0,0,1
+940973,3 Feb 2017,v Andhra,Chennai,1,2,2,0,0,2
+940973,19 Apr 2017,v Daredevils,Hyderabad,2,0,0,0,0,0
+940973,22 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+940973,30 Apr 2017,v KKR,Hyderabad,2,0,0,0,0,0
+940973,2 May 2017,v Daredevils,Delhi,2,1,1,0,0,1
+940973,8 May 2017,v MI,Hyderabad,1,0,0,0,0,0
+940973,13 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+940973,4 Nov 2017,v New Zealand,Rajkot,1,0,0,0,0,0
+940973,24 Dec 2017,v Sri Lanka,Wankhede,1,1,1,0,0,1
+940973,8 Jan 2018,v Kerala,Vizianagaram,2,1,1,0,0,1
+940973,9 Jan 2018,v Goa,Visakhapatnam,2,2,2,0,0,2
+940973,11 Jan 2018,v Karnataka,Visakhapatnam,1,0,0,0,0,0
+940973,12 Jan 2018,v Andhra,Visakhapatnam,2,0,0,0,0,0
+940973,14 Jan 2018,v Tamil Nadu,Visakhapatnam,1,2,2,0,0,2
+940973,14 Mar 2018,v Bangladesh,Colombo (RPS),2,0,0,0,0,0
+940973,17 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+940973,21 Apr 2018,v Daredevils,Bengaluru,1,2,2,0,0,2
+940973,25 Apr 2018,v CSK,Bengaluru,2,1,1,0,0,1
+940973,29 Apr 2018,v KKR,Bengaluru,2,0,0,0,0,0
+940973,1 May 2018,v MI,Bengaluru,2,0,0,0,0,0
+940973,5 May 2018,v CSK,Pune,2,1,1,0,0,1
+940973,7 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+940973,12 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+940973,14 May 2018,v Kings XI,Indore,1,1,1,0,0,1
+940973,17 May 2018,v SRH,Bengaluru,2,0,0,0,0,0
+940973,19 May 2018,v RR,Jaipur,1,0,0,0,0,0
+940973,21 Feb 2019,v Puducherry,Delhi,1,0,0,0,0,0
+940973,22 Feb 2019,v UP,Delhi,2,0,0,0,0,0
+940973,24 Feb 2019,v Baroda,Delhi,2,0,0,0,0,0
+940973,25 Feb 2019,v Maharashtra,Delhi,2,0,0,0,0,0
+940973,27 Feb 2019,v Tripura,Delhi,1,0,0,0,0,0
+940973,28 Feb 2019,v Services,Delhi,2,0,0,0,0,0
+940973,2 Mar 2019,v Uttarakhand,Delhi,-,TDNF,-,-,-,-
+940973,23 Mar 2019,v CSK,Chennai,2,0,0,0,0,0
+940973,28 Mar 2019,v MI,Bengaluru,1,2,2,0,0,2
+940973,31 Mar 2019,v SRH,Hyderabad,1,0,0,0,0,0
+940973,2 Apr 2019,v RR,Jaipur,2,0,0,0,0,0
+940973,5 Apr 2019,v KKR,Bengaluru,2,0,0,0,0,0
+940973,7 Apr 2019,v DC,Bengaluru,2,0,0,0,0,0
+940973,13 Apr 2019,v Kings XI,Mohali,1,0,0,0,0,0
+940973,15 Apr 2019,v MI,Wankhede,2,0,0,0,0,0
+940973,19 Apr 2019,v KKR,Eden Gardens,2,0,0,0,0,0
+940973,8 Nov 2019,v Punjab,Chandigarh,2,0,0,0,0,0
+940973,9 Nov 2019,v Railways,Chandigarh,2,1,1,0,0,1
+940973,11 Nov 2019,v Himachal,Chandigarh,1,0,0,0,0,0
+940973,12 Nov 2019,v Chandigarh,Chandigarh,1,0,0,0,0,0
+940973,14 Nov 2019,v Maharashtra,Chandigarh,2,0,0,0,0,0
+940973,15 Nov 2019,v Arunachal,Chandigarh,1,0,0,0,0,0
+940973,17 Nov 2019,v Chhattisgarh,Chandigarh,2,0,0,0,0,0
+940973,5 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+940973,12 Oct 2020,v KKR,Sharjah,2,1,1,0,0,1
+940973,15 Oct 2020,v Kings XI,Sharjah,2,0,0,0,0,0
+940973,21 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+940973,25 Oct 2020,v CSK,Dubai (DICS),2,1,1,0,0,1
+940973,28 Oct 2020,v MI,Abu Dhabi,2,1,1,0,0,1
+940973,31 Oct 2020,v SRH,Sharjah,2,0,0,0,0,0
+940973,2 Nov 2020,v DC,Abu Dhabi,2,1,1,0,0,1
+940973,6 Nov 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+940973,9 Apr 2021,v MI,Chennai,1,0,0,0,0,0
+940973,14 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+940973,18 Apr 2021,v KKR,Chennai,2,1,1,0,0,1
+940973,22 Apr 2021,v RR,Wankhede,1,0,0,0,0,0
+940973,25 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+940973,27 Apr 2021,v DC,Ahmedabad,2,0,0,0,0,0
+940973,30 Apr 2021,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+940973,20 Sep 2021,v KKR,Abu Dhabi,2,1,1,0,0,1
+940973,24 Sep 2021,v CSK,Sharjah,2,0,0,0,0,0
+940973,26 Sep 2021,v MI,Dubai (DICS),2,0,0,0,0,0
+940973,29 Sep 2021,v RR,Dubai (DICS),1,1,1,0,0,1
+940973,3 Oct 2021,v Punjab Kings,Sharjah,2,1,1,0,0,1
+940973,6 Oct 2021,v SRH,Abu Dhabi,1,0,0,0,0,0
+940973,8 Oct 2021,v DC,Dubai (DICS),1,0,0,0,0,0
+940973,11 Oct 2021,v KKR,Sharjah,2,0,0,0,0,0
+940973,4 Nov 2021,v Saurashtra,Sultanpur,1,0,0,0,0,0
+940973,5 Nov 2021,v Uttarakhand,Sultanpur,2,0,0,0,0,0
+940973,6 Nov 2021,v Chandigarh,Sultanpur,1,0,0,0,0,0
+940973,17 Nov 2021,v New Zealand,Jaipur,1,0,0,0,0,0
+940973,27 Feb 2022,v Sri Lanka,Dharamsala,1,0,0,0,0,0
+940973,27 Mar 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+940973,30 Mar 2022,v KKR,DY Patil,1,0,0,0,0,0
+940973,5 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+940973,9 Apr 2022,v MI,Pune,1,1,1,0,0,1
+940973,12 Apr 2022,v CSK,DY Patil,1,0,0,0,0,0
+940973,16 Apr 2022,v DC,Wankhede,2,0,0,0,0,0
+940973,19 Apr 2022,v LSG,DY Patil,2,1,1,0,0,1
+940973,23 Apr 2022,v SRH,Brabourne,2,0,0,0,0,0
+940973,26 Apr 2022,v RR,Pune,1,2,2,0,0,2
+940973,30 Apr 2022,v GT,Brabourne,2,0,0,0,0,0
+940973,4 May 2022,v CSK,Pune,2,1,1,0,0,1
+940973,8 May 2022,v SRH,Wankhede,2,0,0,0,0,0
+940973,13 May 2022,v Punjab Kings,Brabourne,1,1,1,0,0,1
+940973,25 May 2022,v LSG,Eden Gardens,2,0,0,0,0,0
+940973,27 May 2022,v RR,Ahmedabad,2,0,0,0,0,0
+940973,4 Oct 2022,v South Africa,Indore,1,0,0,0,0,0
+940973,20 Nov 2022,v New Zealand,Mount Maunganui,2,1,1,0,0,1
+940973,22 Nov 2022,v New Zealand,Napier,1,0,0,0,0,0
+940973,2 Apr 2023,v MI,Bengaluru,1,0,0,0,0,0
+940973,6 Apr 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+940973,10 Apr 2023,v LSG,Bengaluru,2,0,0,0,0,0
+940973,15 Apr 2023,v DC,Bengaluru,2,1,1,0,0,1
+940973,17 Apr 2023,v CSK,Bengaluru,1,1,1,0,0,1
+940973,20 Apr 2023,v Punjab Kings,Mohali,2,0,0,0,0,0
+940973,23 Apr 2023,v RR,Bengaluru,2,0,0,0,0,0
+940973,26 Apr 2023,v KKR,Bengaluru,1,0,0,0,0,0
+940973,1 May 2023,v LSG,Lucknow,2,0,0,0,0,0
+940973,6 May 2023,v DC,Delhi,2,0,0,0,0,0
+940973,9 May 2023,v MI,Wankhede,2,0,0,0,0,0
+940973,14 May 2023,v RR,Jaipur,2,2,2,0,0,2
+940973,18 May 2023,v SRH,Hyderabad,1,0,0,0,0,0
+940973,21 May 2023,v GT,Bengaluru,2,0,0,0,0,0
+940973,12 Dec 2023,v South Africa,Gqeberha,2,2,2,0,0,2
+940973,14 Dec 2023,v South Africa,Johannesburg,2,0,0,0,0,0
+940973,22 Mar 2024,v CSK,Chennai,2,0,0,0,0,0
+940973,25 Mar 2024,v Punjab Kings,Bengaluru,1,0,0,0,0,0
+940973,29 Mar 2024,v KKR,Bengaluru,2,0,0,0,0,0
+940973,2 Apr 2024,v LSG,Bengaluru,1,0,0,0,0,0
+940973,6 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+940973,11 Apr 2024,v MI,Wankhede,2,0,0,0,0,0
+940973,21 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+940973,25 Apr 2024,v SRH,Hyderabad,2,2,2,0,0,2
+940973,28 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+940973,4 May 2024,v GT,Bengaluru,1,1,1,0,0,1
+940973,9 May 2024,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+940973,12 May 2024,v DC,Bengaluru,2,0,0,0,0,0
+940973,18 May 2024,v CSK,Bengaluru,2,0,0,0,0,0
+940973,22 May 2024,v RR,Ahmedabad,2,0,0,0,0,0
+940973,5 Jun 2024,v Ireland,New York,1,0,0,0,0,0
+940973,9 Jun 2024,v Pakistan,New York,2,0,0,0,0,0
+940973,12 Jun 2024,v U.S.A.,New York,1,2,2,0,0,2
+940973,27 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+940973,28 Jul 2024,v Sri Lanka,Pallekele,1,0,0,0,0,0
+940973,30 Jul 2024,v Sri Lanka,Pallekele,2,0,0,0,0,0
+940973,25 Mar 2025,v Punjab Kings,Ahmedabad,1,0,0,0,0,0
+940973,29 Mar 2025,v MI,Ahmedabad,2,1,1,0,0,1
+940973,2 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+940973,6 Apr 2025,v SRH,Hyderabad,1,0,0,0,0,0
+940973,9 Apr 2025,v RR,Ahmedabad,2,0,0,0,0,0
+940973,12 Apr 2025,v LSG,Lucknow,2,0,0,0,0,0
+940973,19 Apr 2025,v DC,Ahmedabad,1,1,1,0,0,1
+940973,21 Apr 2025,v KKR,Eden Gardens,2,0,0,0,0,0
+940973,28 Apr 2025,v RR,Jaipur,2,0,0,0,0,0
+940973,2 May 2025,v SRH,Ahmedabad,2,1,1,0,0,1
+940973,6 May 2025,v MI,Wankhede,1,0,0,0,0,0
+940973,18 May 2025,v DC,Delhi,1,1,1,0,0,1
+940973,22 May 2025,v LSG,Ahmedabad,1,0,0,0,0,0
+940973,25 May 2025,v CSK,Ahmedabad,1,1,1,0,0,1
+940973,30 May 2025,v MI,New Chandigarh,1,0,0,0,0,0
+940973,2 Dec 2025,v UP,Eden Gardens,1,1,1,0,0,1
+940973,12 Dec 2025,v Mumbai,Pune,1,1,1,0,0,1
+940973,14 Dec 2025,v Rajasthan,Ambi,1,0,0,0,0,0
+940973,16 Dec 2025,v Haryana,Pune,1,0,0,0,0,0
+940973,7 Feb 2026,v U.S.A.,Wankhede,2,1,1,0,0,1

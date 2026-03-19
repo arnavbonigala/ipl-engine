@@ -1,0 +1,273 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+267192,1 Jan 2008,v South Aust,Adelaide,1,0,0,0,0,0
+267192,6 Jan 2008,v Victoria,Melbourne,1,0,0,0,0,0
+267192,8 Jan 2008,v Queensland,Sydney,2,0,0,0,0,0
+267192,10 Jan 2008,v West Aust,Sydney,2,0,0,0,0,0
+267192,26 Dec 2008,v Queensland,Brisbane,1,0,0,0,0,0
+267192,30 Dec 2008,v West Aust,Sydney,2,0,0,0,0,0
+267192,6 Jan 2009,v South Aust,Adelaide,1,0,0,0,0,0
+267192,12 Jan 2009,v Tasmania,Sydney,1,0,0,0,0,0
+267192,17 Jan 2009,v Victoria,Sydney,2,0,0,0,0,0
+267192,9 Oct 2009,v Eagles,Delhi,2,0,0,0,0,0
+267192,11 Oct 2009,v Sussex,Delhi,2,1,1,0,0,1
+267192,16 Oct 2009,v Trinidad & T,Hyderabad,2,0,0,0,0,0
+267192,18 Oct 2009,v Somerset,Hyderabad,1,0,0,0,0,0
+267192,21 Oct 2009,v Victoria,Delhi,2,1,1,0,0,1
+267192,23 Oct 2009,v Trinidad & T,Hyderabad,2,1,1,0,0,1
+267192,30 Dec 2009,v Tasmania,Hobart,2,1,1,0,0,1
+267192,2 Jan 2010,v Victoria,Melbourne,2,1,1,0,0,1
+267192,5 Jan 2010,v West Aust,W.A.C.A,1,0,0,0,0,0
+267192,13 Jan 2010,v Queensland,Sydney,1,0,0,0,0,0
+267192,17 Jan 2010,v South Aust,Sydney,1,1,1,0,0,1
+267192,5 Feb 2010,v Pakistan,Melbourne,2,0,0,0,0,0
+267192,21 Feb 2010,v West Indies,Hobart,2,2,2,0,0,2
+267192,23 Feb 2010,v West Indies,Sydney,1,2,2,0,0,2
+267192,26 Feb 2010,v New Zealand,Wellington,1,1,1,0,0,1
+267192,28 Feb 2010,v New Zealand,Christchurch,1,1,1,0,0,1
+267192,2 May 2010,v Pakistan,Gros Islet,2,2,2,0,0,2
+267192,5 May 2010,v Bangladesh,Bridgetown,2,1,1,0,0,1
+267192,7 May 2010,v India,Bridgetown,2,0,0,0,0,0
+267192,9 May 2010,v Sri Lanka,Bridgetown,2,2,2,0,0,2
+267192,11 May 2010,v West Indies,Gros Islet,1,1,1,0,0,1
+267192,14 May 2010,v Pakistan,Gros Islet,1,0,0,0,0,0
+267192,16 May 2010,v England,Bridgetown,2,0,0,0,0,0
+267192,4 Jun 2010,v Yorkshire,Worcester,2,0,0,0,0,0
+267192,6 Jun 2010,v Durham,Chester-le-Street,-,TDNF,-,-,-,-
+267192,10 Jun 2010,v Notts,Worcester,2,0,0,0,0,0
+267192,11 Jun 2010,v Northants,Northampton,1,2,2,0,0,2
+267192,13 Jun 2010,v Notts,Nottingham,2,1,1,0,0,1
+267192,5 Jul 2010,v Pakistan,Birmingham,1,0,0,0,0,0
+267192,31 Oct 2010,v Sri Lanka,W.A.C.A,2,0,0,0,0,0
+267192,12 Jan 2011,v England,Adelaide,2,1,1,0,0,1
+267192,14 Jan 2011,v England,Melbourne,2,1,1,0,0,1
+267192,6 Aug 2011,v Sri Lanka,Pallekele,1,0,0,0,0,0
+267192,8 Aug 2011,v Sri Lanka,Pallekele,1,2,2,0,0,2
+267192,24 Sep 2011,v Cape Cobras,Chennai,2,0,0,0,0,0
+267192,28 Sep 2011,v Trinidad & T,Chennai,1,0,0,0,0,0
+267192,2 Oct 2011,v MI,Chennai,1,1,1,0,0,1
+267192,4 Oct 2011,v CSK,Chennai,2,1,1,0,0,1
+267192,7 Oct 2011,v RCB,Bengaluru,2,0,0,0,0,0
+267192,13 Oct 2011,v South Africa,Cape Town,1,0,0,0,0,0
+267192,16 Oct 2011,v South Africa,Johannesburg,2,0,0,0,0,0
+267192,16 Dec 2011,v Heat,Sydney,1,2,2,0,0,2
+267192,21 Dec 2011,v Hurricanes,Hobart,1,0,0,0,0,0
+267192,27 Dec 2011,v Stars,Sydney,2,2,2,0,0,2
+267192,2 Jan 2012,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+267192,8 Jan 2012,v Thunder,Sydney,2,0,0,0,0,0
+267192,10 Jan 2012,v Strikers,Adelaide,2,2,2,0,0,2
+267192,18 Jan 2012,v Scorchers,Sydney,2,0,0,0,0,0
+267192,22 Jan 2012,v Hurricanes,Hobart,2,2,2,0,0,2
+267192,28 Jan 2012,v Scorchers,W.A.C.A,1,1,1,0,0,1
+267192,6 Apr 2012,v MI,Wankhede,2,0,0,0,0,0
+267192,8 Apr 2012,v Kings XI,Pune,2,0,0,0,0,0
+267192,12 Apr 2012,v Kings XI,Mohali,2,2,2,0,0,2
+267192,14 Apr 2012,v CSK,Pune,1,2,2,0,0,2
+267192,17 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+267192,19 Apr 2012,v CSK,Chennai,1,0,0,0,0,0
+267192,21 Apr 2012,v Daredevils,Delhi,2,2,2,0,0,2
+267192,24 Apr 2012,v Daredevils,Pune,2,0,0,0,0,0
+267192,26 Apr 2012,v Chargers,Pune,1,0,0,0,0,0
+267192,1 May 2012,v Chargers,Cuttack,1,1,1,0,0,1
+267192,3 May 2012,v MI,Pune,1,0,0,0,0,0
+267192,5 May 2012,v KKR,Eden Gardens,1,1,1,0,0,1
+267192,8 May 2012,v RR,Pune,2,1,1,0,0,1
+267192,11 May 2012,v RCB,Pune,1,1,1,0,0,1
+267192,13 May 2012,v RR,Jaipur,1,0,0,0,0,0
+267192,14 Oct 2012,v CSK,Johannesburg,2,2,2,0,0,2
+267192,16 Oct 2012,v Yorkshire,Cape Town,1,1,1,0,0,1
+267192,18 Oct 2012,v Lions,Cape Town,1,0,0,0,0,0
+267192,22 Oct 2012,v MI,Durban,2,1,1,0,0,1
+267192,26 Oct 2012,v Titans,Centurion,1,0,0,0,0,0
+267192,28 Oct 2012,v Lions,Johannesburg,1,0,0,0,0,0
+267192,8 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+267192,16 Dec 2012,v Scorchers,Sydney,2,0,0,0,0,0
+267192,21 Dec 2012,v Stars,Melbourne,1,1,1,0,0,1
+267192,23 Dec 2012,v Strikers,Adelaide,2,0,0,0,0,0
+267192,26 Dec 2012,v Hurricanes,Sydney,2,0,0,0,0,0
+267192,30 Dec 2012,v Thunder,Sydney,1,0,0,0,0,0
+267192,7 Jan 2013,v Heat,Brisbane,1,2,2,0,0,2
+267192,15 Apr 2013,v CSK,Chennai,2,3,3,0,0,3
+267192,17 Apr 2013,v SRH,Pune,1,0,0,0,0,0
+267192,21 Apr 2013,v Kings XI,Mohali,2,0,0,0,0,0
+267192,23 Apr 2013,v RCB,Bengaluru,1,0,0,0,0,0
+267192,28 Apr 2013,v Daredevils,Raipur,1,0,0,0,0,0
+267192,30 Apr 2013,v CSK,Pune,1,1,1,0,0,1
+267192,2 May 2013,v RCB,Pune,1,0,0,0,0,0
+267192,21 Dec 2013,v Thunder,Sydney,1,0,0,0,0,0
+267192,10 Jan 2014,v Scorchers,Sydney,1,1,1,0,0,1
+267192,15 Jan 2014,v Hurricanes,Sydney,2,2,2,0,0,2
+267192,18 Jan 2014,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+267192,20 Apr 2014,v Kings XI,Sharjah,2,1,1,0,0,1
+267192,23 Apr 2014,v CSK,Dubai (DICS),1,1,1,0,0,1
+267192,26 Apr 2014,v RCB,Abu Dhabi,1,2,2,0,0,2
+267192,29 Apr 2014,v KKR,Abu Dhabi,2,2,2,0,0,2
+267192,3 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+267192,5 May 2014,v KKR,Ahmedabad,2,0,0,0,0,0
+267192,8 May 2014,v SRH,Ahmedabad,1,0,0,0,0,0
+267192,11 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+267192,13 May 2014,v CSK,Ranchi,2,0,0,0,0,0
+267192,15 May 2014,v Daredevils,Ahmedabad,2,2,2,0,0,2
+267192,5 Oct 2014,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+267192,10 Apr 2015,v Kings XI,Pune,2,0,0,0,0,0
+267192,12 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+267192,14 Apr 2015,v MI,Ahmedabad,1,1,1,0,0,1
+267192,16 Apr 2015,v SRH,Visakhapatnam,1,0,0,0,0,0
+267192,19 Apr 2015,v CSK,Ahmedabad,1,0,0,0,0,0
+267192,21 Apr 2015,v Kings XI,Ahmedabad,2,1,1,0,0,1
+267192,24 Apr 2015,v RCB,Ahmedabad,2,0,0,0,0,0
+267192,29 Apr 2015,v RCB,Bengaluru,1,0,0,0,0,0
+267192,1 May 2015,v MI,Wankhede,1,0,0,0,0,0
+267192,3 May 2015,v Daredevils,Brabourne,2,1,1,0,0,1
+267192,7 May 2015,v SRH,Brabourne,1,1,1,0,0,1
+267192,10 May 2015,v CSK,Chennai,1,1,1,0,0,1
+267192,16 May 2015,v KKR,Brabourne,2,2,2,0,0,2
+267192,20 May 2015,v RCB,Pune,1,0,0,0,0,0
+267192,31 Aug 2015,v England,Cardiff,1,0,0,0,0,0
+267192,26 Jan 2016,v India,Adelaide,1,0,0,0,0,0
+267192,4 Mar 2016,v South Africa,Durban,2,0,0,0,0,0
+267192,6 Mar 2016,v South Africa,Johannesburg,1,1,1,0,0,1
+267192,9 Mar 2016,v South Africa,Cape Town,1,1,1,0,0,1
+267192,18 Mar 2016,v New Zealand,Dharamsala,1,0,0,0,0,0
+267192,21 Mar 2016,v Bangladesh,Bengaluru,1,0,0,0,0,0
+267192,25 Mar 2016,v Pakistan,Mohali,2,0,0,0,0,0
+267192,27 Mar 2016,v India,Mohali,2,0,0,0,0,0
+267192,9 Apr 2016,v MI,Wankhede,1,1,1,0,0,1
+267192,14 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+267192,17 Apr 2016,v Kings XI,Mohali,2,0,0,0,0,0
+267192,22 Apr 2016,v RCB,Pune,1,0,0,0,0,0
+267192,24 Apr 2016,v KKR,Pune,2,1,1,0,0,1
+267192,26 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+267192,29 Apr 2016,v Guj Lions,Pune,2,0,0,0,0,0
+267192,1 May 2016,v MI,Pune,2,0,0,0,0,0
+267192,6 Apr 2017,v MI,Pune,1,0,0,0,0,0
+267192,8 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+267192,14 Apr 2017,v Guj Lions,Rajkot,2,0,0,0,0,0
+267192,16 Apr 2017,v RCB,Bengaluru,2,0,0,0,0,0
+267192,22 Apr 2017,v SRH,Pune,1,0,0,0,0,0
+267192,24 Apr 2017,v MI,Wankhede,2,1,1,0,0,1
+267192,26 Apr 2017,v KKR,Pune,2,0,0,0,0,0
+267192,29 Apr 2017,v RCB,Pune,2,2,2,0,0,2
+267192,1 May 2017,v Guj Lions,Pune,1,0,0,0,0,0
+267192,3 May 2017,v KKR,Eden Gardens,1,0,0,0,0,0
+267192,6 May 2017,v SRH,Hyderabad,2,0,0,0,0,0
+267192,12 May 2017,v Daredevils,Delhi,1,0,0,0,0,0
+267192,14 May 2017,v Kings XI,Pune,1,2,2,0,0,2
+267192,16 May 2017,v MI,Wankhede,2,2,2,0,0,2
+267192,21 May 2017,v MI,Hyderabad,1,0,0,0,0,0
+267192,12 Aug 2018,v Amazon,Providence,2,0,0,0,0,0
+267192,17 Aug 2018,v Stars,Gros Islet,1,0,0,0,0,0
+267192,22 Aug 2018,v Tallawahs,Lauderhill,2,0,0,0,0,0
+267192,25 Aug 2018,v Patriots,Bridgetown,2,0,0,0,0,0
+267192,26 Aug 2018,v Trinbago,Bridgetown,2,1,1,0,0,1
+267192,29 Aug 2018,v Tallawahs,Bridgetown,2,0,0,0,0,0
+267192,31 Aug 2018,v Amazon,Bridgetown,2,2,2,0,0,2
+267192,6 Jan 2019,v Sylhet,Mirpur,1,1,1,0,0,1
+267192,8 Jan 2019,v Rangpur,Mirpur,2,0,0,0,0,0
+267192,25 Mar 2019,v Kings XI,Jaipur,1,0,0,0,0,0
+267192,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+267192,31 Mar 2019,v CSK,Chennai,1,0,0,0,0,0
+267192,2 Apr 2019,v RCB,Jaipur,1,0,0,0,0,0
+267192,7 Apr 2019,v KKR,Jaipur,2,1,1,0,0,1
+267192,11 Apr 2019,v CSK,Jaipur,2,0,0,0,0,0
+267192,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+267192,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+267192,22 Apr 2019,v DC,Jaipur,2,0,0,0,0,0
+267192,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+267192,27 Apr 2019,v SRH,Jaipur,1,1,1,0,0,1
+267192,30 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+267192,27 Oct 2019,v Sri Lanka,Adelaide,2,0,0,0,0,0
+267192,30 Oct 2019,v Sri Lanka,Brisbane,1,0,0,0,0,0
+267192,1 Nov 2019,v Sri Lanka,Melbourne,1,0,0,0,0,0
+267192,3 Nov 2019,v Pakistan,Sydney,1,3,3,0,0,3
+267192,5 Nov 2019,v Pakistan,Canberra,1,0,0,0,0,0
+267192,8 Nov 2019,v Pakistan,Perth,1,0,0,0,0,0
+267192,23 Jan 2020,v Heat,Brisbane,1,3,3,0,0,3
+267192,25 Jan 2020,v Renegades,Sydney,1,0,0,0,0,0
+267192,31 Jan 2020,v Stars,Melbourne,2,1,1,0,0,1
+267192,8 Feb 2020,v Stars,Sydney,2,0,0,0,0,0
+267192,21 Feb 2020,v South Africa,Johannesburg,2,0,0,0,0,0
+267192,23 Feb 2020,v South Africa,Gqeberha,1,0,0,0,0,0
+267192,26 Feb 2020,v South Africa,Cape Town,2,0,0,0,0,0
+267192,4 Sep 2020,v England,Southampton,1,2,2,0,0,2
+267192,6 Sep 2020,v England,Southampton,2,0,0,0,0,0
+267192,8 Sep 2020,v England,Southampton,1,2,2,0,0,2
+267192,22 Sep 2020,v CSK,Sharjah,2,0,0,0,0,0
+267192,27 Sep 2020,v Kings XI,Sharjah,1,0,0,0,0,0
+267192,30 Sep 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+267192,3 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+267192,6 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+267192,9 Oct 2020,v DC,Sharjah,1,1,1,0,0,1
+267192,11 Oct 2020,v SRH,Dubai (DICS),1,0,0,0,0,0
+267192,14 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+267192,17 Oct 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+267192,19 Oct 2020,v CSK,Abu Dhabi,1,0,0,0,0,0
+267192,22 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+267192,25 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+267192,30 Oct 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+267192,1 Nov 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+267192,4 Dec 2020,v India,Canberra,1,1,1,0,0,1
+267192,6 Dec 2020,v India,Sydney,2,1,1,0,0,1
+267192,8 Dec 2020,v India,Sydney,2,2,2,0,0,2
+267192,18 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+267192,20 Apr 2021,v MI,Chennai,1,2,2,0,0,2
+267192,25 Apr 2021,v SRH,Chennai,2,0,0,0,0,0
+267192,27 Apr 2021,v RCB,Ahmedabad,1,2,2,0,0,2
+267192,29 Apr 2021,v KKR,Ahmedabad,1,2,2,0,0,2
+267192,2 May 2021,v Punjab Kings,Ahmedabad,1,1,1,0,0,1
+267192,28 Sep 2021,v KKR,Sharjah,2,1,1,0,0,1
+267192,2 Oct 2021,v MI,Sharjah,1,1,1,0,0,1
+267192,23 Oct 2021,v South Africa,Abu Dhabi,1,1,1,0,0,1
+267192,28 Oct 2021,v Sri Lanka,Dubai (DICS),1,2,2,0,0,2
+267192,30 Oct 2021,v England,Dubai (DICS),2,0,0,0,0,0
+267192,4 Nov 2021,v Bangladesh,Dubai (DICS),1,1,1,0,0,1
+267192,6 Nov 2021,v West Indies,Abu Dhabi,1,1,1,0,0,1
+267192,11 Nov 2021,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+267192,14 Nov 2021,v New Zealand,Dubai (DICS),1,1,1,0,0,1
+267192,11 Feb 2022,v Sri Lanka,Sydney,2,2,2,0,0,2
+267192,13 Feb 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+267192,7 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+267192,8 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+267192,11 Jun 2022,v Sri Lanka,Pallekele,2,0,0,0,0,0
+267192,20 Sep 2022,v India,Mohali,1,0,0,0,0,0
+267192,23 Sep 2022,v India,Nagpur,2,0,0,0,0,0
+267192,25 Sep 2022,v India,Hyderabad,2,0,0,0,0,0
+267192,7 Oct 2022,v West Indies,Brisbane,2,0,0,0,0,0
+267192,14 Oct 2022,v England,Canberra,1,0,0,0,0,0
+267192,4 Nov 2022,v Afghanistan,Adelaide,2,0,0,0,0,0
+267192,15 Jan 2023,v Scorchers,Sydney,2,0,0,0,0,0
+267192,17 Jan 2023,v Strikers,Coffs Harbour,2,1,1,0,0,1
+267192,21 Jan 2023,v Thunder,Sydney,2,0,0,0,0,0
+267192,23 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+267192,28 Jan 2023,v Scorchers,Perth,2,0,0,0,0,0
+267192,23 Nov 2023,v India,Visakhapatnam,2,1,1,0,0,1
+267192,26 Nov 2023,v India,Thiruvananthapuram,1,0,0,0,0,0
+267192,8 Dec 2023,v Renegades,Sydney,2,1,1,0,0,1
+267192,12 Jan 2024,v Thunder,Sydney,2,0,0,0,0,0
+267192,23 Feb 2024,v New Zealand,Auckland,2,1,1,0,0,1
+267192,25 Feb 2024,v New Zealand,Auckland,2,0,0,0,0,0
+267192,6 Jul 2024,v MI New York,Morrisville,1,1,1,0,0,1
+267192,8 Jul 2024,v Texas,Morrisville,1,1,1,0,0,1
+267192,11 Jul 2024,v Seattle,Dallas,1,1,1,0,0,1
+267192,14 Jul 2024,v Los Angeles,Morrisville,1,1,1,0,0,1
+267192,16 Jul 2024,v MI New York,Dallas,2,0,0,0,0,0
+267192,19 Jul 2024,v Texas,Dallas,2,2,2,0,0,2
+267192,22 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+267192,25 Jul 2024,v SF,Dallas,1,0,0,0,0,0
+267192,28 Jul 2024,v SF,Dallas,2,0,0,0,0,0
+267192,11 Jan 2025,v Scorchers,Sydney,2,0,0,0,0,0
+267192,15 Jan 2025,v Strikers,Adelaide,1,0,0,0,0,0
+267192,17 Jan 2025,v Thunder,Sydney,1,0,0,0,0,0
+267192,7 Aug 2025,v N S-Chargers,Leeds,2,0,0,0,0,0
+267192,9 Aug 2025,v Spirit,Cardiff,1,1,1,0,0,1
+267192,13 Aug 2025,v Originals,Cardiff,2,1,1,0,0,1
+267192,16 Aug 2025,v Invincibles,The Oval,1,2,2,0,0,2
+267192,20 Aug 2025,v Brave,Cardiff,1,2,2,0,0,2
+267192,22 Aug 2025,v Phoenix,Birmingham,1,0,0,0,0,0
+267192,24 Aug 2025,v Rockets,Cardiff,2,2,2,0,0,2
+267192,28 Aug 2025,v Brave,Southampton,1,1,1,0,0,1
+267192,11 Jan 2026,v Hurricanes,Sydney,-,TDNF,-,-,-,-
+267192,16 Jan 2026,v Thunder,Sydney,1,2,2,0,0,2
+267192,18 Jan 2026,v Heat,Brisbane,1,0,0,0,0,0
+267192,20 Jan 2026,v Scorchers,Perth,1,1,1,0,0,1
+267192,23 Jan 2026,v Hurricanes,Sydney,2,1,1,0,0,1
+267192,25 Jan 2026,v Scorchers,Perth,2,1,1,0,0,1

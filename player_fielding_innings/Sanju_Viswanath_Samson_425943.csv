@@ -1,0 +1,331 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+425943,16 Oct 2011,v Hyderabad,Chennai,1,0,0,0,0,0
+425943,17 Oct 2011,v Karnataka,Chennai,1,1,1,0,1,0
+425943,18 Oct 2011,v Andhra,Chennai,1,0,0,0,0,0
+425943,17 Mar 2013,v Hyderabad,Shimoga,1,1,1,0,0,1
+425943,18 Mar 2013,v Karnataka,Bhadravati,1,1,1,0,0,1
+425943,22 Mar 2013,v Goa,Bhadravati,2,0,0,0,0,0
+425943,26 Mar 2013,v Delhi,Indore,1,0,0,0,0,0
+425943,28 Mar 2013,v Vidarbha,Indore,1,0,0,0,0,0
+425943,29 Mar 2013,v Odisha,Indore,1,0,0,0,0,0
+425943,30 Mar 2013,v Gujarat,Indore,1,0,0,0,0,0
+425943,14 Apr 2013,v Kings XI,Jaipur,1,3,3,0,3,0
+425943,29 Apr 2013,v RCB,Jaipur,1,2,2,0,2,0
+425943,3 May 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+425943,5 May 2013,v Warriors,Jaipur,1,0,0,0,0,0
+425943,7 May 2013,v Daredevils,Jaipur,1,1,1,0,1,0
+425943,9 May 2013,v Kings XI,Mohali,1,1,1,0,0,1
+425943,12 May 2013,v CSK,Jaipur,1,1,1,0,0,1
+425943,15 May 2013,v MI,Wankhede,1,2,2,0,0,2
+425943,17 May 2013,v SRH,Hyderabad,1,0,0,0,0,0
+425943,22 May 2013,v SRH,Delhi,1,1,1,0,0,1
+425943,24 May 2013,v MI,Eden Gardens,2,2,2,0,0,2
+425943,21 Sep 2013,v MI,Jaipur,1,3,3,0,3,0
+425943,25 Sep 2013,v Lions,Jaipur,2,1,1,0,1,0
+425943,29 Sep 2013,v Scorchers,Jaipur,1,1,0,1,0,0
+425943,1 Oct 2013,v Otago,Jaipur,1,1,1,0,1,0
+425943,4 Oct 2013,v CSK,Jaipur,2,0,0,0,0,0
+425943,6 Oct 2013,v MI,Delhi,1,0,0,0,0,0
+425943,1 Apr 2014,v Hyderabad,Visakhapatnam,1,0,0,0,0,0
+425943,2 Apr 2014,v Goa,Visakhapatnam,1,0,0,0,0,0
+425943,3 Apr 2014,v Karnataka,Visakhapatnam,2,1,1,0,0,1
+425943,4 Apr 2014,v Tamil Nadu,Visakhapatnam,1,0,0,0,0,0
+425943,5 Apr 2014,v Andhra,Vizianagaram,1,1,1,0,0,1
+425943,8 Apr 2014,v Delhi,Wankhede,2,1,1,0,1,0
+425943,10 Apr 2014,v Rajasthan,Mumbai,2,1,1,0,1,0
+425943,11 Apr 2014,v Bengal,Mumbai,2,3,2,1,2,0
+425943,18 Apr 2014,v SRH,Abu Dhabi,1,1,1,0,1,0
+425943,20 Apr 2014,v Kings XI,Sharjah,2,0,0,0,0,0
+425943,23 Apr 2014,v CSK,Dubai (DICS),1,0,0,0,0,0
+425943,26 Apr 2014,v RCB,Abu Dhabi,1,1,1,0,1,0
+425943,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+425943,3 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+425943,5 May 2014,v KKR,Ahmedabad,2,2,1,1,1,0
+425943,8 May 2014,v SRH,Ahmedabad,1,2,1,1,1,0
+425943,11 May 2014,v RCB,Bengaluru,1,1,1,0,1,0
+425943,15 May 2014,v Daredevils,Ahmedabad,2,0,0,0,0,0
+425943,19 May 2014,v MI,Ahmedabad,1,0,0,0,0,0
+425943,23 May 2014,v Kings XI,Mohali,1,0,0,0,0,0
+425943,25 May 2014,v MI,Wankhede,2,0,0,0,0,0
+425943,25 Mar 2015,v Goa,Kochi,2,2,2,0,2,0
+425943,26 Mar 2015,v Tamil Nadu,Kochi,2,2,2,0,2,0
+425943,27 Mar 2015,v Hyderabad,Kochi,2,0,0,0,0,0
+425943,28 Mar 2015,v Andhra,Kochi,2,1,1,0,0,1
+425943,29 Mar 2015,v Karnataka,Kochi,2,1,1,0,1,0
+425943,10 Apr 2015,v Kings XI,Pune,2,1,1,0,1,0
+425943,12 Apr 2015,v Daredevils,Delhi,1,0,0,0,0,0
+425943,14 Apr 2015,v MI,Ahmedabad,1,0,0,0,0,0
+425943,16 Apr 2015,v SRH,Visakhapatnam,1,1,1,0,1,0
+425943,19 Apr 2015,v CSK,Ahmedabad,1,1,1,0,1,0
+425943,21 Apr 2015,v Kings XI,Ahmedabad,2,0,0,0,0,0
+425943,24 Apr 2015,v RCB,Ahmedabad,2,1,1,0,1,0
+425943,29 Apr 2015,v RCB,Bengaluru,1,1,1,0,1,0
+425943,1 May 2015,v MI,Wankhede,1,1,1,0,1,0
+425943,3 May 2015,v Daredevils,Brabourne,2,1,1,0,1,0
+425943,7 May 2015,v SRH,Brabourne,1,1,1,0,1,0
+425943,10 May 2015,v CSK,Chennai,1,0,0,0,0,0
+425943,16 May 2015,v KKR,Brabourne,2,1,1,0,1,0
+425943,20 May 2015,v RCB,Pune,1,0,0,0,0,0
+425943,19 Jul 2015,v Zimbabwe,Harare,1,1,1,0,0,1
+425943,2 Jan 2016,v J & K,Kochi,1,0,0,0,0,0
+425943,3 Jan 2016,v Rajasthan,Kochi,2,0,0,0,0,0
+425943,4 Jan 2016,v Tripura,Kochi,1,0,0,0,0,0
+425943,6 Jan 2016,v Saurashtra,Kochi,2,0,0,0,0,0
+425943,9 Jan 2016,v Punjab,Kochi,1,0,0,0,0,0
+425943,10 Jan 2016,v Jharkhand,Kochi,2,1,1,0,1,0
+425943,15 Jan 2016,v Mumbai,Wankhede,2,2,2,0,2,0
+425943,16 Jan 2016,v Baroda,Wankhede,1,0,0,0,0,0
+425943,18 Jan 2016,v Vidarbha,Wankhede,1,2,1,1,1,0
+425943,10 Apr 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+425943,15 Apr 2016,v Kings XI,Delhi,1,0,0,0,0,0
+425943,17 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+425943,23 Apr 2016,v MI,Delhi,2,0,0,0,0,0
+425943,27 Apr 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+425943,30 Apr 2016,v KKR,Delhi,2,0,0,0,0,0
+425943,3 May 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+425943,5 May 2016,v Supergiants,Delhi,2,1,0,1,0,0
+425943,7 May 2016,v Kings XI,Mohali,1,1,1,0,0,1
+425943,12 May 2016,v SRH,Hyderabad,1,2,2,0,0,2
+425943,15 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+425943,17 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+425943,20 May 2016,v SRH,Raipur,1,0,0,0,0,0
+425943,22 May 2016,v RCB,Raipur,2,0,0,0,0,0
+425943,29 Jan 2017,v Andhra,Chennai,2,0,0,0,0,0
+425943,30 Jan 2017,v Karnataka,Chennai,1,0,0,0,0,0
+425943,31 Jan 2017,v Hyderabad,Chennai,1,1,0,1,0,0
+425943,2 Feb 2017,v Goa,Chennai,1,4,3,1,3,0
+425943,3 Feb 2017,v Tamil Nadu,Chennai,2,1,1,0,1,0
+425943,8 Apr 2017,v RCB,Bengaluru,1,1,1,0,0,1
+425943,11 Apr 2017,v Supergiant,Pune,2,2,2,0,0,2
+425943,15 Apr 2017,v Kings XI,Delhi,2,0,0,0,0,0
+425943,17 Apr 2017,v KKR,Delhi,2,0,0,0,0,0
+425943,19 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+425943,22 Apr 2017,v MI,Wankhede,1,1,1,0,0,1
+425943,28 Apr 2017,v KKR,Eden Gardens,2,0,0,0,0,0
+425943,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+425943,2 May 2017,v SRH,Delhi,1,0,0,0,0,0
+425943,4 May 2017,v Guj Lions,Delhi,1,0,0,0,0,0
+425943,6 May 2017,v MI,Delhi,1,0,0,0,0,0
+425943,10 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+425943,12 May 2017,v Supergiant,Delhi,2,0,0,0,0,0
+425943,14 May 2017,v RCB,Delhi,1,0,0,0,0,0
+425943,8 Jan 2018,v Hyderabad,Vizianagaram,1,1,1,0,1,0
+425943,9 Jan 2018,v Tamil Nadu,Visakhapatnam,1,0,0,0,0,0
+425943,11 Jan 2018,v Andhra,Visakhapatnam,2,1,0,1,0,0
+425943,12 Jan 2018,v Goa,Visakhapatnam,1,0,0,0,0,0
+425943,14 Jan 2018,v Karnataka,Vizianagaram,1,0,0,0,0,0
+425943,9 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+425943,11 Apr 2018,v Daredevils,Jaipur,2,0,0,0,0,0
+425943,15 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+425943,18 Apr 2018,v KKR,Jaipur,2,0,0,0,0,0
+425943,20 Apr 2018,v CSK,Pune,1,0,0,0,0,0
+425943,22 Apr 2018,v MI,Jaipur,1,0,0,0,0,0
+425943,29 Apr 2018,v SRH,Jaipur,1,1,1,0,0,1
+425943,2 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+425943,6 May 2018,v Kings XI,Indore,2,1,1,0,0,1
+425943,8 May 2018,v Kings XI,Jaipur,2,0,0,0,0,0
+425943,11 May 2018,v CSK,Jaipur,1,0,0,0,0,0
+425943,13 May 2018,v MI,Wankhede,1,3,3,0,0,3
+425943,15 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+425943,19 May 2018,v RCB,Jaipur,2,0,0,0,0,0
+425943,23 May 2018,v KKR,Eden Gardens,1,0,0,0,0,0
+425943,25 Mar 2019,v Kings XI,Jaipur,1,0,0,0,0,0
+425943,29 Mar 2019,v SRH,Hyderabad,2,0,0,0,0,0
+425943,31 Mar 2019,v CSK,Chennai,1,0,0,0,0,0
+425943,11 Apr 2019,v CSK,Jaipur,2,0,0,0,0,0
+425943,13 Apr 2019,v MI,Wankhede,1,0,0,0,0,0
+425943,16 Apr 2019,v Kings XI,Mohali,1,1,1,0,1,0
+425943,20 Apr 2019,v MI,Jaipur,1,0,0,0,0,0
+425943,22 Apr 2019,v DC,Jaipur,2,1,0,1,0,0
+425943,25 Apr 2019,v KKR,Eden Gardens,1,0,0,0,0,0
+425943,27 Apr 2019,v SRH,Jaipur,1,2,2,0,2,0
+425943,30 Apr 2019,v RCB,Bengaluru,1,1,1,0,1,0
+425943,4 May 2019,v DC,Delhi,2,0,0,0,0,0
+425943,12 Nov 2019,v Manipur,Thiruvananthapuram,2,1,1,0,1,0
+425943,14 Nov 2019,v Vidarbha,Thumba,2,1,1,0,1,0
+425943,15 Nov 2019,v Rajasthan,Thiruvananthapuram,2,0,0,0,0,0
+425943,17 Nov 2019,v UP,Thiruvananthapuram,2,1,0,1,0,0
+425943,10 Jan 2020,v Sri Lanka,Pune,2,1,0,1,0,0
+425943,31 Jan 2020,v New Zealand,Wellington,2,0,0,0,0,0
+425943,2 Feb 2020,v New Zealand,Mount Maunganui,2,1,1,0,0,1
+425943,22 Sep 2020,v CSK,Sharjah,2,4,2,2,2,0
+425943,27 Sep 2020,v Kings XI,Sharjah,1,1,1,0,0,1
+425943,30 Sep 2020,v KKR,Dubai (DICS),1,1,1,0,0,1
+425943,3 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+425943,6 Oct 2020,v MI,Abu Dhabi,1,1,1,0,0,1
+425943,9 Oct 2020,v DC,Sharjah,1,0,0,0,0,0
+425943,11 Oct 2020,v SRH,Dubai (DICS),1,1,1,0,0,1
+425943,14 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+425943,17 Oct 2020,v RCB,Dubai (DICS),2,0,0,0,0,0
+425943,19 Oct 2020,v CSK,Abu Dhabi,1,1,1,0,1,0
+425943,22 Oct 2020,v SRH,Dubai (DICS),2,0,0,0,0,0
+425943,25 Oct 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+425943,30 Oct 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+425943,1 Nov 2020,v KKR,Dubai (DICS),1,2,2,0,2,0
+425943,4 Dec 2020,v Australia,Canberra,2,1,1,0,0,1
+425943,6 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+425943,8 Dec 2020,v Australia,Sydney,1,0,0,0,0,0
+425943,11 Jan 2021,v Puducherry,Wankhede,1,0,0,0,0,0
+425943,13 Jan 2021,v Mumbai,Wankhede,1,0,0,0,0,0
+425943,15 Jan 2021,v Delhi,Wankhede,1,0,0,0,0,0
+425943,17 Jan 2021,v Andhra,Mumbai,2,0,0,0,0,0
+425943,19 Jan 2021,v Haryana,Wankhede,1,0,0,0,0,0
+425943,12 Apr 2021,v Punjab Kings,Wankhede,1,1,1,0,1,0
+425943,15 Apr 2021,v DC,Wankhede,1,1,1,0,1,0
+425943,19 Apr 2021,v CSK,Wankhede,1,1,1,0,1,0
+425943,22 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+425943,24 Apr 2021,v KKR,Wankhede,1,1,1,0,1,0
+425943,29 Apr 2021,v MI,Delhi,2,0,0,0,0,0
+425943,2 May 2021,v SRH,Delhi,2,0,0,0,0,0
+425943,25 Jul 2021,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+425943,28 Jul 2021,v Sri Lanka,Colombo (RPS),2,1,0,1,0,0
+425943,29 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+425943,21 Sep 2021,v Punjab Kings,Dubai (DICS),2,2,2,0,2,0
+425943,25 Sep 2021,v DC,Abu Dhabi,1,1,0,1,0,0
+425943,27 Sep 2021,v SRH,Dubai (DICS),2,2,1,1,1,0
+425943,29 Sep 2021,v RCB,Dubai (DICS),2,0,0,0,0,0
+425943,2 Oct 2021,v CSK,Abu Dhabi,1,2,0,2,0,0
+425943,5 Oct 2021,v MI,Sharjah,2,0,0,0,0,0
+425943,7 Oct 2021,v KKR,Sharjah,1,0,0,0,0,0
+425943,4 Nov 2021,v Gujarat,Delhi,2,0,0,0,0,0
+425943,5 Nov 2021,v Bihar,Delhi,1,0,0,0,0,0
+425943,6 Nov 2021,v Railways,Delhi,1,1,1,0,1,0
+425943,8 Nov 2021,v Assam,Delhi,1,1,1,0,1,0
+425943,9 Nov 2021,v M. Pradesh,Delhi,1,0,0,0,0,0
+425943,16 Nov 2021,v Himachal,Delhi,1,1,1,0,0,1
+425943,18 Nov 2021,v Tamil Nadu,Delhi,2,1,1,0,0,1
+425943,24 Feb 2022,v Sri Lanka,Lucknow,2,1,1,0,0,1
+425943,26 Feb 2022,v Sri Lanka,Dharamsala,1,0,0,0,0,0
+425943,27 Feb 2022,v Sri Lanka,Dharamsala,1,1,1,0,1,0
+425943,29 Mar 2022,v SRH,Pune,2,1,1,0,1,0
+425943,2 Apr 2022,v MI,DY Patil,2,0,0,0,0,0
+425943,5 Apr 2022,v RCB,Wankhede,2,1,1,0,1,0
+425943,10 Apr 2022,v LSG,Wankhede,2,0,0,0,0,0
+425943,14 Apr 2022,v GT,DY Patil,1,1,1,0,1,0
+425943,18 Apr 2022,v KKR,Brabourne,2,2,1,1,1,0
+425943,22 Apr 2022,v DC,Wankhede,2,3,3,0,3,0
+425943,26 Apr 2022,v RCB,Pune,2,0,0,0,0,0
+425943,30 Apr 2022,v MI,DY Patil,2,1,1,0,1,0
+425943,2 May 2022,v KKR,Wankhede,2,1,1,0,1,0
+425943,7 May 2022,v Punjab Kings,Wankhede,1,0,0,0,0,0
+425943,11 May 2022,v DC,DY Patil,2,1,1,0,1,0
+425943,15 May 2022,v LSG,Brabourne,2,2,1,1,1,0
+425943,20 May 2022,v CSK,Brabourne,1,1,1,0,1,0
+425943,24 May 2022,v GT,Eden Gardens,2,1,1,0,1,0
+425943,27 May 2022,v RCB,Ahmedabad,1,1,1,0,1,0
+425943,29 May 2022,v GT,Ahmedabad,2,0,0,0,0,0
+425943,28 Jun 2022,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+425943,1 Jul 2022,v Derbyshire,Derby,1,1,1,0,0,1
+425943,3 Jul 2022,v Northants,Northampton,2,0,0,0,0,0
+425943,6 Aug 2022,v West Indies,Lauderhill,2,1,1,0,0,1
+425943,7 Aug 2022,v West Indies,Lauderhill,2,0,0,0,0,0
+425943,14 Oct 2022,v Haryana,Mohali,1,0,0,0,0,0
+425943,16 Oct 2022,v Services,New Chandigarh,1,0,0,0,0,0
+425943,18 Oct 2022,v Maharashtra,New Chandigarh,1,1,0,1,0,0
+425943,20 Oct 2022,v J & K,Mohali,2,1,1,0,1,0
+425943,22 Oct 2022,v Meghalaya,New Chandigarh,1,1,1,0,1,0
+425943,30 Oct 2022,v Saurashtra,Eden Gardens,1,0,0,0,0,0
+425943,3 Jan 2023,v Sri Lanka,Wankhede,2,2,2,0,0,2
+425943,2 Apr 2023,v SRH,Hyderabad,2,1,0,1,0,0
+425943,5 Apr 2023,v Punjab Kings,Guwahati,1,0,0,0,0,0
+425943,8 Apr 2023,v DC,Guwahati,2,2,1,1,1,0
+425943,12 Apr 2023,v CSK,Chennai,2,0,0,0,0,0
+425943,16 Apr 2023,v GT,Ahmedabad,1,0,0,0,0,0
+425943,19 Apr 2023,v LSG,Jaipur,1,1,1,0,1,0
+425943,23 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+425943,27 Apr 2023,v CSK,Jaipur,2,1,1,0,1,0
+425943,30 Apr 2023,v MI,Wankhede,2,0,0,0,0,0
+425943,5 May 2023,v GT,Jaipur,2,1,0,1,0,0
+425943,7 May 2023,v SRH,Jaipur,2,0,0,0,0,0
+425943,11 May 2023,v KKR,Eden Gardens,1,0,0,0,0,0
+425943,14 May 2023,v RCB,Jaipur,1,0,0,0,0,0
+425943,19 May 2023,v Punjab Kings,Dharamsala,1,0,0,0,0,0
+425943,3 Aug 2023,v West Indies,Tarouba,1,0,0,0,0,0
+425943,6 Aug 2023,v West Indies,Providence,2,1,1,0,0,1
+425943,8 Aug 2023,v West Indies,Providence,1,1,0,1,0,0
+425943,12 Aug 2023,v West Indies,Lauderhill,1,2,2,0,2,0
+425943,13 Aug 2023,v West Indies,Lauderhill,2,0,0,0,0,0
+425943,18 Aug 2023,v Ireland,Dublin (Malahide),1,1,1,0,1,0
+425943,20 Aug 2023,v Ireland,Dublin (Malahide),2,1,1,0,1,0
+425943,16 Oct 2023,v Himachal,Mumbai,2,1,0,1,0,0
+425943,17 Oct 2023,v Services,Mumbai,2,0,0,0,0,0
+425943,19 Oct 2023,v Bihar,DY Patil,1,1,1,0,1,0
+425943,21 Oct 2023,v Chandigarh,DY Patil,2,0,0,0,0,0
+425943,23 Oct 2023,v Sikkim,Mumbai,2,1,0,1,0,0
+425943,25 Oct 2023,v Odisha,DY Patil,2,0,0,0,0,0
+425943,27 Oct 2023,v Assam,Mumbai,2,0,0,0,0,0
+425943,2 Nov 2023,v Assam,Mohali,2,0,0,0,0,0
+425943,17 Jan 2024,v Afghanistan,Bengaluru,2,1,0,1,0,0
+425943,24 Mar 2024,v LSG,Jaipur,2,0,0,0,0,0
+425943,28 Mar 2024,v DC,Jaipur,2,2,2,0,2,0
+425943,1 Apr 2024,v MI,Wankhede,1,2,2,0,2,0
+425943,6 Apr 2024,v RCB,Jaipur,1,0,0,0,0,0
+425943,10 Apr 2024,v GT,Jaipur,2,1,0,1,0,0
+425943,13 Apr 2024,v Punjab Kings,New Chandigarh,1,0,0,0,0,0
+425943,16 Apr 2024,v KKR,Eden Gardens,1,0,0,0,0,0
+425943,22 Apr 2024,v MI,Jaipur,1,2,2,0,2,0
+425943,27 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+425943,2 May 2024,v SRH,Hyderabad,1,0,0,0,0,0
+425943,7 May 2024,v DC,Delhi,1,0,0,0,0,0
+425943,12 May 2024,v CSK,Chennai,2,0,0,0,0,0
+425943,15 May 2024,v Punjab Kings,Guwahati,2,0,0,0,0,0
+425943,19 May 2024,v KKR,Guwahati,-,TDNF,-,-,-,-
+425943,22 May 2024,v RCB,Ahmedabad,1,0,0,0,0,0
+425943,24 May 2024,v SRH,Chennai,1,0,0,0,0,0
+425943,10 Jul 2024,v Zimbabwe,Harare,2,0,0,0,0,0
+425943,13 Jul 2024,v Zimbabwe,Harare,1,0,0,0,0,0
+425943,14 Jul 2024,v Zimbabwe,Harare,2,2,2,0,2,0
+425943,28 Jul 2024,v Sri Lanka,Pallekele,1,1,1,0,0,1
+425943,30 Jul 2024,v Sri Lanka,Pallekele,2,2,2,0,2,0
+425943,6 Oct 2024,v Bangladesh,Gwalior,1,0,0,0,0,0
+425943,9 Oct 2024,v Bangladesh,Delhi,2,0,0,0,0,0
+425943,12 Oct 2024,v Bangladesh,Hyderabad,2,1,1,0,1,0
+425943,8 Nov 2024,v South Africa,Durban,2,1,1,0,1,0
+425943,10 Nov 2024,v South Africa,Gqeberha,2,0,0,0,0,0
+425943,13 Nov 2024,v South Africa,Centurion,2,1,0,1,0,0
+425943,15 Nov 2024,v South Africa,Johannesburg,2,2,2,0,2,0
+425943,23 Nov 2024,v Services,Hyderabad,1,0,0,0,0,0
+425943,25 Nov 2024,v Maharashtra,Hyderabad,2,2,2,0,2,0
+425943,29 Nov 2024,v Mumbai,Hyderabad,2,0,0,0,0,0
+425943,1 Dec 2024,v Goa,Hyderabad,2,0,0,0,0,0
+425943,3 Dec 2024,v Andhra,Hyderabad,2,1,1,0,1,0
+425943,22 Jan 2025,v England,Eden Gardens,1,2,1,1,1,0
+425943,25 Jan 2025,v England,Chennai,1,1,1,0,1,0
+425943,28 Jan 2025,v England,Rajkot,1,1,1,0,1,0
+425943,31 Jan 2025,v England,Pune,2,1,1,0,1,0
+425943,2 Feb 2025,v England,Wankhede,2,0,0,0,0,0
+425943,23 Mar 2025,v SRH,Hyderabad,1,0,0,0,0,0
+425943,26 Mar 2025,v KKR,Guwahati,2,0,0,0,0,0
+425943,30 Mar 2025,v CSK,Guwahati,2,0,0,0,0,0
+425943,5 Apr 2025,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+425943,9 Apr 2025,v GT,Ahmedabad,1,3,2,1,2,0
+425943,13 Apr 2025,v RCB,Jaipur,2,0,0,0,0,0
+425943,16 Apr 2025,v DC,Delhi,1,0,0,0,0,0
+425943,18 May 2025,v Punjab Kings,Jaipur,1,2,2,0,2,0
+425943,20 May 2025,v CSK,Delhi,1,0,0,0,0,0
+425943,10 Sep 2025,v U.A.E.,Dubai (DICS),1,2,2,0,2,0
+425943,14 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+425943,19 Sep 2025,v Oman,Abu Dhabi,2,0,0,0,0,0
+425943,21 Sep 2025,v Pakistan,Dubai (DICS),1,1,1,0,1,0
+425943,24 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+425943,26 Sep 2025,v Sri Lanka,Dubai (DICS),2,1,0,1,0,0
+425943,28 Sep 2025,v Pakistan,Dubai (DICS),1,2,2,0,2,0
+425943,29 Oct 2025,v Australia,Canberra,-,TDNF,-,-,-,-
+425943,31 Oct 2025,v Australia,Melbourne,2,1,1,0,1,0
+425943,26 Nov 2025,v Odisha,Lucknow,1,0,0,0,0,0
+425943,28 Nov 2025,v Railways,Lucknow,1,1,1,0,1,0
+425943,30 Nov 2025,v Chhattisgarh,Lucknow,1,1,0,1,0,0
+425943,2 Dec 2025,v Vidarbha,Lucknow,2,2,2,0,2,0
+425943,4 Dec 2025,v Mumbai,Lucknow,2,1,0,1,0,0
+425943,6 Dec 2025,v Andhra,Lucknow,2,0,0,0,0,0
+425943,19 Dec 2025,v South Africa,Ahmedabad,2,2,2,0,2,0
+425943,21 Jan 2026,v New Zealand,Nagpur,2,1,1,0,1,0
+425943,23 Jan 2026,v New Zealand,Raipur,1,0,0,0,0,0
+425943,25 Jan 2026,v New Zealand,Guwahati,1,1,1,0,1,0
+425943,28 Jan 2026,v New Zealand,Visakhapatnam,1,0,0,0,0,0
+425943,31 Jan 2026,v New Zealand,Thiruvananthapuram,2,0,0,0,0,0
+425943,12 Feb 2026,v Namibia,Delhi,2,0,0,0,0,0
+425943,26 Feb 2026,v Zimbabwe,Chennai,2,1,1,0,1,0
+425943,1 Mar 2026,v West Indies,Eden Gardens,1,2,2,0,2,0
+425943,5 Mar 2026,v England,Wankhede,2,0,0,0,0,0
+425943,8 Mar 2026,v New Zealand,Ahmedabad,2,0,0,0,0,0

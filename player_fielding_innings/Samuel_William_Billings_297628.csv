@@ -1,0 +1,397 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+297628,11 Jun 2011,v Glamorgan,Cardiff,1,0,0,0,0,0
+297628,15 Jun 2011,v Gloucs,Beckenham,1,0,0,0,0,0
+297628,18 Jun 2011,v Middlesex,Canterbury,2,1,1,0,0,1
+297628,8 Jul 2011,v Sussex,Canterbury,1,0,0,0,0,0
+297628,17 Jun 2012,v Surrey,Beckenham,1,0,0,0,0,0
+297628,20 Jun 2012,v Essex,Chelmsford,1,0,0,0,0,0
+297628,22 Jun 2012,v Hampshire,Southampton,2,1,1,0,0,1
+297628,24 Jun 2012,v Hampshire,Canterbury,2,0,0,0,0,0
+297628,26 Jun 2012,v Middlesex,Canterbury,1,1,1,0,0,1
+297628,29 Jun 2012,v Sussex,Hove,1,0,0,0,0,0
+297628,5 Jul 2012,v Surrey,The Oval,2,0,0,0,0,0
+297628,6 Jul 2012,v Essex,Canterbury,1,1,1,0,0,1
+297628,8 Jul 2012,v Middlesex,Uxbridge,1,1,1,0,0,1
+297628,22 Jun 2013,v N Zealanders,Canterbury,1,2,2,0,2,0
+297628,28 Jun 2013,v Middlesex,Canterbury,2,2,2,0,2,0
+297628,30 Jun 2013,v Surrey,Canterbury,1,0,0,0,0,0
+297628,5 Jul 2013,v Essex,Canterbury,1,1,1,0,1,0
+297628,7 Jul 2013,v Middlesex,Uxbridge,2,0,0,0,0,0
+297628,8 Jul 2013,v Essex,Chelmsford,1,0,0,0,0,0
+297628,21 Jul 2013,v Hampshire,Southampton,2,0,0,0,0,0
+297628,24 Jul 2013,v Sussex,Canterbury,2,2,2,0,0,2
+297628,26 Jul 2013,v Surrey,The Oval,2,1,1,0,0,1
+297628,29 Jul 2013,v Hampshire,Canterbury,1,0,0,0,0,0
+297628,31 Jul 2013,v Sussex,Hove,1,2,2,0,0,2
+297628,23 May 2014,v Somerset,Taunton,2,0,0,0,0,0
+297628,30 May 2014,v Gloucs,Canterbury,2,1,1,0,1,0
+297628,5 Jun 2014,v Hampshire,Southampton,1,1,1,0,1,0
+297628,6 Jun 2014,v Middlesex,Canterbury,2,1,1,0,1,0
+297628,11 Jun 2014,v Essex,Canterbury,2,1,0,1,0,0
+297628,13 Jun 2014,v Glamorgan,Cardiff,1,0,0,0,0,0
+297628,20 Jun 2014,v Sussex,Canterbury,1,0,0,0,0,0
+297628,27 Jun 2014,v Gloucs,Bristol,2,2,2,0,2,0
+297628,2 Jul 2014,v Surrey,The Oval,2,0,0,0,0,0
+297628,4 Jul 2014,v Hampshire,Canterbury,1,2,2,0,2,0
+297628,11 Jul 2014,v Sussex,Hove,2,0,0,0,0,0
+297628,12 Jul 2014,v Essex,Colchester,1,2,2,0,2,0
+297628,18 Jul 2014,v Somerset,Canterbury,2,1,1,0,1,0
+297628,25 Jul 2014,v Surrey,Canterbury,2,0,0,0,0,0
+297628,15 May 2015,v Sussex,Canterbury,2,1,1,0,1,0
+297628,22 May 2015,v Hampshire,Southampton,1,1,1,0,1,0
+297628,28 May 2015,v Middlesex,Lord's,1,1,1,0,1,0
+297628,29 May 2015,v Surrey,Beckenham,2,3,2,1,2,0
+297628,31 May 2015,v Somerset,Taunton,2,0,0,0,0,0
+297628,5 Jun 2015,v Gloucs,Beckenham,2,0,0,0,0,0
+297628,23 Jun 2015,v New Zealand,Manchester,2,0,0,0,0,0
+297628,3 Jul 2015,v Sussex,Hove,1,1,0,1,0,0
+297628,10 Jul 2015,v Somerset,Canterbury,2,2,1,1,1,0
+297628,12 Jul 2015,v Gloucs,Cheltenham,1,1,1,0,1,0
+297628,17 Jul 2015,v Glamorgan,Tunbridge Wells,1,0,0,0,0,0
+297628,15 Aug 2015,v Lancashire,Canterbury,2,0,0,0,0,0
+297628,31 Aug 2015,v Australia,Cardiff,2,1,1,0,0,1
+297628,26 Nov 2015,v Pakistan,Dubai (DICS),2,3,2,1,2,0
+297628,27 Nov 2015,v Pakistan,Dubai (DICS),2,1,1,0,0,1
+297628,30 Nov 2015,v Pakistan,Sharjah,2,1,1,0,0,1
+297628,7 Dec 2015,v Pakistan A,ICCA Dubai,2,1,1,0,1,0
+297628,10 Dec 2015,v Pakistan A,Dubai (DICS),2,3,3,0,3,0
+297628,11 Dec 2015,v Pakistan A,Dubai (DICS),2,1,1,0,1,0
+297628,13 Dec 2015,v Pakistan A,Dubai (DICS),1,0,0,0,0,0
+297628,16 Dec 2015,v Pakistan A,ICCA Dubai,1,0,0,0,0,0
+297628,4 Feb 2016,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+297628,5 Feb 2016,v Zalmi,Dubai (DICS),1,1,1,0,1,0
+297628,7 Feb 2016,v Kings,Dubai (DICS),2,1,1,0,1,0
+297628,10 Feb 2016,v Qalandars,Sharjah,1,0,0,0,0,0
+297628,11 Feb 2016,v Gladiators,Sharjah,2,1,1,0,0,1
+297628,17 Feb 2016,v SA A,Paarl,2,0,0,0,0,0
+297628,21 Feb 2016,v South Africa,Johannesburg,2,0,0,0,0,0
+297628,30 Apr 2016,v KKR,Delhi,2,0,0,0,0,0
+297628,3 May 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+297628,5 May 2016,v Supergiants,Delhi,2,2,2,0,0,2
+297628,7 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+297628,22 May 2016,v RCB,Raipur,2,1,1,0,0,1
+297628,2 Jun 2016,v Hampshire,Southampton,1,1,1,0,1,0
+297628,3 Jun 2016,v Gloucs,Beckenham,2,1,1,0,1,0
+297628,8 Jun 2016,v Hampshire,Canterbury,2,1,1,0,1,0
+297628,10 Jun 2016,v Sussex,Hove,2,0,0,0,0,0
+297628,17 Jun 2016,v Glamorgan,Cardiff,1,0,0,0,0,0
+297628,24 Jun 2016,v Middlesex,Canterbury,1,0,0,0,0,0
+297628,30 Jun 2016,v Sussex,Canterbury,2,0,0,0,0,0
+297628,1 Jul 2016,v Essex,Chelmsford,1,1,1,0,1,0
+297628,5 Jul 2016,v Sri Lanka,Southampton,1,0,0,0,0,0
+297628,7 Jul 2016,v Somerset,Taunton,2,0,0,0,0,0
+297628,8 Jul 2016,v Gloucs,Bristol,2,2,1,1,1,0
+297628,15 Jul 2016,v Surrey,Tunbridge Wells,1,1,0,1,0,0
+297628,22 Jul 2016,v Essex,Canterbury,1,0,0,0,0,0
+297628,29 Jul 2016,v Surrey,The Oval,1,0,0,0,0,0
+297628,20 Dec 2016,v Thunder,Sydney,1,2,2,0,0,2
+297628,23 Dec 2016,v Hurricanes,Sydney,1,1,1,0,0,1
+297628,27 Dec 2016,v Scorchers,Sydney,1,0,0,0,0,0
+297628,31 Dec 2016,v Strikers,Adelaide,1,0,0,0,0,0
+297628,3 Jan 2017,v Heat,Brisbane,1,0,0,0,0,0
+297628,26 Jan 2017,v India,Kanpur,1,1,1,0,0,1
+297628,29 Jan 2017,v India,Nagpur,1,0,0,0,0,0
+297628,1 Feb 2017,v India,Bengaluru,1,0,0,0,0,0
+297628,9 Feb 2017,v Zalmi,Dubai (DICS),1,0,0,0,0,0
+297628,11 Feb 2017,v Qalandars,Dubai (DICS),2,2,2,0,0,2
+297628,15 Feb 2017,v Gladiators,Sharjah,1,0,0,0,0,0
+297628,17 Feb 2017,v Kings,Sharjah,2,0,0,0,0,0
+297628,18 Feb 2017,v Zalmi,Sharjah,1,0,0,0,0,0
+297628,8 Apr 2017,v RCB,Bengaluru,1,1,1,0,0,1
+297628,11 Apr 2017,v Supergiant,Pune,2,0,0,0,0,0
+297628,15 Apr 2017,v Kings XI,Delhi,2,2,2,0,0,2
+297628,17 Apr 2017,v KKR,Delhi,2,1,1,0,0,1
+297628,19 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+297628,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+297628,21 Jun 2017,v South Africa,Southampton,1,0,0,0,0,0
+297628,23 Jun 2017,v South Africa,Taunton,1,0,0,0,0,0
+297628,25 Jun 2017,v South Africa,Cardiff,2,2,2,0,0,2
+297628,9 Jul 2017,v Essex,Beckenham,1,0,0,0,0,0
+297628,13 Jul 2017,v Gloucs,Cheltenham,2,0,0,0,0,0
+297628,14 Jul 2017,v Surrey,The Oval,1,0,0,0,0,0
+297628,18 Jul 2017,v Gloucs,Canterbury,1,1,0,1,0,0
+297628,20 Jul 2017,v Middlesex,Richmond,1,1,1,0,1,0
+297628,23 Jul 2017,v Sussex,Hove,2,0,0,0,0,0
+297628,27 Jul 2017,v Somerset,Canterbury,1,3,3,0,3,0
+297628,30 Jul 2017,v Glamorgan,Canterbury,1,0,0,0,0,0
+297628,1 Aug 2017,v Hampshire,Southampton,2,0,0,0,0,0
+297628,4 Aug 2017,v Sussex,Canterbury,2,1,1,0,1,0
+297628,11 Aug 2017,v Hampshire,Canterbury,2,1,0,1,0,0
+297628,12 Aug 2017,v Somerset,Taunton,1,2,2,0,2,0
+297628,17 Aug 2017,v Essex,Chelmsford,2,0,0,0,0,0
+297628,18 Aug 2017,v Surrey,Canterbury,1,0,0,0,0,0
+297628,19 Dec 2017,v Thunder,Sydney,2,0,0,0,0,0
+297628,23 Dec 2017,v Scorchers,Sydney,2,0,0,0,0,0
+297628,28 Dec 2017,v Strikers,Sydney,1,1,0,1,0,0
+297628,1 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+297628,3 Jan 2018,v Renegades,Geelong,2,0,0,0,0,0
+297628,8 Jan 2018,v Hurricanes,Hobart,1,1,1,0,0,1
+297628,7 Feb 2018,v Australia,Hobart,2,1,1,0,0,1
+297628,10 Feb 2018,v Australia,Melbourne,2,0,0,0,0,0
+297628,13 Feb 2018,v New Zealand,Wellington,1,2,2,0,0,2
+297628,18 Feb 2018,v New Zealand,Hamilton,2,0,0,0,0,0
+297628,10 Apr 2018,v KKR,Chennai,1,0,0,0,0,0
+297628,15 Apr 2018,v Kings XI,Mohali,1,0,0,0,0,0
+297628,20 Apr 2018,v RR,Pune,2,2,2,0,0,2
+297628,22 Apr 2018,v SRH,Hyderabad,2,0,0,0,0,0
+297628,25 Apr 2018,v RCB,Bengaluru,1,2,2,0,0,2
+297628,28 Apr 2018,v MI,Pune,2,0,0,0,0,0
+297628,11 May 2018,v RR,Jaipur,2,0,0,0,0,0
+297628,13 May 2018,v SRH,Pune,1,0,0,0,0,0
+297628,18 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+297628,20 May 2018,v Kings XI,Pune,1,1,1,0,0,1
+297628,31 May 2018,v West Indies,Lord's,1,0,0,0,0,0
+297628,6 Jul 2018,v Surrey,The Oval,2,4,3,1,3,0
+297628,8 Jul 2018,v Somerset,Taunton,1,0,0,0,0,0
+297628,11 Jul 2018,v Gloucs,Bristol,1,0,0,0,0,0
+297628,13 Jul 2018,v Hampshire,Beckenham,2,1,1,0,1,0
+297628,20 Jul 2018,v Surrey,Canterbury,1,2,2,0,2,0
+297628,27 Jul 2018,v Sussex,Canterbury,-,TDNF,-,-,-,-
+297628,2 Aug 2018,v Essex,Canterbury,2,0,0,0,0,0
+297628,3 Aug 2018,v Hampshire,Southampton,2,2,1,1,1,0
+297628,5 Aug 2018,v Gloucs,Canterbury,2,0,0,0,0,0
+297628,12 Aug 2018,v Middlesex,Beckenham,1,0,0,0,0,0
+297628,16 Aug 2018,v Somerset,Canterbury,2,1,1,0,1,0
+297628,17 Aug 2018,v Essex,Chelmsford,1,1,1,0,1,0
+297628,23 Aug 2018,v Lancashire,Canterbury,2,2,0,2,0,0
+297628,5 Mar 2019,v West Indies,Gros Islet,1,1,1,0,0,1
+297628,8 Mar 2019,v West Indies,Basseterre,2,1,1,0,0,1
+297628,10 Mar 2019,v West Indies,Basseterre,1,0,0,0,0,0
+297628,17 Apr 2019,v SRH,Hyderabad,2,1,1,0,1,0
+297628,10 Aug 2019,v Somerset,Taunton,1,0,0,0,0,0
+297628,23 Aug 2019,v Surrey,Canterbury,1,0,0,0,0,0
+297628,29 Aug 2019,v Gloucs,Canterbury,1,0,0,0,0,0
+297628,30 Aug 2019,v Essex,Chelmsford,1,0,0,0,0,0
+297628,1 Nov 2019,v New Zealand,Christchurch,1,0,0,0,0,0
+297628,3 Nov 2019,v New Zealand,Wellington,1,1,1,0,1,0
+297628,5 Nov 2019,v New Zealand,Nelson,1,0,0,0,0,0
+297628,8 Nov 2019,v New Zealand,Napier,2,1,1,0,1,0
+297628,10 Nov 2019,v New Zealand,Auckland,1,0,0,0,0,0
+297628,28 Aug 2020,v Pakistan,Manchester,-,TDNF,-,-,-,-
+297628,30 Aug 2020,v Pakistan,Manchester,1,1,1,0,0,1
+297628,1 Sep 2020,v Pakistan,Manchester,1,0,0,0,0,0
+297628,8 Sep 2020,v Australia,Southampton,2,0,0,0,0,0
+297628,18 Sep 2020,v Essex,Canterbury,1,2,2,0,2,0
+297628,20 Sep 2020,v Surrey,The Oval,2,1,1,0,1,0
+297628,1 Oct 2020,v Surrey,The Oval,1,0,0,0,0,0
+297628,29 Dec 2020,v Stars,Canberra,2,1,0,1,0,0
+297628,1 Jan 2021,v Renegades,Carrara,1,1,1,0,1,0
+297628,4 Jan 2021,v Heat,Brisbane,2,1,0,1,0,0
+297628,7 Jan 2021,v Hurricanes,Perth,2,2,1,1,1,0
+297628,9 Jan 2021,v Scorchers,Perth,1,3,3,0,3,0
+297628,13 Jan 2021,v Sixers,Canberra,2,1,1,0,1,0
+297628,18 Jan 2021,v Hurricanes,Canberra,2,0,0,0,0,0
+297628,22 Jan 2021,v Sixers,Adelaide,2,1,1,0,1,0
+297628,24 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+297628,25 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+297628,31 Jan 2021,v Heat,Canberra,2,0,0,0,0,0
+297628,15 Jun 2021,v Somerset,Taunton,1,0,0,0,0,0
+297628,16 Jun 2021,v Glamorgan,Cardiff,2,1,1,0,1,0
+297628,24 Jun 2021,v Sri Lanka,Cardiff,1,0,0,0,0,0
+297628,26 Jun 2021,v Sri Lanka,Southampton,2,0,0,0,0,0
+297628,22 Jul 2021,v Originals,The Oval,2,1,1,0,1,0
+297628,25 Jul 2021,v Spirit,Lord's,-,TDNF,-,-,-,-
+297628,31 Jul 2021,v N S-Chargers,Leeds,2,0,0,0,0,0
+297628,2 Aug 2021,v Fire,The Oval,1,1,1,0,1,0
+297628,4 Aug 2021,v Phoenix,Birmingham,2,0,0,0,0,0
+297628,8 Aug 2021,v Rockets,The Oval,2,0,0,0,0,0
+297628,14 Aug 2021,v Spirit,The Oval,1,0,0,0,0,0
+297628,16 Aug 2021,v Brave,Southampton,2,0,0,0,0,0
+297628,27 Aug 2021,v Bears,Canterbury,2,1,0,1,0,0
+297628,18 Sep 2021,v Sussex,Birmingham,2,2,2,0,2,0
+297628,18 Sep 2021,v Somerset,Birmingham,2,1,0,1,0,0
+297628,10 Nov 2021,v New Zealand,Abu Dhabi,2,1,1,0,0,1
+297628,6 Dec 2021,v Heat,Canberra,1,2,2,0,2,0
+297628,10 Dec 2021,v Stars,Melbourne,1,0,0,0,0,0
+297628,12 Dec 2021,v Stars,Sydney,2,1,1,0,1,0
+297628,19 Dec 2021,v Heat,Brisbane,2,0,0,0,0,0
+297628,26 Dec 2021,v Sixers,Sydney,1,1,1,0,1,0
+297628,28 Dec 2021,v Scorchers,Canberra,2,0,0,0,0,0
+297628,31 Dec 2021,v Strikers,Adelaide,2,1,1,0,1,0
+297628,2 Jan 2022,v Strikers,Sydney,2,1,0,1,0,0
+297628,6 Jan 2022,v Scorchers,Carrara,1,2,2,0,2,0
+297628,22 Jan 2022,v West Indies,Bridgetown,2,1,0,1,0,0
+297628,23 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+297628,29 Jan 2022,v West Indies,Bridgetown,2,0,0,0,0,0
+297628,30 Jan 2022,v West Indies,Bridgetown,1,0,0,0,0,0
+297628,26 Mar 2022,v CSK,Wankhede,1,0,0,0,0,0
+297628,30 Mar 2022,v RCB,DY Patil,2,0,0,0,0,0
+297628,1 Apr 2022,v Punjab Kings,Wankhede,1,1,1,0,1,0
+297628,6 Apr 2022,v MI,Pune,1,3,2,1,2,0
+297628,10 Apr 2022,v DC,Brabourne,1,0,0,0,0,0
+297628,23 Apr 2022,v GT,DY Patil,1,1,1,0,1,0
+297628,14 May 2022,v SRH,Pune,2,2,2,0,2,0
+297628,18 May 2022,v LSG,DY Patil,1,0,0,0,0,0
+297628,25 May 2022,v Somerset,Canterbury,2,0,0,0,0,0
+297628,27 May 2022,v Essex,Canterbury,2,0,0,0,0,0
+297628,29 May 2022,v Sussex,Hove,1,0,0,0,0,0
+297628,1 Jun 2022,v Gloucs,Bristol,2,0,0,0,0,0
+297628,3 Jun 2022,v Surrey,Canterbury,1,0,0,0,0,0
+297628,5 Jun 2022,v Middlesex,Canterbury,2,1,0,1,0,0
+297628,7 Jun 2022,v Essex,Chelmsford,2,0,0,0,0,0
+297628,10 Jun 2022,v Somerset,Taunton,2,4,4,0,4,0
+297628,17 Jun 2022,v Hampshire,Southampton,1,1,1,0,1,0
+297628,19 Jun 2022,v Middlesex,Lord's,2,0,0,0,0,0
+297628,21 Jun 2022,v Gloucs,Canterbury,1,0,0,0,0,0
+297628,24 Jun 2022,v Sussex,Canterbury,1,1,1,0,1,0
+297628,4 Aug 2022,v Spirit,The Oval,1,1,1,0,1,0
+297628,7 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+297628,14 Aug 2022,v Brave,The Oval,1,0,0,0,0,0
+297628,17 Aug 2022,v Rockets,Nottingham,1,0,0,0,0,0
+297628,23 Aug 2022,v Phoenix,The Oval,1,0,0,0,0,0
+297628,27 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+297628,31 Aug 2022,v Originals,Manchester,2,0,0,0,0,0
+297628,15 Dec 2022,v Renegades,Cairns,1,2,2,0,0,2
+297628,21 Dec 2022,v Renegades,Geelong,2,1,1,0,0,1
+297628,23 Dec 2022,v Strikers,Brisbane,2,0,0,0,0,0
+297628,27 Dec 2022,v Thunder,Sydney,2,0,0,0,0,0
+297628,29 Dec 2022,v Thunder,Carrara,1,0,0,0,0,0
+297628,1 Jan 2023,v Sixers,Brisbane,2,1,1,0,0,1
+297628,4 Jan 2023,v Sixers,North Sydney,-,TDNF,-,-,-,-
+297628,7 Jan 2023,v Scorchers,Perth,2,0,0,0,0,0
+297628,14 Feb 2023,v Strikers,Mirpur,1,3,3,0,0,3
+297628,26 Feb 2023,v Zalmi,Lahore,2,1,1,0,1,0
+297628,27 Feb 2023,v United,Lahore,2,1,1,0,1,0
+297628,2 Mar 2023,v Gladiators,Lahore,2,3,3,0,3,0
+297628,4 Mar 2023,v Sultans,Lahore,2,0,0,0,0,0
+297628,7 Mar 2023,v Zalmi,Rawalpindi,1,2,2,0,2,0
+297628,9 Mar 2023,v United,Rawalpindi,2,4,4,0,4,0
+297628,12 Mar 2023,v Kings,Lahore,1,0,0,0,0,0
+297628,15 Mar 2023,v Sultans,Lahore,1,0,0,0,0,0
+297628,17 Mar 2023,v Zalmi,Lahore,1,0,0,0,0,0
+297628,18 Mar 2023,v Sultans,Lahore,2,0,0,0,0,0
+297628,24 May 2023,v Gloucs,Canterbury,1,3,3,0,3,0
+297628,26 May 2023,v Surrey,The Oval,1,0,0,0,0,0
+297628,30 May 2023,v Somerset,Canterbury,1,1,1,0,1,0
+297628,2 Jun 2023,v Glamorgan,Cardiff,2,0,0,0,0,0
+297628,4 Jun 2023,v Surrey,Canterbury,2,0,0,0,0,0
+297628,7 Jun 2023,v Essex,Canterbury,2,2,2,0,2,0
+297628,9 Jun 2023,v Hampshire,Canterbury,1,0,0,0,0,0
+297628,16 Jun 2023,v Middlesex,Lord's,2,2,2,0,2,0
+297628,17 Jun 2023,v Gloucs,Bristol,1,2,2,0,2,0
+297628,20 Jun 2023,v Sussex,Hove,1,0,0,0,0,0
+297628,22 Jun 2023,v Essex,Chelmsford,1,1,1,0,1,0
+297628,23 Jun 2023,v Middlesex,Canterbury,2,0,0,0,0,0
+297628,30 Jun 2023,v Sussex,Canterbury,1,1,1,0,1,0
+297628,2 Jul 2023,v Somerset,Taunton,1,1,1,0,1,0
+297628,2 Aug 2023,v Spirit,Lord's,1,0,0,0,0,0
+297628,6 Aug 2023,v Fire,The Oval,1,2,2,0,2,0
+297628,9 Aug 2023,v Originals,The Oval,2,2,1,1,1,0
+297628,11 Aug 2023,v N S-Chargers,Leeds,2,1,1,0,1,0
+297628,13 Aug 2023,v Phoenix,Birmingham,1,0,0,0,0,0
+297628,15 Aug 2023,v Spirit,The Oval,2,0,0,0,0,0
+297628,19 Aug 2023,v Brave,Southampton,2,2,2,0,2,0
+297628,21 Aug 2023,v Rockets,The Oval,1,1,1,0,1,0
+297628,27 Aug 2023,v Originals,Lord's,2,0,0,0,0,0
+297628,7 Dec 2023,v Stars,Brisbane,2,1,1,0,1,0
+297628,12 Dec 2023,v Thunder,Canberra,2,0,0,0,0,0
+297628,21 Dec 2023,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+297628,27 Dec 2023,v Thunder,Brisbane,2,0,0,0,0,0
+297628,3 Jan 2024,v Sixers,Coffs Harbour,1,2,2,0,2,0
+297628,7 Jan 2024,v Hurricanes,Brisbane,2,2,2,0,2,0
+297628,10 Jan 2024,v Scorchers,Brisbane,2,1,1,0,1,0
+297628,20 Jan 2024,v MI Emirates,Dubai (DICS),1,3,3,0,0,3
+297628,22 Jan 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+297628,25 Jan 2024,v KnightRiders,Dubai (DICS),1,1,1,0,0,1
+297628,27 Jan 2024,v Gulf Giants,Sharjah,2,1,1,0,0,1
+297628,29 Jan 2024,v Warriors,Sharjah,2,1,1,0,0,1
+297628,1 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+297628,3 Feb 2024,v KnightRiders,Abu Dhabi,1,1,1,0,0,1
+297628,6 Feb 2024,v Gulf Giants,Dubai (DICS),1,0,0,0,0,0
+297628,9 Feb 2024,v Vipers,Dubai (DICS),1,0,0,0,0,0
+297628,10 Feb 2024,v MI Emirates,Abu Dhabi,2,0,0,0,0,0
+297628,13 Feb 2024,v KnightRiders,Abu Dhabi,2,0,0,0,0,0
+297628,15 Feb 2024,v Gulf Giants,Sharjah,1,1,1,0,1,0
+297628,17 Feb 2024,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+297628,31 May 2024,v Middlesex,Chelmsford,2,0,0,0,0,0
+297628,2 Jun 2024,v Hampshire,Southampton,2,1,1,0,1,0
+297628,7 Jun 2024,v Somerset,Canterbury,1,1,0,1,0,0
+297628,9 Jun 2024,v Middlesex,Canterbury,2,0,0,0,0,0
+297628,14 Jun 2024,v Somerset,Taunton,1,0,0,0,0,0
+297628,16 Jun 2024,v Gloucs,Canterbury,2,0,0,0,0,0
+297628,20 Jun 2024,v Sussex,Hove,1,0,0,0,0,0
+297628,21 Jun 2024,v Essex,Canterbury,2,1,1,0,1,0
+297628,5 Jul 2024,v Gloucs,Cheltenham,2,1,1,0,1,0
+297628,7 Jul 2024,v Surrey,The Oval,1,1,1,0,1,0
+297628,11 Jul 2024,v Essex,Chelmsford,1,0,0,0,0,0
+297628,12 Jul 2024,v Sussex,Canterbury,1,1,1,0,1,0
+297628,16 Jul 2024,v Glamorgan,Canterbury,1,0,0,0,0,0
+297628,19 Jul 2024,v Surrey,Canterbury,2,1,1,0,1,0
+297628,23 Jul 2024,v Phoenix,The Oval,1,1,0,1,0,0
+297628,28 Jul 2024,v Fire,Cardiff,2,2,0,2,0,0
+297628,2 Aug 2024,v N S-Chargers,The Oval,1,0,0,0,0,0
+297628,4 Aug 2024,v Spirit,Lord's,2,2,1,1,1,0
+297628,6 Aug 2024,v Originals,Manchester,2,1,1,0,1,0
+297628,8 Aug 2024,v Brave,The Oval,1,3,3,0,3,0
+297628,11 Aug 2024,v Spirit,The Oval,1,1,1,0,1,0
+297628,14 Aug 2024,v Rockets,Nottingham,2,1,1,0,1,0
+297628,18 Aug 2024,v Brave,Lord's,2,0,0,0,0,0
+297628,29 Aug 2024,v Patriots,North Sound,2,2,1,1,1,0
+297628,30 Aug 2024,v Amazon,North Sound,2,0,0,0,0,0
+297628,1 Sep 2024,v Royals,North Sound,2,0,0,0,0,0
+297628,3 Sep 2024,v Kings,North Sound,2,0,0,0,0,0
+297628,5 Sep 2024,v Trinbago,North Sound,2,1,1,0,1,0
+297628,8 Sep 2024,v Patriots,Basseterre,1,2,2,0,2,0
+297628,11 Sep 2024,v Royals,Bridgetown,2,1,1,0,1,0
+297628,15 Sep 2024,v Kings,Gros Islet,1,1,1,0,0,1
+297628,17 Dec 2024,v Strikers,Canberra,1,0,0,0,0,0
+297628,21 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+297628,28 Dec 2024,v Stars,Canberra,2,4,4,0,4,0
+297628,30 Dec 2024,v Renegades,Sydney,2,3,3,0,3,0
+297628,3 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+297628,6 Jan 2025,v Heat,Brisbane,2,1,1,0,1,0
+297628,10 Jan 2025,v Hurricanes,Hobart,2,1,1,0,1,0
+297628,13 Jan 2025,v Scorchers,Sydney,2,2,1,1,1,0
+297628,17 Jan 2025,v Sixers,Sydney,-,TDNF,-,-,-,-
+297628,22 Jan 2025,v Stars,Sydney,2,0,0,0,0,0
+297628,24 Jan 2025,v Sixers,Sydney,1,1,1,0,1,0
+297628,27 Jan 2025,v Hurricanes,Hobart,2,0,0,0,0,0
+297628,2 Feb 2025,v KnightRiders,Dubai (DICS),2,1,1,0,0,1
+297628,3 Feb 2025,v Vipers,Sharjah,1,0,0,0,0,0
+297628,5 Feb 2025,v Vipers,Dubai (DICS),1,1,1,0,0,1
+297628,9 Feb 2025,v Vipers,Dubai (DICS),1,1,1,0,0,1
+297628,11 Apr 2025,v United,Rawalpindi,2,0,0,0,0,0
+297628,13 Apr 2025,v Gladiators,Rawalpindi,2,1,1,0,1,0
+297628,15 Apr 2025,v Kings,Karachi,2,3,3,0,3,0
+297628,22 Apr 2025,v Sultans,Multan,1,1,1,0,1,0
+297628,24 Apr 2025,v Zalmi,Lahore,2,0,0,0,0,0
+297628,26 Apr 2025,v Sultans,Lahore,1,0,0,0,0,0
+297628,30 Apr 2025,v United,Lahore,2,1,1,0,1,0
+297628,1 May 2025,v Gladiators,Lahore,-,TDNF,-,-,-,-
+297628,4 May 2025,v Kings,Lahore,2,0,0,0,0,0
+297628,30 May 2025,v Gloucs,Bristol,2,1,1,0,1,0
+297628,5 Jun 2025,v Middlesex,Lord's,-,TDNF,-,-,-,-
+297628,6 Jun 2025,v Surrey,Canterbury,1,0,0,0,0,0
+297628,8 Jun 2025,v Hampshire,Canterbury,1,0,0,0,0,0
+297628,12 Jun 2025,v Surrey,The Oval,2,1,1,0,1,0
+297628,15 Jun 2025,v Somerset,Taunton,2,0,0,0,0,0
+297628,18 Jun 2025,v Gloucs,Canterbury,2,2,2,0,2,0
+297628,20 Jun 2025,v Essex,Chelmsford,2,0,0,0,0,0
+297628,4 Jul 2025,v Sussex,Canterbury,1,2,2,0,2,0
+297628,6 Jul 2025,v Glamorgan,Cardiff,2,0,0,0,0,0
+297628,9 Jul 2025,v Sussex,Hove,1,0,0,0,0,0
+297628,11 Jul 2025,v Somerset,Canterbury,2,0,0,0,0,0
+297628,13 Jul 2025,v Middlesex,Canterbury,1,0,0,0,0,0
+297628,18 Jul 2025,v Essex,Canterbury,1,0,0,0,0,0
+297628,5 Aug 2025,v Spirit,Lord's,1,1,1,0,1,0
+297628,9 Aug 2025,v Originals,The Oval,1,1,1,0,1,0
+297628,12 Aug 2025,v Phoenix,Birmingham,2,0,0,0,0,0
+297628,16 Aug 2025,v Fire,The Oval,2,2,2,0,2,0
+297628,18 Aug 2025,v Brave,Southampton,1,2,2,0,2,0
+297628,21 Aug 2025,v Rockets,The Oval,1,0,0,0,0,0
+297628,23 Aug 2025,v N S-Chargers,Leeds,1,0,0,0,0,0
+297628,25 Aug 2025,v Spirit,The Oval,1,2,2,0,2,0
+297628,31 Aug 2025,v Rockets,Lord's,2,1,0,1,0,0
+297628,6 Sep 2025,v Lancashire,Manchester,2,0,0,0,0,0
+297628,16 Dec 2025,v Hurricanes,Hobart,2,1,1,0,1,0
+297628,20 Dec 2025,v Sixers,Sydney,1,1,1,0,1,0
+297628,22 Dec 2025,v Heat,Canberra,2,1,0,1,0,0
+297628,28 Dec 2025,v Stars,Canberra,2,0,0,0,0,0
+297628,30 Dec 2025,v Scorchers,Sydney,1,2,2,0,2,0
+297628,3 Jan 2026,v Hurricanes,Sydney,2,2,2,0,2,0
+297628,6 Jan 2026,v Strikers,Adelaide,1,0,0,0,0,0
+297628,10 Jan 2026,v Heat,Brisbane,2,0,0,0,0,0
+297628,12 Jan 2026,v Renegades,Sydney,1,2,2,0,2,0
+297628,16 Jan 2026,v Sixers,Sydney,2,1,0,1,0,0
+297628,20 Jan 2026,v Rangpur,Mirpur,1,1,1,0,0,1
+297628,21 Jan 2026,v Rajshahi,Mirpur,1,1,1,0,0,1

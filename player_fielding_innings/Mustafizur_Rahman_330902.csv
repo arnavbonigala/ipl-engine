@@ -1,0 +1,323 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+330902,24 Apr 2015,v Pakistan,Mirpur,1,0,0,0,0,0
+330902,5 Jul 2015,v South Africa,Mirpur,1,0,0,0,0,0
+330902,7 Jul 2015,v South Africa,Mirpur,1,0,0,0,0,0
+330902,13 Nov 2015,v Zimbabwe,Mirpur,1,0,0,0,0,0
+330902,15 Nov 2015,v Zimbabwe,Mirpur,2,0,0,0,0,0
+330902,22 Nov 2015,v Victorians,Mirpur,1,1,1,0,0,1
+330902,25 Nov 2015,v Rangpur,Mirpur,1,0,0,0,0,0
+330902,26 Nov 2015,v Chattogram,Mirpur,1,1,1,0,0,1
+330902,27 Nov 2015,v Super Stars,Mirpur,2,0,0,0,0,0
+330902,1 Dec 2015,v Bulls,Chattogram,2,0,0,0,0,0
+330902,2 Dec 2015,v Victorians,Chattogram,1,0,0,0,0,0
+330902,6 Dec 2015,v Rangpur,Mirpur,2,1,1,0,0,1
+330902,8 Dec 2015,v Chattogram,Mirpur,2,1,1,0,0,1
+330902,9 Dec 2015,v Super Stars,Mirpur,2,0,0,0,0,0
+330902,12 Dec 2015,v Bulls,Mirpur,1,0,0,0,0,0
+330902,15 Jan 2016,v Zimbabwe,Khulna,1,0,0,0,0,0
+330902,17 Jan 2016,v Zimbabwe,Khulna,2,0,0,0,0,0
+330902,24 Feb 2016,v India,Mirpur,1,0,0,0,0,0
+330902,26 Feb 2016,v U.A.E.,Mirpur,2,2,2,0,0,2
+330902,28 Feb 2016,v Sri Lanka,Mirpur,2,0,0,0,0,0
+330902,21 Mar 2016,v Australia,Bengaluru,2,0,0,0,0,0
+330902,23 Mar 2016,v India,Bengaluru,1,0,0,0,0,0
+330902,26 Mar 2016,v New Zealand,Eden Gardens,1,0,0,0,0,0
+330902,12 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+330902,16 Apr 2016,v KKR,Hyderabad,2,0,0,0,0,0
+330902,18 Apr 2016,v MI,Hyderabad,1,0,0,0,0,0
+330902,21 Apr 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+330902,23 Apr 2016,v Kings XI,Hyderabad,1,1,1,0,0,1
+330902,26 Apr 2016,v Supergiants,Hyderabad,2,0,0,0,0,0
+330902,30 Apr 2016,v RCB,Hyderabad,2,0,0,0,0,0
+330902,6 May 2016,v Guj Lions,Hyderabad,1,1,1,0,0,1
+330902,8 May 2016,v MI,Visakhapatnam,2,0,0,0,0,0
+330902,10 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+330902,12 May 2016,v Daredevils,Hyderabad,2,0,0,0,0,0
+330902,15 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+330902,20 May 2016,v Daredevils,Raipur,2,0,0,0,0,0
+330902,22 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+330902,25 May 2016,v KKR,Delhi,2,0,0,0,0,0
+330902,29 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+330902,21 Jul 2016,v Essex,Chelmsford,2,1,1,0,0,1
+330902,22 Jul 2016,v Surrey,The Oval,2,1,1,0,0,1
+330902,3 Jan 2017,v New Zealand,Napier,2,0,0,0,0,0
+330902,6 Jan 2017,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+330902,4 Apr 2017,v Sri Lanka,Colombo (RPS),2,1,1,0,0,1
+330902,6 Apr 2017,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+330902,12 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+330902,25 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+330902,27 Nov 2017,v Khulna,Chattogram,1,0,0,0,0,0
+330902,29 Nov 2017,v Chattogram,Chattogram,2,0,0,0,0,0
+330902,2 Dec 2017,v Dynamites,Mirpur,1,1,1,0,0,1
+330902,5 Dec 2017,v Chattogram,Mirpur,1,0,0,0,0,0
+330902,15 Feb 2018,v Sri Lanka,Mirpur,2,0,0,0,0,0
+330902,18 Feb 2018,v Sri Lanka,Sylhet,1,0,0,0,0,0
+330902,23 Feb 2018,v Sultans,Dubai (DICS),1,0,0,0,0,0
+330902,24 Feb 2018,v Gladiators,Dubai (DICS),2,0,0,0,0,0
+330902,26 Feb 2018,v Kings,Dubai (DICS),1,0,0,0,0,0
+330902,2 Mar 2018,v United,Sharjah,1,0,0,0,0,0
+330902,3 Mar 2018,v Zalmi,Sharjah,2,0,0,0,0,0
+330902,8 Mar 2018,v India,Colombo (RPS),2,0,0,0,0,0
+330902,10 Mar 2018,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+330902,14 Mar 2018,v India,Colombo (RPS),1,0,0,0,0,0
+330902,16 Mar 2018,v Sri Lanka,Colombo (RPS),1,1,1,0,0,1
+330902,18 Mar 2018,v India,Colombo (RPS),2,0,0,0,0,0
+330902,7 Apr 2018,v CSK,Wankhede,2,1,1,0,0,1
+330902,12 Apr 2018,v SRH,Hyderabad,2,1,1,0,0,1
+330902,14 Apr 2018,v Daredevils,Wankhede,2,0,0,0,0,0
+330902,17 Apr 2018,v RCB,Wankhede,2,0,0,0,0,0
+330902,22 Apr 2018,v RR,Jaipur,2,0,0,0,0,0
+330902,24 Apr 2018,v SRH,Wankhede,1,0,0,0,0,0
+330902,20 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+330902,31 Jul 2018,v West Indies,Basseterre,2,0,0,0,0,0
+330902,4 Aug 2018,v West Indies,Lauderhill,2,0,0,0,0,0
+330902,5 Aug 2018,v West Indies,Lauderhill,2,0,0,0,0,0
+330902,17 Dec 2018,v West Indies,Sylhet,2,1,1,0,0,1
+330902,20 Dec 2018,v West Indies,Mirpur,2,1,1,0,0,1
+330902,22 Dec 2018,v West Indies,Mirpur,1,0,0,0,0,0
+330902,5 Jan 2019,v Dynamites,Mirpur,1,0,0,0,0,0
+330902,9 Jan 2019,v Khulna,Mirpur,1,0,0,0,0,0
+330902,11 Jan 2019,v Victorians,Mirpur,2,0,0,0,0,0
+330902,13 Jan 2019,v Rangpur,Mirpur,2,0,0,0,0,0
+330902,15 Jan 2019,v Khulna,Sylhet,1,0,0,0,0,0
+330902,16 Jan 2019,v Dynamites,Sylhet,2,0,0,0,0,0
+330902,21 Jan 2019,v Victorians,Mirpur,2,0,0,0,0,0
+330902,23 Jan 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+330902,25 Jan 2019,v Sylhet,Chattogram,1,0,0,0,0,0
+330902,26 Jan 2019,v Chattogram,Chattogram,2,0,0,0,0,0
+330902,29 Jan 2019,v Rangpur,Chattogram,2,0,0,0,0,0
+330902,30 Jan 2019,v Sylhet,Chattogram,1,1,1,0,0,1
+330902,13 Sep 2019,v Zimbabwe,Mirpur,1,0,0,0,0,0
+330902,15 Sep 2019,v Afghanistan,Mirpur,1,0,0,0,0,0
+330902,18 Sep 2019,v Zimbabwe,Chattogram,2,0,0,0,0,0
+330902,21 Sep 2019,v Afghanistan,Chattogram,1,3,3,0,0,3
+330902,3 Nov 2019,v India,Delhi,1,0,0,0,0,0
+330902,7 Nov 2019,v India,Rajkot,2,0,0,0,0,0
+330902,10 Nov 2019,v India,Nagpur,1,0,0,0,0,0
+330902,11 Dec 2019,v Warriors,Mirpur,1,0,0,0,0,0
+330902,14 Dec 2019,v Chattogram,Mirpur,2,0,0,0,0,0
+330902,18 Dec 2019,v Warriors,Chattogram,2,0,0,0,0,0
+330902,20 Dec 2019,v Khulna,Chattogram,2,1,1,0,0,1
+330902,21 Dec 2019,v Chattogram,Chattogram,1,0,0,0,0,0
+330902,27 Dec 2019,v Khulna,Mirpur,1,0,0,0,0,0
+330902,30 Dec 2019,v Thunder,Mirpur,1,0,0,0,0,0
+330902,31 Dec 2019,v Royals,Mirpur,2,0,0,0,0,0
+330902,2 Jan 2020,v Royals,Sylhet,1,0,0,0,0,0
+330902,3 Jan 2020,v Thunder,Sylhet,2,0,0,0,0,0
+330902,8 Jan 2020,v Platoon,Mirpur,1,0,0,0,0,0
+330902,10 Jan 2020,v Platoon,Mirpur,2,0,0,0,0,0
+330902,24 Jan 2020,v Pakistan,Lahore,2,0,0,0,0,0
+330902,25 Jan 2020,v Pakistan,Lahore,2,0,0,0,0,0
+330902,9 Mar 2020,v Zimbabwe,Mirpur,2,1,1,0,0,1
+330902,11 Mar 2020,v Zimbabwe,Mirpur,1,0,0,0,0,0
+330902,26 Nov 2020,v Dhaka,Mirpur,1,0,0,0,0,0
+330902,28 Nov 2020,v Khulna,Mirpur,1,0,0,0,0,0
+330902,30 Nov 2020,v Barishal,Mirpur,2,0,0,0,0,0
+330902,2 Dec 2020,v Rajshahi,Mirpur,2,1,1,0,0,1
+330902,6 Dec 2020,v Dhaka,Mirpur,1,0,0,0,0,0
+330902,8 Dec 2020,v Khulna,Mirpur,1,1,1,0,0,1
+330902,12 Dec 2020,v Rajshahi,Mirpur,2,0,0,0,0,0
+330902,14 Dec 2020,v Khulna,Mirpur,1,0,0,0,0,0
+330902,15 Dec 2020,v Dhaka,Mirpur,1,0,0,0,0,0
+330902,18 Dec 2020,v Khulna,Mirpur,1,1,1,0,0,1
+330902,28 Mar 2021,v New Zealand,Hamilton,1,0,0,0,0,0
+330902,12 Apr 2021,v Punjab Kings,Wankhede,1,0,0,0,0,0
+330902,15 Apr 2021,v DC,Wankhede,1,0,0,0,0,0
+330902,19 Apr 2021,v CSK,Wankhede,1,0,0,0,0,0
+330902,22 Apr 2021,v RCB,Wankhede,2,0,0,0,0,0
+330902,24 Apr 2021,v KKR,Wankhede,1,0,0,0,0,0
+330902,29 Apr 2021,v MI,Delhi,2,0,0,0,0,0
+330902,2 May 2021,v SRH,Delhi,2,0,0,0,0,0
+330902,31 May 2021,v Gazi Group,Savar (3),1,0,0,0,0,0
+330902,2 Jun 2021,v Shinepukur,Mirpur,1,1,1,0,0,1
+330902,5 Jun 2021,v Mohammedan,Mirpur,1,0,0,0,0,0
+330902,7 Jun 2021,v PSC,Savar (3),2,0,0,0,0,0
+330902,8 Jun 2021,v Sheikh Jamal,Savar (4),1,1,1,0,0,1
+330902,10 Jun 2021,v Prime DSC,Savar (3),2,0,0,0,0,0
+330902,11 Jun 2021,v L Rupganj,Mirpur,2,0,0,0,0,0
+330902,16 Jun 2021,v Brothers,Mirpur,1,0,0,0,0,0
+330902,17 Jun 2021,v Khelaghar,Mirpur,1,1,1,0,0,1
+330902,20 Jun 2021,v Sheikh Jamal,Mirpur,2,0,0,0,0,0
+330902,21 Jun 2021,v Mohammedan,Mirpur,1,0,0,0,0,0
+330902,23 Jun 2021,v Gazi Group,Mirpur,1,0,0,0,0,0
+330902,24 Jun 2021,v Prime DSC,Mirpur,2,0,0,0,0,0
+330902,26 Jun 2021,v Abahani Ltd,Mirpur,1,0,0,0,0,0
+330902,22 Jul 2021,v Zimbabwe,Harare,1,0,0,0,0,0
+330902,3 Aug 2021,v Australia,Mirpur,2,1,1,0,0,1
+330902,4 Aug 2021,v Australia,Mirpur,1,0,0,0,0,0
+330902,6 Aug 2021,v Australia,Mirpur,2,0,0,0,0,0
+330902,7 Aug 2021,v Australia,Mirpur,2,0,0,0,0,0
+330902,9 Aug 2021,v Australia,Mirpur,2,0,0,0,0,0
+330902,1 Sep 2021,v New Zealand,Mirpur,1,0,0,0,0,0
+330902,3 Sep 2021,v New Zealand,Mirpur,2,0,0,0,0,0
+330902,5 Sep 2021,v New Zealand,Mirpur,1,0,0,0,0,0
+330902,8 Sep 2021,v New Zealand,Mirpur,1,1,1,0,0,1
+330902,21 Sep 2021,v Punjab Kings,Dubai (DICS),2,0,0,0,0,0
+330902,25 Sep 2021,v DC,Abu Dhabi,1,0,0,0,0,0
+330902,27 Sep 2021,v SRH,Dubai (DICS),2,1,1,0,0,1
+330902,29 Sep 2021,v RCB,Dubai (DICS),2,0,0,0,0,0
+330902,2 Oct 2021,v CSK,Abu Dhabi,1,0,0,0,0,0
+330902,5 Oct 2021,v MI,Sharjah,2,0,0,0,0,0
+330902,7 Oct 2021,v KKR,Sharjah,1,0,0,0,0,0
+330902,17 Oct 2021,v Scotland,Al Amerat,1,0,0,0,0,0
+330902,19 Oct 2021,v Oman,Al Amerat,2,1,1,0,0,1
+330902,21 Oct 2021,v P.N.G.,Al Amerat,2,0,0,0,0,0
+330902,24 Oct 2021,v Sri Lanka,Sharjah,2,0,0,0,0,0
+330902,27 Oct 2021,v England,Abu Dhabi,2,0,0,0,0,0
+330902,29 Oct 2021,v West Indies,Sharjah,1,0,0,0,0,0
+330902,4 Nov 2021,v Australia,Dubai (DICS),2,0,0,0,0,0
+330902,19 Nov 2021,v Pakistan,Mirpur,2,0,0,0,0,0
+330902,20 Nov 2021,v Pakistan,Mirpur,2,0,0,0,0,0
+330902,22 Jan 2022,v Sunrisers,Mirpur,1,0,0,0,0,0
+330902,25 Jan 2022,v Barishal,Mirpur,2,0,0,0,0,0
+330902,31 Jan 2022,v Chattogram,Chattogram,2,0,0,0,0,0
+330902,1 Feb 2022,v Dhaka,Chattogram,1,0,0,0,0,0
+330902,3 Feb 2022,v Chattogram,Mirpur,1,1,1,0,0,1
+330902,7 Feb 2022,v Barishal,Sylhet,1,0,0,0,0,0
+330902,9 Feb 2022,v Sunrisers,Sylhet,1,0,0,0,0,0
+330902,11 Feb 2022,v Khulna,Mirpur,2,0,0,0,0,0
+330902,14 Feb 2022,v Barishal,Mirpur,1,0,0,0,0,0
+330902,16 Feb 2022,v Chattogram,Mirpur,1,0,0,0,0,0
+330902,18 Feb 2022,v Barishal,Mirpur,2,1,1,0,0,1
+330902,3 Mar 2022,v Afghanistan,Mirpur,2,0,0,0,0,0
+330902,5 Mar 2022,v Afghanistan,Mirpur,2,0,0,0,0,0
+330902,2 Apr 2022,v GT,Pune,1,0,0,0,0,0
+330902,7 Apr 2022,v LSG,DY Patil,2,0,0,0,0,0
+330902,10 Apr 2022,v KKR,Brabourne,2,0,0,0,0,0
+330902,16 Apr 2022,v RCB,Wankhede,1,0,0,0,0,0
+330902,20 Apr 2022,v Punjab Kings,Brabourne,1,1,1,0,0,1
+330902,22 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+330902,28 Apr 2022,v KKR,Wankhede,1,0,0,0,0,0
+330902,1 May 2022,v LSG,Wankhede,1,0,0,0,0,0
+330902,2 Jul 2022,v West Indies,Roseau,-,TDNF,-,-,-,-
+330902,3 Jul 2022,v West Indies,Roseau,1,0,0,0,0,0
+330902,7 Jul 2022,v West Indies,Providence,2,0,0,0,0,0
+330902,30 Jul 2022,v Zimbabwe,Harare,1,0,0,0,0,0
+330902,31 Jul 2022,v Zimbabwe,Harare,1,0,0,0,0,0
+330902,2 Aug 2022,v Zimbabwe,Harare,1,1,1,0,0,1
+330902,30 Aug 2022,v Afghanistan,Sharjah,2,0,0,0,0,0
+330902,1 Sep 2022,v Sri Lanka,Dubai (DICS),2,1,1,0,0,1
+330902,25 Sep 2022,v U.A.E.,Dubai (DICS),2,0,0,0,0,0
+330902,7 Oct 2022,v Pakistan,Christchurch,1,1,1,0,0,1
+330902,24 Oct 2022,v Netherlands,Hobart,2,0,0,0,0,0
+330902,27 Oct 2022,v South Africa,Sydney,1,0,0,0,0,0
+330902,30 Oct 2022,v Zimbabwe,Brisbane,2,1,1,0,0,1
+330902,2 Nov 2022,v India,Adelaide,1,1,1,0,0,1
+330902,6 Nov 2022,v Pakistan,Adelaide,2,1,1,0,0,1
+330902,6 Jan 2023,v Rangpur,Mirpur,1,1,1,0,0,1
+330902,9 Jan 2023,v Strikers,Mirpur,2,0,0,0,0,0
+330902,14 Jan 2023,v Barishal,Chattogram,1,0,0,0,0,0
+330902,28 Jan 2023,v Khulna,Sylhet,2,0,0,0,0,0
+330902,31 Jan 2023,v Khulna,Sylhet,1,0,0,0,0,0
+330902,4 Feb 2023,v Chattogram,Mirpur,1,0,0,0,0,0
+330902,7 Feb 2023,v Barishal,Mirpur,1,0,0,0,0,0
+330902,10 Feb 2023,v Rangpur,Mirpur,2,0,0,0,0,0
+330902,12 Feb 2023,v Strikers,Mirpur,1,0,0,0,0,0
+330902,16 Feb 2023,v Strikers,Mirpur,1,0,0,0,0,0
+330902,9 Mar 2023,v England,Chattogram,1,0,0,0,0,0
+330902,12 Mar 2023,v England,Mirpur,1,0,0,0,0,0
+330902,14 Mar 2023,v England,Mirpur,2,0,0,0,0,0
+330902,27 Mar 2023,v Ireland,Chattogram,2,0,0,0,0,0
+330902,29 Mar 2023,v Ireland,Chattogram,2,0,0,0,0,0
+330902,11 Apr 2023,v MI,Delhi,2,0,0,0,0,0
+330902,15 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+330902,14 Jul 2023,v Afghanistan,Sylhet,1,0,0,0,0,0
+330902,16 Jul 2023,v Afghanistan,Sylhet,1,0,0,0,0,0
+330902,27 Dec 2023,v New Zealand,Napier,1,0,0,0,0,0
+330902,29 Dec 2023,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+330902,31 Dec 2023,v New Zealand,Mount Maunganui,2,0,0,0,0,0
+330902,19 Jan 2024,v Dhaka,Mirpur,2,0,0,0,0,0
+330902,23 Jan 2024,v Barishal,Mirpur,1,1,1,0,0,1
+330902,26 Jan 2024,v Strikers,Sylhet,2,0,0,0,0,0
+330902,30 Jan 2024,v Rangpur,Sylhet,1,0,0,0,0,0
+330902,2 Feb 2024,v Chattogram,Sylhet,1,0,0,0,0,0
+330902,7 Feb 2024,v Khulna,Mirpur,2,0,0,0,0,0
+330902,9 Feb 2024,v Dhaka,Mirpur,1,0,0,0,0,0
+330902,13 Feb 2024,v Chattogram,Chattogram,2,0,0,0,0,0
+330902,14 Feb 2024,v Khulna,Chattogram,1,0,0,0,0,0
+330902,1 Mar 2024,v Barishal,Mirpur,2,0,0,0,0,0
+330902,4 Mar 2024,v Sri Lanka,Sylhet,1,0,0,0,0,0
+330902,6 Mar 2024,v Sri Lanka,Sylhet,1,1,1,0,0,1
+330902,9 Mar 2024,v Sri Lanka,Sylhet,1,1,1,0,0,1
+330902,22 Mar 2024,v RCB,Chennai,1,0,0,0,0,0
+330902,26 Mar 2024,v GT,Chennai,2,0,0,0,0,0
+330902,31 Mar 2024,v DC,Visakhapatnam,1,0,0,0,0,0
+330902,8 Apr 2024,v KKR,Chennai,1,0,0,0,0,0
+330902,14 Apr 2024,v MI,Wankhede,2,1,1,0,0,1
+330902,19 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+330902,23 Apr 2024,v LSG,Chennai,2,0,0,0,0,0
+330902,28 Apr 2024,v SRH,Chennai,2,0,0,0,0,0
+330902,1 May 2024,v Punjab Kings,Chennai,2,0,0,0,0,0
+330902,10 May 2024,v Zimbabwe,Mirpur,2,0,0,0,0,0
+330902,12 May 2024,v Zimbabwe,Mirpur,2,0,0,0,0,0
+330902,21 May 2024,v U.S.A.,Prairie View,2,1,1,0,0,1
+330902,23 May 2024,v U.S.A.,Prairie View,1,0,0,0,0,0
+330902,25 May 2024,v U.S.A.,Prairie View,1,0,0,0,0,0
+330902,7 Jun 2024,v Sri Lanka,Dallas,1,1,1,0,0,1
+330902,10 Jun 2024,v South Africa,New York,1,0,0,0,0,0
+330902,13 Jun 2024,v Netherlands,Kingstown,2,0,0,0,0,0
+330902,16 Jun 2024,v Nepal,Kingstown,2,0,0,0,0,0
+330902,20 Jun 2024,v Australia,North Sound,2,0,0,0,0,0
+330902,22 Jun 2024,v India,North Sound,1,0,0,0,0,0
+330902,24 Jun 2024,v Afghanistan,Kingstown,1,0,0,0,0,0
+330902,1 Jul 2024,v Kandy,Pallekele,2,1,1,0,0,1
+330902,3 Jul 2024,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+330902,6 Jul 2024,v Jaffna Kings,Dambulla,1,0,0,0,0,0
+330902,7 Jul 2024,v Colombo,Dambulla,1,0,0,0,0,0
+330902,6 Oct 2024,v India,Gwalior,2,0,0,0,0,0
+330902,9 Oct 2024,v India,Delhi,1,0,0,0,0,0
+330902,12 Oct 2024,v India,Hyderabad,1,0,0,0,0,0
+330902,22 Dec 2024,v Dhaka Metro,Sylhet,1,1,1,0,0,1
+330902,30 Dec 2024,v Rangpur,Mirpur,1,0,0,0,0,0
+330902,2 Jan 2025,v Rajshahi,Mirpur,2,0,0,0,0,0
+330902,3 Jan 2025,v Khulna,Mirpur,1,0,0,0,0,0
+330902,7 Jan 2025,v Rangpur,Sylhet,2,0,0,0,0,0
+330902,9 Jan 2025,v Chittagong,Sylhet,2,0,0,0,0,0
+330902,10 Jan 2025,v Strikers,Sylhet,2,1,1,0,0,1
+330902,12 Jan 2025,v Rajshahi,Sylhet,2,0,0,0,0,0
+330902,16 Jan 2025,v Barishal,Chattogram,2,0,0,0,0,0
+330902,20 Jan 2025,v Strikers,Chattogram,2,1,1,0,0,1
+330902,22 Jan 2025,v Chittagong,Chattogram,1,0,0,0,0,0
+330902,29 Jan 2025,v Barishal,Mirpur,2,0,0,0,0,0
+330902,1 Feb 2025,v Khulna,Mirpur,2,0,0,0,0,0
+330902,17 May 2025,v U.A.E.,Sharjah,2,1,1,0,0,1
+330902,18 May 2025,v GT,Delhi,2,0,0,0,0,0
+330902,21 May 2025,v MI,Wankhede,1,0,0,0,0,0
+330902,24 May 2025,v Punjab Kings,Jaipur,1,0,0,0,0,0
+330902,13 Jul 2025,v Sri Lanka,Dambulla,2,1,1,0,0,1
+330902,16 Jul 2025,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+330902,20 Jul 2025,v Pakistan,Mirpur,1,1,1,0,0,1
+330902,22 Jul 2025,v Pakistan,Mirpur,2,0,0,0,0,0
+330902,30 Aug 2025,v Netherlands,Sylhet,1,0,0,0,0,0
+330902,1 Sep 2025,v Netherlands,Sylhet,1,0,0,0,0,0
+330902,11 Sep 2025,v Hong Kong,Abu Dhabi,1,1,1,0,0,1
+330902,13 Sep 2025,v Sri Lanka,Abu Dhabi,2,1,1,0,0,1
+330902,16 Sep 2025,v Afghanistan,Abu Dhabi,2,0,0,0,0,0
+330902,20 Sep 2025,v Sri Lanka,Dubai (DICS),1,0,0,0,0,0
+330902,24 Sep 2025,v India,Dubai (DICS),1,0,0,0,0,0
+330902,25 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+330902,2 Oct 2025,v Afghanistan,Sharjah,1,0,0,0,0,0
+330902,3 Oct 2025,v Afghanistan,Sharjah,1,0,0,0,0,0
+330902,27 Oct 2025,v West Indies,Chattogram,1,0,0,0,0,0
+330902,29 Oct 2025,v West Indies,Chattogram,1,1,1,0,0,1
+330902,27 Nov 2025,v Ireland,Chattogram,1,0,0,0,0,0
+330902,29 Nov 2025,v Ireland,Chattogram,1,0,0,0,0,0
+330902,2 Dec 2025,v Ireland,Chattogram,1,0,0,0,0,0
+330902,6 Dec 2025,v Gulf Giants,Dubai (DICS),2,2,2,0,0,2
+330902,7 Dec 2025,v KnightRiders,Dubai (DICS),2,0,0,0,0,0
+330902,13 Dec 2025,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+330902,14 Dec 2025,v Vipers,Dubai (DICS),2,0,0,0,0,0
+330902,17 Dec 2025,v MI Emirates,Dubai (DICS),1,0,0,0,0,0
+330902,19 Dec 2025,v Warriorz,Dubai (DICS),2,0,0,0,0,0
+330902,21 Dec 2025,v Gulf Giants,Abu Dhabi,1,1,1,0,0,1
+330902,24 Dec 2025,v Warriorz,Dubai (DICS),1,1,1,0,0,1
+330902,29 Dec 2025,v Chattogram,Sylhet,1,0,0,0,0,0
+330902,1 Jan 2026,v Rajshahi,Sylhet,1,0,0,0,0,0
+330902,2 Jan 2026,v Sylhet,Sylhet,1,0,0,0,0,0
+330902,4 Jan 2026,v Dhaka,Sylhet,2,0,0,0,0,0
+330902,5 Jan 2026,v Chattogram,Sylhet,1,0,0,0,0,0
+330902,9 Jan 2026,v Noakhali,Sylhet,1,0,0,0,0,0
+330902,11 Jan 2026,v Rajshahi,Sylhet,2,0,0,0,0,0
+330902,12 Jan 2026,v Sylhet,Sylhet,2,0,0,0,0,0
+330902,17 Jan 2026,v Dhaka,Mirpur,2,2,2,0,0,2
+330902,20 Jan 2026,v Sylhet,Mirpur,2,0,0,0,0,0

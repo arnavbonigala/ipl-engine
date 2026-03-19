@@ -1,0 +1,120 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+537124,20 Oct 2011,v Haryana,Rohtak,2,1,1,0,1,0
+537124,21 Oct 2011,v Himachal,Rohtak,2,2,1,1,1,0
+537124,22 Oct 2011,v Delhi,Rohtak,1,3,3,0,3,0
+537124,24 Oct 2011,v Services,Rohtak,2,1,0,1,0,0
+537124,25 Oct 2011,v J & K,Rohtak,1,0,0,0,0,0
+537124,23 Mar 2012,v Assam,Brabourne,1,1,1,0,0,1
+537124,25 Mar 2012,v M. Pradesh,Mumbai,1,0,0,0,0,0
+537124,26 Mar 2012,v Mumbai,Mumbai,1,0,0,0,0,0
+537124,27 Mar 2012,v Baroda,Brabourne,1,0,0,0,0,0
+537124,5 May 2012,v RR,Mohali,1,1,1,0,0,1
+537124,13 May 2012,v Chargers,Mohali,1,1,1,0,0,1
+537124,15 May 2012,v Daredevils,Delhi,2,0,0,0,0,0
+537124,17 May 2012,v CSK,Dharamsala,1,0,0,0,0,0
+537124,19 May 2012,v Daredevils,Dharamsala,2,0,0,0,0,0
+537124,17 Mar 2013,v Haryana,Rohtak,1,0,0,0,0,0
+537124,18 Mar 2013,v Delhi,Gurgaon,2,0,0,0,0,0
+537124,19 Mar 2013,v J & K,Gurgaon,2,0,0,0,0,0
+537124,21 Mar 2013,v Services,Rohtak,1,0,0,0,0,0
+537124,22 Mar 2013,v Himachal,Gurgaon,1,0,0,0,0,0
+537124,26 Mar 2013,v Karnataka,Indore,2,0,0,0,0,0
+537124,27 Mar 2013,v Baroda,Indore,1,0,0,0,0,0
+537124,28 Mar 2013,v Bengal,Indore,2,0,0,0,0,0
+537124,30 Mar 2013,v UP,Indore,2,0,0,0,0,0
+537124,31 Mar 2013,v Gujarat,Indore,2,0,0,0,0,0
+537124,7 Apr 2013,v Warriors,Pune,1,1,1,0,0,1
+537124,10 Apr 2013,v CSK,Mohali,2,0,0,0,0,0
+537124,14 Apr 2013,v RR,Jaipur,2,0,0,0,0,0
+537124,16 Apr 2013,v KKR,Mohali,2,0,0,0,0,0
+537124,19 Apr 2013,v SRH,Hyderabad,2,0,0,0,0,0
+537124,21 Apr 2013,v Warriors,Mohali,1,1,1,0,0,1
+537124,26 Apr 2013,v KKR,Eden Gardens,2,1,1,0,0,1
+537124,29 Apr 2013,v MI,Wankhede,1,0,0,0,0,0
+537124,2 May 2013,v CSK,Chennai,1,1,0,1,0,0
+537124,6 May 2013,v RCB,Mohali,1,0,0,0,0,0
+537124,18 May 2013,v MI,Dharamsala,2,1,1,0,0,1
+537124,1 Apr 2014,v Haryana,Mohali,1,0,0,0,0,0
+537124,2 Apr 2014,v Himachal,Mohali,1,0,0,0,0,0
+537124,3 Apr 2014,v Delhi,Mohali,2,0,0,0,0,0
+537124,4 Apr 2014,v Services,Mohali,2,0,0,0,0,0
+537124,5 Apr 2014,v J & K,Mohali,2,1,1,0,0,1
+537124,24 Mar 2015,v Haryana,Delhi,1,2,2,0,0,2
+537124,25 Mar 2015,v Delhi,Delhi,2,0,0,0,0,0
+537124,26 Mar 2015,v J & K,Delhi,2,0,0,0,0,0
+537124,27 Mar 2015,v Services,Delhi,1,0,0,0,0,0
+537124,28 Mar 2015,v Himachal,Delhi,2,2,2,0,0,2
+537124,1 Apr 2015,v Hyderabad,Cuttack,1,1,1,0,0,1
+537124,2 Apr 2015,v Mumbai,Cuttack,2,0,0,0,0,0
+537124,3 Apr 2015,v Odisha,Cuttack,2,0,0,0,0,0
+537124,5 Apr 2015,v Rajasthan,Cuttack,1,0,0,0,0,0
+537124,7 Apr 2015,v Gujarat,Bhubaneswar,2,3,3,0,0,3
+537124,18 Apr 2015,v KKR,Pune,2,0,0,0,0,0
+537124,9 May 2015,v KKR,Eden Gardens,2,0,0,0,0,0
+537124,11 May 2015,v SRH,Hyderabad,1,1,1,0,0,1
+537124,13 May 2015,v RCB,Mohali,2,0,0,0,0,0
+537124,16 May 2015,v CSK,Mohali,2,0,0,0,0,0
+537124,1 May 2016,v Guj Lions,Rajkot,2,1,1,0,0,1
+537124,4 May 2016,v KKR,Eden Gardens,1,0,0,0,0,0
+537124,7 May 2016,v Daredevils,Mohali,2,1,1,0,0,1
+537124,13 May 2016,v MI,Visakhapatnam,1,3,3,0,0,3
+537124,15 May 2016,v SRH,Mohali,2,0,0,0,0,0
+537124,18 May 2016,v RCB,Bengaluru,1,0,0,0,0,0
+537124,21 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+537124,29 Jan 2017,v Haryana,Nadaun,1,0,0,0,0,0
+537124,30 Jan 2017,v Delhi,Dharamsala,1,3,3,0,0,3
+537124,31 Jan 2017,v J & K,Dharamsala,1,0,0,0,0,0
+537124,1 Feb 2017,v Services,Dharamsala,2,0,0,0,0,0
+537124,2 Feb 2017,v Himachal,Dharamsala,2,2,2,0,0,2
+537124,20 Apr 2017,v MI,Indore,2,0,0,0,0,0
+537124,7 May 2017,v Guj Lions,Mohali,2,1,1,0,0,1
+537124,9 Jan 2018,v Delhi,Delhi,2,0,0,0,0,0
+537124,10 Jan 2018,v Services,Delhi,1,0,0,0,0,0
+537124,12 Jan 2018,v Haryana,Delhi,2,0,0,0,0,0
+537124,14 Jan 2018,v J & K,Delhi,1,0,0,0,0,0
+537124,15 Jan 2018,v Himachal,Delhi,2,1,1,0,0,1
+537124,21 Jan 2018,v Karnataka,Kolkata,1,0,0,0,0,0
+537124,22 Jan 2018,v Mumbai,Kolkata,1,2,2,0,0,2
+537124,23 Jan 2018,v Jharkhand,Eden Gardens,2,0,0,0,0,0
+537124,25 Jan 2018,v Rajasthan,Eden Gardens,2,0,0,0,0,0
+537124,21 Feb 2019,v M. Pradesh,Indore,1,1,1,0,0,1
+537124,22 Feb 2019,v Mumbai,Indore,1,1,1,0,0,1
+537124,24 Feb 2019,v Saurashtra,Indore,2,0,0,0,0,0
+537124,27 Feb 2019,v Sikkim,Indore,1,0,0,0,0,0
+537124,28 Feb 2019,v Goa,Indore,2,1,1,0,0,1
+537124,2 Mar 2019,v Railways,Indore,1,0,0,0,0,0
+537124,28 Apr 2019,v DC,Delhi,1,0,0,0,0,0
+537124,30 Apr 2019,v RR,Bengaluru,2,0,0,0,0,0
+537124,4 May 2019,v SRH,Bengaluru,1,1,1,0,0,1
+537124,8 Nov 2019,v Hyderabad,Chandigarh,1,0,0,0,0,0
+537124,9 Nov 2019,v Arunachal,Chandigarh,1,0,0,0,0,0
+537124,11 Nov 2019,v Chandigarh,Chandigarh,1,1,1,0,0,1
+537124,12 Nov 2019,v Himachal,Chandigarh,1,2,2,0,0,2
+537124,14 Nov 2019,v Railways,Chandigarh,1,0,0,0,0,0
+537124,15 Nov 2019,v Chhattisgarh,Chandigarh,2,0,0,0,0,0
+537124,18 Nov 2019,v Maharashtra,Chandigarh,1,1,1,0,0,1
+537124,21 Nov 2019,v Jharkhand,Surat,2,1,1,0,0,1
+537124,24 Nov 2019,v Karnataka,Surat,2,0,0,0,0,0
+537124,25 Nov 2019,v Tamil Nadu,Surat,2,1,1,0,0,1
+537124,27 Nov 2019,v Mumbai,Surat,1,1,1,0,0,1
+537124,28 Sep 2020,v MI,Dubai (DICS),2,0,0,0,0,0
+537124,3 Oct 2020,v RR,Abu Dhabi,1,0,0,0,0,0
+537124,10 Oct 2020,v CSK,Dubai (DICS),2,2,2,0,0,2
+537124,17 Oct 2020,v RR,Dubai (DICS),1,0,0,0,0,0
+537124,21 Oct 2020,v KKR,Abu Dhabi,1,1,1,0,0,1
+537124,25 Oct 2020,v CSK,Dubai (DICS),2,0,0,0,0,0
+537124,28 Oct 2020,v MI,Abu Dhabi,2,1,1,0,0,1
+537124,31 Oct 2020,v SRH,Sharjah,2,1,1,0,0,1
+537124,10 Jan 2021,v UP,Alur (2),2,0,0,0,0,0
+537124,12 Jan 2021,v Karnataka,Alur,1,0,0,0,0,0
+537124,14 Jan 2021,v Railways,Alur (2),2,0,0,0,0,0
+537124,16 Jan 2021,v J & K,Alur (3),1,1,1,0,0,1
+537124,18 Jan 2021,v Tripura,Alur (2),2,0,0,0,0,0
+537124,26 Jan 2021,v Karnataka,Ahmedabad,1,2,2,0,0,2
+537124,29 Jan 2021,v Baroda,Ahmedabad,1,0,0,0,0,0
+537124,4 Nov 2021,v Puducherry,Lucknow,1,0,0,0,0,0
+537124,5 Nov 2021,v Maharashtra,Lucknow,2,0,0,0,0,0
+537124,6 Nov 2021,v Goa,Lucknow,2,0,0,0,0,0
+537124,8 Nov 2021,v Odisha,Lucknow,2,0,0,0,0,0
+537124,9 Nov 2021,v Tamil Nadu,Lucknow,2,0,0,0,0,0
+537124,16 Oct 2023,v Saurashtra,Ranchi,1,0,0,0,0,0

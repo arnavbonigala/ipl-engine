@@ -1,0 +1,202 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+272262,9 Jan 2009,v Queensland,Brisbane,2,0,0,0,0,0
+272262,24 Jan 2011,v Tasmania,Hobart,1,0,0,0,0,0
+272262,28 Jan 2011,v Victoria,Melbourne,1,0,0,0,0,0
+272262,5 Feb 2011,v NSW,Adelaide,1,0,0,0,0,0
+272262,27 Sep 2011,v KKR,Hyderabad,2,0,0,0,0,0
+272262,1 Oct 2011,v Somerset,Bengaluru,-,TDNF,-,-,-,-
+272262,5 Oct 2011,v RCB,Bengaluru,2,0,0,0,0,0
+272262,18 Dec 2011,v Renegades,Adelaide,2,1,1,0,0,1
+272262,23 Dec 2011,v Thunder,Sydney,2,0,0,0,0,0
+272262,28 Dec 2011,v Hurricanes,Adelaide,1,1,1,0,0,1
+272262,3 Jan 2012,v Heat,Brisbane,2,0,0,0,0,0
+272262,10 Jan 2012,v Sixers,Adelaide,1,0,0,0,0,0
+272262,9 Dec 2012,v Scorchers,W.A.C.A,1,2,2,0,0,2
+272262,13 Dec 2012,v Heat,Adelaide,2,1,1,0,0,1
+272262,20 Dec 2012,v Thunder,Sydney,2,0,0,0,0,0
+272262,23 Dec 2012,v Sixers,Adelaide,1,0,0,0,0,0
+272262,27 Dec 2012,v Stars,Adelaide,1,0,0,0,0,0
+272262,2 Jan 2013,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+272262,5 Jan 2013,v Hurricanes,Hobart,2,1,1,0,0,1
+272262,10 Jan 2013,v Scorchers,Adelaide,1,0,0,0,0,0
+272262,28 Apr 2013,v Daredevils,Raipur,1,0,0,0,0,0
+272262,30 Apr 2013,v CSK,Pune,1,0,0,0,0,0
+272262,11 May 2013,v MI,Pune,2,0,0,0,0,0
+272262,22 Dec 2013,v Hurricanes,Hobart,-,TDNF,-,-,-,-
+272262,27 Dec 2013,v Thunder,Sydney,2,0,0,0,0,0
+272262,5 Jan 2014,v Sixers,Adelaide,2,0,0,0,0,0
+272262,9 Jan 2014,v Stars,Melbourne,2,1,1,0,0,1
+272262,16 Jan 2014,v Scorchers,W.A.C.A,1,0,0,0,0,0
+272262,18 Jan 2014,v Heat,Adelaide,1,0,0,0,0,0
+272262,22 Jan 2014,v Renegades,Adelaide,1,0,0,0,0,0
+272262,18 Apr 2014,v SRH,Abu Dhabi,1,3,3,0,0,3
+272262,20 Apr 2014,v Kings XI,Sharjah,2,0,0,0,0,0
+272262,26 Apr 2014,v RCB,Abu Dhabi,1,0,0,0,0,0
+272262,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+272262,3 May 2014,v Daredevils,Delhi,1,0,0,0,0,0
+272262,8 May 2014,v SRH,Ahmedabad,1,0,0,0,0,0
+272262,11 May 2014,v RCB,Bengaluru,1,0,0,0,0,0
+272262,5 Oct 2014,v Pakistan,Dubai (DICS),1,2,2,0,0,2
+272262,5 Nov 2014,v South Africa,Adelaide,2,0,0,0,0,0
+272262,18 Dec 2014,v Stars,Adelaide,1,0,0,0,0,0
+272262,22 Dec 2014,v Scorchers,W.A.C.A,1,0,0,0,0,0
+272262,31 Dec 2014,v Hurricanes,Adelaide,1,2,2,0,0,2
+272262,4 Jan 2015,v Heat,Brisbane,1,1,1,0,0,1
+272262,6 Jan 2015,v Scorchers,Adelaide,1,0,0,0,0,0
+272262,12 Jan 2015,v Thunder,Adelaide,2,0,0,0,0,0
+272262,14 Jan 2015,v Sixers,Sydney,2,1,1,0,0,1
+272262,19 Jan 2015,v Renegades,Melbourne (Docklands),2,1,1,0,0,1
+272262,24 Jan 2015,v Sixers,Adelaide,1,0,0,0,0,0
+272262,18 Dec 2015,v Stars,Adelaide,2,2,2,0,0,2
+272262,21 Dec 2015,v Scorchers,W.A.C.A,1,0,0,0,0,0
+272262,28 Dec 2015,v Thunder,Sydney,2,0,0,0,0,0
+272262,31 Dec 2015,v Sixers,Adelaide,1,0,0,0,0,0
+272262,5 Jan 2016,v Scorchers,Adelaide,2,1,1,0,0,1
+272262,26 Jan 2016,v India,Adelaide,1,0,0,0,0,0
+272262,20 Apr 2016,v MI,Wankhede,2,1,1,0,0,1
+272262,22 Apr 2016,v Supergiants,Pune,2,0,0,0,0,0
+272262,24 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+272262,30 Apr 2016,v SRH,Hyderabad,1,1,1,0,0,1
+272262,21 Dec 2016,v Heat,Adelaide,1,0,0,0,0,0
+272262,23 Dec 2016,v Scorchers,W.A.C.A,1,0,0,0,0,0
+272262,21 Dec 2017,v Hurricanes,Hobart,1,1,1,0,0,1
+272262,23 Dec 2017,v Heat,Melbourne (Docklands),1,1,1,0,0,1
+272262,29 Dec 2017,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+272262,3 Jan 2018,v Sixers,Geelong,1,1,1,0,0,1
+272262,6 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+272262,8 Jan 2018,v Scorchers,W.A.C.A,2,0,0,0,0,0
+272262,12 Jan 2018,v Stars,Melbourne (Docklands),1,0,0,0,0,0
+272262,22 Jan 2018,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+272262,24 Jan 2018,v Thunder,Canberra,2,0,0,0,0,0
+272262,27 Jan 2018,v Heat,Brisbane,2,1,1,0,0,1
+272262,3 Feb 2018,v New Zealand,Sydney,1,2,2,0,0,2
+272262,7 Feb 2018,v England,Hobart,1,0,0,0,0,0
+272262,10 Feb 2018,v England,Melbourne,1,0,0,0,0,0
+272262,16 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+272262,21 Feb 2018,v New Zealand,Auckland,1,0,0,0,0,0
+272262,27 Jun 2018,v England,Birmingham,1,0,0,0,0,0
+272262,20 Dec 2018,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+272262,23 Dec 2018,v Strikers,Adelaide,1,1,1,0,0,1
+272262,29 Dec 2018,v Sixers,Melbourne (Docklands),1,1,1,0,0,1
+272262,1 Jan 2019,v Stars,Melbourne,2,0,0,0,0,0
+272262,3 Jan 2019,v Strikers,Geelong,1,0,0,0,0,0
+272262,7 Jan 2019,v Hurricanes,Melbourne (Docklands),1,1,1,0,0,1
+272262,16 Jan 2019,v Sixers,Sydney,1,0,0,0,0,0
+272262,19 Jan 2019,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+272262,22 Jan 2019,v Thunder,Sydney,2,0,0,0,0,0
+272262,28 Jan 2019,v Scorchers,Perth,2,3,3,0,0,3
+272262,30 Jan 2019,v Thunder,Melbourne (Docklands),2,0,0,0,0,0
+272262,7 Feb 2019,v Hurricanes,Hobart,1,1,1,0,0,1
+272262,15 Feb 2019,v Sixers,Melbourne (Docklands),1,0,0,0,0,0
+272262,17 Feb 2019,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+272262,27 Oct 2019,v Sri Lanka,Adelaide,2,1,1,0,0,1
+272262,30 Oct 2019,v Sri Lanka,Brisbane,1,1,1,0,0,1
+272262,1 Nov 2019,v Sri Lanka,Melbourne,1,0,0,0,0,0
+272262,3 Nov 2019,v Pakistan,Sydney,1,0,0,0,0,0
+272262,5 Nov 2019,v Pakistan,Canberra,1,1,1,0,0,1
+272262,8 Nov 2019,v Pakistan,Perth,1,1,1,0,0,1
+272262,19 Dec 2019,v Thunder,Geelong,2,1,1,0,0,1
+272262,21 Dec 2019,v Scorchers,Perth,1,1,1,0,0,1
+272262,24 Dec 2019,v Hurricanes,Hobart,2,0,0,0,0,0
+272262,29 Dec 2019,v Strikers,Melbourne (Docklands),1,1,1,0,0,1
+272262,2 Jan 2020,v Sixers,Melbourne (Docklands),2,0,0,0,0,0
+272262,4 Jan 2020,v Stars,Melbourne,2,0,0,0,0,0
+272262,7 Jan 2020,v Scorchers,Geelong,2,1,1,0,0,1
+272262,25 Jan 2020,v Sixers,Sydney,2,0,0,0,0,0
+272262,21 Feb 2020,v South Africa,Johannesburg,2,1,1,0,0,1
+272262,23 Feb 2020,v South Africa,Gqeberha,1,1,1,0,0,1
+272262,26 Feb 2020,v South Africa,Cape Town,2,0,0,0,0,0
+272262,4 Sep 2020,v England,Southampton,1,0,0,0,0,0
+272262,6 Sep 2020,v England,Southampton,2,0,0,0,0,0
+272262,8 Sep 2020,v England,Southampton,1,0,0,0,0,0
+272262,12 Dec 2020,v Scorchers,Hobart,1,0,0,0,0,0
+272262,13 Dec 2020,v Sixers,Hobart,1,1,1,0,0,1
+272262,19 Dec 2020,v Hurricanes,Hobart,2,0,0,0,0,0
+272262,26 Dec 2020,v Thunder,Canberra,1,1,1,0,0,1
+272262,29 Dec 2020,v Sixers,Carrara,2,0,0,0,0,0
+272262,1 Jan 2021,v Thunder,Carrara,2,0,0,0,0,0
+272262,3 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+272262,5 Jan 2021,v Strikers,Adelaide,1,1,1,0,0,1
+272262,8 Jan 2021,v Strikers,Adelaide,1,0,0,0,0,0
+272262,14 Jan 2021,v Heat,Canberra,2,1,1,0,0,1
+272262,17 Jan 2021,v Stars,Melbourne,2,0,0,0,0,0
+272262,22 Feb 2021,v New Zealand,Christchurch,1,0,0,0,0,0
+272262,25 Feb 2021,v New Zealand,Dunedin,1,0,0,0,0,0
+272262,3 Mar 2021,v New Zealand,Wellington,2,2,2,0,0,2
+272262,5 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+272262,7 Mar 2021,v New Zealand,Wellington,2,0,0,0,0,0
+272262,22 Apr 2021,v RR,Wankhede,1,1,1,0,0,1
+272262,7 Dec 2021,v Strikers,Melbourne (Docklands),2,1,1,0,0,1
+272262,9 Dec 2021,v Strikers,Adelaide,1,0,0,0,0,0
+272262,13 Dec 2021,v Heat,Carrara,2,1,1,0,0,1
+272262,22 Dec 2021,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+272262,29 Dec 2021,v Hurricanes,Melbourne (Docklands),1,1,1,0,0,1
+272262,1 Jan 2022,v Sixers,Coffs Harbour,-,TDNF,-,-,-,-
+272262,3 Jan 2022,v Stars,Melbourne,1,0,0,0,0,0
+272262,6 Jan 2022,v Heat,Geelong,1,0,0,0,0,0
+272262,8 Jan 2022,v Thunder,Melbourne (Docklands),1,0,0,0,0,0
+272262,11 Jan 2022,v Sixers,Geelong,1,0,0,0,0,0
+272262,13 Jan 2022,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+272262,13 Feb 2022,v Sri Lanka,Sydney,2,0,0,0,0,0
+272262,15 Feb 2022,v Sri Lanka,Canberra,1,0,0,0,0,0
+272262,18 Feb 2022,v Sri Lanka,Melbourne,1,0,0,0,0,0
+272262,20 Feb 2022,v Sri Lanka,Melbourne,2,0,0,0,0,0
+272262,7 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+272262,8 Jun 2022,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+272262,11 Jun 2022,v Sri Lanka,Pallekele,2,0,0,0,0,0
+272262,6 Aug 2022,v Rockets,Nottingham,2,0,0,0,0,0
+272262,10 Aug 2022,v Brave,Birmingham,2,0,0,0,0,0
+272262,13 Aug 2022,v Fire,Cardiff,2,0,0,0,0,0
+272262,19 Aug 2022,v N S-Chargers,Birmingham,1,0,0,0,0,0
+272262,23 Aug 2022,v Invincibles,The Oval,2,2,2,0,0,2
+272262,28 Aug 2022,v Originals,Birmingham,1,0,0,0,0,0
+272262,30 Aug 2022,v Spirit,Lord's,1,0,0,0,0,0
+272262,9 Oct 2022,v England,Perth,1,2,2,0,0,2
+272262,4 Nov 2022,v Afghanistan,Adelaide,2,0,0,0,0,0
+272262,15 Dec 2022,v Heat,Cairns,2,1,1,0,0,1
+272262,18 Dec 2022,v Thunder,Melbourne (Docklands),1,1,1,0,0,1
+272262,21 Dec 2022,v Heat,Geelong,1,0,0,0,0,0
+272262,28 Dec 2022,v Sixers,Sydney,1,1,1,0,0,1
+272262,30 Dec 2022,v Sixers,Geelong,2,1,1,0,0,1
+272262,1 Jan 2023,v Scorchers,Melbourne (Docklands),2,0,0,0,0,0
+272262,3 Jan 2023,v Stars,Melbourne,2,0,0,0,0,0
+272262,7 Jan 2023,v Hurricanes,Melbourne (Docklands),1,2,2,0,0,2
+272262,10 Jan 2023,v Strikers,Adelaide,1,0,0,0,0,0
+272262,14 Jan 2023,v Stars,Melbourne (Docklands),2,0,0,0,0,0
+272262,19 Jan 2023,v Thunder,Canberra,2,0,0,0,0,0
+272262,24 Jan 2023,v Strikers,Melbourne (Docklands),1,0,0,0,0,0
+272262,24 May 2023,v Gloucs,Canterbury,1,1,1,0,0,1
+272262,26 May 2023,v Surrey,The Oval,1,0,0,0,0,0
+272262,4 Jun 2023,v Surrey,Canterbury,2,2,2,0,0,2
+272262,7 Jun 2023,v Essex,Canterbury,2,0,0,0,0,0
+272262,9 Jun 2023,v Hampshire,Canterbury,1,1,1,0,0,1
+272262,16 Jun 2023,v Middlesex,Lord's,2,0,0,0,0,0
+272262,17 Jun 2023,v Gloucs,Bristol,1,0,0,0,0,0
+272262,3 Aug 2023,v N S-Chargers,Leeds,-,TDNF,-,-,-,-
+272262,7 Aug 2023,v Originals,Manchester,1,0,0,0,0,0
+272262,10 Aug 2023,v Fire,Birmingham,2,0,0,0,0,0
+272262,13 Aug 2023,v Invincibles,Birmingham,2,0,0,0,0,0
+272262,16 Aug 2023,v Brave,Southampton,2,0,0,0,0,0
+272262,19 Aug 2023,v Rockets,Nottingham,1,1,1,0,0,1
+272262,24 Aug 2023,v Spirit,Birmingham,2,0,0,0,0,0
+272262,28 Nov 2023,v India,Guwahati,1,0,0,0,0,0
+272262,8 Dec 2023,v Sixers,Sydney,1,0,0,0,0,0
+272262,10 Dec 2023,v Scorchers,Geelong,1,0,0,0,0,0
+272262,21 Dec 2023,v Heat,Melbourne (Docklands),2,0,0,0,0,0
+272262,23 Dec 2023,v Hurricanes,Hobart,2,1,1,0,0,1
+272262,26 Dec 2023,v Scorchers,Perth,1,1,1,0,0,1
+272262,2 Jan 2024,v Stars,Melbourne,2,0,0,0,0,0
+272262,13 Jan 2024,v Stars,Melbourne (Docklands),1,1,1,0,0,1
+272262,22 Jan 2024,v Warriors,Dubai (DICS),2,0,0,0,0,0
+272262,25 Jan 2024,v KnightRiders,Dubai (DICS),1,0,0,0,0,0
+272262,27 Jan 2024,v Gulf Giants,Sharjah,2,0,0,0,0,0
+272262,6 Feb 2024,v Gulf Giants,Dubai (DICS),1,1,1,0,0,1
+272262,16 Dec 2024,v Sixers,Sydney,2,0,0,0,0,0
+272262,19 Dec 2024,v Hurricanes,Geelong,1,1,1,0,0,1
+272262,23 Dec 2024,v Scorchers,Melbourne (Docklands),1,0,0,0,0,0
+272262,30 Dec 2024,v Thunder,Sydney,1,0,0,0,0,0
+272262,2 Jan 2025,v Strikers,Melbourne (Docklands),2,0,0,0,0,0
+272262,7 Jan 2025,v Scorchers,Perth,1,0,0,0,0,0
+272262,12 Jan 2025,v Stars,Melbourne (Docklands),1,2,2,0,0,2
+272262,20 Dec 2025,v Thunder,Sydney,2,1,1,0,0,1
+272262,26 Dec 2025,v Stars,Sydney,2,0,0,0,0,0

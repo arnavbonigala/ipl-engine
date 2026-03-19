@@ -1,0 +1,190 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+559235,31 Mar 2014,v Vidarbha,Nagpur,2,0,0,0,0,0
+559235,1 Apr 2014,v Rajasthan,Nagpur,1,0,0,0,0,0
+559235,2 Apr 2014,v M. Pradesh,Nagpur,1,0,0,0,0,0
+559235,5 Apr 2014,v Railways,Nagpur,2,1,1,0,0,1
+559235,21 Sep 2014,v Lahore Lions,Hyderabad,1,0,0,0,0,0
+559235,24 Sep 2014,v Scorchers,Hyderabad,1,1,1,0,0,1
+559235,29 Sep 2014,v Dolphins,Hyderabad,2,0,0,0,0,0
+559235,2 Oct 2014,v Hurricanes,Hyderabad,1,0,0,0,0,0
+559235,4 Oct 2014,v CSK,Bengaluru,2,0,0,0,0,0
+559235,24 Mar 2015,v Vidarbha,Indore,2,0,0,0,0,0
+559235,25 Mar 2015,v Rajasthan,Indore,1,0,0,0,0,0
+559235,27 Mar 2015,v M. Pradesh,Indore,1,0,0,0,0,0
+559235,29 Mar 2015,v Railways,Indore,2,0,0,0,0,0
+559235,2 Jan 2016,v Maharashtra,Cuttack,1,0,0,0,0,0
+559235,3 Jan 2016,v Odisha,Cuttack,2,0,0,0,0,0
+559235,4 Jan 2016,v Karnataka,Cuttack,1,1,1,0,0,1
+559235,7 Jan 2016,v Mumbai,Cuttack,1,0,0,0,0,0
+559235,8 Jan 2016,v Services,Cuttack,2,0,0,0,0,0
+559235,16 Jan 2016,v Gujarat,Mumbai,1,1,1,0,0,1
+559235,18 Jan 2016,v Delhi,Mumbai,1,0,0,0,0,0
+559235,20 Jan 2016,v Baroda,Wankhede,2,1,1,0,0,1
+559235,13 Apr 2016,v MI,Eden Gardens,2,0,0,0,0,0
+559235,22 May 2016,v SRH,Eden Gardens,2,0,0,0,0,0
+559235,25 May 2016,v SRH,Delhi,1,1,1,0,0,1
+559235,29 Jan 2017,v Chhattisgarh,Jaipur,1,0,0,0,0,0
+559235,31 Jan 2017,v Rajasthan,Jaipur,1,0,0,0,0,0
+559235,2 Feb 2017,v Railways,Jaipur,1,0,0,0,0,0
+559235,7 Apr 2017,v Guj Lions,Rajkot,1,0,0,0,0,0
+559235,9 Apr 2017,v MI,Wankhede,2,0,0,0,0,0
+559235,15 Apr 2017,v SRH,Eden Gardens,2,0,0,0,0,0
+559235,17 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+559235,21 Apr 2017,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+559235,23 Apr 2017,v RCB,Eden Gardens,2,1,1,0,0,1
+559235,26 Apr 2017,v Supergiant,Pune,1,0,0,0,0,0
+559235,28 Apr 2017,v Daredevils,Eden Gardens,1,0,0,0,0,0
+559235,30 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+559235,3 May 2017,v Supergiant,Eden Gardens,2,0,0,0,0,0
+559235,9 May 2017,v Kings XI,Mohali,1,0,0,0,0,0
+559235,13 May 2017,v MI,Eden Gardens,1,0,0,0,0,0
+559235,9 Jul 2017,v West Indies,Kingston,2,0,0,0,0,0
+559235,6 Sep 2017,v Sri Lanka,Colombo (RPS),1,0,0,0,0,0
+559235,7 Oct 2017,v Australia,Ranchi,1,0,0,0,0,0
+559235,10 Oct 2017,v Australia,Guwahati,2,0,0,0,0,0
+559235,7 Nov 2017,v New Zealand,Thiruvananthapuram,2,0,0,0,0,0
+559235,20 Dec 2017,v Sri Lanka,Cuttack,2,0,0,0,0,0
+559235,22 Dec 2017,v Sri Lanka,Indore,2,0,0,0,0,0
+559235,24 Dec 2017,v Sri Lanka,Wankhede,1,1,1,0,0,1
+559235,9 Jan 2018,v Rajasthan,Raipur,2,0,0,0,0,0
+559235,10 Jan 2018,v M. Pradesh,Raipur,2,0,0,0,0,0
+559235,13 Jan 2018,v Railways,Raipur,1,0,0,0,0,0
+559235,15 Jan 2018,v Vidarbha,Raipur,2,1,1,0,0,1
+559235,16 Jan 2018,v Chhattisgarh,Raipur,1,0,0,0,0,0
+559235,22 Jan 2018,v Bengal,Eden Gardens,2,1,1,0,0,1
+559235,23 Jan 2018,v Tamil Nadu,Eden Gardens,2,0,0,0,0,0
+559235,8 Apr 2018,v RCB,Eden Gardens,1,1,1,0,0,1
+559235,10 Apr 2018,v CSK,Chennai,2,0,0,0,0,0
+559235,14 Apr 2018,v SRH,Eden Gardens,2,0,0,0,0,0
+559235,16 Apr 2018,v Daredevils,Eden Gardens,2,1,1,0,0,1
+559235,18 Apr 2018,v RR,Jaipur,1,1,1,0,0,1
+559235,21 Apr 2018,v Kings XI,Eden Gardens,2,0,0,0,0,0
+559235,27 Apr 2018,v Daredevils,Delhi,1,0,0,0,0,0
+559235,29 Apr 2018,v RCB,Bengaluru,1,0,0,0,0,0
+559235,3 May 2018,v CSK,Eden Gardens,1,0,0,0,0,0
+559235,6 May 2018,v MI,Wankhede,1,0,0,0,0,0
+559235,9 May 2018,v MI,Eden Gardens,1,0,0,0,0,0
+559235,12 May 2018,v Kings XI,Indore,2,1,1,0,0,1
+559235,15 May 2018,v RR,Eden Gardens,1,1,1,0,0,1
+559235,19 May 2018,v SRH,Hyderabad,1,0,0,0,0,0
+559235,23 May 2018,v RR,Eden Gardens,2,1,1,0,0,1
+559235,25 May 2018,v SRH,Eden Gardens,1,0,0,0,0,0
+559235,27 Jun 2018,v Ireland,Dublin (Malahide),2,1,1,0,0,1
+559235,29 Jun 2018,v Ireland,Dublin (Malahide),2,1,1,0,0,1
+559235,3 Jul 2018,v England,Manchester,1,0,0,0,0,0
+559235,6 Jul 2018,v England,Cardiff,2,1,1,0,0,1
+559235,4 Nov 2018,v West Indies,Eden Gardens,1,0,0,0,0,0
+559235,6 Nov 2018,v West Indies,Lucknow,2,0,0,0,0,0
+559235,21 Nov 2018,v Australia,Brisbane,1,2,2,0,0,2
+559235,23 Nov 2018,v Australia,Melbourne,1,0,0,0,0,0
+559235,25 Nov 2018,v Australia,Sydney,1,0,0,0,0,0
+559235,10 Feb 2019,v New Zealand,Hamilton,1,1,1,0,0,1
+559235,24 Mar 2019,v SRH,Eden Gardens,1,0,0,0,0,0
+559235,27 Mar 2019,v Kings XI,Eden Gardens,2,1,1,0,0,1
+559235,30 Mar 2019,v DC,Delhi,2,0,0,0,0,0
+559235,5 Apr 2019,v RCB,Bengaluru,1,1,1,0,0,1
+559235,7 Apr 2019,v RR,Jaipur,1,0,0,0,0,0
+559235,9 Apr 2019,v CSK,Chennai,2,0,0,0,0,0
+559235,12 Apr 2019,v DC,Eden Gardens,2,1,1,0,0,1
+559235,14 Apr 2019,v CSK,Eden Gardens,2,0,0,0,0,0
+559235,19 Apr 2019,v RCB,Eden Gardens,1,0,0,0,0,0
+559235,9 Nov 2019,v Vidarbha,Thiruvananthapuram,2,0,0,0,0,0
+559235,11 Nov 2019,v Tamil Nadu,Thiruvananthapuram,1,0,0,0,0,0
+559235,11 Dec 2019,v West Indies,Wankhede,2,0,0,0,0,0
+559235,5 Jan 2020,v Sri Lanka,Guwahati,-,TDNF,-,-,-,-
+559235,7 Jan 2020,v Sri Lanka,Indore,1,1,1,0,0,1
+559235,23 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+559235,26 Sep 2020,v SRH,Abu Dhabi,1,0,0,0,0,0
+559235,30 Sep 2020,v RR,Dubai (DICS),2,0,0,0,0,0
+559235,18 Oct 2020,v SRH,Abu Dhabi,2,0,0,0,0,0
+559235,21 Oct 2020,v RCB,Abu Dhabi,2,0,0,0,0,0
+559235,28 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+559235,29 Jul 2021,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+559235,27 Feb 2022,v Sri Lanka,Dharamsala,1,0,0,0,0,0
+559235,27 Mar 2022,v MI,Brabourne,1,0,0,0,0,0
+559235,2 Apr 2022,v GT,Pune,1,0,0,0,0,0
+559235,7 Apr 2022,v LSG,DY Patil,2,1,1,0,0,1
+559235,10 Apr 2022,v KKR,Brabourne,2,1,1,0,0,1
+559235,16 Apr 2022,v RCB,Wankhede,1,1,1,0,0,1
+559235,20 Apr 2022,v Punjab Kings,Brabourne,1,0,0,0,0,0
+559235,22 Apr 2022,v RR,Wankhede,1,0,0,0,0,0
+559235,28 Apr 2022,v KKR,Wankhede,1,0,0,0,0,0
+559235,1 May 2022,v LSG,Wankhede,1,0,0,0,0,0
+559235,5 May 2022,v SRH,Brabourne,2,2,2,0,0,2
+559235,8 May 2022,v CSK,DY Patil,1,0,0,0,0,0
+559235,11 May 2022,v RR,DY Patil,1,0,0,0,0,0
+559235,16 May 2022,v Punjab Kings,DY Patil,2,0,0,0,0,0
+559235,21 May 2022,v MI,Wankhede,2,0,0,0,0,0
+559235,7 Aug 2022,v West Indies,Lauderhill,2,0,0,0,0,0
+559235,14 Oct 2022,v Delhi,Jaipur,1,1,1,0,0,1
+559235,18 Oct 2022,v Goa,Jaipur,1,0,0,0,0,0
+559235,20 Oct 2022,v Hyderabad,Jaipur,1,0,0,0,0,0
+559235,22 Oct 2022,v Punjab,Jaipur,2,0,0,0,0,0
+559235,27 Jan 2023,v New Zealand,Ranchi,1,0,0,0,0,0
+559235,29 Jan 2023,v New Zealand,Lucknow,1,0,0,0,0,0
+559235,1 Feb 2023,v New Zealand,Ahmedabad,2,0,0,0,0,0
+559235,1 Apr 2023,v LSG,Lucknow,1,0,0,0,0,0
+559235,4 Apr 2023,v GT,Delhi,2,0,0,0,0,0
+559235,8 Apr 2023,v RR,Guwahati,1,0,0,0,0,0
+559235,11 Apr 2023,v MI,Delhi,2,1,1,0,0,1
+559235,15 Apr 2023,v RCB,Bengaluru,1,0,0,0,0,0
+559235,20 Apr 2023,v KKR,Delhi,1,0,0,0,0,0
+559235,24 Apr 2023,v SRH,Hyderabad,2,1,1,0,0,1
+559235,29 Apr 2023,v SRH,Delhi,1,0,0,0,0,0
+559235,2 May 2023,v GT,Ahmedabad,2,0,0,0,0,0
+559235,6 May 2023,v RCB,Delhi,1,0,0,0,0,0
+559235,10 May 2023,v CSK,Chennai,1,0,0,0,0,0
+559235,13 May 2023,v Punjab Kings,Delhi,1,0,0,0,0,0
+559235,17 May 2023,v Punjab Kings,Dharamsala,2,0,0,0,0,0
+559235,20 May 2023,v CSK,Delhi,1,0,0,0,0,0
+559235,3 Aug 2023,v West Indies,Tarouba,1,0,0,0,0,0
+559235,8 Aug 2023,v West Indies,Providence,1,1,1,0,0,1
+559235,12 Aug 2023,v West Indies,Lauderhill,1,1,1,0,0,1
+559235,13 Aug 2023,v West Indies,Lauderhill,2,0,0,0,0,0
+559235,12 Dec 2023,v South Africa,Gqeberha,2,0,0,0,0,0
+559235,14 Dec 2023,v South Africa,Johannesburg,2,0,0,0,0,0
+559235,17 Jan 2024,v Afghanistan,Bengaluru,2,0,0,0,0,0
+559235,23 Mar 2024,v Punjab Kings,New Chandigarh,2,0,0,0,0,0
+559235,28 Mar 2024,v RR,Jaipur,1,0,0,0,0,0
+559235,12 Apr 2024,v LSG,Lucknow,1,0,0,0,0,0
+559235,17 Apr 2024,v GT,Ahmedabad,1,0,0,0,0,0
+559235,20 Apr 2024,v SRH,Delhi,1,0,0,0,0,0
+559235,24 Apr 2024,v GT,Delhi,2,0,0,0,0,0
+559235,27 Apr 2024,v MI,Delhi,2,0,0,0,0,0
+559235,29 Apr 2024,v KKR,Eden Gardens,2,1,1,0,0,1
+559235,7 May 2024,v RR,Delhi,2,0,0,0,0,0
+559235,12 May 2024,v RCB,Bengaluru,1,1,1,0,0,1
+559235,14 May 2024,v LSG,Delhi,2,0,0,0,0,0
+559235,20 Jun 2024,v Afghanistan,Bridgetown,2,0,0,0,0,0
+559235,22 Jun 2024,v Bangladesh,North Sound,2,0,0,0,0,0
+559235,24 Jun 2024,v Australia,Gros Islet,2,1,1,0,0,1
+559235,27 Jun 2024,v England,Providence,2,0,0,0,0,0
+559235,29 Jun 2024,v South Africa,Bridgetown,2,1,1,0,0,1
+559235,24 Mar 2025,v LSG,Visakhapatnam,1,0,0,0,0,0
+559235,30 Mar 2025,v SRH,Visakhapatnam,1,0,0,0,0,0
+559235,5 Apr 2025,v CSK,Chennai,2,0,0,0,0,0
+559235,10 Apr 2025,v RCB,Bengaluru,1,0,0,0,0,0
+559235,13 Apr 2025,v MI,Delhi,1,0,0,0,0,0
+559235,16 Apr 2025,v RR,Delhi,2,0,0,0,0,0
+559235,19 Apr 2025,v GT,Ahmedabad,2,0,0,0,0,0
+559235,22 Apr 2025,v LSG,Lucknow,1,0,0,0,0,0
+559235,27 Apr 2025,v RCB,Delhi,2,0,0,0,0,0
+559235,29 Apr 2025,v KKR,Delhi,1,0,0,0,0,0
+559235,5 May 2025,v SRH,Hyderabad,-,TDNF,-,-,-,-
+559235,18 May 2025,v GT,Delhi,2,0,0,0,0,0
+559235,21 May 2025,v MI,Wankhede,1,0,0,0,0,0
+559235,24 May 2025,v Punjab Kings,Jaipur,1,0,0,0,0,0
+559235,10 Sep 2025,v U.A.E.,Dubai (DICS),1,1,1,0,0,1
+559235,14 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+559235,19 Sep 2025,v Oman,Abu Dhabi,2,0,0,0,0,0
+559235,21 Sep 2025,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+559235,24 Sep 2025,v Bangladesh,Dubai (DICS),2,0,0,0,0,0
+559235,26 Sep 2025,v Sri Lanka,Dubai (DICS),2,0,0,0,0,0
+559235,28 Sep 2025,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+559235,29 Oct 2025,v Australia,Canberra,-,TDNF,-,-,-,-
+559235,31 Oct 2025,v Australia,Melbourne,2,0,0,0,0,0
+559235,14 Dec 2025,v South Africa,Dharamsala,1,0,0,0,0,0
+559235,23 Jan 2026,v New Zealand,Raipur,1,0,0,0,0,0
+559235,25 Jan 2026,v New Zealand,Guwahati,1,0,0,0,0,0
+559235,28 Jan 2026,v New Zealand,Visakhapatnam,1,0,0,0,0,0
+559235,15 Feb 2026,v Pakistan,Colombo (RPS),2,0,0,0,0,0

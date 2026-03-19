@@ -1,0 +1,147 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+26907,3 Apr 2007,v Himachal,Delhi,2,0,0,0,0,0
+26907,6 Apr 2007,v Punjab,Delhi,1,0,0,0,0,0
+26907,7 Apr 2007,v Haryana,Delhi,2,0,0,0,0,0
+26907,19 Apr 2008,v RR,Delhi,1,0,0,0,0,0
+26907,22 Apr 2008,v Chargers,Hyderabad,1,0,0,0,0,0
+26907,27 Apr 2008,v Kings XI,Mohali,2,0,0,0,0,0
+26907,30 Apr 2008,v RCB,Delhi,2,0,0,0,0,0
+26907,2 May 2008,v CSK,Chennai,1,0,0,0,0,0
+26907,4 May 2008,v MI,DY Patil,1,0,0,0,0,0
+26907,15 May 2008,v Chargers,Delhi,2,0,0,0,0,0
+26907,17 May 2008,v Kings XI,Delhi,2,0,0,0,0,0
+26907,19 May 2008,v RCB,Bengaluru,1,1,1,0,0,1
+26907,2 May 2009,v CSK,Johannesburg,1,1,1,0,0,1
+26907,5 May 2009,v KKR,Durban,1,0,0,0,0,0
+26907,8 May 2009,v MI,East London,1,0,0,0,0,0
+26907,10 May 2009,v KKR,Johannesburg,1,2,2,0,0,2
+26907,13 May 2009,v Chargers,Durban,2,1,1,0,0,1
+26907,15 May 2009,v Kings XI,Bloemfontein,2,0,0,0,0,0
+26907,21 May 2009,v MI,Centurion,1,0,0,0,0,0
+26907,22 May 2009,v Chargers,Centurion,2,0,0,0,0,0
+26907,9 Oct 2009,v Victoria,Delhi,2,0,0,0,0,0
+26907,11 Oct 2009,v Wayamba,Delhi,2,0,0,0,0,0
+26907,17 Oct 2009,v RCB,Bengaluru,2,0,0,0,0,0
+26907,19 Oct 2009,v Cape Cobras,Delhi,2,0,0,0,0,0
+26907,20 Oct 2009,v J & K,Delhi,2,0,0,0,0,0
+26907,21 Oct 2009,v Punjab,Delhi,1,1,1,0,0,1
+26907,22 Oct 2009,v Himachal,Delhi,1,0,0,0,0,0
+26907,24 Oct 2009,v Haryana,Delhi,1,1,1,0,0,1
+26907,25 Oct 2009,v Services,Delhi,2,2,2,0,0,2
+26907,19 Mar 2010,v CSK,Delhi,2,0,0,0,0,0
+26907,29 Mar 2010,v KKR,Delhi,2,0,0,0,0,0
+26907,4 Apr 2010,v RCB,Delhi,2,0,0,0,0,0
+26907,7 Apr 2010,v KKR,Eden Gardens,1,0,0,0,0,0
+26907,11 Apr 2010,v Kings XI,Delhi,2,1,1,0,0,1
+26907,20 Oct 2010,v Himachal,Delhi,2,1,1,0,0,1
+26907,21 Oct 2010,v J & K,Delhi,2,0,0,0,0,0
+26907,22 Oct 2010,v Punjab,Delhi,1,0,0,0,0,0
+26907,24 Oct 2010,v Haryana,Delhi,1,0,0,0,0,0
+26907,25 Oct 2010,v Services,Delhi,1,0,0,0,0,0
+26907,13 Mar 2011,v Tamil Nadu,Hyderabad,2,0,0,0,0,0
+26907,8 Apr 2011,v CSK,Chennai,1,1,1,0,0,1
+26907,11 Apr 2011,v Chargers,Eden Gardens,2,0,0,0,0,0
+26907,15 Apr 2011,v RR,Jaipur,1,0,0,0,0,0
+26907,17 Apr 2011,v RR,Eden Gardens,1,1,1,0,0,1
+26907,20 Apr 2011,v Kochi,Eden Gardens,1,0,0,0,0,0
+26907,22 Apr 2011,v RCB,Eden Gardens,2,0,0,0,0,0
+26907,30 Apr 2011,v Kings XI,Eden Gardens,1,0,0,0,0,0
+26907,3 May 2011,v Chargers,Hyderabad,2,0,0,0,0,0
+26907,5 May 2011,v Kochi,Kochi,1,1,1,0,0,1
+26907,7 May 2011,v CSK,Eden Gardens,1,0,0,0,0,0
+26907,14 May 2011,v RCB,Bengaluru,2,1,1,0,0,1
+26907,19 May 2011,v Warriors,DY Patil,1,0,0,0,0,0
+26907,22 May 2011,v MI,Eden Gardens,2,0,0,0,0,0
+26907,25 May 2011,v MI,Wankhede,2,0,0,0,0,0
+26907,19 Sep 2011,v Auckland,Hyderabad,2,0,0,0,0,0
+26907,21 Sep 2011,v Somerset,Hyderabad,1,0,0,0,0,0
+26907,25 Sep 2011,v Somerset,Hyderabad,2,0,0,0,0,0
+26907,27 Sep 2011,v South Aust,Hyderabad,1,0,0,0,0,0
+26907,29 Sep 2011,v RCB,Bengaluru,1,0,0,0,0,0
+26907,1 Oct 2011,v Warriors,Bengaluru,1,0,0,0,0,0
+26907,20 Oct 2011,v Himachal,Rohtak,2,1,1,0,0,1
+26907,21 Oct 2011,v J & K,Rohtak,1,0,0,0,0,0
+26907,22 Oct 2011,v Punjab,Rohtak,2,1,1,0,0,1
+26907,24 Oct 2011,v Haryana,Rohtak,1,1,1,0,0,1
+26907,25 Oct 2011,v Services,Rohtak,2,0,0,0,0,0
+26907,24 Mar 2012,v Railways,Brabourne,2,0,0,0,0,0
+26907,26 Mar 2012,v Baroda,Mumbai,2,0,0,0,0,0
+26907,5 Apr 2012,v Daredevils,Eden Gardens,2,0,0,0,0,0
+26907,8 Apr 2012,v RR,Jaipur,1,0,0,0,0,0
+26907,10 Apr 2012,v RCB,Bengaluru,2,0,0,0,0,0
+26907,13 Apr 2012,v RR,Eden Gardens,1,0,0,0,0,0
+26907,15 Apr 2012,v Kings XI,Eden Gardens,1,0,0,0,0,0
+26907,18 Apr 2012,v Kings XI,Mohali,1,1,1,0,0,1
+26907,22 Apr 2012,v Chargers,Cuttack,1,0,0,0,0,0
+26907,28 Apr 2012,v RCB,Eden Gardens,2,1,1,0,0,1
+26907,30 Apr 2012,v CSK,Chennai,1,0,0,0,0,0
+26907,5 May 2012,v Warriors,Eden Gardens,2,0,0,0,0,0
+26907,7 May 2012,v Daredevils,Delhi,1,1,1,0,0,1
+26907,12 May 2012,v MI,Eden Gardens,1,0,0,0,0,0
+26907,14 May 2012,v CSK,Eden Gardens,2,1,1,0,0,1
+26907,16 May 2012,v MI,Wankhede,2,0,0,0,0,0
+26907,19 May 2012,v Warriors,Pune,2,0,0,0,0,0
+26907,22 May 2012,v Daredevils,Pune,2,2,2,0,0,2
+26907,27 May 2012,v CSK,Chennai,1,0,0,0,0,0
+26907,13 Oct 2012,v Daredevils,Centurion,1,1,1,0,0,1
+26907,15 Oct 2012,v Auckland,Cape Town,2,0,0,0,0,0
+26907,18 Mar 2013,v Punjab,Gurgaon,1,0,0,0,0,0
+26907,19 Mar 2013,v Himachal,Rohtak,1,0,0,0,0,0
+26907,20 Mar 2013,v J & K,Gurgaon,2,0,0,0,0,0
+26907,3 Apr 2013,v Daredevils,Eden Gardens,1,0,0,0,0,0
+26907,8 Apr 2013,v RR,Jaipur,1,0,0,0,0,0
+26907,11 Apr 2013,v RCB,Bengaluru,2,0,0,0,0,0
+26907,14 Apr 2013,v SRH,Eden Gardens,2,0,0,0,0,0
+26907,16 Apr 2013,v Kings XI,Mohali,1,0,0,0,0,0
+26907,20 Apr 2013,v CSK,Eden Gardens,2,0,0,0,0,0
+26907,24 Apr 2013,v MI,Eden Gardens,2,0,0,0,0,0
+26907,26 Apr 2013,v Kings XI,Eden Gardens,1,0,0,0,0,0
+26907,28 Apr 2013,v CSK,Chennai,1,0,0,0,0,0
+26907,1 May 2013,v Daredevils,Raipur,2,0,0,0,0,0
+26907,3 May 2013,v RR,Eden Gardens,1,0,0,0,0,0
+26907,7 May 2013,v MI,Wankhede,1,0,0,0,0,0
+26907,9 May 2013,v Warriors,Pune,2,0,0,0,0,0
+26907,12 May 2013,v RCB,Ranchi,1,0,0,0,0,0
+26907,15 May 2013,v Warriors,Ranchi,1,0,0,0,0,0
+26907,1 Apr 2014,v Himachal,Mohali,1,2,2,0,0,2
+26907,2 Apr 2014,v J & K,Chandigarh,1,0,0,0,0,0
+26907,3 Apr 2014,v Punjab,Mohali,1,0,0,0,0,0
+26907,5 Apr 2014,v Services,Chandigarh,1,2,2,0,0,2
+26907,18 Apr 2014,v SRH,Abu Dhabi,1,0,0,0,0,0
+26907,20 Apr 2014,v Kings XI,Sharjah,2,0,0,0,0,0
+26907,23 Apr 2014,v CSK,Dubai (DICS),1,0,0,0,0,0
+26907,26 Apr 2014,v RCB,Abu Dhabi,1,0,0,0,0,0
+26907,29 Apr 2014,v KKR,Abu Dhabi,2,0,0,0,0,0
+26907,3 May 2014,v Daredevils,Delhi,1,1,1,0,0,1
+26907,5 May 2014,v KKR,Ahmedabad,2,1,1,0,0,1
+26907,8 May 2014,v SRH,Ahmedabad,1,0,0,0,0,0
+26907,11 May 2014,v RCB,Bengaluru,1,1,1,0,0,1
+26907,13 May 2014,v CSK,Ranchi,2,1,1,0,0,1
+26907,15 May 2014,v Daredevils,Ahmedabad,2,1,1,0,0,1
+26907,19 May 2014,v MI,Ahmedabad,1,0,0,0,0,0
+26907,3 May 2015,v Daredevils,Brabourne,2,0,0,0,0,0
+26907,10 May 2015,v CSK,Chennai,1,0,0,0,0,0
+26907,2 Jan 2016,v Punjab,Kochi,1,0,0,0,0,0
+26907,3 Jan 2016,v Kerala,Kochi,1,1,1,0,0,1
+26907,4 Jan 2016,v Jharkhand,Kochi,2,0,0,0,0,0
+26907,7 Jan 2016,v Saurashtra,Kochi,1,1,1,0,0,1
+26907,9 Jan 2016,v Tripura,Kochi,2,2,2,0,0,2
+26907,9 Apr 2016,v MI,Wankhede,1,0,0,0,0,0
+26907,14 Apr 2016,v Guj Lions,Rajkot,2,0,0,0,0,0
+26907,22 Apr 2016,v RCB,Pune,1,0,0,0,0,0
+26907,24 Apr 2016,v KKR,Pune,2,0,0,0,0,0
+26907,26 Apr 2016,v SRH,Hyderabad,1,0,0,0,0,0
+26907,29 Apr 2016,v Guj Lions,Pune,2,0,0,0,0,0
+26907,1 May 2016,v MI,Pune,2,0,0,0,0,0
+26907,5 May 2016,v Daredevils,Delhi,1,0,0,0,0,0
+26907,7 May 2016,v RCB,Bengaluru,2,0,0,0,0,0
+26907,10 May 2016,v SRH,Visakhapatnam,1,2,2,0,0,2
+26907,6 Apr 2017,v MI,Pune,1,2,2,0,0,2
+26907,8 Apr 2017,v Kings XI,Indore,2,0,0,0,0,0
+26907,11 Apr 2017,v Daredevils,Pune,1,0,0,0,0,0
+26907,21 Feb 2019,v Services,Delhi,1,0,0,0,0,0
+26907,22 Feb 2019,v Baroda,Delhi,1,0,0,0,0,0
+26907,24 Feb 2019,v Puducherry,Delhi,2,0,0,0,0,0
+26907,25 Feb 2019,v Tripura,Delhi,2,2,2,0,0,2
+26907,27 Feb 2019,v Maharashtra,Delhi,2,0,0,0,0,0
+26907,28 Feb 2019,v UP,Delhi,1,2,2,0,0,2

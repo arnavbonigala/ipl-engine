@@ -1,0 +1,161 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+261354,29 Dec 2009,v South Aust,W.A.C.A,1,1,1,0,0,1
+261354,1 Jan 2010,v Tasmania,Hobart,1,0,0,0,0,0
+261354,5 Jan 2010,v NSW,W.A.C.A,2,1,1,0,0,1
+261354,10 Jan 2010,v Victoria,W.A.C.A,2,1,1,0,0,1
+261354,16 Jan 2010,v Queensland,Brisbane,1,0,0,0,0,0
+261354,30 Dec 2010,v Tasmania,W.A.C.A,1,0,0,0,0,0
+261354,29 Dec 2011,v Heat,W.A.C.A,2,0,0,0,0,0
+261354,4 Jan 2012,v Stars,Melbourne,2,0,0,0,0,0
+261354,8 Jan 2012,v Strikers,W.A.C.A,2,0,0,0,0,0
+261354,11 Jan 2012,v Thunder,Sydney,1,0,0,0,0,0
+261354,18 Jan 2012,v Sixers,Sydney,1,0,0,0,0,0
+261354,21 Jan 2012,v Stars,W.A.C.A,2,0,0,0,0,0
+261354,28 Jan 2012,v Sixers,W.A.C.A,2,0,0,0,0,0
+261354,17 Oct 2012,v KKR,Durban,-,TDNF,-,-,-,-
+261354,21 Oct 2012,v Daredevils,Cape Town,2,0,0,0,0,0
+261354,23 Oct 2012,v Auckland,Centurion,2,0,0,0,0,0
+261354,9 Dec 2012,v Strikers,W.A.C.A,2,1,1,0,0,1
+261354,12 Dec 2012,v Stars,W.A.C.A,2,0,0,0,0,0
+261354,16 Dec 2012,v Sixers,Sydney,1,0,0,0,0,0
+261354,18 Dec 2012,v Heat,Brisbane,1,0,0,0,0,0
+261354,29 Dec 2012,v Renegades,W.A.C.A,2,0,0,0,0,0
+261354,1 Jan 2013,v Hurricanes,Hobart,2,0,0,0,0,0
+261354,4 Jan 2013,v Thunder,W.A.C.A,1,0,0,0,0,0
+261354,10 Jan 2013,v Strikers,Adelaide,2,1,1,0,0,1
+261354,16 Jan 2013,v Stars,W.A.C.A,1,0,0,0,0,0
+261354,19 Jan 2013,v Heat,W.A.C.A,1,2,2,0,0,2
+261354,13 Feb 2013,v West Indies,Brisbane,1,1,1,0,0,1
+261354,18 May 2013,v Kings XI,Dharamsala,1,1,1,0,0,1
+261354,31 Aug 2013,v England,Chester-le-Street,1,1,1,0,0,1
+261354,21 Sep 2013,v RR,Jaipur,2,0,0,0,0,0
+261354,27 Sep 2013,v Lions,Jaipur,1,0,0,0,0,0
+261354,2 Oct 2013,v Scorchers,Delhi,1,0,0,0,0,0
+261354,5 Oct 2013,v Trinidad & T,Delhi,1,0,0,0,0,0
+261354,6 Oct 2013,v RR,Delhi,2,0,0,0,0,0
+261354,10 Oct 2013,v India,Rajkot,2,0,0,0,0,0
+261354,22 Dec 2013,v Heat,Brisbane,2,0,0,0,0,0
+261354,31 Dec 2013,v Strikers,Adelaide,2,0,0,0,0,0
+261354,7 Jan 2014,v Hurricanes,W.A.C.A,2,0,0,0,0,0
+261354,29 Jan 2014,v England,Hobart,2,0,0,0,0,0
+261354,31 Jan 2014,v England,Melbourne,1,1,1,0,0,1
+261354,2 Feb 2014,v England,Sydney,2,0,0,0,0,0
+261354,5 Feb 2014,v Sixers,Sydney,2,0,0,0,0,0
+261354,7 Feb 2014,v Hurricanes,W.A.C.A,2,0,0,0,0,0
+261354,12 Mar 2014,v South Africa,Durban,1,1,1,0,0,1
+261354,14 Mar 2014,v South Africa,Centurion,1,0,0,0,0,0
+261354,23 Mar 2014,v Pakistan,Mirpur,1,0,0,0,0,0
+261354,1 Apr 2014,v Bangladesh,Mirpur,1,0,0,0,0,0
+261354,19 Apr 2014,v KKR,Dubai (DICS),1,0,0,0,0,0
+261354,21 Apr 2014,v CSK,Abu Dhabi,1,0,0,0,0,0
+261354,24 Sep 2014,v KKR,Hyderabad,2,0,0,0,0,0
+261354,27 Sep 2014,v CSK,Bengaluru,1,0,0,0,0,0
+261354,25 Jan 2015,v Stars,W.A.C.A,2,1,1,0,0,1
+261354,28 Jan 2015,v Sixers,Canberra,1,0,0,0,0,0
+261354,9 Apr 2015,v CSK,Chennai,1,1,1,0,0,1
+261354,12 Apr 2015,v RR,Delhi,2,0,0,0,0,0
+261354,15 Apr 2015,v Kings XI,Pune,1,1,1,0,0,1
+261354,18 Apr 2015,v SRH,Visakhapatnam,2,0,0,0,0,0
+261354,20 Apr 2015,v KKR,Delhi,2,0,0,0,0,0
+261354,23 Apr 2015,v MI,Delhi,2,2,2,0,0,2
+261354,26 Apr 2015,v RCB,Delhi,2,0,0,0,0,0
+261354,1 May 2015,v Kings XI,Delhi,1,0,0,0,0,0
+261354,3 May 2015,v RR,Brabourne,1,0,0,0,0,0
+261354,5 May 2015,v MI,Wankhede,2,0,0,0,0,0
+261354,9 May 2015,v SRH,Raipur,1,1,1,0,0,1
+261354,31 Aug 2015,v England,Cardiff,1,1,1,0,0,1
+261354,21 Dec 2015,v Strikers,W.A.C.A,2,0,0,0,0,0
+261354,4 Mar 2016,v South Africa,Durban,2,1,1,0,0,1
+261354,9 Mar 2016,v South Africa,Cape Town,1,0,0,0,0,0
+261354,18 Mar 2016,v New Zealand,Dharamsala,1,0,0,0,0,0
+261354,21 Mar 2016,v Bangladesh,Bengaluru,1,1,1,0,0,1
+261354,25 Mar 2016,v Pakistan,Mohali,2,2,2,0,0,2
+261354,27 Mar 2016,v India,Mohali,2,0,0,0,0,0
+261354,10 Apr 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+261354,12 May 2016,v SRH,Hyderabad,1,0,0,0,0,0
+261354,17 May 2016,v Supergiants,Visakhapatnam,2,0,0,0,0,0
+261354,20 May 2016,v SRH,Raipur,1,0,0,0,0,0
+261354,17 Apr 2017,v Daredevils,Delhi,1,0,0,0,0,0
+261354,21 Apr 2017,v Guj Lions,Eden Gardens,2,0,0,0,0,0
+261354,23 Apr 2017,v RCB,Eden Gardens,2,1,1,0,0,1
+261354,28 Apr 2017,v Daredevils,Eden Gardens,1,0,0,0,0,0
+261354,30 Apr 2017,v SRH,Hyderabad,1,0,0,0,0,0
+261354,3 May 2017,v Supergiant,Eden Gardens,2,0,0,0,0,0
+261354,17 May 2017,v SRH,Bengaluru,1,1,1,0,0,1
+261354,19 May 2017,v MI,Bengaluru,2,0,0,0,0,0
+261354,7 Oct 2017,v India,Ranchi,2,0,0,0,0,0
+261354,10 Oct 2017,v India,Guwahati,1,0,0,0,0,0
+261354,22 Oct 2018,v U.A.E.,Abu Dhabi,1,0,0,0,0,0
+261354,24 Oct 2018,v Pakistan,Abu Dhabi,1,1,1,0,0,1
+261354,26 Oct 2018,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+261354,28 Oct 2018,v Pakistan,Dubai (DICS),1,1,1,0,0,1
+261354,17 Nov 2018,v South Africa,Carrara,1,0,0,0,0,0
+261354,23 Nov 2018,v India,Melbourne,-,TDNF,-,-,-,-
+261354,25 Nov 2018,v India,Sydney,2,1,1,0,0,1
+261354,20 Dec 2018,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+261354,22 Dec 2018,v Sixers,Sydney,1,0,0,0,0,0
+261354,26 Dec 2018,v Strikers,Perth,1,2,2,0,0,2
+261354,30 Dec 2018,v Hurricanes,Launceston,2,0,0,0,0,0
+261354,2 Jan 2019,v Thunder,Sydney,1,0,0,0,0,0
+261354,5 Jan 2019,v Heat,Perth,2,0,0,0,0,0
+261354,9 Jan 2019,v Stars,Melbourne,1,2,2,0,0,2
+261354,13 Jan 2019,v Sixers,Perth,1,0,0,0,0,0
+261354,18 Jan 2019,v Hurricanes,Perth,2,0,0,0,0,0
+261354,24 Jan 2019,v Thunder,Perth,2,0,0,0,0,0
+261354,28 Jan 2019,v Renegades,Perth,1,1,1,0,0,1
+261354,3 Feb 2019,v Stars,Perth,2,1,1,0,0,1
+261354,9 Feb 2019,v Strikers,Adelaide,2,0,0,0,0,0
+261354,24 Feb 2019,v India,Visakhapatnam,1,1,1,0,0,1
+261354,27 Feb 2019,v India,Bengaluru,1,0,0,0,0,0
+261354,27 Dec 2019,v Strikers,Carrara,1,0,0,0,0,0
+261354,30 Dec 2019,v Hurricanes,Launceston,1,0,0,0,0,0
+261354,2 Jan 2020,v Thunder,Sydney,1,0,0,0,0,0
+261354,4 Jan 2020,v Renegades,Melbourne,1,1,1,0,0,1
+261354,8 Jan 2020,v Thunder,Melbourne,1,1,1,0,0,1
+261354,10 Jan 2020,v Renegades,Melbourne (Docklands),1,0,0,0,0,0
+261354,15 Jan 2020,v Scorchers,Perth,1,0,0,0,0,0
+261354,18 Jan 2020,v Scorchers,Melbourne,2,0,0,0,0,0
+261354,25 Jan 2020,v Heat,Melbourne,1,0,0,0,0,0
+261354,31 Jan 2020,v Sixers,Melbourne,1,0,0,0,0,0
+261354,6 Feb 2020,v Thunder,Melbourne,2,0,0,0,0,0
+261354,8 Feb 2020,v Sixers,Sydney,1,1,1,0,0,1
+261354,16 Oct 2020,v KKR,Abu Dhabi,1,0,0,0,0,0
+261354,18 Oct 2020,v Kings XI,Dubai (DICS),2,1,1,0,0,1
+261354,23 Oct 2020,v CSK,Sharjah,1,0,0,0,0,0
+261354,31 Oct 2020,v DC,Dubai (DICS),1,0,0,0,0,0
+261354,3 Nov 2020,v SRH,Sharjah,2,0,0,0,0,0
+261354,5 Nov 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+261354,10 Nov 2020,v DC,Dubai (DICS),1,1,1,0,0,1
+261354,11 Dec 2020,v Heat,Canberra,1,0,0,0,0,0
+261354,16 Dec 2020,v Scorchers,Launceston,1,1,1,0,0,1
+261354,26 Dec 2020,v Sixers,Carrara,2,0,0,0,0,0
+261354,20 Jan 2021,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+261354,23 Jan 2021,v Scorchers,Melbourne,1,0,0,0,0,0
+261354,26 Jan 2021,v Sixers,Melbourne,2,1,1,0,0,1
+261354,29 Apr 2021,v RR,Delhi,1,0,0,0,0,0
+261354,28 Sep 2021,v Punjab Kings,Abu Dhabi,1,0,0,0,0,0
+261354,2 Oct 2021,v DC,Sharjah,2,0,0,0,0,0
+261354,5 Oct 2021,v RR,Sharjah,1,0,0,0,0,0
+261354,8 Oct 2021,v SRH,Abu Dhabi,2,2,2,0,0,2
+261354,10 Dec 2021,v Thunder,Melbourne,2,0,0,0,0,0
+261354,12 Dec 2021,v Thunder,Sydney,1,1,1,0,0,1
+261354,15 Dec 2021,v Sixers,Melbourne,2,0,0,0,0,0
+261354,24 Dec 2021,v Hurricanes,Hobart,1,0,0,0,0,0
+261354,27 Dec 2021,v Heat,Brisbane,2,0,0,0,0,0
+261354,16 Jan 2022,v Heat,Melbourne,1,1,1,0,0,1
+261354,19 Jan 2022,v Hurricanes,Melbourne,2,0,0,0,0,0
+261354,29 Mar 2022,v SRH,Pune,2,0,0,0,0,0
+261354,13 Dec 2022,v Thunder,Canberra,2,1,1,0,0,1
+261354,16 Dec 2022,v Hurricanes,Melbourne,2,0,0,0,0,0
+261354,23 Dec 2022,v Scorchers,Melbourne,1,0,0,0,0,0
+261354,29 Dec 2022,v Scorchers,Perth,2,0,0,0,0,0
+261354,3 Jan 2023,v Renegades,Melbourne,1,2,2,0,0,2
+261354,6 Jan 2023,v Sixers,Melbourne,2,0,0,0,0,0
+261354,9 Jan 2023,v Hurricanes,Hobart,2,0,0,0,0,0
+261354,12 Jan 2023,v Strikers,Melbourne,1,1,1,0,0,1
+261354,16 Jan 2023,v Heat,Melbourne,2,0,0,0,0,0
+261354,22 Jan 2023,v Heat,Brisbane,1,1,1,0,0,1
+261354,25 Jan 2023,v Thunder,Melbourne,2,0,0,0,0,0
+261354,7 Dec 2023,v Heat,Brisbane,1,0,0,0,0,0
+261354,13 Jan 2024,v Renegades,Melbourne (Docklands),2,0,0,0,0,0
+261354,15 Jan 2024,v Hurricanes,Melbourne,1,0,0,0,0,0

@@ -1,0 +1,151 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+31872,3 Apr 2007,v Orissa,Eden Gardens,1,0,0,0,0,0
+31872,4 Apr 2007,v Bengal,Eden Gardens,1,1,1,0,0,1
+31872,5 Apr 2007,v Assam,Eden Gardens,1,0,0,0,0,0
+31872,7 Apr 2007,v Tripura,Eden Gardens,2,1,1,0,0,1
+31872,20 Oct 2009,v Tripura,Dhanbad,1,0,0,0,0,0
+31872,22 Oct 2009,v Bengal,Dhanbad,1,0,0,0,0,0
+31872,23 Oct 2009,v Assam,Dhanbad,1,0,0,0,0,0
+31872,24 Oct 2009,v Orissa,Dhanbad,1,1,1,0,0,1
+31872,12 Mar 2010,v Himachal,Indore,1,0,0,0,0,0
+31872,21 Oct 2010,v Tripura,Cuttack,2,0,0,0,0,0
+31872,22 Oct 2010,v Bengal,Cuttack,1,0,0,0,0,0
+31872,23 Oct 2010,v Orissa,Cuttack,2,0,0,0,0,0
+31872,24 Oct 2010,v Assam,Cuttack,2,0,0,0,0,0
+31872,12 Apr 2011,v RR,Jaipur,2,0,0,0,0,0
+31872,17 Apr 2011,v Warriors,DY Patil,1,0,0,0,0,0
+31872,19 Apr 2011,v Chargers,Delhi,1,0,0,0,0,0
+31872,7 May 2011,v MI,Wankhede,1,0,0,0,0,0
+31872,12 May 2011,v CSK,Chennai,1,0,0,0,0,0
+31872,23 Oct 2011,v Orissa,Jamshedpur,1,0,0,0,0,0
+31872,24 Oct 2011,v Assam,Jamshedpur,1,0,0,0,0,0
+31872,5 Apr 2012,v KKR,Eden Gardens,1,0,0,0,0,0
+31872,7 Apr 2012,v RCB,Bengaluru,1,0,0,0,0,0
+31872,10 Apr 2012,v CSK,Delhi,1,0,0,0,0,0
+31872,16 Apr 2012,v MI,Wankhede,1,0,0,0,0,0
+31872,19 Apr 2012,v Chargers,Delhi,1,1,1,0,0,1
+31872,21 Apr 2012,v Warriors,Delhi,1,0,0,0,0,0
+31872,24 Apr 2012,v Warriors,Pune,1,1,1,0,0,1
+31872,27 Apr 2012,v MI,Delhi,2,0,0,0,0,0
+31872,29 Apr 2012,v RR,Delhi,2,0,0,0,0,0
+31872,1 May 2012,v RR,Jaipur,1,0,0,0,0,0
+31872,7 May 2012,v KKR,Delhi,2,0,0,0,0,0
+31872,10 May 2012,v Chargers,Hyderabad,1,1,1,0,0,1
+31872,18 Mar 2013,v Tripura,Agartala,1,0,0,0,0,0
+31872,19 Mar 2013,v Bengal,Agartala,1,0,0,0,0,0
+31872,20 Mar 2013,v Odisha,Agartala,1,0,0,0,0,0
+31872,3 Apr 2013,v KKR,Eden Gardens,2,0,0,0,0,0
+31872,6 Apr 2013,v RR,Delhi,1,1,1,0,0,1
+31872,9 Apr 2013,v MI,Wankhede,1,1,1,0,0,1
+31872,12 Apr 2013,v SRH,Delhi,2,1,1,0,0,1
+31872,16 Apr 2013,v RCB,Bengaluru,2,1,1,0,0,1
+31872,18 Apr 2013,v CSK,Delhi,1,0,0,0,0,0
+31872,21 Apr 2013,v MI,Delhi,1,0,0,0,0,0
+31872,28 Apr 2013,v Warriors,Raipur,2,0,0,0,0,0
+31872,1 May 2013,v KKR,Raipur,1,0,0,0,0,0
+31872,4 May 2013,v SRH,Hyderabad,2,0,0,0,0,0
+31872,10 May 2013,v RCB,Delhi,1,1,1,0,0,1
+31872,19 May 2013,v Warriors,Pune,1,0,0,0,0,0
+31872,2 Apr 2014,v Tripura,Eden Gardens,2,0,0,0,0,0
+31872,3 Apr 2014,v Bengal,Eden Gardens,2,0,0,0,0,0
+31872,4 Apr 2014,v Odisha,Eden Gardens,1,0,0,0,0,0
+31872,5 Apr 2014,v Assam,Jadavpur Uni,1,1,1,0,0,1
+31872,17 Apr 2014,v RCB,Sharjah,2,0,0,0,0,0
+31872,19 Apr 2014,v KKR,Dubai (DICS),1,0,0,0,0,0
+31872,21 Apr 2014,v CSK,Abu Dhabi,1,0,0,0,0,0
+31872,25 Apr 2014,v SRH,Dubai (DICS),1,0,0,0,0,0
+31872,27 Apr 2014,v MI,Sharjah,1,0,0,0,0,0
+31872,3 May 2014,v RR,Delhi,2,0,0,0,0,0
+31872,5 May 2014,v CSK,Delhi,2,0,0,0,0,0
+31872,7 May 2014,v KKR,Delhi,2,0,0,0,0,0
+31872,15 May 2014,v RR,Ahmedabad,1,0,0,0,0,0
+31872,23 May 2014,v MI,Wankhede,1,0,0,0,0,0
+31872,25 May 2014,v Kings XI,Mohali,2,0,0,0,0,0
+31872,26 Mar 2015,v Tripura,Cuttack,2,0,0,0,0,0
+31872,27 Mar 2015,v Bengal,Cuttack,1,1,1,0,0,1
+31872,28 Mar 2015,v Odisha,Cuttack,1,0,0,0,0,0
+31872,29 Mar 2015,v Assam,Cuttack,1,1,1,0,0,1
+31872,23 Apr 2015,v MI,Delhi,2,2,2,0,0,2
+31872,26 Apr 2015,v RCB,Delhi,2,0,0,0,0,0
+31872,12 May 2015,v CSK,Raipur,1,1,1,0,0,1
+31872,17 May 2015,v RCB,Bengaluru,2,0,0,0,0,0
+31872,3 Jan 2016,v Tripura,Kochi,1,0,0,0,0,0
+31872,4 Jan 2016,v Rajasthan,Kochi,1,0,0,0,0,0
+31872,6 Jan 2016,v Punjab,Kochi,2,0,0,0,0,0
+31872,7 Jan 2016,v J & K,Kochi,2,0,0,0,0,0
+31872,9 Jan 2016,v Saurashtra,Kochi,1,0,0,0,0,0
+31872,10 Jan 2016,v Kerala,Kochi,1,1,1,0,0,1
+31872,15 Jan 2016,v UP,Mumbai,2,0,0,0,0,0
+31872,16 Jan 2016,v Delhi,Mumbai,2,0,0,0,0,0
+31872,18 Jan 2016,v Gujarat,Mumbai,2,0,0,0,0,0
+31872,27 Apr 2016,v Guj Lions,Delhi,1,0,0,0,0,0
+31872,3 May 2016,v Guj Lions,Rajkot,1,0,0,0,0,0
+31872,7 May 2016,v Kings XI,Mohali,1,0,0,0,0,0
+31872,15 May 2016,v MI,Visakhapatnam,1,0,0,0,0,0
+31872,29 Jan 2017,v Assam,Eden Gardens,2,0,0,0,0,0
+31872,31 Jan 2017,v Odisha,Eden Gardens,2,0,0,0,0,0
+31872,1 Feb 2017,v Tripura,Eden Gardens,1,0,0,0,0,0
+31872,13 Feb 2017,v Central Zone,Wankhede,1,0,0,0,0,0
+31872,15 Feb 2017,v South Zone,Wankhede,1,0,0,0,0,0
+31872,8 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+31872,11 Apr 2017,v Supergiant,Pune,2,1,1,0,0,1
+31872,15 Apr 2017,v Kings XI,Delhi,2,0,0,0,0,0
+31872,30 Apr 2017,v Kings XI,Mohali,2,0,0,0,0,0
+31872,4 May 2017,v Guj Lions,Delhi,1,0,0,0,0,0
+31872,12 May 2017,v Supergiant,Delhi,2,0,0,0,0,0
+31872,14 May 2017,v RCB,Delhi,1,1,1,0,0,1
+31872,10 Jan 2018,v Tripura,Ranchi,2,0,0,0,0,0
+31872,12 Jan 2018,v Bengal,Ranchi,2,0,0,0,0,0
+31872,14 Jan 2018,v Assam,Ranchi,1,1,1,0,0,1
+31872,16 Jan 2018,v Odisha,Ranchi,1,0,0,0,0,0
+31872,21 Jan 2018,v Mumbai,Kolkata,1,0,0,0,0,0
+31872,22 Jan 2018,v Rajasthan,Kolkata,2,1,1,0,0,1
+31872,23 Jan 2018,v Punjab,Eden Gardens,1,0,0,0,0,0
+31872,24 Jan 2018,v Karnataka,Eden Gardens,1,0,0,0,0,0
+31872,11 Apr 2018,v RR,Jaipur,1,0,0,0,0,0
+31872,14 Apr 2018,v MI,Wankhede,1,0,0,0,0,0
+31872,16 Apr 2018,v KKR,Eden Gardens,1,1,1,0,0,1
+31872,21 Apr 2018,v RCB,Bengaluru,2,0,0,0,0,0
+31872,2 May 2018,v RR,Delhi,2,0,0,0,0,0
+31872,10 May 2018,v SRH,Delhi,2,0,0,0,0,0
+31872,21 Feb 2019,v Delhi,Mulapadu,2,0,0,0,0,0
+31872,22 Feb 2019,v J & K,Mulapadu,1,0,0,0,0,0
+31872,27 Feb 2019,v Nagaland,Mulapadu,2,0,0,0,0,0
+31872,28 Feb 2019,v Andhra,Mulapadu,1,0,0,0,0,0
+31872,2 Mar 2019,v Kerala,Mulapadu,1,1,1,0,0,1
+31872,29 Mar 2019,v RR,Hyderabad,1,0,0,0,0,0
+31872,17 Apr 2019,v CSK,Hyderabad,1,0,0,0,0,0
+31872,21 Apr 2019,v KKR,Hyderabad,1,0,0,0,0,0
+31872,9 Nov 2019,v Saurashtra,Surat,1,0,0,0,0,0
+31872,11 Nov 2019,v J & K,Surat,2,0,0,0,0,0
+31872,15 Nov 2019,v Delhi,Surat,1,0,0,0,0,0
+31872,17 Nov 2019,v Gujarat,Surat,1,0,0,0,0,0
+31872,21 Nov 2019,v Punjab,Surat,1,0,0,0,0,0
+31872,13 Oct 2020,v CSK,Dubai (DICS),1,0,0,0,0,0
+31872,22 Oct 2020,v RR,Dubai (DICS),1,1,1,0,0,1
+31872,27 Oct 2020,v DC,Dubai (DICS),2,0,0,0,0,0
+31872,31 Oct 2020,v RCB,Sharjah,1,0,0,0,0,0
+31872,3 Nov 2020,v MI,Sharjah,1,0,0,0,0,0
+31872,6 Nov 2020,v RCB,Abu Dhabi,1,0,0,0,0,0
+31872,8 Nov 2020,v DC,Abu Dhabi,1,0,0,0,0,0
+31872,10 Jan 2021,v Tamil Nadu,Eden Gardens,1,0,0,0,0,0
+31872,12 Jan 2021,v Bengal,Eden Gardens,1,0,0,0,0,0
+31872,14 Jan 2021,v Assam,Jadavpur Uni,2,0,0,0,0,0
+31872,16 Jan 2021,v Odisha,Eden Gardens,2,0,0,0,0,0
+31872,18 Jan 2021,v Hyderabad,Eden Gardens,1,0,0,0,0,0
+31872,14 Apr 2021,v RCB,Chennai,1,1,1,0,0,1
+31872,4 Nov 2021,v Rajasthan,Vadodara,2,0,0,0,0,0
+31872,5 Nov 2021,v Himachal,Vadodara,1,0,0,0,0,0
+31872,6 Nov 2021,v Andhra,Vadodara,1,0,0,0,0,0
+31872,8 Nov 2021,v Haryana,Vadodara,2,0,0,0,0,0
+31872,9 Nov 2021,v J & K,Vadodara,1,0,0,0,0,0
+31872,14 Oct 2022,v Chandigarh,Lucknow,2,0,0,0,0,0
+31872,18 Oct 2022,v Tamil Nadu,Lucknow,1,0,0,0,0,0
+31872,20 Oct 2022,v Odisha,Lucknow,2,1,1,0,0,1
+31872,22 Oct 2022,v Sikkim,Lucknow,1,0,0,0,0,0
+31872,17 Oct 2023,v Puducherry,Mohali,1,0,0,0,0,0
+31872,19 Oct 2023,v Uttarakhand,Mohali,2,0,0,0,0,0
+31872,21 Oct 2023,v Rajasthan,New Chandigarh,1,1,1,0,0,1
+31872,23 Oct 2023,v Maharashtra,Mohali,2,0,0,0,0,0
+31872,25 Oct 2023,v Bengal,New Chandigarh,1,0,0,0,0,0
+31872,27 Oct 2023,v Vidarbha,Mohali,2,0,0,0,0,0

@@ -1,0 +1,176 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+542023,5 Sep 2015,v Zim Pres XI,Benoni,1,1,1,0,0,1
+542023,6 Sep 2015,v Easterns,Benoni,1,0,0,0,0,0
+542023,3 Oct 2015,v KZ-Natal,Bloemfontein,2,0,0,0,0,0
+542023,4 Oct 2015,v KZN-Inland,Bloemfontein,1,0,0,0,0,0
+542023,1 Nov 2015,v Easterns,Centurion,1,0,0,0,0,0
+542023,6 Nov 2015,v Lions,Potchefstroom,1,0,0,0,0,0
+542023,8 Nov 2015,v Cape Cobras,Centurion,2,1,1,0,0,1
+542023,13 Nov 2015,v Knights,Bloemfontein,2,1,1,0,0,1
+542023,15 Nov 2015,v Warriors,Centurion,1,0,0,0,0,0
+542023,20 Nov 2015,v Cape Cobras,Cape Town,2,0,0,0,0,0
+542023,29 Nov 2015,v Boland,Paarl,2,0,0,0,0,0
+542023,6 Dec 2015,v Knights,Benoni,2,0,0,0,0,0
+542023,12 Dec 2015,v Dolphins,Centurion,1,0,0,0,0,0
+542023,16 Sep 2016,v Kenya,Oudtshoorn,2,0,0,0,0,0
+542023,17 Sep 2016,v Northern Cpe,Oudtshoorn,2,0,0,0,0,0
+542023,18 Sep 2016,v S West D,Oudtshoorn,2,0,0,0,0,0
+542023,12 Nov 2016,v Lions,Johannesburg,2,1,1,0,0,1
+542023,16 Nov 2016,v Cape Cobras,Paarl,1,0,0,0,0,0
+542023,18 Nov 2016,v Knights,Benoni,1,0,0,0,0,0
+542023,20 Nov 2016,v Dolphins,Bloemfontein,2,0,0,0,0,0
+542023,25 Nov 2016,v Cape Cobras,Centurion,1,0,0,0,0,0
+542023,27 Nov 2016,v Knights,Kimberley,2,0,0,0,0,0
+542023,30 Nov 2016,v Dolphins,Durban,2,0,0,0,0,0
+542023,2 Dec 2016,v Warriors,Centurion,2,0,0,0,0,0
+542023,7 Dec 2016,v Lions,Centurion,2,0,0,0,0,0
+542023,11 Dec 2016,v Warriors,East London,2,0,0,0,0,0
+542023,16 Dec 2016,v Warriors,Centurion,2,0,0,0,0,0
+542023,20 Jan 2017,v Sri Lanka,Centurion,2,0,0,0,0,0
+542023,22 Jan 2017,v Sri Lanka,Johannesburg,2,0,0,0,0,0
+542023,25 Jan 2017,v Sri Lanka,Cape Town,2,0,0,0,0,0
+542023,12 Nov 2017,v Lions,Centurion,1,0,0,0,0,0
+542023,15 Nov 2017,v Knights,Kimberley,2,0,0,0,0,0
+542023,17 Nov 2017,v Warriors,East London,2,0,0,0,0,0
+542023,19 Nov 2017,v Cape Cobras,Centurion,1,1,1,0,0,1
+542023,24 Nov 2017,v Dolphins,Benoni,-,TDNF,-,-,-,-
+542023,1 Dec 2017,v Warriors,Benoni,2,0,0,0,0,0
+542023,8 Dec 2017,v Cape Cobras,Cape Town,2,1,1,0,0,1
+542023,13 Dec 2017,v Warriors,Centurion,1,2,2,0,0,2
+542023,16 Dec 2017,v Dolphins,Centurion,1,0,0,0,0,0
+542023,30 Apr 2018,v Daredevils,Pune,2,0,0,0,0,0
+542023,3 May 2018,v KKR,Eden Gardens,2,0,0,0,0,0
+542023,5 May 2018,v RCB,Pune,1,0,0,0,0,0
+542023,18 May 2018,v Daredevils,Delhi,1,0,0,0,0,0
+542023,20 May 2018,v Kings XI,Pune,1,0,0,0,0,0
+542023,22 May 2018,v SRH,Wankhede,1,1,1,0,0,1
+542023,27 May 2018,v SRH,Wankhede,1,0,0,0,0,0
+542023,14 Aug 2018,v Sri Lanka,Colombo (RPS),2,0,0,0,0,0
+542023,9 Oct 2018,v Zimbabwe,East London,2,1,1,0,0,1
+542023,12 Oct 2018,v Zimbabwe,Potchefstroom,1,0,0,0,0,0
+542023,17 Nov 2018,v Australia,Carrara,2,0,0,0,0,0
+542023,13 Nov 2019,v Giants,Centurion,-,TDNF,-,-,-,-
+542023,17 Nov 2019,v Paarl Rocks,Paarl,1,0,0,0,0,0
+542023,21 Nov 2019,v Durban Heat,Centurion,2,1,1,0,0,1
+542023,24 Nov 2019,v Jozi Stars,Johannesburg,2,0,0,0,0,0
+542023,29 Nov 2019,v Paarl Rocks,Centurion,1,0,0,0,0,0
+542023,1 Dec 2019,v Blitz,Cape Town,1,1,1,0,0,1
+542023,3 Dec 2019,v Giants,Gqeberha,2,1,1,0,0,1
+542023,12 Feb 2020,v England,East London,2,1,1,0,0,1
+542023,14 Feb 2020,v England,Durban,1,0,0,0,0,0
+542023,16 Feb 2020,v England,Centurion,2,0,0,0,0,0
+542023,21 Feb 2020,v Australia,Johannesburg,1,0,0,0,0,0
+542023,23 Feb 2020,v Australia,Gqeberha,2,0,0,0,0,0
+542023,26 Feb 2020,v Australia,Cape Town,1,0,0,0,0,0
+542023,19 Sep 2020,v MI,Abu Dhabi,1,0,0,0,0,0
+542023,22 Sep 2020,v RR,Sharjah,1,0,0,0,0,0
+542023,29 Oct 2020,v KKR,Dubai (DICS),1,0,0,0,0,0
+542023,1 Nov 2020,v Kings XI,Abu Dhabi,1,0,0,0,0,0
+542023,27 Nov 2020,v England,Cape Town,2,0,0,0,0,0
+542023,29 Nov 2020,v England,Paarl,2,0,0,0,0,0
+542023,1 Dec 2020,v England,Cape Town,2,0,0,0,0,0
+542023,19 Feb 2021,v Knights,Durban,1,0,0,0,0,0
+542023,21 Feb 2021,v Cape Cobras,Durban,2,1,1,0,0,1
+542023,22 Feb 2021,v Lions,Durban,1,0,0,0,0,0
+542023,24 Feb 2021,v Warriors,Durban,1,0,0,0,0,0
+542023,26 Feb 2021,v Dolphins,Durban,1,0,0,0,0,0
+542023,21 Apr 2021,v KKR,Wankhede,2,1,1,0,0,1
+542023,28 Apr 2021,v SRH,Delhi,1,0,0,0,0,0
+542023,1 May 2021,v MI,Delhi,2,0,0,0,0,0
+542023,26 Jun 2021,v West Indies,St George's,2,0,0,0,0,0
+542023,27 Jun 2021,v West Indies,St George's,2,0,0,0,0,0
+542023,29 Jun 2021,v West Indies,St George's,2,0,0,0,0,0
+542023,1 Jul 2021,v West Indies,St George's,1,0,0,0,0,0
+542023,3 Jul 2021,v West Indies,St George's,2,1,1,0,0,1
+542023,19 Jul 2021,v Ireland,Dublin (Malahide),2,0,0,0,0,0
+542023,22 Jul 2021,v Ireland,Belfast,2,0,0,0,0,0
+542023,17 Jun 2022,v India,Rajkot,1,0,0,0,0,0
+542023,19 Jun 2022,v India,Bengaluru,1,0,0,0,0,0
+542023,27 Jul 2022,v England,Bristol,1,0,0,0,0,0
+542023,28 Jul 2022,v England,Cardiff,2,1,1,0,0,1
+542023,31 Jul 2022,v England,Southampton,2,1,1,0,0,1
+542023,3 Aug 2022,v Ireland,Bristol,2,0,0,0,0,0
+542023,5 Aug 2022,v Ireland,Bristol,2,1,1,0,0,1
+542023,2 Oct 2022,v India,Guwahati,1,0,0,0,0,0
+542023,4 Oct 2022,v India,Indore,2,0,0,0,0,0
+542023,24 Oct 2022,v Zimbabwe,Hobart,1,1,1,0,0,1
+542023,30 Oct 2022,v India,Perth,1,1,1,0,0,1
+542023,3 Nov 2022,v Pakistan,Sydney,1,0,0,0,0,0
+542023,6 Nov 2022,v Netherlands,Adelaide,1,0,0,0,0,0
+542023,13 Jan 2023,v Super Kings,Paarl,1,0,0,0,0,0
+542023,15 Jan 2023,v Super Giants,Durban,1,1,1,0,0,1
+542023,17 Jan 2023,v Super Giants,Paarl,2,0,0,0,0,0
+542023,19 Jan 2023,v Sunrisers,Paarl,2,0,0,0,0,0
+542023,21 Jan 2023,v MI Cape Town,Paarl,1,0,0,0,0,0
+542023,22 Jan 2023,v Capitals,Paarl,1,0,0,0,0,0
+542023,24 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+542023,3 Feb 2023,v Super Kings,Johannesburg,-,TDNF,-,-,-,-
+542023,7 Feb 2023,v Capitals,Centurion,1,0,0,0,0,0
+542023,8 Feb 2023,v Capitals,Johannesburg,1,0,0,0,0,0
+542023,28 Mar 2023,v West Indies,Johannesburg,1,0,0,0,0,0
+542023,30 Aug 2023,v Australia,Durban,1,0,0,0,0,0
+542023,1 Sep 2023,v Australia,Durban,2,0,0,0,0,0
+542023,3 Sep 2023,v Australia,Durban,2,0,0,0,0,0
+542023,12 Jan 2024,v Capitals,Paarl,2,1,1,0,0,1
+542023,14 Jan 2024,v Capitals,Centurion,2,0,0,0,0,0
+542023,17 Jan 2024,v Super Kings,Paarl,1,1,1,0,0,1
+542023,19 Jan 2024,v MI Cape Town,Cape Town,2,0,0,0,0,0
+542023,21 Jan 2024,v MI Cape Town,Paarl,2,0,0,0,0,0
+542023,24 Jan 2024,v Super Kings,Johannesburg,1,0,0,0,0,0
+542023,26 Jan 2024,v Super Giants,Paarl,1,0,0,0,0,0
+542023,28 Jan 2024,v Super Giants,Durban,1,0,0,0,0,0
+542023,2 Feb 2024,v Sunrisers,Paarl,1,0,0,0,0,0
+542023,5 Apr 2024,v Warriors,Gqeberha,2,0,0,0,0,0
+542023,7 Apr 2024,v KZN-Inland,Pietermaritzburg,2,1,1,0,0,1
+542023,10 Apr 2024,v Dolphins,Durban,1,0,0,0,0,0
+542023,12 Apr 2024,v Boland,Centurion,1,1,1,0,0,1
+542023,14 Apr 2024,v KZN-Inland,Centurion,1,1,1,0,0,1
+542023,19 Apr 2024,v Lions,Centurion,1,0,0,0,0,0
+542023,21 Apr 2024,v W Province,Cape Town,1,0,0,0,0,0
+542023,24 Apr 2024,v Lions,Johannesburg,2,0,0,0,0,0
+542023,23 May 2024,v West Indies,Kingston,1,0,0,0,0,0
+542023,25 May 2024,v West Indies,Kingston,1,0,0,0,0,0
+542023,17 Jul 2024,v Los Angeles,Morrisville,2,0,0,0,0,0
+542023,20 Jul 2024,v SF,Dallas,2,1,1,0,0,1
+542023,29 Sep 2024,v Ireland,Abu Dhabi,1,0,0,0,0,0
+542023,11 Jan 2025,v Sunrisers,Paarl,1,0,0,0,0,0
+542023,13 Jan 2025,v MI Cape Town,Cape Town,1,0,0,0,0,0
+542023,18 Jan 2025,v Capitals,Centurion,1,1,1,0,0,1
+542023,30 Jan 2025,v Super Kings,Johannesburg,2,0,0,0,0,0
+542023,1 Feb 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+542023,3 May 2025,v CSK,Bengaluru,2,0,0,0,0,0
+542023,23 May 2025,v SRH,Lucknow,1,0,0,0,0,0
+542023,14 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+542023,16 Jul 2025,v New Zealand,Harare,1,0,0,0,0,0
+542023,20 Jul 2025,v Zimbabwe,Harare,1,0,0,0,0,0
+542023,26 Jul 2025,v New Zealand,Harare,1,0,0,0,0,0
+542023,10 Aug 2025,v Australia,Darwin,1,0,0,0,0,0
+542023,12 Aug 2025,v Australia,Darwin,2,0,0,0,0,0
+542023,16 Aug 2025,v Australia,Cairns,2,1,1,0,0,1
+542023,28 Oct 2025,v Pakistan,Rawalpindi,2,0,0,0,0,0
+542023,31 Oct 2025,v Pakistan,Lahore,2,0,0,0,0,0
+542023,14 Nov 2025,v North West,Potchefstroom,2,0,0,0,0,0
+542023,9 Dec 2025,v India,Cuttack,1,0,0,0,0,0
+542023,11 Dec 2025,v India,New Chandigarh,2,0,0,0,0,0
+542023,14 Dec 2025,v India,Dharamsala,2,0,0,0,0,0
+542023,19 Dec 2025,v India,Ahmedabad,1,0,0,0,0,0
+542023,27 Dec 2025,v Super Kings,Centurion,1,0,0,0,0,0
+542023,29 Dec 2025,v Sunrisers,Gqeberha,1,0,0,0,0,0
+542023,31 Dec 2025,v MI Cape Town,Cape Town,2,0,0,0,0,0
+542023,3 Jan 2026,v Super Giants,Centurion,-,TDNF,-,-,-,-
+542023,5 Jan 2026,v Sunrisers,Centurion,2,0,0,0,0,0
+542023,7 Jan 2026,v Super Giants,Durban,2,0,0,0,0,0
+542023,10 Jan 2026,v Paarl Royals,Paarl,2,0,0,0,0,0
+542023,12 Jan 2026,v MI Cape Town,Centurion,2,1,1,0,0,1
+542023,15 Jan 2026,v Paarl Royals,Centurion,2,0,0,0,0,0
+542023,17 Jan 2026,v Super Kings,Johannesburg,2,0,0,0,0,0
+542023,21 Jan 2026,v Sunrisers,Durban,1,0,0,0,0,0
+542023,25 Jan 2026,v Sunrisers,Cape Town,2,0,0,0,0,0
+542023,31 Jan 2026,v West Indies,Johannesburg,1,0,0,0,0,0
+542023,9 Feb 2026,v Canada,Ahmedabad,2,0,0,0,0,0
+542023,11 Feb 2026,v Afghanistan,Ahmedabad,2,1,1,0,0,1
+542023,14 Feb 2026,v New Zealand,Ahmedabad,1,0,0,0,0,0
+542023,22 Feb 2026,v India,Ahmedabad,2,1,1,0,0,1
+542023,26 Feb 2026,v West Indies,Ahmedabad,1,0,0,0,0,0
+542023,1 Mar 2026,v Zimbabwe,Delhi,1,0,0,0,0,0
+542023,4 Mar 2026,v New Zealand,Eden Gardens,2,0,0,0,0,0

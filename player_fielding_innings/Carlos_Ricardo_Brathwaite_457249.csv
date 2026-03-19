@@ -1,0 +1,266 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+457249,13 Jan 2011,v Hampshire,North Sound,1,0,0,0,0,0
+457249,9 Oct 2011,v BCB XI,Fatullah,2,0,0,0,0,0
+457249,11 Oct 2011,v Bangladesh,Mirpur,2,0,0,0,0,0
+457249,18 Nov 2011,v Bangladesh A,Gros Islet,2,2,2,0,0,2
+457249,19 Nov 2011,v Bangladesh A,Gros Islet,2,0,0,0,0,0
+457249,12 Jan 2012,v Netherlands,North Sound,1,1,1,0,0,1
+457249,14 Jan 2012,v Jamaica,North Sound,2,1,1,0,0,1
+457249,18 Jan 2012,v Sussex,Bridgetown,1,0,0,0,0,0
+457249,20 Jan 2012,v Comb C&C,Bridgetown,1,0,0,0,0,0
+457249,7 Jan 2013,v Leeward Is,Port of Spain,1,0,0,0,0,0
+457249,8 Jan 2013,v Jamaica,Port of Spain,1,0,0,0,0,0
+457249,10 Jan 2013,v Guyana,Port of Spain,1,0,0,0,0,0
+457249,11 Jan 2013,v Comb C&C,Port of Spain,1,0,0,0,0,0
+457249,16 Jan 2013,v Trinidad & T,Gros Islet,2,0,0,0,0,0
+457249,17 Jan 2013,v Windward Is,Gros Islet,2,0,0,0,0,0
+457249,11 Aug 2013,v Amazon,Port of Spain,1,0,0,0,0,0
+457249,14 Jun 2014,v Bangladesh A,Bridgetown,2,0,0,0,0,0
+457249,15 Jun 2014,v Bangladesh A,Cave Hill,1,0,0,0,0,0
+457249,11 Jul 2014,v Amazon,St George's,2,2,2,0,0,2
+457249,17 Jul 2014,v Tallawahs,North Sound,2,0,0,0,0,0
+457249,19 Jul 2014,v Tridents,North Sound,2,0,0,0,0,0
+457249,20 Jul 2014,v Red Steel,North Sound,2,0,0,0,0,0
+457249,25 Jul 2014,v Tridents,Bridgetown,2,1,1,0,0,1
+457249,31 Jul 2014,v Tallawahs,Kingston,2,0,0,0,0,0
+457249,3 Aug 2014,v Zouks,Gros Islet,2,1,1,0,0,1
+457249,7 Aug 2014,v Amazon,Basseterre,1,0,0,0,0,0
+457249,9 Aug 2014,v Red Steel,Basseterre,1,0,0,0,0,0
+457249,14 Jan 2015,v South Africa,Durban,1,0,0,0,0,0
+457249,27 Jun 2015,v Tridents,Bridgetown,2,1,1,0,0,1
+457249,30 Jun 2015,v Tallawahs,Basseterre,2,0,0,0,0,0
+457249,3 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+457249,4 Jul 2015,v Tallawahs,Basseterre,2,1,1,0,0,1
+457249,6 Jul 2015,v Tridents,Basseterre,1,2,2,0,0,2
+457249,8 Jul 2015,v Amazon,Basseterre,2,0,0,0,0,0
+457249,10 Jul 2015,v Zouks,Basseterre,2,1,1,0,0,1
+457249,11 Jul 2015,v Red Steel,Basseterre,2,0,0,0,0,0
+457249,18 Jul 2015,v Red Steel,Port of Spain,1,0,0,0,0,0
+457249,16 Mar 2016,v England,Wankhede,1,1,1,0,0,1
+457249,20 Mar 2016,v Sri Lanka,Bengaluru,1,0,0,0,0,0
+457249,25 Mar 2016,v South Africa,Nagpur,1,0,0,0,0,0
+457249,27 Mar 2016,v Afghanistan,Nagpur,1,0,0,0,0,0
+457249,31 Mar 2016,v India,Wankhede,1,0,0,0,0,0
+457249,3 Apr 2016,v England,Eden Gardens,1,0,0,0,0,0
+457249,10 Apr 2016,v KKR,Eden Gardens,2,0,0,0,0,0
+457249,15 Apr 2016,v Kings XI,Delhi,1,1,1,0,0,1
+457249,17 Apr 2016,v RCB,Bengaluru,1,0,0,0,0,0
+457249,30 Apr 2016,v KKR,Delhi,2,0,0,0,0,0
+457249,5 May 2016,v Supergiants,Delhi,2,0,0,0,0,0
+457249,7 May 2016,v Kings XI,Mohali,1,1,1,0,0,1
+457249,20 May 2016,v SRH,Raipur,1,1,1,0,0,1
+457249,22 May 2016,v RCB,Raipur,2,0,0,0,0,0
+457249,30 Jun 2016,v Amazon,Basseterre,2,0,0,0,0,0
+457249,2 Jul 2016,v Tallawahs,Basseterre,1,0,0,0,0,0
+457249,3 Jul 2016,v Zouks,Basseterre,2,0,0,0,0,0
+457249,5 Jul 2016,v Tridents,Basseterre,2,1,1,0,0,1
+457249,27 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+457249,28 Aug 2016,v India,Lauderhill,2,0,0,0,0,0
+457249,23 Sep 2016,v Pakistan,Dubai (DICS),2,0,0,0,0,0
+457249,24 Sep 2016,v Pakistan,Dubai (DICS),1,0,0,0,0,0
+457249,27 Sep 2016,v Pakistan,Abu Dhabi,2,0,0,0,0,0
+457249,8 Jan 2017,v Hurricanes,Hobart,1,0,0,0,0,0
+457249,14 Jan 2017,v Sixers,Sydney,1,1,1,0,0,1
+457249,18 Jan 2017,v Strikers,Sydney,1,0,0,0,0,0
+457249,26 Mar 2017,v Pakistan,Bridgetown,2,1,1,0,0,1
+457249,30 Mar 2017,v Pakistan,Port of Spain,1,2,2,0,0,2
+457249,1 Apr 2017,v Pakistan,Port of Spain,1,0,0,0,0,0
+457249,2 Apr 2017,v Pakistan,Port of Spain,2,0,0,0,0,0
+457249,8 Apr 2017,v RCB,Bengaluru,1,0,0,0,0,0
+457249,10 May 2017,v Guj Lions,Kanpur,1,0,0,0,0,0
+457249,2 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+457249,3 Jun 2017,v Afghanistan,Basseterre,2,1,1,0,0,1
+457249,5 Jun 2017,v Afghanistan,Basseterre,1,0,0,0,0,0
+457249,9 Jul 2017,v India,Kingston,1,0,0,0,0,0
+457249,5 Aug 2017,v Amazon,Lauderhill,1,0,0,0,0,0
+457249,6 Aug 2017,v Amazon,Lauderhill,2,1,1,0,0,1
+457249,12 Aug 2017,v Stars,Gros Islet,2,1,1,0,0,1
+457249,14 Aug 2017,v Trinbago,Port of Spain,2,0,0,0,0,0
+457249,18 Aug 2017,v Tridents,Basseterre,1,0,0,0,0,0
+457249,19 Aug 2017,v Stars,Basseterre,1,0,0,0,0,0
+457249,21 Aug 2017,v Tallawahs,Basseterre,2,0,0,0,0,0
+457249,23 Aug 2017,v Trinbago,Basseterre,2,0,0,0,0,0
+457249,30 Aug 2017,v Tallawahs,Kingston,1,0,0,0,0,0
+457249,3 Sep 2017,v Tridents,Bridgetown,1,0,0,0,0,0
+457249,5 Sep 2017,v Trinbago,Tarouba,2,1,1,0,0,1
+457249,9 Sep 2017,v Trinbago,Tarouba,2,0,0,0,0,0
+457249,16 Sep 2017,v England,Chester-le-Street,2,1,1,0,0,1
+457249,5 Nov 2017,v Dynamites,Sylhet,1,0,0,0,0,0
+457249,8 Nov 2017,v Sylhet,Sylhet,1,0,0,0,0,0
+457249,12 Nov 2017,v Chattogram,Mirpur,2,1,1,0,0,1
+457249,14 Nov 2017,v Dynamites,Mirpur,2,1,1,0,0,1
+457249,17 Nov 2017,v Chattogram,Mirpur,1,1,1,0,0,1
+457249,21 Nov 2017,v Kings,Mirpur,1,0,0,0,0,0
+457249,24 Nov 2017,v Rangpur,Chattogram,2,0,0,0,0,0
+457249,27 Nov 2017,v Kings,Chattogram,2,0,0,0,0,0
+457249,28 Nov 2017,v Victorians,Chattogram,2,0,0,0,0,0
+457249,3 Dec 2017,v Rangpur,Mirpur,1,0,0,0,0,0
+457249,5 Dec 2017,v Victorians,Mirpur,2,1,1,0,0,1
+457249,8 Dec 2017,v Rangpur,Mirpur,2,0,0,0,0,0
+457249,29 Dec 2017,v New Zealand,Nelson,1,2,2,0,0,2
+457249,1 Jan 2018,v New Zealand,Mount Maunganui,1,1,1,0,0,1
+457249,3 Jan 2018,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+457249,13 Jan 2018,v Thunder,Sydney,1,0,0,0,0,0
+457249,16 Jan 2018,v Stars,Melbourne,1,0,0,0,0,0
+457249,18 Jan 2018,v Heat,Sydney,1,2,2,0,0,2
+457249,23 Jan 2018,v Stars,Sydney,1,0,0,0,0,0
+457249,19 May 2018,v KKR,Hyderabad,2,0,0,0,0,0
+457249,22 May 2018,v CSK,Wankhede,2,1,1,0,0,1
+457249,25 May 2018,v KKR,Eden Gardens,2,1,1,0,0,1
+457249,27 May 2018,v CSK,Wankhede,2,0,0,0,0,0
+457249,31 May 2018,v ICC World XI,Lord's,2,1,1,0,0,1
+457249,6 Jul 2018,v Surrey,The Oval,2,0,0,0,0,0
+457249,8 Jul 2018,v Somerset,Taunton,1,0,0,0,0,0
+457249,11 Jul 2018,v Gloucs,Bristol,1,0,0,0,0,0
+457249,13 Jul 2018,v Hampshire,Beckenham,2,1,1,0,0,1
+457249,20 Jul 2018,v Surrey,Canterbury,1,1,1,0,0,1
+457249,31 Jul 2018,v Bangladesh,Basseterre,1,0,0,0,0,0
+457249,4 Aug 2018,v Bangladesh,Lauderhill,1,1,1,0,0,1
+457249,5 Aug 2018,v Bangladesh,Lauderhill,1,0,0,0,0,0
+457249,9 Aug 2018,v Amazon,Providence,2,0,0,0,0,0
+457249,11 Aug 2018,v Trinbago,Port of Spain,2,0,0,0,0,0
+457249,15 Aug 2018,v Tallawahs,Kingston,1,0,0,0,0,0
+457249,21 Aug 2018,v Stars,Gros Islet,1,1,1,0,0,1
+457249,25 Aug 2018,v Tridents,Bridgetown,1,0,0,0,0,0
+457249,28 Aug 2018,v Amazon,Basseterre,2,0,0,0,0,0
+457249,1 Sep 2018,v Trinbago,Basseterre,1,0,0,0,0,0
+457249,2 Sep 2018,v Tallawahs,Basseterre,1,0,0,0,0,0
+457249,12 Sep 2018,v Tallawahs,Providence,1,0,0,0,0,0
+457249,14 Sep 2018,v Trinbago,Tarouba,1,0,0,0,0,0
+457249,4 Nov 2018,v India,Eden Gardens,2,0,0,0,0,0
+457249,6 Nov 2018,v India,Lucknow,1,0,0,0,0,0
+457249,11 Nov 2018,v India,Chennai,2,1,1,0,0,1
+457249,17 Dec 2018,v Bangladesh,Sylhet,1,2,2,0,0,2
+457249,20 Dec 2018,v Bangladesh,Mirpur,1,1,1,0,0,1
+457249,22 Dec 2018,v Bangladesh,Mirpur,2,2,2,0,0,2
+457249,6 Jan 2019,v Rangpur,Mirpur,1,0,0,0,0,0
+457249,12 Jan 2019,v Chattogram,Mirpur,2,2,2,0,0,2
+457249,15 Jan 2019,v Kings,Sylhet,2,4,4,0,0,4
+457249,18 Jan 2019,v Victorians,Sylhet,2,0,0,0,0,0
+457249,28 Jan 2019,v Victorians,Chattogram,1,0,0,0,0,0
+457249,14 Feb 2019,v United,Dubai (DICS),2,0,0,0,0,0
+457249,5 Mar 2019,v England,Gros Islet,2,1,1,0,0,1
+457249,8 Mar 2019,v England,Basseterre,1,1,1,0,0,1
+457249,10 Mar 2019,v England,Basseterre,2,0,0,0,0,0
+457249,12 Apr 2019,v DC,Eden Gardens,2,0,0,0,0,0
+457249,25 Apr 2019,v RR,Eden Gardens,2,0,0,0,0,0
+457249,3 Aug 2019,v India,Lauderhill,2,0,0,0,0,0
+457249,4 Aug 2019,v India,Lauderhill,1,0,0,0,0,0
+457249,6 Aug 2019,v India,Providence,2,0,0,0,0,0
+457249,4 Sep 2019,v Trinbago,Port of Spain,1,1,1,0,0,1
+457249,7 Sep 2019,v Amazon,Providence,2,0,0,0,0,0
+457249,10 Sep 2019,v Tallawahs,Basseterre,1,4,4,0,0,4
+457249,11 Sep 2019,v Tridents,Basseterre,1,0,0,0,0,0
+457249,14 Sep 2019,v Amazon,Basseterre,2,0,0,0,0,0
+457249,15 Sep 2019,v Zouks,Basseterre,1,0,0,0,0,0
+457249,17 Sep 2019,v Trinbago,Basseterre,1,0,0,0,0,0
+457249,19 Sep 2019,v Tallawahs,Kingston,2,2,2,0,0,2
+457249,24 Sep 2019,v Zouks,Gros Islet,1,0,0,0,0,0
+457249,28 Sep 2019,v Tridents,Bridgetown,2,3,3,0,0,3
+457249,6 Oct 2019,v Trinbago,Providence,2,0,0,0,0,0
+457249,2 Mar 2020,v Kings,Rawalpindi,2,0,0,0,0,0
+457249,7 Mar 2020,v United,Rawalpindi,1,0,0,0,0,0
+457249,10 Mar 2020,v Qalandars,Lahore,2,0,0,0,0,0
+457249,19 Aug 2020,v Zouks,Tarouba,1,1,1,0,0,1
+457249,20 Aug 2020,v Trinbago,Tarouba,2,2,2,0,0,2
+457249,22 Aug 2020,v Amazon,Tarouba,1,0,0,0,0,0
+457249,25 Aug 2020,v Amazon,Port of Spain,1,0,0,0,0,0
+457249,26 Aug 2020,v Tridents,Port of Spain,1,0,0,0,0,0
+457249,29 Aug 2020,v Patriots,Port of Spain,2,0,0,0,0,0
+457249,1 Sep 2020,v Trinbago,Tarouba,1,1,1,0,0,1
+457249,3 Sep 2020,v Patriots,Tarouba,1,0,0,0,0,0
+457249,5 Sep 2020,v Tridents,Tarouba,2,0,0,0,0,0
+457249,6 Sep 2020,v Zouks,Tarouba,1,1,1,0,0,1
+457249,8 Sep 2020,v Trinbago,Tarouba,2,0,0,0,0,0
+457249,14 Nov 2020,v Qalandars,Karachi,2,1,1,0,0,1
+457249,10 Dec 2020,v Hurricanes,Hobart,1,0,0,0,0,0
+457249,13 Dec 2020,v Renegades,Hobart,2,1,1,0,0,1
+457249,20 Dec 2020,v Strikers,Hobart,2,0,0,0,0,0
+457249,26 Dec 2020,v Stars,Carrara,1,0,0,0,0,0
+457249,29 Dec 2020,v Renegades,Carrara,1,0,0,0,0,0
+457249,2 Jan 2021,v Heat,Brisbane,2,0,0,0,0,0
+457249,3 Jan 2021,v Strikers,Carrara,1,2,2,0,0,2
+457249,6 Jan 2021,v Scorchers,Perth,1,0,0,0,0,0
+457249,10 Jan 2021,v Heat,Carrara,1,0,0,0,0,0
+457249,13 Jan 2021,v Thunder,Canberra,1,0,0,0,0,0
+457249,16 Jan 2021,v Scorchers,Canberra,1,0,0,0,0,0
+457249,22 Jan 2021,v Thunder,Adelaide,1,0,0,0,0,0
+457249,24 Jan 2021,v Hurricanes,Melbourne,1,0,0,0,0,0
+457249,26 Jan 2021,v Stars,Melbourne,1,0,0,0,0,0
+457249,30 Jan 2021,v Scorchers,Canberra,1,0,0,0,0,0
+457249,6 Feb 2021,v Scorchers,Sydney,2,0,0,0,0,0
+457249,21 Feb 2021,v United,Karachi,2,0,0,0,0,0
+457249,23 Feb 2021,v Zalmi,Karachi,2,1,1,0,0,1
+457249,26 Feb 2021,v Qalandars,Karachi,1,1,1,0,0,1
+457249,27 Feb 2021,v Kings,Karachi,2,0,0,0,0,0
+457249,3 Mar 2021,v Gladiators,Karachi,1,0,0,0,0,0
+457249,10 Jun 2021,v Yorkshire,Leeds,2,0,0,0,0,0
+457249,11 Jun 2021,v Notts,Nottingham,2,0,0,0,0,0
+457249,13 Jun 2021,v Derbyshire,Derby,1,0,0,0,0,0
+457249,15 Jun 2021,v Northants,Northampton,2,1,1,0,0,1
+457249,16 Jun 2021,v Leics,Leicester,2,1,1,0,0,1
+457249,20 Jun 2021,v Durham,Chester-le-Street,1,0,0,0,0,0
+457249,24 Jun 2021,v Derbyshire,Birmingham,2,0,0,0,0,0
+457249,26 Jun 2021,v Durham,Birmingham,1,0,0,0,0,0
+457249,30 Jun 2021,v Yorkshire,Birmingham,1,0,0,0,0,0
+457249,16 Jul 2021,v Worcs,Birmingham,2,0,0,0,0,0
+457249,18 Jul 2021,v Northants,Birmingham,2,2,2,0,0,2
+457249,22 Jul 2021,v Invincibles,The Oval,1,1,1,0,0,1
+457249,25 Jul 2021,v Phoenix,Manchester,1,0,0,0,0,0
+457249,31 Jul 2021,v Fire,Cardiff,1,2,2,0,0,2
+457249,5 Aug 2021,v Brave,Manchester,-,TDNF,-,-,-,-
+457249,10 Aug 2021,v Spirit,Manchester,1,0,0,0,0,0
+457249,12 Aug 2021,v N S-Chargers,Leeds,1,1,1,0,0,1
+457249,15 Aug 2021,v Rockets,Nottingham,2,1,1,0,0,1
+457249,27 Aug 2021,v Kings,Basseterre,2,1,1,0,0,1
+457249,28 Aug 2021,v Royals,Basseterre,1,1,1,0,0,1
+457249,31 Aug 2021,v Royals,Basseterre,1,1,1,0,0,1
+457249,1 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+457249,5 Sep 2021,v Trinbago,Basseterre,2,0,0,0,0,0
+457249,7 Sep 2021,v Trinbago,Basseterre,1,1,1,0,0,1
+457249,8 Sep 2021,v Patriots,Basseterre,2,0,0,0,0,0
+457249,9 Sep 2021,v Kings,Basseterre,2,1,1,0,0,1
+457249,11 Sep 2021,v Amazon,Basseterre,1,0,0,0,0,0
+457249,12 Sep 2021,v Amazon,Basseterre,1,0,0,0,0,0
+457249,26 May 2022,v Northants,Birmingham,2,0,0,0,0,0
+457249,27 May 2022,v Derbyshire,Derby,2,2,2,0,0,2
+457249,29 May 2022,v Durham,Birmingham,1,0,0,0,0,0
+457249,2 Jun 2022,v Leics,Birmingham,1,1,1,0,0,1
+457249,3 Jun 2022,v Worcs,Worcester,1,1,1,0,0,1
+457249,5 Jun 2022,v Notts,Birmingham,2,0,0,0,0,0
+457249,8 Jun 2022,v Durham,Chester-le-Street,1,0,0,0,0,0
+457249,10 Jun 2022,v Yorkshire,Birmingham,2,0,0,0,0,0
+457249,17 Jun 2022,v Notts,Nottingham,2,1,1,0,0,1
+457249,19 Jun 2022,v Derbyshire,Birmingham,2,0,0,0,0,0
+457249,22 Jun 2022,v Northants,Northampton,1,0,0,0,0,0
+457249,24 Jun 2022,v Worcs,Birmingham,2,1,1,0,0,1
+457249,1 Jul 2022,v Yorkshire,Leeds,2,2,2,0,0,2
+457249,3 Jul 2022,v Lancashire,Manchester,2,1,1,0,0,1
+457249,7 Jul 2022,v Hampshire,Birmingham,1,0,0,0,0,0
+457249,6 Dec 2022,v Stars,Hambantota,2,0,0,0,0,0
+457249,7 Dec 2022,v Galle,Hambantota,1,0,0,0,0,0
+457249,10 Dec 2022,v Jaffna Kings,Pallekele,1,0,0,0,0,0
+457249,12 Dec 2022,v Galle,Pallekele,1,0,0,0,0,0
+457249,13 Dec 2022,v Aura,Pallekele,2,0,0,0,0,0
+457249,14 Dec 2022,v Jaffna Kings,Pallekele,2,0,0,0,0,0
+457249,21 Dec 2022,v Jaffna Kings,Colombo (RPS),2,0,0,0,0,0
+457249,22 Dec 2022,v Stars,Colombo (RPS),2,0,0,0,0,0
+457249,17 Feb 2023,v Zalmi,Multan,2,1,1,0,0,1
+457249,19 Feb 2023,v United,Multan,2,0,0,0,0,0
+457249,22 Feb 2023,v Kings,Multan,2,0,0,0,0,0
+457249,26 Feb 2023,v Kings,Karachi,1,0,0,0,0,0
+457249,3 Sep 2023,v Patriots,Bridgetown,1,0,0,0,0,0
+457249,10 Sep 2023,v Amazon,Tarouba,1,2,2,0,0,2
+457249,17 Sep 2023,v Amazon,Providence,1,0,0,0,0,0
+457249,27 Jan 2024,v DC,Sharjah,1,1,1,0,0,1
+457249,31 Jan 2024,v KnightRiders,Abu Dhabi,2,1,1,0,0,1
+457249,3 Feb 2024,v Vipers,Dubai (DICS),2,1,1,0,0,1
+457249,15 Feb 2024,v DC,Sharjah,2,0,0,0,0,0
+457249,19 Feb 2024,v Gladiators,Lahore,2,0,0,0,0,0
+457249,21 Feb 2024,v Sultans,Multan,2,0,0,0,0,0
+457249,25 Feb 2024,v Zalmi,Lahore,1,0,0,0,0,0
+457249,27 Feb 2024,v Sultans,Lahore,1,0,0,0,0,0
+457249,26 Nov 2024,v Amazon,Providence,2,1,1,0,0,1
+457249,30 Nov 2024,v Hampshire,Providence,2,0,0,0,0,0
+457249,3 Dec 2024,v Victoria,Providence,2,0,0,0,0,0
+457249,5 Dec 2024,v Rangpur,Providence,1,0,0,0,0,0

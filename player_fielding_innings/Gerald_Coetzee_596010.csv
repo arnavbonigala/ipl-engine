@@ -1,0 +1,83 @@
+player_id,start_date,opposition,ground,innings,dismissals,catches,stumpings,ct_wk,ct_fi
+596010,12 Apr 2019,v Lions,Potchefstroom,1,2,2,0,0,2
+596010,14 Apr 2019,v Titans,Kimberley,1,0,0,0,0,0
+596010,16 Apr 2019,v Cape Cobras,Cape Town,1,0,0,0,0,0
+596010,26 Apr 2019,v Titans,Centurion,2,0,0,0,0,0
+596010,14 Nov 2019,v Blitz,Cape Town,1,0,0,0,0,0
+596010,16 Nov 2019,v Giants,Johannesburg,2,0,0,0,0,0
+596010,23 Feb 2021,v Lions,Durban,2,0,0,0,0,0
+596010,25 Feb 2021,v Warriors,Durban,1,0,0,0,0,0
+596010,28 Sep 2021,v Titans,Bloemfontein,1,1,1,0,0,1
+596010,29 Sep 2021,v KZN-Inland,Bloemfontein,2,2,2,0,0,2
+596010,19 Oct 2021,v W Province,Kimberley,2,0,0,0,0,0
+596010,21 Oct 2021,v North West,Kimberley,2,0,0,0,0,0
+596010,22 Oct 2021,v Dolphins,Kimberley,2,0,0,0,0,0
+596010,10 Feb 2022,v North West,Gqeberha,2,0,0,0,0,0
+596010,14 Feb 2022,v Warriors,Gqeberha,1,0,0,0,0,0
+596010,18 Feb 2022,v W Province,Gqeberha,2,0,0,0,0,0
+596010,22 Feb 2022,v Boland,Gqeberha,2,0,0,0,0,0
+596010,2 May 2022,v Zimbabwe XI,Harare,1,1,1,0,0,1
+596010,4 May 2022,v Zimbabwe XI,Harare,2,1,1,0,0,1
+596010,8 May 2022,v Zimbabwe XI,Harare,1,0,0,0,0,0
+596010,10 May 2022,v Zimbabwe XI,Harare,2,0,0,0,0,0
+596010,18 Oct 2022,v Warriors,Potchefstroom,1,0,0,0,0,0
+596010,20 Oct 2022,v W Province,Potchefstroom,1,0,0,0,0,0
+596010,23 Oct 2022,v Lions,Potchefstroom,-,TDNF,-,-,-,-
+596010,26 Oct 2022,v Boland,Potchefstroom,2,1,1,0,0,1
+596010,28 Oct 2022,v Dolphins,Potchefstroom,-,TDNF,-,-,-,-
+596010,31 Oct 2022,v Titans,Potchefstroom,1,1,1,0,0,1
+596010,1 Nov 2022,v North West,Potchefstroom,1,0,0,0,0,0
+596010,2 Nov 2022,v Titans,Potchefstroom,1,1,1,0,0,1
+596010,14 Jan 2023,v MI Cape Town,Cape Town,2,0,0,0,0,0
+596010,17 Jan 2023,v Capitals,Johannesburg,2,0,0,0,0,0
+596010,18 Jan 2023,v Capitals,Centurion,2,0,0,0,0,0
+596010,21 Jan 2023,v Sunrisers,Gqeberha,1,0,0,0,0,0
+596010,24 Jan 2023,v Super Giants,Johannesburg,1,0,0,0,0,0
+596010,3 Feb 2023,v Paarl Royals,Johannesburg,1,0,0,0,0,0
+596010,5 Feb 2023,v Sunrisers,Johannesburg,2,0,0,0,0,0
+596010,6 Feb 2023,v MI Cape Town,Johannesburg,2,1,1,0,0,1
+596010,9 Feb 2023,v Sunrisers,Centurion,1,0,0,0,0,0
+596010,30 Aug 2023,v Australia,Durban,1,0,0,0,0,0
+596010,1 Sep 2023,v Australia,Durban,2,0,0,0,0,0
+596010,3 Sep 2023,v Australia,Durban,2,1,1,0,0,1
+596010,12 Dec 2023,v India,Gqeberha,1,0,0,0,0,0
+596010,24 Mar 2024,v GT,Ahmedabad,1,0,0,0,0,0
+596010,27 Mar 2024,v SRH,Hyderabad,1,0,0,0,0,0
+596010,1 Apr 2024,v RR,Wankhede,2,0,0,0,0,0
+596010,7 Apr 2024,v DC,Wankhede,2,0,0,0,0,0
+596010,11 Apr 2024,v RCB,Wankhede,1,0,0,0,0,0
+596010,14 Apr 2024,v CSK,Wankhede,1,0,0,0,0,0
+596010,18 Apr 2024,v Punjab Kings,New Chandigarh,2,1,1,0,0,1
+596010,22 Apr 2024,v RR,Jaipur,2,0,0,0,0,0
+596010,30 Apr 2024,v LSG,Lucknow,2,0,0,0,0,0
+596010,3 May 2024,v KKR,Wankhede,1,1,1,0,0,1
+596010,23 May 2024,v West Indies,Kingston,1,0,0,0,0,0
+596010,26 May 2024,v West Indies,Kingston,2,0,0,0,0,0
+596010,5 Jul 2024,v Los Angeles,Dallas,1,1,1,0,0,1
+596010,13 Oct 2024,v Knights,Centurion,1,1,1,0,0,1
+596010,15 Oct 2024,v North West,Centurion,-,TDNF,-,-,-,-
+596010,22 Oct 2024,v Lions,Johannesburg,2,0,0,0,0,0
+596010,25 Oct 2024,v W Province,Centurion,2,0,0,0,0,0
+596010,27 Oct 2024,v Lions,Johannesburg,2,0,0,0,0,0
+596010,8 Nov 2024,v India,Durban,1,0,0,0,0,0
+596010,10 Nov 2024,v India,Gqeberha,1,1,1,0,0,1
+596010,13 Nov 2024,v India,Centurion,1,0,0,0,0,0
+596010,15 Nov 2024,v India,Johannesburg,1,0,0,0,0,0
+596010,14 Jan 2025,v Super Giants,Durban,2,0,0,0,0,0
+596010,2 May 2025,v SRH,Ahmedabad,2,0,0,0,0,0
+596010,6 May 2025,v MI,Wankhede,1,0,0,0,0,0
+596010,25 May 2025,v CSK,Ahmedabad,1,1,1,0,0,1
+596010,30 May 2025,v MI,New Chandigarh,1,1,1,0,0,1
+596010,22 Jun 2025,v Los Angeles,Dallas,2,0,0,0,0,0
+596010,25 Jun 2025,v SF,Dallas,1,0,0,0,0,0
+596010,27 Jun 2025,v MI New York,Dallas,1,0,0,0,0,0
+596010,1 Jul 2025,v SF,Lauderhill,1,0,0,0,0,0
+596010,4 Jul 2025,v Washington,Lauderhill,2,0,0,0,0,0
+596010,16 Jul 2025,v New Zealand,Harare,1,0,0,0,0,0
+596010,22 Jul 2025,v New Zealand,Harare,2,0,0,0,0,0
+596010,11 Oct 2025,v Namibia,Windhoek,2,0,0,0,0,0
+596010,7 Jan 2026,v Capitals,Durban,1,0,0,0,0,0
+596010,11 Jan 2026,v Sunrisers,Gqeberha,1,0,0,0,0,0
+596010,17 Jan 2026,v Paarl Royals,Durban,2,0,0,0,0,0
+596010,15 Mar 2026,v New Zealand,Mount Maunganui,1,0,0,0,0,0
+596010,17 Mar 2026,v New Zealand,Hamilton,1,0,0,0,0,0
