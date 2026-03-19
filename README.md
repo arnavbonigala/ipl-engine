@@ -19,13 +19,13 @@ Each holdout year is predicted using a model trained exclusively on prior season
 All data comes from ESPNCricinfo via the [`cricdata`](https://pypi.org/project/cricdata/) Python client. The pipeline fetches match metadata, full ball-by-ball deliveries, T20 career innings for every player who appeared, player bios, match weather, captaincy records, and innings-level fielding stats.
 
 ```
-fetch_data.py              → master_matches.csv, matches/, player_innings/
-fetch_bios.py              → player_bios.csv
-fetch_weather.py           → match_weather.csv
-fetch_captains.py          → match_captains.csv
-fetch_fielding.py          → player_fielding.csv
-fetch_fielding_innings.py  → player_fielding_innings/
-predictor/build_dataset.py → dataset.csv (704 matches × 284 features)
+scripts/fetch_data.py              → data/master_matches.csv, data/matches/, data/player_innings/
+scripts/fetch_bios.py              → data/player_bios.csv
+scripts/fetch_weather.py           → data/match_weather.csv
+scripts/fetch_captains.py          → data/match_captains.csv
+scripts/fetch_fielding.py          → data/player_fielding.csv
+scripts/fetch_fielding_innings.py  → data/player_fielding_innings/
+predictor/build_dataset.py         → data/dataset.csv (704 matches × 284 features)
 ```
 
 ### Feature engineering
@@ -103,31 +103,33 @@ With publicly available pre-match data and ~200 training samples, 78--79% appear
 ## Project Structure
 
 ```
-├── fetch_data.py              # Fetch matches, ball-by-ball, player innings
-├── fetch_bios.py              # Fetch player bios
-├── fetch_weather.py           # Fetch weather and day/night data
-├── fetch_captains.py          # Fetch captain information
-├── fetch_fielding.py          # Fetch career fielding stats
-├── fetch_fielding_innings.py  # Fetch innings-level fielding data
-├── master_matches.csv         # 716 IPL matches 2015-2025
-├── matches/                   # 716 ball-by-ball CSVs
-├── player_innings/            # 506 player T20 career files
-├── player_bios.csv            # Player metadata
-├── match_weather.csv          # Weather and time data
-├── match_captains.csv         # Captain data
-├── player_fielding.csv        # Career fielding stats
-├── player_fielding_innings/   # 506 innings-level fielding CSVs
-├── dataset.csv                # 704 matches × 284 features
-├── models/
-│   ├── model.pkl              # Stacked ensemble (4 base LRs + meta-learner)
-│   └── bundle.json            # Feature sets, hyperparameters, config
+├── data/
+│   ├── master_matches.csv         # 716 IPL matches 2015-2025
+│   ├── player_bios.csv            # Player metadata
+│   ├── match_weather.csv          # Weather and time data
+│   ├── match_captains.csv         # Captain data
+│   ├── player_fielding.csv        # Career fielding stats
+│   ├── dataset.csv                # 704 matches × 284 features
+│   ├── matches/                   # 716 ball-by-ball CSVs
+│   ├── player_innings/            # 506 player T20 career files
+│   └── player_fielding_innings/   # 506 innings-level fielding CSVs
+├── scripts/
+│   ├── fetch_data.py              # Fetch matches, ball-by-ball, player innings
+│   ├── fetch_bios.py              # Fetch player bios
+│   ├── fetch_weather.py           # Fetch weather and day/night data
+│   ├── fetch_captains.py          # Fetch captain information
+│   ├── fetch_fielding.py          # Fetch career fielding stats
+│   └── fetch_fielding_innings.py  # Fetch innings-level fielding data
 ├── predictor/
-│   ├── normalize.py           # Team name normalization, result parsing
-│   ├── playing_xi.py          # Extract playing XIs from ball-by-ball data
-│   ├── features.py            # Feature builders
-│   ├── build_dataset.py       # Dataset construction with strict time ordering
-│   ├── train.py               # Training, holdout evaluation, model export
-│   └── predict.py             # Match prediction CLI
+│   ├── normalize.py               # Team name normalization, result parsing
+│   ├── playing_xi.py              # Extract playing XIs from ball-by-ball data
+│   ├── features.py                # Feature builders
+│   ├── build_dataset.py           # Dataset construction with strict time ordering
+│   ├── train.py                   # Training, holdout evaluation, model export
+│   └── predict.py                 # Match prediction CLI
+├── models/
+│   ├── model.pkl                  # Stacked ensemble (4 base LRs + meta-learner)
+│   └── bundle.json                # Feature sets, hyperparameters, config
 └── requirements.txt
 ```
 
@@ -144,12 +146,12 @@ pip install -r requirements.txt
 ### Fetch data
 
 ```bash
-python fetch_data.py
-python fetch_bios.py
-python fetch_weather.py
-python fetch_captains.py
-python fetch_fielding.py
-python fetch_fielding_innings.py
+python scripts/fetch_data.py
+python scripts/fetch_bios.py
+python scripts/fetch_weather.py
+python scripts/fetch_captains.py
+python scripts/fetch_fielding.py
+python scripts/fetch_fielding_innings.py
 ```
 
 ### Build dataset and train

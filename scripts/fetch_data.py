@@ -10,10 +10,11 @@ from pathlib import Path
 
 from cricdata import AsyncCricinfoClient
 
-ROOT = Path(__file__).parent
-MATCHES_DIR = ROOT / "matches"
-PLAYER_DIR = ROOT / "player_innings"
-MASTER_CSV = ROOT / "master_matches.csv"
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "data"
+MATCHES_DIR = DATA_DIR / "matches"
+PLAYER_DIR = DATA_DIR / "player_innings"
+MASTER_CSV = DATA_DIR / "master_matches.csv"
 
 IPL_SERIES = {
     2015: "pepsi-indian-premier-league-2015-791129",

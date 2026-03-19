@@ -5,6 +5,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "data"
 
 TEAM_CANONICAL = {
     "Delhi Daredevils": "Delhi Capitals",
@@ -101,7 +102,7 @@ def parse_result(result_text: str) -> dict:
 def load_matches() -> list[dict]:
     """Load master_matches.csv, normalize teams, parse results, filter invalid."""
     rows = []
-    with open(ROOT / "master_matches.csv") as f:
+    with open(DATA_DIR / "master_matches.csv") as f:
         for row in csv.DictReader(f):
             row["team1"] = normalize_team(row["team1"])
             row["team2"] = normalize_team(row["team2"])

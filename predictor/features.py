@@ -13,12 +13,12 @@ from pathlib import Path
 import re
 
 from predictor.normalize import (
-    ROOT, normalize_team, is_home, OPP_ABBREV, TEAM_HOME_CITIES,
+    ROOT, DATA_DIR, normalize_team, is_home, OPP_ABBREV, TEAM_HOME_CITIES,
 )
 
-MATCHES_DIR = ROOT / "matches"
-PLAYER_DIR = ROOT / "player_innings"
-BIOS_PATH = ROOT / "player_bios.csv"
+MATCHES_DIR = DATA_DIR / "matches"
+PLAYER_DIR = DATA_DIR / "player_innings"
+BIOS_PATH = DATA_DIR / "player_bios.csv"
 
 _IPL_OPPOSITIONS = set(OPP_ABBREV.keys())
 

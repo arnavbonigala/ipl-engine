@@ -7,15 +7,15 @@ import time
 from collections import defaultdict
 from pathlib import Path
 
-from predictor.normalize import load_matches, normalize_team, ROOT
+from predictor.normalize import load_matches, normalize_team, ROOT, DATA_DIR
 from predictor.playing_xi import extract_all_xis
 from predictor.features import build_match_features, update_elo, _load_bbb
 
-DATASET_PATH = ROOT / "dataset.csv"
-WEATHER_CSV = ROOT / "match_weather.csv"
-CAPTAINS_CSV = ROOT / "match_captains.csv"
-FIELDING_CSV = ROOT / "player_fielding.csv"
-FIELDING_INNINGS_DIR = ROOT / "player_fielding_innings"
+DATASET_PATH = DATA_DIR / "dataset.csv"
+WEATHER_CSV = DATA_DIR / "match_weather.csv"
+CAPTAINS_CSV = DATA_DIR / "match_captains.csv"
+FIELDING_CSV = DATA_DIR / "player_fielding.csv"
+FIELDING_INNINGS_DIR = DATA_DIR / "player_fielding_innings"
 
 
 def _load_weather() -> dict[str, dict]:

@@ -9,9 +9,10 @@ from pathlib import Path
 
 from cricdata import AsyncCricinfoClient
 
-ROOT = Path(__file__).parent
-BIOS_CSV = ROOT / "player_bios.csv"
-OUT_DIR = ROOT / "player_fielding_innings"
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "data"
+BIOS_CSV = DATA_DIR / "player_bios.csv"
+OUT_DIR = DATA_DIR / "player_fielding_innings"
 OUT_DIR.mkdir(exist_ok=True)
 
 CONCURRENCY = 5

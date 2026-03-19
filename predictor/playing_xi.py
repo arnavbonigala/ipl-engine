@@ -4,7 +4,7 @@ import csv
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MATCHES_DIR = ROOT / "matches"
+MATCHES_DIR = ROOT / "data" / "matches"
 
 
 def extract_xi(match_id: str) -> tuple[dict[str, str], dict[str, str]]:
