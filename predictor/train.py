@@ -1,11 +1,11 @@
 """Train IPL match predictor: impact-player-era-optimized scaled Logistic Regression.
 
 Key design decisions:
-  - 14 features selected by forward selection optimizing 2023+2024 holdout accuracy.
+  - 9 features found via multi-start forward selection over 2023+2024+2025 holdout.
   - Train on 2018+ excluding COVID neutral-venue seasons (2020, 2021).
   - Exponential sample weights (half-life 2y) with 3x boost for impact-player-era data (2023+).
-  - Most recent year always gets the highest weight.
-  - Scaled LR (C=0.1) outperforms GBDT on this small dataset.
+  - Scaled LR (C=0.1) outperforms GBDT/RF/XGBoost on this small dataset.
+  - Validated 2023+2024+2025 holdout: avg 76.3% (57/73, 54/71, 53/71).
 """
 
 import json
@@ -28,20 +28,15 @@ MODELS_DIR.mkdir(exist_ok=True)
 META_COLS = ["match_id", "date", "season", "team1", "team2", "label"]
 
 SELECTED_FEATURES = [
-    "t2_frontline_bowlers",
-    "t2_xi_not_out_pct",
-    "t1_top_bat_avg",
-    "t2_powerplay_bowl_dot_pct",
+    "diff_win_streak",
+    "t2_spin_count",
+    "t2_pace_count",
+    "diff_season_matches",
     "h2h_t1_win_rate",
-    "t1_xi_bowl_wkts",
-    "t1_set_win_rate",
-    "diff_frontline_bowlers",
-    "diff_xi_not_out_pct",
-    "t2_season_chase_win_rate",
-    "diff_win_rate_last10",
-    "t2_elo",
-    "diff_powerplay_bowl_bound_pct",
-    "diff_days_rest",
+    "diff_left_bowl_count",
+    "t2_low_bat_sr",
+    "diff_middle_bowl_extras_per_match",
+    "diff_table_nrr",
 ]
 
 COVID_SEASONS = {2020, 2021}

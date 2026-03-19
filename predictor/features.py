@@ -10,6 +10,8 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
 
+import re
+
 from predictor.normalize import (
     ROOT, normalize_team, is_home, OPP_ABBREV, TEAM_HOME_CITIES,
 )
@@ -17,6 +19,12 @@ from predictor.normalize import (
 MATCHES_DIR = ROOT / "matches"
 PLAYER_DIR = ROOT / "player_innings"
 BIOS_PATH = ROOT / "player_bios.csv"
+
+_IPL_OPPOSITIONS = set(OPP_ABBREV.keys())
+
+
+def _is_ipl_innings(inn: dict) -> bool:
+    return inn.get("opposition", "") in _IPL_OPPOSITIONS
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -586,6 +594,11 @@ def player_xi_features(
     pace_count = 0
     left_bat = 0
     left_bowl = 0
+    specialist_bat = 0
+    wk_bat = 0
+    bowling_ar = 0
+    batting_ar = 0
+    allrounder = 0
 
     for pid, pname in xi.items():
         bf = _player_batting_form(pid, before_date)
@@ -610,6 +623,18 @@ def player_xi_features(
             left_bat += 1
         if "left" in bio.get("bowl_style", "").lower():
             left_bowl += 1
+
+        role = bio.get("role", "")
+        if role in ("Opening batter", "Top-order batter", "Middle-order batter", "Batter"):
+            specialist_bat += 1
+        elif role in ("Wicketkeeper batter", "Wicketkeeper"):
+            wk_bat += 1
+        elif role == "Bowling allrounder":
+            bowling_ar += 1
+        elif role == "Batting allrounder":
+            batting_ar += 1
+        elif role == "Allrounder":
+            allrounder += 1
 
     feats = {}
 
@@ -660,7 +685,49 @@ def player_xi_features(
     feats[f"{prefix}left_bat_count"] = left_bat
     feats[f"{prefix}left_bowl_count"] = left_bowl
 
+    # Role balance
+    feats[f"{prefix}specialist_bat"] = specialist_bat
+    feats[f"{prefix}wk_bat"] = wk_bat
+    feats[f"{prefix}bowling_ar"] = bowling_ar
+    feats[f"{prefix}batting_ar"] = batting_ar
+    feats[f"{prefix}allrounder"] = allrounder
+    feats[f"{prefix}specialist_bowler"] = len([f for f in bowl_forms if f["is_regular_bowler"]]) - bowling_ar
+
     return feats
+
+
+# ---------------------------------------------------------------------------
+# Boundary size lookup (straight boundary in meters, approximate)
+# ---------------------------------------------------------------------------
+
+_BOUNDARY_SIZES = {
+    "Mumbai": 66,         # Wankhede
+    "Bengaluru": 62,      # Chinnaswamy
+    "Kolkata": 75,        # Eden Gardens
+    "Delhi": 64,          # Feroz Shah Kotla / Arun Jaitley
+    "Chennai": 70,        # Chepauk
+    "Hyderabad": 72,      # Rajiv Gandhi / Uppal
+    "Jaipur": 68,         # Sawai Mansingh
+    "Mohali": 72,         # IS Bindra / PCA
+    "New Chandigarh": 72, # Mullanpur
+    "Pune": 70,           # MCA
+    "Ahmedabad": 78,      # Narendra Modi / Motera
+    "Lucknow": 72,        # Ekana
+    "Visakhapatnam": 70,  # ACA-VDCA
+    "Rajkot": 70,         # Saurashtra
+    "Indore": 68,         # Holkar
+    "Guwahati": 68,       # Barsapara
+    "Dharamsala": 62,     # HPCA
+    "Navi Mumbai": 70,    # DY Patil
+    "Raipur": 70,         # VNS International
+    "Kanpur": 68,         # Green Park
+    "Ranchi": 68,         # JSCA
+    "Dubai": 72,          # Dubai International
+    "Abu Dhabi": 72,      # Zayed / Sheikh Zayed
+    "Sharjah": 60,        # Sharjah Cricket Stadium
+}
+
+_DEFAULT_BOUNDARY = 70
 
 
 # ---------------------------------------------------------------------------
@@ -683,6 +750,7 @@ def venue_features(
             "venue_chase_win_rate": 0.5,
             "venue_bat_first_win_rate": 0.5,
             "venue_matches_count": 0,
+            "venue_boundary_size": _BOUNDARY_SIZES.get(city, _DEFAULT_BOUNDARY),
         }
 
     # Compute avg 1st innings total from BBB
@@ -716,11 +784,14 @@ def venue_features(
     bat_first_matches = [m for m in venue_matches if m["toss_decision"] == "bat"]
     bat_first_wins = sum(1 for m in bat_first_matches if m["winner"] == m["toss_winner"])
 
+    boundary = _BOUNDARY_SIZES.get(city, _DEFAULT_BOUNDARY)
+
     return {
         "venue_avg_1st_total": _mean(first_totals, 160.0),
         "venue_chase_win_rate": chase_wins / chase_total if chase_total else 0.5,
         "venue_bat_first_win_rate": bat_first_wins / len(bat_first_matches) if bat_first_matches else 0.5,
         "venue_matches_count": len(venue_matches),
+        "venue_boundary_size": boundary,
     }
 
 
@@ -775,7 +846,24 @@ def context_features(match: dict, prior_matches: list[dict]) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# J. Difference features
+# J. Phase matchup advantages (batting strength vs opposing bowling weakness)
+# ---------------------------------------------------------------------------
+
+def phase_matchup_features(feats: dict) -> dict:
+    """Cross-team matchups: team1 batting RR vs team2 bowling RR per phase."""
+    matchup = {}
+    for phase in ("powerplay", "middle", "death"):
+        t1_bat = feats.get(f"t1_{phase}_bat_rr", 0)
+        t2_bowl = feats.get(f"t2_{phase}_bowl_rr", 0)
+        t2_bat = feats.get(f"t2_{phase}_bat_rr", 0)
+        t1_bowl = feats.get(f"t1_{phase}_bowl_rr", 0)
+        matchup[f"t1_{phase}_matchup"] = t1_bat - t2_bowl
+        matchup[f"t2_{phase}_matchup"] = t2_bat - t1_bowl
+    return matchup
+
+
+# ---------------------------------------------------------------------------
+# K. Difference features
 # ---------------------------------------------------------------------------
 
 def add_diff_features(feats: dict) -> dict:
@@ -847,7 +935,16 @@ def build_match_features(
     # I. Context
     feats.update(context_features(match, prior_matches))
 
-    # J. Diffs
+    # Playoff flag
+    mn = match.get("match_number", "")
+    feats["is_playoff"] = 1 if any(
+        k in mn for k in ("Qualifier", "Eliminator", "Final")
+    ) else 0
+
+    # J. Phase matchups (cross-team bat vs bowl)
+    feats.update(phase_matchup_features(feats))
+
+    # K. Diffs
     feats = add_diff_features(feats)
 
     return feats
