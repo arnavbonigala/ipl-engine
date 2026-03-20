@@ -1,0 +1,1074 @@
+{
+  "1473439": {
+    "match_id": "1473439",
+    "date": "2025-03-23",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals",
+    "event_id": "21391",
+    "title": "Sunrisers Hyderabad vs Rajasthan Royals",
+    "slug": "sunrisers-hyderabad-vs-rajasthan-royals",
+    "t1_token": "95848662211041406993016723176790757281051109950362803906388198337852140499061",
+    "t2_token": "12410525367966860513356367614696384437062724464409155781666980482351247836175",
+    "outcomes": [
+      "Hyderabad",
+      "Rajasthan"
+    ],
+    "volume": 2449.280418
+  },
+  "1473440": {
+    "match_id": "1473440",
+    "date": "2025-03-23",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "event_id": "21392",
+    "title": "Chennai Super Kings vs. Mumbai Indians",
+    "slug": "chennai-super-kings-vs-mumbai-indians",
+    "t1_token": "51429528773034233817461996759690890217820889820205884981657571155270189771648",
+    "t2_token": "45695176990470756340643692376377138873002243222589588738688577160607362105832",
+    "outcomes": [
+      "Chennai",
+      "Mumbai"
+    ],
+    "volume": 6550.886749
+  },
+  "1473441": {
+    "match_id": "1473441",
+    "date": "2025-03-24",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "event_id": "21400",
+    "title": "Delhi Capitals vs Lucknow Super Giants",
+    "slug": "delhi-capitals-vs-lucknow-super-giants",
+    "t1_token": "24148072355742942444479754285459813516801432046335610404654508994261181008565",
+    "t2_token": "30254059799407313100324645871923665962710313622160353716214708993707903445512",
+    "outcomes": [
+      "Delhi",
+      "Lucknow"
+    ],
+    "volume": 42672.190589
+  },
+  "1473442": {
+    "match_id": "1473442",
+    "date": "2025-03-25",
+    "team1": "Punjab Kings",
+    "team2": "Gujarat Titans",
+    "event_id": "21394",
+    "title": "Gujarat Titans vs Punjab Kings",
+    "slug": "gujarat-titans-vs-punjab-kings",
+    "t1_token": "51373686090078948668792538591992054413818026179016381599202925821070126014319",
+    "t2_token": "55341774688816389346992996731670255110559645488766946552682619658306703665560",
+    "outcomes": [
+      "Gujarat",
+      "Punjab"
+    ],
+    "volume": 32560.901927
+  },
+  "1473443": {
+    "match_id": "1473443",
+    "date": "2025-03-26",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "21395",
+    "title": "Rajasthan Royals vs Kolkata Knight Riders",
+    "slug": "rajasthan-royals-vs-kolkata-knight-riders",
+    "t1_token": "81067836879054162172508890953101101121245367465855459807212910347280111489706",
+    "t2_token": "30975800547433359032278264812163111633538736258624919264310834139626048117240",
+    "outcomes": [
+      "Rajasthan",
+      "Kolkata"
+    ],
+    "volume": 38791.443397
+  },
+  "1473444": {
+    "match_id": "1473444",
+    "date": "2025-03-27",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Lucknow Super Giants",
+    "event_id": "21396",
+    "title": "Sunrisers Hyderabad vs Lucknow Super Giants",
+    "slug": "sunrisers-hyderabad-vs-lucknow-super-giants",
+    "t1_token": "105317992397729787103837260228484750452941220638245327339402691544532083240205",
+    "t2_token": "103336001981797354168189064492260139488348241610599247024185471854590110814097",
+    "outcomes": [
+      "Hyderabad",
+      "Lucknow"
+    ],
+    "volume": 43028.674746
+  },
+  "1473445": {
+    "match_id": "1473445",
+    "date": "2025-03-28",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings",
+    "event_id": "21397",
+    "title": "Chennai Super Kings vs Royal Challengers Bangalore",
+    "slug": "chennai-super-kings-vs-royal-challengers-bangalore",
+    "t1_token": "31617731739783278835073091619451857494446467675530137749302174771155178010318",
+    "t2_token": "56225144439666962762547136414631932774741900460892898449148613057566593553346",
+    "outcomes": [
+      "Chennai",
+      "Bangalore"
+    ],
+    "volume": 30124.082187
+  },
+  "1473446": {
+    "match_id": "1473446",
+    "date": "2025-03-29",
+    "team1": "Gujarat Titans",
+    "team2": "Mumbai Indians",
+    "event_id": "21398",
+    "title": "Gujarat Titans vs Mumbai Indians",
+    "slug": "gujarat-titans-vs-mumbai-indians",
+    "t1_token": "20327196650534943673708075281861205738603368410661298652407536838522741193111",
+    "t2_token": "69147311254409268588586471524992887411034130092832267715634208457499612548982",
+    "outcomes": [
+      "Gujarat",
+      "Mumbai"
+    ],
+    "volume": 31635.425135
+  },
+  "1473447": {
+    "match_id": "1473447",
+    "date": "2025-03-30",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Capitals",
+    "event_id": "21399",
+    "title": "Delhi Capitals vs Sunrisers Hyderabad",
+    "slug": "delhi-capitals-vs-sunrisers-hyderabad",
+    "t1_token": "13341975671915536776243649436051217527880753820141943337456280349673446532780",
+    "t2_token": "13849416309016382971320936056065279436802121060857371279251934029686870451405",
+    "outcomes": [
+      "Delhi",
+      "Hyderabad"
+    ],
+    "volume": 14759.56171
+  },
+  "1473450": {
+    "match_id": "1473450",
+    "date": "2025-04-01",
+    "team1": "Lucknow Super Giants",
+    "team2": "Punjab Kings",
+    "event_id": "21719",
+    "title": "Lucknow Super Giants vs. Punjab Kings",
+    "slug": "lucknow-super-giants-vs-punjab-kings",
+    "t1_token": "80963005459225136841085700517724971596670315399766109290341360603752934789631",
+    "t2_token": "27344797067941899509835819929525975504035718025016051253666931376392038982487",
+    "outcomes": [
+      "Lucknow",
+      "Punjab"
+    ],
+    "volume": 22251.832743
+  },
+  "1473451": {
+    "match_id": "1473451",
+    "date": "2025-04-02",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Gujarat Titans",
+    "event_id": "21720",
+    "title": "Royal Challengers Bangalore vs. Gujarat Titans",
+    "slug": "royal-challengers-bangalore-vs-gujarat-titans",
+    "t1_token": "104603263040680619716602927300728259638129517282658457798610628930826920896998",
+    "t2_token": "113600189548471037480777771425582945189527075504969340125568851421959144569776",
+    "outcomes": [
+      "Bangalore",
+      "Gujarat"
+    ],
+    "volume": 17360.686225
+  },
+  "1473452": {
+    "match_id": "1473452",
+    "date": "2025-04-03",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad",
+    "event_id": "21721",
+    "title": "Kolkata Knight Riders vs. Sunrisers Hyderabad",
+    "slug": "kolkata-knight-riders-vs-sunrisers-hyderabad",
+    "t1_token": "53148048105663338442293852151697331499693582785659061234937863291176964750826",
+    "t2_token": "111754762026693745349017862779132035009449243592183450306279986806337568559765",
+    "outcomes": [
+      "Kolkata",
+      "Hyderabad"
+    ],
+    "volume": 10112.77782
+  },
+  "1473453": {
+    "match_id": "1473453",
+    "date": "2025-04-04",
+    "team1": "Lucknow Super Giants",
+    "team2": "Mumbai Indians",
+    "event_id": "21735",
+    "title": "Lucknow Super Giants vs. Mumbai Indians",
+    "slug": "lucknow-super-giants-vs-mumbai-indians",
+    "t1_token": "109674139739121228794722195388415173712639422827050517759415658319870478765079",
+    "t2_token": "34071927766731002353882224545459067700628696311633445357800391895408138877868",
+    "outcomes": [
+      "Lucknow ",
+      "Mumbai"
+    ],
+    "volume": 87298.585351
+  },
+  "1473455": {
+    "match_id": "1473455",
+    "date": "2025-04-05",
+    "team1": "Rajasthan Royals",
+    "team2": "Punjab Kings",
+    "event_id": "21737",
+    "title": "Punjab Kings vs. Rajasthan Royals",
+    "slug": "punjab-kings-vs-rajasthan-royals",
+    "t1_token": "111010482430701579491083587058425448104710852337140432584938613106075724887301",
+    "t2_token": "57420274334233743165760535511917535135730584668754874186001785421086524346569",
+    "outcomes": [
+      "Punjab",
+      "Rajasthan"
+    ],
+    "volume": 7489.365948
+  },
+  "1473454": {
+    "match_id": "1473454",
+    "date": "2025-04-05",
+    "team1": "Delhi Capitals",
+    "team2": "Chennai Super Kings",
+    "event_id": "21736",
+    "title": "Chennai Super Kings vs. Delhi Capitals",
+    "slug": "chennai-super-kings-vs-delhi-capitals",
+    "t1_token": "76250824914319920962317805942238296538661711965283050728915291276385817401229",
+    "t2_token": "56944419204544205411985096722570739958165927766957764946339354523898615283022",
+    "outcomes": [
+      "Chennai",
+      "Delhi"
+    ],
+    "volume": 18368.28365
+  },
+  "1473457": {
+    "match_id": "1473457",
+    "date": "2025-04-06",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Gujarat Titans",
+    "event_id": "21739",
+    "title": "Sunrisers Hyderabad vs. Gujarat Titans",
+    "slug": "sunrisers-hyderabad-vs-gujarat-titans",
+    "t1_token": "104223745235692403542072761645018575171789511860194297558542127408085079562246",
+    "t2_token": "26214209519274085851986862451426739914620377652187398165820080220682217146310",
+    "outcomes": [
+      "Hyderabad ",
+      "Gujarat "
+    ],
+    "volume": 26374.067902
+  },
+  "1473456": {
+    "match_id": "1473456",
+    "date": "2025-04-08",
+    "team1": "Lucknow Super Giants",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "21738",
+    "title": "Kolkata Knight Riders vs. Lucknow Super Giants",
+    "slug": "kolkata-knight-riders-vs-lucknow-super-giants",
+    "t1_token": "45020083512379335123410386093925400901489525586025424887905501914058855227622",
+    "t2_token": "56303228315737524392872610954992330959762749388383917819190521947800026354985",
+    "outcomes": [
+      "Kolkata ",
+      "Lucknow"
+    ],
+    "volume": 33793.409413
+  },
+  "1473459": {
+    "match_id": "1473459",
+    "date": "2025-04-08",
+    "team1": "Punjab Kings",
+    "team2": "Chennai Super Kings",
+    "event_id": "22244",
+    "title": "Punjab Kings vs. Chennai Super Kings",
+    "slug": "punjab-kings-vs-chennai-super-kings",
+    "t1_token": "36125793716625406844707187267536523658492846740085947414899404584441176386816",
+    "t2_token": "41184728840660536279592839478514735929883291575834041019772574994654738696496",
+    "outcomes": [
+      "Punjab",
+      "Chennai "
+    ],
+    "volume": 21762.987573
+  },
+  "1473460": {
+    "match_id": "1473460",
+    "date": "2025-04-09",
+    "team1": "Gujarat Titans",
+    "team2": "Rajasthan Royals",
+    "event_id": "22251",
+    "title": "Gujarat Titans vs. Rajasthan Royals",
+    "slug": "gujarat-titans-vs-rajasthan-royals",
+    "t1_token": "108811800426935624994606766724959486831963763831707402652823975327002036005241",
+    "t2_token": "88621023902310671435456516110403773984539133376180741854160988312832851285721",
+    "outcomes": [
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "volume": 44331.573969
+  },
+  "1473461": {
+    "match_id": "1473461",
+    "date": "2025-04-10",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Delhi Capitals",
+    "event_id": "22573",
+    "title": "Royal Challengers Bangalore vs. Delhi Capitals",
+    "slug": "ipl-rcb-dc-2025-04-10",
+    "t1_token": "41363698655058305373915153032221590179773817156364302561170733484052589718291",
+    "t2_token": "57342848736905069705514755684727167194895495878706880172717423679472919326518",
+    "outcomes": [
+      "Royal Challengers Bangalore",
+      "Delhi Capitals"
+    ],
+    "volume": 0
+  },
+  "1473462": {
+    "match_id": "1473462",
+    "date": "2025-04-11",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "22574",
+    "title": "Chennai Super Kings vs. Kolkata Knight Riders",
+    "slug": "ipl-csk-kkr-2025-04-11",
+    "t1_token": "65304499673898026423787433642833653457495573160703836289625695608988395624519",
+    "t2_token": "15868915859991298401552465889718512571911261391473766878995853034519353090106",
+    "outcomes": [
+      "Chennai Super Kings",
+      "Kolkata Knight Riders"
+    ],
+    "volume": 19.9809
+  },
+  "1473463": {
+    "match_id": "1473463",
+    "date": "2025-04-12",
+    "team1": "Gujarat Titans",
+    "team2": "Lucknow Super Giants",
+    "event_id": "22603",
+    "title": "Lucknow Super Giants vs. Gujarat Titans",
+    "slug": "ipl-lsg-gt-2025-04-12",
+    "t1_token": "76196042965302976575774245386145129085362859393777867886268596786969699779120",
+    "t2_token": "7288576018431600085931010131888951969604084827801972230867680680540354665078",
+    "outcomes": [
+      "Lucknow Super Giants",
+      "Gujarat Titans"
+    ],
+    "volume": 0
+  },
+  "1473464": {
+    "match_id": "1473464",
+    "date": "2025-04-12",
+    "team1": "Punjab Kings",
+    "team2": "Sunrisers Hyderabad",
+    "event_id": "22604",
+    "title": "Sunrisers Hyderabad vs. Punjab Kings",
+    "slug": "ipl-srh-pbks-2025-04-12",
+    "t1_token": "33280890979543610295353331671121604408678028391570785524148526768957590693645",
+    "t2_token": "56780355826491635027023539710917598283133409116644836090730438124574061661071",
+    "outcomes": [
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
+    ],
+    "volume": 0
+  },
+  "1473465": {
+    "match_id": "1473465",
+    "date": "2025-04-13",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "22743",
+    "title": "Rajasthan Royals vs. Royal Challengers Bangalore",
+    "slug": "ipl-rr-rcb-2025-04-13",
+    "t1_token": "69984153169478930948994052207871787046849494692430145017113861005589158669206",
+    "t2_token": "85671798463628397044661801330322045015865081285004638015045746575319228305265",
+    "outcomes": [
+      "Rajasthan Royals",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 0
+  },
+  "1473466": {
+    "match_id": "1473466",
+    "date": "2025-04-13",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "event_id": "22744",
+    "title": "Delhi Capitals vs. Mumbai Indians",
+    "slug": "ipl-dc-mi-2025-04-13",
+    "t1_token": "62556492089979349620546081356111999739535510380054950810997736360322688204154",
+    "t2_token": "17253229300055119182327541893098265303075751060820951847272261756453343032159",
+    "outcomes": [
+      "Delhi Capitals",
+      "Mumbai Indians"
+    ],
+    "volume": 0
+  },
+  "1473467": {
+    "match_id": "1473467",
+    "date": "2025-04-14",
+    "team1": "Lucknow Super Giants",
+    "team2": "Chennai Super Kings",
+    "event_id": "22745",
+    "title": "Lucknow Super Giants vs. Chennai Super Kings",
+    "slug": "ipl-lsg-csk-2025-04-14",
+    "t1_token": "68250705175241345138518260433785469429999903449237535128352010760602081405615",
+    "t2_token": "108626712614169978656974089399882329566834381677272749130254388277953728972029",
+    "outcomes": [
+      "Lucknow Super Giants",
+      "Chennai Super Kings"
+    ],
+    "volume": 6866.203391
+  },
+  "1473468": {
+    "match_id": "1473468",
+    "date": "2025-04-15",
+    "team1": "Punjab Kings",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "22761",
+    "title": "Punjab Kings vs. Kolkata Knight Riders",
+    "slug": "ipl-pbks-kkr-2025-04-15",
+    "t1_token": "3549912625857045818413938312566530726508983069820223632089112304116952291546",
+    "t2_token": "50670916061798199550932371609960287157225867017654657992285042908782917785915",
+    "outcomes": [
+      "Punjab Kings",
+      "Kolkata Knight Riders"
+    ],
+    "volume": 34060.028582
+  },
+  "1473469": {
+    "match_id": "1473469",
+    "date": "2025-04-16",
+    "team1": "Delhi Capitals",
+    "team2": "Rajasthan Royals",
+    "event_id": "22824",
+    "title": "Delhi Capitals vs. Rajasthan Royals",
+    "slug": "ipl-dc-rr-2025-04-16",
+    "t1_token": "29953287827722880664014984052010906146884671589911719085511467370018376905740",
+    "t2_token": "105647219134332333830996667377739983852673649044792739092815892438382768764064",
+    "outcomes": [
+      "Delhi Capitals",
+      "Rajasthan Royals"
+    ],
+    "volume": 23913.187223
+  },
+  "1473470": {
+    "match_id": "1473470",
+    "date": "2025-04-17",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians",
+    "event_id": "22869",
+    "title": "Mumbai Indians vs. Sunrisers Hyderabad",
+    "slug": "ipl-mi-srh-2025-04-17",
+    "t1_token": "113759477028893976850266940880459720057928841451140444733792087167370304575700",
+    "t2_token": "10330358598388497760658000288518566041002166145643193305838206659813171609760",
+    "outcomes": [
+      "Mumbai Indians",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 17325.410589
+  },
+  "1473471": {
+    "match_id": "1473471",
+    "date": "2025-04-18",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Punjab Kings",
+    "event_id": "22940",
+    "title": "Royal Challengers Bangalore vs. Punjab Kings",
+    "slug": "ipl-rcb-pbks-2025-04-18",
+    "t1_token": "85990743276696486147660641876095103530512082782422101683192772740316634449457",
+    "t2_token": "89855323086036850025483881190197447519582816580653631702262051269685432333381",
+    "outcomes": [
+      "Royal Challengers Bangalore",
+      "Punjab Kings"
+    ],
+    "volume": 34949.853066
+  },
+  "1473473": {
+    "match_id": "1473473",
+    "date": "2025-04-19",
+    "team1": "Lucknow Super Giants",
+    "team2": "Rajasthan Royals",
+    "event_id": "23023",
+    "title": "Rajasthan Royals vs. Lucknow Super Giants",
+    "slug": "ipl-rr-lsg-2025-04-19",
+    "t1_token": "70531124566917088958857072921888323395854005644806942891640377520961423732511",
+    "t2_token": "57827405018482465893568482926815127779064488867612021059984416512230778913386",
+    "outcomes": [
+      "Rajasthan Royals",
+      "Lucknow Super Giants"
+    ],
+    "volume": 8697.667302
+  },
+  "1473472": {
+    "match_id": "1473472",
+    "date": "2025-04-19",
+    "team1": "Delhi Capitals",
+    "team2": "Gujarat Titans",
+    "event_id": "23022",
+    "title": "Gujarat Titans vs. Delhi Capitals",
+    "slug": "ipl-gt-dc-2025-04-19",
+    "t1_token": "76753964762531697895607679246993795129641454829471573510552918820307120635845",
+    "t2_token": "56070270757748865024899581058477807973979019675691392920115401511181532682978",
+    "outcomes": [
+      "Gujarat Titans",
+      "Delhi Capitals"
+    ],
+    "volume": 3507.105774
+  },
+  "1473474": {
+    "match_id": "1473474",
+    "date": "2025-04-20",
+    "team1": "Punjab Kings",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "23115",
+    "title": "Punjab Kings vs. Royal Challengers Bangalore",
+    "slug": "ipl-pbks-rcb-2025-04-20",
+    "t1_token": "91713697504893674266073163909170502097966206643004450800370705090064076797594",
+    "t2_token": "44945677993851778174647595893830588660441423030045454044975279601828193313844",
+    "outcomes": [
+      "Punjab Kings",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 11630.021458
+  },
+  "1473475": {
+    "match_id": "1473475",
+    "date": "2025-04-20",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians",
+    "event_id": "23116",
+    "title": "Mumbai Indians vs. Chennai Super Kings",
+    "slug": "ipl-mi-csk-2025-04-20",
+    "t1_token": "112380070807164792175795514895559108427656882784102854752524308905840101776182",
+    "t2_token": "54557990495566304645155322031841982852599141141179198454867011630180436702779",
+    "outcomes": [
+      "Mumbai Indians",
+      "Chennai Super Kings"
+    ],
+    "volume": 9938.447246
+  },
+  "1473476": {
+    "match_id": "1473476",
+    "date": "2025-04-21",
+    "team1": "Gujarat Titans",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "23150",
+    "title": "Kolkata Knight Riders vs. Gujarat Titans",
+    "slug": "ipl-kkr-gt-2025-04-21",
+    "t1_token": "4764260995636786987872393039003829608938105117791787584111112958808910369754",
+    "t2_token": "62133885016251494203863087451991100642975969960425792045776359986345003550889",
+    "outcomes": [
+      "Kolkata Knight Riders",
+      "Gujarat Titans"
+    ],
+    "volume": 8286.156501
+  },
+  "1473477": {
+    "match_id": "1473477",
+    "date": "2025-04-22",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "event_id": "23164",
+    "title": "Lucknow Super Giants vs. Delhi Capitals",
+    "slug": "ipl-lsg-dc-2025-04-22",
+    "t1_token": "86828561232495274146406112975309154042163378388667790598721261322718850858687",
+    "t2_token": "114056233679496583810965977281740580273100897952249048111549543918820685920327",
+    "outcomes": [
+      "Lucknow Super Giants",
+      "Delhi Capitals"
+    ],
+    "volume": 6571.854618
+  },
+  "1473478": {
+    "match_id": "1473478",
+    "date": "2025-04-23",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians",
+    "event_id": "23216",
+    "title": "Sunrisers Hyderabad vs. Mumbai Indians",
+    "slug": "ipl-srh-mi-2025-04-23",
+    "t1_token": "76578392093004628633931567717260918320488725989356376252801152531850268549294",
+    "t2_token": "31037475695352737198738524494722492624173677964006865179462885037062252369736",
+    "outcomes": [
+      "Sunrisers Hyderabad",
+      "Mumbai Indians"
+    ],
+    "volume": 68345.491052
+  },
+  "1473479": {
+    "match_id": "1473479",
+    "date": "2025-04-24",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Rajasthan Royals",
+    "event_id": "23279",
+    "title": "Royal Challengers Bangalore vs. Rajasthan Royals",
+    "slug": "ipl-rcb-rr-2025-04-24",
+    "t1_token": "20805842034519494100504794998884174339832625060297483436908126954650271574013",
+    "t2_token": "495744408330860705218264373688301891017154733313186657815383458572789696850",
+    "outcomes": [
+      "Royal Challengers Bangalore",
+      "Rajasthan Royals"
+    ],
+    "volume": 102041.371127
+  },
+  "1473480": {
+    "match_id": "1473480",
+    "date": "2025-04-25",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad",
+    "event_id": "23280",
+    "title": "Chennai Super Kings vs. Sunrisers Hyderabad",
+    "slug": "ipl-csk-srh-2025-04-25",
+    "t1_token": "95106311361703385254495716207472377383922416112040678655717190872874189019296",
+    "t2_token": "22110885482723969328910992601364443867626132870109381120799226380211341476365",
+    "outcomes": [
+      "Chennai Super Kings",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 16197.657065
+  },
+  "1473483": {
+    "match_id": "1473483",
+    "date": "2025-04-27",
+    "team1": "Delhi Capitals",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "23283",
+    "title": "Delhi Capitals vs. Royal Challengers Bangalore",
+    "slug": "ipl-dc-rcb-2025-04-27",
+    "t1_token": "6101860840192589600270442243821379175729912896915768068767108768582220941579",
+    "t2_token": "87105477277551691188902184388400099555925077572161926967376816299903830270051",
+    "outcomes": [
+      "Delhi Capitals",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 7990.65059
+  },
+  "1473482": {
+    "match_id": "1473482",
+    "date": "2025-04-27",
+    "team1": "Mumbai Indians",
+    "team2": "Lucknow Super Giants",
+    "event_id": "23282",
+    "title": "Mumbai Indians vs. Lucknow Super Giants",
+    "slug": "ipl-mi-lsg-2025-04-27",
+    "t1_token": "22031441557972132085103073270282821420141057444144366380264350282742862485129",
+    "t2_token": "101048253240942252441820694537600902710359007372664698550220551961421291080391",
+    "outcomes": [
+      "Mumbai Indians",
+      "Lucknow Super Giants"
+    ],
+    "volume": 7067.532577
+  },
+  "1473484": {
+    "match_id": "1473484",
+    "date": "2025-04-28",
+    "team1": "Gujarat Titans",
+    "team2": "Rajasthan Royals",
+    "event_id": "23284",
+    "title": "Rajasthan Royals vs. Gujarat Titans",
+    "slug": "ipl-rr-gt-2025-04-28",
+    "t1_token": "46550806668062149297021393582534246972396486393501107208955561579151116592619",
+    "t2_token": "44303977091377027848263174064098705909106961397984117333807806481594244976102",
+    "outcomes": [
+      "Rajasthan Royals",
+      "Gujarat Titans"
+    ],
+    "volume": 102531.601438
+  },
+  "1473485": {
+    "match_id": "1473485",
+    "date": "2025-04-29",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Capitals",
+    "event_id": "23285",
+    "title": "Delhi Capitals vs. Kolkata Knight Riders",
+    "slug": "ipl-dc-kkr-2025-04-29",
+    "t1_token": "103120116583061036392142026701397915685014771261696143330546286967783219507903",
+    "t2_token": "33249518048316854831749146967939101287045448767028518847237900883334737487808",
+    "outcomes": [
+      "Delhi Capitals",
+      "Kolkata Knight Riders"
+    ],
+    "volume": 70061.598436
+  },
+  "1473486": {
+    "match_id": "1473486",
+    "date": "2025-04-30",
+    "team1": "Chennai Super Kings",
+    "team2": "Punjab Kings",
+    "event_id": "23345",
+    "title": "Chennai Super Kings vs. Punjab Kings",
+    "slug": "ipl-csk-pbks-2025-04-30",
+    "t1_token": "100990979990029186059056935999923231454787278682084576561167107238922325986705",
+    "t2_token": "113458886071958911240080218613651875428357250968195776127911400941870568587283",
+    "outcomes": [
+      "Chennai Super Kings",
+      "Punjab Kings"
+    ],
+    "volume": 75033.725025
+  },
+  "1473487": {
+    "match_id": "1473487",
+    "date": "2025-05-01",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals",
+    "event_id": "23389",
+    "title": "Rajasthan Royals vs. Mumbai Indians",
+    "slug": "ipl-rr-mi-2025-05-01",
+    "t1_token": "113420311112138530976013716154970520154932949978537892730629923976167406505677",
+    "t2_token": "4274506009522463654009938145014566018637389538962905681086929949035725503919",
+    "outcomes": [
+      "Rajasthan Royals",
+      "Mumbai Indians"
+    ],
+    "volume": 76322.255048
+  },
+  "1473488": {
+    "match_id": "1473488",
+    "date": "2025-05-02",
+    "team1": "Gujarat Titans",
+    "team2": "Sunrisers Hyderabad",
+    "event_id": "23469",
+    "title": "Gujarat Titans vs. Sunrisers Hyderabad",
+    "slug": "ipl-gt-srh-2025-05-02",
+    "t1_token": "6531424396304810151823556475692389384161630742496995783680003573098461828030",
+    "t2_token": "59096416564151457531367983059365787960982375840428788396485530865922995739189",
+    "outcomes": [
+      "Gujarat Titans",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 83753.249658
+  },
+  "1473489": {
+    "match_id": "1473489",
+    "date": "2025-05-03",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings",
+    "event_id": "23498",
+    "title": "Royal Challengers Bangalore vs. Chennai Super Kings",
+    "slug": "ipl-rcb-csk-2025-05-03",
+    "t1_token": "23632877373291227739640994454552758161389048668022827625085997415284115012599",
+    "t2_token": "102935786696640184169223028448687427443297741662385314618203959586192584034078",
+    "outcomes": [
+      "Royal Challengers Bangalore",
+      "Chennai Super Kings"
+    ],
+    "volume": 40500.479993
+  },
+  "1473491": {
+    "match_id": "1473491",
+    "date": "2025-05-04",
+    "team1": "Punjab Kings",
+    "team2": "Lucknow Super Giants",
+    "event_id": "23522",
+    "title": "Punjab Kings vs. Lucknow Super Giants",
+    "slug": "ipl-pbks-lsg-2025-05-04",
+    "t1_token": "13888431732283407809632672493060053244856525846065198274346414639663886868550",
+    "t2_token": "61829206129297118282652646007041433087728658926598289116303907724455479446853",
+    "outcomes": [
+      "Punjab Kings",
+      "Lucknow Super Giants"
+    ],
+    "volume": 15196.860565
+  },
+  "1473490": {
+    "match_id": "1473490",
+    "date": "2025-05-04",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Rajasthan Royals",
+    "event_id": "23521",
+    "title": "Kolkata Knight Riders vs. Rajasthan Royals",
+    "slug": "ipl-kkr-rr-2025-05-04",
+    "t1_token": "101708964400670449881639072066551163487255566952448679821045251886150852354734",
+    "t2_token": "48604377264991083448617508204681530246646892995140358929023747168059436920669",
+    "outcomes": [
+      "Kolkata Knight Riders",
+      "Rajasthan Royals"
+    ],
+    "volume": 15380.32366
+  },
+  "1473493": {
+    "match_id": "1473493",
+    "date": "2025-05-06",
+    "team1": "Mumbai Indians",
+    "team2": "Gujarat Titans",
+    "event_id": "23643",
+    "title": "Mumbai Indians vs. Gujarat Titans",
+    "slug": "ipl-mi-gt-2025-05-06",
+    "t1_token": "11798114906071477649717779281283213108392952177185445247351084693866571279344",
+    "t2_token": "99579161526926449892137562414015484733462880666216603234867396821535695332012",
+    "outcomes": [
+      "Mumbai Indians",
+      "Gujarat Titans"
+    ],
+    "volume": 37331.645256
+  },
+  "1473494": {
+    "match_id": "1473494",
+    "date": "2025-05-07",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings",
+    "event_id": "23716",
+    "title": "Kolkata Knight Riders vs. Chennai Super Kings",
+    "slug": "ipl-kkr-csk-2025-05-07",
+    "t1_token": "23965952202906366038443470553037445275265993804908056168470221579080101609424",
+    "t2_token": "58646482321769517332794685236974168535537266245022807542772174684975080021615",
+    "outcomes": [
+      "Kolkata Knight Riders",
+      "Chennai Super Kings"
+    ],
+    "volume": 82893.599582
+  },
+  "1473497": {
+    "match_id": "1473497",
+    "date": "2025-05-18",
+    "team1": "Punjab Kings",
+    "team2": "Rajasthan Royals",
+    "event_id": "24217",
+    "title": "Rajasthan Royals vs. Punjab Kings",
+    "slug": "ipl-rr-pbks-2025-05-16",
+    "t1_token": "97765455380177440175715684882671067649450946626633768931617674245331096136906",
+    "t2_token": "106145951181946803085913811811181049175407031901258536744944366776383653712259",
+    "outcomes": [
+      "Rajasthan Royals",
+      "Punjab Kings"
+    ],
+    "volume": 74520.96123
+  },
+  "1473498": {
+    "match_id": "1473498",
+    "date": "2025-05-18",
+    "team1": "Delhi Capitals",
+    "team2": "Gujarat Titans",
+    "event_id": "24698",
+    "title": "Delhi Capitals vs. Gujarat Titans",
+    "slug": "ipl-dc-gt-2025-05-18",
+    "t1_token": "19315027314292155622342559632041018543138034222350698446160504057757381846114",
+    "t2_token": "36743278836774444544396159431670792128130166940879659682019774293045647128053",
+    "outcomes": [
+      "Delhi Capitals",
+      "Gujarat Titans"
+    ],
+    "volume": 908.91719
+  },
+  "1473499": {
+    "match_id": "1473499",
+    "date": "2025-05-19",
+    "team1": "Lucknow Super Giants",
+    "team2": "Sunrisers Hyderabad",
+    "event_id": "24311",
+    "title": "Lucknow Super Giants vs. Sunrisers Hyderabad",
+    "slug": "ipl-lsg-srh-2025-05-18",
+    "t1_token": "68688650891065895914159885103497215873209269537012755007692985235052418606560",
+    "t2_token": "10727838244853498474419395378867929174619297804748456730902620449156473684589",
+    "outcomes": [
+      "Lucknow Super Giants",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 4608.354271
+  },
+  "1473500": {
+    "match_id": "1473500",
+    "date": "2025-05-20",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals",
+    "event_id": "24751",
+    "title": "Chennai Super Kings vs. Rajasthan Royals",
+    "slug": "ipl-csk-rr-2025-05-20",
+    "t1_token": "112174376399372963735462147855906113624199667137675228657355406740519565070929",
+    "t2_token": "35982779475219352199472878586923690401356221519000563843047783504316927024560",
+    "outcomes": [
+      "Chennai Super Kings",
+      "Rajasthan Royals"
+    ],
+    "volume": 1598.632299
+  },
+  "1473501": {
+    "match_id": "1473501",
+    "date": "2025-05-21",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "event_id": "24537",
+    "title": "Mumbai Indians vs. Delhi Capitals",
+    "slug": "ipl-mi-dc-2025-05-21",
+    "t1_token": "77851727705621369100157755180302293588060464444757470849043394257385765579037",
+    "t2_token": "114548357594080502793066782048361467633756547525156405652446418864542019885034",
+    "outcomes": [
+      "Mumbai Indians",
+      "Delhi Capitals"
+    ],
+    "volume": 21965.970948
+  },
+  "1473502": {
+    "match_id": "1473502",
+    "date": "2025-05-22",
+    "team1": "Lucknow Super Giants",
+    "team2": "Gujarat Titans",
+    "event_id": "24605",
+    "title": "Gujarat Titans vs. Lucknow Super Giants",
+    "slug": "ipl-gt-lsg-2025-05-22",
+    "t1_token": "103607764233263641963579013923842856095535707527300618679297402711836422965627",
+    "t2_token": "45134424670260249715579023183238966913746544070565800245774677521022214553427",
+    "outcomes": [
+      "Gujarat Titans",
+      "Lucknow Super Giants"
+    ],
+    "volume": 133806.907251
+  },
+  "1473503": {
+    "match_id": "1473503",
+    "date": "2025-05-23",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "24699",
+    "title": "Royal Challengers Bangalore vs. Sunrisers Hyderabad",
+    "slug": "ipl-rcb-srh-2025-05-23",
+    "t1_token": "28680142426825681663033016904402068976065690360682565514351323998142206666073",
+    "t2_token": "99183343947685628893509881182433989880993344093317375971196884847399277473143",
+    "outcomes": [
+      "Royal Challengers Bangalore",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 5977.211101
+  },
+  "1485779": {
+    "match_id": "1485779",
+    "date": "2025-05-24",
+    "team1": "Punjab Kings",
+    "team2": "Delhi Capitals",
+    "event_id": "25052",
+    "title": "Delhi Capitals vs. Punjab Kings",
+    "slug": "ipl-dc-pbks-2025-05-24",
+    "t1_token": "17369699078210262704684965161194486695227277583730159471912874559913425504050",
+    "t2_token": "63282280822958160903914497331960760025736800538647887671032725801392862171810",
+    "outcomes": [
+      "Delhi Capitals",
+      "Punjab Kings"
+    ],
+    "volume": 47756.977348
+  },
+  "1473504": {
+    "match_id": "1473504",
+    "date": "2025-05-25",
+    "team1": "Chennai Super Kings",
+    "team2": "Gujarat Titans",
+    "event_id": "24752",
+    "title": "Gujarat Titans vs. Chennai Super Kings",
+    "slug": "ipl-gt-csk-2025-05-25",
+    "t1_token": "107866778669965385546154044819660534859614718386017947973324095315774736697007",
+    "t2_token": "71605175443631311942905366787011451361958536014404949790192140207008633007829",
+    "outcomes": [
+      "Gujarat Titans",
+      "Chennai Super Kings"
+    ],
+    "volume": 26069.136961
+  },
+  "1473505": {
+    "match_id": "1473505",
+    "date": "2025-05-25",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders",
+    "event_id": "24753",
+    "title": "Kolkata Knight Riders vs. Sunrisers Hyderabad",
+    "slug": "ipl-kkr-srh-2025-05-25",
+    "t1_token": "45930936762660414802465169994024326865877154713674166369124419676506447824767",
+    "t2_token": "66188062937337353472073259311666559435280815556666773667017204334903684331521",
+    "outcomes": [
+      "Kolkata Knight Riders",
+      "Sunrisers Hyderabad"
+    ],
+    "volume": 2323.546899
+  },
+  "1473506": {
+    "match_id": "1473506",
+    "date": "2025-05-26",
+    "team1": "Mumbai Indians",
+    "team2": "Punjab Kings",
+    "event_id": "24833",
+    "title": "Mumbai Indians vs. Punjab Kings",
+    "slug": "ipl-mi-pbks-2025-05-26",
+    "t1_token": "37750095126909363952929737171569120008116098364879264423303431549926286793056",
+    "t2_token": "91796638747020736339381196613401148644887501283602710971554432955238566574729",
+    "outcomes": [
+      "Mumbai Indians",
+      "Punjab Kings"
+    ],
+    "volume": 50803.458878
+  },
+  "1473507": {
+    "match_id": "1473507",
+    "date": "2025-05-27",
+    "team1": "Lucknow Super Giants",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "24916",
+    "title": "Lucknow Super Giants vs. Royal Challengers Bangalore",
+    "slug": "ipl-lsg-rcb-2025-05-27",
+    "t1_token": "38147338373766691885999041414345787460683294976338927393800585245136630374795",
+    "t2_token": "49649552538698821399551446267379845980453031381955086469799205072934318733080",
+    "outcomes": [
+      "Lucknow Super Giants",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 37657.273164
+  },
+  "1473508": {
+    "match_id": "1473508",
+    "date": "2025-05-29",
+    "team1": "Punjab Kings",
+    "team2": "Royal Challengers Bengaluru",
+    "event_id": "25337",
+    "title": "Punjab Kings vs. Royal Challengers Bangalore",
+    "slug": "ipl-pbks-rcb-2025-05-29",
+    "t1_token": "106334980158768414608035555492154434907870381627849573376515472930661479466878",
+    "t2_token": "47168291968979595284027198552819820118293326175951661641182672905115193232898",
+    "outcomes": [
+      "Punjab Kings",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 130825.115371
+  },
+  "1473509": {
+    "match_id": "1473509",
+    "date": "2025-05-30",
+    "team1": "Mumbai Indians",
+    "team2": "Gujarat Titans",
+    "event_id": "25338",
+    "title": "Gujarat Titans vs. Mumbai Indians",
+    "slug": "ipl-gt-mi-2025-05-30",
+    "t1_token": "24347471288408675901697118694556373484787456949917232947246563059915056004205",
+    "t2_token": "30375247629361447626528646960864979423085515604842148892547817562990256886052",
+    "outcomes": [
+      "Gujarat Titans",
+      "Mumbai Indians"
+    ],
+    "volume": 167697.261919
+  },
+  "1473510": {
+    "match_id": "1473510",
+    "date": "2025-06-01",
+    "team1": "Mumbai Indians",
+    "team2": "Punjab Kings",
+    "event_id": "25601",
+    "title": "Mumbai Indians vs. Punjab Kings",
+    "slug": "ipl-mi-pbks-2025-06-01",
+    "t1_token": "87808880182818082956320498912226525377153208194053653826472063424291988901750",
+    "t2_token": "56592912937978672472966751775418711938943535545794556030339013692169649999526",
+    "outcomes": [
+      "Mumbai Indians",
+      "Punjab Kings"
+    ],
+    "volume": 203185.946033
+  },
+  "1473511": {
+    "match_id": "1473511",
+    "date": "2025-06-03",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Punjab Kings",
+    "event_id": "25689",
+    "title": "Punjab Kings vs. Royal Challengers Bangalore",
+    "slug": "ipl-pbks-rcb-2025-06-03",
+    "t1_token": "3938865949394532855710507854718524027494602791202189907495827779928703551764",
+    "t2_token": "31529442359788616731576825741847112067593247107049969991735473126504139445746",
+    "outcomes": [
+      "Punjab Kings",
+      "Royal Challengers Bangalore"
+    ],
+    "volume": 281513.712348
+  }
+}

@@ -209,3 +209,4 @@ __marimo__/
 # Local ML training artifacts
 catboost_info/
 *.out.tfevents*
+engine_state.json

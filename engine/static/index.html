@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPL Betting Engine</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>IPL Betting Engine</h1>
+    <span id="engine-badge" class="engine-badge idle">Idle</span>
+  </header>
+
+  <div class="top-row">
+    <div class="panel" id="wallet-panel">
+      <h2>Wallet &amp; Bankroll</h2>
+      <div class="stat-grid">
+        <div class="stat-item">
+          <span class="stat-label">Balance</span>
+          <span class="stat-value" id="balance">$0.00</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Wallet</span>
+          <span class="stat-value" id="wallet" style="font-size:13px;word-break:break-all">—</span>
+        </div>
+      </div>
+    </div>
+    <div class="panel" id="stats-panel">
+      <h2>Season Stats</h2>
+      <div class="stat-grid">
+        <div class="stat-item">
+          <span class="stat-label">Return</span>
+          <span class="stat-value" id="return-pct">0%</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Win Rate</span>
+          <span class="stat-value" id="win-rate">0%</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Total Bets</span>
+          <span class="stat-value" id="total-bets">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Matches</span>
+          <span class="stat-value" id="total-matches">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Max Drawdown</span>
+          <span class="stat-value" id="max-dd">0%</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel full-width" id="upcoming-panel">
+    <h2>Upcoming Matches</h2>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Match</th><th>Model</th><th>Market</th><th>Edge</th><th>Status</th></tr>
+      </thead>
+      <tbody id="upcoming-body"></tbody>
+    </table>
+    <div class="empty-state" id="upcoming-empty">No upcoming matches</div>
+  </div>
+
+  <div class="panel full-width" id="positions-panel">
+    <h2>Open Positions</h2>
+    <table>
+      <thead>
+        <tr><th>Match</th><th>Side</th><th>Entry</th><th>Current</th><th>Stop</th><th>P&amp;L</th></tr>
+      </thead>
+      <tbody id="positions-body"></tbody>
+    </table>
+    <div class="empty-state" id="positions-empty">No open positions</div>
+  </div>
+
+  <div class="panel full-width" id="history-panel">
+    <div class="panel-header">
+      <h2>Match History</h2>
+      <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="bets">Bets Only</button>
+        <button class="filter-btn" data-filter="skipped">Skipped</button>
+      </div>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Match</th><th>Model</th><th>Market</th><th>Edge</th><th>Result</th><th>P&amp;L</th></tr>
+      </thead>
+      <tbody id="history-body"></tbody>
+    </table>
+    <div class="empty-state" id="history-empty">No matches yet</div>
+  </div>
+
+  <div class="panel full-width" id="log-panel">
+    <h2>Activity Log</h2>
+    <div class="log-list" id="log-list">
+      <div class="empty-state" id="log-empty">No events yet</div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
