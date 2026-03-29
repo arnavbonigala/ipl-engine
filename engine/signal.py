@@ -13,12 +13,13 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
     Args:
         match_details: dict with team1, team2, venue, city,
                        toss_winner, toss_decision, team1_xi, team2_xi
-        market_info: dict with t1_token_id, t2_token_id
+        market_info: dict with t1_ticker, t2_ticker
         bankroll: current bankroll in dollars
 
     Returns:
         Signal dict or None if no edge / below confidence.
     """
+    impact = match_details.get("impact_subs", {})
     result = predict(
         team1=match_details["team1"],
         team2=match_details["team2"],
@@ -28,6 +29,8 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
         toss_decision=match_details["toss_decision"],
         team1_xi=match_details["team1_xi"],
         team2_xi=match_details["team2_xi"],
+        team1_impact=impact.get(match_details["team1"]),
+        team2_impact=impact.get(match_details["team2"]),
     )
 
     model_t1_prob = result["team1_win_prob"]
@@ -37,25 +40,21 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
         return None
 
     model_picks_t1 = model_t1_prob > 0.5
+    chosen_team = match_details["team1"] if model_picks_t1 else match_details["team2"]
+    model_our_prob = model_t1_prob if model_picks_t1 else 1 - model_t1_prob
 
-    t1_price = get_market_price(market_info["t1_token_id"])
-    t2_price = get_market_price(market_info["t2_token_id"])
-
-    if t1_price is None or t2_price is None:
+    # Map by team name — cricdata and Kalshi may order teams differently
+    team_to_ticker = {
+        market_info["team1"]: market_info["t1_ticker"],
+        market_info["team2"]: market_info["t2_ticker"],
+    }
+    ticker = team_to_ticker.get(chosen_team)
+    if not ticker:
         return None
 
-    if model_picks_t1:
-        entry_price = t1_price
-        model_our_prob = model_t1_prob
-        token_id = market_info["t1_token_id"]
-        side = "T1"
-        team = match_details["team1"]
-    else:
-        entry_price = t2_price
-        model_our_prob = 1 - model_t1_prob
-        token_id = market_info["t2_token_id"]
-        side = "T2"
-        team = match_details["team2"]
+    entry_price = get_market_price(ticker)
+    if entry_price is None:
+        return None
 
     if entry_price <= 0.01 or entry_price >= 0.99:
         return None
@@ -74,10 +73,12 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
     bet_amount = round(bankroll * kelly, 2)
     contracts = round(bet_amount / entry_price, 2)
 
+    side = "T1" if model_picks_t1 else "T2"
+
     return {
         "side": side,
-        "team": team,
-        "token_id": token_id,
+        "team": chosen_team,
+        "ticker": ticker,
         "model_prob": round(model_our_prob, 4),
         "model_t1_prob": round(model_t1_prob, 4),
         "market_price": round(entry_price, 4),

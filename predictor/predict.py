@@ -8,7 +8,7 @@ from pathlib import Path
 import numpy as np
 
 from predictor.normalize import load_matches, normalize_team
-from predictor.features import build_match_features
+from predictor.features import build_match_features, _player_batting_form, _player_bowling_form
 from predictor.playing_xi import extract_all_xis
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -50,6 +50,25 @@ def resolve_player_ids(names_or_ids: list[str], all_xis) -> dict[str, str]:
     return result
 
 
+def _pick_best_impact(candidates: dict[str, str], before_date: str) -> str | None:
+    """Pick the strongest impact player candidate by composite score."""
+    best_pid, best_score = None, -1.0
+    for pid in candidates:
+        bf = _player_batting_form(pid, before_date)
+        wf = _player_bowling_form(pid, before_date)
+        score = (
+            bf["bat_runs_avg"]
+            + (bf["bat_sr_avg"] / 100) * 10
+            + wf["bowl_wkts_avg"] * 15
+            + bf["bat_experience"]
+            + wf["bowl_experience"]
+        )
+        if score > best_score:
+            best_score = score
+            best_pid = pid
+    return best_pid
+
+
 def predict(
     team1: str,
     team2: str,
@@ -59,6 +78,8 @@ def predict(
     toss_decision: str,
     team1_xi: list[str],
     team2_xi: list[str],
+    team1_impact: list[str] | None = None,
+    team2_impact: list[str] | None = None,
 ) -> dict:
     team1 = normalize_team(team1)
     team2 = normalize_team(team2)
@@ -71,9 +92,23 @@ def predict(
     t1_xi = resolve_player_ids(team1_xi, all_xis)
     t2_xi = resolve_player_ids(team2_xi, all_xis)
 
+    before_date = all_matches[-1]["date"]
+
+    for xi, impact in ((t1_xi, team1_impact), (t2_xi, team2_impact)):
+        if not impact:
+            continue
+        resolved = resolve_player_ids(impact, all_xis)
+        already = set(xi.keys())
+        candidates = {pid: name for pid, name in resolved.items() if pid not in already}
+        if not candidates:
+            continue
+        best = _pick_best_impact(candidates, before_date)
+        if best:
+            xi[best] = candidates[best]
+
     match = {
         "match_id": "prediction",
-        "date": all_matches[-1]["date"],
+        "date": before_date,
         "season": int(all_matches[-1]["season"]),
         "team1": team1,
         "team2": team2,
