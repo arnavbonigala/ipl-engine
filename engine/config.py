@@ -1,5 +1,7 @@
 """Strategy constants and API endpoints."""
 
+import os
+
 KELLY_FRACTION = 0.5
 MAX_BET_FRACTION = 0.25
 MAX_ENTRY_PRICE = 0.55
@@ -10,38 +12,29 @@ MIN_EDGE = 0.03
 POLL_INTERVAL_SECS = 30
 SCRAPE_POLL_SECS = 60
 
-POLYMARKET_HOST = "https://clob.polymarket.com"
-GAMMA_HOST = "https://gamma-api.polymarket.com"
-CHAIN_ID = 137  # Polygon mainnet
+KALSHI_API_BASE_PROD = "https://api.elections.kalshi.com/trade-api/v2"
+KALSHI_API_BASE_DEMO = "https://demo-api.kalshi.co/trade-api/v2"
+KALSHI_API_BASE = KALSHI_API_BASE_DEMO if os.environ.get("KALSHI_DEMO") == "1" else KALSHI_API_BASE_PROD
+
+KALSHI_IPL_SERIES = "KXIPLGAME"
 
 STATE_FILE = "engine_state.json"
 DASHBOARD_PORT = 8050
 
-TEAM_ABBREVS = {
-    "Mumbai Indians": "mi",
-    "Chennai Super Kings": "csk",
-    "Royal Challengers Bengaluru": "rcb",
-    "Kolkata Knight Riders": "kkr",
-    "Rajasthan Royals": "rr",
-    "Sunrisers Hyderabad": "srh",
-    "Delhi Capitals": "dc",
-    "Punjab Kings": "pbks",
-    "Lucknow Super Giants": "lsg",
-    "Gujarat Titans": "gt",
+TEAM_KALSHI_ABBREVS = {
+    "Mumbai Indians": "MI",
+    "Chennai Super Kings": "CSK",
+    "Royal Challengers Bengaluru": "RCB",
+    "Kolkata Knight Riders": "KKR",
+    "Rajasthan Royals": "RR",
+    "Sunrisers Hyderabad": "SRH",
+    "Delhi Capitals": "DC",
+    "Punjab Kings": "PBKS",
+    "Lucknow Super Giants": "LSG",
+    "Gujarat Titans": "GT",
 }
 
-TEAM_SLUG_NAMES = {
-    "Mumbai Indians": "mumbai-indians",
-    "Chennai Super Kings": "chennai-super-kings",
-    "Royal Challengers Bengaluru": "royal-challengers-bangalore",
-    "Kolkata Knight Riders": "kolkata-knight-riders",
-    "Rajasthan Royals": "rajasthan-royals",
-    "Sunrisers Hyderabad": "sunrisers-hyderabad",
-    "Delhi Capitals": "delhi-capitals",
-    "Punjab Kings": "punjab-kings",
-    "Lucknow Super Giants": "lucknow-super-giants",
-    "Gujarat Titans": "gujarat-titans",
-}
+KALSHI_ABBREV_TO_TEAM = {v: k for k, v in TEAM_KALSHI_ABBREVS.items()}
 
 TEAM_KEYWORDS = {
     "Mumbai Indians": ["mumbai"],
