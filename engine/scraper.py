@@ -91,83 +91,124 @@ def get_todays_ipl_matches() -> list[dict]:
 def get_match_details(series_slug: str, match_slug: str) -> dict | None:
     """Fetch toss, venue, and playing XI for a match.
 
+    Uses match_scorecard endpoint which exposes:
+      - match.tossWinnerTeamId + tossWinnerChoice for toss
+      - content.matchPlayers.teamPlayers for confirmed playing XIs
+      - content.notes for impact player substitution options
+
     Returns the dict shape that predictor.predict() expects, or None
     if toss/XIs are not yet available.
     """
-    try:
-        info = _ci.match_info(series_slug, match_slug)
-    except Exception:
-        return None
-
-    toss = info.get("toss")
-    if not toss or not toss.get("winner_team"):
-        return None
-
-    venue = info.get("venue", {})
-    toss_winner_raw = toss["winner_team"]
-    toss_decision = toss.get("decision", "field")
-
-    # Get playing XI from scorecard (available once toss is done)
     try:
         sc = _ci.match_scorecard(series_slug, match_slug)
     except Exception:
         return None
 
-    if not sc or not isinstance(sc, list) or len(sc) < 1:
+    if not sc or not isinstance(sc, dict):
         return None
 
-    # Extract player names from scorecard innings
-    xi_names = {"team1": [], "team2": []}
-    seen = set()
-    for innings in sc:
-        team_name = innings.get("team", {}).get("longName", "")
-        bat = innings.get("inningBatsmen", [])
-        bowl = innings.get("inningBowlers", [])
-        players = []
-        for b in bat:
-            name = b.get("player", {}).get("longName", b.get("player", {}).get("name", ""))
-            pid = str(b.get("player", {}).get("objectId", ""))
-            if pid not in seen and name:
-                players.append(name)
-                seen.add(pid)
-        for b in bowl:
-            name = b.get("player", {}).get("longName", b.get("player", {}).get("name", ""))
-            pid = str(b.get("player", {}).get("objectId", ""))
-            if pid not in seen and name:
-                players.append(name)
-                seen.add(pid)
+    m = sc.get("match", {})
+    content = sc.get("content", {})
 
-        canonical = _match_team_name(team_name)
-        if not canonical:
-            continue
-
-        key = "team1" if not xi_names["team1"] else "team2"
-        xi_names[key] = players
-
-    if not xi_names["team1"] or not xi_names["team2"]:
+    # --- Toss ---
+    toss_winner_id = m.get("tossWinnerTeamId")
+    toss_choice = m.get("tossWinnerChoice")
+    if not toss_winner_id:
         return None
 
-    # Determine team1/team2 from the scorecard order
-    first_innings_team = sc[0].get("team", {}).get("longName", "")
-    team1 = _match_team_name(first_innings_team)
-    second_innings_team = sc[1].get("team", {}).get("longName", "") if len(sc) > 1 else ""
-    team2 = _match_team_name(second_innings_team)
+    toss_decision = "bat" if toss_choice == 1 else "field"
+
+    # --- Teams ---
+    match_info_teams = m.get("teams", [])
+    if len(match_info_teams) < 2:
+        return None
+
+    id_to_team = {}
+    for t in match_info_teams:
+        team_obj = t.get("team", {})
+        tid = team_obj.get("id")
+        canonical = _match_team_name(team_obj.get("longName", ""))
+        if tid and canonical:
+            id_to_team[tid] = canonical
+
+    team1_raw = match_info_teams[0].get("team", {}).get("longName", "")
+    team2_raw = match_info_teams[1].get("team", {}).get("longName", "")
+    team1 = _match_team_name(team1_raw)
+    team2 = _match_team_name(team2_raw)
 
     if not team1 or not team2:
         return None
 
-    toss_winner = _match_team_name(toss_winner_raw) or toss_winner_raw
+    toss_winner = id_to_team.get(toss_winner_id)
+    if not toss_winner:
+        return None
 
-    return {
+    # --- Playing XIs from matchPlayers.teamPlayers ---
+    team_players = (
+        content.get("matchPlayers", {}).get("teamPlayers", [])
+    )
+    if len(team_players) < 2:
+        return None
+
+    xi = {}
+    for tp in team_players:
+        if tp.get("type") != "PLAYING":
+            continue
+        tp_team = tp.get("team", {})
+        canonical = _match_team_name(tp_team.get("longName", ""))
+        if not canonical:
+            continue
+        names = []
+        for p in tp.get("players", []):
+            player = p.get("player", {})
+            name = player.get("longName") or player.get("name", "")
+            if name:
+                names.append(name)
+        if names:
+            xi[canonical] = names
+
+    if team1 not in xi or team2 not in xi:
+        return None
+
+    # --- Venue ---
+    ground = m.get("ground", {})
+    venue_name = ground.get("longName") or ground.get("name", "")
+    city = ground.get("town", {}).get("name", "")
+
+    # --- Impact player options (from notes) ---
+    impact_subs = {}
+    notes = content.get("notes", {})
+    for group in notes.get("groups", []) if isinstance(notes, dict) else []:
+        for note in group.get("notes", []):
+            if not isinstance(note, str):
+                continue
+            low = note.lower()
+            if "impact player sub" not in low:
+                continue
+            for canonical_name in (team1, team2):
+                for kw in TEAM_KEYWORDS.get(canonical_name, []):
+                    if kw in low:
+                        names = note.split(":", 1)[-1].strip()
+                        impact_subs[canonical_name] = [
+                            n.strip() for n in names.replace(" and ", ",").split(",") if n.strip()
+                        ]
+                        break
+
+    result = {
         "team1": team1,
         "team2": team2,
-        "venue": venue.get("name", ""),
-        "city": venue.get("town", {}).get("name", ""),
+        "venue": venue_name,
+        "city": city,
         "toss_winner": toss_winner,
         "toss_decision": toss_decision,
-        "team1_xi": xi_names["team1"],
-        "team2_xi": xi_names["team2"],
+        "team1_xi": xi[team1],
+        "team2_xi": xi[team2],
     }
+
+    if impact_subs:
+        result["impact_subs"] = impact_subs
+
+    return result
 
 
 def poll_until_toss(series_slug: str, match_slug: str, timeout: int = 7200) -> dict | None:
@@ -180,3 +221,110 @@ def poll_until_toss(series_slug: str, match_slug: str, timeout: int = 7200) -> d
         time.sleep(SCRAPE_POLL_SECS)
         elapsed += SCRAPE_POLL_SECS
     return None
+
+
+def get_live_scores() -> list[dict]:
+    """Get live IPL match scores from Cricbuzz (much more real-time than cricdata).
+
+    Scrapes the Cricbuzz live-scores page and parses React Server Component
+    data embedded in the HTML for current match state.
+
+    Returns list of dicts with keys:
+        team1, team2, t1_score, t2_score, status_text,
+        match_state, match_id
+    """
+    import json
+    import re
+    import requests
+
+    results = []
+    try:
+        resp = requests.get(
+            "https://www.cricbuzz.com/cricket-match/live-scores",
+            headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"},
+            timeout=8,
+        )
+        if resp.status_code != 200:
+            return results
+
+        chunks = re.findall(
+            r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', resp.text, re.DOTALL,
+        )
+
+        for chunk in chunks:
+            try:
+                unesc = chunk.encode().decode("unicode_escape")
+            except Exception:
+                continue
+            if "seriesMatches" not in unesc or "matchId" not in unesc:
+                continue
+
+            idx = unesc.find("[{")
+            if idx < 0:
+                continue
+            try:
+                decoder = json.JSONDecoder()
+                data, _ = decoder.raw_decode(unesc[idx:])
+            except Exception:
+                continue
+
+            for match_type in data:
+                for sm in match_type.get("seriesMatches", []):
+                    sw = sm.get("seriesAdWrapper", {})
+                    sname = sw.get("seriesName", "")
+                    if "indian premier league" not in sname.lower():
+                        continue
+
+                    for m in sw.get("matches", []):
+                        mi = m.get("matchInfo", {})
+                        ms = m.get("matchScore", {})
+
+                        state = mi.get("state", "")
+                        if state == "Complete":
+                            state = "POST"
+                        elif state == "In Progress":
+                            state = "LIVE"
+                        else:
+                            state = "PRE"
+
+                        t1_info = mi.get("team1", {})
+                        t2_info = mi.get("team2", {})
+                        t1 = _match_team_name(t1_info.get("teamName", ""))
+                        t2 = _match_team_name(t2_info.get("teamName", ""))
+                        if not t1 or not t2:
+                            continue
+
+                        t1_inn = ms.get("team1Score", {}).get("inngs1", {})
+                        t2_inn = ms.get("team2Score", {}).get("inngs1", {})
+
+                        def _fmt_score(inn: dict) -> str | None:
+                            if not inn:
+                                return None
+                            r = inn.get("runs")
+                            if r is None:
+                                return None
+                            w = inn.get("wickets", 0)
+                            return f"{r}/{w}"
+
+                        def _fmt_overs(inn: dict) -> str | None:
+                            if not inn:
+                                return None
+                            ov = inn.get("overs")
+                            if ov is None:
+                                return None
+                            return f"({ov} ov)"
+
+                        results.append({
+                            "team1": t1,
+                            "team2": t2,
+                            "t1_score": _fmt_score(t1_inn),
+                            "t2_score": _fmt_score(t2_inn),
+                            "t1_score_info": _fmt_overs(t1_inn),
+                            "t2_score_info": _fmt_overs(t2_inn),
+                            "status_text": mi.get("status", ""),
+                            "match_state": state,
+                            "match_id": mi.get("matchId"),
+                        })
+    except Exception:
+        pass
+    return results
