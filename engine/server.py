@@ -274,6 +274,8 @@ def live():
 
     results = []
     for sc in scores:
+        if sc.get("match_state") in ("POST", "COMPLETE", "RESULT"):
+            continue
         t1, t2 = sc["team1"], sc["team2"]
 
         km = None

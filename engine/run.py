@@ -46,7 +46,7 @@ def _discover_markets(state: dict, match_date: str):
 
     for mkt in markets:
         add_upcoming(state, {
-            "match_date": match_date,
+            "match_date": mkt.get("match_date") or match_date,
             "team1": mkt["team1"],
             "team2": mkt["team2"],
             "event_ticker": mkt["event_ticker"],
@@ -202,7 +202,12 @@ def run():
     print("=" * 50)
 
     state = load_state()
-    log_event(state, "discovery", f"Engine started. Bankroll: ${get_bankroll(state):.2f}")
+    try:
+        from engine.executor import get_balance
+        bal = get_balance()
+    except Exception:
+        bal = get_bankroll(state)
+    log_event(state, "discovery", f"Engine started. Balance: ${bal:.2f}")
     save_state(state)
 
     _start_dashboard()

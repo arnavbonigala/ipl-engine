@@ -61,6 +61,16 @@ def find_ipl_markets(match_date: str | None = None) -> list[dict]:
         if len(team_map) != 2:
             continue
 
+        match_date_str = None
+        close_str = active_markets[0].get("expected_expiration_time", "")
+        if close_str:
+            try:
+                match_date_str = datetime.fromisoformat(
+                    close_str.replace("Z", "+00:00")
+                ).date().isoformat()
+            except ValueError:
+                pass
+
         teams = list(team_map.keys())
         results.append({
             "event_ticker": ev["event_ticker"],
@@ -70,6 +80,7 @@ def find_ipl_markets(match_date: str | None = None) -> list[dict]:
             "t1_ticker": team_map[teams[0]],
             "t2_ticker": team_map[teams[1]],
             "volume": total_vol,
+            "match_date": match_date_str,
         })
 
     return results
