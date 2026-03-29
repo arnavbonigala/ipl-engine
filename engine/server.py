@@ -154,7 +154,7 @@ def upcoming():
     s = load_state()
     stored = s.get("upcoming", [])
     if stored:
-        return stored
+        return sorted(stored, key=lambda m: m.get("match_date", ""))
     try:
         from engine.scraper import get_ipl_fixtures
         fixtures = get_ipl_fixtures("ipl-2026-1510719")
