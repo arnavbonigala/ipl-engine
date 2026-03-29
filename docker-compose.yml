@@ -1,0 +1,37 @@
+services:
+  app:
+    build: .
+    env_file: .env
+    volumes:
+      - ./key.pem:/app/key.pem:ro
+      - ./engine_state.json:/app/engine_state.json
+    networks:
+      - internal
+    restart: unless-stopped
+
+  caddy:
+    image: caddy:2
+    depends_on:
+      - app
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      DOMAIN: ${DOMAIN:-localhost}
+      DASH_USER: ${DASH_USER:-admin}
+      DASH_PASS_HASH: ${DASH_PASS_HASH}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks:
+      - internal
+    restart: unless-stopped
+
+networks:
+  internal:
+
+volumes:
+  caddy_data:
+  caddy_config:

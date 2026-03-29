@@ -1,0 +1,7 @@
+{$DOMAIN} {
+	basicauth /* {
+		{$DASH_USER} {$DASH_PASS_HASH}
+	}
+
+	reverse_proxy app:8050
+}

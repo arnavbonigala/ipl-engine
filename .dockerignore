@@ -1,0 +1,9 @@
+.git
+.env
+*.pem
+engine_state.json
+__pycache__
+*.pyc
+.cursor
+caddy_data
+caddy_config
