@@ -8,48 +8,52 @@
 </head>
 <body>
   <header>
-    <h1>IPL Betting Engine</h1>
-    <span id="engine-badge" class="engine-badge idle">Idle</span>
+    <div class="header-left">
+      <h1>IPL Betting Engine</h1>
+      <span class="header-sub">Kalshi · Live</span>
+    </div>
+    <div class="header-right">
+      <div class="header-balance">
+        <span class="header-balance-label">Balance</span>
+        <span class="header-balance-value" id="balance">—</span>
+      </div>
+      <div class="header-meta">
+        <span class="header-key" id="api-key">—</span>
+        <span id="engine-badge" class="engine-badge idle">Idle</span>
+      </div>
+    </div>
   </header>
 
   <div class="top-row">
-    <div class="panel" id="wallet-panel">
-      <h2>Wallet &amp; Bankroll</h2>
-      <div class="stat-grid">
-        <div class="stat-item">
-          <span class="stat-label">Balance</span>
-          <span class="stat-value" id="balance">$0.00</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-label">Wallet</span>
-          <span class="stat-value" id="wallet" style="font-size:13px;word-break:break-all">—</span>
-        </div>
-      </div>
+    <div class="stat-card">
+      <span class="stat-card-label">Return</span>
+      <span class="stat-card-value" id="return-pct">0%</span>
     </div>
-    <div class="panel" id="stats-panel">
-      <h2>Season Stats</h2>
-      <div class="stat-grid">
-        <div class="stat-item">
-          <span class="stat-label">Return</span>
-          <span class="stat-value" id="return-pct">0%</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-label">Win Rate</span>
-          <span class="stat-value" id="win-rate">0%</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-label">Total Bets</span>
-          <span class="stat-value" id="total-bets">0</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-label">Matches</span>
-          <span class="stat-value" id="total-matches">0</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-label">Max Drawdown</span>
-          <span class="stat-value" id="max-dd">0%</span>
-        </div>
-      </div>
+    <div class="stat-card">
+      <span class="stat-card-label">Win Rate</span>
+      <span class="stat-card-value" id="win-rate">0%</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-card-label">Total Bets</span>
+      <span class="stat-card-value" id="total-bets">0</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-card-label">Matches</span>
+      <span class="stat-card-value" id="total-matches">0</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-card-label">Max Drawdown</span>
+      <span class="stat-card-value" id="max-dd">0%</span>
+    </div>
+  </div>
+
+  <div class="panel full-width" id="live-panel">
+    <div class="panel-header">
+      <h2>Live Matches</h2>
+      <span class="live-dot" id="live-dot"></span>
+    </div>
+    <div id="live-container">
+      <div class="empty-state" id="live-empty">No live matches right now</div>
     </div>
   </div>
 
@@ -100,6 +104,9 @@
     </div>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3/dist/chartjs-plugin-annotation.min.js"></script>
   <script src="/static/app.js"></script>
 </body>
 </html>
