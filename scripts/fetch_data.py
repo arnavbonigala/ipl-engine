@@ -28,6 +28,7 @@ IPL_SERIES = {
     2023: "indian-premier-league-2023-1345038",
     2024: "indian-premier-league-2024-1410320",
     2025: "ipl-2025-1449924",
+    2026: "ipl-2026-1510719",
 }
 
 CONCURRENCY = 3
