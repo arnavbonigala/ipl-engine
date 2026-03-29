@@ -1,11 +1,13 @@
-"""Replay the 2025 season backtest and populate engine_state.json for the dashboard.
+"""Replay a season backtest and populate engine_state.json for the dashboard.
 
-Uses pre-cached Polymarket event mappings from engine/pm_events_2025.json
-(built by engine/discover_all.py).
+Usage:
+  python -m engine.backtest          # default: 2025
+  python -m engine.backtest 2023     # run on 2023
 """
 
 import json
 import subprocess
+import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -16,11 +18,13 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
+SEASON = int(sys.argv[1]) if len(sys.argv) > 1 else 2025
+
 ROOT = Path(__file__).resolve().parent.parent
 DATASET = ROOT / "data" / "dataset.csv"
 STATE_FILE = ROOT / "engine_state.json"
-EVENTS_CACHE = ROOT / "engine" / "pm_events_2025.json"
-TRADEABLE_CACHE = ROOT / "engine" / "tradeable_2025.json"
+EVENTS_CACHE = ROOT / "engine" / f"pm_events_{SEASON}.json"
+TRADEABLE_CACHE = ROOT / "engine" / f"tradeable_{SEASON}.json"
 
 CLOB = "https://clob.polymarket.com"
 
@@ -170,8 +174,8 @@ def run_backtest():
     for f in all_feats:
         df[f] = df[f].fillna(0).replace([np.inf, -np.inf], 0)
 
-    holdout = df[df["season"] == 2025].copy().sort_values("date")
-    print(f"  {len(holdout)} matches in 2025\n", flush=True)
+    holdout = df[df["season"] == SEASON].copy().sort_values("date")
+    print(f"  {len(holdout)} matches in {SEASON}\n", flush=True)
 
     with open(EVENTS_CACHE) as f:
         pm_events = json.load(f)
@@ -196,7 +200,7 @@ def run_backtest():
 
         print(f"  {date_str} {team1:>28} v {team2:<28}", end=" ", flush=True)
 
-        if volume < MIN_VOLUME:
+        if volume < MIN_VOLUME and SEASON >= 2025:
             skip_reasons[mid] = f"low volume (${volume:.0f})"
             print(f"-- low volume (${volume:.0f})", flush=True)
             continue
@@ -234,7 +238,7 @@ def run_backtest():
     feat_sets = _feat_sets()
     train_mask = (
         (df["season"] >= MIN_TRAIN_SEASON)
-        & (df["season"] < 2025)
+        & (df["season"] < SEASON)
         & ~df["season"].isin(COVID_SEASONS)
     )
     current_train = df[train_mask].copy()
@@ -247,9 +251,9 @@ def run_backtest():
     last_retrain_size = 0
 
     events.append({
-        "ts": "2025-03-22T07:00:00Z",
+        "ts": f"{dates[0]}T07:00:00Z",
         "type": "discovery",
-        "message": f"2025 Season Backtest (incremental retrain) — ${bankroll:.2f}",
+        "message": f"{SEASON} Season Backtest (incremental retrain) — ${bankroll:.2f}",
     })
 
     for date in dates:
@@ -295,14 +299,14 @@ def run_backtest():
 
         # Retrain only if training data grew since last retrain
         if len(current_train) != last_retrain_size:
-            n_2025 = int((current_train["season"] == 2025).sum())
-            if n_2025 > 0:
+            n_season = int((current_train["season"] == SEASON).sum())
+            if n_season > 0:
                 events.append({
                     "ts": f"{date}T06:00:00Z",
                     "type": "retrain",
-                    "message": f"Retrained model — {len(current_train)} rows ({n_2025} from 2025)",
+                    "message": f"Retrained model — {len(current_train)} rows ({n_season} from {SEASON})",
                 })
-                print(f"  [RETRAIN] {date}: {len(current_train)} training rows ({n_2025} from 2025)", flush=True)
+                print(f"  [RETRAIN] {date}: {len(current_train)} training rows ({n_season} from {SEASON})", flush=True)
             last_retrain_size = len(current_train)
 
         predict_df = day_rows.loc[[r.name for r in tradeable]]
@@ -402,9 +406,9 @@ def run_backtest():
             volume = pi["volume"]
             kelly = min((edge / (1 - entry)) * KELLY_FRACTION, MAX_BET_FRACTION)
             bet = round(bankroll * kelly, 2)
+            max_bet = volume * MAX_BET_VS_VOLUME if volume > 0 else bet
 
-            max_bet = volume * MAX_BET_VS_VOLUME
-            if bet > max_bet and max_bet > 0:
+            if volume > 0 and bet > max_bet and max_bet > 0:
                 bet = round(max_bet, 2)
 
             impact = SLIPPAGE_BASE + SLIPPAGE_IMPACT * (bet / volume if volume > 0 else 0)
@@ -493,7 +497,7 @@ def run_backtest():
         current_train = pd.concat([current_train, day_rows], ignore_index=True)
 
     events.append({
-        "ts": "2025-06-03T20:00:00Z",
+        "ts": f"{dates[-1]}T20:00:00Z",
         "type": "settle",
         "message": f"Season complete. Final bankroll: ${bankroll:.2f}",
     })
@@ -507,12 +511,13 @@ def run_backtest():
     print(f"  Final bankroll: ${bankroll:.2f}", flush=True)
     print(f"  Total P&L: ${total_pnl:+.2f}", flush=True)
     print(f"  Return: {total_pnl / STARTING_BANKROLL * 100:+.1f}%", flush=True)
-    print(f"  Retrains: {int((current_train['season'] == 2025).sum())} matches absorbed", flush=True)
+    print(f"  Retrains: {int((current_train['season'] == SEASON).sum())} matches absorbed", flush=True)
     print(f"{'='*60}", flush=True)
 
     state = {
         "bankroll": bankroll,
-        "wallet_address": "backtest-2025",
+        "starting_bankroll": STARTING_BANKROLL,
+        "wallet_address": f"backtest-{SEASON}",
         "positions": [],
         "history": history,
         "events": events,

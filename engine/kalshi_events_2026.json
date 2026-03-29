@@ -1,0 +1,152 @@
+{
+  "KXIPLGAME-26APR01DCLSG": {
+    "event_ticker": "KXIPLGAME-26APR01DCLSG",
+    "title": "Lucknow Super Giants vs Delhi Capitals",
+    "date": "2026-04-01",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "t1_ticker": "KXIPLGAME-26APR01DCLSG-LSG",
+    "t2_ticker": "KXIPLGAME-26APR01DCLSG-DC",
+    "volume": 1698.0,
+    "markets": {
+      "Lucknow Super Giants": {
+        "ticker": "KXIPLGAME-26APR01DCLSG-LSG",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.4600",
+        "yes_ask": "0.4900",
+        "last_price": "0.4800",
+        "volume": "605.00"
+      },
+      "Delhi Capitals": {
+        "ticker": "KXIPLGAME-26APR01DCLSG-DC",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.4700",
+        "yes_ask": "0.5500",
+        "last_price": "0.5500",
+        "volume": "1093.00"
+      }
+    }
+  },
+  "KXIPLGAME-26MAR31GTPBKS": {
+    "event_ticker": "KXIPLGAME-26MAR31GTPBKS",
+    "title": "Punjab Kings vs Gujarat Titans",
+    "date": "2026-03-31",
+    "team1": "Punjab Kings",
+    "team2": "Gujarat Titans",
+    "t1_ticker": "KXIPLGAME-26MAR31GTPBKS-PBKS",
+    "t2_ticker": "KXIPLGAME-26MAR31GTPBKS-GT",
+    "volume": 4405.0,
+    "markets": {
+      "Punjab Kings": {
+        "ticker": "KXIPLGAME-26MAR31GTPBKS-PBKS",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.5500",
+        "yes_ask": "0.5600",
+        "last_price": "0.5600",
+        "volume": "2799.00"
+      },
+      "Gujarat Titans": {
+        "ticker": "KXIPLGAME-26MAR31GTPBKS-GT",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.4500",
+        "yes_ask": "0.4700",
+        "last_price": "0.4700",
+        "volume": "1606.00"
+      }
+    }
+  },
+  "KXIPLGAME-26MAR30CSKRR": {
+    "event_ticker": "KXIPLGAME-26MAR30CSKRR",
+    "title": "Rajasthan Royals vs Chennai Super Kings",
+    "date": "2026-03-30",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings",
+    "t1_ticker": "KXIPLGAME-26MAR30CSKRR-RR",
+    "t2_ticker": "KXIPLGAME-26MAR30CSKRR-CSK",
+    "volume": 16454.0,
+    "markets": {
+      "Rajasthan Royals": {
+        "ticker": "KXIPLGAME-26MAR30CSKRR-RR",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.4400",
+        "yes_ask": "0.4600",
+        "last_price": "0.4600",
+        "volume": "5527.00"
+      },
+      "Chennai Super Kings": {
+        "ticker": "KXIPLGAME-26MAR30CSKRR-CSK",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.5300",
+        "yes_ask": "0.5400",
+        "last_price": "0.5400",
+        "volume": "10927.00"
+      }
+    }
+  },
+  "KXIPLGAME-26MAR29KKRMI": {
+    "event_ticker": "KXIPLGAME-26MAR29KKRMI",
+    "title": "Mumbai Indians vs Kolkata Knight Riders",
+    "date": "2026-03-29",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders",
+    "t1_ticker": "KXIPLGAME-26MAR29KKRMI-MI",
+    "t2_ticker": "KXIPLGAME-26MAR29KKRMI-KKR",
+    "volume": 1531169.0,
+    "markets": {
+      "Mumbai Indians": {
+        "ticker": "KXIPLGAME-26MAR29KKRMI-MI",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.4400",
+        "yes_ask": "0.4700",
+        "last_price": "0.4700",
+        "volume": "1050974.00"
+      },
+      "Kolkata Knight Riders": {
+        "ticker": "KXIPLGAME-26MAR29KKRMI-KKR",
+        "status": "active",
+        "result": "",
+        "yes_bid": "0.5400",
+        "yes_ask": "0.5500",
+        "last_price": "0.5400",
+        "volume": "480195.00"
+      }
+    }
+  },
+  "KXIPLGAME-26MAR28SRHRCB": {
+    "event_ticker": "KXIPLGAME-26MAR28SRHRCB",
+    "title": "Royal Challengers Bengaluru vs Sunrisers Hyderabad",
+    "date": "2026-03-28",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Sunrisers Hyderabad",
+    "t1_ticker": "KXIPLGAME-26MAR28SRHRCB-RCB",
+    "t2_ticker": "KXIPLGAME-26MAR28SRHRCB-SRH",
+    "volume": 2859760.0,
+    "markets": {
+      "Royal Challengers Bengaluru": {
+        "ticker": "KXIPLGAME-26MAR28SRHRCB-RCB",
+        "status": "finalized",
+        "result": "yes",
+        "yes_bid": "0.0000",
+        "yes_ask": "1.0000",
+        "last_price": "0.9900",
+        "volume": "1327198.00"
+      },
+      "Sunrisers Hyderabad": {
+        "ticker": "KXIPLGAME-26MAR28SRHRCB-SRH",
+        "status": "finalized",
+        "result": "no",
+        "yes_bid": "0.0000",
+        "yes_ask": "1.0000",
+        "last_price": "0.0100",
+        "volume": "1532562.00"
+      }
+    }
+  }
+}
