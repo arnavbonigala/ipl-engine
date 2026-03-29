@@ -1,20 +1,30 @@
-"""Main orchestrator loop for the IPL betting engine."""
+"""Main orchestrator loop for the IPL betting engine (Kalshi).
 
+Usage:
+  python -m engine.run              # full live mode (requires KALSHI_API_KEY_ID + KALSHI_PRIVATE_KEY_PATH)
+  python -m engine.run --paper      # paper trading: signals only, no real orders
+"""
+
+from dotenv import load_dotenv
+load_dotenv()
+
+import os
 import subprocess
 import sys
 import threading
 import time
 from datetime import date
 
-from engine.config import DASHBOARD_PORT
+from engine.config import DASHBOARD_PORT, TEAM_KEYWORDS
 from engine.state import load_state, save_state, open_position, add_upcoming, get_bankroll
 from engine.logger import log_event
 from engine.market import find_ipl_markets
 from engine.scraper import get_todays_ipl_matches, poll_until_toss
 from engine.signal import generate_signal
-from engine.executor import place_bet
 from engine.monitor import monitor_all_positions
 from engine.server import start_server
+
+PAPER_MODE = "--paper" in sys.argv or not os.environ.get("KALSHI_API_KEY_ID")
 
 
 def _start_dashboard():
@@ -26,12 +36,12 @@ def _start_dashboard():
 
 
 def _discover_markets(state: dict, match_date: str):
-    """Find today's IPL markets on Polymarket and add to upcoming."""
-    log_event(state, "discovery", f"Searching Polymarket for IPL matches on {match_date}")
+    """Find today's IPL markets on Kalshi and add to upcoming."""
+    log_event(state, "discovery", f"Searching Kalshi for IPL matches on {match_date}")
     markets = find_ipl_markets(match_date)
 
     if not markets:
-        log_event(state, "discovery", "No IPL markets found on Polymarket for today")
+        log_event(state, "discovery", "No IPL markets found on Kalshi for today")
         return []
 
     for mkt in markets:
@@ -39,16 +49,16 @@ def _discover_markets(state: dict, match_date: str):
             "match_date": match_date,
             "team1": mkt["team1"],
             "team2": mkt["team2"],
-            "polymarket_slug": mkt["slug"],
-            "t1_token_id": mkt["t1_token_id"],
-            "t2_token_id": mkt["t2_token_id"],
+            "event_ticker": mkt["event_ticker"],
+            "t1_ticker": mkt["t1_ticker"],
+            "t2_ticker": mkt["t2_ticker"],
             "model_prediction": None,
             "status": "awaiting_toss",
         })
         log_event(
             state, "discovery",
-            f"Found market: {mkt['team1']} vs {mkt['team2']} ({mkt['slug']})",
-            data={"event_id": mkt["event_id"], "volume": mkt.get("volume", 0)},
+            f"Found market: {mkt['team1']} vs {mkt['team2']} ({mkt['event_ticker']})",
+            data={"volume": mkt.get("volume", 0)},
         )
 
     save_state(state)
@@ -81,7 +91,11 @@ def _process_match(state: dict, match: dict, market_info: dict):
         data={"team1_xi": details["team1_xi"][:3], "team2_xi": details["team2_xi"][:3]},
     )
 
-    bankroll = get_bankroll(state)
+    try:
+        from engine.executor import get_balance
+        bankroll = get_balance()
+    except Exception:
+        bankroll = get_bankroll(state)
     sig = generate_signal(details, market_info, bankroll)
 
     if not sig:
@@ -96,17 +110,26 @@ def _process_match(state: dict, match: dict, market_info: dict):
         data=sig,
     )
 
-    order_id = place_bet(sig)
-    if not order_id:
-        log_event(state, "error", f"Order placement failed for {sig['team']}")
-        return
-
-    log_event(
-        state, "bet",
-        f"Placed: {sig['contracts']:.1f} contracts of {sig['team']} @ "
-        f"{sig['market_price']:.2f} (${sig['bet_amount']:.2f})",
-        data={"order_id": order_id},
-    )
+    if PAPER_MODE:
+        order_id = "paper-" + date.today().isoformat()
+        log_event(
+            state, "bet",
+            f"[PAPER] Would place: {sig['contracts']:.1f} contracts of {sig['team']} @ "
+            f"{sig['market_price']:.2f} (${sig['bet_amount']:.2f})",
+            data=sig,
+        )
+    else:
+        from engine.executor import place_bet
+        order_id = place_bet(sig)
+        if not order_id:
+            log_event(state, "error", f"Order placement failed for {sig['team']}")
+            return
+        log_event(
+            state, "bet",
+            f"Placed: {sig['contracts']:.1f} contracts of {sig['team']} @ "
+            f"{sig['market_price']:.2f} (${sig['bet_amount']:.2f})",
+            data={"order_id": order_id},
+        )
 
     position = {
         "match_date": date.today().isoformat(),
@@ -114,7 +137,7 @@ def _process_match(state: dict, match: dict, market_info: dict):
         "team2": sig["team2"],
         "side": sig["side"],
         "team": sig["team"],
-        "token_id": sig["token_id"],
+        "ticker": sig["ticker"],
         "entry_price": sig["market_price"],
         "contracts": sig["contracts"],
         "bet_amount": sig["bet_amount"],
@@ -127,17 +150,18 @@ def _process_match(state: dict, match: dict, market_info: dict):
     open_position(state, position)
 
 
-def _pair_matches_to_markets(cricket_matches: list, polymarket_markets: list) -> list:
-    """Match cricinfo matches to Polymarket markets by team names."""
+def _pair_matches_to_markets(cricket_matches: list, kalshi_markets: list) -> list:
+    """Match cricinfo matches to Kalshi markets by team names."""
     pairs = []
     used = set()
     for cm in cricket_matches:
-        for i, pm in enumerate(polymarket_markets):
+        for i, km in enumerate(kalshi_markets):
             if i in used:
                 continue
-            if (cm.get("team1") == pm.get("team1") and cm.get("team2") == pm.get("team2")) or \
-               (cm.get("team1") == pm.get("team2") and cm.get("team2") == pm.get("team1")):
-                pairs.append((cm, pm))
+            cm_teams = {cm.get("team1"), cm.get("team2")}
+            km_teams = {km.get("team1"), km.get("team2")}
+            if cm_teams == km_teams:
+                pairs.append((cm, km))
                 used.add(i)
                 break
     return pairs
@@ -174,7 +198,7 @@ def _retrain(state: dict):
 def run():
     """Main entry point."""
     print("=" * 50)
-    print("  IPL Betting Engine")
+    print(f"  IPL Betting Engine [Kalshi] {'[PAPER MODE]' if PAPER_MODE else '[LIVE]'}")
     print("=" * 50)
 
     state = load_state()
@@ -185,8 +209,8 @@ def run():
 
     today = date.today().isoformat()
 
-    # Step 1: Find Polymarket markets
-    pm_markets = _discover_markets(state, today)
+    # Step 1: Find Kalshi markets
+    kalshi_markets = _discover_markets(state, today)
 
     # Step 2: Find cricket matches
     cricket_matches = get_todays_ipl_matches()
@@ -196,7 +220,7 @@ def run():
         log_event(state, "scrape", "No live IPL matches found on ESPNCricinfo")
 
     # Step 3: Pair them up
-    pairs = _pair_matches_to_markets(cricket_matches, pm_markets)
+    pairs = _pair_matches_to_markets(cricket_matches, kalshi_markets)
 
     if not pairs:
         log_event(state, "discovery", "No actionable match/market pairs for today")
@@ -212,12 +236,12 @@ def run():
 
     # Step 4: Process each match (scrape toss, generate signal, bet)
     threads = []
-    for cm, pm in pairs:
+    for cm, km in pairs:
         market_info = {
-            "t1_token_id": pm["t1_token_id"],
-            "t2_token_id": pm["t2_token_id"],
-            "team1": pm["team1"],
-            "team2": pm["team2"],
+            "t1_ticker": km["t1_ticker"],
+            "t2_ticker": km["t2_ticker"],
+            "team1": km["team1"],
+            "team2": km["team2"],
         }
         t = threading.Thread(target=_process_match, args=(state, cm, market_info))
         t.start()

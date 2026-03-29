@@ -41,28 +41,31 @@ def open_position(state: dict, position: dict):
     save_state(state)
 
 
-def close_position(state: dict, token_id: str, status: str, pnl: float):
+def close_position(state: dict, ticker: str, status: str, pnl: float):
+    cost = 0.0
     for pos in state["positions"]:
-        if pos["token_id"] == token_id and pos["status"] == "open":
+        if pos["ticker"] == ticker and pos["status"] == "open":
             pos["status"] = status
             pos["pnl"] = round(pnl, 4)
+            cost = pos.get("bet_amount", 0.0)
             state["history"].append(pos)
             break
     state["positions"] = [
         p for p in state["positions"]
-        if not (p["token_id"] == token_id and p["status"] != "open")
+        if not (p["ticker"] == ticker and p["status"] != "open")
     ]
-    state["bankroll"] = round(state["bankroll"] + pnl, 4)
+    # cost was already subtracted at placement; add it back along with pnl
+    state["bankroll"] = round(state["bankroll"] + cost + pnl, 4)
     save_state(state)
 
 
 def add_upcoming(state: dict, match: dict):
-    existing_slugs = {m.get("polymarket_slug") for m in state["upcoming"]}
-    if match.get("polymarket_slug") not in existing_slugs:
+    existing = {m.get("event_ticker") for m in state["upcoming"]}
+    if match.get("event_ticker") not in existing:
         state["upcoming"].append(match)
         save_state(state)
 
 
-def clear_upcoming(state: dict, slug: str):
-    state["upcoming"] = [m for m in state["upcoming"] if m.get("polymarket_slug") != slug]
+def clear_upcoming(state: dict, event_ticker: str):
+    state["upcoming"] = [m for m in state["upcoming"] if m.get("event_ticker") != event_ticker]
     save_state(state)
