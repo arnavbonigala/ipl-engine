@@ -65,7 +65,7 @@ def _discover_markets(state: dict, match_date: str):
     return markets
 
 
-def _finish_match(state: dict, market_info: dict, status: str, sig: dict | None = None):
+def _finish_match(state: dict, market_info: dict, status: str, prediction: dict | None = None):
     """Move match from upcoming to history."""
     event_ticker = market_info.get("event_ticker") or ""
     entry = {
@@ -75,9 +75,12 @@ def _finish_match(state: dict, market_info: dict, status: str, sig: dict | None 
         "event_ticker": event_ticker,
         "status": status,
     }
-    if sig:
-        entry["model_prob"] = sig.get("model_prob")
-        entry["edge"] = sig.get("edge")
+    if prediction:
+        entry["model_t1_prob"] = prediction.get("model_t1_prob")
+        entry["model_prob"] = prediction.get("model_prob")
+        entry["chosen_team"] = prediction.get("chosen_team")
+        entry["market_price"] = prediction.get("market_price")
+        entry["edge"] = prediction.get("edge")
     state.setdefault("history", []).append(entry)
     clear_upcoming(state, event_ticker)
 
@@ -116,11 +119,21 @@ def _process_match(state: dict, match: dict, market_info: dict):
         bankroll = get_balance()
     except Exception:
         bankroll = get_bankroll(state)
-    sig = generate_signal(details, market_info, bankroll)
+    sig, prediction = generate_signal(details, market_info, bankroll)
 
     if not sig:
-        log_event(state, "signal", f"No edge for {team1} vs {team2} — skipping")
-        _finish_match(state, market_info, "skipped_no_edge")
+        mkt_price = prediction.get("market_price")
+        mkt_str = f", market {mkt_price:.0%}" if mkt_price else ""
+        edge = prediction.get("edge")
+        edge_str = f", edge {edge:+.2f}" if edge is not None else ""
+        log_event(
+            state, "signal",
+            f"No edge for {team1} vs {team2} — model picks "
+            f"{prediction['chosen_team']} @ {prediction['model_prob']:.0%}"
+            f"{mkt_str}{edge_str}",
+            data=prediction,
+        )
+        _finish_match(state, market_info, "skipped_no_edge", prediction)
         return
 
     log_event(

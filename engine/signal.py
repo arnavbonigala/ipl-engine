@@ -36,36 +36,46 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
 
     model_t1_prob = result["team1_win_prob"]
     model_confidence = max(model_t1_prob, 1 - model_t1_prob)
-
-    if model_confidence < MIN_CONFIDENCE:
-        return None
-
     model_picks_t1 = model_t1_prob > 0.5
     chosen_team = match_details["team1"] if model_picks_t1 else match_details["team2"]
     model_our_prob = model_t1_prob if model_picks_t1 else 1 - model_t1_prob
 
-    # Map by team name — cricdata and Kalshi may order teams differently
+    # Always-available prediction summary
+    prediction = {
+        "team1": match_details["team1"],
+        "team2": match_details["team2"],
+        "model_t1_prob": round(model_t1_prob, 4),
+        "model_prob": round(model_our_prob, 4),
+        "chosen_team": chosen_team,
+    }
+
+    if model_confidence < MIN_CONFIDENCE:
+        return None, prediction
+
     team_to_ticker = {
         market_info["team1"]: market_info["t1_ticker"],
         market_info["team2"]: market_info["t2_ticker"],
     }
     ticker = team_to_ticker.get(chosen_team)
     if not ticker:
-        return None
+        return None, prediction
 
     entry_price = get_market_price(ticker)
     if entry_price is None:
-        return None
+        return None, prediction
+
+    prediction["market_price"] = round(entry_price, 4)
+    prediction["edge"] = round(model_our_prob - entry_price, 4)
 
     if entry_price <= 0.01 or entry_price >= 0.99:
-        return None
+        return None, prediction
 
     if entry_price > MAX_ENTRY_PRICE:
-        return None
+        return None, prediction
 
     edge = model_our_prob - entry_price
     if edge < MIN_EDGE:
-        return None
+        return None, prediction
 
     kelly_full = edge / (1 - entry_price)
     kelly = min(kelly_full * KELLY_FRACTION, MAX_BET_FRACTION)
@@ -76,7 +86,7 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
 
     side = "T1" if model_picks_t1 else "T2"
 
-    return {
+    sig = {
         "side": side,
         "team": chosen_team,
         "ticker": ticker,
@@ -90,3 +100,4 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
         "team1": match_details["team1"],
         "team2": match_details["team2"],
     }
+    return sig, prediction
