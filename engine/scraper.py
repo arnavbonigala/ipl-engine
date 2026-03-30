@@ -93,6 +93,7 @@ def get_todays_ipl_matches() -> list[dict]:
             "match_slug": match_slug,
             "series_slug": IPL_2026_SERIES,
             "date": match_date,
+            "start_time": m.get("startTime", ""),
             "team1": t1,
             "team2": t2,
             "venue": ground.get("longName", ground.get("name", "")),

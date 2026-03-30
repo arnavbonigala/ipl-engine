@@ -13,7 +13,7 @@ import subprocess
 import sys
 import threading
 import time
-from datetime import date
+from datetime import date, datetime, timezone, timedelta
 
 from engine.config import DASHBOARD_PORT, TEAM_KEYWORDS
 from engine.state import load_state, save_state, open_position, add_upcoming, clear_upcoming, get_bankroll
@@ -94,14 +94,33 @@ def _process_match(state: dict, match: dict, market_info: dict):
     team1 = match.get("team1") or market_info.get("team1")
     team2 = match.get("team2") or market_info.get("team2")
 
-    log_event(state, "scrape", f"Waiting for toss/XIs: {team1} vs {team2}")
-    save_state(state)
-
     series_slug = match.get("series_slug", "")
     match_slug = match.get("match_slug", "")
 
+    # Wait until 2 hours before match start before polling
+    start_time_str = match.get("start_time", "")
+    if start_time_str:
+        try:
+            match_start = datetime.fromisoformat(start_time_str.replace("Z", "+00:00"))
+            poll_start = match_start - timedelta(hours=2)
+            now = datetime.now(timezone.utc)
+            wait_secs = (poll_start - now).total_seconds()
+            if wait_secs > 60:
+                log_event(
+                    state, "scrape",
+                    f"Sleeping until {poll_start.strftime('%H:%M UTC')} "
+                    f"({wait_secs/3600:.1f}h) before polling for toss: {team1} vs {team2}",
+                )
+                save_state(state)
+                time.sleep(max(wait_secs, 0))
+        except (ValueError, TypeError):
+            pass
+
+    log_event(state, "scrape", f"Polling for toss/XIs: {team1} vs {team2}")
+    save_state(state)
+
     if series_slug and match_slug:
-        details = poll_until_toss(series_slug, match_slug, timeout=7200)
+        details = poll_until_toss(series_slug, match_slug, timeout=14400)
     else:
         log_event(state, "error", f"No cricinfo match slug for {team1} vs {team2} — skipping")
         _finish_match(state, market_info, "skipped_no_slug")
@@ -233,24 +252,11 @@ def _retrain(state: dict):
     save_state(state)
 
 
-def run():
-    """Main entry point."""
-    print("=" * 50)
-    print(f"  IPL Betting Engine [Kalshi] {'[PAPER MODE]' if PAPER_MODE else '[LIVE]'}")
-    print("=" * 50)
-
-    state = load_state()
-    try:
-        from engine.executor import get_balance
-        bal = get_balance()
-    except Exception:
-        bal = get_bankroll(state)
-    log_event(state, "discovery", f"Engine started. Balance: ${bal:.2f}")
-    save_state(state)
-
-    _start_dashboard()
-
+def _run_day(state: dict):
+    """Run the engine for a single match day."""
     today = date.today().isoformat()
+    log_event(state, "discovery", f"Starting match day: {today}")
+    save_state(state)
 
     # Step 1: Find Kalshi markets
     kalshi_markets = _discover_markets(state, today)
@@ -269,16 +275,9 @@ def run():
     if not pairs:
         log_event(state, "discovery", "No actionable match/market pairs for today")
         save_state(state)
-        print("\n  No matches to trade. Dashboard will stay live.")
-        print("  Press Ctrl+C to stop.\n")
-        try:
-            while True:
-                time.sleep(60)
-        except KeyboardInterrupt:
-            pass
         return
 
-    # Step 4: Process each match (scrape toss, generate signal, bet)
+    # Step 4: Process each match (sleeps until ~2h before start, then polls for toss)
     threads = []
     for cm, km in pairs:
         market_info = {
@@ -305,20 +304,50 @@ def run():
         final_bal = get_balance()
     except Exception:
         final_bal = get_bankroll(state)
-    log_event(
-        state, "settle",
-        f"Day complete. Final balance: ${final_bal:.2f}",
-    )
+    log_event(state, "settle", f"Day complete. Final balance: ${final_bal:.2f}")
     save_state(state)
 
     # Step 6: Retrain model with today's new match data
     _retrain(state)
 
-    print(f"\n  Day complete. Balance: ${final_bal:.2f}")
-    print("  Dashboard will stay live. Press Ctrl+C to stop.\n")
+
+def _seconds_until_next_morning() -> float:
+    """Seconds until 08:00 UTC the next day (~1:30 PM IST, well before any match)."""
+    now = datetime.now(timezone.utc)
+    tomorrow_8am = (now + timedelta(days=1)).replace(hour=8, minute=0, second=0, microsecond=0)
+    return (tomorrow_8am - now).total_seconds()
+
+
+def run():
+    """Main entry point — runs continuously, one match day per iteration."""
+    print("=" * 50)
+    print(f"  IPL Betting Engine [Kalshi] {'[PAPER MODE]' if PAPER_MODE else '[LIVE]'}")
+    print("=" * 50)
+
+    state = load_state()
+    try:
+        from engine.executor import get_balance
+        bal = get_balance()
+    except Exception:
+        bal = get_bankroll(state)
+    log_event(state, "discovery", f"Engine started. Balance: ${bal:.2f}")
+    save_state(state)
+
+    _start_dashboard()
+
     try:
         while True:
-            time.sleep(60)
+            _run_day(state)
+
+            sleep_secs = _seconds_until_next_morning()
+            log_event(
+                state, "discovery",
+                f"Day done. Sleeping {sleep_secs/3600:.1f}h until next morning scan.",
+            )
+            save_state(state)
+            time.sleep(sleep_secs)
+
+            state = load_state()
     except KeyboardInterrupt:
         pass
 
