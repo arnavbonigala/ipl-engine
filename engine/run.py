@@ -16,7 +16,7 @@ import time
 from datetime import date
 
 from engine.config import DASHBOARD_PORT, TEAM_KEYWORDS
-from engine.state import load_state, save_state, open_position, add_upcoming, get_bankroll
+from engine.state import load_state, save_state, open_position, add_upcoming, clear_upcoming, get_bankroll
 from engine.logger import log_event
 from engine.market import find_ipl_markets
 from engine.scraper import get_todays_ipl_matches, poll_until_toss
@@ -65,12 +65,30 @@ def _discover_markets(state: dict, match_date: str):
     return markets
 
 
+def _finish_match(state: dict, market_info: dict, status: str, sig: dict | None = None):
+    """Move match from upcoming to history."""
+    event_ticker = market_info.get("event_ticker") or ""
+    entry = {
+        "match_date": date.today().isoformat(),
+        "team1": market_info.get("team1", ""),
+        "team2": market_info.get("team2", ""),
+        "event_ticker": event_ticker,
+        "status": status,
+    }
+    if sig:
+        entry["model_prob"] = sig.get("model_prob")
+        entry["edge"] = sig.get("edge")
+    state.setdefault("history", []).append(entry)
+    clear_upcoming(state, event_ticker)
+
+
 def _process_match(state: dict, match: dict, market_info: dict):
     """Process a single match: scrape, signal, bet, monitor."""
     team1 = match.get("team1") or market_info.get("team1")
     team2 = match.get("team2") or market_info.get("team2")
 
     log_event(state, "scrape", f"Waiting for toss/XIs: {team1} vs {team2}")
+    save_state(state)
 
     series_slug = match.get("series_slug", "")
     match_slug = match.get("match_slug", "")
@@ -79,10 +97,12 @@ def _process_match(state: dict, match: dict, market_info: dict):
         details = poll_until_toss(series_slug, match_slug, timeout=7200)
     else:
         log_event(state, "error", f"No cricinfo match slug for {team1} vs {team2} — skipping")
+        _finish_match(state, market_info, "skipped_no_slug")
         return
 
     if not details:
         log_event(state, "error", f"Toss/XIs not available for {team1} vs {team2} — timed out")
+        _finish_match(state, market_info, "skipped_timeout")
         return
 
     log_event(
@@ -100,6 +120,7 @@ def _process_match(state: dict, match: dict, market_info: dict):
 
     if not sig:
         log_event(state, "signal", f"No edge for {team1} vs {team2} — skipping")
+        _finish_match(state, market_info, "skipped_no_edge")
         return
 
     log_event(
@@ -248,6 +269,7 @@ def run():
             "t2_ticker": km["t2_ticker"],
             "team1": km["team1"],
             "team2": km["team2"],
+            "event_ticker": km["event_ticker"],
         }
         t = threading.Thread(target=_process_match, args=(state, cm, market_info))
         t.start()

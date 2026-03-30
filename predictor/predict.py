@@ -69,6 +69,60 @@ def _pick_best_impact(candidates: dict[str, str], before_date: str) -> str | Non
     return best_pid
 
 
+def _ensure_player_data(pid: str, name: str):
+    """Fetch T20 career innings for a player if not already cached."""
+    import re
+    player_dir = ROOT / "data" / "player_innings"
+    pattern = f"*_{pid}.csv"
+    if list(player_dir.glob(pattern)):
+        return
+    try:
+        from cricdata import CricinfoClient
+        ci = CricinfoClient()
+        bat = ci.player_innings(pid, fmt="t20", stat_type="batting")
+        bowl = ci.player_innings(pid, fmt="t20", stat_type="bowling")
+    except Exception as e:
+        print(f"  Warning: could not fetch data for {name} ({pid}): {e}", file=sys.stderr)
+        return
+
+    bat_inn = bat.get("innings", [])
+    bowl_inn = bowl.get("innings", [])
+    rows = []
+    for i, bi in enumerate(bat_inn):
+        bw = bowl_inn[i] if i < len(bowl_inn) else {}
+        rows.append({
+            "player_id": pid, "player_name": name,
+            "start_date": bi.get("Start Date", ""),
+            "opposition": bi.get("Opposition", ""),
+            "ground": bi.get("Ground", ""),
+            "bat_innings": bi.get("Inns", ""),
+            "bat_position": bi.get("Pos", ""),
+            "bat_runs": bi.get("Runs", ""),
+            "bat_mins": bi.get("Mins", ""),
+            "bat_bf": bi.get("BF", ""),
+            "bat_4s": bi.get("4s", ""),
+            "bat_6s": bi.get("6s", ""),
+            "bat_sr": bi.get("SR", ""),
+            "bat_dismissal": bi.get("Dismissal", ""),
+            "bowl_innings": bw.get("Inns", ""),
+            "bowl_overs": bw.get("Overs", ""),
+            "bowl_maidens": bw.get("Mdns", ""),
+            "bowl_runs": bw.get("Runs", ""),
+            "bowl_wickets": bw.get("Wkts", ""),
+            "bowl_economy": bw.get("Econ", ""),
+        })
+    if rows:
+        import csv
+        safe = re.sub(r"[^\w\s-]", "", name).strip().replace(" ", "_") + f"_{pid}"
+        outpath = player_dir / f"{safe}.csv"
+        fields = list(rows[0].keys())
+        with open(outpath, "w", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=fields)
+            w.writeheader()
+            w.writerows(rows)
+        print(f"  Fetched T20 data for {name} ({pid}): {len(rows)} innings", file=sys.stderr)
+
+
 def predict(
     team1: str,
     team2: str,
@@ -80,6 +134,7 @@ def predict(
     team2_xi: list[str],
     team1_impact: list[str] | None = None,
     team2_impact: list[str] | None = None,
+    squad_ids: dict | None = None,
 ) -> dict:
     team1 = normalize_team(team1)
     team2 = normalize_team(team2)
@@ -94,10 +149,29 @@ def predict(
 
     before_date = all_matches[-1]["date"]
 
-    for xi, impact in ((t1_xi, team1_impact), (t2_xi, team2_impact)):
+    for team, xi, impact in (
+        (team1, t1_xi, team1_impact),
+        (team2, t2_xi, team2_impact),
+    ):
         if not impact:
             continue
         resolved = resolve_player_ids(impact, all_xis)
+        # For unresolved names, try squad_ids from the scorecard
+        if squad_ids and len(resolved) < len(impact):
+            team_squad = squad_ids.get(team, {})
+            name_to_sid = {v.lower(): k for k, v in team_squad.items()}
+            for name in impact:
+                name_l = name.strip().lower()
+                if name_l not in {v.lower() for v in resolved.values()}:
+                    sid = name_to_sid.get(name_l)
+                    if not sid:
+                        for sq_name, sq_id in name_to_sid.items():
+                            if name_l in sq_name:
+                                sid = sq_id
+                                break
+                    if sid:
+                        _ensure_player_data(sid, name.strip())
+                        resolved[sid] = name.strip()
         already = set(xi.keys())
         candidates = {pid: name for pid, name in resolved.items() if pid not in already}
         if not candidates:

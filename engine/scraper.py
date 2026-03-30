@@ -169,12 +169,21 @@ def _get_match_details(ci: CricinfoClient, series_slug: str, match_slug: str) ->
         return None
 
     xi = {}
+    squad_ids = {}  # canonical_team -> {player_id: player_name}
     for tp in team_players:
-        if tp.get("type") != "PLAYING":
-            continue
         tp_team = tp.get("team", {})
         canonical = _match_team_name(tp_team.get("longName", ""))
         if not canonical:
+            continue
+
+        for p in tp.get("players", []):
+            player = p.get("player", {})
+            pid = str(player.get("id", ""))
+            name = player.get("longName") or player.get("name", "")
+            if pid and name:
+                squad_ids.setdefault(canonical, {})[pid] = name
+
+        if tp.get("type") != "PLAYING":
             continue
         names = []
         for p in tp.get("players", []):
@@ -226,6 +235,7 @@ def _get_match_details(ci: CricinfoClient, series_slug: str, match_slug: str) ->
     if impact_subs:
         result["impact_subs"] = impact_subs
 
+    result["squad_ids"] = squad_ids
     return result
 
 

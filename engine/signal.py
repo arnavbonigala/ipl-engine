@@ -31,6 +31,7 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
         team2_xi=match_details["team2_xi"],
         team1_impact=impact.get(match_details["team1"]),
         team2_impact=impact.get(match_details["team2"]),
+        squad_ids=match_details.get("squad_ids"),
     )
 
     model_t1_prob = result["team1_win_prob"]
