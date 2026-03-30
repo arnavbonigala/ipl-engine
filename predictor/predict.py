@@ -123,12 +123,18 @@ def predict(
     feats = build_match_features(match, all_matches, all_xis)
 
     model, bundle = load_model()
-    feature_cols = bundle["feature_cols"]
+    base_models_dict = model["base_models"]
+    meta_model = model["meta_model"]
+    feat_sets = bundle["base_models"]
 
-    X = np.array([[feats.get(c, 0) for c in feature_cols]])
-    X = np.nan_to_num(X, nan=0.0, posinf=0.0, neginf=0.0)
+    base_preds = []
+    for name, feats_list in feat_sets.items():
+        X = np.array([[feats.get(c, 0) for c in feats_list]])
+        X = np.nan_to_num(X, nan=0.0, posinf=0.0, neginf=0.0)
+        base_preds.append(base_models_dict[name].predict_proba(X)[0, 1])
 
-    prob = model.predict_proba(X)[0, 1]
+    meta_X = np.array([base_preds])
+    prob = meta_model.predict_proba(meta_X)[0, 1]
 
     return {
         "team1": team1,
