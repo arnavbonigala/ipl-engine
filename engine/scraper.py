@@ -103,6 +103,10 @@ def get_todays_ipl_matches() -> list[dict]:
 
 
 def get_match_details(series_slug: str, match_slug: str) -> dict | None:
+    return _get_match_details(_ci, series_slug, match_slug)
+
+
+def _get_match_details(ci: CricinfoClient, series_slug: str, match_slug: str) -> dict | None:
     """Fetch toss, venue, and playing XI for a match.
 
     Uses match_scorecard endpoint which exposes:
@@ -114,7 +118,7 @@ def get_match_details(series_slug: str, match_slug: str) -> dict | None:
     if toss/XIs are not yet available.
     """
     try:
-        sc = _ci.match_scorecard(series_slug, match_slug)
+        sc = ci.match_scorecard(series_slug, match_slug)
     except Exception:
         return None
 
@@ -229,7 +233,10 @@ def poll_until_toss(series_slug: str, match_slug: str, timeout: int = 7200) -> d
     """Poll until toss and XIs are available. Returns match details or None on timeout."""
     elapsed = 0
     while elapsed < timeout:
-        details = get_match_details(series_slug, match_slug)
+        # Fresh client each iteration — CricinfoClient caches scorecards
+        # in memory, so reusing _ci would return stale pre-toss data forever.
+        ci = CricinfoClient()
+        details = _get_match_details(ci, series_slug, match_slug)
         if details:
             return details
         time.sleep(SCRAPE_POLL_SECS)

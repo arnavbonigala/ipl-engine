@@ -223,6 +223,7 @@ def run():
         log_event(state, "scrape", f"Found {len(cricket_matches)} IPL match(es) on ESPNCricinfo")
     else:
         log_event(state, "scrape", "No live IPL matches found on ESPNCricinfo")
+    save_state(state)
 
     # Step 3: Pair them up
     pairs = _pair_matches_to_markets(cricket_matches, kalshi_markets)
