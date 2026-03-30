@@ -56,34 +56,48 @@ def get_ipl_fixtures(series_slug: str) -> list[dict]:
     return results
 
 
+IPL_2026_SERIES = "ipl-2026-1510719"
+
+
 def get_todays_ipl_matches() -> list[dict]:
-    """Get today's IPL matches from live matches endpoint."""
+    """Get today's IPL matches from series_matches (correct objectIds for scorecard)."""
+    from datetime import date
+
+    today = date.today().isoformat()
     results = []
-    for match in _ci.live_matches():
-        series = match.get("series", {})
-        name = series.get("longName", "") or series.get("name", "")
-        if "indian premier league" not in name.lower():
+    try:
+        data = _ci.series_matches(IPL_2026_SERIES)
+        matches = data.get("content", {}).get("matches", [])
+    except Exception:
+        return []
+
+    for m in matches:
+        match_date = (m.get("startDate") or "")[:10]
+        if match_date != today:
             continue
 
-        series_slug = f"{series['slug']}-{series['objectId']}"
-        match_slug = f"{match['slug']}-{match['objectId']}"
-        teams = match.get("teams", [])
+        stage = m.get("stage", "")
+        if stage == "FINISHED":
+            continue
+
+        match_slug = f"{m['slug']}-{m['objectId']}"
+        teams = m.get("teams", [])
         if len(teams) < 2:
             continue
 
         t1 = _match_team_name(teams[0].get("team", {}).get("longName", ""))
         t2 = _match_team_name(teams[1].get("team", {}).get("longName", ""))
-        ground = match.get("ground", {})
+        ground = m.get("ground", {})
 
         results.append({
             "match_slug": match_slug,
-            "series_slug": series_slug,
-            "date": match.get("startDate", "")[:10],
+            "series_slug": IPL_2026_SERIES,
+            "date": match_date,
             "team1": t1,
             "team2": t2,
             "venue": ground.get("longName", ground.get("name", "")),
             "city": ground.get("town", {}).get("name", ""),
-            "status": match.get("state", ""),
+            "status": stage,
         })
     return results
 
