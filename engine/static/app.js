@@ -87,22 +87,24 @@ let _historyFilter = "all";
 function renderHistory() {
   const body = $("history-body"), empty = $("history-empty");
   let data = _historyData;
-  if (_historyFilter === "bets") data = data.filter(h => !["skipped","no_market"].includes(h.status));
-  else if (_historyFilter === "skipped") data = data.filter(h => ["skipped","no_market"].includes(h.status));
+  const isSkipStatus = s => s && (s==="skipped"||s==="no_market"||s.startsWith("skipped_"));
+  if (_historyFilter === "bets") data = data.filter(h => !isSkipStatus(h.status));
+  else if (_historyFilter === "skipped") data = data.filter(h => isSkipStatus(h.status));
   if (!data.length) { body.innerHTML = ""; empty.style.display = ""; return; }
   empty.style.display = "none";
   body.innerHTML = data.slice(0,100).map(h => {
-    const pnl = h.pnl||0, isSkip = h.status==="skipped"||h.status==="no_market";
+    const pnl = h.pnl||0, isSkip = isSkipStatus(h.status);
+    const pickTeam = h.chosen_team || h.team || "";
     let result;
     if (h.status==="no_market") result='<span class="badge badge-nomarket">No Market</span>';
-    else if (h.status==="skipped") result=`<span class="badge badge-skipped" title="${h.skip_reason||""}">Skipped</span>`;
+    else if (isSkip) result=`<span class="badge badge-skipped" title="${h.status||""}">Skipped</span>`;
     else if (h.status==="stop_loss") result='<span class="badge badge-stopped">Stopped</span>';
     else if (pnl>0) result='<span class="badge badge-win">Win</span>';
     else result='<span class="badge badge-loss">Loss</span>';
-    const modelStr = isSkip ? (h.model_prob?`${(h.model_prob*100).toFixed(0)}% ${h.team}`:"—") : `${(h.model_prob*100).toFixed(0)}% ${h.team}`;
+    const modelStr = h.model_prob ? `${(h.model_prob*100).toFixed(0)}% ${pickTeam}` : "—";
     const mktStr = h.market_price?`${(h.market_price*100).toFixed(0)}¢`:"—";
     const edgeStr = h.edge?fmtPct(h.edge*100):"—";
-    const pnlStr = isSkip?(h.skip_reason||"—"):fmtPnl(pnl);
+    const pnlStr = isSkip?"—":fmtPnl(pnl);
     return `<tr class="${isSkip?"row-skipped":""}"><td>${h.match_date||""}</td><td>${h.team1||"?"} vs ${h.team2||"?"}</td><td>${modelStr}</td><td>${mktStr}</td><td>${edgeStr}</td><td>${result}</td><td class="${isSkip?"":pnlClass(pnl)}">${pnlStr}</td></tr>`;
   }).join("");
 }
