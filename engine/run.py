@@ -66,8 +66,12 @@ def _discover_markets(state: dict, match_date: str):
 
 
 def _finish_match(state: dict, market_info: dict, status: str, prediction: dict | None = None):
-    """Move match from upcoming to history."""
+    """Move match from upcoming to history (idempotent per event_ticker)."""
     event_ticker = market_info.get("event_ticker") or ""
+    existing = {h.get("event_ticker") for h in state.get("history", [])}
+    if event_ticker and event_ticker in existing:
+        clear_upcoming(state, event_ticker)
+        return
     entry = {
         "match_date": date.today().isoformat(),
         "team1": market_info.get("team1", ""),
