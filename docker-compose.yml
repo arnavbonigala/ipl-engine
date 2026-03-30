@@ -5,6 +5,7 @@ services:
     volumes:
       - ./key.pem:/app/key.pem:ro
       - ./engine_state.json:/app/engine_state.json
+      - app_data:/app/data
     networks:
       - internal
     restart: unless-stopped
@@ -33,5 +34,6 @@ networks:
   internal:
 
 volumes:
+  app_data:
   caddy_data:
   caddy_config:
