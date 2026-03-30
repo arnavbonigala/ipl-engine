@@ -183,7 +183,7 @@ def events():
 def stats():
     s = load_state()
     hist = s.get("history", [])
-    bets = [h for h in hist if h.get("status") not in ("skipped", "no_market")]
+    bets = [h for h in hist if not (h.get("status", "").startswith("skipped") or h.get("status") == "no_market")]
     skipped = len(hist) - len(bets)
     if not bets:
         return {
