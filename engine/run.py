@@ -260,16 +260,21 @@ def run():
     save_state(state)
     monitor_all_positions(state)
 
+    try:
+        from engine.executor import get_balance
+        final_bal = get_balance()
+    except Exception:
+        final_bal = get_bankroll(state)
     log_event(
         state, "settle",
-        f"Day complete. Final bankroll: ${get_bankroll(state):.2f}",
+        f"Day complete. Final balance: ${final_bal:.2f}",
     )
     save_state(state)
 
     # Step 6: Retrain model with today's new match data
     _retrain(state)
 
-    print(f"\n  Day complete. Bankroll: ${get_bankroll(state):.2f}")
+    print(f"\n  Day complete. Balance: ${final_bal:.2f}")
     print("  Dashboard will stay live. Press Ctrl+C to stop.\n")
     try:
         while True:
