@@ -43,19 +43,22 @@ def open_position(state: dict, position: dict):
 
 def close_position(state: dict, ticker: str, status: str, pnl: float):
     cost = 0.0
+    event_ticker = ""
     for pos in state["positions"]:
         if pos["ticker"] == ticker and pos["status"] == "open":
             pos["status"] = status
             pos["pnl"] = round(pnl, 4)
             cost = pos.get("bet_amount", 0.0)
+            event_ticker = pos.get("event_ticker", "")
             state["history"].append(pos)
             break
     state["positions"] = [
         p for p in state["positions"]
         if not (p["ticker"] == ticker and p["status"] != "open")
     ]
-    # cost was already subtracted at placement; add it back along with pnl
     state["bankroll"] = round(state["bankroll"] + cost + pnl, 4)
+    if event_ticker:
+        clear_upcoming(state, event_ticker)
     save_state(state)
 
 

@@ -195,6 +195,7 @@ def _process_match(state: dict, match: dict, market_info: dict):
         "side": sig["side"],
         "team": sig["team"],
         "ticker": sig["ticker"],
+        "event_ticker": market_info.get("event_ticker", ""),
         "entry_price": sig["market_price"],
         "contracts": sig["contracts"],
         "bet_amount": sig["bet_amount"],

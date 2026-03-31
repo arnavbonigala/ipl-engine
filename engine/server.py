@@ -152,25 +152,43 @@ def history():
 @app.get("/api/upcoming")
 def upcoming():
     s = load_state()
-    stored = s.get("upcoming", [])
-    if stored:
-        return sorted(stored, key=lambda m: m.get("match_date", ""))
+    stored = {m.get("event_ticker"): m for m in s.get("upcoming", []) if m.get("event_ticker")}
+    history_tickers = {h.get("event_ticker") for h in s.get("history", []) if h.get("event_ticker")}
+
     try:
         from engine.scraper import get_ipl_fixtures
         fixtures = get_ipl_fixtures("ipl-2026-1510719")
-        return [
-            {
-                "match_date": f["date"],
-                "team1": f["team1"],
-                "team2": f["team2"],
-                "status": f["status"].lower(),
-                "model_prediction": None,
-            }
-            for f in fixtures
-            if f["status"] in ("PRE", "LIVE")
-        ][:10]
     except Exception:
-        return []
+        fixtures = []
+
+    results = []
+    seen_teams = set()
+    for f in fixtures:
+        if f["status"] not in ("PRE", "LIVE"):
+            continue
+        key = frozenset((f["team1"], f["team2"], f["date"]))
+        if key in seen_teams:
+            continue
+        seen_teams.add(key)
+
+        entry = {
+            "match_date": f["date"],
+            "team1": f["team1"],
+            "team2": f["team2"],
+            "status": "awaiting_toss",
+            "model_prediction": None,
+        }
+        for st in stored.values():
+            if {st.get("team1"), st.get("team2")} == {f["team1"], f["team2"]}:
+                if st.get("event_ticker") in history_tickers:
+                    entry = None
+                    break
+                entry.update({k: v for k, v in st.items() if v is not None})
+                break
+        if entry:
+            results.append(entry)
+
+    return sorted(results, key=lambda m: m.get("match_date", ""))[:15]
 
 
 @app.get("/api/events")
@@ -195,7 +213,13 @@ def stats():
     wins = sum(1 for h in bets if (h.get("pnl") or 0) > 0)
     total_pnl = sum(h.get("pnl", 0) for h in bets)
 
-    start = s.get("starting_bankroll", 250.0)
+    start = s.get("starting_bankroll")
+    if not start:
+        try:
+            from engine.executor import get_balance
+            start = get_balance() - total_pnl
+        except Exception:
+            start = 25.0
     bankroll_trace = [start]
     for h in bets:
         bankroll_trace.append(bankroll_trace[-1] + (h.get("pnl") or 0))
