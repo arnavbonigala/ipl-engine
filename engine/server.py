@@ -179,7 +179,8 @@ def upcoming():
             "model_prediction": None,
         }
         for st in stored.values():
-            if {st.get("team1"), st.get("team2")} == {f["team1"], f["team2"]}:
+            if ({st.get("team1"), st.get("team2")} == {f["team1"], f["team2"]}
+                    and st.get("match_date") == f["date"]):
                 if st.get("event_ticker") in history_tickers:
                     entry = None
                     break
