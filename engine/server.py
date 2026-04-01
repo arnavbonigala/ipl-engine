@@ -154,6 +154,7 @@ def upcoming():
     s = load_state()
     stored = {m.get("event_ticker"): m for m in s.get("upcoming", []) if m.get("event_ticker")}
     history_tickers = {h.get("event_ticker") for h in s.get("history", []) if h.get("event_ticker")}
+    position_tickers = {p.get("event_ticker") for p in s.get("positions", []) if p.get("status") == "open" and p.get("event_ticker")}
 
     try:
         from engine.scraper import get_ipl_fixtures
@@ -164,7 +165,7 @@ def upcoming():
     results = []
     seen_teams = set()
     for f in fixtures:
-        if f["status"] not in ("PRE", "LIVE"):
+        if f["status"] != "PRE":
             continue
         key = frozenset((f["team1"], f["team2"], f["date"]))
         if key in seen_teams:
@@ -181,7 +182,7 @@ def upcoming():
         for st in stored.values():
             if ({st.get("team1"), st.get("team2")} == {f["team1"], f["team2"]}
                     and st.get("match_date") == f["date"]):
-                if st.get("event_ticker") in history_tickers:
+                if st.get("event_ticker") in history_tickers or st.get("event_ticker") in position_tickers:
                     entry = None
                     break
                 entry.update({k: v for k, v in st.items() if v is not None})
