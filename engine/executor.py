@@ -118,6 +118,12 @@ def get_balance() -> float:
     return data.get("balance", 0) / 100.0
 
 
+def get_positions() -> list[dict]:
+    """Return open Kalshi positions (non-zero contract count)."""
+    data = _auth_get("/portfolio/positions?count_filter=position&limit=200")
+    return data.get("market_positions", [])
+
+
 def place_bet(signal: dict) -> str | None:
     """Place a limit buy YES order on Kalshi. Returns the order_id or None."""
     ticker = signal["ticker"]

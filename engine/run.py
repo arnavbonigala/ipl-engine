@@ -27,6 +27,27 @@ from engine.server import start_server
 PAPER_MODE = "--paper" in sys.argv or not os.environ.get("KALSHI_API_KEY_ID")
 
 
+def _sync_positions(state: dict):
+    """Reconcile engine state with actual Kalshi positions on startup."""
+    try:
+        from engine.executor import get_positions
+        kalshi_positions = get_positions()
+    except Exception:
+        return
+
+    kalshi_tickers = {p["ticker"] for p in kalshi_positions if p.get("position", 0) > 0}
+    engine_tickers = {p["ticker"] for p in state.get("positions", []) if p.get("status") == "open"}
+
+    stale = engine_tickers - kalshi_tickers
+    if stale:
+        state["positions"] = [
+            p for p in state["positions"]
+            if not (p.get("status") == "open" and p["ticker"] in stale)
+        ]
+        log_event(state, "discovery", f"Removed {len(stale)} stale position(s) not on Kalshi")
+        save_state(state)
+
+
 def _start_dashboard():
     """Run the dashboard in a background thread."""
     t = threading.Thread(target=start_server, args=(DASHBOARD_PORT,), daemon=True)
@@ -89,8 +110,23 @@ def _finish_match(state: dict, market_info: dict, status: str, prediction: dict 
     clear_upcoming(state, event_ticker)
 
 
+def _already_acted(state: dict, event_ticker: str) -> bool:
+    """True if we already have a position or history entry for this event."""
+    for p in state.get("positions", []):
+        if p.get("event_ticker") == event_ticker:
+            return True
+    for h in state.get("history", []):
+        if h.get("event_ticker") == event_ticker:
+            return True
+    return False
+
+
 def _process_match(state: dict, match: dict, market_info: dict):
     """Process a single match: scrape, signal, bet, monitor."""
+    event_ticker = market_info.get("event_ticker", "")
+    if _already_acted(state, event_ticker):
+        return
+
     team1 = match.get("team1") or market_info.get("team1")
     team2 = match.get("team2") or market_info.get("team2")
 
@@ -334,6 +370,7 @@ def run():
     log_event(state, "discovery", f"Engine started. Balance: ${bal:.2f}")
     save_state(state)
 
+    _sync_positions(state)
     _start_dashboard()
 
     try:
