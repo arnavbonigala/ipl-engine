@@ -35,7 +35,10 @@ def _sync_positions(state: dict):
     except Exception:
         return
 
-    kalshi_tickers = {p["ticker"] for p in kalshi_positions if p.get("position", 0) > 0}
+    kalshi_tickers = {
+        p["ticker"] for p in kalshi_positions
+        if float(p.get("position_fp", 0)) > 0
+    }
     engine_tickers = {p["ticker"] for p in state.get("positions", []) if p.get("status") == "open"}
 
     stale = engine_tickers - kalshi_tickers
@@ -202,6 +205,17 @@ def _process_match(state: dict, match: dict, market_info: dict):
         f"Kelly {sig['kelly_fraction']:.0%}, betting ${sig['bet_amount']:.2f}",
         data=sig,
     )
+
+    if not PAPER_MODE:
+        try:
+            from engine.executor import get_positions
+            for kp in get_positions():
+                if kp["ticker"] == sig["ticker"] and float(kp.get("position_fp", 0)) > 0:
+                    log_event(state, "bet", f"Already have Kalshi position on {sig['ticker']} — skipping")
+                    _finish_match(state, market_info, "skipped_already_positioned", prediction)
+                    return
+        except Exception:
+            pass
 
     if PAPER_MODE:
         order_id = "paper-" + date.today().isoformat()
