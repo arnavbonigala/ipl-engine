@@ -204,7 +204,30 @@ def stats():
     hist = s.get("history", [])
     bets = [h for h in hist if not (h.get("status", "").startswith("skipped") or h.get("status") == "no_market")]
     skipped = len(hist) - len(bets)
-    if not bets:
+
+    realized_pnl = sum(h.get("pnl", 0) for h in bets)
+
+    with _cache_lock:
+        odds = dict(_kalshi_odds)
+    unrealized_pnl = 0.0
+    open_positions = [p for p in s.get("positions", []) if p.get("status") == "open"]
+    for p in open_positions:
+        cur = odds.get(p.get("ticker", ""))
+        if cur and cur["bid"] > 0:
+            mid = (cur["bid"] + cur["ask"]) / 2
+            unrealized_pnl += (mid - p["entry_price"]) * p["contracts"]
+
+    total_pnl = realized_pnl + unrealized_pnl
+
+    start = s.get("starting_bankroll")
+    if not start:
+        try:
+            from engine.executor import get_balance
+            start = get_balance() - realized_pnl
+        except Exception:
+            start = 25.0
+
+    if not bets and not open_positions:
         return {
             "total_return_pct": 0, "win_rate": 0, "total_bets": 0,
             "total_pnl": 0, "max_drawdown": 0,
@@ -212,18 +235,12 @@ def stats():
         }
 
     wins = sum(1 for h in bets if (h.get("pnl") or 0) > 0)
-    total_pnl = sum(h.get("pnl", 0) for h in bets)
 
-    start = s.get("starting_bankroll")
-    if not start:
-        try:
-            from engine.executor import get_balance
-            start = get_balance() - total_pnl
-        except Exception:
-            start = 25.0
     bankroll_trace = [start]
     for h in bets:
         bankroll_trace.append(bankroll_trace[-1] + (h.get("pnl") or 0))
+    if unrealized_pnl:
+        bankroll_trace.append(bankroll_trace[-1] + unrealized_pnl)
     peak = bankroll_trace[0]
     max_dd = 0
     for val in bankroll_trace:
@@ -234,9 +251,9 @@ def stats():
             max_dd = dd
 
     return {
-        "total_return_pct": round(total_pnl / start * 100, 2),
-        "win_rate": round(wins / len(bets) * 100, 1),
-        "total_bets": len(bets),
+        "total_return_pct": round(total_pnl / start * 100, 2) if start else 0,
+        "win_rate": round(wins / len(bets) * 100, 1) if bets else 0,
+        "total_bets": len(bets) + len(open_positions),
         "total_pnl": round(total_pnl, 2),
         "max_drawdown": round(max_dd * 100, 1),
         "total_matches": len(hist),

@@ -16,6 +16,25 @@ _private_key = None
 _api_key_id = None
 
 
+def _format_yes_price_dollars(price: float) -> str:
+    # Kalshi prices must be sent on valid cent ticks.
+    clamped = max(0.01, min(0.99, price))
+    rounded = round(clamped + 1e-9, 2)
+    return f"{rounded:.2f}"
+
+
+def _log_http_error(context: str, exc: Exception, order_data: dict | None = None):
+    print(f"  [ORDER ERROR] {context}: {exc}")
+    if order_data is not None:
+        print(f"  [ORDER ERROR] payload: {order_data}")
+    if isinstance(exc, requests.exceptions.HTTPError) and exc.response is not None:
+        response_text = exc.response.text.strip()
+        if response_text:
+            print(f"  [ORDER ERROR] status={exc.response.status_code} body={response_text}")
+        else:
+            print(f"  [ORDER ERROR] status={exc.response.status_code} body=<empty>")
+
+
 def _load_credentials():
     global _private_key, _api_key_id
     if _private_key is not None:
@@ -110,8 +129,7 @@ def place_bet(signal: dict) -> str | None:
         "action": "buy",
         "side": "yes",
         "count": count,
-        "type": "limit",
-        "yes_price_dollars": f"{price:.4f}",
+        "yes_price_dollars": _format_yes_price_dollars(price),
         "client_order_id": str(uuid.uuid4()),
     }
 
@@ -119,7 +137,7 @@ def place_bet(signal: dict) -> str | None:
         resp = _auth_post("/portfolio/orders", order_data)
         return resp.get("order", {}).get("order_id")
     except Exception as e:
-        print(f"  [ORDER ERROR] place_bet failed: {e}")
+        _log_http_error("place_bet failed", e, order_data)
         return None
 
 
@@ -130,8 +148,7 @@ def sell_position(ticker: str, count: int, price: float) -> str | None:
         "action": "sell",
         "side": "yes",
         "count": count,
-        "type": "limit",
-        "yes_price_dollars": f"{price:.4f}",
+        "yes_price_dollars": _format_yes_price_dollars(price),
         "client_order_id": str(uuid.uuid4()),
     }
 
@@ -139,7 +156,7 @@ def sell_position(ticker: str, count: int, price: float) -> str | None:
         resp = _auth_post("/portfolio/orders", order_data)
         return resp.get("order", {}).get("order_id")
     except Exception as e:
-        print(f"  [ORDER ERROR] sell_position failed: {e}")
+        _log_http_error("sell_position failed", e, order_data)
         return None
 
 
@@ -148,5 +165,5 @@ def cancel_order(order_id: str) -> bool:
         _auth_delete(f"/portfolio/orders/{order_id}")
         return True
     except Exception as e:
-        print(f"  [ORDER ERROR] cancel_order failed: {e}")
+        _log_http_error("cancel_order failed", e)
         return False
