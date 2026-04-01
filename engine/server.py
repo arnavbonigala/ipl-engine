@@ -206,7 +206,14 @@ def stats():
     bets = [h for h in hist if not (h.get("status", "").startswith("skipped") or h.get("status") == "no_market")]
     skipped = len(hist) - len(bets)
 
-    realized_pnl = sum(h.get("pnl", 0) for h in bets)
+    start = s.get("starting_bankroll", 25.0)
+
+    kalshi_balance = None
+    try:
+        from engine.executor import get_balance
+        kalshi_balance = get_balance()
+    except Exception:
+        pass
 
     with _cache_lock:
         odds = dict(_kalshi_odds)
@@ -218,36 +225,30 @@ def stats():
             mid = (cur["bid"] + cur["ask"]) / 2
             unrealized_pnl += (mid - p["entry_price"]) * p["contracts"]
 
-    total_pnl = realized_pnl + unrealized_pnl
-
-    start = s.get("starting_bankroll")
-    if not start:
-        try:
-            from engine.executor import get_balance
-            start = get_balance() - realized_pnl
-        except Exception:
-            start = 25.0
+    if kalshi_balance is not None:
+        total_pnl = kalshi_balance + unrealized_pnl - start
+    else:
+        total_pnl = sum(h.get("pnl", 0) for h in bets) + unrealized_pnl
 
     if not bets and not open_positions:
         return {
-            "total_return_pct": 0, "win_rate": 0, "total_bets": 0,
-            "total_pnl": 0, "max_drawdown": 0,
+            "total_return_pct": round(total_pnl / start * 100, 2) if start and kalshi_balance else 0,
+            "win_rate": 0, "total_bets": 0,
+            "total_pnl": round(total_pnl, 2) if kalshi_balance else 0,
+            "max_drawdown": 0,
             "total_matches": len(hist), "skipped_matches": skipped,
         }
 
     wins = sum(1 for h in bets if (h.get("pnl") or 0) > 0)
 
-    bankroll_trace = [start]
-    for h in bets:
-        bankroll_trace.append(bankroll_trace[-1] + (h.get("pnl") or 0))
-    if unrealized_pnl:
-        bankroll_trace.append(bankroll_trace[-1] + unrealized_pnl)
-    peak = bankroll_trace[0]
+    peak = start
     max_dd = 0
-    for val in bankroll_trace:
-        if val > peak:
-            peak = val
-        dd = (peak - val) / peak if peak > 0 else 0
+    running = start
+    for h in bets:
+        running += (h.get("pnl") or 0)
+        if running > peak:
+            peak = running
+        dd = (peak - running) / peak if peak > 0 else 0
         if dd > max_dd:
             max_dd = dd
 
