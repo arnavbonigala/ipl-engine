@@ -1,7 +1,7 @@
 """Model prediction + edge/Kelly computation."""
 
 from engine.config import (
-    KELLY_FRACTION, MAX_BET_FRACTION, MAX_ENTRY_PRICE, MIN_CONFIDENCE, MIN_EDGE,
+    KELLY_FRACTION, MAX_BET_FRACTION, MIN_CONFIDENCE, MIN_EDGE,
 )
 from engine.market import get_market_price
 from predictor.predict import predict
@@ -68,9 +68,6 @@ def generate_signal(match_details: dict, market_info: dict, bankroll: float) -> 
     prediction["edge"] = round(model_our_prob - entry_price, 4)
 
     if entry_price <= 0.01 or entry_price >= 0.99:
-        return None, prediction
-
-    if entry_price > MAX_ENTRY_PRICE:
         return None, prediction
 
     edge = model_our_prob - entry_price
