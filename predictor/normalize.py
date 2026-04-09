@@ -76,7 +76,8 @@ def parse_result(result_text: str) -> dict:
         is_super_over: bool
         is_dls: bool
     """
-    if not result_text or "no result" in result_text.lower() or "abandoned" in result_text.lower():
+    rt = result_text.lower() if result_text else ""
+    if not rt or "no result" in rt or "abandoned" in rt or "yet to begin" in rt or "need" in rt:
         return {"valid": False, "win_by_runs": None, "win_by_wickets": None,
                 "is_super_over": False, "is_dls": False}
 
@@ -109,6 +110,8 @@ def load_matches() -> list[dict]:
             row["toss_winner"] = normalize_team(row["toss_winner"])
             row["winner"] = normalize_team(row["winner"])
 
+            if not row["winner"] or row["winner"] == "nan":
+                continue
             parsed = parse_result(row["result"])
             if not parsed["valid"]:
                 continue
