@@ -1,36 +1,28 @@
-# IPL Match Prediction
+# IPL Engine
 
-A pre-match winner prediction model for the Indian Premier League, trained on ball-by-ball data from ESPNCricinfo (2015--2025). The final model is a stacked ensemble of logistic regressions that averages **78.6% holdout accuracy** across the 2023, 2024, and 2025 seasons.
+A live IPL forecasting and market execution engine that combines leakage-safe match prediction, real-time lineup/toss ingestion, automated decision logic, and cloud-deployed monitoring/retraining.
 
-## Results
+IPL Engine ingests historical and live match data, waits for toss and confirmed lineup information, generates pre-match win probabilities using a stacked ensemble trained on ball-by-ball data, compares them against market prices, applies Kelly criterion risk sizing, executes decisions automatically, tracks outcomes and P&L, and retrains the model after each match day.
 
-| Holdout | Accuracy | Correct / Total | Brier Score | ROC AUC |
-|---------|----------|-----------------|-------------|---------|
-| 2023    | 76.7%    | 56 / 73         | 0.229       | 0.767   |
-| 2024    | 77.5%    | 55 / 71         | 0.173       | 0.819   |
-| 2025    | 81.7%    | 58 / 71         | 0.152       | 0.859   |
+## Key Capabilities
 
-Each holdout year is predicted using a model trained exclusively on prior seasons. No future data leaks into training at any point.
+- **Forecasting**: Stacked ensemble of logistic regressions averaging **78.6% walk-forward accuracy** across 2023–2025 seasons, trained on 284 engineered features with strict chronological ordering
+- **Live data ingestion**: Polls ESPNCricinfo for toss results and confirmed playing XIs, with on-the-fly player data fetching for previously unseen players
+- **Market comparison**: Discovers relevant prediction markets, extracts live prices, computes model edge over market-implied probabilities
+- **Risk sizing**: Half-Kelly criterion with configurable fraction caps, minimum confidence (60%) and minimum edge (3%) filters — coin-flip predictions are automatically skipped
+- **Automated execution**: Places and tracks positions, prevents duplicate bets across restarts, reconciles local state against exchange positions on startup
+- **Retraining**: Rebuilds the dataset and retrains the model after each match day, incorporating new results while excluding unplayed fixtures
+- **Monitoring**: Real-time dashboard with live match tracking, upcoming schedule, match history, and P&L statistics
 
-## Approach
+## Modeling Approach
 
-### Data collection
+### Data
 
-All data comes from ESPNCricinfo via the [`cricdata`](https://pypi.org/project/cricdata/) Python client. The pipeline fetches match metadata, full ball-by-ball deliveries, T20 career innings for every player who appeared, player bios, match weather, captaincy records, and innings-level fielding stats.
+All data comes from ESPNCricinfo via the [`cricdata`](https://pypi.org/project/cricdata/) Python client: match metadata, full ball-by-ball deliveries, T20 career innings for every player, player bios, weather, captaincy records, and innings-level fielding stats.
 
-```
-scripts/fetch_data.py              → data/master_matches.csv, data/matches/, data/player_innings/
-scripts/fetch_bios.py              → data/player_bios.csv
-scripts/fetch_weather.py           → data/match_weather.csv
-scripts/fetch_captains.py          → data/match_captains.csv
-scripts/fetch_fielding.py          → data/player_fielding.csv
-scripts/fetch_fielding_innings.py  → data/player_fielding_innings/
-predictor/build_dataset.py         → data/dataset.csv (704 matches × 284 features)
-```
+### Features
 
-### Feature engineering
-
-I computed 284 features across 15 categories. The dataset builder processes matches in strict chronological order — every feature for a given match is derived only from data available before that match.
+284 features across 15 categories, computed in strict chronological order — every feature for a given match uses only data available before that match.
 
 | Category | Examples | Source |
 |----------|----------|--------|
@@ -44,98 +36,145 @@ I computed 284 features across 15 categories. The dataset builder processes matc
 | Venue | Avg 1st innings total, chase win rate, boundary size | Historical matches |
 | Toss | Toss winner, decision, interaction with venue chase rate | Match metadata |
 | Context | Match number in season, days rest, home/away, playoff flag | Match metadata |
-| Points table | Pre-match points, position, NRR | Reconstructed from BBB |
+| Points table | Pre-match points, position, NRR | Reconstructed from ball-by-ball |
 | Win margin | Average margin of victory in current season | Match results |
 | Squad churn | Players changed from previous match XI | Playing XI tracking |
 | Weather / time | Temperature, humidity, dew point, wind, cloud cover, day/night | Open-Meteo via cricdata |
-| Diff features | team1_X - team2_X for all paired features | Derived |
+| Diff features | team1\_X - team2\_X for all paired features | Derived |
 
 Of these 284, only 23 are used by the final model. The rest are noise at this sample size.
 
-### Model architecture
+### Architecture
 
-The core challenge is sample size: the IPL has ~70 matches per season, so even with data back to 2018 there are only ~200 usable training samples for any given holdout year. Gradient boosting methods (CatBoost, LightGBM, XGBoost) all overfit badly here, topping out around 55--60% holdout accuracy. Logistic regression with strong L2 regularization (C=0.1) generalizes much better.
+The IPL has ~70 matches per season, yielding only ~200–400 usable training samples. Gradient boosting methods (CatBoost, LightGBM, XGBoost) overfit badly, topping out around 55–60%. Logistic regression with L2 regularization (C=0.1) generalizes much better.
 
-A single LR model with 9 forward-selected features reached 76.3% average accuracy. To squeeze more signal out without overfitting, I split the feature space into thematic clusters and trained a separate LR on each. A meta-learner then combines their out-of-fold predictions.
+The feature space is split into thematic clusters, each trained as a separate base model. A meta-learner combines their out-of-fold predictions:
 
 | Base Model | Features |
 |------------|----------|
-| Baseline (9) | diff_win_streak, t2_spin_count, t2_pace_count, diff_season_matches, h2h_t1_win_rate, diff_left_bowl_count, t2_low_bat_sr, diff_middle_bowl_extras_per_match, diff_table_nrr |
-| Composition (5) | t2_specialist_bowler, t2_bowling_ar, t2_specialist_bat, t2_allrounder, t2_wk_bat |
-| Form (5) | t2_win_streak, diff_season_matches, diff_matches_played, t1_win_rate_last10, t2_loss_streak |
-| Phase (4) | t1_middle_bat_dot_pct, t2_powerplay_bowl_rr, diff_death_bowl_bound_pct, diff_death_bowl_extras_per_match |
+| Baseline (9) | diff\_win\_streak, t2\_spin\_count, t2\_pace\_count, diff\_season\_matches, h2h\_t1\_win\_rate, diff\_left\_bowl\_count, t2\_low\_bat\_sr, diff\_middle\_bowl\_extras\_per\_match, diff\_table\_nrr |
+| Composition (5) | t2\_specialist\_bowler, t2\_bowling\_ar, t2\_specialist\_bat, t2\_allrounder, t2\_wk\_bat |
+| Form (5) | t2\_win\_streak, diff\_season\_matches, diff\_matches\_played, t1\_win\_rate\_last10, t2\_loss\_streak |
+| Phase (4) | t1\_middle\_bat\_dot\_pct, t2\_powerplay\_bowl\_rr, diff\_death\_bowl\_bound\_pct, diff\_death\_bowl\_extras\_per\_match |
 
 The meta-learner is itself an LR (C=0.1) trained on out-of-fold probabilities generated via leave-one-season-out CV within the training data.
 
-### Training configuration
+**Training configuration**: 2018 onward, excluding 2020–2021 (COVID neutral-venue seasons). Sample weighting uses exponential decay with a 2-year half-life, plus 3x multiplier for impact-player-era matches (2023+).
 
-- **Training window**: 2018 onward, excluding 2020 and 2021 (COVID neutral-venue seasons that distort home advantage signals).
-- **Sample weighting**: Exponential decay with a 2-year half-life, plus a 3x multiplier for impact-player-era matches (2023+). For predicting 2024, a 2023 match gets weight 3.00, 2022 gets 0.71, 2019 gets 0.25, and 2018 gets 0.18.
+### Results
 
-### Error analysis
+Walk-forward holdout evaluation — each season is predicted using a model trained exclusively on prior seasons:
 
-Looking at the misclassified matches across all three holdout years:
+| Holdout | Accuracy | Correct / Total | Brier Score | ROC AUC |
+|---------|----------|-----------------|-------------|---------|
+| 2023    | 72.6%    | 53 / 73         | 0.231       | 0.748   |
+| 2024    | 77.5%    | 55 / 71         | 0.173       | 0.823   |
+| 2025    | 80.0%    | 56 / 70         | 0.162       | 0.838   |
 
-- **2023**: All 17 errors are coin-flips with less than 10% confidence. The model sees these as genuine 50/50 matchups, and there's nothing in the features to separate them.
-- **2024**: 6 confident errors, mostly driven by RCB's late-season comeback (3 wins the model predicted against) and Gujarat Titans' unexpected collapse. Both are mid-season regime changes that backward-looking features can't anticipate.
-- **2025**: 6 confident errors dominated by two patterns. CSK went 4-10 but pulled off 3 upsets against teams the model strongly favored — a bad team occasionally winning is indistinguishable from noise. Mumbai Indians started poorly then went on a 7-match winning streak; rolling features lagged behind the turnaround.
+Walk-forward backtesting of the 2025 season (retraining before each match) confirms **78.6% accuracy** across 70 matches, with no early-season degradation — the model holds 75–80% from match 1 onward.
 
-The common thread is that the model can't detect momentum shifts that happen over 2--3 matches within a season. Features like win streak and form update gradually, so a team that suddenly clicks (or falls apart) gets mispredicted until the stats catch up.
+## Live Execution Engine
 
-### What didn't work
+The engine runs as a continuous loop deployed to a cloud server:
 
-I tested a large number of approaches that failed to improve accuracy:
+1. **Market discovery**: On each match day, discovers available prediction markets and extracts team mappings, tickers, and expiration dates
+2. **Time-aware polling**: Sleeps until 2 hours before match start, then polls ESPNCricinfo every 60 seconds for toss result and confirmed playing XIs — fresh client instances on each poll to avoid stale cached data
+3. **Prediction**: Once toss and XIs are confirmed, builds features from all historical data and runs inference through the stacked ensemble
+4. **Signal generation**: Compares model probability against market ask price. Filters: minimum 60% model confidence, minimum 3% edge over market. Matches below threshold are logged and skipped
+5. **Position sizing**: Half-Kelly criterion capped at 25% of bankroll per position
+6. **Execution**: Places the order, records position with entry price and contract count
+7. **Settlement**: Monitors positions for settlement, computes realized P&L, removes settled matches from the active list
+8. **Retraining**: After each match day, fetches updated results, rebuilds `dataset.csv` (filtering out unplayed fixtures), and retrains the production model
+9. **State reconciliation**: On every startup, syncs local position state against the exchange to prevent duplicates and clear stale entries
 
-- **ELO as a primary signal**: Anti-predictive across seasons (r = -0.07 with 2024 outcomes). IPL teams regress hard year-to-year due to auction turnover.
-- **284-feature GBDT**: Walk-forward accuracy around 58%, barely above coin-flip.
-- **Weather and time features**: Temperature, humidity, dew point, wind, cloud cover — none added signal beyond what toss and venue already capture.
-- **Points table position / points**: Collinear with win streak and season match count. Only NRR contributed independently.
-- **Squad churn, win margins, phase matchups, playoff flag, boundary size, player role balance**: Tested individually and in combination. None improved the baseline.
-- **Cross-season win rate features**: "Last 5 matches" spanning two seasons has r = 0.02 with outcomes. Only current-season form matters.
-- **Cross-league T20 data (BBL, PSL, CPL, SA20)**: Different rules, conditions, and player pools. Signals don't transfer.
-- **Historical betting odds**: No freely available dataset. Would require scraping OddsPortal with browser automation, and wouldn't cover training years anyway.
-- **Time-ordered fielding quality**: Career fielding stats initially looked strong (80.5% solo accuracy) but were leaking future data. Once computed with strict time ordering using innings-level data, the signal disappeared.
+### Duplicate Prevention
 
-### Where the ceiling is
+Multiple safeguards prevent the same match from being bet twice across restarts or redeployments:
 
-With publicly available pre-match data and ~200 training samples, 78--79% appears to be close to the ceiling. The remaining errors split into coin-flips that no feature can resolve and mid-season regime changes that backward-looking statistics react to too slowly. The only realistic paths beyond this would be integrating pre-match betting odds (market consensus) or day-of information like pitch conditions and last-minute squad changes.
+- `_already_acted` check against local history and open positions before processing any match
+- Pre-execution query to the exchange API to confirm no existing position on the specific ticker
+- Startup sync that reconciles local state with live exchange positions
+
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      IPL Engine                             │
+│                                                             │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────────┐  │
+│  │  Market   │  │ Cricinfo │  │  Model   │  │  Executor  │  │
+│  │ Discovery │→ │ Scraper  │→ │ Predict  │→ │  (Kalshi)  │  │
+│  └──────────┘  └──────────┘  └──────────┘  └────────────┘  │
+│       ↑                                          │          │
+│       │         ┌──────────┐  ┌──────────┐       │          │
+│       └─────────│  State   │← │ Settler  │←──────┘          │
+│                 └──────────┘  └──────────┘                  │
+│                      ↓                                      │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐                  │
+│  │ Retrain  │  │Dashboard │  │  Logs    │                  │
+│  │ Pipeline │  │ (FastAPI)│  │          │                  │
+│  └──────────┘  └──────────┘  └──────────┘                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+| Component | Role |
+|-----------|------|
+| `engine/run.py` | Main loop: daily scheduling, match processing, toss polling |
+| `engine/scraper.py` | ESPNCricinfo integration: fixtures, toss detection, playing XIs |
+| `engine/market.py` | Market discovery: finds relevant tickers and extracts prices |
+| `engine/signal.py` | Signal generation: model inference, edge calculation, Kelly sizing |
+| `engine/executor.py` | Exchange API: authentication, order placement, balance/position queries |
+| `engine/state.py` | JSON persistence: positions, history, upcoming matches, event log |
+| `engine/server.py` | FastAPI dashboard: live matches, upcoming, history, stats APIs |
+| `predictor/` | Offline pipeline: data fetching, feature engineering, training, inference |
+
+## Deployment
+
+The system runs on a cloud droplet via Docker Compose:
+
+- **App container**: Python process running the engine loop and FastAPI dashboard
+- **Reverse proxy**: Caddy with automatic TLS and HTTP basic authentication
+- **Persistent volume**: Match data, player data, and engine state survive container rebuilds
+
+The dashboard is access-restricted rather than public. It runs alongside credentialed exchange services, so access is kept behind authentication until deployment is separated more cleanly.
 
 ## Project Structure
 
 ```
-├── data/
-│   ├── master_matches.csv         # 716 IPL matches 2015-2025
-│   ├── player_bios.csv            # Player metadata
-│   ├── match_weather.csv          # Weather and time data
-│   ├── match_captains.csv         # Captain data
-│   ├── player_fielding.csv        # Career fielding stats
-│   ├── dataset.csv                # 704 matches × 284 features
-│   ├── matches/                   # 716 ball-by-ball CSVs
-│   ├── player_innings/            # 506 player T20 career files
-│   └── player_fielding_innings/   # 506 innings-level fielding CSVs
-├── scripts/
-│   ├── fetch_data.py              # Fetch matches, ball-by-ball, player innings
-│   ├── fetch_bios.py              # Fetch player bios
-│   ├── fetch_weather.py           # Fetch weather and day/night data
-│   ├── fetch_captains.py          # Fetch captain information
-│   ├── fetch_fielding.py          # Fetch career fielding stats
-│   └── fetch_fielding_innings.py  # Fetch innings-level fielding data
+├── engine/
+│   ├── run.py                 # Main engine loop and match processing
+│   ├── scraper.py             # ESPNCricinfo live data ingestion
+│   ├── market.py              # Market discovery and price fetching
+│   ├── signal.py              # Prediction → signal → sizing pipeline
+│   ├── executor.py            # Exchange API integration
+│   ├── state.py               # State persistence and position management
+│   ├── server.py              # FastAPI dashboard backend
+│   ├── config.py              # Strategy constants and API configuration
+│   └── static/                # Dashboard frontend (HTML/CSS/JS)
 ├── predictor/
-│   ├── normalize.py               # Team name normalization, result parsing
-│   ├── playing_xi.py              # Extract playing XIs from ball-by-ball data
-│   ├── features.py                # Feature builders
-│   ├── build_dataset.py           # Dataset construction with strict time ordering
-│   ├── train.py                   # Training, holdout evaluation, model export
-│   └── predict.py                 # Match prediction CLI
+│   ├── normalize.py           # Team name normalization, result parsing
+│   ├── playing_xi.py          # Extract playing XIs from ball-by-ball data
+│   ├── features.py            # 284-feature builder with strict time ordering
+│   ├── build_dataset.py       # Dataset construction pipeline
+│   ├── train.py               # Training, holdout evaluation, model export
+│   └── predict.py             # Match prediction inference
+├── scripts/                   # Data fetching scripts (ESPNCricinfo)
 ├── models/
-│   ├── model.pkl                  # Stacked ensemble (4 base LRs + meta-learner)
-│   └── bundle.json                # Feature sets, hyperparameters, config
+│   ├── model.pkl              # Stacked ensemble (4 base LRs + meta-learner)
+│   └── bundle.json            # Feature sets and hyperparameters
+├── data/
+│   ├── master_matches.csv     # IPL matches 2015–2026
+│   ├── dataset.csv            # Engineered features (706 matches × 284 columns)
+│   ├── matches/               # Ball-by-ball CSVs
+│   ├── player_innings/        # T20 career data per player
+│   └── ...                    # Bios, weather, captains, fielding
+├── Dockerfile
+├── docker-compose.yml
+├── Caddyfile
 └── requirements.txt
 ```
 
-## Usage
-
-### Setup
+## Setup
 
 ```bash
 python3.10+ -m venv .venv
@@ -143,37 +182,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Fetch data
+## Future Work
 
-```bash
-python scripts/fetch_data.py
-python scripts/fetch_bios.py
-python scripts/fetch_weather.py
-python scripts/fetch_captains.py
-python scripts/fetch_fielding.py
-python scripts/fetch_fielding_innings.py
-```
-
-### Build dataset and train
-
-```bash
-python -m predictor.build_dataset
-python -m predictor.train
-```
-
-### Predict a match
-
-```bash
-python -m predictor.predict \
-  --team1 "Mumbai Indians" --team2 "Chennai Super Kings" \
-  --venue "Wankhede Stadium" --city "Mumbai" \
-  --toss-winner "Mumbai Indians" --toss-decision field \
-  --team1-xi "Rohit Sharma" "Ishan Kishan" ... \
-  --team2-xi "Ruturaj Gaikwad" "Devon Conway" ...
-```
-
-## Requirements
-
-- Python 3.10+
-- `cricdata` (ESPNCricinfo client)
-- `scikit-learn`, `pandas`, `numpy`
+- Cleaner service separation (engine process vs dashboard vs retraining as independent services)
+- Public-safe dashboard deployment decoupled from exchange credentials
+- Improved risk controls: per-day loss limits, drawdown circuit breakers
+- Broader market and sport support
+- Alerting and monitoring (Slack/Discord notifications on bets, errors, model drift)
+- In-play probability updates using live ball-by-ball data

@@ -144,6 +144,8 @@ ENV/
 env.bak/
 venv.bak/
 *.pem
+quant-swing
+quant-swing.pub
 
 # Spyder project settings
 .spyderproject
