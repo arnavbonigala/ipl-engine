@@ -40,7 +40,9 @@
     2020,
     2021
   ],
-  "impact_era_boost": 3.0,
-  "half_life": 2.0,
-  "latest_train_season": 2025
+  "impact_era_boost": 2.0,
+  "target_season": 2026,
+  "target_season_boost": 1.0,
+  "half_life": 2.5,
+  "latest_train_season": 2026
 }

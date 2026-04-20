@@ -16,6 +16,7 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from sklearn.isotonic import IsotonicRegression
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, brier_score_loss, log_loss, roc_auc_score
 from sklearn.pipeline import Pipeline
@@ -58,8 +59,11 @@ CLUSTER_FEATURES = {
 COVID_SEASONS = {2020, 2021}
 MIN_TRAIN_SEASON = 2018
 IMPACT_PLAYER_START = 2023
-HALF_LIFE = 2.0
-IMPACT_ERA_BOOST = 3.0
+HALF_LIFE = 2.5
+IMPACT_ERA_BOOST = 2.0
+TARGET_SEASON = 2026
+TARGET_SEASON_BOOST = 1.0
+CALIBRATOR_MIN_SAMPLES = 50
 LR_C = 0.1
 META_C = 0.1
 
@@ -76,6 +80,7 @@ def compute_sample_weights(seasons: np.ndarray, holdout_year: int) -> np.ndarray
     decay = np.log(2) / HALF_LIFE
     weights = np.exp(-decay * (max_train_year - seasons))
     weights[seasons >= IMPACT_PLAYER_START] *= IMPACT_ERA_BOOST
+    weights[seasons == TARGET_SEASON] *= TARGET_SEASON_BOOST
     return weights
 
 
@@ -119,8 +124,7 @@ def _generate_oof(df, train_df, feat_sets, holdout_year):
             y_tr = y_train[tr_idx]
             X_va = train_df.loc[train_df.index[va_idx], feats].fillna(0).values
             seasons_tr = train_df.loc[train_df.index[tr_idx], "season"].values
-            decay = np.log(2) / HALF_LIFE
-            w_tr = np.exp(-decay * (val_season - 1 - seasons_tr))
+            w_tr = compute_sample_weights(seasons_tr, val_season)
             pipe = Pipeline([
                 ("s", StandardScaler()),
                 ("lr", LogisticRegression(C=LR_C, max_iter=5000)),
@@ -128,6 +132,43 @@ def _generate_oof(df, train_df, feat_sets, holdout_year):
             pipe.fit(X_tr, y_tr, lr__sample_weight=w_tr)
             oof[va_idx, mi] = pipe.predict_proba(X_va)[:, 1]
     return oof
+
+
+def _walk_forward_probs(df: pd.DataFrame, season: int) -> tuple[np.ndarray, np.ndarray]:
+    rows = df[df["season"] == season].sort_values("date").reset_index(drop=True)
+    if rows.empty:
+        return np.array([]), np.array([])
+
+    pre = df[(df["season"] >= MIN_TRAIN_SEASON) & (df["season"] < season) & ~df["season"].isin(COVID_SEASONS)]
+    feat_sets = _all_feature_sets()
+    probs = []
+    labels = []
+
+    for i in range(len(rows)):
+        train_df = pd.concat([pre, rows.iloc[:i]], ignore_index=True)
+        if train_df.empty:
+            continue
+        y_train = train_df["label"].values
+        w = compute_sample_weights(train_df["season"].values, season + 1)
+        oof = _generate_oof(df, train_df, feat_sets, season + 1)
+        meta = Pipeline([
+            ("s", StandardScaler()),
+            ("lr", LogisticRegression(C=META_C, max_iter=5000)),
+        ])
+        meta.fit(oof, y_train, lr__sample_weight=w)
+
+        base_preds_test = []
+        row = rows.iloc[i]
+        for _, feats in feat_sets:
+            pipe = train_base_model(train_df[feats].fillna(0).values, y_train, w)
+            X_test = np.array([[row.get(c, 0) for c in feats]])
+            X_test = np.nan_to_num(X_test, nan=0.0, posinf=0.0, neginf=0.0)
+            base_preds_test.append(pipe.predict_proba(X_test)[0, 1])
+        p = float(meta.predict_proba(np.array([base_preds_test]))[0, 1])
+        probs.append(p)
+        labels.append(int(row["label"]))
+
+    return np.array(probs), np.array(labels)
 
 
 def evaluate_holdout(df, holdout_year, verbose=True):
@@ -242,6 +283,18 @@ def train():
     ])
     meta_model.fit(oof_prod, y_prod, lr__sample_weight=w_prod)
 
+    calibrator = None
+    wf_probs, wf_labels = _walk_forward_probs(df, TARGET_SEASON)
+    if len(wf_probs) >= CALIBRATOR_MIN_SAMPLES:
+        calibrator = IsotonicRegression(out_of_bounds="clip")
+        calibrator.fit(wf_probs, wf_labels)
+        with open(MODELS_DIR / "calibrator.pkl", "wb") as f:
+            pickle.dump(calibrator, f)
+        wf_cal = np.array(calibrator.predict(wf_probs))
+        wf_cal_acc = accuracy_score(wf_labels, (wf_cal > 0.5).astype(int))
+        print(f"\n{TARGET_SEASON} calibration set: {len(wf_probs)} walk-forward rows", flush=True)
+        print(f"{TARGET_SEASON} calibrated walk-forward accuracy: {wf_cal_acc:.4f}", flush=True)
+
     meta_coefs = meta_model.named_steps["lr"].coef_[0]
     print("\nMeta-learner weights (production):", flush=True)
     for (name, _), coef in zip(feat_sets, meta_coefs):
@@ -255,9 +308,13 @@ def train():
         "min_train_season": MIN_TRAIN_SEASON,
         "covid_seasons": list(COVID_SEASONS),
         "impact_era_boost": IMPACT_ERA_BOOST,
+        "target_season": TARGET_SEASON,
+        "target_season_boost": TARGET_SEASON_BOOST,
         "half_life": HALF_LIFE,
         "latest_train_season": int(latest_season),
     }
+    if calibrator is not None:
+        bundle["calibrator"] = {"type": "isotonic_regression", "path": "calibrator.pkl", "fit_season": TARGET_SEASON}
     with open(MODELS_DIR / "bundle.json", "w") as f:
         json.dump(bundle, f, indent=2)
     with open(MODELS_DIR / "model.pkl", "wb") as f:
