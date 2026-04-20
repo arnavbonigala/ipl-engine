@@ -1,4 +1,11 @@
-"""Extract playing XIs per match from ball-by-ball data."""
+"""Extract playing XIs per match from ball-by-ball data.
+
+Announced-XI backfill (data/announced_xis.csv) was evaluated but produced
+materially worse holdout accuracy than BBB-derived XIs (players announced
+but idle — benched WKs, unused impact subs — contribute stale/zero form
+that dilutes aggregates). BBB retained as the training source; live
+inference resolves XIs independently via the scorecard API.
+"""
 
 import csv
 from pathlib import Path
@@ -55,9 +62,6 @@ def extract_all_xis(match_rows: list[dict]) -> dict[str, dict]:
 
         team_bat_first, team_bat_second = extract_xi(mid)
 
-        # Determine which team (team1 or team2) batted first.
-        # If toss winner chose to bat → toss_winner batted first.
-        # If toss winner chose to field → the other team batted first.
         toss_winner = m["toss_winner"]
         toss_decision = m["toss_decision"]
 
@@ -84,10 +88,3 @@ if __name__ == "__main__":
     sizes = [len(v["team1_xi"]) + len(v["team2_xi"]) for v in xis.values()]
     print(f"Extracted XIs for {len(xis)} matches")
     print(f"Players per match (avg): {sum(sizes) / len(sizes):.1f}")
-
-    sample_mid = matches[0]["match_id"]
-    if sample_mid in xis:
-        xi = xis[sample_mid]
-        print(f"\nSample match {sample_mid} ({matches[0]['team1']} vs {matches[0]['team2']}):")
-        print(f"  Team1 XI ({len(xi['team1_xi'])}): {', '.join(xi['team1_xi'].values())}")
-        print(f"  Team2 XI ({len(xi['team2_xi'])}): {', '.join(xi['team2_xi'].values())}")

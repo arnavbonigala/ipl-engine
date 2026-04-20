@@ -8,7 +8,7 @@ from pathlib import Path
 import numpy as np
 
 from predictor.normalize import load_matches, normalize_team
-from predictor.features import build_match_features, _player_batting_form, _player_bowling_form
+from predictor.features import build_match_features
 from predictor.playing_xi import extract_all_xis
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -20,7 +20,15 @@ def load_model():
         bundle = json.load(f)
     with open(MODELS_DIR / "model.pkl", "rb") as f:
         model = pickle.load(f)
-    return model, bundle
+    calibrator = None
+    cal_cfg = bundle.get("calibrator", {})
+    cal_path = cal_cfg.get("path")
+    if cal_path:
+        p = MODELS_DIR / cal_path
+        if p.exists():
+            with open(p, "rb") as f:
+                calibrator = pickle.load(f)
+    return model, bundle, calibrator
 
 
 def resolve_player_ids(names_or_ids: list[str], all_xis) -> dict[str, str]:
@@ -48,25 +56,6 @@ def resolve_player_ids(names_or_ids: list[str], all_xis) -> dict[str, str]:
             else:
                 print(f"  Warning: could not resolve player '{entry}'", file=sys.stderr)
     return result
-
-
-def _pick_best_impact(candidates: dict[str, str], before_date: str) -> str | None:
-    """Pick the strongest impact player candidate by composite score."""
-    best_pid, best_score = None, -1.0
-    for pid in candidates:
-        bf = _player_batting_form(pid, before_date)
-        wf = _player_bowling_form(pid, before_date)
-        score = (
-            bf["bat_runs_avg"]
-            + (bf["bat_sr_avg"] / 100) * 10
-            + wf["bowl_wkts_avg"] * 15
-            + bf["bat_experience"]
-            + wf["bowl_experience"]
-        )
-        if score > best_score:
-            best_score = score
-            best_pid = pid
-    return best_pid
 
 
 def _ensure_player_data(pid: str, name: str):
@@ -123,6 +112,32 @@ def _ensure_player_data(pid: str, name: str):
         print(f"  Fetched T20 data for {name} ({pid}): {len(rows)} innings", file=sys.stderr)
 
 
+def _fill_xi_from_squad(
+    xi: dict[str, str], raw_names: list[str], team: str, squad_ids: dict | None
+):
+    if not squad_ids:
+        return
+    team_squad = squad_ids.get(team, {})
+    if not team_squad:
+        return
+    by_name = {v.lower(): k for k, v in team_squad.items()}
+    have_names = {n.lower() for n in xi.values()}
+    for name in raw_names:
+        key = name.strip().lower()
+        if not key or key in have_names:
+            continue
+        pid = by_name.get(key)
+        if not pid:
+            for squad_name, squad_pid in by_name.items():
+                if key in squad_name:
+                    pid = squad_pid
+                    break
+        if not pid or pid in xi:
+            continue
+        xi[pid] = name.strip()
+        have_names.add(name.strip().lower())
+
+
 def predict(
     team1: str,
     team2: str,
@@ -146,39 +161,13 @@ def predict(
 
     t1_xi = resolve_player_ids(team1_xi, all_xis)
     t2_xi = resolve_player_ids(team2_xi, all_xis)
+    _fill_xi_from_squad(t1_xi, team1_xi, team1, squad_ids)
+    _fill_xi_from_squad(t2_xi, team2_xi, team2, squad_ids)
 
     before_date = all_matches[-1]["date"]
 
-    for team, xi, impact in (
-        (team1, t1_xi, team1_impact),
-        (team2, t2_xi, team2_impact),
-    ):
-        if not impact:
-            continue
-        resolved = resolve_player_ids(impact, all_xis)
-        # For unresolved names, try squad_ids from the scorecard
-        if squad_ids and len(resolved) < len(impact):
-            team_squad = squad_ids.get(team, {})
-            name_to_sid = {v.lower(): k for k, v in team_squad.items()}
-            for name in impact:
-                name_l = name.strip().lower()
-                if name_l not in {v.lower() for v in resolved.values()}:
-                    sid = name_to_sid.get(name_l)
-                    if not sid:
-                        for sq_name, sq_id in name_to_sid.items():
-                            if name_l in sq_name:
-                                sid = sq_id
-                                break
-                    if sid:
-                        _ensure_player_data(sid, name.strip())
-                        resolved[sid] = name.strip()
-        already = set(xi.keys())
-        candidates = {pid: name for pid, name in resolved.items() if pid not in already}
-        if not candidates:
-            continue
-        best = _pick_best_impact(candidates, before_date)
-        if best:
-            xi[best] = candidates[best]
+    for pid, name in {**t1_xi, **t2_xi}.items():
+        _ensure_player_data(pid, name)
 
     match = {
         "match_id": "prediction",
@@ -196,7 +185,7 @@ def predict(
     all_xis["prediction"] = {"team1_xi": t1_xi, "team2_xi": t2_xi}
     feats = build_match_features(match, all_matches, all_xis)
 
-    model, bundle = load_model()
+    model, bundle, calibrator = load_model()
     base_models_dict = model["base_models"]
     meta_model = model["meta_model"]
     feat_sets = bundle["base_models"]
@@ -209,6 +198,8 @@ def predict(
 
     meta_X = np.array([base_preds])
     prob = meta_model.predict_proba(meta_X)[0, 1]
+    if calibrator is not None:
+        prob = float(calibrator.predict([prob])[0])
 
     return {
         "team1": team1,

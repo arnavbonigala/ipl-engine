@@ -491,6 +491,14 @@ def _player_batting_form(player_id: str, before_date: str, n: int = 10) -> dict:
 def _player_bowling_form(player_id: str, before_date: str, n: int = 10) -> dict:
     innings = _load_player_innings(player_id)
     cutoff = datetime.strptime(before_date, "%Y-%m-%d")
+    role = load_bios().get(player_id, {}).get("role", "")
+
+    def _overs_to_float(overs: str) -> float:
+        if "." not in overs:
+            return _safe_float(overs)
+        whole, part = overs.split(".", 1)
+        balls = _safe_float(part)
+        return _safe_float(whole) + (balls / 6.0)
 
     recent = []
     for inn in innings:
@@ -502,18 +510,20 @@ def _player_bowling_form(player_id: str, before_date: str, n: int = 10) -> dict:
             continue
         econ = _safe_float(inn.get("bowl_economy", "0"))
         wkts = _safe_float(inn.get("bowl_wickets", "0"))
-        recent.append({"econ": econ, "wkts": wkts})
+        recent.append({"econ": econ, "wkts": wkts, "overs": _overs_to_float(str(overs))})
 
     if not recent:
         return {"bowl_econ_avg": 12.0, "bowl_wkts_avg": 0, "bowl_experience": 0,
                 "is_regular_bowler": 0}
 
     last_n = recent[-n:]
+    avg_overs = _mean([i["overs"] for i in last_n])
+    is_regular = role in ("Bowler", "Bowling allrounder") or (len(last_n) >= 5 and avg_overs >= 2.0)
     return {
         "bowl_econ_avg": _mean([i["econ"] for i in last_n if i["econ"] > 0]),
         "bowl_wkts_avg": _mean([i["wkts"] for i in last_n]),
         "bowl_experience": len(recent),
-        "is_regular_bowler": 1 if len(recent) > 10 else 0,
+        "is_regular_bowler": 1 if is_regular else 0,
     }
 
 
