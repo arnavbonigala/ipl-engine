@@ -1,0 +1,754 @@
+[
+  {
+    "match_id": "1527674",
+    "date": "2026-03-28",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bengaluru",
+    "label": 0,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.42360328400621783,
+    "p_ann12": 0.4236032840062179,
+    "p_ann11": 0.21878299206806515,
+    "p_pred": 0.4236032840062179,
+    "p_ens": 0.3707517224032579,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 3,
+    "impact_used": [
+      "Devdutt Padikkal",
+      "David Payne"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Liam Livingstone",
+      "Royal Challengers Bengaluru": "Devdutt Padikkal"
+    }
+  },
+  {
+    "match_id": "1527675",
+    "date": "2026-03-29",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians",
+    "label": 0,
+    "bat_first": "Kolkata Knight Riders",
+    "p_bbb": 0.3128846483261209,
+    "p_ann12": 0.5399300254099683,
+    "p_ann11": 0.3128846483261209,
+    "p_pred": 0.5150045233051544,
+    "p_ens": 0.5451658737604804,
+    "bbb_correct": 1,
+    "ann12_correct": 0,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 3,
+    "impact_used": [
+      "Kartik Tyagi",
+      "Suryakumar Yadav"
+    ],
+    "picked_subs": {
+      "Kolkata Knight Riders": "Kartik Tyagi",
+      "Mumbai Indians": "Robin Minz"
+    }
+  },
+  {
+    "match_id": "1527676",
+    "date": "2026-03-30",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals",
+    "label": 0,
+    "bat_first": "Chennai Super Kings",
+    "p_bbb": 0.033264048382165595,
+    "p_ann12": 0.4153571249967105,
+    "p_ann11": 0.4153571249967105,
+    "p_pred": 0.6768872372870015,
+    "p_ens": 0.6768872372870015,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 1,
+    "impact_used": [
+      "Sarfaraz Khan"
+    ],
+    "picked_subs": {
+      "Chennai Super Kings": "Rahul Chahar",
+      "Rajasthan Royals": "Donovan Ferreira"
+    }
+  },
+  {
+    "match_id": "1527677",
+    "date": "2026-03-31",
+    "team1": "Gujarat Titans",
+    "team2": "Punjab Kings",
+    "label": 0,
+    "bat_first": "Gujarat Titans",
+    "p_bbb": 0.39635019004499605,
+    "p_ann12": 0.39635019004499605,
+    "p_ann11": 0.20908233261360526,
+    "p_pred": 0.39635019004499605,
+    "p_ens": 0.32702713544759027,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 12,
+    "impact_used": [
+      "Priyansh Arya",
+      "Prasidh Krishna"
+    ],
+    "picked_subs": {
+      "Gujarat Titans": "Jayant Yadav",
+      "Punjab Kings": "Priyansh Arya"
+    }
+  },
+  {
+    "match_id": "1527678",
+    "date": "2026-04-01",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "label": 0,
+    "bat_first": "Lucknow Super Giants",
+    "p_bbb": 0.030984567772921762,
+    "p_ann12": 0.5014071771244248,
+    "p_ann11": 0.24483246552197865,
+    "p_pred": 0.24483246552197865,
+    "p_ens": 0.24247280823665227,
+    "bbb_correct": 1,
+    "ann12_correct": 0,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 3,
+    "impact_used": [
+      "Shahbaz Ahmed",
+      "Sameer Rizvi"
+    ],
+    "picked_subs": {
+      "Lucknow Super Giants": "Avesh Khan",
+      "Delhi Capitals": null
+    }
+  },
+  {
+    "match_id": "1527679",
+    "date": "2026-04-02",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders",
+    "label": 1,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.5092581117608881,
+    "p_ann12": 0.5021554147192613,
+    "p_ann11": 0.5021554147192613,
+    "p_pred": 0.7250719352594421,
+    "p_ens": 0.7250719352594421,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 4,
+    "impact_used": [
+      "Eshan Malinga",
+      "Finn Allen"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Eshan Malinga",
+      "Kolkata Knight Riders": "Manish Pandey"
+    }
+  },
+  {
+    "match_id": "1527680",
+    "date": "2026-04-03",
+    "team1": "Chennai Super Kings",
+    "team2": "Punjab Kings",
+    "label": 0,
+    "bat_first": "Chennai Super Kings",
+    "p_bbb": 0.032899464584626815,
+    "p_ann12": 0.40046881030970166,
+    "p_ann11": 0.2663206081548321,
+    "p_pred": 0.4895520450278089,
+    "p_ens": 0.41220845580875093,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 6,
+    "impact_used": [
+      "Priyansh Arya",
+      "Rahul Chahar"
+    ],
+    "picked_subs": {
+      "Chennai Super Kings": "Rahul Chahar",
+      "Punjab Kings": "Priyansh Arya"
+    }
+  },
+  {
+    "match_id": "1527681",
+    "date": "2026-04-04",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "label": 0,
+    "bat_first": "Mumbai Indians",
+    "p_bbb": 0.4965351773381214,
+    "p_ann12": 0.5030206443623729,
+    "p_ann11": 0.28732895657008606,
+    "p_pred": 0.5072958312916431,
+    "p_ens": 0.42874189293379983,
+    "bbb_correct": 1,
+    "ann12_correct": 0,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 1,
+    "n_ens": 9,
+    "impact_used": [
+      "Sameer Rizvi",
+      "Mayank Markande"
+    ],
+    "picked_subs": {
+      "Mumbai Indians": "Ashwani Kumar",
+      "Delhi Capitals": "Karun Nair"
+    }
+  },
+  {
+    "match_id": "1527682",
+    "date": "2026-04-04",
+    "team1": "Rajasthan Royals",
+    "team2": "Gujarat Titans",
+    "label": 1,
+    "bat_first": "Rajasthan Royals",
+    "p_bbb": 0.23270755983476824,
+    "p_ann12": 0.23270755983476824,
+    "p_ann11": 0.11999212212027623,
+    "p_pred": 0.16538178348296298,
+    "p_ens": 0.1990446716588656,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 2,
+    "impact_used": [
+      "Ravi Bishnoi",
+      "M Shahrukh Khan"
+    ],
+    "picked_subs": {
+      "Rajasthan Royals": "Ravi Bishnoi",
+      "Gujarat Titans": "Anuj Rawat"
+    }
+  },
+  {
+    "match_id": "1527683",
+    "date": "2026-04-05",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Lucknow Super Giants",
+    "label": 0,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.30810856221553584,
+    "p_ann12": 0.3023480862640719,
+    "p_ann11": 0.12975370047432783,
+    "p_pred": 0.3023480862640719,
+    "p_ens": 0.26548673276548845,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 6,
+    "impact_used": [
+      "Ayush Badoni"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Zeeshan Ansari",
+      "Lucknow Super Giants": "Ayush Badoni"
+    }
+  },
+  {
+    "match_id": "1527684",
+    "date": "2026-04-05",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings",
+    "label": 1,
+    "bat_first": "Royal Challengers Bengaluru",
+    "p_bbb": 0.39612117036418526,
+    "p_ann12": 0.42143007808582356,
+    "p_ann11": 0.42143007808582356,
+    "p_pred": 0.5747609053783601,
+    "p_ens": 0.5747609053783601,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 3,
+    "impact_used": [
+      "Kartik Sharma",
+      "Suyash Sharma"
+    ],
+    "picked_subs": {
+      "Royal Challengers Bengaluru": "Rasikh Salam",
+      "Chennai Super Kings": "Matthew Short"
+    }
+  },
+  {
+    "match_id": "1527686",
+    "date": "2026-04-07",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians",
+    "label": 1,
+    "bat_first": "Rajasthan Royals",
+    "p_bbb": 0.03940491131170948,
+    "p_ann12": 0.4392574174699275,
+    "p_ann11": 0.24947953642206847,
+    "p_pred": 0.24947953642206847,
+    "p_ens": 0.24947953642206847,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 1,
+    "impact_used": [
+      "Ravi Bishnoi",
+      "Sherfane Rutherford"
+    ],
+    "picked_subs": {
+      "Rajasthan Royals": "Ravi Bishnoi",
+      "Mumbai Indians": null
+    }
+  },
+  {
+    "match_id": "1527687",
+    "date": "2026-04-08",
+    "team1": "Gujarat Titans",
+    "team2": "Delhi Capitals",
+    "label": 1,
+    "bat_first": "Gujarat Titans",
+    "p_bbb": 0.5424923485964134,
+    "p_ann12": 0.5441682093982261,
+    "p_ann11": 0.36763858926074294,
+    "p_pred": 0.5521698094915242,
+    "p_ens": 0.4844119491407343,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 0,
+    "pred_correct": 1,
+    "ens_correct": 0,
+    "n_ens": 12,
+    "impact_used": [
+      "Prasidh Krishna",
+      "Sameer Rizvi"
+    ],
+    "picked_subs": {
+      "Gujarat Titans": "Jayant Yadav",
+      "Delhi Capitals": "Karun Nair"
+    }
+  },
+  {
+    "match_id": "1527688",
+    "date": "2026-04-09",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Lucknow Super Giants",
+    "label": 0,
+    "bat_first": "Kolkata Knight Riders",
+    "p_bbb": 0.48337509096783104,
+    "p_ann12": 0.48253504913226136,
+    "p_ann11": 0.2871519301528785,
+    "p_pred": 0.48253504913226136,
+    "p_ens": 0.4548396524741712,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 3,
+    "impact_used": [
+      "VG Arora",
+      "A Badoni"
+    ],
+    "picked_subs": {
+      "Kolkata Knight Riders": "Vaibhav Arora",
+      "Lucknow Super Giants": "Ayush Badoni"
+    }
+  },
+  {
+    "match_id": "1527689",
+    "date": "2026-04-10",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Rajasthan Royals",
+    "label": 0,
+    "bat_first": "Royal Challengers Bengaluru",
+    "p_bbb": 0.04775398392645101,
+    "p_ann12": 0.6867964463247194,
+    "p_ann11": 0.4990595482067966,
+    "p_pred": 0.6700928480838806,
+    "p_ens": 0.6784446472043001,
+    "bbb_correct": 1,
+    "ann12_correct": 0,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 6,
+    "impact_used": [
+      "Venkatesh Iyer",
+      "Vaibhav Sooryavanshi"
+    ],
+    "picked_subs": {
+      "Royal Challengers Bengaluru": "Rasikh Salam",
+      "Rajasthan Royals": "Shubham Dubey"
+    }
+  },
+  {
+    "match_id": "1527690",
+    "date": "2026-04-11",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Punjab Kings",
+    "label": 0,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.22367284521181868,
+    "p_ann12": 0.28862671020918823,
+    "p_ann11": 0.1774315410356395,
+    "p_pred": 0.28862671020918823,
+    "p_ens": 0.24317459832165259,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 9,
+    "impact_used": [
+      "Jaydev Unadkat",
+      "Nehal Wadhera"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Jaydev Unadkat",
+      "Punjab Kings": "Nehal Wadhera"
+    }
+  },
+  {
+    "match_id": "1527691",
+    "date": "2026-04-11",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Capitals",
+    "label": 1,
+    "bat_first": "Chennai Super Kings",
+    "p_bbb": 0.284402273044864,
+    "p_ann12": 0.2842841449580438,
+    "p_ann11": 0.2978029266923215,
+    "p_pred": 0.45977043551008034,
+    "p_ens": 0.414654871728122,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 6,
+    "impact_used": [
+      "Akeal Hosein",
+      "Ashutosh Sharma"
+    ],
+    "picked_subs": {
+      "Chennai Super Kings": "Akeal Hosein",
+      "Delhi Capitals": "Karun Nair"
+    }
+  },
+  {
+    "match_id": "1527692",
+    "date": "2026-04-12",
+    "team1": "Lucknow Super Giants",
+    "team2": "Gujarat Titans",
+    "label": 0,
+    "bat_first": "Lucknow Super Giants",
+    "p_bbb": 0.128854056413591,
+    "p_ann12": 0.45675970641922653,
+    "p_ann11": 0.2899569710349415,
+    "p_pred": 0.2899569710349415,
+    "p_ens": 0.2899569710349415,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 1,
+    "impact_used": [
+      "George Linde",
+      "M Shahrukh Khan"
+    ],
+    "picked_subs": {
+      "Lucknow Super Giants": null,
+      "Gujarat Titans": null
+    }
+  },
+  {
+    "match_id": "1527693",
+    "date": "2026-04-12",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Mumbai Indians",
+    "label": 1,
+    "bat_first": "Royal Challengers Bengaluru",
+    "p_bbb": 0.04672107649740575,
+    "p_ann12": 0.6257196549522631,
+    "p_ann11": 0.6257196549522631,
+    "p_pred": 0.6257196549522631,
+    "p_ens": 0.6257196549522631,
+    "bbb_correct": 0,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 1,
+    "impact_used": [
+      "Rasikh Salam"
+    ],
+    "picked_subs": {
+      "Royal Challengers Bengaluru": null,
+      "Mumbai Indians": null
+    }
+  },
+  {
+    "match_id": "1529264",
+    "date": "2026-04-13",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals",
+    "label": 1,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.5837064715101139,
+    "p_ann12": 0.5859576955677942,
+    "p_ann11": 0.43489610813967394,
+    "p_pred": 0.5322242698332913,
+    "p_ens": 0.5633321553259246,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 0,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 6,
+    "impact_used": [
+      "V Sooryavanshi",
+      "Sakib Hussain"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Harshal Patel",
+      "Rajasthan Royals": "Shimron Hetmyer"
+    }
+  },
+  {
+    "match_id": "1529265",
+    "date": "2026-04-14",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders",
+    "label": 1,
+    "bat_first": "Chennai Super Kings",
+    "p_bbb": 0.06422783841659041,
+    "p_ann12": 0.52240556871972,
+    "p_ann11": 0.46038923978608204,
+    "p_pred": 0.5891771512374261,
+    "p_ens": 0.549584188302022,
+    "bbb_correct": 0,
+    "ann12_correct": 1,
+    "ann11_correct": 0,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 2,
+    "impact_used": [
+      "Akeal Hosein",
+      "Finn Allen"
+    ],
+    "picked_subs": {
+      "Chennai Super Kings": null,
+      "Kolkata Knight Riders": "Manish Pandey"
+    }
+  },
+  {
+    "match_id": "1529266",
+    "date": "2026-04-15",
+    "team1": "Lucknow Super Giants",
+    "team2": "Royal Challengers Bengaluru",
+    "label": 0,
+    "bat_first": "Lucknow Super Giants",
+    "p_bbb": 0.16385091292141582,
+    "p_ann12": 0.4769575042821312,
+    "p_ann11": 0.4922239503528845,
+    "p_pred": 0.5823143973958583,
+    "p_ens": 0.5934482942191963,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 4,
+    "impact_used": [
+      "George Linde",
+      "Virat Kohli"
+    ],
+    "picked_subs": {
+      "Lucknow Super Giants": "Manimaran Siddharth",
+      "Royal Challengers Bengaluru": "Virat Kohli"
+    }
+  },
+  {
+    "match_id": "1529267",
+    "date": "2026-04-16",
+    "team1": "Mumbai Indians",
+    "team2": "Punjab Kings",
+    "label": 0,
+    "bat_first": "Mumbai Indians",
+    "p_bbb": 0.29521710264236956,
+    "p_ann12": 0.32135600076340914,
+    "p_ann11": 0.32135600076340914,
+    "p_pred": 0.39676648576745643,
+    "p_ens": 0.35878588877627493,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 6,
+    "impact_used": [
+      "AM Ghazanfar"
+    ],
+    "picked_subs": {
+      "Mumbai Indians": "Ashwani Kumar",
+      "Punjab Kings": "Nehal Wadhera"
+    }
+  },
+  {
+    "match_id": "1529268",
+    "date": "2026-04-17",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Gujarat Titans",
+    "label": 0,
+    "bat_first": "Kolkata Knight Riders",
+    "p_bbb": 0.14256382962607209,
+    "p_ann12": 0.48025560567495973,
+    "p_ann11": 0.3744029583791623,
+    "p_pred": 0.40808409339369095,
+    "p_ens": 0.4441698495343253,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 4,
+    "impact_used": [
+      "Varun Chakravarthy",
+      "M Shahrukh Khan"
+    ],
+    "picked_subs": {
+      "Kolkata Knight Riders": "Navdeep Saini",
+      "Gujarat Titans": "Anuj Rawat"
+    }
+  },
+  {
+    "match_id": "1529269",
+    "date": "2026-04-18",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Delhi Capitals",
+    "label": 0,
+    "bat_first": "Royal Challengers Bengaluru",
+    "p_bbb": 0.42232228490084434,
+    "p_ann12": 0.41375679195054815,
+    "p_ann11": 0.31202385020194184,
+    "p_pred": 0.41375679195054815,
+    "p_ens": 0.37709442058456094,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 1,
+    "ens_correct": 1,
+    "n_ens": 6,
+    "impact_used": [
+      "Rasikh Salam",
+      "Karun Nair"
+    ],
+    "picked_subs": {
+      "Royal Challengers Bengaluru": "Rasikh Salam",
+      "Delhi Capitals": "Karun Nair"
+    }
+  },
+  {
+    "match_id": "1529270",
+    "date": "2026-04-18",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Chennai Super Kings",
+    "label": 1,
+    "bat_first": "Sunrisers Hyderabad",
+    "p_bbb": 0.5087549907426815,
+    "p_ann12": 0.5070544816084842,
+    "p_ann11": 0.5064654425692172,
+    "p_pred": 0.494998558582783,
+    "p_ens": 0.5007320005760001,
+    "bbb_correct": 1,
+    "ann12_correct": 1,
+    "ann11_correct": 1,
+    "pred_correct": 0,
+    "ens_correct": 1,
+    "n_ens": 2,
+    "impact_used": [
+      "Liam Livingstone",
+      "Gurjapneet Singh"
+    ],
+    "picked_subs": {
+      "Sunrisers Hyderabad": "Harsh Dubey",
+      "Chennai Super Kings": null
+    }
+  },
+  {
+    "match_id": "1529271",
+    "date": "2026-04-19",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders",
+    "label": 0,
+    "bat_first": "Rajasthan Royals",
+    "p_bbb": 0.6583318812810967,
+    "p_ann12": 0.6592326959414115,
+    "p_ann11": 0.5398967543200824,
+    "p_pred": 0.6592326959414115,
+    "p_ens": 0.6533122324606843,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 2,
+    "impact_used": [
+      "Angkrish Raghuvanshi",
+      "Yash Raj Punja"
+    ],
+    "picked_subs": {
+      "Rajasthan Royals": "Sandeep Sharma",
+      "Kolkata Knight Riders": "Angkrish Raghuvanshi"
+    }
+  },
+  {
+    "match_id": "1529272",
+    "date": "2026-04-19",
+    "team1": "Punjab Kings",
+    "team2": "Lucknow Super Giants",
+    "label": 1,
+    "bat_first": "Punjab Kings",
+    "p_bbb": 0.31715018110269416,
+    "p_ann12": 0.3145530444965081,
+    "p_ann11": 0.3145530444965081,
+    "p_pred": 0.410781845065736,
+    "p_ens": 0.40031112097411053,
+    "bbb_correct": 0,
+    "ann12_correct": 0,
+    "ann11_correct": 0,
+    "pred_correct": 0,
+    "ens_correct": 0,
+    "n_ens": 4,
+    "impact_used": [
+      "Himmat Singh",
+      "Vyshak Vijaykumar"
+    ],
+    "picked_subs": {
+      "Punjab Kings": "Harpreet Brar",
+      "Lucknow Super Giants": "Abdul Samad"
+    }
+  }
+]
