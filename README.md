@@ -6,7 +6,7 @@ IPL Engine ingests historical and live match data, waits for toss and confirmed 
 
 ## Key Capabilities
 
-- **Forecasting**: Stacked ensemble of logistic regressions averaging **78.6% walk-forward accuracy** across 2023–2025 seasons, trained on 284 engineered features with strict chronological ordering
+- **Forecasting**: Stacked ensemble of logistic regressions averaging **74.3% walk-forward accuracy** across 2023–2025 seasons, trained on 284 engineered features with strict chronological ordering
 - **Live data ingestion**: Polls ESPNCricinfo for toss results and confirmed playing XIs, with on-the-fly player data fetching for previously unseen players
 - **Market comparison**: Discovers relevant prediction markets, extracts live prices, computes model edge over market-implied probabilities
 - **Risk sizing**: Half-Kelly criterion with configurable fraction caps, minimum confidence (60%) and minimum edge (3%) filters — coin-flip predictions are automatically skipped
@@ -59,7 +59,7 @@ The feature space is split into thematic clusters, each trained as a separate ba
 
 The meta-learner is itself an LR (C=0.1) trained on out-of-fold probabilities generated via leave-one-season-out CV within the training data.
 
-**Training configuration**: 2018 onward, excluding 2020–2021 (COVID neutral-venue seasons). Sample weighting uses exponential decay with a 2-year half-life, plus 3x multiplier for impact-player-era matches (2023+).
+**Training configuration**: 2018 onward, excluding 2020–2021 (COVID neutral-venue seasons). Sample weighting uses exponential decay with a 2.5-year half-life, plus 2x multiplier for impact-player-era matches (2023+).
 
 ### Results
 
@@ -67,11 +67,11 @@ Walk-forward holdout evaluation — each season is predicted using a model train
 
 | Holdout | Accuracy | Correct / Total | Brier Score | ROC AUC |
 |---------|----------|-----------------|-------------|---------|
-| 2023    | 72.6%    | 53 / 73         | 0.231       | 0.748   |
-| 2024    | 77.5%    | 55 / 71         | 0.173       | 0.823   |
-| 2025    | 80.0%    | 56 / 70         | 0.162       | 0.838   |
+| 2023    | 74.0%    | 54 / 73         | 0.233       | 0.717   |
+| 2024    | 73.2%    | 52 / 71         | 0.191       | 0.791   |
+| 2025    | 75.7%    | 53 / 70         | 0.180       | 0.812   |
 
-Walk-forward backtesting of the 2025 season (retraining before each match) confirms **78.6% accuracy** across 70 matches, with no early-season degradation — the model holds 75–80% from match 1 onward.
+Three-season average: **74.3%** accuracy. Early 2026 live-inference (announced-XI, walk-forward retrain before each match) currently runs at **67.9%** (19 / 28) — rising as the season accumulates more training data.
 
 ## Live Execution Engine
 
