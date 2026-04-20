@@ -1,0 +1,235 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+362710,David Payne,27 Jun 2010,v Middlesex,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+362710,David Payne,4 Jul 2010,v Kent,Canterbury,2,11,1*,1,1,0,0,100,not out,1,4.0,0,25,3,6.25
+362710,David Payne,15 Jul 2010,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,3.0,0,18,1,6
+362710,David Payne,2 Jun 2011,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,0,11.5
+362710,David Payne,3 Jun 2011,v Essex,Chelmsford,2,10,10,9,7,0,1,142.85,caught,1,3.0,0,43,1,14.33
+362710,David Payne,11 Jun 2011,v Surrey,Gloucester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,20,3,5
+362710,David Payne,15 Jun 2011,v Kent,Beckenham,1,10,0,1,1,0,0,0,bowled,2,3.0,0,27,1,9
+362710,David Payne,24 Jun 2011,v Hampshire,Southampton,2,11,2*,4,2,0,0,100,not out,1,4.0,0,45,1,11.25
+362710,David Payne,1 Jul 2011,v Somerset,Bristol,2,-,DNB,-,-,-,-,-,-,1,2.0,0,4,2,2
+362710,David Payne,3 Jul 2011,v Sussex,Arundel,1,11,0,1,1,0,0,0,bowled,2,2.0,0,10,1,5
+362710,David Payne,6 Jul 2011,v Kent,Bristol,1,-,DNB,-,-,-,-,-,-,2,1.0,0,16,1,16
+362710,David Payne,8 Jul 2011,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+362710,David Payne,10 Jul 2011,v Glamorgan,Bristol,1,11,1,4,4,0,0,25,bowled,2,1.0,0,6,0,6
+362710,David Payne,17 Jun 2012,v Worcs,Worcester,2,10,2,3,3,0,0,66.66,bowled,1,4.0,0,51,0,12.75
+362710,David Payne,28 Jun 2013,v Northants,Northampton,2,11,8*,5,5,1,0,160,not out,1,3.0,0,35,1,11.66
+362710,David Payne,30 Jun 2013,v Worcs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,2,3.5
+362710,David Payne,5 Jul 2013,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,3.5,0,35,2,9.13
+362710,David Payne,7 Jul 2013,v Worcs,Worcester,1,11,5*,4,3,0,0,166.66,not out,2,1.0,0,13,0,13
+362710,David Payne,14 Jul 2013,v Warwickshire,Cheltenham,1,11,0*,2,1,0,0,0,not out,2,3.0,0,17,1,5.66
+362710,David Payne,16 Jul 2013,v Northants,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,47,0,11.75
+362710,David Payne,21 Jul 2013,v Glamorgan,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,3,4.25
+362710,David Payne,24 Jul 2013,v Warwickshire,Birmingham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+362710,David Payne,26 Jul 2013,v Somerset,Bristol,1,9,0,2,2,0,0,0,bowled,2,2.1,0,29,0,13.38
+362710,David Payne,13 Jun 2014,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,3.3,0,33,0,9.42
+362710,David Payne,20 Jun 2014,v Hampshire,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,1,25,2,6.25
+362710,David Payne,26 Jun 2014,v Middlesex,Lord's,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+362710,David Payne,27 Jun 2014,v Kent,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+362710,David Payne,4 Jul 2014,v Sussex,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.0,0,14,2,7
+362710,David Payne,11 Jul 2014,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+362710,David Payne,18 Jul 2014,v Surrey,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,47,1,15.66
+362710,David Payne,20 Jul 2014,v Essex,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,31,0,10.33
+362710,David Payne,25 Jul 2014,v Glamorgan,Cardiff,1,11,1*,3,1,0,0,100,not out,2,4.0,0,13,0,3.25
+362710,David Payne,15 May 2015,v Middlesex,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+362710,David Payne,17 May 2015,v Sussex,Hove,2,10,3*,6,3,0,0,100,not out,1,4.0,0,40,1,10
+362710,David Payne,24 May 2015,v Essex,Bristol,1,-,DNB,-,-,-,-,-,-,2,3.4,0,24,3,6.54
+362710,David Payne,5 Jun 2015,v Kent,Beckenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+362710,David Payne,11 Jun 2015,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,2,8.33
+362710,David Payne,12 Jun 2015,v Glamorgan,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+362710,David Payne,14 Jun 2015,v Middlesex,Richmond,1,-,DNB,-,-,-,-,-,-,2,3.3,0,24,5,6.85
+362710,David Payne,19 Jun 2015,v Somerset,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,47,1,11.75
+362710,David Payne,24 Jul 2015,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,1.0,0,17,0,17
+362710,David Payne,20 May 2016,v Sussex,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,62,0,15.5
+362710,David Payne,7 Jul 2017,v Middlesex,Cheltenham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+362710,David Payne,13 Jul 2017,v Kent,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,2,7.25
+362710,David Payne,16 Jul 2017,v Sussex,Cheltenham,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,13,3,4.33
+362710,David Payne,18 Jul 2017,v Kent,Canterbury,1,10,0*,2,0,0,0,-,not out,2,4.0,1,16,1,4
+362710,David Payne,25 Jul 2017,v Glamorgan,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+362710,David Payne,28 Jul 2017,v Hampshire,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.4,0,25,0,9.37
+362710,David Payne,29 Jul 2017,v Essex,Chelmsford,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+362710,David Payne,3 Aug 2017,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,2.0,0,9,1,4.5
+362710,David Payne,4 Aug 2017,v Somerset,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,3,7.25
+362710,David Payne,11 Aug 2017,v Sussex,Hove,1,10,2,6,5,0,0,40,bowled,2,4.0,0,37,1,9.25
+362710,David Payne,13 Aug 2017,v Essex,Bristol,1,10,6*,10,7,0,0,85.71,not out,2,3.0,0,18,0,6
+362710,David Payne,15 Aug 2017,v Middlesex,Uxbridge,2,11,5,7,5,0,0,100,caught,1,3.0,0,27,2,9
+362710,David Payne,17 Aug 2017,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,1,10.75
+362710,David Payne,6 Jul 2018,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+362710,David Payne,8 Jul 2018,v Middlesex,Uxbridge,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,2,10
+362710,David Payne,11 Jul 2018,v Kent,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,36,0,9
+362710,David Payne,13 Jul 2018,v Somerset,Bristol,2,-,DNB,-,-,-,-,-,-,1,2.0,0,22,1,11
+362710,David Payne,20 Jul 2018,v Essex,Cheltenham,-,-,TDNB,-,-,-,-,-,-,1,3.0,0,29,0,9.66
+362710,David Payne,27 Jul 2018,v Glamorgan,Cheltenham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,50,1,12.5
+362710,David Payne,1 Aug 2018,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,2,3.75
+362710,David Payne,3 Aug 2018,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,2,6.5
+362710,David Payne,5 Aug 2018,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+362710,David Payne,9 Aug 2018,v Middlesex,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+362710,David Payne,12 Aug 2018,v Surrey,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,3,7.25
+362710,David Payne,16 Aug 2018,v Sussex,Bristol,1,11,0*,1,0,0,0,-,not out,2,3.0,0,35,1,11.66
+362710,David Payne,17 Aug 2018,v Hampshire,Southampton,1,11,0*,1,0,0,0,-,not out,2,4.0,0,34,2,8.5
+362710,David Payne,25 Aug 2018,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,3.0,0,35,1,11.66
+362710,David Payne,19 Jul 2019,v Glamorgan,Cheltenham,-,-,TDNB,-,-,-,-,-,-,1,2.0,1,5,1,2.5
+362710,David Payne,25 Jul 2019,v Middlesex,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+362710,David Payne,1 Aug 2019,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+362710,David Payne,2 Aug 2019,v Essex,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,0,7.5
+362710,David Payne,4 Aug 2019,v Sussex,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+362710,David Payne,7 Aug 2019,v Kent,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+362710,David Payne,9 Aug 2019,v Surrey,The Oval,1,10,1*,5,1,0,0,100,not out,2,3.0,0,9,0,3
+362710,David Payne,11 Aug 2019,v Middlesex,Radlett,1,10,2*,1,2,0,0,100,not out,2,3.0,0,21,1,7
+362710,David Payne,13 Aug 2019,v Hampshire,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+362710,David Payne,23 Aug 2019,v Somerset,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,1,9.5
+362710,David Payne,29 Aug 2019,v Kent,Canterbury,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+362710,David Payne,30 Aug 2019,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,3,9
+362710,David Payne,7 Sep 2019,v Derbyshire,Bristol,1,-,DNB,-,-,-,-,-,-,2,3.0,0,26,0,8.66
+362710,David Payne,29 Aug 2020,v Glamorgan,Bristol,2,11,0,3,2,0,0,0,bowled,1,4.0,0,34,0,8.5
+362710,David Payne,31 Aug 2020,v Worcs,Worcester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,3,8
+362710,David Payne,2 Sep 2020,v Bears,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,1,10
+362710,David Payne,4 Sep 2020,v Worcs,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+362710,David Payne,11 Sep 2020,v Northants,Northampton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,1,8.75
+362710,David Payne,13 Sep 2020,v Somerset,Taunton,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+362710,David Payne,15 Sep 2020,v Bears,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.1,0,14,2,6.46
+362710,David Payne,18 Sep 2020,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,0,10
+362710,David Payne,20 Sep 2020,v Somerset,Bristol,2,10,0*,3,0,0,0,-,not out,1,4.0,0,38,1,9.5
+362710,David Payne,1 Oct 2020,v Northants,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+362710,David Payne,3 Oct 2020,v Surrey,Birmingham,1,-,DNB,-,-,-,-,-,-,2,2.4,0,18,3,6.75
+362710,David Payne,10 Jun 2021,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,43,0,10.75
+362710,David Payne,11 Jun 2021,v Sussex,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,49,1,12.25
+362710,David Payne,13 Jun 2021,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,3,7.5
+362710,David Payne,17 Jun 2021,v Middlesex,Radlett,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+362710,David Payne,22 Jun 2021,v Kent,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,0,5.5
+362710,David Payne,24 Jun 2021,v Glamorgan,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+362710,David Payne,25 Jun 2021,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,1,25,2,6.25
+362710,David Payne,1 Jul 2021,v Somerset,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,1,9.25
+362710,David Payne,18 Jul 2021,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+362710,David Payne,24 Jul 2021,v N S-Chargers,Leeds,1,-,DNB,-,-,-,-,-,-,2,4.0,0,42,0,12.6
+362710,David Payne,27 Jul 2021,v Brave,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,9
+362710,David Payne,31 Jul 2021,v Originals,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,1,25,0,7.5
+362710,David Payne,2 Aug 2021,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,3.3,0,39,0,13
+362710,David Payne,6 Aug 2021,v Rockets,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.0,0,25,1,10
+362710,David Payne,9 Aug 2021,v Phoenix,Birmingham,2,11,0,2,1,0,0,0,bowled,1,4.0,0,38,3,11.4
+362710,David Payne,11 Aug 2021,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,2.2,0,23,0,11.5
+362710,David Payne,26 May 2022,v Middlesex,Radlett,2,9,0,1,1,0,0,0,caught,1,4.0,0,42,2,10.5
+362710,David Payne,27 May 2022,v Sussex,Bristol,1,9,0*,3,1,0,0,0,not out,2,4.0,0,22,3,5.5
+362710,David Payne,31 May 2022,v Surrey,The Oval,2,9,2,4,3,0,0,66.66,caught,1,3.0,0,30,2,10
+362710,David Payne,1 Jun 2022,v Kent,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,4,3.75
+362710,David Payne,7 Jun 2022,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+362710,David Payne,9 Jun 2022,v Somerset,Bristol,1,-,DNB,-,-,-,-,-,-,2,2.0,0,23,1,11.5
+362710,David Payne,10 Jun 2022,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,3.4,0,17,3,4.63
+362710,David Payne,24 Jun 2022,v Hampshire,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,1,8.75
+362710,David Payne,1 Jul 2022,v Hampshire,Southampton,2,10,4,7,6,0,0,66.66,bowled,1,4.0,0,33,0,8.25
+362710,David Payne,3 Aug 2022,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,3.0,0,27,0,10.8
+362710,David Payne,7 Aug 2022,v Invincibles,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,9.9
+362710,David Payne,13 Aug 2022,v Phoenix,Cardiff,2,-,DNB,-,-,-,-,-,-,1,3.0,0,12,2,4.8
+362710,David Payne,16 Aug 2022,v Originals,Manchester,2,10,8,-,6,0,1,133.33,stumped,1,4.0,0,32,0,9.6
+362710,David Payne,22 Aug 2022,v Brave,Cardiff,1,9,1,3,2,0,0,50,caught,2,3.0,0,28,0,11.2
+362710,David Payne,24 Aug 2022,v Spirit,Lord's,2,10,1*,-,1,0,0,100,not out,1,4.0,0,30,0,9
+362710,David Payne,26 Aug 2022,v N S-Chargers,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.1,0,20,0,7.5
+362710,David Payne,29 Aug 2022,v Rockets,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,9.9
+362710,David Payne,13 Jan 2023,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,2,5
+362710,David Payne,15 Jan 2023,v Sixers,Sydney,2,9,5*,8,4,0,0,125,not out,1,4.0,0,30,0,7.5
+362710,David Payne,20 Jan 2023,v Strikers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,3,6.66
+362710,David Payne,22 Jan 2023,v Renegades,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+362710,David Payne,28 Jan 2023,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,3,8.25
+362710,David Payne,4 Feb 2023,v Heat,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+362710,David Payne,24 May 2023,v Kent,Canterbury,1,11,0,1,1,0,0,0,caught,2,3.0,0,27,0,9
+362710,David Payne,26 May 2023,v Glamorgan,Bristol,1,10,0,5,0,0,0,-,run out,2,4.0,0,17,3,4.25
+362710,David Payne,29 May 2023,v Middlesex,Northwood,1,10,2,5,3,0,0,66.66,caught,2,4.0,0,26,0,6.5
+362710,David Payne,30 May 2023,v Essex,Chelmsford,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+362710,David Payne,2 Jun 2023,v Surrey,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,3,5.25
+362710,David Payne,4 Jun 2023,v Middlesex,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+362710,David Payne,9 Jun 2023,v Somerset,Bristol,2,10,7,14,12,0,0,58.33,caught,1,4.0,0,25,0,6.25
+362710,David Payne,17 Jun 2023,v Kent,Bristol,1,11,16,12,9,1,1,177.77,caught,2,3.0,0,19,0,6.33
+362710,David Payne,18 Jun 2023,v Glamorgan,Cardiff,2,9,15*,16,13,0,1,115.38,not out,1,4.0,0,27,1,6.75
+362710,David Payne,20 Jun 2023,v Hampshire,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,1,37,1,9.25
+362710,David Payne,22 Jun 2023,v Sussex,Bristol,1,10,4,5,4,1,0,100,caught,2,4.0,0,43,0,10.75
+362710,David Payne,23 Jun 2023,v Somerset,Taunton,1,8,1,4,1,0,0,100,run out,2,4.0,0,34,1,8.5
+362710,David Payne,1 Jul 2023,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+362710,David Payne,2 Jul 2023,v Hampshire,Southampton,1,9,7,14,7,0,0,100,caught,2,3.0,0,23,0,7.66
+362710,David Payne,2 Aug 2023,v Originals,Cardiff,1,-,DNB,-,-,-,-,-,-,2,2.0,0,27,0,16.2
+362710,David Payne,4 Aug 2023,v Brave,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,8.1
+362710,David Payne,6 Aug 2023,v Invincibles,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,1,9.9
+362710,David Payne,10 Aug 2023,v Phoenix,Birmingham,2,-,DNB,-,-,-,-,-,-,1,3.0,0,11,2,4.4
+362710,David Payne,12 Aug 2023,v Brave,Cardiff,1,11,0,1,1,0,0,0,caught,2,2.0,0,10,1,6
+362710,David Payne,20 Aug 2023,v Spirit,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,5.1
+362710,David Payne,22 Aug 2023,v N S-Chargers,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,0,53,1,15.9
+362710,David Payne,19 Dec 2023,v Thunder,Adelaide,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,2,8.75
+362710,David Payne,22 Dec 2023,v Sixers,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,1,12
+362710,David Payne,29 Dec 2023,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,3.4,0,37,3,10.09
+362710,David Payne,3 Jan 2024,v Scorchers,Perth,2,10,8*,4,3,0,1,266.66,not out,1,4.0,0,39,0,9.75
+362710,David Payne,5 Jan 2024,v Scorchers,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,22,2,7.33
+362710,David Payne,9 Jan 2024,v Hurricanes,Adelaide,2,-,DNB,-,-,-,-,-,-,1,3.0,0,41,1,13.66
+362710,David Payne,11 Jan 2024,v Hurricanes,Hobart,2,-,DNB,-,-,-,-,-,-,1,3.0,0,32,0,10.66
+362710,David Payne,14 Jan 2024,v Thunder,Canberra,2,-,DNB,-,-,-,-,-,-,1,2.0,0,16,0,8
+362710,David Payne,20 Jan 2024,v Scorchers,Perth,1,9,14*,9,8,0,1,175,not out,2,3.0,0,19,1,6.33
+362710,David Payne,22 Jan 2024,v Heat,Carrara,2,9,13,6,6,0,2,216.66,caught,1,3.0,0,17,2,5.66
+362710,David Payne,30 May 2024,v Essex,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,1,24,4,6
+362710,David Payne,31 May 2024,v Sussex,Hove,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+362710,David Payne,7 Jun 2024,v Hampshire,Bristol,1,10,3,5,4,0,0,75,bowled,2,4.0,0,17,3,4.25
+362710,David Payne,9 Jun 2024,v Sussex,Bristol,2,10,17*,11,8,0,2,212.5,not out,1,4.0,0,21,1,5.25
+362710,David Payne,14 Jun 2024,v Surrey,The Oval,1,-,DNB,-,-,-,-,-,-,2,4.0,0,37,3,9.25
+362710,David Payne,16 Jun 2024,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.5,0,16,1,4.17
+362710,David Payne,20 Jun 2024,v Glamorgan,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+362710,David Payne,21 Jun 2024,v Somerset,Bristol,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+362710,David Payne,5 Jul 2024,v Kent,Cheltenham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,4,6.25
+362710,David Payne,7 Jul 2024,v Somerset,Taunton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+362710,David Payne,11 Jul 2024,v Middlesex,Cheltenham,2,11,7,6,6,1,0,116.66,caught,1,4.0,0,28,3,7
+362710,David Payne,12 Jul 2024,v Hampshire,Southampton,1,10,1*,5,1,0,0,100,not out,2,4.0,0,36,0,9
+362710,David Payne,14 Jul 2024,v Glamorgan,Cheltenham,1,-,DNB,-,-,-,-,-,-,2,3.0,0,7,3,2.33
+362710,David Payne,18 Jul 2024,v Middlesex,Chelmsford,1,10,1*,2,1,0,0,100,not out,2,4.0,0,26,1,6.5
+362710,David Payne,25 Jul 2024,v Originals,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,11,1,3.3
+362710,David Payne,28 Jul 2024,v Invincibles,Cardiff,2,8,28,18,15,1,2,186.66,caught,1,4.0,0,20,2,6
+362710,David Payne,1 Aug 2024,v Spirit,Lord's,1,8,1,2,3,0,0,33.33,bowled,2,2.0,0,16,0,9.6
+362710,David Payne,3 Aug 2024,v Rockets,Nottingham,1,8,2*,1,1,0,0,200,not out,2,4.0,0,18,2,5.4
+362710,David Payne,5 Aug 2024,v Brave,Cardiff,2,8,1,2,2,0,0,50,caught,1,4.0,0,42,1,12.6
+362710,David Payne,8 Aug 2024,v N S-Chargers,Cardiff,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+362710,David Payne,10 Aug 2024,v Phoenix,Cardiff,1,9,1,2,2,0,0,50,caught,2,2.0,0,18,0,10.8
+362710,David Payne,14 Aug 2024,v Brave,Southampton,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+362710,David Payne,6 Sep 2024,v Bears,Birmingham,1,10,6,9,4,1,0,150,caught,2,4.0,1,23,4,5.75
+362710,David Payne,14 Sep 2024,v Sussex,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,9,1,2.25
+362710,David Payne,14 Sep 2024,v Somerset,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,3,6.75
+362710,David Payne,16 Jan 2025,v MI Emirates,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+362710,David Payne,22 Jan 2025,v Warriorz,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+362710,David Payne,25 Jan 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,2,8.25
+362710,David Payne,27 Jan 2025,v MI Emirates,Abu Dhabi,2,9,9,11,8,0,1,112.5,caught,1,4.0,0,30,0,7.5
+362710,David Payne,3 Feb 2025,v DC,Sharjah,1,-,sub,-,-,-,-,-,-,2,4.0,0,29,1,7.25
+362710,David Payne,5 Feb 2025,v DC,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,31,1,7.75
+362710,David Payne,7 Feb 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,1,28,2,7
+362710,David Payne,9 Feb 2025,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,2,7
+362710,David Payne,30 May 2025,v Kent,Bristol,2,9,8*,-,2,2,0,400,not out,1,4.0,0,38,0,9.5
+362710,David Payne,1 Jun 2025,v Sussex,Hove,2,9,7,4,4,0,1,175,bowled,1,4.0,0,24,3,6
+362710,David Payne,6 Jun 2025,v Hampshire,Southampton,1,9,0,10,1,0,0,0,caught,2,3.0,0,14,1,4.66
+362710,David Payne,13 Jun 2025,v Somerset,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+362710,David Payne,15 Jun 2025,v Glamorgan,Bristol,2,9,0,2,1,0,0,0,caught,1,4.0,0,43,2,10.75
+362710,David Payne,18 Jun 2025,v Kent,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,1,4.5
+362710,David Payne,20 Jun 2025,v Hampshire,Bristol,2,9,7*,8,3,0,1,233.33,not out,1,4.0,0,20,3,5
+362710,David Payne,4 Jul 2025,v Essex,Chelmsford,1,9,0*,2,1,0,0,0,not out,2,4.0,0,24,1,6
+362710,David Payne,6 Jul 2025,v Middlesex,Bristol,1,-,DNB,-,-,-,-,-,-,2,4.0,0,22,1,5.5
+362710,David Payne,9 Jul 2025,v Surrey,Bristol,2,9,3*,12,5,0,0,60,not out,1,4.0,0,18,1,4.5
+362710,David Payne,11 Jul 2025,v Middlesex,Northwood,2,8,7*,8,5,1,0,140,not out,1,4.0,0,35,0,8.75
+362710,David Payne,13 Jul 2025,v Glamorgan,Cardiff,1,-,DNB,-,-,-,-,-,-,2,3.1,0,16,3,5.05
+362710,David Payne,17 Jul 2025,v Sussex,Cheltenham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+362710,David Payne,18 Jul 2025,v Somerset,Taunton,2,8,2,6,5,0,0,40,caught,1,4.0,0,40,0,10
+362710,David Payne,7 Aug 2025,v N S-Chargers,Leeds,1,9,0,1,2,0,0,0,bowled,2,3.0,0,32,0,12.8
+362710,David Payne,9 Aug 2025,v Spirit,Cardiff,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,8.4
+362710,David Payne,13 Aug 2025,v Originals,Cardiff,1,9,2*,3,2,0,0,100,not out,2,4.0,0,14,3,4.2
+362710,David Payne,16 Aug 2025,v Invincibles,The Oval,2,9,1,8,5,0,0,20,caught,1,4.0,0,44,0,13.2
+362710,David Payne,20 Aug 2025,v Brave,Cardiff,2,9,8*,23,9,0,0,88.88,not out,1,4.0,0,25,2,7.5
+362710,David Payne,22 Aug 2025,v Phoenix,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,0,9.3
+362710,David Payne,24 Aug 2025,v Rockets,Cardiff,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,11.4
+362710,David Payne,28 Aug 2025,v Brave,Southampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,2,5.1
+362710,David Payne,2 Dec 2025,v DC,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,1,26,2,6.5
+362710,David Payne,8 Dec 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+362710,David Payne,9 Dec 2025,v MI Emirates,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,4.0,0,29,4,7.25
+362710,David Payne,12 Dec 2025,v Gulf Giants,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,60,0,15
+362710,David Payne,20 Dec 2025,v Warriorz,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,3,3.5
+362710,David Payne,21 Dec 2025,v MI Emirates,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,32,1,8
+362710,David Payne,26 Dec 2025,v Warriorz,Sharjah,2,-,sub,-,-,-,-,-,-,1,3.0,0,19,1,6.33
+362710,David Payne,30 Dec 2025,v MI Emirates,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,52,2,13
+362710,David Payne,4 Jan 2026,v MI Emirates,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,42,3,10.5
+362710,David Payne,7 Jan 2026,v Renegades,Perth,1,10,0,2,2,0,0,0,caught,2,4.0,0,23,1,5.75
+362710,David Payne,11 Jan 2026,v Strikers,Adelaide,1,-,DNB,-,-,-,-,-,-,2,4.0,0,35,3,8.75
+362710,David Payne,15 Jan 2026,v Renegades,Melbourne (Docklands),1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+362710,David Payne,17 Jan 2026,v Stars,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+362710,David Payne,20 Jan 2026,v Sixers,Perth,1,10,1,1,1,0,0,100,run out,2,3.0,0,13,2,4.33
+362710,David Payne,25 Jan 2026,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,4.0,0,18,3,4.5
+362710,David Payne,28 Mar 2026,v RCB,Bengaluru,1,10,6*,11,5,0,0,120,not out,2,3.0,0,35,2,11.66

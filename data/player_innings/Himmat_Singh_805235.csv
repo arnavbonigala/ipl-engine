@@ -1,0 +1,65 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+805235,Himmat Singh,9 Jan 2018,v Punjab,Delhi,2,4,6,5,5,1,0,120,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,10 Jan 2018,v Haryana,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,12 Jan 2018,v J & K,Delhi,2,3,9*,11,9,1,0,100,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,14 Jan 2018,v Himachal,Delhi,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,21 Feb 2019,v Jharkhand,Mulapadu,2,5,15,20,7,0,2,214.28,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,22 Feb 2019,v Manipur,Mulapadu,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,24 Feb 2019,v J & K,Mulapadu,2,6,3,11,8,0,0,37.5,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,25 Feb 2019,v Kerala,Mulapadu,2,5,19*,24,18,2,0,105.55,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,27 Feb 2019,v Andhra,Mulapadu,1,5,21,27,21,2,0,100,run out,2,DNB,-,-,-,-
+805235,Himmat Singh,2 Mar 2019,v Nagaland,Mulapadu,2,4,23*,37,16,3,0,143.75,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,8 Mar 2019,v Vidarbha,Indore,1,5,0,-,2,0,0,0,run out,2,DNB,-,-,-,-
+805235,Himmat Singh,9 Mar 2019,v Mumbai,Indore,1,5,24,47,23,1,1,104.34,run out,2,DNB,-,-,-,-
+805235,Himmat Singh,10 Mar 2019,v Karnataka,Indore,1,4,0,1,1,0,0,0,lbw,2,DNB,-,-,-,-
+805235,Himmat Singh,11 Nov 2019,v Nagaland,Surat,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,12 Nov 2019,v Saurashtra,Surat,2,6,14*,-,8,2,0,175,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,14 Nov 2019,v J & K,Surat,1,6,4,-,6,0,0,66.66,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,15 Nov 2019,v Jharkhand,Surat,1,6,51*,-,22,3,4,231.81,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,18 Nov 2019,v Odisha,Surat,1,7,14,-,5,0,2,280,bowled,2,DNB,-,-,-,-
+805235,Himmat Singh,21 Nov 2019,v Maharashtra,Surat,1,6,28,-,15,2,3,186.66,bowled,2,DNB,-,-,-,-
+805235,Himmat Singh,22 Nov 2019,v Baroda,Surat,2,6,6,-,10,0,0,60,stumped,1,DNB,-,-,-,-
+805235,Himmat Singh,24 Nov 2019,v Haryana,Surat,2,6,12,-,11,1,0,109.09,lbw,1,DNB,-,-,-,-
+805235,Himmat Singh,27 Nov 2019,v Rajasthan,Surat,2,6,6,-,16,0,0,37.5,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,11 Jan 2021,v Mumbai,Wankhede,1,3,53,-,32,3,4,165.62,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,13 Jan 2021,v Andhra,Wankhede,2,5,32*,-,23,3,2,139.13,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,15 Jan 2021,v Kerala,Wankhede,1,3,26,-,15,2,2,173.33,bowled,2,DNB,-,-,-,-
+805235,Himmat Singh,17 Jan 2021,v Haryana,Wankhede,1,6,7*,-,3,0,1,233.33,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,19 Jan 2021,v Puducherry,Mumbai,1,4,53,-,42,4,2,126.19,caught,2,0.3,0,0,1,0
+805235,Himmat Singh,4 Nov 2021,v Uttarakhand,Rohtak,1,3,35,59,34,3,1,102.94,lbw,2,DNB,-,-,-,-
+805235,Himmat Singh,5 Nov 2021,v Chandigarh,Rohtak,2,3,21,30,20,2,1,105,lbw,1,DNB,-,-,-,-
+805235,Himmat Singh,6 Nov 2021,v UP,Rohtak,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,8 Nov 2021,v Hyderabad,Sultanpur,1,3,24,26,19,2,1,126.31,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,9 Nov 2021,v Saurashtra,Rohtak,2,5,18*,29,15,2,0,120,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,11 Oct 2022,v Manipur,Jaipur,1,7,25*,-,7,6,0,357.14,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,12 Oct 2022,v Punjab,Jaipur,1,5,6,-,3,0,1,200,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,14 Oct 2022,v UP,Jaipur,1,8,3,-,5,0,0,60,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,16 Oct 2022,v Puducherry,Jaipur,2,1,5,-,7,1,0,71.42,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,18 Oct 2022,v Hyderabad,Jaipur,1,1,47,-,39,5,0,120.51,bowled,2,DNB,-,-,-,-
+805235,Himmat Singh,20 Oct 2022,v Goa,Jaipur,2,1,0,-,1,0,0,0,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,22 Oct 2022,v Tripura,Jaipur,2,2,17,-,18,1,1,94.44,run out,1,DNB,-,-,-,-
+805235,Himmat Singh,1 Nov 2022,v Vidarbha,Kolkata,2,1,27,-,14,6,0,192.85,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,17 Oct 2023,v M. Pradesh,Dehradun,2,5,27*,-,30,1,1,90,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,19 Oct 2023,v Nagaland,Dehradun,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,21 Oct 2023,v Karnataka,Dehradun,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,23 Oct 2023,v Tamil Nadu,Dehradun,1,5,21*,-,15,2,0,140,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,25 Oct 2023,v Tripura,Dehradun,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+805235,Himmat Singh,2 Nov 2023,v Vidarbha,New Chandigarh,1,5,3,-,4,0,0,75,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,4 Nov 2023,v Punjab,Mohali,1,5,15,-,10,2,0,150,run out,2,DNB,-,-,-,-
+805235,Himmat Singh,23 Nov 2024,v UP,Wankhede,1,4,77*,-,34,4,6,226.47,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,25 Nov 2024,v J & K,Wankhede,1,4,71*,-,46,6,3,154.34,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,27 Nov 2024,v Haryana,Wankhede,2,4,23*,-,15,2,1,153.33,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,29 Nov 2024,v Manipur,Wankhede,2,4,0,-,2,0,0,0,bowled,1,1.0,0,10,0,10
+805235,Himmat Singh,1 Dec 2024,v Himachal,Mumbai,2,4,6,-,9,0,0,66.66,caught,1,DNB,-,-,-,-
+805235,Himmat Singh,3 Dec 2024,v Jharkhand,Mumbai,1,4,2,-,9,0,0,22.22,bowled,2,DNB,-,-,-,-
+805235,Himmat Singh,11 Dec 2024,v UP,Bengaluru,1,5,3*,-,4,0,0,75,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,13 Dec 2024,v M. Pradesh,Bengaluru,1,4,15,-,14,1,1,107.14,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,12 Apr 2025,v GT,Lucknow,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+805235,Himmat Singh,22 May 2025,v GT,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+805235,Himmat Singh,27 May 2025,v RCB,Lucknow,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+805235,Himmat Singh,26 Nov 2025,v Jharkhand,Ahmedabad,1,6,20,-,19,2,0,105.26,caught,2,DNB,-,-,-,-
+805235,Himmat Singh,28 Nov 2025,v Tamil Nadu,Ahmedabad,2,6,11*,-,4,0,1,275,not out,1,DNB,-,-,-,-
+805235,Himmat Singh,30 Nov 2025,v Saurashtra,Ahmedabad,1,6,18*,-,6,3,1,300,not out,2,DNB,-,-,-,-
+805235,Himmat Singh,2 Dec 2025,v Tripura,Ahmedabad,2,5,1,-,3,0,0,33.33,bowled,1,DNB,-,-,-,-
+805235,Himmat Singh,4 Dec 2025,v Karnataka,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+805235,Himmat Singh,19 Apr 2026,v Punjab Kings,New Chandigarh,2,7,1*,1,1,0,0,100,not out,1,DNB,-,-,-,-

@@ -1,0 +1,54 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1210488,Cooper Connolly,7 Jan 2023,v Heat,Perth,2,-,DNB,-,-,-,-,-,-,1,1.0,0,11,0,11
+1210488,Cooper Connolly,22 Jan 2023,v Renegades,Perth,1,7,20*,16,11,3,0,181.81,not out,2,DNB,-,-,-,-
+1210488,Cooper Connolly,28 Jan 2023,v Sixers,Perth,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1210488,Cooper Connolly,4 Feb 2023,v Heat,Perth,2,7,25*,13,11,1,2,227.27,not out,1,1.0,0,4,0,4
+1210488,Cooper Connolly,10 Dec 2023,v Renegades,Geelong,1,2,6,-,9,1,0,66.66,caught,-,TDNB,-,-,-,-
+1210488,Cooper Connolly,13 Dec 2023,v Stars,Melbourne,2,1,20,-,9,1,1,222.22,caught,1,2.0,0,11,1,5.5
+1210488,Cooper Connolly,20 Dec 2023,v Hurricanes,Perth,2,2,5,10,7,0,0,71.42,caught,1,0.5,0,12,0,14.4
+1210488,Cooper Connolly,26 Dec 2023,v Renegades,Perth,1,2,0,6,4,0,0,0,bowled,2,DNB,-,-,-,-
+1210488,Cooper Connolly,3 Jan 2024,v Strikers,Perth,1,6,14*,13,8,0,1,175,not out,2,1.0,0,10,0,10
+1210488,Cooper Connolly,5 Jan 2024,v Strikers,Adelaide,1,6,23,33,24,1,0,95.83,caught,2,0.1,0,1,0,6
+1210488,Cooper Connolly,8 Jan 2024,v Thunder,Sydney,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+1210488,Cooper Connolly,10 Jan 2024,v Heat,Brisbane,2,6,10,15,7,1,0,142.85,caught,1,DNB,-,-,-,-
+1210488,Cooper Connolly,13 Jan 2024,v Heat,Perth,1,6,35,33,25,3,1,140,caught,2,DNB,-,-,-,-
+1210488,Cooper Connolly,16 Jan 2024,v Sixers,Perth,1,6,37*,21,18,4,2,205.55,not out,2,DNB,-,-,-,-
+1210488,Cooper Connolly,20 Jan 2024,v Strikers,Perth,2,6,31,36,22,1,2,140.9,caught,1,3.0,0,17,2,5.66
+1210488,Cooper Connolly,7 Sep 2024,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+1210488,Cooper Connolly,13 Sep 2024,v England,Cardiff,1,-,DNB,-,-,-,-,-,-,2,2.0,0,20,0,10
+1210488,Cooper Connolly,15 Dec 2024,v Stars,Perth,2,3,64,67,51,4,3,125.49,caught,1,2.0,0,18,1,9
+1210488,Cooper Connolly,21 Dec 2024,v Hurricanes,Hobart,1,3,14,11,12,3,0,116.66,caught,2,4.0,0,39,0,9.75
+1210488,Cooper Connolly,23 Dec 2024,v Renegades,Melbourne (Docklands),1,3,66,86,50,1,6,132,caught,2,3.0,0,17,1,5.66
+1210488,Cooper Connolly,26 Dec 2024,v Heat,Perth,1,3,37,54,37,2,1,100,caught,2,DNB,-,-,-,-
+1210488,Cooper Connolly,31 Dec 2024,v Strikers,Adelaide,2,4,48*,54,35,3,2,137.14,not out,1,2.0,0,13,0,6.5
+1210488,Cooper Connolly,3 Jan 2025,v Thunder,Perth,1,4,43*,41,31,3,2,138.7,not out,2,2.0,0,21,1,10.5
+1210488,Cooper Connolly,7 Jan 2025,v Renegades,Perth,1,4,0,2,2,0,0,0,bowled,2,1.0,0,12,0,12
+1210488,Cooper Connolly,11 Jan 2025,v Sixers,Sydney,2,4,33,23,23,3,1,143.47,caught,1,3.0,0,27,1,9
+1210488,Cooper Connolly,13 Jan 2025,v Thunder,Sydney,2,4,7,19,5,1,0,140,run out,1,4.0,0,16,1,4
+1210488,Cooper Connolly,18 Jan 2025,v Strikers,Perth,2,4,39*,46,21,0,4,185.71,not out,1,3.0,0,15,1,5
+1210488,Cooper Connolly,12 Jun 2025,v Washington,Oakland,1,5,5,-,7,0,0,71.42,bowled,2,DNB,-,-,-,-
+1210488,Cooper Connolly,14 Jun 2025,v Los Angeles,Oakland,1,5,20*,-,18,1,1,111.11,not out,2,DNB,-,-,-,-
+1210488,Cooper Connolly,15 Jun 2025,v MI New York,Oakland,2,5,8,-,10,1,0,80,caught,1,DNB,-,-,-,-
+1210488,Cooper Connolly,9 Jul 2025,v MI New York,Dallas,1,5,23,-,19,3,0,121.05,caught,2,DNB,-,-,-,-
+1210488,Cooper Connolly,20 Jul 2025,v West Indies,Kingston,2,7,13,12,8,1,1,162.5,caught,1,2.0,0,24,1,12
+1210488,Cooper Connolly,22 Jul 2025,v West Indies,Kingston,2,-,DNB,-,-,-,-,-,-,1,1.0,0,10,0,10
+1210488,Cooper Connolly,25 Jul 2025,v West Indies,Basseterre,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+1210488,Cooper Connolly,26 Jul 2025,v West Indies,Basseterre,2,6,0,-,2,0,0,0,caught,1,DNB,-,-,-,-
+1210488,Cooper Connolly,14 Dec 2025,v Sixers,Perth,2,3,59,42,31,3,5,190.32,caught,1,DNB,-,-,-,-
+1210488,Cooper Connolly,19 Dec 2025,v Heat,Brisbane,1,3,77,49,37,6,6,208.1,caught,2,2.0,0,12,0,6
+1210488,Cooper Connolly,26 Dec 2025,v Hurricanes,Perth,1,3,6,13,7,1,0,85.71,caught,2,3.0,0,23,3,7.66
+1210488,Cooper Connolly,30 Dec 2025,v Thunder,Sydney,1,3,28,40,27,2,1,103.7,caught,2,3.0,0,26,2,8.66
+1210488,Cooper Connolly,1 Jan 2026,v Hurricanes,Hobart,1,3,4,12,8,0,0,50,caught,2,4.0,0,23,1,5.75
+1210488,Cooper Connolly,4 Jan 2026,v Strikers,Perth,1,3,0,2,3,0,0,0,caught,2,4.0,0,31,1,7.75
+1210488,Cooper Connolly,7 Jan 2026,v Renegades,Perth,1,3,3,10,8,0,0,37.5,bowled,2,4.0,0,20,1,5
+1210488,Cooper Connolly,11 Jan 2026,v Strikers,Adelaide,1,3,0,1,1,0,0,0,bowled,2,3.0,0,24,1,8
+1210488,Cooper Connolly,15 Jan 2026,v Renegades,Melbourne (Docklands),1,3,18,20,12,2,1,150,caught,2,4.0,0,23,2,5.75
+1210488,Cooper Connolly,17 Jan 2026,v Stars,Perth,2,3,2,-,2,0,0,100,caught,1,3.0,0,18,2,6
+1210488,Cooper Connolly,20 Jan 2026,v Sixers,Perth,1,5,8,8,11,0,1,72.72,caught,2,2.0,0,10,2,5
+1210488,Cooper Connolly,25 Jan 2026,v Sixers,Perth,2,6,4*,6,3,0,0,133.33,not out,1,3.0,0,14,0,4.66
+1210488,Cooper Connolly,29 Jan 2026,v Pakistan,Lahore,2,5,0,1,2,0,0,0,bowled,1,3.0,0,22,0,7.33
+1210488,Cooper Connolly,31 Jan 2026,v Pakistan,Lahore,2,6,1,29,4,0,0,25,bowled,1,4.0,0,30,1,7.5
+1210488,Cooper Connolly,1 Feb 2026,v Pakistan,Lahore,2,8,0,1,2,0,0,0,stumped,1,4.0,0,47,1,11.75
+1210488,Cooper Connolly,11 Feb 2026,v Ireland,Colombo (RPS),1,7,11*,19,8,0,1,137.5,not out,2,3.0,0,26,0,8.66
+1210488,Cooper Connolly,16 Feb 2026,v Sri Lanka,Pallekele,1,8,3,3,4,0,0,75,caught,2,3.0,0,27,0,9
+1210488,Cooper Connolly,31 Mar 2026,v GT,New Chandigarh,2,3,72*,95,44,5,5,163.63,not out,1,DNB,-,-,-,-

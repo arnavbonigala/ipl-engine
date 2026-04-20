@@ -1,0 +1,65 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1326798,AM Ghazanfar,30 Jul 2022,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1326798,AM Ghazanfar,1 Aug 2022,v Stars,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,15,4,3.75
+1326798,AM Ghazanfar,2 Aug 2022,v Kabul Eagles,Kabul,1,9,1,15,6,0,0,16.66,bowled,2,1.0,0,14,0,14
+1326798,AM Ghazanfar,12 Aug 2024,v SGT,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,1,11,3,2.75
+1326798,AM Ghazanfar,13 Aug 2024,v Amo Sharks,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,1,15,1,3.75
+1326798,AM Ghazanfar,14 Aug 2024,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,1,5
+1326798,AM Ghazanfar,16 Aug 2024,v MAK,Kabul,2,8,1,9,4,0,0,25,run out,1,4.0,1,15,2,3.75
+1326798,AM Ghazanfar,18 Aug 2024,v SGT,Kabul,1,10,0,1,3,0,0,0,caught,2,4.0,0,31,2,7.75
+1326798,AM Ghazanfar,20 Aug 2024,v MAK,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,1,12,4,3
+1326798,AM Ghazanfar,21 Aug 2024,v Amo Sharks,Kabul,2,9,0,2,3,0,0,0,bowled,1,4.0,0,39,1,9.75
+1326798,AM Ghazanfar,22 Aug 2024,v BDD,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+1326798,AM Ghazanfar,24 Aug 2024,v Amo Sharks,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,28,1,7
+1326798,AM Ghazanfar,18 Oct 2024,v Sri Lanka A,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,2,6.33
+1326798,AM Ghazanfar,20 Oct 2024,v Bangladesh A,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,0,9.5
+1326798,AM Ghazanfar,25 Oct 2024,v India A,Al Amerat,1,-,DNB,-,-,-,-,-,-,2,3.0,0,14,2,4.66
+1326798,AM Ghazanfar,27 Oct 2024,v Sri Lanka A,Al Amerat,2,-,DNB,-,-,-,-,-,-,1,4.0,0,14,2,3.5
+1326798,AM Ghazanfar,11 Jan 2025,v DC,Dubai (DICS),2,9,0*,14,5,0,0,0,not out,1,3.0,0,21,0,7
+1326798,AM Ghazanfar,13 Jan 2025,v DC,Abu Dhabi,1,-,sub,-,-,-,-,-,-,2,2.0,0,24,1,12
+1326798,AM Ghazanfar,16 Jan 2025,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.1,0,23,0,10.61
+1326798,AM Ghazanfar,30 May 2025,v Leics,Leicester,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,2,7.25
+1326798,AM Ghazanfar,4 Jun 2025,v Northants,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,30,2,7.5
+1326798,AM Ghazanfar,6 Jun 2025,v Notts,Derby,1,10,0*,2,1,0,0,0,not out,2,3.0,0,28,0,9.33
+1326798,AM Ghazanfar,8 Jun 2025,v Bears,Birmingham,2,10,4,4,4,1,0,100,caught,1,4.0,0,35,1,8.75
+1326798,AM Ghazanfar,11 Jun 2025,v Durham,Chester-le-Street,2,10,16,16,11,0,2,145.45,lbw,1,4.0,0,18,2,4.5
+1326798,AM Ghazanfar,13 Jun 2025,v Notts,Nottingham,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+1326798,AM Ghazanfar,14 Jun 2025,v Leics,Birmingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,0,7
+1326798,AM Ghazanfar,20 Jun 2025,v Lancashire,Derby,2,9,28,14,14,2,3,200,caught,1,4.0,0,46,0,11.5
+1326798,AM Ghazanfar,5 Jul 2025,v Lancashire,Manchester,2,-,DNB,-,-,-,-,-,-,1,4.0,0,35,0,8.75
+1326798,AM Ghazanfar,6 Jul 2025,v Yorkshire,Chesterfield,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+1326798,AM Ghazanfar,10 Jul 2025,v Worcs,Derby,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+1326798,AM Ghazanfar,11 Jul 2025,v Northants,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,31,1,7.75
+1326798,AM Ghazanfar,13 Jul 2025,v Yorkshire,Leeds,2,-,DNB,-,-,-,-,-,-,1,4.0,2,5,2,1.25
+1326798,AM Ghazanfar,18 Jul 2025,v Bears,Derby,2,9,7,8,7,0,1,100,caught,1,4.0,0,27,1,6.75
+1326798,AM Ghazanfar,21 Jul 2025,v Amo Sharks,Kabul,1,-,sub,-,-,-,-,-,-,2,4.0,0,34,2,8.5
+1326798,AM Ghazanfar,22 Jul 2025,v SGT,Kabul,1,-,DNB,-,-,-,-,-,-,2,4.0,0,40,0,10
+1326798,AM Ghazanfar,24 Jul 2025,v BDD,Kabul,2,9,0,1,1,0,0,0,bowled,1,4.0,0,43,1,10.75
+1326798,AM Ghazanfar,25 Jul 2025,v SGT,Kabul,1,9,1*,1,1,0,0,100,not out,2,4.0,0,10,2,2.5
+1326798,AM Ghazanfar,28 Jul 2025,v BDD,Kabul,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,1,6.25
+1326798,AM Ghazanfar,29 Jul 2025,v MAK,Kabul,2,8,22,12,11,0,3,200,bowled,1,4.0,0,56,0,14
+1326798,AM Ghazanfar,14 Aug 2025,v Patriots,Basseterre,1,9,1,-,5,0,0,20,lbw,2,3.0,0,26,1,8.66
+1326798,AM Ghazanfar,16 Aug 2025,v Royals,North Sound,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,1,4.75
+1326798,AM Ghazanfar,17 Aug 2025,v Kings,North Sound,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+1326798,AM Ghazanfar,2 Sep 2025,v Pakistan,Sharjah,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,0,8
+1326798,AM Ghazanfar,7 Sep 2025,v Pakistan,Sharjah,2,10,7,12,7,0,1,100,caught,1,4.0,0,27,1,6.75
+1326798,AM Ghazanfar,9 Sep 2025,v Hong Kong,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,4,0,2
+1326798,AM Ghazanfar,16 Sep 2025,v Bangladesh,Abu Dhabi,2,10,0,1,1,0,0,0,caught,1,3.0,0,32,0,10.66
+1326798,AM Ghazanfar,11 Nov 2025,v Qatar,Doha,1,9,0,-,1,0,0,0,stumped,2,4.0,1,9,1,2.25
+1326798,AM Ghazanfar,15 Nov 2025,v Sri Lanka A,Doha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+1326798,AM Ghazanfar,17 Nov 2025,v Bangladesh A,Doha,1,9,1,-,4,0,0,25,bowled,2,4.0,1,8,2,2
+1326798,AM Ghazanfar,19 Nov 2025,v Hong Kong,Doha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,15,1,3.75
+1326798,AM Ghazanfar,4 Dec 2025,v Gulf Giants,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,2.4,0,18,1,6.75
+1326798,AM Ghazanfar,7 Dec 2025,v Warriorz,Sharjah,1,9,1,7,3,0,0,33.33,run out,2,4.0,1,21,2,5.25
+1326798,AM Ghazanfar,9 Dec 2025,v Vipers,Abu Dhabi,2,10,0,6,0,0,0,-,run out,1,4.0,0,32,2,8
+1326798,AM Ghazanfar,11 Dec 2025,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,25,0,8.33
+1326798,AM Ghazanfar,14 Dec 2025,v Warriorz,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+1326798,AM Ghazanfar,17 Dec 2025,v DC,Dubai (DICS),1,9,0,-,2,0,0,0,caught,2,4.0,0,27,0,6.75
+1326798,AM Ghazanfar,20 Dec 2025,v KnightRiders,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,3.0,0,24,1,8
+1326798,AM Ghazanfar,21 Dec 2025,v Vipers,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+1326798,AM Ghazanfar,23 Dec 2025,v Gulf Giants,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,3.0,0,20,0,6.66
+1326798,AM Ghazanfar,27 Dec 2025,v DC,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,3,7
+1326798,AM Ghazanfar,30 Dec 2025,v Vipers,Abu Dhabi,2,9,6*,7,4,1,0,150,not out,1,4.0,0,37,1,9.25
+1326798,AM Ghazanfar,2 Jan 2026,v KnightRiders,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,24,3,6
+1326798,AM Ghazanfar,4 Jan 2026,v Vipers,Dubai (DICS),2,9,0,1,1,0,0,0,caught,1,4.0,0,27,0,6.75
+1326798,AM Ghazanfar,29 Mar 2026,v KKR,Wankhede,2,-,DNB,-,-,-,-,-,-,1,4.0,0,51,0,12.75

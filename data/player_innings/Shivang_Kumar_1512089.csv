@@ -1,0 +1,6 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+1512089,Shivang Kumar,26 Nov 2025,v Hyderabad,Jadavpur Uni,1,8,45,-,28,5,1,160.71,bowled,2,3.1,0,24,0,7.57
+1512089,Shivang Kumar,28 Nov 2025,v Bihar,Eden Gardens,1,8,12,-,7,1,0,171.42,caught,2,4.0,0,25,3,6.25
+1512089,Shivang Kumar,30 Nov 2025,v UP,Jadavpur Uni,1,2,2,-,2,0,0,100,caught,2,3.0,0,23,1,7.66
+1512089,Shivang Kumar,2 Dec 2025,v Goa,Jadavpur Uni,1,2,0,-,4,0,0,0,caught,2,2.0,0,26,0,13
+1512089,Shivang Kumar,2 Apr 2026,v KKR,Eden Gardens,1,9,4,2,2,1,0,200,caught,2,4.0,0,41,0,10.25

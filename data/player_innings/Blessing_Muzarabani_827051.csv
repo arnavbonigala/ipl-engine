@@ -1,0 +1,139 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+827051,Blessing Muzarabani,5 Feb 2018,v Afghanistan,Sharjah,1,11,0*,-,1,0,0,0,not out,2,4.0,0,36,2,9
+827051,Blessing Muzarabani,6 Feb 2018,v Afghanistan,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,48,2,12
+827051,Blessing Muzarabani,1 Jul 2018,v Pakistan,Harare,2,9,0,4,2,0,0,0,bowled,1,4.0,0,46,0,11.5
+827051,Blessing Muzarabani,3 Jul 2018,v Australia,Harare,2,10,1*,-,2,0,0,50,not out,1,4.0,0,38,2,9.5
+827051,Blessing Muzarabani,4 Jul 2018,v Pakistan,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+827051,Blessing Muzarabani,6 Jul 2018,v Australia,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,3,5.25
+827051,Blessing Muzarabani,23 Aug 2019,v Derbyshire,Derby,1,11,0*,3,2,0,0,0,not out,2,2.0,0,19,0,9.5
+827051,Blessing Muzarabani,25 Aug 2019,v Bears,Birmingham,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+827051,Blessing Muzarabani,29 Aug 2019,v Yorkshire,Leeds,2,11,9,14,11,1,0,81.81,caught,1,2.0,0,29,0,14.5
+827051,Blessing Muzarabani,30 Aug 2019,v Worcs,Northampton,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+827051,Blessing Muzarabani,7 Nov 2020,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,3.5,0,26,2,6.78
+827051,Blessing Muzarabani,8 Nov 2020,v Pakistan,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+827051,Blessing Muzarabani,10 Nov 2020,v Pakistan,Rawalpindi,1,11,5*,6,6,1,0,83.33,not out,2,2.0,0,13,0,6.5
+827051,Blessing Muzarabani,17 Mar 2021,v Afghanistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+827051,Blessing Muzarabani,19 Mar 2021,v Afghanistan,Abu Dhabi,2,10,0,3,1,0,0,0,bowled,1,4.0,0,44,2,11
+827051,Blessing Muzarabani,20 Mar 2021,v Afghanistan,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,41,2,10.25
+827051,Blessing Muzarabani,11 Apr 2021,v Rhinos,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,1,5.75
+827051,Blessing Muzarabani,12 Apr 2021,v Tuskers,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,0,9.25
+827051,Blessing Muzarabani,13 Apr 2021,v Mountaineers,Harare,2,9,1*,8,1,0,0,100,not out,1,4.0,0,15,1,3.75
+827051,Blessing Muzarabani,14 Apr 2021,v Eagles,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+827051,Blessing Muzarabani,16 Apr 2021,v Mountaineers,Harare,2,10,1*,2,1,0,0,100,not out,1,4.0,0,39,0,9.75
+827051,Blessing Muzarabani,21 Apr 2021,v Pakistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,22,1,5.5
+827051,Blessing Muzarabani,23 Apr 2021,v Pakistan,Harare,1,10,1*,5,2,0,0,50,not out,2,4.0,0,24,1,6
+827051,Blessing Muzarabani,25 Apr 2021,v Pakistan,Harare,2,9,0*,1,0,0,0,-,not out,1,4.0,0,35,0,8.75
+827051,Blessing Muzarabani,13 Jun 2021,v Zalmi,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,37,1,9.25
+827051,Blessing Muzarabani,16 Jun 2021,v Gladiators,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,2.0,0,8,1,4
+827051,Blessing Muzarabani,18 Jun 2021,v Qalandars,Abu Dhabi,1,9,0,-,3,0,0,0,bowled,2,2.0,0,26,2,13
+827051,Blessing Muzarabani,19 Jun 2021,v United,Abu Dhabi,1,10,0,-,2,0,0,0,caught,2,2.4,0,16,1,6
+827051,Blessing Muzarabani,21 Jun 2021,v United,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,31,3,7.75
+827051,Blessing Muzarabani,24 Jun 2021,v Zalmi,Abu Dhabi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,2,6.5
+827051,Blessing Muzarabani,22 Jul 2021,v Bangladesh,Harare,1,11,8,5,4,2,0,200,bowled,2,3.5,0,19,0,4.95
+827051,Blessing Muzarabani,23 Jul 2021,v Bangladesh,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+827051,Blessing Muzarabani,25 Jul 2021,v Bangladesh,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+827051,Blessing Muzarabani,2 Sep 2021,v Ireland,Bready,2,10,2,11,8,0,0,25,bowled,1,4.0,0,36,0,9
+827051,Blessing Muzarabani,4 Sep 2021,v Ireland,Bready,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,0,4.5
+827051,Blessing Muzarabani,19 Sep 2021,v Scotland,Edinburgh,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+827051,Blessing Muzarabani,5 Feb 2022,v Zalmi,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,34,1,8.5
+827051,Blessing Muzarabani,10 Feb 2022,v Zalmi,Lahore,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,3,4.5
+827051,Blessing Muzarabani,11 Feb 2022,v Qalandars,Lahore,2,10,0,6,2,0,0,0,bowled,1,4.0,0,48,0,12
+827051,Blessing Muzarabani,16 Feb 2022,v Kings,Lahore,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,1,7.25
+827051,Blessing Muzarabani,11 Jun 2022,v Afghanistan,Harare,1,-,DNB,-,-,-,-,-,-,2,3.2,0,55,0,16.5
+827051,Blessing Muzarabani,11 Jul 2022,v Singapore,Bulawayo,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+827051,Blessing Muzarabani,12 Jul 2022,v Jersey,Bulawayo,1,10,0*,-,0,0,0,-,not out,2,4.0,0,22,1,5.5
+827051,Blessing Muzarabani,14 Jul 2022,v U.S.A.,Bulawayo,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+827051,Blessing Muzarabani,15 Jul 2022,v P.N.G.,Bulawayo,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,2,6
+827051,Blessing Muzarabani,17 Oct 2022,v Ireland,Hobart,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,3,5.75
+827051,Blessing Muzarabani,19 Oct 2022,v West Indies,Hobart,2,11,1*,4,4,0,0,25,not out,1,4.0,0,38,2,9.5
+827051,Blessing Muzarabani,21 Oct 2022,v Scotland,Hobart,2,-,DNB,-,-,-,-,-,-,1,4.0,0,34,1,8.5
+827051,Blessing Muzarabani,24 Oct 2022,v South Africa,Hobart,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+827051,Blessing Muzarabani,27 Oct 2022,v Pakistan,Perth,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+827051,Blessing Muzarabani,30 Oct 2022,v Bangladesh,Brisbane,2,10,0*,6,2,0,0,0,not out,1,2.0,0,13,2,6.5
+827051,Blessing Muzarabani,2 Nov 2022,v Netherlands,Adelaide,1,11,1,9,4,0,0,25,caught,2,4.0,0,23,2,5.75
+827051,Blessing Muzarabani,6 Nov 2022,v India,Melbourne,2,11,0*,5,2,0,0,0,not out,1,4.0,0,50,1,12.5
+827051,Blessing Muzarabani,19 Aug 2023,v Trinbago,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,1.0,0,8,0,8
+827051,Blessing Muzarabani,23 Aug 2023,v Tallawahs,Basseterre,1,10,1,10,6,0,0,16.66,caught,2,2.3,0,31,0,12.4
+827051,Blessing Muzarabani,27 Aug 2023,v Trinbago,Basseterre,1,-,DNB,-,-,-,-,-,-,2,3.0,0,30,1,10
+827051,Blessing Muzarabani,22 Nov 2023,v Namibia,Windhoek,1,-,DNB,-,-,-,-,-,-,2,3.0,0,29,1,9.66
+827051,Blessing Muzarabani,23 Nov 2023,v Tanzania,Windhoek,2,-,DNB,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+827051,Blessing Muzarabani,26 Nov 2023,v Uganda,Windhoek,1,-,DNB,-,-,-,-,-,-,2,4.0,0,13,0,3.25
+827051,Blessing Muzarabani,27 Nov 2023,v Rwanda,Windhoek,1,-,DNB,-,-,-,-,-,-,2,3.0,2,10,1,3.33
+827051,Blessing Muzarabani,29 Nov 2023,v Nigeria,Windhoek,2,-,DNB,-,-,-,-,-,-,1,3.0,1,12,1,4
+827051,Blessing Muzarabani,30 Nov 2023,v Kenya,Windhoek,1,-,DNB,-,-,-,-,-,-,2,2.0,0,13,0,6.5
+827051,Blessing Muzarabani,7 Dec 2023,v Ireland,Harare,2,11,2*,1,1,0,0,200,not out,1,4.0,0,24,2,6
+827051,Blessing Muzarabani,9 Dec 2023,v Ireland,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,23,1,5.75
+827051,Blessing Muzarabani,10 Dec 2023,v Ireland,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,1,5.25
+827051,Blessing Muzarabani,14 Jan 2024,v Sri Lanka,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,33,2,8.25
+827051,Blessing Muzarabani,16 Jan 2024,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+827051,Blessing Muzarabani,18 Jan 2024,v Sri Lanka,Colombo (RPS),1,11,0*,1,0,0,0,-,not out,2,2.0,0,16,0,8
+827051,Blessing Muzarabani,24 Jan 2024,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.4,0,34,0,9.27
+827051,Blessing Muzarabani,3 Feb 2024,v Vipers,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.5,0,25,1,6.52
+827051,Blessing Muzarabani,4 Feb 2024,v Warriors,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.0,0,17,1,5.66
+827051,Blessing Muzarabani,6 Feb 2024,v DC,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,2.0,0,17,1,8.5
+827051,Blessing Muzarabani,8 Feb 2024,v MI Emirates,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.0,0,27,1,9
+827051,Blessing Muzarabani,10 Feb 2024,v KnightRiders,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,31,0,7.75
+827051,Blessing Muzarabani,14 Feb 2024,v MI Emirates,Dubai (DICS),2,-,sub,-,-,-,-,-,-,1,4.0,0,34,2,8.5
+827051,Blessing Muzarabani,29 Feb 2024,v Gladiators,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+827051,Blessing Muzarabani,3 Mar 2024,v Sultans,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+827051,Blessing Muzarabani,6 Mar 2024,v Gladiators,Rawalpindi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,2,6.75
+827051,Blessing Muzarabani,7 Mar 2024,v United,Rawalpindi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,24,1,6
+827051,Blessing Muzarabani,9 Mar 2024,v Qalandars,Karachi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,40,1,10
+827051,Blessing Muzarabani,3 May 2024,v Bangladesh,Chattogram,1,10,1,6,2,0,0,50,bowled,2,4.0,0,31,1,7.75
+827051,Blessing Muzarabani,5 May 2024,v Bangladesh,Chattogram,1,-,DNB,-,-,-,-,-,-,2,3.3,0,19,0,5.42
+827051,Blessing Muzarabani,7 May 2024,v Bangladesh,Chattogram,2,11,9*,4,4,2,0,225,not out,1,4.0,0,14,3,3.5
+827051,Blessing Muzarabani,10 May 2024,v Bangladesh,Mirpur,2,10,8,6,5,0,1,160,stumped,1,3.5,0,30,1,7.82
+827051,Blessing Muzarabani,12 May 2024,v Bangladesh,Mirpur,2,-,DNB,-,-,-,-,-,-,1,4.0,1,22,2,5.5
+827051,Blessing Muzarabani,6 Jul 2024,v India,Harare,1,10,0,4,2,0,0,0,bowled,2,4.0,0,17,1,4.25
+827051,Blessing Muzarabani,7 Jul 2024,v India,Harare,2,10,2,5,4,0,0,50,caught,1,4.0,1,30,1,7.5
+827051,Blessing Muzarabani,10 Jul 2024,v India,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+827051,Blessing Muzarabani,13 Jul 2024,v India,Harare,1,-,DNB,-,-,-,-,-,-,2,3.2,0,25,0,7.5
+827051,Blessing Muzarabani,14 Jul 2024,v India,Harare,2,10,1*,6,2,0,0,50,not out,1,4.0,0,19,2,4.75
+827051,Blessing Muzarabani,19 Oct 2024,v Seychelles,Nairobi (Gym),1,-,DNB,-,-,-,-,-,-,2,0.1,0,0,0,0
+827051,Blessing Muzarabani,20 Oct 2024,v Mozambique,Nairobi (Gym),2,-,DNB,-,-,-,-,-,-,1,3.1,1,8,3,2.52
+827051,Blessing Muzarabani,22 Oct 2024,v Rwanda,Nairobi (Ruaraka),1,9,0,-,2,0,0,0,lbw,2,3.0,0,10,1,3.33
+827051,Blessing Muzarabani,23 Oct 2024,v Gambia,Nairobi (Ruaraka),1,-,DNB,-,-,-,-,-,-,2,3.0,0,19,0,6.33
+827051,Blessing Muzarabani,24 Oct 2024,v Kenya,Nairobi (Gym),1,-,DNB,-,-,-,-,-,-,2,4.0,0,14,1,3.5
+827051,Blessing Muzarabani,1 Dec 2024,v Pakistan,Bulawayo,2,10,0,2,1,0,0,0,bowled,1,4.0,0,41,0,10.25
+827051,Blessing Muzarabani,3 Dec 2024,v Pakistan,Bulawayo,1,10,0,1,1,0,0,0,lbw,2,1.3,0,21,0,14
+827051,Blessing Muzarabani,5 Dec 2024,v Pakistan,Bulawayo,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+827051,Blessing Muzarabani,11 Dec 2024,v Afghanistan,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+827051,Blessing Muzarabani,13 Dec 2024,v Afghanistan,Harare,2,10,1,10,3,0,0,33.33,bowled,1,4.0,0,28,1,7
+827051,Blessing Muzarabani,14 Dec 2024,v Afghanistan,Harare,1,10,0,1,2,0,0,0,lbw,2,4.0,1,19,2,4.75
+827051,Blessing Muzarabani,12 Jan 2025,v Warriorz,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,27,2,6.75
+827051,Blessing Muzarabani,14 Jan 2025,v Vipers,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,3.4,0,36,1,9.81
+827051,Blessing Muzarabani,18 Jan 2025,v DC,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,1,21,1,5.25
+827051,Blessing Muzarabani,19 Jan 2025,v KnightRiders,Dubai (DICS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,2,7
+827051,Blessing Muzarabani,23 Jan 2025,v DC,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,3.0,0,28,1,9.33
+827051,Blessing Muzarabani,25 Jan 2025,v MI Emirates,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,1,4
+827051,Blessing Muzarabani,26 Jan 2025,v Warriorz,Sharjah,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,3,8
+827051,Blessing Muzarabani,29 Jan 2025,v Vipers,Dubai (DICS),1,-,sub,-,-,-,-,-,-,2,4.0,0,25,3,6.25
+827051,Blessing Muzarabani,31 Jan 2025,v MI Emirates,Dubai (DICS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,1,4.25
+827051,Blessing Muzarabani,1 Feb 2025,v KnightRiders,Abu Dhabi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,1,6.75
+827051,Blessing Muzarabani,22 Feb 2025,v Ireland,Harare,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+827051,Blessing Muzarabani,23 Feb 2025,v Ireland,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+827051,Blessing Muzarabani,25 Feb 2025,v Ireland,Harare,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+827051,Blessing Muzarabani,25 Mar 2025,v Eagles,Harare,1,8,4*,14,7,0,0,57.14,not out,2,4.0,0,27,0,6.75
+827051,Blessing Muzarabani,26 Mar 2025,v Mountaineers,Harare,1,9,0,2,2,0,0,0,lbw,2,4.0,0,21,1,5.25
+827051,Blessing Muzarabani,28 Mar 2025,v Rhinos,Harare,1,9,9,15,10,1,0,90,bowled,2,4.0,0,35,0,8.75
+827051,Blessing Muzarabani,29 Mar 2025,v Tuskers,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+827051,Blessing Muzarabani,14 Jul 2025,v South Africa,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,22,0,7.33
+827051,Blessing Muzarabani,18 Jul 2025,v New Zealand,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,27,1,6.75
+827051,Blessing Muzarabani,3 Sep 2025,v Sri Lanka,Harare,1,-,DNB,-,-,-,-,-,-,2,3.1,0,41,1,12.94
+827051,Blessing Muzarabani,6 Sep 2025,v Sri Lanka,Harare,2,-,DNB,-,-,-,-,-,-,1,3.0,0,14,2,4.66
+827051,Blessing Muzarabani,7 Sep 2025,v Sri Lanka,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,43,0,14.33
+827051,Blessing Muzarabani,15 Sep 2025,v Namibia,Bulawayo,1,-,DNB,-,-,-,-,-,-,2,4.0,0,38,2,9.5
+827051,Blessing Muzarabani,18 Sep 2025,v Namibia,Bulawayo,2,10,6,8,5,1,0,120,lbw,1,4.0,0,48,1,12
+827051,Blessing Muzarabani,26 Sep 2025,v Uganda,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,20,3,5
+827051,Blessing Muzarabani,28 Sep 2025,v Botswana,Harare,1,-,DNB,-,-,-,-,-,-,2,3.0,0,9,1,3
+827051,Blessing Muzarabani,30 Sep 2025,v Tanzania,Harare,1,-,DNB,-,-,-,-,-,-,2,4.0,0,29,0,7.25
+827051,Blessing Muzarabani,2 Oct 2025,v Kenya,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,19,2,4.75
+827051,Blessing Muzarabani,4 Oct 2025,v Namibia,Harare,2,-,DNB,-,-,-,-,-,-,1,4.0,0,27,0,6.75
+827051,Blessing Muzarabani,29 Oct 2025,v Afghanistan,Harare,2,11,1,2,2,0,0,50,bowled,1,4.0,0,41,2,10.25
+827051,Blessing Muzarabani,9 Feb 2026,v Oman,Colombo (SSC),2,-,DNB,-,-,-,-,-,-,1,4.0,1,16,3,4
+827051,Blessing Muzarabani,13 Feb 2026,v Australia,Colombo (RPS),1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,4,4.25
+827051,Blessing Muzarabani,19 Feb 2026,v Sri Lanka,Colombo (RPS),2,-,DNB,-,-,-,-,-,-,1,4.0,0,38,2,9.5
+827051,Blessing Muzarabani,23 Feb 2026,v West Indies,Wankhede,2,10,0,4,5,0,0,0,caught,1,4.0,0,42,2,10.5
+827051,Blessing Muzarabani,26 Feb 2026,v India,Chennai,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+827051,Blessing Muzarabani,1 Mar 2026,v South Africa,Delhi,1,-,DNB,-,-,-,-,-,-,2,3.5,0,32,1,8.34
+827051,Blessing Muzarabani,29 Mar 2026,v MI,Wankhede,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33

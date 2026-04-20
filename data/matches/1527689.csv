@@ -1,0 +1,2 @@
+match_id,innings,over,ball,batsman_id,batsman,bowler_id,bowler,runs,play_type,is_wicket,wicket_type,total_runs,total_wickets,short_text
+1527689,1,0,0,,,,,0,no run,False,,0,0,

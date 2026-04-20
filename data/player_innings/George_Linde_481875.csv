@@ -1,0 +1,252 @@
+player_id,player_name,start_date,opposition,ground,bat_innings,bat_position,bat_runs,bat_mins,bat_bf,bat_4s,bat_6s,bat_sr,bat_dismissal,bowl_innings,bowl_overs,bowl_maidens,bowl_runs,bowl_wickets,bowl_economy
+481875,George Linde,15 Jan 2012,v Boland,Cape Town,2,7,2,7,6,0,0,33.33,run out,1,4.0,0,17,3,4.25
+481875,George Linde,20 Jan 2013,v Northerns,Centurion,2,2,10,12,8,1,0,125,caught,1,2.0,0,15,1,7.5
+481875,George Linde,3 Mar 2013,v Griq West,Cape Town,1,7,7,10,8,0,0,87.5,caught,2,4.0,0,21,2,5.25
+481875,George Linde,17 Mar 2013,v Easterns,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,17,2,4.25
+481875,George Linde,24 Mar 2013,v North West,Cape Town,2,7,27*,10,10,0,3,270,not out,1,4.0,0,24,3,6
+481875,George Linde,7 Apr 2013,v Namibia,Windhoek,1,6,7,-,6,1,0,116.66,run out,2,3.0,0,22,2,7.33
+481875,George Linde,11 Jan 2014,v Boland,Cape Town,1,6,2,5,3,0,0,66.66,caught,2,4.0,0,28,1,7
+481875,George Linde,2 Feb 2014,v Border,East London,1,3,3,8,5,0,0,60,caught,2,2.0,0,20,0,10
+481875,George Linde,9 Feb 2014,v S West D,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,2,9
+481875,George Linde,2 Mar 2014,v KZN-Inland,Pietermaritzburg,1,7,4,5,5,0,0,80,bowled,2,4.0,0,26,1,6.5
+481875,George Linde,30 Mar 2014,v E. Province,Gqeberha,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,0,6.25
+481875,George Linde,12 Oct 2014,v Namibia,Windhoek,2,8,3,-,8,0,0,37.5,run out,1,4.0,0,26,3,6.5
+481875,George Linde,2 Nov 2014,v Titans,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,2.0,0,25,0,12.5
+481875,George Linde,7 Nov 2014,v Dolphins,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,1,5.25
+481875,George Linde,12 Nov 2014,v Knights,Paarl,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481875,George Linde,14 Nov 2014,v Lions,Johannesburg,2,8,6,11,11,0,0,54.54,bowled,1,4.0,1,23,1,5.75
+481875,George Linde,16 Nov 2014,v Titans,Durban,1,8,1*,1,1,0,0,100,not out,2,2.0,0,10,1,5
+481875,George Linde,21 Nov 2014,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,2.0,0,15,3,7.5
+481875,George Linde,23 Nov 2014,v Lions,Cape Town,1,8,5*,3,2,1,0,250,not out,2,4.0,0,21,3,5.25
+481875,George Linde,28 Nov 2014,v Warriors,Gqeberha,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,3,6.5
+481875,George Linde,30 Nov 2014,v Knights,Bloemfontein,1,-,DNB,-,-,-,-,-,-,2,4.0,0,18,1,4.5
+481875,George Linde,3 Dec 2014,v Warriors,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,42,1,10.5
+481875,George Linde,12 Dec 2014,v Knights,Cape Town,1,-,DNB,-,-,-,-,-,-,2,2.0,0,16,0,8
+481875,George Linde,22 Feb 2015,v KZN-Inland,Cape Town,1,7,32*,18,12,1,3,266.66,not out,2,4.0,0,19,4,4.75
+481875,George Linde,4 Sep 2015,v Easterns,Benoni,1,9,6,8,4,1,0,150,caught,2,4.0,0,23,1,5.75
+481875,George Linde,6 Sep 2015,v Zim Pres XI,Benoni,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+481875,George Linde,1 Nov 2015,v Lions,Cape Town,1,8,7,8,8,1,0,87.5,caught,2,2.0,0,15,0,7.5
+481875,George Linde,6 Nov 2015,v Warriors,Paarl,1,6,3,7,4,0,0,75,caught,2,4.0,0,27,0,6.75
+481875,George Linde,8 Nov 2015,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+481875,George Linde,11 Nov 2015,v Knights,Kimberley,2,8,0*,3,0,0,0,-,not out,1,4.0,0,21,4,5.25
+481875,George Linde,15 Nov 2015,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,43,1,10.75
+481875,George Linde,21 Feb 2016,v Free State,Bloemfontein,2,-,DNB,-,-,-,-,-,-,1,4.0,0,16,0,4
+481875,George Linde,6 Mar 2016,v E. Province,Gqeberha,2,7,23,27,14,0,2,164.28,bowled,1,3.0,0,32,0,10.66
+481875,George Linde,2 Sep 2016,v Namibia,Pietermaritzburg,2,7,32,28,18,2,2,177.77,caught,1,4.0,1,18,1,4.5
+481875,George Linde,3 Sep 2016,v KZN-Inland,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,3.0,0,24,0,8
+481875,George Linde,4 Sep 2016,v North West,Pietermaritzburg,2,6,8,10,4,0,1,200,caught,1,4.0,0,29,1,7.25
+481875,George Linde,12 Nov 2016,v Knights,Johannesburg,2,8,30,28,17,1,3,176.47,run out,1,4.0,0,34,2,8.5
+481875,George Linde,16 Nov 2016,v Titans,Paarl,1,5,2,2,3,0,0,66.66,caught,2,4.0,0,24,0,6
+481875,George Linde,18 Nov 2016,v Warriors,Cape Town,1,8,1,5,2,0,0,50,caught,2,4.0,0,23,3,5.75
+481875,George Linde,20 Nov 2016,v Lions,Potchefstroom,2,4,5,16,6,0,0,83.33,bowled,1,3.0,0,24,0,8
+481875,George Linde,23 Nov 2016,v Dolphins,Cape Town,-,-,TDNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481875,George Linde,4 Dec 2016,v Dolphins,Durban,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,0,8.25
+481875,George Linde,7 Dec 2016,v Knights,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,26,1,6.5
+481875,George Linde,11 Dec 2016,v Lions,Paarl,2,8,7,6,6,0,1,116.66,stumped,1,4.0,0,29,0,7.25
+481875,George Linde,25 Aug 2017,v Easterns,Benoni,1,5,11,12,10,1,0,110,bowled,2,4.0,0,18,1,4.5
+481875,George Linde,26 Aug 2017,v W Province,Benoni,2,7,11*,14,7,1,0,157.14,not out,1,4.0,0,19,2,4.75
+481875,George Linde,27 Aug 2017,v Namibia,Benoni,1,7,0,3,2,0,0,0,caught,2,4.0,0,21,0,5.25
+481875,George Linde,12 Nov 2017,v Dolphins,Centurion,2,-,DNB,-,-,-,-,-,-,1,2.0,0,19,0,9.5
+481875,George Linde,17 Nov 2017,v Lions,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,32,1,8
+481875,George Linde,19 Nov 2017,v Titans,Centurion,1,9,15*,19,13,2,0,115.38,not out,2,3.3,0,27,0,7.71
+481875,George Linde,24 Nov 2017,v Lions,Paarl,1,9,0*,1,0,0,0,-,not out,2,4.0,0,26,2,6.5
+481875,George Linde,26 Nov 2017,v Knights,Cape Town,2,7,9,11,9,0,0,100,caught,1,1.0,0,22,0,22
+481875,George Linde,29 Nov 2017,v Warriors,Paarl,1,3,52*,40,30,3,2,173.33,not out,2,2.0,0,26,1,13
+481875,George Linde,1 Dec 2017,v Dolphins,Durban,1,-,DNB,-,-,-,-,-,-,2,DNB,-,-,-,-
+481875,George Linde,6 Dec 2017,v Knights,Kimberley,1,7,10,12,6,0,1,166.66,bowled,2,4.0,0,29,0,7.25
+481875,George Linde,8 Dec 2017,v Titans,Cape Town,2,9,16*,17,11,2,0,145.45,not out,1,4.0,0,28,2,7
+481875,George Linde,10 Dec 2017,v Warriors,East London,2,7,3,6,4,0,0,75,caught,1,4.0,0,39,2,9.75
+481875,George Linde,14 Sep 2018,v Easterns,Pietermaritzburg,2,6,1,9,3,0,0,33.33,caught,1,4.0,0,37,0,9.25
+481875,George Linde,15 Sep 2018,v KZ-Natal,Pietermaritzburg,1,6,1,6,3,0,0,33.33,caught,2,4.0,0,27,2,6.75
+481875,George Linde,15 Sep 2018,v KZN-Inland,Pietermaritzburg,1,5,23*,23,10,2,1,230,not out,2,3.0,0,29,1,9.66
+481875,George Linde,16 Sep 2018,v Uganda,Pietermaritzburg,1,6,52*,33,31,5,1,167.74,not out,2,3.0,0,28,0,9.33
+481875,George Linde,16 Nov 2018,v Spartans,Cape Town,1,6,13*,6,4,1,1,325,not out,2,2.0,0,21,1,10.5
+481875,George Linde,18 Nov 2018,v Durban Heat,Durban,2,8,1*,10,4,0,0,25,not out,1,1.0,0,10,0,10
+481875,George Linde,21 Nov 2018,v Giants,Cape Town,1,8,12*,4,4,1,1,300,not out,2,1.0,0,9,0,9
+481875,George Linde,24 Nov 2018,v Jozi Stars,Johannesburg,1,6,8*,10,7,0,0,114.28,not out,2,3.4,0,25,3,6.81
+481875,George Linde,25 Nov 2018,v Paarl Rocks,Paarl,1,8,9,15,9,1,0,100,caught,2,4.0,0,26,1,6.5
+481875,George Linde,7 Apr 2019,v Lions,Johannesburg,1,6,13,17,12,1,0,108.33,caught,2,4.0,0,37,1,9.25
+481875,George Linde,10 Apr 2019,v Titans,Benoni,1,5,6,10,7,0,0,85.71,run out,2,4.0,0,35,1,8.75
+481875,George Linde,12 Apr 2019,v Warriors,Paarl,2,4,9,16,4,0,1,225,caught,1,4.0,0,32,0,8
+481875,George Linde,14 Apr 2019,v Dolphins,Cape Town,1,6,27*,40,19,1,1,142.1,not out,2,4.0,0,25,0,6.25
+481875,George Linde,16 Apr 2019,v Knights,Cape Town,1,6,22*,30,15,2,0,146.66,not out,2,4.0,0,40,1,10
+481875,George Linde,20 Apr 2019,v Warriors,Gqeberha,2,6,42,40,27,1,2,155.55,bowled,1,4.0,0,38,2,9.5
+481875,George Linde,24 Apr 2019,v Titans,Paarl,2,7,5,15,5,0,0,100,caught,1,4.0,0,36,0,9
+481875,George Linde,26 Apr 2019,v Lions,Cape Town,1,7,7,14,9,0,0,77.77,caught,2,2.0,0,13,0,6.5
+481875,George Linde,28 Apr 2019,v Dolphins,Durban,1,7,0,1,1,0,0,0,stumped,2,3.0,0,29,1,9.66
+481875,George Linde,8 Nov 2019,v Jozi Stars,Johannesburg,1,5,24*,27,13,1,2,184.61,not out,2,2.0,0,19,0,9.5
+481875,George Linde,10 Nov 2019,v Paarl Rocks,Paarl,2,7,15,28,16,1,0,93.75,stumped,1,4.0,0,23,3,5.75
+481875,George Linde,14 Nov 2019,v Jozi Stars,Cape Town,1,6,1,7,3,0,0,33.33,caught,2,2.0,0,18,1,9
+481875,George Linde,17 Nov 2019,v Durban Heat,Durban,1,6,15*,31,16,1,0,93.75,not out,2,DNB,-,-,-,-
+481875,George Linde,20 Nov 2019,v Giants,Gqeberha,1,6,6,24,8,0,0,75,bowled,2,4.0,0,40,1,10
+481875,George Linde,6 Dec 2019,v Giants,Cape Town,2,5,2,6,4,0,0,50,run out,1,1.0,0,18,0,18
+481875,George Linde,27 Nov 2020,v England,Cape Town,1,7,12,-,6,1,1,200,bowled,2,4.0,0,20,2,5
+481875,George Linde,29 Nov 2020,v England,Paarl,1,7,29,-,20,2,1,145,run out,2,4.0,0,27,0,6.75
+481875,George Linde,1 Dec 2020,v England,Cape Town,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,0,6.5
+481875,George Linde,19 Feb 2021,v Dolphins,Durban,2,4,1,7,4,0,0,25,bowled,1,4.0,0,40,1,10
+481875,George Linde,21 Feb 2021,v Titans,Durban,2,6,37,23,21,0,4,176.19,bowled,1,4.0,0,23,2,5.75
+481875,George Linde,22 Feb 2021,v Knights,Durban,1,5,11,-,9,0,0,122.22,caught,2,4.0,0,20,1,5
+481875,George Linde,23 Feb 2021,v Warriors,Durban,1,5,48*,-,20,6,2,240,not out,2,4.0,0,25,4,6.25
+481875,George Linde,26 Feb 2021,v Lions,Durban,1,6,22,-,17,1,1,129.41,caught,2,4.0,0,31,0,7.75
+481875,George Linde,10 Apr 2021,v Pakistan,Johannesburg,1,6,6,13,7,0,0,85.71,lbw,2,3.0,0,31,0,10.33
+481875,George Linde,12 Apr 2021,v Pakistan,Johannesburg,2,6,20*,17,10,0,2,200,not out,1,4.0,0,23,3,5.75
+481875,George Linde,14 Apr 2021,v Pakistan,Centurion,1,3,22,15,11,1,2,200,bowled,2,4.0,0,38,0,9.5
+481875,George Linde,16 Apr 2021,v Pakistan,Centurion,1,5,3,13,4,0,0,75,caught,2,1.0,0,3,0,3
+481875,George Linde,26 Jun 2021,v West Indies,St George's,1,7,0,2,1,0,0,0,caught,2,2.0,0,24,0,12
+481875,George Linde,27 Jun 2021,v West Indies,St George's,1,7,3,6,3,0,0,100,lbw,2,4.0,0,19,2,4.75
+481875,George Linde,29 Jun 2021,v West Indies,St George's,1,7,0,5,4,0,0,0,bowled,2,3.0,0,33,1,11
+481875,George Linde,1 Jul 2021,v West Indies,St George's,2,7,6,12,6,1,0,100,caught,1,4.0,0,16,2,4
+481875,George Linde,3 Jul 2021,v West Indies,St George's,1,-,DNB,-,-,-,-,-,-,2,3.0,0,33,1,11
+481875,George Linde,19 Jul 2021,v Ireland,Dublin (Malahide),1,7,10,16,13,1,0,76.92,caught,2,4.0,0,26,2,6.5
+481875,George Linde,24 Jul 2021,v Ireland,Belfast,1,-,DNB,-,-,-,-,-,-,2,4.0,0,21,2,5.25
+481875,George Linde,7 Feb 2022,v Boland,Gqeberha,2,5,20*,37,21,1,1,95.23,not out,1,4.0,0,13,2,3.25
+481875,George Linde,9 Feb 2022,v Warriors,Gqeberha,2,5,34*,31,24,1,1,141.66,not out,1,1.0,0,11,0,11
+481875,George Linde,18 Feb 2022,v Knights,Gqeberha,2,5,10,12,10,0,1,100,caught,1,4.0,0,28,1,7
+481875,George Linde,19 Feb 2022,v Titans,Gqeberha,1,5,3,7,5,0,0,60,caught,2,4.0,0,34,0,8.5
+481875,George Linde,23 Feb 2022,v Dolphins,Gqeberha,2,6,0,1,1,0,0,0,bowled,1,4.0,0,24,2,6
+481875,George Linde,25 Feb 2022,v Boland,Gqeberha,1,6,3,8,7,0,0,42.85,bowled,2,4.0,0,19,0,4.75
+481875,George Linde,25 May 2022,v Somerset,Canterbury,1,7,29,16,15,2,2,193.33,caught,2,2.0,0,15,0,7.5
+481875,George Linde,27 May 2022,v Essex,Canterbury,1,6,23*,19,11,1,2,209.09,not out,2,4.0,0,30,1,7.5
+481875,George Linde,29 May 2022,v Sussex,Hove,2,7,38*,20,13,2,3,292.3,not out,1,4.0,0,32,1,8
+481875,George Linde,1 Jun 2022,v Gloucs,Bristol,1,7,6,15,7,0,0,85.71,caught,2,3.3,0,27,1,7.71
+481875,George Linde,3 Jun 2022,v Surrey,Canterbury,2,7,13,14,13,1,0,100,caught,1,3.0,0,21,0,7
+481875,George Linde,5 Jun 2022,v Middlesex,Canterbury,1,4,1,6,5,0,0,20,caught,2,4.0,0,26,2,6.5
+481875,George Linde,7 Jun 2022,v Essex,Chelmsford,1,8,18,20,17,0,1,105.88,caught,2,2.3,0,37,1,14.8
+481875,George Linde,10 Jun 2022,v Somerset,Taunton,1,7,23*,21,12,2,1,191.66,not out,2,3.0,0,29,2,9.66
+481875,George Linde,17 Jun 2022,v Hampshire,Southampton,2,7,4,5,4,1,0,100,caught,1,3.0,0,38,0,12.66
+481875,George Linde,19 Jun 2022,v Middlesex,Lord's,1,7,8,10,7,1,0,114.28,bowled,2,4.0,0,23,1,5.75
+481875,George Linde,24 Jun 2022,v Sussex,Canterbury,2,6,24*,21,19,3,0,126.31,not out,1,4.0,0,14,2,3.5
+481875,George Linde,1 Jul 2022,v Surrey,The Oval,1,7,10*,12,6,0,1,166.66,not out,2,3.0,0,30,1,10
+481875,George Linde,3 Jul 2022,v Glamorgan,Canterbury,2,7,21,33,15,2,1,140,caught,1,3.0,0,27,0,9
+481875,George Linde,18 Oct 2022,v Boland,Potchefstroom,1,6,39,47,38,4,0,102.63,caught,2,2.1,0,18,0,8.3
+481875,George Linde,20 Oct 2022,v Knights,Potchefstroom,1,6,5,7,10,0,0,50,stumped,2,3.0,0,25,0,8.33
+481875,George Linde,21 Oct 2022,v Titans,Potchefstroom,2,6,36,32,29,4,0,124.13,run out,1,2.0,0,19,0,9.5
+481875,George Linde,27 Oct 2022,v North West,Potchefstroom,1,3,21,15,12,1,2,175,run out,2,2.0,0,13,0,6.5
+481875,George Linde,29 Oct 2022,v Dolphins,Potchefstroom,1,5,30,46,33,1,1,90.9,bowled,2,2.0,0,15,0,7.5
+481875,George Linde,31 Oct 2022,v Lions,Potchefstroom,2,6,5,10,10,0,0,50,caught,1,4.0,0,29,0,7.25
+481875,George Linde,10 Jan 2023,v Paarl Royals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,8.5
+481875,George Linde,13 Jan 2023,v Super Giants,Cape Town,1,6,33,34,25,0,4,132,caught,2,3.0,0,20,1,6.66
+481875,George Linde,14 Jan 2023,v Super Kings,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,2,6.25
+481875,George Linde,16 Jan 2023,v Sunrisers,Gqeberha,1,6,63*,-,28,4,5,225,not out,2,3.0,0,21,0,7
+481875,George Linde,18 Jan 2023,v Sunrisers,Cape Town,1,4,8,11,8,1,0,100,caught,2,3.0,0,20,0,6.66
+481875,George Linde,21 Jan 2023,v Paarl Royals,Paarl,1,6,24,17,14,2,1,171.42,bowled,2,4.0,0,23,2,5.75
+481875,George Linde,23 Jan 2023,v Capitals,Cape Town,2,5,6,-,5,1,0,120,caught,1,3.0,0,35,0,11.66
+481875,George Linde,2 Feb 2023,v Super Giants,Durban,1,4,5,16,12,0,0,41.66,stumped,2,2.0,0,24,0,12
+481875,George Linde,4 Feb 2023,v Capitals,Centurion,1,5,14,29,18,0,1,77.77,caught,2,DNB,-,-,-,-
+481875,George Linde,6 Feb 2023,v Super Kings,Johannesburg,2,5,4,11,7,1,0,57.14,bowled,1,2.0,0,16,1,8
+481875,George Linde,12 Feb 2023,v Victorians,Mirpur,1,8,13,37,14,0,1,92.85,bowled,2,4.0,0,21,0,5.25
+481875,George Linde,14 Feb 2023,v Rangpur,Mirpur,1,8,21*,16,10,1,2,210,not out,2,4.0,0,33,0,8.25
+481875,George Linde,16 Feb 2023,v Victorians,Mirpur,1,7,9,5,6,1,0,150,caught,2,4.0,1,14,1,3.5
+481875,George Linde,24 May 2023,v Gloucs,Canterbury,2,-,DNB,-,-,-,-,-,-,1,4.0,0,29,0,7.25
+481875,George Linde,26 May 2023,v Surrey,The Oval,2,4,0,5,2,0,0,0,caught,1,4.0,0,50,1,12.5
+481875,George Linde,30 May 2023,v Somerset,Canterbury,2,7,13,12,11,2,0,118.18,bowled,1,2.0,0,16,0,8
+481875,George Linde,2 Jun 2023,v Glamorgan,Cardiff,1,7,26*,17,12,5,0,216.66,not out,2,2.0,0,13,0,6.5
+481875,George Linde,4 Jun 2023,v Surrey,Canterbury,1,7,22*,20,11,2,1,200,not out,2,4.0,0,28,2,7
+481875,George Linde,7 Jun 2023,v Essex,Canterbury,1,7,21,22,19,1,1,110.52,caught,2,4.0,0,27,1,6.75
+481875,George Linde,9 Jun 2023,v Hampshire,Canterbury,2,-,DNB,-,-,-,-,-,-,1,3.0,0,30,0,10
+481875,George Linde,16 Jun 2023,v Middlesex,Lord's,1,4,3,9,4,0,0,75,caught,2,4.0,0,36,1,9
+481875,George Linde,17 Jun 2023,v Gloucs,Bristol,2,-,DNB,-,-,-,-,-,-,1,3.0,0,15,0,5
+481875,George Linde,20 Jun 2023,v Sussex,Hove,2,-,DNB,-,-,-,-,-,-,1,4.0,0,36,0,9
+481875,George Linde,22 Jun 2023,v Essex,Chelmsford,2,-,DNB,-,-,-,-,-,-,1,4.0,0,32,2,8
+481875,George Linde,23 Jun 2023,v Middlesex,Canterbury,1,-,DNB,-,-,-,-,-,-,2,3.0,0,21,3,7
+481875,George Linde,30 Jun 2023,v Sussex,Canterbury,2,5,13,5,4,1,1,325,run out,1,4.0,0,49,2,12.25
+481875,George Linde,2 Jul 2023,v Somerset,Taunton,2,6,4,7,5,0,0,80,caught,1,4.0,0,25,2,6.25
+481875,George Linde,19 Aug 2023,v Trinbago,Gros Islet,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+481875,George Linde,23 Aug 2023,v Tallawahs,Basseterre,1,7,14,13,12,1,0,116.66,caught,2,1.0,0,12,0,12
+481875,George Linde,24 Aug 2023,v Amazon,Basseterre,2,-,sub,-,-,-,-,-,-,1,2.0,0,13,0,6.5
+481875,George Linde,2 Sep 2023,v Amazon,Bridgetown,2,4,13,-,16,2,0,81.25,caught,1,3.0,0,18,1,6
+481875,George Linde,3 Sep 2023,v Royals,Bridgetown,1,-,DNB,-,-,-,-,-,-,2,3.0,0,34,0,11.33
+481875,George Linde,9 Sep 2023,v Kings,Tarouba,2,6,9,12,10,0,1,90,bowled,1,4.0,0,36,0,9
+481875,George Linde,16 Sep 2023,v Tallawahs,Providence,2,7,11,-,7,2,0,157.14,caught,1,4.0,0,33,2,8.25
+481875,George Linde,13 Jan 2024,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,25,2,6.25
+481875,George Linde,16 Jan 2024,v Sunrisers,Cape Town,2,-,DNB,-,-,-,-,-,-,1,2.0,0,23,0,11.5
+481875,George Linde,19 Jan 2024,v Paarl Royals,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,33,1,8.25
+481875,George Linde,21 Jan 2024,v Paarl Royals,Paarl,2,8,0,1,1,0,0,0,bowled,1,4.0,0,26,0,6.5
+481875,George Linde,23 Jan 2024,v Super Giants,Cape Town,2,8,5,15,9,0,0,55.55,caught,1,4.0,0,15,2,3.75
+481875,George Linde,27 Jan 2024,v Sunrisers,Gqeberha,2,8,11*,7,3,1,1,366.66,not out,1,4.0,0,23,0,5.75
+481875,George Linde,29 Jan 2024,v Super Kings,Cape Town,1,-,DNB,-,-,-,-,-,-,2,1.0,0,21,0,21
+481875,George Linde,1 Feb 2024,v Capitals,Centurion,1,-,DNB,-,-,-,-,-,-,2,1.0,0,23,0,23
+481875,George Linde,3 Feb 2024,v Capitals,Cape Town,1,7,5,6,3,1,0,166.66,caught,2,4.0,0,36,2,9
+481875,George Linde,21 Feb 2024,v Sultans,Multan,1,-,DNB,-,-,-,-,-,-,2,4.0,0,26,1,6.5
+481875,George Linde,24 Feb 2024,v Kings,Lahore,1,8,26*,20,13,3,1,200,not out,2,2.0,0,25,0,12.5
+481875,George Linde,27 Feb 2024,v Sultans,Lahore,2,7,5,8,7,0,0,71.42,caught,1,2.0,0,25,0,12.5
+481875,George Linde,10 Mar 2024,v Gladiators,Karachi,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,0,7.5
+481875,George Linde,13 Mar 2024,v North West,Cape Town,1,5,9,15,12,0,0,75,bowled,2,3.0,0,33,0,11
+481875,George Linde,17 Mar 2024,v Lions,Johannesburg,1,6,0,3,1,0,0,0,caught,2,DNB,-,-,-,-
+481875,George Linde,21 Mar 2024,v Warriors,Gqeberha,1,5,46,52,38,3,1,121.05,caught,2,4.0,0,17,1,4.25
+481875,George Linde,23 Mar 2024,v Titans,Johannesburg,2,5,17,20,13,1,1,130.76,caught,1,4.0,0,25,2,6.25
+481875,George Linde,27 Mar 2024,v KZN-Inland,Pietermaritzburg,1,6,5,7,6,0,0,83.33,caught,2,4.0,0,27,0,6.75
+481875,George Linde,31 Mar 2024,v Warriors,Paarl,1,5,30,29,25,1,1,120,caught,2,2.0,0,16,0,8
+481875,George Linde,3 Apr 2024,v Lions,Cape Town,2,6,10,13,14,0,1,71.42,caught,1,4.0,0,34,1,8.5
+481875,George Linde,7 Apr 2024,v Boland,Cape Town,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481875,George Linde,12 Apr 2024,v North West,Potchefstroom (Uni),2,6,20,11,13,2,1,153.84,caught,1,3.0,0,29,2,9.66
+481875,George Linde,14 Apr 2024,v Dolphins,Cape Town,1,6,0,1,1,0,0,0,caught,2,DNB,-,-,-,-
+481875,George Linde,19 Apr 2024,v Boland,Paarl,1,5,34,30,27,2,1,125.92,bowled,2,4.0,0,20,1,5
+481875,George Linde,21 Apr 2024,v Titans,Cape Town,1,5,5,16,10,0,0,50,caught,2,1.0,0,15,0,15
+481875,George Linde,4 Oct 2024,v North West,Potchefstroom,1,5,14,13,12,1,1,116.66,caught,2,4.0,0,24,2,6
+481875,George Linde,6 Oct 2024,v Titans,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,23,2,5.75
+481875,George Linde,9 Oct 2024,v Warriors,Cape Town,1,5,66*,54,31,2,6,212.9,not out,2,2.0,0,19,1,9.5
+481875,George Linde,13 Oct 2024,v Dolphins,Durban,1,6,17,15,12,3,0,141.66,caught,2,2.0,0,17,0,8.5
+481875,George Linde,16 Oct 2024,v Lions,Johannesburg,2,6,6,11,11,1,0,54.54,caught,1,3.0,0,16,1,5.33
+481875,George Linde,18 Oct 2024,v Knights,Cape Town,2,6,18*,9,5,1,2,360,not out,1,4.0,0,33,0,8.25
+481875,George Linde,23 Oct 2024,v North West,Johannesburg,1,6,49*,30,23,1,5,213.04,not out,2,3.3,1,15,3,4.28
+481875,George Linde,25 Oct 2024,v Titans,Centurion,2,6,1,3,2,0,0,50,bowled,1,2.0,0,18,0,9
+481875,George Linde,10 Dec 2024,v Pakistan,Durban,1,7,48,48,24,3,4,200,caught,2,4.0,0,21,4,5.25
+481875,George Linde,13 Dec 2024,v Pakistan,Centurion,2,-,DNB,-,-,-,-,-,-,1,4.0,0,28,1,7
+481875,George Linde,9 Jan 2025,v Sunrisers,Gqeberha,1,6,23*,31,17,1,1,135.29,not out,2,2.0,0,8,1,4
+481875,George Linde,11 Jan 2025,v Super Kings,Johannesburg,1,6,48*,54,35,5,2,137.14,not out,2,DNB,-,-,-,-
+481875,George Linde,13 Jan 2025,v Paarl Royals,Cape Town,1,5,1,4,4,0,0,25,caught,2,4.0,0,15,3,3.75
+481875,George Linde,15 Jan 2025,v Paarl Royals,Paarl,1,4,10,10,10,1,0,100,bowled,2,4.0,0,38,0,9.5
+481875,George Linde,18 Jan 2025,v Super Kings,Cape Town,2,-,DNB,-,-,-,-,-,-,1,4.0,0,39,1,9.75
+481875,George Linde,21 Jan 2025,v Super Giants,Durban,1,-,DNB,-,-,-,-,-,-,-,TDNB,-,-,-,-
+481875,George Linde,25 Jan 2025,v Super Giants,Cape Town,2,5,29*,7,8,1,4,362.5,not out,1,4.0,0,20,1,5
+481875,George Linde,29 Jan 2025,v Sunrisers,Cape Town,2,-,DNB,-,-,-,-,-,-,1,3.0,0,10,0,3.33
+481875,George Linde,2 Feb 2025,v Capitals,Cape Town,1,6,4*,8,3,0,0,133.33,not out,2,2.0,0,11,2,5.5
+481875,George Linde,4 Feb 2025,v Paarl Royals,Gqeberha,1,5,26,13,14,0,3,185.71,caught,2,4.0,0,34,1,8.5
+481875,George Linde,8 Feb 2025,v Sunrisers,Johannesburg,1,5,20,11,14,0,3,142.85,caught,2,4.0,0,20,2,5
+481875,George Linde,14 Apr 2025,v United,Rawalpindi,2,7,0,6,5,0,0,0,caught,1,2.0,0,20,0,10
+481875,George Linde,29 Jun 2025,v Texas,Dallas,2,7,6,-,4,1,0,150,run out,1,4.0,0,42,2,10.5
+481875,George Linde,3 Jul 2025,v Los Angeles,Lauderhill,2,-,DNB,-,-,-,-,-,-,1,3.0,0,13,0,4.33
+481875,George Linde,5 Jul 2025,v Los Angeles,Lauderhill,1,7,13,-,14,1,0,92.85,caught,2,4.0,0,26,0,6.5
+481875,George Linde,14 Jul 2025,v Zimbabwe,Harare,2,7,3*,10,3,0,0,100,not out,1,3.0,0,10,3,3.33
+481875,George Linde,16 Jul 2025,v New Zealand,Harare,2,7,30,41,20,1,2,150,caught,1,1.0,0,13,0,13
+481875,George Linde,20 Jul 2025,v Zimbabwe,Harare,2,-,DNB,-,-,-,-,-,-,1,3.0,0,33,0,11
+481875,George Linde,22 Jul 2025,v New Zealand,Harare,1,7,23*,26,15,1,1,153.33,not out,2,3.0,0,30,0,10
+481875,George Linde,26 Jul 2025,v New Zealand,Harare,2,6,10,29,10,1,0,100,caught,1,1.0,0,9,0,9
+481875,George Linde,10 Aug 2025,v Australia,Darwin,2,6,0,2,3,0,0,0,caught,1,2.0,0,26,1,13
+481875,George Linde,19 Aug 2025,v Originals,Nottingham,2,-,DNB,-,-,-,-,-,-,1,4.0,0,13,0,3.9
+481875,George Linde,21 Aug 2025,v Invincibles,The Oval,1,7,25,11,8,1,3,312.5,caught,2,2.0,0,16,0,9.6
+481875,George Linde,24 Aug 2025,v Fire,Cardiff,2,6,12,7,8,0,1,150,caught,1,3.0,0,22,0,8.8
+481875,George Linde,27 Aug 2025,v Phoenix,Nottingham,2,6,3,7,6,0,0,50,run out,1,3.0,1,12,2,4.8
+481875,George Linde,30 Aug 2025,v N S-Chargers,The Oval,2,-,DNB,-,-,-,-,-,-,1,2.0,0,17,0,10.2
+481875,George Linde,31 Aug 2025,v Invincibles,Lord's,2,6,7,6,6,1,0,116.66,caught,1,3.0,0,24,0,9.6
+481875,George Linde,28 Oct 2025,v Pakistan,Rawalpindi,1,7,36,23,22,4,1,163.63,bowled,2,3.0,0,31,3,10.33
+481875,George Linde,31 Oct 2025,v Pakistan,Lahore,1,7,9,17,13,1,0,69.23,bowled,2,2.0,0,11,0,5.5
+481875,George Linde,1 Nov 2025,v Pakistan,Lahore,1,7,0,1,1,0,0,0,caught,2,4.0,0,20,0,5
+481875,George Linde,13 Nov 2025,v KZN-Inland,Pietermaritzburg,2,-,DNB,-,-,-,-,-,-,1,4.0,0,21,2,5.25
+481875,George Linde,16 Nov 2025,v Dolphins,Cape Town,2,5,28,16,17,3,1,164.7,caught,1,4.0,0,18,1,4.5
+481875,George Linde,21 Nov 2025,v Lions,Cape Town,2,6,29,38,24,1,3,120.83,caught,1,4.0,0,22,0,5.5
+481875,George Linde,26 Nov 2025,v Dolphins,Durban,2,5,1,10,5,0,0,20,caught,1,4.0,1,9,2,2.25
+481875,George Linde,11 Dec 2025,v India,New Chandigarh,1,-,DNB,-,-,-,-,-,-,2,3.0,0,23,0,7.66
+481875,George Linde,19 Dec 2025,v India,Ahmedabad,2,7,16,14,8,0,2,200,bowled,1,4.0,0,46,1,11.5
+481875,George Linde,26 Dec 2025,v Super Giants,Cape Town,2,7,0,4,2,0,0,0,caught,1,4.0,0,46,2,11.5
+481875,George Linde,28 Dec 2025,v Super Giants,Durban,-,-,TDNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+481875,George Linde,31 Dec 2025,v Capitals,Cape Town,2,5,2,15,5,0,0,40,caught,1,3.0,0,22,1,7.33
+481875,George Linde,2 Jan 2026,v Paarl Royals,Paarl,2,7,20*,36,16,2,1,125,not out,1,2.0,0,16,0,8
+481875,George Linde,4 Jan 2026,v Paarl Royals,Cape Town,1,7,1,3,2,0,0,50,caught,2,1.0,0,6,0,6
+481875,George Linde,6 Jan 2026,v Super Kings,Cape Town,2,5,9,7,5,1,0,180,caught,1,2.0,0,19,1,9.5
+481875,George Linde,10 Jan 2026,v Super Kings,Johannesburg,1,-,DNB,-,-,-,-,-,-,2,4.0,0,30,2,7.5
+481875,George Linde,12 Jan 2026,v Capitals,Centurion,2,7,0,3,5,0,0,0,caught,1,3.0,0,19,1,6.33
+481875,George Linde,16 Jan 2026,v Sunrisers,Cape Town,2,5,31,21,18,2,2,172.22,caught,1,4.0,0,34,1,8.5
+481875,George Linde,18 Jan 2026,v Sunrisers,Gqeberha,1,5,30,12,17,0,4,176.47,caught,2,4.0,0,16,0,4
+481875,George Linde,27 Jan 2026,v West Indies,Paarl,2,-,DNB,-,-,-,-,-,-,1,4.0,0,25,3,6.25
+481875,George Linde,31 Jan 2026,v West Indies,Johannesburg,2,5,17,17,9,1,1,188.88,caught,1,2.0,0,9,0,4.5
+481875,George Linde,11 Feb 2026,v Afghanistan,Ahmedabad,1,-,DNB,-,-,-,-,-,-,2,3.0,0,39,1,13
+481875,George Linde,18 Feb 2026,v U.A.E.,Delhi,2,-,DNB,-,-,-,-,-,-,1,4.0,0,17,1,4.25
+481875,George Linde,1 Mar 2026,v Zimbabwe,Delhi,2,7,30*,33,21,2,1,142.85,not out,1,3.0,0,22,1,7.33
+481875,George Linde,15 Mar 2026,v New Zealand,Mount Maunganui,2,-,DNB,-,-,-,-,-,-,1,DNB,-,-,-,-
+481875,George Linde,17 Mar 2026,v New Zealand,Hamilton,2,7,33,27,12,3,3,275,caught,1,3.0,0,33,1,11
+481875,George Linde,20 Mar 2026,v New Zealand,Auckland,1,7,23,30,19,2,1,121.05,caught,2,3.0,0,22,0,7.33
+481875,George Linde,22 Mar 2026,v New Zealand,Wellington,1,7,14*,9,8,2,0,175,not out,2,1.0,0,15,0,15
+481875,George Linde,25 Mar 2026,v New Zealand,Christchurch,1,-,DNB,-,-,-,-,-,-,2,2.0,0,11,0,5.5
+481875,George Linde,12 Apr 2026,v GT,Lucknow,1,8,16,16,10,3,0,160,caught,2,3.0,0,28,0,9.33
