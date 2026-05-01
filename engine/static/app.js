@@ -52,6 +52,22 @@ async function refreshStats() {
 // ---------------------------------------------------------------------------
 // Upcoming / Positions / History / Log (unchanged logic, minor cleanup)
 // ---------------------------------------------------------------------------
+function _previewCell(m) {
+  if (!m.preview) return '<span class="preview-pending">computing…</span>';
+  if (!m.preview.length) return "—";
+  const t1Abbr = TEAM_ABBREVS[m.team1] || m.team1 || "T1";
+  const t2Abbr = TEAM_ABBREVS[m.team2] || m.team2 || "T2";
+  const lines = m.preview.map(s => {
+    const winnerAbbr = s.toss_winner === m.team1 ? t1Abbr : t2Abbr;
+    const t1p = s.team1_win_prob * 100;
+    const fav = t1p >= 50
+      ? `${t1Abbr} ${t1p.toFixed(0)}%`
+      : `${t2Abbr} ${(100 - t1p).toFixed(0)}%`;
+    return `<div class="preview-row"><span class="preview-scen">${winnerAbbr} won, ${s.toss_decision}</span><span class="preview-fav">${fav}</span></div>`;
+  }).join("");
+  return `<div class="preview-block">${lines}</div>`;
+}
+
 async function refreshUpcoming() {
   const data = await fetchJSON("/api/upcoming");
   const body = $("upcoming-body"), empty = $("upcoming-empty");
@@ -59,7 +75,9 @@ async function refreshUpcoming() {
   empty.style.display = "none";
   body.innerHTML = data.map(m => {
     const pred = m.model_prediction;
-    const modelStr = pred ? `${(pred.model_prob*100).toFixed(0)}% ${pred.team}` : "—";
+    const modelStr = pred
+      ? `${(pred.model_prob*100).toFixed(0)}% ${pred.team}`
+      : _previewCell(m);
     const mktStr = pred ? `${(pred.market_price*100).toFixed(0)}¢` : "—";
     const edgeStr = pred ? fmtPct(pred.edge*100) : "—";
     const statusBadge = m.status === "awaiting_toss"

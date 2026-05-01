@@ -209,6 +209,63 @@ def predict(
     }
 
 
+def last_xi_for_team(team: str, matches: list[dict], all_xis: dict) -> dict:
+    """Return the most-recent {player_id: name} XI for ``team``.
+
+    ``matches`` must already be sorted ascending by date.
+    """
+    for m in reversed(matches):
+        if m["match_id"] not in all_xis:
+            continue
+        if m["team1"] == team:
+            return all_xis[m["match_id"]]["team1_xi"]
+        if m["team2"] == team:
+            return all_xis[m["match_id"]]["team2_xi"]
+    return {}
+
+
+def preview_toss_scenarios(
+    team1: str,
+    team2: str,
+    venue: str,
+    city: str,
+) -> list[dict]:
+    """Run ``predict()`` for all four toss-winner / decision combos using each
+    team's last-known playing XI. Informational only, never used for betting.
+    """
+    team1 = normalize_team(team1)
+    team2 = normalize_team(team2)
+
+    matches = load_matches()
+    matches.sort(key=lambda m: m["date"])
+    all_xis = extract_all_xis(matches)
+
+    t1_xi = last_xi_for_team(team1, matches, all_xis)
+    t2_xi = last_xi_for_team(team2, matches, all_xis)
+    if not t1_xi or not t2_xi:
+        return []
+
+    t1_ids = list(t1_xi.keys())
+    t2_ids = list(t2_xi.keys())
+
+    out = []
+    for toss_winner in (team1, team2):
+        for toss_decision in ("bat", "field"):
+            r = predict(
+                team1=team1, team2=team2,
+                venue=venue, city=city,
+                toss_winner=toss_winner, toss_decision=toss_decision,
+                team1_xi=t1_ids, team2_xi=t2_ids,
+            )
+            out.append({
+                "toss_winner": toss_winner,
+                "toss_decision": toss_decision,
+                "team1_win_prob": r["team1_win_prob"],
+                "team2_win_prob": r["team2_win_prob"],
+            })
+    return out
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="IPL Match Winner Prediction")

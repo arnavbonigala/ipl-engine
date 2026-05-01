@@ -32,6 +32,12 @@ _kalshi_odds_ts = 0.0
 _kalshi_markets = []        # from find_ipl_markets
 _kalshi_markets_ts = 0.0
 
+# Pre-toss "all 4 outcomes" preview, computed lazily in a background thread.
+# Informational only -- never feeds into betting.
+_preview_lock = threading.Lock()
+_preview_cache: dict[tuple, list] = {}    # (date, team1, team2) -> 4 scenarios
+_preview_running: set[tuple] = set()
+
 SCORE_POLL_SECS = 3
 ODDS_POLL_SECS = 3
 MARKET_DISCOVERY_SECS = 60
@@ -81,6 +87,34 @@ def _poll_odds():
         except Exception:
             pass
         time.sleep(ODDS_POLL_SECS)
+
+
+def _preview_worker(key: tuple, team1: str, team2: str, venue: str, city: str):
+    try:
+        from predictor.predict import preview_toss_scenarios
+        result = preview_toss_scenarios(team1, team2, venue, city)
+    except Exception:
+        result = []
+    with _preview_lock:
+        _preview_cache[key] = result
+        _preview_running.discard(key)
+
+
+def _ensure_preview(date_str: str, team1: str, team2: str, venue: str, city: str):
+    """Return cached preview for this match or kick off a background compute."""
+    key = (date_str, team1, team2)
+    with _preview_lock:
+        if key in _preview_cache:
+            return _preview_cache[key]
+        if key in _preview_running:
+            return None
+        _preview_running.add(key)
+    threading.Thread(
+        target=_preview_worker,
+        args=(key, team1, team2, venue, city),
+        daemon=True,
+    ).start()
+    return None
 
 
 def _poll_markets():
@@ -188,6 +222,11 @@ def upcoming():
                 entry.update({k: v for k, v in st.items() if v is not None})
                 break
         if entry:
+            if f["team1"] and f["team2"]:
+                entry["preview"] = _ensure_preview(
+                    f["date"], f["team1"], f["team2"],
+                    f.get("venue", ""), f.get("city", ""),
+                )
             results.append(entry)
 
     return sorted(results, key=lambda m: m.get("match_date", ""))[:15]
