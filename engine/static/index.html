@@ -58,10 +58,16 @@
   </div>
 
   <div class="panel full-width" id="upcoming-panel">
-    <h2>Upcoming Matches</h2>
+    <div class="panel-header">
+      <h2>Upcoming Matches</h2>
+      <div class="filter-buttons">
+        <button class="filter-btn" id="upcoming-expand-all">Expand all</button>
+        <button class="filter-btn" id="upcoming-collapse-all">Collapse all</button>
+      </div>
+    </div>
     <table>
       <thead>
-        <tr><th>Date</th><th>Match</th><th>Model</th><th>Market</th><th>Edge</th><th>Status</th></tr>
+        <tr><th></th><th>Date</th><th>Match</th><th>Model</th><th>Market</th><th>Edge</th><th>Status</th></tr>
       </thead>
       <tbody id="upcoming-body"></tbody>
     </table>

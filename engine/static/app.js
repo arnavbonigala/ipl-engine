@@ -52,9 +52,12 @@ async function refreshStats() {
 // ---------------------------------------------------------------------------
 // Upcoming / Positions / History / Log (unchanged logic, minor cleanup)
 // ---------------------------------------------------------------------------
-function _previewCell(m) {
-  if (!m.preview) return '<span class="preview-pending">computing…</span>';
-  if (!m.preview.length) return "—";
+const _upcomingExpanded = new Set();
+function _matchKey(m) { return `${m.match_date||""}|${m.team1||""}|${m.team2||""}`; }
+
+function _previewBlock(m) {
+  if (!m.preview) return '<div class="preview-pending">Computing preview…</div>';
+  if (!m.preview.length) return '<div class="preview-pending">No preview available</div>';
   const t1Abbr = TEAM_ABBREVS[m.team1] || m.team1 || "T1";
   const t2Abbr = TEAM_ABBREVS[m.team2] || m.team2 || "T2";
   const lines = m.preview.map(s => {
@@ -63,9 +66,9 @@ function _previewCell(m) {
     const fav = t1p >= 50
       ? `${t1Abbr} ${t1p.toFixed(0)}%`
       : `${t2Abbr} ${(100 - t1p).toFixed(0)}%`;
-    return `<div class="preview-row"><span class="preview-scen">${winnerAbbr} won, ${s.toss_decision}</span><span class="preview-fav">${fav}</span></div>`;
+    return `<div class="preview-row"><span class="preview-scen">${winnerAbbr} won toss, ${s.toss_decision}</span><span class="preview-fav">${fav}</span></div>`;
   }).join("");
-  return `<div class="preview-block">${lines}</div>`;
+  return `<div class="preview-block"><div class="preview-title">Pre-toss preview · last-known XIs · informational only</div>${lines}</div>`;
 }
 
 async function refreshUpcoming() {
@@ -73,18 +76,27 @@ async function refreshUpcoming() {
   const body = $("upcoming-body"), empty = $("upcoming-empty");
   if (!data.length) { body.innerHTML = ""; empty.style.display = ""; return; }
   empty.style.display = "none";
+
+  const liveKeys = new Set(data.map(_matchKey));
+  for (const k of Array.from(_upcomingExpanded)) {
+    if (!liveKeys.has(k)) _upcomingExpanded.delete(k);
+  }
+
   body.innerHTML = data.map(m => {
     const pred = m.model_prediction;
-    const modelStr = pred
-      ? `${(pred.model_prob*100).toFixed(0)}% ${pred.team}`
-      : _previewCell(m);
+    const modelStr = pred ? `${(pred.model_prob*100).toFixed(0)}% ${pred.team}` : "—";
     const mktStr = pred ? `${(pred.market_price*100).toFixed(0)}¢` : "—";
     const edgeStr = pred ? fmtPct(pred.edge*100) : "—";
     const statusBadge = m.status === "awaiting_toss"
       ? '<span class="badge badge-awaiting">Awaiting toss</span>'
       : pred ? '<span class="badge badge-signal">Signal ready</span>'
       : `<span class="badge">${m.status||"—"}</span>`;
-    return `<tr><td>${m.match_date||""}</td><td>${m.team1||"?"} vs ${m.team2||"?"}</td><td>${modelStr}</td><td>${mktStr}</td><td>${edgeStr}</td><td>${statusBadge}</td></tr>`;
+    const key = _matchKey(m);
+    const open = _upcomingExpanded.has(key);
+    const caret = `<span class="row-caret">${open ? "▾" : "▸"}</span>`;
+    const main = `<tr class="upcoming-row${open ? " open" : ""}" data-key="${key}"><td class="caret-cell">${caret}</td><td>${m.match_date||""}</td><td>${m.team1||"?"} vs ${m.team2||"?"}</td><td>${modelStr}</td><td>${mktStr}</td><td>${edgeStr}</td><td>${statusBadge}</td></tr>`;
+    const detail = `<tr class="upcoming-detail${open ? "" : " hidden"}" data-key="${key}"><td></td><td colspan="6">${_previewBlock(m)}</td></tr>`;
+    return main + detail;
   }).join("");
 }
 
@@ -486,13 +498,34 @@ async function refresh() {
   } catch (e) { console.error("Refresh error:", e); }
 }
 
-document.querySelectorAll(".filter-btn").forEach(btn => {
+document.querySelectorAll("#history-panel .filter-btn").forEach(btn => {
   btn.addEventListener("click", () => {
-    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll("#history-panel .filter-btn").forEach(b => b.classList.remove("active"));
     btn.classList.add("active");
     _historyFilter = btn.dataset.filter;
     renderHistory();
   });
+});
+
+$("upcoming-body").addEventListener("click", e => {
+  const row = e.target.closest("tr.upcoming-row");
+  if (!row) return;
+  const key = row.dataset.key;
+  if (_upcomingExpanded.has(key)) _upcomingExpanded.delete(key);
+  else _upcomingExpanded.add(key);
+  refreshUpcoming();
+});
+
+$("upcoming-expand-all").addEventListener("click", () => {
+  document.querySelectorAll("#upcoming-body tr.upcoming-row").forEach(tr => {
+    if (tr.dataset.key) _upcomingExpanded.add(tr.dataset.key);
+  });
+  refreshUpcoming();
+});
+
+$("upcoming-collapse-all").addEventListener("click", () => {
+  _upcomingExpanded.clear();
+  refreshUpcoming();
 });
 
 refresh();
