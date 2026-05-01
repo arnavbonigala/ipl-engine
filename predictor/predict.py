@@ -210,17 +210,23 @@ def predict(
 
 
 def last_xi_for_team(team: str, matches: list[dict], all_xis: dict) -> dict:
-    """Return the most-recent {player_id: name} XI for ``team``.
+    """Return the most-recent non-empty {player_id: name} XI for ``team``.
 
-    ``matches`` must already be sorted ascending by date.
+    ``matches`` must already be sorted ascending by date. Skips matches whose
+    ball-by-ball file has not been ingested yet (stub CSVs leave empty XIs).
     """
     for m in reversed(matches):
-        if m["match_id"] not in all_xis:
+        entry = all_xis.get(m["match_id"])
+        if not entry:
             continue
         if m["team1"] == team:
-            return all_xis[m["match_id"]]["team1_xi"]
-        if m["team2"] == team:
-            return all_xis[m["match_id"]]["team2_xi"]
+            xi = entry.get("team1_xi") or {}
+        elif m["team2"] == team:
+            xi = entry.get("team2_xi") or {}
+        else:
+            continue
+        if xi:
+            return xi
     return {}
 
 
